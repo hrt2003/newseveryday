@@ -86,8 +86,8 @@ class Pipeline:
         Returns:
             生成的主输出文件路径。
         """
-        today = date.today()
         start_time = datetime.now(BEIJING_TZ)
+        today = start_time.date()
 
         step_count = 7 if output_html else 6
         logger.info("=" * 60)
