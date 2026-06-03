@@ -1,0 +1,602 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>全球新闻日报 — {report_date}</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;600;700;900&family=Noto+Sans+SC:wght@300;400;500;700&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+/* ═══════════════════════════════════════════════════════════════════
+   THE GLOBAL BRIEF — Editorial Bauhaus
+   设计理念: 高端周日报纸副刊 × 瑞士排版 × 东方留白
+   ═══════════════════════════════════════════════════════════════════ */
+
+:root {{
+    /* Light theme — warm editorial palette */
+    --bg:             #faf9f6;
+    --bg-secondary:   #f3f1ec;
+    --surface:        #ffffff;
+    --surface-hover:  #fdfcf9;
+    --text-primary:   #1c1917;
+    --text-secondary: #5c5a57;
+    --text-tertiary:  #8c8a85;
+    --border:         #e7e4df;
+    --border-light:   #f0ede8;
+    --rule:           #d4d0c9;
+
+    /* Category accents */
+    --accent-tech:    #2563eb;
+    --accent-tech-bg: #eff6ff;
+    --accent-politics:#c2410c;
+    --accent-politics-bg:#fff7ed;
+    --accent-economy: #b45309;
+    --accent-economy-bg:#fffbeb;
+    --accent-travel:  #047857;
+    --accent-travel-bg:#ecfdf5;
+
+    /* Misc */
+    --shadow-sm: 0 1px 3px rgba(0,0,0,0.04), 0 1px 2px rgba(0,0,0,0.03);
+    --shadow-md: 0 4px 16px rgba(0,0,0,0.05), 0 1px 4px rgba(0,0,0,0.04);
+    --shadow-lg: 0 12px 40px rgba(0,0,0,0.08), 0 2px 8px rgba(0,0,0,0.04);
+    --radius-sm: 6px;
+    --radius-md: 12px;
+    --radius-lg: 20px;
+    --max-width: 880px;
+}}
+
+@media (prefers-color-scheme: dark) {{
+    :root {{
+        --bg:             #171717;
+        --bg-secondary:   #1f1d1a;
+        --surface:        #24221f;
+        --surface-hover:  #2a2824;
+        --text-primary:   #e8e4e0;
+        --text-secondary: #a8a5a0;
+        --text-tertiary:  #787570;
+        --border:         #33302b;
+        --border-light:   #2a2824;
+        --rule:           #3d3a34;
+
+        --accent-tech-bg:    #1e293b;
+        --accent-politics-bg:#2d1f1a;
+        --accent-economy-bg: #2d2418;
+        --accent-travel-bg:  #1a2d24;
+
+        --shadow-sm: 0 1px 3px rgba(0,0,0,0.2);
+        --shadow-md: 0 4px 16px rgba(0,0,0,0.25);
+        --shadow-lg: 0 12px 40px rgba(0,0,0,0.3);
+    }}
+}}
+
+/* ═══════════════════ Reset & Base ═══════════════════ */
+
+*, *::before, *::after {{ margin:0; padding:0; box-sizing:border-box; }}
+
+html {{ scroll-behavior: smooth; -webkit-font-smoothing: antialiased; }}
+
+body {{
+    font-family: 'Noto Sans SC', -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+    background: var(--bg);
+    color: var(--text-primary);
+    line-height: 1.75;
+    min-height: 100vh;
+    background-image:
+        radial-gradient(ellipse at 20% 0%, rgba(120,120,120,0.03) 0%, transparent 60%),
+        radial-gradient(ellipse at 80% 100%, rgba(120,120,120,0.03) 0%, transparent 60%);
+}}
+
+/* ═══════════════════ Typography ═══════════════════ */
+
+.serif {{ font-family: 'Noto Serif SC', 'SimSun', 'STSong', serif; }}
+
+/* ═══════════════════ Masthead ═══════════════════ */
+
+.masthead {{
+    padding: 56px 24px 40px;
+    text-align: center;
+    border-bottom: 1px solid var(--rule);
+    position: relative;
+}}
+
+.masthead::after {{
+    content: '';
+    position: absolute;
+    bottom: -1px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 60px;
+    height: 2px;
+    background: var(--text-primary);
+    opacity: 0.3;
+}}
+
+.masthead .overline {{
+    font-family: 'DM Mono', 'SF Mono', 'Consolas', monospace;
+    font-size: 0.7rem;
+    letter-spacing: 0.35em;
+    text-transform: uppercase;
+    color: var(--text-tertiary);
+    margin-bottom: 16px;
+}}
+
+.masthead h1 {{
+    font-family: 'Noto Serif SC', serif;
+    font-size: clamp(2rem, 6vw, 3.2rem);
+    font-weight: 900;
+    letter-spacing: 0.04em;
+    line-height: 1.2;
+    color: var(--text-primary);
+    margin-bottom: 8px;
+}}
+
+.masthead .dateline {{
+    font-size: 0.9rem;
+    color: var(--text-tertiary);
+    letter-spacing: 0.05em;
+    margin-top: 8px;
+}}
+
+.masthead .dateline span {{
+    margin: 0 12px;
+    opacity: 0.5;
+}}
+
+/* ═══════════════════ Main Content ═══════════════════ */
+
+.main-container {{
+    max-width: var(--max-width);
+    margin: 0 auto;
+    padding: 32px 24px 80px;
+}}
+
+/* ═══════════════════ Overall Digest (Hero) ═══════════════════ */
+
+.overall-digest {{
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    padding: 36px 40px;
+    margin-bottom: 48px;
+    box-shadow: var(--shadow-lg);
+    position: relative;
+    overflow: hidden;
+}}
+
+.overall-digest::before {{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 4px;
+    height: 100%;
+    background: linear-gradient(180deg, var(--accent-politics), var(--accent-economy), var(--accent-tech), var(--accent-travel));
+    border-radius: var(--radius-lg) 0 0 var(--radius-lg);
+}}
+
+.overall-digest .label {{
+    font-family: 'DM Mono', monospace;
+    font-size: 0.65rem;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    color: var(--text-tertiary);
+    margin-bottom: 16px;
+    display: block;
+}}
+
+.overall-digest p {{
+    font-family: 'Noto Serif SC', serif;
+    font-size: clamp(1rem, 2.5vw, 1.2rem);
+    line-height: 1.9;
+    color: var(--text-primary);
+    letter-spacing: 0.02em;
+}}
+
+/* ═══════════════════ Category Cards ═══════════════════ */
+
+.category-card {{
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    padding: 36px 40px;
+    margin-bottom: 28px;
+    box-shadow: var(--shadow-md);
+    transition: box-shadow 0.3s ease, transform 0.2s ease;
+    position: relative;
+    animation: fadeInUp 0.6s ease both;
+}}
+
+.category-card:nth-child(1) {{ animation-delay: 0.1s; }}
+.category-card:nth-child(2) {{ animation-delay: 0.2s; }}
+.category-card:nth-child(3) {{ animation-delay: 0.3s; }}
+.category-card:nth-child(4) {{ animation-delay: 0.4s; }}
+
+.category-card:hover {{
+    box-shadow: var(--shadow-lg);
+    transform: translateY(-2px);
+}}
+
+@keyframes fadeInUp {{
+    from {{ opacity: 0; transform: translateY(24px); }}
+    to   {{ opacity: 1; transform: translateY(0); }}
+}}
+
+/* Category header */
+.category-header {{
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid var(--border-light);
+}}
+
+.category-dot {{
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    flex-shrink: 0;
+}}
+
+.dot-tech     {{ background: var(--accent-tech);    box-shadow: 0 0 0 4px var(--accent-tech-bg); }}
+.dot-politics {{ background: var(--accent-politics); box-shadow: 0 0 0 4px var(--accent-politics-bg); }}
+.dot-economy  {{ background: var(--accent-economy);  box-shadow: 0 0 0 4px var(--accent-economy-bg); }}
+.dot-travel   {{ background: var(--accent-travel);   box-shadow: 0 0 0 4px var(--accent-travel-bg); }}
+
+.category-header h2 {{
+    font-family: 'Noto Serif SC', serif;
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: var(--text-primary);
+    letter-spacing: 0.03em;
+}}
+
+.category-header .article-count {{
+    font-family: 'DM Mono', monospace;
+    font-size: 0.7rem;
+    color: var(--text-tertiary);
+    margin-left: auto;
+    letter-spacing: 0.1em;
+}}
+
+/* Category summary blockquote */
+.category-summary {{
+    background: var(--bg-secondary);
+    border-radius: var(--radius-md);
+    padding: 16px 20px;
+    margin-bottom: 24px;
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+    line-height: 1.7;
+    position: relative;
+}}
+
+.category-summary::before {{
+    content: 'TL;DR';
+    font-family: 'DM Mono', monospace;
+    font-size: 0.6rem;
+    letter-spacing: 0.25em;
+    color: var(--text-tertiary);
+    display: block;
+    margin-bottom: 6px;
+}}
+
+.fallback-note {{
+    font-size: 0.8rem;
+    color: var(--accent-politics);
+    margin-bottom: 12px;
+    padding: 8px 14px;
+    background: var(--accent-politics-bg);
+    border-radius: var(--radius-sm);
+    display: inline-block;
+}}
+
+/* News items */
+.news-item {{
+    padding: 22px 0;
+    border-bottom: 1px solid var(--border-light);
+    transition: background 0.2s ease;
+}}
+
+.news-item:last-child {{ border-bottom: none; padding-bottom: 0; }}
+
+.news-item:hover {{ background: var(--surface-hover); margin: 0 -12px; padding-left: 12px; padding-right: 12px; border-radius: var(--radius-sm); }}
+
+.news-item h3 {{
+    font-family: 'Noto Serif SC', serif;
+    font-size: 1.08rem;
+    font-weight: 600;
+    line-height: 1.55;
+    margin-bottom: 8px;
+    color: var(--text-primary);
+    letter-spacing: 0.02em;
+}}
+
+.news-item h3 .item-num {{
+    display: inline-block;
+    font-family: 'DM Mono', monospace;
+    font-size: 0.7rem;
+    font-weight: 500;
+    color: var(--text-tertiary);
+    min-width: 20px;
+    margin-right: 4px;
+}}
+
+.news-item .item-summary {{
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+    line-height: 1.7;
+    margin-bottom: 10px;
+}}
+
+.news-item .item-meta {{
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex-wrap: wrap;
+}}
+
+.news-item .item-link {{
+    font-size: 0.8rem;
+    color: var(--accent-tech);
+    text-decoration: none;
+    font-weight: 500;
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    transition: gap 0.2s ease;
+}}
+
+.news-item .item-link:hover {{
+    gap: 8px;
+    text-decoration: underline;
+}}
+
+.news-item .item-link::after {{
+    content: '↗';
+    font-size: 0.7rem;
+    opacity: 0.6;
+}}
+
+.news-item .item-source {{
+    font-size: 0.75rem;
+    color: var(--text-tertiary);
+    letter-spacing: 0.03em;
+}}
+
+.news-item .item-source::before {{
+    content: '— ';
+}}
+
+/* Tech category overrides */
+.category-card.technology .news-item .item-link {{ color: var(--accent-tech); }}
+.category-card.politics  .news-item .item-link {{ color: var(--accent-politics); }}
+.category-card.economy   .news-item .item-link {{ color: var(--accent-economy); }}
+.category-card.travel    .news-item .item-link {{ color: var(--accent-travel); }}
+
+.no-news {{
+    color: var(--text-tertiary);
+    font-style: italic;
+    padding: 20px 0;
+    text-align: center;
+    font-size: 0.9rem;
+}}
+
+/* ═══════════════════ Sources Section ═══════════════════ */
+
+.sources-section {{
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    padding: 32px 40px;
+    margin-bottom: 28px;
+    box-shadow: var(--shadow-sm);
+}}
+
+.sources-section h2 {{
+    font-family: 'Noto Serif SC', serif;
+    font-size: 1.15rem;
+    font-weight: 700;
+    margin-bottom: 20px;
+    letter-spacing: 0.03em;
+}}
+
+.sources-table {{
+    width: 100%;
+    border-collapse: collapse;
+}}
+
+.sources-table td {{
+    padding: 10px 0;
+    border-bottom: 1px solid var(--border-light);
+    font-size: 0.88rem;
+    vertical-align: top;
+}}
+
+.sources-table td:first-child {{
+    white-space: nowrap;
+    width: 25%;
+    font-weight: 500;
+    color: var(--text-primary);
+    padding-right: 20px;
+}}
+
+.sources-table td:last-child {{
+    color: var(--text-secondary);
+}}
+
+.sources-table tr:last-child td {{
+    border-bottom: none;
+}}
+
+/* ═══════════════════ Errors Section ═══════════════════ */
+
+.errors-section {{
+    background: var(--accent-politics-bg);
+    border: 1px solid rgba(194,65,12,0.2);
+    border-radius: var(--radius-lg);
+    padding: 28px 36px;
+    margin-bottom: 28px;
+}}
+
+.errors-section h2 {{
+    font-family: 'Noto Serif SC', serif;
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--accent-politics);
+    margin-bottom: 12px;
+}}
+
+.errors-section ul {{
+    list-style: none;
+    padding: 0;
+}}
+
+.errors-section li {{
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+    padding: 6px 0;
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+}}
+
+.errors-section li::before {{
+    content: '×';
+    color: var(--accent-politics);
+    font-weight: 700;
+    font-size: 1rem;
+}}
+
+/* ═══════════════════ Footer ═══════════════════ */
+
+.site-footer {{
+    max-width: var(--max-width);
+    margin: 0 auto;
+    padding: 0 24px 60px;
+    text-align: center;
+}}
+
+.site-footer .divider {{
+    width: 40px;
+    height: 1px;
+    background: var(--rule);
+    margin: 0 auto 24px;
+}}
+
+.site-footer p {{
+    font-size: 0.78rem;
+    color: var(--text-tertiary);
+    line-height: 1.8;
+    letter-spacing: 0.03em;
+}}
+
+.site-footer .mono {{
+    font-family: 'DM Mono', monospace;
+    font-size: 0.7rem;
+    letter-spacing: 0.2em;
+}}
+
+/* ═══════════════════ Responsive ═══════════════════ */
+
+@media (max-width: 640px) {{
+    .masthead {{
+        padding: 40px 20px 32px;
+    }}
+
+    .masthead h1 {{
+        font-size: 1.8rem;
+    }}
+
+    .main-container {{
+        padding: 24px 12px 60px;
+    }}
+
+    .overall-digest {{
+        padding: 28px 24px;
+        margin-bottom: 32px;
+    }}
+
+    .category-card {{
+        padding: 24px 20px;
+        margin-bottom: 20px;
+    }}
+
+    .category-header h2 {{
+        font-size: 1.2rem;
+    }}
+
+    .news-item h3 {{
+        font-size: 1rem;
+    }}
+
+    .news-item:hover {{
+        margin: 0 -8px;
+        padding-left: 8px;
+        padding-right: 8px;
+    }}
+
+    .sources-section {{
+        padding: 24px 20px;
+    }}
+
+    .sources-table td:first-child {{
+        width: 35%;
+    }}
+}}
+
+/* ═══════════════════ Print Styles ═══════════════════ */
+
+@media print {{
+    body {{ background: white; }}
+    .category-card, .overall-digest, .sources-section {{ box-shadow: none; break-inside: avoid; }}
+    .news-item .item-link {{ color: inherit; }}
+}}
+</style>
+</head>
+<body>
+
+<!-- ═══════════════════ Masthead ═══════════════════ -->
+<header class="masthead">
+    <div class="overline">The Global Brief</div>
+    <h1>全球新闻日报</h1>
+    <div class="dateline">
+        {report_date}<span>·</span>更新于 {gen_time}
+    </div>
+</header>
+
+<!-- ═══════════════════ Main Content ═══════════════════ -->
+<main class="main-container">
+
+    <!-- Overall Digest Hero -->
+    <section class="overall-digest">
+        <span class="label">今日摘要</span>
+        <p>{overall_digest}</p>
+    </section>
+
+    <!-- Category Cards -->
+    {category_cards}
+
+    <!-- Sources -->
+    <section class="sources-section">
+        <h2>📊 数据来源</h2>
+        <table class="sources-table">
+            {sources_rows}
+        </table>
+    </section>
+
+    <!-- Errors (if any) -->
+    {errors_html}
+
+</main>
+
+<!-- ═══════════════════ Footer ═══════════════════ -->
+<footer class="site-footer">
+    <div class="divider"></div>
+    <p>本日报由脚本自动生成，内容由 <strong>DeepSeek AI</strong> 翻译与摘要</p>
+    <p class="mono">所有新闻版权归原来源所有 &nbsp;·&nbsp; Generated by Daily News Digest</p>
+</footer>
+
+</body>
+</html>

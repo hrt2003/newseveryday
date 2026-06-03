@@ -1,0 +1,54 @@
+{
+  "feeds": {
+    "Technology": [
+      {"name": "TechCrunch", "url": "https://techcrunch.com/feed/"},
+      {"name": "The Verge", "url": "https://www.theverge.com/rss/index.xml"},
+      {"name": "Ars Technica", "url": "https://feeds.arstechnica.com/arstechnica/index"}
+    ],
+    "Politics": [
+      {"name": "BBC World", "url": "https://feeds.bbci.co.uk/news/world/rss.xml"},
+      {"name": "The Guardian", "url": "https://www.theguardian.com/world/rss"},
+      {"name": "Al Jazeera", "url": "https://www.aljazeera.com/xml/rss/all.xml"}
+    ],
+    "Economy": [
+      {"name": "CNBC Top News", "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html"},
+      {"name": "MarketWatch", "url": "https://feeds.marketwatch.com/marketwatch/topstories"},
+      {"name": "NPR Business", "url": "https://feeds.npr.org/1006/rss.xml"}
+    ],
+    "Travel": [
+      {"name": "Skift", "url": "https://skift.com/feed/"},
+      {"name": "The Points Guy", "url": "https://thepointsguy.com/feed/"}
+    ]
+  },
+  "source_priority": [
+    "BBC World", "The Guardian", "Al Jazeera",
+    "CNBC Top News", "MarketWatch", "NPR Business",
+    "TechCrunch", "The Verge", "Ars Technica",
+    "Skift", "The Points Guy"
+  ],
+  "dedup": {
+    "similarity_threshold": 0.6,
+    "per_category": true
+  },
+  "fetch": {
+    "max_articles_per_feed": 8,
+    "request_timeout_seconds": 30,
+    "max_retries": 2,
+    "retry_backoff_factor": 2.0
+  },
+  "deepseek": {
+    "base_url": "https://api.deepseek.com/v1",
+    "model": "deepseek-chat",
+    "temperature": 0.3,
+    "max_tokens": 4096,
+    "request_timeout_seconds": 90
+  },
+  "output": {
+    "directory": "output",
+    "filename_template": "{date}-news-digest.md"
+  },
+  "email": {
+    "enabled": false,
+    "subject_template": "Daily News Digest - {date}"
+  }
+}
