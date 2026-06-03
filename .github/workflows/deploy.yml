@@ -2,8 +2,8 @@ name: Deploy News Digest to GitHub Pages
 
 on:
   schedule:
-    # 每 3 小时刷新一次
-    - cron: '0 */3 * * *'
+    # 每 6 小时刷新一次
+    - cron: '0 */6 * * *'
   push:
     branches: [main, master]
   workflow_dispatch:

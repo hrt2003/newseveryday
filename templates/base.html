@@ -131,6 +131,50 @@ body {{
 
 .masthead .dateline span {{ margin: 0 10px; opacity: 0.5; }}
 
+/* Refresh button */
+.refresh-area {{
+    margin-top: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    flex-wrap: wrap;
+    animation: fadeInUp 0.4s ease;
+}}
+
+.refresh-hint {{
+    font-size: 0.78rem;
+    color: var(--text-tertiary);
+    letter-spacing: 0.04em;
+}}
+
+.refresh-btn {{
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 8px 20px;
+    border: 1px solid var(--border);
+    border-radius: 100px;
+    background: var(--surface);
+    color: var(--text-primary);
+    font-family: 'DM Mono', monospace;
+    font-size: 0.68rem;
+    letter-spacing: 0.15em;
+    text-decoration: none;
+    cursor: pointer;
+    transition: all 0.25s ease;
+}}
+
+.refresh-btn:hover {{
+    background: var(--text-primary);
+    color: var(--bg);
+    border-color: var(--text-primary);
+    transform: translateY(-1px);
+    box-shadow: var(--shadow-md);
+}}
+
+.refresh-btn:active {{ transform: translateY(0); }}
+
 /* ═══════════════════ Main Container ═══════════════════ */
 
 .main-container {{
@@ -673,7 +717,15 @@ body {{
     <div class="overline">The Global Brief</div>
     <h1>全球新闻日报</h1>
     <div class="dateline">
-        {report_date}<span>·</span>更新于 {gen_time}
+        {report_date}<span>·</span>更新于 <time id="update-time" datetime="{gen_time}">{gen_time}</time>
+    </div>
+    <div class="refresh-area" id="refresh-area" style="display:none">
+        <span class="refresh-hint" id="refresh-hint"></span>
+        <a class="refresh-btn" id="refresh-btn"
+           href="https://github.com/hrt2003/newseveryday/actions/workflows/deploy.yml"
+           target="_blank" rel="noopener">
+            🔄 手动刷新
+        </a>
     </div>
 </header>
 
@@ -788,6 +840,41 @@ body {{
             }}
         }});
     }});
+
+    // ── 手动刷新控制 ──
+    (function() {{
+        var timeEl = document.getElementById('update-time');
+        var area = document.getElementById('refresh-area');
+        var hint = document.getElementById('refresh-hint');
+        if (!timeEl || !area) return;
+
+        var dtStr = timeEl.getAttribute('datetime') || timeEl.textContent.trim();
+        // 解析 "2026-06-04 14:30" 格式
+        var parts = dtStr.match(/(\d{{4}})-(\d{{2}})-(\d{{2}})\s+(\d{{2}}):(\d{{2}})/);
+        if (!parts) return;
+
+        var lastUpdate = new Date(
+            parseInt(parts[1]), parseInt(parts[2]) - 1, parseInt(parts[3]),
+            parseInt(parts[4]), parseInt(parts[5]), 0
+        );
+        var now = new Date();
+        var diffMs = now - lastUpdate;
+        var diffHours = diffMs / (1000 * 60 * 60);
+
+        // 距离上次更新 > 2 小时才显示手动刷新
+        if (diffHours >= 2) {{
+            var elapsed;
+            if (diffHours < 3) {{
+                elapsed = '2小时前';
+            }} else if (diffHours < 6) {{
+                elapsed = Math.floor(diffHours) + '小时前';
+            }} else {{
+                elapsed = Math.floor(diffHours / 6) + '次更新周期前';
+            }}
+            hint.textContent = '上次更新: ' + elapsed + ' · 可手动触发刷新';
+            area.style.display = 'flex';
+        }}
+    }})();
 }})();
 </script>
 
