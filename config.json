@@ -3,28 +3,39 @@
     "Technology": [
       {"name": "TechCrunch", "url": "https://techcrunch.com/feed/"},
       {"name": "The Verge", "url": "https://www.theverge.com/rss/index.xml"},
-      {"name": "Ars Technica", "url": "https://feeds.arstechnica.com/arstechnica/index"}
+      {"name": "Ars Technica", "url": "https://feeds.arstechnica.com/arstechnica/index"},
+      {"name": "Wired", "url": "https://www.wired.com/feed/rss"},
+      {"name": "The Register", "url": "https://www.theregister.com/headlines.atom"},
+      {"name": "Hacker News", "url": "https://hnrss.org/frontpage"}
     ],
     "Politics": [
       {"name": "BBC World", "url": "https://feeds.bbci.co.uk/news/world/rss.xml"},
       {"name": "The Guardian", "url": "https://www.theguardian.com/world/rss"},
-      {"name": "Al Jazeera", "url": "https://www.aljazeera.com/xml/rss/all.xml"}
+      {"name": "Al Jazeera", "url": "https://www.aljazeera.com/xml/rss/all.xml"},
+      {"name": "NPR World", "url": "https://feeds.npr.org/1004/rss.xml"},
+      {"name": "France 24", "url": "https://www.france24.com/en/rss"},
+      {"name": "Deutsche Welle", "url": "https://rss.dw.com/rdf/rss-en-world"}
     ],
     "Economy": [
       {"name": "CNBC Top News", "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html"},
       {"name": "MarketWatch", "url": "https://feeds.marketwatch.com/marketwatch/topstories"},
-      {"name": "NPR Business", "url": "https://feeds.npr.org/1006/rss.xml"}
+      {"name": "NPR Business", "url": "https://feeds.npr.org/1006/rss.xml"},
+      {"name": "Yahoo Finance", "url": "https://finance.yahoo.com/news/rssindex"},
+      {"name": "Investing.com", "url": "https://www.investing.com/rss/news.rss"},
+      {"name": "The Economist", "url": "https://www.economist.com/finance-and-economics/rss.xml"}
     ],
     "Travel": [
       {"name": "Skift", "url": "https://skift.com/feed/"},
-      {"name": "The Points Guy", "url": "https://thepointsguy.com/feed/"}
+      {"name": "The Points Guy", "url": "https://thepointsguy.com/feed/"},
+      {"name": "Nomadic Matt", "url": "https://www.nomadicmatt.com/travel-blog/feed/"},
+      {"name": "Travel Off Path", "url": "https://www.traveloffpath.com/feed/"}
     ]
   },
   "source_priority": [
-    "BBC World", "The Guardian", "Al Jazeera",
-    "CNBC Top News", "MarketWatch", "NPR Business",
-    "TechCrunch", "The Verge", "Ars Technica",
-    "Skift", "The Points Guy"
+    "BBC World", "The Guardian", "Al Jazeera", "NPR World", "France 24", "Deutsche Welle",
+    "CNBC Top News", "MarketWatch", "NPR Business", "Yahoo Finance", "Investing.com", "The Economist",
+    "TechCrunch", "The Verge", "Ars Technica", "Wired", "The Register", "Hacker News",
+    "Skift", "The Points Guy", "Nomadic Matt", "Travel Off Path"
   ],
   "dedup": {
     "similarity_threshold": 0.6,
@@ -40,7 +51,7 @@
     "base_url": "https://api.deepseek.com/v1",
     "model": "deepseek-chat",
     "temperature": 0.3,
-    "max_tokens": 4096,
+    "max_tokens": 16384,
     "request_timeout_seconds": 90
   },
   "output": {

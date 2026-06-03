@@ -141,6 +141,10 @@ class Formatter:
 
     # ── HTML 输出（基于精美模板）─────────────────────────────────
 
+    # 精华头条来源优先级（取各分类第1篇）
+    FEATURED_ORDER = ["Politics", "Economy", "Technology"]
+    FEATURED_FALLBACK = "Travel"
+
     def build_html(
         self,
         report_date: date,
@@ -149,7 +153,7 @@ class Formatter:
         fetch_errors: dict[str, list[str]] | None = None,
         generation_time: datetime | None = None,
     ) -> str:
-        """使用 templates/base.html 模板构建精美 HTML 网页。"""
+        """使用 templates/base.html 模板构建模块化 HTML 网页。"""
         gen_time = generation_time or datetime.now()
         fetch_errors = fetch_errors or {}
 
@@ -158,11 +162,12 @@ class Formatter:
         if template_path.exists():
             template = template_path.read_text(encoding="utf-8")
         else:
-            # 回退：模板文件不存在时使用简化版本
             template = _FALLBACK_TEMPLATE
 
-        # 生成各 HTML 片段
-        category_cards = self._build_category_cards(category_digests)
+        # 生成各 HTML 片段（模块化布局）
+        digest_map = {cd.category: cd for cd in category_digests}
+        featured_stories = self._build_featured_stories(digest_map)
+        category_modules = self._build_category_modules(category_digests)
         sources_rows = self._build_sources_rows(category_digests)
         errors_html = self._build_errors_html(fetch_errors)
 
@@ -171,13 +176,125 @@ class Formatter:
             report_date=report_date.strftime("%Y年%m月%d日"),
             gen_time=gen_time.strftime("%Y-%m-%d %H:%M"),
             overall_digest=_escape_html(overall_digest),
-            category_cards=category_cards,
+            featured_stories=featured_stories,
+            category_modules=category_modules,
             sources_rows=sources_rows,
             errors_html=errors_html,
         )
 
+    def _build_featured_stories(
+        self, digest_map: dict[str, CategoryDigest]
+    ) -> str:
+        """生成 3 张精华头条卡片（政治/经济/科技各取第1篇）。"""
+        cards = []
+        used_ids: set[str] = set()  # 避免同一篇文章重复出现
+
+        for cat in self.FEATURED_ORDER:
+            cd = digest_map.get(cat)
+            article = None
+            if cd and cd.articles:
+                article = cd.articles[0]
+                used_ids.add(article.link)
+
+            if not article and self.FEATURED_FALLBACK:
+                # 用 Travel 替补
+                fd = digest_map.get(self.FEATURED_FALLBACK)
+                if fd and fd.articles:
+                    for a in fd.articles:
+                        if a.link not in used_ids:
+                            article = a
+                            used_ids.add(a.link)
+                            break
+
+            if article:
+                cn_name = CATEGORY_NAMES_CN.get(cat, cat)
+                cat_key = cat.lower()
+                cards.append(f"""\
+                <article class="feature-card {cat_key}">
+                    <div class="feature-badge">{cn_name}</div>
+                    <h3>{_escape_html(article.translated_title)}</h3>
+                    <p class="feature-summary">{_escape_html(article.translated_summary)}</p>
+                    <div class="feature-meta">
+                        <a href="{_escape_html(article.link)}" target="_blank" rel="noopener">阅读原文 ↗</a>
+                        <span>{_escape_html(article.source_name)}</span>
+                    </div>
+                </article>""")
+
+        return "\n".join(cards) if cards else '<p class="no-news">暂无精华头条。</p>'
+
+    def _build_category_modules(
+        self, category_digests: list[CategoryDigest]
+    ) -> str:
+        """生成 2×2 可折叠分类模块。"""
+        modules = []
+        for cd in category_digests:
+            cn_name = CATEGORY_NAMES_CN.get(cd.category, cd.category)
+            css_class = CAT_CSS_CLASS.get(cd.category, "politics")
+            dot_class = CAT_DOT_CLASS.get(cd.category, "dot-politics")
+            cat_id = cd.category.lower()
+
+            article_count = len(cd.articles)
+
+            if cd.articles:
+                # 预览区：只显示前 2 篇
+                preview_html = ""
+                for i, a in enumerate(cd.articles[:2], 1):
+                    preview_html += f"""\
+                    <div class="preview-item">
+                        <span class="preview-num">{i:02d}</span>
+                        <span class="preview-title">{_escape_html(a.translated_title)}</span>
+                    </div>"""
+
+                # 完整区：显示全部（默认隐藏）
+                full_html = ""
+                for i, a in enumerate(cd.articles, 1):
+                    full_html += f"""\
+                    <article class="news-item">
+                        <h3><span class="item-num">{i:02d}</span> {_escape_html(a.translated_title)}</h3>
+                        <p class="item-summary">{_escape_html(a.translated_summary)}</p>
+                        <div class="item-meta">
+                            <a href="{_escape_html(a.link)}" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">{_escape_html(a.source_name)}</span>
+                        </div>
+                    </article>"""
+
+                expand_btn = f"""\
+                <button class="expand-btn" data-target="{cat_id}-full" aria-expanded="false">
+                    <span class="btn-text">展开全部 {article_count} 篇</span>
+                    <span class="btn-icon">▾</span>
+                </button>"""
+
+            else:
+                preview_html = '<p class="no-news">今日无相关新闻。</p>'
+                full_html = ""
+                expand_btn = ""
+
+            modules.append(f"""\
+            <section class="category-module {css_class}" id="module-{cat_id}">
+                <div class="module-header">
+                    <span class="category-dot {dot_class}"></span>
+                    <h2>{cn_name}</h2>
+                    <span class="article-count">{article_count} 篇</span>
+                </div>
+                <div class="module-preview">
+                    {preview_html}
+                </div>
+                {expand_btn}
+                <div class="module-expanded" id="{cat_id}-full">
+                    <div class="articles-list">
+                        {full_html}
+                    </div>
+                    <button class="collapse-btn" data-target="{cat_id}-full">
+                        <span>收起</span>
+                        <span class="btn-icon">▴</span>
+                    </button>
+                </div>
+            </section>""")
+
+        return "\n".join(modules)
+
     def _build_category_cards(self, category_digests: list[CategoryDigest]) -> str:
-        """生成所有分类卡片的 HTML。"""
+        """生成所有分类卡片的 HTML（旧版平铺，保留兼容）。"""
         cards = []
         for cd in category_digests:
             cn_name = CATEGORY_NAMES_CN.get(cd.category, cd.category)
@@ -355,7 +472,8 @@ _FALLBACK_TEMPLATE = """<!DOCTYPE html>
 <header class="masthead"><h1>全球新闻日报</h1><div class="dateline">{report_date} · 更新于 {gen_time}</div></header>
 <main class="main-container">
 <section class="overall-digest"><p>{overall_digest}</p></section>
-{category_cards}
+<div class="featured-grid">{featured_stories}</div>
+<div class="module-grid">{category_modules}</div>
 <section class="sources-section"><h2>📊 数据来源</h2><table>{sources_rows}</table></section>
 {errors_html}
 </main>
