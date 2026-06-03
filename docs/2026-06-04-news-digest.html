@@ -1,0 +1,2489 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>全球新闻日报 — 2026年06月04日</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;600;700;900&family=Noto+Sans+SC:wght@300;400;500;700&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+/* ═══════════════════════════════════════════════════════════════════
+   THE GLOBAL BRIEF — Modular Edition
+   设计理念: 高端周日报纸副刊 × 瑞士排版 × 模块化交互
+   ═══════════════════════════════════════════════════════════════════ */
+
+:root {
+    /* Light theme */
+    --bg:             #faf9f6;
+    --bg-secondary:   #f3f1ec;
+    --surface:        #ffffff;
+    --surface-hover:  #fdfcf9;
+    --text-primary:   #1c1917;
+    --text-secondary: #5c5a57;
+    --text-tertiary:  #8c8a85;
+    --border:         #e7e4df;
+    --border-light:   #f0ede8;
+    --rule:           #d4d0c9;
+
+    --accent-tech:    #2563eb;
+    --accent-tech-bg: #eff6ff;
+    --accent-politics:#c2410c;
+    --accent-politics-bg:#fff7ed;
+    --accent-economy: #b45309;
+    --accent-economy-bg:#fffbeb;
+    --accent-travel:  #047857;
+    --accent-travel-bg:#ecfdf5;
+
+    --shadow-sm: 0 1px 3px rgba(0,0,0,0.04), 0 1px 2px rgba(0,0,0,0.03);
+    --shadow-md: 0 4px 16px rgba(0,0,0,0.05), 0 1px 4px rgba(0,0,0,0.04);
+    --shadow-lg: 0 12px 40px rgba(0,0,0,0.08), 0 2px 8px rgba(0,0,0,0.04);
+    --radius-sm: 6px;
+    --radius-md: 12px;
+    --radius-lg: 20px;
+    --max-width: 960px;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --bg:             #171717;
+        --bg-secondary:   #1f1d1a;
+        --surface:        #24221f;
+        --surface-hover:  #2a2824;
+        --text-primary:   #e8e4e0;
+        --text-secondary: #a8a5a0;
+        --text-tertiary:  #787570;
+        --border:         #33302b;
+        --border-light:   #2a2824;
+        --rule:           #3d3a34;
+
+        --accent-tech-bg:    #1e293b;
+        --accent-politics-bg:#2d1f1a;
+        --accent-economy-bg: #2d2418;
+        --accent-travel-bg:  #1a2d24;
+
+        --shadow-sm: 0 1px 3px rgba(0,0,0,0.2);
+        --shadow-md: 0 4px 16px rgba(0,0,0,0.25);
+        --shadow-lg: 0 12px 40px rgba(0,0,0,0.3);
+    }
+}
+
+* { margin:0; padding:0; box-sizing:border-box; }
+html { scroll-behavior: smooth; -webkit-font-smoothing: antialiased; }
+
+body {
+    font-family: 'Noto Sans SC', -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+    background: var(--bg);
+    color: var(--text-primary);
+    line-height: 1.75;
+    min-height: 100vh;
+    background-image:
+        radial-gradient(ellipse at 20% 0%, rgba(120,120,120,0.03) 0%, transparent 60%),
+        radial-gradient(ellipse at 80% 100%, rgba(120,120,120,0.03) 0%, transparent 60%);
+}
+
+/* ═══════════════════ Masthead ═══════════════════ */
+
+.masthead {
+    padding: 48px 24px 36px;
+    text-align: center;
+    border-bottom: 1px solid var(--rule);
+    position: relative;
+}
+
+.masthead::after {
+    content: '';
+    position: absolute;
+    bottom: -1px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 60px;
+    height: 2px;
+    background: var(--text-primary);
+    opacity: 0.3;
+}
+
+.masthead .overline {
+    font-family: 'DM Mono', 'SF Mono', 'Consolas', monospace;
+    font-size: 0.68rem;
+    letter-spacing: 0.4em;
+    text-transform: uppercase;
+    color: var(--text-tertiary);
+    margin-bottom: 14px;
+}
+
+.masthead h1 {
+    font-family: 'Noto Serif SC', serif;
+    font-size: clamp(1.8rem, 5.5vw, 2.8rem);
+    font-weight: 900;
+    letter-spacing: 0.04em;
+    line-height: 1.2;
+    color: var(--text-primary);
+    margin-bottom: 6px;
+}
+
+.masthead .dateline {
+    font-size: 0.85rem;
+    color: var(--text-tertiary);
+    letter-spacing: 0.05em;
+    margin-top: 6px;
+}
+
+.masthead .dateline span { margin: 0 10px; opacity: 0.5; }
+
+/* Refresh button */
+.refresh-area {
+    margin-top: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    flex-wrap: wrap;
+    animation: fadeInUp 0.4s ease;
+}
+
+.refresh-hint {
+    font-size: 0.78rem;
+    color: var(--text-tertiary);
+    letter-spacing: 0.04em;
+}
+
+.refresh-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 8px 20px;
+    border: 1px solid var(--border);
+    border-radius: 100px;
+    background: var(--surface);
+    color: var(--text-primary);
+    font-family: 'DM Mono', monospace;
+    font-size: 0.68rem;
+    letter-spacing: 0.15em;
+    text-decoration: none;
+    cursor: pointer;
+    transition: all 0.25s ease;
+}
+
+.refresh-btn:hover {
+    background: var(--text-primary);
+    color: var(--bg);
+    border-color: var(--text-primary);
+    transform: translateY(-1px);
+    box-shadow: var(--shadow-md);
+}
+
+.refresh-btn:active { transform: translateY(0); }
+
+/* Search & Header Tools */
+.header-tools {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+    margin-top: 16px;
+    flex-wrap: wrap;
+}
+
+.search-box {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.search-box input {
+    width: 260px;
+    padding: 10px 40px 10px 16px;
+    border: 1px solid var(--border);
+    border-radius: 100px;
+    background: var(--surface);
+    color: var(--text-primary);
+    font-family: 'Noto Sans SC', sans-serif;
+    font-size: 0.85rem;
+    outline: none;
+    transition: all 0.25s ease;
+}
+
+.search-box input:focus {
+    border-color: var(--text-tertiary);
+    box-shadow: 0 0 0 3px rgba(0,0,0,0.04);
+    width: 300px;
+}
+
+.search-box input::placeholder {
+    color: var(--text-tertiary);
+}
+
+.search-icon {
+    position: absolute;
+    right: 12px;
+    font-size: 0.85rem;
+    opacity: 0.4;
+    pointer-events: none;
+}
+
+.search-clear {
+    position: absolute;
+    right: 10px;
+    font-size: 0.75rem;
+    cursor: pointer;
+    color: var(--text-tertiary);
+    padding: 4px;
+    display: flex;
+    align-items: center;
+}
+
+.search-clear:hover { color: var(--text-primary); }
+
+.search-status {
+    text-align: center;
+    font-size: 0.78rem;
+    color: var(--text-tertiary);
+    margin-top: 8px;
+    min-height: 0;
+}
+
+.archive-link {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.68rem;
+    letter-spacing: 0.15em;
+    color: var(--text-tertiary);
+    text-decoration: none;
+    padding: 6px 14px;
+    border: 1px solid var(--border);
+    border-radius: 100px;
+    transition: all 0.2s;
+}
+
+.archive-link:hover {
+    color: var(--text-primary);
+    border-color: var(--text-tertiary);
+}
+
+/* Search highlight */
+.search-highlight {
+    background: #fef08a;
+    padding: 1px 2px;
+    border-radius: 2px;
+}
+
+@media (prefers-color-scheme: dark) {
+    .search-highlight { background: #854d0e; }
+}
+
+/* Hidden by search filter */
+.hidden-by-search {
+    display: none !important;
+}
+
+/* ═══════════════════ Main Container ═══════════════════ */
+
+.main-container {
+    max-width: var(--max-width);
+    margin: 0 auto;
+    padding: 28px 24px 80px;
+}
+
+/* ═══════════════════ Overall Digest ═══════════════════ */
+
+.overall-digest {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    padding: 28px 36px;
+    margin-bottom: 36px;
+    box-shadow: var(--shadow-md);
+    position: relative;
+    overflow: hidden;
+}
+
+.overall-digest::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 4px;
+    height: 100%;
+    background: linear-gradient(180deg, var(--accent-politics), var(--accent-economy), var(--accent-tech), var(--accent-travel));
+    border-radius: var(--radius-lg) 0 0 var(--radius-lg);
+}
+
+.overall-digest .label {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.62rem;
+    letter-spacing: 0.35em;
+    text-transform: uppercase;
+    color: var(--text-tertiary);
+    margin-bottom: 12px;
+    display: block;
+}
+
+.overall-digest p {
+    font-family: 'Noto Serif SC', serif;
+    font-size: clamp(0.95rem, 2vw, 1.1rem);
+    line-height: 1.9;
+    color: var(--text-primary);
+    letter-spacing: 0.02em;
+}
+
+/* ═══════════════════ Featured Stories (3-up Hero Grid) ═══════════════════ */
+
+.featured-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    margin-bottom: 40px;
+    animation: fadeInUp 0.6s ease both;
+    animation-delay: 0.1s;
+}
+
+@keyframes fadeInUp {
+    from { opacity: 0; transform: translateY(20px); }
+    to   { opacity: 1; transform: translateY(0); }
+}
+
+.feature-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    padding: 24px;
+    box-shadow: var(--shadow-sm);
+    transition: box-shadow 0.3s ease, transform 0.2s ease;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    overflow: hidden;
+}
+
+.feature-card:hover {
+    box-shadow: var(--shadow-lg);
+    transform: translateY(-3px);
+}
+
+.feature-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 3px;
+}
+
+.feature-card.politics::before { background: var(--accent-politics); }
+.feature-card.economy::before  { background: var(--accent-economy); }
+.feature-card.technology::before { background: var(--accent-tech); }
+
+.feature-badge {
+    display: inline-block;
+    font-family: 'DM Mono', monospace;
+    font-size: 0.62rem;
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+    padding: 3px 10px;
+    border-radius: 100px;
+    margin-bottom: 14px;
+    align-self: flex-start;
+}
+
+.feature-card.politics .feature-badge { background: var(--accent-politics-bg); color: var(--accent-politics); }
+.feature-card.economy .feature-badge  { background: var(--accent-economy-bg);  color: var(--accent-economy); }
+.feature-card.technology .feature-badge { background: var(--accent-tech-bg);    color: var(--accent-tech); }
+
+.feature-card h3 {
+    font-family: 'Noto Serif SC', serif;
+    font-size: 1rem;
+    font-weight: 700;
+    line-height: 1.55;
+    margin-bottom: 10px;
+    flex-grow: 1;
+    color: var(--text-primary);
+    letter-spacing: 0.02em;
+}
+
+.feature-summary {
+    font-size: 0.82rem;
+    color: var(--text-secondary);
+    line-height: 1.65;
+    margin-bottom: 14px;
+    flex-grow: 1;
+}
+
+.feature-meta {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 0.72rem;
+    border-top: 1px solid var(--border-light);
+    padding-top: 12px;
+}
+
+.feature-meta a {
+    color: var(--text-primary);
+    text-decoration: none;
+    font-weight: 600;
+    transition: opacity 0.2s;
+}
+
+.feature-meta a:hover { opacity: 0.6; }
+
+.feature-meta span {
+    color: var(--text-tertiary);
+    letter-spacing: 0.03em;
+}
+
+/* ═══════════════════ Category Modules (2x2 Grid) ═══════════════════ */
+
+.section-divider {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin-bottom: 24px;
+    font-family: 'DM Mono', monospace;
+    font-size: 0.65rem;
+    letter-spacing: 0.35em;
+    text-transform: uppercase;
+    color: var(--text-tertiary);
+}
+
+.section-divider::after {
+    content: '';
+    flex-grow: 1;
+    height: 1px;
+    background: var(--rule);
+}
+
+.module-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    margin-bottom: 40px;
+}
+
+.category-module {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-sm);
+    transition: box-shadow 0.3s ease;
+    overflow: hidden;
+}
+
+.category-module:hover {
+    box-shadow: var(--shadow-md);
+}
+
+.category-module.technology { border-top: 3px solid var(--accent-tech); }
+.category-module.politics  { border-top: 3px solid var(--accent-politics); }
+.category-module.economy   { border-top: 3px solid var(--accent-economy); }
+.category-module.travel    { border-top: 3px solid var(--accent-travel); }
+
+/* Module header */
+
+.module-header {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 20px 24px 0;
+}
+
+.module-header .category-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    flex-shrink: 0;
+}
+
+.dot-tech     { background: var(--accent-tech);    box-shadow: 0 0 0 4px var(--accent-tech-bg); }
+.dot-politics { background: var(--accent-politics); box-shadow: 0 0 0 4px var(--accent-politics-bg); }
+.dot-economy  { background: var(--accent-economy);  box-shadow: 0 0 0 4px var(--accent-economy-bg); }
+.dot-travel   { background: var(--accent-travel);   box-shadow: 0 0 0 4px var(--accent-travel-bg); }
+
+.module-header h2 {
+    font-family: 'Noto Serif SC', serif;
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: var(--text-primary);
+    letter-spacing: 0.03em;
+}
+
+.module-header .article-count {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.68rem;
+    color: var(--text-tertiary);
+    margin-left: auto;
+    letter-spacing: 0.1em;
+}
+
+/* Module preview */
+
+.module-preview {
+    padding: 16px 24px;
+}
+
+.preview-item {
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+    padding: 8px 0;
+    border-bottom: 1px solid var(--border-light);
+}
+
+.preview-item:last-child { border-bottom: none; }
+
+.preview-num {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.62rem;
+    color: var(--text-tertiary);
+    min-width: 18px;
+    flex-shrink: 0;
+}
+
+.preview-title {
+    font-size: 0.88rem;
+    color: var(--text-primary);
+    line-height: 1.4;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+/* Expand / Collapse buttons */
+
+.expand-btn, .collapse-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    width: 100%;
+    padding: 10px 24px 18px;
+    border: none;
+    background: transparent;
+    color: var(--text-tertiary);
+    font-family: 'DM Mono', monospace;
+    font-size: 0.62rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: color 0.2s, gap 0.2s;
+}
+
+.expand-btn:hover, .collapse-btn:hover {
+    color: var(--text-primary);
+    gap: 10px;
+}
+
+.btn-icon {
+    font-size: 0.7rem;
+    transition: transform 0.3s ease;
+}
+
+/* Expanded content */
+
+.module-expanded {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.5s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.3s ease;
+    opacity: 0;
+}
+
+.module-expanded.open {
+    max-height: 4000px;
+    opacity: 1;
+}
+
+.module-expanded .articles-list {
+    padding: 0 24px;
+    border-top: 1px solid var(--border-light);
+}
+
+.collapse-btn {
+    padding: 18px 24px;
+    border-top: 1px solid var(--border-light);
+    margin-top: 4px;
+}
+
+/* News items (inside expanded) */
+
+.news-item {
+    padding: 18px 0;
+    border-bottom: 1px solid var(--border-light);
+}
+
+.news-item:last-child { border-bottom: none; }
+
+.news-item h3 {
+    font-family: 'Noto Serif SC', serif;
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 1.55;
+    margin-bottom: 6px;
+    color: var(--text-primary);
+}
+
+.news-item .item-num {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.65rem;
+    color: var(--text-tertiary);
+    margin-right: 4px;
+}
+
+.news-item .item-summary {
+    font-size: 0.86rem;
+    color: var(--text-secondary);
+    line-height: 1.7;
+    margin-bottom: 8px;
+}
+
+.news-item .item-meta {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex-wrap: wrap;
+}
+
+.news-item .item-link {
+    font-size: 0.78rem;
+    text-decoration: none;
+    font-weight: 500;
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    transition: gap 0.2s ease;
+}
+
+.news-item .item-link:hover { gap: 8px; text-decoration: underline; }
+.news-item .item-link::after { content: '↗'; font-size: 0.65rem; opacity: 0.6; }
+
+.category-module.technology .item-link { color: var(--accent-tech); }
+.category-module.politics  .item-link { color: var(--accent-politics); }
+.category-module.economy   .item-link { color: var(--accent-economy); }
+.category-module.travel    .item-link { color: var(--accent-travel); }
+
+.news-item .item-source {
+    font-size: 0.72rem;
+    color: var(--text-tertiary);
+}
+
+.news-item .item-source::before { content: '— '; }
+
+.no-news {
+    color: var(--text-tertiary);
+    font-style: italic;
+    padding: 20px 0;
+    text-align: center;
+    font-size: 0.88rem;
+}
+
+/* ═══════════════════ Sources Section ═══════════════════ */
+
+.sources-section {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    padding: 28px 36px;
+    margin-bottom: 24px;
+    box-shadow: var(--shadow-sm);
+}
+
+.sources-section h2 {
+    font-family: 'Noto Serif SC', serif;
+    font-size: 1.05rem;
+    font-weight: 700;
+    margin-bottom: 16px;
+    letter-spacing: 0.03em;
+}
+
+.sources-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.sources-table td {
+    padding: 8px 0;
+    border-bottom: 1px solid var(--border-light);
+    font-size: 0.84rem;
+    vertical-align: top;
+}
+
+.sources-table td:first-child {
+    white-space: nowrap;
+    width: 25%;
+    font-weight: 500;
+    padding-right: 20px;
+}
+
+.sources-table td:last-child { color: var(--text-secondary); }
+.sources-table tr:last-child td { border-bottom: none; }
+
+/* ═══════════════════ Errors ═══════════════════ */
+
+.errors-section {
+    background: var(--accent-politics-bg);
+    border: 1px solid rgba(194,65,12,0.2);
+    border-radius: var(--radius-lg);
+    padding: 24px 32px;
+    margin-bottom: 24px;
+}
+
+.errors-section h2 {
+    font-size: 0.95rem;
+    font-weight: 700;
+    color: var(--accent-politics);
+    margin-bottom: 10px;
+}
+
+.errors-section ul { list-style: none; }
+.errors-section li {
+    font-size: 0.82rem;
+    color: var(--text-secondary);
+    padding: 4px 0;
+}
+
+.errors-section li::before { content: '× '; color: var(--accent-politics); font-weight: 700; }
+
+/* ═══════════════════ Footer ═══════════════════ */
+
+.site-footer {
+    max-width: var(--max-width);
+    margin: 0 auto;
+    padding: 0 24px 60px;
+    text-align: center;
+}
+
+.site-footer .divider {
+    width: 40px;
+    height: 1px;
+    background: var(--rule);
+    margin: 0 auto 20px;
+}
+
+.site-footer p {
+    font-size: 0.74rem;
+    color: var(--text-tertiary);
+    line-height: 1.8;
+    letter-spacing: 0.03em;
+}
+
+.site-footer .mono {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.66rem;
+    letter-spacing: 0.2em;
+}
+
+/* ═══════════════════ Responsive ═══════════════════ */
+
+@media (max-width: 768px) {
+    .featured-grid {
+        grid-template-columns: 1fr;
+        gap: 14px;
+    }
+
+    .module-grid {
+        grid-template-columns: 1fr;
+        gap: 14px;
+    }
+
+    .main-container { padding: 20px 14px 60px; }
+
+    .masthead { padding: 36px 18px 28px; }
+    .masthead h1 { font-size: 1.6rem; }
+
+    .overall-digest { padding: 22px 20px; }
+
+    .module-header { padding: 18px 20px 0; }
+    .module-preview { padding: 12px 20px; }
+    .expand-btn { padding: 8px 20px 16px; }
+
+    .sources-section { padding: 22px 20px; }
+    .sources-table td:first-child { width: 35%; }
+}
+
+/* ═══════════════════ Print ═══════════════════ */
+
+@media print {
+    body { background: white; }
+    .feature-card, .category-module, .overall-digest, .sources-section {
+        box-shadow: none; break-inside: avoid;
+    }
+    .module-expanded { max-height: none; opacity: 1; }
+    .expand-btn, .collapse-btn { display: none; }
+}
+</style>
+</head>
+<body>
+
+<!-- ═══════════════════ Masthead ═══════════════════ -->
+<header class="masthead">
+    <div class="overline">The Global Brief</div>
+    <h1>全球新闻日报</h1>
+    <div class="dateline">
+        2026年06月04日<span>·</span>更新于 <time id="update-time" datetime="2026-06-04 06:18">2026-06-04 06:18</time>
+    </div>
+    <div class="header-tools">
+        <div class="search-box" id="search-box">
+            <input type="text" id="search-input" placeholder="搜索新闻标题、摘要..." autocomplete="off">
+            <span class="search-icon">🔍</span>
+            <span class="search-clear" id="search-clear" style="display:none">✕</span>
+        </div>
+        <a class="archive-link" href="archive.html">📅 归档</a>
+    </div>
+    <div class="search-status" id="search-status"></div>
+    <div class="refresh-area" id="refresh-area" style="display:none">
+        <span class="refresh-hint" id="refresh-hint"></span>
+        <a class="refresh-btn" id="refresh-btn"
+           href="https://github.com/hrt2003/newseveryday/actions/workflows/deploy.yml"
+           target="_blank" rel="noopener">
+            🔄 手动刷新
+        </a>
+    </div>
+</header>
+
+<!-- ═══════════════════ Main Content ═══════════════════ -->
+<main class="main-container">
+
+    <!-- Overall Digest -->
+    <section class="overall-digest">
+        <span class="label">今日摘要</span>
+        <p>今日全球局势紧张，中东冲突持续升级：伊朗无人机袭击科威特机场致1死，以色列与真主党交火致9死，特朗普与内塔尼亚胡通话引发关注；同时乌克兰无人机袭击圣彼得堡油库，俄乌冲突未歇。经济方面，SpaceX和Anthropic等科技巨头酝酿巨型IPO，通胀压力持续影响消费者行为，霍尔木兹海峡封锁及特朗普政策变动冲击全球贸易。科技领域，Alphabet创纪录融资850亿美元用于AI业务，英伟达宣布RTX Spark芯片将至少迭代两代，AI安全与监管争议升温。旅游行业则聚焦AI部署的实际效益，美联航新增航线，Uber推出世界杯功能，为夏季出行提供新选择。</p>
+    </section>
+
+    <!-- 3 Featured Stories -->
+    <div class="featured-grid">
+                        <article class="feature-card politics">
+                    <div class="feature-badge">🌍 国际政治</div>
+                    <h3>以军炸死黎巴嫩9人，真主党越境还击</h3>
+                    <p class="feature-summary">以色列与黎巴嫩真主党之间的冲突升级，双方互射火箭弹和空袭，导致9人死亡，部分停火协议面临压力。</p>
+                    <div class="feature-meta">
+                        <a href="https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">阅读原文 ↗</a>
+                        <span>BBC World</span>
+                    </div>
+                </article>
+                <article class="feature-card economy">
+                    <div class="feature-badge">💰 经济财经</div>
+                    <h3>SpaceX目标IPO定价135美元，估值1.77万亿</h3>
+                    <p class="feature-summary">SpaceX计划以每股135美元IPO，估值1.77万亿美元，将成为美国第七大公司，超过特斯拉1.6万亿美元市值。</p>
+                    <div class="feature-meta">
+                        <a href="https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html" target="_blank" rel="noopener">阅读原文 ↗</a>
+                        <span>CNBC Top News</span>
+                    </div>
+                </article>
+                <article class="feature-card technology">
+                    <div class="feature-badge">💻 科技</div>
+                    <h3>国防科技资金涌入，谁能持久？</h3>
+                    <p class="feature-summary">国防科技领域火热，Anduril和Mach Industries估值翻倍，美国政府提议国防预算增加40%。但投资人Ross Fubini警告，多数初创公司将在原型合同后的“死亡谷”中迷失。</p>
+                    <div class="feature-meta">
+                        <a href="https://techcrunch.com/video/defense-tech-is-flooded-with-money-but-whos-built-to-last/" target="_blank" rel="noopener">阅读原文 ↗</a>
+                        <span>TechCrunch</span>
+                    </div>
+                </article>
+    </div>
+
+    <!-- 2x2 Category Module Grid -->
+    <div class="section-divider">分类浏览</div>
+    <div class="module-grid">
+                    <section class="category-module politics" id="module-politics">
+                <div class="module-header">
+                    <span class="category-dot dot-politics"></span>
+                    <h2>🌍 国际政治</h2>
+                    <span class="article-count">48 篇</span>
+                </div>
+                <div class="module-preview">
+                                        <div class="preview-item">
+                        <span class="preview-num">01</span>
+                        <span class="preview-title">以军炸死黎巴嫩9人，真主党越境还击</span>
+                    </div>                    <div class="preview-item">
+                        <span class="preview-num">02</span>
+                        <span class="preview-title">伊朗无人机袭击科威特机场致1死</span>
+                    </div>
+                </div>
+                                <button class="expand-btn" data-target="politics-full" aria-expanded="false">
+                    <span class="btn-text">展开全部 48 篇</span>
+                    <span class="btn-icon">▾</span>
+                </button>
+                <div class="module-expanded" id="politics-full">
+                    <div class="articles-list">
+                                            <article class="news-item">
+                        <h3><span class="item-num">01</span> 以军炸死黎巴嫩9人，真主党越境还击</h3>
+                        <p class="item-summary">以色列与黎巴嫩真主党之间的冲突升级，双方互射火箭弹和空袭，导致9人死亡，部分停火协议面临压力。</p>
+                        <div class="item-meta">
+                            <a href="https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">BBC World</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">02</span> 伊朗无人机袭击科威特机场致1死</h3>
+                        <p class="item-summary">伊朗称袭击科威特机场是对美国此前打击伊朗油轮和岛屿的报复，造成1人死亡、数十人受伤。</p>
+                        <div class="item-meta">
+                            <a href="https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">BBC World</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">03</span> 特朗普与内塔尼亚胡“疯狂”通话</h3>
+                        <p class="item-summary">特朗普与以色列总理内塔尼亚胡的通话被形容为“疯狂”，内塔尼亚胡淡化摩擦，但此举可能影响伊朗核谈判。</p>
+                        <div class="item-meta">
+                            <a href="https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">BBC World</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">04</span> 乌克兰无人机袭击圣彼得堡</h3>
+                        <p class="item-summary">乌克兰无人机袭击圣彼得堡附近油库，正值普京出席经济论坛前夕，俄方称袭击未造成重大损失。</p>
+                        <div class="item-meta">
+                            <a href="https://www.bbc.com/news/articles/c0e2vqd3j1vo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">BBC World</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">05</span> 德里酒店火灾致21死含外籍人士</h3>
+                        <p class="item-summary">印度德里一家酒店发生火灾，至少21人死亡，其中18人为外国公民，多为前来就医的南亚人。</p>
+                        <div class="item-meta">
+                            <a href="https://www.bbc.com/news/articles/czd29327qzvo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">BBC World</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">06</span> 加州州长初选：前英顾问领先</h3>
+                        <p class="item-summary">加州州长初选计票中，前英国政治顾问和拜登内阁秘书领先，亿万富翁气候活动家斯特耶位列第三。</p>
+                        <div class="item-meta">
+                            <a href="https://www.bbc.com/news/articles/cn8p0yz512no?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">BBC World</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">07</span> 文德斯撤回1975年影片因少女裸戏</h3>
+                        <p class="item-summary">导演维姆·文德斯撤回1975年电影，因女演员娜塔莎·金斯基13岁时出演裸戏，她称导演未保护她。</p>
+                        <div class="item-meta">
+                            <a href="https://www.bbc.com/news/articles/c99legznj8do?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">BBC World</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">08</span> 美国以强迫劳动为由加征新关税</h3>
+                        <p class="item-summary">美国宣布对涉嫌强迫劳动的商品加征新关税，此前最高法院在2月否决了特朗普的多数关税。</p>
+                        <div class="item-meta">
+                            <a href="https://www.bbc.com/news/articles/cq6pe7nvldmo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">BBC World</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">09</span> 世卫：刚果（金）埃博拉或1月已爆发</h3>
+                        <p class="item-summary">世卫组织总干事谭德塞表示，刚果（金）埃博拉疫情可能早在1月就已开始，病毒“领先很多”，但应对正在追赶。</p>
+                        <div class="item-meta">
+                            <a href="https://www.theguardian.com/global-development/2026/jun/03/drc-ebola-outbreak-could-have-begun-as-early-as-january-who-chief-says" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">The Guardian</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">10</span> 肯尼亚人担忧美国埃博拉隔离点</h3>
+                        <p class="item-summary">美国计划在肯尼亚中部设立埃博拉隔离设施，当地居民批评此举将使他们暴露于病毒风险中，指责美国双重标准。</p>
+                        <div class="item-meta">
+                            <a href="https://www.theguardian.com/world/2026/jun/02/kenyans-fear-us-plan-for-ebola-quarantine-site" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">The Guardian</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">11</span> 莫桑比克称5名公民在南非被杀</h3>
+                        <p class="item-summary">莫桑比克称5名公民在南非“仇外袭击”中丧生，南非警方仅确认2名莫桑比克人死亡，反移民暴力蔓延。</p>
+                        <div class="item-meta">
+                            <a href="https://www.theguardian.com/world/2026/jun/02/mozambique-citizens-killed-xenophobic-attacks-south-africa" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">The Guardian</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">12</span> 加纳通过严苛反LGBTQ+法案</h3>
+                        <p class="item-summary">加纳议会通过法案，将LGBTQ+活动定为犯罪，最高可判10年监禁，社区担忧失去住房、工作和医疗。</p>
+                        <div class="item-meta">
+                            <a href="https://www.theguardian.com/global-development/2026/jun/01/ghana-new-law-criminalising-lgbtq-activity" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">The Guardian</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">13</span> 英国无需向卢旺达支付1亿英镑</h3>
+                        <p class="item-summary">国际法庭裁定，英国无需因失败的移民遣送计划向卢旺达支付逾1亿英镑，卢旺达此前起诉英国违约。</p>
+                        <div class="item-meta">
+                            <a href="https://www.theguardian.com/uk-news/2026/jun/01/uk-will-not-pay-rwanda-over-failed-asylum-scheme" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">The Guardian</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">14</span> 美法官下令驱逐已故少年移民</h3>
+                        <p class="item-summary">北卡罗来纳州移民法官下令驱逐一名2024年遇害的少年，因其未出庭，尽管已被告知其死亡。</p>
+                        <div class="item-meta">
+                            <a href="https://www.theguardian.com/us-news/2026/jun/03/north-carolina-judge-deport-teen-murder-victim" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">The Guardian</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">15</span> 墨西哥如何应对致命敲诈勒索？</h3>
+                        <p class="item-summary">墨西哥敲诈勒索犯罪猖獗，腐败警察与黑帮勾结，总统誓言打击犯罪，但问题已影响社会各阶层。</p>
+                        <div class="item-meta">
+                            <a href="https://www.theguardian.com/world/2026/jun/03/how-can-mexico-confront-rise-in-deadly-extortion" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">The Guardian</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">16</span> 美墨边境隧道查获1吨可卡因</h3>
+                        <p class="item-summary">美国检方指控4名嫌疑人利用圣地亚哥假零售店作掩护，通过隧道从墨西哥走私逾1吨可卡因，涉及哈利斯科新一代贩毒集团。</p>
+                        <div class="item-meta">
+                            <a href="https://www.theguardian.com/us-news/2026/jun/02/san-diego-drug-tunnel" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">The Guardian</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">17</span> 加沙医生哈马维有望进美国国会</h3>
+                        <p class="item-summary">亚当·哈马维在新泽西州初选中获胜，可能成为美国国会中少数有加沙一线经历的议员。</p>
+                        <div class="item-meta">
+                            <a href="https://www.aljazeera.com/news/2026/6/3/who-is-adam-hamawy-doctor-who-served-in-gaza-is-on-the-path-to-us-congress?traffic_source=rss" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Al Jazeera</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">18</span> 科威特称伊朗袭击为“严重侵略”</h3>
+                        <p class="item-summary">科威特国防部将伊朗无人机袭击其国际机场事件定性为“严重的伊朗侵略”。</p>
+                        <div class="item-meta">
+                            <a href="https://www.aljazeera.com/video/newsfeed/2026/6/3/kuwait-labels-iran-attack-heinous?traffic_source=rss" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Al Jazeera</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">19</span> 乌克兰袭击圣彼得堡，俄办经济论坛</h3>
+                        <p class="item-summary">乌克兰对圣彼得堡附近油库和海军基地发动空袭，正值俄罗斯举办年度经济论坛。</p>
+                        <div class="item-meta">
+                            <a href="https://www.aljazeera.com/video/newsfeed/2026/6/3/ukraine-attacks-st-petersburg-as-russia-hosts-its-own-davos?traffic_source=rss" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Al Jazeera</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">20</span> 新德里酒店大火致21死含18名外籍</h3>
+                        <p class="item-summary">新德里一家酒店发生火灾，至少21人死亡，其中18人为外国公民。</p>
+                        <div class="item-meta">
+                            <a href="https://www.aljazeera.com/video/newsfeed/2026/6/3/deadly-fire-rips-through-new-delhi-hotel?traffic_source=rss" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Al Jazeera</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">21</span> 日本足球队戴牛仔帽备战世界杯</h3>
+                        <p class="item-summary">日本国家足球队在墨西哥蒙特雷戴上牛仔帽，受到球迷欢迎。</p>
+                        <div class="item-meta">
+                            <a href="https://www.aljazeera.com/video/newsfeed/2026/6/3/japans-football-team-sports-cowboy-hats-ahead-of-world-cup-2?traffic_source=rss" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Al Jazeera</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">22</span> 鲁比奥：多数国家认为以色列有核武</h3>
+                        <p class="item-summary">美国国务卿鲁比奥在国会听证会上回避美国对以色列核计划的立场，但称“多数国家认为以色列有核武”。</p>
+                        <div class="item-meta">
+                            <a href="https://www.aljazeera.com/news/2026/6/3/does-israel-have-nukes-most-of-world-assesses-they-do-says-rubio?traffic_source=rss" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Al Jazeera</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">23</span> 纪念阿里逝世十周年</h3>
+                        <p class="item-summary">世界各地纪念拳王穆罕默德·阿里逝世十周年，缅怀这位“最伟大”的运动员。</p>
+                        <div class="item-meta">
+                            <a href="https://www.aljazeera.com/video/newsfeed/2026/6/3/ten-years-on-world-remembers-muhammad-ali-the-greatest?traffic_source=rss" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Al Jazeera</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">24</span> 以色列入侵黎巴嫩的历史</h3>
+                        <p class="item-summary">半岛电视台回顾以色列48年来第六次入侵黎巴嫩的历史。</p>
+                        <div class="item-meta">
+                            <a href="https://www.aljazeera.com/video/newsfeed/2026/6/3/israels-decades-long-history-of-invading-lebanon?traffic_source=rss" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Al Jazeera</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">25</span> 特朗普确认称内塔尼亚胡“疯狂”</h3>
+                        <p class="item-summary">特朗普承认在电话中称内塔尼亚胡“疯狂”，并爆粗口要求其不要轰炸贝鲁特，但表示两人关系仍好。</p>
+                        <div class="item-meta">
+                            <a href="https://www.npr.org/2026/06/03/g-s1-125631/trump-confirms-calling-netanyahu-crazy-says-they-still-get-along" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">NPR World</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">26</span> 波尔图街头纺织品色彩斑斓</h3>
+                        <p class="item-summary">葡萄牙波尔图纪念品商店挂满亚麻围巾、棉围裙等纺织品，许多店铺由孟加拉人经营。</p>
+                        <div class="item-meta">
+                            <a href="https://www.npr.org/2026/06/03/g-s1-124469/porto-portugal-linens-textiles" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">NPR World</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">27</span> 乌克兰无人机袭击圣彼得堡油库</h3>
+                        <p class="item-summary">乌克兰无人机袭击圣彼得堡油库并引发大火，正值该市举办普京出席的经济论坛。</p>
+                        <div class="item-meta">
+                            <a href="https://www.npr.org/2026/06/03/nx-s1-5844793/ukrainian-drones-hit-st-petersburg" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">NPR World</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">28</span> 伊朗袭击科威特机场致1死</h3>
+                        <p class="item-summary">伊朗无人机袭击科威特国际机场客运航站楼，科威特短暂关闭机场，这是伊朗与美国之间最新冲突。</p>
+                        <div class="item-meta">
+                            <a href="https://www.npr.org/2026/06/03/g-s1-125566/iran-war-updates" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">NPR World</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">29</span> 俄大规模袭击基辅后的场景</h3>
+                        <p class="item-summary">俄罗斯导弹和无人机夜间袭击乌克兰，造成平民死亡，是莫斯科近期最大规模攻击之一。</p>
+                        <div class="item-meta">
+                            <a href="https://www.npr.org/sections/the-picture-show/2026/06/02/nx-s1-5844159/ukraine-kyiv-russia-drone-missile-strikes" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">NPR World</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">30</span> 欧盟达成移民协议：加强遣返</h3>
+                        <p class="item-summary">欧盟推进移民政策改革，旨在加强遣返并在海外建立拘留中心，批评者将其与特朗普移民策略相提并论。</p>
+                        <div class="item-meta">
+                            <a href="https://www.npr.org/2026/06/02/nx-s1-5844100/eu-migration-deal" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">NPR World</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">31</span> 全球冲突将斯里兰卡经济推向边缘</h3>
+                        <p class="item-summary">斯里兰卡本就危机重重，中东战争又使其经济雪上加霜，民众表示已无缓冲余地。</p>
+                        <div class="item-meta">
+                            <a href="https://www.npr.org/2026/06/02/nx-s1-5823430/global-conflicts-push-sri-lankas-economy-to-the-brink" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">NPR World</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">32</span> 以色列极端正统派抗议征兵</h3>
+                        <p class="item-summary">数万名极端正统派犹太人在以色列各地堵塞道路和火车，纵火抗议强制征兵。</p>
+                        <div class="item-meta">
+                            <a href="https://www.npr.org/2026/06/02/nx-s1-5844080/ultra-orthodox-protests-israel" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">NPR World</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">33</span> 特朗普将白宫UFC赛场比作埃菲尔铁塔</h3>
+                        <p class="item-summary">特朗普暗示可能永久保留白宫草坪上为生日庆典建造的UFC赛场，并将其与埃菲尔铁塔类比。</p>
+                        <div class="item-meta">
+                            <a href="https://www.france24.com/en/trump-compares-white-house-ufc-arena-to-eiffel-tower-hints-it-could-stay-permanently" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">France 24</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">34</span> 乌克兰5月再次夺回更多领土</h3>
+                        <p class="item-summary">战争研究所数据显示，乌克兰5月收复领土超过失去领土，连续第二个月取得进展，归功于战术反击和远程打击。</p>
+                        <div class="item-meta">
+                            <a href="https://www.france24.com/en/ukraine-pushed-russia-back-in-may-for-second-month-running-isw-finds" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">France 24</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">35</span> 意大利移民劳工遭杀害引发关注</h3>
+                        <p class="item-summary">四名在意大利南部从事水果采摘的移民被烧死，案件引发对劳工剥削的全国反思。</p>
+                        <div class="item-meta">
+                            <a href="https://www.france24.com/en/deadly-attack-on-migrants-highlights-issue-of-labour-abuse-in-italy" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">France 24</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">36</span> 英国极右翼利用学生遇刺煽动恐慌</h3>
+                        <p class="item-summary">英国内政大臣指责活动人士利用学生遇刺悲剧煽动暴力，专家称极右翼在制造道德恐慌。</p>
+                        <div class="item-meta">
+                            <a href="https://www.france24.com/en/uk-far-right-exploiting-student-stabbing-attack-to-promote-moral-panic-expert-says" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">France 24</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">37</span> 欧盟公布技术主权路线图</h3>
+                        <p class="item-summary">欧盟委员会公布技术主权路线图，旨在加强数字领域自主权，涉及数据、制造等战略领域。</p>
+                        <div class="item-meta">
+                            <a href="https://www.france24.com/en/tv-shows/the-debate/20260603-can-europe-own-its-digital-destiny-eu-unveils-tech-sovereignty-roadmap" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">France 24</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">38</span> 美贸易代表：双方致力于美欧贸易协议</h3>
+                        <p class="item-summary">美国贸易代表格里尔表示，尽管美国提出新关税，但双方仍致力于遵守美欧贸易协议，并看到继续遵守的空间。</p>
+                        <div class="item-meta">
+                            <a href="https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260603-both-sides-are-committed-to-us-eu-trade-deal-us-trade-representative-jamieson-greer-says" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">France 24</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">39</span> 伊朗人寻找失踪抗议者</h3>
+                        <p class="item-summary">2025年底至2026年初伊朗抗议遭镇压后，许多家庭仍在寻找失踪亲人，美以战争加剧了镇压。</p>
+                        <div class="item-meta">
+                            <a href="https://www.france24.com/en/middle-east/20260603-months-after-the-regime-crackdown-iranians-search-for-missing-protesters" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">France 24</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">40</span> 日本武士节面临气候变化威胁</h3>
+                        <p class="item-summary">日本千年传统的相马野马追武士节因极端高温面临威胁，气候变化成为新敌人。</p>
+                        <div class="item-meta">
+                            <a href="https://www.france24.com/en/video/20260603-japan-modern-day-samurais-battle-new-foe-climate-change" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">France 24</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">41</span> 坦桑尼亚总统访俄，西方关系紧张</h3>
+                        <p class="item-summary">坦桑尼亚总统萨米亚·苏卢胡访问俄罗斯，随行商业代表团，此前因批评国内异议处理，与西方关系恶化。</p>
+                        <div class="item-meta">
+                            <a href="https://www.dw.com/en/tanzania-s-president-visits-russia-amid-frayed-western-ties/a-77404375?maca=en-rss-en-world-4025-rdf" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Deutsche Welle</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">42</span> 塔利班与俄罗斯走近为哪般？</h3>
+                        <p class="item-summary">俄罗斯与阿富汗塔利班签署协议，维修苏式武器，此举涉及美、巴和莫斯科遏制西方影响力的大棋局。</p>
+                        <div class="item-meta">
+                            <a href="https://www.dw.com/en/taliban-russia-are-cozying-up-to-each-other-why/a-77409479?maca=en-rss-en-world-4025-rdf" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Deutsche Welle</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">43</span> 肯尼亚和南非媒体中的AI叙事</h3>
+                        <p class="item-summary">一项新研究显示肯尼亚和南非媒体对AI的报道存在不足，并提出了改进报道的实用步骤。</p>
+                        <div class="item-meta">
+                            <a href="https://www.dw.com/en/mapping-the-ai-narrative-in-kenya-and-south-africa-s-media/a-77386369?maca=en-rss-en-world-4025-rdf" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Deutsche Welle</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">44</span> 肯尼亚失踪儿童危机暴露系统漏洞</h3>
+                        <p class="item-summary">肯尼亚家庭面临儿童失踪问题，儿童保护系统漏洞受到审查，当局否认危机恶化。</p>
+                        <div class="item-meta">
+                            <a href="https://www.dw.com/en/kenya-s-missing-children-crisis-exposes-system-gaps/a-77408141?maca=en-rss-en-world-4025-rdf" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Deutsche Welle</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">45</span> 马来西亚未成年人社交媒体禁令引争议</h3>
+                        <p class="item-summary">马来西亚禁止16岁以下未成年人使用社交媒体，批评者称难以执行且可能侵犯隐私。</p>
+                        <div class="item-meta">
+                            <a href="https://www.dw.com/en/malaysia-s-social-media-ban-for-minors-sparks-privacy-debate/a-77403526?maca=en-rss-en-world-4025-rdf" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Deutsche Welle</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">46</span> 葡萄牙总罢工致服务中断</h3>
+                        <p class="item-summary">葡萄牙工会因政府劳工改革计划举行总罢工，航班取消、学校关闭，这是六个月来第二次大罢工。</p>
+                        <div class="item-meta">
+                            <a href="https://www.dw.com/en/portugal-general-strike-causes-disruption-to-services/a-77402190?maca=en-rss-en-world-4025-rdf" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Deutsche Welle</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">47</span> 亚美尼亚大选：选择俄罗斯还是欧盟</h3>
+                        <p class="item-summary">亚美尼亚将于6月7日举行选举，决定国家地缘政治方向，民众日益倾向欧盟，考验与俄罗斯的长期盟友关系。</p>
+                        <div class="item-meta">
+                            <a href="https://www.dw.com/en/armenia-s-election-offers-a-choice-between-russia-and-eu/a-77400608?maca=en-rss-en-world-4025-rdf" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Deutsche Welle</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">48</span> 英国学生谋杀案引发抗议</h3>
+                        <p class="item-summary">英国南安普敦爆发抗议，警方与示威者冲突，起因是金融系学生亨利·诺瓦克去年12月被谋杀，受害者被警方铐住。</p>
+                        <div class="item-meta">
+                            <a href="https://www.dw.com/en/uk-protest-erupts-over-student-murder/a-77399817?maca=en-rss-en-world-4025-rdf" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Deutsche Welle</span>
+                        </div>
+                    </article>
+                    </div>
+                    <button class="collapse-btn" data-target="politics-full">
+                        <span>收起</span>
+                        <span class="btn-icon">▴</span>
+                    </button>
+                </div>
+            </section>
+            <section class="category-module economy" id="module-economy">
+                <div class="module-header">
+                    <span class="category-dot dot-economy"></span>
+                    <h2>💰 经济财经</h2>
+                    <span class="article-count">48 篇</span>
+                </div>
+                <div class="module-preview">
+                                        <div class="preview-item">
+                        <span class="preview-num">01</span>
+                        <span class="preview-title">SpaceX目标IPO定价135美元，估值1.77万亿</span>
+                    </div>                    <div class="preview-item">
+                        <span class="preview-num">02</span>
+                        <span class="preview-title">卖家撤房速度创2020年以来最快</span>
+                    </div>
+                </div>
+                                <button class="expand-btn" data-target="economy-full" aria-expanded="false">
+                    <span class="btn-text">展开全部 48 篇</span>
+                    <span class="btn-icon">▾</span>
+                </button>
+                <div class="module-expanded" id="economy-full">
+                    <div class="articles-list">
+                                            <article class="news-item">
+                        <h3><span class="item-num">01</span> SpaceX目标IPO定价135美元，估值1.77万亿</h3>
+                        <p class="item-summary">SpaceX计划以每股135美元IPO，估值1.77万亿美元，将成为美国第七大公司，超过特斯拉1.6万亿美元市值。</p>
+                        <div class="item-meta">
+                            <a href="https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">CNBC Top News</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">02</span> 卖家撤房速度创2020年以来最快</h3>
+                        <p class="item-summary">由于需求疲软和竞价战减少，沮丧的卖家正以越来越快的速度将房屋撤出市场。</p>
+                        <div class="item-meta">
+                            <a href="https://www.cnbc.com/2026/06/03/sellers-delisting-homes-redfin.html" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">CNBC Top News</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">03</span> 博通股价暴跌，软件销售疲软且AI芯片预测不变</h3>
+                        <p class="item-summary">博通公布第二财季业绩，营收不及预期，导致股价大跌。</p>
+                        <div class="item-meta">
+                            <a href="https://www.cnbc.com/2026/06/03/broadcom-avgo-earnings-report-q2-2026.html" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">CNBC Top News</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">04</span> 共和党参议员批评特朗普情报人选</h3>
+                        <p class="item-summary">参议员Tillis称特朗普的情报总监人选Pulte“毫无希望”，Pulte被视为特朗普忠诚者，曾针对总统政敌。</p>
+                        <div class="item-meta">
+                            <a href="https://www.cnbc.com/2026/06/03/tillis-trump-pulte-intelligence-dni-senate.html" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">CNBC Top News</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">05</span> 历史性股市反弹面临关键考验</h3>
+                        <p class="item-summary">两家关键科技公司盘后财报将决定市场下一步走向。</p>
+                        <div class="item-meta">
+                            <a href="https://www.cnbc.com/2026/06/03/historic-stock-rally-faces-key-test.html" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">CNBC Top News</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">06</span> 比特币坚定持有者开始抛售</h3>
+                        <p class="item-summary">过去两天，比特币最坚定的持有者已抛售约24亿美元比特币，价格触及新低。</p>
+                        <div class="item-meta">
+                            <a href="https://www.cnbc.com/2026/06/03/bitcoins-high-conviction-holders-are-selling-as-price-hits-new-lows.html" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">CNBC Top News</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">07</span> 经典策略或带来丰厚股息</h3>
+                        <p class="item-summary">包装公司PKG是一家传统工业公司，可能提供高股息。</p>
+                        <div class="item-meta">
+                            <a href="https://www.cnbc.com/2026/06/03/a-classic-strategy-that-could-yield-big-dividends.html" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">CNBC Top News</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">08</span> 爱荷华州民主党初选结果影响参议院格局</h3>
+                        <p class="item-summary">州众议员Turek击败州参议员Wahls赢得爱荷华州民主党参议员初选，对民主党夺回参议院控制权至关重要。</p>
+                        <div class="item-meta">
+                            <a href="https://www.cnbc.com/2026/06/02/iowa-democratic-senate-primary-josh-turek-zach-wahls.html" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">CNBC Top News</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">09</span> 美联储无法保护消费者免受供给冲击和价格欺诈</h3>
+                        <p class="item-summary">全球干扰推高美国食品和汽油价格，国会需采取行动应对美联储无法控制的通胀类型。</p>
+                        <div class="item-meta">
+                            <a href="https://www.marketwatch.com/story/the-2-types-of-inflation-the-fed-cant-control-and-how-congress-must-protect-your-wallet-7ac2079a?mod=mw_rss_topstories" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">MarketWatch</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">10</span> 71岁老人该卖股票去看孙辈吗？</h3>
+                        <p class="item-summary">一位71岁老人询问是否应卖出1万美元股票去泰国看望孙辈，他靠社保和养老金生活舒适。</p>
+                        <div class="item-meta">
+                            <a href="https://www.marketwatch.com/story/i-am-71-and-comfortable-should-i-sell-10-000-in-stock-to-visit-my-grandkids-in-thailand-or-dip-into-my-50-000-savings-16230c6a?mod=mw_rss_topstories" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">MarketWatch</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">11</span> RMD税无法避免？新策略保护退休金</h3>
+                        <p class="item-summary">文章提供新策略帮助退休人员规避强制最低提款（RMD）的税收影响。</p>
+                        <div class="item-meta">
+                            <a href="https://www.marketwatch.com/story/youre-going-to-pay-tax-on-rmds-theres-no-way-around-it-or-or-is-there-26e864cf?mod=mw_rss_topstories" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">MarketWatch</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">12</span> SpaceX目标IPO融资860亿美元创纪录</h3>
+                        <p class="item-summary">SpaceX计划IPO融资高达860亿美元，马斯克将持有超过80%投票权，巩固控制权。</p>
+                        <div class="item-meta">
+                            <a href="https://www.marketwatch.com/story/spacex-is-set-to-crush-global-records-by-targeting-a-massive-ipo-haul-of-up-to-86-billion-bd08f1ba?mod=mw_rss_topstories" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">MarketWatch</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">13</span> 昂贵珠宝是否安全佩戴？</h3>
+                        <p class="item-summary">文章讨论在公共场合佩戴昂贵珠宝的安全性，引用参加活动者的观察。</p>
+                        <div class="item-meta">
+                            <a href="https://www.marketwatch.com/story/no-one-seems-to-wear-their-bling-is-it-safe-to-show-off-your-expensive-jewelry-a807bc55?mod=mw_rss_topstories" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">MarketWatch</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">14</span> 给兄弟及其子女各5000美元，财务顾问反对</h3>
+                        <p class="item-summary">一位读者想给兄弟和其子女各5000美元，但财务顾问不赞成，因之前已借出1.2万美元未还。</p>
+                        <div class="item-meta">
+                            <a href="https://www.marketwatch.com/story/i-want-to-give-my-brother-and-his-kids-5-000-each-my-financial-adviser-is-reluctant-whos-right-47cbb74e?mod=mw_rss_topstories" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">MarketWatch</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">15</span> 通胀迫使美国家庭新现实，加剧经济K型分化</h3>
+                        <p class="item-summary">美联储褐皮书显示，高物价抑制中低收入消费者支出，加剧经济K型分化。</p>
+                        <div class="item-meta">
+                            <a href="https://www.marketwatch.com/story/squeezing-more-life-out-of-every-dollar-how-inflation-is-forcing-a-new-reality-on-american-families-and-amplifying-the-economys-k-shape-c3ba42de?mod=mw_rss_topstories" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">MarketWatch</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">16</span> 股市周三回调，标普500连涨纪录受威胁</h3>
+                        <p class="item-summary">股市强劲反弹后周三回落，标普500抹去周内涨幅，长期连涨纪录面临风险。</p>
+                        <div class="item-meta">
+                            <a href="https://www.marketwatch.com/story/stocks-take-a-breather-on-wednesday-as-torrid-rally-cools-putting-potentially-historic-s-p-500-winning-streak-in-jeopardy-d0779c2e?mod=mw_rss_topstories" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">MarketWatch</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">17</span> 霍尔木兹海峡关闭，企业寻求新贸易路线</h3>
+                        <p class="item-summary">由于霍尔木兹海峡持续封锁，航运公司正在寻找替代路线。</p>
+                        <div class="item-meta">
+                            <a href="https://www.npr.org/2026/06/03/nx-s1-5828377/as-strait-of-hormuz-stays-shut-companies-seek-new-routes-for-trade" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">NPR Business</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">18</span> 前GEO集团高管执掌ICE，公司政府关系深厚</h3>
+                        <p class="item-summary">ICE新任代理局长曾是私营监狱承包商GEO集团高管，该公司因特朗普政府加强移民拘留而财务大增。</p>
+                        <div class="item-meta">
+                            <a href="https://www.npr.org/2026/06/03/nx-s1-5836625/a-former-geo-group-executive-now-runs-ice-the-companys-government-ties-run-deep" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">NPR Business</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">19</span> 特朗普剥夺8000联邦雇员工作保护</h3>
+                        <p class="item-summary">特朗普签署行政令，将约8000名高级公务员划入可被任意解雇的新类别。</p>
+                        <div class="item-meta">
+                            <a href="https://www.npr.org/2026/06/03/nx-s1-5742806/trump-federal-employees-civil-service-job-protections-schedule-f" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">NPR Business</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">20</span> CBS《60分钟》解雇事件反映媒体控制权之争</h3>
+                        <p class="item-summary">节目新领导称因不服从解雇明星记者Pelley，Pelley则表示是在捍卫新闻诚信，此前已有三名高管和两名记者被解雇。</p>
+                        <div class="item-meta">
+                            <a href="https://www.npr.org/2026/06/03/nx-s1-5844929/cbs-60-minutes-scott-pelley-cecilia-vega-bari-weiss-trump" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">NPR Business</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">21</span> 铜价上涨引发盗窃潮，电话公司反击</h3>
+                        <p class="item-summary">铜价上涨导致窃贼从电线杆、路灯和充电桩盗铜，电话公司提起诉讼反击。</p>
+                        <div class="item-meta">
+                            <a href="https://www.npr.org/2026/06/03/nx-s1-5838875/copper-wire-theft-att-lawsuit" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">NPR Business</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">22</span> 司法部调查前议员Santos在Kalshi内幕交易</h3>
+                        <p class="item-summary">前众议员Santos涉嫌在Kalshi平台押注自己是否出席国情咨文，引发联邦调查。</p>
+                        <div class="item-meta">
+                            <a href="https://www.npr.org/2026/06/02/nx-s1-5843371/george-santos-kalshi-insider-trading-investigation" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">NPR Business</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">23</span> AI公司Anthropic提交IPO文件</h3>
+                        <p class="item-summary">Anthropic提交初步IPO文件，其与OpenAI等AI公司的IPO可能成为美国史上最大规模之一。</p>
+                        <div class="item-meta">
+                            <a href="https://www.npr.org/2026/06/01/nx-s1-5843199/anthropic-ipo-filing-ai-large" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">NPR Business</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">24</span> 研究：远程工作而非AI导致应届毕业生就业难</h3>
+                        <p class="item-summary">纽约联储研究显示，远程工作使公司不愿雇佣需要培训的应届毕业生，导致其失业率上升。</p>
+                        <div class="item-meta">
+                            <a href="https://www.npr.org/2026/06/01/nx-s1-5843076/remote-work-college-graduates-unemployment-ai" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">NPR Business</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">25</span> 全球时尚零售商经营33年后关闭所有门店</h3>
+                        <p class="item-summary">一家全球时尚零售商在运营33年后宣布关闭所有门店。</p>
+                        <div class="item-meta">
+                            <a href="https://finance.yahoo.com/economy/articles/global-fashion-retailer-closing-stores-213300239.html" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Yahoo Finance</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">26</span> 50亿美元理由买入Salesforce股票</h3>
+                        <p class="item-summary">文章指出Salesforce有50亿美元的理由值得买入。</p>
+                        <div class="item-meta">
+                            <a href="https://finance.yahoo.com/markets/stocks/articles/5-billion-reason-buy-salesforce-141514022.html" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Yahoo Finance</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">27</span> 丰田寻求在得克萨斯州新建装配线</h3>
+                        <p class="item-summary">丰田汽车寻求批准在得克萨斯州新建车辆装配线。</p>
+                        <div class="item-meta">
+                            <a href="https://finance.yahoo.com/markets/stocks/articles/toyota-motor-corporation-tm-seeks-141426996.html" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Yahoo Finance</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">28</span> 英伟达CEO黄仁勋建设速度超基础设施支撑</h3>
+                        <p class="item-summary">英伟达CEO黄仁勋正以超越基础设施支撑的速度构建未来。</p>
+                        <div class="item-meta">
+                            <a href="https://finance.yahoo.com/sectors/technology/articles/nvidia-ceo-jensen-huang-building-141502826.html" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Yahoo Finance</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">29</span> Grifols生物制药增长强劲，Gamunex和Yimmugo领衔</h3>
+                        <p class="item-summary">Grifols生物制药业务受Gamunex和Yimmugo推动实现强劲增长。</p>
+                        <div class="item-meta">
+                            <a href="https://finance.yahoo.com/sectors/healthcare/articles/grifols-grfs-sees-strong-biopharma-141035570.html" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Yahoo Finance</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">30</span> RNG目标价上调至49美元</h3>
+                        <p class="item-summary">分析师将RNG目标价上调至49美元。</p>
+                        <div class="item-meta">
+                            <a href="https://finance.yahoo.com/research/reports/ARGUS_6780_QuantitativeReport_1780444800000?yptr=yahoo&amp;ncid=yahooproperties_plusresear_nm5q6ze1cei" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Yahoo Finance</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">31</span> 69年历史家具连锁店申请破产</h3>
+                        <p class="item-summary">一家拥有69年历史的家具连锁店申请第11章破产保护。</p>
+                        <div class="item-meta">
+                            <a href="https://finance.yahoo.com/markets/stocks/articles/69-old-furniture-store-chain-170700563.html" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Yahoo Finance</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">32</span> 阿斯利康CARES III期临床未达主要终点</h3>
+                        <p class="item-summary">阿斯利康CARES III期临床项目未能达到主要终点。</p>
+                        <div class="item-meta">
+                            <a href="https://finance.yahoo.com/sectors/healthcare/articles/astrazeneca-azn-cares-phase-iii-141434466.html" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Yahoo Finance</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">33</span> 美国证券实体出售4.518亿美元SOLV Energy股票</h3>
+                        <p class="item-summary">美国证券实体出售了价值4.518亿美元的SOLV Energy股份。</p>
+                        <div class="item-meta">
+                            <a href="https://www.investing.com/news/insider-trading-news/american-securities-entities-sell-4518m-of-solv-energy-shares-93CH-4725421" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Investing.com</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">34</span> Rush Street Interactive CEO出售405万美元A类股</h3>
+                        <p class="item-summary">Rush Street Interactive CEO Schwartz出售了价值405万美元的A类股票。</p>
+                        <div class="item-meta">
+                            <a href="https://www.investing.com/news/insider-trading-news/rush-street-interactive-ceo-schwartz-sells-405m-in-class-a-stock-93CH-4725420" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Investing.com</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">35</span> Kratos Defense高管出售31.87万美元股票</h3>
+                        <p class="item-summary">Kratos Defense执行副总裁兼CFO Deanna H. Lund出售了价值318,676美元的股票。</p>
+                        <div class="item-meta">
+                            <a href="https://www.investing.com/news/insider-trading-news/kratos-defense-evp--cfo-deanna-h-lund-sells-318676-in-stock-93CH-4725419" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Investing.com</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">36</span> Rockwell Automation高管出售9.95万美元股票</h3>
+                        <p class="item-summary">Rockwell Automation高级副总裁Matthew Fordenwalt出售了价值99,482美元的股票。</p>
+                        <div class="item-meta">
+                            <a href="https://www.investing.com/news/insider-trading-news/rockwell-automation-svp-matthew-fordenwalt-sells-99482-in-stock-93CH-4725418" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Investing.com</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">37</span> Veeva Systems Q1业绩超预期，营收强劲增长</h3>
+                        <p class="item-summary">Veeva Systems第一季度业绩超出预期，营收强劲增长。</p>
+                        <div class="item-meta">
+                            <a href="https://www.investing.com/news/transcripts/earnings-call-transcript-veeva-systems-beats-q1-2025-expectations-with-strong-revenue-growth-93CH-4725417" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Investing.com</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">38</span> Smith-Midland收到纳斯达克不合规通知</h3>
+                        <p class="item-summary">Smith-Midland收到纳斯达克的不合规通知。</p>
+                        <div class="item-meta">
+                            <a href="https://www.investing.com/news/company-news/smithmidland-receives-nasdaq-noncompliance-notice-93CH-4725416" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Investing.com</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">39</span> Take-Two CFO出售680万美元股票</h3>
+                        <p class="item-summary">Take-Two CFO Lainie Goldstein出售了价值680万美元的股票。</p>
+                        <div class="item-meta">
+                            <a href="https://www.investing.com/news/insider-trading-news/taketwo-cfo-lainie-goldstein-sells-68-million-in-stock-93CH-4725415" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Investing.com</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">40</span> Clearfield CEO出售35.19万美元股票</h3>
+                        <p class="item-summary">Clearfield CEO Cheryl Beranek出售了价值351,900美元的股票。</p>
+                        <div class="item-meta">
+                            <a href="https://www.investing.com/news/insider-trading-news/clearfield-ceo-cheryl-beranek-sells-351900-in-stock-93CH-4725414" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Investing.com</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">41</span> 想知未来？别信股市</h3>
+                        <p class="item-summary">股价受多种因素影响，不仅仅是新信息。</p>
+                        <div class="item-meta">
+                            <a href="https://www.economist.com/finance-and-economics/2026/06/02/want-to-know-the-future-dont-trust-the-stockmarket" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">The Economist</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">42</span> 股市能消化Anthropic、SpaceX和OpenAI吗？</h3>
+                        <p class="item-summary">大型IPO可能给市场带来消化不良的风险。</p>
+                        <div class="item-meta">
+                            <a href="https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">The Economist</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">43</span> 中国悄然改善农民工生活</h3>
+                        <p class="item-summary">中国正在放松户籍制度，使农民工生活更便利。</p>
+                        <div class="item-meta">
+                            <a href="https://www.economist.com/finance-and-economics/2026/05/28/without-fanfare-china-is-making-rural-migrants-lives-easier" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">The Economist</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">44</span> 如何对太空企业征税</h3>
+                        <p class="item-summary">随着太空业务增长，离岸金融也将扩展，需考虑税收问题。</p>
+                        <div class="item-meta">
+                            <a href="https://www.economist.com/finance-and-economics/2026/05/28/how-to-tax-businesses-in-orbit-and-beyond" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">The Economist</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">45</span> 新美联储主席面临通胀难题</h3>
+                        <p class="item-summary">Kevin Warsh将难以同时满足同事、市场和特朗普。</p>
+                        <div class="item-meta">
+                            <a href="https://www.economist.com/finance-and-economics/2026/05/27/kevin-warshs-troublesome-inflation-in-tray" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">The Economist</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">46</span> 日韩台面临工业衰退</h3>
+                        <p class="item-summary">人工智能掩盖了中国冲击带来的工业衰退问题。</p>
+                        <div class="item-meta">
+                            <a href="https://www.economist.com/finance-and-economics/2026/05/27/japan-south-korea-and-taiwan-are-suffering-industrial-rot" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">The Economist</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">47</span> 巨型IPO暴露公开市场巨大问题</h3>
+                        <p class="item-summary">股市规模缩水，巨型IPO是症状之一。</p>
+                        <div class="item-meta">
+                            <a href="https://www.economist.com/finance-and-economics/2026/05/26/giga-ipos-are-a-symptom-of-public-markets-giga-problem" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">The Economist</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">48</span> 打击金融保密未伤及离岸金融</h3>
+                        <p class="item-summary">离岸金融中心的价值远不止保密性。</p>
+                        <div class="item-meta">
+                            <a href="https://www.economist.com/finance-and-economics/2026/05/25/crackdowns-on-financial-secrecy-arent-hurting-offshore-finance" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">The Economist</span>
+                        </div>
+                    </article>
+                    </div>
+                    <button class="collapse-btn" data-target="economy-full">
+                        <span>收起</span>
+                        <span class="btn-icon">▴</span>
+                    </button>
+                </div>
+            </section>
+            <section class="category-module technology" id="module-technology">
+                <div class="module-header">
+                    <span class="category-dot dot-tech"></span>
+                    <h2>💻 科技</h2>
+                    <span class="article-count">48 篇</span>
+                </div>
+                <div class="module-preview">
+                                        <div class="preview-item">
+                        <span class="preview-num">01</span>
+                        <span class="preview-title">国防科技资金涌入，谁能持久？</span>
+                    </div>                    <div class="preview-item">
+                        <span class="preview-num">02</span>
+                        <span class="preview-title">Uber今年将投放500辆数据采集车</span>
+                    </div>
+                </div>
+                                <button class="expand-btn" data-target="technology-full" aria-expanded="false">
+                    <span class="btn-text">展开全部 48 篇</span>
+                    <span class="btn-icon">▾</span>
+                </button>
+                <div class="module-expanded" id="technology-full">
+                    <div class="articles-list">
+                                            <article class="news-item">
+                        <h3><span class="item-num">01</span> 国防科技资金涌入，谁能持久？</h3>
+                        <p class="item-summary">国防科技领域火热，Anduril和Mach Industries估值翻倍，美国政府提议国防预算增加40%。但投资人Ross Fubini警告，多数初创公司将在原型合同后的“死亡谷”中迷失。</p>
+                        <div class="item-meta">
+                            <a href="https://techcrunch.com/video/defense-tech-is-flooded-with-money-but-whos-built-to-last/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">TechCrunch</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">02</span> Uber今年将投放500辆数据采集车</h3>
+                        <p class="item-summary">改装版Ioniq 5将搭载传感器，为Uber新AV实验室部门采集数据。</p>
+                        <div class="item-meta">
+                            <a href="https://techcrunch.com/2026/06/03/uber-to-put-500-data-collection-vehicles-on-the-road-this-year/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">TechCrunch</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">03</span> Alphabet创纪录850亿融资，AI前景看好</h3>
+                        <p class="item-summary">Alphabet通过股票出售筹集850亿美元用于谷歌AI业务，创纪录的规模显示投资者对AI相关产品的强烈兴趣。</p>
+                        <div class="item-meta">
+                            <a href="https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">TechCrunch</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">04</span> Meta仁慈地剥离VR健身游戏Supernatural</h3>
+                        <p class="item-summary">Meta听取了用户抗议，将VR健身游戏Supernatural剥离而非直接关闭。</p>
+                        <div class="item-meta">
+                            <a href="https://techcrunch.com/2026/06/03/meta-mercifully-spun-out-vr-fitness-game-supernatural-instead-of-just-killing-it/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">TechCrunch</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">05</span> Substack新功能让创作者控制回复</h3>
+                        <p class="item-summary">Substack推出“回复规则”功能，允许创作者控制受众如何回应，目前适用于所有英文出版物。</p>
+                        <div class="item-meta">
+                            <a href="https://techcrunch.com/2026/06/03/substacks-new-reply-rules-feature-lets-creators-control-how-people-respond/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">TechCrunch</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">06</span> 谷歌Dreambeans将生活变成卡通</h3>
+                        <p class="item-summary">Dreambeans是谷歌推出的AI工具，利用用户个人数据生成AI插画故事，名称古怪。</p>
+                        <div class="item-meta">
+                            <a href="https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">TechCrunch</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">07</span> Ultrahuman称黑客通过内部工具访问健康数据</h3>
+                        <p class="item-summary">可穿戴戒指制造商Ultrahuman遭黑客入侵，源于员工笔记本电脑感染恶意软件导致凭证被盗。</p>
+                        <div class="item-meta">
+                            <a href="https://techcrunch.com/2026/06/03/ultrahuman-says-hackers-accessed-customers-wellness-data-via-internal-tool/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">TechCrunch</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">08</span> Carvana与贝佐斯支持的Slate Auto合作</h3>
+                        <p class="item-summary">Carvana计划销售新车，与Slate Auto合作，去年已获认股权证。Guggenheim CEO Mark Walter对两家公司均有大量投资。</p>
+                        <div class="item-meta">
+                            <a href="https://techcrunch.com/2026/06/03/carvana-ties-up-with-bezos-backed-slate-auto-as-it-plans-new-car-sales/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">TechCrunch</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">09</span> 苹果本周在得州引入年龄验证</h3>
+                        <p class="item-summary">苹果将于6月4日在得克萨斯州App Store引入年龄验证，此前联邦上诉法院允许该州《App Store问责法案》生效。</p>
+                        <div class="item-meta">
+                            <a href="https://www.theverge.com/tech/942761/apple-texas-age-verification-app-store" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">The Verge</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">10</span> WiiM推出首款回音壁，扩展家庭生态</h3>
+                        <p class="item-summary">音频公司WiiM发布WiiM Bar回音壁，支持多种流媒体选项，价格亲民，7月上市。</p>
+                        <div class="item-meta">
+                            <a href="https://www.theverge.com/tech/942748/wiim-releases-first-soundbar" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">The Verge</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">11</span> 英伟达计划N2X和N3X芯片，目标星际迷航电脑</h3>
+                        <p class="item-summary">英伟达CEO黄仁勋在Computex 2026上确认，RTX Spark芯片将至少再推出两代，目标打造类似《星际迷航》的电脑。</p>
+                        <div class="item-meta">
+                            <a href="https://www.theverge.com/tech/942588/nvidia-rtx-spark-n2x-n3x-r2-d2-star-trek-star-wars-plan" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">The Verge</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">12</span> 最佳蓝牙追踪器推荐</h3>
+                        <p class="item-summary">文章推荐适用于苹果和安卓手机的最佳蓝牙追踪器，帮助用户避免丢失物品。</p>
+                        <div class="item-meta">
+                            <a href="https://www.theverge.com/23769840/best-bluetooth-trackers" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">The Verge</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">13</span> 最佳Qi2电池：iPhone和Pixel适用</h3>
+                        <p class="item-summary">最新Qi2.2认证的移动电源可无线充电iPhone 16及更新机型，功率达25W，并支持MagSafe磁吸。</p>
+                        <div class="item-meta">
+                            <a href="https://www.theverge.com/gadgets/939362/best-magsafe-qi2-2-batteries-power-banks" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">The Verge</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">14</span> AI越强大，越暴露空洞承诺</h3>
+                        <p class="item-summary">谷歌新AI代理Spark上手体验：效果惊人但令人不安，能知道用户宠物名字等私人信息，引发对隐私的担忧。</p>
+                        <div class="item-meta">
+                            <a href="https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">The Verge</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">15</span> 亚马逊搜索栏将生成AI产品图</h3>
+                        <p class="item-summary">亚马逊更新搜索栏，用户描述产品时显示AI生成图像，目前仅限服装和家居用品，可点击搜索类似商品。</p>
+                        <div class="item-meta">
+                            <a href="https://www.theverge.com/tech/942547/amazon-search-bar-ai-images" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">The Verge</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">16</span> PlayStation回归核心优势</h3>
+                        <p class="item-summary">PlayStation在State of Play展示会上强调回归高品质叙事驱动单人游戏，以《金刚狼》和《战神》新作开场和结束。</p>
+                        <div class="item-meta">
+                            <a href="https://www.theverge.com/games/942520/playstation-wolverine-god-of-war-laufey-state-of-play-june-2026" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">The Verge</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">17</span> 得州南部发现食肉螺旋蝇感染</h3>
+                        <p class="item-summary">美国农业部称，若确认，将是该蝇首次突破美墨边境。</p>
+                        <div class="item-meta">
+                            <a href="https://arstechnica.com/health/2026/06/flesh-eating-screwworm-infection-detected-in-south-texas-usda-says/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Ars Technica</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">18</span> 谷歌被令在AI搜索中提供更清晰链接</h3>
+                        <p class="item-summary">英国监管机构要求谷歌修改AI概览，允许出版商选择退出，此前谷歌声称用户不想要“大量来源”。</p>
+                        <div class="item-meta">
+                            <a href="https://arstechnica.com/tech-policy/2026/06/google-ordered-to-put-clearer-links-in-ai-search-and-let-uk-publishers-opt-out/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Ars Technica</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">19</span> Dashlane警告20个加密保险库被盗</h3>
+                        <p class="item-summary">Dashlane发布模糊安全公告，称20个加密保险库被盗，但未提供关键细节，保持沉默。</p>
+                        <div class="item-meta">
+                            <a href="https://arstechnica.com/security/2026/06/dashlane-issues-opaque-advisory-warning-20-encrypted-vaults-were-stolen/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Ars Technica</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">20</span> 谷歌新Gemma 4 12B模型可在16GB内存笔记本运行</h3>
+                        <p class="item-summary">Gemma 4 12B采用新编码方案和令牌预测，性能超越其规模。</p>
+                        <div class="item-meta">
+                            <a href="https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Ars Technica</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">21</span> 特朗普AI测试计划面临问题：安全团队被裁</h3>
+                        <p class="item-summary">批评者称特朗普的AI模型测试计划短视且流于形式，因DOGE削减导致美国安全团队被削弱。</p>
+                        <div class="item-meta">
+                            <a href="https://arstechnica.com/tech-policy/2026/06/trumps-ai-executive-order-may-not-prevent-dangerous-deployments/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Ars Technica</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">22</span> Plex新增社交功能，转型内容发现平台</h3>
+                        <p class="item-summary">Plex越来越专注于内容发现和流媒体租赁，新社交功能进一步推动其从媒体服务器业务转型。</p>
+                        <div class="item-meta">
+                            <a href="https://arstechnica.com/gadgets/2026/06/new-social-features-further-plexs-evolution-from-media-server-business/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Ars Technica</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">23</span> 自动驾驶本应减少拥堵，但数据显示相反</h3>
+                        <p class="item-summary">研究显示Waymo机器人出租车近一半里程为空驶，并未比网约车更有效地减少交通拥堵。</p>
+                        <div class="item-meta">
+                            <a href="https://arstechnica.com/cars/2026/06/robotaxis-dont-cut-traffic-any-more-than-ride-hailing-study-finds/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Ars Technica</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">24</span> Meta追赶AI的努力内幕</h3>
+                        <p class="item-summary">外界质疑Meta能否缩小与竞争对手的AI差距。</p>
+                        <div class="item-meta">
+                            <a href="https://arstechnica.com/ai/2026/06/inside-metas-attempts-to-play-catch-up-with-ai/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Ars Technica</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">25</span> xAI要求法院取消深伪裸照受害者匿名权</h3>
+                        <p class="item-summary">四名以化名起诉xAI（Grok深伪裸照）的人可能面临艰难选择：公开真实姓名或放弃诉讼。</p>
+                        <div class="item-meta">
+                            <a href="https://www.wired.com/story/xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims-of-anonymity/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Wired</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">26</span> 马斯克与美国极右翼煽动英国少年谋杀案愤怒</h3>
+                        <p class="item-summary">包括Nick Fuentes在内的有影响力人物被指控“劫持”Henry Nowak谋杀案以推动种族主义议程。</p>
+                        <div class="item-meta">
+                            <a href="https://www.wired.com/story/elon-musk-and-americas-far-right-stoke-anger-over-murder-of-uk-teen/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Wired</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">27</span> 亚马逊员工出席市议会要求限制数据中心</h3>
+                        <p class="item-summary">活动人士称这是首次有大型科技公司员工公开呼吁对数据中心项目进行监管。</p>
+                        <div class="item-meta">
+                            <a href="https://www.wired.com/story/amazon-employees-publicly-demand-regulations-on-data-centers/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Wired</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">28</span> 未来人形机器人：中国身体美国大脑</h3>
+                        <p class="item-summary">英伟达机器人负责人Spencer Huang表示，新机器人H2+结合了中国身体和美国大脑的最佳部分。</p>
+                        <div class="item-meta">
+                            <a href="https://www.wired.com/story/nvidia-unitree-humanoid-robot-h2-plus/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Wired</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">29</span> 特朗普最终签署AI行政令内幕</h3>
+                        <p class="item-summary">在搁置原行政令一个月后，特朗普于周一晚签署了AI行政令。</p>
+                        <div class="item-meta">
+                            <a href="https://www.wired.com/story/this-is-how-trump-finally-signed-the-ai-executive-order/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Wired</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">30</span> 特朗普前官员在欧洲“再移民”会议成明星</h3>
+                        <p class="item-summary">曾领导特朗普入侵美国城市的Greg Bovino在葡萄牙与美欧极右翼一起宣扬“再移民”计划，即驱逐所有少数族裔和移民。</p>
+                        <div class="item-meta">
+                            <a href="https://www.wired.com/story/greg-bovino-was-the-star-at-a-european-remigration-conference/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Wired</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">31</span> 如何屏蔽iPhone和Android的垃圾电话和短信</h3>
+                        <p class="item-summary">文章提供2026年屏蔽垃圾电话和短信的方法，帮助用户应对骚扰。</p>
+                        <div class="item-meta">
+                            <a href="https://www.wired.com/story/how-to-block-calls-and-spam-messages/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Wired</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">32</span> 英伟达RTX Spark笔记本芯片势在颠覆</h3>
+                        <p class="item-summary">英伟达RTX Spark芯片可能最终将“AI PC”变为现实。</p>
+                        <div class="item-meta">
+                            <a href="https://www.wired.com/story/nvidia-rtx-spark-laptop-disruption/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Wired</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">33</span> 弯曲波束可欺骗反干扰技术</h3>
+                        <p class="item-summary">莱斯大学研究人员称，如果无法定位信号干扰源，很难阻止干扰，弯曲波束可能是一种解决方案。</p>
+                        <div class="item-meta">
+                            <a href="https://www.theregister.com/networks/2026/06/03/curving-beams-could-fool-anti-jamming-tech/5250872" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">The Register</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">34</span> 微软将Linux命令移植到Windows</h3>
+                        <p class="item-summary">Coreutils为Windows和PowerShell提供超过75个Unix命令。</p>
+                        <div class="item-meta">
+                            <a href="https://www.theregister.com/os-platforms/2026/06/03/grep-this-microsoft-grafts-most-linux-commands-onto-windows/5250796" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">The Register</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">35</span> Ring因收集访客面部信息遭集体诉讼</h3>
+                        <p class="item-summary">Ring因“熟悉面孔”等AI功能面临最新集体诉讼，指控其未经同意收集面部数据。</p>
+                        <div class="item-meta">
+                            <a href="https://www.theregister.com/personal-tech/2026/06/03/ring-faces-class-action-over-facial-recognition-feature/5250661" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">The Register</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">36</span> 微软AI不再只是副驾驶，而要掌控全局</h3>
+                        <p class="item-summary">微软推出始终在线的AI代理，承诺保持工作推进，但需要用户信任其处理几乎所有事务。</p>
+                        <div class="item-meta">
+                            <a href="https://www.theregister.com/ai-and-ml/2026/06/03/no-longer-just-a-copilot-microsofts-ai-wants-to-take-the-wheel/5250718" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">The Register</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">37</span> 英特尔18A工艺节点过于激进</h3>
+                        <p class="item-summary">英特尔CFO Zinsner称18A节点是特例，14A仍在正轨。</p>
+                        <div class="item-meta">
+                            <a href="https://www.theregister.com/systems/2026/06/03/intel-bit-off-more-than-it-could-chew-with-18a-process-node/5250696" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">The Register</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">38</span> 移动运营商呼吁6G避免重蹈5G覆辙</h3>
+                        <p class="item-summary">NGMN希望在下一代网络部署前有清晰的迁移路径。</p>
+                        <div class="item-meta">
+                            <a href="https://www.theregister.com/networks/2026/06/03/dont-repeat-5g-mistakes-with-6g-plead-mobile-operators/5250572" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">The Register</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">39</span> Marvell或成下一个万亿美元公司</h3>
+                        <p class="item-summary">Marvell的技术可能使其成为万亿美元公司，但需警惕Broadcom的竞争。</p>
+                        <div class="item-meta">
+                            <a href="https://www.theregister.com/networks/2026/06/03/the-tech-that-could-make-marvell-the-next-trillion-dollar-company/5250472" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">The Register</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">40</span> AI代理可操纵你的组织，你准备好了吗？</h3>
+                        <p class="item-summary">赞助文章：具有操作能力的代理需要制定相应的政策。</p>
+                        <div class="item-meta">
+                            <a href="https://www.theregister.com/ai-and-ml/2026/06/03/ai-agents-can-now-manipulate-your-organization-are-you-ready/5250444" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">The Register</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">41</span> Ableton Extensions SDK发布</h3>
+                        <p class="item-summary">Ableton发布Extensions SDK，允许开发者扩展Live软件功能。</p>
+                        <div class="item-meta">
+                            <a href="https://www.ableton.com/en/live/extensions/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Hacker News</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">42</span> Mnemo：本地优先的AI记忆层</h3>
+                        <p class="item-summary">Mnemo是一个开源项目，为任何LLM提供本地优先的AI记忆层，使用Rust、SQLite和petgraph。</p>
+                        <div class="item-meta">
+                            <a href="https://github.com/zaydmulani09/mnemo" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Hacker News</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">43</span> 以读书为生的人：每两天一本</h3>
+                        <p class="item-summary">一位职业读者每两天读一本书，分享其阅读生活方式。</p>
+                        <div class="item-meta">
+                            <a href="https://lithub.com/the-man-who-reads-books-for-a-living-one-every-two-days/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Hacker News</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">44</span> 自托管开发沙箱与预览URL</h3>
+                        <p class="item-summary">一个开源项目，提供自托管的开发沙箱，支持预览URL，使用Docker、Go，无需K8s。</p>
+                        <div class="item-meta">
+                            <a href="https://github.com/tastyeffectco/sandboxes" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Hacker News</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">45</span> Brume：24复音多音色桌面合成器</h3>
+                        <p class="item-summary">Brume是一款基于CM5的24复音多音色桌面合成器。</p>
+                        <div class="item-meta">
+                            <a href="https://brume.aftertone.co/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Hacker News</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">46</span> Elixir v1.20发布：逐步类型化语言</h3>
+                        <p class="item-summary">Elixir 1.20版本发布，引入逐步类型系统，成为类型化语言。</p>
+                        <div class="item-meta">
+                            <a href="https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Hacker News</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">47</span> Rootshell：冰岛托管的新端到端加密邮件服务</h3>
+                        <p class="item-summary">Rootshell推出新的端到端加密电子邮件服务，服务器位于冰岛。</p>
+                        <div class="item-meta">
+                            <a href="https://rootshell.is" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Hacker News</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">48</span> 胚胎塑造肢体：发现“基因刹车”</h3>
+                        <p class="item-summary">蒙特利尔大学研究揭示胚胎如何通过“基因刹车”机制塑造肢体。</p>
+                        <div class="item-meta">
+                            <a href="https://nouvelles.umontreal.ca/en/article/2026/06/02/how-embryos-shape-their-limbs-a-key-discovery-of-genetic-brakes" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Hacker News</span>
+                        </div>
+                    </article>
+                    </div>
+                    <button class="collapse-btn" data-target="technology-full">
+                        <span>收起</span>
+                        <span class="btn-icon">▴</span>
+                    </button>
+                </div>
+            </section>
+            <section class="category-module travel" id="module-travel">
+                <div class="module-header">
+                    <span class="category-dot dot-travel"></span>
+                    <h2>✈️ 旅游</h2>
+                    <span class="article-count">31 篇</span>
+                </div>
+                <div class="module-preview">
+                                        <div class="preview-item">
+                        <span class="preview-num">01</span>
+                        <span class="preview-title">Skift数据与AI峰会：投资旅游AI需注重可衡量成本节约</span>
+                    </div>                    <div class="preview-item">
+                        <span class="preview-num">02</span>
+                        <span class="preview-title">Skift峰会：Sierra与Amadeus谈AI代理部署</span>
+                    </div>
+                </div>
+                                <button class="expand-btn" data-target="travel-full" aria-expanded="false">
+                    <span class="btn-text">展开全部 31 篇</span>
+                    <span class="btn-icon">▾</span>
+                </button>
+                <div class="module-expanded" id="travel-full">
+                    <div class="articles-list">
+                                            <article class="news-item">
+                        <h3><span class="item-num">01</span> Skift数据与AI峰会：投资旅游AI需注重可衡量成本节约</h3>
+                        <p class="item-summary">在Skift数据与AI峰会上，Brook Bay Capital、Inovia和Highgate Technology Ventures指出，向投资者推销旅游AI时，应优先展示可计入损益表的成本节约，而非仅承诺收入增长，可衡量性是达成交易的关键。</p>
+                        <div class="item-meta">
+                            <a href="https://skift.com/2026/06/03/brook-bay-capital-inovia-highgate-technology-ventures-skift-data-and-ai-2026/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Skift</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">02</span> Skift峰会：Sierra与Amadeus谈AI代理部署</h3>
+                        <p class="item-summary">Sierra和Amadeus在Skift数据与AI峰会上表示，等待AI代理成熟再投入生产部署将导致竞争劣势，等待期已开始侵蚀市场份额。</p>
+                        <div class="item-meta">
+                            <a href="https://skift.com/2026/06/03/sierra-and-amadeus-at-skift-data-ai-summit/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Skift</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">03</span> Booking.com在Skift峰会：AI路线图应聚焦内部流程</h3>
+                        <p class="item-summary">Booking.com在Skift数据与AI峰会上指出，如果AI路线图围绕客户可见功能组织，则优化方向错误，应优先优化内部流程。</p>
+                        <div class="item-meta">
+                            <a href="https://skift.com/2026/06/03/booking-com-at-skift-data-ai-summit/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Skift</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">04</span> IHG与Evolve：AI规模化挑战在人而非技术</h3>
+                        <p class="item-summary">IHG和Evolve在Skift数据与AI峰会上表示，规模化AI的难点不在技术，而在人员管理。</p>
+                        <div class="item-meta">
+                            <a href="https://skift.com/2026/06/03/ihg-evolve-skift-data-ai-summit-2026/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Skift</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">05</span> Amex GBT与TUI：AI试点停滞需指定负责人</h3>
+                        <p class="item-summary">Amex GBT和TUI集团在Skift峰会上指出，AI试点停滞的解决方案不是更好的模型，而是为每个代理指定明确的负责人。</p>
+                        <div class="item-meta">
+                            <a href="https://skift.com/2026/06/03/amex-gbt-and-tui-group-at-skift-data-and-ai-summit-2026/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Skift</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">06</span> Expedia技术高管：自建还是购买AI？客户数据要自控</h3>
+                        <p class="item-summary">Expedia技术高管在Skift峰会上表示，收购AI公司可能反而拖累进展，建议自建并保护客户数据。</p>
+                        <div class="item-meta">
+                            <a href="https://skift.com/2026/06/03/expedia-tech-exec-on-build-versus-buy-keep-customer-data-close/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Skift</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">07</span> Flight Science等公司：AI成功靠专有数据与运营深度</h3>
+                        <p class="item-summary">Flight Science、Abra和BizTrip在Skift峰会上表示，AI产品脱颖而出的关键是专有数据和竞争对手无法复制的运营深度。</p>
+                        <div class="item-meta">
+                            <a href="https://skift.com/2026/06/03/flight-science-abra-biz-trip-ai-ceos-skift-data-ai-summit-2026/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Skift</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">08</span> 万豪AI部署：从试点到“得分”</h3>
+                        <p class="item-summary">万豪进入AI部署第三阶段，今年将推出对话搜索功能，其数据与AI高管表示，更艰巨的任务是重新设计底层工作流程。</p>
+                        <div class="item-meta">
+                            <a href="https://skift.com/2026/06/03/marriotts-ai-rollout-from-pilots-to-points-on-the-board/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Skift</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">09</span> 阿拉斯加航空波特兰新休息室：致敬太平洋西北</h3>
+                        <p class="item-summary">阿拉斯加航空在波特兰新开的休息室较之前大幅升级，TPG在开放前预览了其设计细节。</p>
+                        <div class="item-meta">
+                            <a href="https://thepointsguy.com/airline/reviews/alaska-airlines-lounge-pdx-2026/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">The Points Guy</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">10</span> 最佳加油信用卡推荐</h3>
+                        <p class="item-summary">考虑办一张加油返现信用卡？本文解释了为何需要以及推荐了经过审核的优质选项。</p>
+                        <div class="item-meta">
+                            <a href="https://thepointsguy.com/credit-cards/best-gas-credit-cards/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">The Points Guy</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">11</span> 七月十大最佳旅行地</h3>
+                        <p class="item-summary">我们搜罗全球，根据不可错过的活动、热门酒店开业和新航线，评选出七月最佳旅行目的地。</p>
+                        <div class="item-meta">
+                            <a href="https://thepointsguy.com/travel/the-best-places-to-travel-in-july/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">The Points Guy</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">12</span> 西南航空Premier信用卡评测：实惠福利</h3>
+                        <p class="item-summary">西南航空Rapid Rewards Premier信用卡是其中档个人卡，本文全面介绍了其权益。</p>
+                        <div class="item-meta">
+                            <a href="https://thepointsguy.com/credit-cards/reviews/southwest-rapid-rewards-premier-card-review/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">The Points Guy</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">13</span> 32家新凯悦酒店每晚额外500积分</h3>
+                        <p class="item-summary">凯悦天地会员在指定新酒店入住可获每晚500奖励积分，限时优惠。</p>
+                        <div class="item-meta">
+                            <a href="https://thepointsguy.com/loyalty-programs/hyatt-new-hotel-bonus/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">The Points Guy</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">14</span> Walmart+加油折扣使用指南：每加仑省10美分</h3>
+                        <p class="item-summary">本文介绍如何在加油站激活Walmart+会员折扣，每加仑节省10美分。</p>
+                        <div class="item-meta">
+                            <a href="https://thepointsguy.com/travel/how-to-use-walmart-gas-discount-at-pump/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">The Points Guy</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">15</span> Uber为世界杯推出新功能与折扣</h3>
+                        <p class="item-summary">Uber推出新功能与折扣，优化世界杯期间的出行和外卖服务，不仅限于球迷。</p>
+                        <div class="item-meta">
+                            <a href="https://thepointsguy.com/news/uber-world-cup-features/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">The Points Guy</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">16</span> 美联航新增四条航线：墨西哥、加勒比和南加州</h3>
+                        <p class="item-summary">美联航从纽瓦克、休斯顿和华盛顿特区新增四条飞往温暖目的地的航线。</p>
+                        <div class="item-meta">
+                            <a href="https://thepointsguy.com/airline/united-launching-new-routes-fall-winter/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">The Points Guy</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">17</span> Faye旅行保险：最佳新公司</h3>
+                        <p class="item-summary">作者近二十年旅行写作经验，认为Faye是旅行保险行业变革者，提供优质服务。</p>
+                        <div class="item-meta">
+                            <a href="https://www.nomadicmatt.com/travel-blogs/faye-travel-insurance-review/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Nomadic Matt</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">18</span> 马德里五日行程：文化、美食与当地生活</h3>
+                        <p class="item-summary">马德里是西班牙首都，人口约350万，每年超1000万游客，本文提供五日文化美食深度游指南。</p>
+                        <div class="item-meta">
+                            <a href="https://www.nomadicmatt.com/travel-blogs/madrid-five-day-itinerary/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Nomadic Matt</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">19</span> Capital One Venture Business信用卡评测</h3>
+                        <p class="item-summary">该卡适合旅行者积累积分降低旅行成本，本文详细评测其权益。</p>
+                        <div class="item-meta">
+                            <a href="https://www.nomadicmatt.com/travel-blogs/capital-one-venture-business-review/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Nomadic Matt</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">20</span> Outsite：数字游民最佳住宿选择</h3>
+                        <p class="item-summary">Outsite为远程工作者提供兼顾工作与旅行的住宿环境，解决寻找安静工作空间的难题。</p>
+                        <div class="item-meta">
+                            <a href="https://www.nomadicmatt.com/travel-blogs/outsite-digital-nomads/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Nomadic Matt</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">21</span> Antigravity 360无人机如何改变旅行</h3>
+                        <p class="item-summary">Antigravity A1无人机于2025年底发布，提供独特航拍视角，改变旅行体验。</p>
+                        <div class="item-meta">
+                            <a href="https://www.nomadicmatt.com/travel-blogs/antigravity-drone-review/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Nomadic Matt</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">22</span> 最佳远程工作公司推荐</h3>
+                        <p class="item-summary">本文推荐一家帮助旅行者找到远程工作的公司，使旅行更具深度和参与感。</p>
+                        <div class="item-meta">
+                            <a href="https://www.nomadicmatt.com/travel-blogs/global-work-travel-review/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Nomadic Matt</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">23</span> 别去丽贝岛</h3>
+                        <p class="item-summary">作者19年后重返泰国丽贝岛，发现过度开发使其失去原始魅力，劝告游客谨慎前往。</p>
+                        <div class="item-meta">
+                            <a href="https://www.nomadicmatt.com/travel-blogs/dont-visit-ko-lipe/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Nomadic Matt</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">24</span> 我如何获得法国签证</h3>
+                        <p class="item-summary">作者分享申请法国签证的经历，自2010年首次访问后爱上法国，最终成功获得签证。</p>
+                        <div class="item-meta">
+                            <a href="https://www.nomadicmatt.com/travel-blogs/france-visa/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Nomadic Matt</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">25</span> 东欧最安全未被发现的国家欢迎游客</h3>
+                        <p class="item-summary">保加利亚作为东欧安全且未被主流美国游客发现的国家，积极欢迎游客，与西班牙、意大利的过度旅游形成对比。</p>
+                        <div class="item-meta">
+                            <a href="https://www.traveloffpath.com/eastern-europes-safest-undiscovered-country-wants-more-tourists-to-visit/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Travel Off Path</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">26</span> 美联航开通纽约至免签天堂岛唯一航班</h3>
+                        <p class="item-summary">美联航将开通纽约至美属维尔京群岛圣托马斯岛的直飞航班，该岛为美国领土，无需护照。</p>
+                        <div class="item-meta">
+                            <a href="https://www.traveloffpath.com/united-launching-only-new-york-flight-to-stunning-passport-free-island/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Travel Off Path</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">27</span> 美国驻圣何塞德尔卡沃大使馆发布安全警报</h3>
+                        <p class="item-summary">美国大使馆针对墨西哥圣何塞德尔卡沃发布安全警报，提醒游客注意安全。</p>
+                        <div class="item-meta">
+                            <a href="https://www.traveloffpath.com/u-s-embassy-issues-security-alert-for-san-jose-del-cabo/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Travel Off Path</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">28</span> 游历45国后我不会再去的5个海滩</h3>
+                        <p class="item-summary">作者分享游历45国后认为不值得再去的5个海滩目的地，提醒游客社交媒体滤镜可能造成误导。</p>
+                        <div class="item-meta">
+                            <a href="https://www.traveloffpath.com/5-beach-destinations-i-wont-return-to-after-visiting-45-countries/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Travel Off Path</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">29</span> 法国最佳秘密岛屿度假地</h3>
+                        <p class="item-summary">法国一座未被游客淹没的岛屿成为今夏秘密度假地，拥有粉彩梦幻景观。</p>
+                        <div class="item-meta">
+                            <a href="https://www.traveloffpath.com/this-island-getaway-is-frances-best-kept-secret-this-summer/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Travel Off Path</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">30</span> 美国宣布天堂岛重返欧洲最安全国家之列</h3>
+                        <p class="item-summary">美国国务院更新安全评级，宣布某天堂岛重新成为欧洲最安全国家之一。</p>
+                        <div class="item-meta">
+                            <a href="https://www.traveloffpath.com/u-s-announces-this-paradise-island-is-back-to-being-one-of-the-safest-countries-in-europe/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Travel Off Path</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">31</span> 三个地中海目的地：低价少人</h3>
+                        <p class="item-summary">推荐三个地中海替代目的地，价格更低、游客更少，避开阿马尔菲海岸、马略卡岛和米科诺斯岛的人潮。</p>
+                        <div class="item-meta">
+                            <a href="https://www.traveloffpath.com/3-mediterranean-destinations-for-cheaper-prices-less-crowds-this-summer/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Travel Off Path</span>
+                        </div>
+                    </article>
+                    </div>
+                    <button class="collapse-btn" data-target="travel-full">
+                        <span>收起</span>
+                        <span class="btn-icon">▴</span>
+                    </button>
+                </div>
+            </section>
+    </div>
+
+    <!-- Sources -->
+    <section class="sources-section">
+        <h2>📊 数据来源</h2>
+        <table class="sources-table">
+            <tr><td>🌍 国际政治</td><td>BBC World、The Guardian、Al Jazeera、NPR World、France 24、Deutsche Welle</td></tr>
+<tr><td>💰 经济财经</td><td>CNBC Top News、MarketWatch、NPR Business、Yahoo Finance、Investing.com、The Economist</td></tr>
+<tr><td>💻 科技</td><td>TechCrunch、The Verge、Ars Technica、Wired、The Register、Hacker News</td></tr>
+<tr><td>✈️ 旅游</td><td>Skift、The Points Guy、Nomadic Matt、Travel Off Path</td></tr>
+        </table>
+    </section>
+
+    <!-- Errors (if any) -->
+    
+
+</main>
+
+<!-- ═══════════════════ Footer ═══════════════════ -->
+<footer class="site-footer">
+    <div class="divider"></div>
+    <p>本日报由脚本自动生成，内容由 <strong>DeepSeek AI</strong> 翻译与摘要</p>
+    <p class="mono">所有新闻版权归原来源所有 &nbsp;·&nbsp; Generated by Daily News Digest</p>
+</footer>
+
+<!-- ═══════════════════ Search Data ═══════════════════ -->
+<script id="search-data" type="application/json">[{"title": "以军炸死黎巴嫩9人，真主党越境还击", "summary": "以色列与黎巴嫩真主党之间的冲突升级，双方互射火箭弹和空袭，导致9人死亡，部分停火协议面临压力。", "source": "BBC World", "link": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "伊朗无人机袭击科威特机场致1死", "summary": "伊朗称袭击科威特机场是对美国此前打击伊朗油轮和岛屿的报复，造成1人死亡、数十人受伤。", "source": "BBC World", "link": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "特朗普与内塔尼亚胡“疯狂”通话", "summary": "特朗普与以色列总理内塔尼亚胡的通话被形容为“疯狂”，内塔尼亚胡淡化摩擦，但此举可能影响伊朗核谈判。", "source": "BBC World", "link": "https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&at_campaign=rss", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "乌克兰无人机袭击圣彼得堡", "summary": "乌克兰无人机袭击圣彼得堡附近油库，正值普京出席经济论坛前夕，俄方称袭击未造成重大损失。", "source": "BBC World", "link": "https://www.bbc.com/news/articles/c0e2vqd3j1vo?at_medium=RSS&at_campaign=rss", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "德里酒店火灾致21死含外籍人士", "summary": "印度德里一家酒店发生火灾，至少21人死亡，其中18人为外国公民，多为前来就医的南亚人。", "source": "BBC World", "link": "https://www.bbc.com/news/articles/czd29327qzvo?at_medium=RSS&at_campaign=rss", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "加州州长初选：前英顾问领先", "summary": "加州州长初选计票中，前英国政治顾问和拜登内阁秘书领先，亿万富翁气候活动家斯特耶位列第三。", "source": "BBC World", "link": "https://www.bbc.com/news/articles/cn8p0yz512no?at_medium=RSS&at_campaign=rss", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "文德斯撤回1975年影片因少女裸戏", "summary": "导演维姆·文德斯撤回1975年电影，因女演员娜塔莎·金斯基13岁时出演裸戏，她称导演未保护她。", "source": "BBC World", "link": "https://www.bbc.com/news/articles/c99legznj8do?at_medium=RSS&at_campaign=rss", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "美国以强迫劳动为由加征新关税", "summary": "美国宣布对涉嫌强迫劳动的商品加征新关税，此前最高法院在2月否决了特朗普的多数关税。", "source": "BBC World", "link": "https://www.bbc.com/news/articles/cq6pe7nvldmo?at_medium=RSS&at_campaign=rss", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "世卫：刚果（金）埃博拉或1月已爆发", "summary": "世卫组织总干事谭德塞表示，刚果（金）埃博拉疫情可能早在1月就已开始，病毒“领先很多”，但应对正在追赶。", "source": "The Guardian", "link": "https://www.theguardian.com/global-development/2026/jun/03/drc-ebola-outbreak-could-have-begun-as-early-as-january-who-chief-says", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "肯尼亚人担忧美国埃博拉隔离点", "summary": "美国计划在肯尼亚中部设立埃博拉隔离设施，当地居民批评此举将使他们暴露于病毒风险中，指责美国双重标准。", "source": "The Guardian", "link": "https://www.theguardian.com/world/2026/jun/02/kenyans-fear-us-plan-for-ebola-quarantine-site", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "莫桑比克称5名公民在南非被杀", "summary": "莫桑比克称5名公民在南非“仇外袭击”中丧生，南非警方仅确认2名莫桑比克人死亡，反移民暴力蔓延。", "source": "The Guardian", "link": "https://www.theguardian.com/world/2026/jun/02/mozambique-citizens-killed-xenophobic-attacks-south-africa", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "加纳通过严苛反LGBTQ+法案", "summary": "加纳议会通过法案，将LGBTQ+活动定为犯罪，最高可判10年监禁，社区担忧失去住房、工作和医疗。", "source": "The Guardian", "link": "https://www.theguardian.com/global-development/2026/jun/01/ghana-new-law-criminalising-lgbtq-activity", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "英国无需向卢旺达支付1亿英镑", "summary": "国际法庭裁定，英国无需因失败的移民遣送计划向卢旺达支付逾1亿英镑，卢旺达此前起诉英国违约。", "source": "The Guardian", "link": "https://www.theguardian.com/uk-news/2026/jun/01/uk-will-not-pay-rwanda-over-failed-asylum-scheme", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "美法官下令驱逐已故少年移民", "summary": "北卡罗来纳州移民法官下令驱逐一名2024年遇害的少年，因其未出庭，尽管已被告知其死亡。", "source": "The Guardian", "link": "https://www.theguardian.com/us-news/2026/jun/03/north-carolina-judge-deport-teen-murder-victim", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "墨西哥如何应对致命敲诈勒索？", "summary": "墨西哥敲诈勒索犯罪猖獗，腐败警察与黑帮勾结，总统誓言打击犯罪，但问题已影响社会各阶层。", "source": "The Guardian", "link": "https://www.theguardian.com/world/2026/jun/03/how-can-mexico-confront-rise-in-deadly-extortion", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "美墨边境隧道查获1吨可卡因", "summary": "美国检方指控4名嫌疑人利用圣地亚哥假零售店作掩护，通过隧道从墨西哥走私逾1吨可卡因，涉及哈利斯科新一代贩毒集团。", "source": "The Guardian", "link": "https://www.theguardian.com/us-news/2026/jun/02/san-diego-drug-tunnel", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "加沙医生哈马维有望进美国国会", "summary": "亚当·哈马维在新泽西州初选中获胜，可能成为美国国会中少数有加沙一线经历的议员。", "source": "Al Jazeera", "link": "https://www.aljazeera.com/news/2026/6/3/who-is-adam-hamawy-doctor-who-served-in-gaza-is-on-the-path-to-us-congress?traffic_source=rss", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "科威特称伊朗袭击为“严重侵略”", "summary": "科威特国防部将伊朗无人机袭击其国际机场事件定性为“严重的伊朗侵略”。", "source": "Al Jazeera", "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/kuwait-labels-iran-attack-heinous?traffic_source=rss", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "乌克兰袭击圣彼得堡，俄办经济论坛", "summary": "乌克兰对圣彼得堡附近油库和海军基地发动空袭，正值俄罗斯举办年度经济论坛。", "source": "Al Jazeera", "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/ukraine-attacks-st-petersburg-as-russia-hosts-its-own-davos?traffic_source=rss", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "新德里酒店大火致21死含18名外籍", "summary": "新德里一家酒店发生火灾，至少21人死亡，其中18人为外国公民。", "source": "Al Jazeera", "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/deadly-fire-rips-through-new-delhi-hotel?traffic_source=rss", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "日本足球队戴牛仔帽备战世界杯", "summary": "日本国家足球队在墨西哥蒙特雷戴上牛仔帽，受到球迷欢迎。", "source": "Al Jazeera", "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/japans-football-team-sports-cowboy-hats-ahead-of-world-cup-2?traffic_source=rss", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "鲁比奥：多数国家认为以色列有核武", "summary": "美国国务卿鲁比奥在国会听证会上回避美国对以色列核计划的立场，但称“多数国家认为以色列有核武”。", "source": "Al Jazeera", "link": "https://www.aljazeera.com/news/2026/6/3/does-israel-have-nukes-most-of-world-assesses-they-do-says-rubio?traffic_source=rss", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "纪念阿里逝世十周年", "summary": "世界各地纪念拳王穆罕默德·阿里逝世十周年，缅怀这位“最伟大”的运动员。", "source": "Al Jazeera", "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/ten-years-on-world-remembers-muhammad-ali-the-greatest?traffic_source=rss", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "以色列入侵黎巴嫩的历史", "summary": "半岛电视台回顾以色列48年来第六次入侵黎巴嫩的历史。", "source": "Al Jazeera", "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/israels-decades-long-history-of-invading-lebanon?traffic_source=rss", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "特朗普确认称内塔尼亚胡“疯狂”", "summary": "特朗普承认在电话中称内塔尼亚胡“疯狂”，并爆粗口要求其不要轰炸贝鲁特，但表示两人关系仍好。", "source": "NPR World", "link": "https://www.npr.org/2026/06/03/g-s1-125631/trump-confirms-calling-netanyahu-crazy-says-they-still-get-along", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "波尔图街头纺织品色彩斑斓", "summary": "葡萄牙波尔图纪念品商店挂满亚麻围巾、棉围裙等纺织品，许多店铺由孟加拉人经营。", "source": "NPR World", "link": "https://www.npr.org/2026/06/03/g-s1-124469/porto-portugal-linens-textiles", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "乌克兰无人机袭击圣彼得堡油库", "summary": "乌克兰无人机袭击圣彼得堡油库并引发大火，正值该市举办普京出席的经济论坛。", "source": "NPR World", "link": "https://www.npr.org/2026/06/03/nx-s1-5844793/ukrainian-drones-hit-st-petersburg", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "伊朗袭击科威特机场致1死", "summary": "伊朗无人机袭击科威特国际机场客运航站楼，科威特短暂关闭机场，这是伊朗与美国之间最新冲突。", "source": "NPR World", "link": "https://www.npr.org/2026/06/03/g-s1-125566/iran-war-updates", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "俄大规模袭击基辅后的场景", "summary": "俄罗斯导弹和无人机夜间袭击乌克兰，造成平民死亡，是莫斯科近期最大规模攻击之一。", "source": "NPR World", "link": "https://www.npr.org/sections/the-picture-show/2026/06/02/nx-s1-5844159/ukraine-kyiv-russia-drone-missile-strikes", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "欧盟达成移民协议：加强遣返", "summary": "欧盟推进移民政策改革，旨在加强遣返并在海外建立拘留中心，批评者将其与特朗普移民策略相提并论。", "source": "NPR World", "link": "https://www.npr.org/2026/06/02/nx-s1-5844100/eu-migration-deal", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "全球冲突将斯里兰卡经济推向边缘", "summary": "斯里兰卡本就危机重重，中东战争又使其经济雪上加霜，民众表示已无缓冲余地。", "source": "NPR World", "link": "https://www.npr.org/2026/06/02/nx-s1-5823430/global-conflicts-push-sri-lankas-economy-to-the-brink", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "以色列极端正统派抗议征兵", "summary": "数万名极端正统派犹太人在以色列各地堵塞道路和火车，纵火抗议强制征兵。", "source": "NPR World", "link": "https://www.npr.org/2026/06/02/nx-s1-5844080/ultra-orthodox-protests-israel", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "特朗普将白宫UFC赛场比作埃菲尔铁塔", "summary": "特朗普暗示可能永久保留白宫草坪上为生日庆典建造的UFC赛场，并将其与埃菲尔铁塔类比。", "source": "France 24", "link": "https://www.france24.com/en/trump-compares-white-house-ufc-arena-to-eiffel-tower-hints-it-could-stay-permanently", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "乌克兰5月再次夺回更多领土", "summary": "战争研究所数据显示，乌克兰5月收复领土超过失去领土，连续第二个月取得进展，归功于战术反击和远程打击。", "source": "France 24", "link": "https://www.france24.com/en/ukraine-pushed-russia-back-in-may-for-second-month-running-isw-finds", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "意大利移民劳工遭杀害引发关注", "summary": "四名在意大利南部从事水果采摘的移民被烧死，案件引发对劳工剥削的全国反思。", "source": "France 24", "link": "https://www.france24.com/en/deadly-attack-on-migrants-highlights-issue-of-labour-abuse-in-italy", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "英国极右翼利用学生遇刺煽动恐慌", "summary": "英国内政大臣指责活动人士利用学生遇刺悲剧煽动暴力，专家称极右翼在制造道德恐慌。", "source": "France 24", "link": "https://www.france24.com/en/uk-far-right-exploiting-student-stabbing-attack-to-promote-moral-panic-expert-says", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "欧盟公布技术主权路线图", "summary": "欧盟委员会公布技术主权路线图，旨在加强数字领域自主权，涉及数据、制造等战略领域。", "source": "France 24", "link": "https://www.france24.com/en/tv-shows/the-debate/20260603-can-europe-own-its-digital-destiny-eu-unveils-tech-sovereignty-roadmap", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "美贸易代表：双方致力于美欧贸易协议", "summary": "美国贸易代表格里尔表示，尽管美国提出新关税，但双方仍致力于遵守美欧贸易协议，并看到继续遵守的空间。", "source": "France 24", "link": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260603-both-sides-are-committed-to-us-eu-trade-deal-us-trade-representative-jamieson-greer-says", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "伊朗人寻找失踪抗议者", "summary": "2025年底至2026年初伊朗抗议遭镇压后，许多家庭仍在寻找失踪亲人，美以战争加剧了镇压。", "source": "France 24", "link": "https://www.france24.com/en/middle-east/20260603-months-after-the-regime-crackdown-iranians-search-for-missing-protesters", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "日本武士节面临气候变化威胁", "summary": "日本千年传统的相马野马追武士节因极端高温面临威胁，气候变化成为新敌人。", "source": "France 24", "link": "https://www.france24.com/en/video/20260603-japan-modern-day-samurais-battle-new-foe-climate-change", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "坦桑尼亚总统访俄，西方关系紧张", "summary": "坦桑尼亚总统萨米亚·苏卢胡访问俄罗斯，随行商业代表团，此前因批评国内异议处理，与西方关系恶化。", "source": "Deutsche Welle", "link": "https://www.dw.com/en/tanzania-s-president-visits-russia-amid-frayed-western-ties/a-77404375?maca=en-rss-en-world-4025-rdf", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "塔利班与俄罗斯走近为哪般？", "summary": "俄罗斯与阿富汗塔利班签署协议，维修苏式武器，此举涉及美、巴和莫斯科遏制西方影响力的大棋局。", "source": "Deutsche Welle", "link": "https://www.dw.com/en/taliban-russia-are-cozying-up-to-each-other-why/a-77409479?maca=en-rss-en-world-4025-rdf", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "肯尼亚和南非媒体中的AI叙事", "summary": "一项新研究显示肯尼亚和南非媒体对AI的报道存在不足，并提出了改进报道的实用步骤。", "source": "Deutsche Welle", "link": "https://www.dw.com/en/mapping-the-ai-narrative-in-kenya-and-south-africa-s-media/a-77386369?maca=en-rss-en-world-4025-rdf", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "肯尼亚失踪儿童危机暴露系统漏洞", "summary": "肯尼亚家庭面临儿童失踪问题，儿童保护系统漏洞受到审查，当局否认危机恶化。", "source": "Deutsche Welle", "link": "https://www.dw.com/en/kenya-s-missing-children-crisis-exposes-system-gaps/a-77408141?maca=en-rss-en-world-4025-rdf", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "马来西亚未成年人社交媒体禁令引争议", "summary": "马来西亚禁止16岁以下未成年人使用社交媒体，批评者称难以执行且可能侵犯隐私。", "source": "Deutsche Welle", "link": "https://www.dw.com/en/malaysia-s-social-media-ban-for-minors-sparks-privacy-debate/a-77403526?maca=en-rss-en-world-4025-rdf", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "葡萄牙总罢工致服务中断", "summary": "葡萄牙工会因政府劳工改革计划举行总罢工，航班取消、学校关闭，这是六个月来第二次大罢工。", "source": "Deutsche Welle", "link": "https://www.dw.com/en/portugal-general-strike-causes-disruption-to-services/a-77402190?maca=en-rss-en-world-4025-rdf", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "亚美尼亚大选：选择俄罗斯还是欧盟", "summary": "亚美尼亚将于6月7日举行选举，决定国家地缘政治方向，民众日益倾向欧盟，考验与俄罗斯的长期盟友关系。", "source": "Deutsche Welle", "link": "https://www.dw.com/en/armenia-s-election-offers-a-choice-between-russia-and-eu/a-77400608?maca=en-rss-en-world-4025-rdf", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "英国学生谋杀案引发抗议", "summary": "英国南安普敦爆发抗议，警方与示威者冲突，起因是金融系学生亨利·诺瓦克去年12月被谋杀，受害者被警方铐住。", "source": "Deutsche Welle", "link": "https://www.dw.com/en/uk-protest-erupts-over-student-murder/a-77399817?maca=en-rss-en-world-4025-rdf", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "SpaceX目标IPO定价135美元，估值1.77万亿", "summary": "SpaceX计划以每股135美元IPO，估值1.77万亿美元，将成为美国第七大公司，超过特斯拉1.6万亿美元市值。", "source": "CNBC Top News", "link": "https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "卖家撤房速度创2020年以来最快", "summary": "由于需求疲软和竞价战减少，沮丧的卖家正以越来越快的速度将房屋撤出市场。", "source": "CNBC Top News", "link": "https://www.cnbc.com/2026/06/03/sellers-delisting-homes-redfin.html", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "博通股价暴跌，软件销售疲软且AI芯片预测不变", "summary": "博通公布第二财季业绩，营收不及预期，导致股价大跌。", "source": "CNBC Top News", "link": "https://www.cnbc.com/2026/06/03/broadcom-avgo-earnings-report-q2-2026.html", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "共和党参议员批评特朗普情报人选", "summary": "参议员Tillis称特朗普的情报总监人选Pulte“毫无希望”，Pulte被视为特朗普忠诚者，曾针对总统政敌。", "source": "CNBC Top News", "link": "https://www.cnbc.com/2026/06/03/tillis-trump-pulte-intelligence-dni-senate.html", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "历史性股市反弹面临关键考验", "summary": "两家关键科技公司盘后财报将决定市场下一步走向。", "source": "CNBC Top News", "link": "https://www.cnbc.com/2026/06/03/historic-stock-rally-faces-key-test.html", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "比特币坚定持有者开始抛售", "summary": "过去两天，比特币最坚定的持有者已抛售约24亿美元比特币，价格触及新低。", "source": "CNBC Top News", "link": "https://www.cnbc.com/2026/06/03/bitcoins-high-conviction-holders-are-selling-as-price-hits-new-lows.html", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "经典策略或带来丰厚股息", "summary": "包装公司PKG是一家传统工业公司，可能提供高股息。", "source": "CNBC Top News", "link": "https://www.cnbc.com/2026/06/03/a-classic-strategy-that-could-yield-big-dividends.html", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "爱荷华州民主党初选结果影响参议院格局", "summary": "州众议员Turek击败州参议员Wahls赢得爱荷华州民主党参议员初选，对民主党夺回参议院控制权至关重要。", "source": "CNBC Top News", "link": "https://www.cnbc.com/2026/06/02/iowa-democratic-senate-primary-josh-turek-zach-wahls.html", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "美联储无法保护消费者免受供给冲击和价格欺诈", "summary": "全球干扰推高美国食品和汽油价格，国会需采取行动应对美联储无法控制的通胀类型。", "source": "MarketWatch", "link": "https://www.marketwatch.com/story/the-2-types-of-inflation-the-fed-cant-control-and-how-congress-must-protect-your-wallet-7ac2079a?mod=mw_rss_topstories", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "71岁老人该卖股票去看孙辈吗？", "summary": "一位71岁老人询问是否应卖出1万美元股票去泰国看望孙辈，他靠社保和养老金生活舒适。", "source": "MarketWatch", "link": "https://www.marketwatch.com/story/i-am-71-and-comfortable-should-i-sell-10-000-in-stock-to-visit-my-grandkids-in-thailand-or-dip-into-my-50-000-savings-16230c6a?mod=mw_rss_topstories", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "RMD税无法避免？新策略保护退休金", "summary": "文章提供新策略帮助退休人员规避强制最低提款（RMD）的税收影响。", "source": "MarketWatch", "link": "https://www.marketwatch.com/story/youre-going-to-pay-tax-on-rmds-theres-no-way-around-it-or-or-is-there-26e864cf?mod=mw_rss_topstories", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "SpaceX目标IPO融资860亿美元创纪录", "summary": "SpaceX计划IPO融资高达860亿美元，马斯克将持有超过80%投票权，巩固控制权。", "source": "MarketWatch", "link": "https://www.marketwatch.com/story/spacex-is-set-to-crush-global-records-by-targeting-a-massive-ipo-haul-of-up-to-86-billion-bd08f1ba?mod=mw_rss_topstories", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "昂贵珠宝是否安全佩戴？", "summary": "文章讨论在公共场合佩戴昂贵珠宝的安全性，引用参加活动者的观察。", "source": "MarketWatch", "link": "https://www.marketwatch.com/story/no-one-seems-to-wear-their-bling-is-it-safe-to-show-off-your-expensive-jewelry-a807bc55?mod=mw_rss_topstories", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "给兄弟及其子女各5000美元，财务顾问反对", "summary": "一位读者想给兄弟和其子女各5000美元，但财务顾问不赞成，因之前已借出1.2万美元未还。", "source": "MarketWatch", "link": "https://www.marketwatch.com/story/i-want-to-give-my-brother-and-his-kids-5-000-each-my-financial-adviser-is-reluctant-whos-right-47cbb74e?mod=mw_rss_topstories", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "通胀迫使美国家庭新现实，加剧经济K型分化", "summary": "美联储褐皮书显示，高物价抑制中低收入消费者支出，加剧经济K型分化。", "source": "MarketWatch", "link": "https://www.marketwatch.com/story/squeezing-more-life-out-of-every-dollar-how-inflation-is-forcing-a-new-reality-on-american-families-and-amplifying-the-economys-k-shape-c3ba42de?mod=mw_rss_topstories", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "股市周三回调，标普500连涨纪录受威胁", "summary": "股市强劲反弹后周三回落，标普500抹去周内涨幅，长期连涨纪录面临风险。", "source": "MarketWatch", "link": "https://www.marketwatch.com/story/stocks-take-a-breather-on-wednesday-as-torrid-rally-cools-putting-potentially-historic-s-p-500-winning-streak-in-jeopardy-d0779c2e?mod=mw_rss_topstories", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "霍尔木兹海峡关闭，企业寻求新贸易路线", "summary": "由于霍尔木兹海峡持续封锁，航运公司正在寻找替代路线。", "source": "NPR Business", "link": "https://www.npr.org/2026/06/03/nx-s1-5828377/as-strait-of-hormuz-stays-shut-companies-seek-new-routes-for-trade", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "前GEO集团高管执掌ICE，公司政府关系深厚", "summary": "ICE新任代理局长曾是私营监狱承包商GEO集团高管，该公司因特朗普政府加强移民拘留而财务大增。", "source": "NPR Business", "link": "https://www.npr.org/2026/06/03/nx-s1-5836625/a-former-geo-group-executive-now-runs-ice-the-companys-government-ties-run-deep", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "特朗普剥夺8000联邦雇员工作保护", "summary": "特朗普签署行政令，将约8000名高级公务员划入可被任意解雇的新类别。", "source": "NPR Business", "link": "https://www.npr.org/2026/06/03/nx-s1-5742806/trump-federal-employees-civil-service-job-protections-schedule-f", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "CBS《60分钟》解雇事件反映媒体控制权之争", "summary": "节目新领导称因不服从解雇明星记者Pelley，Pelley则表示是在捍卫新闻诚信，此前已有三名高管和两名记者被解雇。", "source": "NPR Business", "link": "https://www.npr.org/2026/06/03/nx-s1-5844929/cbs-60-minutes-scott-pelley-cecilia-vega-bari-weiss-trump", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "铜价上涨引发盗窃潮，电话公司反击", "summary": "铜价上涨导致窃贼从电线杆、路灯和充电桩盗铜，电话公司提起诉讼反击。", "source": "NPR Business", "link": "https://www.npr.org/2026/06/03/nx-s1-5838875/copper-wire-theft-att-lawsuit", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "司法部调查前议员Santos在Kalshi内幕交易", "summary": "前众议员Santos涉嫌在Kalshi平台押注自己是否出席国情咨文，引发联邦调查。", "source": "NPR Business", "link": "https://www.npr.org/2026/06/02/nx-s1-5843371/george-santos-kalshi-insider-trading-investigation", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "AI公司Anthropic提交IPO文件", "summary": "Anthropic提交初步IPO文件，其与OpenAI等AI公司的IPO可能成为美国史上最大规模之一。", "source": "NPR Business", "link": "https://www.npr.org/2026/06/01/nx-s1-5843199/anthropic-ipo-filing-ai-large", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "研究：远程工作而非AI导致应届毕业生就业难", "summary": "纽约联储研究显示，远程工作使公司不愿雇佣需要培训的应届毕业生，导致其失业率上升。", "source": "NPR Business", "link": "https://www.npr.org/2026/06/01/nx-s1-5843076/remote-work-college-graduates-unemployment-ai", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "全球时尚零售商经营33年后关闭所有门店", "summary": "一家全球时尚零售商在运营33年后宣布关闭所有门店。", "source": "Yahoo Finance", "link": "https://finance.yahoo.com/economy/articles/global-fashion-retailer-closing-stores-213300239.html", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "50亿美元理由买入Salesforce股票", "summary": "文章指出Salesforce有50亿美元的理由值得买入。", "source": "Yahoo Finance", "link": "https://finance.yahoo.com/markets/stocks/articles/5-billion-reason-buy-salesforce-141514022.html", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "丰田寻求在得克萨斯州新建装配线", "summary": "丰田汽车寻求批准在得克萨斯州新建车辆装配线。", "source": "Yahoo Finance", "link": "https://finance.yahoo.com/markets/stocks/articles/toyota-motor-corporation-tm-seeks-141426996.html", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "英伟达CEO黄仁勋建设速度超基础设施支撑", "summary": "英伟达CEO黄仁勋正以超越基础设施支撑的速度构建未来。", "source": "Yahoo Finance", "link": "https://finance.yahoo.com/sectors/technology/articles/nvidia-ceo-jensen-huang-building-141502826.html", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "Grifols生物制药增长强劲，Gamunex和Yimmugo领衔", "summary": "Grifols生物制药业务受Gamunex和Yimmugo推动实现强劲增长。", "source": "Yahoo Finance", "link": "https://finance.yahoo.com/sectors/healthcare/articles/grifols-grfs-sees-strong-biopharma-141035570.html", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "RNG目标价上调至49美元", "summary": "分析师将RNG目标价上调至49美元。", "source": "Yahoo Finance", "link": "https://finance.yahoo.com/research/reports/ARGUS_6780_QuantitativeReport_1780444800000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "69年历史家具连锁店申请破产", "summary": "一家拥有69年历史的家具连锁店申请第11章破产保护。", "source": "Yahoo Finance", "link": "https://finance.yahoo.com/markets/stocks/articles/69-old-furniture-store-chain-170700563.html", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "阿斯利康CARES III期临床未达主要终点", "summary": "阿斯利康CARES III期临床项目未能达到主要终点。", "source": "Yahoo Finance", "link": "https://finance.yahoo.com/sectors/healthcare/articles/astrazeneca-azn-cares-phase-iii-141434466.html", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "美国证券实体出售4.518亿美元SOLV Energy股票", "summary": "美国证券实体出售了价值4.518亿美元的SOLV Energy股份。", "source": "Investing.com", "link": "https://www.investing.com/news/insider-trading-news/american-securities-entities-sell-4518m-of-solv-energy-shares-93CH-4725421", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "Rush Street Interactive CEO出售405万美元A类股", "summary": "Rush Street Interactive CEO Schwartz出售了价值405万美元的A类股票。", "source": "Investing.com", "link": "https://www.investing.com/news/insider-trading-news/rush-street-interactive-ceo-schwartz-sells-405m-in-class-a-stock-93CH-4725420", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "Kratos Defense高管出售31.87万美元股票", "summary": "Kratos Defense执行副总裁兼CFO Deanna H. Lund出售了价值318,676美元的股票。", "source": "Investing.com", "link": "https://www.investing.com/news/insider-trading-news/kratos-defense-evp--cfo-deanna-h-lund-sells-318676-in-stock-93CH-4725419", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "Rockwell Automation高管出售9.95万美元股票", "summary": "Rockwell Automation高级副总裁Matthew Fordenwalt出售了价值99,482美元的股票。", "source": "Investing.com", "link": "https://www.investing.com/news/insider-trading-news/rockwell-automation-svp-matthew-fordenwalt-sells-99482-in-stock-93CH-4725418", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "Veeva Systems Q1业绩超预期，营收强劲增长", "summary": "Veeva Systems第一季度业绩超出预期，营收强劲增长。", "source": "Investing.com", "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-veeva-systems-beats-q1-2025-expectations-with-strong-revenue-growth-93CH-4725417", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "Smith-Midland收到纳斯达克不合规通知", "summary": "Smith-Midland收到纳斯达克的不合规通知。", "source": "Investing.com", "link": "https://www.investing.com/news/company-news/smithmidland-receives-nasdaq-noncompliance-notice-93CH-4725416", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "Take-Two CFO出售680万美元股票", "summary": "Take-Two CFO Lainie Goldstein出售了价值680万美元的股票。", "source": "Investing.com", "link": "https://www.investing.com/news/insider-trading-news/taketwo-cfo-lainie-goldstein-sells-68-million-in-stock-93CH-4725415", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "Clearfield CEO出售35.19万美元股票", "summary": "Clearfield CEO Cheryl Beranek出售了价值351,900美元的股票。", "source": "Investing.com", "link": "https://www.investing.com/news/insider-trading-news/clearfield-ceo-cheryl-beranek-sells-351900-in-stock-93CH-4725414", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "想知未来？别信股市", "summary": "股价受多种因素影响，不仅仅是新信息。", "source": "The Economist", "link": "https://www.economist.com/finance-and-economics/2026/06/02/want-to-know-the-future-dont-trust-the-stockmarket", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "股市能消化Anthropic、SpaceX和OpenAI吗？", "summary": "大型IPO可能给市场带来消化不良的风险。", "source": "The Economist", "link": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "中国悄然改善农民工生活", "summary": "中国正在放松户籍制度，使农民工生活更便利。", "source": "The Economist", "link": "https://www.economist.com/finance-and-economics/2026/05/28/without-fanfare-china-is-making-rural-migrants-lives-easier", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "如何对太空企业征税", "summary": "随着太空业务增长，离岸金融也将扩展，需考虑税收问题。", "source": "The Economist", "link": "https://www.economist.com/finance-and-economics/2026/05/28/how-to-tax-businesses-in-orbit-and-beyond", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "新美联储主席面临通胀难题", "summary": "Kevin Warsh将难以同时满足同事、市场和特朗普。", "source": "The Economist", "link": "https://www.economist.com/finance-and-economics/2026/05/27/kevin-warshs-troublesome-inflation-in-tray", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "日韩台面临工业衰退", "summary": "人工智能掩盖了中国冲击带来的工业衰退问题。", "source": "The Economist", "link": "https://www.economist.com/finance-and-economics/2026/05/27/japan-south-korea-and-taiwan-are-suffering-industrial-rot", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "巨型IPO暴露公开市场巨大问题", "summary": "股市规模缩水，巨型IPO是症状之一。", "source": "The Economist", "link": "https://www.economist.com/finance-and-economics/2026/05/26/giga-ipos-are-a-symptom-of-public-markets-giga-problem", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "打击金融保密未伤及离岸金融", "summary": "离岸金融中心的价值远不止保密性。", "source": "The Economist", "link": "https://www.economist.com/finance-and-economics/2026/05/25/crackdowns-on-financial-secrecy-arent-hurting-offshore-finance", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "国防科技资金涌入，谁能持久？", "summary": "国防科技领域火热，Anduril和Mach Industries估值翻倍，美国政府提议国防预算增加40%。但投资人Ross Fubini警告，多数初创公司将在原型合同后的“死亡谷”中迷失。", "source": "TechCrunch", "link": "https://techcrunch.com/video/defense-tech-is-flooded-with-money-but-whos-built-to-last/", "category": "Technology", "category_cn": "💻 科技"}, {"title": "Uber今年将投放500辆数据采集车", "summary": "改装版Ioniq 5将搭载传感器，为Uber新AV实验室部门采集数据。", "source": "TechCrunch", "link": "https://techcrunch.com/2026/06/03/uber-to-put-500-data-collection-vehicles-on-the-road-this-year/", "category": "Technology", "category_cn": "💻 科技"}, {"title": "Alphabet创纪录850亿融资，AI前景看好", "summary": "Alphabet通过股票出售筹集850亿美元用于谷歌AI业务，创纪录的规模显示投资者对AI相关产品的强烈兴趣。", "source": "TechCrunch", "link": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/", "category": "Technology", "category_cn": "💻 科技"}, {"title": "Meta仁慈地剥离VR健身游戏Supernatural", "summary": "Meta听取了用户抗议，将VR健身游戏Supernatural剥离而非直接关闭。", "source": "TechCrunch", "link": "https://techcrunch.com/2026/06/03/meta-mercifully-spun-out-vr-fitness-game-supernatural-instead-of-just-killing-it/", "category": "Technology", "category_cn": "💻 科技"}, {"title": "Substack新功能让创作者控制回复", "summary": "Substack推出“回复规则”功能，允许创作者控制受众如何回应，目前适用于所有英文出版物。", "source": "TechCrunch", "link": "https://techcrunch.com/2026/06/03/substacks-new-reply-rules-feature-lets-creators-control-how-people-respond/", "category": "Technology", "category_cn": "💻 科技"}, {"title": "谷歌Dreambeans将生活变成卡通", "summary": "Dreambeans是谷歌推出的AI工具，利用用户个人数据生成AI插画故事，名称古怪。", "source": "TechCrunch", "link": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/", "category": "Technology", "category_cn": "💻 科技"}, {"title": "Ultrahuman称黑客通过内部工具访问健康数据", "summary": "可穿戴戒指制造商Ultrahuman遭黑客入侵，源于员工笔记本电脑感染恶意软件导致凭证被盗。", "source": "TechCrunch", "link": "https://techcrunch.com/2026/06/03/ultrahuman-says-hackers-accessed-customers-wellness-data-via-internal-tool/", "category": "Technology", "category_cn": "💻 科技"}, {"title": "Carvana与贝佐斯支持的Slate Auto合作", "summary": "Carvana计划销售新车，与Slate Auto合作，去年已获认股权证。Guggenheim CEO Mark Walter对两家公司均有大量投资。", "source": "TechCrunch", "link": "https://techcrunch.com/2026/06/03/carvana-ties-up-with-bezos-backed-slate-auto-as-it-plans-new-car-sales/", "category": "Technology", "category_cn": "💻 科技"}, {"title": "苹果本周在得州引入年龄验证", "summary": "苹果将于6月4日在得克萨斯州App Store引入年龄验证，此前联邦上诉法院允许该州《App Store问责法案》生效。", "source": "The Verge", "link": "https://www.theverge.com/tech/942761/apple-texas-age-verification-app-store", "category": "Technology", "category_cn": "💻 科技"}, {"title": "WiiM推出首款回音壁，扩展家庭生态", "summary": "音频公司WiiM发布WiiM Bar回音壁，支持多种流媒体选项，价格亲民，7月上市。", "source": "The Verge", "link": "https://www.theverge.com/tech/942748/wiim-releases-first-soundbar", "category": "Technology", "category_cn": "💻 科技"}, {"title": "英伟达计划N2X和N3X芯片，目标星际迷航电脑", "summary": "英伟达CEO黄仁勋在Computex 2026上确认，RTX Spark芯片将至少再推出两代，目标打造类似《星际迷航》的电脑。", "source": "The Verge", "link": "https://www.theverge.com/tech/942588/nvidia-rtx-spark-n2x-n3x-r2-d2-star-trek-star-wars-plan", "category": "Technology", "category_cn": "💻 科技"}, {"title": "最佳蓝牙追踪器推荐", "summary": "文章推荐适用于苹果和安卓手机的最佳蓝牙追踪器，帮助用户避免丢失物品。", "source": "The Verge", "link": "https://www.theverge.com/23769840/best-bluetooth-trackers", "category": "Technology", "category_cn": "💻 科技"}, {"title": "最佳Qi2电池：iPhone和Pixel适用", "summary": "最新Qi2.2认证的移动电源可无线充电iPhone 16及更新机型，功率达25W，并支持MagSafe磁吸。", "source": "The Verge", "link": "https://www.theverge.com/gadgets/939362/best-magsafe-qi2-2-batteries-power-banks", "category": "Technology", "category_cn": "💻 科技"}, {"title": "AI越强大，越暴露空洞承诺", "summary": "谷歌新AI代理Spark上手体验：效果惊人但令人不安，能知道用户宠物名字等私人信息，引发对隐私的担忧。", "source": "The Verge", "link": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise", "category": "Technology", "category_cn": "💻 科技"}, {"title": "亚马逊搜索栏将生成AI产品图", "summary": "亚马逊更新搜索栏，用户描述产品时显示AI生成图像，目前仅限服装和家居用品，可点击搜索类似商品。", "source": "The Verge", "link": "https://www.theverge.com/tech/942547/amazon-search-bar-ai-images", "category": "Technology", "category_cn": "💻 科技"}, {"title": "PlayStation回归核心优势", "summary": "PlayStation在State of Play展示会上强调回归高品质叙事驱动单人游戏，以《金刚狼》和《战神》新作开场和结束。", "source": "The Verge", "link": "https://www.theverge.com/games/942520/playstation-wolverine-god-of-war-laufey-state-of-play-june-2026", "category": "Technology", "category_cn": "💻 科技"}, {"title": "得州南部发现食肉螺旋蝇感染", "summary": "美国农业部称，若确认，将是该蝇首次突破美墨边境。", "source": "Ars Technica", "link": "https://arstechnica.com/health/2026/06/flesh-eating-screwworm-infection-detected-in-south-texas-usda-says/", "category": "Technology", "category_cn": "💻 科技"}, {"title": "谷歌被令在AI搜索中提供更清晰链接", "summary": "英国监管机构要求谷歌修改AI概览，允许出版商选择退出，此前谷歌声称用户不想要“大量来源”。", "source": "Ars Technica", "link": "https://arstechnica.com/tech-policy/2026/06/google-ordered-to-put-clearer-links-in-ai-search-and-let-uk-publishers-opt-out/", "category": "Technology", "category_cn": "💻 科技"}, {"title": "Dashlane警告20个加密保险库被盗", "summary": "Dashlane发布模糊安全公告，称20个加密保险库被盗，但未提供关键细节，保持沉默。", "source": "Ars Technica", "link": "https://arstechnica.com/security/2026/06/dashlane-issues-opaque-advisory-warning-20-encrypted-vaults-were-stolen/", "category": "Technology", "category_cn": "💻 科技"}, {"title": "谷歌新Gemma 4 12B模型可在16GB内存笔记本运行", "summary": "Gemma 4 12B采用新编码方案和令牌预测，性能超越其规模。", "source": "Ars Technica", "link": "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/", "category": "Technology", "category_cn": "💻 科技"}, {"title": "特朗普AI测试计划面临问题：安全团队被裁", "summary": "批评者称特朗普的AI模型测试计划短视且流于形式，因DOGE削减导致美国安全团队被削弱。", "source": "Ars Technica", "link": "https://arstechnica.com/tech-policy/2026/06/trumps-ai-executive-order-may-not-prevent-dangerous-deployments/", "category": "Technology", "category_cn": "💻 科技"}, {"title": "Plex新增社交功能，转型内容发现平台", "summary": "Plex越来越专注于内容发现和流媒体租赁，新社交功能进一步推动其从媒体服务器业务转型。", "source": "Ars Technica", "link": "https://arstechnica.com/gadgets/2026/06/new-social-features-further-plexs-evolution-from-media-server-business/", "category": "Technology", "category_cn": "💻 科技"}, {"title": "自动驾驶本应减少拥堵，但数据显示相反", "summary": "研究显示Waymo机器人出租车近一半里程为空驶，并未比网约车更有效地减少交通拥堵。", "source": "Ars Technica", "link": "https://arstechnica.com/cars/2026/06/robotaxis-dont-cut-traffic-any-more-than-ride-hailing-study-finds/", "category": "Technology", "category_cn": "💻 科技"}, {"title": "Meta追赶AI的努力内幕", "summary": "外界质疑Meta能否缩小与竞争对手的AI差距。", "source": "Ars Technica", "link": "https://arstechnica.com/ai/2026/06/inside-metas-attempts-to-play-catch-up-with-ai/", "category": "Technology", "category_cn": "💻 科技"}, {"title": "xAI要求法院取消深伪裸照受害者匿名权", "summary": "四名以化名起诉xAI（Grok深伪裸照）的人可能面临艰难选择：公开真实姓名或放弃诉讼。", "source": "Wired", "link": "https://www.wired.com/story/xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims-of-anonymity/", "category": "Technology", "category_cn": "💻 科技"}, {"title": "马斯克与美国极右翼煽动英国少年谋杀案愤怒", "summary": "包括Nick Fuentes在内的有影响力人物被指控“劫持”Henry Nowak谋杀案以推动种族主义议程。", "source": "Wired", "link": "https://www.wired.com/story/elon-musk-and-americas-far-right-stoke-anger-over-murder-of-uk-teen/", "category": "Technology", "category_cn": "💻 科技"}, {"title": "亚马逊员工出席市议会要求限制数据中心", "summary": "活动人士称这是首次有大型科技公司员工公开呼吁对数据中心项目进行监管。", "source": "Wired", "link": "https://www.wired.com/story/amazon-employees-publicly-demand-regulations-on-data-centers/", "category": "Technology", "category_cn": "💻 科技"}, {"title": "未来人形机器人：中国身体美国大脑", "summary": "英伟达机器人负责人Spencer Huang表示，新机器人H2+结合了中国身体和美国大脑的最佳部分。", "source": "Wired", "link": "https://www.wired.com/story/nvidia-unitree-humanoid-robot-h2-plus/", "category": "Technology", "category_cn": "💻 科技"}, {"title": "特朗普最终签署AI行政令内幕", "summary": "在搁置原行政令一个月后，特朗普于周一晚签署了AI行政令。", "source": "Wired", "link": "https://www.wired.com/story/this-is-how-trump-finally-signed-the-ai-executive-order/", "category": "Technology", "category_cn": "💻 科技"}, {"title": "特朗普前官员在欧洲“再移民”会议成明星", "summary": "曾领导特朗普入侵美国城市的Greg Bovino在葡萄牙与美欧极右翼一起宣扬“再移民”计划，即驱逐所有少数族裔和移民。", "source": "Wired", "link": "https://www.wired.com/story/greg-bovino-was-the-star-at-a-european-remigration-conference/", "category": "Technology", "category_cn": "💻 科技"}, {"title": "如何屏蔽iPhone和Android的垃圾电话和短信", "summary": "文章提供2026年屏蔽垃圾电话和短信的方法，帮助用户应对骚扰。", "source": "Wired", "link": "https://www.wired.com/story/how-to-block-calls-and-spam-messages/", "category": "Technology", "category_cn": "💻 科技"}, {"title": "英伟达RTX Spark笔记本芯片势在颠覆", "summary": "英伟达RTX Spark芯片可能最终将“AI PC”变为现实。", "source": "Wired", "link": "https://www.wired.com/story/nvidia-rtx-spark-laptop-disruption/", "category": "Technology", "category_cn": "💻 科技"}, {"title": "弯曲波束可欺骗反干扰技术", "summary": "莱斯大学研究人员称，如果无法定位信号干扰源，很难阻止干扰，弯曲波束可能是一种解决方案。", "source": "The Register", "link": "https://www.theregister.com/networks/2026/06/03/curving-beams-could-fool-anti-jamming-tech/5250872", "category": "Technology", "category_cn": "💻 科技"}, {"title": "微软将Linux命令移植到Windows", "summary": "Coreutils为Windows和PowerShell提供超过75个Unix命令。", "source": "The Register", "link": "https://www.theregister.com/os-platforms/2026/06/03/grep-this-microsoft-grafts-most-linux-commands-onto-windows/5250796", "category": "Technology", "category_cn": "💻 科技"}, {"title": "Ring因收集访客面部信息遭集体诉讼", "summary": "Ring因“熟悉面孔”等AI功能面临最新集体诉讼，指控其未经同意收集面部数据。", "source": "The Register", "link": "https://www.theregister.com/personal-tech/2026/06/03/ring-faces-class-action-over-facial-recognition-feature/5250661", "category": "Technology", "category_cn": "💻 科技"}, {"title": "微软AI不再只是副驾驶，而要掌控全局", "summary": "微软推出始终在线的AI代理，承诺保持工作推进，但需要用户信任其处理几乎所有事务。", "source": "The Register", "link": "https://www.theregister.com/ai-and-ml/2026/06/03/no-longer-just-a-copilot-microsofts-ai-wants-to-take-the-wheel/5250718", "category": "Technology", "category_cn": "💻 科技"}, {"title": "英特尔18A工艺节点过于激进", "summary": "英特尔CFO Zinsner称18A节点是特例，14A仍在正轨。", "source": "The Register", "link": "https://www.theregister.com/systems/2026/06/03/intel-bit-off-more-than-it-could-chew-with-18a-process-node/5250696", "category": "Technology", "category_cn": "💻 科技"}, {"title": "移动运营商呼吁6G避免重蹈5G覆辙", "summary": "NGMN希望在下一代网络部署前有清晰的迁移路径。", "source": "The Register", "link": "https://www.theregister.com/networks/2026/06/03/dont-repeat-5g-mistakes-with-6g-plead-mobile-operators/5250572", "category": "Technology", "category_cn": "💻 科技"}, {"title": "Marvell或成下一个万亿美元公司", "summary": "Marvell的技术可能使其成为万亿美元公司，但需警惕Broadcom的竞争。", "source": "The Register", "link": "https://www.theregister.com/networks/2026/06/03/the-tech-that-could-make-marvell-the-next-trillion-dollar-company/5250472", "category": "Technology", "category_cn": "💻 科技"}, {"title": "AI代理可操纵你的组织，你准备好了吗？", "summary": "赞助文章：具有操作能力的代理需要制定相应的政策。", "source": "The Register", "link": "https://www.theregister.com/ai-and-ml/2026/06/03/ai-agents-can-now-manipulate-your-organization-are-you-ready/5250444", "category": "Technology", "category_cn": "💻 科技"}, {"title": "Ableton Extensions SDK发布", "summary": "Ableton发布Extensions SDK，允许开发者扩展Live软件功能。", "source": "Hacker News", "link": "https://www.ableton.com/en/live/extensions/", "category": "Technology", "category_cn": "💻 科技"}, {"title": "Mnemo：本地优先的AI记忆层", "summary": "Mnemo是一个开源项目，为任何LLM提供本地优先的AI记忆层，使用Rust、SQLite和petgraph。", "source": "Hacker News", "link": "https://github.com/zaydmulani09/mnemo", "category": "Technology", "category_cn": "💻 科技"}, {"title": "以读书为生的人：每两天一本", "summary": "一位职业读者每两天读一本书，分享其阅读生活方式。", "source": "Hacker News", "link": "https://lithub.com/the-man-who-reads-books-for-a-living-one-every-two-days/", "category": "Technology", "category_cn": "💻 科技"}, {"title": "自托管开发沙箱与预览URL", "summary": "一个开源项目，提供自托管的开发沙箱，支持预览URL，使用Docker、Go，无需K8s。", "source": "Hacker News", "link": "https://github.com/tastyeffectco/sandboxes", "category": "Technology", "category_cn": "💻 科技"}, {"title": "Brume：24复音多音色桌面合成器", "summary": "Brume是一款基于CM5的24复音多音色桌面合成器。", "source": "Hacker News", "link": "https://brume.aftertone.co/", "category": "Technology", "category_cn": "💻 科技"}, {"title": "Elixir v1.20发布：逐步类型化语言", "summary": "Elixir 1.20版本发布，引入逐步类型系统，成为类型化语言。", "source": "Hacker News", "link": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/", "category": "Technology", "category_cn": "💻 科技"}, {"title": "Rootshell：冰岛托管的新端到端加密邮件服务", "summary": "Rootshell推出新的端到端加密电子邮件服务，服务器位于冰岛。", "source": "Hacker News", "link": "https://rootshell.is", "category": "Technology", "category_cn": "💻 科技"}, {"title": "胚胎塑造肢体：发现“基因刹车”", "summary": "蒙特利尔大学研究揭示胚胎如何通过“基因刹车”机制塑造肢体。", "source": "Hacker News", "link": "https://nouvelles.umontreal.ca/en/article/2026/06/02/how-embryos-shape-their-limbs-a-key-discovery-of-genetic-brakes", "category": "Technology", "category_cn": "💻 科技"}, {"title": "Skift数据与AI峰会：投资旅游AI需注重可衡量成本节约", "summary": "在Skift数据与AI峰会上，Brook Bay Capital、Inovia和Highgate Technology Ventures指出，向投资者推销旅游AI时，应优先展示可计入损益表的成本节约，而非仅承诺收入增长，可衡量性是达成交易的关键。", "source": "Skift", "link": "https://skift.com/2026/06/03/brook-bay-capital-inovia-highgate-technology-ventures-skift-data-and-ai-2026/", "category": "Travel", "category_cn": "✈️ 旅游"}, {"title": "Skift峰会：Sierra与Amadeus谈AI代理部署", "summary": "Sierra和Amadeus在Skift数据与AI峰会上表示，等待AI代理成熟再投入生产部署将导致竞争劣势，等待期已开始侵蚀市场份额。", "source": "Skift", "link": "https://skift.com/2026/06/03/sierra-and-amadeus-at-skift-data-ai-summit/", "category": "Travel", "category_cn": "✈️ 旅游"}, {"title": "Booking.com在Skift峰会：AI路线图应聚焦内部流程", "summary": "Booking.com在Skift数据与AI峰会上指出，如果AI路线图围绕客户可见功能组织，则优化方向错误，应优先优化内部流程。", "source": "Skift", "link": "https://skift.com/2026/06/03/booking-com-at-skift-data-ai-summit/", "category": "Travel", "category_cn": "✈️ 旅游"}, {"title": "IHG与Evolve：AI规模化挑战在人而非技术", "summary": "IHG和Evolve在Skift数据与AI峰会上表示，规模化AI的难点不在技术，而在人员管理。", "source": "Skift", "link": "https://skift.com/2026/06/03/ihg-evolve-skift-data-ai-summit-2026/", "category": "Travel", "category_cn": "✈️ 旅游"}, {"title": "Amex GBT与TUI：AI试点停滞需指定负责人", "summary": "Amex GBT和TUI集团在Skift峰会上指出，AI试点停滞的解决方案不是更好的模型，而是为每个代理指定明确的负责人。", "source": "Skift", "link": "https://skift.com/2026/06/03/amex-gbt-and-tui-group-at-skift-data-and-ai-summit-2026/", "category": "Travel", "category_cn": "✈️ 旅游"}, {"title": "Expedia技术高管：自建还是购买AI？客户数据要自控", "summary": "Expedia技术高管在Skift峰会上表示，收购AI公司可能反而拖累进展，建议自建并保护客户数据。", "source": "Skift", "link": "https://skift.com/2026/06/03/expedia-tech-exec-on-build-versus-buy-keep-customer-data-close/", "category": "Travel", "category_cn": "✈️ 旅游"}, {"title": "Flight Science等公司：AI成功靠专有数据与运营深度", "summary": "Flight Science、Abra和BizTrip在Skift峰会上表示，AI产品脱颖而出的关键是专有数据和竞争对手无法复制的运营深度。", "source": "Skift", "link": "https://skift.com/2026/06/03/flight-science-abra-biz-trip-ai-ceos-skift-data-ai-summit-2026/", "category": "Travel", "category_cn": "✈️ 旅游"}, {"title": "万豪AI部署：从试点到“得分”", "summary": "万豪进入AI部署第三阶段，今年将推出对话搜索功能，其数据与AI高管表示，更艰巨的任务是重新设计底层工作流程。", "source": "Skift", "link": "https://skift.com/2026/06/03/marriotts-ai-rollout-from-pilots-to-points-on-the-board/", "category": "Travel", "category_cn": "✈️ 旅游"}, {"title": "阿拉斯加航空波特兰新休息室：致敬太平洋西北", "summary": "阿拉斯加航空在波特兰新开的休息室较之前大幅升级，TPG在开放前预览了其设计细节。", "source": "The Points Guy", "link": "https://thepointsguy.com/airline/reviews/alaska-airlines-lounge-pdx-2026/", "category": "Travel", "category_cn": "✈️ 旅游"}, {"title": "最佳加油信用卡推荐", "summary": "考虑办一张加油返现信用卡？本文解释了为何需要以及推荐了经过审核的优质选项。", "source": "The Points Guy", "link": "https://thepointsguy.com/credit-cards/best-gas-credit-cards/", "category": "Travel", "category_cn": "✈️ 旅游"}, {"title": "七月十大最佳旅行地", "summary": "我们搜罗全球，根据不可错过的活动、热门酒店开业和新航线，评选出七月最佳旅行目的地。", "source": "The Points Guy", "link": "https://thepointsguy.com/travel/the-best-places-to-travel-in-july/", "category": "Travel", "category_cn": "✈️ 旅游"}, {"title": "西南航空Premier信用卡评测：实惠福利", "summary": "西南航空Rapid Rewards Premier信用卡是其中档个人卡，本文全面介绍了其权益。", "source": "The Points Guy", "link": "https://thepointsguy.com/credit-cards/reviews/southwest-rapid-rewards-premier-card-review/", "category": "Travel", "category_cn": "✈️ 旅游"}, {"title": "32家新凯悦酒店每晚额外500积分", "summary": "凯悦天地会员在指定新酒店入住可获每晚500奖励积分，限时优惠。", "source": "The Points Guy", "link": "https://thepointsguy.com/loyalty-programs/hyatt-new-hotel-bonus/", "category": "Travel", "category_cn": "✈️ 旅游"}, {"title": "Walmart+加油折扣使用指南：每加仑省10美分", "summary": "本文介绍如何在加油站激活Walmart+会员折扣，每加仑节省10美分。", "source": "The Points Guy", "link": "https://thepointsguy.com/travel/how-to-use-walmart-gas-discount-at-pump/", "category": "Travel", "category_cn": "✈️ 旅游"}, {"title": "Uber为世界杯推出新功能与折扣", "summary": "Uber推出新功能与折扣，优化世界杯期间的出行和外卖服务，不仅限于球迷。", "source": "The Points Guy", "link": "https://thepointsguy.com/news/uber-world-cup-features/", "category": "Travel", "category_cn": "✈️ 旅游"}, {"title": "美联航新增四条航线：墨西哥、加勒比和南加州", "summary": "美联航从纽瓦克、休斯顿和华盛顿特区新增四条飞往温暖目的地的航线。", "source": "The Points Guy", "link": "https://thepointsguy.com/airline/united-launching-new-routes-fall-winter/", "category": "Travel", "category_cn": "✈️ 旅游"}, {"title": "Faye旅行保险：最佳新公司", "summary": "作者近二十年旅行写作经验，认为Faye是旅行保险行业变革者，提供优质服务。", "source": "Nomadic Matt", "link": "https://www.nomadicmatt.com/travel-blogs/faye-travel-insurance-review/", "category": "Travel", "category_cn": "✈️ 旅游"}, {"title": "马德里五日行程：文化、美食与当地生活", "summary": "马德里是西班牙首都，人口约350万，每年超1000万游客，本文提供五日文化美食深度游指南。", "source": "Nomadic Matt", "link": "https://www.nomadicmatt.com/travel-blogs/madrid-five-day-itinerary/", "category": "Travel", "category_cn": "✈️ 旅游"}, {"title": "Capital One Venture Business信用卡评测", "summary": "该卡适合旅行者积累积分降低旅行成本，本文详细评测其权益。", "source": "Nomadic Matt", "link": "https://www.nomadicmatt.com/travel-blogs/capital-one-venture-business-review/", "category": "Travel", "category_cn": "✈️ 旅游"}, {"title": "Outsite：数字游民最佳住宿选择", "summary": "Outsite为远程工作者提供兼顾工作与旅行的住宿环境，解决寻找安静工作空间的难题。", "source": "Nomadic Matt", "link": "https://www.nomadicmatt.com/travel-blogs/outsite-digital-nomads/", "category": "Travel", "category_cn": "✈️ 旅游"}, {"title": "Antigravity 360无人机如何改变旅行", "summary": "Antigravity A1无人机于2025年底发布，提供独特航拍视角，改变旅行体验。", "source": "Nomadic Matt", "link": "https://www.nomadicmatt.com/travel-blogs/antigravity-drone-review/", "category": "Travel", "category_cn": "✈️ 旅游"}, {"title": "最佳远程工作公司推荐", "summary": "本文推荐一家帮助旅行者找到远程工作的公司，使旅行更具深度和参与感。", "source": "Nomadic Matt", "link": "https://www.nomadicmatt.com/travel-blogs/global-work-travel-review/", "category": "Travel", "category_cn": "✈️ 旅游"}, {"title": "别去丽贝岛", "summary": "作者19年后重返泰国丽贝岛，发现过度开发使其失去原始魅力，劝告游客谨慎前往。", "source": "Nomadic Matt", "link": "https://www.nomadicmatt.com/travel-blogs/dont-visit-ko-lipe/", "category": "Travel", "category_cn": "✈️ 旅游"}, {"title": "我如何获得法国签证", "summary": "作者分享申请法国签证的经历，自2010年首次访问后爱上法国，最终成功获得签证。", "source": "Nomadic Matt", "link": "https://www.nomadicmatt.com/travel-blogs/france-visa/", "category": "Travel", "category_cn": "✈️ 旅游"}, {"title": "东欧最安全未被发现的国家欢迎游客", "summary": "保加利亚作为东欧安全且未被主流美国游客发现的国家，积极欢迎游客，与西班牙、意大利的过度旅游形成对比。", "source": "Travel Off Path", "link": "https://www.traveloffpath.com/eastern-europes-safest-undiscovered-country-wants-more-tourists-to-visit/", "category": "Travel", "category_cn": "✈️ 旅游"}, {"title": "美联航开通纽约至免签天堂岛唯一航班", "summary": "美联航将开通纽约至美属维尔京群岛圣托马斯岛的直飞航班，该岛为美国领土，无需护照。", "source": "Travel Off Path", "link": "https://www.traveloffpath.com/united-launching-only-new-york-flight-to-stunning-passport-free-island/", "category": "Travel", "category_cn": "✈️ 旅游"}, {"title": "美国驻圣何塞德尔卡沃大使馆发布安全警报", "summary": "美国大使馆针对墨西哥圣何塞德尔卡沃发布安全警报，提醒游客注意安全。", "source": "Travel Off Path", "link": "https://www.traveloffpath.com/u-s-embassy-issues-security-alert-for-san-jose-del-cabo/", "category": "Travel", "category_cn": "✈️ 旅游"}, {"title": "游历45国后我不会再去的5个海滩", "summary": "作者分享游历45国后认为不值得再去的5个海滩目的地，提醒游客社交媒体滤镜可能造成误导。", "source": "Travel Off Path", "link": "https://www.traveloffpath.com/5-beach-destinations-i-wont-return-to-after-visiting-45-countries/", "category": "Travel", "category_cn": "✈️ 旅游"}, {"title": "法国最佳秘密岛屿度假地", "summary": "法国一座未被游客淹没的岛屿成为今夏秘密度假地，拥有粉彩梦幻景观。", "source": "Travel Off Path", "link": "https://www.traveloffpath.com/this-island-getaway-is-frances-best-kept-secret-this-summer/", "category": "Travel", "category_cn": "✈️ 旅游"}, {"title": "美国宣布天堂岛重返欧洲最安全国家之列", "summary": "美国国务院更新安全评级，宣布某天堂岛重新成为欧洲最安全国家之一。", "source": "Travel Off Path", "link": "https://www.traveloffpath.com/u-s-announces-this-paradise-island-is-back-to-being-one-of-the-safest-countries-in-europe/", "category": "Travel", "category_cn": "✈️ 旅游"}, {"title": "三个地中海目的地：低价少人", "summary": "推荐三个地中海替代目的地，价格更低、游客更少，避开阿马尔菲海岸、马略卡岛和米科诺斯岛的人潮。", "source": "Travel Off Path", "link": "https://www.traveloffpath.com/3-mediterranean-destinations-for-cheaper-prices-less-crowds-this-summer/", "category": "Travel", "category_cn": "✈️ 旅游"}]</script>
+
+<!-- ═══════════════════ JavaScript ═══════════════════ -->
+<script>
+(function() {
+    'use strict';
+
+    // ── Accordion: 同一时间只展开一个模块 ──
+    function toggleModule(targetId, btn) {
+        const expanded = document.getElementById(targetId);
+        if (!expanded) return;
+
+        const isOpen = expanded.classList.contains('open');
+        const allExpanded = document.querySelectorAll('.module-expanded.open');
+        const allBtns = document.querySelectorAll('.expand-btn[aria-expanded="true"]');
+
+        // 关闭所有其他模块
+        allExpanded.forEach(el => {
+            if (el !== expanded) el.classList.remove('open');
+        });
+        allBtns.forEach(b => {
+            if (b !== btn) b.setAttribute('aria-expanded', 'false');
+        });
+
+        // 切换当前模块
+        if (isOpen) {
+            expanded.classList.remove('open');
+            btn.setAttribute('aria-expanded', 'false');
+        } else {
+            expanded.classList.add('open');
+            btn.setAttribute('aria-expanded', 'true');
+            // 平滑滚动到模块顶部
+            setTimeout(() => {
+                expanded.closest('.category-module').scrollIntoView({
+                    behavior: 'smooth',
+                    block: 'start',
+                });
+            }, 100);
+        }
+    }
+
+    // 绑定展开按钮
+    document.querySelectorAll('.expand-btn').forEach(btn => {
+        btn.addEventListener('click', function() {
+            const targetId = this.getAttribute('data-target');
+            toggleModule(targetId, this);
+        });
+    });
+
+    // 绑定收起按钮
+    document.querySelectorAll('.collapse-btn').forEach(btn => {
+        btn.addEventListener('click', function() {
+            const targetId = this.getAttribute('data-target');
+            const expanded = document.getElementById(targetId);
+            const expandBtn = document.querySelector(
+                '.expand-btn[data-target="' + targetId + '"]'
+            );
+            if (expanded) {
+                expanded.classList.remove('open');
+                if (expandBtn) expandBtn.setAttribute('aria-expanded', 'false');
+            }
+        });
+    });
+
+    // 键盘支持
+    document.querySelectorAll('.expand-btn, .collapse-btn').forEach(btn => {
+        btn.addEventListener('keydown', function(e) {
+            if (e.key === 'Enter' || e.key === ' ') {
+                e.preventDefault();
+                this.click();
+            }
+        });
+    });
+
+    // ── 手动刷新控制 ──
+    (function() {
+        var timeEl = document.getElementById('update-time');
+        var area = document.getElementById('refresh-area');
+        var hint = document.getElementById('refresh-hint');
+        if (!timeEl || !area) return;
+
+        var dtStr = timeEl.getAttribute('datetime') || timeEl.textContent.trim();
+        // 解析 "2026-06-04 14:30" 格式
+        var parts = dtStr.match(/(\d{4})-(\d{2})-(\d{2})\s+(\d{2}):(\d{2})/);
+        if (!parts) return;
+
+        var lastUpdate = new Date(
+            parseInt(parts[1]), parseInt(parts[2]) - 1, parseInt(parts[3]),
+            parseInt(parts[4]), parseInt(parts[5]), 0
+        );
+        var now = new Date();
+        var diffMs = now - lastUpdate;
+        var diffHours = diffMs / (1000 * 60 * 60);
+
+        // 距离上次更新 > 2 小时才显示手动刷新
+        if (diffHours >= 2) {
+            var elapsed;
+            if (diffHours < 3) {
+                elapsed = '2小时前';
+            } else if (diffHours < 6) {
+                elapsed = Math.floor(diffHours) + '小时前';
+            } else {
+                elapsed = Math.floor(diffHours / 6) + '次更新周期前';
+            }
+            hint.textContent = '上次更新: ' + elapsed + ' · 可手动触发刷新';
+            area.style.display = 'flex';
+        }
+    })();
+
+    // ── 搜索功能 ──
+    (function() {
+        var input = document.getElementById('search-input');
+        var clearBtn = document.getElementById('search-clear');
+        var statusEl = document.getElementById('search-status');
+        var dataScript = document.getElementById('search-data');
+        if (!input || !dataScript) return;
+
+        var articles = [];
+        try {
+            articles = JSON.parse(dataScript.textContent);
+        } catch(e) { return; }
+
+        function escapeRegex(s) {
+            return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+        }
+
+        function highlight(text, query) {
+            var escaped = escapeRegex(query);
+            var re = new RegExp('(' + escaped + ')', 'gi');
+            return text.replace(re, '<mark class="search-highlight">$1</mark>');
+        }
+
+        function doSearch() {
+            var query = input.value.trim().toLowerCase();
+            var featureCards = document.querySelectorAll('.feature-card');
+            var modules = document.querySelectorAll('.category-module');
+            var newsItems = document.querySelectorAll('.news-item');
+            var previewItems = document.querySelectorAll('.preview-item');
+            var totalVisible = 0;
+
+            if (!query) {
+                // 无搜索词：全部显示
+                featureCards.forEach(function(el) { el.classList.remove('hidden-by-search'); });
+                modules.forEach(function(el) { el.classList.remove('hidden-by-search'); });
+                newsItems.forEach(function(el) { el.classList.remove('hidden-by-search'); });
+                previewItems.forEach(function(el) { el.classList.remove('hidden-by-search'); });
+                if (clearBtn) clearBtn.style.display = 'none';
+                if (statusEl) statusEl.textContent = '';
+                // 移除高亮
+                document.querySelectorAll('.search-highlight').forEach(function(m) {
+                    var parent = m.parentNode;
+                    if (parent) {
+                        parent.replaceChild(document.createTextNode(m.textContent), m);
+                        parent.normalize();
+                    }
+                });
+                return;
+            }
+
+            if (clearBtn) clearBtn.style.display = 'flex';
+
+            var matchedIds = new Set();
+            articles.forEach(function(a, idx) {
+                var haystack = (a.title + ' ' + a.summary + ' ' + a.source + ' ' + a.category_cn).toLowerCase();
+                if (haystack.indexOf(query) !== -1) {
+                    matchedIds.add(idx);
+                }
+            });
+
+            // 显示/隐藏精华卡片
+            featureCards.forEach(function(card, i) {
+                card.classList.toggle('hidden-by-search', !matchedIds.has(i));
+                if (matchedIds.has(i)) totalVisible++;
+            });
+
+            // 显示/隐藏新闻条目
+            newsItems.forEach(function(item) {
+                var numEl = item.querySelector('.item-num');
+                var idx = numEl ? parseInt(numEl.textContent) - 1 : -1;
+                // 找到该条目在所有文章中的全局索引
+                var title = (item.querySelector('h3') || {}).textContent || '';
+                var summary = (item.querySelector('.item-summary') || {}).textContent || '';
+                var found = articles.some(function(a, i) {
+                    if (matchedIds.has(i)) {
+                        if (a.title && title.indexOf(a.title.substring(0, 20)) !== -1) return true;
+                        if (a.summary && summary.indexOf(a.summary.substring(0, 20)) !== -1) return true;
+                    }
+                    return false;
+                });
+                item.classList.toggle('hidden-by-search', !found);
+                if (found) totalVisible++;
+            });
+
+            // 显示/隐藏预览条目
+            previewItems.forEach(function(item) {
+                var title = item.querySelector('.preview-title');
+                var txt = title ? title.textContent.toLowerCase() : '';
+                var found = txt.indexOf(query) !== -1 || articles.some(function(a, i) {
+                    return matchedIds.has(i) && txt.indexOf(a.title.substring(0, 20).toLowerCase()) !== -1;
+                });
+                item.classList.toggle('hidden-by-search', !found);
+            });
+
+            // 隐藏空模块
+            modules.forEach(function(mod) {
+                var visibleItems = mod.querySelectorAll('.news-item:not(.hidden-by-search), .preview-item:not(.hidden-by-search)');
+                mod.classList.toggle('hidden-by-search', visibleItems.length === 0);
+            });
+
+            if (statusEl) {
+                statusEl.textContent = '找到 ' + matchedIds.size + ' 篇相关新闻';
+            }
+        }
+
+        input.addEventListener('input', doSearch);
+
+        if (clearBtn) {
+            clearBtn.addEventListener('click', function() {
+                input.value = '';
+                doSearch();
+                input.focus();
+            });
+        }
+
+        // ESC 清空搜索
+        input.addEventListener('keydown', function(e) {
+            if (e.key === 'Escape') {
+                input.value = '';
+                doSearch();
+                input.blur();
+            }
+        });
+    })();
+})();
+</script>
+
+</body>
+</html>

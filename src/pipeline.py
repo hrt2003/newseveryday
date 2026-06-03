@@ -159,6 +159,11 @@ class Pipeline:
             html_path = self.formatter.write_html(html, report_date=today)
             logger.info(f"  日报 HTML 已保存至: {html_path}")
 
+            # 更新归档页面
+            archive_path = self.formatter.build_archive_page()
+            if archive_path:
+                logger.info(f"  归档页面已更新: {archive_path}")
+
         # 7. 发送邮件（可选）
         step_n = 7 if output_html else 6
         if send_email and self.emailer:

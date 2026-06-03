@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>新闻归档 — 全球新闻日报</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;600;700;900&family=Noto+Sans+SC:wght@300;400;500;700&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+/* ═══════════════════════════════════════════════════════
+   ARCHIVE PAGE — 新闻归档索引
+   ═══════════════════════════════════════════════════════ */
+
+:root {{
+    --bg:             #faf9f6;
+    --bg-secondary:   #f3f1ec;
+    --surface:        #ffffff;
+    --text-primary:   #1c1917;
+    --text-secondary: #5c5a57;
+    --text-tertiary:  #8c8a85;
+    --border:         #e7e4df;
+    --border-light:   #f0ede8;
+    --rule:           #d4d0c9;
+    --radius-lg:      20px;
+    --radius-md:      12px;
+    --shadow-sm: 0 1px 3px rgba(0,0,0,0.04);
+    --shadow-md: 0 4px 16px rgba(0,0,0,0.05);
+    --max-width: 800px;
+}}
+
+@media (prefers-color-scheme: dark) {{
+    :root {{
+        --bg:             #171717;
+        --bg-secondary:   #1f1d1a;
+        --surface:        #24221f;
+        --text-primary:   #e8e4e0;
+        --text-secondary: #a8a5a0;
+        --text-tertiary:  #787570;
+        --border:         #33302b;
+        --border-light:   #2a2824;
+        --rule:           #3d3a34;
+        --shadow-sm: 0 1px 3px rgba(0,0,0,0.2);
+        --shadow-md: 0 4px 16px rgba(0,0,0,0.25);
+    }}
+}}
+
+* {{ margin:0; padding:0; box-sizing:border-box; }}
+
+body {{
+    font-family: 'Noto Sans SC', -apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+    background: var(--bg);
+    color: var(--text-primary);
+    line-height: 1.75;
+    min-height: 100vh;
+}}
+
+/* Masthead */
+.masthead {{
+    padding: 48px 24px 36px;
+    text-align: center;
+    border-bottom: 1px solid var(--rule);
+    position: relative;
+}}
+
+.masthead::after {{
+    content: '';
+    position: absolute;
+    bottom: -1px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 60px;
+    height: 2px;
+    background: var(--text-primary);
+    opacity: 0.3;
+}}
+
+.masthead h1 {{
+    font-family: 'Noto Serif SC', serif;
+    font-size: clamp(1.6rem, 5vw, 2.2rem);
+    font-weight: 900;
+    letter-spacing: 0.04em;
+}}
+
+.masthead .sub {{
+    color: var(--text-tertiary);
+    font-size: 0.85rem;
+    margin-top: 8px;
+}}
+
+.masthead .back {{
+    margin-top: 14px;
+}}
+
+.masthead .back a {{
+    color: var(--text-secondary);
+    font-size: 0.8rem;
+    text-decoration: none;
+    font-family: 'DM Mono', monospace;
+    letter-spacing: 0.1em;
+    transition: opacity 0.2s;
+}}
+
+.masthead .back a:hover {{ opacity: 0.6; }}
+
+/* Container */
+.container {{
+    max-width: var(--max-width);
+    margin: 0 auto;
+    padding: 36px 24px 80px;
+}}
+
+/* Year sections */
+.archive-year {{
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    padding: 28px 32px;
+    margin-bottom: 24px;
+    box-shadow: var(--shadow-sm);
+}}
+
+.archive-year h2 {{
+    font-family: 'Noto Serif SC', serif;
+    font-size: 1.35rem;
+    font-weight: 700;
+    margin-bottom: 20px;
+    padding-bottom: 12px;
+    border-bottom: 2px solid var(--border-light);
+    letter-spacing: 0.04em;
+}}
+
+.archive-months-grid {{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 20px;
+}}
+
+.archive-month h3 {{
+    font-family: 'DM Mono', monospace;
+    font-size: 0.72rem;
+    font-weight: 500;
+    letter-spacing: 0.25em;
+    color: var(--text-tertiary);
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}}
+
+.archive-dates {{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}}
+
+.archive-dates li {{ padding: 3px 0; }}
+
+.archive-dates a {{
+    color: var(--text-primary);
+    text-decoration: none;
+    font-size: 0.88rem;
+    font-family: 'DM Mono', monospace;
+    letter-spacing: 0.04em;
+    transition: all 0.2s;
+    display: inline-block;
+    padding: 2px 6px;
+    border-radius: 4px;
+    margin: -2px -6px;
+}}
+
+.archive-dates a:hover {{
+    background: var(--bg-secondary);
+    color: var(--text-secondary);
+}}
+
+/* Footer */
+.site-footer {{
+    text-align: center;
+    padding: 0 24px 60px;
+    color: var(--text-tertiary);
+    font-size: 0.75rem;
+    letter-spacing: 0.03em;
+}}
+
+.site-footer .divider {{
+    width: 40px;
+    height: 1px;
+    background: var(--rule);
+    margin: 0 auto 20px;
+}}
+
+@media (max-width: 640px) {{
+    .archive-year {{ padding: 22px 18px; }}
+    .archive-months-grid {{ grid-template-columns: 1fr 1fr; gap: 14px; }}
+    .masthead {{ padding: 36px 18px 28px; }}
+}}
+</style>
+</head>
+<body>
+
+<header class="masthead">
+    <h1>📅 新闻归档</h1>
+    <div class="sub">共 {total_days} 天历史记录 · 更新于 {gen_time}</div>
+    <div class="back"><a href="index.html">← 返回最新日报</a></div>
+</header>
+
+<main class="container">
+    {year_sections}
+</main>
+
+<footer class="site-footer">
+    <div class="divider"></div>
+    <p>所有新闻版权归原来源所有</p>
+</footer>
+
+</body>
+</html>

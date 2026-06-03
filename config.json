@@ -55,7 +55,7 @@
     "request_timeout_seconds": 90
   },
   "output": {
-    "directory": "output",
+    "directory": "docs",
     "filename_template": "{date}-news-digest.md"
   },
   "email": {

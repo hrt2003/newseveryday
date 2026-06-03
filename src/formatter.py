@@ -173,9 +173,10 @@ class Formatter:
         category_modules = self._build_category_modules(category_digests)
         sources_rows = self._build_sources_rows(category_digests)
         errors_html = self._build_errors_html(fetch_errors)
+        search_data = self._build_search_data_json(category_digests)
 
         # 填充模板
-        return template.format(
+        format_args = dict(
             report_date=report_date.strftime("%Y年%m月%d日"),
             gen_time=gen_time.strftime("%Y-%m-%d %H:%M"),
             overall_digest=_escape_html(overall_digest),
@@ -184,6 +185,10 @@ class Formatter:
             sources_rows=sources_rows,
             errors_html=errors_html,
         )
+        # 只有模板包含 {search_data} 时才传入（兼容旧回退模板）
+        if "{search_data}" in template:
+            format_args["search_data"] = search_data
+        return template.format(**format_args)
 
     def _build_featured_stories(
         self, digest_map: dict[str, CategoryDigest]
@@ -350,6 +355,90 @@ class Formatter:
 
         return "\n".join(cards)
 
+    def _build_search_data_json(
+        self, category_digests: list[CategoryDigest]
+    ) -> str:
+        """生成当天所有文章的 JSON 数据（嵌入页面供搜索用）。"""
+        import json as _json
+        articles = []
+        for cd in category_digests:
+            for a in cd.articles:
+                articles.append({
+                    "title": a.translated_title,
+                    "summary": a.translated_summary,
+                    "source": a.source_name,
+                    "link": a.link,
+                    "category": cd.category,
+                    "category_cn": CATEGORY_NAMES_CN.get(cd.category, cd.category),
+                })
+        return _json.dumps(articles, ensure_ascii=False)
+
+    def build_archive_page(self) -> Path | None:
+        """扫描 docs/ 中所有历史文件，生成归档索引页 archive.html。"""
+        import json as _json
+        import re as _re
+
+        self.output_dir.mkdir(parents=True, exist_ok=True)
+
+        # 扫描所有 *-news-digest.html 文件
+        history: dict[str, dict[str, list[tuple[str, str]]]] = {}  # year → month → [(date, path)]
+        pattern = _re.compile(r"^(\d{4})-(\d{2})-(\d{2})-news-digest\.html$")
+
+        for f in sorted(self.output_dir.glob("*-news-digest.html"), reverse=True):
+            m = pattern.match(f.name)
+            if m:
+                year, month, day = m.group(1), m.group(2), m.group(3)
+                date_str = f"{year}-{month}-{day}"
+                if year not in history:
+                    history[year] = {}
+                if month not in history[year]:
+                    history[year][month] = []
+                history[year][month].append((date_str, f.name))
+
+        if not history:
+            return None
+
+        # 构建归档 HTML
+        archive_template_path = TEMPLATE_DIR / "archive.html"
+        if archive_template_path.exists():
+            template = archive_template_path.read_text(encoding="utf-8")
+        else:
+            template = _ARCHIVE_FALLBACK
+
+        # 生成年月列表
+        year_sections = ""
+        for year in sorted(history.keys(), reverse=True):
+            months_html = ""
+            for month in sorted(history[year].keys(), reverse=True):
+                month_name = f"{int(month):02d}月"
+                dates_html = ""
+                for date_str, filename in history[year][month]:
+                    dates_html += (
+                        f'<li><a href="{filename}">{date_str}</a></li>'
+                    )
+                months_html += f"""
+                <div class="archive-month">
+                    <h3>{month_name}</h3>
+                    <ul class="archive-dates">{dates_html}</ul>
+                </div>"""
+
+            year_sections += f"""
+            <section class="archive-year">
+                <h2>{year} 年</h2>
+                <div class="archive-months-grid">{months_html}</div>
+            </section>"""
+
+        total_days = sum(len(dates) for ym in history.values() for dates in ym.values())
+        html = template.format(
+            gen_time=datetime.now(BEIJING_TZ).strftime("%Y-%m-%d %H:%M"),
+            total_days=str(total_days),
+            year_sections=year_sections,
+        )
+
+        archive_path = self.output_dir / "archive.html"
+        archive_path.write_text(html, encoding="utf-8")
+        return archive_path
+
     def _build_sources_rows(self, category_digests: list[CategoryDigest]) -> str:
         """生成数据来源表格行。"""
         rows = []
@@ -481,5 +570,60 @@ _FALLBACK_TEMPLATE = """<!DOCTYPE html>
 {errors_html}
 </main>
 <footer><p>本日报由脚本自动生成，内容由 <strong>DeepSeek AI</strong> 翻译与摘要</p></footer>
+</body>
+</html>"""
+
+
+_ARCHIVE_FALLBACK = """<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>新闻归档 — 全球新闻日报</title>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;600;700;900&family=Noto+Sans+SC:wght@300;400;500;700&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+    :root {{
+        --bg: #faf9f6;
+        --surface: #ffffff;
+        --text: #1c1917;
+        --text-secondary: #5c5a57;
+        --text-tertiary: #8c8a85;
+        --border: #e7e4df;
+        --radius: 16px;
+    }}
+    @media (prefers-color-scheme: dark) {{
+        :root {{ --bg:#171717; --surface:#24221f; --text:#e8e4e0; --text-secondary:#a8a5a0; --text-tertiary:#787570; --border:#33302b; }}
+    }}
+    * {{ margin:0; padding:0; box-sizing:border-box; }}
+    body {{ font-family: 'Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif; background:var(--bg); color:var(--text); line-height:1.75; min-height:100vh; }}
+    .masthead {{ text-align:center; padding:48px 24px 36px; border-bottom:1px solid var(--border); }}
+    .masthead h1 {{ font-family:'Noto Serif SC',serif; font-size:2rem; font-weight:900; }}
+    .masthead .sub {{ color:var(--text-tertiary); font-size:0.85rem; margin-top:6px; }}
+    .masthead .back {{ margin-top:12px; }}
+    .masthead .back a {{ color:var(--text-secondary); font-size:0.8rem; text-decoration:none; }}
+    .masthead .back a:hover {{ text-decoration:underline; }}
+    .container {{ max-width:760px; margin:0 auto; padding:32px 24px 80px; }}
+    .archive-year {{ margin-bottom:36px; }}
+    .archive-year h2 {{ font-family:'Noto Serif SC',serif; font-size:1.4rem; margin-bottom:16px; padding-bottom:8px; border-bottom:2px solid var(--border); }}
+    .archive-months-grid {{ display:grid; grid-template-columns:repeat(auto-fill, minmax(200px, 1fr)); gap:20px; }}
+    .archive-month h3 {{ font-family:'DM Mono',monospace; font-size:0.75rem; letter-spacing:0.2em; color:var(--text-tertiary); margin-bottom:8px; }}
+    .archive-dates {{ list-style:none; }}
+    .archive-dates li {{ padding:4px 0; }}
+    .archive-dates a {{ color:var(--text); text-decoration:none; font-size:0.9rem; font-family:'DM Mono',monospace; }}
+    .archive-dates a:hover {{ text-decoration:underline; opacity:0.7; }}
+    footer {{ text-align:center; padding:24px; color:var(--text-tertiary); font-size:0.75rem; }}
+    @media (max-width:640px) {{ .archive-months-grid {{ grid-template-columns:1fr 1fr; }} }}
+</style>
+</head>
+<body>
+<header class="masthead">
+    <h1>📅 新闻归档</h1>
+    <div class="sub">共 {total_days} 天历史记录 · 更新于 {gen_time}</div>
+    <div class="back"><a href="index.html">← 返回最新日报</a></div>
+</header>
+<main class="container">
+    {year_sections}
+</main>
+<footer><p>所有新闻版权归原来源所有</p></footer>
 </body>
 </html>"""

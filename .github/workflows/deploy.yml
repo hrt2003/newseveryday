@@ -7,18 +7,9 @@ on:
   push:
     branches: [main, master]
   workflow_dispatch:
-    # 支持手动触发
 
-# GitHub Pages 部署权限
 permissions:
-  contents: read
-  pages: write
-  id-token: write
-
-# 只允许一个并发部署
-concurrency:
-  group: "pages"
-  cancel-in-progress: true
+  contents: write
 
 jobs:
   build:
@@ -42,24 +33,10 @@ jobs:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
         run: python main.py --html
 
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
-
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          # 上传 output 目录作为网站根目录
-          path: 'output'
-
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+      - name: Commit and push history
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/
+          git diff --staged --quiet || git commit -m "Auto: news digest $(date +%Y-%m-%d_%H:%M)"
+          git push
