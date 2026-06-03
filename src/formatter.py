@@ -4,11 +4,14 @@
 HTML 基于 templates/base.html 模板（Editorial Bauhaus 设计风格）。
 """
 
-from datetime import date, datetime
+from datetime import date, datetime, timezone, timedelta
 from pathlib import Path
 from typing import Optional
 
 from .translator import CategoryDigest
+
+# 北京时间 (UTC+8)
+BEIJING_TZ = timezone(timedelta(hours=8))
 
 # ── 常量映射 ────────────────────────────────────────────────────
 
@@ -72,7 +75,7 @@ class Formatter:
         generation_time: Optional[datetime] = None,
     ) -> str:
         """构建完整的 Markdown 日报。"""
-        gen_time = generation_time or datetime.now()
+        gen_time = generation_time or datetime.now(BEIJING_TZ)
         fetch_errors = fetch_errors or {}
         lines: list[str] = []
 
@@ -154,7 +157,7 @@ class Formatter:
         generation_time: datetime | None = None,
     ) -> str:
         """使用 templates/base.html 模板构建模块化 HTML 网页。"""
-        gen_time = generation_time or datetime.now()
+        gen_time = generation_time or datetime.now(BEIJING_TZ)
         fetch_errors = fetch_errors or {}
 
         # 读取模板

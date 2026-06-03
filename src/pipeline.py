@@ -4,10 +4,13 @@
 """
 
 import logging
-from datetime import date, datetime
+from datetime import date, datetime, timezone, timedelta
 from pathlib import Path
 
 from .config import Config
+
+# 北京时间 (UTC+8)
+BEIJING_TZ = timezone(timedelta(hours=8))
 from .feed_fetcher import FeedFetcher, FetchResult
 from .deduplicator import Deduplicator
 from .deepseek_client import DeepSeekClient
@@ -84,7 +87,7 @@ class Pipeline:
             生成的主输出文件路径。
         """
         today = date.today()
-        start_time = datetime.now()
+        start_time = datetime.now(BEIJING_TZ)
 
         step_count = 7 if output_html else 6
         logger.info("=" * 60)
@@ -167,7 +170,7 @@ class Pipeline:
         else:
             logger.info(f"[{step_n}/{step_count}] 跳过邮件发送")
 
-        elapsed = (datetime.now() - start_time).total_seconds()
+        elapsed = (datetime.now(BEIJING_TZ) - start_time).total_seconds()
         logger.info(f"✓ 完成！总耗时 {elapsed:.1f}s")
         logger.info("=" * 60)
 
