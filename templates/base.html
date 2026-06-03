@@ -581,20 +581,43 @@ body {{
 /* Expanded content */
 
 .module-expanded {{
-    max-height: 0;
-    overflow: hidden;
-    transition: max-height 0.5s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.3s ease;
-    opacity: 0;
+    display: none;
 }}
 
 .module-expanded.open {{
-    max-height: 30000px;
-    opacity: 1;
+    display: block;
+    animation: fadeIn 0.35s ease;
+}}
+
+@keyframes fadeIn {{
+    from {{ opacity: 0; transform: translateY(-8px); }}
+    to   {{ opacity: 1; transform: translateY(0); }}
 }}
 
 .module-expanded .articles-list {{
     padding: 0 24px;
     border-top: 1px solid var(--border-light);
+    max-height: 520px;
+    overflow-y: auto;
+    scroll-behavior: smooth;
+}}
+
+/* Custom scrollbar */
+.module-expanded .articles-list::-webkit-scrollbar {{
+    width: 5px;
+}}
+
+.module-expanded .articles-list::-webkit-scrollbar-track {{
+    background: transparent;
+}}
+
+.module-expanded .articles-list::-webkit-scrollbar-thumb {{
+    background: var(--border);
+    border-radius: 10px;
+}}
+
+.module-expanded .articles-list::-webkit-scrollbar-thumb:hover {{
+    background: var(--text-tertiary);
 }}
 
 .collapse-btn {{
@@ -806,7 +829,8 @@ body {{
     .feature-card, .category-module, .overall-digest, .sources-section {{
         box-shadow: none; break-inside: avoid;
     }}
-    .module-expanded {{ max-height: none; opacity: 1; }}
+    .module-expanded {{ display: block !important; }}
+    .module-expanded .articles-list {{ max-height: none; overflow: visible; }}
     .expand-btn, .collapse-btn {{ display: none; }}
 }}
 </style>
