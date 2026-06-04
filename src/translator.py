@@ -160,6 +160,13 @@ class Translator:
             "Travel": "旅游",
             "Sports": "体育",
             "Science": "科学",
+            "Entertainment": "娱乐",
+            "Health": "健康",
+            "Gaming": "游戏",
+            "Automotive": "汽车",
+            "Environment": "环境",
+            "Education": "教育",
+            "Music": "音乐",
         }.get(category, category)
 
         user_content = f"""请翻译以下{category_cn}类新闻文章。
@@ -226,6 +233,13 @@ class Translator:
             "Travel": "旅游",
             "Sports": "体育",
             "Science": "科学",
+            "Entertainment": "娱乐",
+            "Health": "健康",
+            "Gaming": "游戏",
+            "Automotive": "汽车",
+            "Environment": "环境",
+            "Education": "教育",
+            "Music": "音乐",
         }.get(category, category)
 
         fallback_articles = [

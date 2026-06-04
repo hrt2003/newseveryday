@@ -38,6 +38,20 @@
     --accent-sports-bg:#f5f3ff;
     --accent-science: #0891b2;
     --accent-science-bg:#ecfeff;
+    --accent-entertainment:  #db2777;
+    --accent-entertainment-bg:#fdf2f8;
+    --accent-health:  #059669;
+    --accent-health-bg:#ecfdf5;
+    --accent-gaming:  #ea580c;
+    --accent-gaming-bg:#fff7ed;
+    --accent-automotive:  #4f46e5;
+    --accent-automotive-bg:#eef2ff;
+    --accent-environment:  #16a34a;
+    --accent-environment-bg:#f0fdf4;
+    --accent-education:  #d97706;
+    --accent-education-bg:#fffbeb;
+    --accent-music:  #9333ea;
+    --accent-music-bg:#faf5ff;
 
     --shadow-sm: 0 1px 3px rgba(0,0,0,0.04), 0 1px 2px rgba(0,0,0,0.03);
     --shadow-md: 0 4px 16px rgba(0,0,0,0.05), 0 1px 4px rgba(0,0,0,0.04);
@@ -67,6 +81,13 @@
         --accent-travel-bg:  #1a2d24;
         --accent-sports-bg:  #2d1f3d;
         --accent-science-bg: #1a2d33;
+        --accent-entertainment-bg: #3d1f2d;
+        --accent-health-bg:  #1a2d24;
+        --accent-gaming-bg:  #2d1f18;
+        --accent-automotive-bg:  #1f1d3d;
+        --accent-environment-bg: #1a2d1f;
+        --accent-education-bg: #2d2418;
+        --accent-music-bg:  #2d1f3d;
 
         --shadow-sm: 0 1px 3px rgba(0,0,0,0.2);
         --shadow-md: 0 4px 16px rgba(0,0,0,0.25);
@@ -551,6 +572,13 @@ body {{
 .category-module.travel    {{ border-top: 3px solid var(--accent-travel); }}
 .category-module.sports    {{ border-top: 3px solid var(--accent-sports); }}
 .category-module.science   {{ border-top: 3px solid var(--accent-science); }}
+.category-module.entertainment {{ border-top: 3px solid var(--accent-entertainment); }}
+.category-module.health    {{ border-top: 3px solid var(--accent-health); }}
+.category-module.gaming    {{ border-top: 3px solid var(--accent-gaming); }}
+.category-module.automotive {{ border-top: 3px solid var(--accent-automotive); }}
+.category-module.environment {{ border-top: 3px solid var(--accent-environment); }}
+.category-module.education {{ border-top: 3px solid var(--accent-education); }}
+.category-module.music     {{ border-top: 3px solid var(--accent-music); }}
 
 /* Module header */
 
@@ -574,6 +602,13 @@ body {{
 .dot-travel   {{ background: var(--accent-travel);   box-shadow: 0 0 0 4px var(--accent-travel-bg); }}
 .dot-sports   {{ background: var(--accent-sports);   box-shadow: 0 0 0 4px var(--accent-sports-bg); }}
 .dot-science   {{ background: var(--accent-science);  box-shadow: 0 0 0 4px var(--accent-science-bg); }}
+.dot-entertainment {{ background: var(--accent-entertainment); box-shadow: 0 0 0 4px var(--accent-entertainment-bg); }}
+.dot-health   {{ background: var(--accent-health);   box-shadow: 0 0 0 4px var(--accent-health-bg); }}
+.dot-gaming   {{ background: var(--accent-gaming);   box-shadow: 0 0 0 4px var(--accent-gaming-bg); }}
+.dot-automotive {{ background: var(--accent-automotive); box-shadow: 0 0 0 4px var(--accent-automotive-bg); }}
+.dot-environment {{ background: var(--accent-environment); box-shadow: 0 0 0 4px var(--accent-environment-bg); }}
+.dot-education {{ background: var(--accent-education); box-shadow: 0 0 0 4px var(--accent-education-bg); }}
+.dot-music    {{ background: var(--accent-music);    box-shadow: 0 0 0 4px var(--accent-music-bg); }}
 
 .module-header h2 {{
     font-family: 'Noto Serif SC', serif;
@@ -761,6 +796,13 @@ body {{
 .category-module.travel    .item-link {{ color: var(--accent-travel); }}
 .category-module.sports    .item-link {{ color: var(--accent-sports); }}
 .category-module.science   .item-link {{ color: var(--accent-science); }}
+.category-module.entertainment .item-link {{ color: var(--accent-entertainment); }}
+.category-module.health    .item-link {{ color: var(--accent-health); }}
+.category-module.gaming    .item-link {{ color: var(--accent-gaming); }}
+.category-module.automotive .item-link {{ color: var(--accent-automotive); }}
+.category-module.environment .item-link {{ color: var(--accent-environment); }}
+.category-module.education .item-link {{ color: var(--accent-education); }}
+.category-module.music     .item-link {{ color: var(--accent-music); }}
 
 .news-item .item-source {{
     font-size: 0.72rem;
@@ -938,6 +980,13 @@ body {{
         <button class="filter-btn active" data-cat="travel">✈️ 旅游</button>
         <button class="filter-btn active" data-cat="sports">⚽ 体育</button>
         <button class="filter-btn active" data-cat="science">🔬 科学</button>
+        <button class="filter-btn active" data-cat="entertainment">🎬 娱乐</button>
+        <button class="filter-btn active" data-cat="health">🏥 健康</button>
+        <button class="filter-btn active" data-cat="gaming">🎮 游戏</button>
+        <button class="filter-btn active" data-cat="automotive">🚗 汽车</button>
+        <button class="filter-btn active" data-cat="environment">🌱 环境</button>
+        <button class="filter-btn active" data-cat="education">📚 教育</button>
+        <button class="filter-btn active" data-cat="music">🎵 音乐</button>
         <button class="filter-reset" id="filter-reset" title="全部显示">↺</button>
     </div>
     <div class="search-status" id="search-status"></div>
@@ -1104,7 +1153,9 @@ body {{
     // ── 分类筛选 ──
     (function() {{
         var STORAGE_KEY = 'news-digest-categories';
-        var CAT_IDS = ['politics', 'economy', 'technology', 'sports', 'science', 'travel'];
+        var CAT_IDS = ['politics', 'economy', 'technology', 'sports', 'science',
+                        'entertainment', 'health', 'gaming', 'automotive',
+                        'environment', 'education', 'music', 'travel'];
 
         // 从 localStorage 恢复偏好
         var saved = {{}};
@@ -1173,6 +1224,7 @@ body {{
     (function() {{
         var input = document.getElementById('search-input');
         var clearBtn = document.getElementById('search-clear');
+        var searchIcon = document.querySelector('.search-icon');
         var statusEl = document.getElementById('search-status');
         var dataScript = document.getElementById('search-data');
         if (!input || !dataScript) return;
@@ -1207,6 +1259,7 @@ body {{
                 newsItems.forEach(function(el) {{ el.classList.remove('hidden-by-search'); }});
                 previewItems.forEach(function(el) {{ el.classList.remove('hidden-by-search'); }});
                 if (clearBtn) clearBtn.style.display = 'none';
+                if (searchIcon) searchIcon.style.display = '';
                 if (statusEl) statusEl.textContent = '';
                 // 移除高亮
                 document.querySelectorAll('.search-highlight').forEach(function(m) {{
@@ -1220,6 +1273,7 @@ body {{
             }}
 
             if (clearBtn) clearBtn.style.display = 'flex';
+            if (searchIcon) searchIcon.style.display = 'none';
 
             var matchedIds = new Set();
             articles.forEach(function(a, idx) {{

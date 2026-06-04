@@ -39,6 +39,38 @@
       {"name": "Science Daily", "url": "https://www.sciencedaily.com/rss/all.xml"},
       {"name": "New Scientist", "url": "https://www.newscientist.com/feed/"},
       {"name": "Nature", "url": "https://www.nature.com/nature.rss"}
+    ],
+    "Entertainment": [
+      {"name": "Variety", "url": "https://variety.com/feed/"},
+      {"name": "Billboard", "url": "https://www.billboard.com/feed/"},
+      {"name": "Deadline", "url": "https://deadline.com/feed/"}
+    ],
+    "Health": [
+      {"name": "WHO", "url": "https://www.who.int/rss-feeds/news-english.xml"},
+      {"name": "Medical News Today", "url": "https://www.medicalnewstoday.com/newsfeeds-rss"},
+      {"name": "STAT News", "url": "https://www.statnews.com/feed/"}
+    ],
+    "Gaming": [
+      {"name": "IGN", "url": "https://feeds.feedburner.com/ign/all"},
+      {"name": "Kotaku", "url": "https://kotaku.com/rss"},
+      {"name": "PC Gamer", "url": "https://www.pcgamer.com/rss/"}
+    ],
+    "Automotive": [
+      {"name": "Autoblog", "url": "https://www.autoblog.com/rss.xml"},
+      {"name": "Motor Trend", "url": "https://www.motortrend.com/feed/"}
+    ],
+    "Environment": [
+      {"name": "Inside Climate News", "url": "https://insideclimatenews.org/feed/"},
+      {"name": "Grist", "url": "https://grist.org/feed/"}
+    ],
+    "Education": [
+      {"name": "EdSurge", "url": "https://www.edsurge.com/articles_rss"},
+      {"name": "Inside Higher Ed", "url": "https://www.insidehighered.com/rss/news.xml"}
+    ],
+    "Music": [
+      {"name": "Pitchfork", "url": "https://pitchfork.com/feed/"},
+      {"name": "Rolling Stone", "url": "https://www.rollingstone.com/music/music-news/feed/"},
+      {"name": "NME", "url": "https://www.nme.com/feed/"}
     ]
   },
   "source_priority": [
@@ -47,7 +79,14 @@
     "TechCrunch", "The Verge", "Ars Technica", "Wired", "The Register", "Hacker News",
     "Skift", "The Points Guy", "Nomadic Matt", "Travel Off Path",
     "ESPN", "BBC Sport", "Sky Sports",
-    "Science Daily", "New Scientist", "Nature"
+    "Science Daily", "New Scientist", "Nature",
+    "Variety", "Billboard", "Deadline",
+    "WHO", "Medical News Today", "STAT News",
+    "IGN", "Kotaku", "PC Gamer",
+    "Autoblog", "Motor Trend",
+    "Inside Climate News", "Grist",
+    "EdSurge", "Inside Higher Ed",
+    "Pitchfork", "Rolling Stone", "NME"
   ],
   "dedup": {
     "similarity_threshold": 0.6,

@@ -22,6 +22,13 @@ CATEGORY_NAMES_CN: dict[str, str] = {
     "Travel": "✈️ 旅游",
     "Sports": "⚽ 体育",
     "Science": "🔬 科学",
+    "Entertainment": "🎬 娱乐",
+    "Health": "🏥 健康",
+    "Gaming": "🎮 游戏",
+    "Automotive": "🚗 汽车",
+    "Environment": "🌱 环境",
+    "Education": "📚 教育",
+    "Music": "🎵 音乐",
 }
 
 CAT_CSS_CLASS: dict[str, str] = {
@@ -31,6 +38,13 @@ CAT_CSS_CLASS: dict[str, str] = {
     "Travel": "travel",
     "Sports": "sports",
     "Science": "science",
+    "Entertainment": "entertainment",
+    "Health": "health",
+    "Gaming": "gaming",
+    "Automotive": "automotive",
+    "Environment": "environment",
+    "Education": "education",
+    "Music": "music",
 }
 
 CAT_DOT_CLASS: dict[str, str] = {
@@ -40,9 +54,18 @@ CAT_DOT_CLASS: dict[str, str] = {
     "Travel": "dot-travel",
     "Sports": "dot-sports",
     "Science": "dot-science",
+    "Entertainment": "dot-entertainment",
+    "Health": "dot-health",
+    "Gaming": "dot-gaming",
+    "Automotive": "dot-automotive",
+    "Environment": "dot-environment",
+    "Education": "dot-education",
+    "Music": "dot-music",
 }
 
-CATEGORY_ORDER = ["Politics", "Economy", "Technology", "Sports", "Science", "Travel"]
+CATEGORY_ORDER = ["Politics", "Economy", "Technology", "Sports", "Science",
+                   "Entertainment", "Health", "Gaming", "Automotive",
+                   "Environment", "Education", "Music", "Travel"]
 
 TEMPLATE_DIR = Path(__file__).resolve().parent.parent / "templates"
 
