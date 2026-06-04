@@ -100,7 +100,7 @@
 
   "dedup": { "similarity_threshold": 0.6, "per_category": true },
   "fetch": {
-    "max_articles_per_feed": 8,
+    "max_articles_per_feed": 5,
     "request_timeout_seconds": 30,
     "max_retries": 2,
     "retry_backoff_factor": 2.0
