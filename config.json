@@ -29,13 +29,25 @@
       {"name": "The Points Guy", "url": "https://thepointsguy.com/feed/"},
       {"name": "Nomadic Matt", "url": "https://www.nomadicmatt.com/travel-blog/feed/"},
       {"name": "Travel Off Path", "url": "https://www.traveloffpath.com/feed/"}
+    ],
+    "Sports": [
+      {"name": "ESPN", "url": "https://www.espn.com/espn/rss/news"},
+      {"name": "BBC Sport", "url": "https://feeds.bbci.co.uk/sport/rss.xml"},
+      {"name": "Sky Sports", "url": "https://www.skysports.com/rss/12040"}
+    ],
+    "Science": [
+      {"name": "Science Daily", "url": "https://www.sciencedaily.com/rss/all.xml"},
+      {"name": "New Scientist", "url": "https://www.newscientist.com/feed/"},
+      {"name": "Nature", "url": "https://www.nature.com/nature.rss"}
     ]
   },
   "source_priority": [
     "BBC World", "The Guardian", "Al Jazeera", "NPR World", "France 24", "Deutsche Welle",
     "CNBC Top News", "MarketWatch", "NPR Business", "Yahoo Finance", "Investing.com", "The Economist",
     "TechCrunch", "The Verge", "Ars Technica", "Wired", "The Register", "Hacker News",
-    "Skift", "The Points Guy", "Nomadic Matt", "Travel Off Path"
+    "Skift", "The Points Guy", "Nomadic Matt", "Travel Off Path",
+    "ESPN", "BBC Sport", "Sky Sports",
+    "Science Daily", "New Scientist", "Nature"
   ],
   "dedup": {
     "similarity_threshold": 0.6,

@@ -34,6 +34,10 @@
     --accent-economy-bg:#fffbeb;
     --accent-travel:  #047857;
     --accent-travel-bg:#ecfdf5;
+    --accent-sports:  #7c3aed;
+    --accent-sports-bg:#f5f3ff;
+    --accent-science: #0891b2;
+    --accent-science-bg:#ecfeff;
 
     --shadow-sm: 0 1px 3px rgba(0,0,0,0.04), 0 1px 2px rgba(0,0,0,0.03);
     --shadow-md: 0 4px 16px rgba(0,0,0,0.05), 0 1px 4px rgba(0,0,0,0.04);
@@ -61,6 +65,8 @@
         --accent-politics-bg:#2d1f1a;
         --accent-economy-bg: #2d2418;
         --accent-travel-bg:  #1a2d24;
+        --accent-sports-bg:  #2d1f3d;
+        --accent-science-bg: #1a2d33;
 
         --shadow-sm: 0 1px 3px rgba(0,0,0,0.2);
         --shadow-md: 0 4px 16px rgba(0,0,0,0.25);
@@ -258,6 +264,73 @@ body {{
 .archive-link:hover {{
     color: var(--text-primary);
     border-color: var(--text-tertiary);
+}}
+
+/* Category filter bar */
+.filter-bar {{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    margin-top: 14px;
+    flex-wrap: wrap;
+}}
+
+.filter-btn {{
+    padding: 6px 16px;
+    border: 1px solid var(--border);
+    border-radius: 100px;
+    background: transparent;
+    color: var(--text-tertiary);
+    font-family: 'Noto Sans SC', sans-serif;
+    font-size: 0.8rem;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    user-select: none;
+}}
+
+.filter-btn:hover {{
+    border-color: var(--text-tertiary);
+    color: var(--text-primary);
+}}
+
+.filter-btn.active {{
+    background: var(--surface);
+    border-color: var(--text-tertiary);
+    color: var(--text-primary);
+    box-shadow: var(--shadow-sm);
+}}
+
+.filter-btn.politics.active {{ border-color: var(--accent-politics); }}
+.filter-btn.economy.active {{ border-color: var(--accent-economy); }}
+.filter-btn.technology.active {{ border-color: var(--accent-tech); }}
+.filter-btn.travel.active {{ border-color: var(--accent-travel); }}
+
+.filter-reset {{
+    width: 32px;
+    height: 32px;
+    border: 1px solid var(--border);
+    border-radius: 50%;
+    background: transparent;
+    color: var(--text-tertiary);
+    font-size: 1rem;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.2s ease;
+    margin-left: 4px;
+}}
+
+.filter-reset:hover {{
+    border-color: var(--text-tertiary);
+    color: var(--text-primary);
+    transform: rotate(180deg);
+}}
+
+/* Filtered-out category */
+.category-filtered {{
+    display: none !important;
 }}
 
 /* Search highlight */
@@ -476,6 +549,8 @@ body {{
 .category-module.politics  {{ border-top: 3px solid var(--accent-politics); }}
 .category-module.economy   {{ border-top: 3px solid var(--accent-economy); }}
 .category-module.travel    {{ border-top: 3px solid var(--accent-travel); }}
+.category-module.sports    {{ border-top: 3px solid var(--accent-sports); }}
+.category-module.science   {{ border-top: 3px solid var(--accent-science); }}
 
 /* Module header */
 
@@ -497,6 +572,8 @@ body {{
 .dot-politics {{ background: var(--accent-politics); box-shadow: 0 0 0 4px var(--accent-politics-bg); }}
 .dot-economy  {{ background: var(--accent-economy);  box-shadow: 0 0 0 4px var(--accent-economy-bg); }}
 .dot-travel   {{ background: var(--accent-travel);   box-shadow: 0 0 0 4px var(--accent-travel-bg); }}
+.dot-sports   {{ background: var(--accent-sports);   box-shadow: 0 0 0 4px var(--accent-sports-bg); }}
+.dot-science   {{ background: var(--accent-science);  box-shadow: 0 0 0 4px var(--accent-science-bg); }}
 
 .module-header h2 {{
     font-family: 'Noto Serif SC', serif;
@@ -682,6 +759,8 @@ body {{
 .category-module.politics  .item-link {{ color: var(--accent-politics); }}
 .category-module.economy   .item-link {{ color: var(--accent-economy); }}
 .category-module.travel    .item-link {{ color: var(--accent-travel); }}
+.category-module.sports    .item-link {{ color: var(--accent-sports); }}
+.category-module.science   .item-link {{ color: var(--accent-science); }}
 
 .news-item .item-source {{
     font-size: 0.72rem;
@@ -852,6 +931,15 @@ body {{
         </div>
         <a class="archive-link" href="archive.html">📅 归档</a>
     </div>
+    <div class="filter-bar" id="filter-bar">
+        <button class="filter-btn active" data-cat="politics">🌍 国际政治</button>
+        <button class="filter-btn active" data-cat="economy">💰 经济财经</button>
+        <button class="filter-btn active" data-cat="technology">💻 科技</button>
+        <button class="filter-btn active" data-cat="travel">✈️ 旅游</button>
+        <button class="filter-btn active" data-cat="sports">⚽ 体育</button>
+        <button class="filter-btn active" data-cat="science">🔬 科学</button>
+        <button class="filter-reset" id="filter-reset" title="全部显示">↺</button>
+    </div>
     <div class="search-status" id="search-status"></div>
     <div class="refresh-area" id="refresh-area" style="display:none">
         <span class="refresh-hint" id="refresh-hint"></span>
@@ -1011,6 +1099,74 @@ body {{
             hint.textContent = '上次更新: ' + elapsed + ' · 可手动触发刷新';
             area.style.display = 'flex';
         }}
+    }})();
+
+    // ── 分类筛选 ──
+    (function() {{
+        var STORAGE_KEY = 'news-digest-categories';
+        var CAT_IDS = ['politics', 'economy', 'technology', 'sports', 'science', 'travel'];
+
+        // 从 localStorage 恢复偏好
+        var saved = {{}};
+        try {{
+            saved = JSON.parse(localStorage.getItem(STORAGE_KEY)) || {{}};
+        }} catch(e) {{}}
+
+        var filters = {{}};
+        CAT_IDS.forEach(function(id) {{
+            filters[id] = saved[id] !== undefined ? saved[id] : true;
+        }});
+
+        function saveFilters() {{
+            try {{ localStorage.setItem(STORAGE_KEY, JSON.stringify(filters)); }} catch(e) {{}}
+        }}
+
+        function applyFilters() {{
+            CAT_IDS.forEach(function(cat) {{
+                // Featured cards
+                var featureCard = document.querySelector('.feature-card.' + cat);
+                if (featureCard) {{
+                    featureCard.classList.toggle('category-filtered', !filters[cat]);
+                }}
+                // Category modules
+                var module = document.querySelector('.category-module.' + cat);
+                if (module) {{
+                    module.classList.toggle('category-filtered', !filters[cat]);
+                }}
+                // Update button state
+                var btn = document.querySelector('.filter-btn[data-cat="' + cat + '"]');
+                if (btn) {{
+                    btn.classList.toggle('active', filters[cat]);
+                }}
+            }});
+            saveFilters();
+        }}
+
+        // 点击切换
+        document.querySelectorAll('.filter-btn').forEach(function(btn) {{
+            var cat = btn.getAttribute('data-cat');
+            if (cat && filters[cat] !== undefined) {{
+                btn.classList.toggle('active', filters[cat]);
+            }}
+            btn.addEventListener('click', function() {{
+                if (filters[cat] !== undefined) {{
+                    filters[cat] = !filters[cat];
+                    applyFilters();
+                }}
+            }});
+        }});
+
+        // 全部显示
+        var resetBtn = document.getElementById('filter-reset');
+        if (resetBtn) {{
+            resetBtn.addEventListener('click', function() {{
+                CAT_IDS.forEach(function(id) {{ filters[id] = true; }});
+                applyFilters();
+            }});
+        }}
+
+        // 初始应用
+        applyFilters();
     }})();
 
     // ── 搜索功能 ──

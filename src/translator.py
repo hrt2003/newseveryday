@@ -158,6 +158,8 @@ class Translator:
             "Politics": "国际政治",
             "Economy": "经济财经",
             "Travel": "旅游",
+            "Sports": "体育",
+            "Science": "科学",
         }.get(category, category)
 
         user_content = f"""请翻译以下{category_cn}类新闻文章。
@@ -222,6 +224,8 @@ class Translator:
             "Politics": "国际政治",
             "Economy": "经济财经",
             "Travel": "旅游",
+            "Sports": "体育",
+            "Science": "科学",
         }.get(category, category)
 
         fallback_articles = [

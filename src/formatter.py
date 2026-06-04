@@ -20,6 +20,8 @@ CATEGORY_NAMES_CN: dict[str, str] = {
     "Politics": "🌍 国际政治",
     "Economy": "💰 经济财经",
     "Travel": "✈️ 旅游",
+    "Sports": "⚽ 体育",
+    "Science": "🔬 科学",
 }
 
 CAT_CSS_CLASS: dict[str, str] = {
@@ -27,6 +29,8 @@ CAT_CSS_CLASS: dict[str, str] = {
     "Politics": "politics",
     "Economy": "economy",
     "Travel": "travel",
+    "Sports": "sports",
+    "Science": "science",
 }
 
 CAT_DOT_CLASS: dict[str, str] = {
@@ -34,9 +38,11 @@ CAT_DOT_CLASS: dict[str, str] = {
     "Politics": "dot-politics",
     "Economy": "dot-economy",
     "Travel": "dot-travel",
+    "Sports": "dot-sports",
+    "Science": "dot-science",
 }
 
-CATEGORY_ORDER = ["Politics", "Economy", "Technology", "Travel"]
+CATEGORY_ORDER = ["Politics", "Economy", "Technology", "Sports", "Science", "Travel"]
 
 TEMPLATE_DIR = Path(__file__).resolve().parent.parent / "templates"
 
