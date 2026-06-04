@@ -53,8 +53,8 @@
     "Automotive": [
       {"name": "The Drive", "url": "https://www.thedrive.com/feed"},
       {"name": "Jalopnik", "url": "https://jalopnik.com/rss"},
-      {"name": "Motor1", "url": "https://www.motor1.com/rss/news/"},
-      {"name": "Autoweek", "url": "https://www.autoweek.com/feed/"}
+      {"name": "Roadshow", "url": "https://www.cnet.com/roadshow/news/feed/"},
+      {"name": "Autocar", "url": "https://www.autocar.co.uk/feed/"}
     ],
     "Environment": [
       {"name": "Inside Climate News", "url": "https://insideclimatenews.org/feed/"},
@@ -91,7 +91,7 @@
     "Variety", "Billboard", "Deadline", "The Hollywood Reporter",
     "WHO", "STAT News", "Medical Xpress", "MedPage Today",
     "IGN", "Kotaku", "PC Gamer", "GameSpot",
-    "The Drive", "Jalopnik", "Motor1", "Autoweek",
+    "The Drive", "Jalopnik", "Roadshow", "Autocar",
     "Inside Climate News", "Grist", "Carbon Brief", "Mongabay",
     "EdSurge", "Campus Technology", "Hechinger Report", "eSchool News",
     "Rolling Stone", "NME", "Consequence", "Stereogum",
