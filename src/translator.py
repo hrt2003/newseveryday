@@ -79,7 +79,11 @@ class Translator:
             CategoryDigest 列表，每项包含该分类的翻译文章和摘要。
         """
         results: list[CategoryDigest] = []
-        categories_order = ["Politics", "Economy", "Technology", "Travel"]
+        categories_order = [
+            "Politics", "Economy", "Technology", "Science",
+            "Sports", "Entertainment", "Health", "Gaming",
+            "Automotive", "Environment", "Education", "Music", "Travel"
+        ]
 
         # 按固定顺序处理分类
         for cat in categories_order:

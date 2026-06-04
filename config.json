@@ -27,7 +27,7 @@
       {"name": "Phys.org", "url": "https://phys.org/rss-feed/"}
     ],
     "Sports": [
-      {"name": "ESPN", "url": "https://www.espn.com/espn/rss/news"},
+      {"name": "ESPN", "url": "https://www.espn.com/espn/rss/news/headlines"},
       {"name": "BBC Sport", "url": "https://feeds.bbci.co.uk/sport/rss.xml"},
       {"name": "Sky Sports", "url": "https://www.skysports.com/rss/12040"},
       {"name": "CBS Sports", "url": "https://www.cbssports.com/rss/headlines/"}
@@ -41,7 +41,7 @@
     "Health": [
       {"name": "WHO", "url": "https://www.who.int/rss-feeds/news-english.xml"},
       {"name": "STAT News", "url": "https://www.statnews.com/feed/"},
-      {"name": "Healthline", "url": "https://www.healthline.com/rss/news"},
+      {"name": "Medical Xpress", "url": "https://medicalxpress.com/rss-feed/"},
       {"name": "MedPage Today", "url": "https://www.medpagetoday.com/rss/headlines.xml"}
     ],
     "Gaming": [
@@ -53,8 +53,8 @@
     "Automotive": [
       {"name": "The Drive", "url": "https://www.thedrive.com/feed"},
       {"name": "Jalopnik", "url": "https://jalopnik.com/rss"},
-      {"name": "Top Gear", "url": "https://www.topgear.com/feed"},
-      {"name": "Auto Express", "url": "https://www.autoexpress.co.uk/feed"}
+      {"name": "Motor1", "url": "https://www.motor1.com/rss/news/"},
+      {"name": "Autoweek", "url": "https://www.autoweek.com/feed/"}
     ],
     "Environment": [
       {"name": "Inside Climate News", "url": "https://insideclimatenews.org/feed/"},
@@ -64,7 +64,7 @@
     ],
     "Education": [
       {"name": "EdSurge", "url": "https://www.edsurge.com/articles_rss"},
-      {"name": "Times Higher Ed", "url": "https://www.timeshighereducation.com/rss.xml"},
+      {"name": "Campus Technology", "url": "https://campustechnology.com/rss-feeds/all-articles.aspx"},
       {"name": "Hechinger Report", "url": "https://hechingerreport.org/feed/"},
       {"name": "eSchool News", "url": "https://www.eschoolnews.com/feed/"}
     ],
@@ -89,11 +89,11 @@
     "Science Daily", "Nature", "Science News", "Phys.org",
     "ESPN", "BBC Sport", "Sky Sports", "CBS Sports",
     "Variety", "Billboard", "Deadline", "The Hollywood Reporter",
-    "WHO", "STAT News", "Healthline", "MedPage Today",
+    "WHO", "STAT News", "Medical Xpress", "MedPage Today",
     "IGN", "Kotaku", "PC Gamer", "GameSpot",
-    "The Drive", "Jalopnik", "Top Gear", "Auto Express",
+    "The Drive", "Jalopnik", "Motor1", "Autoweek",
     "Inside Climate News", "Grist", "Carbon Brief", "Mongabay",
-    "EdSurge", "Times Higher Ed", "Hechinger Report", "eSchool News",
+    "EdSurge", "Campus Technology", "Hechinger Report", "eSchool News",
     "Rolling Stone", "NME", "Consequence", "Stereogum",
     "Skift", "The Points Guy", "Nomadic Matt", "Travel Off Path"
   ],
