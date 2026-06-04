@@ -21,16 +21,16 @@
       {"name": "Wired", "url": "https://www.wired.com/feed/rss"}
     ],
     "Science": [
-      {"name": "Nature", "url": "https://www.nature.com/nature.rss"},
       {"name": "Science Daily", "url": "https://www.sciencedaily.com/rss/all.xml"},
-      {"name": "New Scientist", "url": "https://www.newscientist.com/feed/"},
-      {"name": "Scientific American", "url": "https://www.scientificamerican.com/feed/"}
+      {"name": "Nature", "url": "https://www.nature.com/nature.rss"},
+      {"name": "Science News", "url": "https://www.sciencenews.org/feed"},
+      {"name": "Phys.org", "url": "https://phys.org/rss-feed/"}
     ],
     "Sports": [
       {"name": "ESPN", "url": "https://www.espn.com/espn/rss/news"},
       {"name": "BBC Sport", "url": "https://feeds.bbci.co.uk/sport/rss.xml"},
       {"name": "Sky Sports", "url": "https://www.skysports.com/rss/12040"},
-      {"name": "The Athletic", "url": "https://theathletic.com/feed/"}
+      {"name": "CBS Sports", "url": "https://www.cbssports.com/rss/headlines/"}
     ],
     "Entertainment": [
       {"name": "Variety", "url": "https://variety.com/feed/"},
@@ -40,9 +40,9 @@
     ],
     "Health": [
       {"name": "WHO", "url": "https://www.who.int/rss-feeds/news-english.xml"},
-      {"name": "Medical News Today", "url": "https://www.medicalnewstoday.com/newsfeeds-rss"},
       {"name": "STAT News", "url": "https://www.statnews.com/feed/"},
-      {"name": "NIH News", "url": "https://www.nih.gov/news-events/news-releases/feed"}
+      {"name": "Healthline", "url": "https://www.healthline.com/rss/news"},
+      {"name": "MedPage Today", "url": "https://www.medpagetoday.com/rss/headlines.xml"}
     ],
     "Gaming": [
       {"name": "IGN", "url": "https://feeds.feedburner.com/ign/all"},
@@ -51,10 +51,10 @@
       {"name": "GameSpot", "url": "https://www.gamespot.com/feeds/news/"}
     ],
     "Automotive": [
-      {"name": "Autoblog", "url": "https://www.autoblog.com/rss.xml"},
-      {"name": "Motor Trend", "url": "https://www.motortrend.com/feed/"},
-      {"name": "Car and Driver", "url": "https://www.caranddriver.com/feed/"},
-      {"name": "Road & Track", "url": "https://www.roadandtrack.com/feed/"}
+      {"name": "The Drive", "url": "https://www.thedrive.com/feed"},
+      {"name": "Jalopnik", "url": "https://jalopnik.com/rss"},
+      {"name": "Top Gear", "url": "https://www.topgear.com/feed"},
+      {"name": "Auto Express", "url": "https://www.autoexpress.co.uk/feed"}
     ],
     "Environment": [
       {"name": "Inside Climate News", "url": "https://insideclimatenews.org/feed/"},
@@ -64,15 +64,15 @@
     ],
     "Education": [
       {"name": "EdSurge", "url": "https://www.edsurge.com/articles_rss"},
-      {"name": "Inside Higher Ed", "url": "https://www.insidehighered.com/rss/news.xml"},
-      {"name": "The Chronicle", "url": "https://www.chronicle.com/feed/"},
-      {"name": "Education Week", "url": "https://www.edweek.org/feeds/edweek.xml"}
+      {"name": "Times Higher Ed", "url": "https://www.timeshighereducation.com/rss.xml"},
+      {"name": "Hechinger Report", "url": "https://hechingerreport.org/feed/"},
+      {"name": "eSchool News", "url": "https://www.eschoolnews.com/feed/"}
     ],
     "Music": [
-      {"name": "Pitchfork", "url": "https://pitchfork.com/feed/"},
       {"name": "Rolling Stone", "url": "https://www.rollingstone.com/music/music-news/feed/"},
       {"name": "NME", "url": "https://www.nme.com/feed/"},
-      {"name": "Billboard News", "url": "https://www.billboard.com/feed/"}
+      {"name": "Consequence", "url": "https://consequence.net/feed/"},
+      {"name": "Stereogum", "url": "https://www.stereogum.com/feed/"}
     ],
     "Travel": [
       {"name": "Skift", "url": "https://skift.com/feed/"},
@@ -86,15 +86,15 @@
     "BBC World", "The Guardian", "Al Jazeera", "NPR World",
     "CNBC", "MarketWatch", "Yahoo Finance", "Investing.com",
     "TechCrunch", "The Verge", "Ars Technica", "Wired",
-    "Nature", "Science Daily", "New Scientist", "Scientific American",
-    "ESPN", "BBC Sport", "Sky Sports", "The Athletic",
+    "Science Daily", "Nature", "Science News", "Phys.org",
+    "ESPN", "BBC Sport", "Sky Sports", "CBS Sports",
     "Variety", "Billboard", "Deadline", "The Hollywood Reporter",
-    "WHO", "Medical News Today", "STAT News", "NIH News",
+    "WHO", "STAT News", "Healthline", "MedPage Today",
     "IGN", "Kotaku", "PC Gamer", "GameSpot",
-    "Autoblog", "Motor Trend", "Car and Driver", "Road & Track",
+    "The Drive", "Jalopnik", "Top Gear", "Auto Express",
     "Inside Climate News", "Grist", "Carbon Brief", "Mongabay",
-    "EdSurge", "Inside Higher Ed", "The Chronicle", "Education Week",
-    "Pitchfork", "Rolling Stone", "NME", "Billboard News",
+    "EdSurge", "Times Higher Ed", "Hechinger Report", "eSchool News",
+    "Rolling Stone", "NME", "Consequence", "Stereogum",
     "Skift", "The Points Guy", "Nomadic Matt", "Travel Off Path"
   ],
 
