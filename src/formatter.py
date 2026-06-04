@@ -63,9 +63,14 @@ CAT_DOT_CLASS: dict[str, str] = {
     "Music": "dot-music",
 }
 
-CATEGORY_ORDER = ["Politics", "Economy", "Technology", "Sports", "Science",
+CATEGORY_ORDER = ["Politics", "Economy", "Technology", "Science", "Sports",
                    "Entertainment", "Health", "Gaming", "Automotive",
                    "Environment", "Education", "Music", "Travel"]
+
+# 三层布局分组
+PRIMARY_CATEGORIES = ["Politics", "Economy", "Technology", "Science"]
+MORE_CATEGORIES = ["Sports", "Entertainment", "Health", "Gaming",
+                    "Automotive", "Environment", "Education", "Music", "Travel"]
 
 TEMPLATE_DIR = Path(__file__).resolve().parent.parent / "templates"
 
@@ -196,10 +201,11 @@ class Formatter:
         else:
             template = _FALLBACK_TEMPLATE
 
-        # 生成各 HTML 片段（模块化布局）
+        # 生成各 HTML 片段（三层布局）
         digest_map = {cd.category: cd for cd in category_digests}
         featured_stories = self._build_featured_stories(digest_map)
-        category_modules = self._build_category_modules(category_digests)
+        primary_modules = self._build_category_modules(category_digests, PRIMARY_CATEGORIES)
+        more_modules = self._build_category_modules(category_digests, MORE_CATEGORIES)
         sources_rows = self._build_sources_rows(category_digests)
         errors_html = self._build_errors_html(fetch_errors)
         search_data = self._build_search_data_json(category_digests)
@@ -210,7 +216,8 @@ class Formatter:
             gen_time=gen_time.strftime("%Y-%m-%d %H:%M"),
             overall_digest=_escape_html(overall_digest),
             featured_stories=featured_stories,
-            category_modules=category_modules,
+            primary_modules=primary_modules,
+            more_modules=more_modules,
             sources_rows=sources_rows,
             errors_html=errors_html,
         )
@@ -260,11 +267,14 @@ class Formatter:
         return "\n".join(cards) if cards else '<p class="no-news">暂无精华头条。</p>'
 
     def _build_category_modules(
-        self, category_digests: list[CategoryDigest]
+        self, category_digests: list[CategoryDigest],
+        filter_cats: list[str] | None = None
     ) -> str:
-        """生成 2×2 可折叠分类模块。"""
+        """生成可折叠分类模块。filter_cats 限定要生成的分类。"""
         modules = []
         for cd in category_digests:
+            if filter_cats and cd.category not in filter_cats:
+                continue
             cn_name = CATEGORY_NAMES_CN.get(cd.category, cd.category)
             css_class = CAT_CSS_CLASS.get(cd.category, "politics")
             dot_class = CAT_DOT_CLASS.get(cd.category, "dot-politics")
@@ -594,7 +604,8 @@ _FALLBACK_TEMPLATE = """<!DOCTYPE html>
 <main class="main-container">
 <section class="overall-digest"><p>{overall_digest}</p></section>
 <div class="featured-grid">{featured_stories}</div>
-<div class="module-grid">{category_modules}</div>
+<div class="primary-grid">{primary_modules}</div>
+{more_modules}
 <section class="sources-section"><h2>📊 数据来源</h2><table>{sources_rows}</table></section>
 {errors_html}
 </main>
