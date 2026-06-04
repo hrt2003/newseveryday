@@ -416,39 +416,48 @@ class Formatter:
 
     CONFLICT_ZONES = [
         {"id": "ukraine", "name": "乌克兰战争", "lat": 48.5, "lng": 31.5, "severity": "high",
-         "keywords": ["Ukraine", "Zelensky", "Kyiv", "Crimea", "Donetsk", "Luhansk"]},
+         "keywords": ["乌克兰", "Ukraine", "基辅", "Kyiv", "泽连斯基", "Zelensky", "克里米亚", "Crimea",
+                       "顿涅茨克", "Donetsk", "卢甘斯克", "Luhansk", "俄军", "俄方", "莫斯科"]},
         {"id": "gaza", "name": "加沙/以色列", "lat": 31.5, "lng": 34.4, "severity": "high",
-         "keywords": ["Gaza", "Israel", "Hamas", "Netanyahu", "Palestin", "West Bank", "Jerusalem"]},
+         "keywords": ["加沙", "Gaza", "以色列", "Israel", "哈马斯", "Hamas", "内塔尼亚胡", "Netanyahu",
+                       "巴勒斯坦", "Palestin", "约旦河西岸", "West Bank", "耶路撒冷", "Jerusalem", "停火"]},
         {"id": "sudan", "name": "苏丹内战", "lat": 15.5, "lng": 30.0, "severity": "high",
-         "keywords": ["Sudan", "Khartoum", "RSF", "Darfur", "Burhan"]},
+         "keywords": ["苏丹", "Sudan", "喀土穆", "Khartoum", "达富尔", "Darfur", "内战", "RSF"]},
         {"id": "myanmar", "name": "缅甸冲突", "lat": 22.0, "lng": 96.0, "severity": "high",
-         "keywords": ["Myanmar", "Burma", "Aung San Suu Kyi", "Rakhine", "junta"]},
+         "keywords": ["缅甸", "Myanmar", "Burma", "军政府", "junta", "昂山素季", "若开", "Rakhine"]},
         {"id": "yemen", "name": "也门危机", "lat": 15.5, "lng": 44.0, "severity": "medium",
-         "keywords": ["Yemen", "Houthi", "Sanaa", "Aden", "Red Sea"]},
+         "keywords": ["也门", "Yemen", "胡塞", "Houthi", "红海", "Red Sea", "萨那", "Sanaa", "亚丁", "Aden"]},
         {"id": "syria", "name": "叙利亚局势", "lat": 34.0, "lng": 39.0, "severity": "medium",
-         "keywords": ["Syria", "Assad", "Damascus", "Idlib", "Kurds", "SDF"]},
+         "keywords": ["叙利亚", "Syria", "阿萨德", "Assad", "大马士革", "Damascus", "库尔德", "Kurds", "伊德利卜", "Idlib"]},
         {"id": "drc", "name": "刚果(金)冲突", "lat": -2.0, "lng": 23.0, "severity": "medium",
-         "keywords": ["Congo", "DRC", "Kinshasa", "Goma", "M23", "Rwanda"]},
+         "keywords": ["刚果", "Congo", "DRC", "金沙萨", "Kinshasa", "戈马", "Goma", "卢旺达", "Rwanda", "M23"]},
         {"id": "sahel", "name": "萨赫勒地带", "lat": 16.0, "lng": 0.0, "severity": "medium",
-         "keywords": ["Sahel", "Mali", "Burkina Faso", "Niger", "jihadist", "coup"]},
+         "keywords": ["马里", "Mali", "布基纳法索", "Burkina Faso", "尼日尔", "Niger", "政变", "coup", "圣战", "jihadist", "萨赫勒", "Sahel"]},
         {"id": "southchinasea", "name": "南海/台海", "lat": 20.0, "lng": 118.0, "severity": "medium",
-         "keywords": ["South China Sea", "Taiwan", "Beijing", "PLA", "Spratly", "Paracel", "Taipei"]},
+         "keywords": ["南海", "South China Sea", "台湾", "Taiwan", "台北", "Taipei", "北京", "Beijing",
+                       "解放军", "PLA", "南沙", "Spratly", "西沙", "Paracel", "台海", "海峡"]},
         {"id": "korea", "name": "朝鲜半岛", "lat": 38.5, "lng": 127.0, "severity": "medium",
-         "keywords": ["North Korea", "Kim Jong", "Pyongyang", "Seoul", "missile"]},
+         "keywords": ["朝鲜", "North Korea", "韩国", "Seoul", "首尔", "平壤", "Pyongyang", "金正恩", "Kim Jong", "导弹", "missile"]},
         {"id": "iran", "name": "伊朗/波斯湾", "lat": 32.0, "lng": 53.0, "severity": "high",
-         "keywords": ["Iran", "Tehran", "Kuwait", "Strait of Hormuz", "IRGC", "Khamenei"]},
+         "keywords": ["伊朗", "Iran", "德黑兰", "Tehran", "科威特", "Kuwait", "波斯湾", "霍木兹",
+                       "革命卫队", "IRGC", "哈梅内伊", "Khamenei", "无人机"]},
         {"id": "afghanistan", "name": "阿富汗局势", "lat": 34.0, "lng": 67.0, "severity": "low",
-         "keywords": ["Afghanistan", "Taliban", "Kabul"]},
+         "keywords": ["阿富汗", "Afghanistan", "塔利班", "Taliban", "喀布尔", "Kabul"]},
         {"id": "haiti", "name": "海地危机", "lat": 19.0, "lng": -72.5, "severity": "low",
-         "keywords": ["Haiti", "Port-au-Prince", "gang"]},
+         "keywords": ["海地", "Haiti", "太子港", "Port-au-Prince", "帮派", "gang"]},
     ]
 
     CONFLICT_KEYWORDS_ALL = [
-        "war", "conflict", "strike", "bomb", "missile", "drone", "invasion",
-        "troops", "military", "attack", "ceasefire", "sanction", "refugee",
-        "casualties", "killed", "wounded", "shelling", "air strike", "navy",
-        "destroy", "combat", "deploy", "militia", "rebel", "offensive",
-        "defense", "army", "naval", "air force", "nuclear", "weapon",
+        "战争", "war", "冲突", "conflict", "袭击", "strike", "攻击", "attack",
+        "轰炸", "bomb", "导弹", "missile", "无人机", "drone", "入侵", "invasion",
+        "军队", "troops", "military", "军事", "停火", "ceasefire", "制裁", "sanction",
+        "难民", "refugee", "伤亡", "casualties", "死亡", "killed", "受伤", "wounded",
+        "炮击", "shelling", "空袭", "air strike", "海军", "navy", "海军",
+        "摧毁", "destroy", "作战", "combat", "部署", "deploy", "民兵", "militia",
+        "叛乱", "rebel", "攻势", "offensive", "国防", "defense", "陆军", "army",
+        "空军", "air force", "核", "nuclear", "武器", "weapon", "打击",
+        "对抗", "对抗", "开火", "射击", "武装", "爆炸", "斩首",
+        "领土", "占领", "地缘", "紧张", "动员", "戒备",
     ]
 
     def build_conflicts_json(
@@ -469,7 +478,7 @@ class Formatter:
                     "category": cd.category,
                 })
 
-        # 匹配每篇文章到冲突区域
+        # 匹配每篇文章到冲突区域（中文+英文关键词）
         article_map = {}  # article_index -> [zone_ids]
         for i, article in enumerate(all_articles):
             haystack = (article["title"] + " " + article["summary"]).lower()
@@ -479,11 +488,27 @@ class Formatter:
                     if kw.lower() in haystack:
                         matched_zones.append(zone["id"])
                         break
+            # 若未匹配到具体区域，但包含通用冲突关键词，归入全球热点
+            if not matched_zones:
+                for kw in self.CONFLICT_KEYWORDS_ALL:
+                    if kw.lower() in haystack:
+                        matched_zones.append("_global")
+                        break
             if matched_zones:
                 article_map[i] = matched_zones
 
         # 为每个zone收集文章
         zones_output = []
+        # 添加全球热点汇总区域
+        global_ids = [i for i, zids in article_map.items() if "_global" in zids]
+        if global_ids:
+            zones_output.append({
+                "id": "_global",
+                "name": "🌐 全球军事动态",
+                "lat": 20.0, "lng": 10.0,
+                "severity": "medium",
+                "article_ids": global_ids[:30],
+            })
         for zone in self.CONFLICT_ZONES:
             article_ids = [i for i, zids in article_map.items() if zone["id"] in zids]
             zones_output.append({
