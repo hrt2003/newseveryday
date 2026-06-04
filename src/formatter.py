@@ -412,6 +412,110 @@ class Formatter:
                 })
         return _json.dumps(articles, ensure_ascii=False)
 
+    # ── 冲突地图数据 ──────────────────────────────────────────
+
+    CONFLICT_ZONES = [
+        {"id": "ukraine", "name": "乌克兰战争", "lat": 48.5, "lng": 31.5, "severity": "high",
+         "keywords": ["Ukraine", "Zelensky", "Kyiv", "Crimea", "Donetsk", "Luhansk"]},
+        {"id": "gaza", "name": "加沙/以色列", "lat": 31.5, "lng": 34.4, "severity": "high",
+         "keywords": ["Gaza", "Israel", "Hamas", "Netanyahu", "Palestin", "West Bank", "Jerusalem"]},
+        {"id": "sudan", "name": "苏丹内战", "lat": 15.5, "lng": 30.0, "severity": "high",
+         "keywords": ["Sudan", "Khartoum", "RSF", "Darfur", "Burhan"]},
+        {"id": "myanmar", "name": "缅甸冲突", "lat": 22.0, "lng": 96.0, "severity": "high",
+         "keywords": ["Myanmar", "Burma", "Aung San Suu Kyi", "Rakhine", "junta"]},
+        {"id": "yemen", "name": "也门危机", "lat": 15.5, "lng": 44.0, "severity": "medium",
+         "keywords": ["Yemen", "Houthi", "Sanaa", "Aden", "Red Sea"]},
+        {"id": "syria", "name": "叙利亚局势", "lat": 34.0, "lng": 39.0, "severity": "medium",
+         "keywords": ["Syria", "Assad", "Damascus", "Idlib", "Kurds", "SDF"]},
+        {"id": "drc", "name": "刚果(金)冲突", "lat": -2.0, "lng": 23.0, "severity": "medium",
+         "keywords": ["Congo", "DRC", "Kinshasa", "Goma", "M23", "Rwanda"]},
+        {"id": "sahel", "name": "萨赫勒地带", "lat": 16.0, "lng": 0.0, "severity": "medium",
+         "keywords": ["Sahel", "Mali", "Burkina Faso", "Niger", "jihadist", "coup"]},
+        {"id": "southchinasea", "name": "南海/台海", "lat": 20.0, "lng": 118.0, "severity": "medium",
+         "keywords": ["South China Sea", "Taiwan", "Beijing", "PLA", "Spratly", "Paracel", "Taipei"]},
+        {"id": "korea", "name": "朝鲜半岛", "lat": 38.5, "lng": 127.0, "severity": "medium",
+         "keywords": ["North Korea", "Kim Jong", "Pyongyang", "Seoul", "missile"]},
+        {"id": "iran", "name": "伊朗/波斯湾", "lat": 32.0, "lng": 53.0, "severity": "high",
+         "keywords": ["Iran", "Tehran", "Kuwait", "Strait of Hormuz", "IRGC", "Khamenei"]},
+        {"id": "afghanistan", "name": "阿富汗局势", "lat": 34.0, "lng": 67.0, "severity": "low",
+         "keywords": ["Afghanistan", "Taliban", "Kabul"]},
+        {"id": "haiti", "name": "海地危机", "lat": 19.0, "lng": -72.5, "severity": "low",
+         "keywords": ["Haiti", "Port-au-Prince", "gang"]},
+    ]
+
+    CONFLICT_KEYWORDS_ALL = [
+        "war", "conflict", "strike", "bomb", "missile", "drone", "invasion",
+        "troops", "military", "attack", "ceasefire", "sanction", "refugee",
+        "casualties", "killed", "wounded", "shelling", "air strike", "navy",
+        "destroy", "combat", "deploy", "militia", "rebel", "offensive",
+        "defense", "army", "naval", "air force", "nuclear", "weapon",
+    ]
+
+    def build_conflicts_json(
+        self, category_digests: list[CategoryDigest]
+    ) -> str:
+        """生成冲突地图数据 JSON（含冲突区域 + 匹配的文章）。"""
+        import json as _json
+
+        # 收集所有文章
+        all_articles = []
+        for cd in category_digests:
+            for a in cd.articles:
+                all_articles.append({
+                    "title": a.translated_title,
+                    "summary": a.translated_summary,
+                    "link": a.link,
+                    "source": a.source_name,
+                    "category": cd.category,
+                })
+
+        # 匹配每篇文章到冲突区域
+        article_map = {}  # article_index -> [zone_ids]
+        for i, article in enumerate(all_articles):
+            haystack = (article["title"] + " " + article["summary"]).lower()
+            matched_zones = []
+            for zone in self.CONFLICT_ZONES:
+                for kw in zone["keywords"]:
+                    if kw.lower() in haystack:
+                        matched_zones.append(zone["id"])
+                        break
+            if matched_zones:
+                article_map[i] = matched_zones
+
+        # 为每个zone收集文章
+        zones_output = []
+        for zone in self.CONFLICT_ZONES:
+            article_ids = [i for i, zids in article_map.items() if zone["id"] in zids]
+            zones_output.append({
+                "id": zone["id"],
+                "name": zone["name"],
+                "lat": zone["lat"],
+                "lng": zone["lng"],
+                "severity": zone["severity"],
+                "article_ids": article_ids[:20],  # 每个区域最多20篇
+            })
+
+        return _json.dumps({
+            "gen_time": datetime.now(BEIJING_TZ).strftime("%Y-%m-%d %H:%M"),
+            "total_conflict_articles": len(article_map),
+            "zones": zones_output,
+            "articles": all_articles,
+        }, ensure_ascii=False)
+
+    def write_conflicts_page(
+        self, conflicts_json: str
+    ) -> Path | None:
+        """写入冲突地图 HTML 页面。"""
+        template_path = TEMPLATE_DIR / "conflicts.html"
+        if not template_path.exists():
+            return None
+
+        template = template_path.read_text(encoding="utf-8")
+        html = template.format(conflicts_json=conflicts_json)
+        path = self.output_dir / "conflicts.html"
+        path.write_text(html, encoding="utf-8")
+        return path
+
     def build_archive_page(self) -> Path | None:
         """扫描 docs/ 中所有历史文件，生成归档索引页 archive.html。"""
         import json as _json

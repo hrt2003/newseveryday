@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>全球冲突态势 — 全球新闻日报</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;700;900&family=Noto+Sans+SC:wght@300;400;500;700&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+* {{ margin:0; padding:0; box-sizing:border-box; }}
+body {{ font-family:'Noto Sans SC',-apple-system,'PingFang SC',sans-serif; background:#171717; color:#e8e4e0; height:100vh; overflow:hidden; }}
+
+/* Layout */
+.app {{ display:flex; height:100vh; }}
+.sidebar {{ width:420px; min-width:420px; background:#1c1b1a; display:flex; flex-direction:column; border-right:1px solid #333; }}
+.sidebar-header {{ padding:20px 24px 16px; border-bottom:1px solid #2a2824; }}
+.sidebar-header h1 {{ font-family:'Noto Serif SC',serif; font-size:1.25rem; font-weight:900; letter-spacing:0.04em; }}
+.sidebar-header .sub {{ font-size:0.75rem; color:#787570; margin-top:4px; }}
+.sidebar-header .back {{ margin-top:10px; }}
+.sidebar-header .back a {{ font-size:0.7rem; color:#787570; text-decoration:none; font-family:'DM Mono',monospace; }}
+.sidebar-header .back a:hover {{ color:#a8a5a0; }}
+.zone-list {{ flex:1; overflow-y:auto; padding:8px 0; }}
+.zone-list::-webkit-scrollbar {{ width:4px; }}
+.zone-list::-webkit-scrollbar-thumb {{ background:#333; border-radius:4px; }}
+
+.zone-item {{ padding:14px 24px; cursor:pointer; transition:background 0.2s; border-left:3px solid transparent; }}
+.zone-item:hover {{ background:#24221f; }}
+.zone-item.active {{ background:#24221f; border-left-color:var(--zone-color, #c2410c); }}
+.zone-item .zone-name {{ font-family:'Noto Serif SC',serif; font-size:0.95rem; font-weight:700; }}
+.zone-item .zone-stats {{ font-size:0.7rem; color:#787570; margin-top:3px; font-family:'DM Mono',monospace; }}
+
+.news-panel {{ border-top:1px solid #2a2824; max-height:45%; overflow-y:auto; display:none; }}
+.news-panel.open {{ display:block; }}
+.news-panel-header {{ padding:14px 24px; background:#1f1d1a; font-family:'DM Mono',monospace; font-size:0.62rem; letter-spacing:0.2em; color:#787570; position:sticky; top:0; z-index:1; }}
+.news-item {{ padding:14px 24px; border-bottom:1px solid #2a2824; }}
+.news-item h3 {{ font-size:0.88rem; font-weight:600; line-height:1.5; margin-bottom:4px; }}
+.news-item p {{ font-size:0.78rem; color:#a8a5a0; line-height:1.6; margin-bottom:6px; }}
+.news-item a {{ font-size:0.7rem; color:#7c3aed; text-decoration:none; }}
+.news-item a:hover {{ text-decoration:underline; }}
+.news-item .source {{ font-size:0.65rem; color:#787570; }}
+
+/* Map */
+.map-container {{ flex:1; position:relative; }}
+#map {{ width:100%; height:100%; background:#2a2824; }}
+.leaflet-container {{ background:#2a2824; }}
+.leaflet-popup-content-wrapper {{ background:#1c1b1a; color:#e8e4e0; border-radius:12px; border:1px solid #333; }}
+.leaflet-popup-content {{ font-family:'Noto Sans SC',sans-serif; font-size:0.85rem; margin:10px 14px; }}
+.leaflet-popup-content strong {{ font-family:'Noto Serif SC',serif; }}
+.leaflet-popup-tip {{ background:#1c1b1a; }}
+
+/* Custom markers */
+.conflict-marker {{ width:20px; height:20px; border-radius:50%; border:3px solid #fff; box-shadow:0 0 12px rgba(194,65,12,0.6); }}
+.conflict-marker.high {{ background:#dc2626; }}
+.conflict-marker.medium {{ background:#f59e0b; }}
+.conflict-marker.low {{ background:#fbbf24; }}
+
+/* Legend */
+.map-legend {{ position:absolute; bottom:30px; right:20px; background:rgba(28,27,26,0.92); border:1px solid #333; border-radius:12px; padding:14px 18px; font-size:0.7rem; z-index:1000; }}
+.map-legend h3 {{ font-family:'DM Mono',monospace; font-size:0.6rem; letter-spacing:0.2em; color:#787570; margin-bottom:8px; }}
+.map-legend div {{ display:flex; align-items:center; gap:8px; margin:4px 0; }}
+
+@media (max-width:768px) {{
+    .app {{ flex-direction:column; }}
+    .sidebar {{ width:100%; min-width:0; max-height:45%; }}
+    .map-container {{ flex:1; }}
+}}
+</style>
+</head>
+<body>
+<div class="app">
+    <aside class="sidebar">
+        <div class="sidebar-header">
+            <h1>🌍 全球冲突态势</h1>
+            <div class="sub">热点冲突区域 · 实时新闻追踪</div>
+            <div class="back"><a href="index.html">← 返回日报</a></div>
+        </div>
+        <div class="zone-list" id="zone-list">
+            <div style="padding:24px;color:#787570;text-align:center;">加载中...</div>
+        </div>
+        <div class="news-panel" id="news-panel">
+            <div class="news-panel-header" id="news-panel-header">相关新闻</div>
+            <div id="news-list"></div>
+        </div>
+    </aside>
+    <div class="map-container">
+        <div id="map"></div>
+        <div class="map-legend">
+            <h3>冲突等级</h3>
+            <div><span style="width:12px;height:12px;border-radius:50%;background:#dc2626;"></span> 高度活跃</div>
+            <div><span style="width:12px;height:12px;border-radius:50%;background:#f59e0b;"></span> 持续中</div>
+            <div><span style="width:12px;height:12px;border-radius:50%;background:#fbbf24;"></span> 潜在风险</div>
+        </div>
+    </div>
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script id="conflicts-data" type="application/json">{conflicts_json}</script>
+<script>
+(function(){{
+'use strict';
+
+var dataScript = document.getElementById('conflicts-data');
+if (!dataScript) return;
+var data = JSON.parse(dataScript.textContent);
+var zones = data.zones || [];
+var articles = data.articles || [];
+var genTime = data.gen_time || '';
+
+// Init map
+var map = L.map('map', {{ zoomControl:true, attributionControl:true }}).setView([25, 15], 2);
+L.tileLayer('https://{{s}}.basemaps.cartocdn.com/dark_all/{{z}}/{{x}}/{{y}}{{r}}.png', {{
+    attribution:'&copy; <a href="https://carto.com/">CARTO</a>',
+    subdomains:'abcd', maxZoom:18
+}}).addTo(map);
+
+// Build zone list + markers
+var zoneList = document.getElementById('zone-list');
+var newsPanel = document.getElementById('news-panel');
+var newsPanelHeader = document.getElementById('news-panel-header');
+var newsList = document.getElementById('news-list');
+var activeZoneId = null;
+
+zoneList.innerHTML = '';
+zones.forEach(function(zone, i) {{
+    var severityClass = zone.severity === 'high' ? 'high' : zone.severity === 'medium' ? 'medium' : 'low';
+    var severityLabel = zone.severity === 'high' ? '高度活跃' : zone.severity === 'medium' ? '持续中' : '潜在风险';
+    var articleCount = (zone.article_ids || []).length;
+
+    // Sidebar item
+    var item = document.createElement('div');
+    item.className = 'zone-item';
+    item.style.setProperty('--zone-color', severityClass === 'high' ? '#dc2626' : severityClass === 'medium' ? '#f59e0b' : '#fbbf24');
+    item.innerHTML = '<div class="zone-name">' + zone.name + '</div>' +
+        '<div class="zone-stats">' + severityLabel + ' · ' + articleCount + ' 篇相关新闻</div>';
+    item.addEventListener('click', function() {{ selectZone(i); }});
+    zoneList.appendChild(item);
+
+    // Map marker
+    var markerHtml = '<div class="conflict-marker ' + severityClass + '"></div>';
+    var icon = L.divIcon({{ html:markerHtml, className:'', iconSize:[20,20], iconAnchor:[10,10] }});
+    var marker = L.marker([zone.lat, zone.lng], {{ icon:icon }}).addTo(map);
+    marker.bindPopup('<strong>' + zone.name + '</strong><br>' + severityLabel + ' · ' + articleCount + ' 篇新闻');
+    marker.on('click', function() {{ selectZone(i); map.setView([zone.lat, zone.lng], 5); }});
+    zone._marker = marker;
+}});
+
+function selectZone(idx) {{
+    var zone = zones[idx];
+    if (!zone) return;
+    activeZoneId = idx;
+
+    // Update sidebar
+    document.querySelectorAll('.zone-item').forEach(function(el, i) {{ el.classList.toggle('active', i === idx); }});
+
+    // Show related news
+    var ids = zone.article_ids || [];
+    var related = ids.map(function(id) {{ return articles[id]; }}).filter(Boolean);
+    newsPanelHeader.textContent = zone.name + ' · 相关新闻 (' + related.length + ' 篇)';
+    newsList.innerHTML = related.length === 0
+        ? '<div style="padding:24px;color:#787570;text-align:center;">暂无相关新闻</div>'
+        : related.map(function(a) {{
+            return '<div class="news-item"><h3>' + escapeHtml(a.title) + '</h3><p>' + escapeHtml(a.summary) + '</p>' +
+                '<a href="' + escapeHtml(a.link) + '" target="_blank" rel="noopener">阅读原文</a> ' +
+                '<span class="source">— ' + escapeHtml(a.source) + '</span></div>';
+        }}).join('');
+    newsPanel.classList.add('open');
+}}
+
+function escapeHtml(s) {{
+    return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}}
+
+// Fit world view
+setTimeout(function() {{ map.invalidateSize(); }}, 200);
+}})();
+</script>
+</body>
+</html>

@@ -164,6 +164,12 @@ class Pipeline:
             if archive_path:
                 logger.info(f"  归档页面已更新: {archive_path}")
 
+            # 生成冲突地图
+            conflicts_json = self.formatter.build_conflicts_json(category_digests)
+            conflicts_path = self.formatter.write_conflicts_page(conflicts_json)
+            if conflicts_path:
+                logger.info(f"  冲突地图已生成: {conflicts_path}")
+
         # 7. 发送邮件（可选）
         step_n = 7 if output_html else 6
         if send_email and self.emailer:
