@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年06月12日** | 生成时间: 2026-06-12 18:20
+**2026年06月12日** | 生成时间: 2026-06-12 23:24
 
 ---
 
@@ -16,17 +16,17 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Tehran says 'nothing' finalised after Trump claims deal to end Iran war near
+### 1. More time needed for deadly Air India crash inquiry, officials say
+
+[原文] A statement says "significant progress" has been made into investigating the crash, in which 260 people died a year ago.
+
+📎 [阅读原文](https://www.bbc.com/news/articles/cnv93899vzqo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Tehran says 'nothing' finalised after Trump claims deal to end Iran war near
 
 [原文] Iran says reports of a deal are "speculative" after the US president says a "great settlement" to end the conflict has been reached.
 
 📎 [阅读原文](https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 2. Flip flop or deliberate? - Unpacking Trump’s strategy on Iran
-
-[原文] The BBC's Gary O'Donoghue looks at the US president's mixed messaging over the war and the questions it raises.
-
-📎 [阅读原文](https://www.bbc.com/news/videos/cz9lg5ywzvpo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 3. Thai Princess Bajrakitiyabha dies after more than three years in coma
 
@@ -34,17 +34,17 @@
 
 📎 [阅读原文](https://www.bbc.com/news/articles/cvgzzndx780o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Why the economics make this the craziest World Cup ever
+### 4. South Africa trolled by African fans in wake of World Cup loss
+
+[原文] The taunting reflects anger from parts of the continent over reports of xenophobia in South Africa.
+
+📎 [阅读原文](https://www.bbc.com/news/articles/cm2jewrxvmjo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Why the economics make this the craziest World Cup ever
 
 [原文] From trade wars to soaring ticket prices, the 2026 World Cup is unlike any before it. Faisal Islam explores what this tournament reveals about our changing global economy.
 
 📎 [阅读原文](https://www.bbc.com/news/articles/cpv32417nlwo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. 'They destroyed the future': Palestinian anger at rise in Israeli demolitions in East Jerusalem
-
-[原文] Palestinian homes are being pulled down in occupied East Jerusalem to make way for a park.
-
-📎 [阅读原文](https://www.bbc.com/news/articles/cewpwjr9rj4o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,29 +54,29 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Proposed Iran-U.S. deal would reopen Hormuz strait and lift oil sanctions, Iran state media says
-
-[原文] U.S. President Donald Trump said Thursday that the Strait of Hormuz would be reopened as soon as a deal is signed.
-
-📎 [阅读原文](https://www.cnbc.com/2026/06/12/iran-us-peace-memo-strait-hormuz-oil-sanctions.html) — *CNBC*
-
-### 2. SpaceX’s Gwynne Shotwell had IPO doubts for years, now she has a message for investors
+### 1. SpaceX’s Gwynne Shotwell had IPO doubts for years, now she has a message for investors
 
 [原文] Gwynne Shotwell, long Elon Musk's second-in-command at SpaceX, spoke exclusively with CNBC ahead of her company's highly anticipated IPO.
 
 📎 [阅读原文](https://www.cnbc.com/2026/06/12/spacex-coo-gwynne-shotwell-spcx-ipo.html) — *CNBC*
 
-### 3. For Warsh as Fed chair, silence may be the point
+### 2. Trump denies Iran's account of deal terms, decries new drone attack: 'Dishonorable people'
 
-[原文] Kevin Warsh will hold his first Fed meeting, giving markets the first public look at how he'll communicate as chair of the Federal Reserve.
+[原文] "They better get their act together, and FAST!" President Donald Trump said of Iran one day after announcing that a deal would be finalized within days.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/12/warsh-fed-chair-interest-rates.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/12/iran-us-peace-memo-strait-hormuz-oil-sanctions.html) — *CNBC*
 
-### 4. Pirro's losses in Fed investigation should stay on the books, judge rules
+### 3. Judge blocks DOJ 'anti-weaponization' fund for longer, wants guarantee it’s dead
 
-[原文] In a scathing ruling, Judge James Boasberg denied U.S. Attorney for the District of Columbia Jeanine Pirro's request to vacate his earlier orders.
+[原文] A judge gave Acting Attorney General Todd Blanche and Treasury Secretary Scott Bessent a week to submit a sworn declaration the DOJ fund was not going forward.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/11/pirro-fed-jerome-powell.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/12/trump-doj-fund-preliminary-injunction-blanche-bessent.html) — *CNBC*
+
+### 4. Small investors scrambled to get in on the SpaceX IPO, even as some believe the valuation is 'stupid'
+
+[原文] While SpaceX's IPO has caused alarm that it may be overvalued, some retail investors still want in.
+
+📎 [阅读原文](https://www.cnbc.com/2026/06/12/small-investors-scrambled-to-get-in-on-the-spacex-ipo-even-as-some-believe-the-valuation-is-stupid.html) — *CNBC*
 
 ### 5. Meta reportedly begins dismantling $2 billion Manus deal on Beijing's orders
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale
+### 1. SpaceX IPO: Everything you need to know
+
+[原文] TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and mayb
+
+📎 [阅读原文](https://techcrunch.com/2026/06/12/spacex-ipo-everything-you-need-to-know/) — *TechCrunch*
+
+### 2. US surveillance law to expire for first time after lawmakers reject Trump’s controversial pick to lead spy agencies
+
+[原文] The spy law known as Section 702, which authorizes the NSA and FBI's warrantless surveillance, will all but certainly expire on Friday for the first time.
+
+📎 [阅读原文](https://techcrunch.com/2026/06/12/us-spy-law-to-expire-for-first-time-after-lawmakers-reject-trumps-controversial-pick-to-lead-spy-agencies/) — *TechCrunch*
+
+### 3. Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale
 
 [原文] Avataar AI's distilled video model is priced at $0.005 for every second of generation
 
 📎 [阅读原文](https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/) — *TechCrunch*
 
-### 2. Equal AI raises $30M to screen calls so Indians don’t have to
+### 4. Equal AI raises $30M to screen calls so Indians don’t have to
 
 [原文] Equal AI said that its AI-powered call assistant now has over a million monthly active users.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/11/equal-ai-raises-30m-to-screen-calls-so-indians-dont-have-to/) — *TechCrunch*
 
-### 3. Theker just raised $85M to build the factory robot that doesn’t specialize in anything
+### 5. Theker just raised $85M to build the factory robot that doesn’t specialize in anything
 
 [原文] Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/) — *TechCrunch*
-
-### 4. Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world
-
-[原文] The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.
-
-📎 [阅读原文](https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/) — *TechCrunch*
-
-### 5. SpaceX officially prices shares at $135 in the largest IPO ever
-
-[原文] Wits its official share pricing announcement, SpaceX's IPO has begun.
-
-📎 [阅读原文](https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/) — *TechCrunch*
 
 ---
 
@@ -130,35 +130,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Scientists discover a strange property in rice and turn it into a smart material
+### 1. These tiny holes could change how the world cleans water
 
-[原文] Scientists discovered that rice behaves in a highly unusual way: it weakens under rapid compression but stays stronger when pressure is applied slowly. Using this effect, they engineered a new materia
+[原文] A new nature-inspired membrane uses perfectly uniform one-nanometer pores to filter molecules with remarkable precision. The technology could transform industries such as pharmaceuticals and textiles 
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260611024621.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260612032049.htm) — *Science Daily*
 
-### 2. The deadly tapeworm spreading across America has reached the Pacific Northwest
+### 2. Alaska’s glaciers have a startling response to rising temperatures
 
-[原文] A potentially dangerous tapeworm linked to severe, cancer-like disease has now been found in the Pacific Northwest, marking its first detection in wild animals along the U.S. West Coast. Researchers d
+[原文] Alaska’s glaciers are proving to be highly sensitive to warming temperatures. Using radar satellites to monitor more than 3,000 glaciers, researchers found that every 1°C (1.8°F) increase in average s
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260611024610.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260612032047.htm) — *Science Daily*
 
-### 3. Scientists found the strength training sweet spot for a longer life
+### 3. Scientists discover a surprising cancer link to Alzheimer’s disease
 
-[原文] Just 90–120 minutes of strength training a week may deliver some of the biggest long-term health rewards, according to a study tracking more than 147,000 people for 30 years. That amount was linked to
+[原文] Researchers discovered that mutations linked to blood cancers may help trigger Alzheimer’s disease by creating overly inflammatory immune cells in the brain. The unexpected finding could lead to new b
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260611024609.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260612032044.htm) — *Science Daily*
 
-### 4. NASA reveals Artemis III crew for one of the most complex space missions ever
+### 4. The missing notebooks that solved a 55-million-year-old fossil mystery
 
-[原文] NASA has selected the Artemis III crew for a high-stakes 2027 mission designed to test the future of lunar exploration. Astronauts will launch aboard Orion and perform unprecedented docking operations
+[原文] A spectacular fossil fish discovered on a remote cliff in New Zealand nearly 30 years ago has finally revealed its full story thanks to an unexpected discovery: the original collector’s long-lost fiel
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260611024606.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260612032038.htm) — *Science Daily*
 
-### 5. Scientists built a battery-free device that turns sunlight into fuel
+### 5. Can fasting fight gum disease? Scientists find surprising link
 
-[原文] Scientists have developed an artificial photosynthesis system that essentially regulates itself, eliminating the need for batteries used in many current designs. The key innovation is an electrolyzer 
+[原文] A low-calorie fasting-style diet significantly reduced inflammation linked to gum disease in a small clinical study. The findings suggest that what people eat may influence gum health almost as much a
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260611024601.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260612032032.htm) — *Science Daily*
 
 ---
 
@@ -168,29 +168,29 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Hurricanes one win from lifting Cup: Grades, big q...
+### 1. What happens first: the Finals end or a Giannis tr...
+
+[原文] Tim Bontemps and Brian Windhorst canvass the league on Game 4 aftermath, Giannis saga updates and more NBA intel.
+
+📎 [阅读原文](https://www.espn.com/nba/story/_/id/49032937/nba-finals-2026-knicks-spurs-game-5-intel-giannis-bucks-heat-coaches-flopping) — *ESPN*
+
+### 2. Can the Knicks close out the Spurs? We answered ei...
 
 [原文] null
 
-📎 [阅读原文](https://www.espn.com/nhl/story/_/id/49030230/2026-nhl-playoffs-stanley-cup-final-game-5-grades-questions-hurricanes-golden-knights) — *ESPN*
+📎 [阅读原文](https://www.espn.com/nba/story/_/id/49029549/2026-nba-finals-game-5-preview-predictions-new-york-knicks-san-antonio-spurs-wembanyama-brunson-mvp) — *ESPN*
 
-### 2. Near elimination, Vegas' Tortorella vows Game 7
+### 3. Broncos' Cooper arrested for alleged harassment
 
-[原文] Golden Knights coach John Tortorella vowed that the Stanley Cup Final would return to Raleigh for Game 7 after Carolina pushed his team to the brink of elimination.
+[原文] Broncos linebacker Jonathon Cooper was arrested Thursday after he allegedly violated a protection order against him, according to jail records.
 
-📎 [阅读原文](https://www.espn.com/nhl/story/_/id/49037807/pushed-brink-hc-john-tortorella-says-vegas-not-done-yet) — *ESPN*
+📎 [阅读原文](https://www.espn.com/nfl/story/_/id/49040520/jonathon-cooper-arrested-again-allegedly-violated-protection-order) — *ESPN*
 
-### 3. Seahawks' SB LX rings salute fans, city, history
+### 4. Sources: No NFL discipline for Chiefs coach Merrit...
 
-[原文] At a private ceremony Thursday night, the Seahawks received their Super Bowl LX rings, which feature diamonds, sapphires, team mantras and a tribute to the team's fans, among other elements.
+[原文] The NFL has concluded its investigation of Kansas City Chiefs defensive backs coach Dave Merritt and found insufficient evidence of a violation of the personal conduct policy, sources told NFL Network
 
-📎 [阅读原文](https://www.espn.com/nfl/story/_/id/49038108/seahawks-super-bowl-lx-title-rings-salute-fans-city-history) — *ESPN*
-
-### 4. Dodgers' Ohtani exits early with knee inflammation...
-
-[原文] Dodgers star Shohei Ohtani exited in the seventh inning of Thursday's win at Pittsburgh with knee inflammation, but manager Dave Roberts said the move was precautionary.
-
-📎 [阅读原文](https://www.espn.com/mlb/story/_/id/49035982/dodgers-ohtani-exits-early-left-knee-inflammation) — *ESPN*
+📎 [阅读原文](https://www.espn.com/nfl/story/_/id/49039791/sources-no-league-discipline-chiefs-dbs-coach-merritt) — *ESPN*
 
 ### 5. Texas Tech defends integrity amid Sorsby backlash
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. David Hockney, Iconic British Artist, Dies at 88
+### 1. Alec Baldwin and Dana Carvey Trade Tips on Impersonating Biden, Bush and Playing a ‘Mean and Nasty’ Donald Trump
 
-[原文] David Hockney, widely regarded to be one of the most influential contemporary British artists of the 20th and 21st centuries, has died. He was 88. The news was announced by Hockney&#8217;s publicist t
+[原文] Dana Carvey is no stranger to meeting the men he has lampooned on &#8220;SNL&#8221; and in his stand-up act, but so far, he&#8217;s just missed running into Joe Biden. It turns out the 46th president 
 
-📎 [阅读原文](https://variety.com/2026/global/news/david-hockney-dead-british-artist-1236779542/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/alec-baldwin-dana-carvey-biden-bush-trump-1236779558/) — *Variety*
 
-### 2. Tony Leung Leads Shanghai Golden Goblet Jury With Open Mind, Vows to Persuade Fellow Jurors
+### 2. Emilia Clarke’s ‘Ponies,’ ‘The Other Bennet Sister’ Among Competitors for Monte-Carlo Television Festival’s Golden Nymph
 
-[原文] Tony Leung Chiu-wai opened the international jury press conference for the 28th Shanghai International Film Festival&#8217;s main competition promising to approach the Golden Goblet selection with an 
+[原文] Spy thriller “Ponies,” starring Emilia Clarke and Haley Lu Richardson, and “The Other Bennet Sister,” starring Ella Bruccoleri and Richard E. Grant, are among the drama series and TV movies competing 
 
-📎 [阅读原文](https://variety.com/2026/film/festivals/tony-leung-shanghai-golden-goblet-jury-2026-1236779543/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/global/ponies-the-other-bennet-sister-monte-carlo-1236779781/) — *Variety*
 
-### 3. Charades, Diaphana Board ‘The Little Run,’ Julien Bisaro and Claire Paoletti’s Follow-Up to ‘Shooom’s Odyssey’ (EXCLUSIVE)
+### 3. For the Win: Why Versant Media Is Banking on the Heat Behind Women’s Sports
 
-[原文] “The Little Run” (“La Petite Cavale”), Julien Bisaro and Claire Paoletti’s follow-up to “Shooom’s Odyssey” and one of France’s most-awaited of upcoming animated features, has been boarded by Charades 
+[原文] Sports anchor Elle Duncan was working for ESPN a few years ago when she heard then-college basketball star Aliyah Boston say that ESPN’s investment in women’s sports over 30-plus years has been transf
 
-📎 [阅读原文](https://variety.com/2026/film/global/charades-diaphana-little-run-julien-bisaro-claire-paoletti-1236779497/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/wnba-versant-media-sports-elle-duncan-lovb-volleyball-1236768481/) — *Variety*
 
-### 4. ‘Wednesday’ Shooting Location Romania Looks to Rebuild Trust, Confidence With Revamped 30% Cash Rebate
+### 4. David Beckham on Pushing for a Spice Girls Reunion, World Cup Mania and Family Coming First: ‘I Feel Very Lucky’
 
-[原文] After pressing pause on its cash rebate program due to outstanding debts and suffering through a prolonged production drought, Romania is finally coming in from the cold, with a revamped incentive sch
+[原文] During one of David Beckham’s first trips to America in the 1990s, he took a stroll down Hollywood Boulevard and marveled at all the stars lining the sidewalks. For a working-class bloke from the East
 
-📎 [阅读原文](https://variety.com/2026/film/global/wednesday-romania-cash-rebate-1236770046/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/sports/features/david-beckham-spice-girls-reunion-world-cup-gay-icon-hollywood-walk-of-fame-1236779430/) — *Variety*
 
-### 5. Tudor Giurgiu on Charting a New Direction in Rollicking Transilvania Film Festival Opener ‘3 Days in September’
+### 5. Rebel Audio Launches Public Beta of AI Podcast Production Platform (EXCLUSIVE)
 
-[原文] A picture-perfect wedding goes horribly awry when the groom’s mistress crashes the festivities, sending the bride-to-be into a tailspin — and toward her ultimate redemption — in “3 Days in September,”
+[原文] Rebel Audio, the AI-powered podcasting startup that counts former “Apprentice”&#160;producer Mark Burnett as one of its advisers, has entered its public era. In beta mode, that is. Rebel Audio said Fr
 
-📎 [阅读原文](https://variety.com/2026/film/global/tudor-giurgiu-3-days-in-september-1236771221/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/digital/news/ai-podcast-startup-rebel-audio-public-beta-launch-1236779471/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Cape Fear Episode 3 Review – “Phantom Sensations”
+### 1. With Live-Service Crumbling, the Only Forever Game on Show This Summer Is Halo: Combat Evolved
 
-[原文] Our review of Cape Fear Episode 3 breaks down the slow-burn pacing, the mounting tension between the Bowdens, and that jaw-dropping legacy cameo at the end.
+[原文] As giant live-service games like Fortnite struggle and development doubles down on legacy franchises, the only "forever game" on show during the summer showcases was Halo.
 
-📎 [阅读原文](https://www.ign.com/articles/apple-tv-cape-fear-episode-3-review) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/with-live-service-crumbling-the-only-forever-game-on-show-this-summer-is-halo-combat-evolved) — *IGN*
 
-### 2. Forza Support Team Recommends Xbox Players Disable Quick Resume for Forza Horizon 6
+### 2. New Woot Customers Can Score a Nintendo Switch 2 Console for $434
 
-[原文] Lost save file issues in Forza Horizon 6 are currently being investigated but, for now, the Forza support team has a list of tips to hopefully avoid being struck with a lost save file.
+[原文] Woot's offering a deal on a new Nintendo Switch 2 console for $434 if you’re a new customer to the online retailer and use a special code at checkout. This offer only lasts until June 19, though.
 
-📎 [阅读原文](https://www.ign.com/articles/forza-support-team-recommends-xbox-players-disable-quick-resume-for-forza-horizon-6) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/new-woot-customers-can-score-a-nintendo-switch-2-console-for-434) — *IGN*
 
-### 3. Valor Mortis Gets Short Delay to Avoid September's Onslaught of Game Releases
+### 3. Bad Magpie Is a Creative and Chaotic Puzzle Adventure | IGN Preview
 
-[原文] Valor Mortis has conceded defeat when it comes to the September gaming arms race and announced a short delay.
+[原文] In about 16 minutes of hands-on time with Bad Magpie, I torched flowers, added even more chaos to the mess humans left behind with a sonic bird call, and thoroughly disgruntled some innocent mice. Bad
 
-📎 [阅读原文](https://www.ign.com/articles/valor-mortis-gets-short-delay-to-avoid-septembers-onslaught-of-game-releases) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/bad-magpie-is-a-creative-and-chaotic-puzzle-adventure-ign-preview) — *IGN*
 
-### 4. Yellowstone, Tulsa King Video Games Are "Priorities" for Paramount Games
+### 4. What Is Disclosure Day Actually About?
 
-[原文] Paramount Games is extremely interested in making video games based on Taylor Sheridan's various TV shows, including Yellowstone and The Tulsa King.
+[原文] What Is Disclosure Day actually about? We take a deep dive into the secrets of Steven Spielberg's latest sci-fi opus.
 
-📎 [阅读原文](https://www.ign.com/articles/yellowstone-tulsa-king-video-games-are-priorities-for-paramount-games) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/what-is-disclosure-day-actually-about) — *IGN*
 
-### 5. Jason Momoa Won't Make a Lobo Movie Unless It's R-Rated
+### 5. Xbox Studio Shutdowns and Ad-Funded Subscriptions Likely After Asha Sharma's Stark 'Reset' Warning, Analysts Say
 
-[原文] Jason Momoa has one condition for a Lobo solo movie: It must be rated R.
+[原文] Xbox will likely undergo studio shutdowns and consider ad-supported subscription models following newly-installed CEO Asha Sharma's blunt warning that a corporate "reset" was now necessary, gaming ana
 
-📎 [阅读原文](https://www.ign.com/articles/jason-momoa-wont-make-a-lobo-movie-unless-its-r-rated) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/xbox-studio-shutdowns-and-ad-funded-subscriptions-likely-after-asha-sharmas-stark-reset-warning-analysts-say) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Ford CEO Jim Farley’s Right To Repair Comment Should Make Every Car Owner Uncomfortable
+### 1. Rivian’s CEO Says There’s a Big Market for a Small Electric Truck
 
-[原文] Farley says modern cars are too complex for DIYers. The bigger danger is what happens to independent mechanics if automakers win this fight.
-The post Ford CEO Jim Farley’s Right To Repair Comment Shou
+[原文] Rivian CEO RJ Scaringe told The Drive there's a big opportunity for a smaller electric truck — but don't hold out for an R2T anytime soon.
+The post Rivian&#8217;s CEO Says There&#8217;s a Big Market f
 
-📎 [阅读原文](https://www.thedrive.com/news/ford-ceo-jim-farleys-right-to-repair-comment-should-make-every-car-owner-uncomfortable) — *The Drive*
+📎 [阅读原文](https://www.thedrive.com/news/rivians-ceo-says-theres-a-big-market-for-a-small-electric-truck) — *The Drive*
 
-### 2. A Rivian Fender Bender Cost $42,000. Its CEO Says That Should Never Happen
+### 2. Ford Says 405-HP Ranger Raptor ‘Might Already Have Too Much Power’: TDS
 
-[原文] Rivian CEO RJ Scaringe exclusively told The Drive that no collision repair should cost tens of thousands of dollars — and explained why it's happened.
-The post A Rivian Fender Bender Cost $42,000. Its
+[原文] Don't hold your breath for a Ford Bronco Raptor R or Ranger Raptor R, either.
+The post Ford Says 405-HP Ranger Raptor &#8216;Might Already Have Too Much Power&#8217;: TDS appeared first on The Drive.
 
-📎 [阅读原文](https://www.thedrive.com/news/a-rivian-fender-bender-cost-42000-its-ceo-says-that-should-never-happen) — *The Drive*
+📎 [阅读原文](https://www.thedrive.com/news/ford-says-405-hp-ranger-raptor-might-already-have-too-much-power-tds) — *The Drive*
 
-### 3. The Open-World Monaco in ‘Clutch’ Looks Breathtaking
+### 3. Rivian’s CEO Says RAD Vehicles Will Be Fundamentally Different
 
-[原文] Our first look at gameplay in 'Clutch,' the new game from ex-Forza Horizon devs, gives us plenty to look forward to.
-The post The Open-World Monaco in &#8216;Clutch&#8217; Looks Breathtaking appeared 
+[原文] Rivian CEO RJ Scaringe told The Drive that RAD vehicles will feature real hardware changes under the metal skin.
+The post Rivian&#8217;s CEO Says RAD Vehicles Will Be Fundamentally Different appeared 
 
-📎 [阅读原文](https://www.thedrive.com/news/the-open-world-monaco-in-clutch-looks-breathtaking) — *The Drive*
+📎 [阅读原文](https://www.thedrive.com/news/rivians-ceo-says-rad-vehicles-will-be-fundamentally-different) — *The Drive*
 
-### 4. Rivian Heard You Complaining About Touchscreens So It Over-Engineered Scroll Wheels
+### 4. Over the Hill Preview: Virtual Off-Roading That Will Lower Your Blood Pressure
 
-[原文] Rivian CEO RJ Scaringe exclusively told The Drive how the R2's software-defined Halo wheels work — and why the clicks you feel aren't mechanical at all.
-The post Rivian Heard You Complaining About Tou
+[原文] The off-roading adventure game from the creator of Art of Rally is about enjoying the journey and taking in the sights and sounds.
+The post Over the Hill Preview: Virtual Off-Roading That Will Lower Y
 
-📎 [阅读原文](https://www.thedrive.com/news/rivian-heard-you-complaining-about-touchscreens-so-it-over-engineered-scroll-wheels) — *The Drive*
+📎 [阅读原文](https://www.thedrive.com/news/over-the-hill-preview-virtual-off-roading-that-will-lower-your-blood-pressure) — *The Drive*
 
-### 5. Jeep Will Give Away 100 Wranglers if America Suddenly Gets Good at Soccer
+### 5. Genesis Is Going GT3 Racing, and Here’s Its Race Car Concept
 
-[原文] A bunch of George Washingtons (plural) will win a Jeep if America beats its 60:1 World Cup odds.
-The post Jeep Will Give Away 100 Wranglers if America Suddenly Gets Good at Soccer appeared first on Th
+[原文] While the press release sells the Magma GT3 as an exploratory concept, the in-person intro by Luc Donckerwolke and Cyril Abiteboul pinned it as a reality. 
+The post Genesis Is Going GT3 Racing, and He
 
-📎 [阅读原文](https://www.thedrive.com/news/jeep-will-give-away-100-wranglers-if-america-suddenly-gets-good-at-soccer) — *The Drive*
+📎 [阅读原文](https://www.thedrive.com/news/it-looks-like-genesis-is-preparing-to-go-gt3-racing-and-heres-its-race-car-concept) — *The Drive*
 
 ---
 
@@ -401,35 +401,35 @@ The post Jeep Will Give Away 100 Wranglers if America Suddenly Gets Good at Socc
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. What TikTok Is Teaching Future Teachers (That We Aren’t)
+### 1. AI Won’t Replace Educators. But It is Changing How Students Learn.
 
-暂无摘要。
+[原文] The question for educators: How to know when AI supports real learning.
+
+📎 [阅读原文](https://edsurge.com/news/ai-wont-replace-educators-but-it-is-changing-how-students-learn) — *EdSurge*
+
+### 2. What TikTok Is Teaching Future Teachers (That We Aren’t)
+
+[原文] A new educational epistemology for today's teachers.
 
 📎 [阅读原文](https://edsurge.com/news/what-tiktok-is-teaching-future-teachers-that-we-arent) — *EdSurge*
 
-### 2. What My Students Deserve Shouldn’t Be Radical
+### 3. What My Students Deserve Shouldn’t Be Radical
 
 [原文] What New Mexico taught me about caring for children and families.
 
 📎 [阅读原文](https://edsurge.com/news/what-my-students-deserve-shouldnt-be-radical) — *EdSurge*
 
-### 3. Can Schools Afford an AI-First Future?
+### 4. Can Schools Afford an AI-First Future?
 
 [原文] While some experts suggest AI integration for teaching and learning, schools still have to figure out how to pay for it.
 
 📎 [阅读原文](https://edsurge.com/news/can-schools-afford-an-ai-first-future) — *EdSurge*
 
-### 4. Recess, Screens, and Absenteeism
+### 5. Recess, Screens, and Absenteeism
 
 暂无摘要。
 
 📎 [阅读原文](https://edsurge.com/news/recess-screens-and-absenteeism) — *EdSurge*
-
-### 5. AI Is in Schools. Teachers Are Not Ready.
-
-暂无摘要。
-
-📎 [阅读原文](https://edsurge.com/news/ai-is-in-schools-teachers-are-not-ready) — *EdSurge*
 
 ---
 
@@ -439,35 +439,35 @@ The post Jeep Will Give Away 100 Wranglers if America Suddenly Gets Good at Socc
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Frankie Grande Says Celine Dion ‘Peed’ Herself After Ariana’s TV Impression
+### 1. Morrissey Wants to Take Legal Action Against Online Imposters Who ‘Severely Harmed’ His Status
+
+[原文] A post on the musician's website claims nine people are pretending to be Morrissey and "operating on behalf of various political groups," including someone with ties to a former Smiths member
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/morrissey-legal-action-online-impersonators-1235576573/) — *Rolling Stone*
+
+### 2. See Steven Spielberg Praise ‘Singular’ Taylor Swift in Songwriters Hall of Fame Introduction
+
+[原文] "A woman who has no fear when it comes to shattering records as a writer, singer, and storyteller," the director says of the youngest-ever female inductee
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/steven-spielberg-taylor-swift-songwriters-hall-of-fame-1235576584/) — *Rolling Stone*
+
+### 3. Frankie Grande Says Celine Dion ‘Peed’ Herself After Ariana’s TV Impression
 
 [原文] The pop singer has famously channeled Dion multiple times, including on The Tonight Show
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/frankie-grande-celine-dion-ariana-impression-peed-1235576538/) — *Rolling Stone*
 
-### 2. Taylor Swift Quotes ‘Yellowstone’ Rancher John Dutton During Songwriters Hall of Fame Speech
+### 4. Taylor Swift Quotes ‘Yellowstone’ Rancher John Dutton During Songwriters Hall of Fame Speech
 
 [原文] The star delivered the words of wisdom — accent and all —  as she became the youngest female artist to be inducted into the institution
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/taylor-swift-songwriters-hall-of-fame-quotes-yellowstone-1235576534/) — *Rolling Stone*
 
-### 3. Taylor Swift Holds Back Tears and Thanks Family in Songwriters Hall of Fame Speech: ‘The Reason I’m Here Tonight’
+### 5. Taylor Swift Holds Back Tears and Thanks Family in Songwriters Hall of Fame Speech: ‘The Reason I’m Here Tonight’
 
 [原文] The icon was inducted into the institution by director Steven Spielberg
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/taylor-swift-inducted-songwriters-hall-of-fame-speech-1235574184/) — *Rolling Stone*
-
-### 4. Olivia Rodrigo’s ‘You Seem Pretty Sad for a Girl So in Love’ Has Arrived
-
-[原文] The superstar has finally released her highly anticipated third studio album
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/olivia-rodrigo-you-seem-pretty-sad-for-a-girl-so-in-love-1235574715/) — *Rolling Stone*
-
-### 5. Ariana Grande Demands White House Stop Using Her Song for ‘Barbaric’ ICE Video
-
-[原文] The singer slammed the Trump administration after it used her music in a TikTok video of federal agents arresting and handcuffing people
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/ariana-grande-white-house-music-ice-video-1235576472/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post Jeep Will Give Away 100 Wranglers if America Suddenly Gets Good at Socc
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Kerten CEO Says First India Property by Year-End, Pipeline Likely to Exceed 1,000-Key Target: Exclusive
+### 1. Navan Says Rivals’ Mergers Are Sending It More Clients
+
+[原文] Navan is winning large enterprise clients, picking them up when customers reevaluate their vendors in the face of protracted mergers.
+
+📎 [阅读原文](https://skift.com/2026/06/12/navan-says-rivals-mergers-are-sending-it-more-clients/) — *Skift*
+
+### 2. Kerten CEO Says First India Property by Year-End, Pipeline Likely to Exceed 1,000-Key Target: Exclusive
 
 [原文] India's hotel market doesn't need another global chain pretending to be local. Kerten Hospitality's entire bet is that developers have finally figured that out too.
 
 📎 [阅读原文](https://skift.com/2026/06/12/kerten-ceo-says-first-india-property-by-year-end-pipeline-likely-to-exceed-1000-key-target-exclusive/) — *Skift*
 
-### 2. Travelport Launches TripServices to Power AI Travel Booking
+### 3. Travelport Launches TripServices to Power AI Travel Booking
 
 [原文] AI agents can already help travelers dream up trips. Booking them is harder. Travelport is betting that cleaner access to flights, hotels, and extras will keep travel sellers from looking elsewhere.
 
 📎 [阅读原文](https://skift.com/2026/06/11/travelport-tripservices-cloud-apis-ai-travel/) — *Skift*
 
-### 3. Aven’s New Booking Engine Targets Hotel Direct Booking Conversions
+### 4. Aven’s New Booking Engine Targets Hotel Direct Booking Conversions
 
 [原文] Aven, the former Sabre hospitality business, is taking direct aim at a core hotel tech problem: how much legacy infrastructure can still support modern direct booking. Its new booking engine shows wha
 
 📎 [阅读原文](https://skift.com/2026/06/11/aven-hospitality-hotel-direct-booking-ai/) — *Skift*
 
-### 4. Canadian Tourists Bailed On the U.S. — Canadian Airlines Still See Growth
+### 5. Canadian Tourists Bailed On the U.S. — Canadian Airlines Still See Growth
 
 [原文] As one of the largest travel markets continues to shrink due to political tensions, Canadian carriers told Skift that U.S. travel is still producing healthy margins.
 
 📎 [阅读原文](https://skift.com/2026/06/11/canadian-tourist-bailed-on-the-u-s-canadian-airlines-still-see-growth/) — *Skift*
-
-### 5. Hotels Are Hoping For a Last-Minute World Cup Surge. Will It Come?
-
-[原文] Operators are banking on spur-of-the-moment travel from soccer fans who want to see their favorite teams play in the World Cup. Data suggests there are reasons to be optimistic, but it’s still not cle
-
-📎 [阅读原文](https://skift.com/2026/06/11/hotels-hope-last-minute-world-cup-bookings/) — *Skift*
 
 ---
 
