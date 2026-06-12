@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年06月12日** | 生成时间: 2026-06-12 04:30
+**2026年06月12日** | 生成时间: 2026-06-12 12:22
 
 ---
 
@@ -28,9 +28,9 @@
 
 📎 [阅读原文](https://www.bbc.com/news/articles/c70yeee2jvqo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. World Cup kicks off in Mexico with Shakira, performers and vibrant fans
+### 3. World Cup kicks off in Mexico with Shakira, dancing, and protests
 
-[原文] A star-studded opening ceremony featured artists from the World Cup's official soundtrack.
+[原文] There was a star-studded opening ceremony, and some sporadic clashes between police and protesters around the Azteca stadium.
 
 📎 [阅读原文](https://www.bbc.com/news/articles/c2ly928xz8go?at_medium=RSS&at_campaign=rss) — *BBC World*
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump claims Iran war settled 'subject to finalization,' expects signing in 'next few days'
-
-[原文] Hours earlier, Trump warned that the U.S. would attack Iran "VERY HARD TONIGHT" and soon take over Iran's oil infrastructure assets, including Kharg Island.
-
-📎 [阅读原文](https://www.cnbc.com/2026/06/11/trump-iran-strikes-deal.html) — *CNBC*
-
-### 2. Trump picks former SEC Chairman Jay Clayton as national intelligence director
-
-[原文] Trump's announcement came after House Democrats' objections to his pick of Bill Pulte as acting chief ensured that a key national security tool expires Friday.
-
-📎 [阅读原文](https://www.cnbc.com/2026/06/11/trump-jay-clayton-national-intelligence-pulte.html) — *CNBC*
-
-### 3. SpaceX cuts retail IPO allocation to low 20% range, source says
-
-[原文] The Elon Musk-led company plans to direct a percentage in the low 20s of the offering to retail buyers, according to a person familiar with the matter.
-
-📎 [阅读原文](https://www.cnbc.com/2026/06/11/spacex-cuts-retail-ipo-allocation-to-low-20percent-range-source-says.html) — *CNBC*
-
-### 4. From startup to $1.8 trillion: The investors who took a chance on SpaceX now reap the rewards
+### 1. From startup to $1.8 trillion: The investors who took a chance on SpaceX now reap the rewards
 
 [原文] With SpaceX seeking an IPO valuation of nearly $1.8 trillion, early bets are poised to generate some of the biggest paper gains in venture capital history.
 
 📎 [阅读原文](https://www.cnbc.com/2026/06/11/spacex-investors-reap-rewards-1-8-trillion-valuation.html) — *CNBC*
 
-### 5. Gold slumps to 6-month low even as inflation fears rise. Here's why bullion is out of favor
+### 2. Oil prices fall on hopes of U.S.-Iran deal despite Tehran pushback
 
-[原文] The yellow metal is at its lowest level of the year as potential interest rate increases and faltering technical signals weigh on prices.
+[原文] Oil prices fell on Friday after U.S. President Donald Trump said Washington had reached a framework agreement with Iran, raising hopes that tensions in the Middle East could ease.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/11/gold-slumps-to-6-month-low-even-as-inflation-fears-rise-heres-why-bullion-is-out-of-favor.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/12/oil-prices-wti-brent-on-hopes-of-us-iran-deal-despite-tehran-pushback.html) — *CNBC*
+
+### 3. A Chinese start-up's unfolding dilemma exposes cracks in Beijing's tech funding machine
+
+[原文] While the U.S. channels support to tech winners indirectly via incentives, Chinese governments at every level take direct equity stakes.
+
+📎 [阅读原文](https://www.cnbc.com/2026/06/12/a-chinese-start-ups-dilemma-exposes-cracks-in-beijings-tech-funding.html) — *CNBC*
+
+### 4. SpaceX cuts retail IPO allocation to low 20% range, source says
+
+[原文] The Elon Musk-led company plans to direct a percentage in the low 20s of the offering to retail buyers, according to a person familiar with the matter.
+
+📎 [阅读原文](https://www.cnbc.com/2026/06/11/spacex-cuts-retail-ipo-allocation-to-low-20percent-range-source-says.html) — *CNBC*
+
+### 5. SpaceX raising $75 billion in record-setting IPO as Nasdaq debut awaits
+
+[原文] SpaceX is selling 555.6 shares at $135 a piece, raising $75 billion in the largest IPO on record.
+
+📎 [阅读原文](https://www.cnbc.com/2026/06/11/spacex-raises-75-billion-in-record-setting-ipo-ahead-of-nasdaq-debut.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Oracle warns of security bug that hackers abused to breach 100+ companies
+### 1. Theker just raised $85M to build the factory robot that doesn’t specialize in anything
+
+[原文] Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured.
+
+📎 [阅读原文](https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/) — *TechCrunch*
+
+### 2. Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world
+
+[原文] The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.
+
+📎 [阅读原文](https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/) — *TechCrunch*
+
+### 3. SpaceX officially prices shares at $135 in the largest IPO ever
+
+[原文] Wits its official share pricing announcement, SpaceX's IPO has begun.
+
+📎 [阅读原文](https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/) — *TechCrunch*
+
+### 4. Oracle warns of security bug that hackers abused to breach 100+ companies
 
 [原文] The tech giant warned of a security flaw that a cybercrime gang said it's exploiting as part of a mass-hacking campaign. Google said it notified more than 100 organizations that had potentially vulner
 
 📎 [阅读原文](https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies/) — *TechCrunch*
 
-### 2. SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift
+### 5. SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift
 
 [原文] After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the  risk of outright fraud.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/) — *TechCrunch*
-
-### 3. Bluesky launches group chats, as company shifts focus to community features
-
-[原文] Bluesky's latest feature is group chats, arriving amid a shift in focus on building features for smaller communities.
-
-📎 [阅读原文](https://techcrunch.com/2026/06/11/bluesky-launches-group-chats-as-company-shifts-focus-to-community-features/) — *TechCrunch*
-
-### 4. Meta’s Edits app is getting an AI assistant and a desktop version
-
-[原文] By integrating an AI assistant directly into Edits, Meta is aiming to keep creators engaged on Instagram as it continues to compete with TikTok and YouTube for creators' attention.
-
-📎 [阅读原文](https://techcrunch.com/2026/06/11/metas-edits-app-is-getting-an-ai-assistant-and-a-desktop-version/) — *TechCrunch*
-
-### 5. Coinbase’s new tool can help agents trade and pay for premium research
-
-[原文] Coinbase's agent can use x402 protocol to get access to data and APIs.
-
-📎 [阅读原文](https://techcrunch.com/2026/06/11/coinbase-debuts-mcp-for-agent-trading/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Live updates: Mexico lead after early goal in Worl...
+### 1. 'There's a World Cup happening?' Are Americans excited about the tournament?
 
-[原文] null
+[原文] With the World Cup under way, how excited are people across the United States - and do they even know it's on?
 
-📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49003509/2026-fifa-world-cup-live-updates-mexico-vs-south-africa) — *ESPN*
+📎 [阅读原文](https://www.bbc.com/sport/football/articles/cg74rzx582ko?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Ruggs denied parole nearly five years after crash
+### 2. From near death to World Cup hero - Jimenez's tears for Mexico
 
-[原文] Ex-NFL player Henry Ruggs was denied parole nearly five years after killing a woman in a car crash in Las Vegas, the Nevada Board of Parole Commissioners ruled Thursday.
+[原文] From nearly dying on the pitch to scoring for Mexico at the World Cup - Raul Jimenez has completed a remarkable comeback.
 
-📎 [阅读原文](https://www.espn.com/nfl/story/_/id/49032484/ex-raiders-wr-henry-ruggs-denied-parole-nearly-5-years-crash) — *ESPN*
+📎 [阅读原文](https://www.bbc.com/sport/football/articles/cm2dl67rljvo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Knicks fans target Wemby with egg, jeers at hotel
+### 3. Three red cards shown as Mexico beat South Africa in World Cup opener
 
-[原文] A brutal night for the Spurs' Victor Wembanyama continued after he returned to his hotel, as he was pelted with boos from Knicks fans and nearly hit by a flying egg.
+[原文] Three players are sent off as World Cup co-hosts Mexico defeat South Africa in a dramatic opening match at a packed Azteca Stadium.
 
-📎 [阅读原文](https://www.espn.com/nba/story/_/id/49031479/knicks-fans-direct-jeers-flying-egg-spurs-victor-wembanyama) — *ESPN*
+📎 [阅读原文](https://www.bbc.com/sport/football/videos/cx2dyr3e1zro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. AG warns Big 12 if TTU punished for Sorsby case
+### 4. World Cup kicks off in Mexico with Shakira, dancing, and protests
 
-[原文] Texas AG Ken Paxton sent a letter to Big 12 commissioner Brett Yormark and board of directors chairman Douglas Girod, notifying the league it would be exposed to "substantial liability" if it takes ac
+[原文] There was a star-studded opening ceremony, and some sporadic clashes between police and protesters around the Azteca stadium.
 
-📎 [阅读原文](https://www.espn.com/college-football/story/_/id/49032069/texas-ag-warns-big-12-texas-tech-punished-playing-sorsby) — *ESPN*
+📎 [阅读原文](https://www.bbc.com/news/articles/c2ly928xz8go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Chapman: If Yanks want me, GM should apologize
+### 5. Key considers imposing alcohol ban on England team
 
-[原文] If the Yankees were to acquire Red Sox closer Aroldis Chapman, he would like New York GM Brian Cashman to apologize to him for how his previous stint with the team ended.
+[原文] Director of cricket Rob Key is considering imposing an alcohol ban on the England team and has given no assurances Ben Stokes will remain Test captain.
 
-📎 [阅读原文](https://www.espn.com/mlb/story/_/id/49032489/red-sox-aroldis-chapman-says-yankees-gm-owes-apology) — *ESPN*
+📎 [阅读原文](https://www.bbc.com/sport/cricket/articles/c05yz53d1zgo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Elisabeth Hasselbeck Slated to Guest Host ‘CBS Mornings’ Next Week
+### 1. Olivia Rodrigo Trades Pop-Punk for New Wave — and Angst for True Love (for Half an Album) — in the Excellent ‘You Seem Pretty Sad for a Girl So in Love’: Review
 
-[原文] Elisabeth Hasselbeck, a former co-host of ABC&#8217;s &#8220;The View&#8221; and &#8220;Fox &#38; Friends&#8221; will serve as a guest host next week on &#8220;CBS Mornings,&#8221; according to a pers
+[原文] The third time&#8217;s the third charm for Olivia Rodrigo, who is beginning to look like she might be constutionally incapable of not turning in one of the year&#8217;s most diverting albums, in any g
 
-📎 [阅读原文](https://variety.com/2026/tv/news/elisabeth-hasselbeck-cbs-mornings-guest-host-1236779039/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/album-reviews/olivia-rodrigo-album-review-pretty-sad-for-girl-so-in-love-1236778775/) — *Variety*
 
-### 2. Bonnaroo Will Stream Live on Hulu This Weekend:  Check Out the Fest’s Full Livestream Schedule Here
+### 2. Barcelona-Catalunya Grand Prix 2026: Here’s Where to Watch F1 Online for Free
 
-[原文] Lollapalooza, Bonnaroo and Austin City Limits will stream live on Disney+ and Hulu for the first time this year. Previously, the festivals were available to stream on Hulu and only in the U.S., but th
+[原文] After a thrilling start of the F1 season in Monaco, Andrea Kimi Antonelli of Team Mercedes won yet another race (his fifth of the season) gaining 156 points after 78 laps. Ferrari&#8217;s Lewis Hamilt
 
-📎 [阅读原文](https://variety.com/2026/music/news/bonnaroo-livestream-hulu-1202893515/) — *Variety*
+📎 [阅读原文](https://variety.com/shop/how-to-watch-f1-2026-season-livestream-online-free-1235212614/) — *Variety*
 
-### 3. Jennifer Lawrence to Produce and Star in Romantic Comedy ‘One Month Mark’ for Apple
+### 3. Jon Hamm Not Eligible for Emmy Guest Actor Race for ‘The Morning Show’ Due to Submission Error
 
-[原文] Oscar winner Jennifer Lawrence and Apple Original Films are teaming up once again &#8212; this time for the new romantic comedy &#8220;One Month Mark.&#8221; Lawrence stars in the film based on a spec
+[原文] Jon Hamm has been disqualified from the Emmy guest drama actor race for his work in the Apple TV drama &#8220;The Morning Show,&#8221; Variety has confirmed. Due to a clerical error by the studio, Ham
 
-📎 [阅读原文](https://variety.com/2026/film/news/jennifer-lawrence-romantic-comedy-one-month-mark-apple-1236779030/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/awards/jon-hamm-emmy-disqualified-morning-show-guest-actor-1236779423/) — *Variety*
 
-### 4. ‘The Paper’ Star Sabrina Impacciatore on Catfishing, Learning to Do the Worm Dance, and Working With an All-Female Creative Team
+### 4. How CJ ENM’s ‘Kitchen Soldier’ and ‘Filing for Love’ Are Rewriting K-Drama’s Global Playbook: ‘Less Made in Korea, More Made With Korea’
 
-[原文] Episode 5 of Peacock’s mockumentary series “The Paper” marks an important turning point for Sabrina Impacciatore’s Esmerelda Grand. The series follows a group of journalists working under editor-in-ch
+[原文] When &#8220;The Legend of Kitchen Soldier&#8221; screened at Series Mania in Lille this March, Sebastian Kim was watching the audience as much as the screen. The series had been viewed internally at K
 
-📎 [阅读原文](https://variety.com/2026/tv/news/the-paper-star-sabrina-impacciatore-catfishing-episode-1236778821/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/cj-enm-kitchen-soldier-filing-for-love-korean-wave-1236775591/) — *Variety*
 
-### 5. The Best Knicks Merch to Shop This Week
+### 5. ‘Karn Evil 9’ in Development; Dystopian Sci-Fi Film Based on Emerson, Lake & Palmer Song Sets Isaac Ezban as Director (EXCLUSIVE)
 
-[原文] The Knicks aren&#8217;t the only ones putting on a show this postseason. As New York&#8217;s NBA Finals run turns Madison Square Garden into a celebrit hotspot, the courtside style has become nearly a
+[原文] Emerson, Lake &#38; Palmer&#8217;s epic prog anthem &#8220;Karn Evil 9&#8221; has inspired a new sci-fi dystopian film, which is now in development after landing a screenwriter and director. Isaac Ezb
 
-📎 [阅读原文](https://variety.com/2026/shopping/news/best-knicks-merch-buy-online-1236408378/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/karn-evil-9-sci-fi-film-emerson-lake-palmer-song-1236779397/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Marvel Zombies Rise From the Grave Again in Marvel Zombies: War Zone
+### 1. Valor Mortis Gets Short Delay to Avoid September's Onslaught of Game Releases
 
-[原文] The Marvel Zombies franchise is back from the dead, as Marvel reveals a new series called Marvel Zombies: War Zone.
+[原文] Valor Mortis has conceded defeat when it comes to the September gaming arms race and announced a short delay.
 
-📎 [阅读原文](https://www.ign.com/articles/the-marvel-zombies-rise-from-the-grave-again-in-marvel-zombies-war-zone) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/valor-mortis-gets-short-delay-to-avoid-septembers-onslaught-of-game-releases) — *IGN*
 
-### 2. Whatever Happens This World Cup, It Won’t Be As Fun as Playing FIFA: Road to World Cup 98
+### 2. Yellowstone, Tulsa King Video Games Are "Priorities" for Paramount Games
 
-[原文] As World Cup 2026 kicks off, we look back at one of soccer's best video game moments in FIFA: Road to World Cup 98.
+[原文] Paramount Games is extremely interested in making video games based on Taylor Sheridan's various TV shows, including Yellowstone and The Tulsa King.
 
-📎 [阅读原文](https://www.ign.com/articles/whatever-happens-this-world-cup-it-wont-be-as-fun-as-playing-fifa-road-to-world-cup-98) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/yellowstone-tulsa-king-video-games-are-priorities-for-paramount-games) — *IGN*
 
-### 3. Stranger Than Heaven Director Addresses Concerns Over Tupac's Inclusion
+### 3. Jason Momoa Won't Make a Lobo Movie Unless It's R-Rated
 
-[原文] The director of Stranger Than Heaven has addressed concerns around the casting of Tupac Shakur.
+[原文] Jason Momoa has one condition for a Lobo solo movie: It must be rated R.
 
-📎 [阅读原文](https://www.ign.com/articles/stranger-than-heaven-director-addresses-concerns-over-tupacs-inclusion) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/jason-momoa-wont-make-a-lobo-movie-unless-its-r-rated) — *IGN*
 
-### 4. That Texas Blood: Image Comics' Neo-Noir Western Returns for a Sequel Series
+### 4. Save 60% the Wolfbox 4,000A Cordless Jump Starter, Tire Inflator, and 24,000mAh Power Bank in One
 
-[原文] Image Comics' critical darling That Texas Blood is back with a sequel series called That Texas Blood: Hell Comes to Allison Ranch. Check out our exclusive preview of the first chapter.
+[原文] A super practical gift for dad that can be delivered before Father's Day.
 
-📎 [阅读原文](https://www.ign.com/articles/that-texas-blood-image-comics-neo-noir-western-returns-for-a-sequel-series) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/wolfbox-megavolt24-air-cordless-car-jump-starter-tire-inflator-deal-for-fathers-day) — *IGN*
 
-### 5. The iBuyPower Element Pro Ryzen X3D Edition Gaming PC With GeForce RTX 5070 GPU Drops to $1,449
+### 5. X-Men Star Tyler Mane Diagnosed With Rare Form of Breast Cancer
 
-[原文] Outstanding prebuilt for 1080p and 1440p gaming, and it's capable enough to run games in 4K as well.
+[原文] X-Men actor Tyler Mane has been diagnosed with a rare form of breast cancer.
 
-📎 [阅读原文](https://www.ign.com/articles/ibuypower-element-pro-ryzen-7800x3d-rtx-5070-gaming-pc-deal) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/x-men-star-tyler-mane-diagnosed-with-rare-form-of-breast-cancer) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post Jeep Will Give Away 100 Wranglers if America Suddenly Gets Good at Socc
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Pennsylvania Activists Urge Lawmakers to Help Curb Soaring Electric Bills
+### 1. Threads of Earth’s Underground Fungal Networks Are Long Enough to Reach Beyond the Solar System
+
+[原文] Hidden underground around the world lie 110 quadrillion kilometers of arbuscular mycorrhizal fungal networks—webs of ultra-thin threads that, if connected in a single line, would stretch almost a bill
+
+📎 [阅读原文](https://insideclimatenews.org/news/11062026/earths-massive-underground-fungal-networks/) — *Inside Climate News*
+
+### 2. Pennsylvania Activists Urge Lawmakers to Help Curb Soaring Electric Bills
 
 [原文] Advocates for lower electricity prices in Pennsylvania said Wednesday their goals can be achieved by requiring large-load users like data centers to supply their own power rather than taking it from t
 
 📎 [阅读原文](https://insideclimatenews.org/news/11062026/pennsylvania-electric-bills-driven-by-data-center-development/) — *Inside Climate News*
 
-### 2. Biscayne Bay Is Slowly Becoming the Ocean
+### 3. Biscayne Bay Is Slowly Becoming the Ocean
 
 [原文] In the shadow of Miami’s skyline, in water churned daily by boats and jet skis, juvenile great hammerhead sharks—a critically endangered species—spend the first two years of their lives. A few miles f
 
 📎 [阅读原文](https://insideclimatenews.org/news/11062026/miami-biscayne-bay-sea-level-rise-threatens-sharks-and-aquifer/) — *Inside Climate News*
 
-### 3. An Old Well Gushed Waste, Not Oil, in a Small West Texas Town
+### 4. An Old Well Gushed Waste, Not Oil, in a Small West Texas Town
 
 [原文] GRANDFALLS, Texas—An old oil well sprang back to life under the parking lot of the First Baptist Church of Grandfalls in April. Over the next eight days, more than 1.5 million gallons of toxic wastewa
 
 📎 [阅读原文](https://insideclimatenews.org/news/11062026/texas-oil-well-leaks-million-of-gallons-of-toxic-wastewater/) — *Inside Climate News*
 
-### 4. On the Historic Route From Selma to Montgomery, an AI Cloud Looms
+### 5. On the Historic Route From Selma to Montgomery, an AI Cloud Looms
 
 [原文] HAYNEVILLE, Ala.—When Alabamians marched from Selma to Montgomery in 1965 to demand voting rights for African Americans, Highway 80 became their path toward freedom.&#160; Two weeks after state troope
 
 📎 [阅读原文](https://insideclimatenews.org/news/10062026/rural-alabama-community-opposes-hyperscale-data-center/) — *Inside Climate News*
-
-### 5. Across Ecosystems, Dead Organisms Help Shape the Living World
-
-[原文] Death casts a shadow over life, not only for people but also other animals, plants and entire ecosystems. In some ways, the phenomenon is well known. A fallen tree sprouts a plethora of mushrooms whil
-
-📎 [阅读原文](https://insideclimatenews.org/news/10062026/dead-trees-and-coral-shape-ecosystems/) — *Inside Climate News*
 
 ---
 
@@ -405,31 +405,31 @@ The post Jeep Will Give Away 100 Wranglers if America Suddenly Gets Good at Socc
 
 暂无摘要。
 
-📎 [阅读原文](http://edsurge-contentful-prod.us-east-1.elasticbeanstalk.com/news/what-tiktok-is-teaching-future-teachers-that-we-arent) — *EdSurge*
+📎 [阅读原文](https://edsurge.com/news/what-tiktok-is-teaching-future-teachers-that-we-arent) — *EdSurge*
 
 ### 2. What My Students Deserve Shouldn’t Be Radical
 
 [原文] What New Mexico taught me about caring for children and families.
 
-📎 [阅读原文](http://edsurge-contentful-prod.us-east-1.elasticbeanstalk.com/news/what-my-students-deserve-shouldnt-be-radical) — *EdSurge*
+📎 [阅读原文](https://edsurge.com/news/what-my-students-deserve-shouldnt-be-radical) — *EdSurge*
 
 ### 3. Can Schools Afford an AI-First Future?
 
 [原文] While some experts suggest AI integration for teaching and learning, schools still have to figure out how to pay for it.
 
-📎 [阅读原文](http://edsurge-contentful-prod.us-east-1.elasticbeanstalk.com/news/can-schools-afford-an-ai-first-future) — *EdSurge*
+📎 [阅读原文](https://edsurge.com/news/can-schools-afford-an-ai-first-future) — *EdSurge*
 
 ### 4. Recess, Screens, and Absenteeism
 
 暂无摘要。
 
-📎 [阅读原文](http://edsurge-contentful-prod.us-east-1.elasticbeanstalk.com/news/recess-screens-and-absenteeism) — *EdSurge*
+📎 [阅读原文](https://edsurge.com/news/recess-screens-and-absenteeism) — *EdSurge*
 
 ### 5. AI Is in Schools. Teachers Are Not Ready.
 
 暂无摘要。
 
-📎 [阅读原文](http://edsurge-contentful-prod.us-east-1.elasticbeanstalk.com/news/ai-is-in-schools-teachers-are-not-ready) — *EdSurge*
+📎 [阅读原文](https://edsurge.com/news/ai-is-in-schools-teachers-are-not-ready) — *EdSurge*
 
 ---
 
@@ -439,35 +439,35 @@ The post Jeep Will Give Away 100 Wranglers if America Suddenly Gets Good at Socc
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Niall Horan Almost Forgot ‘Steal Your Girl’ Lyrics at Wembley Show: ‘Never Sung This Verse Before’
+### 1. Olivia Rodrigo’s ‘You Seem Pretty Sad for a Girl So in Love’ Has Arrived
+
+[原文] The superstar has finally released her highly anticipated third studio album
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/olivia-rodrigo-you-seem-pretty-sad-for-a-girl-so-in-love-1235574715/) — *Rolling Stone*
+
+### 2. Ariana Grande Demands White House Stop Using Her Song for ‘Barbaric’ ICE Video
+
+[原文] The singer slammed the Trump administration after it used her music in a TikTok video of federal agents arresting and handcuffing people
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/ariana-grande-white-house-music-ice-video-1235576472/) — *Rolling Stone*
+
+### 3. Carly Simon Teases First Album in Nearly 20 Years With Triumphant Song ‘Howl’
+
+[原文] Comes in Waves will arrive in August
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/carly-simon-new-album-comes-in-waves-howl-song-1235576102/) — *Rolling Stone*
+
+### 4. Hear Ella Langley’s Shania Twain–Approved ‘You’re Still the One’ Cover
+
+[原文] “So flattered,” Twain commented on Langley’s TikTok post
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/ella-langley-shania-twain-youre-still-the-one-cover-1235576387/) — *Rolling Stone*
+
+### 5. Niall Horan Almost Forgot ‘Steal Your Girl’ Lyrics at Wembley Show: ‘Never Sung This Verse Before’
 
 [原文] The singer admitted his mid-show realization during his recent appearance on The Tonight Show
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/niall-horan-steal-your-girl-one-direction-lyrics-1235576221/) — *Rolling Stone*
-
-### 2. Shakira and Burna Boy Deliver Electric Performance of ‘Dai Dai’ to Kick Off the FIFA 2026 World Cup
-
-[原文] The show also featured appearances from Maná, J Balvin, Los Ángeles Azules, Belinda, and Danny Ocean
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/shakira-burna-boy-perform-dai-dai-fifa-2026-world-cup-1235574123/) — *Rolling Stone*
-
-### 3. Lil Wayne Wins $29,225 Judgment Against Security Guard Who Claimed Rapper Struck Him
-
-[原文] A judge dismissed the complaint after ruling that the security guard and his lawyer willfully failed to comply with court orders
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/lil-wayne-wins-judgment-security-guard-lawsuit-1235576177/) — *Rolling Stone*
-
-### 4. Timothée Chalamet, Taylor Swift, More Celebs Absolutely Lose Their Minds Over Historic Knicks Win
-
-[原文] Chalamet sheds his shirt, Swift waves the rally towel, Rihanna shoots hoops in NYC, and more celebrate after historic comeback win
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/celebrities-celebrate-knicks-historic-game-4-win-1235576115/) — *Rolling Stone*
-
-### 5. See Nick Cave Sing Soulful Shane MacGowan Tribute, ‘A Rainy Night in Soho,’ in Ireland
-
-[原文] The Bad Seeds also played some rarities at the concert, including the first performance of “Stranger Than Kindness” in more than a decade
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/nick-cave-bad-seeds-pogues-rainy-night-soho-1235576058/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post Jeep Will Give Away 100 Wranglers if America Suddenly Gets Good at Socc
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Canadian Tourists Bailed On the U.S. — Canadian Airlines Still See Growth
+### 1. Travelport Launches TripServices to Power AI Travel Booking
+
+[原文] AI agents can already help travelers dream up trips. Booking them is harder. Travelport is betting that cleaner access to flights, hotels, and extras will keep travel sellers from looking elsewhere.
+
+📎 [阅读原文](https://skift.com/2026/06/11/travelport-tripservices-cloud-apis-ai-travel/) — *Skift*
+
+### 2. Aven’s New Booking Engine Targets Hotel Direct Booking Conversions
+
+[原文] Aven, the former Sabre hospitality business, is taking direct aim at a core hotel tech problem: how much legacy infrastructure can still support modern direct booking. Its new booking engine shows wha
+
+📎 [阅读原文](https://skift.com/2026/06/11/aven-hospitality-hotel-direct-booking-ai/) — *Skift*
+
+### 3. Canadian Tourists Bailed On the U.S. — Canadian Airlines Still See Growth
 
 [原文] As one of the largest travel markets continues to shrink due to political tensions, Canadian carriers told Skift that U.S. travel is still producing healthy margins.
 
 📎 [阅读原文](https://skift.com/2026/06/11/canadian-tourist-bailed-on-the-u-s-canadian-airlines-still-see-growth/) — *Skift*
 
-### 2. Hotels Are Hoping For a Last-Minute World Cup Surge. Will It Come?
+### 4. Hotels Are Hoping For a Last-Minute World Cup Surge. Will It Come?
 
-[原文] Operators are banking spur-of-the-moment travel from soccer fans who want to see their favorite teams play in the World Cup. Data suggests there are reasons to be optimistic, but it’s still not clear 
+[原文] Operators are banking on spur-of-the-moment travel from soccer fans who want to see their favorite teams play in the World Cup. Data suggests there are reasons to be optimistic, but it’s still not cle
 
 📎 [阅读原文](https://skift.com/2026/06/11/hotels-hope-last-minute-world-cup-bookings/) — *Skift*
 
-### 3. Canadian Travel to the U.S. Rebounds, But Still Far Below 2024 Levels
+### 5. Canadian Travel to the U.S. Rebounds, But Still Far Below 2024 Levels
 
 [原文] Two months of gains is progress — but Canadian trips to the U.S. are still down nearly 29% from two years ago.
 
 📎 [阅读原文](https://skift.com/2026/06/11/canadian-travel-to-the-u-s-rebounds-but-still-far-below-2024-levels/) — *Skift*
-
-### 4. The Most Disciplined New Amenity in Hospitality Isn’t a Spa. It’s a Sandbag
-
-[原文] Hyatt’s reading of the fitness zeitgeist with its alignment with Hyrox is spot-on. It’s only a matter of time until competitors take notice of the surging sport.
-
-📎 [阅读原文](https://skift.com/2026/06/11/the-most-disciplined-new-amenity-in-hospitality-isnt-a-spa-its-a-sandbag/) — *Skift*
-
-### 5. 4 Bets Accor Is Making on AI and the Future of Hospitality
-
-[原文] Accor's AI strategy spans discovery, distribution, loyalty, and operations, but its boldest bet is the one focused on people. The company believes automating the invisible half of hotel work is what w
-
-📎 [阅读原文](https://skift.com/2026/06/11/accor-ai-hospitality-strategy/) — *Skift*
 
 ---
 
@@ -515,7 +515,7 @@ The post Jeep Will Give Away 100 Wranglers if America Suddenly Gets Good at Socc
 - **💰 经济财经**: CNBC
 - **💻 科技**: TechCrunch
 - **🔬 科学**: Science Daily
-- **⚽ 体育**: ESPN
+- **⚽ 体育**: BBC Sport
 - **🎬 娱乐**: Variety
 - **🏥 健康**: WHO
 - **🎮 游戏**: IGN
@@ -528,6 +528,7 @@ The post Jeep Will Give Away 100 Wranglers if America Suddenly Gets Good at Socc
 ## ⚠️ 今日故障源
 
 - **🚗 汽车**: Roadshow, Autocar
+- **✈️ 旅游**: Nomadic Matt
 
 ---
 
