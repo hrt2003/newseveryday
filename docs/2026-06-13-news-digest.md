@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年06月13日** | 生成时间: 2026-06-13 17:22
+**2026年06月13日** | 生成时间: 2026-06-13 22:08
 
 ---
 
@@ -16,29 +16,29 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Deal to end fighting would lead to Hormuz reopening, Iran says
+### 1. Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near
 
-[原文] The deal which will pave the way for hostilities to end is close to being finalised, the US, Iran and mediators Pakistan say.
+[原文] The strikes come as Iran's foreign minister says a deal to end fighting with the US is close.
 
 📎 [阅读原文](https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut
+### 2. Switzerland to vote on plan to cap population at 10 million
+
+[原文] The right-wing Swiss People's Party calls the plan a "sustainability initiative",  but opponents say it is a recipe for chaos.
+
+📎 [阅读原文](https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. Married at First Sight Australia stars not told partners had drug and violence convictions
+
+[原文] Stars of the hit TV show say they did not know their on-screen husbands had previous convictions.
+
+📎 [阅读原文](https://www.bbc.com/news/articles/clypy0ndvjlo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut
 
 [原文] Musk is now worth $1.11tn according to the Bloomberg rich list, while SpaceX listed on the Nasdaq stock exchange with a value of $2.2tn.
 
 📎 [阅读原文](https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 3. French town buries murdered child as questions mount over police failings
-
-[原文] The prime suspect in the killing of Lyhanna, 11, was reported to police nine months prior but never questioned.
-
-📎 [阅读原文](https://www.bbc.com/news/articles/cy9rq21dqego?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Discovery of €1.2m jewellery prompts fresh probe into former Spanish PM
-
-[原文] José Luis Rodriguez Zapatero is suspected of being unable to show proof he paid import duties on the jewellery.
-
-📎 [阅读原文](https://www.bbc.com/news/articles/cjeg9p1xqdwo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 5. Fans on concourses instead of in seats, claims Fifa
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump administration: Iran deal signing likely in coming days, but not '100%' certain
+### 1. From 10% chance of success to $2 trillion market cap: SpaceX's historic IPO
 
-[原文] A deal to end the Iran war could be signed soon, a senior Trump administration official said, following recent conflicting statements from the warring nations.
+[原文] After its Nasdaq debut on Friday, SpaceX was the sixth most-valuable U.S. company, despite being a fraction the size by revenue of tech's megacaps.
+
+📎 [阅读原文](https://www.cnbc.com/2026/06/13/from-10percent-chance-of-success-to-2-trillion-spacexs-historic-ipo.html) — *CNBC*
+
+### 2. U.S.-Iran peace deal could be finalized 'in the next 24 hours,' Pakistan's PM says
+
+[原文] A senior Trump administration official had said earlier that deal to end the Iran war could be signed soon.
 
 📎 [阅读原文](https://www.cnbc.com/2026/06/12/iran-deal-trump-pakistan-sharif.html) — *CNBC*
 
-### 2. Switzerland is voting on whether to cap its population at 10 million. Here's what to know
+### 3. UAE denies 'false' reports of fund transfer to Iran
 
-[原文] Switzerland votes on a population cap that could tighten immigration and put its EU free-movement agreement under pressure.
+[原文] The statement follows a Reuters report that the UAE has agreed to unlock billions of dollars of frozen funds for Iran.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/13/switzerland-population-cap-referendum-immigration.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/13/uae-denies-false-reports-of-fund-transfer-to-iran.html) — *CNBC*
 
-### 3. Anthropic disables access to Fable 5 and Mythos 5 to comply with government directive
+### 4. SpaceX IPO sticks the landing. Here's what investors are saying about its epic first trading day
 
-[原文] Anthropic said it disabled access to its Fable 5 and Mythos 5 models to comply with an export control directive from the U.S. government.
+[原文] Despite a large retail allocation and huge volume, volatility was moderate
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/12/anthropic-disables-access-to-fable-5-and-mythos-5-to-comply-with-government-directive.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/13/spacex-ipo-sticks-the-landing-heres-what-investors-are-saying-about-its-epic-first-trading-day.html) — *CNBC*
 
-### 4. Former Tesla board member says SpaceX needs to achieve 2 of its 3 moonshots to keep its valuation
+### 5. Moats vs. moonshots: The Warren Buffett-Elon Musk style debate
 
-[原文] SpaceX has achieved its goal of becoming the largest IPO on record.
+[原文] In 2018, Warren Buffett and Elon Musk indirectly debated a key question that persists for modern investors.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/12/spacex-moonshots-valuation-westly-tesla.html) — *CNBC*
-
-### 5. Paramount-WBD merger wins approval from DOJ
-
-[原文] The DOJ approval is an important milestone for the roughly $110 billion deal, though it could still face legal challenges from state attorneys general.
-
-📎 [阅读原文](https://www.cnbc.com/2026/06/12/paramount-wbd-merger-approval-doj.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/13/moats-vs-moonshots-the-warren-buffett-elon-musk-style-debate.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Andrew Yang thinks the next big startup opportunity is lowering the cost of living
+### 1. The FBI built its own replica small town to simulate real-world cyberattacks
+
+[原文] Hidden inside a building in Alabama, the FBI has created its own small town as a dedicated cyber training ground for simulating cyberattacks.
+
+📎 [阅读原文](https://techcrunch.com/2026/06/13/the-fbi-built-its-own-replica-small-town-to-simulate-real-world-cyberattacks/) — *TechCrunch*
+
+### 2. Andrew Yang thinks the next big startup opportunity is lowering the cost of living
 
 [原文] Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/) — *TechCrunch*
 
-### 2. Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI
+### 3. Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI
 
 [原文] Anthropic isn't hiding its frustration. "We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people," the 
 
 📎 [阅读原文](https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/) — *TechCrunch*
 
-### 3. SpaceX IPO: Live updates on everything you need to know
+### 4. SpaceX IPO: Live updates on everything you need to know
 
 [原文] TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and mayb
 
 📎 [阅读原文](https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/) — *TechCrunch*
 
-### 4. Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it
+### 5. Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it
 
 [原文] A new report suggests the unit, which employs 6,500 people, is on the verge of revolt.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/) — *TechCrunch*
-
-### 5. Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google
-
-[原文] The tech giant said a group called "Outsider Enterprise" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.
-
-📎 [阅读原文](https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Four goals and an electric display: USMNT's World ...
+### 1. Might Scotland throw midfield curveball at Haiti?
 
-[原文] World Cup co-hosts the United States banished any doubts hanging over the team with a decisive 4-1 victory over Paraguay on Friday.
+[原文] BBC Scotland looks at the midfield conundrum facing Scotland boss Steve Clarke.
 
-📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49046778/usmnts-world-cup-opener-was-perfect) — *ESPN*
+📎 [阅读原文](https://www.bbc.com/sport/football/articles/cqj1z4e21gro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. USMNT player ratings: Balogun, Pulisic team-best p...
+### 2. West Ham shareholders address Sullivan allegations and agree ownership deal
 
-[原文] In the USMNT's World Cup-opening win, Folarin Balogun, Christian Pulisic share spotlight as team's best players.
+[原文] Co-chairs Daniel Kretinsky and Vanessa Gold have spoken out on the allegations against David Sullivan as Czech billionaire becomes club's largest shareholder
 
-📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49045006/usmnt-player-ratings-balogun-pulisic-team-best-showings-lead-dazzling-world-cup-opener) — *ESPN*
+📎 [阅读原文](https://www.bbc.com/sport/football/articles/c932ll05592o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Balogun living WC 'dream' as U.S. choice pays off
+### 3. Stokes returns to Durham training after England omission
 
-[原文] USMNT striker Folarin Balogun, who could have played for England or Nigeria, said his two goals in Friday's 4-1 World Cup victory over Paraguay made for a "dreamy night."
+[原文] Ben Stokes returned to training with Durham on Saturday following the nightclub incident that has caused the captain to miss England's second Test against New Zealand.
 
-📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49047212/folarin-balogun-usa-world-cup-2026-goals-paraguay) — *ESPN*
+📎 [阅读原文](https://www.bbc.com/sport/cricket/articles/c4gyw078vggo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Pulisic subbed off at halftime, 'hoping it's nothi...
+### 4. Raducanu overcomes injury to reach Queen's semis
 
-[原文] United States winger Christian Pulisic was substituted at halftime of his team's World Cup opener against Paraguay on Friday, with the Americans leading 3-0 at the break.
+[原文] Emma Raducanu overcomes an injury scare to beat Kamilla Rakhimova 6-3 7-5 and join fellow Briton Katie Boulter in the Queen's semi-finals.
 
-📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49045997/christian-pulisic-subbed-half-usmnt-rolling) — *ESPN*
+📎 [阅读原文](https://www.bbc.com/sport/tennis/articles/crlwkx2j5nyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Misiorowski Ks 15 in complete-game, 1-hit gem
+### 5. 'Gang leaders are soccer lovers' - Haiti play with hope for peace
 
-[原文] Jacob Misiorowski struck out a career-high 15 and pitched a complete-game one-hitter to lead the Brewers to a 6-0 win over the Phillies on Friday night.
+[原文] Haiti's first appearance at a men's World Cup for 52 years is as much about hope as it is goals for the conflict-torn nation.
 
-📎 [阅读原文](https://www.espn.com/mlb/story/_/id/49045874/brewers-misiorowski-strikes-15-complete-game-1-hitter) — *ESPN*
+📎 [阅读原文](https://www.bbc.com/sport/football/articles/c23yvvv7kr3o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Shanghai Film Fest Launches Tech Unit, Reveals AI Industry Push
+### 1. Beauty vs. The Beast: Here’s Where to Watch Tommy Fury vs. Eddie Hall Boxing Pay-Per-View Live Online
 
-[原文] The 28th Shanghai International Film Festival opened on June 12 with the launch of a new Technology Creation and Fabrication Unit and a parallel press conference for the Shanghai High-Tech Films and T
+[原文] The best boxers in the world travel to England, where British fighter Tommy Fury (11-0-0) takes on fellow-Brit boxer Eddie Hall (0-1-0) in the main event on Saturday, June 13. The Beauty vs. The Beast
 
-📎 [阅读原文](https://variety.com/2026/film/festivals/shanghai-film-fest-tech-unit-ai-industry-push-1236780477/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/shopping/news/how-to-watch-tommy-fury-vs-eddie-hall-ppv-boxing-live-online-1236779069/) — *Variety*
 
-### 2. Zhang Disha’s Sci-Fi ‘The Decisive Moment’ to Close Shanghai Film Festival
+### 2. Anna Faris Opens Up About ‘Scary Movie’ and Overcoming Anxiety: ‘I Was Convinced That I Was Going to Be Framed for Murder’
 
-[原文] &#8220;The Decisive Moment,&#8221; a sci-fi feature directed by Zhang Disha and produced by Huang Jianxin, will world premiere as the closing film of the 28th Shanghai International Film Festival on J
+[原文] “I’ve been waiting for this moment,” says Anna Faris. The celebrated actress and comedian is on top of the box office once more, as “Scary Movie,” the sixth installment in the popular horror-spoof ser
 
-📎 [阅读原文](https://variety.com/2026/film/festivals/zhang-disha-the-decisive-moment-shanghai-film-festival-closing-film-1236780472/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/features/anna-faris-scary-movie-divorce-hollywood-pay-chris-pratt-divorce-1236780180/) — *Variety*
 
-### 3. DGA Deal Lands Health Plan Gains, Streaming Residual Hikes and Responds to TV Slump by Limiting Actors and Others From Taking Director Jobs
+### 3. Russell Crowe Recalls ‘Sticking to His Guns’ About No Sex Scenes in ‘Gladiator,’ ‘Failed’ Sequel, ‘Fantastic’ ‘Highlander’ Reboot
 
-[原文] The Directors Guild of America has secured a provision in its new contract that limits actors and others who work on TV series from directing episodes, as it seeks to preserve jobs for career TV direc
+[原文] Russell Crowe proudly recalled “sticking to his guns” about not having sex scenes with Connie Nielsen in Ridley Scott’s “Gladiator.” Speaking at the Taormina Film Festival, the New Zealand-born actor 
 
-📎 [阅读原文](https://variety.com/2026/film/news/dga-deal-terms-tv-actors-jobs-directors-1236780373/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/russell-crowe-sex-scenes-gladiator-highlander-reboot-1236780557/) — *Variety*
 
-### 4. Viral ‘Open Door’ YouTube Short to be Adapted Into Feature, Earns Six-Figure Development Deal (EXCLUSIVE)
+### 4. Claire Danes Says Leonardo DiCaprio Told Her Not to Play With Prop Guns on ‘Romeo + Juliet’ Set: ‘Claire, We Don’t Do That’
 
-[原文] &#8220;Open Door,&#8221; Kevin Cate&#8217;s viral sci-fi short with nearly 15 million views across YouTube shorts, TikTok and Instagram, will be adapted into a feature-length film through a six-figure
+[原文] Claire Danes got some very valuable advice from a future Oscar winner. In her Variety Actors on Actors conversation with “Half Man” star Richard Gadd, the “The Beast in Me” performer reminisced about 
 
-📎 [阅读原文](https://variety.com/2026/film/news/open-door-youtube-short-feature-development-deal-1236779948/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/claire-danes-leonardo-dicaprio-romeo-juliet-guns-1236780232/) — *Variety*
 
-### 5. ‘The Furious’: Inside the Balletic and Brutal Fight Scenes, From Mixing Martial Art Styles to Taking 18 Days to Shoot the Insane Final Showdown
+### 5. Jeffrey Dean Morgan and Lauren Cohan Talk Season 3 of ‘The Walking Dead: Dead City’ and Maggie and Negan’s Relationship: ‘This Is Our Best Season – By Far. She Didn’t Stab Me One Time!’
 
-[原文] While the premise of &#8220;The Furious&#8221; is simple —&#160;a father named Wang Wei (Xie Miao) must find his daughter after she is kidnapped by a child trafficking ring —&#160;it&#8217;s the sprin
+[原文] Beware: AMC’s “The Walking Dead: Dead City” Season 3 is coming. And it might be the best one yet.&#160; “This is our best season – by far. This is such a different relationship now,” said Jeffrey Dean
 
-📎 [阅读原文](https://variety.com/2026/film/features/the-furious-fight-scenes-ending-brawl-1236768730/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/global/jeffrey-dean-morgan-lauren-cohan-the-walking-dead-dead-city-1236780512/) — *Variety*
 
 ---
 
@@ -244,35 +244,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Africa CDC and WHO launch joint continental Ebola response plan
+### 1. Safe blood supply improves as voluntary donations exceed 85%, but many people still lack access
+
+[原文] New data from the World Health Organization (WHO) show sustained progress towards safer blood supplies globally but also highlight persistent inequalities in access to safe blood and weaknesses in gov
+
+📎 [阅读原文](https://www.who.int/news/item/12-06-2026-safe-blood-supply-improves-as-voluntary-donations-exceed-85---but-many-people-still-lack-access) — *WHO*
+
+### 2. Africa CDC and WHO launch joint continental Ebola response plan
 
 [原文] The Africa Centres for Disease Control and Prevention (Africa CDC) and the World Health Organization (WHO) today launched a joint continental preparedness and response plan on the ongoing Ebola outbre
 
 📎 [阅读原文](https://www.who.int/news/item/05-06-2026-africa-cdc-and-who-launch-joint-continental-ebola-response-plan) — *WHO*
 
-### 2. Unsafe food causes 866 million illnesses and 1.5 million deaths annually, young children at highest risk
+### 3. Unsafe food causes 866 million illnesses and 1.5 million deaths annually, young children at highest risk
 
 [原文] Children aged less than five years face almost three times the risk of illness from unsafe food than older children and adults, according to new estimates released today by the World Health Organizati
 
 📎 [阅读原文](https://www.who.int/news/item/04-06-2026-unsafe-food-causes-866-million-illnesses-and-1.5-million-deaths-annually--young-children-at-highest-risk) — *WHO*
 
-### 3. Joint statement by the Government of the Democratic Republic of the Congo and WHO concerning the outbreak of Ebola disease caused by the Bundibugyo virus
+### 4. Joint statement by the Government of the Democratic Republic of the Congo and WHO concerning the outbreak of Ebola disease caused by the Bundibugyo virus
 
 [原文] The Government of the Democratic Republic of the Congo (DRC) and the World Health Organization (WHO) reaffirm their strong partnership and shared commitment to protect the health and well-being of the
 
 📎 [阅读原文](https://www.who.int/news/item/31-05-2026-joint-statement-by-the-government-of-the-democratic-republic-of-the-congo-and-who-concerning-the-outbreak-of-ebola-disease-caused-by-the-bundibugyo-virus) — *WHO*
 
-### 4. WHO urges governments to protect young people from addiction to tobacco and nicotine products
+### 5. WHO urges governments to protect young people from addiction to tobacco and nicotine products
 
 [原文] Worldwide, at least 40 million children aged 13–15 use tobacco products, and young people’s use of e-cigarettes and nicotine pouches continues to rise. In advance of World No Tobacco Day – 31 May – th
 
 📎 [阅读原文](https://www.who.int/news/item/29-05-2026-who-urges-governments-to-protect-young-people-from-addiction-to-tobacco-and-nicotine-products) — *WHO*
-
-### 5. Experts convened by WHO advise on candidate treatments and vaccines for Ebola disease caused by Bundibugyo virus
-
-[原文] In response to the current outbreak of Ebola disease caused by Bundibugyo virus occurring in the Democratic Republic of the Congo, with cases also reported in Uganda, WHO convened several of its exper
-
-📎 [阅读原文](https://www.who.int/news/item/28-05-2026-experts-convened-by-who-advise-on-candidate-treatments-and-vaccines-for-ebola-disease-caused-by-bundibugyo-virus) — *WHO*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Gothic 1 Remake Review
+### 1. How Close Does Steven Spielberg’s New Movie Come to the Real Disclosure Day Protocols?
+
+[原文] Game, SETI, Match: The real Disclosure Day protocols — how close does Steven Spielberg’s Disclosure Day come to the truth? Just listen…
+
+📎 [阅读原文](https://www.ign.com/articles/steven-spielberg-new-movie-real-disclosure-day-protocols-seti-aliens) — *IGN*
+
+### 2. Gothic 1 Remake Review
 
 [原文] A remake that pulls this RPG classic into the modern era visually and doesn’t touch much else.
 
 📎 [阅读原文](https://www.ign.com/articles/gothic-1-remake-review) — *IGN*
 
-### 2. The Batman Part 2 Officially Begins Filming as Matt Reeves Shares First Set Image
+### 3. The Batman Part 2 Officially Begins Filming as Matt Reeves Shares First Set Image
 
 [原文] After years of waiting and one big delay, director Matt Reeves has confirmed The Batman Part 2 has officially started filming by posting the first image from the set.
 
 📎 [阅读原文](https://www.ign.com/articles/the-batman-part-2-filming-begins-set-image) — *IGN*
 
-### 3. Project Hail Mary 4K and Blu-ray Preorders Are Finally Available on Amazon
+### 4. Project Hail Mary 4K and Blu-ray Preorders Are Finally Available on Amazon
 
 暂无摘要。
 
 📎 [阅读原文](https://www.ign.com/articles/project-hail-mary-4k-blu-ray-where-to-buy) — *IGN*
 
-### 4. Save 40% Off a Popular Magnetic Rower Exercise Machine, Now Under $150 Ahead of Father's Day
+### 5. Save 40% Off a Popular Magnetic Rower Exercise Machine, Now Under $150 Ahead of Father's Day
 
 [原文] Cardiovascular and full-body resistance training in a compact, affordable package.
 
 📎 [阅读原文](https://www.ign.com/articles/magnetic-rower-exercise-machine-deal-amazon-fathers-day-sale) — *IGN*
-
-### 5. Expand Your Home Gym With This Adjustable Weight Bench for Just $38 Shipped on Amazon
-
-[原文] The perfect complement to your dumbbells.
-
-📎 [阅读原文](https://www.ign.com/articles/expand-your-home-gym-with-this-adjustable-weight-bench-deal-amazon-fathers-day-sale) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Ultimate Harbor Freight Go-Kart Engine Cost $8,725 to Build—For Real
+### 1. Someone Crashed a McLaren GT, So Why Not Buy the Carbon Fiber Shell and Turn It Into a Race Car Bed?
+
+[原文] Comparing the asking price with the original MSRP of a McLaren GT, you're technically getting a lot of car for your money.
+The post Someone Crashed a McLaren GT, So Why Not Buy the Carbon Fiber Shell 
+
+📎 [阅读原文](https://www.thedrive.com/news/someone-crashed-a-mclaren-gt-so-why-not-buy-the-carbon-fiber-shell-and-turn-it-into-a-race-car-bed) — *The Drive*
+
+### 2. Ultimate Harbor Freight Go-Kart Engine Cost $8,725 to Build—For Real
 
 [原文] A Predator 670 engine costs $950 on its own, and the builder didn't stop there as he added Holley Sniper EFI, a turbo, billet internals, and way more.
 The post Ultimate Harbor Freight Go-Kart Engine C
 
 📎 [阅读原文](https://www.thedrive.com/news/ultimate-harbor-freight-go-kart-engine-cost-8725-to-build-for-real) — *The Drive*
 
-### 2. Want Faster Lap Times? Try Leaving Traction Control On
+### 3. Want Faster Lap Times? Try Leaving Traction Control On
 
 [原文] Can modern traction control systems make you faster? Our pro driver weighs in. 
 The post Want Faster Lap Times? Try Leaving Traction Control On appeared first on The Drive.
 
 📎 [阅读原文](https://www.thedrive.com/news/want-faster-lap-times-try-leaving-traction-control-on) — *The Drive*
 
-### 3. The BMW M Concept Neue Klasse Is the Best Looking M Car in Years
+### 4. The BMW M Concept Neue Klasse Is the Best Looking M Car in Years
 
 [原文] BMW has given us a preview of how we can expect the electric M3 to look, and it's saying all the right things.
 The post The BMW M Concept Neue Klasse Is the Best Looking M Car in Years appeared first 
 
 📎 [阅读原文](https://www.thedrive.com/news/the-bmw-m-concept-neue-klasse-is-the-best-looking-m-car-in-years) — *The Drive*
 
-### 4. Rivian’s CEO Says There’s a Big Market for a Small Electric Truck
+### 5. Rivian’s CEO Says There’s a Big Market for a Small Electric Truck
 
 [原文] Rivian CEO RJ Scaringe told The Drive there's a big opportunity for a smaller electric truck — but don't hold out for an R2T anytime soon.
 The post Rivian&#8217;s CEO Says There&#8217;s a Big Market f
 
 📎 [阅读原文](https://www.thedrive.com/news/rivians-ceo-says-theres-a-big-market-for-a-small-electric-truck) — *The Drive*
-
-### 5. Ford Says 405-HP Ranger Raptor ‘Might Already Have Too Much Power’: TDS
-
-[原文] Don't hold your breath for a Ford Bronco Raptor R or Ranger Raptor R, either.
-The post Ford Says 405-HP Ranger Raptor &#8216;Might Already Have Too Much Power&#8217;: TDS appeared first on The Drive.
-
-📎 [阅读原文](https://www.thedrive.com/news/ford-says-405-hp-ranger-raptor-might-already-have-too-much-power-tds) — *The Drive*
 
 ---
 
@@ -439,35 +439,35 @@ The post Ford Says 405-HP Ranger Raptor &#8216;Might Already Have Too Much Power
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Katy Perry and 10-Year-Old Singer Tius Bring Heartfelt ‘Wonder’ Performance to the World Cup
+### 1. BTS Will Break Down Their Song Lyrics and Favorite Korean Dishes in Upcoming Book Releases
+
+[原文] The supergroup has announced a slate of book releases publishing in partnership with Hachette Book Group's Running Press, CAKE Corp, and BigHit Music beginning in September
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/bts-book-series-running-press-bighit-1235576779/) — *Rolling Stone*
+
+### 2. Katy Perry and 10-Year-Old Singer Tius Bring Heartfelt ‘Wonder’ Performance to the World Cup
 
 [原文] During the touching performance, Lukas sang the opening and closing lines of the song
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/katy-perry-tius-perform-world-cup-2026-1235577061/) — *Rolling Stone*
 
-### 2. Future and Tyla Declare ‘Game Time’ at Stunning World Cup Opening Ceremony in Los Angeles
+### 3. Future and Tyla Declare ‘Game Time’ at Stunning World Cup Opening Ceremony in Los Angeles
 
 [原文] Lisa, Anitta, and Rema also delivered their high wattage "Goals" track for the celebration
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/future-tyla-lisa-anitta-rema-perform-world-cup-2026-1235574220/) — *Rolling Stone*
 
-### 3. Alanis Morissette and Michael Bublé Kick Off World Cup in Canada With Star-Studded Opening Ceremony
+### 4. Alanis Morissette and Michael Bublé Kick Off World Cup in Canada With Star-Studded Opening Ceremony
 
 [原文] The star-studded performance came ahead of team Canada facing off against Bosnia and Herzegovina
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/world-cup-canada-alanis-morissette-michael-buble-1235574174/) — *Rolling Stone*
 
-### 4. Knicks’ Comeback Win Sparks Huge Spike in ‘Empire State of Mind’ Streaming
+### 5. Knicks’ Comeback Win Sparks Huge Spike in ‘Empire State of Mind’ Streaming
 
 [原文] Improbable Game 4 win had New Yorkers celebrating with Jay-Z and Alicia Keys’ 2009 single
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/knicks-comeback-win-spike-empire-state-of-mind-streaming-1235576852/) — *Rolling Stone*
-
-### 5. At the 2026 Songwriters Hall of Fame, Even Legends Had Notes on the Music Business
-
-[原文] Taylor Swift, Alanis Morissette, and Raye were among the honorees at the gala dinner, which also became a forum for concerns about credits, royalties, and writers’ rights
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/songwriters-hall-of-fame-2026-taylor-swift-raye-music-business-1235576797/) — *Rolling Stone*
 
 ---
 
@@ -495,17 +495,17 @@ The post Ford Says 405-HP Ranger Raptor &#8216;Might Already Have Too Much Power
 
 📎 [阅读原文](https://skift.com/2026/06/12/navan-says-rivals-mergers-are-sending-it-more-clients/) — *Skift*
 
-### 4. Kerten CEO Says First India Property by Year-End, Pipeline Likely to Exceed 1,000-Key Target: Exclusive
+### 4. Hotels Spent $100 Million Fighting OTAs. Did It Actually Work?
+
+[原文] If AI agents become the next distribution layer, does the decade-long battle between hotels and OTAs even matter anymore?
+
+📎 [阅读原文](https://skift.com/2026/06/12/hotels-tried-to-cut-out-expedia-heres-what-happened/) — *Skift*
+
+### 5. Kerten CEO Says First India Property by Year-End, Pipeline Likely to Exceed 1,000-Key Target: Exclusive
 
 [原文] India's hotel market doesn't need another global chain pretending to be local. Kerten Hospitality's entire bet is that developers have finally figured that out too.
 
 📎 [阅读原文](https://skift.com/2026/06/12/kerten-ceo-says-first-india-property-by-year-end-pipeline-likely-to-exceed-1000-key-target-exclusive/) — *Skift*
-
-### 5. Travelport Launches TripServices to Power AI Travel Booking
-
-[原文] AI agents can already help travelers dream up trips. Booking them is harder. Travelport is betting that cleaner access to flights, hotels, and extras will keep travel sellers from looking elsewhere.
-
-📎 [阅读原文](https://skift.com/2026/06/11/travelport-tripservices-cloud-apis-ai-travel/) — *Skift*
 
 ---
 
@@ -515,7 +515,7 @@ The post Ford Says 405-HP Ranger Raptor &#8216;Might Already Have Too Much Power
 - **💰 经济财经**: CNBC
 - **💻 科技**: TechCrunch
 - **🔬 科学**: Science Daily
-- **⚽ 体育**: ESPN
+- **⚽ 体育**: BBC Sport
 - **🎬 娱乐**: Variety
 - **🏥 健康**: WHO
 - **🎮 游戏**: IGN
@@ -528,6 +528,7 @@ The post Ford Says 405-HP Ranger Raptor &#8216;Might Already Have Too Much Power
 ## ⚠️ 今日故障源
 
 - **🚗 汽车**: Roadshow, Autocar
+- **✈️ 旅游**: Travel Off Path
 
 ---
 
