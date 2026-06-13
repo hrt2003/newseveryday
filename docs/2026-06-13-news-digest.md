@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年06月13日** | 生成时间: 2026-06-13 12:11
+**2026年06月13日** | 生成时间: 2026-06-13 17:22
 
 ---
 
@@ -60,29 +60,29 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/06/12/iran-deal-trump-pakistan-sharif.html) — *CNBC*
 
-### 2. Anthropic disables access to Fable 5 and Mythos 5 to comply with government directive
+### 2. Switzerland is voting on whether to cap its population at 10 million. Here's what to know
+
+[原文] Switzerland votes on a population cap that could tighten immigration and put its EU free-movement agreement under pressure.
+
+📎 [阅读原文](https://www.cnbc.com/2026/06/13/switzerland-population-cap-referendum-immigration.html) — *CNBC*
+
+### 3. Anthropic disables access to Fable 5 and Mythos 5 to comply with government directive
 
 [原文] Anthropic said it disabled access to its Fable 5 and Mythos 5 models to comply with an export control directive from the U.S. government.
 
 📎 [阅读原文](https://www.cnbc.com/2026/06/12/anthropic-disables-access-to-fable-5-and-mythos-5-to-comply-with-government-directive.html) — *CNBC*
 
-### 3. Paramount-WBD merger wins approval from DOJ
+### 4. Former Tesla board member says SpaceX needs to achieve 2 of its 3 moonshots to keep its valuation
+
+[原文] SpaceX has achieved its goal of becoming the largest IPO on record.
+
+📎 [阅读原文](https://www.cnbc.com/2026/06/12/spacex-moonshots-valuation-westly-tesla.html) — *CNBC*
+
+### 5. Paramount-WBD merger wins approval from DOJ
 
 [原文] The DOJ approval is an important milestone for the roughly $110 billion deal, though it could still face legal challenges from state attorneys general.
 
 📎 [阅读原文](https://www.cnbc.com/2026/06/12/paramount-wbd-merger-approval-doj.html) — *CNBC*
-
-### 4. Small investors scrambled to get in on the SpaceX IPO, even as some believe the valuation is 'stupid'
-
-[原文] SpaceX set a fixed price of $135 per share in the leadup to its IPO on Friday, placing its valuation at $1.77 trillion. Shares rallied more than 25%.
-
-📎 [阅读原文](https://www.cnbc.com/2026/06/12/small-investors-scrambled-to-get-in-on-the-spacex-ipo-even-as-some-believe-the-valuation-is-stupid.html) — *CNBC*
-
-### 5. Trump name must be removed from Kennedy Center by Friday night as appeals court rejects delay
-
-[原文] President Donald Trump had asked a federal appeals court to suspend a lower-court order that his name before removed from the performing arts center.
-
-📎 [阅读原文](https://www.cnbc.com/2026/06/12/trump-loses-kennedy-center-name.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI
+### 1. Andrew Yang thinks the next big startup opportunity is lowering the cost of living
+
+[原文] Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back.
+
+📎 [阅读原文](https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/) — *TechCrunch*
+
+### 2. Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI
 
 [原文] Anthropic isn't hiding its frustration. "We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people," the 
 
 📎 [阅读原文](https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/) — *TechCrunch*
 
-### 2. SpaceX IPO: Live updates on everything you need to know
+### 3. SpaceX IPO: Live updates on everything you need to know
 
 [原文] TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and mayb
 
 📎 [阅读原文](https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/) — *TechCrunch*
 
-### 3. Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it
+### 4. Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it
 
 [原文] A new report suggests the unit, which employs 6,500 people, is on the verge of revolt.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/) — *TechCrunch*
 
-### 4. Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google
+### 5. Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google
 
 [原文] The tech giant said a group called "Outsider Enterprise" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/) — *TechCrunch*
-
-### 5. SpaceX IPO closes up 19% and delivers the world’s first trillionaire
-
-[原文] The company made its heavily anticipated debut on Friday, trading higher than its initial $135 IPO price.
-
-📎 [阅读原文](https://techcrunch.com/2026/06/12/spacex-ipo-closes-up-19-and-delivers-the-worlds-first-trillionaire/) — *TechCrunch*
 
 ---
 
@@ -180,11 +180,11 @@
 
 📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49045006/usmnt-player-ratings-balogun-pulisic-team-best-showings-lead-dazzling-world-cup-opener) — *ESPN*
 
-### 3. U.S. starts in style with largest WC win since 193...
+### 3. Balogun living WC 'dream' as U.S. choice pays off
 
-[原文] Folarin Balogun scored twice and Gio Reyna struck a sensational goal late on as the U.S. beat Paraguay 4-1 to start the World Cup.
+[原文] USMNT striker Folarin Balogun, who could have played for England or Nigeria, said his two goals in Friday's 4-1 World Cup victory over Paraguay made for a "dreamy night."
 
-📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49045878/usa-paraguay-2026-world-cup-balogun-pulisic-reyna) — *ESPN*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49047212/folarin-balogun-usa-world-cup-2026-goals-paraguay) — *ESPN*
 
 ### 4. Pulisic subbed off at halftime, 'hoping it's nothi...
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. DGA Deal Lands Health Plan Gains, Streaming Residual Hikes and Responds to TV Slump by Limiting Actors and Others From Taking Director Jobs
+### 1. Shanghai Film Fest Launches Tech Unit, Reveals AI Industry Push
+
+[原文] The 28th Shanghai International Film Festival opened on June 12 with the launch of a new Technology Creation and Fabrication Unit and a parallel press conference for the Shanghai High-Tech Films and T
+
+📎 [阅读原文](https://variety.com/2026/film/festivals/shanghai-film-fest-tech-unit-ai-industry-push-1236780477/) — *Variety*
+
+### 2. Zhang Disha’s Sci-Fi ‘The Decisive Moment’ to Close Shanghai Film Festival
+
+[原文] &#8220;The Decisive Moment,&#8221; a sci-fi feature directed by Zhang Disha and produced by Huang Jianxin, will world premiere as the closing film of the 28th Shanghai International Film Festival on J
+
+📎 [阅读原文](https://variety.com/2026/film/festivals/zhang-disha-the-decisive-moment-shanghai-film-festival-closing-film-1236780472/) — *Variety*
+
+### 3. DGA Deal Lands Health Plan Gains, Streaming Residual Hikes and Responds to TV Slump by Limiting Actors and Others From Taking Director Jobs
 
 [原文] The Directors Guild of America has secured a provision in its new contract that limits actors and others who work on TV series from directing episodes, as it seeks to preserve jobs for career TV direc
 
 📎 [阅读原文](https://variety.com/2026/film/news/dga-deal-terms-tv-actors-jobs-directors-1236780373/) — *Variety*
 
-### 2. Viral ‘Open Door’ YouTube Short to be Adapted Into Feature, Earns Six-Figure Development Deal (EXCLUSIVE)
+### 4. Viral ‘Open Door’ YouTube Short to be Adapted Into Feature, Earns Six-Figure Development Deal (EXCLUSIVE)
 
 [原文] &#8220;Open Door,&#8221; Kevin Cate&#8217;s viral sci-fi short with nearly 15 million views across YouTube shorts, TikTok and Instagram, will be adapted into a feature-length film through a six-figure
 
 📎 [阅读原文](https://variety.com/2026/film/news/open-door-youtube-short-feature-development-deal-1236779948/) — *Variety*
 
-### 3. ‘The Furious’: Inside the Balletic and Brutal Fight Scenes, From Mixing Martial Art Styles to Taking 18 Days to Shoot the Insane Final Showdown
+### 5. ‘The Furious’: Inside the Balletic and Brutal Fight Scenes, From Mixing Martial Art Styles to Taking 18 Days to Shoot the Insane Final Showdown
 
 [原文] While the premise of &#8220;The Furious&#8221; is simple —&#160;a father named Wang Wei (Xie Miao) must find his daughter after she is kidnapped by a child trafficking ring —&#160;it&#8217;s the sprin
 
 📎 [阅读原文](https://variety.com/2026/film/features/the-furious-fight-scenes-ending-brawl-1236768730/) — *Variety*
-
-### 4. WABC-TV’s Bill Ritter Departs ‘Eyewitness News’ Anchor Job After Being Diagnosed With Early Stage Alzheimer’s
-
-[原文] Longtime WABC-TV/ABC7 news anchor Bill Ritter is stepping down from the &#8220;Eyewitness News&#8221; chair after being diagnosed with early stage Alzheimer&#8217;s. Ritter announced on Friday&#8217;s
-
-📎 [阅读原文](https://variety.com/2026/tv/news/bill-ritter-alzheimers-eyewitness-news-wabc-anchor-1236780380/) — *Variety*
-
-### 5. ‘Blue Film’ Star Kieron Moore Says Movie’s Kink and Taboo Subjects Were ‘Never a Shock’ to Him Because He Has ‘Super Sex Positive’ Friends
-
-[原文] SPOILER ALERT: This story contains significant details about “Blue Film,” now available on VOD. Kieron Moore hopes that people don’t know much about “Blue Film” before they watch the movie. “I think i
-
-📎 [阅读原文](https://variety.com/2026/film/columns/blue-film-kieron-moore-kink-taboo-sex-1236772076/) — *Variety*
 
 ---
 
@@ -244,35 +244,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Safe blood supply improves as voluntary donations exceed 85%, but many people still lack access
-
-[原文] New data from the World Health Organization (WHO) show sustained progress towards safer blood supplies globally but also highlight persistent inequalities in access to safe blood and weaknesses in gov
-
-📎 [阅读原文](https://www.who.int/news/item/12-06-2026-safe-blood-supply-improves-as-voluntary-donations-exceed-85---but-many-people-still-lack-access) — *WHO*
-
-### 2. Africa CDC and WHO launch joint continental Ebola response plan
+### 1. Africa CDC and WHO launch joint continental Ebola response plan
 
 [原文] The Africa Centres for Disease Control and Prevention (Africa CDC) and the World Health Organization (WHO) today launched a joint continental preparedness and response plan on the ongoing Ebola outbre
 
 📎 [阅读原文](https://www.who.int/news/item/05-06-2026-africa-cdc-and-who-launch-joint-continental-ebola-response-plan) — *WHO*
 
-### 3. Unsafe food causes 866 million illnesses and 1.5 million deaths annually, young children at highest risk
+### 2. Unsafe food causes 866 million illnesses and 1.5 million deaths annually, young children at highest risk
 
 [原文] Children aged less than five years face almost three times the risk of illness from unsafe food than older children and adults, according to new estimates released today by the World Health Organizati
 
 📎 [阅读原文](https://www.who.int/news/item/04-06-2026-unsafe-food-causes-866-million-illnesses-and-1.5-million-deaths-annually--young-children-at-highest-risk) — *WHO*
 
-### 4. Joint statement by the Government of the Democratic Republic of the Congo and WHO concerning the outbreak of Ebola disease caused by the Bundibugyo virus
+### 3. Joint statement by the Government of the Democratic Republic of the Congo and WHO concerning the outbreak of Ebola disease caused by the Bundibugyo virus
 
 [原文] The Government of the Democratic Republic of the Congo (DRC) and the World Health Organization (WHO) reaffirm their strong partnership and shared commitment to protect the health and well-being of the
 
 📎 [阅读原文](https://www.who.int/news/item/31-05-2026-joint-statement-by-the-government-of-the-democratic-republic-of-the-congo-and-who-concerning-the-outbreak-of-ebola-disease-caused-by-the-bundibugyo-virus) — *WHO*
 
-### 5. WHO urges governments to protect young people from addiction to tobacco and nicotine products
+### 4. WHO urges governments to protect young people from addiction to tobacco and nicotine products
 
 [原文] Worldwide, at least 40 million children aged 13–15 use tobacco products, and young people’s use of e-cigarettes and nicotine pouches continues to rise. In advance of World No Tobacco Day – 31 May – th
 
 📎 [阅读原文](https://www.who.int/news/item/29-05-2026-who-urges-governments-to-protect-young-people-from-addiction-to-tobacco-and-nicotine-products) — *WHO*
+
+### 5. Experts convened by WHO advise on candidate treatments and vaccines for Ebola disease caused by Bundibugyo virus
+
+[原文] In response to the current outbreak of Ebola disease caused by Bundibugyo virus occurring in the Democratic Republic of the Congo, with cases also reported in Uganda, WHO convened several of its exper
+
+📎 [阅读原文](https://www.who.int/news/item/28-05-2026-experts-convened-by-who-advise-on-candidate-treatments-and-vaccines-for-ebola-disease-caused-by-bundibugyo-virus) — *WHO*
 
 ---
 
@@ -363,35 +363,35 @@ The post Ford Says 405-HP Ranger Raptor &#8216;Might Already Have Too Much Power
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Climate Change Culprits Not Addressed by Global Policy
+### 1. A Commercial Space Race Prompts a Thorny Question: Who Owns the Sky?
+
+[原文] The starry night sky has always anchored humanity’s sense of place in a vast universe. It’s a map guiding travelers, a calendar for migrations and harvests, a wellspring of stories. But a surge of com
+
+📎 [阅读原文](https://insideclimatenews.org/news/13062026/commercial-satellite-space-race-pollution/) — *Inside Climate News*
+
+### 2. A Massive Volunteer Network in Florida Works to Save Endangered Sea Turtles
+
+[原文] “Pull! Pull!” shouts Scott Dexter, chanting the cadence for eight men gripping a rope. “Pull!”&#160; With each pull, a 172-pound male loggerhead sea turtle is hoisted higher into the air. It takes sev
+
+📎 [阅读原文](https://insideclimatenews.org/news/13062026/florida-volunteers-work-to-save-endangered-sea-turtles/) — *Inside Climate News*
+
+### 3. ‘Their Breath Was Captured in the Tree’
+
+[原文] From our collaborating partner “Living on Earth,” public radio&#8217;s environmental news magazine, an interview by host Steve Curwood with botanist and author Beronda Montgomery. When plant biologist
+
+📎 [阅读原文](https://insideclimatenews.org/news/13062026/beronda-montgomery-americas-black-botanical-legacy/) — *Inside Climate News*
+
+### 4. The Climate Change Culprits Not Addressed by Global Policy
 
 [原文] Record-high global temperatures aren’t driven only by well-known greenhouse gas culprits. These other emissions, unlike carbon dioxide, don’t have a direct warming effect on their own. Instead, they t
 
 📎 [阅读原文](https://insideclimatenews.org/news/12062026/global-warming-overlooked-pollutants/) — *Inside Climate News*
 
-### 2. Trump’s EPA Unlawfully Cancelled Environmental Justice Grants, Judge Rules
+### 5. Trump’s EPA Unlawfully Cancelled Environmental Justice Grants, Judge Rules
 
 [原文] A federal judge in South Carolina ruled this week that the Trump administration’s termination of environmental justice grants was “illegal.” The decision dealt a setback to efforts to dismantle a Bide
 
 📎 [阅读原文](https://insideclimatenews.org/news/12062026/judge-rules-trump-environmental-justice-grant-cancellations-unlawful/) — *Inside Climate News*
-
-### 3. Hoover Dam Approaches a Hydropower Cliff
-
-[原文] Some day in the next 12 months—maybe in late August, maybe not until next spring— Lake Mead will drop below the critical threshold of 1,035 feet above sea level. That is the water-level elevation at w
-
-📎 [阅读原文](https://insideclimatenews.org/news/12062026/hoover-dam-approaches-a-hydropower-cliff/) — *Inside Climate News*
-
-### 4. Despite Record Renewable Growth, China Is Still Betting on Coal
-
-[原文] China&#8217;s coal power output rose in early 2026, fueling concerns that last year&#8217;s drop in power-sector emissions may be temporary despite record growth in renewable energy. Data from China’s
-
-📎 [阅读原文](https://insideclimatenews.org/news/12062026/china-coal-power-generation-grows/) — *Inside Climate News*
-
-### 5. Threads of Earth’s Underground Fungal Networks Are Long Enough to Reach Beyond the Solar System
-
-[原文] Hidden underground around the world lie 110 quadrillion kilometers of arbuscular mycorrhizal fungal networks—webs of ultra-thin threads that, if connected in a single line, would stretch almost a bill
-
-📎 [阅读原文](https://insideclimatenews.org/news/11062026/earths-massive-underground-fungal-networks/) — *Inside Climate News*
 
 ---
 
