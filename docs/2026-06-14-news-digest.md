@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年06月14日** | 生成时间: 2026-06-14 17:42
+**2026年06月14日** | 生成时间: 2026-06-14 22:11
 
 ---
 
@@ -22,11 +22,11 @@
 
 📎 [阅读原文](https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Switzerland votes on plan to cap population at 10 million
+### 2. Swiss voters reject 10 million population cap, early projections say
 
-[原文] The right-wing Swiss People's Party calls the plan a "sustainability initiative",  but opponents say it is a recipe for chaos.
+[原文] Not all votes have been counted, but the current trend suggests 55% of participants voted against the proposal.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 3. Russian families use AI to 'resurrect' loved ones killed in Ukraine
 
@@ -40,11 +40,11 @@
 
 📎 [阅读原文](https://www.bbc.com/news/articles/c78yw4zw19do?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Author Chimamanda Adichie accuses hospital of stalling review into son's death
+### 5. Tourist train overturns and injures 17 during Cártama tapas festival
 
-[原文] Chimamanda Ngozi Adichie's 21-month old son died in a Lagos hospital, which she says is trying to stop an inquest into the circumstances of his death.
+[原文] Nobody was seriously hurt as a result of the accident in the Spanish town, local authorities say.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/cgk6jzkr0xvo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.com/news/articles/c14yn10jzyeo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump says peace deal will be signed Sunday after Iran said it remains cautious on timing
+### 1. Elon Musk drifted from Larry Page over a decade ago, but their companies are closer than ever
+
+[原文] SpaceX and Google have a long and complicated relationship, but they were both celebrating this week after Elon Musk's company held its blockbuster IPO.
+
+📎 [阅读原文](https://www.cnbc.com/2026/06/14/elon-musk-drifted-from-larry-page-but-spacex-google-closer-than-ever.html) — *CNBC*
+
+### 2. Trump says peace deal will be signed Sunday after Iran said it remains cautious on timing
 
 [原文] President Donald Trump posted on Truth Social that a deal to end the war with Iran will be signed on Sunday.
 
 📎 [阅读原文](https://www.cnbc.com/2026/06/13/trump-iran-deal-strait-of-hormuz.html) — *CNBC*
 
-### 2. From 10% chance of success to $2 trillion market cap: SpaceX's historic IPO
+### 3. A year after Meta tapped Alexandr Wang to build a new AI model, Zuckerberg has to sell it
 
-[原文] After its Nasdaq debut on Friday, SpaceX was the sixth most-valuable U.S. company, despite being a fraction the size by revenue of tech's megacaps.
+[原文] Mark Zuckerberg's mega spending spree began a year ago, when he lured Alexandr Wang to oversee a new AI strategy. The results so far are underwhelming.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/13/from-10percent-chance-of-success-to-2-trillion-spacexs-historic-ipo.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/14/meta-hired-alexandr-wang-to-build-ai-its-zuckerbergs-job-to-sell-it.html) — *CNBC*
 
-### 3. UAE denies 'false' reports of fund transfer to Iran
+### 4. Trump heads to G7 summit in France as world awaits Iran deal
 
-[原文] The statement follows a Reuters report that the UAE has agreed to unlock billions of dollars of frozen funds for Iran.
+[原文] The Iran war has drawn the world's focus, but the G7 is also likely to address Russia's war against Ukraine, which continues to rage in eastern Europe.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/13/uae-denies-false-reports-of-fund-transfer-to-iran.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/14/trump-g7-iran-deal-france-ukraine.html) — *CNBC*
 
-### 4. UK forces board sanctioned Russian shadow fleet oil tanker
+### 5. JetBlue bets big on Fort Lauderdale, from a new airport lounge to an international gateway
 
-[原文] The U.K.'s Ministry of Defence says the SMYRTOS was in the English Channel and will be held off the south coast during investigations.
+[原文] JetBlue faces heavy competition from Miami International Airport, an American Airlines stronghold.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/14/uk-forces-board-sanctioned-russian-shadow-fleet-oil-tanker.html) — *CNBC*
-
-### 5. Switzerland is voting on whether to cap its population at 10 million. Here's what to know
-
-[原文] Switzerland votes on a population cap that could tighten immigration and put its EU free-movement agreement under pressure.
-
-📎 [阅读原文](https://www.cnbc.com/2026/06/13/switzerland-population-cap-referendum-immigration.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/14/jetblue-fort-lauderdale-airport.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. As Anthropic suspends access to new models, India debates its AI future
+### 1. The new Sonos Play has become my go-to desk and kitchen speaker
+
+[原文] The new Sonos Play can act as a portable speaker inside and outside your home.
+
+📎 [阅读原文](https://techcrunch.com/2026/06/14/the-new-sonos-play-has-become-my-go-to-desk-and-kitchen-speaker/) — *TechCrunch*
+
+### 2. As Anthropic suspends access to new models, India debates its AI future
 
 [原文] Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/) — *TechCrunch*
 
-### 2. Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand
+### 3. Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand
 
 [原文] Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/) — *TechCrunch*
 
-### 3. KPMG pulls report on AI usage due to apparent hallucinations
+### 4. KPMG pulls report on AI usage due to apparent hallucinations
 
 [原文] Once again, AI proves to be an unreliable source of information about AI.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/) — *TechCrunch*
 
-### 4. Amazon CEO reportedly raised Anthropic model concerns before government crackdown
+### 5. Amazon CEO reportedly raised Anthropic model concerns before government crackdown
 
 [原文] Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/) — *TechCrunch*
-
-### 5. OpenAI faces investigation from state attorneys general
-
-[原文] It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.
-
-📎 [阅读原文](https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Why Haiti v Scotland was antidote to the ills of world football
+### 1. The Knicks are deserving champs, but their path to...
 
-[原文] It might have been nervy. It might not have been pretty. But Scotland are here. And Scotland have won. Tom English reports from Boston.
+[原文] The New York Knicks, after 53 years of waiting, are finally NBA champions again.
 
-📎 [阅读原文](https://www.bbc.com/sport/football/articles/cdjkdmel292o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/nba/story/_/id/49053284/new-york-knicks-win-2026-nba-finals-path-championship-outlast-east-brunson-towns-hart) — *ESPN*
 
-### 2. What does 1-0 win mean for Scotland's chances of qualification?
+### 2. Knicks cap brilliant run with long-awaited NBA tit...
 
-[原文] With eight third-place finishers advancing to the last 32, might three points be enough for Scotland to make history?
+[原文] During a postseason in which comeback victories had become their specialty, the Knicks completed one of the most dominant playoff runs in NBA history with a title-clinching 94-90 win over the Spurs.
 
-📎 [阅读原文](https://www.bbc.com/sport/football/articles/cvglm8n1nyjo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/nba/story/_/id/49056351/knicks-rally-again-vs-spurs-capture-first-nba-title-1973) — *ESPN*
 
-### 3. Refugee who quit Bayern to create Australia World Cup dream
+### 3. Wemby: Losing in Finals 'biggest lesson of my life...
 
-[原文] Nestory Irankunda was born as a refugee in Tanzania before becoming Australian record breaker with goal in victory over Turkey.
+[原文] Spurs star Victor Wembanyama says he is "not running away" from the pain of losing to the Knicks in the NBA Finals, calling the experience "the biggest learning moment" of his life.
 
-📎 [阅读原文](https://www.bbc.com/sport/football/articles/c33y424vv4zo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/nba/story/_/id/49058872/wemby-says-spurs-losing-finals-biggest-lesson-my-life) — *ESPN*
 
-### 4. Has Vinicius Jr brilliance just papered over the Brazilian cracks?
+### 4. Euphoric fans celebrate Knicks' title across NYC
 
-[原文] Vinicius Jr scores a wonder goal to rescue his side but Brazil's performance against Morocco raises more questions than answers.
+[原文] It was bedlam on Broadway as the Knicks won their first NBA championship in 53 years.
 
-📎 [阅读原文](https://www.bbc.com/sport/football/articles/cjdge0dr9rgo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/nba/story/_/id/49059888/knicks-fans-celebrate-nyc-first-title-53-years) — *ESPN*
 
-### 5. Knicks end 53-year wait for NBA Championship
+### 5. Former defensive lineman Aldon Smith dies at 36
 
-[原文] The New York Knicks win their first NBA Championship since 1973 thanks to a 94-90 win over the San Antonio Spurs.
+[原文] Aldon Smith, who played six seasons in the NFL with the 49ers, Raiders and Cowboys, has died at age 36.
 
-📎 [阅读原文](https://www.bbc.com/sport/basketball/articles/cx2v4rj1ew2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/nfl/story/_/id/49054479/former-nfl-defensive-lineman-aldon-smith-dies-age-36) — *ESPN*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Honor and Arri’s Robot Phone Debuts on Shanghai Film Festival Red Carpet
+### 1. ‘Vikings’ Creator Michael Hirst on Dream Project About Medieval Heretics and New Show ‘Bloodaxe’: ‘It’s a New World’
 
-[原文] Smartphones have crossed into robotic territory. Chinese brand Honor used the opening red carpet of the Shanghai International Film Festival to debut its Robot Phone, a device that marries AI interact
+[原文] Get ready for “Bloodaxe.” “We shot the first season last year and it’s spectacular,” writer and executive producer Michael Hirst, best known for “Vikings,” tells Variety at the Monte-Carlo Television 
 
-📎 [阅读原文](https://variety.com/2026/film/festivals/honor-arri-robot-phone-shanghai-film-festival-1236780822/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/global/vikings-michael-hirst-medieval-heretics-bloodaxe-1236780855/) — *Variety*
 
-### 2. Virginia Woolf Inspires Yan Siyu’s Shanghai Project ‘Outside the Room of My Own’
+### 2. Cannes Winner ‘Minotaur’ Takes Top Prize at Sydney Film Festival
 
-[原文] &#8220;Outside the Room of My Own,&#8221; a debut feature from Chinese filmmaker Yan Siyu starring Lucie Zhang, is showing a work-in-progress cut at SIFF Project during the Shanghai International Film
+[原文] Andrey Zvyagintsev claimed the Sydney Film Prize on Sunday night for &#8220;Minotaur,&#8221; his thriller set against the backdrop of contemporary Russia, as the 73rd Sydney Film Festival wrapped its 
 
-📎 [阅读原文](https://variety.com/2026/film/markets-festivals/virginia-woolf-shanghai-project-outside-the-room-of-my-own-1236780812/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/cannes-winner-minotaur-top-prize-sydney-film-festival-1236780860/) — *Variety*
 
-### 3. Knicks NBA Championship Merch Includes Official Locker Room T-Shirt, Signed Jalen Brunson Basketballs
+### 3. Colman Domingo Tells Sarah Pidgeon He Wishes ‘Euphoria’ Season 3 ‘All Came Out at Once’ as They Unpack Ali and Rue, ‘Love Story’ Fashion and More
 
-[原文] The New York Knicks are the 2026 NBA champions. The Knicks defeated the San Antonio Spurs by a score of 94-90 Saturday, winning the NBA finals series 4-1 and lifting the Larry O&#8217;Brien Trophy for
+[原文] This interview is part of Variety and CNN&#8217;s Actors on Actors series. Watch the full video interview now at CNN.com/Watch (or on the CNN app) and on Variety&#8217;s YouTube channel starting at 11
 
-📎 [阅读原文](https://variety.com/2026/shopping/athletes/where-to-buy-knicks-nba-championship-merch-jalen-brunson-1236780786/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/features/colman-domingo-sarah-pidgeon-euphoria-ending-love-story-fashion-1236764449/) — *Variety*
 
-### 4. U.S. Soccer Men’s National Team Victory Scores Record English-Language World Cup Ratings; Mexico vs. South Africa Biggest in Spanish-Language History
+### 4. The New York Knicks Just Did the Impossible
 
-[原文] The World Cup is off to a record-breaking start for both Fox Sports and Telemundo. According to ratings from Fox Sports, Friday&#8217;s U.S. Soccer Men&#8217;s National Team win over Paraguay scored n
+[原文] This doesn’t feel real. &#160; All New York Knicks fans have known for the last 53 years is heartbreak and humiliation. We were cursed. Jordan. Starks’ 2-18 in Game 7. Reggie. Ewing going down. Missin
 
-📎 [阅读原文](https://variety.com/2026/tv/news/world-cup-us-win-paraguay-record-ratings-fox-telemundo-1236780767/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/sports/news/new-york-knicks-nba-championship-jalen-brunson-new-york-city-victor-wembanyama-1236780815/) — *Variety*
 
-### 5. Seth Rogen Has ‘No Plans’ to Work With James Franco Again and Says They Haven’t Spoken in a ‘Long Time’
+### 5. Berlin, Toronto and Hong Kong Film Festival Chiefs Gather at Shanghai to Champion New Talent
 
-[原文] Seth Rogen recently told The New York Times that he hasn’t spoken to James Franco in a “long time” and has “no plans” to work with him in the future. When asked about where his relationship stands wit
+[原文] The leaders of three of the world&#8217;s most influential film festivals told Shanghai on Sunday that the role of the festival circuit in discovering and developing new voices has never been more cri
 
-📎 [阅读原文](https://variety.com/2026/film/news/seth-rogen-no-plans-work-with-james-franco-havent-spoken-1236780763/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/berlin-toronto-hong-kong-film-festival-chief-shanghai-new-talent-1236780842/) — *Variety*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Canadians in a Garage Might Complete a Range-Extended Ram Before Ram Does
+### 1. Big Trucks Like the Ford Super Duty and Ram HD Eluded Safety Evaluations, Until Now
+
+[原文] The IIHS is finally testing commercial vehicles, and the first round didn't go as badly as you might expect.
+The post Big Trucks Like the Ford Super Duty and Ram HD Eluded Safety Evaluations, Until No
+
+📎 [阅读原文](https://www.thedrive.com/news/big-trucks-like-the-ford-super-duty-and-ram-hd-eluded-safety-evaluations-until-now) — *The Drive*
+
+### 2. Canadians in a Garage Might Complete a Range-Extended Ram Before Ram Does
 
 [原文] Edison Motors' prototype series hybrid pickup is now complete, paving the way for diesel-electric truck conversion kits.
 The post Canadians in a Garage Might Complete a Range-Extended Ram Before Ram D
 
 📎 [阅读原文](https://www.thedrive.com/news/canadians-in-a-garage-might-complete-a-range-extended-ram-before-ram-does) — *The Drive*
 
-### 2. The Most Single Cab Truck Ever Was Built to Haul Construction Materials
+### 3. The Most Single Cab Truck Ever Was Built to Haul Construction Materials
 
 [原文] The DeKalb Lumberjack makes modern work trucks look like luxury SUVs.
 The post The Most Single Cab Truck Ever Was Built to Haul Construction Materials appeared first on The Drive.
 
 📎 [阅读原文](https://www.thedrive.com/news/the-most-single-cab-truck-ever-was-built-to-haul-construction-materials) — *The Drive*
 
-### 3. Someone Illegally Dumped Hundreds of Tires on This Guy’s Property Without Him Knowing
+### 4. Someone Illegally Dumped Hundreds of Tires on This Guy’s Property Without Him Knowing
 
 [原文] The property owner says they showed up in "no more than 90 days," with rows and rows measuring six feet high.
 The post Someone Illegally Dumped Hundreds of Tires on This Guy&#8217;s Property Without H
 
 📎 [阅读原文](https://www.thedrive.com/news/someone-illegally-dumped-hundreds-of-tires-on-this-guys-property-without-him-knowing) — *The Drive*
 
-### 4. Someone Crashed a McLaren GT, So Why Not Buy the Carbon Fiber Shell and Turn It Into a Race Car Bed?
+### 5. Someone Crashed a McLaren GT, So Why Not Buy the Carbon Fiber Shell and Turn It Into a Race Car Bed?
 
 [原文] Comparing the asking price with the original MSRP of a McLaren GT, you're technically getting a lot of car for your money.
 The post Someone Crashed a McLaren GT, So Why Not Buy the Carbon Fiber Shell 
 
 📎 [阅读原文](https://www.thedrive.com/news/someone-crashed-a-mclaren-gt-so-why-not-buy-the-carbon-fiber-shell-and-turn-it-into-a-race-car-bed) — *The Drive*
-
-### 5. Ultimate Harbor Freight Go-Kart Engine Cost $8,725 to Build—For Real
-
-[原文] A Predator 670 engine costs $950 on its own, and the builder didn't stop there as he added Holley Sniper EFI, a turbo, billet internals, and way more.
-The post Ultimate Harbor Freight Go-Kart Engine C
-
-📎 [阅读原文](https://www.thedrive.com/news/ultimate-harbor-freight-go-kart-engine-cost-8725-to-build-for-real) — *The Drive*
 
 ---
 
@@ -439,35 +439,35 @@ The post Ultimate Harbor Freight Go-Kart Engine C
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘Michael’ Is Now the Highest-Grossing Music Biopic of All Time
+### 1. Boy George and Culture Club Brush Off Homophobic Hecklers in New Doc Clip
+
+[原文] The band discuss dealing with skepticism and homophobia from audiences and label executives in Alison Ellwood's new film
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/boy-george-culture-club-homophobic-crowds-doc-clip-1235576644/) — *Rolling Stone*
+
+### 2. See Olivia Rodrigo Surprise No Doubt at Band’s Final Sphere Show
+
+[原文] "I’m just a girl who wants the last hug at the last Sphere show," superfan Rodrigo requests of Gwen Stefani as band's residency wrapped up Saturday
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/olivia-rodrigo-surprise-no-doubt-final-sphere-show-1235577187/) — *Rolling Stone*
+
+### 3. ‘Michael’ Is Now the Highest-Grossing Music Biopic of All Time
 
 [原文] The wildly successful biopic brought in $911.9 million worldwide, besting Bohemian Rhapsody
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/michael-film-highest-grossing-music-biopic-1235577048/) — *Rolling Stone*
 
-### 2. BTS Will Break Down Their Song Lyrics and Favorite Korean Dishes in Upcoming Book Releases
+### 4. BTS Will Break Down Their Song Lyrics and Favorite Korean Dishes in Upcoming Book Releases
 
 [原文] The supergroup has announced a slate of book releases publishing in partnership with Hachette Book Group's Running Press, CAKE Corp, and BigHit Music beginning in September
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/bts-book-series-running-press-bighit-1235576779/) — *Rolling Stone*
 
-### 3. Katy Perry and 10-Year-Old Singer Tius Bring Heartfelt ‘Wonder’ Performance to the World Cup
+### 5. Katy Perry and 10-Year-Old Singer Tius Bring Heartfelt ‘Wonder’ Performance to the World Cup
 
 [原文] During the touching performance, Lukas sang the opening and closing lines of the song
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/katy-perry-tius-perform-world-cup-2026-1235577061/) — *Rolling Stone*
-
-### 4. Future and Tyla Declare ‘Game Time’ at Stunning World Cup Opening Ceremony in Los Angeles
-
-[原文] Lisa, Anitta, and Rema also delivered their high wattage "Goals" track for the celebration
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/future-tyla-lisa-anitta-rema-perform-world-cup-2026-1235574220/) — *Rolling Stone*
-
-### 5. Alanis Morissette and Michael Bublé Kick Off World Cup in Canada With Star-Studded Opening Ceremony
-
-[原文] The star-studded performance came ahead of team Canada facing off against Bosnia and Herzegovina
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/world-cup-canada-alanis-morissette-michael-buble-1235574174/) — *Rolling Stone*
 
 ---
 
@@ -515,7 +515,7 @@ The post Ultimate Harbor Freight Go-Kart Engine C
 - **💰 经济财经**: CNBC
 - **💻 科技**: TechCrunch
 - **🔬 科学**: Science Daily
-- **⚽ 体育**: BBC Sport
+- **⚽ 体育**: ESPN
 - **🎬 娱乐**: Variety
 - **🏥 健康**: WHO
 - **🎮 游戏**: IGN
