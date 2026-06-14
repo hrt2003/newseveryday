@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年06月14日** | 生成时间: 2026-06-14 03:42
+**2026年06月14日** | 生成时间: 2026-06-14 12:27
 
 ---
 
@@ -28,23 +28,23 @@
 
 📎 [阅读原文](https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Married at First Sight Australia stars not told partners had drug and violence convictions
+### 3. Nigerian author accuses hospital of stalling review into her son's death
 
-[原文] Stars of the hit TV show say they did not know their on-screen husbands had previous convictions.
+[原文] Chimamanda Ngozi Adichie's 21-month old son died in a Lagos hospital, which she says is trying to stop an inquest into the circumstances of his death.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/clypy0ndvjlo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.com/news/articles/cgk6jzkr0xvo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut
+### 4. Ticketmaster says Knicks fans won't be locked out of game after last-minute panic
 
-[原文] Musk is now worth $1.11tn according to the Bloomberg rich list, while SpaceX listed on the Nasdaq stock exchange with a value of $2.2tn.
+[原文] An note on the Ticketmaster website for buying tickets to the game caused confusion and backlash among New Yorkers.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.com/news/articles/c5yz7gj4x3yo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. US kills leader of Venezuela's Tren de Aragua gang in airstrike, Trump says
+### 5. Vincent's parents 'never say he's good enough' - so he turned to a middle-aged couple online
 
-[原文] Niño Guerrero was killed in a "swift and lethal kinetic strike," the US President wrote in a social media post.
+[原文] A niche group of content creators called "virtual parents" have become hugely popular among young people.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/cp36z37knlko?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.com/news/articles/cpq3dnr5vlzo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Amazon CEO reportedly raised Anthropic model concerns before government crackdown
+### 1. As Anthropic suspends access to new models, India debates its AI future
+
+[原文] Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.
+
+📎 [阅读原文](https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/) — *TechCrunch*
+
+### 2. Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand
+
+[原文] Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.
+
+📎 [阅读原文](https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/) — *TechCrunch*
+
+### 3. KPMG pulls report on AI usage due to apparent hallucinations
+
+[原文] Once again, AI proves to be an unreliable source of information about AI.
+
+📎 [阅读原文](https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/) — *TechCrunch*
+
+### 4. Amazon CEO reportedly raised Anthropic model concerns before government crackdown
 
 [原文] Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/) — *TechCrunch*
 
-### 2. OpenAI faces investigation from state attorneys general
+### 5. OpenAI faces investigation from state attorneys general
 
 [原文] It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/) — *TechCrunch*
-
-### 3. This thin under-pillow speaker helped me fall asleep without earbuds
-
-[原文] I’ve struggled with insomnia since I was very young. Like many chronic overthinkers, I tend to fall asleep best when my mind is occupied by something else, such as podcasts, YouTube compilations, or m
-
-📎 [阅读原文](https://techcrunch.com/2026/06/13/this-thin-under-pillow-speaker-helped-me-fall-asleep-without-earbuds/) — *TechCrunch*
-
-### 4. The FBI built its own replica small town to simulate real-world cyberattacks
-
-[原文] Hidden inside a building in Alabama, the FBI has created its own small town as a dedicated cyber training ground for simulating cyberattacks.
-
-📎 [阅读原文](https://techcrunch.com/2026/06/13/the-fbi-built-its-own-replica-small-town-to-simulate-real-world-cyberattacks/) — *TechCrunch*
-
-### 5. Andrew Yang thinks the next big startup opportunity is lowering the cost of living
-
-[原文] Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back.
-
-📎 [阅读原文](https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Harden charged with unlawful carrying of weapon
+### 1. Has Vinicius Jr brilliance just papered over the Brazilian cracks?
 
-[原文] Cavaliers guard James Harden was arrested early Saturday morning in Houston and has been charged with a misdemeanor unlawful carrying of a weapon.
+[原文] Vinicius Jr scores a wonder goal to rescue his side but Brazil's performance against Morocco raises more questions than answers.
 
-📎 [阅读原文](https://www.espn.com/nba/story/_/id/49051311/cavaliers-harden-charged-unlawful-carrying-weapon) — *ESPN*
+📎 [阅读原文](https://www.bbc.com/sport/football/articles/cjdge0dr9rgo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Pereira 251 pounds for UFC Freedom 250 at WH
+### 2. McGinn fires Scotland to first World Cup win for 36 years
 
-[原文] MMA star Alex Pereira tipped the scales at 251 pounds Saturday, just over 24 hours before he meets Ciryl Gane for the heavyweight title at UFC Freedom 250 at the White House on Sunday night.
+[原文] John McGinn's goal was enough as Scotland beat Haiti 1-0 at the Boston Stadium to record their first win at a World Cup for 36 years.
 
-📎 [阅读原文](https://www.espn.com/mma/story/_/id/49051254/pereira-tips-scales-251-lbs-ufc-freedom-250-white-house) — *ESPN*
+📎 [阅读原文](https://www.bbc.com/sport/football/videos/cvgq4j59rw1o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Police dress as World Cup mascots for drug raid
+### 3. McGinn 'beaming with pride' - and hopes kids around Scotland are too
 
-[原文] Police in Peru took a novel approach to clamping down on drug trafficking on Wednesday as they conducted a raid in Lima disguised as the 2026 World Cup mascots.
+[原文] Scotland's John McGinn says his "scuffed" goal which downed Haiti in their World Cup opener leaves him "beaming with pride".
 
-📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49048786/peruvian-police-world-cup-mascots-disguise-drugs-raid) — *ESPN*
+📎 [阅读原文](https://www.bbc.com/sport/football/articles/cy06p3xke5lo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Dempsey slams Marsch over anthem: Stay in lane
+### 4. Ruthless Raducanu powers into Queen's final
 
-[原文] United States legend Clint Dempsey had some choice words for former national team assistant Jesse Marsch, who suggested Thursday that some American players needed encouragement to sing the anthem ahea
+[原文] An inspired Emma Raducanu wins twice in a day to reach the Queen's final but fellow Briton Katie Boulter loses her semi-final.
 
-📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49044184/dempsey-slams-marsch-us-anthem-claim) — *ESPN*
+📎 [阅读原文](https://www.bbc.com/sport/tennis/articles/crlwkx2j5nyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Balogun living WC 'dream' as U.S. choice pays off
+### 5. McGinn gives Scotland the lead against Haiti
 
-[原文] USMNT striker Folarin Balogun, who could have played for England or Nigeria, said his two goals in Friday's 4-1 World Cup victory over Paraguay made for a "dreamy night."
+[原文] John McGinn puts Scotland 1-0 up against Haiti in their Group C opener at the Boston Stadium.
 
-📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49047212/folarin-balogun-usa-world-cup-2026-goals-paraguay) — *ESPN*
+📎 [阅读原文](https://www.bbc.com/sport/football/videos/c5yzv2v48lqo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. How Alien Conspiracy Theory Got Respectable — and Brought America Back to Magical Thinking
+### 1. U.S. Soccer Men’s National Team Victory Scores Record English-Language World Cup Ratings; Mexico vs. South Africa Biggest in Spanish-Language History
 
-[原文] &#8220;Disclosure&#8221; has become a cult word. It shouldn’t be, since all it means, technically, is to reveal something. But the new wave of alien conspiracy theorists have made &#8220;disclosure&#8
+[原文] The World Cup is off to a record-breaking start for both Fox Sports and Telemundo. According to ratings from Fox Sports, Friday&#8217;s U.S. Soccer Men&#8217;s National Team win over Paraguay scored n
 
-📎 [阅读原文](https://variety.com/2026/film/columns/how-alien-conspiracy-theory-got-respectable-disclosure-day-1236780665/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/world-cup-us-win-paraguay-record-ratings-fox-telemundo-1236780767/) — *Variety*
 
-### 2. Colman Domingo on Working With Steven Spielberg on ‘Disclosure Day’ and Believing in Aliens: ‘It Can’t Just Be Us’
+### 2. Seth Rogen Has ‘No Plans’ to Work With James Franco Again and Says They Haven’t Spoken in a ‘Long Time’
 
-[原文] 2026 might very well be the year of Colman Domingo. He’s in the hit Michael Jackson biopic “Michael,” and has recently wrapped up his role as Ali on HBO’s “Euphoria.” He also stars in Netflix’s “The F
+[原文] Seth Rogen recently told The New York Times that he hasn’t spoken to James Franco in a “long time” and has “no plans” to work with him in the future. When asked about where his relationship stands wit
 
-📎 [阅读原文](https://variety.com/2026/film/news/colman-domingo-steven-spielberg-disclosure-day-aliens-1236764073/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/seth-rogen-no-plans-work-with-james-franco-havent-spoken-1236780763/) — *Variety*
 
-### 3. Italy’s ‘King of Cashmere’ Brunello Cucinelli on Taking Giuseppe Tornatore’s Docufilm About His Life to the Shanghai Film Fest: ‘It Can Connect With the Chinese Mindset’
+### 3. Bruce Springsteen Apologizes for Refusing to Allow His Song in Bono’s Gap Commercial, Tells U2 Frontman: ‘I Should Have F—ing Done It!’
 
-[原文] After premiering at Rome&#8217;s Cinecittà Studios and Lincoln Center in New York, Oscar winner Giuseppe Tornatore&#8217;s docudrama, &#8220;Brunello: The Gracious Visionary&#8221; – about Brunello Cu
+[原文] Bono gave Bruce Springsteen a hard time for refusing to license his song &#8220;Girls in Their Summer Clothes&#8221; for a commercial for the clothing brand Gap in partnership with Bono&#8217;s AIDS f
 
-📎 [阅读原文](https://variety.com/2026/film/festivals/cashmere-brunello-cucinelli-tornatore-shanghai-chinese-1236780494/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/bruce-springsteen-apologizes-to-bono-refusing-commercial-1236780748/) — *Variety*
 
-### 4. Wanda Sykes Says Bill Maher Confronted Her About Golden Globes Diss: ‘It Was Clearly a Joke’
+### 4. Amy Adams Shut Down a ‘Graphic’ Sketch Idea While Hosting ‘SNL’ to Protect ‘Young Girls That Were Watching “Enchanted”‘
 
-[原文] Wanda Sykes says Bill Maher confronted her after she dissed him on the Golden Globes stage in January. Presenting the award for best performance in stand-up comedy, Sykes joked, &#8220;There’s some pe
+[原文] Amy Adams said during a recent appearance on “Late Night With Seth Meyers” that while hosting “Saturday Night Live” in 2008, she turned down a “graphic” sketch idea from Andy Samberg to protect the yo
 
-📎 [阅读原文](https://variety.com/2026/tv/news/bill-maher-confronted-wanda-sykes-golden-globes-diss-1236780132/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/amy-adams-graphic-sketch-snl-young-girls-enchanted-1236780724/) — *Variety*
 
-### 5. Tyra Banks Sues Netflix for Defamation, Alleges ‘Surgical Manipulation’ of Her ‘Reality Check: Inside America’s Next Top Model’ Interview
+### 5. Here’s Where to Watch Jesse Rodriguez vs. Antonio Vargas Boxing Live Online
 
-[原文] Tyra Banks sued Netflix on Saturday for defamation, claiming her testimony was manipulated for the streamer&#8217;s recent “America’s Next Top Model” docuseries. Banks is suing Netflix, 89 Blocks Hold
+[原文] In a title bout for the championship, San Antonio-native Jesse &#8220;Bam&#8221; Rodriguez takes on Houstonian boxer Antonio Vargas in a 12-round match. What&#8217;s on the line? Vargas&#8217; WBA ban
 
-📎 [阅读原文](https://variety.com/2026/tv/news/tyra-banks-sues-netflix-defamation-americas-next-top-model-1236780678/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/shopping/news/how-to-watch-jesse-rodriguez-vs-antonio-vargas-live-boxing-online-1236769997/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Jesse Eisenberg Turned Down The Social Reckoning Because He 'Has His Problems With' Mark Zuckerberg, Aaron Sorkin Says
+### 1. Rockstar Co-Founder Dan Houser Says There’s No Right Way to Play an Open-World Game
 
-[原文] The Social Reckoning writer and director Aaron Sorkin spent three days trying to convince Jesse Eisenberg to reprise his role as Facebook CEO Mark Zuckerberg before he ultimately turned him down.
+[原文] Absurd Ventures co-founders Dan Houser and Lazlow spoke on a panel at the 2026 Tribeca Festival about making open-world video games and interconnected multimedia universes.
 
-📎 [阅读原文](https://www.ign.com/articles/jesse-eisenberg-turned-down-the-social-reckoning-because-he-has-his-problems-with-mark-zuckerberg-aaron-sorkin-says) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/rockstar-co-founder-dan-houser-says-theres-no-right-way-to-play-an-open-world-game-tribeca-festival-2026) — *IGN*
 
-### 2. Xbox Reportedly Speeding Up New Elder Scrolls, Fallout, and Halo Games as Microsoft Leaves Spinning Off the Business on the Table
+### 2. Microsoft CEO Says 'There's More Monetization of Xbox Games Happening on YouTube Than at Microsoft'
 
-[原文] A new report has claimed Xbox CEO Asha Sharma is speeding up development on new Halo, The Elder Scrolls, and Fallout games as Microsoft considers restructuring or spinning off its gaming branch.
+[原文] Microsoft CEO Satya Nadella said he believes "there's more monetization of Xbox games happening on YouTube" than at its own company, following Xbox boss Asha Sharma's recent commitment to "reset" the 
 
-📎 [阅读原文](https://www.ign.com/articles/xbox-reportedly-speeding-up-new-elder-scrolls-fallout-and-halo-games-as-microsoft-leaves-spinning-off-the-business-on-the-table) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/microsoft-ceo-says-theres-more-monetization-of-xbox-games-happening-on-youtube-than-at-microsoft) — *IGN*
 
-### 3. Assassin's Creed: Black Flag Resynced New Content Detailed in Developer Deep Dive
+### 3. George Miller Reportedly Wants to Make One More Mad Max Movie and a TV Show Before Selling the Franchise
 
-[原文] Ubisoft has published a new Assassin's Creed: Black Flag Resynced deep dive, promising loads of new content that wasn't present in the original release.
+[原文] Mad Max mastermind George Miller has reportedly begun seeking out Hollywood studios in hopes of making one last Mad Max movie, as well as a TV show, before he sells the rights to his universe to someo
 
-📎 [阅读原文](https://www.ign.com/articles/assassins-creed-black-flag-resynced-new-content-detailed-in-developer-deep-dive) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/george-miller-reportedly-wants-to-make-one-more-mad-max-movie-and-a-tv-show-before-selling-the-franchise) — *IGN*
 
-### 4. Every Pokémon Switch 2 Controller You Can Buy
+### 4. X-Men '97 Season 2, Episodes 1-4 Review (Spoiler-Free)
 
-暂无摘要。
+[原文] X-Men ‘97 remains as thrilling as ever in the first four episodes of Season 2, delivering more of that winning blend of Marvel nostalgia and deep character drama. Read our spoiler-free review.
 
-📎 [阅读原文](https://www.ign.com/articles/all-pokemon-nintendo-switch-2-controllers) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/x-men-97-season-2-episodes-1-4-review) — *IGN*
 
-### 5. How Close Does Steven Spielberg’s New Movie Come to the Real Disclosure Day Protocols?
+### 5. Milly Alcock Says Her Supergirl Cape Was Made With Material from Christopher Reeve's Superman Suit
 
-[原文] Game, SETI, Match: The real Disclosure Day protocols — how close does Steven Spielberg’s Disclosure Day come to the truth? Just listen…
+[原文] When Milly Alcock makes her standalone debut as Kara Zor-El in Supergirl later this month, she'll do so while wearing portions of the material used to make the cape Christopher Reeve wore in Superman.
 
-📎 [阅读原文](https://www.ign.com/articles/steven-spielberg-new-movie-real-disclosure-day-protocols-seti-aliens) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/milly-alcock-says-her-supergirl-cape-was-made-with-material-from-christopher-reeves-superman-suit) — *IGN*
 
 ---
 
@@ -441,7 +441,7 @@ The post Ultimate Harbor Freight Go-Kart Engine C
 
 ### 1. ‘Michael’ Is Now the Highest-Grossing Music Biopic of All Time
 
-[原文] The wildly successful biopic brought in TKTK worldwide
+[原文] The wildly successful biopic brought in $911.9 million worldwide, besting Bohemian Rhapsody
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/michael-film-highest-grossing-music-biopic-1235577048/) — *Rolling Stone*
 
@@ -515,7 +515,7 @@ The post Ultimate Harbor Freight Go-Kart Engine C
 - **💰 经济财经**: CNBC
 - **💻 科技**: TechCrunch
 - **🔬 科学**: Science Daily
-- **⚽ 体育**: ESPN
+- **⚽ 体育**: BBC Sport
 - **🎬 娱乐**: Variety
 - **🏥 健康**: WHO
 - **🎮 游戏**: IGN
