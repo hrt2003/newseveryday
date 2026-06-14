@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年06月14日** | 生成时间: 2026-06-14 12:27
+**2026年06月14日** | 生成时间: 2026-06-14 17:42
 
 ---
 
@@ -18,33 +18,33 @@
 
 ### 1. Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing
 
-[原文] The US president's comments come as Iran says an exact date has not been decided, but it "will not be tomorrow".
+[原文] The US president's comments come as Iran says an exact date has not been decided.
 
 📎 [阅读原文](https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Switzerland to vote on plan to cap population at 10 million
+### 2. Switzerland votes on plan to cap population at 10 million
 
 [原文] The right-wing Swiss People's Party calls the plan a "sustainability initiative",  but opponents say it is a recipe for chaos.
 
 📎 [阅读原文](https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Nigerian author accuses hospital of stalling review into her son's death
+### 3. Russian families use AI to 'resurrect' loved ones killed in Ukraine
+
+[原文] The highly controversial trend lies at the intersection of Russia's war on Ukraine, new AI technologies and grief.
+
+📎 [阅读原文](https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. New York Knicks win NBA championship for first time in over 50 years
+
+[原文] The Knicks clinched the title against the San Antonio Spurs, 94-90, in the fifth game of the best-of-seven series.
+
+📎 [阅读原文](https://www.bbc.com/news/articles/c78yw4zw19do?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Author Chimamanda Adichie accuses hospital of stalling review into son's death
 
 [原文] Chimamanda Ngozi Adichie's 21-month old son died in a Lagos hospital, which she says is trying to stop an inquest into the circumstances of his death.
 
 📎 [阅读原文](https://www.bbc.com/news/articles/cgk6jzkr0xvo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Ticketmaster says Knicks fans won't be locked out of game after last-minute panic
-
-[原文] An note on the Ticketmaster website for buying tickets to the game caused confusion and backlash among New Yorkers.
-
-📎 [阅读原文](https://www.bbc.com/news/articles/c5yz7gj4x3yo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Vincent's parents 'never say he's good enough' - so he turned to a middle-aged couple online
-
-[原文] A niche group of content creators called "virtual parents" have become hugely popular among young people.
-
-📎 [阅读原文](https://www.bbc.com/news/articles/cpq3dnr5vlzo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -72,17 +72,17 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/06/13/uae-denies-false-reports-of-fund-transfer-to-iran.html) — *CNBC*
 
-### 4. Switzerland is voting on whether to cap its population at 10 million. Here's what to know
+### 4. UK forces board sanctioned Russian shadow fleet oil tanker
+
+[原文] The U.K.'s Ministry of Defence says the SMYRTOS was in the English Channel and will be held off the south coast during investigations.
+
+📎 [阅读原文](https://www.cnbc.com/2026/06/14/uk-forces-board-sanctioned-russian-shadow-fleet-oil-tanker.html) — *CNBC*
+
+### 5. Switzerland is voting on whether to cap its population at 10 million. Here's what to know
 
 [原文] Switzerland votes on a population cap that could tighten immigration and put its EU free-movement agreement under pressure.
 
 📎 [阅读原文](https://www.cnbc.com/2026/06/13/switzerland-population-cap-referendum-immigration.html) — *CNBC*
-
-### 5. Anthropic disables access to Fable 5 and Mythos 5 to comply with government directive
-
-[原文] Anthropic said it disabled access to its Fable 5 and Mythos 5 models to comply with an export control directive from the U.S. government.
-
-📎 [阅读原文](https://www.cnbc.com/2026/06/12/anthropic-disables-access-to-fable-5-and-mythos-5-to-comply-with-government-directive.html) — *CNBC*
 
 ---
 
@@ -130,35 +130,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Lucy’s hunter revealed: Giant crocodile terrorized early human ancestors
+### 1. A dying star could create a new universe instead of a black hole
 
-[原文] A newly identified crocodile species nicknamed “Lucy’s hunter” prowled Ethiopia’s rivers when Lucy’s species walked the Earth more than 3 million years ago. The giant predator was likely the most dang
+[原文] What if some black holes aren’t black holes at all? A new theoretical study suggests that when a massive star collapses, it might not form a singularity hidden behind an event horizon. Instead, the co
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260613034229.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260614011846.htm) — *Science Daily*
 
-### 2. Alien planet spins revealed a hidden clue to how worlds form
+### 2. Scientists found a surprising problem with sugar-free diets
 
-[原文] Using the Keck Observatory, astronomers measured the spins of dozens of giant planets and brown dwarfs orbiting distant stars. They found that giant planets can spin faster than much more massive brow
+[原文] A surprising new study suggests that completely eliminating sugar may backfire. Mice on a sucrose-free low-fat diet showed worse blood sugar control, increased inflammation, disrupted gut bacteria, an
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260613034225.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260614011843.htm) — *Science Daily*
 
-### 3. Your brain can keep improving into your 90s, study finds
+### 3. People taking GLP-1 weight loss drugs like Ozempic started moving less
 
-[原文] A three-year study of nearly 4,000 adults ranging from age 19 to 94 found that brain health can improve at any age, challenging the common belief that mental sharpness must decline as we get older. Pa
+[原文] People taking popular weight-loss drugs such as Ozempic, Wegovy, Mounjaro, and Zepbound may be losing pounds, but they could also be moving less. Researchers analyzing Fitbit data found that daily ste
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260613034222.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260614011841.htm) — *Science Daily*
 
-### 4. Learning a musical instrument in your 70s could help protect memory
+### 4. Yellowstone wolves may not have reshaped the national park after all
 
-[原文] Learning a musical instrument later in life may help keep the brain younger for longer. In a four-year study, older adults who continued practicing maintained their memory performance and showed less 
+[原文] One of the most celebrated claims about Yellowstone’s wolves is facing a major challenge. Scientists say the study behind the famous trophic cascade story relied on flawed methods that overstated the 
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260613034217.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260613215510.htm) — *Science Daily*
 
-### 5. Why grandparents matter more than ever for children's mental health
+### 5. Why middle age is becoming a breaking point in the U.S.
 
-[原文] A child psychologist says grandparents are more important than ever as youth mental health challenges continue to rise. He argues that children need supportive relationships, meaningful conversations,
+[原文] A new international study finds that middle-aged Americans are lonelier, more depressed, and experiencing worse memory and health than earlier generations. Researchers say growing financial strain, we
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260613034206.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260613215430.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Has Vinicius Jr brilliance just papered over the Brazilian cracks?
+### 1. Why Haiti v Scotland was antidote to the ills of world football
+
+[原文] It might have been nervy. It might not have been pretty. But Scotland are here. And Scotland have won. Tom English reports from Boston.
+
+📎 [阅读原文](https://www.bbc.com/sport/football/articles/cdjkdmel292o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. What does 1-0 win mean for Scotland's chances of qualification?
+
+[原文] With eight third-place finishers advancing to the last 32, might three points be enough for Scotland to make history?
+
+📎 [阅读原文](https://www.bbc.com/sport/football/articles/cvglm8n1nyjo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. Refugee who quit Bayern to create Australia World Cup dream
+
+[原文] Nestory Irankunda was born as a refugee in Tanzania before becoming Australian record breaker with goal in victory over Turkey.
+
+📎 [阅读原文](https://www.bbc.com/sport/football/articles/c33y424vv4zo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. Has Vinicius Jr brilliance just papered over the Brazilian cracks?
 
 [原文] Vinicius Jr scores a wonder goal to rescue his side but Brazil's performance against Morocco raises more questions than answers.
 
 📎 [阅读原文](https://www.bbc.com/sport/football/articles/cjdge0dr9rgo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. McGinn fires Scotland to first World Cup win for 36 years
+### 5. Knicks end 53-year wait for NBA Championship
 
-[原文] John McGinn's goal was enough as Scotland beat Haiti 1-0 at the Boston Stadium to record their first win at a World Cup for 36 years.
+[原文] The New York Knicks win their first NBA Championship since 1973 thanks to a 94-90 win over the San Antonio Spurs.
 
-📎 [阅读原文](https://www.bbc.com/sport/football/videos/cvgq4j59rw1o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 3. McGinn 'beaming with pride' - and hopes kids around Scotland are too
-
-[原文] Scotland's John McGinn says his "scuffed" goal which downed Haiti in their World Cup opener leaves him "beaming with pride".
-
-📎 [阅读原文](https://www.bbc.com/sport/football/articles/cy06p3xke5lo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. Ruthless Raducanu powers into Queen's final
-
-[原文] An inspired Emma Raducanu wins twice in a day to reach the Queen's final but fellow Briton Katie Boulter loses her semi-final.
-
-📎 [阅读原文](https://www.bbc.com/sport/tennis/articles/crlwkx2j5nyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. McGinn gives Scotland the lead against Haiti
-
-[原文] John McGinn puts Scotland 1-0 up against Haiti in their Group C opener at the Boston Stadium.
-
-📎 [阅读原文](https://www.bbc.com/sport/football/videos/c5yzv2v48lqo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.com/sport/basketball/articles/cx2v4rj1ew2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. U.S. Soccer Men’s National Team Victory Scores Record English-Language World Cup Ratings; Mexico vs. South Africa Biggest in Spanish-Language History
+### 1. Honor and Arri’s Robot Phone Debuts on Shanghai Film Festival Red Carpet
+
+[原文] Smartphones have crossed into robotic territory. Chinese brand Honor used the opening red carpet of the Shanghai International Film Festival to debut its Robot Phone, a device that marries AI interact
+
+📎 [阅读原文](https://variety.com/2026/film/festivals/honor-arri-robot-phone-shanghai-film-festival-1236780822/) — *Variety*
+
+### 2. Virginia Woolf Inspires Yan Siyu’s Shanghai Project ‘Outside the Room of My Own’
+
+[原文] &#8220;Outside the Room of My Own,&#8221; a debut feature from Chinese filmmaker Yan Siyu starring Lucie Zhang, is showing a work-in-progress cut at SIFF Project during the Shanghai International Film
+
+📎 [阅读原文](https://variety.com/2026/film/markets-festivals/virginia-woolf-shanghai-project-outside-the-room-of-my-own-1236780812/) — *Variety*
+
+### 3. Knicks NBA Championship Merch Includes Official Locker Room T-Shirt, Signed Jalen Brunson Basketballs
+
+[原文] The New York Knicks are the 2026 NBA champions. The Knicks defeated the San Antonio Spurs by a score of 94-90 Saturday, winning the NBA finals series 4-1 and lifting the Larry O&#8217;Brien Trophy for
+
+📎 [阅读原文](https://variety.com/2026/shopping/athletes/where-to-buy-knicks-nba-championship-merch-jalen-brunson-1236780786/) — *Variety*
+
+### 4. U.S. Soccer Men’s National Team Victory Scores Record English-Language World Cup Ratings; Mexico vs. South Africa Biggest in Spanish-Language History
 
 [原文] The World Cup is off to a record-breaking start for both Fox Sports and Telemundo. According to ratings from Fox Sports, Friday&#8217;s U.S. Soccer Men&#8217;s National Team win over Paraguay scored n
 
 📎 [阅读原文](https://variety.com/2026/tv/news/world-cup-us-win-paraguay-record-ratings-fox-telemundo-1236780767/) — *Variety*
 
-### 2. Seth Rogen Has ‘No Plans’ to Work With James Franco Again and Says They Haven’t Spoken in a ‘Long Time’
+### 5. Seth Rogen Has ‘No Plans’ to Work With James Franco Again and Says They Haven’t Spoken in a ‘Long Time’
 
 [原文] Seth Rogen recently told The New York Times that he hasn’t spoken to James Franco in a “long time” and has “no plans” to work with him in the future. When asked about where his relationship stands wit
 
 📎 [阅读原文](https://variety.com/2026/film/news/seth-rogen-no-plans-work-with-james-franco-havent-spoken-1236780763/) — *Variety*
-
-### 3. Bruce Springsteen Apologizes for Refusing to Allow His Song in Bono’s Gap Commercial, Tells U2 Frontman: ‘I Should Have F—ing Done It!’
-
-[原文] Bono gave Bruce Springsteen a hard time for refusing to license his song &#8220;Girls in Their Summer Clothes&#8221; for a commercial for the clothing brand Gap in partnership with Bono&#8217;s AIDS f
-
-📎 [阅读原文](https://variety.com/2026/music/news/bruce-springsteen-apologizes-to-bono-refusing-commercial-1236780748/) — *Variety*
-
-### 4. Amy Adams Shut Down a ‘Graphic’ Sketch Idea While Hosting ‘SNL’ to Protect ‘Young Girls That Were Watching “Enchanted”‘
-
-[原文] Amy Adams said during a recent appearance on “Late Night With Seth Meyers” that while hosting “Saturday Night Live” in 2008, she turned down a “graphic” sketch idea from Andy Samberg to protect the yo
-
-📎 [阅读原文](https://variety.com/2026/tv/news/amy-adams-graphic-sketch-snl-young-girls-enchanted-1236780724/) — *Variety*
-
-### 5. Here’s Where to Watch Jesse Rodriguez vs. Antonio Vargas Boxing Live Online
-
-[原文] In a title bout for the championship, San Antonio-native Jesse &#8220;Bam&#8221; Rodriguez takes on Houstonian boxer Antonio Vargas in a 12-round match. What&#8217;s on the line? Vargas&#8217; WBA ban
-
-📎 [阅读原文](https://variety.com/2026/shopping/news/how-to-watch-jesse-rodriguez-vs-antonio-vargas-live-boxing-online-1236769997/) — *Variety*
 
 ---
 
@@ -363,35 +363,35 @@ The post Ultimate Harbor Freight Go-Kart Engine C
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. A Commercial Space Race Prompts a Thorny Question: Who Owns the Sky?
+### 1. As Global Warming Threatens Corals Worldwide, Woods Hole Scientists Search for ‘Super Reefs’ That Can Take the Heat
+
+[原文] MAJURO, Marshall Islands—Perched on the bow of an aluminum landing craft, Anne Cohen gazed a few yards ahead of the vessel toward a yellow robot gliding across the emerald Majuro lagoon.&#160; The unm
+
+📎 [阅读原文](https://insideclimatenews.org/news/14062026/scientists-search-for-heat-resilient-reefs/) — *Inside Climate News*
+
+### 2. Pandemic Roulette
+
+[原文] Billions of live animals move through the legal and illegal wildlife trade, a massive industry a former CDC epidemiologist described as “pandemic roulette.” Traded animals move to places they never wo
+
+📎 [阅读原文](https://insideclimatenews.org/news/14062026/icn-sunday-morning-pandemic-roulette/) — *Inside Climate News*
+
+### 3. A Commercial Space Race Prompts a Thorny Question: Who Owns the Sky?
 
 [原文] The starry night sky has always anchored humanity’s sense of place in a vast universe. It’s a map guiding travelers, a calendar for migrations and harvests, a wellspring of stories. But a surge of com
 
 📎 [阅读原文](https://insideclimatenews.org/news/13062026/commercial-satellite-space-race-pollution/) — *Inside Climate News*
 
-### 2. A Massive Volunteer Network in Florida Works to Save Endangered Sea Turtles
+### 4. A Massive Volunteer Network in Florida Works to Save Endangered Sea Turtles
 
 [原文] “Pull! Pull!” shouts Scott Dexter, chanting the cadence for eight men gripping a rope. “Pull!”&#160; With each pull, a 172-pound male loggerhead sea turtle is hoisted higher into the air. It takes sev
 
 📎 [阅读原文](https://insideclimatenews.org/news/13062026/florida-volunteers-work-to-save-endangered-sea-turtles/) — *Inside Climate News*
 
-### 3. ‘Their Breath Was Captured in the Tree’
+### 5. ‘Their Breath Was Captured in the Tree’
 
 [原文] From our collaborating partner “Living on Earth,” public radio&#8217;s environmental news magazine, an interview by host Steve Curwood with botanist and author Beronda Montgomery. When plant biologist
 
 📎 [阅读原文](https://insideclimatenews.org/news/13062026/beronda-montgomery-americas-black-botanical-legacy/) — *Inside Climate News*
-
-### 4. The Climate Change Culprits Not Addressed by Global Policy
-
-[原文] Record-high global temperatures aren’t driven only by well-known greenhouse gas culprits. These other emissions, unlike carbon dioxide, don’t have a direct warming effect on their own. Instead, they t
-
-📎 [阅读原文](https://insideclimatenews.org/news/12062026/global-warming-overlooked-pollutants/) — *Inside Climate News*
-
-### 5. Trump’s EPA Unlawfully Cancelled Environmental Justice Grants, Judge Rules
-
-[原文] A federal judge in South Carolina ruled this week that the Trump administration’s termination of environmental justice grants was “illegal.” The decision dealt a setback to efforts to dismantle a Bide
-
-📎 [阅读原文](https://insideclimatenews.org/news/12062026/judge-rules-trump-environmental-justice-grant-cancellations-unlawful/) — *Inside Climate News*
 
 ---
 
