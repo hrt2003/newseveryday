@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年06月15日** | 生成时间: 2026-06-15 12:51
+**2026年06月15日** | 生成时间: 2026-06-15 20:24
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump heralds Iran deal but questions - and risks - remain
-
-[原文] The announcement of an Iran deal was a welcome birthday gift for the president – but its success or failure may hinge on the details.
-
-📎 [阅读原文](https://www.bbc.com/news/articles/c9824e0rz75o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 2. US-Iran deal eases uncertainty over the war - but there is much still to play out
-
-[原文] Pakistan says the deal includes Lebanon, but recent ceasefires there have failed to take hold.
-
-📎 [阅读原文](https://www.bbc.com/news/articles/cd952n4qz2qo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 3. Oil prices slide after Pakistan announces deal between US and Iran
+### 1. Oil prices fall and shares jump after US-Iran deal announced
 
 [原文] Under the agreement, the key Strait of Hormuz waterway will be reopened, US President Donald Trump said.
 
 📎 [阅读原文](https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Swiss voters reject 10 million population cap
+### 2. Norwegian crown princess's son found guilty of two counts of rape
 
-[原文] Nearly 55% of participants voted against the proposal to cap population by cutting migration, results show.
+[原文] Marius Borg Høiby, the 29-year-old son of Norway's Crown Princess Mette Marit, has been found guilty of two counts of rape and given four years in jail.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.com/news/articles/cly9d10l5p4o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Teen shot and buses torched in Manhattan after historic NBA win for Knicks
+### 3. Russian strikes kill 11 and set historic cathedral in Kyiv ablaze
 
-[原文] At least 63 people were arrested in the disorder after the Knicks beat the Spurs to clinch the title.
+[原文] A Ukrainian drone attack in the Russian city of Tula, south of Moscow, killed three people.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/c8623n5pq2vo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. Brazil woman dies after rope-jumping instructors fail to attach cord
+
+[原文] Three men have been arrested after instructors failed to attach a rope to her before helping her jump from a bridge.
+
+📎 [阅读原文](https://www.bbc.com/news/articles/c5yz4xelnveo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. US musician Oliver Tree dies in helicopter collision in Brazil
+
+[原文] The singer-songwriter is among six people presumed dead in air crash over Rio de Janeiro on Sunday.
+
+📎 [阅读原文](https://www.bbc.com/news/articles/cqj1dd5rgnzo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. U.S. and Iran reach peace deal to end the Mideast war, with agreement set to be signed Friday
+### 1. SpaceX gains 6% in premarket after record debut. Here's what's driving the valuation debate
 
-[原文] The deal follows weeks of mixed messaging from both Washington and Tehran on the trajectory of the conflict.
+[原文] SpaceX is now valued at over $2 trillion after its stock rallied on the first day of trade.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/14/us-iran-war-peace-deal.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/15/spacex-stock-record-ipo-debut.html) — *CNBC*
 
-### 2. World leaders welcome U.S.-Iran deal as Europe signals sanctions relief, urges Hormuz reopening
+### 2. Fox to buy streaming device maker Roku for $22 billion
 
-[原文] The agreement came after more than three months of stop-start negotiations and bouts of fighting since late February, roiling global energy and commodities markets.
+[原文] Fox, the owner of the news and sports networks, said it has reached a deal to acquire Roku for about $22 billion in enterprise value.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/15/europe-japan-countries-welcome-us-iran-deal-strait-of-hormuz-reopening.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/15/fox-to-buy-roku.html) — *CNBC*
 
-### 3. SpaceX: To the moon for investors or a bumpy ride? Here's what experts say
+### 3. U.S.-Iran deal explained: What we know — and what remains unresolved
 
-[原文] If the first day's share price is anything to go by, investors are still very optimistic on the stock.
+[原文] Stocks rose after a preliminary U.S.-Iran agreement, but questions remain over Hormuz, Israel and what follows a potential signing in Geneva.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/15/spacex-to-the-moon-for-investors-or-a-bumpy-ride-heres-what-experts-say-.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/15/us-iran-deal-hormuz-markets.html) — *CNBC*
 
-### 4. SoftBank surges more than 12% as Iran-U.S. peace deal sends Asia stocks soaring
+### 4. KFC leans into boneless chicken, new drinks as chain tries to regain market share
 
-[原文] Asian tech stocks surged Monday on news that Iran and the U.S. have reached a peace deal
+[原文] KFC is facing more competition from legacy giants and upstarts alike, thanks to the growing global popularity of chicken.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/15/softbank-up-more-than-12percent-on-news-of-iran-us-peace-deal-.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/15/kfc-menu-chicken.html) — *CNBC*
 
-### 5. Markets cheer U.S.-Iran agreement, but some investors caution deal is yet to be signed
+### 5. Trump says France must scrap tech 'sales tax' or face 100% wine tariffs: NY Post
 
-[原文] Asian stocks rallied Monday while oil prices tumbled after the U.S. and Iran agreed to a peace deal aimed at ending nearly four months of conflict.
+[原文] President Donald Trump issued the threat ahead of this week's G7 summit in Évian-les-Bains, France.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/15/us-iran-deal-stocks-bonds-gold-oil.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/15/trump-france-tech-tax-wine-tariffs-champagne.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Orbio raises $21 million to automate hiring and onboarding for frontline workers
+### 1. A satellite just learned to find things on its own — here’s what that means
+
+[原文] In April, for the first time ever, an Earth observation satellite found what it was looking for, all on its own.
+
+📎 [阅读原文](https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/) — *TechCrunch*
+
+### 2. The AI layoff wave is becoming a powder keg
+
+[原文] What makes this combustible: at the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend.
+
+📎 [阅读原文](https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/) — *TechCrunch*
+
+### 3. Orbio raises $21 million to automate hiring and onboarding for frontline workers
 
 [原文] Orbio announces $21 Million Series A in round led by Dawn Capital.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/14/orbio-raises-21-million-to-automate-hiring-and-onboarding-for-frontline-workers/) — *TechCrunch*
 
-### 2. Startup CEO Charlie Javice is reportedly angling for a Trump pardon
+### 4. Startup CEO Charlie Javice is reportedly angling for a Trump pardon
 
 [原文] JPMorgan can't be pleased by any of this.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/14/startup-ceo-charlie-javice-is-reportedly-angling-for-a-trump-pardon/) — *TechCrunch*
 
-### 3. UK may ban social media for children under 16
+### 5. UK may ban social media for children under 16
 
 [原文] The U.K. seems to be following Australia's lead in banning a wide swath of social media for teens.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/14/uk-may-ban-social-media-for-children-under-16/) — *TechCrunch*
-
-### 4. As AI companies race to go public, who else is along for the ride?
-
-[原文] Startups are trying to "ride that SpaceX IPO wave."
-
-📎 [阅读原文](https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/) — *TechCrunch*
-
-### 5. TechCrunch Mobility: SpaceX rockets past Tesla
-
-[原文] Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.
-
-📎 [阅读原文](https://techcrunch.com/2026/06/14/techcrunch-mobility-spacex-rockets-past-tesla/) — *TechCrunch*
 
 ---
 
@@ -130,35 +130,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. A dying star could create a new universe instead of a black hole
+### 1. Honey bees have their own personal flight paths and fly them with stunning precision
+
+[原文] Researchers tracked honey bees in the wild using a drone-based system and found that each bee follows its own highly consistent flight path. Some repeated their routes so precisely that they flew only
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260614011857.htm) — *Science Daily*
+
+### 2. The secret behind smoother, better-tasting protein shakes
+
+[原文] A new whey protein manufacturing technique could make protein shakes taste better and feel smoother in the mouth. Researchers traced unwanted bitterness to concentrated minerals and found a way to rem
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260614011855.htm) — *Science Daily*
+
+### 3. Oxford physicists just made Schrödinger’s cat even stranger
+
+[原文] Oxford physicists have created an entirely new type of Schrödinger’s cat-like quantum state using components that are themselves highly quantum in nature. The advance could open new possibilities for 
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260614011848.htm) — *Science Daily*
+
+### 4. A dying star could create a new universe instead of a black hole
 
 [原文] What if some black holes aren’t black holes at all? A new theoretical study suggests that when a massive star collapses, it might not form a singularity hidden behind an event horizon. Instead, the co
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260614011846.htm) — *Science Daily*
 
-### 2. Scientists found a surprising problem with sugar-free diets
+### 5. Beneath our feet lies a fungal superhighway stretching 68 quadrillion miles
 
-[原文] A surprising new study suggests that completely eliminating sugar may backfire. Mice on a sucrose-free low-fat diet showed worse blood sugar control, increased inflammation, disrupted gut bacteria, an
+[原文] Beneath our feet lies a vast hidden fungal superhighway that helps sustain much of life on Earth—and scientists have now mapped it for the first time. Researchers estimate that these underground netwo
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260614011843.htm) — *Science Daily*
-
-### 3. People taking GLP-1 weight loss drugs like Ozempic started moving less
-
-[原文] People taking popular weight-loss drugs such as Ozempic, Wegovy, Mounjaro, and Zepbound may be losing pounds, but they could also be moving less. Researchers analyzing Fitbit data found that daily ste
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260614011841.htm) — *Science Daily*
-
-### 4. Yellowstone wolves may not have reshaped the national park after all
-
-[原文] One of the most celebrated claims about Yellowstone’s wolves is facing a major challenge. Scientists say the study behind the famous trophic cascade story relied on flawed methods that overstated the 
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260613215510.htm) — *Science Daily*
-
-### 5. Why middle age is becoming a breaking point in the U.S.
-
-[原文] A new international study finds that middle-aged Americans are lonelier, more depressed, and experiencing worse memory and health than earlier generations. Researchers say growing financial strain, we
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260613215430.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260614011845.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Hamilton's first Ferrari win a statement to himself and rest of F1
+### 1. Carolina's jock and nerd alliance created perfect ...
 
-[原文] Lewis Hamilton's win in Barcelona was a moment of redemption after a first season at Ferrari that left him questioning himself, and others questioning him.
+[原文] Coach Rod Brind'Amour and GM Eric Tulsky blended the perfect recipe, creating a team that won its first Cup in 20 years -- and will be back for more.
 
-📎 [阅读原文](https://www.bbc.com/sport/formula1/articles/c621q2l6lz5o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/nhl/story/_/id/49063240/nhl-2026-playoffs-stanley-cup-final-carolina-hurricanes-win-championship-rod-brindamour-eric-tulsky) — *ESPN*
 
-### 2. Amad scores late winner as Ivory Coast beat Ecuador
+### 2. Hurricanes win Game 6, raise Cup for second time
 
-[原文] Manchester United winger Amad Diallo scored a superb 90th-minute winner as Ivory Coast beat Ecuador in Philadelphia.
+[原文] Taylor Hall and Jackson Blake each scored their seventh goal of the playoffs and Nikolaj Ehlers had an empty-net tally as the Hurricanes topped the Golden Knights 3-0 in Game 6 to claim the franchise'
 
-📎 [阅读原文](https://www.bbc.com/sport/football/videos/cx2dyrzwk2vo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/nhl/story/_/id/49067491/carolina-hurricanes-win-game-6-raise-stanley-cup-vegas) — *ESPN*
 
-### 3. 'The new Emma' - positives Raducanu can take from Queen's to Wimbledon
+### 3. White: UFC at White House 'great,' never again
 
-[原文] Emma Raducanu falls agonisingly short at Queen's after losing in Sunday's final - but there are huge positives to take with Wimbledon just around the corner.
+[原文] UFC president and CEO Dana White was proud of his promotion's White House event but also made clear that "we'll never do this again."
 
-📎 [阅读原文](https://www.bbc.com/sport/tennis/articles/c1kymddkkj7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/mma/story/_/id/49070230/ufc-white-house-success-never-again-dana-white-says) — *ESPN*
 
-### 4. 'Hard to read' Bellingham criticism - Henderson
+### 4. Hurricanes' Staal, 37, oldest Conn Smythe winner
 
-[原文] England's Jordan Henderson says he finds it "hard to read" what is written about Jude Bellingham but believes the midfielder can be the team's "X-factor" at the World Cup.
+[原文] Hurricanes captain Jordan Staal became the oldest player to win the Conn Smythe Trophy at age 37.
 
-📎 [阅读原文](https://www.bbc.com/sport/football/articles/cly08nzl773o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/nhl/story/_/id/49067750/hurricanes-jordan-staal-37-becomes-oldest-conn-smythe-winner) — *ESPN*
 
-### 5. 'Thunderbolt!' - Brighton's Ayari scores stunner but refuses to celebrate
+### 5. Gaethje bucks odds, Topuria to claim UFC title
 
-[原文] Yasin Ayari scores a stunner for Sweden against Tunisia but refuses to celebrate. The Brighton midfielder could have represented the opposition as his father is Tunisian.
+[原文] Justin Gaethje outslugged and outlasted Ilia Topuria, forcing the heavy favorite to retire on his stool at the end of Round 4 on his way to capturing the undisputed UFC lightweight championship.
 
-📎 [阅读原文](https://www.bbc.com/sport/football/videos/czj8e33pgdjo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/mma/story/_/id/49068660/gaethje-bucks-odds-topples-topuria-ufc-lightweight-title) — *ESPN*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. White House UFC Fighter Josh Hokit Shouts ‘Michelle Obama Is a Man’ in Post-Match Interview
+### 1. Oscar-Winning ‘Flow’ Producer Boards Ukrainian Director Philip Sotnychenko’s Sophomore Feature ‘Times New Roman’ (EXCLUSIVE)
 
-[原文] While Josh Hokit was a big winner on Sunday night&#8217;s UFC Freedom 250 event, his post-match quip was designed to stir up controversy. After he won his heavyweight fight against Derrick Lewis durin
+[原文] Academy Award-winning&#160;Latvian producer&#160;Matiss Kaza, who co-wrote and produced Gints&#160;Zilbalodis’ best animated feature winner “Flow,” has boarded Ukrainian director Philip Sotnychenko’s 
 
-📎 [阅读原文](https://variety.com/2026/tv/news/white-house-ufc-fight-josh-hokit-michelle-obama-insult-1236781113/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/flow-producer-philip-sotnychenko-times-new-roman-1236781272/) — *Variety*
 
-### 2. Jessie Mei Li, Karina Lam, Chris Pang and Toby Stephens on the Rich and Restless in Hong Kong Glamour Drama ‘The Season’: ‘They’re All Human Beings Who Are Terrified’
+### 2. ‘Thunder Point’ Heats Up as Fremantle, Bell Media and ‘Sullivan’s Crossing’ Showrunner Bring Robyn Carr’s Next Series to the Global Market: ‘It’s “Friday Night Lights” Meets “Virgin River”’ (EXCLUSIVE)
 
-[原文] There are no trailers on a boat. This is the logistical reality that Toby Stephens found himself confronting somewhere in the middle of shooting &#8220;The Season,&#8221; Hulu&#8217;s new drama about 
+[原文] After the massive success of Canadian romantic drama series &#8220;Sullivan&#8217;s Crossing&#8221; — which was recently renewed for a fifth season — Fremantle, Bell Media and Reel World Management kn
 
-📎 [阅读原文](https://variety.com/2026/tv/news/the-season-hong-kong-cast-interview-1236780847/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/global/thunder-point-sullivans-crossing-team-robyn-carr-series-1236781204/) — *Variety*
 
-### 3. Chinese Sensation ‘Dear You’ Acquired by CMC Pictures for North America, Australia and New Zealand Theatrical Release
+### 3. Fox Is Buying Roku in $22 Billion Deal
 
-[原文] &#8220;Dear You,&#8221; the Teochew-dialect family drama that has become one of China&#8217;s biggest theatrical stories of 2026, is heading to North America, Australia and New Zealand after CMC Pictu
+[原文] Fox Corp. is making a dramatic move to hitch its future to the streaming world, unveiling plans to buy Roku in a deal that values the streaming platform at $22 billion. Fox announced Monday that it ha
 
-📎 [阅读原文](https://variety.com/2026/film/news/dear-you-cmc-pictures-north-america-australia-new-zealand-release-1236780866/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/fox-acquiring-roku-1236781308/) — *Variety*
 
-### 4. At ‘Songwriters Salute John Prine’ at Wolf Trap in Virginia, Emmylou Harris, Margo Price, Allison Russell and Others Make the Case for Prine as America’s Poet Laureate
+### 4. Electronic Arts Makes Push for Ad Dollars Tied to Sports
 
-[原文] When some look toward the U.S. semiquincentennial and consider what examplar might best represent American achievement or the nation&#8217;s character, only one thing inevitably comes to mind: wrestli
+[原文] Electronic Arts, the maker of interactive sports gaming favorites like Madden NFL and EA Sports FC, wants to get in on a different kind of contest: winning dollars from advertisers focused on sports. 
 
-📎 [阅读原文](https://variety.com/2026/music/news/john-prine-tribute-wolf-trap-songwriters-salute-virginia-1236781076/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/electronic-arts-videogames-sports-advertising-1236781028/) — *Variety*
 
-### 5. Kogonada’s ‘Zi’ Lands at Parallax Films for International Sales (EXCLUSIVE)
+### 5. Tsui Hark’s Restored ‘Peking Opera Blues’ Screens at Shanghai Film Festival
 
-[原文] &#8220;Zi,&#8221; the latest film from director Kogonada, has been picked up by Parallax Films for international sales outside North America, it was revealed on the sidelines of the Shanghai Internati
+[原文] Tsui Hark&#8217;s &#8220;Peking Opera Blues&#8221; returned to the big screen in a new 4K Dolby Atmos restoration, with the remastered version screening at the 28th Shanghai International Film Festiva
 
-📎 [阅读原文](https://variety.com/2026/film/markets-festivals/kogonada-zi-parallax-films-international-sales-1236779587/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/peking-opera-blues-4k-restoration-shanghai-1236781273/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Dead by Daylight Terrifier Chapter Reveal Promises Art the Clown for November 2026
+### 1. Nintendo Removes Hidden The Legend of Zelda: Ocarina of Time Switch 2 Description That Suggested It's a Faithful Remake
+
+[原文] Nintendo has removed a hidden description for its new The Legend of Zelda: Ocarina of Time Switch 2 remake, that fans say pointed to a faithful update of the N64 original.
+
+📎 [阅读原文](https://www.ign.com/articles/nintendo-removes-hidden-the-legend-of-zelda-ocarina-of-time-switch-2-description-that-suggested-its-a-faithful-remake) — *IGN*
+
+### 2. Dead by Daylight Terrifier Chapter Reveal Promises Art the Clown for November 2026
 
 [原文] Behaviour Interactive has revealed that Terrifier icon Art the Clown is coming to Dead by Daylight as part of a new Chapter in November.
 
 📎 [阅读原文](https://www.ign.com/articles/dead-by-daylight-terrifier-chapter-reveal-promises-art-the-clown-for-november-2026) — *IGN*
 
-### 2. Rick and Morty Season 9, Episode 4 Review: "A Ricker Runs Through It"
+### 3. Rick and Morty Season 9, Episode 4 Review: "A Ricker Runs Through It"
 
 [原文] In "A Ricker Runs Through It," Rick and Morty makes the most of both its bizarre premise and talented voice cast. Check out our full review.
 
 📎 [阅读原文](https://www.ign.com/articles/rick-and-morty-season-9-episode-4-review-recap) — *IGN*
 
-### 3. Director Confirmed for Upcoming Dead by Daylight Movie
+### 4. Director Confirmed for Upcoming Dead by Daylight Movie
 
 [原文] The upcoming Dead by Daylight movie will be helmed by Icelandic film director Thordur Palsson (The Damned, The Valhalla Murders), using a screenplay from Alexandre Aja and David Leslie Johnson-McGoldr
 
 📎 [阅读原文](https://www.ign.com/articles/director-confirmed-for-upcoming-dead-by-daylight-movie) — *IGN*
 
-### 4. The Vampire Lestat’s Best Song Isn’t Even in Season 3
+### 5. The Vampire Lestat’s Best Song Isn’t Even in Season 3
 
 [原文] "We've still got some more bullets in the chamber," says showrunner Rolin Jones about The Vampire Lestat's musical numbers -- including the "best" song, which isn't even in Season 3.
 
 📎 [阅读原文](https://www.ign.com/articles/the-vampire-lestat-episode-2-toledo-best-song-isnt-even-in-season-3) — *IGN*
-
-### 5. Dead by Daylight 10th Anniversary Broadcast: Everything Announced
-
-[原文] Behaviour Interactive just finished celebrating Dead by Daylight with its 10th Anniversary Broadcast, and we were there to round up all of the highlights.
-
-📎 [阅读原文](https://www.ign.com/articles/dead-by-daylight-10th-anniversary-broadcast-everything-announced) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post The Most Single Cab Truck Ever Was Built to Haul Construction Materials
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. As Global Warming Threatens Corals Worldwide, Woods Hole Scientists Search for ‘Super Reefs’ That Can Take the Heat
+### 1. Microsoft’s Clean Energy Reversal Collides with Virginia’s Climate Goals
+
+[原文] One of the world&#8217;s most profitable technology companies could be abandoning an ambitious clean-energy goal in Virginia as it races to build electricity-hungry data centers. Several of the compan
+
+📎 [阅读原文](https://insideclimatenews.org/news/15062026/microsoft-backpedals-on-climate-promises/) — *Inside Climate News*
+
+### 2. As Global Warming Threatens Corals Worldwide, Woods Hole Scientists Search for ‘Super Reefs’ That Can Take the Heat
 
 [原文] MAJURO, Marshall Islands—Perched on the bow of an aluminum landing craft, Anne Cohen gazed a few yards ahead of the vessel toward a yellow robot gliding across the emerald Majuro lagoon.&#160; The unm
 
 📎 [阅读原文](https://insideclimatenews.org/news/14062026/scientists-search-for-heat-resilient-reefs/) — *Inside Climate News*
 
-### 2. Pandemic Roulette
+### 3. Pandemic Roulette
 
 [原文] Billions of live animals move through the legal and illegal wildlife trade, a massive industry a former CDC epidemiologist described as “pandemic roulette.” Traded animals move to places they never wo
 
 📎 [阅读原文](https://insideclimatenews.org/news/14062026/icn-sunday-morning-pandemic-roulette/) — *Inside Climate News*
 
-### 3. A Commercial Space Race Prompts a Thorny Question: Who Owns the Sky?
+### 4. A Commercial Space Race Prompts a Thorny Question: Who Owns the Sky?
 
 [原文] The starry night sky has always anchored humanity’s sense of place in a vast universe. It’s a map guiding travelers, a calendar for migrations and harvests, a wellspring of stories. But a surge of com
 
 📎 [阅读原文](https://insideclimatenews.org/news/13062026/commercial-satellite-space-race-pollution/) — *Inside Climate News*
 
-### 4. A Massive Volunteer Network in Florida Works to Save Endangered Sea Turtles
+### 5. A Massive Volunteer Network in Florida Works to Save Endangered Sea Turtles
 
 [原文] “Pull! Pull!” shouts Scott Dexter, chanting the cadence for eight men gripping a rope. “Pull!”&#160; With each pull, a 172-pound male loggerhead sea turtle is hoisted higher into the air. It takes sev
 
 📎 [阅读原文](https://insideclimatenews.org/news/13062026/florida-volunteers-work-to-save-endangered-sea-turtles/) — *Inside Climate News*
-
-### 5. ‘Their Breath Was Captured in the Tree’
-
-[原文] From our collaborating partner “Living on Earth,” public radio&#8217;s environmental news magazine, an interview by host Steve Curwood with botanist and author Beronda Montgomery. When plant biologist
-
-📎 [阅读原文](https://insideclimatenews.org/news/13062026/beronda-montgomery-americas-black-botanical-legacy/) — *Inside Climate News*
 
 ---
 
@@ -477,35 +477,35 @@ The post The Most Single Cab Truck Ever Was Built to Haul Construction Materials
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. World Cup Host Cities Are Spending Millions to Tell Wary Tourists: You’re Welcome Here
+### 1. IHG Spent 8 Years Rebuilding Its Hotel Systems. Now It Says the Payoff Is Starting.
+
+[原文] IHG CEO Elie Maalouf is telling franchisees that eight years of tech investment has begun to expand their margins. It's an open question whether this early tech advantage will woo more hotel owners, b
+
+📎 [阅读原文](https://skift.com/2026/06/15/ihg-spent-8-years-rebuilding-its-hotel-systems-now-it-says-the-payoff-is-starting/) — *Skift*
+
+### 2. World Cup Host Cities Are Spending Millions to Tell Wary Tourists: You’re Welcome Here
 
 [原文] The World Cup handed host cities a global stage. Marketing videos underscore how host cities are using it to reassure a world that has grown more hesitant to book U.S. travel.
 
 📎 [阅读原文](https://skift.com/2026/06/12/world-cup-tourism-campaign-videos/) — *Skift*
 
-### 2. Highgate Takes Over Lotte’s New York Palace — How it Feeds the Next Deal
+### 3. Highgate Takes Over Lotte’s New York Palace — How it Feeds the Next Deal
 
 [原文] Buying and flipping broken hotels is lumpy and cyclical. Highgate's fees for third-party hotel management are a steady drip that keeps the lights on between the big, risky trades.
 
 📎 [阅读原文](https://skift.com/2026/06/12/highgate-takes-over-lottes-new-york-palace-how-it-feeds-the-next-deal/) — *Skift*
 
-### 3. Navan Says Rivals’ Mergers Are Sending It More Clients
+### 4. Navan Says Rivals’ Mergers Are Sending It More Clients
 
 [原文] Navan is winning large enterprise clients, picking them up when customers reevaluate their vendors in the face of protracted mergers.
 
 📎 [阅读原文](https://skift.com/2026/06/12/navan-says-rivals-mergers-are-sending-it-more-clients/) — *Skift*
 
-### 4. Hotels Spent $100 Million Fighting OTAs. Did It Actually Work?
+### 5. Hotels Spent $100 Million Fighting OTAs. Did It Actually Work?
 
 [原文] If AI agents become the next distribution layer, does the decade-long battle between hotels and OTAs even matter anymore?
 
 📎 [阅读原文](https://skift.com/2026/06/12/hotels-tried-to-cut-out-expedia-heres-what-happened/) — *Skift*
-
-### 5. Kerten CEO Says First India Property by Year-End, Pipeline Likely to Exceed 1,000-Key Target: Exclusive
-
-[原文] India's hotel market doesn't need another global chain pretending to be local. Kerten Hospitality's entire bet is that developers have finally figured that out too.
-
-📎 [阅读原文](https://skift.com/2026/06/12/kerten-ceo-says-first-india-property-by-year-end-pipeline-likely-to-exceed-1000-key-target-exclusive/) — *Skift*
 
 ---
 
@@ -515,7 +515,7 @@ The post The Most Single Cab Truck Ever Was Built to Haul Construction Materials
 - **💰 经济财经**: CNBC
 - **💻 科技**: TechCrunch
 - **🔬 科学**: Science Daily
-- **⚽ 体育**: BBC Sport
+- **⚽ 体育**: ESPN
 - **🎬 娱乐**: Variety
 - **🏥 健康**: WHO
 - **🎮 游戏**: IGN
