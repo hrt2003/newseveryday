@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年06月15日** | 生成时间: 2026-06-15 03:41
+**2026年06月15日** | 生成时间: 2026-06-15 12:51
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Israeli military says Hezbollah targets struck in Beirut
+### 1. Trump heralds Iran deal but questions - and risks - remain
 
-[原文] Israel says it targeted the Iran-backed armed group Hezbollah, as Tehran warns this could derail a US-Iran deal to end the fighting.
+[原文] The announcement of an Iran deal was a welcome birthday gift for the president – but its success or failure may hinge on the details.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/czj83zlx1vjo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.com/news/articles/c9824e0rz75o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Swiss voters reject 10 million population cap
+### 2. US-Iran deal eases uncertainty over the war - but there is much still to play out
+
+[原文] Pakistan says the deal includes Lebanon, but recent ceasefires there have failed to take hold.
+
+📎 [阅读原文](https://www.bbc.com/news/articles/cd952n4qz2qo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. Oil prices slide after Pakistan announces deal between US and Iran
+
+[原文] Under the agreement, the key Strait of Hormuz waterway will be reopened, US President Donald Trump said.
+
+📎 [阅读原文](https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. Swiss voters reject 10 million population cap
 
 [原文] Nearly 55% of participants voted against the proposal to cap population by cutting migration, results show.
 
 📎 [阅读原文](https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Teen shot and buses torched in Manhattan after historic NBA win for Knicks
+### 5. Teen shot and buses torched in Manhattan after historic NBA win for Knicks
 
 [原文] At least 63 people were arrested in the disorder after the Knicks beat the Spurs to clinch the title.
 
 📎 [阅读原文](https://www.bbc.com/news/articles/c8623n5pq2vo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Tourist train overturns and injures 17 during Cártama tapas festival
-
-[原文] Nobody was seriously hurt as a result of the accident in the Spanish town, local authorities say.
-
-📎 [阅读原文](https://www.bbc.com/news/articles/c14yn10jzyeo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. UK and Japan agree £18bn investment deal
-
-[原文] Japanese firms will spend billions on UK infrastructure and offshore wind, Downing Street says.
-
-📎 [阅读原文](https://www.bbc.com/news/articles/cx2kjwgwxwlo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. U.S. peace deal with Iran in question as Israel strikes Lebanon, Trump warns not to 'blow it'
+### 1. U.S. and Iran reach peace deal to end the Mideast war, with agreement set to be signed Friday
 
-[原文] An initial deal to end the war and open the Strait of Hormuz was expected to be signed this week.
+[原文] The deal follows weeks of mixed messaging from both Washington and Tehran on the trajectory of the conflict.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/14/iran-deal-teeters-israel-strikes-lebanon.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/14/us-iran-war-peace-deal.html) — *CNBC*
 
-### 2. Elon Musk drifted from Larry Page over a decade ago, but their companies are closer than ever
+### 2. World leaders welcome U.S.-Iran deal as Europe signals sanctions relief, urges Hormuz reopening
 
-[原文] SpaceX and Google have a long and complicated relationship, but they were both celebrating this week after Elon Musk's company held its blockbuster IPO.
+[原文] The agreement came after more than three months of stop-start negotiations and bouts of fighting since late February, roiling global energy and commodities markets.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/14/elon-musk-drifted-from-larry-page-but-spacex-google-closer-than-ever.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/15/europe-japan-countries-welcome-us-iran-deal-strait-of-hormuz-reopening.html) — *CNBC*
 
-### 3. A year after Meta tapped Alexandr Wang to build a new AI model, Zuckerberg has to sell it
+### 3. SpaceX: To the moon for investors or a bumpy ride? Here's what experts say
 
-[原文] Mark Zuckerberg's mega spending spree began a year ago, when he lured Alexandr Wang to oversee a new AI strategy. The results so far are underwhelming.
+[原文] If the first day's share price is anything to go by, investors are still very optimistic on the stock.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/14/meta-hired-alexandr-wang-to-build-ai-its-zuckerbergs-job-to-sell-it.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/15/spacex-to-the-moon-for-investors-or-a-bumpy-ride-heres-what-experts-say-.html) — *CNBC*
 
-### 4. Trump heads to G7 summit in France as world awaits Iran deal
+### 4. SoftBank surges more than 12% as Iran-U.S. peace deal sends Asia stocks soaring
 
-[原文] The Iran war has drawn the world's focus, but the G7 is also likely to address Russia's war against Ukraine, which continues to rage in eastern Europe.
+[原文] Asian tech stocks surged Monday on news that Iran and the U.S. have reached a peace deal
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/14/trump-g7-iran-deal-france-ukraine.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/15/softbank-up-more-than-12percent-on-news-of-iran-us-peace-deal-.html) — *CNBC*
 
-### 5. JetBlue bets big on Fort Lauderdale, from a new airport lounge to an international gateway
+### 5. Markets cheer U.S.-Iran agreement, but some investors caution deal is yet to be signed
 
-[原文] JetBlue faces heavy competition from Miami International Airport, an American Airlines stronghold.
+[原文] Asian stocks rallied Monday while oil prices tumbled after the U.S. and Iran agreed to a peace deal aimed at ending nearly four months of conflict.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/14/jetblue-fort-lauderdale-airport.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/15/us-iran-deal-stocks-bonds-gold-oil.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. As AI companies race to go public, who else is along for the ride?
+### 1. Orbio raises $21 million to automate hiring and onboarding for frontline workers
+
+[原文] Orbio announces $21 Million Series A in round led by Dawn Capital.
+
+📎 [阅读原文](https://techcrunch.com/2026/06/14/orbio-raises-21-million-to-automate-hiring-and-onboarding-for-frontline-workers/) — *TechCrunch*
+
+### 2. Startup CEO Charlie Javice is reportedly angling for a Trump pardon
+
+[原文] JPMorgan can't be pleased by any of this.
+
+📎 [阅读原文](https://techcrunch.com/2026/06/14/startup-ceo-charlie-javice-is-reportedly-angling-for-a-trump-pardon/) — *TechCrunch*
+
+### 3. UK may ban social media for children under 16
+
+[原文] The U.K. seems to be following Australia's lead in banning a wide swath of social media for teens.
+
+📎 [阅读原文](https://techcrunch.com/2026/06/14/uk-may-ban-social-media-for-children-under-16/) — *TechCrunch*
+
+### 4. As AI companies race to go public, who else is along for the ride?
 
 [原文] Startups are trying to "ride that SpaceX IPO wave."
 
 📎 [阅读原文](https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/) — *TechCrunch*
 
-### 2. TechCrunch Mobility: SpaceX rockets past Tesla
+### 5. TechCrunch Mobility: SpaceX rockets past Tesla
 
 [原文] Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/14/techcrunch-mobility-spacex-rockets-past-tesla/) — *TechCrunch*
-
-### 3. The new Sonos Play has become my go-to desk and kitchen speaker
-
-[原文] The new Sonos Play can act as a portable speaker inside and outside your home.
-
-📎 [阅读原文](https://techcrunch.com/2026/06/14/the-new-sonos-play-has-become-my-go-to-desk-and-kitchen-speaker/) — *TechCrunch*
-
-### 4. As Anthropic suspends access to new models, India debates its AI future
-
-[原文] Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.
-
-📎 [阅读原文](https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/) — *TechCrunch*
-
-### 5. Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand
-
-[原文] Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.
-
-📎 [阅读原文](https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Hamilton says Barcelona win beyond wildest dreams
+### 1. Hamilton's first Ferrari win a statement to himself and rest of F1
 
-[原文] Lewis Hamilton says he was struggling to find the words to express how much his first victory for Ferrari meant to him in Barcelona.
+[原文] Lewis Hamilton's win in Barcelona was a moment of redemption after a first season at Ferrari that left him questioning himself, and others questioning him.
 
-📎 [阅读原文](https://www.bbc.com/sport/formula1/articles/cx24k2vpmpyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.com/sport/formula1/articles/c621q2l6lz5o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. 'The new Emma' - positives Raducanu can take from Queen's to Wimbledon
+### 2. Amad scores late winner as Ivory Coast beat Ecuador
+
+[原文] Manchester United winger Amad Diallo scored a superb 90th-minute winner as Ivory Coast beat Ecuador in Philadelphia.
+
+📎 [阅读原文](https://www.bbc.com/sport/football/videos/cx2dyrzwk2vo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. 'The new Emma' - positives Raducanu can take from Queen's to Wimbledon
 
 [原文] Emma Raducanu falls agonisingly short at Queen's after losing in Sunday's final - but there are huge positives to take with Wimbledon just around the corner.
 
 📎 [阅读原文](https://www.bbc.com/sport/tennis/articles/c1kymddkkj7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Real Madrid agree £51.8m deal for Chelsea's Cucurella
+### 4. 'Hard to read' Bellingham criticism - Henderson
 
-[原文] Real Madrid have agreed a deal worth up to £51.8m to sign Chelsea defender Marc Cucurella after the World Cup.
+[原文] England's Jordan Henderson says he finds it "hard to read" what is written about Jude Bellingham but believes the midfielder can be the team's "X-factor" at the World Cup.
 
-📎 [阅读原文](https://www.bbc.com/sport/football/articles/cx2xp7gv09lo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.com/sport/football/articles/cly08nzl773o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. The 20-year-old who stole the show on Scotland's World Cup return
+### 5. 'Thunderbolt!' - Brighton's Ayari scores stunner but refuses to celebrate
 
-[原文] Ben Gannon-Doak wasn't born when Scotland last played at the men's World Cup. But the 20-year-old was at the heart of their long-awaited return and their first win at the tournament in 36 years as he 
+[原文] Yasin Ayari scores a stunner for Sweden against Tunisia but refuses to celebrate. The Brighton midfielder could have represented the opposition as his father is Tunisian.
 
-📎 [阅读原文](https://www.bbc.com/sport/football/articles/clyrepwp0gno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Comenencia scores Curacao's first-ever World Cup goal
-
-[原文] Livano Comenencia makes national history scoring Curacao's first-ever World Cup goal against Germany in their Group E match in Houston.
-
-📎 [阅读原文](https://www.bbc.com/sport/football/videos/ce8k58ld05xo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.com/sport/football/videos/czj8e33pgdjo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Banu Sivaci’s ‘Hear the Yellow’ Sweeps Taormina Film Festival Awards, ‘Animol,’ ‘Piccolo Miracolo’ Take Home Prizes
+### 1. White House UFC Fighter Josh Hokit Shouts ‘Michelle Obama Is a Man’ in Post-Match Interview
 
-[原文] Banu Sıvacı’s “Hear the Yellow” has swept the main awards at this year’s Taormina Film Festival. The drama, which started its festival journey in Berlin back in February, was elected Best Film and Bes
+[原文] While Josh Hokit was a big winner on Sunday night&#8217;s UFC Freedom 250 event, his post-match quip was designed to stir up controversy. After he won his heavyweight fight against Derrick Lewis durin
 
-📎 [阅读原文](https://variety.com/2026/film/global/banu-sivacis-hear-the-yellow-taormina-film-festival-awards-1236780987/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/white-house-ufc-fight-josh-hokit-michelle-obama-insult-1236781113/) — *Variety*
 
-### 2. Walk on the Wild Side: Comedy Series Like ‘Matlock’ and ‘The ’Burbs’ Star Funny Women in Dark Situations
+### 2. Jessie Mei Li, Karina Lam, Chris Pang and Toby Stephens on the Rich and Restless in Hong Kong Glamour Drama ‘The Season’: ‘They’re All Human Beings Who Are Terrified’
 
-[原文] In BritBox’s “Riot Women,” they’re forming a rock band. In Peacock’s “The ’Burbs” and Netflix’s “How to Get to Heaven From Belfast,” they’re meddling in criminal investigations and uncovering dark sec
+[原文] There are no trailers on a boat. This is the logistical reality that Toby Stephens found himself confronting somewhere in the middle of shooting &#8220;The Season,&#8221; Hulu&#8217;s new drama about 
 
-📎 [阅读原文](https://variety.com/2026/tv/features/matlock-the-burbs-funny-women-dark-shows-1236779983/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/the-season-hong-kong-cast-interview-1236780847/) — *Variety*
 
-### 3. Anthony Chen Urges Emerging Asian Filmmakers to ‘Break Conventions’ at Shanghai Film Festival
+### 3. Chinese Sensation ‘Dear You’ Acquired by CMC Pictures for North America, Australia and New Zealand Theatrical Release
 
-[原文] Jurors from the Asian New Talent, Short Film, Animation and Documentary sections of the 28th Shanghai International Film Festival gathered Sunday for the second Golden Goblet jury meeting, sharing the
+[原文] &#8220;Dear You,&#8221; the Teochew-dialect family drama that has become one of China&#8217;s biggest theatrical stories of 2026, is heading to North America, Australia and New Zealand after CMC Pictu
 
-📎 [阅读原文](https://variety.com/2026/film/festivals/anthony-chen-shanghai-film-festival-golden-goblet-break-conventions-1236780985/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/dear-you-cmc-pictures-north-america-australia-new-zealand-release-1236780866/) — *Variety*
 
-### 4. Oliver Tree, ‘Alien Boy’ and ‘Life Goes On’ Musician, Dies at 32 in Helicopter Crash
+### 4. At ‘Songwriters Salute John Prine’ at Wolf Trap in Virginia, Emmylou Harris, Margo Price, Allison Russell and Others Make the Case for Prine as America’s Poet Laureate
 
-[原文] Oliver Tree, the California-born singer-songwriter known for tracks like “Life Goes On,” “When I’m Down” and “Miss You,” died in a helicopter crash in Rio de Janeiro, according to CNN Brazil. He was 3
+[原文] When some look toward the U.S. semiquincentennial and consider what examplar might best represent American achievement or the nation&#8217;s character, only one thing inevitably comes to mind: wrestli
 
-📎 [阅读原文](https://variety.com/2026/music/news/oliver-tree-dead-helicopter-crash-alien-boy-life-goes-on-1236780964/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/john-prine-tribute-wolf-trap-songwriters-salute-virginia-1236781076/) — *Variety*
 
-### 5. Audi Celebrates Launch of Nuvolari Supercar With Star-Studded Affair in the South of France
+### 5. Kogonada’s ‘Zi’ Lands at Parallax Films for International Sales (EXCLUSIVE)
 
-[原文] Formula 1 drivers, VIP guests and tastemakers alike descended upon the South of France last week as Audi unveiled the Nuvolari, the automaker&#8217;s first supercar featuring a high-performance hybrid
+[原文] &#8220;Zi,&#8221; the latest film from director Kogonada, has been picked up by Parallax Films for international sales outside North America, it was revealed on the sidelines of the Shanghai Internati
 
-📎 [阅读原文](https://variety.com/2026/shopping/news/audi-nuvolari-car-launch-f1-monaco-hotel-du-cap-eden-roc-1236770803/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/markets-festivals/kogonada-zi-parallax-films-international-sales-1236779587/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Timothée Chalamet Takes Shot at the Oscars After Knicks Win NBA Championship
+### 1. Dead by Daylight Terrifier Chapter Reveal Promises Art the Clown for November 2026
 
-[原文] A clip of Dune star Timothée Chalamet has gone viral after he celebrated the New York Knicks' NBA Championship win by taking a shot at the Oscars.
+[原文] Behaviour Interactive has revealed that Terrifier icon Art the Clown is coming to Dead by Daylight as part of a new Chapter in November.
 
-📎 [阅读原文](https://www.ign.com/articles/timothee-chalamet-takes-shot-at-the-oscars-after-knicks-win-nba-championship) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/dead-by-daylight-terrifier-chapter-reveal-promises-art-the-clown-for-november-2026) — *IGN*
 
-### 2. Super Mario Bros. Copy Sells for Record-Breaking $3 Million at Auction
+### 2. Rick and Morty Season 9, Episode 4 Review: "A Ricker Runs Through It"
 
-[原文] A copy of Super Mario Bros. just sold at auction for a record-breaking $3 million, making it the most expensive video game of all time.
+[原文] In "A Ricker Runs Through It," Rick and Morty makes the most of both its bizarre premise and talented voice cast. Check out our full review.
 
-📎 [阅读原文](https://www.ign.com/articles/super-mario-bros-copy-sells-for-record-breaking-3-million-at-auction) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/rick-and-morty-season-9-episode-4-review-recap) — *IGN*
 
-### 3. Rockstar Co-Founder Dan Houser Says There’s No Right Way to Play an Open-World Game
+### 3. Director Confirmed for Upcoming Dead by Daylight Movie
 
-[原文] Absurd Ventures co-founders Dan Houser and Lazlow spoke on a panel at the 2026 Tribeca Festival about making open-world video games and interconnected multimedia universes.
+[原文] The upcoming Dead by Daylight movie will be helmed by Icelandic film director Thordur Palsson (The Damned, The Valhalla Murders), using a screenplay from Alexandre Aja and David Leslie Johnson-McGoldr
 
-📎 [阅读原文](https://www.ign.com/articles/rockstar-co-founder-dan-houser-says-theres-no-right-way-to-play-an-open-world-game-tribeca-festival-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/director-confirmed-for-upcoming-dead-by-daylight-movie) — *IGN*
 
-### 4. Microsoft CEO Says 'There's More Monetization of Xbox Games Happening on YouTube Than at Microsoft'
+### 4. The Vampire Lestat’s Best Song Isn’t Even in Season 3
 
-[原文] Microsoft CEO Satya Nadella said he believes "there's more monetization of Xbox games happening on YouTube" than at its own company, following Xbox boss Asha Sharma's recent commitment to "reset" the 
+[原文] "We've still got some more bullets in the chamber," says showrunner Rolin Jones about The Vampire Lestat's musical numbers -- including the "best" song, which isn't even in Season 3.
 
-📎 [阅读原文](https://www.ign.com/articles/microsoft-ceo-says-theres-more-monetization-of-xbox-games-happening-on-youtube-than-at-microsoft) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/the-vampire-lestat-episode-2-toledo-best-song-isnt-even-in-season-3) — *IGN*
 
-### 5. George Miller Reportedly Wants to Make One More Mad Max Movie and a TV Show Before Selling the Franchise
+### 5. Dead by Daylight 10th Anniversary Broadcast: Everything Announced
 
-[原文] Mad Max mastermind George Miller has reportedly begun seeking out Hollywood studios in hopes of making one last Mad Max movie, as well as a TV show, before he sells the rights to his universe to someo
+[原文] Behaviour Interactive just finished celebrating Dead by Daylight with its 10th Anniversary Broadcast, and we were there to round up all of the highlights.
 
-📎 [阅读原文](https://www.ign.com/articles/george-miller-reportedly-wants-to-make-one-more-mad-max-movie-and-a-tv-show-before-selling-the-franchise) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/dead-by-daylight-10th-anniversary-broadcast-everything-announced) — *IGN*
 
 ---
 
@@ -528,7 +528,6 @@ The post The Most Single Cab Truck Ever Was Built to Haul Construction Materials
 ## ⚠️ 今日故障源
 
 - **🚗 汽车**: Roadshow, Autocar
-- **✈️ 旅游**: Nomadic Matt
 
 ---
 
