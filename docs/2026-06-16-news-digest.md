@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年06月16日** | 生成时间: 2026-06-16 12:48
+**2026年06月16日** | 生成时间: 2026-06-16 19:19
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump may release US-Iran deal before Friday, Vance says
+### 1. Iran deal presents political nightmare for Netanyahu
 
-[原文] The US vice-president says the agreement is "about a page and a half" and "very general", meaning many details will be worked out later.
+[原文] Donald Trump's ceasefire agreement with Iran leaves the Israeli PM trapped in a new political and security dilemma.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.com/news/articles/cj4gnqw8j52o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Bowen: Iran deal ends Trump's war that revealed limit of US dominance
+### 2. Eight dead after US Air Force B-52 bomber crashes in California
 
-[原文] The deal to end fighting and re-open the Strait of Hormuz leaves the sides where they were 24 hours before the war - only with thousands now dead.
+[原文] The incident occurred on Monday morning while the aircraft had been on a routine test mission.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/cdr4x3vg347o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.com/news/articles/cqx10yql319o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Married at First Sight Australia allegations 'disturbing', says country's watchdog
-
-[原文] The claims also prompted a response from UK media regulator Ofcom, who called them "deeply concerning".
-
-📎 [阅读原文](https://www.bbc.com/news/articles/c4gyp099vl7o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Japan raises interest rate to highest since 1995
+### 3. Japan raises interest rate to highest for 31 years
 
 [原文] The Bank of Japan has been raising rates from near-zero since 2024.
 
 📎 [阅读原文](https://www.bbc.com/news/articles/cjdgl213dpzo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. California's Gavin Newsom alleges justice department is investigating his wife and ex-staff
+### 4. California's Gavin Newsom alleges justice department is investigating his wife and ex-staff
 
-[原文] A source familiar with the investigations said they had been ongoing for "roughly a year'".
+[原文] A source familiar with the investigations says they had been ongoing for "roughly a year".
 
 📎 [阅读原文](https://www.bbc.com/news/articles/c3vyw7021r0o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. 'Dancing girl's' bare torso restored in Indian textbook after backlash
+
+[原文] A picture in a new school textbook had covered up the naked torso of the famous figurine with dark shading.
+
+📎 [阅读原文](https://www.bbc.com/news/articles/c7vyzgl2142o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. SpaceX stock jumps 20% in first full day of trading after record debut
+### 1. How Elon Musk's second-in-command Gwynne Shotwell helped turn SpaceX into an IPO giant
 
-[原文] SpaceX is valued at over $2 trillion after its stock rallied on the first day of trading last week.
+[原文] CNBC spoke to people who've worked with SpaceX's president and chief operating officer.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/15/spacex-stock-record-ipo-debut.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/16/gwynne-shotwell-spacex-elon-musk-ipo.html) — *CNBC*
 
-### 2. Gavin Newsom says Trump ordered DOJ to investigate him and his wife
+### 2. Trump denies U.S. will put 'any money' into Iran, as he meets allies at G7 summit
 
-[原文] California Gov. Newsom called President Donald Trump "simply the most corrupt President in American history."
+[原文] Washington and Tehran announced a Memorandum of Understanding had been reached over the weekend.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/15/gavin-newsom-trump-doj-investigation-california.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/16/trump-g7-summit-iran-zelenskyy-macron.html) — *CNBC*
 
-### 3. China economy weakens further in May as retail sales post first drop in over three years
+### 3. Kevin Warsh's Fed is not expected to make any change to rates for a while, according to CNBC Fed Survey
 
-[原文] China's retail sales fell for the first time in more than three years in May, while urban investment contracted more than expected, adding to signs the economic slump deepened.
+[原文] The survey respondents do expect the Fed at this week's meeting to remove the easing bias in the statement that has signaled the Fed's next move would likely be a cut.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/16/china-economy-may-retail-sales-industrial-output-fixed-asset-investment-.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/16/kevin-warshs-fed-is-not-expected-to-make-any-change-to-rates-for-a-while-according-to-cnbc-fed-survey.html) — *CNBC*
 
-### 4. Bank of Japan hikes rates to 1%, highest since 1995, as yen and inflation worries take hold
+### 4. Nvidia plans to raise at least $20 billion in its first debt sale since start of AI boom
 
-[原文] This is the BOJ's first hike since December, when it raised rates to its current level of 0.75%, also its highest level in over 30 years.
+[原文] Nvidia is set to raise capital in a debt sale for the first time since 2021, when the chipmaker was a fraction of its current size.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/16/boj-rate-hike-historic-inflation.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/15/nvidia-plans-to-raise-about-20-billion-first-debt-sale-in-ai-boom.html) — *CNBC*
 
-### 5. South Korean defense stocks surge on prospects for post-Iran-war sales boosts
+### 5. Qualcomm CEO says AI agents will replace apps — as chip giant works on 40 new AI-powered devices
 
-[原文] South Korean defense stocks have risen as there will be "numerous export pipelines" for companies to sell to the Middle East.
+[原文] Qualcomm CEO Cristiano Amon said he is bullish on smart glasses which could eventually become as big as the smartphone.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/16/south-korean-defense-stocks-surge-on-prospects-for-iran-wars-end-.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/16/qualcomm-ceo-ai-devices-agents.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties
+### 1. Threads adds new personalization and community features as it reaches 500M monthly users
+
+[原文] The Meta-owned social platform announced a series of new features launching today, including a "Your Algo" tool that lets users control what they see in their feeds
+
+📎 [阅读原文](https://techcrunch.com/2026/06/16/threads-adds-new-personalization-and-community-features-as-it-reaches-500m-monthly-users/) — *TechCrunch*
+
+### 2. ChatGPT’s market share slips below 50% for first time
+
+[原文] The chatbot still remains the most popular AI assistant worldwide with over 1.1 billion monthly users, followed by Gemini with 662 million and Claude with 245 million.
+
+📎 [阅读原文](https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/) — *TechCrunch*
+
+### 3. Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions
+
+[原文] Respond.io, one of Malaysia startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat.
+
+📎 [阅读原文](https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/) — *TechCrunch*
+
+### 4. Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties
 
 [原文] AI is once again at the heart of a college graduation protest — this time for the technology's use in Google's defense contracts.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/) — *TechCrunch*
 
-### 2. The US government’s Anthropic models ban was never about an AI jailbreak
+### 5. The US government’s Anthropic models ban was never about an AI jailbreak
 
 [原文] The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune fro
 
 📎 [阅读原文](https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/) — *TechCrunch*
-
-### 3. Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms
-
-[原文] Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged on the platform.
-
-📎 [阅读原文](https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/) — *TechCrunch*
-
-### 4. SpaceX is public: Everything you need to know post-IPO
-
-[原文] TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and mayb
-
-📎 [阅读原文](https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/) — *TechCrunch*
-
-### 5. These are the countries moving to ban social media for children
-
-[原文] Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and ex
-
-📎 [阅读原文](https://techcrunch.com/2026/06/15/social-media-ban-children-countries-list/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Iran v Iran in the stands as politics and football intertwine
+### 1. Williams sisters to play together at Wimbledon
 
-[原文] The Iranian team may want to unite people but what the game with New Zealand revealed is just how divided many Iranians remain, writes BBC North America correspondent Shaimaa Khalil.
+[原文] Serena Williams is given a wildcard to play alongside older sister Venus in the Wimbledon women's doubles.
 
-📎 [阅读原文](https://www.bbc.com/sport/football/articles/cvgj1v4pnvyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.com/sport/tennis/articles/clyerm8lym9o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Just scores double but New Zealand held by Iran in entertaining game
+### 2. What does the future hold for Rashford?
 
-[原文] Iran twice come from behind to draw 2-2 with New Zealand at the Los Angeles Stadium in their Group G encounter.
+[原文] Barcelona decided not to trigger the option that would have allowed them to sign Marcus Rashford for £26m, so what does the future hold for the England World Cup star?
 
-📎 [阅读原文](https://www.bbc.com/sport/football/videos/c8d242de81eo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.com/sport/football/articles/cx2jg48q9y4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. McCullum worried for Stokes as coach gives no captaincy backing
+### 3. Tunisia sack Lamouchi just one game into World Cup
 
-[原文] Brendon McCullum refuses to be drawn on Ben Stokes’ future as England captain, but repeatedly speaks of his “worry and concern” for the all-rounder.
+[原文] Tunisia sack Sabri Lamouchi one game into their World Cup, with former Morocco and Saudi Arabia manager Herve Renard replacing him.
 
-📎 [阅读原文](https://www.bbc.com/sport/cricket/articles/cg53d054vl7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.com/sport/football/articles/cp8rldpky7wo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. The 40-year-old keeper who inspired Cape Verde's historic debut against Spain
+### 4. Ghana challenges Partey's visa denial in court
 
-[原文] Cape Verde stuns Spain with a goalless draw inspired by a 40-year-old goalkeeper who has gone viral on social media.
+[原文] Ghana's government files for a review of Canada's refusal to grant midfielder Thomas Partey a visa, with the case due to be heard by a Canadian court.
 
-📎 [阅读原文](https://www.bbc.com/sport/football/articles/c0ryz4n2v0qo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.com/sport/football/articles/c39yvgp73x8o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. VAR official says hand gesture was 'involuntary, subconscious twitch'
+### 5. Meet the Iraq player set to make history for Pakistan
 
-[原文] Video assistant referee Shaun Evans has denied "intentionally" making a hand gesture "to communicate a message, affiliation, game or belief of any kind" and claimed it was a "an involuntary, subconsci
+[原文] Zidane Iqbal, a former Manchester United player, will make history when he plays for Iraq this summer, becoming the first player of Pakistani heritage to feature at a men's World Cup.
 
-📎 [阅读原文](https://www.bbc.com/sport/football/articles/c0ryzjl1jlyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.com/sport/football/articles/c99lzern58eo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Jon Stewart Slams Fighter Josh Hokit as a ‘F—ing A–hole’ For Saying ‘Michelle Obama Is a Man’ at UFC Freedom 250
+### 1. Verizon Reunites Casts of ‘Austin Powers,’ Original ‘Ugly Betty’ to Tout New ‘Simplicity Plan’
 
-[原文] On Monday night’s episode of “The Daily Show,” Jon Stewart slammed fighter Josh Hokit for saying Michelle Obama was a man during his post-fight interview at Sunday night’s UFC Freedom 250 event, which
+[原文] Verizon hopes to catch your attention by talking about a few simple things. The telecommunications giant plans to eliminate activation and upgrade fees for customers who have already paid for phone se
 
-📎 [阅读原文](https://variety.com/2026/tv/news/jon-stewart-slams-fighter-josh-hokit-michelle-obama-ufc-250-1236782245/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/verizon-austin-powers-ugly-betty-simplicity-commercials-1236782223/) — *Variety*
 
-### 2. India’s All Living Things Environmental Film Festival Launches Green Doc Fund (EXCLUSIVE)
+### 2. ‘Peaky Blinders’ Creator Steven Knight Says He Couldn’t Have Made Show Without the BBC but ‘It’s Not the Place You Go to for the Big Bucks’
 
-[原文] The All Living Things Environmental Film Festival has launched one of India&#8217;s largest environmental film funds, an INR1.2 crore ($126,000) initiative backed by Rohini Nilekani Philanthropies tha
+[原文] “Peaky Blinders” creator Steven Knight says the show would never have been made without the BBC – but admits the broadcaster is known for its lean budgets. “I don&#8217;t think I could have made ‘Peak
 
-📎 [阅读原文](https://variety.com/2026/film/news/india-green-doc-fund-alt-eff-1236781649/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/global/bbc-peaky-blinders-steven-knight-budget-1236782363/) — *Variety*
 
-### 3. Sheryl Crow Slams Trump Administration for Staging UFC Fight at White House: ‘Disgraceful and Void of Decency’
+### 3. RioFilme Has Boosted Shanghai Presence, as Filmmakers Praise ‘Continuous Support’ and ‘Increased Investment’ in Local Films
 
-[原文] Sheryl Crow has slammed President Donald Trump and his administration for staging the UFC Freedom 250 event last night at the White House, describing it as &#8220;disgraceful and void of decency.&#822
+[原文] It’s been two years since Walter Salles’s Oscar-winning “I’m Still Here” catapulted Rio de Janeiro to screens all over the world, and momentum has continued to build thanks to coordinated efforts by R
 
-📎 [阅读原文](https://variety.com/2026/music/news/sheryl-crow-slams-trump-for-ufc-fight-at-white-house-1236782215/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/riofilme-boosted-shanghai-presence-continuous-support-1236781385/) — *Variety*
 
-### 4. Neymar Jr. Partners With FlareFlow on 16-Title AI Microdrama Franchise
+### 4. Asia Argento to Be Honored at Locarno Film Festival
 
-[原文] Soccer icon Neymar Jr. has signed on for a 16-title AI-powered live-action microdrama franchise with COL Group&#8217;s FlareFlow platform, with the first six titles to debut globally beginning June 19
+[原文] The Locarno Film Festival will celebrate Italian actress and director Asia Argento with its lifetime achievement award dedicated to creative pioneers. She will receive the award on Aug. 13 in the Swis
 
-📎 [阅读原文](https://variety.com/2026/tv/news/neymar-jr-flareflow-ai-microdrama-franchise-1236771243/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/asia-argento-honored-locarno-film-festival-1236782293/) — *Variety*
 
-### 5. Inside APOS 2026: AI, Microdramas and the Future of Asian Streaming Take Center Stage in Bali
+### 5. Karlovy Vary Unveils Central European Projects for Central Stage Showcase, Launches Book-to-Screen Spotlight
 
-[原文] The chiefs of Asia-Pacific operations for Netflix, Prime Video, Walt Disney and Warner Bros. Discovery will share a stage at APOS 2026, as the annual summit convenes June 16-18 in Bali. The four execu
+[原文] KVIFF Promises, part of the industry program of Karlovy Vary Intl. Film Festival, has unveiled the works-in-progress projects from Central Europe selected for the KVIFF Central Stage showcase, as well
 
-📎 [阅读原文](https://variety.com/2026/tv/news/apos-2026-preview-netflix-prime-video-disney-wbd-1236781783/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/karlovy-vary-central-stage-book-to-screen-1236782301/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Obsession Director Curry Barker Says Gen Z Is 'Tired of Slop' and 'Will Show Up' for Good Movies
+### 1. James Gunn Describes Jimmy Olsen HBO Series as 'Both a Jimmy Olsen and a Gorilla Grodd Show'
 
-[原文] Obsession director Curry Barker has said that, if there's anything he's learned in the last month, it's that "Gen Z will show up" to theaters if the films are good enough.
+[原文] The upcoming DC Universe HBO TV series starring Jimmy Olsen from last year's Superman movie is “both a Jimmy Olsen AND a Gorilla Grodd show,” James Gunn has clarified.
 
-📎 [阅读原文](https://www.ign.com/articles/obsession-director-curry-barker-says-gen-z-is-tired-of-slop-and-will-show-up-for-good-movies) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/james-gunn-describes-jimmy-olsen-hbo-series-as-both-a-jimmy-olsen-and-a-gorilla-grodd-show) — *IGN*
 
-### 2. Harry Potter TV Series Casts Peter Serafinowicz in Role Not Featured in the Films
+### 2. Life is Strange Creator Don't Nod Warned It Will Run Out of Funds This Year
 
-[原文] HBO's Harry Potter series has cast Peter Serafinowicz as Peeves the Poltergeist.
+[原文] Life is Strange creator Don't Nod will run out of cash this November, unless a new funding source is found.
 
-📎 [阅读原文](https://www.ign.com/articles/harry-potter-tv-series-casts-peter-serafinowicz-in-role-not-featured-in-the-films) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/life-is-strange-creator-dont-nod-warned-it-will-run-out-of-funds-this-year) — *IGN*
 
-### 3. Grab an Alienware RTX 5080 Gaming PC With 32GB of RAM and 2TB SSD for $2,579 Before It Sells Out
+### 3. Bank Balances Rolled Back for Forza Horizon 6 Players Who Used Exploit to Amass a Billion Credits
 
-[原文] Dell Outlet include the same 1 year warranty as buying brand new from Dell.com.
+[原文] In response to an arcane but incredibly lucrative exploit discovered by Forza Horizon 6 players, Playground Games has confirmed most of those credits gained will be removed.
 
-📎 [阅读原文](https://www.ign.com/articles/alienware-aurora-rtx-5080-gaming-pc-deal-at-dell-outlet-june-2026-updated) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/bank-balances-rolled-back-for-forza-horizon-6-players-who-used-exploit-to-amass-a-billion-credits) — *IGN*
 
-### 4. All of the Dungeon Crawler Carl Books Are on Sale at Amazon Before Prime Day
+### 4. Major Helldivers 2 Patch Adds New Galactic Campaigns, New Control Center Terminal, and a Lot More
 
-暂无摘要。
+[原文] Arrowhead has released a significant update for Helldivers 2, adding new Galactic campaigns, a new biome, a new Control Center terminal, and a lot more. The update — patch 6.3.0 — also makes changes t
 
-📎 [阅读原文](https://www.ign.com/articles/the-dungeon-crawler-carl-books-sale-amazon-prime-day-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/major-helldivers-2-patch-adds-new-galactic-campaigns-new-control-center-terminal-and-a-lot-more) — *IGN*
 
-### 5. EA Sports UFC 6 Review So Far
+### 5. Nintendo Switch 2 System Update 22.5.0 Available — Here Are the Patch Notes
 
-[原文] An impressive fighting game that strays further than ever from the sport’s reality.
+[原文] Nintendo has issued a fresh system software update for the Switch and Switch 2, bringing both consoles' firmware up to Version 22.0.5.
 
-📎 [阅读原文](https://www.ign.com/articles/ea-sports-ufc-6-review) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/nintendo-switch-2-system-update-2250-available-here-are-the-patch-notes) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. F1 Needed Hamilton’s Ferrari Win Just as Much, if Not More
+### 1. How Toyota’s First Le Mans Win in 4 Years Highlights the Race’s Fighting Ethos
+
+[原文] Despite Ferrari's talk of an unbalanced BoP and other automakers' bad luck—and not to mention past heartbreaks for the Japanese automaker—Toyota came back to Le Mans and won fair and square. 
+The post
+
+📎 [阅读原文](https://www.thedrive.com/news/how-toyotas-first-le-mans-win-in-4-years-highlights-the-races-fighting-ethos) — *The Drive*
+
+### 2. F1 Needed Hamilton’s Ferrari Win Just as Much, if Not More
 
 [原文] Whether it's a hero, a villain, or an underdog story, F1 thrives on eye-catching headlines to retain viewership. But sometimes, sometimes it's just a heart-warming story involving Lewis Hamilton.
 The 
 
 📎 [阅读原文](https://www.thedrive.com/news/f1-needed-hamiltons-ferrari-win-just-as-much-if-not-more) — *The Drive*
 
-### 2. BMW Confirms Next M3 ‘Won’t Be a Hybrid,’ And Yeah, That Makes Sense
+### 3. BMW Confirms Next M3 ‘Won’t Be a Hybrid,’ And Yeah, That Makes Sense
 
 [原文] BMW will offer a quad-motor electric M3, as well as a gas-only version. M CEO Frank Van Meel said, "Here, we will go to the extremes, not the in-between.”
 The post BMW Confirms Next M3 &#8216;Won&#821
 
 📎 [阅读原文](https://www.thedrive.com/news/bmw-confirms-next-m3-wont-be-a-hybrid-and-yeah-that-makes-sense) — *The Drive*
 
-### 3. Jeep Grand Cherokee Trailhawk, Overland 4×4 Models Are Back for 2027
+### 4. Jeep Grand Cherokee Trailhawk, Overland 4×4 Models Are Back for 2027
 
 [原文] The Jeep Grand Cherokee Overland and Trailhawk went AWOL this year; they're back on the menu for 2027.
 The post Jeep Grand Cherokee Trailhawk, Overland 4&#215;4 Models Are Back for 2027 appeared first
 
 📎 [阅读原文](https://www.thedrive.com/news/jeep-grand-cherokee-trailhawk-overland-4x4-models-are-back-for-2027) — *The Drive*
 
-### 4. Hot Wheels Infinite Rush Preview: Die-Cast Playground Goes Open-World
+### 5. Hot Wheels Infinite Rush Preview: Die-Cast Playground Goes Open-World
 
 [原文] The next game from the makers of Hot Wheels Unleashed takes the toy-car antics to open worlds, and looks to be better for it.
 The post Hot Wheels Infinite Rush Preview: Die-Cast Playground Goes Open-W
 
 📎 [阅读原文](https://www.thedrive.com/news/hot-wheels-infinite-rush-preview-die-cast-playground-goes-open-world) — *The Drive*
-
-### 5. New Electric Car Sales Bounced Back Big in April: TDS
-
-[原文] EV sales in the U.S. may be lower than they were in the era of federal rebates, but they've gotten stronger every month since the start of 2026.
-The post New Electric Car Sales Bounced Back Big in Apr
-
-📎 [阅读原文](https://www.thedrive.com/news/new-electric-car-sales-bounced-back-big-in-april-tds) — *The Drive*
 
 ---
 
@@ -363,35 +363,35 @@ The post New Electric Car Sales Bounced Back Big in Apr
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump Administration Abandons Fight Against Wind Energy as Clean Energy Output Surges
+### 1. Months After a Jet Fuel Leak, No Agency Tested Waters Downstream of Piscataway Creek. So Community Groups Are Doing It Themselves.
+
+[原文] In the five months after jet fuel started leaking from Joint Base Andrews into Piscataway Creek, no agency tested the water or sediment some 20 miles downstream, where the creek empties into the Potom
+
+📎 [阅读原文](https://insideclimatenews.org/news/16062026/joint-base-andrews-piscataway-creek-fuel-leak-water-testing/) — *Inside Climate News*
+
+### 2. Trump Administration Abandons Fight Against Wind Energy as Clean Energy Output Surges
 
 [原文] The Trump administration has abandoned its effort to halt wind energy projects across the United States and dropped its challenge to the court ruling that tossed President Donald Trump’s order freezin
 
 📎 [阅读原文](https://insideclimatenews.org/news/15062026/trump-administration-abandons-fight-against-wind-energy/) — *Inside Climate News*
 
-### 2. Microsoft’s Clean Energy Reversal Collides With Virginia’s Climate Goals
+### 3. Microsoft’s Clean Energy Reversal Collides With Virginia’s Climate Goals
 
 [原文] One of the world&#8217;s most profitable technology companies could be abandoning an ambitious clean-energy goal in Virginia as it races to build electricity-hungry data centers. Several of the compan
 
 📎 [阅读原文](https://insideclimatenews.org/news/15062026/microsoft-backpedals-on-climate-promises/) — *Inside Climate News*
 
-### 3. As Global Warming Threatens Corals Worldwide, Woods Hole Scientists Search for ‘Super Reefs’ That Can Take the Heat
+### 4. As Global Warming Threatens Corals Worldwide, Woods Hole Scientists Search for ‘Super Reefs’ That Can Take the Heat
 
 [原文] MAJURO, Marshall Islands—Perched on the bow of an aluminum landing craft, Anne Cohen gazed a few yards ahead of the vessel toward a yellow robot gliding across the emerald Majuro lagoon.&#160; The unm
 
 📎 [阅读原文](https://insideclimatenews.org/news/14062026/scientists-search-for-heat-resilient-reefs/) — *Inside Climate News*
 
-### 4. Pandemic Roulette
+### 5. Pandemic Roulette
 
 [原文] Billions of live animals move through the legal and illegal wildlife trade, a massive industry a former CDC epidemiologist described as “pandemic roulette.” Traded animals move to places they never wo
 
 📎 [阅读原文](https://insideclimatenews.org/news/14062026/icn-sunday-morning-pandemic-roulette/) — *Inside Climate News*
-
-### 5. A Commercial Space Race Prompts a Thorny Question: Who Owns the Sky?
-
-[原文] The starry night sky has always anchored humanity’s sense of place in a vast universe. It’s a map guiding travelers, a calendar for migrations and harvests, a wellspring of stories. But a surge of com
-
-📎 [阅读原文](https://insideclimatenews.org/news/13062026/commercial-satellite-space-race-pollution/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post New Electric Car Sales Bounced Back Big in Apr
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Smashing Pumpkins, Chris Stapleton to Perform America’s Block Party Benefit Concert
+### 1. Watch Wu-Tang Clan Showcase ‘Bring Da Ruckus,’ ‘C.R.E.A.M.’ on ‘Fallon’
+
+[原文] The New York rap group helped to celebrate the Knicks' championship victory by revisiting Enter the Wu-Tang (36 Chambers)
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/wu-tang-clan-bring-da-ruckus-cream-performance-fallon-1235578413/) — *Rolling Stone*
+
+### 2. Smashing Pumpkins, Chris Stapleton to Perform America’s Block Party Benefit Concert
 
 [原文] Proceeds after fees from tickets for the Fourth of July event in Los Angeles will benefit Feeding America
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/smashing-pumpkins-chris-stapleton-america250-benefit-show-1235578269/) — *Rolling Stone*
 
-### 2. Bonnie Tyler No Longer in Coma, But ‘Remains Very Unwell’ as Summer Tour Canceled
+### 3. Bonnie Tyler No Longer in Coma, But ‘Remains Very Unwell’ as Summer Tour Canceled
 
 [原文] The “Total Eclipse of the Heart” singer’s family still expect her to make a full recovery, and potentially return to the stage this fall
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/bonnie-tyler-coma-tour-dates-canceled-1235578023/) — *Rolling Stone*
 
-### 3. Sean Combs Wins Bid to Dismiss Dawn Richard’s Lawsuit
+### 4. Sean Combs Wins Bid to Dismiss Dawn Richard’s Lawsuit
 
 [原文] Richard’s lawyer said they will refile the heart of the Danity Kane singer’s case in New York state court
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/sean-diddy-combs-dawn-richards-lawsuit-1235577799/) — *Rolling Stone*
 
-### 4. Julia Jacklin Previews New Era With Fuzzy Rocker ‘Get Away From Me (I Think I’ll Love You Soon)’
+### 5. Julia Jacklin Previews New Era With Fuzzy Rocker ‘Get Away From Me (I Think I’ll Love You Soon)’
 
 [原文] The Australian singer-songwriter’s new album The Gem arrives in September
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/julia-jacklin-new-album-the-gem-1235577796/) — *Rolling Stone*
-
-### 5. Melanie Martinez Pays Tribute to Ex-Boyfriend Oliver Tree: ‘I Know You’re Making the Angels Giggle’
-
-[原文] Oliver Tree was among six people killed in a helicopter crash in Rio de Janeiro on Sunday. He was 32
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/oliver-tree-melanie-martinez-tribute-1235577361/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post New Electric Car Sales Bounced Back Big in Apr
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. RealTime Reservation Acquires STAY to Unify Hotel Ancillary Revenue Tech — Exclusive
+### 1. Norwegian Air To Buy Nordic Leisure Travel Group in $843m Bet on End-to-End Travel
+
+[原文] Why settle for just the airfare when you can own the whole holiday?
+
+📎 [阅读原文](https://skift.com/2026/06/16/norwegian-air-to-buy-nordic-leisure-travel-group-in-843m-bet-on-end-to-end-travel/) — *Skift*
+
+### 2. Amadeus’ New AI Tools Are Part of a Bigger Hotel Booking Plan — Exclusive
+
+[原文] Amadeus will publicly introduce two hotel AI tools at HITEC, but its bigger play is infrastructure. As AI agents move closer to travel booking, the GDS wants to help define how hotels are found, price
+
+📎 [阅读原文](https://skift.com/2026/06/16/amadeus-ai-hotel-tools-strategy-hitec-exclusive/) — *Skift*
+
+### 3. Turkish Airlines’ New Chair Charts More Profitable Path to 800 Aircraft
+
+[原文] The centenary deadline may have slipped, but Şeker's broader point is that Turkish Airlines is now big enough that the number of aircraft it operates matters less than what it does with them.
+
+📎 [阅读原文](https://skift.com/2026/06/16/turkish-airlines-new-chair-charts-more-profitable-path-to-800-aircraft/) — *Skift*
+
+### 4. RealTime Reservation Acquires STAY to Unify Hotel Ancillary Revenue Tech — Exclusive
 
 [原文] Hotels have chased non-room revenue for years without consolidating the fragmented tech underneath. This acquisition puts one shopping cart and one shared data foundation ahead of any new feature.
 
 📎 [阅读原文](https://skift.com/2026/06/15/realtime-reservation-stay-acquisition-hospitality-tech-ai/) — *Skift*
 
-### 2. Europe Leads May’s U.S. Tourism Slide
+### 5. Europe Leads May’s U.S. Tourism Slide
 
 [原文] Western Europe makes up more than 35% of the high-spending overseas tourist crowd. Federal data shows they’re continuing to pull back on U.S. travel.
 
 📎 [阅读原文](https://skift.com/2026/06/15/overseas-travel-united-states-may-decline/) — *Skift*
-
-### 3. Africa Is Not a Country, But the Travel Industry Keeps Treating It Like One
-
-[原文] A localized Ebola outbreak is leading to a continent-wide demand slump. The mechanism is well understood and almost nothing has been done about it.
-
-📎 [阅读原文](https://skift.com/2026/06/15/africa-is-not-a-country-but-the-travel-industry-keeps-treating-it-like-one/) — *Skift*
-
-### 4. Tripadvisor To Sell TheFork for $700 Million to Fuel Its Bet on Experiences
-
-[原文] The sale gives Tripadvisor the cash to chase the $1 trillion experiences market through Viator.
-
-📎 [阅读原文](https://skift.com/2026/06/15/tripadvisor-sell-thefork-american-express/) — *Skift*
-
-### 5. IHG Spent 8 Years Rebuilding Its Hotel Systems. Now It Says the Payoff Is Starting.
-
-[原文] IHG CEO Elie Maalouf is telling franchisees that eight years of tech investment has begun to expand their margins. It's an open question whether this early tech advantage will woo more hotel owners, b
-
-📎 [阅读原文](https://skift.com/2026/06/15/ihg-spent-8-years-rebuilding-its-hotel-systems-now-it-says-the-payoff-is-starting/) — *Skift*
 
 ---
 
@@ -528,6 +528,7 @@ The post New Electric Car Sales Bounced Back Big in Apr
 ## ⚠️ 今日故障源
 
 - **🚗 汽车**: Roadshow, Autocar
+- **✈️ 旅游**: Nomadic Matt
 
 ---
 
