@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年06月16日** | 生成时间: 2026-06-16 05:09
+**2026年06月16日** | 生成时间: 2026-06-16 12:48
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Bowen: Iran deal ends Trump's war that revealed limit of US dominance
+### 1. Trump may release US-Iran deal before Friday, Vance says
+
+[原文] The US vice-president says the agreement is "about a page and a half" and "very general", meaning many details will be worked out later.
+
+📎 [阅读原文](https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Bowen: Iran deal ends Trump's war that revealed limit of US dominance
 
 [原文] The deal to end fighting and re-open the Strait of Hormuz leaves the sides where they were 24 hours before the war - only with thousands now dead.
 
 📎 [阅读原文](https://www.bbc.com/news/articles/cdr4x3vg347o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Norwegian crown princess's son found guilty of two counts of rape
+### 3. Married at First Sight Australia allegations 'disturbing', says country's watchdog
 
-[原文] Marius Borg Høiby, the 29-year-old son of Norway's Crown Princess Mette Marit, has been sentenced to four years in jail.
+[原文] The claims also prompted a response from UK media regulator Ofcom, who called them "deeply concerning".
 
-📎 [阅读原文](https://www.bbc.com/news/articles/cly9d10l5p4o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.com/news/articles/c4gyp099vl7o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Brazil woman dies after rope-jumping instructors fail to attach cord
+### 4. Japan raises interest rate to highest since 1995
 
-[原文] Three men have been arrested after instructors failed to attach a rope to her before helping her jump from a bridge.
+[原文] The Bank of Japan has been raising rates from near-zero since 2024.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/c5yz4xelnveo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.com/news/articles/cjdgl213dpzo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. South African jazz legend Abdullah Ibrahim dies at 91
+### 5. California's Gavin Newsom alleges justice department is investigating his wife and ex-staff
 
-[原文] Ibrahim helped define a genre of South African jazz music in a career that spanned eight decades.
+[原文] A source familiar with the investigations said they had been ongoing for "roughly a year'".
 
-📎 [阅读原文](https://www.bbc.com/news/articles/cy5vngrq3q5o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. MSF staff abused Sudanese refugees in sex-for-food scandal
-
-[原文] Some victims said they chose not to speak out because they feared staff would cut off access to aid.
-
-📎 [阅读原文](https://www.bbc.com/news/articles/c74ykjl8mx3o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.com/news/articles/c3vyw7021r0o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -66,23 +66,23 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/06/15/gavin-newsom-trump-doj-investigation-california.html) — *CNBC*
 
-### 3. Trump trusts Fed Chair Kevin Warsh. It matters for more than interest rates
+### 3. China economy weakens further in May as retail sales post first drop in over three years
 
-[原文] New Fed Chair Kevin Warsh is expected to hold interest rates steady this week, but President Donald Trump’s trust gives him room to pursue longer-term changes.
+[原文] China's retail sales fell for the first time in more than three years in May, while urban investment contracted more than expected, adding to signs the economic slump deepened.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/15/trump-warsh-fed-reshape.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/16/china-economy-may-retail-sales-industrial-output-fixed-asset-investment-.html) — *CNBC*
 
-### 4. Nvidia plans to raise at least $20 billion in first debt sale since start of AI boom
+### 4. Bank of Japan hikes rates to 1%, highest since 1995, as yen and inflation worries take hold
 
-[原文] Nvidia is set raise capital in a debt sale for the first time since 2021, when the chipmaker was a fraction of its current size.
+[原文] This is the BOJ's first hike since December, when it raised rates to its current level of 0.75%, also its highest level in over 30 years.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/15/nvidia-plans-to-raise-about-20-billion-first-debt-sale-in-ai-boom.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/16/boj-rate-hike-historic-inflation.html) — *CNBC*
 
-### 5. Vance says 'a lot' of Iran deal details to figure out, but U.S. has 'all the cards'
+### 5. South Korean defense stocks surge on prospects for post-Iran-war sales boosts
 
-[原文] Vance on CNBC's "Squawk Box" expressed confidence that America has "all the cards" in subsequent talks with Iran.
+[原文] South Korean defense stocks have risen as there will be "numerous export pipelines" for companies to sell to the Middle East.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/15/vance-iran-deal-negotiations-nuclear.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/16/south-korean-defense-stocks-surge-on-prospects-for-iran-wars-end-.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms
+### 1. Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties
+
+[原文] AI is once again at the heart of a college graduation protest — this time for the technology's use in Google's defense contracts.
+
+📎 [阅读原文](https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/) — *TechCrunch*
+
+### 2. The US government’s Anthropic models ban was never about an AI jailbreak
+
+[原文] The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune fro
+
+📎 [阅读原文](https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/) — *TechCrunch*
+
+### 3. Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms
 
 [原文] Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged on the platform.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/) — *TechCrunch*
 
-### 2. SpaceX is public: Everything you need to know post-IPO
+### 4. SpaceX is public: Everything you need to know post-IPO
 
 [原文] TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and mayb
 
 📎 [阅读原文](https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/) — *TechCrunch*
 
-### 3. These are the countries moving to ban social media for children
+### 5. These are the countries moving to ban social media for children
 
 [原文] Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and ex
 
 📎 [阅读原文](https://techcrunch.com/2026/06/15/social-media-ban-children-countries-list/) — *TechCrunch*
-
-### 4. Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models
-
-[原文] A group made up of dozens of cybersecurity experts urged the White House to remove export-control restrictions on Anthropic’s Fable and Mythos models, arguing that the order is going to limit the abil
-
-📎 [阅读原文](https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/) — *TechCrunch*
-
-### 5. SpaceX’s biggest-ever IPO just grew to $85.7 billion raised
-
-[原文] SpaceX's IPO underwriters maxed out their share purchases, adding to an already historic amount of money raised.
-
-📎 [阅读原文](https://techcrunch.com/2026/06/15/spacexs-biggest-ever-ipo-just-grew-to-85-7-billion-raised/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The 40-year-old keeper who inspired Cape Verde's historic debut against Spain
+### 1. Iran v Iran in the stands as politics and football intertwine
 
-[原文] Cape Verde stuns Spain with a goalless draw inspired by a 40-year-old goalkeeper who has gone viral on social media.
+[原文] The Iranian team may want to unite people but what the game with New Zealand revealed is just how divided many Iranians remain, writes BBC North America correspondent Shaimaa Khalil.
 
-📎 [阅读原文](https://www.bbc.com/sport/football/articles/c0ryz4n2v0qo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.com/sport/football/articles/cvgj1v4pnvyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. I'll keep gambling with fitness for England - Saka
+### 2. Just scores double but New Zealand held by Iran in entertaining game
 
-[原文] Bukayo Saka says he will continue gambling with his fitness and is "ready to go" for England's World Cup opener against Croatia on Wednesday.
+[原文] Iran twice come from behind to draw 2-2 with New Zealand at the Los Angeles Stadium in their Group G encounter.
 
-📎 [阅读原文](https://www.bbc.com/sport/football/articles/c75y7x9ev9zo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.com/sport/football/videos/c8d242de81eo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Palace appoint Sage as head coach on three-year deal
-
-[原文] Crystal Palace appoint Lens manager Pierre Sage as their head coach on a three-year contract to succeed Oliver Glasner.
-
-📎 [阅读原文](https://www.bbc.com/sport/football/articles/c932k94ggr9o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. McCullum worried for Stokes as coach gives no captaincy backing
+### 3. McCullum worried for Stokes as coach gives no captaincy backing
 
 [原文] Brendon McCullum refuses to be drawn on Ben Stokes’ future as England captain, but repeatedly speaks of his “worry and concern” for the all-rounder.
 
 📎 [阅读原文](https://www.bbc.com/sport/cricket/articles/cg53d054vl7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Vozinha heroics help Cape Verde hold Spain to goalless draw
+### 4. The 40-year-old keeper who inspired Cape Verde's historic debut against Spain
 
-[原文] European champions Spain were held to surprise 0-0 draw by debutants Cape Verde in their World Cup opener, with 40-year-old goalkeeper Vozinha producing a standout performance for his side in their Gr
+[原文] Cape Verde stuns Spain with a goalless draw inspired by a 40-year-old goalkeeper who has gone viral on social media.
 
-📎 [阅读原文](https://www.bbc.com/sport/football/videos/c621kr6q2rro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.com/sport/football/articles/c0ryz4n2v0qo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 5. VAR official says hand gesture was 'involuntary, subconscious twitch'
+
+[原文] Video assistant referee Shaun Evans has denied "intentionally" making a hand gesture "to communicate a message, affiliation, game or belief of any kind" and claimed it was a "an involuntary, subconsci
+
+📎 [阅读原文](https://www.bbc.com/sport/football/articles/c0ryzjl1jlyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Disney+ Greenlights Fantasy Animated Series ‘Journey’ With Obamas’ Higher Ground Producing
+### 1. Jon Stewart Slams Fighter Josh Hokit as a ‘F—ing A–hole’ For Saying ‘Michelle Obama Is a Man’ at UFC Freedom 250
 
-[原文] A new original animated series with the working title “Journey” has been greenlit for Disney+. The show is currently in production from Disney Kids &#38; Family and Higher Ground. Per the logline, “Wh
+[原文] On Monday night’s episode of “The Daily Show,” Jon Stewart slammed fighter Josh Hokit for saying Michelle Obama was a man during his post-fight interview at Sunday night’s UFC Freedom 250 event, which
 
-📎 [阅读原文](https://variety.com/2026/tv/news/disney-animated-series-journey-obamas-higher-ground-1236781932/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/jon-stewart-slams-fighter-josh-hokit-michelle-obama-ufc-250-1236782245/) — *Variety*
 
-### 2. Last-Minute Gifts Delivered in Time for Father’s Day: From Craft Beer Subscriptions and Cooking Classes to an ESPN+ Membership
+### 2. India’s All Living Things Environmental Film Festival Launches Green Doc Fund (EXCLUSIVE)
 
-[原文] If you have a tendency to leave shopping to the very last second, you&#8217;re certainly not alone. While there&#8217;s still ample time to procure the perfect gift, if you do procrastinate this year,
+[原文] The All Living Things Environmental Film Festival has launched one of India&#8217;s largest environmental film funds, an INR1.2 crore ($126,000) initiative backed by Rohini Nilekani Philanthropies tha
 
-📎 [阅读原文](https://variety.com/shop/best-last-minute-gifts-online-shopping-1203087048/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/india-green-doc-fund-alt-eff-1236781649/) — *Variety*
 
-### 3. Ariana Grande Pitched Judy Garland ‘Get Happy/Happy Days’ Duet on ‘Wicked: One Wonderful Night’ Over Zoom
+### 3. Sheryl Crow Slams Trump Administration for Staging UFC Fight at White House: ‘Disgraceful and Void of Decency’
 
-[原文] Executive producer Ben Winston is no stranger to producing variety specials. He counts “The Late Late Show,” “The Grammy Awards,” and more among his credits. When it came to bringing “Wicked: One Wond
+[原文] Sheryl Crow has slammed President Donald Trump and his administration for staging the UFC Freedom 250 event last night at the White House, describing it as &#8220;disgraceful and void of decency.&#822
 
-📎 [阅读原文](https://variety.com/2026/tv/news/ariana-grande-judy-garland-wicked-one-wonderful-night-1236781633/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/sheryl-crow-slams-trump-for-ufc-fight-at-white-house-1236782215/) — *Variety*
 
-### 4. How Actors From Penélope Cruz to Brad Pitt Could Score Multiple Oscar Nods in the Same Race
+### 4. Neymar Jr. Partners With FlareFlow on 16-Title AI Microdrama Franchise
 
-[原文] Can any of this year’s Oscar acting contenders receive a double take? One of the most notable rule changes for the 99th Oscars allows an actor to earn multiple nominations in the same category, provid
+[原文] Soccer icon Neymar Jr. has signed on for a 16-title AI-powered live-action microdrama franchise with COL Group&#8217;s FlareFlow platform, with the first six titles to debut globally beginning June 19
 
-📎 [阅读原文](https://variety.com/lists/oscars-double-nomination-rule-anne-hathaway-brad-pitt/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/neymar-jr-flareflow-ai-microdrama-franchise-1236771243/) — *Variety*
 
-### 5. LISTEN: ‘Disclosure Day’ Adds to Summer Box Office Momentum; Why Fox is Buying Roku
+### 5. Inside APOS 2026: AI, Microdramas and the Future of Asian Streaming Take Center Stage in Bali
 
-[原文] On today’s episode of &#8220;Daily Variety&#8221; podcast, in our Box Office segment, Variety’s Rebecca Rubin weighs the opening weekend of Steven Spielberg’s “Disclosure Day.&#8221; And Todd Spangler
+[原文] The chiefs of Asia-Pacific operations for Netflix, Prime Video, Walt Disney and Warner Bros. Discovery will share a stage at APOS 2026, as the annual summit convenes June 16-18 in Bali. The four execu
 
-📎 [阅读原文](https://variety.com/2026/biz/box-office/disclosure-day-box-office-roku-fox-daily-variety-1236781853/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/apos-2026-preview-netflix-prime-video-disney-wbd-1236781783/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The LEGO Leonardo da Vinci Flying Machine Set Drops to Its Lowest Price Ever
+### 1. Obsession Director Curry Barker Says Gen Z Is 'Tired of Slop' and 'Will Show Up' for Good Movies
 
-[原文] Both Amazon and Target are currently offering the LEGO version of da Vinci's Flying Machine for $39.99, its lowest price ever.
+[原文] Obsession director Curry Barker has said that, if there's anything he's learned in the last month, it's that "Gen Z will show up" to theaters if the films are good enough.
 
-📎 [阅读原文](https://www.ign.com/articles/the-lego-leonardo-da-vinci-flying-machine-set-deal-june-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/obsession-director-curry-barker-says-gen-z-is-tired-of-slop-and-will-show-up-for-good-movies) — *IGN*
 
-### 2. Save $950 Off the Powerful Lenovo Legion Pro 7 RTX 5090 Gaming Laptop and Get 007: First Light for Free
+### 2. Harry Potter TV Series Casts Peter Serafinowicz in Role Not Featured in the Films
 
-[原文] Equipped with a gorgeous 16" 2500x1600 240Hz OLED display
+[原文] HBO's Harry Potter series has cast Peter Serafinowicz as Peeves the Poltergeist.
 
-📎 [阅读原文](https://www.ign.com/articles/lenovo-legion-pro-7-rtx-5090-gaming-laptop-deal-june-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/harry-potter-tv-series-casts-peter-serafinowicz-in-role-not-featured-in-the-films) — *IGN*
 
-### 3. The Wolfbox MF60 Cordless Electric Air Duster Features Great Build Quality and Tons of Airflow for $28
+### 3. Grab an Alienware RTX 5080 Gaming PC With 32GB of RAM and 2TB SSD for $2,579 Before It Sells Out
 
-[原文] Order it today and get it delivered to you by Father's Day.
+[原文] Dell Outlet include the same 1 year warranty as buying brand new from Dell.com.
 
-📎 [阅读原文](https://www.ign.com/articles/wolfbox-mega-flow-mf60-cordless-electric-air-duster-deal-amazon-fathers-day-sale) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/alienware-aurora-rtx-5080-gaming-pc-deal-at-dell-outlet-june-2026-updated) — *IGN*
 
-### 4. The Muppets Take the Marvel Universe: Marvel Reveals Kooky Crossover Special
+### 4. All of the Dungeon Crawler Carl Books Are on Sale at Amazon Before Prime Day
 
-[原文] Kermit and Spider-Man are about to become the newest Dynamic Duo, as Marvel Comics reveals The Muppets Take the Marvel Universe.
+暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/the-muppets-take-the-marvel-universe-marvel-reveals-kooky-crossover-special) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/the-dungeon-crawler-carl-books-sale-amazon-prime-day-2026) — *IGN*
 
-### 5. Today’s Top Deals: LEGO Speed Champions Movie Cars, Xbox Gift Cards, Switch 2 Cameras, and More
+### 5. EA Sports UFC 6 Review So Far
 
-[原文] Plus, check out awesome discounted Father’s Day gift ideas
+[原文] An impressive fighting game that strays further than ever from the sport’s reality.
 
-📎 [阅读原文](https://www.ign.com/articles/best-deals-for-june-15-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/ea-sports-ufc-6-review) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post New Electric Car Sales Bounced Back Big in Apr
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Microsoft’s Clean Energy Reversal Collides With Virginia’s Climate Goals
+### 1. Trump Administration Abandons Fight Against Wind Energy as Clean Energy Output Surges
+
+[原文] The Trump administration has abandoned its effort to halt wind energy projects across the United States and dropped its challenge to the court ruling that tossed President Donald Trump’s order freezin
+
+📎 [阅读原文](https://insideclimatenews.org/news/15062026/trump-administration-abandons-fight-against-wind-energy/) — *Inside Climate News*
+
+### 2. Microsoft’s Clean Energy Reversal Collides With Virginia’s Climate Goals
 
 [原文] One of the world&#8217;s most profitable technology companies could be abandoning an ambitious clean-energy goal in Virginia as it races to build electricity-hungry data centers. Several of the compan
 
 📎 [阅读原文](https://insideclimatenews.org/news/15062026/microsoft-backpedals-on-climate-promises/) — *Inside Climate News*
 
-### 2. As Global Warming Threatens Corals Worldwide, Woods Hole Scientists Search for ‘Super Reefs’ That Can Take the Heat
+### 3. As Global Warming Threatens Corals Worldwide, Woods Hole Scientists Search for ‘Super Reefs’ That Can Take the Heat
 
 [原文] MAJURO, Marshall Islands—Perched on the bow of an aluminum landing craft, Anne Cohen gazed a few yards ahead of the vessel toward a yellow robot gliding across the emerald Majuro lagoon.&#160; The unm
 
 📎 [阅读原文](https://insideclimatenews.org/news/14062026/scientists-search-for-heat-resilient-reefs/) — *Inside Climate News*
 
-### 3. Pandemic Roulette
+### 4. Pandemic Roulette
 
 [原文] Billions of live animals move through the legal and illegal wildlife trade, a massive industry a former CDC epidemiologist described as “pandemic roulette.” Traded animals move to places they never wo
 
 📎 [阅读原文](https://insideclimatenews.org/news/14062026/icn-sunday-morning-pandemic-roulette/) — *Inside Climate News*
 
-### 4. A Commercial Space Race Prompts a Thorny Question: Who Owns the Sky?
+### 5. A Commercial Space Race Prompts a Thorny Question: Who Owns the Sky?
 
 [原文] The starry night sky has always anchored humanity’s sense of place in a vast universe. It’s a map guiding travelers, a calendar for migrations and harvests, a wellspring of stories. But a surge of com
 
 📎 [阅读原文](https://insideclimatenews.org/news/13062026/commercial-satellite-space-race-pollution/) — *Inside Climate News*
-
-### 5. A Massive Volunteer Network in Florida Works to Save Endangered Sea Turtles
-
-[原文] “Pull! Pull!” shouts Scott Dexter, chanting the cadence for eight men gripping a rope. “Pull!”&#160; With each pull, a 172-pound male loggerhead sea turtle is hoisted higher into the air. It takes sev
-
-📎 [阅读原文](https://insideclimatenews.org/news/13062026/florida-volunteers-work-to-save-endangered-sea-turtles/) — *Inside Climate News*
 
 ---
 
@@ -401,35 +401,35 @@ The post New Electric Car Sales Bounced Back Big in Apr
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. I Built an AI Grading Tool. Then a Student Thanked Me for Words I Didn’t Write.
+### 1. Hardware Upgrade
+
+[原文] #ASUSEducation @ASUS
+
+📎 [阅读原文](https://edsurge.com/news/hardware-upgrade) — *EdSurge*
+
+### 2. I Built an AI Grading Tool. Then a Student Thanked Me for Words I Didn’t Write.
 
 [原文] How to keep teachers in charge when AI does the grading.
 
 📎 [阅读原文](https://edsurge.com/news/i-built-an-ai-grading-tool-then-a-student-thanked-me-for-words-i-didnt-write) — *EdSurge*
 
-### 2. AI Won’t Replace Educators. But It is Changing How Students Learn.
+### 3. AI Won’t Replace Educators. But It is Changing How Students Learn.
 
 [原文] The question for educators: How to know when AI supports real learning.
 
 📎 [阅读原文](https://edsurge.com/news/ai-wont-replace-educators-but-it-is-changing-how-students-learn) — *EdSurge*
 
-### 3. What TikTok Is Teaching Future Teachers (That We Aren’t)
+### 4. What TikTok Is Teaching Future Teachers (That We Aren’t)
 
 [原文] A new educational epistemology for today's teachers.
 
 📎 [阅读原文](https://edsurge.com/news/what-tiktok-is-teaching-future-teachers-that-we-arent) — *EdSurge*
 
-### 4. Recess, Screens, and Absenteeism
+### 5. Recess, Screens, and Absenteeism
 
 暂无摘要。
 
 📎 [阅读原文](https://edsurge.com/news/recess-screens-and-absenteeism) — *EdSurge*
-
-### 5. Can Schools Afford an AI-First Future?
-
-[原文] While some experts suggest AI integration for teaching and learning, schools still have to figure out how to pay for it.
-
-📎 [阅读原文](https://edsurge.com/news/can-schools-afford-an-ai-first-future) — *EdSurge*
 
 ---
 
@@ -439,35 +439,35 @@ The post New Electric Car Sales Bounced Back Big in Apr
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Bonnie Tyler No Longer in Coma, But ‘Remains Very Unwell’ as Summer Tour Canceled
+### 1. Smashing Pumpkins, Chris Stapleton to Perform America’s Block Party Benefit Concert
+
+[原文] Proceeds after fees from tickets for the Fourth of July event in Los Angeles will benefit Feeding America
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/smashing-pumpkins-chris-stapleton-america250-benefit-show-1235578269/) — *Rolling Stone*
+
+### 2. Bonnie Tyler No Longer in Coma, But ‘Remains Very Unwell’ as Summer Tour Canceled
 
 [原文] The “Total Eclipse of the Heart” singer’s family still expect her to make a full recovery, and potentially return to the stage this fall
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/bonnie-tyler-coma-tour-dates-canceled-1235578023/) — *Rolling Stone*
 
-### 2. Sean Combs Wins Bid to Dismiss Dawn Richard’s Lawsuit
+### 3. Sean Combs Wins Bid to Dismiss Dawn Richard’s Lawsuit
 
 [原文] Richard’s lawyer said they will refile the heart of the Danity Kane singer’s case in New York state court
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/sean-diddy-combs-dawn-richards-lawsuit-1235577799/) — *Rolling Stone*
 
-### 3. Julia Jacklin Previews New Era With Fuzzy Rocker ‘Get Away From Me (I Think I’ll Love You Soon)’
+### 4. Julia Jacklin Previews New Era With Fuzzy Rocker ‘Get Away From Me (I Think I’ll Love You Soon)’
 
 [原文] The Australian singer-songwriter’s new album The Gem arrives in September
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/julia-jacklin-new-album-the-gem-1235577796/) — *Rolling Stone*
 
-### 4. Melanie Martinez Pays Tribute to Ex-Boyfriend Oliver Tree: ‘I Know You’re Making the Angels Giggle’
+### 5. Melanie Martinez Pays Tribute to Ex-Boyfriend Oliver Tree: ‘I Know You’re Making the Angels Giggle’
 
 [原文] Oliver Tree was among six people killed in a helicopter crash in Rio de Janeiro on Sunday. He was 32
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/oliver-tree-melanie-martinez-tribute-1235577361/) — *Rolling Stone*
-
-### 5. Madonna and Sabrina Carpenter Have Something They Wanna Talk About in ‘Bring Your Love’ Video
-
-[原文] Julia Garner also makes a cameo in the clip for the Confessions II single
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/madonna-bring-your-love-video-sabrina-carpenter-1235577750/) — *Rolling Stone*
 
 ---
 
