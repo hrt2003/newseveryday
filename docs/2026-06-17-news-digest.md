@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年06月17日** | 生成时间: 2026-06-17 01:02
+**2026年06月17日** | 生成时间: 2026-06-17 04:56
 
 ---
 
@@ -16,23 +16,23 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. UK investigating reports Russian warship fired warning shots near yacht in English Channel
-
-[原文] BBC News understands the yacht had drifted towards the Admiral Grigorovich, a Russian frigate which has been operating in the Channel.
-
-📎 [阅读原文](https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 2. Tehran selling deal with US as victory – but for Iranians it was necessity
+### 1. Tehran selling deal with US as victory – but for Iranians it was necessity
 
 [原文] For many Iranians, the question is not whether the deal means victory, but whether it lowers prices and reduces fear of another war.
 
 📎 [阅读原文](https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Fragile quiet in Lebanon as US-Iran truce leaves unanswered questions
+### 2. Fragile quiet in Lebanon as US-Iran truce leaves unanswered questions
 
 [原文] Many Lebanese remain doubtful that the agreement could finally mean the end of the fighting between Israel and Hezbollah.
 
 📎 [阅读原文](https://www.bbc.com/news/articles/cvgepl5gdp1o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. UK investigating reports Russian warship fired warning shots near yacht in English Channel
+
+[原文] BBC News understands the yacht had drifted towards the Admiral Grigorovich, a Russian frigate which has been operating in the Channel.
+
+📎 [阅读原文](https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 4. Russian artist and Putin critic shot dead in Poland
 
@@ -40,11 +40,11 @@
 
 📎 [阅读原文](https://www.bbc.com/news/articles/clyrzd5g6k2o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. France's oldest female detainee, 79, goes on trial for in-law's grisly murder
+### 5. German broadcaster removes TV intro after Elon Musk takes legal action
 
-[原文] A dismembered body found in a chain-bound trunk in the Seine in 1995 was only recently connected to the defendant by DNA evidence.
+[原文] ZDF TV responded to a "cease and desist" letter after the tech trillionaire condemned the broadcaster's "outrageous lies".
 
-📎 [阅读原文](https://www.bbc.com/news/articles/cy498llene1o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.com/news/articles/c0jyzp9z9deo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. SpaceX leapfrogs Amazon in market cap, briefly jumps Microsoft among top U.S. companies
-
-[原文] CEO Elon Musk said Sunday that the company "might be able to reach approximately" $1 trillion revenue in 2030.
-
-📎 [阅读原文](https://www.cnbc.com/2026/06/16/spacex-stock-rally-market-cap.html) — *CNBC*
-
-### 2. Trump signals he could send details of Iran deal to Congress
-
-[原文] The peace deal announced Sunday is meeting lukewarm reactions from Congress, including some allies of President Donald Trump.
-
-📎 [阅读原文](https://www.cnbc.com/2026/06/16/trump-iran-deal-congress.html) — *CNBC*
-
-### 3. Snap unveils $2,195 AR glasses as CEO Evan Spiegel bets on post-smartphone future
-
-[原文] Snap is launching its first AR glasses geared toward the broader public instead of developers.
-
-📎 [阅读原文](https://www.cnbc.com/2026/06/16/snap-unveils-2195-specs-ar-glasses-spiegel-bets-on-post-smartphone.html) — *CNBC*
-
-### 4. The new oil? Inside the effort to turn AI computing power into a tradeable commodity
-
-[原文] AI compute futures could eventually rival some of the world's largest commodity markets, Silicon Data's Carmen Li believes.
-
-📎 [阅读原文](https://www.cnbc.com/2026/06/16/the-new-oil-inside-the-effort-to-turn-ai-computing-power-into-a-tradeable-commodity.html) — *CNBC*
-
-### 5. Carvana is expanding into new vehicles. The implications could reshape the U.S. automotive retail market
+### 1. Carvana is expanding into new vehicles. The implications could reshape the U.S. automotive retail market
 
 [原文] Carvana has bought seven new vehicle franchises since last year that primarily sell Stellantis' Chrysler, Dodge, Jeep and Ram brands.
 
 📎 [阅读原文](https://www.cnbc.com/2026/06/16/carvana-new-cars-dealerships.html) — *CNBC*
+
+### 2. Fed Chair Warsh expected to withhold 'dot' from central bank's interest rate outlook
+
+[原文] The central bank's Federal Open Market Committee is set to release its quarterly update of where individual officials expect interest rates to head.
+
+📎 [阅读原文](https://www.cnbc.com/2026/06/16/fed-chair-warsh-expected-to-withhold-dot-from-central-banks-interest-rate-outlook.html) — *CNBC*
+
+### 3. Michael Burry says he's tempted to bet against SpaceX, but passes on expensive options
+
+[原文] Burry argued the company's market capitalization had reached levels that dwarf many established businesses and fortunes.
+
+📎 [阅读原文](https://www.cnbc.com/2026/06/16/michael-burry-says-hes-tempted-to-bet-against-spacex-but-passes-on-expensive-options.html) — *CNBC*
+
+### 4. Bill limiting investors from buying homes set to speed through Congress
+
+[原文] Top lawmakers reached an agreement on a key housing bill that would limit investor ownership, clearing the way for passage through both chambers of Congress.
+
+📎 [阅读原文](https://www.cnbc.com/2026/06/16/housing-bill-limiting-investors-congress.html) — *CNBC*
+
+### 5. Technical factors are adding fuel to SpaceX's meme stock fire
+
+[原文] Options, leveraged ETFs and index arbitrage are likely boosting the stock ahead of its inclusion in some benchmark stock indexes.
+
+📎 [阅读原文](https://www.cnbc.com/2026/06/16/technical-factors-are-adding-fuel-to-spacexs-meme-stock-fire.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Snap finally debuts its long awaited AR glasses, Specs, and, oof, they aren’t cheap
+### 1. SpaceX valuation balloons to $2.6T, briefly passes Amazon
 
-[原文] After many years, Snap is finally launching its next consumer-focused smart glasses line.
+[原文] SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.
 
-📎 [阅读原文](https://techcrunch.com/2026/06/16/snap-finally-debuts-its-long-awaited-ar-glasses-specs-and-oof-they-arent-cheap/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/) — *TechCrunch*
 
-### 2. Sixty percent of U.S. consumers say ‘AI’ in brand messaging is a turnoff, survey finds
+### 2. Qualcomm wants to be the chip inside whatever replaces your smartphone, and it just announced two products toward that end
 
-[原文] WordPress VIP’s latest survey suggests consumers are wary of AI-generated answers even as companies increasingly view AI search as an important referral channel.
+[原文] Qualcomm CEO Cristiano Amon said Tuesday that the company is working on over 40 different AI wearable devices — including jewelry, earbuds with cameras, pins, and watches — a sign of how aggressively 
 
-📎 [阅读原文](https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/06/16/qualcomm-wants-to-be-the-chip-inside-whatever-replaces-your-smartphone-and-it-just-announced-two-products-toward-that-end/) — *TechCrunch*
 
-### 3. SpaceX is public: Everything you need to know post-IPO
+### 3. Bug in FIFA World Cup internal system gave anyone ability to modify TV stream
 
-[原文] TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and mayb
+[原文] A security researcher said a flaw in FIFA’s online platforms allowed her to access several internal systems, including one that could have allowed her to take control of the TV stream of every World C
 
-📎 [阅读原文](https://techcrunch.com/2026/06/16/spacex-is-public-everything-you-need-to-know-post-ipo/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/06/16/bug-in-fifa-world-cup-internal-system-gave-anyone-ability-to-modify-tv-stream/) — *TechCrunch*
 
-### 4. India orders temporary ban on Telegram over exam fraud concerns
+### 4. Android 17 launches with new multitasking tools as Google expands Gemini features
 
-[原文] The restrictions include a nationwide ban on Telegram until June 22 and a requirement to disable the app's message editing feature.
+[原文] Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The launch is also accompanied by a Pixel Drop that bri
 
-📎 [阅读原文](https://techcrunch.com/2026/06/16/india-temporarily-blocks-access-to-telegram-over-exam-fraud-concerns/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/) — *TechCrunch*
 
-### 5. Payments startup Flutterwave hits $3.2B valuation, backed by Ripple
+### 5. Mobileye’s US robotaxi launch will put it on both sides of the AV business
 
-[原文] African payments infrastructure company Flutterwave has hit a new valuation and landed blockchain company Ripple as investor and partner.
+[原文] Mobileye apparently wants to own some of the robotaxi market, even if that puts it in direct competition with companies it supplies its self-driving system to.
 
-📎 [阅读原文](https://techcrunch.com/2026/06/16/payments-startup-flutterwave-hits-3-2b-valuation-backed-by-ripple/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/06/16/mobileye-us-robotaxi-launch-will-put-it-on-both-sides-of-the-av-business/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Chalobah replaces injured Livramento for World Cup
+### 1. Project Mbappe - the road to becoming France's record scorer
 
-[原文] Newcastle United full-back Tino Livramento is out of England's World Cup campaign with a calf injury and is replaced by Chelsea defender Trevoh Chalobah.
+[原文] Kylian Mbappe has become France's joint record scorer, aged just 27. BBC Sport takes a closer look at how he got here.
 
-📎 [阅读原文](https://www.bbc.com/sport/football/articles/c992n95lgrmo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.com/sport/football/articles/c62lp6xx6zdo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Tuchel's England deal includes performance clause
+### 2. Tuchel's defensive gambles and what do they say about Alexander-Arnold?
 
-[原文] Thomas Tuchel's England contract extension is subject to a performance clause, says FA chief executive Mark Bullingham.
+[原文] England head coach Thomas Tuchel's high-risk defensive selection for World Cup exposed by Tino Livramento's injury as Trent Alexander-Arnold is snubbed again, says Phil McNulty.
 
-📎 [阅读原文](https://www.bbc.com/sport/football/articles/clye3plyj7xo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.com/sport/football/articles/cy4ev318qd2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Rew to make debut as Smith misses second Test
+### 3. Spectre of Stokes hangs over England at The Oval
 
-[原文] Jamie Smith misses England's second Test against New Zealand following the birth of his daughter, with James Rew coming into the side as a third debutant.
+[原文] England have handed out four debuts in two Tests this summer but Ben Stokes' role in the latest revolution remains a mystery and will hang over England at The Oval.
 
-📎 [阅读原文](https://www.bbc.com/sport/cricket/articles/cm2j4m4rrgko?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.com/sport/cricket/articles/c3ry8lyd7j0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Williams sisters to play together at Wimbledon
+### 4. Spurs agree £52m Van Hecke deal with Brighton
 
-[原文] Serena Williams is given a wildcard to play alongside older sister Venus in the Wimbledon women's doubles.
+[原文] Netherlands World Cup defender Jan Paul van Hecke is set to leave Brighton for Tottenham Hotspur after the two clubs agree a £52m deal.
 
-📎 [阅读原文](https://www.bbc.com/sport/tennis/articles/clyerm8lym9o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.com/sport/articles/cpwez2pg8x1o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Meet the Iraq player set to make history for Pakistan
+### 5. Cape Verde - Scotland's template against Morocco?
 
-[原文] Zidane Iqbal, a former Manchester United player, will make history when he plays for Iraq this summer, becoming the first player of Pakistani heritage to feature at a men's World Cup.
+[原文] Former Scotland players Neil McCann and Willie Miller share their thoughts on how Steve Clarke's side might find success against Morocco.
 
-📎 [阅读原文](https://www.bbc.com/sport/football/articles/c99lzern58eo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.com/sport/football/articles/c982g3m5e5lo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. CBS Will Pay for Unauthorized Use of ‘Linus and Lucy’ in ‘The Late Show With Stephen Colbert’ Finale; Proceeds to be Donated to José Andrés’ World Central Kitchen
+### 1. Rapper Mystikal Sentenced to 20 Years in Rape Case
 
-[原文] CBS has struck a deal to pay Lee Mendelson Film Productions, Inc., an undisclosed amount after &#8220;The Late Show With Stephen Colbert&#8221; used the famed Vince Guaraldi composition &#8220;Linus a
+[原文] Rapper Mystikal has been sentenced to 20 years in prison after pleading guilty to raping a woman at his Louisiana home in 2022. The victim appeared before the court on Tuesday and asked for the maximu
 
-📎 [阅读原文](https://variety.com/2026/tv/news/cbs-linus-and-lucy-late-show-with-stephen-colbert-finale-1236782764/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/rapper-mystikal-sentenced-20-years-prison-rape-case-1236783094/) — *Variety*
 
-### 2. ‘The View’ Hosts Grill JD Vance on Epstein Files, ICE and Trump: ‘Are You His Interpreter or His Vice President?’
+### 2. Quinta Brunson and ‘Abbott Elementary’ Hair Department Head Break Down Halloween Looks, Melissa’s ’80s Hair and More
 
-[原文] JD Vance went into the lion&#8217;s den on Tuesday as the hosts of &#8220;The View&#8221; grilled him on a litany of hot political topics. The vice president appeared on the ABC talk program to promot
+[原文] Even before the new season of “Abbott Elementary” begins, showrunner, creator and star Quinta Brunson will sit down with the show&#8217;s hair department head Moira Frazier to discuss various hair cha
 
-📎 [阅读原文](https://variety.com/2026/tv/news/jd-vance-the-view-grilled-epstein-files-ice-trump-1236782772/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/artisans/news/quinta-brunson-abbott-elementary-hair-looks-halloween-1236782744/) — *Variety*
 
-### 3. Audible Is $1/Month For 3 Months With This Summer Deal
+### 3. How ‘The Other Bennet Sister’ Star Ella Bruccoleri Learned to Love Jane Austen: ‘It Actually Feels Like She’s on My Side’
 
-[原文] Ahead of summer travel season, Amazon Prime is offering three months of Audible for only $.99/month. Once the three months conclude, they&#8217;ll begin charging their typical $8.99/month. The deal, w
+[原文] The BBC&#8217;s most-watched show since May last year, &#8220;The Other Bennet Sister&#8221; has also proven to be a sizeable hit on BritBox in the U.S. And the success of the show has taken its star 
 
-📎 [阅读原文](https://variety.com/shop/audible-plus-deal-2-1235042889/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/global/the-other-bennet-sister-star-ella-bruccoleri-jane-austen-1236783178/) — *Variety*
 
-### 4. Venice Film Festival Takes Shape: ‘The Social Reckoning,’ ‘Here Comes the Flood’ With Denzel Washington, Florian Zeller’s ‘Bunker’ and ‘The Studio’ Season 2 Among Potential Titles
+### 4. Yellow Veil Pictures Boards NYC Nightlife Thriller ‘Corpus,’ Launching Sales Before Fantasia Premiere (EXCLUSIVE)
 
-[原文] With a little over a month left until the Venice Film Festival lineup is unveiled, a clutch of buzzy prestige titles with top talent has emerged as likely contenders for the Golden Lion. New works by 
+[原文] A thriller set in the &#8217;90s New York nightlife scene is set to have its premiere at Montreal&#8217;s Fantasia International Film Festival,&#160;and Yellow Veil Pictures has boarded the film in ch
 
-📎 [阅读原文](https://variety.com/2026/film/festivals/venice-film-festival-potential-titles-social-reckoning-bunker-studio-1236782422/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/corpus-nyc-nightlife-thriller-sales-fantasia-1236782768/) — *Variety*
 
-### 5. Warner Bros. Acquires Tahereh Mafi’s Bestselling Dystopian YA Series ‘Shatter Me’ (EXCLUSIVE)
+### 5. More Than 16,000 Sign SAG-AFTRA Letter Demanding Congress Pass NO FAKES Act, Which Would Ban Unauthorized AI Images and Videos
 
-[原文] Warner Bros. has acquired the rights to Tahereh Mafi’s bestselling dystopian YA series &#8220;Shatter Me.&#8221; The movie deal aligns with the 15th anniversary of the debut of &#8220;Shatter Me,&#822
+[原文] More than 16,000 people have signed SAG-AFTRA’s open letter demanding Congress pass the revived NO FAKES Act, an anti-deepfake bill that would give individuals control over how their name and likeness
 
-📎 [阅读原文](https://variety.com/2026/film/news/warner-bros-tahereh-mafi-ya-series-shatter-me-1236782622/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/biz/news/sag-aftra-letter-congress-pass-no-fakes-act-1236783056/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Spider-Man: Brand New Day's Next Trailer Expected Tomorrow — And Here's a New Image From the Film
+### 1. The Tiny Firebat A6 Ryzen 7 7735HS Mini PC Is a Complete Windows 11 System for Just $282
 
-[原文] Spider-Man: Brand New Day is expected to get its long-awaited second trailer tomorrow — and ahead of then, here's a brand new image from the movie.
+[原文] A complete kit preinstalled with the Radeon 680M iGPU, 16GB of DDR5 RAM, 512GB SSD, and Windows 11
 
-📎 [阅读原文](https://www.ign.com/articles/spider-man-brand-new-days-next-trailer-expected-tomorrow-and-heres-a-new-image-from-the-film) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/firebat-a6-mini-pc-deal-june-2026) — *IGN*
 
-### 2. World Cup 2026: We Settled the Ronaldo vs. Messi Debate in the Most Ridiculous Way Possible
+### 2. Save $100 Off a Pair of BowFlex Results Series SelectTech Dumbbells Ahead of Amazon Prime Day
 
-[原文] Who is the true football GOAT, Ronaldo or Messi? We worked out the definitely-scientifically-correct answer using Football Manager 26.
+[原文] There's still time to get it delivered by Father's Day even if you choose free shipping.
 
-📎 [阅读原文](https://www.ign.com/articles/world-cup-2026-ronaldo-vs-messi-debate) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/best-bowflex-selecttech-adjustable-dumbbell-deal-amazon-fathers-day-sale) — *IGN*
 
-### 3. Tom Holland Suggests Adolescence Star Owen Cooper as His Spider-Man Successor
+### 3. Bambu 3D Printers Are on Sale at Best Buy Ahead of Amazon Prime Day
 
-[原文] Tom Holland has once again discussed passing the Spider-Man torch to another, younger actor, this time suggesting the star of Adolescence for the iconic role.
+[原文] There's no better time to upgrade your 3D printer obsession.
 
-📎 [阅读原文](https://www.ign.com/articles/tom-holland-suggests-adolescence-star-owen-cooper-as-his-spider-man-successor) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/bambu-lab-3d-printer-deals-best-buy-prime-day-sale) — *IGN*
 
-### 4. Stern’s New Transformers G1 Pinball Table Is Approachable and Packed With Nostalgic Fun
+### 4. The Blood of Dawnwalker Preorders Are Live, Here’s What Comes in Each Edition
 
-[原文] Hot on the heels of their incredibly cool Pokemon pinball machine, Stern Pinball Inc. already has a new machine queued up for play. Transformers: More Than Meets the Eye is their newest effort, and we
+[原文] Preorders have dropped for The Blood of Dawnwalker. Here's where you can secure a copy ahead of its release on September 3 alongside a breakdown of what comes in each edition.
 
-📎 [阅读原文](https://www.ign.com/articles/sterns-new-transformers-g1-pinball-table-is-approachable-and-packed-with-nostalgic-fun) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/the-blood-of-dawnwalker-where-to-preorder) — *IGN*
 
-### 5. Commodore Computers Is Making a Distraction-Free Cell Phone
+### 5. Today’s Best Deals: BowFlex Dumbbells, LEGOs, Samsung Galaxy Earbuds, and More Father’s Day Finds
 
-[原文] The Commodore Callback 8020 ditches the distractions and replaces it with pure turn of the millennium charm.
+[原文] Plus, don’t miss discounts on Zelda: Breath of the Wild for Switch 2, Adidas gift cards, and MTG Commander Decks.
 
-📎 [阅读原文](https://www.ign.com/articles/commodore-computers-is-making-a-distraction-free-cell-phone) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/best-deals-for-june-16-2026) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Chevy Now Makes New 350, 400, and 409 V8s—Just Like the Old Days
+### 1. Mercedes Ditched Steering Wheel Music Controls for Voice Commands in New CLA
+
+[原文] The new Mercedes CLA's steering wheel lacks music controls, forcing you to use voice commands or tap the center screen to skip songs.
+The post Mercedes Ditched Steering Wheel Music Controls for Voice 
+
+📎 [阅读原文](https://www.thedrive.com/news/mercedes-ditched-steering-wheel-music-controls-for-voice-commands-in-new-cla) — *The Drive*
+
+### 2. Ford’s $30,000 Electric Truck Is Real and Here’s Proof of Life
+
+[原文] Ford's "Model T-moment" $30K electric pickup is slated to hit dealers next year, and the company is now sharing footage of prototype testing.
+The post Ford&#8217;s $30,000 Electric Truck Is Real and H
+
+📎 [阅读原文](https://www.thedrive.com/news/fords-30000-electric-truck-is-real-and-heres-proof-of-life) — *The Drive*
+
+### 3. Chevy Now Makes New 350, 400, and 409 V8s—Just Like the Old Days
 
 [原文] Counting the LS6 in the updated Corvette, Chevy has three new V8 engines in its lineup with familiar displacements.
 The post Chevy Now Makes New 350, 400, and 409 V8s—Just Like the Old Days appeared f
 
 📎 [阅读原文](https://www.thedrive.com/news/chevy-now-makes-new-350-400-and-409-v8s-just-like-the-old-days) — *The Drive*
 
-### 2. 2027 Chevy Silverado Enters the Fight With New Small-Block V8s, Fresh Looks
+### 4. 2027 Chevy Silverado Enters the Fight With New Small-Block V8s, Fresh Looks
 
 [原文] The full-size Bowtie goes where no other half-ton truck has in years by introducing next-gen V8 engines, but there's not much old-school left in this rig.
 The post 2027 Chevy Silverado Enters the Figh
 
 📎 [阅读原文](https://www.thedrive.com/news/2027-chevy-silverado-enters-the-fight-with-new-small-block-v8s-fresh-looks) — *The Drive*
 
-### 3. 2026 Genesis GV80 Coupe Quick Review: Beats the Germans, but Not Around Corners
+### 5. 2026 Genesis GV80 Coupe Quick Review: Beats the Germans, but Not Around Corners
 
 [原文] As the brand's flagship SUV, the Genesis GV80 offers a swankier and more refined package than BMW or Mercedes, but there's one area where those Germans still shine. 
 The post 2026 Genesis GV80 Coupe Q
 
 📎 [阅读原文](https://www.thedrive.com/car-reviews/2026-genesis-gv80-coupe-quick-review) — *The Drive*
-
-### 4. New Audi A6 Allroad Is Bigger, Meaner, and a Damn Good Omen for the RS6 Avant
-
-[原文] With a 4.3-inch wider body, flared fenders, and quattro standard, Audi told The Drive the next-gen Allroad arrives in the U.S. next year.
-The post New Audi A6 Allroad Is Bigger, Meaner, and a Damn Goo
-
-📎 [阅读原文](https://www.thedrive.com/news/the-new-audi-a6-allroad-is-bigger-meaner-and-a-damn-good-omen-for-the-rs6-avant) — *The Drive*
-
-### 5. AMG Will Bring 27 New Cars in 3 Years, Starting With V8 SUVs: TDS
-
-[原文] The 2027 Mercedes-AMG GLS63 and GLE63S, two flat-plane-V8 SUVs, kick off a product onslaught from Germany's house of muscle.
-The post AMG Will Bring 27 New Cars in 3 Years, Starting With V8 SUVs: TDS 
-
-📎 [阅读原文](https://www.thedrive.com/news/amg-will-bring-27-new-cars-in-3-years-starting-with-v8-suvs-tds) — *The Drive*
 
 ---
 
@@ -363,35 +363,35 @@ The post AMG Will Bring 27 New Cars in 3 Years, Starting With V8 SUVs: TDS
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Months After a Jet Fuel Leak, No Agency Tested Waters Downstream of Piscataway Creek. So Community Groups Are Doing It Themselves.
+### 1. More Coral Reefs May Survive Climate Change Than Scientists Once Thought
+
+[原文] For years, the outlook for coral reefs has been increasingly bleak. Mass coral bleaching events caused by severe marine heatwaves have fueled repeated warnings that reefs are rapidly on an irreversibl
+
+📎 [阅读原文](https://insideclimatenews.org/news/16062026/climate-resilient-coral-reefs/) — *Inside Climate News*
+
+### 2. Months After a Jet Fuel Leak, No Agency Tested Waters Downstream of Piscataway Creek. So Community Groups Are Doing It Themselves.
 
 [原文] In the five months after jet fuel started leaking from Joint Base Andrews into Piscataway Creek, no agency tested the water or sediment some 20 miles downstream, where the creek empties into the Potom
 
 📎 [阅读原文](https://insideclimatenews.org/news/16062026/joint-base-andrews-piscataway-creek-fuel-leak-water-testing/) — *Inside Climate News*
 
-### 2. Trump Administration Abandons Fight Against Wind Energy as Clean Energy Output Surges
+### 3. Trump Administration Abandons Fight Against Wind Energy as Clean Energy Output Surges
 
 [原文] The Trump administration has abandoned its effort to halt wind energy projects across the United States and dropped its challenge to the court ruling that tossed President Donald Trump’s order freezin
 
 📎 [阅读原文](https://insideclimatenews.org/news/15062026/trump-administration-abandons-fight-against-wind-energy/) — *Inside Climate News*
 
-### 3. Microsoft’s Clean Energy Reversal Collides With Virginia’s Climate Goals
+### 4. Microsoft’s Clean Energy Reversal Collides With Virginia’s Climate Goals
 
 [原文] One of the world&#8217;s most profitable technology companies could be abandoning an ambitious clean-energy goal in Virginia as it races to build electricity-hungry data centers. Several of the compan
 
 📎 [阅读原文](https://insideclimatenews.org/news/15062026/microsoft-backpedals-on-climate-promises/) — *Inside Climate News*
 
-### 4. As Global Warming Threatens Corals Worldwide, Woods Hole Scientists Search for ‘Super Reefs’ That Can Take the Heat
+### 5. As Global Warming Threatens Corals Worldwide, Woods Hole Scientists Search for ‘Super Reefs’ That Can Take the Heat
 
 [原文] MAJURO, Marshall Islands—Perched on the bow of an aluminum landing craft, Anne Cohen gazed a few yards ahead of the vessel toward a yellow robot gliding across the emerald Majuro lagoon.&#160; The unm
 
 📎 [阅读原文](https://insideclimatenews.org/news/14062026/scientists-search-for-heat-resilient-reefs/) — *Inside Climate News*
-
-### 5. Pandemic Roulette
-
-[原文] Billions of live animals move through the legal and illegal wildlife trade, a massive industry a former CDC epidemiologist described as “pandemic roulette.” Traded animals move to places they never wo
-
-📎 [阅读原文](https://insideclimatenews.org/news/14062026/icn-sunday-morning-pandemic-roulette/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post AMG Will Bring 27 New Cars in 3 Years, Starting With V8 SUVs: TDS
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Guns N’ Roses’ Duff McKagan Praises ‘Bigger Than Life’ Canadian Punks D.O.A. in Doc Clip
+### 1. Chris Brown Dog-Mauling Trial Delayed Over Mistrial
+
+[原文] A Los Angeles judge excused jurors, citing misconduct by a panel member, and ordered Brown back on Thursday for the start of testimony in a new trial
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/chris-brown-dog-mauling-trial-mistrial-1235578789/) — *Rolling Stone*
+
+### 2. Guns N’ Roses’ Duff McKagan Praises ‘Bigger Than Life’ Canadian Punks D.O.A. in Doc Clip
 
 [原文] Something Better Change looks at frontman Joey “Shithead” Keithley’s run for reelection in British Columbia
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/doa-doc-something-better-change-duff-mckagan-1235578516/) — *Rolling Stone*
 
-### 2. Sheryl Crow Blasts Trump’s ‘Disgraceful’ UFC Birthday Bash: ‘Let’s Be Better, America’
+### 3. Sheryl Crow Blasts Trump’s ‘Disgraceful’ UFC Birthday Bash: ‘Let’s Be Better, America’
 
 [原文] “This administration is corrupt and does not give a damn about the American people,” artist says
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/sheryl-crow-donald-trump-ufc-birthday-1235578493/) — *Rolling Stone*
 
-### 3. Grammys Announce Five New Categories, Including Best R&B Collaboration and Best Latin Song
+### 4. Grammys Announce Five New Categories, Including Best R&B Collaboration and Best Latin Song
 
 [原文] Music’s big night will also celebrate Best Asian Pop Music Performance during its ceremony in February 2027
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/grammy-awards-five-new-categories-rule-changes-1235578423/) — *Rolling Stone*
 
-### 4. Watch Wu-Tang Clan Showcase ‘Bring Da Ruckus,’ ‘C.R.E.A.M.’ on ‘Fallon’
+### 5. Watch Wu-Tang Clan Showcase ‘Bring Da Ruckus,’ ‘C.R.E.A.M.’ on ‘Fallon’
 
 [原文] The New York rap group helped to celebrate the Knicks’ championship victory by revisiting Enter the Wu-Tang (36 Chambers)
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/wu-tang-clan-bring-da-ruckus-cream-performance-fallon-1235578413/) — *Rolling Stone*
-
-### 5. Smashing Pumpkins, Chris Stapleton to Perform America’s Block Party Benefit Concert
-
-[原文] Proceeds after fees from tickets for the Fourth of July event in Los Angeles will benefit Feeding America
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/smashing-pumpkins-chris-stapleton-america250-benefit-show-1235578269/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post AMG Will Bring 27 New Cars in 3 Years, Starting With V8 SUVs: TDS
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Radisson’s Net-Zero Experiment: How it Kept Costs Even
+### 1. Riyadh Air Gets Green Light to Operate in U.S.
+
+[原文] Riyadh Air CEO Tony Douglas has previously said he wants the carrier to have a presence on the Eastern Seaboard of the U.S.
+
+📎 [阅读原文](https://skift.com/2026/06/16/riyadh-air-gets-green-light-to-operate-in-u-s/) — *Skift*
+
+### 2. Why Amex Spent $700 Million on TheFork and What’s Next for Tripadvisor
+
+[原文] American Express&#8217; pending $700 million acquisition of TheFork, Tripadvisor&#8217;s dining reservations platform, could speed up one of its key goals — expanding its global network. Amex said din
+
+📎 [阅读原文](https://skift.com/2026/06/16/why-amex-spent-700-million-on-thefork-and-whats-next-for-tripadvisor/) — *Skift*
+
+### 3. Equinox Hotels Is Finally Expanding — It’s Betting Everything on Sleep
+
+[原文] As the brand scales from one Manhattan flagship to a global portfolio, it's hard-coding sleep as its differentiator. Its own answer to whether that travel is more interesting than the question.
+
+📎 [阅读原文](https://skift.com/2026/06/16/equinox-hotels-is-finally-expanding-its-betting-everything-on-sleep/) — *Skift*
+
+### 4. Oracle Bakes AI Into Opera Cloud Hotel Operations
+
+[原文] Oracle is treating AI as a standard feature of hotel operations software, not a premium product. That raises the stakes for property management rivals trying to sell similar tools as add-ons.
+
+📎 [阅读原文](https://skift.com/2026/06/16/oracle-opera-cloud-ai-assistant-rooms-rates-2026/) — *Skift*
+
+### 5. Radisson’s Net-Zero Experiment: How it Kept Costs Even
 
 [原文] The people behind Radisson's net zero hotel project were worried that electrifying the building would result in higher energy bills. One year on, the costs are roughly the same and the hotel is ready 
 
 📎 [阅读原文](https://skift.com/2026/06/16/radissons-net-zero-experiment-how-it-kept-costs-even/) — *Skift*
-
-### 2. India Has a New Airport. Getting People There Is the Bigger Test
-
-[原文] India can build airport capacity fast, but becoming an aviation powerhouse depends on convincing passengers and airlines to adopt secondary airports.
-
-📎 [阅读原文](https://skift.com/2026/06/16/india-has-a-new-airport-getting-people-there-is-the-bigger-test/) — *Skift*
-
-### 3. What a Skift IDEA Awards Judge Is Looking for in Short-Term Rentals
-
-[原文] Boutiq’s Rena Pacheco-Theard has managed short-term rentals operations on all levels and has lived the margin pressures. As a Skift IDEA Awards judge, she explores ideas that take in the whole picture
-
-📎 [阅读原文](https://skift.com/2026/06/16/what-skift-idea-awards-judge-looks-for-short-term-rentals/) — *Skift*
-
-### 4. Five Types of Travelers Driving Premium Demand
-
-[原文] Premium is evolving beyond a product category to become an entire ecosystem. Instead of chasing each other’s offers and upgrades, travel brands should leverage the premium economy through the lens of 
-
-📎 [阅读原文](https://skift.com/2026/06/16/travelers-driving-premium-demand/) — *Skift*
-
-### 5. Marriott Begins Rollout of AI Trip Planner on Site and App
-
-[原文] Even as Marriott builds a walled garden, it is buying real estate in everyone else's. That hedging action is understandable given that no travel company is yet sure where travelers will actually start
-
-📎 [阅读原文](https://skift.com/2026/06/16/marriott-begins-rollout-of-ai-trip-planner-on-site-and-app/) — *Skift*
 
 ---
 
@@ -528,6 +528,8 @@ The post AMG Will Bring 27 New Cars in 3 Years, Starting With V8 SUVs: TDS
 ## ⚠️ 今日故障源
 
 - **🚗 汽车**: Roadshow, Autocar
+- **🎵 音乐**: NME
+- **✈️ 旅游**: Nomadic Matt
 
 ---
 
