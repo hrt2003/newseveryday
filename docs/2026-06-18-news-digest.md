@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年06月18日** | 生成时间: 2026-06-18 04:19
+**2026年06月18日** | 生成时间: 2026-06-18 12:21
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Iran sends tankers loaded with oil past US military blockade
+### 1. What's in the US-Iran agreement?
+
+[原文] The 14-paragraph memo includes an end to fighting, an agreement that Iran will never have a nuclear weapon, and a $300bn redevelopment package for Iran.
+
+📎 [阅读原文](https://www.bbc.com/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Iran sends tankers loaded with oil past US military blockade
 
 [原文] Three Iranian tankers loaded with crude oil have passed the US blockade line in the Gulf of Oman, ship-tracking data shows.
 
 📎 [阅读原文](https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Status quo at Jerusalem's holiest site under threat as Israeli nationalists flout rules
+### 3. Japan ramping up defence is 'critical' to prevent war, Defence Minister Koizumi tells BBC
+
+[原文] Japan needs to revisit the pacifist posture that has defined it since World War Two, Shinjiro Koizumi says.
+
+📎 [阅读原文](https://www.bbc.com/news/articles/cly8qd4595eo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. Status quo at Jerusalem's holiest site under threat as Israeli nationalists flout rules
 
 [原文] Israeli nationalists are increasingly flouting a convention on how faiths share the al-Aqsa mosque compound.
 
 📎 [阅读原文](https://www.bbc.com/news/articles/cwy0nlv90jno?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Search for six-year-old Ebola patient after armed men storm DR Congo hospital
+### 5. Search for six-year-old Ebola patient after armed men storm DR Congo hospital
 
 [原文] Health facilities have come under attack during the current outbreak as a result of misinformation and fear.
 
 📎 [阅读原文](https://www.bbc.com/news/articles/cvgep4l397eo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Ex-Nigeria oil minister cleared in UK bribery trial
-
-[原文] Diezani Alison-Madueke had been accused of receiving bribes from oil tycoons but was found not guilty by a jury at Southwark Crown Court.
-
-📎 [阅读原文](https://www.bbc.com/news/articles/c872pwx4x2vo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Serial killer who murdered eight women in Long Island town imprisoned for life
-
-[原文] In fiery exchange, judge sentenced him to three life sentences plus 25 years to life on four other charges, all running consecutively.
-
-📎 [阅读原文](https://www.bbc.com/news/articles/clyw29kvlydo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Chairman Warsh drastically alters Fed rate statement. Here's what's changed
+### 1. Here are the five big takeaways from Kevin Warsh's first meeting as Fed chairman
 
-[原文] This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in April.
+[原文] The Federal Reserve and Chairman Kevin Warsh on Wednesday followed the script on interest rates closely.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/17/june-fed-meeting-redline.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/17/here-are-the-five-big-takeaways-from-kevin-warshs-first-meeting-as-fed-chairman.html) — *CNBC*
 
-### 2. Chairman Warsh abstains from giving rate forecast as several members signal a hike in 2026
+### 2. Trump and Iran's President Pezeshkian sign memorandum aimed to end war
 
-[原文] The median projection called for the federal funds rate to end 2026 at 3.8%, a quarter percentage point above the current target range.
+[原文] President Trump earlier said at the G7 summit that the memorandum of understanding with Iran "might not be the kind of document that I should be signing."
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/17/fed-projections-call-for-a-rate-hike-in-2026-but-chairman-warsh-likely-abstained.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/17/trump-vance-iran-deal-nuclear-g7.html) — *CNBC*
 
-### 3. Warsh experiences worst 'Fed day' S&P 500 performance for a new chair since 1994
+### 3. Oil falls as International Energy Agency forecasts supply glut next year after U.S.-Iran deal
 
-[原文] The S&P 500 tumbled more than 1% in Wednesday's session, with losses steepening during Warsh' innagural press conference as chair.
+[原文] Oil declines as Mideast peace prospects rise following U.S.-Iran deal.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/17/warsh-fed-meeting-stock-market.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/18/oil-prices-today-wti-brent.html) — *CNBC*
 
-### 4. Jeffrey Gundlach says Fed's Warsh is not going to be the 'easy money' chairman many hoped for
+### 4. Why Wall Street banks and foreign borrowers are rushing to tap China's cheap money
 
-[原文] Gundlach said Warsh's stance reduces the risk of overly accommodative monetary policy that could reignite inflation and push longer-term borrowing costs higher.
+[原文] Foreign governments, Wall Street banks and multinational companies are flocking to China's panda bond market.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/17/jeffrey-gundlach-says-feds-warsh-is-not-going-to-be-the-easy-money-chairman-many-hoped-for.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/18/china-panda-bonds-yuan-funding-costs-foreign-borrowers.html) — *CNBC*
 
-### 5. 2-year Treasury yield rockets higher as many Fed officials signal possible hike this year
+### 5. India’s largest stock exchange files for IPO as mega-listings gather pace
 
-[原文] U.S. Treasury yields rose on Wednesday after the Fed held interest rates steady during Kevin Warsh's first policy meeting as chairman.
+[原文] India's largest stock exchange sets the ball rolling for mega IPOs this year as it files papers to go public.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/17/treasury-yields-investors-await-warsh-fed-decision.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/18/nse-ipo-india-jio-listing-.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI
+### 1. How to turn off AI in your Google Docs
 
-[原文] Tokenmaxxing&#160;was&#160;the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far&#160;as it would go.&#160;Then the bill came due. Uber&#160;re
+[原文] Here's what you need to do to get those pesky "write with Gemini" pop-ups to go away.
 
-📎 [阅读原文](https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/) — *TechCrunch*
 
-### 2. FTC lawsuit reveals how subscription scam networks evade app store enforcement
+### 2. AI is hurting Apple in more ways than one: it may force iPhone price increases
 
-[原文] A new FTC lawsuit reveals how sophisticated subscription app operators can allegedly use shell companies and payment infrastructure to stay active on app stores despite mounting consumer complaints.
+[原文] CEO Tim Cook said in a recent interview that the situation is "unsustainable."
 
-📎 [阅读原文](https://techcrunch.com/2026/06/17/ftc-lawsuit-reveals-how-subscription-scam-networks-evade-app-store-enforcement/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/06/17/ai-is-hurting-apple-in-more-ways-than-one-it-may-force-iphone-price-increases/) — *TechCrunch*
 
-### 3. World leaders want American AI. They just don’t want America to be able to turn it off.
+### 3. Chi-Hua Chien saw Facebook coming — now he says the real AI winners won’t be selling AI
 
-[原文] French President Macron and Indian PM Modi raised alarms at the G7 summit that the U.S. could cut off access to American AI overnight  — a fear the Anthropic blackout just made real.
+[原文] Chi-Hua Chien has spent more than two decades as a venture capitalist, but he thinks like a cultural anthropologist.
 
-📎 [阅读原文](https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/06/17/chi-hua-chien-saw-facebook-coming-now-he-says-the-real-ai-winners-wont-be-selling-ai/) — *TechCrunch*
 
-### 4. Anthropic becomes first AI startup to join the Frontier carbon removal coalition
+### 4. Roelof Botha joins SpaceX’s board of directors
 
-[原文] Anthropic has joined the Frontier coalition, which received another $915M in pledges to fund carbon removal projects.
+[原文] The former Sequoia Capital leader is filling an "existing vacancy" on SpaceX's board, days after the company went public in the largest IPO ever.
 
-📎 [阅读原文](https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/) — *TechCrunch*
 
-### 5. Cybercriminals allegedly hacked tens of thousands of Fortinet firewalls used by major companies all over the world
+### 5. After unveiling ridiculously expensive AR glasses, Snap’s stock takes a dive
 
-[原文] An alleged Russian-speaking group of cybercriminals is reportedly compromising and targeting several major companies that use Fortinet Firewalls and VPNs through previously known passwords.
+[原文] Snap's long-awaited smart glasses debut hasn't exactly done wonders for the company's stock.
 
-📎 [阅读原文](https://techcrunch.com/2026/06/17/cybercriminals-allegedly-hacked-tens-of-thousands-of-fortinet-firewalls-used-by-major-companies-all-over-the-world/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. England make good start despite Stokes' absence
+### 1. Portugal have a Ronaldo problem (again) after draw...
 
-[原文] England attempt to move on from the Ben Stokes controversy with a solid opening day of the second Test against New Zealand at The Oval.
+[原文] Cristiano Ronaldo will go down as one of Portugal and soccer's all-time best players, but it's becoming clear his team could be better without him.
 
-📎 [阅读原文](https://www.bbc.com/sport/cricket/articles/cr47n1d1y29o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49098603/portugal-cristiano-ronaldo-problem-congo-dr-roberto-martinez-fifa-world-cup-analysis) — *ESPN*
 
-### 2. McInnes replaces Rohl at Rangers - was decision no-brainer?
+### 2. Kane and Bellingham put on a show in England's thr...
 
-[原文] Derek McInnes says "it is a real honour" to be named Rangers manager after he replaces Danny Rohl in the Ibrox dugout.
+[原文] When have England been this fun at a World Cup? We react to it all. As for Croatia: Where was Modric?
 
-📎 [阅读原文](https://www.bbc.com/sport/football/articles/cn8k5jd0788o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49100772/kane-bellingham-put-show-england-thrilling-win-croatia) — *ESPN*
 
-### 3. Cape Verde goalkeeper set to be reunited with his mum
+### 3. Sources: Wizards' Young to decline option, be FA
 
-[原文] Vozinha's mum has been granted a visa to travel to the US ahead of Cape Verde's next game against Uruguay.
+[原文] Wizards star Trae Young plans to decline his $48.97 million player option for the 2026-27 season, although Washington remains the front-runner, sources said.
 
-📎 [阅读原文](https://www.bbc.com/sport/football/articles/cgjxlpxxp6wo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/nba/story/_/id/49103130/sources-wizards-trae-young-decline-option-free-agent) — *ESPN*
 
-### 4. Hull could face points deduction in Premier League
+### 4. Portugal boss defends loyalty to misfiring Ronaldo...
 
-[原文] Winning the play-off final means Hull must sell players before the end of the month to avoid a potential points deduction in the Premier League.
+[原文] Congo DR produced another stunning result at the 2026 World Cup, as the African side held one of the pre-tournament favorites, Portugal, to a 1-1 draw in Houston on Wednesday.
 
-📎 [阅读原文](https://www.bbc.com/sport/football/articles/czde31803e9o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49097269/portugal-congo-dr-world-cup-2026-cristiano-ronaldo) — *ESPN*
 
-### 5. Olympic medallist Simpson collapses at mile event
+### 5. Dolan says second apron not an option for Knicks
 
-[原文] Olympic medalist Jenny Simpson receiving treatment in hospital following a "medical incident" at an event in Raleigh, North Carolina.
+[原文] On the heels of its first NBA title in 53 years, Knicks owner James Dolan told WFAN radio Wednesday that he will not go into the punitive second apron to keep his team intact for the 2026-27 season.
 
-📎 [阅读原文](https://www.bbc.com/sport/athletics/articles/c932gj9454eo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/nba/story/_/id/49103460/james-dolan-go-second-apron-keep-knicks-intact) — *ESPN*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Latine Immigrant Representation Drops to 25% Across Scripted TV: Industry ‘Cannot Rely on a Few Programs to Represent the Whole’
+### 1. Spain’s Book Business Eyes Global Screen Boom as Fernando Benzo Touts Literature as ‘Safe IP’: ‘Our Petrol Is the Language’
 
-[原文] Representation for Latine immigrants on TV has hit a new low, according to a report from Define American, conducted in partnership with USC&#8217;s Norman Lear Center. The &#8220;Change the Narrative,
+[原文] Spanish literature could prove to be a boon for international film and TV adaptations, says Fernando Benzo, author and secretary general of the Spanish Federation of Publishers.&#160; “Books are a saf
 
-📎 [阅读原文](https://variety.com/2026/tv/news/latine-immigrant-representation-drops-tv-mo-1236783990/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/spain-books-adaptations-fernando-benzo-money-heist-1236781691/) — *Variety*
 
-### 2. Tom Dreesen, Stand-Up Comedian Who Opened for Frank Sinatra, Dies at 86
+### 2. Guillermo Rodriguez of ‘Jimmy Kimmel Live!’ Joins ‘Dancing With the Stars’ Season 35
 
-[原文] Tom Dreesen, a prolific stand-up comedian known for touring with Frank Sinatra and performing in &#8220;Spaceballs&#8221; and the TV movie &#8220;Columbo: Murder in Malibu,&#8221; died Wednesday. He w
+[原文] Guillermo Rodriguez is ready to hit the dancefloor. Jimmy Kimmel&#8217;s lovable, tequila-fueled and basically mononymous right-hand man has joined the cast of &#8220;Dancing With the Stars&#8221; Sea
 
-📎 [阅读原文](https://variety.com/2026/tv/news/tom-dreesen-dead-frank-sinatra-opener-1236784063/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/guillermo-jimmy-kimmel-dwts-season-35-1236784635/) — *Variety*
 
-### 3. ‘Love Island USA’ Season 8 Contestant Beatriz Hatz on Her Friendship With Melanie, Gabriel’s Recoupling and Seeing Online Hate: ‘My Time in the Villa Was Just Enough’
+### 3. Las Culturistas Culture Awards Recap: Rachel Zegler Covers ‘Fame Is a Gun,’ Lisa Kudrow Takes the Stage and All the Best Moments
 
-[原文] Ten days into Season 8 of “Love Island USA,” Paralympian and now ex-islander Beatriz Hatz was sent home after her couple was put to the test with a nationwide vote. Hatz’s partner, Gabriel Vasconcelos
+[原文] SPOILER ALERT:&#160;This article contains spoilers for Bravo&#8217;s Las Culturistas Culture Awards, now streaming on Peacock. It’s culture&#8217;s biggest night! Comedians and “Las Culturistas” podca
 
-📎 [阅读原文](https://variety.com/2026/tv/news/love-island-usa-beatriz-hatz-gabriel-melanie-online-hate-1236783543/) — *Variety*
+📎 [阅读原文](https://variety.com/lists/las-culturistas-culture-awards-winners/) — *Variety*
 
-### 4. This ‘Benson & Brunson’ Knicks Tee Celebrates Jalen Brunson and Mariska Hargitay’s Endearing Friendship
+### 4. ‘Survivor’ Animated Movie in the Works From Paramount Animation, Jeff Probst to Exec Produce (EXCLUSIVE)
 
-[原文] There are few New Yorkers more beloved right now than Jalen Brunson and Mariska Hargitay — and few franchises more woven into the fabric of modern New York culture than the Knicks and “Law &#38; Order
+[原文] The tribe has spoken &#8212; and it wants an animated &#8220;Survivor&#8221; movie featuring animal contestants. Paramount Animation, in partnership with CBS, is in development on an animated comedy b
 
-📎 [阅读原文](https://variety.com/2026/shopping/news/jalen-brunson-olivia-benson-svu-knicks-tee-buy-online-1236784100/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/survivor-animated-movie-paramount-animation-jeff-probst-1236784613/) — *Variety*
 
-### 5. Variety Announces Brand Entertainment for Fans  Event Spotlighting Leaders at Cannes Lions
+### 5. Hollywood Radio and Television Society Partners With Easterseals Disability Services to Relaunch  Darcy Awards
 
-[原文] Variety will host Brand Entertainment for Fans, presented by Walmart Connect, on Monday, June 22, during the Cannes Lions International Festival of Creativity, bringing together executives from Walmar
+[原文] The Hollywood Radio and Television Society will extend its long-standing relationship with Easterseals Disability Services, partnering with the nonprofit organization for the upcoming Easterseals Disa
 
-📎 [阅读原文](https://variety.com/2026/biz/news/brand-entertainment-fans-event-cannes-lions-1236784116/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/awards/news/hrts-easterseals-darcy-awards-disability-arts-culture-1236784519/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. New Spider-Man: Brand New Day Trailer Reveals a Very Angy Hulk
+### 1. Reality Series Survivor Is Spawning an Animated Movie Featuring Animal Contestants
 
-[原文] We have a new Spider-Man: Brand New Day trailer, and it reveals a first look at Hulk in the movie, as well as a glimpse at Sadie Sink's mystery character.
+[原文] Paramount Animation is developing a big screen movie based on long-running reality TV juggernaut Survivor, with host Jeff Probst producing.
 
-📎 [阅读原文](https://www.ign.com/articles/new-spider-man-brand-new-day-trailer-reveals-a-very-angy-hulk) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/reality-series-survivor-is-spawning-an-animated-movie-featuring-animal-contestants) — *IGN*
 
-### 2. Is Sadie Sink's Jean Grey the Main Villain of Spider-Man: Brand New Day?
+### 2. The Dreame A3 AWD Pro Robot Lawn Mower Is The Perfect Gift for Father's Day
 
-[原文] The latest trailer for Spider-Man: Brand New Day sure makes it look like Sadie Sink is playing Jean Grey. But is this iconic X-Man truly the villain of the new MCU film?
+[原文] You can mow your yard with the press of a button.
 
-📎 [阅读原文](https://www.ign.com/articles/is-sadie-sinks-jean-grey-the-main-villain-of-spider-man-brand-new-day) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/dreame-a3-awd-pro-robot-lawn-mower-deal-is-the-perfect-gift-for-fathers-day) — *IGN*
 
-### 3. Beat the Summer Heat With This $8 Portable Turbo Fan
+### 3. Marvel's Spider-Man 2 Is Adding New Suit from Brand New Day for Free
 
-[原文] Stay frosty.
+[原文] Marvel's Spider-Man 2 is adding content for the first time in years, and it's completely free.
 
-📎 [阅读原文](https://www.ign.com/articles/portable-fan-deals-amazon-fathers-day-sale) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/marvels-spider-man-2-is-adding-new-suit-from-brand-new-day-for-free) — *IGN*
 
-### 4. The Rugged, Waterproof DJI Osmo Action 4 4K 120fps Action Camera Drops to $169
+### 4. Call of Duty: Black Ops 1 and 2 Are Officially Being Ported to New Platforms Next Month
 
-[原文] Comparable to the GoPro Hero 13 Black at a fraction of the cost
+[原文] Call of Duty: Black Ops 1 and 2 are being brought to new platforms in July, courtesy of Iron Galaxy.
 
-📎 [阅读原文](https://www.ign.com/articles/best-action-camera-deal-in-june-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/call-of-duty-black-ops-1-and-2-are-officially-being-ported-to-new-platforms-next-month) — *IGN*
 
-### 5. Save 62% the Wolfbox 4,000A Cordless Jump Starter, Tire Inflator, and 24,000mAh Power Bank in One
+### 5. Save Over 60% Off the ThermoMaven X2 Wireless Meat Thermometer for Father's Day, Now Just $39.99
 
-[原文] A super practical gift for dad that can be delivered before Father's Day for Amazon Prime members
+[原文] One of the best gifts you can get for your dad chef
 
-📎 [阅读原文](https://www.ign.com/articles/wolfbox-air-cordless-car-jump-starter-tire-inflator-deal-amazon-fathers-day-sale) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/thermomaven-x2-wireless-meat-thermometer-deal-amazon-fathers-day-sale) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post Base Chevy Silverado 1500 Work Truck Finally Gets the Duramax Die
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Scientists Warn of Summer Heat Spikes as Global Warming Edges Toward 2C
+### 1. Alabama’s Self-Proclaimed ‘AI Watchman’ Unseats Incumbent Public Service Commissioner
+
+[原文] MOBILE, Ala.—Jim Zeigler didn’t have much time to celebrate. The morning after his Republican primary victory on Tuesday and a gathering of supporters at Wintzell’s Oyster House, the 78-year-old hit t
+
+📎 [阅读原文](https://insideclimatenews.org/news/17062026/alabama-republican-jim-zeigler-unseats-incumbent-public-service-commissioner/) — *Inside Climate News*
+
+### 2. Alabama Governor Names Four New PSC Members, Including Its First Two Black Appointees
+
+[原文] The Alabama Public Service Commission has never had a Black commissioner in its 145-year history, but that’s about to change. Alabama Gov. Kay Ivey announced the appointments of four new commissioners
+
+📎 [阅读原文](https://insideclimatenews.org/news/17062026/alabama-expands-utilities-regulator-with-four-new-commissioners/) — *Inside Climate News*
+
+### 3. ‘We Just Want Clean Water’: Residents Sue a North Carolina County Over Landfill Contamination
+
+[原文] This story was published by the Border Belt Independent in collaboration with Inside Climate News. Viv Tolson Wayne rang the large dinner bell on her front porch along Britt Road in St. Pauls, North C
+
+📎 [阅读原文](https://insideclimatenews.org/news/17062026/north-carolina-residents-sue-landfill-over-pfas-contamination/) — *Inside Climate News*
+
+### 4. Scientists Warn of Summer Heat Spikes as Global Warming Edges Toward 2C
 
 [原文] Former federal climate experts warn that atmospheric carbon dioxide concentrations hit a record high in May and that the monthly average global temperature this summer could rise as much as 3.5 degree
 
 📎 [阅读原文](https://insideclimatenews.org/news/17062026/summer-heat-spike-as-global-warming-surges/) — *Inside Climate News*
 
-### 2. A Sloth Exhibitor Shut Down by New York Wants a Florida Comeback—and Florida Licensed Him
+### 5. A Sloth Exhibitor Shut Down by New York Wants a Florida Comeback—and Florida Licensed Him
 
 [原文] An exotic animal exhibitor whose sloth-encounters business was shuttered by New York courts is attempting to relaunch his operations in Florida, right as the state grapples with the fallout from sloth
 
 📎 [阅读原文](https://insideclimatenews.org/news/17062026/larry-wallach-florida-sloth-encounter-business/) — *Inside Climate News*
-
-### 3. Utah National Monument Survives Attempt to Rescind its Management Plan
-
-[原文] GRAND STAIRCASE-ESCALANTE NATIONAL MONUMENT, Utah—When Autumn Gillard first visited this national monument in southern Utah’s red rock country, she hiked to the top of a plateau. Her heart was broken 
-
-📎 [阅读原文](https://insideclimatenews.org/news/17062026/utah-national-monument-management-plan-continues/) — *Inside Climate News*
-
-### 4. ‘Sponge Cities’ Are Catching On. But Can They Handle Supercharged Storms?
-
-[原文] In 2011, a short but catastrophic cloudburst hammered Copenhagen, flooding parts of the Danish city with more than 5 inches of rain in a single day.&#160; The storm caused more than $1 billion in dama
-
-📎 [阅读原文](https://insideclimatenews.org/news/16062026/todays-climate-sponge-cities-rain-flooding/) — *Inside Climate News*
-
-### 5. Emergency Drawdown at Flaming Gorge Hits Its Recreation Economy
-
-[原文] As campers with boats flocked to Buckboard Marina at the start of Memorial Day weekend, Tony Valdez was busy issuing refunds and repairing broken boat ramps. One older Green River man, who walked with
-
-📎 [阅读原文](https://insideclimatenews.org/news/16062026/emergency-drawdown-at-flaming-gorge-hits-its-recreation-economy/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post Base Chevy Silverado 1500 Work Truck Finally Gets the Duramax Die
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. OG Anunoby Tells Alicia Keys ‘The City’s Asking for You’ Ahead of Knicks Ceremony Performance
+### 1. Sabrina Carpenter Granted 5-Year Restraining Order After Alleged Stalker Gives Chilling Testimony
+
+[原文] A judge issued the strict stay-away order after the man claimed he was part of a "classified military government program" and had to contact Carpenter to save the world
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/sabrina-carpenter-restraining-order-granted-testimony-1235579785/) — *Rolling Stone*
+
+### 2. OG Anunoby Tells Alicia Keys ‘The City’s Asking for You’ Ahead of Knicks Ceremony Performance
 
 [原文] The New York-born and raised musician will perform at City Hall on Thursday, June 18, following the championship parade
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/alicia-keys-perform-new-york-knicks-city-hall-ceremony-1235579698/) — *Rolling Stone*
 
-### 2. Gracie Abrams Reveals ‘Daughter From Hell’ Track List
+### 3. Gracie Abrams Reveals ‘Daughter From Hell’ Track List
 
 [原文] The singer-songwriter’s third album will feature 16 tracks, including lead single “Hit the Wall”
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/gracie-abrams-daughter-from-hell-track-list-1235579647/) — *Rolling Stone*
 
-### 3. Harry Styles Just Delivered the Greatest Performance of His Solo Career
+### 4. Harry Styles Just Delivered the Greatest Performance of His Solo Career
 
 [原文] An official release of this incredibly special evening at Meltdown Festival in London is a must
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/harry-styles-bridge-over-troubled-water-meltdown-festival-1235579559/) — *Rolling Stone*
 
-### 4. Post Malone Pays Tribute to Oliver Tree at Toronto Show: ‘An Absolutely Beautiful Man’
+### 5. Post Malone Pays Tribute to Oliver Tree at Toronto Show: ‘An Absolutely Beautiful Man’
 
 [原文] Malone poured one out for the alternative pop artist, who died in a helicopter crash in Brazil earlier this week
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/post-malone-oliver-tree-tribute-1235579515/) — *Rolling Stone*
-
-### 5. D4vd, Singer Accused of Murdering 14-Year-Old, Wins Delay of Major Hearing
-
-[原文] The singer has pleaded not guilty to charges he murdered 14-year-old Celeste Rivas Hernandez and concealed her dismembered remains in his Tesla.
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/d4vd-david-burke-case-delayed-celeste-rivas-hernandez-tesla-1235579275/) — *Rolling Stone*
 
 ---
 
@@ -515,7 +515,7 @@ The post Base Chevy Silverado 1500 Work Truck Finally Gets the Duramax Die
 - **💰 经济财经**: CNBC
 - **💻 科技**: TechCrunch
 - **🔬 科学**: Science Daily
-- **⚽ 体育**: BBC Sport
+- **⚽ 体育**: ESPN
 - **🎬 娱乐**: Variety
 - **🏥 健康**: WHO
 - **🎮 游戏**: IGN
