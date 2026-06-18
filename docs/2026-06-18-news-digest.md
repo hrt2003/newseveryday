@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年06月18日** | 生成时间: 2026-06-18 12:21
+**2026年06月18日** | 生成时间: 2026-06-18 18:26
 
 ---
 
@@ -22,29 +22,29 @@
 
 📎 [阅读原文](https://www.bbc.com/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Iran sends tankers loaded with oil past US military blockade
+### 2. Moscow hit by largest Ukrainian attack since start of Russia's full-scale war
 
-[原文] Three Iranian tankers loaded with crude oil have passed the US blockade line in the Gulf of Oman, ship-tracking data shows.
+[原文] A refinery and a shopping centre were burning after almost 200 Ukrainian drones struck an area to the south-east of the Russian capital.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Japan ramping up defence is 'critical' to prevent war, Defence Minister Koizumi tells BBC
+### 3. Gunfire and explosions heard at Niger capital's airport
+
+[原文] Niger has been fighting a militant Islamist insurgency for a decade and in January suspected jihadists attacked the same airport.
+
+📎 [阅读原文](https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. Suspected gang leader shot dead in flower bouquet ambush at airport
+
+[原文] The gunmen concealed their weapons behind flowers and stuffed toys while waiting for the victim outside Guayaquil airport.
+
+📎 [阅读原文](https://www.bbc.com/news/articles/c4gy2l30dd0o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Japan ramping up defence is 'critical' to prevent war, Defence Minister Koizumi tells BBC
 
 [原文] Japan needs to revisit the pacifist posture that has defined it since World War Two, Shinjiro Koizumi says.
 
 📎 [阅读原文](https://www.bbc.com/news/articles/cly8qd4595eo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Status quo at Jerusalem's holiest site under threat as Israeli nationalists flout rules
-
-[原文] Israeli nationalists are increasingly flouting a convention on how faiths share the al-Aqsa mosque compound.
-
-📎 [阅读原文](https://www.bbc.com/news/articles/cwy0nlv90jno?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Search for six-year-old Ebola patient after armed men storm DR Congo hospital
-
-[原文] Health facilities have come under attack during the current outbreak as a result of misinformation and fear.
-
-📎 [阅读原文](https://www.bbc.com/news/articles/cvgep4l397eo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Here are the five big takeaways from Kevin Warsh's first meeting as Fed chairman
+### 1. Trump hits back at critics as Iran peace deal fuels debate over U.S. concessions
+
+[原文] The deal sees both sides commit to further talks to reach a final agreement over the next 60 days and includes a $300 billion plan for Iran's reconstruction.
+
+📎 [阅读原文](https://www.cnbc.com/2026/06/18/trump-iran-deal-mou-nuclear-hormuz.html) — *CNBC*
+
+### 2. Intel surges 9% after Trump says company will partner with Apple on U.S. chip design
+
+[原文] The boost continues Intel's recent rally as the chipmaker bounces back from years of headwinds.
+
+📎 [阅读原文](https://www.cnbc.com/2026/06/18/trump-intel-apple-chip-design-deal.html) — *CNBC*
+
+### 3. Here are the five big takeaways from Kevin Warsh's first meeting as Fed chairman
 
 [原文] The Federal Reserve and Chairman Kevin Warsh on Wednesday followed the script on interest rates closely.
 
 📎 [阅读原文](https://www.cnbc.com/2026/06/17/here-are-the-five-big-takeaways-from-kevin-warshs-first-meeting-as-fed-chairman.html) — *CNBC*
 
-### 2. Trump and Iran's President Pezeshkian sign memorandum aimed to end war
+### 4. Hegseth warns NATO allies that some nations will 'fail' U.S. defense review
 
-[原文] President Trump earlier said at the G7 summit that the memorandum of understanding with Iran "might not be the kind of document that I should be signing."
+[原文] The U.S. defense secretary also said it was "shameful" that European allies refused to give U.S. forces access to bases to strike Iran.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/17/trump-vance-iran-deal-nuclear-g7.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/18/hegseth-nato-defense-review-fail-europe.html) — *CNBC*
 
-### 3. Oil falls as International Energy Agency forecasts supply glut next year after U.S.-Iran deal
+### 5. Nearly 80% of data center capacity is at elevated risk to climate hazards like flooding and fire, study says
 
-[原文] Oil declines as Mideast peace prospects rise following U.S.-Iran deal.
+[原文] The vast majority of data centers globally face either acute risk from climate change events or chronic risk from ongoing climate issues like extreme heat.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/18/oil-prices-today-wti-brent.html) — *CNBC*
-
-### 4. Why Wall Street banks and foreign borrowers are rushing to tap China's cheap money
-
-[原文] Foreign governments, Wall Street banks and multinational companies are flocking to China's panda bond market.
-
-📎 [阅读原文](https://www.cnbc.com/2026/06/18/china-panda-bonds-yuan-funding-costs-foreign-borrowers.html) — *CNBC*
-
-### 5. India’s largest stock exchange files for IPO as mega-listings gather pace
-
-[原文] India's largest stock exchange sets the ball rolling for mega IPOs this year as it files papers to go public.
-
-📎 [阅读原文](https://www.cnbc.com/2026/06/18/nse-ipo-india-jio-listing-.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/18/data-center-climate-change-study.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. How to turn off AI in your Google Docs
+### 1. NASA picks Eric Schmidt’s rocket company for Mars mission, setting up a race with SpaceX
+
+[原文] Relativity Space—a rocket maker acquired by former Google executive chair Eric Schmidt last year after stumbling on the path to orbit—might just beat SpaceX to Mars.
+
+📎 [阅读原文](https://techcrunch.com/2026/06/17/nasa-picks-eric-schmidts-rocket-company-for-mars-mission-setting-up-a-race-with-spacex/) — *TechCrunch*
+
+### 2. How to turn off AI in your Google Docs
 
 [原文] Here's what you need to do to get those pesky "write with Gemini" pop-ups to go away.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/) — *TechCrunch*
 
-### 2. AI is hurting Apple in more ways than one: it may force iPhone price increases
+### 3. AI is hurting Apple in more ways than one: it may force iPhone price increases
 
 [原文] CEO Tim Cook said in a recent interview that the situation is "unsustainable."
 
 📎 [阅读原文](https://techcrunch.com/2026/06/17/ai-is-hurting-apple-in-more-ways-than-one-it-may-force-iphone-price-increases/) — *TechCrunch*
 
-### 3. Chi-Hua Chien saw Facebook coming — now he says the real AI winners won’t be selling AI
+### 4. Chi-Hua Chien saw Facebook coming — now he says the real AI winners won’t be selling AI
 
 [原文] Chi-Hua Chien has spent more than two decades as a venture capitalist, but he thinks like a cultural anthropologist.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/17/chi-hua-chien-saw-facebook-coming-now-he-says-the-real-ai-winners-wont-be-selling-ai/) — *TechCrunch*
 
-### 4. Roelof Botha joins SpaceX’s board of directors
+### 5. Roelof Botha joins SpaceX’s board of directors
 
 [原文] The former Sequoia Capital leader is filling an "existing vacancy" on SpaceX's board, days after the company went public in the largest IPO ever.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/) — *TechCrunch*
-
-### 5. After unveiling ridiculously expensive AR glasses, Snap’s stock takes a dive
-
-[原文] Snap's long-awaited smart glasses debut hasn't exactly done wonders for the company's stock.
-
-📎 [阅读原文](https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Portugal have a Ronaldo problem (again) after draw...
+### 1. Tactical analysis: England look exciting but how can they tighten up?
 
-[原文] Cristiano Ronaldo will go down as one of Portugal and soccer's all-time best players, but it's becoming clear his team could be better without him.
+[原文] England produced some exciting attacking football while beating Croatia 4-2 but why did they look so shaky defensively?
 
-📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49098603/portugal-cristiano-ronaldo-problem-congo-dr-roberto-martinez-fifa-world-cup-analysis) — *ESPN*
+📎 [阅读原文](https://www.bbc.com/sport/articles/c98256ypwy0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Kane and Bellingham put on a show in England's thr...
+### 2. From one to 48 - every World Cup team ranked after first game
 
-[原文] When have England been this fun at a World Cup? We react to it all. As for Croatia: Where was Modric?
+[原文] All 48 teams at the World Cup have now played once. BBC Sport's experts have ranked them all, from best to worst. Who is top? Not defending champions Argentina.
 
-📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49100772/kane-bellingham-put-show-england-thrilling-win-croatia) — *ESPN*
+📎 [阅读原文](https://www.bbc.com/sport/football/articles/cn4djkzxygjo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Sources: Wizards' Young to decline option, be FA
+### 3. 'I never imagined something like this' - Nadal reflects on Wimbledon 2008 win
 
-[原文] Wizards star Trae Young plans to decline his $48.97 million player option for the 2026-27 season, although Washington remains the front-runner, sources said.
+[原文] Rafael Nadal recalls his seismic five-set victory over Roger Federer in the 2008 Wimbledon final, arguably the greatest men's match ever played.
 
-📎 [阅读原文](https://www.espn.com/nba/story/_/id/49103130/sources-wizards-trae-young-decline-option-free-agent) — *ESPN*
+📎 [阅读原文](https://www.bbc.com/sport/tennis/articles/c0k2e63lypdo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Portugal boss defends loyalty to misfiring Ronaldo...
+### 4. Konate to join Real Madrid on four-year deal
 
-[原文] Congo DR produced another stunning result at the 2026 World Cup, as the African side held one of the pre-tournament favorites, Portugal, to a 1-1 draw in Houston on Wednesday.
+[原文] Real Madrid agree a deal to sign Ibrahima Konate on a four-year contract when the France centre-back leaves Liverpool at the end of June.
 
-📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49097269/portugal-congo-dr-world-cup-2026-cristiano-ronaldo) — *ESPN*
+📎 [阅读原文](https://www.bbc.com/sport/football/articles/crr8797ek15o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Dolan says second apron not an option for Knicks
+### 5. This was an England we haven't seen for years - and it was fun
 
-[原文] On the heels of its first NBA title in 53 years, Knicks owner James Dolan told WFAN radio Wednesday that he will not go into the punitive second apron to keep his team intact for the 2026-27 season.
+[原文] Fun to watch and full of intent - this was an England we have not seen for years, writes Phil McNulty.
 
-📎 [阅读原文](https://www.espn.com/nba/story/_/id/49103460/james-dolan-go-second-apron-keep-knicks-intact) — *ESPN*
+📎 [阅读原文](https://www.bbc.com/sport/football/articles/cwylqvgne7lo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Spain’s Book Business Eyes Global Screen Boom as Fernando Benzo Touts Literature as ‘Safe IP’: ‘Our Petrol Is the Language’
+### 1. JioHotstar Sees AI, Connected TV and Commerce Driving India’s Next Streaming Phase
 
-[原文] Spanish literature could prove to be a boon for international film and TV adaptations, says Fernando Benzo, author and secretary general of the Spanish Federation of Publishers.&#160; “Books are a saf
+[原文] Speaking during the APOS conference&#8217;s &#8220;India Streaming: The Product View&#8221; session, JioStar executives Bharath Ram and Vijay Seshadri outlined how JioHotstar is building its product a
 
-📎 [阅读原文](https://variety.com/2026/film/global/spain-books-adaptations-fernando-benzo-money-heist-1236781691/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/jiohotstar-ai-connected-tv-commerce-apos-2026-1236784804/) — *Variety*
 
-### 2. Guillermo Rodriguez of ‘Jimmy Kimmel Live!’ Joins ‘Dancing With the Stars’ Season 35
+### 2. WIA Celebrates 10 Years of WIA World Summit at Annecy, Announces Bonnie Arnold’s Fireside Chat and Asks What Comes Next (EXCLUSIVE)
 
-[原文] Guillermo Rodriguez is ready to hit the dancefloor. Jimmy Kimmel&#8217;s lovable, tequila-fueled and basically mononymous right-hand man has joined the cast of &#8220;Dancing With the Stars&#8221; Sea
+[原文] Women in Animation has announced its lineup for this year’s WIA World Summit at Annecy, themed “Frame by Frame: A Global Celebration of Women and Nonbinary Creators.”  The summit will feature producer
 
-📎 [阅读原文](https://variety.com/2026/tv/news/guillermo-jimmy-kimmel-dwts-season-35-1236784635/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/10-years-wia-world-summit-annecy-bonnie-arnold-1236782955/) — *Variety*
 
-### 3. Las Culturistas Culture Awards Recap: Rachel Zegler Covers ‘Fame Is a Gun,’ Lisa Kudrow Takes the Stage and All the Best Moments
+### 3. Netflix Announces ‘KPop Demon Hunters’ Immersive House Experiences Coming to Dallas and Philadelphia (EXCLUSIVE)
 
-[原文] SPOILER ALERT:&#160;This article contains spoilers for Bravo&#8217;s Las Culturistas Culture Awards, now streaming on Peacock. It’s culture&#8217;s biggest night! Comedians and “Las Culturistas” podca
+[原文] &#8220;KPop Demon Hunters: The Immersive Experience&#8221; is coming to Netflix House locations in Dallas and Philadelphia. The news comes on the film&#8217;s one year anniversary. The ticketed experi
 
-📎 [阅读原文](https://variety.com/lists/las-culturistas-culture-awards-winners/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/netflix-kpop-demon-hunters-immersive-house-experience-1236782922/) — *Variety*
 
-### 4. ‘Survivor’ Animated Movie in the Works From Paramount Animation, Jeff Probst to Exec Produce (EXCLUSIVE)
+### 4. Banijay Kids & Family Picks up Heavy Metal Satire ‘Belzebubs,’ Announces Voice Cast and Shares First Clip: ‘Exceptional Series with a Pulsing Dark Heart’ (EXCLUSIVE)
 
-[原文] The tribe has spoken &#8212; and it wants an animated &#8220;Survivor&#8221; movie featuring animal contestants. Paramount Animation, in partnership with CBS, is in development on an animated comedy b
+[原文] Banijay Kids &#38; Family has secured distribution rights to Pyjama Films’ mockumentary-style adult animation “Belzebubs.”&#160; Currently in production, it’s already confirmed for YLE in Finland and 
 
-📎 [阅读原文](https://variety.com/2026/film/news/survivor-animated-movie-paramount-animation-jeff-probst-1236784613/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/banijay-kids-family-heavy-metal-belzebubs-voice-cast-1236784739/) — *Variety*
 
-### 5. Hollywood Radio and Television Society Partners With Easterseals Disability Services to Relaunch  Darcy Awards
+### 5. Indonesia’s MD Entertainment Bets on IP and Microdramas for Global Push
 
-[原文] The Hollywood Radio and Television Society will extend its long-standing relationship with Easterseals Disability Services, partnering with the nonprofit organization for the upcoming Easterseals Disa
+[原文] As Indonesia&#8217;s entertainment industry gains greater international visibility, MD Entertainment, one of the country&#8217;s top studios, is increasingly looking beyond local success and toward gl
 
-📎 [阅读原文](https://variety.com/2026/awards/news/hrts-easterseals-darcy-awards-disability-arts-culture-1236784519/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/indonesia-md-entertainment-ip-microdramas-apos-1236784785/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Reality Series Survivor Is Spawning an Animated Movie Featuring Animal Contestants
+### 1. Vampire Survivors Developer 'Reviewing' Fortnite Crossover Plans, After Epic Details Unreal Engine 6 AI Usage
 
-[原文] Paramount Animation is developing a big screen movie based on long-running reality TV juggernaut Survivor, with host Jeff Probst producing.
+[原文] Vampire Survivors studio Poncle appears to be reconsidering its plans for a lucrative Fortnite crossover, after Epic Games this week confirmed it now uses generative AI tools within the battle royale'
 
-📎 [阅读原文](https://www.ign.com/articles/reality-series-survivor-is-spawning-an-animated-movie-featuring-animal-contestants) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/vampire-survivors-developer-reviewing-fortnite-crossover-plans-after-epic-details-unreal-engine-6-ai-usage) — *IGN*
 
-### 2. The Dreame A3 AWD Pro Robot Lawn Mower Is The Perfect Gift for Father's Day
+### 2. Final Fantasy Tactics Remaster Adds New Game+, but War of the Lions Content Still Missing
 
-[原文] You can mow your yard with the press of a button.
+[原文] The latest update to Square Enix’s Final Fantasy Tactics remaster adds New Game+, and fans are already debating whether Ramza’s story really needs the mode and what fresh possibilities this could open
 
-📎 [阅读原文](https://www.ign.com/articles/dreame-a3-awd-pro-robot-lawn-mower-deal-is-the-perfect-gift-for-fathers-day) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/final-fantasy-tactics-remaster-adds-new-game-but-war-of-the-lions-content-still-missing) — *IGN*
 
-### 3. Marvel's Spider-Man 2 Is Adding New Suit from Brand New Day for Free
+### 3. Final Fantasy 14 Rewards Japanese Players for Paying Their Real-Life Taxes With a Giant Dog
 
-[原文] Marvel's Spider-Man 2 is adding content for the first time in years, and it's completely free.
+[原文] Final Fantasy 14 players in Japan now have the opportunity to get in-game cosmetics and items by paying their real life taxes, as reported by Famitsu. These rewards include the online MMORPG’s Megashi
 
-📎 [阅读原文](https://www.ign.com/articles/marvels-spider-man-2-is-adding-new-suit-from-brand-new-day-for-free) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/final-fantasy-14-rewards-japanese-players-for-paying-their-real-life-taxes-with-a-giant-dog) — *IGN*
 
-### 4. Call of Duty: Black Ops 1 and 2 Are Officially Being Ported to New Platforms Next Month
+### 4. Apple Price Rises ‘Unavoidable’, Warns CEO Tim Cook
 
-[原文] Call of Duty: Black Ops 1 and 2 are being brought to new platforms in July, courtesy of Iron Galaxy.
+[原文] Surging chip costs driven by booming AI demands are to blame.
 
-📎 [阅读原文](https://www.ign.com/articles/call-of-duty-black-ops-1-and-2-are-officially-being-ported-to-new-platforms-next-month) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/apple-price-rises-unavoidable-warns-ceo-tim-cook) — *IGN*
 
-### 5. Save Over 60% Off the ThermoMaven X2 Wireless Meat Thermometer for Father's Day, Now Just $39.99
+### 5. Granblue Fantasy: Relink - Endless Ragnarok Preview: A Deeper Look at the New Summon System
 
-[原文] One of the best gifts you can get for your dad chef
+[原文] Granblue Fantasy: Relink’s upcoming Endless Ragnarok expansion looks to add a wealth of new content and systems to the action RPG, including letting you summon powerful creatures.
 
-📎 [阅读原文](https://www.ign.com/articles/thermomaven-x2-wireless-meat-thermometer-deal-amazon-fathers-day-sale) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/granblue-fantasy-relink-endless-ragnarok-preview-a-deeper-look-at-the-new-summon-system) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Genesis Can Walk Away From Its First Le Mans With Its Head Held High
+### 1. Maserati Reveals the New Face of Its Core Lineup
+
+[原文] Maserati just gave most of its lineup a facelift. 
+The post Maserati Reveals the New Face of Its Core Lineup appeared first on The Drive.
+
+📎 [阅读原文](https://www.thedrive.com/news/maserati-reveals-the-new-face-of-its-core-lineup) — *The Drive*
+
+### 2. There’s Still Room at Maserati for Manual Transmissions, Exec Says
+
+[原文] Maserati will keep the manual transmission option around as long as possible for its boutique customers. 
+The post There&#8217;s Still Room at Maserati for Manual Transmissions, Exec Says appeared fir
+
+📎 [阅读原文](https://www.thedrive.com/news/theres-still-room-at-maserati-for-manual-transmissions-exec-says) — *The Drive*
+
+### 3. Maserati Sees Future for Sedans and V8s, but Not Plug-In Hybrids
+
+[原文] The Quattroporte still looms large in Maserati's mind, and there may be another four-door like it in the future. Just don't count on it being a PHEV.
+The post Maserati Sees Future for Sedans and V8s, 
+
+📎 [阅读原文](https://www.thedrive.com/news/maserati-sees-future-for-sedans-and-v8s-but-not-plug-in-hybrids) — *The Drive*
+
+### 4. Genesis Can Walk Away From Its First Le Mans With Its Head Held High
 
 [原文] As an automaker, Genesis has only existed for 10 years. As a WEC team, Genesis Magma Racing has only been active for two months—and yet, it finished its first 24 Hours of Le Mans.
 The post Genesis Can
 
 📎 [阅读原文](https://www.thedrive.com/news/genesis-can-walk-away-from-its-first-le-mans-with-its-head-held-high) — *The Drive*
 
-### 2. Slate Leaked $24,950 Starting Price on Its Own Website: Report
+### 5. Slate Leaked $24,950 Starting Price on Its Own Website: Report
 
 [原文] Slate's bare-bones electric truck will cost more than originally advertised and faces headwinds from day one.
 The post Slate Leaked $24,950 Starting Price on Its Own Website: Report appeared first on 
 
 📎 [阅读原文](https://www.thedrive.com/news/slate-leaked-24950-starting-price-on-its-own-website-report) — *The Drive*
-
-### 3. Porsche Killed Its Best Cars Because You Didn’t Buy Them
-
-[原文] The 2027 Taycan reveal quietly dropped the Sport Turismo and Cross Turismo wagons, and we only have ourselves to blame.
-The post Porsche Killed Its Best Cars Because You Didn&#8217;t Buy Them appeared
-
-📎 [阅读原文](https://www.thedrive.com/news/porsche-killed-its-best-cars-because-you-didnt-buy-them) — *The Drive*
-
-### 4. License Plate Cameras Will Soon Track Phones, Wearables, Infotainment, and Even Your Pets
-
-[原文] A new kind of license-plate-reading camera will also scrape the smart devices you take with you, and wrap all that data in a nice little bow for law enforcement and the government.
-The post License Pl
-
-📎 [阅读原文](https://www.thedrive.com/news/license-plate-cameras-will-soon-track-phones-wearables-infotainment-and-even-your-pets) — *The Drive*
-
-### 5. Base Chevy Silverado 1500 Work Truck Finally Gets the Duramax Diesel
-
-[原文] A barebones half-ton on steelies with a buttery smooth turbodiesel inline-six under the hood sounds like a pretty good combo.
-The post Base Chevy Silverado 1500 Work Truck Finally Gets the Duramax Die
-
-📎 [阅读原文](https://www.thedrive.com/news/base-chevy-silverado-1500-work-truck-finally-gets-the-duramax-diesel) — *The Drive*
 
 ---
 
@@ -363,35 +363,35 @@ The post Base Chevy Silverado 1500 Work Truck Finally Gets the Duramax Die
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Alabama’s Self-Proclaimed ‘AI Watchman’ Unseats Incumbent Public Service Commissioner
+### 1. Detainees Moved Out of Alligator Alcatraz, ICE Confirms
+
+[原文] Inmates have been moved out of Alligator Alcatraz, the Everglades migrant detention site, the Trump administration confirmed Wednesday to Inside Climate News. “As we enter into hurricane season, ICE a
+
+📎 [阅读原文](https://insideclimatenews.org/news/18062026/feds-relocate-alligator-alcatraz-detainees/) — *Inside Climate News*
+
+### 2. Trump Administration’s Coal Investments Breathe New Life Into Plants With Repeated Violations
+
+[原文] In 2023, after years of pollution, equipment failures and health concerns, the Cumberland Fossil Plant in Tennessee was slated to close within the decade. The coal-fired plant had been part of a multi
+
+📎 [阅读原文](https://insideclimatenews.org/news/18062026/trump-administration-funds-coal-plants-with-repeated-violations/) — *Inside Climate News*
+
+### 3. Colombia Passes First-Ever National Law Requiring Beef to Be Traced Back to Its Origins
+
+[原文] Colombia this month enacted a landmark law designed to stop deforestation connected to cattle ranching, a move that environmental groups say could provide a model for the wider Amazon region, where li
+
+📎 [阅读原文](https://insideclimatenews.org/news/18062026/colombia-beef-law-tackles-deforestation/) — *Inside Climate News*
+
+### 4. Alabama’s Self-Proclaimed ‘AI Watchman’ Unseats Incumbent Public Service Commissioner
 
 [原文] MOBILE, Ala.—Jim Zeigler didn’t have much time to celebrate. The morning after his Republican primary victory on Tuesday and a gathering of supporters at Wintzell’s Oyster House, the 78-year-old hit t
 
 📎 [阅读原文](https://insideclimatenews.org/news/17062026/alabama-republican-jim-zeigler-unseats-incumbent-public-service-commissioner/) — *Inside Climate News*
 
-### 2. Alabama Governor Names Four New PSC Members, Including Its First Two Black Appointees
+### 5. Alabama Governor Names Four New PSC Members, Including Its First Two Black Appointees
 
 [原文] The Alabama Public Service Commission has never had a Black commissioner in its 145-year history, but that’s about to change. Alabama Gov. Kay Ivey announced the appointments of four new commissioners
 
 📎 [阅读原文](https://insideclimatenews.org/news/17062026/alabama-expands-utilities-regulator-with-four-new-commissioners/) — *Inside Climate News*
-
-### 3. ‘We Just Want Clean Water’: Residents Sue a North Carolina County Over Landfill Contamination
-
-[原文] This story was published by the Border Belt Independent in collaboration with Inside Climate News. Viv Tolson Wayne rang the large dinner bell on her front porch along Britt Road in St. Pauls, North C
-
-📎 [阅读原文](https://insideclimatenews.org/news/17062026/north-carolina-residents-sue-landfill-over-pfas-contamination/) — *Inside Climate News*
-
-### 4. Scientists Warn of Summer Heat Spikes as Global Warming Edges Toward 2C
-
-[原文] Former federal climate experts warn that atmospheric carbon dioxide concentrations hit a record high in May and that the monthly average global temperature this summer could rise as much as 3.5 degree
-
-📎 [阅读原文](https://insideclimatenews.org/news/17062026/summer-heat-spike-as-global-warming-surges/) — *Inside Climate News*
-
-### 5. A Sloth Exhibitor Shut Down by New York Wants a Florida Comeback—and Florida Licensed Him
-
-[原文] An exotic animal exhibitor whose sloth-encounters business was shuttered by New York courts is attempting to relaunch his operations in Florida, right as the state grapples with the fallout from sloth
-
-📎 [阅读原文](https://insideclimatenews.org/news/17062026/larry-wallach-florida-sloth-encounter-business/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post Base Chevy Silverado 1500 Work Truck Finally Gets the Duramax Die
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Sabrina Carpenter Granted 5-Year Restraining Order After Alleged Stalker Gives Chilling Testimony
+### 1. Watch Marcello Hernández Confess to Rosalía at Madison Square Garden
+
+[原文] The Spanish singer brought her Lux Tour to New York City for the second night in a row on Wednesday
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/marcello-hernandez-rosalia-madison-square-garden-tour-1235580256/) — *Rolling Stone*
+
+### 2. Watch Kim Gordon Showcase ‘Play Me’ on ‘Fallon’
+
+[原文] The former Sonic Youth musician released her third solo album in March
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/kim-gordon-play-me-performance-fallon-1235580251/) — *Rolling Stone*
+
+### 3. Sabrina Carpenter Granted 5-Year Restraining Order After Alleged Stalker Gives Chilling Testimony
 
 [原文] A judge issued the strict stay-away order after the man claimed he was part of a "classified military government program" and had to contact Carpenter to save the world
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/sabrina-carpenter-restraining-order-granted-testimony-1235579785/) — *Rolling Stone*
 
-### 2. OG Anunoby Tells Alicia Keys ‘The City’s Asking for You’ Ahead of Knicks Ceremony Performance
+### 4. OG Anunoby Tells Alicia Keys ‘The City’s Asking for You’ Ahead of Knicks Ceremony Performance
 
 [原文] The New York-born and raised musician will perform at City Hall on Thursday, June 18, following the championship parade
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/alicia-keys-perform-new-york-knicks-city-hall-ceremony-1235579698/) — *Rolling Stone*
 
-### 3. Gracie Abrams Reveals ‘Daughter From Hell’ Track List
+### 5. Gracie Abrams Reveals ‘Daughter From Hell’ Track List
 
 [原文] The singer-songwriter’s third album will feature 16 tracks, including lead single “Hit the Wall”
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/gracie-abrams-daughter-from-hell-track-list-1235579647/) — *Rolling Stone*
-
-### 4. Harry Styles Just Delivered the Greatest Performance of His Solo Career
-
-[原文] An official release of this incredibly special evening at Meltdown Festival in London is a must
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/harry-styles-bridge-over-troubled-water-meltdown-festival-1235579559/) — *Rolling Stone*
-
-### 5. Post Malone Pays Tribute to Oliver Tree at Toronto Show: ‘An Absolutely Beautiful Man’
-
-[原文] Malone poured one out for the alternative pop artist, who died in a helicopter crash in Brazil earlier this week
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/post-malone-oliver-tree-tribute-1235579515/) — *Rolling Stone*
 
 ---
 
@@ -515,7 +515,7 @@ The post Base Chevy Silverado 1500 Work Truck Finally Gets the Duramax Die
 - **💰 经济财经**: CNBC
 - **💻 科技**: TechCrunch
 - **🔬 科学**: Science Daily
-- **⚽ 体育**: ESPN
+- **⚽ 体育**: BBC Sport
 - **🎬 娱乐**: Variety
 - **🏥 健康**: WHO
 - **🎮 游戏**: IGN
