@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年06月18日** | 生成时间: 2026-06-18 18:26
+**2026年06月18日** | 生成时间: 2026-06-18 23:34
 
 ---
 
@@ -16,11 +16,11 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. What's in the US-Iran agreement?
+### 1. Weapons, money and ships: How is this Iran deal different from others?
 
-[原文] The 14-paragraph memo includes an end to fighting, an agreement that Iran will never have a nuclear weapon, and a $300bn redevelopment package for Iran.
+[原文] BBC Verify examines how the new deal between the US and Iran affects three key areas.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.com/news/articles/c74ynmnrwmeo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 2. Moscow hit by largest Ukrainian attack since start of Russia's full-scale war
 
@@ -28,23 +28,23 @@
 
 📎 [阅读原文](https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Gunfire and explosions heard at Niger capital's airport
-
-[原文] Niger has been fighting a militant Islamist insurgency for a decade and in January suspected jihadists attacked the same airport.
-
-📎 [阅读原文](https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Suspected gang leader shot dead in flower bouquet ambush at airport
+### 3. Suspected gang leader shot dead in flower bouquet ambush at airport
 
 [原文] The gunmen concealed their weapons behind flowers and stuffed toys while waiting for the victim outside Guayaquil airport.
 
 📎 [阅读原文](https://www.bbc.com/news/articles/c4gy2l30dd0o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Japan ramping up defence is 'critical' to prevent war, Defence Minister Koizumi tells BBC
+### 4. Hegseth renews Nato criticism and says US will review presence in Europe
 
-[原文] Japan needs to revisit the pacifist posture that has defined it since World War Two, Shinjiro Koizumi says.
+[原文] The US defence secretary's move follows a US decision to scale back its commitments to a high readiness force within the alliance.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/cly8qd4595eo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.com/news/articles/c3vy5l62622o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. British man dies in paragliding accident in Spain
+
+[原文] Authorities in Catalonia confirmed that the 63-year-old died in the Palau de Noguera area on Wednesday.
+
+📎 [阅读原文](https://www.bbc.com/news/articles/c1dye3e9gnwo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -60,29 +60,29 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/06/18/trump-iran-deal-mou-nuclear-hormuz.html) — *CNBC*
 
-### 2. Intel surges 9% after Trump says company will partner with Apple on U.S. chip design
+### 2. Trump bid to fire Fed's Lisa Cook cost her more than $1M in legal, security costs: Filing
 
-[原文] The boost continues Intel's recent rally as the chipmaker bounces back from years of headwinds.
+[原文] A financial disclosure from Federal Reserve Governor Lisa Cook details large legal and security expenses
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/18/trump-intel-apple-chip-design-deal.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/18/trump-federal-reserve-lisa-cook-security-filing.html) — *CNBC*
 
-### 3. Here are the five big takeaways from Kevin Warsh's first meeting as Fed chairman
+### 3. OPEC chief dismisses IEA supply glut forecast as 'critical' Strait of Hormuz reopens
 
-[原文] The Federal Reserve and Chairman Kevin Warsh on Wednesday followed the script on interest rates closely.
+[原文] The IEA said on Wednesday that a lasting resolution to the conflict could drive a surge in supply volumes and trigger a major oil overhang next year.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/17/here-are-the-five-big-takeaways-from-kevin-warshs-first-meeting-as-fed-chairman.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/18/opec-iea-supply-glut-forecast-critical-strait-hormuz-reopens-oil.html) — *CNBC*
 
-### 4. Hegseth warns NATO allies that some nations will 'fail' U.S. defense review
+### 4. Bonkers SpaceX stats that show how staggering the money movement has been
 
-[原文] The U.S. defense secretary also said it was "shameful" that European allies refused to give U.S. forces access to bases to strike Iran.
+[原文] SpaceX's first few days of trading have been filled with superlatives, from trading volume to the size of the company's first acquisition.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/18/hegseth-nato-defense-review-fail-europe.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/18/5-wild-spacex-stats-from-the-companys-first-week-on-the-nasdaq.html) — *CNBC*
 
-### 5. Nearly 80% of data center capacity is at elevated risk to climate hazards like flooding and fire, study says
+### 5. GOP Rep. Steil pushes bill curbing members of Congress from prediction market betting
 
-[原文] The vast majority of data centers globally face either acute risk from climate change events or chronic risk from ongoing climate issues like extreme heat.
+[原文] The new proposal on limits on members of Congress making such bets come as scrutiny increases on prediction markets like Kalshi and Polymarket.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/18/data-center-climate-change-study.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/18/prediction-market-ban-congress-house-stock-bryan-steil.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. NASA picks Eric Schmidt’s rocket company for Mars mission, setting up a race with SpaceX
+### 1. General Intuition in talks to raise $300M at around $2B valuation
 
-[原文] Relativity Space—a rocket maker acquired by former Google executive chair Eric Schmidt last year after stumbling on the path to orbit—might just beat SpaceX to Mars.
+[原文] General Intuition is in talks to raise around $300 million at a roughly $2 billion valuation from backers including Jeff Bezos. The startup trains AI agents on spatial-temporal reasoning.
 
-📎 [阅读原文](https://techcrunch.com/2026/06/17/nasa-picks-eric-schmidts-rocket-company-for-mars-mission-setting-up-a-race-with-spacex/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/) — *TechCrunch*
 
-### 2. How to turn off AI in your Google Docs
+### 2. A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight
 
-[原文] Here's what you need to do to get those pesky "write with Gemini" pop-ups to go away.
+[原文] Guardrails positions itself as a populist political movement that runs on small donations from people in the trenches of the AI boom.
 
-📎 [阅读原文](https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/) — *TechCrunch*
 
-### 3. AI is hurting Apple in more ways than one: it may force iPhone price increases
+### 3. Spotify’s reserved ticket sales to music superfans are now going live
 
-[原文] CEO Tim Cook said in a recent interview that the situation is "unsustainable."
+[原文] Spotify is launching "Reserved," a new system that will hold two concert tickets for an artist's superfans before they're on sale to the public.
 
-📎 [阅读原文](https://techcrunch.com/2026/06/17/ai-is-hurting-apple-in-more-ways-than-one-it-may-force-iphone-price-increases/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/06/18/spotifys-reserved-ticket-sales-to-musics-superfans-are-now-going-live/) — *TechCrunch*
 
-### 4. Chi-Hua Chien saw Facebook coming — now he says the real AI winners won’t be selling AI
+### 4. Adobe adds its AI assistant to Premiere, Illustrator and InDesign
 
-[原文] Chi-Hua Chien has spent more than two decades as a venture capitalist, but he thinks like a cultural anthropologist.
+[原文] Adobe is updating its Firefly AI assistant with new chops, and adding it to Premiere, Illustrator, InDesign and Frame.io.
 
-📎 [阅读原文](https://techcrunch.com/2026/06/17/chi-hua-chien-saw-facebook-coming-now-he-says-the-real-ai-winners-wont-be-selling-ai/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/06/18/adobe-adds-its-ai-assistant-to-premiere-illustrator-and-indesign/) — *TechCrunch*
 
-### 5. Roelof Botha joins SpaceX’s board of directors
+### 5. Pixi’s new iOS app turns text messages into interactive AR experiences
 
-[原文] The former Sequoia Capital leader is filling an "existing vacancy" on SpaceX's board, days after the company went public in the largest IPO ever.
+[原文] Forget stickers, GIFs, and emoji reactions. Pixi is betting that the next evolution of messaging is interactive augmented reality (AR).
 
-📎 [阅读原文](https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/06/18/pixis-new-ios-app-turns-text-messages-into-interactive-ar-experiences/) — *TechCrunch*
 
 ---
 
@@ -142,23 +142,23 @@
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260617032207.htm) — *Science Daily*
 
-### 3. Scientists discover spider that disguises itself as a parasitic fungus
+### 3. Researchers found 8 common food additives linked to high blood pressure and heart disease
+
+[原文] A major study of more than 112,000 people found that eating foods containing common preservatives may be linked to a higher risk of high blood pressure and heart-related diseases. Researchers tracked 
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260617032204.htm) — *Science Daily*
+
+### 4. Scientists discover spider that disguises itself as a parasitic fungus
 
 [原文] Scientists have discovered a new Amazonian spider with an astonishing disguise: it looks like a parasitic fungus. The species, Taczanowskia waska, mimics both the appearance and behavior of the fungus
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260617032201.htm) — *Science Daily*
 
-### 4. Ozempic and Wegovy linked to surprising drop in violent behavior
+### 5. These bees have nowhere to hide from extreme heat
 
-[原文] A Rutgers study suggests GLP-1 drugs such as Ozempic and Wegovy may weaken the link between impulsive tendencies and violent behavior. The surprising finding hints that these medications could affect 
+[原文] A major study of Australian native bees found that stem-nesting species may be the first to feel the impact of climate change. Unlike bees that nest underground, they have few ways to escape dangerous
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260617032152.htm) — *Science Daily*
-
-### 5. A daily probiotic may help relieve depression and anxiety
-
-[原文] A small clinical trial suggests that probiotics may offer a surprising mental health boost for older adults with depression. Seniors who took a daily probiotic alongside their regular antidepressant t
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260617032149.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260617032157.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Tactical analysis: England look exciting but how can they tighten up?
+### 1. Top U.S. Open storylines: Scottie Scheffler, Jon R...
 
-[原文] England produced some exciting attacking football while beating Croatia 4-2 but why did they look so shaky defensively?
+[原文] Is Scottie Scheffler still the favorite? How hard will Shinnecock Hills play? We break down what to watch at the 2026 U.S. Open.
 
-📎 [阅读原文](https://www.bbc.com/sport/articles/c98256ypwy0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/golf/story/_/id/49083772/top-storylines-us-open-2026-scottie-scheffler-russell-henley) — *ESPN*
 
-### 2. From one to 48 - every World Cup team ranked after first game
+### 2. Sights, sounds and shots from the first round
 
-[原文] All 48 teams at the World Cup have now played once. BBC Sport's experts have ranked them all, from best to worst. Who is top? Not defending champions Argentina.
+[原文] Here are the best sights and sounds from the 2026 U.S. Open at Shinnecock Hills Golf Club.
 
-📎 [阅读原文](https://www.bbc.com/sport/football/articles/cn4djkzxygjo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/golf/story/_/id/49099206/us-open-2026-first-round-sights-sounds-best-shots) — *ESPN*
 
-### 3. 'I never imagined something like this' - Nadal reflects on Wimbledon 2008 win
+### 3. Dolan says second apron not an option for Knicks
 
-[原文] Rafael Nadal recalls his seismic five-set victory over Roger Federer in the 2008 Wimbledon final, arguably the greatest men's match ever played.
+[原文] On the heels of the Knicks' first NBA title in 53 years, owner James Dolan told WFAN radio Wednesday that he will not go into the punitive second apron to keep his team intact for the 2026-27 season.
 
-📎 [阅读原文](https://www.bbc.com/sport/tennis/articles/c0k2e63lypdo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/nba/story/_/id/49103460/james-dolan-go-second-apron-keep-knicks-intact) — *ESPN*
 
-### 4. Konate to join Real Madrid on four-year deal
+### 4. Sources: Wizards' Young to decline option, be FA
 
-[原文] Real Madrid agree a deal to sign Ibrahima Konate on a four-year contract when the France centre-back leaves Liverpool at the end of June.
+[原文] Wizards star Trae Young plans to decline his $48.97 million player option for the 2026-27 season, although Washington remains the front-runner, sources said.
 
-📎 [阅读原文](https://www.bbc.com/sport/football/articles/crr8797ek15o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/nba/story/_/id/49103130/sources-wizards-trae-young-decline-option-free-agent) — *ESPN*
 
-### 5. This was an England we haven't seen for years - and it was fun
+### 5. Ivory Coast's Wahi denied Canada WCup visa
 
-[原文] Fun to watch and full of intent - this was an England we have not seen for years, writes Phil McNulty.
+[原文] Ivory Coast striker Elye Wahi, who is being investigated into suspected spot-fixing, has not been authorized to travel to Canada for his team's next World Cup match against Germany, the Ivorian soccer
 
-📎 [阅读原文](https://www.bbc.com/sport/football/articles/cwylqvgne7lo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49106661/ivory-coast-elye-wahi-denied-canada-visa-amid-match-fixing-allegations) — *ESPN*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. JioHotstar Sees AI, Connected TV and Commerce Driving India’s Next Streaming Phase
+### 1. How to Watch the 2026 U.S. Open Online: Stream PGA Tour’s Third Major Without Cable
 
-[原文] Speaking during the APOS conference&#8217;s &#8220;India Streaming: The Product View&#8221; session, JioStar executives Bharath Ram and Vijay Seshadri outlined how JioHotstar is building its product a
+[原文] The 2026 U.S. Open tees off this week as PGA Tour players head to Shinnecock Hills on New York&#8217;s Long Island for the third major championship of the season. Shinnecock Hills returns as a US Open
 
-📎 [阅读原文](https://variety.com/2026/tv/news/jiohotstar-ai-connected-tv-commerce-apos-2026-1236784804/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/shopping/news/how-to-watch-2026-us-open-pga-tour-live-online-1236783969/) — *Variety*
 
-### 2. WIA Celebrates 10 Years of WIA World Summit at Annecy, Announces Bonnie Arnold’s Fireside Chat and Asks What Comes Next (EXCLUSIVE)
+### 2. Charles Band Horror ‘Models vs. Werewolves,’ Featuring Dee Wallace, Lands at ReelShort for Vertical Debut (EXCLUSIVE)
 
-[原文] Women in Animation has announced its lineup for this year’s WIA World Summit at Annecy, themed “Frame by Frame: A Global Celebration of Women and Nonbinary Creators.”  The summit will feature producer
+[原文] &#8220;Models vs. Werewolves,&#8221; the new horror film from Charles Band and vertical production banner FMA – Full Moon Artists, has landed at microdrama platform ReelShort for its vertical premiere
 
-📎 [阅读原文](https://variety.com/2026/film/global/10-years-wia-world-summit-annecy-bonnie-arnold-1236782955/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/charles-band-horror-models-vs-werewolves-dee-wallace-reelshort-1236785005/) — *Variety*
 
-### 3. Netflix Announces ‘KPop Demon Hunters’ Immersive House Experiences Coming to Dallas and Philadelphia (EXCLUSIVE)
+### 3. ‘Esports World Cup: Level Up’ Docuseries From R.J. Cutler About the Battle for $70 Million in Prize Money Returns to Prime Video for Season 2
 
-[原文] &#8220;KPop Demon Hunters: The Immersive Experience&#8221; is coming to Netflix House locations in Dallas and Philadelphia. The news comes on the film&#8217;s one year anniversary. The ticketed experi
+[原文] Game on! &#8220;Esports World Cup: Level Up&#8221; returns for its second season on June 26, when all five episodes will drop exclusively on Amazon&#8217;s Prime Video. Directed by filmmaker R.J. Cutl
 
-📎 [阅读原文](https://variety.com/2026/film/news/netflix-kpop-demon-hunters-immersive-house-experience-1236782922/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/esports-world-cup-level-up-season-2-rj-cutler-prime-video-1236783943/) — *Variety*
 
-### 4. Banijay Kids & Family Picks up Heavy Metal Satire ‘Belzebubs,’ Announces Voice Cast and Shares First Clip: ‘Exceptional Series with a Pulsing Dark Heart’ (EXCLUSIVE)
+### 4. ‘Outer Banks’ Fifth and Final Season Gets a Premiere Date, Reveals First Look
 
-[原文] Banijay Kids &#38; Family has secured distribution rights to Pyjama Films’ mockumentary-style adult animation “Belzebubs.”&#160; Currently in production, it’s already confirmed for YLE in Finland and 
+[原文] It&#8217;s been more than a year and a half since Netflix last took a trip to &#8220;Outer Banks,&#8221; but the show&#8217;s fifth and final season finally has a premiere date: August 20. As part of 
 
-📎 [阅读原文](https://variety.com/2026/film/global/banijay-kids-family-heavy-metal-belzebubs-voice-cast-1236784739/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/outer-banks-season-5-premiere-date-first-look-1236784688/) — *Variety*
 
-### 5. Indonesia’s MD Entertainment Bets on IP and Microdramas for Global Push
+### 5. ‘Unchosen’ Star Molly Windsor Signs With Anonymous Content (EXCLUSIVE)
 
-[原文] As Indonesia&#8217;s entertainment industry gains greater international visibility, MD Entertainment, one of the country&#8217;s top studios, is increasingly looking beyond local success and toward gl
+[原文] BAFTA-winning British actress Molly Windsor has signed with Anonymous Content. The rising star currently leads Netflix&#8217;s psychological thriller series &#8220;Unchosen&#8221; as a woman living in
 
-📎 [阅读原文](https://variety.com/2026/tv/news/indonesia-md-entertainment-ip-microdramas-apos-1236784785/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/global/molly-windsor-signs-with-anonymous-content-1236784756/) — *Variety*
 
 ---
 
@@ -244,35 +244,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Open letter to leaders of G7, G20, BRICS and all nations on finalizing the WHO Pandemic Agreement’s Pathogen Access and Benefit Sharing annex
+### 1. WHO issues comprehensive guidelines on filovirus disease, including Ebola and Marburg disease
+
+[原文] As the Democratic Republic of the Congo is battling an Ebola disease outbreak caused by the Bundibugyo virus, the World Health Organization (WHO) has released its first comprehensive guidelines for th
+
+📎 [阅读原文](https://www.who.int/news/item/17-06-2026-who-issues-comprehensive-guidelines-on-filovirus-disease--including-ebola-and-marburg-disease) — *WHO*
+
+### 2. Open letter to leaders of G7, G20, BRICS and all nations on finalizing the WHO Pandemic Agreement’s Pathogen Access and Benefit Sharing annex
 
 [原文] Dear Leaders of the G7, the G20, BRICS and of all nations,We write to you together, from Geneva and from Bras&iacute;lia, with one shared conviction: that the world must finish what it started, and th
 
 📎 [阅读原文](https://www.who.int/news/item/15-06-2026-open-letter-to-leaders-of-g7-g20-brics-and-all-nations-on-finalizing-the-who-pandemic-agreement-s-pathogen-access-and-benefit-sharing-annex) — *WHO*
 
-### 2. Safe blood supply improves as voluntary donations exceed 85%, but many people still lack access
+### 3. Safe blood supply improves as voluntary donations exceed 85%, but many people still lack access
 
 [原文] New data from the World Health Organization (WHO) show sustained progress towards safer blood supplies globally but also highlight persistent inequalities in access to safe blood and weaknesses in gov
 
 📎 [阅读原文](https://www.who.int/news/item/12-06-2026-safe-blood-supply-improves-as-voluntary-donations-exceed-85---but-many-people-still-lack-access) — *WHO*
 
-### 3. Africa CDC and WHO launch joint continental Ebola response plan
+### 4. Africa CDC and WHO launch joint continental Ebola response plan
 
 [原文] The Africa Centres for Disease Control and Prevention (Africa CDC) and the World Health Organization (WHO) today launched a joint continental preparedness and response plan on the ongoing Ebola outbre
 
 📎 [阅读原文](https://www.who.int/news/item/05-06-2026-africa-cdc-and-who-launch-joint-continental-ebola-response-plan) — *WHO*
 
-### 4. Unsafe food causes 866 million illnesses and 1.5 million deaths annually, young children at highest risk
+### 5. Unsafe food causes 866 million illnesses and 1.5 million deaths annually, young children at highest risk
 
 [原文] Children aged less than five years face almost three times the risk of illness from unsafe food than older children and adults, according to new estimates released today by the World Health Organizati
 
 📎 [阅读原文](https://www.who.int/news/item/04-06-2026-unsafe-food-causes-866-million-illnesses-and-1.5-million-deaths-annually--young-children-at-highest-risk) — *WHO*
-
-### 5. Joint statement by the Government of the Democratic Republic of the Congo and WHO concerning the outbreak of Ebola disease caused by the Bundibugyo virus
-
-[原文] The Government of the Democratic Republic of the Congo (DRC) and the World Health Organization (WHO) reaffirm their strong partnership and shared commitment to protect the health and well-being of the
-
-📎 [阅读原文](https://www.who.int/news/item/31-05-2026-joint-statement-by-the-government-of-the-democratic-republic-of-the-congo-and-who-concerning-the-outbreak-of-ebola-disease-caused-by-the-bundibugyo-virus) — *WHO*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Vampire Survivors Developer 'Reviewing' Fortnite Crossover Plans, After Epic Details Unreal Engine 6 AI Usage
+### 1. Amid Concern Over Xbox Studio 'Bloodbath,' New Report Says Developers Are Being 'Punished Today for Following Orders'
+
+[原文] A new report suggests Xbox layoffs will likely result in a "bloodbath" of job losses and studio closures, leaving developers "punished" simply for following Microsoft's orders.
+
+📎 [阅读原文](https://www.ign.com/articles/amid-concern-over-xbox-studio-bloodbath-new-report-says-developers-are-being-punished-today-for-following-orders) — *IGN*
+
+### 2. Scrapped Star Wars TV Series Would Have Shown the Rise of Emperor Palpatine 'Like Hitler's'
+
+[原文] George Lucas wanted to chronicle the rise of Emperor Palpatine "like Hitler's" as part of a scrapped Star Wars TV show.
+
+📎 [阅读原文](https://www.ign.com/articles/scrapped-star-wars-tv-series-would-have-shown-the-rise-of-emperor-palpatine-like-hitlers) — *IGN*
+
+### 3. Amazon’s "Buy 2, Get 1 Free" Sale Lets You Grab 3 Iconic DC Graphic Novels for Under $20
+
+[原文] Amazon has quietly brought back its brilliant "3 for 2" sale, including the wildly popular, pocket-sized DC Compact Comics. Grab three legendary graphic novels for under $20 total.
+
+📎 [阅读原文](https://www.ign.com/articles/amazon-dc-compact-comics-buy-2-get-1-free-sale-amazon-prime-day-2026) — *IGN*
+
+### 4. Vampire Survivors Developer 'Reviewing' Fortnite Crossover Plans, After Epic Details Unreal Engine 6 AI Usage
 
 [原文] Vampire Survivors studio Poncle appears to be reconsidering its plans for a lucrative Fortnite crossover, after Epic Games this week confirmed it now uses generative AI tools within the battle royale'
 
 📎 [阅读原文](https://www.ign.com/articles/vampire-survivors-developer-reviewing-fortnite-crossover-plans-after-epic-details-unreal-engine-6-ai-usage) — *IGN*
 
-### 2. Final Fantasy Tactics Remaster Adds New Game+, but War of the Lions Content Still Missing
+### 5. Final Fantasy Tactics Remaster Adds New Game+, but War of the Lions Content Still Missing
 
 [原文] The latest update to Square Enix’s Final Fantasy Tactics remaster adds New Game+, and fans are already debating whether Ramza’s story really needs the mode and what fresh possibilities this could open
 
 📎 [阅读原文](https://www.ign.com/articles/final-fantasy-tactics-remaster-adds-new-game-but-war-of-the-lions-content-still-missing) — *IGN*
-
-### 3. Final Fantasy 14 Rewards Japanese Players for Paying Their Real-Life Taxes With a Giant Dog
-
-[原文] Final Fantasy 14 players in Japan now have the opportunity to get in-game cosmetics and items by paying their real life taxes, as reported by Famitsu. These rewards include the online MMORPG’s Megashi
-
-📎 [阅读原文](https://www.ign.com/articles/final-fantasy-14-rewards-japanese-players-for-paying-their-real-life-taxes-with-a-giant-dog) — *IGN*
-
-### 4. Apple Price Rises ‘Unavoidable’, Warns CEO Tim Cook
-
-[原文] Surging chip costs driven by booming AI demands are to blame.
-
-📎 [阅读原文](https://www.ign.com/articles/apple-price-rises-unavoidable-warns-ceo-tim-cook) — *IGN*
-
-### 5. Granblue Fantasy: Relink - Endless Ragnarok Preview: A Deeper Look at the New Summon System
-
-[原文] Granblue Fantasy: Relink’s upcoming Endless Ragnarok expansion looks to add a wealth of new content and systems to the action RPG, including letting you summon powerful creatures.
-
-📎 [阅读原文](https://www.ign.com/articles/granblue-fantasy-relink-endless-ragnarok-preview-a-deeper-look-at-the-new-summon-system) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Maserati Reveals the New Face of Its Core Lineup
+### 1. A GMC Dealer Sold 99% of Its Cars. GM Still Calls It a Failure and Won’t Send More
+
+[原文] Sun GMC sold 99% of its allocated inventory in 2024, yet GM sent it fewer than half the vehicles it needed to hit its own sales targets.
+The post A GMC Dealer Sold 99% of Its Cars. GM Still Calls It a
+
+📎 [阅读原文](https://www.thedrive.com/news/a-gmc-dealer-sold-99-of-its-cars-gm-still-calls-it-a-failure-and-wont-send-more) — *The Drive*
+
+### 2. Mazda, Once the Loudest Critic of Touchscreens, Now Says They’re Safer Than Buttons: TDS
+
+[原文] Mazda program manager Koichiro Yamaguchi said a bank of 15 similar-looking switches forces drivers to look down longer than a touchscreen would.
+The post Mazda, Once the Loudest Critic of Touchscreens
+
+📎 [阅读原文](https://www.thedrive.com/news/mazda-once-the-loudest-critic-of-touchscreens-now-says-theyre-safer-than-buttons-tds) — *The Drive*
+
+### 3. Maserati Reveals the New Face of Its Core Lineup
 
 [原文] Maserati just gave most of its lineup a facelift. 
 The post Maserati Reveals the New Face of Its Core Lineup appeared first on The Drive.
 
 📎 [阅读原文](https://www.thedrive.com/news/maserati-reveals-the-new-face-of-its-core-lineup) — *The Drive*
 
-### 2. There’s Still Room at Maserati for Manual Transmissions, Exec Says
+### 4. There’s Still Room at Maserati for Manual Transmissions, Exec Says
 
 [原文] Maserati will keep the manual transmission option around as long as possible for its boutique customers. 
 The post There&#8217;s Still Room at Maserati for Manual Transmissions, Exec Says appeared fir
 
 📎 [阅读原文](https://www.thedrive.com/news/theres-still-room-at-maserati-for-manual-transmissions-exec-says) — *The Drive*
 
-### 3. Maserati Sees Future for Sedans and V8s, but Not Plug-In Hybrids
+### 5. Maserati Sees Future for Sedans and V8s, but Not Plug-In Hybrids
 
 [原文] The Quattroporte still looms large in Maserati's mind, and there may be another four-door like it in the future. Just don't count on it being a PHEV.
 The post Maserati Sees Future for Sedans and V8s, 
 
 📎 [阅读原文](https://www.thedrive.com/news/maserati-sees-future-for-sedans-and-v8s-but-not-plug-in-hybrids) — *The Drive*
-
-### 4. Genesis Can Walk Away From Its First Le Mans With Its Head Held High
-
-[原文] As an automaker, Genesis has only existed for 10 years. As a WEC team, Genesis Magma Racing has only been active for two months—and yet, it finished its first 24 Hours of Le Mans.
-The post Genesis Can
-
-📎 [阅读原文](https://www.thedrive.com/news/genesis-can-walk-away-from-its-first-le-mans-with-its-head-held-high) — *The Drive*
-
-### 5. Slate Leaked $24,950 Starting Price on Its Own Website: Report
-
-[原文] Slate's bare-bones electric truck will cost more than originally advertised and faces headwinds from day one.
-The post Slate Leaked $24,950 Starting Price on Its Own Website: Report appeared first on 
-
-📎 [阅读原文](https://www.thedrive.com/news/slate-leaked-24950-starting-price-on-its-own-website-report) — *The Drive*
 
 ---
 
@@ -363,35 +363,35 @@ The post Slate Leaked $24,950 Starting Price on Its Own Website: Report appeared
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Detainees Moved Out of Alligator Alcatraz, ICE Confirms
+### 1. Why General Motors Is Betting on Sodium-Ion Batteries
+
+[原文] Peak Energy announced last week that it has entered a new partnership with General Motors to manufacture sodium-ion batteries for energy storage systems. The deal marks a pivotal moment for Peak, a st
+
+📎 [阅读原文](https://insideclimatenews.org/news/18062026/inside-clean-energy-general-motors-sodium-ion-batteries/) — *Inside Climate News*
+
+### 2. Detainees Moved Out of Alligator Alcatraz, ICE Confirms
 
 [原文] Inmates have been moved out of Alligator Alcatraz, the Everglades migrant detention site, the Trump administration confirmed Wednesday to Inside Climate News. “As we enter into hurricane season, ICE a
 
 📎 [阅读原文](https://insideclimatenews.org/news/18062026/feds-relocate-alligator-alcatraz-detainees/) — *Inside Climate News*
 
-### 2. Trump Administration’s Coal Investments Breathe New Life Into Plants With Repeated Violations
+### 3. Trump Administration’s Coal Investments Breathe New Life Into Plants With Repeated Violations
 
 [原文] In 2023, after years of pollution, equipment failures and health concerns, the Cumberland Fossil Plant in Tennessee was slated to close within the decade. The coal-fired plant had been part of a multi
 
 📎 [阅读原文](https://insideclimatenews.org/news/18062026/trump-administration-funds-coal-plants-with-repeated-violations/) — *Inside Climate News*
 
-### 3. Colombia Passes First-Ever National Law Requiring Beef to Be Traced Back to Its Origins
+### 4. Colombia Passes First-Ever National Law Requiring Beef to Be Traced Back to Its Origins
 
 [原文] Colombia this month enacted a landmark law designed to stop deforestation connected to cattle ranching, a move that environmental groups say could provide a model for the wider Amazon region, where li
 
 📎 [阅读原文](https://insideclimatenews.org/news/18062026/colombia-beef-law-tackles-deforestation/) — *Inside Climate News*
 
-### 4. Alabama’s Self-Proclaimed ‘AI Watchman’ Unseats Incumbent Public Service Commissioner
+### 5. Alabama’s Self-Proclaimed ‘AI Watchman’ Unseats Incumbent Public Service Commissioner
 
 [原文] MOBILE, Ala.—Jim Zeigler didn’t have much time to celebrate. The morning after his Republican primary victory on Tuesday and a gathering of supporters at Wintzell’s Oyster House, the 78-year-old hit t
 
 📎 [阅读原文](https://insideclimatenews.org/news/17062026/alabama-republican-jim-zeigler-unseats-incumbent-public-service-commissioner/) — *Inside Climate News*
-
-### 5. Alabama Governor Names Four New PSC Members, Including Its First Two Black Appointees
-
-[原文] The Alabama Public Service Commission has never had a Black commissioner in its 145-year history, but that’s about to change. Alabama Gov. Kay Ivey announced the appointments of four new commissioners
-
-📎 [阅读原文](https://insideclimatenews.org/news/17062026/alabama-expands-utilities-regulator-with-four-new-commissioners/) — *Inside Climate News*
 
 ---
 
@@ -401,35 +401,35 @@ The post Slate Leaked $24,950 Starting Price on Its Own Website: Report appeared
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. EdSurge Podcast: Your Kids Know More About AI Than You Do
+### 1. 5 Things We Did Wrong with Edtech
+
+[原文] A veteran educator says: ‘Edtech did not fail us. We failed edtech.’
+
+📎 [阅读原文](https://edsurge.com/news/5-things-we-did-wrong-with-edtech) — *EdSurge*
+
+### 2. EdSurge Podcast: Your Kids Know More About AI Than You Do
 
 [原文] Schools are racing to write AI policies, but what if the policy is not the first step?
 
 📎 [阅读原文](https://edsurge.com/news/your-kids-know-more-about-ai-than-you-do) — *EdSurge*
 
-### 2. I Built an AI Grading Tool. Then a Student Thanked Me for Words I Didn’t Write.
+### 3. I Built an AI Grading Tool. Then a Student Thanked Me for Words I Didn’t Write.
 
 [原文] How to keep teachers in charge when AI does the grading.
 
 📎 [阅读原文](https://edsurge.com/news/i-built-an-ai-grading-tool-then-a-student-thanked-me-for-words-i-didnt-write) — *EdSurge*
 
-### 3. AI Won’t Replace Educators. But It is Changing How Students Learn.
+### 4. AI Won’t Replace Educators. But It is Changing How Students Learn.
 
 [原文] The question for educators: How to know when AI supports real learning.
 
 📎 [阅读原文](https://edsurge.com/news/ai-wont-replace-educators-but-it-is-changing-how-students-learn) — *EdSurge*
 
-### 4. What TikTok Is Teaching Future Teachers (That We Aren’t)
+### 5. What TikTok Is Teaching Future Teachers (That We Aren’t)
 
 [原文] A new educational epistemology for today's teachers.
 
 📎 [阅读原文](https://edsurge.com/news/what-tiktok-is-teaching-future-teachers-that-we-arent) — *EdSurge*
-
-### 5. Recess, Screens, and Absenteeism
-
-暂无摘要。
-
-📎 [阅读原文](https://edsurge.com/news/recess-screens-and-absenteeism) — *EdSurge*
 
 ---
 
@@ -445,15 +445,15 @@ The post Slate Leaked $24,950 Starting Price on Its Own Website: Report appeared
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/marcello-hernandez-rosalia-madison-square-garden-tour-1235580256/) — *Rolling Stone*
 
-### 2. Watch Kim Gordon Showcase ‘Play Me’ on ‘Fallon’
+### 2. Kim Gordon Plays ‘Tonight Show’ in a Jalen Brunson Jersey
 
-[原文] The former Sonic Youth musician released her third solo album in March
+[原文] Go New York, go New York, go! The art-rock legend stopped by Jimmy Fallon's show with an iconic Knicks look
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/kim-gordon-play-me-performance-fallon-1235580251/) — *Rolling Stone*
 
 ### 3. Sabrina Carpenter Granted 5-Year Restraining Order After Alleged Stalker Gives Chilling Testimony
 
-[原文] A judge issued the strict stay-away order after the man claimed he was part of a "classified military government program" and had to contact Carpenter to save the world
+[原文] A judge issued the strict stay-away order after the man claimed he was part of a “classified military government program” and had to contact Carpenter to save the world
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/sabrina-carpenter-restraining-order-granted-testimony-1235579785/) — *Rolling Stone*
 
@@ -477,35 +477,35 @@ The post Slate Leaked $24,950 Starting Price on Its Own Website: Report appeared
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. AI Isn’t Ignoring Airlines. It Just Can’t Read Their Fares.
+### 1. JTB Is Expanding Out of Japan. EXO Travel Is the Latest Deal
+
+[原文] JTB no longer seems content being Japan's travel company. With the pieces now assembled, it intends to be Asia's, and is making a case for the world's.
+
+📎 [阅读原文](https://skift.com/2026/06/18/jtb-is-expanding-out-of-japan-exo-travel-is-the-latest-deal/) — *Skift*
+
+### 2. AI Isn’t Ignoring Airlines. It Just Can’t Read Their Fares.
 
 [原文] Adobe says AI referrals are sending travel sites more engaged visitors. But the next advantage may belong to brands whose pages are easiest for machines to read.
 
 📎 [阅读原文](https://skift.com/2026/06/17/adobe-data-ai-travel-traffic-airlines-hotels-car/) — *Skift*
 
-### 2. JetBlue Pushes Deeper Into Fort Lauderdale, Shrinks in Newark and LaGuardia
+### 3. JetBlue Pushes Deeper Into Fort Lauderdale, Shrinks in Newark and LaGuardia
 
 [原文] JetBlue is shrinking in the New York area as it focuses more on Fort Lauderdale, where executives see greater opportunity following Spirit’s collapse.
 
 📎 [阅读原文](https://skift.com/2026/06/17/jetblue-pushes-deeper-into-fort-lauderdale-shrinks-in-newark-and-laguardia/) — *Skift*
 
-### 3. Cruises Carry July Fourth Travel to a Slim Record
+### 4. Cruises Carry July Fourth Travel to a Slim Record
 
 [原文] Yes, it's another record. But strip out cruises and growth in July Fourth travel nearly evaporates.
 
 📎 [阅读原文](https://skift.com/2026/06/17/july-fourth-travel-carried-by-cruises-aaa/) — *Skift*
 
-### 4. If Only America Could Get Out of Its Own Way….
+### 5. If Only America Could Get Out of Its Own Way….
 
 [原文] The brands lining up to buy a piece of Freddy are going to fail; it shows how little America's pull depends on marketing, and how much it depends on the country getting out of its own way.
 
 📎 [阅读原文](https://skift.com/2026/06/17/if-only-america-could-get-out-of-its-own-way/) — *Skift*
-
-### 5. Air India Goes Budget With ‘Basic’ Fare Option
-
-[原文] Air India's full-service offering has set it apart in a market dominated by low-cost airlines. The new fares blur that line.
-
-📎 [阅读原文](https://skift.com/2026/06/17/air-india-goes-budget-with-basic-fare-option/) — *Skift*
 
 ---
 
@@ -515,7 +515,7 @@ The post Slate Leaked $24,950 Starting Price on Its Own Website: Report appeared
 - **💰 经济财经**: CNBC
 - **💻 科技**: TechCrunch
 - **🔬 科学**: Science Daily
-- **⚽ 体育**: BBC Sport
+- **⚽ 体育**: ESPN
 - **🎬 娱乐**: Variety
 - **🏥 健康**: WHO
 - **🎮 游戏**: IGN
