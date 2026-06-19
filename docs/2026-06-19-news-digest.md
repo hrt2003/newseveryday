@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年06月19日** | 生成时间: 2026-06-19 12:49
+**2026年06月19日** | 生成时间: 2026-06-19 18:43
 
 ---
 
@@ -16,17 +16,17 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. US lifts naval blockade as Iran's supreme leader says Trump made deal 'out of desperation'
+### 1. US-Iran talks postponed as Vance pulls out of Switzerland trip
 
-[原文] Iran's supreme leader says he disagrees with the deal and Donald Trump signed it "out of desperation".
+[原文] The talks were expected to focus on implementing the deal to end the war signed earlier this week.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/c8r2eejdd35o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.com/news/articles/c8r2eme2n5do?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Bowen: US-Iran deal raises inescapable question of what the war was for
+### 2. Lebanon says Israeli strikes kill 18 as Israel says four soldiers killed by Hezbollah
 
-[原文] While the human cost is clear, the Iranian regime has not just survived the war, it has been empowered.
+[原文] It comes a day after the US and Iran signed a deal to end their conflict, including fighting in Lebanon.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.com/news/articles/c23ymz1n9rmo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 3. What Iran and US get from deal and why both could struggle to keep it
 
@@ -34,17 +34,17 @@
 
 📎 [阅读原文](https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Moscow residents complain of black rain after largest Ukrainian attack hits oil refinery
+### 4. Do it at home too, women tell Japanese fans who cleaned World Cup stadium
 
-[原文] A refinery and a shopping centre burned after almost 200 Ukrainian drones struck an area to the south-east of the Russian capital.
+[原文] Some see a double standard: Japanese men who clean in public while their wives do all the housework.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.com/news/articles/crel9xlp8r1o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Thirty-five killed as gunmen attack Niger's biggest airport
+### 5. Zimbabwe MPs pass bill to extend president's time in power
 
-[原文] Niger has been fighting a militant Islamist insurgency for a decade and in January suspected jihadists attacked the same airport.
+[原文] The proposal would extend Emmerson Mnangagwa's term by two years and scrap direct presidential elections.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.com/news/articles/c20y15m0337o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,11 +54,11 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump claims Iran deal is 'unconditional surrender,' says his power has 'no limits': Axios
+### 1. U.S.-Iran accord hits early snag after Swiss talks fail to proceed as planned
 
-[原文] Trump said in an interview with Axios on Thursday evening stateside that he negotiated the deal to prevent the conflict from triggering a global depression.
+[原文] Analysts reckon a lasting resolution to the Middle East conflict will take some time to materialize.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/19/trump-claims-iran-deal-is-unconditional-surrender-axios-.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/19/us-iran-talks-switzerland-canceled-interim-deal-markets.html) — *CNBC*
 
 ### 2. The average SpaceX buyer post-IPO is almost under water after two-day slide
 
@@ -66,23 +66,23 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/06/18/the-average-spacex-buyer-post-ipo-is-almost-under-water-after-two-day-slide.html) — *CNBC*
 
-### 3. Why Japan's $70 billion-plus intervention and a rate hike didn't prop up the yen more
+### 3. Russia threatens escalation after Ukraine hits Moscow with largest-ever drone attack
 
-[原文] Japan was willing to step in to defend the yen around the 160 level before, and it's at that point again.
+[原文] Russia has pledged to carry out frequent and "massive group strikes" against Ukraine shortly after Kyiv launched a barrage of drones on Moscow.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/19/japan-yen-intervention-boj-rate-hike.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/19/russia-ukraine-moscow-drone-attack-trump.html) — *CNBC*
 
-### 4. U.S.-Iran deal in photos: ships in the Strait of Hormuz, daily life in Tehran
+### 4. Hormuz relief may not ease the economic toll that's already 'baked in,' analysts warn
 
-[原文] The first signs of a post-war recovery are emerging across the Middle East after the United States and Iran signed a memorandum aimed at ending the conflict.
+[原文] Early signs of reopening of the Strait of Hormuz have lifted the most acute threat to global energy supplies but economic damages from the war will take months to unwind.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/19/us-iran-deal-in-photos-shipping-resumes-as-fragile-peace-takes-hold.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/19/hormuz-relief-may-not-ease-the-economic-toll-thats-already-baked-in-analysts-warn.html) — *CNBC*
 
-### 5. Oil drifts lower as Strait of Hormuz reopens, focus shifts to demand outlook
+### 5. India's largest telecom and digital service Jio Platforms files for IPO
 
-[原文] With immediate supply fears fading and tanker traffic returning to the Strait of Hormuz, traders are turning their attention back to oil demand and OPEC's outlook for the market.
+[原文] India's largest wireless operator and digital service provider, Jio Platforms files for IPO
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/19/oil-prices-wti-brent-crude-us-iran-deal-strait-hormuz-shipping-recovery.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/19/india-jio-platforms-ipo-mukesh-ambani.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Telegram ban in India sparks a rush to VPNs, rival apps
+### 1. The US says ASML’s top chip tool may be in China. ASML says it isn’t
+
+[原文] There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.
+
+📎 [阅读原文](https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/) — *TechCrunch*
+
+### 2. Telegram ban in India sparks a rush to VPNs, rival apps
 
 [原文] Telegram argues India should block specific content, not an entire platform used by millions.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/) — *TechCrunch*
 
-### 2. Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M
+### 3. Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M
 
 [原文] DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/) — *TechCrunch*
 
-### 3. AI inference startup Baseten reportedly raising $1.5B months after its last mega-round
+### 4. AI inference startup Baseten reportedly raising $1.5B months after its last mega-round
 
 [原文] Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush" marches on.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/) — *TechCrunch*
 
-### 4. Snap spins off AI video team into new company, Dotmo, due to costs
+### 5. Snap spins off AI video team into new company, Dotmo, due to costs
 
 [原文] The Snapchat maker is spinning off yet another internal unit. Dotmo will be composed of current Snap staff who are leaving the social media company to focus on AI video development.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/) — *TechCrunch*
-
-### 5. OpenAI is bringing on some big guns in the lead-up to its IPO
-
-[原文] OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.
-
-📎 [阅读原文](https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. A day of tears, scuffles & history as injury mars Canada's moment
+### 1. Mexico rejoice after second World Cup win in 2026....
 
-[原文] Canada's first-ever win at a World Cup finals should have been cause for pure joy - but was overshadowed by a horrific injury to Ismael Kone, and the angry and emotional scenes that followed.
+[原文] Mexico still don't look like a finished product, but fine-tuning can wait for another day as the co-hosts punched their ticket to the round of 32.
 
-📎 [阅读原文](https://www.bbc.com/sport/football/articles/cly7r1zjmmlo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49113986/mexico-south-korea-world-cup-reaction-analysis) — *ESPN*
 
-### 2. McIlroy makes solid US Open start before conditions alter dynamic
+### 2. Korea GK gaffe helps Mexico clinch 1st in Group A
 
-[原文] Shinnecock Hills served up a tale of changing conditions that altered the dynamic on the opening day of the fog-delayed US Open.
+[原文] Mexico took advantage of a defensive blunder by South Korea to win 1-0 on Thursday and become the first team to advance to the knockout stage of the FIFA World Cup.
 
-📎 [阅读原文](https://www.bbc.com/sport/golf/articles/cly7rr96523o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49113839/mexico-beats-south-korea-clinch-first-place-group-a) — *ESPN*
 
-### 3. Hat-trick hero & Swiss wonderkid - World Cup duo set for Premier League?
+### 3. Clark builds 4-shot lead as U.S. Open suspended
 
-[原文] Will Canada hat-trick hero Jonathan David and Swiss goal-scoring midfielder Johan Manzambi be playing in the Premier League next season?
+[原文] Wyndham Clark, who will finish the final two holes of his first round Friday, has a four-shot cushion in the U.S. Open as play was suspended because of darkness.
 
-📎 [阅读原文](https://www.bbc.com/sport/articles/cp8rde9q76do?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/golf/story/_/id/49113190/wyndham-clark-builds-4-shot-lead-us-open-play-suspended) — *ESPN*
 
-### 4. England in trouble after dreadful day against NZ
+### 4. Canada, Marsch 'shaken' by gruesome Koné injury
 
-[原文] England are in a dire position against New Zealand after spiralling from a chaotic morning on day two of the second Test at The Oval.
+[原文] Canada midfielder Ismaël Koné was stretchered off the field in the second half of the host nation's match against Qatar on Thursday at BC Place in Vancouver.
 
-📎 [阅读原文](https://www.bbc.com/sport/cricket/articles/cgrk52lk1j7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49112391/canada-ismael-kone-stretchered-hard-tackle) — *ESPN*
 
-### 5. Tuchel throws first pitch as England enjoy downtime
+### 5. Pulisic still training solo a day before U.S. game...
 
-[原文] Thomas Tuchel takes some time out at a baseball game as England enjoy some downtime at the World Cup - while Ivan Toney scores a hat-trick in a friendly against MLS side Sporting KC.
+[原文] U.S. manager Maurico Pochettino said star attacker Christian Pulisic is "much better'" in terms of the injury to his left calf but will be assessed by the medical staff Thursday night to determine his
 
-📎 [阅读原文](https://www.bbc.com/sport/football/articles/cgrk5qrkw5po?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49109849/usmnt-christian-pulisic-trains-apart-team-again-pochettino-due-address-status) — *ESPN*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Jimmy Kimmel Mocks Larry David for Having Slave-Owning Relatives
+### 1. Anthony Chen and Yeo Yann Yann on 14 Years of ‘Growing Up’ Trilogy and New Korean Project: ‘A Comic Take on a Tragic Story’
 
-[原文] On Thursday night, Larry David, maybe the funniest living person, visited “Jimmy Kimmel Live!” Ostensibly to promote “Life, Larry, and the Pursuit of Unhappiness,” his sketch-comedy series honoring Am
+[原文] Singaporean director Anthony Chen, whose producing credits include the Singapore-Korea co-production &#8220;Ajoomma,&#8221; is returning to Korean-connected territory with a new project. Speaking at a
 
-📎 [阅读原文](https://variety.com/2026/tv/news/larry-david-jimmy-kimmel-slaves-finding-your-roots-1236785732/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/anthony-chen-yeo-yann-yann-growing-up-trilogy-korean-project-1236785833/) — *Variety*
 
-### 2. Matt Damon Crashes ‘Jimmy Kimmel Live!’ in a Trojan Horse to Troll Him: ‘I Did It!’
+### 2. Luca Guadagnino’s Nearly Finished Sam Altman Movie ‘Artificial’ Dropped by Amazon After OpenAI Partnership
 
-[原文] Toward the tail-end of his monologue Thursday night on “Jimmy Kimmel Live!,” the host received a very special delivery from UPS: a giant horse, as well as a baby horse. “I didn’t order a horse!” excla
+[原文] Luca Guadagnino&#8217;s nearly finished Sam Altman movie, &#8220;Artificial,&#8221; has been dropped by Amazon MGM Studios, Variety has confirmed. The film, starring Andrew Garfield as the controversi
 
-📎 [阅读原文](https://variety.com/2026/tv/news/matt-damon-crashes-jimmy-kimmel-live-trojan-horse-odyssey-1236785727/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/luca-guadagnino-sam-altman-movie-artificial-dropped-amazon-1236785830/) — *Variety*
 
-### 3. Curry Barker’s Third Film, an Original Horror Concept, Heads to Universal and Blumhouse Atomic Monster
+### 3. ‘Dear You’ Director Credits Overseas Chinese Letter-Writing Tradition for Sleeper Hit’s Emotional Power
 
-[原文] After the blockbuster success of his debut feature &#8220;Obsession,&#8221; Curry Barker&#8217;s next film, an original horror concept, is set up with Blumhouse Atomic Monster and Universal Film Group
+[原文] Director Lan Hongchun took the stage at the 28th Shanghai International Film Festival to discuss how &#8220;Dear You,&#8221; now one of China&#8217;s most-talked-about films of the year, drew its emot
 
-📎 [阅读原文](https://variety.com/2026/film/news/curry-barker-third-film-universal-blumhouse-atomic-monster-1236785717/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/dear-you-director-lan-hongchun-overseas-chinese-letters-shanghai-1236785826/) — *Variety*
 
-### 4. Peacock Gives Series Order to ‘Dungeon Crawler Carl’ TV Series From Seth MacFarlane’s Fuzzy Door, Chris Yost
+### 4. Pearl River Film Launches Studio With Author Guo Ni, Sets Eight-Franchise Slate
 
-[原文] Peacock has give a series order to the TV adaptation of &#8220;Dungeon Crawler Carl,&#8221; a New York Times best selling book from Matt Dinniman. Seth MacFarlane&#8217;s Fuzzy Door is behind the seri
+[原文] Pearl River Film and Media has joined forces with Black Body Interactive and Meng Guo Ji Media to establish a dedicated studio with Chinese author Guo Ni, committing to adapt eight of her youth and sc
 
-📎 [阅读原文](https://variety.com/2026/tv/news/dungeon-crawler-carl-series-order-peacock-1236785705/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/pearl-river-film-guo-ni-studio-eight-franchise-slate-1236785808/) — *Variety*
 
-### 5. Viva Kids Acquires Three New Animated Films as Upcoming Releases – Film News in Brief
+### 5. ‘Stand Up’ Review: A Dutch Disability Drama With Complexity and Integrity
 
-[原文] Independent distributor Viva Kids has acquired the animated films &#8220;Treasure Trekkers,&#8221; &#8220;Space Cadet,&#8221; and &#8220;Pirate Mo and the Legend of the Red Ruby&#8221; to add to its u
+[原文] Most able-bodied people don&#8217;t know what to say to 23-year-old Vera (Lucia Zemene) in the months following a traffic collision that left her without a leg, but one empty platitude really stands o
 
-📎 [阅读原文](https://variety.com/2026/film/news/film-news-in-brief-june-15-2026-1236781463/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/reviews/stand-up-review-1236785761/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Hunger Games Deluxe Edition Books Are All on Sale Before Amazon Prime Day
+### 1. Fallout Season 3 Adds Star Wars and The Good Place Star Manny Jacinto
+
+[原文] The next season of Prime Video's hit Fallout TV series will add Star Wars: The Acolyte's Manny Jacinto to its cast.
+
+📎 [阅读原文](https://www.ign.com/articles/fallout-season-3-adds-star-wars-and-the-good-place-star-manny-jacinto) — *IGN*
+
+### 2. Cape Fear Episode 4 Review – 'Pierced'
+
+[原文] Cape Fear Episode 4 review: "Pierced" delivers a moody slow-burn hour punctuated by sudden violence and a jaw-dropping family revelation for Max Cady.
+
+📎 [阅读原文](https://www.ign.com/articles/cape-fear-episode-4-review-pierced) — *IGN*
+
+### 3. Sugar Season 2 Review
+
+[原文] Sugar Season 2 review: Close encounters of the kind eyes with Colin Farrell and Apple TV.
+
+📎 [阅读原文](https://www.ign.com/articles/sugar-season-2-review-apple-tv) — *IGN*
+
+### 4. The Hunger Games Deluxe Edition Books Are All on Sale Before Amazon Prime Day
 
 暂无摘要。
 
 📎 [阅读原文](https://www.ign.com/articles/the-hunger-games-deluxe-edition-books-sale-amazon-prime-day-2026) — *IGN*
 
-### 2. New Queer Movies I'm Watching In Theaters This Weekend
+### 5. New Queer Movies I'm Watching In Theaters This Weekend
 
 [原文] It's a new Barbenheimer-type matchup for LGBTQIA+ folks this weekend!
 
 📎 [阅读原文](https://www.ign.com/articles/new-queer-movies-to-watch-in-theaters-this-weekend) — *IGN*
-
-### 3. The Rugged, Waterproof DJI Osmo Action 4 4K 120fps Action Camera Drops to $169
-
-[原文] Comparable to the GoPro Hero 13 Black at a fraction of the cost
-
-📎 [阅读原文](https://www.ign.com/articles/best-action-camera-deal-in-june-2026) — *IGN*
-
-### 4. Score Up to 29% Off Dreame Robot Vacuums for Amazon Prime Day
-
-[原文] Clean smarter, not harder, this summer
-
-📎 [阅读原文](https://www.ign.com/articles/dreame-robot-vacuums-prime-day-2026) — *IGN*
-
-### 5. PlayStation Reportedly Pulled Out of PC Ports Due to 'Inconsistent' Releases and Lack of Revenue
-
-[原文] PlayStation reportedly dropped its plans for future PC games due to the inconsistency of previous releases and the lack of revenue they were pulling in.
-
-📎 [阅读原文](https://www.ign.com/articles/playstation-reportedly-pulled-out-of-pc-ports-due-to-inconsistent-releases-and-lack-of-revenue) — *IGN*
 
 ---
 
@@ -320,40 +320,39 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. A Lamborghini for $23? Turo’s Renting Italian Cars Crazy-Cheap as a World Cup Promo
+### 1. No, Ferrari Won’t Force You To Buy a Luce EV To Gain Access To Higher Models
+
+[原文] A Bloomberg report says buyers are being urged to purchase a Luce to gain favor with Maranello. Ferrari's chief marketing officer tells us that he's mad about this rumor and that it's completely false
+
+📎 [阅读原文](https://www.thedrive.com/news/no-ferrari-wont-force-you-to-buy-a-luce-ev-to-gain-access-to-higher-models) — *The Drive*
+
+### 2. A Lamborghini for $23? Turo’s Renting Italian Cars Crazy-Cheap as a World Cup Promo
 
 [原文] Italy is not playing in the 2026 World Cup. But the "Turo Takes Italy to the Game" deal makes select Italian cars just $23 a day to rent this weekend.
 The post A Lamborghini for $23? Turo’s Renting It
 
 📎 [阅读原文](https://www.thedrive.com/news/a-lamborghini-for-23-turos-renting-italian-cars-crazy-cheap-as-a-world-cup-promo) — *The Drive*
 
-### 2. Broken Down on the Side of a Mountain? Rivian’s CEO Says They’ll Come to You
+### 3. Broken Down on the Side of a Mountain? Rivian’s CEO Says They’ll Come to You
 
 [原文] Rivian CEO RJ Scaringe told The Drive the automaker's mobile service fleet numbers around 800 vehicles — with specialized trucks that can reach you anywhere.
 The post Broken Down on the Side of a Moun
 
 📎 [阅读原文](https://www.thedrive.com/news/broken-down-on-the-side-of-a-mountain-rivians-ceo-says-theyll-come-to-you) — *The Drive*
 
-### 3. A GMC Dealer Sold 99% of Its Cars. GM Still Calls It a Failure and Won’t Send More
+### 4. A GMC Dealer Sold 99% of Its Cars. GM Still Calls It a Failure and Won’t Send More
 
 [原文] Sun GMC sold 99% of its allocated inventory in 2024, yet GM sent it fewer than half the vehicles it needed to hit its own sales targets.
 The post A GMC Dealer Sold 99% of Its Cars. GM Still Calls It a
 
 📎 [阅读原文](https://www.thedrive.com/news/a-gmc-dealer-sold-99-of-its-cars-gm-still-calls-it-a-failure-and-wont-send-more) — *The Drive*
 
-### 4. Mazda, Once the Loudest Critic of Touchscreens, Now Says They’re Safer Than Buttons: TDS
+### 5. Mazda, Once the Loudest Critic of Touchscreens, Now Says They’re Safer Than Buttons: TDS
 
 [原文] Mazda program manager Koichiro Yamaguchi said a bank of 15 similar-looking switches forces drivers to look down longer than a touchscreen would.
 The post Mazda, Once the Loudest Critic of Touchscreens
 
 📎 [阅读原文](https://www.thedrive.com/news/mazda-once-the-loudest-critic-of-touchscreens-now-says-theyre-safer-than-buttons-tds) — *The Drive*
-
-### 5. Maserati Sees Future for Sedans and V8s, but Not Plug-In Hybrids
-
-[原文] The Quattroporte still looms large in Maserati's mind, and there may be another four-door like it in the future. Just don't count on it being a PHEV.
-The post Maserati Sees Future for Sedans and V8s, 
-
-📎 [阅读原文](https://www.thedrive.com/news/maserati-sees-future-for-sedans-and-v8s-but-not-plug-in-hybrids) — *The Drive*
 
 ---
 
@@ -363,35 +362,35 @@ The post Maserati Sees Future for Sedans and V8s,
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Alabama Limestone Quarry Settles Lawsuit Over Dust, Noise
+### 1. James Bruggers, Who Brought Passion and Kindness to Environmental Reporting, Dies at 68
+
+[原文] James Bruggers, whose decades of dogged reporting shined a light on polluting corporations, inadequate regulations and the people who fought against them for environmental justice, died Tuesday at a h
+
+📎 [阅读原文](https://insideclimatenews.org/news/19062026/environmental-journalism-watchdog-james-bruggers-dies-at-68/) — *Inside Climate News*
+
+### 2. Green Economy Hits $10 Trillion in Market Value
+
+[原文] The group of companies that derive significant revenue from environmental solutions, known as the green economy, has topped $10 trillion in market value, a new report found. That milestone was tied to
+
+📎 [阅读原文](https://insideclimatenews.org/news/19062026/green-economy-hits-10-trillion-in-market-value/) — *Inside Climate News*
+
+### 3. Alabama Limestone Quarry Settles Lawsuit Over Dust, Noise
 
 [原文] Residents of the small north Alabama community of Belle Mina are breathing easier after reaching a settlement with a limestone quarry they say was disrupting their homes and places of worship.&#160; T
 
 📎 [阅读原文](https://insideclimatenews.org/news/18062026/alabama-limestone-quarry-settlement/) — *Inside Climate News*
 
-### 2. Federal Regulators Tell Electric Grid Operators to Fix Their Rules on Data Centers
+### 4. Federal Regulators Tell Electric Grid Operators to Fix Their Rules on Data Centers
 
 [原文] The nation’s electric grid is stressed out.&#160; Unprecedented energy demands for large customers, such as data centers and cryptomines, are straining power supplies, raising electric rates in some r
 
 📎 [阅读原文](https://insideclimatenews.org/news/18062026/federal-energy-regulatory-commission-data-center-orders/) — *Inside Climate News*
 
-### 3. United Nations Climate Talks in Bonn Marked by ‘Sidestepping and Stalling’
+### 5. United Nations Climate Talks in Bonn Marked by ‘Sidestepping and Stalling’
 
 [原文] The United States did not send a federal government delegation to the latest round of high-level global climate negotiations in Bonn, Germany, but the current administration’s foreign and economic pol
 
 📎 [阅读原文](https://insideclimatenews.org/news/18062026/latest-un-climate-talks-marked-by-sidestepping-stalling/) — *Inside Climate News*
-
-### 4. How Shining a Light on Ships Could Help Solve Illegal Fishing
-
-[原文] Mamadou Sarr remembers when an artisanal fisherman in Dakar only had to helm his wooden pirogue a single kilometer offshore to find a rich bounty of sardines and cuttlefish. For generations, Senegal’s
-
-📎 [阅读原文](https://insideclimatenews.org/news/18062026/countries-adopt-declaration-to-combat-illegal-fishing/) — *Inside Climate News*
-
-### 5. Why General Motors Is Betting on Sodium-Ion Batteries
-
-[原文] Peak Energy announced last week that it has entered a new partnership with General Motors to manufacture sodium-ion batteries for energy storage systems. The deal marks a pivotal moment for Peak, a st
-
-📎 [阅读原文](https://insideclimatenews.org/news/18062026/inside-clean-energy-general-motors-sodium-ion-batteries/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +438,35 @@ The post Maserati Sees Future for Sedans and V8s,
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Jelly Roll Calls Out Cheating Rumors Amid Bunnie Xo Divorce: ‘My Best Friend Forever’
+### 1. FKA Twigs Taps Lil Yachty for Pulsating Single ‘On Your Mind’
+
+[原文] The song follows the singer's recent albums Eusexua and Eusexua Afterglow
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/fka-twigs-lil-yachty-on-your-mind-single-1235580911/) — *Rolling Stone*
+
+### 2. Jelly Roll Calls Out Cheating Rumors Amid Bunnie Xo Divorce: ‘My Best Friend Forever’
 
 [原文] The country star slammed rumors swirling online following news of his divorce from Bunnie
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/jelly-roll-bunnie-xo-divorce-cheating-rumors-1235580887/) — *Rolling Stone*
 
-### 2. Bunnie Xo Reveals She and Jelly Roll Are ‘Still Having a Baby’ Amid Divorce
+### 3. Bunnie Xo Reveals She and Jelly Roll Are ‘Still Having a Baby’ Amid Divorce
 
 [原文] The popular podcaster broke her silence following news of her divorce from the country star after 10 years of marriage
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/jelly-roll-bunnie-xo-divorce-still-having-baby-1235580877/) — *Rolling Stone*
 
-### 3. Tay Keith, Grammy-Nominated Producer Behind ‘Sicko Mode,’ Dead at 29
+### 4. Tay Keith, Grammy-Nominated Producer Behind ‘Sicko Mode,’ Dead at 29
 
 [原文] The prolific producer had worked with the likes of Future, Travis Scott, Beyoncé, and more
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/tay-keith-producer-dead-obituary-1235580826/) — *Rolling Stone*
 
-### 4. Chris Brown Testifies at Dog Mauling Trial: ‘It Was A Lot of Blood’
+### 5. Chris Brown Testifies at Dog Mauling Trial: ‘It Was A Lot of Blood’
 
 [原文] The singer defended his response when a housekeeper was attacked by a security dog on his property, saying the bloody scene left him "in shock”
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/chris-brown-dog-mauling-trial-testimony-1235580428/) — *Rolling Stone*
-
-### 5. See Bruce Springsteen Sing ‘Land of Hope and Dreams’ at Opening of the Obama Presidential Center
-
-[原文] “President Obama and Michelle, you have exemplified that ideal with lives that have served us all with heart and commitment and love and compassion,” Springsteen said
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/bruce-springsteen-performance-obama-presidential-center-1235580393/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +476,35 @@ The post Maserati Sees Future for Sedans and V8s,
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Airbnb Moves Into Fintech With a Cancel-for-Any-Reason Feature
+### 1. Air New Zealand’s Tech-Savvy CEO on AI and the Limits of the Machine
+
+[原文] An AI-powered airline is a fine ambition – but it won't touch the fuel price, the grounded engines, or the weak Kiwi dollar doing the real damage. Ravishankar's edge is that he seems to know it.
+
+📎 [阅读原文](https://skift.com/2026/06/19/air-new-zealands-tech-savvy-ceo-on-ai-and-the-limits-of-the-machine/) — *Skift*
+
+### 2. Grab Says Its Travel Strategy Isn’t About Hotels or Flights, It’s About Knowing What You’ll Need Next
+
+[原文] Grab says it isn't competing with the region’s travel platforms. But what it is building may be more disruptive than direct competition.
+
+📎 [阅读原文](https://skift.com/2026/06/19/grab-says-its-travel-strategy-isnt-about-hotels-or-flights-its-about-knowing-what-youll-need-next/) — *Skift*
+
+### 3. Airbnb Moves Into Fintech With a Cancel-for-Any-Reason Feature
 
 [原文] Airbnb is selling peace of mind to guests, giving assurances to hosts, and potentially debuting a new fintech revenue stream that’s been so successful for Hopper. The issue is whether this will furthe
 
 📎 [阅读原文](https://skift.com/2026/06/18/airbnb-moves-into-fintech-with-a-hopper-like-cancel-for-any-reason-feature/) — *Skift*
 
-### 2. The Best Luxury Experiences Leave Some Slack in the System
+### 4. The Best Luxury Experiences Leave Some Slack in the System
 
 [原文] The marketing from luxury's top brands has blurred into one seamless, forgettable product. The operators pulling away are the ones who figured out that friction is the point.
 
 📎 [阅读原文](https://skift.com/2026/06/18/the-best-luxury-experiences-leave-some-slack-in-the-system/) — *Skift*
 
-### 3. UK and Australia Lift Gulf Travel Warnings, But European Airlines Await Clearance
+### 5. UK and Australia Lift Gulf Travel Warnings, But European Airlines Await Clearance
 
 [原文] Gulf travel advisories are moving. War-risk insurance authorization isn’t — and that’s the constraint that controls when European airlines come back.
 
 📎 [阅读原文](https://skift.com/2026/06/18/uk-and-australia-lift-gulf-travel-warnings-but-european-airlines-await-clearance/) — *Skift*
-
-### 4. Whitbread CEO’s Answer to Activist Investor: Plan Is Working, We Don’t Need to Sell
-
-[原文] There's progress to point to, but even the CEO says it will get worse before it gets better.
-
-📎 [阅读原文](https://skift.com/2026/06/18/whitbread-ceos-answer-to-activist-investor-plan-is-working-we-dont-need-to-sell/) — *Skift*
-
-### 5. JTB Is Expanding Out of Japan. EXO Travel Is the Latest Deal
-
-[原文] JTB no longer seems content being Japan's travel company. With the pieces now assembled, it intends to be Asia's, and is making a case for the world's.
-
-📎 [阅读原文](https://skift.com/2026/06/18/jtb-is-expanding-out-of-japan-exo-travel-is-the-latest-deal/) — *Skift*
 
 ---
 
@@ -515,7 +514,7 @@ The post Maserati Sees Future for Sedans and V8s,
 - **💰 经济财经**: CNBC
 - **💻 科技**: TechCrunch
 - **🔬 科学**: Science Daily
-- **⚽ 体育**: BBC Sport
+- **⚽ 体育**: ESPN
 - **🎬 娱乐**: Variety
 - **🏥 健康**: WHO
 - **🎮 游戏**: IGN
