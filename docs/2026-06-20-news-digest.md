@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年06月20日** | 生成时间: 2026-06-20 17:23
+**2026年06月20日** | 生成时间: 2026-06-20 22:12
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported
+### 1. Israel and Hezbollah continue strikes despite ceasefire agreement
 
-[原文] The agreement followed concerns that continued clashes would undermine the deal to end the war between the US and Iran.
+[原文] Deaths are reported in southern Lebanon, with the IDF saying it hit Hezbollah targets after the group fired over 50 projectiles at Israeli forces.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7
+### 2. Zelensky stripped of highest Polish honour over WW2 name of army unit
+
+[原文] Ukraine has denounced the move, calling it a "strategic mistake" and "disrespectful".
+
+📎 [阅读原文](https://www.bbc.com/news/articles/cr7xzg3dmj8o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. Tourist dies in Dominican Republic luxury resort fire
+
+[原文] Nearly 1,700 people were evacuated from the huge blaze at Viva Wyndham Dominicus Beach in Bayahibe, a popular resort town on the Caribbean coast.
+
+📎 [阅读原文](https://www.bbc.com/news/articles/c932k8010j1o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7
 
 [原文] The highly public exchange is an indication that their earlier close ties have frayed  since Trump's decision to go to war with Iran.
 
 📎 [阅读原文](https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. US to stop funding HIV programmes in South Africa
+### 5. US to stop funding HIV programmes in South Africa
 
 [原文] More than eight million South Africans are living with HIV – the highest number of any country in the world.
 
 📎 [阅读原文](https://www.bbc.com/news/articles/cdr457lxr71o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Watch: World Cup fans react to US defeating Australia to reach knockout round
-
-[原文] US supporters were delighted after their team won 2-0 against the Socceroos while Australian fans were left disappointed but still hopeful.
-
-📎 [阅读原文](https://www.bbc.com/news/videos/cdxdly41p23o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Zelensky stripped of highest Polish honour over WW2 name of army unit
-
-[原文] Ukraine has denounced the move, calling it a "strategic mistake" and "disrespectful".
-
-📎 [阅读原文](https://www.bbc.com/news/articles/cr7xzg3dmj8o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Oil tanker traffic in Strait of Hormuz jumps after U.S. and Iran implement deal to open sea lane
+### 1. AI buildout gives tech investors new reasons to watch bond market
+
+[原文] Tech giants are depleting cash reserves and raising debt in their ambitious data center buildouts, a dynamic that's forcing investors to watch interest rates.
+
+📎 [阅读原文](https://www.cnbc.com/2026/06/20/ai-buildout-giving-tech-investors-new-reasons-to-watch-bond-market.html) — *CNBC*
+
+### 2. Oil tanker traffic in Strait of Hormuz jumps after U.S. and Iran implement deal to open sea lane
 
 [原文] The U.S.-Iran deal has raised questions about how the Strait of Hormuz will be governed after the toll-free period ends.
 
 📎 [阅读原文](https://www.cnbc.com/2026/06/19/iran-oil-tanker-traffic-strait-hormuz-gulf-vlcc.html) — *CNBC*
 
-### 2. Musk's SpaceX stake is worth over $1 trillion. Here are the other billionaire shareholders
+### 3. Musk's SpaceX stake is worth over $1 trillion. Here are the other billionaire shareholders
 
 [原文] SpaceX shares were up 37% after its historic debut last week, which offered shares at a set price of $135.
 
 📎 [阅读原文](https://www.cnbc.com/2026/06/19/musk-spacex-billionaire-shareholders.html) — *CNBC*
 
-### 3. Memory crisis hits such extremes that 'even Apple can't be safe'
+### 4. Memory crisis hits such extremes that 'even Apple can't be safe'
 
 [原文] Apple appears poised to take the rare step of increasing prices to deal with what CEO Tim Cook called an "unsustainable" memory shortage.
 
 📎 [阅读原文](https://www.cnbc.com/2026/06/19/memory-crisis-hits-such-extremes-that-even-apple-cant-be-safe-.html) — *CNBC*
 
-### 4. Massive bonuses for South Korea's chip workers puts central bank on inflation alert
+### 5. SNAP restrictions could change what shoppers buy — and food giants are watching
 
-[原文] Workers from tech industries receive bonus worth millions of won, prompting the Bank of Korea to warn of the upward pressure to inflation.
+[原文] SNAP food restrictions are spreading to more states, pressuring major food and beverage as consumers shift spending away from soda, candy and processed foods.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/20/south-korea-tech-samsung-sk-hynix-bonus-bank-of-korea.html) — *CNBC*
-
-### 5. DOJ rebuffs judge's request to put in writing it won't move forward with 'anti-weaponization' fund
-
-[原文] The DOJ in May announced it was creating the fund as part of a settlement of President Donald Trump's $10 billion lawsuit against the Internal Revenue Service.
-
-📎 [阅读原文](https://www.cnbc.com/2026/06/19/doj-anti-weaponization-fund-trump.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/20/maha-snap-restrictions-junk-food-spending.html) — *CNBC*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. It's (finally) OK to dream big about the USMNT at ...
+### 1. Why Kane is different at this World Cup
 
-[原文] There's something different about this United States team at the 2026 World Cup: The players feel it, and we can all see it. So why not believe?
+[原文] Former England captain Alan Shearer explains what has changed for Harry Kane since his struggles at the 2022 World Cup in Qatar.
 
-📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49121797/ok-dream-big-usmnt-world-cup) — *ESPN*
+📎 [阅读原文](https://www.bbc.com/sport/football/articles/crr87vwrwwlo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Pulisic sits but U.S. finds a way to reach KO roun...
+### 2. Almiron first player sent off for covering mouth
 
-[原文] null
+[原文] Paraguay's Miguel Almiron is the first player to be shown a red card for covering his mouth while speaking to an opponent - doing so during the World Cup match against Turkey.
 
-📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49119070/christian-pulisic-sits-us-finds-way-vs-australia-reach-world-cup-knockout-rounds) — *ESPN*
+📎 [阅读原文](https://www.bbc.com/sport/football/articles/cvg58m7n1plo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. U.S. clinches WC Group D after Paraguay victory
+### 3. Flawed but relentless Scotland show themselves as men of substance
 
-[原文] Paraguay held on for a 1-0 win over Turkey after playing a man down for more than half the match, a result that secured the United States the top spot in Group D
+[原文] Morocco threatened to blow Scotland away early on, but Steve Clarke's squad showed their resilience despite defeat, writes Tom English.
 
-📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49123488/us-clinches-group-d-10-man-paraguay-edges-turkey) — *ESPN*
+📎 [阅读原文](https://www.bbc.com/sport/football/articles/c33y5v4mer3o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. U.S. winning the WC not 'ridiculous,' Richards say...
+### 4. Rousey and Paul taunt UFC over White House viewing figures
 
-[原文] Zlatan Ibrahimovic was succinct in saying he thinks that the USMNT has a chance to win the World Cup. Chris Richards doesn't think it's a wild idea at all, either.
+[原文] Ronda Rousey and Jake Paul taunt the UFC and Dana White for failing to break Most Valuable Promotions' MMA record audience figure with the White House event.
 
-📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49121031/usa-winning-2026-world-cup-chris-richards-zlatan-ibrahimovic) — *ESPN*
+📎 [阅读原文](https://www.bbc.com/sport/mixed-martial-arts/articles/cjrgl80yerjo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Source: Big 12 monitoring Sorsby fallout, options
+### 5. Oh, brother! The sibling rivals lining up for different World Cup teams
 
-[原文] The Big 12 presidents and chancellors haven't rushed to pull the league's recently filed federal lawsuit because there are still questions about Texas Tech quarterback Brendan Sorsby's NFL future and 
+[原文] Sibling rivals are lining up for different teams at the World Cup, with seven pairs of brothers in total at this tournament.
 
-📎 [阅读原文](https://www.espn.com/college-football/story/_/id/49121275/big-12-no-rush-pull-lawsuit-vs-texas-tech-brendan-sorsby-eligibility) — *ESPN*
+📎 [阅读原文](https://www.bbc.com/sport/football/articles/ce3ev0v7ge4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Tony Leung Reflects on ‘Silent Friend,’ Wong Kar-wai and Why His Films Must Be Seen in Cinemas at Shanghai Masterclass
+### 1. ‘Atlantic Rhapsody’ Takes Best Film at Shanghai’s Golden Goblet Awards
 
-[原文] Tony Leung Chiu-wai told a full house at the Shanghai International Film Festival that his restrained performance style demands the full cinematic experience to be felt, speaking at a masterclass foll
+[原文] China&#8217;s &#8220;Atlantic Rhapsody,&#8221; directed by Zhong Kaifeng, claimed the best picture prize at the 28th Golden Goblet Awards, capping the Shanghai International Film Festival&#8217;s awar
 
-📎 [阅读原文](https://variety.com/2026/film/festivals/tony-leung-silent-friend-shanghai-film-festival-masterclass-1236786301/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/shanghai-film-festival-golden-goblet-awards-winners-2026-1236786365/) — *Variety*
 
-### 2. ‘Finnegan’s Foursome’ Review: Edward Burns’ Spiky-Quaint Sports Dramedy Is a Tale of Family Therapy Through Golf
+### 2. Hungarian Composer Mihály Víg Reflects on Four Decades of Scoring Béla Tarr’s Films at Shanghai Masterclass
 
-[原文] "Finnegan’s Foursome" is his 16th feature, and he’s still doing that shaggy-likable, spiky-quaint, semi-low-budget Edward Burns dramedy thing — the script that’s talky and kind of funny, though in a w
+[原文] Mihály Víg, the Hungarian composer, actor and screenwriter who has served as Béla Tarr&#8217;s closest creative partner for more than four decades, held court at the 28th Shanghai International Film F
 
-📎 [阅读原文](https://variety.com/2026/film/reviews/finnegans-foursome-review-edward-burns-1236786224/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/mihaly-vig-bela-tarr-shanghai-masterclass-1236786330/) — *Variety*
 
-### 3. Knicks Stars Jalen Brunson and Josh Hart Confront ESPN’s Stephen A. Smith, Who’s Booed Out of Theater, During Podcast Taping
+### 3. ‘Sumpa Kingdom’ Screens at Shanghai, Director Lhapal Gyal and Cast Discuss Sacred Mountain Landscapes
 
-[原文] The New York Knicks festivities aren’t over just yet. Just one day after an estimated two million people flooded the streets of Lower Manhattan to catch a glimpse of the team’s ticker-tape parade cele
+[原文] &#8220;Sumpa Kingdom,&#8221; a drama set in Xizang selected for the Belt and Road Film Week sidebar at the Shanghai International Film Festival, held a post-screening event, with director Lhapal Gyal,
 
-📎 [阅读原文](https://variety.com/2026/sports/news/knicks-jalen-brunson-josh-hart-stephen-a-smith-boos-espn-1236786236/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/sumpa-kingdom-shanghai-film-festival-belt-road-film-week-1236786326/) — *Variety*
 
-### 4. ‘The Young and the Restless’ Crossover Gives ‘Beyond the Gates’ Its Third-Best Week of Ratings Ever (EXCLUSIVE)
+### 4. Shanghai TV Market Debuts Dual-Venue Format to Drive Chinese Content Sales Overseas
 
-[原文] CBS&#8217; &#8220;The Young and the Restless&#8221;/&#8221;Beyond the Gates&#8221; crossover resulted in strong ratings for &#8220;Beyond the Gates&#8221; the week of June 8. The show averaged 1.8 mil
+[原文] The Shanghai International Film &#38; TV Market is launching a new dual-venue format at the Shanghai Exhibition Center this year, with separate spaces for international company pavilions and a dedicat
 
-📎 [阅读原文](https://variety.com/2026/tv/news/the-young-and-restless-beyond-the-gates-crossover-ratings-1236786214/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/markets-festivals/shanghai-tv-market-dual-venue-chinese-content-global-sales-1236786305/) — *Variety*
 
-### 5. ‘Obsession,’ ‘The Pitt’ and ‘Hacks’ Breakout Stars Get Real About Navigating Industry Expectations and AI: ‘We Are So Hungry for Something New’
+### 5. ‘Game of Thrones’ Star Aidan Gillen on Golden Age of ‘F—ing Brilliant’ British Drama and Why There’s ‘Too Much’ Stuff on TV
 
-[原文] A group of rising stars from &#8220;Obsession,&#8221; &#8220;The Pitt,&#8221; &#8220;Euphoria&#8221; and more gathered Thursday to talk about the Gen Z effect on entertainment and navigating careers i
+[原文] “Game of Thrones” and “Peaky Blinders” alum Aidan Gillen waxed nostalgic about the golden age of British drama at the Transilvania Intl. Film Festival and argued that there’s “too much” content cloggi
 
-📎 [阅读原文](https://variety.com/2026/film/news/tonatiuh-darrell-britt-gibson-obsession-pitt-hacks-euphoria-1236786154/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/global/game-of-thrones-aidan-gillen-golden-age-british-drama-1236786197/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. George Lucas Cast in Minions & Monsters After Revealing Massive Fandom
+### 1. The 5 Coolest Handheld Gaming PC Accessories You Can Get This Month
+
+[原文] From XR glasses to supercharged gaming docks, you don't want to miss out on these cool peripherals.
+
+📎 [阅读原文](https://www.ign.com/articles/the-5-coolest-handheld-gaming-pc-accessories-you-can-get-this-month) — *IGN*
+
+### 2. Lost Art: How CG Killed Hand-Drawn Animation at Disney
+
+[原文] While blockbuster CG-animated films like Toy Story 5 dominate the big screen today, let's take a look back at how hand-drawn animation succumbed to this new form.
+
+📎 [阅读原文](https://www.ign.com/articles/lost-art-how-cg-killed-hand-drawn-animation-at-disney) — *IGN*
+
+### 3. What Xbox Games Are Being Cancelled?
+
+[原文] Xbox is in the process of a reset, with multiple studios reportedly in danger of closure. What does this mean for the games they're making? We look at which Xbox games could be cancelled, and which ar
+
+📎 [阅读原文](https://www.ign.com/articles/what-xbox-games-are-being-cancelled) — *IGN*
+
+### 4. George Lucas Cast in Minions & Monsters After Revealing Massive Fandom
 
 [原文] Star Wars creator George Lucas has been cast in Minions & Monsters, and he's already talked to Illumination about appearing in more Minions movies.
 
 📎 [阅读原文](https://www.ign.com/articles/george-lucas-cast-minions-monsters-movie) — *IGN*
 
-### 2. CD Projekt Red Co-CEO Hopes Witcher 4 Wins Back Players After 'Heartbreaking' Cyberpunk 2077 Launch
+### 5. CD Projekt Red Co-CEO Hopes Witcher 4 Wins Back Players After 'Heartbreaking' Cyberpunk 2077 Launch
 
 [原文] CD Projekt Red co-CEO Michał Nowakowski thinks the studio has yet to complete a "full redemption arc" after the "heartbreaking" launch of Cyberpunk 2077, but he's hoping it can win back some fans with
 
 📎 [阅读原文](https://www.ign.com/articles/cd-projekt-red-co-ceo-hopes-witcher-4-wins-back-players-after-heartbreaking-cyberpunk-2077-launch) — *IGN*
-
-### 3. Amazon Walks Away from Nearly Complete Sam Altman Movie Just Months After OpenAI Deal
-
-[原文] Amazon is walking away from Artificial, a nearly complete movie about Sam Altman, just months after striking a deal with ChatGPT company OpenAI.
-
-📎 [阅读原文](https://www.ign.com/articles/amazon-walks-away-from-nearly-complete-sam-altman-movie-just-months-after-openai-deal) — *IGN*
-
-### 4. Beat the Summer Heat With This $8 Portable Turbo Fan
-
-[原文] Stay frosty.
-
-📎 [阅读原文](https://www.ign.com/articles/portable-fan-deals-amazon-fathers-day-sale) — *IGN*
-
-### 5. Save $100 Off a Pair of BowFlex Results Series SelectTech Dumbbells Ahead of Amazon Prime Day
-
-[原文] There's still time to get it delivered by Father's Day even if you choose free shipping.
-
-📎 [阅读原文](https://www.ign.com/articles/best-bowflex-selecttech-adjustable-dumbbell-deal-amazon-fathers-day-sale) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Why Nobody Is Actually Responsible for Fixing Your Street: Explained
+### 1. Carvana Now Offers (Some) Test Drives, and There’s No Salesman to Twist Your Arm
+
+[原文] The online retailer opened a dedicated "Test Drive Center" at one of its brick-and-mortar Stellantis showrooms.
+The post Carvana Now Offers (Some) Test Drives, and There’s No Salesman to Twist Your Ar
+
+📎 [阅读原文](https://www.thedrive.com/news/carvana-now-offers-some-test-drives-and-theres-no-salesman-to-twist-your-arm) — *The Drive*
+
+### 2. Deal Hunter Intel: The Secret List of Stuff Amazon Is Eager To Move, Minus the Junk
+
+[原文] We pawed through the zillion things that Amazon has extra selling incentives on for Prime Day 2026, and  trimmed the list to just good brands.
+The post Deal Hunter Intel: The Secret List of Stuff Amaz
+
+📎 [阅读原文](https://www.thedrive.com/news/deal-hunter-intel-the-secret-list-of-stuff-amazon-is-eager-to-move-minus-the-junk) — *The Drive*
+
+### 3. Why Nobody Is Actually Responsible for Fixing Your Street: Explained
 
 [原文] Gas taxes, highway funds, and local budgets all come up short — which means the tab for your street lands on you.
 The post Why Nobody Is Actually Responsible for Fixing Your Street: Explained appeared
 
 📎 [阅读原文](https://www.thedrive.com/news/why-nobody-is-actually-responsible-for-fixing-your-street-explained) — *The Drive*
 
-### 2. Here’s Why Honda Prelude and Civic Type R Have Gas Caps While Others Don’t
+### 4. Here’s Why Honda Prelude and Civic Type R Have Gas Caps While Others Don’t
 
 [原文] As it turns out, there's a lot more shared between the two Japanese enthusiast cars than we were initially told about. 
 The post Here&#8217;s Why Honda Prelude and Civic Type R Have Gas Caps While Oth
 
 📎 [阅读原文](https://www.thedrive.com/news/heres-why-honda-prelude-and-civic-type-r-have-gas-caps-while-others-dont) — *The Drive*
 
-### 3. Turns Out You Can Buy an Extension Cord for Your EV Charger
+### 5. Turns Out You Can Buy an Extension Cord for Your EV Charger
 
 [原文] The Chevy Silverado EV is 19.4 feet long and wouldn't fit in my garage. The solution was embarrassingly simple.
 The post Turns Out You Can Buy an Extension Cord for Your EV Charger appeared first on T
 
 📎 [阅读原文](https://www.thedrive.com/news/turns-out-you-can-buy-an-extension-cord-for-your-ev-charger) — *The Drive*
-
-### 4. 2026 Chevrolet Corvette E-Ray Quick Review: Slept On and Superb
-
-[原文] The all-wheel-drive, hybrid Corvette isn't what you think it is. It's much better.
-The post 2026 Chevrolet Corvette E-Ray Quick Review: Slept On and Superb appeared first on The Drive.
-
-📎 [阅读原文](https://www.thedrive.com/car-reviews/2026-chevrolet-corvette-e-ray-review) — *The Drive*
-
-### 5. The 2026 Mercedes-Benz AMG E53 Wagon Packs a Lot of Punch Without Packing a V8
-
-[原文] This big PHEV is crazy fast for a car without a "63" badge on it, but it certainly doesn't have eight cylinders.
-The post The 2026 Mercedes-Benz AMG E53 Wagon Packs a Lot of Punch Without Packing a V8
-
-📎 [阅读原文](https://www.thedrive.com/news/the-2026-mercedes-benz-amg-e53-wagon-packs-a-lot-of-punch-without-packing-a-v8) — *The Drive*
 
 ---
 
@@ -439,35 +439,35 @@ The post The 2026 Mercedes-Benz AMG E53 Wagon Packs a Lot of Punch Without Packi
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Justin Cary, Sixpence None the Richer’s Bassist, Dead at 50
+### 1. The Beatles’ Long-Lost First-Ever ‘Top of the Pops’ Performance Has Been Found
+
+[原文] Footage of the 1964 appearance, where the Fab Four played "Can’t Buy Me Love" and "You Can’t Do That," was erased from BBC archives, but British conservationists obtained 35mm footage
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/the-beatles-long-lost-first-ever-top-of-the-pops-footage-1235581073/) — *Rolling Stone*
+
+### 2. Justin Cary, Sixpence None the Richer’s Bassist, Dead at 50
 
 [原文] Cary joined the band in 1997, when they released their self-titled breakthrough album featuring the smash single “Kiss Me"
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/justin-cary-sixpence-none-the-richer-bassist-dead-obituary-1235580901/) — *Rolling Stone*
 
-### 2. Morgan Freeman Recorded a Blues Record With Taj Mahal, Keb’ Mo’, and Shemekia Copeland
+### 3. Morgan Freeman Recorded a Blues Record With Taj Mahal, Keb’ Mo’, and Shemekia Copeland
 
 [原文] Morgan Freeman’s Symphonic Blues Experience, out Aug. 7, includes his collaboration withTaj Mahal of the Son House classic "Death Letter Blues"
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/morgan-freeman-blues-album-taj-mahal-keb-mo-shemekia-1235580484/) — *Rolling Stone*
 
-### 3. FKA Twigs Taps Lil Yachty for Pulsating Single ‘On Your Mind’
+### 4. FKA Twigs Taps Lil Yachty for Pulsating Single ‘On Your Mind’
 
 [原文] The song follows the singer's recent albums Eusexua and Eusexua Afterglow
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/fka-twigs-lil-yachty-on-your-mind-single-1235580911/) — *Rolling Stone*
 
-### 4. Jelly Roll Calls Out Cheating Rumors Amid Bunnie Xo Divorce: ‘My Best Friend Forever’
+### 5. Jelly Roll Calls Out Cheating Rumors Amid Bunnie Xo Divorce: ‘My Best Friend Forever’
 
 [原文] The country star slammed rumors swirling online following news of his divorce from Bunnie
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/jelly-roll-bunnie-xo-divorce-cheating-rumors-1235580887/) — *Rolling Stone*
-
-### 5. Bunnie Xo Reveals She and Jelly Roll Are ‘Still Having a Baby’ Amid Divorce
-
-[原文] The popular podcaster broke her silence following news of her divorce from the country star after 10 years of marriage
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/jelly-roll-bunnie-xo-divorce-still-having-baby-1235580877/) — *Rolling Stone*
 
 ---
 
@@ -515,7 +515,7 @@ The post The 2026 Mercedes-Benz AMG E53 Wagon Packs a Lot of Punch Without Packi
 - **💰 经济财经**: CNBC
 - **💻 科技**: TechCrunch
 - **🔬 科学**: Science Daily
-- **⚽ 体育**: ESPN
+- **⚽ 体育**: BBC Sport
 - **🎬 娱乐**: Variety
 - **🏥 健康**: WHO
 - **🎮 游戏**: IGN
