@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年06月20日** | 生成时间: 2026-06-20 12:04
+**2026年06月20日** | 生成时间: 2026-06-20 17:23
 
 ---
 
@@ -34,17 +34,17 @@
 
 📎 [阅读原文](https://www.bbc.com/news/articles/cdr457lxr71o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Zelensky stripped of highest Polish honour over WW2 name of army unit
+### 4. Watch: World Cup fans react to US defeating Australia to reach knockout round
+
+[原文] US supporters were delighted after their team won 2-0 against the Socceroos while Australian fans were left disappointed but still hopeful.
+
+📎 [阅读原文](https://www.bbc.com/news/videos/cdxdly41p23o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Zelensky stripped of highest Polish honour over WW2 name of army unit
 
 [原文] Ukraine has denounced the move, calling it a "strategic mistake" and "disrespectful".
 
 📎 [阅读原文](https://www.bbc.com/news/articles/cr7xzg3dmj8o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Do it at home too, women tell Japanese fans who cleaned World Cup stadium
-
-[原文] Some see a double standard: Japanese men who clean in public while their wives do all the housework.
-
-📎 [阅读原文](https://www.bbc.com/news/articles/crel9xlp8r1o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -72,17 +72,17 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/06/19/memory-crisis-hits-such-extremes-that-even-apple-cant-be-safe-.html) — *CNBC*
 
-### 4. DOJ rebuffs judge's request to put in writing it won't move forward with 'anti-weaponization' fund
+### 4. Massive bonuses for South Korea's chip workers puts central bank on inflation alert
+
+[原文] Workers from tech industries receive bonus worth millions of won, prompting the Bank of Korea to warn of the upward pressure to inflation.
+
+📎 [阅读原文](https://www.cnbc.com/2026/06/20/south-korea-tech-samsung-sk-hynix-bonus-bank-of-korea.html) — *CNBC*
+
+### 5. DOJ rebuffs judge's request to put in writing it won't move forward with 'anti-weaponization' fund
 
 [原文] The DOJ in May announced it was creating the fund as part of a settlement of President Donald Trump's $10 billion lawsuit against the Internal Revenue Service.
 
 📎 [阅读原文](https://www.cnbc.com/2026/06/19/doj-anti-weaponization-fund-trump.html) — *CNBC*
-
-### 5. The riskiest SpaceX stock trade of all had a big first week
-
-[原文] SpaceX's IPO did not just mint the biggest debut in market history and a trillionaire, but it also triggered a historic land grab in risky leveraged ETFs.
-
-📎 [阅读原文](https://www.cnbc.com/2026/06/19/spacex-stock-risk-buy-sell.html) — *CNBC*
 
 ---
 
@@ -98,7 +98,7 @@
 
 📎 [阅读原文](https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/) — *TechCrunch*
 
-### 2. Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work
+### 2. From PGP to Mythos: a brief history of export controls that didn’t stop anyone
 
 [原文] For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.
 
@@ -168,23 +168,23 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Pulisic sits but U.S. finds a way vs. Australia to...
+### 1. It's (finally) OK to dream big about the USMNT at ...
 
-[原文] The USMNT was without Christian Pulisic on Friday, but it didn't matter: It found a way to beat Australia for its second win of this World Cup.
+[原文] There's something different about this United States team at the 2026 World Cup: The players feel it, and we can all see it. So why not believe?
+
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49121797/ok-dream-big-usmnt-world-cup) — *ESPN*
+
+### 2. Pulisic sits but U.S. finds a way to reach KO roun...
+
+[原文] null
 
 📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49119070/christian-pulisic-sits-us-finds-way-vs-australia-reach-world-cup-knockout-rounds) — *ESPN*
 
-### 2. No Pulisic? No problem: Freeman, Adams lead the wa...
+### 3. U.S. clinches WC Group D after Paraguay victory
 
-[原文] Strong performances from Tyler Adams and Malik Tillman earned high ratings, but it was Alex Freeman who stood out.
+[原文] Paraguay held on for a 1-0 win over Turkey after playing a man down for more than half the match, a result that secured the United States the top spot in Group D
 
-📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49118816/usmnt-player-ratings-freeman-surprise-hero-7-10-performance-stonewall-australia) — *ESPN*
-
-### 3. Freeman goal for U.S. 'full circle family moment'
-
-[原文] U.S. defender Alex Freeman celebrated a "full-circle family moment" on Friday, scoring a goal in the Americans' 2-0 win over Australia on the same field -- kind of -- where his father, Antonio Freeman
-
-📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49120341/alex-freeman-goal-seattle-full-circle-family-moment) — *ESPN*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49123488/us-clinches-group-d-10-man-paraguay-edges-turkey) — *ESPN*
 
 ### 4. U.S. winning the WC not 'ridiculous,' Richards say...
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Knicks Stars Jalen Brunson and Josh Hart Confront ESPN’s Stephen A. Smith, Who’s Booed Out of Theater, During Podcast Taping
+### 1. Tony Leung Reflects on ‘Silent Friend,’ Wong Kar-wai and Why His Films Must Be Seen in Cinemas at Shanghai Masterclass
+
+[原文] Tony Leung Chiu-wai told a full house at the Shanghai International Film Festival that his restrained performance style demands the full cinematic experience to be felt, speaking at a masterclass foll
+
+📎 [阅读原文](https://variety.com/2026/film/festivals/tony-leung-silent-friend-shanghai-film-festival-masterclass-1236786301/) — *Variety*
+
+### 2. ‘Finnegan’s Foursome’ Review: Edward Burns’ Spiky-Quaint Sports Dramedy Is a Tale of Family Therapy Through Golf
+
+[原文] "Finnegan’s Foursome" is his 16th feature, and he’s still doing that shaggy-likable, spiky-quaint, semi-low-budget Edward Burns dramedy thing — the script that’s talky and kind of funny, though in a w
+
+📎 [阅读原文](https://variety.com/2026/film/reviews/finnegans-foursome-review-edward-burns-1236786224/) — *Variety*
+
+### 3. Knicks Stars Jalen Brunson and Josh Hart Confront ESPN’s Stephen A. Smith, Who’s Booed Out of Theater, During Podcast Taping
 
 [原文] The New York Knicks festivities aren’t over just yet. Just one day after an estimated two million people flooded the streets of Lower Manhattan to catch a glimpse of the team’s ticker-tape parade cele
 
 📎 [阅读原文](https://variety.com/2026/sports/news/knicks-jalen-brunson-josh-hart-stephen-a-smith-boos-espn-1236786236/) — *Variety*
 
-### 2. ‘The Young and the Restless’ Crossover Gives ‘Beyond the Gates’ Its Third-Best Week of Ratings Ever (EXCLUSIVE)
+### 4. ‘The Young and the Restless’ Crossover Gives ‘Beyond the Gates’ Its Third-Best Week of Ratings Ever (EXCLUSIVE)
 
 [原文] CBS&#8217; &#8220;The Young and the Restless&#8221;/&#8221;Beyond the Gates&#8221; crossover resulted in strong ratings for &#8220;Beyond the Gates&#8221; the week of June 8. The show averaged 1.8 mil
 
 📎 [阅读原文](https://variety.com/2026/tv/news/the-young-and-restless-beyond-the-gates-crossover-ratings-1236786214/) — *Variety*
 
-### 3. ‘Obsession,’ ‘The Pitt’ and ‘Hacks’ Breakout Stars Get Real About Navigating Industry Expectations and AI: ‘We Are So Hungry for Something New’
+### 5. ‘Obsession,’ ‘The Pitt’ and ‘Hacks’ Breakout Stars Get Real About Navigating Industry Expectations and AI: ‘We Are So Hungry for Something New’
 
 [原文] A group of rising stars from &#8220;Obsession,&#8221; &#8220;The Pitt,&#8221; &#8220;Euphoria&#8221; and more gathered Thursday to talk about the Gen Z effect on entertainment and navigating careers i
 
 📎 [阅读原文](https://variety.com/2026/film/news/tonatiuh-darrell-britt-gibson-obsession-pitt-hacks-euphoria-1236786154/) — *Variety*
-
-### 4. ‘Pluribus’ Star Rhea Seehorn on Why She Hasn’t Grilled Vince Gilligan and the Writers About Season 2 Just Yet
-
-[原文] Think your fan conversations about Apple TV&#8217;s &#8220;Pluribus&#8221; are heated? Try being on the actual series set. &#8220;We have healthy, sometimes tongue-in-cheek debates about different que
-
-📎 [阅读原文](https://variety.com/2026/tv/news/pluribus-rhea-seehorn-season-2-fan-theories-podcast-1236786174/) — *Variety*
-
-### 5. Justin Cary, Sixpence None the Richer Bassist, Dies at 50
-
-[原文] Justin Cary, the longtime bassist of the alt-rock band Sixpence None the Richer, died on June 11 of a stroke. He was 50 years old. Cary&#8217;s death was confirmed via an Instagram post from the band’
-
-📎 [阅读原文](https://variety.com/2026/music/news/justin-cary-dead-sixpence-none-the-richer-bassist-1236786195/) — *Variety*
 
 ---
 
@@ -363,35 +363,35 @@ The post The 2026 Mercedes-Benz AMG E53 Wagon Packs a Lot of Punch Without Packi
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. James Bruggers, Who Brought Passion and Kindness to Environmental Reporting, Dies at 68
+### 1. Planning For Life After Coal Cost a Montana County Commissioner His Seat
+
+[原文] Robert Pancratz couldn’t believe it.&#160; The Musselshell County commissioner had been defeated in the Republican primary for his seat by a two-to-one margin earlier this month. Mark Olson, who lives
+
+📎 [阅读原文](https://insideclimatenews.org/news/20062026/montana-musselshell-county-fiscal-future/) — *Inside Climate News*
+
+### 2. El Niño Is Here and Will Have ‘Big Consequences’ for Global Weather
+
+[原文] From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Jenni Doering with author Kevin Trenberth. El Niño is a phenomenon every few years in which 
+
+📎 [阅读原文](https://insideclimatenews.org/news/20062026/el-nino-could-bring-strong-storms-and-increase-wildfire-risks/) — *Inside Climate News*
+
+### 3. James Bruggers, Who Brought Passion and Kindness to Environmental Reporting, Dies at 68
 
 [原文] James Bruggers, whose decades of dogged reporting shined a light on polluting corporations, inadequate regulations and the people who fought against them for environmental justice, died Tuesday at a h
 
 📎 [阅读原文](https://insideclimatenews.org/news/19062026/environmental-journalism-watchdog-james-bruggers-dies-at-68/) — *Inside Climate News*
 
-### 2. Green Economy Hits $10 Trillion in Market Value
+### 4. Green Economy Hits $10 Trillion in Market Value
 
 [原文] The group of companies that derive significant revenue from environmental solutions, known as the green economy, has topped $10 trillion in market value, a new report found. That milestone was tied to
 
 📎 [阅读原文](https://insideclimatenews.org/news/19062026/green-economy-hits-10-trillion-in-market-value/) — *Inside Climate News*
 
-### 3. Alabama Limestone Quarry Settles Lawsuit Over Dust, Noise
+### 5. Alabama Limestone Quarry Settles Lawsuit Over Dust, Noise
 
 [原文] Residents of the small north Alabama community of Belle Mina are breathing easier after reaching a settlement with a limestone quarry they say was disrupting their homes and places of worship.&#160; T
 
 📎 [阅读原文](https://insideclimatenews.org/news/18062026/alabama-limestone-quarry-settlement/) — *Inside Climate News*
-
-### 4. Federal Regulators Tell Electric Grid Operators to Fix Their Rules on Data Centers
-
-[原文] The nation’s electric grid is stressed out.&#160; Unprecedented energy demands for large customers, such as data centers and cryptomines, are straining power supplies, raising electric rates in some r
-
-📎 [阅读原文](https://insideclimatenews.org/news/18062026/federal-energy-regulatory-commission-data-center-orders/) — *Inside Climate News*
-
-### 5. United Nations Climate Talks in Bonn Marked by ‘Sidestepping and Stalling’
-
-[原文] The United States did not send a federal government delegation to the latest round of high-level global climate negotiations in Bonn, Germany, but the current administration’s foreign and economic pol
-
-📎 [阅读原文](https://insideclimatenews.org/news/18062026/latest-un-climate-talks-marked-by-sidestepping-stalling/) — *Inside Climate News*
 
 ---
 
@@ -528,6 +528,7 @@ The post The 2026 Mercedes-Benz AMG E53 Wagon Packs a Lot of Punch Without Packi
 ## ⚠️ 今日故障源
 
 - **🚗 汽车**: Roadshow, Autocar
+- **✈️ 旅游**: Nomadic Matt
 
 ---
 
