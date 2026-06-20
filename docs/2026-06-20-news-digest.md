@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年06月20日** | 生成时间: 2026-06-20 03:53
+**2026年06月20日** | 生成时间: 2026-06-20 12:04
 
 ---
 
@@ -28,23 +28,23 @@
 
 📎 [阅读原文](https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. US to end funding of South Africa's HIV programmes over claims of Afrikaner persecution
+### 3. US to stop funding HIV programmes in South Africa
 
-[原文] The US says South Africa is not doing enough to protect the white-minority Afrikaner community.
+[原文] More than eight million South Africans are living with HIV – the highest number of any country in the world.
 
 📎 [阅读原文](https://www.bbc.com/news/articles/cdr457lxr71o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Do it at home too, women tell Japanese fans who cleaned World Cup stadium
+### 4. Zelensky stripped of highest Polish honour over WW2 name of army unit
+
+[原文] Ukraine has denounced the move, calling it a "strategic mistake" and "disrespectful".
+
+📎 [阅读原文](https://www.bbc.com/news/articles/cr7xzg3dmj8o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Do it at home too, women tell Japanese fans who cleaned World Cup stadium
 
 [原文] Some see a double standard: Japanese men who clean in public while their wives do all the housework.
 
 📎 [阅读原文](https://www.bbc.com/news/articles/crel9xlp8r1o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Six-year-old Ebola patient taken from DR Congo hospital found and 'doing well'
-
-[原文] Health facilities have come under attack during the current outbreak as a result of misinformation and fear.
-
-📎 [阅读原文](https://www.bbc.com/news/articles/c0qyg29wpk2o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -78,11 +78,11 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/06/19/doj-anti-weaponization-fund-trump.html) — *CNBC*
 
-### 5. Trump claims Iran deal is 'unconditional surrender,' says his power has 'no limits': Axios
+### 5. The riskiest SpaceX stock trade of all had a big first week
 
-[原文] Trump said in an interview with Axios on Thursday evening stateside that he negotiated the deal to prevent the conflict from triggering a global depression.
+[原文] SpaceX's IPO did not just mint the biggest debut in market history and a trillionaire, but it also triggered a historic land grab in risky leveraged ETFs.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/19/trump-claims-iran-deal-is-unconditional-surrender-axios-.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/19/spacex-stock-risk-buy-sell.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Every fusion startup that has raised over $100M
+### 1. He made your free video player run smoothly. Now he’s doing that for robots.
+
+[原文] French serial entrepreneur and open-source legend Jean-Baptiste Kempf has been building Kyber, an infrastructure layer to control remote devices in real time.
+
+📎 [阅读原文](https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/) — *TechCrunch*
+
+### 2. Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work
+
+[原文] For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.
+
+📎 [阅读原文](https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/) — *TechCrunch*
+
+### 3. Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026. Here’s why it matters
+
+[原文] Go&#8217;s IPO — Japan&#8217;s biggest so far this year — has done more than provide a much-needed boost to the country&#8217;s languishing listing season. It has also supplied the taxi-hailing app wi
+
+📎 [阅读原文](https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/) — *TechCrunch*
+
+### 4. Aura’s impressive e-ink photo frame doesn’t even look digital
+
+[原文] What&#8217;s the most cliche possible gift you can give a relative? A digital photo frame, displaying a rotating slideshow of family photos. Now Aura has completely refreshed this product space with i
+
+📎 [阅读原文](https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/) — *TechCrunch*
+
+### 5. Every fusion startup that has raised over $100M
 
 [原文] Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/) — *TechCrunch*
-
-### 2. Is the US government’s Anthropic ban accidentally helping the brand?
-
-[原文] Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedl
-
-📎 [阅读原文](https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/) — *TechCrunch*
-
-### 3. Billionaire Ambani wants AI in every call, app, and home
-
-[原文] Reliance is weaving AI into telecom services used by more than 500 million people.
-
-📎 [阅读原文](https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/) — *TechCrunch*
-
-### 4. The CEO of Allbirds’ new AI biz has a plan, but no employees
-
-[原文] Call it a startup with a sole founder and a very large seed round, but what's next is less clear.
-
-📎 [阅读原文](https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/) — *TechCrunch*
-
-### 5. The US says ASML’s top chip tool may be in China. ASML says it isn’t.
-
-[原文] There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.
-
-📎 [阅读原文](https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. England hit by Rew drops and Nicholls century
+### 1. Pulisic sits but U.S. finds a way vs. Australia to...
 
-[原文] England’s parlous position in the second Test against New Zealand is compounded by drops from debutant wicketkeeper James Rew and a superb century by Henry Nicholls.
+[原文] The USMNT was without Christian Pulisic on Friday, but it didn't matter: It found a way to beat Australia for its second win of this World Cup.
 
-📎 [阅读原文](https://www.bbc.com/sport/cricket/articles/cn94jnpv3wno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49119070/christian-pulisic-sits-us-finds-way-vs-australia-reach-world-cup-knockout-rounds) — *ESPN*
 
-### 2. Fifa alters how World Cup tables work - it changes everything
+### 2. No Pulisic? No problem: Freeman, Adams lead the wa...
 
-[原文] Fifa is using head-to-head records instead of group goal difference as the first tiebreaker for teams who are level on points at the World Cup.
+[原文] Strong performances from Tyler Adams and Malik Tillman earned high ratings, but it was Alex Freeman who stood out.
 
-📎 [阅读原文](https://www.bbc.com/sport/football/articles/cn94jrj8d5go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49118816/usmnt-player-ratings-freeman-surprise-hero-7-10-performance-stonewall-australia) — *ESPN*
 
-### 3. Coventry play champions Arsenal in Premier League opener
+### 3. Freeman goal for U.S. 'full circle family moment'
 
-[原文] Newly promoted Coventry City will travel to champions Arsenal in the first match of the 2026-27 Premier League season.
+[原文] U.S. defender Alex Freeman celebrated a "full-circle family moment" on Friday, scoring a goal in the Americans' 2-0 win over Australia on the same field -- kind of -- where his father, Antonio Freeman
 
-📎 [阅读原文](https://www.bbc.com/sport/football/articles/cdx7kyv92rjo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49120341/alex-freeman-goal-seattle-full-circle-family-moment) — *ESPN*
 
-### 4. England XV well beaten by France in summer warm-up
+### 4. U.S. winning the WC not 'ridiculous,' Richards say...
 
-[原文] France prove too skilful for England in the teams' non-Test summer warm-up in Vannes, easing away to a comfortable victory.
+[原文] Zlatan Ibrahimovic was succinct in saying he thinks that the USMNT has a chance to win the World Cup. Chris Richards doesn't think it's a wild idea at all, either.
 
-📎 [阅读原文](https://www.bbc.com/sport/rugby-union/articles/c78y0pyeenro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49121031/usa-winning-2026-world-cup-chris-richards-zlatan-ibrahimovic) — *ESPN*
 
-### 5. Fery's Queen's run ended by Cerundolo in narrow loss
+### 5. Source: Big 12 monitoring Sorsby fallout, options
 
-[原文] Britain's Arthur Fery narrowly misses out on another career milestone as he falls to Francisco Cerundolo in the Queen's quarter-finals.
+[原文] The Big 12 presidents and chancellors haven't rushed to pull the league's recently filed federal lawsuit because there are still questions about Texas Tech quarterback Brendan Sorsby's NFL future and 
 
-📎 [阅读原文](https://www.bbc.com/sport/tennis/articles/cy06kjyx726o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/college-football/story/_/id/49121275/big-12-no-rush-pull-lawsuit-vs-texas-tech-brendan-sorsby-eligibility) — *ESPN*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘X-Men’ Star Famke Janssen Says Marvel ‘Made a Mistake’ By Not Asking Her to Return as Jean Grey in ‘Avengers: Doomsday’
+### 1. Knicks Stars Jalen Brunson and Josh Hart Confront ESPN’s Stephen A. Smith, Who’s Booed Out of Theater, During Podcast Taping
 
-[原文] Famke Janssen said during a recent appearance at Spacecon 2026 (via Popverse), that Marvel “made a mistake” by not bringing her back as Jean Grey for December’s “Avengers: Doomsday.” “I am so bad at k
+[原文] The New York Knicks festivities aren’t over just yet. Just one day after an estimated two million people flooded the streets of Lower Manhattan to catch a glimpse of the team’s ticker-tape parade cele
 
-📎 [阅读原文](https://variety.com/2026/film/news/famke-janssen-marvel-mistake-jean-grey-avengers-doomsday-1236786151/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/sports/news/knicks-jalen-brunson-josh-hart-stephen-a-smith-boos-espn-1236786236/) — *Variety*
 
-### 2. YouTube Creators are Making a Splash This Awards Season. Here’s a Guide to the Platform’s Top Contenders
+### 2. ‘The Young and the Restless’ Crossover Gives ‘Beyond the Gates’ Its Third-Best Week of Ratings Ever (EXCLUSIVE)
 
-[原文] As YouTube continues to grow, it also enters the Primetime Emmy consideration space in a huge way. Below, Variety breaks down some of the biggest creators driving global conversation to keep an eye ou
+[原文] CBS&#8217; &#8220;The Young and the Restless&#8221;/&#8221;Beyond the Gates&#8221; crossover resulted in strong ratings for &#8220;Beyond the Gates&#8221; the week of June 8. The show averaged 1.8 mil
 
-📎 [阅读原文](https://variety.com/2026/tv/news/youtube-awards-season-guide-emmys-top-contenders-1236786118/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/the-young-and-restless-beyond-the-gates-crossover-ratings-1236786214/) — *Variety*
 
-### 3. Randy Newman on Scoring ‘Toy Story 5,’ Using a Male Choir for Buzz Lightyear and Having Less Than an Hour’s Notice to Duet With Taylor Swift
+### 3. ‘Obsession,’ ‘The Pitt’ and ‘Hacks’ Breakout Stars Get Real About Navigating Industry Expectations and AI: ‘We Are So Hungry for Something New’
 
-[原文] It’s been over a week since attendees at the world premiere of “Toy Story 5” were treated to a surprise debut performance of “I Knew It, I Knew You,” the original song by Taylor Swift. As the film con
+[原文] A group of rising stars from &#8220;Obsession,&#8221; &#8220;The Pitt,&#8221; &#8220;Euphoria&#8221; and more gathered Thursday to talk about the Gen Z effect on entertainment and navigating careers i
 
-📎 [阅读原文](https://variety.com/2026/film/news/randy-newman-toy-story-5-music-taylor-swift-song-1236784277/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/tonatiuh-darrell-britt-gibson-obsession-pitt-hacks-euphoria-1236786154/) — *Variety*
 
-### 4. James Burrows, ‘Cheers’ Co-Creator and Prolific TV Director, Dies at 85
+### 4. ‘Pluribus’ Star Rhea Seehorn on Why She Hasn’t Grilled Vince Gilligan and the Writers About Season 2 Just Yet
 
-[原文] James Burrows, the prolific director who reigned as television’s preeminent sitcom helmer for more than 30 years, died on Friday. He was 85.  Burrows&#8217; family confirmed his death in a statement t
+[原文] Think your fan conversations about Apple TV&#8217;s &#8220;Pluribus&#8221; are heated? Try being on the actual series set. &#8220;We have healthy, sometimes tongue-in-cheek debates about different que
 
-📎 [阅读原文](https://variety.com/2026/tv/news/james-burrows-dead-cheers-taxi-will-and-grace-1236786130/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/pluribus-rhea-seehorn-season-2-fan-theories-podcast-1236786174/) — *Variety*
 
-### 5. From Jordan’s Streets to Indian Mountains to Chinese Campuses, Asian New Talent Contenders Chart Their Creative Paths at Shanghai
+### 5. Justin Cary, Sixpence None the Richer Bassist, Dies at 50
 
-[原文] Filmmakers competing in the Asian New Talent section of the 28th Shanghai International Film Festival gathered for a press meeting to discuss the inspirations and methods behind four films, spanning s
+[原文] Justin Cary, the longtime bassist of the alt-rock band Sixpence None the Richer, died on June 11 of a stroke. He was 50 years old. Cary&#8217;s death was confirmed via an Instagram post from the band’
 
-📎 [阅读原文](https://variety.com/2026/film/festivals/asian-new-talent-filmmakers-shanghai-2026-1236786110/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/justin-cary-dead-sixpence-none-the-richer-bassist-1236786195/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Today’s Top Deals: GameSir Super Nova Wireless Controller, DoorDash Gift Card, and TMNT: The Ultimate Collection
+### 1. George Lucas Cast in Minions & Monsters After Revealing Massive Fandom
 
-[原文] Plus, save on a Walmart+ membership, Nioh 3, last-minute Father’s Day gifts, and more.
+[原文] Star Wars creator George Lucas has been cast in Minions & Monsters, and he's already talked to Illumination about appearing in more Minions movies.
 
-📎 [阅读原文](https://www.ign.com/articles/best-deals-for-june-19-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/george-lucas-cast-minions-monsters-movie) — *IGN*
 
-### 2. Score Up to 29% Off Dreame Robot Vacuums for Amazon Prime Day
+### 2. CD Projekt Red Co-CEO Hopes Witcher 4 Wins Back Players After 'Heartbreaking' Cyberpunk 2077 Launch
 
-[原文] Clean smarter, not harder, this summer
+[原文] CD Projekt Red co-CEO Michał Nowakowski thinks the studio has yet to complete a "full redemption arc" after the "heartbreaking" launch of Cyberpunk 2077, but he's hoping it can win back some fans with
 
-📎 [阅读原文](https://www.ign.com/articles/dreame-robot-vacuums-prime-day-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/cd-projekt-red-co-ceo-hopes-witcher-4-wins-back-players-after-heartbreaking-cyberpunk-2077-launch) — *IGN*
 
-### 3. The Dreame A3 AWD Pro Robot Lawn Mower Is The Perfect Gift for Father's Day
+### 3. Amazon Walks Away from Nearly Complete Sam Altman Movie Just Months After OpenAI Deal
 
-[原文] You can mow your yard with the press of a button.
+[原文] Amazon is walking away from Artificial, a nearly complete movie about Sam Altman, just months after striking a deal with ChatGPT company OpenAI.
 
-📎 [阅读原文](https://www.ign.com/articles/dreame-a3-awd-pro-robot-lawn-mower-deal-is-the-perfect-gift-for-fathers-day) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/amazon-walks-away-from-nearly-complete-sam-altman-movie-just-months-after-openai-deal) — *IGN*
 
-### 4. Get a UrLife E20 1,000W Peak 48V Adult Electric Bike With 28mph Top Speed and 80 Mile Range for $297
+### 4. Beat the Summer Heat With This $8 Portable Turbo Fan
 
-[原文] Better than any budget ebike deal during Amazon Prime Day, probably
+[原文] Stay frosty.
 
-📎 [阅读原文](https://www.ign.com/articles/urlife-e20-1000w-48v-adult-electric-bike-deal-june-2026-updated) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/portable-fan-deals-amazon-fathers-day-sale) — *IGN*
 
-### 5. The Tiny Aoostar Ryzen 7 Pro 6850H Mini PC with 24GB of DDR5 RAM and USB 4 Ports Drops to $266
+### 5. Save $100 Off a Pair of BowFlex Results Series SelectTech Dumbbells Ahead of Amazon Prime Day
 
-[原文] A Mac Mini-sized PC that's more powerful than the Raspberry Pi for nearly the same cost.
+[原文] There's still time to get it delivered by Father's Day even if you choose free shipping.
 
-📎 [阅读原文](https://www.ign.com/articles/aoostar-ryzen-7-pro-6850h-mini-pc-deal-june-2026-early-prime-day-sale) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/best-bowflex-selecttech-adjustable-dumbbell-deal-amazon-fathers-day-sale) — *IGN*
 
 ---
 
@@ -515,7 +515,7 @@ The post The 2026 Mercedes-Benz AMG E53 Wagon Packs a Lot of Punch Without Packi
 - **💰 经济财经**: CNBC
 - **💻 科技**: TechCrunch
 - **🔬 科学**: Science Daily
-- **⚽ 体育**: BBC Sport
+- **⚽ 体育**: ESPN
 - **🎬 娱乐**: Variety
 - **🏥 健康**: WHO
 - **🎮 游戏**: IGN
