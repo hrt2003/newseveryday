@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年06月21日** | 生成时间: 2026-06-21 03:43
+**2026年06月21日** | 生成时间: 2026-06-21 12:45
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Iran says Strait of Hormuz will be closed over Israel attacks on Lebanon
+### 1. US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz
 
-[原文] Iran said Israel's continued attacks in Lebanon are a breach of Tehran's agreement with the US to end the war.
+[原文] The US disputed Iran's claim the waterway is shut, a move Tehran says was a response to Israeli attacks in Lebanon.
 
 📎 [阅读原文](https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Lebanese turtle conservationist Mona Khalil killed by Israeli strike
+### 2. BBC sees destroyed villages in Israeli-occupied southern Lebanon
+
+[原文] Travelling with a humanitarian convoy, BBC's Hugo Bachega has been given rare access to a part of Lebanon under Israeli occupation.
+
+📎 [阅读原文](https://www.bbc.com/news/videos/c8r2pyv3e2po?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. Lebanese turtle conservationist Mona Khalil killed by Israeli strike
 
 [原文] Mona Khalil, who had refused to leave the beach she had spent years protecting, died from her injuries after the Israeli strike.
 
 📎 [阅读原文](https://www.bbc.com/news/articles/cwylx1vq18zo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Meloni tells Trump to 'focus on your own popularity' as row escalates
+### 4. Colombia's escalating, brutal internal conflict is defining its presidential election
+
+[原文] A left-wing senator who backs talks with armed gangs faces an outsider endorsed by Trump.
+
+📎 [阅读原文](https://www.bbc.com/news/articles/cvgqv8q1ndpo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Meloni tells Trump to 'focus on your own popularity' as row escalates
 
 [原文] The US president earlier questioned Meloni's popularity after suggesting she "begged" for a photo at G7 summit
 
 📎 [阅读原文](https://www.bbc.com/news/articles/cgqj77909jpo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Bolivian president declares state of emergency
-
-[原文] The move comes after weeks of anti-government protests that have caused a shortage of basic goods in Bolivia.
-
-📎 [阅读原文](https://www.bbc.com/news/articles/cr47wn92zdgo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Zelensky returns highest Polish honour after award stripped
-
-[原文] Ukraine's president said his country was open to "engagement" about "difficult and painful chapters of our shared past".
-
-📎 [阅读原文](https://www.bbc.com/news/articles/c2lye7xje9yo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,7 +54,7 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Iran reportedly closes Strait of Hormuz again, casting shadow over nuclear talks
+### 1. Iran reportedly closes Strait of Hormuz again as Vance heads to Switzerland for talks
 
 [原文] Iran's joint military command said the closure was in response to continued Israeli military operations in Lebanon.
 
@@ -72,17 +72,17 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/06/20/cheap-airline-fares-summer-travel.html) — *CNBC*
 
-### 4. Bitcoin's future as revolutionary as the smartphone, according to CoinDesk
-
-[原文] CoinDesk’s president of indices and data has a message for investors: Don’t count out bitcoin.
-
-📎 [阅读原文](https://www.cnbc.com/2026/06/20/bitcoin-as-revolutionary-as-smartphone-according-to-coindesk.html) — *CNBC*
-
-### 5. SNAP restrictions could change what shoppers buy — and food giants are watching
+### 4. SNAP restrictions could change what shoppers buy — and food giants are watching
 
 [原文] SNAP food restrictions are spreading to more states, pressuring major food and beverage as consumers shift spending away from soda, candy and processed foods.
 
 📎 [阅读原文](https://www.cnbc.com/2026/06/20/maha-snap-restrictions-junk-food-spending.html) — *CNBC*
+
+### 5. Bitcoin's future as revolutionary as the smartphone, according to CoinDesk
+
+[原文] CoinDesk’s president of indices and data has a message for investors: Don’t count out bitcoin.
+
+📎 [阅读原文](https://www.cnbc.com/2026/06/20/bitcoin-as-revolutionary-as-smartphone-according-to-coindesk.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. In the Weights is your new AI-centric vanity search
+### 1. Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’
+
+[原文] "These are not your friends. These are not conscious beings. These are not sentient interlocutors.”
+
+📎 [阅读原文](https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/) — *TechCrunch*
+
+### 2. In the Weights is your new AI-centric vanity search
 
 [原文] So ... what's your In the Weights score?
 
 📎 [阅读原文](https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/) — *TechCrunch*
 
-### 2. Founders Fund’s outlier bet on humanely killed fish
+### 3. Founders Fund’s outlier bet on humanely killed fish
 
 [原文] Shinkei makes a refrigerator-sized robot called Poseidon to kill fish quickly and humanely.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/) — *TechCrunch*
 
-### 3. Nobel laureate John Jumper is leaving DeepMind for rival Anthropic
+### 4. Nobel laureate John Jumper is leaving DeepMind for rival Anthropic
 
 [原文] Jumper isn't the only big name leaving Google DeepMind.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/) — *TechCrunch*
 
-### 4. Every new iOS 27 feature that’s worth knowing about
+### 5. Every new iOS 27 feature that’s worth knowing about
 
 [原文] While it's not flashy like Apple’s new Siri AI and Apple Intelligence upgrades, there are still a number of additions to iOS 27 worth looking at.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/) — *TechCrunch*
-
-### 5. He made your free video player run smoothly. Now he’s doing that for robots.
-
-[原文] French serial entrepreneur and open-source legend Jean-Baptiste Kempf has been building Kyber, an infrastructure layer to control remote devices in real time.
-
-📎 [阅读原文](https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Netherlands thump Sweden 5-1 in statement win
+### 1. Follow live: Ayase Ueda's powerful strike extends ...
 
-[原文] Brian Brobbey and Cody Gakpo scored two each as Netherlands cruised to a 5-1 World Cup victory over Sweden to go top of Group F.
+[原文] null
 
-📎 [阅读原文](https://www.espn.com/soccer/report/_/gameId/760447) — *ESPN*
+📎 [阅读原文](https://www.espn.com/soccer/match/_/gameId/760449) — *ESPN*
 
-### 2. U.S. winning the WC not 'ridiculous,' Richards say...
+### 2. Schwarber's 3 HRs, Harper's cycle propel Phillies
 
-[原文] Zlatan Ibrahimovic was succinct in saying he thinks that the USMNT has a chance to win the World Cup. Chris Richards doesn't think it's a wild idea at all, either.
+[原文] Kyle Schwarber hit three home runs and Bryce Harper became the 11th player in franchise history to hit for the cycle as the Phillies beat the Mets 15-3 on Saturday night.
 
-📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49121031/usa-winning-2026-world-cup-chris-richards-zlatan-ibrahimovic) — *ESPN*
+📎 [阅读原文](https://www.espn.com/mlb/story/_/id/49131252/schwarber-homers-twice-inning-harper-hits-cycle) — *ESPN*
 
-### 3. Source: Big 12 monitoring Sorsby fallout, options
+### 3. Ivory Coast boss slams Germany's 'lack of fair pla...
 
-[原文] The Big 12 presidents and chancellors haven't rushed to pull the league's recently filed federal lawsuit because there are still questions about Texas Tech quarterback Brendan Sorsby's NFL future and 
+[原文] Ivory Coast head coach Emerse Faé has criticized what he said was a lack of fair play from Germany during his team's 2-1 World Cup defeat on Saturday at BMO Field.
 
-📎 [阅读原文](https://www.espn.com/college-football/story/_/id/49121275/big-12-no-rush-pull-lawsuit-vs-texas-tech-brendan-sorsby-eligibility) — *ESPN*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49130449/ivory-coast-coach-germany-emerse-fae-nathaniel-brown-fifa-world-cup) — *ESPN*
 
-### 4. RHP Misiorowski hits 104.2 mph in Brewers' loss
+### 4. Curaçao GK ties Howard's WC save record in draw
 
-[原文] Brewers ace Jacob Misiorowski had another strong outing against the Braves, topping out at 104.2 mph, but it may not have been strong enough during a 3-2 loss.
+[原文] Curaçao goalkeeper Eloy Room made 15 saves to equal the World Cup record and help earn the island nation its first-ever World Cup point with a 0-0 draw against heavily favored Ecuador on Saturday.
 
-📎 [阅读原文](https://www.espn.com/mlb/story/_/id/49122057/jacob-misiorowski-throws-record-47-pitches-101-mph-higher-loss) — *ESPN*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49131334/curacao-goalkeeper-eloy-room-tim-howard-world-cup-save-record) — *ESPN*
 
-### 5. Paraguay player red-carded for covering mouth
+### 5. Clark keeps hot pace, now up 6 shots at U.S. Open
 
-[原文] Miguel Almirón was shown the red after an altercation in Paraguay's Group B match vs Türkiye.
+[原文] Wyndham Clark shot an even-par 70 and will take a six-shot lead into the final round as he pursues his second U.S. Open title Sunday at Shinnecock Hills.
 
-📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49123197/miguel-almiron-red-card-covering-mouth-paraguay-turkiye-2026-world-cup) — *ESPN*
+📎 [阅读原文](https://www.espn.com/golf/story/_/id/49130791/clark-keeps-hot-pace-takes-6-shot-lead-us-open-final-round) — *ESPN*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. George Lucas Has a Voice Role in ‘Minions & Monsters’
+### 1. ‘Minions & Monsters’ Director Pierre Coffin on His Tribute to Hollywood, the Exhausting Work of Voicing the Yellow Creatures and Crafting Comedy That’s ‘More Irreverent Than Some of the Competition’
+
+[原文] Pierre Coffin thought he was done with the Minions. After nearly two decades inside the “Despicable Me” universe — the highest-grossing animated franchise of all time, with more than $5.5 billion worl
+
+📎 [阅读原文](https://variety.com/2026/film/global/minions-monsters-director-pierre-coffin-hollywood-voicing-1236785989/) — *Variety*
+
+### 2. How to Watch Oscar Collazo vs. Joey Canoy Boxing Title Bout Live Online
+
+[原文] In a title bout for the championship, Puerto Rican Oscar Collazo takes on Filipino boxer Joey Canoy in a 12-round match. What&#8217;s on the line? Collazo&#8217;s WBA and WBO strawweight title belts. 
+
+📎 [阅读原文](https://variety.com/2026/shopping/news/how-to-watch-oscar-collazo-vs-joey-canoy-boxing-live-online-1236783466/) — *Variety*
+
+### 3. Jennifer Aniston Posts Heartfelt Tribute to ‘Friends’ Director James Burrows: ‘He Was a Father Figure to Me’
+
+[原文] Jennifer Aniston posted a heartfelt tribute to her longtime “Friends” director James Burrows, who died on Friday at 85 years old. “Papa Burrows. The hardest thing about writing this is that you spent 
+
+📎 [阅读原文](https://variety.com/2026/tv/news/jennifer-aniston-tribute-friends-director-james-burrows-1236786442/) — *Variety*
+
+### 4. George Lucas Has a Voice Role in ‘Minions & Monsters’
 
 [原文] Illumination founder Chris Meledandri recently told Collider that George Lucas voices a character in “Minions &#38; Monsters,” which hits theaters on July 1. “I had this privilege of meeting George ab
 
 📎 [阅读原文](https://variety.com/2026/film/news/george-lucas-role-minions-and-monsters-illumination-1236786427/) — *Variety*
 
-### 2. Olivia Wilde Says Pamela Anderson Helped Her Through ‘Don’t Worry Darling’ Drama: ‘The Pummeling That I Took Was So Insanely Disproportionate’
+### 5. Olivia Wilde Says Pamela Anderson Helped Her Through ‘Don’t Worry Darling’ Drama: ‘The Pummeling That I Took Was So Insanely Disproportionate’
 
 [原文] Olivia Wilde recently told the “Call Her Daddy” podcast that Pamela Anderson helped her through the release of her 2022 film “Don’t Worry Darling,” which was plagued with rumors of disarray in the dir
 
 📎 [阅读原文](https://variety.com/2026/film/news/olivia-wilde-pamela-anderson-dont-worry-darling-drama-1236786418/) — *Variety*
-
-### 3. Ben Wheatley on How Blockbuster Success of ‘Backrooms,’ ‘Obsession’ Proves ‘It’s a Great Time to Be a Young Filmmaker’
-
-[原文] “Bulk” and “Meg 2” director Ben Wheatley thinks “it’s a great time to be a young filmmaker,” pointing to break-out, box-office phenomena like “Backrooms” and “Obsession” as proof that emerging directo
-
-📎 [阅读原文](https://variety.com/2026/film/global/ben-wheatley-backrooms-obsession-1236786349/) — *Variety*
-
-### 4. Why Horror Film ‘Leviticus’ Is Summer’s Most Surprising Love Story
-
-[原文] SPOILER ALERT:&#160;This story contains spoilers for &#8220;Leviticus&#8221; and &#8220;Obsession,&#8221; both currently playing in theaters. Deep into the new horror movie “Leviticus,” there’s an int
-
-📎 [阅读原文](https://variety.com/2026/film/columns/leviticus-conversion-therapy-horror-movie-love-story-1236783963/) — *Variety*
-
-### 5. Box Office: ‘Toy Story 5’ Soars to $71 Million on Opening Day
-
-[原文] Playtime is over. Or, actually, maybe it has just begun? Either way, “Toy Story 5” topped the box office charts on Friday. Disney and Pixar’s “Toy Story 5” easily claimed Friday’s box office crown wit
-
-📎 [阅读原文](https://variety.com/2026/film/box-office/box-office-toy-story-5-disclosure-day-obsession-1236786188/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Halo: Campaign Evolved Split-Screen Co-Op on PS5 Requires PlayStation Plus for Both Players
+### 1. Stranger Than Heaven Second-Take Preview: Stranger Than Heaven’s Combat Seems Harder Than Hell, and that’s a Good Thing
 
-[原文] If you plan on hopping into Halo: Campaign Evolved split-screen co-op when it launches for PS5 next month, you'll need not just one but two accounts with PlayStation Plus subscriptions to play.
+[原文] Stranger Than Heaven's flexible fighting system feels like an increase in challenge from the standard Like a Dragon brawling, but that feels like a good indication that RGG Studio isn't content to mer
 
-📎 [阅读原文](https://www.ign.com/articles/halo-campaign-evolved-split-screen-co-op-on-ps5-requires-playstation-plus-for-both-players) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/stranger-than-heaven-second-take-preview-stranger-than-heavens-combat-seems-harder-than-hell-and-thats-a-good-thing) — *IGN*
 
-### 2. Ubisoft Co-Founder Claude Guillemot Dead at 69 After Plane Crash in France
+### 2. X-Men Star Famke Janssen Thinks Marvel 'Made a Mistake' By Not Bringing Her Jean Grey Back for Avengers: Doomsday
 
-[原文] Claude Guillemot, one of five co-founders behind Assassin's Creed publisher Ubisoft, has died in a plane crash.
+[原文] X-Men star Famke Janssen has said that Marvel Studios "made a mistake" by neglecting to send her an invitation to reprise her role as Jean Grey in Avengers: Doomsday.
 
-📎 [阅读原文](https://www.ign.com/articles/ubisoft-co-founder-claude-guillemot-dead-at-69-after-plane-crash-in-france) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/x-men-star-famke-janssen-thinks-marvel-made-a-mistake-by-not-bringing-her-jean-grey-back-for-avengers-doomsday) — *IGN*
 
-### 3. Out of Words Is an Artistic, Handmade Breath of Fresh Air | IGN Preview
+### 3. Epic Games Store Roadmap Promises 5x Faster Boot Times, User Reviews, and More
 
-[原文] In a time where AI is insidiously seeping into almost everything around us, even our video games, completely 100% handmade art made with heart is becoming almost novel. That’s why I was drawn to Out o
+[原文] The Epic Games Store will soon receive many long-requested features and a major launcher redesign if a newly revealed roadmap pans out accordingly.
 
-📎 [阅读原文](https://www.ign.com/articles/out-of-words-is-an-artistic-handmade-breath-of-fresh-air-ign-preview) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/epic-games-store-roadmap-promises-5x-faster-boot-times-user-reviews-and-more) — *IGN*
 
-### 4. Sea of Remnants Is Like a Puppet-Punk Persona at Sea | IGN Preview
+### 4. The GTPLAYER Big and Tall Gaming Chair Drops to Less Than $160 Ahead of Amazon Prime Day
 
-[原文] Sea of Remnants is a gorgeous, open-world fantasy RPG set in a world of ocean exploration and piracy. Already the vibrant colors and music create a spectacle tugging at my heartstrings. Up close, ever
+[原文] This is an awesome gift for big and tall dads, as long as he's okay with slightly belated delivery.
 
-📎 [阅读原文](https://www.ign.com/articles/sea-of-remnants-is-like-a-puppet-punk-persona-at-sea-ign-preview) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/gtplayer-big-and-tall-gaming-chair-deal-amazon-fathers-day-sale) — *IGN*
 
-### 5. The 5 Coolest Handheld Gaming PC Accessories You Can Get This Month
+### 5. Bambu 3D Printers Are on Sale at Best Buy Ahead of Amazon Prime Day
 
-[原文] From XR glasses to supercharged gaming docks, you don't want to miss out on these cool peripherals.
+[原文] There's no better time to upgrade your 3D printer obsession.
 
-📎 [阅读原文](https://www.ign.com/articles/the-5-coolest-handheld-gaming-pc-accessories-you-can-get-this-month) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/bambu-lab-3d-printer-deals-best-buy-prime-day-sale) — *IGN*
 
 ---
 
@@ -477,35 +477,35 @@ The post Deal Hunter Intel: The Secret List of Stuff Amaz
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Karak Chai, Luxury Retail, and the Invisible Millions of the Gulf Hub Airports: An Audio Essay
+### 1. World Cup Week 1: Boosting Hotel Revenue, But Occupancy Lags
+
+[原文] The global soccer tournament is juicing revenue per available room, even if it’s not delivering the occupancies hotels had been expecting.
+
+📎 [阅读原文](https://skift.com/2026/06/20/world-cup-hotel-revenue-occupancy/) — *Skift*
+
+### 2. Karak Chai, Luxury Retail, and the Invisible Millions of the Gulf Hub Airports: An Audio Essay
 
 [原文] The largest purpose-driven travel flow on earth passes through the most commercially aspirational spaces on earth, and the dissonance is jarring if you stop long enough to watch who is actually walkin
 
 📎 [阅读原文](https://skift.com/2026/06/20/my-audio-essay-karak-chai-luxury-retail-and-the-invisible-millions-of-the-gulf-hubs/) — *Skift*
 
-### 2. Air New Zealand’s Tech-Savvy CEO on AI and the Limits of the Machine
+### 3. Air New Zealand’s Tech-Savvy CEO on AI and the Limits of the Machine
 
 [原文] An AI-powered airline is a fine ambition – but it won't touch the fuel price, the grounded engines, or the weak Kiwi dollar doing the real damage. Ravishankar's edge is that he seems to know it.
 
 📎 [阅读原文](https://skift.com/2026/06/19/air-new-zealands-tech-savvy-ceo-on-ai-and-the-limits-of-the-machine/) — *Skift*
 
-### 3. Grab Says Its Travel Strategy Isn’t About Hotels or Flights, It’s About Knowing What You’ll Need Next
+### 4. Grab Says Its Travel Strategy Isn’t About Hotels or Flights, It’s About Knowing What You’ll Need Next
 
 [原文] Grab says it isn't competing with the region’s travel platforms. But what it is building may be more disruptive than direct competition.
 
 📎 [阅读原文](https://skift.com/2026/06/19/grab-says-its-travel-strategy-isnt-about-hotels-or-flights-its-about-knowing-what-youll-need-next/) — *Skift*
 
-### 4. Airbnb Moves Into Fintech With a Cancel-for-Any-Reason Feature
+### 5. Airbnb Moves Into Fintech With a Cancel-for-Any-Reason Feature
 
 [原文] Airbnb is selling peace of mind to guests, giving assurances to hosts, and potentially debuting a new fintech revenue stream that’s been so successful for Hopper. The issue is whether this will furthe
 
 📎 [阅读原文](https://skift.com/2026/06/18/airbnb-moves-into-fintech-with-a-hopper-like-cancel-for-any-reason-feature/) — *Skift*
-
-### 5. The Best Luxury Experiences Leave Some Slack in the System
-
-[原文] The marketing from luxury's top brands has blurred into one seamless, forgettable product. The operators pulling away are the ones who figured out that friction is the point.
-
-📎 [阅读原文](https://skift.com/2026/06/18/the-best-luxury-experiences-leave-some-slack-in-the-system/) — *Skift*
 
 ---
 
