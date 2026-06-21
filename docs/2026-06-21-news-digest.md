@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年06月21日** | 生成时间: 2026-06-21 12:45
+**2026年06月21日** | 生成时间: 2026-06-21 17:56
 
 ---
 
@@ -30,7 +30,7 @@
 
 ### 3. Lebanese turtle conservationist Mona Khalil killed by Israeli strike
 
-[原文] Mona Khalil, who had refused to leave the beach she had spent years protecting, died from her injuries after the Israeli strike.
+[原文] Mona Khalil, who had refused to leave the beach she had spent years protecting, died after several days in hospital, an environmental group said.
 
 📎 [阅读原文](https://www.bbc.com/news/articles/cwylx1vq18zo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
@@ -40,11 +40,11 @@
 
 📎 [阅读原文](https://www.bbc.com/news/articles/cvgqv8q1ndpo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Meloni tells Trump to 'focus on your own popularity' as row escalates
+### 5. Former Olympian denies vandalising Washington Reflecting Pool after arrest
 
-[原文] The US president earlier questioned Meloni's popularity after suggesting she "begged" for a photo at G7 summit
+[原文] Davey Hearn says he was simply touching the new paint at the site out of curiosity and did not remove or alter it.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/cgqj77909jpo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.com/news/articles/c8d26051vv2o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,9 +54,9 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Iran reportedly closes Strait of Hormuz again as Vance heads to Switzerland for talks
+### 1. Vance arrives in Switzerland for talks with Iranian negotiators amid rising Strait of Hormuz tensions
 
-[原文] Iran's joint military command said the closure was in response to continued Israeli military operations in Lebanon.
+[原文] Iran's military said it had closed the Strait of Hormuz in response to continued Israeli military strikes in Lebanon; the U.S. said it remains open.
 
 📎 [阅读原文](https://www.cnbc.com/2026/06/20/iran-reportedly-closes-strait-of-hormuz-again-raising-doubt-over-talks.html) — *CNBC*
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Follow live: Ayase Ueda's powerful strike extends ...
+### 1. If anyone can catch Wyndham Clark at the 2026 U.S....
 
-[原文] null
+[原文] Scheffler is six shots back heading into Sunday, which might seem insurmountable. But he's in the final group with Clark and has a chance to do something historic.
 
-📎 [阅读原文](https://www.espn.com/soccer/match/_/gameId/760449) — *ESPN*
+📎 [阅读原文](https://www.espn.com/golf/story/_/id/49129497/wyndham-clark-2026-us-open-scottie-scheffler-shinnecock) — *ESPN*
 
-### 2. Schwarber's 3 HRs, Harper's cycle propel Phillies
+### 2. Clark finishes strong and more from the third roun...
 
-[原文] Kyle Schwarber hit three home runs and Bryce Harper became the 11th player in franchise history to hit for the cycle as the Phillies beat the Mets 15-3 on Saturday night.
+[原文] Here's a look back at the highlights from the third round of the 2026 U.S. Open at Shinnecock Hills Golf Club.
+
+📎 [阅读原文](https://www.espn.com/golf/story/_/id/49119510/us-open-2026-third-round-sights-sounds-best-shots) — *ESPN*
+
+### 3. Schwarber's 3 HRs, Harper's cycle propel Phillies
+
+[原文] Kyle Schwarber hit three home runs, and Bryce Harper became the 11th player in franchise history to hit for the cycle as the Phillies beat the Mets 15-3 on Saturday night.
 
 📎 [阅读原文](https://www.espn.com/mlb/story/_/id/49131252/schwarber-homers-twice-inning-harper-hits-cycle) — *ESPN*
 
-### 3. Ivory Coast boss slams Germany's 'lack of fair pla...
+### 4. Ivory Coast boss slams Germany's 'lack of fair pla...
 
 [原文] Ivory Coast head coach Emerse Faé has criticized what he said was a lack of fair play from Germany during his team's 2-1 World Cup defeat on Saturday at BMO Field.
 
 📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49130449/ivory-coast-coach-germany-emerse-fae-nathaniel-brown-fifa-world-cup) — *ESPN*
 
-### 4. Curaçao GK ties Howard's WC save record in draw
+### 5. Curaçao GK ties Howard's WC save record in draw
 
 [原文] Curaçao goalkeeper Eloy Room made 15 saves to equal the World Cup record and help earn the island nation its first-ever World Cup point with a 0-0 draw against heavily favored Ecuador on Saturday.
 
 📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49131334/curacao-goalkeeper-eloy-room-tim-howard-world-cup-save-record) — *ESPN*
-
-### 5. Clark keeps hot pace, now up 6 shots at U.S. Open
-
-[原文] Wyndham Clark shot an even-par 70 and will take a six-shot lead into the final round as he pursues his second U.S. Open title Sunday at Shinnecock Hills.
-
-📎 [阅读原文](https://www.espn.com/golf/story/_/id/49130791/clark-keeps-hot-pace-takes-6-shot-lead-us-open-final-round) — *ESPN*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘Minions & Monsters’ Director Pierre Coffin on His Tribute to Hollywood, the Exhausting Work of Voicing the Yellow Creatures and Crafting Comedy That’s ‘More Irreverent Than Some of the Competition’
+### 1. Viu CEO Says Nearly 20% of Long-Form Users Now Watch Microdrama as Streamer Expands Branded Content and Co-Production Push
 
-[原文] Pierre Coffin thought he was done with the Minions. After nearly two decades inside the “Despicable Me” universe — the highest-grossing animated franchise of all time, with more than $5.5 billion worl
+[原文] Viu CEO and PCCW Media group managing director Janice Lee said close to 20% of the platform&#8217;s long-form user base is already consuming microdrama content – and the format only launched a few mon
 
-📎 [阅读原文](https://variety.com/2026/film/global/minions-monsters-director-pierre-coffin-hollywood-voicing-1236785989/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/viu-microdrama-users-branded-content-kocca-apos-2026-1236786528/) — *Variety*
 
-### 2. How to Watch Oscar Collazo vs. Joey Canoy Boxing Title Bout Live Online
+### 2. Spanish Filmmaker Carlos Saiz’s Intimate Father-Son Drama ‘Lionel’ Wins Top Prize at Transilvania Film Festival
 
-[原文] In a title bout for the championship, Puerto Rican Oscar Collazo takes on Filipino boxer Joey Canoy in a 12-round match. What&#8217;s on the line? Collazo&#8217;s WBA and WBO strawweight title belts. 
+[原文] Spanish filmmaker Carlos Saiz took home the top prize Saturday at the Transilvania Intl. Film Festival, as the jury awarded the first-time director the Transilvania Trophy for “Lionel,”&#160;a drama a
 
-📎 [阅读原文](https://variety.com/2026/shopping/news/how-to-watch-oscar-collazo-vs-joey-canoy-boxing-live-online-1236783466/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/carlos-saiz-lionel-transilvania-film-festival-1236786464/) — *Variety*
 
-### 3. Jennifer Aniston Posts Heartfelt Tribute to ‘Friends’ Director James Burrows: ‘He Was a Father Figure to Me’
+### 3. ‘The Fear’s Artist,’ ‘We Won’t Get Old Together’ Win Big at Transilvania Industry Awards
 
-[原文] Jennifer Aniston posted a heartfelt tribute to her longtime “Friends” director James Burrows, who died on Friday at 85 years old. “Papa Burrows. The hardest thing about writing this is that you spent 
+[原文] Cristi Iftime’s “The Fear’s Artist” and Marius Olteanu’s “We Won’t Get Old Together” won big at the industry awards ceremony of the Transilvania Intl. Film Festival, with the two Romanian projects fro
 
-📎 [阅读原文](https://variety.com/2026/tv/news/jennifer-aniston-tribute-friends-director-james-burrows-1236786442/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/the-fears-artist-we-wont-get-old-together-transilvania-1236786470/) — *Variety*
 
-### 4. George Lucas Has a Voice Role in ‘Minions & Monsters’
+### 4. Yash’s ‘Toxic’ Set for August Release During Extended Holiday Window
 
-[原文] Illumination founder Chris Meledandri recently told Collider that George Lucas voices a character in “Minions &#38; Monsters,” which hits theaters on July 1. “I had this privilege of meeting George ab
+[原文] &#8220;Toxic: A Fairytale for Grown-Ups&#8221; will arrive in theaters worldwide on Aug. 26, positioning Indian star and producer Yash&#8217;s forthcoming action drama during an extended festive corri
 
-📎 [阅读原文](https://variety.com/2026/film/news/george-lucas-role-minions-and-monsters-illumination-1236786427/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/yashs-toxic-august-release-1236786521/) — *Variety*
 
-### 5. Olivia Wilde Says Pamela Anderson Helped Her Through ‘Don’t Worry Darling’ Drama: ‘The Pummeling That I Took Was So Insanely Disproportionate’
+### 5. Zhang Songwen’s ‘Secret in the Box’ Brings Infamous Hong Kong Murder Case to Shanghai Competition
 
-[原文] Olivia Wilde recently told the “Call Her Daddy” podcast that Pamela Anderson helped her through the release of her 2022 film “Don’t Worry Darling,” which was plagued with rumors of disarray in the dir
+[原文] &#8220;Secret in the Box,&#8221; a period thriller revisiting Hong Kong&#8217;s 1974 Happy Valley Box Murder, held its press conference at the 28th Shanghai International Film Festival, with director 
 
-📎 [阅读原文](https://variety.com/2026/film/news/olivia-wilde-pamela-anderson-dont-worry-darling-drama-1236786418/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/zhang-songwen-secret-in-the-box-hong-kong-murder-shanghai-1236786514/) — *Variety*
 
 ---
 
@@ -363,35 +363,35 @@ The post Deal Hunter Intel: The Secret List of Stuff Amaz
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Planning For Life After Coal Cost a Montana County Commissioner His Seat
+### 1. Greenpeace’s Dutch Anti-SLAPP Case Against Oil Pipeline Giant Advances
+
+[原文] A lawsuit filed by Greenpeace International against the U.S.-based fossil fuel company Energy Transfer in the Netherlands is moving forward after a Dutch court recently ruled in favor of the environme
+
+📎 [阅读原文](https://insideclimatenews.org/news/21062026/greenpeace-anti-slapp-lawsuit-against-energy-transfer/) — *Inside Climate News*
+
+### 2. The Search for Super Reefs
+
+[原文] The world has already lost more than half of its coral reefs, and most of what remains is at risk of disappearing in the next 25 years. But new research offers a ray of hope: Even as hotter temperatur
+
+📎 [阅读原文](https://insideclimatenews.org/news/21062026/icn-sunday-morning-super-reefs/) — *Inside Climate News*
+
+### 3. Planning For Life After Coal Cost a Montana County Commissioner His Seat
 
 [原文] Robert Pancratz couldn’t believe it.&#160; The Musselshell County commissioner had been defeated in the Republican primary for his seat by a two-to-one margin earlier this month. Mark Olson, who lives
 
 📎 [阅读原文](https://insideclimatenews.org/news/20062026/montana-musselshell-county-fiscal-future/) — *Inside Climate News*
 
-### 2. El Niño Is Here and Will Have ‘Big Consequences’ for Global Weather
+### 4. El Niño Is Here and Will Have ‘Big Consequences’ for Global Weather
 
 [原文] From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Jenni Doering with author Kevin Trenberth. El Niño is a phenomenon every few years in which 
 
 📎 [阅读原文](https://insideclimatenews.org/news/20062026/el-nino-could-bring-strong-storms-and-increase-wildfire-risks/) — *Inside Climate News*
 
-### 3. James Bruggers, Who Brought Passion and Kindness to Environmental Reporting, Dies at 68
+### 5. James Bruggers, Who Brought Passion and Kindness to Environmental Reporting, Dies at 68
 
 [原文] James Bruggers, whose decades of dogged reporting shined a light on polluting corporations, inadequate regulations and the people who fought against them for environmental justice, died Tuesday at a h
 
 📎 [阅读原文](https://insideclimatenews.org/news/19062026/environmental-journalism-watchdog-james-bruggers-dies-at-68/) — *Inside Climate News*
-
-### 4. Green Economy Hits $10 Trillion in Market Value
-
-[原文] The group of companies that derive significant revenue from environmental solutions, known as the green economy, has topped $10 trillion in market value, a new report found. That milestone was tied to
-
-📎 [阅读原文](https://insideclimatenews.org/news/19062026/green-economy-hits-10-trillion-in-market-value/) — *Inside Climate News*
-
-### 5. Alabama Limestone Quarry Settles Lawsuit Over Dust, Noise
-
-[原文] Residents of the small north Alabama community of Belle Mina are breathing easier after reaching a settlement with a limestone quarry they say was disrupting their homes and places of worship.&#160; T
-
-📎 [阅读原文](https://insideclimatenews.org/news/18062026/alabama-limestone-quarry-settlement/) — *Inside Climate News*
 
 ---
 
