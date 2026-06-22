@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年06月22日** | 生成时间: 2026-06-22 12:52
+**2026年06月22日** | 生成时间: 2026-06-22 20:12
 
 ---
 
@@ -16,7 +16,7 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. First round of US-Iran talks end with 'encouraging progress', mediators say
+### 1. First round of US-Iran talks ends with encouraging progress, mediators say
 
 [原文] The US-Iran talks began on Sunday in Switzerland, after last week's agreement, which includes a commitment to reach a final deal within 60 days.
 
@@ -28,23 +28,23 @@
 
 📎 [阅读原文](https://www.bbc.com/news/articles/clye4ky2yzpo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Russian troop build-up threatens city seen as key to seizing Ukraine's Donbas
+### 3. Largest ever cocaine bust in Australia after police raid underground bunker
+
+[原文] Police seized 2.7 tonnes of cocaine worth an estimated A$816m after searching a property in western Sydney.
+
+📎 [阅读原文](https://www.bbc.com/news/articles/c14ygjzr8j7o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. Russian troop build-up threatens city seen as key to seizing Ukraine's Donbas
 
 [原文] If Kostyantynivka falls, Russian forces would be able push towards Ukraine's last remaining strongholds in the east.
 
 📎 [阅读原文](https://www.bbc.com/news/articles/c9w2g0ewk95o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. The BTS fans losing thousands as scammers cash in on comeback tour ticket war
+### 5. Alan Greenspan, architect of the modern American economy, dies aged 100
 
-[原文] As ticket demand outstrips supply by a ratio of 15 to one, desperate fans have become easy targets.
+[原文] As chairman of the Federal Reserve, Alan Greenspan became the world's most high-profile banker.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/cdr45nrr2jyo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Cape Verde fan goes wild live on BBC News as his country scores
-
-[原文] During a live BBC News broadcast, reporter Paul Njie interviews a Cape Verde fan when the country suddenly scores its first ever World Cup goal against Uruguay in the 2026 World Cup.
-
-📎 [阅读原文](https://www.bbc.com/sport/football/videos/cyv0n4g6p77o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.com/news/articles/cjer7x7yl12o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. U.S., Iran agree on roadmap for final deal and plan to end military operations in Lebanon
+### 1. Vance hails 'great progress' in U.S.-Iran talks despite 'threatening' and 'whining'
 
-[原文] The talks were the first round of negotiations under a memorandum of understanding signed last week, which extended a tenuous ceasefire by 60 days.
+[原文] JD Vance said U.S.-Iran talks in Switzerland made progress, with Tehran agreeing to allow IAEA inspectors back into Iran.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/22/us-iran-roadmap-final-deal-switzerland-talks-lebanon-deconfliction.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/22/ance-iran-ceasefire-talks-iaea-inspectors.html) — *CNBC*
 
-### 2. Brent crude slips as Qatar, Pakistan announce 60-day roadmap for U.S.-Iran deal
+### 2. Alan Greenspan, former chairman of the Fed, dies at age 100
 
-[原文] Oil prices fluctuated on Monday after U.S. President Donald Trump threatened renewed military action against Iran.
+[原文] Alan Greenspan presided over the Federal Reserve for 19 years under four presidents and mastered the art of obfuscation known as Fedspeak.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/22/oil-prices-wti-brent-crude-trump-iran-threat-strait-hormuz-closure.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/22/alan-greenspan-former-chairman-of-the-fed-dies-at-age-100.html) — *CNBC*
 
-### 3. China imposes trade curbs on dozens of U.S. firms in retaliation for Pentagon blacklist
+### 3. UK PM Starmer resigns as Britain faces its seventh leader in 10 years
 
-[原文] The Pentagon earlier this month updated its so-called 1260H list by adding a slew of Chinese technology companies to a roster of entities it believes have aided Beijing's military.
+[原文] Keir Starmer said he will resign as U.K. prime minister and Labour leader, triggering a contest to choose his successor.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/22/china-trade-curbs-us-companies-export-controls-procurement-exclusion-pentagon-list-.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/22/keir-starmer-resigns-uk-prime-minister.html) — *CNBC*
 
-### 4. 'Regime change but in a velvet glove': How Kevin Warsh has set out to remake the Fed
+### 4. Chevron to fuel massive Microsoft data center in Texas with natural gas
 
-[原文] The first big announced changes point toward a quiet revolution, with task forces set up to rethink virtually everything done at the Fed.
+[原文] Microsoft's embrace of natural gas shows it is willing to invest in a fossil fuel to meet the power demand from its data centers.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/21/how-kevin-warsh-has-set-out-to-remake-the-fed.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/22/chevron-cvx-microsoft-msft-natural-gas-data-center.html) — *CNBC*
 
-### 5. Here are 3 big things to watch in the stock market this coming week
+### 5. CNBC Elite Advisors: Top ultra-high net worth wealth management firms for 2026
 
-[原文] FedEx reports earnings, and the Fed's preferred inflation gauge is due out.
+[原文] CNBC Elite Advisors recognizes wealth management firms serving high net worth and UHNW clients.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/21/here-are-3-big-things-to-watch-in-the-stock-market-this-coming-week.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/22/uhnw-wealth-management-list-cnbc-elite-advisors.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Ubisoft co-founder Claude Guillemot dies in plane crash
+### 1. Ethan Thornton is trying to do everything all at once
+
+[原文] Mach's approach differs sharply from some of its peers.
+
+📎 [阅读原文](https://techcrunch.com/2026/06/21/ethan-thornton-is-trying-to-do-everything-all-at-once/) — *TechCrunch*
+
+### 2. Ubisoft co-founder Claude Guillemot dies in plane crash
 
 [原文] Claude Guillemot, who founded Ubisoft with his four brothers, has died at the age of 69.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/21/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash/) — *TechCrunch*
 
-### 2. Polymarket reportedly paid creators to post deceptive videos about fake bets
+### 3. Polymarket reportedly paid creators to post deceptive videos about fake bets
 
 [原文] Many of those videos were reportedly filmed on “near-perfect copies” of the Polymarket website, while featuring trades and winnings that were not real.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/) — *TechCrunch*
 
-### 3. TechCrunch Mobility: A new robotaxi scorecard shows China’s dominance
+### 4. TechCrunch Mobility: A new robotaxi scorecard shows China’s dominance
 
 [原文] Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/21/techcrunch-mobility-a-new-robotaxi-scorecard-shows-chinas-dominance/) — *TechCrunch*
 
-### 4. When the Trump administration cracks down on Anthropic, who benefits?
+### 5. When the Trump administration cracks down on Anthropic, who benefits?
 
 [原文] On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/) — *TechCrunch*
-
-### 5. Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27
-
-[原文] Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27.
-
-📎 [阅读原文](https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Salah's World Cup nightmare ends as he fires Egypt to historic win
+### 1. Madueke's remarkable season - from petition to World Cup starter
 
-[原文] Mohamed Salah's World Cup nightmares finally end as he helps fire Egypt to their first ever win at the tournament - 92 years on from their tournament debut.
+[原文] Noni Madueke has gone from fans protesting against him signing for Arsenal to England World Cup starter. BBC Sport look at his rollercoaster season.
 
-📎 [阅读原文](https://www.bbc.com/sport/football/articles/c17yn5y977yo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.com/sport/football/articles/c5yz2xyvd1zo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. One of World Cup's great stories - can Cape Verde extend dream run?
+### 2. A defender's view on how to stop the World Cup's best strikers
 
-[原文] Cape Verde's impressive World Cup continues with a draw against two-time winners Uruguay - and they will now be looking to make the last 32.
+[原文] Lionel Messi, Kylian Mbappe, Erling Haaland and Harry Kane look to be on lethal form in this World Cup. So how can you stop them in their tracks?
 
-📎 [阅读原文](https://www.bbc.com/sport/football/articles/c0qylwk421eo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.com/sport/football/articles/cly8gpp39d0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Clark blocks out New York jeers to win US Open title
+### 3. Giant slalom to Grand Slams - the making of Jannik Sinner
 
-[原文] Wyndham Clark says "New York didn't really like me" after dealing with jeers from the fans to win a second US Open title.
+[原文] Jannik Sinner is the world's best tennis player. This is the journey that forged a champion.
 
-📎 [阅读原文](https://www.bbc.com/sport/golf/articles/c621w7pg5gqo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/extra/v5ergq8rop/the-making-of-Jannik-Sinner?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Saka trains with England squad before Ghana match
+### 4. Iran leave note asking for peace after Belgium draw
 
-[原文] Bukayo Saka trains with the England squad to provide a fitness boost to Thomas Tuchel before their second World Cup match against Ghana.
+[原文] Iran leave a message saying "may peace, respect and friendship prevail among all nations" following their World Cup group game with Belgium.
 
-📎 [阅读原文](https://www.bbc.com/sport/football/articles/c8e21d5w0pjo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.com/sport/football/articles/cwy0ppqx1p9o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Serena Williams to make singles comeback at Wimbledon
+### 5. How football united behind Doku after childbirth criticism
 
-[原文] Serena Williams will make a surprise return to singles action at Wimbledon later this month after accepting a wildcard.
+[原文] Jeremy Doku wants to fly home to attend the birth of his first child - but why has that proved controversial in some quarters?
 
-📎 [阅读原文](https://www.bbc.com/sport/tennis/articles/cn8kz0vm4d2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.com/sport/football/articles/cly01kjqdnpo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Indian Kids’ IP Brand Behind ‘Emomee’ Rolls Out First Animated Series (EXCLUSIVE)
+### 1. Timothée Chalamet and Selena Gomez to Star in Animated Alien Movie ‘Not Alone’ From Illumination
 
-[原文] Indian children&#8217;s entertainment company Emomee has unveiled its debut original animated series &#8220;Emomee,&#8221; introducing three characters – E, Mo and Mee – who guide young viewers throug
+[原文] Timothée Chalamet and Selena Gomez are teaming up on a new alien-themed animated film from Illumination, titled &#8220;Not Alone.&#8221; In his animation debut, Chalamet will voice Joe, an &#8220;intr
 
-📎 [阅读原文](https://variety.com/2026/tv/news/emomee-kids-animated-series-india-1236786718/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/timothee-chalamet-selena-gomez-animated-film-not-alone-1236787110/) — *Variety*
 
-### 2. ‘Minions & Monsters’ Review: The Canary-Colored Critters’ Latest Starring Vehicle Goes Back to Early Hollywood, and Hits a Creative High
+### 2. Warner Bros. Announces ‘Hazbin Hotel’ Creator Feature Debut ‘Prehistoria’ and ‘Bad Fairies’ Additional Voice Cast
 
-[原文] From &#8220;Sunset Boulevard&#8221; to &#8220;The Artist,&#8221; &#8220;Singin&#8217; in the Rain&#8221; to &#8220;Babylon,&#8221; Hollywood&#8217;s transition to sound cinema has long been a fertile 
+[原文] As Annecy Animation Festival attendees try to avoid the scorching sun as much as they can, Warner Bros. Pictures Animation turned up the heat today in its 2026 Annecy Showcase, with both new titles an
 
-📎 [阅读原文](https://variety.com/2026/film/reviews/minions-and-monsters-review-1236786767/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/hazbin-hotel-prehistoria-bad-fairies-warner-bros-annecy-1236786805/) — *Variety*
 
-### 3. ‘The Way Home’ Bosses on Purposefully Leaving Some Questions Unanswered in Bittersweet Series Finale While Also Providing ‘Closure’ for Fans
+### 3. F.W. Murnau’s Silent Classic ‘Sunrise: A Song of Two Humans’ Opens Italy’s Il Cinema Ritrovato Festival With Definitive Restoration and Live Orchestra
 
-[原文] SPOILER ALERT: This post contains spoilers from “Ahead By a Century,” the series finale of Hallmark’s “The Way Home,” streaming on Hallmark+. &#8220;The Way Home&#8221; is saying goodbye after four se
+[原文] The definitive restoration of F.W. Murnau’s silent classic “Sunrise: A Song of Two Humans” opened the 40th edition of Italy’s Il Cinema Ritrovato Festival on Saturday, with some 7,000 spectators packi
 
-📎 [阅读原文](https://variety.com/2026/tv/news/the-way-home-series-finale-elliott-survives-jacob-abby-married-1236786048/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/f-w-murnau-sunrise-cinema-ritrovato-festival-1236786911/) — *Variety*
 
-### 4. ‘The Vampire Lestat:’ Star Sam Reid, Creator On Staging Their Favorite Song of the Season and Then Getting the ‘F— Out of the Way’
+### 4. Jeremy Clarkson Says He’s in Remission From Cancer: ‘Officially the World’s Luckiest Man’
 
-[原文] SPOILER ALERT: This post contains spoilers from “Toronto,” the third episode of “The Vampire Lestat,” now streaming on AMC+. Don’t say Lestat de Lioncourt never gave you anything. He just doesn’t let 
+[原文] &#8220;Top Gear&#8221; and &#8220;Clarkson&#8217;s Farm&#8221; star Jeremy Clarkson is officially in remission from cancer. Last week, it was revealed on an episode of &#8220;Clarkson&#8217;s Farm&#82
 
-📎 [阅读原文](https://variety.com/2026/tv/news/the-vampire-lestat-nicky-backstory-magnus-the-loneliness-converge-1236785087/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/global/jeremy-clarkson-in-remission-cancer-1236787045/) — *Variety*
 
-### 5. ‘House of the Dragon’ Actor on [SPOILER]’s Watery Death in Season 3 Premiere: It Was ‘Challenging Trying to Keep My Eyes Open’
+### 5. Canada’s National Film Board Unveils Exhibition at Annecy’s New Animated Film Museum (EXCLUSIVE)
 
-[原文] SPOILER ALERT: This article contains spoilers for the Season 3 premiere of &#8220;House of the Dragon,&#8221; now streaming on HBO Max. &#8220;House of the Dragon&#8221; is back, with another main cha
+[原文] The new Musée du cinéma d’animation (Museum of Animated Film) in Annecy, France, is featuring a collection of films and artifacts from the National Film Board of Canada (NFB), with many of the iconic 
 
-📎 [阅读原文](https://variety.com/2026/tv/news/house-of-the-dragon-jace-dies-battle-gullet-season-3-premiere-1236783257/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/annecy-animated-film-museum-nfb-canada-1236786865/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Rick and Morty Season 9, Episode 5 Review: "Jer Bud"
+### 1. Dbrand Is Now Taking Orders for Its Steam Machine Companion Cube Case, Ships in "Late July"
 
-[原文] A wildly entertaining Jerry subplot helps cancel out a disappointingly bland main storyline in the latest episode of Rick and Morty. Read our full review.
+[原文] Dbrand is now officially selling its Portal-themed Companion Cube case for Valve's yet unreleased Steam Machine, shipping in "Late July".
 
-📎 [阅读原文](https://www.ign.com/articles/rick-and-morty-season-9-episode-5-review-recap) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/dbrand-portal-companion-cube-steam-machine-case-where-to-buy) — *IGN*
 
-### 2. House of the Dragon Made Major Changes to the Battle of the Gullet Compared to the Book
+### 2. Toy Story 5 Expodes at the Box Office, but Disclosure Day Is Struggling
 
-[原文] The Battle of the Gullet, which spans barely four pages in George R.R. Martin’s book Fire & Blood, is a 25-minute action sequence in the Season 3 premiere of House of the Dragon. The show made some ma
+[原文] Toy Story 5 had an enormous start at the global box office, setting a franchise record. Steven Spielberg's Disclosure Day, however, is having a tough time.
 
-📎 [阅读原文](https://www.ign.com/articles/house-of-the-dragon-season-3-battle-of-gullet-book-differences) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/toy-story-5-expodes-at-the-box-office-but-disclosure-day-is-struggling) — *IGN*
 
-### 3. House of the Dragon Season 3, Episode 1 Review
+### 3. Toy Story 5 Almost Featured a Drastically Different Ending, With Huge Emotional Stakes for Jessie
 
-[原文] Review: Pirates! Dragons! Ships! Fire! Betrayal, chaos, death and destruction... House of the Dragon's Season 3 premiere has it all.
+[原文] Toy Story 5 could have featured a drastically different ending for Jessie, as seen in scrapped concept art.
 
-📎 [阅读原文](https://www.ign.com/articles/house-of-the-dragon-season-3-episode-1-review) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/toy-story-5-almost-featured-a-drastically-different-ending-with-huge-emotional-stakes-for-jessie) — *IGN*
 
-### 4. The Vampire Lestat Showrunner Admits Changing Anne Rice’s Source Material in This Week’s Episode Will Probably Be a ‘Little Disappointing’ to Fans
+### 4. Nintendo Slashes Price on Tears of the Kingdom's Switch 2 Edition for the First Time
 
-[原文] In "Toronto," The Vampire Lestat Season 3's third episode, showrunner Rolin Jones explains that while changing Anne Rice’s source material will probably be a "little disappointing" to fans, it was imp
+[原文] A rare first-party Nintendo discount just went live: The Legend of Zelda: Tears of the Kingdom is heavily marked down for Amazon Prime Day for players on both the original Switch and the new Switch 2.
 
-📎 [阅读原文](https://www.ign.com/articles/the-vampire-lestat-anne-rice-changes-disappointing-fans-episode-3-toronto) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/zelda-tears-of-the-kingdom-amazon-prime-day-2026) — *IGN*
 
-### 5. Sesame Street Movie in the Works at Netflix Following Bidding War
+### 5. Pokémon Stop-Motion Series Gets New Artwork and Details from Aardman
 
-[原文] Netflix has reportedly secured the rights for a Sesame Street movie following a bidding war with Universal Pictures.
+[原文] Aardman Animations and The Pokémon Company have revealed artwork and story details for their new stop-motion series, Pokémon Tales: The Misadventures of Sirfetch’d & Pichu.
 
-📎 [阅读原文](https://www.ign.com/articles/sesame-street-movie-in-the-works-at-netflix-following-bidding-war) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/pokemon-stop-motion-series-gets-new-artwork-and-details-from-aardman) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post Another State Makes UTVs Road Legal. Is That a Good Thing
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Greenpeace’s Dutch Anti-SLAPP Case Against Oil Pipeline Giant Advances
+### 1. How a Tiny Texas River Agency Plans to Build the Largest Desalination Plant in the Country
+
+[原文] This story was produced in partnership with the Texas Newsroom, the state’s network of public radio stations.&#160; Something moved John Byrum. He believed he could succeed where others had not.&#160;
+
+📎 [阅读原文](https://insideclimatenews.org/news/22062026/nueces-river-authority-plans-to-build-nations-largest-desalination-plant/) — *Inside Climate News*
+
+### 2. Environmental Defenders Remain Among World’s Most Targeted Activists
+
+[原文] Environmental and Indigenous rights defenders remained among the world’s most targeted human rights advocates in 2025, despite landmark rulings by international courts affirming governments’ obligatio
+
+📎 [阅读原文](https://insideclimatenews.org/news/22062026/environmental-defenders-are-increasingly-targeted/) — *Inside Climate News*
+
+### 3. The Water Is Rising in Chesapeake Bay. Can Tangier Island Be Saved?
+
+[原文] TANGIER, Va.— Terry Parks stood in the rear of a boat passing the western shore of Tangier Island.&#160; A native of this Chesapeake Bay island, he pointed to an area of bulky rocks with withered and 
+
+📎 [阅读原文](https://insideclimatenews.org/news/22062026/chesapeake-bay-tangier-island-sea-level-rise/) — *Inside Climate News*
+
+### 4. Greenpeace’s Dutch Anti-SLAPP Case Against Oil Pipeline Giant Advances
 
 [原文] A lawsuit filed by Greenpeace International against the U.S.-based fossil fuel company Energy Transfer in the Netherlands is moving forward after a Dutch court recently ruled in favor of the environme
 
 📎 [阅读原文](https://insideclimatenews.org/news/21062026/greenpeace-anti-slapp-lawsuit-against-energy-transfer/) — *Inside Climate News*
 
-### 2. The Search for Super Reefs
+### 5. The Search for Super Reefs
 
 [原文] The world has already lost more than half of its coral reefs, and most of what remains is at risk of disappearing in the next 25 years. But new research offers a ray of hope: Even as hotter temperatur
 
 📎 [阅读原文](https://insideclimatenews.org/news/21062026/icn-sunday-morning-super-reefs/) — *Inside Climate News*
-
-### 3. Planning For Life After Coal Cost a Montana County Commissioner His Seat
-
-[原文] Robert Pancratz couldn’t believe it.&#160; The Musselshell County commissioner had been defeated in the Republican primary for his seat by a two-to-one margin earlier this month. Mark Olson, who lives
-
-📎 [阅读原文](https://insideclimatenews.org/news/20062026/montana-musselshell-county-fiscal-future/) — *Inside Climate News*
-
-### 4. El Niño Is Here and Will Have ‘Big Consequences’ for Global Weather
-
-[原文] From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Jenni Doering with author Kevin Trenberth. El Niño is a phenomenon every few years in which 
-
-📎 [阅读原文](https://insideclimatenews.org/news/20062026/el-nino-could-bring-strong-storms-and-increase-wildfire-risks/) — *Inside Climate News*
-
-### 5. James Bruggers, Who Brought Passion and Kindness to Environmental Reporting, Dies at 68
-
-[原文] James Bruggers, whose decades of dogged reporting shined a light on polluting corporations, inadequate regulations and the people who fought against them for environmental justice, died Tuesday at a h
-
-📎 [阅读原文](https://insideclimatenews.org/news/19062026/environmental-journalism-watchdog-james-bruggers-dies-at-68/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post Another State Makes UTVs Road Legal. Is That a Good Thing
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. San Antonio Mayor Calls for Cancelation of Kanye West’s July 4th Alamodome Concert
+### 1. Olivia Rodrigo Scores Third No. 1 Album With ‘You Seem Pretty Sad for a Girl So in Love’
+
+[原文] The singer bested Drake for the highest album sales week of 2026 for a solo artist
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/olivia-rodrigo-number-one-album-chart-1235581149/) — *Rolling Stone*
+
+### 2. San Antonio Mayor Calls for Cancelation of Kanye West’s July 4th Alamodome Concert
 
 [原文] "Military City USA should not host someone with a record of hate speech and antisemitic comments in a city-funded facility like our Alamodome—not ever," Mayor Gina Ortiz Jones wrote
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/san-antonio-mayor-cancelation-kanye-west-july-4th-alamodome-1235581133/) — *Rolling Stone*
 
-### 2. Karma: Metallica’s Kirk Hammett Falls Off Stage Days After Enraging Swifties
+### 3. Karma: Metallica’s Kirk Hammett Falls Off Stage Days After Enraging Swifties
 
 [原文] A week after wearing a "Taylor Swift Is a CIA Psyop" shirt, guitarist plunges into crowd during band's Dublin concert
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/metallica-kirk-hammett-falls-off-stage-enraging-swifties-1235581120/) — *Rolling Stone*
 
-### 3. Fan Dies Following Fall From ‘Elevated Position’ at Goose’s Madison Square Garden Show
+### 4. Fan Dies Following Fall From ‘Elevated Position’ at Goose’s Madison Square Garden Show
 
 [原文] "We are deeply saddened and heartbroken to learn of the tragic event that occurred at tonight’s show," jam band says after 51-year-old man fell to death at sold-out show
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/fan-dies-fall-goose-madison-square-garden-show-1235581102/) — *Rolling Stone*
 
-### 4. Bobby Prince, Influential ‘Doom’ Video Game Composer, Dead at 81
+### 5. Bobby Prince, Influential ‘Doom’ Video Game Composer, Dead at 81
 
 [原文] In addition to scoring Wolfenstein 3D and Duke Nukem 3D, Prince's Doom music was added to Library of Congress' National Recording Registry in May
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/bobby-prince-doom-video-game-composer-dead-obituary-1235581084/) — *Rolling Stone*
-
-### 5. The Beatles’ Long-Lost First-Ever ‘Top of the Pops’ Performance Has Been Found
-
-[原文] Footage of the 1964 appearance, where the Fab Four played "Can’t Buy Me Love" and "You Can’t Do That," was erased from BBC archives, but British conservationists obtained 35mm footage
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/the-beatles-long-lost-first-ever-top-of-the-pops-footage-1235581073/) — *Rolling Stone*
 
 ---
 
@@ -528,6 +528,7 @@ The post Another State Makes UTVs Road Legal. Is That a Good Thing
 ## ⚠️ 今日故障源
 
 - **🚗 汽车**: Roadshow, Autocar
+- **✈️ 旅游**: Nomadic Matt, Travel Off Path
 
 ---
 
