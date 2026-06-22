@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年06月22日** | 生成时间: 2026-06-22 03:49
+**2026年06月22日** | 生成时间: 2026-06-22 12:52
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump and Iran's negotiator trade warnings as talks held in Switzerland
+### 1. First round of US-Iran talks end with 'encouraging progress', mediators say
 
-[原文] The US president, who is not at the talks, threatens to attack Iran if it does not restrain Hezbollah in Lebanon.
+[原文] The US-Iran talks began on Sunday in Switzerland, after last week's agreement, which includes a commitment to reach a final deal within 60 days.
 
 📎 [阅读原文](https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Fuel sales halted in occupied Crimea as Ukraine targets oil facilities
+### 2. Trump-backed political outsider wins Colombia election, initial count shows
 
-[原文] Fuel had already been rationed due to shortages caused by Kyiv's attacks against supply routes in Russian-occupied territories.
+[原文] Abelardo de la Espriella appears to have narrowly defeated his rival Iván Cepeda, who says the preliminary count is "not yet official or binding".
 
-📎 [阅读原文](https://www.bbc.com/news/articles/clyx2lk9d15o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.com/news/articles/clye4ky2yzpo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Ethiopia PM's party wins landslide as fears grow of new conflict
+### 3. Russian troop build-up threatens city seen as key to seizing Ukraine's Donbas
 
-[原文] Abiy Ahmed's party retains its huge majority despite unrest in several parts of Ethiopia and tensions with its neighbours.
+[原文] If Kostyantynivka falls, Russian forces would be able push towards Ukraine's last remaining strongholds in the east.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/cz750q5e3w3o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.com/news/articles/c9w2g0ewk95o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Half of France under red heat alert as alcohol banned at street music festival
+### 4. The BTS fans losing thousands as scammers cash in on comeback tour ticket war
 
-[原文] Temperatures are forecast to peak on Monday, and authorities warn they could match historic highs.
+[原文] As ticket demand outstrips supply by a ratio of 15 to one, desperate fans have become easy targets.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/cgmdw4vn7y2o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.com/news/articles/cdr45nrr2jyo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Colombia's escalating, brutal internal conflict is defining its presidential election
+### 5. Cape Verde fan goes wild live on BBC News as his country scores
 
-[原文] A left-wing senator who backs talks with armed gangs faces an outsider endorsed by Trump.
+[原文] During a live BBC News broadcast, reporter Paul Njie interviews a Cape Verde fan when the country suddenly scores its first ever World Cup goal against Uruguay in the 2026 World Cup.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/cvgqv8q1ndpo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.com/sport/football/videos/cyv0n4g6p77o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. 'Regime change but in a velvet glove': How Kevin Warsh has set out to remake the Fed
+### 1. U.S., Iran agree on roadmap for final deal and plan to end military operations in Lebanon
+
+[原文] The talks were the first round of negotiations under a memorandum of understanding signed last week, which extended a tenuous ceasefire by 60 days.
+
+📎 [阅读原文](https://www.cnbc.com/2026/06/22/us-iran-roadmap-final-deal-switzerland-talks-lebanon-deconfliction.html) — *CNBC*
+
+### 2. Brent crude slips as Qatar, Pakistan announce 60-day roadmap for U.S.-Iran deal
+
+[原文] Oil prices fluctuated on Monday after U.S. President Donald Trump threatened renewed military action against Iran.
+
+📎 [阅读原文](https://www.cnbc.com/2026/06/22/oil-prices-wti-brent-crude-trump-iran-threat-strait-hormuz-closure.html) — *CNBC*
+
+### 3. China imposes trade curbs on dozens of U.S. firms in retaliation for Pentagon blacklist
+
+[原文] The Pentagon earlier this month updated its so-called 1260H list by adding a slew of Chinese technology companies to a roster of entities it believes have aided Beijing's military.
+
+📎 [阅读原文](https://www.cnbc.com/2026/06/22/china-trade-curbs-us-companies-export-controls-procurement-exclusion-pentagon-list-.html) — *CNBC*
+
+### 4. 'Regime change but in a velvet glove': How Kevin Warsh has set out to remake the Fed
 
 [原文] The first big announced changes point toward a quiet revolution, with task forces set up to rethink virtually everything done at the Fed.
 
 📎 [阅读原文](https://www.cnbc.com/2026/06/21/how-kevin-warsh-has-set-out-to-remake-the-fed.html) — *CNBC*
 
-### 2. No one wants AI data centers on Earth. Do they make sense in space?
+### 5. Here are 3 big things to watch in the stock market this coming week
 
-[原文] Elon Musk's SpaceX is betting big on orbital AI data centers. The public doesn't want them on Earth, but the economic case for space-based is questionable.
+[原文] FedEx reports earnings, and the Fed's preferred inflation gauge is due out.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/21/do-space-based-ai-data-centers-make-economic-sense.html) — *CNBC*
-
-### 3. Pixar's 'Toy Story 5' lassos biggest opening weekend in franchise history with $160 million haul
-
-[原文] Disney and Pixar's "Toy Story 5" tallied $160 million domestically during its opening weekend, the highest debut in franchise history.
-
-📎 [阅读原文](https://www.cnbc.com/2026/06/21/pixar-toy-story-5-box-office-biggest-opening-in-franchise-history-.html) — *CNBC*
-
-### 4. Raising the minimum wage has been a big political winner. Now it's running into resistance
-
-[原文] Raising the minimum wage has been a progressive policy winner at the ballot box, but recent losses suggest an economic mood slowing its political momentum.
-
-📎 [阅读原文](https://www.cnbc.com/2026/06/21/raise-minimum-wage-inflation-politics.html) — *CNBC*
-
-### 5. Top Wall Street analysts like these 3 dividend stocks for solid returns
-
-[原文] TipRanks discusses three dividend-paying stocks.
-
-📎 [阅读原文](https://www.cnbc.com/2026/06/21/top-wall-street-analysts-like-these-3-dividend-stocks-for-solid-returns.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/21/here-are-3-big-things-to-watch-in-the-stock-market-this-coming-week.html) — *CNBC*
 
 ---
 
@@ -130,35 +130,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. As lakes turn brown, trout and bass decline while pike and walleye thrive
+### 1. T. rex took 40 years to reach full size, scientists find
+
+[原文] Tyrannosaurus rex may have been a much slower grower than scientists realized. A new study of 17 tyrannosaur fossils found that the giant predator likely took about 40 years to reach its full size of 
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260621110957.htm) — *Science Daily*
+
+### 2. As lakes turn brown, trout and bass decline while pike and walleye thrive
 
 [原文] Freshwater lakes across North America and Europe are becoming noticeably browner, reducing underwater visibility and reshaping fish populations. Research found that several popular sport fish, includi
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260621060322.htm) — *Science Daily*
 
-### 2. Chinese sodium battery surprised scientists by matching key Tesla benchmarks
+### 3. One common fat may fuel type 2 diabetes while another helps fight it
+
+[原文] Not all fats affect your body the same way. Researchers found that palmitic acid, a saturated fat common in many foods, may contribute to insulin resistance and type 2 diabetes by triggering inflammat
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260621060318.htm) — *Science Daily*
+
+### 4. Chinese sodium battery surprised scientists by matching key Tesla benchmarks
 
 [原文] Researchers found that a Chinese sodium-ion battery performs far better than expected, with production quality and design features comparable to Tesla’s batteries. If engineers can improve cold-weathe
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260621060305.htm) — *Science Daily*
 
-### 3. Long-lived families reveal a rare genetic clue to healthy aging
+### 5. Long-lived families reveal a rare genetic clue to healthy aging
 
 [原文] A study of long-lived families has identified rare genetic variants that may help people stay healthier for much longer as they age. One standout mutation appears to temper inflammation, potentially d
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260621060301.htm) — *Science Daily*
-
-### 4. Tubulin prevents toxic brain protein clumps linked to Alzheimer’s and Parkinson’s
-
-[原文] Scientists at Baylor College of Medicine may have uncovered a promising new way to combat Alzheimer’s and Parkinson’s disease. Instead of trying to stop Tau and alpha-synuclein proteins from gathering
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260620100432.htm) — *Science Daily*
-
-### 5. Yale study finds nearly half of older adults improved with age
-
-[原文] A long-term Yale study is challenging one of the biggest myths about aging. Nearly half of adults over 65 improved physically, mentally, or both over time, despite the common belief that aging means c
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260620100428.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Serena Williams to make singles comeback at Wimbledon
+### 1. Salah's World Cup nightmare ends as he fires Egypt to historic win
+
+[原文] Mohamed Salah's World Cup nightmares finally end as he helps fire Egypt to their first ever win at the tournament - 92 years on from their tournament debut.
+
+📎 [阅读原文](https://www.bbc.com/sport/football/articles/c17yn5y977yo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. One of World Cup's great stories - can Cape Verde extend dream run?
+
+[原文] Cape Verde's impressive World Cup continues with a draw against two-time winners Uruguay - and they will now be looking to make the last 32.
+
+📎 [阅读原文](https://www.bbc.com/sport/football/articles/c0qylwk421eo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. Clark blocks out New York jeers to win US Open title
+
+[原文] Wyndham Clark says "New York didn't really like me" after dealing with jeers from the fans to win a second US Open title.
+
+📎 [阅读原文](https://www.bbc.com/sport/golf/articles/c621w7pg5gqo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. Saka trains with England squad before Ghana match
+
+[原文] Bukayo Saka trains with the England squad to provide a fitness boost to Thomas Tuchel before their second World Cup match against Ghana.
+
+📎 [阅读原文](https://www.bbc.com/sport/football/articles/c8e21d5w0pjo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 5. Serena Williams to make singles comeback at Wimbledon
 
 [原文] Serena Williams will make a surprise return to singles action at Wimbledon later this month after accepting a wildcard.
 
 📎 [阅读原文](https://www.bbc.com/sport/tennis/articles/cn8kz0vm4d2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 2. Lamine Yamal shows why this could be his World Cup
-
-[原文] Spain looked an instantly better team with Lamine Yamal in the side, with the 18-year-old showing why this could be his World Cup.
-
-📎 [阅读原文](https://www.bbc.com/sport/football/articles/cj0gy46d5vro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 3. Stokes & Atkinson 'blameless for violent conduct'
-
-[原文] Ben Stokes and Gus Atkinson breached “contractual obligations” but were blameless for “violent conduct” in a London nightclub, according to an investigation.
-
-📎 [阅读原文](https://www.bbc.com/sport/cricket/articles/c8r2pr1z5d3o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. Emotional Hodgkinson pulls out of UK 400m final
-
-[原文] A tearful Keely Hodgkinson pulls out of the 400m final at the UK Athletics Championships moments before the race.
-
-📎 [阅读原文](https://www.bbc.com/sport/athletics/articles/cn4r144e3gpo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Lamine Yamal on target as Spain put four past Saudi Arabia
-
-[原文] Lamine Yamal scored 10 minutes into his first World Cup start as Spain beat Saudi Arabia to register their first win of the tournament.
-
-📎 [阅读原文](https://www.bbc.com/sport/football/videos/cze9g190rz1o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Olivia Rodrigo Earns Third Consecutive No. 1 on Albums Chart With ‘You Seem Pretty Sad for a Girl So in Love’
+### 1. Indian Kids’ IP Brand Behind ‘Emomee’ Rolls Out First Animated Series (EXCLUSIVE)
 
-[原文] Olivia Rodrigo has earned her third No. 1 on the Billboard 200 as &#8220;You Seem Pretty Sad for a Girl So in Love&#8221; bows atop the chart. The album, which was released on June 12, enters at the c
+[原文] Indian children&#8217;s entertainment company Emomee has unveiled its debut original animated series &#8220;Emomee,&#8221; introducing three characters – E, Mo and Mee – who guide young viewers throug
 
-📎 [阅读原文](https://variety.com/2026/music/news/olivia-rodrigo-third-consecutive-no-1-albums-chart-1236786717/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/emomee-kids-animated-series-india-1236786718/) — *Variety*
 
-### 2. ‘Criminal Minds’ Star Paget Brewster Tells TV Journalist to ‘Work at a Shelter’ After Mixed Review, Sparking Outrage From Other Critics
+### 2. ‘Minions & Monsters’ Review: The Canary-Colored Critters’ Latest Starring Vehicle Goes Back to Early Hollywood, and Hits a Creative High
 
-[原文] “Criminal Minds” star Paget Brewster lashed out at ScreenRant staffer Shealyn Scott over X on Saturday afternoon for her story lamenting the changes Paramount+ has brought to the long-running procedur
+[原文] From &#8220;Sunset Boulevard&#8221; to &#8220;The Artist,&#8221; &#8220;Singin&#8217; in the Rain&#8221; to &#8220;Babylon,&#8221; Hollywood&#8217;s transition to sound cinema has long been a fertile 
 
-📎 [阅读原文](https://variety.com/2026/tv/news/criminal-minds-paget-brewster-critic-review-shelter-1236786724/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/reviews/minions-and-monsters-review-1236786767/) — *Variety*
 
-### 3. ‘Peter Asher: Everywhere Man’ Review: The Beatles-Era Pop Singer Turned Star Producer Gets His Own Boomer-centric Documentary
+### 3. ‘The Way Home’ Bosses on Purposefully Leaving Some Questions Unanswered in Bittersweet Series Finale While Also Providing ‘Closure’ for Fans
 
-[原文] Asher has a track record of achievement, but he’s also someone who gives off major boomer vibes; he’s got an aura, a mystique, a history of associational cool. "Everywhere Man" is well worth seeing, a
+[原文] SPOILER ALERT: This post contains spoilers from “Ahead By a Century,” the series finale of Hallmark’s “The Way Home,” streaming on Hallmark+. &#8220;The Way Home&#8221; is saying goodbye after four se
 
-📎 [阅读原文](https://variety.com/2026/film/reviews/peter-asher-everywhere-man-review-1236786332/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/the-way-home-series-finale-elliott-survives-jacob-abby-married-1236786048/) — *Variety*
 
-### 4. Iowa Anchor Dustin Nolan Calls Out ‘Sanitized News’ as He Quits on Air in Emotional Sign-Off: ‘We Have to Take People Out of Their Bubbles’
+### 4. ‘The Vampire Lestat:’ Star Sam Reid, Creator On Staging Their Favorite Song of the Season and Then Getting the ‘F— Out of the Way’
 
-[原文] KWQC anchor Dustin Nolan gave an emotional on-air goodbye to his Quad City audience, announcing on Friday that he’s “chosen to step away from the new industry.” On his way out, he called out “sanitize
+[原文] SPOILER ALERT: This post contains spoilers from “Toronto,” the third episode of “The Vampire Lestat,” now streaming on AMC+. Don’t say Lestat de Lioncourt never gave you anything. He just doesn’t let 
 
-📎 [阅读原文](https://variety.com/2026/tv/news/iowa-anchor-dustin-nolan-sanitized-news-quits-on-air-1236786684/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/the-vampire-lestat-nicky-backstory-magnus-the-loneliness-converge-1236785087/) — *Variety*
 
-### 5. Box Office: ‘Toy Story 5’ Ignites to Series-Best $312 Million Globally, ‘Obsession’ and ‘Backrooms’ Surpass $300 Million Milestone
+### 5. ‘House of the Dragon’ Actor on [SPOILER]’s Watery Death in Season 3 Premiere: It Was ‘Challenging Trying to Keep My Eyes Open’
 
-[原文] &#8220;Toy Story 5&#8221; has ignited the box office with $312 million globally, ranking as the largest opening weekend in Disney and Pixar&#8217;s storied animated series. Those ticket sales include 
+[原文] SPOILER ALERT: This article contains spoilers for the Season 3 premiere of &#8220;House of the Dragon,&#8221; now streaming on HBO Max. &#8220;House of the Dragon&#8221; is back, with another main cha
 
-📎 [阅读原文](https://variety.com/2026/film/box-office/toy-story-5-global-box-office-debut-obsession-backroom-milestones-1236786638/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/house-of-the-dragon-jace-dies-battle-gullet-season-3-premiere-1236783257/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Avengers: Doomsday 'Leak' Pulled Offline Just as it Spreads Across Social Media
+### 1. Rick and Morty Season 9, Episode 5 Review: "Jer Bud"
 
-[原文] What appears to be a short clip of the X-Men in Avengers: Doomsday has been pulled offline, but not before it spread across social media like wildfire.
+[原文] A wildly entertaining Jerry subplot helps cancel out a disappointingly bland main storyline in the latest episode of Rick and Morty. Read our full review.
 
-📎 [阅读原文](https://www.ign.com/articles/avengers-doomsday-leak-pulled-offline-just-as-it-spreads-across-social-media) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/rick-and-morty-season-9-episode-5-review-recap) — *IGN*
 
-### 2. Gundam: Rogue Orbit Interview: A Gundam Game with a Focus on How it Feels to be the Pilot
+### 2. House of the Dragon Made Major Changes to the Battle of the Gullet Compared to the Book
 
-[原文] We spoke with Gundam: Rogue Orbit main producer Yuya Tomiyama and chief producer Shinya Satake about starting a new era of Gundam as a video game first, what they’re hoping to accomplish with it, and 
+[原文] The Battle of the Gullet, which spans barely four pages in George R.R. Martin’s book Fire & Blood, is a 25-minute action sequence in the Season 3 premiere of House of the Dragon. The show made some ma
 
-📎 [阅读原文](https://www.ign.com/articles/gundam-rogue-orbit-interview-a-gundam-game-with-a-focus-on-how-it-feels-to-be-the-pilot) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/house-of-the-dragon-season-3-battle-of-gullet-book-differences) — *IGN*
 
-### 3. Stranger Than Heaven Second-Take Preview: Stranger Than Heaven’s Combat Seems Harder Than Hell, and that’s a Good Thing
+### 3. House of the Dragon Season 3, Episode 1 Review
 
-[原文] Stranger Than Heaven's flexible fighting system feels like an increase in challenge from the standard Like a Dragon brawling, but that feels like a good indication that RGG Studio isn't content to mer
+[原文] Review: Pirates! Dragons! Ships! Fire! Betrayal, chaos, death and destruction... House of the Dragon's Season 3 premiere has it all.
 
-📎 [阅读原文](https://www.ign.com/articles/stranger-than-heaven-second-take-preview-stranger-than-heavens-combat-seems-harder-than-hell-and-thats-a-good-thing) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/house-of-the-dragon-season-3-episode-1-review) — *IGN*
 
-### 4. X-Men Star Famke Janssen Thinks Marvel 'Made a Mistake' By Not Bringing Her Jean Grey Back for Avengers: Doomsday
+### 4. The Vampire Lestat Showrunner Admits Changing Anne Rice’s Source Material in This Week’s Episode Will Probably Be a ‘Little Disappointing’ to Fans
 
-[原文] X-Men star Famke Janssen has said that Marvel Studios "made a mistake" by neglecting to send her an invitation to reprise her role as Jean Grey in Avengers: Doomsday.
+[原文] In "Toronto," The Vampire Lestat Season 3's third episode, showrunner Rolin Jones explains that while changing Anne Rice’s source material will probably be a "little disappointing" to fans, it was imp
 
-📎 [阅读原文](https://www.ign.com/articles/x-men-star-famke-janssen-thinks-marvel-made-a-mistake-by-not-bringing-her-jean-grey-back-for-avengers-doomsday) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/the-vampire-lestat-anne-rice-changes-disappointing-fans-episode-3-toronto) — *IGN*
 
-### 5. Epic Games Store Roadmap Promises 5x Faster Boot Times, User Reviews, and More
+### 5. Sesame Street Movie in the Works at Netflix Following Bidding War
 
-[原文] The Epic Games Store will soon receive many long-requested features and a major launcher redesign if a newly revealed roadmap pans out accordingly.
+[原文] Netflix has reportedly secured the rights for a Sesame Street movie following a bidding war with Universal Pictures.
 
-📎 [阅读原文](https://www.ign.com/articles/epic-games-store-roadmap-promises-5x-faster-boot-times-user-reviews-and-more) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/sesame-street-movie-in-the-works-at-netflix-following-bidding-war) — *IGN*
 
 ---
 
@@ -455,7 +455,7 @@ The post Another State Makes UTVs Road Legal. Is That a Good Thing
 
 [原文] "We are deeply saddened and heartbroken to learn of the tragic event that occurred at tonight’s show," jam band says after 51-year-old man fell to death at sold-out show
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/fan-dies-fall-goose-madision-square-garden-show-1235581102/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/fan-dies-fall-goose-madison-square-garden-show-1235581102/) — *Rolling Stone*
 
 ### 4. Bobby Prince, Influential ‘Doom’ Video Game Composer, Dead at 81
 
@@ -528,7 +528,6 @@ The post Another State Makes UTVs Road Legal. Is That a Good Thing
 ## ⚠️ 今日故障源
 
 - **🚗 汽车**: Roadshow, Autocar
-- **✈️ 旅游**: Nomadic Matt
 
 ---
 
