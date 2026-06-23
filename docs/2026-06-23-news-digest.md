@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年06月23日** | 生成时间: 2026-06-23 11:55
+**2026年06月23日** | 生成时间: 2026-06-23 17:50
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. US eases oil sanctions as Iran denies Vance claim on nuclear inspectors
+### 1. Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back
 
 [原文] Iran's foreign ministry says it made "no new commitments" on nuclear inspections after talks in Switzerland.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 2. At least 13 killed and dozens injured after Qatar gas explosion
 
 [原文] The city's main liquified natural gas (LNG) processing site suffered a "technical accident" in the Ras Laffan industrial zone.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/cwy05llpjpno?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwy05llpjpno?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 3. Ransom note claims Nancy Guthrie died after abduction
 
 [原文] The note from the possible kidnappers reportedly stated that they did not mean for her to die and included an apology to the family.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/cvgm0mgzl33o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvgm0mgzl33o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Myanmar army killed over 700 civilians in six months, UN says
+### 4. Montreal shooting leaves officer, civilian and suspect dead
 
-[原文] The new UN report says the 702 civilian deaths over six months last year included 153 children.
+[原文] It was the first time in 24 years that a Montreal police officer was  killed in the line of duty, the city's police chief said.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/cnv97e42r7yo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5yz3lv015qo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Russian troop build-up threatens city seen as key to seizing Ukraine's Donbas
+### 5. Inquiry ordered after building fire kills 15 in north India city
 
-[原文] If Kostyantynivka falls, Russian forces would be able push towards Ukraine's last remaining strongholds in the east.
+[原文] Witnesses described people jumping from windows to escape, while rescue teams broke through a wall to save lives.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/c9w2g0ewk95o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwyde73w680o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. SpaceX stock tanks 16%, extending slump following post-IPO rally
+### 1. Tech rout intensifies as selloff grips global stocks
 
-[原文] A rally following the company's record breaking IPO on June 12 has cooled, with stock dropping the past three days of trading.
+[原文] Global stocks sold off on Tuesday, led by deep losses for tech stocks following a losing session for the sector on Wall Street.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/22/spacex-stock-ipo-rally-selloff.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/23/tech-stocks-sell-off-mag7-samsung-sk-hynix.html) — *CNBC*
 
-### 2. Alphabet has its worst day in over a year on AI concerns after high-profile exits
+### 2. U.S. issues sweeping Iran oil sanctions waivers, unlocking billions in revenue for Tehran
 
-[原文] Google parent Alphabet has seen consecutive high-profile artificial intelligence researchers leave.
+[原文] The U.S. issued a sweeping rollback of sanctions on Iranian oil, offering Tehran an economic lifeline as negotiations toward a peace deal proceed.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/22/alphabet-goog-stock-ai-departures.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/23/us-iran-oil-sanction-relief-strait-of-hormuz-peace-deal-.html) — *CNBC*
 
-### 3. 'I like their money': Trump threatens lawsuits against ABC for reporting on Reflecting Pool
+### 3. Apollo curbs withdrawals after exit requests hit 17%, reigniting fears over private credit liquidity
+
+[原文] Apollo is capping investor redemptions in its main retail-focused private credit fund after exit requests hit 17%.
+
+📎 [阅读原文](https://www.cnbc.com/2026/06/23/apollo-private-credit-fund-withdrawals-redemptions.html) — *CNBC*
+
+### 4. 'I like their money': Trump threatens lawsuits against ABC for reporting on Reflecting Pool
 
 [原文] The latest action against ABC comes as the broadcaster faces two investigations from the Federal Communications Commission.
 
 📎 [阅读原文](https://www.cnbc.com/2026/06/23/trump-threatens-lawsuits-against-abc-network-for-reporting-on-reflecting-pool.html) — *CNBC*
 
-### 4. 'We'll see' — Trump hedges on guarantee Iran won't use oil profits to rebuild military
+### 5. Tesla faces federal probe after Model 3 slams into Texas home, killing 76-year-old
 
-[原文] Treasury Secretary Scott Bessent authorized the import of Iranian oil and refined products into the U.S. through at least August.
+[原文] Harris County authorities said that the driver, Michael Butler, said that he had been using Tesla's partially automated driving systems.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/22/trump-iran-war-oil-profits-rebuild-military.html) — *CNBC*
-
-### 5. How a $4 billion Indian startup won Meta's backing but lost its founder to WhatsApp
-
-[原文] Indian fintech startup Cred will raise $900 million in a round led by Meta, but has lost its founder and CEO to WhatsApp.
-
-📎 [阅读原文](https://www.cnbc.com/2026/06/23/4-billion-startup-cred-meta-whatsapp.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/22/tesla-nhtsa-model-3-crash-autopilot-katy-texas.html) — *CNBC*
 
 ---
 
@@ -98,9 +98,9 @@
 
 📎 [阅读原文](https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/) — *TechCrunch*
 
-### 2. OpenAI launches new initiative to help find and patch open-source bugs
+### 2. OpenAI launches new initiative to help find and patch open source bugs
 
-[原文] OpenAI is attempting to tackle the security issues of the open source software community.
+[原文] OpenAI is using AI to help the open source community better protect itself.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/) — *TechCrunch*
 
@@ -130,35 +130,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. This emerging treatment is helping people avoid knee replacement surgery
+### 1. Scientists open a million-year-old time capsule hidden beneath New Zealand
+
+[原文] A cave in New Zealand has yielded fossils from a lost ecosystem that existed about 1 million years ago, including a possible flying ancestor of the kākāpō. The discovery reveals that volcanoes and cli
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260623011129.htm) — *Science Daily*
+
+### 2. NASA’s Cold Atom Lab is creating one of the weirdest forms of matter in space
+
+[原文] NASA’s upgraded Cold Atom Lab is turning the International Space Station into a frontier for quantum research, creating ultra-cold matter that behaves in astonishing ways. The experiments could unlock
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260622091507.htm) — *Science Daily*
+
+### 3. This emerging treatment is helping people avoid knee replacement surgery
 
 [原文] A minimally invasive treatment called GAE is helping people with chronic knee pain get back to gardening, cycling, and other activities without undergoing knee replacement surgery. Early studies sugge
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260622091502.htm) — *Science Daily*
 
-### 2. Scientists say most people need more protein than current guidelines suggest
+### 4. Scientists say most people need more protein than current guidelines suggest
 
 [原文] A new review suggests that doing more exercise and eating more protein than current minimum recommendations may help people stay stronger, sharper, and more independent as they age. The goal isn't bui
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260622091429.htm) — *Science Daily*
 
-### 3. A common vitamin could help fight one of the deadliest brain cancers
+### 5. A common vitamin could help fight one of the deadliest brain cancers
 
 [原文] A clinical trial is exploring whether high doses of vitamin B3 could give patients with glioblastoma a better chance against the aggressive brain cancer. Scientists found that niacin may help revive i
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260622014313.htm) — *Science Daily*
-
-### 4. Butterfly that barely ages could help unlock longevity secrets
-
-[原文] Scientists discovered that Heliconius butterflies have evolved an extraordinary lifespan, living several times longer than closely related species. Even more surprising, some show little sign of physi
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260622014302.htm) — *Science Daily*
-
-### 5. Future astronauts could walk across rocks from deep inside the Moon
-
-[原文] A colossal ancient collision may have left some of the Moon’s deepest secrets surprisingly close to future Artemis landing sites. By recreating the impact that formed the giant South Pole-Aitken basin
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260622014258.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. From retirement to records - another immortal Messi moment
+### 1. A Golden Boot race for the ages - but who will come out on top?
 
-[原文] Ten years after announcing he was quitting international football, Lionel Messi is still breaking records for reigning World Cup champions Argentina.
+[原文] It is fast turning into a Golden Boot race for the ages as the world's best strikers star at the World Cup. But who will come out on top?
 
-📎 [阅读原文](https://www.bbc.com/sport/football/articles/c74y1vypn2wo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c5yz2enre06o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Norway win five-goal thriller against Senegal to make last 32
-
-[原文] Erling Haaland scores twice as Norway book their place in the last 32 of the World Cup with a 3-2 victory over Senegal in New Jersey.
-
-📎 [阅读原文](https://www.bbc.com/sport/football/videos/cze9g17p6rlo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 3. What France & Iraq did during 'mentally draining' two-hour weather delay
+### 2. What France & Iraq did during 'mentally draining' two-hour weather delay
 
 [原文] France's World Cup match against Iraq was delayed for two hours because of the weather. BBC Sport look at how the sides dealt with it.
 
-📎 [阅读原文](https://www.bbc.com/sport/football/articles/cy73y401ppjo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cy73y401ppjo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. England boss Tuchel not a fan of hydration breaks
+### 3. Is Gasly's podium justice or a can of worms best left unopened? F1 Q&A
 
-[原文] England head coach Thomas Tuchel admits he is not a fan of the controversial hydration breaks being used at the World Cup.
+[原文] BBC Sport F1 correspondent Andrew Benson answers your latest questions before the Austrian Grand Prix.
 
-📎 [阅读原文](https://www.bbc.com/sport/football/articles/c4gyzknng1jo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/ckg042kgj4yo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Ex-Wimbledon champion Vondrousova given four-year ban
+### 4. How do you solve a problem like Ronaldo?
 
-[原文] Former Wimbledon champion Marketa Vondrousova is banned for four years for refusing an anti-doping test in December 2025.
+[原文] Portugal take on Uzbekistan with Cristiano Ronaldo in poor form for his country and a backlash raging on social media against his team-mates.
 
-📎 [阅读原文](https://www.bbc.com/sport/tennis/articles/c36yjz55z3zo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c2ly7gz8p0qo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 5. Norway win five-goal thriller against Senegal to make last 32
+
+[原文] Erling Haaland scores twice as Norway book their place in the last 32 of the World Cup with a 3-2 victory over Senegal in New Jersey.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cze9g17p6rlo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Michael Ovitz Storms Out of Deposition After Being Asked About Jeffrey Epstein
+### 1. Dustin Hoffman, Juliette Binoche, Jeffrey Wright to Be Honored at Karlovy Vary Film Festival
 
-[原文] Michael Ovitz, the co-founder of CAA, stormed out of a deposition on June 1 after being asked about his friendship with Jeffrey Epstein. Ovitz was being questioned by a lawyer for Julia Ormond, the ac
+[原文] Actors Dustin Hoffman, Juliette Binoche and Jeffrey Wright, and cinematographer Robert Richardson will be honored at the 60th Karlovy Vary Intl. Film Festival. Hoffman will be presented with the Cryst
 
-📎 [阅读原文](https://variety.com/2026/film/news/michael-ovitz-deposition-jeffrey-epstein-julia-ormond-1236787721/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/dustin-hoffman-juliette-binoche-jeffrey-wright-karlovy-vary-1236787921/) — *Variety*
 
-### 2. Ryan Beatty on How Finding Happiness in Love Shaped His New Album ‘Sweet Fortune’: ‘This Record Has a Really Big Heart to It’
+### 2. ‘House of the Dragon’ Star Olivia Cooke Reveals ‘Really Bad’ Audition for Rey in ‘Star Wars: The Force Awakens’: ‘I Was S—’
 
-[原文] Ryan Beatty was about to embark on the final leg of his &#8220;Calico&#8221; tour in 2024 when he cut the song &#8220;Phantom&#8221; with frequent collaborator Ethan Gruska. He was in Los Angeles, the
+[原文] Before Olivia Cooke starred in the &#8220;Game of Thrones&#8221; spinoff &#8220;House of the Dragon,&#8221; she once auditioned for another major franchise: &#8220;Star Wars.&#8221; During an appearan
 
-📎 [阅读原文](https://variety.com/2026/music/news/ryan-beatty-sweet-fortune-finding-happiness-in-love-1236787711/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/global/olivia-cooke-auditioned-rey-star-wars-really-bad-1236787904/) — *Variety*
 
-### 3. ‘Kennedy’ Stars Nick Robinson and Laura Donnelly on Why Series Isn’t Leaning Into Family’s Signature Boston Accent
+### 3. ‘The Traitors’ Sets WhatsApp-Based Game ‘The Traitors: Anywhere,’ Allowing Fans to Play at Home
 
-[原文] While the upcoming Netflix drama series “Kennedy” will chronicle the famous political dynasty from 1931 to 1944, the family’s signature Boston accent won’t be so pervasive. Nick Robinson, who plays Jo
+[原文] If you’ve ever watched “The Traitors” and wished you could take part, now’s your chance. The hit gameshow has been adapted for the U.K. and Ireland as a social deduction experiment played entirely via
 
-📎 [阅读原文](https://variety.com/2026/tv/columns/kennedy-nick-robinson-laura-donnelly-boston-accent-1236787671/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/digital/global/the-traitors-anywhere-whatsapp-game-1236772319/) — *Variety*
 
-### 4. Tom Hanks Says Disney Could Use AI to Recreate Woody’s Voice for ‘Toy Story 6’ and Beyond If He Doesn’t Return: ‘It’s a Scary Thought’
+### 4. Edinburgh TV Festival Relocating After 50 Years in Shock Move
 
-[原文] Tom Hanks is back as Woody in &#8220;Top Story 5,&#8221; which set a franchise record with its massive $312 million worldwide opening. Given the enduring popularity of the 31-year-old franchise, peopl
+[原文] Edinburgh’s long-running TV festival is set to relocate to Manchester next year after spending 50 years in the Scottish capital. The decision was taken by the festival’s board of directors, who have b
 
-📎 [阅读原文](https://variety.com/2026/film/news/tom-hanks-ai-woody-voice-toy-story-6-1236787237/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/global/edinburgh-tv-festival-relocating-manchester-1236787401/) — *Variety*
 
-### 5. Eamon Farren, Arlo Green, Miranda Otto and Sacha Horler Join Hugo Weaving in Australian Legal Drama ‘The Great White’ From ‘Slow Horses’ Banner See-Saw (EXCLUSIVE)
+### 5. Agnieszka Holland to Direct Marlene Dietrich Biopic ‘Berlinweh – Yearning for a Home’
 
-[原文] &#8220;The Great White,&#8221; ABC Australia&#8217;s upcoming legal workplace drama series from See-Saw Films, has bolstered its cast with filming now underway in Sydney. Alongside the previously anno
+[原文] Polish director Agnieszka Holland has revealed details about her next feature film project, a biographical film about Marlene Dietrich, “Berlinweh – Yearning for a Home.” World sales are handled by Fi
 
-📎 [阅读原文](https://variety.com/2026/tv/global/see-saw-australian-legal-drama-the-great-white-filming-1236787149/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/agnieszka-holland-marlene-dietrich-biopic-berlinweh-1236787881/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. GTA 6 Fans Spot Tommy Vercetti Easter Egg Over a Year After Trailer 2's Release
+### 1. This LEGO Hogwarts Express Book Nook Deal at Amazon Is a Great Harry Potter Gift Idea
 
-[原文] Grand Theft Auto 6 fans have spotted a cheeky nod to Vice City protagonist Tommy Vercetti in the game's second trailer.
+暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/gta-6-fans-spot-tommy-vercetti-easter-egg-over-a-year-after-trailer-2s-release) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/lego-harry-potter-hogwarts-express-book-nook-deal-prime-day-2026) — *IGN*
 
-### 2. Tom Holland and Zendaya Are Huge Fans of PlayStation's Spider-Man Games, Insomniac Invites Them for Studio Tour
+### 2. Keanu Reeves Reportedly in Talks to Star in New LEGO Movie Project from Toy Story 4 Director
 
-[原文] Spider-Man: Brand New Day stars Tom Holland and Zendaya really enjoy Insomniac Games' Spider-Man games.
+[原文] Keanu Reeves is in negotiations to star in a new LEGO movie from Toy Story 4 director Josh Cooley, which would reportedly be a hybrid of animation and live action.
 
-📎 [阅读原文](https://www.ign.com/articles/tom-holland-and-zendaya-are-huge-fans-of-playstations-spider-man-games-insomniac-invites-them-for-studio-tour) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/keanu-reeves-reportedly-in-talks-to-star-in-new-lego-movie-project-from-toy-story-4-director) — *IGN*
 
-### 3. The Last of Us Part 2 Multiplayer Lives On as PvP Mod Due Out Later This Year
+### 3. Amazon's Google Pixel 10 Pro Sale Is the Best Phone Deal of Prime Day
 
-[原文] Naughty Dog may have canceled its The Last of Us Part 2 multiplayer project, but Factions fans can now at least have a new PvP mode to look forward to… if they're on PC.
+[原文] The Google Pixel 10 Pro is on sale for just $799 during the Prime Day sale.
 
-📎 [阅读原文](https://www.ign.com/articles/the-last-of-us-part-2-multiplayer-lives-on-as-pvp-mod-due-out-later-this-year) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/amazons-google-pixel-10-pro-sale-is-the-best-phone-deal-of-prime-day-2026) — *IGN*
 
-### 4. The SteelSeries Arctis Nova Pro Wireless Gaming Headset Hits All-time Low Price For Prime Day
+### 4. Prime Day LEGO Deals on Sets for Adults Are Especially Good This Year
 
-[原文] You can snag this popular headset for only $249 during Prime Day.
+暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/steelseries-arctis-nova-pro-wireless-gaming-headset-deal-amazon-prime-day-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/lego-prime-day-deals-for-adults-2026) — *IGN*
 
-### 5. Warframe Dev Says 'No One Is Celebrating' as Destiny 2 Support Comes to a 'Heartbreaking' End
+### 5. Powerpuff Girls Movie in the Works at Warner Bros. Animation
 
-[原文] Warframe community director Megan Everett has said that "no one is celebrating" the "heartbreaking" news that Sony pulled the plug on Destiny 2 support.
+[原文] Warner Bros. has dipped into its stash of Chemical X in hopes of reuniting Blossom, Bubbles, and Buttercup for a new animated Powerpuff Girls movie.
 
-📎 [阅读原文](https://www.ign.com/articles/warframe-dev-says-no-one-is-celebrating-as-destiny-2-support-comes-to-a-heartbreaking-end) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/powerpuff-girls-movie-in-the-works-at-warner-bros-animation) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post Jeep Just Confirmed the Cherokee Trailhawk Is Co
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. A Trump Ally’s Rise in Colombia Could Mean the End of Landmark Climate Policies
+### 1. The Invisible Infrastructure of Climate Resilience
+
+[原文] After years working in the climate movement, Katharine K. Wilkinson noticed that advocates consistently lacked the emotional stamina and support needed to stay active, inspired and connected to others
+
+📎 [阅读原文](https://insideclimatenews.org/news/23062026/katharine-k-wilkinson-climate-resilience-infrastructure/) — *Inside Climate News*
+
+### 2. A Trump Ally’s Rise in Colombia Could Mean the End of Landmark Climate Policies
 
 [原文] Right-wing businessman Abelardo de la Espriella holds a razor-thin lead in Colombia’s preliminary presidential vote count, positioning the Donald Trump ally to clear the way for expanded fossil fuel e
 
 📎 [阅读原文](https://insideclimatenews.org/news/22062026/colombia-de-la-espriella-presidency-fracking-projects/) — *Inside Climate News*
 
-### 2. How a Tiny Texas River Agency Plans to Build the Largest Desalination Plant in the Country
+### 3. How a Tiny Texas River Agency Plans to Build the Largest Desalination Plant in the Country
 
 [原文] This story was produced in partnership with the Texas Newsroom, the state’s network of public radio stations.&#160; Something moved John Byrum. He believed he could succeed where others had not.&#160;
 
 📎 [阅读原文](https://insideclimatenews.org/news/22062026/nueces-river-authority-plans-to-build-nations-largest-desalination-plant/) — *Inside Climate News*
 
-### 3. Environmental Defenders Remain Among World’s Most Targeted Activists
+### 4. Environmental Defenders Remain Among World’s Most Targeted Activists
 
 [原文] Environmental and Indigenous rights defenders remained among the world’s most targeted human rights advocates in 2025, despite landmark rulings by international courts affirming governments’ obligatio
 
 📎 [阅读原文](https://insideclimatenews.org/news/22062026/environmental-defenders-are-increasingly-targeted/) — *Inside Climate News*
 
-### 4. The Water Is Rising in Chesapeake Bay. Can Tangier Island Be Saved?
+### 5. The Water Is Rising in Chesapeake Bay. Can Tangier Island Be Saved?
 
 [原文] TANGIER, Va.— Terry Parks stood in the rear of a boat passing the western shore of Tangier Island.&#160; A native of this Chesapeake Bay island, he pointed to an area of bulky rocks with withered and 
 
 📎 [阅读原文](https://insideclimatenews.org/news/22062026/chesapeake-bay-tangier-island-sea-level-rise/) — *Inside Climate News*
-
-### 5. Greenpeace’s Dutch Anti-SLAPP Case Against Oil Pipeline Giant Advances
-
-[原文] A lawsuit filed by Greenpeace International against the U.S.-based fossil fuel company Energy Transfer in the Netherlands is moving forward after a Dutch court recently ruled in favor of the environme
-
-📎 [阅读原文](https://insideclimatenews.org/news/21062026/greenpeace-anti-slapp-lawsuit-against-energy-transfer/) — *Inside Climate News*
 
 ---
 
@@ -477,35 +477,35 @@ The post Jeep Just Confirmed the Cherokee Trailhawk Is Co
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Cordelia Cruises IPO Bets on India’s Untapped Cruise Market
+### 1. Air India Partners With Booking.com, Joining Airlines Selling Hotels, Not Just Seats
+
+[原文] Air India is late to a model already proven by domestic as well as Gulf and Asian carriers, but the Booking.com deal shows how quickly it wants to catch up through loyalty-led commerce at home.
+
+📎 [阅读原文](https://skift.com/2026/06/23/air-india-partners-with-booking-com-joining-airlines-selling-hotels-not-just-seats/) — *Skift*
+
+### 2. Cordelia Cruises IPO Bets on India’s Untapped Cruise Market
 
 [原文] By 2028, Cordelia will have transformed from a single-vessel operator into a three-ship fleet. The challenge is whether India's still-nascent cruise market can generate demand quickly enough to suppor
 
 📎 [阅读原文](https://skift.com/2026/06/22/cordelia-cruises-ipo-bets-on-indias-untapped-cruise-market/) — *Skift*
 
-### 2. Those Higher Airfares May Stick Even if Fuel Prices Drop
+### 3. Those Higher Airfares May Stick Even if Fuel Prices Drop
 
 [原文] Airlines are betting that they can hold onto their pricing power even as the price of fuel decreases due to strong demand and fewer competitors in the industry.
 
 📎 [阅读原文](https://skift.com/2026/06/22/those-higher-airfares-may-stick-even-if-fuel-prices-drop/) — *Skift*
 
-### 3. The Saudization of Saudi Tourism
+### 4. The Saudization of Saudi Tourism
 
 [原文] The war gave Saudi tourism the clarity it could not give itself: the durable market is domestic and regional, the leadership is Saudi, and the reset is real.
 
 📎 [阅读原文](https://skift.com/2026/06/22/the-saudization-of-saudi-tourism/) — *Skift*
 
-### 4. How Hyatt’s Lifestyle Chief Does a ‘Portfolio Cleanup’
+### 5. How Hyatt’s Lifestyle Chief Does a ‘Portfolio Cleanup’
 
 [原文] Since selling The Standard to Hyatt, Amar Lalvani has reviewed the group's lifestyle portfolio and debuted a new brand, The Manner, to stay on top of where he feels trends are heading.
 
 📎 [阅读原文](https://skift.com/2026/06/22/how-hyatts-lifestyle-chief-does-a-portfolio-cleanup/) — *Skift*
-
-### 5. AI Is Eroding the OTA’s First-Click Advantage — Here’s How Hotels Can Win It Back
-
-[原文] AI is rapidly shifting hotel discovery from traditional search queries to conversational, intent-driven experiences. This white paper explores how hospitality brands are adapting their technology, con
-
-📎 [阅读原文](https://skift.com/2026/06/22/ai-search-economy-hospitality-white-paper/) — *Skift*
 
 ---
 
