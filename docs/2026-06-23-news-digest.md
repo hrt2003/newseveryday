@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年06月23日** | 生成时间: 2026-06-23 04:52
+**2026年06月23日** | 生成时间: 2026-06-23 11:55
 
 ---
 
@@ -16,9 +16,9 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Vance says Iran will allow nuclear inspectors back into the country
+### 1. US eases oil sanctions as Iran denies Vance claim on nuclear inspectors
 
-[原文] The US vice-president says a great deal of progress has been made after the first round of talks between the US and Iran.
+[原文] Iran's foreign ministry says it made "no new commitments" on nuclear inspections after talks in Switzerland.
 
 📎 [阅读原文](https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
@@ -28,23 +28,23 @@
 
 📎 [阅读原文](https://www.bbc.com/news/articles/cwy05llpjpno?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Myanmar army killed over 700 civilians in six months, UN says
+### 3. Ransom note claims Nancy Guthrie died after abduction
+
+[原文] The note from the possible kidnappers reportedly stated that they did not mean for her to die and included an apology to the family.
+
+📎 [阅读原文](https://www.bbc.com/news/articles/cvgm0mgzl33o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. Myanmar army killed over 700 civilians in six months, UN says
 
 [原文] The new UN report says the 702 civilian deaths over six months last year included 153 children.
 
 📎 [阅读原文](https://www.bbc.com/news/articles/cnv97e42r7yo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Russian troop build-up threatens city seen as key to seizing Ukraine's Donbas
+### 5. Russian troop build-up threatens city seen as key to seizing Ukraine's Donbas
 
 [原文] If Kostyantynivka falls, Russian forces would be able push towards Ukraine's last remaining strongholds in the east.
 
 📎 [阅读原文](https://www.bbc.com/news/articles/c9w2g0ewk95o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Clive Davis, music mogul behind Whitney Houston and Bruce Springsteen, dies aged 94
-
-[原文] The record company executive also worked with Billy Joel, Pink Floyd, Alicia Keys and Aerosmith.
-
-📎 [阅读原文](https://www.bbc.com/news/articles/c3vy3e6q90qo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -60,29 +60,29 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/06/22/spacex-stock-ipo-rally-selloff.html) — *CNBC*
 
-### 2. Alphabet paces for worst day in a year on AI concerns after high-profile exits
+### 2. Alphabet has its worst day in over a year on AI concerns after high-profile exits
 
 [原文] Google parent Alphabet has seen consecutive high-profile artificial intelligence researchers leave.
 
 📎 [阅读原文](https://www.cnbc.com/2026/06/22/alphabet-goog-stock-ai-departures.html) — *CNBC*
 
-### 3. Alan Greenspan, former chairman of the Fed, dies at age 100
+### 3. 'I like their money': Trump threatens lawsuits against ABC for reporting on Reflecting Pool
 
-[原文] Alan Greenspan presided over the Federal Reserve for 19 years under four presidents and mastered the art of obfuscation known as Fedspeak.
+[原文] The latest action against ABC comes as the broadcaster faces two investigations from the Federal Communications Commission.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/22/alan-greenspan-former-chairman-of-the-fed-dies-at-age-100.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/23/trump-threatens-lawsuits-against-abc-network-for-reporting-on-reflecting-pool.html) — *CNBC*
 
-### 4. Nvidia's stock struggles as Kalshi traders bet chip prices are coming down
+### 4. 'We'll see' — Trump hedges on guarantee Iran won't use oil profits to rebuild military
 
-[原文] Shares of Nvidia have been faltering recently — and Kalshi traders predict that what the company can charge for chips is also declining.
+[原文] Treasury Secretary Scott Bessent authorized the import of Iranian oil and refined products into the U.S. through at least August.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/22/nvidias-stock-struggles-as-kalshi-traders-bet-chip-prices-are-coming-down.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/22/trump-iran-war-oil-profits-rebuild-military.html) — *CNBC*
 
-### 5. Three key AI stocks to watch this week with traders expecting giant moves
+### 5. How a $4 billion Indian startup won Meta's backing but lost its founder to WhatsApp
 
-[原文] Micron and Cerebras report this week. Also there's heavy options activity in Super Micro.
+[原文] Indian fintech startup Cred will raise $900 million in a round led by Meta, but has lost its founder and CEO to WhatsApp.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/22/three-key-ai-stocks-to-watch-this-week-with-traders-expecting-giant-moves.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/23/4-billion-startup-cred-meta-whatsapp.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Microsoft and Chevron plan one of the largest gas-powered data center projects in US
+### 1. The running list: major tech layoffs in 2026 where employers cited AI
 
-[原文] Microsoft inked a 20-year power purchase agreement with Chevron, locking in decades of carbon emissions from a new natural gas power plant.
+[原文] A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.
 
-📎 [阅读原文](https://techcrunch.com/2026/06/22/microsoft-and-chevron-plan-one-of-the-largest-gas-powered-data-center-projects-in-us/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/) — *TechCrunch*
 
-### 2. AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal
+### 2. OpenAI launches new initiative to help find and patch open-source bugs
 
-[原文] What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs.
+[原文] OpenAI is attempting to tackle the security issues of the open source software community.
 
-📎 [阅读原文](https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/) — *TechCrunch*
 
-### 3. Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem
+### 3. Tesla pushes back on Autopilot narrative after fatal Texas crash
 
-[原文] Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use — fossil fuel power plants.
+[原文] Whether the Autopilot system was truly active, overridden, or malfunctioning likely won't be resolved until investigators finish combing through the vehicle's data logs.
 
-📎 [阅读原文](https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/06/22/tesla-pushes-back-on-autopilot-narrative-after-fatal-texas-crash/) — *TechCrunch*
 
-### 4. Tata Electronics, a major tech supplier to Apple and Tesla, confirms data breach
+### 4. Shareholders sue Uber’s board over sexual assaults, other incidents
 
-[原文] The incident comes as Tata Electronics expands its role in global technology supply chains.
+[原文] The lawsuit, led by a Detroit pension fund, alleges Uber's board and management has cut too many compliance corners, resulting in thousands of lawsuits.
 
-📎 [阅读原文](https://techcrunch.com/2026/06/22/tata-electronics-a-major-tech-supplier-to-apple-and-tesla-confirms-data-breach/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/06/22/shareholders-sue-ubers-board-over-sexual-assaults-other-incidents/) — *TechCrunch*
 
-### 5. A new unpatchable flaw in Apple chips opens the door to an iPhone jailbreak
+### 5. The AI world is getting ‘loopy’
 
-[原文] European offensive cybersecurity company Paradigm Shift released details of a flaw and a technique to exploit it that opens the door for hackers to unlock and break into older iPhones.
+[原文] The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly.
 
-📎 [阅读原文](https://techcrunch.com/2026/06/22/a-new-unpatchable-flaw-in-apple-chips-opens-the-door-to-an-iphone-jailbreak/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/) — *TechCrunch*
 
 ---
 
@@ -130,35 +130,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. A common vitamin could help fight one of the deadliest brain cancers
+### 1. This emerging treatment is helping people avoid knee replacement surgery
+
+[原文] A minimally invasive treatment called GAE is helping people with chronic knee pain get back to gardening, cycling, and other activities without undergoing knee replacement surgery. Early studies sugge
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260622091502.htm) — *Science Daily*
+
+### 2. Scientists say most people need more protein than current guidelines suggest
+
+[原文] A new review suggests that doing more exercise and eating more protein than current minimum recommendations may help people stay stronger, sharper, and more independent as they age. The goal isn't bui
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260622091429.htm) — *Science Daily*
+
+### 3. A common vitamin could help fight one of the deadliest brain cancers
 
 [原文] A clinical trial is exploring whether high doses of vitamin B3 could give patients with glioblastoma a better chance against the aggressive brain cancer. Scientists found that niacin may help revive i
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260622014313.htm) — *Science Daily*
 
-### 2. Butterfly that barely ages could help unlock longevity secrets
+### 4. Butterfly that barely ages could help unlock longevity secrets
 
 [原文] Scientists discovered that Heliconius butterflies have evolved an extraordinary lifespan, living several times longer than closely related species. Even more surprising, some show little sign of physi
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260622014302.htm) — *Science Daily*
 
-### 3. Future astronauts could walk across rocks from deep inside the Moon
+### 5. Future astronauts could walk across rocks from deep inside the Moon
 
 [原文] A colossal ancient collision may have left some of the Moon’s deepest secrets surprisingly close to future Artemis landing sites. By recreating the impact that formed the giant South Pole-Aitken basin
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260622014258.htm) — *Science Daily*
-
-### 4. Ebola and hantavirus can start like the flu but turn deadly fast
-
-[原文] Two dangerous viruses are back in the spotlight, reminding health officials how quickly infectious diseases can become serious threats. Hantavirus, often linked to rodents, can cause severe heart and 
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260622014257.htm) — *Science Daily*
-
-### 5. T. rex took 40 years to reach full size, scientists find
-
-[原文] Tyrannosaurus rex may have been a much slower grower than scientists realized. A new study of 17 tyrannosaur fossils found that the giant predator likely took about 40 years to reach its full size of 
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260621110957.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. 32 teams, 32 surprises: Which players stood out on...
+### 1. From retirement to records - another immortal Messi moment
 
-[原文] From rookies to veterans, here are the players who have made an early impression on every team ahead of training camp.
+[原文] Ten years after announcing he was quitting international football, Lionel Messi is still breaking records for reigning World Cup champions Argentina.
 
-📎 [阅读原文](https://www.espn.com/nfl/story/_/id/49108128/nfl-2026-biggest-surprise-players-every-team-offseason) — *ESPN*
+📎 [阅读原文](https://www.bbc.com/sport/football/articles/c74y1vypn2wo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Sources: U-M's May finalizing deal to coach Mavs
+### 2. Norway win five-goal thriller against Senegal to make last 32
 
-[原文] Michigan coach Dusty May is finalizing a deal to take the Dallas Mavericks' head coaching job, sources told ESPN, an axis-shifting move that significantly alters the college and NBA landscapes.
+[原文] Erling Haaland scores twice as Norway book their place in the last 32 of the World Cup with a 3-2 victory over Senegal in New Jersey.
 
-📎 [阅读原文](https://www.espn.com/nba/story/_/id/49143856/sources-michigan-dusty-finalizing-deal-coach-mavericks) — *ESPN*
+📎 [阅读原文](https://www.bbc.com/sport/football/videos/cze9g17p6rlo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Sources: Young to ink $212M deal with Wizards
+### 3. What France & Iraq did during 'mentally draining' two-hour weather delay
 
-[原文] Free agent Trae Young intends to sign a four-year, approximately $212 million deal to stay with the Wizards, with a player option in Year 4, sources told ESPN.
+[原文] France's World Cup match against Iraq was delayed for two hours because of the weather. BBC Sport look at how the sides dealt with it.
 
-📎 [阅读原文](https://www.espn.com/nba/story/_/id/49145221/sources-trae-young-sign-4-year-212m-deal-wizards) — *ESPN*
+📎 [阅读原文](https://www.bbc.com/sport/football/articles/cy73y401ppjo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Messi breaks tie with Klose for most WC goals
+### 4. England boss Tuchel not a fan of hydration breaks
 
-[原文] Lionel Messi became the highest goal scorer in men's World Cup history Monday, moving up to 18 with a superb double in Argentina's Group J match against Austria.
+[原文] England head coach Thomas Tuchel admits he is not a fan of the controversial hydration breaks being used at the World Cup.
 
-📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49140402/lionel-messi-world-cup-record-goals-miroslav-klose-all) — *ESPN*
+📎 [阅读原文](https://www.bbc.com/sport/football/articles/c4gyzknng1jo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Sources: Celtics, Heat finalists for Giannis trade...
+### 5. Ex-Wimbledon champion Vondrousova given four-year ban
 
-[原文] Giannis Antetokounmpo is expected to be traded before the start of the NBA draft Tuesday, with the Celtics and Heat emerging as finalists to land the Bucks superstar, sources told ESPN.
+[原文] Former Wimbledon champion Marketa Vondrousova is banned for four years for refusing an anti-doping test in December 2025.
 
-📎 [阅读原文](https://www.espn.com/nba/story/_/id/49143752/sources-giannis-antetokounmpo-trade-finalists-celtics-heat) — *ESPN*
+📎 [阅读原文](https://www.bbc.com/sport/tennis/articles/c36yjz55z3zo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘Voicemails for Isabelle’ Star Zoey Deutch and Filmmaker on Forgiving Wes, Jill’s Grief and Rom-Com’s Magic: The Gathering Plot Twist
+### 1. Michael Ovitz Storms Out of Deposition After Being Asked About Jeffrey Epstein
 
-[原文] SPOILER ALERT:&#160;This story contains spoilers for “Voicemails for Isabelle,&#8221; now streaming on Netflix. Netflix&#8217;s latest rom-com hit, &#8220;Voicemails for Isabelle,&#8221; landed on the
+[原文] Michael Ovitz, the co-founder of CAA, stormed out of a deposition on June 1 after being asked about his friendship with Jeffrey Epstein. Ovitz was being questioned by a lawyer for Julia Ormond, the ac
 
-📎 [阅读原文](https://variety.com/2026/film/news/voicemails-for-isabelle-wes-jill-magic-the-gathering-black-lotus-1236778711/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/michael-ovitz-deposition-jeffrey-epstein-julia-ormond-1236787721/) — *Variety*
 
-### 2. Wall of Entertainment Studio to Partner with Tubi for Two Original Comedy Series (EXCLUSIVE)
+### 2. Ryan Beatty on How Finding Happiness in Love Shaped His New Album ‘Sweet Fortune’: ‘This Record Has a Really Big Heart to It’
 
-[原文] Wall of Entertainment studio is set to premiere two new original series, “Substitute Teacher” and “House Rules,” on Tubi this summer. The partnership marks the UK-based studio’s first projects produce
+[原文] Ryan Beatty was about to embark on the final leg of his &#8220;Calico&#8221; tour in 2024 when he cut the song &#8220;Phantom&#8221; with frequent collaborator Ethan Gruska. He was in Los Angeles, the
 
-📎 [阅读原文](https://variety.com/2026/tv/news/wall-of-entertainment-tubi-partnership-original-comedy-1236787621/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/ryan-beatty-sweet-fortune-finding-happiness-in-love-1236787711/) — *Variety*
 
-### 3. Netflix Names Hannah Minghella as Animation Studios Chief
+### 3. ‘Kennedy’ Stars Nick Robinson and Laura Donnelly on Why Series Isn’t Leaning Into Family’s Signature Boston Accent
 
-[原文] Hannah Minghella was named head of Netflix Animation Studios in an effort by the streaming giant to streamline all things animated. Minghella, who started at Netflix in 2024 as the head of feature ani
+[原文] While the upcoming Netflix drama series “Kennedy” will chronicle the famous political dynasty from 1931 to 1944, the family’s signature Boston accent won’t be so pervasive. Nick Robinson, who plays Jo
 
-📎 [阅读原文](https://variety.com/2026/film/news/netflix-hannah-minghella-animation-studios-chief-1236787597/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/columns/kennedy-nick-robinson-laura-donnelly-boston-accent-1236787671/) — *Variety*
 
-### 4. Music Critic Anthony Fantano Defends Himself Over Halsey Tweets: ‘I’m Not the Devil Himself’
+### 4. Tom Hanks Says Disney Could Use AI to Recreate Woody’s Voice for ‘Toy Story 6’ and Beyond If He Doesn’t Return: ‘It’s a Scary Thought’
 
-[原文] Halsey and her fans’ outrage over an old album review is showing no signs of fading. On Sunday evening, after music critic/content creator Anthony Fantano made a snarky comment about his review of Hal
+[原文] Tom Hanks is back as Woody in &#8220;Top Story 5,&#8221; which set a franchise record with its massive $312 million worldwide opening. Given the enduring popularity of the 31-year-old franchise, peopl
 
-📎 [阅读原文](https://variety.com/2026/music/news/halsey-anthony-fantano-twitter-edgelord-youtube-the-great-impersonator-1236787577/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/tom-hanks-ai-woody-voice-toy-story-6-1236787237/) — *Variety*
 
-### 5. ‘The Invite’ Screenwriters Rashida Jones and Will McCormack on Fighting for Marriage, Esther Perel’s Advice and Their Take on ‘Tom and Jerry’
+### 5. Eamon Farren, Arlo Green, Miranda Otto and Sacha Horler Join Hugo Weaving in Australian Legal Drama ‘The Great White’ From ‘Slow Horses’ Banner See-Saw (EXCLUSIVE)
 
-[原文] Every good party starts with expert hosts. This weekend, audiences will receive “The Invite,&#8221; Olivia Wilde’s couples dramedy, which revived a sleepy Sundance in January thanks to a riveting four
+[原文] &#8220;The Great White,&#8221; ABC Australia&#8217;s upcoming legal workplace drama series from See-Saw Films, has bolstered its cast with filming now underway in Sydney. Alongside the previously anno
 
-📎 [阅读原文](https://variety.com/2026/film/news/the-invite-movie-rashida-jones-will-mccormack-screenwriters-1236787569/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/global/see-saw-australian-legal-drama-the-great-white-filming-1236787149/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Apple Watch Series 11 Drops to Its Lowest Price Ever for Amazon Prime Day
+### 1. GTA 6 Fans Spot Tommy Vercetti Easter Egg Over a Year After Trailer 2's Release
 
-[原文] The best Apple Watch model for most iPhone users.
+[原文] Grand Theft Auto 6 fans have spotted a cheeky nod to Vice City protagonist Tommy Vercetti in the game's second trailer.
 
-📎 [阅读原文](https://www.ign.com/articles/the-apple-watch-series-11-drops-to-its-lowest-price-ever-for-amazon-prime-day) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/gta-6-fans-spot-tommy-vercetti-easter-egg-over-a-year-after-trailer-2s-release) — *IGN*
 
-### 2. The Jackery Explorer 240D 80,000mAh Power Bank Drops to a New Price Low, Just $102 at AliExpress
+### 2. Tom Holland and Zendaya Are Huge Fans of PlayStation's Spider-Man Games, Insomniac Invites Them for Studio Tour
 
-[原文] Miniature power station or super high-capacity power bank?
+[原文] Spider-Man: Brand New Day stars Tom Holland and Zendaya really enjoy Insomniac Games' Spider-Man games.
 
-📎 [阅读原文](https://www.ign.com/articles/jackery-explorer-240d-80000mah-power-bank-deal-june-2026-updated) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/tom-holland-and-zendaya-are-huge-fans-of-playstations-spider-man-games-insomniac-invites-them-for-studio-tour) — *IGN*
 
-### 3. Walmart Just Slashed 50% Off the PlayStation PULSE Explore Planar Magnetic Wireless Gaming Earbuds
+### 3. The Last of Us Part 2 Multiplayer Lives On as PvP Mod Due Out Later This Year
 
-[原文] You're getting the best PS5 earbuds for under $100.
+[原文] Naughty Dog may have canceled its The Last of Us Part 2 multiplayer project, but Factions fans can now at least have a new PvP mode to look forward to… if they're on PC.
 
-📎 [阅读原文](https://www.ign.com/articles/playstation-pulse-explore-planar-magnetic-wireless-gaming-earbuds-deal) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/the-last-of-us-part-2-multiplayer-lives-on-as-pvp-mod-due-out-later-this-year) — *IGN*
 
-### 4. The New 2026 Apple iPad Air with M4 Chip Drops to Its Lowest Price Ever for Amazon Prime Day
+### 4. The SteelSeries Arctis Nova Pro Wireless Gaming Headset Hits All-time Low Price For Prime Day
 
-[原文] Save $80 off compared to buying it from the Apple Store
+[原文] You can snag this popular headset for only $249 during Prime Day.
 
-📎 [阅读原文](https://www.ign.com/articles/best-apple-ipad-air-deal-amazon-prime-day-sale) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/steelseries-arctis-nova-pro-wireless-gaming-headset-deal-amazon-prime-day-2026) — *IGN*
 
-### 5. Get a 350W Adult Electric Scooter With 19mph Top Speed for Under $100 AHead of Prime Day
+### 5. Warframe Dev Says 'No One Is Celebrating' as Destiny 2 Support Comes to a 'Heartbreaking' End
 
-[原文] Fast and free delivery (ships from the US) and sold by the official manufacturer.
+[原文] Warframe community director Megan Everett has said that "no one is celebrating" the "heartbreaking" news that Sony pulled the plug on Destiny 2 support.
 
-📎 [阅读原文](https://www.ign.com/articles/best-ladped-lp60-electric-scooter-deal-early-prime-day-deal) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/warframe-dev-says-no-one-is-celebrating-as-destiny-2-support-comes-to-a-heartbreaking-end) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post Jeep Just Confirmed the Cherokee Trailhawk Is Co
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. How a Tiny Texas River Agency Plans to Build the Largest Desalination Plant in the Country
+### 1. A Trump Ally’s Rise in Colombia Could Mean the End of Landmark Climate Policies
+
+[原文] Right-wing businessman Abelardo de la Espriella holds a razor-thin lead in Colombia’s preliminary presidential vote count, positioning the Donald Trump ally to clear the way for expanded fossil fuel e
+
+📎 [阅读原文](https://insideclimatenews.org/news/22062026/colombia-de-la-espriella-presidency-fracking-projects/) — *Inside Climate News*
+
+### 2. How a Tiny Texas River Agency Plans to Build the Largest Desalination Plant in the Country
 
 [原文] This story was produced in partnership with the Texas Newsroom, the state’s network of public radio stations.&#160; Something moved John Byrum. He believed he could succeed where others had not.&#160;
 
 📎 [阅读原文](https://insideclimatenews.org/news/22062026/nueces-river-authority-plans-to-build-nations-largest-desalination-plant/) — *Inside Climate News*
 
-### 2. Environmental Defenders Remain Among World’s Most Targeted Activists
+### 3. Environmental Defenders Remain Among World’s Most Targeted Activists
 
 [原文] Environmental and Indigenous rights defenders remained among the world’s most targeted human rights advocates in 2025, despite landmark rulings by international courts affirming governments’ obligatio
 
 📎 [阅读原文](https://insideclimatenews.org/news/22062026/environmental-defenders-are-increasingly-targeted/) — *Inside Climate News*
 
-### 3. The Water Is Rising in Chesapeake Bay. Can Tangier Island Be Saved?
+### 4. The Water Is Rising in Chesapeake Bay. Can Tangier Island Be Saved?
 
 [原文] TANGIER, Va.— Terry Parks stood in the rear of a boat passing the western shore of Tangier Island.&#160; A native of this Chesapeake Bay island, he pointed to an area of bulky rocks with withered and 
 
 📎 [阅读原文](https://insideclimatenews.org/news/22062026/chesapeake-bay-tangier-island-sea-level-rise/) — *Inside Climate News*
 
-### 4. Greenpeace’s Dutch Anti-SLAPP Case Against Oil Pipeline Giant Advances
+### 5. Greenpeace’s Dutch Anti-SLAPP Case Against Oil Pipeline Giant Advances
 
 [原文] A lawsuit filed by Greenpeace International against the U.S.-based fossil fuel company Energy Transfer in the Netherlands is moving forward after a Dutch court recently ruled in favor of the environme
 
 📎 [阅读原文](https://insideclimatenews.org/news/21062026/greenpeace-anti-slapp-lawsuit-against-energy-transfer/) — *Inside Climate News*
-
-### 5. The Search for Super Reefs
-
-[原文] The world has already lost more than half of its coral reefs, and most of what remains is at risk of disappearing in the next 25 years. But new research offers a ray of hope: Even as hotter temperatur
-
-📎 [阅读原文](https://insideclimatenews.org/news/21062026/icn-sunday-morning-super-reefs/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post Jeep Just Confirmed the Cherokee Trailhawk Is Co
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘A Giant of a Man’: Rod Stewart, Carlos Santana, Patti Smith, More Pay Tribute to Clive Davis
+### 1. Diane Warren Pens Tribute to Clive Davis: ‘Losing You Today Feels Like Losing My Father’
+
+[原文] Davis worked with the prolific songwriter for decades, from DeBarge’s “Rhythm of the Night” to Toni Braxton‘s “Un-Break My Heart"
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/clive-davis-dead-diane-warren-writes-tribute-1235582118/) — *Rolling Stone*
+
+### 2. Liam Payne’s 9-Year-Old Son Named Sole Inheritor of Singer’s $29 Million Estate
+
+[原文] The One Direction alum welcomed his first and only child with singer Cheryl in 2017
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/liam-payne-son-beneficiary-29-million-estate-1235582095/) — *Rolling Stone*
+
+### 3. ‘A Giant of a Man’: Rod Stewart, Carlos Santana, Patti Smith, More Pay Tribute to Clive Davis
 
 [原文] The beloved music executive died Monday at age 94
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/clive-davis-rod-stewart-carlos-santana-pay-tribute-1235577878/) — *Rolling Stone*
 
-### 2. Carlos Santana Remembers ‘Visionary’ Record Exec Clive Davis: He ‘Recognized the Light in People’
+### 4. Carlos Santana Remembers ‘Visionary’ Record Exec Clive Davis: He ‘Recognized the Light in People’
 
 [原文] Davis signed the guitarist’s eponymous band in the late Sixties, then worked with them again on their blockbuster 1999 album Supernatural
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/carlos-santana-tribute-clive-davis-1235581708/) — *Rolling Stone*
 
-### 3. Bruce Springsteen Remembers Clive Davis: ‘He Changed My Life When He Signed Me’
+### 5. Bruce Springsteen Remembers Clive Davis: ‘He Changed My Life When He Signed Me’
 
 [原文] The music executive signed Springsteen to Columbia Records when he was 22 years old
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/bruce-springsteen-remembers-clive-davis-1235581620/) — *Rolling Stone*
-
-### 4. Madonna Says Her Biopic Was Killed After a ‘Falling Out’ With Universal Pictures Over Budget
-
-[原文] “I’ve had a huge life, so I needed a big budget,” the pop star said in a new interview, where she also discussed the fate of a planned limited series adaptation
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/madonna-biopic-killed-budget-dispute-universal-1235581600/) — *Rolling Stone*
-
-### 5. Olivia Rodrigo Is Throwing a Fest With an All-Women Lineup Featuring Bikini Kill, Chappell Roan, Doechii
-
-[原文] Daisy Chain Fields’ lineup rules with Garbage, Mitski, Katseye and special guests Karen O, Sarah McLachlan, and Stevie Nicks
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/olivia-rodrigo-daisy-chain-fest-bikini-kill-chappell-roan-1235581562/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post Jeep Just Confirmed the Cherokee Trailhawk Is Co
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Those Higher Airfares May Stick Even if Fuel Prices Drop
+### 1. Cordelia Cruises IPO Bets on India’s Untapped Cruise Market
+
+[原文] By 2028, Cordelia will have transformed from a single-vessel operator into a three-ship fleet. The challenge is whether India's still-nascent cruise market can generate demand quickly enough to suppor
+
+📎 [阅读原文](https://skift.com/2026/06/22/cordelia-cruises-ipo-bets-on-indias-untapped-cruise-market/) — *Skift*
+
+### 2. Those Higher Airfares May Stick Even if Fuel Prices Drop
 
 [原文] Airlines are betting that they can hold onto their pricing power even as the price of fuel decreases due to strong demand and fewer competitors in the industry.
 
 📎 [阅读原文](https://skift.com/2026/06/22/those-higher-airfares-may-stick-even-if-fuel-prices-drop/) — *Skift*
 
-### 2. The Saudization of Saudi Tourism
+### 3. The Saudization of Saudi Tourism
 
 [原文] The war gave Saudi tourism the clarity it could not give itself: the durable market is domestic and regional, the leadership is Saudi, and the reset is real.
 
 📎 [阅读原文](https://skift.com/2026/06/22/the-saudization-of-saudi-tourism/) — *Skift*
 
-### 3. How Hyatt’s Lifestyle Chief Does a ‘Portfolio Cleanup’
+### 4. How Hyatt’s Lifestyle Chief Does a ‘Portfolio Cleanup’
 
 [原文] Since selling The Standard to Hyatt, Amar Lalvani has reviewed the group's lifestyle portfolio and debuted a new brand, The Manner, to stay on top of where he feels trends are heading.
 
 📎 [阅读原文](https://skift.com/2026/06/22/how-hyatts-lifestyle-chief-does-a-portfolio-cleanup/) — *Skift*
 
-### 4. AI Is Eroding the OTA’s First-Click Advantage — Here’s How Hotels Can Win It Back
+### 5. AI Is Eroding the OTA’s First-Click Advantage — Here’s How Hotels Can Win It Back
 
 [原文] AI is rapidly shifting hotel discovery from traditional search queries to conversational, intent-driven experiences. This white paper explores how hospitality brands are adapting their technology, con
 
 📎 [阅读原文](https://skift.com/2026/06/22/ai-search-economy-hospitality-white-paper/) — *Skift*
-
-### 5. Hilton Says It Will Build New Brands Again — Owners Will Want to See the Math
-
-[原文] A trademark and a domain suggest that a new Hilton lifestyle brand called Tortoise may be in the works. But the bigger question for the newish chief development officer is whether Hilton's model still
-
-📎 [阅读原文](https://skift.com/2026/06/21/hilton-says-it-will-build-new-brands-again-owners-will-want-to-see-the-math/) — *Skift*
 
 ---
 
@@ -515,7 +515,7 @@ The post Jeep Just Confirmed the Cherokee Trailhawk Is Co
 - **💰 经济财经**: CNBC
 - **💻 科技**: TechCrunch
 - **🔬 科学**: Science Daily
-- **⚽ 体育**: ESPN
+- **⚽ 体育**: BBC Sport
 - **🎬 娱乐**: Variety
 - **🏥 健康**: WHO
 - **🎮 游戏**: IGN
