@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年06月23日** | 生成时间: 2026-06-23 17:50
+**2026年06月23日** | 生成时间: 2026-06-23 22:57
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back
+### 1. Drowning deaths soar in France as Europe buckles in peak of heatwave
+
+[原文] Forty people have drowned in heatwave-related deaths in France since last Thursday, Prime Minister Sébastien Lecornu says.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c79yvw3j114o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back
 
 [原文] Iran's foreign ministry says it made "no new commitments" on nuclear inspections after talks in Switzerland.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. At least 13 killed and dozens injured after Qatar gas explosion
+### 3. UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children
 
-[原文] The city's main liquified natural gas (LNG) processing site suffered a "technical accident" in the Ras Laffan industrial zone.
+[原文] Israel rejects the new report by the three-member expert panel, calling it a "libellous sham".
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwy05llpjpno?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c0jy96w6pw2o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Ransom note claims Nancy Guthrie died after abduction
+### 4. Zambia ex-president's family wins latest legal battle over what should happen to his body
 
-[原文] The note from the possible kidnappers reportedly stated that they did not mean for her to die and included an apology to the family.
+[原文] Edgar Lungu's family and the Zambian government remain in dispute 12 months after he died.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvgm0mgzl33o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c8r2yryr5mvo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Montreal shooting leaves officer, civilian and suspect dead
+### 5. Trump anticipates better relationship with Colombia under new leader
 
-[原文] It was the first time in 24 years that a Montreal police officer was  killed in the line of duty, the city's police chief said.
+[原文] Abelardo de la Espriella, who preliminary results suggest is Colombia's next president, had Trump's endorsement.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5yz3lv015qo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Inquiry ordered after building fire kills 15 in north India city
-
-[原文] Witnesses described people jumping from windows to escape, while rescue teams broke through a wall to save lives.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwyde73w680o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c9v278ny9meo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Tech rout intensifies as selloff grips global stocks
+### 1. Factory job cuts in June neared financial crisis and Covid levels, S&P says
 
-[原文] Global stocks sold off on Tuesday, led by deep losses for tech stocks following a losing session for the sector on Wall Street.
+[原文] Though the firm's manufacturing index ran better than expected for June, it came largely from an inventory rebuild and despite sharp job cuts.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/23/tech-stocks-sell-off-mag7-samsung-sk-hynix.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/23/factory-job-cuts-reported-around-financial-crisis-and-covid-levels-for-june-sp-says.html) — *CNBC*
 
-### 2. U.S. issues sweeping Iran oil sanctions waivers, unlocking billions in revenue for Tehran
+### 2. Meta announces new smart glasses starting at $299, as Zuckerberg keeps pushing wearables
+
+[原文] Meta executives have said they see the lightweight smart glasses as a step towards a more advanced device that includes screens in the lenses.
+
+📎 [阅读原文](https://www.cnbc.com/2026/06/23/meta-glasses-are-new-smart-glasses-starting-at-299.html) — *CNBC*
+
+### 3. SpaceX stock climbs 2% after falling below $150 debut price
+
+[原文] Gains have been pared back at the space and AI company following an initial surge after its record-breaking IPO.
+
+📎 [阅读原文](https://www.cnbc.com/2026/06/23/spacex-stock-tech-sell-off.html) — *CNBC*
+
+### 4. U.S. issues sweeping Iran oil sanctions waivers, unlocking billions in revenue for Tehran
 
 [原文] The U.S. issued a sweeping rollback of sanctions on Iranian oil, offering Tehran an economic lifeline as negotiations toward a peace deal proceed.
 
 📎 [阅读原文](https://www.cnbc.com/2026/06/23/us-iran-oil-sanction-relief-strait-of-hormuz-peace-deal-.html) — *CNBC*
 
-### 3. Apollo curbs withdrawals after exit requests hit 17%, reigniting fears over private credit liquidity
+### 5. Sen. Cassidy plans to push 'big idea' for Social Security reform in last days in office
 
-[原文] Apollo is capping investor redemptions in its main retail-focused private credit fund after exit requests hit 17%.
+[原文] As Social Security faces an imminent funding shortfall, Sen. Bill Cassidy said he has come up with a plan to invest in the stock market on the program's behalf.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/23/apollo-private-credit-fund-withdrawals-redemptions.html) — *CNBC*
-
-### 4. 'I like their money': Trump threatens lawsuits against ABC for reporting on Reflecting Pool
-
-[原文] The latest action against ABC comes as the broadcaster faces two investigations from the Federal Communications Commission.
-
-📎 [阅读原文](https://www.cnbc.com/2026/06/23/trump-threatens-lawsuits-against-abc-network-for-reporting-on-reflecting-pool.html) — *CNBC*
-
-### 5. Tesla faces federal probe after Model 3 slams into Texas home, killing 76-year-old
-
-[原文] Harris County authorities said that the driver, Michael Butler, said that he had been using Tesla's partially automated driving systems.
-
-📎 [阅读原文](https://www.cnbc.com/2026/06/22/tesla-nhtsa-model-3-crash-autopilot-katy-texas.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/23/social-security-reform-cassidy.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The running list: major tech layoffs in 2026 where employers cited AI
+### 1. Meta debuts new, cheaper smart glasses under its own brand
+
+[原文] The smart glasses are available in several countries starting today in a variety of color and lens combinations.
+
+📎 [阅读原文](https://techcrunch.com/2026/06/23/meta-debuts-new-cheaper-smart-glasses-under-its-own-brand/) — *TechCrunch*
+
+### 2. 4 days left to save up to $190 on TechCrunch Founder Summit 2026
+
+[原文] Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 - the ultimate founder bootcamp - before Early Bird rates end on June 26 at 11:59 p.m. PT. Register here.
+
+📎 [阅读原文](https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/) — *TechCrunch*
+
+### 3. Ribbie turns real-time baseball stats into arcade-like, pixel-art broadcasts
+
+[原文] Ribbie lets you follow along live with MLB games with a delightful, arcade-inspired interface.
+
+📎 [阅读原文](https://techcrunch.com/2026/06/23/ribbie-turns-real-time-baseball-stats-into-arcade-like-pixel-art-broadcasts/) — *TechCrunch*
+
+### 4. Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates
+
+[原文] Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedI
+
+📎 [阅读原文](https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/) — *TechCrunch*
+
+### 5. The running list: major tech layoffs in 2026 where employers cited AI
 
 [原文] A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/) — *TechCrunch*
-
-### 2. OpenAI launches new initiative to help find and patch open source bugs
-
-[原文] OpenAI is using AI to help the open source community better protect itself.
-
-📎 [阅读原文](https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/) — *TechCrunch*
-
-### 3. Tesla pushes back on Autopilot narrative after fatal Texas crash
-
-[原文] Whether the Autopilot system was truly active, overridden, or malfunctioning likely won't be resolved until investigators finish combing through the vehicle's data logs.
-
-📎 [阅读原文](https://techcrunch.com/2026/06/22/tesla-pushes-back-on-autopilot-narrative-after-fatal-texas-crash/) — *TechCrunch*
-
-### 4. Shareholders sue Uber’s board over sexual assaults, other incidents
-
-[原文] The lawsuit, led by a Detroit pension fund, alleges Uber's board and management has cut too many compliance corners, resulting in thousands of lawsuits.
-
-📎 [阅读原文](https://techcrunch.com/2026/06/22/shareholders-sue-ubers-board-over-sexual-assaults-other-incidents/) — *TechCrunch*
-
-### 5. The AI world is getting ‘loopy’
-
-[原文] The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly.
-
-📎 [阅读原文](https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/) — *TechCrunch*
 
 ---
 
@@ -168,23 +168,23 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. A Golden Boot race for the ages - but who will come out on top?
+### 1. McCullum confused by stories of rift as Stokes returns
 
-[原文] It is fast turning into a Golden Boot race for the ages as the world's best strikers star at the World Cup. But who will come out on top?
+[原文] Head coach Brendon McCullum said he remains "good friends" with England captain Ben Stokes and the pair have "no idea" why rumours of a rift have emerged.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c5yz2enre06o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/ckg02vdrkzgo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. What France & Iraq did during 'mentally draining' two-hour weather delay
+### 2. How Semenyo overcame rejection to reach the World Cup with Ghana
 
-[原文] France's World Cup match against Iraq was delayed for two hours because of the weather. BBC Sport look at how the sides dealt with it.
+[原文] Winger Antoine Semenyo's football journey began in the English lower leagues. BBC Sport charts his rise from Bath City to the World Cup, with Ghana poised to face England.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cy73y401ppjo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cp9p9r7gg4eo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Is Gasly's podium justice or a can of worms best left unopened? F1 Q&A
+### 3. The World Cup stars being targeted by Premier League clubs
 
-[原文] BBC Sport F1 correspondent Andrew Benson answers your latest questions before the Austrian Grand Prix.
+[原文] The World Cup stars being targeted by Premier League clubs. Who has caught the eye already, and which clubs are focusing on longer-term priorities?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/ckg042kgj4yo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/clyrn4gwdy4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ### 4. How do you solve a problem like Ronaldo?
 
@@ -192,11 +192,11 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c2ly7gz8p0qo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Norway win five-goal thriller against Senegal to make last 32
+### 5. Will England fans in Boston follow Scotland's lead?
 
-[原文] Erling Haaland scores twice as Norway book their place in the last 32 of the World Cup with a 3-2 victory over Senegal in New Jersey.
+[原文] After Scotland win the hearts of Boston, can England fans follow in their footsteps?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cze9g17p6rlo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c8x2rev41ydo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Dustin Hoffman, Juliette Binoche, Jeffrey Wright to Be Honored at Karlovy Vary Film Festival
+### 1. Walmart to Acquire Vibe.co in Bid to Win More Advertising to Its Platforms
 
-[原文] Actors Dustin Hoffman, Juliette Binoche and Jeffrey Wright, and cinematographer Robert Richardson will be honored at the 60th Karlovy Vary Intl. Film Festival. Hoffman will be presented with the Cryst
+[原文] Walmart is one of the nation&#8217;s more prominent advertisers, but, increasingly, it&#8217;s looking to become a bigger sell of advertising as well. The retailing giant, which offers video-advertisi
 
-📎 [阅读原文](https://variety.com/2026/film/global/dustin-hoffman-juliette-binoche-jeffrey-wright-karlovy-vary-1236787921/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/walmart-acquire-vibe-advertising-1236788242/) — *Variety*
 
-### 2. ‘House of the Dragon’ Star Olivia Cooke Reveals ‘Really Bad’ Audition for Rey in ‘Star Wars: The Force Awakens’: ‘I Was S—’
+### 2. Disney+ Taps Ron O’Berst, Laura Klimke for Scripted U.K. Roles
 
-[原文] Before Olivia Cooke starred in the &#8220;Game of Thrones&#8221; spinoff &#8220;House of the Dragon,&#8221; she once auditioned for another major franchise: &#8220;Star Wars.&#8221; During an appearan
+[原文] With the success of “Rivals” on Disney+, the Mouse House is investing in its U.K. scripted original teams with two new hires. Disney+ scripted originals in the U.K. has tapped Ron O&#8217;Berst from “
 
-📎 [阅读原文](https://variety.com/2026/tv/global/olivia-cooke-auditioned-rey-star-wars-really-bad-1236787904/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/global/disney-ron-oberst-laura-klimke-scripted-uk-1236788221/) — *Variety*
 
-### 3. ‘The Traitors’ Sets WhatsApp-Based Game ‘The Traitors: Anywhere,’ Allowing Fans to Play at Home
+### 3. ‘Devil Wears Prada 2’ Sets Disney+ and Hulu Release Dates in July
 
-[原文] If you’ve ever watched “The Traitors” and wished you could take part, now’s your chance. The hit gameshow has been adapted for the U.K. and Ireland as a social deduction experiment played entirely via
+[原文] Gird your loins because “The Devil Wears Prada 2” will be available to stream on Disney+ and Hulu starting July 29. The sequel has grossed $677 million so far at the worldwide summer box office. Relea
 
-📎 [阅读原文](https://variety.com/2026/digital/global/the-traitors-anywhere-whatsapp-game-1236772319/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/devil-wears-prada-2-disney-plus-streaming-release-date-1236757274/) — *Variety*
 
-### 4. Edinburgh TV Festival Relocating After 50 Years in Shock Move
+### 4. Zendaya and Robert Pattinson’s ‘The Drama’ Sets HBO Max Release Date
 
-[原文] Edinburgh’s long-running TV festival is set to relocate to Manchester next year after spending 50 years in the Scottish capital. The decision was taken by the festival’s board of directors, who have b
+[原文] A24&#8217;s &#8220;The Drama&#8221; is set to arrive on HBO Max July 31. Written and directed by Kristoffer Borgli, &#8220;The Drama&#8221; follows soon-to-be-married couple Emma (Zendaya) and Charlie
 
-📎 [阅读原文](https://variety.com/2026/tv/global/edinburgh-tv-festival-relocating-manchester-1236787401/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/the-drama-hbo-max-release-date-streaming-1236752722/) — *Variety*
 
-### 5. Agnieszka Holland to Direct Marlene Dietrich Biopic ‘Berlinweh – Yearning for a Home’
+### 5. Luke James Joins Cast of Broadway Musical ‘Wanted’ (EXCLUSIVE)
 
-[原文] Polish director Agnieszka Holland has revealed details about her next feature film project, a biographical film about Marlene Dietrich, “Berlinweh – Yearning for a Home.” World sales are handled by Fi
+[原文] Grammy-nominated R&#38;B singer, songwriter and actor Luke James will star as Elijah in the new Broadway musical &#8220;Wanted.&#8221; He joins previously announced cast members Solea Pfeiffer (&#8220
 
-📎 [阅读原文](https://variety.com/2026/film/global/agnieszka-holland-marlene-dietrich-biopic-berlinweh-1236787881/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/legit/news/luke-james-broadway-musical-wanted-1236788038/) — *Variety*
 
 ---
 
@@ -244,35 +244,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. WHO issues comprehensive guidelines on filovirus disease, including Ebola and Marburg disease
+### 1. WHO urges scale up of newborn screening to improve early detection and care of birth defects
+
+[原文] The World Health Organization (WHO) today calls on countries to expand newborn screening for birth defects, highlighting how early detection and treatment can save lives and reduce lifelong disability
+
+📎 [阅读原文](https://www.who.int/news/item/23-06-2026-who-urges-scale-up-of-newborn-screening-to-improve-early-detection-and-care-of-birth-defects) — *WHO*
+
+### 2. WHO issues comprehensive guidelines on filovirus disease, including Ebola and Marburg disease
 
 [原文] As the Democratic Republic of the Congo is battling an Ebola disease outbreak caused by the Bundibugyo virus, the World Health Organization (WHO) has released its first comprehensive guidelines for th
 
 📎 [阅读原文](https://www.who.int/news/item/17-06-2026-who-issues-comprehensive-guidelines-on-filovirus-disease--including-ebola-and-marburg-disease) — *WHO*
 
-### 2. Open letter to leaders of G7, G20, BRICS and all nations on finalizing the WHO Pandemic Agreement’s Pathogen Access and Benefit Sharing annex
+### 3. Open letter to leaders of G7, G20, BRICS and all nations on finalizing the WHO Pandemic Agreement’s Pathogen Access and Benefit Sharing annex
 
 [原文] Dear Leaders of the G7, the G20, BRICS and of all nations,We write to you together, from Geneva and from Bras&iacute;lia, with one shared conviction: that the world must finish what it started, and th
 
 📎 [阅读原文](https://www.who.int/news/item/15-06-2026-open-letter-to-leaders-of-g7-g20-brics-and-all-nations-on-finalizing-the-who-pandemic-agreement-s-pathogen-access-and-benefit-sharing-annex) — *WHO*
 
-### 3. Safe blood supply improves as voluntary donations exceed 85%, but many people still lack access
+### 4. Safe blood supply improves as voluntary donations exceed 85%, but many people still lack access
 
 [原文] New data from the World Health Organization (WHO) show sustained progress towards safer blood supplies globally but also highlight persistent inequalities in access to safe blood and weaknesses in gov
 
 📎 [阅读原文](https://www.who.int/news/item/12-06-2026-safe-blood-supply-improves-as-voluntary-donations-exceed-85---but-many-people-still-lack-access) — *WHO*
 
-### 4. Africa CDC and WHO launch joint continental Ebola response plan
+### 5. Africa CDC and WHO launch joint continental Ebola response plan
 
 [原文] The Africa Centres for Disease Control and Prevention (Africa CDC) and the World Health Organization (WHO) today launched a joint continental preparedness and response plan on the ongoing Ebola outbre
 
 📎 [阅读原文](https://www.who.int/news/item/05-06-2026-africa-cdc-and-who-launch-joint-continental-ebola-response-plan) — *WHO*
-
-### 5. Unsafe food causes 866 million illnesses and 1.5 million deaths annually, young children at highest risk
-
-[原文] Children aged less than five years face almost three times the risk of illness from unsafe food than older children and adults, according to new estimates released today by the World Health Organizati
-
-📎 [阅读原文](https://www.who.int/news/item/04-06-2026-unsafe-food-causes-866-million-illnesses-and-1.5-million-deaths-annually--young-children-at-highest-risk) — *WHO*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. This LEGO Hogwarts Express Book Nook Deal at Amazon Is a Great Harry Potter Gift Idea
+### 1. The 10 Best Soccer Game Covers
 
-暂无摘要。
+[原文] What's the best soccer game cover star? Here's our ranking of the best players to appear on FIFA and PES boxes.
 
-📎 [阅读原文](https://www.ign.com/articles/lego-harry-potter-hogwarts-express-book-nook-deal-prime-day-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/the-10-best-soccer-game-covers) — *IGN*
 
-### 2. Keanu Reeves Reportedly in Talks to Star in New LEGO Movie Project from Toy Story 4 Director
+### 2. Shaolin Soccer Spinoff Kung Fu Soccer From Stephen Chow Heads for North American Theaters
 
-[原文] Keanu Reeves is in negotiations to star in a new LEGO movie from Toy Story 4 director Josh Cooley, which would reportedly be a hybrid of animation and live action.
+[原文] 25 years after Shaolin Soccer came out, spinoff Kung Fu Soccer is confirmed to be getting a theatrical release in North America.
 
-📎 [阅读原文](https://www.ign.com/articles/keanu-reeves-reportedly-in-talks-to-star-in-new-lego-movie-project-from-toy-story-4-director) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/shaolin-soccer-spinoff-kung-fu-soccer-from-stephen-chow-heads-for-north-american-theaters) — *IGN*
 
-### 3. Amazon's Google Pixel 10 Pro Sale Is the Best Phone Deal of Prime Day
+### 3. Loads of PS5 Games Are Heavily Discounted for Prime Day 2026 — Here's Our Top Picks in the Sale
 
-[原文] The Google Pixel 10 Pro is on sale for just $799 during the Prime Day sale.
+[原文] We've gathered up some of the best PS5 game deals available so far at Amazon for Prime Day 2026, including Resident Evil Requiem, Clair Obscur: Expedition 33, and more.
 
-📎 [阅读原文](https://www.ign.com/articles/amazons-google-pixel-10-pro-sale-is-the-best-phone-deal-of-prime-day-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/playstation-5-game-deals-prime-day-2026) — *IGN*
 
-### 4. Prime Day LEGO Deals on Sets for Adults Are Especially Good This Year
+### 4. Mars Attacks! 30th Anniversary 4K Blu-ray and Digital Release Announced
 
-暂无摘要。
+[原文] Ack! Ack! IGN can exclusively reveal that director Tim Burton’s cult classic alien invasion comedy Mars Attacks! will get a 4K Blu-ray and digital release in honor of its 30th anniversary.
 
-📎 [阅读原文](https://www.ign.com/articles/lego-prime-day-deals-for-adults-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/mars-attacks-30th-anniversary-4k-bluray-release) — *IGN*
 
-### 5. Powerpuff Girls Movie in the Works at Warner Bros. Animation
+### 5. See Why X-Men: Elsewhen Is Marvel's Most Fascinating X-Men Comic in Years
 
-[原文] Warner Bros. has dipped into its stash of Chemical X in hopes of reuniting Blossom, Bubbles, and Buttercup for a new animated Powerpuff Girls movie.
+[原文] What if the legendary John Byrne never left Uncanny X-Men in 1981? That's the premise behind the new graphic novel X-Men: Elsewhen Vol. 1.
 
-📎 [阅读原文](https://www.ign.com/articles/powerpuff-girls-movie-in-the-works-at-warner-bros-animation) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/x-men-elsewhen-marvel-abrams-comicarts-preview) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The 2027 Ram TRX Is Back, and It’ll Cost You $102,790
+### 1. Amazon Prime Day OBD Scanner Deals: Top Three Best Buys
+
+[原文] Here are the best Amazon Prime Day OBD2 scanner bargains at both the high-performance (expensive) and high-value (cheap) ends of the market.
+The post Amazon Prime Day OBD Scanner Deals: Top Three Best
+
+📎 [阅读原文](https://www.thedrive.com/news/amazon-prime-day-obd-scanner-deals-top-three-best-buys) — *The Drive*
+
+### 2. 75% More Pedestrians Have Been Killed Since 2009. Giant Trucks and SUVs Are Why
+
+[原文] We knew bigger cars were killing more pedestrians; now there's data to prove it.
+The post 75% More Pedestrians Have Been Killed Since 2009. Giant Trucks and SUVs Are Why appeared first on The Drive.
+
+📎 [阅读原文](https://www.thedrive.com/news/75-more-pedestrians-have-been-killed-since-2009-giant-trucks-and-suvs-are-why) — *The Drive*
+
+### 3. One of Our Favorite Off-Road Tire Inflators Is 35% Off for Amazon Prime Day
+
+[原文] The heavy-duty self-contained Etenwolf S6 tire inflator is $55.50 off list price during Amazon Prime Day (June 23-26).
+The post One of Our Favorite Off-Road Tire Inflators Is 35% Off for Amazon Prime 
+
+📎 [阅读原文](https://www.thedrive.com/news/one-of-our-favorite-off-road-tire-inflators-is-35-off-for-amazon-prime-day) — *The Drive*
+
+### 4. Toyota RAV4-Based Truck Is ‘Quite Appealing’ Top Engineer Says: TDS
+
+[原文] There are no plans, currently, for a RAV4-based truck, but deep in our heart of hearts it would be fun, a top RAV4 engineer said.
+The post Toyota RAV4-Based Truck Is &#8216;Quite Appealing&#8217; Top 
+
+📎 [阅读原文](https://www.thedrive.com/news/toyota-rav4-based-truck-is-quite-appealing-top-engineer-says-tds) — *The Drive*
+
+### 5. The 2027 Ram TRX Is Back, and It’ll Cost You $102,790
 
 [原文] Order books are open for Ram's 777-hp Hellcat truck. Gas money is extra.
 The post The 2027 Ram TRX Is Back, and It&#8217;ll Cost You $102,790 appeared first on The Drive.
 
 📎 [阅读原文](https://www.thedrive.com/news/the-2027-ram-trx-is-back-and-itll-cost-you-102790) — *The Drive*
-
-### 2. Car Enthusiasts Hate on the Honda Prelude, But the Real World Loves it
-
-[原文] I spent a few weeks with the Honda Prelude gearheads can't stop whining about, and there was nothing but real love for it out there on the streets.
-The post Car Enthusiasts Hate on the Honda Prelude, 
-
-📎 [阅读原文](https://www.thedrive.com/news/car-enthusiasts-hate-on-the-honda-prelude-but-the-real-world-loves-it) — *The Drive*
-
-### 3. This Man Was Gifted His Dream Car by the Notorious Hacker He Put in Prison
-
-[原文] Shawn Nunley stopped Kevin Mitnick with a cassette recorder. Decades later, Mitnick left him enough to buy his dream Porsche 911 GTS.
-The post This Man Was Gifted His Dream Car by the Notorious Hacker
-
-📎 [阅读原文](https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison) — *The Drive*
-
-### 4. Formula Drift Debuts in Connecticut, Signs Three-Year Contract With Track
-
-[原文] All-new layout, Irish Podium, and major ranking upsets cement Stafford Springs as a must-see stop on the Formula Drift circuit.
-The post Formula Drift Debuts in Connecticut, Signs Three-Year Contract 
-
-📎 [阅读原文](https://www.thedrive.com/news/formula-drift-debuts-in-connecticut-signs-three-year-contract-with-track) — *The Drive*
-
-### 5. Jeep Just Confirmed the Cherokee Trailhawk Is Coming Back
-
-[原文] Jeep CEO Bob Broderdorf told The Drive the new Cherokee would still be capable off-road — now the automaker aims to make good on that promise.
-The post Jeep Just Confirmed the Cherokee Trailhawk Is Co
-
-📎 [阅读原文](https://www.thedrive.com/news/jeep-just-confirmed-the-cherokee-trailhawk-is-coming-back) — *The Drive*
 
 ---
 
@@ -425,11 +425,11 @@ The post Jeep Just Confirmed the Cherokee Trailhawk Is Co
 
 📎 [阅读原文](https://edsurge.com/news/what-tiktok-is-teaching-future-teachers-that-we-arent) — *EdSurge*
 
-### 5. Podcast: Recess, Screens, and Absenteeism
+### 5. Can Schools Afford an AI-First Future?
 
-暂无摘要。
+[原文] While some experts suggest AI integration for teaching and learning, schools still have to figure out how to pay for it.
 
-📎 [阅读原文](https://edsurge.com/news/recess-screens-and-absenteeism) — *EdSurge*
+📎 [阅读原文](https://edsurge.com/news/can-schools-afford-an-ai-first-future) — *EdSurge*
 
 ---
 
@@ -439,35 +439,35 @@ The post Jeep Just Confirmed the Cherokee Trailhawk Is Co
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Diane Warren Pens Tribute to Clive Davis: ‘Losing You Today Feels Like Losing My Father’
+### 1. Buddy Guy, Blues Survivor, to Celebrate 90th Birthday With Eric Clapton, John Mayer
+
+[原文] Susan Tedeschi and Derek Trucks, Jon Batiste, and many others, including Guy himself, will perform at star-studded concert in New York this fall
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/buddy-guy-90-birthday-concert-eric-clapton-john-mayer-1235582178/) — *Rolling Stone*
+
+### 2. My Morning Jacket’s Jim James Turned Old Film Scores Into His First Solo Album in Eight Years
+
+[原文] The singer-songwriter previewed Wowed Out with the mesmerizing first single, "Come Again"
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/jim-james-solo-album-wowed-out-come-again-1235582222/) — *Rolling Stone*
+
+### 3. Diane Warren Pens Tribute to Clive Davis: ‘Losing You Today Feels Like Losing My Father’
 
 [原文] Davis worked with the prolific songwriter for decades, from DeBarge’s “Rhythm of the Night” to Toni Braxton‘s “Un-Break My Heart"
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/clive-davis-dead-diane-warren-writes-tribute-1235582118/) — *Rolling Stone*
 
-### 2. Liam Payne’s 9-Year-Old Son Named Sole Inheritor of Singer’s $29 Million Estate
+### 4. Liam Payne’s 9-Year-Old Son Named Sole Inheritor of Singer’s $29 Million Estate
 
 [原文] The One Direction alum welcomed his first and only child with singer Cheryl in 2017
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/liam-payne-son-beneficiary-29-million-estate-1235582095/) — *Rolling Stone*
 
-### 3. ‘A Giant of a Man’: Rod Stewart, Carlos Santana, Patti Smith, More Pay Tribute to Clive Davis
+### 5. ‘A Giant of a Man’: Rod Stewart, Carlos Santana, Patti Smith, More Pay Tribute to Clive Davis
 
 [原文] The beloved music executive died Monday at age 94
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/clive-davis-rod-stewart-carlos-santana-pay-tribute-1235577878/) — *Rolling Stone*
-
-### 4. Carlos Santana Remembers ‘Visionary’ Record Exec Clive Davis: He ‘Recognized the Light in People’
-
-[原文] Davis signed the guitarist’s eponymous band in the late Sixties, then worked with them again on their blockbuster 1999 album Supernatural
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/carlos-santana-tribute-clive-davis-1235581708/) — *Rolling Stone*
-
-### 5. Bruce Springsteen Remembers Clive Davis: ‘He Changed My Life When He Signed Me’
-
-[原文] The music executive signed Springsteen to Columbia Records when he was 22 years old
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/bruce-springsteen-remembers-clive-davis-1235581620/) — *Rolling Stone*
 
 ---
 
