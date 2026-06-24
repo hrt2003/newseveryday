@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年06月24日** | 生成时间: 2026-06-24 17:37
+**2026年06月24日** | 生成时间: 2026-06-24 22:39
 
 ---
 
@@ -16,23 +16,23 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. France braces for another day of sweltering heat as Europe heatwave spreads
+### 1. Power outages hit France as record heatwave set to peak
 
-[原文] The heatwave is expected to spread to other parts of western Europe on Wednesday, before extending eastwards over the weekend.
+[原文] About 68,000 homes in Brittany have been affected, with electricity unlikely to be fully restored until Wednesday night.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Congress passes war powers measure for first time, breaking with Trump over Iran
+### 2. Air conditioning creates political divide as France records hottest day
 
-[原文] The resolution passed on Tuesday was largely symbolic, but it adds to pressure on the White House to end the conflict once and for all.
+[原文] France is being forced to re-think its longstanding reservations about air-conditioning as temperatures soar.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c4gyqldl3p5o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls
+### 3. UN nuclear chief says inspectors will visit Iran sites as part of war deal
 
-[原文] US Secretary of State Marco Rubio warned Iran that no country can charge fees for ships to travel through the strait.
+[原文] Rafael Grossi says the IAEA is "working on modalities" but an Iranian  minister says such access would only be part of a final deal with the US.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 4. Clean sweep for Mamdani-backed candidates in New York's Democratic primary
 
@@ -40,11 +40,11 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Sydney woman wakes from induced coma more than a week after shark attack
+### 5. Biggest city in Crimea without power after Ukraine strikes
 
-[原文] Leah Stewart, 34, had one of her arms amputated after she was bitten while swimming at Coogee Beach.
+[原文] Sevastopol's Moscow-installed governor warns there will be no electricity in some areas until the evening.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy8drk2dk3no?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c3ryv72pjqno?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Brent falls below $76, notching its lowest level since day before U.S.-Iran war
+### 1. Trump cancels signing of bipartisan housing bill, demanding voter-ID provision
 
-[原文] U.S. President Donald Trump intensified pressure on oil companies to lower gasoline prices following the recent decline in crude.
+暂无摘要。
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/24/oil-prices-wti-brent-crude-trump-doj-gasoline-prices-strait-of-hormuz.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/24/trump-cancels-housing-bill-signing-save-america-act.html) — *CNBC*
 
-### 2. Three New York Democrats backed by Mamdani win House seat primaries; 2 incumbents lose
+### 2. Treasury Secretary Bessent says U.S. GDP growth can return to 3% before end of the year
 
-[原文] Two candidates backed by the Democratic Socialist of America won their primaries, a year after the DSA-backed Zohran Mamdani won New York mayor's race.
+[原文] Bessent sees his "3-3-3" plan as still in reach — 3% growth, a 3% deficit-to-GDP rate and a 3 million barrels per day increase in oil production.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/24/mamdani-democrats-house-primary-lander-valdez-chevalier.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/24/treasury-secretary-bessent-says-us-gdp-growth-can-return-to-3percent-before-end-of-the-year.html) — *CNBC*
 
-### 3. Ukraine is raising the cost of war for Russia — and testing Putin's resolve
+### 3. Slate Auto says each $24,950 electric pickup truck will be profitable as it aims to be cash-flow positive next year
 
-[原文] A string of political victories and deep-strike successes has bolstered confidence in Ukraine amid its long-running war with Russia.
+[原文] EV startup Slate Auto CEO Peter Faricy told CNBC that every vehicle the company produces will be gross margin positive.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/24/ukraine-russia-drone-strikes-moscow-escalation.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/24/slate-ev-pickup-truck-ceo-business-goals.html) — *CNBC*
 
-### 4. House passes affordable housing bill, sends it to Trump's desk
+### 4. New meme stock Wendy's soars 30% with trading halted at one point
 
-[原文] The House on Tuesday gave final passage to a bill aimed at lowering costs for homebuyers and reining in private equity.
+[原文] While management changes can influence investor sentiment, the magnitude of the move suggests other forces may be at play.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/23/house-affordable-housing-bill-trump.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/24/wendys-stock-soars-as-meme-traders-target-another-turnaround-play.html) — *CNBC*
 
-### 5. Defense stocks plummet on report Germany is scrapping warships; Rheinmetall stock down 13%
+### 5. Trump claims Iran has assured U.S. there won't be tolls on the Strait of Hormuz
 
-[原文] Berlin is planning to scrap a multi-billion-euro project to build the F126 frigates, according to the Financial Times.
+[原文] There will be no tolls, insurance costs, or charges of any kind for ships looking to pass through the Strait of Hormuz, Trump said.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/24/rheinmetall-stock-defense-germany-warship-scrap-plans.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/24/trump-claims-iran-has-assured-us-there-wont-be-tolls-on-the-strait-of-hormuz.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. How to invest when everything is moving too fast
+### 1. If you want to cut your screen time, just get a Brick
+
+[原文] After years of struggling to curb my screen time, apparently all I needed was a $59 hunk of plastic.
+
+📎 [阅读原文](https://techcrunch.com/2026/06/24/if-you-want-to-cut-your-screen-time-just-get-a-brick/) — *TechCrunch*
+
+### 2. 3 days left to save up to $190 on your TechCrunch Founder Summit 2026 pass
+
+[原文] You have just 3 days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 before Early Bird rates end on June 26 at 11:59 p.m. PT. Register here.
+
+📎 [阅读原文](https://techcrunch.com/2026/06/24/3-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/) — *TechCrunch*
+
+### 3. Valor Equity Partners looks to raise a $2.5B Fund VII, per Bloomberg
+
+[原文] New details have emerged about Valor's latest fund, which last year announced it was raising an unspecified amount of capital.
+
+📎 [阅读原文](https://techcrunch.com/2026/06/24/valor-equity-partners-looks-to-raise-a-2-5b-fund-vii-per-bloomberg/) — *TechCrunch*
+
+### 4. Slate Auto’s radically simple electric truck starts at $24,950
+
+[原文] The Jeff Bezos-backed startup finally revealed more pricing details for its debut EV, including a $29,950 starting price for the SUV variant, and boosted the base range to 205 miles.
+
+📎 [阅读原文](https://techcrunch.com/2026/06/24/slate-autos-radically-simple-electric-truck-starts-at-24950/) — *TechCrunch*
+
+### 5. How to invest when everything is moving too fast
 
 [原文] TechCrunch's StrictlyVC evening in Los Angeles late last week brought together two of the more straight-talking investors working in AI right now. They were as entertaining as they were illuminating.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/23/how-to-invest-when-everything-is-moving-too-fast/) — *TechCrunch*
-
-### 2. Walmart-backed Flipkart expands quick-commerce push as Amazon ramps up in India
-
-[原文] Walmart-backed Flipkart has crossed 1,000 micro-fulfillment centers as Amazon accelerates its own quick-commerce push in India.
-
-📎 [阅读原文](https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/) — *TechCrunch*
-
-### 3. India’s MoEngage bets that the future of marketing is millions of AI agents
-
-[原文] The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers.
-
-📎 [阅读原文](https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/) — *TechCrunch*
-
-### 4. Superhuman acquires AI detection startup GPTZero
-
-[原文] Superhuman, which also has an AI detection tool as part of Grammarly, has snapped up GPTZero.
-
-📎 [阅读原文](https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/) — *TechCrunch*
-
-### 5. After betting the firm on Anthropic, Menlo Ventures raises victorious $3B fund
-
-[原文] Menlo has created a solid rep for itself as an AI investor, all based on one gutsy $750 million move in 2024.
-
-📎 [阅读原文](https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/) — *TechCrunch*
 
 ---
 
@@ -130,35 +130,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Scientists open a million-year-old time capsule hidden beneath New Zealand
+### 1. Early humans were bringing fire into caves 1.8 million years ago
 
-[原文] A cave in New Zealand has yielded fossils from a lost ecosystem that existed about 1 million years ago, including a possible flying ancestor of the kākāpō. The discovery reveals that volcanoes and cli
+[原文] A new study suggests early humans were using fire in South Africa’s Wonderwerk Cave as far back as 1.79 million years ago. Researchers found burned bones deep inside the cave, where natural wildfires 
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260623011129.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260623083123.htm) — *Science Daily*
 
-### 2. NASA’s Cold Atom Lab is creating one of the weirdest forms of matter in space
+### 2. Why South Africa’s leopards shrank to half their normal size
 
-[原文] NASA’s upgraded Cold Atom Lab is turning the International Space Station into a frontier for quantum research, creating ultra-cold matter that behaves in astonishing ways. The experiments could unlock
+[原文] A hidden population of South African leopards has revealed a remarkable evolutionary story. Researchers analyzing entire leopard genomes discovered that the Cape Floristic Region’s leopards are not on
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260622091507.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260623083113.htm) — *Science Daily*
 
-### 3. This emerging treatment is helping people avoid knee replacement surgery
+### 3. New superconducting X-ray detector is up to 1,000 times more sensitive
 
-[原文] A minimally invasive treatment called GAE is helping people with chronic knee pain get back to gardening, cycling, and other activities without undergoing knee replacement surgery. Early studies sugge
+[原文] A groundbreaking superconducting X-ray spectrometer has begun operation at BESSY II, giving Europe its first TES-based system and boosting photon detection efficiency by up to 1,000 times. The advance
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260622091502.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260623083108.htm) — *Science Daily*
 
-### 4. Scientists say most people need more protein than current guidelines suggest
+### 4. Study challenges a common belief about vitamin D and sunlight
 
-[原文] A new review suggests that doing more exercise and eating more protein than current minimum recommendations may help people stay stronger, sharper, and more independent as they age. The goal isn't bui
+[原文] A study of nearly 300 people across northern Britain found that vitamin D levels often stay low all year in groups most at risk. Surprisingly, summer sunshine did not significantly boost vitamin D lev
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260622091429.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260623083104.htm) — *Science Daily*
 
-### 5. A common vitamin could help fight one of the deadliest brain cancers
+### 5. Scientists just discovered how queen bees are really made
 
-[原文] A clinical trial is exploring whether high doses of vitamin B3 could give patients with glioblastoma a better chance against the aggressive brain cancer. Scientists found that niacin may help revive i
+[原文] For decades, scientists thought royal jelly was the secret ingredient that turned an ordinary honeybee larva into a queen. New research reveals the process is far more remarkable: young worker bees cr
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260622014313.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260623083101.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. No need to panic for England - but this was a reality check
+### 1. Tuchel's England are opposite to Southgate's - and built to beat top teams
 
-[原文] England's drab goalless draw with Ghana is no cause to panic - but it does serve as a reality check, writes Phil McNulty.
+[原文] BBC Sport's football tactics writer Umir Irfan explains why Thomas Tuchel's England system is built to prosper against the world's top nations.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c5yzv7wl00xo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ckg7655mvxeo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. 'VAR went for a coffee' - should Ghana have had penalty against England?
+### 2. Stokes reveals 'highest pressure' of England captaincy
 
-[原文] England fans have been left frustrated by the goalless draw against Ghana, but were Thomas Tuchel's side fortunate not to have given away a penalty?
+[原文] Captain Ben Stokes admits England are under the “highest amount of pressure” since he and coach Brendon McCullum took charge four years ago.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cd6e3gvnnzwo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c7vy10p37p5o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Spurs' Tonali hunt shows chasm Newcastle must bridge
-
-[原文] The pursuit of Sandro Tonali by Tottenham - who narrowly avoided relegation last season - shows the challenge Newcastle face.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cq8177l2wplo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. Silly tackle, bad reaction - Tuchel defends Bellingham after Queiroz row
-
-[原文] England manager Thomas Tuchel defends Jude Bellingham after the midfielder is involved in a heated row with Ghana boss Carlos Queiroz.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ce8k4zr6l2no?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Scotland primed for game of their lives against fallible Brazil
+### 3. Scotland primed for game of their lives against fallible Brazil
 
 [原文] Scotland don't know what they need against Brazil to reach the World Cup knockout phase, but will know they need to improve on the previous two games, writes Tom English.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cwyewnxnx11o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. Wales boss Bellamy in talks over Burnley job
+
+[原文] Burnley hope to complete a deal to appoint Wales boss Craig Bellamy following Scott Parker's departure.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c8624edp778o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 5. Why Bellingham was not sent off for covering his mouth
+
+[原文] England midfielder Jude Bellingham was not shown a red card despite covering his mouth while talking to Ghana's Jordan Ayew.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c70y1ljdz8zo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Dieselpunk Animated Series ‘MechWest’ Lands Global Distribution Deal With Toonz (EXCLUSIVE)
+### 1. Netflix’s ‘La Bola Negra’ Sets Four-Week Theatrical Run Before Streaming Debut
 
-[原文] Toonz Media Group has signed a worldwide distribution agreement for &#8220;MechWest,&#8221; an independently produced CG-animated action-adventure series created by Dave Gallagher and produced by Anim
+[原文] Netflix&#8217;s ambitious drama &#8220;La Bola Negra&#8221; will play in theaters for four weeks before landing on the streaming platform. The film is set to debut in theaters on Nov. 6 before hitting
 
-📎 [阅读原文](https://variety.com/2026/tv/markets-festivals/dieselpunk-animated-series-mechwest-global-deal-toonz-1236789010/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/la-bola-negra-theatrical-release-netflix-debut-1236789202/) — *Variety*
 
-### 2. Annecy Winner Upamanyu Bhattacharyya’s ‘Heirloom’ Closes French Co-Production With Condor Films, Lands CNC Grant (EXCLUSIVE)
+### 2. Super-Producer Nile Rodgers Shares Wild Tales About Walking Out on Madonna, Meeting David Bowie, Advice From Frank Sinatra and More
 
-[原文] The Indo-French animated feature &#8220;Heirloom&#8221; has formalized its French co-production with Paris-based Condor Films and secured the CNC&#8217;s Aide aux Cinémas du Monde grant. The period fa
+[原文] With a track record that includes David Bowie, Madonna, Daft Punk, Diana Ross and many others, Nile Rodgers, co-founder and leader of Chic, is one of the greatest producers and guitarists of the last 
 
-📎 [阅读原文](https://variety.com/2026/film/festivals/indian-animation-heirloom-condor-films-cnc-grant-1236789001/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/nile-rodgers-meeting-david-bowie-walking-out-on-madonna-1236787690/) — *Variety*
 
-### 3. Leslie Jones Says It Was ‘Frustrating’ That ‘SNL’ Writers Always Typecast Her as the ‘Girl That Was Angry and Beating Up People’
+### 3. Cannes Lions: Top Marketing and Ad Execs on Boosting Brand Voice Through Entertainment, Connecting With Gen Z and More
 
-[原文] “Saturday Night Live” alum Leslie Jones recently told “The Sam Sanders Show” that she found it “frustrating” that the writers at “SNL” would often typecast her as angry and aggressive. “It was kind of
+[原文] Amid the blazing soleil of the French Riviera, senior marketing and advertising executives from major brands &#8212; including Netflix, Unilever, Lego and Electronic Arts &#8212; joined Variety in the
 
-📎 [阅读原文](https://variety.com/2026/tv/news/leslie-jones-frustrating-snl-writers-typecast-angry-1236788981/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/biz/news/cannes-lions-canva-day-one-marketing-advertising-executives-1236788668/) — *Variety*
 
-### 4. Larry David on Barack Obama’s ‘Perfect’ Comedic Timing in New HBO Show and Donald Trump’s White House UFC Fight: ‘I Was Embarrassed to Be an American’
+### 4. ‘Teenage Mutant Ninja Turtles’ Stage Show Sets Across 2027 North American Tour
 
-[原文] Larry David is celebrating the United States’ 250th birthday with his new HBO show, “Life, Larry and the Pursuit of Unhappiness: An Almost History of America,” but he wasn’t feeling too patriotic when
+[原文] The &#8220;Teenage Mutant Ninja Turtles&#8221; are headed to the stage. Paramount Products &#38; Experiences and Maximum Entertainment are partnering to create “Teenage Mutant Ninja Turtles Live on St
 
-📎 [阅读原文](https://variety.com/2026/tv/columns/larry-david-barack-obama-hbo-trumps-white-house-ufc-fight-1236788700/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/theater/news/teenage-mutant-ninja-turtles-stage-show-tour-1236788828/) — *Variety*
 
-### 5. Alexis Wilkins, Kash Patel’s Country-Singer Girlfriend, Gets Booked for Freedom 250 Event in D.C., Rebuts ‘Sham Accusations’: ‘I Was Invited to Sing This Anthem on My Own Accord’
+### 5. The Oura Ring Is More Than 50% Off for Prime Day
 
-[原文] Alexis Wilkins, the conservative country singer who is the longtime girlfriend of FBI director Kash Patel, is responding to critics after announcing that she has been booked to perform at a Freedom 25
+[原文] The Oura Ring has become one of the most recognizable pieces of wearable tech on the market — not because it looks like wearable tech, but because it doesn’t. The discreet smart ring, worn by athletes
 
-📎 [阅读原文](https://variety.com/2026/music/news/alexis-wilkins-booked-freedom-250-country-singer-kash-patel-1236787899/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/shopping/news/oura-ring-prime-day-deals-2026-1236788963/) — *Variety*
 
 ---
 
@@ -244,35 +244,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. WHO issues comprehensive guidelines on filovirus disease, including Ebola and Marburg disease
+### 1. WHO urges scale up of newborn screening to improve early detection and care of birth defects
+
+[原文] The World Health Organization (WHO) today calls on countries to expand newborn screening for birth defects, highlighting how early detection and treatment can save lives and reduce lifelong disability
+
+📎 [阅读原文](https://www.who.int/news/item/23-06-2026-who-urges-scale-up-of-newborn-screening-to-improve-early-detection-and-care-of-birth-defects) — *WHO*
+
+### 2. WHO issues comprehensive guidelines on filovirus disease, including Ebola and Marburg disease
 
 [原文] As the Democratic Republic of the Congo is battling an Ebola disease outbreak caused by the Bundibugyo virus, the World Health Organization (WHO) has released its first comprehensive guidelines for th
 
 📎 [阅读原文](https://www.who.int/news/item/17-06-2026-who-issues-comprehensive-guidelines-on-filovirus-disease--including-ebola-and-marburg-disease) — *WHO*
 
-### 2. Open letter to leaders of G7, G20, BRICS and all nations on finalizing the WHO Pandemic Agreement’s Pathogen Access and Benefit Sharing annex
+### 3. Open letter to leaders of G7, G20, BRICS and all nations on finalizing the WHO Pandemic Agreement’s Pathogen Access and Benefit Sharing annex
 
 [原文] Dear Leaders of the G7, the G20, BRICS and of all nations,We write to you together, from Geneva and from Bras&iacute;lia, with one shared conviction: that the world must finish what it started, and th
 
 📎 [阅读原文](https://www.who.int/news/item/15-06-2026-open-letter-to-leaders-of-g7-g20-brics-and-all-nations-on-finalizing-the-who-pandemic-agreement-s-pathogen-access-and-benefit-sharing-annex) — *WHO*
 
-### 3. Safe blood supply improves as voluntary donations exceed 85%, but many people still lack access
+### 4. Safe blood supply improves as voluntary donations exceed 85%, but many people still lack access
 
 [原文] New data from the World Health Organization (WHO) show sustained progress towards safer blood supplies globally but also highlight persistent inequalities in access to safe blood and weaknesses in gov
 
 📎 [阅读原文](https://www.who.int/news/item/12-06-2026-safe-blood-supply-improves-as-voluntary-donations-exceed-85---but-many-people-still-lack-access) — *WHO*
 
-### 4. Africa CDC and WHO launch joint continental Ebola response plan
+### 5. Africa CDC and WHO launch joint continental Ebola response plan
 
 [原文] The Africa Centres for Disease Control and Prevention (Africa CDC) and the World Health Organization (WHO) today launched a joint continental preparedness and response plan on the ongoing Ebola outbre
 
 📎 [阅读原文](https://www.who.int/news/item/05-06-2026-africa-cdc-and-who-launch-joint-continental-ebola-response-plan) — *WHO*
-
-### 5. Unsafe food causes 866 million illnesses and 1.5 million deaths annually, young children at highest risk
-
-[原文] Children aged less than five years face almost three times the risk of illness from unsafe food than older children and adults, according to new estimates released today by the World Health Organizati
-
-📎 [阅读原文](https://www.who.int/news/item/04-06-2026-unsafe-food-causes-866-million-illnesses-and-1.5-million-deaths-annually--young-children-at-highest-risk) — *WHO*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Gameplay Livestream of Action-Driving Game Clutch Will Be Showcased This Week
+### 1. The Get Out Review
 
-[原文] The first live gameplay of Clutch, the new racer from ex-Forza Horizon devs, will air this Thursday.
+[原文] The Get Out review: Russell Crowe wants to "get out" of town, which is why the movie is called THE Get Out.
 
-📎 [阅读原文](https://www.ign.com/articles/gameplay-livestream-of-action-driving-game-clutch-will-be-showcased-this-week) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/the-get-out-review-russell-crowe) — *IGN*
 
-### 2. Monster Fantasy Combines the Thrill of Monster Hunter with the Cosy Chill of Animal Crossing | IGN Preview
+### 2. Tim Sweeney Interview: Epic Games CEO on AI in UE6 and Why Games Struggle to Find Success
 
-[原文] We got hands-on with a very early build of Monster Fantasy, a hybrid adventure that gives players the flexibility to choose whether they want to seek the thrilling challenge of big game beast-hunting 
+[原文] In our interview with Epic Games CEO Tim Sweeney, he talks about why games are failing, what platforms can do to help, and how Unreal's AI tools can help "make content more efficiently."
 
-📎 [阅读原文](https://www.ign.com/articles/monster-fantasy-combines-the-thrill-of-monster-hunter-with-the-cosy-chill-of-animal-crossing-ign-preview) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/tim-sweeney-interview-epic-games-ceo-on-ai-in-ue6-and-why-games-struggle-to-find-success) — *IGN*
 
-### 3. Read All of the Dungeon Crawler Carl Books for Free With Amazon's Prime Day Kindle Unlimited Deal
+### 3. GTA 6 Is a 'Single-Player Experience,' Rockstar Confirms — What Now for GTA Online?
 
-暂无摘要。
+[原文] GTA 6 is a “single-player experience,” Rockstar has confirmed in a note sent to IGN, as well as on storefronts where you can now preorder the game. This suggests the $80 base game does not include any
 
-📎 [阅读原文](https://www.ign.com/articles/read-all-of-the-dungeon-crawler-carl-books-for-free-with-kindle-unlimited-prime-day-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/gta-6-is-a-single-player-experience-rockstar-confirms-what-now-for-gta-online) — *IGN*
 
-### 4. Prime Day LEGO Deals on Sets for Adults Are Selling Out Fast
+### 4. Some Fear GTA 6 Physical Version Marks the End of the Video Game Disc
 
-暂无摘要。
+[原文] Rockstar has come under fire for releasing the physical version of GTA 6 with a download code only, with some saying the decision is the final nail in the coffin for video game discs.
 
-📎 [阅读原文](https://www.ign.com/articles/lego-prime-day-deals-for-adults-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/some-fear-gta-6-physical-version-marks-the-end-of-the-video-game-disc) — *IGN*
 
-### 5. The RayNeo Air 4 Pro AR Glasses Drop to a New Low Price for Prime Day
+### 5. Dead or Alive 6 Last Round Review So Far
 
-暂无摘要。
+[原文] Seven years later, the counterplay of the Triangle System is still just as satisfying.
 
-📎 [阅读原文](https://www.ign.com/articles/the-rayneo-air-4-pro-ar-glasses-drop-to-a-new-low-price-for-prime-day-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/dead-or-alive-6-last-round-review) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. 48% off a Polisher and More DeWalt Prime Day Deals for Car People
+### 1. The Honda Element Is Returning in 2029 as a US-Built Hybrid Crossover: Report
 
-[原文] Amazon carries a lot of DeWalt tools. That makes Prime Day a great chance to grab a deal before starting your next project.
-The post 48% off a Polisher and More DeWalt Prime Day Deals for Car People a
+[原文] Honda's aiming to tap adventure-minded buyers and steal sales from the Ford Bronco Sport with an Element revival.
+The post The Honda Element Is Returning in 2029 as a US-Built Hybrid Crossover: Report
 
-📎 [阅读原文](https://www.thedrive.com/news/48-off-a-polisher-and-more-dewalt-prime-day-deals-for-car-people) — *The Drive*
+📎 [阅读原文](https://www.thedrive.com/news/the-honda-element-is-returning-in-2029-as-a-us-built-hybrid-crossover-report) — *The Drive*
 
-### 2. Rivian Has Long Wanted to Put a Winch on the R1. RAD Might Finally Make It Happen
+### 2. Amazon Prime Day Deals: All the Best Buys for Car People
 
-[原文] Rivian CEO RJ Scaringe told The Drive that RAD won't be limited to vehicles — and a winch for the R1 is exactly the kind of accessory the department could enable.
-The post Rivian Has Long Wanted to Pu
+[原文] Amazon Prime Day is live from June 23 to 26. We've been scanning the sales to round up all the best deals for people who are into cars.
+The post Amazon Prime Day Deals: All the Best Buys for Car Peopl
 
-📎 [阅读原文](https://www.thedrive.com/news/rivian-has-long-wanted-to-put-a-winch-on-the-r1-rad-might-finally-make-it-happen) — *The Drive*
+📎 [阅读原文](https://www.thedrive.com/news/amazon-prime-day-deals-all-the-best-buys-for-car-people) — *The Drive*
 
-### 3. Man Driving Giant Banana Gets Pulled Over in Montana
+### 3. Texas Real Estate Guy Wants to Make a $21,500 Truck. He Got 5,500 Reservations in Six Days
 
-[原文] The banana, which is based on a Ford F-150, has the license plate "SPLIT."
-The post Man Driving Giant Banana Gets Pulled Over in Montana appeared first on The Drive.
+[原文] With a passion for simple, easy-to-fix Toyotas, Zach De Bernardi and his company REO hope to deliver a new solution that's still gas powered.
+The post Texas Real Estate Guy Wants to Make a $21,500 Tru
 
-📎 [阅读原文](https://www.thedrive.com/news/man-driving-giant-banana-gets-pulled-over-in-montana) — *The Drive*
+📎 [阅读原文](https://www.thedrive.com/news/texas-real-estate-guy-wants-to-make-a-21500-truck-he-got-5500-reservations-in-six-days) — *The Drive*
 
-### 4. Cops Are Already Using License Plate Readers to Stalk People
+### 4. 2026 McLaren 750S Spider Review: Proof That Supercars Should Still Be Punishing
 
-[原文] License plate readers can now monitor virtually any connected device, and these systems have already been abused.
-The post Cops Are Already Using License Plate Readers to Stalk People appeared first o
+[原文] The McLaren 750S doesn't make things "easy" with the push of a button. It's a serious machine for serious drivers. 
+The post 2026 McLaren 750S Spider Review: Proof That Supercars Should Still Be Punis
 
-📎 [阅读原文](https://www.thedrive.com/news/cops-are-already-using-license-plate-readers-to-stalk-people) — *The Drive*
+📎 [阅读原文](https://www.thedrive.com/car-reviews/2026-mclaren-750s-spider-review) — *The Drive*
 
-### 5. NOCO’s Best-Deal Jump Starters and Inflators Are on Sale for Prime Day
+### 5. Toyota and Nissan Admit Their American-Made Cars May Have Thin Paint, Panel Gaps, and Leftover Residue: TDS
 
-[原文] Get up to 50% off NOCO products from Amazon during this week's Prime Day sale. Find battery jump starters, air compressors, and more here.
-The post NOCO’s Best-Deal Jump Starters and Inflators Are on 
+[原文] Toyota and Nissan say their American-made models aren't up to Japanese standards.
+The post Toyota and Nissan Admit Their American-Made Cars May Have Thin Paint, Panel Gaps, and Leftover Residue: TDS a
 
-📎 [阅读原文](https://www.thedrive.com/news/nocos-best-deal-jump-starters-and-inflators-are-on-sale-for-prime-day) — *The Drive*
+📎 [阅读原文](https://www.thedrive.com/news/toyota-and-nissan-admit-their-american-made-cars-may-have-thin-paint-panel-gaps-and-leftover-residue-tds) — *The Drive*
 
 ---
 
@@ -439,35 +439,35 @@ The post NOCO’s Best-Deal Jump Starters and Inflators Are on
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Pharrell Williams Debuts Collaborations With Quavo, Lil Baby, Angelique Kidjo at Louis Vuitton Show
+### 1. PJ Harvey Imagines What ‘Voyager’ Spacecraft Thinks of Earth on Otherworldly New Single
 
-[原文] The fashion brand's Menswear Spring-Summer 2027 show took place on Tuesday at the Cité Internationale Universitaire de Paris
+[原文] Song has featured in physicist Brian Cox’s speaking tours
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/pj-harvey-voyager-single-1235582271/) — *Rolling Stone*
+
+### 2. Phoebe Bridgers Reveals New Album: Get Ready for a ‘Lost Weekend’
+
+[原文] After a run of phoneless pop-up shows across the country, the singer-songwriter has finally announced the follow-up to 2020’s Punisher
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/phoebe-bridgers-new-album-lost-weekend-1235567035/) — *Rolling Stone*
+
+### 3. Pharrell Williams Debuts Collaborations With Quavo, Lil Baby, Angelique Kidjo at Louis Vuitton Show
+
+[原文] The fashion brand’s Menswear Spring-Summer 2027 show took place on Tuesday at the Cité Internationale Universitaire de Paris
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/pharrell-williams-quavo-lil-baby-louis-vuitton-show-1235582925/) — *Rolling Stone*
 
-### 2. Taylor Swift and Lainey Wilson Surprise Duet ‘Love Story’ at Travis Kelce’s NFL Concert
+### 4. Taylor Swift and Lainey Wilson Surprise Duet ‘Love Story’ at Travis Kelce’s NFL Concert
 
-[原文] Swift made a surprise appearance at Kelce's annual Tight End University summit
+[原文] Swift made a surprise appearance at Kelce’s annual Tight End University summit
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/taylor-swift-lainey-wilson-love-story-tight-end-university-1235582910/) — *Rolling Stone*
 
-### 3. Alicia Keys Remembers How Clive Davis ‘Stood Beside Me Through Every Chapter’ in Heartfelt Tribute
+### 5. Alicia Keys Remembers How Clive Davis ‘Stood Beside Me Through Every Chapter’ in Heartfelt Tribute
 
 [原文] The Grammy winner penned a touching remembrance to the music mogul, who championed Keys early in her career
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/clive-davis-dead-alicia-keys-tribute-1235582874/) — *Rolling Stone*
-
-### 4. Lin-Manuel Miranda Will Return to Broadway Next Year With New ‘Warriors’ Musical
-
-[原文] Developed with playwright and actress Eisa Davis, the project offers a gender-flipped take on the 1979 cult classic about a NYC gang trying to make it home to Coney Island
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/lin-manuel-miranda-broadway-warriors-musical-1235582777/) — *Rolling Stone*
-
-### 5. AC/DC to Power Up Tour Dates With Special Pop-Up Shops
-
-[原文] Fans will be able to eat AC/DC-themed food, buy exclusive merch, and enter to win a guitar signed by Angus Young
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/acdc-power-up-tour-pop-ups-1235582527/) — *Rolling Stone*
 
 ---
 
@@ -528,6 +528,7 @@ The post NOCO’s Best-Deal Jump Starters and Inflators Are on
 ## ⚠️ 今日故障源
 
 - **🚗 汽车**: Roadshow, Autocar
+- **✈️ 旅游**: Nomadic Matt
 
 ---
 
