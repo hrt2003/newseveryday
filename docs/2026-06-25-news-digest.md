@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年06月25日** | 生成时间: 2026-06-25 03:51
+**2026年06月25日** | 生成时间: 2026-06-25 11:58
 
 ---
 
@@ -16,9 +16,9 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Power outages hit France as it records hottest day since measurements began
+### 1. France, UK and Spain see record temperatures as heatwave grips western Europe
 
-[原文] France has recorded it hottest day since records began in 1947, its national weather agency says, breaking a record set on Tuesday.
+[原文] Tens of millions of people are grappling with punishing temperatures, which have led to red heat alerts across the continent.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump cancels signing of bipartisan housing bill, demanding voter ID provision
+### 1. Iran declares new Hormuz route 'unacceptable and dangerous,' warns against ships transiting without approval
 
-[原文] President Donald Trump abruptly canceled the signing of a bill aimed at increasing housing affordability an hour before he was due at the Capitol for the ceremony.
+[原文] The stern warning underscores Tehran's resolve to retain control over the Strait of Hormuz and to resist transits that bypass its authorization.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/24/trump-cancels-housing-bill-signing-save-america-act.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/25/iran-navy-shipping-recovery-strait-of-hormuz-unauthorized-routes-us-fragile-mou-.html) — *CNBC*
 
-### 2. Cerebras CEO says margin forecast was 'misunderstood' as stock plummets after earnings
+### 2. SK Hynix surges 11% after filing for blockbuster Nasdaq listing
 
-[原文] AI chipmaker Cerebras has a staggered lock-up expiration that includes some shares becoming available for trading this week.
+[原文] Shares of South Korean chip giant SK Hynix surged 11% on Thursday after the company said it is seeking to raise as much as $29.4 billion.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/24/cerebras-cbrs-stock-earnings.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/25/chip-tech-stocks-sk-hynix-nasdaq-adr-listing-29-billion-ai-investment.html) — *CNBC*
 
-### 3. Energy secretary says U.S. has ended Iran's ability to close Strait of Hormuz
+### 3. Micron is tech's new margin king as memory crisis pushes company past Nvidia and Meta
 
-[原文] Some 72 ships loaded with 19 million barrels of oil have passed through Hormuz in the past 24 hours, Energy Secretary Chris Wright said.
+[原文] Micron said in its earnings report that its gross margin jumped to 84.9% from 39% a year ago.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/24/iran-strait-hormuz-oil-chris-wright-energy-secretary.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/24/micron-is-techs-margin-king-memory-crisis-pushes-it-past-nvidia-meta.html) — *CNBC*
 
-### 4. Toyota gains on General Motors in new U.S. sales forecast: 'GM may be looking over their shoulder'
+### 4. Oil prices erase wartime gains as supply concerns ease with Hormuz tanker traffic resuming
 
-[原文] Toyota has notably leaned into hybrid vehicles while GM and others bet on all-electric vehicles, which saw lower-than-expected adoption from consumers.
+[原文] Oil prices fell as investors bet global crude supplies will improve, as tankers stranded in the Persian Gulf for months have begun leaving the Strait of Hormuz.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/24/toyota-gm-us-sales.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/25/oil-price-supply-concerns-ease-with-hormuz-tanker-traffic-resuming-.html) — *CNBC*
 
-### 5. Bitcoin falls back under $60,000, hitting its lowest level since October 2024
+### 5. Micron stock jumps 15% as soaring prices from memory crunch lead to quadrupling of revenue
 
-[原文] Bitcoin, now in the eighth month of its bear market, dropped to an October 2024 low amid a pullback in tech stocks.
+[原文] Micron's quarterly earnings report follows a 700% surge in the memory maker's stock price over the past year.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/24/bitcoin-falls-back-under-60000-hitting-its-lowest-level-since-october-2024.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/24/micron-mu-earnings-report-q3-2026.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Here’s why Slate changed the battery in its cheap EV truck
+### 1. Europe is pushing back on Washington’s chip war
 
-[原文] While there was probably a moment when Slate’s leadership had to green-light the switch from one battery type to another, the momentum toward that decision had been building for years.
+[原文] As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the MATCH Ac
 
-📎 [阅读原文](https://techcrunch.com/2026/06/24/heres-why-slate-changed-the-battery-in-its-cheap-ev-truck/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/) — *TechCrunch*
 
-### 2. Facebook rolls out an AI companion app for creators
+### 2. Former Infosys chief has a new startup that wants to challenge the IT services world
 
-[原文] The new app, which is currently being tested with select creators, will have Facebook's recently launched AI creator assistant built into it.
+[原文] Backed by Mayfield and Aramco Ventures, Vishal Sikka’s new venture brings together veterans from SAP, Infosys, and VianAI.
 
-📎 [阅读原文](https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/) — *TechCrunch*
 
-### 3. Deezer says its new feature lets fans remix songs with artist consent
+### 3. Elon suffers another day short of trillionaire status
 
-[原文] Global music streaming service Deezer is taking a contrarian approach to AI, even as it adds a feature that lets fans remix songs.
+[原文] Right now he's merely a several-hundred-billionaire, according to Bloomberg's Billionaires Index.
 
-📎 [阅读原文](https://techcrunch.com/2026/06/24/deezer-says-its-new-feature-lets-fans-remix-songs-with-artist-consent/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/06/24/elon-suffers-another-day-short-of-trillionaire-status/) — *TechCrunch*
 
-### 4. Agility Robotics plans to go public via SPAC in a $2.5B deal
+### 4. Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood
 
-[原文] Agility Robotics, the humanoid robotics startup that spun out of Oregon State University in 2015, expects to generate $620 million in proceeds.
+[原文] In its first earnings report since going public, the AI chipmaker forecast a narrower gross margin in its core business, scaring investors.
 
-📎 [阅读原文](https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/) — *TechCrunch*
 
-### 5. NTSB launches probe into fatal Texas Tesla crash
+### 5. AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient
 
-[原文] The safety board, known for its thorough investigations, is probing the crash alongside the National Highway Traffic Safety Administration.
+[原文] While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data.
 
-📎 [阅读原文](https://techcrunch.com/2026/06/24/ntsb-launches-probe-into-fatal-texas-tesla-crash/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Scotland primed for game of their lives against fallible Brazil
+### 1. Draft grades for all 30 NBA teams: Why the Grizzli...
 
-[原文] Scotland don't know what they need against Brazil to reach the World Cup knockout phase, but will know they need to improve on the previous two games, writes Tom English.
+[原文] Which team won the NBA draft? Which picks and trades stood out? Ben Golliver grades all 30 teams.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cwyewnxnx11o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/nba/story/_/id/49147426/2026-nba-draft-grades-winners-losers-sleepers-best-picks-value-reaches-all-30-teams-classes) — *ESPN*
 
-### 2. Draper into Eastbourne last eight to continue injury comeback
+### 2. Sources: Pistons trading Stewart to Grizzlies
 
-[原文] Britain's Jack Draper says his recent injury problems left his confidence levels "below the floor" before he reached the quarter-finals in Eastbourne.
+[原文] The Pistons are trading backup big man Isaiah Stewart to the Grizzlies for three future second-round picks, sources said.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cp9l8pj9d21o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/nba/story/_/id/49170745/sources-pistons-trading-isaiah-stewart-grizzlies) — *ESPN*
 
-### 3. Belgium going out? Sutton's World Cup 2026 score predictions - final group games
+### 3. Bickerstaff: Nori's Blazers deal a 'slap in the fa...
 
-[原文] BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup.
+[原文] J.B. Bickerstaff, coach of the Pistons and president of the National Basketball Coaches Association, calls the structure of new Trail Blazers coach Micah Nori's contract a "slap in the face to our val
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cg74z733xmko?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/nba/story/_/id/49168201/bickerstaff-nori-contract-portland-slap-face) — *ESPN*
 
-### 4. England's James and Rice to have fitness assessed
+### 4. Sources: Milan rejects NYCFC approach for Pulisic
 
-[原文] England will assess the fitness of Reece James and Declan Rice before their final World Cup group game against Panama.
+[原文] AC Milan have rejected an approach by New York City FC for United States attacker Christian Pulisic, with Milan stating that the player isn't available, sources confirmed to ESPN.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cg4w2wk5vryo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49169086/ac-milan-rejects-nycfc-approach-christian-pulisic) — *ESPN*
 
-### 5. Players to expand prize money protest at Wimbledon
+### 5. Pochettino won't 'risk' USMNT players on yellows
 
-[原文] Leading tennis players will expand their prize money protest at Wimbledon - despite a 20% increase in this year's pot.
+[原文] United States manager Mauricio Pochettino said his four players on yellow cards won't start Thursday's match against Türkiye to avoid the possibility of being suspended for the round of 32 match on Ju
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cx2x3x2x60eo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49169923/pochettino-risk-united-states-players-yellows) — *ESPN*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. NBC Fall 2026 Premiere Dates: ‘Traitors: New Blood,’ ‘The Voice’ Season 30, New Shows ‘Line of Fire’ and ‘Newlyweds’
+### 1. Acclaimed Bengali Drama ‘Pinjar’ Lands International Deal, Girls’ Education Initiative (EXCLUSIVE)
 
-[原文] NBC has officially set its premiere dates for the fall 2026 broadcast season. NBC will officially kickoff fall on Sept. 9 with NFL coverage of the Seattle Seahawks hosting the New England Patriots in 
+[原文] Hazelnut Media, the Singapore-based impact production company, has acquired international rights to &#8220;Pinjar,&#8221; the Bengali feature directed by Kolkata physician and filmmaker Dr. Rudrajit R
 
-📎 [阅读原文](https://variety.com/2026/tv/news/nbc-fall-2026-premiere-dates-traitors-the-voice-season-30-1236789597/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/acclaimed-bengali-drama-pinjar-international-deal-1236789368/) — *Variety*
 
-### 2. Former Mediawan Producer Charlotte Toledano Detaille Launches Alyx Films, Teams With ‘Book Club’ Creator Geronimo on Projects (EXCLUSIVE)
+### 2. ‘The Other Bennet Sister’ Star Ella Bruccoleri on Playing a Regency Wallflower, Mary’s Romance with Tom and a Possible Season 2
 
-[原文] Charlotte Toledano Detaille, the former Mediawan producer behind Prime Video’s streaming hit “Escort Boys,” is launching Alyx Films, an independent banner that will kick off with an ambitious slate bu
+[原文] SPOILER ALERT: This story contains spoilers from Season 1 of &#8220;The Other Bennet Sister,&#8221; now streaming on BritBox. Ella Bruccoleri may be playing a Bennet sister on TV, but the actress wasn
 
-📎 [阅读原文](https://variety.com/2026/film/global/charlotte-toledano-alyx-films-geronimo-1236789526/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/the-other-bennet-sister-ella-bruccoleri-mary-tom-season-2-1236788907/) — *Variety*
 
-### 3. Film Academy Invites 529 New Members: Jacob Elordi, Jenna Ortega, Teyana Taylor and More to Become Oscar Voters
+### 3. Zendaya Wears $35 Spider-Man T-Shirt to ‘Brand New Day’ Fan Event in Paris: ‘Style Doesn’t Always Have to Cost a Fortune’
 
-[原文] Breakout stars Jacob Elordi and Teyana Taylor, along with Hollywood mainstays Jenna Ortega and Jon Bernthal, and new Disney CEO Josh D&#8217;Amaro are among the 529 invitees to the newest member class
+[原文] A Zendaya press cycle usually means one couture — and project-themed — look after another. But for her latest stop on the &#8220;Spider-Man: Brand New Day&#8221; world tour, on Wednesday in Paris, the
 
-📎 [阅读原文](https://variety.com/2026/film/awards/oscars-academy-new-members-jacob-elordi-jenna-ortega-1236789523/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/zendaya-spider-man-t-shirt-brand-new-day-paris-1236789892/) — *Variety*
 
-### 4. Neon’s Palme d’Or Winner ‘Fjord’ Sets October Release Date (EXCLUSIVE)
+### 4. Millie Bobby Brown Speaks Out on Knowing Eleven’s Fate and Making Amends With ‘Stranger Things’ Cast After the Show Ended: ‘I’m Sorry If I Ever Upset You’
 
-[原文] &#8220;Fjord,&#8221; a searing family drama that won the Palme d’Or at Cannes Film Festival, will hit theaters in the fall. Neon, which acquired the movie a year ago, has slated &#8220;Fjord&#8221; fo
+[原文] There’s an unwritten golden rule in TV: a character is never truly dead unless you see the body. That’s why many “Stranger Things” fans still believe Eleven survived the series finale, which ends with
 
-📎 [阅读原文](https://variety.com/2026/film/news/fjord-october-release-date-neon-1236789562/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/millie-bobby-brown-eleven-fate-stranger-things-ending-1236789565/) — *Variety*
 
-### 5. Sony Pictures Invests $100 Million in Cosm, Shared-Reality Venue Owner
+### 5. Final Emmy Predictions: ‘Pluribus’ and ‘The Pitt’ Expected to Lead Nominations as ‘Widow’s Bay’ Surges and Netflix Could Rule the Day
 
-[原文] Sony Pictures Entertainment has invested $100 million in Cosm, the entertainment and tech company focused on creating shared-reality experiences through immersive dome-like venues throughout the U.S. 
+[原文] Variety&#160;Awards Circuit&#160;section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars,&#160;Emmys,
 
-📎 [阅读原文](https://variety.com/2026/biz/news/sony-pictures-100-million-cosm-shared-reality-venue-owner-1236789422/) — *Variety*
+📎 [阅读原文](https://variety.com/lists/2026-emmys-predictions/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Save Over 50% Off the Renewable Jackery Solar Generator 1000 V2 Power Station Bundle for Prime Day
-
-[原文] Save an extra $150 on top of Prime Day pricing by purchasing as a bundle.
-
-📎 [阅读原文](https://www.ign.com/articles/jackery-solar-generator-1000-v2-power-station-deal-amazon-prime-day-sale) — *IGN*
-
-### 2. Has $80 GTA 6 Opened the Door to More Expensive Games? Analysts Respond
-
-[原文] Rockstar has ended months of speculation by confirming that GTA 6 will cost at $80 — but how prevalent will $80 games now become, and can other video game publishers succeed at this price point?
-
-📎 [阅读原文](https://www.ign.com/articles/has-80-gta-6-opened-the-door-to-more-expensive-games-analysts-respond) — *IGN*
-
-### 3. How to Prepare for Grand Theft Auto 6 Preorders
+### 1. Prime Day LEGO Deals on Sets for Adults Are Selling Out Fast
 
 暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/gta-6-preorder-tips-and-tricks) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/lego-prime-day-deals-for-adults-2026) — *IGN*
 
-### 4. Actors Like Callum Turner and Jacob Elordi Reportedly 'Fit the Prototype' for Amazon's New James Bond
+### 2. New DLC Character Coming to BlazBlue: Central Fiction a Decade After It Was Released
 
-[原文] Amazon is getting closer to finding the next James Bond, as director Denis Villeneuve has reportedly begun informing actors of the next step in the audition process.
+暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/actors-like-callum-turner-and-jacob-elordi-reportedly-fit-the-prototype-for-amazons-new-james-bond) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/new-dlc-character-coming-to-blazblue-central-fiction-a-decade-after-it-was-released) — *IGN*
 
-### 5. Square Enix Games Are Getting Hefty Discounts in Amazon's Prime Day Sales
+### 3. The Powerful iBuypower AMD Ryzen 7 9800X3D Radeon RX 9070 XT Gaming PC Drops to $1,750
 
-[原文] Major Square Enix games like Final Fantasy VII Remake Intergrade, Dragon Quest VII Reimagined, and more are on sale for Amazon Prime Day.
+[原文] This prebuilt will run the hottest new games, including Pragmata, 007: First Light, and Forza Horizon 6, in 4K.
 
-📎 [阅读原文](https://www.ign.com/articles/square-enix-game-deals-amazon-prime-day-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/ibuypower-amd-ryzen-7-9800x3d-radeon-rx-9070-xt-gaming-pc-deal-walmart-summer-sale) — *IGN*
+
+### 4. Buy One KPop Demon Hunters Squishmallow, Get a Second One for Half Off During Prime Day
+
+[原文] They'll be your idols.
+
+📎 [阅读原文](https://www.ign.com/articles/kpop-demon-hunters-squishmallow-deal-amazon-prime-day-sale) — *IGN*
+
+### 5. The New 2026 Apple iPad Air with M4 Chip Drops to Its Lowest Price Ever for Amazon Prime Day
+
+[原文] Save $80 off compared to buying it from the Apple Store
+
+📎 [阅读原文](https://www.ign.com/articles/best-apple-ipad-air-deal-amazon-prime-day-sale) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post License Plate Cameras Are Tracking Your Life Without a Warrant app
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Elected Democrats Have Embraced ‘Climate Hushing.’ Are They Making a Mistake as the Midterms Loom?
+### 1. It’s Too Hot In Europe–Again
+
+[原文] Europe is in the midst of its second big heat wave of the year, and it’s breaking more records. France just recorded its hottest day ever, with temperatures exceeding 44 degrees Celsius in some places
+
+📎 [阅读原文](https://insideclimatenews.org/news/24062026/europe-experiences-second-heat-wave-this-year/) — *Inside Climate News*
+
+### 2. Elected Democrats Have Embraced ‘Climate Hushing.’ Are They Making a Mistake as the Midterms Loom?
 
 [原文] To some political pundits and Democratic strategists, one takeaway from the 2024 presidential election was clear: Don’t talk about climate change. An Inside Climate News analysis of press releases iss
 
 📎 [阅读原文](https://insideclimatenews.org/news/24062026/analysis-shows-democrats-embrace-climate-hushing/) — *Inside Climate News*
 
-### 2. Trump’s ‘Short-Sighted’ Cuts Jeopardize Philadelphia’s Clean Energy Future
+### 3. Trump’s ‘Short-Sighted’ Cuts Jeopardize Philadelphia’s Clean Energy Future
 
 [原文] During the Biden administration, clean energy developers in the Philadelphia area planned to take advantage of new, expanded federal support for renewable projects for years. Now, as the Trump adminis
 
 📎 [阅读原文](https://insideclimatenews.org/news/24062026/trump-clean-energy-tax-credit-cuts-affects-philadelphia-projects/) — *Inside Climate News*
 
-### 3. As Colorado River States Struggle to Reach Agreement, New Mexico Brings on a Fresh Voice
+### 4. As Colorado River States Struggle to Reach Agreement, New Mexico Brings on a Fresh Voice
 
 [原文] The Upper Colorado River Commission welcomed a new representative from New Mexico at a meeting in downtown Denver on Tuesday, where it discussed ongoing negotiations over how to share America’s most o
 
 📎 [阅读原文](https://insideclimatenews.org/news/23062026/tanya-trujillo-upper-colorado-river-commission/) — *Inside Climate News*
 
-### 4. Weathering Extremes at the World Cup as High Heat and Torrential Rain Hit Games
+### 5. Weathering Extremes at the World Cup as High Heat and Torrential Rain Hit Games
 
 [原文] The World Cup is well underway across North America, where millions have traveled from around the world in recent weeks to watch their favorite soccer teams hit the pitch. This year’s matches could br
 
 📎 [阅读原文](https://insideclimatenews.org/news/23062026/todays-climate-world-cup-weather-extremes-heat-rain/) — *Inside Climate News*
-
-### 5. The Invisible Infrastructure of Climate Resilience
-
-[原文] After years working in the climate movement, Katharine K. Wilkinson noticed that advocates consistently lacked the emotional stamina and support needed to stay active, inspired and connected to others
-
-📎 [阅读原文](https://insideclimatenews.org/news/23062026/katharine-k-wilkinson-climate-resilience-infrastructure/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post License Plate Cameras Are Tracking Your Life Without a Warrant app
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Beabadoobee Makes Electric Return with New LP ‘Pylon,’ Shares Single ‘Sun Has Set’
+### 1. Dolly Parton Graces Opening of Tennessee Truck Stop: ‘I Couldn’t Leave It to Beavers’
 
-[原文] The musician has announced her fourth album, which features Hayley Williams and Turnstile’s Brendan Yates
+[原文] The star officially opened Dolly's Tennessean Travel Stop on Wednesday
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/beabadoobee-new-album-announcement-pylon-1235582530/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/dolly-parton-tennessee-travel-stop-1235583690/) — *Rolling Stone*
 
-### 2. FBI Director’s Country-Singing Girlfriend to Perform at Freedom 250
+### 2. Leonard Cohen Estate Does Not Support Trump’s Plan to Use ‘Hallelujah’ at Freedom 250 Rally
 
-[原文] Alexis Wilkins, the aspiring Nashville star who is dating Kash Patel, will join Lee Greenwood for the troubled concert on the National Mall
+[原文] The president said that opera singer Christopher Macchio would perform the song at his Trump rally on June 24
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/kash-patel-girlfriend-alexis-wilkins-freedom-250-lineup-1235583032/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/leonard-cohen-estate-trump-hallelujah-freedom-250-1235583656/) — *Rolling Stone*
 
-### 3. Max Martin Sells Catalog, Including Taylor Swift and Ariana Grande Songs
+### 3. Little Steven Van Zandt’s $15 Million NYC Penthouse Looks Exactly How You’d Expect It Would
 
-[原文] The producer along with Shellback, via their songwriting collective, have entered a partnership with investment firm HarbourView Equity Partners
+[原文] Except for one small detail
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/max-martin-sells-catalog-harbourview-equity-partners-1235583163/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/little-steven-van-zandt-penthouse-for-sale-1235583533/) — *Rolling Stone*
 
-### 4. Billy Corgan Will Release Over 60 Zwan Songs: ‘There Was a Lot of Writing in That Band’
+### 4. Olivia Rodrigo’s Daisy Chain Fields Music Festival Sells Out in 30 Minutes
 
-[原文] “Because there’s so much Zwan stuff, I’m gonna put it out in different sets,” Smashing Pumpkins frontman says of short-lived supergroup
+[原文] Rodrigo's inaugural fest features an all-women lineup, including Stevie Nicks, Mitski, Bikini Kill, and Doechii
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/billy-corgan-60-zwan-songs-release-1235583105/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/daisy-chain-fields-music-festival-sold-out-30-minutes-1235583588/) — *Rolling Stone*
 
-### 5. Doja Cat ‘Really Disappointed’ Fans Thought AI Songs Were Leaks: ‘None of It Is Me’
+### 5. Chris Brown Housekeeper Cries on Stand at Dog Mauling Trial: ‘I Will Never Be the Same Again’
 
-[原文] “Fuck AI for real,” the rapper said on X just days after both SZA and producer Kenneth Blume aired out their own grievances with AI
+[原文] Maria Avila broke down in tears as she showed jurors the disfiguring scars from a dog bite attack at the singer's mansion five years ago
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/doja-cat-slams-ai-leaks-1235583037/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/chris-brown-housekeeper-dog-mauling-trial-1235583363/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post License Plate Cameras Are Tracking Your Life Without a Warrant app
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Heat Wave Hits Some of Europe’s Top Tourist Attractions
+### 1. What Airbnb Used to Be: Boutique Wants Fewer Homes, More Taste — and No Investment Funds
+
+[原文] Marc Blazer is building one of the cleanest anti-Airbnb points of view in travel: real, deeply designed homes for design-literate travelers who want taste, context, and character over inventory. The a
+
+📎 [阅读原文](https://skift.com/2026/06/24/what-airbnb-used-to-be-boutique-wants-fewer-homes-more-taste-and-no-investment-funds/) — *Skift*
+
+### 2. Experience Pure Plays Are Winning, OTAs Are Still Catching Up
+
+[原文] Every major OTA — and even most hotels — say experiences are core to their strategies. But 30 years after the first experiences middlemen appeared, it is still a very tough business with the specialis
+
+📎 [阅读原文](https://skift.com/2026/06/24/experience-pure-plays-are-winning-otas-are-still-catching-up/) — *Skift*
+
+### 3. Heat Wave Hits Some of Europe’s Top Tourist Attractions
 
 [原文] Europe faces record-high temperatures just as its peak travel season ramps up.
 
 📎 [阅读原文](https://skift.com/2026/06/24/europe-heat-wave-disrupt-tourism-travel/) — *Skift*
 
-### 2. Airline Lobby Backs Ban on Surveillance Pricing — While Insisting No Airline Does It
+### 4. Airline Lobby Backs Ban on Surveillance Pricing — While Insisting No Airline Does It
 
 [原文] The airline industry is arguing surveillance pricing is different from dynamic pricing. But as airlines get more sophisticated in their use of AI, the issue isn't going away.
 
 📎 [阅读原文](https://skift.com/2026/06/24/airline-lobby-backs-ban-on-surveillance-pricing/) — *Skift*
 
-### 3. London Climate Event on Extreme Heat Canceled Due to Extreme Heat
+### 5. London Climate Event on Extreme Heat Canceled Due to Extreme Heat
 
 [原文] London and much of the UK are exposed to extreme heat, with buildings designed to retain warmth and little air conditioning. The science says it will only get worse.
 
 📎 [阅读原文](https://skift.com/2026/06/24/london-climate-event-on-extreme-heat-canceled-due-to-extreme-heat/) — *Skift*
-
-### 4. IHG’s Chief Product and Technology Officer on What Actually Makes Transformation Work
-
-[原文] IHG's Jolie Fleming has led technology transformation across a vast spectrum of industries, and her conclusion is consistent: the technology itself is rarely the hard part.
-
-📎 [阅读原文](https://skift.com/2026/06/24/ihg-jolie-fleming-what-makes-transformation-work/) — *Skift*
-
-### 5. Thailand’s Luxury Hotel Boom Has a Catch: Nobody Wants to Sell
-
-[原文] Luxury hotel assets in Thailand are becoming increasingly scarce as investor demand outpaces supply. The imbalance is driving competition for trophy properties and attracting more private wealth.
-
-📎 [阅读原文](https://skift.com/2026/06/24/thailands-luxury-hotel-boom-has-a-catch-nobody-wants-to-sell/) — *Skift*
 
 ---
 
@@ -515,7 +515,7 @@ The post License Plate Cameras Are Tracking Your Life Without a Warrant app
 - **💰 经济财经**: CNBC
 - **💻 科技**: TechCrunch
 - **🔬 科学**: Science Daily
-- **⚽ 体育**: BBC Sport
+- **⚽ 体育**: ESPN
 - **🎬 娱乐**: Variety
 - **🏥 健康**: WHO
 - **🎮 游戏**: IGN
@@ -528,7 +528,6 @@ The post License Plate Cameras Are Tracking Your Life Without a Warrant app
 ## ⚠️ 今日故障源
 
 - **🚗 汽车**: Roadshow, Autocar
-- **✈️ 旅游**: Nomadic Matt
 
 ---
 
