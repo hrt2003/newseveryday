@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年06月25日** | 生成时间: 2026-06-25 17:29
+**2026年06月25日** | 生成时间: 2026-06-25 22:40
 
 ---
 
@@ -22,29 +22,29 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/czj8vjvmz38o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. France, UK and Spain see record temperatures as heatwave grips western Europe
+### 2. Earthquake is devastating blow to Venezuela at time of uncertainty
 
-[原文] Tens of millions of people are grappling with punishing temperatures, which have led to red heat alerts across the continent.
+[原文] The twin quakes come less than six months after Venezuela's then-leader Nicolás Maduro was seized by US forces.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Trump asks Congress for billions for Iran war, after tension with Republicans
+### 3. Europe's heatwave shifts east as France raises health alert to highest level
+
+[原文] Temperatures in Germany could hit 40C in some areas while French officials say deaths linked to the heat are being seen among young people.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. Trump asks Congress for billions for Iran war, after tension with Republicans
 
 [原文] But the budget faces an uphill battle as the president spars with some members of his own party over the issue.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Oil price falls to levels not seen since before Iran war
+### 5. Key figure in South Africa police corruption scandal pleads guilty
 
-[原文] Energy prices have been on a wild ride since Iran responded to US and Israeli attacks by effectively closing the Strait of Hormuz.
+[原文] Prosecutors say Vusimusi "Cat" Matlala could provide evidence against "high-ranking officials".
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Philippines bans video game played by alleged high school shooter
-
-[原文] The rare school shooting that left three students killed and 20 others injured has shocked the country.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c14y7738nm8o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2j4g5k52jo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Iran warns ships it's 'unacceptable and dangerous' to transit the Strait of Hormuz without their approval
+### 1. Core inflation rate hit 3.4% in May, highest since October 2023, Fed’s preferred gauge shows
 
-[原文] The stern warning underscores Tehran's resolve to retain control over the Strait of Hormuz and to resist transits that bypass its authorization.
+[原文] The personal consumption expenditures price index was expected to show a 4.1% annual increase.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/25/iran-navy-shipping-recovery-strait-of-hormuz-unauthorized-routes-us-fragile-mou-.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/25/pce-inflation-report-may-2026-.html) — *CNBC*
 
-### 2. Micron stock jumps over 16% in premarket trading after blockbuster earnings
+### 2. Apple stock drops 5% on MacBook and iPad price hikes due to memory crunch
+
+[原文] Tim Cook said last week that Apple would hike prices due to surging memory and storage costs.
+
+📎 [阅读原文](https://www.cnbc.com/2026/06/25/apple-macbook-ipad-price-hike-memory.html) — *CNBC*
+
+### 3. JPMorgan names Doug Petno and Troy Rohrbaugh co-presidents as longtime exec Marianne Lake exits
+
+[原文] The moves would appear to make Doug Petno and Troy Rohrbaugh the most obvious possible successors to JPMorgan Chase CEO Jamie Dimon.
+
+📎 [阅读原文](https://www.cnbc.com/2026/06/25/jpmorgan-chase-co-presidents-lake-exits.html) — *CNBC*
+
+### 4. Micron is up 10% after blockbuster earnings, but has pulled back from highs
 
 [原文] The company's revenue more than quadrupled from $9.3 billion a year earlier to $41.46 billion, it reported on Wednesday
 
 📎 [阅读原文](https://www.cnbc.com/2026/06/25/micron-stock-3q-earnings-memory.html) — *CNBC*
 
-### 3. Trump pledges rapid U.S. response for Venezuela after historic earthquakes kill dozens
+### 5. Wendy's turns lower as meme rally fails to extend to a second day
 
-[原文] The swift U.S. offer of assistance reflects a degree of diplomatic realignment between the Trump administration and the Venezuelan interim government.
+[原文] The stock's volatile run appeared largely disconnected from company fundamentals and instead reflected a burst of social media enthusiasm.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/25/venezuela-earthquakes-casualties-trump-pledges-support-aids-oil-.html) — *CNBC*
-
-### 4. SK Hynix surges 12% after Micron earnings; blockbuster Nasdaq listing
-
-[原文] Shares of South Korean chip giant SK Hynix surged 12% on Thursday after the company said it is seeking to raise as much as $29.4 billion.
-
-📎 [阅读原文](https://www.cnbc.com/2026/06/25/chip-tech-stocks-sk-hynix-nasdaq-adr-listing-29-billion-ai-investment.html) — *CNBC*
-
-### 5. Gold holds below $4,000, silver below $60 — has the shimmer worn off the precious metal rally?
-
-[原文] Gold is down almost 8% so far this year, while silver has shed more than 20%.
-
-📎 [阅读原文](https://www.cnbc.com/2026/06/25/gold-silver-price-rally-invest-interest-rates.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/25/wendys-shares-soar-for-a-second-day-as-retail-investors-pile-into-their-new-meme-darling.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Europe is pushing back on Washington’s chip war
+### 1. 2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit
 
-[原文] As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the MATCH Ac
+[原文] 2 days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m. PT. Register here.
 
-📎 [阅读原文](https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/) — *TechCrunch*
 
-### 2. Former Infosys chief has a new startup that wants to challenge the IT services world
+### 2. Trump admin proposes axing brake-pedal requirement for AVs in a boost for Tesla
 
-[原文] Backed by Mayfield and Aramco Ventures, Vishal Sikka’s new venture brings together veterans from SAP, Infosys, and VianAI.
+[原文] The Department of Transportation wants to remove the brake-pedal requirement for vehicles "designed to be driven exclusively by automated driving systems."
 
-📎 [阅读原文](https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/06/25/trump-admin-proposes-axing-brake-pedal-requirement-for-avs-in-a-boost-for-tesla/) — *TechCrunch*
 
-### 3. Elon suffers another day short of trillionaire status
+### 3. Adobe acquires image and video enhancement tool maker Topaz Labs
 
-[原文] Right now he's merely a several-hundred-billionaire, according to Bloomberg's Billionaires Index.
+[原文] Adobe said that it will integrate Topaz Labs' tools across its apps.
 
-📎 [阅读原文](https://techcrunch.com/2026/06/24/elon-suffers-another-day-short-of-trillionaire-status/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/) — *TechCrunch*
 
-### 4. Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood
+### 4. Amazon ups India bet with fresh $13B AI infrastructure investment
 
-[原文] In its first earnings report since going public, the AI chipmaker forecast a narrower gross margin in its core business, scaring investors.
+[原文] Amazon’s latest India investment comes as global tech companies race to expand AI infrastructure in the country.
 
-📎 [阅读原文](https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/) — *TechCrunch*
 
-### 5. AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient
+### 5. Cellebrite said it cut off Russia, but Russia used its tools anyway
 
-[原文] While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data.
+[原文] Security researchers found evidence that Russian authorities hacked the iPhone of a political opponent using a phone-unlocking device made by Cellebrite, even after the company said it would stop sell
 
-📎 [阅读原文](https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/06/25/cellebrite-said-it-cut-off-russia-but-russia-used-is-tools-anyway/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Vinicius Jr stops the fun and leaves Scots down... but are they going out?
+### 1. The games that show the flaws in a 48-team World Cup
 
-[原文] Scotland's party stops at the hands of Brazil in Miami, but might they still find themselves in the last 32?
+[原文] Two matches in the final round of group games present the chance for two teams to simply play out a draw to qualify.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ce3e237r7g7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cgev2vdzjvvo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. 'Think we're going home' - Clarke & McGinn rue Scotland mistakes
-
-[原文] Scotland will have to wait until potentially the early hours of Sunday to find out if their World Cup campaign will continue, but midfielder John McGinn suspects that is "unlikely" and head coach Stev
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cd7w27eg5jro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 3. Austrian GP declared heat-hazard race amid heatwave
+### 2. Austrian GP declared heat-hazard race amid heatwave
 
 [原文] This weekend's Austrian Grand Prix is declared a heat-hazard race by Formula 1's governing body the FIA.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/crelx8d3ye1o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Scotland hopes on the brink following defeat against Brazil
+### 3. Stay or go home? Tartan Army in limbo as Scotland await fate
 
-[原文] Scotland's hopes of reaching the knockout stages of the World Cup for the first time are in significant peril with calamitous defending allowed Brazil to win 3-0 in Miami and finish top of Group C.
+[原文] BBC Scotland examines options for the Tartan Army in Miami as Scotland wait to discover if their World Cup adventure will continue or not.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cd0mzld5lpeo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cjdg05l2jngo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Best World Cup stadium? BBC Sport experts have their say
+### 4. Bellamy to stay with Wales as Burnley move off
 
-[原文] BBC Sport reporters have their say on the best stadium experiences at the 2026 World Cup.
+[原文] Wales manager Craig Bellamy's proposed move to take charge at Championship side Burnley has fallen through.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c3vy3grvpg6o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cnv9e5pq142o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 5. How brands banned from the World Cup became the story
+
+[原文] When we try to suppress something, we often make it more visible - and Fifa is living that in real time with its sponsors.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cdejrjpe8w3o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘Dept. Q’ Season 2 Adds Aisling Franciosi, Greg Wise and More to Cast as Production Starts in Scotland
+### 1. Prime Day Blu-ray Deals Include 50% Discounts on Dozens of Films and Boxed Sets: ‘Boogie Nights, ‘Pulp Fiction,’ ‘The Sopranos’ and More
 
-[原文] The second season of &#8220;Dept. Q&#8221; is officially underway, with the Netflix crime series starting production in Scotland and adding 10 cast members. Matthew Goode is set to return as DCI Carl 
+[原文] Streaming may be convenient, but for collectors, cinephiles and anyone tired of watching their favorite shows disappear from platforms without warning, nothing beats owning the disc. Luckily, Amazon&#
 
-📎 [阅读原文](https://variety.com/2026/tv/global/dept-q-season-2-adds-cast-starts-production-1236790151/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/shopping/news/prime-day-blu-ray-box-set-deals-2026-shop-online-1236790456/) — *Variety*
 
-### 2. Genre-Bending Stories, Trailblazing Co-Productions Head Annecy’s MIFA Feature Pitches
+### 2. Wilmer Valderrama‘s WV Entertainment Launches Social Media Marketing Company WV Social House (EXCLUSIVE)
 
-[原文] The Annecy Animation Festival, now in full swing, offers a vibrant mix of world premieres and unique screenings aimed at animation fans and industry execs alike. For the latter, the MIFA Feature Pitch
+[原文] Wilmer Valderrama‘s WV Entertainment is launching WV Social House, a new social media marketing company. The enterprise is focused on creating internet-native strategies and to build campaigns, conten
 
-📎 [阅读原文](https://variety.com/2026/film/global/mifa-feature-pitches-2026-annecy-1236786596/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/digital/news/wilmer-valderrama-wv-entertainment-launches-social-media-marketing-company-1236790286/) — *Variety*
 
-### 3. Anthony Boyle, Sam Claflin, Tom Hollander and Josh Finan Among Ensemble Joining Keira Knightley and Alicia Vikander in Dark Comedy ‘The Worst’ (EXCLUSIVE)
+### 3. ‘Robert Richardson: The White Devil’ Debuts Trailer as B-Rated Boards Documentary About Tarantino, Scorsese, Stone Cinematographer
 
-[原文] With shooting now underway in the south of France on dark comedy &#8220;The Worst,&#8221; the production has added a major cohort of names to its already buzzy cast. Sam Claflin (&#8220;F.A.S.T.,&#822
+[原文] B-Rated Intl. has acquired worldwide sales and distribution rights to “Robert Richardson: The White Devil,” a feature documentary about cinematographer Robert Richardson, a three-time Academy Award wi
 
-📎 [阅读原文](https://variety.com/2026/film/global/the-worst-anthony-boyle-sam-claflin-tom-hollander-1236789539/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/robert-richardson-the-white-devil-trailer-b-rated-1236790330/) — *Variety*
 
-### 4. Comcast-Owned Sky Agrees on Terms to Buy ITV’s Broadcast and Streaming Unit (Report)
+### 4. Nearly 1,000 Actors, Agents and More Sign Open Letter Against ‘Major Studio’ Demanding Child Actors Allow Their Voices to Be Used for AI
 
-[原文] Sky, the Comcast-owned U.K. pay-TV operator, has agreed on terms to buy British broadcaster ITV’s media and entertainment division, which is its network arm. Reuters reported the development on Thursd
+[原文] Nearly 1,000 actors, talent agents, parents and others have signed an open letter organized by the Agents for Young Performers Association this week condemning contract clauses that mandate children s
 
-📎 [阅读原文](https://variety.com/2026/tv/global/comcast-sky-itv-deal-terms-1236790155/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/open-letter-major-studio-hasbro-children-ai-peppa-pig-1236790351/) — *Variety*
 
-### 5. Mubi to Publish Lost ‘Faust’ Bible on Centenary of F.W. Murnau’s Silent Cinema Classic (EXCLUSIVE)
+### 5. ‘Evangelion’ Studio Khara and SlowCurve Board ‘Baahubali: The Eternal War’ (EXCLUSIVE)
 
-[原文] Arthouse distributor, streamer, production company and — since 2024 — publisher Mubi is set to release a book about the silent era classic &#8220;Faust&#8221; containing material that was until recent
+[原文] Studio Khara, the Japan-based animation house behind the &#8220;Evangelion&#8221; franchise, has boarded &#8220;Baahubali: The Eternal War Part 1&#8221; to produce a dedicated animated sequence for th
 
-📎 [阅读原文](https://variety.com/2026/film/global/mubi-publish-lost-faust-bible-silent-cinema-classic-1236789812/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/evangelion-studio-khara-baahubali-eternal-war-1236789207/) — *Variety*
 
 ---
 
@@ -244,35 +244,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. WHO urges scale up of newborn screening to improve early detection and care of birth defects
+### 1. 655 million people still living without electricity underscore urgent need to deliver on universal energy access target
+
+[原文] At a time when energy security and affordability have risen to the top of the development agenda, 655 million people globally still lack access to electricity, and two billion use polluting fuels and 
+
+📎 [阅读原文](https://www.who.int/news/item/24-06-2026-655-million-people-still-living-without-electricity-underscore-urgent-need-to-deliver-on-universal-energy-access-target) — *WHO*
+
+### 2. WHO urges scale up of newborn screening to improve early detection and care of birth defects
 
 [原文] The World Health Organization (WHO) today calls on countries to expand newborn screening for birth defects, highlighting how early detection and treatment can save lives and reduce lifelong disability
 
 📎 [阅读原文](https://www.who.int/news/item/23-06-2026-who-urges-scale-up-of-newborn-screening-to-improve-early-detection-and-care-of-birth-defects) — *WHO*
 
-### 2. WHO issues comprehensive guidelines on filovirus disease, including Ebola and Marburg disease
+### 3. WHO issues comprehensive guidelines on filovirus disease, including Ebola and Marburg disease
 
 [原文] As the Democratic Republic of the Congo is battling an Ebola disease outbreak caused by the Bundibugyo virus, the World Health Organization (WHO) has released its first comprehensive guidelines for th
 
 📎 [阅读原文](https://www.who.int/news/item/17-06-2026-who-issues-comprehensive-guidelines-on-filovirus-disease--including-ebola-and-marburg-disease) — *WHO*
 
-### 3. Open letter to leaders of G7, G20, BRICS and all nations on finalizing the WHO Pandemic Agreement’s Pathogen Access and Benefit Sharing annex
+### 4. Open letter to leaders of G7, G20, BRICS and all nations on finalizing the WHO Pandemic Agreement’s Pathogen Access and Benefit Sharing annex
 
 [原文] Dear Leaders of the G7, the G20, BRICS and of all nations,We write to you together, from Geneva and from Bras&iacute;lia, with one shared conviction: that the world must finish what it started, and th
 
 📎 [阅读原文](https://www.who.int/news/item/15-06-2026-open-letter-to-leaders-of-g7-g20-brics-and-all-nations-on-finalizing-the-who-pandemic-agreement-s-pathogen-access-and-benefit-sharing-annex) — *WHO*
 
-### 4. Safe blood supply improves as voluntary donations exceed 85%, but many people still lack access
+### 5. Safe blood supply improves as voluntary donations exceed 85%, but many people still lack access
 
 [原文] New data from the World Health Organization (WHO) show sustained progress towards safer blood supplies globally but also highlight persistent inequalities in access to safe blood and weaknesses in gov
 
 📎 [阅读原文](https://www.who.int/news/item/12-06-2026-safe-blood-supply-improves-as-voluntary-donations-exceed-85---but-many-people-still-lack-access) — *WHO*
-
-### 5. Africa CDC and WHO launch joint continental Ebola response plan
-
-[原文] The Africa Centres for Disease Control and Prevention (Africa CDC) and the World Health Organization (WHO) today launched a joint continental preparedness and response plan on the ongoing Ebola outbre
-
-📎 [阅读原文](https://www.who.int/news/item/05-06-2026-africa-cdc-and-who-launch-joint-continental-ebola-response-plan) — *WHO*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Free Best Buy $50 Gift Card When Buying GTA 6 with an Eligible Console
+### 1. How the Supergirl Movie Reinvents Big-Screen Flying
 
-[原文] Best Buy is giving away $50 reward certificates today for anyone bundling a Grand Theft Auto 6 preorder with an eligible PlayStation 5 or Xbox console.
+[原文] Milly Alcock and Craig Gillespie, Supergirl's star and director respectively, discuss how the new DCU movie changes up the concept of superhero flight. Plus, we trace the earliest attempts to depict s
 
-📎 [阅读原文](https://www.ign.com/articles/gta-6-preorder-best-buy-console-deal) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/how-the-supergirl-movie-reinvents-big-screen-flying) — *IGN*
 
-### 2. Avatar: The Last Airbender Season 2 Review
+### 2. The 35 Best Gaming Deals in the Prime Day Sales — Hand-Picked by Our Deals Experts
 
-[原文] Avatar: The Last Airbender Season 2 review: A vast improvement with some big hiccups.
+[原文] There's a surprisingly healthy amount of video game deals up for grabs in the 2026 Prime Day sales, including some killer discounts for PS5, Switch, and even Xbox owners. (I promise I haven't forgotte
 
-📎 [阅读原文](https://www.ign.com/articles/avatar-the-last-airbender-season-2-review-netflix) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/best-video-game-deals-prime-day-2026) — *IGN*
 
-### 3. Hundred Nights: DIFU is like Two Point Hospital… In Hell | IGN Preview
+### 3. In the Hand of Dante Review
 
-[原文] We got hands-on with the opening tutorial stages of Hundred Nights: DIFU, a cheeky, Two Point-inspired spin on Chinese mythology, and enjoyed the opportunity to fashion our own personal hellscape and 
+[原文] In the Hand of Dante review: Oscar Isaac leads a languid drama as both Italian poet Dante and New York author Nick Tosches.
 
-📎 [阅读原文](https://www.ign.com/articles/hundred-nights-difu-is-like-two-point-hospital-in-hell-ign-preview) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/in-the-hand-of-dante-review-oscar-isaac-netflix) — *IGN*
 
-### 4. Grand Theft Auto 6 Preorders Are Live
+### 4. Insomniac Responds to Wolverine Fan to Confirm Physical Edition Includes a Disc in the Box and I Suspect More Devs Will Have to Answer This Question in a Post-GTA 6 World
 
-[原文] Everything you need to know to preorder Grand Theft Auto 6 for PS5 or Xbox Series X|S.
+[原文] Insomniac Games has responded to a fan on social media who asked if the physical version of Marvel's Wolverine is just a code in the box — with the question now top of mind following Rockstar’s shock 
 
-📎 [阅读原文](https://www.ign.com/articles/grand-theft-auto-6-where-to-buy) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/insomniac-responds-to-wolverine-fan-to-confirm-physical-edition-includes-a-disc-in-the-box-and-i-suspect-more-devs-will-have-to-answer-this-question-in-a-post-gta-6-world) — *IGN*
 
-### 5. Prime Day LEGO Deals on Sets for Adults Are Selling Out Fast
+### 5. No GTA 6 Disc Decision Will Make Some Gamers Angry, but Analysts Say 'Commercially It Just Makes Sense'
 
-暂无摘要。
+[原文] With Grand Theft Auto 6, arguably the biggest and most mass market game of the generation, skipping a disc-based launch — is physical media now dead?
 
-📎 [阅读原文](https://www.ign.com/articles/lego-prime-day-deals-for-adults-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/no-gta-6-disc-decision-will-make-some-gamers-angry-but-analysts-say-commercially-it-just-makes-sense) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Prime Day Car Detailing Deals: Products Under $20 That Are Really Worth Buying
+### 1. Polestar Is Done Selling New Cars in the US
+
+[原文] Five months after announcing plans to reboot Polestar is done in the U.S. market.
+The post Polestar Is Done Selling New Cars in the US appeared first on The Drive.
+
+📎 [阅读原文](https://www.thedrive.com/news/polestar-is-done-selling-new-cars-in-the-us) — *The Drive*
+
+### 2. Can Ferrari and Hamilton Stop Either Mercedes Driver This Weekend?
+
+[原文] Will Mercedes continue to dominate in Austria, or have the mechanical failures in Canada and Barcelona revealed Brackley's Achilles heel?
+The post Can Ferrari and Hamilton Stop Either Mercedes Driver 
+
+📎 [阅读原文](https://www.thedrive.com/news/can-ferrari-and-hamilton-stop-either-mercedes-driver-this-weekend) — *The Drive*
+
+### 3. I Rode in Slate’s $24,950 Electric Truck. It Didn’t Feel Like a $24,950 Electric Truck
+
+[原文] A fully loaded Slate Truck with the SUV kit, lift, and accessories tops out around $35,000. That changes the math considerably.
+The post I Rode in Slate&#8217;s $24,950 Electric Truck. It Didn&#8217;t
+
+📎 [阅读原文](https://www.thedrive.com/news/i-rode-in-slates-24950-electric-truck-it-didnt-feel-like-a-24950-electric-truck) — *The Drive*
+
+### 4. Toyota Might Steal GM’s US Sales Crown Thanks to Hybrids: TDS
+
+[原文] General Motors bet on EVs and V8-powered trucks and SUVs with no mainstream hybrids in its showrooms while Toyota went all-in on hybrids.
+The post Toyota Might Steal GM&#8217;s US Sales Crown Thanks t
+
+📎 [阅读原文](https://www.thedrive.com/news/toyota-might-steal-gms-us-sales-crown-thanks-to-hybrids-tds) — *The Drive*
+
+### 5. Prime Day Car Detailing Deals: Products Under $20 That Are Really Worth Buying
 
 [原文] There are lots of great car detailing brands doing deals for Amazon Prime Day. Here are my picks for super low-cost bargains from brands we use ourselves.
 The post Prime Day Car Detailing Deals: Produ
 
 📎 [阅读原文](https://www.thedrive.com/news/prime-day-car-detailing-deals-products-under-20-that-are-really-worth-buying) — *The Drive*
-
-### 2. If Phones Are Killing Pedestrians, Why Is It Only Happening in America?
-
-[原文] Smartphone adoption tracks America's pedestrian death spike almost perfectly. The problem: every other country has smartphones too.
-The post If Phones Are Killing Pedestrians, Why Is It Only Happening
-
-📎 [阅读原文](https://www.thedrive.com/news/if-phones-are-killing-pedestrians-why-is-it-only-happening-in-america) — *The Drive*
-
-### 3. Ford Drops V8 From Top-Spec F-150 King Ranch, Platinum
-
-[原文] If you're in the market for a highfalutin Ford half-ton, you'll have to be OK with an EcoBoost V6.
-The post Ford Drops V8 From Top-Spec F-150 King Ranch, Platinum appeared first on The Drive.
-
-📎 [阅读原文](https://www.thedrive.com/news/ford-drops-v8-from-top-spec-f-150-king-ranch-platinum) — *The Drive*
-
-### 4. 85-Year-Old Arrested for Allegedly Street Racing His Nissan Z
-
-[原文] Grandpa's got the need—the need for speed.
-The post 85-Year-Old Arrested for Allegedly Street Racing His Nissan Z appeared first on The Drive.
-
-📎 [阅读原文](https://www.thedrive.com/news/85-year-old-arrested-for-allegedly-street-racing-his-nissan-z) — *The Drive*
-
-### 5. License Plate Cameras Are Tracking Your Life Without a Warrant
-
-[原文] The cameras are already out there, already collecting, and there's no setting, no law, and no off switch that can stop them.
-The post License Plate Cameras Are Tracking Your Life Without a Warrant app
-
-📎 [阅读原文](https://www.thedrive.com/podcast/license-plate-cameras-are-tracking-your-life-without-a-warrant) — *The Drive*
 
 ---
 
@@ -363,35 +363,35 @@ The post License Plate Cameras Are Tracking Your Life Without a Warrant app
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. A Pipeline Company Says It Will Protect the Environment in North Carolina. Its Record in Tennessee Says Otherwise.
+### 1. The ‘Guerrilla Solar’ Era Has Arrived, and Here’s What to Know
+
+[原文] After Russia invaded Ukraine in 2022, electricity prices shot up across Europe and consumers looked for ways to save. One popular option was plug-in solar—inexpensive and easy-to-install renewable ene
+
+📎 [阅读原文](https://insideclimatenews.org/news/25062026/inside-clean-energy-plug-in-solar-era-has-arrived/) — *Inside Climate News*
+
+### 2. Texas’ Refusal to Plan for Climate Change Created a Crisis in Corpus Christi
+
+[原文] This story was produced in partnership with the Texas Newsroom, the state’s network of public radio stations. A decade ago, Corpus Christi’s regional water plan projected shortages as soon as 2050. Th
+
+📎 [阅读原文](https://insideclimatenews.org/news/25062026/texas-unrealistic-plans-created-corpus-christi-water-crisis/) — *Inside Climate News*
+
+### 3. A Pipeline Company Says It Will Protect the Environment in North Carolina. Its Record in Tennessee Says Otherwise.
 
 [原文] PITTSBORO, N.C.— An 85-year-old widow stood before a panel of Enbridge Gas representatives perched above her on a stage at the Chatham County Agriculture &#38; Conference Center. She had fire in her e
 
 📎 [阅读原文](https://insideclimatenews.org/news/25062026/enbridge-tennessee-ridgeline-expansion-project/) — *Inside Climate News*
 
-### 2. Pennsylvania’s Fossil Fuel Tax Revenue Lags Far Behind Other Energy States, Report Says
+### 4. Pennsylvania’s Fossil Fuel Tax Revenue Lags Far Behind Other Energy States, Report Says
 
 [原文] Pennsylvania’s natural gas, coal and petrochemical industries are taxed too little, and they are now declining so cannot be expected to rescue the state from growing budget deficits, according to a ne
 
 📎 [阅读原文](https://insideclimatenews.org/news/25062026/pennsylvania-low-fossil-fuel-tax-revenue/) — *Inside Climate News*
 
-### 3. It’s Too Hot In Europe–Again
+### 5. It’s Too Hot In Europe–Again
 
 [原文] Europe is in the midst of its second big heat wave of the year, and it’s breaking more records. France just recorded its hottest day ever, with temperatures exceeding 44 degrees Celsius in some places
 
 📎 [阅读原文](https://insideclimatenews.org/news/24062026/europe-experiences-second-heat-wave-this-year/) — *Inside Climate News*
-
-### 4. Elected Democrats Have Embraced ‘Climate Hushing.’ Are They Making a Mistake as the Midterms Loom?
-
-[原文] To some political pundits and Democratic strategists, one takeaway from the 2024 presidential election was clear: Don’t talk about climate change. An Inside Climate News analysis of press releases iss
-
-📎 [阅读原文](https://insideclimatenews.org/news/24062026/analysis-shows-democrats-embrace-climate-hushing/) — *Inside Climate News*
-
-### 5. Trump’s ‘Short-Sighted’ Cuts Jeopardize Philadelphia’s Clean Energy Future
-
-[原文] During the Biden administration, clean energy developers in the Philadelphia area planned to take advantage of new, expanded federal support for renewable projects for years. Now, as the Trump adminis
-
-📎 [阅读原文](https://insideclimatenews.org/news/24062026/trump-clean-energy-tax-credit-cuts-affects-philadelphia-projects/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post License Plate Cameras Are Tracking Your Life Without a Warrant app
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Lionel Richie Cuts Minnesota Set Short After Falling Ill On Stage
+### 1. Blondshell Returns With More Hard-Hitting Rock Songs on New Album ‘Violins’
+
+[原文] The singer-songwriter has announced her third LP and shared the title track and video
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/blondshell-new-album-violins-announcement-1235582722/) — *Rolling Stone*
+
+### 2. Lionel Richie Cuts Minnesota Set Short After Falling Ill On Stage
 
 [原文] The musician kicked off his joint tour with Earth, Wind &#38; Fire in St. Paul on Wednesday night
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/lionel-richie-minnesota-show-ill-on-stage-1235583728/) — *Rolling Stone*
 
-### 2. Dolly Parton Graces Opening of Tennessee Truck Stop: ‘I Couldn’t Leave It to Beavers’
+### 3. Dolly Parton Graces Opening of Tennessee Truck Stop: ‘I Couldn’t Leave It to Beavers’
 
-[原文] The star officially opened Dolly's Tennessean Travel Stop on Wednesday
+[原文] The star officially opened Dolly’s Tennessean Travel Stop on Wednesday
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/dolly-parton-tennessee-travel-stop-1235583690/) — *Rolling Stone*
 
-### 3. Leonard Cohen Estate Does Not Support Trump’s Plan to Use ‘Hallelujah’ at Freedom 250 Rally
+### 4. Leonard Cohen Estate Does Not Support Trump’s Plan to Use ‘Hallelujah’ at Freedom 250 Rally
 
 [原文] The president said that opera singer Christopher Macchio would perform the song at his Trump rally on June 24
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/leonard-cohen-estate-trump-hallelujah-freedom-250-1235583656/) — *Rolling Stone*
 
-### 4. Little Steven Van Zandt’s $15 Million NYC Penthouse Looks Exactly How You’d Expect It Would
+### 5. Little Steven Van Zandt’s $15 Million NYC Penthouse Looks Exactly How You’d Expect It Would
 
 [原文] Except for one small detail
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/little-steven-van-zandt-penthouse-for-sale-1235583533/) — *Rolling Stone*
-
-### 5. Olivia Rodrigo’s Daisy Chain Fields Music Festival Sells Out in 30 Minutes
-
-[原文] Rodrigo's inaugural fest features an all-women lineup, including Stevie Nicks, Mitski, Bikini Kill, and Doechii
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/daisy-chain-fields-music-festival-sold-out-30-minutes-1235583588/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post License Plate Cameras Are Tracking Your Life Without a Warrant app
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trip.com Wants to Bring 200 Million International Visitors to China
+### 1. What Albania’s Flamingo Revolution Tells Us About Sovereign Capital’s Coastline Problem
+
+[原文] The largest tourism-real-estate deals increasingly arrive with a demand for exceptional treatment: special investor status, rewritten protections, consent bypassed. Albania is just the loudest case; t
+
+📎 [阅读原文](https://skift.com/2026/06/25/what-albanias-flamingo-revolution-tells-us-about-sovereign-capitals-coastline-problem/) — *Skift*
+
+### 2. Mexico’s Posadas Had Gone Too Luxury. Its Next Deals Will Even the Split.
+
+[原文] Posadas called its own luxury-heavy signings a ‘red flag,’ and is rebalancing as a soft quarter hit its luxury hotels hardest.
+
+📎 [阅读原文](https://skift.com/2026/06/25/mexicos-posadas-had-gone-too-luxury-its-next-deals-will-even-the-split/) — *Skift*
+
+### 3. Announcing the Skift Transatlantic Summit 2026: Travel in a Fractured World
+
+[原文] Skift Transatlantic Summit returns for its second edition this October in Dublin, convening senior travel leaders to examine how geopolitics, shifting demand, and AI are reshaping the world's most val
+
+📎 [阅读原文](https://skift.com/2026/06/25/announcing-skift-transatlantic-summit-2026/) — *Skift*
+
+### 4. Trip.com Says China’s Regulatory Crackdown Is Starting to Show Up in Its Numbers
+
+[原文] China's regulatory push is no longer just a compliance issue for Trip.com Group. It's now influencing how the company operates, and its near-term financial outlook.
+
+📎 [阅读原文](https://skift.com/2026/06/25/trip-com-says-chinas-regulatory-crackdown-is-starting-to-show-up-in-its-numbers/) — *Skift*
+
+### 5. Trip.com’s 200 Million China Goal Hinges on Near-Doubling Its Inbound Business Every Year
 
 [原文] Visa-free access may be bringing visitors to China, but Trip.com believes the real opportunity lies in building the infrastructure — AI, payments and local suppliers — to keep them coming.
 
-📎 [阅读原文](https://skift.com/2026/06/25/trip-com-wants-to-bring-200-million-international-visitors-to-china/) — *Skift*
-
-### 2. What Airbnb Used to Be: Boutique Wants Fewer Homes, More Taste — and No Investment Funds
-
-[原文] Marc Blazer is building one of the cleanest anti-Airbnb points of view in travel: real, deeply designed homes for design-literate travelers who want taste, context, and character over inventory. The a
-
-📎 [阅读原文](https://skift.com/2026/06/24/what-airbnb-used-to-be-boutique-wants-fewer-homes-more-taste-and-no-investment-funds/) — *Skift*
-
-### 3. Experience Pure Plays Are Winning, OTAs Are Still Catching Up
-
-[原文] Every major OTA — and even most hotels — say experiences are core to their strategies. But 30 years after the first experiences middlemen appeared, it is still a very tough business with the specialis
-
-📎 [阅读原文](https://skift.com/2026/06/24/experience-pure-plays-are-winning-otas-are-still-catching-up/) — *Skift*
-
-### 4. Heat Wave Hits Some of Europe’s Top Tourist Attractions
-
-[原文] Europe faces record-high temperatures just as its peak travel season ramps up.
-
-📎 [阅读原文](https://skift.com/2026/06/24/europe-heat-wave-disrupt-tourism-travel/) — *Skift*
-
-### 5. Airline Lobby Backs Ban on Surveillance Pricing — While Insisting No Airline Does It
-
-[原文] The airline industry is arguing surveillance pricing is different from dynamic pricing. But as airlines get more sophisticated in their use of AI, the issue isn't going away.
-
-📎 [阅读原文](https://skift.com/2026/06/24/airline-lobby-backs-ban-on-surveillance-pricing/) — *Skift*
+📎 [阅读原文](https://skift.com/2026/06/25/trip-coms-200-million-china-goal-hinges-on-near-doubling-its-inbound-business-every-year/) — *Skift*
 
 ---
 
