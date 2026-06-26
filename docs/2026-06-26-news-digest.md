@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年06月26日** | 生成时间: 2026-06-26 12:04
+**2026年06月26日** | 生成时间: 2026-06-26 17:34
 
 ---
 
@@ -34,17 +34,17 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/videos/c78y1e3606vo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Paris restricts alcohol consumption and sales as Europe's heatwave shifts east
-
-[原文] Temperatures in Germany could hit 40C in some areas while French officials bring in alcohol restrictions to ease pressure on hospitals.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. UN pauses Strait of Hormuz evacuation plan after cargo ship attacked
+### 4. UN pauses Strait of Hormuz evacuation plan after cargo ship attacked
 
 [原文] The ship was reportedly struck by an "unknown projectile" near Oman but no casualties were reported.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Women alleging rape and sexual assault in France call to abolish statute of limitations
+
+[原文] More than 50 women are calling for the abolition of the statute of limitations which they say has prevented them seeking justice.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/ckg7z5dvxnzo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. SoftBank sinks 12% as Asia tech rout tracks declines in the U.S.
+### 1. U.S. crude oil falls below $70, resuming losses after attack on cargo ship near Oman
+
+[原文] Oil extended declines on Friday, with markets focused any further breakthroughs in the Middle East conflict, while digesting a flurry of news from the region.
+
+📎 [阅读原文](https://www.cnbc.com/2026/06/26/oil-prices-middle-east-iran-strait-of-hormuz-opec-iraq-wti-brent-crude.html) — *CNBC*
+
+### 2. Red Lobster's Ultimate Endless Shrimp promotion described as a 'car crash for the company, lawsuit says
+
+[原文] "Thai Union doubled down on a campaign to squeeze out every drop of value that it could," creditors said
+
+📎 [阅读原文](https://www.cnbc.com/2026/06/26/red-lobsters-endless-shrimp-promotion-was-a-car-crash-lawsuit-says.html) — *CNBC*
+
+### 3. Tumbling AI stocks signal another day of turmoil for tech companies
 
 [原文] SoftBank Group plunged, leading a broad selloff in Asian technology stocks amid mounting concerns over the rising cost of artificial intelligence infrastructure.
 
 📎 [阅读原文](https://www.cnbc.com/2026/06/26/global-tech-stocks-ai-infrastructure-costs-selloff-softbank-apple.html) — *CNBC*
 
-### 2. UN agency pauses Hormuz ship evacuation plan after first vessel attack under peace deal
-
-[原文] The pause follows a container ship being struck near the coast of Oman on Thursday, with a U.S. official saying that Iran was responsible for the attack.
-
-📎 [阅读原文](https://www.cnbc.com/2026/06/26/strait-of-hormuz-vessel-attack-evacuation-pauses-iran-united-states-peace-deal-negotiation-.html) — *CNBC*
-
-### 3. ON Semiconductor strikes $7 billion deal for Synaptics in physical AI push
+### 4. ON Semiconductor strikes $7 billion deal for Synaptics in physical AI push
 
 [原文] ON Semiconductor said the deal bumps up its total addressable market by $30 billion, to $243 billion by 2030.
 
 📎 [阅读原文](https://www.cnbc.com/2026/06/25/on-semi-synaptics-deal-physical-ai.html) — *CNBC*
 
-### 4. Iran behind attack on cargo vessel near Oman in Strait of Hormuz, U.S. official tells MS NOW
+### 5. Microsoft lifts price of Xbox consoles due to soaring component costs
 
-[原文] "The only crop we're harvesting is what you planted: decades of mistrust," Iranian parliament speaker Mohammad Bagher Ghalibaf said in a social media post.
+[原文] Microsoft said it's increasing the price of Xbox game consoles after Apple announced price hikes for MacBooks and iPads.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/25/iran-ghalibaf-trump-us-farm-products-assets.html) — *CNBC*
-
-### 5. Chicago Fed President Goolsbee says inflation is too high; Williams sees price pressures easing
-
-[原文] In a live CNBC interview from his home district, Goolsbee declined to speculate on where he thinks interest rates are headed.
-
-📎 [阅读原文](https://www.cnbc.com/2026/06/25/chicago-fed-president-goolsbee-says-inflation-is-too-high-calls-warsh-a-serious-guy.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/25/microsoft-lifts-price-of-xbox-consoles-due-to-soaring-component-costs.html) — *CNBC*
 
 ---
 
@@ -94,7 +94,7 @@
 
 ### 1. The White House is asking OpenAI to slow roll the release of its new model over safety concerns
 
-[原文] penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public. The reason: the Trump administration told it to.
+[原文] OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/) — *TechCrunch*
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Beccacece goes from brink to World Cup history with Ecuador
+### 1. USMNT must heed World Cup lessons learned in loss ...
 
-[原文] Sebastian Beccacece was on the verge of losing his job as Ecuador head coach as the clock ticked down against Germany - now he has a last-32 match to look forward to.
+[原文] A late 3-2 defeat to Türkiye will count for little in the grand scheme of things, but USMNT boss Mauricio Pochettino will have learned plenty about his second-string players.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cqx133qlve2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49183383/usmnt-heed-world-cup-lessons-learned-loss-turkiye) — *ESPN*
 
-### 2. Man City agree record fee with Forest for Anderson
+### 2. USMNT player ratings: Turner earns 3/10 as U.S. co...
 
-[原文] Manchester City agree a club record deal with Nottingham Forest to sign England midfielder Elliot Anderson.
+[原文] The USMNT's hot start finally hit a bump with three goals conceded, with backup keeper Matt Turner bearing blame.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cn8qx30q4xqo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49182087/usmnt-player-ratings-turner-3-10-first-world-cup-loss-turkiye) — *ESPN*
 
-### 3. Ecuador fight back to upset Germany
+### 3. Pulisic subs on as Türkiye beats U.S. on last kick...
 
-[原文] Goals from Nilson Angulo and Gonzalo Plata help Ecuador come from behind to beat Germany 2-1 to qualify for the knockout stages of the World Cup, as one of the top eight third-placed teams.
+[原文] After starting the World Cup with two performances full of incredible verve and vibrancy, the United States finished its group stage with a showing that was erratic and inconsistent in a match that ha
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/c0qyzg4zje4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49179213/christian-pulisic-subs-us-loses-turkiye-last-kick) — *ESPN*
 
-### 4. England can play on NZ memories of 2022 - Southee
+### 4. Poch puzzled by 'weird' questions: We 'won group'
 
-[原文] England can play on New Zealand memories of a remarkable Test at Trent Bridge in 2022 to turn around their series decider in Nottingham, according to assistant coach Tim Southee.
+[原文] Mauricio Pochettino was combative and seemingly frustrated with the media during his postgame news conference Thursday night, telling reporters after the United States lost to Türkiye 3-2, we still wo
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c932d9n7xvno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49183528/pochettino-puzzled-media-questions-us-wins-group) — *ESPN*
 
-### 5. James doubtful for Panama but England hopeful on Rice
+### 5. Tempo's Mabrey ties WNBA record with 53 points
 
-[原文] England's Reece James and Declan Rice miss England's penultimate training session before Panama with injury concerns.
+[原文] The Tempo's Marina Mabrey had one of those nights where she was hot "from honestly everywhere," matching the WNBA record with 53 points and also sinking a record-tying nine 3-pointers to lead Toronto'
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cp8rywj8rnpo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/wnba/story/_/id/49181720/tempo-mabrey-scores-53-tie-wnba-single-game-scoring-record) — *ESPN*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. DGA Ratifies Four-Year Deal Meant to Protect Members’ Jobs Amid Historic Downturn
+### 1. Alexis Alexiou Completes Third Feature ‘Sea of Glass,’ Unveils First Look and Trailer (EXCLUSIVE)
 
-[原文] The Directors Guild of America has voted to ratify a four-year contract intended to preserve members&#8217; jobs amid a historic downturn in film and TV production. Christopher Nolan, the DGA presiden
+[原文] Greek writer/director Alexis Alexiou has unveiled his third feature and his first since 2015&#8217;s award-winning &#8220;Wednesday 04.45.&#8221; &#8220;Sea of Glass,&#8221; now complete, is a country
 
-📎 [阅读原文](https://variety.com/2026/film/news/dga-ratify-contract-four-year-1236789691/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/alexis-alexiou-completes-third-feature-sea-of-glass-1236791079/) — *Variety*
 
-### 2. Crunchyroll Acquires ‘Kagurabachi’ Anime Series for April 2027 Release; Katsuyuki Konishi Joins Cast as Togo Shiba (EXCLUSIVE)
+### 2. ‘Bouchra’ Review: Animated Memoir Explores Diasporic Queer Identity and the Fraught Bonds Between Mothers and Daughters
 
-[原文] Crunchyroll has acquired the international streaming rights for the eagerly anticipated upcoming anime series &#8220;Kagurabachi.&#8221; Additionally, the streamer has confirmed actor Katsuyuki Konish
+[原文] In “Bouchra,” directors Merriam Bennani and Orian Bakri use animation to tell an intimate story taken from Bennani’s life, creating a distance from personal narrative. Instead of making a documentary 
 
-📎 [阅读原文](https://variety.com/2026/tv/news/kagurabachi-anime-crunchyroll-release-date-katsuyuki-konishi-1236790836/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/reviews/bouchra-review-1236537832/) — *Variety*
 
-### 3. ‘Mārama’ Director Details His ‘Rebellious’ Māori Ancestors, Whose Dancing and Tattoos Protested Colonization and Inspired His Revenge Tale
+### 3. S.S. Rajamouli Says ‘Varanasi’ Imax Action Done, Interconnecting Scenes Remain and ‘Baahubali’ Belongs in Animation (EXCLUSIVE)
 
-[原文] Writer-director Taratoa Stappard is an artist who tells stories of his lineage, and his latest film, &#8220;Mārama,&#8221; is a tribute to the ancestral women who risked it all to do the same during a
+[原文] The films of S.S. Rajamouli have consistently pushed the scale of Indian filmmaking – with blockbusters such as &#8220;RRR,&#8221; before that the “Baahubali” films. His upcoming feature “Varanasi,” s
 
-📎 [阅读原文](https://variety.com/2026/film/news/marama-horror-movie-ancestors-dancing-tattoos-1236788165/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/s-s-rajamouli-varanasi-imax-baahubali-in-animation-annecy-1236791051/) — *Variety*
 
-### 4. James Bond Candidate Louis Partridge Says He Never Pictured Himself as 007 But Says It’s ‘Wonderful’ to Be In Contention
+### 4. Peacock’s Horror Thriller ‘Strung’ Falters on Scares and Devolves Into Comedic, Campy Chaos: Review
 
-[原文] When Netflix released the first “Enola Holmes” in 2020, audiences watched “Stranger Things” star Millie Bobby Brown reinvent herself as the eccentric, fourth-wall-breaking detective. They also met a b
+[原文] From “The Best Man” director Malcom D. Lee and “Halloween 4: The Return of Michael Myers” scribe Alan B. McElroy, Peacock’s new horror thriller, “Strung,” is an absurd, campy film offering that leans 
 
-📎 [阅读原文](https://variety.com/2026/film/news/louis-partridge-james-bond-candidate-amazon-007-1236790993/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/reviews/strung-peacock-review-1236788416/) — *Variety*
 
-### 5. ‘Love Island USA’ Star Alannah Keyser Fired From Season 8, Second Contestant Booted for Using N-Word
+### 5. ‘The Bear’ Ends: Where Does Carmy Go and What Happens to the Restaurant?
 
-[原文] For the second time this season, a &#8220;Love Island USA&#8221; contestant has been kicked off the show for using the n-word. Casa Amor participant Alannah Keyser will no longer appear on Season 8, P
+[原文] SPOILER ALERT: This story contains spoilers for “The Original Beef of Chicagoland,” the series finale of “The Bear,” now streaming on Hulu. The real restaurant was the friendships they made along the 
 
-📎 [阅读原文](https://variety.com/2026/tv/news/love-island-usa-casa-amor-alannah-keyser-n-word-1236787570/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/the-bear-ending-explained-1236791040/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Buy One KPop Demon Hunters Squishmallow, Get a Second One for Half Off During Prime Day
+### 1. Cape Fear Episode 5 Recap and Review – 'Faith'
 
-[原文] They'll be your idols.
+[原文] Our Cape Fear Episode 5 review breaks down why "Faith" stalls out with mid-season-itis despite stellar acting and a wild, jaw-dropping ending.
 
-📎 [阅读原文](https://www.ign.com/articles/kpop-demon-hunters-squishmallow-deal-amazon-prime-day-sale) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/cape-fear-episode-5-recap-and-review-faith) — *IGN*
 
-### 2. Lizzy Caplan Joins FX's Far Cry TV Series
+### 2. Sword Sage: Awakening is an Action-RPG that Does Away with Dodge-Rolling | IGN Preview
 
-[原文] Mean Girls and Cloverfield star Lizzy Caplan has been cast in FX's upcoming adaptation.
+[原文] Sword Sage: Awakening's Bruce Lee-inspired combat system is impressive, even if it did force us to quickly unlearn everything we thought about the fighting fundamentals of the action-RPG genre. Check 
 
-📎 [阅读原文](https://www.ign.com/articles/lizzy-caplan-joins-fxs-far-cry-tv-series) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/sword-sage-awakening-is-an-action-rpg-that-does-away-with-dodge-rolling-ign-previews) — *IGN*
 
-### 3. Ratatouille 2 Will Never Happen, Says Director Brad Bird
+### 3. The LEGO Polaroid OneStep SX-70 Camera Is on Sale for the Last Day of Prime Day
 
-[原文] Don't expect Pixar's favorite rat to make a return, as director Brad Bird sees no potential in a Ratatouille 2.
+暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/ratatouille-2-will-never-happen-says-director-brad-bird) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/the-lego-polaroid-onestep-sx-70-camera-is-on-sale-for-the-last-day-of-prime-day) — *IGN*
 
-### 4. Save $50 Off With the Meta Quest 3S VR Headset During the Amazon Prime Day Sale
+### 4. EOFY 2026: Grab the Gigabyte A16 16-inch Gaming Laptop for $600 Off
 
-[原文] The most accessible way to get into VR gaming.
+暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/best-meta-quest-vr-headset-deal-amazon-prime-day-sale-updated) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/eofy-2026-gigabyte-a16-16-inch-au-deals) — *IGN*
 
-### 5. The Apple AirPods Pro 3 Noise Canceling Earbuds Are on Sale During Amazon Prime Day
+### 5. Stock Up on 6.6 Feet 240W USB Type-C Cables for Just $2.80 Each During Amazon Prime Day
 
-[原文] $70 less than buying it from the Apple Store.
+[原文] Charges everything from to your iPhone or Nintendo Switch 2 to even your MacBook Pro.
 
-📎 [阅读原文](https://www.ign.com/articles/best-apple-airpods-pro-3-earbuds-deal-amazon-prime-day-sale-updated) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/best-usb-cable-deals-amazon-prime-day-sale) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post Polestar Is Done Selling New Cars in the US appeared first on The Drive
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Alabama Seeks Permit to Fill Wetlands, Streams for Controversial Highway Project
+### 1. A New Book Tells the Story of Albuquerque Through the Rio Grande
+
+[原文] In “Ribbons of Green: The Rio Grande and the Making of Modern Albuquerque,” John Fleck and Robert P. Berrens explore Albuquerque’s relationship to the Rio Grande. The co-authors, collaborators at the 
+
+📎 [阅读原文](https://insideclimatenews.org/news/26062026/book-examines-albuquerque-through-rio-grande/) — *Inside Climate News*
+
+### 2. Interim Fish and Wildlife Assistant Secretary’s Lack of Experience Concerns Senators at Confirmation Hearings
+
+[原文] When President Donald Trump nominated Kevin Lilly last year to oversee management of the nation’s wildlife refuges and national parks, conservation advocacy organizations raised concerns over how his 
+
+📎 [阅读原文](https://insideclimatenews.org/news/26062026/kevin-lilly-interim-fish-wildlife-assistant-secretary-lack-of-experience/) — *Inside Climate News*
+
+### 3. Alabama Seeks Permit to Fill Wetlands, Streams for Controversial Highway Project
 
 [原文] Alabama officials are seeking federal permission to fill a stretch of wetlands and streams to move forward on the Birmingham Northern Beltline, a decades-long highway project that critics say is unnec
 
 📎 [阅读原文](https://insideclimatenews.org/news/25062026/alabama-birmingham-northern-beltline-wetlands-permit/) — *Inside Climate News*
 
-### 2. Supreme Court Delivers a Victory for Pesticide Companies in Fight Over Cancer Claims
+### 4. Supreme Court Delivers a Victory for Pesticide Companies in Fight Over Cancer Claims
 
 [原文] A Supreme Court ruling issued Thursday limits Americans’ ability to sue pesticide makers over alleged health harms from their products. The 7-2 decision overturned a 2023 Missouri circuit court ruling
 
 📎 [阅读原文](https://insideclimatenews.org/news/25062026/supreme-court-delivers-victory-for-pesticides/) — *Inside Climate News*
 
-### 3. The ‘Guerrilla Solar’ Era Has Arrived, and Here’s What to Know
+### 5. The ‘Guerrilla Solar’ Era Has Arrived, and Here’s What to Know
 
 [原文] After Russia invaded Ukraine in 2022, electricity prices shot up across Europe and consumers looked for ways to save. One popular option was plug-in solar—inexpensive and easy-to-install renewable ene
 
 📎 [阅读原文](https://insideclimatenews.org/news/25062026/inside-clean-energy-plug-in-solar-era-has-arrived/) — *Inside Climate News*
-
-### 4. Texas’ Refusal to Plan for Climate Change Created a Crisis in Corpus Christi
-
-[原文] This story was produced in partnership with the Texas Newsroom, the state’s network of public radio stations. A decade ago, Corpus Christi’s regional water plan projected shortages as soon as 2050. Th
-
-📎 [阅读原文](https://insideclimatenews.org/news/25062026/texas-unrealistic-plans-created-corpus-christi-water-crisis/) — *Inside Climate News*
-
-### 5. A Pipeline Company Says It Will Protect the Environment in North Carolina. Its Record in Tennessee Says Otherwise.
-
-[原文] PITTSBORO, N.C.— An 85-year-old widow stood before a panel of Enbridge Gas representatives perched above her on a stage at the Chatham County Agriculture &#38; Conference Center. She had fire in her e
-
-📎 [阅读原文](https://insideclimatenews.org/news/25062026/enbridge-tennessee-ridgeline-expansion-project/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post Polestar Is Done Selling New Cars in the US appeared first on The Drive
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Carly Rae Jepsen Is Walking ‘On Wires’ Down the Street in New Video
+### 1. Steve Lacy and SZA Have Commitment Issues on Confessional New Song ‘Is It Cool?’
+
+[原文] The duo trade verses on the candid and vulnerable track
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/steve-lacy-sza-new-song-is-it-cool-1235584637/) — *Rolling Stone*
+
+### 2. Charli XCX Unveils Titillating New ‘Wink Wink’ Video
+
+[原文] "Maybe I fucked your dad," Charli deadpans on the third and final single from Music, Fashion, Film
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/charli-xcx-new-song-music-video-wink-wink-1235583175/) — *Rolling Stone*
+
+### 3. Carly Rae Jepsen Is Walking ‘On Wires’ Down the Street in New Video
 
 [原文] "On Wires" will appear on Day and Night, the Canadian singer-songwriter's first double album
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/carly-rae-jepsen-new-song-video-on-wires-day-and-night-1235584179/) — *Rolling Stone*
 
-### 2. Alicia Keys, Bruce Springsteen, Jennifer Hudson, and More to Attend Clive Davis Funeral
+### 4. Alicia Keys, Bruce Springsteen, Jennifer Hudson, and More to Attend Clive Davis Funeral
 
 [原文] Kenny G, Dionne Warwick, and Barry Manilow will also be in attendance for the music mogul's ceremony
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/clive-davis-funeral-alicia-keys-bruce-springsteen-1235584683/) — *Rolling Stone*
 
-### 3. Benson Boone and Alix Earle Fight Dragons, Lock Lips in ‘The Time of My Life’ Video
+### 5. Benson Boone and Alix Earle Fight Dragons, Lock Lips in ‘The Time of My Life’ Video
 
 [原文] The theatrical video features the duo in a medieval landscape as Boone battles a broken heart
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/benson-boone-alix-earle-new-song-the-time-of-my-life-video-1235584667/) — *Rolling Stone*
-
-### 4. Phoebe Bridgers Gives Us Medieval Magic With ‘Lost Boys’
-
-[原文] The first single from Lost Weekend features Jack Antonoff, Alex G, her boygenius bandmates Lucy Dacus and Julien Baker, and more
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/phoebe-bridgers-lost-boys-new-song-1235582808/) — *Rolling Stone*
-
-### 5. Cher’s Son Still in Mental Hospital as Singer Continues Conservatorship Fight
-
-[原文] "I understand that he may be held in New Hampshire up to a year and a half," the judge weighing Cher's conservatorship bid said Thursday
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/cher-son-elijah-blue-allman-hearing-1235584246/) — *Rolling Stone*
 
 ---
 
@@ -515,7 +515,7 @@ The post Polestar Is Done Selling New Cars in the US appeared first on The Drive
 - **💰 经济财经**: CNBC
 - **💻 科技**: TechCrunch
 - **🔬 科学**: Science Daily
-- **⚽ 体育**: BBC Sport
+- **⚽ 体育**: ESPN
 - **🎬 娱乐**: Variety
 - **🏥 健康**: WHO
 - **🎮 游戏**: IGN
@@ -528,7 +528,6 @@ The post Polestar Is Done Selling New Cars in the US appeared first on The Drive
 ## ⚠️ 今日故障源
 
 - **🚗 汽车**: Roadshow, Autocar
-- **✈️ 旅游**: Travel Off Path
 
 ---
 
