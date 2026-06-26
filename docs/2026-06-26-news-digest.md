@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年06月26日** | 生成时间: 2026-06-26 04:06
+**2026年06月26日** | 生成时间: 2026-06-26 12:04
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Earthquake is devastating blow to Venezuela at time of uncertainty
+### 1. Rescuers search rubble for survivors as Venezuela earthquakes kill at least 235
+
+[原文] At least 4,300 people have been injured after two seven-plus magnitude shallow quakes hit seconds apart.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cjegdqw5d3yo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Earthquake is devastating blow to Venezuela at time of uncertainty
 
 [原文] The twin quakes come less than six months after Venezuela's then-leader Nicolás Maduro was seized by US forces.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. People flee as building collapses on Caracas outskirts
+### 3. People flee as building collapses on Caracas outskirts
 
 [原文] The capital and its surrounding areas have seen some of the worst damage from the 7.2 and 7.5 quakes, which hit a minute apart.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/videos/c78y1e3606vo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. France warns even young people's health at risk as Europe's heatwave shifts east
+### 4. Paris restricts alcohol consumption and sales as Europe's heatwave shifts east
 
-[原文] Temperatures in Germany could hit 40C in some areas while French officials say deaths linked to the heat are being seen among young people.
+[原文] Temperatures in Germany could hit 40C in some areas while French officials bring in alcohol restrictions to ease pressure on hospitals.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. UN pauses Strait of Hormuz evacuation plan after cargo ship attacked
+### 5. UN pauses Strait of Hormuz evacuation plan after cargo ship attacked
 
 [原文] The ship was reportedly struck by an "unknown projectile" near Oman but no casualties were reported.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Women alleging rape and sexual assault in France call to abolish statute of limitations
-
-[原文] More than 50 women are calling for the abolition of the statute of limitations which they say has prevented them seeking justice.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/ckg7z5dvxnzo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Iran behind attack on cargo vessel near Oman in Strait of Hormuz, U.S. official tells MS NOW
+### 1. SoftBank sinks 12% as Asia tech rout tracks declines in the U.S.
+
+[原文] SoftBank Group plunged, leading a broad selloff in Asian technology stocks amid mounting concerns over the rising cost of artificial intelligence infrastructure.
+
+📎 [阅读原文](https://www.cnbc.com/2026/06/26/global-tech-stocks-ai-infrastructure-costs-selloff-softbank-apple.html) — *CNBC*
+
+### 2. UN agency pauses Hormuz ship evacuation plan after first vessel attack under peace deal
+
+[原文] The pause follows a container ship being struck near the coast of Oman on Thursday, with a U.S. official saying that Iran was responsible for the attack.
+
+📎 [阅读原文](https://www.cnbc.com/2026/06/26/strait-of-hormuz-vessel-attack-evacuation-pauses-iran-united-states-peace-deal-negotiation-.html) — *CNBC*
+
+### 3. ON Semiconductor strikes $7 billion deal for Synaptics in physical AI push
+
+[原文] ON Semiconductor said the deal bumps up its total addressable market by $30 billion, to $243 billion by 2030.
+
+📎 [阅读原文](https://www.cnbc.com/2026/06/25/on-semi-synaptics-deal-physical-ai.html) — *CNBC*
+
+### 4. Iran behind attack on cargo vessel near Oman in Strait of Hormuz, U.S. official tells MS NOW
 
 [原文] "The only crop we're harvesting is what you planted: decades of mistrust," Iranian parliament speaker Mohammad Bagher Ghalibaf said in a social media post.
 
 📎 [阅读原文](https://www.cnbc.com/2026/06/25/iran-ghalibaf-trump-us-farm-products-assets.html) — *CNBC*
 
-### 2. Chicago Fed President Goolsbee says inflation is too high; Williams sees price pressures easing
+### 5. Chicago Fed President Goolsbee says inflation is too high; Williams sees price pressures easing
 
 [原文] In a live CNBC interview from his home district, Goolsbee declined to speculate on where he thinks interest rates are headed.
 
 📎 [阅读原文](https://www.cnbc.com/2026/06/25/chicago-fed-president-goolsbee-says-inflation-is-too-high-calls-warsh-a-serious-guy.html) — *CNBC*
-
-### 3. Democrats probe Trump's troubled $16 million reflecting pool renovation
-
-[原文] President Donald Trump has attempted to spruce up Washington in advance of the country's 250th anniversary.
-
-📎 [阅读原文](https://www.cnbc.com/2026/06/25/trump-reflecting-pool-renovation-cost-congress.html) — *CNBC*
-
-### 4. Supreme Court limits Roundup cancer suits against Bayer's Monsanto
-
-[原文] Glyphosate, used in Roundup weedkiller, is the most commonly utilized herbicide in agriculture, and it has long been linked to cancer claims.
-
-📎 [阅读原文](https://www.cnbc.com/2026/06/25/glyphosate-roundup-bayer-supreme-court-case-monsanto.html) — *CNBC*
-
-### 5. Judge says lawsuit against Trump DOJ 'anti-weaponization' fund will proceed
-
-[原文] Acting Attorney General Todd Blanche originally set up the fund as part of a settlement of a lawsuit by President Donald Trump against the IRS.
-
-📎 [阅读原文](https://www.cnbc.com/2026/06/25/trump-doj-fund-lawsuit-blanche.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Polymarket says hackers stole users’ funds
+### 1. The White House is asking OpenAI to slow roll the release of its new model over safety concerns
 
-[原文] The prediction market giant Polymarket said it's refunding users who had funds stolen due to a third party breach.
+[原文] penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public. The reason: the Trump administration told it to.
+
+📎 [阅读原文](https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/) — *TechCrunch*
+
+### 2. YouTube Shorts are getting even shorter with an update that lets you double the playback speed
+
+[原文] YouTube Shorts is getting a makeover.
+
+📎 [阅读原文](https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/) — *TechCrunch*
+
+### 3. Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents
+
+[原文] Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.
+
+📎 [阅读原文](https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/) — *TechCrunch*
+
+### 4. Polymarket says hackers stole users’ funds
+
+[原文] The prediction market giant Polymarket said it's refunding users who had funds stolen due to a third-party breach.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/25/polymarket-says-hackers-stole-users-funds/) — *TechCrunch*
 
-### 2. Xbox follows Apple with price increases
+### 5. Xbox follows Apple with price increases
 
 [原文] The company says the increases are being driven by rising memory and console storage prices, with costs more than 2.5x higher than previous levels.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/25/xbox-follows-apple-with-price-increases/) — *TechCrunch*
-
-### 3. Notion Mail shuts down amid agent takeover
-
-[原文] The company said it is discontinuing its email inbox in favor of its AI agent offering as users are increasingly handing over the reins of their email to the agents.
-
-📎 [阅读原文](https://techcrunch.com/2026/06/25/notion-mail-shuts-down-amid-agent-takeover/) — *TechCrunch*
-
-### 4. a16z-backed Base Power is offering cheaper electricity to the power grid that needs it most
-
-[原文] Base Power is skipping the PJM's troubled interconnection queue by placing its batteries at people's homes, offering backup services in exchange.
-
-📎 [阅读原文](https://techcrunch.com/2026/06/25/a16z-backed-base-power-is-offering-cheaper-electricity-to-the-power-grid-that-needs-it-most/) — *TechCrunch*
-
-### 5. Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT
-
-[原文] Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.
-
-📎 [阅读原文](https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Watch tonight's two World Cup games with our 3D Experience
+### 1. Beccacece goes from brink to World Cup history with Ecuador
 
-[原文] Ever wanted to see a World Cup match from every angle? How about a full-pitch tactical view? You can now watch every match back in full with BBC Sport's 3D Experience.
+[原文] Sebastian Beccacece was on the verge of losing his job as Ecuador head coach as the clock ticked down against Germany - now he has a last-32 match to look forward to.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c20y70lg0j3o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cqx133qlve2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Double Ballon d'Or winner Putellas to join London City Lionesses
+### 2. Man City agree record fee with Forest for Anderson
 
-[原文] Two-time Ballon d'Or winner Alexia Putellas decides to move to London City Lionesses after leaving Barcelona.
+[原文] Manchester City agree a club record deal with Nottingham Forest to sign England midfielder Elliot Anderson.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c93273z471xo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cn8qx30q4xqo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. England can play on NZ memories of 2022 - Southee
+### 3. Ecuador fight back to upset Germany
+
+[原文] Goals from Nilson Angulo and Gonzalo Plata help Ecuador come from behind to beat Germany 2-1 to qualify for the knockout stages of the World Cup, as one of the top eight third-placed teams.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/c0qyzg4zje4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. England can play on NZ memories of 2022 - Southee
 
 [原文] England can play on New Zealand memories of a remarkable Test at Trent Bridge in 2022 to turn around their series decider in Nottingham, according to assistant coach Tim Southee.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c932d9n7xvno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. The games that show the flaws in a 48-team World Cup
+### 5. James doubtful for Panama but England hopeful on Rice
 
-[原文] Two matches in the final round of group games present the chance for two teams to simply play out a draw to qualify.
+[原文] England's Reece James and Declan Rice miss England's penultimate training session before Panama with injury concerns.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cgev2vdzjvvo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Why it's time for Saka and Rashford - Shearer
-
-[原文] Former England captain Alan Shearer explains why Thomas Tuchel needs to change some personnel as well as his team's mindset when they face Panama.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cwyl7dpnx1no?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cp8rywj8rnpo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Adam McKay Reveals Axed ‘Talladega Nights 2’ Plot and Says Will Ferrell Split ‘Is a Shame’: ‘I’m Open to the Idea’ of Working Together Again After 2019 Breakup
+### 1. DGA Ratifies Four-Year Deal Meant to Protect Members’ Jobs Amid Historic Downturn
 
-[原文] Adam McKay said in a new interview with Business Insider that he is &#8220;totally open to the idea&#8221; of working with Will Ferrell again. The duo behind some of the most beloved comedies of the 2
+[原文] The Directors Guild of America has voted to ratify a four-year contract intended to preserve members&#8217; jobs amid a historic downturn in film and TV production. Christopher Nolan, the DGA presiden
 
-📎 [阅读原文](https://variety.com/2026/film/news/adam-mckay-talladega-nights-2-will-ferrell-split-1236790329/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/dga-ratify-contract-four-year-1236789691/) — *Variety*
 
-### 2. NBC News’ Chief Digital Officer Chris Berend to Exit
+### 2. Crunchyroll Acquires ‘Kagurabachi’ Anime Series for April 2027 Release; Katsuyuki Konishi Joins Cast as Togo Shiba (EXCLUSIVE)
 
-[原文] Chris Berend a digital-media executives who has had a hand in helping to create new distribution platforms for NBC News journalism and properties including &#8220;Today,&#8221; is leaving the company 
+[原文] Crunchyroll has acquired the international streaming rights for the eagerly anticipated upcoming anime series &#8220;Kagurabachi.&#8221; Additionally, the streamer has confirmed actor Katsuyuki Konish
 
-📎 [阅读原文](https://variety.com/2026/tv/news/nbc-news-chris-berend-digtal-exit-1236790824/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/kagurabachi-anime-crunchyroll-release-date-katsuyuki-konishi-1236790836/) — *Variety*
 
-### 3. HorrorHound Launches Genre Streaming Service; Festival Hit ‘The Babysitter Murders: Timing’s Off’ Among First Titles (EXCLUSIVE)
+### 3. ‘Mārama’ Director Details His ‘Rebellious’ Māori Ancestors, Whose Dancing and Tattoos Protested Colonization and Inspired His Revenge Tale
 
-[原文] A new player in the horror movie streaming space has arrived. Genre magazine HorrorHound announced today the launch of HorrorHound TV, a new independent horror-focused streaming platform. The service 
+[原文] Writer-director Taratoa Stappard is an artist who tells stories of his lineage, and his latest film, &#8220;Mārama,&#8221; is a tribute to the ancestral women who risked it all to do the same during a
 
-📎 [阅读原文](https://variety.com/2026/film/news/horrorhound-tv-streaming-service-launch-babysitter-murders-1236790557/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/marama-horror-movie-ancestors-dancing-tattoos-1236788165/) — *Variety*
 
-### 4. ‘Aquamarine’ TV Series From ‘Bold Type’ Creator Gets Disney Pilot Order, Emma Roberts to Guest Star
+### 4. James Bond Candidate Louis Partridge Says He Never Pictured Himself as 007 But Says It’s ‘Wonderful’ to Be In Contention
 
-[原文] A series adaptation of the 2006 film &#8220;Aquamarine&#8221; has received a pilot order at Disney+ and Disney Channel, Variety has learned. Emma Roberts, who starred in the original film, will guest 
+[原文] When Netflix released the first “Enola Holmes” in 2020, audiences watched “Stranger Things” star Millie Bobby Brown reinvent herself as the eccentric, fourth-wall-breaking detective. They also met a b
 
-📎 [阅读原文](https://variety.com/2026/tv/news/aquamarine-tv-series-disney-pilot-order-emma-roberts-1236790760/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/louis-partridge-james-bond-candidate-amazon-007-1236790993/) — *Variety*
 
-### 5. New ‘Sonic the Hedgehog’ Game From Sega Coming to Nex Playground in 2026 (Gaming News Roundup)
+### 5. ‘Love Island USA’ Star Alannah Keyser Fired From Season 8, Second Contestant Booted for Using N-Word
 
-[原文] Nex and SEGA are partnering up to bring “Sonic Forces” to Nex Playground later this year. The upcoming title introduces Sonic the Hedgehog to the platform in celebration of the franchise’s 35th annive
+[原文] For the second time this season, a &#8220;Love Island USA&#8221; contestant has been kicked off the show for using the n-word. Casa Amor participant Alannah Keyser will no longer appear on Season 8, P
 
-📎 [阅读原文](https://variety.com/2026/gaming/news/gaming-news-roundup-week-of-june-22-1236788371/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/love-island-usa-casa-amor-alannah-keyser-n-word-1236787570/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Save 45% Off the Fanttik A10 Pro, a 2-in-1 Tape and Laser Measure That Digitally Displays Your Distance
+### 1. Buy One KPop Demon Hunters Squishmallow, Get a Second One for Half Off During Prime Day
 
-[原文] Another tool you never knew existed but now you want thanks to this Prime Day deal.
+[原文] They'll be your idols.
 
-📎 [阅读原文](https://www.ign.com/articles/fanttik-a10-pro-digital-laser-tape-measure-deal-amazon-prime-day) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/kpop-demon-hunters-squishmallow-deal-amazon-prime-day-sale) — *IGN*
 
-### 2. These LEGO Transformers Sets Are Discounted for Prime Day Before They Retire Forever
+### 2. Lizzy Caplan Joins FX's Far Cry TV Series
 
-暂无摘要。
+[原文] Mean Girls and Cloverfield star Lizzy Caplan has been cast in FX's upcoming adaptation.
 
-📎 [阅读原文](https://www.ign.com/articles/lego-transformers-sets-are-discounted-for-prime-day-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/lizzy-caplan-joins-fxs-far-cry-tv-series) — *IGN*
 
-### 3. Save 30% Off Kirby Air Riders for Switch 2 During the Amazon Prime Day Sale
+### 3. Ratatouille 2 Will Never Happen, Says Director Brad Bird
 
-[原文] Battle-hungry kart racer starring Kirby and friends.
+[原文] Don't expect Pixar's favorite rat to make a return, as director Brad Bird sees no potential in a Ratatouille 2.
 
-📎 [阅读原文](https://www.ign.com/articles/save-30-off-kirby-air-riders-for-switch-2-during-the-amazon-prime-day-sale) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/ratatouille-2-will-never-happen-says-director-brad-bird) — *IGN*
 
-### 4. Amazon Just Dropped Even More 4K and Blu-ray Deals for Prime Day
+### 4. Save $50 Off With the Meta Quest 3S VR Headset During the Amazon Prime Day Sale
 
-[原文] It's Amazon Prime Day, which means you could stock up on everyday essentials, or you could add to your DVD collection.
+[原文] The most accessible way to get into VR gaming.
 
-📎 [阅读原文](https://www.ign.com/articles/best-4k-blu-ray-tv-and-movie-deals-amazon-prime-day-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/best-meta-quest-vr-headset-deal-amazon-prime-day-sale-updated) — *IGN*
 
-### 5. The Powerful iBuypower AMD Ryzen 7 9800X3D Radeon RX 9070 XT Gaming PC Drops to $1,750
+### 5. The Apple AirPods Pro 3 Noise Canceling Earbuds Are on Sale During Amazon Prime Day
 
-[原文] This prebuilt will run the hottest new games, including Pragmata, 007: First Light, and Forza Horizon 6, in 4K.
+[原文] $70 less than buying it from the Apple Store.
 
-📎 [阅读原文](https://www.ign.com/articles/ibuypower-amd-ryzen-7-9800x3d-radeon-rx-9070-xt-gaming-pc-deal-walmart-summer-sale) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/best-apple-airpods-pro-3-earbuds-deal-amazon-prime-day-sale-updated) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Feds Killed Polestar and Spared Volvo. That Should Terrify You
+### 1. Hilarious Gas Can-Shaped Party Speaker Is Cheap Enough to Impulse-Buy During Amazon Prime Day
+
+[原文] It's a speaker that looks like a jerry can—and it's practically half price this week!
+The post Hilarious Gas Can-Shaped Party Speaker Is Cheap Enough to Impulse-Buy During Amazon Prime Day appeared fi
+
+📎 [阅读原文](https://www.thedrive.com/news/hilarious-gas-can-shaped-party-speaker-is-cheap-enough-to-impulse-buy-during-amazon-prime-day) — *The Drive*
+
+### 2. Feds Killed Polestar and Spared Volvo. That Should Terrify You
 
 [原文] Polestar is done in the U.S. market. Its sister brand Volvo, owned by the same Chinese parent company, was spared. No one has explained why.
 The post Feds Killed Polestar and Spared Volvo. That Should
 
 📎 [阅读原文](https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you) — *The Drive*
 
-### 2. The Very Best Bosch Tool Deals on Amazon Prime Day 2026
+### 3. The Very Best Bosch Tool Deals on Amazon Prime Day 2026
 
 [原文] Get up to 61% off high-precision Bosch power tools, bits, accessories, and more from Amazon this Prime Day.
 The post The Very Best Bosch Tool Deals on Amazon Prime Day 2026 appeared first on The Drive
 
 📎 [阅读原文](https://www.thedrive.com/news/the-very-best-bosch-tool-deals-on-amazon-prime-day-2026) — *The Drive*
 
-### 3. 2027 GMC Sierra Gets Even Fancier With Articulating Screen and Headrest Speakers
+### 4. 2027 GMC Sierra Gets Even Fancier With Articulating Screen and Headrest Speakers
 
 [原文] The new GMC half-ton also gets a pair of next-gen small-block V8s like the 2027 Chevy Silverado.
 The post 2027 GMC Sierra Gets Even Fancier With Articulating Screen and Headrest Speakers appeared firs
 
 📎 [阅读原文](https://www.thedrive.com/news/2027-gmc-sierra-gets-even-fancier-with-articulating-screen-and-headrest-speakers) — *The Drive*
 
-### 4. Polestar Is Done Selling New Cars in the US
+### 5. Polestar Is Done Selling New Cars in the US
 
 [原文] Five months after announcing plans to reboot Polestar is done in the U.S. market.
 The post Polestar Is Done Selling New Cars in the US appeared first on The Drive.
 
 📎 [阅读原文](https://www.thedrive.com/news/polestar-is-done-selling-new-cars-in-the-us) — *The Drive*
-
-### 5. Can Ferrari and Hamilton Stop Either Mercedes Driver This Weekend?
-
-[原文] Will Mercedes continue to dominate in Austria, or have the mechanical failures in Canada and Barcelona revealed Brackley's Achilles heel?
-The post Can Ferrari and Hamilton Stop Either Mercedes Driver 
-
-📎 [阅读原文](https://www.thedrive.com/news/can-ferrari-and-hamilton-stop-either-mercedes-driver-this-weekend) — *The Drive*
 
 ---
 
@@ -363,35 +363,35 @@ The post Can Ferrari and Hamilton Stop Either Mercedes Driver
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Supreme Court Delivers a Victory for Pesticide Companies in Fight Over Cancer Claims
+### 1. Alabama Seeks Permit to Fill Wetlands, Streams for Controversial Highway Project
+
+[原文] Alabama officials are seeking federal permission to fill a stretch of wetlands and streams to move forward on the Birmingham Northern Beltline, a decades-long highway project that critics say is unnec
+
+📎 [阅读原文](https://insideclimatenews.org/news/25062026/alabama-birmingham-northern-beltline-wetlands-permit/) — *Inside Climate News*
+
+### 2. Supreme Court Delivers a Victory for Pesticide Companies in Fight Over Cancer Claims
 
 [原文] A Supreme Court ruling issued Thursday limits Americans’ ability to sue pesticide makers over alleged health harms from their products. The 7-2 decision overturned a 2023 Missouri circuit court ruling
 
 📎 [阅读原文](https://insideclimatenews.org/news/25062026/supreme-court-delivers-victory-for-pesticides/) — *Inside Climate News*
 
-### 2. The ‘Guerrilla Solar’ Era Has Arrived, and Here’s What to Know
+### 3. The ‘Guerrilla Solar’ Era Has Arrived, and Here’s What to Know
 
 [原文] After Russia invaded Ukraine in 2022, electricity prices shot up across Europe and consumers looked for ways to save. One popular option was plug-in solar—inexpensive and easy-to-install renewable ene
 
 📎 [阅读原文](https://insideclimatenews.org/news/25062026/inside-clean-energy-plug-in-solar-era-has-arrived/) — *Inside Climate News*
 
-### 3. Texas’ Refusal to Plan for Climate Change Created a Crisis in Corpus Christi
+### 4. Texas’ Refusal to Plan for Climate Change Created a Crisis in Corpus Christi
 
 [原文] This story was produced in partnership with the Texas Newsroom, the state’s network of public radio stations. A decade ago, Corpus Christi’s regional water plan projected shortages as soon as 2050. Th
 
 📎 [阅读原文](https://insideclimatenews.org/news/25062026/texas-unrealistic-plans-created-corpus-christi-water-crisis/) — *Inside Climate News*
 
-### 4. A Pipeline Company Says It Will Protect the Environment in North Carolina. Its Record in Tennessee Says Otherwise.
+### 5. A Pipeline Company Says It Will Protect the Environment in North Carolina. Its Record in Tennessee Says Otherwise.
 
 [原文] PITTSBORO, N.C.— An 85-year-old widow stood before a panel of Enbridge Gas representatives perched above her on a stage at the Chatham County Agriculture &#38; Conference Center. She had fire in her e
 
 📎 [阅读原文](https://insideclimatenews.org/news/25062026/enbridge-tennessee-ridgeline-expansion-project/) — *Inside Climate News*
-
-### 5. Pennsylvania’s Fossil Fuel Tax Revenue Lags Far Behind Other Energy States, Report Says
-
-[原文] Pennsylvania’s natural gas, coal and petrochemical industries are taxed too little, and they are now declining so cannot be expected to rescue the state from growing budget deficits, according to a ne
-
-📎 [阅读原文](https://insideclimatenews.org/news/25062026/pennsylvania-low-fossil-fuel-tax-revenue/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post Can Ferrari and Hamilton Stop Either Mercedes Driver
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Lenny Kaye Celebrates His Debut Solo Album, ‘Goin’ Local,’ at the Grammy Museum
+### 1. Carly Rae Jepsen Is Walking ‘On Wires’ Down the Street in New Video
 
-[原文] The Patti Smith Group guitarist previewed songs from his new album, which he discussed with Michael Imperioli
+[原文] "On Wires" will appear on Day and Night, the Canadian singer-songwriter's first double album
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/lenny-kaye-debut-solo-goin-local-grammy-museum-1235583857/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/carly-rae-jepsen-new-song-video-on-wires-day-and-night-1235584179/) — *Rolling Stone*
 
-### 2. Jay-Z Has 30 Years’ Worth of Memories to Revisit in Trailer for Rick Rubin-Directed Doc Series
+### 2. Alicia Keys, Bruce Springsteen, Jennifer Hudson, and More to Attend Clive Davis Funeral
 
-[原文] The career-spanning JAŸ-Z in 8 eight-part series will premiere on HBO Max later this year
+[原文] Kenny G, Dionne Warwick, and Barry Manilow will also be in attendance for the music mogul's ceremony
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/jay-z-eight-part-documentary-rick-rubin-directed-1235584028/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/clive-davis-funeral-alicia-keys-bruce-springsteen-1235584683/) — *Rolling Stone*
 
-### 3. David Clayton-Thomas, Blood, Sweat, and Tears Singer, Dead at 84
+### 3. Benson Boone and Alix Earle Fight Dragons, Lock Lips in ‘The Time of My Life’ Video
 
-[原文] A memorial concert for the vocalist, who sang “You’ve Made Me So Very Happy,” is in the works
+[原文] The theatrical video features the duo in a medieval landscape as Boone battles a broken heart
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/david-clayton-thomas-blood-sweat-tears-dead-obit-1235583766/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/benson-boone-alix-earle-new-song-the-time-of-my-life-video-1235584667/) — *Rolling Stone*
 
-### 4. Blondshell Returns With More Hard-Hitting Rock Songs on New Album ‘Violins’
+### 4. Phoebe Bridgers Gives Us Medieval Magic With ‘Lost Boys’
 
-[原文] The singer-songwriter has announced her third LP and shared the title track and video
+[原文] The first single from Lost Weekend features Jack Antonoff, Alex G, her boygenius bandmates Lucy Dacus and Julien Baker, and more
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/blondshell-new-album-violins-announcement-1235582722/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/phoebe-bridgers-lost-boys-new-song-1235582808/) — *Rolling Stone*
 
-### 5. Lionel Richie Cuts Minnesota Set Short After Falling Ill Onstage
+### 5. Cher’s Son Still in Mental Hospital as Singer Continues Conservatorship Fight
 
-[原文] The musician kicked off his joint tour with Earth, Wind, and Fire in St. Paul on Wednesday night
+[原文] "I understand that he may be held in New Hampshire up to a year and a half," the judge weighing Cher's conservatorship bid said Thursday
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/lionel-richie-minnesota-show-ill-on-stage-1235583728/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/cher-son-elijah-blue-allman-hearing-1235584246/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post Can Ferrari and Hamilton Stop Either Mercedes Driver
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. IAG’s €1 Billion Loyalty Ambition Depends More on Banks Than Airlines
+### 1. Apple’s Wallet Key Turns Into a Full Trip Pass, With Disney as Launch Partner
+
+[原文] Apple is turning Wallet from a place to store hotel keys into a live trip surface. Disney shows how far that could go when a pass starts carrying more of the trip.
+
+📎 [阅读原文](https://skift.com/2026/06/25/apple-wallet-key-disney-hotel-resorts-parks/) — *Skift*
+
+### 2. U.S. Hotel Demand Is Rebounding — and It’s No Longer Just a Luxury Story
+
+[原文] Ten weeks of data show remarkably strong demand from business and leisure travelers. It's not just a World Cup bump.
+
+📎 [阅读原文](https://skift.com/2026/06/25/u-s-hotel-demand-is-rebounding-and-its-no-longer-just-a-luxury-story/) — *Skift*
+
+### 3. IAG’s €1 Billion Loyalty Ambition Depends More on Banks Than Airlines
 
 [原文] Is Avios becoming the tail that wags the airline? IAG Loyalty wants to make a billion euros, and many of the levers it's pulling to get there have nothing to do with flying.
 
 📎 [阅读原文](https://skift.com/2026/06/25/iags-e1-billion-loyalty-ambition-depends-more-on-banks-than-airlines/) — *Skift*
 
-### 2. What Albania’s Flamingo Revolution Tells Us About Sovereign Capital’s Coastline Problem
+### 4. What Albania’s Flamingo Revolution Tells Us About Sovereign Capital’s Coastline Problem
 
 [原文] The largest tourism-real-estate deals increasingly arrive with a demand for exceptional treatment: special investor status, rewritten protections, consent bypassed. Albania is just the loudest case; t
 
 📎 [阅读原文](https://skift.com/2026/06/25/what-albanias-flamingo-revolution-tells-us-about-sovereign-capitals-coastline-problem/) — *Skift*
 
-### 3. Mexico’s Posadas Had Gone Too Luxury. Its Next Deals Will Even the Split.
+### 5. Mexico’s Posadas Had Gone Too Luxury. Its Next Deals Will Even the Split.
 
 [原文] Posadas called its own luxury-heavy signings a ‘red flag,’ and is rebalancing as a soft quarter hit its luxury hotels hardest.
 
 📎 [阅读原文](https://skift.com/2026/06/25/mexicos-posadas-had-gone-too-luxury-its-next-deals-will-even-the-split/) — *Skift*
-
-### 4. Announcing the Skift Transatlantic Summit 2026: Travel in a Fractured World
-
-[原文] Skift Transatlantic Summit returns for its second edition this October in Dublin, convening senior travel leaders to examine how geopolitics, shifting demand, and AI are reshaping the world's most val
-
-📎 [阅读原文](https://skift.com/2026/06/25/announcing-skift-transatlantic-summit-2026/) — *Skift*
-
-### 5. Trip.com Says China’s Regulatory Crackdown Is Starting to Show Up in Its Numbers
-
-[原文] China's regulatory push is no longer just a compliance issue for Trip.com Group. It's now influencing how the company operates, and its near-term financial outlook.
-
-📎 [阅读原文](https://skift.com/2026/06/25/trip-com-says-chinas-regulatory-crackdown-is-starting-to-show-up-in-its-numbers/) — *Skift*
 
 ---
 
@@ -528,6 +528,7 @@ The post Can Ferrari and Hamilton Stop Either Mercedes Driver
 ## ⚠️ 今日故障源
 
 - **🚗 汽车**: Roadshow, Autocar
+- **✈️ 旅游**: Travel Off Path
 
 ---
 
