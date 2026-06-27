@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年06月27日** | 生成时间: 2026-06-27 16:41
+**2026年06月27日** | 生成时间: 2026-06-27 21:51
 
 ---
 
@@ -54,11 +54,11 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. SpaceX will join Nasdaq-100
+### 1. The memory shortage shaking Apple and Microsoft is 'existential crisis' for smaller players
 
-[原文] Adding SpaceX this quickly would make the Elon Musk company one of the first beneficiaries of Nasdaq's recently adopted fast-track inclusion framework.
+[原文] While Apple and Microsoft raise prices on key devices to help cover the soaring costs of memory, smaller consumer electronics companies are in dire straits.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100-on-hold-on-hold-on-hold.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/27/memory-crunch-shaking-apple-and-microsoft-existential-for-small-guys.html) — *CNBC*
 
 ### 2. U.S. strikes Iran after Trump accuses Tehran of ceasefire violation in Strait of Hormuz
 
@@ -66,23 +66,23 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/06/26/us-strikes-iran-strait-of-hormuz-ceasefire.html) — *CNBC*
 
-### 3. Trump admin allows Anthropic to release Mythos AI model to some companies, government agencies
+### 3. SpaceX to join the Nasdaq-100 in a fast-tracked process that will drive huge ETF buying demand
 
-[原文] Anthropic disabled access to its Fable 5 and Mythos 5 models to comply with a government export control directive citing "national security authorities."
+[原文] Adding SpaceX this quickly would make the Elon Musk company one of the first beneficiaries of Nasdaq's recently adopted fast-track inclusion framework.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/26/us-government-anthropic-claude-mythos5-ai.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100-on-hold-on-hold-on-hold.html) — *CNBC*
 
-### 4. From concerts to train rides, bots are winning the ticket wars — but they're only part of the problem
+### 4. Berkshire CEO Greg Abel sworn in as U.S. citizen at baseball game
 
-[原文] From concerts to train reservations, automated bots have become the latest target in the fight against ticket scalping.
+[原文] Abel, a longtime Iowa resident who was born in the Canadian city of Edmonton in 1962, was among the roughly two dozen people from 16 countries who participated in an annual naturalization ceremony hos
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/27/ticket-bots-concert-scalpers-ticketmaster-china-korea.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/27/berkshire-ceo-greg-abel-sworn-in-as-us-citizen-at-baseball-game.html) — *CNBC*
 
-### 5. U.S. crude oil falls below $70, resuming losses after attack on cargo ship near Oman
+### 5. SpaceX stock has cooled. Hiring for jobs in the space economy hasn't
 
-[原文] Oil extended declines on Friday, with markets focused any further breakthroughs in the Middle East conflict, while absorbing a flurry of Persian Gulf news.
+[原文] The SpaceX IPO euphoria is over, but the bullish trend in space economy jobs remains in place within a labor market where many other sectors have slowed hiring.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/26/oil-prices-middle-east-iran-strait-of-hormuz-opec-iraq-wti-brent-crude.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/27/spacex-jobs-stem-careers-labor-economy.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies
+### 1. Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on
+
+[原文] New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.
+
+📎 [阅读原文](https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/) — *TechCrunch*
+
+### 2. Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies
 
 [原文] Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/) — *TechCrunch*
 
-### 2. FTC gives Musk the OK to acquire SpaceX alumni startup Mesh
+### 3. FTC gives Musk the OK to acquire SpaceX alumni startup Mesh
 
 [原文] Mesh came out of stealth in February with a $50 million Series A.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/) — *TechCrunch*
 
-### 3. Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn’t steal an open source product
+### 4. Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn’t steal an open source product
 
 [原文] Corgi became embroiled in  controversy when Papermark accused it of stealing its software. Corgi says it did not, raising new questions about vibe coding.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product/) — *TechCrunch*
 
-### 4. Novak Djokovic has a new job —  advisor to private equity firm General Atlantic
+### 5. Novak Djokovic has a new job —  advisor to private equity firm General Atlantic
 
 [原文] General Atlantic has tapped tennis legend Novak Djokovic to serve as a global strategic advisor.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/26/novak-djokovic-has-a-new-job-advisor-to-private-equity-firm-general-atlantic/) — *TechCrunch*
-
-### 5. OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm
-
-[原文] “We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global pa
-
-📎 [阅读原文](https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/) — *TechCrunch*
 
 ---
 
@@ -168,21 +168,21 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. NHL draft tracker: Leafs select McKenna at No. 1; ...
+### 1. Cape Verde's World Cup success isn't just for them...
 
-[原文] The draft is Friday and Saturday. Here's a list of every selection, including detailed analysis for the top 32.
+[原文] The big nations win the World Cup, but the small nations make it. Cape Verde's progress to the knockouts was for everyone.
 
-📎 [阅读原文](https://www.espn.com/nhl/story/_/id/49189811/2026-nhl-draft-pick-tracker-live-updates-analysis-32-teams-7-rounds-scouting-notes) — *ESPN*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49194935/cape-verde-world-cup-success-isnt-just-every-soccer-fan-enjoy) — *ESPN*
 
 ### 2. As expected, Maple Leafs draft McKenna at No. 1
 
-[原文] Quickly putting to rest any speculation of a change of heart at the NHL draft Friday night, the Toronto Maple Leafs selected Penn State winger Gavin McKenna, 18, with the first pick after he posted 15
+[原文] Quickly putting to rest any speculation of a change of heart, the Maple Leafs selected Penn State winger Gavin McKenna, 18, with the first pick of the NHL draft after he posted 15 goals and 51 points 
 
 📎 [阅读原文](https://www.espn.com/nhl/story/_/id/49190403/toronto-maple-leafs-select-gavin-mckenna-open-nhl-draft) — *ESPN*
 
 ### 3. Brewers' Misiorowski hurls 105.5 mph pitch in win
 
-[原文] Brewers starter Jacob Misiorowski threw a first-inning fastball on Friday that was clocked at 105.5 mph, breaking his own record for the fastest pitch recorded by a starting pitcher in the pitch track
+[原文] Brewers starter Jacob Misiorowski threw a first-inning fastball that was clocked at 105.5 mph, breaking his own record for the fastest pitch recorded by a starting pitcher in the pitch tracking era (s
 
 📎 [阅读原文](https://www.espn.com/mlb/story/_/id/49194044/jacob-misiorowski-throws-heater-clocked-1055-mph-vs-cubs) — *ESPN*
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Warner Bros. Animation Sneak Peeks ‘Get Jiro,’ Teases Gerry Anderson’s ‘Hit Squad,’ Announces ‘Dark Shadows’ Animated Series at Annecy Adult Animation Showcase
+### 1. K. Bhagyaraj, Prolific Tamil Cinema Writer-Director-Actor, Dies at 73
+
+[原文] K. Bhagyaraj, the writer-director-actor widely regarded as one of Tamil-language cinema&#8217;s defining creative figures, died Saturday in Chennai following a cardiac arrest. He was 73. Tamil Nadu Ch
+
+📎 [阅读原文](https://variety.com/2026/film/obituaries-people-news/k-bhagyaraj-dead-tamil-cinema-writer-director-actor-1236795973/) — *Variety*
+
+### 2. Annecy Young Audience Award Winner ‘Into the Forest’ Finds Freedom Through Imagination
+
+[原文] Swiss filmmaker Antonin Niclass brings imagination to life in &#8220;Into the Forest,&#8221; a stop-motion short which won Friday the Young Audience Award at the Annecy Animation Festival. Produced by
+
+📎 [阅读原文](https://variety.com/2026/film/global/annecy-young-audience-award-winner-into-the-forest-1236795968/) — *Variety*
+
+### 3. ‘Pinocchio Unstrung’ Sees Wooden Doll Covered in Flesh and Blood as Director Rhys Frake-Waterfield Teases ‘Kooky, Crazy and Fun’ ‘Avengers’-Style ‘Poohniverse: Monsters Assemble’
+
+[原文] Barging through the doors of the Poohniverse nose-first, Pinocchio has officially come to the company of Winnie the Pooh, Bambi and Peter Pan with Rhys Frake-Waterfield’s “Pinocchio Unstrung.” The lat
+
+📎 [阅读原文](https://variety.com/2026/film/global/pinocchio-unstrung-rhys-frake-waterfield-poohniverse-1236791307/) — *Variety*
+
+### 4. Warner Bros. Animation Sneak Peeks ‘Get Jiro,’ Teases Gerry Anderson’s ‘Hit Squad,’ Announces ‘Dark Shadows’ Animated Series at Annecy Adult Animation Showcase
 
 [原文] Warner Bros. Animation, hugely active this year at Annecy, unveiled Friday at Annecy a new &#8220;Dark Shadows&#8221; animated series,&#160; confirming the studio&#8217;s push in adult animation into 
 
 📎 [阅读原文](https://variety.com/2026/tv/global/batman-joker-adult-animation-warner-bros-animation-annecy-1236790867/) — *Variety*
 
-### 2. Bill Maher Gets Played by JD Vance on ‘Real Time,’ Admits He May Vote Republican in 2028
+### 5. Bill Maher Gets Played by JD Vance on ‘Real Time,’ Admits He May Vote Republican in 2028
 
 [原文] On Thursday, Vice President JD Vance paid a visit to the Nixon Presidential Library and Museum in California and, as is his wont, put his foot squarely in his mouth. The “Hillbilly Elegy” author, who 
 
 📎 [阅读原文](https://variety.com/2026/tv/news/bill-maher-played-by-jd-vance-real-time-hbo-may-vote-republican-2028-1236795870/) — *Variety*
-
-### 3. ‘Life, Larry’ Director Jeff Schaffer on Obama’s Notes and Why Larry David Will Never Retire: ‘He’s Like a Prostitute Who Has Sex When He’s Not Working’
-
-[原文] When “Curb Your Enthusiasm” wrapped up its 24-year-run in 2024, fans were concerned it would be the last time they’d see Larry David on screen. He had been saying the HBO sitcom was ending for the bet
-
-📎 [阅读原文](https://variety.com/2026/tv/news/larry-david-new-show-jeff-schaffer-obamas-notes-curb-1236790792/) — *Variety*
-
-### 4. Last Call: Beats Headphones Are 57% Off for Prime Day — Their Lowest Price Ever
-
-[原文] The Beats Studio Pro Wireless Headphones have become the audio brand&#8217;s flagship over-ear headphones since they were first released a few years and they&#8217;re still one of the best values on t
-
-📎 [阅读原文](https://variety.com/shop/beats-headphones-deals-1235148439/) — *Variety*
-
-### 5. Luca Guadagnino Says He Can’t Discuss Amazon Dropping ‘Artificial’ Because ‘We Are Right in the Middle of This Situation,’ But AI Is ‘Changing the Identity of the World’
-
-[原文] After Amazon MGM dropped Luca Guadagnino&#8217;s movie &#8220;Artificial&#8221; about Open AI founder Sam Altman, the Italian director has commented on his feelings on artificial intelligence, though 
-
-📎 [阅读原文](https://variety.com/2026/film/news/luca-guadagnino-ai-amazon-artificial-1236795673/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The 65" LG Evo C5 4K OLED TV Drops to the Lowest Price of the Year on the Last Day of Prime Day
+### 1. No, There Is No GTA 6 Physical Disc Coming Out at Launch or the Months After — Those Reports and Social Media Posts Are Incorrect
+
+[原文] Viral social media posts and articles claiming a physical disc copy of GTA 6 is in the works are incorrect.
+
+📎 [阅读原文](https://www.ign.com/articles/no-there-is-no-gta-6-physical-disc-coming-out-at-launch-or-the-months-after-those-reports-and-social-media-posts-are-incorrect) — *IGN*
+
+### 2. The 65" LG Evo C5 4K OLED TV Drops to the Lowest Price of the Year on the Last Day of Prime Day
 
 [原文] Amazon saved the best for last.
 
 📎 [阅读原文](https://www.ign.com/articles/lg-evo-c5-4k-oled-smart-tv-deal-amazon-prime-day-sale-new-low-price) — *IGN*
 
-### 2. Top Prime Day Deals I'm Shopping Today to Help Beat the Summer Heat
+### 3. Top Prime Day Deals I'm Shopping Today to Help Beat the Summer Heat
 
 暂无摘要。
 
 📎 [阅读原文](https://www.ign.com/articles/summer-deals-to-shop-before-amazon-prime-day-ends) — *IGN*
 
-### 3. 7 Best Prime Day TV Deals Under $1,000
+### 4. 7 Best Prime Day TV Deals Under $1,000
 
 [原文] From gaming-ready to budget-friendly, these TV discounts are worth grabbing before Prime Day ends.
 
 📎 [阅读原文](https://www.ign.com/articles/tv-deals-under-1000-prime-day-2026) — *IGN*
 
-### 4. These Fantasy Book Nooks Are a Magical Addition to Your Mixed Media Library
+### 5. These Fantasy Book Nooks Are a Magical Addition to Your Mixed Media Library
 
 暂无摘要。
 
 📎 [阅读原文](https://www.ign.com/articles/fantasy-book-nook-deals-for-amazon-prime-day-2026) — *IGN*
-
-### 5. Dead or Alive 6 Last Round Review
-
-[原文] A great fighting game wrapped up in a very bad package.
-
-📎 [阅读原文](https://www.ign.com/articles/dead-or-alive-6-last-round-review) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post The New Hyundai Elantra Actually Goes Kind of Hard: TDS ap
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. A Midwest Mayor Joins London Climate Week as a ‘Rational Optimist’ Who Aims to Get Things Done
+### 1. Can Clusters of Human-Constructed Ponds in the Arizona Desert Save a Threatened Frog?
+
+[原文] WHITE MOUNTAINS, Ariz.—As the warming climate drops less rain on the White Mountains and the thirsty atmosphere and soils suck up more of what does fall, the Chiricahua leopard frog has been threatene
+
+📎 [阅读原文](https://insideclimatenews.org/news/27062026/efforts-to-save-threatened-frog-in-arizona/) — *Inside Climate News*
+
+### 2. The Future of Duxbury Reef
+
+[原文] BOLINAS, Calif.—Kent Khtikian pointed at a seemingly barren inch of reef. His hair, curly, long and grey blew wildly in the wind underneath a tan cowboy hat. He hunched over and kneeled close to a tin
+
+📎 [阅读原文](https://insideclimatenews.org/news/27062026/california-duxbury-reef-marine-protected-areas/) — *Inside Climate News*
+
+### 3. How ‘Mother Trees’ Nurture Our Forests
+
+[原文] From our collaborating partner “Living on Earth,” public radio&#8217;s environmental news magazine, an interview by host Steve Curwood and Jenni Doering with forest scientist Suzanne Simard. You might
+
+📎 [阅读原文](https://insideclimatenews.org/news/27062026/how-mother-trees-nurture-our-forests/) — *Inside Climate News*
+
+### 4. A Midwest Mayor Joins London Climate Week as a ‘Rational Optimist’ Who Aims to Get Things Done
 
 [原文] London Climate Action Week opened in the British capital just as an unprecedented heat wave gripped the country and mainland Europe. Among the tens of thousands of attendees at the global event were e
 
 📎 [阅读原文](https://insideclimatenews.org/news/26062026/columbia-missouri-mayor-at-london-climate-week/) — *Inside Climate News*
 
-### 2. Trump’s ‘Unprecedented’ Regulatory Rollbacks Fuel Surge in Protective Climate Lawsuits
+### 5. Trump’s ‘Unprecedented’ Regulatory Rollbacks Fuel Surge in Protective Climate Lawsuits
 
 [原文] Sweeping revisions to U.S. climate policy in the first year of President Donald Trump’s second term have spawned a wave of protective litigation, legal challenges aimed not at advancing new climate go
 
 📎 [阅读原文](https://insideclimatenews.org/news/26062026/climate-lawsuits-surge-after-trump-regulatory-rollbacks/) — *Inside Climate News*
-
-### 3. French Oil Major Failed to Fulfill ‘Vigilance’ Duty on Climate, Paris Court Rules
-
-[原文] A French court on Thursday ruled that the oil major TotalEnergies must take responsibility for the full scope of greenhouse gas emissions across its supply chain—including emissions from customers’ us
-
-📎 [阅读原文](https://insideclimatenews.org/news/26062026/french-oil-major-failed-to-fulfill-vigilance-duty-on-climate-paris-court-rules/) — *Inside Climate News*
-
-### 4. A New Book Tells the Story of Albuquerque Through the Rio Grande
-
-[原文] In “Ribbons of Green: The Rio Grande and the Making of Modern Albuquerque,” John Fleck and Robert P. Berrens explore Albuquerque’s relationship to the Rio Grande. The co-authors, collaborators at the 
-
-📎 [阅读原文](https://insideclimatenews.org/news/26062026/book-examines-albuquerque-through-rio-grande/) — *Inside Climate News*
-
-### 5. Interim Fish and Wildlife Assistant Secretary’s Lack of Experience Concerns Senators at Confirmation Hearings
-
-[原文] When President Donald Trump nominated Kevin Lilly last year to oversee management of the nation’s wildlife refuges and national parks, conservation advocacy organizations raised concerns over how his 
-
-📎 [阅读原文](https://insideclimatenews.org/news/26062026/kevin-lilly-interim-fish-wildlife-assistant-secretary-lack-of-experience/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post The New Hyundai Elantra Actually Goes Kind of Hard: TDS ap
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Justin Bieber Announces Number 1 Pick for Hometown Maple Leafs at 2026 NHL Draft
+### 1. Lorde Marks ‘Virgin’ Anniversary With 49 ‘Xrays’ Demos From the Album
+
+[原文] Singer also opens up about her personal battles while making the 2025 LP in a newsletter to fans: "Living in these songs had an incantatory effect. I felt myself change”
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/lorde-virgin-anniversary-49-xrays-demos-1235585423/) — *Rolling Stone*
+
+### 2. Justin Bieber Announces Number 1 Pick for Hometown Maple Leafs at 2026 NHL Draft
 
 [原文] Gavin McKenna, a native of Whitehorse, Yukon, walked up to Bieber's song "Yukon"
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/justin-bieber-gavin-mckenna-maple-leafs-nhl-draft-1235585398/) — *Rolling Stone*
 
-### 2. Noah Kahan Asks Fans to Stop Stealing Hometown Road Sign: ‘Total Disrespect’
+### 3. Noah Kahan Asks Fans to Stop Stealing Hometown Road Sign: ‘Total Disrespect’
 
 [原文] Fans have been “repeatedly” removing Alger Brook Road sign after the singer mentioned it in “The View Between Villages”
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/noah-kahan-fans-stop-stealing-vermont-hometown-road-sign-1235585003/) — *Rolling Stone*
 
-### 3. Cara Delevingne Wrote New Single ‘Need It’ Over Text With Fiona Apple
+### 4. Cara Delevingne Wrote New Single ‘Need It’ Over Text With Fiona Apple
 
 [原文] The song will appear on the upcoming debut album from Delevingne scheduled for release later this summer
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/cara-delevingne-new-song-need-it-fiona-apple-1235584971/) — *Rolling Stone*
 
-### 4. Tom Hardy Is Crossing Over to Music With a [Checks Notes] Rap Album
+### 5. Tom Hardy Is Crossing Over to Music With a [Checks Notes] Rap Album
 
 [原文] The English actor will embody his Frankie Pulitzer persona again for a collaboration LP with hip-hop supergroup Czarface
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/tom-hardy-frankie-pulitzer-rap-album-czarface-1235584907/) — *Rolling Stone*
-
-### 5. Quavo Gets Everything He Wants on Pharrell Williams-Produced Single ‘Haavin’
-
-[原文] The track previously premiered at Louis Vuitton’s Menswear Spring-Summer 2027 show is the first glimpse into Quavo’s upcoming album project executive produced by Williams
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/quavo-shares-haavin-produced-pharrell-williams-1235584761/) — *Rolling Stone*
 
 ---
 
