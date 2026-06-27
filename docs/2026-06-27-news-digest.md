@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年06月27日** | 生成时间: 2026-06-27 03:55
+**2026年06月27日** | 生成时间: 2026-06-27 11:50
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Mother dies saving daughter in Venezuela earthquakes
+### 1. US conducts strikes on Iran after attack on cargo ship
+
+[原文] US Central Command says it has struck missile and drone storage facilities and coastal radar positions.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Venezuela earthquakes kill 920 people as families desperate for news
+
+[原文] Hundreds are still feared trapped under the rubble, as international rescue teams start to arrive.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. Mother dies saving daughter in Venezuela earthquakes
 
 [原文] Héctor Bello wrote on social media that "you gave your own life for our daughter" in the quakes which killed at least 920 people.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. DR Congo takes Rwanda to international court over decades of conflict
+### 4. Meloni and Trump: A very public fall-out that is proving very hard to fix
 
-[原文] Kinshasa accuses its neighbour of committing various violations since the 1994 Rwanda genocide.
+[原文] Italy's PM was not long ago being called the "Trump whisperer", but their relationship has gone from public attacks to personal insults.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c8724zn3491o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Trump accuses Iran of ceasefire breach after Strait of Hormuz attack
+### 5. Europe's deadly heatwave breaks German record and halts public events
 
-[原文] A Singapore-flagged ship was struck crossing the waterway on Thursday, prompting a large-scale evacuation to be paused.
+[原文] Germany's highest ever temperature of 41.3C is recorded provisionally in Saarbrücken, over the border from France.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/ckg54g0ry0vo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents
-
-[原文] Bolton faces a prison sentence of up to five years and has agreed to pay $2.25m in fine, prosecutors say.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Christmas market attacker jailed for life for murdering six in Germany
-
-[原文] A nine-year-old and five women were killed when Taleb Al-Abdulmohsen drove into the market in 2024.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy06y63y6lno?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump says Iran violated ceasefire with drone attacks on Strait of Hormuz ships
+### 1. U.S. strikes Iran after Trump accuses Tehran of ceasefire violation in Strait of Hormuz
 
-[原文] The International Maritime Organization earlier paused efforts to evacuate ships and seafarers stranded in the Strait of Hormuz after a cargo vessel was struck.
+[原文] The attack comes as the United States and Iran are supposed to be engaging in a 60-period of no hostilities as they hold talks to end their war.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/26/trump-iran-ceasefire-strait-of-hormuz.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/26/us-strikes-iran-strait-of-hormuz-ceasefire.html) — *CNBC*
 
-### 2. Trump eases pressure on Fed Chairman Kevin Warsh as inflation tops 4%
+### 2. Trump admin allows Anthropic to release Mythos AI model to some companies, government agencies
+
+[原文] Anthropic disabled access to its Fable 5 and Mythos 5 models to comply with a government export control directive citing "national security authorities."
+
+📎 [阅读原文](https://www.cnbc.com/2026/06/26/us-government-anthropic-claude-mythos5-ai.html) — *CNBC*
+
+### 3. Trump eases pressure on Fed Chairman Kevin Warsh as inflation tops 4%
 
 [原文] President Donald Trump's economic advisors are giving Warsh space, as the new Fed chairman, on interest rates as the president repeats calls to cut.
 
 📎 [阅读原文](https://www.cnbc.com/2026/06/26/trump-warsh-fed-rate-cuts-inflation.html) — *CNBC*
 
-### 3. Jeremy Grantham says this is the most expensive market in 'American history'
+### 4. Oracle stock has worst week since 2001 dot-com bust as AI financing concerns escalate
+
+[原文] Oracle's surging spending, negative free cash flow and $130 billion debt pile are weighing on the stock.
+
+📎 [阅读原文](https://www.cnbc.com/2026/06/26/oracle-stock-ends-worst-week-since-2001-as-investors-dwell-on-finances.html) — *CNBC*
+
+### 5. Jeremy Grantham says this is the most expensive market in 'American history'
 
 [原文] Jeremy Grantham says soaring valuations around AI makes the U.S. stock market historically expensive.
 
 📎 [阅读原文](https://www.cnbc.com/2026/06/26/jeremy-grantham-says-this-is-the-most-expensive-market-in-american-history.html) — *CNBC*
-
-### 4. Walmart heir Lukas Walton buys minority stake in the Chicago Bulls and United Center
-
-[原文] Lukas Walton is the 39-year-old grandson of Walmart founder Sam Walton. He and Samantha Walton are residents of Chicago.
-
-📎 [阅读原文](https://www.cnbc.com/2026/06/26/walmart-heir-lukas-walton-chicago-bulls.html) — *CNBC*
-
-### 5. Gavin Newsom calls for national billionaires tax: 'It's time for an economic reset'
-
-[原文] California Gov. Gavin Newsom said he supports imposing "a true minimum tax on billionaires" and closing "tax-free lifestyle loan" loopholes for the rich.
-
-📎 [阅读原文](https://www.cnbc.com/2026/06/26/gavin-newsom-national-billionaires-tax-california.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Novak Djokovic has a new job —  advisor to private equity firm General Atlantic
+### 1. Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies
+
+[原文] Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.
+
+📎 [阅读原文](https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/) — *TechCrunch*
+
+### 2. FTC gives Musk the OK to acquire SpaceX alumni startup Mesh
+
+[原文] Mesh came out of stealth in February with a $50 million Series A.
+
+📎 [阅读原文](https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/) — *TechCrunch*
+
+### 3. Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn’t steal an open source product
+
+[原文] Corgi became embroiled in  controversy when Papermark accused it of stealing its software. Corgi says it did not, raising new questions about vibe coding.
+
+📎 [阅读原文](https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product/) — *TechCrunch*
+
+### 4. Novak Djokovic has a new job —  advisor to private equity firm General Atlantic
 
 [原文] General Atlantic has tapped tennis legend Novak Djokovic to serve as a global strategic advisor.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/26/novak-djokovic-has-a-new-job-advisor-to-private-equity-firm-general-atlantic/) — *TechCrunch*
 
-### 2. OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm
+### 5. OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm
 
 [原文] “We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global pa
 
 📎 [阅读原文](https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/) — *TechCrunch*
-
-### 3. OpenAI poaches Uber India chief to lead its biggest market outside the US
-
-[原文] The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.
-
-📎 [阅读原文](https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/) — *TechCrunch*
-
-### 4. Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)
-
-[原文] Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.&#160;&#160; OpenAI just shared its plans to spice things up with&#160;Jalapeño, its custom inference
-
-📎 [阅读原文](https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/) — *TechCrunch*
-
-### 5. Russian hackers were behind $2.5 billion hack of Jaguar Land Rover: Report
-
-[原文] The hack on car giant Jaguar Land Rover last year was one the most disrupting, damaging, and costly hacks of the last few years.
-
-📎 [阅读原文](https://techcrunch.com/2026/06/26/russian-hackers-were-behind-2-5-billion-hack-of-jaguar-land-rover-report/) — *TechCrunch*
 
 ---
 
@@ -130,35 +130,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. They knew the pill was fake but their memory still improved
+### 1. Einstein Probe may have caught a black hole tearing apart a white dwarf for the first time
+
+[原文] Astronomers may have witnessed one of the rarest and most dramatic cosmic events ever seen: a long-sought intermediate-mass black hole ripping apart a dense white dwarf star and devouring it. The Eins
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260625060222.htm) — *Science Daily*
+
+### 2. They knew the pill was fake but their memory still improved
 
 [原文] Healthy older adults experienced measurable improvements in memory, physical performance, and stress after taking placebo pills for just three weeks. The most surprising finding was that the placebo o
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260625060159.htm) — *Science Daily*
 
-### 2. After 70 years of excavation, ancient Sardis becomes a UNESCO World Heritage site
+### 3. After 70 years of excavation, ancient Sardis becomes a UNESCO World Heritage site
 
 [原文] After nearly seven decades of excavation, the legendary ancient city of Sardis has become a UNESCO World Heritage Site, celebrating years of discoveries that continue to reshape its history. Archaeolo
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260625014808.htm) — *Science Daily*
 
-### 3. Osteopenia is silently weakening bones in millions of people
+### 4. Earth may have been seeding Venus with life for billions of years
+
+[原文] A new study suggests Earth may have been sending tiny hitchhikers to Venus for billions of years. Researchers found that asteroid impacts could launch microbes into space, where some might survive the
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260625014805.htm) — *Science Daily*
+
+### 5. Osteopenia is silently weakening bones in millions of people
 
 [原文] Osteopenia is a common but often overlooked condition that causes bones to become less dense and more fragile. Because it develops silently, many people only discover they have it after a fracture or 
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260624025511.htm) — *Science Daily*
-
-### 4. NASA’s Lucy finds a wobbling peanut-shaped asteroid with signs of ancient water
-
-[原文] NASA’s Lucy spacecraft discovered that asteroid Donaldjohanson is a wobbling, peanut-shaped relic born from a violent collision and slowly reshaped by the subtle force of sunlight. It also carries tra
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260624025455.htm) — *Science Daily*
-
-### 5. Scientists discover ancient brain cells that help block distractions
-
-[原文] Scientists have discovered a tiny group of neurons in an ancient brain region that acts like a built-in focus filter, helping the brain ignore distractions and zero in on what matters most. When resea
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260624025426.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. World Cup LIVE: Dembélé hat trick gives France con...
+### 1. NHL draft tracker: Leafs select McKenna at No. 1; ...
 
-[原文] null
+[原文] The draft is Friday and Saturday. Here's a list of every selection, including detailed analysis for the top 32.
 
-📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49162214/world-cup-live-updates-france-takes-norway-decide-group-i) — *ESPN*
+📎 [阅读原文](https://www.espn.com/nhl/story/_/id/49189811/2026-nhl-draft-pick-tracker-live-updates-analysis-32-teams-7-rounds-scouting-notes) — *ESPN*
 
-### 2. Fever coach thanks WNBA review, but scolds refs
+### 2. As expected, Maple Leafs draft McKenna at No. 1
 
-[原文] Stephanie White is glad the WNBA review punished Alyssa Thomas for her hit to Caitlin Clark's throat, but the Fever coach wonders how refs failed to make a call in real time.
+[原文] Quickly putting to rest any speculation of a change of heart at the NHL draft Friday night, the Toronto Maple Leafs selected Penn State winger Gavin McKenna, 18, with the first pick after he posted 15
 
-📎 [阅读原文](https://www.espn.com/wnba/story/_/id/49189272/fever-coach-appreciates-wnba-review-caitlin-clark-hit) — *ESPN*
+📎 [阅读原文](https://www.espn.com/nhl/story/_/id/49190403/toronto-maple-leafs-select-gavin-mckenna-open-nhl-draft) — *ESPN*
 
-### 3. CFL won't allow Brendan Sorsby to join league
+### 3. Cape Verde smallest nation to make WC knockouts
 
-[原文] The CFL says quarterback Brendan Sorsby will not be allowed to join any of its teams for the upcoming season.
+[原文] Cape Verde's memorable journey at their first World Cup is not over yet.
 
-📎 [阅读原文](https://www.espn.com/college-football/story/_/id/49188893/cfl-says-brendan-sorsby-allowed-join-league) — *ESPN*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49192570/cape-verde-w2026-world-cup-knockout-stage-smallest-nation) — *ESPN*
 
-### 4. Sources: Poch in positive talks over USMNT deal
+### 4. Uruguay out of WC after GK blunder against Spain
 
-[原文] United States men's national team coach Mauricio Pochettino and U.S. Soccer have had positive talks about a possible contract extension, sources told ESPN.
+[原文] Uruguay pulled goalkeeper Fernando Muslera at halftime of their FIFA World Cup group stage final after his blunder in the first half gifted Spain the lead at Estadio Akron on Friday.
 
-📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49188769/mauricio-pochettino-positive-talks-new-usmnt-contract-sources) — *ESPN*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49192407/uruguay-yank-keeper-muslera-howler-spain) — *ESPN*
 
-### 5. Bulls' Wilson expects to win Rookie of the Year
+### 5. Sources: OKC to keep Hartenstein on 3-year deal
 
-[原文] New Bulls forward Caleb Wilson was asked about his expectations for his debut season, and he set his sights on Rookie of the Year.
+[原文] Isaiah Hartenstein intends to sign a new three-year contract worth $75 million to return to the Thunder through the 2028-29 season, sources told ESPN.
 
-📎 [阅读原文](https://www.espn.com/nba/story/_/id/49188920/bulls-caleb-wilson-expects-win-rookie-year) — *ESPN*
+📎 [阅读原文](https://www.espn.com/nba/story/_/id/49193260/thunder-keep-hartenstein-new-3-year-deal-sources-say) — *ESPN*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘Five Nights at Freddy’s 3’ Lands ‘It’ and ‘Annabelle’ Screenwriter Gary Dauberman
+### 1. Bill Maher Gets Played by JD Vance on ‘Real Time,’ Admits He May Vote Republican in 2028
 
-[原文] Freddy Fazbear’s Pizza&#8217;s killer animatronics are out for more blood. Blumhouse Atomic Monster has tapped Gary Dauberman to write the script for the next installment of &#8220;Five Nights at Fred
+[原文] On Thursday, Vice President JD Vance paid a visit to the Nixon Presidential Library and Museum in California and, as is his wont, put his foot squarely in his mouth. The “Hillbilly Elegy” author, who 
 
-📎 [阅读原文](https://variety.com/2026/film/news/five-nights-at-freddys-3-it-annabelle-screenwriter-gary-dauberman-1236791507/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/bill-maher-played-by-jd-vance-real-time-hbo-may-vote-republican-2028-1236795870/) — *Variety*
 
-### 2. ‘Border’ Meets ‘Stand by Me’ in ‘Fränk,’ a Coming of Age for the Manosphere Era by ‘Tenet’ Assistant Director Tõnis Pill
+### 2. ‘Life, Larry’ Director Jeff Schaffer on Obama’s Notes and Why Larry David Will Never Retire: ‘He’s Like a Prostitute Who Has Sex When He’s Not Working’
 
-[原文] A grim, personal real-life case inspired Tõnis Pill’s directorial debut, “Fränk.” When the director was a young boy living in a small Estonian town, a person with an intellectual disability died after
+[原文] When “Curb Your Enthusiasm” wrapped up its 24-year-run in 2024, fans were concerned it would be the last time they’d see Larry David on screen. He had been saying the HBO sitcom was ending for the bet
 
-📎 [阅读原文](https://variety.com/2026/film/global/frank-tonis-pill-tenet-raindance-interview-1236791284/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/larry-david-new-show-jeff-schaffer-obamas-notes-curb-1236790792/) — *Variety*
 
-### 3. A24 Explains Why AI Deal With Google Exists: ‘We’d Rather Have a Seat at the Table Than on the Sidelines’
+### 3. Last Call: Beats Headphones Are 57% Off for Prime Day — Their Lowest Price Ever
 
-[原文] A24 explained its research partnership with Google&#8217;s DeepMind unit as a bid to have “a seat at the table“ in Hollywood&#8217;s reckoning with AI after fans pelted the independent studio with cri
+[原文] The Beats Studio Pro Wireless Headphones have become the audio brand&#8217;s flagship over-ear headphones since they were first released a few years and they&#8217;re still one of the best values on t
 
-📎 [阅读原文](https://variety.com/2026/film/news/a24-defends-ai-deal-google-1236791441/) — *Variety*
+📎 [阅读原文](https://variety.com/shop/beats-headphones-deals-1235148439/) — *Variety*
 
-### 4. Lloyd Kaufman Looks at Legacy of Legendary Troma Entertainment: ‘It Birthed the Marvel Cinematic Universe’
+### 4. Luca Guadagnino Says He Can’t Discuss Amazon Dropping ‘Artificial’ Because ‘We Are Right in the Middle of This Situation,’ But AI Is ‘Changing the Identity of the World’
 
-[原文] Appearing on a screen straight from the legendary Troma Entertainment headquarters in Long Island, New York, veteran producer and filmmaker Lloyd Kaufman has both hands occupied: one is gripping a com
+[原文] After Amazon MGM dropped Luca Guadagnino&#8217;s movie &#8220;Artificial&#8221; about Open AI founder Sam Altman, the Italian director has commented on his feelings on artificial intelligence, though 
 
-📎 [阅读原文](https://variety.com/2026/film/global/lloyd-kaufman-troma-entertainment-marvel-cinematic-universe-1236791249/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/luca-guadagnino-ai-amazon-artificial-1236795673/) — *Variety*
 
-### 5. CAPE Announces 2026 Emerging Executives Committee
+### 5. ‘Camp’ Director Avalon Fast on Making a Visually Dazzling Witchcraft Movie: Evoke ‘Sacredness’ and ‘Magic’ From the Remote Shoot
 
-[原文] The Coalition of Asian Pacifics in Entertainment (CAPE) has announced its Emerging Executives Committee for 2026. The initiative, known as CEEC, will be supported by The Asian American Foundation (TAA
+[原文] “Camp” writer and director Avalon Fast has a wonderfully specific genre designated for her film: “A bunch of girls in the woods doing weird stuff.” As if that doesn&#8217;t sell a ticket already, trus
 
-📎 [阅读原文](https://variety.com/2026/biz/news/cape-ceec-emerging-executive-committee-2026-1236788710/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/features/camp-witchcraft-movie-director-magic-forest-shoot-1236791018/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Amazon Just Dropped Even More 4K and Blu-ray Deals for Prime Day
+### 1. Top Prime Day Deals I'm Shopping Today to Help Beat the Summer Heat
 
-[原文] It's Amazon Prime Day, which means you could stock up on everyday essentials, or you could add to your DVD collection.
+暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/best-4k-blu-ray-tv-and-movie-deals-amazon-prime-day-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/summer-deals-to-shop-before-amazon-prime-day-ends) — *IGN*
 
-### 2. Arc System Works Evo Collection Humble Bundle Includes Guilty Gear -Strive- and More, Helps the Raiden Science Foundation
+### 2. 7 Best Prime Day TV Deals Under $1,000
 
-[原文] Humble Bundle has just launched a brand-new bundle that not only collects some of the best Arc System Works games like Guilty Gear -Strive- and BlazBlue: Central Fiction, but also supports the Raiden 
+[原文] From gaming-ready to budget-friendly, these TV discounts are worth grabbing before Prime Day ends.
 
-📎 [阅读原文](https://www.ign.com/articles/arc-system-works-evo-collection-humble-bundle-includes-guilty-gear-strive-and-more-helps-the-raiden-science-foundation) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/tv-deals-under-1000-prime-day-2026) — *IGN*
 
-### 3. The Apple AirPods Pro 3 Noise Canceling Earbuds Are on Sale During Amazon Prime Day
+### 3. These Fantasy Book Nooks Are a Magical Addition to Your Mixed Media Library
 
-[原文] $70 less than buying it from the Apple Store.
+暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/best-apple-airpods-pro-3-earbuds-deal-amazon-prime-day-sale-updated) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/fantasy-book-nook-deals-for-amazon-prime-day-2026) — *IGN*
 
-### 4. Save $2,500 Off an Alienware Area-51 Gaming PC With GeForce RTX 5090 GPU, 64GB of RAM, and a 4TB SSD
+### 4. Dead or Alive 6 Last Round Review
 
-[原文] Warning: it's still expensive
+[原文] A great fighting game wrapped up in a very bad package.
 
-📎 [阅读原文](https://www.ign.com/articles/save-2500-off-an-alienware-area-51-gaming-pc-with-geforce-rtx-5090-gpu-64gb-of-ram-and-a-4tb-ssd) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/dead-or-alive-6-last-round-review) — *IGN*
 
-### 5. The Sony WH-1000XM5 Noise Canceling Headphones Drops Below $200 for the First Time Ever for Prime Day
+### 5. New Warhammer 40,000 Animation Is Almost Entirely From the Perspective of a Single World Eaters Berzerker — and Now I Want a First-Person Chaos Space Marine Game
 
-[原文] Brand new, not refurbished.
+[原文] The hugely popular Space Marine 2 did a great job of delivering third-person action, but what about a big-budget first-person Space Marine game? So far, that doesn’t exist, but the latest Warhammer 40
 
-📎 [阅读原文](https://www.ign.com/articles/sony-wh-1000xm5-noise-canceling-headphones-deal-amazon-prime-day-sale) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/new-warhammer-40000-animation-is-almost-entirely-from-the-perspective-of-a-single-world-eaters-berzerker-and-now-i-want-a-first-person-chaos-space-marine-game) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post The New Hyundai Elantra Actually Goes Kind of Hard: TDS ap
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump’s ‘Unprecedented’ Regulatory Rollbacks Fuel Surge in Protective Climate Lawsuits
+### 1. A Midwest Mayor Joins London Climate Week as a ‘Rational Optimist’ Who Aims to Get Things Done
+
+[原文] London Climate Action Week opened in the British capital just as an unprecedented heat wave gripped the country and mainland Europe. Among the tens of thousands of attendees at the global event were e
+
+📎 [阅读原文](https://insideclimatenews.org/news/26062026/columbia-missouri-mayor-at-london-climate-week/) — *Inside Climate News*
+
+### 2. Trump’s ‘Unprecedented’ Regulatory Rollbacks Fuel Surge in Protective Climate Lawsuits
 
 [原文] Sweeping revisions to U.S. climate policy in the first year of President Donald Trump’s second term have spawned a wave of protective litigation, legal challenges aimed not at advancing new climate go
 
 📎 [阅读原文](https://insideclimatenews.org/news/26062026/climate-lawsuits-surge-after-trump-regulatory-rollbacks/) — *Inside Climate News*
 
-### 2. French Oil Major Failed to Fulfill ‘Vigilance’ Duty on Climate, Paris Court Rules
+### 3. French Oil Major Failed to Fulfill ‘Vigilance’ Duty on Climate, Paris Court Rules
 
 [原文] A French court on Thursday ruled that the oil major TotalEnergies must take responsibility for the full scope of greenhouse gas emissions across its supply chain—including emissions from customers’ us
 
 📎 [阅读原文](https://insideclimatenews.org/news/26062026/french-oil-major-failed-to-fulfill-vigilance-duty-on-climate-paris-court-rules/) — *Inside Climate News*
 
-### 3. A New Book Tells the Story of Albuquerque Through the Rio Grande
+### 4. A New Book Tells the Story of Albuquerque Through the Rio Grande
 
 [原文] In “Ribbons of Green: The Rio Grande and the Making of Modern Albuquerque,” John Fleck and Robert P. Berrens explore Albuquerque’s relationship to the Rio Grande. The co-authors, collaborators at the 
 
 📎 [阅读原文](https://insideclimatenews.org/news/26062026/book-examines-albuquerque-through-rio-grande/) — *Inside Climate News*
 
-### 4. Interim Fish and Wildlife Assistant Secretary’s Lack of Experience Concerns Senators at Confirmation Hearings
+### 5. Interim Fish and Wildlife Assistant Secretary’s Lack of Experience Concerns Senators at Confirmation Hearings
 
 [原文] When President Donald Trump nominated Kevin Lilly last year to oversee management of the nation’s wildlife refuges and national parks, conservation advocacy organizations raised concerns over how his 
 
 📎 [阅读原文](https://insideclimatenews.org/news/26062026/kevin-lilly-interim-fish-wildlife-assistant-secretary-lack-of-experience/) — *Inside Climate News*
-
-### 5. Alabama Seeks Permit to Fill Wetlands, Streams for Controversial Highway Project
-
-[原文] Alabama officials are seeking federal permission to fill a stretch of wetlands and streams to move forward on the Birmingham Northern Beltline, a decades-long highway project that critics say is unnec
-
-📎 [阅读原文](https://insideclimatenews.org/news/25062026/alabama-birmingham-northern-beltline-wetlands-permit/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post The New Hyundai Elantra Actually Goes Kind of Hard: TDS ap
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Noah Kahan Asks Fans to Stop Stealing Hometown Road Sign: ‘Total Disrespect’
+### 1. Justin Bieber Announces Number 1 Pick for Hometown Maple Leafs at 2026 NHL Draft
+
+[原文] Gavin McKenna, a native of Whitehorse, Yukon, walked up to Bieber's song "Yukon"
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/justin-bieber-gavin-mckenna-maple-leafs-nhl-draft-1235585398/) — *Rolling Stone*
+
+### 2. Noah Kahan Asks Fans to Stop Stealing Hometown Road Sign: ‘Total Disrespect’
 
 [原文] Fans have been “repeatedly” removing Alger Brook Road sign after the singer mentioned it in “The View Between Villages”
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/noah-kahan-fans-stop-stealing-vermont-hometown-road-sign-1235585003/) — *Rolling Stone*
 
-### 2. Cara Delevingne Wrote New Single ‘Need It’ Over Text With Fiona Apple
+### 3. Cara Delevingne Wrote New Single ‘Need It’ Over Text With Fiona Apple
 
 [原文] The song will appear on the upcoming debut album from Delevingne scheduled for release later this summer
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/cara-delevingne-new-song-need-it-fiona-apple-1235584971/) — *Rolling Stone*
 
-### 3. Tom Hardy Is Crossing Over to Music With a [Checks Notes] Rap Album
+### 4. Tom Hardy Is Crossing Over to Music With a [Checks Notes] Rap Album
 
 [原文] The English actor will embody his Frankie Pulitzer persona again for a collaboration LP with hip-hop supergroup Czarface
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/tom-hardy-frankie-pulitzer-rap-album-czarface-1235584907/) — *Rolling Stone*
 
-### 4. Quavo Gets Everything He Wants on Pharrell Williams-Produced Single ‘Haavin’
+### 5. Quavo Gets Everything He Wants on Pharrell Williams-Produced Single ‘Haavin’
 
 [原文] The track previously premiered at Louis Vuitton’s Menswear Spring-Summer 2027 show is the first glimpse into Quavo’s upcoming album project executive produced by Williams
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/quavo-shares-haavin-produced-pharrell-williams-1235584761/) — *Rolling Stone*
-
-### 5. Dua Lipa Is Taking Her Book Club to the Next Level and Opening Her Own Library
-
-[原文] The physical spot will reside inside Portugal’s famed Livraria Lello
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/dua-lipa-opening-library-livrario-lello-1235584762/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post The New Hyundai Elantra Actually Goes Kind of Hard: TDS ap
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Fewer Flights, Higher Fares, More Travelers: The July 4 Squeeze
+### 1. California Poaches NYC’s Tourism Chief Ahead of 2028 Olympics
+
+[原文] Julie Coker is leaving NYC Tourism after less than two years. She needs to turn around sluggish inbound tourism and needs to move fast: Los Angeles is hosting the 2028 Olympic Games.
+
+📎 [阅读原文](https://skift.com/2026/06/26/visit-california-julie-coker-ceo/) — *Skift*
+
+### 2. Fewer Flights, Higher Fares, More Travelers: The July 4 Squeeze
 
 [原文] Going into what is expected to be a busy July 4 travel season, airlines are cutting capacity as they hope to hold onto their pricing gains.
 
 📎 [阅读原文](https://skift.com/2026/06/26/airlines-are-trimming-capacity-ahead-of-july-4/) — *Skift*
 
-### 2. Delta Makes Moves to Catch Up With United in the Pacific
+### 3. Delta Makes Moves to Catch Up With United in the Pacific
 
 [原文] Delta has spent much of 2026 building up its presence in Asia partly in an attempt to gain more market share in the Pacific from its major rival in the region, United.
 
 📎 [阅读原文](https://skift.com/2026/06/26/delta-makes-moves-to-close-the-pacific-gap-with-united/) — *Skift*
 
-### 3. One of the Largest Cash Piles in OTA Travel Sits … Largely Stuck
+### 4. One of the Largest Cash Piles in OTA Travel Sits … Largely Stuck
 
 [原文] Trip.com’s financials are the clearest single document in travel for understanding what “China risk” actually looks like when it shows up in a balance sheet.
 
 📎 [阅读原文](https://skift.com/2026/06/26/one-of-the-largest-cash-piles-in-ota-travel-sits-largely-stuck/) — *Skift*
 
-### 4. Dubai’s Rove Hotels Targets Saudi Arabia’s Mid-Scale Gap Before the Events Crunch Hits
+### 5. Dubai’s Rove Hotels Targets Saudi Arabia’s Mid-Scale Gap Before the Events Crunch Hits
 
 [原文] Mid-scale supply in Saudi Arabia is structurally short, and the events pipeline — Expo 2030, the 2034 World Cup — will make that shortage acute. Rove is moving early, but it won’t be the only brand do
 
 📎 [阅读原文](https://skift.com/2026/06/26/dubais-rove-hotels-targets-saudi-arabias-mid-scale-gap-before-the-events-crunch-hits/) — *Skift*
-
-### 5. Why Trip.com Group’s Edison Chen Says Proximity Is Power in Global Travel
-
-[原文] Trip.com Group's Edison Chen has spent over a decade turning culture, events, and AI into travel demand. As a Skift IDEA Awards judge, he is looking for ideas that move beyond static bookings toward e
-
-📎 [阅读原文](https://skift.com/2026/06/26/trip-com-edison-chen-idea-awards-proximity-culture-travel/) — *Skift*
 
 ---
 
