@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年06月27日** | 生成时间: 2026-06-27 11:50
+**2026年06月27日** | 生成时间: 2026-06-27 16:41
 
 ---
 
@@ -16,15 +16,15 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. US conducts strikes on Iran after attack on cargo ship
+### 1. US strikes Iran after attack on cargo ship
 
-[原文] US Central Command says it has struck missile and drone storage facilities and coastal radar positions.
+[原文] Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Venezuela earthquakes kill 920 people as families desperate for news
+### 2. Venezuela earthquakes kill 920 people as international rescue teams arrive
 
-[原文] Hundreds are still feared trapped under the rubble, as international rescue teams start to arrive.
+[原文] Hundreds are still feared trapped under the rubble, as families desperate for news.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss) — *BBC World*
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. U.S. strikes Iran after Trump accuses Tehran of ceasefire violation in Strait of Hormuz
+### 1. SpaceX will join Nasdaq-100
+
+[原文] Adding SpaceX this quickly would make the Elon Musk company one of the first beneficiaries of Nasdaq's recently adopted fast-track inclusion framework.
+
+📎 [阅读原文](https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100-on-hold-on-hold-on-hold.html) — *CNBC*
+
+### 2. U.S. strikes Iran after Trump accuses Tehran of ceasefire violation in Strait of Hormuz
 
 [原文] The attack comes as the United States and Iran are supposed to be engaging in a 60-period of no hostilities as they hold talks to end their war.
 
 📎 [阅读原文](https://www.cnbc.com/2026/06/26/us-strikes-iran-strait-of-hormuz-ceasefire.html) — *CNBC*
 
-### 2. Trump admin allows Anthropic to release Mythos AI model to some companies, government agencies
+### 3. Trump admin allows Anthropic to release Mythos AI model to some companies, government agencies
 
 [原文] Anthropic disabled access to its Fable 5 and Mythos 5 models to comply with a government export control directive citing "national security authorities."
 
 📎 [阅读原文](https://www.cnbc.com/2026/06/26/us-government-anthropic-claude-mythos5-ai.html) — *CNBC*
 
-### 3. Trump eases pressure on Fed Chairman Kevin Warsh as inflation tops 4%
+### 4. From concerts to train rides, bots are winning the ticket wars — but they're only part of the problem
 
-[原文] President Donald Trump's economic advisors are giving Warsh space, as the new Fed chairman, on interest rates as the president repeats calls to cut.
+[原文] From concerts to train reservations, automated bots have become the latest target in the fight against ticket scalping.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/26/trump-warsh-fed-rate-cuts-inflation.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/27/ticket-bots-concert-scalpers-ticketmaster-china-korea.html) — *CNBC*
 
-### 4. Oracle stock has worst week since 2001 dot-com bust as AI financing concerns escalate
+### 5. U.S. crude oil falls below $70, resuming losses after attack on cargo ship near Oman
 
-[原文] Oracle's surging spending, negative free cash flow and $130 billion debt pile are weighing on the stock.
+[原文] Oil extended declines on Friday, with markets focused any further breakthroughs in the Middle East conflict, while absorbing a flurry of Persian Gulf news.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/26/oracle-stock-ends-worst-week-since-2001-as-investors-dwell-on-finances.html) — *CNBC*
-
-### 5. Jeremy Grantham says this is the most expensive market in 'American history'
-
-[原文] Jeremy Grantham says soaring valuations around AI makes the U.S. stock market historically expensive.
-
-📎 [阅读原文](https://www.cnbc.com/2026/06/26/jeremy-grantham-says-this-is-the-most-expensive-market-in-american-history.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/26/oil-prices-middle-east-iran-strait-of-hormuz-opec-iraq-wti-brent-crude.html) — *CNBC*
 
 ---
 
@@ -180,23 +180,23 @@
 
 📎 [阅读原文](https://www.espn.com/nhl/story/_/id/49190403/toronto-maple-leafs-select-gavin-mckenna-open-nhl-draft) — *ESPN*
 
-### 3. Cape Verde smallest nation to make WC knockouts
+### 3. Brewers' Misiorowski hurls 105.5 mph pitch in win
+
+[原文] Brewers starter Jacob Misiorowski threw a first-inning fastball on Friday that was clocked at 105.5 mph, breaking his own record for the fastest pitch recorded by a starting pitcher in the pitch track
+
+📎 [阅读原文](https://www.espn.com/mlb/story/_/id/49194044/jacob-misiorowski-throws-heater-clocked-1055-mph-vs-cubs) — *ESPN*
+
+### 4. Cape Verde smallest nation to make WC knockouts
 
 [原文] Cape Verde's memorable journey at their first World Cup is not over yet.
 
 📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49192570/cape-verde-w2026-world-cup-knockout-stage-smallest-nation) — *ESPN*
 
-### 4. Uruguay out of WC after GK blunder against Spain
+### 5. Uruguay out of WC after GK blunder against Spain
 
 [原文] Uruguay pulled goalkeeper Fernando Muslera at halftime of their FIFA World Cup group stage final after his blunder in the first half gifted Spain the lead at Estadio Akron on Friday.
 
 📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49192407/uruguay-yank-keeper-muslera-howler-spain) — *ESPN*
-
-### 5. Sources: OKC to keep Hartenstein on 3-year deal
-
-[原文] Isaiah Hartenstein intends to sign a new three-year contract worth $75 million to return to the Thunder through the 2028-29 season, sources told ESPN.
-
-📎 [阅读原文](https://www.espn.com/nba/story/_/id/49193260/thunder-keep-hartenstein-new-3-year-deal-sources-say) — *ESPN*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Bill Maher Gets Played by JD Vance on ‘Real Time,’ Admits He May Vote Republican in 2028
+### 1. Warner Bros. Animation Sneak Peeks ‘Get Jiro,’ Teases Gerry Anderson’s ‘Hit Squad,’ Announces ‘Dark Shadows’ Animated Series at Annecy Adult Animation Showcase
+
+[原文] Warner Bros. Animation, hugely active this year at Annecy, unveiled Friday at Annecy a new &#8220;Dark Shadows&#8221; animated series,&#160; confirming the studio&#8217;s push in adult animation into 
+
+📎 [阅读原文](https://variety.com/2026/tv/global/batman-joker-adult-animation-warner-bros-animation-annecy-1236790867/) — *Variety*
+
+### 2. Bill Maher Gets Played by JD Vance on ‘Real Time,’ Admits He May Vote Republican in 2028
 
 [原文] On Thursday, Vice President JD Vance paid a visit to the Nixon Presidential Library and Museum in California and, as is his wont, put his foot squarely in his mouth. The “Hillbilly Elegy” author, who 
 
 📎 [阅读原文](https://variety.com/2026/tv/news/bill-maher-played-by-jd-vance-real-time-hbo-may-vote-republican-2028-1236795870/) — *Variety*
 
-### 2. ‘Life, Larry’ Director Jeff Schaffer on Obama’s Notes and Why Larry David Will Never Retire: ‘He’s Like a Prostitute Who Has Sex When He’s Not Working’
+### 3. ‘Life, Larry’ Director Jeff Schaffer on Obama’s Notes and Why Larry David Will Never Retire: ‘He’s Like a Prostitute Who Has Sex When He’s Not Working’
 
 [原文] When “Curb Your Enthusiasm” wrapped up its 24-year-run in 2024, fans were concerned it would be the last time they’d see Larry David on screen. He had been saying the HBO sitcom was ending for the bet
 
 📎 [阅读原文](https://variety.com/2026/tv/news/larry-david-new-show-jeff-schaffer-obamas-notes-curb-1236790792/) — *Variety*
 
-### 3. Last Call: Beats Headphones Are 57% Off for Prime Day — Their Lowest Price Ever
+### 4. Last Call: Beats Headphones Are 57% Off for Prime Day — Their Lowest Price Ever
 
 [原文] The Beats Studio Pro Wireless Headphones have become the audio brand&#8217;s flagship over-ear headphones since they were first released a few years and they&#8217;re still one of the best values on t
 
 📎 [阅读原文](https://variety.com/shop/beats-headphones-deals-1235148439/) — *Variety*
 
-### 4. Luca Guadagnino Says He Can’t Discuss Amazon Dropping ‘Artificial’ Because ‘We Are Right in the Middle of This Situation,’ But AI Is ‘Changing the Identity of the World’
+### 5. Luca Guadagnino Says He Can’t Discuss Amazon Dropping ‘Artificial’ Because ‘We Are Right in the Middle of This Situation,’ But AI Is ‘Changing the Identity of the World’
 
 [原文] After Amazon MGM dropped Luca Guadagnino&#8217;s movie &#8220;Artificial&#8221; about Open AI founder Sam Altman, the Italian director has commented on his feelings on artificial intelligence, though 
 
 📎 [阅读原文](https://variety.com/2026/film/news/luca-guadagnino-ai-amazon-artificial-1236795673/) — *Variety*
-
-### 5. ‘Camp’ Director Avalon Fast on Making a Visually Dazzling Witchcraft Movie: Evoke ‘Sacredness’ and ‘Magic’ From the Remote Shoot
-
-[原文] “Camp” writer and director Avalon Fast has a wonderfully specific genre designated for her film: “A bunch of girls in the woods doing weird stuff.” As if that doesn&#8217;t sell a ticket already, trus
-
-📎 [阅读原文](https://variety.com/2026/film/features/camp-witchcraft-movie-director-magic-forest-shoot-1236791018/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Top Prime Day Deals I'm Shopping Today to Help Beat the Summer Heat
+### 1. The 65" LG Evo C5 4K OLED TV Drops to the Lowest Price of the Year on the Last Day of Prime Day
+
+[原文] Amazon saved the best for last.
+
+📎 [阅读原文](https://www.ign.com/articles/lg-evo-c5-4k-oled-smart-tv-deal-amazon-prime-day-sale-new-low-price) — *IGN*
+
+### 2. Top Prime Day Deals I'm Shopping Today to Help Beat the Summer Heat
 
 暂无摘要。
 
 📎 [阅读原文](https://www.ign.com/articles/summer-deals-to-shop-before-amazon-prime-day-ends) — *IGN*
 
-### 2. 7 Best Prime Day TV Deals Under $1,000
+### 3. 7 Best Prime Day TV Deals Under $1,000
 
 [原文] From gaming-ready to budget-friendly, these TV discounts are worth grabbing before Prime Day ends.
 
 📎 [阅读原文](https://www.ign.com/articles/tv-deals-under-1000-prime-day-2026) — *IGN*
 
-### 3. These Fantasy Book Nooks Are a Magical Addition to Your Mixed Media Library
+### 4. These Fantasy Book Nooks Are a Magical Addition to Your Mixed Media Library
 
 暂无摘要。
 
 📎 [阅读原文](https://www.ign.com/articles/fantasy-book-nook-deals-for-amazon-prime-day-2026) — *IGN*
 
-### 4. Dead or Alive 6 Last Round Review
+### 5. Dead or Alive 6 Last Round Review
 
 [原文] A great fighting game wrapped up in a very bad package.
 
 📎 [阅读原文](https://www.ign.com/articles/dead-or-alive-6-last-round-review) — *IGN*
-
-### 5. New Warhammer 40,000 Animation Is Almost Entirely From the Perspective of a Single World Eaters Berzerker — and Now I Want a First-Person Chaos Space Marine Game
-
-[原文] The hugely popular Space Marine 2 did a great job of delivering third-person action, but what about a big-budget first-person Space Marine game? So far, that doesn’t exist, but the latest Warhammer 40
-
-📎 [阅读原文](https://www.ign.com/articles/new-warhammer-40000-animation-is-almost-entirely-from-the-perspective-of-a-single-world-eaters-berzerker-and-now-i-want-a-first-person-chaos-space-marine-game) — *IGN*
 
 ---
 
