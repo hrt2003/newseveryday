@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年06月28日** | 生成时间: 2026-06-28 03:26
+**2026年06月28日** | 生成时间: 2026-06-28 12:12
 
 ---
 
@@ -16,11 +16,11 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Venezuela earthquakes kill 920 people as international rescue teams arrive
+### 1. 'Every person saved is a miracle': Families call to trapped loved ones in region devastated by Venezuela quakes
 
-[原文] Hundreds are still feared trapped under the rubble, as families desperate for news.
+[原文] Families keep vigil at buildings where they fear their loved ones are trapped, but face an impossible task to move heavy debris.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cp8l451420zo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 2. In Caracas, this feels like the hardest moment in Venezuela's modern history
 
@@ -28,23 +28,23 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. US strikes Iran after attack on cargo ship
+### 3. US and Iran exchange strikes and accuse each other of violating ceasefire
 
-[原文] Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.
+[原文] Iran says it has launched retaliatory attacks at US infrastructure in Kuwait and Bahrain after the US said it hit multiple targets across Iran.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Meloni and Trump: A very public fall-out that is proving very hard to fix
+### 4. Israel strikes southern Lebanon as Hezbollah condemns new deal
 
-[原文] Italy's PM was not long ago being called the "Trump whisperer", but their relationship has gone from public attacks to personal insults.
+[原文] Strikes have killed at least one person, state media say a day after Lebanon and Israel signed a framework agreement.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Europe's deadly heatwave breaks German record and halts public events
+### 5. Why Kim Jong Un never talks about his mother - or her controversial bloodline
 
-[原文] Germany's highest ever temperature of 41.3C is recorded provisionally in Saarbrücken, over the border from France.
+[原文] Very few North Koreans know about her, as her origin could threaten the regime’s legitimacy.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cpvp3xn489no?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -60,7 +60,7 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/06/27/memory-crunch-shaking-apple-and-microsoft-existential-for-small-guys.html) — *CNBC*
 
-### 2. Tanker struck in Strait of Hormuz as U.S.-Iran tensions escalate
+### 2. U.S. military attacks Iranian targets after commercial tanker hit in the Strait of Hormuz
 
 [原文] The attacks come as the United States and Iran are supposed to be engaging in a 60-day ceasefire as they attempt to work toward a resolution.
 
@@ -70,7 +70,7 @@
 
 [原文] Adding SpaceX this quickly would make the Elon Musk company one of the first beneficiaries of Nasdaq's recently adopted fast-track inclusion framework.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100-on-hold-on-hold-on-hold.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100.html) — *CNBC*
 
 ### 4. Berkshire CEO Greg Abel sworn in as U.S. citizen at baseball game
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Apple Vision Pro exec is reportedly leaving for OpenAI
+### 1. Instagram is testing more ways to customize ‘Your Algorithm’
+
+[原文] Instagram users could soon see more ways to tune their content.
+
+📎 [阅读原文](https://techcrunch.com/2026/06/27/instagram-is-testing-more-ways-for-users-to-customize-your-algorithm/) — *TechCrunch*
+
+### 2. SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype
+
+[原文] Not everyone is buying Elon Musk’s vision for orbital data centers.
+
+📎 [阅读原文](https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/) — *TechCrunch*
+
+### 3. Apple Vision Pro exec is reportedly leaving for OpenAI
 
 [原文] Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/) — *TechCrunch*
 
-### 2. The fittest founder in the room got cancer. Here’s how he used AI to fight back.
+### 4. The fittest founder in the room got cancer. Here’s how he used AI to fight back.
 
 [原文] When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/) — *TechCrunch*
 
-### 3. Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on
+### 5. Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on
 
 [原文] New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/) — *TechCrunch*
-
-### 4. Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies
-
-[原文] Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.
-
-📎 [阅读原文](https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/) — *TechCrunch*
-
-### 5. FTC gives Musk the OK to acquire SpaceX alumni startup Mesh
-
-[原文] Mesh came out of stealth in February with a $50 million Series A.
-
-📎 [阅读原文](https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. England in huge danger in third Test against NZ
+### 1. Clarke steps down as Scotland boss after World Cup exit
+
+[原文] Steve Clarke resigns as Scotland head coach following the nation's group exit from the World Cup.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c5yzq73x1p7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. Job done - but England will not win World Cup unless they improve
+
+[原文] England did their job topping the group - but they can forget winning the World Cup if they do not improve, writes Phil McNulty.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cg4wnp592z1o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. Scotland's ill-fated World Cup story finally at a sorry end
+
+[原文] BBC Sport Scotland's chief sportswriter Tom English sums up his verdict on the nation's World Cup exit.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c5yzdwz890go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. England labour past Panama to qualify for last 32 as group winners
+
+[原文] Goals from Jude Bellingham and Harry Kane help England secure a 2-0 win over Panama, as Thomas Tuchel's side qualify for the World Cup last 32 as winners of Group L.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cm2r8yg74pgo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 5. England in huge danger in third Test against NZ
 
 [原文] England’s deciding Test against New Zealand - and perhaps the future of the hosts’ management - hangs in the balance after a dramatic and fluctuating third day at Trent Bridge.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/ce3ewx2wxrro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 2. How Russell's quick thinking produced unexpected pole
-
-[原文] Quick thinking, experience and a "magic lap" come together to produce an unexpected pole position for George Russell at the Austrian Grand Prix, writes Andrew Benson.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/cj6g99jr4gdo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 3. Why England should be wary of Panama's hybrid tactics
-
-[原文] Panama's results do not paint a true picture of their performances in the World Cup so far - so what can England expect from them?
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cly02gv3yd8o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. Raducanu quits practice as Wimbledon fitness fears grow
-
-[原文] Emma Raducanu's chances of being fit for Wimbledon look to be in considerable doubt after the Briton cut short her practice on Saturday.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cwylp9qjn9jo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Where does Scotland's World Cup campaign leave Clarke?
-
-[原文] Did Steve Clarke get the best out of his Scotland squad at the 2026 World Cup as they face group-stage exit?
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ckg4d3w9p4zo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Christopher Nolan Says Playing it Safe With Mainstream Movies ‘Doesn’t Work’: ‘The Audience Is Looking for Something New’
+### 1. ‘Every Year After’ Renewed for Season 2 at Amazon; Will Focus on Charlie’s Story From ‘One Golden Summer’ Sequel Book
 
-[原文] Christopher Nolan recently told The New York Times that Hollywood studios should take more risks with their blockbusters, because audiences are desperately “looking for something new.” “If you’re real
+[原文] Get ready to return to Barry&#8217;s Bay: &#8220;Every Year After&#8221; has been renewed for a second season at Amazon&#8217;s Prime Video less than a month after its debut. Based on Carley Fortune&#
 
-📎 [阅读原文](https://variety.com/2026/film/news/christopher-nolan-safe-mainstream-movies-doesnt-work-1236796037/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/every-year-after-season-2-renewed-charlie-1236796154/) — *Variety*
 
-### 2. Colman Domingo on Working with Antoine Fuqua and Steven Spielberg, and Why the Bay Area Holds a Special Place in His Heart
+### 2. Elon Musk Posts Armie Hammer’s Controversial Comeback Film ‘Citizen Vigilante’ on X
 
-[原文] San Francisco holds a special place in Colman Domingo’s heart. He called it home from 1991 to 2001 and it’s where “I became of age as an artist,” he says. It’s only fitting that Variety, in partnershi
+[原文] Elon Musk posted Armie Hammer’s “Citizen Vigilante” to his X account on Friday, sharing the controversial indie-actioner with his 240 million followers. The link was active for about 48 hours and went
 
-📎 [阅读原文](https://variety.com/2026/film/festivals/colman-domingo-antoine-fuqua-steven-spielberg-frameline-film-1236795999/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/elon-musk-posts-armie-hammer-citizen-vigilante-1236796152/) — *Variety*
 
-### 3. ‘Supergirl’ Writer Ana Nogueira on the Movie’s Key Changes From the ‘Woman of Tomorrow’ Comic and the Status of ‘Wonder Woman’ and ‘Teen Titans’
+### 3. Here’s How to Watch Xander Zayas vs. Jaron Ennis Boxing Pay-Per-View Live Online
 
-[原文] SPOILER ALERT: This story contains plot details, including about the ending, from DC Studios&#8217; &#8220;Supergirl,&#8221; now playing in theaters. It took more than five-and-a-half years, and count
+[原文] The best boxers in the world travel to New York City, where Puerto Rican fighter Xander Zayas (23-0-0) defenses his WBO and WBA super welterweight titles against Philadelphia-born boxer Jaron &#8220;B
 
-📎 [阅读原文](https://variety.com/2026/film/features/supergirl-writer-ana-nogueira-comic-changes-wonder-woman-1236790034/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/shopping/news/how-to-watch-xander-zayas-vs-jaron-ennis-boxing-ppv-live-online-1236789133/) — *Variety*
 
-### 4. Why A24 Should Treat Olivia Wilde’s ‘The Invite’ as a Major Oscar Contender
+### 4. Cannes Lions: The Pitches, Panels, Parties and Prognostication That Resonated Most During a Scorching Week on the Croisette
 
-[原文] Oscar voters…don&#8217;t forget to RSVP to &#8220;The Invite.&#8221; &#8220;The Invite,&#8221; Olivia Wilde&#8217;s third feature as a director and the most sleek and assured work of her career behind
+[原文] The biggest winners this past week at Cannes Lions were undoubtedly … the ice cream vendors. During a scorching week in the south of France, an estimated 13,000-plus Cannes Lions attendees hustled up 
 
-📎 [阅读原文](https://variety.com/2026/film/awards/olivia-wilde-the-invite-oscars-a24-1236790861/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/biz/news/cannes-lions-takeaways-creators-ai-teletubbies-1236796008/) — *Variety*
 
-### 5. Box Office: ‘Supergirl’ Flies to $18 Million on Opening Day
+### 5. Annecy Colombian Short ‘Once in a Body’: Fiction Rooted in Real Experiences
 
-[原文] “Toy Story 5” held on to Friday’s box office crown, despite new competition from “Supergirl” and “Jackass: Best and Last.” Disney and Pixar’s “Toy Story 5” made $21 million domestically from 4,425 scr
+[原文] For Colombian rising animation talent María Cristina Pérez, whose experimental short “Once in a Body” (“Una vez en un Cuerpo”) competed in the Annecy Animation Festival’s Perspectives sidebar, human c
 
-📎 [阅读原文](https://variety.com/2026/film/box-office/box-office-supergirl-milly-alcock-toy-story-5-1236789996/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/annecy-colombian-once-in-a-body-fiction-rooted-in-reality-1236795875/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Sony to Delete Movies Owned by PlayStation Users, List Includes More Than 550 Digital Titles
+### 1. The Invincible VS Devs Would Love a Mortal Kombat Crossover
 
-[原文] PlayStation has notified users that it will soon delete more than 550 digital movies from users' PSN accounts due to a licensing agreement with Studio Canal.
+[原文] The minds behind Invincible VS are open to collaborations with other genres and IPs, specifically welcoming potential characters from the Mortal Kombat franchise.
 
-📎 [阅读原文](https://www.ign.com/articles/sony-to-delete-movies-owned-by-playstation-users-list-includes-more-than-550-digital-titles) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/invincible-vs-devs-are-really-interested-in-a-mortal-kombat-crossover) — *IGN*
 
-### 2. The Best Deals Today: Dragon Quest I & II HD-2D Remake, AirPods Pro 3, Silent Hill f, and More
+### 2. GTA 6 Scalpers Are Finding Buyers on eBay Despite Rockstar's Commitment to a Digital Release
 
-暂无摘要。
+[原文] Rockstar Games fans seem to be paying eBay scalpers extra for pre-order copies of GTA 6 – even if there isn't much of a reason to.
 
-📎 [阅读原文](https://www.ign.com/articles/best-deals-for-june-27-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/gta-6-scalpers-are-finding-buyers-on-ebay-despite-rockstars-commitment-to-a-digital-release) — *IGN*
 
-### 3. Supergirl and the Debate at the Heart of the New Movie
+### 3. Street Fighter 6 Devs Have No Current Plans to Make Any Major Adjustments to System Mechanics | Evo 2026
 
-[原文] Supergirl’s final act undercuts the whole point of the movie: The Kryptonian’s new film touches on a long-standing debate about superhero morality.
+[原文] We chat with Director Nakayama and Producer Matsumoto about the current state of Street Fighter 6 and what's in store for the future at Evo 2026.
 
-📎 [阅读原文](https://www.ign.com/articles/supergirl-and-the-debate-at-the-heart-of-the-new-movie) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/street-fighter-6-devs-have-no-current-plans-to-make-any-major-adjustments-to-system-mechanics-evo-2026) — *IGN*
 
-### 4. Five Nights at Freddy's 3 Enlists It and Annabelle Writer for Its Script
+### 4. Supergirl Director Credits James Gunn for Helping Choose Song for Much-Discussed Slow-Motion Fight Scene
 
-[原文] Five Nights at Freddy's 3 has reportedly tapped It and Annabelle scribe Gary Dauberman to write its script.
+[原文] Director Craig Gillespie says he credits DC Studios co-CEO James Gunn for helping choose the song used in the slow-motion Supergirl fight scene that has caused a stir on social media.
 
-📎 [阅读原文](https://www.ign.com/articles/five-nights-at-freddys-3-enlists-it-and-annabelle-writer-for-its-script) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/supergirl-director-credits-james-gunn-for-helping-choose-song-for-much-discussed-slow-motion-fight-scene) — *IGN*
 
-### 5. 25 Years Later, Atlantis: The Lost Empire Has Become One of Disney’s Most Important Movies
+### 5. Steam Machine Scalpers on eBay Are Selling Reservations at Double the Price Valve Is Asking for
 
-暂无摘要。
+[原文] Valve has finally opened Steam Machine reservations, and like clockwork, scalpers have already taken to eBay to sell the new tech for more than double its retail price.
 
-📎 [阅读原文](https://www.ign.com/articles/atlantis-the-lost-empire-has-become-one-of-disneys-most-important-movies) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/steam-machine-scalpers-on-ebay-are-selling-reservations-at-double-the-price-valve-is-asking-for) — *IGN*
 
 ---
 
@@ -439,35 +439,35 @@ The post &#8216;Clutch&#8217; Drops an Hour of Gameplay Showcasing Street Ra
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Vanilla Ice’s Concert at Freedom 250 Canceled Due to Weather
+### 1. Stevie Nicks Will Be at Taylor Swift’s Wedding — And Might Perform
+
+[原文] The rock legend is headed to Madison Square Garden for the superstar's big day, according to multiple sources
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/stevie-nicks-perform-at-taylor-swift-wedding-report-1235585438/) — *Rolling Stone*
+
+### 2. Vanilla Ice’s Concert at Freedom 250 Canceled Due to Weather
 
 [原文] "Ice Ice Baby" rapper, one of the last music artists standing at the ill-fated Great American State Fair, has gig canceled Friday after inclement weather hits Washington, D.C.
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/vanilla-ice-concert-freedom-250-canceled-weather-1235585451/) — *Rolling Stone*
 
-### 2. Oliver Tree’s Family Establishes Foundation to Provide Grants to Artists
+### 3. Oliver Tree’s Family Establishes Foundation to Provide Grants to Artists
 
 [原文] "When I die, all the money is going to go back to artists. So I set up a foundation," singer said in an interview prior to his death
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/oliver-tree-family-foundation-artist-grants-1235585437/) — *Rolling Stone*
 
-### 3. Lorde Marks ‘Virgin’ Anniversary With 49 ‘Xrays’ Demos From the Album
+### 4. Lorde Marks ‘Virgin’ Anniversary With 49 ‘Xrays’ Demos From the Album
 
 [原文] Singer also opens up about her personal battles while making the 2025 LP in a newsletter to fans: "Living in these songs had an incantatory effect. I felt myself change”
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/lorde-virgin-anniversary-49-xrays-demos-1235585423/) — *Rolling Stone*
 
-### 4. Justin Bieber Announces Number 1 Pick for Hometown Maple Leafs at 2026 NHL Draft
+### 5. Justin Bieber Announces Number 1 Pick for Hometown Maple Leafs at 2026 NHL Draft
 
 [原文] Gavin McKenna, a native of Whitehorse, Yukon, walked up to Bieber's song "Yukon"
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/justin-bieber-gavin-mckenna-maple-leafs-nhl-draft-1235585398/) — *Rolling Stone*
-
-### 5. Noah Kahan Asks Fans to Stop Stealing Hometown Road Sign: ‘Total Disrespect’
-
-[原文] Fans have been “repeatedly” removing Alger Brook Road sign after the singer mentioned it in “The View Between Villages”
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/noah-kahan-fans-stop-stealing-vermont-hometown-road-sign-1235585003/) — *Rolling Stone*
 
 ---
 
