@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年06月28日** | 生成时间: 2026-06-28 12:12
+**2026年06月28日** | 生成时间: 2026-06-28 17:16
 
 ---
 
@@ -16,9 +16,9 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. 'Every person saved is a miracle': Families call to trapped loved ones in region devastated by Venezuela quakes
+### 1. Families calling out to loved ones trapped in rubble by Venezuela quakes
 
-[原文] Families keep vigil at buildings where they fear their loved ones are trapped, but face an impossible task to move heavy debris.
+[原文] In La Guaira, desperate families keep vigil at buildings where they fear their relatives are trapped, but face an impossible task to move heavy debris.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cp8l451420zo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The memory shortage shaking Apple and Microsoft is 'existential crisis' for smaller players
+### 1. Trump again threatens Iran with annihilation as Kuwait and Bahrain report attacks
+
+[原文] Iran says it targeted U.S. military facilities in Kuwait and Bahrain following U.S. strikes on targets in and around the Strait of Hormuz.
+
+📎 [阅读原文](https://www.cnbc.com/2026/06/28/trump-threatens-iran-with-annihilation-kuwait-bahrain-report-attacks.html) — *CNBC*
+
+### 2. The memory shortage shaking Apple and Microsoft is 'existential crisis' for smaller players
 
 [原文] While Apple and Microsoft raise prices on key devices to help cover the soaring costs of memory, smaller consumer electronics companies are in dire straits.
 
 📎 [阅读原文](https://www.cnbc.com/2026/06/27/memory-crunch-shaking-apple-and-microsoft-existential-for-small-guys.html) — *CNBC*
 
-### 2. U.S. military attacks Iranian targets after commercial tanker hit in the Strait of Hormuz
+### 3. From protein coffee to CBD soda: How brands are cashing in on the functional beverage boom
 
-[原文] The attacks come as the United States and Iran are supposed to be engaging in a 60-day ceasefire as they attempt to work toward a resolution.
+[原文] "We're selling [almost] as much protein cold foam as we do flat whites," Starbuck's EMEA Manager of Beverage Development Sam Henderson told CNBC.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/27/tanker-struck-in-strait-of-hormuz-as-us-iran-tensions-escalate.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/28/protein-coffee-cbd-soda-starbucks-functional-beverage-boom.html) — *CNBC*
 
-### 3. SpaceX to join the Nasdaq-100 in a fast-tracked process that will drive huge ETF buying demand
+### 4. SpaceX to join the Nasdaq-100 in a fast-tracked process that will drive huge ETF buying demand
 
 [原文] Adding SpaceX this quickly would make the Elon Musk company one of the first beneficiaries of Nasdaq's recently adopted fast-track inclusion framework.
 
 📎 [阅读原文](https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100.html) — *CNBC*
 
-### 4. Berkshire CEO Greg Abel sworn in as U.S. citizen at baseball game
+### 5. Berkshire CEO Greg Abel sworn in as U.S. citizen at baseball game
 
 [原文] Abel, a longtime Iowa resident who was born in the Canadian city of Edmonton in 1962, was among the roughly two dozen people from 16 countries who participated in an annual naturalization ceremony hos
 
 📎 [阅读原文](https://www.cnbc.com/2026/06/27/berkshire-ceo-greg-abel-sworn-in-as-us-citizen-at-baseball-game.html) — *CNBC*
-
-### 5. Why investors may want to prioritize bond markets outside the U.S.
-
-[原文] Allspring Global Investments is pushing clients toward countries with central banks that are raising interest rates or have different inflation dynamics.
-
-📎 [阅读原文](https://www.cnbc.com/2026/06/27/inflation-as-major-reason-to-invest-in-global-bond-markets.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Instagram is testing more ways to customize ‘Your Algorithm’
+### 1. Indian payments chief thinks AI will be heavily involved in next era of digital payment growth
+
+[原文] Dilip Asbe said that newer UPI apps could be more competitive with a viable commercial model
+
+📎 [阅读原文](https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/) — *TechCrunch*
+
+### 2. Instagram is testing more ways to customize ‘Your Algorithm’
 
 [原文] Instagram users could soon see more ways to tune their content.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/27/instagram-is-testing-more-ways-for-users-to-customize-your-algorithm/) — *TechCrunch*
 
-### 2. SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype
+### 3. SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype
 
 [原文] Not everyone is buying Elon Musk’s vision for orbital data centers.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/) — *TechCrunch*
 
-### 3. Apple Vision Pro exec is reportedly leaving for OpenAI
+### 4. Apple Vision Pro exec is reportedly leaving for OpenAI
 
 [原文] Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/) — *TechCrunch*
 
-### 4. The fittest founder in the room got cancer. Here’s how he used AI to fight back.
+### 5. The fittest founder in the room got cancer. Here’s how he used AI to fight back.
 
 [原文] When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/) — *TechCrunch*
-
-### 5. Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on
-
-[原文] New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.
-
-📎 [阅读原文](https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/) — *TechCrunch*
 
 ---
 
@@ -148,17 +148,17 @@
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260625060159.htm) — *Science Daily*
 
-### 4. After 70 years of excavation, ancient Sardis becomes a UNESCO World Heritage site
+### 4. Hawaii is turning ocean plastic and fishing nets into roads
+
+[原文] Hawaii researchers are giving old fishing nets and recycled plastic a second life by mixing them into asphalt roads. Early tests found these roads didn't release more plastic particles than standard p
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260625014830.htm) — *Science Daily*
+
+### 5. After 70 years of excavation, ancient Sardis becomes a UNESCO World Heritage site
 
 [原文] After nearly seven decades of excavation, the legendary ancient city of Sardis has become a UNESCO World Heritage Site, celebrating years of discoveries that continue to reshape its history. Archaeolo
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260625014808.htm) — *Science Daily*
-
-### 5. Earth may have been seeding Venus with life for billions of years
-
-[原文] A new study suggests Earth may have been sending tiny hitchhikers to Venus for billions of years. Researchers found that asteroid impacts could launch microbes into space, where some might survive the
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260625014805.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Clarke steps down as Scotland boss after World Cup exit
-
-[原文] Steve Clarke resigns as Scotland head coach following the nation's group exit from the World Cup.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c5yzq73x1p7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 2. Job done - but England will not win World Cup unless they improve
+### 1. Job done - but England will not win World Cup unless they improve
 
 [原文] England did their job topping the group - but they can forget winning the World Cup if they do not improve, writes Phil McNulty.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cg4wnp592z1o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Scotland's ill-fated World Cup story finally at a sorry end
+### 2. New deal, new beginnings & a sudden exit - Clarke's Scotland timeline
 
-[原文] BBC Sport Scotland's chief sportswriter Tom English sums up his verdict on the nation's World Cup exit.
+[原文] BBC Scotland charts the trajectory of Steve Clarke's last month as Scotland head coach.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c5yzdwz890go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ce8mqmg327vo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. England labour past Panama to qualify for last 32 as group winners
+### 3. What you need to know about England's opponents DR Congo
+
+[原文] England will face DR Congo in the round of 32. Here is what you need to know about them.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c39ypw34gwjo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. Are Iran the unluckiest side in World Cup history?
+
+[原文] Iran had a place in the last 32 of the World Cup snatched away from them at the last minute not once but twice.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/clywd8pl09do?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 5. England labour past Panama to qualify for last 32 as group winners
 
 [原文] Goals from Jude Bellingham and Harry Kane help England secure a 2-0 win over Panama, as Thomas Tuchel's side qualify for the World Cup last 32 as winners of Group L.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cm2r8yg74pgo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. England in huge danger in third Test against NZ
-
-[原文] England’s deciding Test against New Zealand - and perhaps the future of the hosts’ management - hangs in the balance after a dramatic and fluctuating third day at Trent Bridge.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/ce3ewx2wxrro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘Every Year After’ Renewed for Season 2 at Amazon; Will Focus on Charlie’s Story From ‘One Golden Summer’ Sequel Book
+### 1. Jolin Tsai and Chang Chen-yue Lead the Pack at Golden Melody Awards
+
+[原文] Taipei Arena erupted on Saturday night as the 37th Golden Melody Awards – the Grammys of the Mandarin pop world – delivered one of its most memorable ceremonies, with pop titan Jolin Tsai walking away
+
+📎 [阅读原文](https://variety.com/2026/music/news/jolin-tsai-chang-chen-yue-golden-melody-awards-2026-1236796254/) — *Variety*
+
+### 2. ‘Every Year After’ Renewed for Season 2 at Amazon; Will Focus on Charlie’s Story From ‘One Golden Summer’ Sequel Book
 
 [原文] Get ready to return to Barry&#8217;s Bay: &#8220;Every Year After&#8221; has been renewed for a second season at Amazon&#8217;s Prime Video less than a month after its debut. Based on Carley Fortune&#
 
 📎 [阅读原文](https://variety.com/2026/tv/news/every-year-after-season-2-renewed-charlie-1236796154/) — *Variety*
 
-### 2. Elon Musk Posts Armie Hammer’s Controversial Comeback Film ‘Citizen Vigilante’ on X
+### 3. Elon Musk Posts Armie Hammer’s Controversial Comeback Film ‘Citizen Vigilante’ on X
 
 [原文] Elon Musk posted Armie Hammer’s “Citizen Vigilante” to his X account on Friday, sharing the controversial indie-actioner with his 240 million followers. The link was active for about 48 hours and went
 
 📎 [阅读原文](https://variety.com/2026/film/news/elon-musk-posts-armie-hammer-citizen-vigilante-1236796152/) — *Variety*
 
-### 3. Here’s How to Watch Xander Zayas vs. Jaron Ennis Boxing Pay-Per-View Live Online
+### 4. Here’s How to Watch Xander Zayas vs. Jaron Ennis Boxing Pay-Per-View Live Online
 
 [原文] The best boxers in the world travel to New York City, where Puerto Rican fighter Xander Zayas (23-0-0) defenses his WBO and WBA super welterweight titles against Philadelphia-born boxer Jaron &#8220;B
 
 📎 [阅读原文](https://variety.com/2026/shopping/news/how-to-watch-xander-zayas-vs-jaron-ennis-boxing-ppv-live-online-1236789133/) — *Variety*
 
-### 4. Cannes Lions: The Pitches, Panels, Parties and Prognostication That Resonated Most During a Scorching Week on the Croisette
+### 5. Cannes Lions: The Pitches, Panels, Parties and Prognostication That Resonated Most During a Scorching Week on the Croisette
 
 [原文] The biggest winners this past week at Cannes Lions were undoubtedly … the ice cream vendors. During a scorching week in the south of France, an estimated 13,000-plus Cannes Lions attendees hustled up 
 
 📎 [阅读原文](https://variety.com/2026/biz/news/cannes-lions-takeaways-creators-ai-teletubbies-1236796008/) — *Variety*
-
-### 5. Annecy Colombian Short ‘Once in a Body’: Fiction Rooted in Real Experiences
-
-[原文] For Colombian rising animation talent María Cristina Pérez, whose experimental short “Once in a Body” (“Una vez en un Cuerpo”) competed in the Annecy Animation Festival’s Perspectives sidebar, human c
-
-📎 [阅读原文](https://variety.com/2026/film/global/annecy-colombian-once-in-a-body-fiction-rooted-in-reality-1236795875/) — *Variety*
 
 ---
 
@@ -363,35 +363,35 @@ The post &#8216;Clutch&#8217; Drops an Hour of Gameplay Showcasing Street Ra
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Can Clusters of Human-Constructed Ponds in the Arizona Desert Save a Threatened Frog?
+### 1. What Happened When an LNG Giant Came to Town
+
+[原文] CAMERON, La.—Sherry Peshoff can see the steel wall from her front door. Her home is lifted 12 feet off the ground to protect it from stormwaters that surge in off the Gulf, but it’s not as high as the
+
+📎 [阅读原文](https://insideclimatenews.org/news/28062026/venture-global-lng-terminals-in-cameron-louisiana/) — *Inside Climate News*
+
+### 2. Can Clusters of Human-Constructed Ponds in the Arizona Desert Save a Threatened Frog?
 
 [原文] WHITE MOUNTAINS, Ariz.—As the warming climate drops less rain on the White Mountains and the thirsty atmosphere and soils suck up more of what does fall, the Chiricahua leopard frog has been threatene
 
 📎 [阅读原文](https://insideclimatenews.org/news/27062026/efforts-to-save-threatened-frog-in-arizona/) — *Inside Climate News*
 
-### 2. The Future of Duxbury Reef
+### 3. The Future of Duxbury Reef
 
 [原文] BOLINAS, Calif.—Kent Khtikian pointed at a seemingly barren inch of reef. His hair, curly, long and grey blew wildly in the wind underneath a tan cowboy hat. He hunched over and kneeled close to a tin
 
 📎 [阅读原文](https://insideclimatenews.org/news/27062026/california-duxbury-reef-marine-protected-areas/) — *Inside Climate News*
 
-### 3. How ‘Mother Trees’ Nurture Our Forests
+### 4. How ‘Mother Trees’ Nurture Our Forests
 
 [原文] From our collaborating partner “Living on Earth,” public radio&#8217;s environmental news magazine, an interview by host Steve Curwood and Jenni Doering with forest scientist Suzanne Simard. You might
 
 📎 [阅读原文](https://insideclimatenews.org/news/27062026/how-mother-trees-nurture-our-forests/) — *Inside Climate News*
 
-### 4. A Midwest Mayor Joins London Climate Week as a ‘Rational Optimist’ Who Aims to Get Things Done
+### 5. A Midwest Mayor Joins London Climate Week as a ‘Rational Optimist’ Who Aims to Get Things Done
 
 [原文] London Climate Action Week opened in the British capital just as an unprecedented heat wave gripped the country and mainland Europe. Among the tens of thousands of attendees at the global event were e
 
 📎 [阅读原文](https://insideclimatenews.org/news/26062026/columbia-missouri-mayor-at-london-climate-week/) — *Inside Climate News*
-
-### 5. Trump’s ‘Unprecedented’ Regulatory Rollbacks Fuel Surge in Protective Climate Lawsuits
-
-[原文] Sweeping revisions to U.S. climate policy in the first year of President Donald Trump’s second term have spawned a wave of protective litigation, legal challenges aimed not at advancing new climate go
-
-📎 [阅读原文](https://insideclimatenews.org/news/26062026/climate-lawsuits-surge-after-trump-regulatory-rollbacks/) — *Inside Climate News*
 
 ---
 
