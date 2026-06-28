@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年06月28日** | 生成时间: 2026-06-28 17:16
+**2026年06月28日** | 生成时间: 2026-06-28 21:55
 
 ---
 
@@ -16,11 +16,11 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Families calling out to loved ones trapped in rubble by Venezuela quakes
+### 1. Two boys rescued from Venezuela earthquake rubble after days of being trapped
 
-[原文] In La Guaira, desperate families keep vigil at buildings where they fear their relatives are trapped, but face an impossible task to move heavy debris.
+[原文] Rescuers spent six hours carefully digging to reach one of the boys, as many residents continue searching through the rubble by hand, still waiting for heavy machinery to arrive.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cp8l451420zo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 2. In Caracas, this feels like the hardest moment in Venezuela's modern history
 
@@ -34,11 +34,11 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Israel strikes southern Lebanon as Hezbollah condemns new deal
+### 4. Eleven killed after plane carrying skydivers crashes in eastern France
 
-[原文] Strikes have killed at least one person, state media say a day after Lebanon and Israel signed a framework agreement.
+[原文] The pilot and 10 passengers died in the incident, local officials said.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 5. Why Kim Jong Un never talks about his mother - or her controversial bloodline
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump again threatens Iran with annihilation as Kuwait and Bahrain report attacks
+### 1. A 'perfect storm' points to a much smaller U.S. auto market by 2040
+
+[原文] The auto industry is selling fewer cars--one forecaster says this is a fundamental change, and it is going to get worse.
+
+📎 [阅读原文](https://www.cnbc.com/2026/06/28/us-auto-market.html) — *CNBC*
+
+### 2. Trump again threatens Iran with annihilation as Kuwait and Bahrain report attacks
 
 [原文] Iran says it targeted U.S. military facilities in Kuwait and Bahrain following U.S. strikes on targets in and around the Strait of Hormuz.
 
 📎 [阅读原文](https://www.cnbc.com/2026/06/28/trump-threatens-iran-with-annihilation-kuwait-bahrain-report-attacks.html) — *CNBC*
 
-### 2. The memory shortage shaking Apple and Microsoft is 'existential crisis' for smaller players
+### 3. Seniors in Medicare are about to get landmark obesity drug coverage — but many may not know it yet
+
+[原文] Many seniors may be unaware of the landmark coverage shift starting on July 1, with limited advertising seen from the government or Eli Lilly and Novo.
+
+📎 [阅读原文](https://www.cnbc.com/2026/06/28/medicare-will-soon-cover-obesity-drugs-but-many-seniors-may-not-know.html) — *CNBC*
+
+### 4. The memory shortage shaking Apple and Microsoft is 'existential crisis' for smaller players
 
 [原文] While Apple and Microsoft raise prices on key devices to help cover the soaring costs of memory, smaller consumer electronics companies are in dire straits.
 
 📎 [阅读原文](https://www.cnbc.com/2026/06/27/memory-crunch-shaking-apple-and-microsoft-existential-for-small-guys.html) — *CNBC*
 
-### 3. From protein coffee to CBD soda: How brands are cashing in on the functional beverage boom
+### 5. From protein coffee to CBD soda: How brands are cashing in on the functional beverage boom
 
 [原文] "We're selling [almost] as much protein cold foam as we do flat whites," Starbuck's EMEA Manager of Beverage Development Sam Henderson told CNBC.
 
 📎 [阅读原文](https://www.cnbc.com/2026/06/28/protein-coffee-cbd-soda-starbucks-functional-beverage-boom.html) — *CNBC*
-
-### 4. SpaceX to join the Nasdaq-100 in a fast-tracked process that will drive huge ETF buying demand
-
-[原文] Adding SpaceX this quickly would make the Elon Musk company one of the first beneficiaries of Nasdaq's recently adopted fast-track inclusion framework.
-
-📎 [阅读原文](https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100.html) — *CNBC*
-
-### 5. Berkshire CEO Greg Abel sworn in as U.S. citizen at baseball game
-
-[原文] Abel, a longtime Iowa resident who was born in the Canadian city of Edmonton in 1962, was among the roughly two dozen people from 16 countries who participated in an annual naturalization ceremony hos
-
-📎 [阅读原文](https://www.cnbc.com/2026/06/27/berkshire-ceo-greg-abel-sworn-in-as-us-citizen-at-baseball-game.html) — *CNBC*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Job done - but England will not win World Cup unless they improve
+### 1. USMNT squad is full of leaders for World Cup knock...
 
-[原文] England did their job topping the group - but they can forget winning the World Cup if they do not improve, writes Phil McNulty.
+[原文] A quick look at the USMNT roster reveals it is rife with leaders of different types and temperaments, which is helping the team find success.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cg4wnp592z1o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49196528/usmnt-squad-full-leaders-world-cup-knockouts-not-just-captain-ream) — *ESPN*
 
-### 2. New deal, new beginnings & a sudden exit - Clarke's Scotland timeline
+### 2. Overreacting to World Cup bracket: Which contender...
 
-[原文] BBC Scotland charts the trajectory of Steve Clarke's last month as Scotland head coach.
+[原文] How far will the U.S. go, and who should be the favorites to win the World Cup? Let's judge some overreactions.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ce8mqmg327vo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49167690/judging-overreactions-world-cup-bracket-knockout-rounds-usmnt-argentina-france-cape-verde) — *ESPN*
 
-### 3. What you need to know about England's opponents DR Congo
+### 3. Mercury's Tibbetts rips WNBA after Thomas ruling
 
-[原文] England will face DR Congo in the round of 32. Here is what you need to know about them.
+[原文] Mercury coach Nate Tibbetts called out the WNBA and defended his star player, Alyssa Thomas, following her suspension for a play involving Fever guard Caitlin Clark.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c39ypw34gwjo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/wnba/story/_/id/49200618/mercury-nate-tibbetts-irked-wnba-suspension-process) — *ESPN*
 
-### 4. Are Iran the unluckiest side in World Cup history?
+### 4. Algeria and Austria's dramatic draw sends Iran out...
 
-[原文] Iran had a place in the last 32 of the World Cup snatched away from them at the last minute not once but twice.
+[原文] Austria and Algeria played to a thrilling 3-3 draw Saturday night in what amounted to a win-win result in their World Cup group stage finale, allowing both to advance to the knockout round while elimi
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/clywd8pl09do?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49203568/algeria-austria-iran-2026-world-cup-draw-advance-eliminated) — *ESPN*
 
-### 5. England labour past Panama to qualify for last 32 as group winners
+### 5. Ghana boss fears 48-team WC 'vulgar,' 'ordinary'
 
-[原文] Goals from Jude Bellingham and Harry Kane help England secure a 2-0 win over Panama, as Thomas Tuchel's side qualify for the World Cup last 32 as winners of Group L.
+[原文] Ghana manager Carlos Queiroz has criticized the expansion of the World Cup to 48 teams, expressing his fear that the move risks turning it into a "vulgar, ordinary competition."
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cm2r8yg74pgo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49205822/carlos-queiroz-world-cup-vulgar-ordinary-competition-ghana) — *ESPN*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Jolin Tsai and Chang Chen-yue Lead the Pack at Golden Melody Awards
+### 1. Prime Video Reveals Young Stars of German-Language Original Series ‘Superior,’ Set in the World of Luxury Hotels (EXCLUSIVE)
+
+[原文] Prime Video has revealed the cast of its German-language original series “Superior,” which is set in the world&#8217;s best hotel management school. Filming is underway in Bavaria and Switzerland. The
+
+📎 [阅读原文](https://variety.com/2026/tv/global/prime-video-german-original-series-superior-set-1236795928/) — *Variety*
+
+### 2. Jolin Tsai and Chang Chen-yue Lead the Pack at Golden Melody Awards
 
 [原文] Taipei Arena erupted on Saturday night as the 37th Golden Melody Awards – the Grammys of the Mandarin pop world – delivered one of its most memorable ceremonies, with pop titan Jolin Tsai walking away
 
 📎 [阅读原文](https://variety.com/2026/music/news/jolin-tsai-chang-chen-yue-golden-melody-awards-2026-1236796254/) — *Variety*
 
-### 2. ‘Every Year After’ Renewed for Season 2 at Amazon; Will Focus on Charlie’s Story From ‘One Golden Summer’ Sequel Book
+### 3. ‘Every Year After’ Renewed for Season 2 at Amazon; Will Focus on Charlie’s Story From ‘One Golden Summer’ Sequel Book
 
 [原文] Get ready to return to Barry&#8217;s Bay: &#8220;Every Year After&#8221; has been renewed for a second season at Amazon&#8217;s Prime Video less than a month after its debut. Based on Carley Fortune&#
 
 📎 [阅读原文](https://variety.com/2026/tv/news/every-year-after-season-2-renewed-charlie-1236796154/) — *Variety*
 
-### 3. Elon Musk Posts Armie Hammer’s Controversial Comeback Film ‘Citizen Vigilante’ on X
+### 4. Elon Musk Posts Armie Hammer’s Controversial Comeback Film ‘Citizen Vigilante’ on X
 
 [原文] Elon Musk posted Armie Hammer’s “Citizen Vigilante” to his X account on Friday, sharing the controversial indie-actioner with his 240 million followers. The link was active for about 48 hours and went
 
 📎 [阅读原文](https://variety.com/2026/film/news/elon-musk-posts-armie-hammer-citizen-vigilante-1236796152/) — *Variety*
 
-### 4. Here’s How to Watch Xander Zayas vs. Jaron Ennis Boxing Pay-Per-View Live Online
+### 5. Here’s How to Watch Xander Zayas vs. Jaron Ennis Boxing Pay-Per-View Live Online
 
 [原文] The best boxers in the world travel to New York City, where Puerto Rican fighter Xander Zayas (23-0-0) defenses his WBO and WBA super welterweight titles against Philadelphia-born boxer Jaron &#8220;B
 
 📎 [阅读原文](https://variety.com/2026/shopping/news/how-to-watch-xander-zayas-vs-jaron-ennis-boxing-ppv-live-online-1236789133/) — *Variety*
-
-### 5. Cannes Lions: The Pitches, Panels, Parties and Prognostication That Resonated Most During a Scorching Week on the Croisette
-
-[原文] The biggest winners this past week at Cannes Lions were undoubtedly … the ice cream vendors. During a scorching week in the south of France, an estimated 13,000-plus Cannes Lions attendees hustled up 
-
-📎 [阅读原文](https://variety.com/2026/biz/news/cannes-lions-takeaways-creators-ai-teletubbies-1236796008/) — *Variety*
 
 ---
 
@@ -477,35 +477,35 @@ The post &#8216;Clutch&#8217; Drops an Hour of Gameplay Showcasing Street Ra
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. California Poaches NYC’s Tourism Chief Ahead of 2028 Olympics
+### 1. Going it Alone: Why Hotel Owners Are Dropping The Big Brands
+
+[原文] Franchise agreements, like casinos, tend to favor the house. Now, as a generation of hotel contracts begin to expire, some owners are deciding to walk away from the table.
+
+📎 [阅读原文](https://skift.com/2026/06/28/going-it-alone-why-hotel-owners-are-dropping-the-big-brands/) — *Skift*
+
+### 2. California Poaches NYC’s Tourism Chief Ahead of 2028 Olympics
 
 [原文] Julie Coker is leaving NYC Tourism after less than two years. She needs to turn around sluggish inbound tourism and needs to move fast: Los Angeles is hosting the 2028 Olympic Games.
 
 📎 [阅读原文](https://skift.com/2026/06/26/visit-california-julie-coker-ceo/) — *Skift*
 
-### 2. Fewer Flights, Higher Fares, More Travelers: The July 4 Squeeze
+### 3. Fewer Flights, Higher Fares, More Travelers: The July 4 Squeeze
 
 [原文] Going into what is expected to be a busy July 4 travel season, airlines are cutting capacity as they hope to hold onto their pricing gains.
 
 📎 [阅读原文](https://skift.com/2026/06/26/airlines-are-trimming-capacity-ahead-of-july-4/) — *Skift*
 
-### 3. Delta Makes Moves to Catch Up With United in the Pacific
+### 4. Delta Makes Moves to Catch Up With United in the Pacific
 
 [原文] Delta has spent much of 2026 building up its presence in Asia partly in an attempt to gain more market share in the Pacific from its major rival in the region, United.
 
 📎 [阅读原文](https://skift.com/2026/06/26/delta-makes-moves-to-close-the-pacific-gap-with-united/) — *Skift*
 
-### 4. One of the Largest Cash Piles in OTA Travel Sits … Largely Stuck
+### 5. One of the Largest Cash Piles in OTA Travel Sits … Largely Stuck
 
 [原文] Trip.com’s financials are the clearest single document in travel for understanding what “China risk” actually looks like when it shows up in a balance sheet.
 
 📎 [阅读原文](https://skift.com/2026/06/26/one-of-the-largest-cash-piles-in-ota-travel-sits-largely-stuck/) — *Skift*
-
-### 5. Dubai’s Rove Hotels Targets Saudi Arabia’s Mid-Scale Gap Before the Events Crunch Hits
-
-[原文] Mid-scale supply in Saudi Arabia is structurally short, and the events pipeline — Expo 2030, the 2034 World Cup — will make that shortage acute. Rove is moving early, but it won’t be the only brand do
-
-📎 [阅读原文](https://skift.com/2026/06/26/dubais-rove-hotels-targets-saudi-arabias-mid-scale-gap-before-the-events-crunch-hits/) — *Skift*
 
 ---
 
@@ -515,7 +515,7 @@ The post &#8216;Clutch&#8217; Drops an Hour of Gameplay Showcasing Street Ra
 - **💰 经济财经**: CNBC
 - **💻 科技**: TechCrunch
 - **🔬 科学**: Science Daily
-- **⚽ 体育**: BBC Sport
+- **⚽ 体育**: ESPN
 - **🎬 娱乐**: Variety
 - **🏥 健康**: WHO
 - **🎮 游戏**: IGN
