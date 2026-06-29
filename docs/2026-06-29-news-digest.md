@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年06月29日** | 生成时间: 2026-06-29 19:07
+**2026年06月29日** | 生成时间: 2026-06-29 23:53
 
 ---
 
@@ -22,29 +22,29 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/clyw3rkj2p7o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. US says it has agreed to 'stand down' after exchange of strikes with Iran
+### 2. Sixth person dies after shooting at youth welfare centre in Germany
+
+[原文] Four women and a man were shot dead at the scene while a sixth person died in hospital, police say.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. Supreme Court rejects Trump's appeal of E Jean Carroll's sexual abuse case
+
+[原文] The decision means the US president will now have to pay her the $5m (£3.6m) in damages she had been awarded.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cn8q2z5wpn2o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. DR Congo bans mass gatherings in the  capital to prevent spread of Ebola
+
+[原文] Opposition politicians accuse the government of using the outbreak to halt a planned protest.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c992k7zk981o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. US says it has agreed to 'stand down' after exchange of strikes with Iran
 
 [原文] A series of strikes over the weekend saw the US and Iran accuse each other of violating the ceasefire agreement.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 3. Pakistani strikes kill dozens in Afghanistan
-
-[原文] The Taliban government says civilians were killed, while Pakistan maintains they targeted militants.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy8wygyed0wo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. South Korea football coach quits as president calls for probe into World Cup loss
-
-[原文] South Korea was eliminated after missing out on a spot among the eight best third-placed teams.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cdx7jk0kq4vo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. 'You are Canadian heroes' - the forgotten hosts making World Cup history
-
-[原文] Canada are making history at this World Cup with a run that is likely to change the face of football in the country forever.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cvg4pen8xq7o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Comcast soars 23% after announcing it will spin off media and tech wings into separate public companies
+### 1. Supreme Court rules Trump cannot fire Fed Governor Lisa Cook for now
 
-[原文] Comcast said it will separate into two publicly traded companies through a tax-free spin-off of NBCUniversal and Sky
+[原文] The ruling by the Supreme Court means that Lisa Cook will remain as a Federal Reserve governor as her lawsuit challenging Trump's effort to fire her proceeds.
+
+📎 [阅读原文](https://www.cnbc.com/2026/06/29/supreme-court-lisa-cook-trump-federal-reserve.html) — *CNBC*
+
+### 2. Comcast jumps 9% after announcing it will spin off NBCUniversal and Sky from cable business
+
+[原文] Comcast said it will separate into two publicly traded companies through a tax-free spinoff of NBCUniversal and Sky.
 
 📎 [阅读原文](https://www.cnbc.com/2026/06/29/comcast-announces-it-will-spin-off-media-and-tech-wings-into-separate-public-companies.html) — *CNBC*
 
-### 2. SpaceX's $25 billion bond sale drives huge demand - and a potential headache for investors
+### 3. Trump says U.S. and Iran to hold fresh talks in Qatar on Tuesday following weekend clashes
 
-[原文] SpaceX’s $25 billion debt sale drew heavy demand, but analysts warn of capital spending, refinancing and investor concentration risks.
+[原文] The U.S. and Iran are poised to hold fresh talks on Tuesday in Qatar's capital, President Donald Trump said via social media on Monday.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/29/spacex-debt-diversification-equity-bond-investors-analysts.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/29/trump-us-iran-talks-qatar-hormuz.html) — *CNBC*
 
-### 3. Trump bought as much as $5 million in Axon stock before ICE sought $220 million Taser deal
+### 4. Kalshi traders expect this week's jobs report will disappoint Wall Street outlook
 
-[原文] Axon Enterprise has ramped up lobbying in Congress on federal law-enforcement technology as ICE pursues a potential $220 million Taser deal.
+[原文] Dow Jones expects over 118,000 jobs will be added, but Kalshi traders give under 60% that over 100,000 jobs will be added.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/29/trump-axon-stock-ice-taser-immigration-enforcement.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/29/kalshi-traders-expect-this-weeks-jobs-report-will-disappoint-wall-street-outlook.html) — *CNBC*
 
-### 4. Putin’s fuel shortage admission signals growing strain on Russia’s energy infrastructure
+### 5. This insurance stock is on an impressive run. How to ride the momentum with less risk
 
-[原文] Putin's comments mark the first time he has detailed the extent to which Ukraine's deep-strike successes have hampered Russia's fuel production.
+[原文] MetLife (MET) is well-positioned in the life insurance and benefits sector, exhibiting fundamental momentum that the broader market hasn't fully priced in.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/29/putin-russia-fuel-shortages-ukraine-drone-strikes.html) — *CNBC*
-
-### 5. A 'perfect storm' points to a much smaller U.S. auto market by 2040
-
-[原文] The auto industry is selling fewer cars--one forecaster says this is a fundamental change, and it is going to get worse.
-
-📎 [阅读原文](https://www.cnbc.com/2026/06/28/us-auto-market.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/29/this-insurance-stock-is-on-an-impressive-run-how-to-ride-the-momentum-with-less-risk.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. California law targeting loud streaming ads takes effect on July 1
+### 1. Rocket Lab continues buying spree by acquiring satellite company Iridium
 
-[原文] Streaming ads might be getting a lot quieter.
+[原文] The all-stock deal values Iridium at $8 billion, and gives Rocket Lab even more firepower to compete against Amazon and SpaceX.
 
-📎 [阅读原文](https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/06/29/rocket-lab-continues-buying-spree-by-acquiring-satellite-company-iridium/) — *TechCrunch*
 
-### 2. Ford rehires ‘gray beard’ engineers after AI falls short
+### 2. Robot hand company settles Tesla trade secret suit and announces $11M raise
 
-[原文] "Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”
+[原文] The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands.
 
-📎 [阅读原文](https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/) — *TechCrunch*
 
-### 3. Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from too much convenience
+### 3. Pocket raises $11M in bet on rising demand for AI note-taking devices
 
-[原文] Has Silicon Valley been building the wrong things?
+[原文] Pocket sells a $129 credit card-shaped puck, which sticks to the back of your phone, and promises unlimited recordings, transcriptions, and to-do items.
 
-📎 [阅读原文](https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/06/29/pocket-raises-11m-in-bet-on-rising-demand-for-ai-note-taking-devices/) — *TechCrunch*
 
-### 4. TechCrunch Mobility: All eyes on Tesla FSD
+### 4. Flipper Device’s new Busy Bar is a customizable display for productivity
 
-[原文] Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.
+[原文] Flipper Device's new Busy Bar will retail for $249.
 
-📎 [阅读原文](https://techcrunch.com/2026/06/28/techcrunch-mobility-all-eyes-on-tesla-fsd/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/06/29/flipper-devices-new-busy-bar-is-a-customizable-display-for-productivity/) — *TechCrunch*
 
-### 5. Why Wall Street thinks US memory maker Micron is the next Nvidia
+### 5. Omen AI’s plan to optimize data centers is all wet
 
-[原文] Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron.
+[原文] Omen AI raised a $31 million Series A to monitor chip coolant and stop bacterial outbreaks in data centers.
 
-📎 [阅读原文](https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. More change needed after Stokes retires - Vaughan
+### 1. Stokes' England career ends with NZ series defeat
 
-[原文] Former captain Michael Vaughan says he will be "absolutely staggered" if there is not more leadership change in English cricket after Ben Stokes' retirement.
+[原文] Ben Stokes’ storied England career ends in a series defeat by New Zealand, who wrap up the third and deciding Test on the final day in Nottingham.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/ce8ke6y8egzo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c9q2peyley1o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Why Netherlands v Morocco is more than just a match
+### 2. New Man City boss Maresca to pay compensation to Chelsea
 
-[原文] Morocco’s World Cup meeting with the Netherlands tells a story about migration, identity and the battle for Dutch-born talent.
+[原文] Enzo Maresca signs three-year Manchester City deal after agreeing to pay compensation to former club Chelsea.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/clye1l3m9k4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cewq88wl2qxo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. I'd ticked all the boxes so decision to resign easy - Clarke
+### 3. Draper out of Wimbledon as injury struggles continue
 
-[原文] Steve Clarke says it was an easy decision to step down as Scotland head coach because he always planned to depart if they did not qualify for the knock-out stages.
+[原文] Britain's Jack Draper says he is "devastated" after withdrawing from Wimbledon because of the arm injury which has stopped him playing for most of the past year.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c3ry1jyzpejo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/c9821er1yg2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Conspiracy or chaos? Algeria & Austria defend 'unexpected' draw
+### 4. Africa's World Cup success leaves Asia looking for answers
 
-[原文] The 'Disgrace of Gijon' - an infamous match at the 1982 World Cup in Spain - has followed Austria and Algeria for 44 years. Did history repeat itself in Algeria's 3-3 draw with Austria on Sunday?
+[原文] The 2026 World Cup has been an amazing story for African football - while Asia has been left to reflect on failure.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ckg4v1wvwxxo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c2ey1pwkz3wo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. When five Wimbledon titles in one weekend changed British tennis
+### 5. NFL record holder Johnson reveals ALS diagnosis
 
-[原文] A decade after Andy Murray's 2016 men's singles title, we look at the legacy of the golden weekend where five Wimbledon trophies were won by British players.
+[原文] NFL record holder Chris Johnson reveals that he has been diagnosed with amyotrophic lateral sclerosis (ALS).
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cgev5n0vqv3o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/american-football/articles/cy049dkkp8zo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Comcast to Split NBCUniversal and Cable Operations Into Two Companies
+### 1. ‘Supergirl’ Braces for $100 Million Loss: What DC Studios Should Learn From Its Box Office Bomb
 
-[原文] Comcast, just months after shedding most of its cable TV business into Versant Media, is now again cleaving itself into two separate companies: one housing its namesake cable and tech operations, and 
+[原文] In &#8220;Supergirl,&#8221; a melodramatic cover of Jimmy Eat World&#8217;s &#8220;The Middle&#8221; scores a climactic battle sequence, with the song&#8217;s lyrics meant to offer encouragement to th
 
-📎 [阅读原文](https://variety.com/2026/tv/news/comcast-split-nbcuniversal-cable-two-companies-1236798205/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/box-office/supergirl-box-office-bomb-dc-studios-1236797855/) — *Variety*
 
-### 2. BBC Comes to Jesus: Broadcaster Sets ‘Landmark’ Historical Docuseries on Christ
+### 2. The Best Albums of 2026 (So Far)
 
-[原文] The BBC is experiencing a “come to Jesus” moment. That’s not a reference to any self-reflection the corporation may have undergone in light of the many scandals it has faced over the past decade, but 
+[原文] Dear 2026: You seem pretty rad, for a year so potentially in malaise. At least, that&#8217;s the way we feel every time we turn off the news and turn on the music that takes us away from all that. The
 
-📎 [阅读原文](https://variety.com/2026/tv/global/bbc-jesus-christ-docuseries-1236798173/) — *Variety*
+📎 [阅读原文](https://variety.com/lists/best-albums-so-far-2026-mid-year/) — *Variety*
 
-### 3. Newly Restored ‘Deadly Sweet’ by Italian Softcore Erotic Movies Director Tinto Brass Set to Pre-Open Venice Film Festival
+### 3. ‘Backrooms’ Extended Version Coming to Theaters With 15 Minutes of Bonus Footage
 
-[原文] The upcoming Venice Film Festival has set the world premiere of the restored version of 1967 cult movie &#8220;Deadly Sweet,&#8221; directed by Italian softcore erotic movies maestro Tinto Brass, as i
+[原文] &#8220;Backrooms,&#8221; A24&#8217;s surprise horror hit, is looking to scare up more business over the July 4th holiday. The indie studio is re-releasing &#8220;Backrooms&#8221; with 15 minutes of bo
 
-📎 [阅读原文](https://variety.com/2026/film/festivals/restored-deadly-sweet-erotic-tinto-brass-venice-festival-1236798160/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/backrooms-extended-version-coming-to-theaters-15-minutes-bonus-footage-a24-1236798460/) — *Variety*
 
-### 4. ‘Spirited Away’ Stage Production Sets World Tour, Including London Return – Global Bulletin
+### 4. Dead Newborn Baby Found in Restroom at Electric Forest Music Festival
 
-[原文] GHIBLI GOES GLOBAL Toho Co., Ltd. has unveiled a 2026–2028 world tour of its stage adaptation of Studio Ghibli&#8217;s Oscar-winning animated feature &#8220;Spirited Away,&#8221; including a return en
+[原文] A deceased newborn baby was found in a restroom at the Electric Forest music festival on Sunday morning, according to Michigan State Police. As CBS News reports, the body was found in the bathroom of 
 
-📎 [阅读原文](https://variety.com/2026/theater/news/spirited-away-stage-world-tour-1236798164/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/dead-baby-electric-forest-bathroom-1236798447/) — *Variety*
 
-### 5. Christopher Eccleston, Mel Giedroyc, Steve Pemberton Among New Stars Added to ‘White Rabbit Red Rabbit’ London West End Run
+### 5. Annecy 2026: 10 Takeaways From Oscar Talk to Anime’s Sway, Big Hollywood Plays and Why a Short Became the Fest’s Most Talked About Film
 
-[原文] Eight new performers have joined the West End run of &#8220;White Rabbit Red Rabbit&#8221; at London&#8217;s Duchess Theatre, with Christopher Eccleston, Mel Giedroyc, Steve Pemberton, Munya Chawawa, 
+[原文] The Annecy Animation Festival’s 2026 edition was one of records. Badge holders hit 19,100, an all time high and a signal of animation’s dramatic growth, up from 7,100 accredited attendees in 2013.&#16
 
-📎 [阅读原文](https://variety.com/2026/theater/news/christopher-eccleston-mel-giedroyc-white-rabbit-red-rabbit-1236791393/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/annecy-2026-10-takeaways-oscar-talk-anime-ricky-gervais-1236798354/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Hideo Kojima and More Pay Tribute to Akihiro Miwa, the Iconic Japanese Singer and Actor Behind Wolf Goddess Moro in Princess Mononoke, Who Has Died Aged 91
+### 1. Sonic Pico Park Preview: How An Unlikely Sonic Collab Stole My Heart At Gaming’s Big Show
 
-[原文] Japanese news sources including Mainichi announced over the weekend that iconic Japanese singer and actor Akihiro Miwa passed away aged 91 on June 20.
+[原文] After playing Sonic Pico Park, I'm convinced that this co-op 2D puzzle-platformer is a match made in throwback heaven. We talked with the developers about how they created it.
 
-📎 [阅读原文](https://www.ign.com/articles/hideo-kojima-and-more-pay-tribute-to-akihiro-miwa-the-iconic-japanese-singer-and-actor-behind-wolf-goddess-moro-in-princess-mononoke-who-has-died-aged-91) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/sonic-pico-park-preview-how-an-unlikely-sonic-collab-stole-my-heart-at-gamings-big-show) — *IGN*
 
-### 2. Marvel Tōkon: Fighting Souls Reveals Last 3 Playable Characters — and a Blink-and-You’ll-Miss-It Look at a PlayStation Icon
+### 2. Resident Evil Veronica Finally Gives Claire Redfield Her Due
 
-[原文] Marvel Tōkon: Fighting Souls has revealed the final three playable characters rounding out its roster, and there are a number of fan-favorites in there as well as a quick look at a PlayStation icon.
+[原文] Despite being in plenty of spin-offs and crossovers, Claire Redfield is in barely any of the mainline Resident Evil games. After a long time away, RE Veronica is finally set to give Claire her due.
 
-📎 [阅读原文](https://www.ign.com/articles/marvel-tokon-fighting-souls-reveals-last-3-playable-characters-and-a-blink-and-youll-miss-it-look-at-a-playstation-icon) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/resident-evil-veronica-finally-gives-claire-redfield-her-due) — *IGN*
 
-### 3. Dead or Alive 6 Last Round Pummeled by Negative Reviews as Koei Tecmo Asks Players to Rebuy DLC
+### 3. Steam Hit Meccha Chameleon Was Made by Just 2 People in 2 Months — and Now It's Sold Over 10 Million Copies With Zero Marketing
 
-[原文] Dead or Alive 6 Last Round has fallen to "Mostly Negative" reviews on Steam as players warn of persistent bugs, lacking features, and a requirement to rebuy some previously owned DLC.
+[原文] Launching on June 10, Meccha Chameleon is a Japanese indie game that has exploded in popularity on Steam. In just 16 days, the game surpassed over 10 million sales. Over on X, one of the developers ha
 
-📎 [阅读原文](https://www.ign.com/articles/dead-or-alive-6-last-round-pummeled-by-negative-reviews-as-koei-tecmo-asks-players-to-rebuy-dlc) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/steam-hit-meccha-chameleon-was-made-by-just-2-people-in-2-months-and-now-its-sold-over-10-million-copies-with-zero-marketing) — *IGN*
 
-### 4. SNK Explains Why They Couldn’t Make Terry Bogard Explode While Fighting Kenshiro in City of the Wolves
+### 4. Nex Playground Review
 
-[原文] SNK told us how they managed to pull off one of Kenshiro's most iconic moves without sacrificing their Teen ESRB rating.
+暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/snk-explains-why-they-couldnt-make-terry-bogard-explode-while-fighting-kenshiro-in-city-of-the-wolves) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/nex-playground-review) — *IGN*
 
-### 5. House of the Dragon Season 3: Helaena’s “Strange” Comment Hints at a Major Fan Theory
+### 5. 'It Is Not Realistic for Us to Absorb All Component Cost Increases' — Sony Says It Won't Sell Hardware at a 'Significant' Loss as Concern Grows Over PS6 Price
 
-[原文] “This is strange. It isn’t the season.” House of the Dragon: Season 3, Episode 2 includes that brief but notable dialogue spoken by Helaena Targaryen, lines that demand closer scrutiny given her preco
+[原文] Sony has insisted it has no plans to sell hardware at a “significant” loss, with concern growing over the potential price of the PlayStation 6 amid the ongoing RAMpocalypse.
 
-📎 [阅读原文](https://www.ign.com/articles/house-of-the-dragon-season-3-helaena-fan-theory-caterpillar) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/it-is-not-realistic-for-us-to-absorb-all-component-cost-increases-sony-says-it-wont-sell-hardware-at-a-significant-loss-as-concern-grows-over-ps6-price) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Dutch Startup Wants to Build a Supercar You’ll Straddle Instead of Sit In
+### 1. Toyota Sales Keep Sinking in 2026: The Downshift
+
+[原文] Toyota just recorded its fourth-straight month of global sales decrease due to supply challenges in the Middle East and strong competition in China.
+The post Toyota Sales Keep Sinking in 2026: The Dow
+
+📎 [阅读原文](https://www.thedrive.com/news/toyota-sales-keep-sinking-in-2026-the-downshift) — *The Drive*
+
+### 2. Dutch Startup Wants to Build a Supercar You’ll Straddle Instead of Sit In
 
 [原文] Is this necessary? Probably not. But it's a good way for a fledgling automaker to get attention.
 The post Dutch Startup Wants to Build a Supercar You&#8217;ll Straddle Instead of Sit In appeared first
 
 📎 [阅读原文](https://www.thedrive.com/news/dutch-startup-wants-to-build-a-supercar-youll-straddle-instead-of-sit-in) — *The Drive*
 
-### 2. Your Kids’ School Bus Is About to Become a Roaming Surveillance Vehicle
+### 3. Your Kids’ School Bus Is About to Become a Roaming Surveillance Vehicle
 
 [原文] A company that sells cameras to catch drivers illegally passing stopped school buses wants to turn them into license plate readers.
 The post Your Kids&#8217; School Bus Is About to Become a Roaming Su
 
 📎 [阅读原文](https://www.thedrive.com/news/your-kids-school-bus-is-about-to-become-a-roaming-surveillance-vehicle) — *The Drive*
 
-### 3. EVs Really Are Better for the Planet Than Gas Cars, but Their Power Source Matters: Study
+### 4. EVs Really Are Better for the Planet Than Gas Cars, but Their Power Source Matters: Study
 
 [原文] EVs substantially reduce emissions, but the exact amount can vary significantly by region, the study says.
 The post EVs Really Are Better for the Planet Than Gas Cars, but Their Power Source Matters: 
 
 📎 [阅读原文](https://www.thedrive.com/news/evs-really-are-better-for-the-planet-than-gas-cars-but-their-power-source-matters-study) — *The Drive*
 
-### 4. Hyundai and Kia Want To Sanitize Car Interiors With UV Light
+### 5. Hyundai and Kia Want To Sanitize Car Interiors With UV Light
 
 [原文] The Korean automakers supersized the same tech that cleans phones and toothbrushes to clean entire vehicle cabins.
 The post Hyundai and Kia Want To Sanitize Car Interiors With UV Light appeared first 
 
 📎 [阅读原文](https://www.thedrive.com/news/hyundai-and-kia-want-to-sanitize-car-interiors-with-uv-light) — *The Drive*
-
-### 5. Ian Callum Didn’t Design the Jaguar XJ220, but This Is What It Would Look Like if He Did
-
-[原文] The former Jaguar design boss reimagined and updated the automaker's legendary supercar.
-The post Ian Callum Didn’t Design the Jaguar XJ220, but This Is What It Would Look Like if He Did appeared firs
-
-📎 [阅读原文](https://www.thedrive.com/news/ian-callum-didnt-design-the-jaguar-xj220-but-this-is-what-it-would-look-like-if-he-did) — *The Drive*
 
 ---
 
@@ -439,35 +439,35 @@ The post Ian Callum Didn’t Design the Jaguar XJ220, but This Is What It Would 
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. French Montana, Max B, and Rick Ross Perform at BET Awards 2026
+### 1. Bruce Springsteen, Alicia Keys Honor Clive Davis at Funeral
+
+[原文] The service featured performances from Kenny G and Jennifer Hudson, eulogies from Barry Manilow and Dionne Warwick, and a letter from Paul Simon
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/clive-davis-funeral-bruce-springsteen-alicia-keys-1235585495/) — *Rolling Stone*
+
+### 2. Body of Deceased Newborn Found in Portable Restroom at Electric Forest Festival
+
+[原文] Police are still investigating the discover, asking anyone with information to come forward
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/electric-forest-festival-body-newborn-portable-toilet-1235585847/) — *Rolling Stone*
+
+### 3. French Montana, Max B, and Rick Ross Perform at BET Awards 2026
 
 [原文] The trio brought New York and Miami vibes to L.A. with their dual performance
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/rick-ross-performance-bet-awards-2026-1235582446/) — *Rolling Stone*
 
-### 2. BET Awards 2026: The Complete Winners List
+### 4. BET Awards 2026: The Complete Winners List
 
 [原文] The full rundown of who won what at Sunday night’s awards ceremony
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/bet-awards-2026-complete-winners-list-1235581172/) — *Rolling Stone*
 
-### 3. Cardi B Brings ‘Am I the Drama?’ to the 2026 BET Awards With Fiery Performance
+### 5. Cardi B Brings ‘Am I the Drama?’ to the 2026 BET Awards With Fiery Performance
 
 [原文] The rapper returned to the BET Awards stage with a high-octane set full of songs from her most recent album, including a pointed diss aimed at BIA
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/cardi-b-performs-2026-bet-awards-1235585722/) — *Rolling Stone*
-
-### 4. Teyana Taylor Accepts Icon of the Year Honor at BET Awards 2026: ‘I’m Accepting What I’ve Earned with Gratitude’
-
-[原文] The multidisciplinary artist delivered an emotional speech after Janet Jackson presented her with the honor
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/teyana-taylor-bet-awards-speech-icon-of-the-year-2026-1235582466/) — *Rolling Stone*
-
-### 5. T.I. Performs ‘Top Back’ and ‘Let ‘Em Know’ at BET Awards 2026
-
-[原文] The Atlanta native was nominated for three awards at this year's ceremony
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/t-i-performance-bet-awards-2026-1235582454/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post Ian Callum Didn’t Design the Jaguar XJ220, but This Is What It Would 
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. India’s Next Hotel Boom Is Being Built by Companies That Don’t Run Hotels
+### 1. MakeMyTrip and Cleartrip Both Just Launched Creator Programs. The Models Are Different — For Now
+
+[原文] Two near-identical launches in five weeks prove that creator-led travel commerce is here. The hard part now is proving that a reel can turn into a booking, and deciding how much the companies are will
+
+📎 [阅读原文](https://skift.com/2026/06/29/makemytrip-and-cleartrip-both-just-launched-creator-programs-the-models-are-different-for-now/) — *Skift*
+
+### 2. Skift Data & AI Summit 2026 Roundtable: When AI Knows Travelers Better Than Brands Do, Who Owns the Relationship?
+
+[原文] What happens when an AI assistant knows a traveler better than the brands competing for their business? At Skift Data + AI Summit 2026, industry leaders explored how AI is redefining personalization, 
+
+📎 [阅读原文](https://skift.com/2026/06/29/data-ownership-in-the-age-of-ai/) — *Skift*
+
+### 3. India’s Next Hotel Boom Is Being Built by Companies That Don’t Run Hotels
 
 [原文] As developers race to own hotel assets, hospitality brands with their 'asset-light' and 'asset-right' strategies seem content managing them.
 
 📎 [阅读原文](https://skift.com/2026/06/29/indias-next-hotel-boom-is-being-built-by-companies-that-dont-run-hotels/) — *Skift*
 
-### 2. Going it Alone: Why Hotel Owners Are Dropping The Big Brands
+### 4. Going it Alone: Why Hotel Owners Are Dropping The Big Brands
 
 [原文] Franchise agreements, like casinos, tend to favor the house. Now, as a generation of hotel contracts begin to expire, some owners are deciding to walk away from the table.
 
 📎 [阅读原文](https://skift.com/2026/06/28/going-it-alone-why-hotel-owners-are-dropping-the-big-brands/) — *Skift*
 
-### 3. California Poaches NYC’s Tourism Chief Ahead of 2028 Olympics
+### 5. California Poaches NYC’s Tourism Chief Ahead of 2028 Olympics
 
 [原文] Julie Coker is leaving NYC Tourism after less than two years. She needs to turn around sluggish inbound tourism and needs to move fast: Los Angeles is hosting the 2028 Olympic Games.
 
 📎 [阅读原文](https://skift.com/2026/06/26/visit-california-julie-coker-ceo/) — *Skift*
-
-### 4. Fewer Flights, Higher Fares, More Travelers: The July 4 Squeeze
-
-[原文] Going into what is expected to be a busy July 4 travel season, airlines are cutting capacity as they hope to hold onto their pricing gains.
-
-📎 [阅读原文](https://skift.com/2026/06/26/airlines-are-trimming-capacity-ahead-of-july-4/) — *Skift*
-
-### 5. Delta Makes Moves to Catch Up With United in the Pacific
-
-[原文] Delta has spent much of 2026 building up its presence in Asia partly in an attempt to gain more market share in the Pacific from its major rival in the region, United.
-
-📎 [阅读原文](https://skift.com/2026/06/26/delta-makes-moves-to-close-the-pacific-gap-with-united/) — *Skift*
 
 ---
 
@@ -528,6 +528,7 @@ The post Ian Callum Didn’t Design the Jaguar XJ220, but This Is What It Would 
 ## ⚠️ 今日故障源
 
 - **🚗 汽车**: Roadshow, Autocar
+- **✈️ 旅游**: Nomadic Matt
 
 ---
 
