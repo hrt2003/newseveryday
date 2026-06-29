@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年06月29日** | 生成时间: 2026-06-29 03:26
+**2026年06月29日** | 生成时间: 2026-06-29 12:19
 
 ---
 
@@ -16,9 +16,9 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Two boys rescued from Venezuela earthquake rubble after days of being trapped
+### 1. Two boys pulled from Venezuela earthquake rubble among 33 people rescued over weekend
 
-[原文] Rescuers spent six hours carefully digging to reach one of the boys, as many residents continue searching through the rubble by hand, still waiting for heavy machinery to arrive.
+[原文] With tens of thousands of people missing, relatives face another night waiting for news of loved ones as the crucial window for locating survivors closes.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. A 'perfect storm' points to a much smaller U.S. auto market by 2040
+### 1. U.S., Iran pause hostilities as Hormuz shipping resumes after weekend clashes
 
-[原文] The auto industry is selling fewer cars--one forecaster says this is a fundamental change, and it is going to get worse.
-
-📎 [阅读原文](https://www.cnbc.com/2026/06/28/us-auto-market.html) — *CNBC*
-
-### 2. Iran talks on hold after fighting breaks out and Trump once again threatens annihilation
-
-[原文] Iran says it targeted U.S. military facilities in Kuwait and Bahrain following U.S. strikes on targets in and around the Strait of Hormuz.
+[原文] The U.S. and Iran agreed to pause hostilities and allow commercial vessels to move freely through the Strait of Hormuz, easing fears of a prolonged disruption to global oil supplies after a weekend of
 
 📎 [阅读原文](https://www.cnbc.com/2026/06/28/trump-threatens-iran-with-annihilation-kuwait-bahrain-report-attacks.html) — *CNBC*
 
-### 3. Seniors in Medicare are about to get landmark obesity drug coverage — but many may not know it yet
+### 2. China widens Japan export curbs, targeting drone makers, nuclear firms and defense institutes
+
+[原文] China blacklisted four of Japan's government defense research institutes and placed dozens more Japanese firms under tightened export restrictions Monday.
+
+📎 [阅读原文](https://www.cnbc.com/2026/06/29/china-japan-export-controls-watch-list-defense-entities.html) — *CNBC*
+
+### 3. Oil jumps back above $70 as fresh U.S.-Iran clashes reignite Middle East supply fears
+
+[原文] Oil edged higher on Monday after renewed military strikes between the U.S. and Iran reignited concerns over crude supplies from the Middle East.
+
+📎 [阅读原文](https://www.cnbc.com/2026/06/29/oil-prices-wti-brent-crude-us-iran-strikes-strait-hormuz-talks.html) — *CNBC*
+
+### 4. Seniors in Medicare are about to get landmark obesity drug coverage — but many may not know it yet
 
 [原文] Many seniors may be unaware of the landmark coverage shift starting on July 1, with limited advertising seen from the government or Eli Lilly and Novo.
 
 📎 [阅读原文](https://www.cnbc.com/2026/06/28/medicare-will-soon-cover-obesity-drugs-but-many-seniors-may-not-know.html) — *CNBC*
 
-### 4. If you think China needs to dethrone U.S. dollar, you don't understand how it is waging global currency war
+### 5. If you think China needs to dethrone U.S. dollar, you don't understand how it is waging global currency war
 
 [原文] It's misguided to focus on China's renminbi replacing the U.S. dollar. Beijing is already successfully reducing dependence on a dollar-centric global system.
 
 📎 [阅读原文](https://www.cnbc.com/2026/06/28/china-doesnt-need-to-de-throne-dollar-to-win-global-currency-war.html) — *CNBC*
-
-### 5. America can't get enough of protein. The dairy industry can't keep up
-
-[原文] Demand for whey protein is off the charts as American diet trends change and GLP-1s boom, and the dairy industry is struggling to produce enough.
-
-📎 [阅读原文](https://www.cnbc.com/2026/06/28/america-cant-get-enough-protein-the-dairy-industry-cant-keep-up.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Ford rehires ‘gray beard’ engineers after AI falls short
+### 1. California law targeting loud streaming ads takes effect on July 1
+
+[原文] Streaming ads might be getting a lot quieter.
+
+📎 [阅读原文](https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/) — *TechCrunch*
+
+### 2. Ford rehires ‘gray beard’ engineers after AI falls short
 
 [原文] "Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”
 
 📎 [阅读原文](https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/) — *TechCrunch*
 
-### 2. Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from dematerialization
+### 3. Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from too much convenience
 
 [原文] Has Silicon Valley been building the wrong things?
 
 📎 [阅读原文](https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/) — *TechCrunch*
 
-### 3. TechCrunch Mobility: All eyes on Tesla FSD
+### 4. TechCrunch Mobility: All eyes on Tesla FSD
 
 [原文] Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/28/techcrunch-mobility-all-eyes-on-tesla-fsd/) — *TechCrunch*
 
-### 4. Why Wall Street thinks US memory maker Micron is the next Nvidia
+### 5. Why Wall Street thinks US memory maker Micron is the next Nvidia
 
 [原文] Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/) — *TechCrunch*
-
-### 5. Govee’s smart nugget ice maker makes every iced drink feel like a luxury
-
-[原文] For some people, the ice in a beverage is almost as important as the drink itself. That&#8217;s the audience Govee had in mind when designing its latest ice maker, the GoveeLife Smart Nugget Ice Maker
-
-📎 [阅读原文](https://techcrunch.com/2026/06/28/govees-smart-nugget-ice-maker-makes-every-iced-drink-feel-like-a-luxury/) — *TechCrunch*
 
 ---
 
@@ -168,29 +168,29 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Retirement the best thing for me - Stokes
+### 1. Injured Raducanu pulls out of Wimbledon in latest bitter setback
+
+[原文] Emma Raducanu is out of Wimbledon after withdrawing on the eve of her home Grand Slam tournament with a leg injury.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/c15y0q31522o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. Retirement the best thing for me - Stokes
 
 [原文] Ben Stokes describes the reasons for his international retirement as he says he became 'burned out' in the build-up to the summer.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c3dymxr4187o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Relief for Russell as he returns to winning ways
+### 3. 'You are Canadian heroes' - the forgotten hosts making World Cup history
+
+[原文] Canada are making history at this World Cup with a run that is likely to change the face of football in the country forever.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cvg4pen8xq7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. Relief for Russell as he returns to winning ways
 
 [原文] After winning the Austrian Grand Prix, George Russell has another victory to his name in 2026, and the relief in him was almost palpable, says Andrew Benson.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/c14yr0kpjy1o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 3. England set for series defeat in Stokes' last Test
-
-[原文] England face a mountainous task to send Ben Stokes into retirement with victory over New Zealand after captain drops astonishing announcement day four of deciding Test at Trent Bridge.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cn596wkdnvqo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. Ireland clinch shock 2-0 T20 series win over India
-
-[原文] Ireland's historic weekend continues as they inflict a first Twenty20 series defeat on India since 2023 with a dramatic one-run victory at Stormont.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cq81420w8llo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ### 5. Who do Scotland fans want as the next head coach?
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Palm Springs International Shortfest Unveils 2026 Winners — Film News in Brief
+### 1. John Oliver to Guest Star on ‘General Hospital’
 
-[原文] The Palm Springs International Shortfest has unveiled its winners for 2026. The winners were announced at Sunday’s award ceremony. Honorees receieved $30,000 dollars in cash prizes, and five films wer
+[原文] Late-night host John Oliver is headed to daytime. The “Last Week Tonight” host will guest star on the long-running daytime soap opera “General Hospital” in a three-episode storyline, which will air Ju
 
-📎 [阅读原文](https://variety.com/2026/film/news/film-news-in-brief-june-22-2026-1236787254/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/john-oliver-general-hospital-guest-star-1236794160/) — *Variety*
 
-### 2. Madonna Says Using AI Is the ‘Opposite of Making Art’
+### 2. John Oliver Exposes Trump and Fox News’ Jesse Watters Over Reflecting Pool Conspiracies
 
-[原文] Madonna recently slammed artificial intelligence in a new interview with Vogue Italia, telling the outlet that relying on AI is the &#8220;opposite of making art.&#8221; “Once you were around painters
+[原文] On Sunday night, John Oliver took aim at Trump’s sparsely attended Great American State Fair before focusing his ire on Trump’s other recent catastrophe: the Lincoln Memorial Reflecting Pool. “Trump’s
 
-📎 [阅读原文](https://variety.com/2026/music/news/madonna-ai-opposite-of-making-art-1236797851/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/john-oliver-exposes-trump-fox-news-jesse-watters-reflecting-pool-conspiracies-1236798056/) — *Variety*
 
-### 3. Oscar Predictions: Best Picture — First Look Shows Studios Could Roar Back With ‘Dune: Part Three,’ ‘The Odyssey,’ ‘Digger’ and More
+### 3. Lauryn Hill Receives All-Star Tribute From Queen Latifah, SZA, Doechii, Doja Cat, Nas and More at BET Awards 2026
 
-[原文] Variety&#160;Awards Circuit&#160;section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars,&#160;Emmys,
+[原文] Lauryn Hill was honored with the Living Legend Icon Award as well as a very robust all-star performance featuring Doechii, Nas, Doja Cat, SZA, Common and Queen Latifah, among many others, at the BET A
 
-📎 [阅读原文](https://variety.com/lists/2027-oscars-best-picture-predictions/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/lauryn-hill-tribute-bet-awards-queen-latifah-sza-doechii-1236798041/) — *Variety*
 
-### 4. Olivia Wilde Says Her Last Movie’s 38% Rotten Tomatoes Score ‘Liberated’ Her to Make ‘The Invite’ and Gives Her Take on the Film’s Ending
+### 4. India’s Yash Raj Films Backs Rusk Media in Vertical Entertainment Push (EXCLUSIVE)
 
-[原文] Olivia Wilde did almost everything you are not supposed to do to make &#8220;The Invite.&#8221; She shot her third feature as a director in a tight 21 days, scene by scene, in story order, which is a 
+[原文] Yash Raj Films has made a strategic investment in Rusk Media, the digital-first entertainment company behind the Alright! TV platform that specializes in original content for Gen Z and Gen Alpha audie
 
-📎 [阅读原文](https://variety.com/2026/film/awards/olivia-wilde-the-invite-rotten-tomatoes-dont-worry-darling-1236795841/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/yash-raj-films-rusk-media-investment-vertical-entertainment-1236797789/) — *Variety*
 
-### 5. Gracie Abrams Says ‘I Get It’ When People Call Her a Nepo Baby Online: ‘I Think About the Privilege There’
+### 5. ‘House of the Dragon’ Stars Emma D’Arcy and Matt Smith on What Rhaenyra and Daemon’s Big Move Means for the Rest of Season 3
 
-[原文] Gracie Abrams, the daughter of “Star Trek” director J.J. Abrams and Bad Robot co-CEO Kaite McGrath, recently told The New York Times’ “Popcast” that she understands the online discourse about her nepo
+[原文] SPOILER ALERT:&#160;This article contains spoilers for Season 3, Episode 2 of “House of the Dragon,” now streaming on HBO Max. &#8220;House of the Dragon&#8221; fans have had a week to accept the deat
 
-📎 [阅读原文](https://variety.com/2026/music/news/gracie-abrams-get-it-nepo-baby-online-privilege-1236797833/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/house-of-the-dragon-episode-2-rhaenrya-daemon-iron-throne-1236790657/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Cyberpunk: Edgerunners 2 Sets Fall 2026 Release With First Look at 4 New Characters
+### 1. SNK Explains Why They Couldn’t Make Terry Bogard Explode While Fighting Kenshiro in City of the Wolves
 
-[原文] Netflix has revealed first character details and a fall release window for its anime sequel series, Cyberpunk: Edgerunners 2.
+[原文] SNK told us how they managed to pull off one of Kenshiro's most iconic moves without sacrificing their Teen ESRB rating.
 
-📎 [阅读原文](https://www.ign.com/articles/cyberpunk-edgerunners-2-sets-fall-2026-release-with-first-look-at-4-new-characters) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/snk-explains-why-they-couldnt-make-terry-bogard-explode-while-fighting-kenshiro-in-city-of-the-wolves) — *IGN*
 
-### 2. The Invincible VS Devs Would Love a Mortal Kombat Crossover
+### 2. House of the Dragon Season 3: Helaena’s “Strange” Comment Hints at a Major Fan Theory
 
-[原文] The minds behind Invincible VS are open to collaborations with other genres and IPs, specifically welcoming potential characters from the Mortal Kombat franchise.
+[原文] “This is strange. It isn’t the season.” House of the Dragon: Season 3, Episode 2 includes that brief but notable dialogue spoken by Helaena Targaryen, lines that demand closer scrutiny given her preco
 
-📎 [阅读原文](https://www.ign.com/articles/invincible-vs-devs-are-really-interested-in-a-mortal-kombat-crossover) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/house-of-the-dragon-season-3-helaena-fan-theory-caterpillar) — *IGN*
 
-### 3. GTA 6 Scalpers Are Finding Buyers on eBay Despite Rockstar's Commitment to a Digital Release
+### 3. House of the Dragon Season 3, Episode 2 Recap and Review
 
-[原文] Rockstar Games fans seem to be paying eBay scalpers extra for pre-order copies of GTA 6 – even if there isn't much of a reason to.
+[原文] In this week's House of the Dragon, Rhaenyra’s eyes are fixed on the throne – but her one-track focus may be causing her to miss things.
 
-📎 [阅读原文](https://www.ign.com/articles/gta-6-scalpers-are-finding-buyers-on-ebay-despite-rockstars-commitment-to-a-digital-release) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/house-of-the-dragon-season-3-episode-2-recap-and-review) — *IGN*
 
-### 4. Street Fighter 6 Devs Have No Current Plans to Make Any Major Adjustments to System Mechanics | Evo 2026
+### 4. The Vampire Lestat Creator Says Dipping Into Queen of the Damned and the Devil’s Minion Duo Needed the ‘Same Sort of a Weirdness to Their Manifestation’ as in the Book
 
-[原文] We chat with Director Nakayama and Producer Matsumoto about the current state of Street Fighter 6 and what's in store for the future at Evo 2026.
+暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/street-fighter-6-devs-have-no-current-plans-to-make-any-major-adjustments-to-system-mechanics-evo-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/the-vampire-lestat-episode-3-queen-of-the-damned-devils-minion-rolin-jones) — *IGN*
 
-### 5. Supergirl Director Credits James Gunn for Helping Choose Song for Much-Discussed Slow-Motion Fight Scene
+### 5. IGN AU’s Top 5 Games from Summer of Gaming 2026
 
-[原文] Director Craig Gillespie says he credits DC Studios co-CEO James Gunn for helping choose the song used in the slow-motion Supergirl fight scene that has caused a stir on social media.
+[原文] IGN AU’s Top 5 Games from Summer of Gaming 2026. This is our pick of the biggest and best titles coming to PS5, Xbox Series X and Nintendo Switch 2.
 
-📎 [阅读原文](https://www.ign.com/articles/supergirl-director-credits-james-gunn-for-helping-choose-song-for-much-discussed-slow-motion-fight-scene) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/ign-aus-top-5-games-from-summer-of-gaming-2026) — *IGN*
 
 ---
 
@@ -401,35 +401,35 @@ The post Ian Callum Didn’t Design the Jaguar XJ220, but This Is What It Would 
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Podcast: Is TikTok Now a Teacher Training Tool?
+### 1. ISTE+ASCD is Now the International Society for Transforming Education
 
-[原文] Two educators are reckoning with who is really in charge: technology or the teacher.
+[原文] The education nonprofit drops its combined acronym for a unified brand.
 
-📎 [阅读原文](https://edsurge.com/news/podcast-is-tiktok-now-a-teacher-training-tool) — *EdSurge*
+📎 [阅读原文](https://edsurge.com/news/iste-ascd-is-now-the-international-society-for-transforming-education) — *EdSurge*
 
-### 2. Outgrowing the Chromebook: Why Advanced STEM Demands Better Student Tech
-
-[原文] #ASUSEducation @ASUS
-
-📎 [阅读原文](https://edsurge.com/news/outgrowing-the-chromebook-why-advanced-stem-demands-better-student-tech) — *EdSurge*
-
-### 3. Vibe Coding Sparked a Love of Reading in My Classroom
+### 2. Vibe Coding Sparked a Love of Reading in My Classroom
 
 [原文] Lessons learned from a year of building an AI literacy tool.
 
 📎 [阅读原文](https://edsurge.com/news/vibe-coding-sparked-reading-interest-in-my-students) — *EdSurge*
 
-### 4. I’m a Teacher, and I’m Against Phone Pouches
+### 3. Podcast: Is TikTok Now a Teacher Training Tool?
+
+[原文] Two educators are reckoning with who is really in charge: technology or the teacher.
+
+📎 [阅读原文](https://edsurge.com/news/podcast-is-tiktok-now-a-teacher-training-tool) — *EdSurge*
+
+### 4. Outgrowing the Chromebook: Why Advanced STEM Demands Better Student Tech
+
+[原文] #ASUSEducation @ASUS
+
+📎 [阅读原文](https://edsurge.com/news/outgrowing-the-chromebook-why-advanced-stem-demands-better-student-tech) — *EdSurge*
+
+### 5. I’m a Teacher, and I’m Against Phone Pouches
 
 [原文] A well-intended policy has unintended consequences.
 
 📎 [阅读原文](https://edsurge.com/news/im-a-teacher-and-im-against-phone-pouches) — *EdSurge*
-
-### 5. Podcast: Your Kids Know More About AI Than You Do
-
-[原文] Schools are racing to write AI policies, but what if the policy is not the first step?
-
-📎 [阅读原文](https://edsurge.com/news/your-kids-know-more-about-ai-than-you-do) — *EdSurge*
 
 ---
 
@@ -439,35 +439,35 @@ The post Ian Callum Didn’t Design the Jaguar XJ220, but This Is What It Would 
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Katy Perry Forced to Cancel Belgian Fest Set Over ‘Inclement Weather’: ‘Beyond My Control’
+### 1. French Montana, Max B, and Rick Ross Perform at BET Awards 2026
 
-[原文] “I was backstage at the show in the middle of hair and makeup when this news was delivered, and they gave me no choice,” singer says
+[原文] The trio brought New York and Miami vibes to L.A. with their dual performance
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/katy-perry-belgium-fest-set-canceled-inclement-weather-1235585701/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/rick-ross-performance-bet-awards-2026-1235582446/) — *Rolling Stone*
 
-### 2. Stevie Nicks Will Be at Taylor Swift’s Wedding — And Might Perform
+### 2. BET Awards 2026: The Complete Winners List
 
-[原文] The rock legend is headed to Madison Square Garden for the superstar's big day, according to multiple sources
+[原文] The full rundown of who won what at Sunday night’s awards ceremony
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/stevie-nicks-perform-at-taylor-swift-wedding-report-1235585438/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/bet-awards-2026-complete-winners-list-1235581172/) — *Rolling Stone*
 
-### 3. Vanilla Ice’s Concert at Freedom 250 Canceled Due to Weather
+### 3. Cardi B Brings ‘Am I the Drama?’ to the 2026 BET Awards With Fiery Performance
 
-[原文] "Ice Ice Baby" rapper, one of the last music artists standing at the ill-fated Great American State Fair, has gig canceled Friday after inclement weather hits Washington, D.C.
+[原文] The rapper returned to the BET Awards stage with a high-octane set full of songs from her most recent album, including a pointed diss aimed at BIA
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/vanilla-ice-concert-freedom-250-canceled-weather-1235585451/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/cardi-b-performs-2026-bet-awards-1235585722/) — *Rolling Stone*
 
-### 4. Oliver Tree’s Family Establishes Foundation to Provide Grants to Artists
+### 4. Teyana Taylor Accepts Icon of the Year Honor at BET Awards 2026: ‘I’m Accepting What I’ve Earned with Gratitude’
 
-[原文] "When I die, all the money is going to go back to artists. So I set up a foundation," singer said in an interview prior to his death
+[原文] The multidisciplinary artist delivered an emotional speech after Janet Jackson presented her with the honor
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/oliver-tree-family-foundation-artist-grants-1235585437/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/teyana-taylor-bet-awards-speech-icon-of-the-year-2026-1235582466/) — *Rolling Stone*
 
-### 5. Lorde Marks ‘Virgin’ Anniversary With 49 ‘Xrays’ Demos From the Album
+### 5. T.I. Performs ‘Top Back’ and ‘Let ‘Em Know’ at BET Awards 2026
 
-[原文] Singer also opens up about her personal battles while making the 2025 LP in a newsletter to fans: "Living in these songs had an incantatory effect. I felt myself change”
+[原文] The Atlanta native was nominated for three awards at this year's ceremony
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/lorde-virgin-anniversary-49-xrays-demos-1235585423/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/t-i-performance-bet-awards-2026-1235582454/) — *Rolling Stone*
 
 ---
 
