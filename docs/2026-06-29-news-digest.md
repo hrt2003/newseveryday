@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年06月29日** | 生成时间: 2026-06-29 12:19
+**2026年06月29日** | 生成时间: 2026-06-29 19:07
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Two boys pulled from Venezuela earthquake rubble among 33 people rescued over weekend
+### 1. Mum rescued from Venezuela rubble with newborn baby tells BBC how he helped her survive
 
-[原文] With tens of thousands of people missing, relatives face another night waiting for news of loved ones as the crucial window for locating survivors closes.
+[原文] The "miracle" rescue of 18-day-old baby Juan David is a symbol of hope in Venezuela after the devastating earthquakes.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/clyw3rkj2p7o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. In Caracas, this feels like the hardest moment in Venezuela's modern history
+### 2. US says it has agreed to 'stand down' after exchange of strikes with Iran
 
-[原文] Rescue teams are working ceaselessly to reach those trapped under rubble. But as hope fades, anger is growing.
+[原文] A series of strikes over the weekend saw the US and Iran accuse each other of violating the ceasefire agreement.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C
+### 3. Pakistani strikes kill dozens in Afghanistan
 
-[原文] WHO chief Tedros Adhanom Ghebreyesus warned that Europe is not prepared for high temperatures.
+[原文] The Taliban government says civilians were killed, while Pakistan maintains they targeted militants.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy8wygyed0wo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Eleven killed after plane carrying skydivers crashes in eastern France
+### 4. South Korea football coach quits as president calls for probe into World Cup loss
 
-[原文] The pilot and 10 passengers - including five first-time parachutists - died in the incident, local officials said.
+[原文] South Korea was eliminated after missing out on a spot among the eight best third-placed teams.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cdx7jk0kq4vo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. US and Iran exchange strikes and accuse each other of violating ceasefire
+### 5. 'You are Canadian heroes' - the forgotten hosts making World Cup history
 
-[原文] Iran says it has launched retaliatory attacks at US infrastructure in Kuwait and Bahrain after the US said it hit multiple targets across Iran.
+[原文] Canada are making history at this World Cup with a run that is likely to change the face of football in the country forever.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cvg4pen8xq7o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. U.S., Iran pause hostilities as Hormuz shipping resumes after weekend clashes
+### 1. Comcast soars 23% after announcing it will spin off media and tech wings into separate public companies
 
-[原文] The U.S. and Iran agreed to pause hostilities and allow commercial vessels to move freely through the Strait of Hormuz, easing fears of a prolonged disruption to global oil supplies after a weekend of
+[原文] Comcast said it will separate into two publicly traded companies through a tax-free spin-off of NBCUniversal and Sky
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/28/trump-threatens-iran-with-annihilation-kuwait-bahrain-report-attacks.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/29/comcast-announces-it-will-spin-off-media-and-tech-wings-into-separate-public-companies.html) — *CNBC*
 
-### 2. China widens Japan export curbs, targeting drone makers, nuclear firms and defense institutes
+### 2. SpaceX's $25 billion bond sale drives huge demand - and a potential headache for investors
 
-[原文] China blacklisted four of Japan's government defense research institutes and placed dozens more Japanese firms under tightened export restrictions Monday.
+[原文] SpaceX’s $25 billion debt sale drew heavy demand, but analysts warn of capital spending, refinancing and investor concentration risks.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/29/china-japan-export-controls-watch-list-defense-entities.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/29/spacex-debt-diversification-equity-bond-investors-analysts.html) — *CNBC*
 
-### 3. Oil jumps back above $70 as fresh U.S.-Iran clashes reignite Middle East supply fears
+### 3. Trump bought as much as $5 million in Axon stock before ICE sought $220 million Taser deal
 
-[原文] Oil edged higher on Monday after renewed military strikes between the U.S. and Iran reignited concerns over crude supplies from the Middle East.
+[原文] Axon Enterprise has ramped up lobbying in Congress on federal law-enforcement technology as ICE pursues a potential $220 million Taser deal.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/29/oil-prices-wti-brent-crude-us-iran-strikes-strait-hormuz-talks.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/29/trump-axon-stock-ice-taser-immigration-enforcement.html) — *CNBC*
 
-### 4. Seniors in Medicare are about to get landmark obesity drug coverage — but many may not know it yet
+### 4. Putin’s fuel shortage admission signals growing strain on Russia’s energy infrastructure
 
-[原文] Many seniors may be unaware of the landmark coverage shift starting on July 1, with limited advertising seen from the government or Eli Lilly and Novo.
+[原文] Putin's comments mark the first time he has detailed the extent to which Ukraine's deep-strike successes have hampered Russia's fuel production.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/28/medicare-will-soon-cover-obesity-drugs-but-many-seniors-may-not-know.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/29/putin-russia-fuel-shortages-ukraine-drone-strikes.html) — *CNBC*
 
-### 5. If you think China needs to dethrone U.S. dollar, you don't understand how it is waging global currency war
+### 5. A 'perfect storm' points to a much smaller U.S. auto market by 2040
 
-[原文] It's misguided to focus on China's renminbi replacing the U.S. dollar. Beijing is already successfully reducing dependence on a dollar-centric global system.
+[原文] The auto industry is selling fewer cars--one forecaster says this is a fundamental change, and it is going to get worse.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/28/china-doesnt-need-to-de-throne-dollar-to-win-global-currency-war.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/28/us-auto-market.html) — *CNBC*
 
 ---
 
@@ -130,35 +130,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Astronomers found two rare super puff planets lighter than cotton candy
+### 1. These tiny soil microbes could rescue crops from salty farmland
+
+[原文] Researchers have discovered that beneficial soil bacteria give plants an unexpected survival advantage in salty soils. Instead of helping plants keep salt out, the microbes stimulate the production of
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260626124703.htm) — *Science Daily*
+
+### 2. Astronomers found two rare super puff planets lighter than cotton candy
 
 [原文] Two newly confirmed "super-puff" planets are so diffuse that they are less dense than cotton candy, despite being about the size of Jupiter. Their rare orbital relationship and enormous, lightweight a
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260626124659.htm) — *Science Daily*
 
-### 2. Einstein Probe may have caught a black hole tearing apart a white dwarf for the first time
+### 3. Einstein Probe may have caught a black hole tearing apart a white dwarf for the first time
 
 [原文] Astronomers may have witnessed one of the rarest and most dramatic cosmic events ever seen: a long-sought intermediate-mass black hole ripping apart a dense white dwarf star and devouring it. The Eins
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260625060222.htm) — *Science Daily*
 
-### 3. They knew the pill was fake but their memory still improved
+### 4. They knew the pill was fake but their memory still improved
 
 [原文] Healthy older adults experienced measurable improvements in memory, physical performance, and stress after taking placebo pills for just three weeks. The most surprising finding was that the placebo o
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260625060159.htm) — *Science Daily*
 
-### 4. Hawaii is turning ocean plastic and fishing nets into roads
+### 5. Hawaii is turning ocean plastic and fishing nets into roads
 
 [原文] Hawaii researchers are giving old fishing nets and recycled plastic a second life by mixing them into asphalt roads. Early tests found these roads didn't release more plastic particles than standard p
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260625014830.htm) — *Science Daily*
-
-### 5. After 70 years of excavation, ancient Sardis becomes a UNESCO World Heritage site
-
-[原文] After nearly seven decades of excavation, the legendary ancient city of Sardis has become a UNESCO World Heritage Site, celebrating years of discoveries that continue to reshape its history. Archaeolo
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260625014808.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Injured Raducanu pulls out of Wimbledon in latest bitter setback
+### 1. More change needed after Stokes retires - Vaughan
 
-[原文] Emma Raducanu is out of Wimbledon after withdrawing on the eve of her home Grand Slam tournament with a leg injury.
+[原文] Former captain Michael Vaughan says he will be "absolutely staggered" if there is not more leadership change in English cricket after Ben Stokes' retirement.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/c15y0q31522o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/ce8ke6y8egzo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Retirement the best thing for me - Stokes
+### 2. Why Netherlands v Morocco is more than just a match
 
-[原文] Ben Stokes describes the reasons for his international retirement as he says he became 'burned out' in the build-up to the summer.
+[原文] Morocco’s World Cup meeting with the Netherlands tells a story about migration, identity and the battle for Dutch-born talent.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c3dymxr4187o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/clye1l3m9k4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. 'You are Canadian heroes' - the forgotten hosts making World Cup history
+### 3. I'd ticked all the boxes so decision to resign easy - Clarke
 
-[原文] Canada are making history at this World Cup with a run that is likely to change the face of football in the country forever.
+[原文] Steve Clarke says it was an easy decision to step down as Scotland head coach because he always planned to depart if they did not qualify for the knock-out stages.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cvg4pen8xq7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c3ry1jyzpejo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Relief for Russell as he returns to winning ways
+### 4. Conspiracy or chaos? Algeria & Austria defend 'unexpected' draw
 
-[原文] After winning the Austrian Grand Prix, George Russell has another victory to his name in 2026, and the relief in him was almost palpable, says Andrew Benson.
+[原文] The 'Disgrace of Gijon' - an infamous match at the 1982 World Cup in Spain - has followed Austria and Algeria for 44 years. Did history repeat itself in Algeria's 3-3 draw with Austria on Sunday?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/c14yr0kpjy1o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ckg4v1wvwxxo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Who do Scotland fans want as the next head coach?
+### 5. When five Wimbledon titles in one weekend changed British tennis
 
-[原文] The speculation has started, but who do Scotland fans want to replace Steve Clarke?
+[原文] A decade after Andy Murray's 2016 men's singles title, we look at the legacy of the golden weekend where five Wimbledon trophies were won by British players.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cn4rdnv0p3wo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cgev5n0vqv3o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. John Oliver to Guest Star on ‘General Hospital’
+### 1. Comcast to Split NBCUniversal and Cable Operations Into Two Companies
 
-[原文] Late-night host John Oliver is headed to daytime. The “Last Week Tonight” host will guest star on the long-running daytime soap opera “General Hospital” in a three-episode storyline, which will air Ju
+[原文] Comcast, just months after shedding most of its cable TV business into Versant Media, is now again cleaving itself into two separate companies: one housing its namesake cable and tech operations, and 
 
-📎 [阅读原文](https://variety.com/2026/tv/news/john-oliver-general-hospital-guest-star-1236794160/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/comcast-split-nbcuniversal-cable-two-companies-1236798205/) — *Variety*
 
-### 2. John Oliver Exposes Trump and Fox News’ Jesse Watters Over Reflecting Pool Conspiracies
+### 2. BBC Comes to Jesus: Broadcaster Sets ‘Landmark’ Historical Docuseries on Christ
 
-[原文] On Sunday night, John Oliver took aim at Trump’s sparsely attended Great American State Fair before focusing his ire on Trump’s other recent catastrophe: the Lincoln Memorial Reflecting Pool. “Trump’s
+[原文] The BBC is experiencing a “come to Jesus” moment. That’s not a reference to any self-reflection the corporation may have undergone in light of the many scandals it has faced over the past decade, but 
 
-📎 [阅读原文](https://variety.com/2026/tv/news/john-oliver-exposes-trump-fox-news-jesse-watters-reflecting-pool-conspiracies-1236798056/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/global/bbc-jesus-christ-docuseries-1236798173/) — *Variety*
 
-### 3. Lauryn Hill Receives All-Star Tribute From Queen Latifah, SZA, Doechii, Doja Cat, Nas and More at BET Awards 2026
+### 3. Newly Restored ‘Deadly Sweet’ by Italian Softcore Erotic Movies Director Tinto Brass Set to Pre-Open Venice Film Festival
 
-[原文] Lauryn Hill was honored with the Living Legend Icon Award as well as a very robust all-star performance featuring Doechii, Nas, Doja Cat, SZA, Common and Queen Latifah, among many others, at the BET A
+[原文] The upcoming Venice Film Festival has set the world premiere of the restored version of 1967 cult movie &#8220;Deadly Sweet,&#8221; directed by Italian softcore erotic movies maestro Tinto Brass, as i
 
-📎 [阅读原文](https://variety.com/2026/music/news/lauryn-hill-tribute-bet-awards-queen-latifah-sza-doechii-1236798041/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/restored-deadly-sweet-erotic-tinto-brass-venice-festival-1236798160/) — *Variety*
 
-### 4. India’s Yash Raj Films Backs Rusk Media in Vertical Entertainment Push (EXCLUSIVE)
+### 4. ‘Spirited Away’ Stage Production Sets World Tour, Including London Return – Global Bulletin
 
-[原文] Yash Raj Films has made a strategic investment in Rusk Media, the digital-first entertainment company behind the Alright! TV platform that specializes in original content for Gen Z and Gen Alpha audie
+[原文] GHIBLI GOES GLOBAL Toho Co., Ltd. has unveiled a 2026–2028 world tour of its stage adaptation of Studio Ghibli&#8217;s Oscar-winning animated feature &#8220;Spirited Away,&#8221; including a return en
 
-📎 [阅读原文](https://variety.com/2026/tv/news/yash-raj-films-rusk-media-investment-vertical-entertainment-1236797789/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/theater/news/spirited-away-stage-world-tour-1236798164/) — *Variety*
 
-### 5. ‘House of the Dragon’ Stars Emma D’Arcy and Matt Smith on What Rhaenyra and Daemon’s Big Move Means for the Rest of Season 3
+### 5. Christopher Eccleston, Mel Giedroyc, Steve Pemberton Among New Stars Added to ‘White Rabbit Red Rabbit’ London West End Run
 
-[原文] SPOILER ALERT:&#160;This article contains spoilers for Season 3, Episode 2 of “House of the Dragon,” now streaming on HBO Max. &#8220;House of the Dragon&#8221; fans have had a week to accept the deat
+[原文] Eight new performers have joined the West End run of &#8220;White Rabbit Red Rabbit&#8221; at London&#8217;s Duchess Theatre, with Christopher Eccleston, Mel Giedroyc, Steve Pemberton, Munya Chawawa, 
 
-📎 [阅读原文](https://variety.com/2026/tv/news/house-of-the-dragon-episode-2-rhaenrya-daemon-iron-throne-1236790657/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/theater/news/christopher-eccleston-mel-giedroyc-white-rabbit-red-rabbit-1236791393/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. SNK Explains Why They Couldn’t Make Terry Bogard Explode While Fighting Kenshiro in City of the Wolves
+### 1. Hideo Kojima and More Pay Tribute to Akihiro Miwa, the Iconic Japanese Singer and Actor Behind Wolf Goddess Moro in Princess Mononoke, Who Has Died Aged 91
+
+[原文] Japanese news sources including Mainichi announced over the weekend that iconic Japanese singer and actor Akihiro Miwa passed away aged 91 on June 20.
+
+📎 [阅读原文](https://www.ign.com/articles/hideo-kojima-and-more-pay-tribute-to-akihiro-miwa-the-iconic-japanese-singer-and-actor-behind-wolf-goddess-moro-in-princess-mononoke-who-has-died-aged-91) — *IGN*
+
+### 2. Marvel Tōkon: Fighting Souls Reveals Last 3 Playable Characters — and a Blink-and-You’ll-Miss-It Look at a PlayStation Icon
+
+[原文] Marvel Tōkon: Fighting Souls has revealed the final three playable characters rounding out its roster, and there are a number of fan-favorites in there as well as a quick look at a PlayStation icon.
+
+📎 [阅读原文](https://www.ign.com/articles/marvel-tokon-fighting-souls-reveals-last-3-playable-characters-and-a-blink-and-youll-miss-it-look-at-a-playstation-icon) — *IGN*
+
+### 3. Dead or Alive 6 Last Round Pummeled by Negative Reviews as Koei Tecmo Asks Players to Rebuy DLC
+
+[原文] Dead or Alive 6 Last Round has fallen to "Mostly Negative" reviews on Steam as players warn of persistent bugs, lacking features, and a requirement to rebuy some previously owned DLC.
+
+📎 [阅读原文](https://www.ign.com/articles/dead-or-alive-6-last-round-pummeled-by-negative-reviews-as-koei-tecmo-asks-players-to-rebuy-dlc) — *IGN*
+
+### 4. SNK Explains Why They Couldn’t Make Terry Bogard Explode While Fighting Kenshiro in City of the Wolves
 
 [原文] SNK told us how they managed to pull off one of Kenshiro's most iconic moves without sacrificing their Teen ESRB rating.
 
 📎 [阅读原文](https://www.ign.com/articles/snk-explains-why-they-couldnt-make-terry-bogard-explode-while-fighting-kenshiro-in-city-of-the-wolves) — *IGN*
 
-### 2. House of the Dragon Season 3: Helaena’s “Strange” Comment Hints at a Major Fan Theory
+### 5. House of the Dragon Season 3: Helaena’s “Strange” Comment Hints at a Major Fan Theory
 
 [原文] “This is strange. It isn’t the season.” House of the Dragon: Season 3, Episode 2 includes that brief but notable dialogue spoken by Helaena Targaryen, lines that demand closer scrutiny given her preco
 
 📎 [阅读原文](https://www.ign.com/articles/house-of-the-dragon-season-3-helaena-fan-theory-caterpillar) — *IGN*
-
-### 3. House of the Dragon Season 3, Episode 2 Recap and Review
-
-[原文] In this week's House of the Dragon, Rhaenyra’s eyes are fixed on the throne – but her one-track focus may be causing her to miss things.
-
-📎 [阅读原文](https://www.ign.com/articles/house-of-the-dragon-season-3-episode-2-recap-and-review) — *IGN*
-
-### 4. The Vampire Lestat Creator Says Dipping Into Queen of the Damned and the Devil’s Minion Duo Needed the ‘Same Sort of a Weirdness to Their Manifestation’ as in the Book
-
-暂无摘要。
-
-📎 [阅读原文](https://www.ign.com/articles/the-vampire-lestat-episode-3-queen-of-the-damned-devils-minion-rolin-jones) — *IGN*
-
-### 5. IGN AU’s Top 5 Games from Summer of Gaming 2026
-
-[原文] IGN AU’s Top 5 Games from Summer of Gaming 2026. This is our pick of the biggest and best titles coming to PS5, Xbox Series X and Nintendo Switch 2.
-
-📎 [阅读原文](https://www.ign.com/articles/ign-aus-top-5-games-from-summer-of-gaming-2026) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post Ian Callum Didn’t Design the Jaguar XJ220, but This Is What It Would 
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. What Happened When an LNG Giant Came to Town
+### 1. Offshore Oil and Gas Rush Threatens Whale Corridors and Coral Reefs
+
+[原文] From coral reefs in Kenya to Caribbean seagrass meadows and whale migration corridors in the Arctic, a surge in offshore oil, gas and liquefied natural gas development is spreading into some of the wo
+
+📎 [阅读原文](https://insideclimatenews.org/news/29062026/offshore-oil-threatens-whale-corridors-coral-reefs/) — *Inside Climate News*
+
+### 2. Federal Officials Say an Endangered Wetland Plant Is Recovering. Not Everyone Agrees.
+
+[原文] When the northeastern bulrush joined the ranks of federally endangered plants and animals in 1991, the perennial, grass-like sedge teetered on the edge of extinction with just 13 known populations sca
+
+📎 [阅读原文](https://insideclimatenews.org/news/29062026/endangered-northeastern-bulrush-to-be-delisted/) — *Inside Climate News*
+
+### 3. Millions in Climate Investments for Developing Countries Were Just Announced. It’s Not Nearly Enough.
+
+[原文] Multiple donors and international organizations announced commitments to climate finance efforts directed at developing countries during London Climate Action Week, signaling growing attention toward 
+
+📎 [阅读原文](https://insideclimatenews.org/news/29062026/london-climate-action-week-climate-investments/) — *Inside Climate News*
+
+### 4. What Happened When an LNG Giant Came to Town
 
 [原文] CAMERON, La.—Sherry Peshoff can see the steel wall from her front door. Her home is lifted 12 feet off the ground to protect it from stormwaters that surge in off the Gulf, but it’s not as high as the
 
 📎 [阅读原文](https://insideclimatenews.org/news/28062026/venture-global-lng-terminals-in-cameron-louisiana/) — *Inside Climate News*
 
-### 2. Can Clusters of Human-Constructed Ponds in the Arizona Desert Save a Threatened Frog?
+### 5. Can Clusters of Human-Constructed Ponds in the Arizona Desert Save a Threatened Frog?
 
 [原文] WHITE MOUNTAINS, Ariz.—As the warming climate drops less rain on the White Mountains and the thirsty atmosphere and soils suck up more of what does fall, the Chiricahua leopard frog has been threatene
 
 📎 [阅读原文](https://insideclimatenews.org/news/27062026/efforts-to-save-threatened-frog-in-arizona/) — *Inside Climate News*
-
-### 3. The Future of Duxbury Reef
-
-[原文] BOLINAS, Calif.—Kent Khtikian pointed at a seemingly barren inch of reef. His hair, curly, long and grey blew wildly in the wind underneath a tan cowboy hat. He hunched over and kneeled close to a tin
-
-📎 [阅读原文](https://insideclimatenews.org/news/27062026/california-duxbury-reef-marine-protected-areas/) — *Inside Climate News*
-
-### 4. How ‘Mother Trees’ Nurture Our Forests
-
-[原文] From our collaborating partner “Living on Earth,” public radio&#8217;s environmental news magazine, an interview by host Steve Curwood and Jenni Doering with forest scientist Suzanne Simard. You might
-
-📎 [阅读原文](https://insideclimatenews.org/news/27062026/how-mother-trees-nurture-our-forests/) — *Inside Climate News*
-
-### 5. A Midwest Mayor Joins London Climate Week as a ‘Rational Optimist’ Who Aims to Get Things Done
-
-[原文] London Climate Action Week opened in the British capital just as an unprecedented heat wave gripped the country and mainland Europe. Among the tens of thousands of attendees at the global event were e
-
-📎 [阅读原文](https://insideclimatenews.org/news/26062026/columbia-missouri-mayor-at-london-climate-week/) — *Inside Climate News*
 
 ---
 
@@ -477,35 +477,35 @@ The post Ian Callum Didn’t Design the Jaguar XJ220, but This Is What It Would 
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Going it Alone: Why Hotel Owners Are Dropping The Big Brands
+### 1. India’s Next Hotel Boom Is Being Built by Companies That Don’t Run Hotels
+
+[原文] As developers race to own hotel assets, hospitality brands with their 'asset-light' and 'asset-right' strategies seem content managing them.
+
+📎 [阅读原文](https://skift.com/2026/06/29/indias-next-hotel-boom-is-being-built-by-companies-that-dont-run-hotels/) — *Skift*
+
+### 2. Going it Alone: Why Hotel Owners Are Dropping The Big Brands
 
 [原文] Franchise agreements, like casinos, tend to favor the house. Now, as a generation of hotel contracts begin to expire, some owners are deciding to walk away from the table.
 
 📎 [阅读原文](https://skift.com/2026/06/28/going-it-alone-why-hotel-owners-are-dropping-the-big-brands/) — *Skift*
 
-### 2. California Poaches NYC’s Tourism Chief Ahead of 2028 Olympics
+### 3. California Poaches NYC’s Tourism Chief Ahead of 2028 Olympics
 
 [原文] Julie Coker is leaving NYC Tourism after less than two years. She needs to turn around sluggish inbound tourism and needs to move fast: Los Angeles is hosting the 2028 Olympic Games.
 
 📎 [阅读原文](https://skift.com/2026/06/26/visit-california-julie-coker-ceo/) — *Skift*
 
-### 3. Fewer Flights, Higher Fares, More Travelers: The July 4 Squeeze
+### 4. Fewer Flights, Higher Fares, More Travelers: The July 4 Squeeze
 
 [原文] Going into what is expected to be a busy July 4 travel season, airlines are cutting capacity as they hope to hold onto their pricing gains.
 
 📎 [阅读原文](https://skift.com/2026/06/26/airlines-are-trimming-capacity-ahead-of-july-4/) — *Skift*
 
-### 4. Delta Makes Moves to Catch Up With United in the Pacific
+### 5. Delta Makes Moves to Catch Up With United in the Pacific
 
 [原文] Delta has spent much of 2026 building up its presence in Asia partly in an attempt to gain more market share in the Pacific from its major rival in the region, United.
 
 📎 [阅读原文](https://skift.com/2026/06/26/delta-makes-moves-to-close-the-pacific-gap-with-united/) — *Skift*
-
-### 5. One of the Largest Cash Piles in OTA Travel Sits … Largely Stuck
-
-[原文] Trip.com’s financials are the clearest single document in travel for understanding what “China risk” actually looks like when it shows up in a balance sheet.
-
-📎 [阅读原文](https://skift.com/2026/06/26/one-of-the-largest-cash-piles-in-ota-travel-sits-largely-stuck/) — *Skift*
 
 ---
 
