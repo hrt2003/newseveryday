@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年06月30日** | 生成时间: 2026-06-30 04:03
+**2026年06月30日** | 生成时间: 2026-06-30 12:00
 
 ---
 
@@ -18,15 +18,15 @@
 
 ### 1. Aftershock frays nerves as many Venezuelans left to fend for themselves
 
-[原文] In devastated areas people are using crowbars, pickaxes and their bare hands to try to reach survivors.
+[原文] In areas devastated by the twin earthquakes, people are using crowbars, pickaxes and their bare hands to try to reach survivors.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqj1210rj0yo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Mum rescued from Venezuela rubble with newborn baby tells BBC how he helped her survive
+### 2. 'No one move!': The agonising silence as Venezuela rescuers listen for survivors
 
-[原文] The "miracle" rescue of 18-day-old baby Juan David is a symbol of hope in Venezuela after the devastating earthquakes.
+[原文] With tens of thousands of people still believed missing, teams listen for signs of life beneath the rubble.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/clyw3rkj2p7o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c78yvq72dg7o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 3. Six people shot dead at centre for mothers and children in Germany
 
@@ -34,11 +34,11 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Trump's final appeal of E Jean Carroll sex abuse case rejected
+### 4. One big win and three defeats for Trump in dramatic day at Supreme Court
 
-[原文] The Supreme Court decision means the US president will now have to pay Carroll the $5m (£3.6m) in damages she had been awarded.
+[原文] While Trump celebrated a ruling expanding presidential power to remove and replace regulators, other decisions were major setbacks.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cn8q2z5wpn2o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/ceqdzd7zx24o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 5. US says it has agreed to 'stand down' after exchange of strikes with Iran
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Supreme Court rules Trump cannot fire Fed Governor Lisa Cook for now
+### 1. China factory activity grows faster than expected in June on tech export demand
 
-[原文] The ruling by the Supreme Court means that Lisa Cook will remain as a Federal Reserve governor as her lawsuit challenging Trump's effort to fire her proceeds.
+[原文] China's manufacturing engine held up this year as surging demand for artificial intelligence technology helped offset the drag from Middle East turmoil.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/29/supreme-court-lisa-cook-trump-federal-reserve.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/30/china-factory-activity-june-tech-export-demand-pmi-nbs.html) — *CNBC*
 
-### 2. Trump bought as much as $5 million in Axon stock before ICE sought $220 million Taser deal
+### 2. Japanese yen sinks to 40-year low, keeping intervention risks in focus
+
+[原文] The Japanese yen weakened to its lowest level against the U.S. dollar since 1986 on Tuesday, keeping investors on alert for possible intervention from Japanese authorities.
+
+📎 [阅读原文](https://www.cnbc.com/2026/06/30/japan-yen-falls-lowest-level-since-1986-dollar-intervention-risk.html) — *CNBC*
+
+### 3. Trump bought as much as $5 million in Axon stock before ICE sought $220 million Taser deal
 
 [原文] Axon Enterprise has ramped up lobbying in Congress on federal law enforcement technology as ICE pursues a potential $220 million Taser deal.
 
 📎 [阅读原文](https://www.cnbc.com/2026/06/29/trump-axon-stock-ice-taser-immigration-enforcement.html) — *CNBC*
 
-### 3. Eli Lilly, Regeneron among first companies selected for FDA initiative to speed review of new manufacturing facilities
+### 4. Australia's competition regulator takes Amazon to court over alleged unfair Prime subscription contract terms
+
+[原文] Australia's competition regulator is taking Amazon to court, alleging its Prime contracts required subscribers to pay AU$2.99 to avoid advertising, with no option for refunds
+
+📎 [阅读原文](https://www.cnbc.com/2026/06/30/australias-competition-regulator-takes-amazon-to-court-over-alleged-unfair-prime-subscription-contract-terms.html) — *CNBC*
+
+### 5. Eli Lilly, Regeneron among first companies selected for FDA initiative to speed review of new manufacturing facilities
 
 [原文] Eli Lilly and Regeneron are among the first seven companies the FDA has selected for its PreCheck Pilot Program, CNBC has learned.
 
 📎 [阅读原文](https://www.cnbc.com/2026/06/29/eli-lilly-regeneron-in-fda-precheck-manufacturing-program.html) — *CNBC*
-
-### 4. Comcast's NBCUniversal spinoff raises hope for more deals. There may not be good options
-
-[原文] Comcast plans to separate its cable and media divisions over the next year. This could set each company up for M&A, but there might not be any good options.
-
-📎 [阅读原文](https://www.cnbc.com/2026/06/29/comcast-nbcu-spinoff-m-and-a.html) — *CNBC*
-
-### 5. Micron's monster post-earnings rally is almost gone. Traders divided on where it goes next
-
-[原文] The maker of memory chips slid to start the week, marking an about-face from its post-earnings surge.
-
-📎 [阅读原文](https://www.cnbc.com/2026/06/29/micron-shares-fall-how-bulls-and-bears-are-positioned-in-chip-trade.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Watch out, Amazon: the Kobo eReader now has a Goodreads rival
+### 1. Vibe coding platform Base44 launches own model as AI startups seek defensibility
+
+[原文] Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.
+
+📎 [阅读原文](https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/) — *TechCrunch*
+
+### 2. Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role
+
+[原文] VCs remain thirsty to fund AI coding startups. This one, founded by investor Chamath Palihapitiya, is no exception.
+
+📎 [阅读原文](https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/) — *TechCrunch*
+
+### 3. Gemini’s personalized AI image generation is now free for US users
+
+[原文] Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.
+
+📎 [阅读原文](https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/) — *TechCrunch*
+
+### 4. Watch out, Amazon: The Kobo eReader now has a Goodreads rival
 
 [原文] Kobo users can now automatically sync their reading progress to StoryGraph, making it easier to track books, reading stats, and challenges without relying on Amazon’s Goodreads.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/29/watch-out-amazon-the-kobo-ereader-now-has-a-goodreads-rival/) — *TechCrunch*
 
-### 2. Waymo and Uber quietly part ways in Phoenix
+### 5. Waymo and Uber quietly part ways in Phoenix
 
-[原文] The companies confirmed to TechCrunch that their unusual partnership in Phoenix recently ended after nearly three years..
+[原文] Uber said it is readying the launch of a separate autonomous vehicle partnership in the city, but did not name the partner.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/29/waymo-and-uber-quietly-part-ways-in-phoenix/) — *TechCrunch*
-
-### 3. Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price
-
-[原文] As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.
-
-📎 [阅读原文](https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/) — *TechCrunch*
-
-### 4. South Korean tech giants commit over $550B to ease ‘RAMageddon’
-
-[原文] The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country.
-
-📎 [阅读原文](https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/) — *TechCrunch*
-
-### 5. Arena, the AI leaderboard everyone uses, is now a $100M business
-
-[原文] The startup, which runs a popular free AI leaderboard, launched its commercial service just last September.
-
-📎 [阅读原文](https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. America 250 road trip: Unleashing the Evel Knievel...
+### 1. The end for Nagelsmann? Germany suffer their 'next football nightmare'
 
-[原文] Here's to the risk-takers who live beyond the edges of the map. To the daredevils driven by fear and imagination. To the pioneers who push themselves -- and the world -- into the unknown.
+[原文] Germany make a shock last-32 exit against Paraguay, losing a World Cup penalty shootout for the first time to pile pressure on boss Julian Nagelsmann.
 
-📎 [阅读原文](https://www.espn.com/espn/story/_/id/49144723/america-250-espn-road-trip-risk-daredevil-evel-knievel-mapmakers-adventure) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c992kzk00kzo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Brazil survive World Cup scare against Japan
+### 2. Inside Paraguay's tears of joy over their seismic World Cup shock
 
-[原文] Gabriel Martinelli scored a stoppage-time winner for Brazil to beat plucky Japan 2-1 in the round of 32 at the World Cup on Monday.
+[原文] How Paraguay marked one of the biggest wins in their footballing history with euphoric celebrations.
 
-📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49217693/brazil-survive-world-cup-scare-japan-advance) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cy5v96vk1q9o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Sources: Warriors eyeing LeBron, AD reunion
+### 3. 45 minutes from Brazil 'humiliation' - but 'Crafty Carlo' does it again
 
-[原文] The Warriors are prepared to pursue a reunion of LeBron James and Anthony Davis in Golden State, with Draymond Green declining his player option to open up the flexibility for such a possibility, leag
+[原文] Half-time in Houston and Brazil's players trudged off facing another early World Cup exit. But we should have known better than to doubt Carlo Ancelotti.
 
-📎 [阅读原文](https://www.espn.com/nba/story/_/id/49215931/sources-warriors-eye-lebron-ad-moves-green-declines-option) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c17yzyy8ldko?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Lions CB Arnold's bond set at $1M with conditions
+### 4. McCullum & Key should go in 'complete clearout' - Vaughan
 
-[原文] A judge found probable cause for Terrion Arnold to face charges of armed robbery and kidnapping but denied prosecutors' motion for the Detroit Lions cornerback to be held without bond Monday.
+[原文] Former captain Michael Vaughan says England coach Brendon McCullum and Rob Key should resign as part of a "complete clear-out" following the retirement of Ben Stokes.
 
-📎 [阅读原文](https://www.espn.com/nfl/story/_/id/49216867/lions-cb-terrion-arnold-bond-set-1m-conditions) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/ce8ke6y8egzo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Ex-Titans, Cards RB Johnson says he has ALS
+### 5. Is tennis' relentless nature causing injury crisis?
 
-[原文] Former Titans and Cardinals running back Chris Johnson told "Good Morning America" that he was diagnosed with ALS in 2025.
+[原文] After British stars Jack Draper and Emma Raducanu withdrew injured from Wimbledon, BBC Sport analyses why so many top players are struggling with injury.
 
-📎 [阅读原文](https://www.espn.com/nfl/story/_/id/49214999/former-nfl-rb-chris-johnson-discusses-als-diagnosis) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/c3eyd24pk75o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Bill Maher Hailed for Courage and Being the ‘Ultimate Contrarian’ as He Receives Kennedy Center’s Mark Twain Prize
+### 1. Two Members of New Order Step Away From Touring ‘Due to Personal Health Reasons’
 
-[原文] WASHINGTON, D.C. &#8212; Bill Maher was awarded the Kennedy Center’s Mark Train Prize for American Humor on Sunday in a casual and candid affair that blended accolades, insights and light-hearted roas
+[原文] New Order announced Monday that Stephen Morris and Gillian Gilbert will not be joining their show at Primavera in Chile in November &#8220;due to personal health reasons.&#8221; &#8220;Circumstances m
 
-📎 [阅读原文](https://variety.com/2026/tv/news/bill-maher-mark-twain-prize-kennedy-center-small-crowd-1236798774/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/new-order-members-step-away-touring-health-reasons-1236798930/) — *Variety*
 
-### 2. Taylor Sheridan Rips Studio Execs for Knowing ‘Nothing’ and Slams His TV Critics: ‘I Do Rage-Bait Them. F— ‘Em, Honestly’
+### 2. What’s Coming to Disney+ in July 2026
 
-[原文] Taylor Sheridan has built one of the most-watched television empires on the planet, and he wants everyone to know he did it without chasing trophies or taking notes from the people who sign his payche
+[原文] Disney+ is heading into July with a packed lineup of premieres, returning favorites and major live sports. July kicks off with &#8220;Disney Celebrates America,&#8221; a 24-hour special in honor of th
 
-📎 [阅读原文](https://variety.com/2026/tv/news/taylor-sheridan-studio-execs-critics-rage-bait-emmys-1236798693/) — *Variety*
+📎 [阅读原文](https://variety.com/feature/whats-on-disney-plus-new-shows-movies-1203517920/) — *Variety*
 
-### 3. ‘Supergirl’ Stinks. Why Does Hollywood Keep Failing Female Superheroes?
+### 3. LISTEN: Box Office: ‘Supergirl’ Stumbles, ‘Toy Story 5’ Flexes and ‘Michael’ Hits a Milestone; Why Comcast is Splitting NBCUniversal and Sky From Cable
 
-[原文] There’s a scene toward the end of “Supergirl” that perfectly encapsulates how tonally inept it is. After what feels like an eternity, our Kryptonian hero, Kara Zor-El (Milly Alcock), has quit drinking
+[原文] On today’s episode of &#8220;Daily Variety&#8221; podcast, in our Box Office segment, Variety’s Jack Dunn breaks down a rough weekend for “Supergirl” and a big frame for “Toy Story 5” and “Michael.” A
 
-📎 [阅读原文](https://variety.com/2026/film/columns/supergirl-stinks-hollywood-failing-female-superheroes-1236798145/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/box-office-supergirl-toy-story-5-comcast-nbcuniversal-sky-1236798801/) — *Variety*
 
-### 4. Tidal to Label AI-Generated Music, Ban Royalties from AI Song Streams
+### 4. Director Carl Rinsch Sentenced to 30 Months in Netflix Fraud Case After Keanu Reeves and Attorneys Cite Mental Health Struggles
 
-[原文] The music streaming service Tidal said on Monday that artists uploading music wholly or substantially created using AI will have them label them as such —&#160;and those songs won&#8217;t be eligible 
+[原文] Carl Rinsch, the director of “47 Ronin,” was sentenced Monday to 30 months in federal prison, receiving half of the government’s recommended sentence after Judge Jed Rakoff considered evidence of his 
 
-📎 [阅读原文](https://variety.com/2026/music/news/tidal-label-ai-generated-music-ban-royalties-from-ai-songs-1236798543/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/carl-rinsch-sentence-30-months-keanu-reeves-netflix-1236798838/) — *Variety*
 
-### 5. Daveigh Chase, Voice of Lilo in ‘Lilo & Stitch,’ Died of AIDS
+### 5. ‘Persona’ Live-Action TV Adaptation in the Works at Netflix, 21 Laps & Story Kitchen to Produce (EXCLUSIVE)
 
-[原文] The Los Angeles Coroner&#8217;s Office has announced a cause of death for Daveigh Chase, who voiced Lilo in &#8220;Lilo &#38; Stitch&#8221; and starred in &#8220;The Ring.&#8221; Chase died June 17 in
+[原文] Netflix is developing a live-action series based on the &#8220;Persona&#8221; video game franchise, Variety has learned from sources. Christopher Monfette is attached to write the adaptation in additi
 
-📎 [阅读原文](https://variety.com/2026/tv/news/daveigh-chase-cause-of-death-lilo-stitch-1236798657/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/persona-live-action-tv-series-netflix-1236798581/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Today’s Best Deals: Switch 2 Memory Card, Resident Evil Requiem, MTG x Marvel, and More
+### 1. Persona Live-Action TV Show in the Works at Netflix
 
-[原文] Plus, don’t miss Nintendo’s Summer Sale, Square Enix game deals, and 50% Criterion Collection films.
+[原文] A live-action Persona TV show is reportedly in development at Netflix.
 
-📎 [阅读原文](https://www.ign.com/articles/best-deals-for-june-29-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/persona-live-action-tv-show-in-the-works-at-netflix) — *IGN*
 
-### 2. Tribeca Fest-Winning Filmmaker Says He Wants to Make a 3D Shooter with Murderous Bunnies and Carrots as Loot
+### 2. Cyberpunk: Edgerunners 2 Teaser Features Cyberpunk 2077 Locations Set to Show Up in New Season
 
-[原文] Tribeca winner Wesley Wang details his exclusive plans to adapt his violent bunny animated short into a 3D first-person shooter video game.
+[原文] The first Cyberpunk: Edgerunners 2 teaser is here, and fans have already found some of the locations the new season pulled from Cyberpunk 2077.
 
-📎 [阅读原文](https://www.ign.com/articles/wesley-wang-bunny-shooter-video-game) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/cyberpunk-edgerunners-2-teaser-features-cyberpunk-2077-locations-set-to-show-up-in-new-season) — *IGN*
 
-### 3. Save Big on Hisense TVs for 4th of July, All Under $1,000
+### 3. The 10 Most Anticipated TV Shows to Stream in July
 
-[原文] Hisense is celebrating the 4th of July with some of its best TV deals of the year.
+[原文] From a caped crusader to the threat of a multiversal collapse and even a washed-up golfer, here are our picks for what to stream this month.
 
-📎 [阅读原文](https://www.ign.com/articles/save-big-on-hisense-tvs-just-in-time-for-americas-250th) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/most-anticipated-tv-shows-to-stream-in-july-2026) — *IGN*
 
-### 4. Jackass: Best & Last Is Now Available To Preorder on Blu-Ray - Here’s Where You Can Grab a Copy
+### 4. Why The Back-to-Back Street Fighter 6 Evo Champion, MenaRD, Switched Off His Main in the Finals
 
-[原文] Jackass: Best & Last is now available to preorder on Blu-ray. While its release date is still to be determined, we've broken down where you can grab a copy ahead of time.
+[原文] We asked Evo Champ MenaRD why he decided to switch off the character he's most known for playing in the highest stakes matches of the Street Fighter 6 tournament.
 
-📎 [阅读原文](https://www.ign.com/articles/jackass-best-last-blu-ray-where-to-buy) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/why-the-back-to-back-street-fighter-6-evo-champion-menard-switched-off-his-main-in-the-finals) — *IGN*
 
-### 5. Steam Machine Companion Cube Canceled Because Dbrand Didn't Ask Valve for Permission
+### 5. 'We're Done Paying for Executives' Failures' — Unionized Xbox Developers Hold Press Conference to Make Their Point as Microsoft Reportedly Readies Massive Layoffs
 
-[原文] Tech accessory company dbrand has canceled its Steam Machine Companion Cube enclosure effective immediately because it didn't ask Valve for permission to make it in the first place.
+[原文] Unionized Xbox employees are pushing back against the company's looming layoffs and have outlined various demands.
 
-📎 [阅读原文](https://www.ign.com/articles/steam-machine-companion-cube-canceled-because-dbrand-didnt-ask-valve-for-permission) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/were-done-paying-for-executives-failures-unionized-xbox-developers-hold-press-conference-to-make-their-point-as-microsoft-reportedly-readies-massive-layoffs) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. CAT Diesel-Powered Mower Has a Bigger Engine Than a Honda Civic
+### 1. Nobody Noticed the Giant Smiley Face on the Ferrari Luce’s Dashboard
+
+[原文] The more we look around the Ferrari Luce's design, the weirder stuff we find.
+The post Nobody Noticed the Giant Smiley Face on the Ferrari Luce&#8217;s Dashboard appeared first on The Drive.
+
+📎 [阅读原文](https://www.thedrive.com/news/did-ferrari-mean-to-put-a-giant-smiley-face-on-the-luces-dashboard) — *The Drive*
+
+### 2. CAT Diesel-Powered Mower Has a Bigger Engine Than a Honda Civic
 
 [原文] When your zero-turn has more displacement than a college kid's daily driver, you're doing something right.
 The post CAT Diesel-Powered Mower Has a Bigger Engine Than a Honda Civic appeared first on Th
 
 📎 [阅读原文](https://www.thedrive.com/news/cat-diesel-powered-mower-has-a-bigger-engine-than-a-honda-civic) — *The Drive*
 
-### 2. Toyota Sales Keep Sinking in 2026: The Downshift
+### 3. Toyota Sales Keep Sinking in 2026: The Downshift
 
 [原文] Toyota just recorded its fourth-straight month of global sales decrease due to supply challenges in the Middle East and strong competition in China.
 The post Toyota Sales Keep Sinking in 2026: The Dow
 
 📎 [阅读原文](https://www.thedrive.com/news/toyota-sales-keep-sinking-in-2026-the-downshift) — *The Drive*
 
-### 3. Dutch Startup Wants to Build a Supercar You’ll Straddle Instead of Sit In
+### 4. Dutch Startup Wants to Build a Supercar You’ll Straddle Instead of Sit In
 
 [原文] Is this necessary? Probably not. But it's a good way for a fledgling automaker to get attention.
 The post Dutch Startup Wants to Build a Supercar You&#8217;ll Straddle Instead of Sit In appeared first
 
 📎 [阅读原文](https://www.thedrive.com/news/dutch-startup-wants-to-build-a-supercar-youll-straddle-instead-of-sit-in) — *The Drive*
 
-### 4. Your Kids’ School Bus Is About to Become a Roaming Surveillance Vehicle
+### 5. Your Kids’ School Bus Is About to Become a Roaming Surveillance Vehicle
 
 [原文] A company that sells cameras to catch drivers illegally passing stopped school buses wants to turn them into license plate readers.
 The post Your Kids&#8217; School Bus Is About to Become a Roaming Su
 
 📎 [阅读原文](https://www.thedrive.com/news/your-kids-school-bus-is-about-to-become-a-roaming-surveillance-vehicle) — *The Drive*
-
-### 5. EVs Really Are Better for the Planet Than Gas Cars, but Their Power Source Matters: Study
-
-[原文] EVs substantially reduce emissions, but the exact amount can vary significantly by region, the study says.
-The post EVs Really Are Better for the Planet Than Gas Cars, but Their Power Source Matters: 
-
-📎 [阅读原文](https://www.thedrive.com/news/evs-really-are-better-for-the-planet-than-gas-cars-but-their-power-source-matters-study) — *The Drive*
 
 ---
 
@@ -363,35 +363,35 @@ The post EVs Really Are Better for the Planet Than Gas Cars, but Their Power Sou
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Offshore Oil and Gas Rush Threatens Whale Corridors and Coral Reefs
+### 1. Three Wildland Firefighters Killed in Colorado Blaze
+
+[原文] Three wildland firefighters died over the weekend battling a blaze that was rapidly expanding across a remote area in western Colorado. The helicopter-based crew was making the initial attack on a fir
+
+📎 [阅读原文](https://insideclimatenews.org/news/29062026/three-wildland-firefighters-killed-in-colorado-blaze/) — *Inside Climate News*
+
+### 2. Offshore Oil and Gas Rush Threatens Whale Corridors and Coral Reefs
 
 [原文] From coral reefs in Kenya to Caribbean seagrass meadows and whale migration corridors in the Arctic, a surge in offshore oil, gas and liquefied natural gas development is spreading into some of the wo
 
 📎 [阅读原文](https://insideclimatenews.org/news/29062026/offshore-oil-threatens-whale-corridors-coral-reefs/) — *Inside Climate News*
 
-### 2. Federal Officials Say an Endangered Wetland Plant Is Recovering. Not Everyone Agrees.
+### 3. Federal Officials Say an Endangered Wetland Plant Is Recovering. Not Everyone Agrees.
 
 [原文] When the northeastern bulrush joined the ranks of federally endangered plants and animals in 1991, the perennial, grass-like sedge teetered on the edge of extinction with just 13 known populations sca
 
 📎 [阅读原文](https://insideclimatenews.org/news/29062026/endangered-northeastern-bulrush-to-be-delisted/) — *Inside Climate News*
 
-### 3. Millions in Climate Investments for Developing Countries Were Just Announced. It’s Not Nearly Enough.
+### 4. Millions in Climate Investments for Developing Countries Were Just Announced. It’s Not Nearly Enough.
 
 [原文] Multiple donors and international organizations announced commitments to climate finance efforts directed at developing countries during London Climate Action Week, signaling growing attention toward 
 
 📎 [阅读原文](https://insideclimatenews.org/news/29062026/london-climate-action-week-climate-investments/) — *Inside Climate News*
 
-### 4. What Happened When an LNG Giant Came to Town
+### 5. What Happened When an LNG Giant Came to Town
 
 [原文] CAMERON, La.—Sherry Peshoff can see the steel wall from her front door. Her home is lifted 12 feet off the ground to protect it from stormwaters that surge in off the Gulf, but it’s not as high as the
 
 📎 [阅读原文](https://insideclimatenews.org/news/28062026/venture-global-lng-terminals-in-cameron-louisiana/) — *Inside Climate News*
-
-### 5. Can Clusters of Human-Constructed Ponds in the Arizona Desert Save a Threatened Frog?
-
-[原文] WHITE MOUNTAINS, Ariz.—As the warming climate drops less rain on the White Mountains and the thirsty atmosphere and soils suck up more of what does fall, the Chiricahua leopard frog has been threatene
-
-📎 [阅读原文](https://insideclimatenews.org/news/27062026/efforts-to-save-threatened-frog-in-arizona/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post EVs Really Are Better for the Planet Than Gas Cars, but Their Power Sou
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘Michael’ Is Now the Highest-Grossing Biopic of All Time
+### 1. Lizzo Reflects on ‘Bitch’ Album Flop: ‘I Hurt My Own Feelings’
+
+[原文] While she was initially stressed by the disappointing chart numbers, Lizzo says she came to terms with the reality of the industry and past allegations
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/lizzo-addresses-bitch-album-flop-1235586250/) — *Rolling Stone*
+
+### 2. Bruce Tull, Guitarist for Alt-Country Favorites Scud Mountain Boys, Dead at 71
+
+[原文] The band made their earliest recordings around Tull's kitchen table and released their best-known LP, Massachusetts, on Sub Pop in 1996
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/scud-mountain-boys-bruce-tull-dead-obituary-1235586260/) — *Rolling Stone*
+
+### 3. New Order’s Gillian Gilbert, Stephen Morris Not Touring With Band ‘Due to Personal Health Reasons’
+
+[原文] The band said the two members “won’t be touring for the foreseeable future” including an upcoming show in Chile
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/new-order-gillian-gilbert-stephen-morris-not-touring-health-1235586203/) — *Rolling Stone*
+
+### 4. ‘Michael’ Is Now the Highest-Grossing Biopic of All Time
 
 [原文] The music biopic surpassed Oppenheimer's box office record, earning $977 million so far
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/michael-highest-grossing-biopic-1235586035/) — *Rolling Stone*
 
-### 2. Bruce Springsteen Says Clive Davis Was ‘Born to Run… Everything’ in Funeral Eulogy
+### 5. Bruce Springsteen Says Clive Davis Was ‘Born to Run… Everything’ in Funeral Eulogy
 
 [原文] Springsteen remembered how the “big, and bombastic, and brave” record executive changed his life forever with a Columbia Records contract
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/bruce-springsteen-eulogy-clive-davis-full-speech-1235585895/) — *Rolling Stone*
-
-### 3. Walton Goggins Plays Ultimate Cool Guy in the Strokes ‘Going Shopping’ Video
-
-[原文] The video takes inspiration from Paul Simon’s music video “You Can Call Me Al,” featuring Chevy Chase
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/walton-goggins-the-strokes-music-video-going-shopping-1235585843/) — *Rolling Stone*
-
-### 4. Bob Dylan Loses Yet Another Guitarist After Bob Britt Abruptly Quits Band
-
-[原文] Two weeks after longtime Dylan guitarist Doug Lancio was suddenly replaced by jazz virtuoso Julian Lage, Britt left the group with a Facebook post that read “Sayonara Bobby”
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/bob-dylan-guitarist-bob-britt-quits-band-1235585893/) — *Rolling Stone*
-
-### 5. Alicia Keys Honors Clive Davis at Funeral: ‘You Didn’t Just Sign an Artist. You Recognized the Soul’
-
-[原文] The singer-songwriter remembered Davis’ unparalleled support and friendship in an emotional eulogy, which you can read in full
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/alicia-keys-eulogy-clive-davis-read-full-speech-1235585900/) — *Rolling Stone*
 
 ---
 
@@ -515,7 +515,7 @@ The post EVs Really Are Better for the Planet Than Gas Cars, but Their Power Sou
 - **💰 经济财经**: CNBC
 - **💻 科技**: TechCrunch
 - **🔬 科学**: Science Daily
-- **⚽ 体育**: ESPN
+- **⚽ 体育**: BBC Sport
 - **🎬 娱乐**: Variety
 - **🏥 健康**: WHO
 - **🎮 游戏**: IGN
@@ -528,7 +528,6 @@ The post EVs Really Are Better for the Planet Than Gas Cars, but Their Power Sou
 ## ⚠️ 今日故障源
 
 - **🚗 汽车**: Roadshow, Autocar
-- **✈️ 旅游**: Nomadic Matt
 
 ---
 
