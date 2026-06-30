@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年06月30日** | 生成时间: 2026-06-30 17:45
+**2026年06月30日** | 生成时间: 2026-06-30 22:26
 
 ---
 
@@ -22,29 +22,29 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5yzd18dxzxo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Aftershock frays nerves as many Venezuelans left to fend for themselves
-
-[原文] In areas devastated by the twin earthquakes, people are using crowbars, pickaxes and their bare hands to try to reach survivors.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqj1210rj0yo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 3. Founder of Asian super-app Gojek sentenced to years in jail for corruption
-
-[原文] The case against Gojek founder Nadiem Makarim relates to a laptop deal made during his term as Indonesia's education minister.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c79yvw23yr9o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Heavy security deployed in South Africa ahead of anti-migrant protests
-
-[原文] Thousands of people have left South Africa ahead of Tuesday's deadline set by anti-migrant groups.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Manhunt under way after bomb injures Ukrainian oligarch and family in Monaco
+### 2. Manhunt after bomb injures Ukrainian oligarch in Monaco
 
 [原文] The blast was caused by an explosive device which appeared to contain bolts and pellets, the head of Monaco's government said.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. US envoys in Doha to meet mediators but not Iranians, Qatar says
+
+[原文] Qatar's foreign ministry spokesman says no high-level meetings or direct talks between the US and Iran are scheduled.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cpd38x1dy4no?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. Thousands of anti-migrant protesters march in South Africa amid heavy police presence
+
+[原文] Thousands of people have already left South Africa ahead of the deadline set by anti-migrant groups.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Founder of Asian super-app Gojek sentenced to years in jail for corruption
+
+[原文] The case against Gojek founder Nadiem Makarim relates to a laptop deal made during his term as Indonesia's education minister.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c79yvw23yr9o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Medicare will start covering obesity drugs for the first time. Here's what patients should know
+### 1. Small-cap stocks enjoy their best first half in 35 years. Here's what's driving it
+
+[原文] The advance marks a sharp turnaround after years of underperformance versus large-cap peers.
+
+📎 [阅读原文](https://www.cnbc.com/2026/06/30/small-cap-stocks-enjoy-best-first-half-since-1991-as-ai-trade-expands.html) — *CNBC*
+
+### 2. Oil prices set for steep monthly drop as Trump, Iran issue mixed messages on talks in Qatar
+
+[原文] The moves come as oil traders monitor the prospect of U.S.-Iran talks in Doha on Tuesday.
+
+📎 [阅读原文](https://www.cnbc.com/2026/06/30/oil-prices-brent-wti-crude-trump-iran.html) — *CNBC*
+
+### 3. White House AI crackdown opens door for Chinese model makers to close gap
+
+[原文] The Trump administration's crackdown on Anthropic's leading artificial intelligence models is looking like a gift to China.
+
+📎 [阅读原文](https://www.cnbc.com/2026/06/30/white-house-ai-china-crackdown.html) — *CNBC*
+
+### 4. AeroVironment skyrockets 21% as dronemaker capitalizes on defense spending surge
+
+[原文] AeroVironment is benefiting from U.S. plans to modernize the U.S. military and secure space.
+
+📎 [阅读原文](https://www.cnbc.com/2026/06/30/aerovironment-avav-stock-earnings-defense.html) — *CNBC*
+
+### 5. Medicare will start covering obesity drugs for the first time. Here's what patients should know
 
 [原文] The move could unlock millions of new patients for Novo Nordisk and Eli Lilly and expand access to medications that were previously out of reach for seniors.
 
 📎 [阅读原文](https://www.cnbc.com/2026/06/30/medicare-obesity-drug-glp-1-coverage-starting-july-1.html) — *CNBC*
-
-### 2. Buffett delays annual donation to Gates Foundation pending review of Jeffrey Epstein ties: WSJ
-
-[原文] This comes as the foundation continues to review its ties to the late sex offender Jeffery Epstein.
-
-📎 [阅读原文](https://www.cnbc.com/2026/06/30/warren-buffett-delays-gates-foundation-donation-epstein-review.html) — *CNBC*
-
-### 3. French biotech stock soars 34% after new data on experimental medicine
-
-[原文] Shares of French biotech company Abivax soared Tuesday after it released fresh data on its lead drug for bowel disease.
-
-📎 [阅读原文](https://www.cnbc.com/2026/06/30/abivax-stock-trial-data-biotech-obefazimod.html) — *CNBC*
-
-### 4. Digital Realty falls 4% after taking $3.5 billion stake in Blackstone's Virginia data centers
-
-[原文] Digital Realty fell in premarket trading Tuesday after it announced its buying a $3.5 billion stake in three data centers from asset manager Blackstone.
-
-📎 [阅读原文](https://www.cnbc.com/2026/06/30/digital-realty-blackstone-virginia-data-center-35-billion-stake.html) — *CNBC*
-
-### 5. Comcast's NBCUniversal spinoff raises hope for more deals. There may not be good options
-
-[原文] Comcast plans to separate its cable and media divisions over the next year. This could set each company up for M&A, but there might not be any good options.
-
-📎 [阅读原文](https://www.cnbc.com/2026/06/29/comcast-nbcu-spinoff-m-and-a.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Crypto exchange OKX wants AI agents to hire and pay each other
+### 1. Your brand deserves its own stage — Side Events at TechCrunch Disrupt 2026
 
-[原文] OKX is bringing together payments, identity and reputation into a marketplace for AI agents.
+[原文] From October 10-16, host a Side Event and command the room during the week of TechCrunch Disrupt 2026.
+
+📎 [阅读原文](https://techcrunch.com/2026/06/30/your-brand-deserves-its-own-stage-side-events-at-techcrunch-disrupt-2026/) — *TechCrunch*
+
+### 2. Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade
+
+[原文] Proton's Lumo 2.0 is dropping this week, giving users a broader variety of capabilities.
+
+📎 [阅读原文](https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/) — *TechCrunch*
+
+### 3. Crypto exchange OKX wants AI agents to hire and pay each other
+
+[原文] OKX is bringing together payments, identity, and reputation into a marketplace for AI agents.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/) — *TechCrunch*
 
-### 2. The AI jobs debate just got messier
+### 4. The AI jobs debate just got messier
 
 [原文] A new report finds "high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/) — *TechCrunch*
 
-### 3. Vibe coding platform Base44 launches own model as AI startups seek defensibility
+### 5. Vibe-coding platform Base44 launches own model as AI startups seek defensibility
 
-[原文] Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.
+[原文] Wix-owned vibe-coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/) — *TechCrunch*
-
-### 4. Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role
-
-[原文] VCs remain thirsty to fund AI coding startups. This one, founded by investor Chamath Palihapitiya, is no exception.
-
-📎 [阅读原文](https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/) — *TechCrunch*
-
-### 5. Gemini’s personalized AI image generation is now free for US users
-
-[原文] Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.
-
-📎 [阅读原文](https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Pick Mainoo over Anderson against DR Congo - Rooney
+### 1. Germany fans in need of hope as prospect of Klopp looms
 
-[原文] Former England captain Wayne Rooney says he would start Manchester United midfielder Kobbie Mainoo instead of Elliot Anderson in Wednesday's World Cup last-32 tie with DR Congo.
+[原文] As Germany again fail to progress at a World Cup BBC Sport looks at the fallout from their defeat by Paraguay and what happens next.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cp8l7p0n2kvo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cz0jgr7vy5zo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. 'Germany no longer first-class team ' - is this the end for Nagelsmann?
+### 2. France superstars thriving thanks to Deschamps' bold changes
 
-[原文] Germany make a shock last-32 exit against Paraguay, losing a World Cup penalty shootout for the first time to pile pressure on boss Julian Nagelsmann.
+[原文] Why Didier Deschamps' changes to personnel and formation could propel 2022 runners-up France to go one better in this World Cup.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c992kzk00kzo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cg53ggg03nno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. US security chief 'danced happy dance' after Iran exit
+### 3. Swan through but Boulter becomes 11th Briton to fall at Wimbledon
 
-[原文] The United States' head of homeland security says he "danced a happy dance" when Iran's elimination from the World Cup was confirmed.
+[原文] Katie Swan becomes the first Briton to reach the second round at this year's Wimbledon - but Katie Boulter loses to a qualifier.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/crr8x5qkly1o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/c5yzv717n49o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. 'I never expected to be here' - Williams returns to Wimbledon
+### 4. Ex-Leicester defender smashes six and blows kiss to bowler on cricket debut
 
-[原文] For Serena Williams, everything and nothing has changed on her return to Wimbledon.
+[原文] Just a day after resigning as Newport County head coach, Christian Fuchs blows a kiss to a bowler after hitting him for six while making his cricket debut for Derbyshire village side Grindleford.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/c0jyv69p821o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/articles/cr475x3wplro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Germany beaten on penalties as Paraguay reach last 16
+### 5. Williams' Wimbledon legacy before return to Centre Court
 
-[原文] Four-time winners Germany are knocked out of the 2026 World Cup, losing to Paraguay 4-3 on penalties, following a 1-1 draw after extra time.
+[原文] A look back at Serena Williams' Wimbledon legacy to date, including her seven singles titles and remarkable comeback from retirement before her return to Centre Court.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cm20j4m2k3xo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/videos/cy5v732vnv4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘Toy Story 5’ Stays Dominant No. 1 at U.K. and Ireland Box Office
+### 1. Josh Peck Says He Only Took Home Around $500,000 for ‘Drake and Josh’ After Four Years and 60 Episodes
 
-[原文] Disney&#8217;s animated powerhouse &#8220;Toy Story 5&#8221; maintained its absolute stranglehold on the U.K. and Ireland box office during its sophomore frame, dropping a modest 36% to collect a comm
+[原文] Josh Peck revealed on the &#8220;Financial Tea with Mrs. Dow Jones&#8221; podcast that he and his &#8220;Drake and Josh&#8221; castmates earned far less from the Nickelodeon series than fans might ass
 
-📎 [阅读原文](https://variety.com/2026/film/box-office/toy-story-5-supergirl-uk-ireland-box-office-1236799082/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/josh-peck-drake-josh-salary-financial-tea-1236799116/) — *Variety*
 
-### 2. Colin Farrell, Steve Coogan, Charlie Heaton, Domhnall Gleeson and More Join Emilia Jones and Alison Oliver in Netflix’s Irish Period Thriller ‘Bad Bridgets’
+### 2. Danish Esports Company Blast Opens NYC Headquarters, Plots Live Entertainment Biz Expansion Following Record $133 Million in Revenue (EXCLUSIVE)
 
-[原文] “Bad Bridgets,” the Irish period thriller from &#8220;Kneecap&#8221; director Rich Peppiatt, has added a starry ensemble of names as it gears up to start filming in Northern Ireland in July. Joining i
+[原文] On the heels of a record $133 million in revenue last year, global esports company Blast has opened a new headquarters in New York City and announced plans to further expand &#8220;beyond traditional 
 
-📎 [阅读原文](https://variety.com/2026/film/global/colin-farrell-steve-coogan-join-netflix-bad-bridgets-1236799067/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/gaming/news/blast-nyc-headquarters-esports-expansion-1236798365/) — *Variety*
 
-### 3. Kieu Chinh Returns to Vietnam for the First Time in Competition at Danang Film Fest With ‘Chrysalis,’ Daniel K. Winn’s Adaptation of His Memoir
+### 3. ‘SpongeBob Day’ Celebration Set for July Across Nickelodeon, TikTok, YouTube, Roblox and More
 
-[原文] Kieu Chinh has spent 68 years as an actor, and most of those years carried her further from the country where she began, through Hollywood, through &#8220;The Joy Luck Club,&#8221; through &#8220;The 
+[原文] Nickeloden is celebrating SpongeBob&#8217;s birthday in style. Nickeolodeon has officially declared July 14 &#8220;SpongeBob Day,&#8221; which aims to be an annual celebration timed to the beloved cha
 
-📎 [阅读原文](https://variety.com/2026/film/festivals/kieu-chinh-chrysalis-danaff-danang-1236799076/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/spongebob-day-celebration-nickelodeon-1236798785/) — *Variety*
 
-### 4. Autographed Lionel Messi Jerseys Drop Online as Argentine Star Leads Team Into World Cup Knockout Round
+### 4. Television Academy Hall of Fame Class: Netflix’s Ted Sarandos, Jean Smart, Ted Danson and ‘South Park’ Co-Creators Among Honorees
 
-[原文] The 2026 FIFA World Cup is into the knockout rounds and all eyes will be on Lionel Messi, as the soccer legend leads Argentina onwards in their campaign to claim a second consecutive World Cup title. 
+[原文] The Television Academy has announced the recipients of the 28th Hall of Fame class, tapping seven TV titans whose work spans documentary, animation, journalism, comedy and the executive suite. The 202
 
-📎 [阅读原文](https://variety.com/2026/shopping/athletes/best-lionel-messi-autograph-jersey-signed-merch-buy-online-1236799022/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/awards/television-academy-hall-of-fame-2026-inductees-1236798976/) — *Variety*
 
-### 5. Louis C.K. Re-Enters the Mainstream With Caustic Netflix Special ‘Ridiculous’: TV Review
+### 5. British Government Likely to Intervene in Paramount’s Proposed $110 Billion Takeover of Warner Bros. Discovery
 
-[原文] As Louis C.K was publicly accused of sexual misconduct, subsequently confirmed that &#8220;these stories are true,&#8221; partially retreated from public life and gradually returned — a trajectory tha
+[原文] The British government has signalled that it is likely to intervene in Paramount Skydance’s proposed $110 billion takeover of Warner Bros. Discover, citing concerns about maintaining media plurality. 
 
-📎 [阅读原文](https://variety.com/2026/tv/reviews/louis-ck-ridiculous-review-netflix-1236797990/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/british-government-paramount-takeover-warner-bros-discovery-1236799135/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Dexter: Resurrection Season 2 Is Bringing Back a Dead Villain
+### 1. The Art of Star Wars: Andor Art Book Exclusive New Preview
 
-[原文] Dexter: Resurrection Season 2 will bring back one of Dexter's foes, much to the surprise of fans.
+[原文] The Art of Star Wars: Andor peels back the curtain on the making of the most visually stunning Star Wars series to date. Check out our exclusive preview of the new art book.
 
-📎 [阅读原文](https://www.ign.com/articles/dexter-resurrection-season-2-is-bringing-back-a-dead-villain) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/the-art-of-star-wars-andor-art-book-exclusive-new-preview) — *IGN*
 
-### 2. Tekken 8 Roger Jr. Trailer Inspired by Viral, Kangaroo-Punching Clip Was Prompted by Former Tekken Director Katsuhiro Harada
+### 2. Everything Coming to Netflix in July 2026
 
-[原文] Former Tekken director Katsuhiro Harada has confirmed that he had a hand in the kangaroo’s clever reveal.
+[原文] It's golfing season on Netflix in July.
 
-📎 [阅读原文](https://www.ign.com/articles/tekken-8-roger-jr-trailer-inspired-by-viral-kangaroo-punching-clip-was-prompted-by-former-tekken-director-katsuhiro-harada) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/whats-new-on-netflix-july-2026) — *IGN*
 
-### 3. Persona Live-Action TV Show in the Works at Netflix
+### 3. 'Like Frodo Going Into Mordor': Zach Cregger's Resident Evil 'Feels Like 1 Gigantic Sequence' Following an 'Everyman' Character Burdened by a Sacred Mission
 
-[原文] A live-action Persona TV show is reportedly in development at Netflix.
+[原文] Weapons director Zach Cregger has said his Resident Evil movie will feel like "one gigantic sequence" that follows its regular guy protagonist Bryan as he undertakes a perilous journey "like Frodo goi
 
-📎 [阅读原文](https://www.ign.com/articles/persona-live-action-tv-show-in-the-works-at-netflix) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/like-frodo-going-into-mordor-zach-creggers-resident-evil-feels-like-1-gigantic-sequence-following-an-everyman-character-burdened-by-a-sacred-mission) — *IGN*
 
-### 4. Cyberpunk: Edgerunners 2 Teaser Features Cyberpunk 2077 Locations Set to Show Up in New Season
+### 4. MTG Marvel Super Heroes Set Has Launched with Huge Amazon Discounts Already Up for Grabs
 
-[原文] The first Cyberpunk: Edgerunners 2 teaser is here, and fans have already found some of the locations the new season pulled from Cyberpunk 2077.
+[原文] Magic: The Gathering's Marvel Super Heroes set has officially launched, and Amazon is already offering massive 40% discounts on Play Booster boxes and gear.
 
-📎 [阅读原文](https://www.ign.com/articles/cyberpunk-edgerunners-2-teaser-features-cyberpunk-2077-locations-set-to-show-up-in-new-season) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/mtg-marvel-super-heroes-booster-box-deals) — *IGN*
 
-### 5. The 10 Most Anticipated TV Shows to Stream in July
+### 5. Obsession Just Landed on Digital, Now Available to Preorder on Blu-ray
 
-[原文] From a caped crusader to the threat of a multiversal collapse and even a washed-up golfer, here are our picks for what to stream this month.
+[原文] Curry Barker's Obsession just landed on digital streaming while becoming available to preorder on Blu-ray.
 
-📎 [阅读原文](https://www.ign.com/articles/most-anticipated-tv-shows-to-stream-in-july-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/obsession-digital-streaming-4k-blu-ray) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Nobody Noticed the Giant Smiley Face on the Ferrari Luce’s Dashboard
+### 1. 2026 Genesis GV70 Pros and Cons Review: It Must Be Tiring Being This Good
+
+[原文] Despite not being significantly refreshed since its debut several years ago, the Genesis GV70 still checks most, if not all, of the boxes buyers are looking for.
+The post 2026 Genesis GV70 Pros and Co
+
+📎 [阅读原文](https://www.thedrive.com/car-reviews/2026-genesis-gv70-pros-and-cons-review-it-must-be-tiring-being-this-good) — *The Drive*
+
+### 2. Ford Recalls 740,000 Trucks and SUVs That Could Roll Away in Park: TDS
+
+[原文] The recall covers 2018-2021 Ford and Lincoln models including the F-150, and until you get yours fixed, it's best to engage the parking brake every time.
+The post Ford Recalls 740,000 Trucks and SUVs 
+
+📎 [阅读原文](https://www.thedrive.com/news/ford-recalls-740000-trucks-and-suvs-that-could-roll-away-in-park-tds) — *The Drive*
+
+### 3. Advanced Aftermarket Engineering: Here’s How Seriously TuxMat Takes Perfect Fitment
+
+[原文] TuxMat floor mats have better-than-factory floor coverage and elite-tier fitment because of the lengths their engineers go to in product development.
+The post Advanced Aftermarket Engineering: Here’s 
+
+📎 [阅读原文](https://www.thedrive.com/sponsored/advanced-aftermarket-engineering-heres-how-seriously-tuxmat-takes-perfect-fitment) — *The Drive*
+
+### 4. Nobody Noticed the Giant Smiley Face on the Ferrari Luce’s Dashboard
 
 [原文] The more we look around the Ferrari Luce's design, the weirder stuff we find.
 The post Nobody Noticed the Giant Smiley Face on the Ferrari Luce&#8217;s Dashboard appeared first on The Drive.
 
 📎 [阅读原文](https://www.thedrive.com/news/did-ferrari-mean-to-put-a-giant-smiley-face-on-the-luces-dashboard) — *The Drive*
 
-### 2. CAT Diesel-Powered Mower Has a Bigger Engine Than a Honda Civic
+### 5. CAT Diesel-Powered Mower Has a Bigger Engine Than a Honda Civic
 
 [原文] When your zero-turn has more displacement than a college kid's daily driver, you're doing something right.
 The post CAT Diesel-Powered Mower Has a Bigger Engine Than a Honda Civic appeared first on Th
 
 📎 [阅读原文](https://www.thedrive.com/news/cat-diesel-powered-mower-has-a-bigger-engine-than-a-honda-civic) — *The Drive*
-
-### 3. Toyota Sales Keep Sinking in 2026: The Downshift
-
-[原文] Toyota just recorded its fourth-straight month of global sales decrease due to supply challenges in the Middle East and strong competition in China.
-The post Toyota Sales Keep Sinking in 2026: The Dow
-
-📎 [阅读原文](https://www.thedrive.com/news/toyota-sales-keep-sinking-in-2026-the-downshift) — *The Drive*
-
-### 4. Dutch Startup Wants to Build a Supercar You’ll Straddle Instead of Sit In
-
-[原文] Is this necessary? Probably not. But it's a good way for a fledgling automaker to get attention.
-The post Dutch Startup Wants to Build a Supercar You&#8217;ll Straddle Instead of Sit In appeared first
-
-📎 [阅读原文](https://www.thedrive.com/news/dutch-startup-wants-to-build-a-supercar-youll-straddle-instead-of-sit-in) — *The Drive*
-
-### 5. Your Kids’ School Bus Is About to Become a Roaming Surveillance Vehicle
-
-[原文] A company that sells cameras to catch drivers illegally passing stopped school buses wants to turn them into license plate readers.
-The post Your Kids&#8217; School Bus Is About to Become a Roaming Su
-
-📎 [阅读原文](https://www.thedrive.com/news/your-kids-school-bus-is-about-to-become-a-roaming-surveillance-vehicle) — *The Drive*
 
 ---
 
@@ -439,35 +439,35 @@ The post Your Kids&#8217; School Bus Is About to Become a Roaming Su
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Ariana Grande Reschedules 3 ‘Eternal Sunshine’ Tour Dates: ‘Safety, First and Foremost’
+### 1. Jay-Z’s ‘4:44’ Bonus Tracks Are Finally Available on All Streaming Services
+
+[原文] The three songs — including collaborations with James Blake and Blue Ivy Carter — were previously only on Tidal
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/jay-z-444-bonus-tracks-streaming-services-1235586595/) — *Rolling Stone*
+
+### 2. Sara Bareilles: The Rolling Stone Interview
+
+[原文] Ahead of her first new album in seven years, the singer-songwriter gives a revealing (and often hilarious) interview on grief, mental health, and avoiding the “big, bad pop monster”
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/sara-bareilles-shell-1235586296/) — *Rolling Stone*
+
+### 3. Ariana Grande Reschedules 3 ‘Eternal Sunshine’ Tour Dates: ‘Safety, First and Foremost’
 
 [原文] The singer apologized for moving the upcoming concerts due to production issues
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/ariana-grande-reschedules-eternal-sunshine-tour-dates-1235586459/) — *Rolling Stone*
 
-### 2. Lizzo Reflects on ‘Bitch’ Album Flop: ‘I Hurt My Own Feelings’
+### 4. Lizzo Reflects on ‘Bitch’ Album Flop: ‘I Hurt My Own Feelings’
 
 [原文] While she was initially stressed by the disappointing chart numbers, Lizzo says she came to terms with the reality of the industry and past allegations
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/lizzo-addresses-bitch-album-flop-1235586250/) — *Rolling Stone*
 
-### 3. Bruce Tull, Guitarist for Alt-Country Favorites Scud Mountain Boys, Dead at 71
+### 5. Bruce Tull, Guitarist for Alt-Country Favorites Scud Mountain Boys, Dead at 71
 
 [原文] The band made their earliest recordings around Tull's kitchen table and released their best-known LP, Massachusetts, on Sub Pop in 1996
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/scud-mountain-boys-bruce-tull-dead-obituary-1235586260/) — *Rolling Stone*
-
-### 4. New Order’s Gillian Gilbert, Stephen Morris Not Touring With Band ‘Due to Personal Health Reasons’
-
-[原文] The band said the two members “won’t be touring for the foreseeable future” including an upcoming show in Chile
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/new-order-gillian-gilbert-stephen-morris-not-touring-health-1235586203/) — *Rolling Stone*
-
-### 5. ‘Michael’ Is Now the Highest-Grossing Biopic of All Time
-
-[原文] The music biopic surpassed Oppenheimer's box office record, earning $977 million so far
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/michael-highest-grossing-biopic-1235586035/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post Your Kids&#8217; School Bus Is About to Become a Roaming Su
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Visa Steps Into Travel — and Into Competition With Its Own Card Issuers
+### 1. The World Cup Winners So Far? Kansas City and Ranch Dressing
+
+[原文] Occupancy may have missed the mark, but hotels are benefitting from a spike in room rates — particularly in certain host markets.
+
+📎 [阅读原文](https://skift.com/2026/06/30/world-cup-winners-hotels-bars-ranch/) — *Skift*
+
+### 2. U.S. Motel 6 Business Is Driving Prism’s Indian IPO, New Filing Shows
+
+[原文] Prism may be listing in India, but its business is increasingly American. The Motel 6 acquisition now drives its profits and defines the purpose of its IPO.
+
+📎 [阅读原文](https://skift.com/2026/06/30/u-s-motel-6-business-is-driving-prisms-indian-ipo-new-filing-shows/) — *Skift*
+
+### 3. Visa Steps Into Travel — and Into Competition With Its Own Card Issuers
 
 [原文] Visa just officially launch a consumer travel site that competes with the banks that pay Visa to issue their cards. That's the real story here, the structural conflict of a payment network establishin
 
 📎 [阅读原文](https://skift.com/2026/06/29/visa-steps-into-travel-and-into-competition-with-its-own-card-issuers/) — *Skift*
 
-### 2. Budget Cuts, Lagging Events: What’s Next for Destination Canada as CEO Steps Down
+### 4. Budget Cuts, Lagging Events: What’s Next for Destination Canada as CEO Steps Down
 
 [原文] Walden's successor is set to take over as the destination works to overcome tensions with America and build back business events.
 
 📎 [阅读原文](https://skift.com/2026/06/29/destination-canada-marsha-walden-ceo-departure/) — *Skift*
 
-### 3. Airbnb Scams Are Up 30x. Criminals Are Coming for Hosts.
+### 5. Airbnb Scams Are Up 30x. Criminals Are Coming for Hosts.
 
 [原文] On Monday's ⁠Good Morning Hospitality, A Skift Podcast⁠, ⁠Brandreth Canaley⁠, ⁠Michael Goldin⁠, and ⁠Jamie Lane⁠ break down who is actually winning in travel distribution and what the risks look like 
 
 📎 [阅读原文](https://skift.com/2026/06/29/airbnb-scams-are-up-30x-criminals-are-coming-for-hosts/) — *Skift*
-
-### 4. Accor and H World Link Loyalty Programs to Swap Chinese and European Travelers
-
-[原文] Accor’s real prize isn’t more hotels. It’s a direct line to H World’s 310 million loyalty members.
-
-📎 [阅读原文](https://skift.com/2026/06/29/accor-and-h-world-link-loyalty-programs-to-swap-chinese-and-european-travelers/) — *Skift*
-
-### 5. Best Western Has Been Shrinking. BWH Hotels’ Fix Is to Shift Upscale and Overseas.
-
-[原文] Best Western's parent group is about 10% smaller by room count than it was in 2019. CEO Larry Cuculic says he's changing that, partly by adding upmarket brands.
-
-📎 [阅读原文](https://skift.com/2026/06/29/best-western-has-been-shrinking-bwh-hotels-fix-is-to-shift-upscale-and-overseas/) — *Skift*
 
 ---
 
