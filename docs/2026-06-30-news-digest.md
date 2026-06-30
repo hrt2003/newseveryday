@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年06月30日** | 生成时间: 2026-06-30 12:00
+**2026年06月30日** | 生成时间: 2026-06-30 17:45
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Aftershock frays nerves as many Venezuelans left to fend for themselves
+### 1. Angry Venezuelans accuse government of negligence over earthquake response
+
+[原文] People in areas devastated by twin earthquakes say they need more support from the government.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5yzd18dxzxo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Aftershock frays nerves as many Venezuelans left to fend for themselves
 
 [原文] In areas devastated by the twin earthquakes, people are using crowbars, pickaxes and their bare hands to try to reach survivors.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqj1210rj0yo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. 'No one move!': The agonising silence as Venezuela rescuers listen for survivors
+### 3. Founder of Asian super-app Gojek sentenced to years in jail for corruption
 
-[原文] With tens of thousands of people still believed missing, teams listen for signs of life beneath the rubble.
+[原文] The case against Gojek founder Nadiem Makarim relates to a laptop deal made during his term as Indonesia's education minister.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c78yvq72dg7o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c79yvw23yr9o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Six people shot dead at centre for mothers and children in Germany
+### 4. Heavy security deployed in South Africa ahead of anti-migrant protests
 
-[原文] The male suspect who has been arrested was in a custody dispute over his baby daughter, police say.
+[原文] Thousands of people have left South Africa ahead of Tuesday's deadline set by anti-migrant groups.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. One big win and three defeats for Trump in dramatic day at Supreme Court
+### 5. Manhunt under way after bomb injures Ukrainian oligarch and family in Monaco
 
-[原文] While Trump celebrated a ruling expanding presidential power to remove and replace regulators, other decisions were major setbacks.
+[原文] The blast was caused by an explosive device which appeared to contain bolts and pellets, the head of Monaco's government said.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/ceqdzd7zx24o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. US says it has agreed to 'stand down' after exchange of strikes with Iran
-
-[原文] A series of strikes over the weekend saw the US and Iran accuse each other of violating the ceasefire agreement.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. China factory activity grows faster than expected in June on tech export demand
+### 1. Medicare will start covering obesity drugs for the first time. Here's what patients should know
 
-[原文] China's manufacturing engine held up this year as surging demand for artificial intelligence technology helped offset the drag from Middle East turmoil.
+[原文] The move could unlock millions of new patients for Novo Nordisk and Eli Lilly and expand access to medications that were previously out of reach for seniors.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/30/china-factory-activity-june-tech-export-demand-pmi-nbs.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/30/medicare-obesity-drug-glp-1-coverage-starting-july-1.html) — *CNBC*
 
-### 2. Japanese yen sinks to 40-year low, keeping intervention risks in focus
+### 2. Buffett delays annual donation to Gates Foundation pending review of Jeffrey Epstein ties: WSJ
 
-[原文] The Japanese yen weakened to its lowest level against the U.S. dollar since 1986 on Tuesday, keeping investors on alert for possible intervention from Japanese authorities.
+[原文] This comes as the foundation continues to review its ties to the late sex offender Jeffery Epstein.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/30/japan-yen-falls-lowest-level-since-1986-dollar-intervention-risk.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/30/warren-buffett-delays-gates-foundation-donation-epstein-review.html) — *CNBC*
 
-### 3. Trump bought as much as $5 million in Axon stock before ICE sought $220 million Taser deal
+### 3. French biotech stock soars 34% after new data on experimental medicine
 
-[原文] Axon Enterprise has ramped up lobbying in Congress on federal law enforcement technology as ICE pursues a potential $220 million Taser deal.
+[原文] Shares of French biotech company Abivax soared Tuesday after it released fresh data on its lead drug for bowel disease.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/29/trump-axon-stock-ice-taser-immigration-enforcement.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/30/abivax-stock-trial-data-biotech-obefazimod.html) — *CNBC*
 
-### 4. Australia's competition regulator takes Amazon to court over alleged unfair Prime subscription contract terms
+### 4. Digital Realty falls 4% after taking $3.5 billion stake in Blackstone's Virginia data centers
 
-[原文] Australia's competition regulator is taking Amazon to court, alleging its Prime contracts required subscribers to pay AU$2.99 to avoid advertising, with no option for refunds
+[原文] Digital Realty fell in premarket trading Tuesday after it announced its buying a $3.5 billion stake in three data centers from asset manager Blackstone.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/30/australias-competition-regulator-takes-amazon-to-court-over-alleged-unfair-prime-subscription-contract-terms.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/30/digital-realty-blackstone-virginia-data-center-35-billion-stake.html) — *CNBC*
 
-### 5. Eli Lilly, Regeneron among first companies selected for FDA initiative to speed review of new manufacturing facilities
+### 5. Comcast's NBCUniversal spinoff raises hope for more deals. There may not be good options
 
-[原文] Eli Lilly and Regeneron are among the first seven companies the FDA has selected for its PreCheck Pilot Program, CNBC has learned.
+[原文] Comcast plans to separate its cable and media divisions over the next year. This could set each company up for M&A, but there might not be any good options.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/29/eli-lilly-regeneron-in-fda-precheck-manufacturing-program.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/29/comcast-nbcu-spinoff-m-and-a.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Vibe coding platform Base44 launches own model as AI startups seek defensibility
+### 1. Crypto exchange OKX wants AI agents to hire and pay each other
+
+[原文] OKX is bringing together payments, identity and reputation into a marketplace for AI agents.
+
+📎 [阅读原文](https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/) — *TechCrunch*
+
+### 2. The AI jobs debate just got messier
+
+[原文] A new report finds "high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs.
+
+📎 [阅读原文](https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/) — *TechCrunch*
+
+### 3. Vibe coding platform Base44 launches own model as AI startups seek defensibility
 
 [原文] Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/) — *TechCrunch*
 
-### 2. Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role
+### 4. Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role
 
 [原文] VCs remain thirsty to fund AI coding startups. This one, founded by investor Chamath Palihapitiya, is no exception.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/) — *TechCrunch*
 
-### 3. Gemini’s personalized AI image generation is now free for US users
+### 5. Gemini’s personalized AI image generation is now free for US users
 
 [原文] Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/) — *TechCrunch*
-
-### 4. Watch out, Amazon: The Kobo eReader now has a Goodreads rival
-
-[原文] Kobo users can now automatically sync their reading progress to StoryGraph, making it easier to track books, reading stats, and challenges without relying on Amazon’s Goodreads.
-
-📎 [阅读原文](https://techcrunch.com/2026/06/29/watch-out-amazon-the-kobo-ereader-now-has-a-goodreads-rival/) — *TechCrunch*
-
-### 5. Waymo and Uber quietly part ways in Phoenix
-
-[原文] Uber said it is readying the launch of a separate autonomous vehicle partnership in the city, but did not name the partner.
-
-📎 [阅读原文](https://techcrunch.com/2026/06/29/waymo-and-uber-quietly-part-ways-in-phoenix/) — *TechCrunch*
 
 ---
 
@@ -130,35 +130,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. These tiny soil microbes could rescue crops from salty farmland
+### 1. Scientists may have finally found how Alzheimer's spreads through the brain
+
+[原文] A common brain protein may be giving Alzheimer’s disease an unexpected way to spread, carrying toxic Tau proteins from damaged neurons into healthy ones. By blocking these harmful protein packages bef
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260630020521.htm) — *Science Daily*
+
+### 2. Scientists say creatine may help fight depression
+
+[原文] Creatine is best known as a muscle-building supplement, but scientists are now investigating whether it could also help treat depression by boosting the brain's energy supply. A new review examined fi
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260630020231.htm) — *Science Daily*
+
+### 3. These tiny soil microbes could rescue crops from salty farmland
 
 [原文] Researchers have discovered that beneficial soil bacteria give plants an unexpected survival advantage in salty soils. Instead of helping plants keep salt out, the microbes stimulate the production of
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260626124703.htm) — *Science Daily*
 
-### 2. Astronomers found two rare super puff planets lighter than cotton candy
+### 4. Astronomers found two rare super puff planets lighter than cotton candy
 
 [原文] Two newly confirmed "super-puff" planets are so diffuse that they are less dense than cotton candy, despite being about the size of Jupiter. Their rare orbital relationship and enormous, lightweight a
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260626124659.htm) — *Science Daily*
 
-### 3. Einstein Probe may have caught a black hole tearing apart a white dwarf for the first time
+### 5. Einstein Probe may have caught a black hole tearing apart a white dwarf for the first time
 
 [原文] Astronomers may have witnessed one of the rarest and most dramatic cosmic events ever seen: a long-sought intermediate-mass black hole ripping apart a dense white dwarf star and devouring it. The Eins
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260625060222.htm) — *Science Daily*
-
-### 4. They knew the pill was fake but their memory still improved
-
-[原文] Healthy older adults experienced measurable improvements in memory, physical performance, and stress after taking placebo pills for just three weeks. The most surprising finding was that the placebo o
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260625060159.htm) — *Science Daily*
-
-### 5. Hawaii is turning ocean plastic and fishing nets into roads
-
-[原文] Hawaii researchers are giving old fishing nets and recycled plastic a second life by mixing them into asphalt roads. Early tests found these roads didn't release more plastic particles than standard p
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260625014830.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The end for Nagelsmann? Germany suffer their 'next football nightmare'
+### 1. Pick Mainoo over Anderson against DR Congo - Rooney
+
+[原文] Former England captain Wayne Rooney says he would start Manchester United midfielder Kobbie Mainoo instead of Elliot Anderson in Wednesday's World Cup last-32 tie with DR Congo.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cp8l7p0n2kvo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. 'Germany no longer first-class team ' - is this the end for Nagelsmann?
 
 [原文] Germany make a shock last-32 exit against Paraguay, losing a World Cup penalty shootout for the first time to pile pressure on boss Julian Nagelsmann.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c992kzk00kzo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Inside Paraguay's tears of joy over their seismic World Cup shock
+### 3. US security chief 'danced happy dance' after Iran exit
 
-[原文] How Paraguay marked one of the biggest wins in their footballing history with euphoric celebrations.
+[原文] The United States' head of homeland security says he "danced a happy dance" when Iran's elimination from the World Cup was confirmed.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cy5v96vk1q9o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/crr8x5qkly1o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. 45 minutes from Brazil 'humiliation' - but 'Crafty Carlo' does it again
+### 4. 'I never expected to be here' - Williams returns to Wimbledon
 
-[原文] Half-time in Houston and Brazil's players trudged off facing another early World Cup exit. But we should have known better than to doubt Carlo Ancelotti.
+[原文] For Serena Williams, everything and nothing has changed on her return to Wimbledon.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c17yzyy8ldko?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/c0jyv69p821o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. McCullum & Key should go in 'complete clearout' - Vaughan
+### 5. Germany beaten on penalties as Paraguay reach last 16
 
-[原文] Former captain Michael Vaughan says England coach Brendon McCullum and Rob Key should resign as part of a "complete clear-out" following the retirement of Ben Stokes.
+[原文] Four-time winners Germany are knocked out of the 2026 World Cup, losing to Paraguay 4-3 on penalties, following a 1-1 draw after extra time.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/ce8ke6y8egzo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Is tennis' relentless nature causing injury crisis?
-
-[原文] After British stars Jack Draper and Emma Raducanu withdrew injured from Wimbledon, BBC Sport analyses why so many top players are struggling with injury.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/c3eyd24pk75o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cm20j4m2k3xo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Two Members of New Order Step Away From Touring ‘Due to Personal Health Reasons’
+### 1. ‘Toy Story 5’ Stays Dominant No. 1 at U.K. and Ireland Box Office
 
-[原文] New Order announced Monday that Stephen Morris and Gillian Gilbert will not be joining their show at Primavera in Chile in November &#8220;due to personal health reasons.&#8221; &#8220;Circumstances m
+[原文] Disney&#8217;s animated powerhouse &#8220;Toy Story 5&#8221; maintained its absolute stranglehold on the U.K. and Ireland box office during its sophomore frame, dropping a modest 36% to collect a comm
 
-📎 [阅读原文](https://variety.com/2026/music/news/new-order-members-step-away-touring-health-reasons-1236798930/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/box-office/toy-story-5-supergirl-uk-ireland-box-office-1236799082/) — *Variety*
 
-### 2. What’s Coming to Disney+ in July 2026
+### 2. Colin Farrell, Steve Coogan, Charlie Heaton, Domhnall Gleeson and More Join Emilia Jones and Alison Oliver in Netflix’s Irish Period Thriller ‘Bad Bridgets’
 
-[原文] Disney+ is heading into July with a packed lineup of premieres, returning favorites and major live sports. July kicks off with &#8220;Disney Celebrates America,&#8221; a 24-hour special in honor of th
+[原文] “Bad Bridgets,” the Irish period thriller from &#8220;Kneecap&#8221; director Rich Peppiatt, has added a starry ensemble of names as it gears up to start filming in Northern Ireland in July. Joining i
 
-📎 [阅读原文](https://variety.com/feature/whats-on-disney-plus-new-shows-movies-1203517920/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/colin-farrell-steve-coogan-join-netflix-bad-bridgets-1236799067/) — *Variety*
 
-### 3. LISTEN: Box Office: ‘Supergirl’ Stumbles, ‘Toy Story 5’ Flexes and ‘Michael’ Hits a Milestone; Why Comcast is Splitting NBCUniversal and Sky From Cable
+### 3. Kieu Chinh Returns to Vietnam for the First Time in Competition at Danang Film Fest With ‘Chrysalis,’ Daniel K. Winn’s Adaptation of His Memoir
 
-[原文] On today’s episode of &#8220;Daily Variety&#8221; podcast, in our Box Office segment, Variety’s Jack Dunn breaks down a rough weekend for “Supergirl” and a big frame for “Toy Story 5” and “Michael.” A
+[原文] Kieu Chinh has spent 68 years as an actor, and most of those years carried her further from the country where she began, through Hollywood, through &#8220;The Joy Luck Club,&#8221; through &#8220;The 
 
-📎 [阅读原文](https://variety.com/2026/film/news/box-office-supergirl-toy-story-5-comcast-nbcuniversal-sky-1236798801/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/kieu-chinh-chrysalis-danaff-danang-1236799076/) — *Variety*
 
-### 4. Director Carl Rinsch Sentenced to 30 Months in Netflix Fraud Case After Keanu Reeves and Attorneys Cite Mental Health Struggles
+### 4. Autographed Lionel Messi Jerseys Drop Online as Argentine Star Leads Team Into World Cup Knockout Round
 
-[原文] Carl Rinsch, the director of “47 Ronin,” was sentenced Monday to 30 months in federal prison, receiving half of the government’s recommended sentence after Judge Jed Rakoff considered evidence of his 
+[原文] The 2026 FIFA World Cup is into the knockout rounds and all eyes will be on Lionel Messi, as the soccer legend leads Argentina onwards in their campaign to claim a second consecutive World Cup title. 
 
-📎 [阅读原文](https://variety.com/2026/film/news/carl-rinsch-sentence-30-months-keanu-reeves-netflix-1236798838/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/shopping/athletes/best-lionel-messi-autograph-jersey-signed-merch-buy-online-1236799022/) — *Variety*
 
-### 5. ‘Persona’ Live-Action TV Adaptation in the Works at Netflix, 21 Laps & Story Kitchen to Produce (EXCLUSIVE)
+### 5. Louis C.K. Re-Enters the Mainstream With Caustic Netflix Special ‘Ridiculous’: TV Review
 
-[原文] Netflix is developing a live-action series based on the &#8220;Persona&#8221; video game franchise, Variety has learned from sources. Christopher Monfette is attached to write the adaptation in additi
+[原文] As Louis C.K was publicly accused of sexual misconduct, subsequently confirmed that &#8220;these stories are true,&#8221; partially retreated from public life and gradually returned — a trajectory tha
 
-📎 [阅读原文](https://variety.com/2026/tv/news/persona-live-action-tv-series-netflix-1236798581/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/reviews/louis-ck-ridiculous-review-netflix-1236797990/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Persona Live-Action TV Show in the Works at Netflix
+### 1. Dexter: Resurrection Season 2 Is Bringing Back a Dead Villain
+
+[原文] Dexter: Resurrection Season 2 will bring back one of Dexter's foes, much to the surprise of fans.
+
+📎 [阅读原文](https://www.ign.com/articles/dexter-resurrection-season-2-is-bringing-back-a-dead-villain) — *IGN*
+
+### 2. Tekken 8 Roger Jr. Trailer Inspired by Viral, Kangaroo-Punching Clip Was Prompted by Former Tekken Director Katsuhiro Harada
+
+[原文] Former Tekken director Katsuhiro Harada has confirmed that he had a hand in the kangaroo’s clever reveal.
+
+📎 [阅读原文](https://www.ign.com/articles/tekken-8-roger-jr-trailer-inspired-by-viral-kangaroo-punching-clip-was-prompted-by-former-tekken-director-katsuhiro-harada) — *IGN*
+
+### 3. Persona Live-Action TV Show in the Works at Netflix
 
 [原文] A live-action Persona TV show is reportedly in development at Netflix.
 
 📎 [阅读原文](https://www.ign.com/articles/persona-live-action-tv-show-in-the-works-at-netflix) — *IGN*
 
-### 2. Cyberpunk: Edgerunners 2 Teaser Features Cyberpunk 2077 Locations Set to Show Up in New Season
+### 4. Cyberpunk: Edgerunners 2 Teaser Features Cyberpunk 2077 Locations Set to Show Up in New Season
 
 [原文] The first Cyberpunk: Edgerunners 2 teaser is here, and fans have already found some of the locations the new season pulled from Cyberpunk 2077.
 
 📎 [阅读原文](https://www.ign.com/articles/cyberpunk-edgerunners-2-teaser-features-cyberpunk-2077-locations-set-to-show-up-in-new-season) — *IGN*
 
-### 3. The 10 Most Anticipated TV Shows to Stream in July
+### 5. The 10 Most Anticipated TV Shows to Stream in July
 
 [原文] From a caped crusader to the threat of a multiversal collapse and even a washed-up golfer, here are our picks for what to stream this month.
 
 📎 [阅读原文](https://www.ign.com/articles/most-anticipated-tv-shows-to-stream-in-july-2026) — *IGN*
-
-### 4. Why The Back-to-Back Street Fighter 6 Evo Champion, MenaRD, Switched Off His Main in the Finals
-
-[原文] We asked Evo Champ MenaRD why he decided to switch off the character he's most known for playing in the highest stakes matches of the Street Fighter 6 tournament.
-
-📎 [阅读原文](https://www.ign.com/articles/why-the-back-to-back-street-fighter-6-evo-champion-menard-switched-off-his-main-in-the-finals) — *IGN*
-
-### 5. 'We're Done Paying for Executives' Failures' — Unionized Xbox Developers Hold Press Conference to Make Their Point as Microsoft Reportedly Readies Massive Layoffs
-
-[原文] Unionized Xbox employees are pushing back against the company's looming layoffs and have outlined various demands.
-
-📎 [阅读原文](https://www.ign.com/articles/were-done-paying-for-executives-failures-unionized-xbox-developers-hold-press-conference-to-make-their-point-as-microsoft-reportedly-readies-massive-layoffs) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post Your Kids&#8217; School Bus Is About to Become a Roaming Su
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Three Wildland Firefighters Killed in Colorado Blaze
+### 1. New Florida Law Bans Local Net-Zero Emissions Policies
+
+[原文] A new state law limits Florida communities’ aims to offset greenhouse gas emissions that are warming the global climate and intensifying disasters such as hurricanes. Specifically, HB 1217 prohibits l
+
+📎 [阅读原文](https://insideclimatenews.org/news/30062026/florida-law-bans-net-zero-emission-policies/) — *Inside Climate News*
+
+### 2. FERC Order Bolsters Maryland Case Against Billions in Data Center Grid Costs
+
+[原文] A new federal order could strengthen Maryland’s claim that its households and businesses have been unlawfully billed billions of dollars for transmission upgrades to serve out-of-state data centers. B
+
+📎 [阅读原文](https://insideclimatenews.org/news/30062026/ferc-order-data-center-grid-costs/) — *Inside Climate News*
+
+### 3. Why Is It So Expensive to Replace Lead Pipes in Chicago?
+
+[原文] This story is a partnership between Inside Climate News, Grist and WBEZ, a public radio station serving the Chicago metropolitan region. No city dealing with a lot of lead pipes spends as much as Chic
+
+📎 [阅读原文](https://insideclimatenews.org/news/30062026/chicago-lead-pipe-replacement-cost/) — *Inside Climate News*
+
+### 4. Three Wildland Firefighters Killed in Colorado Blaze
 
 [原文] Three wildland firefighters died over the weekend battling a blaze that was rapidly expanding across a remote area in western Colorado. The helicopter-based crew was making the initial attack on a fir
 
 📎 [阅读原文](https://insideclimatenews.org/news/29062026/three-wildland-firefighters-killed-in-colorado-blaze/) — *Inside Climate News*
 
-### 2. Offshore Oil and Gas Rush Threatens Whale Corridors and Coral Reefs
+### 5. Offshore Oil and Gas Rush Threatens Whale Corridors and Coral Reefs
 
 [原文] From coral reefs in Kenya to Caribbean seagrass meadows and whale migration corridors in the Arctic, a surge in offshore oil, gas and liquefied natural gas development is spreading into some of the wo
 
 📎 [阅读原文](https://insideclimatenews.org/news/29062026/offshore-oil-threatens-whale-corridors-coral-reefs/) — *Inside Climate News*
-
-### 3. Federal Officials Say an Endangered Wetland Plant Is Recovering. Not Everyone Agrees.
-
-[原文] When the northeastern bulrush joined the ranks of federally endangered plants and animals in 1991, the perennial, grass-like sedge teetered on the edge of extinction with just 13 known populations sca
-
-📎 [阅读原文](https://insideclimatenews.org/news/29062026/endangered-northeastern-bulrush-to-be-delisted/) — *Inside Climate News*
-
-### 4. Millions in Climate Investments for Developing Countries Were Just Announced. It’s Not Nearly Enough.
-
-[原文] Multiple donors and international organizations announced commitments to climate finance efforts directed at developing countries during London Climate Action Week, signaling growing attention toward 
-
-📎 [阅读原文](https://insideclimatenews.org/news/29062026/london-climate-action-week-climate-investments/) — *Inside Climate News*
-
-### 5. What Happened When an LNG Giant Came to Town
-
-[原文] CAMERON, La.—Sherry Peshoff can see the steel wall from her front door. Her home is lifted 12 feet off the ground to protect it from stormwaters that surge in off the Gulf, but it’s not as high as the
-
-📎 [阅读原文](https://insideclimatenews.org/news/28062026/venture-global-lng-terminals-in-cameron-louisiana/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post Your Kids&#8217; School Bus Is About to Become a Roaming Su
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Lizzo Reflects on ‘Bitch’ Album Flop: ‘I Hurt My Own Feelings’
+### 1. Ariana Grande Reschedules 3 ‘Eternal Sunshine’ Tour Dates: ‘Safety, First and Foremost’
+
+[原文] The singer apologized for moving the upcoming concerts due to production issues
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/ariana-grande-reschedules-eternal-sunshine-tour-dates-1235586459/) — *Rolling Stone*
+
+### 2. Lizzo Reflects on ‘Bitch’ Album Flop: ‘I Hurt My Own Feelings’
 
 [原文] While she was initially stressed by the disappointing chart numbers, Lizzo says she came to terms with the reality of the industry and past allegations
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/lizzo-addresses-bitch-album-flop-1235586250/) — *Rolling Stone*
 
-### 2. Bruce Tull, Guitarist for Alt-Country Favorites Scud Mountain Boys, Dead at 71
+### 3. Bruce Tull, Guitarist for Alt-Country Favorites Scud Mountain Boys, Dead at 71
 
 [原文] The band made their earliest recordings around Tull's kitchen table and released their best-known LP, Massachusetts, on Sub Pop in 1996
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/scud-mountain-boys-bruce-tull-dead-obituary-1235586260/) — *Rolling Stone*
 
-### 3. New Order’s Gillian Gilbert, Stephen Morris Not Touring With Band ‘Due to Personal Health Reasons’
+### 4. New Order’s Gillian Gilbert, Stephen Morris Not Touring With Band ‘Due to Personal Health Reasons’
 
 [原文] The band said the two members “won’t be touring for the foreseeable future” including an upcoming show in Chile
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/new-order-gillian-gilbert-stephen-morris-not-touring-health-1235586203/) — *Rolling Stone*
 
-### 4. ‘Michael’ Is Now the Highest-Grossing Biopic of All Time
+### 5. ‘Michael’ Is Now the Highest-Grossing Biopic of All Time
 
 [原文] The music biopic surpassed Oppenheimer's box office record, earning $977 million so far
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/michael-highest-grossing-biopic-1235586035/) — *Rolling Stone*
-
-### 5. Bruce Springsteen Says Clive Davis Was ‘Born to Run… Everything’ in Funeral Eulogy
-
-[原文] Springsteen remembered how the “big, and bombastic, and brave” record executive changed his life forever with a Columbia Records contract
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/bruce-springsteen-eulogy-clive-davis-full-speech-1235585895/) — *Rolling Stone*
 
 ---
 
