@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月01日** | 生成时间: 2026-07-01 12:15
+**2026年07月01日** | 生成时间: 2026-07-01 17:56
 
 ---
 
@@ -54,17 +54,17 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump's annual financial disclosure shows more than $580M in crypto-related income
+### 1. Oil prices wobble as breakdown in U.S.-Iran talks casts doubt over peace process
+
+[原文] Oil prices were lower on Wednesday after Iran said it would not meet with U.S. delegates for talks in Qatar, amplifying concern about the peace process.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/01/oil-prices-brent-wti-crude-trump-iran.html) — *CNBC*
+
+### 2. Trump's annual financial disclosure shows more than $580M in crypto-related income
 
 [原文] Trump's 927-page financial disclosure report for 2025 totals more than 900 pages detailing holdings in cryptocurrency and stocks.
 
 📎 [阅读原文](https://www.cnbc.com/2026/06/30/trump-financial-disclosure-released.html) — *CNBC*
-
-### 2. Iran says it is selling oil at 20% premium as end of U.S. blockade sees 40 million barrels exported
-
-[原文] The ceasefire prompted a surge in crude shipments through the Strait of Hormuz, where traffic had largely ground to a halt during the conflict.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/01/iran-us-mou-negotiation-war-oil-exports-strait-of-hormuz-.html) — *CNBC*
 
 ### 3. Anthropic says Trump admin has lifted export controls on Claude Fable 5 and Mythos 5
 
@@ -72,17 +72,17 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/06/30/anthropic-says-trump-admin-has-lifted-export-controls-on-claude-fable-5-and-mythos-5.html) — *CNBC*
 
-### 4. Nike results top estimates even as China sales drop 12%; retailer expects $986 million tariff refund
+### 4. Jim Cramer says the AI trade has shifted — and these stocks are leading now
 
-[原文] Nike was expected to report another quarter of declining sales as the sneaker giant struggles to regain strength under its turnaround strategy.
+[原文] CNBC's Jim Cramer said Wall Street is rewarding the companies supplying the artificial intelligence boom rather than the technology giants funding it.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/30/nike-nke-q4-2026-earnings.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/06/30/jim-cramer-ai-trade-shifted-stocks-leading-now.html) — *CNBC*
 
-### 5. CNBC Daily Open: AI demand fuels investors' portfolios while oil posts biggest monthly decline
+### 5. Employers who laid off workers citing AI are already starting to regret it
 
-[原文] The tech space continues to be fueled by rising artificial intelligence demand, with investors piling their portfolios in the technology, while Amazon Web Services dabbles with Forward Deployed Engine
+[原文] Companies are realizing artificial intelligence can't do everything after all, prompting them to rehire employees to grow their businesses
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/01/cnbc-daily-open-ai-demand-fuels-investors-portfolio-while-oil-posts-biggest-monthly-decline.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/01/employers-who-laid-off-workers-for-ai-are-reversing-their-decisions.html) — *CNBC*
 
 ---
 
@@ -92,7 +92,7 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The “Father of the Internet” is finally retiring
+### 1. The ‘Father of the Internet’ is finally retiring
 
 [原文] Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week.
 
@@ -100,7 +100,7 @@
 
 ### 2. Trump drops restrictions on Anthropic’s Mythos and Fable models
 
-[原文] Anthropic said it would begin restoring access to the Fable on July 1.
+[原文] The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases.
 
 📎 [阅读原文](https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/) — *TechCrunch*
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. United, free and brilliant - can anyone stop France masterclass?
+### 1. NBA free agency is here! Live updates on deals, tr...
 
-[原文] France boss Didier Deschamps urges caution despite watching his side dismantle Sweden to leave Les Bleus fans dreaming of winning the World Cup.
+[原文] We're tracking deals, trades, rumors and buzz across the NBA, including the latest on Keon Ellis, LeBron James, Kawhi Leonard and more.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cp8r1zdj9k5o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason) — *ESPN*
 
-### 2. 120mph serves but movement a struggle - how did Williams' return go?
+### 2. Toronto goes all-in for Kawhi Leonard: Grading the...
 
-[原文] Serena Williams loses on her singles return to Wimbledon - but what can we expect next from the tennis legend?
+[原文] Can Toronto make a run in the East with Kawhi Leonard? Will LA make more moves?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/c621g6z0przo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/nba/story/_/id/49208596/kawhi-leonard-trade-grades-reaction-clippers-raptors-contract) — *ESPN*
 
-### 3. Defying logic - how Haaland could end up with 260 international goals
+### 3. Sources: Raptors near deal to trade for Kawhi
 
-[原文] Erling Haaland delivers on the biggest stage yet for Norway - but just how many goals could he end up with in international football?
+[原文] The Clippers have agreed to trade Kawhi Leonard to the Raptors for Brandon Ingram, Gradey Dick, unprotected first-round picks in 2031 and 2033, a 2027 first-round pick swap and two second-round picks,
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cvge3wkn1v7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/nba/story/_/id/49228663/sources-raptors-nearing-deal-acquire-leonard-clippers) — *ESPN*
 
-### 4. Koeman resigns, while Netherlands report racist abuse
+### 4. Wizards to shun trade offers for Davis, source say...
 
-[原文] Ronald Koeman resigns as Netherlands manager after their World Cup exit, which led to "appalling" racist abuse aimed at players who missed penalties.
+[原文] The Washington Wizards have no interest in trading All-Star forward Anthony Davis and are not listening to offers for him, a source told Andscape's Marc J. Spears.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cly0g1y3v00o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/nba/story/_/id/49230637/source-wizards-intent-shunning-trade-offers-anthony-davis) — *ESPN*
 
-### 5. 'The Azteca erupts!' Quinones fires Mexico into lead
+### 5. Mexico oust Ecuador, 1st WC KO win in 40 years
 
-[原文] Julian Quinones times his run to perfection before rifling home a fierce shot to give Mexico the lead against Ecuador in their round of 32 World Cup match.
+[原文] Mexico won their first World Cup knockout stage match in 40 years after dispatching Ecuador 2-0 in front an electric crowd at Estadio Azteca on Tuesday.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/c8j2xwlgxzeo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49232657/mexico-ecuador-2026-world-cup-knockout-win) — *ESPN*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Kathy Griffin Claims She Was ‘Banned’ From ‘The Tonight Show’ for Being ‘Too Controversial’ and Slams Jimmy Fallon for Hosting Conor McGregor
+### 1. Victor Willis, Village People Founding Lead Singer and ‘YMCA’ Co-Writer, Dies at 74
 
-[原文] Kathy Griffin took to Instagram on Tuesday to claim that she’s been banned from Jimmy Fallon&#8217;s “Tonight Show.” She also slammed Fallon for hosting UFC legend Conor McGregor, who was found liable
+[原文] Victor Willis, the founding lead singer of Village People and co-writer of &#8220;YMCA,&#8221; &#8220;Macho Man&#8221; and &#8220;In the Navy,&#8221; died on Tuesday. He was 74. &#8220;We are profound
 
-📎 [阅读原文](https://variety.com/2026/tv/news/kathy-griffin-banned-tonight-show-fallon-conor-mcgregor-1236799813/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/victor-willis-dead-village-people-lead-singer-ymca-cowriter-1236799865/) — *Variety*
 
-### 2. Aamir Khan to Celebrate 25 Years of ‘Lagaan’ at Indian Film Festival of Melbourne Curtain Raiser (EXCLUSIVE)
+### 2. Malaysian Sci-Fi Feature ‘Mimpi Kita: Castle in the Air’ Charts Audience-Driven Distribution Plan Ahead of Bucheon Market Debut (EXCLUSIVE)
 
-[原文] Actor and producer Aamir Khan will attend a special Melbourne screening of &#8220;Lagaan&#8221; on July 9 to mark the film&#8217;s 25th anniversary, kicking off the Indian Film Festival of Melbourne&#
+[原文] A Malaysian science-fiction fantasy feature is taking an unconventional approach to distribution. &#8220;Mimpi Kita: Castle in the Air&#8221; arrives at the NAFF Project Market&#8217;s It Project stra
 
-📎 [阅读原文](https://variety.com/2026/film/festivals/aamir-khan-25-years-lagaan-indian-film-festival-melbourne-1236799187/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/markets-festivals/mimpi-kita-naff-bucheon-distribution-1236799460/) — *Variety*
 
-### 3. Jury Says Chris Brown Owes Housekeeper $13 Million for Disfigurement in Dog Mauling Attack
+### 3. ‘Othello’ Reimagined as a Black Lesbian in Royal Shakespeare Company’s New Production
 
-[原文] Chris Brown was found liable by a Los Angeles jury on Tuesday for $13 million in the gruesome case of a dog that mauled and disfigured his housekeeper at his home in 2020. At the end of a two-week tri
+[原文] The Royal Shakespeare Company has cast Sharon D. Clarke in the title role of &#8220;Othello,&#8221; with Monique Touko directing a production that relocates Shakespeare&#8217;s tragedy to a climate-th
 
-📎 [阅读原文](https://variety.com/2026/music/news/chris-brown-verdict-dog-mauling-housekeeper-13-million-1236799769/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/theater/news/othello-reimagined-black-lesbian-royal-shakespeare-company-1236799854/) — *Variety*
 
-### 4. Paula Reid, CNN’s Chief Legal Affairs Correspondent, Will Exit Ahead of Paramount Takeover
+### 4. Vietnamese Films Capture 70% of Local Box Office as Galaxy Studio Chief Urges Global Co-Productions at Danang Industry Days
 
-[原文] Paula Reid is laying down the law at CNN. The Warner Bros. Discovery-backed outlet&#8217;s chief legal affairs correspondent has decided to leave ahead of an expected takeover of the news giant by Par
+[原文] Vietnamese films held a 70.6% share of the domestic box office in the first five months of 2026, up from 62.2% across the full year of 2025 and 42.6% in 2023, according to figures presented by Dinh Th
 
-📎 [阅读原文](https://variety.com/2026/tv/news/paula-reid-cnn-exit-legal-affairs-chief-paramount-1236799763/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/vietnamese-films-70-percent-market-share-galaxy-studio-danaff-1236799841/) — *Variety*
 
-### 5. ‘Young Washington’ Review: George Washington Goes to War in an Angel Studios Film That’s Like the Great-Man Biographies You Read in Grade School
+### 5. Yash’s ‘Toxic’ Spotlights Its Powerful Female Ensemble in ‘Ladies & Ladies’ Video (EXCLUSIVE)
 
-[原文] "Young Washington" is like one of those great-man biographies you read in grade school. Released by Angel Studios for the Fourth of July, the movie is intended as a bit of likably square, neo-traditio
+[原文] Yash&#8217;s &#8220;Toxic: A Fairytale for Grown-Ups&#8221; has released &#8220;Ladies &#38; Ladies,&#8221; a promotional video centered on the film&#8217;s formidable female cast and their complex, c
 
-📎 [阅读原文](https://variety.com/2026/film/reviews/young-washington-review-1236799429/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/toxic-ladies-ladies-video-1236799829/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Reacher Season 4 Returns in August, Neagley Spin-Off Lands the Following Month
+### 1. Mario Kart World Surprise Update Adds New Knockout Tour Routes
+
+[原文] Nintendo has updated Switch 2 launch title Mario Kart Tour with new routes for its Knockout Tour mode, as part of a surprise update.
+
+📎 [阅读原文](https://www.ign.com/articles/mario-kart-world-surprise-update-adds-new-knockout-tour-routes) — *IGN*
+
+### 2. X-Men '97 Season 2, Episodes 1-3 Review & Recap (Full Spoilers)
+
+[原文] X-Men ‘97 gets off to a very strong start in its first three episodes, as the series wastes no time in exploring the dramatic, Apocalypse-heavy fallout of Season 1.
+
+📎 [阅读原文](https://www.ign.com/articles/x-men-97-season-2-episodes-1-3-review-recap-full-spoilers) — *IGN*
+
+### 3. Reacher Season 4 Returns in August, Neagley Spin-Off Lands the Following Month
 
 [原文] Premiere dates set for Prime’s ex-MP MVPs.
 
 📎 [阅读原文](https://www.ign.com/articles/reacher-season-4-returns-in-august-neagley-spin-off-lands-the-following-month) — *IGN*
 
-### 2. The New Rick & Morty GLD Jewelry Drop Is Here and the Pickle Rick Pendant Already Sold Out
+### 4. The New Rick & Morty GLD Jewelry Drop Is Here and the Pickle Rick Pendant Already Sold Out
 
 暂无摘要。
 
 📎 [阅读原文](https://www.ign.com/articles/the-new-rick-morty-gld-jewelry-drop-is-here-and-the-pickle-pendant-is-already-sold) — *IGN*
 
-### 3. Ex-PlayStation Boss Defends PC Strategy as Sony Pivots Away from Multiplatform Releases
+### 5. Ex-PlayStation Boss Defends PC Strategy as Sony Pivots Away from Multiplatform Releases
 
 [原文] Shawn Layden, the former President and CEO of Sony Interactive Entertainment of America, has explained why PlayStation's PC strategy made sense.
 
 📎 [阅读原文](https://www.ign.com/articles/ex-playstation-boss-defends-pc-strategy-as-sony-pivots-away-from-multiplatform-releases) — *IGN*
-
-### 4. Everything Coming to Amazon Prime Video in July
-
-暂无摘要。
-
-📎 [阅读原文](https://www.ign.com/articles/whats-new-on-amazon-prime-video-july-2026) — *IGN*
-
-### 5. Civilization 7 Review Update
-
-[原文] A year and a half of updates have brought meaningful improvements alongside a few steps backward.
-
-📎 [阅读原文](https://www.ign.com/articles/civilization-7-review-update) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post Ford Recalls 740,000 Trucks and SUVs
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Chemical Accidents Rise, Analysis Shows, as Trump Administration Proposes Weakening Safety Rules
+### 1. More Living Shorelines Could Come to States Bordering Chesapeake Bay If the Region’s Senators Get Their Way
+
+[原文] Norfolk, Virginia, has remained the poster child for cities facing land subsidence and flooding in the country, struggling through an onslaught of storm surges and blue-sky flooding that become more f
+
+📎 [阅读原文](https://insideclimatenews.org/news/01072026/chesapeake-bay-living-shoreline-projects/) — *Inside Climate News*
+
+### 2. Chemical Accidents Rise, Analysis Shows, as Trump Administration Proposes Weakening Safety Rules
 
 [原文] Physicist Ronald Koopman appeared at a Southern California Air District meeting in 2018 to talk about what seemed like an arcane scientific topic: hydrofluoric acid dispersion and water mitigation tes
 
 📎 [阅读原文](https://insideclimatenews.org/news/30062026/hazardous-chemical-accidents-rise-as-safety-rules-weaken/) — *Inside Climate News*
 
-### 2. Large Fires Scorch Drought-Stricken Western U.S.
+### 3. Large Fires Scorch Drought-Stricken Western U.S.
 
 [原文] After an exceptionally warm and dry winter, vast swaths of the Western United States are up in flames—and conditions could get worse.&#160; Several large fires are burning in Arizona, Colorado, New Me
 
 📎 [阅读原文](https://insideclimatenews.org/news/30062026/large-fires-scorch-drought-stricken-western-u-s/) — *Inside Climate News*
 
-### 3. New Florida Law Bans Local Net-Zero Emissions Policies
+### 4. New Florida Law Bans Local Net-Zero Emissions Policies
 
 [原文] A new state law limits Florida communities’ aims to offset greenhouse gas emissions that are warming the global climate and intensifying disasters such as hurricanes. Specifically, HB 1217 prohibits l
 
 📎 [阅读原文](https://insideclimatenews.org/news/30062026/florida-law-bans-net-zero-emission-policies/) — *Inside Climate News*
 
-### 4. FERC Order Bolsters Maryland Case Against Billions in Data Center Grid Costs
+### 5. FERC Order Bolsters Maryland Case Against Billions in Data Center Grid Costs
 
 [原文] A new federal order could strengthen Maryland’s claim that its households and businesses have been unlawfully billed billions of dollars for transmission upgrades to serve out-of-state data centers. B
 
 📎 [阅读原文](https://insideclimatenews.org/news/30062026/ferc-order-data-center-grid-costs/) — *Inside Climate News*
-
-### 5. Why Is It So Expensive to Replace Lead Pipes in Chicago?
-
-[原文] This story is a partnership between Inside Climate News, Grist and WBEZ, a public radio station serving the Chicago metropolitan region. No city dealing with a lot of lead pipes spends as much as Chic
-
-📎 [阅读原文](https://insideclimatenews.org/news/30062026/chicago-lead-pipe-replacement-cost/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post Ford Recalls 740,000 Trucks and SUVs
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Chris Brown Must Pay Housekeeper $13 Million Over Dog-Mauling Attack
+### 1. Rush Postpones 2 Shows After Geddy Lee Diagnosed With Laryngitis and Bronchitis
+
+[原文] The band pushed back two dates at Dickies Arena in Fort Worth, Texas
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/rush-postpones-shows-geddy-lee-laryngitis-and-bronchitis-1235587278/) — *Rolling Stone*
+
+### 2. Chris Brown Must Pay Housekeeper $13 Million Over Dog-Mauling Attack
 
 [原文] The woman was attacked by a security dog at the singer's Los Angeles mansion in 2020
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/chris-brown-dog-attack-housekeeper-verdict-13-million-1235585198/) — *Rolling Stone*
 
-### 2. Peter Gabriel Recalls Early-Eighties Synth Sound on New ‘I Belong to the Sky’
+### 3. Peter Gabriel Recalls Early-Eighties Synth Sound on New ‘I Belong to the Sky’
 
 [原文] Song will appear on artist’s upcoming o\i album
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/peter-gabriel-new-song-i-belong-to-the-sky-1235586551/) — *Rolling Stone*
 
-### 3. Jay-Z’s ‘4:44’ Bonus Tracks Are Finally Available on All Streaming Services
+### 4. Jay-Z’s ‘4:44’ Bonus Tracks Are Finally Available on All Streaming Services
 
 [原文] The three songs — including collaborations with James Blake and Blue Ivy Carter — were previously only on Tidal
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/jay-z-444-bonus-tracks-streaming-services-1235586595/) — *Rolling Stone*
 
-### 4. Ariana Grande Reschedules Three ‘Eternal Sunshine’ Tour Dates: ‘Safety, First and Foremost’
+### 5. Ariana Grande Reschedules Three ‘Eternal Sunshine’ Tour Dates: ‘Safety, First and Foremost’
 
 [原文] The singer apologized for moving the upcoming concerts due to production issues
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/ariana-grande-reschedules-eternal-sunshine-tour-dates-1235586459/) — *Rolling Stone*
-
-### 5. Lizzo Reflects on ‘Bitch’ Album Flop: ‘I Hurt My Own Feelings’
-
-[原文] While she was initially stressed by the disappointing chart numbers, Lizzo says she came to terms with the reality of the industry and past allegations
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/lizzo-addresses-bitch-album-flop-1235586250/) — *Rolling Stone*
 
 ---
 
@@ -515,7 +515,7 @@ The post Ford Recalls 740,000 Trucks and SUVs
 - **💰 经济财经**: CNBC
 - **💻 科技**: TechCrunch
 - **🔬 科学**: Science Daily
-- **⚽ 体育**: BBC Sport
+- **⚽ 体育**: ESPN
 - **🎬 娱乐**: Variety
 - **🏥 健康**: WHO
 - **🎮 游戏**: IGN
