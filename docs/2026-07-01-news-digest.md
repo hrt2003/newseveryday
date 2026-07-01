@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月01日** | 生成时间: 2026-07-01 17:56
+**2026年07月01日** | 生成时间: 2026-07-01 22:44
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump made more than $1bn from crypto in first year back in office
+### 1. Three die in Mexico City World Cup celebrations
+
+[原文] More than one million people took to the streets of Mexico City on Tuesday to mark the country's win over Ecuador.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Trump made more than $1bn from crypto in first year back in office
 
 [原文] The president's crypto income far outpaces his earnings from real estate and Trump-themed items such as watches.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Three-year-old rescued and taken to hospital six days after Venezuela quake
+### 3. Fire at Antwerp apartment block kills at least six
 
-[原文] Video footage shows rescuers cheering as the child is pulled from rubble in La Guaira state.
+[原文] A man is seen clambering through a window to escape black smoke in the block where some 200 people live.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c621dx0vl7xo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. US Supreme Court upholds birthright citizenship in blow to Trump
-
-[原文] The ruling is a major setback for Donald Trump's immigration agenda, and has been welcomed by civil rights groups.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cgmepnx1wzzo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. US Supreme Court has dealt heavy defeats to Trump, while expanding his power
-
-[原文] The birthright ruling brings to an end a Supreme Court term that has delivered the president some key victories.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c4gyqeqe8xyo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. A plane crashed into a tower in Beijing but China is not saying what happened
+### 4. A plane crashed into a tower in Beijing but China is not saying what happened
 
 [原文] The collision left holes on the side of the tower, but Beijing has scrubbed other visible traces of the incident.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Three-year-old rescued and taken to hospital six days after Venezuela quake
+
+[原文] Video footage shows rescuers cheering as the child is pulled from rubble in La Guaira state.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Oil prices wobble as breakdown in U.S.-Iran talks casts doubt over peace process
+### 1. Trump Accounts for kids launch July 4: What parents need to know
 
-[原文] Oil prices were lower on Wednesday after Iran said it would not meet with U.S. delegates for talks in Qatar, amplifying concern about the peace process.
+[原文] Here's a breakdown of how Trump Accounts work, who qualifies for free money and when the funds can be withdrawn.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/01/oil-prices-brent-wti-crude-trump-iran.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/01/trump-accounts-launch-july-4.html) — *CNBC*
 
-### 2. Trump's annual financial disclosure shows more than $580M in crypto-related income
+### 2. Meta pops 8% as company makes cloud push to sell excess AI compute power capacity
 
-[原文] Trump's 927-page financial disclosure report for 2025 totals more than 900 pages detailing holdings in cryptocurrency and stocks.
+[原文] The new business is a welcome signal for some investors who have been uneasy about the company's infrastructure spending plans.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/30/trump-financial-disclosure-released.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/01/meta-stock-cloud-ai-compute.html) — *CNBC*
 
-### 3. Anthropic says Trump admin has lifted export controls on Claude Fable 5 and Mythos 5
+### 3. Palantir's Karp bashes OpenAI, Anthropic token model: 'Something has gone completely wrong'
 
-[原文] The U.S. Department of Commerce lifted the export controls on Anthropic's Fable 5 and Mythos 5 models
+[原文] Karp says skyrocketing token costs are forcing companies to choose open weight models and prioritize efficiency over so-called tokenmaxxing
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/30/anthropic-says-trump-admin-has-lifted-export-controls-on-claude-fable-5-and-mythos-5.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/01/palantir-karp-open-ai-anthropic-tokens.html) — *CNBC*
 
-### 4. Jim Cramer says the AI trade has shifted — and these stocks are leading now
+### 4. U.S. auto industry faces increased uncertainty without extension of USMCA trade deal
 
-[原文] CNBC's Jim Cramer said Wall Street is rewarding the companies supplying the artificial intelligence boom rather than the technology giants funding it.
+[原文] A major issue for automakers is the deal's rules of origin, which determine where a product comes from and which goods are eligible for preferential treatment.
 
-📎 [阅读原文](https://www.cnbc.com/2026/06/30/jim-cramer-ai-trade-shifted-stocks-leading-now.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/01/automakers-usmca-trade.html) — *CNBC*
 
-### 5. Employers who laid off workers citing AI are already starting to regret it
+### 5. PlayStation will end physical disc production for new games in 2028
 
-[原文] Companies are realizing artificial intelligence can't do everything after all, prompting them to rehire employees to grow their businesses
+[原文] PlayStation will end physical disc production for new games in 2028, the company announced Wednesday morning.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/01/employers-who-laid-off-workers-for-ai-are-reversing-their-decisions.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/01/sony-playstation-physical-disc-production-2028.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The ‘Father of the Internet’ is finally retiring
+### 1. Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off
 
-[原文] Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week.
+[原文] Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said.
 
-📎 [阅读原文](https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/) — *TechCrunch*
 
-### 2. Trump drops restrictions on Anthropic’s Mythos and Fable models
+### 2. Gemini Spark, Google’s agentic assistant, is now available on Mac
 
-[原文] The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases.
+[原文] Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps.
 
-📎 [阅读原文](https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/) — *TechCrunch*
 
-### 3. Wayve launches $85M employee tender offer at $8.5B valuation
+### 3. Sony to end physical PlayStation game disc production in 2028
 
-[原文] Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent.
+[原文] Sony will stop producing physical discs for all new PlayStation games beginning in 2028, as the company embraces an all-digital future.
 
-📎 [阅读原文](https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/01/sony-to-end-physical-playstation-game-discs-in-2028/) — *TechCrunch*
 
-### 4. Startup Battlefield Australia application closes in days: Apply before July 6
+### 4. Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026
 
-[原文] What if one pitch changed everything? The next company nobody has heard of yet is building something that will matter. It could be yours.
+[原文] The Builders Stage is returning to TechCrunch Disrupt 2026, bringing together 10,000+ founders, startup operators, and investors for practical conversations. and Q&#038;A on what it takes to build and
 
-📎 [阅读原文](https://techcrunch.com/2026/06/30/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/) — *TechCrunch*
 
-### 5. OpenClaw is finally available on Android and iOS
+### 5. Meta, like SpaceX, looks to turn excess AI compute into cash
 
-[原文] The free open source agentic program is finally invading your phone.
+[原文] Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Clou
 
-📎 [阅读原文](https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. NBA free agency is here! Live updates on deals, tr...
+### 1. Time for Tuchel to show hand as England enter World Cup danger zone
 
-[原文] We're tracking deals, trades, rumors and buzz across the NBA, including the latest on Keon Ellis, LeBron James, Kawhi Leonard and more.
+[原文] England coach Thomas Tuchel must now play his strongest hand as he enters the danger zone in a World Cup of shocks, says chief football writer Phil McNulty.
 
-📎 [阅读原文](https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c17y8r90082o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Toronto goes all-in for Kawhi Leonard: Grading the...
+### 2. 'Everything was worth it' - Evans bids emotional farewell as career ends
 
-[原文] Can Toronto make a run in the East with Kawhi Leonard? Will LA make more moves?
+[原文] Dan Evans bids an emotional farewell at Wimbledon as he and Henry Searle lose in the final match of the Briton's career.
 
-📎 [阅读原文](https://www.espn.com/nba/story/_/id/49208596/kawhi-leonard-trade-grades-reaction-clippers-raptors-contract) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cewqzq2dwr8o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Sources: Raptors near deal to trade for Kawhi
+### 3. Williams' knee injury leaves Wimbledon doubles in doubt
 
-[原文] The Clippers have agreed to trade Kawhi Leonard to the Raptors for Brandon Ingram, Gradey Dick, unprotected first-round picks in 2031 and 2033, a 2027 first-round pick swap and two second-round picks,
+[原文] Serena Williams' hopes of playing alongside her older sister Venus in the Wimbledon doubles look in doubt because of a knee injury.
 
-📎 [阅读原文](https://www.espn.com/nba/story/_/id/49228663/sources-raptors-nearing-deal-acquire-leonard-clippers) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cx2kr12ggv9o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Wizards to shun trade offers for Davis, source say...
+### 4. Chelsea sign Italy defender Palestra for £47m
 
-[原文] The Washington Wizards have no interest in trading All-Star forward Anthony Davis and are not listening to offers for him, a source told Andscape's Marc J. Spears.
+[原文] Right-back Marco Palestra, 21, becomes Xabi Alonso's first signing as Chelsea manager.
 
-📎 [阅读原文](https://www.espn.com/nba/story/_/id/49230637/source-wizards-intent-shunning-trade-offers-anthony-davis) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/crkvlv6myreo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Mexico oust Ecuador, 1st WC KO win in 40 years
+### 5. Hull sell two players hours before deadline to avoid points deduction
 
-[原文] Mexico won their first World Cup knockout stage match in 40 years after dispatching Ecuador 2-0 in front an electric crowd at Estadio Azteca on Tuesday.
+[原文] Hull City avoided the threat of a points deduction in the Premier League by selling two players hours before Tuesday's deadline.
 
-📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49232657/mexico-ecuador-2026-world-cup-knockout-win) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c5yz5dprjq0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Victor Willis, Village People Founding Lead Singer and ‘YMCA’ Co-Writer, Dies at 74
+### 1. ‘Heated Rivalry’ Funko Pops Are Here: Shop the New Shane and Ilya Collectibles Ahead of Season 2
 
-[原文] Victor Willis, the founding lead singer of Village People and co-writer of &#8220;YMCA,&#8221; &#8220;Macho Man&#8221; and &#8220;In the Navy,&#8221; died on Tuesday. He was 74. &#8220;We are profound
+[原文] &#8220;Heated Rivalry&#8221; fans have a new way to bring Shane Hollander and Ilya Rozanov home. Funko has released its first collection inspired by the hit hockey romance series, featuring Pop! figur
 
-📎 [阅读原文](https://variety.com/2026/music/news/victor-willis-dead-village-people-lead-singer-ymca-cowriter-1236799865/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/shopping/news/heated-rivalry-funko-pops-shane-ilya-shop-online-1236800016/) — *Variety*
 
-### 2. Malaysian Sci-Fi Feature ‘Mimpi Kita: Castle in the Air’ Charts Audience-Driven Distribution Plan Ahead of Bucheon Market Debut (EXCLUSIVE)
+### 2. ‘Gomorrah’ and ‘The Young Pope’ Producer Nils Hartmann Steps Down as Executive Vice President of Sky Studios Italy
 
-[原文] A Malaysian science-fiction fantasy feature is taking an unconventional approach to distribution. &#8220;Mimpi Kita: Castle in the Air&#8221; arrives at the NAFF Project Market&#8217;s It Project stra
+[原文] Innovative producer Nils Hartmann has stepped down as executive vice president of Sky Studios Italy, following a 23-year stint at the Comcast-owned pay-TV service during which he shepherded many Itali
 
-📎 [阅读原文](https://variety.com/2026/film/markets-festivals/mimpi-kita-naff-bucheon-distribution-1236799460/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/global/nils-hartmann-steps-down-evp-sky-studios-italy-1236799974/) — *Variety*
 
-### 3. ‘Othello’ Reimagined as a Black Lesbian in Royal Shakespeare Company’s New Production
+### 3. Danny Glover Reveals Alzheimer’s Diagnosis: ‘Things Are Going to Be Different and Changing’
 
-[原文] The Royal Shakespeare Company has cast Sharon D. Clarke in the title role of &#8220;Othello,&#8221; with Monique Touko directing a production that relocates Shakespeare&#8217;s tragedy to a climate-th
+[原文] Danny Glover, the 79-year-old &#8220;Lethal Weapon&#8221; star, revealed on the &#8220;Today&#8221; show Wednesday morning that he&#8217;s been battling Alzheimer&#8217;s disease for a few years. “I c
 
-📎 [阅读原文](https://variety.com/2026/theater/news/othello-reimagined-black-lesbian-royal-shakespeare-company-1236799854/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/danny-glover-alzheimers-diagnosis-1236799984/) — *Variety*
 
-### 4. Vietnamese Films Capture 70% of Local Box Office as Galaxy Studio Chief Urges Global Co-Productions at Danang Industry Days
+### 4. Sony’s PlayStation to Stop Releasing Games on Physical Discs
 
-[原文] Vietnamese films held a 70.6% share of the domestic box office in the first five months of 2026, up from 62.2% across the full year of 2025 and 42.6% in 2023, according to figures presented by Dinh Th
+[原文] PlayStation will cease production of physical discs for its games beginning with new titles releasing in 2028. The news comes on the heels of Take-Two Interactive&#8217;s Rockstar Games revealing that
 
-📎 [阅读原文](https://variety.com/2026/film/news/vietnamese-films-70-percent-market-share-galaxy-studio-danaff-1236799841/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/gaming/news/playstation-ending-games-physical-discs-2028-1236799978/) — *Variety*
 
-### 5. Yash’s ‘Toxic’ Spotlights Its Powerful Female Ensemble in ‘Ladies & Ladies’ Video (EXCLUSIVE)
+### 5. ‘Legally Blonde’ Prequel Series ‘Elle’ Is Often Well-Executed, if Mostly a Rehash: TV Review
 
-[原文] Yash&#8217;s &#8220;Toxic: A Fairytale for Grown-Ups&#8221; has released &#8220;Ladies &#38; Ladies,&#8221; a promotional video centered on the film&#8217;s formidable female cast and their complex, c
+[原文] The Amazon Prime Video show “Elle” is billed as a prequel series to the 2001 novel turned hit movie “Legally Blonde,” but its eight episodes play more like a remake. Sure, “Elle” turns back the clock 
 
-📎 [阅读原文](https://variety.com/2026/film/news/toxic-ladies-ladies-video-1236799829/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/reviews/elle-review-legally-blonde-prequel-1236799563/) — *Variety*
 
 ---
 
@@ -244,35 +244,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. 655 million people still living without electricity underscore urgent need to deliver on universal energy access target
+### 1. STAT+: Synthetic biology researchers think they’ve made a cell. Is it alive?
 
-[原文] At a time when energy security and affordability have risen to the top of the development agenda, 655 million people globally still lack access to electricity, and two billion use polluting fuels and 
+[原文] Researchers have created what they say may count as the first synthetic cell, and have started a public benefit corporation to share the technology with other scientists.&#160; It’s a piece&#8230;
 
-📎 [阅读原文](https://www.who.int/news/item/24-06-2026-655-million-people-still-living-without-electricity-underscore-urgent-need-to-deliver-on-universal-energy-access-target) — *WHO*
+📎 [阅读原文](https://www.statnews.com/2026/07/01/synthethic-biology-researcher-announce-creation-spud-cells/?utm_campaign=rss) — *STAT News*
 
-### 2. WHO urges scale up of newborn screening to improve early detection and care of birth defects
+### 2. STAT+: Pharmalittle: We’re reading about Anthropic drug development goals, Trump drug plan snags, and more
 
-[原文] The World Health Organization (WHO) today calls on countries to expand newborn screening for birth defects, highlighting how early detection and treatment can save lives and reduce lifelong disability
+[原文] Anthropic announced the availability of Claude Science, which optimizes its large language model for use in scientific labs and by drugmakers
 
-📎 [阅读原文](https://www.who.int/news/item/23-06-2026-who-urges-scale-up-of-newborn-screening-to-improve-early-detection-and-care-of-birth-defects) — *WHO*
+📎 [阅读原文](https://www.statnews.com/pharmalot/2026/07/01/anthropic-drug-development-goals-trump-plan-hitting-snag/?utm_campaign=rss) — *STAT News*
 
-### 3. WHO issues comprehensive guidelines on filovirus disease, including Ebola and Marburg disease
+### 3. STAT+: More signs that GLP-1s may help with peripheral artery disease
 
-[原文] As the Democratic Republic of the Congo is battling an Ebola disease outbreak caused by the Bundibugyo virus, the World Health Organization (WHO) has released its first comprehensive guidelines for th
+[原文] Anthropic will begin developing drugs, BridgeBio pockets a billion, and more biotech news from The Readout
 
-📎 [阅读原文](https://www.who.int/news/item/17-06-2026-who-issues-comprehensive-guidelines-on-filovirus-disease--including-ebola-and-marburg-disease) — *WHO*
+📎 [阅读原文](https://www.statnews.com/2026/07/01/biotech-news-glp-1s-may-help-with-peripheral-artery-disease/?utm_campaign=rss) — *STAT News*
 
-### 4. Open letter to leaders of G7, G20, BRICS and all nations on finalizing the WHO Pandemic Agreement’s Pathogen Access and Benefit Sharing annex
+### 4. FDA says Zyn can market its pouches as safer than cigarettes
 
-[原文] Dear Leaders of the G7, the G20, BRICS and of all nations,We write to you together, from Geneva and from Bras&iacute;lia, with one shared conviction: that the world must finish what it started, and th
+[原文] The influence of the alcohol industry on policy, AI Claude for scientists, and more health news from Morning Rounds
 
-📎 [阅读原文](https://www.who.int/news/item/15-06-2026-open-letter-to-leaders-of-g7-g20-brics-and-all-nations-on-finalizing-the-who-pandemic-agreement-s-pathogen-access-and-benefit-sharing-annex) — *WHO*
+📎 [阅读原文](https://www.statnews.com/2026/07/01/health-news-fda-says-zyn-can-market-pouches-as-safer-than-cigarettes/?utm_campaign=rss) — *STAT News*
 
-### 5. Safe blood supply improves as voluntary donations exceed 85%, but many people still lack access
+### 5. STAT+: FDA approves Orca Bio’s T cell therapy for blood cancer patients
 
-[原文] New data from the World Health Organization (WHO) show sustained progress towards safer blood supplies globally but also highlight persistent inequalities in access to safe blood and weaknesses in gov
+[原文] The FDA approved a T-cell therapy from Orca Bio that reduces the risk of a debilitating immune reaction in patients with blood cancers undergoing stem cell transplants.
 
-📎 [阅读原文](https://www.who.int/news/item/12-06-2026-safe-blood-supply-improves-as-voluntary-donations-exceed-85---but-many-people-still-lack-access) — *WHO*
+📎 [阅读原文](https://www.statnews.com/2026/07/01/fda-approves-orca-bio-treatment-blood-cancer/?utm_campaign=rss) — *STAT News*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Mario Kart World Surprise Update Adds New Knockout Tour Routes
+### 1. Remembering Sony's Iconic 'This is How You Share Games on PS4' Video, as PlayStation Kills Discs 13 Years Later
 
-[原文] Nintendo has updated Switch 2 launch title Mario Kart Tour with new routes for its Knockout Tour mode, as part of a surprise update.
+[原文] We remember Sony's brilliantly brutal "This is how you share your games on PS4" video, as PlayStation kills discs 13 years later.
 
-📎 [阅读原文](https://www.ign.com/articles/mario-kart-world-surprise-update-adds-new-knockout-tour-routes) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/remembering-sonys-iconic-this-is-how-you-share-games-on-ps4-video-as-playstation-kills-discs-13-years-later) — *IGN*
 
-### 2. X-Men '97 Season 2, Episodes 1-3 Review & Recap (Full Spoilers)
+### 2. Sony's Shock Decision to Kill Discs on PlayStation From Jan 2028 Tells Us a Lot About PS6, Analysts Believe — Including When It Will Be Released
 
-[原文] X-Men ‘97 gets off to a very strong start in its first three episodes, as the series wastes no time in exploring the dramatic, Apocalypse-heavy fallout of Season 1.
+[原文] As the video game world digests Sony’s shock decision to kill video game discs on PlayStation consoles from January 2028, analysts believe it sends a strong signal about the PS6 — including when it wi
 
-📎 [阅读原文](https://www.ign.com/articles/x-men-97-season-2-episodes-1-3-review-recap-full-spoilers) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/sonys-shock-decision-to-kill-discs-on-playstation-from-jan-2028-tells-us-a-lot-about-ps6-analysts-believe-including-when-it-will-be-released) — *IGN*
 
-### 3. Reacher Season 4 Returns in August, Neagley Spin-Off Lands the Following Month
+### 3. Sony Shutting Down PlayStation Store for New Purchases on PS3 and Vita
 
-[原文] Premiere dates set for Prime’s ex-MP MVPs.
+[原文] Sony has announced the closure of its PlayStation Store on the PS3 and Vita, beginning next month in certain countries.
 
-📎 [阅读原文](https://www.ign.com/articles/reacher-season-4-returns-in-august-neagley-spin-off-lands-the-following-month) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/sony-shutting-down-playstation-store-for-new-purchases-on-ps3-and-vita) — *IGN*
 
-### 4. The New Rick & Morty GLD Jewelry Drop Is Here and the Pickle Rick Pendant Already Sold Out
+### 4. Sony Just Killed Discs: Physical Disc Production to End January 2028 for New Games Releasing on PlayStation Consoles
 
-暂无摘要。
+[原文] Sony has announced physical disc production ends in January 2028 for new games releasing on PlayStation consoles.
 
-📎 [阅读原文](https://www.ign.com/articles/the-new-rick-morty-gld-jewelry-drop-is-here-and-the-pickle-pendant-is-already-sold) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/sony-just-killed-discs-physical-disc-production-to-end-january-2028-for-new-games-releasing-on-playstation-consoles) — *IGN*
 
-### 5. Ex-PlayStation Boss Defends PC Strategy as Sony Pivots Away from Multiplatform Releases
+### 5. Rhythm Heaven Groove Review
 
-[原文] Shawn Layden, the former President and CEO of Sony Interactive Entertainment of America, has explained why PlayStation's PC strategy made sense.
+[原文] A superb sequel that expertly capitalizes on the captivating energy of its excellent music.
 
-📎 [阅读原文](https://www.ign.com/articles/ex-playstation-boss-defends-pc-strategy-as-sony-pivots-away-from-multiplatform-releases) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/rhythm-heaven-groove-review) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. New EV Sales Have Cratered, But the Used Market Is Setting Records
+### 1. Honda and Nissan Near Partnership Despite Failed Merger: TDS
+
+[原文] Nissan got cold feet when it realized Honda essentially wanted to acquire it years back. Still, the two companies got past that and are close to a tech alliance.
+The post Honda and Nissan Near Partner
+
+📎 [阅读原文](https://www.thedrive.com/news/honda-and-nissan-near-partnership-despite-failed-merger-tds) — *The Drive*
+
+### 2. ‘We Don’t Know What We’re Doing’: Inside the Post-Ban Chaos at Polestar Dealerships
+
+[原文] Polestar's abrupt forced exit from the U.S. market has left dealers, owners, and Polestar corporate scrambling to figure out what the future looks like.
+The post &#8216;We Don&#8217;t Know What We&#82
+
+📎 [阅读原文](https://www.thedrive.com/news/we-dont-know-what-were-doing-inside-the-post-ban-chaos-at-polestar-dealerships) — *The Drive*
+
+### 3. New EV Sales Have Cratered, But the Used Market Is Setting Records
 
 [原文] Used EVs just notched a record quarter of sales in the U.S. according to new data, and we're just getting started.
 The post New EV Sales Have Cratered, But the Used Market Is Setting Records appeared 
 
 📎 [阅读原文](https://www.thedrive.com/news/new-ev-sales-have-cratered-but-the-used-market-is-setting-records) — *The Drive*
 
-### 2. Even the Cheapest C8 Corvette Will Hit 200 MPH Now
+### 4. Even the Cheapest C8 Corvette Will Hit 200 MPH Now
 
 [原文] The 2027 Corvette Stingray's 40-horsepower bump allows it to cross a big milestone that even the mighty Z06 can't quite reach.
 The post Even the Cheapest C8 Corvette Will Hit 200 MPH Now appeared firs
 
 📎 [阅读原文](https://www.thedrive.com/news/even-the-cheapest-c8-corvette-will-hit-200-mph-now) — *The Drive*
 
-### 3. Feds Might Flip the Script on Right to Repair Vehicle Emissions Systems
+### 5. Feds Might Flip the Script on Right to Repair Vehicle Emissions Systems
 
 [原文] President Trump is urging the EPA to clarify what repairs are legal, reduce reliance on CARB, and reconsider enforcement against those who try fixing their vehicles in "good faith."
 The post Feds Migh
 
 📎 [阅读原文](https://www.thedrive.com/news/feds-might-flip-the-script-on-right-to-repair-vehicle-emissions-systems) — *The Drive*
-
-### 4. 2026 Genesis GV70 Pros and Cons Review: It Must Be Tiring Being This Good
-
-[原文] Despite not being significantly refreshed since its debut several years ago, the Genesis GV70 still checks most, if not all, of the boxes buyers are looking for.
-The post 2026 Genesis GV70 Pros and Co
-
-📎 [阅读原文](https://www.thedrive.com/car-reviews/2026-genesis-gv70-pros-and-cons-review-it-must-be-tiring-being-this-good) — *The Drive*
-
-### 5. Ford Recalls 740,000 Trucks and SUVs That Could Roll Away in Park: TDS
-
-[原文] The recall covers 2018-2021 Ford and Lincoln models including the F-150, and until you get yours fixed, it's best to engage the parking brake every time.
-The post Ford Recalls 740,000 Trucks and SUVs 
-
-📎 [阅读原文](https://www.thedrive.com/news/ford-recalls-740000-trucks-and-suvs-that-could-roll-away-in-park-tds) — *The Drive*
 
 ---
 
@@ -363,7 +363,7 @@ The post Ford Recalls 740,000 Trucks and SUVs
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. More Living Shorelines Could Come to States Bordering Chesapeake Bay If the Region’s Senators Get Their Way
+### 1. More Living Shorelines Could Come to States Bordering Chesapeake Bay if the Region’s Senators Get Their Way
 
 [原文] Norfolk, Virginia, has remained the poster child for cities facing land subsidence and flooding in the country, struggling through an onslaught of storm surges and blue-sky flooding that become more f
 
@@ -439,35 +439,35 @@ The post Ford Recalls 740,000 Trucks and SUVs
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Rush Postpones 2 Shows After Geddy Lee Diagnosed With Laryngitis and Bronchitis
+### 1. Village People Lead Singer Victor Willis Dead at 74
+
+[原文] The “Y.M.C.A.” and “Macho Man” singer died after a “short but aggressive” illness
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/village-people-victor-willis-dead-obituary-1235587313/) — *Rolling Stone*
+
+### 2. Rush Postpones 2 Shows After Geddy Lee Diagnosed With Laryngitis and Bronchitis
 
 [原文] The band pushed back two dates at Dickies Arena in Fort Worth, Texas
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/rush-postpones-shows-geddy-lee-laryngitis-and-bronchitis-1235587278/) — *Rolling Stone*
 
-### 2. Chris Brown Must Pay Housekeeper $13 Million Over Dog-Mauling Attack
+### 3. Chris Brown Must Pay Housekeeper $13 Million Over Dog-Mauling Attack
 
 [原文] The woman was attacked by a security dog at the singer's Los Angeles mansion in 2020
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/chris-brown-dog-attack-housekeeper-verdict-13-million-1235585198/) — *Rolling Stone*
 
-### 3. Peter Gabriel Recalls Early-Eighties Synth Sound on New ‘I Belong to the Sky’
+### 4. Peter Gabriel Recalls Early-Eighties Synth Sound on New ‘I Belong to the Sky’
 
 [原文] Song will appear on artist’s upcoming o\i album
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/peter-gabriel-new-song-i-belong-to-the-sky-1235586551/) — *Rolling Stone*
 
-### 4. Jay-Z’s ‘4:44’ Bonus Tracks Are Finally Available on All Streaming Services
+### 5. Jay-Z’s ‘4:44’ Bonus Tracks Are Finally Available on All Streaming Services
 
 [原文] The three songs — including collaborations with James Blake and Blue Ivy Carter — were previously only on Tidal
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/jay-z-444-bonus-tracks-streaming-services-1235586595/) — *Rolling Stone*
-
-### 5. Ariana Grande Reschedules Three ‘Eternal Sunshine’ Tour Dates: ‘Safety, First and Foremost’
-
-[原文] The singer apologized for moving the upcoming concerts due to production issues
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/ariana-grande-reschedules-eternal-sunshine-tour-dates-1235586459/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post Ford Recalls 740,000 Trucks and SUVs
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Not For Sale: Sandals CEO Shuts Down Deal Rumors
+### 1. Should Tourism Boards Build AI for Their Stakeholders?
+
+[原文] Three models are emerging for how tourism boards serve their operators with AI, and it is a lot more hands-on than past tech cycles.
+
+📎 [阅读原文](https://skift.com/2026/07/01/should-tourism-boards-build-ai-for-their-stakeholders/) — *Skift*
+
+### 2. Why Travel Industry Needs Conversations Like Skift Global Forum More Than Ever
+
+[原文] For more than a decade, Skift Global Forum has been the room where travel's most consequential decisions take shape. The 2026 edition arrives at a moment when the industry can least afford to form tho
+
+📎 [阅读原文](https://skift.com/2026/07/01/why-travel-industry-needs-conversations-like-skift-global-forum/) — *Skift*
+
+### 3. The Airline CEOs Who Don’t Leave
+
+[原文] Michael O'Leary has tied himself to Ryanair until 2032. He belongs to a shrinking class of airline chiefs who have become almost impossible to replace – which is exactly what makes their eventual depa
+
+📎 [阅读原文](https://skift.com/2026/07/01/the-airline-ceos-who-dont-leave/) — *Skift*
+
+### 4. Not For Sale: Sandals CEO Shuts Down Deal Rumors
 
 [原文] The all-inclusive operator's executive chairman says he isn't selling the company, despite rumors, but is instead pouring tens of millions into properties to drive rate premiums.
 
 📎 [阅读原文](https://skift.com/2026/06/30/not-for-sale-sandals-ceo-shuts-down-deal-rumors/) — *Skift*
 
-### 2. U.S. Paves Way for Supersonic Flight Over Land, Looks to Lift 1973 Ban
+### 5. U.S. Paves Way for Supersonic Flight Over Land, Looks to Lift 1973 Ban
 
 [原文] The U.S. is looking to repeal a 1973 ban on supersonic flight, which would clear the way for such technology to be operated in the U.S.
 
 📎 [阅读原文](https://skift.com/2026/06/30/u-s-paves-way-for-supersonic-flight-over-land/) — *Skift*
-
-### 3. Allegiant Now Sees a Q2 Profit: Falling Fuel and Sun Country Merger Are Only Part of the Story
-
-[原文] Allegiant’s second-quarter guidance swung from a loss to a profit on the heels of lower fuel prices and strong demand.
-
-📎 [阅读原文](https://skift.com/2026/06/30/allegiant-now-sees-a-q2-profit/) — *Skift*
-
-### 4. The World Cup Winners So Far? Kansas City and Ranch Dressing
-
-[原文] Occupancy may have missed the mark, but hotels are benefitting from a spike in room rates — particularly in certain host markets.
-
-📎 [阅读原文](https://skift.com/2026/06/30/world-cup-winners-hotels-bars-ranch/) — *Skift*
-
-### 5. U.S. Motel 6 Business Is Driving Prism’s Indian IPO, New Filing Shows
-
-[原文] Prism may be listing in India, but its business is increasingly American. The Motel 6 acquisition now drives its profits and defines the purpose of its IPO.
-
-📎 [阅读原文](https://skift.com/2026/06/30/u-s-motel-6-business-is-driving-prisms-indian-ipo-new-filing-shows/) — *Skift*
 
 ---
 
@@ -515,9 +515,9 @@ The post Ford Recalls 740,000 Trucks and SUVs
 - **💰 经济财经**: CNBC
 - **💻 科技**: TechCrunch
 - **🔬 科学**: Science Daily
-- **⚽ 体育**: ESPN
+- **⚽ 体育**: BBC Sport
 - **🎬 娱乐**: Variety
-- **🏥 健康**: WHO
+- **🏥 健康**: STAT News
 - **🎮 游戏**: IGN
 - **🚗 汽车**: The Drive
 - **🌱 环境**: Inside Climate News
@@ -527,7 +527,9 @@ The post Ford Recalls 740,000 Trucks and SUVs
 
 ## ⚠️ 今日故障源
 
+- **🏥 健康**: WHO
 - **🚗 汽车**: Roadshow, Autocar
+- **✈️ 旅游**: Nomadic Matt, Travel Off Path
 
 ---
 
