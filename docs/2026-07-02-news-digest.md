@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月02日** | 生成时间: 2026-07-02 11:55
+**2026年07月02日** | 生成时间: 2026-07-02 17:19
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. At least eight killed in major missile and drone strikes on Kyiv
+### 1. At least 13 killed in 'most massive' Russian attack on Kyiv
 
-[原文] Russia launched its biggest strikes on the city in weeks hours after Volodymyr Zelensky said Moscow was planning a "massive" attack.
+[原文] Kyiv's mayor declares a day of mourning after the 'most massive attack on the capital' by Russia.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'
+### 2. People smuggler convicted in France found by BBC living in UK and seeking asylum
+
+[原文] Once described as "the godfather" of French migrant camps, he has been working in a Leicestershire village.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/clye9zn0y1ro?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. 'Two weeks after her death I got a call': Gaza patients face agonising delays for evacuation
+
+[原文] An estimated 300 Palestinians referred for treatment abroad have died since the ceasefire began, according to Gaza's Hamas-run health ministry.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'
 
 [原文] Kleiber Moran, 2, was rescued on Wednesday, six days after last week's deadly earthquakes.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. From Truman's pension to Trump's billions - a White House windfall unmatched by any president
+### 5. From Truman's pension to Trump's billions - a White House windfall unmatched by any president
 
 [原文] Historians say Trump's $2.2bn income last year is unprecedented and blurs the line on conflicts of interest.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c70yk07vq0po?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Did this AI anti-drug video make drugs look appealing?
-
-[原文] Hong Kong’s Correctional Services Department removed a AI-generated K-pop video, after facing backlash that it made substances look too appealing.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/videos/cx2xw52ng5do?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Ukrainian charged in Germany over Nord Stream blasts
-
-[原文] Ukraine denies involvement in the case which may have serious implications for its relationship with Germany.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c33yjk0ldkdo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Samsung Electronics, SK Hynix shares tumble over 7% as chip rout spreads from Wall Street
+### 1. World Cup could boost the June jobs report by 40,000, Goldman estimates
 
-[原文] Shares of Samsung Electronics and SK Hynix plummeted more than 7% in early Thursday trading.
+[原文] Nonfarm payrolls are projected to post a gain of 115,000, according to the Dow Jones consensus.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/02/samsung-sk-hynix-shares-slide-kospi-tech-selloff-nasdaq.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/01/world-cup-could-boost-the-june-jobs-report-by-40000-goldman-estimates.html) — *CNBC*
 
-### 2. U.S. won’t renew USMCA, opening door for negotiations with Canada and Mexico
-
-[原文] President Donald Trump's "primary" issue with USMCA centers on America's trade deficits with Canada and Mexico, a senior administration official said.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/01/trump-usmca-canada-mexico-trade-treaty.html) — *CNBC*
-
-### 3. Europe wants to rebalance trade with Beijing, but can't quit Chinese air conditioners
-
-[原文] An historic heat wave has driven unprecedented demand for Chinese-made air conditioners in Europe, underscoring the tough task Brussels faces in rebalancing trade with Beijing.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/02/european-union-china-meeting-summer-heatwave-trade-imbalance-tariffs-.html) — *CNBC*
-
-### 4. Oil falls as easing Middle East tensions send Brent to its worst quarter since 2020
+### 2. Oil prices on pace for fourth straight weekly loss as Trump sees progress in U.S.-Iran talks
 
 [原文] Oil prices fell more than 1% on Wednesday after talks between Washington and Tehran concluded.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/02/oil-prices-fall-after-us-iran-talks-conclude-in-doha.html) — *CNBC*
 
-### 5. Trump got $15,000 in FIFA tickets from Gianni Infantino. Next up: Presenting the World Cup trophy
+### 3. Google loses fight over record $4.7 billion EU antitrust fine
 
-[原文] Trump’s ties to FIFA and Gianni Infantino face new scrutiny as the World Cup enters the knockout round and European lawmakers press over a Peace Prize complaint.
+[原文] In 2018, the European Commission slapped Google with the record-breaking penalty on the grounds that it abused Android's mobile dominance.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/01/trump-fifa-infantino-world-cup-financial-disclosure.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html) — *CNBC*
+
+### 4. Amazon is designing its own AI chips for Echo, Fire TV and future devices, exec tells CNBC
+
+[原文] Amazon hardware chief Panos Panay says the company is designing custom chips for key devices as it experiments with AI gadgets.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/02/amazon-ai-chips-devices.html) — *CNBC*
+
+### 5. OpenAI proposes 5% stake to Trump administration to ease Washington pressure: report
+
+[原文] Trump said in June that the U.S. taking an ownership stake in AI giants would be "a beautiful thing" and make American public "partners in this revolution."
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Apple is reportedly planning new iPad Pro and MacBook Pro releases early next year
+### 1. Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office
+
+[原文] Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office, Google Apps with AI.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/) — *TechCrunch*
+
+### 2. Apple is reportedly planning new iPad Pro and MacBook Pro releases early next year
 
 [原文] Apple is readying several new iPad Pro tablets and a budget-friendly MacBook Pro, reports suggest.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/01/apple-is-reportedly-planning-new-ipad-pro-and-macbook-pro-releases-early-next-year/) — *TechCrunch*
 
-### 2. Bending Spoons defies SaaS slump, surges 40% on first day of trading
+### 3. Bending Spoons defies SaaS slump, surges 40% on first day of trading
 
 [原文] The company has grown rapidly by acquiring and revamping last-generation tech brands like AOL, Eventbrite, Evernote, Meetup, and Vimeo.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/01/bending-spoons-defies-saas-slump-surges-40-on-first-day-of-trading/) — *TechCrunch*
 
-### 3. After $18B IPO, Bending Spoons founder says success comes from minimizing luck
+### 4. After $18B IPO, Bending Spoons founder says success comes from minimizing luck
 
 [原文] The co-founders of Bending Spoons, the Italian company quietly buying beloved, ailing Internet brands, learned big lessons from their own startup's failure.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/01/after-18b-ipo-bending-spoons-founder-says-success-comes-from-minimizing-luck/) — *TechCrunch*
 
-### 4. WhatsApp usernames are already raising impersonation red flags
+### 5. WhatsApp usernames are already raising impersonation red flags
 
 [原文] Meta says usernames improve privacy, but critics question whether its safeguards can prevent impersonation.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/01/whatsapp-usernames-are-already-raising-impersonation-red-flags/) — *TechCrunch*
-
-### 5. Apple’s Hide My Email feature has a bug that’s been exposing real email addresses, researcher claims
-
-[原文] Research appears to reveal a bug that could render the feature effectively useless.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/01/apples-hide-my-email-feature-has-a-bug-thats-been-exposing-real-email-addresses-researcher-claims/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. USMNT's multifaceted win vs. Bosnia-Herzegovina bo...
+### 1. Let children stay up for England-Mexico - Tuchel
 
-[原文] The U.S. has found a winning formula at this World Cup, but it had to pivot vs. Bosnia-Herzegovina. It worked, and now a World Cup run looks possible.
+[原文] England manager Thomas Tuchel urges parents to let their children stay up to watch England take on Mexico in the last 16 of the World Cup.
 
-📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49244675/usmnt-multifaceted-win-vs-bosnia-herzegovina-bodes-well-world-cup-hopes) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cd95g9y8k24o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. World Cup VAR review: Misapplied protocols leave B...
+### 2. USA march on but will Balogun red card prove costly?
 
-[原文] null
+[原文] Mauricio Pochettino's USA side set up a World Cup last-16 meeting with Belgium, but how costly will forward Folarin Balogun's red card prove?
 
-📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49244156/world-cup-var-review-misapplied-protocols-leave-usmnt-folarin-balogun-wrongly-red-carded-world-cup-vs-bosnia-herzegovina) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cgjx07ql6v0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. USMNT beats Bosnia for 1st WC KO win since '02
+### 3. Latest ever winner, comeback and controversy - Senegal's remarkable exit
 
-[原文] The USMNT beat Bosnia-Herzegovina 2-0 in the World Cup round of 32 on Wednesday night for its first knockout win since 2002.
+[原文] Late drama, controversy, history and heartbreak - the World Cup last-32 tie between Belgium and Senegal had everything.
 
-📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49243502/usa-bosnia-herzegovina-2026-fifa-world-cup-knockout-round-32) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ckg8e2ezvzyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Sources: Brown heading to Philly in blockbuster
+### 4. Will Britain's final four lift Wimbledon gloom?
 
-[原文] Jaylen Brown has a new home, with the Celtics agreeing to send their longtime star to the 76ers for Paul George, two first-round picks (2028, '31) and two second-round selections, sources told ESPN's 
+[原文] In her first BBC Sport column at this year's Wimbledon, Naomi Broady analyses whether the last four Britons in the singles can further lift the gloom.
 
-📎 [阅读原文](https://www.espn.com/nba/story/_/id/49241843/sources-celtics-sending-brown-76ers-george-picks) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cvg73y9lnp8o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Balogun red-carded in USMNT clash with Bosnia
+### 5. Norris 'happy I have the pain of this year for the glory of last'
 
-[原文] Folarin Balogun's star turn at this World Cup went sideways early in the second half Wednesday night, as the American forward was sent off against Bosnia-Herzegovina.
+[原文] Lando Norris tells BBC Sport he is "paying the price" for the effort that brought him the 2025 title - and why McLaren would be a "different vibe" for Max Verstappen.
 
-📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49243703/usa-folarin-balogun-red-card-bosnia-herzegovina-world-cup-2026) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/c36y3p1xj4jo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Chief Oscars Officer Teni Melidonian Transitions to AMPAS Consultant as Awards Production Moves Under Jennifer Davidson
+### 1. Nagraj Manjule’s ‘Khashaba’ Unveils Teaser, Worldwide Release Date From Jio Studios (EXCLUSIVE)
+
+[原文] Jio Studios and Aatpat Productions have unveiled a teaser and worldwide release date for Indian filmmaker Nagraj Manjule&#8217;s &#8220;Khashaba.&#8221; The Marathi-language biographical sports drama 
+
+📎 [阅读原文](https://variety.com/2026/film/news/nagraj-manjule-khashaba-teaser-jio-studios-1236799319/) — *Variety*
+
+### 2. Chief Oscars Officer Teni Melidonian Transitions to AMPAS Consultant as Awards Production Moves Under Jennifer Davidson
 
 [原文] As the Oscars ceremony prepares for its move to YouTube in 2029, chief Oscars officer Teni Melidonian is stepping down, AMPAS CEO Bill Kramer told staffers in an email, according to sources. Melidonia
 
 📎 [阅读原文](https://variety.com/2026/awards/awards/oscars-officer-teni-melidonian-exits-ampas-1236800583/) — *Variety*
 
-### 2. Josh Gad to Join Margot Robbie and Bradley Cooper’s ‘Ocean’s’ Prequel (EXCLUSIVE)
+### 3. Josh Gad to Join Margot Robbie and Bradley Cooper’s ‘Ocean’s’ Prequel (EXCLUSIVE)
 
 [原文] Josh Gad is the latest to join Margot Robbie and Bradley Cooper&#8217;s crew for their forthcoming &#8220;Ocean&#8217;s 11&#8221; prequel at Warner Bros, sources told Variety. Gad has booked a signifi
 
 📎 [阅读原文](https://variety.com/2026/film/news/margot-robbie-bradley-cooper-oceans-prequel-josh-gad-1236799715/) — *Variety*
 
-### 3. Rosalía’s Brilliant ‘Lux’ Tour Brings Cross-Disciplinary Delight and Splendor to L.A.’s Kia Forum: Concert Review
+### 4. Rosalía’s Brilliant ‘Lux’ Tour Brings Cross-Disciplinary Delight and Splendor to L.A.’s Kia Forum: Concert Review
 
 [原文] Do you want to know how good Rosalía&#8217;s Monday night show at the Kia Forum was? Here is how good Rosalía&#8217;s Monday night show at the Forum was&#8230; Midway through the set, as is the custom
 
 📎 [阅读原文](https://variety.com/2026/music/concert-reviews/rosalia-tour-concert-review-forum-lux-1236799736/) — *Variety*
 
-### 4. Screen Australia Launches Audience-Intelligence Programs With Tatino Films, Publikum
+### 5. Screen Australia Launches Audience-Intelligence Programs With Tatino Films, Publikum
 
 [原文] Screen Australia has unveiled two audience-focused programs designed to strengthen the theatrical reach of Australian feature films, partnering with global film organizations Tatino Films and Publikum
 
 📎 [阅读原文](https://variety.com/2026/film/news/screen-australia-first-cut-lab-impact-insights-tatino-publikum-1236799836/) — *Variety*
-
-### 5. Watch ‘Minions & Monsters’ Stars Jesse Eisenberg, Jeff Bridges and Zoey Deutch Speak Minionese
-
-[原文] You won’t find Minionese on Duolingo – at least not yet – but the Minion language is on everyone’s tongue these days following the release of the franchise’s latest film, “Minions &#38; Monsters.” It 
-
-📎 [阅读原文](https://variety.com/2026/film/columns/minions-monsters-jesse-eisenberg-jeff-bridges-zoey-deutch-speak-minionese-1236800207/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The $1,800 Power Lift Recliner and Massage Chair Is $380 During the Wayfair 4th of July Sale
+### 1. Onimusha: Way of the Sword Release Date Moved Forward
+
+[原文] Capcom has announced that Onimusha: Way of the Sword, the upcoming action-adventure sequel for PC, PS5, Xbox Series X|S, and Nintendo Switch 2, will now be released earlier than previously guided: it 
+
+📎 [阅读原文](https://www.ign.com/articles/onimusha-way-of-the-sword-release-date-moved-forward) — *IGN*
+
+### 2. The $1,800 Power Lift Recliner and Massage Chair Is $380 During the Wayfair 4th of July Sale
 
 [原文] A chair you don't want to get it out of, even if it's designed to help you do so.
 
 📎 [阅读原文](https://www.ign.com/articles/wayfair-4th-of-july-sale-power-lift-recliner-and-massage-chair-deal) — *IGN*
 
-### 2. Marvel Super Heroes Comes to Magic: The Gathering
+### 3. Marvel Super Heroes Comes to Magic: The Gathering
 
 [原文] Marvel Super Heroes Comes to Magic: The Gathering - Is this a good entry point for newcomers? Let’s find out…
 
 📎 [阅读原文](https://www.ign.com/articles/marvel-super-heroes-comes-to-magic-the-gathering) — *IGN*
 
-### 3. Marvel Refused to Tell Sadie Sink About Her Spider-Man: Brand New Day Character Until Filming Started
+### 4. Marvel Refused to Tell Sadie Sink About Her Spider-Man: Brand New Day Character Until Filming Started
 
 [原文] Sadie Sink admitted the secret identity of her as-yet unrevealed character in Spider-Man: Brand New Day was so heavily guarded, didn’t even get a glimpse of the script before landing in London to film
 
 📎 [阅读原文](https://www.ign.com/articles/marvel-refused-to-tell-sadie-sink-about-her-spider-man-brand-new-day-character-until-filming-started) — *IGN*
 
-### 4. The Popular Flashforge Adventurer 5M 3D Printer Drops to Just $154 With Free Shipping
+### 5. The Popular Flashforge Adventurer 5M 3D Printer Drops to Just $154 With Free Shipping
 
 [原文] A budget-friendly price for a reliable, moddable, and brand-name 3D printer.
 
 📎 [阅读原文](https://www.ign.com/articles/flashforge-adventurer-5m-3d-printer-deal-july) — *IGN*
-
-### 5. Love and Deepspace Fans Tearfully Hold 'Funeral' for Valko at Infold HQ After Company Suddenly Drops Character
-
-[原文] Love and Deepspace fans are holding memorial services for Valko after Infold, the game’s developer, pulled the plug on the wolfy love interest mere days before his debut.
-
-📎 [阅读原文](https://www.ign.com/articles/love-and-deepspace-fans-tearfully-hold-funeral-for-valko-at-infold-hq-after-company-suddenly-drops-character) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post &#8216;We Don&#8217;t Know What We&#82
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. A New Mexico Town Is Running Dry. An Immigration Detention Center Is Its Biggest Water Customer.
+### 1. Echoes of the Past in Pennsylvania Coal Towns’ Fight Against Data Centers
+
+[原文] HAZLETON, Pa.—The Hazle Township Supervisors faced a packed room. Hanging on the wall behind them, black lettering spelled out “We the People.” In front of them sat and stood about a hundred community
+
+📎 [阅读原文](https://insideclimatenews.org/news/02072026/pennsylvania-coal-town-data-center-moratorium/) — *Inside Climate News*
+
+### 2. Rights of Nature Laws Are Coming Up Against Legal Systems Designed for Destruction
+
+[原文] Years after landmark court rulings in Colombia and Bangladesh recognized rivers as legal persons, the waterways remain polluted and under threat—an outcome a new study attributes in part to a systemic
+
+📎 [阅读原文](https://insideclimatenews.org/news/02072026/colombia-bangladesh-rights-of-nature-laws-protect-rivers/) — *Inside Climate News*
+
+### 3. A New Mexico Town Is Running Dry. An Immigration Detention Center Is Its Biggest Water Customer.
 
 [原文] Following years of drought, the wells in Estancia, N.M., are running dry.&#160; After declaring a water emergency last week, the small town in Torrance County is hauling in water to fill its pipes. Es
 
 📎 [阅读原文](https://insideclimatenews.org/news/01072026/new-mexico-immigration-detention-center-water-use/) — *Inside Climate News*
 
-### 2. More Living Shorelines Could Come to States Bordering Chesapeake Bay if the Region’s Senators Get Their Way
+### 4. More Living Shorelines Could Come to States Bordering Chesapeake Bay if the Region’s Senators Get Their Way
 
 [原文] Norfolk, Virginia, has remained the poster child for cities facing land subsidence and flooding in the country, struggling through an onslaught of storm surges and blue-sky flooding that become more f
 
 📎 [阅读原文](https://insideclimatenews.org/news/01072026/chesapeake-bay-living-shoreline-projects/) — *Inside Climate News*
 
-### 3. Chemical Accidents Rise as Trump Administration Proposes Weakening Safety Rules
+### 5. Chemical Accidents Rise as Trump Administration Proposes Weakening Safety Rules
 
 [原文] Physicist Ronald Koopman appeared at a Southern California Air District meeting in 2018 to talk about what seemed like an arcane scientific topic: hydrofluoric acid dispersion and water mitigation tes
 
 📎 [阅读原文](https://insideclimatenews.org/news/30062026/hazardous-chemical-accidents-rise-as-safety-rules-weaken/) — *Inside Climate News*
-
-### 4. Large Fires Scorch Drought-Stricken Western U.S.
-
-[原文] After an exceptionally warm and dry winter, vast swaths of the Western United States are up in flames—and conditions could get worse.&#160; Several large fires are burning in Arizona, Colorado, New Me
-
-📎 [阅读原文](https://insideclimatenews.org/news/30062026/large-fires-scorch-drought-stricken-western-u-s/) — *Inside Climate News*
-
-### 5. New Florida Law Bans Local Net-Zero Emissions Policies
-
-[原文] A new state law limits Florida communities’ aims to offset greenhouse gas emissions that are warming the global climate and intensifying disasters such as hurricanes. Specifically, HB 1217 prohibits l
-
-📎 [阅读原文](https://insideclimatenews.org/news/30062026/florida-law-bans-net-zero-emission-policies/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post &#8216;We Don&#8217;t Know What We&#82
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Cardi B Wins $60,000 From Blogger Tasha K Over Offset and Stefon Diggs Posts
+### 1. Lil Wayne Apologizes After Failing to Appear at His Own Concert: ‘I’m So Sorry’
+
+[原文] The rapper was a no-show at his 20 Years of Carter Classics stop in Maine
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/lil-wayne-apologizes-no-show-concert-maine-1235587962/) — *Rolling Stone*
+
+### 2. Cardi B Wins $60,000 From Blogger Tasha K Over Offset and Stefon Diggs Posts
 
 [原文] The rapper said the blogger violated a previous deal stemming from Cardi's $4 million defamation victory in 2022
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/cardi-b-blogger-tasha-k-offset-stefon-diggs-posts-1235587895/) — *Rolling Stone*
 
-### 2. T.I. and Tiny Awarded $0 in Punitive Damages in OMG Girlz Trial, Jury Rules
+### 3. T.I. and Tiny Awarded $0 in Punitive Damages at OMG Girlz Trial, Jury Rules
 
 [原文] The couple had hoped to restore some of the $53.6 million in punitive damages that a judge in California had previously thrown out
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/ti-tiny-omg-girlz-trial-zero-dollars-punitive-damages-1235587576/) — *Rolling Stone*
 
-### 3. Kid Rock on Being Friends With Trump: It’s ‘A Front Row Seat to the Greatest Shit Show on Earth’
+### 4. Kid Rock on Being Friends With Trump: It’s ‘A Front Row Seat to the Greatest Shit Show on Earth’
 
 [原文] The singer said one of his "late-night drinking tricks" is to ring up the president
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/kid-rock-trump-friendship-1235587790/) — *Rolling Stone*
 
-### 4. FKA Twigs Hosts a Rooftop Dance Battle With Lil Yachty in ‘On Your Mind’ Video
+### 5. FKA Twigs Hosts a Rooftop Dance Battle With Lil Yachty in ‘On Your Mind’ Video
 
 [原文] Twigs wrote the track after a rehearsal for a 2025 tour and Coachella performance were delayed over visa complications
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/fka-twigs-on-your-mind-video-lil-yachty-1235587687/) — *Rolling Stone*
-
-### 5. Donald Trump Has Many Thoughts on Village People’s Victor Willis
-
-[原文] “Y.M.C.A.” became a major hit among the MAGA crowd and at Trump's political rallies beginning in 2020
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/donald-trump-truth-social-victor-willis-death-1235587341/) — *Rolling Stone*
 
 ---
 
@@ -515,7 +515,7 @@ The post &#8216;We Don&#8217;t Know What We&#82
 - **💰 经济财经**: CNBC
 - **💻 科技**: TechCrunch
 - **🔬 科学**: Science Daily
-- **⚽ 体育**: ESPN
+- **⚽ 体育**: BBC Sport
 - **🎬 娱乐**: Variety
 - **🏥 健康**: WHO
 - **🎮 游戏**: IGN
@@ -528,7 +528,6 @@ The post &#8216;We Don&#8217;t Know What We&#82
 ## ⚠️ 今日故障源
 
 - **🚗 汽车**: Roadshow, Autocar
-- **✈️ 旅游**: Nomadic Matt
 
 ---
 
