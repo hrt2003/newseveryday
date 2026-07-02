@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月02日** | 生成时间: 2026-07-02 17:19
+**2026年07月02日** | 生成时间: 2026-07-02 22:10
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. At least 13 killed in 'most massive' Russian attack on Kyiv
+### 1. Venezuela quake survivor pulled out alive after eight days
 
-[原文] Kyiv's mayor declares a day of mourning after the 'most massive attack on the capital' by Russia.
+[原文] Hernán Gil, a security guard, was in a concrete hut in a multi-storey car park, when the building collapsed.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. 'Most massive' Russian attack on Kyiv kills at least 20
+
+[原文] Kyiv's mayor declares a day of mourning after the major drone and missile attack on the Ukrainian capital.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. People smuggler convicted in France found by BBC living in UK and seeking asylum
+### 3. People smuggler convicted in France found by BBC living in UK and seeking asylum
 
 [原文] Once described as "the godfather" of French migrant camps, he has been working in a Leicestershire village.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/clye9zn0y1ro?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. 'Two weeks after her death I got a call': Gaza patients face agonising delays for evacuation
+### 4. Canadian boy, 11, dies of rabies after waking to bat on his face
 
-[原文] An estimated 300 Palestinians referred for treatment abroad have died since the ceasefire began, according to Gaza's Hamas-run health ministry.
+[原文] Rabies infections are rare in Canada. There have been 28 human deaths due to rabies in the country since 1924.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c982m1m95q9o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'
+### 5. China says pilot crashed small plane into skyscraper for 'personal reasons'
 
-[原文] Kleiber Moran, 2, was rescued on Wednesday, six days after last week's deadly earthquakes.
+[原文] The 66-year-old, who died in the crash, had anxiety and referenced "ending his life" in his diary.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. From Truman's pension to Trump's billions - a White House windfall unmatched by any president
-
-[原文] Historians say Trump's $2.2bn income last year is unprecedented and blurs the line on conflicts of interest.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c70yk07vq0po?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cr47129ky6do?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. World Cup could boost the June jobs report by 40,000, Goldman estimates
+### 1. U.S. job creation cools in June with payrolls growth of just 57,000; unemployment rate at 4.2%
 
-[原文] Nonfarm payrolls are projected to post a gain of 115,000, according to the Dow Jones consensus.
+[原文] Nonfarm payrolls were expected to rise by 115,000 in June and the unemployment rate to hold steady at 4.3%.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/01/world-cup-could-boost-the-june-jobs-report-by-40000-goldman-estimates.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/02/jobs-report-june-2026-.html) — *CNBC*
 
-### 2. Oil prices on pace for fourth straight weekly loss as Trump sees progress in U.S.-Iran talks
+### 2. Microsoft commits $2.5 billion and 6,000 employees to new AI implementation unit
 
-[原文] Oil prices fell more than 1% on Wednesday after talks between Washington and Tehran concluded.
+[原文] Microsoft is the latest tech company to form a business focused on helping customers understand and implement artificial intelligence.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/02/oil-prices-fall-after-us-iran-talks-conclude-in-doha.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/02/microsoft-commits-2point5-billion-6000-employees-ai-implementation-unit.html) — *CNBC*
 
-### 3. Google loses fight over record $4.7 billion EU antitrust fine
+### 3. Tesla deliveries jump 25% over last year, blowing past expectations
 
-[原文] In 2018, the European Commission slapped Google with the record-breaking penalty on the grounds that it abused Android's mobile dominance.
+[原文] Tesla is trying to recover from consecutive annual declines in vehicle sales that were partly caused by a consumer backlash against CEO Elon Musk.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/02/tesla-tsla-q2-2026-vehicle-delivery-production.html) — *CNBC*
 
-### 4. Amazon is designing its own AI chips for Echo, Fire TV and future devices, exec tells CNBC
+### 4. Ford Q2 sales drop 10.3% due to F-Series supplier issue, falling EV demand
 
-[原文] Amazon hardware chief Panos Panay says the company is designing custom chips for key devices as it experiments with AI gadgets.
+[原文] Ford said its EV sales fell by 40.7% during the quarter compared with a year earlier, while sales of its F-Series trucks, including the F-150, fell 11%.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/02/amazon-ai-chips-devices.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/02/ford-q2-sales.html) — *CNBC*
 
-### 5. OpenAI proposes 5% stake to Trump administration to ease Washington pressure: report
+### 5. Rivian raises 2026 delivery outlook while Lucid misses Wall Street expectations for second quarter
 
-[原文] Trump said in June that the U.S. taking an ownership stake in AI giants would be "a beautiful thing" and make American public "partners in this revolution."
+[原文] Rivian is increasing its delivery outlook to between 65,000 and 70,000 EVs, up from 62,000 to 67,000 units.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/02/rivian-lucid-q2-deliveries-demand.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office
+### 1. Microsoft launches its own AI deployment company with $2.5 billion commitment
 
-[原文] Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office, Google Apps with AI.
+[原文] Microsoft follows Amazon, OpenAI and Anthropic with its new AI deployment group.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/) — *TechCrunch*
+
+### 2. Tesla saw a massive sales jump in the second quarter
+
+[原文] The company delivered more than 480,000 EVs globally, seemingly thanks to geographic expansion and cheaper versions of the Model 3, Model Y, and Cybertruck.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/02/tesla-saw-a-massive-sales-jump-in-the-second-quarter/) — *TechCrunch*
+
+### 3. Rivian raises EV sales forecast as Q2 production ramps up
+
+[原文] The company now expects to ship a few thousand more vehicles by the end of 2026 than it previously expected, after launching its R2 SUV last month.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/02/rivian-thinks-it-will-sell-more-evs-than-expected-this-year/) — *TechCrunch*
+
+### 4. Yep, we’re using OpenClaw to date now
+
+[原文] Ben Guez has "a bunch of potential international wives in [his] DMs," thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/) — *TechCrunch*
+
+### 5. Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office
+
+[原文] Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office and Google Apps with AI.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/) — *TechCrunch*
-
-### 2. Apple is reportedly planning new iPad Pro and MacBook Pro releases early next year
-
-[原文] Apple is readying several new iPad Pro tablets and a budget-friendly MacBook Pro, reports suggest.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/01/apple-is-reportedly-planning-new-ipad-pro-and-macbook-pro-releases-early-next-year/) — *TechCrunch*
-
-### 3. Bending Spoons defies SaaS slump, surges 40% on first day of trading
-
-[原文] The company has grown rapidly by acquiring and revamping last-generation tech brands like AOL, Eventbrite, Evernote, Meetup, and Vimeo.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/01/bending-spoons-defies-saas-slump-surges-40-on-first-day-of-trading/) — *TechCrunch*
-
-### 4. After $18B IPO, Bending Spoons founder says success comes from minimizing luck
-
-[原文] The co-founders of Bending Spoons, the Italian company quietly buying beloved, ailing Internet brands, learned big lessons from their own startup's failure.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/01/after-18b-ipo-bending-spoons-founder-says-success-comes-from-minimizing-luck/) — *TechCrunch*
-
-### 5. WhatsApp usernames are already raising impersonation red flags
-
-[原文] Meta says usernames improve privacy, but critics question whether its safeguards can prevent impersonation.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/01/whatsapp-usernames-are-already-raising-impersonation-red-flags/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Let children stay up for England-Mexico - Tuchel
+### 1. England were 15 minutes from humiliation - the issues Tuchel must solve
 
-[原文] England manager Thomas Tuchel urges parents to let their children stay up to watch England take on Mexico in the last 16 of the World Cup.
+[原文] Before England's World Cup last-16 tie against Mexico, BBC Sport's Phil McNulty looks at the issues that remain for Thomas Tuchel.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cd95g9y8k24o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/czx59l1knv0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. USA march on but will Balogun red card prove costly?
+### 2. Why are Man City breaking the bank for Anderson?
 
-[原文] Mauricio Pochettino's USA side set up a World Cup last-16 meeting with Belgium, but how costly will forward Folarin Balogun's red card prove?
+[原文] Elliot Anderson will become the most expensive British player, but why are Manchester City prepared to pay a record fee to sign the midfielder?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cgjx07ql6v0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c3dynyg0j1lo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Latest ever winner, comeback and controversy - Senegal's remarkable exit
+### 3. Gueye quits Senegal until coaching staff replaced
 
-[原文] Late drama, controversy, history and heartbreak - the World Cup last-32 tie between Belgium and Senegal had everything.
+[原文] Senegal midfielder Pape Gueye says he will be "taking a break" from playing for his country while the current management is in charge.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ckg8e2ezvzyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cqj18d7q2vwo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Will Britain's final four lift Wimbledon gloom?
+### 4. Mickelson disputes new misconduct allegations
 
-[原文] In her first BBC Sport column at this year's Wimbledon, Naomi Broady analyses whether the last four Britons in the singles can further lift the gloom.
+[原文] Six-time major champion Phil Mickelson denies allegations of misconduct and rejects claims he was forced to leave several California golf clubs.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cvg73y9lnp8o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/c5yz925758vo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Norris 'happy I have the pain of this year for the glory of last'
+### 5. Fery reaches third round to keep British hopes alive
 
-[原文] Lando Norris tells BBC Sport he is "paying the price" for the effort that brought him the 2025 title - and why McLaren would be a "different vibe" for Max Verstappen.
+[原文] Arthur Fery keeps British hopes alive at Wimbledon as he fights back from a set down to reach the third round, but Katie Swan is out.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/c36y3p1xj4jo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cly87nn87plo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Nagraj Manjule’s ‘Khashaba’ Unveils Teaser, Worldwide Release Date From Jio Studios (EXCLUSIVE)
+### 1. Gary Glitter Charged With ‘Historic’ Sexual Offenses, Including Alleged Intercourse With Girl Under 13 Years Old
 
-[原文] Jio Studios and Aatpat Productions have unveiled a teaser and worldwide release date for Indian filmmaker Nagraj Manjule&#8217;s &#8220;Khashaba.&#8221; The Marathi-language biographical sports drama 
+[原文] Gary Glitter, the former singer and convicted child sex offender, has been charged with historic sexual offenses dating back to 1978 and allegedly involving a girl who was under 13 years old. The BBC 
 
-📎 [阅读原文](https://variety.com/2026/film/news/nagraj-manjule-khashaba-teaser-jio-studios-1236799319/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/global/gary-glitter-charged-historic-sexual-offenses-girl-under-13-1236800827/) — *Variety*
 
-### 2. Chief Oscars Officer Teni Melidonian Transitions to AMPAS Consultant as Awards Production Moves Under Jennifer Davidson
+### 2. ‘Kiki’s Delivery Service’ Gets Imax Release as Gkids Adds Studio Ghibli Library in U.K., Ireland
 
-[原文] As the Oscars ceremony prepares for its move to YouTube in 2029, chief Oscars officer Teni Melidonian is stepping down, AMPAS CEO Bill Kramer told staffers in an email, according to sources. Melidonia
+[原文] Gkids has picked up U.K. and Ireland distribution rights to Studio Ghibli&#8217;s 23-title film library, adding theatrical, home video, TV and digital rights across the territory to its slate. The rol
 
-📎 [阅读原文](https://variety.com/2026/awards/awards/oscars-officer-teni-melidonian-exits-ampas-1236800583/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/kikis-delivery-service-imax-release-gkids-studio-ghibli-uk-ireland-1236800611/) — *Variety*
 
-### 3. Josh Gad to Join Margot Robbie and Bradley Cooper’s ‘Ocean’s’ Prequel (EXCLUSIVE)
+### 3. Weird Al Yankovic Pulled Out of AI Ad Despite Offer to Make a ‘Nice Pile of Money’: ‘I Can’t Be the Poster Boy for AI’
 
-[原文] Josh Gad is the latest to join Margot Robbie and Bradley Cooper&#8217;s crew for their forthcoming &#8220;Ocean&#8217;s 11&#8221; prequel at Warner Bros, sources told Variety. Gad has booked a signifi
+[原文] Some things are too weird even for parody king Weird Al Yankovic. Ahead of a Syracuse, New York, stop on his “Bigger &#38; Weirder&#8221; tour, Yankovic revealed to Syracuse.com in an interview publis
 
-📎 [阅读原文](https://variety.com/2026/film/news/margot-robbie-bradley-cooper-oceans-prequel-josh-gad-1236799715/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/biz/news/weird-al-yankovic-rejected-ai-commercial-money-offer-1236800794/) — *Variety*
 
-### 4. Rosalía’s Brilliant ‘Lux’ Tour Brings Cross-Disciplinary Delight and Splendor to L.A.’s Kia Forum: Concert Review
+### 4. Variety Toasts French Cinema With Post-Cannes Summer Dinner at Paris’ Laperouse With Thierry Fremaux, Guillaume Canet, Pierre-Antoine Capton, Rebecca Zlotowski and Anamaria Vartolomei
 
-[原文] Do you want to know how good Rosalía&#8217;s Monday night show at the Kia Forum was? Here is how good Rosalía&#8217;s Monday night show at the Forum was&#8230; Midway through the set, as is the custom
+[原文] Variety gathered leading figures from the French film industry for its fourth dinner at Lapérouse in Paris, a post-Cannes and summer celebration bringing together Cannes Film Festival director Thierry
 
-📎 [阅读原文](https://variety.com/2026/music/concert-reviews/rosalia-tour-concert-review-forum-lux-1236799736/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/variety-french-cinema-summer-dinner-paris-laperouse-1236800625/) — *Variety*
 
-### 5. Screen Australia Launches Audience-Intelligence Programs With Tatino Films, Publikum
+### 5. Bryan Fuller’s ‘Dust Bunny,’ ’28 Years Later: The Bone Temple’ Lead Fangoria Chainsaw Awards 2026 Nominees (EXCLUSIVE)
 
-[原文] Screen Australia has unveiled two audience-focused programs designed to strengthen the theatrical reach of Australian feature films, partnering with global film organizations Tatino Films and Publikum
+[原文] Horror fans, it’s time to have your say. Fangoria has announced its Chainsaw Awards nominees for 2026, which lets fans vote on the best horror works across film, television and gaming of the last year
 
-📎 [阅读原文](https://variety.com/2026/film/news/screen-australia-first-cut-lab-impact-insights-tatino-publikum-1236799836/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/awards/news/fangoria-chainsaw-awards-2026-nominees-dust-bunny-1236799587/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Onimusha: Way of the Sword Release Date Moved Forward
+### 1. 'He Was on the Valium or Something': Matt Smith Can't Believe Keanu Reeves Was Spotted Watching the Infamously Terrible Movie Morbius on a Flight
 
-[原文] Capcom has announced that Onimusha: Way of the Sword, the upcoming action-adventure sequel for PC, PS5, Xbox Series X|S, and Nintendo Switch 2, will now be released earlier than previously guided: it 
+[原文] Doctor Who and House of the Dragon star Matt Smith can't believe that Matrix legend Keanu Reeves was recently spotted watching his infamously terrible superhero movie Morbius while on a flight.
 
-📎 [阅读原文](https://www.ign.com/articles/onimusha-way-of-the-sword-release-date-moved-forward) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/he-was-on-the-valium-or-something-matt-smith-cant-believe-keanu-reeves-was-spotted-watching-the-infamously-terrible-movie-morbius-on-a-flight) — *IGN*
 
-### 2. The $1,800 Power Lift Recliner and Massage Chair Is $380 During the Wayfair 4th of July Sale
+### 2. Apple TV Teases Neuromancer Adaptation With an Iconic Line From William Gibson's Influential Cyberpunk Novel
 
-[原文] A chair you don't want to get it out of, even if it's designed to help you do so.
+[原文] "The sky above the port was the color of television, tuned to a dead channel." That’s the iconic opening sentence of William Gibson’s influential novel, Neuromancer, which charted a path forward for t
 
-📎 [阅读原文](https://www.ign.com/articles/wayfair-4th-of-july-sale-power-lift-recliner-and-massage-chair-deal) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/apple-tv-teases-neuromancer-adaptation-with-an-iconic-line-from-william-gibsons-influential-cyberpunk-novel) — *IGN*
 
-### 3. Marvel Super Heroes Comes to Magic: The Gathering
+### 3. PlayStation’s Physical Media-Free Future Isn’t Just Concerning, It’s Offensive
 
-[原文] Marvel Super Heroes Comes to Magic: The Gathering - Is this a good entry point for newcomers? Let’s find out…
+[原文] PlayStation games are going fully digital in 2028. That's not just concerning for physical media fans - it's offensive to players everywhere.
 
-📎 [阅读原文](https://www.ign.com/articles/marvel-super-heroes-comes-to-magic-the-gathering) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/playstations-physical-media-free-future-isnt-just-concerning-its-offensive) — *IGN*
 
-### 4. Marvel Refused to Tell Sadie Sink About Her Spider-Man: Brand New Day Character Until Filming Started
+### 4. 'I'll Do a Time Capsule for Them': How Long Will Hugh Jackman Play Wolverine? Marvel Star Suggests There's No Need to Think About Handing Over The Role Just Yet
 
-[原文] Sadie Sink admitted the secret identity of her as-yet unrevealed character in Spider-Man: Brand New Day was so heavily guarded, didn’t even get a glimpse of the script before landing in London to film
+[原文] X-Men star Hugh Jackman has suggested he won't be done playing Wolverine anytime soon.
 
-📎 [阅读原文](https://www.ign.com/articles/marvel-refused-to-tell-sadie-sink-about-her-spider-man-brand-new-day-character-until-filming-started) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/ill-do-a-time-capsule-for-them-how-long-will-hugh-jackman-play-wolverine-marvel-star-suggests-theres-no-need-to-think-about-handing-over-the-role-just-yet) — *IGN*
 
-### 5. The Popular Flashforge Adventurer 5M 3D Printer Drops to Just $154 With Free Shipping
+### 5. ESRB Leaks Warhammer 40,000: Space Marine - Master Crafted Edition for PS5 and Nintendo Switch 2
 
-[原文] A budget-friendly price for a reliable, moddable, and brand-name 3D printer.
+[原文] Warhammer 40,000: Space Marine - Master Crafted Edition looks set for PlayStation 5 and Nintendo Switch 2, having launched on PC, Xbox Series X and S, and straight into Xbox Game Pass in June last yea
 
-📎 [阅读原文](https://www.ign.com/articles/flashforge-adventurer-5m-3d-printer-deal-july) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/esrb-leaks-warhammer-40000-space-marine-master-crafted-edition-for-ps5-and-nintendo-switch-2) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. AM Radio Could Be Legally Mandated in New Cars
+### 1. Honda Wrestles Title of America’s Best-Selling Car From Ford and Toyota: TDS
+
+[原文] Ford and Toyota's struggles are Honda's gain as the CR-V has surged ahead to become the best-selling model in the U.S. through 2026 so far.
+The post Honda Wrestles Title of America&#8217;s Best-Sellin
+
+📎 [阅读原文](https://www.thedrive.com/news/honda-wrestles-title-of-americas-best-selling-car-from-ford-and-toyota-tds) — *The Drive*
+
+### 2. AM Radio Could Be Legally Mandated in New Cars
 
 [原文] If everything comes together, automakers would be forced to include AM receivers in their cars despite pushback over one key factor: cost.
 The post AM Radio Could Be Legally Mandated in New Cars appea
 
 📎 [阅读原文](https://www.thedrive.com/news/how-oft-forgotten-am-radio-became-a-legislative-lightning-rod) — *The Drive*
 
-### 2. Ford’s CEO Doesn’t Want You Fixing Your New Bronco. He Says It’s About Safety
+### 3. Ford’s CEO Doesn’t Want You Fixing Your New Bronco. He Says It’s About Safety
 
 [原文] A quiet fight in Washington over vehicle data could decide whether independent mechanics can still fix your car at all.
 The post Ford&#8217;s CEO Doesn&#8217;t Want You Fixing Your New Bronco. He Says
 
 📎 [阅读原文](https://www.thedrive.com/news/fords-ceo-doesnt-want-you-fixing-your-new-bronco-he-says-its-about-safety) — *The Drive*
 
-### 3. Nobody on Earth Believes Gen Z Can Handle Basic Car Maintenance
+### 4. Nobody on Earth Believes Gen Z Can Handle Basic Car Maintenance
 
 [原文] Americans don't even trust Gen Z to change a tire.
 The post Nobody on Earth Believes Gen Z Can Handle Basic Car Maintenance appeared first on The Drive.
 
 📎 [阅读原文](https://www.thedrive.com/news/nobody-on-earth-believes-gen-z-can-handle-basic-car-maintenance) — *The Drive*
 
-### 4. Honda and Nissan Near Partnership Despite Failed Merger: TDS
+### 5. Honda and Nissan Near Partnership Despite Failed Merger: TDS
 
 [原文] Nissan got cold feet when it realized Honda essentially wanted to acquire it years back. Still, the two companies got past that and are close to a tech alliance.
 The post Honda and Nissan Near Partner
 
 📎 [阅读原文](https://www.thedrive.com/news/honda-and-nissan-near-partnership-despite-failed-merger-tds) — *The Drive*
-
-### 5. ‘We Don’t Know What We’re Doing’: Inside the Post-Ban Chaos at Polestar Dealerships
-
-[原文] Polestar's abrupt forced exit from the U.S. market has left dealers, owners, and Polestar corporate scrambling to figure out what the future looks like.
-The post &#8216;We Don&#8217;t Know What We&#82
-
-📎 [阅读原文](https://www.thedrive.com/news/we-dont-know-what-were-doing-inside-the-post-ban-chaos-at-polestar-dealerships) — *The Drive*
 
 ---
 
@@ -363,35 +363,35 @@ The post &#8216;We Don&#8217;t Know What We&#82
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Echoes of the Past in Pennsylvania Coal Towns’ Fight Against Data Centers
+### 1. Smart Thermostats Will Soon Come to the Rescue During Heatwaves
+
+[原文] In the near future, the Chicago-area electricity grid will meet demand during a heatwave by remotely turning up thermostats by a degree or two in households that choose to participate. This adjustment
+
+📎 [阅读原文](https://insideclimatenews.org/news/02072026/inside-clean-energy-smart-thermostats-grid-relief/) — *Inside Climate News*
+
+### 2. Echoes of the Past in Pennsylvania Coal Towns’ Fight Against Data Centers
 
 [原文] HAZLETON, Pa.—The Hazle Township Supervisors faced a packed room. Hanging on the wall behind them, black lettering spelled out “We the People.” In front of them sat and stood about a hundred community
 
 📎 [阅读原文](https://insideclimatenews.org/news/02072026/pennsylvania-coal-town-data-center-moratorium/) — *Inside Climate News*
 
-### 2. Rights of Nature Laws Are Coming Up Against Legal Systems Designed for Destruction
+### 3. Rights of Nature Laws Are Coming Up Against Legal Systems Designed for Destruction
 
 [原文] Years after landmark court rulings in Colombia and Bangladesh recognized rivers as legal persons, the waterways remain polluted and under threat—an outcome a new study attributes in part to a systemic
 
 📎 [阅读原文](https://insideclimatenews.org/news/02072026/colombia-bangladesh-rights-of-nature-laws-protect-rivers/) — *Inside Climate News*
 
-### 3. A New Mexico Town Is Running Dry. An Immigration Detention Center Is Its Biggest Water Customer.
+### 4. A New Mexico Town Is Running Dry. An Immigration Detention Center Is Its Biggest Water Customer.
 
 [原文] Following years of drought, the wells in Estancia, N.M., are running dry.&#160; After declaring a water emergency last week, the small town in Torrance County is hauling in water to fill its pipes. Es
 
 📎 [阅读原文](https://insideclimatenews.org/news/01072026/new-mexico-immigration-detention-center-water-use/) — *Inside Climate News*
 
-### 4. More Living Shorelines Could Come to States Bordering Chesapeake Bay if the Region’s Senators Get Their Way
+### 5. More Living Shorelines Could Come to States Bordering Chesapeake Bay if the Region’s Senators Get Their Way
 
 [原文] Norfolk, Virginia, has remained the poster child for cities facing land subsidence and flooding in the country, struggling through an onslaught of storm surges and blue-sky flooding that become more f
 
 📎 [阅读原文](https://insideclimatenews.org/news/01072026/chesapeake-bay-living-shoreline-projects/) — *Inside Climate News*
-
-### 5. Chemical Accidents Rise as Trump Administration Proposes Weakening Safety Rules
-
-[原文] Physicist Ronald Koopman appeared at a Southern California Air District meeting in 2018 to talk about what seemed like an arcane scientific topic: hydrofluoric acid dispersion and water mitigation tes
-
-📎 [阅读原文](https://insideclimatenews.org/news/30062026/hazardous-chemical-accidents-rise-as-safety-rules-weaken/) — *Inside Climate News*
 
 ---
 
@@ -419,11 +419,11 @@ The post &#8216;We Don&#8217;t Know What We&#82
 
 📎 [阅读原文](https://edsurge.com/news/iste-ascd-is-now-the-international-society-for-transforming-education) — *EdSurge*
 
-### 4. Podcast: Is TikTok Now a Teacher Training Tool?
+### 4. Vibe Coding Sparked a Love of Reading in My Classroom
 
-[原文] Two educators are reckoning with who is really in charge: technology or the teacher.
+[原文] Lessons learned from a year of building an AI literacy tool.
 
-📎 [阅读原文](https://edsurge.com/news/podcast-is-tiktok-now-a-teacher-training-tool) — *EdSurge*
+📎 [阅读原文](https://edsurge.com/news/vibe-coding-sparked-reading-interest-in-my-students) — *EdSurge*
 
 ### 5. Outgrowing the Chromebook: Why Advanced STEM Demands Better Student Tech
 
@@ -477,35 +477,35 @@ The post &#8216;We Don&#8217;t Know What We&#82
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Booking.com Built Its India Business on Leisure — Now It’s Going Corporate
+### 1. UAE Bets on Discounts, Insurance, and New Visa Markets to Refill Hotel Rooms After Iran War Hit
+
+[原文] The UAE is running two recovery tracks at once — emergency incentives to plug a war-driven demand hole and multibillion-dollar infrastructure bets. The gap between those timelines is the story.
+
+📎 [阅读原文](https://skift.com/2026/07/02/uae-bets-on-discounts-insurance-and-new-visa-markets-to-refill-hotel-rooms-after-iran-war-hit/) — *Skift*
+
+### 2. Booking.com Built Its India Business on Leisure — Now It’s Going Corporate
 
 [原文] India's business travel boom gives Booking.com a rare chance to grow two businesses at once — corporate bookings today and leisure loyalty tomorrow.
 
 📎 [阅读原文](https://skift.com/2026/07/01/booking-com-built-its-india-business-on-leisure-now-its-going-corporate/) — *Skift*
 
-### 2. Expedia’s First IShowSpeed Video Brought Awareness. The Latest Pushes for Bookings.
+### 3. Expedia’s First IShowSpeed Video Brought Awareness. The Latest Pushes for Bookings.
 
 [原文] With a shoppable IShowSpeed video, Expedia is trying to convert creator hype into transactions.
 
 📎 [阅读原文](https://skift.com/2026/07/01/expedia-ishowspeed-bookable-video/) — *Skift*
 
-### 3. Trump Administration Moves to Repeal Obama’s Airfare Transparency Rule
+### 4. Trump Administration Moves to Repeal Obama’s Airfare Transparency Rule
 
 [原文] It's the latest move to roll back consumer protections and enforcement measures against airlines.
 
 📎 [阅读原文](https://skift.com/2026/07/01/trump-administration-moves-to-repeal-obamas-airfare-transparency-rule/) — *Skift*
 
-### 4. American Launches Flights to Tokyo From Chicago O’Hare as It Looks to Rebuild Hub and Take on United
+### 5. American Launches Flights to Tokyo From Chicago O’Hare as It Looks to Rebuild Hub and Take on United
 
 [原文] American is launching flights to Tokyo from Chicago as it seeks to regain some of its market share in the hub that it lost during the pandemic.
 
 📎 [阅读原文](https://skift.com/2026/07/01/american-launches-flights-to-tokyo-from-chicago-ohare-as-it-looks-to-rebuild-hub/) — *Skift*
-
-### 5. Barceló Has the Cash to Buy Hotels, But Says They’re Too Expensive
-
-[原文] Record profits don’t necessarily mean it’s time to buy. Barceló has the cash to acquire hotels but says today’s prices no longer justify the returns it expects.
-
-📎 [阅读原文](https://skift.com/2026/07/01/barcelo-has-the-cash-to-buy-hotels-but-says-theyre-too-expensive/) — *Skift*
 
 ---
 
