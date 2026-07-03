@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月03日** | 生成时间: 2026-07-03 17:24
+**2026年07月03日** | 生成时间: 2026-07-03 22:16
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns
+### 1. France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather
+
+[原文] Forecasters are warning of further extreme temperatures on the continent in the next few days.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'
+
+[原文] Officials believe the suspect may not have acted alone and spent days casing out scene of the attack.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. Nasa launches mission to save falling space telescope
+
+[原文] A Nasa-funded robot has blasted off to catch a falling telescope in mid-orbit and blast it back to safety before it burns up.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c0ry4xx7rk8o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns
 
 [原文] The BBC travels to the city of Bandar Abbas - the first international journalists to visit the Iranian side of the strait.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvg53ngvvpxo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Venezuela quake survivor pulled out alive after eight days
+### 5. Iran begins public mourning for Ayatollah killed in February
 
-[原文] Hernán Gil was trapped under a collapsed multi-storey car park.
+[原文] Ali Khamenei's body will lie in state in Tehran's Grand Mosalla from Friday ahead of days-long funeral events.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 3. Instagram running ads promoting child sexual abuse material in India, BBC finds
-
-[原文] The ads use terms including “rape” and “child video” and link to content on the messaging app Telegram.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvgm4e0316zo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Taylor Swift's rumoured wedding celebrations begin with star-studded New York event
-
-[原文] Actress Lena Dunham, model Gigi Hadid and longtime music collaborator Jack Antonoff were spotted in formal attire near Madison Square Garden.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/crlw1eeez19o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. 'Most massive' Russian attack on Kyiv kills at least 30
-
-[原文] The latest barrage deployed the largest number of weapons on the capital and hit locations over a wide area.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Extreme heat wave threatens U.S. power grids and July 4 travel
+### 1. 5 takeaways from President Donald Trump's interview with CNBC
+
+[原文] The president defended his family's business and said he feels bad that the presidency creates a conflict of interest in any of his children's investments.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/02/5-takeaways-from-president-donald-trumps-interview-with-cnbc.html) — *CNBC*
+
+### 2. Ford achieves quality milestone, as CEO targets flawless new vehicle launches
+
+[原文] Ford CEO Jim Farley told CNBC that the automaker has learned from its past quality and recall issues, which have hurt its earnings and stained its reputation.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/03/ford-achieves-quality-milestone-targets-flawless-new-vehicle-launches.html) — *CNBC*
+
+### 3. Extreme heat wave threatens U.S. power grids and July 4 travel
 
 [原文] The heat wave threatens to overwhelm U.S. grids and may force some to change their plans on one of the busiest travel weeks of the year.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/03/extreme-heat-us-power-grids-july-4-travel.html) — *CNBC*
 
-### 2. Oman walks a diplomatic tightrope over Strait of Hormuz fees, creating a ‘blind spot’ for markets
+### 4. Trump’s Freedom 250 draws corporate sponsors with business before his administration
 
-[原文] Oman is using strategic ambiguity as talks over possible Strait of Hormuz fees raise legal, diplomatic and oil market concerns.
+[原文] Companies with federal interests — including Boeing, Lockheed Martin and Oracle — are sponsoring a Trump-aligned effort celebrating America’s 250th birthday.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/03/oman-strait-hormuz-fees-iran-trump.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/03/trump-freedom-250-america250-corporate-sponsors-access.html) — *CNBC*
 
-### 3. Gold prices set for first weekly rise in a month as investors scale back Fed rate hike bets
+### 5. As ACA enrollment falls by millions, Trump administration and policy gurus disagree on why
 
-[原文] The metal was boosted as investors scaled back their bets on a looming rate hike.
+[原文] Affordable Care Act marketplace enrollment has declined by 3 million people. The Trump administration points to fraud controls. Policy experts point to cost.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/03/gold-silver-price-inflation-fed-rate-hike.html) — *CNBC*
-
-### 4. Venezuela quake toll climbs to 2,595 as damage estimates mount after strongest tremor in a century
-
-[原文] Death toll from twin earthquakes that struck Venezuela jumped to 2,595, as rescue operations continued after the country's strongest tremors in over a century.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/03/venezuela-earthquakes-death-toll-rises-rescue-efforts-continue.html) — *CNBC*
-
-### 5. Kuaishou shares jump after Tencent joins $2.8 billion raise for Kling AI subsidiary
-
-[原文] Kuaishou shares rose as much as 6.89% at Friday's Hong Kong market open before paring gains to trade around 0.75% higher.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/03/kuaishou-shares-fall-after-securing-tencent-funding-for-kling-ai.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/03/aca-enrollment-enhanced-subsidies-lapse-fraud.html) — *CNBC*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Huge Snicko VAR call prolongs Ronaldo's last dance but ends Modric's
+### 1. Windhorst: NBA execs on the Brown trade, big-money...
 
-[原文] Veteran forward Cristiano Ronaldo gets another day on the World Cup stage after Croatia are denied a late equaliser by a huge VAR call.
+[原文] After the Jaylen Brown trade, hundreds of millions spent on centers and a shocking cap development, here's the latest NBA buzz as we enter Week 2 of free agency.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cz0jee3vy39o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/nba/story/_/id/49254909/what-nba-execs-buzzing-jaylen-brown-celtics-sixers-walker-kessler-los-angeles-lakers-big-money-bigs-salary-cap) — *ESPN*
 
-### 2. Four-time Tour de France winner Froome retires
+### 2. NBA free agency is here! Live updates on deals, tr...
 
-[原文] Great Britain's Chris Froome, who won the Tour de France four times, brings an end to his illustrious career in professional cycling.
+[原文] We're tracking deals, trades and buzz across the NBA, including the latest on LeBron's next move.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cycling/articles/clyere67jpmo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason) — *ESPN*
 
-### 3. Hard work and a disco jacket - England turn fielding woes around to reach final
+### 3. Sources: 76ers, with Brown on board, eye LeBron
 
-[原文] It used to be their big weakness but England have turned around their fielding woes with hard work and the help of a sparkly jacket.
+[原文] One day after trading for Jaylen Brown, the 76ers have entered the mix for LeBron James and are attempting to pitch him, sources said.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cwyedgekzyjo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/nba/story/_/id/49252040/sources-76ers-enter-mix-lebron-james-jaylen-brown-add) — *ESPN*
 
-### 4. The one club man who is Spain's under-the-radar hero
+### 4. Portugal, Ronaldo survive late scare from Croatia
 
-[原文] Mikel Oyarzabal is perhaps not the biggest name in Spain's World Cup squad, but the one who has so far shone brightest.
+[原文] Gonçalo Ramos headed in a pass from Rafael Leão in stoppage time as Cristiano Ronaldo, who had earlier converted a penalty kick, watched from the bench while Portugal defeated Croatia 2-1 on Thursday,
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cvgd0jz1xq7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49253213/portugal-ronaldo-survive-late-scare-croatia-world-cup) — *ESPN*
 
-### 5. Portugal through to last 16 after dramatic victory over Croatia
+### 5. C's pick up Queta's option, add $56M extension
 
-[原文] Portugal beat Croatia 2-1 with goals from Cristiano Ronaldo and Goncalo Ramos after a chaotic second-half in Toronto to set up a last 16 tie with Iberian rivals Spain.
+[原文] The Celtics are picking up their option on center Neemias Queta for next season and are adding a four-year, $56 million extension, his agent Bill Duffy of WME Basketball tells ESPN's Shams Charania..
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cy9r11gj8lzo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/nba/story/_/id/49258502/celtics-picking-queta-option-adding-4-year-56m-extension) — *ESPN*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘My Indian Boyfriend: The Golden Mile’ Lands RFT Films for U.K. and Ireland Theatrical Distribution (EXCLUSIVE)
+### 1. ‘Mary Oliver: Saved by the Beauty of the World’ Review: A Portrait of America’s Favorite Poet That Reckons With Her Popularity and Her Privacy
 
-[原文] &#8220;My Indian Boyfriend: The Golden Mile,&#8221; a British romantic drama set against Leicester&#8217;s Diwali celebrations, has landed U.K. and Ireland theatrical distribution through RFT Films, a
+[原文] Few modern poets are as readily quotable — and indeed as widely quoted — as Mary Oliver, the late Pulitzer winner whose graceful but plainly worded reflections on the natural world have been taken to 
 
-📎 [阅读原文](https://variety.com/2026/film/news/my-indian-boyfriend-golden-mile-uk-ireland-rft-films-1236801248/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/reviews/mary-oliver-saved-by-the-beauty-of-the-world-review-1236800644/) — *Variety*
 
-### 2. U.K. Culture Secretary Lisa Nandy Quits Elon Musk’s X Over ‘Abuse and Misinformation’
+### 2. Morocco Set to Build International Cinema City Studios in Ouarzazate Where ‘Gladiator 2’ Was Shot
 
-[原文] Lisa Nandy, the U.K.&#8217;s Culture Secretary, said Thursday that she is leaving X, and that the Department for Culture, Media and Sport will follow suit. In what could be her final post on the platf
+[原文] The Moroccan government is launching construction of a major new film production hub called the International Cinema City in Ouarzazate in southern Morocco know to Hollywood directors as the perfect s
 
-📎 [阅读原文](https://variety.com/2026/digital/news/lisa-nandy-quits-x-uk-culture-secretary-1236801244/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/morocco-cinema-city-studios-ouarzazate-gladiator-2-1236801384/) — *Variety*
 
-### 3. ‘Brothers for Life,’ ‘Thousand Dollar Baby’ Lead Skyline Media, Galaxy Play’s International Sales Slate (EXCLUSIVE)
+### 3. Busan, Palm Springs Selection ‘Max, Min & Meowzaki’ Sets India Theatrical Release With Platoon One Films (EXCLUSIVE)
 
-[原文] Vietnam-based sales agent Skyline Media and streaming platform Galaxy Play have struck a partnership that will send Galaxy Play Originals into international markets for the first time, with Skyline Me
+[原文] &#8220;Max, Min &#38; Meowzaki&#8221; will release in cinemas across India, distributed by Platoon One Films. Directed by Padmakumar Narasimhamurthy, the film debuted in Busan, was part of the Best of
 
-📎 [阅读原文](https://variety.com/2026/tv/news/brothers-for-life-thousand-dollar-baby-skyline-galaxy-play-1236801240/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/max-min-meowzaki-india-release-platoon-one-1236801373/) — *Variety*
 
-### 4. AI-Created Indian Musical Microdrama ‘Mohini – Khud Se Pyaar’ Unveils Debut Track ‘Angaat Aalay Ka’ (EXCLUSIVE)
+### 4. ‘Power Book III: Raising Kanan’ Introduces Young [SPOILER], Character to Appear in ‘Power: Origins’
 
-[原文] &#8220;Angaat Aalay Ka,&#8221; the opening song from the AI-created musical microdrama &#8220;Mohini – Khud Se Pyaar,&#8221; has been released by India&#8217;s Equinox Virtual, the company conceived b
+[原文] SPOILER ALERT: This article contains spoilers for &#8220;Power Book III: Raising Kanan&#8221; Season 5 Episode 4 The fifth and final season of &#8220;Power Book III: Raising Kanan&#8221; just introduc
 
-📎 [阅读原文](https://variety.com/2026/tv/news/ai-indian-musical-microdrama-mohini-debut-track-1236800841/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/power-book-iii-raising-kanan-jarita-power-origins-1236801042/) — *Variety*
 
-### 5. Madonna’s Dance Floor-Dominating ‘Confessions II’ Is Her Best Album in Decades: Album Review
+### 5. Cannes Winner Diego Céspedes Preps ‘Wild’ Second Feature, ‘The Case of the Boy Who Lost His Heart’ (EXCLUSIVE)
 
-[原文] &#8220;Sometimes I like to just hide in the shadows,&#8221; mutters Madonna at the start of &#8220;I Feel So Free,&#8221; the opening track on her 15th album &#8220;Confessions II.&#8221; &#8220;Creat
+[原文] Chilean wunderkind Diego Céspedes whose debut feature “The Mysterious Gaze of the Flamingo” (“La Misteriosa Mirada del Flamenco”) snagged the top prize in Cannes’ Un Certain Regard last year, is prepp
 
-📎 [阅读原文](https://variety.com/2026/music/album-reviews/madonna-confessions-ii-album-review-1236801149/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/diego-cespedes-preps-the-case-of-the-boy-who-lost-his-heart-1236790602/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Nintendo Brain Training Professor Explains Why Driving a Manual Transmission Car Is Better for Your Brain Than an Automatic
+### 1. After Sony Kills PS5 Discs and GTA 6 is Just a Code in a Box, Xbox Is Using Halo: Campaign Evolved's Physical Disc as a Selling Point
 
-[原文] A study led by Professor Ryuta Kawashima suggests that driving a manual transmission car is beneficial for the brain, and could help prevent dementia. Kawashima is a neuroscientist known for the Brain
+[原文] Microsoft is using the fact that Halo: Campaign Evolved will offer a physical game disc in its box as a selling point.
 
-📎 [阅读原文](https://www.ign.com/articles/nintendo-brain-training-professor-explains-why-driving-a-manual-transmission-car-is-better-for-your-brain-than-an-automatic) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/after-sony-kills-ps5-discs-and-gta-6-is-just-a-code-in-a-box-xbox-is-using-halo-campaign-evolveds-physical-disc-as-a-selling-point) — *IGN*
 
-### 2. Suicide Squad: Kill the Justice League Developers Wanted to Quit the Industry After the Game Was Released
+### 2. Anne Hathaway Quit Knocked Up Because 'She Didn't Want the Crowning of the Baby to Be Visually Representative,' Seth Rogen Says
 
-[原文] Two developers who worked on Suicide Squad: Kill the Justice League gave a transparent account of their experience working on the game.
+[原文] Seth Rogen has confirmed the reason Anne Hathaway quit Knocked Up and was replaced by Katherine Heigl — at least how he remembers it.
 
-📎 [阅读原文](https://www.ign.com/articles/suicide-squad-kill-the-justice-league-developers-wanted-to-quit-the-industry-after-the-game-was-released) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/anne-hathaway-quit-knocked-up-because-she-didnt-want-the-crowning-of-the-baby-to-be-visually-representative-seth-rogen-says) — *IGN*
 
-### 3. Cape Fear Episode 6 Recap and Review – 'Possum'
+### 3. Over 90% of IGN's Audience Do Not Want an All-Digital Gaming Future, but PlayStation Is Unlikely to U-Turn on Its Decision to Kill Discs
 
-[原文] Episode 6 of Apple TV’s Cape Fear is a hilarious, action-packed acid trip that puts the thriller series back on track. Read our full "Possum" review and recap.
+[原文] Sony has sparked a backlash for its decision to do away with video game discs on PlayStation consoles from 2028 — and the IGN audience's feeling on the matter is crystal clear, too.
 
-📎 [阅读原文](https://www.ign.com/articles/cape-fear-episode-6-recap-and-review-possum) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/over-90-of-igns-audience-do-not-want-an-all-digital-gaming-future-but-playstation-is-unlikely-to-u-turn-on-its-decision-to-kill-discs) — *IGN*
 
-### 4. The $1,800 Power Lift Recliner and Massage Chair Is $370 During the Wayfair 4th of July Sale
+### 4. As Sony Kills Physical PS5 Games, Disc Production Factory Workers Are Set to be Reassigned
 
-[原文] A chair you don't want to get it out of, even if it's designed to help you do so.
+[原文] Sony has already begun plans to reassign staff at a major disc production plant, following its decision to kill off production of physical PS5 games.
 
-📎 [阅读原文](https://www.ign.com/articles/wayfair-4th-of-july-sale-power-lift-recliner-and-massage-chair-deal) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/as-sony-kills-physical-ps5-games-disc-production-factory-workers-are-set-to-be-reassigned) — *IGN*
 
-### 5. Do You Use Your PS5 to Watch 4K Blu-ray Discs?
+### 5. Pokémon TCG: Prismatic Evolutions ETBs Are Back in Stock, and Under Market Price at Amazon
 
-暂无摘要。
+[原文] Amazon has restocked Pokémon TCG: Prismatic Evolutions Elite Trainer Boxes at under market price, but they are likely to sell out fast.
 
-📎 [阅读原文](https://www.ign.com/articles/do-you-use-your-ps5-to-watch-4k-blu-ray-discs) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/pokemon-tcg-prismatic-evolutions-etbs-are-back-in-stock-and-under-market-price-at-amazon) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Live Out Your ‘Gran Turismo’ Fantasy With This Venturi 400 For Sale
+### 1. 2026 Mercedes-AMG E53 Hybrid Wagon Quick Review: A Bit Mild, a Bit Wild, But Mostly Confusing
+
+[原文] The Mercedes-AMG Hybrid Wagon is luxurious and fast, but you get the feeling that it's trying to do a bit too much and falling short of doing one thing well.
+The post 2026 Mercedes-AMG E53 Hybrid Wago
+
+📎 [阅读原文](https://www.thedrive.com/car-reviews/2026-mercedes-amg-e53-hybrid-wagon-quick-review-a-bit-mild-a-bit-wild-but-mostly-confusing) — *The Drive*
+
+### 2. This Peak Lamborghini Diablo Is One-of-80, and It’s Going to Auction
+
+[原文] One of the rarest examples of the breed, the Diablo GT combined the bigger V12 used in later models with rear-wheel drive.
+The post This Peak Lamborghini Diablo Is One-of-80, and It&#8217;s Going to A
+
+📎 [阅读原文](https://www.thedrive.com/news/this-peak-lamborghini-diablo-is-one-of-80-and-its-going-to-auction) — *The Drive*
+
+### 3. Live Out Your ‘Gran Turismo’ Fantasy With This Venturi 400 For Sale
 
 [原文] This is one of under 100 examples ever built of the car some called France's Ferrari F40, and it has quite the competitive history.
 The post Live Out Your &#8216;Gran Turismo&#8217; Fantasy With This 
 
 📎 [阅读原文](https://www.thedrive.com/news/live-out-your-gran-turismo-fantasy-with-this-venturi-400-for-sale) — *The Drive*
 
-### 2. Exposing the Lies About Why Supercar Companies Sell SUVs
+### 4. Exposing the Lies About Why Supercar Companies Sell SUVs
 
 [原文] It's often said that exotic car manufacturers sell SUVs just to stay afloat. But that's not entirely true.
 The post Exposing the Lies About Why Supercar Companies Sell SUVs appeared first on The Drive
 
 📎 [阅读原文](https://www.thedrive.com/news/exposing-the-lies-about-why-supercar-companies-sell-suvs) — *The Drive*
 
-### 3. Record Q2 Sales Put Ford Bronco in Striking Distance of Jeep Wrangler
+### 5. Record Q2 Sales Put Ford Bronco in Striking Distance of Jeep Wrangler
 
 [原文] The Bronco has been chasing the Wrangler's heels since Ford launched its revived 4x4 in 2021. 
 The post Record Q2 Sales Put Ford Bronco in Striking Distance of Jeep Wrangler appeared first on The Driv
 
 📎 [阅读原文](https://www.thedrive.com/news/record-q2-sales-put-ford-bronco-in-striking-distance-of-jeep-wrangler) — *The Drive*
-
-### 4. Traffic Regulators Vow to Unleash ‘Innovation’ by Eliminating Robotaxi Brake Pedals
-
-[原文] NHTSA is seeking to rid AVs of brake pedals, but is leaving the question of how passengers should be able to stop them in an emergency for another day.
-The post Traffic Regulators Vow to Unleash &#821
-
-📎 [阅读原文](https://www.thedrive.com/news/traffic-regulators-vow-to-unleash-innovation-by-eliminating-robotaxi-brake-pedals) — *The Drive*
-
-### 5. Honda Wrestles Title of America’s Best-Selling Car From Ford and Toyota: TDS
-
-[原文] Ford and Toyota's struggles are Honda's gain as the CR-V has surged ahead to become the best-selling model in the U.S. through 2026 so far.
-The post Honda Wrestles Title of America&#8217;s Best-Sellin
-
-📎 [阅读原文](https://www.thedrive.com/news/honda-wrestles-title-of-americas-best-selling-car-from-ford-and-toyota-tds) — *The Drive*
 
 ---
 
@@ -363,35 +363,35 @@ The post Honda Wrestles Title of America&#8217;s Best-Sellin
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. As America Celebrates 250th, Murkiness Surrounds Trump-Backed Planning Fund
+### 1. California’s First Carbon Capture Project Is Up and Running. Environmentalists Are Still Trying To Stop It.
+
+[原文] California Resources Corporation, the state’s largest oil company, passed a long-targeted milestone in May: It had finally taken carbon dioxide that would otherwise warm the atmosphere and injected it
+
+📎 [阅读原文](https://insideclimatenews.org/news/03072026/california-environmentalists-press-for-assessment-of-first-carbon-capture-project/) — *Inside Climate News*
+
+### 2. As America Celebrates 250th, Murkiness Surrounds Trump-Backed Planning Fund
 
 [原文] Among the sponsors of Freedom 250, the organization created by President Donald Trump to plan the celebration of the nation’s semiquincentennial, is a Florida mining company with a regulatory issue pe
 
 📎 [阅读原文](https://insideclimatenews.org/news/03072026/freedom-250-sponsorship-from-florida-mining-company-seeking-federal-approval/) — *Inside Climate News*
 
-### 2. Drone Delivery Could Cut Pollution. Can Communities Live With the Noise?
+### 3. Drone Delivery Could Cut Pollution. Can Communities Live With the Noise?
 
 [原文] RICHARDSON, Texas—Jonathan Pace first noticed the noise. But it wasn’t until he bought a Bluetooth-based drone tracker that what seemed like a neighborhood nuisance became something he could measure: 
 
 📎 [阅读原文](https://insideclimatenews.org/news/03072026/drone-delivery-could-cut-pollution/) — *Inside Climate News*
 
-### 3. Heat Wave Politics: GOP Leaders Deride Calls to Conserve
+### 4. Heat Wave Politics: GOP Leaders Deride Calls to Conserve
 
 [原文] Seeking to sow unity amid a pending heat crisis, New York Mayor Zohran Mamdani reaped a whirlwind of right-wing rage. Mamdani’s post on X on Wednesday urged New Yorkers to turn their thermostats to 78
 
 📎 [阅读原文](https://insideclimatenews.org/news/02072026/new-york-heat-wave-politics/) — *Inside Climate News*
 
-### 4. New Power Plants for Data Centers Would Significantly Increase Pennsylvania’s Climate Pollution
+### 5. New Power Plants for Data Centers Would Significantly Increase Pennsylvania’s Climate Pollution
 
 [原文] Data center developers in Pennsylvania plan to rely on at least seven new natural gas-fired power plants that would emit climate-warming gases equal to adding 14 million cars on the road every year, a
 
 📎 [阅读原文](https://insideclimatenews.org/news/02072026/data-center-power-plants-pennsylvania-pollution/) — *Inside Climate News*
-
-### 5. Smart Thermostats Will Soon Come to the Rescue During Heatwaves
-
-[原文] In the near future, the Chicago-area electricity grid will meet demand during a heatwave by remotely turning up thermostats by a degree or two in households that choose to participate. This adjustment
-
-📎 [阅读原文](https://insideclimatenews.org/news/02072026/inside-clean-energy-smart-thermostats-grid-relief/) — *Inside Climate News*
 
 ---
 
@@ -477,35 +477,35 @@ The post Honda Wrestles Title of America&#8217;s Best-Sellin
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Cabo Verde Has Made History at the World Cup. Can It Convert Attention Into Bookings?
+### 1. Turkey Quietly Built One of the World’s Most Complete Travel Tech Stacks
+
+[原文] Durable travel tech is forged by hard operating conditions, not venture capital and conference circuits, and Turkey is the proof.
+
+📎 [阅读原文](https://skift.com/2026/07/03/turkey-quietly-built-one-of-the-worlds-most-complete-travel-tech-stacks/) — *Skift*
+
+### 2. Cabo Verde Has Made History at the World Cup. Can It Convert Attention Into Bookings?
 
 [原文] The island nation draws 1.2 million tourists a year — predominantly from Europe, and predominantly on all-inclusive packages. A World Cup run won't change that overnight, but it may bring awareness to
 
 📎 [阅读原文](https://skift.com/2026/07/02/cabo-verde-world-cup-tourism-surge/) — *Skift*
 
-### 2. Marriott Outspends Rivals on TV, But Airbnb Owns the World Cup
+### 3. Marriott Outspends Rivals on TV, But Airbnb Owns the World Cup
 
 [原文] Marriott outspent every hotel brand on national TV, yet Airbnb's World Cup ads have out-reached Marriott's so far. Marketers should note that focus, rather than budget, wins marquee experiences.
 
 📎 [阅读原文](https://skift.com/2026/07/02/marriott-outspends-rivals-on-tv-but-airbnb-owns-the-world-cup/) — *Skift*
 
-### 3. OTAs Are Betting on Traveler Trust. But the Scramble Is On to Win the Trust of AI Agents
+### 4. OTAs Are Betting on Traveler Trust. But the Scramble Is On to Win the Trust of AI Agents
 
 [原文] Whether or not travelers trust AI would almost be irrelevant to OTAs if the LLMs don't trust them enough to surface their inventory for discovery.  The contest is on behind-the-scenes battle to become
 
 📎 [阅读原文](https://skift.com/2026/07/02/otas-are-betting-on-traveler-trust-but-the-scramble-is-on-to-win-the-trust-of-ai-agents/) — *Skift*
 
-### 4. Noble Investment Group’s Extended-Stay Bet Is Behind a 149-Hotel Buying Spree
+### 5. Noble Investment Group’s Extended-Stay Bet Is Behind a 149-Hotel Buying Spree
 
 [原文] With other investors sitting on the sidelines, Noble is buying hotels from REITs and overleveraged owners at a discount — and betting that extended-stay demand will outlast the current rate headwinds.
 
 📎 [阅读原文](https://skift.com/2026/07/02/noble-investment-groups-extended-stay-bet-is-behind-a-149-hotel-buying-spree/) — *Skift*
-
-### 5. UAE Bets on Discounts, Insurance, and New Visa Markets to Refill Hotel Rooms After Iran War Hit
-
-[原文] The UAE is running two recovery tracks at once — emergency incentives to plug a war-driven demand hole and multibillion-dollar infrastructure bets. The gap between those timelines is the story.
-
-📎 [阅读原文](https://skift.com/2026/07/02/uae-bets-on-discounts-insurance-and-new-visa-markets-to-refill-hotel-rooms-after-iran-war-hit/) — *Skift*
 
 ---
 
@@ -515,7 +515,7 @@ The post Honda Wrestles Title of America&#8217;s Best-Sellin
 - **💰 经济财经**: CNBC
 - **💻 科技**: TechCrunch
 - **🔬 科学**: Science Daily
-- **⚽ 体育**: BBC Sport
+- **⚽ 体育**: ESPN
 - **🎬 娱乐**: Variety
 - **🏥 健康**: WHO
 - **🎮 游戏**: IGN
