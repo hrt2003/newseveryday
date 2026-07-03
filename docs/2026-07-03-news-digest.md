@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月03日** | 生成时间: 2026-07-03 03:36
+**2026年07月03日** | 生成时间: 2026-07-03 11:38
 
 ---
 
@@ -18,11 +18,11 @@
 
 ### 1. Venezuela quake survivor pulled out alive after eight days
 
-[原文] Hernán Gil was trapped under a collapsed multi-storey car park, and encouraged them as they inched closer to him.
+[原文] Hernán Gil was trapped under a collapsed multi-storey car park.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. 'Most massive' Russian attack on Kyiv kills at least 25
+### 2. 'Most massive' Russian attack on Kyiv kills at least 27
 
 [原文] The latest barrage deployed the largest number of weapons on the capital and hit locations over a wide area.
 
@@ -60,11 +60,11 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html) — *CNBC*
 
-### 2. Tesla stock sinks 8% despite strong deliveries report
+### 2. Kuaishou shares fall after Tencent joins $2.8 billion raise for Kling AI subsidiary
 
-[原文] Tesla is trying to recover from consecutive annual declines in vehicle sales that were partly caused by a consumer backlash against CEO Elon Musk.
+暂无摘要。
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/02/tesla-tsla-q2-2026-vehicle-delivery-production.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/03/kuaishou-shares-fall-after-securing-tencent-funding-for-kling-ai.html) — *CNBC*
 
 ### 3. Trump bought Apple, Nvidia and other tech giants before tariff reversal fueled rebound
 
@@ -72,17 +72,17 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/02/trump-aapl-nvda-tariffs-disclosures.html) — *CNBC*
 
-### 4. Led by Buc-ee’s and new rival Dolly Parton, America’s gas station chains are in a mega-sizing era
+### 4. Nvidia offers start-up customers chance to swap compute power for revenue share
 
-[原文] Gas station chains led by Buc-ee's are coming closer to rivaling America's big box stores in size, and Dolly Parton is getting in on the retail trend.
+[原文] Nvidia says it will give start-ups the chance to swap access to compute power for a slice of future profits under a new program aimed at AI-focused firms.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/02/led-by-buc-ees-dolly-parton-americas-gas-stations-go-mega-size-.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/02/nvidia-plans-to-offer-start-up-customers-access-to-revenue-sharing-deals.html) — *CNBC*
 
-### 5. Microsoft commits $2.5 billion and 6,000 employees to new AI implementation unit
+### 5. U.S. job creation cools in June with payrolls growth of just 57,000; unemployment rate at 4.2%
 
-[原文] Microsoft is the latest tech company to form a business focused on helping customers understand and implement artificial intelligence.
+[原文] Nonfarm payrolls were expected to rise by 115,000 in June and the unemployment rate to hold steady at 4.3%.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/02/microsoft-commits-2point5-billion-6000-employees-ai-implementation-unit.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/02/jobs-report-june-2026-.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. A warning sign about AI’s real cost, courtesy of Google and Amazon
+### 1. Last chance to apply — Startup Battlefield Australia applications close July 6
 
-[原文] AI has made it a lot harder for tech companies like Amazon and Google to deliver on their net-zero pledges.
+[原文] If you're going to apply for Startup Battlefield Australia, now is the time. Applications close July 6, and once the deadline passes, the opportunity is gone.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/02/a-warning-sign-about-ais-real-cost-courtesy-of-google-and-amazon/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/) — *TechCrunch*
 
-### 2. Meta quietly launches vibe-coded gaming app Pocket
+### 2. Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped
 
-[原文] Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.
+[原文] At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/) — *TechCrunch*
 
-### 3. Travel app Hopper to pay $35M in FTC settlement over ‘unfairly’ charging hidden fees
+### 3. Private space pilots are flying orbital missions for the US Space Force
 
-[原文] Hopper will pay $35 million to settle FTC allegations that it used deceptive “dark patterns” to hide fees and mislead travelers about the costs and benefits of services.
+[原文] True Anomaly and Rocket Lab are performing Top Gun-style satellite fly-bys for the U.S. military.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/02/travel-app-hopper-to-pay-35m-in-ftc-settlement-over-unfairly-charging-hidden-fees/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/02/private-space-pilots-are-flying-orbital-missions-for-the-us-space-force/) — *TechCrunch*
 
-### 4. Anthropic is discussing a new custom chip with Samsung
+### 4. Thiel Capital’s Jack Selby nabs stakes in hot startups like Etched through Arizona connections
 
-[原文] The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom.
+[原文] Selby's VC firm, Copper Sky Capital, is currently raising a $300 million second fund, according to a regulatory filing.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/02/thiel-capitals-jack-selby-nabs-stakes-in-hot-startups-like-etched-through-arizona-connections/) — *TechCrunch*
 
-### 5. Boeing-owned Wisk Aero accused of firing manager who raised safety concerns
+### 5. IQM, Europe’s first public quantum company, admits the future of the tech is uncertain
 
-[原文] A former software manager claims Wisk rushed software testing ahead of a crucial 2025 flight test.
+[原文] IQM, a full-stack quantum company out of Finland, went public on the Nasdaq today at a valuation of about $1.9 billion.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/02/boeing-owned-wisk-aero-accused-of-firing-manager-who-raised-safety-concerns/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain/) — *TechCrunch*
 
 ---
 
@@ -130,35 +130,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Scientists discover a completely different way to fight viruses
+### 1. New calculator reveals whether you should really worry about statin side effects
+
+[原文] Scientists at the University of Oxford have created a calculator that predicts a person's individual risk of serious muscle disorders from statin medications. Their analysis found that more than 98% o
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260630020549.htm) — *Science Daily*
+
+### 2. Scientists discover a completely different way to fight viruses
 
 [原文] Researchers have uncovered an unexpected antiviral defense system in sea anemones that works very differently from the one humans use. The discovery suggests evolution developed multiple ways to comba
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260630020534.htm) — *Science Daily*
 
-### 2. Scientists may have finally found how Alzheimer's spreads through the brain
+### 3. Scientists may have finally found how Alzheimer's spreads through the brain
 
 [原文] A common brain protein may be giving Alzheimer’s disease an unexpected way to spread, carrying toxic Tau proteins from damaged neurons into healthy ones. By blocking these harmful protein packages bef
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260630020521.htm) — *Science Daily*
 
-### 3. Scientists say creatine may help fight depression
+### 4. Scientists say creatine may help fight depression
 
 [原文] Creatine is best known as a muscle-building supplement, but scientists are now investigating whether it could also help treat depression by boosting the brain's energy supply. A new review examined fi
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260630020231.htm) — *Science Daily*
 
-### 4. These tiny soil microbes could rescue crops from salty farmland
+### 5. Scientists reveal what really happens when water is trapped in tiny spaces
 
-[原文] Researchers have discovered that beneficial soil bacteria give plants an unexpected survival advantage in salty soils. Instead of helping plants keep salt out, the microbes stimulate the production of
+[原文] A decades-old puzzle about water has finally been unraveled. Researchers found that water trapped in tiny nanoscale spaces is not inherently more reactive. Instead, the intense pressures created insid
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260626124703.htm) — *Science Daily*
-
-### 5. Astronomers found two rare super puff planets lighter than cotton candy
-
-[原文] Two newly confirmed "super-puff" planets are so diffuse that they are less dense than cotton candy, despite being about the size of Jupiter. Their rare orbital relationship and enormous, lightweight a
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260626124659.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260626124706.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Why Spurs' statement spending looks set to continue
+### 1. Follow live: Switzerland hold early edge over Alge...
 
-[原文] Tottenham are set to break their record transfer for the second time in a matter of days with the club's impressive performance off the field allowing greater flexibility for investment into the first
+[原文] null
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/crel1w2ddq3o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/soccer/match/_/gameId/760498/algeria-switzerland) — *ESPN*
 
-### 2. Fery reaches third round to keep British hopes alive
+### 2. Sources: 76ers, with Brown on board, eye LeBron
 
-[原文] Arthur Fery keeps British hopes alive at Wimbledon as he fights back from a set down to reach the third round, but Katie Swan and Jacob Fearnley are out.
+[原文] One day after trading for Jaylen Brown, the 76ers have entered the mix for LeBron James and are attempting to pitch him, sources said.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cly87nn87plo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/nba/story/_/id/49252040/sources-76ers-enter-mix-lebron-james-jaylen-brown-add) — *ESPN*
 
-### 3. Silverstone completely different with new cars - Hamilton
+### 3. Portugal, Ronaldo survive late scare from Croatia
 
-[原文] Ferrari's Lewis Hamilton says Silverstone will be "a completely different circuit" with this year's new cars.
+[原文] Gonçalo Ramos headed in a pass from Rafael Leão in stoppage time as Cristiano Ronaldo, who had earlier converted a penalty kick, watched from the bench while Portugal defeated Croatia 2-1 on Thursday,
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/cp36le6vlv6o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49253213/portugal-ronaldo-survive-late-scare-croatia-world-cup) — *ESPN*
 
-### 4. England were 15 minutes from humiliation - the issues Tuchel must solve
+### 4. Sources: Donovan to be lead assistant for Spurs
 
-[原文] Before England's World Cup last-16 tie against Mexico, BBC Sport's Phil McNulty looks at the issues that remain for Thomas Tuchel.
+[原文] Billy Donovan agreed to become the lead assistant coach for San Antonio and head coach Mitch Johnson, sources said.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/czx59l1knv0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/nba/story/_/id/49253152/sources-billy-donovan-become-lead-assistant-spurs) — *ESPN*
 
-### 5. Historic win against Boks would revitalise England regime
+### 5. U.S. World Cup win sets domestic ratings record
 
-[原文] Will a win against double world champions South Africa in their spiritual home of Ellis Park in Johannesburg, a place where England haven't won in 54 years, revitalise Steve Borthwick's England regime
+[原文] The U.S.' victory against Bosnia-Herzegovina on Wednesday night was the most-watched soccer telecast in English-language history, with more than 24.4 million viewers, according to Fox Sports.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-union/articles/c3ry3v0z8d4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49253970/record-244m-watched-usmnt-world-cup-win) — *ESPN*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Taylor Swift Wedding Frenzy: The Power Guest List, the NDAs and A-List Panic Over Lack of Details
+### 1. War Drama ‘Peluru Senja: The Ghost & the Gun’ Locks Malaysia Theatrical Date, Drops Trailer (EXCLUSIVE)
 
-[原文] To attend Taylor Swift and Travis Kelce’s wedding, do you need to know the bride and groom all too well? That’s the big question this week as fans, media and social sets in New York, L.A. and Nashvill
+[原文] The first trailer for &#8220;Peluru Senja: The Ghost &#38; the Gun&#8221; has arrived alongside confirmation of a nationwide Malaysian theatrical release on Aug. 28, timed to the country&#8217;s Indep
 
-📎 [阅读原文](https://variety.com/2026/film/news/taylor-swift-wedding-invites-harry-styles-guests-1236800998/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/peluru-senja-malaysia-release-date-trailer-1236800826/) — *Variety*
 
-### 2. Final Emmy Predictions: ‘Pluribus’ and ‘The Pitt’ Lead the Pack as ‘Widow’s Bay’ Surges and Netflix Looks to Rule the Day
+### 2. Jodie Foster Says Brad Pitt’s ‘F1’ Seemed Like It Was Made by AI and Written by a Computer: ‘Wasn’t It?’
 
-[原文] Variety&#160;Awards Circuit&#160;section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars,&#160;Emmys,
+[原文] Jodie Foster was discussing great movies and how Hollywood has changed in a talk this week, and she brought up Apple&#8217;s &#8220;F1&#8221; as an example of how machines may be altering creativity. 
 
-📎 [阅读原文](https://variety.com/lists/2026-emmys-predictions/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/jodie-foster-brad-pitt-f1-ai-written-by-computer-1236801120/) — *Variety*
 
-### 3. ‘Moana 3’ in the Works at Disney, According to Dwayne Johnson
+### 3. Moritz Borman, Producer of ‘Terminator’ Movies and Oliver Stone Films, Dies at 71
 
-[原文] Disney is coming back to the water with &#8220;Moana 3,&#8221; the latest installment of the animated oceanic musical adventure. Dwayne Johnson, who plays the tattooed demigod Maui, teased the news wh
+[原文] Moritz Borman, the producer of Oscar-nominated films such as &#8220;The Quiet American&#8221; and &#8220;Under the Volcano&#8221; as well a frequent collaborator of Oliver Stone, died Wednesday in Mun
 
-📎 [阅读原文](https://variety.com/2026/film/news/moana-3-disney-1236235124/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/moritz-borman-dead-terminator-1236801160/) — *Variety*
 
-### 4. ‘Chicago PD’ Star LaRoyce Hawkins to Exit Series in Season 14
+### 4. The Best Horror Movies of 2026 (So Far), Ranked: ‘Obsession,’ ‘Backrooms,’ ‘Hokum’ and More
 
-[原文] &#8220;Chicago P.D.&#8221; star LaRoyce Hawkins is exiting the long-running NBC drama, Variety has confirmed with sources. Hawkins, who has been with the show since it launched in the role of Officer 
+[原文] 2026 has already been a wild year for horror, from low-budget box office hits (“Backrooms,” “Obsession”) to sequels the world could have lived without (“Scream 7,” “The Strangers – Chapter 3”). In a y
 
-📎 [阅读原文](https://variety.com/2026/tv/news/chicago-pd-laroyce-hawkins-exit-season-14-1236800914/) — *Variety*
+📎 [阅读原文](https://variety.com/lists/best-horror-movies-2026-ranked/) — *Variety*
 
-### 5. Taylor Swift and Travis Kelce Donated $26 Million to Charities Ahead of Wedding
+### 5. Music Industry Moves: Warner Teams Up With Sickamore’s Three Times Louder, Laila to Be Partnership’s ‘Flagship Artist’
 
-[原文] Taylor Swift and Travis Kelce have donated $26 million to at least 20 charities this week, a representative announced, in advance of a wedding reported to be taking place this weekend in New York. The
+[原文] Warner Records has announced a strategic partnership with veteran executive Sickamore and his “creative institute,” Three Times Louder. The imprint will continue its partnership with SoundCloud; Sicka
 
-📎 [阅读原文](https://variety.com/2026/music/news/taylor-swift-travis-kelce-donate-26-million-charity-wedding-1236800905/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/ashe-signs-with-atlantic-records-1236799684/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Coslus C20 Cordless Rechargeable Water Flosser Drops 83% to Just $6.99
+### 1. Do You Use Your PS5 to Watch 4K Blu-ray Discs?
 
-[原文] Even gamers should practice good oral hygiene.
+暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/coslus-c20-cordless-rechargeable-water-flosser-deal) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/do-you-use-your-ps5-to-watch-4k-blu-ray-discs) — *IGN*
 
-### 2. Walmart Has the Lowest Price on a GeForce RTX 5070 Prebuilt Gaming PC in 2026
+### 2. Neuroscape Is the *Other* Cyberpunk TCG, and So Far It’s Quite Fun | IGN Preview
 
-[原文] The CyberPowerPC Gamer Xtreme even has the new 2026 Intel Arrow Lake Refresh CPU.
+[原文] Here's our hands-on impressions of the latest Kickstarter TCG success, Neuroscape TCG.
 
-📎 [阅读原文](https://www.ign.com/articles/walmart-has-the-lowest-price-on-a-geforce-rtx-5070-prebuilt-gaming-pc-in-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/neuroscape-is-the-other-cyberpunk-tcg-and-so-far-its-quite-fun-ign-preview) — *IGN*
 
-### 3. Today’s Top Deals: Invincible Omnibus, LEGO Botanicals, and Death Stranding 2 for PC
+### 3. Moana 3 Is in the Works, According to The Rock
 
-[原文] And don’t miss discounts on a Dreame bladeless fan, Final Fantasy VII Remake Intergrade, and more.
+[原文] Moana 3 is in development at Disney, according to Dwayne 'The Rock' Johnson.
 
-📎 [阅读原文](https://www.ign.com/articles/best-deals-for-july-2-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/moana-3-is-in-the-works-according-to-the-rock) — *IGN*
 
-### 4. Get the Alienware Aurora RTX 5070 Gaming PC for $1,437 at Dell Outlet Before It Goes Out of Stock
+### 4. 'It's Not a Comedy' — Danny McBride Details New G.I. Joe Movie, Aiming to Film in 2027
 
-[原文] Excellent1080p and 1440p gaming rig.
+[原文] Danny McBride has offered up the first details on his new G.I. Joe movie, which he confirms is not a comedy.
 
-📎 [阅读原文](https://www.ign.com/articles/alienware-aurora-rtx-5070-gaming-pc-deal-at-dell-outlet-updated) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/its-not-a-comedy-danny-mcbride-details-new-gi-joe-movie-aiming-to-film-in-2027) — *IGN*
 
-### 5. Amazon's Audible Prime Day Deal Ends on July 5: Pay Just $1 Per Month and Get $20 in Audible Credit
+### 5. Razer Iskur V2 NewGen Review
 
-[原文] Catch up on the latest audiobooks from Rebecca Yarros, Brandon Sanderson, Suzanne Collins, and more.
+暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/amazon-prime-day-audible-deal-for-june-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/razer-iskur-v2-newgen-review) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Exposing the Lies About Why Supercar Companies Sell SUVs
+### 1. Live Out Your ‘Gran Turismo’ Fantasy With This Venturi 400 For Sale
+
+[原文] This is one of under 100 examples ever built of the car some called France's Ferrari F40, and it has quite the competitive history.
+The post Live Out Your &#8216;Gran Turismo&#8217; Fantasy With This 
+
+📎 [阅读原文](https://www.thedrive.com/news/live-out-your-gran-turismo-fantasy-with-this-venturi-400-for-sale) — *The Drive*
+
+### 2. Exposing the Lies About Why Supercar Companies Sell SUVs
 
 [原文] It's often said that exotic car manufacturers sell SUVs just to stay afloat. But that's not entirely true.
 The post Exposing the Lies About Why Supercar Companies Sell SUVs appeared first on The Drive
 
 📎 [阅读原文](https://www.thedrive.com/news/exposing-the-lies-about-why-supercar-companies-sell-suvs) — *The Drive*
 
-### 2. Record Q2 Sales Put Ford Bronco in Striking Distance of Jeep Wrangler
+### 3. Record Q2 Sales Put Ford Bronco in Striking Distance of Jeep Wrangler
 
 [原文] The Bronco has been chasing the Wrangler's heels since Ford launched its revived 4x4 in 2021. 
 The post Record Q2 Sales Put Ford Bronco in Striking Distance of Jeep Wrangler appeared first on The Driv
 
 📎 [阅读原文](https://www.thedrive.com/news/record-q2-sales-put-ford-bronco-in-striking-distance-of-jeep-wrangler) — *The Drive*
 
-### 3. Traffic Regulators Vow to Unleash ‘Innovation’ by Eliminating Robotaxi Brake Pedals
+### 4. Traffic Regulators Vow to Unleash ‘Innovation’ by Eliminating Robotaxi Brake Pedals
 
 [原文] NHTSA is seeking to rid AVs of brake pedals, but is leaving the question of how passengers should be able to stop them in an emergency for another day.
 The post Traffic Regulators Vow to Unleash &#821
 
 📎 [阅读原文](https://www.thedrive.com/news/traffic-regulators-vow-to-unleash-innovation-by-eliminating-robotaxi-brake-pedals) — *The Drive*
 
-### 4. Honda Wrestles Title of America’s Best-Selling Car From Ford and Toyota: TDS
+### 5. Honda Wrestles Title of America’s Best-Selling Car From Ford and Toyota: TDS
 
 [原文] Ford and Toyota's struggles are Honda's gain as the CR-V has surged ahead to become the best-selling model in the U.S. through 2026 so far.
 The post Honda Wrestles Title of America&#8217;s Best-Sellin
 
 📎 [阅读原文](https://www.thedrive.com/news/honda-wrestles-title-of-americas-best-selling-car-from-ford-and-toyota-tds) — *The Drive*
-
-### 5. AM Radio Could Be Legally Mandated in New Cars
-
-[原文] If everything comes together, automakers would be forced to include AM receivers in their cars despite pushback over one key factor: cost.
-The post AM Radio Could Be Legally Mandated in New Cars appea
-
-📎 [阅读原文](https://www.thedrive.com/news/how-oft-forgotten-am-radio-became-a-legislative-lightning-rod) — *The Drive*
 
 ---
 
@@ -363,35 +363,35 @@ The post AM Radio Could Be Legally Mandated in New Cars appea
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. New Power Plants for Data Centers Would Significantly Increase Pennsylvania’s Climate Pollution
+### 1. Heat Wave Politics: GOP Leaders Deride Calls to Conserve
+
+[原文] Seeking to sow unity amid a pending heat crisis, New York Mayor Zohran Mamdani reaped a whirlwind of right-wing rage. Mamdani’s post on X on Wednesday urged New Yorkers to turn their thermostats to 78
+
+📎 [阅读原文](https://insideclimatenews.org/news/02072026/new-york-heat-wave-politics/) — *Inside Climate News*
+
+### 2. New Power Plants for Data Centers Would Significantly Increase Pennsylvania’s Climate Pollution
 
 [原文] Data center developers in Pennsylvania plan to rely on at least seven new natural gas-fired power plants that would emit climate-warming gases equal to adding 14 million cars on the road every year, a
 
 📎 [阅读原文](https://insideclimatenews.org/news/02072026/data-center-power-plants-pennsylvania-pollution/) — *Inside Climate News*
 
-### 2. Smart Thermostats Will Soon Come to the Rescue During Heatwaves
+### 3. Smart Thermostats Will Soon Come to the Rescue During Heatwaves
 
 [原文] In the near future, the Chicago-area electricity grid will meet demand during a heatwave by remotely turning up thermostats by a degree or two in households that choose to participate. This adjustment
 
 📎 [阅读原文](https://insideclimatenews.org/news/02072026/inside-clean-energy-smart-thermostats-grid-relief/) — *Inside Climate News*
 
-### 3. Echoes of the Past in Pennsylvania Coal Towns’ Fight Against Data Centers
+### 4. Echoes of the Past in Pennsylvania Coal Towns’ Fight Against Data Centers
 
 [原文] HAZLETON, Pa.—The Hazle Township Supervisors faced a packed room. Hanging on the wall behind them, black lettering spelled out “We the People.” In front of them sat and stood about a hundred community
 
 📎 [阅读原文](https://insideclimatenews.org/news/02072026/pennsylvania-coal-town-data-center-moratorium/) — *Inside Climate News*
 
-### 4. Rights of Nature Laws Are Coming Up Against Legal Systems Designed for Destruction
+### 5. Rights of Nature Laws Are Coming Up Against Legal Systems Designed for Destruction
 
 [原文] Years after landmark court rulings in Colombia and Bangladesh recognized rivers as legal persons, the waterways remain polluted and under threat—an outcome a new study attributes in part to a systemic
 
 📎 [阅读原文](https://insideclimatenews.org/news/02072026/colombia-bangladesh-rights-of-nature-laws-protect-rivers/) — *Inside Climate News*
-
-### 5. A New Mexico Town Is Running Dry. An Immigration Detention Center Is Its Biggest Water Customer.
-
-[原文] Following years of drought, the wells in Estancia, N.M., are running dry.&#160; After declaring a water emergency last week, the small town in Torrance County is hauling in water to fill its pipes. Es
-
-📎 [阅读原文](https://insideclimatenews.org/news/01072026/new-mexico-immigration-detention-center-water-use/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post AM Radio Could Be Legally Mandated in New Cars appea
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘Weird Al’ Has Seen Your ‘Weird A.I.’ Jokes and He Is Unamused
+### 1. Taylor Swift, Travis Kelce Rehearsal Dinner Guests Arrive: Jack Antonoff, Lena Dunham, and More
+
+[原文] Abigail Anderson, Erin Andrews, and Charissa Thompson were also among the celebs descending upon MSG on Thursday
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/taylor-swift-travis-kelce-wedding-rehearsal-dinner-guests-1235588737/) — *Rolling Stone*
+
+### 2. Can This Cover of Taylor Swift’s ‘Love Story’ Break Mosh Pit Records?
+
+[原文] The Offspring is trying to make history with their version of the famous pop song
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/the-offspring-taylor-swifts-love-story-cover-1235588188/) — *Rolling Stone*
+
+### 3. ‘Weird Al’ Has Seen Your ‘Weird A.I.’ Jokes and He Is Unamused
 
 [原文] In fact, Yankovic says he turned down “a nice pile of money” to do a commercial for an AI company
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/weird-al-yankovic-ai-commercial-1235588278/) — *Rolling Stone*
 
-### 2. Taylor Swift, Travis Kelce Kick Off Wedding Week With $26 Million Charity Donation
+### 4. Taylor Swift, Travis Kelce Kick Off Wedding Week With $26 Million Charity Donation
 
 [原文] The couple is rumored to tie the knot this weekend
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/taylor-swift-travis-kelce-donate-26-million-charity-1235588245/) — *Rolling Stone*
 
-### 3. Gary Glitter Faces New Charges of Sexual Abuse Against a Minor
+### 5. Gary Glitter Faces New Charges of Sexual Abuse Against a Minor
 
 [原文] The “Rock N’ Roll, Part 2” singer is already serving a 16-year sentence for crimes against schoolgirls
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/gary-glitter-sex-abuse-minor-charges-1235588165/) — *Rolling Stone*
-
-### 4. See Marcus Mumford Audition Against Oscar Isaac, Shailene Woodley, Paul Dano in New Video
-
-[原文] In Mumford &#38; Sons’ clip for “Here,” the band need to pick a “Marcus”
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/mumford-and-sons-paul-dano-here-video-1235587652/) — *Rolling Stone*
-
-### 5. Eurovision Welcomes Canada to Participate in 2027 Song Contest
-
-[原文] North American country to join Australia and Israel as non-European competitors
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/eurovision-2027-canada-1235588059/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post AM Radio Could Be Legally Mandated in New Cars appea
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Marriott Outspends Rivals on TV, But Airbnb Owns the World Cup
+### 1. Cabo Verde Has Made History at the World Cup. Can It Convert Attention Into Bookings?
+
+[原文] The island nation draws 1.2 million tourists a year — predominantly from Europe, and predominantly on all-inclusive packages. A World Cup run won't change that overnight, but it may bring awareness to
+
+📎 [阅读原文](https://skift.com/2026/07/02/cabo-verde-world-cup-tourism-surge/) — *Skift*
+
+### 2. Marriott Outspends Rivals on TV, But Airbnb Owns the World Cup
 
 [原文] Marriott outspent every hotel brand on national TV, yet Airbnb's World Cup ads have out-reached Marriott's so far. Marketers should note that focus, rather than budget, wins marquee experiences.
 
 📎 [阅读原文](https://skift.com/2026/07/02/marriott-outspends-rivals-on-tv-but-airbnb-owns-the-world-cup/) — *Skift*
 
-### 2. OTAs Are Betting on Traveler Trust. But the Scramble Is On to Win the Trust of AI Agents
+### 3. OTAs Are Betting on Traveler Trust. But the Scramble Is On to Win the Trust of AI Agents
 
 [原文] Whether or not travelers trust AI would almost be irrelevant to OTAs if the LLMs don't trust them enough to surface their inventory for discovery.  The contest is on behind-the-scenes battle to become
 
 📎 [阅读原文](https://skift.com/2026/07/02/otas-are-betting-on-traveler-trust-but-the-scramble-is-on-to-win-the-trust-of-ai-agents/) — *Skift*
 
-### 3. Noble Investment Group’s Extended-Stay Bet Is Behind a 149-Hotel Buying Spree
+### 4. Noble Investment Group’s Extended-Stay Bet Is Behind a 149-Hotel Buying Spree
 
 [原文] With other investors sitting on the sidelines, Noble is buying hotels from REITs and overleveraged owners at a discount — and betting that extended-stay demand will outlast the current rate headwinds.
 
 📎 [阅读原文](https://skift.com/2026/07/02/noble-investment-groups-extended-stay-bet-is-behind-a-149-hotel-buying-spree/) — *Skift*
 
-### 4. UAE Bets on Discounts, Insurance, and New Visa Markets to Refill Hotel Rooms After Iran War Hit
+### 5. UAE Bets on Discounts, Insurance, and New Visa Markets to Refill Hotel Rooms After Iran War Hit
 
 [原文] The UAE is running two recovery tracks at once — emergency incentives to plug a war-driven demand hole and multibillion-dollar infrastructure bets. The gap between those timelines is the story.
 
 📎 [阅读原文](https://skift.com/2026/07/02/uae-bets-on-discounts-insurance-and-new-visa-markets-to-refill-hotel-rooms-after-iran-war-hit/) — *Skift*
-
-### 5. Booking.com Built Its India Business on Leisure — Now It’s Going Corporate
-
-[原文] India's business travel boom gives Booking.com a rare chance to grow two businesses at once — corporate bookings today and leisure loyalty tomorrow.
-
-📎 [阅读原文](https://skift.com/2026/07/01/booking-com-built-its-india-business-on-leisure-now-its-going-corporate/) — *Skift*
 
 ---
 
@@ -515,7 +515,7 @@ The post AM Radio Could Be Legally Mandated in New Cars appea
 - **💰 经济财经**: CNBC
 - **💻 科技**: TechCrunch
 - **🔬 科学**: Science Daily
-- **⚽ 体育**: BBC Sport
+- **⚽ 体育**: ESPN
 - **🎬 娱乐**: Variety
 - **🏥 健康**: WHO
 - **🎮 游戏**: IGN
@@ -528,6 +528,7 @@ The post AM Radio Could Be Legally Mandated in New Cars appea
 ## ⚠️ 今日故障源
 
 - **🚗 汽车**: Roadshow, Autocar
+- **✈️ 旅游**: Nomadic Matt, Travel Off Path
 
 ---
 
