@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月03日** | 生成时间: 2026-07-03 11:38
+**2026年07月03日** | 生成时间: 2026-07-03 17:24
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Venezuela quake survivor pulled out alive after eight days
+### 1. On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns
+
+[原文] The BBC travels to the city of Bandar Abbas - the first international journalists to visit the Iranian side of the strait.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvg53ngvvpxo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Venezuela quake survivor pulled out alive after eight days
 
 [原文] Hernán Gil was trapped under a collapsed multi-storey car park.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. 'Most massive' Russian attack on Kyiv kills at least 27
+### 3. Instagram running ads promoting child sexual abuse material in India, BBC finds
+
+[原文] The ads use terms including “rape” and “child video” and link to content on the messaging app Telegram.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvgm4e0316zo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. Taylor Swift's rumoured wedding celebrations begin with star-studded New York event
+
+[原文] Actress Lena Dunham, model Gigi Hadid and longtime music collaborator Jack Antonoff were spotted in formal attire near Madison Square Garden.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/crlw1eeez19o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. 'Most massive' Russian attack on Kyiv kills at least 30
 
 [原文] The latest barrage deployed the largest number of weapons on the capital and hit locations over a wide area.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 3. Bomb blast at Damascus cafe kills six, Syrian state media say
-
-[原文] There was no immediate claim for the bombing at a cafe close to the Palace of Justice, a major government building.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Vatican excommunicates followers of global Catholic sect
-
-[原文] Around 600,000 followers of the Society of Saint Pius X, a Catholic sect, are affected.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5yz95188jjo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. China says pilot crashed small plane into skyscraper for 'personal reasons'
-
-[原文] The 66-year-old, who died in the crash, had anxiety and referenced "ending his life" in his diary.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cr47129ky6do?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Job seekers giving up: Labor force participation rate falls to lowest in 50 years, outside of Covid era
+### 1. Extreme heat wave threatens U.S. power grids and July 4 travel
 
-[原文] A drop in the unemployment rate helped provide some upside to what was an otherwise downbeat jobs report — but it was for all the wrong reasons.
+[原文] The heat wave threatens to overwhelm U.S. grids and may force some to change their plans on one of the busiest travel weeks of the year.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/03/extreme-heat-us-power-grids-july-4-travel.html) — *CNBC*
 
-### 2. Kuaishou shares fall after Tencent joins $2.8 billion raise for Kling AI subsidiary
+### 2. Oman walks a diplomatic tightrope over Strait of Hormuz fees, creating a ‘blind spot’ for markets
 
-暂无摘要。
+[原文] Oman is using strategic ambiguity as talks over possible Strait of Hormuz fees raise legal, diplomatic and oil market concerns.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/03/oman-strait-hormuz-fees-iran-trump.html) — *CNBC*
+
+### 3. Gold prices set for first weekly rise in a month as investors scale back Fed rate hike bets
+
+[原文] The metal was boosted as investors scaled back their bets on a looming rate hike.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/03/gold-silver-price-inflation-fed-rate-hike.html) — *CNBC*
+
+### 4. Venezuela quake toll climbs to 2,595 as damage estimates mount after strongest tremor in a century
+
+[原文] Death toll from twin earthquakes that struck Venezuela jumped to 2,595, as rescue operations continued after the country's strongest tremors in over a century.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/03/venezuela-earthquakes-death-toll-rises-rescue-efforts-continue.html) — *CNBC*
+
+### 5. Kuaishou shares jump after Tencent joins $2.8 billion raise for Kling AI subsidiary
+
+[原文] Kuaishou shares rose as much as 6.89% at Friday's Hong Kong market open before paring gains to trade around 0.75% higher.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/03/kuaishou-shares-fall-after-securing-tencent-funding-for-kling-ai.html) — *CNBC*
-
-### 3. Trump bought Apple, Nvidia and other tech giants before tariff reversal fueled rebound
-
-[原文] The day before President Donald Trump walked back his tariff policy turned out to be one of his busiest days of 2025 for stock buying.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/02/trump-aapl-nvda-tariffs-disclosures.html) — *CNBC*
-
-### 4. Nvidia offers start-up customers chance to swap compute power for revenue share
-
-[原文] Nvidia says it will give start-ups the chance to swap access to compute power for a slice of future profits under a new program aimed at AI-focused firms.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/02/nvidia-plans-to-offer-start-up-customers-access-to-revenue-sharing-deals.html) — *CNBC*
-
-### 5. U.S. job creation cools in June with payrolls growth of just 57,000; unemployment rate at 4.2%
-
-[原文] Nonfarm payrolls were expected to rise by 115,000 in June and the unemployment rate to hold steady at 4.3%.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/02/jobs-report-june-2026-.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Last chance to apply — Startup Battlefield Australia applications close July 6
+### 1. Politician who investigated spyware abuses had his phone hacked with Pegasus spyware
+
+[原文] A government customer of NSO Group used the company's Pegasus spyware to hack into the phone of a European politician, who at the time was serving on an EU committee tasked with investigating the spyw
+
+📎 [阅读原文](https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/) — *TechCrunch*
+
+### 2. Last chance to apply — Startup Battlefield Australia applications close July 6
 
 [原文] If you're going to apply for Startup Battlefield Australia, now is the time. Applications close July 6, and once the deadline passes, the opportunity is gone.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/) — *TechCrunch*
 
-### 2. Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped
+### 3. Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped
 
 [原文] At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/) — *TechCrunch*
 
-### 3. Private space pilots are flying orbital missions for the US Space Force
+### 4. Private space pilots are flying orbital missions for the US Space Force
 
 [原文] True Anomaly and Rocket Lab are performing Top Gun-style satellite fly-bys for the U.S. military.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/02/private-space-pilots-are-flying-orbital-missions-for-the-us-space-force/) — *TechCrunch*
 
-### 4. Thiel Capital’s Jack Selby nabs stakes in hot startups like Etched through Arizona connections
+### 5. Thiel Capital’s Jack Selby nabs stakes in hot startups like Etched through Arizona connections
 
 [原文] Selby's VC firm, Copper Sky Capital, is currently raising a $300 million second fund, according to a regulatory filing.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/02/thiel-capitals-jack-selby-nabs-stakes-in-hot-startups-like-etched-through-arizona-connections/) — *TechCrunch*
-
-### 5. IQM, Europe’s first public quantum company, admits the future of the tech is uncertain
-
-[原文] IQM, a full-stack quantum company out of Finland, went public on the Nasdaq today at a valuation of about $1.9 billion.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain/) — *TechCrunch*
 
 ---
 
@@ -154,11 +154,11 @@
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260630020231.htm) — *Science Daily*
 
-### 5. Scientists reveal what really happens when water is trapped in tiny spaces
+### 5. A strange LIGO signal could reveal the missing link behind dark matter
 
-[原文] A decades-old puzzle about water has finally been unraveled. Researchers found that water trapped in tiny nanoscale spaces is not inherently more reactive. Instead, the intense pressures created insid
+[原文] An unusual gravitational wave signal has renewed hopes that primordial black holes, long considered purely theoretical, may finally be within reach of discovery. If confirmed, they could solve one of 
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260626124706.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260626125703.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Follow live: Switzerland hold early edge over Alge...
+### 1. Huge Snicko VAR call prolongs Ronaldo's last dance but ends Modric's
 
-[原文] null
+[原文] Veteran forward Cristiano Ronaldo gets another day on the World Cup stage after Croatia are denied a late equaliser by a huge VAR call.
 
-📎 [阅读原文](https://www.espn.com/soccer/match/_/gameId/760498/algeria-switzerland) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cz0jee3vy39o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Sources: 76ers, with Brown on board, eye LeBron
+### 2. Four-time Tour de France winner Froome retires
 
-[原文] One day after trading for Jaylen Brown, the 76ers have entered the mix for LeBron James and are attempting to pitch him, sources said.
+[原文] Great Britain's Chris Froome, who won the Tour de France four times, brings an end to his illustrious career in professional cycling.
 
-📎 [阅读原文](https://www.espn.com/nba/story/_/id/49252040/sources-76ers-enter-mix-lebron-james-jaylen-brown-add) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cycling/articles/clyere67jpmo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Portugal, Ronaldo survive late scare from Croatia
+### 3. Hard work and a disco jacket - England turn fielding woes around to reach final
 
-[原文] Gonçalo Ramos headed in a pass from Rafael Leão in stoppage time as Cristiano Ronaldo, who had earlier converted a penalty kick, watched from the bench while Portugal defeated Croatia 2-1 on Thursday,
+[原文] It used to be their big weakness but England have turned around their fielding woes with hard work and the help of a sparkly jacket.
 
-📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49253213/portugal-ronaldo-survive-late-scare-croatia-world-cup) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cwyedgekzyjo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Sources: Donovan to be lead assistant for Spurs
+### 4. The one club man who is Spain's under-the-radar hero
 
-[原文] Billy Donovan agreed to become the lead assistant coach for San Antonio and head coach Mitch Johnson, sources said.
+[原文] Mikel Oyarzabal is perhaps not the biggest name in Spain's World Cup squad, but the one who has so far shone brightest.
 
-📎 [阅读原文](https://www.espn.com/nba/story/_/id/49253152/sources-billy-donovan-become-lead-assistant-spurs) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cvgd0jz1xq7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. U.S. World Cup win sets domestic ratings record
+### 5. Portugal through to last 16 after dramatic victory over Croatia
 
-[原文] The U.S.' victory against Bosnia-Herzegovina on Wednesday night was the most-watched soccer telecast in English-language history, with more than 24.4 million viewers, according to Fox Sports.
+[原文] Portugal beat Croatia 2-1 with goals from Cristiano Ronaldo and Goncalo Ramos after a chaotic second-half in Toronto to set up a last 16 tie with Iberian rivals Spain.
 
-📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49253970/record-244m-watched-usmnt-world-cup-win) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cy9r11gj8lzo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. War Drama ‘Peluru Senja: The Ghost & the Gun’ Locks Malaysia Theatrical Date, Drops Trailer (EXCLUSIVE)
+### 1. ‘My Indian Boyfriend: The Golden Mile’ Lands RFT Films for U.K. and Ireland Theatrical Distribution (EXCLUSIVE)
 
-[原文] The first trailer for &#8220;Peluru Senja: The Ghost &#38; the Gun&#8221; has arrived alongside confirmation of a nationwide Malaysian theatrical release on Aug. 28, timed to the country&#8217;s Indep
+[原文] &#8220;My Indian Boyfriend: The Golden Mile,&#8221; a British romantic drama set against Leicester&#8217;s Diwali celebrations, has landed U.K. and Ireland theatrical distribution through RFT Films, a
 
-📎 [阅读原文](https://variety.com/2026/film/news/peluru-senja-malaysia-release-date-trailer-1236800826/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/my-indian-boyfriend-golden-mile-uk-ireland-rft-films-1236801248/) — *Variety*
 
-### 2. Jodie Foster Says Brad Pitt’s ‘F1’ Seemed Like It Was Made by AI and Written by a Computer: ‘Wasn’t It?’
+### 2. U.K. Culture Secretary Lisa Nandy Quits Elon Musk’s X Over ‘Abuse and Misinformation’
 
-[原文] Jodie Foster was discussing great movies and how Hollywood has changed in a talk this week, and she brought up Apple&#8217;s &#8220;F1&#8221; as an example of how machines may be altering creativity. 
+[原文] Lisa Nandy, the U.K.&#8217;s Culture Secretary, said Thursday that she is leaving X, and that the Department for Culture, Media and Sport will follow suit. In what could be her final post on the platf
 
-📎 [阅读原文](https://variety.com/2026/film/news/jodie-foster-brad-pitt-f1-ai-written-by-computer-1236801120/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/digital/news/lisa-nandy-quits-x-uk-culture-secretary-1236801244/) — *Variety*
 
-### 3. Moritz Borman, Producer of ‘Terminator’ Movies and Oliver Stone Films, Dies at 71
+### 3. ‘Brothers for Life,’ ‘Thousand Dollar Baby’ Lead Skyline Media, Galaxy Play’s International Sales Slate (EXCLUSIVE)
 
-[原文] Moritz Borman, the producer of Oscar-nominated films such as &#8220;The Quiet American&#8221; and &#8220;Under the Volcano&#8221; as well a frequent collaborator of Oliver Stone, died Wednesday in Mun
+[原文] Vietnam-based sales agent Skyline Media and streaming platform Galaxy Play have struck a partnership that will send Galaxy Play Originals into international markets for the first time, with Skyline Me
 
-📎 [阅读原文](https://variety.com/2026/film/news/moritz-borman-dead-terminator-1236801160/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/brothers-for-life-thousand-dollar-baby-skyline-galaxy-play-1236801240/) — *Variety*
 
-### 4. The Best Horror Movies of 2026 (So Far), Ranked: ‘Obsession,’ ‘Backrooms,’ ‘Hokum’ and More
+### 4. AI-Created Indian Musical Microdrama ‘Mohini – Khud Se Pyaar’ Unveils Debut Track ‘Angaat Aalay Ka’ (EXCLUSIVE)
 
-[原文] 2026 has already been a wild year for horror, from low-budget box office hits (“Backrooms,” “Obsession”) to sequels the world could have lived without (“Scream 7,” “The Strangers – Chapter 3”). In a y
+[原文] &#8220;Angaat Aalay Ka,&#8221; the opening song from the AI-created musical microdrama &#8220;Mohini – Khud Se Pyaar,&#8221; has been released by India&#8217;s Equinox Virtual, the company conceived b
 
-📎 [阅读原文](https://variety.com/lists/best-horror-movies-2026-ranked/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/ai-indian-musical-microdrama-mohini-debut-track-1236800841/) — *Variety*
 
-### 5. Music Industry Moves: Warner Teams Up With Sickamore’s Three Times Louder, Laila to Be Partnership’s ‘Flagship Artist’
+### 5. Madonna’s Dance Floor-Dominating ‘Confessions II’ Is Her Best Album in Decades: Album Review
 
-[原文] Warner Records has announced a strategic partnership with veteran executive Sickamore and his “creative institute,” Three Times Louder. The imprint will continue its partnership with SoundCloud; Sicka
+[原文] &#8220;Sometimes I like to just hide in the shadows,&#8221; mutters Madonna at the start of &#8220;I Feel So Free,&#8221; the opening track on her 15th album &#8220;Confessions II.&#8221; &#8220;Creat
 
-📎 [阅读原文](https://variety.com/2026/music/news/ashe-signs-with-atlantic-records-1236799684/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/album-reviews/madonna-confessions-ii-album-review-1236801149/) — *Variety*
 
 ---
 
@@ -244,35 +244,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. 655 million people still living without electricity underscore urgent need to deliver on universal energy access target
+### 1. WHO adds first diagnostic test for Ebola Bundibugyo virus to its Emergency Use Listing
+
+[原文] Today, the World Health Organization (WHO) has added the first molecular diagnostic test for Bundibugyo virus (BDBV) to its Emergency Use Listing (EUL). The test detects the virus by identifying its g
+
+📎 [阅读原文](https://www.who.int/news/item/02-07-2026-who-adds-first-diagnostic-test-for-ebola-bundibugyo-virus-to-its-emergency-use-listing) — *WHO*
+
+### 2. Patient enrolment begins in a scientific trial to identify the first effective treatments for Bundibugyo virus disease
+
+[原文] In a major international effort to evaluate potential treatments for Ebola disease due to Bundibugyo virus (BVD), the PARTNERS clinical trial has opened enrolment today for patients in the Democratic 
+
+📎 [阅读原文](https://www.who.int/news/item/02-07-2026-patient-enrolment-begins-in-a-scientific-trial-to-identify-the-first-effective-treatments-for-bundibugyo-virus-disease) — *WHO*
+
+### 3. 655 million people still living without electricity underscore urgent need to deliver on universal energy access target
 
 [原文] At a time when energy security and affordability have risen to the top of the development agenda, 655 million people globally still lack access to electricity, and two billion use polluting fuels and 
 
 📎 [阅读原文](https://www.who.int/news/item/24-06-2026-655-million-people-still-living-without-electricity-underscore-urgent-need-to-deliver-on-universal-energy-access-target) — *WHO*
 
-### 2. WHO urges scale up of newborn screening to improve early detection and care of birth defects
+### 4. WHO urges scale up of newborn screening to improve early detection and care of birth defects
 
 [原文] The World Health Organization (WHO) today calls on countries to expand newborn screening for birth defects, highlighting how early detection and treatment can save lives and reduce lifelong disability
 
 📎 [阅读原文](https://www.who.int/news/item/23-06-2026-who-urges-scale-up-of-newborn-screening-to-improve-early-detection-and-care-of-birth-defects) — *WHO*
 
-### 3. WHO issues comprehensive guidelines on filovirus disease, including Ebola and Marburg disease
+### 5. WHO issues comprehensive guidelines on filovirus disease, including Ebola and Marburg disease
 
 [原文] As the Democratic Republic of the Congo is battling an Ebola disease outbreak caused by the Bundibugyo virus, the World Health Organization (WHO) has released its first comprehensive guidelines for th
 
 📎 [阅读原文](https://www.who.int/news/item/17-06-2026-who-issues-comprehensive-guidelines-on-filovirus-disease--including-ebola-and-marburg-disease) — *WHO*
-
-### 4. Open letter to leaders of G7, G20, BRICS and all nations on finalizing the WHO Pandemic Agreement’s Pathogen Access and Benefit Sharing annex
-
-[原文] Dear Leaders of the G7, the G20, BRICS and of all nations,We write to you together, from Geneva and from Bras&iacute;lia, with one shared conviction: that the world must finish what it started, and th
-
-📎 [阅读原文](https://www.who.int/news/item/15-06-2026-open-letter-to-leaders-of-g7-g20-brics-and-all-nations-on-finalizing-the-who-pandemic-agreement-s-pathogen-access-and-benefit-sharing-annex) — *WHO*
-
-### 5. Safe blood supply improves as voluntary donations exceed 85%, but many people still lack access
-
-[原文] New data from the World Health Organization (WHO) show sustained progress towards safer blood supplies globally but also highlight persistent inequalities in access to safe blood and weaknesses in gov
-
-📎 [阅读原文](https://www.who.int/news/item/12-06-2026-safe-blood-supply-improves-as-voluntary-donations-exceed-85---but-many-people-still-lack-access) — *WHO*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Do You Use Your PS5 to Watch 4K Blu-ray Discs?
+### 1. Nintendo Brain Training Professor Explains Why Driving a Manual Transmission Car Is Better for Your Brain Than an Automatic
+
+[原文] A study led by Professor Ryuta Kawashima suggests that driving a manual transmission car is beneficial for the brain, and could help prevent dementia. Kawashima is a neuroscientist known for the Brain
+
+📎 [阅读原文](https://www.ign.com/articles/nintendo-brain-training-professor-explains-why-driving-a-manual-transmission-car-is-better-for-your-brain-than-an-automatic) — *IGN*
+
+### 2. Suicide Squad: Kill the Justice League Developers Wanted to Quit the Industry After the Game Was Released
+
+[原文] Two developers who worked on Suicide Squad: Kill the Justice League gave a transparent account of their experience working on the game.
+
+📎 [阅读原文](https://www.ign.com/articles/suicide-squad-kill-the-justice-league-developers-wanted-to-quit-the-industry-after-the-game-was-released) — *IGN*
+
+### 3. Cape Fear Episode 6 Recap and Review – 'Possum'
+
+[原文] Episode 6 of Apple TV’s Cape Fear is a hilarious, action-packed acid trip that puts the thriller series back on track. Read our full "Possum" review and recap.
+
+📎 [阅读原文](https://www.ign.com/articles/cape-fear-episode-6-recap-and-review-possum) — *IGN*
+
+### 4. The $1,800 Power Lift Recliner and Massage Chair Is $370 During the Wayfair 4th of July Sale
+
+[原文] A chair you don't want to get it out of, even if it's designed to help you do so.
+
+📎 [阅读原文](https://www.ign.com/articles/wayfair-4th-of-july-sale-power-lift-recliner-and-massage-chair-deal) — *IGN*
+
+### 5. Do You Use Your PS5 to Watch 4K Blu-ray Discs?
 
 暂无摘要。
 
 📎 [阅读原文](https://www.ign.com/articles/do-you-use-your-ps5-to-watch-4k-blu-ray-discs) — *IGN*
-
-### 2. Neuroscape Is the *Other* Cyberpunk TCG, and So Far It’s Quite Fun | IGN Preview
-
-[原文] Here's our hands-on impressions of the latest Kickstarter TCG success, Neuroscape TCG.
-
-📎 [阅读原文](https://www.ign.com/articles/neuroscape-is-the-other-cyberpunk-tcg-and-so-far-its-quite-fun-ign-preview) — *IGN*
-
-### 3. Moana 3 Is in the Works, According to The Rock
-
-[原文] Moana 3 is in development at Disney, according to Dwayne 'The Rock' Johnson.
-
-📎 [阅读原文](https://www.ign.com/articles/moana-3-is-in-the-works-according-to-the-rock) — *IGN*
-
-### 4. 'It's Not a Comedy' — Danny McBride Details New G.I. Joe Movie, Aiming to Film in 2027
-
-[原文] Danny McBride has offered up the first details on his new G.I. Joe movie, which he confirms is not a comedy.
-
-📎 [阅读原文](https://www.ign.com/articles/its-not-a-comedy-danny-mcbride-details-new-gi-joe-movie-aiming-to-film-in-2027) — *IGN*
-
-### 5. Razer Iskur V2 NewGen Review
-
-暂无摘要。
-
-📎 [阅读原文](https://www.ign.com/articles/razer-iskur-v2-newgen-review) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post Honda Wrestles Title of America&#8217;s Best-Sellin
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Heat Wave Politics: GOP Leaders Deride Calls to Conserve
+### 1. As America Celebrates 250th, Murkiness Surrounds Trump-Backed Planning Fund
+
+[原文] Among the sponsors of Freedom 250, the organization created by President Donald Trump to plan the celebration of the nation’s semiquincentennial, is a Florida mining company with a regulatory issue pe
+
+📎 [阅读原文](https://insideclimatenews.org/news/03072026/freedom-250-sponsorship-from-florida-mining-company-seeking-federal-approval/) — *Inside Climate News*
+
+### 2. Drone Delivery Could Cut Pollution. Can Communities Live With the Noise?
+
+[原文] RICHARDSON, Texas—Jonathan Pace first noticed the noise. But it wasn’t until he bought a Bluetooth-based drone tracker that what seemed like a neighborhood nuisance became something he could measure: 
+
+📎 [阅读原文](https://insideclimatenews.org/news/03072026/drone-delivery-could-cut-pollution/) — *Inside Climate News*
+
+### 3. Heat Wave Politics: GOP Leaders Deride Calls to Conserve
 
 [原文] Seeking to sow unity amid a pending heat crisis, New York Mayor Zohran Mamdani reaped a whirlwind of right-wing rage. Mamdani’s post on X on Wednesday urged New Yorkers to turn their thermostats to 78
 
 📎 [阅读原文](https://insideclimatenews.org/news/02072026/new-york-heat-wave-politics/) — *Inside Climate News*
 
-### 2. New Power Plants for Data Centers Would Significantly Increase Pennsylvania’s Climate Pollution
+### 4. New Power Plants for Data Centers Would Significantly Increase Pennsylvania’s Climate Pollution
 
 [原文] Data center developers in Pennsylvania plan to rely on at least seven new natural gas-fired power plants that would emit climate-warming gases equal to adding 14 million cars on the road every year, a
 
 📎 [阅读原文](https://insideclimatenews.org/news/02072026/data-center-power-plants-pennsylvania-pollution/) — *Inside Climate News*
 
-### 3. Smart Thermostats Will Soon Come to the Rescue During Heatwaves
+### 5. Smart Thermostats Will Soon Come to the Rescue During Heatwaves
 
 [原文] In the near future, the Chicago-area electricity grid will meet demand during a heatwave by remotely turning up thermostats by a degree or two in households that choose to participate. This adjustment
 
 📎 [阅读原文](https://insideclimatenews.org/news/02072026/inside-clean-energy-smart-thermostats-grid-relief/) — *Inside Climate News*
-
-### 4. Echoes of the Past in Pennsylvania Coal Towns’ Fight Against Data Centers
-
-[原文] HAZLETON, Pa.—The Hazle Township Supervisors faced a packed room. Hanging on the wall behind them, black lettering spelled out “We the People.” In front of them sat and stood about a hundred community
-
-📎 [阅读原文](https://insideclimatenews.org/news/02072026/pennsylvania-coal-town-data-center-moratorium/) — *Inside Climate News*
-
-### 5. Rights of Nature Laws Are Coming Up Against Legal Systems Designed for Destruction
-
-[原文] Years after landmark court rulings in Colombia and Bangladesh recognized rivers as legal persons, the waterways remain polluted and under threat—an outcome a new study attributes in part to a systemic
-
-📎 [阅读原文](https://insideclimatenews.org/news/02072026/colombia-bangladesh-rights-of-nature-laws-protect-rivers/) — *Inside Climate News*
 
 ---
 
@@ -441,7 +441,7 @@ The post Honda Wrestles Title of America&#8217;s Best-Sellin
 
 ### 1. Taylor Swift, Travis Kelce Rehearsal Dinner Guests Arrive: Jack Antonoff, Lena Dunham, and More
 
-[原文] Abigail Anderson, Erin Andrews, and Charissa Thompson were also among the celebs descending upon MSG on Thursday
+[原文] Gigi Hadid and Bradley Cooper were also among the celebs descending upon MSG on Thursday
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/taylor-swift-travis-kelce-wedding-rehearsal-dinner-guests-1235588737/) — *Rolling Stone*
 
@@ -515,7 +515,7 @@ The post Honda Wrestles Title of America&#8217;s Best-Sellin
 - **💰 经济财经**: CNBC
 - **💻 科技**: TechCrunch
 - **🔬 科学**: Science Daily
-- **⚽ 体育**: ESPN
+- **⚽ 体育**: BBC Sport
 - **🎬 娱乐**: Variety
 - **🏥 健康**: WHO
 - **🎮 游戏**: IGN
@@ -528,7 +528,6 @@ The post Honda Wrestles Title of America&#8217;s Best-Sellin
 ## ⚠️ 今日故障源
 
 - **🚗 汽车**: Roadshow, Autocar
-- **✈️ 旅游**: Nomadic Matt, Travel Off Path
 
 ---
 
