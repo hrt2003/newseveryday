@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月04日** | 生成时间: 2026-07-04 03:35
+**2026年07月04日** | 生成时间: 2026-07-04 11:31
 
 ---
 
@@ -34,17 +34,17 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. German row over plan for workers to need sick note on first day of illness
+### 4. Anguished families left to identify Venezuela quake victims at makeshift morgue
 
-[原文] A doctors' group says it "borders on madness" that patients will have to obtain the note in person.
+[原文] The disaster has overwhelmed local services, with bodies put outside or in tents for identification.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c4gyxnj38m1o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c20y2p9qqqko?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Nasa launches mission to save falling space telescope
+### 5. Iran begins public mourning for Ayatollah killed in February
 
-[原文] A Nasa-funded robot has blasted off to catch a falling telescope in mid-orbit and blast it back to safety before it burns up.
+[原文] Ali Khamenei's body will lie in state in Tehran's Grand Mosalla from Friday ahead of days-long funeral events.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c0ry4xx7rk8o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -72,7 +72,7 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/03/ford-achieves-quality-milestone-targets-flawless-new-vehicle-launches.html) — *CNBC*
 
-### 4. Feds seek lower prison term for $100 million New Jersey deli fraudster — but some reasons why are hidden
+### 4. Feds seek lower prison term for $100M New Jersey deli fraudster — but some reasons why are hidden
 
 [原文] James Patten is the third person who will be sentenced in the stock manipulation scheme related to Hometown International, a company that owned just one deli.
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari
+### 1. The only AI glossary you’ll need this year
+
+[原文] The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/) — *TechCrunch*
+
+### 2. The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari
 
 [原文] We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/) — *TechCrunch*
 
-### 2. The Dune keypad device can be your meeting controller and more
+### 3. The Dune keypad device can be your meeting controller and more
 
-[原文] The $149 Dune keyboard can be a meeting controller at least and a script-executing keypad at best.
+[原文] The gadget has three buttons, and it changes context based on what app you are looking at. For instance, in meeting apps and sites, it could be toggle mic, toggle video, and bring window to the front.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/03/the-dune-keypad-device-can-be-your-meeting-controller-and-more/) — *TechCrunch*
 
-### 3. Chevy built an all-American EV truck — why is nobody buying it?
+### 4. Chevy built an all-American EV truck — why is nobody buying it?
 
 [原文] The Chevy Silverado EV is a solid first draft of an EV pickup truck. Here's what could make it better.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/03/chevy-built-an-all-american-ev-truck-why-is-nobody-buying-it/) — *TechCrunch*
 
-### 4. Politician who investigated spyware abuses had his phone hacked with Pegasus spyware
+### 5. Politician who investigated spyware abuses had his phone hacked with Pegasus spyware
 
 [原文] A government customer of NSO Group used the company's Pegasus spyware to hack into the phone of a European politician, who at the time was serving on an EU committee tasked with investigating the spyw
 
 📎 [阅读原文](https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/) — *TechCrunch*
-
-### 5. Last chance to apply — Startup Battlefield Australia applications close July 6
-
-[原文] If you're going to apply for Startup Battlefield Australia, now is the time. Applications close July 6, and once the deadline passes, the opportunity is gone.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. England v Mexico set to move to earlier kick-off time
+### 1. Follow live: Colombia hold lead over Ghana after e...
 
-[原文] England's World Cup last-16 tie with Mexico could be moved to earlier on Sunday because of the threat of storms.
+[原文] null
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cvgmz3jyq9qo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49255647/world-cup-daily-live-travel-chaos-sees-speed-miss-cristiano-ronaldo-game-messi-action) — *ESPN*
 
-### 2. Hamilton takes pole for Silverstone sprint race
+### 2. Agent: LeBron eyeing Heat, Cavs, Sixers, others
 
-[原文] Ferrari's Lewis Hamilton pips Mercedes' Kimi Antonelli to a stunning pole position for the sprint race at the British Grand Prix.
+[原文] Rich Paul, LeBron James' agent, said his client is considering a host of teams for his next destination, including the Heat, Cavaliers and 76ers.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/c5yzw13683no?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/nba/story/_/id/49259789/agent-lebron-eyeing-host-teams-including-heat-cavs-76ers) — *ESPN*
 
-### 3. Djokovic matches Federer's Wimbledon wins record
+### 3. Chiefs' Kelce, Swift marry in ceremony at MSG
 
-[原文] Novak Djokovic claims his latest piece of history as he equals Roger Federer's record total of 105 men's singles match wins at Wimbledon by battling past Arthur Rinderknech.
+[原文] Jennifer Lawrence, Ed Sheeran, Matthew Stafford, Ethan Hawke, Zoë Kravitz and more celebrities were in attendance for the wedding festivities.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cevlkr4jxy4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/nfl/story/_/id/49188085/taylor-swift-travis-kelce-wedding-marriage-kansas-city-chiefs) — *ESPN*
 
-### 4. Ex-Spurs boss Postecoglou takes over at Ronaldo's Al-Nassr
+### 4. Messi: Argentina have 'many' things to correct
 
-[原文] Former Tottenham boss Ange Postecoglou is appointed as head coach of Al-Nassr in the Saudi Pro League - where he will manage Cristiano Ronaldo.
+[原文] Lionel Messi said Argentina have "many" things to improve after a nail-biting 3-2 win over Cape Verde in extra time on Friday night at Hard Rock Stadium in Miami, pointing out his team's shortcomings 
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cr47p07wk67o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49263953/lionel-messi-argentina-many-bad-things-correct) — *ESPN*
 
-### 5. Sabalenka beats Ostapenko to set up blockbuster Osaka meeting
+### 5. U.S.'s Balogun on ban: 'Emotional rollercoaster'
 
-[原文] Aryna Sabalenka battles past Latvia's Jelena Ostapenko to set up a blockbuster fourth-round match against Naomi Osaka at Wimbledon.
+[原文] USMNT forward Folarin Balogun said that he's been on an emotional "roller coaster" in the wake of his sending off against Bosnia-Herzegovina on Wednesday, but he intends to "support the boys" as the t
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cddlqd0877mo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49260630/usmnt-folarin-balogun-red-card-ban-belgium-emotional-rollercoaster) — *ESPN*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Kjell Nilsson, Who Played Lord Humungus in ‘Mad Max 2: The Road Warrior’, Dies at 76
+### 1. Rob Reiner Gets the ‘Last Laugh’ Against Trump in Secret Final Role as George Washington in Larry David’s HBO Show
 
-[原文] Kjell Nilsson, the Swedish bodybuilder and actor who played the masked bruiser Lord Humungus in George Miller’s 1982 classic “Mad Max 2: The Road Warrior,” died on July 2 after four years of kidney co
+[原文] SPOILER ALERT: This interview contains spoilers for Episode 2 of “Life, Larry, and the Pursuit of Unhappiness: An Almost History of America,” now streaming on HBO Max. A month before he died, Rob Rein
 
-📎 [阅读原文](https://variety.com/2026/film/obituaries-people-news/kjell-nilsson-dead-lord-humungus-mad-max-2-road-warrior-1236801512/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/rob-reiner-trump-george-washington-larry-david-hbo-show-1236801101/) — *Variety*
 
-### 2. Dustin Hoffman Emotionally Accepts Karlovy Vary Award, Says Filmmaking Makes Him ‘Feel Alive’: ‘Grateful to Have Had the Opportunity to Do What I Love’
+### 2. ‘Dutton Ranch’ Star Juan Pablo Raba Has a Wild Theory About [SPOILER]’s Murder: ‘There’s a Lot of Questions to Be Answered’
 
-[原文] Legendary American actor Dustin Hoffman recalled his decades-spanning career while accepting the Crystal Globe for Outstanding Artistic Contribution to World Cinema at the opening ceremony of the 60th
+[原文] SPOILER ALERT:&#160;This post contains spoilers from the ninth episode of “Dutton Ranch,” “El Padrino,” which is now streaming on Paramount+. The season finale of “Dutton Ranch” ends with a bang when 
 
-📎 [阅读原文](https://variety.com/2026/film/global/dustin-hoffman-karlovy-vary-award-maggie-gyllenhaal-1236801477/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/features/dutton-ranch-joaquin-didnt-shoot-rob-will-1236801208/) — *Variety*
 
-### 3. Donald Trump’s Great American State Fair Postponed Due to Extreme Heat
+### 3. Adam Sandler Officiated Taylor Swift and Travis Kelce’s Wedding
 
-[原文] Yet another wrinkle has appeared in President Donald Trump’s plans to celebrate America’s 250th birthday. On Friday afternoon, the Great American State Fair was forced to temporarily shut down due to 
+[原文] Adam Sandler officiated Taylor Swift and Travis Kelce&#8217;s star-studded Madison Square Garden wedding. The reveal came via a press release obtained by Variety in the minutes following Swift and Kel
 
-📎 [阅读原文](https://variety.com/2026/politics/news/donald-trump-great-american-state-fair-postponed-weather-1236801505/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/adam-sandler-officiated-taylor-swift-travis-kelces-wedding-1236801628/) — *Variety*
 
-### 4. Strictly Business From Cannes Lions: NBCUniversal, IBM, State Farm, Autodesk and Coinbase Leaders on Marketplace Trends, AI and Reaching Consumers
+### 4. Sienna Spiro’s ‘The Visitor’ Introduces an Electrifying Voice That’s Here to Stay: Album Review
 
-[原文] On the latest episode of Variety&#8216;s &#8220;Strictly Business&#8221; podcast, top leaders from NBCUniversal, IBM, State Farm, Autodesk and Coinbase talk shop and compare notes on marketing, tech a
+[原文] Only a very few performers put out their debut album having already established themselves as frontrunners for the Grammy for best new artist. Sienna Spiro is in that category, and let&#8217;s just sa
 
-📎 [阅读原文](https://variety.com/2026/biz/news/cannes-lions-nbcuniversal-ibm-variety-strictly-business-1236801488/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/album-reviews/sienna-spiro-visitor-album-review-1236801598/) — *Variety*
 
-### 5. Lela Rochon on the Final Season of ‘The Chi,’ the Beauty of Nostalgia and Pushing for More Women-Led Stories
+### 5. Ed Sheeran, Bradley Cooper, Dakota Johnson and More Pictured Heading to Taylor Swift and Travis Kelce’s Wedding
 
-[原文] SPOILER ALERT: The following story contains plot details from Season 8 of “The Chi,” now streaming on Paramount+ In the eighth and final season of Lena Waithe’s long-running drama, “The Chi,” legendar
+[原文] Anybody who is anybody is making their way to New York’s Madison Square Garden dressed to the nines in an apparent march to get to Taylor Swift and Travis Kelce’s wedding. A-listers who have been phot
 
-📎 [阅读原文](https://variety.com/2026/tv/features/lela-rochon-the-chi-final-season-1236800984/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/ed-sheeran-dakota-johnson-guests-taylor-swift-wedding-1236801619/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Marvel Rivals Fans Think the New Captain America Skin Is a Mod, But It's Actually Just His Rod
+### 1. Supergirl Reportedly Faced Creative Differences Between DC Studios and Craig Gillespie
+
+[原文] Creative differences reportedly led James Gunn and Peter Safran's DC Studios to test competing Supergirl cuts – one from director Craig Gillespie and one from the studio – just months before its relea
+
+📎 [阅读原文](https://www.ign.com/articles/supergirl-reportedly-faced-creative-differences-between-dc-studios-and-craig-gillespie) — *IGN*
+
+### 2. Danganronpa 2x2 Delayed to Early 2027
+
+[原文] Spike Chunsoft has announced that Danganronpa 2x2 has been delayed to early 2027.
+
+📎 [阅读原文](https://www.ign.com/articles/danganronpa-2x2-delayed-to-early-2027) — *IGN*
+
+### 3. Heat 2 Reportedly Casts Leonardo DiCaprio and Christian Bale With Filming Planned for November 2026
+
+[原文] Leonardo DiCaprio and Christian Bale have reportedly joined the cast of Heat 2 as Chris Shiherlis and Vincent Hanna.
+
+📎 [阅读原文](https://www.ign.com/articles/heat-2-reportedly-casts-leonardo-dicaprio-and-christian-bale-with-filming-planned-for-november-2026) — *IGN*
+
+### 4. Today's Top Deals: $150 Nintendo eShop Gift Card, Bose QuietComfort Headphones, and DJI Osmo Pocket 3 Camera
+
+[原文] And the 4th of July weekend savings don’t stop there.
+
+📎 [阅读原文](https://www.ign.com/articles/best-deals-for-july-3-2026) — *IGN*
+
+### 5. Marvel Rivals Fans Think the New Captain America Skin Is a Mod, But It's Actually Just His Rod
 
 [原文] NetEase Games is celebrating the 4th of July with a Marvel Rivals swimsuit skin that comes bundled with Captain America's big package.
 
 📎 [阅读原文](https://www.ign.com/articles/marvel-rivals-fans-think-the-new-captain-america-skin-is-a-mod-but-its-actually-just-his-rod) — *IGN*
-
-### 2. People Are Worried They’ll Only See Half of The Odyssey If They Miss Out on Imax, But Should They Be?
-
-[原文] People are worried they’ll only see half of The Odyssey if they miss out on Imax, but should they be?
-
-📎 [阅读原文](https://www.ign.com/articles/people-are-worried-theyll-only-see-half-of-the-odyssey-if-they-miss-out-on-imax-but-should-they-be) — *IGN*
-
-### 3. The View From Japan: PlayStation's Push for an All-Digital Future Raises Concern From Gamers and Developers — and a Well-Timed Retweet From Hideo Kojima
-
-[原文] On July 1, Sony announced that no new PlayStation games will ship on-disc from January 2028 onwards. This move to a digital-only future has sparked widespread backlash and concerns about game preserva
-
-📎 [阅读原文](https://www.ign.com/articles/the-view-from-japan-playstations-push-for-an-all-digital-future-raises-concerns-from-gamers-and-developers-including-a-well-timed-retweet-from-hideo-kojima) — *IGN*
-
-### 4. The Complicated History of GTA Controversies
-
-[原文] From moral panic to celebrity law suits and hidden sex minigames, this is GTA’s complicated history with controversy.
-
-📎 [阅读原文](https://www.ign.com/articles/grand-theft-auto-controversies) — *IGN*
-
-### 5. 'Significant' Pay Rises Offered by Professor Layton Studio — if You Correctly Answer Quizzes About the Company's Games
-
-[原文] "Significant" pay rises are on offer at Professor Layton developer Level-5 — if you can correctly answer questions about the company's games.
-
-📎 [阅读原文](https://www.ign.com/articles/significant-pay-rises-offered-by-professor-layton-studio-if-you-correctly-answer-quizzes-about-the-companys-games) — *IGN*
 
 ---
 
@@ -439,35 +439,35 @@ The post This Peak Lamborghini Diablo Is One-of-80, and It&#8217;s Going to A
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Bob Vylan to Sue BBC for Defamation Over Glastonbury Performance Reaction
+### 1. Taylor Swift and Travis Kelce Are Officially Married!
+
+[原文] The celebrity power couple married on July 3 at Madison Square Garden
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/taylor-swift-travis-kelce-wedding-ceremony-1235575513/) — *Rolling Stone*
+
+### 2. Brad Paisley, Kimberly Williams-Paisley Thank Taylor Swift and Travis Kelce for ‘Amazing Donation’
+
+[原文] "It will feed so many families, and what a way to start a marriage," the country singer said on social media ahead of the couple's wedding
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/brad-paisley-taylor-swift-travis-kelce-donation-wedding-1235588953/) — *Rolling Stone*
+
+### 3. Selena Gomez, Lena Dunham, Sombr Celebrate Taylor Swift and Travis Kelce’s Wedding
+
+[原文] Hundreds of A-list stars, celebrities, and athletes descended upon New York’s Madison Square Garden for the power couple's nuptials
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/taylor-swift-travis-kelce-wedding-celebrity-attendees-1235588490/) — *Rolling Stone*
+
+### 4. Bob Vylan to Sue BBC for Defamation Over Glastonbury Performance Reaction
 
 [原文] "Seeing the opportunity to remind them the power of the people that they are attempting to silence, we had no choice but to take on this fight," rap duo said Friday
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/bob-vylan-bbc-defamation-lawsuit-glastonbury-1235588900/) — *Rolling Stone*
 
-### 2. Shakira Is Raising Money for Venezuela Through FIFA Global Citizen Education Fund
+### 5. Shakira Is Raising Money for Venezuela Through FIFA Global Citizen Education Fund
 
 [原文] $500,000 will go to children whose education has been impacted by the recent earthquakes in Venezuela, the musician shared in a social media video
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/shakira-venezuela-fifa-global-citizen-education-fund-1235587352/) — *Rolling Stone*
-
-### 3. Taylor Swift, Travis Kelce Rehearsal Dinner Guests Arrive: Jack Antonoff, Lena Dunham, and More
-
-[原文] Gigi Hadid and Bradley Cooper were also among the celebs descending upon MSG on Thursday
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/taylor-swift-travis-kelce-wedding-rehearsal-dinner-guests-1235588737/) — *Rolling Stone*
-
-### 4. Can This Cover of Taylor Swift’s ‘Love Story’ Break Mosh Pit Records?
-
-[原文] The Offspring is trying to make history with their version of the famous pop song
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/the-offspring-taylor-swifts-love-story-cover-1235588188/) — *Rolling Stone*
-
-### 5. ‘Weird Al’ Has Seen Your ‘Weird A.I.’ Jokes and He Is Unamused
-
-[原文] In fact, Yankovic says he turned down “a nice pile of money” to do a commercial for an AI company
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/weird-al-yankovic-ai-commercial-1235588278/) — *Rolling Stone*
 
 ---
 
@@ -477,17 +477,17 @@ The post This Peak Lamborghini Diablo Is One-of-80, and It&#8217;s Going to A
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Turkey Quietly Built One of the World’s Most Complete Travel Tech Stacks
+### 1. Cabo Verde Made World Cup History — and Travelers Are Already Seeking It Out
+
+[原文] The island nation draws 1.2 million tourists a year — mostly from Europeans on all-inclusive packages. That won't change overnight, but it may bring awareness to Americans who struggle to place the is
+
+📎 [阅读原文](https://skift.com/2026/07/03/cabo-verde-world-cup-tourism-surge/) — *Skift*
+
+### 2. Turkey Quietly Built One of the World’s Most Complete Travel Tech Stacks
 
 [原文] Durable travel tech is forged by hard operating conditions, not venture capital and conference circuits, and Turkey is the proof.
 
 📎 [阅读原文](https://skift.com/2026/07/03/turkey-quietly-built-one-of-the-worlds-most-complete-travel-tech-stacks/) — *Skift*
-
-### 2. Cabo Verde Has Made History at the World Cup. Can It Convert Attention Into Bookings?
-
-[原文] The island nation draws 1.2 million tourists a year — predominantly from Europe, and predominantly on all-inclusive packages. A World Cup run won't change that overnight, but it may bring awareness to
-
-📎 [阅读原文](https://skift.com/2026/07/02/cabo-verde-world-cup-tourism-surge/) — *Skift*
 
 ### 3. Marriott Outspends Rivals on TV, But Airbnb Owns the World Cup
 
@@ -515,7 +515,7 @@ The post This Peak Lamborghini Diablo Is One-of-80, and It&#8217;s Going to A
 - **💰 经济财经**: CNBC
 - **💻 科技**: TechCrunch
 - **🔬 科学**: Science Daily
-- **⚽ 体育**: BBC Sport
+- **⚽ 体育**: ESPN
 - **🎬 娱乐**: Variety
 - **🏥 健康**: WHO
 - **🎮 游戏**: IGN
@@ -528,6 +528,7 @@ The post This Peak Lamborghini Diablo Is One-of-80, and It&#8217;s Going to A
 ## ⚠️ 今日故障源
 
 - **🚗 汽车**: Roadshow, Autocar
+- **✈️ 旅游**: Travel Off Path
 
 ---
 
