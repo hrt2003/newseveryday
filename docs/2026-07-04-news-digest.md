@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月04日** | 生成时间: 2026-07-04 16:42
+**2026年07月04日** | 生成时间: 2026-07-04 21:41
 
 ---
 
@@ -18,7 +18,7 @@
 
 ### 1. Taylor Swift marries Travis Kelce in NYC ceremony officiated by Adam Sandler
 
-[原文] It was the bash of the century, with celebrities from singer Benson Boone and actor Hugh Grant to model Gigi Hadid and actor Ethan Hawke in attendence.
+[原文] The star-studded celebration saw several streets in Midtown Manhattan shut, as hordes of fans gathered outside the arena.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c982ry2pen3o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
@@ -34,17 +34,17 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'
+### 4. Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral
 
-[原文] Officials believe the suspect may not have acted alone and spent days casing out the scene of the attack.
+[原文] Ali Khamenei's body will lie in state in Tehran's Grand Mosalla until Monday, before travelling across Iran and Iraq.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Anguished families left to identify Venezuela quake victims at makeshift morgue
+### 5. Ukraine hits major oil terminal in Russia's St Petersburg
 
-[原文] The disaster has overwhelmed local services, with bodies put outside or in tents for identification.
+[原文] Ukrainian President Volodymyr Zelensky says the target is key infrastructure "that generates revenue for Russia's war".
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c20y2p9qqqko?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,29 +54,29 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. 5 takeaways from President Donald Trump's interview with CNBC
-
-[原文] The president defended his family's business and said he feels bad that the presidency creates a conflict of interest in any of his children's investments.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/02/5-takeaways-from-president-donald-trumps-interview-with-cnbc.html) — *CNBC*
-
-### 2. Iran begins six-day funeral for Ayatollah Khamenei nearly four months after his death
-
-[原文] Iran plans a six-day funeral for Ayatollah Ali Khamenei, with ceremonies across Iran and Iraq before burial in Mashhad.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/04/-khamenei-funeral-procession-route.html) — *CNBC*
-
-### 3. First known congressional SpaceX stock buys surface after record IPO
+### 1. First known congressional SpaceX stock buys surface after record IPO
 
 [原文] The SpaceX stock purchases come as Elon Musk’s company deepens its role in federal contracting and remains closely tied to President Donald Trump’s Washington.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/03/spacex-stock-congress-meuser-cisneros-ipo-disclosure.html) — *CNBC*
 
-### 4. Ford achieves quality milestone, as CEO targets flawless new vehicle launches
+### 2. The World Cup sends prediction market volumes soaring to record highs
 
-[原文] Ford CEO Jim Farley told CNBC that the automaker has learned from its past quality and recall issues, which have hurt its earnings and stained its reputation.
+[原文] Trading volumes on Kalshi and Polymarket both hit record highs in June. Rothera, a new prediction market platform, was also able to manage $2 billion in volume.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/03/ford-achieves-quality-milestone-targets-flawless-new-vehicle-launches.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/04/2026-fifa-world-cup-boosts-prediction-market-volumes.html) — *CNBC*
+
+### 3. Iran begins six-day funeral for Ayatollah Khamenei nearly four months after his death
+
+[原文] Iran plans a six-day funeral for Ayatollah Ali Khamenei, with ceremonies across Iran and Iraq before burial in Mashhad.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/04/-khamenei-funeral-procession-route.html) — *CNBC*
+
+### 4. UK and France agree with Oman to ensure safety of its territorial waters
+
+[原文] France said it has deployed mine countermeasures to the Middle East, including two mine-hunting ships.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/04/uk-france-agree-with-oman-to-ensure-safety-of-its-territorial-waters.html) — *CNBC*
 
 ### 5. Feds seek lower prison term for $100M New Jersey deli fraudster — but some reasons why are hidden
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. How Messi, Argentina saved themselves from humilia...
+### 1. Lightning, hotel security and spying - issues England face in Mexico
 
-[原文] No one could've predicted Argentina would nearly be bounced from the World Cup by Cape Verde, but the round of 32 gave us an instant classic.
+[原文] England are booed as they arrive at their Mexico City hotel to prepare for their World Cup last-16 game against Mexico - and it's not the only issue they face.
 
-📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49262637/messi-argentina-nearly-suffered-historic-world-cup-upset-cape-verde) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cx2x1gwwjego?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Agent: LeBron eyeing Heat, Cavs, Sixers, others
+### 2. Five and a half hours that left England's World Cup tie in chaos
 
-[原文] Rich Paul, LeBron James' agent, said his client is considering a host of teams for his next destination, including the Heat, Cavaliers and 76ers.
+[原文] For several hours on Friday, no-one seemed to know when England's World Cup last-16 match against co-hosts Mexico would kick off. BBC Sport tells how a story of confusion and anger - culminating in a 
 
-📎 [阅读原文](https://www.espn.com/nba/story/_/id/49259789/agent-lebron-eyeing-host-teams-including-heat-cavs-76ers) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c0ey24q42w2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Chiefs' Kelce, Swift marry in ceremony at MSG
+### 3. Antonelli passes Hamilton to win Silverstone sprint
 
-[原文] Jennifer Lawrence, Ed Sheeran, Matthew Stafford, Ethan Hawke, Zoë Kravitz and more celebrities were in attendance for the wedding festivities.
+[原文] Mercedes' Kimi Antonelli overtakes Lewis Hamilton to win an action-packed sprint race at the British Grand Prix.
 
-📎 [阅读原文](https://www.espn.com/nfl/story/_/id/49188085/taylor-swift-travis-kelce-wedding-marriage-kansas-city-chiefs) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/cvglegml3llo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Mexico ups security, caps crowds after fan deaths
+### 4. Ireland deny Wallabies after nail-biting finish
 
-[原文] Mexico will double security and limit capacity at the monument known as the "Angel of Independence" and at the fan festival in Mexico City's main square for Sunday's Mexico-England World Cup match.
+[原文] Replacement Australia fly-half Ben Donaldson misses a last-gasp penalty as Ireland claim a comeback bonus-point win in an enthralling Nations Championship contest in Sydney.
 
-📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49264397/mexico-city-security-crowds-england-fan-deaths) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-union/articles/cevlpz2zkneo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Messi: Argentina have 'many' things to correct
+### 5. All Blacks beat France in thrilling Nations Championship opener
 
-[原文] Lionel Messi said Argentina have "many" things to improve after a nail-biting 3-2 win over Cape Verde in extra time Friday night at Hard Rock Stadium in Miami Gardens, Florida, pointing out his team's
+[原文] Will Jordan scores twice to help New Zealand beat France as the inaugural Nations Championship opens with a captivating, nine-try thriller in Christchurch.
 
-📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49263953/lionel-messi-argentina-many-bad-things-correct) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-union/articles/c5yze25d46do?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Šimon Holý Turns Drag, Family and Small-Town Life Into a Tender Political Statement in ‘Chica Checa’
+### 1. Watch Mark Ruffalo, Sarah Jessica Parker, Margaret Atwood, Judd Apatow and More Give Instructions to Combat Trump’s Tyranny on July 4th
+
+[原文] While President Trump has chosen to mark America’s 250th anniversary with gaudy displays honoring himself, a team of actors, activists, scholars, comedians and writers have assembled to deliver an urg
+
+📎 [阅读原文](https://variety.com/2026/politics/news/july-4-trump-warning-mark-ruffalo-sarah-jessica-parker-margaret-atwood-judd-apatow-1236801648/) — *Variety*
+
+### 2. Karlovy Vary Focuses on Next Generation of European Filmmakers With Future Frames Program
+
+[原文] Future Frames is a next generation showcase comprised of prize-winning short works by students and recent graduates of European film schools, curated by the Karlovy Vary Film Festival in cooperation w
+
+📎 [阅读原文](https://variety.com/2026/film/global/karlovy-vary-future-frames-1236801671/) — *Variety*
+
+### 3. Šimon Holý Turns Drag, Family and Small-Town Life Into a Tender Political Statement in ‘Chica Checa’
 
 [原文] A drag queen comes out to his small-town mother but all hell doesn’t break loose in Šimon Holý’s heartfelt and crowd-pleasing feature “Chica Checa.” The film screens on Saturday in the Crystal Globe C
 
 📎 [阅读原文](https://variety.com/2026/film/global/simon-holy-chica-checa-1236793680/) — *Variety*
 
-### 2. Celina Vikram Jaitly Returns to the Big Screen as Sister Nibedita, the Irish-Born Disciple of Swami Vivekananda (EXCLUSIVE)
+### 4. Celina Vikram Jaitly Returns to the Big Screen as Sister Nibedita, the Irish-Born Disciple of Swami Vivekananda (EXCLUSIVE)
 
 [原文] Indian actor Celina Vikram Jaitly is returning to feature films as Sister Nibedita, the Irish-born disciple of Swami Vivekananda, in director Ram Kamal Mukherjee&#8217;s next biographical drama, after
 
 📎 [阅读原文](https://variety.com/2026/film/news/celina-jaitly-sister-nibedita-ram-kamal-mukherjee-1236801458/) — *Variety*
 
-### 3. Rob Reiner Gets the ‘Last Laugh’ Against Trump in Secret Final Role as George Washington in Larry David’s HBO Show
+### 5. Rob Reiner Gets the ‘Last Laugh’ Against Trump in Secret Final Role as George Washington in Larry David’s HBO Show
 
 [原文] SPOILER ALERT: This interview contains spoilers for Episode 2 of “Life, Larry, and the Pursuit of Unhappiness: An Almost History of America,” now streaming on HBO Max. A month before he died, Rob Rein
 
 📎 [阅读原文](https://variety.com/2026/tv/news/rob-reiner-trump-george-washington-larry-david-hbo-show-1236801101/) — *Variety*
-
-### 4. ‘Dutton Ranch’ Star Juan Pablo Raba Has a Wild Theory About [SPOILER]’s Murder: ‘There’s a Lot of Questions to Be Answered’
-
-[原文] SPOILER ALERT:&#160;This post contains spoilers from the ninth episode of “Dutton Ranch,” “El Padrino,” which is now streaming on Paramount+. The season finale of “Dutton Ranch” ends with a bang when 
-
-📎 [阅读原文](https://variety.com/2026/tv/features/dutton-ranch-joaquin-didnt-shoot-rob-will-1236801208/) — *Variety*
-
-### 5. Adam Sandler Officiated Taylor Swift and Travis Kelce’s Wedding
-
-[原文] Adam Sandler officiated Taylor Swift and Travis Kelce&#8217;s star-studded Madison Square Garden wedding. The reveal came via a press release obtained by Variety in the minutes following Swift and Kel
-
-📎 [阅读原文](https://variety.com/2026/film/news/adam-sandler-officiated-taylor-swift-travis-kelces-wedding-1236801628/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Mr. Terrific TV Show in the Works With Pilot from The Sandman Alum
+### 1. The Devil’s Rain Review
+
+[原文] The Devil’s Rain review: The shape of evil materializes in Severin Films’ 4K release of this cult classic horror romp.
+
+📎 [阅读原文](https://www.ign.com/articles/the-devils-rain-review) — *IGN*
+
+### 2. Mr. Terrific TV Show in the Works With Pilot from The Sandman Alum
 
 [原文] The minds at DC Studios are reportedly developing a TV show spin-off based on Superman side character and superhero genius Mr. Terrific.
 
 📎 [阅读原文](https://www.ign.com/articles/mr-terrific-tv-show-in-the-works-with-pilot-from-the-sandman-alum) — *IGN*
 
-### 2. Supergirl Reportedly Faced Creative Differences Between DC Studios and Craig Gillespie
+### 3. Supergirl Reportedly Faced Creative Differences Between DC Studios and Craig Gillespie
 
 [原文] Creative differences reportedly led James Gunn and Peter Safran's DC Studios to test competing Supergirl cuts – one from director Craig Gillespie and one from the studio – just months before its relea
 
 📎 [阅读原文](https://www.ign.com/articles/supergirl-reportedly-faced-creative-differences-between-dc-studios-and-craig-gillespie) — *IGN*
 
-### 3. Danganronpa 2x2 Delayed to Early 2027
+### 4. Danganronpa 2x2 Delayed to Early 2027
 
 [原文] Spike Chunsoft has announced that Danganronpa 2x2 has been delayed to early 2027.
 
 📎 [阅读原文](https://www.ign.com/articles/danganronpa-2x2-delayed-to-early-2027) — *IGN*
 
-### 4. Heat 2 Reportedly Casts Leonardo DiCaprio and Christian Bale With Filming Planned for November 2026
+### 5. Heat 2 Reportedly Casts Leonardo DiCaprio and Christian Bale With Filming Planned for November 2026
 
 [原文] Leonardo DiCaprio and Christian Bale have reportedly joined the cast of Heat 2 as Chris Shiherlis and Vincent Hanna.
 
 📎 [阅读原文](https://www.ign.com/articles/heat-2-reportedly-casts-leonardo-dicaprio-and-christian-bale-with-filming-planned-for-november-2026) — *IGN*
-
-### 5. Today's Top Deals: $150 Nintendo eShop Gift Card, Bose QuietComfort Headphones, and DJI Osmo Pocket 3 Camera
-
-[原文] And the 4th of July weekend savings don’t stop there.
-
-📎 [阅读原文](https://www.ign.com/articles/best-deals-for-july-3-2026) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post This Peak Lamborghini Diablo Is One-of-80, and It&#8217;s Going to A
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. California’s First Carbon Capture Project Is Up and Running. Environmentalists Are Still Trying To Stop It.
+### 1. New Gold Exploration Revives Old Fears for Montana’s Blackfoot River
+
+[原文] More than half a century after one of Montana&#8217;s most destructive mining disasters poisoned the upper Blackfoot River, a new gold exploration project near the river&#8217;s headwaters is sparking
+
+📎 [阅读原文](https://insideclimatenews.org/news/04072026/montana-blackfoot-river-gold-exploration/) — *Inside Climate News*
+
+### 2. The Spectacular Regrowth of New England’s Forests
+
+[原文] From our collaborating partner “Living on Earth,” public radio&#8217;s environmental news magazine, an interview by host Steve Curwood with Bill Moomaw, a distinguished visiting scientist at the Woodw
+
+📎 [阅读原文](https://insideclimatenews.org/news/04072026/new-england-reforestation/) — *Inside Climate News*
+
+### 3. California’s First Carbon Capture Project Is Up and Running. Environmentalists Are Still Trying To Stop It.
 
 [原文] California Resources Corporation, the state’s largest oil company, passed a long-targeted milestone in May: It had finally taken carbon dioxide that would otherwise warm the atmosphere and injected it
 
 📎 [阅读原文](https://insideclimatenews.org/news/03072026/california-environmentalists-press-for-assessment-of-first-carbon-capture-project/) — *Inside Climate News*
 
-### 2. As America Celebrates 250th, Murkiness Surrounds Trump-Backed Planning Fund
+### 4. As America Celebrates 250th, Murkiness Surrounds Trump-Backed Planning Fund
 
 [原文] Among the sponsors of Freedom 250, the organization created by President Donald Trump to plan the celebration of the nation’s semiquincentennial, is a Florida mining company with a regulatory issue pe
 
 📎 [阅读原文](https://insideclimatenews.org/news/03072026/freedom-250-sponsorship-from-florida-mining-company-seeking-federal-approval/) — *Inside Climate News*
 
-### 3. Drone Delivery Could Cut Pollution. Can Communities Live With the Noise?
+### 5. Drone Delivery Could Cut Pollution. Can Communities Live With the Noise?
 
 [原文] RICHARDSON, Texas—Jonathan Pace first noticed the noise. But it wasn’t until he bought a Bluetooth-based drone tracker that what seemed like a neighborhood nuisance became something he could measure: 
 
 📎 [阅读原文](https://insideclimatenews.org/news/03072026/drone-delivery-could-cut-pollution/) — *Inside Climate News*
-
-### 4. Heat Wave Politics: GOP Leaders Deride Calls to Conserve
-
-[原文] Seeking to sow unity amid a pending heat crisis, New York Mayor Zohran Mamdani reaped a whirlwind of right-wing rage. Mamdani’s post on X on Wednesday urged New Yorkers to turn their thermostats to 78
-
-📎 [阅读原文](https://insideclimatenews.org/news/02072026/new-york-heat-wave-politics/) — *Inside Climate News*
-
-### 5. New Power Plants for Data Centers Would Significantly Increase Pennsylvania’s Climate Pollution
-
-[原文] Data center developers in Pennsylvania plan to rely on at least seven new natural gas-fired power plants that would emit climate-warming gases equal to adding 14 million cars on the road every year, a
-
-📎 [阅读原文](https://insideclimatenews.org/news/02072026/data-center-power-plants-pennsylvania-pollution/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post This Peak Lamborghini Diablo Is One-of-80, and It&#8217;s Going to A
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Taylor Swift and Travis Kelce Are Officially Married!
+### 1. Adam Sandler as Wedding Officiant? Taylor Swift and Travis Kelce’s History With the Actor
+
+[原文] The Happy Gilmore actor led the ceremony at the couple's wedding at Madison Square Garden on July 3
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/adam-sandler-taylor-swift-travis-kelce-wedding-officiant-1235589179/) — *Rolling Stone*
+
+### 2. It’s a Love Story: Fans React to Taylor Swift and Travis Kelce’s Happily Ever After
+
+[原文] "Love really works in mysterious ways, and today's happy ending genuinely moves me"
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/taylor-swift-travis-kelce-wedding-fan-reactions-1235588934/) — *Rolling Stone*
+
+### 3. Stevie Nicks Performs at Taylor Swift and Travis Kelce’s Wedding
+
+[原文] The Fleetwood Mac singer took the stage at Madison Square Garden following the couple's ceremony on Friday night
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/stevie-nicks-performance-taylor-swift-travis-kelce-wedding-1235586080/) — *Rolling Stone*
+
+### 4. Surprise, Surprise: White House Tries to Make Taylor Swift’s Wedding About Trump
+
+[原文] The pop star married Travis Kelce at Madison Square Garden on July 3
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/the-white-house-taylor-swift-wedding-trump-meme-msg-1235589159/) — *Rolling Stone*
+
+### 5. Taylor Swift and Travis Kelce Are Officially Married!
 
 [原文] The celebrity power couple married on July 3 at Madison Square Garden
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/taylor-swift-travis-kelce-wedding-ceremony-1235575513/) — *Rolling Stone*
-
-### 2. Brad Paisley, Kimberly Williams-Paisley Thank Taylor Swift and Travis Kelce for ‘Amazing Donation’
-
-[原文] "It will feed so many families, and what a way to start a marriage," the country singer said on social media ahead of the couple's wedding
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/brad-paisley-taylor-swift-travis-kelce-donation-wedding-1235588953/) — *Rolling Stone*
-
-### 3. Selena Gomez, Lena Dunham, Sombr Celebrate Taylor Swift and Travis Kelce’s Wedding
-
-[原文] Hundreds of A-list stars, celebrities, and athletes descended upon New York’s Madison Square Garden for the power couple's nuptials
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/taylor-swift-travis-kelce-wedding-celebrity-attendees-1235588490/) — *Rolling Stone*
-
-### 4. Bob Vylan to Sue BBC for Defamation Over Glastonbury Performance Reaction
-
-[原文] "Seeing the opportunity to remind them the power of the people that they are attempting to silence, we had no choice but to take on this fight," rap duo said Friday
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/bob-vylan-bbc-defamation-lawsuit-glastonbury-1235588900/) — *Rolling Stone*
-
-### 5. Shakira Is Raising Money for Venezuela Through FIFA Global Citizen Education Fund
-
-[原文] $500,000 will go to children whose education has been impacted by the recent earthquakes in Venezuela, the musician shared in a social media video
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/shakira-venezuela-fifa-global-citizen-education-fund-1235587352/) — *Rolling Stone*
 
 ---
 
@@ -515,7 +515,7 @@ The post This Peak Lamborghini Diablo Is One-of-80, and It&#8217;s Going to A
 - **💰 经济财经**: CNBC
 - **💻 科技**: TechCrunch
 - **🔬 科学**: Science Daily
-- **⚽ 体育**: ESPN
+- **⚽ 体育**: BBC Sport
 - **🎬 娱乐**: Variety
 - **🏥 健康**: WHO
 - **🎮 游戏**: IGN
@@ -528,7 +528,6 @@ The post This Peak Lamborghini Diablo Is One-of-80, and It&#8217;s Going to A
 ## ⚠️ 今日故障源
 
 - **🚗 汽车**: Roadshow, Autocar
-- **✈️ 旅游**: Nomadic Matt
 
 ---
 
