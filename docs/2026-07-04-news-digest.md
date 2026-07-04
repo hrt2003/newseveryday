@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月04日** | 生成时间: 2026-07-04 11:31
+**2026年07月04日** | 生成时间: 2026-07-04 16:42
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'
+### 1. Taylor Swift marries Travis Kelce in NYC ceremony officiated by Adam Sandler
+
+[原文] It was the bash of the century, with celebrities from singer Benson Boone and actor Hugh Grant to model Gigi Hadid and actor Ethan Hawke in attendence.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c982ry2pen3o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Brutal heat cancels Fourth of July events, from DC to Philadelphia
+
+[原文] More than 165 million people are enduring dangerous heat and humidity, with temperatures expected to stay at 38C (100F) for several days.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. Keiko Fujimori declared winner of Peru's presidential election weeks after vote
+
+[原文] The daughter of disgraced president Alberto Fujimori is declared winner of tight race nearly a month after voting took place.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'
 
 [原文] Officials believe the suspect may not have acted alone and spent days casing out the scene of the attack.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Polish PM warns critical months ahead in face of Russian threat
-
-[原文] Tusk says Poland is preparing for "various" scenarios after media reports of a planned Russian attack.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj0gp88q4l4o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 3. France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather
-
-[原文] Forecasters are warning of further extreme temperatures on the continent in the next few days.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Anguished families left to identify Venezuela quake victims at makeshift morgue
+### 5. Anguished families left to identify Venezuela quake victims at makeshift morgue
 
 [原文] The disaster has overwhelmed local services, with bodies put outside or in tents for identification.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c20y2p9qqqko?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Iran begins public mourning for Ayatollah killed in February
-
-[原文] Ali Khamenei's body will lie in state in Tehran's Grand Mosalla from Friday ahead of days-long funeral events.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -60,29 +60,29 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/02/5-takeaways-from-president-donald-trumps-interview-with-cnbc.html) — *CNBC*
 
-### 2. First known congressional SpaceX stock buys surface after record IPO
+### 2. Iran begins six-day funeral for Ayatollah Khamenei nearly four months after his death
+
+[原文] Iran plans a six-day funeral for Ayatollah Ali Khamenei, with ceremonies across Iran and Iraq before burial in Mashhad.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/04/-khamenei-funeral-procession-route.html) — *CNBC*
+
+### 3. First known congressional SpaceX stock buys surface after record IPO
 
 [原文] The SpaceX stock purchases come as Elon Musk’s company deepens its role in federal contracting and remains closely tied to President Donald Trump’s Washington.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/03/spacex-stock-congress-meuser-cisneros-ipo-disclosure.html) — *CNBC*
 
-### 3. Ford achieves quality milestone, as CEO targets flawless new vehicle launches
+### 4. Ford achieves quality milestone, as CEO targets flawless new vehicle launches
 
 [原文] Ford CEO Jim Farley told CNBC that the automaker has learned from its past quality and recall issues, which have hurt its earnings and stained its reputation.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/03/ford-achieves-quality-milestone-targets-flawless-new-vehicle-launches.html) — *CNBC*
 
-### 4. Feds seek lower prison term for $100M New Jersey deli fraudster — but some reasons why are hidden
+### 5. Feds seek lower prison term for $100M New Jersey deli fraudster — but some reasons why are hidden
 
 [原文] James Patten is the third person who will be sentenced in the stock manipulation scheme related to Hometown International, a company that owned just one deli.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/03/new-jersey-deli-stockfraud-sentence-patten.html) — *CNBC*
-
-### 5. Extreme heat wave threatens U.S. power grids and July 4 travel
-
-[原文] The heat wave threatens to overwhelm U.S. grids and may force some to change their plans on one of the busiest travel weeks of the year.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/03/extreme-heat-us-power-grids-july-4-travel.html) — *CNBC*
 
 ---
 
@@ -168,11 +168,11 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Follow live: Colombia hold lead over Ghana after e...
+### 1. How Messi, Argentina saved themselves from humilia...
 
-[原文] null
+[原文] No one could've predicted Argentina would nearly be bounced from the World Cup by Cape Verde, but the round of 32 gave us an instant classic.
 
-📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49255647/world-cup-daily-live-travel-chaos-sees-speed-miss-cristiano-ronaldo-game-messi-action) — *ESPN*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49262637/messi-argentina-nearly-suffered-historic-world-cup-upset-cape-verde) — *ESPN*
 
 ### 2. Agent: LeBron eyeing Heat, Cavs, Sixers, others
 
@@ -186,17 +186,17 @@
 
 📎 [阅读原文](https://www.espn.com/nfl/story/_/id/49188085/taylor-swift-travis-kelce-wedding-marriage-kansas-city-chiefs) — *ESPN*
 
-### 4. Messi: Argentina have 'many' things to correct
+### 4. Mexico ups security, caps crowds after fan deaths
 
-[原文] Lionel Messi said Argentina have "many" things to improve after a nail-biting 3-2 win over Cape Verde in extra time on Friday night at Hard Rock Stadium in Miami, pointing out his team's shortcomings 
+[原文] Mexico will double security and limit capacity at the monument known as the "Angel of Independence" and at the fan festival in Mexico City's main square for Sunday's Mexico-England World Cup match.
+
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49264397/mexico-city-security-crowds-england-fan-deaths) — *ESPN*
+
+### 5. Messi: Argentina have 'many' things to correct
+
+[原文] Lionel Messi said Argentina have "many" things to improve after a nail-biting 3-2 win over Cape Verde in extra time Friday night at Hard Rock Stadium in Miami Gardens, Florida, pointing out his team's
 
 📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49263953/lionel-messi-argentina-many-bad-things-correct) — *ESPN*
-
-### 5. U.S.'s Balogun on ban: 'Emotional rollercoaster'
-
-[原文] USMNT forward Folarin Balogun said that he's been on an emotional "roller coaster" in the wake of his sending off against Bosnia-Herzegovina on Wednesday, but he intends to "support the boys" as the t
-
-📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49260630/usmnt-folarin-balogun-red-card-ban-belgium-emotional-rollercoaster) — *ESPN*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Rob Reiner Gets the ‘Last Laugh’ Against Trump in Secret Final Role as George Washington in Larry David’s HBO Show
+### 1. Šimon Holý Turns Drag, Family and Small-Town Life Into a Tender Political Statement in ‘Chica Checa’
+
+[原文] A drag queen comes out to his small-town mother but all hell doesn’t break loose in Šimon Holý’s heartfelt and crowd-pleasing feature “Chica Checa.” The film screens on Saturday in the Crystal Globe C
+
+📎 [阅读原文](https://variety.com/2026/film/global/simon-holy-chica-checa-1236793680/) — *Variety*
+
+### 2. Celina Vikram Jaitly Returns to the Big Screen as Sister Nibedita, the Irish-Born Disciple of Swami Vivekananda (EXCLUSIVE)
+
+[原文] Indian actor Celina Vikram Jaitly is returning to feature films as Sister Nibedita, the Irish-born disciple of Swami Vivekananda, in director Ram Kamal Mukherjee&#8217;s next biographical drama, after
+
+📎 [阅读原文](https://variety.com/2026/film/news/celina-jaitly-sister-nibedita-ram-kamal-mukherjee-1236801458/) — *Variety*
+
+### 3. Rob Reiner Gets the ‘Last Laugh’ Against Trump in Secret Final Role as George Washington in Larry David’s HBO Show
 
 [原文] SPOILER ALERT: This interview contains spoilers for Episode 2 of “Life, Larry, and the Pursuit of Unhappiness: An Almost History of America,” now streaming on HBO Max. A month before he died, Rob Rein
 
 📎 [阅读原文](https://variety.com/2026/tv/news/rob-reiner-trump-george-washington-larry-david-hbo-show-1236801101/) — *Variety*
 
-### 2. ‘Dutton Ranch’ Star Juan Pablo Raba Has a Wild Theory About [SPOILER]’s Murder: ‘There’s a Lot of Questions to Be Answered’
+### 4. ‘Dutton Ranch’ Star Juan Pablo Raba Has a Wild Theory About [SPOILER]’s Murder: ‘There’s a Lot of Questions to Be Answered’
 
 [原文] SPOILER ALERT:&#160;This post contains spoilers from the ninth episode of “Dutton Ranch,” “El Padrino,” which is now streaming on Paramount+. The season finale of “Dutton Ranch” ends with a bang when 
 
 📎 [阅读原文](https://variety.com/2026/tv/features/dutton-ranch-joaquin-didnt-shoot-rob-will-1236801208/) — *Variety*
 
-### 3. Adam Sandler Officiated Taylor Swift and Travis Kelce’s Wedding
+### 5. Adam Sandler Officiated Taylor Swift and Travis Kelce’s Wedding
 
 [原文] Adam Sandler officiated Taylor Swift and Travis Kelce&#8217;s star-studded Madison Square Garden wedding. The reveal came via a press release obtained by Variety in the minutes following Swift and Kel
 
 📎 [阅读原文](https://variety.com/2026/film/news/adam-sandler-officiated-taylor-swift-travis-kelces-wedding-1236801628/) — *Variety*
-
-### 4. Sienna Spiro’s ‘The Visitor’ Introduces an Electrifying Voice That’s Here to Stay: Album Review
-
-[原文] Only a very few performers put out their debut album having already established themselves as frontrunners for the Grammy for best new artist. Sienna Spiro is in that category, and let&#8217;s just sa
-
-📎 [阅读原文](https://variety.com/2026/music/album-reviews/sienna-spiro-visitor-album-review-1236801598/) — *Variety*
-
-### 5. Ed Sheeran, Bradley Cooper, Dakota Johnson and More Pictured Heading to Taylor Swift and Travis Kelce’s Wedding
-
-[原文] Anybody who is anybody is making their way to New York’s Madison Square Garden dressed to the nines in an apparent march to get to Taylor Swift and Travis Kelce’s wedding. A-listers who have been phot
-
-📎 [阅读原文](https://variety.com/2026/music/news/ed-sheeran-dakota-johnson-guests-taylor-swift-wedding-1236801619/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Supergirl Reportedly Faced Creative Differences Between DC Studios and Craig Gillespie
+### 1. Mr. Terrific TV Show in the Works With Pilot from The Sandman Alum
+
+[原文] The minds at DC Studios are reportedly developing a TV show spin-off based on Superman side character and superhero genius Mr. Terrific.
+
+📎 [阅读原文](https://www.ign.com/articles/mr-terrific-tv-show-in-the-works-with-pilot-from-the-sandman-alum) — *IGN*
+
+### 2. Supergirl Reportedly Faced Creative Differences Between DC Studios and Craig Gillespie
 
 [原文] Creative differences reportedly led James Gunn and Peter Safran's DC Studios to test competing Supergirl cuts – one from director Craig Gillespie and one from the studio – just months before its relea
 
 📎 [阅读原文](https://www.ign.com/articles/supergirl-reportedly-faced-creative-differences-between-dc-studios-and-craig-gillespie) — *IGN*
 
-### 2. Danganronpa 2x2 Delayed to Early 2027
+### 3. Danganronpa 2x2 Delayed to Early 2027
 
 [原文] Spike Chunsoft has announced that Danganronpa 2x2 has been delayed to early 2027.
 
 📎 [阅读原文](https://www.ign.com/articles/danganronpa-2x2-delayed-to-early-2027) — *IGN*
 
-### 3. Heat 2 Reportedly Casts Leonardo DiCaprio and Christian Bale With Filming Planned for November 2026
+### 4. Heat 2 Reportedly Casts Leonardo DiCaprio and Christian Bale With Filming Planned for November 2026
 
 [原文] Leonardo DiCaprio and Christian Bale have reportedly joined the cast of Heat 2 as Chris Shiherlis and Vincent Hanna.
 
 📎 [阅读原文](https://www.ign.com/articles/heat-2-reportedly-casts-leonardo-dicaprio-and-christian-bale-with-filming-planned-for-november-2026) — *IGN*
 
-### 4. Today's Top Deals: $150 Nintendo eShop Gift Card, Bose QuietComfort Headphones, and DJI Osmo Pocket 3 Camera
+### 5. Today's Top Deals: $150 Nintendo eShop Gift Card, Bose QuietComfort Headphones, and DJI Osmo Pocket 3 Camera
 
 [原文] And the 4th of July weekend savings don’t stop there.
 
 📎 [阅读原文](https://www.ign.com/articles/best-deals-for-july-3-2026) — *IGN*
-
-### 5. Marvel Rivals Fans Think the New Captain America Skin Is a Mod, But It's Actually Just His Rod
-
-[原文] NetEase Games is celebrating the 4th of July with a Marvel Rivals swimsuit skin that comes bundled with Captain America's big package.
-
-📎 [阅读原文](https://www.ign.com/articles/marvel-rivals-fans-think-the-new-captain-america-skin-is-a-mod-but-its-actually-just-his-rod) — *IGN*
 
 ---
 
@@ -528,7 +528,7 @@ The post This Peak Lamborghini Diablo Is One-of-80, and It&#8217;s Going to A
 ## ⚠️ 今日故障源
 
 - **🚗 汽车**: Roadshow, Autocar
-- **✈️ 旅游**: Travel Off Path
+- **✈️ 旅游**: Nomadic Matt
 
 ---
 
