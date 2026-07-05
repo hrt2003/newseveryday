@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月05日** | 生成时间: 2026-07-05 03:19
+**2026年07月05日** | 生成时间: 2026-07-05 11:49
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Midjourney wants Hollywood studios to reveal the details of their AI usage
+### 1. New Google commercial imagines a Declaration of Independence written with help from AI
+
+[原文] Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?
+
+📎 [阅读原文](https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/) — *TechCrunch*
+
+### 2. Midjourney wants Hollywood studios to reveal the details of their AI usage
 
 [原文] As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/) — *TechCrunch*
 
-### 2. Alibaba reportedly bans employees from using Claude Code
+### 3. Alibaba reportedly bans employees from using Claude Code
 
 [原文] Alibaba has reportedly classified Claude Code as high-risk software.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/) — *TechCrunch*
 
-### 3. What is Mistral AI? Everything to know about the OpenAI competitor
+### 4. What is Mistral AI? Everything to know about the OpenAI competitor
 
 [原文] Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”
 
 📎 [阅读原文](https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) — *TechCrunch*
 
-### 4. The only AI glossary you’ll need this year
+### 5. The only AI glossary you’ll need this year
 
 [原文] The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/) — *TechCrunch*
-
-### 5. The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari
-
-[原文] We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Why England won't fear Mexico or the Azteca - Shearer
+### 1. France pass toughest World Cup test yet in beating...
 
-[原文] Former England captain Alan Shearer explains why Thomas Tuchel's team will not be worried about the difficult conditions when they play Mexico at the Azteca Stadium.
+[原文] France haven't really been challenged yet at this World Cup in the way Paraguay tested them Sunday, but Mbappe & Co. were able to stay cool in the sweltering heat and advance to the quarterfinals.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c4gy0l7x25wo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49272197/france-kylian-mbappe-paraguay-world-cup-reaction-analysis) — *ESPN*
 
-### 2. England outclassed by seven-try South Africa in Nations Championship
+### 2. France's Mbappé calls Paraguay tactics 'ugly'
 
-[原文] South Africa reassert their dominance over England with a commanding victory at Ellis Park in the opening round of games in the new Nations Championship.
+[原文] Kylian Mbappé warned future World Cup opponents that France are ready to "play ugly" and get their "hands dirty" after brushing off Paraguay's provocations in a heated 1-0 round-of-16 victory,
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-union/articles/cvglz11w29xo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49272367/france-kylian-mbappe-paraguay-tactics-get-our-hands-dirty) — *ESPN*
 
-### 3. GB's Fery fights off Bergs and nosebleeds to reach fourth round
+### 3. Ohtani, Freeman lead Dodgers' 4 All-Star starters
 
-[原文] British wildcard Arthur Fery beats Zizou Bergs to reach the Wimbledon fourth round and keep home singles hopes alive - despite suffering three nosebleeds.
+[原文] Shohei Ohtani will be joined by three Los Angeles teammates in the NL's starting lineup, while the Dodgers, Braves and Phillies will each send five players to the July 14 All-Star Game.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cj3gp85me40o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/mlb/story/_/id/49272621/ohtani-freeman-lead-dodgers-four-starters-all-star-game) — *ESPN*
 
-### 4. Bethell outshines debutant Sooryavanshi, 15, as England beat India
+### 4. All-Star Alvarez walks off Rays in multi-HR night
 
-[原文] Teenage sensation Vaibhav Sooryavanshi becomes the youngest man to play for India in England’s thrilling four-wicket win in the second T20 at Old Trafford.
+[原文] Yordan Alvarez added to his AL home run lead with a walk-off against the Rays on Saturday night, his second homer of the night.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cq61pz1e1nno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/mlb/story/_/id/49273382/astros-star-yordan-alvarez-walks-rays-multi-hr-night) — *ESPN*
 
-### 5. Antonelli beats Leclerc & Hamilton to Silverstone pole
+### 5. Sources: Ewing joining Wizards as assistant coach
 
-[原文] Mercedes' Kimi Antonelli takes pole position for the British Grand Prix, beating the Ferraris and team-mate George Russell.
+[原文] Georgetown and New York Knicks legend Patrick Ewing agreed to become an assistant coach for the Washington Wizards and head coach Brian Keefe, sources told ESPN on Saturday.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/cj3g73x2ggeo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/nba/story/_/id/49272641/sources-patrick-ewing-joins-brian-keefe-wizards-staff-assistant) — *ESPN*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘I Will Find You’ Star Britt Lower on Rachel’s ‘Spidey Sense’ and Why [SPOILER] as the Murderous Villain Was ‘Perfect Casting’
+### 1. ‘The Pitt’ Star Noah Wyle Was Offered Roles in ‘Saving Private Ryan’ and ‘Good Night, and Good Luck’ but ‘Couldn’t Get Out’ of Filming ‘ER’
+
+[原文] “The Pitt” star Noah Wyle recently told the “Still Here Hollywood” podcast that he missed out on roles in “Saving Private Ryan” and “Good Night, and Good Luck” because he couldn’t get out of filming t
+
+📎 [阅读原文](https://variety.com/2026/film/news/the-pitt-noah-wyle-saving-private-ryan-er-1236801812/) — *Variety*
+
+### 2. Vin Diesel Shares Behind-the-Scenes Look at ‘Fast Forever’: ‘We’ve Been Grinding’
+
+[原文] Vin Diesel took to Instagram on Thursday to give fans a behind-the-scenes look at “Fast Forever,” the 11th and final film in “The Fast and Furious” franchise. It hits theaters on March 17, 2028. “I’m 
+
+📎 [阅读原文](https://variety.com/2026/film/news/vin-diesel-behind-the-scenes-fast-forever-1236801804/) — *Variety*
+
+### 3. Abdullah Mason vs. Albert Bell Boxing Livestream: How to Watch TNT Sports’ ‘The Fight’ Online for Free
+
+[原文] Boxing fans are celebrating Independence Day with a big made-for-TV event tonight, as WBO champion Abdullah Mason defends his lightweight title against Albert Bell live from Cleveland. The title fight
+
+📎 [阅读原文](https://variety.com/2026/shopping/news/abdullah-mason-albert-bell-boxing-fight-free-stream-online-1236801043/) — *Variety*
+
+### 4. ‘I Will Find You’ Star Britt Lower on Rachel’s ‘Spidey Sense’ and Why [SPOILER] as the Murderous Villain Was ‘Perfect Casting’
 
 [原文] SPOILER ALERT: This story includes key storylines and details about “I Will Find You,” now streaming on&#160;Netflix. Harlan Coben’s latest Netflix murder mystery series, “I Will Find You,” appears to
 
 📎 [阅读原文](https://variety.com/2026/streaming/columns/i-will-find-you-britt-lower-rachel-netflix-milo-ventimiglia-1236801455/) — *Variety*
 
-### 2. Inside Taylor Swift and Travis Kelce’s Wedding: Everything We Learned About the Star-Studded Ceremony at Madison Square Garden
+### 5. Inside Taylor Swift and Travis Kelce’s Wedding: Everything We Learned About the Star-Studded Ceremony at Madison Square Garden
 
 [原文] As you’ve probably heard, Taylor Swift and Travis Kelce got married on Friday and summoned a firestorm of non-stop media coverage. In case you’ve had a hard time keeping pace, let this be your guide t
 
 📎 [阅读原文](https://variety.com/2026/music/news/taylor-swift-travis-kelce-wedding-guest-gifts-stevie-nicks-1236801759/) — *Variety*
-
-### 3. Hollywood Movies Have Always Been About America. On the 250th July 4, Are They Still?
-
-[原文] A few days ago, the New York Times ran a provocative listicle entitled &#8220;What Is the Definitive Movie About America?&#8221; Their writers came up with a couple of inspired choices, like &#8220;Da
-
-📎 [阅读原文](https://variety.com/2026/film/columns/hollywood-movies-are-about-america-but-are-they-still-1236801526/) — *Variety*
-
-### 4. Maggie Gyllenhaal on Subverting Female Stereotypes and Why She Never Set Out to Break Taboos: ‘I’m Just Trying to Make Space for My Own Experience to Be Expressed’
-
-[原文] In only two directorial outings, Karlovy Vary Film Festival honoree Maggie Gyllenhaal has managed to subvert more than 100 years of cinematic female stereotypes — “The Lost Daughter” acknowledged the 
-
-📎 [阅读原文](https://variety.com/2026/film/festivals/karlovy-vary-maggie-gyllenhaal-1236801706/) — *Variety*
-
-### 5. How Taylor Swift’s Wedding Puts a Cap on Her 20 Years of Writing About Marriage, From ‘Love Story’ to the Bitter ‘You’re Losing Me’ to the Triumphant ‘Eldest Daughter’
-
-[原文] &#8220;I wouldn&#8217;t marry me, either,&#8221; Taylor Swift sang — bitterly, it&#8217;s fair to say — just a few years ago. Remember when the world&#8217;s biggest pop superstar was writing about ho
-
-📎 [阅读原文](https://variety.com/2026/music/columns/taylor-swift-wedding-lyrical-attitudes-journey-matrimony-1236801727/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Devil’s Rain Review
+### 1. Exclusive: First Details and Trailer Revealed for BEYOND BORDERS Vol.1: EMERGE MODE MIKU, a New EP Featuring Hatsune Miku Singing With Grimes, slayr, and More
 
-[原文] The Devil’s Rain review: The shape of evil materializes in Severin Films’ 4K release of this cult classic horror romp.
+[原文] IGN can exclusively reveal the first details and trailer for BEYOND BORDERS Vol.1: EMERGE MODE MIKU, a new collaboration EP that will pair virtual singer superstar Hatsune Miku with such artists as Gr
 
-📎 [阅读原文](https://www.ign.com/articles/the-devils-rain-review) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/exclusive-first-details-and-trailer-revealed-for-beyond-borders-vol1-emerge-mode-miku-a-new-ep-featuring-hatsune-miku-singing-with-grimes-slayr-and-more) — *IGN*
 
-### 2. Mr. Terrific TV Show in the Works With Pilot from The Sandman Alum
+### 2. Solo Leveling: Beyond the System Movie Announced at Anime Expo
 
-[原文] The minds at DC Studios are reportedly developing a TV show spin-off based on Superman side character and superhero genius Mr. Terrific.
+[原文] After two seasons, the anime series Solo Leveling will continue its story with a full-length movie adaptation, Solo Leveling: Beyond the System
 
-📎 [阅读原文](https://www.ign.com/articles/mr-terrific-tv-show-in-the-works-with-pilot-from-the-sandman-alum) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/solo-leveling-beyond-the-system-movie-announced-at-anime-expo) — *IGN*
 
-### 3. Supergirl Reportedly Faced Creative Differences Between DC Studios and Craig Gillespie
+### 3. Young Washington Review
 
-[原文] Creative differences reportedly led James Gunn and Peter Safran's DC Studios to test competing Supergirl cuts – one from director Craig Gillespie and one from the studio – just months before its relea
+[原文] Young Washington’s epic ambition clearly exceeded its limited grasp to realize its grand vision. It’s an earnest but cursory exploration of the first US President’s early years as a wannabe British of
 
-📎 [阅读原文](https://www.ign.com/articles/supergirl-reportedly-faced-creative-differences-between-dc-studios-and-craig-gillespie) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/young-washington-review) — *IGN*
 
-### 4. Danganronpa 2x2 Delayed to Early 2027
+### 4. First Look at Ghost of Tsushima Legends Anime Character Art
 
-[原文] Spike Chunsoft has announced that Danganronpa 2x2 has been delayed to early 2027.
+暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/danganronpa-2x2-delayed-to-early-2027) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/first-look-at-ghost-of-tsushima-legends-anime-character-art) — *IGN*
 
-### 5. Heat 2 Reportedly Casts Leonardo DiCaprio and Christian Bale With Filming Planned for November 2026
+### 5. The Best Deals Today: Cyberpunk 2077, Criterion Collection Sale, Nintendo Switch 2 Camera, and More
 
-[原文] Leonardo DiCaprio and Christian Bale have reportedly joined the cast of Heat 2 as Chris Shiherlis and Vincent Hanna.
+暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/heat-2-reportedly-casts-leonardo-dicaprio-and-christian-bale-with-filming-planned-for-november-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/best-deals-for-july-4-2026) — *IGN*
 
 ---
 
@@ -515,7 +515,7 @@ The post The McMurtry Speirling Owner Application Is Delightfully Simple appeare
 - **💰 经济财经**: CNBC
 - **💻 科技**: TechCrunch
 - **🔬 科学**: Science Daily
-- **⚽ 体育**: BBC Sport
+- **⚽ 体育**: ESPN
 - **🎬 娱乐**: Variety
 - **🏥 健康**: WHO
 - **🎮 游戏**: IGN
@@ -528,6 +528,7 @@ The post The McMurtry Speirling Owner Application Is Delightfully Simple appeare
 ## ⚠️ 今日故障源
 
 - **🚗 汽车**: Roadshow, Autocar
+- **✈️ 旅游**: Nomadic Matt, Travel Off Path
 
 ---
 
