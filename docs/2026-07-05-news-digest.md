@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月05日** | 生成时间: 2026-07-05 16:58
+**2026年07月05日** | 生成时间: 2026-07-05 21:48
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. US marks 250th birthday with fireworks, flyovers and extreme weather
+### 1. Iran's supreme leader absent as senior officials attend ayatollah's funeral
+
+[原文] Ali Khamenei's son Mojtaba is conspicuously absent from his father's funeral on Sunday, amid speculation about his condition.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. US marks 250th birthday with fireworks, flyovers and extreme weather
 
 [原文] US President Donald Trump's speech included some of his political agenda but also honoured war veterans and American history.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Ukraine hits major oil terminal in Russia's St Petersburg
+### 3. Evacuations in Guam as super typhoon Bavi approaches
 
-[原文] Ukrainian President Volodymyr Zelensky says the target is key infrastructure "that generates revenue for Russia's war".
+[原文] The storm is forecast to bring winds in excess of 160mph and waves nearly 11m high when it makes landfall on Monday.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Chinese underground church figure Jin Mingri freed from prison
+### 4. Australia probes mystery space balls that washed up on beach
+
+[原文] Officials are searching for the origins of six pieces of space debris discovered on Forrest Beach in Queensland.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c1jyydr7jnjo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Chinese underground church figure Jin Mingri freed from prison
 
 [原文] The Zion Church founder's release comes after a direct plea to Xi Jinping from Donald Trump.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c4gy51ky75vo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Former chess champion Kramnik banned over cheating remarks
-
-[原文] The former Russian world chess champion had accused other players, including the late Daniel Naroditsky, of cheating.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cd6epx607dqo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Moment of destiny for France's Le Pen in verdict to decide her future in presidential race
-
-[原文] Far-right leader Marine Le Pen is appealing against a verdict which found her guilty of misusing EU funds.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. First known congressional SpaceX stock buys surface after record IPO
+### 1. From Macron to Modi, governments are rolling out the red carpet for AI giants
 
-[原文] The SpaceX stock purchases come as Elon Musk’s company deepens its role in federal contracting and remains closely tied to President Donald Trump’s Washington.
+[原文] Macron and Modi are courting tech CEOs as France and India seek AI data center investment and cloud infrastructure.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/03/spacex-stock-congress-meuser-cisneros-ipo-disclosure.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/04/macron-modi-ai-infrastructure-tech-ceos.html) — *CNBC*
 
-### 2. The World Cup sends prediction market volumes soaring to record highs
+### 2. Cargo vessel in Red Sea reports coming under attack, UK maritime body says
 
-[原文] Trading volumes on Kalshi and Polymarket both hit record highs in June. Rothera, a new prediction market platform, was also able to manage $2 billion in volume.
+[原文] The incident was reported in one of the world's most crucial trade transit routes amid a fragile ceasefire between Iran and the U.S.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/04/2026-fifa-world-cup-boosts-prediction-market-volumes.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/05/cargo-vessel-in-red-sea-reports-attack-uk-maritime-body-says.html) — *CNBC*
 
-### 3. Trump Accounts for kids launch July 4: What parents need to know
+### 3. Trump Accounts for kids launched July 4: What parents need to know
 
 [原文] Here's a breakdown of how Trump Accounts work, who qualifies for free money and when the funds can be withdrawn.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/01/trump-accounts-launch-july-4.html) — *CNBC*
 
-### 4. Iran begins six-day funeral for Ayatollah Khamenei nearly four months after his death
+### 4. The World Cup sends prediction market volumes soaring to record highs
 
-[原文] Iran plans a six-day funeral for Ayatollah Ali Khamenei, with ceremonies across Iran and Iraq before burial in Mashhad.
+[原文] Trading volumes on Kalshi and Polymarket both hit record highs in June. Rothera, a new prediction market platform, was also able to manage $2 billion in volume.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/04/-khamenei-funeral-procession-route.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/04/2026-fifa-world-cup-boosts-prediction-market-volumes.html) — *CNBC*
 
-### 5. 5 takeaways from President Donald Trump's interview with CNBC
+### 5. Top Wall Street analysts prefer these dividend stocks for boosting portfolio returns
 
-[原文] The president defended his family's business and said he feels bad that the presidency creates a conflict of interest in any of his children's investments.
+[原文] With thousands of dividend-paying companies to choose from, identifying the right stocks can be challenging.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/02/5-takeaways-from-president-donald-trumps-interview-with-cnbc.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/05/analysts-prefer-these-dividend-stocks-for-boosting-portfolio-returns.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. New Google commercial imagines a Declaration of Independence written with help from AI
+### 1. What is Bending Spoons? The little-known AOL and Vimeo owner that’s now public
+
+[原文] Bending Spoons remains largely unknown, even as its portfolio of products has served more than a billion people.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/05/what-is-bending-spoons-everything-to-know-about-aols-acquirer/) — *TechCrunch*
+
+### 2. Almost 90 new unicorns have been minted so far this year — here they are
+
+[原文] With AI igniting an investor frenzy, more startups are achieving unicorn status every month.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/) — *TechCrunch*
+
+### 3. New Google commercial imagines a Declaration of Independence written with help from AI
 
 [原文] Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?
 
 📎 [阅读原文](https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/) — *TechCrunch*
 
-### 2. Midjourney wants Hollywood studios to reveal the details of their AI usage
+### 4. Midjourney wants Hollywood studios to reveal the details of their AI usage
 
 [原文] As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/) — *TechCrunch*
 
-### 3. Alibaba reportedly bans employees from using Claude Code
+### 5. Alibaba reportedly bans employees from using Claude Code
 
 [原文] Alibaba has reportedly classified Claude Code as high-risk software.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/) — *TechCrunch*
-
-### 4. What is Mistral AI? Everything to know about the OpenAI competitor
-
-[原文] Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”
-
-📎 [阅读原文](https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) — *TechCrunch*
-
-### 5. The only AI glossary you’ll need this year
-
-[原文] The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. England enter the Azteca - where football kings are crowned
+### 1. Postcards from the World Cup: Seeing the U.S., Can...
 
-[原文] BBC sport explores the history and cultural power of the Azteca, one of the great cathedrals of world football, as England prepare to face Mexico there in the last 16 of the World Cup.
+[原文] The 2026 World Cup has been unique for being co-hosted by three countries, the U.S., Canada and Mexico. What has the tournament been like in each nation? Mark Ogden went to find out.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cg74e324835o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49249888/world-cup-postcards-travel-usa-los-angeles-mexico-guadalajara-canada-vancouver) — *ESPN*
 
-### 2. France survive Paraguay's 'disgraceful' and 'embarrassing' dark arts
+### 2. Pride, joy and anxiety: What watching a family mem...
 
-[原文] After dismantling all before them at this World Cup, France had to find a new way to win against a Paraguay side whose use of the dark arts angered many of those watching.
+[原文] It's incredible for families who have seen loved ones playing on the biggest stage there is at a World Cup.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cn4dpd11v1eo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49266645/world-cup-pride-joy-anxiety-watching-family-member-play-means) — *ESPN*
 
-### 3. Why England won't fear Mexico or the Azteca - Shearer
+### 3. France's Mbappé calls Paraguay tactics 'ugly'
 
-[原文] Former England captain Alan Shearer explains why Thomas Tuchel's team will not be worried about the difficult conditions when they play Mexico at the Azteca Stadium.
+[原文] Kylian Mbappé warned future World Cup opponents that France are ready to "play ugly" and get their "hands dirty" after brushing off Paraguay's provocations in a heated 1-0 round-of-16 victory,
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c4gy0l7x25wo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49272367/france-kylian-mbappe-paraguay-tactics-get-our-hands-dirty) — *ESPN*
 
-### 4. Boks unleash big-game brutality on Borthwick's faltering England
+### 4. Ohtani, Freeman lead Dodgers' 4 All-Star starters
 
-[原文] Defeat by South Africa can, and does, happen to any team in world rugby, but England need to stop their losing streak soon.
+[原文] Shohei Ohtani will be joined by three Los Angeles teammates in the NL's starting lineup, while the Dodgers, Braves and Phillies will each send five players to the July 14 All-Star Game.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-union/articles/cz752234r45o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/mlb/story/_/id/49272621/ohtani-freeman-lead-dodgers-four-starters-all-star-game) — *ESPN*
 
-### 5. Hodgkinson beaten into second by Odira in Eugene
+### 5. 'Emotional' Contreras apologizes for on-field flap...
 
-[原文] Olympic 800m champion Keely Hodgkinson was beaten for the second consecutive Diamond League race as she finished behind Lilian Odira in Eugene.
+[原文] Red Sox first baseman Willson Contreras offered an emotional apology for his involvement in a pair of bench-clearing incidents against the Yankees and Nationals this past week.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/clyrpp0v0nqo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/mlb/story/_/id/49273398/emotional-contreras-regrets-role-field-incidents) — *ESPN*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Tauron American Film Festival Readies for 17th Edition – and U.S. in Progress Continues to Be an ‘Essential Part of the Fabric of American Independent Cinema’
+### 1. ‘Chica Checa’ Review: Šimon Holý’s Karlovy Vary Competition Entry Is Worthy but Clumsy
+
+[原文] Momentous events such as the sale of the family home, a young man coming out to his family, or the staging of a drag performance in a small town would seem like perfect ingredients for an intensely dr
+
+📎 [阅读原文](https://variety.com/2026/film/reviews/chica-checa-review-1236801898/) — *Variety*
+
+### 2. Jesse Eisenberg on Why It Would Be ‘Silly’ to Leave U.S. Because of Trump, Says ‘The Debut’ Is ‘The Opposite of AI’ Following A24 DeepMind Partnership
+
+[原文] Despite recently obtaining his Polish citizenship, “A Real Pain” director Jesse Eisenberg is not thinking about leaving the U.S. anytime soon. Speaking at the Karlovy Vary Film Festival, where he is t
+
+📎 [阅读原文](https://variety.com/2026/film/global/jesse-eisenberg-trump-the-debut-a24-1236801881/) — *Variety*
+
+### 3. Trine Dyrholm Crashes a Party in Mads Mengel’s ‘The Guest,’ Proving She’s ‘Simply One of Denmark’s Greatest Actors’
+
+[原文] Don’t be fooled by that angelic smile. Trine Dyrholm is ready to wreak havoc in “The Guest.” In Mads Mengel’s drama – premiering at Karlovy Vary Film Festival – new father Karl (Simon Bennebjerg) is p
+
+📎 [阅读原文](https://variety.com/2026/film/global/trine-dyrholm-mads-mengel-the-guest-karlovy-vary-1236801780/) — *Variety*
+
+### 4. Switzerland Shows Its Dark Side in Jan-Eric Mack’s ‘A Happy Family’: ‘People Don’t Talk’
+
+[原文] Switzerland is still one of the richest countries in the world. But there are cracks in its foundation, argues director Jan-Eric Mack. “During the pandemic, we started seeing people lining up to get f
+
+📎 [阅读原文](https://variety.com/2026/film/global/switzerland-jan-eric-mack-a-happy-family-karlovy-vary-1236801865/) — *Variety*
+
+### 5. Tauron American Film Festival Readies for 17th Edition – and U.S. in Progress Continues to Be an ‘Essential Part of the Fabric of American Independent Cinema’
 
 [原文] Poland’s Tauron American Film Festival will celebrate its 17th&#160;edition from Nov. 17-22 – and its industry sidebar U.S. in Progress will, once again, connect European buyers and Polish post-produc
 
 📎 [阅读原文](https://variety.com/2026/film/global/tauron-american-film-festival-us-in-progress-poland-1236801791/) — *Variety*
-
-### 2. ‘Murciélago’ Manga Gets 2027 TV Anime Adaptation on HIDIVE
-
-[原文] Yoshimura Kana&#8217;s manga &#8220;Murciélago&#8221; is being adapted into a TV anime set to premiere in 2027, with HIDIVE announcing exclusive streaming rights for the U.S., Canada and several other
-
-📎 [阅读原文](https://variety.com/2026/tv/news/murcielago-manga-tv-anime-adaptation-hidive-1236801853/) — *Variety*
-
-### 3. ‘The Pitt’ Star Noah Wyle Was Offered Roles in ‘Saving Private Ryan’ and ‘Good Night, and Good Luck’ but ‘Couldn’t Get Out’ of Filming ‘ER’
-
-[原文] “The Pitt” star Noah Wyle recently told the “Still Here Hollywood” podcast that he missed out on roles in “Saving Private Ryan” and “Good Night, and Good Luck” because he couldn’t get out of filming t
-
-📎 [阅读原文](https://variety.com/2026/film/news/the-pitt-noah-wyle-saving-private-ryan-er-1236801812/) — *Variety*
-
-### 4. Vin Diesel Shares Behind-the-Scenes Look at ‘Fast Forever’: ‘We’ve Been Grinding’
-
-[原文] Vin Diesel took to Instagram on Thursday to give fans a behind-the-scenes look at “Fast Forever,” the 11th and final film in “The Fast and Furious” franchise. It hits theaters on March 17, 2028. “I’m 
-
-📎 [阅读原文](https://variety.com/2026/film/news/vin-diesel-behind-the-scenes-fast-forever-1236801804/) — *Variety*
-
-### 5. Abdullah Mason vs. Albert Bell Boxing Livestream: How to Watch TNT Sports’ ‘The Fight’ Online for Free
-
-[原文] Boxing fans are celebrating Independence Day with a big made-for-TV event tonight, as WBO champion Abdullah Mason defends his lightweight title against Albert Bell live from Cleveland. The title fight
-
-📎 [阅读原文](https://variety.com/2026/shopping/news/abdullah-mason-albert-bell-boxing-fight-free-stream-online-1236801043/) — *Variety*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Russian Engineering Madmen Create Turbo-Style Alternator Driven by Exhaust
+### 1. Here’s a Peek at the F1 Drivers’ Parking Lot in Silverstone
+
+[原文] Pierre Gasly's EV had a "My other car is an F1 car" bumper sticker, while Valtteri Bottas chose to ride his bike on race day.
+The post Here&#8217;s a Peek at the F1 Drivers&#8217; Parking Lot in Silve
+
+📎 [阅读原文](https://www.thedrive.com/news/heres-a-peek-at-the-f1-drivers-parking-lot-in-silverstone) — *The Drive*
+
+### 2. Russian Engineering Madmen Create Turbo-Style Alternator Driven by Exhaust
 
 [原文] Alternator sucking too much power from your engine? Try this.
 The post Russian Engineering Madmen Create Turbo-Style Alternator Driven by Exhaust appeared first on The Drive.
 
 📎 [阅读原文](https://www.thedrive.com/news/russian-engineering-madmen-create-turbo-style-alternator-driven-by-exhaust) — *The Drive*
 
-### 2. Pursue Life and Happiness With This Chopped-Top Jeep Liberty for Beater Car Money
+### 3. Pursue Life and Happiness With This Chopped-Top Jeep Liberty for Beater Car Money
 
 [原文] This Facebook Marketplace special is cheap enough to give you the freedom of not caring about reliability.
 The post Pursue Life and Happiness With This Chopped-Top Jeep Liberty for Beater Car Money ap
 
 📎 [阅读原文](https://www.thedrive.com/news/pursue-life-and-happiness-with-this-chopped-top-jeep-liberty-for-beater-car-money) — *The Drive*
 
-### 3. Dealers Are Asking More for New Cars Than Ever, and Sedans Have Gone Up the Most
+### 4. Dealers Are Asking More for New Cars Than Ever, and Sedans Have Gone Up the Most
 
 [原文] Average marketed prices for new cars hit a record high in June as the affordability crisis continues.
 The post Dealers Are Asking More for New Cars Than Ever, and Sedans Have Gone Up the Most appeared
 
 📎 [阅读原文](https://www.thedrive.com/news/dealers-are-asking-more-for-new-cars-than-ever-and-sedans-have-gone-up-the-most) — *The Drive*
 
-### 4. 2027 Ferrari 12Cilindri Manuale Brings the Stick-Shift Back to Maranello—Kind Of
+### 5. 2027 Ferrari 12Cilindri Manuale Brings the Stick-Shift Back to Maranello—Kind Of
 
 [原文] Ferrari's listened to the market and created a completely new shift- and clutch-by-wire system that promises to be just like the real deal, if not better. Genius or blasphemous?
 The post 2027 Ferrari 
 
 📎 [阅读原文](https://www.thedrive.com/news/2027-ferrari-12cilindri-manuale-brings-the-stick-shift-back-to-maranello-kind-of) — *The Drive*
-
-### 5. The McMurtry Speirling Owner Application Is Delightfully Simple
-
-[原文] Thankfully, McMurtry doesn't require a minimum Instagram follower count to own its amazing Speirling Pure fan car.
-The post The McMurtry Speirling Owner Application Is Delightfully Simple appeared fir
-
-📎 [阅读原文](https://www.thedrive.com/news/the-mcmurtry-speirling-owner-application-is-delightfully-simple) — *The Drive*
 
 ---
 
@@ -363,35 +363,35 @@ The post The McMurtry Speirling Owner Application Is Delightfully Simple appeare
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. New Gold Exploration Revives Old Fears for Montana’s Blackfoot River
+### 1. Climate Reporting Is Changing
+
+[原文] Welcome to Inside Climate, a new podcast from the staff of Inside Climate News. As the ICN newsroom grows and expands, so is its reporting. For the show’s debut episode, co-host Kiley Price sits down 
+
+📎 [阅读原文](https://insideclimatenews.org/news/05072026/inside-climate-podcast-pilot/) — *Inside Climate News*
+
+### 2. Dairy Farms’ Expansion Plan Worries California Families Who Once Had a ‘Little Piece of Heaven’
+
+[原文] PLANADA, Calif.—David Rodriguez learned to swim in the canals near his childhood home in the 1960s, back when orchards of figs, peaches and almonds encircled his neighborhood. Before the area around t
+
+📎 [阅读原文](https://insideclimatenews.org/news/05072026/california-dairy-farm-expansion-plan-worries-residents/) — *Inside Climate News*
+
+### 3. New Gold Exploration Revives Old Fears for Montana’s Blackfoot River
 
 [原文] More than half a century after one of Montana&#8217;s most destructive mining disasters poisoned the upper Blackfoot River, a new gold exploration project near the river&#8217;s headwaters is sparking
 
 📎 [阅读原文](https://insideclimatenews.org/news/04072026/montana-blackfoot-river-gold-exploration/) — *Inside Climate News*
 
-### 2. The Spectacular Regrowth of New England’s Forests
+### 4. The Spectacular Regrowth of New England’s Forests
 
 [原文] From our collaborating partner “Living on Earth,” public radio&#8217;s environmental news magazine, an interview by host Steve Curwood with Bill Moomaw, a distinguished visiting scientist at the Woodw
 
 📎 [阅读原文](https://insideclimatenews.org/news/04072026/new-england-reforestation/) — *Inside Climate News*
 
-### 3. California’s First Carbon Capture Project Is Up and Running. Environmentalists Are Still Trying To Stop It.
+### 5. California’s First Carbon Capture Project Is Up and Running. Environmentalists Are Still Trying To Stop It.
 
 [原文] California Resources Corporation, the state’s largest oil company, passed a long-targeted milestone in May: It had finally taken carbon dioxide that would otherwise warm the atmosphere and injected it
 
 📎 [阅读原文](https://insideclimatenews.org/news/03072026/california-environmentalists-press-for-assessment-of-first-carbon-capture-project/) — *Inside Climate News*
-
-### 4. As America Celebrates 250th, Murkiness Surrounds Trump-Backed Planning Fund
-
-[原文] Among the sponsors of Freedom 250, the organization created by President Donald Trump to plan the celebration of the nation’s semiquincentennial, is a Florida mining company with a regulatory issue pe
-
-📎 [阅读原文](https://insideclimatenews.org/news/03072026/freedom-250-sponsorship-from-florida-mining-company-seeking-federal-approval/) — *Inside Climate News*
-
-### 5. Drone Delivery Could Cut Pollution. Can Communities Live With the Noise?
-
-[原文] RICHARDSON, Texas—Jonathan Pace first noticed the noise. But it wasn’t until he bought a Bluetooth-based drone tracker that what seemed like a neighborhood nuisance became something he could measure: 
-
-📎 [阅读原文](https://insideclimatenews.org/news/03072026/drone-delivery-could-cut-pollution/) — *Inside Climate News*
 
 ---
 
@@ -477,35 +477,35 @@ The post The McMurtry Speirling Owner Application Is Delightfully Simple appeare
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Airlines Are Turning Live Entertainment Into a Loyalty Strategy
+### 1. Extended-Stay Demand Hits a Four-Year High as Supply Pipeline Thins
+
+[原文] Demand is up 6%, occupancy is a fat 77%, and the pipeline is thinning. That may be a textbook setup for pricing power.
+
+📎 [阅读原文](https://skift.com/2026/07/05/extended-stay-demand-hits-a-four-year-high-as-supply-pipeline-thins/) — *Skift*
+
+### 2. Airlines Are Turning Live Entertainment Into a Loyalty Strategy
 
 [原文] Theaters and arenas are becoming year-round brand real estate for airlines targeting premium customers. Whether that presence pays off in bookings, rather than just awareness, remains to be seen.
 
 📎 [阅读原文](https://skift.com/2026/07/04/airlines-are-turning-live-entertainment-into-a-loyalty-strategy/) — *Skift*
 
-### 2. Cabo Verde Made World Cup History — and Travelers Are Already Seeking It Out
+### 3. Cabo Verde Made World Cup History — and Travelers Are Already Seeking It Out
 
 [原文] The island nation draws 1.2 million tourists a year — mostly from Europeans on all-inclusive packages. That won't change overnight, but it may bring awareness to Americans who struggle to place the is
 
 📎 [阅读原文](https://skift.com/2026/07/03/cabo-verde-world-cup-tourism-surge/) — *Skift*
 
-### 3. Turkey Quietly Built One of the World’s Most Complete Travel Tech Stacks
+### 4. Turkey Quietly Built One of the World’s Most Complete Travel Tech Stacks
 
 [原文] Durable travel tech is forged by hard operating conditions, not venture capital and conference circuits, and Turkey is the proof.
 
 📎 [阅读原文](https://skift.com/2026/07/03/turkey-quietly-built-one-of-the-worlds-most-complete-travel-tech-stacks/) — *Skift*
 
-### 4. Marriott Outspends Rivals on TV, But Airbnb Owns the World Cup
+### 5. Marriott Outspends Rivals on TV, But Airbnb Owns the World Cup
 
 [原文] Marriott outspent every hotel brand on national TV, yet Airbnb's World Cup ads have out-reached Marriott's so far. Marketers should note that focus, rather than budget, wins marquee experiences.
 
 📎 [阅读原文](https://skift.com/2026/07/02/marriott-outspends-rivals-on-tv-but-airbnb-owns-the-world-cup/) — *Skift*
-
-### 5. OTAs Are Betting on Traveler Trust. But the Scramble Is On to Win the Trust of AI Agents
-
-[原文] Whether or not travelers trust AI would almost be irrelevant to OTAs if the LLMs don't trust them enough to surface their inventory for discovery.  The contest is on behind-the-scenes battle to become
-
-📎 [阅读原文](https://skift.com/2026/07/02/otas-are-betting-on-traveler-trust-but-the-scramble-is-on-to-win-the-trust-of-ai-agents/) — *Skift*
 
 ---
 
@@ -515,7 +515,7 @@ The post The McMurtry Speirling Owner Application Is Delightfully Simple appeare
 - **💰 经济财经**: CNBC
 - **💻 科技**: TechCrunch
 - **🔬 科学**: Science Daily
-- **⚽ 体育**: BBC Sport
+- **⚽ 体育**: ESPN
 - **🎬 娱乐**: Variety
 - **🏥 健康**: WHO
 - **🎮 游戏**: IGN
