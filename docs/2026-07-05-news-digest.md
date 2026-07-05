@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月05日** | 生成时间: 2026-07-05 11:49
+**2026年07月05日** | 生成时间: 2026-07-05 16:58
 
 ---
 
@@ -16,11 +16,11 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Brutal heat cancels Fourth of July events, from DC to Philadelphia
+### 1. US marks 250th birthday with fireworks, flyovers and extreme weather
 
-[原文] More than 165 million people are enduring dangerous heat and humidity, with temperatures expected to stay at 38C (100F) for several days.
+[原文] US President Donald Trump's speech included some of his political agenda but also honoured war veterans and American history.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 2. Ukraine hits major oil terminal in Russia's St Petersburg
 
@@ -28,11 +28,11 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral
+### 3. Chinese underground church figure Jin Mingri freed from prison
 
-[原文] Ali Khamenei's body will lie in state in Tehran's Grand Mosalla until Monday, before travelling across Iran and Iraq.
+[原文] The Zion Church founder's release comes after a direct plea to Xi Jinping from Donald Trump.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c4gy51ky75vo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 4. Former chess champion Kramnik banned over cheating remarks
 
@@ -40,11 +40,11 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cd6epx607dqo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Injury ends Williams' Wimbledon comeback
+### 5. Moment of destiny for France's Le Pen in verdict to decide her future in presidential race
 
-[原文] Serena Williams pulls out of her planned Wimbledon doubles appearance with older sister Venus because of a knee injury.
+[原文] Far-right leader Marine Le Pen is appealing against a verdict which found her guilty of misusing EU funds.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/ce95mxn1rlmo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -130,35 +130,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. New calculator reveals whether you should really worry about statin side effects
+### 1. NASA's Hubble spots a stellar sparkler for the Fourth of July
 
-[原文] Scientists at the University of Oxford have created a calculator that predicts a person's individual risk of serious muscle disorders from statin medications. Their analysis found that more than 98% o
+[原文] NASA's Hubble Space Telescope has captured a spectacular red, white, and blue view of one of the Milky Way's oldest star clusters to celebrate the nation's 250th anniversary. Hidden within the ancient
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260630020549.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260704232642.htm) — *Science Daily*
 
-### 2. Scientists discover a completely different way to fight viruses
+### 2. NASA's Hubble captures a crimson stellar nursery sparkling with blue and white stars
 
-[原文] Researchers have uncovered an unexpected antiviral defense system in sea anemones that works very differently from the one humans use. The discovery suggests evolution developed multiple ways to comba
+[原文] Hubble has captured a spectacular view of LH 95, where about 2,500 young stars are still on their journey to becoming full-fledged stars. Scientists discovered these growing stars can keep pulling in 
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260630020534.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260704232639.htm) — *Science Daily*
 
-### 3. Scientists may have finally found how Alzheimer's spreads through the brain
+### 3. NASA's Hubble captures a star-spangled sea of 500,000 stars
 
-[原文] A common brain protein may be giving Alzheimer’s disease an unexpected way to spread, carrying toxic Tau proteins from damaged neurons into healthy ones. By blocking these harmful protein packages bef
+[原文] Celebrating the United States' 250th anniversary, NASA released a stunning Hubble portrait of Messier 3, an ancient globular cluster with more than 500,000 stars. The remarkable cluster is helping sci
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260630020521.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260704232634.htm) — *Science Daily*
 
-### 4. Scientists say creatine may help fight depression
+### 4. NASA celebrates America's 250th birthday with incredible views of space
 
-[原文] Creatine is best known as a muscle-building supplement, but scientists are now investigating whether it could also help treat depression by boosting the brain's energy supply. A new review examined fi
+[原文] NASA is marking the United States' 250th birthday with four striking red, white, and blue images of deep space from the Chandra X-ray Observatory. The collection features an exploded star, a stellar n
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260630020231.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260702230859.htm) — *Science Daily*
 
-### 5. A strange LIGO signal could reveal the missing link behind dark matter
+### 5. New research reveals the hidden pollution left behind by fireworks
 
-[原文] An unusual gravitational wave signal has renewed hopes that primordial black holes, long considered purely theoretical, may finally be within reach of discovery. If confirmed, they could solve one of 
+[原文] Scientists have uncovered new evidence that fireworks can pollute both the air and water in ways that extend beyond the visible smoke. The findings show that leftover debris, fine particles, and airbo
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/06/260626125703.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260701205009.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. France pass toughest World Cup test yet in beating...
+### 1. England enter the Azteca - where football kings are crowned
 
-[原文] France haven't really been challenged yet at this World Cup in the way Paraguay tested them Sunday, but Mbappe & Co. were able to stay cool in the sweltering heat and advance to the quarterfinals.
+[原文] BBC sport explores the history and cultural power of the Azteca, one of the great cathedrals of world football, as England prepare to face Mexico there in the last 16 of the World Cup.
 
-📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49272197/france-kylian-mbappe-paraguay-world-cup-reaction-analysis) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cg74e324835o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. France's Mbappé calls Paraguay tactics 'ugly'
+### 2. France survive Paraguay's 'disgraceful' and 'embarrassing' dark arts
 
-[原文] Kylian Mbappé warned future World Cup opponents that France are ready to "play ugly" and get their "hands dirty" after brushing off Paraguay's provocations in a heated 1-0 round-of-16 victory,
+[原文] After dismantling all before them at this World Cup, France had to find a new way to win against a Paraguay side whose use of the dark arts angered many of those watching.
 
-📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49272367/france-kylian-mbappe-paraguay-tactics-get-our-hands-dirty) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cn4dpd11v1eo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Ohtani, Freeman lead Dodgers' 4 All-Star starters
+### 3. Why England won't fear Mexico or the Azteca - Shearer
 
-[原文] Shohei Ohtani will be joined by three Los Angeles teammates in the NL's starting lineup, while the Dodgers, Braves and Phillies will each send five players to the July 14 All-Star Game.
+[原文] Former England captain Alan Shearer explains why Thomas Tuchel's team will not be worried about the difficult conditions when they play Mexico at the Azteca Stadium.
 
-📎 [阅读原文](https://www.espn.com/mlb/story/_/id/49272621/ohtani-freeman-lead-dodgers-four-starters-all-star-game) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c4gy0l7x25wo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. All-Star Alvarez walks off Rays in multi-HR night
+### 4. Boks unleash big-game brutality on Borthwick's faltering England
 
-[原文] Yordan Alvarez added to his AL home run lead with a walk-off against the Rays on Saturday night, his second homer of the night.
+[原文] Defeat by South Africa can, and does, happen to any team in world rugby, but England need to stop their losing streak soon.
 
-📎 [阅读原文](https://www.espn.com/mlb/story/_/id/49273382/astros-star-yordan-alvarez-walks-rays-multi-hr-night) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-union/articles/cz752234r45o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Sources: Ewing joining Wizards as assistant coach
+### 5. Hodgkinson beaten into second by Odira in Eugene
 
-[原文] Georgetown and New York Knicks legend Patrick Ewing agreed to become an assistant coach for the Washington Wizards and head coach Brian Keefe, sources told ESPN on Saturday.
+[原文] Olympic 800m champion Keely Hodgkinson was beaten for the second consecutive Diamond League race as she finished behind Lilian Odira in Eugene.
 
-📎 [阅读原文](https://www.espn.com/nba/story/_/id/49272641/sources-patrick-ewing-joins-brian-keefe-wizards-staff-assistant) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/clyrpp0v0nqo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘The Pitt’ Star Noah Wyle Was Offered Roles in ‘Saving Private Ryan’ and ‘Good Night, and Good Luck’ but ‘Couldn’t Get Out’ of Filming ‘ER’
+### 1. Tauron American Film Festival Readies for 17th Edition – and U.S. in Progress Continues to Be an ‘Essential Part of the Fabric of American Independent Cinema’
+
+[原文] Poland’s Tauron American Film Festival will celebrate its 17th&#160;edition from Nov. 17-22 – and its industry sidebar U.S. in Progress will, once again, connect European buyers and Polish post-produc
+
+📎 [阅读原文](https://variety.com/2026/film/global/tauron-american-film-festival-us-in-progress-poland-1236801791/) — *Variety*
+
+### 2. ‘Murciélago’ Manga Gets 2027 TV Anime Adaptation on HIDIVE
+
+[原文] Yoshimura Kana&#8217;s manga &#8220;Murciélago&#8221; is being adapted into a TV anime set to premiere in 2027, with HIDIVE announcing exclusive streaming rights for the U.S., Canada and several other
+
+📎 [阅读原文](https://variety.com/2026/tv/news/murcielago-manga-tv-anime-adaptation-hidive-1236801853/) — *Variety*
+
+### 3. ‘The Pitt’ Star Noah Wyle Was Offered Roles in ‘Saving Private Ryan’ and ‘Good Night, and Good Luck’ but ‘Couldn’t Get Out’ of Filming ‘ER’
 
 [原文] “The Pitt” star Noah Wyle recently told the “Still Here Hollywood” podcast that he missed out on roles in “Saving Private Ryan” and “Good Night, and Good Luck” because he couldn’t get out of filming t
 
 📎 [阅读原文](https://variety.com/2026/film/news/the-pitt-noah-wyle-saving-private-ryan-er-1236801812/) — *Variety*
 
-### 2. Vin Diesel Shares Behind-the-Scenes Look at ‘Fast Forever’: ‘We’ve Been Grinding’
+### 4. Vin Diesel Shares Behind-the-Scenes Look at ‘Fast Forever’: ‘We’ve Been Grinding’
 
 [原文] Vin Diesel took to Instagram on Thursday to give fans a behind-the-scenes look at “Fast Forever,” the 11th and final film in “The Fast and Furious” franchise. It hits theaters on March 17, 2028. “I’m 
 
 📎 [阅读原文](https://variety.com/2026/film/news/vin-diesel-behind-the-scenes-fast-forever-1236801804/) — *Variety*
 
-### 3. Abdullah Mason vs. Albert Bell Boxing Livestream: How to Watch TNT Sports’ ‘The Fight’ Online for Free
+### 5. Abdullah Mason vs. Albert Bell Boxing Livestream: How to Watch TNT Sports’ ‘The Fight’ Online for Free
 
 [原文] Boxing fans are celebrating Independence Day with a big made-for-TV event tonight, as WBO champion Abdullah Mason defends his lightweight title against Albert Bell live from Cleveland. The title fight
 
 📎 [阅读原文](https://variety.com/2026/shopping/news/abdullah-mason-albert-bell-boxing-fight-free-stream-online-1236801043/) — *Variety*
-
-### 4. ‘I Will Find You’ Star Britt Lower on Rachel’s ‘Spidey Sense’ and Why [SPOILER] as the Murderous Villain Was ‘Perfect Casting’
-
-[原文] SPOILER ALERT: This story includes key storylines and details about “I Will Find You,” now streaming on&#160;Netflix. Harlan Coben’s latest Netflix murder mystery series, “I Will Find You,” appears to
-
-📎 [阅读原文](https://variety.com/2026/streaming/columns/i-will-find-you-britt-lower-rachel-netflix-milo-ventimiglia-1236801455/) — *Variety*
-
-### 5. Inside Taylor Swift and Travis Kelce’s Wedding: Everything We Learned About the Star-Studded Ceremony at Madison Square Garden
-
-[原文] As you’ve probably heard, Taylor Swift and Travis Kelce got married on Friday and summoned a firestorm of non-stop media coverage. In case you’ve had a hard time keeping pace, let this be your guide t
-
-📎 [阅读原文](https://variety.com/2026/music/news/taylor-swift-travis-kelce-wedding-guest-gifts-stevie-nicks-1236801759/) — *Variety*
 
 ---
 
@@ -515,7 +515,7 @@ The post The McMurtry Speirling Owner Application Is Delightfully Simple appeare
 - **💰 经济财经**: CNBC
 - **💻 科技**: TechCrunch
 - **🔬 科学**: Science Daily
-- **⚽ 体育**: ESPN
+- **⚽ 体育**: BBC Sport
 - **🎬 娱乐**: Variety
 - **🏥 健康**: WHO
 - **🎮 游戏**: IGN
@@ -528,7 +528,7 @@ The post The McMurtry Speirling Owner Application Is Delightfully Simple appeare
 ## ⚠️ 今日故障源
 
 - **🚗 汽车**: Roadshow, Autocar
-- **✈️ 旅游**: Nomadic Matt, Travel Off Path
+- **✈️ 旅游**: Nomadic Matt
 
 ---
 
