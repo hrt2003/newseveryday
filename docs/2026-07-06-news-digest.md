@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月06日** | 生成时间: 2026-07-06 03:23
+**2026年07月06日** | 生成时间: 2026-07-06 11:56
 
 ---
 
@@ -22,29 +22,29 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. US marks 250th birthday with fireworks, flyovers and extreme weather
+### 2. Watch: Lyse Doucet on emotion and politics at Tehran funeral of former supreme leader
 
-[原文] US President Donald Trump's speech included some of his political agenda but also honoured war veterans and American history.
+[原文] The BBC's chief international correspondent reports from Tehran where funeral events are taking place in honour of Iran's former leader, Ayatollah Ali Khamenei.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/videos/c4gyye3rplno?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding
+### 3. Marine Le Pen appeal verdict: Why this moment matters for France
+
+[原文] The leader of France's National Rally leads the opinion polls ahead of the 2027 presidential election and will now find out if she can stand.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/clyeele4leeo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. A global hub for fake luxury goods, Vietnam cracks down on its black market
+
+[原文] The Trump administration wants Vietnam to stamp out its booming counterfeit industry. Locals are divided.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cdx7zzywz7wo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding
 
 [原文] Some of the famous guests have been posting on social media about the big day in New York.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/clyxxr9n2kjo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Evacuations in Guam as super typhoon Bavi approaches
-
-[原文] The storm is forecast to bring winds in excess of 160mph and waves nearly 11m high when it makes landfall on Monday.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Australia probes mystery space balls that washed up on beach
-
-[原文] Officials are searching for the origins of six pieces of space debris discovered on Forrest Beach in Queensland.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c1jyydr7jnjo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. From Macron to Modi, governments are rolling out the red carpet for AI giants
+### 1. Lockheed Martin leading race for $3.5 billion purchase of naval defense firm Ultra Maritime
 
-[原文] Macron and Modi are courting tech CEOs as France and India seek AI data center investment and cloud infrastructure.
+[原文] Ultra is owned by private equity firm Advent International, and specialises in anti-submarine technology.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/04/macron-modi-ai-infrastructure-tech-ceos.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/06/lockheed-martin-leading-race-for-3point5-billion-buy-of-ultra-maritime-.html) — *CNBC*
 
-### 2. Cargo vessel in Red Sea reports coming under attack, UK maritime body says
+### 2. Trump asked FIFA to review Balogun's World Cup game suspension: Reports
 
-[原文] The incident was reported in one of the world's most crucial trade transit routes amid a fragile ceasefire between Iran and the U.S.
+[原文] Folarin Balogun was surprisingly cleared by FIFA to play for the United States Men's National Team in the World Cup against Belgium on Monday.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/05/cargo-vessel-in-red-sea-reports-attack-uk-maritime-body-says.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/05/trump-fifa-balogun-world-cup-red-card-suspension.html) — *CNBC*
 
-### 3. Trump Accounts for kids launched July 4: What parents need to know
+### 3. Nvidia's next-gen AI rack system delayed to 2028 on manufacturing snags, SemiAnalysis says
+
+[原文] The reported delay adds to concerns that Nvidia's breakneck annual release cadence is colliding with manufacturing limits.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/06/nvidia-kyber-rack-system-delays-manufacturing-taiwan-rubin-chips-.html) — *CNBC*
+
+### 4. Trump Accounts for kids launched July 4: What parents need to know
 
 [原文] Here's a breakdown of how Trump Accounts work, who qualifies for free money and when the funds can be withdrawn.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/01/trump-accounts-launch-july-4.html) — *CNBC*
 
-### 4. Top Wall Street analysts prefer these dividend stocks for boosting portfolio returns
+### 5. World Cup fans spent anywhere from $2,500 to $150,000 to see matches—they say it was worth it
 
-[原文] With thousands of dividend-paying companies to choose from, identifying the right stocks can be challenging.
+[原文] Soccer fans heading to World Cup matches at MetLife Stadium shared how much they expected to spend with CNBC Make It outside New York's Penn Station.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/05/analysts-prefer-these-dividend-stocks-for-boosting-portfolio-returns.html) — *CNBC*
-
-### 5. The World Cup sends prediction market volumes soaring to record highs
-
-[原文] Trading volumes on Kalshi and Polymarket both hit record highs in June. Rothera, a new prediction market platform, was also able to manage $2 billion in volume.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/04/2026-fifa-world-cup-boosts-prediction-market-volumes.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/05/world-cup-fans-spent-anywhere-from-2500-to-150000-to-see-matches.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Amazon will stop accepting new customers for Mechanical Turk
+### 1. Uber’s European expansion plans may have hit a speed bump
+
+[原文] Back in February, Uber announced ambitious plans to launch in seven new European markets in 2026 — but now five of those launches are reportedly on hold.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/05/ubers-european-expansion-plans-may-have-hit-a-speed-bump/) — *TechCrunch*
+
+### 2. Trump memecoin investors lost $3.8 billion, analysis finds
+
+[原文] Nearly 1 million people have lost a total of $3.8 billion after buying President Donald Trump’s $TRUMP memecoin, while Trump made $636 million.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/05/trump-memecoin-investors-lost-3-8-billion-analysis-finds/) — *TechCrunch*
+
+### 3. Amazon will stop accepting new customers for Mechanical Turk
 
 [原文] These may be the last days of Amazon’s Mechanical Turk.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/) — *TechCrunch*
 
-### 2. 5 desk gadgets that can make your workday better
+### 4. 5 desk gadgets that can make your workday better
 
 [原文] The right desk gadgets can help you reduce clutter, stay focused, and add a little extra convenience to your day.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/05/5-desk-gadgets-that-can-make-your-workday-better/) — *TechCrunch*
 
-### 3. What is Bending Spoons? The little-known AOL and Vimeo owner that’s now public
+### 5. What is Bending Spoons? The little-known AOL and Vimeo owner that’s now public
 
 [原文] Bending Spoons remains largely unknown, even as its portfolio of products has served more than a billion people.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/05/what-is-bending-spoons-everything-to-know-about-aols-acquirer/) — *TechCrunch*
-
-### 4. Almost 90 new unicorns have been minted so far this year — here they are
-
-[原文] With AI igniting an investor frenzy, more startups are achieving unicorn status every month.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/) — *TechCrunch*
-
-### 5. New Google commercial imagines a Declaration of Independence written with help from AI
-
-[原文] Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?
-
-📎 [阅读原文](https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. FIFA suspends Balogun red card, can face Belgium
+### 1. Who produced another iconic performance? England player ratings
 
-[原文] FIFA has suspended the red card U.S. striker Folarin Balogun received in the team's match against Bosnia-Herzegovina, making him available to face Belgium in the round of 16 at the World Cup.
+[原文] BBC Sport England reporter Alex Howell rates how the Three Lions players performed in the last-16 win over Mexico.
 
-📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49277378/usmnt-folarin-balogun-red-card-suspended-belgium) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cp8r40y5r9eo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Osaka overpowers No. 1 Sabalenka at Wimbledon
+### 2. The man England will fear most - Haaland fires Norway to history
 
-[原文] In a matchup of two of the hardest hitters on tour, Naomi Osaka outslugged top-ranked Aryna Sabalenka 6-2, 7-6 (2) to reach the Wimbledon quarterfinals for the first time.
+[原文] Erling Haaland has scored seven goals in four World Cup games and he is the striker that nobody wants to face as he fires Norway into an historic quarter-final.
 
-📎 [阅读原文](https://www.espn.com/tennis/story/_/id/49278057/naomi-osaka-overpowers-aryna-sabalenka-reach-wimbledon-quarterfinals) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cwy006zywj8o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. C's Robinson: Playoff injury followed family issue...
+### 3. Ageing Brazil need major surgery - but is Ancelotti the man to do it?
 
-[原文] New Celtics center Mitchell Robinson addressed the hand injury that put his status for the start of the Knicks' NBA Finals appearance in doubt, saying he was hurt after reacting to a family member bei
+[原文] There was nothing unlucky about Brazil's loss to Norway in the last 16 of the World Cup and their exit at this stage is an unmitigated disaster, writes Tim Vickery.
 
-📎 [阅读原文](https://www.espn.com/nba/story/_/id/49276080/mitchell-robinson-playoff-injury-was-reaction-family-incident) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c20yywnqwl5o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Twins star Buxton leaves game with hip injury
+### 4. Penalty? Red card? Why were they given against England?
 
-[原文] Twins All-Star center fielder Byron Buxton left Sunday's game against the Yankees following the first inning after reaggravating a hip injury.
+[原文] Why did England have Jarell Quansah sent off and a penalty awarded against them in their thrilling World Cup last-16 match with Mexico?
 
-📎 [阅读原文](https://www.espn.com/mlb/story/_/id/49278337/twins-all-star-byron-buxton-leaves-game-hip-injury) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cq6115rj9ymo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Novak wins 106th Wimbledon match, into quarters
+### 5. Red card system in disarray over Trump, Fifa and Balogun decision
 
-[原文] Novak Djokovic won his 106th career singles match at Wimbledon on Sunday, breaking a tie with Roger Federer for the most by any man in tournament history and vaulting him into the quarterfinals.
+[原文] The decision to effectively overturn the red card shown to United States forward Folarin Balogun leaves many unanswered questions.
 
-📎 [阅读原文](https://www.espn.com/tennis/story/_/id/49277029/novak-djokovic-reaches-quarterfinals-men-record-106th-wimbledon-win) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cly99dxjkxxo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Ed Gamble on His New Panel Show ‘Unacceptable’ and the State of U.K. Comedy: ‘There Are Hard Jobs Out There and Being a Comedian Is Absolutely Not One of Them’
+### 1. ‘House of the Dragon’ Star Steve Toussaint Teases Consequences of Corlys’ ‘Very Dangerous’ Request of Rhaenyra
 
-[原文] Ed Gamble is the host of brand new comedy show “Unacceptable,” where he oversees a gaggle of comedians as they battle to sway the studio audience to side with their most outrageous opinions. The comed
+[原文] SPOILER ALERT:&#160;This article contains spoilers for Season 3, Episode 3 of “House of the Dragon,” now streaming on HBO Max. Queen Rhaenyra Targaryen got a slap in the face from her hand of the quee
 
-📎 [阅读原文](https://variety.com/2026/tv/global/ed-gamble-panel-show-unacceptable-tlc-1236771415/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/features/house-of-the-dragon-corlys-rhaenyra-sons-bastards-1236800257/) — *Variety*
 
-### 2. ‘Elle’ Director Jason Moore on Reese Witherspoon’s Set Visit, Season 2’s Archival-Only Wardrobe and What ‘Hardcore’ Fans Can Expect From ‘Murder, She Wrote’ Movie
+### 2. ‘The Vampire Lestat’ Costume Designer Breaks Down Lestat’s Rockstar Wardrobe and the Season’s Hidden Easter Eggs
 
-[原文] Film, television and Broadway director Jason Moore knows what’s old is new again. The Tony-nominee not only directed the first two episodes of the Prime Video “Legally Blonde” prequel series “Elle,” b
+[原文] SPOILER ALERT:&#160;This post contains spoilers from “New York,” the fifth episode of “The Vampire Lestat,” now streaming on AMC+. When costume designer Lex Wood started planning the wardrobe for “The
 
-📎 [阅读原文](https://variety.com/2026/tv/columns/elle-director-reese-witherspoon-set-visit-season-2-wardrobe-murder-she-wrote-movie-1236801951/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/the-vampire-lestat-costume-designer-wardrobe-easter-eggs-1236800981/) — *Variety*
 
-### 3. Diljit Dosanjh’s ‘Satluj’ Pulled From India by ZEE5 Two Days After Release, Platform Says Film ‘Unavailable Until Further Notice’
+### 3. Bruce Springsteen Says He’s a ‘Patriot’ for Standing Up to Trump: ‘I Believe in Critical Patriotism’
 
-[原文] UPDATED: ZEE5 has removed &#8220;Satluj,&#8221; the Diljit Dosanjh-starrer inspired by human rights activist Jaswant Singh Khalra, from its Indian catalogue less than two days after the film&#8217;s J
+[原文] Bruce Springsteen said during his recent PBS special, “Bruce Springsteen: Finding America in Song,” that being a true patriot is all about coming face-to-face with America’s flaws and encouraging the 
 
-📎 [阅读原文](https://variety.com/2026/tv/news/diljit-dosanjh-satluj-punjab-95-uncut-zee5-global-1236801418/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/bruce-springsteen-patriot-standing-up-to-trump-1236802109/) — *Variety*
 
-### 4. Harvey Keitel Shooting Film Written by Wife Daphna Kastner, Calls Out ‘Danger’ of AI When Mentioning Michael Caine AI-Narrated ‘The Odyssey’ Audiobook
+### 4. Tom Holland Thought Christopher Nolan Hated His ‘Odyssey’ Performance on His First Day Filming: ‘I Thought I Was Totally S—-ing the Bed’
 
-[原文] Harvey Keitel, who is at the Karlovy Vary Film Festival for the third time to present a screening of Martin Scorsese’s “Mean Streets,” has revealed he is shooting a new film written by his wife, actor
+[原文] Tom Holland recently told Fandango that he thought director Christopher Nolan hated his performance on his first day filming &#8220;The Odyssey&#8221; because he kept calling cut. In reality, Nolan&#8
 
-📎 [阅读原文](https://variety.com/2026/film/global/harvey-keitel-daphna-kastner-ai-michael-caine-1236801929/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/tom-holland-christopher-nolan-hated-odyssey-performance-1236801979/) — *Variety*
 
-### 5. Box Office: ‘Obsession’ Surpasses $400 Million Globally
+### 5. Ateez Lands Third No. 1 on Albums Chart With ‘Golden Hour : Part.5’
 
-[原文] &#8220;Obsession&#8221; has notched another major box office milestone, clearing $400 million in global ticket sales. After two months in theaters, the indie horror breakout has grossed a remarkable $
+[原文] K-pop group Ateez has scored its third No. 1 on the Billboard 200 with &#8220;Golden Hour : Part.5.&#8221; The album starts with 228,000 equivalent album units, with 223,000 accounting for pure album 
 
-📎 [阅读原文](https://variety.com/2026/film/box-office/obsession-box-office-milestone-400-million-globally-1236801943/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/ateez-lands-third-no-1-albums-chart-golden-hour-part-5-1236801984/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Green Yuri Anime Confirms Nirvana Song for Its Opening Theme, and Dave Grohl Says Kurt Cobain Would Have Loved It
+### 1. House of the Dragon Season 3, Episode 3 Recap and Review
 
-[原文] CloverWorks has revealed its new anime, The Guy She Was Interested in Wasn't a Guy at All (a.k.a. Green Yuri), will feature a Nirvana song as its opening theme, and according to Dave Grohl, Kurt Cobai
+[原文] Seasoned Westeros watchers will see potential problems arising with each scene of this episode. Everywhere Rhaenyra turns there’s someone looking for a piece of her (rodent bites both literal and figu
 
-📎 [阅读原文](https://www.ign.com/articles/green-yuri-anime-confirms-nirvana-song-for-its-opening-theme-and-dave-grohl-says-kurt-cobain-would-have-loved-it) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/house-of-the-dragon-season-3-episode-3-recap-and-review) — *IGN*
 
-### 2. The Mario 64 Bounty That Took 30 Years to Settle
+### 2. The Vampire Lestat Showrunner Explains How Lestat's Musical Journey Is 'Just as Important' as the Queen of the Damned's Awakening
 
-[原文] It's been 30 years since we posted our bounty about unlocking Luigi in Mario 64, so it’s time to finish this. Let’s settle our debt once and for all.
+[原文] Rolin Jones discusses the essential role of music on Lestat’s past and present — and how he wanted it to mirror the Queen of the Damned's awakening — in Episode 5, "New York."
 
-📎 [阅读原文](https://www.ign.com/articles/the-mario-64-bounty-that-took-30-years-to-settle) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/the-vampire-lestat-showrunner-interview-episode-5-new-york) — *IGN*
 
-### 3. Exclusive: First Details and Trailer Revealed for BEYOND BORDERS Vol.1: EMERGE MODE MIKU, a New EP Featuring Hatsune Miku Singing With Grimes, slayr, and More
+### 3. Supergirl Inches Past $100 Million at the Global Box Office After One of the Biggest Second Weekend Drops in Superhero Movie History
 
-[原文] IGN can exclusively reveal the first details and trailer for BEYOND BORDERS Vol.1: EMERGE MODE MIKU, a new collaboration EP that will pair virtual singer superstar Hatsune Miku with such artists as Gr
+[原文] Supergirl has managed to inch past $100 million at the global box office, but its second weekend in theaters also saw it secure one of the biggest drops in superhero movie history.
 
-📎 [阅读原文](https://www.ign.com/articles/exclusive-first-details-and-trailer-revealed-for-beyond-borders-vol1-emerge-mode-miku-a-new-ep-featuring-hatsune-miku-singing-with-grimes-slayr-and-more) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/supergirl-inches-past-100-million-at-the-global-box-office-after-one-of-the-biggest-second-weekend-drops-in-superhero-movie-history) — *IGN*
 
-### 4. Solo Leveling: Beyond the System Movie Announced at Anime Expo
+### 4. Star Trek 4: The Voyage Home 40th Anniversary Re-Release Confirmed for the UK
 
-[原文] After two seasons, the anime series Solo Leveling will continue its story with a full-length movie adaptation, Solo Leveling: Beyond the System
+[原文] Admiral Kirk and Spock are Earth-bound once more, as Star Trek 4: The Voyage Home is set to return to theaters for its 40th anniversary.
 
-📎 [阅读原文](https://www.ign.com/articles/solo-leveling-beyond-the-system-movie-announced-at-anime-expo) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/star-trek-4-the-voyage-home-40th-anniversary-re-release-confirmed-for-the-uk) — *IGN*
 
-### 5. Young Washington Review
+### 5. The Best Deals Today: M2 iPad Air, Criterion Collection, Ys X: Nordics, and More
 
-[原文] Young Washington’s epic ambition clearly exceeded its limited grasp to realize its grand vision. It’s an earnest but cursory exploration of the first US President’s early years as a wannabe British of
+暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/young-washington-review) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/best-deals-for-july-5-2026) — *IGN*
 
 ---
 
@@ -515,7 +515,7 @@ The post Russian Engineering Madmen Create Turbo-Style Alternator Driven by Exha
 - **💰 经济财经**: CNBC
 - **💻 科技**: TechCrunch
 - **🔬 科学**: Science Daily
-- **⚽ 体育**: ESPN
+- **⚽ 体育**: BBC Sport
 - **🎬 娱乐**: Variety
 - **🏥 健康**: WHO
 - **🎮 游戏**: IGN
