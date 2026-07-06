@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月06日** | 生成时间: 2026-07-06 11:56
+**2026年07月06日** | 生成时间: 2026-07-06 18:44
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Iran's supreme leader absent as senior officials attend ayatollah's funeral
+### 1. Ukraine warns of interceptor missile shortage as 15 killed in Kyiv region
 
-[原文] Mojtaba Khamenei has not been seen in public since the attack which killed his father at the outset of the US-Israel war with Iran.
+[原文] President Zelensky says Sunday's "massive Russian attack" on Kyiv consisted of 68 missiles and 351 strike drones.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Watch: Lyse Doucet on emotion and politics at Tehran funeral of former supreme leader
+### 2. 'I ate ketchup and cheese,' says Venezuelan girl trapped under quake rubble for 32 hours
 
-[原文] The BBC's chief international correspondent reports from Tehran where funeral events are taking place in honour of Iran's former leader, Ayatollah Ali Khamenei.
+[原文] Fabiana was trapped in the rubble of a 10-storey residential building after two earthquakes rocked Venezuela in June.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/videos/c4gyye3rplno?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c9922x87nj8o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Marine Le Pen appeal verdict: Why this moment matters for France
+### 3. Australian PM apologises for 'inappropriate' comments about Kylie Minogue
+
+[原文] Albanese has apologised 'unequivocally' after his remarks prompted a backlash.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cr477en6w3go?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. Marine Le Pen appeal verdict: Why this moment matters for France
 
 [原文] The leader of France's National Rally leads the opinion polls ahead of the 2027 presidential election and will now find out if she can stand.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/clyeele4leeo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. A global hub for fake luxury goods, Vietnam cracks down on its black market
+### 5. A global hub for fake luxury goods, Vietnam cracks down on its black market
 
 [原文] The Trump administration wants Vietnam to stamp out its booming counterfeit industry. Locals are divided.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cdx7zzywz7wo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding
-
-[原文] Some of the famous guests have been posting on social media about the big day in New York.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/clyxxr9n2kjo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Lockheed Martin leading race for $3.5 billion purchase of naval defense firm Ultra Maritime
-
-[原文] Ultra is owned by private equity firm Advent International, and specialises in anti-submarine technology.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/06/lockheed-martin-leading-race-for-3point5-billion-buy-of-ultra-maritime-.html) — *CNBC*
-
-### 2. Trump asked FIFA to review Balogun's World Cup game suspension: Reports
+### 1. Belgium set to appeal as FIFA reverses Balogun's World Cup suspension after Trump reportedly intervenes
 
 [原文] Folarin Balogun was surprisingly cleared by FIFA to play for the United States Men's National Team in the World Cup against Belgium on Monday.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/05/trump-fifa-balogun-world-cup-red-card-suspension.html) — *CNBC*
 
-### 3. Nvidia's next-gen AI rack system delayed to 2028 on manufacturing snags, SemiAnalysis says
+### 2. Trump's calls, Ukraine's strikes and Russia's barrage on Kyiv put markets on alert
 
-[原文] The reported delay adds to concerns that Nvidia's breakneck annual release cadence is colliding with manufacturing limits.
+[原文] Trump reportedly spoke with Putin and Zelenskyy as Ukraine struck Russian targets and Moscow launched another deadly attack on Kyiv.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/06/nvidia-kyber-rack-system-delays-manufacturing-taiwan-rubin-chips-.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/06/ukraine-russia-kyiv-trump-putin-zelenskyy.html) — *CNBC*
 
-### 4. Trump Accounts for kids launched July 4: What parents need to know
+### 3. Record heat, crowds drive offseason boom in international travel
 
-[原文] Here's a breakdown of how Trump Accounts work, who qualifies for free money and when the funds can be withdrawn.
+[原文] Airlines are extending flight schedules to maximize on lucrative international travel.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/01/trump-accounts-launch-july-4.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/06/travel-off-season-boom-in-flights-airlines-hotels.html) — *CNBC*
 
-### 5. World Cup fans spent anywhere from $2,500 to $150,000 to see matches—they say it was worth it
+### 4. Why Iran may find it difficult to clear its oil inventories even after sanctions relief
 
-[原文] Soccer fans heading to World Cup matches at MetLife Stadium shared how much they expected to spend with CNBC Make It outside New York's Penn Station.
+[原文] Iran may face challenges in clearing oil inventories even after restrictions have been lifted, amid oil supplies elsewhere while China becomes less enthusiastic
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/05/world-cup-fans-spent-anywhere-from-2500-to-150000-to-see-matches.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/06/iran-oil-supply-hormuz-china-energy.html) — *CNBC*
+
+### 5. Feds seek lower prison term for $100M New Jersey deli fraudster — but some reasons why are hidden
+
+[原文] James Patten is the third person who will be sentenced in the stock manipulation scheme related to Hometown International, a company that owned just one deli.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/03/new-jersey-deli-stockfraud-sentence-patten.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Uber’s European expansion plans may have hit a speed bump
+### 1. Smart glasses maker Even Realities hits $1B valuation with $150M funding led by Meituan, Tencent
+
+[原文] Even Realities, an ex-Apple team building camera-free smart glasses, raised $150M from Meituan and Tencent at a $1B valuation.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/) — *TechCrunch*
+
+### 2. This humanoid robotics company is going public, but its CEO isn’t promising a robot in your home anytime soon
+
+[原文] While other humanoid startups chase sky-high valuations, Agility Robotics is betting its future on execution — and a SPAC.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/05/this-humanoid-robotics-company-is-going-public-but-its-ceo-isnt-promising-a-robot-in-your-home-anytime-soon/) — *TechCrunch*
+
+### 3. Uber’s European expansion plans may have hit a speed bump
 
 [原文] Back in February, Uber announced ambitious plans to launch in seven new European markets in 2026 — but now five of those launches are reportedly on hold.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/05/ubers-european-expansion-plans-may-have-hit-a-speed-bump/) — *TechCrunch*
 
-### 2. Trump memecoin investors lost $3.8 billion, analysis finds
+### 4. Trump memecoin investors lost $3.8 billion, analysis finds
 
 [原文] Nearly 1 million people have lost a total of $3.8 billion after buying President Donald Trump’s $TRUMP memecoin, while Trump made $636 million.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/05/trump-memecoin-investors-lost-3-8-billion-analysis-finds/) — *TechCrunch*
 
-### 3. Amazon will stop accepting new customers for Mechanical Turk
+### 5. Amazon will stop accepting new customers for Mechanical Turk
 
 [原文] These may be the last days of Amazon’s Mechanical Turk.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/) — *TechCrunch*
-
-### 4. 5 desk gadgets that can make your workday better
-
-[原文] The right desk gadgets can help you reduce clutter, stay focused, and add a little extra convenience to your day.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/05/5-desk-gadgets-that-can-make-your-workday-better/) — *TechCrunch*
-
-### 5. What is Bending Spoons? The little-known AOL and Vimeo owner that’s now public
-
-[原文] Bending Spoons remains largely unknown, even as its portfolio of products has served more than a billion people.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/05/what-is-bending-spoons-everything-to-know-about-aols-acquirer/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Who produced another iconic performance? England player ratings
+### 1. England end Mexico's World Cup with best win on fo...
 
-[原文] BBC Sport England reporter Alex Howell rates how the Three Lions players performed in the last-16 win over Mexico.
+[原文] Outside of England, the Three Lions' World Cup history is mixed at best, but they defied the odds to grind out an emotional last-16 win over Mexico.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cp8r40y5r9eo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49283101/england-end-mexico-world-cup-best-win-foreign-soil-their-history) — *ESPN*
 
-### 2. The man England will fear most - Haaland fires Norway to history
+### 2. World Cup VAR review: Quansah's red, Kane's penalt...
 
-[原文] Erling Haaland has scored seven goals in four World Cup games and he is the striker that nobody wants to face as he fires Norway into an historic quarter-final.
+[原文] Andy Davies breaks down all three major incidents from England's topsy-turvy 3-2 win over Mexico.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cwy006zywj8o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49283462/world-cup-2026-var-review-quansahs-red-kanes-penalty-did-ref-get-right) — *ESPN*
 
-### 3. Ageing Brazil need major surgery - but is Ancelotti the man to do it?
+### 3. England survive to beat Mexico in Azteca thriller
 
-[原文] There was nothing unlucky about Brazil's loss to Norway in the last 16 of the World Cup and their exit at this stage is an unmitigated disaster, writes Tim Vickery.
+[原文] England survived a raucous Azteca Stadium atmosphere and a red card early in the second half to prevail past co-hosts Mexico 3-2 in a thrilling World Cup round-of-16 clash in Mexico City on Sunday.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c20yywnqwl5o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49282902/england-mexico-2026-world-cup-azteca-red-card-bellingham) — *ESPN*
 
-### 4. Penalty? Red card? Why were they given against England?
+### 4. FIFA suspends Balogun red card, can face Belgium
 
-[原文] Why did England have Jarell Quansah sent off and a penalty awarded against them in their thrilling World Cup last-16 match with Mexico?
+[原文] FIFA has suspended the red card U.S. striker Folarin Balogun received in the team's match against Bosnia-Herzegovina, making him available to face Belgium in the round of 16 at the World Cup.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cq6115rj9ymo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49277378/usmnt-folarin-balogun-red-card-suspended-belgium) — *ESPN*
 
-### 5. Red card system in disarray over Trump, Fifa and Balogun decision
+### 5. Belgium furious at Balogun U-turn: It's April Fool...
 
-[原文] The decision to effectively overturn the red card shown to United States forward Folarin Balogun leaves many unanswered questions.
+[原文] Belgium coach Rudi Garcia said he thought it was a joke when he first heard news that suspended United States striker Folarin Balogun was cleared to play in the Americans' round-of-16 match.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cly99dxjkxxo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49279471/belgium-usa-folarin-balogun-ban-suspended-fifa-world-cup-2026) — *ESPN*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘House of the Dragon’ Star Steve Toussaint Teases Consequences of Corlys’ ‘Very Dangerous’ Request of Rhaenyra
+### 1. Kevin Costner’s ‘Dances With Wolves’ Set for New Restored Director’s Cut That Will Launch at Locarno
 
-[原文] SPOILER ALERT:&#160;This article contains spoilers for Season 3, Episode 3 of “House of the Dragon,” now streaming on HBO Max. Queen Rhaenyra Targaryen got a slap in the face from her hand of the quee
+[原文] Kevin Costner’s 1990 Western “Dances With Wolves,” about an American Civil War soldier who forges a relationship with a group of Lakota Indians, is getting a new 4K restoration that will launch at the
 
-📎 [阅读原文](https://variety.com/2026/tv/features/house-of-the-dragon-corlys-rhaenyra-sons-bastards-1236800257/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/kevin-costner-dances-with-wolves-restored-cut-locarno-1236802288/) — *Variety*
 
-### 2. ‘The Vampire Lestat’ Costume Designer Breaks Down Lestat’s Rockstar Wardrobe and the Season’s Hidden Easter Eggs
+### 2. Secret Cinema Boss on ‘Grease’ Returning and Record-Breaking ’Pirates of the Caribbean’ Pre-Sales: ‘When People Step Into This Room, They’re Going To Be Beside Themselves’
 
-[原文] SPOILER ALERT:&#160;This post contains spoilers from “New York,” the fifth episode of “The Vampire Lestat,” now streaming on AMC+. When costume designer Lex Wood started planning the wardrobe for “The
+[原文] When TodayTix acquired Secret Cinema in 2022 for a reported $100 million, it marked a new era for the company, which started life as a ragtag bunch of film enthusiasts trying to bring movies to life. 
 
-📎 [阅读原文](https://variety.com/2026/tv/news/the-vampire-lestat-costume-designer-wardrobe-easter-eggs-1236800981/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/secret-cinema-pirates-of-the-caribbean-london-2027-1236788269/) — *Variety*
 
-### 3. Bruce Springsteen Says He’s a ‘Patriot’ for Standing Up to Trump: ‘I Believe in Critical Patriotism’
+### 3. ‘Replica’ Leads Next Interactive Studio’s Bucheon Showcase
 
-[原文] Bruce Springsteen said during his recent PBS special, “Bruce Springsteen: Finding America in Song,” that being a true patriot is all about coming face-to-face with America’s flaws and encouraging the 
+[原文] Next Interactive Studio unveiled its slate of interactive films and its self-developed interactive cinema ecosystem at the Bucheon International Fantastic Film Festival, drawing more than 100 audience
 
-📎 [阅读原文](https://variety.com/2026/music/news/bruce-springsteen-patriot-standing-up-to-trump-1236802109/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/replica-next-interactive-studio-bucheon-1236802281/) — *Variety*
 
-### 4. Tom Holland Thought Christopher Nolan Hated His ‘Odyssey’ Performance on His First Day Filming: ‘I Thought I Was Totally S—-ing the Bed’
+### 4. Anurag Kashyap Boards Rotterdam-Premiered Bangladeshi Drama ‘Delupi’ (EXCLUSIVE)
 
-[原文] Tom Holland recently told Fandango that he thought director Christopher Nolan hated his performance on his first day filming &#8220;The Odyssey&#8221; because he kept calling cut. In reality, Nolan&#8
+[原文] Indian auteur Anurag Kashyap has come on board as presenter of Bangladeshi drama &#8220;Delupi,&#8221; with the film set to carry the &#8220;Anurag Kashyap Presents&#8221; banner across its release an
 
-📎 [阅读原文](https://variety.com/2026/film/news/tom-holland-christopher-nolan-hated-odyssey-performance-1236801979/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/anurag-kashyap-rotterdam-bangladesh-delupi-1236802252/) — *Variety*
 
-### 5. Ateez Lands Third No. 1 on Albums Chart With ‘Golden Hour : Part.5’
+### 5. George Clooney to Be Honored at Venice Film Festival With Golden Lion for Career Achievement
 
-[原文] K-pop group Ateez has scored its third No. 1 on the Billboard 200 with &#8220;Golden Hour : Part.5.&#8221; The album starts with 228,000 equivalent album units, with 223,000 accounting for pure album 
+[原文] The Venice Film Festival will honor George Clooney with its 2026 Golden Lion for Lifetime Achievement. Clooney – who is one of only three people to have been nominated in six different Oscar categorie
 
-📎 [阅读原文](https://variety.com/2026/music/news/ateez-lands-third-no-1-albums-chart-golden-hour-part-5-1236801984/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/george-clooney-venice-film-festival-golden-lion-career-1236802227/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. House of the Dragon Season 3, Episode 3 Recap and Review
+### 1. 'Don't Kill the Disc' — Independent Retailer Launches Petition Calling on PlayStation to Keep Physical Games, Gets Over 115,000 Signatures
+
+[原文] An independent retailer has launched a petition calling on Sony to reverse its decision to ditch discs on PlayStation consoles, garnering over 115,000 signatures so far.
+
+📎 [阅读原文](https://www.ign.com/articles/dont-kill-the-disc-independent-retailer-launches-petition-calling-on-playstation-to-keep-physical-games-gets-over-115000-signatures) — *IGN*
+
+### 2. ChatGPT Fiction Prompt Researchers Accidentally Stumble Upon a Super User Repeatedly Requesting Stories Featuring Pregnant Characters From Doki Doki Literature Club
+
+[原文] Academic researchers investigating how people use ChatGPT to generate fiction accidentally stumbled upon a super user repeatedly requesting stories featuring pregnant characters from Doki Doki Literat
+
+📎 [阅读原文](https://www.ign.com/articles/chatgpt-fiction-prompt-researchers-accidentally-stumble-upon-a-super-user-repeatedly-requesting-stories-featuring-pregnant-characters-from-doki-doki-literature-club) — *IGN*
+
+### 3. House of the Dragon Season 3, Episode 3 Recap and Review
 
 [原文] Seasoned Westeros watchers will see potential problems arising with each scene of this episode. Everywhere Rhaenyra turns there’s someone looking for a piece of her (rodent bites both literal and figu
 
 📎 [阅读原文](https://www.ign.com/articles/house-of-the-dragon-season-3-episode-3-recap-and-review) — *IGN*
 
-### 2. The Vampire Lestat Showrunner Explains How Lestat's Musical Journey Is 'Just as Important' as the Queen of the Damned's Awakening
+### 4. The Vampire Lestat Showrunner Explains How Lestat's Musical Journey Is 'Just as Important' as the Queen of the Damned's Awakening
 
 [原文] Rolin Jones discusses the essential role of music on Lestat’s past and present — and how he wanted it to mirror the Queen of the Damned's awakening — in Episode 5, "New York."
 
 📎 [阅读原文](https://www.ign.com/articles/the-vampire-lestat-showrunner-interview-episode-5-new-york) — *IGN*
 
-### 3. Supergirl Inches Past $100 Million at the Global Box Office After One of the Biggest Second Weekend Drops in Superhero Movie History
+### 5. Supergirl Inches Past $100 Million at the Global Box Office After One of the Biggest Second Weekend Drops in Superhero Movie History
 
 [原文] Supergirl has managed to inch past $100 million at the global box office, but its second weekend in theaters also saw it secure one of the biggest drops in superhero movie history.
 
 📎 [阅读原文](https://www.ign.com/articles/supergirl-inches-past-100-million-at-the-global-box-office-after-one-of-the-biggest-second-weekend-drops-in-superhero-movie-history) — *IGN*
-
-### 4. Star Trek 4: The Voyage Home 40th Anniversary Re-Release Confirmed for the UK
-
-[原文] Admiral Kirk and Spock are Earth-bound once more, as Star Trek 4: The Voyage Home is set to return to theaters for its 40th anniversary.
-
-📎 [阅读原文](https://www.ign.com/articles/star-trek-4-the-voyage-home-40th-anniversary-re-release-confirmed-for-the-uk) — *IGN*
-
-### 5. The Best Deals Today: M2 iPad Air, Criterion Collection, Ys X: Nordics, and More
-
-暂无摘要。
-
-📎 [阅读原文](https://www.ign.com/articles/best-deals-for-july-5-2026) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post Russian Engineering Madmen Create Turbo-Style Alternator Driven by Exha
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Climate Reporting Is Changing
+### 1. Dam Removal Efforts Lead to a Stunning Comeback for Maine’s Alewives
+
+[原文] For a few weeks each summer, the Sebasticook River in Benton, Maine, is paved with flashing silver scales, so thick it seems you could almost walk across. The alewives have returned for their annual m
+
+📎 [阅读原文](https://insideclimatenews.org/news/06072026/maine-dam-removal-efforts-lead-to-fish-comeback/) — *Inside Climate News*
+
+### 2. Climate Reporting Is Changing
 
 [原文] Welcome to Inside Climate, a new podcast from the staff of Inside Climate News. As the ICN newsroom grows and expands, so is its reporting. For the show’s debut episode, co-host Kiley Price sits down 
 
 📎 [阅读原文](https://insideclimatenews.org/news/05072026/inside-climate-podcast-pilot/) — *Inside Climate News*
 
-### 2. Dairy Farms’ Expansion Plan Worries California Families Who Once Had a ‘Little Piece of Heaven’
+### 3. Dairy Farms’ Expansion Plan Worries California Families Who Once Had a ‘Little Piece of Heaven’
 
 [原文] PLANADA, Calif.—David Rodriguez learned to swim in the canals near his childhood home in the 1960s, back when orchards of figs, peaches and almonds encircled his neighborhood. Before the area around t
 
 📎 [阅读原文](https://insideclimatenews.org/news/05072026/california-dairy-farm-expansion-plan-worries-residents/) — *Inside Climate News*
 
-### 3. New Gold Exploration Revives Old Fears for Montana’s Blackfoot River
+### 4. New Gold Exploration Revives Old Fears for Montana’s Blackfoot River
 
 [原文] More than half a century after one of Montana&#8217;s most destructive mining disasters poisoned the upper Blackfoot River, a new gold exploration project near the river&#8217;s headwaters is sparking
 
 📎 [阅读原文](https://insideclimatenews.org/news/04072026/montana-blackfoot-river-gold-exploration/) — *Inside Climate News*
 
-### 4. The Spectacular Regrowth of New England’s Forests
+### 5. The Spectacular Regrowth of New England’s Forests
 
 [原文] From our collaborating partner “Living on Earth,” public radio&#8217;s environmental news magazine, an interview by host Steve Curwood with Bill Moomaw, a distinguished visiting scientist at the Woodw
 
 📎 [阅读原文](https://insideclimatenews.org/news/04072026/new-england-reforestation/) — *Inside Climate News*
-
-### 5. California’s First Carbon Capture Project Is Up and Running. Environmentalists Are Still Trying To Stop It.
-
-[原文] California Resources Corporation, the state’s largest oil company, passed a long-targeted milestone in May: It had finally taken carbon dioxide that would otherwise warm the atmosphere and injected it
-
-📎 [阅读原文](https://insideclimatenews.org/news/03072026/california-environmentalists-press-for-assessment-of-first-carbon-capture-project/) — *Inside Climate News*
 
 ---
 
@@ -515,7 +515,7 @@ The post Russian Engineering Madmen Create Turbo-Style Alternator Driven by Exha
 - **💰 经济财经**: CNBC
 - **💻 科技**: TechCrunch
 - **🔬 科学**: Science Daily
-- **⚽ 体育**: BBC Sport
+- **⚽ 体育**: ESPN
 - **🎬 娱乐**: Variety
 - **🏥 健康**: WHO
 - **🎮 游戏**: IGN
@@ -528,6 +528,7 @@ The post Russian Engineering Madmen Create Turbo-Style Alternator Driven by Exha
 ## ⚠️ 今日故障源
 
 - **🚗 汽车**: Roadshow, Autocar
+- **✈️ 旅游**: Nomadic Matt
 
 ---
 
