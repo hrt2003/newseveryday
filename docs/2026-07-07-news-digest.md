@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月07日** | 生成时间: 2026-07-07 17:49
+**2026年07月07日** | 生成时间: 2026-07-07 22:45
 
 ---
 
@@ -16,23 +16,23 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Zelensky to press Nato for air defence systems after intense Russian strikes
+### 1. Zelensky presses Nato for air defence systems after intense Russian strikes
 
-[原文] The Ukrainian president will use the Nato meeting in Turkey to argue he needs more interceptor missiles.
+[原文] The Ukrainian president says "decisions for air defence" should be "one of the key outcomes" of this week's summit in Turkey.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC
+### 2. Woman suspected of Monaco bomb attack found dead in Ukraine
+
+[原文] Police had been hunting Anastasiia Berezovska after a Ukrainian millionaire was injured in the blast.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5yz3770yg8o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC
 
 [原文] Former prisoners accuse the men of abuse in detention centres and want to see them brought to trial.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2kkrx8jeno?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 3. Marine Le Pen's moment of truth: Why Tuesday court verdict matters for France
-
-[原文] The leader of France's National Rally leads the opinion polls ahead of the 2027 presidential election and will now find out if she can stand.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/clyeele4leeo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 4. Explosions injure 18 in Damascus during Macron's visit
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Oil prices rise after report of Iranian attack on commercial ships in Strait of Hormuz
+### 1. Trump renews Greenland threats at NATO summit, says U.S. could remove troops from Europe
 
-[原文] Brent and U.S. crude futures rose after a report of an Iranian attack on commercial ships in the Strait of Hormuz.
+[原文] NATO fell into a crisis earlier this year as Trump demanded that the U.S. must take control of Greenland on national security grounds.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/07/oil-prices-iran-strait-hormuz.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/07/trump-nato-summit-greenland-us-troops-europe.html) — *CNBC*
 
-### 2. Trump heads to Turkey as NATO is strained by Russian attacks, U.S. impatience
+### 2. Chinese lidar maker with Nvidia ties accused of being cyber risk for U.S.
 
-[原文] Trump frequently vented about NATO members' refusal to heed U.S. calls for help clearing the Strait of Hormuz during its campaign against Iran.
+[原文] Hesai Technology was blacklisted as a national security threat in 2024 by the U.S. Department of Defense, which designated Hesai as a Chinese military entity.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/07/trump-nato-turkey-russia-ukraine-spending.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/07/hesai-technology-nvidia-cyber-risk.html) — *CNBC*
 
-### 3. Samsung posts 1,800% jump in profit, but AI spending concerns spook investors
+### 3. Rivian stock falls more than 10% as company sells 75 million shares to raise capital
 
-[原文] Samsung Electronics shares fell even after record preliminary second-quarter profit as capex and demand concerns clouded the outlook.
+[原文] The capital raise occurred during extended hours trading following Rivian shares increasing 8.1% on Monday after increasing 19.2% last week.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/07/samsung-electronics-preliminary-second-quarter-profit-hits-fresh-high.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/07/rivian-stock-rivn-capital-raise.html) — *CNBC*
 
-### 4. Hanwha Ocean shares sink 23% as it loses bid to build Canada's next fleet of submarines
+### 4. Trump ally Nigel Farage quits UK parliament amid finance scandal to fight special election
 
-[原文] Canadian Prime Minister Mark Carney announced Monday that Germany's Thyssenkrupp Marine Systems would be the preferred supplier for delivering the submarines.
+[原文] Reform U.K. leader Nigel Farage has quit as MP for Clacton, forcing a by-election that he has said he will fight.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/07/hanwha-ocean-shares-sink-canada-submarines-tkms.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/07/nigel-farage-parliament-election.html) — *CNBC*
 
-### 5. Graham Platner denies sex assault claim as Democrats urge him to quit Maine Senate race
+### 5. Amazon raising at least $25 billion in bond sale, won't issue more debt in 2026
 
-[原文] Graham Platner hopes to unseat Republican Sen. Susan Collins, but the Democrat's campaign is reeling from a bombshell allegation by Jenny Racicot.
+[原文] It marks Amazon's latest debt raise as it looks to buttress its massive investments in artificial intelligence.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/06/graham-platner-maine-senate-allegation-response.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/07/amazon-bond-sale-ai-debt.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The first American autonomous ground vehicles are fighting in Ukraine
+### 1. AI law startup Norm raises $120M, hits unicorn valuation
 
-[原文] Forterra has deployed more than 100
+[原文] AI law startup Norm has raised a $120 million Series C round led by Kholsa Ventures, valuing the startup at $1.2 billion.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/07/ai-law-startup-norm-raises-120m-hits-unicorn-valuation/) — *TechCrunch*
+
+### 2. This startup pits dealerships against each other to bid on your used car
+
+[原文] Bidbus, which lets dealerships bid on used cars, has raised $15 million in a Series A round that was led by early-stage mobility fund Ibex Investors.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/07/this-startup-is-pitting-dealerships-against-each-other-to-bid-on-your-used-car/) — *TechCrunch*
+
+### 3. Hacktivists call out Trump by hacking and defacing US Army websites
+
+[原文] The U.S. Army has fixed two of its websites that were hacked to display messages calling President Trump a "pedophile" and a "thief."
+
+📎 [阅读原文](https://techcrunch.com/2026/07/07/hacktivists-call-out-trump-by-hacking-and-defacing-us-army-websites/) — *TechCrunch*
+
+### 4. Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom
+
+[原文] The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/) — *TechCrunch*
+
+### 5. The first American autonomous ground vehicles are fighting in Ukraine
+
+[原文] Forterra has deployed more than 100 of its self-driving ATVs in conflict zones in Ukraine.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/) — *TechCrunch*
-
-### 2. Netflix invented binge-watching. Now it may have outgrown it.
-
-[原文] A new report suggests Netflix viewers aren’t sticking around for Season 2. The bigger issue may be that binge-watching itself is no longer the advantage it once was.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/06/netflix-invented-binge-watching-now-it-may-have-outgrown-it/) — *TechCrunch*
-
-### 3. The ‘first’ AI-run ransomware attack still needed a human
-
-[原文] An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied
-
-📎 [阅读原文](https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/) — *TechCrunch*
-
-### 4. US investors will soon get access to SK Hynix, another memory maker riding the AI boom
-
-[原文] SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/) — *TechCrunch*
-
-### 5. Vercel CEO Guillermo Rauch on the fight to split off models from agents
-
-[原文] "The reality is, when you're optimizing for production, you start looking at a price/performance," Guillermo Rauch tells TechCrunch.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. A shambolic end for the American dream - did Balogun saga play a part?
+### 1. Inside the Broncos' playoff run: Fifteen days with Sean Payton
 
-[原文] Mauricio Pochettino says he feels "disappointed with too many people" who brought "politics and manipulation" into the game as the US exit World Cup.
+[原文] Senior writer Seth Wickersham spent two weeks with NFL football coach Sean Payton ahead of the Denver Broncos-New England Patriots AFC Championship Game.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c4gyxdeql5eo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/nfl/story/_/id/49225969/inside-denver-broncos-coach-sean-payton-playoffs) — *ESPN*
 
-### 2. 'Overturn this' - Belgium taunt US and say Trump move fired them up
+### 2. Cavs' Mitchell agrees to $273M max extension
 
-[原文] Belgium's Nicolas Raskin says Fifa's decision to allow US striker Folarin Balogun to play against them fired them up for the last-16 tie in Seattle.
+[原文] Donovan Mitchell has agreed to a four-year, $273 million maximum extension with the Cavs, including a player option for the 2030-31 season, per his agent.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c4gyj50450go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/nba/story/_/id/49294892/agent-donovan-mitchell-reaches-new-4-year-deal-cavs) — *ESPN*
 
-### 3. Ronaldo's World Cup career ends in tears as 'pandering' Martinez departs
+### 3. Lowry retires as Raptor after 20 NBA seasons
 
-[原文] BBC Sport looks at the end of Cristiano Ronaldo's World Cup career as he fails to win football's biggest prize.
+[原文] Six-time All-Star Kyle Lowry has retired after signing a one-day contract with the Toronto Raptors, where he spent nine of his 20 NBA seasons and won an NBA championship
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c3vyyq1kg5go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/nba/story/_/id/49295320/kyle-lowry-retires-signing-one-day-contract-raptors) — *ESPN*
 
-### 4. 'Learn how to lose' - tempers flare in Wimbledon mixed doubles
+### 4. Poch mum on U.S. future; tells fans to keep faith
 
-[原文] Jelena Ostapenko and Marcelo Arevalo advance to the Wimbledon mixed doubles semi-finals in straight sets, but the victory is marred by a fiery post-match argument.
+[原文] Mauricio Pochettino would not offer an indication about whether he wants to remain as coach of the United States men's national team following the Americans' exit from the World Cup here on Monday.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/videos/c4gyy151xzyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49292813/mauricio-pochettino-usa-coach-future-2026-world-cup-belgium) — *ESPN*
 
-### 5. Why European backlash over Trump intervention won't worry Infantino
+### 5. USMNT's World Cup dream crushed by Belgium
 
-[原文] After 10 years as Fifa president, could the Folarin Balogun controversy tip the balance against Gianni Infantino? Don't bet on it.
+[原文] Even with Folarin Balogun back up front, the United States men's national team crashed out of the World Cup in the round of 16 again.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cvgmmmgemd8o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49291529/usa-belgium-20206-fifa-world-cup) — *ESPN*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘Toy Story 5’ Holds No. 1 as ‘Minions & Monsters’ Chases at U.K. and Ireland Box Office
+### 1. Abbie Cornish Transforms Into Anna Nicole Smith in First Look at ‘Trust Me, I’m a Doctor (EXCLUSIVE)
 
-[原文] The U.K. and Ireland box office maintained a steady rhythm over the weekend as Disney&#8217;s &#8220;Toy Story 5&#8221; retained the number one spot for a third consecutive frame. The Pixar release co
+[原文] Kal Penn will never forget seeing his “Trust Me, I’m a Doctor” co-star Abbie Cornish for the first time as Anna Nicole Smith. “She really embodied Anna Nicole in a very striking way,” Penn tells me. “
 
-📎 [阅读原文](https://variety.com/2026/film/box-office/toy-story-5-minions-monsters-uk-ireland-box-office-1236803117/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/columns/abbie-cornish-anna-nicole-smith-trust-me-im-a-doctor-kal-penn-1236802989/) — *Variety*
 
-### 2. Herb Alpert & the Tijuana Brass Whip It Good at the Hollywood Bowl, Returning After 59 Years for a Great Sugar Rush of a Show: Concert Review
+### 2. Jude Bellingham, Harry Kane-Led England World Cup Win Draws Record BBC Audience – Global Bulletin
 
-[原文] The Hollywood Bowl was by no means a lonely bowl Sunday night, as Herb Alpert &#38; the Tijuana Brass returned to pack the storied venue for the first time in 59 years. The Brass&#8217;s Cahuenga Pass
+[原文] AUDIENCE AVALANCHE England&#8217;s 3-2 soccer World Cup victory over Mexico on Monday delivered the biggest television audience ever recorded in the U.K. for a live broadcast between 2am and 4am BST, 
 
-📎 [阅读原文](https://variety.com/2026/music/concert-reviews/herb-alpert-tijuana-brass-hollywood-bowl-concert-review-1236802736/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/jude-bellingham-harry-kane-england-world-cup-win-record-bbc-audience-1236803403/) — *Variety*
 
-### 3. U.S. Men’s National Soccer Team Eliminated From World Cup Competition in Loss to Belgium
+### 3. Dolly Parton’s ‘Dolly: A True Original Musical’ Sets Broadway Run, With Previews Beginning in December
 
-[原文] The U.S. Men&#8217;s National Soccer Team has been eliminated from World Cup competition in a hard 4-1 loss Monday evening to Belgium in the Round of 16 of the global soccer tournament. Belgium defeat
+[原文] Broadway will be saying &#8220;Hello, Dolly&#8221; before the end of the year, as the musical telling the life story of country-pop superstar Dolly Parton is set to begin previews at the St. James The
 
-📎 [阅读原文](https://variety.com/2026/tv/news/u-s-mens-national-soccer-team-eliminated-world-cup-belgium-1236803018/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/legit/news/dolly-parton-broadway-musical-sets-opening-1236803367/) — *Variety*
 
-### 4. LISTEN: ‘Minions and Monsters’ Has Tepid U.S. Opening as ‘Young Washington’ Impresses; Why Comcast’s Sky Is Buying ITV
+### 4. Gucci Family Series ‘Game Over’ Reveals First-Look Images as Sky Italia Announces Further Cast
 
-[原文] Variety’s Rebecca Rubin breaks down a muted July 4th holiday weekend at the box office with a tepid U.S. opening for Universal and Illumination’s “Minions and Monsters” but a solid turnout for indie A
+[原文] Sky Italia has released first-look images of its upcoming high-end series &#8220;Gucci: Game Over,&#8221; which the Comcast-owned pay-TV service has described as Italy’s answer to Ridley Scott’s “Hous
 
-📎 [阅读原文](https://variety.com/2026/film/news/minions-and-monsters-young-washington-box-office-sky-itv-1236802981/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/global/gucci-family-series-game-over-first-look-images-1236803287/) — *Variety*
 
-### 5. Television City and Orbital Studios Partner to Bring Virtual Production Studio to L.A.’s Fairfax District
+### 5. Ncuti Gatwa to Executive Produce ‘Doctor Who’ Actor Niamh Marie Smith’s Short Film ‘Passing Through’ (EXCLUSIVE)
 
-[原文] Television City and Orbital Studios have partnered to bring a new virtual production studio to L.A.&#8217;s Fairfax District. The new LED volume will be based at 7800 Beverly Boulevard, Television Cit
+[原文] Ncuti Gatwa is reuniting with his &#8220;Doctor Who&#8221; co-star Niamh Marie Smith to executive produce her new short film &#8220;Passing Through.&#8221; Marie Smith, who featured in the 2024 &#8220
 
-📎 [阅读原文](https://variety.com/2026/biz/news/television-city-orbital-studios-new-virtual-production-studio-1236802430/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/ncuti-gatwa-produce-doctor-who-niamh-marie-smith-short-film-1236803281/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Microsoft Expected Game Pass Would Have 77 Million Subscribers by Now but It Reportedly Only Has 30 Million, as Xbox Boss Admits the Strategy Has Failed
+### 1. 'My Heart's With All of You' — John Romero Says id Software Has 'Done a Great Job' Moving the Studio's Legacy Forward and Hopes Someone Is Working to Preserve It All Amid Xbox Layoffs
+
+[原文] John Romero has commented on the layoffs that have impacted Microsoft-owned id Software as part of sweeping cuts to the Xbox business.
+
+📎 [阅读原文](https://www.ign.com/articles/my-hearts-with-all-of-you-john-romero-says-id-software-has-done-a-great-job-moving-the-studios-legacy-forward-and-hopes-someone-is-working-to-preserve-it-all-amid-xbox-layoffs) — *IGN*
+
+### 2. Staff at Fallout: New Vegas Developer Obsidian Reportedly Left Unsure How 'Huge List of Projects' Can Continue After Xbox Layoffs Hit Hard
+
+[原文] Staff at Obsidian Entertainment are reportedly concerned about the studio’s future projects after it was hit hard by Microsoft’s Xbox layoffs.
+
+📎 [阅读原文](https://www.ign.com/articles/staff-at-fallout-new-vegas-developer-obsidian-reportedly-left-unsure-how-huge-list-of-projects-can-continue-after-xbox-layoffs-hit-hard) — *IGN*
+
+### 3. LEGO Set Leaks Reveal First Pokémon Minifigures, Including Professor Oak and Red, Plus Pikachu and Eevee
+
+[原文] The first LEGO Pokémon set to include minifigures, featuring Professor Oak and Red, will debut later this year, leaked images have revealed.
+
+📎 [阅读原文](https://www.ign.com/articles/lego-set-leaks-reveal-first-pokemon-minifigures-including-professor-oak-and-red-plus-pikachu-and-eevee) — *IGN*
+
+### 4. 'She'd Be Great as Mystique': Obsession Star Inde Navarette Confirms Meeting With X-Men Director Jake Schreier, as Marvel Fans Discuss Who She's Likely to Play
+
+[原文] Obsession star Inde Navarette has revealed she recently met with X-Men reboot director Jake Schreier, and Marvel fans are already discussing which member of the mutant team she's likely to play.
+
+📎 [阅读原文](https://www.ign.com/articles/shed-be-great-as-mystique-obsession-star-inde-navarette-confirms-meeting-with-x-men-director-jake-schreier-as-marvel-fans-discuss-who-shes-likely-to-play) — *IGN*
+
+### 5. Microsoft Expected Game Pass Would Have 77 Million Subscribers by Now but It Reportedly Only Has 30 Million, as Xbox Boss Admits the Strategy Has Failed
 
 [原文] Xbox CEO Asha Sharma has admitted Game Pass has failed to grow as Microsoft had expected, with reports indicating it is tens of millions of subscribers short of previous targets.
 
 📎 [阅读原文](https://www.ign.com/articles/microsoft-expected-game-pass-would-have-77-million-subscribers-by-now-but-it-reportedly-only-has-30-million-as-xbox-boss-admits-the-strategy-has-failed) — *IGN*
-
-### 2. Nintendo Confirms Switch 1 Global Availability After Announcing European Withdrawal
-
-[原文] Nintendo has confirmed its plans to continue selling Switch 1, after yesterday announcing that sales would be suspended in Europe.
-
-📎 [阅读原文](https://www.ign.com/articles/nintendo-confirms-switch-1-global-availability-after-announcing-european-withdrawal) — *IGN*
-
-### 3. Walmart Has a Decent 512GB Nintendo Switch 2 Memory Card Deal Despite the Price Hikes
-
-[原文] You can hold out for as long as you want, but sooner or later you'll need more space.
-
-📎 [阅读原文](https://www.ign.com/articles/best-nintendo-switch-2-microsd-express-memory-card-deal-july-2026) — *IGN*
-
-### 4. Save 50% Off the Lokithor J2250 Pro Cordless Car Jump Starter With LiFePO4 Batteries
-
-[原文] LiFePO4 jump starters are safer, last longer, and work better in cold weather than traditional lithium models.
-
-📎 [阅读原文](https://www.ign.com/articles/lokithor-j2250-pro-cordless-car-jump-starter-deal) — *IGN*
-
-### 5. Steam Machine vs PS5: How Does Valve's New Mini PC Stack Up?
-
-暂无摘要。
-
-📎 [阅读原文](https://www.ign.com/articles/steam-machine-vs-ps5-how-does-valves-new-mini-pc-stack-up) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The $10 Billion Takeover That Could Turn the Auto Parts Business Upside Down, Explained
+### 1. The Price Gap Between Regular and Premium Gas Is Widening. Drivers Are Responding: TDS
+
+[原文] Premium gas sales were recently down 5% nationwide, while regular soared by 10%, as an increasing number of drivers make the switch to save money.
+The post The Price Gap Between Regular and Premium Ga
+
+📎 [阅读原文](https://www.thedrive.com/news/the-price-gap-between-regular-and-premium-gas-is-widening-drivers-are-responding-tds) — *The Drive*
+
+### 2. 2027 Ram 1500 TRX SRT First-Drive Review: Prehistoric Power in a Modern Off-Road Monster
+
+[原文] It's everything you loved (or hated) about the Ram 1500 TRX, cranked way up loud.
+The post 2027 Ram 1500 TRX SRT First-Drive Review: Prehistoric Power in a Modern Off-Road Monster appeared first on Th
+
+📎 [阅读原文](https://www.thedrive.com/car-reviews/2027-ram-1500-trx-srt-first-drive-review) — *The Drive*
+
+### 3. 2027 Ram TRX vs Rumble Bee Hellcat: Your Guide to Ram’s Supercharged SRT Pickups
+
+[原文] There are now two supercharged 6.2-liter Ram pickups. How do you take your Hellcat?
+The post 2027 Ram TRX vs Rumble Bee Hellcat: Your Guide to Ram&#8217;s Supercharged SRT Pickups appeared first on Th
+
+📎 [阅读原文](https://www.thedrive.com/news/2027-ram-trx-vs-rumble-bee-hellcat-your-guide-to-rams-supercharged-srt-pickups) — *The Drive*
+
+### 4. 2027 Porsche 911 GT3 S/C First-Drive Review: The Ultimate 911, Actually
+
+[原文] All the engagement of a Porsche 911 GT3, with all the thrill of sky and sound. What more could you want?
+The post 2027 Porsche 911 GT3 S/C First-Drive Review: The Ultimate 911, Actually appeared first
+
+📎 [阅读原文](https://www.thedrive.com/car-reviews/2027-porsche-911-gt3-s-c-first-drive-review) — *The Drive*
+
+### 5. The $10 Billion Takeover That Could Turn the Auto Parts Business Upside Down, Explained
 
 [原文] O'Reilly might buy NAPA, which would affect the aftermarket parts business in more ways than you might realize.
 The post The $10 Billion Takeover That Could Turn the Auto Parts Business Upside Down, E
 
 📎 [阅读原文](https://www.thedrive.com/news/the-10-billion-takeover-that-could-turn-the-auto-parts-business-upside-down-explained) — *The Drive*
-
-### 2. Jiffy Lube Has Been Sold to Private Equity in $1.3B Deal
-
-[原文] Formerly owned by Shell, the quick auto-service chain has been snapped up by a group called Monomoy Capital Partners in a 10-figure deal.
-The post Jiffy Lube Has Been Sold to Private Equity in $1.3B D
-
-📎 [阅读原文](https://www.thedrive.com/news/jiffy-lube-has-been-sold-to-private-equity) — *The Drive*
-
-### 3. Trump Pardons 9 Diesel Tuners Charged with Deleting Emissions Equipment
-
-[原文] As the Trump administration pulls back from enforcing diesel emissions laws, the president says the pardons are just common sense.
-The post Trump Pardons 9 Diesel Tuners Charged with Deleting Emission
-
-📎 [阅读原文](https://www.thedrive.com/news/trump-pardons-9-diesel-tuners-charged-with-deleting-emissions-equipment) — *The Drive*
-
-### 4. Spied: Ford’s $30,000 Electric Truck Caught Next to an Expedition
-
-[原文] Ford's next electric truck features real door handles and a massive touchscreen.
-The post Spied: Ford&#8217;s $30,000 Electric Truck Caught Next to an Expedition appeared first on The Drive.
-
-📎 [阅读原文](https://www.thedrive.com/news/30000-electric-ford-truck-spy-shots) — *The Drive*
-
-### 5. Cadillac Recalls Vistiq EVs Over Third-Row Seat That Could Trap a Child
-
-[原文] The Vistiq's third-row seat can trap occupants, prompting a recall and stop-sale order for all Cadillac dealerships.
-The post Cadillac Recalls Vistiq EVs Over Third-Row Seat That Could Trap a Child ap
-
-📎 [阅读原文](https://www.thedrive.com/news/cadillac-recalls-vistiq-evs-over-third-row-seat-that-could-trap-a-child) — *The Drive*
 
 ---
 
@@ -363,35 +363,35 @@ The post Cadillac Recalls Vistiq EVs Over Third-Row Seat That Could Trap a Child
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Bali is Still Choking on Plastic
+### 1. Despite Decades of Warnings, British Fish Stocks Are Collapsing
+
+[原文] Regulations governing British fishing are supposed to keep it “environmentally sustainable in the long term.” But fish stocks in the United Kingdom are on the brink of collapse. For those watching the
+
+📎 [阅读原文](https://insideclimatenews.org/news/07072026/fishing-bans-british-fish-stocks-are-collapsing/) — *Inside Climate News*
+
+### 2. Bali Is Still Choking on Plastic
 
 [原文] BALI, Indonesia —Piles of trash line the roadsides, plastic floats in rivers and toxic fumes fill the air. Bali is in the midst of a severe waste crisis. Although the popular tourist destination has s
 
 📎 [阅读原文](https://insideclimatenews.org/news/07072026/bali-is-still-choking-on-plastic/) — *Inside Climate News*
 
-### 2. Trump Wants to Fast Track AI
+### 3. Trump Wants to Fast Track AI
 
 [原文] In brief remarks to reporters Monday at the White House, President Donald Trump noted that he was shocked to learn how much energy developing artificial intelligence requires and said his administrati
 
 📎 [阅读原文](https://insideclimatenews.org/news/06072026/trump-wants-to-fast-track-ai/) — *Inside Climate News*
 
-### 3. Dam Removal Efforts Lead to a Stunning Comeback for Maine’s Alewives
+### 4. Dam Removal Efforts Lead to a Stunning Comeback for Maine’s Alewives
 
 [原文] For a few weeks each summer, the Sebasticook River in Benton, Maine, is paved with flashing silver scales, so thick it seems you could almost walk across. The alewives have returned for their annual m
 
 📎 [阅读原文](https://insideclimatenews.org/news/06072026/maine-dam-removal-efforts-lead-to-fish-comeback/) — *Inside Climate News*
 
-### 4. Climate Reporting Is Changing
+### 5. Climate Reporting Is Changing
 
 [原文] Welcome to Inside Climate, a new podcast from the staff of Inside Climate News. As the ICN newsroom grows and expands, so is its reporting. For the show’s debut episode, co-host Kiley Price sits down 
 
 📎 [阅读原文](https://insideclimatenews.org/news/05072026/inside-climate-podcast-pilot/) — *Inside Climate News*
-
-### 5. Dairy Farms’ Expansion Plan Worries California Families Who Once Had a ‘Little Piece of Heaven’
-
-[原文] PLANADA, Calif.—David Rodriguez learned to swim in the canals near his childhood home in the 1960s, back when orchards of figs, peaches and almonds encircled his neighborhood. Before the area around t
-
-📎 [阅读原文](https://insideclimatenews.org/news/05072026/california-dairy-farm-expansion-plan-worries-residents/) — *Inside Climate News*
 
 ---
 
@@ -401,29 +401,29 @@ The post Cadillac Recalls Vistiq EVs Over Third-Row Seat That Could Trap a Child
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Podcast: Can an Algorithm Replace a Teacher’s Instinct?
+### 1. New Study Cites Growing “Crisis” of Healthcare Costs on School District Budgets
+
+[原文] Will rising healthcare costs affect teacher hiring?
+
+📎 [阅读原文](https://edsurge.com/news/new-study-cites-growing-crisis-of-healthcare-costs-on-school-district-budgets) — *EdSurge*
+
+### 2. Podcast: Can an Algorithm Replace a Teacher’s Instinct?
 
 [原文] Two teachers learn what happens when they trust a tool to solve a problem.
 
 📎 [阅读原文](https://edsurge.com/news/podcast-can-an-algorithm-replace-a-teachers-instinct) — *EdSurge*
 
-### 2. International Society for Transforming Education Expands its “AI-Ready Graduate” Framework
+### 3. International Society for Transforming Education Expands its “AI-Ready Graduate” Framework
 
 暂无摘要。
 
 📎 [阅读原文](https://edsurge.com/news/international-society-for-transforming-education-expands-its-ai-ready-graduate-framework) — *EdSurge*
 
-### 3. ISTE+ASCD is Now the International Society for Transforming Education
+### 4. ISTE+ASCD is Now the International Society for Transforming Education
 
 [原文] The education nonprofit drops its combined acronym for a unified brand.
 
 📎 [阅读原文](https://edsurge.com/news/iste-ascd-is-now-the-international-society-for-transforming-education) — *EdSurge*
-
-### 4. Vibe Coding Sparked a Love of Reading in My Classroom
-
-[原文] Lessons learned from a year of building an AI literacy tool.
-
-📎 [阅读原文](https://edsurge.com/news/vibe-coding-sparked-reading-interest-in-my-students) — *EdSurge*
 
 ### 5. Outgrowing the Chromebook: Why Advanced STEM Demands Better Student Tech
 
@@ -439,7 +439,7 @@ The post Cadillac Recalls Vistiq EVs Over Third-Row Seat That Could Trap a Child
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Abbey Road Institute to Launch New Production School Campus in Los Angeles
+### 1. Abbey Road Institute to Launch New Production-School Campus in Los Angeles
 
 [原文] Rafa Sardina, the celebrated Grammy-winning producer and engineer, will head up the program, which is slated to open in October
 
@@ -477,35 +477,35 @@ The post Cadillac Recalls Vistiq EVs Over Third-Row Seat That Could Trap a Child
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. World Cup Ripple Effect: How Non-Host Markets Are Cashing In
+### 1. Mews Cuts 15% of Staff, Points to AI in Broad Restructuring — Exclusive
+
+[原文] Mews says AI can remove the handoffs that once slowed work and hurt margins. Now it has to prove a leaner structure can bring hotels closer, not leave them with less.
+
+📎 [阅读原文](https://skift.com/2026/07/07/mews-layoffs-restructuring-ai/) — *Skift*
+
+### 2. China’s Tongcheng Travel Bids for Dida to Bring Ride-Sharing In-House
+
+[原文] Chinese OTAs have long offered airport transfers and chauffeur services through third-party partnerships. If completed, Tongcheng's Dida acquisition would make it one of the first to own the ride-shar
+
+📎 [阅读原文](https://skift.com/2026/07/07/chinas-tongcheng-travel-bids-for-dida-to-bring-ride-sharing-in-house/) — *Skift*
+
+### 3. Hilton Opens Direct Line to Navan, Cutting Out Corporate Travel Middlemen
+
+[原文] Hilton and Navan have launched a direct booking connection that skips distribution middlemen, giving the hotel group more control over retailing. It's an early step in a broader corporate travel push 
+
+📎 [阅读原文](https://skift.com/2026/07/07/hilton-opens-direct-line-to-navan-cutting-out-corporate-travel-middlemen/) — *Skift*
+
+### 4. Announcing the Skift Live Tourism Summit 2026: The Business of the Live Economy
+
+[原文] Concerts, festivals, sports and cultural moments are changing where and how the world travels, and the shift is proving durable. Most operators still treat it as a calendar event. The Skift Live Touri
+
+📎 [阅读原文](https://skift.com/2026/07/07/announcing-skift-live-tourism-summit/) — *Skift*
+
+### 5. World Cup Ripple Effect: How Non-Host Markets Are Cashing In
 
 [原文] Turns out the World Cup’s tourism impact extends beyond the 16 host cities, with outside markets seeing some of the steepest spikes in demand.
 
 📎 [阅读原文](https://skift.com/2026/07/06/world-cup-ripple-effect-non-host-markets/) — *Skift*
-
-### 2. The Hidden Hurdle in AI Travel Planning: Chatbots That Ignore the App
-
-[原文] Travel apps inside AI chatbots are starting to look like real referral channels. The catch, Skift's testing found: A brand can be connected and still get skipped.
-
-📎 [阅读原文](https://skift.com/2026/07/06/chatgpt-apps-claude-connectors-travel-hands-on-test/) — *Skift*
-
-### 3. How an Airline Pilot Built One of Portugal’s Most Distinctive Hotels
-
-[原文] Comporta's magic was scarcity and silence. Sublime's expansion bets it can grow without diluting either.
-
-📎 [阅读原文](https://skift.com/2026/07/06/how-an-airline-pilot-built-one-of-portugals-most-distinctive-hotels/) — *Skift*
-
-### 4. Private Capital Is Moving Into Saudi Tourism — Their Bets Look Very Different
-
-[原文] The PIF is stepping back from direct tourism investment, and private capital is racing into the vacuum — but no two entrants agree on which segment actually has room to grow.
-
-📎 [阅读原文](https://skift.com/2026/07/06/private-capital-is-moving-into-saudi-tourism-their-bets-look-very-different/) — *Skift*
-
-### 5. If India Is Going Premium, Why Are its Airlines Fighting for the Budget Traveler?
-
-[原文] While India's premium travel boom is real, Air India and IndiGo's new entry-level fares reveal that the country's biggest aviation opportunity remains attracting cost-conscious first-time flyers.
-
-📎 [阅读原文](https://skift.com/2026/07/06/if-india-is-going-premium-why-are-its-airlines-fighting-for-the-budget-traveler/) — *Skift*
 
 ---
 
@@ -515,7 +515,7 @@ The post Cadillac Recalls Vistiq EVs Over Third-Row Seat That Could Trap a Child
 - **💰 经济财经**: CNBC
 - **💻 科技**: TechCrunch
 - **🔬 科学**: Science Daily
-- **⚽ 体育**: BBC Sport
+- **⚽ 体育**: ESPN
 - **🎬 娱乐**: Variety
 - **🏥 健康**: WHO
 - **🎮 游戏**: IGN
@@ -528,6 +528,7 @@ The post Cadillac Recalls Vistiq EVs Over Third-Row Seat That Could Trap a Child
 ## ⚠️ 今日故障源
 
 - **🚗 汽车**: Roadshow, Autocar
+- **✈️ 旅游**: Nomadic Matt
 
 ---
 
