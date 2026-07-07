@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月07日** | 生成时间: 2026-07-07 11:47
+**2026年07月07日** | 生成时间: 2026-07-07 17:49
 
 ---
 
@@ -22,29 +22,29 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Trump confirms he asked Fifa to review Balogun ban
-
-[原文] President Donald Trump confirms he asked Fifa to review United States striker Folarin Balogun's one-match suspension at the World Cup.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 3. Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC
+### 2. Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC
 
 [原文] Former prisoners accuse the men of abuse in detention centres and want to see them brought to trial.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2kkrx8jeno?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Resistance and revenge - Iran wanted to send a message with its farewell to Khamenei
+### 3. Marine Le Pen's moment of truth: Why Tuesday court verdict matters for France
 
-[原文] Three days of public mourning in Tehran was a political spectacle Iran's leaders wanted the world to see, writes the BBC's international correspondent Lyse Doucet.
+[原文] The leader of France's National Rally leads the opinion polls ahead of the 2027 presidential election and will now find out if she can stand.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c07yy3j3nljo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/clyeele4leeo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Charlie Kirk's family attends hearing for suspect charged with his murder
+### 4. Explosions injure 18 in Damascus during Macron's visit
 
-[原文] The hearing will decide whether Tyler Robinson will stand trial in the shooting death of Kirk, a key Trump ally.
+[原文] As reports of the blasts came in, state television said the Syrian president had welcomed Macron at the presidential palace.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c1myyyyjvx5o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Watch: Moment rare tornado lashes central Chinese cities
+
+[原文] Videos shared with the BBC show debris flying through the air as the storm swept through Ezhou and Huanggang in Hubei province.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/videos/cq61d22ved2o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,11 +54,11 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. U.S. loses to Belgium 4-1; Balogun plays after Trump calls FIFA
+### 1. Oil prices rise after report of Iranian attack on commercial ships in Strait of Hormuz
 
-[原文] FIFA reversed Folarin Balogun’s suspension after Trump sought a review, letting the U.S. striker play Belgium over objections.
+[原文] Brent and U.S. crude futures rose after a report of an Iranian attack on commercial ships in the Strait of Hormuz.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/05/trump-fifa-balogun-world-cup-red-card-suspension.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/07/oil-prices-iran-strait-hormuz.html) — *CNBC*
 
 ### 2. Trump heads to Turkey as NATO is strained by Russian attacks, U.S. impatience
 
@@ -66,17 +66,17 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/07/trump-nato-turkey-russia-ukraine-spending.html) — *CNBC*
 
-### 3. Hanwha Ocean shares sink 23% as it loses bid to build Canada's next fleet of submarines
+### 3. Samsung posts 1,800% jump in profit, but AI spending concerns spook investors
+
+[原文] Samsung Electronics shares fell even after record preliminary second-quarter profit as capex and demand concerns clouded the outlook.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/07/samsung-electronics-preliminary-second-quarter-profit-hits-fresh-high.html) — *CNBC*
+
+### 4. Hanwha Ocean shares sink 23% as it loses bid to build Canada's next fleet of submarines
 
 [原文] Canadian Prime Minister Mark Carney announced Monday that Germany's Thyssenkrupp Marine Systems would be the preferred supplier for delivering the submarines.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/07/hanwha-ocean-shares-sink-canada-submarines-tkms.html) — *CNBC*
-
-### 4. Microsoft cuts 4,800 jobs, as Xbox unit downsizes and plans to spin off four gaming studios
-
-[原文] Microsoft is cutting jobs in its commercial business and its Xbox gaming group, where revenue has been shrinking.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/06/microsoft-cuts-2point1percent-of-employees-as-xbox-unit-plans-to-spin-studios.html) — *CNBC*
 
 ### 5. Graham Platner denies sex assault claim as Democrats urge him to quit Maine Senate race
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Netflix invented binge-watching. Now it may have outgrown it.
+### 1. The first American autonomous ground vehicles are fighting in Ukraine
+
+[原文] Forterra has deployed more than 100
+
+📎 [阅读原文](https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/) — *TechCrunch*
+
+### 2. Netflix invented binge-watching. Now it may have outgrown it.
 
 [原文] A new report suggests Netflix viewers aren’t sticking around for Season 2. The bigger issue may be that binge-watching itself is no longer the advantage it once was.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/06/netflix-invented-binge-watching-now-it-may-have-outgrown-it/) — *TechCrunch*
 
-### 2. The ‘first’ AI-run ransomware attack still needed a human
+### 3. The ‘first’ AI-run ransomware attack still needed a human
 
 [原文] An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied
 
 📎 [阅读原文](https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/) — *TechCrunch*
 
-### 3. US investors will soon get access to SK Hynix, another memory maker riding the AI boom
+### 4. US investors will soon get access to SK Hynix, another memory maker riding the AI boom
 
 [原文] SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/) — *TechCrunch*
 
-### 4. Vercel CEO Guillermo Rauch on the fight to split off models from agents
+### 5. Vercel CEO Guillermo Rauch on the fight to split off models from agents
 
 [原文] "The reality is, when you're optimizing for production, you start looking at a price/performance," Guillermo Rauch tells TechCrunch.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/) — *TechCrunch*
-
-### 5. You can now customize Siri’s pace and expressivity in the latest iOS 27 beta
-
-[原文] The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/) — *TechCrunch*
 
 ---
 
@@ -168,17 +168,17 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Why European backlash over Trump intervention won't worry Infantino
+### 1. A shambolic end for the American dream - did Balogun saga play a part?
 
-[原文] After 10 years as Fifa president, could the Folarin Balogun controversy tip the balance against Gianni Infantino? Don't bet on it.
+[原文] Mauricio Pochettino says he feels "disappointed with too many people" who brought "politics and manipulation" into the game as the US exit World Cup.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cvgmmmgemd8o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c4gyxdeql5eo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Fery 'stands tall and takes advantage' to continue dream Wimbledon run
+### 2. 'Overturn this' - Belgium taunt US and say Trump move fired them up
 
-[原文] Seven days ago, there was doom and gloom around British players' performances at this year's Wimbledon. Then Arthur Fery stepped forward.
+[原文] Belgium's Nicolas Raskin says Fifa's decision to allow US striker Folarin Balogun to play against them fired them up for the last-16 tie in Seattle.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/c3wyyj54p18o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c4gyj50450go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ### 3. Ronaldo's World Cup career ends in tears as 'pandering' Martinez departs
 
@@ -186,17 +186,17 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c3vyyq1kg5go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Spain's World Cup challenge built on record-breaking historic defence
+### 4. 'Learn how to lose' - tempers flare in Wimbledon mixed doubles
 
-[原文] If Spain are to get their hands on the World Cup trophy again, they may have their defence, rather than their attack, to thank.
+[原文] Jelena Ostapenko and Marcelo Arevalo advance to the Wimbledon mixed doubles semi-finals in straight sets, but the victory is marred by a fiery post-match argument.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cyv00rzd3lpo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/videos/c4gyy151xzyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Miami Heat sign Antetokounmpo from Milwaukee Bucks
+### 5. Why European backlash over Trump intervention won't worry Infantino
 
-[原文] Two-time NBA Most Valuable Player Giannis Antetokounmpo joins Miami Heat from the Milwaukee Bucks.
+[原文] After 10 years as Fifa president, could the Folarin Balogun controversy tip the balance against Gianni Infantino? Don't bet on it.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/basketball/articles/c872y8g3qpeo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cvgmmmgemd8o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Herb Alpert & the Tijuana Brass Whip It Good at the Hollywood Bowl, Returning After 59 Years for a Great Sugar Rush of a Show: Concert Review
+### 1. ‘Toy Story 5’ Holds No. 1 as ‘Minions & Monsters’ Chases at U.K. and Ireland Box Office
+
+[原文] The U.K. and Ireland box office maintained a steady rhythm over the weekend as Disney&#8217;s &#8220;Toy Story 5&#8221; retained the number one spot for a third consecutive frame. The Pixar release co
+
+📎 [阅读原文](https://variety.com/2026/film/box-office/toy-story-5-minions-monsters-uk-ireland-box-office-1236803117/) — *Variety*
+
+### 2. Herb Alpert & the Tijuana Brass Whip It Good at the Hollywood Bowl, Returning After 59 Years for a Great Sugar Rush of a Show: Concert Review
 
 [原文] The Hollywood Bowl was by no means a lonely bowl Sunday night, as Herb Alpert &#38; the Tijuana Brass returned to pack the storied venue for the first time in 59 years. The Brass&#8217;s Cahuenga Pass
 
 📎 [阅读原文](https://variety.com/2026/music/concert-reviews/herb-alpert-tijuana-brass-hollywood-bowl-concert-review-1236802736/) — *Variety*
 
-### 2. U.S. Men’s National Soccer Team Eliminated From World Cup Competition in Loss to Belgium
+### 3. U.S. Men’s National Soccer Team Eliminated From World Cup Competition in Loss to Belgium
 
 [原文] The U.S. Men&#8217;s National Soccer Team has been eliminated from World Cup competition in a hard 4-1 loss Monday evening to Belgium in the Round of 16 of the global soccer tournament. Belgium defeat
 
 📎 [阅读原文](https://variety.com/2026/tv/news/u-s-mens-national-soccer-team-eliminated-world-cup-belgium-1236803018/) — *Variety*
 
-### 3. LISTEN: ‘Minions and Monsters’ Has Tepid U.S. Opening as ‘Young Washington’ Impresses; Why Comcast’s Sky is Buying ITV
+### 4. LISTEN: ‘Minions and Monsters’ Has Tepid U.S. Opening as ‘Young Washington’ Impresses; Why Comcast’s Sky Is Buying ITV
 
 [原文] Variety’s Rebecca Rubin breaks down a muted July 4th holiday weekend at the box office with a tepid U.S. opening for Universal and Illumination’s “Minions and Monsters” but a solid turnout for indie A
 
 📎 [阅读原文](https://variety.com/2026/film/news/minions-and-monsters-young-washington-box-office-sky-itv-1236802981/) — *Variety*
 
-### 4. Television City and Orbital Studios Partner to Bring Virtual Production Studio to L.A.’s Fairfax District
+### 5. Television City and Orbital Studios Partner to Bring Virtual Production Studio to L.A.’s Fairfax District
 
 [原文] Television City and Orbital Studios have partnered to bring a new virtual production studio to L.A.&#8217;s Fairfax District. The new LED volume will be based at 7800 Beverly Boulevard, Television Cit
 
 📎 [阅读原文](https://variety.com/2026/biz/news/television-city-orbital-studios-new-virtual-production-studio-1236802430/) — *Variety*
-
-### 5. Amazon’s New ‘Tomb Raider’ Video Game Star on Becoming Lara Croft, Sophie Turner’s TV Series and the ‘Really, Really Big’ Adventure Coming in ‘Catalyst’
-
-[原文] On the heels of a big launch for its new James Bond video game, &#8220;007 First Light,&#8221; and talks of another 007 film, Amazon is going all in on another classic British character with the upcom
-
-📎 [阅读原文](https://variety.com/2026/digital/news/amazon-new-tomb-raider-game-star-atlantis-catalyst-tv-series-1236802652/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Walmart Has a Decent 512GB Nintendo Switch 2 Memory Card Deal Despite the Price Hikes
+### 1. Microsoft Expected Game Pass Would Have 77 Million Subscribers by Now but It Reportedly Only Has 30 Million, as Xbox Boss Admits the Strategy Has Failed
+
+[原文] Xbox CEO Asha Sharma has admitted Game Pass has failed to grow as Microsoft had expected, with reports indicating it is tens of millions of subscribers short of previous targets.
+
+📎 [阅读原文](https://www.ign.com/articles/microsoft-expected-game-pass-would-have-77-million-subscribers-by-now-but-it-reportedly-only-has-30-million-as-xbox-boss-admits-the-strategy-has-failed) — *IGN*
+
+### 2. Nintendo Confirms Switch 1 Global Availability After Announcing European Withdrawal
+
+[原文] Nintendo has confirmed its plans to continue selling Switch 1, after yesterday announcing that sales would be suspended in Europe.
+
+📎 [阅读原文](https://www.ign.com/articles/nintendo-confirms-switch-1-global-availability-after-announcing-european-withdrawal) — *IGN*
+
+### 3. Walmart Has a Decent 512GB Nintendo Switch 2 Memory Card Deal Despite the Price Hikes
 
 [原文] You can hold out for as long as you want, but sooner or later you'll need more space.
 
 📎 [阅读原文](https://www.ign.com/articles/best-nintendo-switch-2-microsd-express-memory-card-deal-july-2026) — *IGN*
 
-### 2. Save 50% Off the Lokithor J2250 Pro Cordless Car Jump Starter With LiFePO4 Batteries
+### 4. Save 50% Off the Lokithor J2250 Pro Cordless Car Jump Starter With LiFePO4 Batteries
 
 [原文] LiFePO4 jump starters are safer, last longer, and work better in cold weather than traditional lithium models.
 
 📎 [阅读原文](https://www.ign.com/articles/lokithor-j2250-pro-cordless-car-jump-starter-deal) — *IGN*
 
-### 3. Steam Machine vs PS5: How Does Valve's New Mini PC Stack Up?
+### 5. Steam Machine vs PS5: How Does Valve's New Mini PC Stack Up?
 
 暂无摘要。
 
 📎 [阅读原文](https://www.ign.com/articles/steam-machine-vs-ps5-how-does-valves-new-mini-pc-stack-up) — *IGN*
-
-### 4. How to Build a Better Steam Machine for (Slightly) Less
-
-暂无摘要。
-
-📎 [阅读原文](https://www.ign.com/articles/how-to-build-a-better-steam-machine-for-slightly-less) — *IGN*
-
-### 5. GKIDS Reveals 3 New Collector’s Editions of Beloved Films and Blu-ray Remaster of Hideaki Anno’s Love & Pop at Anime Expo 2026
-
-[原文] Media distributor GKIDS announced four new home video releases "built specifically for collectors" during its 2026 Anime Expo panel.
-
-📎 [阅读原文](https://www.ign.com/articles/gkids-anime-expo-2026-4k-blu-ray-announcements) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post Cadillac Recalls Vistiq EVs Over Third-Row Seat That Could Trap a Child
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump Wants to Fast Track AI
+### 1. Bali is Still Choking on Plastic
+
+[原文] BALI, Indonesia —Piles of trash line the roadsides, plastic floats in rivers and toxic fumes fill the air. Bali is in the midst of a severe waste crisis. Although the popular tourist destination has s
+
+📎 [阅读原文](https://insideclimatenews.org/news/07072026/bali-is-still-choking-on-plastic/) — *Inside Climate News*
+
+### 2. Trump Wants to Fast Track AI
 
 [原文] In brief remarks to reporters Monday at the White House, President Donald Trump noted that he was shocked to learn how much energy developing artificial intelligence requires and said his administrati
 
 📎 [阅读原文](https://insideclimatenews.org/news/06072026/trump-wants-to-fast-track-ai/) — *Inside Climate News*
 
-### 2. Dam Removal Efforts Lead to a Stunning Comeback for Maine’s Alewives
+### 3. Dam Removal Efforts Lead to a Stunning Comeback for Maine’s Alewives
 
 [原文] For a few weeks each summer, the Sebasticook River in Benton, Maine, is paved with flashing silver scales, so thick it seems you could almost walk across. The alewives have returned for their annual m
 
 📎 [阅读原文](https://insideclimatenews.org/news/06072026/maine-dam-removal-efforts-lead-to-fish-comeback/) — *Inside Climate News*
 
-### 3. Climate Reporting Is Changing
+### 4. Climate Reporting Is Changing
 
 [原文] Welcome to Inside Climate, a new podcast from the staff of Inside Climate News. As the ICN newsroom grows and expands, so is its reporting. For the show’s debut episode, co-host Kiley Price sits down 
 
 📎 [阅读原文](https://insideclimatenews.org/news/05072026/inside-climate-podcast-pilot/) — *Inside Climate News*
 
-### 4. Dairy Farms’ Expansion Plan Worries California Families Who Once Had a ‘Little Piece of Heaven’
+### 5. Dairy Farms’ Expansion Plan Worries California Families Who Once Had a ‘Little Piece of Heaven’
 
 [原文] PLANADA, Calif.—David Rodriguez learned to swim in the canals near his childhood home in the 1960s, back when orchards of figs, peaches and almonds encircled his neighborhood. Before the area around t
 
 📎 [阅读原文](https://insideclimatenews.org/news/05072026/california-dairy-farm-expansion-plan-worries-residents/) — *Inside Climate News*
-
-### 5. New Gold Exploration Revives Old Fears for Montana’s Blackfoot River
-
-[原文] More than half a century after one of Montana&#8217;s most destructive mining disasters poisoned the upper Blackfoot River, a new gold exploration project near the river&#8217;s headwaters is sparking
-
-📎 [阅读原文](https://insideclimatenews.org/news/04072026/montana-blackfoot-river-gold-exploration/) — *Inside Climate News*
 
 ---
 
