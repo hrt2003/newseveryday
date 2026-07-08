@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月08日** | 生成时间: 2026-07-08 11:15
+**2026年07月08日** | 生成时间: 2026-07-08 16:35
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. US launches strikes on Iran after tankers hit in Strait of Hormuz
+### 1. Will Le Pen rise again? French nationalist leader defiant after court's ruling
 
-[原文] The US says the strikes are intended to impose "heavy costs", while Iran warns it will "take decisive measures" in response.
+[原文] Within hours of a court of appeal confirming a guilty verdict, Marine Le Pen had already launched her presidential campaign.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvgdlprp1r3o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Marine Le Pen to run for French presidency and appeal conviction in top court
+### 2. Nato allies announce £37bn for new missile project
 
-[原文] The hard-right National Rally leader has ended months of speculation, after a court ruled she could run but would have to wear a tag for a year.
+[原文] Prime Minister Sir Keir Starmer will convene around a dozen leaders to discuss the programme in Ankara.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c7vygl3zymjo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Trump looms large as Nato grapples with challenge of rearming Europe
+### 3. Russian fuel shortages bite – but will Putin change tack in Ukraine war?
 
-[原文] The US president's inflammatory words have punctuated the image of unity at this crucial gathering, Security Correspondent Frank Gardner writes.
+[原文] Even in Moscow, authorities are unable to guarantee fuel supplies, but will economic pressure lead to talks or escalation?
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/ckg06d3dgnlo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cr7xk8j0j2do?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Woman suspected of Monaco bomb attack found dead in Ukraine
+### 4. 'The water just came so fast': Typhoon triggers floods and rare tornadoes in China
 
-[原文] Police had been hunting Anastasiia Berezovska after a Ukrainian millionaire was injured in the blast.
+[原文] Villagers whose families have been stranded told the BBC they are struggling to get food and help.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5yz3770yg8o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c79ygnv9e93o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Lawyer says detained Gaza doctor was severely beaten in Israeli jail
+### 5. Suspect ate Chick-fil-A and interacted with Charlie Kirk staff before shooting, court hears
 
-[原文] The lawyer for Dr Hussam Abu Safiya tells the BBC his client was so badly beaten he could not recognise him during a visit last week.
+[原文] The preliminary hearing will determine whether Tyler Robinson, accused of killing conservative activist Charlie Kirk, will stand trial.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c07yy3pgrlmo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cr5j983p046o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Oil jumps as U.S. 'powerful strikes' against Iran risk unraveling fragile Mideast truce
+### 1. Trump says he doesn't want anything to do with Spain: 'Cut off all trade'
+
+[原文] U.S. President Donald Trump slammed Spain for not contributing enough to NATO, as he attended the defense alliance summit in Turkey.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/08/trump-spain-nato-trade-summit.html) — *CNBC*
+
+### 2. 'Don't fool with us': NATO allies put on a united front as they prepare to meet Trump
+
+[原文] NATO chief Mark Rutte said Wednesday that the alliance was entering its "NATO 3.0" era.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/08/nato-trump-rutte-russia-iran-greenland-ukraine.html) — *CNBC*
+
+### 3. Oil jumps as U.S. 'powerful strikes' against Iran risk stoke Mideast tensions
 
 [原文] Oil prices rose on Wednesday after the U.S. launched fresh strikes on Iran in retaliation for attacks on commercial vessels in the Strait of Hormuz.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/08/oil-prices-brent-wti-iran-us-hormuz.html) — *CNBC*
 
-### 2. U.S. completes strikes on multiple Iranian targets after Hormuz Strait ship attacks, Centcom says
+### 4. Denmark PM vows to defend Greenland after Trump revives push for U.S. control
 
-[原文] The U.S. revoked Iran oil sales authorization earlier in the day.
+[原文] Danish Prime Minister Mette Frederiksen delivered a rebuke to President Donald Trump's latest push for U.S. control of Greenland.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/07/us-strikes-iran-hormuz-ships.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/08/greenland-trump-nato-denmark.html) — *CNBC*
 
-### 3. Maine Senate race replacements circle amid pressure on Platner to drop out
+### 5. China warns about AI risks with Anthropic's Claude Code
 
-[原文] Democrat Graham Platner has denied allegations of sexual assault leveled by Maine resident Jenny Racicot as calls for him to exit the pivotal race mount.
+[原文] China said specific versions of Claude Code posed back-door vulnerabilities that could send sensitive information to a remote server.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/07/graham-platner-sexual-assault-allegation-maine-senate.html) — *CNBC*
-
-### 4. China's rare missile test will push wary Asia-Pacific countries to close ranks, analysts say
-
-[原文] China's rare launch of a ballistic missile launch into the Pacific will push regional powers to deepen their defense ties.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/08/china-nuclear-missile-launch-test-pacific-weapons-military-defense-alliance-australia-.html) — *CNBC*
-
-### 5. Netflix, Disney and YouTube interested in FIFA World Cup U.S. rights; package could reach $2 billion
-
-[原文] FIFA has alerted media companies that English- and Spanish-language U.S. rights are likely to be sold together for 2030 and 2034, likely driving up the price.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/07/fifa-world-cup-media-rights-netflix-disney-youtube.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/08/china-anthropic-ai-claude-code-backdoor-security-threat.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Final extension: Startup Battlefield Australia applications now close July 20
+### 1. Hot French startup ZML releases free product to speed inference across lots of AI chips
+
+[原文] ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/) — *TechCrunch*
+
+### 2. AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round
+
+[原文] AI chip maker SambaNova has raised at an $11B valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/) — *TechCrunch*
+
+### 3. Final extension: Startup Battlefield Australia applications now close July 20
 
 [原文] If you're building something ambitious, this is a fast track to the people who can move your startup forward.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20/) — *TechCrunch*
 
-### 2. Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos
+### 4. Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos
 
-[原文] The new image-generating model has numerous use cases, including advertising, decorating and creator-based opportunities.
+[原文] The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/) — *TechCrunch*
 
-### 3. Why the rise of open source AI isn’t hurting Anthropic … yet
+### 5. Why the rise of open source AI isn’t hurting Anthropic … yet
 
 [原文] Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/) — *TechCrunch*
-
-### 4. Microsoft joins AI cost-cutting trend by relying more on its own models
-
-[原文] Microsoft is the latest Silicon Valley giant to cut back on its AI spending.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/) — *TechCrunch*
-
-### 5. Discord admits AI moderation bug wrongfully banned users over harmless images
-
-[原文] The company confirmed that the issue had been affecting accounts since May, with an additional 200 users banned over the weekend before its team identified and fixed the problem.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Messi has no equals, and if not for him, Argentina...
+### 1. Egypt fume at 'injustice' and make Messi favouritism claims after exit
 
-[原文] Argentina's unbelievable comeback win over Egypt on Tuesday was all down to Lionel Messi, who is seemingly dragging his team to another final.
+[原文] BBC Sport unpicks a game that will go down in World Cup history for featuring a team who were two goals down so late on, but who went on to win without needing extra time.
 
-📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49300589/where-argentina-not-lionel-messi-flight-home-world-cup) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c5yzd23jll5o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Argentina, Messi complete epic comeback with VAR d...
+### 2. 'It is not normal' - but extraordinary Djokovic defies odds once again
 
-[原文] Argentina muscled their way past Egypt in a game that had everything: Messi magic, VAR drama, underdog brilliance and another unforgettable World Cup moment.
+[原文] It is worth remembering that what you are watching is not normal - but Novak Djokovic is anything but ordinary in another thrilling Wimbledon match.
 
-📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49298199/argentina-lionel-messi-world-cup-round-16-egypt-var-mohamed-salah) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cy8wev0p0wno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Wiz reunite with Mavs' Middleton in sign-and-trade...
+### 3. Tears of relief? Messi adds another incredible chapter to World Cup career
 
-[原文] The Washington Wizards are bringing back veteran Khris Middleton on a three-year, $17.6 million contract via a sign-and-trade deal, his agent told ESPN's Shams Charania.
+[原文] Argentina great Lionel Messi sheds tears as they fight back to beat Egypt and reach the World Cup quarter-finals.
 
-📎 [阅读原文](https://www.espn.com/nba/story/_/id/49301627/khris-middleton-back-wizards-2nd-stint-6-team-sign-trade-deal) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cz6v407y3qjo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Messi saves Argentina in dramatic win over Egypt
+### 4. Superb England inflict record T20 defeat on India
 
-[原文] Lionel Messi scored in a record sixth straight World Cup knockout match to help Argentina reach the quarterfinals with a stunning late comeback to beat Egypt 3-2 in Atlanta.
+[原文] England inflict a record defeat on India in the third Twenty20 at Trent Bridge to give the home side a 2-0 lead with two matches in the series remaining.
 
-📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49297600/argentina-egypt-lionel-messi-2026-world-cup) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cn59nkwp275o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Egypt bemoan 'injustice' after Argentina defeat
+### 5. How GB's Fery can beat Cobolli to reach Wimbledon semi-finals
 
-[原文] Hossam Hassan said Egypt were the victim of an "injustice" in their 3-2 World Cup defeat against Argentina due to FIFA wanting Lionel Messi to "stay in the running."
+[原文] Arthur Fery is bidding to become the fifth British man to reach the Wimbledon semi-finals in the Open era - here is how he can beat Italian 10th seed Flavio Cobolli.
 
-📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49298958/egypt-boss-bemoans-injustice-loss-argentina-world-cup) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/c20y4x4y714o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Anne Hathaway ‘Spent a Week’ Prepping for Harley Quinn Before ‘Dark Knight Rises’ Meeting; Nolan Didn’t Reveal Catwoman Until Two Hours Into Their Chat
+### 1. Malaysia-U.K. Rom-Com ‘Finding Mojo’ Unveils Release Dates, Min Lim Details Double Vision’s Global Ambitions: ‘This Is Southeast Asia’s Moment’ (EXCLUSIVE)
 
-[原文] Anna Hathaway said on the &#8220;Happy Sad Confused&#8221; podcast that she spent a full week channeling Harley Quinn before meeting Christopher Nolan for &#8220;The Dark Knight Rises&#8221; because s
+[原文] Romantic comedy &#8220;Finding Mojo&#8221; opens nationwide in Malaysia on July 23, with a Singapore release following on July 31 and an Indonesian bow in the works. Astro Shaw is distributing the fil
 
-📎 [阅读原文](https://variety.com/2026/film/news/anne-hathaway-harley-quinn-dark-knight-rises-nolan-catwoman-1236803349/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/finding-mojo-malaysia-uk-rom-com-double-vision-1236804161/) — *Variety*
 
-### 2. ‘Selamlik’ Wins Eurimages Co-Production Development Award at Karlovy Vary Film Festival
+### 2. Ghosts, Grief and a Vanishing Highway: ‘The Ink Stained Hand and the Missing Thumb,’ From India’s Yashasvi Juyal, Arrives at Karlovy Vary
 
-[原文] KVIFF Promises, part of the industry program of Karlovy Vary Intl. Film Festival, has unveiled the winners of the Eurimages Co-production Development Award, as well as other prizes. The Eurimages Co-p
+[原文] Yashasvi Juyal did not pitch his way into filmmaking. He shot his way in. &#8220;We never went through the route of pitching from development,&#8221; the Indian filmmaker says of &#8220;The Ink Staine
 
-📎 [阅读原文](https://variety.com/2026/film/global/selamlik-eurimages-co-production-development-award-1236804017/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/yashasvi-juyal-ink-stained-hand-karlovy-vary-1236801318/) — *Variety*
 
-### 3. Autographed Lionel Messi Memorabilia Drops Online as Argentine Star Leads Team Into World Cup Quarterfinals
+### 3. ‘The Kitchen’ Director Alonso Ruizpalacios at BAM: ‘We Need More Trojan Horses’
 
-[原文] The 2026 FIFA World Cup is into the knockout rounds and all eyes will be on Lionel Messi, as the soccer legend leads Argentina onwards in their campaign to claim a second consecutive World Cup title. 
+[原文] His masterclass started an hour late after Colombia’s FIFA World Cup clash with Switzerland went to penalties, leaving the opening-day crowd at the Bogotá Audiovisual Market (BAM) visibly deflated ove
 
-📎 [阅读原文](https://variety.com/2026/shopping/athletes/best-lionel-messi-autograph-jersey-signed-merch-buy-online-1236799022/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/the-kitchen-director-alonso-ruizpalacios-bam-1236804119/) — *Variety*
 
-### 4. ‘NCIS: New York’ Casts Jennifer Beals, Jacqueline Byers, Shane Harper, Devin Druid
+### 4. Netflix’s Mexican Drama ‘I’m Not Afraid’ Is a Gut-Wrenching Mystery and Exhilarating Coming-of-Age Tale: TV Review
 
-[原文] &#8220;NCIS: New York,&#8221; the upcoming newest entry in the CBS franchise, has added four new cast members. Variety has confirmed that Jennifer Beals (&#8220;The L Word,&#8221; &#8220;Devil in a Bl
+[原文] Netflix’s latest Spanish-language mini-series, “I’m Not Afraid,” is a harrowing tale about the cruelties of poverty and the loss of childhood innocence. The first television adaptation of Niccolò Amma
 
-📎 [阅读原文](https://variety.com/2026/tv/news/ncis-new-york-cast-jennifer-beals-jacqueline-byers-1236803956/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/reviews/im-not-afraid-review-netflix-1236802502/) — *Variety*
 
-### 5. Christopher Nolan Says ‘The Odyssey’s’ Modern English Dialogue ‘Was a No-Brainer’ Even If ‘It Might Bite Me on the Ass’ and ‘I Was Maybe Being Naïve’
+### 5. Dwayne Johnson Laughed ‘So F—ing Hard’ When He Saw the Memes About His ‘Moana’ Wig: ‘It Was Very, Very Funny’
 
-[原文] Christopher Nolan&#8217;s &#8220;The Odyssey&#8221; is based on Homer&#8217;s ancient Greek epic, which dates back to around the 8th or 7th century BC. As a result, some moviegoers were surprised when
+[原文] Dwayne Johnson went through 12 different Maui wigs before landing on the perfect one for the live-action &#8220;Moana,&#8221; and laughed &#8220;so fucking hard&#8221; when he saw the internet&#8217;s
 
-📎 [阅读原文](https://variety.com/2026/film/news/christopher-nolan-defends-odyssey-accents-english-dialogue-1236803556/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/dwayne-johnson-laughed-memes-moana-wig-disney-1236804045/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Expand Your Home Gym With This Yoleo Weight Bench for Less Than $38 Shipped
+### 1. Amazon's Audible Prime Day Deal Has Been Extended: Pay Just $1 Per Month and Get $20 in Audible Credit
+
+[原文] Catch up on the latest audiobooks from Rebecca Yarros, Brandon Sanderson, Suzanne Collins, and more.
+
+📎 [阅读原文](https://www.ign.com/articles/amazon-prime-day-audible-deal-for-june-2026) — *IGN*
+
+### 2. Fast & Furious 11 Reportedly Not in Production Yet
+
+[原文] On-set update from Vin Diesel appears related to a FIFA World Cup promo.
+
+📎 [阅读原文](https://www.ign.com/articles/fast-furious-11-reportedly-not-in-production-yet) — *IGN*
+
+### 3. Expand Your Home Gym With This Yoleo Weight Bench for Less Than $38 Shipped
 
 [原文] Comes 95% pre-assembled.
 
 📎 [阅读原文](https://www.ign.com/articles/expand-your-home-gym-with-this-yoleo-weight-bench-deal-july) — *IGN*
 
-### 2. The Coslus C20 Cordless Rechargeable Water Flosser Drops 83% to Just $6.99
+### 4. The Coslus C20 Cordless Rechargeable Water Flosser Drops 83% to Just $6.99
 
 [原文] Even gamers should practice good oral hygiene.
 
 📎 [阅读原文](https://www.ign.com/articles/coslus-c20-cordless-rechargeable-water-flosser-deal) — *IGN*
 
-### 3. The Corsair TC100 Relaxed Is the Best Gaming Chair Priced Under $150
+### 5. The Corsair TC100 Relaxed Is the Best Gaming Chair Priced Under $150
 
 [原文] One of our favorite budget gaming chairs of 2026 is an extra 45% off for this week only.
 
 📎 [阅读原文](https://www.ign.com/articles/corsair-tc100-relaxed-gaming-chair-deal-in-july) — *IGN*
-
-### 4. The Alienware 18 Area-51 RTX 5090 Gaming Laptop With 64GB of RAM Drops to $3,000 at Dell Outlet
-
-[原文] Alienware's biggest and most powerful ultra high-end gaming laptop.
-
-📎 [阅读原文](https://www.ign.com/articles/alienware-area-51-18-gaming-laptop-deal-at-dell-outlet-in-july) — *IGN*
-
-### 5. Call of Duty: Black Ops 1 and 2's Leaked PS5 Trophy List Indicates Some Content May Be Missing
-
-[原文] Call of Duty: Black Ops 1 and 2 might be missing a few modes and pieces of content when they're re-released for PS4 and PS5 later this month.
-
-📎 [阅读原文](https://www.ign.com/articles/call-of-duty-black-ops-1-and-2s-leaked-ps5-trophy-list-indicates-some-content-may-be-missing) — *IGN*
 
 ---
 
@@ -401,35 +401,35 @@ The post The Price Gap Between Regular and Premium Ga
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. New Study Cites Growing “Crisis” of Healthcare Costs on School District Budgets
+### 1. How a Vinyl Record Resurgence Helped Me Understand the Future of AI in Education
+
+[原文] Streaming solved the problem of access. Now, we must solve the problem of engagement.
+
+📎 [阅读原文](https://edsurge.com/news/how-a-vinyl-record-resurgence-helped-me-understand-the-future-of-ai-in-education) — *EdSurge*
+
+### 2. New Study Cites Growing “Crisis” of Healthcare Costs on School District Budgets
 
 [原文] Will rising healthcare costs affect teacher hiring?
 
 📎 [阅读原文](https://edsurge.com/news/new-study-cites-growing-crisis-of-healthcare-costs-on-school-district-budgets) — *EdSurge*
 
-### 2. Podcast: Can an Algorithm Replace a Teacher’s Instinct?
+### 3. Podcast: Can an Algorithm Replace a Teacher’s Instinct?
 
 [原文] Two teachers learn what happens when they trust a tool to solve a problem.
 
 📎 [阅读原文](https://edsurge.com/news/podcast-can-an-algorithm-replace-a-teachers-instinct) — *EdSurge*
 
-### 3. International Society for Transforming Education Expands its “AI-Ready Graduate” Framework
+### 4. International Society for Transforming Education Expands its “AI-Ready Graduate” Framework
 
 暂无摘要。
 
 📎 [阅读原文](https://edsurge.com/news/international-society-for-transforming-education-expands-its-ai-ready-graduate-framework) — *EdSurge*
 
-### 4. ISTE+ASCD is Now the International Society for Transforming Education
+### 5. ISTE+ASCD is Now the International Society for Transforming Education
 
 [原文] The education nonprofit drops its combined acronym for a unified brand.
 
 📎 [阅读原文](https://edsurge.com/news/iste-ascd-is-now-the-international-society-for-transforming-education) — *EdSurge*
-
-### 5. Outgrowing the Chromebook: Why Advanced STEM Demands Better Student Tech
-
-[原文] #ASUSEducation @ASUS
-
-📎 [阅读原文](https://edsurge.com/news/outgrowing-the-chromebook-why-advanced-stem-demands-better-student-tech) — *EdSurge*
 
 ---
 
@@ -515,7 +515,7 @@ The post The Price Gap Between Regular and Premium Ga
 - **💰 经济财经**: CNBC
 - **💻 科技**: TechCrunch
 - **🔬 科学**: Science Daily
-- **⚽ 体育**: ESPN
+- **⚽ 体育**: BBC Sport
 - **🎬 娱乐**: Variety
 - **🏥 健康**: WHO
 - **🎮 游戏**: IGN
