@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月08日** | 生成时间: 2026-07-08 04:01
+**2026年07月08日** | 生成时间: 2026-07-08 11:15
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Marine Le Pen to run for French presidency and appeal conviction in top court
+### 1. US launches strikes on Iran after tankers hit in Strait of Hormuz
+
+[原文] The US says the strikes are intended to impose "heavy costs", while Iran warns it will "take decisive measures" in response.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Marine Le Pen to run for French presidency and appeal conviction in top court
 
 [原文] The hard-right National Rally leader has ended months of speculation, after a court ruled she could run but would have to wear a tag for a year.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c7vygl3zymjo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Trump looms large as Nato grapples with challenge of rearming Europe
+### 3. Trump looms large as Nato grapples with challenge of rearming Europe
 
 [原文] The US president's inflammatory words have punctuated the image of unity at this crucial gathering, Security Correspondent Frank Gardner writes.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/ckg06d3dgnlo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Woman suspected of Monaco bomb attack found dead in Ukraine
+### 4. Woman suspected of Monaco bomb attack found dead in Ukraine
 
 [原文] Police had been hunting Anastasiia Berezovska after a Ukrainian millionaire was injured in the blast.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5yz3770yg8o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Lawyer says detained Gaza doctor was severely beaten in Israeli jail
+### 5. Lawyer says detained Gaza doctor was severely beaten in Israeli jail
 
 [原文] The lawyer for Dr Hussam Abu Safiya tells the BBC his client was so badly beaten he could not recognise him during a visit last week.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c07yy3pgrlmo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Hungary's public news broadcasts halted in bid to scrap Orban-era propaganda
-
-[原文] The country's main state TV channel displayed a message saying it was "sorry" for lying on Tuesday.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cgevwq1pndgo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,17 +54,17 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. U.S. revokes Iran oil sales authorization after tanker attacks
+### 1. Oil jumps as U.S. 'powerful strikes' against Iran risk unraveling fragile Mideast truce
 
-暂无摘要。
+[原文] Oil prices rose on Wednesday after the U.S. launched fresh strikes on Iran in retaliation for attacks on commercial vessels in the Strait of Hormuz.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/07/us-revokes-iran-oil-sanctions-waiver-tanker-attacks.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/08/oil-prices-brent-wti-iran-us-hormuz.html) — *CNBC*
 
-### 2. Trump renews Greenland threats at NATO summit, says U.S. could remove troops from Europe
+### 2. U.S. completes strikes on multiple Iranian targets after Hormuz Strait ship attacks, Centcom says
 
-[原文] NATO fell into a crisis earlier this year as Trump demanded that the U.S. must take control of Greenland on national security grounds.
+[原文] The U.S. revoked Iran oil sales authorization earlier in the day.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/07/trump-nato-summit-greenland-us-troops-europe.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/07/us-strikes-iran-hormuz-ships.html) — *CNBC*
 
 ### 3. Maine Senate race replacements circle amid pressure on Platner to drop out
 
@@ -72,17 +72,17 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/07/graham-platner-sexual-assault-allegation-maine-senate.html) — *CNBC*
 
-### 4. Meta enters AI image model race in bid to court advertisers and subscribers
+### 4. China's rare missile test will push wary Asia-Pacific countries to close ranks, analysts say
 
-[原文] Meta has announced Muse Image, its first AI model for image creation, as it seeks to attract creators and advertisers to its offerings.
+[原文] China's rare launch of a ballistic missile launch into the Pacific will push regional powers to deepen their defense ties.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/07/meta-ai-muse-image.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/08/china-nuclear-missile-launch-test-pacific-weapons-military-defense-alliance-australia-.html) — *CNBC*
 
-### 5. Mitch McConnell's health concerns grow amid 4th week in hospital with few details from aides
+### 5. Netflix, Disney and YouTube interested in FIFA World Cup U.S. rights; package could reach $2 billion
 
-[原文] McConnell, the former longtime Senate leader who declined to seek an eighth term following a series of health scares, was admitted to the hospital on June 14.
+[原文] FIFA has alerted media companies that English- and Spanish-language U.S. rights are likely to be sold together for 2030 and 2034, likely driving up the price.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/07/mitch-mcconnell-health-senate-gop.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/07/fifa-world-cup-media-rights-netflix-disney-youtube.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Microsoft joins AI cost-cutting trend by relying more on its own models
+### 1. Final extension: Startup Battlefield Australia applications now close July 20
+
+[原文] If you're building something ambitious, this is a fast track to the people who can move your startup forward.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20/) — *TechCrunch*
+
+### 2. Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos
+
+[原文] The new image-generating model has numerous use cases, including advertising, decorating and creator-based opportunities.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/) — *TechCrunch*
+
+### 3. Why the rise of open source AI isn’t hurting Anthropic … yet
+
+[原文] Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/) — *TechCrunch*
+
+### 4. Microsoft joins AI cost-cutting trend by relying more on its own models
 
 [原文] Microsoft is the latest Silicon Valley giant to cut back on its AI spending.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/) — *TechCrunch*
 
-### 2. Discord admits AI moderation bug wrongfully banned users over harmless images
+### 5. Discord admits AI moderation bug wrongfully banned users over harmless images
 
 [原文] The company confirmed that the issue had been affecting accounts since May, with an additional 200 users banned over the weekend before its team identified and fixed the problem.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/) — *TechCrunch*
-
-### 3. Google’s Pixel event is set for August 12
-
-[原文] Google's upcoming event in August will introduce new Pixel devices.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/07/googles-pixel-event-is-set-for-august-12/) — *TechCrunch*
-
-### 4. Figma acquires team behind a vibe-coding app
-
-[原文] The Y Combinator-backed company started a vibe-coding platform and later built an agent-creation product.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/07/figma-acquires-team-behind-a-vibe-coding-app/) — *TechCrunch*
-
-### 5. Netflix dabbles in shorter video content with its new set of publisher deals with Variety, others
-
-[原文] Netflix is bringing 2- to 20-minute videos to its platform through new partnerships with digital publishers, including Rolling Stone and Variety.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/07/netflix-dabbles-in-shorter-video-content-with-its-new-set-of-publisher-deals-with-variety-others/) — *TechCrunch*
 
 ---
 
@@ -130,35 +130,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. NASA's Hubble spots a stellar sparkler for the Fourth of July
+### 1. Incredible new material makes heat programmable
+
+[原文] A newly developed material can control and "program" heat, allowing it to direct thermal radiation, switch modes, and remember its settings without continuous power. The innovation could lead to smart
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260707025046.htm) — *Science Daily*
+
+### 2. Bumblebees collect up to 7 times more toxic metals than honeybees
+
+[原文] Bumblebees are picking up dramatically more toxic heavy metals than honeybees, even when both species forage in the same places. Researchers warn that this hidden pollution could quietly reduce their 
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260707025044.htm) — *Science Daily*
+
+### 3. NASA's Hubble spots a stellar sparkler for the Fourth of July
 
 [原文] NASA's Hubble Space Telescope has captured a spectacular red, white, and blue view of one of the Milky Way's oldest star clusters to celebrate the nation's 250th anniversary. Hidden within the ancient
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260704232642.htm) — *Science Daily*
 
-### 2. NASA's Hubble captures a crimson stellar nursery sparkling with blue and white stars
+### 4. NASA's Hubble captures a crimson stellar nursery sparkling with blue and white stars
 
 [原文] Hubble has captured a spectacular view of LH 95, where about 2,500 young stars are still on their journey to becoming full-fledged stars. Scientists discovered these growing stars can keep pulling in 
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260704232639.htm) — *Science Daily*
 
-### 3. NASA's Hubble captures a star-spangled sea of 500,000 stars
+### 5. NASA's Hubble captures a star-spangled sea of 500,000 stars
 
 [原文] Celebrating the United States' 250th anniversary, NASA released a stunning Hubble portrait of Messier 3, an ancient globular cluster with more than 500,000 stars. The remarkable cluster is helping sci
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260704232634.htm) — *Science Daily*
-
-### 4. NASA celebrates America's 250th birthday with incredible views of space
-
-[原文] NASA is marking the United States' 250th birthday with four striking red, white, and blue images of deep space from the Chandra X-ray Observatory. The collection features an exploded star, a stellar n
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260702230859.htm) — *Science Daily*
-
-### 5. New research reveals the hidden pollution left behind by fireworks
-
-[原文] Scientists have uncovered new evidence that fireworks can pollute both the air and water in ways that extend beyond the visible smoke. The findings show that leftover debris, fine particles, and airbo
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260701205009.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Follow live: Colombia, Switzerland battle for fina...
+### 1. Messi has no equals, and if not for him, Argentina...
 
-[原文] null
+[原文] Argentina's unbelievable comeback win over Egypt on Tuesday was all down to Lionel Messi, who is seemingly dragging his team to another final.
 
-📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49293140/world-cup-daily-live-messi-fans-troll-speed-ronaldo-exit-argentina-colombia-action) — *ESPN*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49300589/where-argentina-not-lionel-messi-flight-home-world-cup) — *ESPN*
 
-### 2. Messi saves Argentina in dramatic win over Egypt
+### 2. Argentina, Messi complete epic comeback with VAR d...
+
+[原文] Argentina muscled their way past Egypt in a game that had everything: Messi magic, VAR drama, underdog brilliance and another unforgettable World Cup moment.
+
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49298199/argentina-lionel-messi-world-cup-round-16-egypt-var-mohamed-salah) — *ESPN*
+
+### 3. Wiz reunite with Mavs' Middleton in sign-and-trade...
+
+[原文] The Washington Wizards are bringing back veteran Khris Middleton on a three-year, $17.6 million contract via a sign-and-trade deal, his agent told ESPN's Shams Charania.
+
+📎 [阅读原文](https://www.espn.com/nba/story/_/id/49301627/khris-middleton-back-wizards-2nd-stint-6-team-sign-trade-deal) — *ESPN*
+
+### 4. Messi saves Argentina in dramatic win over Egypt
 
 [原文] Lionel Messi scored in a record sixth straight World Cup knockout match to help Argentina reach the quarterfinals with a stunning late comeback to beat Egypt 3-2 in Atlanta.
 
 📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49297600/argentina-egypt-lionel-messi-2026-world-cup) — *ESPN*
 
-### 3. Sources: Lakers still pursuing free agent Kuminga
+### 5. Egypt bemoan 'injustice' after Argentina defeat
 
-[原文] The Lakers continue to pursue unrestricted free agent wing Jonathan Kuminga, but they have not yet given him an enticing enough offer to commit, sources told ESPN.
+[原文] Hossam Hassan said Egypt were the victim of an "injustice" in their 3-2 World Cup defeat against Argentina due to FIFA wanting Lionel Messi to "stay in the running."
 
-📎 [阅读原文](https://www.espn.com/nba/story/_/id/49298644/sources-lakers-continue-pursuit-free-agent-jonathan-kuminga) — *ESPN*
-
-### 4. Late Cowboys' player Kneeland diagnosed with CTE
-
-[原文] Former Cowboys defensive end Marshawn Kneeland has been posthumously diagnosed with CTE.
-
-📎 [阅读原文](https://www.espn.com/nfl/story/_/id/49296262/late-cowboys-player-marshawn-kneeland-diagnosed-cte) — *ESPN*
-
-### 5. U.S. loss sets mark for most-watched soccer game
-
-[原文] The United States game against Belgium in the round of 16 at the FIFA World Cup set another record as the most-watched soccer telecast in U.S. history, Fox said after preliminary ratings came out Tues
-
-📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49298623/usa-belgium-most-watched-soccer-game-american-history) — *ESPN*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49298958/egypt-boss-bemoans-injustice-loss-argentina-world-cup) — *ESPN*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Sky Yang Signs With Range Media Partners (EXCLUSIVE)
+### 1. Anne Hathaway ‘Spent a Week’ Prepping for Harley Quinn Before ‘Dark Knight Rises’ Meeting; Nolan Didn’t Reveal Catwoman Until Two Hours Into Their Chat
 
-[原文] Range Media Partners has signed Sky Yang for representation, Variety has learned exclusively. Yang continues to be repped by Independent Talent Group, Jackoway Austen Tyerman, and Pippa Being. Yang is
+[原文] Anna Hathaway said on the &#8220;Happy Sad Confused&#8221; podcast that she spent a full week channeling Harley Quinn before meeting Christopher Nolan for &#8220;The Dark Knight Rises&#8221; because s
 
-📎 [阅读原文](https://variety.com/2026/tv/news/sky-yang-range-media-partners-1236803867/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/anne-hathaway-harley-quinn-dark-knight-rises-nolan-catwoman-1236803349/) — *Variety*
 
-### 2. Craig Kilborn Sets Directorial Debut ‘The Life Golden’ Starring Lauren German and Tom Byrne (EXCLUSIVE)
+### 2. ‘Selamlik’ Wins Eurimages Co-Production Development Award at Karlovy Vary Film Festival
 
-[原文] Former late night host Craig Kilborn has set his directorial debut, &#8220;The Life Golden,&#8221; starring Lauren German (&#8220;Lucifer&#8221;) and Tom Byrne (&#8220;The Crown&#8221;), Variety has e
+[原文] KVIFF Promises, part of the industry program of Karlovy Vary Intl. Film Festival, has unveiled the winners of the Eurimages Co-production Development Award, as well as other prizes. The Eurimages Co-p
 
-📎 [阅读原文](https://variety.com/2026/film/news/craig-kilborn-the-life-golden-lauren-german-tom-byrne-1236803833/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/selamlik-eurimages-co-production-development-award-1236804017/) — *Variety*
 
-### 3. Rachel Zegler-Led Psychological Thriller ‘NDA’ Acquired by Bleecker Street
+### 3. Autographed Lionel Messi Memorabilia Drops Online as Argentine Star Leads Team Into World Cup Quarterfinals
 
-[原文] Bleecker Street has acquired U.S. rights to the psychological thriller, &#8220;NDA,&#8221; starring Golden Globe winner Rachel Zegler (&#8220;West Side Story,&#8221; &#8220;Evita&#8221;), Penn Badgley
+[原文] The 2026 FIFA World Cup is into the knockout rounds and all eyes will be on Lionel Messi, as the soccer legend leads Argentina onwards in their campaign to claim a second consecutive World Cup title. 
 
-📎 [阅读原文](https://variety.com/2026/film/news/rachel-zegler-nda-bleecker-street-audrey-ellis-fox-1236803454/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/shopping/athletes/best-lionel-messi-autograph-jersey-signed-merch-buy-online-1236799022/) — *Variety*
 
-### 4. ‘Enola Holmes 3’ Debuts With 20.7 Million Views in Five Days
+### 4. ‘NCIS: New York’ Casts Jennifer Beals, Jacqueline Byers, Shane Harper, Devin Druid
 
-[原文] Millie Bobby Brown&#8217;s Netflix film franchise &#8220;Enola Holmes&#8221; returned with its third installment on July 1. The new movie debuted with 20.7 million views in five days. With that total,
+[原文] &#8220;NCIS: New York,&#8221; the upcoming newest entry in the CBS franchise, has added four new cast members. Variety has confirmed that Jennifer Beals (&#8220;The L Word,&#8221; &#8220;Devil in a Bl
 
-📎 [阅读原文](https://variety.com/2026/tv/news/enola-holmes-3-ratings-netflix-views-1236803843/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/ncis-new-york-cast-jennifer-beals-jacqueline-byers-1236803956/) — *Variety*
 
-### 5. Jessica Knoll Novel ‘Helpless’ to Be Developed for TV at Universal Global TV, Stacy Sher to Produce (EXCLUSIVE)
+### 5. Christopher Nolan Says ‘The Odyssey’s’ Modern English Dialogue ‘Was a No-Brainer’ Even If ‘It Might Bite Me on the Ass’ and ‘I Was Maybe Being Naïve’
 
-[原文] Universal Global Television is developing a series take on the brand new Jessica Knoll novel &#8220;Helpless,&#8221; Variety has learned exclusively. The novel was just published today, July 7, by Scr
+[原文] Christopher Nolan&#8217;s &#8220;The Odyssey&#8221; is based on Homer&#8217;s ancient Greek epic, which dates back to around the 8th or 7th century BC. As a result, some moviegoers were surprised when
 
-📎 [阅读原文](https://variety.com/2026/tv/news/jessica-knoll-helpless-tv-at-universal-tv-stacy-sher-1236803593/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/christopher-nolan-defends-odyssey-accents-english-dialogue-1236803556/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Preorder SPECS, Snap's First Ever AR Glasses
+### 1. Expand Your Home Gym With This Yoleo Weight Bench for Less Than $38 Shipped
 
-[原文] Lightweight and stylish personal wearable computer.
+[原文] Comes 95% pre-assembled.
 
-📎 [阅读原文](https://www.ign.com/articles/preorder-the-specs-ar-glasses-from-snap) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/expand-your-home-gym-with-this-yoleo-weight-bench-deal-july) — *IGN*
 
-### 2. Save 36% Off the TP-Link Deco 7 Pro BE10000 Wi-Fi 7 Whole Home Mesh System
+### 2. The Coslus C20 Cordless Rechargeable Water Flosser Drops 83% to Just $6.99
 
-[原文] Amazon's best selling WiFi 7 router.
+[原文] Even gamers should practice good oral hygiene.
 
-📎 [阅读原文](https://www.ign.com/articles/tp-link-whole-home-mesh-system-wifi-7-router-deal-for-july) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/coslus-c20-cordless-rechargeable-water-flosser-deal) — *IGN*
 
-### 3. Upcoming Nintendo Switch 2 Games: Release Dates for 2026 and Beyond
+### 3. The Corsair TC100 Relaxed Is the Best Gaming Chair Priced Under $150
 
-[原文] Building up the Switch 2 library.
+[原文] One of our favorite budget gaming chairs of 2026 is an extra 45% off for this week only.
 
-📎 [阅读原文](https://www.ign.com/articles/all-upcoming-nintendo-switch-2-games) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/corsair-tc100-relaxed-gaming-chair-deal-in-july) — *IGN*
 
-### 4. Today’s Best Deals: Crimson Desert for PS5, Samsung Galaxy Buds 4 Pro, and 4K Steelbooks
+### 4. The Alienware 18 Area-51 RTX 5090 Gaming Laptop With 64GB of RAM Drops to $3,000 at Dell Outlet
 
-[原文] And don’t miss discounts on MTG x Marvel, an Anker charging block, a mini fight pad, and more.
+[原文] Alienware's biggest and most powerful ultra high-end gaming laptop.
 
-📎 [阅读原文](https://www.ign.com/articles/best-deals-for-july-7-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/alienware-area-51-18-gaming-laptop-deal-at-dell-outlet-in-july) — *IGN*
 
-### 5. Christopher Nolan's The Prestige Is Returning to Theaters
+### 5. Call of Duty: Black Ops 1 and 2's Leaked PS5 Trophy List Indicates Some Content May Be Missing
 
-[原文] One of the most underappreciated Christopher Nolan movies, The Prestige, is returning to theaters in the near future.
+[原文] Call of Duty: Black Ops 1 and 2 might be missing a few modes and pieces of content when they're re-released for PS4 and PS5 later this month.
 
-📎 [阅读原文](https://www.ign.com/articles/christopher-nolans-the-prestige-is-returning-to-theaters) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/call-of-duty-black-ops-1-and-2s-leaked-ps5-trophy-list-indicates-some-content-may-be-missing) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post The Price Gap Between Regular and Premium Ga
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Despite Decades of Warnings, British Fish Stocks Are Collapsing
+### 1. Extreme Temperatures Once Again Prove Deadly in Europe and U.S.
+
+[原文] This summer has been off to a particularly hot—and deadly—start.&#160; In June and early July, severe heat waves blanketed Europe and the United States, exposing millions of people to dangerously high
+
+📎 [阅读原文](https://insideclimatenews.org/news/07072026/todays-climate-heat-waves-europe-us-deaths/) — *Inside Climate News*
+
+### 2. Record Heat Drives Wildfires in Europe, Forces Thousands to Evacuate
+
+[原文] Wildfires are tearing through southern France and parts of Spain, Portugal and Greece, forcing thousands of people to evacuate from their homes.  The wildfires follow a record-breaking June heat wave 
+
+📎 [阅读原文](https://insideclimatenews.org/news/07072026/record-heat-drives-wildfires-in-europe-forces-thousands-to-evacuate/) — *Inside Climate News*
+
+### 3. After a Weekend of Heavy Rains, Chicago’s Deep Tunnel Is Almost Full
+
+[原文] For the first time in history, Deep Tunnel, Chicago’s massive system of underground tunnels and reservoirs designed to hold flood water, is almost completely full after a weekend of heavy rain. Built 
+
+📎 [阅读原文](https://insideclimatenews.org/news/07072026/after-a-weekend-of-heavy-rains-chicagos-deep-tunnel-is-almost-full/) — *Inside Climate News*
+
+### 4. Despite Decades of Warnings, British Fish Stocks Are Collapsing
 
 [原文] Regulations governing British fishing are supposed to keep it “environmentally sustainable in the long term.” But fish stocks in the United Kingdom are on the brink of collapse. For those watching the
 
 📎 [阅读原文](https://insideclimatenews.org/news/07072026/fishing-bans-british-fish-stocks-are-collapsing/) — *Inside Climate News*
 
-### 2. Bali Is Still Choking on Plastic
+### 5. Bali Is Still Choking on Plastic
 
 [原文] BALI, Indonesia —Piles of trash line the roadsides, plastic floats in rivers and toxic fumes fill the air. Bali is in the midst of a severe waste crisis. Although the popular tourist destination has s
 
 📎 [阅读原文](https://insideclimatenews.org/news/07072026/bali-is-still-choking-on-plastic/) — *Inside Climate News*
-
-### 3. Trump Wants to Fast Track AI
-
-[原文] In brief remarks to reporters Monday at the White House, President Donald Trump noted that he was shocked to learn how much energy developing artificial intelligence requires and said his administrati
-
-📎 [阅读原文](https://insideclimatenews.org/news/06072026/trump-wants-to-fast-track-ai/) — *Inside Climate News*
-
-### 4. Dam Removal Efforts Lead to a Stunning Comeback for Maine’s Alewives
-
-[原文] For a few weeks each summer, the Sebasticook River in Benton, Maine, is paved with flashing silver scales, so thick it seems you could almost walk across. The alewives have returned for their annual m
-
-📎 [阅读原文](https://insideclimatenews.org/news/06072026/maine-dam-removal-efforts-lead-to-fish-comeback/) — *Inside Climate News*
-
-### 5. Climate Reporting Is Changing
-
-[原文] Welcome to Inside Climate, a new podcast from the staff of Inside Climate News. As the ICN newsroom grows and expands, so is its reporting. For the show’s debut episode, co-host Kiley Price sits down 
-
-📎 [阅读原文](https://insideclimatenews.org/news/05072026/inside-climate-podcast-pilot/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post The Price Gap Between Regular and Premium Ga
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Lindsey Buckingham’s Alleged Stalker to Undergo Mental Health Exam, Criminal Case Suspended
+### 1. Jermaine Dupri Sues Sony for $18 Million in Royalties Tied to Mariah Carey, Usher, and More
+
+[原文] The Grammy-winning producer claims Sony Music "engaged in willful deceitful actions" to withhold royalties
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/jermaine-dupri-sony-mariah-carey-usher-royalties-lawsuit-1235590624/) — *Rolling Stone*
+
+### 2. Jay-Z Adds London Show to International Stadium Tour
+
+[原文] The ever-expanding "Jay-Z30" celebrations will see Hov take the stage at Tottenham Hotspur Stadium in September
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/jay-z-london-stadium-concert-international-tour-dates-1235590511/) — *Rolling Stone*
+
+### 3. Elton John to Conclude Farewell Tour — Three Years After It Ended — in Mexico City
+
+[原文] The artist previously had to cancel three gigs in the capital city because of the Covid pandemic
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/elton-john-mexico-city-concerts-1235590523/) — *Rolling Stone*
+
+### 4. Lindsey Buckingham’s Alleged Stalker to Undergo Mental Health Exam, Criminal Case Suspended
 
 [原文] Michelle Dick appeared in court as her public defender sought the exam
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/lindsey-buckingham-fleetwood-mac-stalker-mental-health-exam-1235590423/) — *Rolling Stone*
 
-### 2. Guitar Virtuoso Julian Lage Seems to Be Back on Tour With Bob Dylan
+### 5. Guitar Virtuoso Julian Lage Seems to Be Back on Tour With Bob Dylan
 
 [原文] After a five-show absence, Lage was onstage again with Dylan in Minnesota. Watch them perform “I Shall Be Released”
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/julian-lage-rejoined-bob-dylan-tour-1235590367/) — *Rolling Stone*
-
-### 3. Controversial Anne Frank Musical Releases Crowdfunded Cast Album
-
-[原文] Slam Frank, which reimagines her story through an “intersectional, multiethnic, genderqueer, Afro-Latin hip-hop lens,” posted the recording in advance of the play’s off-Broadway return
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/anne-frank-musical-slam-frank-soundtrack-1235590386/) — *Rolling Stone*
-
-### 4. Charli XCX Reveals ‘Music, Fashion, Film’ Track List With a Song Featuring David Cronenberg
-
-[原文] The LP, which includes 11 songs, arrives on July 24
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/charli-xcx-music-fashion-film-album-track-list-1235590369/) — *Rolling Stone*
-
-### 5. Green Day’s Billie Joe Armstrong to Front Punk Supergroup Honoring the Ramones
-
-[原文] Cretin Family — featuring Armstrong, Blink-182’s Travis Barker, Rancid’s Tim Armstrong, and Ramones bassist C.J. Ramone — will play L.A. on Aug. 30 to celebrate the Ramones’ 50th anniversary
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/billie-joe-armstrong-supergroup-ramones-anniversary-show-1235590395/) — *Rolling Stone*
 
 ---
 
