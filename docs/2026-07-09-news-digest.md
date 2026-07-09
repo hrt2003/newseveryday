@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月09日** | 生成时间: 2026-07-09 17:51
+**2026年07月09日** | 生成时间: 2026-07-09 23:18
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. US and Iran trade strikes for second night in a row
+### 1. Iran launches more strikes after accusing US of striking near nuclear plant
 
-[原文] Traffic through the Strait of Hormuz has dropped 'dramatically' since the lastest attacks began.
+[原文] Centcom says it hit 90 Iranian targets in the latest round of strikes, with the Iranian health ministry saying 14 people were killed since Tuesday.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Democrat Graham Platner suspends campaign for key US Senate race after assault allegation
+### 2. Steep fall in Hormuz ship crossings after new US-Iran strikes
+
+[原文] Data shows a decline in the number of ships - many carrying oil and gas - going through the waterway after attacks this week.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. Democrat Graham Platner suspends campaign for key US Senate race after assault allegation
 
 [原文] The decision came days after a woman accused him of sexual assault, an accusation he says is "categorically false".
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Platner's disastrous candidacy exposes rifts that could dampen Democrats' Senate hopes
+### 4. Factory fire kills at least 28 in China's 'shoe capital'
 
-[原文] Along with creating tumult in a must-win race for Democrats, Graham Platner's exit is laying bare division between the party's left wing and moderates.
+[原文] Footage shows huge flames rising from a building and thick, black smoke rising into the sky.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c20ylnn8wqgo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2vz51v2pjo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. It was 'love at first sight' with their adopted baby. Then they were told he may have been trafficked
+### 5. It was 'love at first sight' with their adopted baby. Then they were told he may have been trafficked
 
 [原文] When they adopted Marcus, David and Ally's dream of having a child was complete - but now they could lose him.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/czxq4ge246wo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Watch: We're a step closer to finding out if bees have feelings, here's why
-
-[原文] New research found bumblebees showed "emotion-like behaviours" previously only seen in mammals.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/videos/cpq309jrve4o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Oil prices ease after spiking following fresh U.S. strikes against Iran
+### 1. Meta jumps into AI coding market in effort to chase Anthropic and OpenAI
 
-[原文] Oil prices turned lower on Thursday after the U.S. carried out fresh strikes on Iran, renewing concerns about supply disruptions in the Middle East.
+[原文] Meta is upgrading its Muse Spark artificial intelligence model under the leadership of AI chief Alexandr Wang.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/09/oil-rises-as-iran-us-tensions-raise-concerns-over-supply-disruptions-.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/09/meta-jumps-into-ai-coding-market-to-chase-anthropic-and-openai.html) — *CNBC*
 
-### 2. Ukraine’s drone playbook is wreaking havoc in Russia — and upending where NATO wants to invest
+### 2. Tanker traffic through Strait of Hormuz slows after Iranian attacks trigger renewed fighting with U.S.
 
-[原文] Ukraine’s deep drone strikes on Russian refineries are reshaping the war and pushing NATO toward a $40 billion counter-drone plan.
+[原文] Oil has rallied more than 7% this week as investors worry that exports through Hormuz could plunge as the U.S. and Iran fight for control of the strait.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/09/ukraine-drone-strikes-russia-nato.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/09/iran-strait-hormuz-oil-tanker-traffic-gulf-trump.html) — *CNBC*
 
-### 3. AstraZeneca stock dives 9% after heart drug trial misses target
+### 3. June home sales disappoint as prices reach an all-time high
 
-[原文] A late-stage clinical trial failed to miss its primary endpoint, U.K.'s laregst drugmaker said Thursday.
+[原文] Home sales dropped in June month over month as mortgage rates remain stubbornly high. Prices hit an all-time high.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/09/astrazeneca-stock-trial-heart-drug-pharma.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/09/june-home-sales-prices.html) — *CNBC*
 
-### 4. Jim Cramer sees a big risk to the bull market resurfacing — and it's not the Iran war
+### 4. Goldman Sachs wins $70 billion in asset management deals with Verizon, Lockheed Martin
 
-[原文] CNBC's Jim Cramer said the growing wave of stock offerings and debt issuance is the next big threat to the bull market.
+[原文] Competition in the multitrillion-dollar market for retirement assets is fierce among managers such as Goldman Sachs, BlackRock, Russell Investments and Mercer.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/08/jim-cramer-risk-bull-market-resurfacing.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/09/goldman-sachs-asset-management-deals-verizon-lockheed-martin.html) — *CNBC*
 
-### 5. Platner quits Maine Senate race; Democrats set to pick new nominee
+### 5. Ohio is America's Top State for Business in 2026, capping yearslong rise with first No. 1 finish
 
-[原文] Maine Democrats must now replace Platner with less than four months until the midterm elections.
+[原文] Ohio tops CNBC's rankings for the first time in 2026, with the Buckeye State culminating a yearslong climb as the place to do business in America.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/08/platner-quits-maine-senate-race-midterm-elections.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/09/ohio-no-1-americas-top-states-for-business-rankings.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Truecaller clashes with India’s telecom regulator over anti-spam rules
+### 1. Block reaches $45M settlement with 46 states over Cash App fraud probe
 
-[原文] The caller ID company says users are increasingly ignoring and blocking calls from India's dedicated business number series.
+[原文] State attorneys general said they found that Block misled users by falsely advertising that Cash App provided bank-like protections, including advanced fraud detection.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/08/truecaller-clashes-with-indias-telecom-regulator-over-anti-spam-rules/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/09/block-reaches-45m-settlement-with-46-states-over-cash-app-fraud-probe/) — *TechCrunch*
 
-### 2. Despite ‘misgivings,’ judge approves Elon Musk’s $1.5M SEC settlement
+### 2. Anthropic’s new Claude feature is quietly selling you on AI
 
-[原文] The saga of Musk's tussle with the SEC over how he disclosed his growing stake in Twitter (now X) has come to an end.
+[原文] Claude’s new Reflect dashboard doesn’t just visualize how you use AI. It also subtly reinforces how much of your daily work now depends on Anthropic’s chatbot.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/08/despite-misgivings-judge-approves-elon-musks-1-5-million-sec-settlement/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/) — *TechCrunch*
 
-### 3. Lovable reportedly in talks to double its valuation to $13.2B
+### 3. Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits
 
-[原文] The $300 million round is expected to be led by Menlo Ventures, Sifted reported.
+[原文] Three big AI IPOs are set to generate more value than all the U.S. VC backed exits since 2000.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/) — *TechCrunch*
 
-### 4. Feds demand autonomous vehicle companies stop interfering with first responders
+### 4. Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users
 
-[原文] The National Highway Traffic Safety Administration said emergency scenes are not "edge cases."
+[原文] Benchmark-backed Ollama has amassed 176,000 stars, and nearly 17,000 forks on GitHub by helping developers easily run AI on their PCs.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/08/feds-demand-autonomous-vehicle-companies-stop-interfering-with-first-responders/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/) — *TechCrunch*
 
-### 5. Google’s deepfake detector system used to debunk McConnell hoax pic
+### 5. Character.AI enters the microdrama arena with its own productions, but there’s a twist
 
-[原文] Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake.
+[原文] In an interesting twist that takes advantage of the company's core product, users can chat with these shows' characters, ask them questions, and even roleplay different storylines.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/) — *TechCrunch*
 
 ---
 
@@ -130,35 +130,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Rare goblin shark filmed alive for the first time in the deep sea
+### 1. A vitamin A discovery is changing what scientists know about vision
+
+[原文] A surprising discovery is reshaping scientists' understanding of how humans develop sharp central vision before birth. Instead of blue cone cells migrating away from the retina's center, the study fou
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260708022214.htm) — *Science Daily*
+
+### 2. Trees keep absorbing carbon long after they stop growing
+
+[原文] Oak trees keep absorbing carbon dioxide long after their annual growth has ended, revealing that photosynthesis and wood production are not as closely linked as scientists once believed. The finding c
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260708022210.htm) — *Science Daily*
+
+### 3. Rare goblin shark filmed alive for the first time in the deep sea
 
 [原文] For the first time, researchers have filmed the elusive goblin shark alive in the deep ocean where it naturally lives. The remarkable sightings greatly expand the shark's known range and depth, showin
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260708022208.htm) — *Science Daily*
 
-### 2. The Ozempic and Wegovy mistake sending thousands to poison control
+### 4. The Ozempic and Wegovy mistake sending thousands to poison control
 
 [原文] Poison control calls involving semaglutide (Ozempic and Wegovy) soared after the drug was approved for weight management, with researchers linking the increase to accidental dosing mistakes rather tha
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260708022204.htm) — *Science Daily*
 
-### 3. Harvard scientists turn a silicon chip into a DNA writing machine
+### 5. Harvard scientists turn a silicon chip into a DNA writing machine
 
 [原文] Scientists have created a silicon chip that can write dozens of DNA sequences simultaneously using electricity and water-based enzymes, offering a cleaner alternative to conventional DNA manufacturing
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260708022202.htm) — *Science Daily*
-
-### 4. Tiny silica particles wiped out aggressive prostate cancer in mice
-
-[原文] Tiny silica nanoparticles engineered to seek out prostate cancer caused tumor cells to self-destruct and supercharged the immune system in preclinical mouse studies. Combined with immunotherapy, the t
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260708022158.htm) — *Science Daily*
-
-### 5. Heidelberg physicists just united two opposing quantum theories
-
-[原文] A new quantum theory bridges two rival models of how impurities behave inside many-particle systems, resolving a problem that has challenged physicists for decades. The findings could reshape experime
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260708022154.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. How Kane and Haaland compare - who would you pick?
+### 1. The perfect trade deadline addition for every MLB ...
 
-[原文] Two of the world's best strikers - Harry Kane and Erling Haaland - meet in the World Cup quarter-finals - but who would you rather have?
+[原文] Tarik Skubal to which elite team? An All-Star traded within the NL East!? We make dream moves for every World Series hopeful.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c5yzzz54kllo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/mlb/story/_/id/49306462/2026-mlb-trade-deadline-addition-top-contender-moves-dodgers-brewers-braves-yankees-phillies) — *ESPN*
 
-### 2. France fail with Olise appeal & Saibari ruled out
+### 2. MLB Power Rankings: Where every team stands headin...
 
-[原文] France fail in their bid to have forward Michael Olise's yellow card overturned, while Morocco are without Ismael Saibari for the quarter-final at Boston Stadium.
+[原文] The Marlins debut at their highest ranking of 2026 while the Padres' fall continues. Here's who's hot -- and who's not -- ahead of baseball's midseason break.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c78y0j7vvg8o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/mlb/story/_/id/49306692/mlb-2026-power-rankings-week-15-dodgers-brewers-rays-braves-yankees-marlins-padres) — *ESPN*
 
-### 3. 'Sack him' - Stokes on potential retirement rule breach
+### 3. Volpe denies 'BS' report that he refused SS move
 
-[原文] Ben Stokes reacts after the ICC contacted the ECB over a potential rule breach linked to his retirement announcement.
+[原文] Yankees shortstop Anthony Volpe strongly denied a report that he refused to play second base earlier this season, saying he was caught "off guard" by the since-retracted report, which he called "B.S."
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cjdg4me54rro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/mlb/story/_/id/49314299/anthony-volpe-denies-bs-report-refused-play-2b) — *ESPN*
 
-### 4. McEnroe, Henman & Murray on why Fery is ruling Wimbledon
+### 4. 'Fair all around': 4th-year QBs praise 5-for-5 rul...
 
-[原文] Good tennis IQ and inner belief - how British wildcard Arthur Fery has reached defied the odds to reach a shock Wimbledon semi-final.
+[原文] Utah quarterback Devon Dampier led the praise during Big 12 media days Wednesday for the NCAA's new five-year, aged-based eligibility model.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/ckg49gzm3k0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/college-football/story/_/id/49309848/fair-all-fourth-year-qbs-welcome-new-5-year-eligibility-model) — *ESPN*
 
-### 5. Man Utd agree £50m deal for Chelsea's Santos
+### 5. Olympian pleads not guilty in Reflecting Pool case...
 
-[原文] Manchester United agree a £50m deal with Chelsea for their Brazilian midfielder Andrey Santos.
+[原文] Former Olympic canoe racer David Hearn pleaded not guilty to deliberately damaging the recently renovated Lincoln Memorial Reflecting Pool.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cr7xkgd8vdko?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/olympics/story/_/id/49315069/ex-olympian-pleads-not-guilty-reflecting-pool-damage-case) — *ESPN*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘3 Weeks After’ Review: A Bruising, Fiercely Controlled Study of High Schoolers in Moral and Psychological Freefall
+### 1. This Wes Anderson Criterion Collector’s Set Is 50% Off Right Now
 
-[原文] The kids have never been less all right than they are &#8220;3 Weeks After,&#8221; a nightmarishly intense depiction of high school bullying and its consequences from Serbian director Miroslav Terzić 
+[原文] Over the last 25 years, Wes Anderson has been one of the most celebrated filmmakers working today. Last year, the Criterion Collection honored Anderson&#8217;s work with an impressive box set of his f
 
-📎 [阅读原文](https://variety.com/2026/film/news/3-weeks-after-review-1236803851/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/shopping/news/criterion-collection-the-wes-anderson-archive-4k-buy-online-1236416850/) — *Variety*
 
-### 2. Bonnie Tyler, ‘Total Eclipse of the Heart’ and ‘Holding Out for a Hero’ Singer, Dies at 75
+### 2. ‘American Horror Story’ Season 13 Sets Fall Premiere Date
 
-[原文] Bonnie Tyler, the Welsh pop-rock singer behind &#8217;80s hits like &#8220;Total Eclipse of the Heart&#8221; and &#8220;Holding Out for a Hero,” died on Wednesday. She was 75. &#8220;Bonnie&#8217;s fa
+[原文] &#8220;American Horror Story&#8221; Season 13 will premiere on FX and Hulu on Sept. 24 at 6 p.m. PT. The star-studded installment will see the return of Jessica Lange (her first &#8220;AHS&#8221; seas
 
-📎 [阅读原文](https://variety.com/2026/music/global/bonnie-tyler-dead-total-eclipse-of-the-heart-singer-1236805512/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/american-horror-story-season-13-release-date-1236805670/) — *Variety*
 
-### 3. Bendita Film Sales Boards Locarno-Bound ‘Donkey Princess,’ From ‘The Wolf House’ Directors León & Cociña (EXCLUSIVE)
+### 3. Tony Nominee Lila Neugebauer Boards Netflix Drama Series ‘The Retrievals’ as Pilot Director (EXCLUSIVE)
 
-[原文] Bendita Film Sales has acquired international sales rights to “Donkey Princess,” the latest feature from Chilean filmmaking duo Cristóbal León and Joaquín Cociña, which is set to world premiere in the
+[原文] Tony Award nominee Lila Neugebauer (“The Beast in Me,” “Sirens”) has come on board as the pilot director and executive producer for the upcoming Netflix drama series “The Retrievals.” The project will
 
-📎 [阅读原文](https://variety.com/2026/film/global/bendita-film-sales-donkey-princess-locarno-1236805433/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/global/lila-neugebauer-netflix-the-retrievals-1236805407/) — *Variety*
 
-### 4. ‘Mu-ki-ra,’ From Colombian Creative Powerhouse Estefanía Piñeres Duque and ‘Decorado’ Producer Chelo Loureiro, Brought to Market by Latido Films (EXCLUSIVE)
+### 4. Michael Fassbender’s Production Company DMC Expands in Ireland Following Investment From Fine Point Films
 
-[原文] “Mu-Ki-Ra,” from Colombian creative powerhouse Estefania Pineres Duque and Spain’s Ábano Producions, producer of Annecy winner “Decorado,” will be brought to market by Latido Films at Locarno. An anim
+[原文] Two of the production companies behind Irish breakout hit &#8220;Kneecap&#8221; are doubling down on their relationship. DMC, founded by Michael Fassbender (who had a supporting role in &#8220;Kneecap
 
-📎 [阅读原文](https://variety.com/2026/film/global/mu-ki-ra-estefania-pineres-duque-latido-locarno-1236723274/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/michael-fassbender-dmc-expands-ireland-fine-point-films-1236805622/) — *Variety*
 
-### 5. ‘Small Talk,’ a Nuanced Take on Switzerland’s Last Finishing School, Boarded by Urban Sales (EXCLUSIVE)
+### 5. ‘Task’ Season 2 Becomes ‘Mare of Easttown’ Crossover With Julianne Nicholson Reprising Emmy-Winning Role (EXCLUSIVE)
 
-[原文] Locarno-bound title “Small Talk,” a doc-fiction portrait of the power dynamics at play among the daughters of the world’s social elite, has been picked up for international sales by the Frédéric Corve
+[原文] It&#8217;s a &#8220;Task&#8221; and &#8220;Mare of Easttown&#8221; crossover. Julianne Nicholson has joined Season 2 of the HBO detective drama, reprising her Emmy-winning role as Lori Ross, the mothe
 
-📎 [阅读原文](https://variety.com/2026/film/global/small-talk-mateo-ybarra-urban-sales-locarno-1236805455/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/task-season-2-mare-of-easttown-crossover-julianne-nicholson-1236805635/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. id Software Was Reportedly 'Toying With' Pitches for a New Perfect Dark, a John Wick-Inspired Game, and More Before Layoffs
+### 1. MobLand Season 2 Trailer Confirms Paramount+ Release Date and a First Look at the Returning Tom Hardy — but Will He Appear in Season 3?
 
-[原文] id Software was reportedly toying with a bunch of ideas for future game projects when Microsoft laid off more than half of the studio.
+[原文] MobLand Season 2 has its debut trailer and a release date, showing a first look at Tom Hardy’s Harry Da Souza following the events of Season 1.
 
-📎 [阅读原文](https://www.ign.com/articles/id-software-was-reportedly-toying-with-pitches-for-a-new-perfect-dark-a-john-wick-inspired-game-and-more-before-layoffs) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/mobland-season-2-trailer-confirms-paramount-release-date-and-a-first-look-at-the-returning-tom-hardy-but-will-he-appear-in-season-3) — *IGN*
 
-### 2. College Football 27 Review
+### 2. Zendaya's Chani Is the X-Factor That Makes Dune: Part Three So Exciting
 
-[原文] College Football's junior year is already quick off the block.
+[原文] The new Dune: Part Three trailer reminds us that Zendaya's Chani is the critical X-factor that makes this latest sequel so exciting.
 
-📎 [阅读原文](https://www.ign.com/articles/college-football-27-review) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/zendaya-chani-dune-part-three-exciting-children) — *IGN*
 
-### 3. You Can Still Save 34% off the Garmin Forerunner 265 Smartwatch at AliExpress
+### 3. Zeverland Is a Zombie-Survival Game That Looks Like Funko Pops but Has a Serious Dark Side | IGN Preview
 
-暂无摘要。
+[原文] Zeverland is an open-world zombie survival crafting game that looks goofy – and sometimes is – but its core gameplay loop is deadly serious. In fact, you can choose to become a zombie if you get kille
 
-📎 [阅读原文](https://www.ign.com/articles/save-on-the-garmin-forerunner-265-smartwatch-ahead-of-the-4th-of-july) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/zeverland-first-hands-on-preview) — *IGN*
 
-### 4. Dell Outlet Has a Refurb Alienware 18 Area-51 RTX 5070 Ti Gaming Laptop for $2013
+### 4. Doubts Microsoft Would Be Able to Sell Off Xbox in Its Entirety Even if It Wanted To, but Big Companies May Try to Buy Parts of It
 
-[原文] Same 1 year warranty as buying brand new.
+[原文] One of the big questions emerging from Asha Sharma’s appointment as Xbox CEO earlier this year, and the subsequent layoffs and restructuring that have occurred in recent days, revolves around the long
 
-📎 [阅读原文](https://www.ign.com/articles/alienware-area-51-18-rtx-5070-ti-gaming-laptop-deal-at-dell-outlet-in-july) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/doubts-microsoft-would-be-able-to-sell-off-xbox-in-its-entirety-even-if-it-wanted-to-but-big-companies-may-try-to-buy-parts-of-it) — *IGN*
 
-### 5. Doom: The Dark Ages - Revelations Review So Far
+### 5. League of Legend's Riftbound Vendetta Introduces a New Champion and Ability – Exclusive
 
-[原文] The combat encounters in this DLC are the very best Doom: The Dark Ages has to offer.
+[原文] Riftbound’s fourth and newest booster set, Vendetta, is just around the corner. With that comes new faces to the card game as well as new mechanics. So we’re happy to exclusively reveal the new rare c
 
-📎 [阅读原文](https://www.ign.com/articles/doom-the-dark-ages-revelations-review) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/league-of-legends-riftbound-vendetta-introduces-a-new-champion-and-ability-exclusive) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Feds Are Pushing a Brand New Gas Station Chain Selling Strangely Cheap Fuel
+### 1. Ruf Just Brought Back the Flat-Eight Engine With a Clean Sheet Design Making 1,000+ HP
+
+[原文] It's a twin-turbo 4.8-liter that will eventually go into a Ruf production car. For now, it sits in this stretched CTR3 prototype.
+The post Ruf Just Brought Back the Flat-Eight Engine With a Clean Shee
+
+📎 [阅读原文](https://www.thedrive.com/news/ruf-just-brought-back-the-flat-eight-engine-with-a-clean-sheet-design-making-1000-hp) — *The Drive*
+
+### 2. Big Electric Trucks Flopped at Ford, GM, and Ram. What Comes Next?
+
+[原文] Slate, Tello, and Ford are betting smaller, less expensive electric trucks will succeed where first-gen heavyweights didn't.
+The post Big Electric Trucks Flopped at Ford, GM, and Ram. What Comes Next?
+
+📎 [阅读原文](https://www.thedrive.com/podcast/big-electric-trucks-flopped-at-ford-gm-and-ram-what-comes-next) — *The Drive*
+
+### 3. NHTSA Says Robotaxis Need to Stop Holding Up First Responders Already: TDS
+
+[原文] A letter from the transportation department chief calls upon autonomous vehicle makers to address a "clear pattern" of their cars getting in the way during emergencies.
+The post NHTSA Says Robotaxis N
+
+📎 [阅读原文](https://www.thedrive.com/news/nhtsa-says-robotaxis-need-to-stop-holding-up-first-responders-already-tds) — *The Drive*
+
+### 4. Feds Are Pushing a Brand New Gas Station Chain Selling Strangely Cheap Fuel
 
 [原文] 25 "Freedom Fuel Network" gas stations have sprung up out of nowhere around Philly and South Jersey, selling for 30 cents under the average.
 The post Feds Are Pushing a Brand New Gas Station Chain Sel
 
 📎 [阅读原文](https://www.thedrive.com/news/feds-are-pushing-a-brand-new-gas-station-chain-selling-strangely-cheap-fuel) — *The Drive*
 
-### 2. Need for Speed Studio Is ‘Solely Focused on Battlefield’ Now and Maybe Forever
+### 5. Need for Speed Studio Is ‘Solely Focused on Battlefield’ Now and Maybe Forever
 
 [原文] It sounds like the hope of a new Burnout is pretty much dead too, as Criterion Games has been fully rebranded into "A Battlefield Studio."
 The post Need for Speed Studio Is &#8216;Solely Focused on Ba
 
 📎 [阅读原文](https://www.thedrive.com/news/need-for-speed-studio-is-solely-focused-on-battlefield-now-and-maybe-forever) — *The Drive*
-
-### 3. How Flock Cameras Wrongly Tracked Me for Days Over ‘Stolen’ Plates and Sent Police After Me
-
-[原文] A simple error got magnified by Flock's nationwide surveillance camera network and ended with four cop cars boxing me in.
-The post How Flock Cameras Wrongly Tracked Me for Days Over ‘Stolen’ Plates an
-
-📎 [阅读原文](https://www.thedrive.com/news/how-flock-cameras-wrongly-tracked-me-for-days-over-stolen-plates-and-sent-police-after-me) — *The Drive*
-
-### 4. 30 Years Ago, Ferrari Automated the Manual Transmission. Now It’s Manualized the Automatic
-
-[原文] Ferrari's new manual-by-wire promises the best of both worlds; comfort and engagement. But most importantly, it closes a circle that was opened in 1997.
-The post 30 Years Ago, Ferrari Automated the Ma
-
-📎 [阅读原文](https://www.thedrive.com/news/30-years-ago-ferrari-automated-the-manual-transmission-now-its-manualized-the-automatic) — *The Drive*
-
-### 5. Aston Martin Will Keep V12s Alive, If Only Barely: TDS
-
-[原文] Aston Martin says its ensured its V12 is as globally compliant as it can be, but that still doesn't mean it can sell as many as it likes.
-The post Aston Martin Will Keep V12s Alive, If Only Barely: TD
-
-📎 [阅读原文](https://www.thedrive.com/news/aston-martin-will-keep-v12s-alive-if-only-barely-tds) — *The Drive*
 
 ---
 
@@ -363,35 +363,35 @@ The post Aston Martin Will Keep V12s Alive, If Only Barely: TD
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. NYC Invests in Air Quality, but the Bronx Still Can’t Breathe Easy
+### 1. Even With Tariffs and Tax Changes, Solar Power Is Soaring
+
+[原文] It’s good to be in the utility-scale solar business, even in the United States. Despite tariffs and shifting tax credit policies, business is booming. Amid high electricity demand and rising concerns 
+
+📎 [阅读原文](https://insideclimatenews.org/news/09072026/inside-clean-energy-utility-scale-solar-booming/) — *Inside Climate News*
+
+### 2. NYC Invests in Air Quality, but the Bronx Still Can’t Breathe Easy
 
 [原文] NEW YORK—When Mayor Zohran Mamdani announced that $20 million from the city’s congestion pricing revenue would be redirected to fight childhood asthma in the Bronx, Javier Marchand celebrated.&#160; B
 
 📎 [阅读原文](https://insideclimatenews.org/news/09072026/nyc-bronx-air-quality-remains-a-problem/) — *Inside Climate News*
 
-### 2. A Court Ruling Leaves Some of New York’s Most Important Wetlands Unprotected
+### 3. A Court Ruling Leaves Some of New York’s Most Important Wetlands Unprotected
 
 [原文] Four years ago, the New York State Legislature made a major move to better protect wetlands. Now some of those safeguards are delayed for potentially several more years. The 2022 amendment to the 1975
 
 📎 [阅读原文](https://insideclimatenews.org/news/09072026/new-york-court-ruling-leaves-wetlands-unprotected/) — *Inside Climate News*
 
-### 3. Feds Grant Final Approval for Arizona Mine Situated in Critical Habitat for Jaguars and Mexican Spotted Owls
+### 4. Feds Grant Final Approval for Arizona Mine Situated in Critical Habitat for Jaguars and Mexican Spotted Owls
 
 [原文] The U.S. Forest Service Tuesday approved a proposed mine in southern Arizona that will extract up to five critical minerals and was the first added to a program designed to streamline federal permitti
 
 📎 [阅读原文](https://insideclimatenews.org/news/08072026/forest-service-approves-arizona-south32-hermosa-mine/) — *Inside Climate News*
 
-### 4. A Major Journalism Award Honors ‘Trailblazing Series’ on China’s Global Environmental Impact
+### 5. A Major Journalism Award Honors ‘Trailblazing Series’ on China’s Global Environmental Impact
 
 [原文] An Inside Climate News series that showed the often-hidden environmental impacts of China’s trillion-dollar global development push is a finalist for the John B. Oakes Award for Distinguished Environm
 
 📎 [阅读原文](https://insideclimatenews.org/news/08072026/planet-china-oakes-award/) — *Inside Climate News*
-
-### 5. 5 Takeaways From Our Investigation Into a Secretive System That Undermines Climate Action
-
-[原文] What if companies affected by government efforts to protect the environment could get international arbitrators to award them billion-dollar payouts? That’s exactly what has been happening because of 
-
-📎 [阅读原文](https://insideclimatenews.org/news/08072026/cashing-out-takeways-from-isds-investigation/) — *Inside Climate News*
 
 ---
 
@@ -401,35 +401,35 @@ The post Aston Martin Will Keep V12s Alive, If Only Barely: TD
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. How a Vinyl Record Resurgence Helped Me Understand the Future of AI in Education
+### 1. I Built the Chemistry Platform I Needed in My Own Classroom
+
+[原文] What would chemistry look like if students could do more than read about it?
+
+📎 [阅读原文](https://edsurge.com/news/i-built-the-chemistry-platform-i-needed-in-my-own-classroom) — *EdSurge*
+
+### 2. How a Vinyl Record Resurgence Helped Me Understand the Future of AI in Education
 
 [原文] Streaming solved the problem of access. Now, we must solve the problem of engagement.
 
 📎 [阅读原文](https://edsurge.com/news/how-a-vinyl-record-resurgence-helped-me-understand-the-future-of-ai-in-education) — *EdSurge*
 
-### 2. Podcast: What Did ISTELive 26 Teach Us About Relational Intelligence?
+### 3. Podcast: What Did ISTELive 26 Teach Us About Relational Intelligence?
 
 [原文] Taking stock of the buzziest ideas to come out of ISTELive 26
 
 📎 [阅读原文](https://edsurge.com/news/podcast-looking-back-at-istelive-26-bans-microdosing-and-the-future-of-ai) — *EdSurge*
 
-### 3. New Study Cites Growing “Crisis” of Healthcare Costs on School District Budgets
+### 4. New Study Cites Growing “Crisis” of Healthcare Costs on School District Budgets
 
 [原文] Will rising healthcare costs affect teacher hiring?
 
 📎 [阅读原文](https://edsurge.com/news/new-study-cites-growing-crisis-of-healthcare-costs-on-school-district-budgets) — *EdSurge*
 
-### 4. Podcast: Can an Algorithm Replace a Teacher’s Instinct?
+### 5. Podcast: Can an Algorithm Replace a Teacher’s Instinct?
 
 [原文] Two teachers learn what happens when they trust a tool to solve a problem.
 
 📎 [阅读原文](https://edsurge.com/news/podcast-can-an-algorithm-replace-a-teachers-instinct) — *EdSurge*
-
-### 5. International Society for Transforming Education Expands its “AI-Ready Graduate” Framework
-
-暂无摘要。
-
-📎 [阅读原文](https://edsurge.com/news/international-society-for-transforming-education-expands-its-ai-ready-graduate-framework) — *EdSurge*
 
 ---
 
@@ -439,35 +439,35 @@ The post Aston Martin Will Keep V12s Alive, If Only Barely: TD
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Watch Mick Jagger and Ronnie Wood Perform ‘Ringing Hollow’ at London Event
+### 1. Radiohead’s Ed O’Brien Shares Spectral New Song ‘Abbeycwmhir’
 
-[原文] The song appears on their upcoming album Foreign Tongues, which arrives Friday
+[原文] The quiet yet stunning track takes its name from a village located in Powys, Wales
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/radiohead-ed-o-brien-abbeycwmhir-song-1235591431/) — *Rolling Stone*
+
+### 2. Bonnie Tyler, Eighties Pop Powerhouse Behind ‘Total Eclipse of the Heart,’ Dead at 75
+
+[原文] “Holding Out for a Hero” singer dies “in hospital in Portugal as a result of the illness that she was being treated for”
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/bonnie-tyler-total-eclipse-of-the-heart-dead-obituary-1235562062/) — *Rolling Stone*
+
+### 3. Watch Mick Jagger and Ronnie Wood Perform ‘Ringing Hollow’ at London Event
+
+[原文] The song appears on their upcoming album, Foreign Tongues, which arrives Friday
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/rolling-stones-mick-jagger-ronnie-wood-play-ringing-hollow-1235591361/) — *Rolling Stone*
 
-### 2. Mastodon Get Brutally Honest About Losing Brent Hinds in New Video: ‘We Were Exhausted’
+### 4. Mastodon Get Brutally Honest About Losing Brent Hinds in New Video: ‘We Were Exhausted’
 
 [原文] Band had parted ways with Hinds months before his 2025 death
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/mastodon-reflect-brent-hinds-struggles-video-1235591100/) — *Rolling Stone*
 
-### 3. Justin Bieber Will Perform at the FIFA World Cup Final Halftime Show
+### 5. Justin Bieber Will Perform at the FIFA World Cup Final Halftime Show
 
 [原文] The singer joins Madonna, Shakira, and BTS as co-headliners at New York New Jersey Stadium on July 19
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/justin-bieber-perform-fifa-world-cup-final-halftime-show-1235590837/) — *Rolling Stone*
-
-### 4. Taylor Swift Scores First Emmy Nominations in Over 10 Years for ‘The Eras Tour: The Final Show’
-
-[原文] Taylor Swift: The Eras Tour: The Final Show received five nods, including Outstanding Variety Special
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/taylor-swift-2026-emmy-nominations-eras-tour-final-show-1235590955/) — *Rolling Stone*
-
-### 5. New Madonna Photo Book Will Feature Never Before Seen Portraits by Ken Regan
-
-[原文] Madonna: Into the Groove will chronicle the pop icon’s massive 1985, during which she embarked on her Virgin Tour, played Live Aid, and starred in Desperately Seeking Susan
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/madonna-book-ken-regan-photos-1235590739/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post Aston Martin Will Keep V12s Alive, If Only Barely: TD
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Scapia Wants to Own India’s Next Wave of Travelers — Through Their Credit Cards
+### 1. Minor Hotels Takes Over Sharjah’s Retreat Portfolio In Push for International Visitors
+
+[原文] Sharjah’s investment arm is betting that global distribution can do for seven retreats what domestic staycation demand already does reliably.
+
+📎 [阅读原文](https://skift.com/2026/07/09/minor-hotels-takes-over-sharjahs-retreat-portfolio-in-push-for-international-visitors/) — *Skift*
+
+### 2. Scapia Wants to Own India’s Next Wave of Travelers — Through Their Credit Cards
 
 [原文] Scapia won’t fight online travel agencies on price. Instead, this travel fintech is betting that everyday spending, loyalty rewards, and payments will determine where the next generation of travelers 
 
 📎 [阅读原文](https://skift.com/2026/07/09/scapia-wants-to-own-indias-next-wave-of-travelers-through-their-credit-cards/) — *Skift*
 
-### 2. Fattal Buys Its First U.S. Hotel, Testing an Asset-Heavy Model Against the Giants
+### 3. Fattal Buys Its First U.S. Hotel, Testing an Asset-Heavy Model Against the Giants
 
 [原文] The owner-operator of nearly 330 hotels is betting that its owner-operator model will win in the U.S. market, where other foreign entrants have stumbled.
 
 📎 [阅读原文](https://skift.com/2026/07/08/fattal-buys-its-first-u-s-hotel-testing-an-asset-heavy-model-against-the-giants/) — *Skift*
 
-### 3. Delta Launches Stripped-Down Business-Class Fares
+### 4. Delta Launches Stripped-Down Business-Class Fares
 
 [原文] Delta is betting wealthy customers will pay Delta One prices for a coach-class experience on the ground
 
 📎 [阅读原文](https://skift.com/2026/07/08/delta-launches-stripped-down-business-class-fares/) — *Skift*
 
-### 4. The West Got Two Half-Apps Instead of a Super App: Google Maps vs. Uber
+### 5. GMH Hotels: The Supply Gap That Could Change Hotel Pricing.
 
-[原文] Uber owns the transaction, and Google Maps owns the moment before it, and in the first half of 2026, both started using AI to cross into the other's territory. Travel distribution sits directly in the
+[原文] Hospitality's new operating principle is "cut the middleman, keep the loyalist" — Mews trims staff for AI, Hilton bypasses the GDS to book direct with Navan, and extended-stay brands strip out service
 
-📎 [阅读原文](https://skift.com/2026/07/08/the-west-got-two-half-apps-instead-of-a-super-app-google-maps-vs-uber/) — *Skift*
-
-### 5. Accor and China’s H World Detail Plans to Link Their 19,000 Hotels
-
-[原文] The two companies tout 430 million loyalty members between them. The test is how many actually book.
-
-📎 [阅读原文](https://skift.com/2026/07/08/accor-and-chinas-h-world-detail-plans-to-link-their-19000-hotels/) — *Skift*
+📎 [阅读原文](https://skift.com/2026/07/08/gmh-hotels-the-supply-gap-that-could-change-hotel-pricing/) — *Skift*
 
 ---
 
@@ -515,7 +515,7 @@ The post Aston Martin Will Keep V12s Alive, If Only Barely: TD
 - **💰 经济财经**: CNBC
 - **💻 科技**: TechCrunch
 - **🔬 科学**: Science Daily
-- **⚽ 体育**: BBC Sport
+- **⚽ 体育**: ESPN
 - **🎬 娱乐**: Variety
 - **🏥 健康**: WHO
 - **🎮 游戏**: IGN
