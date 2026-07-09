@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月09日** | 生成时间: 2026-07-09 03:38
+**2026年07月09日** | 生成时间: 2026-07-09 11:49
 
 ---
 
@@ -16,23 +16,23 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump threatens more strikes on Iran as Tehran warns of 'fearless' response
-
-[原文] Speaking at a Nato summit, the president says the US will "probably" strike Iran again but added that "anything that happens will be over quickly".
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 2. US strikes target Iranian military boats
-
-[原文] The US has launched the strikes on Iran in response to attacks on three oil tankers in the Strait of Hormuz.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/videos/cn94nqzwpxwo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 3. Ukraine to get licence to produce Patriot missiles, Trump says
+### 1. Ukraine to get licence to produce Patriot missiles, Trump says
 
 [原文] Although the Patriots are highly effective against Russia's ballistic missiles, they also have lengthy production times.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Starmer gifted gun and ammunition by Turkish president at Nato
+
+[原文] The weapon has not been brought back to the UK and has instead been left with British officials in Turkey.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c0jy3pd2jzqo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. Justin Bieber joins Madonna, Shakira and BTS for Fifa World Cup final half-time show
+
+[原文] The Super Bowl-style show marks the Canadian singer's latest big performance after his comeback shows at Coachella.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c1wyx7g9e1do?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 4. German doctor jailed for murder of 15 patients and suspected of more
 
@@ -40,11 +40,11 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cq819jyp2g7o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Teenager arrested after two girls, 13, seriously injured in German school attack
+### 5. Nato allies announce £37bn for new missile project
 
-[原文] Police said a major operation was under way in the area of Welfen-Gymnasium secondary school in Schongau, Bavaria.
+[原文] Prime Minister Sir Keir Starmer will convene around a dozen leaders to discuss the programme in Ankara.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c0qyvkgndzpo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump says he's 'not sure' he wants Iran deal as Hormuz Strait strife deepens
+### 1. Oil extends gains as Iran-U.S. tensions raise concerns over supply disruptions
+
+[原文] Oil rises Thursday, amid worries over supply disruptions in the Middle East following fresh strikes on Iran by the U.S. military.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/09/oil-rises-as-iran-us-tensions-raise-concerns-over-supply-disruptions-.html) — *CNBC*
+
+### 2. China consumer price growth weakens in June while producer inflation rises to near 4-year high
+
+[原文] Investors increasingly view China's two-speed growth with robust export and tepid domestic demand as a defining long-term feature of the Chinese economy.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/09/china-cpi-ppi-june-inflation-iran-war-.html) — *CNBC*
+
+### 3. Trump loses appeals court bid to delay paying E. Jean Carroll $5M in damages
+
+[原文] Trump was held civilly liable in two trials for defaming E. Jean Carroll when he denied her claim he sexually abused her in a New York department store.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/08/trump-e-jean-carroll-supreme-court-sex-abuse.html) — *CNBC*
+
+### 4. Platner quits Maine Senate race; Democrats set to pick new nominee
+
+[原文] Maine Democrats must now replace Platner with less than four months until the midterm elections.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/08/platner-quits-maine-senate-race-midterm-elections.html) — *CNBC*
+
+### 5. U.S. military launches new Iran strikes as Trump says 'not sure' he wants deal
 
 [原文] Centcom said it launched dozens of strikes on Iranian military infrastructure and small boats; Trump said the U.S. might take more military action "tonight."
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/08/trump-iran-war-deal-hormuz-strait-ceasefire.html) — *CNBC*
-
-### 2. Fed officials were split on direction of interest rates at last meeting, minutes show
-
-[原文] The Federal Reserve on Wednesday released minutes from its June 16-17 meeting.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/08/fed-minutes-june-2026-.html) — *CNBC*
-
-### 3. McConnell health update demanded by Gov. Beshear as Senate vacancy questions grow
-
-[原文] McConnell, the former longtime Senate leader who declined to seek an eighth term following a series of health scares, was admitted to a hospital on June 14.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/08/mcconnell-health-update-beshear-hospitalization-kentucky.html) — *CNBC*
-
-### 4. Michael Burry bets on sportsbooks DraftKings and Flutter, sees prediction markets curbed by regulation
-
-[原文] The investor believes regulators will eventually crack down on prediction markets after competition from the upstarts pressured the stocks of sportsbooks.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/08/michael-burry-bets-on-sportsbooks-draftkings-flutter.html) — *CNBC*
-
-### 5. Meta is building its first big Canadian data center as AI expansion crosses the border
-
-[原文] Meta is building its first big Canadian data center as AI expansion crosses the border.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/08/meta-is-building-its-first-big-data-center-in-canada-amid-ai-push.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’
+### 1. Truecaller clashes with India’s telecom regulator over anti-spam rules
 
-[原文] Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models.
+[原文] The caller ID company says users are increasingly ignoring and blocking calls from India's dedicated business number series.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/08/truecaller-clashes-with-indias-telecom-regulator-over-anti-spam-rules/) — *TechCrunch*
 
-### 2. ‘Slow-cial’ app Roost forces you to slow down to the speed of a carrier pigeon
+### 2. Despite ‘misgivings,’ judge approves Elon Musk’s $1.5M SEC settlement
 
-[原文] This developer didn't expect his side project to grow to 300,000 users, but people love Roost because it's an alternative to an always-on, fast-paced online culture.
+[原文] The saga of Musk's tussle with the SEC over how he disclosed his growing stake in Twitter (now X) has come to an end.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/08/slow-cial-app-roost-forces-you-to-slow-down-to-the-speed-of-a-carrier-pigeon/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/08/despite-misgivings-judge-approves-elon-musks-1-5-million-sec-settlement/) — *TechCrunch*
 
-### 3. This startup thinks robotics is about to have its ChatGPT moment
+### 3. Lovable reportedly in talks to double its valuation to $13.2B
 
-[原文] General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data.
+[原文] The $300 million round is expected to be led by Menlo Ventures, Sifted reported.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/) — *TechCrunch*
 
-### 4. Elon Musk says X will send DMs when posts you’ve engaged with are corrected
+### 4. Feds demand autonomous vehicle companies stop interfering with first responders
 
-[原文] X plans to send users direct messages when posts they’ve liked, replied to, or reposted receive Community Notes, an update aimed at addressing criticism that the platform’s crowdsourced fact-checking 
+[原文] The National Highway Traffic Safety Administration said emergency scenes are not "edge cases."
 
-📎 [阅读原文](https://techcrunch.com/2026/07/08/elon-musk-says-x-will-send-dms-when-posts-youve-engaged-with-are-corrected/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/08/feds-demand-autonomous-vehicle-companies-stop-interfering-with-first-responders/) — *TechCrunch*
 
-### 5. Google Photos adds a new AI ‘Video Remix’ tool
+### 5. Google’s deepfake detector system used to debunk McConnell hoax pic
 
-[原文] The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add artistic styles to videos.
+[原文] Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/) — *TechCrunch*
 
 ---
 
@@ -130,35 +130,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. New weight loss pill beats oral Ozempic in major trial
+### 1. Rare goblin shark filmed alive for the first time in the deep sea
 
-[原文] A new once-daily weight-loss pill called orforglipron delivered better weight loss and blood sugar improvements than the leading oral semaglutide in a major clinical trial. The tablet could offer a mo
+[原文] For the first time, researchers have filmed the elusive goblin shark alive in the deep ocean where it naturally lives. The remarkable sightings greatly expand the shark's known range and depth, showin
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260708022208.htm) — *Science Daily*
+
+### 2. Heidelberg physicists just united two opposing quantum theories
+
+[原文] A new quantum theory bridges two rival models of how impurities behave inside many-particle systems, resolving a problem that has challenged physicists for decades. The findings could reshape experime
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260708022154.htm) — *Science Daily*
+
+### 3. New weight loss pill beats oral Ozempic in major trial
+
+[原文] A new once-daily weight-loss pill called orforglipron delivered better weight loss and blood sugar improvements for people with type 2 diabetes than the leading oral semaglutide in a major clinical tr
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260707054111.htm) — *Science Daily*
 
-### 2. Ancient DNA reveals the mysterious collapse of Europe's megalith builders
+### 4. Ancient DNA reveals the mysterious collapse of Europe's megalith builders
 
 [原文] DNA from a 5,000-year-old French megalithic tomb reveals that the people buried before and after a population collapse were genetically unrelated, pointing to a major migration after a devastating cri
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260707054108.htm) — *Science Daily*
 
-### 3. Incredible new material makes heat programmable
+### 5. Scientists used AI to crack one of water's biggest mysteries
 
-[原文] A newly developed material can control and "program" heat, allowing it to direct thermal radiation, switch modes, and remember its settings without continuous power. The innovation could lead to smart
+[原文] Water’s odd behavior becomes even more dramatic when it is supercooled, but scientists have struggled to compare the many different ways of describing its microscopic structure. Researchers at the Uni
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260707025046.htm) — *Science Daily*
-
-### 4. Bumblebees collect up to 7 times more toxic metals than honeybees
-
-[原文] Bumblebees are picking up dramatically more toxic heavy metals than honeybees, even when both species forage in the same places. Researchers warn that this hidden pollution could quietly reduce their 
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260707025044.htm) — *Science Daily*
-
-### 5. NASA's Hubble spots a stellar sparkler for the Fourth of July
-
-[原文] NASA's Hubble Space Telescope has captured a spectacular red, white, and blue view of one of the Milky Way's oldest star clusters to celebrate the nation's 250th anniversary. Hidden within the ancient
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260704232642.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260707025047.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. British wildcard Fery stuns Cobolli to reach semi-finals
+### 1. Wimbledon thought it had seen everything - then Fery arrived
 
-[原文] British wildcard Arthur Fery will play for a place in the Wimbledon final after extending his sensational run with a stunning victory over Flavio Cobolli.
+[原文] Wimbledon has witnessed some extraordinary days on Centre Court - but British wildcard Arthur Fery reaching the semi-finals is among the very best.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/c5yzvnxg6ygo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cm2dgm39mz6o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Arsenal target Guimaraes asks to leave Newcastle
+### 2. Starmer hints at bank holiday if England win World Cup
 
-[原文] Newcastle midfielder Bruno Guimaraes asks to leave the club with Arsenal accelerating their interest in the 28-year-old.
+[原文] The prime minister says he does not want to "jinx it" but "ask me again if we get to the final".
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c77yg781lr8o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c20y9g2v2wvo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. I've lost the fire to regain spot in new-look England side - Beaumont
-
-[原文] England batter Tammy Beaumont discusses the emotions of her retirement, reflects on her career and calls for more Test cricket in the women's game.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cj3g64jkvm4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. A Golden Boot race for the ages - but who will come out on top?
+### 3. A Golden Boot race for the ages - but who will come out on top?
 
 [原文] It's fast becoming a World Cup Golden Boot for the ages. But who will win it?
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ce8m526mjmeo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Wildcard Fery storms past Cobolli and makes Wimbledon history
+### 4. Paralympic great Storey retires from GB competition
 
-[原文] Arthur Fery makes history at Wimbledon by defeating Italy's Flavio Cobolli in straight sets to become the first British wildcard and only the second in tournament history, to reach the semi-finals.
+[原文] Dame Sarah Storey, Great Britain's most-decorated Paralympian, retires from international competition with immediate effect.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/videos/czdemd6mrjeo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/articles/cy047zjr5rqo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 5. I've lost the fire to regain spot in new-look England side - Beaumont
+
+[原文] England batter Tammy Beaumont discusses the emotions of her retirement, reflects on her career and calls for more Test cricket in the women's game.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cj3g64jkvm4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘The Pitt’ Stars Brittany Allen and Jeff Kober Scored Emmy Noms After Self-Submitting: ‘A Week Ago I Couldn’t Get a Good Agent’
+### 1. Justin Baldoni Speaks Out on Blake Lively Legal Battle: ‘There Have Been so Many Painful Things That Have Been Spoken Into Existence’
 
-[原文] Hollywood, meet the King and Queen of Emmy self-submissions. When HBO Max notified &#8220;The Pitt&#8221; guest cast members Brittany Allen and Jeff Kober that they wouldn&#8217;t be part of the netwo
+[原文] Justin Baldoni and his wife, Emily, posted a video to Instagram on Wednesday afternoon in which they opened up about the legal battle with Blake Lively over the events surrounding the production of th
 
-📎 [阅读原文](https://variety.com/2026/tv/awards/the-pitt-emmys-brittany-allen-jeff-kober-self-submit-nominations-1236802978/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/justin-baldoni-speaks-out-blake-lively-it-ends-with-us-1236805355/) — *Variety*
 
-### 2. Justin Bieber Joins Madonna, BTS and Shakira for FIFA World Cup Final Halftime Show
+### 2. Best Horror of July 2026: ‘Evil Dead Burn,’ Nicolas Winding Refn Returns, a Bloodthirsty Pinocchio and More
 
-[原文] Justin Bieber has been added as a performer to the FIFA World Cup Final Halftime Show, joining the lineup as a co-headliner alongside Madonna, Shakira and BTS. FIFA and Global Citizen are staging the 
+[原文] Welcome to Horror Explorer, a curated column showcasing the month’s best movies, series, books and everything else spooky worth checking out. I’m William Earl, the executive digital director of Variet
 
-📎 [阅读原文](https://variety.com/2026/music/news/justin-bieber-joins-fifa-world-cup-final-haltime-show-1236804858/) — *Variety*
+📎 [阅读原文](https://variety.com/lists/horror-movies-to-watch-july-2026/) — *Variety*
 
-### 3. Amazon MGM Studios Ups Kara Smith to Head of Drama TV as Jen Chambers, Michael McDonald and Odetta Watkins Exit
+### 3. Patrick Dempsey Gave ‘Real Thought’ to Running For Senate in Maine After Graham Platner Scandal: ‘I’m Concerned About the Direction Our Country Is Heading’
 
-[原文] Amazon MGM Studios&#8217; scripted TV department is getting another shakeup as chief Peter Friedlander has promoted Kara Smith to head of the drama division. In January, Friedlander revealed Amazon MG
+[原文] Patrick Dempsey wrote in a recent op-ed for the Portland Press Herald that he gave &#8220;real thought&#8221; to running for Senate in Maine after the Democratic nominee Graham Platner was hit with se
 
-📎 [阅读原文](https://variety.com/2026/tv/news/amazon-kara-smith-head-drama-tv-1236804852/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/patrick-dempsey-running-for-senate-maine-graham-platner-1236805311/) — *Variety*
 
-### 4. ‘Cheetah Girls 4’: Raven-Symoné Confirms Her Return in ‘Next Gen’ Reboot
+### 4. Auteurs and Showrunners Dominate Emmy Nominations in Writing and Directing Categories
 
-[原文] A new &#8220;Cheetah Girls&#8221; movie is in the works. Franchise star Raven-Symoné announced the news on her official Instagram on Wednesday, teasing that she was already on set for what has been du
+[原文] Auteurs are out in force in this year&#8217;s writing and directing Emmy races and so are veteran pilot and episodic helmers. Female helmers had a big showing in noms for drama series, documentary and
 
-📎 [阅读原文](https://variety.com/2026/tv/news/cheetah-girls-4-raven-symone-next-gen-reboot-1236804771/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/emmy-writing-directing-nom-quinta-tim-robinson-hargitay-1236805204/) — *Variety*
 
-### 5. Why ‘Your Friends & Neighbors’ Deserves Its Drama Emmy Nom
+### 5. England’s World Cup Victory Over Mexico Draws Nearly 45 Million Viewers for Fox Sports, Telemundo and Peacock
 
-[原文] When Emmy winners Liza Colón-Zayas and Jeff Hiller announced Apple TV’s “Your Friends &#38; Neighbors” was a nominee for outstanding drama series, my Variety colleagues&#8217; jaws hit the floor (with
+[原文] England&#8217;s upset victory over Mexico to advance to the World Cup quarterfinals delivered nearly 45 million viewers on Sunday night across Fox Sports and the viewers for the Spanish-language telec
 
-📎 [阅读原文](https://variety.com/2026/awards/columns/your-friends-and-neighbors-deserves-its-drama-emmy-nomination-1236804665/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/sports/news/england-mexico-world-cup-ratings-argentina-cabo-verde-1236805185/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Today’s Top Deals: iPad Air M3, Super Mario Bros. Wonder amiibo, and Limited Edition 4K TMNT Trilogy
+### 1. id Software Was Reportedly 'Toying With' Pitches for a New Perfect Dark, a John Wick-Inspired Game, and More Before Layoffs
 
-[原文] Plus, Crimson Desert for PS5 is even cheaper and plenty more discounts worth checking out.
+[原文] id Software was reportedly toying with a bunch of ideas for future game projects when Microsoft laid off more than half of the studio.
 
-📎 [阅读原文](https://www.ign.com/articles/best-deals-for-july-8-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/id-software-was-reportedly-toying-with-pitches-for-a-new-perfect-dark-a-john-wick-inspired-game-and-more-before-layoffs) — *IGN*
 
-### 2. July’s Humble Choice Bundle Is Now Available – Score Sea of Stars, Tunic, and 6 More PC Games for $15
+### 2. College Football 27 Review
 
-[原文] The Humble Choice lineup for July has been revealed. Score 8 PC games this month - including Sea of Stars, Tunic, Neon White and 5 more - for $14.99 when you sign up for a Humble Choice membership.
+[原文] College Football's junior year is already quick off the block.
 
-📎 [阅读原文](https://www.ign.com/articles/humble-choice-july-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/college-football-27-review) — *IGN*
 
-### 3. 'The Internet Did the Internet' — Dwayne Johnson Laughs Off Live-Action Moana Wig Memes
+### 3. You Can Still Save 34% off the Garmin Forerunner 265 Smartwatch at AliExpress
 
 暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/the-internet-did-the-internet-dwayne-johnson-laughs-off-live-action-moana-wig-memes) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/save-on-the-garmin-forerunner-265-smartwatch-ahead-of-the-4th-of-july) — *IGN*
 
-### 4. More Than 8 Years on From Its Announcement, The Elder Scrolls 6 Is Reportedly Still at Least 2 More Years From Release
+### 4. Dell Outlet Has a Refurb Alienware 18 Area-51 RTX 5070 Ti Gaming Laptop for $2013
 
-[原文] More than eight years on from its official announcement, The Elder Scrolls 6 is still at least two more years from release.
+[原文] Same 1 year warranty as buying brand new.
 
-📎 [阅读原文](https://www.ign.com/articles/more-than-8-years-on-from-its-announcement-the-elder-scrolls-6-is-reportedly-still-at-least-2-more-years-from-release) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/alienware-area-51-18-rtx-5070-ti-gaming-laptop-deal-at-dell-outlet-in-july) — *IGN*
 
-### 5. Beat the Summer Heat With This $7 Portable Turbo Fan
+### 5. Doom: The Dark Ages - Revelations Review So Far
 
-[原文] Stay frosty.
+[原文] The combat encounters in this DLC are the very best Doom: The Dark Ages has to offer.
 
-📎 [阅读原文](https://www.ign.com/articles/lerat-portable-turbo-fan-deal) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/doom-the-dark-ages-revelations-review) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Need for Speed Studio Is ‘Solely Focused on Battlefield’ Now and Maybe Forever
+### 1. Feds Are Pushing a Brand New Gas Station Chain Selling Strangely Cheap Fuel
+
+[原文] 25 "Freedom Fuel Network" gas stations have sprung up out of nowhere around Philly and South Jersey, selling for 30 cents under the average.
+The post Feds Are Pushing a Brand New Gas Station Chain Sel
+
+📎 [阅读原文](https://www.thedrive.com/news/feds-are-pushing-a-brand-new-gas-station-chain-selling-strangely-cheap-fuel) — *The Drive*
+
+### 2. Need for Speed Studio Is ‘Solely Focused on Battlefield’ Now and Maybe Forever
 
 [原文] It sounds like the hope of a new Burnout is pretty much dead too, as Criterion Games has been fully rebranded into "A Battlefield Studio."
 The post Need for Speed Studio Is &#8216;Solely Focused on Ba
 
 📎 [阅读原文](https://www.thedrive.com/news/need-for-speed-studio-is-solely-focused-on-battlefield-now-and-maybe-forever) — *The Drive*
 
-### 2. How Flock Cameras Wrongly Tracked Me for Days Over ‘Stolen’ Plates and Sent Police After Me
+### 3. How Flock Cameras Wrongly Tracked Me for Days Over ‘Stolen’ Plates and Sent Police After Me
 
 [原文] A simple error got magnified by Flock's nationwide surveillance camera network and ended with four cop cars boxing me in.
 The post How Flock Cameras Wrongly Tracked Me for Days Over ‘Stolen’ Plates an
 
 📎 [阅读原文](https://www.thedrive.com/news/how-flock-cameras-wrongly-tracked-me-for-days-over-stolen-plates-and-sent-police-after-me) — *The Drive*
 
-### 3. 30 Years Ago, Ferrari Automated the Manual Transmission. Now It’s Manualized the Automatic
+### 4. 30 Years Ago, Ferrari Automated the Manual Transmission. Now It’s Manualized the Automatic
 
 [原文] Ferrari's new manual-by-wire promises the best of both worlds; comfort and engagement. But most importantly, it closes a circle that was opened in 1997.
 The post 30 Years Ago, Ferrari Automated the Ma
 
 📎 [阅读原文](https://www.thedrive.com/news/30-years-ago-ferrari-automated-the-manual-transmission-now-its-manualized-the-automatic) — *The Drive*
 
-### 4. Aston Martin Will Keep V12s Alive, If Only Barely: TDS
+### 5. Aston Martin Will Keep V12s Alive, If Only Barely: TDS
 
 [原文] Aston Martin says its ensured its V12 is as globally compliant as it can be, but that still doesn't mean it can sell as many as it likes.
 The post Aston Martin Will Keep V12s Alive, If Only Barely: TD
 
 📎 [阅读原文](https://www.thedrive.com/news/aston-martin-will-keep-v12s-alive-if-only-barely-tds) — *The Drive*
-
-### 5. Hooray, You Can Now Buy a Fiat Topolino in the US—but It’s Too Darn Expensive
-
-[原文] The Fiat Topolino is one of the cutest little cars ever, but would you pay this much for a two-seater micro EV with 46 miles of range and a 25-mph top speed?
-The post Hooray, You Can Now Buy a Fiat To
-
-📎 [阅读原文](https://www.thedrive.com/news/hooray-you-can-now-buy-a-fiat-topolino-in-the-us-but-its-too-darn-expensive) — *The Drive*
 
 ---
 
@@ -363,35 +363,35 @@ The post Hooray, You Can Now Buy a Fiat To
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Climate Change Is Helping an Invasive Predator Wreak Havoc on Iconic Alaskan Fish
+### 1. Feds Grant Final Approval for Arizona Mine Situated in Critical Habitat for Jaguars and Mexican Spotted Owls
+
+[原文] The U.S. Forest Service Tuesday approved a proposed mine in southern Arizona that will extract up to five critical minerals and was the first added to a program designed to streamline federal permitti
+
+📎 [阅读原文](https://insideclimatenews.org/news/08072026/forest-service-approves-arizona-south32-hermosa-mine/) — *Inside Climate News*
+
+### 2. A Major Journalism Award Honors ‘Trailblazing Series’ on China’s Global Environmental Impact
+
+[原文] An Inside Climate News series that showed the often-hidden environmental impacts of China’s trillion-dollar global development push is a finalist for the John B. Oakes Award for Distinguished Environm
+
+📎 [阅读原文](https://insideclimatenews.org/news/08072026/planet-china-oakes-award/) — *Inside Climate News*
+
+### 3. 5 Takeaways From Our Investigation Into a Secretive System That Undermines Climate Action
+
+[原文] What if companies affected by government efforts to protect the environment could get international arbitrators to award them billion-dollar payouts? That’s exactly what has been happening because of 
+
+📎 [阅读原文](https://insideclimatenews.org/news/08072026/cashing-out-takeways-from-isds-investigation/) — *Inside Climate News*
+
+### 4. Climate Change Is Helping an Invasive Predator Wreak Havoc on Iconic Alaskan Fish
 
 [原文] WILLOW, Alaska—Corey Ercolani pulled a northern pike from a gillnet and slit its belly with a knife. Inside its guts lay fresh evidence of a growing biological crime: a dead juvenile salmon. A coho, o
 
 📎 [阅读原文](https://insideclimatenews.org/news/08072026/climate-change-helping-invasive-predator-alaskan-fish/) — *Inside Climate News*
 
-### 2. Extreme Temperatures Once Again Prove Deadly in Europe and U.S.
+### 5. Extreme Temperatures Once Again Prove Deadly in Europe and U.S.
 
 [原文] This summer has been off to a particularly hot—and deadly—start.&#160; In June and early July, severe heat waves blanketed Europe and the United States, exposing millions of people to dangerously high
 
 📎 [阅读原文](https://insideclimatenews.org/news/07072026/todays-climate-heat-waves-europe-us-deaths/) — *Inside Climate News*
-
-### 3. Record Heat Drives Wildfires in Europe, Forces Thousands to Evacuate
-
-[原文] Wildfires are tearing through southern France and parts of Spain, Portugal and Greece, forcing thousands of people to evacuate from their homes.  The wildfires follow a record-breaking June heat wave 
-
-📎 [阅读原文](https://insideclimatenews.org/news/07072026/record-heat-drives-wildfires-in-europe-forces-thousands-to-evacuate/) — *Inside Climate News*
-
-### 4. After a Weekend of Heavy Rains, Chicago’s Deep Tunnel Is Almost Full
-
-[原文] For the first time in history, Deep Tunnel, Chicago’s massive system of underground tunnels and reservoirs designed to hold flood water, is almost completely full after a weekend of heavy rain. Built 
-
-📎 [阅读原文](https://insideclimatenews.org/news/07072026/after-a-weekend-of-heavy-rains-chicagos-deep-tunnel-is-almost-full/) — *Inside Climate News*
-
-### 5. Despite Decades of Warnings, British Fish Stocks Are Collapsing
-
-[原文] Regulations governing British fishing are supposed to keep it “environmentally sustainable in the long term.” But fish stocks in the United Kingdom are on the brink of collapse. For those watching the
-
-📎 [阅读原文](https://insideclimatenews.org/news/07072026/fishing-bans-british-fish-stocks-are-collapsing/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post Hooray, You Can Now Buy a Fiat To
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Justin Bieber Will Perform at the FIFA World Cup Final Halftime Show
+### 1. Watch Mick Jagger and Ronnie Wood Perform ‘Ringing Hollow’ at London Event
+
+[原文] The song appears on their upcoming album Foreign Tongues, which arrives Friday
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/rolling-stones-mick-jagger-ronnie-wood-play-ringing-hollow-1235591361/) — *Rolling Stone*
+
+### 2. Mastodon Get Brutally Honest About Losing Brent Hinds in New Video: ‘We Were Exhausted’
+
+[原文] Band had parted ways with Hinds months before his 2025 death
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/mastodon-reflect-brent-hinds-struggles-video-1235591100/) — *Rolling Stone*
+
+### 3. Justin Bieber Will Perform at the FIFA World Cup Final Halftime Show
 
 [原文] The singer joins Madonna, Shakira, and BTS as co-headliners at New York New Jersey Stadium on July 19
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/justin-bieber-perform-fifa-world-cup-final-halftime-show-1235590837/) — *Rolling Stone*
 
-### 2. Taylor Swift Scores First Emmy Nominations in Over 10 Years for ‘The Eras Tour: The Final Show’
+### 4. Taylor Swift Scores First Emmy Nominations in Over 10 Years for ‘The Eras Tour: The Final Show’
 
 [原文] Taylor Swift: The Eras Tour: The Final Show received five nods, including Outstanding Variety Special
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/taylor-swift-2026-emmy-nominations-eras-tour-final-show-1235590955/) — *Rolling Stone*
 
-### 3. New Madonna Photo Book Will Feature Never Before Seen Portraits by Ken Regan
+### 5. New Madonna Photo Book Will Feature Never Before Seen Portraits by Ken Regan
 
 [原文] Madonna: Into the Groove will chronicle the pop icon’s massive 1985, during which she embarked on her Virgin Tour, played Live Aid, and starred in Desperately Seeking Susan
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/madonna-book-ken-regan-photos-1235590739/) — *Rolling Stone*
-
-### 4. Ed Sheeran to Sign New Deal With Interscope Records
-
-[原文] The superstar singer-songwriter will ink the new contract after leaving Warner Music Group, his label of 15 years, in May
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/ed-sheeran-sign-interscope-records-warner-music-1235590754/) — *Rolling Stone*
-
-### 5. Sam Cooke’s Granddaughters Preview Their Daptone Debut With ‘If I Let You’
-
-[原文] The Womack Sisters will release their eponymous debut album later this summer
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/womack-sisters-daptone-debut-album-1235587390/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post Hooray, You Can Now Buy a Fiat To
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Delta Launches Stripped-Down Business-Class Fares
+### 1. Fattal Buys Its First U.S. Hotel, Testing an Asset-Heavy Model Against the Giants
+
+[原文] The owner-operator of nearly 330 hotels is betting that its owner-operator model will win in the U.S. market, where other foreign entrants have stumbled.
+
+📎 [阅读原文](https://skift.com/2026/07/08/fattal-buys-its-first-u-s-hotel-testing-an-asset-heavy-model-against-the-giants/) — *Skift*
+
+### 2. Delta Launches Stripped-Down Business-Class Fares
 
 [原文] Delta is betting wealthy customers will pay Delta One prices for a coach-class experience on the ground
 
 📎 [阅读原文](https://skift.com/2026/07/08/delta-launches-stripped-down-business-class-fares/) — *Skift*
 
-### 2. The West Got Two Half-Apps Instead of a Super App: Google Maps vs. Uber
+### 3. The West Got Two Half-Apps Instead of a Super App: Google Maps vs. Uber
 
 [原文] Uber owns the transaction, and Google Maps owns the moment before it, and in the first half of 2026, both started using AI to cross into the other's territory. Travel distribution sits directly in the
 
 📎 [阅读原文](https://skift.com/2026/07/08/the-west-got-two-half-apps-instead-of-a-super-app-google-maps-vs-uber/) — *Skift*
 
-### 3. Accor and China’s H World Detail Plans to Link Their 19,000 Hotels
+### 4. Accor and China’s H World Detail Plans to Link Their 19,000 Hotels
 
 [原文] The two companies tout 430 million loyalty members between them. The test is how many actually book.
 
 📎 [阅读原文](https://skift.com/2026/07/08/accor-and-chinas-h-world-detail-plans-to-link-their-19000-hotels/) — *Skift*
 
-### 4. Air Canada Names SAS Chief Anko Van der Werff as New CEO
+### 5. Air Canada Names SAS Chief Anko Van der Werff as New CEO
 
 [原文] The outgoing Air Canada CEO couldn't speak French. His successor speaks that, plus five more to varying degrees.
 
 📎 [阅读原文](https://skift.com/2026/07/08/air-canada-names-sas-chief-anko-van-der-werff-as-new-ceo/) — *Skift*
-
-### 5. Who’s Next After EasyJet? We Size Up 10 Possible Takeover Targets
-
-[原文] A U.S. buyer has done what none of EasyJet's past suitors managed: It got the airline's board to the table.
-
-📎 [阅读原文](https://skift.com/2026/07/08/whos-next-after-easyjet-we-size-up-10-possible-takeover-targets/) — *Skift*
 
 ---
 
