@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月09日** | 生成时间: 2026-07-09 11:49
+**2026年07月09日** | 生成时间: 2026-07-09 17:51
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Ukraine to get licence to produce Patriot missiles, Trump says
+### 1. US and Iran trade strikes for second night in a row
 
-[原文] Although the Patriots are highly effective against Russia's ballistic missiles, they also have lengthy production times.
+[原文] Traffic through the Strait of Hormuz has dropped 'dramatically' since the lastest attacks began.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Starmer gifted gun and ammunition by Turkish president at Nato
+### 2. Democrat Graham Platner suspends campaign for key US Senate race after assault allegation
 
-[原文] The weapon has not been brought back to the UK and has instead been left with British officials in Turkey.
+[原文] The decision came days after a woman accused him of sexual assault, an accusation he says is "categorically false".
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c0jy3pd2jzqo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Justin Bieber joins Madonna, Shakira and BTS for Fifa World Cup final half-time show
+### 3. Platner's disastrous candidacy exposes rifts that could dampen Democrats' Senate hopes
 
-[原文] The Super Bowl-style show marks the Canadian singer's latest big performance after his comeback shows at Coachella.
+[原文] Along with creating tumult in a must-win race for Democrats, Graham Platner's exit is laying bare division between the party's left wing and moderates.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c1wyx7g9e1do?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c20ylnn8wqgo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. German doctor jailed for murder of 15 patients and suspected of more
+### 4. It was 'love at first sight' with their adopted baby. Then they were told he may have been trafficked
 
-[原文] The German palliative care doctor has been sentenced to life imprisonment for killing 15 of his patients.
+[原文] When they adopted Marcus, David and Ally's dream of having a child was complete - but now they could lose him.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cq819jyp2g7o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/czxq4ge246wo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Nato allies announce £37bn for new missile project
+### 5. Watch: We're a step closer to finding out if bees have feelings, here's why
 
-[原文] Prime Minister Sir Keir Starmer will convene around a dozen leaders to discuss the programme in Ankara.
+[原文] New research found bumblebees showed "emotion-like behaviours" previously only seen in mammals.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/videos/cpq309jrve4o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Oil extends gains as Iran-U.S. tensions raise concerns over supply disruptions
+### 1. Oil prices ease after spiking following fresh U.S. strikes against Iran
 
-[原文] Oil rises Thursday, amid worries over supply disruptions in the Middle East following fresh strikes on Iran by the U.S. military.
+[原文] Oil prices turned lower on Thursday after the U.S. carried out fresh strikes on Iran, renewing concerns about supply disruptions in the Middle East.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/09/oil-rises-as-iran-us-tensions-raise-concerns-over-supply-disruptions-.html) — *CNBC*
 
-### 2. China consumer price growth weakens in June while producer inflation rises to near 4-year high
+### 2. Ukraine’s drone playbook is wreaking havoc in Russia — and upending where NATO wants to invest
 
-[原文] Investors increasingly view China's two-speed growth with robust export and tepid domestic demand as a defining long-term feature of the Chinese economy.
+[原文] Ukraine’s deep drone strikes on Russian refineries are reshaping the war and pushing NATO toward a $40 billion counter-drone plan.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/09/china-cpi-ppi-june-inflation-iran-war-.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/09/ukraine-drone-strikes-russia-nato.html) — *CNBC*
 
-### 3. Trump loses appeals court bid to delay paying E. Jean Carroll $5M in damages
+### 3. AstraZeneca stock dives 9% after heart drug trial misses target
 
-[原文] Trump was held civilly liable in two trials for defaming E. Jean Carroll when he denied her claim he sexually abused her in a New York department store.
+[原文] A late-stage clinical trial failed to miss its primary endpoint, U.K.'s laregst drugmaker said Thursday.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/08/trump-e-jean-carroll-supreme-court-sex-abuse.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/09/astrazeneca-stock-trial-heart-drug-pharma.html) — *CNBC*
 
-### 4. Platner quits Maine Senate race; Democrats set to pick new nominee
+### 4. Jim Cramer sees a big risk to the bull market resurfacing — and it's not the Iran war
+
+[原文] CNBC's Jim Cramer said the growing wave of stock offerings and debt issuance is the next big threat to the bull market.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/08/jim-cramer-risk-bull-market-resurfacing.html) — *CNBC*
+
+### 5. Platner quits Maine Senate race; Democrats set to pick new nominee
 
 [原文] Maine Democrats must now replace Platner with less than four months until the midterm elections.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/08/platner-quits-maine-senate-race-midterm-elections.html) — *CNBC*
-
-### 5. U.S. military launches new Iran strikes as Trump says 'not sure' he wants deal
-
-[原文] Centcom said it launched dozens of strikes on Iranian military infrastructure and small boats; Trump said the U.S. might take more military action "tonight."
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/08/trump-iran-war-deal-hormuz-strait-ceasefire.html) — *CNBC*
 
 ---
 
@@ -136,29 +136,29 @@
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260708022208.htm) — *Science Daily*
 
-### 2. Heidelberg physicists just united two opposing quantum theories
+### 2. The Ozempic and Wegovy mistake sending thousands to poison control
+
+[原文] Poison control calls involving semaglutide (Ozempic and Wegovy) soared after the drug was approved for weight management, with researchers linking the increase to accidental dosing mistakes rather tha
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260708022204.htm) — *Science Daily*
+
+### 3. Harvard scientists turn a silicon chip into a DNA writing machine
+
+[原文] Scientists have created a silicon chip that can write dozens of DNA sequences simultaneously using electricity and water-based enzymes, offering a cleaner alternative to conventional DNA manufacturing
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260708022202.htm) — *Science Daily*
+
+### 4. Tiny silica particles wiped out aggressive prostate cancer in mice
+
+[原文] Tiny silica nanoparticles engineered to seek out prostate cancer caused tumor cells to self-destruct and supercharged the immune system in preclinical mouse studies. Combined with immunotherapy, the t
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260708022158.htm) — *Science Daily*
+
+### 5. Heidelberg physicists just united two opposing quantum theories
 
 [原文] A new quantum theory bridges two rival models of how impurities behave inside many-particle systems, resolving a problem that has challenged physicists for decades. The findings could reshape experime
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260708022154.htm) — *Science Daily*
-
-### 3. New weight loss pill beats oral Ozempic in major trial
-
-[原文] A new once-daily weight-loss pill called orforglipron delivered better weight loss and blood sugar improvements for people with type 2 diabetes than the leading oral semaglutide in a major clinical tr
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260707054111.htm) — *Science Daily*
-
-### 4. Ancient DNA reveals the mysterious collapse of Europe's megalith builders
-
-[原文] DNA from a 5,000-year-old French megalithic tomb reveals that the people buried before and after a population collapse were genetically unrelated, pointing to a major migration after a devastating cri
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260707054108.htm) — *Science Daily*
-
-### 5. Scientists used AI to crack one of water's biggest mysteries
-
-[原文] Water’s odd behavior becomes even more dramatic when it is supercooled, but scientists have struggled to compare the many different ways of describing its microscopic structure. Researchers at the Uni
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260707025047.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Wimbledon thought it had seen everything - then Fery arrived
+### 1. How Kane and Haaland compare - who would you pick?
 
-[原文] Wimbledon has witnessed some extraordinary days on Centre Court - but British wildcard Arthur Fery reaching the semi-finals is among the very best.
+[原文] Two of the world's best strikers - Harry Kane and Erling Haaland - meet in the World Cup quarter-finals - but who would you rather have?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cm2dgm39mz6o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c5yzzz54kllo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Starmer hints at bank holiday if England win World Cup
+### 2. France fail with Olise appeal & Saibari ruled out
 
-[原文] The prime minister says he does not want to "jinx it" but "ask me again if we get to the final".
+[原文] France fail in their bid to have forward Michael Olise's yellow card overturned, while Morocco are without Ismael Saibari for the quarter-final at Boston Stadium.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c20y9g2v2wvo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c78y0j7vvg8o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. A Golden Boot race for the ages - but who will come out on top?
+### 3. 'Sack him' - Stokes on potential retirement rule breach
 
-[原文] It's fast becoming a World Cup Golden Boot for the ages. But who will win it?
+[原文] Ben Stokes reacts after the ICC contacted the ECB over a potential rule breach linked to his retirement announcement.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ce8m526mjmeo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cjdg4me54rro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Paralympic great Storey retires from GB competition
+### 4. McEnroe, Henman & Murray on why Fery is ruling Wimbledon
 
-[原文] Dame Sarah Storey, Great Britain's most-decorated Paralympian, retires from international competition with immediate effect.
+[原文] Good tennis IQ and inner belief - how British wildcard Arthur Fery has reached defied the odds to reach a shock Wimbledon semi-final.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/articles/cy047zjr5rqo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/ckg49gzm3k0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. I've lost the fire to regain spot in new-look England side - Beaumont
+### 5. Man Utd agree £50m deal for Chelsea's Santos
 
-[原文] England batter Tammy Beaumont discusses the emotions of her retirement, reflects on her career and calls for more Test cricket in the women's game.
+[原文] Manchester United agree a £50m deal with Chelsea for their Brazilian midfielder Andrey Santos.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cj3g64jkvm4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cr7xkgd8vdko?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Justin Baldoni Speaks Out on Blake Lively Legal Battle: ‘There Have Been so Many Painful Things That Have Been Spoken Into Existence’
+### 1. ‘3 Weeks After’ Review: A Bruising, Fiercely Controlled Study of High Schoolers in Moral and Psychological Freefall
 
-[原文] Justin Baldoni and his wife, Emily, posted a video to Instagram on Wednesday afternoon in which they opened up about the legal battle with Blake Lively over the events surrounding the production of th
+[原文] The kids have never been less all right than they are &#8220;3 Weeks After,&#8221; a nightmarishly intense depiction of high school bullying and its consequences from Serbian director Miroslav Terzić 
 
-📎 [阅读原文](https://variety.com/2026/film/news/justin-baldoni-speaks-out-blake-lively-it-ends-with-us-1236805355/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/3-weeks-after-review-1236803851/) — *Variety*
 
-### 2. Best Horror of July 2026: ‘Evil Dead Burn,’ Nicolas Winding Refn Returns, a Bloodthirsty Pinocchio and More
+### 2. Bonnie Tyler, ‘Total Eclipse of the Heart’ and ‘Holding Out for a Hero’ Singer, Dies at 75
 
-[原文] Welcome to Horror Explorer, a curated column showcasing the month’s best movies, series, books and everything else spooky worth checking out. I’m William Earl, the executive digital director of Variet
+[原文] Bonnie Tyler, the Welsh pop-rock singer behind &#8217;80s hits like &#8220;Total Eclipse of the Heart&#8221; and &#8220;Holding Out for a Hero,” died on Wednesday. She was 75. &#8220;Bonnie&#8217;s fa
 
-📎 [阅读原文](https://variety.com/lists/horror-movies-to-watch-july-2026/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/global/bonnie-tyler-dead-total-eclipse-of-the-heart-singer-1236805512/) — *Variety*
 
-### 3. Patrick Dempsey Gave ‘Real Thought’ to Running For Senate in Maine After Graham Platner Scandal: ‘I’m Concerned About the Direction Our Country Is Heading’
+### 3. Bendita Film Sales Boards Locarno-Bound ‘Donkey Princess,’ From ‘The Wolf House’ Directors León & Cociña (EXCLUSIVE)
 
-[原文] Patrick Dempsey wrote in a recent op-ed for the Portland Press Herald that he gave &#8220;real thought&#8221; to running for Senate in Maine after the Democratic nominee Graham Platner was hit with se
+[原文] Bendita Film Sales has acquired international sales rights to “Donkey Princess,” the latest feature from Chilean filmmaking duo Cristóbal León and Joaquín Cociña, which is set to world premiere in the
 
-📎 [阅读原文](https://variety.com/2026/tv/news/patrick-dempsey-running-for-senate-maine-graham-platner-1236805311/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/bendita-film-sales-donkey-princess-locarno-1236805433/) — *Variety*
 
-### 4. Auteurs and Showrunners Dominate Emmy Nominations in Writing and Directing Categories
+### 4. ‘Mu-ki-ra,’ From Colombian Creative Powerhouse Estefanía Piñeres Duque and ‘Decorado’ Producer Chelo Loureiro, Brought to Market by Latido Films (EXCLUSIVE)
 
-[原文] Auteurs are out in force in this year&#8217;s writing and directing Emmy races and so are veteran pilot and episodic helmers. Female helmers had a big showing in noms for drama series, documentary and
+[原文] “Mu-Ki-Ra,” from Colombian creative powerhouse Estefania Pineres Duque and Spain’s Ábano Producions, producer of Annecy winner “Decorado,” will be brought to market by Latido Films at Locarno. An anim
 
-📎 [阅读原文](https://variety.com/2026/tv/news/emmy-writing-directing-nom-quinta-tim-robinson-hargitay-1236805204/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/mu-ki-ra-estefania-pineres-duque-latido-locarno-1236723274/) — *Variety*
 
-### 5. England’s World Cup Victory Over Mexico Draws Nearly 45 Million Viewers for Fox Sports, Telemundo and Peacock
+### 5. ‘Small Talk,’ a Nuanced Take on Switzerland’s Last Finishing School, Boarded by Urban Sales (EXCLUSIVE)
 
-[原文] England&#8217;s upset victory over Mexico to advance to the World Cup quarterfinals delivered nearly 45 million viewers on Sunday night across Fox Sports and the viewers for the Spanish-language telec
+[原文] Locarno-bound title “Small Talk,” a doc-fiction portrait of the power dynamics at play among the daughters of the world’s social elite, has been picked up for international sales by the Frédéric Corve
 
-📎 [阅读原文](https://variety.com/2026/sports/news/england-mexico-world-cup-ratings-argentina-cabo-verde-1236805185/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/small-talk-mateo-ybarra-urban-sales-locarno-1236805455/) — *Variety*
 
 ---
 
@@ -244,35 +244,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. WHO adds first diagnostic test for Ebola Bundibugyo virus to its Emergency Use Listing
+### 1. WHO calls for urgent action as new cancer cases are projected to nearly double by 2050
+
+[原文] Millions of people are facing physical, emotional and financial toll of cancer, a disease that claims more than 26 000 lives every day, according to a report released today by the World Health Organiz
+
+📎 [阅读原文](https://www.who.int/news/item/08-07-2026-who-calls-for-urgent-action-as-new-cancer-cases-are-projected-to-nearly-double-by-2050) — *WHO*
+
+### 2. WHO adds first diagnostic test for Ebola Bundibugyo virus to its Emergency Use Listing
 
 [原文] Today, the World Health Organization (WHO) has added the first molecular diagnostic test for Bundibugyo virus (BDBV) to its Emergency Use Listing (EUL). The test detects the virus by identifying its g
 
 📎 [阅读原文](https://www.who.int/news/item/02-07-2026-who-adds-first-diagnostic-test-for-ebola-bundibugyo-virus-to-its-emergency-use-listing) — *WHO*
 
-### 2. Patient enrolment begins in a scientific trial to identify the first effective treatments for Bundibugyo virus disease
+### 3. Patient enrolment begins in a scientific trial to identify the first effective treatments for Bundibugyo virus disease
 
 [原文] In a major international effort to evaluate potential treatments for Ebola disease due to Bundibugyo virus (BVD), the PARTNERS clinical trial has opened enrolment today for patients in the Democratic 
 
 📎 [阅读原文](https://www.who.int/news/item/02-07-2026-patient-enrolment-begins-in-a-scientific-trial-to-identify-the-first-effective-treatments-for-bundibugyo-virus-disease) — *WHO*
 
-### 3. 655 million people still living without electricity underscore urgent need to deliver on universal energy access target
+### 4. 655 million people still living without electricity underscore urgent need to deliver on universal energy access target
 
 [原文] At a time when energy security and affordability have risen to the top of the development agenda, 655 million people globally still lack access to electricity, and two billion use polluting fuels and 
 
 📎 [阅读原文](https://www.who.int/news/item/24-06-2026-655-million-people-still-living-without-electricity-underscore-urgent-need-to-deliver-on-universal-energy-access-target) — *WHO*
 
-### 4. WHO urges scale up of newborn screening to improve early detection and care of birth defects
+### 5. WHO urges scale up of newborn screening to improve early detection and care of birth defects
 
 [原文] The World Health Organization (WHO) today calls on countries to expand newborn screening for birth defects, highlighting how early detection and treatment can save lives and reduce lifelong disability
 
 📎 [阅读原文](https://www.who.int/news/item/23-06-2026-who-urges-scale-up-of-newborn-screening-to-improve-early-detection-and-care-of-birth-defects) — *WHO*
-
-### 5. WHO issues comprehensive guidelines on filovirus disease, including Ebola and Marburg disease
-
-[原文] As the Democratic Republic of the Congo is battling an Ebola disease outbreak caused by the Bundibugyo virus, the World Health Organization (WHO) has released its first comprehensive guidelines for th
-
-📎 [阅读原文](https://www.who.int/news/item/17-06-2026-who-issues-comprehensive-guidelines-on-filovirus-disease--including-ebola-and-marburg-disease) — *WHO*
 
 ---
 
@@ -363,35 +363,35 @@ The post Aston Martin Will Keep V12s Alive, If Only Barely: TD
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Feds Grant Final Approval for Arizona Mine Situated in Critical Habitat for Jaguars and Mexican Spotted Owls
+### 1. NYC Invests in Air Quality, but the Bronx Still Can’t Breathe Easy
+
+[原文] NEW YORK—When Mayor Zohran Mamdani announced that $20 million from the city’s congestion pricing revenue would be redirected to fight childhood asthma in the Bronx, Javier Marchand celebrated.&#160; B
+
+📎 [阅读原文](https://insideclimatenews.org/news/09072026/nyc-bronx-air-quality-remains-a-problem/) — *Inside Climate News*
+
+### 2. A Court Ruling Leaves Some of New York’s Most Important Wetlands Unprotected
+
+[原文] Four years ago, the New York State Legislature made a major move to better protect wetlands. Now some of those safeguards are delayed for potentially several more years. The 2022 amendment to the 1975
+
+📎 [阅读原文](https://insideclimatenews.org/news/09072026/new-york-court-ruling-leaves-wetlands-unprotected/) — *Inside Climate News*
+
+### 3. Feds Grant Final Approval for Arizona Mine Situated in Critical Habitat for Jaguars and Mexican Spotted Owls
 
 [原文] The U.S. Forest Service Tuesday approved a proposed mine in southern Arizona that will extract up to five critical minerals and was the first added to a program designed to streamline federal permitti
 
 📎 [阅读原文](https://insideclimatenews.org/news/08072026/forest-service-approves-arizona-south32-hermosa-mine/) — *Inside Climate News*
 
-### 2. A Major Journalism Award Honors ‘Trailblazing Series’ on China’s Global Environmental Impact
+### 4. A Major Journalism Award Honors ‘Trailblazing Series’ on China’s Global Environmental Impact
 
 [原文] An Inside Climate News series that showed the often-hidden environmental impacts of China’s trillion-dollar global development push is a finalist for the John B. Oakes Award for Distinguished Environm
 
 📎 [阅读原文](https://insideclimatenews.org/news/08072026/planet-china-oakes-award/) — *Inside Climate News*
 
-### 3. 5 Takeaways From Our Investigation Into a Secretive System That Undermines Climate Action
+### 5. 5 Takeaways From Our Investigation Into a Secretive System That Undermines Climate Action
 
 [原文] What if companies affected by government efforts to protect the environment could get international arbitrators to award them billion-dollar payouts? That’s exactly what has been happening because of 
 
 📎 [阅读原文](https://insideclimatenews.org/news/08072026/cashing-out-takeways-from-isds-investigation/) — *Inside Climate News*
-
-### 4. Climate Change Is Helping an Invasive Predator Wreak Havoc on Iconic Alaskan Fish
-
-[原文] WILLOW, Alaska—Corey Ercolani pulled a northern pike from a gillnet and slit its belly with a knife. Inside its guts lay fresh evidence of a growing biological crime: a dead juvenile salmon. A coho, o
-
-📎 [阅读原文](https://insideclimatenews.org/news/08072026/climate-change-helping-invasive-predator-alaskan-fish/) — *Inside Climate News*
-
-### 5. Extreme Temperatures Once Again Prove Deadly in Europe and U.S.
-
-[原文] This summer has been off to a particularly hot—and deadly—start.&#160; In June and early July, severe heat waves blanketed Europe and the United States, exposing millions of people to dangerously high
-
-📎 [阅读原文](https://insideclimatenews.org/news/07072026/todays-climate-heat-waves-europe-us-deaths/) — *Inside Climate News*
 
 ---
 
@@ -477,35 +477,35 @@ The post Aston Martin Will Keep V12s Alive, If Only Barely: TD
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Fattal Buys Its First U.S. Hotel, Testing an Asset-Heavy Model Against the Giants
+### 1. Scapia Wants to Own India’s Next Wave of Travelers — Through Their Credit Cards
+
+[原文] Scapia won’t fight online travel agencies on price. Instead, this travel fintech is betting that everyday spending, loyalty rewards, and payments will determine where the next generation of travelers 
+
+📎 [阅读原文](https://skift.com/2026/07/09/scapia-wants-to-own-indias-next-wave-of-travelers-through-their-credit-cards/) — *Skift*
+
+### 2. Fattal Buys Its First U.S. Hotel, Testing an Asset-Heavy Model Against the Giants
 
 [原文] The owner-operator of nearly 330 hotels is betting that its owner-operator model will win in the U.S. market, where other foreign entrants have stumbled.
 
 📎 [阅读原文](https://skift.com/2026/07/08/fattal-buys-its-first-u-s-hotel-testing-an-asset-heavy-model-against-the-giants/) — *Skift*
 
-### 2. Delta Launches Stripped-Down Business-Class Fares
+### 3. Delta Launches Stripped-Down Business-Class Fares
 
 [原文] Delta is betting wealthy customers will pay Delta One prices for a coach-class experience on the ground
 
 📎 [阅读原文](https://skift.com/2026/07/08/delta-launches-stripped-down-business-class-fares/) — *Skift*
 
-### 3. The West Got Two Half-Apps Instead of a Super App: Google Maps vs. Uber
+### 4. The West Got Two Half-Apps Instead of a Super App: Google Maps vs. Uber
 
 [原文] Uber owns the transaction, and Google Maps owns the moment before it, and in the first half of 2026, both started using AI to cross into the other's territory. Travel distribution sits directly in the
 
 📎 [阅读原文](https://skift.com/2026/07/08/the-west-got-two-half-apps-instead-of-a-super-app-google-maps-vs-uber/) — *Skift*
 
-### 4. Accor and China’s H World Detail Plans to Link Their 19,000 Hotels
+### 5. Accor and China’s H World Detail Plans to Link Their 19,000 Hotels
 
 [原文] The two companies tout 430 million loyalty members between them. The test is how many actually book.
 
 📎 [阅读原文](https://skift.com/2026/07/08/accor-and-chinas-h-world-detail-plans-to-link-their-19000-hotels/) — *Skift*
-
-### 5. Air Canada Names SAS Chief Anko Van der Werff as New CEO
-
-[原文] The outgoing Air Canada CEO couldn't speak French. His successor speaks that, plus five more to varying degrees.
-
-📎 [阅读原文](https://skift.com/2026/07/08/air-canada-names-sas-chief-anko-van-der-werff-as-new-ceo/) — *Skift*
 
 ---
 
