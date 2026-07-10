@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月10日** | 生成时间: 2026-07-10 11:40
+**2026年07月10日** | 生成时间: 2026-07-10 17:41
 
 ---
 
@@ -16,29 +16,29 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. US and Iran trade attacks as Khamenei is buried
+### 1. Huge crowds in Mashhad as Iran's late supreme leader is buried
 
-[原文] Centcom says it hit 90 Iranian targets in the latest round of strikes, with the Iranian health ministry saying 14 people were killed since Tuesday.
+[原文] Ali Khamenei was buried at the Imam Reza shrine, Iran's holiest Shia Muslim site, ending six days of public mourning ceremonies.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5yzm8m4peeo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Twelve die in wildfire in Spain as heatwave continues in southern Europe
-
-[原文] Six people were injured in the blaze in Los Gallardos in the province of Almería.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 3. Ukrainian agent accused of murdering Monaco bomb suspect changes story
+### 2. Ukrainian agent accused of murdering Monaco bomb suspect changes story
 
 [原文] Two men with links to Ukraine's security services are accused of killing Anastasiia Berezovska and dumping her body in woods.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cpv3e8y39j7o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike
+### 3. Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike
 
 [原文] Aid worker Mohammed al-Wahidi had become a prominent humanitarian figure during the Israel-Hamas war.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. China lands reusable rocket for first time, state media says
+
+[原文] It follows similar landings of reusable rockets by US-owned companies SpaceX and Blue Origin.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cm2rmmx86pdo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 5. Chip giant SK Hynix raises $26.5bn in mega US share sale
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Inside NATO's extraordinary 48 hours that revealed Trump's grip on global diplomacy
+### 1. Meet SK Hynix, the trillion-dollar South Korean chipmaker debuting on U.S. markets
 
-[原文] Steve Sedgwick goes behind the scenes of NATO's dramatic 48 hours, where Trump's changing tone reshaped diplomacy and left allies guessing.
+[原文] Following a more than sevenfold rally in its stock price over the past year, South Korea's SK Hynix is listing on the Nasdaq.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/09/nato-trump-rutte-ukraine-russia-us-iran.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/09/meet-sk-hynix-the-trillion-dollar-chipmaker-debuting-on-us-markets-.html) — *CNBC*
 
-### 2. U.S. to continue 'technical talks' with Iran after Trump said ceasefire was 'over'
+### 2. World oil demand set for first annual decline since 2020, IEA says
+
+[原文] Renewed escalation in the U.S.-Iran war could complicate matters and further cloud the outlook, the IEA warned Friday.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/10/iea-world-oil-demand-declines-iran-war.html) — *CNBC*
+
+### 3. New Fed task force members share Chairman Kevin Warsh's embrace of AI
+
+[原文] The three members of a task force advising the Fed on artificial intelligence are strong proponents of the technology.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/09/fed-task-force-member-chairman-kevin-warsh-ai.html) — *CNBC*
+
+### 4. OpenAI exec Fidji Simo says she's stepping down due to chronic illness, will transition to advisor
+
+[原文] Fidji Simo stepped away from OpenAI in April for a medical leave, says she now has to focus on recovery.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/09/openai-exec-fidji-simo-says-she-will-step-down-and-transition-to-part-time-advisor.html) — *CNBC*
+
+### 5. U.S. to continue 'technical talks' with Iran after Trump said ceasefire was 'over'
 
 [原文] The ceasefire signed last month came under serious strain in recent days as the U.S. and Iranian forces exchanged attacks for consecutive days this week.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/10/us-iran-war-strikes-strait-of-hormuz-technical-talks-progress-.html) — *CNBC*
-
-### 3. Kevin Warsh names members of his Federal Reserve task forces, including Marc Andreessen, Doug McMillon
-
-[原文] Federal Reserve Chairman Kevin Warsh on Thursday released names of the experts who will comprise five task forces to examine the institution's operations.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/09/kevin-warsh-names-members-of-his-federal-reserve-task-forces-including-marc-andreessen-doug-mcmillon.html) — *CNBC*
-
-### 4. A huge trade just happened on the Nasdaq 100. Bulls are taking notice
-
-[原文] Tech bulls may not have to wait much longer for fresh highs, if the single-biggest trade in the Invesco QQQ Trust ETF on Thursday is any indication.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/09/a-huge-trade-just-happened-on-the-nasdaq-100-bulls-are-taking-notice.html) — *CNBC*
-
-### 5. Alleged Reflecting Pool vandal David Hearn pleads not guilty; lawyer calls him 'scapegoat'
-
-[原文] "If Mr. Hearn can be charged with a felony for touching the Reflecting Pool, every American is at risk," a lawyer said as he blasted the Trump administration.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/09/reflecting-pool-david-hearn-washington-trump-olympian.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter
+### 1. After Apple, India’s smartphone manufacturing boom enters new phase with Vivo JV
+
+[原文] Vivo's joint venture could become a template for Chinese smartphone makers in India.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/09/after-apple-indias-smartphone-manufacturing-boom-enters-new-phase-with-vivo-jv/) — *TechCrunch*
+
+### 2. OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter
 
 [原文] OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/) — *TechCrunch*
 
-### 2. Don’t want to invest in Elon Musk? Two new ETFs explicitly exclude him
+### 3. Don’t want to invest in Elon Musk? Two new ETFs explicitly exclude him
 
 [原文] The new exchanged-traded funds exclude companies that are founded, controlled, or led by Elon Musk. That means no SpaceX or Tesla.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/09/dont-want-to-invest-in-elon-musk-two-new-etfs-explicitly-exclude-him/) — *TechCrunch*
 
-### 3. Fidji Simo steps down from OpenAI’s no. 2 role
+### 4. Fidji Simo steps down from OpenAI’s no. 2 role
 
 [原文] OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes
 
 📎 [阅读原文](https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/) — *TechCrunch*
 
-### 4. OpenAI launches its new family of models with GPT-5.6
+### 5. OpenAI launches its new family of models with GPT-5.6
 
 [原文] OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/) — *TechCrunch*
-
-### 5. An AI agent startup just let its agent run its $100M fundraise
-
-[原文] Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Guehi a doubt for Norway game with hamstring injury and Rice ill with bug
+### 1. Copy of Dybantsa vs. Peterson, Round 1: Biggest takeaways ...
 
-[原文] England defender Marc Guehi is managing a slight hamstring injury and could miss Saturday's Norway quarter-final.
+[原文] The NBA's top picks from the 2026 draft faced off at the Las Vegas summer league. How did AJ Dybantsa and Darryn Peterson fare?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c3eyqdwq392o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/nba/story/_/id/49317237/nba-summer-league-takeaways-aj-dybantsa-debut-darryn-peterson-washington-wizards-utah-jazz) — *ESPN*
 
-### 2. France cruise into semi-finals - could this be the best Les Bleus ever?
+### 2. Mbappé allays WC injury concern: 'I'm all good'
 
-[原文] World Cup winners in 1998 and 2018, France have created another special team and in beating Morocco showed why they are favourites to win the 2026 competition.
+[原文] Kylian Mbappé has downplayed concerns over what he described as a "knock on his ankle" during France's 2-0 World Cup quarterfinal win over Morocco.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c4gy74978myo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49319548/france-kylian-mbappe-allays-world-cup-injury-concern-all-good-morocco) — *ESPN*
 
-### 3. To Wimbledon and back - Fery's voyage to Centre Court spotlight
+### 3. Dybantsa outduels Peterson in Las Vegas debut
 
-[原文] Arthur Fery learned how to play tennis less than a mile away from Wimbledon's Centre Court - now he's one win away from the SW19 final.
+[原文] AJ Dybantsa, this year's No. 1 pick, led all players with 27 points to power the Wizards to a win over the Jazz and No. 2 pick Darryn Peterson.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cpq30vnj7jlo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/nba/story/_/id/49321789/wizards-dybantsa-outduels-jazz-peterson-summer-league-debut) — *ESPN*
 
-### 4. France into semi-finals after comfortable win over Morocco
+### 4. Clips-Raptors trade for Kawhi on hold amid probe
 
-[原文] Kylian Mbappe scores his eighth goal of this World Cup to make up for an earlier penalty miss with Ousmane Dembele adding a second as France prove too good for Morocco and move into the semi-finals.
+[原文] The Clippers-Raptors trade involving Kawhi Leonard will not be completed until the NBA probe into whether the Clippers circumvented the salary cap is completed.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/crm0ry2nemmo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/nba/story/_/id/49317499/clippers-raptors-trade-involving-kawhi-leonard-hold-amid-probe) — *ESPN*
 
-### 5. 'The whole match was the tie-break' - how Muchova-Gauff semi-final unfolded
+### 5. Steph acknowledges 'allure' of playing with LeBron...
 
-[原文] Twenty-two points, 18 minutes, one winner - how Karolina Muchova and Coco Gauff's "rollercoaster" semi-final was decided by an astonishing tie-break.
+[原文] Stephen Curry acknowledged the appeal of a late-career Hall of Fame team-up with his longtime NBA rival LeBron James.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/c8j2dwr07p0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/nba/story/_/id/49318372/steph-curry-acknowledges-appeal-playing-lebron-james) — *ESPN*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. LISTEN: James Corden Reunites ‘Late Late Show’ Team for Fox’s ‘After Hours’ World Cup Show
+### 1. ‘God Particle’ Physicist Fabiola Gianotti to Get Feature Biopic by ‘The Invisible Witness’ Director Stefano Mordini (EXCLUSIVE)
 
-[原文] Three years after he signed off CBS’ “The Late Late Show,” James Corden is having the time of his life hosting the World Cup after show for Fox, “After Hours With James Corden.” On the latest episode 
+[原文] Pioneering Italian physicist Fabiola Gianotti, who led one of two experiments that led to the discovery of the Higgs boson, which has been nicknamed the “God particle,” is set to be the subject of a b
 
-📎 [阅读原文](https://variety.com/2026/tv/news/james-corden-world-cup-fox-after-hours-ben-winston-late-1236806207/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/mysterious-particle-fabiola-gianotti-god-particle-1236806300/) — *Variety*
 
-### 2. Showrunner Mara Brock Akil’s Writers’ Colony Announces Cohorts for 2026 Summer and Fall Residencies
+### 2. Greek Myth Summer Continues as Mediawan Rolls Out Kinetic Content Gameshow ‘Trojan Horse’ Across Europe
 
-[原文] Showrunner Mara Brock Akil’s Writers’ Colony has unveiled two new cohorts for 2026. Programming began June 10 for the summer session and will begin Sept. 2 for the fall session. The three-month screen
+[原文] It’s the summer for Greek mythology. While Christopher Nolan’s screen adaptation of Homer’s epic “The Odyssey” is set to take the box office by storm, French producer Mediawan is rolling out a high-co
 
-📎 [阅读原文](https://variety.com/2026/tv/news/mara-brock-akil-writers-colony-2026-summer-fall-cohorts-1236805232/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/global/mediawan-kinetic-content-gameshow-trojan-horse-1236806319/) — *Variety*
 
-### 3. Fidji Simo, OpenAI’s No. 2 Executive, to Step Down to Focus on Recovery From Chronic Illness
+### 3. ‘Modern Family’ Star Jesse Tyler Ferguson to Reprise Truman Capote in ‘Tru’ at London’s Menier Chocolate Factory
 
-[原文] Fidji Simo, OpenAI’s CEO of artificial general intelligence deployment and the company&#8217;s No. 2 executive, will step down from her full-time role following a three-month medical leave, she said i
+[原文] &#8220;Modern Family&#8221; star Jesse Tyler Ferguson will make his Menier Chocolate Factory debut playing Truman Capote in Jay Presson Allen&#8217;s &#8220;Tru.&#8221; Rob Ashford directs the product
 
-📎 [阅读原文](https://variety.com/2026/biz/news/fidji-simo-openai-step-down-recovery-illness-1236806169/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/theater/news/jesse-tyler-ferguson-truman-capote-tru-london-menier-chocolate-factory-1236805826/) — *Variety*
 
-### 4. Sarah McLachlan and Allison Russell on Touring Together and Summer Nights Devoted to ‘Forgetting Madness and Being Part of Something Beautiful’
+### 4. Malaysian Sci-Fi ‘Mimpi Kita: Castle in the Air’ Lands Distributor and Sales Agent Abnormal Studios (EXCLUSIVE)
 
-[原文] All mysteries aside, you could say that, this summer, together, Sarah McLachlan and Allison Russell are building a sister-y road show. McLachlan is touring behind her 2025 &#8220;Better Broken&#8221; 
+[原文] Malaysia&#8217;s Abnormal Studios has picked up theatrical distribution rights for Malaysia and Brunei to &#8220;Mimpi Kita: Castle in the Air,&#8221; the science-fiction fantasy feature that recently
 
-📎 [阅读原文](https://variety.com/2026/music/news/sarah-mclachlan-tour-allison-russell-joint-interview-1236806144/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/malaysian-sci-fi-mimpi-kita-castle-in-the-air-abnormal-studios-1236806294/) — *Variety*
 
-### 5. U.S. World Cup Loss to Belgium Averages 33.1 Million Viewers, the Most-Watched Soccer Telecast in U.S. History
+### 5. Anthony Hopkins Signed by Decca Classics; First Album of Music Composed by Oscar-Winning Actor Set for August Release
 
-[原文] Fox&#8217;s coverage of Monday night&#8217;s World Cup match between the United States&#8217; Men&#8217;s National Soccer Team and Belgium on Monday, July 6, scored record ratings, averaging 33,086,00
+[原文] Anthony Hopkins isn&#8217;t just an Oscar-winning actor &#8212; for decades, he&#8217;s been composing music in addition to his acting roles. The &#8220;Silence of the Lambs&#8221; actor has signed wi
 
-📎 [阅读原文](https://variety.com/2026/tv/news/u-s-world-cup-loss-ratings-most-watched-soccer-telecast-1236806132/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/anthony-hopkins-decca-classics-life-is-a-dream-album-1236806236/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. 'We Really Had a Good Time Making It': JK Simmons Speaks Out About Canceled Batgirl Movie
+### 1. Cape Fear Episode 7 Recap and Review – ‘Mongrel’
+
+[原文] In our Cape Fear Episode 7 review, the Apple TV thriller finally embraces its melodramatic side with a major character death and shocking family twists.
+
+📎 [阅读原文](https://www.ign.com/articles/cape-fear-episode-7-recap-and-review-mongrel) — *IGN*
+
+### 2. Palworld Review So Far
+
+[原文] So far the 1.0 version is looking like it’s made all the right improvements.
+
+📎 [阅读原文](https://www.ign.com/articles/palworld-review) — *IGN*
+
+### 3. 'We Really Had a Good Time Making It': JK Simmons Speaks Out About Canceled Batgirl Movie
 
 [原文] JK Simmons isn't thrilled about the decision to scrap the Batgirl movie.
 
 📎 [阅读原文](https://www.ign.com/articles/we-really-had-a-good-time-making-it-jk-simmons-speaks-out-about-canceled-batgirl-movie) — *IGN*
 
-### 2. Dead by Daylight, Control, and McDonald's Are Helping Advertise Assassin's Creed Black Flag Resynced
+### 4. Dead by Daylight, Control, and McDonald's Are Helping Advertise Assassin's Creed Black Flag Resynced
 
 [原文] For whatever reason, a bunch of video game companies are helping advertise Assassin's Creed Black Flag Resynced.
 
 📎 [阅读原文](https://www.ign.com/articles/dead-by-daylight-control-and-mcdonalds-are-helping-advertise-assassins-creed-black-flag-resynced) — *IGN*
 
-### 3. Save 36% Off the TP-Link Deco 7 Pro BE10000 Wi-Fi 7 Whole Home Mesh System
+### 5. Save 36% Off the TP-Link Deco 7 Pro BE10000 Wi-Fi 7 Whole Home Mesh System
 
 [原文] Amazon's best selling WiFi 7 router.
 
 📎 [阅读原文](https://www.ign.com/articles/tp-link-whole-home-mesh-system-wifi-7-router-deal-for-july) — *IGN*
-
-### 4. The Coslus C20 Cordless Rechargeable Water Flosser Drops 83% to Just $6.99
-
-[原文] I compared it first-hand with the popular $100 Waterpik Aquarius.
-
-📎 [阅读原文](https://www.ign.com/articles/coslus-c20-cordless-rechargeable-water-flosser-deal-updated) — *IGN*
-
-### 5. HyperMegaTech Super Pocket Rare Edition Review
-
-[原文] The HyperMegaTech Super Pocket Rare Edition is a solid handheld with a broad cross-section of games from one of the best classic gaming developers. It brings classics from Battletoads to Banjo-Kazooie
-
-📎 [阅读原文](https://www.ign.com/articles/hypermegatech-super-pocket-rare-edition-review) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post Audi F1 Academy Driver Emma
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Maryland County Adopts a Two-year Moratorium on Data Center Development
+### 1. A Chemical Plant Mishandled Hazardous Waste for Years, Then Quietly Shuttered
+
+[原文] ZEBULON, N.C.—The blank, beige building at 507 N. Industrial Drive, still emblazoned with the words “Braven Environmental,” looks benign from the street.&#160; But on a recent weekend, an interior ala
+
+📎 [阅读原文](https://insideclimatenews.org/news/10072026/nc-plastic-recycling-plant-shutters-after-mishandling-hazardous-waste/) — *Inside Climate News*
+
+### 2. Environmental Groups Challenge Trump Administration Order to Keep Florida Coal Plant Running
+
+[原文] The Trump administration is facing a new legal challenge over an emergency order keeping a Florida coal-fired power plant, which had been scheduled for retirement, in operation. The motion, filed by t
+
+📎 [阅读原文](https://insideclimatenews.org/news/10072026/trump-florida-coal-plant-order-legal-challenge/) — *Inside Climate News*
+
+### 3. Maryland County Adopts a Two-year Moratorium on Data Center Development
 
 [原文] Maryland’s second largest county is the latest jurisdiction in the state to slam the brakes on data centers. Prince George&#8217;s County on Tuesday adopted a two-year moratorium on development of the
 
 📎 [阅读原文](https://insideclimatenews.org/news/09072026/maryland-county-adopts-data-center-moratorium/) — *Inside Climate News*
 
-### 2. Pennsylvania’s Legislature Is Likely to Punt on Mass Transit Funding—Again
+### 4. Pennsylvania’s Legislature Is Likely to Punt on Mass Transit Funding—Again
 
 [原文] PHILADELPHIA—Four days before the deadline for Pennsylvania’s legislature to pass its next budget and eight days before Philadelphia celebrated America’s 250th birthday, a crowd of transportation advo
 
 📎 [阅读原文](https://insideclimatenews.org/news/09072026/pennsylvania-mass-transit-funding/) — *Inside Climate News*
 
-### 3. Report on Elevated Lung Cancer Fails to Quell Uproar Around New York’s Largest Landfill
+### 5. Report on Elevated Lung Cancer Fails to Quell Uproar Around New York’s Largest Landfill
 
 [原文] This&#160;article&#160;previously appeared in&#160;Water Front.&#160; SENECA FALLS, N.Y.—In its recent&#160;20-page report on elevated lung cancer rates around Seneca Meadows Inc., the state Departmen
 
 📎 [阅读原文](https://insideclimatenews.org/news/09072026/seneca-meadows-landfill-lung-cancer/) — *Inside Climate News*
-
-### 4. Montana County Seeks Pause on AI Data Centers After Property Owner Withdraws Support
-
-[原文] A proposed artificial intelligence data center in western Montana has stalled before construction could begin after the property owner withdrew his signature from a required land-use application on Ju
-
-📎 [阅读原文](https://insideclimatenews.org/news/09072026/montana-county-seeks-data-center-moratorium/) — *Inside Climate News*
-
-### 5. Florida Regulators Stood by as Dozens of Sloths Died, New Records Reveal
-
-[原文] The first warning reached the Florida Fish and Wildlife Conservation Commission before a single sloth had arrived in Orlando.&#160; On Dec. 9, 2024, a member of the public called the agency after seei
-
-📎 [阅读原文](https://insideclimatenews.org/news/09072026/florida-regulators-stood-by-as-sloths-died/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post Audi F1 Academy Driver Emma
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Yungblud ‘Reluctantly’ Cancels Cowboys Music Festival Performance: ‘Working on Myself’
+### 1. Anthony Hopkins to Release Album of Original Compositions
+
+[原文] The Oscar-winning actor signed a record deal with Decca Classics for Life Is a Dream, which was conducted by Gustavo Dudamel
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/anthony-hopkins-original-compositions-album-decca-classics-1235591844/) — *Rolling Stone*
+
+### 2. Teddy Swims Reflects on Heartbreak on New Single ‘Break Up in Reverse’
+
+[原文] The lovelorn song was inspired by the singer's real-life relationship coming to an end
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/teddy-swims-break-up-in-reverse-single-1235591836/) — *Rolling Stone*
+
+### 3. Yungblud ‘Reluctantly’ Cancels Cowboys Music Festival Performance: ‘Working on Myself’
 
 [原文] "To all my family in Canada I apologize for not being there with you all this weekend," the singer says after sharing vulnerable post earlier in week
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/yungblud-cancels-cowboys-music-festival-performance-1235591760/) — *Rolling Stone*
 
-### 2. Rock Greats Honor Bon Scott on Late AC/DC Singer’s 80th Birthday
+### 4. Rock Greats Honor Bon Scott on Late AC/DC Singer’s 80th Birthday
 
 [原文] Judas Priest’s Rob Halford, Def Leppard’s Joe Elliott, and Pearl Jam’s Mike McCready remember “free spirit” frontman who died in 1980
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/bon-scott-ac-dc-rock-star-tributes-singer-80th-birthday-1235591616/) — *Rolling Stone*
 
-### 3. Mick Jagger Says the Beatles ‘Were the Most Prolific Songwriters of That Time’
+### 5. Mick Jagger Says the Beatles ‘Were the Most Prolific Songwriters of That Time’
 
 [原文] The Fab Four’s Paul McCartney plays bass on one song on the Rolling Stones’ upcoming Foreign Tongues album
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/rolling-stones-mick-jagger-beatles-songwriters-1235591589/) — *Rolling Stone*
-
-### 4. Pandora Wonders Gives the Classic Pearl a Playful New Life
-
-[原文] From “Girl with the Pearl Earring” to Boy (in this case, Harry Styles) at the Met Gala, few gemstones match the enduring and transformative power of a well-placed pearl. At once classic and contempora
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/pandora-wonders-gives-the-classic-pearl-playful-new-life-1235590860/) — *Rolling Stone*
-
-### 5. Neil Young Redid Two Songs He Wrote As a Teenager. Listen to the Original Recordings
-
-[原文] When Young ran out of new tunes for his forthcoming album Second Song, he dug deep into the archives for “I’ll Love You Forever” and “Casting Me Away From You”
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/neil-young-songs-wrote-teenager-1235591508/) — *Rolling Stone*
 
 ---
 
@@ -515,7 +515,7 @@ The post Audi F1 Academy Driver Emma
 - **💰 经济财经**: CNBC
 - **💻 科技**: TechCrunch
 - **🔬 科学**: Science Daily
-- **⚽ 体育**: BBC Sport
+- **⚽ 体育**: ESPN
 - **🎬 娱乐**: Variety
 - **🏥 健康**: WHO
 - **🎮 游戏**: IGN
