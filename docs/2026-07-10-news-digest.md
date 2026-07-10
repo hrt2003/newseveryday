@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月10日** | 生成时间: 2026-07-10 03:51
+**2026年07月10日** | 生成时间: 2026-07-10 11:40
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Tehran launches more strikes after explosions reported in southern Iran
+### 1. US and Iran trade attacks as Khamenei is buried
 
 [原文] Centcom says it hit 90 Iranian targets in the latest round of strikes, with the Iranian health ministry saying 14 people were killed since Tuesday.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Big fall in oil, gas and cargo ships taking US-backed Hormuz route after new strikes
+### 2. Twelve die in wildfire in Spain as heatwave continues in southern Europe
 
-[原文] Data shows a decline in the number of ships - many carrying oil and gas - going through the waterway after attacks this week.
+[原文] Six people were injured in the blaze in Los Gallardos in the province of Almería.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Democrat Graham Platner suspends campaign for key US Senate race after assault allegation
+### 3. Ukrainian agent accused of murdering Monaco bomb suspect changes story
 
-[原文] The decision came days after a woman accused him of sexual assault, an accusation he says is "categorically false".
+[原文] Two men with links to Ukraine's security services are accused of killing Anastasiia Berezovska and dumping her body in woods.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cpv3e8y39j7o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Greek F-16 fighter jet crash-lands at busy Zakynthos airport
+### 4. Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike
 
-[原文] The runway is closed after the jet reportedly landed without deploying its landing gear before bursting into flames.
+[原文] Aid worker Mohammed al-Wahidi had become a prominent humanitarian figure during the Israel-Hamas war.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/czrxz18720eo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies
+### 5. Chip giant SK Hynix raises $26.5bn in mega US share sale
 
-[原文] The attacks appear to be the latest phase of Ukraine's bid to choke off supplies and routes into and out of occupied Crimea.
+[原文] The shares are set to start trading on the Nasdaq on Friday in what will be the largest ever debut by a foreign firm.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c70yd1g67z5o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Meta jumps into AI coding market in effort to chase Anthropic and OpenAI
+### 1. Inside NATO's extraordinary 48 hours that revealed Trump's grip on global diplomacy
 
-[原文] Meta is upgrading its Muse Spark artificial intelligence model under the leadership of AI chief Alexandr Wang.
+[原文] Steve Sedgwick goes behind the scenes of NATO's dramatic 48 hours, where Trump's changing tone reshaped diplomacy and left allies guessing.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/09/meta-jumps-into-ai-coding-market-to-chase-anthropic-and-openai.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/09/nato-trump-rutte-ukraine-russia-us-iran.html) — *CNBC*
 
-### 2. Kevin Warsh names members of his Federal Reserve task forces, including Marc Andreessen, Doug McMillon
+### 2. U.S. to continue 'technical talks' with Iran after Trump said ceasefire was 'over'
+
+[原文] The ceasefire signed last month came under serious strain in recent days as the U.S. and Iranian forces exchanged attacks for consecutive days this week.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/10/us-iran-war-strikes-strait-of-hormuz-technical-talks-progress-.html) — *CNBC*
+
+### 3. Kevin Warsh names members of his Federal Reserve task forces, including Marc Andreessen, Doug McMillon
 
 [原文] Federal Reserve Chairman Kevin Warsh on Thursday released names of the experts who will comprise five task forces to examine the institution's operations.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/09/kevin-warsh-names-members-of-his-federal-reserve-task-forces-including-marc-andreessen-doug-mcmillon.html) — *CNBC*
 
-### 3. Alleged Reflecting Pool vandal David Hearn pleads not guilty; lawyer calls him 'scapegoat'
-
-[原文] "If Mr. Hearn can be charged with a felony for touching the Reflecting Pool, every American is at risk," a lawyer said as he blasted the Trump administration.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/09/reflecting-pool-david-hearn-washington-trump-olympian.html) — *CNBC*
-
-### 4. Prediction markets spark insider trading concerns. Here's how Goldman and other companies are responding
-
-[原文] CNBC reached out to 50 companies about what are their trading policies for employees on prediction markets. A handful had an answer.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/09/prediction-markets-spark-insider-trading-fears-how-firms-are-responding.html) — *CNBC*
-
-### 5. A huge trade just happened on the Nasdaq 100. Bulls are taking notice
+### 4. A huge trade just happened on the Nasdaq 100. Bulls are taking notice
 
 [原文] Tech bulls may not have to wait much longer for fresh highs, if the single-biggest trade in the Invesco QQQ Trust ETF on Thursday is any indication.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/09/a-huge-trade-just-happened-on-the-nasdaq-100-bulls-are-taking-notice.html) — *CNBC*
+
+### 5. Alleged Reflecting Pool vandal David Hearn pleads not guilty; lawyer calls him 'scapegoat'
+
+[原文] "If Mr. Hearn can be charged with a felony for touching the Reflecting Pool, every American is at risk," a lawyer said as he blasted the Trump administration.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/09/reflecting-pool-david-hearn-washington-trump-olympian.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Meta enters the crowded AI coding battle with Muse Spark 1.1
+### 1. OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter
 
-[原文] Meta's new Muse Spark 1.1. will go up against similar products offered by Anthropic and OpenAI.
+[原文] OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/) — *TechCrunch*
 
-### 2. Charles Hudson shares the common mistakes he’s seen after investing in 500+ startups
+### 2. Don’t want to invest in Elon Musk? Two new ETFs explicitly exclude him
 
-[原文] In this week’s episode of Build Mode,  Isabelle Johannessen talks with Precursor Ventures' Charles Hudson about the headwinds facing early-stage founders today and the most common mistakes founders sh
+[原文] The new exchanged-traded funds exclude companies that are founded, controlled, or led by Elon Musk. That means no SpaceX or Tesla.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/09/charles-hudson-shares-the-common-mistakes-hes-seen-after-investing-in-500-startups/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/09/dont-want-to-invest-in-elon-musk-two-new-etfs-explicitly-exclude-him/) — *TechCrunch*
 
-### 3. New York Times says OpenAI hid evidence in ChatGPT copyright trial
+### 3. Fidji Simo steps down from OpenAI’s no. 2 role
 
-[原文] News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions.
+[原文] OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes
 
-📎 [阅读原文](https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/) — *TechCrunch*
 
-### 4. Slate Auto teams up with Crayola to color its EV truck
+### 4. OpenAI launches its new family of models with GPT-5.6
 
-[原文] Slate has an answer for owners who have always want to drive a truck with bright crayon colors.
+[原文] OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/09/slate-auto-teams-up-with-crayola-to-color-its-ev-truck/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/) — *TechCrunch*
 
-### 5. FanDuel sent a video from star athlete Bryce Harper to a customer with a gambling problem
+### 5. An AI agent startup just let its agent run its $100M fundraise
 
-[原文] The video call highlights the murky relationship between professional athletes and gambling apps.
+[原文] Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/09/fanduel-sent-a-video-from-star-athlete-bryce-harper-to-a-customer-with-a-gambling-problem/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/) — *TechCrunch*
 
 ---
 
@@ -130,35 +130,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. A vitamin A discovery is changing what scientists know about vision
+### 1. This alien planet never has sunrise or sunset. It may support life
+
+[原文] A planet with one side permanently roasting and the other frozen in endless darkness might still have a chance of supporting life. Researchers found that heat inside a tidally locked exoplanet could c
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260709160657.htm) — *Science Daily*
+
+### 2. Physicists created a tiny universe where time emerged without a clock
+
+[原文] What if time doesn't actually exist until something changes? Scientists at the University of Birmingham created a tiny "mini universe" using 24,000 ultracold atoms and showed that the flow of time can
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260709160632.htm) — *Science Daily*
+
+### 3. Hawaii's famous “happy-face” spider has a surprising relative
+
+[原文] A newly discovered Happy-Face spider in the Himalayas closely resembles Hawaii's iconic species but evolved independently, according to DNA evidence. Its mysterious smile-like markings, many color for
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260709160627.htm) — *Science Daily*
+
+### 4. A vitamin A discovery is changing what scientists know about vision
 
 [原文] A surprising discovery is reshaping scientists' understanding of how humans develop sharp central vision before birth. Instead of blue cone cells migrating away from the retina's center, the study fou
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260708022214.htm) — *Science Daily*
 
-### 2. Trees keep absorbing carbon long after they stop growing
+### 5. A hidden immune backup system could supercharge mRNA cancer vaccines
 
-[原文] Oak trees keep absorbing carbon dioxide long after their annual growth has ended, revealing that photosynthesis and wood production are not as closely linked as scientists once believed. The finding c
+[原文] Researchers found that mRNA cancer vaccines can recruit an unexpected immune cell to launch powerful tumor-fighting responses, overturning a long-held assumption about how the vaccines work. The disco
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260708022210.htm) — *Science Daily*
-
-### 3. Rare goblin shark filmed alive for the first time in the deep sea
-
-[原文] For the first time, researchers have filmed the elusive goblin shark alive in the deep ocean where it naturally lives. The remarkable sightings greatly expand the shark's known range and depth, showin
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260708022208.htm) — *Science Daily*
-
-### 4. The Ozempic and Wegovy mistake sending thousands to poison control
-
-[原文] Poison control calls involving semaglutide (Ozempic and Wegovy) soared after the drug was approved for weight management, with researchers linking the increase to accidental dosing mistakes rather tha
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260708022204.htm) — *Science Daily*
-
-### 5. Harvard scientists turn a silicon chip into a DNA writing machine
-
-[原文] Scientists have created a silicon chip that can write dozens of DNA sequences simultaneously using electricity and water-based enzymes, offering a cleaner alternative to conventional DNA manufacturing
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260708022202.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260708022212.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. I've changed my mind, we might actually be able to win this thing - Shearer
+### 1. Guehi a doubt for Norway game with hamstring injury and Rice ill with bug
 
-[原文] Alan Shearer explains why he now has belief and confidence that England can go further in this World Cup than he thought.
+[原文] England defender Marc Guehi is managing a slight hamstring injury and could miss Saturday's Norway quarter-final.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cz6vz34yv82o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c3eyqdwq392o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. 'The whole match was the tie-break' - how Muchova-Gauff semi-final unfolded
+### 2. France cruise into semi-finals - could this be the best Les Bleus ever?
+
+[原文] World Cup winners in 1998 and 2018, France have created another special team and in beating Morocco showed why they are favourites to win the 2026 competition.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c4gy74978myo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. To Wimbledon and back - Fery's voyage to Centre Court spotlight
+
+[原文] Arthur Fery learned how to play tennis less than a mile away from Wimbledon's Centre Court - now he's one win away from the SW19 final.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cpq30vnj7jlo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. France into semi-finals after comfortable win over Morocco
+
+[原文] Kylian Mbappe scores his eighth goal of this World Cup to make up for an earlier penalty miss with Ousmane Dembele adding a second as France prove too good for Morocco and move into the semi-finals.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/crm0ry2nemmo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 5. 'The whole match was the tie-break' - how Muchova-Gauff semi-final unfolded
 
 [原文] Twenty-two points, 18 minutes, one winner - how Karolina Muchova and Coco Gauff's "rollercoaster" semi-final was decided by an astonishing tie-break.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/c8j2dwr07p0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 3. Quansah banned for two games after Mexico red card
-
-[原文] England defender Jarell Quansah receives a two-match ban for his red card against Mexico.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cjdgvrnn5n3o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. Norway's Haaland wants 'pressure' put on England
-
-[原文] Norway striker Erling Haaland calls on the media to "put every single pressure" on England before the two sides' quarter-final on Saturday.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cj3gd8rg628o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. 'That is out of this world' - best shots from day 11 at Wimbledon
-
-[原文] Enjoy the best shots from day 11 at Wimbledon, featuring Great Britain's Alfie Hewett and US Open champion Coco Gauff.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/videos/cevlwn2vx39o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Union Video Game Workers ‘Extremely Disappointed’ With Xbox Leadership Following Layoffs (Gaming News Roundup)
+### 1. LISTEN: James Corden Reunites ‘Late Late Show’ Team for Fox’s ‘After Hours’ World Cup Show
 
-[原文] Microsoft laid off 1,600 employees across its Xbox division this week, including hundreds of union video game workers represented by Communications Workers of America. The workforce reduction comes in
+[原文] Three years after he signed off CBS’ “The Late Late Show,” James Corden is having the time of his life hosting the World Cup after show for Fox, “After Hours With James Corden.” On the latest episode 
 
-📎 [阅读原文](https://variety.com/2026/gaming/news/gaming-news-roundup-week-of-july-6-1236803788/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/james-corden-world-cup-fox-after-hours-ben-winston-late-1236806207/) — *Variety*
 
-### 2. ‘Toy Story 5’ Surpasses $800 Million Globally
+### 2. Showrunner Mara Brock Akil’s Writers’ Colony Announces Cohorts for 2026 Summer and Fall Residencies
 
-[原文] &#8220;Toy Story 5&#8221; has notched another notable box office milestone with more than $800 million in global ticket sales. After three weekends of release, the animated sequel has generated $381 m
+[原文] Showrunner Mara Brock Akil’s Writers’ Colony has unveiled two new cohorts for 2026. Programming began June 10 for the summer session and will begin Sept. 2 for the fall session. The three-month screen
 
-📎 [阅读原文](https://variety.com/2026/film/box-office/toy-story-5-box-office-milestone-800-million-globally-1236805956/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/mara-brock-akil-writers-colony-2026-summer-fall-cohorts-1236805232/) — *Variety*
 
-### 3. Music Industry Moves: T.I. Strikes Publishing Deal With Reservoir, Primary Wave Partners With Foreigner’s Mick Jones
+### 3. Fidji Simo, OpenAI’s No. 2 Executive, to Step Down to Focus on Recovery From Chronic Illness
 
-[原文] Reservoir has struck a deal with veteran Atlanta rapper T.I. across his entire publishing catalog, spanning his back catalog and future works, including his new album, “Kill the King,” which debuted i
+[原文] Fidji Simo, OpenAI’s CEO of artificial general intelligence deployment and the company&#8217;s No. 2 executive, will step down from her full-time role following a three-month medical leave, she said i
 
-📎 [阅读原文](https://variety.com/2026/music/news/t-i-strikes-publishing-deal-with-reservoir-1236805912/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/biz/news/fidji-simo-openai-step-down-recovery-illness-1236806169/) — *Variety*
 
-### 4. These Celebrity-Adored, Very Large Sunglasses Are the Hottest Summer Accessory
+### 4. Sarah McLachlan and Allison Russell on Touring Together and Summer Nights Devoted to ‘Forgetting Madness and Being Part of Something Beautiful’
 
-[原文] Every summer, it seems that a new sunglass silhouette hits the zeitgeist in a way that makes you think every trend-setting celebrity has secretly conspired to add the same sun-blocking accessory to th
+[原文] All mysteries aside, you could say that, this summer, together, Sarah McLachlan and Allison Russell are building a sister-y road show. McLachlan is touring behind her 2025 &#8220;Better Broken&#8221; 
 
-📎 [阅读原文](https://variety.com/2026/shopping/news/best-oversized-sunglasses-jennifer-lawrence-rihanna-1236805832/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/sarah-mclachlan-tour-allison-russell-joint-interview-1236806144/) — *Variety*
 
-### 5. Netflix Sets Golf Drama ‘Jupiter Island’ From ‘Love Story’ Creator and A24
+### 5. U.S. World Cup Loss to Belgium Averages 33.1 Million Viewers, the Most-Watched Soccer Telecast in U.S. History
 
-[原文] A new drama series about elite golfers on an exclusive island is coming to Netflix. Titled &#8220;Jupiter Island,&#8221; the show hails from Connor Hines, the creator of FX&#8217;s &#8220;Love Story: 
+[原文] Fox&#8217;s coverage of Monday night&#8217;s World Cup match between the United States&#8217; Men&#8217;s National Soccer Team and Belgium on Monday, July 6, scored record ratings, averaging 33,086,00
 
-📎 [阅读原文](https://variety.com/2026/tv/news/netflix-golf-drama-jupiter-island-love-story-creator-1236805895/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/u-s-world-cup-loss-ratings-most-watched-soccer-telecast-1236806132/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Adorable LEGO Eevee Pokémon Got Its First Price Cut
+### 1. 'We Really Had a Good Time Making It': JK Simmons Speaks Out About Canceled Batgirl Movie
 
-[原文] LEGO Pokémon Eevee has dropped to a new all-time low price on Amazon.
+[原文] JK Simmons isn't thrilled about the decision to scrap the Batgirl movie.
 
-📎 [阅读原文](https://www.ign.com/articles/lego-pokemon-eevee-on-sale) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/we-really-had-a-good-time-making-it-jk-simmons-speaks-out-about-canceled-batgirl-movie) — *IGN*
 
-### 2. Save 63% Off the LG xboom Grab Core Waterproof Portable Speaker, Now Just $51.77
+### 2. Dead by Daylight, Control, and McDonald's Are Helping Advertise Assassin's Creed Black Flag Resynced
 
-[原文] Summer's here.
+[原文] For whatever reason, a bunch of video game companies are helping advertise Assassin's Creed Black Flag Resynced.
 
-📎 [阅读原文](https://www.ign.com/articles/lg-xboom-grab-core-waterproof-portable-speaker-deal-amazon-july) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/dead-by-daylight-control-and-mcdonalds-are-helping-advertise-assassins-creed-black-flag-resynced) — *IGN*
 
-### 3. Save $2,500 Off the Alienware 16X Aurora RTX 5070 Gaming Laptop Loaded With 64GB of RAM and 4TB SSD
+### 3. Save 36% Off the TP-Link Deco 7 Pro BE10000 Wi-Fi 7 Whole Home Mesh System
 
-[原文] 50% off a premium all-metal gaming laptop with $1,400+ worth of RAM and SSD storage.
+[原文] Amazon's best selling WiFi 7 router.
 
-📎 [阅读原文](https://www.ign.com/articles/dell-alienware-16x-aurora-rtx-5070-gaming-laptop-deal-in-july) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/tp-link-whole-home-mesh-system-wifi-7-router-deal-for-july) — *IGN*
 
-### 4. Today’s Best Deals: Mortal Kombat 4K Box Set, Cronos: The New Dawn for Switch 2, and MTG x Marvel
+### 4. The Coslus C20 Cordless Rechargeable Water Flosser Drops 83% to Just $6.99
 
-[原文] Don’t miss LEGO Insider Days and even more incredible discounts
+[原文] I compared it first-hand with the popular $100 Waterpik Aquarius.
 
-📎 [阅读原文](https://www.ign.com/articles/best-deals-for-july-9-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/coslus-c20-cordless-rechargeable-water-flosser-deal-updated) — *IGN*
 
-### 5. Call of Duty: Black Ops 1 and 2 Ports Out Now on PS5, But They Come at a High Cost
+### 5. HyperMegaTech Super Pocket Rare Edition Review
 
-[原文] Call of Duty: Black Ops 1 and 2 are now available on PS4 and PS5, but they won't come cheap.
+[原文] The HyperMegaTech Super Pocket Rare Edition is a solid handheld with a broad cross-section of games from one of the best classic gaming developers. It brings classics from Battletoads to Banjo-Kazooie
 
-📎 [阅读原文](https://www.ign.com/articles/call-of-duty-black-ops-1-and-2-ports-out-now-on-ps5-but-they-come-at-a-high-cost) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/hypermegatech-super-pocket-rare-edition-review) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The EU (Still) Wants to Control Your Speed Via Satellite
+### 1. Ka-Chow! Lightning McQueen Just Raced Up the Goodwood Hill Climb
+
+[原文] The Pixar legend traded the Piston Cup for the iconic Festival of Speed, thrilling fans of all ages with a real-life dash up the hill.
+The post Ka-Chow! Lightning McQueen Just Raced Up the Goodwood Hi
+
+📎 [阅读原文](https://www.thedrive.com/news/ka-chow-lightning-mcqueen-just-raced-up-the-goodwood-hill-climb) — *The Drive*
+
+### 2. The EU (Still) Wants to Control Your Speed Via Satellite
 
 [原文] The European Commission is reportedly considering a mandate for automatic in-car speed limiters controlled by GPS. 
 The post The EU (Still) Wants to Control Your Speed Via Satellite appeared first on 
 
 📎 [阅读原文](https://www.thedrive.com/news/the-eu-still-wants-to-control-your-speed-via-satellite) — *The Drive*
 
-### 2. Ram’s New 777-HP Hellcat V8 Is Secretly a Redeye
+### 3. Ram’s New 777-HP Hellcat V8 Is Secretly a Redeye
 
 [原文] The Hemi may be old news, but Mopar's deep parts bin gave us a 777-horsepower Hellcat in record time. 
 The post Ram&#8217;s New 777-HP Hellcat V8 Is Secretly a Redeye appeared first on The Drive.
 
 📎 [阅读原文](https://www.thedrive.com/news/rams-new-777-hp-hellcat-v8-is-secretly-a-redeye) — *The Drive*
 
-### 3. In-Car Cameras Are Now Required in Europe. US Isn’t Far Behind
+### 4. In-Car Cameras Are Now Required in Europe. US Isn’t Far Behind
 
 [原文] New cars in Europe must have an advanced driver-monitoring system using cameras, sparking privacy concerns.
 The post In-Car Cameras Are Now Required in Europe. US Isn&#8217;t Far Behind appeared first
 
 📎 [阅读原文](https://www.thedrive.com/news/in-car-cameras-are-now-required-in-europe-us-isnt-far-behind) — *The Drive*
 
-### 4. Audi F1 Academy Driver Emma Felbermayr on Her Journey From Karting to the Global Spotlight
+### 5. Audi F1 Academy Driver Emma Felbermayr on Her Journey From Karting to the Global Spotlight
 
 [原文] Backed by Audi and the only driver to score points in every F1 Academy race this season, we chat with the 19-year-old Austrian about her charge for the 2026 title.
 The post Audi F1 Academy Driver Emma
 
 📎 [阅读原文](https://www.thedrive.com/news/audi-f1-academy-driver-emma-felbermayr-on-her-journey-from-karting-to-the-global-spotlight) — *The Drive*
-
-### 5. Ruf Just Brought Back the Flat-Eight Engine With a Clean Sheet Design Making 1,000+ HP
-
-[原文] It's a twin-turbo 4.8-liter that will eventually go into a Ruf production car. For now, it sits in this stretched CTR3 prototype.
-The post Ruf Just Brought Back the Flat-Eight Engine With a Clean Shee
-
-📎 [阅读原文](https://www.thedrive.com/news/ruf-just-brought-back-the-flat-eight-engine-with-a-clean-sheet-design-making-1000-hp) — *The Drive*
 
 ---
 
@@ -363,35 +363,35 @@ The post Ruf Just Brought Back the Flat-Eight Engine With a Clean Shee
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Montana County Seeks Pause on AI Data Centers After Property Owner Withdraws Support
+### 1. Maryland County Adopts a Two-year Moratorium on Data Center Development
+
+[原文] Maryland’s second largest county is the latest jurisdiction in the state to slam the brakes on data centers. Prince George&#8217;s County on Tuesday adopted a two-year moratorium on development of the
+
+📎 [阅读原文](https://insideclimatenews.org/news/09072026/maryland-county-adopts-data-center-moratorium/) — *Inside Climate News*
+
+### 2. Pennsylvania’s Legislature Is Likely to Punt on Mass Transit Funding—Again
+
+[原文] PHILADELPHIA—Four days before the deadline for Pennsylvania’s legislature to pass its next budget and eight days before Philadelphia celebrated America’s 250th birthday, a crowd of transportation advo
+
+📎 [阅读原文](https://insideclimatenews.org/news/09072026/pennsylvania-mass-transit-funding/) — *Inside Climate News*
+
+### 3. Report on Elevated Lung Cancer Fails to Quell Uproar Around New York’s Largest Landfill
+
+[原文] This&#160;article&#160;previously appeared in&#160;Water Front.&#160; SENECA FALLS, N.Y.—In its recent&#160;20-page report on elevated lung cancer rates around Seneca Meadows Inc., the state Departmen
+
+📎 [阅读原文](https://insideclimatenews.org/news/09072026/seneca-meadows-landfill-lung-cancer/) — *Inside Climate News*
+
+### 4. Montana County Seeks Pause on AI Data Centers After Property Owner Withdraws Support
 
 [原文] A proposed artificial intelligence data center in western Montana has stalled before construction could begin after the property owner withdrew his signature from a required land-use application on Ju
 
 📎 [阅读原文](https://insideclimatenews.org/news/09072026/montana-county-seeks-data-center-moratorium/) — *Inside Climate News*
 
-### 2. Florida Regulators Stood by as Dozens of Sloths Died, New Records Reveal
+### 5. Florida Regulators Stood by as Dozens of Sloths Died, New Records Reveal
 
 [原文] The first warning reached the Florida Fish and Wildlife Conservation Commission before a single sloth had arrived in Orlando.&#160; On Dec. 9, 2024, a member of the public called the agency after seei
 
 📎 [阅读原文](https://insideclimatenews.org/news/09072026/florida-regulators-stood-by-as-sloths-died/) — *Inside Climate News*
-
-### 3. Even With Tariffs and Tax Changes, Solar Power Is Soaring
-
-[原文] It’s good to be in the utility-scale solar business, even in the United States. Despite tariffs and shifting tax credit policies, business is booming. Amid high electricity demand and rising concerns 
-
-📎 [阅读原文](https://insideclimatenews.org/news/09072026/inside-clean-energy-utility-scale-solar-booming/) — *Inside Climate News*
-
-### 4. NYC Invests in Air Quality, but the Bronx Still Can’t Breathe Easy
-
-[原文] NEW YORK—When Mayor Zohran Mamdani announced that $20 million from the city’s congestion pricing revenue would be redirected to fight childhood asthma in the Bronx, Javier Marchand celebrated.&#160; B
-
-📎 [阅读原文](https://insideclimatenews.org/news/09072026/nyc-bronx-air-quality-remains-a-problem/) — *Inside Climate News*
-
-### 5. A Court Ruling Leaves Some of New York’s Most Important Wetlands Unprotected
-
-[原文] Four years ago, the New York State Legislature made a major move to better protect wetlands. Now some of those safeguards are delayed for potentially several more years. The 2022 amendment to the 1975
-
-📎 [阅读原文](https://insideclimatenews.org/news/09072026/new-york-court-ruling-leaves-wetlands-unprotected/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post Ruf Just Brought Back the Flat-Eight Engine With a Clean Shee
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Rock Greats Honor Bon Scott on Late AC/DC Singer’s 80th Birthday
+### 1. Yungblud ‘Reluctantly’ Cancels Cowboys Music Festival Performance: ‘Working on Myself’
+
+[原文] "To all my family in Canada I apologize for not being there with you all this weekend," the singer says after sharing vulnerable post earlier in week
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/yungblud-cancels-cowboys-music-festival-performance-1235591760/) — *Rolling Stone*
+
+### 2. Rock Greats Honor Bon Scott on Late AC/DC Singer’s 80th Birthday
 
 [原文] Judas Priest’s Rob Halford, Def Leppard’s Joe Elliott, and Pearl Jam’s Mike McCready remember “free spirit” frontman who died in 1980
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/bon-scott-ac-dc-rock-star-tributes-singer-80th-birthday-1235591616/) — *Rolling Stone*
 
-### 2. Mick Jagger Says the Beatles ‘Were the Most Prolific Songwriters of That Time’
+### 3. Mick Jagger Says the Beatles ‘Were the Most Prolific Songwriters of That Time’
 
 [原文] The Fab Four’s Paul McCartney plays bass on one song on the Rolling Stones’ upcoming Foreign Tongues album
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/rolling-stones-mick-jagger-beatles-songwriters-1235591589/) — *Rolling Stone*
 
-### 3. Pandora Wonders Gives the Classic Pearl a Playful New Life
+### 4. Pandora Wonders Gives the Classic Pearl a Playful New Life
 
 [原文] From “Girl with the Pearl Earring” to Boy (in this case, Harry Styles) at the Met Gala, few gemstones match the enduring and transformative power of a well-placed pearl. At once classic and contempora
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/pandora-wonders-gives-the-classic-pearl-playful-new-life-1235590860/) — *Rolling Stone*
 
-### 4. Neil Young Redid Two Songs He Wrote As a Teenager. Listen to the Original Recordings
+### 5. Neil Young Redid Two Songs He Wrote As a Teenager. Listen to the Original Recordings
 
 [原文] When Young ran out of new tunes for his forthcoming album Second Song, he dug deep into the archives for “I’ll Love You Forever” and “Casting Me Away From You”
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/neil-young-songs-wrote-teenager-1235591508/) — *Rolling Stone*
-
-### 5. If You See Black Sabbath’s Bill Ward in a Wheelchair, You Should Smile at Him: ‘I’m OK’
-
-[原文] Drummer, 78, posted that he now uses a wheelchair to get around airports and long distances but that he’s doing just fine
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/black-sabbath-bill-ward-wheelchair-good-health-1235591486/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post Ruf Just Brought Back the Flat-Eight Engine With a Clean Shee
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘Hey @British_Airways’: Norwegian Air Shows How to Get Free World Cup Buzz
+### 1. ‘Come Back Anytime’: How Travel Brands Courted World Cup Fans
+
+[原文] Official FIFA sponsors spent millions locking up World Cup rights, but some of the most effective marketing may be based on response time.
+
+📎 [阅读原文](https://skift.com/2026/07/09/travel-brands-court-world-cup-fans/) — *Skift*
+
+### 2. Skift Research Trend Lifecycle Reports: The Forces Shaping Travel
+
+[原文] The goal of our new reports: Help travel leaders determine how much time, resources, and focus to commit to new trends.
+
+📎 [阅读原文](https://skift.com/2026/07/09/skift-research-trend-lifecycle-reports-the-forces-shaping-travel/) — *Skift*
+
+### 3. Airbnb Paid $81 Million for a Building in NYC — the Only One It Now Owns
+
+[原文] Airbnb abandoned its asset-light strategy just a tad, purchasing a New York City building for $81.5 million. It will be an office — there are no plans to "Airbnb" it.
+
+📎 [阅读原文](https://skift.com/2026/07/09/airbnb-paid-81-million-for-a-building-in-nyc-the-only-one-it-now-owns/) — *Skift*
+
+### 4. ‘Hey @British_Airways’: Norwegian Air Shows How to Get Free World Cup Buzz
 
 [原文] Two carriers with no official World Cup sponsorship have generated one of the tournament's biggest travel marketing moments – all without paying FIFA a cent.
 
 📎 [阅读原文](https://skift.com/2026/07/09/hey-british_airways-norwegian-air-shows-how-to-get-free-world-cup-buzz/) — *Skift*
 
-### 2. This Obscure Marriott Fee Will Be a Key Signal of Profit Strength
+### 5. This Obscure Marriott Fee Will Be a Key Signal of Profit Strength
 
 [原文] Another quarter of strong incentive management fees would signal that hotel profit strength is broadening.
 
 📎 [阅读原文](https://skift.com/2026/07/09/this-obscure-marriott-fee-will-be-a-key-signal-of-profit-strength/) — *Skift*
-
-### 3. Minor Hotels Takes Over Sharjah’s Retreat Portfolio In Push for International Visitors
-
-[原文] Sharjah’s investment arm is betting that global distribution can do for seven retreats what domestic staycation demand already does reliably.
-
-📎 [阅读原文](https://skift.com/2026/07/09/minor-hotels-takes-over-sharjahs-retreat-portfolio-in-push-for-international-visitors/) — *Skift*
-
-### 4. Scapia Wants to Own India’s Next Wave of Travelers — Through Their Credit Cards
-
-[原文] Scapia won’t fight online travel agencies on price. Instead, this travel fintech is betting that everyday spending, loyalty rewards, and payments will determine where the next generation of travelers 
-
-📎 [阅读原文](https://skift.com/2026/07/09/scapia-wants-to-own-indias-next-wave-of-travelers-through-their-credit-cards/) — *Skift*
-
-### 5. Fattal Buys Its First U.S. Hotel, Testing an Asset-Heavy Model Against the Giants
-
-[原文] The owner-operator of nearly 330 hotels is betting that its owner-operator model will win in the U.S. market, where other foreign entrants have stumbled.
-
-📎 [阅读原文](https://skift.com/2026/07/08/fattal-buys-its-first-u-s-hotel-testing-an-asset-heavy-model-against-the-giants/) — *Skift*
 
 ---
 
