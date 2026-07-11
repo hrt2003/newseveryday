@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月11日** | 生成时间: 2026-07-11 16:02
+**2026年07月11日** | 生成时间: 2026-07-11 21:27
 
 ---
 
@@ -28,23 +28,23 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Meet the crypto billionaires building a world where money buys you a vote
+### 3. Indian tourists among 15 killed as speedboat capsizes in Vietnam
 
-[原文] They think democracy has run its course - so they're setting up their own nations instead.
+[原文] Local media say 21 people were saved after the boat overturned in rough seas near an island in south Vietnam.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwyd7x22lp1o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. East Asia braces for destructive typhoon as landslides kill 15 in Philippines
+### 4. China braced for second typhoon in a week as Bavi approaches landfall
 
-[原文] Heading for Taiwan and south-eastern China, the 1,000 km-wide Bavi is forecast to be one of the strongest storms in decades.
+[原文] Hundreds of thousands of people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. The photo that shows who's really on top in Le Pen's party
+### 5. US pays out $3m to victims of mystery Havana Syndrome condition reported by spies
 
-[原文] Thirty-year-old Jordan Bardella had been groomed for success as France's next hard-right leader. He will now have to wait longer.
+[原文] US officials and diplomats and their families began reporting a mysterious illness a decade ago.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cr7xyl78vnko?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. SK Hynix rises 13% in Nasdaq debut. Chairman tells CNBC 'demand is enormous'
+### 1. Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier
 
-[原文] SK Hynix has soared to a trillion-dollar market cap by serving some of the biggest names in technology, including Nvidia and Apple.
+[原文] Trump says 1,000 missiles are "locked and loaded" and will hit Iran if it carries out its threats to assassinate the U.S. president.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/10/sk-hynix-skhy-stock-nasdaq.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/11/trump-threat.html) — *CNBC*
 
-### 2. Apple sues OpenAI alleging trade secret theft, says scheme was 'at every level'
+### 2. Burnout, frustration and heartbreak: Amazon layoffs take their toll in saturated job market
+
+[原文] In the eight-plus months since Amazon announced its most expansive job cuts ever, laid off workers have been thrust into an increasingly saturated labor market.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/11/burnout-frustration-and-heartbreak-amazon-layoffs-take-their-toll.html) — *CNBC*
+
+### 3. Apple sues OpenAI alleging trade secret theft, says scheme was 'at every level'
 
 [原文] The two companies entered into a high-profile partnership in 2024 when ChatGPT was integrated into the iPhone's operating system.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html) — *CNBC*
 
-### 3. Trump says he won't sign housing bill, which would become law automatically
+### 4. 'Funflation' hits home: Why staying in isn't the cost-saver it used to be
 
-[原文] Congress passed the housing bill in June with strong bipartisan support amid concerns of rising home prices and institutional investors affecting the market.
+[原文] Following a wave of price hikes, at-home pastimes like streaming movies or playing video games are pinching pocketbooks.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/10/trump-housing-bill-save-act-law.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/11/funflation-streaming-video-games-xbox-apple-disney-netflix.html) — *CNBC*
 
-### 4. AstraZeneca's trial flop raises a bigger question: Is its pipeline premium becoming more vulnerable?
+### 5. Berkshire Hathaway gains ground, but still trails the S&P 500 as '26 enters second half
 
-[原文] For years, AstraZeneca has commanded one of the richest valuations among large European pharma companies on the assumption that it consistently delivers results.
+[原文] With 2026 a bit more than half over, Berkshire Hathaway's B shares are down 1.8% year-to-date and 12.4 percentage points behind the S&P 500's 10.7% gain.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/11/astrazenecas-trial-pipeline-pharma-valutaion-stock.html) — *CNBC*
-
-### 5. OpenAI power consolidates under co-founder Greg Brockman ahead of prospective IPO
-
-[原文] With Fidji Simo's official departure from OpenAI due to a chronic medical issue, Greg Brockman's role has become clearer.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/10/openai-power-consolidates-under-co-founder-greg-brockman-ahead-of-ipo.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/11/berkshire-hathaway-gains-ground-but-still-trails-the-sp-500-as-26-enters-second-half.html) — *CNBC*
 
 ---
 
@@ -130,35 +130,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The biggest problem with solid-state batteries may finally be solved
+### 1. Second pregnancy changes the brain in surprising new ways
 
-[原文] Researchers solved the mystery of how soft lithium dendrites crack the hard ceramic inside solid-state batteries, triggering short circuits. The breakthrough could help engineers build safer, longer-l
+[原文] Researchers found that every pregnancy rewires the brain in its own way, with a second pregnancy bringing a different pattern of changes than the first. The discoveries could lead to better ways to re
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260710003533.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260711010125.htm) — *Science Daily*
 
-### 2. The galaxy’s coldest “stars” may actually be alien megastructures
+### 2. Physicists finally build a quantum material predicted more than a decade ago
 
-[原文] Scientists have identified new clues that could help astronomers spot one of the most famous hypothetical alien megastructures: a Dyson sphere. The study finds that red dwarfs and white dwarfs are the
+[原文] Researchers have achieved a major milestone by creating a long-sought two-dimensional quantum material and confirming its unusual conducting edge states. The ability to control these states through st
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260710003524.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260711010123.htm) — *Science Daily*
 
-### 3. This alien planet never has sunrise or sunset. It may support life
+### 3. Experimental drug reverses severe fatty liver disease by repairing the gut
 
-[原文] A planet with one side permanently roasting and the other frozen in endless darkness might still have a chance of supporting life. Researchers found that heat inside a tidally locked exoplanet could c
+[原文] An experimental drug called DT-109 reversed severe fatty liver disease in animal studies by repairing the gut and preventing harmful toxins from damaging the liver. The discovery could open the door t
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260709160657.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260711010116.htm) — *Science Daily*
 
-### 4. This frog bacterium wiped out cancer tumors in mice with a single dose
+### 4. Tiny bubbles could revolutionize inkjet printing
 
-[原文] A naturally occurring bacterium from amphibian intestines completely eliminated colorectal tumors in mice with a single treatment by both attacking cancer cells and activating the immune system. The f
+[原文] Ultra-fine bubbles may offer a cleaner way to perfect inkjet printing for next-generation electronics. By simply changing the number of bubbles in each droplet, researchers were able to dramatically r
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260709160655.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260711010112.htm) — *Science Daily*
 
-### 5. Europe's most active volcano may have a secret origin
+### 5. Scientists warn invasive Asian mantises are threatening Europe's wildlife
 
-[原文] Mount Etna has long puzzled geologists because it doesn't fit any of the three classic ways volcanoes are thought to form. A new study suggests it may instead be fueled by ancient pockets of magma tha
+[原文] Two striking Asian praying mantis species that have rapidly spread across Europe have now been officially classified as invasive, raising new concerns about their impact on native wildlife. Boosted by
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260709160653.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260710003540.htm) — *Science Daily*
 
 ---
 
@@ -174,11 +174,11 @@
 
 📎 [阅读原文](https://www.espn.com/mlb/story/_/id/49315943/2026-mlb-mock-draft-final-predictions-first-two-rounds-white-sox-no-1-cholowsky-emerson-lackey) — *ESPN*
 
-### 2. The players we can't wait to see in the MLB Future...
+### 2. MLB draft tracker: Order, results and analysis for...
 
-[原文] The brightest stars in the minors take the field Sunday in Philly. Here's who we'll be watching most closely.
+[原文] The draft starts at 1 p.m. ET, with the White Sox picking No. 1 overall. Follow along for pick-by-pick coverage.
 
-📎 [阅读原文](https://www.espn.com/mlb/story/_/id/49307014/mlb-2026-all-star-weekend-futures-game-players-watch) — *ESPN*
+📎 [阅读原文](https://www.espn.com/mlb/story/_/id/49306565/2026-mlb-draft-tracker-live-updates-order-results-analysis-every-first-round-pick) — *ESPN*
 
 ### 3. Sources: Bam struck Herro in Vegas altercation
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Colombia Adds Massive Soundstage as Bogotá Audiovisual Market Attendance Soars and ‘Narcos’ Star-Led ‘Rookies’ Cleans Up in Project Prizes
+### 1. ‘Only Beautiful Things to Look At’ Review: A Handsome but Muffled Portrait of State-Sanctioned Cruelty
+
+[原文] The fashions and furnishings of Czechoslovakia in the 1980s — the height of the state&#8217;s racist program of suppressing the Roma population through coerced sterilization — are painstakingly evoked
+
+📎 [阅读原文](https://variety.com/2026/film/reviews/only-beautiful-things-to-look-at-review-1236804494/) — *Variety*
+
+### 2. ‘Night Nurse’ Review: Two Perverts Join Forces in a Gloriously Deviant Oddity About a Caretaker Drawn Into Her Patient’s Grifting Games
+
+[原文] From the moment we meet luxury nursing-home patient Douglas (Bruce McKenzie), we feel something is up. The knowing sparkle in his baby-blue eyes; his slender gold chain and tufts of chest hair poking 
+
+📎 [阅读原文](https://variety.com/2026/film/reviews/night-nurse-review-1236807149/) — *Variety*
+
+### 3. ‘A Happy Family’ Review: Anna Schinz’s Powerful Lead Performance Elevates a Confused Custody Drama
+
+[原文] There is a more interesting story lurking within Jan-Eric Mack​’s “A Happy Family” than the one actually being told. At times, the Swiss filmmaker teases the possibility that the conventional narrativ
+
+📎 [阅读原文](https://variety.com/2026/film/reviews/a-happy-family-review-1236804109/) — *Variety*
+
+### 4. Colombia’s Bogotá Audiovisual Market Attendance Soars as ‘Narcos’ Star-Led ‘Rookies’ Cleans Up in Project Prizes
 
 [原文] Colombia’s Bogotá Audiovisual Market (BAM) has wrapped its 17th Edition July 10 with an uptick in attendance. The numbers say it all: 2,336 accredited participants and 271 industry activities and 882 
 
 📎 [阅读原文](https://variety.com/2026/film/global/colombia-bogota-audiovisual-market-prizes-uptick-attendance-1236807107/) — *Variety*
 
-### 2. Jay-Z Brings Out Beyoncé, Blue Ivy Carter, Nas, Alicia Keys and More for ‘Reasonable Doubt’ 30th Anniversary Show at Yankee Stadium
+### 5. Jay-Z Brings Out Beyoncé, Blue Ivy Carter, Nas, Alicia Keys and More for ‘Reasonable Doubt’ 30th Anniversary Show at Yankee Stadium
 
 [原文] Jay-Z did appear to promise far in advance that his &#8220;Reasonable Doubt&#8221; 30th anniversary show would, in fact, be a celebration of the debut album that he dropped back in June 1996. That did
 
 📎 [阅读原文](https://variety.com/2026/music/news/jay-z-brings-out-beyonce-blue-ivy-carter-yankee-stadium-1236807113/) — *Variety*
-
-### 3. Oregon D.A. Drops Motion to Delay Paramount-Warner Bros. Merger
-
-[原文] The Oregon attorney general&#8217;s office has withdrawn its motion to delay the closing of the Paramount-Warner Bros. merger, according to a filing submitted Friday in the Multnomah County Circuit Co
-
-📎 [阅读原文](https://variety.com/2026/film/news/oregon-paramount-warner-bros-merger-drops-delay-1236807068/) — *Variety*
-
-### 4. Donald Iwerks, Disney Camera Technician and Co-Founder of Iwerks Entertainment, Dies at 96
-
-[原文] Donald Iwerks, son of Mickey Mouse co-creator Ub Iwerks, whose groundbreaking innovations transformed cinematic storytelling and immersive entertainment, died July 9. He was 96. Iwerks spent over six 
-
-📎 [阅读原文](https://variety.com/2026/artisans/news/donald-iwerks-dead-disney-camera-technician-iwerks-entertainment-1236807071/) — *Variety*
-
-### 5. Jack White Offers Opening Slot to ‘Satanic’ Band Twin Temple — ‘Get in Front of Me, Satan!’ — as Charley Crockett Defends Decision to Dump Them
-
-[原文] &#8220;Not today, Satan&#8221;&#8230; or &#8220;Hell yeah, Beelzebub&#8221;? A split is taking place in the polarizing realm of devil-rock, as practiced by self-styled &#8220;Satanic&#8221; duo Twin T
-
-📎 [阅读原文](https://variety.com/2026/music/news/jack-white-satanic-band-twin-temple-charley-crockett-1236807060/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Odyssey Director Christopher Nolan Says 'AI Slop' Is Being 'Utterly Rejected' By Younger Audiences
+### 1. EU Says It's Powerless to Stop PlayStation From Killing Discs: 'Companies Are Free to Offer Games and Services in the Manner They See Fit'
+
+[原文] As gamers sign online petitions and swarm upon each and every PlayStation social media post, the EU has said it’s powerless to actually stop Sony — and indeed any company — from killing discs.
+
+📎 [阅读原文](https://www.ign.com/articles/eu-says-its-powerless-to-stop-playstation-from-killing-discs-companies-are-free-to-offer-games-and-services-in-the-manner-they-see-fit) — *IGN*
+
+### 2. The Odyssey Director Christopher Nolan Says 'AI Slop' Is Being 'Utterly Rejected' By Younger Audiences
 
 [原文] The Odyssey director Christopher Nolan has offered his thoughts on the "immediate and harsh" judgment of "AI slop" from younger audiences.
 
 📎 [阅读原文](https://www.ign.com/articles/the-odyssey-director-christopher-nolan-says-ai-slop-is-being-utterly-rejected-by-younger-audiences) — *IGN*
 
-### 2. Fallout 5, The Elder Scrolls 6, Blade, and More: As Xbox Layoffs Hit Hard, What's Going on at Bethesda?
+### 3. Fallout 5, The Elder Scrolls 6, Blade, and More: As Xbox Layoffs Hit Hard, What's Going on at Bethesda?
 
 [原文] Bethesda was hit hard by this week’s Xbox layoffs, with cuts to The Elder Scrolls and Fallout developer Bethesda Game Studios, Doom developer id Software, and The Elder Scrolls Online developer ZeniMa
 
 📎 [阅读原文](https://www.ign.com/articles/fallout-5-the-elder-scrolls-6-blade-and-more-as-xbox-layoffs-hit-hard-whats-going-on-at-bethesda) — *IGN*
 
-### 3. Assassin's Creed Black Flag Resynced Sales Reach 2 Million on Day 1
+### 4. Assassin's Creed Black Flag Resynced Sales Reach 2 Million on Day 1
 
 [原文] Ubisoft has announced that Assassin's Creed Black Flag Resynced has passed 2 million copies sold in its first day since launch.
 
 📎 [阅读原文](https://www.ign.com/articles/assassins-creed-black-flag-resynced-sales-reach-2-million-on-day-1) — *IGN*
 
-### 4. EA Confirms Plan to Remove Paid Progression Options in EA Sports College Football 27 Following Community Backlash
+### 5. EA Confirms Plan to Remove Paid Progression Options in EA Sports College Football 27 Following Community Backlash
 
 [原文] EA has confirmed plans to remove "all paid progression options from Road to Glory and Online Dynasty" in EA Sports College Football 27 after players launched the CFBPlayNotPay campaign against offline
 
 📎 [阅读原文](https://www.ign.com/articles/ea-sports-college-football-27-faces-backlash-after-fans-discover-xp-microtransactions-for-offline-game-modes) — *IGN*
-
-### 5. Beat the Summer Heat With This $7 Portable Turbo Fan
-
-[原文] Stay frosty.
-
-📎 [阅读原文](https://www.ign.com/articles/lerat-portable-turbo-fan-deal) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post Toyota Wanted to Replace the Highlander Wi
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. As It Celebrates the Nation’s Past, Philadelphia Braces for a Hotter Future
+### 1. Recent Earthquakes Expose Problems with Venezuela’s Disaster Preparedness and Response, Scientists Say
+
+[原文] When Antonio Machado Allison assisted with earthquake response efforts in Venezuela’s capital of Caracas in 1967, he felt confident in the way the government mobilized its teams. When he arrived, Alli
+
+📎 [阅读原文](https://insideclimatenews.org/news/11072026/venezuela-earthquakes-expose-disaster-preparedness-issues/) — *Inside Climate News*
+
+### 2. The Case of the (France-Sized) Missing Antarctic Ice
+
+[原文] From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by producer Aynsley O’Neill with UC Boulder senior research scientist Ted Scambos.&#160; Midsum
+
+📎 [阅读原文](https://insideclimatenews.org/news/11072026/antarctica-missing-ice/) — *Inside Climate News*
+
+### 3. As It Celebrates the Nation’s Past, Philadelphia Braces for a Hotter Future
 
 [原文] PHILADELPHIA—To Eric Klinenberg, a packed stadium in 101-degree heat offering limited water access for fans was a “formula for disaster.”&#160; This was the scene that met the sociologist, who wrote a
 
 📎 [阅读原文](https://insideclimatenews.org/news/10072026/philadelphia-heat-wave-tests-climate-resilience/) — *Inside Climate News*
 
-### 2. Global Oil Demand Falls for the First Time Since COVID
+### 4. Global Oil Demand Falls for the First Time Since COVID
 
 [原文] Global oil demand, disrupted by the Iran war, is poised to shrink in 2026, the first time that’s happened since the COVID-19 pandemic, the International Energy Agency said on Friday. What’s unclear is
 
 📎 [阅读原文](https://insideclimatenews.org/news/10072026/global-oil-demand-declines/) — *Inside Climate News*
 
-### 3. Meet ICN’s 2026 Class of Summer Environmental Reporting Fellows
+### 5. Meet ICN’s 2026 Class of Summer Environmental Reporting Fellows
 
 [原文] Thirteen collegiate and post-collegiate journalists have joined Inside Climate News as reporting fellows this summer.&#160; ICN’s summer 2026 fellowship class, its largest to date, draws from current 
 
 📎 [阅读原文](https://insideclimatenews.org/news/10072026/2026-summer-fellows/) — *Inside Climate News*
-
-### 4. Arizona Regulators Are Raising Contaminant Limits for a Uranium Mine With an Arsenic Problem
-
-[原文] A monitoring well at the site of a uranium mine operating in a national monument nine miles from the Grand Canyon’s south rim has been detecting rising arsenic levels since 2025. Four times, those ars
-
-📎 [阅读原文](https://insideclimatenews.org/news/10072026/arizona-raises-uranium-mine-contaminant-limits/) — *Inside Climate News*
-
-### 5. A Chemical Plant Mishandled Hazardous Waste for Years, Then Quietly Shuttered
-
-[原文] ZEBULON, N.C.—The blank, beige building at 507 N. Industrial Drive, still emblazoned with the words “Braven Environmental,” looks benign from the street.&#160; But on a recent weekend, an interior ala
-
-📎 [阅读原文](https://insideclimatenews.org/news/10072026/nc-plastic-recycling-plant-shutters-after-mishandling-hazardous-waste/) — *Inside Climate News*
 
 ---
 
