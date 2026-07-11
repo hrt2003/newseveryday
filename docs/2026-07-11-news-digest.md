@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月11日** | 生成时间: 2026-07-11 10:55
+**2026年07月11日** | 生成时间: 2026-07-11 16:02
 
 ---
 
@@ -22,11 +22,11 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Wildfire in southern Spain leaves at least 12 dead and 23 missing
+### 2. Spain battles to contain one of its deadliest wildfires as at least 12 killed
 
-[原文] A local official said four of the victims may be British after a fire broke out near Los Gallardos, Almería.
+[原文] At least four Britons are believed to be among the victims of the blaze, which left another 23 people missing.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 3. Meet the crypto billionaires building a world where money buys you a vote
 
@@ -40,7 +40,7 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Forced to wait his turn, Marine Le Pen's deputy Bardella returns to the shadows
+### 5. The photo that shows who's really on top in Le Pen's party
 
 [原文] Thirty-year-old Jordan Bardella had been groomed for success as France's next hard-right leader. He will now have to wait longer.
 
@@ -72,17 +72,17 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/10/trump-housing-bill-save-act-law.html) — *CNBC*
 
-### 4. OpenAI power consolidates under co-founder Greg Brockman ahead of prospective IPO
+### 4. AstraZeneca's trial flop raises a bigger question: Is its pipeline premium becoming more vulnerable?
+
+[原文] For years, AstraZeneca has commanded one of the richest valuations among large European pharma companies on the assumption that it consistently delivers results.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/11/astrazenecas-trial-pipeline-pharma-valutaion-stock.html) — *CNBC*
+
+### 5. OpenAI power consolidates under co-founder Greg Brockman ahead of prospective IPO
 
 [原文] With Fidji Simo's official departure from OpenAI due to a chronic medical issue, Greg Brockman's role has become clearer.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/10/openai-power-consolidates-under-co-founder-greg-brockman-ahead-of-ipo.html) — *CNBC*
-
-### 5. The AI race is shifting from bigger models to cheaper, smarter systems
-
-[原文] Companies are starting to choose AI models by task, cost and control, not just leaderboard rank.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/10/the-ai-race-is-shifting-from-bigger-models-to-cheaper-smarter-systems.html) — *CNBC*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Merino the unlikely hero again - as Spain wait for Lamine Yamal show
+### 1. The MLB draft is here! Kiley McDaniel predicts the...
 
-[原文] Mikel Merino came off the bench to send Spain into the World Cup semi-finals - but Lamine Yamal is still waiting for his moment to truly shine.
+[原文] Who goes No. 1 to the White Sox?  This year, the intrigue begins with a trio of stars in play for the top pick.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cvg50pvejzdo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/mlb/story/_/id/49315943/2026-mlb-mock-draft-final-predictions-first-two-rounds-white-sox-no-1-cholowsky-emerson-lackey) — *ESPN*
 
-### 2. England's Guehi, Rice & James all train before Norway game
+### 2. The players we can't wait to see in the MLB Future...
 
-[原文] Midfielder Declan Rice and defenders Marc Guehi and Reece James all train with England on the eve of Saturday's World Cup quarter-final against Norway.
+[原文] The brightest stars in the minors take the field Sunday in Philly. Here's who we'll be watching most closely.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c3eyqdwq392o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/mlb/story/_/id/49307014/mlb-2026-all-star-weekend-futures-game-players-watch) — *ESPN*
 
-### 3. Fery's Wimbledon run ended by Zverev in semi-finals
+### 3. Sources: Bam struck Herro in Vegas altercation
 
-[原文] Arthur Fery's unforgettable Wimbledon run comes to an end as Alexander Zverev beats the British wildcard to secure a place in the final.
+[原文] Former Heat teammates Bam Adebayo and Tyler Herro got into a physical altercation at a practice court in a Las Vegas hotel Friday morning, during which Adebayo struck Herro in the head area, sources t
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/ckg475qdnd7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/nba/story/_/id/49328387/heat-bam-adebayo-bucks-tyler-herro-got-physical-altercation-las-vegas) — *ESPN*
 
-### 4. Lammens' error spells end for Belgium's golden generation
+### 4. Strong debut caps 'emotional' day for Bulls' Wilso...
 
-[原文] Belgium's World Cup campaign ends after Senne Lammens' error against Spain - could it all be over for their golden generation too?
+[原文] Bulls rookie Caleb Wilson scored 35 points in his summer league debut Friday night, the second most in a Las Vegas debut since the event began in 2004.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c4gy107g38eo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/nba/story/_/id/49330697/bulls-wilson-emotional-puts-show-35-point-summer-league-debut) — *ESPN*
 
-### 5. Spain into semi-finals at expense of Belgium after Merino's late winner
+### 5. Sources: Spurs' Wemby inks $252M max extension
 
-[原文] Mikel Merino emerges as Spain's hero yet again as the substitute scores in the 88th minute to stun Belgium and set up a World Cup semi-final against France.
+[原文] Victor Wembanyama and the Spurs have reached agreement on a five-year, $252 million maximum rookie-scale contract extension, sources told ESPN, the third-largest rookie extension in NBA history.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/videos/cd0m9e88g0vo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/nba/story/_/id/49328757/sources-spurs-victor-wembanyama-reach-252-million-max-extension) — *ESPN*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Oregon D.A. Drops Motion to Delay Paramount-Warner Bros. Merger
+### 1. Colombia Adds Massive Soundstage as Bogotá Audiovisual Market Attendance Soars and ‘Narcos’ Star-Led ‘Rookies’ Cleans Up in Project Prizes
+
+[原文] Colombia’s Bogotá Audiovisual Market (BAM) has wrapped its 17th Edition July 10 with an uptick in attendance. The numbers say it all: 2,336 accredited participants and 271 industry activities and 882 
+
+📎 [阅读原文](https://variety.com/2026/film/global/colombia-bogota-audiovisual-market-prizes-uptick-attendance-1236807107/) — *Variety*
+
+### 2. Jay-Z Brings Out Beyoncé, Blue Ivy Carter, Nas, Alicia Keys and More for ‘Reasonable Doubt’ 30th Anniversary Show at Yankee Stadium
+
+[原文] Jay-Z did appear to promise far in advance that his &#8220;Reasonable Doubt&#8221; 30th anniversary show would, in fact, be a celebration of the debut album that he dropped back in June 1996. That did
+
+📎 [阅读原文](https://variety.com/2026/music/news/jay-z-brings-out-beyonce-blue-ivy-carter-yankee-stadium-1236807113/) — *Variety*
+
+### 3. Oregon D.A. Drops Motion to Delay Paramount-Warner Bros. Merger
 
 [原文] The Oregon attorney general&#8217;s office has withdrawn its motion to delay the closing of the Paramount-Warner Bros. merger, according to a filing submitted Friday in the Multnomah County Circuit Co
 
 📎 [阅读原文](https://variety.com/2026/film/news/oregon-paramount-warner-bros-merger-drops-delay-1236807068/) — *Variety*
 
-### 2. Donald Iwerks, Disney Camera Technician and Co-Founder of Iwerks Entertainment, Dies at 96
+### 4. Donald Iwerks, Disney Camera Technician and Co-Founder of Iwerks Entertainment, Dies at 96
 
 [原文] Donald Iwerks, son of Mickey Mouse co-creator Ub Iwerks, whose groundbreaking innovations transformed cinematic storytelling and immersive entertainment, died July 9. He was 96. Iwerks spent over six 
 
 📎 [阅读原文](https://variety.com/2026/artisans/news/donald-iwerks-dead-disney-camera-technician-iwerks-entertainment-1236807071/) — *Variety*
 
-### 3. Jack White Offers Opening Slot to ‘Satanic’ Band Twin Temple — ‘Get in Front of Me, Satan!’ — as Charley Crockett Defends Decision to Dump Them
+### 5. Jack White Offers Opening Slot to ‘Satanic’ Band Twin Temple — ‘Get in Front of Me, Satan!’ — as Charley Crockett Defends Decision to Dump Them
 
 [原文] &#8220;Not today, Satan&#8221;&#8230; or &#8220;Hell yeah, Beelzebub&#8221;? A split is taking place in the polarizing realm of devil-rock, as practiced by self-styled &#8220;Satanic&#8221; duo Twin T
 
 📎 [阅读原文](https://variety.com/2026/music/news/jack-white-satanic-band-twin-temple-charley-crockett-1236807060/) — *Variety*
-
-### 4. Cineverse Buys Horror-Comedy ‘Portal to Hell’ (EXCLUSIVE)
-
-[原文] Cineverse and its horror division Bloody Disgusting have acquired U.S. VOD and streaming rights to &#8220;Portal to Hell,&#8221; the Slamdance and Frightfest debut feature from Woody Bess. A limited t
-
-📎 [阅读原文](https://variety.com/2026/film/news/cineverse-buys-horror-comedy-portal-to-hell-1236806935/) — *Variety*
-
-### 5. ‘Moana’ Cast Guide: Every Live-Action Character vs. the Original Animation
-
-[原文] Moana and Maui are setting sail once again &#8212; this time, in live-action. Releasing in theaters July 10, Disney&#8217;s animated musical &#8220;Moana&#8221; comes back to life with a brand new liv
-
-📎 [阅读原文](https://variety.com/lists/moana-cast-characters-live-action-animated/) — *Variety*
 
 ---
 
@@ -515,7 +515,7 @@ The post Toyota Wanted to Replace the Highlander Wi
 - **💰 经济财经**: CNBC
 - **💻 科技**: TechCrunch
 - **🔬 科学**: Science Daily
-- **⚽ 体育**: BBC Sport
+- **⚽ 体育**: ESPN
 - **🎬 娱乐**: Variety
 - **🏥 健康**: WHO
 - **🎮 游戏**: IGN
