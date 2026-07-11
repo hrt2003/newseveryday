@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月11日** | 生成时间: 2026-07-11 03:38
+**2026年07月11日** | 生成时间: 2026-07-11 10:55
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Wildfire in southern Spain leaves at least 12 dead and 23 missing
+### 1. US wants Iran to pledge to stop shooting at ships in Strait of Hormuz
+
+[原文] Vice-President JD Vance is among US officials expected to take part in negotiations resuming on Saturday in Oman.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Wildfire in southern Spain leaves at least 12 dead and 23 missing
 
 [原文] A local official said four of the victims may be British after a fire broke out near Los Gallardos, Almería.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. East Asia braces for destructive typhoon as landslides kill 15 in Philippines
+### 3. Meet the crypto billionaires building a world where money buys you a vote
+
+[原文] They think democracy has run its course - so they're setting up their own nations instead.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. East Asia braces for destructive typhoon as landslides kill 15 in Philippines
 
 [原文] Heading for Taiwan and south-eastern China, the 1,000 km-wide Bavi is forecast to be one of the strongest storms in decades.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Zulu king expresses regret after video captures tirade against his wife
+### 5. Forced to wait his turn, Marine Le Pen's deputy Bardella returns to the shadows
 
-[原文] In the footage widely shared in South Africa, King Misuzulu threatens to physically assault his wife and accuses her of cheating.
+[原文] Thirty-year-old Jordan Bardella had been groomed for success as France's next hard-right leader. He will now have to wait longer.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy8dl9n1v3vo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Man fatally shot by ICE in Houston was not intended target, DHS says
-
-[原文] Immigration agents were looking for a different person when they shot Lorenzo Salgado Araujo during a traffic stop, officials say.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Man nearly sucked out of window mid-air on Ryanair plane, passengers say
-
-[原文] The man's wife held onto his legs for around five minutes to stop him from being sucked out, officials say.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. SK Hynix opens at $170 on Nasdaq. Chairman tells CNBC 'demand is enormous'
+### 1. SK Hynix rises 13% in Nasdaq debut. Chairman tells CNBC 'demand is enormous'
 
 [原文] SK Hynix has soared to a trillion-dollar market cap by serving some of the biggest names in technology, including Nvidia and Apple.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/10/sk-hynix-skhy-stock-nasdaq.html) — *CNBC*
 
-### 2. Trump says he won't sign housing bill, which would become law automatically
+### 2. Apple sues OpenAI alleging trade secret theft, says scheme was 'at every level'
+
+[原文] The two companies entered into a high-profile partnership in 2024 when ChatGPT was integrated into the iPhone's operating system.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html) — *CNBC*
+
+### 3. Trump says he won't sign housing bill, which would become law automatically
 
 [原文] Congress passed the housing bill in June with strong bipartisan support amid concerns of rising home prices and institutional investors affecting the market.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/10/trump-housing-bill-save-act-law.html) — *CNBC*
 
-### 3. OpenAI power consolidates under co-founder Greg Brockman ahead of prospective IPO
+### 4. OpenAI power consolidates under co-founder Greg Brockman ahead of prospective IPO
 
 [原文] With Fidji Simo's official departure from OpenAI due to a chronic medical issue, Greg Brockman's role has become clearer.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/10/openai-power-consolidates-under-co-founder-greg-brockman-ahead-of-ipo.html) — *CNBC*
 
-### 4. Stablecoin issuer Circle just got the greenlight to operate as a bank. The shares are up 5%
+### 5. The AI race is shifting from bigger models to cheaper, smarter systems
 
-[原文] Stablecoin issuer Circle surged in premarket trading after the U.S. Office of the Comptroller of the Currency granted it approval to operate as a trust bank.
+[原文] Companies are starting to choose AI models by task, cost and control, not just leaderboard rank.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/10/circle-gets-an-occ-bank-charter-as-stablecoin-competition-heats-up-shares-surge-14percent.html) — *CNBC*
-
-### 5. Traders fall back in love with Meta. Here's where bulls see it going
-
-[原文] Meta Platform's AI efforts are looking like the recipe for a comeback after an almost year-long drought in shares of the $1.7 trillion market-cap company.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/10/traders-fall-back-in-love-with-meta-heres-where-bulls-see-it-going.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/10/the-ai-race-is-shifting-from-bigger-models-to-cheaper-smarter-systems.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat
+### 1. US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals
 
-[原文] Fizz has expanded its lawsuit against rival Sidechat, alleging that a Maveron VC shared its confidential information obtained during a fundraising meeting with the competing startup.
+[原文] Independent cybersecurity journalist Brian Krebs reported in May that a security researcher with cyber firm GitGuardian alerted him to reams of exposed passwords stored in a publicly accessible GitHub
 
-📎 [阅读原文](https://techcrunch.com/2026/07/10/filing-college-app-fizz-accuses-vc-of-sharing-confidential-startup-information-with-rival-sidechat/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/) — *TechCrunch*
 
-### 2. SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs
+### 2. Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn
 
-[原文] The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.
+[原文] Phia, the shopping startup founded by Bill Gates’ daughter, Phoebe, and her friend Sophia Kianni is under fire for a practice known as “cookie stuffing,” which helped the product receive commissions a
 
-📎 [阅读原文](https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/) — *TechCrunch*
 
-### 3. A new app, HyperTexting, turns the open web into a scrollable social media-like feed
+### 3. Meta removes controversial AI feature on Instagram after backlash
 
-[原文] HyperTexting's new app aims to make the open web feel more like social media by turning websites, blogs, newsletters, and podcasts into a scrollable feed, while also making it easier to post to your o
+[原文] "Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way," the company said in a blog post. "We've heard the feedb
 
-📎 [阅读原文](https://techcrunch.com/2026/07/10/a-new-app-hypertexting-turns-the-open-web-into-a-scrollable-social-media-like-feed/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/) — *TechCrunch*
 
-### 4. China is catching up to Elon Musk’s reusable rockets
+### 4. Bluesky’s interim CEO, Toni Schneider, drops the ‘interim’
 
-[原文] China's state-owned space company recovered its first orbital rocket booster after launch.
+[原文] Schneider, who formerly served as the CEO of Automattic and is a partner at True Ventures, says he is "all in" on the unconventional social media platform.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/10/china-is-catching-up-to-elon-musks-reusable-rockets/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/) — *TechCrunch*
 
-### 5. Disney+ is considering a free streaming tier, report says
+### 5. Apple sues OpenAI over alleged trade secret theft
 
-[原文] The launch of free content would allow Disney+ to better compete with free services like YouTube and Tubi, which are capturing a growing share of consumers’ viewing time.
+[原文] Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/10/disney-is-considering-a-free-streaming-tier-report-says/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Fery's Wimbledon run ended by Zverev in semi-finals
+### 1. Merino the unlikely hero again - as Spain wait for Lamine Yamal show
+
+[原文] Mikel Merino came off the bench to send Spain into the World Cup semi-finals - but Lamine Yamal is still waiting for his moment to truly shine.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cvg50pvejzdo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. England's Guehi, Rice & James all train before Norway game
+
+[原文] Midfielder Declan Rice and defenders Marc Guehi and Reece James all train with England on the eve of Saturday's World Cup quarter-final against Norway.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c3eyqdwq392o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. Fery's Wimbledon run ended by Zverev in semi-finals
 
 [原文] Arthur Fery's unforgettable Wimbledon run comes to an end as Alexander Zverev beats the British wildcard to secure a place in the final.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/ckg475qdnd7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Superb Sinner ends Djokovic's latest bid for history
+### 4. Lammens' error spells end for Belgium's golden generation
 
-[原文] Jannik Sinner produces a devastating display to end Novak Djokovic's latest bid for history and set up a Wimbledon final against Alexander Zverev.
+[原文] Belgium's World Cup campaign ends after Senne Lammens' error against Spain - could it all be over for their golden generation too?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/c04y0pyqk6zo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c4gy107g38eo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. ECB to face no action over Stokes retirement video
+### 5. Spain into semi-finals at expense of Belgium after Merino's late winner
 
-[原文] England will face no action from the International Cricket Council (ICC) over Ben Stokes' retirement video.
+[原文] Mikel Merino emerges as Spain's hero yet again as the substitute scores in the 88th minute to stun Belgium and set up a World Cup semi-final against France.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cy8w39qvpdlo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. New species named after Cape Verde keeper Vozinha
-
-[原文] A new species of sea snail has been named after Cape Verde goalkeeper Vozinha to mark his performance against Spain at the World Cup.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cn8kdxgxlkeo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Sinner too strong for record-chasing Djokovic in Wimbledon semi-final
-
-[原文] Novak Djokovic's pursuit for a record 25th Grand Slam title is put to an end by defending champion Jannik Sinner, whose straight-set win sets up a meeting with Alexander Zverev in the final of Wimbled
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/videos/cwyerxyrz9mo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/videos/cd0m9e88g0vo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. France Televisions Unveils Slate Led by ‘La Haine’ Stage Adaptation, #MeToo Film ‘Triple Peine,’ Robust Presidential Election Coverage: ‘Public Service Belongs to No Camp’
+### 1. Oregon D.A. Drops Motion to Delay Paramount-Warner Bros. Merger
 
-[原文] Mathieu Kassovitz’s landmark 1995 film “La Haine” is heading to television in a new form, with French broadcaster France Télévisions set to air the stage adaptation &#8220;La Haine, sur scène – Jusqu’
+[原文] The Oregon attorney general&#8217;s office has withdrawn its motion to delay the closing of the Paramount-Warner Bros. merger, according to a filing submitted Friday in the Multnomah County Circuit Co
 
-📎 [阅读原文](https://variety.com/2026/tv/global/france-televisions-haine-stage-metoo-presidential-election-1236806796/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/oregon-paramount-warner-bros-merger-drops-delay-1236807068/) — *Variety*
 
-### 2. Wes Anderson to Screen ‘Bottle Rocket’ in Houston to Help Save Historic Theater- Film News in Brief
+### 2. Donald Iwerks, Disney Camera Technician and Co-Founder of Iwerks Entertainment, Dies at 96
 
-[原文] Filmmaker Wes Anderson will return to his hometown of Houston on July 17 to support the preservation of the historic Garden Oaks Theater. The one-night-only benefit will raise funds to help save the 1
+[原文] Donald Iwerks, son of Mickey Mouse co-creator Ub Iwerks, whose groundbreaking innovations transformed cinematic storytelling and immersive entertainment, died July 9. He was 96. Iwerks spent over six 
 
-📎 [阅读原文](https://variety.com/2026/film/news/film-news-in-brief-july-6-2026-1236802346/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/artisans/news/donald-iwerks-dead-disney-camera-technician-iwerks-entertainment-1236807071/) — *Variety*
 
-### 3. Kevin Bacon, Kyra Sedgwick and Travis Bacon Talk About Their Bloody ‘Family Movie’ – and Why ‘Violence Can Be Hysterical’: ‘We Are Really Twisted People’
+### 3. Jack White Offers Opening Slot to ‘Satanic’ Band Twin Temple — ‘Get in Front of Me, Satan!’ — as Charley Crockett Defends Decision to Dump Them
 
-[原文] Kevin Bacon, Kyra Sedgwick and their children Sosie Bacon and Travis Bacon may have made a “Family Movie,” but “it’s not a reality show.” “What was cool from the very first read was that it wasn’t us.
+[原文] &#8220;Not today, Satan&#8221;&#8230; or &#8220;Hell yeah, Beelzebub&#8221;? A split is taking place in the polarizing realm of devil-rock, as practiced by self-styled &#8220;Satanic&#8221; duo Twin T
 
-📎 [阅读原文](https://variety.com/2026/film/global/kevin-bacon-kyra-sedgwick-travis-bacon-family-movie-1236806711/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/jack-white-satanic-band-twin-temple-charley-crockett-1236807060/) — *Variety*
 
-### 4. Neon, Oscar-Winning Studio Behind ‘Anora’ and ‘Longlegs,’ Sells Stake to Department M
+### 4. Cineverse Buys Horror-Comedy ‘Portal to Hell’ (EXCLUSIVE)
 
-[原文] Department M has closed a transaction to acquire a significant stake in Neon, the Oscar-winning indie studio behind &#8220;Parasite&#8221; and &#8220;Anora.&#8221; Financial terms of the deal were not
+[原文] Cineverse and its horror division Bloody Disgusting have acquired U.S. VOD and streaming rights to &#8220;Portal to Hell,&#8221; the Slamdance and Frightfest debut feature from Woody Bess. A limited t
 
-📎 [阅读原文](https://variety.com/2026/film/news/neon-anora-longlegs-sells-stake-department-m-1236806707/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/cineverse-buys-horror-comedy-portal-to-hell-1236806935/) — *Variety*
 
-### 5. Ariana Grande Drops Out of ‘American Horror Story’ Season 13 Amid Concert Tour
+### 5. ‘Moana’ Cast Guide: Every Live-Action Character vs. the Original Animation
 
-[原文] Ariana Grande is no longer a part of &#8220;American Horror Story&#8221; Season 13. The pop star dropped out of the Ryan Murphy production due to scheduling conflicts with her &#8220;Eternal Sunshine&
+[原文] Moana and Maui are setting sail once again &#8212; this time, in live-action. Releasing in theaters July 10, Disney&#8217;s animated musical &#8220;Moana&#8221; comes back to life with a brand new liv
 
-📎 [阅读原文](https://variety.com/2026/music/news/ariana-grande-exits-american-horror-story-13-tour-1236806759/) — *Variety*
+📎 [阅读原文](https://variety.com/lists/moana-cast-characters-live-action-animated/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Save 50% Off Anker's Newly Released SOLIX S2000 2,048Wh 2,400W LiFePO4 Power Station
+### 1. The Odyssey Director Christopher Nolan Says 'AI Slop' Is Being 'Utterly Rejected' By Younger Audiences
 
-[原文] Anker's lightest ever 2kWh power station with 96% efficiency, 6W power draw, and 10ms UPS switchover.
+[原文] The Odyssey director Christopher Nolan has offered his thoughts on the "immediate and harsh" judgment of "AI slop" from younger audiences.
 
-📎 [阅读原文](https://www.ign.com/articles/new-release-anker-solix-s2000-lifepo4-power-station-deal) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/the-odyssey-director-christopher-nolan-says-ai-slop-is-being-utterly-rejected-by-younger-audiences) — *IGN*
 
-### 2. 'I'd Take It in a Second' — Cyberpunk 2077 Player Resurgence Has Fans Calling on CD Projekt to Change Its Mind and Release More DLC
+### 2. Fallout 5, The Elder Scrolls 6, Blade, and More: As Xbox Layoffs Hit Hard, What's Going on at Bethesda?
 
-[原文] Cyberpunk 2077 is having a moment, with impressive player numbers on Steam fueled by a recent sale, hype for upcoming Netflix anime Cyberpunk: Edgerunners 2 and its collaboration with Wuthering Waves.
+[原文] Bethesda was hit hard by this week’s Xbox layoffs, with cuts to The Elder Scrolls and Fallout developer Bethesda Game Studios, Doom developer id Software, and The Elder Scrolls Online developer ZeniMa
 
-📎 [阅读原文](https://www.ign.com/articles/id-take-it-in-a-second-cyberpunk-2077-player-resurgence-has-fans-calling-on-cd-projekt-to-change-its-mind-and-release-more-dlc) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/fallout-5-the-elder-scrolls-6-blade-and-more-as-xbox-layoffs-hit-hard-whats-going-on-at-bethesda) — *IGN*
 
-### 3. Dell Outlet Has Restocked Alienware Area-51 RTX 5090 Gaming PCs With 64GB of RAM and 4TB SSD
+### 3. Assassin's Creed Black Flag Resynced Sales Reach 2 Million on Day 1
 
-[原文] Comes with the same warranty as buying brand new.
+[原文] Ubisoft has announced that Assassin's Creed Black Flag Resynced has passed 2 million copies sold in its first day since launch.
 
-📎 [阅读原文](https://www.ign.com/articles/alienware-area-51-rtx-5090-gaming-pc-deal-with-64gb-of-ram-and-4tb-ssd-at-dell-outlet-in-july) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/assassins-creed-black-flag-resynced-sales-reach-2-million-on-day-1) — *IGN*
 
-### 4. Get a Travel-Friendly Orico Power Strip With AC Outlets and USB Ports for Just Under $20
+### 4. EA Confirms Plan to Remove Paid Progression Options in EA Sports College Football 27 Following Community Backlash
 
-[原文] Packs down to the size of a smartphone, cord included.
+[原文] EA has confirmed plans to remove "all paid progression options from Road to Glory and Online Dynasty" in EA Sports College Football 27 after players launched the CFBPlayNotPay campaign against offline
 
-📎 [阅读原文](https://www.ign.com/articles/oricio-travel-friendly-power-strip-deal-in-july) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/ea-sports-college-football-27-faces-backlash-after-fans-discover-xp-microtransactions-for-offline-game-modes) — *IGN*
 
-### 5. 8 Incredible Speedruns You Have To Watch Right Now
+### 5. Beat the Summer Heat With This $7 Portable Turbo Fan
 
-[原文] Summer Games Fest Done Quick is not over yet, but there are plenty of gems you can watch on VOD
+[原文] Stay frosty.
 
-📎 [阅读原文](https://kotaku.com/best-summer-games-done-quick-2026-speedruns-to-watch-2000714726) — *Kotaku*
+📎 [阅读原文](https://www.ign.com/articles/lerat-portable-turbo-fan-deal) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post Toyota Wanted to Replace the Highlander Wi
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Meet ICN’s 2026 Class of Summer Environmental Reporting Fellows
+### 1. As It Celebrates the Nation’s Past, Philadelphia Braces for a Hotter Future
+
+[原文] PHILADELPHIA—To Eric Klinenberg, a packed stadium in 101-degree heat offering limited water access for fans was a “formula for disaster.”&#160; This was the scene that met the sociologist, who wrote a
+
+📎 [阅读原文](https://insideclimatenews.org/news/10072026/philadelphia-heat-wave-tests-climate-resilience/) — *Inside Climate News*
+
+### 2. Global Oil Demand Falls for the First Time Since COVID
+
+[原文] Global oil demand, disrupted by the Iran war, is poised to shrink in 2026, the first time that’s happened since the COVID-19 pandemic, the International Energy Agency said on Friday. What’s unclear is
+
+📎 [阅读原文](https://insideclimatenews.org/news/10072026/global-oil-demand-declines/) — *Inside Climate News*
+
+### 3. Meet ICN’s 2026 Class of Summer Environmental Reporting Fellows
 
 [原文] Thirteen collegiate and post-collegiate journalists have joined Inside Climate News as reporting fellows this summer.&#160; ICN’s summer 2026 fellowship class, its largest to date, draws from current 
 
 📎 [阅读原文](https://insideclimatenews.org/news/10072026/2026-summer-fellows/) — *Inside Climate News*
 
-### 2. Arizona Regulators Are Raising Contaminant Limits for a Uranium Mine With an Arsenic Problem
+### 4. Arizona Regulators Are Raising Contaminant Limits for a Uranium Mine With an Arsenic Problem
 
 [原文] A monitoring well at the site of a uranium mine operating in a national monument nine miles from the Grand Canyon’s south rim has been detecting rising arsenic levels since 2025. Four times, those ars
 
 📎 [阅读原文](https://insideclimatenews.org/news/10072026/arizona-raises-uranium-mine-contaminant-limits/) — *Inside Climate News*
 
-### 3. A Chemical Plant Mishandled Hazardous Waste for Years, Then Quietly Shuttered
+### 5. A Chemical Plant Mishandled Hazardous Waste for Years, Then Quietly Shuttered
 
 [原文] ZEBULON, N.C.—The blank, beige building at 507 N. Industrial Drive, still emblazoned with the words “Braven Environmental,” looks benign from the street.&#160; But on a recent weekend, an interior ala
 
 📎 [阅读原文](https://insideclimatenews.org/news/10072026/nc-plastic-recycling-plant-shutters-after-mishandling-hazardous-waste/) — *Inside Climate News*
-
-### 4. Grassroots Justice Group Challenges Trump Administration Order to Keep Florida Coal Plant Running
-
-[原文] The Trump administration is facing a new legal challenge over an emergency order keeping a Florida coal-fired power plant, which had been scheduled for retirement, in operation. The motion, filed by t
-
-📎 [阅读原文](https://insideclimatenews.org/news/10072026/trump-florida-coal-plant-order-legal-challenge/) — *Inside Climate News*
-
-### 5. Maryland County Adopts a Two-year Moratorium on Data Center Development
-
-[原文] Maryland’s second largest county is the latest jurisdiction in the state to slam the brakes on data centers. Prince George&#8217;s County on Tuesday adopted a two-year moratorium on development of the
-
-📎 [阅读原文](https://insideclimatenews.org/news/09072026/maryland-county-adopts-data-center-moratorium/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post Toyota Wanted to Replace the Highlander Wi
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Fiona Apple Wants to Write About the ‘Endless Barrage of Horrors’ in Today’s World
+### 1. Bad Bunny’s Ex Wins Round in Battle Over Voice Note Used on ‘Un Verano Sin Ti’
+
+[原文] Carliz De La Cruz Hernández got a green light to pursue her claim over the “Bad Bunny baby” tagline on “Dos Mil 16"
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/bad-bunny-ex-girlfriend-un-verano-sin-ti-lawsuit-1235592278/) — *Rolling Stone*
+
+### 2. Pitbull Sets Guinness World Record for Most ‘Bald Caps’ at London Festival
+
+[原文] More than 20,000 people participated in the “largest gathering of people wearing bald caps” at BST Festival in Hyde Park
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/pitbull-sets-guinness-world-record-most-bald-caps-bst-fest-1235592245/) — *Rolling Stone*
+
+### 3. Taylor Swift Paid ‘Over $160,000’ to Obtain NYC Permit for MSG Wedding, Says Zohran Mamdani
+
+[原文] The update comes after the superstar and her husband, Travis Kelce, faced criticism for their Fourth of July wedding
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/taylor-swift-nyc-permit-cost-msg-wedding-zohran-mamdani-1235592197/) — *Rolling Stone*
+
+### 4. Fiona Apple Wants to Write About the ‘Endless Barrage of Horrors’ in Today’s World
 
 [原文] “I just didn’t want you to think that I was turning a blind eye or that I didn’t care,” the singer-songwriter says in a rare update. “I fucking care”
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/fiona-apple-new-music-video-update-1235592093/) — *Rolling Stone*
 
-### 2. The Linda Lindas Embrace Imperfection on ‘Gotta Get Out’ Album Featuring Hayley Williams on ‘Closer’
+### 5. The Linda Lindas Embrace Imperfection on ‘Gotta Get Out’ Album Featuring Hayley Williams on ‘Closer’
 
 [原文] The punk rockers’ new LP arrives on Aug. 28
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/the-linda-lindas-hayley-williams-single-closer-new-album-1235592019/) — *Rolling Stone*
-
-### 3. Jack White Invites ‘Satanic’ Band Twin Temple to Open for Him
-
-[原文] The invitation comes after the L.A. duo were reportedly fired from Charley Crockett’s tour over their Lucifer-loving imagery
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/jack-white-invites-satanic-band-twin-temple-to-open-1235591970/) — *Rolling Stone*
-
-### 4. Alabama Shakes Unveil Optimistic Single ‘I Feel Hope Coming’ From Upcoming New Album
-
-[原文] I Must Be Dreaming, band’s first album in 11 years, out Aug. 28
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/alabama-shakes-new-song-i-feel-hope-coming-new-album-1235591943/) — *Rolling Stone*
-
-### 5. Scout Willis Majestically Moves On After a Breakup in New Song ‘Honey, I’
-
-[原文] Artist who just signed to a label is on the road, supporting Maren Morris
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/scout-willis-honey-i-new-song-video-1235591548/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post Toyota Wanted to Replace the Highlander Wi
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Booking Holdings Is Forming a New B2B Unit, Agoda CEO Is Overseeing it: Scoop
+### 1. What Haaland Mania Won’t Do for Norway Tourism
+
+[原文] Haaland mania is real. It will not move Norwegian tourism, and the visitors it might send are the ones Norway is already pricing out.
+
+📎 [阅读原文](https://skift.com/2026/07/10/what-haaland-mania-wont-do-for-norway-tourism/) — *Skift*
+
+### 2. Hopper Settles With the FTC Over Practices Expedia Called Out in 2023
+
+[原文] Expedia ended its Hopper partnership in 2023 for 17 months over deceptive practices. Now the U.S. Federal Trade Commission, in another reputational hit, has reached largely the same verdict, with a $3
+
+📎 [阅读原文](https://skift.com/2026/07/10/hopper-settles-with-the-ftc-over-practices-expedia-called-out-in-2023/) — *Skift*
+
+### 3. Booking Holdings Is Forming a New B2B Unit, Agoda CEO Is Overseeing it: Scoop
 
 [原文] Booking Holdings has an uphill climb to rival Expedia's scale in B2B, but the formation of a consolidated business unit could help Booking become a more formidable competitor.
 
 📎 [阅读原文](https://skift.com/2026/07/10/booking-holdings-is-forming-a-new-b2b-unit-agoda-ceo-is-overseeing-it-scoop/) — *Skift*
 
-### 2. Accor Hires Banks for Ennismore’s U.S. IPO: Report
+### 4. Accor Hires Banks for Ennismore’s U.S. IPO: Report
 
 [原文] Sébastien Bazin left four or five doors open for Ennismore in June. He now looks to be walking through one.
 
 📎 [阅读原文](https://skift.com/2026/07/10/accor-hires-banks-for-ennismores-u-s-ipo-report/) — *Skift*
 
-### 3. Airbnb Just Hired Away an OpenAI Creative Exec
+### 5. Airbnb Just Hired Away an OpenAI Creative Exec
 
 [原文] Airbnb has recruited an OpenAI VP to help make its next wave of technology feel unmistakably Airbnb. The hire plays to the company’s oldest advantage — and its newer hedge against AI mania: brand.In h
 
 📎 [阅读原文](https://skift.com/2026/07/10/airbnb-tabtabai-hiring-openai-creative-exec/) — *Skift*
-
-### 4. Who’s Still Crossing: Canada’s Holdout Travelers
-
-[原文] Land visitors from Canada were down double digits in 2025, but federal data suggests travelers with American friends and relatives are more willing to cross the border.
-
-📎 [阅读原文](https://skift.com/2026/07/10/canada-land-crossings-2025-profile/) — *Skift*
-
-### 5. RedDoorz’s IPO Plan: Singapore First, Nasdaq Later
-
-[原文] RedDoorz will be IPO-ing to go shopping. It's strategy is clear: Singapore now, Nasdaq eventually, and what looks like an acquisition spree in between.
-
-📎 [阅读原文](https://skift.com/2026/07/10/reddoorzs-ipo-plan-singapore-first-nasdaq-later/) — *Skift*
 
 ---
 
@@ -518,7 +518,7 @@ The post Toyota Wanted to Replace the Highlander Wi
 - **⚽ 体育**: BBC Sport
 - **🎬 娱乐**: Variety
 - **🏥 健康**: WHO
-- **🎮 游戏**: IGN、Kotaku
+- **🎮 游戏**: IGN
 - **🚗 汽车**: The Drive
 - **🌱 环境**: Inside Climate News
 - **📚 教育**: EdSurge
@@ -528,7 +528,6 @@ The post Toyota Wanted to Replace the Highlander Wi
 ## ⚠️ 今日故障源
 
 - **🚗 汽车**: Roadshow, Autocar
-- **✈️ 旅游**: Nomadic Matt, Travel Off Path
 
 ---
 
