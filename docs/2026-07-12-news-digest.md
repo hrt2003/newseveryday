@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月12日** | 生成时间: 2026-07-12 11:20
+**2026年07月12日** | 生成时间: 2026-07-12 16:23
 
 ---
 
@@ -18,15 +18,15 @@
 
 ### 1. US launches fresh strikes as Iran closes Strait of Hormuz
 
-[原文] The strikes follow an attack on a Cyrpus-flagged vessel travelling through the critical waterway.
+[原文] The strikes follow an attack on a Cyprus -flagged vessel travelling through the critical waterway.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. China's second typhoon in a week makes landfall
+### 2. US Senator Lindsey Graham dies after 'brief and sudden illness', his office says
 
-[原文] Nearly two million people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm.
+[原文] The influential politician has just returned from Kyiv, where he met Ukraine's President Volodymyr Zelensky on Friday.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 3. T. rex could become most expensive fossil ever - but it's a ​problem for scientists
 
@@ -34,17 +34,17 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. At least two killed in Toronto street festival shooting
+### 4. China evacuates nearly two million people as powerful typhoon makes landfall
 
-[原文] Police have urged the public to stay away from the area.
+[原文] Schools, work and outdoor activities have been suspended in Zhejiang province and many transport services cancelled.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. At least two killed in Toronto street festival shooting
+
+[原文] Police say there was an exchange of gunfire between two individuals at the festival, and two firearms had been recovered from the scene.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Trump administration subpoenas New York Times journalists over Air Force One reporting
-
-[原文] The reporters received the legal summons after they reported on alleged security issues with the president's new plane, which was gifted by Qatar.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. U.S. launches airstrikes against Iran after Tehran attacks container ship in Hormuz, Pentagon says
+### 1. Senator Lindsey Graham has died after a brief illness, his office says
+
+[原文] Graham, a prominent Republican senator from South Carolina, was 71.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/12/senator-lindsey-graham-has-died-after-a-brief-illness-his-office-says.html) — *CNBC*
+
+### 2. U.S. launches airstrikes against Iran after Tehran attacks container ship in Hormuz, Pentagon says
 
 [原文] Iran has attacked ships using a route along Oman's coast protected by the U.S. military. Tehran demands vessels use a northern route through its waters.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/11/us-airstrikes-iran-strait-hormuz.html) — *CNBC*
 
-### 2. 'Funflation' hits home: Why staying in isn't the cost-saver it used to be
+### 3. ‘Almost unlimited’: Execs says AI demand remains strong even as enterprises move to ‘valuemaxxing’
+
+[原文] AI-related chip stocks have been volatile amid a debate over AI demand and spending.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/12/ai-demand-chips-data-centers-stock-volatility.html) — *CNBC*
+
+### 4. 'Funflation' hits home: Why staying in isn't the cost-saver it used to be
 
 [原文] Following a wave of price hikes, at-home pastimes like streaming movies or playing video games are pinching pocketbooks.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/11/funflation-streaming-video-games-xbox-apple-disney-netflix.html) — *CNBC*
 
-### 3. Apple sues OpenAI alleging trade secret theft, says scheme was 'at every level'
+### 5. Apple sues OpenAI alleging trade secret theft, says scheme was 'at every level'
 
 [原文] The two companies entered into a high-profile partnership in 2024 when ChatGPT was integrated into the iPhone's operating system.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html) — *CNBC*
-
-### 4. Burnout, frustration and heartbreak: Amazon layoffs take their toll in saturated job market
-
-[原文] In the eight-plus months since Amazon announced its most expansive job cuts ever, laid off workers have been thrust into an increasingly saturated labor market.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/11/burnout-frustration-and-heartbreak-amazon-layoffs-take-their-toll.html) — *CNBC*
-
-### 5. New housing law targets affordability — what it means for homebuyers and sellers
-
-[原文] While the legislation is aimed at least partly at addressing affordability, experts say the benefits of the measure will take time to show up in the market.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/11/21st-century-road-to-housing-act-homebuyers-sellers.html) — *CNBC*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Tuchel angry at 'lucky' and 'sloppy' England – can 'mentality' be enough?
+### 1. Magic from Álvarez, not Messi, sees Argentina thro...
 
-[原文] England head coach Thomas Tuchel is praised by former England players for saying his players "got lucky" in World Cup quarter-final win over Norway – but match-winner Jude Bellingham disagrees.
+[原文] It wasn't Lionel Messi coming up with the goods, but Argentina's supporting cast stepped up after the Switzerland defense muted their captain.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ckg474ekv58o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49340137/magic-alvarez-sees-argentina-world-cup-semis) — *ESPN*
 
-### 2. 'He has dragged them through all tournament' - England player ratings
+### 2. World Cup VAR review: Embolo tears -- did the Swis...
 
-[原文] BBC Sport's England reporter Alex Howell rates the players after the Three Lions beat Norway to reach the World Cup semi-finals.
+[原文] We look at the major incidents and explain the process in terms of both VAR protocol and the laws of the game.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ckg0qpjeeryo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49027532/world-cup-2026-var-review-red-card-penalty-handball-goal-line-technology) — *ESPN*
 
-### 3. Who else? How Bellingham became indispensable again
+### 3. Álvarez's screamer a 'huge release' for Argentina
 
-[原文] Senior football correspondent Sami Mokbel charts Jude Bellingham's remarkable resurgence with England at the World Cup.
+[原文] Julián Álvarez said he felt a 'huge release of emotions' after he scored his first World Cup goal for Argentina to propel his team into the semifinals against England.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ckg47l8nl7jo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49340795/julian-alvarez-extra-screamer-fires-argentina-semifinals-world-cup) — *ESPN*
 
-### 4. BBC to show England's World Cup semi-final
+### 4. McGregor injures leg on opening kick; fight called...
 
-[原文] England's World Cup semi-final against Argentina or Switzerland will be broadcast live on BBC One and BBC iPlayer.
+[原文] Conor McGregor's much-anticipated UFC return lasted just 69 seconds Saturday, as he injured his right leg during his fight with Max Holloway and was forced to retire.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cx268mlg3lgo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/mma/story/_/id/49340329/mcgregor-injures-leg-opening-kick-vs-holloway-ufc-329) — *ESPN*
 
-### 5. Bellingham scores extra-time winner as England reach semi-finals
+### 5. Niners part owner agrees to purchase Seahawks
 
-[原文] Jude Bellingham scores twice, including an extra-time winner, as England come from behind to beat Norway 2-1 in Miami to reach the World Cup semi-finals.
+[原文] A group led by Niners limited partner Vinod Khosla has agreed to purchase the Seahawks, with sources telling ESPN the selling price will be a record $9.612 billion. The Khosla family will be required 
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cjrgww8vr98o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/nfl/story/_/id/49337716/khosla-led-group-agrees-buy-seahawks-sources-say-96-billion) — *ESPN*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘Love Island USA’ Contestant Corbin on His ‘Humiliating’ Elimination, the Nickname ‘CorbinGPT’ and His Friendship With Sincere: ‘I Forgive But I Don’t Forget’
+### 1. ‘Five Years, Four Months’ Review: Moving Portrait of a Grieving Colombian Mother Demonstrates an Impressive Control of Tension
+
+[原文] Thousands of people in Colombia have been “forcibly disappeared”, as the euphemistic expression goes, since conflicts began in the mid-1960s between the Colombian government and various paramilitary a
+
+📎 [阅读原文](https://variety.com/2026/film/reviews/five-years-four-months-review-1236807446/) — *Variety*
+
+### 2. Jay-Z Celebrates ‘The Blueprint’ 25th Anniversary With Eminem, Pharrell Williams and Slick Rick at Yankee Stadium
+
+[原文] Jay-Z was almost entirely truthful to the source material for his 25th anniversary Yankee Stadium show on Saturday to celebrate “The Blueprint,” setting guests artists to high wattage but low frequenc
+
+📎 [阅读原文](https://variety.com/2026/music/news/jay-z-celebrates-the-blueprint-eminem-pharrell-slick-rick-1236807102/) — *Variety*
+
+### 3. ‘Love Island USA’ Contestant Corbin on His ‘Humiliating’ Elimination, the Nickname ‘CorbinGPT’ and His Friendship With Sincere: ‘I Forgive But I Don’t Forget’
 
 [原文] “Love Island USA” Season 8 contestant Corbin admits his elimination felt “humiliating.” But unlike other recently dumped couples like Jen and Gal, Corbin left feeling hopeful for the future while hold
 
 📎 [阅读原文](https://variety.com/2026/tv/features/love-island-usa-corbin-elimination-corbingpt-sincere-melanie-movie-night-1236806166/) — *Variety*
 
-### 2. Tech Investor Vinod Khosla to Acquire the NFL’s Seattle Seahawks for $9.6 Billion
+### 4. Tech Investor Vinod Khosla to Acquire the NFL’s Seattle Seahawks for $9.6 Billion
 
 [原文] Tech billionaire Vinod Khosla and his family have reached an agreement to buy the Seattle Seahawks for $9.6 billion, according to people familiar with the details, as reported by Variety&#8216;s sibli
 
 📎 [阅读原文](https://variety.com/2026/tv/news/vinod-khosla-buy-nfl-seattle-seahawks-paul-allen-49ers-1236807365/) — *Variety*
 
-### 3. Emmy Nominations Roundtable: ‘The Pitt’ and ‘Hacks’ Dominate, But ‘Widow’s Bay’ and ‘Pluribus’ Are Waiting in the Wings
+### 5. Emmy Nominations Roundtable: ‘The Pitt’ and ‘Hacks’ Dominate, But ‘Widow’s Bay’ and ‘Pluribus’ Are Waiting in the Wings
 
 [原文] At 25 noms, is “The Pitt” heading toward its second consecutive drama win? In breaking the record for most comedy noms ever, is “Hacks” a shoo-in? What happened to “Half Man”? How did “Dancing With th
 
 📎 [阅读原文](https://variety.com/2026/tv/awards/emmy-nominations-roundtable-the-pitt-hacks-podcast-1236807336/) — *Variety*
-
-### 4. Jack White Keeps Rock ‘n’ Roll on the Front Burner in ‘Frozen Charlotte,’ His Heavy and Blazingly Worthy ‘No Name’ Followup: Album Review
-
-[原文] The first question most Jack White fans are looking to have answered to when it comes to his new album, &#8220;Frozen Charlotte&#8221;: Is it effectively a &#8220;No Name 2.0&#8221;? Nearly everyone i
-
-📎 [阅读原文](https://variety.com/2026/music/album-reviews/jack-white-frozen-charlotte-album-revew-1236807326/) — *Variety*
-
-### 5. ‘Elle’ Bosses on Lexi Minetree’s Elle Woods Transformation and How the Late James Van Der Beek Rewrote His Character’s Ending
-
-[原文] SPOILER ALERT: This story contains key plot details, including the ending, for “Elle,” now streaming on Amazon’s Prime Video. Where most showrunners spend the days before their series&#8217; debut wor
-
-📎 [阅读原文](https://variety.com/2026/tv/features/elle-legally-blonde-james-van-der-beek-season-2-1236801616/) — *Variety*
 
 ---
 
@@ -515,7 +515,7 @@ The post 460,000 Kia Tellurides Must Go Back
 - **💰 经济财经**: CNBC
 - **💻 科技**: TechCrunch
 - **🔬 科学**: Science Daily
-- **⚽ 体育**: BBC Sport
+- **⚽ 体育**: ESPN
 - **🎬 娱乐**: Variety
 - **🏥 健康**: WHO
 - **🎮 游戏**: IGN
