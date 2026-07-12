@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月12日** | 生成时间: 2026-07-12 16:23
+**2026年07月12日** | 生成时间: 2026-07-12 21:37
 
 ---
 
@@ -22,17 +22,17 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. US Senator Lindsey Graham dies after 'brief and sudden illness', his office says
+### 2. US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'
 
-[原文] The influential politician has just returned from Kyiv, where he met Ukraine's President Volodymyr Zelensky on Friday.
+[原文] Donald Trump paid tribute to the 71-year-old South Carolina senator, calling him a "true American patriot" who will be "greatly missed".
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. T. rex could become most expensive fossil ever - but it's a ​problem for scientists
+### 3. Badly burned British couple rescued from ravine during Spain wildfires, reports say
 
-[原文] A 67 million-year-old Tyrannosaurus rex will go on sale in New York with a pre-sale value of $30m.
+[原文] The unnamed pair were found semi-conscious with 40% burns after being trapped by the blazes raging through Almeria province, according to local media
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 4. China evacuates nearly two million people as powerful typhoon makes landfall
 
@@ -54,9 +54,9 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Senator Lindsey Graham has died after a brief illness, his office says
+### 1. Sen. Lindsey Graham, influential lawmaker and Trump ally,  dies at 71 after a brief illness
 
-[原文] Graham, a prominent Republican senator from South Carolina, was 71.
+[原文] Graham, a prominent Republican senator from South Carolina, was 71. His office announced his death and said he had just returned from a trip to Ukraine.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/12/senator-lindsey-graham-has-died-after-a-brief-illness-his-office-says.html) — *CNBC*
 
@@ -66,23 +66,23 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/11/us-airstrikes-iran-strait-hormuz.html) — *CNBC*
 
-### 3. ‘Almost unlimited’: Execs says AI demand remains strong even as enterprises move to ‘valuemaxxing’
+### 3. Majority of U.S. workers support an AI wealth fund as tech layoffs surge, survey finds
+
+[原文] A majority of U.S. employees now want an AI sovereign wealth fund to hold corporations more accountable, according to a recent survey, as tech layoffs rise.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/12/majority-of-us-workers-support-ai-fund-amid-tech-layoffs-survey.html) — *CNBC*
+
+### 4. ‘Almost unlimited’: Execs says AI demand remains strong even as enterprises move to ‘valuemaxxing’
 
 [原文] AI-related chip stocks have been volatile amid a debate over AI demand and spending.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/12/ai-demand-chips-data-centers-stock-volatility.html) — *CNBC*
 
-### 4. 'Funflation' hits home: Why staying in isn't the cost-saver it used to be
+### 5. 'Funflation' hits home: Why staying in isn't the cost-saver it used to be
 
 [原文] Following a wave of price hikes, at-home pastimes like streaming movies or playing video games are pinching pocketbooks.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/11/funflation-streaming-video-games-xbox-apple-disney-netflix.html) — *CNBC*
-
-### 5. Apple sues OpenAI alleging trade secret theft, says scheme was 'at every level'
-
-[原文] The two companies entered into a high-profile partnership in 2024 when ChatGPT was integrated into the iPhone's operating system.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html) — *CNBC*
 
 ---
 
@@ -130,35 +130,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Columbia scientists discover surprising link between serotonin and heart valve disease
+### 1. Scientists discover how the brain rewires itself to truly multitask
+
+[原文] Practice may do more than make perfect. Researchers found that extensive training physically reorganizes the brain, allowing learned tasks to bypass the prefrontal cortex and run through specialized c
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260712011912.htm) — *Science Daily*
+
+### 2. Columbia scientists discover surprising link between serotonin and heart valve disease
 
 [原文] Scientists have uncovered evidence that serotonin, the chemical best known for regulating mood, may also speed the progression of a common heart valve disease in some people. The research suggests tha
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260711010131.htm) — *Science Daily*
 
-### 2. Second pregnancy changes the brain in surprising new ways
+### 3. Deep-sea life has a secret food source scientists never expected
+
+[原文] Scientists discovered that extreme deep-sea pressure squeezes valuable nutrients out of sinking organic particles, providing an unexpected food source for ocean microbes. The finding could rewrite our
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260711010127.htm) — *Science Daily*
+
+### 4. Second pregnancy changes the brain in surprising new ways
 
 [原文] Researchers found that every pregnancy rewires the brain in its own way, with a second pregnancy bringing a different pattern of changes than the first. The discoveries could lead to better ways to re
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260711010125.htm) — *Science Daily*
 
-### 3. Physicists finally build a quantum material predicted more than a decade ago
+### 5. Physicists finally build a quantum material predicted more than a decade ago
 
 [原文] Researchers have achieved a major milestone by creating a long-sought two-dimensional quantum material and confirming its unusual conducting edge states. The ability to control these states through st
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260711010123.htm) — *Science Daily*
-
-### 4. Experimental drug reverses severe fatty liver disease by repairing the gut
-
-[原文] An experimental drug called DT-109 reversed severe fatty liver disease in animal studies by repairing the gut and preventing harmful toxins from damaging the liver. The discovery could open the door t
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260711010116.htm) — *Science Daily*
-
-### 5. Tiny bubbles could revolutionize inkjet printing
-
-[原文] Ultra-fine bubbles may offer a cleaner way to perfect inkjet printing for next-generation electronics. By simply changing the number of bubbles in each droplet, researchers were able to dramatically r
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260711010112.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Magic from Álvarez, not Messi, sees Argentina thro...
+### 1. McCullum sacked as England Test head coach
 
-[原文] It wasn't Lionel Messi coming up with the goods, but Argentina's supporting cast stepped up after the Switzerland defense muted their captain.
+[原文] England are now without a Test head coach and captain as Brendon McCullum leaves after four years in the role.
 
-📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49340137/magic-alvarez-sees-argentina-world-cup-semis) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c8028vm2g9ro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. World Cup VAR review: Embolo tears -- did the Swis...
+### 2. 'Not happy with the performance' - so why do England keep winning?
 
-[原文] We look at the major incidents and explain the process in terms of both VAR protocol and the laws of the game.
+[原文] Football tactics correspondent Umir Irfan examines why England are still winning games despite Thomas Tuchel insisting performances are not good.
 
-📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49027532/world-cup-2026-var-review-red-card-penalty-handball-goal-line-technology) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c7vy25lqll6o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Álvarez's screamer a 'huge release' for Argentina
+### 3. Rice in bed for nearly three days before Norway game - Tuchel
 
-[原文] Julián Álvarez said he felt a 'huge release of emotions' after he scored his first World Cup goal for Argentina to propel his team into the semifinals against England.
+[原文] England boss Thomas Tuchel says Declan Rice was in bed for most of the three days prior to the World Cup quarter-final win against Norway because of a sickness bug.
 
-📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49340795/julian-alvarez-extra-screamer-fires-argentina-semifinals-world-cup) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cpd3wv3v1eeo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. McGregor injures leg on opening kick; fight called...
+### 4. Champion Sinner wary of Zverev before Wimbledon final
 
-[原文] Conor McGregor's much-anticipated UFC return lasted just 69 seconds Saturday, as he injured his right leg during his fight with Max Holloway and was forced to retire.
+[原文] Recent history suggests Jannik Sinner should be confident of retaining his Wimbledon title - but he is wary of French Open champion Alexander Zverev.
 
-📎 [阅读原文](https://www.espn.com/mma/story/_/id/49340329/mcgregor-injures-leg-opening-kick-vs-holloway-ufc-329) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cy8dlpvxpvmo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Niners part owner agrees to purchase Seahawks
+### 5. The highs and lows of Bazball
 
-[原文] A group led by Niners limited partner Vinod Khosla has agreed to purchase the Seahawks, with sources telling ESPN the selling price will be a record $9.612 billion. The Khosla family will be required 
+[原文] BBC Sport looks at the highs and lows of Brendon McCullum's era as England Test head coach following his sacking.
 
-📎 [阅读原文](https://www.espn.com/nfl/story/_/id/49337716/khosla-led-group-agrees-buy-seahawks-sources-say-96-billion) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c4grpj0lz7ro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -363,35 +363,35 @@ The post 460,000 Kia Tellurides Must Go Back
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Recent Earthquakes Expose Problems with Venezuela’s Disaster Preparedness and Response, Scientists Say
+### 1. In Gambia, Salt Water Intrusion Is the Leading Edge of Climate Change
+
+[原文] BANTANG KILLING, Gambia—In this little village in West Africa, Ebrima Nyan is watching his farmland slowly wither away. When Nyan, 47, was a teenager, the village grew all the rice it consumed, in a f
+
+📎 [阅读原文](https://insideclimatenews.org/news/12072026/gambia-sea-level-rise-agricultural-crisis/) — *Inside Climate News*
+
+### 2. Herring and Herons: Signs of the Charles River’s Vast Improvement
+
+[原文] This article previously appeared in Cambridge Day. From Boston’s Museum of Science to the Watertown Dam, the Charles River this spring was rife with river herring swirling in the water like scores of 
+
+📎 [阅读原文](https://insideclimatenews.org/news/12072026/herring-and-herons-signs-of-the-charles-rivers-vast-improvement/) — *Inside Climate News*
+
+### 3. Recent Earthquakes Expose Problems with Venezuela’s Disaster Preparedness and Response, Scientists Say
 
 [原文] When Antonio Machado Allison assisted with earthquake response efforts in Venezuela’s capital of Caracas in 1967, he felt confident in the way the government mobilized its teams. When he arrived, Alli
 
 📎 [阅读原文](https://insideclimatenews.org/news/11072026/venezuela-earthquakes-expose-disaster-preparedness-issues/) — *Inside Climate News*
 
-### 2. The Case of the (France-Sized) Missing Antarctic Ice
+### 4. The Case of the (France-Sized) Missing Antarctic Ice
 
 [原文] From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by producer Aynsley O’Neill with UC Boulder senior research scientist Ted Scambos.&#160; Midsum
 
 📎 [阅读原文](https://insideclimatenews.org/news/11072026/antarctica-missing-ice/) — *Inside Climate News*
 
-### 3. As It Celebrates the Nation’s Past, Philadelphia Braces for a Hotter Future
+### 5. As It Celebrates the Nation’s Past, Philadelphia Braces for a Hotter Future
 
 [原文] PHILADELPHIA—To Eric Klinenberg, a packed stadium in 101-degree heat offering limited water access for fans was a “formula for disaster.”&#160; This was the scene that met the sociologist, who wrote a
 
 📎 [阅读原文](https://insideclimatenews.org/news/10072026/philadelphia-heat-wave-tests-climate-resilience/) — *Inside Climate News*
-
-### 4. Global Oil Demand Falls for the First Time Since COVID
-
-[原文] Global oil demand, disrupted by the Iran war, is poised to shrink in 2026, the first time that’s happened since the COVID-19 pandemic, the International Energy Agency said on Friday. What’s unclear is
-
-📎 [阅读原文](https://insideclimatenews.org/news/10072026/global-oil-demand-declines/) — *Inside Climate News*
-
-### 5. Meet ICN’s 2026 Class of Summer Environmental Reporting Fellows
-
-[原文] Thirteen collegiate and post-collegiate journalists have joined Inside Climate News as reporting fellows this summer.&#160; ICN’s summer 2026 fellowship class, its largest to date, draws from current 
-
-📎 [阅读原文](https://insideclimatenews.org/news/10072026/2026-summer-fellows/) — *Inside Climate News*
 
 ---
 
@@ -515,7 +515,7 @@ The post 460,000 Kia Tellurides Must Go Back
 - **💰 经济财经**: CNBC
 - **💻 科技**: TechCrunch
 - **🔬 科学**: Science Daily
-- **⚽ 体育**: ESPN
+- **⚽ 体育**: BBC Sport
 - **🎬 娱乐**: Variety
 - **🏥 健康**: WHO
 - **🎮 游戏**: IGN
