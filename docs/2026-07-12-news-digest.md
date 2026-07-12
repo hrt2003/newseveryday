@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月12日** | 生成时间: 2026-07-12 03:09
+**2026年07月12日** | 生成时间: 2026-07-12 11:20
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Iran must pledge to stop shooting at ships in Strait of Hormuz, US officials say
+### 1. US launches fresh strikes as Iran closes Strait of Hormuz
 
-[原文] US media say Iran has told US officials an attack on ships crossing the strait early this week was "a mistake".
+[原文] The strikes follow an attack on a Cyrpus-flagged vessel travelling through the critical waterway.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Spain battles to contain one of its deadliest wildfires as at least 12 killed
-
-[原文] At least four Britons are believed to be among the victims of the blaze, which left another 23 people missing.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 3. Trump administration subpoenas New York Times journalists over Air Force One reporting
-
-[原文] The reporters received the legal summons after they reported on alleged security issues with the president's new plane, which was gifted by Qatar.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. China's second typhoon in a week makes landfall
+### 2. China's second typhoon in a week makes landfall
 
 [原文] Nearly two million people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Indian tourists among 15 killed as speedboat capsizes in Vietnam
+### 3. T. rex could become most expensive fossil ever - but it's a ​problem for scientists
 
-[原文] Local media say 21 people were saved after the boat overturned in rough seas near an island in south Vietnam.
+[原文] A 67 million-year-old Tyrannosaurus rex will go on sale in New York with a pre-sale value of $30m.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwyd7x22lp1o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. At least two killed in Toronto street festival shooting
+
+[原文] Police have urged the public to stay away from the area.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Trump administration subpoenas New York Times journalists over Air Force One reporting
+
+[原文] The reporters received the legal summons after they reported on alleged security issues with the president's new plane, which was gifted by Qatar.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,17 +54,17 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. 'Funflation' hits home: Why staying in isn't the cost-saver it used to be
+### 1. U.S. launches airstrikes against Iran after Tehran attacks container ship in Hormuz, Pentagon says
+
+[原文] Iran has attacked ships using a route along Oman's coast protected by the U.S. military. Tehran demands vessels use a northern route through its waters.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/11/us-airstrikes-iran-strait-hormuz.html) — *CNBC*
+
+### 2. 'Funflation' hits home: Why staying in isn't the cost-saver it used to be
 
 [原文] Following a wave of price hikes, at-home pastimes like streaming movies or playing video games are pinching pocketbooks.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/11/funflation-streaming-video-games-xbox-apple-disney-netflix.html) — *CNBC*
-
-### 2. Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier
-
-[原文] Trump says 1,000 missiles are "locked and loaded" and will hit Iran if it carries out its threats to assassinate the U.S. president.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/11/trump-threat.html) — *CNBC*
 
 ### 3. Apple sues OpenAI alleging trade secret theft, says scheme was 'at every level'
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Smart glasses without a camera? Even Realities bets productivity beats recording everyone
+### 1. Reed Jobs would rather talk about curing cancer than his last name
+
+[原文] When we last sat down with Jobs at TechCrunch Disrupt nearly three years ago, his firm Yosemite was brand new and biotech was still reeling from its post-pandemic crash. Now, the venture outfit has a 
+
+📎 [阅读原文](https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/) — *TechCrunch*
+
+### 2. This slushie machine was a lifesaver during NYC’s heat wave
+
+[原文] Last weekend&#8217;s brutal NYC heat wave had me craving a frozen drink almost every afternoon. Normally, that would mean sweating through a walk to 7-Eleven for a slurpee. This time, though, I stayed
+
+📎 [阅读原文](https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/) — *TechCrunch*
+
+### 3. Smart glasses without a camera? Even Realities bets productivity beats recording everyone
 
 [原文] The glasses are targeted at people who might be constantly in meetings, giving presentations, and traveling to countries where different languages are spoken.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/) — *TechCrunch*
 
-### 2. OpenAI bets on families as ChatGPT goes deeper into households
+### 4. OpenAI bets on families as ChatGPT goes deeper into households
 
 [原文] ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/) — *TechCrunch*
 
-### 3. US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals
+### 5. US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals
 
 [原文] Independent cybersecurity journalist Brian Krebs reported in May that a security researcher with cyber firm GitGuardian alerted him to reams of exposed passwords stored in a publicly accessible GitHub
 
 📎 [阅读原文](https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/) — *TechCrunch*
-
-### 4. Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn
-
-[原文] Phia, the shopping startup founded by Bill Gates’ daughter, Phoebe, and her friend Sophia Kianni is under fire for a practice known as “cookie stuffing,” which helped the product receive commissions a
-
-📎 [阅读原文](https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/) — *TechCrunch*
-
-### 5. Meta removes controversial AI feature on Instagram after backlash
-
-[原文] "Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way," the company said in a blog post. "We've heard the feedb
-
-📎 [阅读原文](https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/) — *TechCrunch*
 
 ---
 
@@ -130,35 +130,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Second pregnancy changes the brain in surprising new ways
+### 1. Columbia scientists discover surprising link between serotonin and heart valve disease
+
+[原文] Scientists have uncovered evidence that serotonin, the chemical best known for regulating mood, may also speed the progression of a common heart valve disease in some people. The research suggests tha
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260711010131.htm) — *Science Daily*
+
+### 2. Second pregnancy changes the brain in surprising new ways
 
 [原文] Researchers found that every pregnancy rewires the brain in its own way, with a second pregnancy bringing a different pattern of changes than the first. The discoveries could lead to better ways to re
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260711010125.htm) — *Science Daily*
 
-### 2. Physicists finally build a quantum material predicted more than a decade ago
+### 3. Physicists finally build a quantum material predicted more than a decade ago
 
 [原文] Researchers have achieved a major milestone by creating a long-sought two-dimensional quantum material and confirming its unusual conducting edge states. The ability to control these states through st
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260711010123.htm) — *Science Daily*
 
-### 3. Experimental drug reverses severe fatty liver disease by repairing the gut
+### 4. Experimental drug reverses severe fatty liver disease by repairing the gut
 
 [原文] An experimental drug called DT-109 reversed severe fatty liver disease in animal studies by repairing the gut and preventing harmful toxins from damaging the liver. The discovery could open the door t
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260711010116.htm) — *Science Daily*
 
-### 4. Tiny bubbles could revolutionize inkjet printing
+### 5. Tiny bubbles could revolutionize inkjet printing
 
 [原文] Ultra-fine bubbles may offer a cleaner way to perfect inkjet printing for next-generation electronics. By simply changing the number of bubbles in each droplet, researchers were able to dramatically r
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260711010112.htm) — *Science Daily*
-
-### 5. Scientists warn invasive Asian mantises are threatening Europe's wildlife
-
-[原文] Two striking Asian praying mantis species that have rapidly spread across Europe have now been officially classified as invasive, raising new concerns about their impact on native wildlife. Boosted by
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260710003540.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Noskova outlasts Muchova in Wimbledon final
+### 1. Tuchel angry at 'lucky' and 'sloppy' England – can 'mentality' be enough?
 
-[原文] Linda Noskova recovered from a second-set meltdown to overcome Karolina Muchova 6-2, 5-7, 6-3 in an all-Czech Wimbledon final on Saturday for her first Grand Slam trophy.
+[原文] England head coach Thomas Tuchel is praised by former England players for saying his players "got lucky" in World Cup quarter-final win over Norway – but match-winner Jude Bellingham disagrees.
 
-📎 [阅读原文](https://www.espn.com/tennis/story/_/id/49335314/linda-noskova-recovers-2nd-set-meltdown-win-wimbledon) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ckg474ekv58o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. White Sox take UCLA SS Cholowsky with top pick
+### 2. 'He has dragged them through all tournament' - England player ratings
 
-[原文] The White Sox selected UCLA shortstop Roch Cholowsky on Saturday with the first pick of the MLB amateur draft.
+[原文] BBC Sport's England reporter Alex Howell rates the players after the Three Lions beat Norway to reach the World Cup semi-finals.
 
-📎 [阅读原文](https://www.espn.com/mlb/story/_/id/49335387/ucla-roch-cholowsky-taken-no-1-overall-draft-white-sox) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ckg0qpjeeryo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Sources: Bam struck Herro in Vegas altercation
+### 3. Who else? How Bellingham became indispensable again
 
-[原文] Former Heat teammates Bam Adebayo and Tyler Herro got into a physical altercation at a practice court in a Las Vegas hotel Friday morning, during which Adebayo struck Herro in the head area, sources t
+[原文] Senior football correspondent Sami Mokbel charts Jude Bellingham's remarkable resurgence with England at the World Cup.
 
-📎 [阅读原文](https://www.espn.com/nba/story/_/id/49328387/heat-bam-adebayo-bucks-tyler-herro-got-physical-altercation-las-vegas) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ckg47l8nl7jo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Day after cycle, White Sox OF Peters an All-Star
+### 4. BBC to show England's World Cup semi-final
 
-[原文] White Sox outfielder Tristan Peters, who hit for the cycle Friday, was named to the American League All-Star team as an injury replacement Saturday.
+[原文] England's World Cup semi-final against Argentina or Switzerland will be broadcast live on BBC One and BBC iPlayer.
 
-📎 [阅读原文](https://www.espn.com/mlb/story/_/id/49335616/white-sox-tristan-peters-named-al-all-star-replacement) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cx268mlg3lgo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. South Africa's Adams, who played at WC, dies at 25...
+### 5. Bellingham scores extra-time winner as England reach semi-finals
 
-[原文] South Africa and Mamelodi Sundowns midfielder Jayden Adams has died aged 25, the South African Football Players Union has confirmed.
+[原文] Jude Bellingham scores twice, including an extra-time winner, as England come from behind to beat Norway 2-1 in Miami to reach the World Cup semi-finals.
 
-📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49333373/south-africa-midfielder-jayden-adams-dies-aged-25-weeks-world-cup-appearance) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cjrgww8vr98o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Indonesian Virtual-Production Horror Feature ‘Whispers of Fatimah’ Sets September Release, Unveils First-Look Video (EXCLUSIVE)
+### 1. ‘Love Island USA’ Contestant Corbin on His ‘Humiliating’ Elimination, the Nickname ‘CorbinGPT’ and His Friendship With Sincere: ‘I Forgive But I Don’t Forget’
 
-[原文] Mystery horror feature &#8220;Bisikan Desa Gringsing: Whispers of Fatimah&#8221; has released its first-look video and locked in a September Indonesian theatrical opening, producers Mandela Pictures a
+[原文] “Love Island USA” Season 8 contestant Corbin admits his elimination felt “humiliating.” But unlike other recently dumped couples like Jen and Gal, Corbin left feeling hopeful for the future while hold
 
-📎 [阅读原文](https://variety.com/2026/film/news/whispers-of-fatimah-release-date-first-look-video-1236806380/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/features/love-island-usa-corbin-elimination-corbingpt-sincere-melanie-movie-night-1236806166/) — *Variety*
 
-### 2. ‘I Will Find You’: Logan Browning on Sam Worthington Teaching Her How to Reload a Gun and the Show’s Wild Action Scenes: ‘I Can Hop Buildings, Didn’t You Know That?’
+### 2. Tech Investor Vinod Khosla to Acquire the NFL’s Seattle Seahawks for $9.6 Billion
 
-[原文] Logan Browning had just moved from Los Angeles to Atlanta when she was offered the role of FBI agent Sarah Greer in Harlan Coben’s latest Netflix hit series “I Will Find You.” “Maybe there’s something
+[原文] Tech billionaire Vinod Khosla and his family have reached an agreement to buy the Seattle Seahawks for $9.6 billion, according to people familiar with the details, as reported by Variety&#8216;s sibli
 
-📎 [阅读原文](https://variety.com/2026/streaming/columns/i-will-find-you-logan-browning-sam-worthington-guns-1236807256/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/vinod-khosla-buy-nfl-seattle-seahawks-paul-allen-49ers-1236807365/) — *Variety*
 
-### 3. ‘Moana’ Creatives on Working Closely to Honor Polynesian Culture and Traditions, and Why Representation Matters in the Live-Action Film
+### 3. Emmy Nominations Roundtable: ‘The Pitt’ and ‘Hacks’ Dominate, But ‘Widow’s Bay’ and ‘Pluribus’ Are Waiting in the Wings
 
-[原文] Dwayne Johnson can finally rejoice. At the premiere of Disney’s live-action “Moana,” the star said that, growing up, he didn’t see himself represented in the media. “‘Indiana Jones’ inspired me. When 
+[原文] At 25 noms, is “The Pitt” heading toward its second consecutive drama win? In breaking the record for most comedy noms ever, is “Hacks” a shoo-in? What happened to “Half Man”? How did “Dancing With th
 
-📎 [阅读原文](https://variety.com/2026/film/features/moana-creatives-polynesian-culture-traditions-1236807177/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/awards/emmy-nominations-roundtable-the-pitt-hacks-podcast-1236807336/) — *Variety*
 
-### 4. Myanmar-Set ‘Fruit Gathering’ Wins at Karlovy Vary: ‘Harrowing Drama of Obsession and Queer Desire’
+### 4. Jack White Keeps Rock ‘n’ Roll on the Front Burner in ‘Frozen Charlotte,’ His Heavy and Blazingly Worthy ‘No Name’ Followup: Album Review
 
-[原文] Aung Phyoe&#8217;s “Fruit Gathering” won the Crystal Globe at Karlovy Vary Film Festival on Saturday.  Set in contemporary Myanmar, it follows the friendship and connection that forms between two youn
+[原文] The first question most Jack White fans are looking to have answered to when it comes to his new album, &#8220;Frozen Charlotte&#8221;: Is it effectively a &#8220;No Name 2.0&#8221;? Nearly everyone i
 
-📎 [阅读原文](https://variety.com/2026/awards/awards/fruit-gathering-karlovy-vary-crystal-globe-juliette-binoche-1236807179/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/album-reviews/jack-white-frozen-charlotte-album-revew-1236807326/) — *Variety*
 
-### 5. UFC 329 Livestream: Here’s Where to Watch the McGregor vs. Holloway Rematch Online
+### 5. ‘Elle’ Bosses on Lexi Minetree’s Elle Woods Transformation and How the Late James Van Der Beek Rewrote His Character’s Ending
 
-[原文] After Justin Gaethje defeated Ilia Topuria in a TKO to win the UFC Lightweight Championship belt during UFC Freedom 250 in June, the promotion company travels from Washington, D.C. to Las Vegas for UF
+[原文] SPOILER ALERT: This story contains key plot details, including the ending, for “Elle,” now streaming on Amazon’s Prime Video. Where most showrunners spend the days before their series&#8217; debut wor
 
-📎 [阅读原文](https://variety.com/2026/shopping/news/watch-ufc-329-conor-mcgregor-vs-holloway-2-live-online-free-1236804599/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/features/elle-legally-blonde-james-van-der-beek-season-2-1236801616/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Ryse: Son of Rome Had Plans To Be Xbox’s Assassin’s Creed
+### 1. TennoCon 2026: Everything Announced at the Warframe and Soulframe Fan Event
+
+[原文] Here's everything announced at TennoCon 2026, including all the latest news and trailers on Warframe and Soulframe.
+
+📎 [阅读原文](https://www.ign.com/articles/tennocon-2026-everything-announced-at-the-warframe-and-soulframe-fan-event) — *IGN*
+
+### 2. The Best Deals Today: LEGO Technic McLaren P1, Trails in the Sky 1st Chapter, 4K Blu-rays, and More
+
+暂无摘要。
+
+📎 [阅读原文](https://www.ign.com/articles/best-deals-for-july-11-2026) — *IGN*
+
+### 3. Ryse: Son of Rome Had Plans To Be Xbox’s Assassin’s Creed
 
 [原文] Ryse: Son of Rome was originally planned to explore multiple eras, Assassin's Creed style, before critical and commercial failure sank Crytek and Xbox's ambition.
 
 📎 [阅读原文](https://www.ign.com/articles/ryse-son-of-rome-had-plans-to-be-xboxs-assassins-creed) — *IGN*
 
-### 2. EU Says It's Powerless to Stop PlayStation From Killing Discs: 'Companies Are Free to Offer Games and Services in the Manner They See Fit'
+### 4. EU Says It's Powerless to Stop PlayStation From Killing Discs: 'Companies Are Free to Offer Games and Services in the Manner They See Fit'
 
 [原文] As gamers sign online petitions and swarm upon each and every PlayStation social media post, the EU has said it’s powerless to actually stop Sony — and indeed any company — from killing discs.
 
 📎 [阅读原文](https://www.ign.com/articles/eu-says-its-powerless-to-stop-playstation-from-killing-discs-companies-are-free-to-offer-games-and-services-in-the-manner-they-see-fit) — *IGN*
 
-### 3. The Odyssey Director Christopher Nolan Says 'AI Slop' Is Being 'Utterly Rejected' By Younger Audiences
+### 5. The Odyssey Director Christopher Nolan Says 'AI Slop' Is Being 'Utterly Rejected' By Younger Audiences
 
 [原文] The Odyssey director Christopher Nolan has offered his thoughts on the "immediate and harsh" judgment of "AI slop" from younger audiences.
 
 📎 [阅读原文](https://www.ign.com/articles/the-odyssey-director-christopher-nolan-says-ai-slop-is-being-utterly-rejected-by-younger-audiences) — *IGN*
-
-### 4. Fallout 5, The Elder Scrolls 6, Blade, and More: As Xbox Layoffs Hit Hard, What's Going on at Bethesda?
-
-[原文] Bethesda was hit hard by this week’s Xbox layoffs, with cuts to The Elder Scrolls and Fallout developer Bethesda Game Studios, Doom developer id Software, and The Elder Scrolls Online developer ZeniMa
-
-📎 [阅读原文](https://www.ign.com/articles/fallout-5-the-elder-scrolls-6-blade-and-more-as-xbox-layoffs-hit-hard-whats-going-on-at-bethesda) — *IGN*
-
-### 5. Assassin's Creed Black Flag Resynced Sales Reach 2 Million on Day 1
-
-[原文] Ubisoft has announced that Assassin's Creed Black Flag Resynced has passed 2 million copies sold in its first day since launch.
-
-📎 [阅读原文](https://www.ign.com/articles/assassins-creed-black-flag-resynced-sales-reach-2-million-on-day-1) — *IGN*
 
 ---
 
@@ -515,7 +515,7 @@ The post 460,000 Kia Tellurides Must Go Back
 - **💰 经济财经**: CNBC
 - **💻 科技**: TechCrunch
 - **🔬 科学**: Science Daily
-- **⚽ 体育**: ESPN
+- **⚽ 体育**: BBC Sport
 - **🎬 娱乐**: Variety
 - **🏥 健康**: WHO
 - **🎮 游戏**: IGN
