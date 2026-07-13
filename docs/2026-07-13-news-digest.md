@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月13日** | 生成时间: 2026-07-13 11:23
+**2026年07月13日** | 生成时间: 2026-07-13 17:34
 
 ---
 
@@ -16,29 +16,29 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. At least 27 killed, eight critically injured in Bangkok bar fire
+### 1. At least 27 killed, 22 critically injured after fire engulfs Bangkok bar
 
 [原文] Firefighters arrived at the scene in the Chatuchak district to find patrons running through flames to escape.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. US insists Strait of Hormuz is open as it exchanges strikes with Iran
-
-[原文] Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 3. US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'
+### 2. US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'
 
 [原文] A spokesman for the 71-year-old South Carolina senator says initial findings suggest Graham's cause of death was related to his heart.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Anthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era
+### 3. British couple return to village at heart of deadly Spanish wildfire
 
-[原文] The senator's career was marked by a willingness to adapt to America's dramatically changing political climate, writes the BBC's North America correspondent.
+[原文] At least 13 people, including five believed to be Britons, were killed by Thursday's wildfire in Spain's Almeria province.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/clyrdn216k2o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx24e09x79no?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. Planes sent to tackle wildfires of 'exceptional scale' near Paris
+
+[原文] It was the first time firefighting planes had been sent up from the normally drier and hotter south of the country to tackle fires in the Paris region.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 5. US Senator Mitch McConnell says absence due to fall and pneumonia
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Sen. Lindsey Graham, influential lawmaker and Trump ally,  dies at 71 after a brief illness
+### 1. U.S. and Iran exchange strikes as Strait of Hormuz standoff escalates
 
-[原文] Graham, a prominent Republican senator from South Carolina, had just returned from a trip to Ukraine.
+[原文] Iran responded to a fresh wave of strikes by U.S. forces by launching an attack on American military bases in several Gulf states.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/12/senator-lindsey-graham-has-died-after-a-brief-illness-his-office-says.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/13/us-iran-war-hormuz-oil-trump.html) — *CNBC*
 
-### 2. McConnell provides health update after long unexplained absence; says he suffered fall, pneumonia
-
-[原文] McConnell is the longest-serving party leader in Senate history.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/12/mcconnell-provides-health-update-after-long-unexplained-absence.html) — *CNBC*
-
-### 3. SK Hynix shares slide 10% in Seoul after stellar Nasdaq debut
-
-[原文] SK Hynix Inc. shares tumbled over 10% in Seoul on Monday after the chipmaker's blockbuster Nasdaq debut.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/13/sk-hynix-shares-fall-after-stellar-nasdaq-debut.html) — *CNBC*
-
-### 4. Graham’s death complicates myriad GOP goals in Congress
+### 2. Graham’s death complicates myriad GOP goals in Congress
 
 [原文] South Carolina Republican Sen. Lindsey Graham died unexpectedly at 71.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/12/grahams-death-policy-washington-save-america-ukraine-blanche-reconciliation.html) — *CNBC*
 
-### 5. Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit
+### 3. TSMC, the world's largest contract chipmaker, reports 68% surge in June revenue
+
+[原文] Ahead of its second-quarter earnings, TSMC reported its June and first-half revenue for 2026.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/13/tsmc-june-revenue-rises-percent-ahead-second-quarter.html) — *CNBC*
+
+### 4. Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit
 
 [原文] Sam Altman insisted that Elon Musk was again obsessed with him because of an OpenAI model release earlier this week.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/12/elon-musk-and-sam-altman-spar-.html) — *CNBC*
+
+### 5. McConnell provides health update after long unexplained absence; says he suffered fall, pneumonia
+
+[原文] McConnell is the longest-serving party leader in Senate history.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/12/mcconnell-provides-health-update-after-long-unexplained-absence.html) — *CNBC*
 
 ---
 
@@ -130,35 +130,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Scientists discover how the brain rewires itself to truly multitask
+### 1. Scientists discover a hidden heart valve risk linked to gum disease
+
+[原文] Researchers found that bacteria linked to gum disease may help drive the development of calcific aortic valve stenosis by triggering inflammation and calcium buildup in the heart valve. The early find
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260713000751.htm) — *Science Daily*
+
+### 2. Scientists discover how the brain rewires itself to truly multitask
 
 [原文] Practice may do more than make perfect. Researchers found that extensive training physically reorganizes the brain, allowing learned tasks to bypass the prefrontal cortex and run through specialized c
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260712011912.htm) — *Science Daily*
 
-### 2. Columbia scientists discover surprising link between serotonin and heart valve disease
+### 3. Spider-like creatures help uncover the surprising origins of fatherhood
+
+[原文] Citizen scientists have helped researchers solve a long-standing mystery about how parental care evolved in harvestmen. Using photos and observations from iNaturalist, scientists more than doubled the
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260712011737.htm) — *Science Daily*
+
+### 4. Columbia scientists discover surprising link between serotonin and heart valve disease
 
 [原文] Scientists have uncovered evidence that serotonin, the chemical best known for regulating mood, may also speed the progression of a common heart valve disease in some people. The research suggests tha
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260711010131.htm) — *Science Daily*
 
-### 3. Deep-sea life has a secret food source scientists never expected
+### 5. Deep-sea life has a secret food source scientists never expected
 
 [原文] Scientists discovered that extreme deep-sea pressure squeezes valuable nutrients out of sinking organic particles, providing an unexpected food source for ocean microbes. The finding could rewrite our
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260711010127.htm) — *Science Daily*
-
-### 4. Second pregnancy changes the brain in surprising new ways
-
-[原文] Researchers found that every pregnancy rewires the brain in its own way, with a second pregnancy bringing a different pattern of changes than the first. The discoveries could lead to better ways to re
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260711010125.htm) — *Science Daily*
-
-### 5. Physicists finally build a quantum material predicted more than a decade ago
-
-[原文] Researchers have achieved a major milestone by creating a long-sought two-dimensional quantum material and confirming its unusual conducting edge states. The ability to control these states through st
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260711010123.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. MLB draft tracker: Live results for every Day 2 pi...
+### 1. These are unprecedented times - England should enjoy them
 
-[原文] The 2026 MLB draft is in the books. Get by pick-by-pick coverage and a breakdown of every first-round pick.
+[原文] A record of four semi-finals in the past five international tournaments for England is outstanding. It is time to accept that this is where England belong.
 
-📎 [阅读原文](https://www.espn.com/mlb/story/_/id/49306565/2026-mlb-draft-tracker-live-updates-order-results-analysis-every-first-round-pick) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c932rqverkvo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Day 1 winners, losers: Just what you'd expect -- t...
+### 2. Borrowed shoes, no Golden Boot - the story of the World Cup's greatest scorer
 
-[原文] Who knocked it out of the park on Saturday?
+[原文] Just Fontaine's record of 13 goals in a single World Cup has stood for decades, but he never played in the tournament again after injury ended his career at the age of 28.
 
-📎 [阅读原文](https://www.espn.com/mlb/story/_/id/49306849/2026-mlb-draft-analysis-winners-losers-day-1-preview-day-2) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c621xndyd7no?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Sources: U-M regents to decide on AD Manuel soon
+### 3. From shock loss to Wimbledon title - resilient Sinner rises back to top
 
-[原文] The University of Michigan regents are expected to discuss an investigation into the culture of its athletic department on Thursday, sources told ESPN, and as part of the review, a decision on the fut
+[原文] For a brief moment after his shock French Open loss, Jannik Sinner appeared vulnerable. He answered the critics by storming to a second Wimbledon title.
 
-📎 [阅读原文](https://www.espn.com/college-sports/story/_/id/49346524/michigan-regents-discuss-investigation-thursday) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cx2v84zje83o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Sources: Warriors to hire Vogel as associate coach...
+### 4. Infantino opens door to 64-team World Cup
 
-[原文] The Warriors agreed to hire longtime NBA coach Frank Vogel as the associate head coach under Steve Kerr, league sources told ESPN, filling the void left by the departing Terry Stotts.
+[原文] Plans for a 64-team men's world cup are set to be picked up and assessed in detail after the 2026 tournament with Fifa boss Gianni Infantino saying football needs to be "for the whole world".
 
-📎 [阅读原文](https://www.espn.com/nba/story/_/id/49346659/sources-warriors-hire-frank-vogel-associate-head-coach) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cj9gm31jwg8o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Sinner dispatches Zverev, defends Wimbledon title
+### 5. Tears of joy & Tiger text as Kim wins, but McIlroy has problem to fix
 
-[原文] Top-ranked Jannik Sinner beat Alexander Zverev 6-7 (7), 7-6 (2), 6-3, 6-4 for his second consecutive Wimbledon title and fifth Grand Slam crown.
+[原文] Tom Kim excels in the final round to claim his first title in three years with a two-shot victory at the 2026 Genesis Scottish Open.
 
-📎 [阅读原文](https://www.espn.com/tennis/story/_/id/49344990/jannik-sinner-beats-alexander-zverev-defends-wimbledon-title) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/cx24ejkyvkyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘Love Island USA’ Season 8 Crowns Its Winners
+### 1. Sam Neill Remembered by ‘Jurassic World Dominion’ Director Colin Trevorrow, Karl Urban, Alan Cumming and More: ‘His Strength Gave Us All Strength’
 
-[原文] SPOILER ALERT:&#160;This article contains spoilers for the Season 8 finale of “Love Island USA.” The public’s final vote for “Love Island USA” Season 8 decided on Bryce and Trinity as the winners of t
+[原文] &#8220;Jurassic World Dominion&#8221; director Colin Trevorrow led tributes to Sam Neill following the news that the &#8220;Jurassic Park&#8221; and &#8220;Peaky Blinders&#8221; star died on Monday at
 
-📎 [阅读原文](https://variety.com/2026/tv/news/bryce-trinity-win-love-island-usa-season-8-1236807453/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/sam-neill-remembered-jurassic-world-director-hollywood-tributes-1236809393/) — *Variety*
 
-### 2. ‘Evil Dead Burn’ Director Breaks Down His Brand of French Brutality, From Practical Effects and Real Fire to That Post-Credits Scene
+### 2. How Universal Made a 8,800-Pound Trojan Horse for ‘The Odyssey’ World Premiere
 
-[原文] SPOILER ALERT:&#160;This story contains major spoilers for “Evil Dead Burn,” now playing in theaters. “Evil Dead Burn” breaks one of the fundamental rules of cinema: Don’t kill the dog. “If you don&#8
+[原文] With almost the full cast in attendance, last week&#8217;s &#8220;The Odyssey&#8221; world premiere in London offered more star power than any other event seen in Leicester Square this year. And yet o
 
-📎 [阅读原文](https://variety.com/2026/film/news/evil-dead-burn-director-practical-effects-post-credits-scene-1236808969/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/odyssey-world-premiere-giant-trojan-horse-8800lb-1236806583/) — *Variety*
 
-### 3. ‘Married at First Sight’ EP on Season 20’s Major Overhaul, Changing Out the Experts and Adding a Familiar Face
+### 3. Jay-Z Closes Yankee Stadium Residency With Epic Late Night Show Featuring Beyoncé, Rihanna, Usher, Teyana Taylor and More
 
-[原文] For longtime &#8220;Married at First Sight&#8221; viewers, Season 20 may feel a bit different. The new season, which debuts on July 12, is the first full season made for Peacock. The series, produced 
+[原文] &#8220;We&#8217;re going to go until like 5 a.m., so don&#8217;t be scared,&#8221; said Jay-Z not long after he started the third and final show of his Yankee Stadium residency on Sunday night, the co
 
-📎 [阅读原文](https://variety.com/2026/tv/news/married-at-first-sight-season-20-peacock-replacing-experts-1236806682/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/jay-z-closes-yankee-stadium-residency-beyonce-rihanna-usher-1236809402/) — *Variety*
 
-### 4. Wai Ching Ho, Veteran Actor Who Appeared in ‘Daredevil’ and ‘Iron Fist,’ Dies at 83
+### 4. Sacha Baron Cohen Revives Ali G at Wimbledon Ahead of New Film — and Tries Selling Weed on Center Court
 
-[原文] Wai Ching Ho, an actor with dozens of film and TV credits including roles in recent Marvel series, has died at 83. The news was announced via her co-stars on Instagram, who paid tribute to the late ac
+[原文] Ali G was among the surprise special guests at the Wimbledon men&#8217;s final on Sunday — and got straight to work trying to sell drugs from his seat on centre court. While Sacha Baron Cohen&#8217;s 
 
-📎 [阅读原文](https://variety.com/2026/tv/news/wai-ching-ho-dead-dies-daredevil-iron-fist-1236809167/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/sacha-baron-cohen-ali-g-wimbledon-tries-selling-weed-1236809387/) — *Variety*
 
-### 5. Madonna’s ‘Confessions II’ Debuts at No. 1 on Album Chart, as Ken Carson and Sienna Spiro Also Bow in Top 10
+### 5. Korea Box Office: ‘Moana’ Captures Crown While ‘The Eyes’ Retains Second Place
 
-[原文] Madonna&#8217;s &#8220;Confessions II,&#8221; her first new album in seven years, found an appreciative audience awaiting her return. The album bowed with 134,000 equivalent album units, more than eno
+[原文] Disney&#8217;s live-action reimagining &#8220;Moana&#8221; sailed straight to the top of the South Korean box office during the weekend of Jul. 10–12. According to data from KOBIS, the tracking servic
 
-📎 [阅读原文](https://variety.com/2026/music/news/madonna-billboard-album-chart-confessions-debut-top-1236809163/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/box-office/korea-box-office-moana-the-eyes-1236809374/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Vampire Lestat Just Gave Us a Jaw-Dropping Penultimate Episode
+### 1. Sam Neill Dies at 78
+
+[原文] The prolific actor was the iconic star of Jurassic Park, and many other classics.
+
+📎 [阅读原文](https://www.ign.com/articles/sam-neill-dies-at-78) — *IGN*
+
+### 2. Rick and Morty Season 9, Episodes 6-8 Review & Recap
+
+[原文] We catch up on our Rick and Morty Season 9 reviews by taking a closer look at Episodes 6-8, and one of them is the clear winner.
+
+📎 [阅读原文](https://www.ign.com/articles/rick-and-morty-season-9-episodes-6-8-review-recap) — *IGN*
+
+### 3. The Vampire Lestat Just Gave Us a Jaw-Dropping Penultimate Episode
 
 [原文] Episode 6 of the AMC show formerly known as Anne Rice's Interview With the Vampire has delivered one of the series' best — and most shocking — sequences ahead of this season's finale.
 
 📎 [阅读原文](https://www.ign.com/articles/the-vampire-lestat-episode-6-montreal-executive-producer-hannah-moscovitch-interview) — *IGN*
 
-### 2. House of the Dragon Season 3, Episode 4 Recap and Review
+### 4. House of the Dragon Season 3, Episode 4 Recap and Review
 
 [原文] House of the Dragon Season 3, Episode 4 is a meaty, schemey affair, and an installment that works particularly hard to move pieces around the board in interesting new combinations.
 
 📎 [阅读原文](https://www.ign.com/articles/house-of-the-dragon-season-3-episode-4-review) — *IGN*
 
-### 3. Disney's Live-Action Moana Bombs at the Box Office With Opening Weekend That Barely Beats Snow White
+### 5. Disney's Live-Action Moana Bombs at the Box Office With Opening Weekend That Barely Beats Snow White
 
 [原文] Disney's live-action Moana movie washed up at the box office with an estimated global total of $95 million on its opening weekend.
 
 📎 [阅读原文](https://www.ign.com/articles/disneys-live-action-moana-bombs-at-the-box-office-with-opening-weekend-that-barely-beats-snow-white) — *IGN*
-
-### 4. Obsidian Director Blasts People 'Running Their Mouths' About How the Studio Has Changed Following Xbox Layoffs
-
-[原文] Obsidian Entertainment director Brandon Adler is tired of seeing "cold take artists" who are "running their mouths" about the studio following recent Xbox layoffs.
-
-📎 [阅读原文](https://www.ign.com/articles/obsidian-director-blasts-people-running-their-mouths-about-how-the-studio-has-changed-following-xbox-layoffs) — *IGN*
-
-### 5. The Best Deals Today: RayNeo Air 4 Pro AR Glasses, Nintendo Switch 2 Camera, Apple AirPods Pro 3, and More
-
-暂无摘要。
-
-📎 [阅读原文](https://www.ign.com/articles/best-deals-for-july-12-2026) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post Slate Knows That Gray Is Boring, So It&#8217;s Launching With Legit Cra
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. In Gambia, Salt Water Intrusion Is the Leading Edge of Climate Change
+### 1. Corpus Christi Residents and Businesses Subsidized Industrial Water Bills for Years, Officials Say
+
+[原文] This story was produced in partnership by Inside Climate News and the Texas Newsroom, the state’s network of public radio stations. For at least a decade, Corpus Christi sold water to a handful of lar
+
+📎 [阅读原文](https://insideclimatenews.org/news/13072026/corpus-christi-water-rates-case/) — *Inside Climate News*
+
+### 2. Colorado Voters Will Decide Whether a ‘Right to Natural Gas’ is Added to the State Constitution
+
+[原文] A ballot measure written by a conservative nonprofit could amend the Colorado Constitution to enshrine fossil fuel companies&#8217; right to sell methane gas and possibly force communities that have t
+
+📎 [阅读原文](https://insideclimatenews.org/news/13072026/colorado-right-to-natural-gas-amendment/) — *Inside Climate News*
+
+### 3. In Gambia, Salt Water Intrusion Is the Leading Edge of Climate Change
 
 [原文] BANTANG KILLING, Gambia—In this little village in West Africa, Ebrima Nyan is watching his farmland slowly wither away. When Nyan, 47, was a teenager, the village grew all the rice it consumed, in a f
 
 📎 [阅读原文](https://insideclimatenews.org/news/12072026/gambia-sea-level-rise-agricultural-crisis/) — *Inside Climate News*
 
-### 2. Herring and Herons: Signs of the Charles River’s Vast Improvement
+### 4. Herring and Herons: Signs of the Charles River’s Vast Improvement
 
 [原文] This article previously appeared in Cambridge Day. From Boston’s Museum of Science to the Watertown Dam, the Charles River this spring was rife with river herring swirling in the water like scores of 
 
 📎 [阅读原文](https://insideclimatenews.org/news/12072026/herring-and-herons-signs-of-the-charles-rivers-vast-improvement/) — *Inside Climate News*
 
-### 3. Recent Earthquakes Expose Problems with Venezuela’s Disaster Preparedness and Response, Scientists Say
+### 5. Recent Earthquakes Expose Problems with Venezuela’s Disaster Preparedness and Response, Scientists Say
 
 [原文] When Antonio Machado Allison assisted with earthquake response efforts in Venezuela’s capital of Caracas in 1967, he felt confident in the way the government mobilized its teams. When he arrived, Alli
 
 📎 [阅读原文](https://insideclimatenews.org/news/11072026/venezuela-earthquakes-expose-disaster-preparedness-issues/) — *Inside Climate News*
-
-### 4. The Case of the (France-Sized) Missing Antarctic Ice
-
-[原文] From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by producer Aynsley O’Neill with UC Boulder senior research scientist Ted Scambos.&#160; Midsum
-
-📎 [阅读原文](https://insideclimatenews.org/news/11072026/antarctica-missing-ice/) — *Inside Climate News*
-
-### 5. As It Celebrates the Nation’s Past, Philadelphia Braces for a Hotter Future
-
-[原文] PHILADELPHIA—To Eric Klinenberg, a packed stadium in 101-degree heat offering limited water access for fans was a “formula for disaster.”&#160; This was the scene that met the sociologist, who wrote a
-
-📎 [阅读原文](https://insideclimatenews.org/news/10072026/philadelphia-heat-wave-tests-climate-resilience/) — *Inside Climate News*
 
 ---
 
@@ -515,7 +515,7 @@ The post Slate Knows That Gray Is Boring, So It&#8217;s Launching With Legit Cra
 - **💰 经济财经**: CNBC
 - **💻 科技**: TechCrunch
 - **🔬 科学**: Science Daily
-- **⚽ 体育**: ESPN
+- **⚽ 体育**: BBC Sport
 - **🎬 娱乐**: Variety
 - **🏥 健康**: WHO
 - **🎮 游戏**: IGN
@@ -528,6 +528,7 @@ The post Slate Knows That Gray Is Boring, So It&#8217;s Launching With Legit Cra
 ## ⚠️ 今日故障源
 
 - **🚗 汽车**: Roadshow, Autocar
+- **✈️ 旅游**: Nomadic Matt
 
 ---
 
