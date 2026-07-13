@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月13日** | 生成时间: 2026-07-13 17:34
+**2026年07月13日** | 生成时间: 2026-07-13 22:42
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. At least 27 killed, 22 critically injured after fire engulfs Bangkok bar
+### 1. At least 28 killed, 25 critically injured after fire engulfs Bangkok bar
 
 [原文] Firefighters arrived at the scene in the Chatuchak district to find patrons running through flames to escape.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'
+### 2. 'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78
 
-[原文] A spokesman for the 71-year-old South Carolina senator says initial findings suggest Graham's cause of death was related to his heart.
+[原文] Friends, politicians and fellow film stars remember Neill following his "sudden and unexpected" death.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy06e5e1lygo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. British couple return to village at heart of deadly Spanish wildfire
+### 3. Senator Lindsey Graham died of aortic tear, examiner says
 
-[原文] At least 13 people, including five believed to be Britons, were killed by Thursday's wildfire in Spain's Almeria province.
+[原文] Graham, a close Republican ally of Donald Trump, died at the age of 71 on Saturday evening.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx24e09x79no?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cn75083d472o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Planes sent to tackle wildfires of 'exceptional scale' near Paris
+### 4. Wildfire raging south of Paris could have been set deliberately, says minister
 
 [原文] It was the first time firefighting planes had been sent up from the normally drier and hotter south of the country to tackle fires in the Paris region.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. US Senator Mitch McConnell says absence due to fall and pneumonia
+### 5. Men disguised as police kill Ecuadorean drug lord's brother
 
-[原文] The veteran Republican says he will not return to work "quite yet", in his first statement following weeks of speculation about his health.
+[原文] The victim, David Macías, was the brother of drug lord 'El Fito', who is awaiting trial in the US.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvge2nd611zo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c20yx84g103o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. U.S. and Iran exchange strikes as Strait of Hormuz standoff escalates
+### 1. U.S. oil jumps above $75 a barrel after Trump reinstates Strait of Hormuz blockade on Iranian ships
 
-[原文] Iran responded to a fresh wave of strikes by U.S. forces by launching an attack on American military bases in several Gulf states.
+[原文] The U.S. and Iran disputed whether Hormuz was open to ship traffic after trading strikes over the weekend.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/13/us-iran-war-hormuz-oil-trump.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/12/oil-price-strait-hormuz-iran-trump-tanker.html) — *CNBC*
 
-### 2. Graham’s death complicates myriad GOP goals in Congress
+### 2. Big banks poised to report booming revenue propelled by SpaceX IPO, Iran war volatility
+
+[原文] Big banks are set to report booming Q2 revenue as the SpaceX IPO, Iran war volatility and a rebound in commercial lending fuel Wall Street's "sweet spot."
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/13/bank-earnings-jpmorgan-chase-goldman-sachs-bank-of-america.html) — *CNBC*
+
+### 3. Paramount-WBD merger expected to face lawsuit from multiple states, sources say
+
+[原文] Multiple state attorneys general are expected to file a lawsuit challenging the merger between Paramount Skydance and Warner Bros. Discovery, David Faber reports.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/13/paramount-wbd-merger-lawsuit.html) — *CNBC*
+
+### 4. Meta's Louisiana data center investment to reach $50 billion, aided by generous tax incentives
+
+[原文] Meta said the planned Hyperion data center supercluster in Richland Parish, Louisiana, will be a 5GW facility and cost more than $50 billion.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/13/meta-louisiana-data-center-investment-reaches-50-billion-amid-ai-push.html) — *CNBC*
+
+### 5. Graham’s death complicates myriad GOP goals in Congress
 
 [原文] South Carolina Republican Sen. Lindsey Graham died unexpectedly at 71.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/12/grahams-death-policy-washington-save-america-ukraine-blanche-reconciliation.html) — *CNBC*
-
-### 3. TSMC, the world's largest contract chipmaker, reports 68% surge in June revenue
-
-[原文] Ahead of its second-quarter earnings, TSMC reported its June and first-half revenue for 2026.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/13/tsmc-june-revenue-rises-percent-ahead-second-quarter.html) — *CNBC*
-
-### 4. Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit
-
-[原文] Sam Altman insisted that Elon Musk was again obsessed with him because of an OpenAI model release earlier this week.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/12/elon-musk-and-sam-altman-spar-.html) — *CNBC*
-
-### 5. McConnell provides health update after long unexplained absence; says he suffered fall, pneumonia
-
-[原文] McConnell is the longest-serving party leader in Senate history.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/12/mcconnell-provides-health-update-after-long-unexplained-absence.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. TechCrunch Mobility: A robotaxi ultimatum
+### 1. SpaceX cleared to fly Starship again after booster failure in May
+
+[原文] This will be the first Starship test flight for SpaceX as a public company, testing the market's appetite for the company's "fly, fail, fix" approach to rocket development, which often ends in firebal
+
+📎 [阅读原文](https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/) — *TechCrunch*
+
+### 2. Waze adds new AI-powered features and customization updates
+
+[原文] Some of the new features are powered by Google's Gemini AI assistant, which reflects the the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to com
+
+📎 [阅读原文](https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/) — *TechCrunch*
+
+### 3. LAPD lets contract with surveillance giant Flock expire, citing ‘serious concerns’ over civil liberties and privacy
+
+[原文] The LAPD, one of Flock's biggest government customers, is ending its contract with the company citing civil liberties concerns.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/) — *TechCrunch*
+
+### 4. Uber’s robotaxi lobbying effort puts it on a collision course with Waymo
+
+[原文] Washington, D.C. has become a battleground for Uber and Waymo's competing views.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/13/ubers-robotaxi-lobbying-effort-has-put-it-on-a-collision-course-with-waymo/) — *TechCrunch*
+
+### 5. TechCrunch Mobility: A robotaxi ultimatum
 
 [原文] Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/) — *TechCrunch*
-
-### 2. Reed Jobs would rather talk about curing cancer than his last name
-
-[原文] When we last sat down with Jobs at TechCrunch Disrupt nearly three years ago, his firm Yosemite was brand new and biotech was still reeling from its post-pandemic crash. Now, the venture outfit has a 
-
-📎 [阅读原文](https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/) — *TechCrunch*
-
-### 3. This slushie machine was a lifesaver during NYC’s heat wave
-
-[原文] Ninja's latest slushie machine builds on the popularity of the original Slushi, but with a big upgrade.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/) — *TechCrunch*
-
-### 4. Smart glasses without a camera? Even Realities bets productivity beats recording everyone
-
-[原文] The glasses are targeted at people who might be constantly in meetings, giving presentations, and traveling to countries where different languages are spoken.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/) — *TechCrunch*
-
-### 5. OpenAI bets on families as ChatGPT goes deeper into households
-
-[原文] ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/) — *TechCrunch*
 
 ---
 
@@ -130,35 +130,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Scientists discover a hidden heart valve risk linked to gum disease
+### 1. Physicists say quantum mechanics may not need imaginary numbers after all
 
-[原文] Researchers found that bacteria linked to gum disease may help drive the development of calcific aortic valve stenosis by triggering inflammation and calcium buildup in the heart valve. The early find
+[原文] Physicists from Heinrich Heine University Düsseldorf (HHU) have examined a fundamental property of quantum mechanics in collaboration with the German Aerospace Center (DLR). In the scientific journal 
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260713000751.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260713000807.htm) — *Science Daily*
 
-### 2. Scientists discover how the brain rewires itself to truly multitask
+### 2. Losing just 80 minutes of sleep a night could make you gain weight
 
-[原文] Practice may do more than make perfect. Researchers found that extensive training physically reorganizes the brain, allowing learned tasks to bypass the prefrontal cortex and run through specialized c
+[原文] Sleeping about an hour and 20 minutes less each night for six weeks caused participants to gain weight and spend more time inactive. Researchers found that even mild, realistic sleep loss, similar to 
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260712011912.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260713000800.htm) — *Science Daily*
 
-### 3. Spider-like creatures help uncover the surprising origins of fatherhood
+### 3. Stephen Hawking's black hole laws just got a major upgrade
 
-[原文] Citizen scientists have helped researchers solve a long-standing mystery about how parental care evolved in harvestmen. Using photos and observations from iNaturalist, scientists more than doubled the
+[原文] Scientists have developed a new framework that could finally apply the laws of thermodynamics to real, ever-changing black holes instead of only perfectly stable ones. The advance may improve our unde
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260712011737.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260713000757.htm) — *Science Daily*
 
-### 4. Columbia scientists discover surprising link between serotonin and heart valve disease
+### 4. A 200-year-old physics experiment could help build future computers
 
-[原文] Scientists have uncovered evidence that serotonin, the chemical best known for regulating mood, may also speed the progression of a common heart valve disease in some people. The research suggests tha
+[原文] Scientists at Nanyang Technological University in Singapore have discovered a surprisingly simple way to create exotic light structures called optical skyrmions using a 200-year-old optical effect kno
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260711010131.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260713000755.htm) — *Science Daily*
 
-### 5. Deep-sea life has a secret food source scientists never expected
+### 5. Where you live could shape your dementia risk, massive study finds
 
-[原文] Scientists discovered that extreme deep-sea pressure squeezes valuable nutrients out of sinking organic particles, providing an unexpected food source for ocean microbes. The finding could rewrite our
+[原文] Researchers analyzing data from more than 214,000 people found that dementia risk factors differ widely across countries, challenging the idea of a one-size-fits-all prevention strategy. At the same t
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260711010127.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260713000753.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. These are unprecedented times - England should enjoy them
+### 1. Man Utd sign £48m Santos and close in on Tielemans
 
-[原文] A record of four semi-finals in the past five international tournaments for England is outstanding. It is time to accept that this is where England belong.
+[原文] Manchester United sign Andrey Santos from Chelsea and are in advanced talks with Aston Villa for Youri Tielemans.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c932rqverkvo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cn07dpgkj4eo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Borrowed shoes, no Golden Boot - the story of the World Cup's greatest scorer
+### 2. Most clinical? Least creative? Best in the air? Comparing the last four
 
-[原文] Just Fontaine's record of 13 goals in a single World Cup has stood for decades, but he never played in the tournament again after injury ended his career at the age of 28.
+[原文] BBC Sport compares statistics for France, Spain, Argentina and England in the World Cup so far as the semi-finalists prepare to meet.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c621xndyd7no?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cx2k9qj2nyvo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. From shock loss to Wimbledon title - resilient Sinner rises back to top
+### 3. India outplay England - but is women's Test cricket struggling for relevance?
 
-[原文] For a brief moment after his shock French Open loss, Jannik Sinner appeared vulnerable. He answered the critics by storming to a second Wimbledon title.
+[原文] The scheduling of the game and the announcement of Brendon McCullum's sacking left the historic Lord's Test between England and India struggling for relevance, so what is the future of women's Test cr
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cx2v84zje83o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cgjx3xq6182o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Infantino opens door to 64-team World Cup
+### 4. BBC experts pick their England World Cup semi-final XI - do you agree?
 
-[原文] Plans for a 64-team men's world cup are set to be picked up and assessed in detail after the 2026 tournament with Fifa boss Gianni Infantino saying football needs to be "for the whole world".
+[原文] England are through to the World Cup semi-finals, but who would you pick in your starting XI?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cj9gm31jwg8o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cz75x4jgddpo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Tears of joy & Tiger text as Kim wins, but McIlroy has problem to fix
+### 5. Drama, celebrations and outfits - our end-of-Wimbledon awards
 
-[原文] Tom Kim excels in the final round to claim his first title in three years with a two-shot victory at the 2026 Genesis Scottish Open.
+[原文] This year's Wimbledon has been full of excitement, interesting stories and great British success - Naomi Broady runs through her favourite moments.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/cx24ejkyvkyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cyv0d7lypgyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Sam Neill Remembered by ‘Jurassic World Dominion’ Director Colin Trevorrow, Karl Urban, Alan Cumming and More: ‘His Strength Gave Us All Strength’
+### 1. Laura Dern Honors ‘Jurassic Park’ Co-Star Sam Neill as a ‘True and Noble Gentleman’ and ‘My Dream Leading Man’: ‘I Will Love You Forever, Dr. Alan Grant’
 
-[原文] &#8220;Jurassic World Dominion&#8221; director Colin Trevorrow led tributes to Sam Neill following the news that the &#8220;Jurassic Park&#8221; and &#8220;Peaky Blinders&#8221; star died on Monday at
+[原文] Laura Dern has penned an emotional tribute to her &#8220;Jurassic Park&#8221; and &#8220;Jurassic World Dominion&#8221; co-star Sam Neill, saying: &#8220;I will love you forever, Dr. Alan Grant.&#8221
 
-📎 [阅读原文](https://variety.com/2026/film/news/sam-neill-remembered-jurassic-world-director-hollywood-tributes-1236809393/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/laura-dern-remembers-jurassic-park-sam-neill-tribute-1236809665/) — *Variety*
 
-### 2. How Universal Made a 8,800-Pound Trojan Horse for ‘The Odyssey’ World Premiere
+### 2. Andy Serkis on U.S. ‘Outrage’ Over His ‘Animal Farm’ Movie, AI Use in ‘Hunt for Gollum’ and Wanting Oscars to Recognize Motion Capture: ‘It’s Been a Long Time Coming’
 
-[原文] With almost the full cast in attendance, last week&#8217;s &#8220;The Odyssey&#8221; world premiere in London offered more star power than any other event seen in Leicester Square this year. And yet o
+[原文] Andy Serkis is currently in New Zealand taking on orcs, wizards, elves and boney-fingered ring fanciers in one of the highest profile films now in production: &#8220;The Lord of the Rings: The Hunt fo
 
-📎 [阅读原文](https://variety.com/2026/film/global/odyssey-world-premiere-giant-trojan-horse-8800lb-1236806583/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/andy-serkis-animal-farm-ai-hunt-for-gollum-motion-capture-1236809573/) — *Variety*
 
-### 3. Jay-Z Closes Yankee Stadium Residency With Epic Late Night Show Featuring Beyoncé, Rihanna, Usher, Teyana Taylor and More
+### 3. Would David Ellison Really Pull Paramount Out of California if the State Tries to Block Warner Bros. Merger?
 
-[原文] &#8220;We&#8217;re going to go until like 5 a.m., so don&#8217;t be scared,&#8221; said Jay-Z not long after he started the third and final show of his Yankee Stadium residency on Sunday night, the co
+[原文] Is David Ellison considering a nuclear option of relocating Paramount&#8217;s headquarters from California &#8212; and potentially diverting billions of production dollars from the Golden State &#8212
 
-📎 [阅读原文](https://variety.com/2026/music/news/jay-z-closes-yankee-stadium-residency-beyonce-rihanna-usher-1236809402/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/biz/news/paramount-move-out-california-warner-bros-merger-1236809604/) — *Variety*
 
-### 4. Sacha Baron Cohen Revives Ali G at Wimbledon Ahead of New Film — and Tries Selling Weed on Center Court
+### 4. Steven Spielberg Praises ‘Jurassic Park’ Star Sam Neill as ‘Exceptionally Collaborative’ in Tribute to Late Actor: He ‘Will Never Be Forgotten’
 
-[原文] Ali G was among the surprise special guests at the Wimbledon men&#8217;s final on Sunday — and got straight to work trying to sell drugs from his seat on centre court. While Sacha Baron Cohen&#8217;s 
+[原文] Steven Spielberg has paid tribute to his &#8220;Jurassic Park&#8221; star Sam Neill, who died on Monday at the age of 78. In a statement to Variety, the director said he was &#8220;saddened&#8221; by 
 
-📎 [阅读原文](https://variety.com/2026/film/global/sacha-baron-cohen-ali-g-wimbledon-tries-selling-weed-1236809387/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/steven-spielberg-mourns-sam-neill-jurassic-park-1236809406/) — *Variety*
 
-### 5. Korea Box Office: ‘Moana’ Captures Crown While ‘The Eyes’ Retains Second Place
+### 5. ‘Pursuit of Jade,’ ‘Midnight Temptation’ Lead iQIYI International’s 130% H1 2026 Viewership Surge
 
-[原文] Disney&#8217;s live-action reimagining &#8220;Moana&#8221; sailed straight to the top of the South Korean box office during the weekend of Jul. 10–12. According to data from KOBIS, the tracking servic
+[原文] iQIYI International&#8217;s global viewership rose 130% year-on-year in the first half of 2026, the streaming platform said in a report, crediting a dual-engine strategy that pairs premium Chinese dra
 
-📎 [阅读原文](https://variety.com/2026/film/box-office/korea-box-office-moana-the-eyes-1236809374/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/pursuit-of-jade-midnight-temptation-iqiyi-international-h1-2026-1236809607/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Sam Neill Dies at 78
+### 1. 'A Triumph of Corporate Convenience Over Consumer Choice' — Backlash to PlayStation Killing Discs Intensifies as Retailer Association Slams Sony
 
-[原文] The prolific actor was the iconic star of Jurassic Park, and many other classics.
+[原文] A retailer association has heavily criticized Sony’s decision to kill discs on PlayStation, saying it takes away consumer choice from gamers.
 
-📎 [阅读原文](https://www.ign.com/articles/sam-neill-dies-at-78) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/a-triumph-of-corporate-convenience-over-consumer-choice-backlash-to-playstation-killing-discs-intensifies-as-retailer-association-slams-sony) — *IGN*
 
-### 2. Rick and Morty Season 9, Episodes 6-8 Review & Recap
+### 2. Digger Trailer Reveals Tom Cruise in What May Be His Least Recognizable Role Ever — And I Can't Wait to See More
 
-[原文] We catch up on our Rick and Morty Season 9 reviews by taking a closer look at Episodes 6-8, and one of them is the clear winner.
+[原文] Today's first trailer for Digger shows Top Gun star Tom Cruise in his least recognizable role yet — as an aging CEO who realizes he must save the planet from a natural disaster he created.
 
-📎 [阅读原文](https://www.ign.com/articles/rick-and-morty-season-9-episodes-6-8-review-recap) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/digger-trailer-reveals-tom-cruise-in-what-may-be-his-least-recognizable-role-ever-and-i-cant-wait-to-see-more) — *IGN*
 
-### 3. The Vampire Lestat Just Gave Us a Jaw-Dropping Penultimate Episode
+### 3. Tom Cruise Says Alejandro G. Iñárritu’s 'Totally Original' Digger Is Unlike Any Film He’s Ever Made
 
-[原文] Episode 6 of the AMC show formerly known as Anne Rice's Interview With the Vampire has delivered one of the series' best — and most shocking — sequences ahead of this season's finale.
+[原文] Tom Cruise was awed by “the level of detail, the skill, the layers of making (Digger),” adding, “I have never had something that could challenge me in this way and neither has Alejandro [Iñárritu] whe
 
-📎 [阅读原文](https://www.ign.com/articles/the-vampire-lestat-episode-6-montreal-executive-producer-hannah-moscovitch-interview) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/tom-cruise-digger-inarritu-comedy) — *IGN*
 
-### 4. House of the Dragon Season 3, Episode 4 Recap and Review
+### 4. 'I Would Have Been So Miscast': Hamilton Star Lin-Manuel Miranda Reveals Surprising MCU Spider-Man Role He Turned Down
 
-[原文] House of the Dragon Season 3, Episode 4 is a meaty, schemey affair, and an installment that works particularly hard to move pieces around the board in interesting new combinations.
+[原文] Spider-Man: Homecoming almost starred Hamilton creator Lin-Manuel Miranda, the award-winning songwriter and actor has revealed.
 
-📎 [阅读原文](https://www.ign.com/articles/house-of-the-dragon-season-3-episode-4-review) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/i-would-have-been-so-miscast-hamilton-star-lin-manuel-miranda-reveals-surprising-mcu-spider-man-role-he-turned-down) — *IGN*
 
-### 5. Disney's Live-Action Moana Bombs at the Box Office With Opening Weekend That Barely Beats Snow White
+### 5. House of the Dragon’s Ryan Condal Explains Helaena’s Revelation, Daemon’s Deception, and the Greens’ New Addition
 
-[原文] Disney's live-action Moana movie washed up at the box office with an estimated global total of $95 million on its opening weekend.
+[原文] As House of the Dragon Season 3 hits its midway point, we spoke with showrunner Ryan Condal about the deviations made from the source material thus far and what Episode 4 suggests is in store for the 
 
-📎 [阅读原文](https://www.ign.com/articles/disneys-live-action-moana-bombs-at-the-box-office-with-opening-weekend-that-barely-beats-snow-white) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/ryan-condal-interview-house-of-the-dragon-helaena-pregnant-daeron) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Your Memory Betrays You: Watch These 1980s Supercars Lose a Drag Race to a Boring Crossover
+### 1. 2026 Honda Civic Sport Review: The Best $28,000 You’ll Spend
+
+[原文] The sweetheart of the Honda Civic lineup best embraces the Japanese automaker's ethos: simplicity, efficiency, reliability, and driving enjoyment—all for a fair price.
+The post 2026 Honda Civic Sport 
+
+📎 [阅读原文](https://www.thedrive.com/car-reviews/2026-honda-civic-sport-review) — *The Drive*
+
+### 2. Jeep and Ram Are Riding High Thanks to North America: TDS
+
+[原文] Stellantis' Q2 figures are in, and while the company posted solid sales globally, it's clear that North America carried the effort.
+The post Jeep and Ram Are Riding High Thanks to North America: TDS a
+
+📎 [阅读原文](https://www.thedrive.com/news/jeep-and-ram-are-riding-high-thanks-to-north-america-tds) — *The Drive*
+
+### 3. Your Memory Betrays You: Watch These 1980s Supercars Lose a Drag Race to a Boring Crossover
 
 [原文] Don't let your inner child watch this drag race between a Ferrari Testarossa, Lamborghini Countach, Porsche 944 Turbo, and a humble EV.
 The post Your Memory Betrays You: Watch These 1980s Supercars Lo
 
 📎 [阅读原文](https://www.thedrive.com/news/your-memory-betrays-you-watch-these-1980s-supercars-lose-a-drag-race-to-a-boring-crossover) — *The Drive*
 
-### 2. Finally, an Objective Test to Determine How Distracting Car Touchscreens Are
+### 4. Finally, an Objective Test to Determine How Distracting Car Touchscreens Are
 
 [原文] The average time to perform a task using a touchscreen was longer in this test than one conducted four years ago. That's not how this is supposed to work.
 The post Finally, an Objective Test to Determ
 
 📎 [阅读原文](https://www.thedrive.com/news/finally-an-objective-test-to-determine-how-distracting-car-touchscreens-are) — *The Drive*
 
-### 3. Only Two Yellow 2006 Ford GTs Left the Factory Without Stripes, and One Is for Sale
+### 5. Only Two Yellow 2006 Ford GTs Left the Factory Without Stripes, and One Is for Sale
 
 [原文] This isn't a Photoshop job. It's an incredibly rare spec of the first-generation GT road car.
 The post Only Two Yellow 2006 Ford GTs Left the Factory Without Stripes, and One Is for Sale appeared firs
 
 📎 [阅读原文](https://www.thedrive.com/news/only-two-yellow-2006-ford-gts-left-the-factory-without-stripes-and-one-is-for-sale) — *The Drive*
-
-### 4. The Fiat Topolino Is Barely a Car, But It Might Get an Abarth Variant
-
-[原文] But how sporty could something based on this glorified golf cart really be?
-The post The Fiat Topolino Is Barely a Car, But It Might Get an Abarth Variant appeared first on The Drive.
-
-📎 [阅读原文](https://www.thedrive.com/news/the-fiat-topolino-is-barely-a-car-but-it-might-get-an-abarth-variant) — *The Drive*
-
-### 5. Slate Knows That Gray Is Boring, So It’s Launching With Legit Crayola Wraps
-
-[原文] Slate is adding five new wrap colors straight out of the crayon box.
-The post Slate Knows That Gray Is Boring, So It&#8217;s Launching With Legit Crayola Wraps appeared first on The Drive.
-
-📎 [阅读原文](https://www.thedrive.com/news/slate-knows-that-gray-is-boring-so-its-launching-with-legit-crayola-wraps) — *The Drive*
 
 ---
 
@@ -401,23 +401,23 @@ The post Slate Knows That Gray Is Boring, So It&#8217;s Launching With Legit Cra
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. In Rural Districts, AI Resources for Educators Are Scarce
+### 1. Study: The National AI Policy Landscape in K–12 Education
+
+[原文] A snapshot of where districts stand on AI and what it reveals.
+
+📎 [阅读原文](https://edsurge.com/news/study-the-national-ai-policy-landscape-in-k-12-education) — *EdSurge*
+
+### 2. In Rural Districts, AI Resources for Educators Are Scarce
 
 [原文] Despite challenges, teachers believe AI can broaden students’ horizons.
 
 📎 [阅读原文](https://edsurge.com/news/in-rural-districts-ai-resources-for-educators-are-scarce) — *EdSurge*
 
-### 2. I Built the Chemistry Platform I Needed in My Own Classroom
+### 3. I Built the Chemistry Platform I Needed in My Own Classroom
 
 [原文] What would chemistry look like if students could do more than read about it?
 
 📎 [阅读原文](https://edsurge.com/news/i-built-the-chemistry-platform-i-needed-in-my-own-classroom) — *EdSurge*
-
-### 3. How a Vinyl Record Resurgence Helped Me Understand the Future of AI in Education
-
-[原文] Streaming solved the problem of access. Now, we must solve the problem of engagement.
-
-📎 [阅读原文](https://edsurge.com/news/how-a-vinyl-record-resurgence-helped-me-understand-the-future-of-ai-in-education) — *EdSurge*
 
 ### 4. Podcast: What Did ISTELive 26 Teach Us About Relational Intelligence?
 
@@ -425,11 +425,11 @@ The post Slate Knows That Gray Is Boring, So It&#8217;s Launching With Legit Cra
 
 📎 [阅读原文](https://edsurge.com/news/podcast-looking-back-at-istelive-26-bans-microdosing-and-the-future-of-ai) — *EdSurge*
 
-### 5. New Study Cites Growing “Crisis” of Healthcare Costs on School District Budgets
+### 5. How a Vinyl Record Resurgence Helped Me Understand the Future of AI in Education
 
-[原文] Will rising healthcare costs affect teacher hiring?
+[原文] Streaming solved the problem of access. Now, we must solve the problem of engagement.
 
-📎 [阅读原文](https://edsurge.com/news/new-study-cites-growing-crisis-of-healthcare-costs-on-school-district-budgets) — *EdSurge*
+📎 [阅读原文](https://edsurge.com/news/how-a-vinyl-record-resurgence-helped-me-understand-the-future-of-ai-in-education) — *EdSurge*
 
 ---
 
@@ -439,35 +439,35 @@ The post Slate Knows That Gray Is Boring, So It&#8217;s Launching With Legit Cra
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Madonna Returns to Number One on the Charts With ‘Confessions II’
+### 1. Mastodon Preview New Album With Rousing Single ‘Snakes For Dinner’
 
-[原文] Singer scores her 10th chart-topping album, and becomes first artist of the 2020s to land Number Ones in four different decades
+[原文] Grammy-winning rock band will release Marrow Deep, their ninth studio album, next month
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/mastodon-snakes-for-dinner-single-marrow-deep-album-1235592538/) — *Rolling Stone*
+
+### 2. Madonna Returns to Number One on the Charts With ‘Confessions II’
+
+[原文] Singer scores her 10th chart-topping album and becomes first artist of the 2020s to land Number Ones in four different decades
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/madonna-number-one-charts-confessions-ii-1235592485/) — *Rolling Stone*
 
-### 2. Ellie Goulding Performs ‘Lights’ at World Cup Quarterfinal Game
+### 3. Ellie Goulding Performs ‘Lights’ at World Cup Quarterfinal Game
 
-[原文] “I already know the boys will make England proud, it's coming home," she wrote ahead of the game between England and Norway in Miami
+[原文] “I already know the boys will make England proud, it’s coming home,” she wrote ahead of the game between England and Norway in Miami
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/ellie-goulding-performance-world-cup-quarterfinal-halftime-1235592231/) — *Rolling Stone*
 
-### 3. Bob Dylan’s Revolving Door of Touring Guitarists Welcomes Another New Addition
+### 4. Bob Dylan’s Revolving Door of Touring Guitarists Welcomes Another New Addition
 
-[原文] Memphis-based guitarist Jad Tariq made his debut in Dylan's unit Friday in Cincinnati, filling in for fellow new addition Julian Lage
+[原文] Memphis-based guitarist Jad Tariq made his debut in Dylan’s unit Friday in Cincinnati, filling in for fellow new addition Julian Lage
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/bob-dylan-revolving-door-touring-guitarists-jad-tariq-1235592455/) — *Rolling Stone*
 
-### 4. Britney Spears Dismisses Odd Behavior on L.A. Highway: ‘Nothing Is What It Seems’
+### 5. Britney Spears Dismisses Odd Behavior on L.A. Highway: ‘Nothing Is What It Seems’
 
-[原文] "What people see is two seconds of insanity of me arching me to the lords," singer writes of standing through a moonroof on 101 Freeway
+[原文] “What people see is two seconds of insanity of me arching me to the lords,” singer writes of standing through a moonroof on 101 Freeway
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/britney-spears-dismisses-odd-behavior-la-highway-1235592451/) — *Rolling Stone*
-
-### 5. See Jay-Z Bring Out Eminem, Pharrell Williams at Yankee Stadium Night 2
-
-[原文] Rapper's second night in the Bronx focused on his 2001 album The Blueprint
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/jay-z-eminem-pharrell-williams-yankee-stadium-night-two-1235592434/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post Slate Knows That Gray Is Boring, So It&#8217;s Launching With Legit Cra
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. What Haaland Mania Won’t Do for Norway Tourism
+### 1. Ennismore Thinks Lifestyle Brands Can Survive All-Inclusive. Mondrian Is the Next Test
+
+[原文] Mass-market operators built all-inclusive on price and volume. Ennismore is trying to prove its lifestyle brands can carry the format upmarket.
+
+📎 [阅读原文](https://skift.com/2026/07/13/ennismore-thinks-lifestyle-brands-can-survive-all-inclusive-mondrian-is-the-next-test/) — *Skift*
+
+### 2. What Haaland Mania Won’t Do for Norway Tourism
 
 [原文] Haaland mania is real. It will not move Norwegian tourism, and the visitors it might send are the ones Norway is already pricing out.
 
 📎 [阅读原文](https://skift.com/2026/07/10/what-haaland-mania-wont-do-for-norway-tourism/) — *Skift*
 
-### 2. Hopper Settles With the FTC Over Practices Expedia Called Out in 2023
+### 3. Hopper Settles With the FTC Over Practices Expedia Called Out in 2023
 
 [原文] Expedia ended its Hopper partnership in 2023 for 17 months over deceptive practices. Now the U.S. Federal Trade Commission, in another reputational hit, has reached largely the same verdict, with a $3
 
 📎 [阅读原文](https://skift.com/2026/07/10/hopper-settles-with-the-ftc-over-practices-expedia-called-out-in-2023/) — *Skift*
 
-### 3. Booking Holdings Is Forming a New B2B Unit, Agoda CEO Is Overseeing it: Scoop
+### 4. Booking Holdings Is Forming a New B2B Unit, Agoda CEO Is Overseeing it: Scoop
 
 [原文] Booking Holdings has an uphill climb to rival Expedia's scale in B2B, but the formation of a consolidated business unit could help Booking become a more formidable competitor.
 
 📎 [阅读原文](https://skift.com/2026/07/10/booking-holdings-is-forming-a-new-b2b-unit-agoda-ceo-is-overseeing-it-scoop/) — *Skift*
 
-### 4. Accor Hires Banks for Ennismore’s U.S. IPO: Report
+### 5. Accor Hires Banks for Ennismore’s U.S. IPO: Report
 
 [原文] Sébastien Bazin left four or five doors open for Ennismore in June. He now looks to be walking through one.
 
 📎 [阅读原文](https://skift.com/2026/07/10/accor-hires-banks-for-ennismores-u-s-ipo-report/) — *Skift*
-
-### 5. Airbnb Just Hired Away an OpenAI Creative Exec
-
-[原文] Airbnb has recruited an OpenAI VP to help make its next wave of technology feel unmistakably Airbnb. The hire plays to the company’s oldest advantage — and its newer hedge against AI mania: brand.In h
-
-📎 [阅读原文](https://skift.com/2026/07/10/airbnb-tabtabai-hiring-openai-creative-exec/) — *Skift*
 
 ---
 
@@ -528,7 +528,6 @@ The post Slate Knows That Gray Is Boring, So It&#8217;s Launching With Legit Cra
 ## ⚠️ 今日故障源
 
 - **🚗 汽车**: Roadshow, Autocar
-- **✈️ 旅游**: Nomadic Matt
 
 ---
 
