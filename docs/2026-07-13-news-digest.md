@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月13日** | 生成时间: 2026-07-13 03:10
+**2026年07月13日** | 生成时间: 2026-07-13 11:23
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. US insists Strait of Hormuz is open as it exchanges strikes with Iran
+### 1. At least 27 killed, eight critically injured in Bangkok bar fire
+
+[原文] Firefighters arrived at the scene in the Chatuchak district to find patrons running through flames to escape.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. US insists Strait of Hormuz is open as it exchanges strikes with Iran
 
 [原文] Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'
+### 3. US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'
 
-[原文] Donald Trump pays tribute to the 71-year-old South Carolina senator, calling him a "true American patriot" who will be "greatly missed".
+[原文] A spokesman for the 71-year-old South Carolina senator says initial findings suggest Graham's cause of death was related to his heart.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Badly burned British couple rescued from ravine during Spain wildfires, reports say
+### 4. Anthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era
 
-[原文] The unnamed pair were found semi-conscious with 40% burns after being trapped by the blazes raging through Almeria province, local media reports.
+[原文] The senator's career was marked by a willingness to adapt to America's dramatically changing political climate, writes the BBC's North America correspondent.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/clyrdn216k2o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. China evacuates nearly two million people as powerful typhoon makes landfall
+### 5. US Senator Mitch McConnell says absence due to fall and pneumonia
 
-[原文] Schools, work and outdoor activities have been suspended in Zhejiang province and many transport services cancelled.
+[原文] The veteran Republican says he will not return to work "quite yet", in his first statement following weeks of speculation about his health.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74
-
-[原文] He took power in 1996 after staging a bloodless coup against his father, and went on to transform Qatar into the gas-rich power it is today.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvge2nd611zo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -60,29 +60,29 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/12/senator-lindsey-graham-has-died-after-a-brief-illness-his-office-says.html) — *CNBC*
 
-### 2. U.S. and Iran trade airstrikes again amid conflicting claims over Strait of Hormuz
+### 2. McConnell provides health update after long unexplained absence; says he suffered fall, pneumonia
 
-[原文] The U.S. and Iran exchanged a barrage of missile and drone airstrikes amid a dispute over the status of the Strait of Hormuz.
+[原文] McConnell is the longest-serving party leader in Senate history.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/11/us-airstrikes-iran-strait-hormuz.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/12/mcconnell-provides-health-update-after-long-unexplained-absence.html) — *CNBC*
 
-### 3. Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit
+### 3. SK Hynix shares slide 10% in Seoul after stellar Nasdaq debut
+
+[原文] SK Hynix Inc. shares tumbled over 10% in Seoul on Monday after the chipmaker's blockbuster Nasdaq debut.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/13/sk-hynix-shares-fall-after-stellar-nasdaq-debut.html) — *CNBC*
+
+### 4. Graham’s death complicates myriad GOP goals in Congress
+
+[原文] South Carolina Republican Sen. Lindsey Graham died unexpectedly at 71.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/12/grahams-death-policy-washington-save-america-ukraine-blanche-reconciliation.html) — *CNBC*
+
+### 5. Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit
 
 [原文] Sam Altman insisted that Elon Musk was again obsessed with him because of an OpenAI model release earlier this week.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/12/elon-musk-and-sam-altman-spar-.html) — *CNBC*
-
-### 4. Majority of U.S. workers support an AI wealth fund as tech layoffs surge, survey finds
-
-[原文] A majority of U.S. employees now want an AI sovereign wealth fund to hold corporations more accountable, according to a recent survey, as tech layoffs rise.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/12/majority-of-us-workers-support-ai-fund-amid-tech-layoffs-survey.html) — *CNBC*
-
-### 5. ‘Almost unlimited’: Execs says AI demand remains strong even as enterprises move to ‘valuemaxxing’
-
-[原文] AI-related chip stocks have been volatile amid a debate over AI demand and spending.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/12/ai-demand-chips-data-centers-stock-volatility.html) — *CNBC*
 
 ---
 
@@ -106,7 +106,7 @@
 
 ### 3. This slushie machine was a lifesaver during NYC’s heat wave
 
-[原文] Last weekend&#8217;s brutal NYC heat wave had me craving a frozen drink almost every afternoon. Normally, that would mean sweating through a walk to 7-Eleven for a slurpee. This time, though, I stayed
+[原文] Ninja's latest slushie machine builds on the popularity of the original Slushi, but with a big upgrade.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/) — *TechCrunch*
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. 'We have another level we can reach' - Kane defends frustrated Tuchel
+### 1. MLB draft tracker: Live results for every Day 2 pi...
 
-[原文] Captain Harry Kane says England "have another level we can reach" as they bid to win the World Cup for the first time since 1966.
+[原文] The 2026 MLB draft is in the books. Get by pick-by-pick coverage and a breakdown of every first-round pick.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cy04xjlg5p4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/mlb/story/_/id/49306565/2026-mlb-draft-tracker-live-updates-order-results-analysis-every-first-round-pick) — *ESPN*
 
-### 2. From the ride to the rubble - how McCullum lost England Test job
+### 2. Day 1 winners, losers: Just what you'd expect -- t...
 
-[原文] The Brendon McCullum era gave England a ride but it careered off the rails and the next Test coach has a huge rebuilding job on their hands.
+[原文] Who knocked it out of the park on Saturday?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cqx15e27v3eo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/mlb/story/_/id/49306849/2026-mlb-draft-analysis-winners-losers-day-1-preview-day-2) — *ESPN*
 
-### 3. England facing defeat in Knight & Beaumont's farewell
+### 3. Sources: U-M regents to decide on AD Manuel soon
 
-[原文] Tammy Beaumont and Heather Knight fall cheaply in their final innings for England as India close in on victory at Lord's.
+[原文] The University of Michigan regents are expected to discuss an investigation into the culture of its athletic department on Thursday, sources told ESPN, and as part of the review, a decision on the fut
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cy04x8e8kk5o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/college-sports/story/_/id/49346524/michigan-regents-discuss-investigation-thursday) — *ESPN*
 
-### 4. Tuchel unhappy with England display - so why do they keep winning?
+### 4. Sources: Warriors to hire Vogel as associate coach...
 
-[原文] Football tactics correspondent Umir Irfan examines why England are still winning games despite Thomas Tuchel insisting performances are not good.
+[原文] The Warriors agreed to hire longtime NBA coach Frank Vogel as the associate head coach under Steve Kerr, league sources told ESPN, filling the void left by the departing Terry Stotts.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c7vy25lqll6o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/nba/story/_/id/49346659/sources-warriors-hire-frank-vogel-associate-head-coach) — *ESPN*
 
-### 5. Ryu claims second major of season at Evian Championship
+### 5. Sinner dispatches Zverev, defends Wimbledon title
 
-[原文] South Korea's Haeran Ryu says it feels like she was in an "unreal dream" after claiming her second major title in the space of two weeks by defeating Brooke Henderson in a play-off at the Evian Champi
+[原文] Top-ranked Jannik Sinner beat Alexander Zverev 6-7 (7), 7-6 (2), 6-3, 6-4 for his second consecutive Wimbledon title and fifth Grand Slam crown.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/cvg42en7d3go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/tennis/story/_/id/49344990/jannik-sinner-beats-alexander-zverev-defends-wimbledon-title) — *ESPN*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Emerging Directors Need to Be ‘Brave,’ ‘Curious,’ ‘Pushy’ and ‘Fearless,’ Say Industry Leaders Behind Future Frames Program
+### 1. ‘Love Island USA’ Season 8 Crowns Its Winners
 
-[原文] During this year’s banner 60th anniversary edition of the Karlovy Vary International Film Festival, Variety hosted a panel in collaboration with Allwyn to discuss the longstanding success of the Europ
+[原文] SPOILER ALERT:&#160;This article contains spoilers for the Season 8 finale of “Love Island USA.” The public’s final vote for “Love Island USA” Season 8 decided on Bryce and Trinity as the winners of t
 
-📎 [阅读原文](https://variety.com/2026/film/global/directors-brave-curious-karlovy-vary-1236806946/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/bryce-trinity-win-love-island-usa-season-8-1236807453/) — *Variety*
 
-### 2. Box Office: ‘Moana’ Struggles With $52 Million Overseas, ‘Toy Story 5’ Powers to $879 Million Globally
+### 2. ‘Evil Dead Burn’ Director Breaks Down His Brand of French Brutality, From Practical Effects and Real Fire to That Post-Credits Scene
 
-[原文] Apparently the call wasn&#8217;t out there at all for &#8220;Moana,&#8221; which brought in just $52 million in its international box office debut. Disney&#8217;s latest live-action remake struggled t
+[原文] SPOILER ALERT:&#160;This story contains major spoilers for “Evil Dead Burn,” now playing in theaters. “Evil Dead Burn” breaks one of the fundamental rules of cinema: Don’t kill the dog. “If you don&#8
 
-📎 [阅读原文](https://variety.com/2026/film/box-office/box-office-moana-struggles-overseas-toy-story-5-milestone-1236809109/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/evil-dead-burn-director-practical-effects-post-credits-scene-1236808969/) — *Variety*
 
-### 3. Marco Bellocchio, Sally Wainwright Win Big at Italian Global Series Festival Which Celebrated ‘Star Trek’ and ‘Lost’ and Lamented Industry Crisis
+### 3. ‘Married at First Sight’ EP on Season 20’s Major Overhaul, Changing Out the Experts and Adding a Familiar Face
 
-[原文] In honors, Richard Gadd (&#8220;Half Man&#8221;) and Natasha Lyonne (&#8220;Poker Face,&#8221; &#8220;Russian Doll&#8221;) were among the big winners at this year&#8217;s Italian Global Series Festiva
+[原文] For longtime &#8220;Married at First Sight&#8221; viewers, Season 20 may feel a bit different. The new season, which debuts on July 12, is the first full season made for Peacock. The series, produced 
 
-📎 [阅读原文](https://variety.com/2026/tv/global/anson-mount-richard-gadd-natasha-lyonne-marco-bellocchio-1236809133/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/married-at-first-sight-season-20-peacock-replacing-experts-1236806682/) — *Variety*
 
-### 4. ‘Little House’ Star Crosby Fitzgerald on ‘American Primeval’ Inspiration, the Ingalls’ ‘Risky Move’ and Welcoming a Baby Cow in Season 2
+### 4. Wai Ching Ho, Veteran Actor Who Appeared in ‘Daredevil’ and ‘Iron Fist,’ Dies at 83
 
-[原文] SPOILER ALERT: This article contains spoilers for “Little House on the Prairie,&#8221; now streaming on Netflix. &#8220;Palm Royale&#8221; star Crosby Fitzgerald swears she &#8220;manifested&#8221; he
+[原文] Wai Ching Ho, an actor with dozens of film and TV credits including roles in recent Marvel series, has died at 83. The news was announced via her co-stars on Instagram, who paid tribute to the late ac
 
-📎 [阅读原文](https://variety.com/2026/tv/news/little-house-on-the-prairie-season-2-caroline-ingalls-1236805789/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/wai-ching-ho-dead-dies-daredevil-iron-fist-1236809167/) — *Variety*
 
-### 5. ‘Avengers: Doomsday’ Concept Art Reveals First Look at Robert Downey Jr.’s Doctor Doom, Returning X-Men Characters
+### 5. Madonna’s ‘Confessions II’ Debuts at No. 1 on Album Chart, as Ken Carson and Sienna Spiro Also Bow in Top 10
 
-[原文] The first clear look at Robert Downey Jr.&#8217;s Doctor Doom mask has arrived, courtesy of some concept art posted by a Marvel Cinematic Universe icon. Former Marvel visual department director Andy P
+[原文] Madonna&#8217;s &#8220;Confessions II,&#8221; her first new album in seven years, found an appreciative audience awaiting her return. The album bowed with 134,000 equivalent album units, more than eno
 
-📎 [阅读原文](https://variety.com/2026/film/news/avengers-doomsday-art-doctor-doom-mask-x-men-1236809075/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/madonna-billboard-album-chart-confessions-debut-top-1236809163/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Avengers: Doomsday Concept Art Reveals First Look at More Than 20 Returning Heroes
+### 1. The Vampire Lestat Just Gave Us a Jaw-Dropping Penultimate Episode
 
-[原文] Marvel Studios has shown off new concept art for Avengers: Doomsday, revealing a first look at a fully suited-up Cyclops (James Marsden), Mister Fantastic (Pedro Pascal), Doctor Doom (Robert Downey Jr
+[原文] Episode 6 of the AMC show formerly known as Anne Rice's Interview With the Vampire has delivered one of the series' best — and most shocking — sequences ahead of this season's finale.
 
-📎 [阅读原文](https://www.ign.com/articles/avengers-doomsday-concept-art-reveals-first-look-at-more-than-20-returning-heroes) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/the-vampire-lestat-episode-6-montreal-executive-producer-hannah-moscovitch-interview) — *IGN*
 
-### 2. TennoCon 2026: Everything Announced at the Warframe and Soulframe Fan Event
+### 2. House of the Dragon Season 3, Episode 4 Recap and Review
 
-[原文] Here's everything announced at TennoCon 2026, including all the latest news and trailers on Warframe and Soulframe.
+[原文] House of the Dragon Season 3, Episode 4 is a meaty, schemey affair, and an installment that works particularly hard to move pieces around the board in interesting new combinations.
 
-📎 [阅读原文](https://www.ign.com/articles/tennocon-2026-everything-announced-at-the-warframe-and-soulframe-fan-event) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/house-of-the-dragon-season-3-episode-4-review) — *IGN*
 
-### 3. The Best Deals Today: LEGO Technic McLaren P1, Trails in the Sky 1st Chapter, 4K Blu-rays, and More
+### 3. Disney's Live-Action Moana Bombs at the Box Office With Opening Weekend That Barely Beats Snow White
+
+[原文] Disney's live-action Moana movie washed up at the box office with an estimated global total of $95 million on its opening weekend.
+
+📎 [阅读原文](https://www.ign.com/articles/disneys-live-action-moana-bombs-at-the-box-office-with-opening-weekend-that-barely-beats-snow-white) — *IGN*
+
+### 4. Obsidian Director Blasts People 'Running Their Mouths' About How the Studio Has Changed Following Xbox Layoffs
+
+[原文] Obsidian Entertainment director Brandon Adler is tired of seeing "cold take artists" who are "running their mouths" about the studio following recent Xbox layoffs.
+
+📎 [阅读原文](https://www.ign.com/articles/obsidian-director-blasts-people-running-their-mouths-about-how-the-studio-has-changed-following-xbox-layoffs) — *IGN*
+
+### 5. The Best Deals Today: RayNeo Air 4 Pro AR Glasses, Nintendo Switch 2 Camera, Apple AirPods Pro 3, and More
 
 暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/best-deals-for-july-11-2026) — *IGN*
-
-### 4. Ryse: Son of Rome Had Plans To Be Xbox’s Assassin’s Creed
-
-[原文] Ryse: Son of Rome was originally planned to explore multiple eras, Assassin's Creed style, before critical and commercial failure sank Crytek and Xbox's ambition.
-
-📎 [阅读原文](https://www.ign.com/articles/ryse-son-of-rome-had-plans-to-be-xboxs-assassins-creed) — *IGN*
-
-### 5. EU Says It's Powerless to Stop PlayStation From Killing Discs: 'Companies Are Free to Offer Games and Services in the Manner They See Fit'
-
-[原文] As gamers sign online petitions and swarm upon each and every PlayStation social media post, the EU has said it’s powerless to actually stop Sony — and indeed any company — from killing discs.
-
-📎 [阅读原文](https://www.ign.com/articles/eu-says-its-powerless-to-stop-playstation-from-killing-discs-companies-are-free-to-offer-games-and-services-in-the-manner-they-see-fit) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/best-deals-for-july-12-2026) — *IGN*
 
 ---
 
@@ -439,35 +439,35 @@ The post Slate Knows That Gray Is Boring, So It&#8217;s Launching With Legit Cra
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Ellie Goulding Performs ‘Lights’ at World Cup Quarterfinal Game
+### 1. Madonna Returns to Number One on the Charts With ‘Confessions II’
+
+[原文] Singer scores her 10th chart-topping album, and becomes first artist of the 2020s to land Number Ones in four different decades
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/madonna-number-one-charts-confessions-ii-1235592485/) — *Rolling Stone*
+
+### 2. Ellie Goulding Performs ‘Lights’ at World Cup Quarterfinal Game
 
 [原文] “I already know the boys will make England proud, it's coming home," she wrote ahead of the game between England and Norway in Miami
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/ellie-goulding-performance-world-cup-quarterfinal-halftime-1235592231/) — *Rolling Stone*
 
-### 2. Bob Dylan’s Revolving Door of Touring Guitarists Welcomes Another New Addition
+### 3. Bob Dylan’s Revolving Door of Touring Guitarists Welcomes Another New Addition
 
 [原文] Memphis-based guitarist Jad Tariq made his debut in Dylan's unit Friday in Cincinnati, filling in for fellow new addition Julian Lage
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/bob-dylan-revolving-door-touring-guitarists-jad-tariq-1235592455/) — *Rolling Stone*
 
-### 3. Britney Spears Dismisses Odd Behavior on L.A. Highway: ‘Nothing Is What It Seems’
+### 4. Britney Spears Dismisses Odd Behavior on L.A. Highway: ‘Nothing Is What It Seems’
 
 [原文] "What people see is two seconds of insanity of me arching me to the lords," singer writes of standing through a moonroof on 101 Freeway
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/britney-spears-dismisses-odd-behavior-la-highway-1235592451/) — *Rolling Stone*
 
-### 4. See Jay-Z Bring Out Eminem, Pharrell Williams at Yankee Stadium Night 2
+### 5. See Jay-Z Bring Out Eminem, Pharrell Williams at Yankee Stadium Night 2
 
 [原文] Rapper's second night in the Bronx focused on his 2001 album The Blueprint
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/jay-z-eminem-pharrell-williams-yankee-stadium-night-two-1235592434/) — *Rolling Stone*
-
-### 5. Record Industry Proposes Adding Labels to AI-Generated Music
-
-[原文] "These labels will provide an immediately understandable and easily scalable approach to transparency," RIAA and other companies say of initiative
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/record-industry-proposal-labels-ai-generated-music-1235592406/) — *Rolling Stone*
 
 ---
 
@@ -515,7 +515,7 @@ The post Slate Knows That Gray Is Boring, So It&#8217;s Launching With Legit Cra
 - **💰 经济财经**: CNBC
 - **💻 科技**: TechCrunch
 - **🔬 科学**: Science Daily
-- **⚽ 体育**: BBC Sport
+- **⚽ 体育**: ESPN
 - **🎬 娱乐**: Variety
 - **🏥 健康**: WHO
 - **🎮 游戏**: IGN
