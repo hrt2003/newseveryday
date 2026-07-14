@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月14日** | 生成时间: 2026-07-14 03:27
+**2026年07月14日** | 生成时间: 2026-07-14 10:47
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump reinstating naval blockade of Iranian ports
+### 1. UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes
 
-[原文] The US president also says Washington will charge a 20% toll on all cargo shipped through the Strait of Hormuz.
+[原文] The third consecutive night of US strikes on Iran came as Trump announced a 20% charge as part of a new blockade on the strait.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Briton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety
+### 2. ''There was no way to get out': Witnesses describe how deadly inferno swept through Bangkok bar
+
+[原文] A musician who was performing when the fire broke out says he crawled for the exit - and was thrown from the bar when something exploded.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/crr8gnx01d7o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. Briton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety
 
 [原文] Malcolm Timbrell's wife and their friends are thought to have died when a devastating wildfire tore through their village in Spain.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cp9ld3p324jo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. At least 28 killed, 25 critically injured after fire engulfs Bangkok bar
+### 4. Colombian national killed by ICE agent during operation in Maine
 
-[原文] Firefighters arrived at the scene in the Chatuchak district to find patrons running through flames to escape.
+[原文] It comes less than a week after an undocumented migrant was fatally shot in Houston by an immigration agent.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c2ly580kxnko?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. 'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78
+### 5. Identity of Sydney daycare worker facing 329 child abuse offences revealed
 
-[原文] Friends, politicians and fellow film stars remember Neill following his "sudden and unexpected" death.
+[原文] Hamish Tait is accused of abusing 136 children at five childcare facilities over a 16-year period.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy06e5e1lygo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Senator Lindsey Graham died of aortic tear, examiner says
-
-[原文] Graham, a close Republican ally of Donald Trump, died at the age of 71 on Saturday evening.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cn75083d472o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5yzy0lpello?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump proposes 20% toll on cargo through Strait of Hormuz; restarts Iran blockade
+### 1. Oil gains over 2% as Mideast tensions and Hormuz toll prospects raise supply worries
 
-[原文] The Strait of Hormuz is a major oil shipping route and the epicenter of the U.S. and Israel's ongoing war with Iran.
+[原文] Oil prices rose on Tuesday after U.S. President Donald Trump announced plans to impose shipping fees in the Strait of Hormuz.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/13/trump-iran-hormuz-strait-charge-reimburse.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/14/oil-prices-today-brent-wti-hormuz-trump-toll-iran.html) — *CNBC*
 
-### 2. Trump recommends Lindsey Graham's sister serve as interim senator for South Carolina
+### 2. U.S. completes strikes against Iran, while Tehran targets Gulf neighbors
+
+[原文] The U.S. has completed a third consecutive night of strikes against Iran, as Tehran targets U.S. military facilities in the region.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/14/us-iran-hormuz-strikes-oil-toll.html) — *CNBC*
+
+### 3. China exports jump at fastest pace since 2021 as AI boom, tariff rush lift trade
+
+[原文] China's trade growth accelerated far more than expected in June, as booming global demand for AI hardware and a rush by exporters to beat anticipated tariff hikes turbocharged shipments.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/14/china-june-trade-data-exports-imports.html) — *CNBC*
+
+### 4. South Carolina governor taps Lindsey Graham's sister to serve as interim senator
 
 [原文] The death of Sen. Lindsey Graham ignited a scramble among South Carolina Republicans to prepare for a special primary election to replace him on the GOP ticket.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/13/trump-lindsey-graham-darline-south-carolina-senator.html) — *CNBC*
 
-### 3. Judge says Trump sued IRS for 'improper purpose'; refers his lawyer to bar
+### 5. Trump's Hormuz toll plans bring oil supply risks back in spotlight
 
-[原文] Trump's lawsuit against the IRS was settled by the Justice Department with an agreement to create a $1.8 billion "lawfare" fund that has since been scrapped.
+[原文] President Donald Trump's plan to impose a 20% fee on cargo passing through the Strait of Hormuz is threatening the global oil surplus.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/13/trump-irs-doj-lawsuit-blanche.html) — *CNBC*
-
-### 4. UN maritime agency opposes Hormuz transit fees after Trump demands protection money
-
-[原文] The security situation in Hormuz has deteriorated since Iran attacked multiple commercial ships transiting the strait over the past week.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/13/imo-maritime-organization-strait-hormuz-tolls-trump-iran.html) — *CNBC*
-
-### 5. Paramount, WBD hit with lawsuit from 12 states, including California, to block merger
-
-[原文] A group of states, including California, filed a lawsuit to block the merger between Paramount and Warner Bros. Discovery.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/13/paramount-wbd-merger-lawsuit.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/14/trumps-hormuz-toll-plans-bring-oil-supply-risks-back-in-spotlight.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The wildest allegations in Apple’s trade secrets lawsuit against OpenAI
+### 1. Already rich, already successful, why the last wave of tech winners is grinding again
 
-[原文] Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates were asked to bring Apple 
+[原文] They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lot more.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/) — *TechCrunch*
 
-### 2. Sam Altman’s space data center trash talk is what most experts already believe
+### 2. Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”
 
-[原文] Responding to Musk accusing him of being a scammer, Altman said, "homeboy you're the one sellling [sic] public market investors on short-term space datacenters."
+[原文] Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and 
 
-📎 [阅读原文](https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/) — *TechCrunch*
 
-### 3. Investors send General Fusion soaring in debut as first publicly traded fusion company
+### 3. Video-generation startup PixVerse raises $439M, valuation soars past $2B
 
-[原文] General Fusion started trading on the Nasdaq following a reverse merger that saw high redemptions.
+[原文] With the cash, the company aims to expand its world model offering and reach customers across geographies.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/13/investors-send-general-fusion-soaring-in-debut-as-first-publicly-traded-fusion-company/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/) — *TechCrunch*
 
-### 4. 12 states sue to block Paramount’s $110B Warner Bros. deal
+### 4. X just tweaked its algorithm to make it more friendly, less battleground
 
-[原文] The states allege that the deal would harm movie theaters, basic cable distributors, and audiences.
+[原文] The social media site says it will amplify posts made by users' mutual followers' to give the feed more of a communal feel.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/13/12-states-sue-to-block-paramounts-110b-warner-bros-deal/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/13/x-just-tweaked-its-algorithm-to-make-it-more-friendly-less-battleground/) — *TechCrunch*
 
-### 5. Should AI help you get away with killing your spouse?
+### 5. Hermes agent maker Nous Research in talks for new funding at $1.5B valuation
 
-[原文] What does a world of total user-aligned AI actually look like?
+[原文] The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Projecting the USMNT 2030 World Cup roster: 30 pla...
+### 1. England to make late call on Rice for World Cup semi-final
 
-[原文] The tears are barely dry from the USMNT's 2026 World Cup exit, but the page immediately turns to the 2030 World Cup. Here's who could represent the U.S. in four years.
+[原文] England will make a late decision on whether Declan Rice is fit to start Wednesday's World Cup semi-final against Argentina.
 
-📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49344843/projecting-usmnt-2030-world-cup-roster-30-players-rep-us-four-years) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ce8m996g9g1o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. McGregor to have surgery, plans to fight again
+### 2. 'Easy to create divisions' - Kane says England are 'completely together'
 
-[原文] Conor McGregor will undergo surgery following his first-round loss to Max Holloway at UFC 329, and then he will fight again.
+[原文] England captain Harry Kane says the squad are "completely together" before their World Cup semi-final against Argentina.
 
-📎 [阅读原文](https://www.espn.com/mma/story/_/id/49350613/conor-mcgregor-undergo-surgery-plans-fight-again) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c8924433kjyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Harper denies giving FanDuel consent for fan video...
+### 3. Man Utd sign £48m Santos and close in on Tielemans
 
-[原文] Phillies star Bryce Harper said Monday that he did not know how FanDuel would use a personalized video he made for a customer, who has since accused the sportsbook in a lawsuit of taking advantage of 
+[原文] Manchester United sign Andrey Santos from Chelsea and are in advanced talks with Aston Villa for Youri Tielemans.
 
-📎 [阅读原文](https://www.espn.com/mlb/story/_/id/49352243/bryce-harper-denies-giving-fanduel-consent-video-customer) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cn07dpgkj4eo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Ex-Kansas player charged with attempted murder
+### 4. Most clinical? Least creative? Best in the air? Comparing the last four
 
-[原文] Lagerald Vick, a member of the Kansas Jayhawks' Final Four basketball team in 2018, has been charged with attempted first-degree murder in Tennessee.
+[原文] BBC Sport compares statistics for France, Spain, Argentina and England in the World Cup so far as the semi-finalists prepare to meet.
 
-📎 [阅读原文](https://www.espn.com/mens-college-basketball/story/_/id/49350117/ex-kansas-player-lagerald-vick-charged-attempted-murder) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cx2k9qj2nyvo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Rams' Jackson won't face felony charge for arrest
+### 5. 'Out of this world!' - Best shots of Wimbledon 2026
 
-[原文] The Rams' Alaric Jackson will not face a felony charge after he was arrested on a domestic violence charge in June, the Los Angeles County District Attorney's Office confirmed to ESPN.
+[原文] Enjoy the best shots of Wimbledon 2026, featuring Great Britain's Arthur Fery, Novak Djokovic, Coco Gauff and more.
 
-📎 [阅读原文](https://www.espn.com/nfl/story/_/id/49351981/rams-alaric-jackson-face-felony-charge-june-arrest) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/videos/cx2k9v4957no?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Netflix Orders ‘Monopoly’ Competition Series With $2 Million Dollar Prize
+### 1. Paramount CEO David Ellison Backing Bipartisan Federal Film Tax Incentive
 
-[原文] &#8220;Monopoly&#8221; is about to get a lot more realistic. Netflix announced it is now casting for the new competition series based on the world of &#8220;Monopoly,&#8221; where contestants have the
+[原文] Paramount Skydance CEO David Ellison has been quietly backing a bill to launch a federal film tax incentive, with lawmaker support on both sides of the aisle, multiple sources told Variety. Ellison ha
 
-📎 [阅读原文](https://variety.com/2026/tv/news/netflix-monopoly-competition-series-casting-1236809961/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/paramount-david-ellison-federal-film-tax-incentive-1236810169/) — *Variety*
 
-### 2. ‘Dance Moms’ Parody Musical Adds ‘Titaníque’ Director and Co-Creator Tye Blue to Creative Team (EXCLUSIVE)
+### 2. ‘Kong x Godzilla’ Ride Set to Open at Korea’s Lotte World This Month: It’s ‘Extremely Immersive’ (EXCLUSIVE)
 
-[原文] Tye Blue, director and co-creator of the Tony-winning “Titaníque,” has joined the creative team of “The Pyramid: An Unauthorized ‘Dance Moms’ Musical&#8221;, a new parody written by longtime “Dance Mo
+[原文] Legendary Entertainment&#8217;s first theme park attraction, &#8220;Kong x Godzilla&#8221; at Lotte World in Seoul, opens July 24, marking the studio&#8217;s entry into location-based entertainment af
 
-📎 [阅读原文](https://variety.com/2026/tv/columns/dance-moms-parody-musical-titanique-tye-blue-1236809314/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/kong-godzilla-ride-korea-lotte-world-1236809506/) — *Variety*
 
-### 3. Al Pacino to Serve as Lead Juror for Lee Strasberg Film Festival- Film News in Brief
+### 3. Daytime Emmys Announce 2026 Nominations (UPDATING)
 
-[原文] Al Pacino is returning to the Lee Strasberg Theatre &#38; Film Institute as the lead juror for the Lee Strasberg Film Festival (LSFF) this November. Pacino, who studied method acting under Strasberg, 
+[原文] The 53rd annual Daytime Emmy nominations announcement is underway. Among early nominees: Recently ended talkers &#8220;The Kelly Clarkson Show&#8221; (recognized for talk series and talk host) and &#8
 
-📎 [阅读原文](https://variety.com/2026/film/news/film-news-in-brief-july-13-2026-1236809687/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/awards/daytime-emmys-2026-nominations-list-1236810049/) — *Variety*
 
-### 4. Why I’m Suing to Block the Paramount-Warner Bros. Merger (Guest Column)
+### 4. ‘Cats: The Jellicle Ball’ Ending Broadway Run in August
 
-[原文] Paramount Skydance CEO David Ellison may think the promise of the Paramount Warner Bros. Discovery mega-merger is an offer we can’t refuse, but I’m here to say: He’s wrong. I am leading a coalition of
+[原文] Rave reviews, decent ticket sales and some Tony Awards love aren&#8217;t enough to keep &#8220;Cats: The Jellicle Ball&#8221; from ending its Broadway run early. The musical revival of Andrew Lloyd We
 
-📎 [阅读原文](https://variety.com/2026/film/news/rob-bonta-paramount-warner-bros-merger-guest-column-1236809787/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/legit/news/cats-the-jellicle-ball-ending-broadway-run-early-1236810127/) — *Variety*
 
-### 5. NowThis Hires Georgie Guinane as Head of L.A. Studio
+### 5. Hudson Williams Confronts Autograph Hounds Who Followed Him Home in Viral Video: ‘Please F—ing Leave’
 
-[原文] NowThis, the digital-first and social news outlet that targets Gen Z audiences, has hired producer Georgie Guinane as head of studio, L.A. In the new role, Guinane will lead NowThis’ Los Angeles studi
+[原文] “Heated Rivalry” star Hudson Williams told off a group of autograph hounds who followed him to a private residence in Paris for his signature. The confrontation was captured in a now viral video share
 
-📎 [阅读原文](https://variety.com/2026/digital/news/nowthis-georgie-guinane-ead-la-studio-1236809790/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/hudson-williams-confronts-fans-followed-him-home-autograph-1236810084/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Popular Bluetti AC70 768Wh 1,000W LiFePO4 Power Station With 5 Year Warranty Drops to $200
+### 1. Save $50 Off the AirPods Pro 3 Noise Canceling Earbuds
 
-[原文] Lowest price of the year (even beats out Amazon Prime Day).
+[原文] The best earbuds for iPhone.
 
-📎 [阅读原文](https://www.ign.com/articles/bluetti-ac70-768wh-1000w-lifepo4-power-station-deal-in-july-updated) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/best-apple-airpods-pro-3-earbuds-deal-july-2026) — *IGN*
 
-### 2. Save $2,500 Off the Alienware 16X Aurora RTX 5070 Gaming Laptop Loaded With 64GB of RAM and 4TB SSD
+### 2. Avengers: Doomsday Runtime Revealed, Ticket Pre-Sales Begin Soon
 
-[原文] 50% off a premium all-metal gaming laptop with $1,400+ worth of RAM and SSD storage.
+[原文] Avengers: Doomsday's general runtime has been revealed ahead of early ticket pre-sales.
 
-📎 [阅读原文](https://www.ign.com/articles/dell-alienware-16x-aurora-rtx-5070-gaming-laptop-deal-in-july) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/avengers-doomsday-runtime-revealed-ticket-pre-sales-begin-soon) — *IGN*
 
-### 3. The Lord of the Rings: The Hunt for Gollum Will Use AI to De-Age Some of Its Characters
+### 3. The Tiny Aoostar Ryzen 7 Pro 6850H Mini PC With 24GB of DDR5 RAM and USB 4 Ports Drops Below $300
 
-[原文] The Lord of the Rings: The Hunt for Gollum will digitally de-age some of its characters using machine learning and AI, director Andy Serkis has admitted.
+[原文] A Mac Mini-sized PC with a ton of versatility (including light gaming).
 
-📎 [阅读原文](https://www.ign.com/articles/the-lord-of-the-rings-the-hunt-for-gollum-will-use-ai-to-de-age-some-of-its-characters) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/aoostar-ryzen-7-pro-6850h-mini-pc-deal-july-2026-updated) — *IGN*
 
-### 4. Save 50% Off Anker's Newly Released SOLIX S2000 2,048Wh 2,400W LiFePO4 Power Station
+### 4. Thousands of Xbox Players Demand an End to Layoffs, Studio Closures on Microsoft's Own Fan Feedback Website
 
-[原文] Anker's lightest ever 2kWh power station with 96% efficiency, 6W power draw, and 10ms UPS switchover.
+[原文] Xbox players are taking a stand against Microsoft's layoffs in a place where their voices may be heard the loudest: an official fan feedback website.
 
-📎 [阅读原文](https://www.ign.com/articles/new-release-anker-solix-s2000-lifepo4-power-station-deal) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/thousands-of-xbox-players-demand-an-end-to-layoffs-studio-closures-on-microsofts-own-fan-feedback-website) — *IGN*
 
-### 5. Call of Duty: Black Ops Port Deemed 'Unplayable' As Lobbies Are Filled With Exploiters
+### 5. The Popular Budget-Friendly Flashforge Adventurer 5M 3D Printer Drops to Just $155 Shipped
 
-[原文] The new PS4 and PS5 port of Call of Duty: Black Ops is being called "unplayable" by fans after exploits have consumed multiplayer lobbies.
+[原文] Produce consistent quality 3D prints without spending hundreds of dollars.
 
-📎 [阅读原文](https://www.ign.com/articles/call-of-duty-black-ops-port-deemed-unplayable-as-lobbies-are-filled-with-exploiters) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/flashforge-adventurer-5m-3d-printer-deal-july-2026) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Private Equity Is Eating the Car Modding Industry
+### 1. How The Wrong Car Cover Can Cause Rust
+
+[原文] Car covers are not all created equally, and one that works well to protect against mice might actually be terrible against rain. 
+The post How The Wrong Car Cover Can Cause Rust appeared first on The 
+
+📎 [阅读原文](https://www.thedrive.com/news/how-the-wrong-car-cover-can-cause-rust) — *The Drive*
+
+### 2. Latest Forza Horizon 6 Update Puts a Fun New Twist on Buying Used Cars
+
+[原文] The latest FH6 update finally makes car dealers feel like a part of its open world.
+The post Latest Forza Horizon 6 Update Puts a Fun New Twist on Buying Used Cars appeared first on The Drive.
+
+📎 [阅读原文](https://www.thedrive.com/news/latest-forza-horizon-6-update-puts-a-fun-new-twist-on-buying-used-cars) — *The Drive*
+
+### 3. Another Important Tuner Car Brand Has Been Grabbed by Private Equity
 
 [原文] Legendary tuning house Hondata has reportedly been bought by the same company that owns Cobb Tuning, AutoMeter, and some other big names in the automotive aftermarket.
-The post Private Equity Is Eatin
+The post Another Important Tuner
 
 📎 [阅读原文](https://www.thedrive.com/news/private-equity-is-eating-the-car-modding-industry) — *The Drive*
 
-### 2. Even Name-Brand Gas Stations Can and Will Sell You Off-Brand Fuel
+### 4. Even Name-Brand Gas Stations Can and Will Sell You Off-Brand Fuel
 
 [原文] Just because you're filling up at a Shell doesn't necessarily mean it's dispensing Shell fuel. 
 The post Even Name-Brand Gas Stations Can and Will Sell You Off-Brand Fuel appeared first on The Drive.
 
 📎 [阅读原文](https://www.thedrive.com/news/why-name-brand-gas-stations-can-and-will-sell-you-off-brand-fuel) — *The Drive*
 
-### 3. This Volvo V90’s Most Bizarre Feature Isn’t the Paint. It’s in the Trunk
+### 5. This Volvo V90’s Most Bizarre Feature Isn’t the Paint. It’s in the Trunk
 
 [原文] There's a hole in the back that exposes a fifth wheel and tire for one incredibly specific task: airport runway friction testing.
 The post This Volvo V90&#8217;s Most Bizarre Feature Isn&#8217;t the P
 
 📎 [阅读原文](https://www.thedrive.com/news/this-volvo-v90s-most-bizarre-feature-isnt-the-paint-its-in-the-trunk) — *The Drive*
-
-### 4. 2026 Honda Civic Sport Review: The Best $28,000 You’ll Spend
-
-[原文] The sweetheart of the Honda Civic lineup best embraces the Japanese automaker's ethos: simplicity, efficiency, reliability, and driving enjoyment—all for a fair price.
-The post 2026 Honda Civic Sport 
-
-📎 [阅读原文](https://www.thedrive.com/car-reviews/2026-honda-civic-sport-review) — *The Drive*
-
-### 5. Jeep and Ram Are Riding High Thanks to North America: TDS
-
-[原文] Stellantis' Q2 figures are in, and while the company posted solid sales globally, it's clear that North America carried the effort.
-The post Jeep and Ram Are Riding High Thanks to North America: TDS a
-
-📎 [阅读原文](https://www.thedrive.com/news/jeep-and-ram-are-riding-high-thanks-to-north-america-tds) — *The Drive*
 
 ---
 
@@ -363,35 +363,35 @@ The post Jeep and Ram Are Riding High Thanks to North America: TDS a
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Virginia’s Governor Weighs in on Pivotal Case About Data Center Transmission Costs
+### 1. The World’s Largest Meat Company Abandons Its Climate and Deforestation Goals
+
+[原文] The world’s largest meat company is backing away from its climate and deforestation commitments after claiming for several years that reducing its greenhouse gas emissions was a key goal. In its recen
+
+📎 [阅读原文](https://insideclimatenews.org/news/13072026/jbs-meat-company-abandons-climate-deforestation-goals/) — *Inside Climate News*
+
+### 2. A Key Forever Chemicals Lawsuit Settles Out of Court in North Carolina
+
+[原文] Forever War: This is part of a series about the PFAS crisis in North Carolina. CUMBERLAND COUNTY, N.C.—Mike Watters was running on two hours of sleep and one cup of coffee as he drove home to Grays Cr
+
+📎 [阅读原文](https://insideclimatenews.org/news/13072026/north-carolina-chemours-forever-chemicals-lawsuit-settlement/) — *Inside Climate News*
+
+### 3. Alabama Data Center Non-Disclosure Agreement Required City Officials to Destroy Records, Document Shows
+
+[原文] BESSEMER, Ala.—After months of resistance, officials in a historic suburb of Birmingham have released a non-disclosure agreement between city leaders and developers of a hyperscale data center. The re
+
+📎 [阅读原文](https://insideclimatenews.org/news/13072026/alabama-data-center-non-disclosure-agreement/) — *Inside Climate News*
+
+### 4. Virginia’s Governor Weighs in on Pivotal Case About Data Center Transmission Costs
 
 [原文] Virginia Gov. Abigail Spanberger, through a filing submitted by her newly appointed chief energy officer, is urging regulators at the State Corporation Commission to assign costs of transmission proje
 
 📎 [阅读原文](https://insideclimatenews.org/news/13072026/virginias-governor-spanberger-data-center-transmission-costs/) — *Inside Climate News*
 
-### 2. Corpus Christi Residents and Businesses Subsidized Industrial Water Bills for Years, Officials Say
+### 5. Corpus Christi Residents and Businesses Subsidized Industrial Water Bills for Years, Officials Say
 
 [原文] This story was produced in partnership by Inside Climate News and the Texas Newsroom, the state’s network of public radio stations. For at least a decade, Corpus Christi sold water to a handful of lar
 
 📎 [阅读原文](https://insideclimatenews.org/news/13072026/corpus-christi-water-rates-case/) — *Inside Climate News*
-
-### 3. Colorado Voters Will Decide Whether a ‘Right to Natural Gas’ is Added to the State Constitution
-
-[原文] A ballot measure written by a conservative nonprofit could amend the Colorado Constitution to enshrine fossil fuel companies&#8217; right to sell methane gas and possibly force communities that have t
-
-📎 [阅读原文](https://insideclimatenews.org/news/13072026/colorado-right-to-natural-gas-amendment/) — *Inside Climate News*
-
-### 4. In Gambia, Salt Water Intrusion Is the Leading Edge of Climate Change
-
-[原文] BANTANG KILLING, Gambia—In this little village in West Africa, Ebrima Nyan is watching his farmland slowly wither away. When Nyan, 47, was a teenager, the village grew all the rice it consumed, in a f
-
-📎 [阅读原文](https://insideclimatenews.org/news/12072026/gambia-sea-level-rise-agricultural-crisis/) — *Inside Climate News*
-
-### 5. Herring and Herons: Signs of the Charles River’s Vast Improvement
-
-[原文] This article previously appeared in Cambridge Day. From Boston’s Museum of Science to the Watertown Dam, the Charles River this spring was rife with river herring swirling in the water like scores of 
-
-📎 [阅读原文](https://insideclimatenews.org/news/12072026/herring-and-herons-signs-of-the-charles-rivers-vast-improvement/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post Jeep and Ram Are Riding High Thanks to North America: TDS a
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Young Thug Plots YSL The New Generation Tour
+### 1. Jack White Performs the White Stripes’ 1999 Track ‘Cannon’ With Daughter Scarlett
+
+[原文] The track featured on the White Stripes' debut album
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/jack-white-the-white-stripes-cannon-daughter-scarlett-white-1235593068/) — *Rolling Stone*
+
+### 2. Madonna Reflects on ‘Confessions II’ Success: ‘Words Cannot Express How Grateful and Surprised I Am’
+
+[原文] The icon responded to her new album opening at Number One on the Billboard 200
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/madonna-confessions-ii-number-one-charts-message-to-fans-1235593057/) — *Rolling Stone*
+
+### 3. Levon Helm’s Family Embroiled in Dispute Over His Famed Woodstock Venue
+
+[原文] Daughter Amy Helm claims “disturbing circumstances” led to her ouster from Levon Helm Studio after her stepmother, Sandra, backed a leadership change
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/levon-helm-studios-dispute-amy-helm-removed-takeover-fight-1235592959/) — *Rolling Stone*
+
+### 4. Young Thug Plots YSL The New Generation Tour
 
 [原文] Rapper taps YSL Records artists Tezzus, 1300saint, Iyrus, Yume, Biggs, Unky, and Diamond* for the run
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/young-thug-ysl-the-new-generation-tour-1235592866/) — *Rolling Stone*
 
-### 2. L7 Bassist Jennifer Finch Diagnosed With Brain Cancer
+### 5. L7 Bassist Jennifer Finch Diagnosed With Brain Cancer
 
 [原文] After launching a GoFundMe Finch will miss the upcoming North American leg of L7’s Last Hurrah Tour after undergoing multiple surgeries
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/l7-jennifer-finch-brain-cancer-gofundme-1235592701/) — *Rolling Stone*
-
-### 3. Jay-Z Concert Delayed by Gatecrashers Who ‘Stormed Over Ticketholders’
-
-[原文] What was supposed to be a 9 p.m. start time on Sunday night was pushed back past midnight after the security incident
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/jay-z-concert-delayed-by-gatecrashers-at-yankee-stadium-1235590392/) — *Rolling Stone*
-
-### 4. Mastodon Preview New Album With Rousing Single ‘Snakes for Dinner’
-
-[原文] Grammy-winning rock band will release Marrow Deep, its ninth studio album, next month
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/mastodon-snakes-for-dinner-single-marrow-deep-album-1235592538/) — *Rolling Stone*
-
-### 5. Madonna Returns to Number One on the Charts With ‘Confessions II’
-
-[原文] Singer scores her 10th chart-topping album and becomes first artist of the 2020s to land Number Ones in four different decades
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/madonna-number-one-charts-confessions-ii-1235592485/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post Jeep and Ram Are Riding High Thanks to North America: TDS a
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Canadian Travel to the U.S. Is Rising Again — Still Down Almost 29% From 2024
+### 1. Casago Sold Nearly All Vacasa’s Property Manager Acquisitions and Turned Many Into Franchises
+
+[原文] It was quite a fall from grace for Vacasa, which as a private company in 2021 had a private valuation of $4.5 billion. Casago acquired it for less than $100 million, and now the last of Vacasa's remna
+
+📎 [阅读原文](https://skift.com/2026/07/13/casago-sold-nearly-all-vacasas-property-manager-acquisitions-and-turned-many-into-franchises/) — *Skift*
+
+### 2. Canadian Travel to the U.S. Is Rising Again — Still Down Almost 29% From 2024
 
 [原文] This "rebound" in Canadian travel to the U.S. only looks good next to last year's collapse.
 
 📎 [阅读原文](https://skift.com/2026/07/13/canadian-travel-to-the-u-s-is-rising-again-still-down-almost-29-from-2024/) — *Skift*
 
-### 2. Accor and IndiGo Launch Loyalty Exchange — Experiences and More Links Are Next
+### 3. Accor and IndiGo Launch Loyalty Exchange — Experiences and More Links Are Next
 
 [原文] The fact that it took Accor and IndiGo more than a year to roll out their loyalty partnership suggests there is a larger ambition to this than just swapping points.
 
 📎 [阅读原文](https://skift.com/2026/07/13/accor-and-indigo-launch-loyalty-exchange-experiences-and-more-links-are-next/) — *Skift*
 
-### 3. When Hospitality Fails, The Problem Might Be the Guest
+### 4. When Hospitality Fails, The Problem Might Be the Guest
 
 [原文] The best hospitality is not a flawless one-way delivery. It is an exchange — and the guest has to bring attention, curiosity, and presence.
 
 📎 [阅读原文](https://skift.com/2026/07/13/when-hospitality-fails-the-problem-might-be-the-guest/) — *Skift*
 
-### 4. Ennismore Thinks Lifestyle Brands Can Survive All-Inclusive. Mondrian Is the Next Test
+### 5. Ennismore Thinks Lifestyle Brands Can Survive All-Inclusive. Mondrian Is the Next Test
 
 [原文] Mass-market operators built all-inclusive on price and volume. Ennismore is trying to prove its lifestyle brands can carry the format upmarket.
 
 📎 [阅读原文](https://skift.com/2026/07/13/ennismore-thinks-lifestyle-brands-can-survive-all-inclusive-mondrian-is-the-next-test/) — *Skift*
-
-### 5. What Haaland Mania Won’t Do for Norway Tourism
-
-[原文] Haaland mania is real. It will not move Norwegian tourism, and the visitors it might send are the ones Norway is already pricing out.
-
-📎 [阅读原文](https://skift.com/2026/07/10/what-haaland-mania-wont-do-for-norway-tourism/) — *Skift*
 
 ---
 
@@ -515,7 +515,7 @@ The post Jeep and Ram Are Riding High Thanks to North America: TDS a
 - **💰 经济财经**: CNBC
 - **💻 科技**: TechCrunch
 - **🔬 科学**: Science Daily
-- **⚽ 体育**: ESPN
+- **⚽ 体育**: BBC Sport
 - **🎬 娱乐**: Variety
 - **🏥 健康**: WHO
 - **🎮 游戏**: IGN
