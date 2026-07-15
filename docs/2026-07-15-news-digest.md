@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月15日** | 生成时间: 2026-07-15 16:20
+**2026年07月15日** | 生成时间: 2026-07-15 21:50
 
 ---
 
@@ -16,11 +16,11 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump threatens to bomb bridges and power plants unless Iran resumes talks
+### 1. Iran threatens to block more trade routes as US launches fresh strikes
 
-[原文] Trump's comments aired as the two countries exchanged fire for the fourth day in a row and the US resumed blockading Iranian ports.
+[原文] US President Donald Trump vowed to strike Iran's bridges and power plants next week if the country does not return to talks.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 2. Trump retreat over Hormuz tolls suggests he is struggling to end Iran war
 
@@ -34,17 +34,17 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. China economic growth falls sharply, missing target
+### 4. Russian attacks kill eight as Ukraine hits Black Sea oil tankers
 
-[原文] Weak demand domestically and the impact of the Iran war on oil prices overshadowed the country's strong exports.
+[原文] Civilian casualties are reported in four Ukrainian regions, while Kyiv hits 20 Russian vessels in the Black Sea.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cd959x4edy8o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Seven Britons among those killed in Spain wildfires
+### 5. Italy's Meloni suffers surprise setback in close vote on electoral reform
 
-[原文] Twelve of the 13 victims were foreign nationals, Spanish authorities said on Tuesday.
+[原文] The defeat triggered opposition calls for Meloni to resign ahead of next year's general election.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cp8l87784ngo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c1kykx3vnyyo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ASML rises 5% after hiking sales forecast for second time this year on strong AI chip demand
+### 1. Wholesale prices unexpectedly declined 0.3% in June on big drop in gasoline
 
-[原文] ASML on Wednesday raised its guidance for a second time this year as its customers continue to ramp up their production capacity of AI chips.
+[原文] As with consumer prices, the index benefited from easing energy costs, particularly as oil fell due to the brief pause in tensions between the U.S. and Iran.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/15/asml-2q-earnings-ai-chips-orders.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/15/wholesale-inflation-june-2026-.html) — *CNBC*
 
-### 2. Oil rises after another round of U.S. strikes against Iran, naval blockade of the country's ports
+### 2. Warren Buffett on the market today: 'It's tough to find values when everybody is preferring gambling'
 
-[原文] Oil prices rose Wednesday after U.S. forces struck Tehran and Washington reinstated its naval blockade of Iranian ports near the Strait of Hormuz.
+[原文] The investor has been sharply critical of the stock market, one that he says is increasingly defined by speculative trading as opposed to long-term investing.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/15/oil-prices-today-brent-wti-hormuz-blockade.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/15/warren-buffett-on-the-market-today-its-tough-to-find-values-when-everybody-is-preferring-gambling.html) — *CNBC*
 
-### 3. China posts slowest quarterly growth since 2022 as investment slumps, fanning stimulus calls
+### 3. U.S. launches fresh wave of strikes on Iran, as analysts warn conflict risks becoming 'forever war'
 
-[原文] That second-quarter growth came below Beijing's full-year growth target range of 4.5% to 5%, the least ambitious goal in decades.
+[原文] Fighting in the Middle East has intensified in recent days, but could escalate further if Iran fails to cooperate, President Donald Trump said.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/15/china-gdp-retail-sales-investment-june-.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/15/trump-iran-hormuz-strikes-power-plants-targeted.html) — *CNBC*
 
-### 4. Why Europe is suddenly betting big on drones
+### 4. Watch Fed Chairman Kevin Warsh testify live before Senate banking committee
 
-[原文] Drones and autonomous systems are moving from niche battlefield tools to a core part of modern warfare.
+[原文] Part of congressionally mandated Capitol Hill appearances for the central bank leader, Warsh spoke Tuesday to the House Financial Services Committee.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/15/drones-defense-europe-autonomous-weapons.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/15/watch-fed-chairman-kevin-warsh-testify-live-before-senate-banking-committee.html) — *CNBC*
 
-### 5. The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase
+### 5. Morgan Stanley posts record quarterly revenue and profit as equities trading surges 69%
 
-[原文] Goldman Sachs and JPMorgan showed that Wall Street is a major beneficiary of the AI boom, with record revenue driven by surging trading and investment banking.
+[原文] Like at peers Goldman Sachs and JPMorgan Chase, a massive beat in equities trading drove the quarter's outsized results.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/15/morgan-stanley-ms-earnings-q2-2026-.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B
+### 1. Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models
 
-[原文] The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.
+[原文] Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/) — *TechCrunch*
 
-### 2. Lorde says AI glasses are ‘not sexy’
+### 2. Rime picks up $24M Series A to help enterprises field customer calls
 
-[原文] "Increasingly in our world, it gets harder and harder to know what is real," Lorde said onstage.
+[原文] Rime is handling over 100 million calls each month across multiple companies
 
-📎 [阅读原文](https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/) — *TechCrunch*
 
-### 3. OpenAI’s first hardware device is reportedly a screenless speaker that can move
+### 3. Reelful’s AI turns your camera roll into short-form videos for social media
 
-[原文] The device is weirdly described as involving "mechanical elements that can move on their own" and the Bloomberg report includes the detail that the device is designed to "feel like a companion and bec
+[原文] The app is designed for people who want to create social content, but find traditional video editing tools too complex or time-consuming.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/) — *TechCrunch*
 
-### 4. OpenAI pushes back on Apple trade secret lawsuit
+### 4. Indian AI coding startup Emergent becomes a unicorn with $130M Series C
 
-[原文] OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit.
+[原文] The startup has reached a $120 million annualized revenue run rate and more than 200,000 paying customers.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/) — *TechCrunch*
 
-### 5. OpenAI’s new flagship model deletes files on its own, people keep warning
+### 5. Vint Cerf is working on a plan to unleash AI agents on the open internet
 
-[原文] A number of social media posts claim that GPT-5.6 Sol deleted files and data without warning. OpenAI had basically disclosed the problem in June.
+[原文] The guy behind TCP/IP is working on a standard for identifying AI agents in the wild.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. I still feel pain of '98 but this can be different for England - Shearer
+### 1. Who are the best wide receivers in the NFL? We ask...
 
-[原文] England's defeat by Argentina at the 1998 World Cup still burns deep for Alan Shearer, but he explains why this team can take their chance to change their lives forever.
+[原文] Ja'Marr Chase or Justin Jefferson or someone else at No. 1? Which teams' WR1 and WR2 both made the top 10? See how NFL decision-makers stacked the position.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c6212j5zw3ko?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/nfl/story/_/id/49252915/ranking-nfl-top-10-wide-receivers-2026-execs-coaches-scouts) — *ESPN*
 
-### 2. Mates, mate and freedom - how Argentina got the best out of Messi
+### 2. Yzerman abruptly steps down as Red Wings GM
 
-[原文] Guillem Balague examines how the Argentina squad is built around Lionel Messi as they prepare to play against England in the World Cup semi-finals.
+[原文] Steve Yzerman abruptly stepped down as general manager of the Red Wings on Wednesday.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cx2j24y9jzyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/nhl/story/_/id/49366494/steve-yzerman-abruptly-steps-red-wings-gm) — *ESPN*
 
-### 3. What happened to David Batty, who shook off penalty miss against Argentina?
+### 3. Cease, 10 AL relievers silence NL in 15-K shutout
 
-[原文] England midfielder David Batty quickly shook off his penalty miss against Argentina in 1998. As the two teams prepare to meet in the World Cup knockout stage again, BBC Sport asks: what happened to hi
+[原文] Starting pitcher Dylan Cease combined with 10 relievers in a dominant three-hit, 15-strikeout shutout of the National League in a 4-0 win in Tuesday night's All-Star Game.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cp9jn090kv2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/mlb/story/_/id/49364253/cease-bullpen-silence-nl-15-k-shutout-al-wins-all-star-game) — *ESPN*
 
-### 4. A special team beats brilliant individuals - how silky Spain flattened France
+### 4. Mbappé critical of tactics in loss by 'sloppy' Fra...
 
-[原文] Spain have rather flown under the radar at the 2026 World Cup - but will they go all the way and win it?
+[原文] Kylian Mbappé seemed to question Didier Deschamps' approach and tactics after France's 2-0 defeat to Spain in the FIFA World Cup semifinal Tuesday.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cpv3v0gkw9vo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49362319/kylian-mbappe-critical-tactics-sloppy-france-loss) — *ESPN*
 
-### 5. World Cup final half-time to last up to 25 minutes
+### 5. Fan fired for alleged racist message to Aces' Gray...
 
-[原文] The half-time break in Sunday's World Cup final is expected to last between 20 and 25 minutes.
+[原文] Hilton Grand Vacations said Tuesday that it has fired a man who allegedly sent a racist message to Aces guard Chelsea Gray on social media.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c1wyw9wx19yo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.espn.com/wnba/story/_/id/49362546/fan-fired-alleged-racist-message-aces-chelsea-gray) — *ESPN*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Locarno Competition Title ‘Hearing’ Lands at Heretic for World Sales, Unveils Clip (EXCLUSIVE)
+### 1. ‘Toy Story’ Franchise Has Generated $51 Billion in Economic Activity, Study Finds
 
-[原文] Heretic has taken on world sales for &#8220;Hearing&#8221; (&#8220;Thính Giác&#8221;), the second feature from Vietnamese director Lê Bảo, which is set to screen in the International Competition at th
+[原文] &#8220;Toy Story&#8221; helped launch Pixar when it premiered in 1995. More than 30 years and four films later, the family franchise has become a revenue-generating juggernaut for the Walt Disney Comp
 
-📎 [阅读原文](https://variety.com/2026/film/festivals/locarno-competition-title-hearing-heretic-world-sales-1236810516/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/toy-story-franchise-economic-impact-total-earnings-1236811510/) — *Variety*
 
-### 2. MPA, APSA Reopen Film Fund for Asia Pacific Screenwriters – Global Bulletin
+### 2. Dave Kendall, Creator and Longtime Host of MTV’s 120 Minutes, Dies
 
-[原文] SCRIPT SUPPORT The Motion Picture Association and the Asia Pacific Screen Awards (APSA) have opened the 2026 MPA APSA Academy Film Fund, offering five $10,000 script development grants to filmmakers a
+[原文] Dave Kendall, creator and former host of MTV’s &#8220;120 Minutes,&#8221; has died, according to a post from his friend and latter-day host of the show, Matt Pinfield. No caused of death or age were c
 
-📎 [阅读原文](https://variety.com/2026/film/news/mpa-apsa-film-fund-1236811401/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/dave-kendall-dead-mtv-120-minutes-1236811604/) — *Variety*
 
-### 3. Rhayuela’s Next Gen Takes Over
+### 3. ‘I Play Rocky’ Trailer: Anthony Ippolito Becomes Sylvester Stallone in This Inside Look at the Making of a Movie Classic
 
-[原文] Prominent Colombian shingle Rhayuela, known for such memorable pics as Cannes 2015 Un Certain Regard title “Alias María,” “El Páramo” and “Rebellion,” is shuffling its leadership although its six orig
+[原文] Ever wonder how Sylvester Stallone became Rocky? Peter Farrelly&#8217;s upcoming biographical drama &#8220;I Play Rocky&#8221; will answer the question as &#8220;Grand Army&#8221; actor Anthony Ippoli
 
-📎 [阅读原文](https://variety.com/2026/film/global/rhayuela-next-gen-takes-over-alias-maria-el-paramo-1236809115/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/i-play-rocky-trailer-anthony-ippolito-sylvester-stallone-1236811589/) — *Variety*
 
-### 4. Slasher Terror, Cartel Nightmares and a British Folk Monster Join Black Mandala’s New Horror Slate (EXCLUSIVE)
+### 4. Octavia Spencer and Hannah Waddingham Are Badass Besties in Prime Video’s Middling Action Dramedy ‘Ride or Die’: TV Review
 
-[原文] New Zealands&#8217;s Black Mandala has acquired five horror features for its international sales slate: &#8220;The Tree House,&#8221; &#8220;Babybacks,&#8221; &#8220;The Driftless,&#8221; &#8220;Satur
+[原文] Created by Tessa Coates, Prime Video’s new buddy dramedy “Ride or Die” pays homage to the beloved genre that dominated in the 1980s while giving it a 21st-century sensibility. The series follows Judit
 
-📎 [阅读原文](https://variety.com/2026/film/news/slasher-terror-british-folk-monster-black-mandala-horror-slate-1236811397/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/reviews/ride-or-die-review-prime-video-hannah-waddingham-1236811148/) — *Variety*
 
-### 5. ‘Comedy Invasion’ Alums Alisha Dhillon, Quentin Lee Reunite for Vertical Series ‘Unleeshed’ (EXCLUSIVE)
+### 5. ‘The Challenge’ Leaves MTV for Season 42: Meet the Cast and Watch the Trailer for ‘Cutthroat’ on Paramount+ (EXCLUSIVE)
 
-[原文] Comedian Alisha Dhillon and creator Quentin Lee, both alumni of the Canadian Screen Award-winning series &#8220;Comedy Invasion,&#8221; are reuniting to co-create the vertical series &#8220;Unleeshed,
+[原文] &#8220;The Challenge&#8221; is heading to a new home, but it&#8217;s bringing back a familiar theme. The upcoming Season 42, &#8220;The Challenge: Cutthroat,&#8221; will debut on August 5 on Paramount
 
-📎 [阅读原文](https://variety.com/2026/tv/news/comedy-invasion-alisha-dhillon-quentin-lee-vertical-series-unleeshed-1236811392/) — *Variety*
+📎 [阅读原文](https://variety.com/gallery/the-challenge-42-cast-trailer-cutthroat-paramount-plus/) — *Variety*
 
 ---
 
@@ -244,35 +244,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. El Salvador validated by WHO as having eliminated trachoma as a public health problem
+### 1. Global childhood immunization coverage inches forward despite conflict and hesitancy – UNICEF, WHO
+
+[原文] In 2025, 90% of infants globally &ndash; or nearly 116 million &ndash; received at least one dose of a diphtheria, tetanus and pertussis (DTP) vaccine, and 85% &ndash; or 110 million &ndash; completed
+
+📎 [阅读原文](https://www.who.int/news/item/15-07-2026-global-childhood-immunization-coverage-inches-forward-despite-conflict-and-hesitancy---unicef--who) — *WHO*
+
+### 2. El Salvador validated by WHO as having eliminated trachoma as a public health problem
 
 [原文] The World Health Organization (WHO) has validated El Salvador as having eliminated trachoma as a public health problem. Trachoma is the world's leading infectious cause of blindness.
 
 📎 [阅读原文](https://www.who.int/news/item/13-07-2026-el-salvador-validated-by-who-as-having-eliminated-trachoma-as-a-public-health-problem) — *WHO*
 
-### 2. WHO calls for urgent action as new cancer cases are projected to nearly double by 2050
+### 3. WHO calls for urgent action as new cancer cases are projected to nearly double by 2050
 
 [原文] Millions of people are facing physical, emotional and financial toll of cancer, a disease that claims more than 26 000 lives every day, according to a report released today by the World Health Organiz
 
 📎 [阅读原文](https://www.who.int/news/item/08-07-2026-who-calls-for-urgent-action-as-new-cancer-cases-are-projected-to-nearly-double-by-2050) — *WHO*
 
-### 3. WHO adds first diagnostic test for Ebola Bundibugyo virus to its Emergency Use Listing
+### 4. WHO adds first diagnostic test for Ebola Bundibugyo virus to its Emergency Use Listing
 
 [原文] Today, the World Health Organization (WHO) has added the first molecular diagnostic test for Bundibugyo virus (BDBV) to its Emergency Use Listing (EUL). The test detects the virus by identifying its g
 
 📎 [阅读原文](https://www.who.int/news/item/02-07-2026-who-adds-first-diagnostic-test-for-ebola-bundibugyo-virus-to-its-emergency-use-listing) — *WHO*
 
-### 4. Patient enrolment begins in a scientific trial to identify the first effective treatments for Bundibugyo virus disease
+### 5. Patient enrolment begins in a scientific trial to identify the first effective treatments for Bundibugyo virus disease
 
 [原文] In a major international effort to evaluate potential treatments for Ebola disease due to Bundibugyo virus (BVD), the PARTNERS clinical trial has opened enrolment today for patients in the Democratic 
 
 📎 [阅读原文](https://www.who.int/news/item/02-07-2026-patient-enrolment-begins-in-a-scientific-trial-to-identify-the-first-effective-treatments-for-bundibugyo-virus-disease) — *WHO*
-
-### 5. 655 million people still living without electricity underscore urgent need to deliver on universal energy access target
-
-[原文] At a time when energy security and affordability have risen to the top of the development agenda, 655 million people globally still lack access to electricity, and two billion use polluting fuels and 
-
-📎 [阅读原文](https://www.who.int/news/item/24-06-2026-655-million-people-still-living-without-electricity-underscore-urgent-need-to-deliver-on-universal-energy-access-target) — *WHO*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. X-Men '97 Season 2, Episode 5 Review & Recap: "Weapon X, Lies, and DVDs"
+### 1. Pokémon GO Codes for July 2026
 
-[原文] X-Men '97's latest episode works as a fun action movie romp, but it fails to make the most of Wolverine's troubled status quo in Season 2. Read our full review of "Weapon X, Lies, and DVDs."
+[原文] Redeem these Pokémon GO codes for freebies including avatar items, Poké Balls, and more.
 
-📎 [阅读原文](https://www.ign.com/articles/x-men-97-season-2-episode-5-review-recap-weapon-x-lies-and-dvds) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/pokmon-go-codes) — *IGN*
 
-### 2. The Grand Tour Returns in September With Its New Trio of Hosts
+### 2. Netflix Shadow-Drops Retro VHS-Inspired Version of Stranger Things Season 1 on Series 10th Anniversary
 
-[原文] Prime Video has announced the next season of The Grand Tour will air on September 4.
+[原文] Netflix has surprise-launched a retro, VHS version of Season 1 of Stranger Things to coincide with the 10th anniversary of the show.
 
-📎 [阅读原文](https://www.ign.com/articles/the-grand-tour-returns-in-september-with-its-new-trio-of-hosts) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/netflix-shadow-drops-retro-vhs-inspired-version-of-stranger-things-season-1-on-series-10th-anniversary) — *IGN*
 
-### 3. AU Deals: Save $2,400 on Gigabyte's Aorus Master 16 Gen 2 Gaming Laptop
+### 3. 'Below Any Reasonable Standard': Assassin's Creed Black Flag Resynced Developers Fighting to Save Jobs, Secure Fair Severance Pay at Ubisoft Barcelona
 
-暂无摘要。
+[原文] Striking staff at Assassin's Creed Black Flag co-developer Ubisoft Barcelona have slammed the company's initial severance pay offer as "below any reasonable standard," after employees were told that u
 
-📎 [阅读原文](https://www.ign.com/articles/au-deals-save-2400-on-gigabytes-aorus-master-16-gen-2-gaming-laptop) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/below-any-reasonable-standard-assassins-creed-black-flag-resynced-developers-fighting-to-save-jobs-secure-fair-severance-pay-at-ubisoft-barcelona) — *IGN*
 
-### 4. The FlashForge AD5X Multi-Color Mixed Material 3D Printer Drops to $215 Shipped at AliExpress
+### 4. Microsoft Pulls Tony Hawk’s Pro Skater 1+2 From July 2026 Xbox Game Pass Lineup Without Explanation
 
-[原文] $350 on Amazon.
+[原文] Microsoft has pulled Tony Hawk’s Pro Skater 1+2 from July 2026 Xbox Game Pass lineup, without offering an explanation.
 
-📎 [阅读原文](https://www.ign.com/articles/flashforge-ad5x-3d-printer-deal-july) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/microsoft-pulls-tony-hawks-pro-skater-12-from-july-2026-xbox-game-pass-lineup-without-explanation) — *IGN*
 
-### 5. The Popular Budget-Friendly Flashforge Adventurer 5M 3D Printer Drops to Just $155 Shipped
+### 5. Filming Begins on The Lord of the Rings: The Hunt for Gollum, With First Look Video Showing Andy Serkis Back in Character
 
-[原文] Produce consistent quality 3D prints without spending hundreds of dollars.
+[原文] The Lord of the Rings: The Hunt for Gollum director and star Andy Serkis has released a video showing his return to Middle-earth, as filming gets underway.
 
-📎 [阅读原文](https://www.ign.com/articles/flashforge-adventurer-5m-3d-printer-deal-july-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/filming-begins-on-the-lord-of-the-rings-the-hunt-for-gollum-with-first-look-video-showing-andy-serkis-back-in-character) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. How Texas Police Spent $4.5 Million on Four Chevy Tahoes
+### 1. Volvo Reportedly Eyeing Wagon Comeback Right After Killing Off V60: TDS
+
+[原文] Volvo is reportedly considering bringing an electric wagon to the States, after discontinuing the V60 Cross Country in April.
+The post Volvo Reportedly Eyeing Wagon Comeback Right After Killing Off V6
+
+📎 [阅读原文](https://www.thedrive.com/news/volvo-reportedly-eyeing-wagon-comeback-right-after-killing-off-v60-tds) — *The Drive*
+
+### 2. GMC Is Making a New Yellow Hummer EV to Honor the Old H2
+
+[原文] The OG H2 launched 25 years ago, in 2002, painted yellow. What better way to commemorate the pop culture icon than with an even more ridiculous truck painted in the same shade?
+The post GMC Is Making 
+
+📎 [阅读原文](https://www.thedrive.com/news/gmc-is-making-a-new-yellow-hummer-ev-to-honor-the-old-h2) — *The Drive*
+
+### 3. 2027 Ferrari 849 Testarossa Spider First-Drive Review: 1,000 HP Is Better Without a Roof
+
+[原文] Despite having mixed feelings about the Ferrari 849 Testarossa's looks and target audience, one thing is for sure: the wedge-tastic Spider is a heck of a lot cooler than the Coupe.
+The post 2027 Ferra
+
+📎 [阅读原文](https://www.thedrive.com/car-reviews/2027-ferrari-849-testarossa-spider-review) — *The Drive*
+
+### 4. How Texas Police Spent $4.5 Million on Four Chevy Tahoes
 
 [原文] It's hard to make a 2026 Chevy Tahoe cost more than a million dollars. Until you start packing it with military-grade public surveillance technology.
 The post How Texas Police Spent $4.5 Million on Fo
 
 📎 [阅读原文](https://www.thedrive.com/news/how-texas-police-spent-4-5-million-on-four-chevy-tahoes) — *The Drive*
 
-### 2. Torture Test Shows How a Cummins Diesel Survives Cold Starts Down to -40 Degrees
+### 5. Torture Test Shows How a Cummins Diesel Survives Cold Starts Down to -40 Degrees
 
 [原文] Banks Power locked a 2024 Ram HD in a cold chamber to see how well it could handle the frigid temps.
 The post Torture Test Shows How a Cummins Diesel Survives Cold Starts Down to -40 Degrees appeared 
 
 📎 [阅读原文](https://www.thedrive.com/news/torture-test-shows-how-a-cummins-diesel-survives-cold-starts-down-to-40-degrees) — *The Drive*
-
-### 3. These Milwaukee Tools Come With Free Batteries at Ace Hardware This Month
-
-[原文] Get a $119 Milwaukee power tool battery for free when you buy one of the Milwaukee tools Ace Hardware's trying to move this summer. Packout storage and hand tools are on sale, too!
-The post These Milw
-
-📎 [阅读原文](https://www.thedrive.com/guides-and-gear/these-milwaukee-tools-come-with-free-batteries-at-ace-hardware-this-month) — *The Drive*
-
-### 4. New Grand Tour Featuring Throttle House and TikTok’s Favorite Trainspotter Drops Sept. 4
-
-[原文] The trio's first series will involve "crossing the Angolan desert in track cars" and "challenging a nation's legal system," among other things.
-The post New Grand Tour Featuring Throttle House and Tik
-
-📎 [阅读原文](https://www.thedrive.com/news/new-grand-tour-featuring-throttle-house-and-tiktoks-favorite-trainspotter-drops-sept-4) — *The Drive*
-
-### 5. California DMV Threatens to Cancel Drivers’ Licenses, File Charges Amid Massive Cheating Scandal
-
-[原文] If you recently had somebody (or something) else take your written California driver's test for you, you may be in for a nasty surprise.
-The post California DMV Threatens to Cancel Drivers&#8217; Lice
-
-📎 [阅读原文](https://www.thedrive.com/news/california-dmv-threatens-to-cancel-drivers-licenses-file-charges-amid-massive-cheating-scandal) — *The Drive*
 
 ---
 
@@ -363,35 +363,35 @@ The post California DMV Threatens to Cancel Drivers&#8217; Lice
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Governments Knew the Risks of Global Warming as They Chose Fossil-Fueled Growth in the 1950s and ’60s
+### 1. Bay Program Delays Decision on Tribes’ Place in Chesapeake Agreement
+
+[原文] Virginia&#8217;s seven federally recognized tribes said they’re cautiously optimistic about their prospects of becoming full signatories to the Chesapeake Bay Watershed Agreement even after program le
+
+📎 [阅读原文](https://insideclimatenews.org/news/15072026/chesapeake-bay-watershed-agreement-tribes-inclusion/) — *Inside Climate News*
+
+### 2. Governments Knew the Risks of Global Warming as They Chose Fossil-Fueled Growth in the 1950s and ’60s
 
 [原文] A new report strengthens the case that the United States and other major industrialized countries knew, long before they signed the 2015 Paris Agreement to limit global warming, that they could face l
 
 📎 [阅读原文](https://insideclimatenews.org/news/15072026/governments-knew-global-warming-risks/) — *Inside Climate News*
 
-### 2. New York Becomes First State in the Nation to Pause New Hyperscale Data Centers
+### 3. New York Becomes First State in the Nation to Pause New Hyperscale Data Centers
 
 [原文] New York Gov. Kathy Hochul signed an executive order Tuesday making the state the first in the nation to implement a moratorium on new hyperscale data centers. The Democratic governor said she would p
 
 📎 [阅读原文](https://insideclimatenews.org/news/14072026/new-york-first-data-center-moratorium/) — *Inside Climate News*
 
-### 3. What Happens When Extreme Weather Becomes a Cycle You Can’t Escape
+### 4. What Happens When Extreme Weather Becomes a Cycle You Can’t Escape
 
 [原文] An aggressive downpour over the weekend in the eastern areas around Tennessee’s Great Smoky Mountains triggered severe flooding and multiple mudslides across the region. The watery assault hit particu
 
 📎 [阅读原文](https://insideclimatenews.org/news/14072026/todays-climate-extreme-weather-disaster-fatigue/) — *Inside Climate News*
 
-### 4. Trump Again Shrinks Bears Ears and Grand Staircase-Escalante National Monuments, This Time by Much More
+### 5. Trump Again Shrinks Bears Ears and Grand Staircase-Escalante National Monuments, This Time by Much More
 
 [原文] Monday morning, Bears Ears and Grand Staircase-Escalante National Monuments stretched across over three million acres of public lands in southern Utah, protecting some of the country’s most remote lan
 
 📎 [阅读原文](https://insideclimatenews.org/news/14072026/trump-again-shrinks-utah-national-monuments/) — *Inside Climate News*
-
-### 5. AI, Defense Spending Fuel the Rush to Mine Minerals, Report Says
-
-[原文] The global rush to mine copper, lithium, cobalt and other so-called critical minerals has been framed by the mining industry as essential for addressing climate change. But a report released Tuesday s
-
-📎 [阅读原文](https://insideclimatenews.org/news/14072026/ai-and-defense-spending-fuel-critical-mineral-rush/) — *Inside Climate News*
 
 ---
 
@@ -407,29 +407,29 @@ The post California DMV Threatens to Cancel Drivers&#8217; Lice
 
 📎 [阅读原文](https://edsurge.com/news/how-my-school-used-common-sense-and-collaboration-to-confront-ai) — *EdSurge*
 
-### 2. We Talk About Whole Children. What About Whole Educators?
+### 2. Podcast: What Is the AI Cheating Panic Really About?
+
+[原文] A conversation with Pat Yongpradit, general manager of global education and workforce policy at Microsoft.
+
+📎 [阅读原文](https://edsurge.com/news/podcast-what-is-the-ai-cheating-panic-really-about) — *EdSurge*
+
+### 3. We Talk About Whole Children. What About Whole Educators?
 
 [原文] We treat early childhood teachers like babysitters instead of the engineers they are. If we want them to stay, we have to invest in the systems that ...
 
 📎 [阅读原文](https://edsurge.com/news/we-talk-about-whole-children-what-about-whole-educators) — *EdSurge*
 
-### 3. Anthropic Introduces Claude for Teachers
+### 4. Anthropic Introduces Claude for Teachers
 
 [原文] The AI rollout is the latest effort by a tech giant to win over educators and districts.
 
 📎 [阅读原文](https://edsurge.com/news/anthropic-introduces-claude-for-teachers) — *EdSurge*
 
-### 4. Study: The National AI Policy Landscape in K–12 Education
+### 5. Study: The National AI Policy Landscape in K–12 Education
 
 [原文] A snapshot of where districts stand on AI and what it reveals.
 
 📎 [阅读原文](https://edsurge.com/news/study-the-national-ai-policy-landscape-in-k-12-education) — *EdSurge*
-
-### 5. In Rural Districts, AI Resources for Educators Are Scarce
-
-[原文] Despite challenges, teachers believe AI can broaden students’ horizons.
-
-📎 [阅读原文](https://edsurge.com/news/in-rural-districts-ai-resources-for-educators-are-scarce) — *EdSurge*
 
 ---
 
@@ -439,35 +439,35 @@ The post California DMV Threatens to Cancel Drivers&#8217; Lice
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Phoebe Bridgers Plays Surprise Performance of ‘Lost Boys’ on ‘Fallon’
+### 1. Beck Previews New Album ‘Ride Lonesome’ With Plaintive ‘In the Night’
+
+[原文] The LP is a follow-up to the musician's Grammy-winning effort Hyperspace
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/beck-ride-lonesome-album-in-the-night-single-1235593818/) — *Rolling Stone*
+
+### 2. Phoebe Bridgers Plays Surprise Performance of ‘Lost Boys’ on ‘Fallon’
 
 [原文] Singer-songwriter's third album Lost Weekend arrives next month
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/phoebe-bridgers-lost-boys-jimmy-fallon-1235593251/) — *Rolling Stone*
 
-### 2. Mick Jagger Regrets Taking John Lennon’s Advice Not to Meet Elvis Presley: ‘Really Stupid of Me’
+### 3. Mick Jagger Regrets Taking John Lennon’s Advice Not to Meet Elvis Presley: ‘Really Stupid of Me’
 
 [原文] Jagger revealed why he heeded the Beatles member's advice
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/mick-jagger-john-lennon-advice-meet-elvis-presley-1235593791/) — *Rolling Stone*
 
-### 3. Billy Joel Stopped Writing Songs Because He Didn’t Want to ‘Dilute’ His Legacy
+### 4. Billy Joel Stopped Writing Songs Because He Didn’t Want to ‘Dilute’ His Legacy
 
 [原文] The artist released his last rock album in 1993
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/billy-joel-stopped-songwriting-dilute-legacy-1235593755/) — *Rolling Stone*
 
-### 4. Lil Durk Scores Major Win to Split Racketeering Charges, Chicago Killing Claims From L.A. Trial
+### 5. Lil Durk Scores Major Win to Split Racketeering Charges, Chicago Killing Claims From L.A. Trial
 
 [原文] "I’m here to make sure both sides have a fair trial," the judge says at a tense hearing
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/lil-durk-racketeering-chicago-killing-separated-la-trial-1235593517/) — *Rolling Stone*
-
-### 5. Jason Newsted on the Time Metallica Had Darts Thrown at Them Onstage
-
-[原文] “It was maybe the fourth time we ever stopped a show,” the band’s former bassist says. “I look over at James, like, ‘Dude!’”
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/jason-newsted-metallica-stop-show-darts-interview-1235593579/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post California DMV Threatens to Cancel Drivers&#8217; Lice
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. No World Cup Bump: U.S. Tourism Down in June
+### 1. Leadership Intelligence: Mapping the Busiest Year of CEO Turnover in Travel
+
+[原文] The CCO-to-CEO pipeline is hardening into a template, boards are dressing exits as retirements, and high-growth markets are importing their turnaround CEOs. One year of moves, mapped by Skift Exec Sea
+
+📎 [阅读原文](https://skift.com/2026/07/15/leadership-intelligence-mapping-the-busiest-year-of-ceo-turnover-in-travel/) — *Skift*
+
+### 2. What If AI Doesn’t Fix Travel’s Labor Problem?
+
+[原文] Travel’s AI investment is concentrated in office work while its demographic labor crisis is concentrated on the front line; the jobs aging fastest remain stubbornly physical.
+
+📎 [阅读原文](https://skift.com/2026/07/15/what-if-ai-doesnt-fix-travels-labor-problem/) — *Skift*
+
+### 3. Accor Is Bringing Movenpick and MGallery to India: Exclusive
+
+[原文] Accor has been in India for two decades but has been slow to gain traction. Now it's focused on expansion and building out the structure to support the growth.
+
+📎 [阅读原文](https://skift.com/2026/07/15/accor-is-bringing-movenpick-and-mgallery-to-india-exclusive/) — *Skift*
+
+### 4. No World Cup Bump: U.S. Tourism Down in June
 
 [原文] While visitors from markets like the United Kingdom surged, total overseas visitation for June was down from last year.
 
 📎 [阅读原文](https://skift.com/2026/07/14/world-cup-inbound-travel-decline-june/) — *Skift*
 
-### 2. Who Gets Anko’s Old Job? Contenders for the Next SAS CEO
+### 5. Who Gets Anko’s Old Job? Contenders for the Next SAS CEO
 
 [原文] Van der Werff has six months to hand over the keys, and by the time he does, the people choosing his successor may not be the people sitting on the board today.
 
 📎 [阅读原文](https://skift.com/2026/07/14/who-gets-ankos-old-job-contenders-for-the-next-sas-ceo/) — *Skift*
-
-### 3. Frontier Airlines to Add Starlink, Catching Up to Premium Airlines
-
-[原文] Typically, airlines like Frontier don’t have in-flight Wi-Fi. But as premium products continue to fuel airline industry profits, Frontier is opting to install Starlink.
-
-📎 [阅读原文](https://skift.com/2026/07/14/frontier-airlines-to-install-starlink-premium-push/) — *Skift*
-
-### 4. Airbnb’s Best Hotel Strategy Is Sitting in Ennismore’s IPO Filing
-
-[原文] Each side has what the other lacks: Ennismore, the hotel credibility, brand standards, and F&B depth; Airbnb, the demand, backed by homes revenue no other platform earns.
-
-📎 [阅读原文](https://skift.com/2026/07/14/airbnbs-best-hotel-strategy-is-sitting-in-ennismores-ipo-filing/) — *Skift*
-
-### 5. Yatra’s First International Expansion Looks Nothing Like Its OTA Competitors
-
-[原文] For a company whose growth has been almost entirely India-centric, Yatra is now betting that enterprise travel technology built for one of the world's most complex markets can travel just as well abro
-
-📎 [阅读原文](https://skift.com/2026/07/14/yatras-first-international-expansion-looks-nothing-like-its-ota-competitors/) — *Skift*
 
 ---
 
@@ -515,7 +515,7 @@ The post California DMV Threatens to Cancel Drivers&#8217; Lice
 - **💰 经济财经**: CNBC
 - **💻 科技**: TechCrunch
 - **🔬 科学**: Science Daily
-- **⚽ 体育**: BBC Sport
+- **⚽ 体育**: ESPN
 - **🎬 娱乐**: Variety
 - **🏥 健康**: WHO
 - **🎮 游戏**: IGN
