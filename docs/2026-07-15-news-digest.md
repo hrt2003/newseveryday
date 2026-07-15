@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月15日** | 生成时间: 2026-07-15 03:24
+**2026年07月15日** | 生成时间: 2026-07-15 10:45
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump scraps threat of 20% fee on Hormuz cargo as US prepares to resume blockade of Iran ports
+### 1. Trump scraps threat of 20% fee on Hormuz cargo as US resumes blockade of Iran ports
 
 [原文] Trump drops a 24-hour-old vow to charge cargo ships for using the Strait as the US continues its battle to break Iran's hold on the waterway.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Strait of Hormuz remains a fault line as Iran and US drift back into war
+### 2. Trump retreat over Hormuz tolls suggests he is struggling to end Iran war
+
+[原文] The abrupt about-face from the US president was the latest twist in a conflict that has now lasted more than four months.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. Strait of Hormuz 'faultline' exposes weakness of the US-Iran deal
 
 [原文] Control of the waterway has become a key point of contention between the US and Iran, as a ceasefire deal falters.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Israeli strike on police post in north Gaza kills seven, officials say
+### 4. Seven Britons among those killed in Spain wildfires
+
+[原文] Twelve of the 13 victims were foreign nationals, Spanish authorities said on Tuesday.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cp8l87784ngo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Israeli strike on police post in north Gaza kills seven, officials say
 
 [原文] A senior officer in the Hamas-run police force was among those killed in the strike, which Israel's military says targeted "terrorists".
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Diamond giant De Beers halts work at flagship South African mine as demand plummets
-
-[原文] Production will stop for two years at the mine which employs more than 4,000 people.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cjrgr7lr1ejo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. 'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal
-
-[原文] Svetlana Grković told Serbian media that her husband is "seriously injured and in shock".
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cly8yjnw822o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Here’s the inflation breakdown for June 2026 — in one chart
+### 1. The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase
 
-[原文] The consumer price index rose 3.5% in June from a year earlier, a deceleration after several months of upward moves.
+[原文] Goldman Sachs and JPMorgan showed that Wall Street is a major beneficiary of the AI boom, with record revenue driven by surging trading and investment banking.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/14/inflation-cpi-june-2026-in-one-chart.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html) — *CNBC*
 
-### 2. Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people
+### 2. China posts slowest GDP growth since 2022 at 4.3%, missing expectations
 
-[原文] Warsh pledged Tuesday to "get monetary policy right" and defeat the inflation that has bedeviled the central bank for the past five years.
+[原文] That second-quarter growth came below Beijing's full-year growth target range of 4.5% to 5%, the least ambitious goal in decades.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/14/warsh-promises-inflation-will-be-a-thing-of-the-past-cites-benefits-of-ai-investment-boom.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/15/china-gdp-retail-sales-investment-june-.html) — *CNBC*
 
-### 3. New York becomes first U.S. state to impose AI data center ban
+### 3. SK Hynix South Korean shares jump 11% as Asia tech stocks rally
 
-[原文] New York became the first state to ban construction of 'hyperscale' AI data centers, for one year, after Gov. Kathy Hochul signed an executive order Tuesday.
+[原文] SK Hynix led a broad rally in Asian technology shares on Wednesday, tracking a rebound in U.S. semiconductor shares after a sharp selloff earlier this week.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/14/new-york-ai-data-center-ban.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/15/sk-hynix-asia-tech-stocks-rally-.html) — *CNBC*
 
-### 4. Lucid dismisses report that it is weighing filing for bankruptcy or going private after shares plunge
+### 4. U.S. strikes Iran before Hormuz Strait blockade restarts
 
-[原文] The report said Lucid was considering options that could include going private or filing for bankruptcy protection.
+[原文] President Donald Trump has said the U.S.-Iran ceasefire is over following multiple flare-ups of hostilities in the region.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/14/lucid-stock-lcid-bankruptcy-report.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/14/iran-strikes-hormuz-strait-blockade-trump-tolls.html) — *CNBC*
 
-### 5. Zipline adds ex-Tesla, Uber, Waymo execs to make drone delivery mainstream across U.S.
+### 5. IBM stock craters 25%, the worst day on record, after company issues second-quarter earnings warning
 
-[原文] Zipline is growing its drone delivery business in the U.S., and has hired former Tesla, Uber Eats and Waymo executives to help it scale up in new markets.
+[原文] The CEO blamed the shortfall on weakness in the software and infrastructure business because clients shifted money toward hardware purchases.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/14/zipline-drone-delivery-tesla-uber-waymo-executives.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/14/ibm-warns-second-quarter-earnings-fell-short-of-expectations.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Lucid Motors denies report it’s considering bankruptcy
+### 1. OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B
 
-[原文] The company said the "rumors are completely false" after its stock sank more than 50% on a report that it was weighing the option.
+[原文] The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/14/lucid-motors-denies-report-its-considering-bankruptcy/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/) — *TechCrunch*
 
-### 2. Google faces another AI training lawsuit from major publishers
+### 2. Lorde says AI glasses are ‘not sexy’
 
-[原文] Hachette, Cengage, Elsevier, and other publishers allege that Google trained its AI on copyrighted works without the necessary permissions.
+[原文] "Increasingly in our world, it gets harder and harder to know what is real," Lorde said onstage.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/) — *TechCrunch*
 
-### 3. DeepMind CEO calls for an independent standards body to regulate frontier AI
+### 3. OpenAI’s first hardware device is reportedly a screenless speaker that can move
 
-[原文] DeepMind CEO Demis Hassabis is proposing an AI "standards body" modeled after FINRA, to test frontier models and develop best practices for their release.
+[原文] The device is weirdly described as involving "mechanical elements that can move on their own" and the Bloomberg report includes the detail that the device is designed to "feel like a companion and bec
 
-📎 [阅读原文](https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/) — *TechCrunch*
 
-### 4. DeepSeek reportedly in talks to raise $1.5B, then IPO
+### 4. OpenAI pushes back on Apple trade secret lawsuit
 
-[原文] DeepSeek, the Chinese large language model developer, is said to be preparing for a 2027 IPO debut as it also looks to raise around $1.5 billion in new funds at a $71 billion valuation.
+[原文] OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/) — *TechCrunch*
 
-### 5. Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer
+### 5. OpenAI’s new flagship model deletes files on its own, people keep warning
 
-[原文] Instagram head Adam Mosseri believes companies will eventually need to manage AI token spending the same way they manage payroll or other operating expenses, predicting that engineers could soon face 
+[原文] A number of social media posts claim that GPT-5.6 Sol deleted files and data without warning. OpenAI had basically disclosed the problem in June.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Live updates: France, Spain meet with World Cup fi...
+### 1. A special team beats brilliant individuals - how silky Spain flattened France
 
-[原文] null
+[原文] Spain have rather flown under the radar at the 2026 World Cup - but will they go all the way and win it?
 
-📎 [阅读原文](https://www.espn.com/soccer/story/_/id/49356289/world-cup-daily-live-norway-erling-haaland-latest-star-inspire-baby-name-boom) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cpv3v0gkw9vo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. MLBPA rips salary cap ad campaign as 'perverse'
+### 2. 'Extremely happy' Deschamps gets the farewell game no-one wants
 
-[原文] MLB commissioner Rob Manfred and MLBPA head Bruce Meyer shared differing views on the league's "Level the Field" ad campaign expressing its desire for a salary cap.
+[原文] Didier Deschamps' long, storied career with France will come to an end not how he would have wanted it - in Saturday's World Cup third-place play-off.
 
-📎 [阅读原文](https://www.espn.com/mlb/story/_/id/49358929/mlbpa-head-criticizes-mlb-salary-cap-ad-campaign-perverse) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/czx5x14v5w2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Embattled Michigan AD Manuel not ready to go
+### 3. I still feel pain of '98 but this can be different for England - Shearer
 
-[原文] Michigan athletic director Warde Manuel is defending his resume; and says he does not want to leave the school.
+[原文] England's defeat by Argentina at the 1998 World Cup still burns deep for Alan Shearer, but he explains why this team can take their chance to change their lives forever.
 
-📎 [阅读原文](https://www.espn.com/college-sports/story/_/id/49358635/michigan-ad-warde-manuel-want-leave) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c6212j5zw3ko?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Herro wants to 'move on' from Bam altercation
+### 4. Spain into World Cup final after victory over France
 
-[原文] Bucks guard Tyler Herro said he wants to "move on" from his physical altercation with former teammate Bam Adebayo last week in Las Vegas and is "focused on the next chapter in Milwaukee."
+[原文] Spain are into the 2026 World Cup final after goals from Mikel Oyarzabal and Pedro Porro see them convincingly beat France 2-0 in their semi-final in Dallas.
 
-📎 [阅读原文](https://www.espn.com/nba/story/_/id/49357704/tyler-herro-wants-move-bam-adebayo-altercation) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cq6160n8y71o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Golfers eye 'unprecedented' conditions at Open
+### 5. Pressure is on world champions Argentina in semi-final - Guehi
 
-[原文] Golfers raved about the firm, fast conditions at Royal Birkdale on Tuesday, two days before the start of the Open Championship.
+[原文] England defender Marc Guehi insists the pressure is on Argentina as the Three Lions prepare to face the reigning champions in the World Cup semi-finals.
 
-📎 [阅读原文](https://www.espn.com/golf/story/_/id/49359259/golfers-eye-unprecedented-open-conditions-royal-birkdale) — *ESPN*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cp8l87vevj2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Fox Sets Fall 2026 Premiere Dates: ‘The Floor,’ ‘Doc,’ ‘Hell’s Kitchen’ and More
+### 1. Mayu Matsuoka, Riisa Naka’s Netflix Cosmetic Surgery Drama ‘Plastic Beauty’ Sets September Premiere, Adds 23 Cast Members
 
-[原文] Fox has announced a slate of fall premiere dates for returning favorites, breakout hits, game shows and more. The season kicks off on Sept. 21 with &#8220;Celebrity Name That Tune,&#8221; anchored by 
+[原文] &#8220;Plastic Beauty,&#8221; Netflix&#8217;s upcoming Japanese drama set inside the country&#8217;s fast-growing cosmetic surgery industry, will premiere Sept. 17, the streamer announced alongside 23
 
-📎 [阅读原文](https://variety.com/2026/tv/news/fox-fall-2026-premiere-dates-1236810877/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/mayu-matsuoka-riisa-naka-plastic-beauty-netflix-premiere-1236810894/) — *Variety*
 
-### 2. ‘Little House on the Prairie’ Debuts With 6.4 Million Views in Four Days on Netflix
+### 2. Anya Taylor-Joy Is a Con Artist on the Run in Apple TV’s High-Voltage Thriller ‘Lucky’: TV Review
 
-[原文] &#8220;Little House on the Prairie&#8221; was the No. 3 most-watched TV series on Netflix during the week of July 6-12, reaching 6.4 million views in four days after its July 9 premiere. The Laura Ing
+[原文] Based on Marissa Stapley’s 2021 novel of the same name and adapted for television by “Your Friends &#38; Neighbors” creator Jonathan Tropper, Apple TV limited series “Lucky” is the captivating story o
 
-📎 [阅读原文](https://variety.com/2026/tv/news/little-house-on-the-prairie-ratings-netflix-views-1236810923/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/reviews/lucky-review-apple-tv-anya-taylor-joy-1236806733/) — *Variety*
 
-### 3. ‘Big Brother 28’ Opens With 3.9 Million Viewers, Biggest Premiere Since 2021
+### 3. Whether in ‘Jurassic Park’ or ‘The Piano,’ Sam Neill Put the Movies First
 
-[原文] &#8220;Big Brother&#8221; returned to CBS with its largest audience in five years on Thursday. The Season 28 premiere hit an average of 3.9 million viewers, the series&#8217; largest opening audience 
+[原文] Sam Neill had been steadily working in the movies for nearly two decades before he became, at the age of 45, a star in the industry’s eyes. A sturdy, reliable everyman who radiated, depending on the r
 
-📎 [阅读原文](https://variety.com/2026/tv/news/big-brother-28-ratings-1236810873/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/obituaries-people-news/sam-neill-put-the-movies-first-jurassic-park-the-piano-1236810175/) — *Variety*
 
-### 4. Federation Spain, Chile’s Alma Films Board Dominican Queer Period Horror ‘Echoes’ by Fantastic Lab Winner Kryzz Gautier
+### 4. Almost Friday’s Tyler Falbo to Direct R-Rated Comedy ‘Boys for Life’; Paramount Sets Theatrical Release Date (EXCLUSIVE)
 
-[原文] Spain’s Federation, Chile’s Alma Films and the Dominican Republic’s Larimar Films have boarded Kryzz Gautier’s “Echoes&#8221; ahead of the film&#8217;s presentation at the upcoming Costa Rica Media Ma
+[原文] Tyler Falbo, a writer, director and producer known for his shaping the viral comedy videos of sketch group Almost Friday, is helming an R-rated comedy movie for Paramount. Titled &#8220;Boys for Life,
 
-📎 [阅读原文](https://variety.com/2026/film/global/echoes-kryzz-gautier-federation-alma-larimar-crmm-1236808982/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/almost-friday-tyler-falbo-comedy-boys-for-life-paramount-1236811056/) — *Variety*
 
-### 5. After ‘Cats: The Jellicle Ball’ Closes, Andrew Lloyd Webber Warns Musicals Are in Crisis: ‘Broadway Risks Rivaling Hollywood’s Empty Soundstages’
+### 5. George Lucas Says AI Makes Filmmaking ‘Easier’ and ‘There’s Nothing You Can Do About It,’ Criticizes Hollywood for Giving Fans Too Much Power
 
-[原文] Andrew Lloyd Webber responded to the early closure of “Cats: The Jellicle Ball” by arguing that Broadway musicals are in crisis. In a lengthy social media post on Tuesday, the composer warned that the
+[原文] George Lucas has a bone to pick with Hollywood when it comes to focus groups and test screenings. The &#8220;Star Wars&#8221; creator, who walked away from the franchise in 2012 after selling Lucasfil
 
-📎 [阅读原文](https://variety.com/2026/film/news/cats-the-jellicle-ball-closes-andrew-lloyd-webber-responds-1236810776/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/george-lucas-test-screenings-embraces-ai-hollywood-1236810656/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Today’s Best Deals: Switch 2: Choose Your Game Bundle, Astro Bot, LEGO Harry Potter Book Nook, and More
+### 1. The FlashForge AD5X Multi-Color Mixed Material 3D Printer Drops to $215 Shipped at AliExpress
 
-[原文] It’s also your last chance to score an incredible Audible subscription discount.
+[原文] $350 on Amazon.
 
-📎 [阅读原文](https://www.ign.com/articles/best-deals-for-july-14-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/flashforge-ad5x-3d-printer-deal-july) — *IGN*
 
-### 2. The Odyssey Movie Rival Launches This Year, Made Entirely by AI — But Based on Its First Trailer, Christopher Nolan Has Nothing to Worry About
+### 2. The Popular Budget-Friendly Flashforge Adventurer 5M 3D Printer Drops to Just $155 Shipped
 
-[原文] Christopher Nolan's The Odyssey will be rivalled by another movie of the ancient Greek epic this year — made entirely by AI.
+[原文] Produce consistent quality 3D prints without spending hundreds of dollars.
 
-📎 [阅读原文](https://www.ign.com/articles/the-odyssey-movie-rival-launches-this-year-made-entirely-by-ai-but-based-on-its-first-trailer-christopher-nolan-has-nothing-to-worry-about) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/flashforge-adventurer-5m-3d-printer-deal-july-2026) — *IGN*
 
-### 3. PlayStation's FlexStrike Wireless Fight Stick Postponed Due to "Unexpected Production Delays"
+### 3. Save 50% Off the Airline-Friendly Talix 10,000mAh 100W Power Bank, Now Just $18
 
-[原文] PlayStation has moved back the launch of its FlexStrike wireless fight stick to an as-yet undetermined date due to a lag in production.
+[原文] Will fast charge all handheld gaming PCs including the ASUS ROG Xbox Ally X and most MacBooks.
 
-📎 [阅读原文](https://www.ign.com/articles/playstations-flexstrike-wireless-fight-stick-postponed-due-to-unexpected-production-delays) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/talix-10000mah-100w-power-bank-deal) — *IGN*
 
-### 4. Assassin's Creed Black Flag Resynced's Controversial Day 1 DLC Earned $1 Million, Just on Steam
+### 4. The Samsung Odyssey OLED G5 27" QHD 180Hz OLED Gaming Monitor Drops to $299.99 on Amazon
 
-[原文] Assassin's Creed Black Flag Resynced's controversial $85 collection of day one DLC earned Ubisoft an extra $1 million on Steam, it's been reported.
+[原文] The least expensive OLED gaming monitor I've ever seen.
 
-📎 [阅读原文](https://www.ign.com/articles/assassins-creed-black-flag-resynceds-controversial-day-1-dlc-earned-1-million-just-on-steam) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/samsung-odyssey-oled-g5-gaming-monitor-deal) — *IGN*
 
-### 5. Backrooms Lands on Digital After Becoming A24's Highest-Grossing Movie of All Time
+### 5. The Tiny Aoostar Ryzen 7 Pro 6850H Mini PC With 24GB of DDR5 RAM and USB 4 Ports Drops Below $300
 
-[原文] Backrooms, the directorial debut for Kane Parsons that became the highest-grossing A24 movie of all time, is now available to watch at home.
+[原文] A Mac Mini-sized PC with a ton of versatility (including light gaming).
 
-📎 [阅读原文](https://www.ign.com/articles/how-to-watch-backrooms-streaming) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/aoostar-ryzen-7-pro-6850h-mini-pc-deal-july-2026-updated) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. These Milwaukee Tools Come With Free Batteries at Ace Hardware This Month
+### 1. How Texas Police Spent $4.5 Million on Four Chevy Tahoes
+
+[原文] It's hard to make a 2026 Chevy Tahoe cost more than a million dollars. Until you start packing it with military-grade public surveillance technology.
+The post How Texas Police Spent $4.5 Million on Fo
+
+📎 [阅读原文](https://www.thedrive.com/news/how-texas-police-spent-4-5-million-on-four-chevy-tahoes) — *The Drive*
+
+### 2. Torture Test Shows How a Cummins Diesel Survives Cold Starts Down to -40 Degrees
+
+[原文] Banks Power locked a 2024 Ram HD in a cold chamber to see how well it could handle the frigid temps.
+The post Torture Test Shows How a Cummins Diesel Survives Cold Starts Down to -40 Degrees appeared 
+
+📎 [阅读原文](https://www.thedrive.com/news/torture-test-shows-how-a-cummins-diesel-survives-cold-starts-down-to-40-degrees) — *The Drive*
+
+### 3. These Milwaukee Tools Come With Free Batteries at Ace Hardware This Month
 
 [原文] Get a $119 Milwaukee power tool battery for free when you buy one of the Milwaukee tools Ace Hardware's trying to move this summer. Packout storage and hand tools are on sale, too!
 The post These Milw
 
 📎 [阅读原文](https://www.thedrive.com/guides-and-gear/these-milwaukee-tools-come-with-free-batteries-at-ace-hardware-this-month) — *The Drive*
 
-### 2. New Grand Tour Featuring Throttle House and TikTok’s Favorite Trainspotter Drops Sept. 4
+### 4. New Grand Tour Featuring Throttle House and TikTok’s Favorite Trainspotter Drops Sept. 4
 
 [原文] The trio's first series will involve "crossing the Angolan desert in track cars" and "challenging a nation's legal system," among other things.
 The post New Grand Tour Featuring Throttle House and Tik
 
 📎 [阅读原文](https://www.thedrive.com/news/new-grand-tour-featuring-throttle-house-and-tiktoks-favorite-trainspotter-drops-sept-4) — *The Drive*
 
-### 3. California DMV Threatens to Cancel Drivers’ Licenses, File Charges Amid Massive Cheating Scandal
+### 5. California DMV Threatens to Cancel Drivers’ Licenses, File Charges Amid Massive Cheating Scandal
 
 [原文] If you recently had somebody (or something) else take your written California driver's test for you, you may be in for a nasty surprise.
 The post California DMV Threatens to Cancel Drivers&#8217; Lice
 
 📎 [阅读原文](https://www.thedrive.com/news/california-dmv-threatens-to-cancel-drivers-licenses-file-charges-amid-massive-cheating-scandal) — *The Drive*
-
-### 4. How Four Random Lando Fans Showed Me What Real F1 Fandom at Silverstone Is All About
-
-[原文] An unlikely encounter—and maybe even a slight confusion—at the British F1 GP that turned into a night of fun and a new long-distance friendship.
-The post How Four Random Lando Fans Showed Me What Real
-
-📎 [阅读原文](https://www.thedrive.com/news/how-four-random-lando-fans-showed-me-what-real-f1-fandom-at-silverstone-is-all-about) — *The Drive*
-
-### 5. How Much Is Half a Mercedes G-Wagen Worth? We’re About to Find Out
-
-[原文] This was a really nice G-Wagen in green over tan. Now it's an engine in a somewhat inconvenient crate. 
-The post How Much Is Half a Mercedes G-Wagen Worth? We&#8217;re About to Find Out appeared first
-
-📎 [阅读原文](https://www.thedrive.com/news/how-much-is-half-a-mercedes-g-wagen-worth-were-about-to-find-out) — *The Drive*
 
 ---
 
@@ -363,35 +363,35 @@ The post How Much Is Half a Mercedes G-Wagen Worth? We&#8217;re About to Find Ou
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. AI, Defense Spending Fuel the Rush to Mine Minerals, Report Says
+### 1. New York Becomes First State in the Nation to Pause New Hyperscale Data Centers
+
+[原文] New York Gov. Kathy Hochul signed an executive order Tuesday making the state the first in the nation to implement a moratorium on new hyperscale data centers. The Democratic governor said she would p
+
+📎 [阅读原文](https://insideclimatenews.org/news/14072026/new-york-first-data-center-moratorium/) — *Inside Climate News*
+
+### 2. What Happens When Extreme Weather Becomes a Cycle You Can’t Escape
+
+[原文] An aggressive downpour over the weekend in the eastern areas around Tennessee’s Great Smoky Mountains triggered severe flooding and multiple mudslides across the region. The watery assault hit particu
+
+📎 [阅读原文](https://insideclimatenews.org/news/14072026/todays-climate-extreme-weather-disaster-fatigue/) — *Inside Climate News*
+
+### 3. Trump Again Shrinks Bears Ears and Grand Staircase-Escalante National Monuments, This Time by Much More
+
+[原文] Monday morning, Bears Ears and Grand Staircase-Escalante National Monuments stretched across over three million acres of public lands in southern Utah, protecting some of the country’s most remote lan
+
+📎 [阅读原文](https://insideclimatenews.org/news/14072026/trump-again-shrinks-utah-national-monuments/) — *Inside Climate News*
+
+### 4. AI, Defense Spending Fuel the Rush to Mine Minerals, Report Says
 
 [原文] The global rush to mine copper, lithium, cobalt and other so-called critical minerals has been framed by the mining industry as essential for addressing climate change. But a report released Tuesday s
 
 📎 [阅读原文](https://insideclimatenews.org/news/14072026/ai-and-defense-spending-fuel-critical-mineral-rush/) — *Inside Climate News*
 
-### 2. The Dire Lengths Florida Farmworkers Go to Keep Working in ‘Scorching’ Heat
+### 5. The Dire Lengths Florida Farmworkers Go to Keep Working in ‘Scorching’ Heat
 
 [原文] It’s shaping up to be another hot Florida summer. Among the most vulnerable are those with the least resources for dealing with the heat: underserved communities and communities of color, who often ar
 
 📎 [阅读原文](https://insideclimatenews.org/news/14072026/florida-farmworkers-heat-health/) — *Inside Climate News*
-
-### 3. Trump EPA Moves to Approve Alabama Coal Ash Program Rejected by Biden Administration
-
-[原文] The Trump administration is moving to approve a controversial program in Alabama that could allow millions of tons of toxic coal ash to remain buried in place alongside the state’s rivers, even though
-
-📎 [阅读原文](https://insideclimatenews.org/news/14072026/trump-epa-approves-alabama-coal-ash-program/) — *Inside Climate News*
-
-### 4. Europe Opens a New Front in the Mackerel Wars
-
-[原文] Norway, Denmark, Iceland, the United Kingdom, the European Union and Russia all share the world’s largest and most lucrative Atlantic mackerel supply, an industry valued at more than $1 billion annual
-
-📎 [阅读原文](https://insideclimatenews.org/news/14072026/europe-turns-to-russia-as-atlantic-mackerel-supply-plummets/) — *Inside Climate News*
-
-### 5. An AI Data Center at the Edge of the Everglades Heads to a Decisive Vote
-
-[原文] On a stretch of former farmland near the eastern edge of the Everglades, about 1,250 feet from a two-year-old elementary school, one of the region’s largest artificial-intelligence data centers could 
-
-📎 [阅读原文](https://insideclimatenews.org/news/14072026/florida-everglades-ai-data-center-opposition/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post How Much Is Half a Mercedes G-Wagen Worth? We&#8217;re About to Find Ou
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. FBI Offers $15,000 Reward in Case of Deceased Newborn at Electric Forest Festival
+### 1. Billy Joel Stopped Writing Songs Because He Didn’t Want to ‘Dilute’ His Legacy
+
+[原文] The artist released his last rock album in 1993
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/billy-joel-stopped-songwriting-dilute-legacy-1235593755/) — *Rolling Stone*
+
+### 2. Lil Durk Scores Major Win to Split Racketeering Charges, Chicago Killing Claims From L.A. Trial
+
+[原文] "I’m here to make sure both sides have a fair trial," the judge says at a tense hearing
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/lil-durk-racketeering-chicago-killing-separated-la-trial-1235593517/) — *Rolling Stone*
+
+### 3. Jason Newsted on the Time Metallica Had Darts Thrown at Them Onstage
+
+[原文] “It was maybe the fourth time we ever stopped a show,” the band’s former bassist says. “I look over at James, like, ‘Dude!’”
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/jason-newsted-metallica-stop-show-darts-interview-1235593579/) — *Rolling Stone*
+
+### 4. Does Noel Gallagher Truly Believe Phil Collins Is the Antichrist? Collins Doesn’t Think So
+
+[原文] Artists will likely meet for first time at pre-Rock Hall luncheon this fall
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/phil-collins-oasis-noel-gallagher-comments-1235593452/) — *Rolling Stone*
+
+### 5. FBI Offers $15,000 Reward in Case of Deceased Newborn at Electric Forest Festival
 
 [原文] Michigan State Police also said that a preliminary autopsy report determined the infant, who was found in a portable toilet, “was viable and was born alive.”
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/electric-forest-festival-fbi-reward-dead-newborn-1235593312/) — *Rolling Stone*
-
-### 2. Mike D’s New Solo Album Contains Music Made With 1980s Beastie Boys Sampler
-
-[原文] “They’d be trying to find a sound, and you’d randomly hear a drum break that was on a Beastie Boys song,” producer Tyran Donaldson says
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/mike-d-solo-album-beastie-boys-sampler-1235593149/) — *Rolling Stone*
-
-### 3. Indiana Prosecutors Aghast at Phish Fans Who Showed Up to Concerts With Drugs
-
-[原文] The Hamilton County Prosecuting Attorney’s Office claimed it made five felony-level drug arrests in a tut-tutting statement after Phish’s three-day run at the Ruoff Music Center
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/indiana-prosecutors-drugs-phish-show-1235593161/) — *Rolling Stone*
-
-### 4. Big Gigantic and Trevor Hall Bring the Energy to Rolling Stone and Sonesta International Hotels’ Musicians on Musicians Event in Denver
-
-[原文] It was an electric night in the Mile High City as Rolling Stone and Sonesta International Hotels hosted the second stop of the 2026 Musicians on Musicians live tour at the Sonesta Denver Downtown. Mod
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/big-gigantic-trevor-hall-sonesta-international-hotels-1235592905/) — *Rolling Stone*
-
-### 5. Watch Sienna Spiro Showcase Evocative Single ‘Great Expectation’ on ‘Fallon’
-
-[原文] The song comes off the British singer’s recent debut LP, Visitor
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/sienna-spiro-great-expectation-performance-fallon-1235593099/) — *Rolling Stone*
 
 ---
 
@@ -515,7 +515,7 @@ The post How Much Is Half a Mercedes G-Wagen Worth? We&#8217;re About to Find Ou
 - **💰 经济财经**: CNBC
 - **💻 科技**: TechCrunch
 - **🔬 科学**: Science Daily
-- **⚽ 体育**: ESPN
+- **⚽ 体育**: BBC Sport
 - **🎬 娱乐**: Variety
 - **🏥 健康**: WHO
 - **🎮 游戏**: IGN
@@ -528,6 +528,7 @@ The post How Much Is Half a Mercedes G-Wagen Worth? We&#8217;re About to Find Ou
 ## ⚠️ 今日故障源
 
 - **🚗 汽车**: Roadshow, Autocar
+- **✈️ 旅游**: Travel Off Path
 
 ---
 
