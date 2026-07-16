@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月16日** | 生成时间: 2026-07-16 03:17
+**2026年07月16日** | 生成时间: 2026-07-16 10:52
 
 ---
 
@@ -22,29 +22,29 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Iran threatens to block more trade routes as US launches fresh strikes
+### 2. US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'
 
-[原文] US President Donald Trump vowed to strike Iran's bridges and power plants next week if the country does not return to talks.
+[原文] US President Donald Trump says he is yet to decide whether or not he will "finish off" Iran.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Trump retreat over Hormuz tolls suggests he is struggling to end Iran war
+### 3. Argentina face action after waving Falklands banner
 
-[原文] The abrupt about-face from the US president was the latest twist in a conflict that has now lasted more than four months.
+[原文] Argentina face the prospect of disciplinary action from Fifa after their players celebrate the World Cup semi-final win against England with a banner in support of their country's claims to the Falkla
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. More people around the world now favour China over the US, Pew study suggests
+### 4. Families of 43 victims await verdict in Genoa bridge disaster
+
+[原文] A large section of the giant Morandi motorway bridge crumbled and collapsed on to the railway tracks below.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c20y00712ezo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. More people around the world now favour China over the US, Pew study suggests
 
 [原文] There is more confidence in Xi Jinping than Donald Trump, the US think tank's survey indicates.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cd959q11g54o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Russian attacks kill eight as Ukraine hits Black Sea oil tankers
-
-[原文] Civilian casualties are reported in four Ukrainian regions, while Kyiv hits 20 Russian vessels in the Black Sea.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -60,29 +60,29 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/15/feds-warsh-says-he-meets-often-with-trump-administration.html) — *CNBC*
 
-### 2. Warren Buffett on the market today: 'It's tough to find values when everybody is preferring gambling'
+### 2. SK Hynix shares plunge 11% as Asia sees tech rout, tracking U.S. chip losses
 
-[原文] The investor has been sharply critical of the stock market, one that he says is increasingly defined by speculative trading as opposed to long-term investing.
+[原文] Asian semiconductor stocks tumbled on Thursday as a selloff in U.S. chipmakers spilled into the region.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/15/warren-buffett-on-the-market-today-its-tough-to-find-values-when-everybody-is-preferring-gambling.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/16/sk-hynix-falls-amid-asia-tech-rout-tracking-us-semiconductor-losses.html) — *CNBC*
 
-### 3. Trump's DNI pick Jay Clayton won't tell senators Biden won the 2020 election
+### 3. Ex-Fed advisor gets over three years in prison for lying about China ties
 
-[原文] The Senate Intelligence Committee is considering Jay Clayton's nomination to be the director of national of intelligence.
+[原文] The case marks one of the most prominent U.S. prosecutions alleging Chinese intelligence targeting of U.S. institutions, as Trump intensifies its pursuit of foreign economic espionage.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/15/trump-dni-jay-clayton-senate-2020-election.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/16/ex-fed-adviser-gets-jailtime-lying-about-china-ties-economic-espionage-.html) — *CNBC*
 
-### 4. Historic IBM stock crash sets up unique options strategy
+### 4. United earnings top estimates but airline expects $6 billion in added fuel costs
 
-[原文] IBM shares fell just over $73 to ~$217 — a jaw-dropping 25% single-day decapitation.
+[原文] United reported higher revenue for premium, corporate and no-frills basic economy tickets and higher revenue for both domestic and international trips.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/15/historic-ibm-stock-crash-sets-up-unique-options-strategy.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/15/united-airlines-ual-2q-2026-earnings.html) — *CNBC*
 
-### 5. Anthropic moves closer to mega-IPO as bankers line up investor meetings
+### 5. Bank of Korea raises rates to 2.75% in first hike in over three years
 
-[原文] Anthropic is lining up investor meetings ahead of a potential IPO as soon as October as the AI startup behind looks to beat rival OpenAI to the public markets.
+[原文] The 25 basis point hike by the Bank of Korea was in line with a survey of economists polled by Reuters.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/16/bok-interest-rate-monetary-policy-markets-kospi-skhynix.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Microsoft patches bug in video game Age of Empires II
+### 1. Why Greylock capped its new fund at $1.5B when it says it could have raised more
 
-[原文] The vulnerability in the decades-old game could have allowed hackers to take over victims’ computers with a malicious game invite.
+[原文] By keeping the number of investments to about 25 per fund, Greylock aims to remain what it calls "the most important partner" to its founders.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/15/microsoft-patches-bug-in-video-game-age-of-empires-ii/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/) — *TechCrunch*
 
-### 2. Apple quietly reveals how its Maps ads will differ from Google’s
+### 2. Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic
 
-[原文] Apple has published the policies governing its upcoming Maps advertising business, revealing a strategy that differs from Google’s. The new rules prohibit home services businesses like plumbers, elect
+[原文] Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/15/apple-quietly-reveals-how-its-maps-ads-will-differ-from-googles/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/) — *TechCrunch*
 
-### 3. SpaceX slips below its $135 IPO price ahead of Starship launch
+### 3. Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms
 
-[原文] The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.
+[原文] The safety board confirmed Tesla's account of the crash, which the company shared days after it happened last month.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/15/spacex-slips-below-its-135-ipo-price-ahead-of-starship-launch/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/15/tesla-driver-in-fatal-texas-crash-pressed-accelerator-100-ntsb-confirms/) — *TechCrunch*
 
-### 4. Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling
+### 4. Daniel Ek’s body-scanning startup Neko Health raises another $700M
 
-[原文] It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view.
+[原文] Neko Health has developed proprietary body-scanning technology, which it couples with bloodwork, to assess a person's health.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/) — *TechCrunch*
 
-### 5. Phone maker OnePlus reportedly plans to wind down US and Europe operations
+### 5. Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex
 
-[原文] OnePlus could also wind down its operations in India by 2027.
+[原文] OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/15/phone-maker-oneplus-reportedly-plans-to-wind-down-us-and-europe-operations/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. New camera guidelines for female athletics coverage
+### 1. 'Passive' and 'crumbled' - did Tuchel's defensive tactics cost England?
 
-[原文] New guidelines have been released advising broadcasters on how to use more respectful camera angles when covering live female athletics events.
+[原文] England went 1-0 up against Argentina before slumping to a heart-breaking semi-final defeat. But did boss Thomas Tuchel's "negative" tactics cost the Three Lions a place in the World Cup final?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/cvgj55npzdzo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ce8l15903k8o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Portmarnock 'pretty close' to hosting first Open outside of UK
+### 2. Why England's loss to Argentina felt like most painful in 60 years of hurt
 
-[原文] Chief executive Mark Darbon says the R&A is "getting pretty close" to bringing the Open Championship to Portmarnock Golf Club in Dublin.
+[原文] England's years of hurt will now stretch beyond 60, but the late collapse to a World Cup semi-final defeat by Argentina may be the most painful wound of all.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/ckg7gj67x73o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cj365n05mgdo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Arsenal forward Trossard joins Besiktas for £15.3m
+### 3. Argentina shatter England's World Cup dreams in semi-final
 
-[原文] Arsenal forward Leandro Trossard joins Besiktas on a three-year deal.
+[原文] Argentina shatter England's World Cup dreams, scoring two late goals to come from behind and knock out Thomas Tuchel's side, in a dramatic semi-final in Atlanta.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cddldzme6g1o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cwy059qwdg4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Benn to face WBC champion Garcia on 12 September
+### 4. 'That's why he's the king' - Messi sets up third World Cup final
 
-[原文] Conor Benn's fight with WBC welterweight champion Ryan Garcia will take place at T-Mobile Arena in Las Vegas on 12 September.
+[原文] BBC Sport looks at Lionel Messi's masterclass on the right wing to knock England out of the World Cup.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/articles/cg53j8vg9l6o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c8jnl9zdzn2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Waerenskjold takes maiden Tour win in fastest stage
+### 5. Argentina face disciplinary action over Falklands banner after semi-final
 
-[原文] Soren Waerenskjold catches the big guns by surprise with a long-range sprint to win the fastest-ever stage of the Tour de France.
+[原文] Argentina face the prospect of disciplinary action from Fifa after their players celebrate the World Cup semi-final win against England with a banner in support of their country's claims to the Falkla
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cycling/articles/c78y88pndeqo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Chris Meledandri, George Lucas, Jodie Foster and Sigourney Weaver Receive France’s Prestigious Legion of Honor
+### 1. ‘Motor City’ Review: Potsy Ponciroli’s Audacious Thriller — a Scorsese Opera without Dialogue — Announces the Arrival of a Startling Voice
 
-[原文] French President Emmanuel Macron honored five major figures in international cinema at a ceremony held at the Élysée Palace in Paris on July 15: Illumination founder and CEO Chris Meledandri, the prod
+[原文] At times, "Motor City" is like a silent movie directed by Scorsese. It draws us in because it’s got a glittering underworld-opera surface, but also because the audience needs to use its noodle a bit t
 
-📎 [阅读原文](https://variety.com/2026/film/global/meledandri-lucas-foster-sigourney-weaver-france-legion-honor-1236811954/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/reviews/motor-city-review-shailene-woodley-ben-foster-1236810506/) — *Variety*
 
-### 2. ‘Wizards Beyond Waverly Place’ Four-Part Finale Trailer Released (TV News Roundup)
+### 2. Quentin Tarantino Plans to Retire After His Next Movie. Christopher Nolan Hopes He ‘Won’t Stay True’ to His Word
 
-[原文] Disney revealed the trailer for the “Wizards Beyond Waverly Place” four-part finale event.&#160; All four episodes will premiere on Aug. 4 on Disney Channel. All episodes will be available on Disney+ 
+[原文] If Quentin Tarantino remains committed to retiring from filmmaking after his 10th feature film, then whatever movie the Oscar winner decides to make next will be his swan song from the big screen. Chr
 
-📎 [阅读原文](https://variety.com/2026/tv/news/tv-news-roundup-week-of-july-13-1236810975/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/christopher-nolan-criticizes-tarantino-retiring-after-10-movies-1236810994/) — *Variety*
 
-### 3. ‘Call of Duty’ Reveals ‘Modern Warfare 4’s’ New ‘Kill Block’ Feature (Gaming News Roundup)
+### 3. Who Will Take Home the Claret Jug? Here’s How to Watch The Open Championship 2026
 
-[原文] The first look at &#8220;Kill Block,&#8221; the new &#8220;Call of Duty: Modern Warfare 4&#8221; game was released at Fanatics Fest. The multiplayer battleground game launches Oct. 23 and takes place 
+[原文] The final major championship of the 2026 golf season is here as the world’s best players head to Royal Birkdale in Southport, England, for the 154th playing of The Open Championship. Golf’s oldest maj
 
-📎 [阅读原文](https://variety.com/2026/digital/news/gaming-news-roundup-week-of-july-13-1236811918/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/shopping/news/how-to-watch-2026-open-championship-pga-golf-online-free-1236811750/) — *Variety*
 
-### 4. R. Kelly Formally Asks Trump to Commute 30-Year Sentence
+### 4. ‘Maximum Pleasure Guaranteed’ Creator on the Finale’s Cliffhanger, Season 2 Plans and Tatiana Maslany as an Antihero
 
-[原文] R. Kelly has formally asked President Donald Trump to commute his 30-year sentence, according to court records made public this week by the Office of the Pardon Attorney. The request for commutation, 
+[原文] SPOILER ALERT: This story contains spoilers for “Queens,” the Season 1 finale of “Maximum Pleasure Guaranteed,” now streaming on Apple TV. At the moment we think that Paula Saunders has finally gotten
 
-📎 [阅读原文](https://variety.com/2026/music/news/r-kelly-formally-asks-trump-commute-30-year-sentence-1236811935/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/maximum-pleasure-guaranteed-finale-twist-did-paula-kill-her-neighbor-1236805812/) — *Variety*
 
-### 5. ‘Superman’ Leads Critics Choice Super Award Nominations, ‘Obsession’ and ‘Weapons’ Top Horror Nominees
+### 5. Vincent D’Onofrio, Kate Mara, Clancy Brown Among Five Cast in Netflix Las Vegas Drama ‘The Roman’
 
-[原文] &#8220;Superman&#8221; flew to the head of the pack with the sixth annual Critics Choice Super Awards, the Critics Choice Association&#8217;s celebration of the most popular, fan-favorite corners of f
+[原文] The upcoming Netflix drama &#8220;The Roman&#8221; has added five new cast members, Variety has learned. The show, which is set in the world of Las Vegas casinos, has cast Vincent D&#8217;Onofrio (&#8
 
-📎 [阅读原文](https://variety.com/2026/film/awards/critics-choice-super-awards-2026-nominations-superman-1236811861/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/vincent-donofrio-kate-mara-clancy-brown-netflix-vegas-roman-1236812086/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Save 44% Off the PowerBlock Adjustable Dumbbells, Starts at 50 Pounds But Upgradeable to 90 Pounds
+### 1. Zach Cregger's Resident Evil Runtime Revealed, and It Matches Early Audience Reactions
 
-[原文] Strength training at home without taking up much space at all.
+[原文] The official runtime of Zach Cregger’s Resident Evil adaptation has finally been revealed by AMC Theaters, and it’s almost as long as the very first 2002 film.
 
-📎 [阅读原文](https://www.ign.com/articles/powerblock-adjustable-dumbbell-deal-july) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/zach-creggers-resident-evil-runtime-revealed-and-it-matches-early-audience-reactions) — *IGN*
 
-### 2. There Aren't Many Steam Machine Accessories Out There, But These Are the Best Ones Right Now
+### 2. The Popular Budget-Friendly Flashforge Adventurer 5M 3D Printer Drops to Just $155 Shipped
 
-[原文] The Steam Machine might not be priced like we hoped – courtesy of the ongoing memory shortage – but those who can pony up the cash will get to customize their machine in some very fun ways. Here are 6
+[原文] Produce consistent quality 3D prints without spending hundreds of dollars.
 
-📎 [阅读原文](https://www.ign.com/articles/best-steam-machine-accessories) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/flashforge-adventurer-5m-3d-printer-deal-july-2026) — *IGN*
 
-### 3. Leon Kennedy's Voice Actor Says Capcom Cut His "Favorite" Line From Resident Evil Requiem
+### 3. The Tiny Aoostar Ryzen 7 Pro 6850H Mini PC With 24GB of DDR5 RAM and USB 4 Ports Drops Below $300
 
-[原文] Nick Apostolides, best known as the voice behind beloved Resident Evil protagonist Leon S. Kennedy, revealed a hilarious voice line he pitched for RE9 that got cut from final game.
+[原文] A Mac Mini-sized PC with a ton of versatility (including light gaming).
 
-📎 [阅读原文](https://www.ign.com/articles/leon-kennedys-voice-actor-says-capcom-cut-his-favorite-line-from-resident-evil-requiem) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/aoostar-ryzen-7-pro-6850h-mini-pc-deal-july-2026-updated) — *IGN*
 
-### 4. A24 Reveals Backrooms 4K and Blu-ray Editions With 'Nearly 3 Hours of Special Features'
+### 4. Avatar Aang: The Last Airbender Finally Gets Theatrical Release, But There's a Catch
 
-[原文] A24 has officially revealed the 4K and Blu-ray editions for Backrooms, which include "nearly 3 hours of special features." Now available to preorder exclusively from the A24 Shop.
+[原文] The upcoming Avatar film, Avatar Aang: The Last Airbender, will release in some theaters after all.
 
-📎 [阅读原文](https://www.ign.com/articles/a24-reveals-backrooms-4k-and-blu-ray-editions-with-nearly-3-hours-of-special-features) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/avatar-aang-the-last-airbender-finally-gets-theatrical-release-but-theres-a-catch) — *IGN*
 
-### 5. Amazon's Audible Prime Day Deal Ends Today: Pay Just $1 Per Month and Get $20 in Audible Credit
+### 5. Save $2,500 Off the Alienware 16X Aurora RTX 5070 Gaming Laptop Loaded With 64GB of RAM and 4TB SSD
 
-[原文] Catch up on the latest audiobooks from Rebecca Yarros, Brandon Sanderson, Suzanne Collins, and more.
+[原文] 50% off a premium all-metal gaming laptop with $1,400+ worth of RAM and SSD storage.
 
-📎 [阅读原文](https://www.ign.com/articles/amazon-prime-day-audible-deal-for-june-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/dell-alienware-16x-aurora-rtx-5070-gaming-laptop-deal-in-july) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Nissan Altima, Once Inescapable, Is Finally Dead
+### 1. Concept Cars Used to Sell the Future. Acura’s Former Design Boss Explains What Went Wrong
+
+[原文] John Ikeda, the former head of design for Acura, told The Drive why concept cars still matter — and why making one that works has never been harder.
+The post Concept Cars Used to Sell the Future. Acur
+
+📎 [阅读原文](https://www.thedrive.com/podcast/concept-cars-used-to-sell-the-future-acuras-former-design-boss-explains-what-went-wrong) — *The Drive*
+
+### 2. Ford Now Offers a Remote Killswitch on Almost Every New Model
+
+[原文] Ford introduced the engine start inhibitor for its F-Series trucks a year ago, and now, owners of other models can disable their engine with the swipe of a finger.
+The post Ford Now Offers a Remote Ki
+
+📎 [阅读原文](https://www.thedrive.com/news/ford-now-offers-a-remote-killswitch-on-almost-every-new-model) — *The Drive*
+
+### 3. The Nissan Altima, Once Inescapable, Is Finally Dead
 
 [原文] The Altima is retiring eight years since its last redesign. Nissan had wanted to replace it with an electric sedan, but that hasn't panned out.
 The post The Nissan Altima, Once Inescapable, Is Finally
 
 📎 [阅读原文](https://www.thedrive.com/news/the-nissan-altima-once-inescapable-is-finally-dead) — *The Drive*
 
-### 2. The Morgan Supersport Lost Two Cylinders To Become US-Legal
+### 4. The Morgan Supersport Lost Two Cylinders To Become US-Legal
 
 [原文] The new Morgan Supersport runs a BMW B58 straight-six in Europe, but is being pivoted to a B46 turbo four for a limited run in the US market.
 The post The Morgan Supersport Lost Two Cylinders To Becom
 
 📎 [阅读原文](https://www.thedrive.com/news/the-morgan-supersport-lost-two-cylinders-to-become-us-legal) — *The Drive*
 
-### 3. Cheap Dash Cams Deals and More Car Accessories on Sale Right Now
+### 5. Cheap Dash Cams Deals and More Car Accessories on Sale Right Now
 
 [原文] Get up to 40% off a high-resolution dash cam from Amazon right now.
 The post Cheap Dash Cams Deals and More Car Accessories on Sale Right Now appeared first on The Drive.
 
 📎 [阅读原文](https://www.thedrive.com/news/cheap-dash-cams-deals-and-more-car-accessories-on-sale-right-now) — *The Drive*
-
-### 4. Volvo Reportedly Eyeing Wagon Comeback Right After Killing Off V60: TDS
-
-[原文] Volvo is reportedly considering bringing an electric wagon to the States, after discontinuing the V60 Cross Country in April.
-The post Volvo Reportedly Eyeing Wagon Comeback Right After Killing Off V6
-
-📎 [阅读原文](https://www.thedrive.com/news/volvo-reportedly-eyeing-wagon-comeback-right-after-killing-off-v60-tds) — *The Drive*
-
-### 5. GMC Is Making a New Yellow Hummer EV to Honor the Old H2
-
-[原文] The OG H2 launched 25 years ago, in 2002, painted yellow. What better way to commemorate the pop culture icon than with an even more ridiculous truck painted in the same shade?
-The post GMC Is Making 
-
-📎 [阅读原文](https://www.thedrive.com/news/gmc-is-making-a-new-yellow-hummer-ev-to-honor-the-old-h2) — *The Drive*
 
 ---
 
@@ -363,35 +363,35 @@ The post GMC Is Making
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Fracking Ban in the Delaware River Basin Survives a Republican Challenge (For Now)
+### 1. Will Trump’s Handoff of Grizzly Management to States Lead to More Dead Bears?
+
+[原文] Standing just north of Yellowstone National Park in Montana, U.S. Secretary of the Interior Doug Burgum proposed Tuesday to return management of grizzly bears to the states. At the Montana press confe
+
+📎 [阅读原文](https://insideclimatenews.org/news/15072026/trump-interior-grizzly-management/) — *Inside Climate News*
+
+### 2. Fracking Ban in the Delaware River Basin Survives a Republican Challenge (For Now)
 
 [原文] A Republican-led effort to end the Delaware River Basin&#8217;s ban on fracking fell short on Tuesday after an amendment to the Water Resources Development Act was not brought before a congressional c
 
 📎 [阅读原文](https://insideclimatenews.org/news/15072026/delaware-river-basin-fracking-ban-survives-republican-challenge/) — *Inside Climate News*
 
-### 2. Bay Program Delays Decision on Tribes’ Place in Chesapeake Agreement
+### 3. Bay Program Delays Decision on Tribes’ Place in Chesapeake Agreement
 
 [原文] Virginia&#8217;s seven federally recognized tribes said they’re cautiously optimistic about their prospects of becoming full signatories to the Chesapeake Bay Watershed Agreement even after program le
 
 📎 [阅读原文](https://insideclimatenews.org/news/15072026/chesapeake-bay-watershed-agreement-tribes-inclusion/) — *Inside Climate News*
 
-### 3. Governments Knew the Risks of Global Warming as They Chose Fossil-Fueled Growth in the 1950s and ’60s
+### 4. Governments Knew the Risks of Global Warming as They Chose Fossil-Fueled Growth in the 1950s and ’60s
 
 [原文] A new report strengthens the case that the United States and other major industrialized countries knew, long before they signed the 2015 Paris Agreement to limit global warming, that they could face l
 
 📎 [阅读原文](https://insideclimatenews.org/news/15072026/governments-knew-global-warming-risks/) — *Inside Climate News*
 
-### 4. New York Becomes First State in the Nation to Pause New Hyperscale Data Centers
+### 5. New York Becomes First State in the Nation to Pause New Hyperscale Data Centers
 
 [原文] New York Gov. Kathy Hochul signed an executive order Tuesday making the state the first in the nation to implement a moratorium on new hyperscale data centers. The Democratic governor said she would p
 
 📎 [阅读原文](https://insideclimatenews.org/news/14072026/new-york-first-data-center-moratorium/) — *Inside Climate News*
-
-### 5. What Happens When Extreme Weather Becomes a Cycle You Can’t Escape
-
-[原文] An aggressive downpour over the weekend in the eastern areas around Tennessee’s Great Smoky Mountains triggered severe flooding and multiple mudslides across the region. The watery assault hit particu
-
-📎 [阅读原文](https://insideclimatenews.org/news/14072026/todays-climate-extreme-weather-disaster-fatigue/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post GMC Is Making
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘Katseye: Wild Hearts’ Official Trailer Follows the Global Girl Group’s Rise to Superstardom
+### 1. Lana Del Rey Announces a ‘Beautiful’ Companion Album to Long-Awaited ‘Stove’
 
-[原文] The movie hits theaters worldwide on Aug. 12 for a limited time, and features a few clips of member Manon who remains on hiatus
+[原文] The singer said the secondary LP was "compiled by as many people as I could find to help me gather my thoughts about how much was changing"
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/katseye-wild-hearts-official-trailer-1235594031/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/lana-del-rey-companion-album-stove-1235594388/) — *Rolling Stone*
 
-### 2. Boosie Tried to Pay $600,000 for a Trump Pardon. It Was Never Going to Work
+### 2. R. Kelly Asks Trump to Commute 30-Year Prison Sentence
 
-[原文] The rapper reportedly paid a team of lobbyists to secure a presidential pardon over a handgun charge. He’s now asking for a refund
+[原文] The disgraced R&#38;B singer was convicted of racketeering and sex trafficking
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/boosie-paid-for-trump-pardon-money-back-1235594024/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/r-kelly-trump-commute-prison-sentence-sex-abuse-1235594301/) — *Rolling Stone*
 
-### 3. Watch Matty Healy Perform With the 1975 Tribute Band at His Own Bachelor Party
+### 3. Sean Combs Sells Star Island Mansion for $55 Million
 
-[原文] Meta Healy, more like ...
+[原文] Combs bought the Miami property from Gloria and Emilio Estefan in 2021
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/matty-healy-performs-the-1975-tribute-band-bachelor-party-1235594019/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/sean-combs-sells-star-island-mansion-1235594126/) — *Rolling Stone*
 
-### 4. See Napalm Death Eviscerate NPR’s Tiny Desk With World’s Shortest Song
+### 4. Fiona Apple’s Brooding New ‘Horns of a Bull’ Serves as Theme Song for ‘Lucky’
 
-[原文] Death-metal and grindcore greats played a career-spanning set in only 20 minutes
+[原文] The song appears in the thriller miniseries starring Anya Taylor-Joy and Annette Bening
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/napalm-death-npr-tiny-desk-concert-1235594015/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/fiona-apple-lucky-horns-of-a-bull-theme-song-1235594131/) — *Rolling Stone*
 
-### 5. Meshell Ndegeocello Taps Chaka Khan, Cat Power, More for Cover Album ‘Synonym’
+### 5. BTS, Enhypen, K-pop Fans Fuel Surge in Physical Album Sales
 
-[原文] A cover of George Michael and Aretha Franklin’s “I Knew You Were Waiting (For Me)” features Cynthia Erivo, and is out now
+[原文] Luminate's midyear report reveals South Korea as the world's third largest music exporter and that music sung in English is becoming less popular, also thanks to Latin music
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/meshell-ndegeocello-duet-album-synonym-1235593967/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/bts-enhypen-k-pop-physical-album-sales-surge-1235594124/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post GMC Is Making
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Scandic’s Dalata Deal Template Comes for Europe’s Mid-Cap Hotels
+### 1. JetBlue Ties Loyalty Points to Flight Financing
+
+[原文] The airline's frequent flyer program was built to reward spending. JetBlue is using it as a pipeline to finance spending — and letting customers earn points for the privilege of paying interest.
+
+📎 [阅读原文](https://skift.com/2026/07/15/jetblue-loyalty-points-bnpl-flight-financing-claritypay/) — *Skift*
+
+### 2. Travel + Leisure Buys Into Maui and Hilton Head in $343 Million Deal
+
+[原文] The timeshare secret runs best on people who already said yes. So when it gets harder to land first-time buyers, buy someone else's customers.
+
+📎 [阅读原文](https://skift.com/2026/07/15/travel-leisure-buys-into-maui-and-hilton-head-in-343-million-deal/) — *Skift*
+
+### 3. United Airlines Raises Outlook, Higher Fares Offset $6 Billion in Added Fuel Expense
+
+[原文] United is betting that it will continue to see high travel demand in the second half of 2026 as it stares down at an additional $6 billion in fuel costs.
+
+📎 [阅读原文](https://skift.com/2026/07/15/united-airlines-raises-outlook-higher-fares-offset-fuel-expens/) — *Skift*
+
+### 4. Scandic’s Dalata Deal Template Comes for Europe’s Mid-Cap Hotels
 
 [原文] Trading below your own bricks is an open invitation for financial interventions. For PPHE, Whitbread, and Meliá, the question is whether they're targets after Scandic's Dalata deal.
 
 📎 [阅读原文](https://skift.com/2026/07/15/scandics-dalata-deal-template-comes-for-europes-mid-cap-hotels/) — *Skift*
 
-### 2. Oman and Africa Became Minor Hotels’ Safe Havens During the Iran War
+### 5. Oman and Africa Became Minor Hotels’ Safe Havens During the Iran War
 
 [原文] Minor Hotels didn’t wait out the Iran war in the Gulf. It grew in Oman and Africa instead.
 
 📎 [阅读原文](https://skift.com/2026/07/15/oman-and-africa-became-minor-hotels-safe-havens-during-the-iran-war/) — *Skift*
-
-### 3. Leadership Intelligence: Mapping the Busiest Year of CEO Turnover in Travel
-
-[原文] The CCO-to-CEO pipeline is hardening into a template, boards are dressing exits as retirements, and high-growth markets are importing their turnaround CEOs. One year of moves, mapped by Skift Exec Sea
-
-📎 [阅读原文](https://skift.com/2026/07/15/leadership-intelligence-mapping-the-busiest-year-of-ceo-turnover-in-travel/) — *Skift*
-
-### 4. What If AI Doesn’t Fix Travel’s Labor Problem?
-
-[原文] Travel’s AI investment is concentrated in office work while its demographic labor crisis is concentrated on the front line; the jobs aging fastest remain stubbornly physical.
-
-📎 [阅读原文](https://skift.com/2026/07/15/what-if-ai-doesnt-fix-travels-labor-problem/) — *Skift*
-
-### 5. Accor Is Bringing Movenpick and MGallery to India: Exclusive
-
-[原文] Accor has been in India for two decades but has been slow to gain traction. Now it's focused on expansion and building out the structure to support the growth.
-
-📎 [阅读原文](https://skift.com/2026/07/15/accor-is-bringing-movenpick-and-mgallery-to-india-exclusive/) — *Skift*
 
 ---
 
