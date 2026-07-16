@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月16日** | 生成时间: 2026-07-16 16:19
+**2026年07月16日** | 生成时间: 2026-07-16 22:01
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Iran targets military bases as US launches wave of strikes
+### 1. Italian officials handed jail terms for Genoa bridge disaster that killed 43
+
+[原文] The ex-head of Italy's motorway operator Giovanni Castellucci was handed a 12-year term over the 2018 bridge collapse.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Protests in Ukrainian cities against Zelensky's removal of defence minister
+
+[原文] Ukraine's president has not explained Mykhailo Fedorov's dismissal, which is causing great upset among civil society and the military.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. Teenager accused of carrying out sabotage actions in Poland for Russia
+
+[原文] Polish security services say the aim was to incite ethnic tensions between Poland and Ukraine.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cp305dx493do?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. Iran targets military bases as US launches wave of strikes
 
 [原文] Explosions were heard across Iran overnight, shortly after neighbouring Gulf states began to report attacks.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Argentina face action over Falklands banner
+### 5. More than 800 Canadian wildfires burning as air quality alerts extend to US
 
-[原文] Argentina face the prospect of disciplinary action from Fifa after their players celebrate the World Cup semi-final win against England with a banner in support of their country's claims to the Falkla
+[原文] The air quality in large parts of Michigan, Minneapolis and Minnesota is deemed "hazardous" by authorities.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 3. Families of 43 victims await verdict in Genoa bridge disaster
-
-[原文] A large section of the giant Morandi motorway bridge crumbled and collapsed on to the railway tracks below.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c20y00712ezo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. US military to start screening for testosterone deficiency, Hegseth says
-
-[原文] Hegseth says he is authorising hormone screening to ensure US troops "operate at your absolute best".
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cn0nlx18rz0o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Actor Sam Neill died from pneumonia, agent confirms
-
-[原文] Neill died in Sydney on Monday, with his family saying his death was 'sudden and unexpected'.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cddj7e8v767o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. TSMC to invest additional $100 billion in Arizona after second-quarter profit soars 77%
+### 1. Iran warns U.S. of Hormuz ‘red line,’ says it will retaliate to Trump’s strike threats
 
-[原文] TSMC announced a second-quarter profit, following its June revenue figures released earlier this week.
+[原文] Trump warned that the U.S. will target Iranian infrastructure next week if negotiations do not resume.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/16/tsmc-second-quarter-profit-.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/16/iran-warns-of-hormuz-red-line-retaliation-to-trumps-strike-threats.html) — *CNBC*
 
-### 2. U.S. slaps 25% tariff on most Brazilian goods over 'unfair trade practices'
+### 2. U.S. grocery slowdown deepens as shoppers buy fewer items, raising pressure on food companies
 
-[原文] A separate U.S. probe into forced-labor enforcement could see an additional 12.5% duty on Brazilian goods on top of the 25%, with the decision due next week.
+[原文] New data show the U.S. grocery slowdown is deepening as shoppers buy fewer items, forcing grocers and brands to compete harder on price and value.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/16/us-tariffs-brazil-unfair-trade-practices-section-301-.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/16/us-grocery-spending-slows-in-hit-to-food-companies.html) — *CNBC*
 
-### 3. Ukraine's Zelenskyy ousts defense minister in surprise shake-up as protest calls emerge
+### 3. Nvidia unveils new AI model and expands Japan’s physical AI ecosystem
 
-[原文] The move sparked some to call for a peaceful protest and comes shortly after Ukraine's parliament accepted the resignation of Prime Minister Yulia Svyrydenko.
+[原文] Nvidia announces new AI model, Cosmos 3 Edge, and expansion of its physical AI ecosystems in Japan.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/16/ukraine-russia-zelenskyy-crimea-putin.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/16/nvidia-reveals-new-ai-model-and-expands-japans-physical-ai-ecosystem.html) — *CNBC*
 
-### 4. Foreign investors sweeten on Indian government bonds as equities see a sell-off
+### 4. Nvidia-backed Fireworks hits $17.5 billion valuation as companies pursue cheaper AI models
 
-[原文] The Indian government bond market is drawing interest from foreign investors as it readies for a likely inclusion in Bloomberg index.
+[原文] Fireworks once relied heavily on revenue from coding startup Cursor, but has diversified in the past year as more companies reach for lower-cost AI models.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/16/fii-buy-india-bonds-sell-nifty.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/16/fireworks-nvidia-cloud-ai-startup-value.html) — *CNBC*
 
-### 5. SK Hynix shares plunge over 11% as Asia sees tech rout, tracking U.S. chip losses
+### 5. UnitedHealth blows past estimates, hikes earnings outlook as it reins in costs
 
-[原文] Asian semiconductor stocks tumbled on Thursday as a selloff in U.S. chipmakers spilled into the region.
+[原文] The healthcare giant is working to stabilize margins by shrinking membership, exiting unprofitable contracts and pouring $1.5 billion into AI.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/16/sk-hynix-falls-amid-asia-tech-rout-tracking-us-semiconductor-losses.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/16/unitedhealth-group-unh-earnings-q2-2026.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Lululemon backs nylon-recycling startup Syntetica in $30M Series A
+### 1. Apple Intelligence approved for launch in China with Alibaba and Baidu
+
+[原文] The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/) — *TechCrunch*
+
+### 2. Ultrahuman’s former hardware VP raises $5.5M for devices that control AI agents, not just record you
+
+[原文] Aina is going to pilot a new device in the coming weeks.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/16/ultrahumans-former-hardware-vp-raises-5-5m-for-devices-that-control-ai-agents-not-just-record-you/) — *TechCrunch*
+
+### 3. Meta now alerts parents if their teen discussed suicide or self-harm with its AI chatbot
+
+[原文] The updates come as Meta and other tech companies are facing scrutiny from regulators and parents around how AI chatbots respond to users in crisis, particularly teenagers.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/16/meta-now-alerts-parents-if-their-teen-discussed-suicide-or-self-harm-with-its-ai-chatbot/) — *TechCrunch*
+
+### 4. Phone maker OnePlus says it won’t release new phones in the US and Europe
+
+[原文] OnePlus could also wind down its operations in India by 2027.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/16/phone-maker-oneplus-reportedly-plans-to-wind-down-us-and-europe-operations/) — *TechCrunch*
+
+### 5. Lululemon backs nylon-recycling startup Syntetica in $30M Series A
 
 [原文] Syntetica, a French startup that has developed a novel approach to recycling nylon, has already obtained big-name partners and investors.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/) — *TechCrunch*
-
-### 2. Applied Computing wants to give oil and gas operators an AI model for the entire plant
-
-[原文] Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/) — *TechCrunch*
-
-### 3. Why Greylock capped its new fund at $1.5B when it says it could have raised more
-
-[原文] By keeping the number of investments to about 25 per fund, Greylock aims to remain what it calls "the most important partner" to its founders.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/) — *TechCrunch*
-
-### 4. Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic
-
-[原文] Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/) — *TechCrunch*
-
-### 5. Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms
-
-[原文] The safety board confirmed Tesla's account of the crash, which the company shared days after it happened last month.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/15/tesla-driver-in-fatal-texas-crash-pressed-accelerator-100-ntsb-confirms/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. 'Passive' and 'crumbled' - did Tuchel's defensive tactics cost England?
+### 1. How coach-on-pitch Messi undid England's tactics on the fly
 
-[原文] England went 1-0 up against Argentina before slumping to a heartbreaking semi-final defeat. Did boss Thomas Tuchel's "negative" tactics cost them a place in the World Cup final?
+[原文] England pride themselves on their physicality, so shouldn't it have suited them to face a 39-year-old who spends most of his time walking? Not this 39-year-old. BBC Sport football tactics corresponden
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ce8l15903k8o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cly5lq03l7do?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Kane unsure if he will play at next World Cup
+### 2. Bellingham slapped Argentina substitute after England exit
 
-[原文] Harry Kane says it is "too early" to judge whether he could play on for England until the 2030 World Cup following the painful semi-final defeat by Argentina.
+[原文] Jude Bellingham sparks melee as he slaps Argentina substitute Valentin Barco on the back of the head following England's 2-1 World Cup semi-final defeat.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c1k13mvgyljo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c74glwpv99yo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Romero labels Neville 'stupid' over criticism
+### 3. 'A true miracle of destiny' - Messi and Yamal's incredible first meeting
+
+[原文] BBC Sport explores a bond between two world-class footballers from different generations who appear bound by destiny
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c9w0j104rvgo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. Romero labels Neville 'stupid' over criticism
 
 [原文] Argentina defender Cristian Romero says player-turned-pundit Gary Neville was "stupid" to criticise his centre-back partnership with Lisandro Martinez.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ce8l1zg37x8o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Why England's loss to Argentina felt like most painful in 60 years of hurt
+### 5. Why you should care about World Cup third-place play-off
 
-[原文] England's years of hurt will now stretch beyond 60, but the late collapse to a World Cup semi-final defeat by Argentina may be the most painful wound of all.
+[原文] It might feel like the last thing anyone wants right now - but here is why, actually, you do want to watch the World Cup's third-place play-off.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cj365n05mgdo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Argentina face disciplinary action over Falklands banner after semi-final
-
-[原文] Argentina face the prospect of disciplinary action from Fifa after their players celebrate the World Cup semi-final win against England with a banner in support of their country's claims to the Falkla
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cly5we2lgq4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Will Ferrell’s Lackluster Golf Comedy ‘The Hawk’ Is No ‘Talladega Nights’: TV Review
+### 1. TIFF 2026 Announces Special Presentations Program Additions Featuring Margaret Qualley, Cate Blanchett and Mahershala Ali
 
-[原文] I am a child of the 2000s (and specifically San Diego), which is to say that the work of Will Ferrell (and specifically “Anchorman”) is deeply important to me. Star vehicles like “Step Brothers” and “
+[原文] The 2026 Toronto International Film Festival announced five additions to its Special Presentation program today. Alpha Gang (Dir. David Zellner, Nathan Zellner) Glaxo (Dir. Benjamín Naishtat) Love of 
 
-📎 [阅读原文](https://variety.com/2026/tv/reviews/the-hawk-review-will-ferrell-golf-netflix-1236812110/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/tiff-2026-special-presentations-program-additions-alpha-gang-margaret-qualley-cate-blanchett-1236812413/) — *Variety*
 
-### 2. ‘The Illusion of an Everlasting Summer’ Boarded by Autlook Ahead of Locarno Premiere as Clip Debuts (EXCLUSIVE)
+### 2. MS NOW Taps Brian Swarth as Senior Vice President of Marketing
 
-[原文] Autlook has boarded as world sales agent for documentary &#8220;The Illusion of an Everlasting Summer,&#8221; which will have its world premiere in the Filmmakers of the Present Competition at Locarno
+[原文] Brian Swarth, a veteran of promoting series such as Showtime&#8217;s &#8220;Billions,&#8221; Audacy&#8217;s &#8220;Fly on the Wall with David Spade and Dana Carvey&#8221; and AMC&#8217;s &#8220;Interv
 
-📎 [阅读原文](https://variety.com/2026/film/global/the-illusion-of-an-everlasting-summer-autlook-locarno-1236811882/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/ms-now-brian-swarth-senior-vice-president-marketing-1236811706/) — *Variety*
 
-### 3. Hal Williams, ‘227’ Star and ‘Sanford and Son’ Regular, Dies at 91
+### 3. ‘Paper Tiger’ With Adam Driver and Scarlett Johansson to Open New York Film Festival
 
-[原文] Hal Williams, the TV veteran who appeared in American sitcom staples like &#8220;227&#8221; and &#8220;Sanford and Son,&#8221; has died, according to his manager. He was 91. &#8220;227&#8221; ran from
+[原文] James Gray&#8217;s crime drama &#8220;Paper Tiger,&#8221; starring Adam Driver, Scarlett Johansson and Miles Teller, will make its North American premiere as the opening night film of the 64th New Yor
 
-📎 [阅读原文](https://variety.com/2026/tv/news/hal-williams-dead-227-sanford-and-son-1236812244/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/awards/paper-tiger-new-york-film-festival-opening-night-2026-1236812082/) — *Variety*
 
-### 4. ‘Motor City’ Review: Potsy Ponciroli’s Audacious Thriller — a Scorsese Opera without Dialogue — Announces the Arrival of a Startling Voice
+### 4. ‘Status Summit’ Aims to Deliver More Content From Oliver Darcy’s ‘Status’ Media Newsletter
 
-[原文] At times, "Motor City" is like a silent movie directed by Scorsese. It draws us in because it’s got a glittering underworld-opera surface, but also because the audience needs to use its noodle a bit t
+[原文] The status of &#8220;Status&#8221; is multimedia. The buzzy media-industry newsletter that journalist and entrepreneur Oliver Darcy founded in 2024, is moving into live events. A &#8220;Status Summit&
 
-📎 [阅读原文](https://variety.com/2026/film/reviews/motor-city-review-shailene-woodley-ben-foster-1236810506/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/status-summit-oliver-darcy-media-newsletter-creators-1236812326/) — *Variety*
 
-### 5. Quentin Tarantino Plans to Retire After His Next Movie. Christopher Nolan Hopes He ‘Won’t Stay True’ to His Word
+### 5. Eli Roth, Humphry Slocombe Partner on Ice Cream Flavor Brain Freeze to Promote ‘Ice Cream Man’ (EXCLUSIVE)
 
-[原文] If Quentin Tarantino remains committed to retiring from filmmaking after his 10th feature film, then whatever movie the Oscar winner decides to make next will be his swan song from the big screen. Chr
+[原文] Humphry Slocombe, a San Francisco-based ice cream company, will team with Eli Roth to help promote his new horror film &#8220;Ice Cream Man.&#8221; The company has created Brain Freeze, a limited-edit
 
-📎 [阅读原文](https://variety.com/2026/film/news/christopher-nolan-criticizes-tarantino-retiring-after-10-movies-1236810994/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/eli-roth-humphry-slocombe-ice-cream-flavor-1236812389/) — *Variety*
 
 ---
 
@@ -244,35 +244,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Global childhood immunization coverage inches forward despite conflict and hesitancy – UNICEF, WHO
+### 1. New WHO guidelines: up to 45% of dementia risk could be prevented or delayed
+
+[原文] The World Health Organization (WHO) today released updated guidelines on reducing the risk of cognitive decline and dementia, providing countries with evidence-based recommendations to help prevent or
+
+📎 [阅读原文](https://www.who.int/news/item/15-07-2026-new-who-guidelines--up-to-45--of-dementia-risk-could-be-prevented-or-delayed) — *WHO*
+
+### 2. Global childhood immunization coverage inches forward despite conflict and hesitancy – UNICEF, WHO
 
 [原文] In 2025, 90% of infants globally &ndash; or nearly 116 million &ndash; received at least one dose of a diphtheria, tetanus and pertussis (DTP) vaccine, and 85% &ndash; or 110 million &ndash; completed
 
 📎 [阅读原文](https://www.who.int/news/item/15-07-2026-global-childhood-immunization-coverage-inches-forward-despite-conflict-and-hesitancy---unicef--who) — *WHO*
 
-### 2. El Salvador validated by WHO as having eliminated trachoma as a public health problem
+### 3. El Salvador validated by WHO as having eliminated trachoma as a public health problem
 
 [原文] The World Health Organization (WHO) has validated El Salvador as having eliminated trachoma as a public health problem. Trachoma is the world's leading infectious cause of blindness.
 
 📎 [阅读原文](https://www.who.int/news/item/13-07-2026-el-salvador-validated-by-who-as-having-eliminated-trachoma-as-a-public-health-problem) — *WHO*
 
-### 3. WHO calls for urgent action as new cancer cases are projected to nearly double by 2050
+### 4. WHO calls for urgent action as new cancer cases are projected to nearly double by 2050
 
 [原文] Millions of people are facing physical, emotional and financial toll of cancer, a disease that claims more than 26 000 lives every day, according to a report released today by the World Health Organiz
 
 📎 [阅读原文](https://www.who.int/news/item/08-07-2026-who-calls-for-urgent-action-as-new-cancer-cases-are-projected-to-nearly-double-by-2050) — *WHO*
 
-### 4. WHO adds first diagnostic test for Ebola Bundibugyo virus to its Emergency Use Listing
+### 5. WHO adds first diagnostic test for Ebola Bundibugyo virus to its Emergency Use Listing
 
 [原文] Today, the World Health Organization (WHO) has added the first molecular diagnostic test for Bundibugyo virus (BDBV) to its Emergency Use Listing (EUL). The test detects the virus by identifying its g
 
 📎 [阅读原文](https://www.who.int/news/item/02-07-2026-who-adds-first-diagnostic-test-for-ebola-bundibugyo-virus-to-its-emergency-use-listing) — *WHO*
-
-### 5. Patient enrolment begins in a scientific trial to identify the first effective treatments for Bundibugyo virus disease
-
-[原文] In a major international effort to evaluate potential treatments for Ebola disease due to Bundibugyo virus (BVD), the PARTNERS clinical trial has opened enrolment today for patients in the Democratic 
-
-📎 [阅读原文](https://www.who.int/news/item/02-07-2026-patient-enrolment-begins-in-a-scientific-trial-to-identify-the-first-effective-treatments-for-bundibugyo-virus-disease) — *WHO*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Fantasy Tactical RPG Langrisser: Sea of Sword Announced with Debut Trailer
+### 1. Pokémon Go Fans React in Disgust as Players Hand-Picked to Attend Exclusive Times Square Event Sell Their Prized Mewtwo for Thousands of Dollars, Breaking the Game's Rules
 
-暂无摘要。
+[原文] Pokémon Go players are reacting in disgust after seeing fans who were hand-picked to attend the game's ultra-exclusive 10th anniversary Times Square event now selling off their unique Mewtwo on eBay f
 
-📎 [阅读原文](https://www.ign.com/articles/fantasy-tactical-rpg-langrisser-sea-of-sword-announced-with-debut-trailer) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/pokemon-go-fans-react-in-disgust-as-players-hand-picked-to-attend-exclusive-times-square-event-sell-their-prized-mewtwo-for-thousands-of-dollars-breaking-the-games-rules) — *IGN*
 
-### 2. Zach Cregger's Resident Evil Runtime Revealed, and It Matches Early Audience Reactions
+### 2. Everything New in Hell Clock 2.0 and the Cursed War DLC
 
-[原文] The official runtime of Zach Cregger’s Resident Evil adaptation has finally been revealed by AMC Theaters, and it’s almost as long as the very first 2002 film.
+[原文] An index of guides for Hell Clock's 2.0 update, including explainers for everything new and links to useful guides and planners.
 
-📎 [阅读原文](https://www.ign.com/articles/zach-creggers-resident-evil-runtime-revealed-and-it-matches-early-audience-reactions) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/everything-new-in-hell-clock-20-and-the-cursed-war-dlc) — *IGN*
 
-### 3. The Popular Budget-Friendly Flashforge Adventurer 5M 3D Printer Drops to Just $155 Shipped
+### 3. Pokémon TCG: First Partner Illustration Collection Series 2 is 25% Off at Amazon
 
-[原文] Produce consistent quality 3D prints without spending hundreds of dollars.
+[原文] Market prices for the Pokémon TCG's First Partner Collection Series 2 set have plummeted by over 37% in just the past month alone. Amazon finally has stock back with a massive discount to reflect the 
 
-📎 [阅读原文](https://www.ign.com/articles/flashforge-adventurer-5m-3d-printer-deal-july-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/pokemon-tcg-first-partner-illustration-series-2-restock-best-deal-new) — *IGN*
 
-### 4. The Tiny Aoostar Ryzen 7 Pro 6850H Mini PC With 24GB of DDR5 RAM and USB 4 Ports Drops Below $300
+### 4. Magic’s Marvel Super Heroes Commander Decks Are Discounted on Amazon
 
-[原文] A Mac Mini-sized PC with a ton of versatility (including light gaming).
+[原文] Save on the new Magic: The Gathering x Marvel Super Heroes Commander decks with Amazon’s bundle discount, and find out which preconstructed decks are worth your money.
 
-📎 [阅读原文](https://www.ign.com/articles/aoostar-ryzen-7-pro-6850h-mini-pc-deal-july-2026-updated) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/mtg-marvel-commander-deck-amazon-deal) — *IGN*
 
-### 5. Avatar Aang: The Last Airbender Finally Gets Theatrical Release, But There's a Catch
+### 5. Get 24% Off the Philips OneBlade 360 Shaver and Trimmer at Amazon UK
 
-[原文] The upcoming Avatar film, Avatar Aang: The Last Airbender, will release in some theaters after all.
+[原文] Save 24% on the versatile Philips OneBlade 360 hybrid razor at Amazon UK, bringing the skin-comfortable shaver and grooming kit down to just £37.99.
 
-📎 [阅读原文](https://www.ign.com/articles/avatar-aang-the-last-airbender-finally-gets-theatrical-release-but-theres-a-catch) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/philips-oneblade-360-amazon-uk-deal) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Concept Cars Used to Sell the Future. Acura’s Former Design Boss Explains What Went Wrong
+### 1. VR Is Helping Driving Schools Train Better Instructors: TDS
+
+[原文] The UK's Automobile Association showed off its virtual reality-augmented driving instructor training program to Reuters, and it seems pretty neat.
+The post VR Is Helping Driving Schools Train Better I
+
+📎 [阅读原文](https://www.thedrive.com/news/vr-is-helping-driving-schools-train-better-instructors-tds) — *The Drive*
+
+### 2. Concept Cars Used to Sell the Future. Acura’s Former Design Boss Explains What Went Wrong
 
 [原文] John Ikeda, the former head of design for Acura, told The Drive why concept cars still matter — and why making one that works has never been harder.
 The post Concept Cars Used to Sell the Future. Acur
 
 📎 [阅读原文](https://www.thedrive.com/podcast/concept-cars-used-to-sell-the-future-acuras-former-design-boss-explains-what-went-wrong) — *The Drive*
 
-### 2. Ford Now Offers a Remote Killswitch on Almost Every New Model
+### 3. Ford Now Offers a Remote Killswitch on Almost Every New Model
 
 [原文] Ford introduced the engine start inhibitor for its F-Series trucks a year ago, and now, owners of other models can disable their engine with the swipe of a finger.
 The post Ford Now Offers a Remote Ki
 
 📎 [阅读原文](https://www.thedrive.com/news/ford-now-offers-a-remote-killswitch-on-almost-every-new-model) — *The Drive*
 
-### 3. The Nissan Altima, Once Inescapable, Is Finally Dead
+### 4. The Nissan Altima, Once Inescapable, Is Finally Dead
 
 [原文] The Altima is retiring eight years since its last redesign. Nissan had wanted to replace it with an electric sedan, but that hasn't panned out.
 The post The Nissan Altima, Once Inescapable, Is Finally
 
 📎 [阅读原文](https://www.thedrive.com/news/the-nissan-altima-once-inescapable-is-finally-dead) — *The Drive*
 
-### 4. The Morgan Supersport Lost Two Cylinders To Become US-Legal
+### 5. The Morgan Supersport Lost Two Cylinders To Become US-Legal
 
 [原文] The new Morgan Supersport runs a BMW B58 straight-six in Europe, but is being pivoted to a B46 turbo four for a limited run in the US market.
 The post The Morgan Supersport Lost Two Cylinders To Becom
 
 📎 [阅读原文](https://www.thedrive.com/news/the-morgan-supersport-lost-two-cylinders-to-become-us-legal) — *The Drive*
-
-### 5. Cheap Dash Cams Deals and More Car Accessories on Sale Right Now
-
-[原文] Get up to 40% off a high-resolution dash cam from Amazon right now.
-The post Cheap Dash Cams Deals and More Car Accessories on Sale Right Now appeared first on The Drive.
-
-📎 [阅读原文](https://www.thedrive.com/news/cheap-dash-cams-deals-and-more-car-accessories-on-sale-right-now) — *The Drive*
 
 ---
 
@@ -363,35 +363,35 @@ The post Cheap Dash Cams Deals and More Car Accessories on Sale Right Now appear
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Will Trump’s Handoff of Grizzly Management to States Lead to More Dead Bears?
+### 1. Without Tax Credits, EV Sales Are Searching for a Spark
+
+[原文] The U.S. electric vehicle market continues to suffer through a long hangover following the cancellation of federal tax credits. One of the keys to recovery is a model, or hopefully several models, tha
+
+📎 [阅读原文](https://insideclimatenews.org/news/16072026/inside-clean-energy-us-ev-sales/) — *Inside Climate News*
+
+### 2. A Shark-Feeding Ban Exposes a Deeper Fight Over Florida’s Changing Seas
+
+[原文] Fifteen, 20, 30 feet down, a crate of dead fish hung in the water five miles off of Jupiter, Florida’s coastline, and the sharks rode up and down with it. Every so often, Tanner Mansell would reach in
+
+📎 [阅读原文](https://insideclimatenews.org/news/16072026/florida-shark-feeding-ban/) — *Inside Climate News*
+
+### 3. As Climate Change Expands Mosquito Ranges, Better Monitoring Is Key to Preventing Disease
+
+[原文] With summer heat comes pool parties, beach days, backyard cookouts and, of course, swarms of bloodthirsty mosquitos. But while insect bites have always been a side effect of time spent outdoors, the s
+
+📎 [阅读原文](https://insideclimatenews.org/news/16072026/better-monitoring-needed-as-mosquito-ranges-expand/) — *Inside Climate News*
+
+### 4. Will Trump’s Handoff of Grizzly Management to States Lead to More Dead Bears?
 
 [原文] Standing just north of Yellowstone National Park in Montana, U.S. Secretary of the Interior Doug Burgum proposed Tuesday to return management of grizzly bears to the states. At the Montana press confe
 
 📎 [阅读原文](https://insideclimatenews.org/news/15072026/trump-interior-grizzly-management/) — *Inside Climate News*
 
-### 2. Fracking Ban in the Delaware River Basin Survives a Republican Challenge (For Now)
+### 5. Fracking Ban in the Delaware River Basin Survives a Republican Challenge (For Now)
 
 [原文] A Republican-led effort to end the Delaware River Basin&#8217;s ban on fracking fell short on Tuesday after an amendment to the Water Resources Development Act was not brought before a congressional c
 
 📎 [阅读原文](https://insideclimatenews.org/news/15072026/delaware-river-basin-fracking-ban-survives-republican-challenge/) — *Inside Climate News*
-
-### 3. Bay Program Delays Decision on Tribes’ Place in Chesapeake Agreement
-
-[原文] Virginia&#8217;s seven federally recognized tribes said they’re cautiously optimistic about their prospects of becoming full signatories to the Chesapeake Bay Watershed Agreement even after program le
-
-📎 [阅读原文](https://insideclimatenews.org/news/15072026/chesapeake-bay-watershed-agreement-tribes-inclusion/) — *Inside Climate News*
-
-### 4. Governments Knew the Risks of Global Warming as They Chose Fossil-Fueled Growth in the 1950s and ’60s
-
-[原文] A new report strengthens the case that the United States and other major industrialized countries knew, long before they signed the 2015 Paris Agreement to limit global warming, that they could face l
-
-📎 [阅读原文](https://insideclimatenews.org/news/15072026/governments-knew-global-warming-risks/) — *Inside Climate News*
-
-### 5. New York Becomes First State in the Nation to Pause New Hyperscale Data Centers
-
-[原文] New York Gov. Kathy Hochul signed an executive order Tuesday making the state the first in the nation to implement a moratorium on new hyperscale data centers. The Democratic governor said she would p
-
-📎 [阅读原文](https://insideclimatenews.org/news/14072026/new-york-first-data-center-moratorium/) — *Inside Climate News*
 
 ---
 
@@ -441,7 +441,7 @@ The post Cheap Dash Cams Deals and More Car Accessories on Sale Right Now appear
 
 ### 1. Eric Stonestreet Says Taylor Swift and Travis Kelce Created the ‘Normalcy They Deserve’ at Wedding
 
-[原文] "It just happened to be at Madison Square Garden with security making sure everybody was safe and good and they could just have a night for themselves"
+[原文] “It just happened to be at Madison Square Garden with security making sure everybody was safe and good and they could just have a night for themselves”
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/eric-stonestreet-taylor-swift-travis-kelce-wedding-1235594450/) — *Rolling Stone*
 
@@ -453,7 +453,7 @@ The post Cheap Dash Cams Deals and More Car Accessories on Sale Right Now appear
 
 ### 3. Lana Del Rey Announces ‘Beautiful’ Companion Album to Long-Awaited ‘Stove’
 
-[原文] The singer said the secondary LP was "compiled by as many people as I could find to help me gather my thoughts about how much was changing"
+[原文] The singer said the secondary LP was “compiled by as many people as I could find to help me gather my thoughts about how much was changing”
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/lana-del-rey-companion-album-stove-1235594388/) — *Rolling Stone*
 
@@ -477,35 +477,35 @@ The post Cheap Dash Cams Deals and More Car Accessories on Sale Right Now appear
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Omio to Buy Rail Europe, Consolidating Ground Transport — Exclusive
+### 1. MakeMyTrip Set to File for India IPO at $1 Billion-Plus: Report
+
+[原文] MakeMyTrip has talked about an India listing for months. A confidential filing — if the report holds — would be the clearest sign yet the company is moving from considering it to doing it.
+
+📎 [阅读原文](https://skift.com/2026/07/16/makemytrip-set-to-file-for-india-ipo-at-1-billion-plus-report/) — *Skift*
+
+### 2. Air India Rebuilds Its App With In-House Booking, Payments, and AI
+
+[原文] Yes, they made the app better and nicer! But the bigger story is that Air India is angling for a future where your flight, hotel and cab all get booked (and fixed, if something goes wrong) as one thin
+
+📎 [阅读原文](https://skift.com/2026/07/16/air-india-rebuilds-its-app-with-in-house-booking-payments-and-ai/) — *Skift*
+
+### 3. Awe, Not Excess: The Market Signal Luxury Travel Can’t Afford to Miss
+
+[原文] The affluent traveler's definition of luxury has shifted faster than most operators realize. Lindblad Expeditions is proof that the brands built around depth of experience and purposeful discovery are
+
+📎 [阅读原文](https://skift.com/2026/07/16/awe-not-excess-the-market-signal-luxury-travel-cant-afford-to-miss/) — *Skift*
+
+### 4. The Business Value of Skift Global Forum
+
+[原文] Distribution is up for grabs, AI is in the core systems, capital has gotten careful, and loyalty is being redefined. Skift Global Forum is where travel decides what to do about it.
+
+📎 [阅读原文](https://skift.com/2026/07/16/business-value-of-skift-global-forum/) — *Skift*
+
+### 5. Omio to Buy Rail Europe, Consolidating Ground Transport — Exclusive
 
 [原文] By absorbing Rail Europe, a 5-million-ticket rail seller with 90-plus years of operator ties, Omio is consolidating one of travel's most fragmented, hard-to-book corners — and laying groundwork for wh
 
 📎 [阅读原文](https://skift.com/2026/07/16/omio-to-buy-rail-europe-consolidating-ground-transport-exclusive/) — *Skift*
-
-### 2. JetBlue Ties Loyalty Points to Flight Financing
-
-[原文] The airline's frequent flyer program was built to reward spending. JetBlue is using it as a pipeline to finance spending — and letting customers earn points for the privilege of paying interest.
-
-📎 [阅读原文](https://skift.com/2026/07/15/jetblue-loyalty-points-bnpl-flight-financing-claritypay/) — *Skift*
-
-### 3. Travel + Leisure Buys Into Maui and Hilton Head in $343 Million Deal
-
-[原文] The timeshare secret runs best on people who already said yes. So when it gets harder to land first-time buyers, buy someone else's customers.
-
-📎 [阅读原文](https://skift.com/2026/07/15/travel-leisure-buys-into-maui-and-hilton-head-in-343-million-deal/) — *Skift*
-
-### 4. United Airlines Raises Outlook, Higher Fares Offset $6 Billion in Added Fuel Expense
-
-[原文] United is betting that it will continue to see high travel demand in the second half of 2026 as it stares down at an additional $6 billion in fuel costs.
-
-📎 [阅读原文](https://skift.com/2026/07/15/united-airlines-raises-outlook-higher-fares-offset-fuel-expens/) — *Skift*
-
-### 5. Scandic’s Dalata Deal Template Comes for Europe’s Mid-Cap Hotels
-
-[原文] Trading below your own bricks is an open invitation for financial interventions. For PPHE, Whitbread, and Meliá, the question is whether they're targets after Scandic's Dalata deal.
-
-📎 [阅读原文](https://skift.com/2026/07/15/scandics-dalata-deal-template-comes-for-europes-mid-cap-hotels/) — *Skift*
 
 ---
 
