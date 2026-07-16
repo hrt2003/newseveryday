@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月16日** | 生成时间: 2026-07-16 10:52
+**2026年07月16日** | 生成时间: 2026-07-16 16:19
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. French MPs approve assisted dying law with strict rules after years of argument
+### 1. Iran targets military bases as US launches wave of strikes
 
-[原文] The bill would allow assisted dying for terminally ill adults who meet strict criteria.
+[原文] Explosions were heard across Iran overnight, shortly after neighbouring Gulf states began to report attacks.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'
-
-[原文] US President Donald Trump says he is yet to decide whether or not he will "finish off" Iran.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 3. Argentina face action after waving Falklands banner
+### 2. Argentina face action over Falklands banner
 
 [原文] Argentina face the prospect of disciplinary action from Fifa after their players celebrate the World Cup semi-final win against England with a banner in support of their country's claims to the Falkla
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Families of 43 victims await verdict in Genoa bridge disaster
+### 3. Families of 43 victims await verdict in Genoa bridge disaster
 
 [原文] A large section of the giant Morandi motorway bridge crumbled and collapsed on to the railway tracks below.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c20y00712ezo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. More people around the world now favour China over the US, Pew study suggests
+### 4. US military to start screening for testosterone deficiency, Hegseth says
 
-[原文] There is more confidence in Xi Jinping than Donald Trump, the US think tank's survey indicates.
+[原文] Hegseth says he is authorising hormone screening to ensure US troops "operate at your absolute best".
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cd959q11g54o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cn0nlx18rz0o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Actor Sam Neill died from pneumonia, agent confirms
+
+[原文] Neill died in Sydney on Monday, with his family saying his death was 'sudden and unexpected'.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cddj7e8v767o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Fed Chairman Warsh says he meets 'often' with Trump administration, defends independence
+### 1. TSMC to invest additional $100 billion in Arizona after second-quarter profit soars 77%
 
-[原文] Kevin Warsh said Wednesday that he speaks with Treasury Secretary Scott Bessent frequently outside their regular weekly meetings.
+[原文] TSMC announced a second-quarter profit, following its June revenue figures released earlier this week.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/15/feds-warsh-says-he-meets-often-with-trump-administration.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/16/tsmc-second-quarter-profit-.html) — *CNBC*
 
-### 2. SK Hynix shares plunge 11% as Asia sees tech rout, tracking U.S. chip losses
+### 2. U.S. slaps 25% tariff on most Brazilian goods over 'unfair trade practices'
+
+[原文] A separate U.S. probe into forced-labor enforcement could see an additional 12.5% duty on Brazilian goods on top of the 25%, with the decision due next week.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/16/us-tariffs-brazil-unfair-trade-practices-section-301-.html) — *CNBC*
+
+### 3. Ukraine's Zelenskyy ousts defense minister in surprise shake-up as protest calls emerge
+
+[原文] The move sparked some to call for a peaceful protest and comes shortly after Ukraine's parliament accepted the resignation of Prime Minister Yulia Svyrydenko.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/16/ukraine-russia-zelenskyy-crimea-putin.html) — *CNBC*
+
+### 4. Foreign investors sweeten on Indian government bonds as equities see a sell-off
+
+[原文] The Indian government bond market is drawing interest from foreign investors as it readies for a likely inclusion in Bloomberg index.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/16/fii-buy-india-bonds-sell-nifty.html) — *CNBC*
+
+### 5. SK Hynix shares plunge over 11% as Asia sees tech rout, tracking U.S. chip losses
 
 [原文] Asian semiconductor stocks tumbled on Thursday as a selloff in U.S. chipmakers spilled into the region.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/16/sk-hynix-falls-amid-asia-tech-rout-tracking-us-semiconductor-losses.html) — *CNBC*
-
-### 3. Ex-Fed advisor gets over three years in prison for lying about China ties
-
-[原文] The case marks one of the most prominent U.S. prosecutions alleging Chinese intelligence targeting of U.S. institutions, as Trump intensifies its pursuit of foreign economic espionage.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/16/ex-fed-adviser-gets-jailtime-lying-about-china-ties-economic-espionage-.html) — *CNBC*
-
-### 4. United earnings top estimates but airline expects $6 billion in added fuel costs
-
-[原文] United reported higher revenue for premium, corporate and no-frills basic economy tickets and higher revenue for both domestic and international trips.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/15/united-airlines-ual-2q-2026-earnings.html) — *CNBC*
-
-### 5. Bank of Korea raises rates to 2.75% in first hike in over three years
-
-[原文] The 25 basis point hike by the Bank of Korea was in line with a survey of economists polled by Reuters.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/16/bok-interest-rate-monetary-policy-markets-kospi-skhynix.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Why Greylock capped its new fund at $1.5B when it says it could have raised more
+### 1. Lululemon backs nylon-recycling startup Syntetica in $30M Series A
+
+[原文] Syntetica, a French startup that has developed a novel approach to recycling nylon, has already obtained big-name partners and investors.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/) — *TechCrunch*
+
+### 2. Applied Computing wants to give oil and gas operators an AI model for the entire plant
+
+[原文] Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/) — *TechCrunch*
+
+### 3. Why Greylock capped its new fund at $1.5B when it says it could have raised more
 
 [原文] By keeping the number of investments to about 25 per fund, Greylock aims to remain what it calls "the most important partner" to its founders.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/) — *TechCrunch*
 
-### 2. Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic
+### 4. Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic
 
 [原文] Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/) — *TechCrunch*
 
-### 3. Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms
+### 5. Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms
 
 [原文] The safety board confirmed Tesla's account of the crash, which the company shared days after it happened last month.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/15/tesla-driver-in-fatal-texas-crash-pressed-accelerator-100-ntsb-confirms/) — *TechCrunch*
-
-### 4. Daniel Ek’s body-scanning startup Neko Health raises another $700M
-
-[原文] Neko Health has developed proprietary body-scanning technology, which it couples with bloodwork, to assess a person's health.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/) — *TechCrunch*
-
-### 5. Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex
-
-[原文] OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/) — *TechCrunch*
 
 ---
 
@@ -130,35 +130,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The hidden skeleton “gatekeeper” inside brain cells could help fight Alzheimer's
+### 1. More than 400 sick as CDC searches for the source of a mystery outbreak
+
+[原文] A growing Cyclospora outbreak has sickened more than 400 people in four states, and investigators are still searching for the contaminated food responsible. The CDC warns the actual number of cases is
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260715083530.htm) — *Science Daily*
+
+### 2. Quantum breakthrough links light and magnetism in atomically thin materials
+
+[原文] A new review highlights exciting progress in atomically thin quantum materials where light and magnetism work together in ways never before possible. In these materials, light-generated excitons can i
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260715083523.htm) — *Science Daily*
+
+### 3. The hidden skeleton “gatekeeper” inside brain cells could help fight Alzheimer's
 
 [原文] Researchers have discovered that a microscopic skeleton inside neurons does much more than hold cells together. It acts as a gatekeeper that controls what brain cells absorb and when they absorb it. W
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260714225542.htm) — *Science Daily*
 
-### 2. Are humans really the ultimate super-predator?
+### 4. Are humans really the ultimate super-predator?
 
 [原文] Humans are often described as the planet's ultimate "super-predator," but wild animals do not fear every human the same way. After analyzing three decades of research, scientists found that animals be
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260714225540.htm) — *Science Daily*
 
-### 3. Astronomers just found four hidden white dwarf stars near Earth
+### 5. Astronomers just found four hidden white dwarf stars near Earth
 
 [原文] Four nearby white dwarf stars have been discovered hiding in plain sight beside brighter red dwarf companions. Hubble's ultraviolet observations finally revealed the long-hidden stellar remnants, incl
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260714225528.htm) — *Science Daily*
-
-### 4. Going to museums, movies, and theater may help your body stay younger
-
-[原文] Going to the cinema, visiting museums, or attending concerts may do more than entertain. Researchers found that older adults who regularly participated in cultural activities tended to have bodies tha
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260714225526.htm) — *Science Daily*
-
-### 5. This pet gecko could help scientists unlock the secrets of cancer
-
-[原文] An unusual leopard gecko that naturally develops aggressive tumors may become an important new model for cancer research. Scientists found its tumors share key genetic changes with human cancers, offe
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260714225525.htm) — *Science Daily*
 
 ---
 
@@ -170,27 +170,27 @@
 
 ### 1. 'Passive' and 'crumbled' - did Tuchel's defensive tactics cost England?
 
-[原文] England went 1-0 up against Argentina before slumping to a heart-breaking semi-final defeat. But did boss Thomas Tuchel's "negative" tactics cost the Three Lions a place in the World Cup final?
+[原文] England went 1-0 up against Argentina before slumping to a heartbreaking semi-final defeat. Did boss Thomas Tuchel's "negative" tactics cost them a place in the World Cup final?
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ce8l15903k8o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Why England's loss to Argentina felt like most painful in 60 years of hurt
+### 2. Kane unsure if he will play at next World Cup
+
+[原文] Harry Kane says it is "too early" to judge whether he could play on for England until the 2030 World Cup following the painful semi-final defeat by Argentina.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c1k13mvgyljo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. Romero labels Neville 'stupid' over criticism
+
+[原文] Argentina defender Cristian Romero says player-turned-pundit Gary Neville was "stupid" to criticise his centre-back partnership with Lisandro Martinez.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ce8l1zg37x8o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. Why England's loss to Argentina felt like most painful in 60 years of hurt
 
 [原文] England's years of hurt will now stretch beyond 60, but the late collapse to a World Cup semi-final defeat by Argentina may be the most painful wound of all.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cj365n05mgdo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 3. Argentina shatter England's World Cup dreams in semi-final
-
-[原文] Argentina shatter England's World Cup dreams, scoring two late goals to come from behind and knock out Thomas Tuchel's side, in a dramatic semi-final in Atlanta.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cwy059qwdg4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. 'That's why he's the king' - Messi sets up third World Cup final
-
-[原文] BBC Sport looks at Lionel Messi's masterclass on the right wing to knock England out of the World Cup.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c8jnl9zdzn2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ### 5. Argentina face disciplinary action over Falklands banner after semi-final
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘Motor City’ Review: Potsy Ponciroli’s Audacious Thriller — a Scorsese Opera without Dialogue — Announces the Arrival of a Startling Voice
+### 1. Will Ferrell’s Lackluster Golf Comedy ‘The Hawk’ Is No ‘Talladega Nights’: TV Review
+
+[原文] I am a child of the 2000s (and specifically San Diego), which is to say that the work of Will Ferrell (and specifically “Anchorman”) is deeply important to me. Star vehicles like “Step Brothers” and “
+
+📎 [阅读原文](https://variety.com/2026/tv/reviews/the-hawk-review-will-ferrell-golf-netflix-1236812110/) — *Variety*
+
+### 2. ‘The Illusion of an Everlasting Summer’ Boarded by Autlook Ahead of Locarno Premiere as Clip Debuts (EXCLUSIVE)
+
+[原文] Autlook has boarded as world sales agent for documentary &#8220;The Illusion of an Everlasting Summer,&#8221; which will have its world premiere in the Filmmakers of the Present Competition at Locarno
+
+📎 [阅读原文](https://variety.com/2026/film/global/the-illusion-of-an-everlasting-summer-autlook-locarno-1236811882/) — *Variety*
+
+### 3. Hal Williams, ‘227’ Star and ‘Sanford and Son’ Regular, Dies at 91
+
+[原文] Hal Williams, the TV veteran who appeared in American sitcom staples like &#8220;227&#8221; and &#8220;Sanford and Son,&#8221; has died, according to his manager. He was 91. &#8220;227&#8221; ran from
+
+📎 [阅读原文](https://variety.com/2026/tv/news/hal-williams-dead-227-sanford-and-son-1236812244/) — *Variety*
+
+### 4. ‘Motor City’ Review: Potsy Ponciroli’s Audacious Thriller — a Scorsese Opera without Dialogue — Announces the Arrival of a Startling Voice
 
 [原文] At times, "Motor City" is like a silent movie directed by Scorsese. It draws us in because it’s got a glittering underworld-opera surface, but also because the audience needs to use its noodle a bit t
 
 📎 [阅读原文](https://variety.com/2026/film/reviews/motor-city-review-shailene-woodley-ben-foster-1236810506/) — *Variety*
 
-### 2. Quentin Tarantino Plans to Retire After His Next Movie. Christopher Nolan Hopes He ‘Won’t Stay True’ to His Word
+### 5. Quentin Tarantino Plans to Retire After His Next Movie. Christopher Nolan Hopes He ‘Won’t Stay True’ to His Word
 
 [原文] If Quentin Tarantino remains committed to retiring from filmmaking after his 10th feature film, then whatever movie the Oscar winner decides to make next will be his swan song from the big screen. Chr
 
 📎 [阅读原文](https://variety.com/2026/film/news/christopher-nolan-criticizes-tarantino-retiring-after-10-movies-1236810994/) — *Variety*
-
-### 3. Who Will Take Home the Claret Jug? Here’s How to Watch The Open Championship 2026
-
-[原文] The final major championship of the 2026 golf season is here as the world’s best players head to Royal Birkdale in Southport, England, for the 154th playing of The Open Championship. Golf’s oldest maj
-
-📎 [阅读原文](https://variety.com/2026/shopping/news/how-to-watch-2026-open-championship-pga-golf-online-free-1236811750/) — *Variety*
-
-### 4. ‘Maximum Pleasure Guaranteed’ Creator on the Finale’s Cliffhanger, Season 2 Plans and Tatiana Maslany as an Antihero
-
-[原文] SPOILER ALERT: This story contains spoilers for “Queens,” the Season 1 finale of “Maximum Pleasure Guaranteed,” now streaming on Apple TV. At the moment we think that Paula Saunders has finally gotten
-
-📎 [阅读原文](https://variety.com/2026/tv/news/maximum-pleasure-guaranteed-finale-twist-did-paula-kill-her-neighbor-1236805812/) — *Variety*
-
-### 5. Vincent D’Onofrio, Kate Mara, Clancy Brown Among Five Cast in Netflix Las Vegas Drama ‘The Roman’
-
-[原文] The upcoming Netflix drama &#8220;The Roman&#8221; has added five new cast members, Variety has learned. The show, which is set in the world of Las Vegas casinos, has cast Vincent D&#8217;Onofrio (&#8
-
-📎 [阅读原文](https://variety.com/2026/tv/news/vincent-donofrio-kate-mara-clancy-brown-netflix-vegas-roman-1236812086/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Zach Cregger's Resident Evil Runtime Revealed, and It Matches Early Audience Reactions
+### 1. Fantasy Tactical RPG Langrisser: Sea of Sword Announced with Debut Trailer
+
+暂无摘要。
+
+📎 [阅读原文](https://www.ign.com/articles/fantasy-tactical-rpg-langrisser-sea-of-sword-announced-with-debut-trailer) — *IGN*
+
+### 2. Zach Cregger's Resident Evil Runtime Revealed, and It Matches Early Audience Reactions
 
 [原文] The official runtime of Zach Cregger’s Resident Evil adaptation has finally been revealed by AMC Theaters, and it’s almost as long as the very first 2002 film.
 
 📎 [阅读原文](https://www.ign.com/articles/zach-creggers-resident-evil-runtime-revealed-and-it-matches-early-audience-reactions) — *IGN*
 
-### 2. The Popular Budget-Friendly Flashforge Adventurer 5M 3D Printer Drops to Just $155 Shipped
+### 3. The Popular Budget-Friendly Flashforge Adventurer 5M 3D Printer Drops to Just $155 Shipped
 
 [原文] Produce consistent quality 3D prints without spending hundreds of dollars.
 
 📎 [阅读原文](https://www.ign.com/articles/flashforge-adventurer-5m-3d-printer-deal-july-2026) — *IGN*
 
-### 3. The Tiny Aoostar Ryzen 7 Pro 6850H Mini PC With 24GB of DDR5 RAM and USB 4 Ports Drops Below $300
+### 4. The Tiny Aoostar Ryzen 7 Pro 6850H Mini PC With 24GB of DDR5 RAM and USB 4 Ports Drops Below $300
 
 [原文] A Mac Mini-sized PC with a ton of versatility (including light gaming).
 
 📎 [阅读原文](https://www.ign.com/articles/aoostar-ryzen-7-pro-6850h-mini-pc-deal-july-2026-updated) — *IGN*
 
-### 4. Avatar Aang: The Last Airbender Finally Gets Theatrical Release, But There's a Catch
+### 5. Avatar Aang: The Last Airbender Finally Gets Theatrical Release, But There's a Catch
 
 [原文] The upcoming Avatar film, Avatar Aang: The Last Airbender, will release in some theaters after all.
 
 📎 [阅读原文](https://www.ign.com/articles/avatar-aang-the-last-airbender-finally-gets-theatrical-release-but-theres-a-catch) — *IGN*
-
-### 5. Save $2,500 Off the Alienware 16X Aurora RTX 5070 Gaming Laptop Loaded With 64GB of RAM and 4TB SSD
-
-[原文] 50% off a premium all-metal gaming laptop with $1,400+ worth of RAM and SSD storage.
-
-📎 [阅读原文](https://www.ign.com/articles/dell-alienware-16x-aurora-rtx-5070-gaming-laptop-deal-in-july) — *IGN*
 
 ---
 
@@ -439,35 +439,35 @@ The post Cheap Dash Cams Deals and More Car Accessories on Sale Right Now appear
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Lana Del Rey Announces a ‘Beautiful’ Companion Album to Long-Awaited ‘Stove’
+### 1. Eric Stonestreet Says Taylor Swift and Travis Kelce Created the ‘Normalcy They Deserve’ at Wedding
+
+[原文] "It just happened to be at Madison Square Garden with security making sure everybody was safe and good and they could just have a night for themselves"
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/eric-stonestreet-taylor-swift-travis-kelce-wedding-1235594450/) — *Rolling Stone*
+
+### 2. Phoebe Bridgers Returns to ‘Fallon,’ This Time for ‘Lost Boys (Acoustic)’
+
+[原文] The singer-songwriter formally released the acoustic version of her Lost Weekend single
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/phoebe-bridgers-jimmy-fallon-lost-boys-acoustic-1235594000/) — *Rolling Stone*
+
+### 3. Lana Del Rey Announces ‘Beautiful’ Companion Album to Long-Awaited ‘Stove’
 
 [原文] The singer said the secondary LP was "compiled by as many people as I could find to help me gather my thoughts about how much was changing"
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/lana-del-rey-companion-album-stove-1235594388/) — *Rolling Stone*
 
-### 2. R. Kelly Asks Trump to Commute 30-Year Prison Sentence
+### 4. R. Kelly Asks Trump to Commute 30-Year Prison Sentence. White House Calls it ‘Random Submission’
 
 [原文] The disgraced R&#38;B singer was convicted of racketeering and sex trafficking
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/r-kelly-trump-commute-prison-sentence-sex-abuse-1235594301/) — *Rolling Stone*
 
-### 3. Sean Combs Sells Star Island Mansion for $55 Million
+### 5. Sean Combs Sells Star Island Mansion for $55 Million
 
 [原文] Combs bought the Miami property from Gloria and Emilio Estefan in 2021
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/sean-combs-sells-star-island-mansion-1235594126/) — *Rolling Stone*
-
-### 4. Fiona Apple’s Brooding New ‘Horns of a Bull’ Serves as Theme Song for ‘Lucky’
-
-[原文] The song appears in the thriller miniseries starring Anya Taylor-Joy and Annette Bening
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/fiona-apple-lucky-horns-of-a-bull-theme-song-1235594131/) — *Rolling Stone*
-
-### 5. BTS, Enhypen, K-pop Fans Fuel Surge in Physical Album Sales
-
-[原文] Luminate's midyear report reveals South Korea as the world's third largest music exporter and that music sung in English is becoming less popular, also thanks to Latin music
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/bts-enhypen-k-pop-physical-album-sales-surge-1235594124/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post Cheap Dash Cams Deals and More Car Accessories on Sale Right Now appear
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. JetBlue Ties Loyalty Points to Flight Financing
+### 1. Omio to Buy Rail Europe, Consolidating Ground Transport — Exclusive
+
+[原文] By absorbing Rail Europe, a 5-million-ticket rail seller with 90-plus years of operator ties, Omio is consolidating one of travel's most fragmented, hard-to-book corners — and laying groundwork for wh
+
+📎 [阅读原文](https://skift.com/2026/07/16/omio-to-buy-rail-europe-consolidating-ground-transport-exclusive/) — *Skift*
+
+### 2. JetBlue Ties Loyalty Points to Flight Financing
 
 [原文] The airline's frequent flyer program was built to reward spending. JetBlue is using it as a pipeline to finance spending — and letting customers earn points for the privilege of paying interest.
 
 📎 [阅读原文](https://skift.com/2026/07/15/jetblue-loyalty-points-bnpl-flight-financing-claritypay/) — *Skift*
 
-### 2. Travel + Leisure Buys Into Maui and Hilton Head in $343 Million Deal
+### 3. Travel + Leisure Buys Into Maui and Hilton Head in $343 Million Deal
 
 [原文] The timeshare secret runs best on people who already said yes. So when it gets harder to land first-time buyers, buy someone else's customers.
 
 📎 [阅读原文](https://skift.com/2026/07/15/travel-leisure-buys-into-maui-and-hilton-head-in-343-million-deal/) — *Skift*
 
-### 3. United Airlines Raises Outlook, Higher Fares Offset $6 Billion in Added Fuel Expense
+### 4. United Airlines Raises Outlook, Higher Fares Offset $6 Billion in Added Fuel Expense
 
 [原文] United is betting that it will continue to see high travel demand in the second half of 2026 as it stares down at an additional $6 billion in fuel costs.
 
 📎 [阅读原文](https://skift.com/2026/07/15/united-airlines-raises-outlook-higher-fares-offset-fuel-expens/) — *Skift*
 
-### 4. Scandic’s Dalata Deal Template Comes for Europe’s Mid-Cap Hotels
+### 5. Scandic’s Dalata Deal Template Comes for Europe’s Mid-Cap Hotels
 
 [原文] Trading below your own bricks is an open invitation for financial interventions. For PPHE, Whitbread, and Meliá, the question is whether they're targets after Scandic's Dalata deal.
 
 📎 [阅读原文](https://skift.com/2026/07/15/scandics-dalata-deal-template-comes-for-europes-mid-cap-hotels/) — *Skift*
-
-### 5. Oman and Africa Became Minor Hotels’ Safe Havens During the Iran War
-
-[原文] Minor Hotels didn’t wait out the Iran war in the Gulf. It grew in Oman and Africa instead.
-
-📎 [阅读原文](https://skift.com/2026/07/15/oman-and-africa-became-minor-hotels-safe-havens-during-the-iran-war/) — *Skift*
 
 ---
 
