@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月17日** | 生成时间: 2026-07-17 03:17
+**2026年07月17日** | 生成时间: 2026-07-17 10:54
 
 ---
 
@@ -16,25 +16,25 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Zelensky's removal of popular defence minister sparks protests in Ukraine
+### 1. Blasts reported in Iran as US launches new wave of strikes
+
+[原文] Iran says US strikes hit bridges in the country in an apparent escalation, while the US boards a ship in the Strait of Hormuz.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Zelensky's removal of popular defence minister sparks protests in Ukraine
 
 [原文] A rift between Fedorov and Commander-in-Chief Oleksandr Syrskyi was apparently at the heart of Zelensky's decision.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Teenager accused of carrying out sabotage actions in Poland for Russia
+### 3. Teenager accused of carrying out sabotage actions in Poland for Russia
 
 [原文] Polish security services say the aim was to incite ethnic tensions between Poland and Ukraine.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cp305dx493do?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Iran targets military bases as US launches wave of strikes
-
-[原文] Explosions were heard across Iran overnight, shortly after neighbouring Gulf states began to report attacks.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Fifa 'assessing reports' over Falklands banner
+### 4. Fifa 'assessing match reports' over Falklands banner
 
 [原文] Fifa is "assessing the match reports" before deciding whether to punish Argentina after players held a banner in support of their country's claims to the Falkland Islands.
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Here's why the housing market is hurting so much this summer
+### 1. Trump doubles down on 2020 election claims in national address, alleging China meddling
 
-[原文] Mortgage rates are high, home prices at record levels and consumers stressed. These are all contributing to a drop in existing home sales and builder sentiment.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/16/housing-market-mortgages-homebuilding.html) — *CNBC*
-
-### 2. Trump is set to deliver an election-focused national address tonight. Here's what to know
-
-[原文] "Without free and fair elections, you don't have a country," Trump said this week when asked to preview the speech.
+[原文] Trump also repeated his calls for the Republican-led Congress to pass the "SAVE America Act," a controversial election bill that lacks support to pass.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/16/trump-primetime-address-elections-2020.html) — *CNBC*
 
-### 3. Trump suspends teleprompter operator over Kalshi bets allegations, White House says
+### 2. Oil rises as Iran threatens retaliation if Trump targets country's critical infrastructure
 
-[原文] Kalshi retained most of the profits, which were more than $90,000, from the trades made on public statements by President Trump.
+[原文] Oil prices rose Friday as investors weighed escalating threats between the United States and Iran.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/16/trump-kalshi-teleprompter-cftc-investigation.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/17/oil-price-today-brent-wti.html) — *CNBC*
 
-### 4. Alphabet shares fall on report its most powerful AI model Gemini 3.5 Pro is delayed
+### 3. Netflix stock falls as earnings forecast disappoints, company says it will give fewer engagement updates
 
-[原文] Alphabet announced the Gemini 3.5 Pro AI  in May, saying it was being used internally but wouldn't be ready for a broader rollout until the following month.
+[原文] The streaming giant said it would cut back on the frequency of its "What We Watched" reports, which provide a picture of engagement.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/16/alphabet-stock-gemini-3-5-pro-ai.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/16/netflix-nflx-earnings-q2-2026.html) — *CNBC*
 
-### 5. Dallas Fed President Logan calls for 'modestly' higher interest rates
+### 4. Elon Musk's Memphis AI empire is the epicenter of the data center backlash
 
-[原文] The policymaker said this week's good inflation news wasn't good enough.
+[原文] Data center-related policy proposals, protests and litigation are underway across the country citing Colossus and Memphis as a cautionary tale.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/16/dallas-fed-president-logan-calls-for-modestly-higher-interest-rates.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/16/elon-musk-memphis-ai-colossus-data-center.html) — *CNBC*
+
+### 5. Microsoft's Nadella criticizes Anthropic's Fable for being 'editorially controlled'
+
+[原文] Microsoft enjoys close ties to Anthropic, but it's also working to help companies refine models that keep their data private.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/16/microsoft-ceo-says-anthropic-fable-request-policy-doesnt-make-sense.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Google Vids now lets you star in your own AI videos
+### 1. San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco
+
+[原文] In the wake of a massive hours-long gridlock event, San Francisco mayor Daniel Lurie has told state regulators it's time to put more requirements on robotaxi operators like Waymo.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/) — *TechCrunch*
+
+### 2. SpaceX suddenly aborts second Starship V3 launch after ignition
+
+[原文] The company didn't immediately say what went wrong. SpaceX's stock plunged more than 4% in after-hours trading before paring losses.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/16/spacex-suddenly-aborts-second-starship-v3-launch-after-ignition/) — *TechCrunch*
+
+### 3. Coca-Cola suspended production at its Fairlife dairy after a ransomware attack
+
+[原文] Coca Cola said dairy production at its Fairlife unit will "remain suspended" in the United States following a hack.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/16/coca-cola-suspended-production-at-its-fairlife-dairy-after-a-ransomware-attack/) — *TechCrunch*
+
+### 4. Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her ‘Mafia’ skills)
+
+[原文] Ryan Beiermeister, who demonstrated cool analysis in the Founders Fund YouTube series "Mafia," has joined the firm as a partner.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/) — *TechCrunch*
+
+### 5. Google Vids now lets you star in your own AI videos
 
 [原文] Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from promp
 
 📎 [阅读原文](https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/) — *TechCrunch*
-
-### 2. Roblox launches an AI-powered game creation feature in its mobile app
-
-[原文] Roblox's new "Build" feature lets users generate basic games using a single text prompt.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/) — *TechCrunch*
-
-### 3. Oil giant BP shutters its corporate venture arm after 20 years
-
-[原文] BP Ventures is shutting down, ending a nearly 20-year run that was marked by reportedly lackluster returns.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/16/oil-giant-bp-shutters-its-corporate-venture-arm-after-20-years/) — *TechCrunch*
-
-### 4. Uber’s $14.8B Delivery Hero deal would nearly double its global footprint
-
-[原文] Uber has agreed to acquire Delivery Hero in a $14.8 billion all-stock deal that would nearly double the company’s global footprint and create one of the world’s largest food-delivery platforms outside
-
-📎 [阅读原文](https://techcrunch.com/2026/07/16/ubers-14-8b-delivery-hero-deal-would-nearly-double-its-global-footprint/) — *TechCrunch*
-
-### 5. Newsletter platform Beehiiv now lets subscribers chat with each other, adds AI
-
-[原文] Beehiiv is launching an AI Copilot to help publishers with user growth and analytics.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/16/newsletter-platform-beehiiv-now-lets-subscribers-chat-with-each-other-adds-ai/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. What next for England? How does Tuchel fix key problems for Euro 2028?
+### 1. Some England players disappointed at tactics as Tuchel questions team's DNA
+
+[原文] BBC Sport understands that Thomas Tuchel's defensive tactics in the World Cup semi-final defeat to Argentina are being hotly debated by the England squad.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cqjxl90x27ro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. Brown leads English contingent at The Open as McIlroy struggles
+
+[原文] When England's World Cup hopes were extinguished, it paved the way for the home golfers to take centre stage at the Birkdale Open - led by the colourful Dan Brown.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/c4g4xjj052zo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. What next for England? How does Tuchel fix key problems for Euro 2028?
 
 [原文] The manner of England's World Cup exit was meek, and Thomas Tuchel must now find a way to fix those problems as focus will soon turn to qualifying for Euro 2028.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cq56djw19z2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. From Southgate to Tuchel - has anything changed?
+### 4. England learning on the job in ODIs - Root
+
+[原文] England batter Joe Root explains the difficulties for young batters in 50-over cricket because of a lack of exposure to the format.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/ce8l1p2g88yo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 5. From Southgate to Tuchel - has anything changed?
 
 [原文] Thomas Tuchel was meant to be the man whose fresh approach would win England major honours, but defeat by Argentina felt like a familiar story - has anything really changed from the Gareth Southgate e
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/clyxnz36x5go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 3. Forest set to make £45m offer for Spurs' Bergvall
-
-[原文] Nottingham Forest are set to make an offer of £45m for Tottenham midfielder Lucas Bergvall.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cp3052zlvwqo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. 'A true miracle of destiny' - Messi and Lamine Yamal's incredible first meeting
-
-[原文] BBC Sport explores a bond between two world-class footballers from different generations who appear bound by destiny
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c9w0j104rvgo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Female tennis players faced 12,000 abusive posts in 2025
-
-[原文] Female tennis players received 12,000 abusive posts in 2025, according to a new report.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/c4gxd6vjyj1o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. UFC’s McGregor-Holloway Fight Averages 6.5 Million Viewers Across U.S. and Latin America
+### 1. Berlinale Title ‘Members of the Problematic Family’ to Open Indian Film Festival of Melbourne (EXCLUSIVE)
 
-[原文] UFC&#8217;s July 11 main card telecast featuring the 69-second fight between Conor McGregor and Max Holloway averaged 6.5 million viewers across the U.S. and Latin America on Paramount+. That combined
+[原文] Tamil-language drama “Members of the Problematic Family” will have its Australian premiere as the opening night film of the 2026 Indian Film Festival of Melbourne (IFFM), following the film&#8217;s wo
 
-📎 [阅读原文](https://variety.com/2026/tv/news/mcgregor-holloway-fight-ratings-ufc-1236812638/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/members-of-the-problematic-family-indian-film-festival-melbourne-1236812355/) — *Variety*
 
-### 2. Chloe Fineman Leaves ‘SNL’ After 7 Seasons: ‘I’m Going to Miss It a Lot’
+### 2. Paramount+ Subscribers Fail to Block Warner Bros. Merger as States Will Try Again Friday
 
-[原文] Chloe Fineman is leaving &#8220;Saturday Night Live.&#8221; The actor-comedian best known for her impressions exits the NBC sketch comedy series after seven seasons. &#8220;After 7 wonderful seasons a
+[原文] A handful of Paramount+ subscribers failed to win an order blocking the merger with Warner Bros. Discovery on Thursday, but a coalition of states will give it another try on Friday. The plaintiffs sue
 
-📎 [阅读原文](https://variety.com/2026/tv/news/chloe-fineman-leaves-snl-1236812654/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/paramount-subscribers-fail-injunction-merger-1236813567/) — *Variety*
 
-### 3. Santa Monica’s Beach Will Rock With Olivia Dean, the Killers, Jack White and Khruangbin, as Goldenvoice Sets First Ocean Way Festival for September
+### 3. Emmy Predictions: What Happens When One Network Has the Two Most-Nominated Series?
 
-[原文] Whatever its other breezy benefits might be, Santa Monica has not been much of a music destination since the Santa Monica Civic Auditorium stopped hosting concerts and especially since the beachside c
+[原文] Variety&#160;Awards Circuit&#160;section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars,&#160;Emmys,
 
-📎 [阅读原文](https://variety.com/2026/music/news/ocean-way-festival-goldenvoice-olivia-dean-santa-monica-1236812595/) — *Variety*
+📎 [阅读原文](https://variety.com/lists/2026-emmys-predictions/) — *Variety*
 
-### 4. Seth Green Wants to Join the’Dungeon Crawler Carl’ Live-Action Series: ‘I’d Make a Really Good Mordecai’
+### 4. ‘The Odyssey’ Cast Guide: All the Heroes, Gods and Characters in Christopher Nolan’s Greek Epic
 
-[原文] &#8220;Family Guy&#8221; star Seth Green is a big &#8220;Dungeon Crawler Carl&#8221; fan who wants it to be known he&#8217;d love to join the cast of the live-action TV series &#8212; but doesn&#8217;
+[原文] Christopher Nolan&#8217;s adaptation of Homer&#8217;s Greek epic &#8220;The Odyssey&#8221; is, well, epic. Releasing in theaters July 17, Nolan’s latest film reimagines the famous Greek tale of Odysse
 
-📎 [阅读原文](https://variety.com/2026/tv/news/dungeon-crawler-carl-tv-series-seth-green-mordecai-1236810542/) — *Variety*
+📎 [阅读原文](https://variety.com/lists/odyssey-cast-characters-christopher-nolan/) — *Variety*
 
-### 5. Spain’s SETT Invests $7.3 Million in New Canary Islands Animation Company Amuse Labs
+### 5. FX, Color Force to Develop Series Based on New Yorker Article About National Park Volunteer Rescue Squad (EXCLUSIVE)
 
-[原文] Spain’s government is investing €6.4 million ($7.3 million) in newly established Canary Islands animation company Amuse Labs, accelerating the archipelago’s push to become a global base for children’s
+[原文] In a competitive situation, FX has secured the rights to develop a series based on the New Yorker article &#8220;The Call of the Wild&#8221; by Paige Williams, Variety has learned exclusively from sou
 
-📎 [阅读原文](https://variety.com/2026/digital/markets-festivals/sett-invests-amuse-labs-canary-islands-animation-1236812550/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/fx-series-new-yorker-national-park-volunteer-rescue-squad-1236813417/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Clean the Squishies Codes for July 2026
+### 1. Game of Thrones: War for Westeros Release Date Delayed to Early 2027
 
-[原文] Redeem these codes for free rewards including squishies.
+[原文] PlaySide Studios has pushed back the release window for Game of Thrones: War for Westeros, a real-time strategy game set in the universe of the HBO series adaptation.
 
-📎 [阅读原文](https://www.ign.com/articles/clean-the-squishies-codes) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/game-of-thrones-war-for-westeros-release-date-delayed-to-early-2027) — *IGN*
 
-### 2. Anime Expeditions Codes for July 2026
+### 2. Assassin's Creed Black Flag Resynced Director Reveals Why Ubisoft Ditched Edward's Hidden Blade Combat
 
-[原文] Redeem these Anime Expedition codes for free rewards including trait crystals and gems.
+[原文] Richard Knight, director of Assassin’s Creed Black Flag Resynced, explained why Edward Kenway is missing some of his most beloved fighting moves — and why fans shouldn’t lose hope that they’ll never c
 
-📎 [阅读原文](https://www.ign.com/articles/anime-expeditions-codes) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/assassins-creed-black-flag-resynced-director-reveals-why-ubisoft-ditched-edwards-hidden-blade-combat) — *IGN*
 
-### 3. Great New Games Are Getting Caught Up in the Online Backlash Against PlayStation Killing Discs
+### 3. Google Pixel 11 Specs Leak Ahead of Next Month’s Unveiling
 
-[原文] Angry gamers are telling people to buy great new indie games on non-PlayStation platforms amid backlash to Sony killing discs.
+[原文] Early leaks for the Google Pixel 11, Pro, and Pro Fold reveal potential specs, a variety of new colors, and a price increase across the lineup.
 
-📎 [阅读原文](https://www.ign.com/articles/great-new-games-are-getting-caught-up-in-the-online-backlash-against-playstation-killing-discs) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/google-pixel-11-specs-leak-ahead-of-next-months-unveiling) — *IGN*
 
-### 4. Pokémon Go Fans React in Disgust as Players Hand-Picked to Attend Exclusive Times Square Event Sell Their Prized Mewtwo for Thousands of Dollars, Breaking the Game's Rules
+### 4. The Odyssey: Explaining the Last Scene of Christopher Nolan’s New Epic
 
-[原文] Pokémon Go players are reacting in disgust after seeing fans who were hand-picked to attend the game's ultra-exclusive 10th anniversary Times Square event now selling off their unique Mewtwo on eBay f
+[原文] When it comes to the movie version of The Odyssey, writer/director Christopher Nolan goes in very different direction than Homer's source material – and the final scene(s) of the movie finally pull ba
 
-📎 [阅读原文](https://www.ign.com/articles/pokemon-go-fans-react-in-disgust-as-players-hand-picked-to-attend-exclusive-times-square-event-sell-their-prized-mewtwo-for-thousands-of-dollars-breaking-the-games-rules) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/the-odyssey-explaining-the-last-scene-of-christopher-nolans-new-epic) — *IGN*
 
-### 5. Everything New in Hell Clock 2.0 and the Cursed War DLC
+### 5. Backrooms Director Kane Parsons Promises He’s 'Looking Into' A24 Copyright Strikes on Fan Art
 
-[原文] An index of guides for Hell Clock's 2.0 update, including explainers for everything new and links to useful guides and planners.
+[原文] Kane Parsons has promised Backrooms fans that he’s investigating copyright strikes from A24 against content creators for artwork inspired by the creepypasta-turned-blockbuster.
 
-📎 [阅读原文](https://www.ign.com/articles/everything-new-in-hell-clock-20-and-the-cursed-war-dlc) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/backrooms-director-kane-parsons-promises-hes-looking-into-a24-copyright-strikes-on-fan-art) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Aston Martin Basically Made a Halo Warthog for Call of Duty
+### 1. Japan Wants to Standardize Car Parts to Protect Its Auto Industry
+
+[原文] The Japanese auto industry is considering car-parts standardization on an immense scale.
+The post Japan Wants to Standardize Car Parts to Protect Its Auto Industry appeared first on The Drive.
+
+📎 [阅读原文](https://www.thedrive.com/news/japan-wants-to-standardize-car-parts-to-protect-its-auto-industry) — *The Drive*
+
+### 2. Aston Martin Basically Made a Halo Warthog for Call of Duty
 
 [原文] Aston Martin has dreamed up concept cars before, but it's never imagined something as militant as this.
 The post Aston Martin Basically Made a Halo Warthog for Call of Duty appeared first on The Drive
 
 📎 [阅读原文](https://www.thedrive.com/news/aston-martin-basically-made-a-halo-warthog-for-call-of-duty) — *The Drive*
 
-### 2. Hear Ford’s Coyote V8 Hypercar Fire Up for the First Time
+### 3. Hear Ford’s Coyote V8 Hypercar Fire Up for the First Time
 
 [原文] Ford passed on fitting a twin-turbo EcoBoost V6 to its top-shelf WEC race car, and this is what it went with instead.
 The post Hear Ford’s Coyote V8 Hypercar Fire Up for the First Time appeared first 
 
 📎 [阅读原文](https://www.thedrive.com/news/hear-fords-coyote-v8-hypercar-fire-up-for-the-first-time) — *The Drive*
 
-### 3. This Class-Action Lawsuit May Decide If an Automaker Owes You a Tariff Refund
+### 4. This Class-Action Lawsuit May Decide If an Automaker Owes You a Tariff Refund
 
 [原文] Automakers could be poised to double-dip by getting refunds from the government while customers already paid extra for their cars. 
 The post This Class-Action Lawsuit May Decide If an Automaker Owes Y
 
 📎 [阅读原文](https://www.thedrive.com/news/this-class-action-lawsuit-may-decide-if-an-automaker-owes-you-a-tariff-refund) — *The Drive*
 
-### 4. New Jensen Interceptor Found a Shortcut to Production: It’s Track-Only, for Now
+### 5. New Jensen Interceptor Found a Shortcut to Production: It’s Track-Only, for Now
 
 [原文] A new Jensen Interceptor was announced at the beginning of this year. Today, the company's promising to trot out a track-only Interceptor GTX model in the near future.
 The post New Jensen Interceptor 
 
 📎 [阅读原文](https://www.thedrive.com/news/new-jensen-interceptor-found-a-shortcut-to-production-its-track-only-for-now) — *The Drive*
-
-### 5. Bill Ford Says Carmakers Need to Tackle China Head On, Even if They’d Rather Not
-
-[原文] As the Ford Motor Company has pushed for legislation to lock Chinese competition out, its executive chair says it needs to beat them at their own game.
-The post Bill Ford Says Carmakers Need to Tackle
-
-📎 [阅读原文](https://www.thedrive.com/news/bill-ford-says-carmakers-need-to-tackle-china-head-on-even-if-theyd-rather-not) — *The Drive*
 
 ---
 
@@ -363,35 +363,35 @@ The post Bill Ford Says Carmakers Need to Tackle
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Without Tax Credits, EV Sales Are Searching for a Spark
+### 1. Tribes and Environmental Groups Push Back on Trump Rule to Diminish Habitat Protections for Endangered Species
+
+[原文] Environmental groups and tribes are suing the Trump administration over a new rule eliminating the majority of habitat protections for imperiled wildlife protected by the Endangered Species Act.&#160;
+
+📎 [阅读原文](https://insideclimatenews.org/news/16072026/groups-push-back-on-trump-endangered-species-act-rule/) — *Inside Climate News*
+
+### 2. As Climate Extremes Collide, Attribution Science Evolves
+
+[原文] A new assessment from the United States&#8217; most influential science advisory panel says climate attribution science has moved beyond asking whether human-caused global warming is driving deadly he
+
+📎 [阅读原文](https://insideclimatenews.org/news/16072026/climate-event-attribution-science-evolves/) — *Inside Climate News*
+
+### 3. Without Tax Credits, EV Sales Are Searching for a Spark
 
 [原文] The U.S. electric vehicle market continues to suffer through a long hangover following the cancellation of federal tax credits. One of the keys to recovery is a model, or hopefully several models, tha
 
 📎 [阅读原文](https://insideclimatenews.org/news/16072026/inside-clean-energy-us-ev-sales/) — *Inside Climate News*
 
-### 2. A Shark-Feeding Ban Exposes a Deeper Fight Over Florida’s Changing Seas
+### 4. A Shark-Feeding Ban Exposes a Deeper Fight Over Florida’s Changing Seas
 
 [原文] Fifteen, 20, 30 feet down, a crate of dead fish hung in the water five miles off of Jupiter, Florida’s coastline, and the sharks rode up and down with it. Every so often, Tanner Mansell would reach in
 
 📎 [阅读原文](https://insideclimatenews.org/news/16072026/florida-shark-feeding-ban/) — *Inside Climate News*
 
-### 3. As Climate Change Expands Mosquito Ranges, Better Monitoring Is Key to Preventing Disease
+### 5. As Climate Change Expands Mosquito Ranges, Better Monitoring Is Key to Preventing Disease
 
 [原文] With summer heat comes pool parties, beach days, backyard cookouts and, of course, swarms of bloodthirsty mosquitos. But while insect bites have always been a side effect of time spent outdoors, the s
 
 📎 [阅读原文](https://insideclimatenews.org/news/16072026/better-monitoring-needed-as-mosquito-ranges-expand/) — *Inside Climate News*
-
-### 4. Will Trump’s Handoff of Grizzly Management to States Lead to More Dead Bears?
-
-[原文] Standing just north of Yellowstone National Park in Montana, U.S. Secretary of the Interior Doug Burgum proposed Tuesday to return management of grizzly bears to the states. At the Montana press confe
-
-📎 [阅读原文](https://insideclimatenews.org/news/15072026/trump-interior-grizzly-management/) — *Inside Climate News*
-
-### 5. Fracking Ban in the Delaware River Basin Survives a Republican Challenge (For Now)
-
-[原文] A Republican-led effort to end the Delaware River Basin&#8217;s ban on fracking fell short on Tuesday after an amendment to the Water Resources Development Act was not brought before a congressional c
-
-📎 [阅读原文](https://insideclimatenews.org/news/15072026/delaware-river-basin-fracking-ban-survives-republican-challenge/) — *Inside Climate News*
 
 ---
 
@@ -401,11 +401,11 @@ The post Bill Ford Says Carmakers Need to Tackle
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. How My School Used Common Sense and Collaboration to Confront AI
+### 1. AI Meets ESL, and Teachers Are Intrigued
 
-[原文] What I learned navigating a policy vacuum as a tech coordinator and the collaborative process to build an AI-ready culture.
+[原文] Can AI chatbots support K-12 emergent bilingual learners without widening gaps?
 
-📎 [阅读原文](https://edsurge.com/news/how-my-school-used-common-sense-and-collaboration-to-confront-ai) — *EdSurge*
+📎 [阅读原文](https://edsurge.com/news/ai-meets-esl-and-teachers-are-intrigued) — *EdSurge*
 
 ### 2. Podcast: What Is the AI Cheating Panic Really About?
 
@@ -413,23 +413,23 @@ The post Bill Ford Says Carmakers Need to Tackle
 
 📎 [阅读原文](https://edsurge.com/news/podcast-what-is-the-ai-cheating-panic-really-about) — *EdSurge*
 
-### 3. We Talk About Whole Children. What About Whole Educators?
+### 3. How My School Used Common Sense and Collaboration to Confront AI
+
+[原文] What I learned navigating a policy vacuum as a tech coordinator and the collaborative process to build an AI-ready culture.
+
+📎 [阅读原文](https://edsurge.com/news/how-my-school-used-common-sense-and-collaboration-to-confront-ai) — *EdSurge*
+
+### 4. We Talk About Whole Children. What About Whole Educators?
 
 [原文] We treat early childhood teachers like babysitters instead of the engineers they are. If we want them to stay, we have to invest in the systems that ...
 
 📎 [阅读原文](https://edsurge.com/news/we-talk-about-whole-children-what-about-whole-educators) — *EdSurge*
 
-### 4. Anthropic Introduces Claude for Teachers
+### 5. Anthropic Introduces Claude for Teachers
 
 [原文] The AI rollout is the latest effort by a tech giant to win over educators and districts.
 
 📎 [阅读原文](https://edsurge.com/news/anthropic-introduces-claude-for-teachers) — *EdSurge*
-
-### 5. Study: The National AI Policy Landscape in K–12 Education
-
-[原文] A snapshot of where districts stand on AI and what it reveals.
-
-📎 [阅读原文](https://edsurge.com/news/study-the-national-ai-policy-landscape-in-k-12-education) — *EdSurge*
 
 ---
 
@@ -439,35 +439,35 @@ The post Bill Ford Says Carmakers Need to Tackle
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Killers, Olivia Dean, Jack White to Headline New Santa Monica Festival
+### 1. Annie Leibovitz Sues Observer Over Justin and Hailey Bieber Photo: ‘Exploitation’
 
-[原文] Taking place on the Santa Monica Beach in late September, the two-day Ocean Way will also feature sets from Sublime and Alvvays
+[原文] The famed photographer is suing the media outlet for up to $150,000 per "unauthorized" use
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/the-killers-olivia-dean-ocean-way-festival-2026-1235594583/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/annie-leibovitz-sues-observer-justin-bieber-hailey-photo-1235594944/) — *Rolling Stone*
 
-### 2. Mick Jagger: ‘If Someone Wants to Make Music by AI, Go Ahead, but It Has to Be Original’
+### 2. Wildfire Smoke Forces the Black Keys, Creed, and More to Postpone Concerts
 
-[原文] The Rolling Stones also gave their impression of Olivia Rodrigo's rock music in a new interview
+[原文] War and Treaty, John Mellencamp, and Mavis Staples were also among the growing list of artists either cancelling or postponing shows as the air quality hits dangerous levels
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/rolling-stones-artificial-intelligence-olivia-rodrigo-1235594625/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/wildfire-concerts-postponed-black-keys-john-mellencamp-1235594945/) — *Rolling Stone*
 
-### 3. Dave Kendall, Creator and Host of MTV’s ‘120 Minutes,’ Has Died
+### 3. Lorde Slams Spotify Over Sloppy AI-Generated Song Descriptions
 
-[原文] Fellow 120 Minutes hosts Matt Pinfield and Jim Shearer remember the VJ who brought alternative music to MTV
+[原文] The Grammy-winning artist slammed the streaming behemoth over its "About the Song" feature and accused it of sharing inaccurate information
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/dave-kendall-mtv-120-minutes-dead-obituary-1235592301/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/lorde-slams-spotify-ai-generated-song-descriptions-1235594882/) — *Rolling Stone*
 
-### 4. See Ghostface Killah, De La Soul, Fat Joe Perform at Knicks-Centric ESPYs
+### 4. Noah Kahan Backs Massachusetts Bill Limiting Ticket Resale Prices
 
-[原文] Slick Rick also takes the stage as ESPN’s annual award show celebrates New York’s NBA title
+[原文] Following similar legislature in his native Vermont, singer-songwriter supports “The Great Divide Act” combating speculative tickets, resale fees, and more
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/ghostface-killah-de-la-soul-fat-joe-perform-knicks-espys-1235594491/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/noah-kahan-massachusetts-bill-limiting-ticket-resale-prices-1235594747/) — *Rolling Stone*
 
-### 5. Eric Stonestreet Says Taylor Swift and Travis Kelce Created the ‘Normalcy They Deserve’ at Wedding
+### 5. Carly Rae Jepsen Pens an Ode to a New Chapter on Latest Song ‘After All’
 
-[原文] “It just happened to be at Madison Square Garden, with security making sure everybody was safe and good, and they could just have a night for themselves”
+[原文] It’s the second taste of Day and Night, her first double album arriving in September
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/eric-stonestreet-taylor-swift-travis-kelce-wedding-1235594450/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/carly-rae-jepsen-after-all-single-1235594657/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post Bill Ford Says Carmakers Need to Tackle
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Travel’s Creator Economy Doesn’t Need a Million Followers. It Needs Proof It Converts.
+### 1. Hilton’s Chris Nassetta: Why 28 Brands Aren’t Too Many and the ‘Bazillion Points’ Problem
+
+[原文] Hilton CEO Chris Nassetta defended the company's need for 28 brands as a data-driven strategy rather than sprawl, while also pointing to AI as the next lever for fixing guest problems in the moment.
+
+📎 [阅读原文](https://skift.com/2026/07/16/hiltons-chris-nassetta-why-28-brands-isnt-too-many-and-the-bazillion-points-problem/) — *Skift*
+
+### 2. Travel’s Creator Economy Doesn’t Need a Million Followers. It Needs Proof It Converts.
 
 [原文] Brands spent years building creator partnerships around follower counts. Now, they're increasingly after deals they know drive real sales.
 
 📎 [阅读原文](https://skift.com/2026/07/16/small-content-creators-marketing-spend-travel/) — *Skift*
 
-### 2. Brussels Airlines Taps ITA Airways Exec for CEO
+### 3. Brussels Airlines Taps ITA Airways Exec for CEO
 
 [原文] Incoming Brussels Airlines CEO Lorenza Maggio oversaw ITA Airways’ merger into Lufthansa Group, which was one of the fastest integrations in the company’s history.
 
 📎 [阅读原文](https://skift.com/2026/07/16/brussles-airlines-taps-ita-airways-exec-for-ceo/) — *Skift*
 
-### 3. Say Goodbye to $9 Tickets. Higher Fares Are Here to Stay, United CEO Says
+### 4. Say Goodbye to $9 Tickets. Higher Fares Are Here to Stay, United CEO Says
 
 [原文] United CEO Scott Kirby argues that surging fuel costs aren’t entirely responsible for higher airfares. Instead airlines are capitalizing on more pricing power driven by ballooning operating costs and 
 
 📎 [阅读原文](https://skift.com/2026/07/16/higher-fares-are-here-to-stay-united-ceo-says/) — *Skift*
 
-### 4. Fora Travel the Unicorn: It Raised $60 Million at a $1 Billion Valuation
+### 5. Fora Travel the Unicorn: It Raised $60 Million at a $1 Billion Valuation
 
 [原文] Fora Travel has carved out a nice niche for itself as it taps into the desires of a younger generation of travel advisors passionate about travel and looking for side hustles. Its $1 billion valuation
 
 📎 [阅读原文](https://skift.com/2026/07/16/fora-travel-the-unicorn-it-raised-60-million-at-a-1-billion-valuation/) — *Skift*
-
-### 5. MakeMyTrip Set to File for India IPO at $1 Billion-Plus: Report
-
-[原文] MakeMyTrip has talked about an India listing for months. A confidential filing — if the report holds — would be the clearest sign yet the company is moving from considering it to doing it.
-
-📎 [阅读原文](https://skift.com/2026/07/16/makemytrip-set-to-file-for-india-ipo-at-1-billion-plus-report/) — *Skift*
 
 ---
 
@@ -528,7 +528,6 @@ The post Bill Ford Says Carmakers Need to Tackle
 ## ⚠️ 今日故障源
 
 - **🚗 汽车**: Roadshow, Autocar
-- **✈️ 旅游**: Nomadic Matt, Travel Off Path
 
 ---
 
