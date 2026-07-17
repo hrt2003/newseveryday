@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月17日** | 生成时间: 2026-07-17 16:15
+**2026年07月17日** | 生成时间: 2026-07-17 21:46
 
 ---
 
@@ -16,15 +16,15 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. US launches new strikes as Iran says civilian infrastructure hit
+### 1. Iran accuses US of hitting civilian infrastructure
 
-[原文] Tehran says the US strikes hit bridges, while the US boards a ship in the Strait of Hormuz.
+[原文] The US military says its attacks were intended to "further degrade Iranian military capabilities".
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Trump alleges 'shocking vulnerabilities' in US election security ahead of midterms
+### 2. Trump alleges China meddled in 2020 election and questions voting security ahead of midterms
 
-[原文] The president accuses China of meddling in the 2020 election, directly contradicting past findings from US intelligence.
+[原文] China said Trump's claims were fabricated and US Democrats said he was paving the way to undermine November's elections.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. BP, ConocoPhillips to back Iraq with major investments as U.S. seeks to weaken Iran's energy hold
+### 1. Economic outlook is worsening and Trump is getting blamed, CNBC survey finds
 
-[原文] BP and ConocoPhillips are set to announce billions of dollars of new investments in Iraq on Friday.
+[原文] The public is as depressed about the economy as it has been since the years just after the pandemic, according to the All-America Economic Survey.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/17/bp-conocophillips-to-back-iraq-with-major-energy-investment-.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/17/economic-outlook-is-worsening-and-trump-is-getting-blamed-cnbc-survey-finds.html) — *CNBC*
 
-### 2. Trump doubles down on 2020 election claims in national address, alleging China meddling
+### 2. Inside the Chinese fraud rings stealing billions from banks and retailers
 
-[原文] Trump also repeated his calls for the Republican-led Congress to pass the "SAVE America Act," a controversial election bill that lacks support to pass.
+[原文] Chinese organized crime groups are making as much as $1 billion annually in tap-to-pay fraud schemes targeting retailers and banks.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/16/trump-primetime-address-elections-2020.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/17/tap-pay-fraud-retail-crime.html) — *CNBC*
 
-### 3. World’s largest olive oil producer gives upbeat outlook after historic industry crisis
+### 3. Import prices post surprise gain as costs of goods from China hit highest since 2008
 
-[原文] Spain's Deoleo, the world's largest olive oil producer, says the industry is gradually recovering from one of the most challenging moments in its history.
+[原文] Import prices were up 0.3% for the month, as a drop in energy was more than offset by increases elsewhere.
 
-📎 [阅读原文](https://www.cnbc.com/2025/08/07/olive-oil-prices-deoleo-says-a-major-industry-shift-is-well-underway.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/17/import-prices-post-surprise-gain-as-costs-of-goods-from-china-hit-highest-since-2008.html) — *CNBC*
 
-### 4. Xi pitches China as AI partner to developing world, warns against risks and security overreach
+### 4. Netflix stock falls 10% as earnings forecast disappoints, company says it will give fewer engagement updates
 
-[原文] China will provide developing countries with 5,000 opportunities in AI training and seminar programs, as well as develop AI cooperation with various blocs.
+[原文] The streaming giant said it would cut back on the frequency of its "What We Watched" reports, which provide a picture of engagement.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/17/x-china-ai-summit-risks-security.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/16/netflix-nflx-earnings-q2-2026.html) — *CNBC*
 
-### 5. SpaceX aborts Starship test flight, sending stock lower
+### 5. Iran says civilian infrastructure hit by latest U.S. strikes, expands attacks to Syria, Bahrain
 
-[原文] Elon Musk said it would make another attempt "hopefully in a few days."  SpaceX completed the maiden test flight of its Starship V3 rocket in May.
+[原文] The escalating standoff comes as the fragile truce signed by the U.S. and Iran last month showed further signs of unravelling
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/16/spacex-spcx-stock-starship-test-flight.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/17/iran-war-us-trump-syria-bahrain.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco
+### 1. Why the first GPU financiers are turning to inference chips in a $400 million deal
+
+[原文] A $400 million chip-backed loan points to the next wave of AI infrastructure deals.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/) — *TechCrunch*
+
+### 2. San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco
 
 [原文] In the wake of a massive hours-long gridlock event, San Francisco mayor Daniel Lurie has told state regulators it's time to put more requirements on robotaxi operators like Waymo.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/) — *TechCrunch*
 
-### 2. SpaceX suddenly aborts second Starship V3 launch after ignition
+### 3. SpaceX suddenly aborts second Starship V3 launch after ignition
 
 [原文] The company didn't immediately say what went wrong. SpaceX's stock plunged more than 4% in after-hours trading before paring losses.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/16/spacex-suddenly-aborts-second-starship-v3-launch-after-ignition/) — *TechCrunch*
 
-### 3. Coca-Cola suspended production at its Fairlife dairy after a ransomware attack
+### 4. Coca-Cola suspended production at its Fairlife dairy after a ransomware attack
 
 [原文] Coca Cola said dairy production at its Fairlife unit will "remain suspended" in the United States following a hack.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/16/coca-cola-suspended-production-at-its-fairlife-dairy-after-a-ransomware-attack/) — *TechCrunch*
 
-### 4. Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her ‘Mafia’ skills)
+### 5. Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her ‘Mafia’ skills)
 
 [原文] Ryan Beiermeister, who demonstrated cool analysis in the Founders Fund YouTube series "Mafia," has joined the firm as a partner.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/) — *TechCrunch*
-
-### 5. Google Vids now lets you star in your own AI videos
-
-[原文] Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from promp
-
-📎 [阅读原文](https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/) — *TechCrunch*
 
 ---
 
@@ -130,35 +130,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. More than 400 sick as CDC searches for the source of a mystery outbreak
+### 1. Scientists built a camera that can track invisible particles in 3D
 
-[原文] A growing Cyclospora outbreak has sickened more than 400 people in four states, and investigators are still searching for the contaminated food responsible. The CDC warns the actual number of cases is
+[原文] A new particle detector called PLATON could replace millions of tiny detector components with a single block of light-producing material. Using a light-field camera, highly sensitive photon sensors, a
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260715083530.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260716023610.htm) — *Science Daily*
 
-### 2. Quantum breakthrough links light and magnetism in atomically thin materials
+### 2. Scientists tested 39 sweeteners and found unexpected gut effects
 
-[原文] A new review highlights exciting progress in atomically thin quantum materials where light and magnetism work together in ways never before possible. In these materials, light-generated excitons can i
+[原文] A large laboratory study found that many commonly used sweeteners can directly change the growth of gut bacteria. Researchers identified more than 100 cases in which sweeteners behaved differently whe
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260715083523.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260716023552.htm) — *Science Daily*
 
-### 3. The hidden skeleton “gatekeeper” inside brain cells could help fight Alzheimer's
+### 3. New “living plastic” self-destructs in just 6 days without leaving microplastics
 
-[原文] Researchers have discovered that a microscopic skeleton inside neurons does much more than hold cells together. It acts as a gatekeeper that controls what brain cells absorb and when they absorb it. W
+[原文] Researchers have created self-destructing living plastic that uses engineered bacteria to completely break itself down when activated. The material degrades in just six days without creating microplas
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260714225542.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260715083552.htm) — *Science Daily*
 
-### 4. Are humans really the ultimate super-predator?
+### 4. This sugar-coated therapy boosted survival against deadly brain cancer by 50% in mice
 
-[原文] Humans are often described as the planet's ultimate "super-predator," but wild animals do not fear every human the same way. After analyzing three decades of research, scientists found that animals be
+[原文] A new experimental treatment may have found a way to outsmart glioblastoma’s toughest defense: the blood-brain barrier. Researchers used sugar-coated nanoparticles to ferry genetic instructions that r
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260714225540.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260715083542.htm) — *Science Daily*
 
-### 5. Astronomers just found four hidden white dwarf stars near Earth
+### 5. Sun-like star caught after eating one of its own planets
 
-[原文] Four nearby white dwarf stars have been discovered hiding in plain sight beside brighter red dwarf companions. Hubble's ultraviolet observations finally revealed the long-hidden stellar remnants, incl
+[原文] A distant Sun-like star appears to have devoured one of its planets, leaving behind a surprising chemical fingerprint. Researchers found an unusually high concentration of lithium, a strong sign that 
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260714225528.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260715083538.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Effort, spirit and moments - but do England lack all-round quality?
+### 1. Tuchel did not deliver, but his time with England is not up - Shearer
 
-[原文] As England reflect on their World Cup semi-final defeat by Argentina, BBC Sport's Phil McNulty looks at what Thomas Tuchel's team were lacking.
+[原文] Former England captain Alan Shearer says Three Lions boss Thomas Tuchel will not be fazed by criticism he has faced over the World Cup semi-final defeat.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cz64xyn4vz2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c8xnl908y28o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Some England players disappointed by tactics as Tuchel questions team's DNA
+### 2. Verstappen top in first practice as Hadjar takes grid penalty
 
-[原文] BBC Sport understands that Thomas Tuchel's defensive tactics in the World Cup semi-final defeat to Argentina are being hotly debated by the England squad.
+[原文] Red Bull's Max Verstappen heads Ferrari's Lewis Hamilton at the top of the times in first practice at the Belgian Grand Prix.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cqjxl90x27ro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/cm2g9z3pr3yo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. World Cup stars who could move this summer
+### 3. West Ham captain Bowen to stay at club
 
-[原文] As the World Cup approaches its end, attentions are turning to the 2026-27 club season - and the players who could be on the move this summer.
+[原文] West Ham United captain Jarrod Bowen will stay at the club for the forthcoming season in the Championship.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c87ng4xq9nwo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cz64ww3j2yxo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. England missing final piece of jigsaw - Kane
+### 4. Thousands of tickets still available for England v France
 
-[原文] England captain Harry Kane says the team are "missing that final piece of the jigsaw" and need to "find a way to get better" following defeat to Argentina.
+[原文] Around 7,000 tickets are still listed on Fifa's ticket sites for Saturday's World Cup bronze medal match between England and France.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cvgv52dne1mo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c5yd5kv1e5ko?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. How rugby union is 'booming' in football-mad Argentina
+### 5. How World Cup final could be pivotal in Ballon d'Or race
 
-[原文] Rugby union is 'booming' in football-mad Argentina, according to Pumas head coach Felipe Contepomi.
+[原文] With the Ballon d'Or race tighter than ever before, BBC Sport looks at how the World Cup final could determine the 2026 winner.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-union/articles/czx5xp7le4xo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c87ngl370p4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Aamir Khan Denies ‘3 Idiots’ Character Was Based on Activist Sonam Wangchuk
+### 1. Indigenous Missionary Biopic ‘Mussau: The First Song’ to Shoot in Papua New Guinea With Indian National Film Award Winner Bijukumar Damodaran Directing (EXCLUSIVE)
 
-[原文] Bollywood superstar Aamir Khan denied that his character in &#8220;3 Idiots&#8221; was based on educator and climate activist Sonam Wangchuk, addressing the long-running rumor during a BFI In Conversa
+[原文] Papua New Guinea-based NAFA Productions has unveiled &#8220;Mussau: The First Song,&#8221; a historical biopic rooted in the life of Taula Lovovoa, one of the first indigenous Seventh-day Adventist mi
 
-📎 [阅读原文](https://variety.com/2026/film/news/aamir-khan-denies-3-idiots-character-based-on-sonam-wangchuk-1236814459/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/indigenous-missionary-biopic-mussau-the-first-song-papua-new-guinea-1236814609/) — *Variety*
 
-### 2. Netflix’s ‘Heartstopper Forever’ Is a Wistful and Mature Ending for Charlie and Nick’s Love Story: Review
+### 2. Brenda Fricker, ‘My Left Foot’ Oscar Winner, Dies at 81
 
-[原文] One of the most terrifying aspects of being a teen is the continuous change. Young people are expected to navigate high school, friendships, romance and mental wellness before making major decisions a
+[原文] Brenda Fricker, who became the first Irish actress to win an Oscar for her turn opposite Daniel Day-Lewis in 1989&#8217;s &#8220;My Left Foot&#8221; and captured hearts as the Pigeon Lady in 1992&#821
 
-📎 [阅读原文](https://variety.com/2026/tv/reviews/heartstopper-forever-review-netflix-1236812518/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/brenda-fricker-dead-my-left-foot-home-alone-2-1236814615/) — *Variety*
 
-### 3. Bollywood Star Jacqueline Fernandez Launches AI Avatar (EXCLUSIVE)
+### 3. ‘Boys of Tommen’ Finds Its Patrick Feely in Jamie Schneider, With James Craven Joining as Pierce O’Neill (EXCLUSIVE)
 
-[原文] Bollywood star Jacqueline Fernandez is launching an AI-powered digital avatar that gives audiences access to her personal book recommendations, late-night reflections, and stories from her own life. T
+[原文] Prime Video’s adaptation of Chloe Walsh’s “Boys of Tommen” has found its Patrick Feely and Pierce O&#8217;Neill, with Jamie Schneider and James Craven stepping into the roles respectively. Also joinin
 
-📎 [阅读原文](https://variety.com/2026/film/news/jacqueline-fernandez-ai-avatar-1236812467/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/global/boys-of-tommen-patrick-feely-jamie-schneider-pierce-oneill-1236814552/) — *Variety*
 
-### 4. The Sound of ‘The Odyssey’: Composer Ludwig Göransson Used Ancient Greek Instruments, Scrap Metals and Gongs
+### 4. Cannes’ Critics’ Week Reveals Lineup of Armenian Filmmakers Taking Part in Next Step Studio Program (EXCLUSIVE)
 
-[原文] Composer Ludwig Göransson has reunited with Christopher Nolan to score &#8220;The Odyssey,&#8221; marking their third collaboration after &#8220;Tenet&#8221; and &#8220;Oppenheimer.&#8221; Earlier thi
+[原文] Cannes Film Festival&#8217;s Critics&#8217; Week has revealed the participants of next year&#8217;s Next Step Studio program, which will focus on Armenia. The filmmakers taking part are Armik Israyely
 
-📎 [阅读原文](https://variety.com/2026/artisans/news/the-odyssey-ludwig-goransson-film-score-1236813153/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/cannes-critics-week-armenian-filmmakers-next-step-studio-1236814545/) — *Variety*
 
-### 5. ‘God of War’ Shocker: Kratos Actor Ryan Hurst Recast After On-Set Injury
+### 5. Belgian Grand Prix 2026: Here’s Where to Watch F1 Online for Free
 
-[原文] Prime Video will recast the lead role on its upcoming adaptation of &#8220;God of War&#8221; after star Ryan Hurst was injured on set, Variety has confirmed. Hurst had been set to play Kratos, the tit
+[原文] After a thrilling start of the F1 season in England, Charles Leclerc of Ferrari won his first race of the season gaining 108 points after nine races. Mercedes&#8217; George Russell came in second and 
 
-📎 [阅读原文](https://variety.com/2026/tv/news/god-of-war-recast-kratos-actor-ryan-hurst-injury-1236814409/) — *Variety*
+📎 [阅读原文](https://variety.com/shop/how-to-watch-f1-2026-season-livestream-online-free-1235212614/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Castlevania: Belmont’s Curse Might Make the Long Wait for a New 2D Castlevania Worth It | IGN Preview
+### 1. The Odyssey’s Scariest Scene Proves It’s Time for a Christopher Nolan Horror Movie
 
-[原文] After playing the first three hours of Castlevania: Belmont's Curse, Dead Cells developer Evil Empire's take on the legendary series seems to be poised to live up to extraordinarily high standards set
+[原文] The Odyssey’s scariest scene proves it’s time for a Christopher Nolan horror movie.
 
-📎 [阅读原文](https://www.ign.com/articles/castlevania-belmonts-curse-might-make-the-long-wait-for-a-new-2d-castlevania-worth-it-ign-preview) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/the-odysseys-scariest-scene-proves-its-time-for-a-christopher-nolan-horror-movie) — *IGN*
 
-### 2. Cape Fear Episode 8 Recap and Review – ‘Los tiempos de Dios son Perfectos’
+### 2. id Software Creative Director Says Claims the Doom Developer Was 'Nerfed Into the Ground' by Xbox Layoffs Are Untrue
 
-[原文] Cape Fear’s Episode 8 delivers a gruesome discovery, shocking answers about Max and Anna's past, and Amy Adams's best performance of the series so far.
+[原文] id Software creative director Hugo Martin has commented on the Xbox layoffs that have affected the legendary Doom developer, insisting it’s still alive and kicking.
 
-📎 [阅读原文](https://www.ign.com/articles/cape-fear-episode-8-recap-and-review-los-tiempos-de-dios-son-perfectos) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/id-software-creative-director-says-claims-the-doom-developer-was-nerfed-into-the-ground-by-xbox-layoffs-are-untrue) — *IGN*
 
-### 3. God of War Show to Recast Kratos After Ryan Hurst Tears Bicep While Filming Stunt
+### 3. The Odyssey Estimated Box Office Opening Suggests a Strong Start Powered by Imax Hype
 
-[原文] Kratos suffered a big injury while filming for Amazon MGM and Sony Pictures’ God of War show, with TMZ reporting that star Ryan Hurst tore his bicep, putting production on hold. Now, studios have been
+[原文] Box office estimates are coming in for The Odyssey, which looks set to enjoy a very strong opening weekend amid hype for Imax screenings.
 
-📎 [阅读原文](https://www.ign.com/articles/god-of-war-show-to-recast-kratos-after-ryan-hurst-tears-bicep-while-filming-stunt) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/the-odyssey-estimated-box-office-opening-suggests-a-strong-start-powered-by-imax-hype) — *IGN*
 
-### 4. Game of Thrones: War for Westeros Release Date Delayed to Early 2027
+### 4. GTA 6 Predicted to Make Up to $5.2 Billion in Sales by End of Launch Week After Securing an Estimated $260 Million via Preorders
 
-[原文] PlaySide Studios has pushed back the release window for Game of Thrones: War for Westeros, a real-time strategy game set in the universe of the HBO series adaptation.
+[原文] Grand Theft Auto 6 is predicted to generate sales of up to $5.2 billion by the end of launch week after enjoying the strongest preorder campaign one analyst has ever seen.
 
-📎 [阅读原文](https://www.ign.com/articles/game-of-thrones-war-for-westeros-release-date-delayed-to-early-2027) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/gta-6-predicted-to-make-up-to-52-billion-in-sales-by-end-of-launch-week-after-securing-an-estimated-260-million-via-preorders) — *IGN*
 
-### 5. Assassin's Creed Black Flag Resynced Director Reveals Why Ubisoft Ditched Edward's Hidden Blade Combat
+### 5. 'Wrong (again)' — Infinity Ward Fires Back at Call of Duty: Modern Warfare 4 Gunny AI Chatbot Claim
 
-[原文] Richard Knight, director of Assassin’s Creed Black Flag Resynced, explained why Edward Kenway is missing some of his most beloved fighting moves — and why fans shouldn’t lose hope that they’ll never c
+[原文] Infinity Ward has hit back at claims the new Gunsmith for Call of Duty: Modern Warfare 4 features an AI chatbot.
 
-📎 [阅读原文](https://www.ign.com/articles/assassins-creed-black-flag-resynced-director-reveals-why-ubisoft-ditched-edwards-hidden-blade-combat) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/wrong-again-infinity-ward-fires-back-at-call-of-duty-modern-warfare-4-gunny-ai-chatbot-claim) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post New Jensen Interceptor
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Tribes and Environmental Groups Push Back on Trump Rule to Diminish Habitat Protections for Endangered Species
+### 1. A Record-Warm Winter and Summer Heatwave Are Stoking Montana’s Wildfire Risk
+
+[原文] Just weeks ago, western Montana appeared to have escaped the early wildfires that forecasters feared after one of the warmest and driest winters on record, as heavy rains in late June soaked forests a
+
+📎 [阅读原文](https://insideclimatenews.org/news/17072026/montana-wildfire-risk-after-warm-winter-and-summer-heat/) — *Inside Climate News*
+
+### 2. After Months of Debate, Virginia Fails to Pass Data Center Clean Energy Requirements
+
+[原文] RICHMOND, Va.—Before the start of Virginia’s legislative session in January, 53-year-old William Ward attended a Virginia League of Conservation Voters rally in Petersburg, where he learned about how 
+
+📎 [阅读原文](https://insideclimatenews.org/news/17072026/virginia-fails-to-require-data-centers-use-clean-energy/) — *Inside Climate News*
+
+### 3. Tribes and Environmental Groups Push Back on Trump Rule to Diminish Habitat Protections for Endangered Species
 
 [原文] Environmental groups and tribes are suing the Trump administration over a new rule eliminating the majority of habitat protections for imperiled wildlife protected by the Endangered Species Act.&#160;
 
 📎 [阅读原文](https://insideclimatenews.org/news/16072026/groups-push-back-on-trump-endangered-species-act-rule/) — *Inside Climate News*
 
-### 2. As Climate Extremes Collide, Attribution Science Evolves
+### 4. As Climate Extremes Collide, Attribution Science Evolves
 
 [原文] A new assessment from the United States&#8217; most influential science advisory panel says climate attribution science has moved beyond asking whether human-caused global warming is driving deadly he
 
 📎 [阅读原文](https://insideclimatenews.org/news/16072026/climate-event-attribution-science-evolves/) — *Inside Climate News*
 
-### 3. Without Tax Credits, EV Sales Are Searching for a Spark
+### 5. Without Tax Credits, EV Sales Are Searching for a Spark
 
 [原文] The U.S. electric vehicle market continues to suffer through a long hangover following the cancellation of federal tax credits. One of the keys to recovery is a model, or hopefully several models, tha
 
 📎 [阅读原文](https://insideclimatenews.org/news/16072026/inside-clean-energy-us-ev-sales/) — *Inside Climate News*
-
-### 4. A Shark-Feeding Ban Exposes a Deeper Fight Over Florida’s Changing Seas
-
-[原文] Fifteen, 20, 30 feet down, a crate of dead fish hung in the water five miles off of Jupiter, Florida’s coastline, and the sharks rode up and down with it. Every so often, Tanner Mansell would reach in
-
-📎 [阅读原文](https://insideclimatenews.org/news/16072026/florida-shark-feeding-ban/) — *Inside Climate News*
-
-### 5. As Climate Change Expands Mosquito Ranges, Better Monitoring Is Key to Preventing Disease
-
-[原文] With summer heat comes pool parties, beach days, backyard cookouts and, of course, swarms of bloodthirsty mosquitos. But while insect bites have always been a side effect of time spent outdoors, the s
-
-📎 [阅读原文](https://insideclimatenews.org/news/16072026/better-monitoring-needed-as-mosquito-ranges-expand/) — *Inside Climate News*
 
 ---
 
@@ -407,7 +407,7 @@ The post New Jensen Interceptor
 
 📎 [阅读原文](https://edsurge.com/news/ai-meets-esl-and-teachers-are-intrigued) — *EdSurge*
 
-### 2. Podcast: What Is the AI Cheating Panic Really About?
+### 2. What Is the AI Cheating Panic Really About?
 
 [原文] A conversation with Pat Yongpradit, general manager of global education and workforce policy at Microsoft.
 
@@ -419,17 +419,17 @@ The post New Jensen Interceptor
 
 📎 [阅读原文](https://edsurge.com/news/how-my-school-used-common-sense-and-collaboration-to-confront-ai) — *EdSurge*
 
-### 4. We Talk About Whole Children. What About Whole Educators?
-
-[原文] We treat early childhood teachers like babysitters instead of the engineers they are. If we want them to stay, we have to invest in the systems that ...
-
-📎 [阅读原文](https://edsurge.com/news/we-talk-about-whole-children-what-about-whole-educators) — *EdSurge*
-
-### 5. Anthropic Introduces Claude for Teachers
+### 4. Anthropic Introduces Claude for Teachers
 
 [原文] The AI rollout is the latest effort by a tech giant to win over educators and districts.
 
 📎 [阅读原文](https://edsurge.com/news/anthropic-introduces-claude-for-teachers) — *EdSurge*
+
+### 5. We Talk About Whole Children. What About Whole Educators?
+
+[原文] We treat early childhood teachers like babysitters instead of the engineers they are. If we want them to stay, we have to invest in the systems that ...
+
+📎 [阅读原文](https://edsurge.com/news/we-talk-about-whole-children-what-about-whole-educators) — *EdSurge*
 
 ---
 
@@ -439,35 +439,35 @@ The post New Jensen Interceptor
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Lil Baby Drops Pharrell Williams-Produced Single ‘Dead Fresh’
+### 1. Brandon Flowers Sings One for the Croupiers on New Song ‘Paradise’
+
+[原文] Song will appear on Killers frontman's upcoming solo album, Thrasher
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/brandon-flowers-paradise-country-1235594687/) — *Rolling Stone*
+
+### 2. Lil Baby Drops Pharrell Williams-Produced Single ‘Dead Fresh’
 
 [原文] The rapper debuted the song last month at the Louis Vuitton’s Menswear Spring-Summer 2027 show in Paris
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/lil-baby-pharrell-williams-dead-fresh-single-1235595020/) — *Rolling Stone*
 
-### 2. Watch Gracie Abrams Showcase Evocative Song ‘Minibar’ on ‘Fallon’
+### 3. Watch Gracie Abrams Showcase Evocative Song ‘Minibar’ on ‘Fallon’
 
 [原文] The singer also discussed her new album, Daughter From Hell, on the late-night show
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/gracie-abrams-minibar-performance-fallon-1235595016/) — *Rolling Stone*
 
-### 3. BTS Invite Fans to Look Beyond the Spotlight in ‘Normal’ Video
+### 4. BTS Invite Fans to Look Beyond the Spotlight in ‘Normal’ Video
 
 [原文] The song features on the band's massive hit album, Arirang
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/bts-normal-music-video-arirang-album-1235594976/) — *Rolling Stone*
 
-### 4. Gracie Abrams’ ‘Daughter From Hell’ Has Arrived
+### 5. Gracie Abrams’ ‘Daughter From Hell’ Has Arrived
 
-[原文] The singer-songwriter's third studio album has arrived, featuring hit singles "Hit the Wall" and "Look at My Life"
+[原文] The singer-songwriter's third studio album is here, featuring hit singles "Hit the Wall" and "Look at My Life"
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/gracie-abrams-daughter-from-hell-album-release-1235594838/) — *Rolling Stone*
-
-### 5. Annie Leibovitz Sues Observer Over Justin and Hailey Bieber Photo: ‘Exploitation’
-
-[原文] The famed photographer is suing the media outlet for up to $150,000 per "unauthorized" use
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/annie-leibovitz-sues-observer-justin-bieber-hailey-photo-1235594944/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post New Jensen Interceptor
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Hilton’s Chris Nassetta: Why 28 Brands Aren’t Too Many and the ‘Bazillion Points’ Problem
+### 1. Delta Adds LAX-Manila Route as the Battle for West Coast and Asia Heats Up
+
+[原文] Delta is focusing international growth out of the West Coast, looking to become the dominant carrier out of LAX.
+
+📎 [阅读原文](https://skift.com/2026/07/17/delta-adds-lax-manila-route/) — *Skift*
+
+### 2. Hilton’s Chris Nassetta: Why 28 Brands Aren’t Too Many and the ‘Bazillion Points’ Problem
 
 [原文] Hilton CEO Chris Nassetta defended the company's need for 28 brands as a data-driven strategy rather than sprawl, while also pointing to AI as the next lever for fixing guest problems in the moment.
 
 📎 [阅读原文](https://skift.com/2026/07/16/hiltons-chris-nassetta-why-28-brands-isnt-too-many-and-the-bazillion-points-problem/) — *Skift*
 
-### 2. Travel’s Creator Economy Doesn’t Need a Million Followers. It Needs Proof It Converts.
+### 3. Travel’s Creator Economy Doesn’t Need a Million Followers. It Needs Proof It Converts.
 
 [原文] Brands spent years building creator partnerships around follower counts. Now, they're increasingly after deals they know drive real sales.
 
 📎 [阅读原文](https://skift.com/2026/07/16/small-content-creators-marketing-spend-travel/) — *Skift*
 
-### 3. Brussels Airlines Taps ITA Airways Exec for CEO
+### 4. Brussels Airlines Taps ITA Airways Exec for CEO
 
 [原文] Incoming Brussels Airlines CEO Lorenza Maggio oversaw ITA Airways’ merger into Lufthansa Group, which was one of the fastest integrations in the company’s history.
 
 📎 [阅读原文](https://skift.com/2026/07/16/brussles-airlines-taps-ita-airways-exec-for-ceo/) — *Skift*
 
-### 4. Say Goodbye to $9 Tickets. Higher Fares Are Here to Stay, United CEO Says
+### 5. Say Goodbye to $9 Tickets. Higher Fares Are Here to Stay, United CEO Says
 
 [原文] United CEO Scott Kirby argues that surging fuel costs aren’t entirely responsible for higher airfares. Instead airlines are capitalizing on more pricing power driven by ballooning operating costs and 
 
 📎 [阅读原文](https://skift.com/2026/07/16/higher-fares-are-here-to-stay-united-ceo-says/) — *Skift*
-
-### 5. Fora Travel the Unicorn: It Raised $60 Million at a $1 Billion Valuation
-
-[原文] Fora Travel has carved out a nice niche for itself as it taps into the desires of a younger generation of travel advisors passionate about travel and looking for side hustles. Its $1 billion valuation
-
-📎 [阅读原文](https://skift.com/2026/07/16/fora-travel-the-unicorn-it-raised-60-million-at-a-1-billion-valuation/) — *Skift*
 
 ---
 
