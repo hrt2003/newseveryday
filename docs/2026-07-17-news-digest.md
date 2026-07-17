@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月17日** | 生成时间: 2026-07-17 10:54
+**2026年07月17日** | 生成时间: 2026-07-17 16:15
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Blasts reported in Iran as US launches new wave of strikes
+### 1. US launches new strikes as Iran says civilian infrastructure hit
 
-[原文] Iran says US strikes hit bridges in the country in an apparent escalation, while the US boards a ship in the Strait of Hormuz.
+[原文] Tehran says the US strikes hit bridges, while the US boards a ship in the Strait of Hormuz.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Zelensky's removal of popular defence minister sparks protests in Ukraine
+### 2. Trump alleges 'shocking vulnerabilities' in US election security ahead of midterms
 
-[原文] A rift between Fedorov and Commander-in-Chief Oleksandr Syrskyi was apparently at the heart of Zelensky's decision.
+[原文] The president accuses China of meddling in the 2020 election, directly contradicting past findings from US intelligence.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Teenager accused of carrying out sabotage actions in Poland for Russia
+### 3. More than 500 Rohingya vanished at sea - what happened?
 
-[原文] Polish security services say the aim was to incite ethnic tensions between Poland and Ukraine.
+[原文] Two boats carrying an estimated 530 Rohingyas have disappeared since leaving Myanmar on 29 June.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cp305dx493do?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cr59n096mrmo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Fifa 'assessing match reports' over Falklands banner
+### 4. Japan relaxes royal succession rules - but ban on female emperors remains
 
-[原文] Fifa is "assessing the match reports" before deciding whether to punish Argentina after players held a banner in support of their country's claims to the Falkland Islands.
+[原文] The law now allows the adoption of male distant relatives aged over 15 back into the imperial family.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c75gnkl30vlo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy07rz79zg9o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Italian officials handed jail terms for Genoa bridge disaster that killed 43
+### 5. Philippines condemns monkey video on Chinese media as racist
 
-[原文] The ex-head of Italy's motorway operator Giovanni Castellucci was handed a 12-year term over the 2018 bridge collapse.
+[原文] The AI video on China Daily showed a monkey in Philippine garments singing its claims to the South China Sea.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj632307934o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump doubles down on 2020 election claims in national address, alleging China meddling
+### 1. BP, ConocoPhillips to back Iraq with major investments as U.S. seeks to weaken Iran's energy hold
+
+[原文] BP and ConocoPhillips are set to announce billions of dollars of new investments in Iraq on Friday.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/17/bp-conocophillips-to-back-iraq-with-major-energy-investment-.html) — *CNBC*
+
+### 2. Trump doubles down on 2020 election claims in national address, alleging China meddling
 
 [原文] Trump also repeated his calls for the Republican-led Congress to pass the "SAVE America Act," a controversial election bill that lacks support to pass.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/16/trump-primetime-address-elections-2020.html) — *CNBC*
 
-### 2. Oil rises as Iran threatens retaliation if Trump targets country's critical infrastructure
+### 3. World’s largest olive oil producer gives upbeat outlook after historic industry crisis
 
-[原文] Oil prices rose Friday as investors weighed escalating threats between the United States and Iran.
+[原文] Spain's Deoleo, the world's largest olive oil producer, says the industry is gradually recovering from one of the most challenging moments in its history.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/17/oil-price-today-brent-wti.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2025/08/07/olive-oil-prices-deoleo-says-a-major-industry-shift-is-well-underway.html) — *CNBC*
 
-### 3. Netflix stock falls as earnings forecast disappoints, company says it will give fewer engagement updates
+### 4. Xi pitches China as AI partner to developing world, warns against risks and security overreach
 
-[原文] The streaming giant said it would cut back on the frequency of its "What We Watched" reports, which provide a picture of engagement.
+[原文] China will provide developing countries with 5,000 opportunities in AI training and seminar programs, as well as develop AI cooperation with various blocs.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/16/netflix-nflx-earnings-q2-2026.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/17/x-china-ai-summit-risks-security.html) — *CNBC*
 
-### 4. Elon Musk's Memphis AI empire is the epicenter of the data center backlash
+### 5. SpaceX aborts Starship test flight, sending stock lower
 
-[原文] Data center-related policy proposals, protests and litigation are underway across the country citing Colossus and Memphis as a cautionary tale.
+[原文] Elon Musk said it would make another attempt "hopefully in a few days."  SpaceX completed the maiden test flight of its Starship V3 rocket in May.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/16/elon-musk-memphis-ai-colossus-data-center.html) — *CNBC*
-
-### 5. Microsoft's Nadella criticizes Anthropic's Fable for being 'editorially controlled'
-
-[原文] Microsoft enjoys close ties to Anthropic, but it's also working to help companies refine models that keep their data private.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/16/microsoft-ceo-says-anthropic-fable-request-policy-doesnt-make-sense.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/16/spacex-spcx-stock-starship-test-flight.html) — *CNBC*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Some England players disappointed at tactics as Tuchel questions team's DNA
+### 1. Effort, spirit and moments - but do England lack all-round quality?
+
+[原文] As England reflect on their World Cup semi-final defeat by Argentina, BBC Sport's Phil McNulty looks at what Thomas Tuchel's team were lacking.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cz64xyn4vz2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. Some England players disappointed by tactics as Tuchel questions team's DNA
 
 [原文] BBC Sport understands that Thomas Tuchel's defensive tactics in the World Cup semi-final defeat to Argentina are being hotly debated by the England squad.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cqjxl90x27ro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Brown leads English contingent at The Open as McIlroy struggles
+### 3. World Cup stars who could move this summer
 
-[原文] When England's World Cup hopes were extinguished, it paved the way for the home golfers to take centre stage at the Birkdale Open - led by the colourful Dan Brown.
+[原文] As the World Cup approaches its end, attentions are turning to the 2026-27 club season - and the players who could be on the move this summer.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/c4g4xjj052zo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c87ng4xq9nwo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. What next for England? How does Tuchel fix key problems for Euro 2028?
+### 4. England missing final piece of jigsaw - Kane
 
-[原文] The manner of England's World Cup exit was meek, and Thomas Tuchel must now find a way to fix those problems as focus will soon turn to qualifying for Euro 2028.
+[原文] England captain Harry Kane says the team are "missing that final piece of the jigsaw" and need to "find a way to get better" following defeat to Argentina.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cq56djw19z2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cvgv52dne1mo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. England learning on the job in ODIs - Root
+### 5. How rugby union is 'booming' in football-mad Argentina
 
-[原文] England batter Joe Root explains the difficulties for young batters in 50-over cricket because of a lack of exposure to the format.
+[原文] Rugby union is 'booming' in football-mad Argentina, according to Pumas head coach Felipe Contepomi.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/ce8l1p2g88yo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. From Southgate to Tuchel - has anything changed?
-
-[原文] Thomas Tuchel was meant to be the man whose fresh approach would win England major honours, but defeat by Argentina felt like a familiar story - has anything really changed from the Gareth Southgate e
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/clyxnz36x5go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-union/articles/czx5xp7le4xo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Berlinale Title ‘Members of the Problematic Family’ to Open Indian Film Festival of Melbourne (EXCLUSIVE)
+### 1. Aamir Khan Denies ‘3 Idiots’ Character Was Based on Activist Sonam Wangchuk
 
-[原文] Tamil-language drama “Members of the Problematic Family” will have its Australian premiere as the opening night film of the 2026 Indian Film Festival of Melbourne (IFFM), following the film&#8217;s wo
+[原文] Bollywood superstar Aamir Khan denied that his character in &#8220;3 Idiots&#8221; was based on educator and climate activist Sonam Wangchuk, addressing the long-running rumor during a BFI In Conversa
 
-📎 [阅读原文](https://variety.com/2026/film/festivals/members-of-the-problematic-family-indian-film-festival-melbourne-1236812355/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/aamir-khan-denies-3-idiots-character-based-on-sonam-wangchuk-1236814459/) — *Variety*
 
-### 2. Paramount+ Subscribers Fail to Block Warner Bros. Merger as States Will Try Again Friday
+### 2. Netflix’s ‘Heartstopper Forever’ Is a Wistful and Mature Ending for Charlie and Nick’s Love Story: Review
 
-[原文] A handful of Paramount+ subscribers failed to win an order blocking the merger with Warner Bros. Discovery on Thursday, but a coalition of states will give it another try on Friday. The plaintiffs sue
+[原文] One of the most terrifying aspects of being a teen is the continuous change. Young people are expected to navigate high school, friendships, romance and mental wellness before making major decisions a
 
-📎 [阅读原文](https://variety.com/2026/film/news/paramount-subscribers-fail-injunction-merger-1236813567/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/reviews/heartstopper-forever-review-netflix-1236812518/) — *Variety*
 
-### 3. Emmy Predictions: What Happens When One Network Has the Two Most-Nominated Series?
+### 3. Bollywood Star Jacqueline Fernandez Launches AI Avatar (EXCLUSIVE)
 
-[原文] Variety&#160;Awards Circuit&#160;section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars,&#160;Emmys,
+[原文] Bollywood star Jacqueline Fernandez is launching an AI-powered digital avatar that gives audiences access to her personal book recommendations, late-night reflections, and stories from her own life. T
 
-📎 [阅读原文](https://variety.com/lists/2026-emmys-predictions/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/jacqueline-fernandez-ai-avatar-1236812467/) — *Variety*
 
-### 4. ‘The Odyssey’ Cast Guide: All the Heroes, Gods and Characters in Christopher Nolan’s Greek Epic
+### 4. The Sound of ‘The Odyssey’: Composer Ludwig Göransson Used Ancient Greek Instruments, Scrap Metals and Gongs
 
-[原文] Christopher Nolan&#8217;s adaptation of Homer&#8217;s Greek epic &#8220;The Odyssey&#8221; is, well, epic. Releasing in theaters July 17, Nolan’s latest film reimagines the famous Greek tale of Odysse
+[原文] Composer Ludwig Göransson has reunited with Christopher Nolan to score &#8220;The Odyssey,&#8221; marking their third collaboration after &#8220;Tenet&#8221; and &#8220;Oppenheimer.&#8221; Earlier thi
 
-📎 [阅读原文](https://variety.com/lists/odyssey-cast-characters-christopher-nolan/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/artisans/news/the-odyssey-ludwig-goransson-film-score-1236813153/) — *Variety*
 
-### 5. FX, Color Force to Develop Series Based on New Yorker Article About National Park Volunteer Rescue Squad (EXCLUSIVE)
+### 5. ‘God of War’ Shocker: Kratos Actor Ryan Hurst Recast After On-Set Injury
 
-[原文] In a competitive situation, FX has secured the rights to develop a series based on the New Yorker article &#8220;The Call of the Wild&#8221; by Paige Williams, Variety has learned exclusively from sou
+[原文] Prime Video will recast the lead role on its upcoming adaptation of &#8220;God of War&#8221; after star Ryan Hurst was injured on set, Variety has confirmed. Hurst had been set to play Kratos, the tit
 
-📎 [阅读原文](https://variety.com/2026/tv/news/fx-series-new-yorker-national-park-volunteer-rescue-squad-1236813417/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/god-of-war-recast-kratos-actor-ryan-hurst-injury-1236814409/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Game of Thrones: War for Westeros Release Date Delayed to Early 2027
+### 1. Castlevania: Belmont’s Curse Might Make the Long Wait for a New 2D Castlevania Worth It | IGN Preview
+
+[原文] After playing the first three hours of Castlevania: Belmont's Curse, Dead Cells developer Evil Empire's take on the legendary series seems to be poised to live up to extraordinarily high standards set
+
+📎 [阅读原文](https://www.ign.com/articles/castlevania-belmonts-curse-might-make-the-long-wait-for-a-new-2d-castlevania-worth-it-ign-preview) — *IGN*
+
+### 2. Cape Fear Episode 8 Recap and Review – ‘Los tiempos de Dios son Perfectos’
+
+[原文] Cape Fear’s Episode 8 delivers a gruesome discovery, shocking answers about Max and Anna's past, and Amy Adams's best performance of the series so far.
+
+📎 [阅读原文](https://www.ign.com/articles/cape-fear-episode-8-recap-and-review-los-tiempos-de-dios-son-perfectos) — *IGN*
+
+### 3. God of War Show to Recast Kratos After Ryan Hurst Tears Bicep While Filming Stunt
+
+[原文] Kratos suffered a big injury while filming for Amazon MGM and Sony Pictures’ God of War show, with TMZ reporting that star Ryan Hurst tore his bicep, putting production on hold. Now, studios have been
+
+📎 [阅读原文](https://www.ign.com/articles/god-of-war-show-to-recast-kratos-after-ryan-hurst-tears-bicep-while-filming-stunt) — *IGN*
+
+### 4. Game of Thrones: War for Westeros Release Date Delayed to Early 2027
 
 [原文] PlaySide Studios has pushed back the release window for Game of Thrones: War for Westeros, a real-time strategy game set in the universe of the HBO series adaptation.
 
 📎 [阅读原文](https://www.ign.com/articles/game-of-thrones-war-for-westeros-release-date-delayed-to-early-2027) — *IGN*
 
-### 2. Assassin's Creed Black Flag Resynced Director Reveals Why Ubisoft Ditched Edward's Hidden Blade Combat
+### 5. Assassin's Creed Black Flag Resynced Director Reveals Why Ubisoft Ditched Edward's Hidden Blade Combat
 
 [原文] Richard Knight, director of Assassin’s Creed Black Flag Resynced, explained why Edward Kenway is missing some of his most beloved fighting moves — and why fans shouldn’t lose hope that they’ll never c
 
 📎 [阅读原文](https://www.ign.com/articles/assassins-creed-black-flag-resynced-director-reveals-why-ubisoft-ditched-edwards-hidden-blade-combat) — *IGN*
-
-### 3. Google Pixel 11 Specs Leak Ahead of Next Month’s Unveiling
-
-[原文] Early leaks for the Google Pixel 11, Pro, and Pro Fold reveal potential specs, a variety of new colors, and a price increase across the lineup.
-
-📎 [阅读原文](https://www.ign.com/articles/google-pixel-11-specs-leak-ahead-of-next-months-unveiling) — *IGN*
-
-### 4. The Odyssey: Explaining the Last Scene of Christopher Nolan’s New Epic
-
-[原文] When it comes to the movie version of The Odyssey, writer/director Christopher Nolan goes in very different direction than Homer's source material – and the final scene(s) of the movie finally pull ba
-
-📎 [阅读原文](https://www.ign.com/articles/the-odyssey-explaining-the-last-scene-of-christopher-nolans-new-epic) — *IGN*
-
-### 5. Backrooms Director Kane Parsons Promises He’s 'Looking Into' A24 Copyright Strikes on Fan Art
-
-[原文] Kane Parsons has promised Backrooms fans that he’s investigating copyright strikes from A24 against content creators for artwork inspired by the creepypasta-turned-blockbuster.
-
-📎 [阅读原文](https://www.ign.com/articles/backrooms-director-kane-parsons-promises-hes-looking-into-a24-copyright-strikes-on-fan-art) — *IGN*
 
 ---
 
@@ -439,35 +439,35 @@ The post New Jensen Interceptor
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Annie Leibovitz Sues Observer Over Justin and Hailey Bieber Photo: ‘Exploitation’
+### 1. Lil Baby Drops Pharrell Williams-Produced Single ‘Dead Fresh’
+
+[原文] The rapper debuted the song last month at the Louis Vuitton’s Menswear Spring-Summer 2027 show in Paris
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/lil-baby-pharrell-williams-dead-fresh-single-1235595020/) — *Rolling Stone*
+
+### 2. Watch Gracie Abrams Showcase Evocative Song ‘Minibar’ on ‘Fallon’
+
+[原文] The singer also discussed her new album, Daughter From Hell, on the late-night show
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/gracie-abrams-minibar-performance-fallon-1235595016/) — *Rolling Stone*
+
+### 3. BTS Invite Fans to Look Beyond the Spotlight in ‘Normal’ Video
+
+[原文] The song features on the band's massive hit album, Arirang
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/bts-normal-music-video-arirang-album-1235594976/) — *Rolling Stone*
+
+### 4. Gracie Abrams’ ‘Daughter From Hell’ Has Arrived
+
+[原文] The singer-songwriter's third studio album has arrived, featuring hit singles "Hit the Wall" and "Look at My Life"
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/gracie-abrams-daughter-from-hell-album-release-1235594838/) — *Rolling Stone*
+
+### 5. Annie Leibovitz Sues Observer Over Justin and Hailey Bieber Photo: ‘Exploitation’
 
 [原文] The famed photographer is suing the media outlet for up to $150,000 per "unauthorized" use
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/annie-leibovitz-sues-observer-justin-bieber-hailey-photo-1235594944/) — *Rolling Stone*
-
-### 2. Wildfire Smoke Forces the Black Keys, Creed, and More to Postpone Concerts
-
-[原文] War and Treaty, John Mellencamp, and Mavis Staples were also among the growing list of artists either cancelling or postponing shows as the air quality hits dangerous levels
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/wildfire-concerts-postponed-black-keys-john-mellencamp-1235594945/) — *Rolling Stone*
-
-### 3. Lorde Slams Spotify Over Sloppy AI-Generated Song Descriptions
-
-[原文] The Grammy-winning artist slammed the streaming behemoth over its "About the Song" feature and accused it of sharing inaccurate information
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/lorde-slams-spotify-ai-generated-song-descriptions-1235594882/) — *Rolling Stone*
-
-### 4. Noah Kahan Backs Massachusetts Bill Limiting Ticket Resale Prices
-
-[原文] Following similar legislature in his native Vermont, singer-songwriter supports “The Great Divide Act” combating speculative tickets, resale fees, and more
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/noah-kahan-massachusetts-bill-limiting-ticket-resale-prices-1235594747/) — *Rolling Stone*
-
-### 5. Carly Rae Jepsen Pens an Ode to a New Chapter on Latest Song ‘After All’
-
-[原文] It’s the second taste of Day and Night, her first double album arriving in September
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/carly-rae-jepsen-after-all-single-1235594657/) — *Rolling Stone*
 
 ---
 
