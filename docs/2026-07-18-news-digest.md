@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月18日** | 生成时间: 2026-07-18 15:58
+**2026年07月18日** | 生成时间: 2026-07-18 21:23
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. US strikes hit Iran for seventh consecutive night
+### 1. Russian online retail warehouses hit by deadly Ukrainian strikes
 
-[原文] Iran has retaliated against US allies in the region, with Kuwait reporting that a power and water plant had been hit.
+[原文] Drones targeted Wildberries facilities near Moscow and in Tambov. Ukraine's leader called them "major logistics facilities" supplying "sanctioned components".
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities
-
-[原文] Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsening wildfire conditions.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 3. Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC
+### 2. Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC
 
 [原文] Protests erupted in Ukraine on Thursday after Mykhailo Fedorov's removal - and now soldiers are also criticising the move.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Space start-up launches India’s first commercial rocket designed for orbit
+### 3. US strikes hit Iran for seventh consecutive night
+
+[原文] Iran has retaliated against US allies in the region, with Kuwait reporting that a power and water plant had been hit.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities
+
+[原文] Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsening wildfire conditions.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Space start-up launches India’s first commercial rocket designed for orbit
 
 [原文] India's first space-tech unicorn Skyroot Aerospace successfully launched Vikram-1 on Saturday.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. White House defends Argentina team over Falklands banner
-
-[原文] The comments could further fuel the row over the incident, which has seen Downing Street back calls for Fifa to investigate.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump rips Canada as wildfire smoke spreads, says U.S. will add pollution cost to tariffs
+### 1. 'WarshGPT': How Wall Street is adapting to the Fed's new era of communication
 
-[原文] The smoke coming from active wildfires in Canada has led to unhealthy air quality in swaths of the U.S., which could affect the World Cup final in New Jersey.
+[原文] Investment firms are readying for an era with less public commentary from the U.S. central bank. Some are relying on AI for an edge.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/17/trump-canada-wildfire-tariffs.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html) — *CNBC*
 
-### 2. Inside the Chinese fraud rings stealing billions from banks and retailers
+### 2. World Cup audience stayed bipartisan despite Trump's prominent role, CNBC survey finds
 
-[原文] Chinese organized crime groups are making as much as $1 billion annually in tap-to-pay fraud schemes targeting retailers and banks.
+[原文] Nearly half of registered voters watched the 2026 World Cup, with income and education shaping viewership more than party affiliation, the survey found.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/17/tap-pay-fraud-retail-crime.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/18/world-cup-viewership-trump-democrats-republicans-poll.html) — *CNBC*
 
-### 3. The White House is dictating access to frontier AI models, shifting power from tech giants, sources say
+### 3. U.S. military says it has completed the latest round of strikes against Iran, amid more disruptions to shipping
 
-[原文] The Trump administration is taking steps to control who gets access to the latest frontier models, people familiar with the matter told CNBC.
+[原文] U.S. Central Command says it continues to enforce a naval blockade against Iran, while Kuwait and Bahrain say they have intercepted more Iranian projectiles.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/18/us-military-says-it-completed-latest-round-of-strikes-against-iran.html) — *CNBC*
 
-### 4. Taco Bell says it has removed lettuce linked to cyclosporiasis outbreak from its restaurants
+### 4. Korean beauty products are becoming mainstream in the U.S. Why there may be even more growth ahead
 
-[原文] Taco Bell, which the CDC linked to the cyclosporiasis outbreak, will likely recover soon from the health safety scare, according to analysts.
+[原文] Morgan Stanley forecasts that K-beauty sales in the U.S. can reach approximately $4 billion in 2026.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/17/cyclosporiasis-outbreak-linked-to-taco-bell-may-not-have-major-impact.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/18/korean-beauty-products-are-becoming-mainstream-in-the-us.html) — *CNBC*
 
-### 5. Economic outlook is worsening and Trump is getting blamed, CNBC survey finds
+### 5. How are prediction markets taxed? The IRS hasn’t provided guidance yet
 
-[原文] The public is as depressed about the economy as it has been since the years just after the pandemic, according to the All-America Economic Survey.
+[原文] Experts say the lack of federal guidance makes it's unclear on how prediction markets winnings should be reported and levied.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/17/economic-outlook-is-worsening-and-trump-is-getting-blamed-cnbc-survey-finds.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/18/how-are-prediction-markets-taxed-the-irs-hasnt-provided-guidance-yet.html) — *CNBC*
 
 ---
 
@@ -130,35 +130,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Scientists built a camera that can track invisible particles in 3D
+### 1. Intermittent fasting helped people keep weight off for a year
+
+[原文] A 12-week intermittent fasting program produced weight-loss benefits that were still visible a year later. Participants who ate within an eight-hour window maintained more weight loss than those who f
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260718010154.htm) — *Science Daily*
+
+### 2. Your fingers may hold a secret of human brain evolution
+
+[原文] A study of 225 newborns suggests prenatal estrogen may have played a role in the evolution of larger human brains. Boys with finger-length patterns linked to higher estrogen exposure before birth tend
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260717033350.htm) — *Science Daily*
+
+### 3. Earth’s biggest volcanic event transformed an entire oceanic plate
+
+[原文] Seismic waves have revealed that the oceanic plate beneath the Ontong Java Plateau was dramatically transformed by the colossal volcanic activity that created it more than 100 million years ago. Resea
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260716023618.htm) — *Science Daily*
+
+### 4. Scientists built a camera that can track invisible particles in 3D
 
 [原文] A new particle detector called PLATON could replace millions of tiny detector components with a single block of light-producing material. Using a light-field camera, highly sensitive photon sensors, a
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260716023610.htm) — *Science Daily*
 
-### 2. Scientists tested 39 sweeteners and found unexpected gut effects
+### 5. Mediterranean diet may activate tiny proteins that protect the heart and brain
 
-[原文] A large laboratory study found that many commonly used sweeteners can directly change the growth of gut bacteria. Researchers identified more than 100 cases in which sweeteners behaved differently whe
+[原文] The Mediterranean diet may influence aging through tiny proteins produced inside the cell’s mitochondria. Older adults who followed the diet most closely had higher levels of humanin and SHMOOSE, whic
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260716023552.htm) — *Science Daily*
-
-### 3. New “living plastic” self-destructs in just 6 days without leaving microplastics
-
-[原文] Researchers have created self-destructing living plastic that uses engineered bacteria to completely break itself down when activated. The material degrades in just six days without creating microplas
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260715083552.htm) — *Science Daily*
-
-### 4. This sugar-coated therapy boosted survival against deadly brain cancer by 50% in mice
-
-[原文] A new experimental treatment may have found a way to outsmart glioblastoma’s toughest defense: the blood-brain barrier. Researchers used sugar-coated nanoparticles to ferry genetic instructions that r
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260715083542.htm) — *Science Daily*
-
-### 5. Sun-like star caught after eating one of its own planets
-
-[原文] A distant Sun-like star appears to have devoured one of its planets, leaving behind a surprising chemical fingerprint. Researchers found an unusually high concentration of lithium, a strong sign that 
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260715083538.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260716023605.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Defiant Tuchel defends decisions and says loss is 'scar we carry now'
+### 1. Life after Kane - are England facing a false nine future?
 
-[原文] England head coach Thomas Tuchel defends his tactical decisions during the World Cup semi-final defeat by Argentina in a tense news conference.
+[原文] Are England facing the prospect of using a false nine up front once record scorer Harry Kane calls time on his international career?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c3r0l4zn9jpo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cp87llz7539o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Two-shot penalty 'fires up' Open contender DeChambeau
+### 2. The harrowing dark side of England's World Cup exit
 
-[原文] Bryson DeChambeau says the decision to give him a two-shot penalty for "inadvertently improving his lie", "fires me up" for the final two rounds of the championship this weekend.
+[原文] During a major football tournament such as the World Cup, some women and girls are constantly living in fear - because domestic abuse rises when England play, research shows.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/cjd45x7vgz7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cwymljn8y10o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Rooney, Hart and Richards row down Hudson River
+### 3. Messi and Brady in disbelief over 'prophetic' Lamine Yamal photo
 
-[原文] Wayne Rooney rows down the Hudson River with fellow BBC pundits Joe Hart and Micah Richards.
+[原文] Argentina's Lionel Messi says it is "crazy" to be facing Spain's Lamine Yamal in a World Cup final after being photographed with him as a baby.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c3w0p810dj9o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c5yejxqll3go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. 'They made him a defensive player' - Trump questions Kane role in semi
+### 4. World Cup winner Capdevila appeals to Trump after US travel permit denied
 
-[原文] US President Donald Trump joins criticism of England's tactics in their World Cup semi-final loss to Argentina, by questioning Harry Kane's second-half "defensive" role.
+[原文] Former Spain international Joan Capdevila has made a plea to US President Donald Trump for help after he says he was denied a travel permit to enter the United States before  Sunday's World Cup final.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cjej3y1jgdpo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cx2l5jn17yjo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Best finishers, defensive kings & runners - World Cup finalists in numbers
+### 5. All Blacks leave Irish with familiar sinking feeling
 
-[原文] European champions Spain will face World Cup holders and South American champions Argentina in the final. How do they compare? BBC Sport takes a look at the numbers.
+[原文] After a six-try defeat by New Zealand in Eden Park, Ireland have now lost six games in a row against the All Blacks, France and South Africa.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c0rd8zrwvwno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-union/articles/ckg3nkpgx4ko?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘Saiyaara’ Stars Ahaan Panday and Aneet Padda Mark Film’s First Year With Collector’s Edition Vinyl LP Launch at Wembley Stadium (EXCLUSIVE)
+### 1. Utopia Distribution Exec on Shifting Releases Towards Eventification to Cater to ‘Fandom’ and Younger Audiences: ‘Everything Is Being Destroyed to Be Rebuilt’
+
+[原文] The years that directly succeeded the COVID pandemic were marked by a dire, almost apocalyptic view on the future of cinemagoing. Audiences who were already thinning out before global lockdowns became
+
+📎 [阅读原文](https://variety.com/2026/film/global/utopia-distribution-eventification-young-cinephiles-fandom-1236814419/) — *Variety*
+
+### 2. S.S. Rajamouli Marks Priyanka Chopra Jonas’ Birthday With New ‘Varanasi’ Images
+
+[原文] Two character stills of Priyanka Chopra Jonas from S.S. Rajamouli&#8217;s &#8220;Varanasi&#8221; were released Saturday to mark the actor&#8217;s birthday. “Varanasi” spans thousands of years and trav
+
+📎 [阅读原文](https://variety.com/2026/film/news/priyanka-chopra-jonas-varanasi-images-birthday-1236815343/) — *Variety*
+
+### 3. ‘Saiyaara’ Stars Ahaan Panday and Aneet Padda Mark Film’s First Year With Collector’s Edition Vinyl LP Launch at Wembley Stadium (EXCLUSIVE)
 
 [原文] Bollywood stars Ahaan Panday and Aneet Padda visited London&#8217;s Wembley Stadium to celebrate the first anniversary of &#8220;Saiyaara,&#8221; unveiling a collector&#8217;s edition vinyl LP of the 
 
 📎 [阅读原文](https://variety.com/2026/film/news/saiyaara-collector-vinyl-lp-wembley-anniversary-1236814816/) — *Variety*
 
-### 2. Tom Brady Slaps Logan Paul at Fanatics Fest, Calls Him a ‘Dork’ and ‘Nerd’ on X
+### 4. Tom Brady Slaps Logan Paul at Fanatics Fest, Calls Him a ‘Dork’ and ‘Nerd’ on X
 
 [原文] The beef between Tom Brady and Logan Paul continues. On Friday, the future NFL Hall of Famer and YouTuber-turned-WWE superstar shared the stage at Fanatics Fest in New York. But when their panel ended
 
 📎 [阅读原文](https://variety.com/2026/sports/news/tom-brady-slaps-logan-paul-fanatics-fest-fans-staged-1236815284/) — *Variety*
 
-### 3. Larry David Mocks RFK Jr. by Saying ‘Drop Dead, Bobby’ in New HBO Show, Which Reunites ‘Curb’ Cast Except for Cheryl Hines
+### 5. Larry David Mocks RFK Jr. by Saying ‘Drop Dead, Bobby’ in New HBO Show, Which Reunites ‘Curb’ Cast Except for Cheryl Hines
 
 [原文] SPOILER ALERT: This interview contains spoilers for Episode 4 of “Life, Larry and the Pursuit of Unhappiness: An Almost History of America,” now streaming on HBO Max. Larry David weaponizes history to
 
 📎 [阅读原文](https://variety.com/2026/tv/news/larry-david-mocks-rfk-jr-hbo-show-1236806043/) — *Variety*
-
-### 4. Confused by ‘The Odyssey’? All the Timelines, Monsters and Greek Myths Explained
-
-[原文] “The Odyssey” is one hell of a journey. Once again, director Christopher Nolan enlists a cast of A-list actors and jumbles timelines to tell his ambitious version of Odysseus’ journey from Homer&#8217
-
-📎 [阅读原文](https://variety.com/2026/film/news/the-odyssey-explained-timelines-monsters-greek-legend-1236813704/) — *Variety*
-
-### 5. Colman Domingo and Robert O’Hara in Talks to Write Live-Action Princess Tiana Movie
-
-[原文] Emmy winner and Oscar nominee Colman Domingo and &#8220;Slave Play&#8221; director Robert O’Hara are in talks to write a live-action film about Princess Tiana from Disney&#8217;s &#8220;The Princess a
-
-📎 [阅读原文](https://variety.com/2026/film/news/colman-domingo-live-action-princess-tiana-movie-robert-ohara-princess-and-the-frog-1236815248/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Jennifer English Steps Away From Tides of Annihilation Role Due to Health Concerns
+### 1. Christopher Nolan Says It Will Be 'At Least' 3 Years Before We See His Next Film, After The Odyssey Pushed Him to His Limits
+
+[原文] Christopher Nolan has said fans won’t see his next movie for “at least” three years, after directing The Odyssey pushed him to his limits.
+
+📎 [阅读原文](https://www.ign.com/articles/christopher-nolan-says-it-will-be-at-least-3-years-before-we-see-his-next-film-after-the-odyssey-pushed-him-to-his-limits) — *IGN*
+
+### 2. Jennifer English Steps Away From Tides of Annihilation Role Due to Health Concerns
 
 [原文] English actress Jennifer English is stepping away from her role as the protagonist in Eclipse Glow Games’ Tides of Annihilation due to health issues.
 
 📎 [阅读原文](https://www.ign.com/articles/jennifer-english-steps-away-from-tides-of-annihilation-role-due-to-health-concerns) — *IGN*
 
-### 2. Colman Domingo and Robert O’Hara in Talks to Write Live-Action Princess and the Frog Tiana Spinoff Movie
+### 3. Colman Domingo and Robert O’Hara in Talks to Write Live-Action Princess and the Frog Tiana Spinoff Movie
 
 [原文] Colman Domingo is in talks to co-write a live-action movie focused on Princess and the Frog protagonist Tiana Rogers alongside playwright and director Robert O’Hara.
 
 📎 [阅读原文](https://www.ign.com/articles/colman-domingo-and-robert-ohara-in-talks-to-write-live-action-princess-and-the-frog-tiana-spinoff-movie) — *IGN*
 
-### 3. The LEGO Exclusive Dungeons and Dragons Set Has Sold Out Just Days Before It Retires Forever
+### 4. The LEGO Exclusive Dungeons and Dragons Set Has Sold Out Just Days Before It Retires Forever
 
 暂无摘要。
 
 📎 [阅读原文](https://www.ign.com/articles/the-lego-exclusive-dungeons-and-dragons-set-has-sold-out-just-days-before-it-retires-forever) — *IGN*
 
-### 4. The Best Christopher Nolan Movies Ranked
+### 5. The Best Christopher Nolan Movies Ranked
 
 [原文] From his first film Following to his newest release The Odyssey, we rank the Christopher Nolan movies in order of worst to best.
 
 📎 [阅读原文](https://www.ign.com/articles/best-christopher-nolan-movies) — *IGN*
-
-### 5. Save $400 Off the Skytech Shadow RTX 5060 Ti 16GB Gaming PC, Now Just $1,500
-
-[原文] A great prebuilt system for 1080p and 1440p gaming.
-
-📎 [阅读原文](https://www.ign.com/articles/skytech-shadow-rtx-5060-ti-16gb-gaming-pc-deal) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post 2026 Lexus NX Hybrid Quick Review: I Finally Get Why People Buy These a
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Latest Precipitation Models Still Seem to Underestimate Risk as ‘1,000-Year’ Rain Events Pummel Texas
+### 1. What Will It Take To End the Slaughter of Dolphins in the Faroe Islands?
+
+[原文] On May 27, a massive pod of more than 400 long-finned pilot whales was spotted off the coast of Tórshavn, the capital of the Faroe Islands—a remote archipelago located about 200 miles north of Scotlan
+
+📎 [阅读原文](https://insideclimatenews.org/news/18072026/activists-fight-to-end-faroe-islands-dolphin-hunts/) — *Inside Climate News*
+
+### 2. Why Plastics Have Overtaken the Planet
+
+[原文] From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Paloma Beltran with Judith Enck, the founder of advocacy group Beyond Plastics. After World 
+
+📎 [阅读原文](https://insideclimatenews.org/news/18072026/why-plastics-have-overtaken-the-planet/) — *Inside Climate News*
+
+### 3. Latest Precipitation Models Still Seem to Underestimate Risk as ‘1,000-Year’ Rain Events Pummel Texas
 
 [原文] Parts of South Texas ravaged by flooding this week have logged a steep rise in rainfall intensity over recent decades, federal data show.&#160; The latest official dataset, published in 2018 by the Na
 
 📎 [阅读原文](https://insideclimatenews.org/news/17072026/texas-precipitation-models-underestimate-risk/) — *Inside Climate News*
 
-### 2. Wildfire Smoke Chokes Eastern and Midwestern Cities as Air Pollution Soars to Dangerously High Levels
+### 4. Wildfire Smoke Chokes Eastern and Midwestern Cities as Air Pollution Soars to Dangerously High Levels
 
 [原文] Smoke from climate change-fueled wildfires in Canada and northern Minnesota blanketed skies across much of the Midwest and East Coast, exposing millions of Americans to dangerous levels of air polluti
 
 📎 [阅读原文](https://insideclimatenews.org/news/17072026/wildfire-smoke-chokes-eastern-and-midwestern-cities/) — *Inside Climate News*
 
-### 3. Will Congress Ban ‘Mud Dumping’ in Mobile Bay?
+### 5. Will Congress Ban ‘Mud Dumping’ in Mobile Bay?
 
 [原文] For decades, fishers, swimmers and environmental groups have complained that mud and silt from dredging operations in the Mobile Bay shipping channel have been smothering seagrasses, choking out oyste
 
 📎 [阅读原文](https://insideclimatenews.org/news/17072026/mobile-bay-dredged-mud-dumping-ban/) — *Inside Climate News*
-
-### 4. A Record-Warm Winter and Summer Heatwave Are Stoking Montana’s Wildfire Risk
-
-[原文] Just weeks ago, western Montana appeared to have escaped the early wildfires that forecasters feared after one of the warmest and driest winters on record, as heavy rains in late June soaked forests a
-
-📎 [阅读原文](https://insideclimatenews.org/news/17072026/montana-wildfire-risk-after-warm-winter-and-summer-heat/) — *Inside Climate News*
-
-### 5. After Months of Debate, Virginia Fails to Pass Data Center Clean Energy Requirements
-
-[原文] RICHMOND, Va.—Before the start of Virginia’s legislative session in January, 53-year-old William Ward attended a Virginia League of Conservation Voters rally in Petersburg, where he learned about how 
-
-📎 [阅读原文](https://insideclimatenews.org/news/17072026/virginia-fails-to-require-data-centers-use-clean-energy/) — *Inside Climate News*
 
 ---
 
@@ -477,35 +477,35 @@ The post 2026 Lexus NX Hybrid Quick Review: I Finally Get Why People Buy These a
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Airbnb Partners With CarTrawler for Car Rentals in 5 Countries: Scoop
+### 1. Ari Emanuel Is Assembling a Live Tourism Conglomerate
+
+[原文] The companies that originate trips do not need to call themselves travel companies to capture travel's economics, and Ari Emanuel is demonstrating it across three of them.
+
+📎 [阅读原文](https://skift.com/2026/07/18/ari-emanuel-is-assembling-a-live-tourism-conglomerate/) — *Skift*
+
+### 2. Airbnb Partners With CarTrawler for Car Rentals in 5 Countries: Scoop
 
 [原文] Airbnb's partnership with CarTrawler on car rentals is Airbnb's latest step toward becoming a traditional online travel agency. CarTrawler is poised to become an Expedia brand, which will compete with
 
 📎 [阅读原文](https://skift.com/2026/07/17/airbnb-partners-with-cartrawler-for-car-rentals-in-5-countries-scoop/) — *Skift*
 
-### 2. The Travel Industry Was Banking on a World Cup Windfall. Here’s What the Numbers Show.
+### 3. The Travel Industry Was Banking on a World Cup Windfall. Here’s What the Numbers Show.
 
 [原文] The World Cup delivered real, rate-driven gains for hotels and short-term rentals. But the impact was barely noticed by U.S. airlines, and the international visitor boom is falling short of expectatio
 
 📎 [阅读原文](https://skift.com/2026/07/17/world-cup-impact-on-travel-industry/) — *Skift*
 
-### 3. Europe May Finally Charge International Flights for Emissions — U.S. and China Get a Pass
+### 4. Europe May Finally Charge International Flights for Emissions — U.S. and China Get a Pass
 
 [原文] Associations are unhappy with Europe’s plans to make the aviation industry pay more for its international emissions — for different reasons. One side argues proposals don’t go far enough, and the othe
 
 📎 [阅读原文](https://skift.com/2026/07/17/europe-eu-ets-international-flights/) — *Skift*
 
-### 4. The World Cup Travel Matrix
+### 5. The World Cup Travel Matrix
 
 [原文] Who lifted the trophy for the travel industry's World Cup? Behold Skift's winners, losers, floppers, and the freeloaders.
 
 📎 [阅读原文](https://skift.com/2026/07/17/the-world-cup-travel-matrix/) — *Skift*
-
-### 5. Allegiant, Long an OTA Holdout, Signs an Exclusive Deal With Expedia
-
-[原文] A shrinking number of airlines shun online travel agency distribution. Allegiant's deal with Expedia Group means it abandoned its direct-distribution-only strategy — one that it touted as advantageous
-
-📎 [阅读原文](https://skift.com/2026/07/17/allegiant-long-an-ota-holdout-signs-an-exclusive-deal-with-expedia/) — *Skift*
 
 ---
 
