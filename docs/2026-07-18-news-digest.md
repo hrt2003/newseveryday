@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月18日** | 生成时间: 2026-07-18 03:15
+**2026年07月18日** | 生成时间: 2026-07-18 10:47
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. US denies Iranian claims it hit civilian infrastructure in latest strikes
+### 1. Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities
 
-[原文] The US military says its attacks were intended to "further degrade Iranian military capabilities".
+[原文] Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsening wildfire conditions.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Trump alleges China meddled in 2020 election and questions voting security ahead of midterms
+### 2. US strikes hit Iran for seventh consecutive night
 
-[原文] China said Trump's claims were fabricated and US Democrats said he was paving the way to undermine November's elections.
+[原文] The US command says it is conducting more strikes to degrade Iran's armed forces, as Iran reports explosions near the Strait of Hormuz.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. EU proposes slowing down cuts to carbon emissions for businesses
+### 3. Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC
 
-[原文] Under the proposals, the EU plans to relax its emissions trading system to give companies more time to reduce their carbon output.
+[原文] Protests erupted in Ukraine on Thursday after Mykhailo Fedorov's removal - and now soldiers are also criticising the move.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/ckgv0zd497zo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Air conditioner sparked deadly blaze at children's orphanage - police
+### 4. White House defends Argentina team over Falklands banner
 
-[原文] Eleven people, including children, died in the fire that also injured 19 others.
+[原文] The comments could further fuel the row over the incident, which has seen Downing Street back calls for Fifa to investigate.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c9d8ylw60e9o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. China hits out at British Steel nationalisation
+### 5. One anti-war critic fined, another held as Russia clamps down on opponents
 
-[原文] The UK government said taking the firm into public hands would safeguard "a vital national capability".
+[原文] While Boris Nadezhdin is barred from running for parliament, blogger Ilya Remeslo is remanded in custody.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cn0n3y6ewn4o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Inside the Chinese fraud rings stealing billions from banks and retailers
+### 1. Trump rips Canada as wildfire smoke spreads, says U.S. will add pollution cost to tariffs
+
+[原文] The smoke coming from active wildfires in Canada has led to unhealthy air quality in swaths of the U.S., which could affect the World Cup final in New Jersey.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/17/trump-canada-wildfire-tariffs.html) — *CNBC*
+
+### 2. Inside the Chinese fraud rings stealing billions from banks and retailers
 
 [原文] Chinese organized crime groups are making as much as $1 billion annually in tap-to-pay fraud schemes targeting retailers and banks.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/17/tap-pay-fraud-retail-crime.html) — *CNBC*
 
-### 2. Economic outlook is worsening and Trump is getting blamed, CNBC survey finds
+### 3. The White House is dictating access to frontier AI models, shifting power from tech giants, sources say
+
+[原文] The Trump administration is taking steps to control who gets access to the latest frontier models, people familiar with the matter told CNBC.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html) — *CNBC*
+
+### 4. Taco Bell says it has removed lettuce linked to cyclosporiasis outbreak from its restaurants
+
+[原文] Taco Bell, which the CDC linked to the cyclosporiasis outbreak, will likely recover soon from the health safety scare, according to analysts.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/17/cyclosporiasis-outbreak-linked-to-taco-bell-may-not-have-major-impact.html) — *CNBC*
+
+### 5. Economic outlook is worsening and Trump is getting blamed, CNBC survey finds
 
 [原文] The public is as depressed about the economy as it has been since the years just after the pandemic, according to the All-America Economic Survey.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/17/economic-outlook-is-worsening-and-trump-is-getting-blamed-cnbc-survey-finds.html) — *CNBC*
-
-### 3. Epstein victims blast Trump attorney general nominee Todd Blanche after meeting
-
-[原文] "Todd Blanche treated the meeting as a mere 'check-the-box' exercise intended to secure votes for his confirmation," said Epstein survivor Dani Bensky.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/17/epstein-victims-todd-blanche-doj-trump-tillis.html) — *CNBC*
-
-### 4. Oil tankers face 'worst case scenario' in Hormuz as Iran steps up attacks on ships, maritime risk CEO says
-
-[原文] One seafarer was killed and three were injured in attack on the crude oil tanker Al Bahyah off Oman's coast on Tuesday.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/17/iran-war-oil-tanker-strait-hormuz-traffic-attacks-trump.html) — *CNBC*
-
-### 5. FAA lets Boeing sign off on 737 Max, 787 airworthiness certificates again
-
-[原文] The move is a vote of confidence in Boeing from the U.S. government.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. I replaced my space heater and ceiling fan with one Dyson appliance
+### 1. Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield
 
-[原文] Designed for year-round comfort, the Dyson Hot+Cool HF1 combines quiet operation and simple controls with Dyson's signature bladeless design.
+[原文] The window is almost shut. On August 19, eight startups will take the stage at Stripe Tour Sydney in front of investors, global press, and the Australian tech community. One startup walks away with au
 
-📎 [阅读原文](https://techcrunch.com/2026/07/17/i-replaced-my-space-heater-and-ceiling-fan-with-one-dyson-appliance/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/) — *TechCrunch*
 
-### 2. How Apple’s big lawsuit could disrupt OpenAI’s IPO plans
+### 2. Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs
 
-[原文] Apple&#160;filed a trade secrets&#160;lawsuit against OpenAI&#160;last Friday, and&#160;it&#8217;s&#160;not messing around. The complaint alleges a pattern of misconduct reaching all the way up to Ope
+[原文] From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.
 
-📎 [阅读原文](https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/) — *TechCrunch*
 
-### 3. FBI arrests man accused of using Steam games to drain victims’ crypto wallets
+### 3. Databricks hits $188B valuation, extending its run as AI’s favorite second act
 
-[原文] Prosecutors accused 21-year-old student Zyaire Wilkins of publishing on Steam several fake video games that contained malware, infecting thousands of victims, and stealing crypto from some of them.
+[原文] Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/17/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/) — *TechCrunch*
 
-### 4. Parents want safer phones for kids. These companies are answering the call.
+### 4. The Zoom hack that says, ‘Don’t record me’
 
-[原文] As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home p
+[原文] If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?
 
-📎 [阅读原文](https://techcrunch.com/2026/07/17/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/) — *TechCrunch*
 
-### 5. Amazon fixing bug that billed some AWS customers billions of dollars
+### 5. Agility Robotics plants its flag in Tesla’s backyard
 
-[原文] Some Amazon customers logged on Friday to a surprise bill estimate claiming that they owed the tech and cloud giant billions in fees.
+[原文] Agility is opening a new training center for its Digit robots in Fremont, California.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/17/amazon-fixing-bug-that-billed-some-aws-customers-billions-of-dollars/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The 'ultimate all-round sportsman' - Sobers could do it all
+### 1. 'They made him a defensive player' - Trump questions Kane role in loss
+
+[原文] US President Donald Trump joins criticism of England's tactics in their World Cup semi-final loss to Argentina, by questioning Harry Kane's second-half "defensive" role.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cjej3y1jgdpo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. Two-shot penalty 'fires up' Open contender DeChambeau
+
+[原文] Bryson DeChambeau says the decision to give him a two-shot penalty for "inadvertently improving his lie", "fires me up" for the final two rounds of the championship this weekend.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/cjd45x7vgz7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. The ultimate all-round sportsman - Sobers could do it all
 
 [原文] Sir Garfield Sobers, who has died aged 89, was rightly chosen as one of the leading five cricketers of the 20th century - and will be remembered as arguably the best all-rounder in the history of the 
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c2xx42dle4go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Keep calm and carry on - Spain trust team identity to deliver World Cup
+### 4. Tuchel urges England to finish strongly in emotional address
 
-[原文] Former Spain captain Cesar Azpilicueta explains why Luis de la Fuente's side have confidence in the collective as they prepare for Sunday's World Cup final against Argentina.
+[原文] England manager Thomas Tuchel urges his players to end the World Cup strongly in an emotional address after their agonising semi-final defeat by Argentina.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/czxedvre7ryo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c62ergl0py2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Antonelli tops FP2 as Gasly crashes heavily at Spa
+### 5. White House defends Argentina team over Falklands banner
 
-[原文] Alpine's Pierre causes a red flag with a heavy crash in Friday practice at the Belgian Grand Prix as Mercedes' Kimi Antonelli set out his stall for the weekend with fastest time.
+[原文] The comments could further fuel the row over the incident, which has seen Downing Street back calls for Fifa to investigate.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/cm2g9z3pr3yo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. Five reasons for England to be cheerful despite World Cup exit
-
-[原文] Despite the heartbreak of a World Cup semi-final loss, there are plenty of reasons to be optimistic about England's footballing future.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/clyxllv7lmpo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Two record-equalling 62s at The Open - and two different reactions
-
-[原文] Australia's Lucas Herbert and Sam Burns of the United States both shoot eight-under 62s to equal the lowest rounds in men's major history.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/ckg3n04n0v0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Court Hears Argument on States’ Move to Pause Paramount-Warner Bros. Merger
+### 1. Larry David Mocks RFK Jr. by Saying ‘Drop Dead, Bobby’ in New HBO Show, Which Reunites ‘Curb’ Cast Except for Cheryl Hines
 
-[原文] A judge on Friday heard arguments on a state coalition&#8217;s bid for a restraining order to pause the Paramount-Warner Bros. Discovery merger, and said she would issue a ruling by next Wednesday. Ju
+[原文] SPOILER ALERT: This interview contains spoilers for Episode 4 of “Life, Larry and the Pursuit of Unhappiness: An Almost History of America,” now streaming on HBO Max. Larry David weaponizes history to
 
-📎 [阅读原文](https://variety.com/2026/film/news/paramount-warner-bros-merger-restraning-order-hearing-1236814831/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/larry-david-mocks-rfk-jr-hbo-show-1236806043/) — *Variety*
 
-### 2. Apple Music Hikes Subscription Prices, Citing Rising Licensing Fees
+### 2. Confused by ‘The Odyssey’? All the Timelines, Monsters and Greek Myths Explained
 
-[原文] Apple is hiking the prices of Apple Music subscription plans &#8212; the tech giant&#8217;s first rate increases for the service since the fall of 2022, citing higher music licensing costs. The new pr
+[原文] “The Odyssey” is one hell of a journey. Once again, director Christopher Nolan enlists a cast of A-list actors and jumbles timelines to tell his ambitious version of Odysseus’ journey from Homer&#8217
 
-📎 [阅读原文](https://variety.com/2026/music/news/apple-music-raises-prices-licensing-fees-1236814878/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/the-odyssey-explained-timelines-monsters-greek-legend-1236813704/) — *Variety*
 
-### 3. Lena Headey Rips Hollywood for Protecting ‘Predatory Men,’ Says ‘Game of Thrones’ Toxic Fans Got Mad She Didn’t Go Nude: ‘I Was Shocked by the Anger’
+### 3. Colman Domingo and Robert O’Hara in Talks to Write Live-Action Princess Tiana Movie
 
-[原文] Lena Headey gave a wide-ranging interview with The Telegraph and opened up about her experiences in Hollywood with nudity and predatory men. The “Game of Thrones” Emmy nominee accused Harvey Weinstein
+[原文] Emmy winner and Oscar nominee Colman Domingo and &#8220;Slave Play&#8221; director Robert O’Hara are in talks to write a live-action film about Princess Tiana from Disney&#8217;s &#8220;The Princess a
 
-📎 [阅读原文](https://variety.com/2026/film/news/lena-headey-game-of-thrones-fans-angry-nudity-1236812337/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/colman-domingo-live-action-princess-tiana-movie-robert-ohara-princess-and-the-frog-1236815248/) — *Variety*
 
-### 4. Sitges Film Festival’s Monica Garcia at the Costa Rica Media Market: ‘We’re Waiting for the Next Issa Lopez’
+### 4. Anne Hathaway’s 13 Best Performances: From ‘The Devil Wears Prada’ to ‘The Odyssey’
 
-[原文] At the Costa Rica Media Market (CRMM) to announce the launch of the Latin American offshoot of genre initiative WomanInFan, Sitges Film Festival director general Monica Garcia sat with Morbido CEO Pab
+[原文] From mega-hit franchises to a destructive drug addict to a cowgirl whose husband is hiding a secret love affair, Anne Hathaway has been one of Hollywood&#8217;s most versatile leading women for more t
 
-📎 [阅读原文](https://variety.com/2026/film/global/sitges-festival-monica-garcia-costa-rica-media-market-1236812257/) — *Variety*
+📎 [阅读原文](https://variety.com/lists/best-anne-hathaway-movies-performances-ranked/) — *Variety*
 
-### 5. Magic: The Gathering Unveils Three New Mainline Sets for 2027 as Hasbro’s MagicCon Schedule Expands to Four Events
+### 5. Olivia Dean’s First U.S. Arena Tour Is Off to a Smashing Start, With L.A. Shows Proving She’s No One-Grammy Wonder: Concert Review
 
-[原文] Hasbro&#8217;s Wizards of the Coast revealed next year&#8217;s planned sets for its hit tabletop card game Magic: The Gathering and MagicCon dates and locations for 2027 during MagicCon: Amsterdam on 
+[原文] Olivia Dean skipped a grade, as far as the touring circuit goes. Soon after taking the stage at L.A.&#8217;s Crypto.com Arena for a two-night stand this week, the singer said, &#8220;The last time we 
 
-📎 [阅读原文](https://variety.com/2026/gaming/news/magic-the-gathering-2027-sets-magiccon-schedule-1236813984/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/concert-reviews/olivia-dean-concert-review-crypto-arena-tour-1236815197/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Fallout 5: Everything Todd Howard Has Said About Bethesda's New Game
+### 1. Colman Domingo and Robert O’Hara in Talks to Write Live-Action Princess and the Frog Tiana Spinoff Movie
 
-[原文] As if there was ever any doubt, Bethesda director Todd Howard has once again confirmed Fallout 5 is coming…eventually.
+[原文] Colman Domingo is in talks to co-write a live-action movie focused on Princess and the Frog protagonist Tiana Rogers alongside playwright and director Robert O’Hara.
 
-📎 [阅读原文](https://www.ign.com/articles/fallout-5-everything-todd-howard-has-said-about-bethesdas-new-game) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/colman-domingo-and-robert-ohara-in-talks-to-write-live-action-princess-and-the-frog-tiana-spinoff-movie) — *IGN*
 
-### 2. Everything You Need to Know About the Palworld Card Game Coming July 30
+### 2. The LEGO Exclusive Dungeons and Dragons Set Has Sold Out Just Days Before It Retires Forever
 
 暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/everything-you-need-to-know-about-the-palworld-card-game-coming-july-30) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/the-lego-exclusive-dungeons-and-dragons-set-has-sold-out-just-days-before-it-retires-forever) — *IGN*
 
-### 3. Kill Bill: The Whole Bloody Affair on 4K Is Out Soon – Here’s Where You Can Still Preorder It
+### 3. The Best Christopher Nolan Movies Ranked
 
-[原文] Preorders are live for Kill Bill: The Whole Bloody Affair on 4K. Here's where you can place an order for it ahead of its release on July 28.
+[原文] From his first film Following to his newest release The Odyssey, we rank the Christopher Nolan movies in order of worst to best.
 
-📎 [阅读原文](https://www.ign.com/articles/kill-bill-the-whole-bloody-affair-4k-where-to-buy) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/best-christopher-nolan-movies) — *IGN*
 
-### 4. King of the Hill Season 15 Review
+### 4. Save $400 Off the Skytech Shadow RTX 5060 Ti 16GB Gaming PC, Now Just $1,500
 
-[原文] Hulu’s 2025 revival of King of the Hill delivers a profound and relatable Season 15, expertly weaving in callbacks while answering long-held questions from the 16-year hiatus.
+[原文] A great prebuilt system for 1080p and 1440p gaming.
 
-📎 [阅读原文](https://www.ign.com/articles/king-of-the-hill-season-15-review) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/skytech-shadow-rtx-5060-ti-16gb-gaming-pc-deal) — *IGN*
 
-### 5. Riftbound: Vendetta Hands-On Preview: Zed vs. Shen Showdown Deck and New Keywords
+### 5. Jurassic Park Fans Go Viral With Tear-Jerking Tribute to Sam Neill In Path of Titans
 
-[原文] I played the Vendetta Zed vs. Shen Showdown decks with Riftbound game designer Jon Moormann, who spoke in depth about the new mechanics and keywords: Empower, Burn, and Flow.
+[原文] Path of Titans players are going viral for their touching in-game tribute to Sam Neill after news of the actor’s death wracked the Jurassic Park community.
 
-📎 [阅读原文](https://www.ign.com/articles/riftbound-vendetta-hands-on-preview-zed-vs-shen-showdown-deck-and-new-keywords-interview) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/jurassic-park-fans-go-viral-with-tear-jerking-tribute-to-sam-neill-in-path-of-titans) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post 2026 Lexus NX Hybrid Quick Review: I Finally Get Why People Buy These a
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. A Record-Warm Winter and Summer Heatwave Are Stoking Montana’s Wildfire Risk
+### 1. Latest Precipitation Models Still Seem to Underestimate Risk as ‘1,000-Year’ Rain Events Pummel Texas
+
+[原文] Parts of South Texas ravaged by flooding this week have logged a steep rise in rainfall intensity over recent decades, federal data show.&#160; The latest official dataset, published in 2018 by the Na
+
+📎 [阅读原文](https://insideclimatenews.org/news/17072026/texas-precipitation-models-underestimate-risk/) — *Inside Climate News*
+
+### 2. Wildfire Smoke Chokes Eastern and Midwestern Cities as Air Pollution Soars to Dangerously High Levels
+
+[原文] Smoke from climate change-fueled wildfires in Canada and northern Minnesota blanketed skies across much of the Midwest and East Coast, exposing millions of Americans to dangerous levels of air polluti
+
+📎 [阅读原文](https://insideclimatenews.org/news/17072026/wildfire-smoke-chokes-eastern-and-midwestern-cities/) — *Inside Climate News*
+
+### 3. Will Congress Ban ‘Mud Dumping’ in Mobile Bay?
+
+[原文] For decades, fishers, swimmers and environmental groups have complained that mud and silt from dredging operations in the Mobile Bay shipping channel have been smothering seagrasses, choking out oyste
+
+📎 [阅读原文](https://insideclimatenews.org/news/17072026/mobile-bay-dredged-mud-dumping-ban/) — *Inside Climate News*
+
+### 4. A Record-Warm Winter and Summer Heatwave Are Stoking Montana’s Wildfire Risk
 
 [原文] Just weeks ago, western Montana appeared to have escaped the early wildfires that forecasters feared after one of the warmest and driest winters on record, as heavy rains in late June soaked forests a
 
 📎 [阅读原文](https://insideclimatenews.org/news/17072026/montana-wildfire-risk-after-warm-winter-and-summer-heat/) — *Inside Climate News*
 
-### 2. After Months of Debate, Virginia Fails to Pass Data Center Clean Energy Requirements
+### 5. After Months of Debate, Virginia Fails to Pass Data Center Clean Energy Requirements
 
 [原文] RICHMOND, Va.—Before the start of Virginia’s legislative session in January, 53-year-old William Ward attended a Virginia League of Conservation Voters rally in Petersburg, where he learned about how 
 
 📎 [阅读原文](https://insideclimatenews.org/news/17072026/virginia-fails-to-require-data-centers-use-clean-energy/) — *Inside Climate News*
-
-### 3. Tribes and Environmental Groups Push Back on Trump Rule to Diminish Habitat Protections for Endangered Species
-
-[原文] Environmental groups and tribes are suing the Trump administration over a new rule eliminating the majority of habitat protections for imperiled wildlife protected by the Endangered Species Act.&#160;
-
-📎 [阅读原文](https://insideclimatenews.org/news/16072026/groups-push-back-on-trump-endangered-species-act-rule/) — *Inside Climate News*
-
-### 4. As Climate Extremes Collide, Attribution Science Evolves
-
-[原文] A new assessment from the United States&#8217; most influential science advisory panel says climate attribution science has moved beyond asking whether human-caused global warming is driving deadly he
-
-📎 [阅读原文](https://insideclimatenews.org/news/16072026/climate-event-attribution-science-evolves/) — *Inside Climate News*
-
-### 5. Without Tax Credits, EV Sales Are Searching for a Spark
-
-[原文] The U.S. electric vehicle market continues to suffer through a long hangover following the cancellation of federal tax credits. One of the keys to recovery is a model, or hopefully several models, tha
-
-📎 [阅读原文](https://insideclimatenews.org/news/16072026/inside-clean-energy-us-ev-sales/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post 2026 Lexus NX Hybrid Quick Review: I Finally Get Why People Buy These a
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Mariah Carey Honors ‘Daydream’ With Unreleased Songs, ‘Private Writing Sessions’
+### 1. Ariana Grande Surprises Fans as Ty Dolla $ign Joins Eternal Sunshine Tour to Duet ‘Safety Net’
+
+[原文] Grande invited Ty to the stage during her Brooklyn residency on Thursday
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/ariana-grande-ty-dolla-sign-eternal-sunshine-tour-1235595509/) — *Rolling Stone*
+
+### 2. Jelly Roll and Bunnie Xo Finalize Divorce: Report
+
+[原文] The two split after 10 years of marriage
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/jelly-roll-bunnie-xo-finalize-divorce-1235595450/) — *Rolling Stone*
+
+### 3. Ozzy Osbourne’s Hometown of Birmingham to Honor Singer on Anniversary of Death
+
+[原文] Ozzy Day on July 22 will celebrate “the life, legacy and Birmingham roots of the Prince of Darkness,” city council says
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/ozzy-osbournebirmingham-honor-singer-anniversary-death-1235595424/) — *Rolling Stone*
+
+### 4. Travis Scott Teams With James Blake, Ludwig Goransson for ‘The Odyssey’ Closer ‘When I’m Home’
+
+[原文] Rapper, who has a cameo role in Christopher Nolan’s epic, previously contributed end credits track to the director’s Tenet
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/travis-scott-james-blake-ludwig-goransson-the-odyssey-song-1235595206/) — *Rolling Stone*
+
+### 5. Mariah Carey Honors ‘Daydream’ With Unreleased Songs, ‘Private Writing Sessions’
 
 [原文] The superstar is celebrating her seminal album with an extended version, including rare demos, and remixes
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/mariah-carey-daydream-30th-anniversary-edition-1235595110/) — *Rolling Stone*
-
-### 2. Brandon Flowers Sings One for the Croupiers on New Song ‘Paradise’
-
-[原文] Song will appear on Killers frontman’s upcoming solo album, Thrasher
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/brandon-flowers-paradise-country-1235594687/) — *Rolling Stone*
-
-### 3. Lil Baby Drops Pharrell Williams-Produced Single ‘Dead Fresh’
-
-[原文] The rapper debuted the song last month at the Louis Vuitton’s Menswear Spring-Summer 2027 show in Paris
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/lil-baby-pharrell-williams-dead-fresh-single-1235595020/) — *Rolling Stone*
-
-### 4. Watch Gracie Abrams Showcase Evocative Song ‘Minibar’ on ‘Fallon’
-
-[原文] The singer also discussed her new album, Daughter From Hell, on the late-night show
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/gracie-abrams-minibar-performance-fallon-1235595016/) — *Rolling Stone*
-
-### 5. BTS Invite Fans to Look Beyond the Spotlight in ‘Normal’ Video
-
-[原文] The song features on the band’s massive hit album, Arirang
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/bts-normal-music-video-arirang-album-1235594976/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post 2026 Lexus NX Hybrid Quick Review: I Finally Get Why People Buy These a
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Travel Industry Was Banking on a World Cup Windfall. Here’s What the Numbers Show.
+### 1. Airbnb Partners With CarTrawler for Car Rentals in 5 Countries: Scoop
+
+[原文] Airbnb's partnership with CarTrawler on car rentals is Airbnb's latest step toward becoming a traditional online travel agency. CarTrawler is poised to become an Expedia brand, which will compete with
+
+📎 [阅读原文](https://skift.com/2026/07/17/airbnb-partners-with-cartrawler-for-car-rentals-in-5-countries-scoop/) — *Skift*
+
+### 2. The Travel Industry Was Banking on a World Cup Windfall. Here’s What the Numbers Show.
 
 [原文] The World Cup delivered real, rate-driven gains for hotels and short-term rentals. But the impact was barely noticed by U.S. airlines, and the international visitor boom is falling short of expectatio
 
 📎 [阅读原文](https://skift.com/2026/07/17/world-cup-impact-on-travel-industry/) — *Skift*
 
-### 2. Europe May Finally Charge International Flights for Emissions — U.S. and China Get a Pass
+### 3. Europe May Finally Charge International Flights for Emissions — U.S. and China Get a Pass
 
 [原文] Associations are unhappy with Europe’s plans to make the aviation industry pay more for its international emissions — for different reasons. One side argues proposals don’t go far enough, and the othe
 
 📎 [阅读原文](https://skift.com/2026/07/17/europe-eu-ets-international-flights/) — *Skift*
 
-### 3. The World Cup Travel Matrix
+### 4. The World Cup Travel Matrix
 
 [原文] Who lifted the trophy for the travel industry's World Cup? Behold Skift's winners, losers, floppers, and the freeloaders.
 
 📎 [阅读原文](https://skift.com/2026/07/17/the-world-cup-travel-matrix/) — *Skift*
 
-### 4. Allegiant, Long an OTA Holdout, Signs an Exclusive Deal With Expedia
+### 5. Allegiant, Long an OTA Holdout, Signs an Exclusive Deal With Expedia
 
 [原文] A shrinking number of airlines shun online travel agency distribution. Allegiant's deal with Expedia Group means it abandoned its direct-distribution-only strategy — one that it touted as advantageous
 
 📎 [阅读原文](https://skift.com/2026/07/17/allegiant-long-an-ota-holdout-signs-an-exclusive-deal-with-expedia/) — *Skift*
-
-### 5. Delta Adds LAX-Manila Route as the Battle for West Coast and Asia Heats Up
-
-[原文] Delta is focusing international growth out of the West Coast, looking to become the dominant carrier out of LAX.
-
-📎 [阅读原文](https://skift.com/2026/07/17/delta-adds-lax-manila-route/) — *Skift*
 
 ---
 
