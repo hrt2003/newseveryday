@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月18日** | 生成时间: 2026-07-18 10:47
+**2026年07月18日** | 生成时间: 2026-07-18 15:58
 
 ---
 
@@ -16,17 +16,17 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities
+### 1. US strikes hit Iran for seventh consecutive night
+
+[原文] Iran has retaliated against US allies in the region, with Kuwait reporting that a power and water plant had been hit.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities
 
 [原文] Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsening wildfire conditions.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 2. US strikes hit Iran for seventh consecutive night
-
-[原文] The US command says it is conducting more strikes to degrade Iran's armed forces, as Iran reports explosions near the Strait of Hormuz.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 3. Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC
 
@@ -34,17 +34,17 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. White House defends Argentina team over Falklands banner
+### 4. Space start-up launches India’s first commercial rocket designed for orbit
+
+[原文] India's first space-tech unicorn Skyroot Aerospace successfully launched Vikram-1 on Saturday.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. White House defends Argentina team over Falklands banner
 
 [原文] The comments could further fuel the row over the incident, which has seen Downing Street back calls for Fifa to investigate.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. One anti-war critic fined, another held as Russia clamps down on opponents
-
-[原文] While Boris Nadezhdin is barred from running for parliament, blogger Ilya Remeslo is remanded in custody.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cn0n3y6ewn4o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield
+### 1. Neil Rimer thinks the AI money is coming back out
+
+[原文] Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/) — *TechCrunch*
+
+### 2. Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield
 
 [原文] The window is almost shut. On August 19, eight startups will take the stage at Stripe Tour Sydney in front of investors, global press, and the Australian tech community. One startup walks away with au
 
 📎 [阅读原文](https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/) — *TechCrunch*
 
-### 2. Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs
+### 3. Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs
 
 [原文] From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/) — *TechCrunch*
 
-### 3. Databricks hits $188B valuation, extending its run as AI’s favorite second act
+### 4. Databricks hits $188B valuation, extending its run as AI’s favorite second act
 
 [原文] Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/) — *TechCrunch*
 
-### 4. The Zoom hack that says, ‘Don’t record me’
+### 5. The Zoom hack that says, ‘Don’t record me’
 
 [原文] If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?
 
 📎 [阅读原文](https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/) — *TechCrunch*
-
-### 5. Agility Robotics plants its flag in Tesla’s backyard
-
-[原文] Agility is opening a new training center for its Digit robots in Fremont, California.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/) — *TechCrunch*
 
 ---
 
@@ -168,11 +168,11 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. 'They made him a defensive player' - Trump questions Kane role in loss
+### 1. Defiant Tuchel defends decisions and says loss is 'scar we carry now'
 
-[原文] US President Donald Trump joins criticism of England's tactics in their World Cup semi-final loss to Argentina, by questioning Harry Kane's second-half "defensive" role.
+[原文] England head coach Thomas Tuchel defends his tactical decisions during the World Cup semi-final defeat by Argentina in a tense news conference.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cjej3y1jgdpo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c3r0l4zn9jpo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ### 2. Two-shot penalty 'fires up' Open contender DeChambeau
 
@@ -180,23 +180,23 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/cjd45x7vgz7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. The ultimate all-round sportsman - Sobers could do it all
+### 3. Rooney, Hart and Richards row down Hudson River
 
-[原文] Sir Garfield Sobers, who has died aged 89, was rightly chosen as one of the leading five cricketers of the 20th century - and will be remembered as arguably the best all-rounder in the history of the 
+[原文] Wayne Rooney rows down the Hudson River with fellow BBC pundits Joe Hart and Micah Richards.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c2xx42dle4go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c3w0p810dj9o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Tuchel urges England to finish strongly in emotional address
+### 4. 'They made him a defensive player' - Trump questions Kane role in semi
 
-[原文] England manager Thomas Tuchel urges his players to end the World Cup strongly in an emotional address after their agonising semi-final defeat by Argentina.
+[原文] US President Donald Trump joins criticism of England's tactics in their World Cup semi-final loss to Argentina, by questioning Harry Kane's second-half "defensive" role.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c62ergl0py2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cjej3y1jgdpo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. White House defends Argentina team over Falklands banner
+### 5. Best finishers, defensive kings & runners - World Cup finalists in numbers
 
-[原文] The comments could further fuel the row over the incident, which has seen Downing Street back calls for Fifa to investigate.
+[原文] European champions Spain will face World Cup holders and South American champions Argentina in the final. How do they compare? BBC Sport takes a look at the numbers.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c0rd8zrwvwno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Larry David Mocks RFK Jr. by Saying ‘Drop Dead, Bobby’ in New HBO Show, Which Reunites ‘Curb’ Cast Except for Cheryl Hines
+### 1. ‘Saiyaara’ Stars Ahaan Panday and Aneet Padda Mark Film’s First Year With Collector’s Edition Vinyl LP Launch at Wembley Stadium (EXCLUSIVE)
+
+[原文] Bollywood stars Ahaan Panday and Aneet Padda visited London&#8217;s Wembley Stadium to celebrate the first anniversary of &#8220;Saiyaara,&#8221; unveiling a collector&#8217;s edition vinyl LP of the 
+
+📎 [阅读原文](https://variety.com/2026/film/news/saiyaara-collector-vinyl-lp-wembley-anniversary-1236814816/) — *Variety*
+
+### 2. Tom Brady Slaps Logan Paul at Fanatics Fest, Calls Him a ‘Dork’ and ‘Nerd’ on X
+
+[原文] The beef between Tom Brady and Logan Paul continues. On Friday, the future NFL Hall of Famer and YouTuber-turned-WWE superstar shared the stage at Fanatics Fest in New York. But when their panel ended
+
+📎 [阅读原文](https://variety.com/2026/sports/news/tom-brady-slaps-logan-paul-fanatics-fest-fans-staged-1236815284/) — *Variety*
+
+### 3. Larry David Mocks RFK Jr. by Saying ‘Drop Dead, Bobby’ in New HBO Show, Which Reunites ‘Curb’ Cast Except for Cheryl Hines
 
 [原文] SPOILER ALERT: This interview contains spoilers for Episode 4 of “Life, Larry and the Pursuit of Unhappiness: An Almost History of America,” now streaming on HBO Max. Larry David weaponizes history to
 
 📎 [阅读原文](https://variety.com/2026/tv/news/larry-david-mocks-rfk-jr-hbo-show-1236806043/) — *Variety*
 
-### 2. Confused by ‘The Odyssey’? All the Timelines, Monsters and Greek Myths Explained
+### 4. Confused by ‘The Odyssey’? All the Timelines, Monsters and Greek Myths Explained
 
 [原文] “The Odyssey” is one hell of a journey. Once again, director Christopher Nolan enlists a cast of A-list actors and jumbles timelines to tell his ambitious version of Odysseus’ journey from Homer&#8217
 
 📎 [阅读原文](https://variety.com/2026/film/news/the-odyssey-explained-timelines-monsters-greek-legend-1236813704/) — *Variety*
 
-### 3. Colman Domingo and Robert O’Hara in Talks to Write Live-Action Princess Tiana Movie
+### 5. Colman Domingo and Robert O’Hara in Talks to Write Live-Action Princess Tiana Movie
 
 [原文] Emmy winner and Oscar nominee Colman Domingo and &#8220;Slave Play&#8221; director Robert O’Hara are in talks to write a live-action film about Princess Tiana from Disney&#8217;s &#8220;The Princess a
 
 📎 [阅读原文](https://variety.com/2026/film/news/colman-domingo-live-action-princess-tiana-movie-robert-ohara-princess-and-the-frog-1236815248/) — *Variety*
-
-### 4. Anne Hathaway’s 13 Best Performances: From ‘The Devil Wears Prada’ to ‘The Odyssey’
-
-[原文] From mega-hit franchises to a destructive drug addict to a cowgirl whose husband is hiding a secret love affair, Anne Hathaway has been one of Hollywood&#8217;s most versatile leading women for more t
-
-📎 [阅读原文](https://variety.com/lists/best-anne-hathaway-movies-performances-ranked/) — *Variety*
-
-### 5. Olivia Dean’s First U.S. Arena Tour Is Off to a Smashing Start, With L.A. Shows Proving She’s No One-Grammy Wonder: Concert Review
-
-[原文] Olivia Dean skipped a grade, as far as the touring circuit goes. Soon after taking the stage at L.A.&#8217;s Crypto.com Arena for a two-night stand this week, the singer said, &#8220;The last time we 
-
-📎 [阅读原文](https://variety.com/2026/music/concert-reviews/olivia-dean-concert-review-crypto-arena-tour-1236815197/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Colman Domingo and Robert O’Hara in Talks to Write Live-Action Princess and the Frog Tiana Spinoff Movie
+### 1. Jennifer English Steps Away From Tides of Annihilation Role Due to Health Concerns
+
+[原文] English actress Jennifer English is stepping away from her role as the protagonist in Eclipse Glow Games’ Tides of Annihilation due to health issues.
+
+📎 [阅读原文](https://www.ign.com/articles/jennifer-english-steps-away-from-tides-of-annihilation-role-due-to-health-concerns) — *IGN*
+
+### 2. Colman Domingo and Robert O’Hara in Talks to Write Live-Action Princess and the Frog Tiana Spinoff Movie
 
 [原文] Colman Domingo is in talks to co-write a live-action movie focused on Princess and the Frog protagonist Tiana Rogers alongside playwright and director Robert O’Hara.
 
 📎 [阅读原文](https://www.ign.com/articles/colman-domingo-and-robert-ohara-in-talks-to-write-live-action-princess-and-the-frog-tiana-spinoff-movie) — *IGN*
 
-### 2. The LEGO Exclusive Dungeons and Dragons Set Has Sold Out Just Days Before It Retires Forever
+### 3. The LEGO Exclusive Dungeons and Dragons Set Has Sold Out Just Days Before It Retires Forever
 
 暂无摘要。
 
 📎 [阅读原文](https://www.ign.com/articles/the-lego-exclusive-dungeons-and-dragons-set-has-sold-out-just-days-before-it-retires-forever) — *IGN*
 
-### 3. The Best Christopher Nolan Movies Ranked
+### 4. The Best Christopher Nolan Movies Ranked
 
 [原文] From his first film Following to his newest release The Odyssey, we rank the Christopher Nolan movies in order of worst to best.
 
 📎 [阅读原文](https://www.ign.com/articles/best-christopher-nolan-movies) — *IGN*
 
-### 4. Save $400 Off the Skytech Shadow RTX 5060 Ti 16GB Gaming PC, Now Just $1,500
+### 5. Save $400 Off the Skytech Shadow RTX 5060 Ti 16GB Gaming PC, Now Just $1,500
 
 [原文] A great prebuilt system for 1080p and 1440p gaming.
 
 📎 [阅读原文](https://www.ign.com/articles/skytech-shadow-rtx-5060-ti-16gb-gaming-pc-deal) — *IGN*
-
-### 5. Jurassic Park Fans Go Viral With Tear-Jerking Tribute to Sam Neill In Path of Titans
-
-[原文] Path of Titans players are going viral for their touching in-game tribute to Sam Neill after news of the actor’s death wracked the Jurassic Park community.
-
-📎 [阅读原文](https://www.ign.com/articles/jurassic-park-fans-go-viral-with-tear-jerking-tribute-to-sam-neill-in-path-of-titans) — *IGN*
 
 ---
 
@@ -439,35 +439,35 @@ The post 2026 Lexus NX Hybrid Quick Review: I Finally Get Why People Buy These a
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Ariana Grande Surprises Fans as Ty Dolla $ign Joins Eternal Sunshine Tour to Duet ‘Safety Net’
+### 1. How Metallica’s Lars Ulrich Was Inspired by U2’s Sphere Residency: ‘F-cking Awestruck’
+
+[原文] Metallica will kick off their Life Burns Faster residency at the Sphere Las Vegas in the fall
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/metallica-lars-ulrich-u2-sphere-residency-las-vegas-1235595521/) — *Rolling Stone*
+
+### 2. Ariana Grande Surprises Fans as Ty Dolla $ign Joins Eternal Sunshine Tour to Duet ‘Safety Net’
 
 [原文] Grande invited Ty to the stage during her Brooklyn residency on Thursday
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/ariana-grande-ty-dolla-sign-eternal-sunshine-tour-1235595509/) — *Rolling Stone*
 
-### 2. Jelly Roll and Bunnie Xo Finalize Divorce: Report
+### 3. Jelly Roll and Bunnie Xo Finalize Divorce: Report
 
 [原文] The two split after 10 years of marriage
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/jelly-roll-bunnie-xo-finalize-divorce-1235595450/) — *Rolling Stone*
 
-### 3. Ozzy Osbourne’s Hometown of Birmingham to Honor Singer on Anniversary of Death
+### 4. Ozzy Osbourne’s Hometown of Birmingham to Honor Singer on Anniversary of Death
 
 [原文] Ozzy Day on July 22 will celebrate “the life, legacy and Birmingham roots of the Prince of Darkness,” city council says
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/ozzy-osbournebirmingham-honor-singer-anniversary-death-1235595424/) — *Rolling Stone*
 
-### 4. Travis Scott Teams With James Blake, Ludwig Goransson for ‘The Odyssey’ Closer ‘When I’m Home’
+### 5. Travis Scott Teams With James Blake, Ludwig Goransson for ‘The Odyssey’ Closer ‘When I’m Home’
 
 [原文] Rapper, who has a cameo role in Christopher Nolan’s epic, previously contributed end credits track to the director’s Tenet
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/travis-scott-james-blake-ludwig-goransson-the-odyssey-song-1235595206/) — *Rolling Stone*
-
-### 5. Mariah Carey Honors ‘Daydream’ With Unreleased Songs, ‘Private Writing Sessions’
-
-[原文] The superstar is celebrating her seminal album with an extended version, including rare demos, and remixes
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/mariah-carey-daydream-30th-anniversary-edition-1235595110/) — *Rolling Stone*
 
 ---
 
