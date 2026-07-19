@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月19日** | 生成时间: 2026-07-19 11:17
+**2026年07月19日** | 生成时间: 2026-07-19 16:24
 
 ---
 
@@ -16,15 +16,15 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Two US troops killed and one missing after Iranian attack in Jordan
+### 1. US and Iran exchange strikes after two US soldiers killed in Jordan
 
-[原文] Iran and the US have traded strikes as hostilities re-escalated this week, with Tehran targeting US military facilities across the Gulf region.
+[原文] US forces target Iranian sites for the eighth night in a row, while Iran says it fired drones at the US military in Kuwait.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 2. Andrew Tate and brother arrested in US after more charges laid against them in UK
 
-[原文] The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are "innocent".
+[原文] The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
@@ -34,11 +34,11 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Russian online retail warehouses hit by deadly Ukrainian strikes
+### 4. Cuban dissident Luis Manuel Otero Alcántara goes into exile in US
 
-[原文] Drones targeted Wildberries facilities near Moscow and in Tambov. Ukraine's leader called them "major logistics facilities" supplying "sanctioned components".
+[原文] He was arrested in 2021 during Cuba's largest anti-government protests in decades and spent five years ⁠in prison.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2k77p2r1xo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 5. Hungary's president agrees to stand down after parliament backs removal
 
@@ -142,23 +142,23 @@
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260718010154.htm) — *Science Daily*
 
-### 3. Your fingers may hold a secret of human brain evolution
+### 3. Scientists identify the rare meteorite that killed the dinosaurs 66 million years ago
+
+[原文] The asteroid that wiped out the dinosaurs was likely an exceptionally rare CO chondrite from a distant region of the solar system. Its unusual chemistry suggests that planet-cooling dust and debris, r
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260718010142.htm) — *Science Daily*
+
+### 4. Your fingers may hold a secret of human brain evolution
 
 [原文] A study of 225 newborns suggests prenatal estrogen may have played a role in the evolution of larger human brains. Boys with finger-length patterns linked to higher estrogen exposure before birth tend
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260717033350.htm) — *Science Daily*
 
-### 4. Popular sugar substitutes linked to faster brain aging
+### 5. Popular sugar substitutes linked to faster brain aging
 
 [原文] Several popular sugar substitutes may not be as harmless as they seem. Adults who consumed the most artificial sweeteners showed substantially faster declines in memory and thinking, especially if the
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260717033213.htm) — *Science Daily*
-
-### 5. Earth’s biggest volcanic event transformed an entire oceanic plate
-
-[原文] Seismic waves have revealed that the oceanic plate beneath the Ontong Java Plateau was dramatically transformed by the colossal volcanic activity that created it more than 100 million years ago. Resea
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260716023618.htm) — *Science Daily*
 
 ---
 
@@ -170,7 +170,7 @@
 
 ### 1. Best England team for a long time? That's a fact, says Rice
 
-[原文] Midfielder Declan Rice says "this is the best England group for a very long time" after the Three Lions secure a third-placed finish at the 2026 World Cup.
+[原文] Midfielder Declan Rice says "this is the best England group for a very long time" after they secure a third-placed finish at the World Cup.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c4g34gjmyl7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
@@ -180,17 +180,17 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cm2gn7v4jljo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. England's best World Cup for 60 years - but how should it be judged?
+### 3. England's discipline 'verging on comical' - Dawson
 
-[原文] England have secured their best men's World Cup finish since winning the tournament 60 years ago. Is their performance at the 2026 edition being under-appreciated?
+[原文] Matt Dawson described England's discipline as "comical" and says they have a problem to address after receiving four yellow cards in the 31-24 win over Argentina.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c78g1p05025o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-union/articles/c75g629k44zo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Over to you, Messi - Mbappe leads Golden Boot race for the ages
+### 4. Fleetwood still dreaming as Burns leads an open Open
 
-[原文] Kylian Mbappe leads the Golden Boot race by two goals but Lionel Messi could yet overtake him in the World Cup final.
+[原文] Local favourite Tommy Fleetwood is five shots behind Open leader Sam Burns after two late bogeys threaten to crush his Birkdale dreams.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c89nl42dnpyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/c4gdl72zpvno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ### 5. How did England players rate during the World Cup?
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Andrew Tate and Brother Tristan Arrested in Miami
+### 1. MIFFest Opens Ninth Edition in Kuala Lumpur, Earns ASEAN Records Recognition
+
+[原文] The ninth Malaysia International Film Festival (MIFFest) opened on July 18 at MyTown Shopping Centre, kicking off an eight-day showcase of international cinema and marking the festival&#8217;s officia
+
+📎 [阅读原文](https://variety.com/2026/film/festivals/miffest-ninth-edition-asean-records-recognition-1236815732/) — *Variety*
+
+### 2. Andrew Tate and Brother Tristan Arrested in Miami
 
 [原文] Manosphere influencers Andrew and Tristan Tate were arrested by federal officers Saturday afternoon in Miami, according to AP. The charges against the brothers were not immediately made public. This i
 
 📎 [阅读原文](https://variety.com/2026/digital/news/andrew-tate-tristan-tate-arrested-miami-1236815654/) — *Variety*
 
-### 2. ‘Mexodus’ Review: The Underground Railroad Runs South to Mexico in a Pasadena Playhouse Musical That Feels as Spirited as a Two-Man ‘Hamilton’
+### 3. ‘Mexodus’ Review: The Underground Railroad Runs South to Mexico in a Pasadena Playhouse Musical That Feels as Spirited as a Two-Man ‘Hamilton’
 
 [原文] To paraphrase Aaliyah: Cast size ain&#8217;t nothing but a number. In the realm of the theater, no one exactly equates the number of headshots on a Playbill page with the ultimate fulfillment a stage 
 
 📎 [阅读原文](https://variety.com/2026/legit/reviews/mexodus-pasadena-playhouse-musical-theater-review-1236815638/) — *Variety*
 
-### 3. Christopher Nolan Says It Will Be ‘At Least’ Three Years Until He Makes Another Movie After ‘The Odyssey’ Pushed the ‘Limits of My Own Stamina’
+### 4. Christopher Nolan Says It Will Be ‘At Least’ Three Years Until He Makes Another Movie After ‘The Odyssey’ Pushed the ‘Limits of My Own Stamina’
 
 [原文] Christopher Nolan recently told “Today” that after giving it his all for “The Odyssey,” it will be “at least&#8221; three years until he makes another movie. “I definitely hit the limits of my own sta
 
 📎 [阅读原文](https://variety.com/2026/film/news/christopher-nolan-three-years-another-movie-the-odyssey-1236815625/) — *Variety*
 
-### 4. ‘Manhunter: The Final Cut’ Shows Why Director’s Cuts Are Almost Never an Improvement. But It’s Still the Greatest Thriller of Our Time
+### 5. ‘Manhunter: The Final Cut’ Shows Why Director’s Cuts Are Almost Never an Improvement. But It’s Still the Greatest Thriller of Our Time
 
 [原文] If you’re a movie buff, a cinephile, or whatever else you want to call it (I called my 2016 memoir &#8220;Movie Freak&#8221;), one of the greatest pleasures to be had is when a film grabs hold of you 
 
 📎 [阅读原文](https://variety.com/2026/film/columns/manhunter-the-final-cut-the-greatest-thriller-of-our-time-1236815424/) — *Variety*
-
-### 5. The Cure’s Robert Smith Slams FIFA’s World Cup Final Halftime Show: ‘Just F— Off’
-
-[原文] On the eve of the FIFA World Cup final featuring the first halftime show in its history, the Cure&#8217;s Robert Smith took to social media to slam the historic performance. &#8220;AAAAAAAAAAAAAAAAAAG
-
-📎 [阅读原文](https://variety.com/2026/music/news/robert-smith-fifa-world-cup-halftime-show-1236815510/) — *Variety*
 
 ---
 
@@ -441,7 +441,7 @@ The post What&#8217;s the Point of Concept Cars Anymore? W
 
 ### 1. Jennifer Finch, L7 Bassist, Dead at 59
 
-[原文] Rocker was diagnosed with aggressive form of brain cancer
+[原文] Rocker was diagnosed with an aggressive form of brain cancer
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/l7-jennifer-finch-dead-obituary-1235595523/) — *Rolling Stone*
 
