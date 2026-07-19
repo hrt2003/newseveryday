@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月19日** | 生成时间: 2026-07-19 03:10
+**2026年07月19日** | 生成时间: 2026-07-19 11:17
 
 ---
 
@@ -18,33 +18,33 @@
 
 ### 1. Two US troops killed and one missing after Iranian attack in Jordan
 
-[原文] The announcement comes after Jordan said it intercepted 10 Iranian missiles fired into its airspace overnight into Saturday.
+[原文] Iran and the US have traded strikes as hostilities re-escalated this week, with Tehran targeting US military facilities across the Gulf region.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Russian online retail warehouses hit by deadly Ukrainian strikes
+### 2. Andrew Tate and brother arrested in US after more charges laid against them in UK
+
+[原文] The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are "innocent".
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. Russians turn to cash, putting more strain on slowing wartime economy
+
+[原文] Russians have been hit by mobile internet shutdowns and more businesses are seeking to dodge tax after more than four years of war with Ukraine.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. Russian online retail warehouses hit by deadly Ukrainian strikes
 
 [原文] Drones targeted Wildberries facilities near Moscow and in Tambov. Ukraine's leader called them "major logistics facilities" supplying "sanctioned components".
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Hungary's president agrees to stand down after parliament backs removal
+### 5. Hungary's president agrees to stand down after parliament backs removal
 
 [原文] Tamás Sulyok, seen as an Orbán loyalist, had until Saturday night to agree to end his term.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cpd7q7eev7po?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC
-
-[原文] Protests erupted in Ukraine on Thursday after Mykhailo Fedorov's removal - and now soldiers are also criticising the move.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. German politician resigns over surrogacy child controversy
-
-[原文] Jens Spahn faced criticism over his use of a surrogate, a ban on which he previously backed.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cq56e9n1ddzo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,9 +54,9 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Iran supreme leader vows 'unforgettable lessons in store' for U.S. after calling off interim peace agreement
+### 1. Two U.S. service members killed in Jordan, one missing; Iran threatens 'unforgettable lessons' after calling off interim peace agreement
 
-[原文] U.S. Central Command says it continues to enforce a naval blockade against Iran, while Kuwait and Bahrain say they have intercepted more Iranian projectiles.
+[原文] When asked about Iran no longer abiding by the interim peace agreement, U.S. President Donald Trump reportedly said, "I couldn't care less."
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/18/us-military-says-it-completed-latest-round-of-strikes-against-iran.html) — *CNBC*
 
@@ -66,23 +66,23 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/18/world-cup-viewership-trump-democrats-republicans-poll.html) — *CNBC*
 
-### 3. 'WarshGPT': How Wall Street is adapting to the Fed's new era of communication
+### 3. Taylor Farms recalls iceberg lettuce in 27 states due to cyclosporiasis outbreak
+
+[原文] Taylor Farms is recalling iceberg lettuce in 27 states because of the potential that the greens could be contaminated with cyclosporiasis.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/18/taylor-farms-recalls-iceberg-lettuce-in-27-states-due-to-cyclosporiasis-outbreak.html) — *CNBC*
+
+### 4. 'WarshGPT': How Wall Street is adapting to the Fed's new era of communication
 
 [原文] Investment firms are readying for an era with less public commentary from the U.S. central bank. Some are relying on AI for an edge.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html) — *CNBC*
 
-### 4. Why Dana White thinks much more of UFC's future will be Power Slap and boxing
+### 5. Why Dana White thinks much more of UFC's future will be Power Slap and boxing
 
 [原文] UFC president and CEO Dana White predicted that Power Slap may become as big as his flagship fighting sport at the Game Plan conference in New York.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/18/ufc-dana-white-power-slap-boxing.html) — *CNBC*
-
-### 5. Analysis: Fed Chairman Warsh faces an inflation credibility test after Congress hearings
-
-[原文] The new Fed chairman avoided major stumbles in two days of testimony before the House and Senate, but faces a rapid test of his commitment to price stability.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/15/fed-chairman-kevin-warsh-inflation-credibility-test-analysis.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Kimi: Threat or menace?
+### 1. Waymo says San Francisco service has resumed after one-hour pause
+
+[原文] This isn’t the first time power outages have caused issues for Waymo.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/) — *TechCrunch*
+
+### 2. Kimi: Threat or menace?
 
 [原文] Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about "full AI communism."
 
 📎 [阅读原文](https://techcrunch.com/2026/07/18/kimi-threat-or-menace/) — *TechCrunch*
 
-### 2. All the EVs that were discontinued or killed off in the U.S. this year
+### 3. All the EVs that were discontinued or killed off in the U.S. this year
 
 [原文] Th Honda Prologue will no longer be sold in the U.S., joining a growing list of EV models to exit the market this year.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/) — *TechCrunch*
 
-### 3. Federal employees can download TikTok on their work phones again
+### 4. Federal employees can download TikTok on their work phones again
 
 [原文] The Department of Justice says that federal employees can now download TikTok on their government devices.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/) — *TechCrunch*
 
-### 4. A 600-mile road trip (and data) proves EV charging doesn’t suck anymore
+### 5. A 600-mile road trip (and data) proves EV charging doesn’t suck anymore
 
 [原文] A recent road trip in an EV revealed just how much faster and more reliable DC Fast charging has become in the U.S.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/18/a-600-mile-road-trip-and-data-proves-ev-charging-doesnt-suck-anymore/) — *TechCrunch*
-
-### 5. Neil Rimer thinks the AI money is coming back out
-
-[原文] Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/) — *TechCrunch*
 
 ---
 
@@ -130,35 +130,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Intermittent fasting helped people keep weight off for a year
+### 1. Common antidepressant may ease long COVID’s crushing fatigue
+
+[原文] A low-cost antidepressant may offer new hope for people struggling with long COVID fatigue. In a randomized clinical trial involving 399 adults, fluvoxamine significantly reduced fatigue and improved 
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260718010158.htm) — *Science Daily*
+
+### 2. Intermittent fasting helped people keep weight off for a year
 
 [原文] A 12-week intermittent fasting program produced weight-loss benefits that were still visible a year later. Participants who ate within an eight-hour window maintained more weight loss than those who f
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260718010154.htm) — *Science Daily*
 
-### 2. Your fingers may hold a secret of human brain evolution
+### 3. Your fingers may hold a secret of human brain evolution
 
 [原文] A study of 225 newborns suggests prenatal estrogen may have played a role in the evolution of larger human brains. Boys with finger-length patterns linked to higher estrogen exposure before birth tend
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260717033350.htm) — *Science Daily*
 
-### 3. Popular sugar substitutes linked to faster brain aging
+### 4. Popular sugar substitutes linked to faster brain aging
 
 [原文] Several popular sugar substitutes may not be as harmless as they seem. Adults who consumed the most artificial sweeteners showed substantially faster declines in memory and thinking, especially if the
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260717033213.htm) — *Science Daily*
 
-### 4. Earth’s biggest volcanic event transformed an entire oceanic plate
+### 5. Earth’s biggest volcanic event transformed an entire oceanic plate
 
 [原文] Seismic waves have revealed that the oceanic plate beneath the Ontong Java Plateau was dramatically transformed by the colossal volcanic activity that created it more than 100 million years ago. Resea
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260716023618.htm) — *Science Daily*
-
-### 5. Scientists built a camera that can track invisible particles in 3D
-
-[原文] A new particle detector called PLATON could replace millions of tiny detector components with a single block of light-producing material. Using a light-field camera, highly sensitive photon sensors, a
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260716023610.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Chelsea agree record £117m deal for Villa's Rogers
+### 1. Best England team for a long time? That's a fact, says Rice
 
-[原文] Chelsea have agreed a club record £117m deal to sign England international midfielder Morgan Rogers from Aston Villa.
+[原文] Midfielder Declan Rice says "this is the best England group for a very long time" after the Three Lions secure a third-placed finish at the 2026 World Cup.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c0ej1jyy8yyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c4g34gjmyl7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Britain's Kerr breaks 27-year mile world record in London
+### 2. England beat France in 10-goal thriller to win third-place play-off
 
-[原文] Great Britain's Josh Kerr smashes the long-standing men's mile world record in a spectacular performance at the London Diamond League.
+[原文] Bukayo Saka scores a hat-trick as England beat France 6-4 in a thriller to record their best men's World Cup finish since 1966.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/cx2jl1wge2po?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cm2gn7v4jljo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Antonelli takes Belgium pole from Verstappen
+### 3. England's best World Cup for 60 years - but how should it be judged?
 
-[原文] Mercedes' Kimi Antonelli takes pole position at the Belgian Grand Prix, leaving team-mate George Russell trailing in fourth.
+[原文] England have secured their best men's World Cup finish since winning the tournament 60 years ago. Is their performance at the 2026 edition being under-appreciated?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/cp8xep2w0epo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c78g1p05025o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Spain's final training session before World Cup final cancelled
+### 4. Over to you, Messi - Mbappe leads Golden Boot race for the ages
 
-[原文] Spain's final session before Sunday's World Cup final has been cancelled due to thunderstorms in New Jersey.
+[原文] Kylian Mbappe leads the Golden Boot race by two goals but Lionel Messi could yet overtake him in the World Cup final.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cly878gpgrlo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c89nl42dnpyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Wales held pointless again by seven-try South Africa
+### 5. How did England players rate during the World Cup?
 
-[原文] South Africa ease to a seven-try bonus-point victory over Wales in the third round of the Nations Championship in Durban.
+[原文] BBC Sport England reporter Alex Howell assess how the Three Lions' players fared in North America.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-union/articles/ckg9mprjrvjo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cx2jljx84rwo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Taylor Sheridan’s ‘Call of Duty’ Movie Will Be Set in ‘Modern Warfare’ Universe
+### 1. Andrew Tate and Brother Tristan Arrested in Miami
 
-[原文] Paramount Pictures&#8217; upcoming &#8220;Call of Duty&#8221; movie from writer Taylor Sheridan will be based on the Xbox-owned first-person shooter franchise&#8217;s &#8220;Modern Warfare&#8221; game
+[原文] Manosphere influencers Andrew and Tristan Tate were arrested by federal officers Saturday afternoon in Miami, according to AP. The charges against the brothers were not immediately made public. This i
 
-📎 [阅读原文](https://variety.com/2026/film/news/call-of-duty-movie-modern-warfare-games-1236815430/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/digital/news/andrew-tate-tristan-tate-arrested-miami-1236815654/) — *Variety*
 
-### 2. Jim Parsons was ‘Miserable’ During Peak ‘Big Bang Theory’ Popularity: ‘I Wouldn’t Do That Again and For Any Amount of Money’
+### 2. ‘Mexodus’ Review: The Underground Railroad Runs South to Mexico in a Pasadena Playhouse Musical That Feels as Spirited as a Two-Man ‘Hamilton’
 
-[原文] Jim Parsons recently told the “All Out with Jon Dean” podcast (via People) that he was “miserable” during the height of his long-running TBS sitcom “The Big Bang Theory.” “I look back now and realize 
+[原文] To paraphrase Aaliyah: Cast size ain&#8217;t nothing but a number. In the realm of the theater, no one exactly equates the number of headshots on a Playbill page with the ultimate fulfillment a stage 
 
-📎 [阅读原文](https://variety.com/2026/tv/news/jim-parsons-miserable-during-the-big-bang-theory-fame-1236815461/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/legit/reviews/mexodus-pasadena-playhouse-musical-theater-review-1236815638/) — *Variety*
 
-### 3. ‘The Odyssey’: What Academics Are Saying About Christopher Nolan’s Epic
+### 3. Christopher Nolan Says It Will Be ‘At Least’ Three Years Until He Makes Another Movie After ‘The Odyssey’ Pushed the ‘Limits of My Own Stamina’
 
-[原文] So, a Homerist, an archaeologist and a dentist walk into a bar.&#160; Fresh from a Thursday night showing of Christopher Nolan&#8217;s “The Odyssey,” a group of 17 spent the evening doing what scholar
+[原文] Christopher Nolan recently told “Today” that after giving it his all for “The Odyssey,” it will be “at least&#8221; three years until he makes another movie. “I definitely hit the limits of my own sta
 
-📎 [阅读原文](https://variety.com/2026/film/news/christopher-nolan-the-odyssey-adaptation-scholars-react-1236815190/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/christopher-nolan-three-years-another-movie-the-odyssey-1236815625/) — *Variety*
 
-### 4. Joe Caldwell, ‘Dark Shadows’ Writer, Dies at 97
+### 4. ‘Manhunter: The Final Cut’ Shows Why Director’s Cuts Are Almost Never an Improvement. But It’s Still the Greatest Thriller of Our Time
 
-[原文] Joe Caldwell, a writer known for his work on the original &#8220;Dark Shadows&#8221; TV series, died Monday following a stroke. He was 97. The news was confirmed by Bob Issel, who frequently hosts &#8
+[原文] If you’re a movie buff, a cinephile, or whatever else you want to call it (I called my 2016 memoir &#8220;Movie Freak&#8221;), one of the greatest pleasures to be had is when a film grabs hold of you 
 
-📎 [阅读原文](https://variety.com/2026/tv/news/joe-caldwell-dead-dark-shadows-1236815444/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/columns/manhunter-the-final-cut-the-greatest-thriller-of-our-time-1236815424/) — *Variety*
 
-### 5. My 2 a.m. ‘Odyssey’: Inside the Sold-Out, All-Night Screening of Christopher Nolan’s Epic
+### 5. The Cure’s Robert Smith Slams FIFA’s World Cup Final Halftime Show: ‘Just F— Off’
 
-[原文] The weather was mythical. Ninety-something degrees in Manhattan, with Canadian wildfire smoke painting the sky a hazy orange. It smelled like a barbecue of rotten onions; the air was a spritz of acid 
+[原文] On the eve of the FIFA World Cup final featuring the first halftime show in its history, the Cure&#8217;s Robert Smith took to social media to slam the historic performance. &#8220;AAAAAAAAAAAAAAAAAAG
 
-📎 [阅读原文](https://variety.com/2026/film/news/the-odyssey-2am-screenings-imax-70mm-1236815410/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/robert-smith-fifa-world-cup-halftime-show-1236815510/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Christopher Nolan's Long and Winding Road to The Odyssey
+### 1. Matt Damon Wants New Jason Bourne Movie to 'Be Like the First 3' as Work With Conclave Director Continues
+
+[原文] Just as The Odyssey makes landfall, star Matt Damon has offered an update on his new Jason Bourne movie with Conclave and All Quiet on the Western Front director Edward Berger.
+
+📎 [阅读原文](https://www.ign.com/articles/matt-damon-wants-new-jason-bourne-movie-to-be-like-the-first-3-as-work-with-conclave-director-continues) — *IGN*
+
+### 2. The Best Deals Today: PNY RTX 5070 OC, Apple AirPods 4, The Dark Knight Trilogy, and More
+
+暂无摘要。
+
+📎 [阅读原文](https://www.ign.com/articles/best-deals-for-july-18-2026) — *IGN*
+
+### 3. Steam Machine Engineers at Valve Signal Grim Future as Memory Crisis Is 'Still Getting Worse'
+
+[原文] Steam Machine engineers at Valve have warned the ongoing memory crisis in tech is "still getting worse" as buyers face already exorbitant prices.
+
+📎 [阅读原文](https://www.ign.com/articles/steam-machine-engineers-at-valve-signal-grim-future-as-memory-crisis-is-still-getting-worse) — *IGN*
+
+### 4. Call of Duty Movie to Take Place in the Modern Warfare Universe, Director Confirms
+
+[原文] Paramount Pictures and Activision have confirmed the upcoming Call of Duty movie will take place in its long-running Modern Warfare universe.
+
+📎 [阅读原文](https://www.ign.com/articles/call-of-duty-movie-to-take-place-in-the-modern-warfare-universe-director-confirms) — *IGN*
+
+### 5. Christopher Nolan's Long and Winding Road to The Odyssey
 
 [原文] Christopher Nolan’s many odysseys: How the filmmaker’s latest epic draws on his nearly three-decade career.
 
 📎 [阅读原文](https://www.ign.com/articles/christopher-nolans-long-and-winding-road-to-the-odyssey) — *IGN*
-
-### 2. Disco Elysium Dev ZA/UM Announces Layoffs Affecting Up to 32 Staff
-
-[原文] Disco Elysium developer ZA/UM has announced layoffs affecting up to 32 staff just two months after launching Zero Parades: For Dead Spies.
-
-📎 [阅读原文](https://www.ign.com/articles/disco-elysium-dev-zaum-announces-layoffs-affecting-up-to-32-staff) — *IGN*
-
-### 3. Christopher Nolan’s Take on the Gods of The Odyssey Is the Key to Unlocking the Film’s Biggest Mystery
-
-[原文] What is Zeus' Law? In Christopher Nolan's The Odyssey, the filmmaker uses the gods -- like Zendaya's Athena -- to set up the crux of the film's mystery.
-
-📎 [阅读原文](https://www.ign.com/articles/christopher-nolan-take-on-the-gods-of-the-odyssey-athena-zendaya) — *IGN*
-
-### 4. Christopher Nolan Says It Will Be 'At Least' 3 Years Before We See His Next Film, After The Odyssey Pushed Him to His Limits
-
-[原文] Christopher Nolan has said fans won’t see his next movie for “at least” three years, after directing The Odyssey pushed him to his limits.
-
-📎 [阅读原文](https://www.ign.com/articles/christopher-nolan-says-it-will-be-at-least-3-years-before-we-see-his-next-film-after-the-odyssey-pushed-him-to-his-limits) — *IGN*
-
-### 5. Jennifer English Steps Away From Tides of Annihilation Role Due to Health Concerns
-
-[原文] English actress Jennifer English is stepping away from her role as the protagonist in Eclipse Glow Games’ Tides of Annihilation due to health issues.
-
-📎 [阅读原文](https://www.ign.com/articles/jennifer-english-steps-away-from-tides-of-annihilation-role-due-to-health-concerns) — *IGN*
 
 ---
 
@@ -439,35 +439,35 @@ The post What&#8217;s the Point of Concept Cars Anymore? W
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Jelly Roll Goes to San Quentin for New Video ‘Hands Up’
+### 1. Jennifer Finch, L7 Bassist, Dead at 59
+
+[原文] Rocker was diagnosed with aggressive form of brain cancer
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/l7-jennifer-finch-dead-obituary-1235595523/) — *Rolling Stone*
+
+### 2. Jelly Roll Goes to San Quentin for New Video ‘Hands Up’
 
 [原文] "Truly one of the most special things I’ve ever had the opportunity to do," singer says of shooting visual at same California prison that Johnny Cash performed at
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/jelly-roll-san-quentin-new-video-hands-up-1235595617/) — *Rolling Stone*
 
-### 2. See Martin Garrix Debut New U2 Collaboration ‘Fireflies’ With the Edge at Tomorrowland
+### 3. See Martin Garrix Debut New U2 Collaboration ‘Fireflies’ With the Edge at Tomorrowland
 
 [原文] After premiering at Belgium EDM fest, DJ and Irish rockers' latest single together is "out soon"
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/martin-garrix-new-u2-song-fireflies-the-edge-tomorrowland-1235595612/) — *Rolling Stone*
 
-### 3. How Metallica’s Lars Ulrich Was Inspired by U2’s Sphere Residency: ‘F-cking Awestruck’
+### 4. How Metallica’s Lars Ulrich Was Inspired by U2’s Sphere Residency: ‘F-cking Awestruck’
 
 [原文] Metallica will kick off their Life Burns Faster residency at the Sphere Las Vegas in the fall
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/metallica-lars-ulrich-u2-sphere-residency-las-vegas-1235595521/) — *Rolling Stone*
 
-### 4. Ariana Grande Surprises Fans as Ty Dolla $ign Joins Eternal Sunshine Tour to Duet ‘Safety Net’
+### 5. Ariana Grande Surprises Fans as Ty Dolla $ign Joins Eternal Sunshine Tour to Duet ‘Safety Net’
 
 [原文] Grande invited Ty to the stage during her Brooklyn residency on Thursday
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/ariana-grande-ty-dolla-sign-eternal-sunshine-tour-1235595509/) — *Rolling Stone*
-
-### 5. Jelly Roll and Bunnie Xo Finalize Divorce: Report
-
-[原文] The two split after 10 years of marriage
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/jelly-roll-bunnie-xo-finalize-divorce-1235595450/) — *Rolling Stone*
 
 ---
 
