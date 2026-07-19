@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月19日** | 生成时间: 2026-07-19 16:24
+**2026年07月19日** | 生成时间: 2026-07-19 21:25
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. US and Iran exchange strikes after two US soldiers killed in Jordan
+### 1. US and Iran trade fire after two US soldiers killed in Jordan
 
-[原文] US forces target Iranian sites for the eighth night in a row, while Iran says it fired drones at the US military in Kuwait.
+[原文] Kuwait says an electricity and water plant is on fire after the second such attack in two days. Iran says US strikes hit an under-construction nuclear power plant.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Andrew Tate and brother arrested in US after more charges laid against them in UK
+### 2. Tate brothers arrested in US as further UK charges take total to 59
 
 [原文] The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Russians turn to cash, putting more strain on slowing wartime economy
+### 3. Russia launches major ballistic missile attack on Ukrainian cities
 
-[原文] Russians have been hit by mobile internet shutdowns and more businesses are seeking to dodge tax after more than four years of war with Ukraine.
+[原文] Five people are killed and at least 35 injured as Ukraine's two largest cities are targeted, as Kyiv continues its own assault on Russian infrastructure.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Cuban dissident Luis Manuel Otero Alcántara goes into exile in US
+### 4. New EU border system tripling time at passport control, airport boss says
+
+[原文] Ryanair has also warned passengers travelling to Europe this summer to prepare for extended waits.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Cuban dissident Luis Manuel Otero Alcántara goes into exile in US
 
 [原文] He was arrested in 2021 during Cuba's largest anti-government protests in decades and spent five years ⁠in prison.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2k77p2r1xo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Hungary's president agrees to stand down after parliament backs removal
-
-[原文] Tamás Sulyok, seen as an Orbán loyalist, had until Saturday night to agree to end his term.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cpd7q7eev7po?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Two U.S. service members killed in Jordan, one missing; Iran threatens 'unforgettable lessons' after calling off interim peace agreement
+### 1. U.S. says it targeted Iranian forces after attacks that killed two American service members
 
-[原文] When asked about Iran no longer abiding by the interim peace agreement, U.S. President Donald Trump reportedly said, "I couldn't care less."
+[原文] Centcom says it hit Iran's coastal surveillance and air defense facilities a day after two U.S. troops were killed in an Iranian strike on Jordan.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/18/us-military-says-it-completed-latest-round-of-strikes-against-iran.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/19/us-says-it-targeted-iran-forces-after-deaths-of-two-american-troops.html) — *CNBC*
 
-### 2. World Cup audience stayed bipartisan despite Trump's prominent role, CNBC survey finds
+### 2. American Airlines CEO lays out his vision to close a more than $3 billion profit gap
 
-[原文] Nearly half of registered voters watched the 2026 World Cup, with income and education shaping viewership more than party affiliation, the survey found.
+[原文] The carrier is working on improving reliability, investing in more premium seats and lounges, and considering Boeing and Airbus for a new wide-body plane order.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/18/world-cup-viewership-trump-democrats-republicans-poll.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/19/american-airlines-ceo.html) — *CNBC*
 
-### 3. Taylor Farms recalls iceberg lettuce in 27 states due to cyclosporiasis outbreak
+### 3. Cybersecurity risks posed by over-the-air tech in autos has analysts concerned
 
-[原文] Taylor Farms is recalling iceberg lettuce in 27 states because of the potential that the greens could be contaminated with cyclosporiasis.
+[原文] The automotive industry's increasing use of over-the-air technology makes it more susceptible to cyberattacks, analysts say.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/18/taylor-farms-recalls-iceberg-lettuce-in-27-states-due-to-cyclosporiasis-outbreak.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/18/over-the-air-tech-in-vehicles-poses-cybersecurity-risks.html) — *CNBC*
 
-### 4. 'WarshGPT': How Wall Street is adapting to the Fed's new era of communication
+### 4. Housing costs is the top political issue for young voters, CNBC survey finds
 
-[原文] Investment firms are readying for an era with less public commentary from the U.S. central bank. Some are relying on AI for an edge.
+[原文] The cost of housing is the top priority for voters ages 18 to 34, besting food and healthcare cost concerns, the CNBC All-America Economic Survey found.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/19/housing-costs-election-young-voters-cnbc-survey-finds.html) — *CNBC*
 
-### 5. Why Dana White thinks much more of UFC's future will be Power Slap and boxing
+### 5. Kalshi adds 3 million new users as prediction market capitalizes on the World Cup
 
-[原文] UFC president and CEO Dana White predicted that Power Slap may become as big as his flagship fighting sport at the Game Plan conference in New York.
+[原文] The prediction market has launched some ads featuring soccer players, as well as formed a partnership to display its brand in more places during the tournament.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/18/ufc-dana-white-power-slap-boxing.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/19/kalshi-adds-3-million-new-users-as-company-capitalizes-on-world-cup.html) — *CNBC*
 
 ---
 
@@ -130,35 +130,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Common antidepressant may ease long COVID’s crushing fatigue
+### 1. Coffee may help the body fight stress and aging through a hidden cellular switch
+
+[原文] Scientists may have uncovered one reason coffee is repeatedly associated with healthier aging and lower disease risk. Compounds in coffee appear to activate NR4A1, a receptor that helps protect cells 
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260719035927.htm) — *Science Daily*
+
+### 2. Common antidepressant may ease long COVID’s crushing fatigue
 
 [原文] A low-cost antidepressant may offer new hope for people struggling with long COVID fatigue. In a randomized clinical trial involving 399 adults, fluvoxamine significantly reduced fatigue and improved 
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260718010158.htm) — *Science Daily*
 
-### 2. Intermittent fasting helped people keep weight off for a year
+### 3. Intermittent fasting helped people keep weight off for a year
 
 [原文] A 12-week intermittent fasting program produced weight-loss benefits that were still visible a year later. Participants who ate within an eight-hour window maintained more weight loss than those who f
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260718010154.htm) — *Science Daily*
 
-### 3. Scientists identify the rare meteorite that killed the dinosaurs 66 million years ago
+### 4. Scientists identify the rare meteorite that killed the dinosaurs 66 million years ago
 
 [原文] The asteroid that wiped out the dinosaurs was likely an exceptionally rare CO chondrite from a distant region of the solar system. Its unusual chemistry suggests that planet-cooling dust and debris, r
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260718010142.htm) — *Science Daily*
 
-### 4. Your fingers may hold a secret of human brain evolution
+### 5. Your fingers may hold a secret of human brain evolution
 
 [原文] A study of 225 newborns suggests prenatal estrogen may have played a role in the evolution of larger human brains. Boys with finger-length patterns linked to higher estrogen exposure before birth tend
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260717033350.htm) — *Science Daily*
-
-### 5. Popular sugar substitutes linked to faster brain aging
-
-[原文] Several popular sugar substitutes may not be as harmless as they seem. Adults who consumed the most artificial sweeteners showed substantially faster declines in memory and thinking, especially if the
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260717033213.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Best England team for a long time? That's a fact, says Rice
+### 1. Messi on the brink of history - will it be his last World Cup game?
 
-[原文] Midfielder Declan Rice says "this is the best England group for a very long time" after they secure a third-placed finish at the World Cup.
+[原文] Argentina captain Lionel Messi will play his 34th World Cup match in Sunday's final, but will it be his last appearance?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c4g34gjmyl7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cql1xxxpndlo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. England beat France in 10-goal thriller to win third-place play-off
+### 2. Has Saka shown Tuchel he's too good to leave out?
 
-[原文] Bukayo Saka scores a hat-trick as England beat France 6-4 in a thriller to record their best men's World Cup finish since 1966.
+[原文] Bukayo Saka’s World Cup hat-trick against France reignited the selection debate and Thomas Tuchel’s decision to leave him out of the semi-final.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cm2gn7v4jljo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c0ejnwj0n4jo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. England's discipline 'verging on comical' - Dawson
+### 3. Argentina coach accuses England of lack of respect
 
-[原文] Matt Dawson described England's discipline as "comical" and says they have a problem to address after receiving four yellow cards in the 31-24 win over Argentina.
+[原文] Argentina heach coach Felipe Contepomi walks out of his news conference after the 31-24 defeat by England in the Nations Championship.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-union/articles/c75g629k44zo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-union/articles/cn4nvx0zxzqo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Fleetwood still dreaming as Burns leads an open Open
+### 4. No ODI century but Bethell helps England to stunning start
 
-[原文] Local favourite Tommy Fleetwood is five shots behind Open leader Sam Burns after two late bogeys threaten to crush his Birkdale dreams.
+[原文] Watch the best shots from Jacob Bethell as he makes 91 off 93 balls to put England on course for a big score in the series-deciding One Day International against India at Lord's.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/c4gdl72zpvno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/videos/c79gz38pjx8o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. How did England players rate during the World Cup?
+### 5. I've been a World Cup official - I promise you there is no favouritism
 
-[原文] BBC Sport England reporter Alex Howell assess how the Three Lions' players fared in North America.
+[原文] Darren Cann speaks to BBC Sport about the conspiracy theories around the World Cup and what referees really think.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cx2jljx84rwo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cm2g9g3v5gmo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. MIFFest Opens Ninth Edition in Kuala Lumpur, Earns ASEAN Records Recognition
+### 1. Brazil’s Gramado Fest Set to Honor ‘I’m Still Here’ Star Selton Mello and ‘The Secret Agent’ Standout Maria Fernanda Cândido
+
+[原文] As Brazil’s explosion on the Oscar and A-Fest scene turns its top actors into international stars, two of its biggest breakouts, “I’m Not Here” co-lead Selton Mello and “The Secret Agent” star María F
+
+📎 [阅读原文](https://variety.com/2026/film/global/gramado-festival-selton-mello-maria-fernanda-candido-globo-1236815847/) — *Variety*
+
+### 2. How to Watch the World Cup Final Halftime Show Live Online
+
+[原文] The FIFA World Cup is getting its own Super Bowl-style halftime show for the first time. Madonna, Shakira, Justin Bieber and BTS will co-headline the inaugural FIFA World Cup Final Halftime Show on Su
+
+📎 [阅读原文](https://variety.com/2026/shopping/news/how-to-watch-world-cup-halftime-show-live-online-streaming-1236814990/) — *Variety*
+
+### 3. MIFFest Opens Ninth Edition in Kuala Lumpur, Earns ASEAN Records Recognition
 
 [原文] The ninth Malaysia International Film Festival (MIFFest) opened on July 18 at MyTown Shopping Centre, kicking off an eight-day showcase of international cinema and marking the festival&#8217;s officia
 
 📎 [阅读原文](https://variety.com/2026/film/festivals/miffest-ninth-edition-asean-records-recognition-1236815732/) — *Variety*
 
-### 2. Andrew Tate and Brother Tristan Arrested in Miami
+### 4. Andrew Tate and Brother Tristan Arrested in Miami
 
 [原文] Manosphere influencers Andrew and Tristan Tate were arrested by federal officers Saturday afternoon in Miami, according to AP. The charges against the brothers were not immediately made public. This i
 
 📎 [阅读原文](https://variety.com/2026/digital/news/andrew-tate-tristan-tate-arrested-miami-1236815654/) — *Variety*
 
-### 3. ‘Mexodus’ Review: The Underground Railroad Runs South to Mexico in a Pasadena Playhouse Musical That Feels as Spirited as a Two-Man ‘Hamilton’
+### 5. ‘Mexodus’ Review: The Underground Railroad Runs South to Mexico in a Pasadena Playhouse Musical That Feels as Spirited as a Two-Man ‘Hamilton’
 
 [原文] To paraphrase Aaliyah: Cast size ain&#8217;t nothing but a number. In the realm of the theater, no one exactly equates the number of headshots on a Playbill page with the ultimate fulfillment a stage 
 
 📎 [阅读原文](https://variety.com/2026/legit/reviews/mexodus-pasadena-playhouse-musical-theater-review-1236815638/) — *Variety*
-
-### 4. Christopher Nolan Says It Will Be ‘At Least’ Three Years Until He Makes Another Movie After ‘The Odyssey’ Pushed the ‘Limits of My Own Stamina’
-
-[原文] Christopher Nolan recently told “Today” that after giving it his all for “The Odyssey,” it will be “at least&#8221; three years until he makes another movie. “I definitely hit the limits of my own sta
-
-📎 [阅读原文](https://variety.com/2026/film/news/christopher-nolan-three-years-another-movie-the-odyssey-1236815625/) — *Variety*
-
-### 5. ‘Manhunter: The Final Cut’ Shows Why Director’s Cuts Are Almost Never an Improvement. But It’s Still the Greatest Thriller of Our Time
-
-[原文] If you’re a movie buff, a cinephile, or whatever else you want to call it (I called my 2016 memoir &#8220;Movie Freak&#8221;), one of the greatest pleasures to be had is when a film grabs hold of you 
-
-📎 [阅读原文](https://variety.com/2026/film/columns/manhunter-the-final-cut-the-greatest-thriller-of-our-time-1236815424/) — *Variety*
 
 ---
 
@@ -363,35 +363,35 @@ The post What&#8217;s the Point of Concept Cars Anymore? W
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. What Will It Take To End the Slaughter of Dolphins in the Faroe Islands?
+### 1. The Clock Is Ticking for New Mexico to Cut Rio Grande Water Use
+
+[原文] Reporting supported by the Water Desk at the University of Colorado Boulder. HATCH, N.M.—After 13 years, Texas and New Mexico have finally reached a settlement in a Supreme Court case over Rio Grande 
+
+📎 [阅读原文](https://insideclimatenews.org/news/19072026/new-mexico-rio-grande-water-use/) — *Inside Climate News*
+
+### 2. A Texas-Sized Water Crisis
+
+[原文] Welcome to Inside Climate, a new podcast from the staff of Inside Climate News.&#160; In our second episode, co-host Jake Bolster interviews two of our Texas reporters, Dylan Baddour and Arcelia Marti
+
+📎 [阅读原文](https://insideclimatenews.org/news/19072026/inside-climate-podcast-texas-water-crisis/) — *Inside Climate News*
+
+### 3. What Will It Take To End the Slaughter of Dolphins in the Faroe Islands?
 
 [原文] On May 27, a massive pod of more than 400 long-finned pilot whales was spotted off the coast of Tórshavn, the capital of the Faroe Islands—a remote archipelago located about 200 miles north of Scotlan
 
 📎 [阅读原文](https://insideclimatenews.org/news/18072026/activists-fight-to-end-faroe-islands-dolphin-hunts/) — *Inside Climate News*
 
-### 2. Why Plastics Have Overtaken the Planet
+### 4. Why Plastics Have Overtaken the Planet
 
 [原文] From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Paloma Beltran with Judith Enck, the founder of advocacy group Beyond Plastics. After World 
 
 📎 [阅读原文](https://insideclimatenews.org/news/18072026/why-plastics-have-overtaken-the-planet/) — *Inside Climate News*
 
-### 3. Latest Precipitation Models Still Seem to Underestimate Risk as ‘1,000-Year’ Rain Events Pummel Texas
+### 5. Latest Precipitation Models Still Seem to Underestimate Risk as ‘1,000-Year’ Rain Events Pummel Texas
 
 [原文] Parts of South Texas ravaged by flooding this week have logged a steep rise in rainfall intensity over recent decades, federal data show.&#160; The latest official dataset, published in 2018 by the Na
 
 📎 [阅读原文](https://insideclimatenews.org/news/17072026/texas-precipitation-models-underestimate-risk/) — *Inside Climate News*
-
-### 4. Wildfire Smoke Chokes Eastern and Midwestern Cities as Air Pollution Soars to Dangerously High Levels
-
-[原文] Smoke from climate change-fueled wildfires in Canada and northern Minnesota blanketed skies across much of the Midwest and East Coast, exposing millions of Americans to dangerous levels of air polluti
-
-📎 [阅读原文](https://insideclimatenews.org/news/17072026/wildfire-smoke-chokes-eastern-and-midwestern-cities/) — *Inside Climate News*
-
-### 5. Will Congress Ban ‘Mud Dumping’ in Mobile Bay?
-
-[原文] For decades, fishers, swimmers and environmental groups have complained that mud and silt from dredging operations in the Mobile Bay shipping channel have been smothering seagrasses, choking out oyste
-
-📎 [阅读原文](https://insideclimatenews.org/news/17072026/mobile-bay-dredged-mud-dumping-ban/) — *Inside Climate News*
 
 ---
 
@@ -528,6 +528,7 @@ The post What&#8217;s the Point of Concept Cars Anymore? W
 ## ⚠️ 今日故障源
 
 - **🚗 汽车**: Roadshow, Autocar
+- **✈️ 旅游**: Nomadic Matt
 
 ---
 
