@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月20日** | 生成时间: 2026-07-20 17:21
+**2026年07月20日** | 生成时间: 2026-07-20 22:14
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. US soldier killed and one injured after Iranian attack in Iraq
+### 1. Trump says US strikes hit Iran in 'honour' of American soldiers killed
 
-[原文] The US military reports another death a day after two of its soldiers were killed in Jordan.
+[原文] Iran responded with attacks in Syria and Jordan, as two ships reportedly exploded in the Strait of Hormuz.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Food delivery rider wins China's top literary prize
+### 2. Boy, 13, dies during World Cup celebrations in Spain
+
+[原文] Two other young people were injured after a fountain partially collapsed in Salamanca's Ciudad Rodrigo.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c0qvdy0jv05o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. Police block thousands of 'cockroach' protesters marching on India's parliament
+
+[原文] Some protesters demanding education reforms said they were injured in clashes with police who banned the march.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvg9w9dxd7lo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. Food delivery rider wins China's top literary prize
 
 [原文] Wang Jibing is among blue-collar Chinese workers gaining wider attention for their literary works.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5ydr3xd0kvo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Norway opens new memorial for victims of 2011 massacre
+### 5. Scores feared dead after passenger ferry capsizes off Guyana
 
-[原文] The artwork in the capital Oslo was unveiled on Sunday ahead of the 15th anniversary of the attack.
+[原文] Sixty-seven people have been rescued but the ferry is thought to have had more than 130 people on board.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c07r9m22gyyo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Tate brothers arrested in US as further UK charges take total to 59
-
-[原文] The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Russia launches major ballistic missile attack on Ukrainian cities
-
-[原文] Eight people die and dozens are injured as several cities are hit by missile and drone attacks, while Kyiv continues its own assault on Russian infrastructure.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Boeing CEO says company still needs 'a couple more years' to repair finances before new jet
+### 1. Oil prices erase gains after Iran says U.S. talks could be pursued based on national interests
 
-[原文] CEO Kelly Ortberg signalled Boeing is focused more on stabilizing its existing business than rushing to develop a successor to its best-selling 737 MAX.
+[原文] American forces have started the ninth consecutive night of strikes against Iranian targets.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/20/boeing-ceo-ortberg-airbus-farnborough-737max.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/20/oil-prices-today-brent-wti-crude-us-iran-centcom-hormuz.html) — *CNBC*
 
-### 2. FIFA emerges as the $9 billion winner as the biggest, brashest World Cup ever draws to a close
+### 2. AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer
+
+[原文] AMD is taking aim at Nvidia with Helios, its first AI rack system, and has landed Microsoft as a new customer, joining Meta, OpenAI and Oracle.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/20/amd-helios-microsoft-ai-nvidia.html) — *CNBC*
+
+### 3. FIFA emerges as the $9 billion winner as the biggest, brashest World Cup ever draws to a close
 
 [原文] The football governing body presided over the most lucrative sporting event in history and is poised to net over $9 billion in revenue for 2026.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/20/world-cup-fifa-football-winner-tournament-spain.html) — *CNBC*
 
-### 3. From 'Super El Niño' to Europe’s extreme heatwave: How this year's weather shocks are rattling commodity markets
+### 4. Voters wary of government ownership in companies as Trump administration takes equity stakes
 
-[原文] Markets are underestimating the impact of climate volatility on a range of asset classes, commodity strategists say.
+[原文] About half of voters believe it isn't appropriate for the U.S. government to own stakes in companies, a new CNBC poll found.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/20/from-super-el-nio-to-europes-heatwave-how-to-trade-extreme-weather.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/20/trump-government-company-ownership-americans-wary-cnbc-poll.html) — *CNBC*
 
-### 4. U.S. death toll rises again as Iran war escalates over the weekend
+### 5. Alphabet stock pops on report it's developing a more efficient AI chip
 
-[原文] Centcom says it hit Iran's coastal surveillance and air defense facilities a day after two U.S. troops were killed in an Iranian strike on Jordan.
+[原文] The new AI chip, called "Frozen v2," would embed parts of Gemini's architecture directly into the silicon, according to the report.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/19/us-says-it-targeted-iran-forces-after-deaths-of-two-american-troops.html) — *CNBC*
-
-### 5. CNBC Daily Open: Burnham set to take helm of 'poverty stricken disaster,' says Trump
-
-[原文] Britain's new Prime Minister Andy Burnham faces instant pressure from President Trump to "open up" North Sea oil.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/20/daily-open-andy-burnam-uk-pm-trump.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/20/alphabet-googl-stock-ai-chip-report.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Netflix paid $587M for Ben Affleck’s AI filmmaking startup
+### 1. Hugging Face confirms breach affected internal datasets and credentials, urges users to take action
+
+[原文] Hugging Face is urging users to rotate any access tokens stored on the platform and review account activity.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/20/hugging-face-confirms-breach-affected-internal-datasets-and-credentials-urges-users-to-take-action/) — *TechCrunch*
+
+### 2. StrictlyVC returns to New York City September 10 to celebrate a huge year for the city’s startup community
+
+[原文] For the first time since 2024, StrictlyVC is coming back to New York City — and we're bringing the kind of access you’d expect from an under-wraps event to the whole startup, VC, and dealmaking commun
+
+📎 [阅读原文](https://techcrunch.com/2026/07/20/strictlyvc-returns-to-new-york-city-september-10-to-celebrate-a-huge-year-for-the-citys-startup-community/) — *TechCrunch*
+
+### 3. Netflix paid $587M for Ben Affleck’s AI filmmaking startup
 
 [原文] Netflix revealed that it paid $587 million in cash for InterPositive, a startup co-founded by Ben Affleck.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/) — *TechCrunch*
 
-### 2. What to watch for after Jensen Huang’s Japan visit
+### 4. What to watch for after Jensen Huang’s Japan visit
 
 [原文] Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/) — *TechCrunch*
 
-### 3. Can an Apple lawsuit derail OpenAI’s hardware plans?
+### 5. Can an Apple lawsuit derail OpenAI’s hardware plans?
 
-[原文] On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.
+[原文] On the latest episode of Equity, we debate whether Apple's lawsuit will cast a shadow over OpenAi's much-discussed plans to get into hardware and go public.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/) — *TechCrunch*
-
-### 4. TechCrunch Mobility: The battle over robotaxi rules
-
-[原文] Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/) — *TechCrunch*
-
-### 5. ‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’
-
-[原文] "Everybody knows the Greeks are inside."
-
-📎 [阅读原文](https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/) — *TechCrunch*
 
 ---
 
@@ -130,35 +130,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The mysterious hum heard around the world may finally have an explanation
+### 1. Some dinosaurs could rise like giants until they grew too big
+
+[原文] Two elephant-sized South American sauropods were unusually well built for standing on their hind legs. Digital tests showed that their robust femurs handled the enormous forces better than those of la
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260719231758.htm) — *Science Daily*
+
+### 2. The mysterious hum heard around the world may finally have an explanation
 
 [原文] The mysterious sound known as The Hum has been reported worldwide for decades, yet its source often remains impossible to find. Researchers tested whether people who hear it have exceptional low-frequ
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260719040002.htm) — *Science Daily*
 
-### 2. Coffee may help the body fight stress and aging through a hidden cellular switch
+### 3. An ordinary laptop solved a problem thought to require a quantum computer
 
-[原文] Scientists may have uncovered one reason coffee is repeatedly associated with healthier aging and lower disease risk. Compounds in coffee appear to activate NR4A1, a receptor that helps protect cells 
+[原文] A quantum problem once described as impossible for classical computers has now been solved using relatively modest hardware. Researchers used tensor networks to compress the overwhelming wave function
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260719035927.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260719040000.htm) — *Science Daily*
 
-### 3. Common antidepressant may ease long COVID’s crushing fatigue
+### 4. Earth’s waters are quietly running out of oxygen, scientists warn
 
-[原文] A low-cost antidepressant may offer new hope for people struggling with long COVID fatigue. In a randomized clinical trial involving 399 adults, fluvoxamine significantly reduced fatigue and improved 
+[原文] Oxygen is disappearing from oceans, lakes, rivers, and coastal waters at an alarming rate, threatening aquatic life and weakening the natural processes that help regulate Earth’s climate. Scientists w
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260718010158.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260719035939.htm) — *Science Daily*
 
-### 4. A tiny universe in a bottle reveals clues to the origins of life
+### 5. Alzheimer’s breakthrough: Scientists restore two hours of sleep without clearing brain plaques
 
-[原文] Researchers have created cosmic dust from scratch by recreating space-like conditions inside glass tubes. The dust contains complex carbon-rich molecules built from elements essential to life and prod
+[原文] Researchers have uncovered a surprising culprit behind sleep loss in Alzheimer’s disease: the brain’s own immune cells. In mice with amyloid plaques, overactive microglia triggered inflammation that k
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260718010156.htm) — *Science Daily*
-
-### 5. Intermittent fasting helped people keep weight off for a year
-
-[原文] A 12-week intermittent fasting program produced weight-loss benefits that were still visible a year later. Participants who ate within an eight-hour window maintained more weight loss than those who f
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260718010154.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260719035931.htm) — *Science Daily*
 
 ---
 
@@ -168,11 +168,11 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Lamine Yamal 'completes football' at 19 as Argentina betray Messi
+### 1. Best goal, best player, best fans - BBC reporters' World Cup awards
 
-[原文] Spain's Lamine Yamal takes the glory of World Cup victory as the great Lionel Messi's evening ends in tears.
+[原文] BBC Sport reporters pick their best moments of the tournament - and you can vote for yours.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c0m7zx38v43o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cdxd1pq4nrko?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ### 2. Stay or go - at 28, Rashford faces big Man Utd call
 
@@ -180,23 +180,23 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cy8m7n5827xo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Victory for football? Spain beat Argentina to win World Cup
+### 3. Could Infantino really push through a 64-team World Cup?
 
-[原文] It might seem like a trite cliche, but you won't find many neutrals disagreeing with that verdict on the World Cup final.
+[原文] If we have learned one thing from Gianni Infantino's Fifa tenure, it is that more is better. That could mean 64 teams at the World Cup.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cdx8veqllw7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cly7ley50g9o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. How the World Cup has affected your Premier League team
+### 4. How fast Fox trumped divisive DeChambeau to win Open
+
+[原文] Ryan Fox's pacy play set him apart from his peers as he triumphed at a fiery Birkdale that threatened to be overshadowed by Bryson DeChambeau's penalty, writes Iain Carter.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/cn4n2r3de84o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 5. How the World Cup has affected your Premier League team
 
 [原文] Now Spain have been crowned world champions after victory over Argentina in New Jersey, attention will quickly shift to the new domestic season.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c3ek99pz1wgo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Argentina boss Scaloni leaves news conference in tears talking about his future
-
-[原文] Argentina manager Lionel Scaloni leaves his post-match news conference after Sunday's World Cup final defeat by Spain in tears.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cdew76g9d1zo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. James Gray to Be Honored With Locarno Film Festival Career Award
+### 1. Bill Nighy, Gemma Arterton, Nell Tiger Free Set for PBS, BBC Adaptation of Henry James’ ‘The Portrait of a Lady’
 
-[原文] The Locarno Film Festival will honor James Gray with a lifetime career award at this year&#8217;s edition, where the U.S. auteur&#8217;s most recent work, &#8220;Paper Tiger,&#8221; will screen. Gray 
+[原文] Henry James’ classic novel “The Portrait of a Lady” is set to be adapted for Masterpiece on PBS and the BBC, starring Bill Nighy, Gemma Arterton and Nell Tiger Free. “Game of Thrones” star Free will l
 
-📎 [阅读原文](https://variety.com/2026/film/festivals/james-gray-honored-locarno-film-festival-career-award-1236816325/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/global/bill-nighy-gemma-arterton-nell-tiger-free-the-portrait-of-a-lady-1236816416/) — *Variety*
 
-### 2. ‘Shrimad Bhagavatam’ Anchors Sagar Pictures Entertainment’s Global Push, Indian Studio Confirms (EXCLUSIVE)
+### 2. ‘Camp’ Review: Guilt Is the Villain in a Transfixing, Grief-Stricken Tale of Sisterhood and Witchcraft
 
-[原文] Sagar Pictures Entertainment (SPE) has confirmed the launch of a global studio business, moving beyond film and television production into an intellectual property-led growth strategy spanning gaming,
+[原文] Emily (Zola Grimmer) can’t help but be forthcoming when, in a juvenile game of truth or dare at a party, she’s asked to confess her biggest regret. She first opts for a harmless revelation, but when p
 
-📎 [阅读原文](https://variety.com/2026/film/news/shrimad-bhagavatam-sagar-pictures-entertainment-global-studio-1236816382/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/reviews/camp-review-1236814849/) — *Variety*
 
-### 3. ‘New-Gen’ Universe Launches First Consumer Products Line With Comic-Con Trading Cards (EXCLUSIVE)
+### 3. ‘Masters of the Universe’ Sets Prime Video Streaming Release Date
 
-[原文] New-Gen Universe, Inc. is launching its first consumer products initiative at San Diego Comic-Con, debuting an exclusive collector&#8217;s trading card set made with Cryptozoic Entertainment to celebr
+[原文] “Masters of the Universe” will be available to stream on Prime Video starting July 22. The movie had a disappointing run at the summer box office with just $113 million worldwide. The film is based on
 
-📎 [阅读原文](https://variety.com/2026/tv/news/new-gen-universe-comic-con-trading-cards-cryptozoic-1236816359/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/masters-of-the-universe-prime-video-release-date-streaming-1236798934/) — *Variety*
 
-### 4. Korea Box Office: Na Hong-Jin’s ‘Hope’ Rules With 66% Market Share
+### 4. Brunello Cucinelli Docufilm ‘The Gracious Visionary’ Sells Internationally Ahead of North American Release (EXCLUSIVE)
 
-[原文] Local science-fiction survival thriller &#8220;Hope&#8221; stormed the top of the South Korean box office during the weekend of Jul. 17–19. According to data from KOBIS, the tracking service operated 
+[原文] Oscar-winning director&#160;Giuseppe Tornatore‘s docufilm “Brunello: The Gracious Visionary” — about&#160;Brunello Cucinelli, the fashion designer known as Italy’s “King of Cashmere” — has been sold t
 
-📎 [阅读原文](https://variety.com/2026/film/box-office/korea-box-office-na-hong-jin-hope-1236816346/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/brunello-cucinelli-visionary-sales-american-release-1236816367/) — *Variety*
 
-### 5. ‘Shark Tank India’ Sets Season 6 With Parrot Campaign on SonyLIV (EXCLUSIVE)
+### 5. ‘Avengers: Doomsday’ Trailer: Doctor Doom Battles the MCU, X-Men and Avengers Face Off, Captain America Returns
 
-[原文] &#8220;Shark Tank India&#8221; has unveiled &#8220;#DontBeATota,&#8221; a campaign taking aim at founders who mistake the language of entrepreneurship for the substance of it, as the show opens its si
+[原文] The first trailer for &#8220;Avengers: Doomsday&#8221; is finally here. After being shown to CinemaCon attendees in April, the full &#8220;Doomsday&#8221; trailer is now public and brings together nea
 
-📎 [阅读原文](https://variety.com/2026/tv/news/shark-tank-india-season-6-sonyliv-1236815830/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/avengers-doomsday-trailer-doctor-doom-x-men-fantastic-four-1236580146/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Rick and Morty Season 9, Episode 9 Review & Recap: "Salute Your Morts"
+### 1. Batman by Scott Snyder & Greg Capullo Omnibus Vol. 1 Is 50% Off at Amazon Today
 
-[原文] Rick and Morty Season 9's penultimate episode is a wacky romp, one that finally turns the spotlight to the oft-ignored Beth. Read our full review.
+[原文] Amazon has recently slashed prices on a slew of must read Batman comics. Here's what's up for grabs at a discount.
 
-📎 [阅读原文](https://www.ign.com/articles/rick-and-morty-season-9-episode-9-review-recap-salute-your-morts) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/batman-by-scott-snyder-greg-capullo-omnibus-vol-1-is-50-off-at-amazon-today) — *IGN*
 
-### 2. House of the Dragon: Why Did Vhagar Abandon Aemond?
+### 2. Is Robert Downey Jr's Doctor Doom the Hero or Villain of Avengers: Doomsday?
 
-[原文] One of the most curious events in this episode is the disappearance of the dragon Vhagar, who apparently abandoned her ailing rider Aemond at Harrenhal to go on a countryside spree while he recovers f
+[原文] The first full trailer for Avengers: Doomsday finally gives us a proper loo kat Robert Downey, Jr.'s Doctor Doom. But is this powerful figure really the villain of the film?
 
-📎 [阅读原文](https://www.ign.com/articles/house-of-the-dragon-why-vhagar-abandoned-aemond) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/is-robert-downey-jrs-doctor-doom-the-hero-or-villain-of-avengers-doomsday) — *IGN*
 
-### 3. The Vampire Lestat Showrunner Reveals Hidden Meanings and Future Stories Hinted at in the Season 3 Finale
+### 3. Oni Press and The Nacelle Company Join Forces for The Art of The Toys That Made Us
 
-[原文] The Vampire Lestat showrunner Rolin Jones unpacks the parallel journeys of Louis and Lestat… as well as that massive cliffhanger in the season finale, "The Failures."
+[原文] Before the hit Netflix documentary returns for Season 4, you can check out our exclusive preview of The Art of The Toys That Made Us, including some one-of-a-kind Biker Mice From Mars figures.
 
-📎 [阅读原文](https://www.ign.com/articles/the-vampire-lestat-showrunner-reveals-hidden-meanings-and-future-stories-hinted-at-in-the-season-3-finale) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/oni-press-and-the-nacelle-company-join-forces-for-the-art-of-the-toys-that-made-us) — *IGN*
 
-### 4. House of the Dragon Season 3, Episode 5 Recap and Review
+### 4. First Proper Avengers: Doomsday Trailer Reveals Thor, Steve Rogers, and Doctor Doom Himself
 
-[原文] House of the Dragon: Season 3 continues to fire on all cylinders – or dragons, possibly. Even as viewers we can see the forces aligning against Rhaenyra and the pitfalls that surround her, and yet she
+[原文] Marvel Studios has released the first proper Avengers: Doomsday trailer as tickets go on sale.
 
-📎 [阅读原文](https://www.ign.com/articles/house-of-the-dragon-season-3-episode-5-recap-review) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/first-proper-avengers-doomsday-trailer-reveals-thor-steve-rogers-and-doctor-doom-himself) — *IGN*
 
-### 5. Call of Duty Ambience Website Lets You Fall Asleep to Nostalgic Black Ops and MW2 Lobbies
+### 5. Corsair Mechanical Keyboard Deals: Save up to 50% at Amazon UK
 
-[原文] Have you ever wanted to fall asleep to the sound of Call of Duty players screaming through a $5 mic and into your ear? No? Well, Call of Duty Ambience is here anyway.
+[原文] Save up to 50% on premium Corsair mechanical keyboards at Amazon UK, featuring massive price drops on the popular K70 PRO TKL, K100, and Vanguard Pro 96.
 
-📎 [阅读原文](https://www.ign.com/articles/call-of-duty-ambience-website-lets-you-fall-asleep-to-nostalgic-black-ops-and-mw2-lobbies) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/corsair-mechanical-keyboard-deals-amazon-uk) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Oil Viscosity Keeps Your Engine Alive. A Scientist Just Found Its ‘Absolute Cosmic Limit’
+### 1. Honda Wants to Capitalize on North American Demand With Another Factory: TDS
+
+[原文] North America carried Honda last year, representing 40% of its global sales. That could result in an eighth factory in the region.
+The post Honda Wants to Capitalize on North American Demand With Anot
+
+📎 [阅读原文](https://www.thedrive.com/news/honda-wants-to-capitalize-on-north-american-demand-with-another-factory-tds) — *The Drive*
+
+### 2. Why Hagerty Is the Go-To Insurance for Classic Car Collectors
+
+[原文] You spend time, money and heart on your collector car. Your car insurance should be matching your efforts every step of the way.
+The post Why Hagerty Is the Go-To Insurance for Classic Car Collectors 
+
+📎 [阅读原文](https://www.thedrive.com/sponsored/why-hagerty-is-the-go-to-insurance-for-classic-car-collectors) — *The Drive*
+
+### 3. Oil Viscosity Keeps Your Engine Alive. A Scientist Just Found Its ‘Absolute Cosmic Limit’
 
 [原文] The theoretical maximum viscosity of motor oil could be beyond human comprehension.
 The post Oil Viscosity Keeps Your Engine Alive. A Scientist Just Found Its ‘Absolute Cosmic Limit’ appeared first on
 
 📎 [阅读原文](https://www.thedrive.com/news/oil-viscosity-keeps-your-engine-alive-a-scientist-just-found-its-absolute-cosmic-limit) — *The Drive*
 
-### 2. Bentley Thinks Drums Are the Most Natural Replacement for V8 Sounds in EVs
+### 4. Bentley Thinks Drums Are the Most Natural Replacement for V8 Sounds in EVs
 
 [原文] A great exhaust note is often compared to music. The Torcal's soundtrack will literally be music.
 The post Bentley Thinks Drums Are the Most Natural Replacement for V8 Sounds in EVs appeared first on 
 
 📎 [阅读原文](https://www.thedrive.com/news/bentley-thinks-drums-are-the-most-natural-replacement-for-v8-sounds-in-evs) — *The Drive*
 
-### 3. Please Enjoy This Japanese Racing Shop Building an Engine
+### 5. Please Enjoy This Japanese Racing Shop Building an Engine
 
 [原文] Don't know what to watch this weekend? How about this incredibly detailed engine build video?
 The post Please Enjoy This Japanese Racing Shop Building an Engine appeared first on The Drive.
 
 📎 [阅读原文](https://www.thedrive.com/news/please-enjoy-this-japanese-racing-shop-building-an-engine) — *The Drive*
-
-### 4. Why NASCAR Is Only Running 465 HP at Its Next Daytona Race
-
-[原文] NASCAR stock cars will have less power than a Mustang GT on the biggest ovals, but as part of rules tweaks that will hopefully improve racing.
-The post Why NASCAR Is Only Running 465 HP at Its Next Da
-
-📎 [阅读原文](https://www.thedrive.com/news/why-nascar-is-only-running-465-hp-at-its-next-daytona-race) — *The Drive*
-
-### 5. Locals Keep Driving on This Buckled Bridge Because It’s Quicker Than the Detour
-
-[原文] The concrete span buckled in a 2023 storm, but never got repaired. That hasn't stopped people from driving across it, though.
-The post Locals Keep Driving on This Buckled Bridge Because It&#8217;s Qui
-
-📎 [阅读原文](https://www.thedrive.com/news/locals-keep-driving-on-this-buckled-bridge-because-its-quicker-than-the-detour) — *The Drive*
 
 ---
 
@@ -363,7 +363,7 @@ The post Locals Keep Driving on This Buckled Bridge Because It&#8217;s Qui
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Thriving Coral Reef that ‘Defeated Time’ in West Africa
+### 1. The Thriving Coral Reef That ‘Defeated Time’ in West Africa
 
 [原文] In the 1960s, fishing surveyors off West Africa’s Benin coast hauled up heads of coral in their nets. Employed by local governments to assess fish diversity and discover potentially trawlable seabeds 
 
@@ -447,7 +447,7 @@ The post Locals Keep Driving on This Buckled Bridge Because It&#8217;s Qui
 
 ### 2. Gracie Abrams Shares Two Bonus ‘Daughter From Hell’ Tracks
 
-[原文] The musician's third album, produced by Aaron Dessner, dropped last week
+[原文] The musician’s third album, produced by Aaron Dessner, dropped last week
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/gracie-abrams-daughter-from-hell-bonus-tracks-1235595848/) — *Rolling Stone*
 
@@ -459,13 +459,13 @@ The post Locals Keep Driving on This Buckled Bridge Because It&#8217;s Qui
 
 ### 4. Post Malone Debuts New Song ‘Chrome Heartbreaker’ at World Cup Final Pregame Ceremony
 
-[原文] Jennifer Hudson delivered the United States national anthem and IShowSpeed performed "Champions" before Spain and Argentina match at New York New Jersey Stadium
+[原文] Jennifer Hudson delivered the United States national anthem and IShowSpeed performed “Champions” before Spain and Argentina match at New York New Jersey Stadium
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/post-malone-performance-world-cup-final-pregame-ceremony-1235594952/) — *Rolling Stone*
 
 ### 5. Noah Kahan’s Queens Concert Canceled Due to Inclement Weather: ‘I’m Devastated’
 
-[原文] Saturday's show at Citi Field canceled at last minute after "it became clear that it wasn't safe for us, the crew or all of you"; singer still booked to play Sunday night at Mets' stadium
+[原文] Saturday’s show at Citi Field canceled at last minute after “it became clear that it wasn’t safe for us, the crew or all of you”; singer still booked to play Sunday night at Mets’ stadium
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/noah-kahan-queens-concert-canceled-inclement-weather-1235595704/) — *Rolling Stone*
 
@@ -477,35 +477,35 @@ The post Locals Keep Driving on This Buckled Bridge Because It&#8217;s Qui
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Ari Emanuel Is Assembling a Live Tourism Conglomerate
+### 1. Hotel Brands Circle Student Housing: 4 Income Streams
+
+[原文] The appeal is in diversifying across multiple income streams: students, extended-stay, traditional brief hotel stays, and coworking.
+
+📎 [阅读原文](https://skift.com/2026/07/20/hotel-brands-circle-student-housing-4-income-streams/) — *Skift*
+
+### 2. Travel Marketing’s Next KPI Is Economic Impact, Not Impressions
+
+[原文] Travel marketers have become experts at measuring campaign activity. The challenge now is connecting that activity to visitation, traveler value, and economic impact while campaigns are still running.
+
+📎 [阅读原文](https://skift.com/2026/07/20/ai-economic-impact-travel-marketing/) — *Skift*
+
+### 3. How Thailand Is Trying to Win Back Chinese Tourists
+
+[原文] Thailand is shifting from reassurance to access, betting that easier travel and deeper ties with China's interior will restore Chinese arrivals before rivals like Malaysia turn their gains into lastin
+
+📎 [阅读原文](https://skift.com/2026/07/20/how-thailand-is-trying-to-win-back-chinese-tourists/) — *Skift*
+
+### 4. Ari Emanuel Is Assembling a Live Tourism Conglomerate
 
 [原文] The companies that originate trips do not need to call themselves travel companies to capture travel's economics, and Ari Emanuel is demonstrating it across three of them.
 
 📎 [阅读原文](https://skift.com/2026/07/18/ari-emanuel-is-assembling-a-live-tourism-conglomerate/) — *Skift*
 
-### 2. Airbnb Partners With CarTrawler for Car Rentals in 5 Countries: Scoop
+### 5. Airbnb Partners With CarTrawler for Car Rentals in 5 Countries: Scoop
 
 [原文] Airbnb's partnership with CarTrawler on car rentals is Airbnb's latest step toward becoming a traditional online travel agency. CarTrawler is poised to become an Expedia brand, which will compete with
 
 📎 [阅读原文](https://skift.com/2026/07/17/airbnb-partners-with-cartrawler-for-car-rentals-in-5-countries-scoop/) — *Skift*
-
-### 3. The Travel Industry Was Banking on a World Cup Windfall. Here’s What the Numbers Show.
-
-[原文] The World Cup delivered real, rate-driven gains for hotels and short-term rentals. But the impact was barely noticed by U.S. airlines, and the international visitor boom is falling short of expectatio
-
-📎 [阅读原文](https://skift.com/2026/07/17/world-cup-impact-on-travel-industry/) — *Skift*
-
-### 4. Europe May Finally Charge International Flights for Emissions — U.S. and China Get a Pass
-
-[原文] Associations are unhappy with Europe’s plans to make the aviation industry pay more for its international emissions — for different reasons. One side argues proposals don’t go far enough, and the othe
-
-📎 [阅读原文](https://skift.com/2026/07/17/europe-eu-ets-international-flights/) — *Skift*
-
-### 5. The World Cup Travel Matrix
-
-[原文] Who lifted the trophy for the travel industry's World Cup? Behold Skift's winners, losers, floppers, and the freeloaders.
-
-📎 [阅读原文](https://skift.com/2026/07/17/the-world-cup-travel-matrix/) — *Skift*
 
 ---
 
@@ -527,7 +527,7 @@ The post Locals Keep Driving on This Buckled Bridge Because It&#8217;s Qui
 
 ## ⚠️ 今日故障源
 
-- **🚗 汽车**: Roadshow, Autocar
+- **🚗 汽车**: Autocar
 
 ---
 
