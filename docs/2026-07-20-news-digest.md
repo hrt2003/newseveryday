@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月20日** | 生成时间: 2026-07-20 03:11
+**2026年07月20日** | 生成时间: 2026-07-20 11:31
 
 ---
 
@@ -16,9 +16,9 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. US and Iran trade fire after two US soldiers killed in Jordan
+### 1. US soldier killed and one injured after Iranian attack in Iraq
 
-[原文] Kuwait says an electricity and water plant is on fire after the second such attack in two days. Iran says US strikes hit an under-construction nuclear power plant.
+[原文] The US military reports another death a day after two of its soldiers were killed in Jordan.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss) — *BBC World*
 
@@ -34,11 +34,11 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. New EU border system tripling time at passport control, airport boss says
+### 4. Norway opens new memorial for victims of 2011 massacre
 
-[原文] Ryanair has also warned passengers travelling to Europe this summer to prepare for extended waits.
+[原文] The artwork in the capital Oslo was unveiled on Sunday ahead of the 15th anniversary of the attack.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c07r9m22gyyo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 5. The 1975's Matty Healy marries model Gabbriette Bechtel in Los Angeles
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. U.S. says it targeted Iranian forces after attacks that killed two American service members
+### 1. Brent breaches $90 as Middle East risks mount with U.S-Iran tensions on the rise
 
-[原文] Centcom says it hit Iran's coastal surveillance and air defense facilities a day after two U.S. troops were killed in an Iranian strike on Jordan.
+[原文] American forces have started ninth consecutive night of strikes against Iranian targets.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/19/us-says-it-targeted-iran-forces-after-deaths-of-two-american-troops.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/20/oil-prices-today-brent-wti-crude-us-iran-centcom-hormuz.html) — *CNBC*
 
-### 2. American Airlines CEO lays out his vision to close a more than $3 billion profit gap
+### 2. U.S. hits Iran for ninth consecutive night as American casualties rise
 
-[原文] The carrier is working on improving reliability, investing in more premium seats and lounges, and considering Boeing and Airbus for a new wide-body plane order.
+[原文] The U.S. began a ninth straight night of strikes against Iran, escalating a campaign to destroy Tehran's ability to disrupt shipping in the Strait of Hormuz.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/19/american-airlines-ceo.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/20/us-iran-strait-of-hormuz-hostilities-casualties-.html) — *CNBC*
 
-### 3. Universal and Christopher Nolan's 'The Odyssey' sails to $124.5 million opening
+### 3. TSMC is accelerating Arizona factory buildout to capitalize on AI 'megatrend,' CFO says
 
-[原文] Christopher Nolan's "The Odyssey" tallied an estimated $124.5 million at the domestic box office, with IMAX screenings fueling a big haul.
+[原文] Speaking in an interview with CNBC, TSMC's Wendell Huang said the fresh investment comes on the back of robust customer demand.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/19/the-odyssey-box-office-christopher-nolan-and-universal-opening-weekend.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/20/tsmc-arizona-fab-capacity-ai-chip-demand.html) — *CNBC*
 
-### 4. FBI will no longer investigate ICE confrontations, The New York Times reports
+### 4. Samsung Biologics makes $1.8 billion all-cash offer for Switzerland's PolyPeptide Group
 
-[原文] The Department of Justice and the Department of Homeland Security have both denied that any change in oversight has taken place.
+[原文] South Korea's Samsung Biologics said on Monday that it had made an all-cash bid of 1.46 billion Swiss francs ($1.8 billion) for Switzerland's PolyPeptide Group.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/19/ice-assault-claims-fbi.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/20/samsung-biologics-polypeptide-group-deal-switzerland.html) — *CNBC*
 
-### 5. Housing costs is the top political issue for young voters, CNBC survey finds
+### 5. World Cup 2026 final in photos: Spain triumphs as football crowns a new champion
 
-[原文] The cost of housing is the top priority for voters ages 18 to 34, besting food and healthcare cost concerns, the CNBC All-America Economic Survey found.
+[原文] Spain reclaimed football's biggest prize on Sunday, defeating Argentina 1-0 after extra time in a tense World Cup final.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/19/housing-costs-election-young-voters-cnbc-survey-finds.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/20/world-cup-2026-final-spain-argentina-messi-bts-shakira.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. TechCrunch Mobility: The battle over robotaxi rules
+### 1. Netflix paid $587M for Ben Affleck’s AI filmmaking startup
+
+[原文] Netflix revealed that it paid $587 million in cash for InterPositive, a startup co-founded by Ben Affleck.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/) — *TechCrunch*
+
+### 2. What to watch for after Jensen Huang’s Japan visit
+
+[原文] Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/) — *TechCrunch*
+
+### 3. Can an Apple lawsuit derail OpenAI’s hardware plans?
+
+[原文] On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/) — *TechCrunch*
+
+### 4. TechCrunch Mobility: The battle over robotaxi rules
 
 [原文] Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/) — *TechCrunch*
 
-### 2. ‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’
+### 5. ‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’
 
 [原文] "Everybody knows the Greeks are inside."
 
 📎 [阅读原文](https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/) — *TechCrunch*
-
-### 3. Nonprofit Current AI is racing to build the World Wide Web of AI, free for all
-
-[原文] Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/) — *TechCrunch*
-
-### 4. Waymo says San Francisco service has resumed after one-hour pause
-
-[原文] This isn’t the first time power outages have caused issues for Waymo.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/) — *TechCrunch*
-
-### 5. Kimi: Threat or menace?
-
-[原文] Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about "full AI communism."
-
-📎 [阅读原文](https://techcrunch.com/2026/07/18/kimi-threat-or-menace/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Experience this match in 3D
+### 1. Victory for football? Spain beat Argentina to win World Cup
 
-[原文] Watch the World Cup final from every angle including through the eyes of every player.
+[原文] It might seem like a trite cliche, but you won't find many neutrals disagreeing with that verdict on the World Cup final.
 
-📎 [阅读原文](https://www.3d-bbc.co.uk/?matchId=151710&at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cdx8veqllw7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. World Cup final kicks-off with star-studded opening
+### 2. Sixteen titles in five years - why Spain are a dominant force
 
-[原文] The celebrity line-up will continue at half-time with performances by Madonna, Justin Bieber, Shakira and BTS.
+[原文] We look at what's behind Spain's dominance after they become the first nation to be men's and women's World Cup champions at the same time.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/clyxjl0wkl7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c39elvrye40o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. How Fox kept cool at baked Birkdale to win The Open
+### 3. Lamine Yamal 'completes football' at 19 as Argentina betray Messi
 
-[原文] New Zealand's Ryan Fox wins the Open Championship - his first major title - with a record-breaking weekend at Royal Birkdale
+[原文] Spain's Lamine Yamal takes the glory of World Cup victory as the great Lionel Messi's evening ends in tears.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/c89nv0v1e22o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c0m7zx38v43o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. England seal series with record Lord's ODI total
+### 4. Dominant Spain beat Argentina to win World Cup after extra time
 
-[原文] England hit the highest one-day international total at Lord's to beat India by 27 runs and seal a thrilling 2-1 series victory.
+[原文] Ferran Torres scores the only goal of the game as Spain dominate Argentina 1-0, to win their second FIFA World Cup at the New York New Jersey Stadium.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cglj4n91744o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/clyvgx9e00do?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Antonelli wins to extend lead after Russell crashes out
+### 5. Trump, Bieber and Shakira - a World Cup final like never before
 
-[原文] Mercedes' Kimi Antonelli re-establishes a comfortable championship lead with victory in the Belgian Grand Prix while team-mate George Russell crashes out.
+[原文] The 2026 World Cup final may not linger long in the memory for what happened on the pitch but it will for all that surrounded it, with an appearance by President Trump, the longest half-time in footba
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/cevmymn2kd8o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c4gjx7nvk4go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘Shark Tank’ Star Kevin O’Leary Sued For Claiming Utah Data Center Opposition Has Ties to China
+### 1. ‘House of the Dragon’ Star Fabien Frankel on Criston Cole’s Suicide Mission and His ‘Nihilism’: ‘He’s Losing the Will to Motivate’
 
-[原文] Kevin O’Leary is being sued for defamation by a group fighting data center construction in Utah after the “Shark Tank” star went on Fox News and claimed some of the individuals involved with the oppos
+[原文] SPOILER ALERT:&#160;This article contains spoilers for Season 3, Episode 5 of “House of the Dragon,” now streaming on HBO Max. In tonight&#8217;s &#8220;House of the Dragon&#8221; episode, Ser Criston
 
-📎 [阅读原文](https://variety.com/2026/tv/news/shark-tank-kevin-oleary-sued-utah-data-center-china-1236816032/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/house-of-the-dragon-fabien-frankel-criston-cole-suicide-mission-butchers-ball-1236815984/) — *Variety*
 
-### 2. ‘The Odyssey’ Becomes Christopher Nolan’s Biggest Global Debut of All Time With $264 Million
+### 2. Future Debuts at No. 1 With ‘The Real Me,’ as Rolling Stones and ‘Heated Rivalry’ Soundtrack Also Bow in Top 10
 
-[原文] &#8220;The Odyssey&#8221; is off to an epic start at the box office. Universal&#8217;s action-adventure generated $264.1 million globally over the weekend, including $139.6 million internationally and
+[原文] We have seen the future of who&#8217;s moving up in the list of artists contending to have the most No. 1 albums ever, and its name is Future. The rapper debuted on top of the Billboard 200 with &#822
 
-📎 [阅读原文](https://variety.com/2026/film/box-office/the-odyssey-christopher-nolan-biggest-global-debut-1236815981/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/future-album-billbord-chart-number-one-rolling-stones-1236816201/) — *Variety*
 
-### 3. HBO’s ‘Harry Potter’ Cinematographer Says It’s ‘Brutal’ Working Around the Young Stars’ Strict Shooting Schedules: ‘Have to Pre-Shoot All the Scenes While They’re in Class’
+### 3. Ben Shapiro Calls ‘The Odyssey’ a ‘Masterpiece’ Despite Conservative Outrage: Christopher Nolan Is the ‘Best Working Director Today’
 
-[原文] Adriano Goldman, the cinematographer for HBO’s “Harry Potter” series, said in a recent interview with Andre Pilli that the filming conditions for the show have been “brutal” because the camera team mu
+[原文] Ben Shapiro posted an 18-minute review of Christopher Nolan’s “The Odyssey” to his YouTube channel on Saturday, in which he called the Greek epic a “masterpiece” despite the conservative outrage about
 
-📎 [阅读原文](https://variety.com/2026/film/news/hbo-harry-potter-brutal-working-stars-strict-schedules-1236816011/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/ben-shapiro-the-odyssey-masterpiece-christopher-nolan-1236816164/) — *Variety*
 
-### 4. James Gunn Gave ‘Big Brother 28’ Star Rick Devens a Cameo in ‘Man of Tomorrow’ but He ‘Had to Cancel’
+### 4. Madonna, BTS, Justin Bieber and Shakira Join Forces for Blink-and-You’ll-Miss-‘Em Moments in a Cluster-FIFA of a Halftime Show
 
-[原文] Rick Devens was supposed to have a cameo in James Gunn&#8217;s “Man of Tomorrow,” but the reality star had filming obligations with &#8220;Big Brother.&#8221; Gunn revealed the cameo after Devens gave
+[原文] The FIFA World Cup Final Halftime Show provided an answer to the burning question of how you fit Madonna, BTS, Justin Bieber, Shakira, Burna Boy, Gustavo Dudamel, Chris Martin and the Muppets into a s
 
-📎 [阅读原文](https://variety.com/2026/film/news/james-gunn-big-brother-rick-devens-man-of-tomorrow-cameo-1236815991/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/fifa-halftime-madonna-bts-justin-bieber-shakira-1236816110/) — *Variety*
 
-### 5. 13 Best Performances in Christopher Nolan Movies: From Matt Damon to Heath Ledger
+### 5. Tom Cruise and Half of Hollywood Light Up 2026 World Cup Final While Trump Is Booed
 
-[原文] Time has been kind to Christopher Nolan. The bending cities, rotating hallways, ticking clocks and practical explosions he captures on film have made him one of the most popular and vital directors wo
+[原文] The 2026 FIFA World Cup has smashed ratings records in the U.S. and around the world, owing to its unique mix of star power — Lionel Messi, Cristiano Ronaldo and Neymar performing in perhaps their fin
 
-📎 [阅读原文](https://variety.com/lists/christopher-nolan-best-acting-performances-ranked/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/sports/news/tom-cruise-2026-world-cup-final-hollywood-jason-sudeikis-justin-bieber-1236816132/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Odyssey Blows Box Office Expectations Out of the Water With $264.1 Million Opening Weekend
+### 1. Call of Duty Ambience Website Lets You Fall Asleep to Nostalgic Black Ops and MW2 Lobbies
 
-[原文] Director Christopher Nolan's The Odyssey has blown box office expectations out of the water with an opening weekend that brought home an incredible $264.1 million worldwide.
+[原文] Have you ever wanted to fall asleep to the sound of Call of Duty players screaming through a $5 mic and into your ear? No? Well, Call of Duty Ambience is here anyway.
+
+📎 [阅读原文](https://www.ign.com/articles/call-of-duty-ambience-website-lets-you-fall-asleep-to-nostalgic-black-ops-and-mw2-lobbies) — *IGN*
+
+### 2. World of Warcraft and RuneScape Fans Want Official Jimothy Support After Game Devs Show Love for Viral Raccoon
+
+[原文] The internet has fallen in love with a viral raccoon named Jimothy, and so has the gaming industry.
+
+📎 [阅读原文](https://www.ign.com/articles/world-of-warcraft-and-runescape-fans-want-official-jimothy-support-after-game-devs-show-love-for-viral-raccoon) — *IGN*
+
+### 3. Xbox Says More Exclusives Are Coming But Tells Players Not to 'Overly Fixate on Single-Player' Games
+
+[原文] Executives at Xbox have once again attempted to clarify the company's approach to exclusives, promising that "Gears of War: E-Day and Clockwork Revolution are not the only titles" it's planning.
+
+📎 [阅读原文](https://www.ign.com/articles/xbox-says-more-exclusives-are-coming-but-tells-players-not-to-overly-fixate-on-single-player-games) — *IGN*
+
+### 4. The Odyssey Blows Box Office Expectations Out of the Water With $264.1 Million Opening Weekend
+
+[原文] Director Christopher Nolan's The Odyssey has blown box office expectations out of the water with an opening weekend that brought home an incredible $264.064 million worldwide.
 
 📎 [阅读原文](https://www.ign.com/articles/the-odyssey-blows-box-office-expectations-out-of-the-water-with-2641-million-opening-weekend) — *IGN*
 
-### 2. The Best Deals Today: DJI Mini 4K Drone, Metal Gear Solid: Delta, Mortal Kombat 4K Limited Edition, and More
+### 5. The Best Deals Today: DJI Mini 4K Drone, Metal Gear Solid: Delta, Mortal Kombat 4K Limited Edition, and More
 
 暂无摘要。
 
 📎 [阅读原文](https://www.ign.com/articles/best-deals-for-july-19-2026) — *IGN*
-
-### 3. The Odyssey Proves There’s Still Hope for Big-Budget Filmmaking
-
-[原文] Christopher Nolan's The Odyssey stands as one of the best recent examples of the kind of film that a large studio budget rarely allows in the modern day: a singular artistic vision in a blockbuster fe
-
-📎 [阅读原文](https://www.ign.com/articles/the-odyssey-proves-theres-still-hope-for-big-budget-filmmaking) — *IGN*
-
-### 4. Matt Damon Wants New Jason Bourne Movie to 'Be Like the First 3' as Work With Conclave Director Continues
-
-[原文] Just as The Odyssey makes landfall, star Matt Damon has offered an update on his new Jason Bourne movie with Conclave and All Quiet on the Western Front director Edward Berger.
-
-📎 [阅读原文](https://www.ign.com/articles/matt-damon-wants-new-jason-bourne-movie-to-be-like-the-first-3-as-work-with-conclave-director-continues) — *IGN*
-
-### 5. The Best Deals Today: PNY RTX 5070 OC, Apple AirPods 4, The Dark Knight Trilogy, and More
-
-暂无摘要。
-
-📎 [阅读原文](https://www.ign.com/articles/best-deals-for-july-18-2026) — *IGN*
 
 ---
 
@@ -439,35 +439,35 @@ The post Locals Keep Driving on This Buckled Bridge Because It&#8217;s Qui
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Post Malone Debuts New Song ‘Chrome Heartbreaker’ at World Cup Final Pregame Ceremony
+### 1. Justin Bieber, Shakira, Madonna, BTS Deliver Electric Halftime Set at World Cup Final
+
+[原文] Final match between Spain and Argentina at New York New Jersey Stadium was preceded by Post Malone performance
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/justin-bieber-bts-shakira-madonna-performance-world-cup-1235594935/) — *Rolling Stone*
+
+### 2. Post Malone Debuts New Song ‘Chrome Heartbreaker’ at World Cup Final Pregame Ceremony
 
 [原文] Jennifer Hudson delivered the United States national anthem and IShowSpeed performed "Champions" before Spain and Argentina match at New York New Jersey Stadium
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/post-malone-performance-world-cup-final-pregame-ceremony-1235594952/) — *Rolling Stone*
 
-### 2. Noah Kahan’s Queens Concert Canceled Due to Inclement Weather: ‘I’m Devastated’
+### 3. Noah Kahan’s Queens Concert Canceled Due to Inclement Weather: ‘I’m Devastated’
 
 [原文] Saturday's show at Citi Field canceled at last minute after "it became clear that it wasn't safe for us, the crew or all of you"; singer still booked to play Sunday night at Mets' stadium
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/noah-kahan-queens-concert-canceled-inclement-weather-1235595704/) — *Rolling Stone*
 
-### 3. Jennifer Finch, L7 Bassist, Dead at 59
+### 4. Jennifer Finch, L7 Bassist, Dead at 59
 
 [原文] Rocker was diagnosed with an aggressive form of brain cancer
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/l7-jennifer-finch-dead-obituary-1235595523/) — *Rolling Stone*
 
-### 4. Jelly Roll Goes to San Quentin for New Video ‘Hands Up’
+### 5. Jelly Roll Goes to San Quentin for New Video ‘Hands Up’
 
 [原文] "Truly one of the most special things I’ve ever had the opportunity to do," singer says of shooting visual at same California prison that Johnny Cash performed at
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/jelly-roll-san-quentin-new-video-hands-up-1235595617/) — *Rolling Stone*
-
-### 5. See Martin Garrix Debut New U2 Collaboration ‘Fireflies’ With the Edge at Tomorrowland
-
-[原文] After premiering at Belgium EDM fest, DJ and Irish rockers' latest single together is "out soon"
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/martin-garrix-new-u2-song-fireflies-the-edge-tomorrowland-1235595612/) — *Rolling Stone*
 
 ---
 
