@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月21日** | 生成时间: 2026-07-21 16:34
+**2026年07月21日** | 生成时间: 2026-07-21 22:01
 
 ---
 
@@ -28,23 +28,23 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Yemen's Houthis announce 'maritime embargo' on Saudi Arabia
+### 3. Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal
 
-[原文] The Houthis say the embargo begins immediately and is a response to a Saudi blockade of ports and airports in Yemen.
+[原文] A US-brokered agreement should see Israeli troops pulling out of a small part of Lebanon occupied during their conflict with Hezbollah.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Tate brothers appear in US court for extradition proceedings
+### 4. Row escalates in Ukraine over army chief's future
 
-[原文] They were arrested on Saturday after the UK announced dozens of new charges, including rape and sex trafficking, which they deny.
+[原文] Protesters are demanding Oleksandr Syrskyi be removed and former defence minister Mykhailo Fedorov reinstated by Friday.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c6294y87wk6o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c7vgel8374yo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. 'Anti-ICE' Army veteran set fire outside Manhattan federal building, say officials
+### 5. Dozens hurt in Bologna protests after man dies while being restrained by police
 
-[原文] Andrew Arrabaca, 43, was armed with two axes, a machete, three knives and fireworks, says the FBI.
+[原文] Thousands of people took to the streets demanding justice for a Moroccan-born man who died on Sunday.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c1m1rr90dzxo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c86nwgw148xo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Iran War update: Five things to know after the resumption of hostilities
+### 1. Greer hints new Trump tariffs coming on dozens of countries: 'Expect action soon'
 
-[原文] It's been 10 days since U.S. President Donald Trump declared the ceasefire with Iran "over." Here's what you need to know about the conflict.
+[原文] U.S. Trade Representative Jamieson Greer's comments the Trump administration could impose new tariffs just as other duties are set to expire.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/21/iran-war-update-five-things-to-know-after-resumption-of-hostilities.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/21/trump-trade-tariffs-greer-section-301.html) — *CNBC*
 
-### 2. Ships shun Strait of Hormuz as renewed fighting strains key oil corridor
+### 2. U.S. strikes Iran and Houthis threaten Saudi Arabia shipping as mediators push 10-day ceasefire
 
-[原文] Vessel traffic through the Strait of Hormuz has slumped since U.S. President Donald Trump's blockade took effect last week.
+[原文] The latest cycle of strikes comes amid reports that regional mediators have presented Washington and Tehran with a proposal for a 10-day ceasefire.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/21/strait-of-hormuz-traffic-renewed-us-iran-conflict-chokes-hormuz.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/21/us-iran-war-trump-hormuz-houthis.html) — *CNBC*
 
-### 3. Boeing and Airbus prepare for next narrow-body battle – but airlines aren’t pushing for new jets yet
+### 3. Novo Nordisk sues Eli Lilly, alleging misleading GLP-1 advertising
 
-[原文] Boeing and Airbus are preparing their next narrow-body jets, but airlines and investors remain focused on production, deliveries and current aircraft.
+[原文] Novo asked the court to permanently stop Lilly from running the "deceptive" ads and require the drugmaker to issue corrective advertising.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/21/boeing-airbus-narrow-body-planes-deliveries-737max-a320.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/21/novo-nordisk-sues-eli-lilly-glp-1-ads.html) — *CNBC*
 
-### 4. General Motors is set to report earnings before the bell. Here's what Wall Street expects
+### 4. Wall Street is selling more rental homes, as buying ban takes effect
 
-[原文] Wall Street analysts expect General Motors to report adjusted earnings per share of $3.20 and revenue of $47.01 billion.
+[原文] The largest landlords are all net sellers year-to-date, with 3,180 more homes sold than bought since Jan. 1.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/21/wall-street-selling-homes-real-estate.html) — *CNBC*
+
+### 5. GM beats on earnings, raises guidance amid 'resilient' consumer, pricing
+
+[原文] GM raised several key earnings forecasts after beating Wall Street's second-quarter expectations as its North American operations continue to drive results.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/21/general-motors-gm-earnings-q2-2026.html) — *CNBC*
-
-### 5. Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices
-
-[原文] Comments from JPMorgan Chase CEO Jamie Dimon contrast with investors' recent willingness to look past wars, tariffs and other shocks.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/20/jpmorgan-chase-ceo-jamie-dimon-market-risk.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Anthropic’s landmark $1.5B copyright settlement is approved
+### 1. The Xteink X4 Pro could be the tiny e-reader of your dreams
+
+[原文] Xteink makes its pocket-sized e-reader even better with a touchscreen and front light.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/21/the-xteink-x4-pro-could-be-the-tiny-e-reader-of-your-dreams/) — *TechCrunch*
+
+### 2. Music streamer Deezer says more than 50% of daily uploads are AI-generated
+
+[原文] Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June
+
+📎 [阅读原文](https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/) — *TechCrunch*
+
+### 3. Bluecore Energy raises $10M to build portable nuclear reactors on barges
+
+[原文] Maritime nuclear energy startup Bluecore Energy has raised $10 million in a pre-seed funding round led by Slauson &#038; Co.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/21/this-uber-alumn-just-raised-a-10m-pre-seed-to-build-portable-nuclear-enegry/) — *TechCrunch*
+
+### 4. Gritt exits stealth with $32 million for robots to build solar plants — then, everything else
+
+[原文] Gritt is coming out of stealth with $34 million and plans to automate the hardest tasks on construction sites.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/) — *TechCrunch*
+
+### 5. Anthropic’s landmark $1.5B copyright settlement is approved
 
 [原文] The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/) — *TechCrunch*
-
-### 2. Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation
-
-[原文] The de-extinction startup is looking to double or triple its previous valuation, according to the report.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/) — *TechCrunch*
-
-### 3. Trump’s latest AI czar has already resigned
-
-[原文] The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/) — *TechCrunch*
-
-### 4. Google is working on a new AI chip designed to make Gemini more efficient
-
-[原文] Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/) — *TechCrunch*
-
-### 5. AI’s most important protocol is getting a little bit easier to use
-
-[原文] Under the new system, the protocol will take a looser, "stateless" approach to session IDs on the server side, similar to how most ordinary websites already work.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/) — *TechCrunch*
 
 ---
 
@@ -130,35 +130,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Some dinosaurs could rise like giants until they grew too big
+### 1. Scientists found mystery bacteria inside one of the ocean’s most elusive whales
 
-[原文] Two elephant-sized South American sauropods were unusually well built for standing on their hind legs. Digital tests showed that their robust femurs handled the enormous forces better than those of la
+[原文] Scientists studying decades of pygmy sperm whale strandings have uncovered three previously unknown types of Helicobacter bacteria hiding in the animals’ stomachs. All four infected whales showed seri
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260719231758.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260721000847.htm) — *Science Daily*
 
-### 2. The mysterious hum heard around the world may finally have an explanation
+### 2. Ancient DNA reveals a chilling secret at China’s 4,000-year-old Shimao city
 
-[原文] The mysterious sound known as The Hum has been reported worldwide for decades, yet its source often remains impossible to find. Researchers tested whether people who hear it have exceptional low-frequ
+[原文] Ancient DNA from China’s vast 4,000-year-old Shimao settlement is revealing how one of East Asia’s earliest complex societies was organized. Researchers found that its people were largely descended fr
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260719040002.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260721000828.htm) — *Science Daily*
 
-### 3. An ordinary laptop solved a problem thought to require a quantum computer
+### 3. Astronomers find the first atmosphere on a rocky world in the habitable zone
 
-[原文] A quantum problem once described as impossible for classical computers has now been solved using relatively modest hardware. Researchers used tensor networks to compress the overwhelming wave function
+[原文] Astronomers have found the first confirmed atmosphere around a rocky planet in another star’s habitable zone. The planet, LHS 1140 b, revealed its atmosphere through helium slowly leaking into space. 
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260719040000.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260721000825.htm) — *Science Daily*
 
-### 4. Earth’s waters are quietly running out of oxygen, scientists warn
+### 4. Watching too much TV in midlife may shrink the brain
 
-[原文] Oxygen is disappearing from oceans, lakes, rivers, and coastal waters at an alarming rate, threatening aquatic life and weakening the natural processes that help regulate Earth’s climate. Scientists w
+[原文] Watching television very often in midlife may be linked to troubling brain changes decades later. In a study of about 1,700 adults, frequent TV viewers later showed smaller brain regions involved in m
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260719035939.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260721000822.htm) — *Science Daily*
 
-### 5. Alzheimer’s breakthrough: Scientists restore two hours of sleep without clearing brain plaques
+### 5. A hidden “switch-off” signal could predict solar storms seven years early
 
-[原文] Researchers have uncovered a surprising culprit behind sleep loss in Alzheimer’s disease: the brain’s own immune cells. In mice with amyloid plaques, overactive microglia triggered inflammation that k
+[原文] A newly discovered turning point in the Sun’s 11-year cycle could allow scientists to predict future solar activity years earlier than before. At this “switch-off” point, the most violent space weathe
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260719035931.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260721000818.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Fifa opens investigation into Argentina post-final trouble - what happens next?
+### 1. Infantino's 'time is up' with Fifa - La Liga boss
 
-[原文] Argentina will face an investigation into the ugly scenes at the end of the World Cup final, Fifa has confirmed.
+[原文] La Liga president Javier Tebas calls for Fifa president Gianni Infantino to quit, and claims the governing body is "destroying the football industry".
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/clyxjk0z5y7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cqjxzy44l0vo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Bournemouth midfielder Scott rejects new contract
+### 2. Keeper Martinez may 'step aside' from Argentina
 
-[原文] Bournemouth midfielder Alex Scott rejects a new contract amid growing Premier League interest in the England international.
+[原文] Argentina goalkeeper Emi Martinez says he is considering whether it is "time to step aside" from international football after his side's 1-0 defeat to Spain in the World Cup final.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c0rdn1p2z45o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c62xzle86n4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Earl wants changes to 'brutal' Nations Championship format
+### 3. Ferguson says Keegan built Newcastle's greatest team
 
-[原文] Ben Earl calls for a change to the Nations Championship format after England's "brutal" schedule in the summer leg of the inaugural competition.
+[原文] Former Manchester United manager Sir Alex Ferguson says Kevin Keegan "carried the love of the game on his sleeve" as he paid tribute to his former rival.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-union/articles/c74g58vzjj4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cpd7nzxzdjqo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Why was Hamilton penalised but not Leclerc? - F1 Q&A
+### 4. What could Burnham as PM mean for sport?
 
-[原文] BBC Sport F1 correspondent Andrew Benson answers your latest questions before the Hungarian Grand Prix.
+[原文] Andy Burnham is only into his second day as the UK's Prime Minister, but already people are wondering what this could mean for sport.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/cn4n21ye3w2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/olympics/articles/c80nvp5d1mno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Guardiola in reported talks with Italy - would England come calling?
+### 5. Progress or standing still - where are England under Borthwick?
 
-[原文] Former Manchester City manager Pep Guardiola, a fluent Italian speaker, is a contender for the vacant Italy head coach job.
+[原文] As the 2027 Rugby World Cup continues to creep closer, where are England under Steve Borthwick, and do their Nations Championship performances point to progress?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c20dn5j0lj0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-union/articles/crr8r25yv7vo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. FAST Provider Wedotv Launches in India With Samsung TV Plus (EXCLUSIVE)
+### 1. The Pulitzer Prize-Winning Journalist Who Has the Entire NBA Spooked
 
-[原文] FAST channel provider wedotv has struck its first distribution deal in India, bringing four channels to Samsung TV Plus and reaching millions of Samsung Smart TV users across the country. The agreemen
+[原文] Pablo Torre would like to set the record straight.  In the fall of last year, after he uncovered a wacky sports scandal ensnaring NBA superstar Kawhi Leonard, billionaire Los Angeles Clippers owner St
 
-📎 [阅读原文](https://variety.com/2026/tv/news/wedotv-samsung-tv-plus-india-fast-channels-1236817044/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/sports/news/pablo-torre-finds-out-podcast-nba-kawhi-leonard-jalen-brunson-jeffrey-epstein-1236817018/) — *Variety*
 
-### 2. ‘The Odyssey’ Breaks Records With Massive Debut at U.K. and Ireland Box Office
+### 2. FIFA World Cup and Olympic Ceremonies Producer Balich Wonder Studio Expands Footprint to North America and Mexico
 
-[原文] The U.K. and Ireland box office experienced a massive tentpole shift as Universal&#8217;s &#8220;The Odyssey&#8221; captured the top spot, storming the market with a spectacular debut weekend of £12.5
+[原文] Live entertainment production company Balich Wonder Studio — the Banijay-owned outfit that has delivered six FIFA World Cup ceremonies, culminating in the soccer tournament’s star-studded closing on S
 
-📎 [阅读原文](https://variety.com/2026/film/box-office/the-odyssey-uk-ireland-box-office-1236816591/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/sports/global/world-cup-producer-balich-wonder-studio-north-america-mexico-1236817054/) — *Variety*
 
-### 3. A.R. Rahman Launches ARR Immersive App for Apple Vision Pro (EXCLUSIVE)
+### 3. Zoom, With New Story, Bets on Indie Journalist to Tell It
 
-[原文] A.R. Rahman, the two-time Oscar-winning Indian composer behind &#8220;Slumdog Millionaire&#8221; and &#8220;127 Hours,&#8221; is launching ARR Immersive, an app bringing his decade of immersive storyt
+[原文] Zoom has since the days of the coronavirus pandemic been known for its expertise in video. Now the company wants to demonstrate its talent for putting on a show. Starting this week, Zoom is launching 
 
-📎 [阅读原文](https://variety.com/2026/music/news/ar-rahman-arr-immersive-app-apple-vision-pro-1236816469/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/zoom-nayeema-raza-partnership-creators-1236816997/) — *Variety*
 
-### 4. Chloe Fineman Says ‘SNL’ Boss Lorne Michaels Was at World Cup Match When She Called to Say She Was Leaving the Show
+### 4. Psychological Horror Feature ‘Ancestral Beasts’ Debuts Trailer Ahead of Fantasia World Premiere (EXCLUSIVE)
 
-[原文] &#8220;Saturday Night Live&#8221; boss Lorne Michaels was a bit tied up when Chloe Fineman called to say she was leaving the show. &#8220;In classic form, he was watching England vs. Argentina,&#8221;
+[原文] “Ancestral Beasts,&#8221; in which a young Métis woman, Elyse, is stalked by a grotesque creature after returning to her ancestral home to focus on her mental health, prowled Cannes’ Marché du Film in
 
-📎 [阅读原文](https://variety.com/2026/tv/columns/chloe-fineman-saturday-night-live-lorne-michaels-world-cup-1236816726/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/markets-festivals/fantasia-horror-indigenous-ancestral-beasts-trailer-riedel-1236817056/) — *Variety*
 
-### 5. Jon Stewart Says the World Cup Final Was the ‘Reverse Super Bowl’: ‘The Players Spoke Spanish and the Halftime Show Was in English’
+### 5. YouTube Star Alejo Igoa Signs With WME
 
-[原文] On Monday night’s episode of “The Daily Show,” Jon Stewart gave his post-game thoughts about Sunday’s World Cup final match, which saw Spain win out over Argentina 1-0. “Of course, the World Cup ended
+[原文] Alejo Igoa, a top Latin digital creator who has 120 million YouTube subscribers, has signed with WME for worldwide representation in all areas. WME will work with Igoa &#8212; who is from Argentina &#
 
-📎 [阅读原文](https://variety.com/2026/tv/news/jon-stewart-world-cup-final-halftime-show-trump-1236817023/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/digital/news/alejo-igoa-signs-wme-1236814852/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Leon Kennedy Voice Actor Says Metallica, Nirvana Helped Shape His Performance for the Resident Evil Character
+### 1. Avengers: Doomsday Trailer Leaves Fans Convinced Marvel Has Hidden Characters From a Certain Shot
 
-[原文] Nick Apostolides revealed the bands he listened to that helped shape his portrayal of Leon Kennedy in each of the Resident Evil Remake games, sharing some surprising picks from his playlist.
+[原文] MCU fans are convinced that Marvel has used clever editing to hide characters from a specific shot in the new Avengers: Doomsday trailer.
 
-📎 [阅读原文](https://www.ign.com/articles/leon-kennedy-voice-actor-says-metallica-nirvana-helped-shape-his-performance-for-the-resident-evil-character) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/avengers-doomsday-trailer-leaves-fans-convinced-marvel-has-hidden-characters-from-a-certain-shot) — *IGN*
 
-### 2. Kingdom Hearts Missing-Link Leak Has Fans Wishing Square Enix Hadn't Canceled Its Mobile Spinoff
+### 2. Her Private Hell Review
 
-[原文] What appears to be nearly finished footage of the intro for canceled mobile game Kingdom Hearts Missing-Link has leaked online.
+[原文] Her Private Hell review: Refn’s return to cinemas hasn’t lost his provocateur’s touch.
 
-📎 [阅读原文](https://www.ign.com/articles/kingdom-hearts-missing-link-leak-has-fans-wishing-square-enix-hadnt-canceled-its-mobile-spinoff) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/her-private-hell-review) — *IGN*
 
-### 3. Nier Creator Yoko Taro Mourns Death of Physical Media as PlayStation Plans to End Production of Game Discs
+### 3. Preorders Are Live for the LEGO Architecture Tower Bridge Set – Here’s Where You Can Grab It
 
-[原文] Yoko Taro took to X on July 19 to bemoan the dire future of physical media following Sony’s decision to end production of game discs starting January 2028.
+[原文] The new LEGO Architecture Tower Bridge set is now available to preorder from a variety of retailers. Here's where you can order it for $349.99 ahead of its August 1 release.
 
-📎 [阅读原文](https://www.ign.com/articles/nier-creator-yoko-taro-mourns-death-of-physical-media-as-playstation-plans-to-end-production-of-game-discs) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/preorder-lego-architecture-tower-bridge-set-21067) — *IGN*
 
-### 4. Pick Up a Powerful and Infinitely Reusable Cordless Electric Air Duster for $19 After Coupon
+### 4. The Witcher 3: Wild Hunt — Songs of the Past Reveal Date Confirmed
 
-[原文] Your dusty PC thanks you for your purchase.
+[原文] The Witcher 3: Wild Hunt — Songs of the Past will be revealed at gamescom 2026 during Opening Night Live, CD Projekt has announced.
 
-📎 [阅读原文](https://www.ign.com/articles/jufinx-cordless-electric-air-duster-deal-july-updated) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/the-witcher-3-wild-hunt-songs-of-the-past-reveal-date-confirmed) — *IGN*
 
-### 5. This TSA-Compliant Daran 28,000mAh 100W LiFePO4 Power Station Drops to Just $48.57
+### 5. Pokémon is Getting a 40,000 Piece Puzzle That Costs $730 — Preorders Now Live
 
-[原文] The smallest power station, weighing in at under 3 pounds.
+[原文] According to Ravensburger, its new 40,000 piece Pokémon jigsaw is "one of the world's largest [ever] officially licensed" puzzles. It's over 22 feet long, and costs $730. Preorders are now live at Ama
 
-📎 [阅读原文](https://www.ign.com/articles/daran-28000mah-100w-lifepo4-power-station-deal-july) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/pokemon-is-getting-a-40000-piece-puzzle-that-costs-730) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Short-Sighted Profiteering Is Killing Enthusiast Cars—And Future Enthusiasts
+### 1. 2026 Nissan Armada Pro-4X Review: Closest Thing to a Real Land Cruiser You’ll Get in America
+
+[原文] Toyota won’t bring a real Land Cruiser to America, so Nissan created one. Say hello to the Armada Pro-4X.
+The post 2026 Nissan Armada Pro-4X Review: Closest Thing to a Real Land Cruiser You&#8217;ll G
+
+📎 [阅读原文](https://www.thedrive.com/car-reviews/2026-nissan-armada-pro-4x-review) — *The Drive*
+
+### 2. Polestar Won’t Appeal US Ban and Dealers Aren’t Happy About That: TDS
+
+[原文] Polestar opted not to appeal the U.S. government's ban because it didn't feel it would succeed. Of course, dealers would've preferred it put up any fight at all.
+The post Polestar Won&#8217;t Appeal U
+
+📎 [阅读原文](https://www.thedrive.com/news/polestar-wont-appeal-us-ban-and-dealers-arent-happy-about-that-tds) — *The Drive*
+
+### 3. Wreckreation 2 Wants to Recapture the Magic of Burnout Once and for All
+
+[原文] Wreckreation 2 intends to double down on the fundamentals of fun arcade racing—satisfying physics, engaging track design, and absolute destruction.
+The post Wreckreation 2 Wants to Recapture the Magic
+
+📎 [阅读原文](https://www.thedrive.com/news/wreckreation-2-wants-to-recapture-the-magic-of-burnout-once-and-for-all) — *The Drive*
+
+### 4. Short-Sighted Profiteering Is Killing Enthusiast Cars—And Future Enthusiasts
 
 [原文] A family-owned tree nursery's unique sales strategy made me look at the affordability crisis differently.
 The post Short-Sighted Profiteering Is Killing Enthusiast Cars—And Future Enthusiasts appeared
 
 📎 [阅读原文](https://www.thedrive.com/news/short-sighted-profiteering-is-killing-enthusiast-cars-and-future-enthusiasts) — *The Drive*
 
-### 2. Hot Rod Designer Chip Foose Made This John Deere Tractor Look Like an Old Race Car
+### 5. Hot Rod Designer Chip Foose Made This John Deere Tractor Look Like an Old Race Car
 
 [原文] Arguably at the peak of his fame, Chip Foose dabbled in another type of four-wheel art: Ag equipment.
 The post Hot Rod Designer Chip Foose Made This John Deere Tractor Look Like an Old Race Car appear
 
 📎 [阅读原文](https://www.thedrive.com/news/hot-rod-designer-chip-foose-made-this-john-deere-tractor-look-like-an-old-race-car) — *The Drive*
-
-### 3. RTR Shows Us How the Pros Dial In a Mustang for Formula Drift
-
-[原文] We got some tips on drift car setups from the pros. There’s a lot more to it than negative camber and hydraulic handbrakes.
-The post RTR Shows Us How the Pros Dial In a Mustang for Formula Drift appea
-
-📎 [阅读原文](https://www.thedrive.com/news/rtr-shows-us-how-the-pros-dial-in-a-mustang-for-formula-drift) — *The Drive*
-
-### 4. F1 Is Selling Its Richest Fans a Fancy Dinner on a Flat Bed as It Drives Around a Track
-
-[原文] Would you pay big bucks to have dinner in a container while it's going around a track and a former F1 champion tells you stories?
-The post F1 Is Selling Its Richest Fans a Fancy Dinner on a Flat Bed a
-
-📎 [阅读原文](https://www.thedrive.com/news/f1-is-selling-its-richest-fans-a-fancy-dinner-on-a-flat-bed-as-it-drives-around-a-track) — *The Drive*
-
-### 5. List Your Car on eBay Motors for Free Until the End of July
-
-[原文] Putting your car on eBay Motors can feel a little more legit than Facebook Marketplace. And right now, you can list for free.
-The post List Your Car on eBay Motors for Free Until the End of July appea
-
-📎 [阅读原文](https://www.thedrive.com/news/list-your-car-on-ebay-motors-for-free-until-the-end-of-july) — *The Drive*
 
 ---
 
@@ -363,35 +363,35 @@ The post List Your Car on eBay Motors for Free Until the End of July appea
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. French Polynesia objects to an American seabed mining plan made without its input
+### 1. Why the Iran war hasn’t caused a global oil crisis — yet
+
+暂无摘要。
+
+📎 [阅读原文](https://grist.org/energy/why-the-iran-war-hasnt-caused-a-global-oil-crisis-yet/) — *Grist*
+
+### 2. French Polynesia objects to an American seabed mining plan made without its input
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/indigenous/french-polynesia-objects-to-an-american-seabed-mining-plan-made-without-its-input/) — *Grist*
 
-### 2. As climate change threatens their lands, Indigenous nations demand more power at the UN
+### 3. As climate change threatens their lands, Indigenous nations demand more power at the UN
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/global-indigenous-affairs-desk/as-climate-change-threatens-their-lands-indigenous-nations-demand-more-power-at-the-un/) — *Grist*
 
-### 3. Rising seas magnify the dangers of coastal Georgia’s industrial past
+### 4. Rising seas magnify the dangers of coastal Georgia’s industrial past
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/cities/rising-seas-magnify-the-dangers-of-coastal-georgias-industrial-past/) — *Grist*
 
-### 4. Trump again shrinks Bears Ears and Grand Staircase-Escalante national monuments
+### 5. Trump again shrinks Bears Ears and Grand Staircase-Escalante national monuments
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/politics/trump-again-shrinks-bears-ears-and-grand-staircase-escalante-national-monuments/) — *Grist*
-
-### 5. New York governor orders first statewide data center moratorium
-
-暂无摘要。
-
-📎 [阅读原文](https://grist.org/politics/new-york-governor-orders-first-statewide-data-center-moratorium/) — *Grist*
 
 ---
 
@@ -401,35 +401,35 @@ The post List Your Car on eBay Motors for Free Until the End of July appea
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. These Hip-Hop Artists Were Already Teaching
+### 1. The Language Barrier Is the Real Barrier in Edtech
+
+[原文] The English-first bias in technology must be addressed.
+
+📎 [阅读原文](https://edsurge.com/news/the-language-barrier-is-the-real-barrier-in-edtech) — *EdSurge*
+
+### 2. These Hip-Hop Artists Were Already Teaching
 
 [原文] A new degree program credentials hip-hop artists to bring communal, real-world learning to the classroom.
 
 📎 [阅读原文](https://edsurge.com/news/these-hip-hop-artists-were-already-teaching) — *EdSurge*
 
-### 2. AI Meets ESL, and Teachers Are Intrigued
+### 3. AI Meets ESL, and Teachers Are Intrigued
 
 [原文] Can AI chatbots support K-12 emergent bilingual learners without widening gaps?
 
 📎 [阅读原文](https://edsurge.com/news/ai-meets-esl-and-teachers-are-intrigued) — *EdSurge*
 
-### 3. How My School Used Common Sense and Collaboration to Confront AI
+### 4. How My School Used Common Sense and Collaboration to Confront AI
 
 [原文] What I learned navigating a policy vacuum as a tech coordinator and the collaborative process to build an AI-ready culture.
 
 📎 [阅读原文](https://edsurge.com/news/how-my-school-used-common-sense-and-collaboration-to-confront-ai) — *EdSurge*
 
-### 4. What Is the AI Cheating Panic Really About?
+### 5. What Is the AI Cheating Panic Really About?
 
 [原文] A conversation with Pat Yongpradit, general manager of global education and workforce policy at Microsoft.
 
 📎 [阅读原文](https://edsurge.com/news/podcast-what-is-the-ai-cheating-panic-really-about) — *EdSurge*
-
-### 5. Anthropic Introduces Claude for Teachers
-
-[原文] The AI rollout is the latest effort by a tech giant to win over educators and districts.
-
-📎 [阅读原文](https://edsurge.com/news/anthropic-introduces-claude-for-teachers) — *EdSurge*
 
 ---
 
@@ -457,9 +457,9 @@ The post List Your Car on eBay Motors for Free Until the End of July appea
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/offset-medmen-dispensary-assault-case-community-service-1235596373/) — *Rolling Stone*
 
-### 4. Justin Bieber’s Weird ‘Everything Hallelujah’ Song Gets 240% Streaming Bump After World Cup
+### 4. Justin Bieber’s Weird ‘Everything Hallelujah’ Song Gets 240 Percent Streaming Bump After World Cup
 
-[原文] Some people thought the track didn't match the vibe of the championship game, but it saw a huge spike in listeners
+[原文] Some people thought the track didn’t match the vibe of the championship game, but it saw a huge spike in listeners
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/justin-bieber-world-cup-everything-hallelujah-streams-spike-1235596096/) — *Rolling Stone*
 
@@ -477,35 +477,35 @@ The post List Your Car on eBay Motors for Free Until the End of July appea
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The U.S. Passport Is Stuck, The UAE’s Is Gaining Fast
+### 1. Emirates’ Sir Tim Clark on Retirement: ‘It’s Not Time’
+
+[原文] Clark insists Emirates is ready for life after him, but his decision to stay on keeps one of aviation’s longest-running succession stories alive.
+
+📎 [阅读原文](https://skift.com/2026/07/21/emirates-sir-tim-clark-on-retirement-its-not-time/) — *Skift*
+
+### 2. The U.S. Passport Is Stuck, The UAE’s Is Gaining Fast
 
 [原文] Passport rankings are a lagging indicator of something travel companies should watch in real time: how easily — and where — a country's citizens can move.
 
 📎 [阅读原文](https://skift.com/2026/07/21/the-u-s-passport-is-stuck-the-uaes-is-gaining-fast/) — *Skift*
 
-### 2. Riyadh Air Waited Years for New Planes. Now Six Have Arrived in 30 Days
+### 3. Riyadh Air Waited Years for New Planes. Now Six Have Arrived in 30 Days
 
 [原文] For a startup with no legacy fleet to fall back on, delivery delays were painful. But taking such a large number of aircraft in just a month brings its own headaches.
 
 📎 [阅读原文](https://skift.com/2026/07/20/riyadh-air-waited-years-for-new-planes-now-six-have-arrived-in-30-days/) — *Skift*
 
-### 3. Expedia’s AI Timeline Runs Through Its Talent Strategy
+### 4. Expedia’s AI Timeline Runs Through Its Talent Strategy
 
 [原文] Expedia is betting its product roadmap on replicating the outsized AI productivity of its elite engineers. According to its CTO, the strategy hinges on a race to hire and retain that talent — making t
 
 📎 [阅读原文](https://skift.com/2026/07/20/expedia-cto-ramana-thumu-ai-talent-strategy/) — *Skift*
 
-### 4. JetBlue Wins Spirit’s LaGuardia Slots for $58.5 Million — Below Spirit’s Own Estimate
+### 5. JetBlue Wins Spirit’s LaGuardia Slots for $58.5 Million — Below Spirit’s Own Estimate
 
 [原文] JetBlue’s winning bid comes in well below Spirit's $86.7 million valuation of its LaGuardia slots.
 
 📎 [阅读原文](https://skift.com/2026/07/20/jetblue-wins-spirits-coveted-slots-at-laguarda-for-58-5-million/) — *Skift*
-
-### 5. Hotel Brands Circle Student Housing: 4 Income Streams
-
-[原文] The appeal is in diversifying across multiple income streams: students, extended-stay, traditional brief hotel stays, and coworking.
-
-📎 [阅读原文](https://skift.com/2026/07/20/hotel-brands-circle-student-housing-4-income-streams/) — *Skift*
 
 ---
 
