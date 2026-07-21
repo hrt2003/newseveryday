@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月21日** | 生成时间: 2026-07-21 10:57
+**2026年07月21日** | 生成时间: 2026-07-21 16:34
 
 ---
 
@@ -24,7 +24,7 @@
 
 ### 2. US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers
 
-[原文] The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz.
+[原文] Iran says it has hit two ships in the Strait of Hormuz as well as targets in Bahrain and Jordan.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss) — *BBC World*
 
@@ -40,11 +40,11 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c6294y87wk6o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Notorious drug cartel leader Ismael Zambada sentenced to life in US prison
+### 5. 'Anti-ICE' Army veteran set fire outside Manhattan federal building, say officials
 
-[原文] Known as "El Mayo", the co-founder the Sinaloa Cartel was also ordered to pay $15bn after he admitted to sending vast amounts of drugs to the US.
+[原文] Andrew Arrabaca, 43, was armed with two axes, a machete, three knives and fireworks, says the FBI.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/ce3q1d1ed5do?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c1m1rr90dzxo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Ships shun Strait of Hormuz as renewed fighting strains key oil corridor
+### 1. Iran War update: Five things to know after the resumption of hostilities
+
+[原文] It's been 10 days since U.S. President Donald Trump declared the ceasefire with Iran "over." Here's what you need to know about the conflict.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/21/iran-war-update-five-things-to-know-after-resumption-of-hostilities.html) — *CNBC*
+
+### 2. Ships shun Strait of Hormuz as renewed fighting strains key oil corridor
 
 [原文] Vessel traffic through the Strait of Hormuz has slumped since U.S. President Donald Trump's blockade took effect last week.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/21/strait-of-hormuz-traffic-renewed-us-iran-conflict-chokes-hormuz.html) — *CNBC*
 
-### 2. U.S. condemns China's 'dangerous and aggressive' acts after Philippine sailor injured at disputed shoal
+### 3. Boeing and Airbus prepare for next narrow-body battle – but airlines aren’t pushing for new jets yet
 
-[原文] The flare-up came before Rubio is expected to visit Manila for meetings of Southeast Asian foreign ministers, with Chinese diplomat Wang Yi also in attendance.
+[原文] Boeing and Airbus are preparing their next narrow-body jets, but airlines and investors remain focused on production, deliveries and current aircraft.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/21/china-philippines-south-china-sea-disputes-sailor-injured-.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/21/boeing-airbus-narrow-body-planes-deliveries-737max-a320.html) — *CNBC*
 
-### 3. Trump imposing 50% tariffs on certain Canadian goods over alleged trade discrimination
+### 4. General Motors is set to report earnings before the bell. Here's what Wall Street expects
 
-[原文] Canada's relationship with the U.S. has frayed amid Trump's tariff-heavy agenda and vocal displeasure with the nations' trilateral trade pact with Mexico.
+[原文] Wall Street analysts expect General Motors to report adjusted earnings per share of $3.20 and revenue of $47.01 billion.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/20/trump-tariffs-canada-trade.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/21/general-motors-gm-earnings-q2-2026.html) — *CNBC*
 
-### 4. Oil prices rise after Trump says Iran will pay for killing U.S. service members
+### 5. Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices
 
-[原文] Oil prices have surged around 20% this month as fighting between the U.S. and Iran has sharply escalated.
+[原文] Comments from JPMorgan Chase CEO Jamie Dimon contrast with investors' recent willingness to look past wars, tariffs and other shocks.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/20/oil-prices-today-brent-wti-crude-us-iran-centcom-hormuz.html) — *CNBC*
-
-### 5. The FDA made a big reversal in its cyclosporiasis probe, but it still thinks iceberg lettuce is to blame
-
-[原文] The FDA's investigation into the source of the cyclosporiasis outbreak is causing confusion as companies and consumers alike navigate new updates.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/20/cyclosporiasis-fda-taylor-farms-lettuce-false-positive.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/20/jpmorgan-chase-ceo-jamie-dimon-market-risk.html) — *CNBC*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Gifted, charismatic and passionate amid highs and lows - Keegan obituary
-
-[原文] The positivity and vibrancy Kevin Keegan brought made him a cherished figure within the game, writes chief football writer Phil McNulty.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c20z4d87vp3o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 2. Fifa opens investigation into Argentina post-final trouble - what happens next?
+### 1. Fifa opens investigation into Argentina post-final trouble - what happens next?
 
 [原文] Argentina will face an investigation into the ugly scenes at the end of the World Cup final, Fifa has confirmed.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/clyxjk0z5y7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Guardiola in reported talks with Italy - would England come calling?
+### 2. Bournemouth midfielder Scott rejects new contract
+
+[原文] Bournemouth midfielder Alex Scott rejects a new contract amid growing Premier League interest in the England international.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c0rdn1p2z45o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. Earl wants changes to 'brutal' Nations Championship format
+
+[原文] Ben Earl calls for a change to the Nations Championship format after England's "brutal" schedule in the summer leg of the inaugural competition.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-union/articles/c74g58vzjj4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. Why was Hamilton penalised but not Leclerc? - F1 Q&A
+
+[原文] BBC Sport F1 correspondent Andrew Benson answers your latest questions before the Hungarian Grand Prix.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/cn4n21ye3w2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 5. Guardiola in reported talks with Italy - would England come calling?
 
 [原文] Former Manchester City manager Pep Guardiola, a fluent Italian speaker, is a contender for the vacant Italy head coach job.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c20dn5j0lj0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. Gallery: Spain celebrate World Cup triumph in Madrid
-
-[原文] Thousands of fans take to the streets of Madrid as the Spain squad enjoy a bus parade after winning the World Cup.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cgje79d6q64o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. What will Rogers bring to Alonso's Chelsea?
-
-[原文] Chelsea's £117m move for Aston Villa forward Morgan Rogers is a genuine transfer window shock, but how did they do it and what does it mean for the rest of the squad?
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cy8enwn2xq4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Peter Lassally, Legendary Late Night Producer for Johnny Carson, David Letterman and Craig Ferguson, Dies at 93
+### 1. FAST Provider Wedotv Launches in India With Samsung TV Plus (EXCLUSIVE)
 
-[原文] Peter Lassally, the dean of late night producers who worked with Johnny Carson on the &#8220;Tonight Show,&#8221; David Letterman on &#8220;Late Show&#8221; and Craig Ferguson on &#8220;The Late Late 
+[原文] FAST channel provider wedotv has struck its first distribution deal in India, bringing four channels to Samsung TV Plus and reaching millions of Samsung Smart TV users across the country. The agreemen
 
-📎 [阅读原文](https://variety.com/2026/tv/news/peter-lassally-late-night-producer-carson-letterman-dies-dead-1236816945/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/wedotv-samsung-tv-plus-india-fast-channels-1236817044/) — *Variety*
 
-### 2. Sharon Stone on Quitting Weed and Stopping a Stroke Medication Despite Doctors’ Orders: ‘It Was Like Going Off of F—ing Heroin’
+### 2. ‘The Odyssey’ Breaks Records With Massive Debut at U.K. and Ireland Box Office
 
-[原文] Sharon Stone is done smoking weed. Her journey to cut ties with cannabis began when she was put on several medications after she suffered a near-fatal stroke in 2001. “I got off one of my medications 
+[原文] The U.K. and Ireland box office experienced a massive tentpole shift as Universal&#8217;s &#8220;The Odyssey&#8221; captured the top spot, storming the market with a spectacular debut weekend of £12.5
 
-📎 [阅读原文](https://variety.com/2026/film/columns/sharon-stone-quitting-weed-stopping-stroke-medication-like-going-off-of-heroin-1236816916/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/box-office/the-odyssey-uk-ireland-box-office-1236816591/) — *Variety*
 
-### 3. LISTEN: Christopher Nolan Gets Moviegoers Out in Force for the Trojan Horse
+### 3. A.R. Rahman Launches ARR Immersive App for Apple Vision Pro (EXCLUSIVE)
 
-[原文] On today’s episode of &#8220;Daily Variety&#8221; podcast, in our Box Office segment, Variety’s Rebecca Rubin breaks down the spectacular $264 million worldwide opening for Universal Pictures’ “The Od
+[原文] A.R. Rahman, the two-time Oscar-winning Indian composer behind &#8220;Slumdog Millionaire&#8221; and &#8220;127 Hours,&#8221; is launching ARR Immersive, an app bringing his decade of immersive storyt
 
-📎 [阅读原文](https://variety.com/2026/film/news/box-office-odyssey-christopher-nolan-daily-variety-podcast-1236816924/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/ar-rahman-arr-immersive-app-apple-vision-pro-1236816469/) — *Variety*
 
-### 4. The Emmys ‘F—ed This Up’: Streamers and Networks Are Outraged as Five Categories Get Cut From the Telecast
+### 4. Chloe Fineman Says ‘SNL’ Boss Lorne Michaels Was at World Cup Match When She Called to Say She Was Leaving the Show
 
-[原文] Bad move, Emmys. Just about everyone hates it. On Friday, Variety exclusively revealed the Television Academy&#8217;s plan to thin out the categories handed out during its primetime telecast on Sept. 
+[原文] &#8220;Saturday Night Live&#8221; boss Lorne Michaels was a bit tied up when Chloe Fineman called to say she was leaving the show. &#8220;In classic form, he was watching England vs. Argentina,&#8221;
 
-📎 [阅读原文](https://variety.com/2026/tv/columns/emmys-cut-five-categories-telecast-backlash-1236816847/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/columns/chloe-fineman-saturday-night-live-lorne-michaels-world-cup-1236816726/) — *Variety*
 
-### 5. ‘I’ve Been Scammed Left and Right’: Demand for ‘Odyssey’ Tickets Gives Rise to Sketchy Scalpers
+### 5. Jon Stewart Says the World Cup Final Was the ‘Reverse Super Bowl’: ‘The Players Spoke Spanish and the Halftime Show Was in English’
 
-[原文] Elijahturner011 had a simple question: “Can someone release a ticket to me, please?” “I’ve been trying to get a ticket forever. I’ve been scammed left and right,” they wrote on July 20 in the Reddit p
+[原文] On Monday night’s episode of “The Daily Show,” Jon Stewart gave his post-game thoughts about Sunday’s World Cup final match, which saw Spain win out over Argentina 1-0. “Of course, the World Cup ended
 
-📎 [阅读原文](https://variety.com/2026/film/news/imax-scalpers-odyssey-fans-ripped-off-scammers-1236816718/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/jon-stewart-world-cup-final-halftime-show-trump-1236817023/) — *Variety*
 
 ---
 
@@ -244,35 +244,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. New WHO guidelines: up to 45% of dementia risk could be prevented or delayed
+### 1. WHO marks 25 years of Research4Life, advancing access to scientific knowledge in more than 120 countries
+
+[原文] The World Health Organization (WHO) today marks the 25th anniversary of Research4Life, a public-private partnership that provides researchers, educators, health professionals and policy-makers in low-
+
+📎 [阅读原文](https://www.who.int/news/item/21-07-2026-who-marks-25-years-of-research4life--advancing-access-to-scientific-knowledge-in-more-than-120-countries) — *WHO*
+
+### 2. Road deaths fall by 21% globally but stronger action is needed to save lives
+
+[原文] Despite the addition of more than one billion motor-vehicles to the world&rsquo;s roads, road traffic deaths declined by 21% between 2011 and 2025, according to new data released by the World Health O
+
+📎 [阅读原文](https://www.who.int/news/item/20-07-2026-road-deaths-fall-by-21--globally-but-stronger-action-is-needed-to-save-lives) — *WHO*
+
+### 3. WHO Member States continue negotiations on the Pathogen Access and Benefit Sharing Annex
+
+[原文] WHO Member States have advanced negotiations on the Pathogen Access and Benefit Sharing (PABS) annex, a central component of the WHO Pandemic Agreement, while agreeing that continued discussions are n
+
+📎 [阅读原文](https://www.who.int/news/item/20-07-2026-who-member-states-continue-negotiations-on-the-pathogen-access-and-benefit-sharing-annex) — *WHO*
+
+### 4. New WHO guidelines: up to 45% of dementia risk could be prevented or delayed
 
 [原文] The World Health Organization (WHO) today released updated guidelines on reducing the risk of cognitive decline and dementia, providing countries with evidence-based recommendations to help prevent or
 
 📎 [阅读原文](https://www.who.int/news/item/15-07-2026-new-who-guidelines--up-to-45--of-dementia-risk-could-be-prevented-or-delayed) — *WHO*
 
-### 2. Global childhood immunization coverage inches forward despite conflict and hesitancy – UNICEF, WHO
+### 5. Global childhood immunization coverage inches forward despite conflict and hesitancy – UNICEF, WHO
 
 [原文] In 2025, 90% of infants globally &ndash; or nearly 116 million &ndash; received at least one dose of a diphtheria, tetanus and pertussis (DTP) vaccine, and 85% &ndash; or 110 million &ndash; completed
 
 📎 [阅读原文](https://www.who.int/news/item/15-07-2026-global-childhood-immunization-coverage-inches-forward-despite-conflict-and-hesitancy---unicef--who) — *WHO*
-
-### 3. El Salvador validated by WHO as having eliminated trachoma as a public health problem
-
-[原文] The World Health Organization (WHO) has validated El Salvador as having eliminated trachoma as a public health problem. Trachoma is the world's leading infectious cause of blindness.
-
-📎 [阅读原文](https://www.who.int/news/item/13-07-2026-el-salvador-validated-by-who-as-having-eliminated-trachoma-as-a-public-health-problem) — *WHO*
-
-### 4. WHO calls for urgent action as new cancer cases are projected to nearly double by 2050
-
-[原文] Millions of people are facing physical, emotional and financial toll of cancer, a disease that claims more than 26 000 lives every day, according to a report released today by the World Health Organiz
-
-📎 [阅读原文](https://www.who.int/news/item/08-07-2026-who-calls-for-urgent-action-as-new-cancer-cases-are-projected-to-nearly-double-by-2050) — *WHO*
-
-### 5. WHO adds first diagnostic test for Ebola Bundibugyo virus to its Emergency Use Listing
-
-[原文] Today, the World Health Organization (WHO) has added the first molecular diagnostic test for Bundibugyo virus (BDBV) to its Emergency Use Listing (EUL). The test detects the virus by identifying its g
-
-📎 [阅读原文](https://www.who.int/news/item/02-07-2026-who-adds-first-diagnostic-test-for-ebola-bundibugyo-virus-to-its-emergency-use-listing) — *WHO*
 
 ---
 
@@ -363,35 +363,35 @@ The post List Your Car on eBay Motors for Free Until the End of July appea
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Rising seas magnify the dangers of coastal Georgia’s industrial past
+### 1. French Polynesia objects to an American seabed mining plan made without its input
+
+暂无摘要。
+
+📎 [阅读原文](https://grist.org/indigenous/french-polynesia-objects-to-an-american-seabed-mining-plan-made-without-its-input/) — *Grist*
+
+### 2. As climate change threatens their lands, Indigenous nations demand more power at the UN
+
+暂无摘要。
+
+📎 [阅读原文](https://grist.org/global-indigenous-affairs-desk/as-climate-change-threatens-their-lands-indigenous-nations-demand-more-power-at-the-un/) — *Grist*
+
+### 3. Rising seas magnify the dangers of coastal Georgia’s industrial past
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/cities/rising-seas-magnify-the-dangers-of-coastal-georgias-industrial-past/) — *Grist*
 
-### 2. Trump again shrinks Bears Ears and Grand Staircase-Escalante national monuments
+### 4. Trump again shrinks Bears Ears and Grand Staircase-Escalante national monuments
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/politics/trump-again-shrinks-bears-ears-and-grand-staircase-escalante-national-monuments/) — *Grist*
 
-### 3. New York governor orders first statewide data center moratorium
+### 5. New York governor orders first statewide data center moratorium
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/politics/new-york-governor-orders-first-statewide-data-center-moratorium/) — *Grist*
-
-### 4. Thousands flee as First Nations bear the brunt of Canada’s wildfires
-
-暂无摘要。
-
-📎 [阅读原文](https://grist.org/indigenous/thousands-flee-as-first-nations-bear-the-brunt-of-canadas-wildfires/) — *Grist*
-
-### 5. Wildfire smoke threatens the World Cup final. FIFA still doesn’t have a plan.
-
-暂无摘要。
-
-📎 [阅读原文](https://grist.org/extreme-weather/wildfire-smoke-threatens-the-world-cup-final-fifa-still-doesnt-have-a-plan/) — *Grist*
 
 ---
 
@@ -439,35 +439,35 @@ The post List Your Car on eBay Motors for Free Until the End of July appea
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Brad Paisley Recalls ‘Cat-and-Mouse’ Details of Taylor Swift and Travis Kelce’s Wedding
+### 1. Abbey Road Music Photography Awards to Honor Masayoshi Sukita With Lifetime Achievement Award
+
+[原文] The recording studio's annual photography awards, established in 2022, will take place in London in September
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/abbey-road-music-photography-awards-masayoshi-sukita-1235596421/) — *Rolling Stone*
+
+### 2. Brad Paisley Recalls ‘Cat-and-Mouse’ Details of Taylor Swift and Travis Kelce’s Wedding
 
 [原文] The country star and his wife Kimberly Williams-Paisley were invited to the ceremony at Madison Square Garden
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/brad-paisley-taylor-swift-travis-kelce-wedding-1235596400/) — *Rolling Stone*
 
-### 2. Offset Gets 50 Hours of Community Service for ‘Regretful’ Assault of Weed Dispensary Guard
+### 3. Offset Gets 50 Hours of Community Service for ‘Regretful’ Assault of Weed Dispensary Guard
 
 [原文] The Migos rapper must also complete an anger management program, refrain from possessing firearms, and stay 100 yards away from the MedMen dispensary
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/offset-medmen-dispensary-assault-case-community-service-1235596373/) — *Rolling Stone*
 
-### 3. Justin Bieber’s Weird ‘Everything Hallelujah’ Song Gets 240% Streaming Bump After World Cup
+### 4. Justin Bieber’s Weird ‘Everything Hallelujah’ Song Gets 240% Streaming Bump After World Cup
 
 [原文] Some people thought the track didn't match the vibe of the championship game, but it saw a huge spike in listeners
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/justin-bieber-world-cup-everything-hallelujah-streams-spike-1235596096/) — *Rolling Stone*
 
-### 4. No, Madonna Was Not in Trump’s Suite at the World Cup Final
+### 5. No, Madonna Was Not in Trump’s Suite at the World Cup Final
 
 [原文] A viral tweet claimed the pop icon watched the final from Donald Trump’s suite. The woman in the footage was clearly someone else
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/madonna-trump-world-cup-rumor-1235595216/) — *Rolling Stone*
-
-### 5. Melissa Auf der Maur Digs Into Her Archive for First New Music in Over 15 Years
-
-[原文] Bass Womb Room will find the Hole and Smashing Pumpkins bassist pairing previously unreleased demos with new "interludes" composed for an upcoming photo exhibit
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/melissa-auf-der-maur-new-music-bass-womb-room-1235595950/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post List Your Car on eBay Motors for Free Until the End of July appea
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Riyadh Air Waited Years for New Planes. Now Six Have Arrived in 30 Days
+### 1. The U.S. Passport Is Stuck, The UAE’s Is Gaining Fast
+
+[原文] Passport rankings are a lagging indicator of something travel companies should watch in real time: how easily — and where — a country's citizens can move.
+
+📎 [阅读原文](https://skift.com/2026/07/21/the-u-s-passport-is-stuck-the-uaes-is-gaining-fast/) — *Skift*
+
+### 2. Riyadh Air Waited Years for New Planes. Now Six Have Arrived in 30 Days
 
 [原文] For a startup with no legacy fleet to fall back on, delivery delays were painful. But taking such a large number of aircraft in just a month brings its own headaches.
 
 📎 [阅读原文](https://skift.com/2026/07/20/riyadh-air-waited-years-for-new-planes-now-six-have-arrived-in-30-days/) — *Skift*
 
-### 2. Expedia’s AI Timeline Runs Through Its Talent Strategy
+### 3. Expedia’s AI Timeline Runs Through Its Talent Strategy
 
 [原文] Expedia is betting its product roadmap on replicating the outsized AI productivity of its elite engineers. According to its CTO, the strategy hinges on a race to hire and retain that talent — making t
 
 📎 [阅读原文](https://skift.com/2026/07/20/expedia-cto-ramana-thumu-ai-talent-strategy/) — *Skift*
 
-### 3. JetBlue Wins Spirit’s LaGuardia Slots for $58.5 Million — Below Spirit’s Own Estimate
+### 4. JetBlue Wins Spirit’s LaGuardia Slots for $58.5 Million — Below Spirit’s Own Estimate
 
 [原文] JetBlue’s winning bid comes in well below Spirit's $86.7 million valuation of its LaGuardia slots.
 
 📎 [阅读原文](https://skift.com/2026/07/20/jetblue-wins-spirits-coveted-slots-at-laguarda-for-58-5-million/) — *Skift*
 
-### 4. Hotel Brands Circle Student Housing: 4 Income Streams
+### 5. Hotel Brands Circle Student Housing: 4 Income Streams
 
 [原文] The appeal is in diversifying across multiple income streams: students, extended-stay, traditional brief hotel stays, and coworking.
 
 📎 [阅读原文](https://skift.com/2026/07/20/hotel-brands-circle-student-housing-4-income-streams/) — *Skift*
-
-### 5. Travel Marketing’s Next KPI Is Economic Impact, Not Impressions
-
-[原文] Travel marketers have become experts at measuring campaign activity. The challenge now is connecting that activity to visitation, traveler value, and economic impact while campaigns are still running.
-
-📎 [阅读原文](https://skift.com/2026/07/20/ai-economic-impact-travel-marketing/) — *Skift*
 
 ---
 
