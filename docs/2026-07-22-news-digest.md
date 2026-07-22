@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月22日** | 生成时间: 2026-07-22 10:55
+**2026年07月22日** | 生成时间: 2026-07-22 16:34
 
 ---
 
@@ -22,29 +22,29 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal
+### 2. More warehouses of Russian online retailer Wildberries hit by Ukraine, officials say
 
-[原文] A US-brokered agreement should see Israeli troops pulling out of a small part of Lebanon occupied during their conflict with Hezbollah.
+[原文] Logistics hubs belonging to Wildberries in the Krasnodar and Stavropol regions were struck overnight on Tuesday.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Carney looking at 'all options' as Trump announces 50% tariffs on Canada
+### 3. US renews strikes on Iran as Trump threatens to attack underground nuclear site
 
-[原文] The duties mark a major escalation in trade tensions between the North American neighbours.
+[原文] The US president's threat to target a key Iranian nuclear site came ahead of the 11th consecutive night of attacks.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Dozens hurt in Bologna protests after man dies while being restrained by police
+### 4. France passes law banning under-15s from social media
 
-[原文] Thousands of people took to the streets demanding justice for a Moroccan-born man who died on Sunday.
+[原文] The law will require social media platforms in France to verify all users age from January.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c86nwgw148xo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cq56l9p4y93o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers
+### 5. India's Modi government under growing pressure as 'cockroach' protests intensify
 
-[原文] Iran says it has hit two ships in the Strait of Hormuz as well as targets in Bahrain and Jordan.
+[原文] The CJP got a boost on Tuesday when the opposition Congress party demonstrated outside the PM's house.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c9d8p88lyjdo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump plans steep tariffs on generic drugs starting in 2028 to spur U.S. production
+### 1. Trump's push for American-made AI chips hits TSMC's margins
 
-[原文] The phased schedule is intended to push generic drugmakers to move production onshore.
+[原文] The Taiwan-based chipmaker has announced $200 billion in investment into U.S. manufacturing since Trump returned to power in 2025.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/22/trump-generic-drugs-tariffs-medicine-trade-.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/22/trump-pressure-ai-chips-us-tsmc-margins.html) — *CNBC*
 
-### 2. Super Micro surges 15% on new order and margin disclosure after SpaceX announcement
+### 2. Tehran's Hormuz threat risks global fallout, Rubio warns as U.S. strikes Iran for 11th straight night
 
-[原文] Many server makers are seeing faster growth as companies race to deploy artificial intelligence servers.
+[原文] His comments come as U.S. Central Command hit Iranian targets for an 11th straight night.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/21/super-micro-stock-spacex-announcement.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/22/us-iran-war-trump-hormuz-.html) — *CNBC*
 
-### 3. Nike to cut off thousands of online distributors in China, restructure digital footprint
+### 3. Oil prices jump 4% as Rubio says Iran 'not serious' about peace talks
 
-[原文] Nike is streamlining its online business in China as the company looks to stabilize pricing and branding and get back to growth.
+[原文] Oil prices rose as hopes for a ceasefire in the Middle East faded.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/21/nike-to-cut-off-thousands-of-online-distributors-in-china.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/22/oil-prices-iran-war-macro-rubio-brent-wti.html) — *CNBC*
 
-### 4. Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe
+### 4. What is Pickaxe Mountain, the Iranian nuclear facility Trump is threatening to strike?
 
-[原文] Goldman Sachs is launching a new alternative investments platform aimed at giving wealthy clients and family offices direct stakes in private companies.
+[原文] "We'll be hitting that area pretty soon, and very heavily," President Donald Trump said about Iran's underground nuclear facility in Pickaxe Mountain.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/21/goldman-sachs-private-markets-platform.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/22/pickaxe-mountain-location-nuclear-iran-trump.html) — *CNBC*
 
-### 5. These Japanese AI winners don’t make chips. They make toilets, glass fiber and seasoning
+### 5. Wall Street can wait: Why one U.S. biotech firm is listing in Hong Kong first
 
-[原文] A toilet maker, a glass fiber manufacturer and the maker of MSG have in Japan have become major beneficiaries of the AI boom.
+[原文] Global biotech firms are increasingly being drawn to Hong Kong for its growing investor base and proximity to Chinese pharmaceutical partners.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/22/japanese-ai-winners-toilets-fiberglass-and-seasoning.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/22/axiom-aiosciences-ipo-listing-hong-kong.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Dimension Capital’s $800M third fund shows the intersection of science and compute is booming
+### 1. Synthesia’s AI training platform is moving beyond videos into live coaching
+
+[原文] Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to h
+
+📎 [阅读原文](https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/) — *TechCrunch*
+
+### 2. The Anthropic-Physical Intelligence rumor roiling AI Twitter
+
+[原文] Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/) — *TechCrunch*
+
+### 3. Dimension Capital’s $800M third fund shows the intersection of science and compute is booming
 
 [原文] The four-year-old firm's latest fund is 60% larger than its second vehicle announced 18 months ago.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/21/dimension-capitals-800m-third-fund-shows-the-intersection-of-science-and-compute-is-booming/) — *TechCrunch*
 
-### 2. Meta is testing an AI bedtime story app for people with no imagination
+### 4. Meta is testing an AI bedtime story app for people with no imagination
 
 [原文] At last, a tech company has found a way to outsource humanity's oldest pastime: using our imaginations.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/) — *TechCrunch*
 
-### 3. These are the countries moving to ban social media for children
+### 5. These are the countries moving to ban social media for children
 
 [原文] Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and ex
 
 📎 [阅读原文](https://techcrunch.com/2026/07/21/social-media-ban-children-countries-list/) — *TechCrunch*
-
-### 4. OpenAI says Hugging Face was breached by its pre-release models
-
-[原文] OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/) — *TechCrunch*
-
-### 5. Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents
-
-[原文] Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Chelsea sign £117m Rogers - what will he bring?
+### 1. Why Chelsea have signed so many Man City academy graduates
+
+[原文] Morgan Rogers is the latest ex-Man City academy player to join Chelsea and will be reunited with more former City team-mates.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cpd7nqnq2w6o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. Five big names to look out for at Commonwealth Games
+
+[原文] These are the stars to look out for across the 10 sports at the 2026 Commonwealth Games in Glasgow.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/articles/c9w0r0k1n5qo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. Chelsea sign £117m Rogers - what will he bring?
 
 [原文] Chelsea's £117m move for Aston Villa midfielder Morgan Rogers is a genuine transfer window shock - so how did they do it and what does it mean for the rest of the squad?
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cy8enwn2xq4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Bournemouth reject £64m bid from Chelsea for Scott
-
-[原文] Bournemouth reject a £64m bid from Chelsea for Alex Scot after the midfielder turns down a new contract amid growing Premier League interest.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c0rdn1p2z45o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 3. Littler throws nine-darter in superb Matchplay win
+### 4. Littler throws nine-darter in superb Matchplay win
 
 [原文] World number one Luke Littler throws a thrilling nine-darter as he books his place in the quarter-finals of the World Matchplay with a 11-8 win over Nathan Aspinall.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/darts/articles/cn9nge10504o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. What can Hearts pick from debris of ongoing summer of hurt?
+### 5. What can Hearts pick from debris of ongoing summer of hurt?
 
 [原文] There's crashing back to Earth with a bang, and there's whatever Hearts fans have been going through since 16 May.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cz05re7pe7ko?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Iraola wants Mac Allister & Alisson to stay with Liverpool
-
-[原文] Liverpool boss Andoni Iraola wants midfielder Alexis Mac Allister and goalkeeper Alisson to remain at the club.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cpd7n21n2qno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Jennifer Garner Rails Against Paparazzi Who ‘Knocked Over’ Kids and More Just to Get Photos of Her and Ben Affleck: ‘So Hungry to Get at Me’
+### 1. Han Chae Young Scores a Hit With FlareFlow Korean Remake of Global Microdrama ‘Raising His Mistress’s Child’
+
+[原文] Han Chae Young, the actor behind some of K-drama&#8217;s most recognized titles, has scored a hit with &#8220;Raising His Mistress&#8217;s Child,&#8221; a Korean-language remake of a global microdrama
+
+📎 [阅读原文](https://variety.com/2026/tv/news/han-chae-young-raising-his-mistresss-child-korean-remake-flareflow-1236817114/) — *Variety*
+
+### 2. Rebel Wilson Wins Defamation Case Against Charlotte MacInnes Over ‘The Deb’ Bath Dispute
+
+[原文] Rebel Wilson has prevailed in a defamation case brought by Charlotte MacInnes, the lead actor in Wilson’s feature directorial debut, “The Deb.” Justice Elizabeth Raper of the Federal Court of Australi
+
+📎 [阅读原文](https://variety.com/2026/film/news/rebel-wilson-wins-defamation-case-charlotte-macinnes-1236817821/) — *Variety*
+
+### 3. Jennifer Garner Rails Against Paparazzi Who ‘Knocked Over’ Kids and More Just to Get Photos of Her and Ben Affleck: ‘So Hungry to Get at Me’
 
 [原文] Jennifer Garner recently told the “Shut Up Evan” podcast that paparazzi would go to dangerous lengths to get photos of her and her children. “If I went through a yellow light, 15 cars would go through
 
 📎 [阅读原文](https://variety.com/2026/film/news/jennifer-garner-paparazzi-knocked-over-kids-ben-affleck-1236817776/) — *Variety*
 
-### 2. Games for Change 2026 Award Winners Revealed
+### 4. Games for Change 2026 Award Winners Revealed
 
 [原文] The nonprofit organization Games for Change announced the winners of the 2026 Games for Change Awards at the G4C Awards Ceremony. The ceremony was held during the annual Games for Change Festival in N
 
 📎 [阅读原文](https://variety.com/2026/gaming/news/games-for-change-2026-award-winners-ceremony-1236816702/) — *Variety*
 
-### 3. Sony Music Files Another Lawsuit Against Udio, Alleges AI Music Generator Copied 30,000 Songs to Train Models
+### 5. Sony Music Files Another Lawsuit Against Udio, Alleges AI Music Generator Copied 30,000 Songs to Train Models
 
 [原文] Sony Music Entertainment has once again sued the AI music generator Udio, alleging the startup illegally copied more than 30,000 songs from the likes of Beyoncé, Harry Styles and Elvis Presley to trai
 
 📎 [阅读原文](https://variety.com/2026/music/news/sony-music-new-lawsuit-udio-ai-music-generator-1236817746/) — *Variety*
-
-### 4. Jennifer Garner and Judy Greer to Appear in Netflix’s ’13 Going on 30′ Reboot
-
-[原文] Jennifer Garner and Judy Greer were spotted on set of Netflix&#8217;s &#8220;13 Going on 30,&#8221; filming a scene with Emily Bader, who stars in the new reimagining with Logan Lerman. Garner — who p
-
-📎 [阅读原文](https://variety.com/2026/film/news/jennifer-garner-judy-greer-netflix-13-going-on-30-reboot-cameo-1236817722/) — *Variety*
-
-### 5. Mike Preston, ‘Mad Max 2: The Road Warrior’ and ‘Hot Pursuit’ Actor, Dies at 93
-
-[原文] Mike Preston, known for playing settler leader Pappagallo in &#8220;Mad Max 2: The Road Warrior&#8221; and Detective Bob Delaney in the Australian series &#8220;Homicide,&#8221; died June 8 in Florida
-
-📎 [阅读原文](https://variety.com/2026/film/news/mike-preston-dead-mad-max-2-the-road-warrior-1236817624/) — *Variety*
 
 ---
 
@@ -244,35 +244,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. WHO marks 25 years of Research4Life, advancing access to scientific knowledge in more than 120 countries
+### 1. UN report: Global hunger levels ease for third consecutive year as regional disparities persist
+
+[原文] Global hunger declined for a third consecutive year in 2025, demonstrating that progress is possible. However, the improvements remain fragile, unevenly distributed and insufficient to achieve the Sus
+
+📎 [阅读原文](https://www.who.int/news/item/21-07-2026-un-report--global-hunger-levels-ease-for-third-consecutive-year-as-regional-disparities-persist) — *WHO*
+
+### 2. WHO marks 25 years of Research4Life, advancing access to scientific knowledge in more than 120 countries
 
 [原文] The World Health Organization (WHO) today marks the 25th anniversary of Research4Life, a public-private partnership that provides researchers, educators, health professionals and policy-makers in low-
 
 📎 [阅读原文](https://www.who.int/news/item/21-07-2026-who-marks-25-years-of-research4life--advancing-access-to-scientific-knowledge-in-more-than-120-countries) — *WHO*
 
-### 2. Road deaths fall by 21% globally but stronger action is needed to save lives
+### 3. Road deaths fall by 21% globally but stronger action is needed to save lives
 
 [原文] Despite the addition of more than one billion motor-vehicles to the world&rsquo;s roads, road traffic deaths declined by 21% between 2011 and 2025, according to new data released by the World Health O
 
 📎 [阅读原文](https://www.who.int/news/item/20-07-2026-road-deaths-fall-by-21--globally-but-stronger-action-is-needed-to-save-lives) — *WHO*
 
-### 3. WHO Member States continue negotiations on the Pathogen Access and Benefit Sharing Annex
+### 4. WHO Member States continue negotiations on the Pathogen Access and Benefit Sharing Annex
 
 [原文] WHO Member States have advanced negotiations on the Pathogen Access and Benefit Sharing (PABS) annex, a central component of the WHO Pandemic Agreement, while agreeing that continued discussions are n
 
 📎 [阅读原文](https://www.who.int/news/item/20-07-2026-who-member-states-continue-negotiations-on-the-pathogen-access-and-benefit-sharing-annex) — *WHO*
 
-### 4. New WHO guidelines: up to 45% of dementia risk could be prevented or delayed
+### 5. New WHO guidelines: up to 45% of dementia risk could be prevented or delayed
 
 [原文] The World Health Organization (WHO) today released updated guidelines on reducing the risk of cognitive decline and dementia, providing countries with evidence-based recommendations to help prevent or
 
 📎 [阅读原文](https://www.who.int/news/item/15-07-2026-new-who-guidelines--up-to-45--of-dementia-risk-could-be-prevented-or-delayed) — *WHO*
-
-### 5. Global childhood immunization coverage inches forward despite conflict and hesitancy – UNICEF, WHO
-
-[原文] In 2025, 90% of infants globally &ndash; or nearly 116 million &ndash; received at least one dose of a diphtheria, tetanus and pertussis (DTP) vaccine, and 85% &ndash; or 110 million &ndash; completed
-
-📎 [阅读原文](https://www.who.int/news/item/15-07-2026-global-childhood-immunization-coverage-inches-forward-despite-conflict-and-hesitancy---unicef--who) — *WHO*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Ed Harris Reveals Dutton Ranch Scene Producers Cut That Made Him Want to Quit the Yellowstone Spinoff
+### 1. PAX Aus 2026 Guest Lineup Includes Former WWE superstar Austin Creed, Doom Composer Mick Gordon, and More
+
+[原文] The only thing they fear is you. And Mick Gordon’s guitar, probably.
+
+📎 [阅读原文](https://www.ign.com/articles/pax-aus-2026-guest-lineup-includes-former-wwe-superstar-austin-creed-doom-composer-mick-gordon-and-more) — *IGN*
+
+### 2. Wreckreation 2 Announced Despite Studio Closure, Just Nine Months After the Original Arrived
+
+[原文] Former Burnout boss Fiona Sperry has established a new studio to develop the sequel.
+
+📎 [阅读原文](https://www.ign.com/articles/wreckreation-2-announced-despite-studio-closure-just-nine-months-after-the-original-arrived) — *IGN*
+
+### 3. New Langrisser: Sea of Sword Trailer Provides First Look at Gameplay
+
+暂无摘要。
+
+📎 [阅读原文](https://www.ign.com/articles/new-langrisser-sea-of-sword-trailer-provides-first-look-at-gameplay) — *IGN*
+
+### 4. Former Tekken Director Katsuhiro Harada Reveals He Totally Misunderstood What Getting Invited To the Cookout Meant After Fans Loved the Leroy Smith Reveal
+
+[原文] Katsuhiro Harada, former director of the Tekken series, opened up about a hilarious misunderstanding he had with his international fans after revealing Leroy Smith for Tekken 7.
+
+📎 [阅读原文](https://www.ign.com/articles/former-tekken-director-katsuhiro-harada-reveals-he-totally-misunderstood-what-getting-invited-to-the-cookout-meant-after-fans-loved-the-leroy-smith-reveal) — *IGN*
+
+### 5. Ed Harris Reveals Dutton Ranch Scene Producers Cut That Made Him Want to Quit the Yellowstone Spinoff
 
 [原文] Ed Harris felt “misled” by his role on Yellowstone spinoff series Dutton Ranch, saying he nearly wanted to void his contract over issues with how his character, Everett McKinney, was used… or rather, 
 
 📎 [阅读原文](https://www.ign.com/articles/ed-harris-reveals-dutton-ranch-scene-producers-cut-that-made-him-want-to-quit-the-yellowstone-spinoff) — *IGN*
-
-### 2. New La La Land Poster Finally Fixes Issue That Bothered Ryan Gosling for Years
-
-[原文] An updated version of the La La Land movie poster has finally fixed an issue that’s haunted Ryan Gosling for nearly a decade.
-
-📎 [阅读原文](https://www.ign.com/articles/new-la-la-land-poster-finally-fixes-issue-that-bothered-ryan-gosling-for-years) — *IGN*
-
-### 3. Ghost in the Shell Fans Can't Decide if the New Prime Video Series Is Better Than the 1995 Movie
-
-[原文] Fans of Masamune Shirow’s Ghost in the Shell manga are at odds with 1995 film adaptation truthers after Science Saru’s 2026 Prime Video anime sparked a heated debate in the community.
-
-📎 [阅读原文](https://www.ign.com/articles/ghost-in-the-shell-fans-cant-decide-if-the-new-prime-video-series-is-better-than-the-1995-movie) — *IGN*
-
-### 4. Magic: The Gathering’s Most Valuable Cards of 2026 So Far
-
-[原文] From rare Marvel crossovers to a massive $3,000 Strixhaven pull, these are the most valuable and expensive Magic: The Gathering cards of 2026 so far.
-
-📎 [阅读原文](https://www.ign.com/articles/magic-the-gathering-most-valuable-cards-2026) — *IGN*
-
-### 5. NARUTO Mythos TCG Is Coming to the U.S., See It First at San Diego Comic-Con
-
-暂无摘要。
-
-📎 [阅读原文](https://www.ign.com/articles/naruto-mythos-tcg-is-coming-to-the-us-see-it-first-at-san-diego-comic-con) — *IGN*
 
 ---
 
@@ -439,35 +439,35 @@ The post 2027 Toyota Tundra Gets the Trailhunter Treatment, But Skips the &#8216
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Cher Must Pay Own $1 Million Legal Tab Over Royalties Battle With Sonny Bono’s Widow
+### 1. Paul McCartney Facetiming Ringo Starr During Beatles’ Magical Mystery Tour Is the Cameo of the Year
+
+[原文] Lucky fans on the acclaimed Liverpool tour got the ultimate surprise from the icon this week
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/paul-mccartney-facetimes-ringo-beatles-magical-mystery-tour-1235596950/) — *Rolling Stone*
+
+### 2. Cher Must Pay Own $1 Million Legal Tab Over Royalties Battle With Sonny Bono’s Widow
 
 [原文] Despite her victory in a legal feud over royalties with Mary Bono last year, Cher must pay the eye-watering legal fees she racked up
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/cher-1-million-legal-fees-sonny-bono-widow-mary-royalties-1235596860/) — *Rolling Stone*
 
-### 2. Charli XCX Keeps the ‘Camera’ Rolling on Vincent Cassel in New Video
+### 3. Charli XCX Keeps the ‘Camera’ Rolling on Vincent Cassel in New Video
 
 [原文] The great French actor endures a brutal day on set in the latest visual for Charli’s Music, Fashion, Film
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/charli-xcx-vincent-cassel-camera-music-video-1235596723/) — *Rolling Stone*
 
-### 3. Celeste Rivas Hernandez Was ‘Unrecognizable,’ Cop Who Saw Remains Recalls at D4vd Hearing
+### 4. Celeste Rivas Hernandez Was ‘Unrecognizable,’ Cop Who Saw Remains Testifies at D4vd Hearing
 
 [原文] Prosecutors began to lay out the evidence against the 21-year-old singer, who's accused of murdering and dismembering the 14-year-old girl
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/d4vd-evidence-hearing-celeste-rivas-hernandez-photos-1235596063/) — *Rolling Stone*
 
-### 4. A Car John Bonham Probably Drove Into a Ditch Is Headed to Auction
+### 5. A Car John Bonham Probably Drove Into a Ditch Is Headed to Auction
 
 [原文] The fully-rehabbed 1972 Jensen Interceptor III — which the Led Zeppelin drummer may have crashed in 1977 — will hit the block on July 25
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/john-bonham-jensen-interceptor-auction-1235596516/) — *Rolling Stone*
-
-### 5. Harry Styles Cancels Brazil Show Over ‘Health Issue’
-
-[原文] The star was scheduled to perform four nights in the city, and Live Nation Brazil said Friday’s show in São Paulo will proceed as normal
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/harry-styles-cancels-brazil-show-health-issue-1235596495/) — *Rolling Stone*
 
 ---
 
