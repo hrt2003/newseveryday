@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月23日** | 生成时间: 2026-07-23 11:17
+**2026年07月23日** | 生成时间: 2026-07-23 16:35
 
 ---
 
@@ -22,30 +22,29 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist
+### 2. Houthis claim attack on oil tankers as US launches more strikes on Iran
 
-[原文] Donald Trump says the US will respond any time Iranian forces shoot at a ship in the Strait of Hormuz.
+[原文] The Houthi attacks would be the first in the Red Sea since the Iran-backed group announced a "maritime embargo" against Saudi Arabia.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Tankers make sharp U-turns after Houthi shipping threat
+### 3. 'I am still alive': Indian activist on hunger strike for 26 days loses 11kg
+
+[原文] Sonam Wangchuk has been the main draw at the Cockroach Janta Party (CJP) protest in Delhi.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/ce34n7kqr5ko?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. Tankers make sharp U-turns after Houthi shipping threat
 
 [原文] All of the ships were travelling to or from Saudi ports before changing course, ship-tracking data shows.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cn0n127lpzgo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Russia's businesses under strain from Ukraine's attacks on Wildberries
+### 5. Canada's 'powerful' dairy sector is in Trump's trade crosshairs
 
-[原文] Ukrainian drones have hit several retail warehouses belonging to Russia's biggest online retailer Wildberries in a matter of days.
+[原文] Canada's dairy supply management system is in the spotlight after the US president singled it out as one of three main irritants used to justify new tariffs.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Fire kills 10 members of same family in Peru, police say
-
-[原文] Authorities are investigating the cause of the blaze in Lima as local media report
- it may have been arson.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cm2g11ng7j2o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/ce8kvm84lxmo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -55,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Alphabet and Tesla test Wall Street's patience as AI spending overshadows growth
+### 1. Houthis claim strikes on Saudi Arabian oil tankers as Rubio says Iran not ready to make a deal
+
+[原文] Yemen's Houthis said they had targeted two Saudi Arabian oil tankers with drones and missiles for allegedly violating its maritime blockade.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/23/iran-war-us-trump-houthis-red-sea-oil.html) — *CNBC*
+
+### 2. Alphabet and Tesla test Wall Street's patience as AI spending overshadows growth
 
 [原文] Shares of Alphabet and Tesla dipped after the companies reported massive spending increases in their quarterly earnings reports.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/22/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html) — *CNBC*
 
-### 2. Oil prices climb after tanker struck off Saudi Arabia, Trump escalates Iran threats
+### 3. Oil surpasses $97 after tankers struck off Saudi Arabia, Trump escalates Iran threats
 
 [原文] Oil prices rose after U.S. President Donald Trump threatened to bomb Iranian infrastructure in response to any attacks on ships transiting the Strait of Hormuz.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/23/oil-prices-today-wti-brent-trump-iran-hormuz.html) — *CNBC*
 
-### 3. Tesla misses on earnings, as free cash flow turns negative and margins slide
+### 4. Tesla misses on earnings, as free cash flow turns negative and margins slide
 
 [原文] Tesla's earnings report lands in the midst of a slide in the company's stock price even as its core auto business is rebounding.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/22/tesla-tsla-q2-2026-earnings-report.html) — *CNBC*
 
-### 4. Why we're sticking with Alphabet despite an imperfect quarter and more AI spending
+### 5. UniCredit CEO tells CNBC acquisition of Commerzbank could happen in fourth quarter
 
-[原文] The market isn't in a forgiving mood, but we're not in a hurry to leave this stock behind.
+[原文] UniCredit CEO Andrea Orcel told CNBC Thursday that the Italian bank could "potentially" acquire Commerzbank in the fourth quarter.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/22/why-were-sticking-with-alphabet-despite-an-imperfect-quarter-and-more-ai-spending.html) — *CNBC*
-
-### 5. Inside India newsletter: Skyroot rocket puts India alongside U.S., China in private orbital launch
-
-[原文] Indian startup Skyroot joins Chinese and American private companies in the race to launch satellites in low orbit.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/23/india-skyroot-rocket-us-china-spacex.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/23/unicredit-commerzbank-takeover-acquisition-2q-earnings.html) — *CNBC*
 
 ---
 
@@ -93,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. After shocking quarter, IBM insists that AI isn’t killing the mainframe
+### 1. ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push
+
+[原文] ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/) — *TechCrunch*
+
+### 2. After shocking quarter, IBM insists that AI isn’t killing the mainframe
 
 [原文] After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/) — *TechCrunch*
 
-### 2. Google justifies its massive AI spending with a booming cloud business
+### 3. Google justifies its massive AI spending with a booming cloud business
 
 [原文] Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/) — *TechCrunch*
 
-### 3. Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable
+### 4. Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable
 
 [原文] The episode has also intensified a broader debate in Washington over the influx of Chinese open models.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/) — *TechCrunch*
 
-### 4. Tesla spending skyrockets as Cybercab, Semi, Megapack production timeline slips
+### 5. Tesla spending skyrockets as Cybercab, Semi, Megapack production timeline slips
 
 [原文] Tesla's 26% boost in revenue wasn't enough to offset rising operating expenses and capital expenditures as it pushes to launch a new generation of products.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/22/tesla-spending-skyrockets-as-cybercab-semi-megapack-production-timeline-slips/) — *TechCrunch*
-
-### 5. Social media addiction lawsuit against Meta is dropped
-
-[原文] A closely watched social media addiction lawsuit that had been set to go to trial next week has been dropped after the plaintiff voluntarily dismissed his claims against Meta, leaving none of the majo
-
-📎 [阅读原文](https://techcrunch.com/2026/07/22/social-media-addiction-lawsuit-against-meta-is-dropped/) — *TechCrunch*
 
 ---
 
@@ -169,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Garnacho, Rogers and two clubs trying to balance the books
+### 1. One month, two record transfers - why English midfielders are in demand
 
-[原文] How can Chelsea afford Morgan Rogers? And why are Aston Villa pursuing a loan for Alejandro Garnacho rather than buying him?
+[原文] Elliot Anderson and Morgan Rogers both sold for record transfer fees, so why are English midfielders so in demand?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cvg0723e0jko?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cr596gzy8j3o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Joshua not ready for death of friends to 'sink in'
+### 2. Wolves training cancelled after Arokodare refuses to leave pitch
 
-[原文] Anthony Joshua says he is not ready for the loss of his two close friends and team members to "sink in yet" as he prepares for his first fight since their death.
+[原文] Wolves striker Tolu Arokodare forces the cancellation of a training session as he refuses to leave the pitch.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/articles/czjl3em4g74o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cr5934j1jmdo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Saliba to miss extended period with back injury
+### 3. Two waste paper bins, one Olympic dream
 
-[原文] Arsenal confirm defender William Saliba is set to miss an "extended period" after suffering a back injury while at the World Cup with France.
+[原文] Derived from basketball and developed by teenagers in late-Victorian England, netball is sport's great misunderstood "girly game". It could be heading to the Olympics in 2032.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c5yveezg9q3o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/netball/articles/cze9zwlwy42o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Menzies taken ill on stage at World Matchplay
-
-[原文] Cameron Menzies needs medical attention after being taken ill during his World Matchplay second-round match against Ross Smith in Blackpool on Wednesday.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/darts/articles/cqjxv0v1dlpo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Inter Miami under investigation after signing Casemiro
+### 4. Inter Miami under investigation after signing Casemiro
 
 [原文] Major League Soccer says it is investigating allegations of tampering by Inter Miami after the club signed Brazil midfielder Casemiro.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c3304ex7n7xo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 5. Menzies taken ill on stage at World Matchplay
+
+[原文] Cameron Menzies needs medical attention after being taken ill during his World Matchplay second-round match against Ross Smith in Blackpool on Wednesday.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/darts/articles/cqjxv0v1dlpo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -207,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Where to Find a Commonwealth Games 2026 Livestream in the U.S. to Watch the Event for Free
+### 1. Sarajevo Film Festival Unveils Competition Programs With 21 World Premieres, Six International Premieres
+
+[原文] The Sarajevo Film Festival, the leading festival for South-East European cinema, unveiled the lineups for the four competition sections on Thursday, which include 21 world premieres, six international
+
+📎 [阅读原文](https://variety.com/2026/film/global/sarajevo-competition-programs-1236818473/) — *Variety*
+
+### 2. Brazil Begins Three Days of Mourning After Luiz Carlos Barreto, Its Legendary Film Producer, Dies at 98
+
+[原文] Luiz Carlos Barreto, one of the driving forces of the Cinema Novo movement in the 1960s and 1970s, died in Rio de Janeiro on Wednesday, July 22, at the age of 98. In reaction – and it’s a measure of t
+
+📎 [阅读原文](https://variety.com/2026/film/obituaries-people-news/luiz-carlos-barreto-dies-at-98-lucy-barreto-glauber-rocha-1236818928/) — *Variety*
+
+### 3. Courtney Stodden Is Fighting for Something Bigger Than Jason Alexander’s Apology
+
+[原文] It took fourteen and a half years, but Jason Alexander finally apologized. On Wednesday, the “Seinfeld” actor issued a public apology to Courtney Stodden for a “comedy” sketch the two filmed together 
+
+📎 [阅读原文](https://variety.com/2026/tv/news/courtney-stodden-jason-alexander-apology-seinfeld-child-marriage-1236818847/) — *Variety*
+
+### 4. ‘The Wild Robot’ Character Rigging Studio STIM Sets Canary Islands Operation, Planning to Create More Than 100 Jobs
+
+[原文] French animation and visual effects company STIM – whose credits include “The Wild Robot,” “The Garfield Movie” and “Coyote vs. Acme” – is opening a production center in Spain’s Canary Islands, with p
+
+📎 [阅读原文](https://variety.com/2026/film/markets-festivals/stim-canary-islands-animation-studio-tenerife-zec-1236817891/) — *Variety*
+
+### 5. Where to Find a Commonwealth Games 2026 Livestream in the U.S. to Watch the Event for Free
 
 [原文] Some of the best summer athletes in the world are heading to Scotland for the 2026 Commonwealth Games. A quadrennial event dating back to 1930, the Commonwealth Games unites thousands of athletes from
 
 📎 [阅读原文](https://variety.com/2026/shopping/athletes/how-to-watch-2026-commonwealth-games-online-free-streaming-1236816812/) — *Variety*
-
-### 2. Yeon Sang-ho Returns to ‘Parasyte’ Universe With ‘Tamiya,’ Starring Shioli Kutsuna, at Netflix
-
-[原文] Yeon Sang-ho is returning to the &#8220;Parasyte&#8221; universe with &#8220;Parasyte: Tamiya,&#8221; a new live-action series starring Shioli Kutsuna for Netflix, set to stream in 2027. The series ma
-
-📎 [阅读原文](https://variety.com/2026/tv/news/yeon-sang-ho-parasyte-tamiya-shioli-kutsuna-netflix-1236817846/) — *Variety*
-
-### 3. Shaken, Soaked and Seasick: What It’s Like to Survive ‘The Odyssey’ in 4DX
-
-[原文] There’s no question that seeing Christopher Nolan’s epic “The Odyssey” in 70mm and Imax – or both – is an expansive and breathtaking experience. But for cinephiles who have already checked off those f
-
-📎 [阅读原文](https://variety.com/2026/film/features/the-odyssey-4dx-moving-seats-water-spraying-1236818539/) — *Variety*
-
-### 4. ‘Doctor Strange’ Director Says Elon Musk ‘Doesn’t Know S— About Cinema’ After Musk Vows to Make AI ‘Odyssey’: ‘His Opinions on Art Are Worthless’
-
-[原文] Elon Musk’s crusade against Christopher Nolan&#8217;s &#8220;The Odyssey&#8221; has raised eyebrows in Hollywood after the newly minted trillionaire vowed that before the end of the year, his AI tool 
-
-📎 [阅读原文](https://variety.com/2026/film/news/doctor-strange-director-slams-elon-musk-ai-odyssey-1236818552/) — *Variety*
-
-### 5. ‘Star Trek: Strange New Worlds’ Cast, Co-Showrunner Talk Playing With Genres in Season 4, ‘Joyful Curiosity,’ and That Puppet Episode
-
-[原文] The team behind &#8220;Star Trek: Strange New Worlds&#8221; took the stage at 92NY in New York on Tuesday to delve into what fans can expect from Season 4 of the Paramount+ series. Series stars Anson 
-
-📎 [阅读原文](https://variety.com/2026/tv/news/star-trek-strange-new-worlds-season-4-92ny-1236818484/) — *Variety*
 
 ---
 
@@ -283,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. LEGO Donkey Kong Arcade Set Officially Announced
+### 1. Matt Damon Almost Starred as Robin in Two Different Batman Movies
+
+[原文] “I remember Chris O’Donnell already had the part, but they were haggling over money,” explains Damon.
+
+📎 [阅读原文](https://www.ign.com/articles/matt-damon-almost-starred-as-robin-in-two-different-batman-movies) — *IGN*
+
+### 2. Doom Co-Creator John Romero to Headline Gamescom Asia x Thailand Game Show 2026
+
+暂无摘要。
+
+📎 [阅读原文](https://www.ign.com/articles/doom-co-creator-john-romero-to-headline-gamescom-asia-x-thailand-game-show-2026) — *IGN*
+
+### 3. 50/50 Director Jonathan Levine in Talks to Direct Tom Cruise Sequel Days of Thunder 2
+
+[原文] Paramount prepares to drop the hammer on another high-speed Tom Cruise legacy sequel.
+
+📎 [阅读原文](https://www.ign.com/articles/5050-director-jonathan-levine-in-talks-to-direct-tom-cruise-sequel-days-of-thunder-2) — *IGN*
+
+### 4. LEGO Donkey Kong Arcade Set Officially Announced
 
 [原文] LEGO's latest Nintendo set features Donkey Kong, Lady, and Jumpman himself.
 
 📎 [阅读原文](https://www.ign.com/articles/lego-donkey-kong-arcade-set-officially-announced) — *IGN*
 
-### 2. Save $1,500 Off an Alienware Area-51 Ryzen X3D Gaming PC With RTX 5090 GPU and 64GB of RAM
+### 5. Save $1,500 Off an Alienware Area-51 Ryzen X3D Gaming PC With RTX 5090 GPU and 64GB of RAM
 
 [原文] Still expensive, but a competitive price point in today's market for an extremely powerful gaming PC.
 
 📎 [阅读原文](https://www.ign.com/articles/dell-alienware-area-51-rtx-5090-gaming-pc-deal-july-2026) — *IGN*
-
-### 3. Samsung Galaxy Z Fold 8 Ultra Review So Far
-
-[原文] The Samsung Galaxy Z Fold 8 Ultra is Samsung's latest flagship foldable, and while it brings the better battery and camera that I've been wanting for years, its $2099 price tag is hard to swallow.
-
-📎 [阅读原文](https://www.ign.com/articles/samsung-galaxy-z-fold-8-ultra-review) — *IGN*
-
-### 4. Save $100 Off a Like New Asus ROG Xbox Ally X Handheld Gaming PC at Best Buy
-
-[原文] The most powerful Windows-based gaming handheld.
-
-📎 [阅读原文](https://www.ign.com/articles/asus-rog-xbox-ally-x-handheld-gaming-pc-deal-july-2026) — *IGN*
-
-### 5. Best Buy's Trio of Exclusive Limited Edition Xbox Elite Series 2 Core Controllers Are on Sale Today
-
-[原文] Preconfigured using Xbox's Design Lab service.
-
-📎 [阅读原文](https://www.ign.com/articles/xbox-elite-controller-deal-july-2026) — *IGN*
 
 ---
 
@@ -364,35 +363,35 @@ The post This Poor Maintenance Contractor Got Stuck 130 Feet Up In
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Most Utahns want to protect their national monuments. Trump had other plans.
+### 1. The deadly experiment that could save the American elm
+
+暂无摘要。
+
+📎 [阅读原文](https://grist.org/solutions/the-deadly-experiment-that-could-save-the-american-elm/) — *Grist*
+
+### 2. The year climate change came for the Tour de France
+
+暂无摘要。
+
+📎 [阅读原文](https://grist.org/culture/the-year-climate-change-came-for-the-tour-de-france/) — *Grist*
+
+### 3. Without stronger government action, Brazil’s low deforestation in the Amazon is unlikely to last
+
+暂无摘要。
+
+📎 [阅读原文](https://grist.org/international/without-stronger-government-action-brazils-low-deforestation-in-the-amazon-is-unlikely-to-last/) — *Grist*
+
+### 4. Most Utahns want to protect their national monuments. Trump had other plans.
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/politics/utah-national-monuments-trump-bears-ears-minerals/) — *Grist*
 
-### 2. Why the Iran war hasn’t caused a global oil crisis — yet
+### 5. Why the Iran war hasn’t caused a global oil crisis — yet
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/energy/why-the-iran-war-hasnt-caused-a-global-oil-crisis-yet/) — *Grist*
-
-### 3. French Polynesia objects to an American seabed mining plan made without its input
-
-暂无摘要。
-
-📎 [阅读原文](https://grist.org/indigenous/french-polynesia-objects-to-an-american-seabed-mining-plan-made-without-its-input/) — *Grist*
-
-### 4. As climate change threatens their lands, Indigenous nations demand more power at the UN
-
-暂无摘要。
-
-📎 [阅读原文](https://grist.org/global-indigenous-affairs-desk/as-climate-change-threatens-their-lands-indigenous-nations-demand-more-power-at-the-un/) — *Grist*
-
-### 5. Rising seas magnify the dangers of coastal Georgia’s industrial past
-
-暂无摘要。
-
-📎 [阅读原文](https://grist.org/cities/rising-seas-magnify-the-dangers-of-coastal-georgias-industrial-past/) — *Grist*
 
 ---
 
@@ -440,35 +439,35 @@ The post This Poor Maintenance Contractor Got Stuck 130 Feet Up In
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Beyoncé’s Dad Confirms a Bunch of Destiny’s Child Remixes Are Coming
+### 1. Shania Twain Performs Rousing Single ‘Dirty Rosie’ on ‘Fallon’
+
+[原文] The country singer also discussed opening for Harry Styles and missing Taylor Swift's wedding
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/shania-twain-dirty-rosie-performance-fallon-1235597635/) — *Rolling Stone*
+
+### 2. Sharon Osbourne Reveals Advice Ozzy Gave Her to Remember Him
+
+[原文] The Prince of Darkness died a year ago today at age 76
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/sharon-osbourne-ozzy-death-anniversary-remember-him-1235597623/) — *Rolling Stone*
+
+### 3. Beyoncé’s Dad Confirms a Bunch of Destiny’s Child Remixes Are Coming
 
 [原文] Mathew Knowles teased that Missy Elliott is among the artists on the new project
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/destinys-child-remixes-missy-elliott-1235597598/) — *Rolling Stone*
 
-### 2. Victoria Monét Previews ‘Frequency of Love’ Album With New Song ‘Reach Out’
+### 4. Victoria Monét Previews ‘Frequency of Love’ Album With New Song ‘Reach Out’
 
 [原文] Singer’s sophomore record is slated to arrive in the fall
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/victoria-monet-new-album-song-frequency-of-love-reach-out-1235597490/) — *Rolling Stone*
 
-### 3. D4vd’s Tesla Was Filled With Air Fresheners When Celeste Rivas Hernandez’s Body Was Discovered
+### 5. D4vd’s Tesla Was Filled With Air Fresheners When Celeste Rivas Hernandez’s Body Was Discovered
 
-[原文] Febreze products were found in the center console, back seat pockets, and trunk, an LAPD investigator testified on the second day of the singer’s preliminary hearing
+[原文] The scented products were found in the center console, back seat pockets, and trunk, an LAPD investigator testified on the second day of the singer’s preliminary hearing
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/d4vd-tesla-air-fresheners-celeste-rivas-hernandez-1235597110/) — *Rolling Stone*
-
-### 4. Noah Kahan Clarifies Misheard NSFW Lyrics: ‘Not Suck Your Mom’
-
-[原文] Kahan jokingly corrected lewd lyrics from tracks "Haircut," "23," and "Stick Season"
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/noah-kahan-misheard-lyrics-clarification-tweet-1235597313/) — *Rolling Stone*
-
-### 5. Black Sabbath Bandmates Remember Ozzy Osbourne on Death Anniversary: ‘His Legend Lives On’
-
-[原文] Surviving members Bill Ward, Geezer Butler, and Tony Iommi each pay tribute to their late singer
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/black-sabbath-tribute-ozzy-osbourne-one-year-after-death-1235597160/) — *Rolling Stone*
 
 ---
 
