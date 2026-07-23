@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月23日** | 生成时间: 2026-07-23 03:25
+**2026年07月23日** | 生成时间: 2026-07-23 11:17
 
 ---
 
@@ -16,9 +16,9 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. US to announce deal allowing Saudi Arabia a nuclear programme
+### 1. US signs landmark nuclear deal with Saudi Arabia
 
-[原文] The agreement would fulfil a long-held Saudi ambition but could attract concern in Israel and from some US lawmakers.
+[原文] The US Department of Energy says the "peaceful" co-operation agreement will give US firms "great access" to the Saudi nuclear energy programme.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss) — *BBC World*
 
@@ -34,17 +34,18 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cn0n127lpzgo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. British woman jailed for blackmail after accusing banker of rape in Hong Kong
+### 4. Russia's businesses under strain from Ukraine's attacks on Wildberries
 
-[原文] Isabel Rose was convicted of trying to extort £100,000 from the UK banker and perverting the course of justice.
+[原文] Ukrainian drones have hit several retail warehouses belonging to Russia's biggest online retailer Wildberries in a matter of days.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cz97gdjgezno?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Wreckage of Pan Am plane that shaped aviation safety found 74 years on
+### 5. Fire kills 10 members of same family in Peru, police say
 
-[原文] The deaths of 52 people on the Clipper Endeavor led to the introduction of mandatory pre-flight safety briefings.
+[原文] Authorities are investigating the cause of the blaze in Lima as local media report
+ it may have been arson.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cdrvyllxj71o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cm2g11ng7j2o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +55,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Houthis deploy missiles and drones to attack ships in southern Red Sea, naval group says
+### 1. Alphabet and Tesla test Wall Street's patience as AI spending overshadows growth
 
-[原文] Attacks on ships transiting the Bab el-Mandeb threaten to cut off millions of barrels per day of Saudi crude oil exports.
+[原文] Shares of Alphabet and Tesla dipped after the companies reported massive spending increases in their quarterly earnings reports.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/22/houthis-red-sea-bab-el-mandeb-saudi-oil-iran.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/22/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html) — *CNBC*
 
-### 2. OpenAI cyber models broke out of training environment to hack Hugging Face
+### 2. Oil prices climb after tanker struck off Saudi Arabia, Trump escalates Iran threats
 
-[原文] The incident is unique because it was "driven, end to end, by an autonomous AI agent system," according to Hugging Face.
+[原文] Oil prices rose after U.S. President Donald Trump threatened to bomb Iranian infrastructure in response to any attacks on ships transiting the Strait of Hormuz.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/22/open-ai-cyber-models-hack-hugging-face.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/23/oil-prices-today-wti-brent-trump-iran-hormuz.html) — *CNBC*
 
-### 3. Senate crypto bill would ban federal officials — including presidents — from issuing digital assets
+### 3. Tesla misses on earnings, as free cash flow turns negative and margins slide
 
-[原文] A new version of the Clarity Act would impose the first limits on federal officials sponsoring or issuing cryptocurrency.
+[原文] Tesla's earnings report lands in the midst of a slide in the company's stock price even as its core auto business is rebounding.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/22/senate-crypto-bill-would-ban-federal-officials-from-issuing-digital-assets.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/22/tesla-tsla-q2-2026-earnings-report.html) — *CNBC*
 
-### 4. U.S. Secret Service official: 'Threat environment is the highest we've ever seen'
+### 4. Why we're sticking with Alphabet despite an imperfect quarter and more AI spending
 
-[原文] The Secret Service has seen a 40% increase this year in cases involving threats to protectees, include President Donald Trump.
+[原文] The market isn't in a forgiving mood, but we're not in a hurry to leave this stock behind.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/22/secret-service-threat-trump-white-house-drones.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/22/why-were-sticking-with-alphabet-despite-an-imperfect-quarter-and-more-ai-spending.html) — *CNBC*
 
-### 5. Analysis: Iran war energy shock hits the U.S. economy as gas and diesel prices climb
+### 5. Inside India newsletter: Skyroot rocket puts India alongside U.S., China in private orbital launch
 
-[原文] A new asymmetry in the market means fuel prices won't fall quickly even if the shooting in the Iran war and Strait of Hormuz stops.
+[原文] Indian startup Skyroot joins Chinese and American private companies in the race to launch satellites in low orbit.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/22/iran-war-energy-markets-gas-diesel-prices-us-economy-analysis.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/23/india-skyroot-rocket-us-china-spacex.html) — *CNBC*
 
 ---
 
@@ -92,35 +93,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. How OpenAI’s human mistake led to the AI-powered hack on Hugging Face
+### 1. After shocking quarter, IBM insists that AI isn’t killing the mainframe
 
-[原文] OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Huggin
+[原文] After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/) — *TechCrunch*
 
-### 2. Travis Kalanick’s robotics company raises $1.7B, led by a16z
+### 2. Google justifies its massive AI spending with a booming cloud business
 
-[原文] Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.
+[原文] Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/) — *TechCrunch*
 
-### 3. Science Corporation’s vision-restoring chip wins EU approval
+### 3. Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable
 
-[原文] "The thing that the space needs is a company making $100 million a year of revenue," Science Corp. CEO Max Hodak said.
+[原文] The episode has also intensified a broader debate in Washington over the influx of Chinese open models.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/22/science-corporations-vision-restoring-chip-wins-eu-approval/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/) — *TechCrunch*
 
-### 4. Yope raises $12.3M to build a private social network without algorithms or ads
+### 4. Tesla spending skyrockets as Cybercab, Semi, Megapack production timeline slips
 
-[原文] Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting tha
+[原文] Tesla's 26% boost in revenue wasn't enough to offset rising operating expenses and capital expenditures as it pushes to launch a new generation of products.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/22/tesla-spending-skyrockets-as-cybercab-semi-megapack-production-timeline-slips/) — *TechCrunch*
 
-### 5. Menlo Ventures’ Matt Murphy explains why Anthropic is winning (and it’s not the model)
+### 5. Social media addiction lawsuit against Meta is dropped
 
-[原文] Anthropic&#160;leaped to&#160;a&#160;$47 billion&#160;revenue run rate&#160;by May,&#160;compared to&#160;$9 billion&#160;in 2025.&#160;It’s&#160;the kind of growth that&#160;Menlo Ventures&#8217;&#16
+[原文] A closely watched social media addiction lawsuit that had been set to go to trial next week has been dropped after the plaintiff voluntarily dismissed his claims against Meta, leaving none of the majo
 
-📎 [阅读原文](https://techcrunch.com/video/menlo-ventures-matt-murphy-explains-why-anthropic-is-winning-and-its-not-the-model/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/22/social-media-addiction-lawsuit-against-meta-is-dropped/) — *TechCrunch*
 
 ---
 
@@ -174,29 +175,29 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cvg0723e0jko?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Inter Miami under investigation after signing Casemiro
+### 2. Joshua not ready for death of friends to 'sink in'
+
+[原文] Anthony Joshua says he is not ready for the loss of his two close friends and team members to "sink in yet" as he prepares for his first fight since their death.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/articles/czjl3em4g74o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. Saliba to miss extended period with back injury
+
+[原文] Arsenal confirm defender William Saliba is set to miss an "extended period" after suffering a back injury while at the World Cup with France.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c5yveezg9q3o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. Menzies taken ill on stage at World Matchplay
+
+[原文] Cameron Menzies needs medical attention after being taken ill during his World Matchplay second-round match against Ross Smith in Blackpool on Wednesday.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/darts/articles/cqjxv0v1dlpo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 5. Inter Miami under investigation after signing Casemiro
 
 [原文] Major League Soccer says it is investigating allegations of tampering by Inter Miami after the club signed Brazil midfielder Casemiro.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c3304ex7n7xo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 3. Arokodare forces Wolves training to be cancelled
-
-[原文] Wolves striker Tolu Arokodare forces the cancellation of a training session as he refuses to leave the pitch.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cr5934j1jmdo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. The Bezos factor - unpicking puzzle of Liverpool's potential investors
-
-[原文] Could Amazon founder and American billionaire Jeff Bezos really become one of Liverpool's new investors? BBC Sport takes a look.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c980l82wnd8o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Rangers to fight McInnes ban for 'disgusting' penalty remark
-
-[原文] Rangers intend to contest a four-match touchline ban given to manager Derek McInnes for describing as "disgusting" the decision to award Celtic a late penalty at Motherwell in May.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cd694y2pezlo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +207,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Hollywood’s Favorite Ugg Slippers (To Never Wear on a Christopher Nolan Set)
+### 1. Where to Find a Commonwealth Games 2026 Livestream in the U.S. to Watch the Event for Free
 
-[原文] Christopher Nolan&#8217;s &#8220;The Odyssey&#8221; has spawned countless debates since its blockbuster release &#8212; over representation and historical accuracy and, at least in my friend group, wh
+[原文] Some of the best summer athletes in the world are heading to Scotland for the 2026 Commonwealth Games. A quadrennial event dating back to 1930, the Commonwealth Games unites thousands of athletes from
 
-📎 [阅读原文](https://variety.com/2026/shopping/news/celebrity-favorite-ugg-slippers-shop-online-1236818232/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/shopping/athletes/how-to-watch-2026-commonwealth-games-online-free-streaming-1236816812/) — *Variety*
 
-### 2. Sophie Thatcher Is Ready to Move Beyond ‘Yellowjackets’ and Step Out of the Darkness
+### 2. Yeon Sang-ho Returns to ‘Parasyte’ Universe With ‘Tamiya,’ Starring Shioli Kutsuna, at Netflix
 
-[原文] Sophie Thatcher knows what you think about her. She’s seen the headlines and social media posts. She’s dark. Maybe it’s the acting choices, like Natalie, her tortured teen on “Yellowjackets,” or an ab
+[原文] Yeon Sang-ho is returning to the &#8220;Parasyte&#8221; universe with &#8220;Parasyte: Tamiya,&#8221; a new live-action series starring Shioli Kutsuna for Netflix, set to stream in 2027. The series ma
 
-📎 [阅读原文](https://variety.com/2026/film/features/sophie-thatcher-yellowjackets-ending-trump-gaza-her-private-hell-inde-navarrette-1236817823/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/yeon-sang-ho-parasyte-tamiya-shioli-kutsuna-netflix-1236817846/) — *Variety*
 
-### 3. FCC Chair Says ABC’s Decision to Not Broadcast Trump Speech Live Will Be Part of Agency’s Review of Station Licenses
+### 3. Shaken, Soaked and Seasick: What It’s Like to Survive ‘The Odyssey’ in 4DX
 
-[原文] Are TV broadcasters obligated to carry the U.S. president&#8217;s comments live on their government-licensed airwaves? The current head of the FCC indicated that he believes they are. Brendan Carr, th
+[原文] There’s no question that seeing Christopher Nolan’s epic “The Odyssey” in 70mm and Imax – or both – is an expansive and breathtaking experience. But for cinephiles who have already checked off those f
 
-📎 [阅读原文](https://variety.com/2026/tv/news/fcc-abc-trump-speech-review-station-licenses-1236818342/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/features/the-odyssey-4dx-moving-seats-water-spraying-1236818539/) — *Variety*
 
-### 4. European Commission Approves Paramount-Warner Bros. Merger
+### 4. ‘Doctor Strange’ Director Says Elon Musk ‘Doesn’t Know S— About Cinema’ After Musk Vows to Make AI ‘Odyssey’: ‘His Opinions on Art Are Worthless’
 
-[原文] The European Commission approved the merger of Paramount Skydance and Warner Bros. Discovery on Wednesday, removing one of the few remaining obstacles to closing the $111 billion deal. As a condition 
+[原文] Elon Musk’s crusade against Christopher Nolan&#8217;s &#8220;The Odyssey&#8221; has raised eyebrows in Hollywood after the newly minted trillionaire vowed that before the end of the year, his AI tool 
 
-📎 [阅读原文](https://variety.com/2026/film/news/european-commission-approves-paramount-warner-bros-1236818353/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/doctor-strange-director-slams-elon-musk-ai-odyssey-1236818552/) — *Variety*
 
-### 5. ‘Family Guy’ Spinoff ‘Stewie’ Adds Six to Cast, Including Kenan Thompson and Vanessa Bayer
+### 5. ‘Star Trek: Strange New Worlds’ Cast, Co-Showrunner Talk Playing With Genres in Season 4, ‘Joyful Curiosity,’ and That Puppet Episode
 
-[原文] The upcoming &#8220;Family Guy&#8221; spinoff focused on Stewie Griffin is building out its voice cast. Variety has confirmed that, in addition to Seth MacFarlane as Stewie, &#8220;Family Guy&#8221; m
+[原文] The team behind &#8220;Star Trek: Strange New Worlds&#8221; took the stage at 92NY in New York on Tuesday to delve into what fans can expect from Season 4 of the Paramount+ series. Series stars Anson 
 
-📎 [阅读原文](https://variety.com/2026/tv/news/family-guy-spinoff-stewie-cast-kenan-thompson-vanessa-bayer-1236818364/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/star-trek-strange-new-worlds-season-4-92ny-1236818484/) — *Variety*
 
 ---
 
@@ -282,35 +283,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The State of Every PlayStation Studio - July 2026
+### 1. LEGO Donkey Kong Arcade Set Officially Announced
 
-[原文] God of War Laufey, Marvel's Wolverine, Intergalactic: The Heretic Prophet — Here's what game every PlayStation studio is making.
+[原文] LEGO's latest Nintendo set features Donkey Kong, Lady, and Jumpman himself.
 
-📎 [阅读原文](https://www.ign.com/articles/the-state-of-every-playstation-studio-july-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/lego-donkey-kong-arcade-set-officially-announced) — *IGN*
 
-### 2. Stalker 2 Turned a Profit Before It Came Out Thanks to Money Microsoft Paid for Xbox Exclusivity
+### 2. Save $1,500 Off an Alienware Area-51 Ryzen X3D Gaming PC With RTX 5090 GPU and 64GB of RAM
 
-[原文] The founder of Stalker 2 developer GSC Game World has said the game turned a profit before it even came out thanks to the money Microsoft paid for Xbox exclusivity.
+[原文] Still expensive, but a competitive price point in today's market for an extremely powerful gaming PC.
 
-📎 [阅读原文](https://www.ign.com/articles/stalker-2-turned-a-profit-before-it-came-out-thanks-to-money-microsoft-paid-for-xbox-exclusivity) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/dell-alienware-area-51-rtx-5090-gaming-pc-deal-july-2026) — *IGN*
 
-### 3. Kevin Feige Says Marvel Has Movies Planned 'All the Way Up to 2042,' Including a Major X-Men Push and Live-Action Miles Morales
+### 3. Samsung Galaxy Z Fold 8 Ultra Review So Far
 
-[原文] Marvel has mapped out its movie plans up to 2042, studio boss Kevin Feige has said, hinting at a "streamlined, simplified" universe post-Avengers: Secret Wars, a big push for the new X-Men, and plans 
+[原文] The Samsung Galaxy Z Fold 8 Ultra is Samsung's latest flagship foldable, and while it brings the better battery and camera that I've been wanting for years, its $2099 price tag is hard to swallow.
 
-📎 [阅读原文](https://www.ign.com/articles/kevin-feige-says-marvel-has-movies-planned-all-the-way-up-to-2042-including-a-major-x-men-push-and-live-action-miles-morales) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/samsung-galaxy-z-fold-8-ultra-review) — *IGN*
 
-### 4. Hasbro's The Legend of Zelda Figures Have Been Revealed, and They Look Amazing | Comic Con 2026
+### 4. Save $100 Off a Like New Asus ROG Xbox Ally X Handheld Gaming PC at Best Buy
 
-[原文] Hasbro is revealing its first wave of The Legend of Zelda: Heroes of Hyrule figures at Comic-Con, and we've got an exclusive first look at all three.
+[原文] The most powerful Windows-based gaming handheld.
 
-📎 [阅读原文](https://www.ign.com/articles/hasbros-the-legend-of-zelda-figures-have-been-revealed-and-they-look-amazing-comic-con-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/asus-rog-xbox-ally-x-handheld-gaming-pc-deal-july-2026) — *IGN*
 
-### 5. Avatar Legends: The Fighting Game Review
+### 5. Best Buy's Trio of Exclusive Limited Edition Xbox Elite Series 2 Core Controllers Are on Sale Today
 
-[原文] A fighting game fan's dream with a diverse roster and an incredibly flexible combat system.
+[原文] Preconfigured using Xbox's Design Lab service.
 
-📎 [阅读原文](https://www.ign.com/articles/avatar-legends-the-fighting-game-review) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/xbox-elite-controller-deal-july-2026) — *IGN*
 
 ---
 
@@ -320,40 +321,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. I Reported on Flock’s Cameras. Now I’m One of the System’s Mistakes
+### 1. There’s an Entire Performance Car Hierarchy Coded Behind Brake Caliper Colors
+
+[原文] It might be tough to differentiate a base Nissan Z from a Z Performance model without looking at the window sticker, but there are signs.
+The post There&#8217;s an Entire Performance Car Hierarchy Cod
+
+📎 [阅读原文](https://www.thedrive.com/news/theres-an-entire-performance-car-hierarchy-coded-behind-brake-caliper-colors) — *The Drive*
+
+### 2. I Reported on Flock’s Cameras. Now I’m One of the System’s Mistakes
 
 [原文] How a typo entered 2,000 miles away triggered Flock's cameras — and led four police officers to surround me.
 The post I Reported on Flock&#8217;s Cameras. Now I&#8217;m One of the System&#8217;s Mista
 
 📎 [阅读原文](https://www.thedrive.com/news/i-reported-on-flocks-cameras-now-im-one-of-the-systems-mistakes) — *The Drive*
 
-### 2. 2027 Nissan Z Just Got More Expensive. But Look at It
+### 3. 2027 Nissan Z Just Got More Expensive. But Look at It
 
 [原文] The 2027 Nissan Z is $1,510 pricier than last year's, but you do get some improvements—including that sweet Shinkai Green Pearl Metallic.
 The post 2027 Nissan Z Just Got More Expensive. But Look at It
 
 📎 [阅读原文](https://www.thedrive.com/news/2027-nissan-z-just-got-more-expensive-but-look-at-it) — *The Drive*
 
-### 3. Toyota’s Secret Mid-Engine Sports Car With Yaris Lights Is Buzzing Around Fuji
+### 4. Toyota’s Secret Mid-Engine Sports Car With Yaris Lights Is Buzzing Around Fuji
 
 [原文] Every day, Toyota seems to tease more and more of the MR2's long-awaited revival.
 The post Toyota&#8217;s Secret Mid-Engine Sports Car With Yaris Lights Is Buzzing Around Fuji appeared first on The Dr
 
 📎 [阅读原文](https://www.thedrive.com/news/toyotas-secret-mid-engine-sports-car-with-yaris-lights-is-buzzing-around-fuji) — *The Drive*
 
-### 4. This Poor Maintenance Contractor Got Stuck 130 Feet Up Inside a Truck Stop Sign for Nearly Six Hours
+### 5. This Poor Maintenance Contractor Got Stuck 130 Feet Up Inside a Truck Stop Sign for Nearly Six Hours
 
 [原文] Ever wonder how people scale those huge truck stop signs? You can climb a big ladder, or you can cheat with a lift... until it breaks
 The post This Poor Maintenance Contractor Got Stuck 130 Feet Up In
 
 📎 [阅读原文](https://www.thedrive.com/news/those-huge-truck-stop-signs-have-a-lift-inside-and-this-poor-guy-got-stuck-in-one) — *The Drive*
-
-### 5. Range Rover is Making a Car
-
-[原文] The new Range Rover GT will be the most "car-like" Rover the company's ever cooked up.
-The post Range Rover is Making a Car appeared first on The Drive.
-
-📎 [阅读原文](https://www.thedrive.com/news/range-rover-is-making-a-car) — *The Drive*
 
 ---
 
@@ -439,35 +440,35 @@ The post Range Rover is Making a Car appeared first on The Drive.
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Black Sabbath Bandmates Remember Ozzy Osbourne on Death Anniversary: ‘His Legend Lives On’
+### 1. Beyoncé’s Dad Confirms a Bunch of Destiny’s Child Remixes Are Coming
+
+[原文] Mathew Knowles teased that Missy Elliott is among the artists on the new project
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/destinys-child-remixes-missy-elliott-1235597598/) — *Rolling Stone*
+
+### 2. Victoria Monét Previews ‘Frequency of Love’ Album With New Song ‘Reach Out’
+
+[原文] Singer’s sophomore record is slated to arrive in the fall
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/victoria-monet-new-album-song-frequency-of-love-reach-out-1235597490/) — *Rolling Stone*
+
+### 3. D4vd’s Tesla Was Filled With Air Fresheners When Celeste Rivas Hernandez’s Body Was Discovered
+
+[原文] Febreze products were found in the center console, back seat pockets, and trunk, an LAPD investigator testified on the second day of the singer’s preliminary hearing
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/d4vd-tesla-air-fresheners-celeste-rivas-hernandez-1235597110/) — *Rolling Stone*
+
+### 4. Noah Kahan Clarifies Misheard NSFW Lyrics: ‘Not Suck Your Mom’
+
+[原文] Kahan jokingly corrected lewd lyrics from tracks "Haircut," "23," and "Stick Season"
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/noah-kahan-misheard-lyrics-clarification-tweet-1235597313/) — *Rolling Stone*
+
+### 5. Black Sabbath Bandmates Remember Ozzy Osbourne on Death Anniversary: ‘His Legend Lives On’
 
 [原文] Surviving members Bill Ward, Geezer Butler, and Tony Iommi each pay tribute to their late singer
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/black-sabbath-tribute-ozzy-osbourne-one-year-after-death-1235597160/) — *Rolling Stone*
-
-### 2. Kacey Musgraves Heads South of the Border for ‘Mexico Honey’ Video
-
-[原文] The anthemic track comes off the country singer's most recent album, Middle of Nowhere
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/kacey-musgraves-mexico-honey-music-video-2-1235596984/) — *Rolling Stone*
-
-### 3. Dhani Harrison, Nigel Godrich Preview New Band Dragonflies’ Album With ‘Slower’
-
-[原文] Duo’s eponymous album arrives on Sept. 18
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/dhani-harrison-nigel-godrich-new-band-dragonflies-slower-1235597083/) — *Rolling Stone*
-
-### 4. Olivia Rodrigo Tackles Abortion Misinformation With Center for Reproductive Rights
-
-[原文] The musician spoke with three figures at the global legal advocacy organization to discuss midwifery, abortion access, and the maternal health crisis
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/olivia-rodrigo-center-reproductive-rights-abortion-series-1235597055/) — *Rolling Stone*
-
-### 5. Lily Allen Documentary Will Reflect on Singer’s Life and Career From MySpace to ‘West End Girl’
-
-[原文] Scheduled for release in 2027 via Prime Video, the biographical release will feature interviews with external sources who know her best
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/lily-allen-documentary-west-end-girl-myspace-1235597028/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +478,35 @@ The post Range Rover is Making a Car appeared first on The Drive.
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Emirates Rebuilds to 92% Capacity, Even as the Iran War Grinds On
+### 1. Behind Travel + Leisure’s $343 Million Bet, and Why More Timeshare Deals Are Coming
+
+[原文] The timeshare segment is a lending business in a hospitality costume, and that dynamic is helping to drive consolidation.
+
+📎 [阅读原文](https://skift.com/2026/07/22/behind-travel-leisures-343-million-bet-and-why-more-timeshare-deals-are-coming/) — *Skift*
+
+### 2. Southwest’s New Fees and Fare Hikes Offset an $889 Million Fuel Bill
+
+[原文] Southwest said it will focus more on enhancing its network, products, and pricing as part of an effort to further strengthen its profitability.
+
+📎 [阅读原文](https://skift.com/2026/07/22/southwests-new-fees-and-fare-hikes-offset-899-million-fuel-bill/) — *Skift*
+
+### 3. Fuel Costs Wipe Out Alaska Airlines’ Profit — Nearly $500 Million in Losses
+
+[原文] Surging fuel costs hit Alaska particularly hard this year. But the carrier is betting that it can turn its profitability around with higher travel demand — and even catch up to Delta and United.
+
+📎 [阅读原文](https://skift.com/2026/07/22/fuel-costs-wipe-out-alaska-airlines-profit/) — *Skift*
+
+### 4. Emirates Rebuilds to 92% Capacity, Even as the Iran War Grinds On
 
 [原文] Emirates has rebuilt faster than initially forecast, and faster than the war itself has resolved. Sir Tim Clark's well-worn crisis-management playbook is being tested in real time — and it's holding s
 
 📎 [阅读原文](https://skift.com/2026/07/22/emirates-rebuilds-to-92-capacity-even-as-the-iran-war-grinds-on/) — *Skift*
 
-### 2. Hilton, Marriott, and IHG Have All Launched UK Debit Cards. Here’s Why.
+### 5. Hilton, Marriott, and IHG Have All Launched UK Debit Cards. Here’s Why.
 
 [原文] Three of the world’s biggest hotel groups have launched debit cards in the UK and nowhere else. The reason has little to do with loyalty strategy.
 
 📎 [阅读原文](https://skift.com/2026/07/22/hilton-marriott-and-ihg-have-all-launched-uk-debit-cards-heres-why/) — *Skift*
-
-### 3. UAE Travel Agencies Report Delays in Payments From Saudi Clients
-
-[原文] The Saudi-UAE rift is reaching travel through the banking rails first. The thing to watch is whether it reaches demand next.
-
-📎 [阅读原文](https://skift.com/2026/07/22/uae-travel-agencies-report-delays-in-payments-from-saudi-clients/) — *Skift*
-
-### 4. Travel Customer Acquisition Is Moving Into Private Treaties
-
-[原文] AI search is shrinking the open channel where travel bought its customers, so the largest companies are trading member bases with each other instead.
-
-📎 [阅读原文](https://skift.com/2026/07/22/travel-customer-acquisition-is-moving-into-private-treaties/) — *Skift*
-
-### 5. A New Class of Buy Now, Pay Later: From Checkout Utility to Enterprise Growth Lever
-
-[原文] Flexible financing is becoming more than a way to complete a travel purchase. For airlines and other travel brands, the next opportunity is using financing to support brand equity and profits.
-
-📎 [阅读原文](https://skift.com/2026/07/22/claritypay-loyalty-financing/) — *Skift*
 
 ---
 
