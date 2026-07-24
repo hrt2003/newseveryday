@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月24日** | 生成时间: 2026-07-24 03:23
+**2026年07月24日** | 生成时间: 2026-07-24 10:55
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Oil prices hit $100 for the first time since May
+### 1. US imposes tariffs on dozens of trade partners over 'forced labour' imports
+
+[原文] The tariffs target around 60 trading partners over claims they failed to properly stop forced labour.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Oil prices hit $100 for the first time since May
 
 [原文] The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Saudis must recognise Israel for nuclear deal, says Trump
+### 3. Indonesian babies were trafficked to Singapore. What happens to them now?
+
+[原文] At least 12 babies have been trafficked from Indonesia to Singapore, but what will happen to them remains unclear.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. Saudis must recognise Israel for nuclear deal, says Trump
 
 [原文] The US president says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Ukraine's ousted defence minister insists on being reinstated
-
-[原文] Mykhailo Fedorov refuses President Zelensky's offer to accept an alternative post, as the battle of wills continues.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/ce97nm53pgxo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. France evacuates 20,000 as wildfires spread in south-west
+### 5. France evacuates 20,000 as wildfires spread in south-west
 
 [原文] Most of those evacuated were tourists from campsites around Arcachon Bay in France's Gironde region.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Yemen's Houthis attack Saudi tanker as US launches more Iran strikes
-
-[原文] The Iran-backed group, which previously announced a "maritime embargo" against Saudi Arabia, also claims to have hit another vessel.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Congress splits on war powers resolutions to force Trump to abandon Iran war
+### 1. Trump to slap 'sweeping' new tariffs on 60 trade partners as global duties expire
 
-[原文] Trump would be nearly certain to veto any measure to curtail his ability to wage war with Iran.
+[原文] The Trump administration has ramped its tariff actions back up since the president's trade  agenda suffered major legal setbacks earlier this year.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/23/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/23/trump-tariffs-trade-deadline.html) — *CNBC*
 
-### 2. Amazon and Microsoft pivot cloud gaming strategies to target different players
+### 2. U.S., other nations back open-source AI with 'strong security' at China summit
 
-[原文] Amazon is bringing Luna to the Prime Video streaming service, while Microsoft will test an ad-supported streaming of titles that people own.
+[原文] The APEC statement is the first to include open-source cooperation at a minister level, said Li Lecheng, China's industry and information technology minister.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/23/amazon-microsoft-cloud-gaming.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/24/china-ai-open-source-apec.html) — *CNBC*
 
-### 3. Odds of Federal Reserve rate hike surge as oil prices rip higher
+### 3. Intel's stock jumps as chipmaker rides AI boom to fastest revenue growth in almost 15 years
 
-[原文] Investors are increasingly readying for the Federal Reserve to hike interest rates in September.
+[原文] Intel rallied after the company reported blowout earnings and guidance.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/23/fed-interest-rate-odds-oil-jobless-claims.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/23/intel-intc-earnings-report-q2-2026.html) — *CNBC*
 
-### 4. Cerebras stock gains on AMD partnership
+### 4. U.S. to see higher generic drug prices thanks to tariffs, CEO of leading India pharma firm warns
 
-[原文] Cerebras and AMD agreed to work together, pairing their technology for AI systems.
+[原文] CEO of Indian pharma company Dr Reddy's has warned that Trump's proposed tariffs on generic drugs will make them more expensive for patients.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/23/cerebras-stock-gains-on-amd-partnership.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/24/us-to-see-higher-generic-drug-prices-on-tariffs-indian-pharma-ceo.html) — *CNBC*
 
-### 5. As Honda CR-V leads U.S. sales, automaker teases new American-built pickup truck
+### 5. Oracle signs 10-year software contract with Pentagon worth up to $7 billion
 
-[原文] The future of the Ridgeline midsize pickup truck had been in flux, and the automaker said there will be a temporary production stoppage for the truck.
+[原文] Oracle will supply on-premises software to the U.S. Department of Defense.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/23/honda-american-built-pickup-truck.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/23/oracle-wins-10-year-pentagon-software-contract-worth-up-to-7-billion.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Anthropic updates Claude voice mode with more capable models
+### 1. How AI guardrails are impeding the work of offensive cybersecurity researchers
 
-[原文] Claude's new voice model will let you reschedule your meeting or draft an email
+[原文] We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/) — *TechCrunch*
 
-### 2. AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing
+### 2. Meet the judges who will crown Australia’s next breakout startup
 
-[原文] The Series A was led by Battery Ventures, bringing AegisAI total funding to $49 million.
+[原文] TechCrunch Startup Battlefield is coming to Australia — and we're partnering with Stripe to find the country's most exciting early-stage startups.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/23/meet-the-judges-who-will-crown-australias-next-breakout-startup/) — *TechCrunch*
 
-### 3. US government says Iran-linked hackers are disrupting American water and energy providers
+### 3. Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics
 
-[原文] An updated government advisory warns that Iranian hackers are exploiting systems used by water and energy providers.
+[原文] Shashua has been invited to take the chairman of the board seat.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/23/us-government-says-iran-linked-hackers-are-disrupting-american-water-and-energy-providers/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/) — *TechCrunch*
 
-### 4. Runway launches AI model router as generative media gets crowded
+### 4. AMD takes on Nvidia with its Helios AI rack-scale system
 
-[原文] The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost.
+[原文] AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/) — *TechCrunch*
 
-### 5. OpenAI makes ChatGPT Health available to all US users
+### 5. Patreon lays off 20% of its workforce
 
-[原文] Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.
+[原文] In a memo to staff that was posted online, Conte said the company's core business is strong, but the platform has to respond to market changes and adjust its cost structure to remain stable.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/23/patreon-lays-off-off-20-of-its-workforce/) — *TechCrunch*
 
 ---
 
@@ -174,29 +174,29 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cpq8lpj530po?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Anderson's journey to England star and  Man City record signing
+### 2. Defoe leaves Woking after 'eye-opening' first managerial role
 
-[原文] Elliot Anderson was a key part of England's World Cup side and is now Manchester City's record signing.
+[原文] Former England and Tottenham striker Jermain Defoe has described his first managerial job as an "eye-opening experience" following his departure from National League side Woking after just four months
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c1eyjvzeg8qo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c304d47ql6jo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Italy confirm Ancelotti approach before Guardiola
+### 3. Littler cruises into Matchplay semis with win over Rock
+
+[原文] World number one Luke Littler's World Matchplay title defence continues with a 16-7 quarter-final win over Josh Rock in Blackpool, as he averages 109.57.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/darts/articles/cg5lylz22gmo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. Italy confirm Ancelotti approach before Guardiola
 
 [原文] Italy held discussions with Carlo Ancelotti to become their national team manager before opening talks with Pep Guardiola.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c36d0291z6no?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. JJ Gabriel, 15, gets senior Man Utd call-up
+### 5. King's Tardis entrance as Commonwealth Games begin
 
-[原文] Manchester United teenager JJ Gabriel, 15, could make senior debut on Friday after receiving call-up for Rosenborg friendly.
+[原文] King Charles III emerges from a Tardis and a Loch Ness Monster takes the stage at the Commonwealth Games opening ceremony in Glasgow.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ce85j3mgl06o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Norway consider complaint over Balogun ban decision
-
-[原文] The Norwegian Football Federation is considering filing a formal complaint to Fifa's ethics committee.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c1l1vz4n484o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/articles/cvg79z237yvo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. LISTEN: How Travis Scott is Ascending to Culture Moguldom Through Music, Movies, Retail, Business and More
+### 1. Creepy Twins, Religious Fanaticism and a Loaded Gun Collide in Tense Chamber Drama ‘Godhead’ — Fantasia
 
-[原文] On today’s episode of &#8220;Daily Variety&#8221; podcast, in our Cover Story segment, Variety’s Angelique Jackson details her time spent with multihyphenate superstar Travis Scott, who comes off a re
+[原文] Mark H. Rapaport&#8217;s new film “Godhead” is a master-class in ratcheting up tension. Shot in black-and-white with camerawork that makes the audience feel like a voyeur uncovering perverse secrets, 
 
-📎 [阅读原文](https://variety.com/2026/music/news/travis-scott-variety-the-odyssey-cactus-jack-utopia-1236819668/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/features/godhead-fantasia-festival-thriller-evil-twins-religious-1236819934/) — *Variety*
 
-### 2. L.A. Production Volume Down Slightly, as Recovery Continues to Sputter
+### 2. ‘Stuart Fails to Save the Universe’ Co-Creator Bill Prady Explains the Science Behind the Show’s Multiverse
 
-[原文] Los Angeles production volume fell slightly in the second quarter of 2026, as an increase in state tax incentives has failed to overcome industry headwinds. Shoot days for TV, film and commercials dro
+[原文] SPOILER ALERT:&#160;This story contains spoilers from the series premiere of “Stuart Fails to Save the Universe,&#8221; now streaming on HBO Max. HBO Max’s “Stuart Fails to Save the Universe” opens in
 
-📎 [阅读原文](https://variety.com/2026/film/news/los-angeles-production-volume-down-slightly-filmla-1236819482/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/stuart-fails-to-save-the-universe-science-explained-1236818737/) — *Variety*
 
-### 3. ‘Industry’ Season 5 Casts Zosia Mamet
+### 3. ’72 Hours’ Review: Kevin Hart Tries to Be Down With the Kids in a Mediocre ‘Hangover’ Knockoff
 
-[原文] Zosia Mamet has joined the upcoming fifth season of &#8220;Industry&#8221; at HBO, Variety has learned. As previously announced, Season 5 of the British finance industry drama will be its last. Mamet 
+[原文] Great comedies are in short supply these days, but “72 Hours” offers a reminder that a crime subplot can quickly ruin even a potentially average one. Directed by Tim Story (“Barbershop,” “Ride Along”)
 
-📎 [阅读原文](https://variety.com/2026/tv/news/industry-season-5-cast-zosia-mamet-1236819510/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/reviews/72-hours-review-kevin-hart-1236819749/) — *Variety*
 
-### 4. ‘The Strange Architect,’ New Series by ‘Annihilation’ Author Jeff VanderMeer, Sells to Farrar, Straus and Giroux in Seven-Figure Deal (EXCLUSIVE)
+### 4. Men Flock to Microdramas, Romance Stories Rule and Sunday Nights are Prime Time for Viewing
 
-[原文] Farrar, Straus and Giroux has acquired &#8220;The Strange Architect,&#8221; a new four-book series by bestselling author Jeff VanderMeer, in a seven-figure deal. VanderMeer will launch his new series 
+[原文] Microdrama viewership has grown 28-fold over the past two years, and it’s not just for women of a certain age anymore. More than two-thirds of users, male and female, watch romance-based series. And j
 
-📎 [阅读原文](https://variety.com/2026/biz/news/strange-architect-book-series-annihilation-author-jeff-vandermeer-1236818347/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/microdramas-men-romance-sunday-holywater-my-drama-my-muse-1236819953/) — *Variety*
 
-### 5. ‘Breaking Bad’ Star Giancarlo Esposito Signs With UTA for Representation (EXCLUSIVE)
+### 5. ‘Marvelous Mrs. Maisel’ Set Decorator Mary Kate Golding Fatally Stabbed in N.Y.
 
-[原文] Actor, director and producer Giancarlo Esposito has signed with United Talent Agency for representation in all areas. Esposito was previously repped by CAA. The prolific star will be seen in several p
+[原文] Mary Kate Golding, a set decorator for shows including &#8220;The Marvelous Mrs. Maisel,&#8221; &#8220;Goosebumps&#8221; and &#8220;Mr. and Mrs. Smith&#8221; died Tuesday in Queens, N.Y. after being s
 
-📎 [阅读原文](https://variety.com/2026/tv/news/breaking-bad-giancarlo-esposito-uta-representation-caa-1236818870/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/mary-kate-golding-dead-stabbed-mrs-maisel-1236819887/) — *Variety*
 
 ---
 
@@ -244,35 +244,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. UN report: Global hunger levels ease for third consecutive year as regional disparities persist
+### 1. WHO launches seven strategies to prevent drowning
+
+[原文] Ahead of World Drowning Prevention Day on 25 July, the World Health Organization (WHO) is launching a new technical package to help governments and communities implement seven proven measures to reduc
+
+📎 [阅读原文](https://www.who.int/news/item/23-07-2026-who-launches-seven-strategies-to-prevent-drowning) — *WHO*
+
+### 2. UN report: Global hunger levels ease for third consecutive year as regional disparities persist
 
 [原文] Global hunger declined for a third consecutive year in 2025, demonstrating that progress is possible. However, the improvements remain fragile, unevenly distributed and insufficient to achieve the Sus
 
 📎 [阅读原文](https://www.who.int/news/item/21-07-2026-un-report--global-hunger-levels-ease-for-third-consecutive-year-as-regional-disparities-persist) — *WHO*
 
-### 2. WHO marks 25 years of Research4Life, advancing access to scientific knowledge in more than 120 countries
+### 3. WHO marks 25 years of Research4Life, advancing access to scientific knowledge in more than 120 countries
 
 [原文] The World Health Organization (WHO) today marks the 25th anniversary of Research4Life, a public-private partnership that provides researchers, educators, health professionals and policy-makers in low-
 
 📎 [阅读原文](https://www.who.int/news/item/21-07-2026-who-marks-25-years-of-research4life--advancing-access-to-scientific-knowledge-in-more-than-120-countries) — *WHO*
 
-### 3. Road deaths fall by 21% globally but stronger action is needed to save lives
+### 4. Road deaths fall by 21% globally but stronger action is needed to save lives
 
 [原文] Despite the addition of more than one billion motor-vehicles to the world&rsquo;s roads, the global rate of road traffic deaths declined by 21% between 2011 and 2025, according to new data released by
 
 📎 [阅读原文](https://www.who.int/news/item/20-07-2026-road-deaths-fall-by-21--globally-but-stronger-action-is-needed-to-save-lives) — *WHO*
 
-### 4. WHO Member States continue negotiations on the Pathogen Access and Benefit Sharing Annex
+### 5. WHO Member States continue negotiations on the Pathogen Access and Benefit Sharing Annex
 
 [原文] WHO Member States have advanced negotiations on the Pathogen Access and Benefit Sharing (PABS) annex, a central component of the WHO Pandemic Agreement, while agreeing that continued discussions are n
 
 📎 [阅读原文](https://www.who.int/news/item/20-07-2026-who-member-states-continue-negotiations-on-the-pathogen-access-and-benefit-sharing-annex) — *WHO*
-
-### 5. New WHO guidelines: up to 45% of dementia risk could be prevented or delayed
-
-[原文] The World Health Organization (WHO) today released updated guidelines on reducing the risk of cognitive decline and dementia, providing countries with evidence-based recommendations to help prevent or
-
-📎 [阅读原文](https://www.who.int/news/item/15-07-2026-new-who-guidelines--up-to-45--of-dementia-risk-could-be-prevented-or-delayed) — *WHO*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Today’s Top Deals: Metaphor: ReFantazio, Logitech G29 Racing Wheel, and G PRO X Superlight 2 Mouse
+### 1. League of Legends Riftbound TCG: First Impressions of the Vendetta Booster Set | IGN Preview
 
-[原文] And Pokémon TCG - Pitch Black is even cheaper on Amazon, plus more incredible discounts.
+[原文] Get an early look at League of Legends Riftbound's upcoming Vendetta expansion.
 
-📎 [阅读原文](https://www.ign.com/articles/best-deals-for-july-23-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/league-of-legends-riftbound-tcg-first-impressions-of-the-vendetta-booster-set-ign-preview) — *IGN*
 
-### 2. The Steam Deck's Demand Has Reportedly Cratered
+### 2. House of the Dragon Larys Strong Actor Matthew Needham Voices Joker in Batman: Caped Crusader Season 2 | Comic Con 2026
+
+[原文] Matthew Needham is the voice of The Joker in Batman: Caped Crusader Season 2, Prime Video has announced. British actor Needham is most famous for playing Larys Strong in Game of Thrones prequel series
+
+📎 [阅读原文](https://www.ign.com/articles/house-of-the-dragon-larys-strong-actor-matthew-needham-voices-joker-in-batman-caped-crusader-season-2-comic-con-2026) — *IGN*
+
+### 3. Amazon Prime Has an Exclusive Batman Video Game Set to Launch Alongside Batman: Caped Crusader Season 2 | Comic Con 2026
+
+[原文] Amazon and Warner Bros. have announced Batman: Caped Crusader - Chronicles, a new Batman game exclusive to Amazon Prime set to launch on July 31 alongside Batman: Caped Crusader Season 2.
+
+📎 [阅读原文](https://www.ign.com/articles/amazon-prime-has-an-exclusive-batman-video-game-set-to-launch-alongside-batman-caped-crusader-season-2-comic-con-2026) — *IGN*
+
+### 4. Save Up to 48% Off VITURE's XR Glasses, Which Project a Room Filling Virtual Display for Movies and Games
+
+[原文] Up to 175 inches of easily transfortable screen for your Steam Deck, Nintendo Switch 2, or Xbox Ally X.
+
+📎 [阅读原文](https://www.ign.com/articles/viture-xr-glasses-deals-july-2026) — *IGN*
+
+### 5. Samsung Galaxy Z Flip 8 Review So Far
 
 暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/the-steam-decks-demand-has-reportedly-cratered) — *IGN*
-
-### 3. King of the Hill Cast and Showrunner Reveal the Secret Origin of the Season 15 Finale
-
-[原文] The cast and showrunner break down the King of the Hill Season 15 finale, exploring Hank’s massive Strickland Propane twist, a nostalgic flashback, and a touching tribute to Lucky and Luanne.
-
-📎 [阅读原文](https://www.ign.com/articles/king-of-the-hill-season-15-finale-explained) — *IGN*
-
-### 4. Save $1,500 Off an Alienware Area-51 Ryzen X3D Gaming PC With RTX 5090 GPU and 64GB of RAM
-
-[原文] Still expensive, but a competitive price point in today's market for an extremely powerful gaming PC.
-
-📎 [阅读原文](https://www.ign.com/articles/dell-alienware-area-51-rtx-5090-gaming-pc-deal-july-2026) — *IGN*
-
-### 5. The 4K-Ready MSI Codex Z2 GeForce RTX 5070 Ti Gaming PC Drops to $1,699 After a $600 Discount
-
-[原文] Most RTX 5070 Ti equipped PCs sell for over $2000 and the GPU alone runs for $950-$1000.
-
-📎 [阅读原文](https://www.ign.com/articles/msi-codex-z2-rtx-5070-ti-gaming-pc-deal-july-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/samsung-galaxy-z-flip-8-review) — *IGN*
 
 ---
 
@@ -439,35 +439,35 @@ The post It&#8217;s Happening: &#8216;Days of Thunder 2&#8217; Is Closing in on 
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Katy Perry’s Lifetimes Tour, a.k.a. ‘Disneyland on Wheels,’ Is Coming to the Big Screen
+### 1. D4vd’s DNA Allegedly Found on Trash Bag Linked to Teen Victim’s Blood
+
+[原文] The singer is facing charges he murdered Celeste Rivas Hernandez to cover up his sexual abuse of the 14-year-old girl
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/d4vd-celeste-rivas-hernandez-murder-case-trash-bag-blood-1235597771/) — *Rolling Stone*
+
+### 2. Trey Songz Gets Zero Jail Time After Arrest for Allegedly Punching Nightclub Employee
+
+[原文] The singer was charged with assault last year after allegedly striking an employee in the face at Dramma Night Club in Times Square
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/trey-songz-no-jail-time-arrest-punching-nightclub-employee-1235598181/) — *Rolling Stone*
+
+### 3. Amy Winehouse Remembered on 15th Death Anniversary: Her ‘Music Continues to Connect With People’
+
+[原文] "Her voice, her songwriting, her honesty and her unique spirit remain as powerful today as ever," estate wrote in tribute Thursday
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/amy-winehouse-remembered-15th-anniversary-death-1235598138/) — *Rolling Stone*
+
+### 4. Ghost Scare Up First Trailer for Mexico City Concert Film ‘2 Big to Rig’
+
+[原文] Out threatrically on Aug. 26, metal band's second concert movie was shot on 16mm film and presents a behind-the-scenes look at their Skeletour
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/ghost-first-trailer-mexico-city-concert-film-2-big-to-rig-1235597960/) — *Rolling Stone*
+
+### 5. Katy Perry’s Lifetimes Tour, a.k.a. ‘Disneyland on Wheels,’ Is Coming to the Big Screen
 
 [原文] The Lifetimes Tour - Live From Paris will screen on IMAX in September
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/katy-perry-lifetimes-tour-paris-movie-theaters-1235597690/) — *Rolling Stone*
-
-### 2. The Beach Boys Pull Remaining Summer Concert Dates to ‘Recharge’
-
-[原文] Mike Love, the last remaining original Beach Boy still in the touring lineup, is 85 years old, and has been struggling with health issues this year
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/beach-boys-cancel-summer-concert-dates-2026-1235597790/) — *Rolling Stone*
-
-### 3. George Michael’s ‘The Faith Tour’ Unreleased Concert Film Lands Distribution Ahead of Late-2026 Release
-
-[原文] Bleecker Street’s Crosswalk and Universal Pictures Content Group to release film that will be accompanied by new Mary McCartney-directed short Finding Faith
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/george-michael-the-faith-tour-concert-film-distribution-1235597667/) — *Rolling Stone*
-
-### 4. Search Intensifies for Teens Missing Since 1973 Music Festival
-
-[原文] Joint police task force ramps up efforts to solve the oldest missing teens case in America
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/missing-teens-watkins-glen-festival-1235596824/) — *Rolling Stone*
-
-### 5. Shania Twain Performs Rousing Single ‘Dirty Rosie’ on ‘Fallon’
-
-[原文] The country singer also discussed opening for Harry Styles and missing Taylor Swift’s wedding
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/shania-twain-dirty-rosie-performance-fallon-1235597635/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post It&#8217;s Happening: &#8216;Days of Thunder 2&#8217; Is Closing in on 
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Wyndham’s Portfolio Overhaul: Budget Hotels Are Out, Higher Fees Are In
+### 1. Most Airlines Are Holding Back on Capacity — American Is Flying More
+
+[原文] American has made some capacity cuts, but they’re much more modest compared to that of its chief rivals Delta and United. Executives at the carrier said they were taking a more conservative approach t
+
+📎 [阅读原文](https://skift.com/2026/07/23/while-everyone-else-cuts-capacity-american-is-flying-more/) — *Skift*
+
+### 2. Wyndham’s Portfolio Overhaul: Budget Hotels Are Out, Higher Fees Are In
 
 [原文] Wyndham’s U.S. room count looks stable. What’s actually happening is a systematic swap — lower-fee economy hotels out, higher-fee midscale in.
 
 📎 [阅读原文](https://skift.com/2026/07/23/wyndhams-portfolio-overhaul-budget-hotels-are-out-higher-fees-are-in/) — *Skift*
 
-### 2. IATA Makes Surprise Pick for New Leader, Skips Airline Veterans
+### 3. IATA Makes Surprise Pick for New Leader, Skips Airline Veterans
 
 [原文] IATA has picked its first leader from outside the airline industry in four decades. The gamble is whether member carriers will take their cues from an economist who has never run an airline.
 
 📎 [阅读原文](https://skift.com/2026/07/23/iata-makes-surprise-pick-for-new-leader-skips-airline-veterans/) — *Skift*
 
-### 3. IndiGo Swings to Loss as Fuel Costs Surge Amid Middle East Flare-Up
+### 4. IndiGo Swings to Loss as Fuel Costs Surge Amid Middle East Flare-Up
 
 [原文] IndiGo charged more, earned more, and still lost money. Welcome to the brutal math of aviation.
 
 📎 [阅读原文](https://skift.com/2026/07/23/indigo-swings-to-loss-as-fuel-costs-surge-amid-middle-east-flare-up/) — *Skift*
 
-### 4. IndiGo Co-Founder: Airport-Airline Ownership Is a ‘Massive Conflict of Interest’
+### 5. IndiGo Co-Founder: Airport-Airline Ownership Is a ‘Massive Conflict of Interest’
 
 [原文] If the idea is to break the two-airline duopoly, the irony is hard to miss. India could end up replacing airline concentration with something even more powerful — a conglomerate that controls the skie
 
 📎 [阅读原文](https://skift.com/2026/07/23/indigo-co-founder-airport-airline-ownership-is-a-massive-conflict-of-interest/) — *Skift*
-
-### 5. EU Claims Google Buries Travel Rivals in Search as Part of $525 Million Fine
-
-[原文] Brussels has spent a decade litigating who sits atop the results page. This fine won't settle it. Expect the fight to drag on.
-
-📎 [阅读原文](https://skift.com/2026/07/23/eu-claims-google-buries-travel-rivals-in-search-as-part-of-525-million-fine/) — *Skift*
 
 ---
 
@@ -529,6 +529,7 @@ The post It&#8217;s Happening: &#8216;Days of Thunder 2&#8217; Is Closing in on 
 
 - **🚗 汽车**: Autocar
 - **🌱 环境**: Inside Climate News
+- **✈️ 旅游**: Nomadic Matt
 
 ---
 
