@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月24日** | 生成时间: 2026-07-24 10:55
+**2026年07月24日** | 生成时间: 2026-07-24 16:32
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. US imposes tariffs on dozens of trade partners over 'forced labour' imports
+### 1. France orders evacuation of tourist spot as hundreds flee wildfires by boat
 
-[原文] The tariffs target around 60 trading partners over claims they failed to properly stop forced labour.
+[原文] The fire has raged in the region for several days with officials now ordering the evacuation of the entire Cap Ferret peninsula.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. US hits dozens of trading partners with new wave of tariffs
+
+[原文] Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Oil prices hit $100 for the first time since May
+### 3. Oil prices hit $100 for the first time since May
 
 [原文] The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Indonesian babies were trafficked to Singapore. What happens to them now?
+### 4. Indonesian babies were trafficked to Singapore. What happens to them now?
 
 [原文] At least 12 babies have been trafficked from Indonesia to Singapore, but what will happen to them remains unclear.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Saudis must recognise Israel for nuclear deal, says Trump
+### 5. Saudis must recognise Israel for nuclear deal, says Trump
 
 [原文] The US president says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. France evacuates 20,000 as wildfires spread in south-west
-
-[原文] Most of those evacuated were tourists from campsites around Arcachon Bay in France's Gironde region.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump to slap 'sweeping' new tariffs on 60 trade partners as global duties expire
+### 1. Trump considering a ‘massive attack’ on Iran as Tehran labels UK ‘accomplice’ to America
 
-[原文] The Trump administration has ramped its tariff actions back up since the president's trade  agenda suffered major legal setbacks earlier this year.
+[原文] The president told Axios he was considering an operation "bigger than ever before."
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/23/trump-tariffs-trade-deadline.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/24/us-iran-war-trump-hormuz-houthis.html) — *CNBC*
 
-### 2. U.S., other nations back open-source AI with 'strong security' at China summit
+### 2. Trump's new global tariff draws rebukes from trade partners over forced-labor justification
 
-[原文] The APEC statement is the first to include open-source cooperation at a minister level, said Li Lecheng, China's industry and information technology minister.
+[原文] U.S. trading partners have rejected the forced-labor rationale behind Trump's new global tariffs, while most signaled plans to keep negotiating.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/24/china-ai-open-source-apec.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/24/trump-global-tariffs-trade-imbalance-forced-labor.html) — *CNBC*
 
-### 3. Intel's stock jumps as chipmaker rides AI boom to fastest revenue growth in almost 15 years
+### 3. Pentagon lowers official Iran war death toll, omitting four killed this month
+
+[原文] The Pentagon lowered its official Iran war death toll to 14 from 18, removing four service members killed this month.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/24/pentagon-removed-four-official-iran-war-death-toll.html) — *CNBC*
+
+### 4. Intel's stock jumps as chipmaker rides AI boom to fastest revenue growth in almost 15 years
 
 [原文] Intel rallied after the company reported blowout earnings and guidance.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/23/intel-intc-earnings-report-q2-2026.html) — *CNBC*
 
-### 4. U.S. to see higher generic drug prices thanks to tariffs, CEO of leading India pharma firm warns
+### 5. South Korea's president invokes dramatic Japan realty crash to push domestic property agenda
 
-[原文] CEO of Indian pharma company Dr Reddy's has warned that Trump's proposed tariffs on generic drugs will make them more expensive for patients.
+[原文] Lee was highlighting the country's excessive investment in real estate, and highlighted that Japan's housing market "burst like a balloon."
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/24/us-to-see-higher-generic-drug-prices-on-tariffs-indian-pharma-ceo.html) — *CNBC*
-
-### 5. Oracle signs 10-year software contract with Pentagon worth up to $7 billion
-
-[原文] Oracle will supply on-premises software to the U.S. Department of Defense.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/23/oracle-wins-10-year-pentagon-software-contract-worth-up-to-7-billion.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/24/south-korea-property-bubble-japan-lost-decades.html) — *CNBC*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Arsenal set to make £70m bid for Newcastle's Guimaraes
+### 1. Why Rogers and Palmer will thrive together in Alonso's Chelsea
+
+[原文] Why Morgan Rogers' skillset means he and fellow attacking midfielder Cole Palmer will prosper in Xabi Alonso's Chelsea.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c4gwpzzgpyko?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. Arsenal set to make £70m bid for Newcastle's Guimaraes
 
 [原文] Arsenal are set to make a £70m offer for Newcastle captain Bruno Guimaraes.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cpq8lpj530po?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Defoe leaves Woking after 'eye-opening' first managerial role
+### 3. Socceroos star allegedly tests positive for cocaine after speeding
 
-[原文] Former England and Tottenham striker Jermain Defoe has described his first managerial job as an "eye-opening experience" following his departure from National League side Woking after just four months
+[原文] Socceroos World Cup star Cristian Volpato allegedly tests positive for cocaine after being twice caught for speeding in Sydney.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c304d47ql6jo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cm2gdnz5x50o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Littler cruises into Matchplay semis with win over Rock
+### 4. The two days which could make or break Fury-AJ
 
-[原文] World number one Luke Littler's World Matchplay title defence continues with a 16-7 quarter-final win over Josh Rock in Blackpool, as he averages 109.57.
+[原文] BBC Sport looks at how a proposed bout between Tyson Fury and Anthony Joshua hinges on a 24-hour-period between Friday and Saturday.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/darts/articles/cg5lylz22gmo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/articles/c2k758w1xdzo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Italy confirm Ancelotti approach before Guardiola
+### 5. What's working - and what's not - for WSL fans?
 
-[原文] Italy held discussions with Carlo Ancelotti to become their national team manager before opening talks with Pep Guardiola.
+[原文] BBC Sport spoke to fans of the Women's Super League and England Lionesses to learn about their experiences in the game and discuss what could be improved.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c36d0291z6no?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. King's Tardis entrance as Commonwealth Games begin
-
-[原文] King Charles III emerges from a Tardis and a Loch Ness Monster takes the stage at the Commonwealth Games opening ceremony in Glasgow.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/articles/cvg79z237yvo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cj0plpe7eq6o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Creepy Twins, Religious Fanaticism and a Loaded Gun Collide in Tense Chamber Drama ‘Godhead’ — Fantasia
+### 1. ‘Jumbo’ Sequel, ‘Queen of Malacca’ Franchise Plans on the Cards as Indonesia’s Visinema Eyes Expansion (EXCLUSIVE)
+
+[原文] Indonesian filmmaker and Visinema founder Angga Dwimas Sasongko is targeting the first quarter of 2027 for the release of “Queen of Malacca,” as the Southeast Asian fantasy epic moves through post-pro
+
+📎 [阅读原文](https://variety.com/2026/film/news/jumbo-sequel-queen-of-malacca-franchise-indonesia-visinema-1236820084/) — *Variety*
+
+### 2. Director Na Hong-Jin Makes Comic-Con Debut With Frightening New ‘Hope’ Footage, Says Casting Hoyeon Was His ‘Best Decision’
+
+[原文] South Korean director Na Hong-Jin made his San Diego Comic-Con debut to preview his latest film, Neon&#8217;s alien action movie “Hope.&#8221; Before the action auteur took the stage in Ballroom 20, a
+
+📎 [阅读原文](https://variety.com/2026/film/news/na-hong-jin-comic-con-hope-footage-hoyeon-1236819530/) — *Variety*
+
+### 3. ‘Sia: Nostalgic for the Present’ Review: A Concert Performance Film from 2016, but It Channels Sia’s Mystery and Power
+
+[原文] Sia’s greatest songs, like "Unstoppable" and "Titanium" and "The Greatest," are anthems of strength, power, fortitude, invincibility, and watching the movie it’s fascinating to behold how her faceless
+
+📎 [阅读原文](https://variety.com/2026/film/reviews/sia-nostalgic-for-the-present-review-1236817974/) — *Variety*
+
+### 4. Creepy Twins, Religious Fanaticism and a Loaded Gun Collide in Tense Chamber Drama ‘Godhead’ — Fantasia
 
 [原文] Mark H. Rapaport&#8217;s new film “Godhead” is a master-class in ratcheting up tension. Shot in black-and-white with camerawork that makes the audience feel like a voyeur uncovering perverse secrets, 
 
 📎 [阅读原文](https://variety.com/2026/film/features/godhead-fantasia-festival-thriller-evil-twins-religious-1236819934/) — *Variety*
 
-### 2. ‘Stuart Fails to Save the Universe’ Co-Creator Bill Prady Explains the Science Behind the Show’s Multiverse
+### 5. ‘Stuart Fails to Save the Universe’ Co-Creator Bill Prady Explains the Science Behind the Show’s Multiverse
 
 [原文] SPOILER ALERT:&#160;This story contains spoilers from the series premiere of “Stuart Fails to Save the Universe,&#8221; now streaming on HBO Max. HBO Max’s “Stuart Fails to Save the Universe” opens in
 
 📎 [阅读原文](https://variety.com/2026/tv/news/stuart-fails-to-save-the-universe-science-explained-1236818737/) — *Variety*
-
-### 3. ’72 Hours’ Review: Kevin Hart Tries to Be Down With the Kids in a Mediocre ‘Hangover’ Knockoff
-
-[原文] Great comedies are in short supply these days, but “72 Hours” offers a reminder that a crime subplot can quickly ruin even a potentially average one. Directed by Tim Story (“Barbershop,” “Ride Along”)
-
-📎 [阅读原文](https://variety.com/2026/film/reviews/72-hours-review-kevin-hart-1236819749/) — *Variety*
-
-### 4. Men Flock to Microdramas, Romance Stories Rule and Sunday Nights are Prime Time for Viewing
-
-[原文] Microdrama viewership has grown 28-fold over the past two years, and it’s not just for women of a certain age anymore. More than two-thirds of users, male and female, watch romance-based series. And j
-
-📎 [阅读原文](https://variety.com/2026/tv/news/microdramas-men-romance-sunday-holywater-my-drama-my-muse-1236819953/) — *Variety*
-
-### 5. ‘Marvelous Mrs. Maisel’ Set Decorator Mary Kate Golding Fatally Stabbed in N.Y.
-
-[原文] Mary Kate Golding, a set decorator for shows including &#8220;The Marvelous Mrs. Maisel,&#8221; &#8220;Goosebumps&#8221; and &#8220;Mr. and Mrs. Smith&#8221; died Tuesday in Queens, N.Y. after being s
-
-📎 [阅读原文](https://variety.com/2026/tv/news/mary-kate-golding-dead-stabbed-mrs-maisel-1236819887/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. League of Legends Riftbound TCG: First Impressions of the Vendetta Booster Set | IGN Preview
+### 1. Seth Green’s Star Wars: Detours Will Finally See the Light of Day
+
+[原文] A selection of episodes from Seth Green’s animated Star Wars sitcom will be exhibited at the soon-to-open Lucas Museum.
+
+📎 [阅读原文](https://www.ign.com/articles/seth-greens-star-wars-detours-will-finally-see-the-light-of-day) — *IGN*
+
+### 2. 'It's Being Written, Is the Short Answer' — Zach Cregger Gives an Update on the Aunt Gladys Prequel | Comic Con 2026
+
+[原文] Director Zach Cregger said that the Aunt Gladys-focused Weapons prequel movie is in the works and will have "lots of twists and turns and mysteries and crazy things" at San Diego Comic-Con.
+
+📎 [阅读原文](https://www.ign.com/articles/its-being-written-is-the-short-answer-zach-cregger-gives-an-update-on-the-aunt-gladys-prequel-comic-con-2026) — *IGN*
+
+### 3. 'Everything Leaks' — Avatar Aang: The Last Airbender Director Addresses Early Concept Photo Leaks | Comic Con 2026
+
+[原文] All the big announcements out of the Avatar Aang: The Last Airbender panel at San Diego Comic-Con 2026.
+
+📎 [阅读原文](https://www.ign.com/articles/everything-leaks-avatar-aang-the-last-airbender-co-director-addresses-early-concept-photo-leaks-comic-con-2026) — *IGN*
+
+### 4. League of Legends Riftbound TCG: First Impressions of the Vendetta Booster Set | IGN Preview
 
 [原文] Get an early look at League of Legends Riftbound's upcoming Vendetta expansion.
 
 📎 [阅读原文](https://www.ign.com/articles/league-of-legends-riftbound-tcg-first-impressions-of-the-vendetta-booster-set-ign-preview) — *IGN*
 
-### 2. House of the Dragon Larys Strong Actor Matthew Needham Voices Joker in Batman: Caped Crusader Season 2 | Comic Con 2026
+### 5. House of the Dragon Larys Strong Actor Matthew Needham Voices Joker in Batman: Caped Crusader Season 2 | Comic Con 2026
 
 [原文] Matthew Needham is the voice of The Joker in Batman: Caped Crusader Season 2, Prime Video has announced. British actor Needham is most famous for playing Larys Strong in Game of Thrones prequel series
 
 📎 [阅读原文](https://www.ign.com/articles/house-of-the-dragon-larys-strong-actor-matthew-needham-voices-joker-in-batman-caped-crusader-season-2-comic-con-2026) — *IGN*
-
-### 3. Amazon Prime Has an Exclusive Batman Video Game Set to Launch Alongside Batman: Caped Crusader Season 2 | Comic Con 2026
-
-[原文] Amazon and Warner Bros. have announced Batman: Caped Crusader - Chronicles, a new Batman game exclusive to Amazon Prime set to launch on July 31 alongside Batman: Caped Crusader Season 2.
-
-📎 [阅读原文](https://www.ign.com/articles/amazon-prime-has-an-exclusive-batman-video-game-set-to-launch-alongside-batman-caped-crusader-season-2-comic-con-2026) — *IGN*
-
-### 4. Save Up to 48% Off VITURE's XR Glasses, Which Project a Room Filling Virtual Display for Movies and Games
-
-[原文] Up to 175 inches of easily transfortable screen for your Steam Deck, Nintendo Switch 2, or Xbox Ally X.
-
-📎 [阅读原文](https://www.ign.com/articles/viture-xr-glasses-deals-july-2026) — *IGN*
-
-### 5. Samsung Galaxy Z Flip 8 Review So Far
-
-暂无摘要。
-
-📎 [阅读原文](https://www.ign.com/articles/samsung-galaxy-z-flip-8-review) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post It&#8217;s Happening: &#8216;Days of Thunder 2&#8217; Is Closing in on 
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The secret to a better grid? Electric vehicles.
+### 1. Indigenous leaders give the UN a roadmap for protecting their peoples
+
+暂无摘要。
+
+📎 [阅读原文](https://grist.org/global-indigenous-affairs-desk/indigenous-leaders-give-the-un-a-roadmap-for-protecting-their-peoples/) — *Grist*
+
+### 2. The secret to a better grid? Electric vehicles.
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/transportation/the-secret-to-a-better-grid-electric-vehicles/) — *Grist*
 
-### 2. How war in Myanmar is driving a deadly rare earth mining boom
+### 3. How war in Myanmar is driving a deadly rare earth mining boom
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/international/myanmar-war-rare-earth-mining-landslide-labor/) — *Grist*
 
-### 3. The deadly experiment that could save the American elm
+### 4. The deadly experiment that could save the American elm
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/solutions/the-deadly-experiment-that-could-save-the-american-elm/) — *Grist*
 
-### 4. The year climate change came for the Tour de France
+### 5. The year climate change came for the Tour de France
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/culture/the-year-climate-change-came-for-the-tour-de-france/) — *Grist*
-
-### 5. Without stronger government action, Brazil’s low deforestation in the Amazon is unlikely to last
-
-暂无摘要。
-
-📎 [阅读原文](https://grist.org/international/without-stronger-government-action-brazils-low-deforestation-in-the-amazon-is-unlikely-to-last/) — *Grist*
 
 ---
 
@@ -439,35 +439,35 @@ The post It&#8217;s Happening: &#8216;Days of Thunder 2&#8217; Is Closing in on 
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. D4vd’s DNA Allegedly Found on Trash Bag Linked to Teen Victim’s Blood
+### 1. Blackpink’s Jennie Debuts Wistful Single ‘Less Than a Lover’
 
-[原文] The singer is facing charges he murdered Celeste Rivas Hernandez to cover up his sexual abuse of the 14-year-old girl
+[原文] The singer's debut solo album, Ruby, was released last year via her own record label Odd Atelier
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/d4vd-celeste-rivas-hernandez-murder-case-trash-bag-blood-1235597771/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/blackpink-jennie-less-than-a-lover-solo-single-1235598273/) — *Rolling Stone*
 
-### 2. Trey Songz Gets Zero Jail Time After Arrest for Allegedly Punching Nightclub Employee
+### 2. Hear U2, Martin Garrix Team Up for Anthemic Single ‘Fireflies’
 
-[原文] The singer was charged with assault last year after allegedly striking an employee in the face at Dramma Night Club in Times Square
+[原文] The producer originally debuted the joint track during his set at Tomorrowland earlier this month
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/trey-songz-no-jail-time-arrest-punching-nightclub-employee-1235598181/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/u2-martin-garrix-fireflies-single-1235598269/) — *Rolling Stone*
 
-### 3. Amy Winehouse Remembered on 15th Death Anniversary: Her ‘Music Continues to Connect With People’
+### 3. Noah Kahan Gets a Fake Call From Congress Ordering Fans to Wear Diapers at Concerts
 
-[原文] "Her voice, her songwriting, her honesty and her unique spirit remain as powerful today as ever," estate wrote in tribute Thursday
+[原文] During his stop in Washington, the singer pretended to get a phone call from the government about fans relieving themselves mid-show
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/amy-winehouse-remembered-15th-anniversary-death-1235598138/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/noah-kahan-call-congress-fans-wear-diapers-concerts-1235598251/) — *Rolling Stone*
 
-### 4. Ghost Scare Up First Trailer for Mexico City Concert Film ‘2 Big to Rig’
+### 4. Charli XCX’s New Album ‘Music, Fashion, Film’ Is Here
 
-[原文] Out threatrically on Aug. 26, metal band's second concert movie was shot on 16mm film and presents a behind-the-scenes look at their Skeletour
+[原文] "It’s not creatively rewarding for me to make the same thing twice," British pop star says of her Brat follow-up
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/ghost-first-trailer-mexico-city-concert-film-2-big-to-rig-1235597960/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/charli-xcx-new-album-music-fashion-film-here-1235597706/) — *Rolling Stone*
 
-### 5. Katy Perry’s Lifetimes Tour, a.k.a. ‘Disneyland on Wheels,’ Is Coming to the Big Screen
+### 5. Bon Jovi Abruptly Ends MSG Concert Due to Sinus Infection
 
-[原文] The Lifetimes Tour - Live From Paris will screen on IMAX in September
+[原文] "Don’t throw away your ticket stubs, I’m gonna figure something out," the singer said from the stage before ending the night early
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/katy-perry-lifetimes-tour-paris-movie-theaters-1235597690/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/bon-jovi-abruptly-ends-msg-concert-sinus-infection-1235598245/) — *Rolling Stone*
 
 ---
 
@@ -529,7 +529,7 @@ The post It&#8217;s Happening: &#8216;Days of Thunder 2&#8217; Is Closing in on 
 
 - **🚗 汽车**: Autocar
 - **🌱 环境**: Inside Climate News
-- **✈️ 旅游**: Nomadic Matt
+- **✈️ 旅游**: Nomadic Matt, Travel Off Path
 
 ---
 
