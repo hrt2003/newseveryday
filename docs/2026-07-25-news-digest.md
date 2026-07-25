@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月25日** | 生成时间: 2026-07-25 16:11
+**2026年07月25日** | 生成时间: 2026-07-25 21:42
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. More than 220,000 evacuated in France and Spain due to wildfires
+### 1. Trump takes swipes at press during White House Correspondents' Dinner
 
-[原文] French firefighters battle a blaze heading towards Bordeaux while officials in Madrid say they face the "worst fire in the history of the region".
+[原文] The event celebrated press freedom after the first dinner was cancelled by a shooting in April.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Ten killed in Russian attack on drone exhibition near Kyiv
+### 2. Iran-backed Houthis claim missile attack on Saudi Arabia
+
+[原文] US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. Ten killed in Russian attack on drone exhibition near Kyiv
 
 [原文] The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Zelensky tries to fix crisis over removal of defence minister and counts the cost
+### 4. Zelensky tries to fix crisis over removal of defence minister and counts the cost
 
 [原文] Protests have continued over Zelensky's decision to dismiss Mykhailo Fedorov, and some commentators believe he has been damaged politically.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Four Palestinians and two Israelis killed in West Bank shooting
+### 5. Four Palestinians and two Israelis killed in West Bank shooting
 
 [原文] Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion
-
-[原文] Prosecutors allege D4vd started abusing the girl when she was 13 and she had threatened to expose him.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cr592qdj1ldo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump threatens EU with 'substantial TARIFF' for 'ROBBING' U.S. tech giants
+### 1. From Silicon Valley to DC, the tech world is suddenly obsessed with one concept in AI: Distillation
 
-[原文] Trump on Truth Social railed against the European Union's new fine on Google and prior penalties against U.S. tech giants Apple, Meta and Amazon.
+[原文] Distillation has long been a topic for AI wonks, but it's become a hot-button issue of late as techies and lawmakers debate how it should be regulated.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/24/trump-tariffs-eu-trade-google-apple-tech.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/25/hat-is-distillation-and-why-is-everyone-so-obsessed-with-it-this-week.html) — *CNBC*
 
-### 2. CDC says massive cyclospora outbreak is now in nine states
-
-[原文] The four newly linked states — Illinois, Kansas, Oklahoma and Pennsylvania — join Indiana, Kentucky, Ohio, West Virginia and hard-hit Michigan.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/24/cyclospora-cdc-says-outbreak-is-in-nine-states.html) — *CNBC*
-
-### 3. Trump sued hours after new tariffs take effect, as experts say they may not hold up
+### 2. Trump sued hours after new tariffs take effect, as experts say they may not hold up
 
 [原文] President Donald Trump has renewed a flurry of tariffs, including slapping 25% duties on Brazilian imports and vowing 50% tariffs on goods from Canada.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/24/trump-tariffs-lawsuit-301-ieepa.html) — *CNBC*
 
-### 4. Finland’s radical answer to renewable energy’s biggest headache: The world’s largest sand battery
+### 3. Analysis: A powerful new coalition of AI skeptics is coalescing right in Trump's blind spot
 
-[原文] A small Finnish town has turned to the world's largest commercial sand battery to tackle a major hurdle in the energy transition: intermittency.
+[原文] Evangelicals, labor unions and anti-AI-data-center activists are part of a groundswell worrying about how fast technology is changing.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/25/finland-sand-battery-renewable-energy-storage.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/25/trump-ai-data-center-backlash.html) — *CNBC*
 
-### 5. Paramount agrees to delay WBD acquisition to as late as June 2027 amid legal challenge
+### 4. Imax 70 mm screenings become the biggest star for Christopher Nolan’s ‘The Odyssey’
 
-[原文] Paramount previously said it intended to complete its WBD acquisition by the end of September, but said Friday the agreement is a "significant win."
+[原文] Moviegoers are traveling, lining up and paying premiums to see Christopher Nolan’s ‘The Odyssey’ in scarce Imax 70 mm screenings.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/24/paramount-wbd-merger-delay.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/25/the-odyssey-imax-70mm-screenings.html) — *CNBC*
+
+### 5. Logistics giants are racing to keep up with healthcare boom as GLP-1s highlight need for cold storage
+
+[原文] Shipping and logistics companies are tapping into the growing market of healthcare as cold chain and temperature-controlled facilities become more crucial.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/25/ups-fedex-dhl-healthare-logistics-glp.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else
+### 1. One fallen power line exposed a growing AI data center problem. Here’s how to fix it.
+
+[原文] A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/) — *TechCrunch*
+
+### 2. I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else
 
 [原文] OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/) — *TechCrunch*
 
-### 2. SpaceX launches new V3 Starlink satellites but suffers another booster failure
+### 3. SpaceX launches new V3 Starlink satellites but suffers another booster failure
 
 [原文] The company ticked off a few more boxes on the second Starship V3 flight, but appears to have had another issue relighting the booster's rocket engines.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/) — *TechCrunch*
 
-### 3. Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M
+### 4. Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M
 
 [原文] The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/) — *TechCrunch*
 
-### 4. TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between
+### 5. TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between
 
 [原文] Money has evolved into far more than the cash in your wallet or your bank account. And at TechCrunch Disrupt 2026, we’re devoting an entire stage to that progression.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage-explores-fintech-payments-ai-and-everything-between/) — *TechCrunch*
-
-### 5. Vietnam is looking to restrict social media for kids; here are the growing number of other countries doing the same
-
-[原文] Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and ex
-
-📎 [阅读原文](https://techcrunch.com/2026/07/24/social-media-ban-children-countries-list/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Horror injury overshadows gymnastics silver at Commonwealths
+### 1. Unhappy Tottenham players should leave - De Zerbi
 
-[原文] A horror fall from England gymnast Gabriel Langton overshadows his team's silver medal in the team event on the opening night of action at Glasgow 2026.
+[原文] Tottenham Hotspur manager Roberto de Zerbi says players who are not "proud and happy to stay" at the club should leave.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/articles/c151qlnzw05o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cdewlp710l0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. 'Maybe he's a racist' - Trump critical of James
+### 2. Malaysia set to host F1 race in October
+
+[原文] Malaysia is set to hold a grand prix in October as a replacement for the Bahrain race that was called off earlier this season.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/c3w01yvp218o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. Growing concerns before Defoe exit - Woking director
+
+[原文] Woking director of football Jody Brown says there were "growing concerns" across the club before the National League side parted ways with former England striker Jermain Defoe as manager.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c9v4y3dr9w0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. McColgan to miss Glasgow Games defence after foot fracture
+
+[原文] Scotland's Eilish McColgan will miss out on the chance to defend her Commonwealth Games 10,000m title in her home country after failing to recover sufficently from a foot fracture.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/cewrk7ee4n1o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 5. 'Maybe he's a racist' - Trump critical of James
 
 [原文] United States President Donald Trump said LeBron James might be "a racist" when asked if the basketball star is the "best ever" to play the sport.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 3. How do Manchester City manage the Rodri dilemma?
-
-[原文] BBC Sport looks at what City's new-look midfield could be like and whether it is time to cash in on Rodri.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cd9w2qp8pwxo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. USA's Lyles wins 100m in world-leading 9.79 seconds
-
-[原文] Noah Lyles runs a world-leading 9.79 seconds as he claims an impressive victory in the 100m at the US athletics championships.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/c3d38zkx59jo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. On the move - football's youngest journeymen
-
-[原文] The players who had appeared for a remarkable number of clubs by their 23rd birthday.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c39e1789j8po?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump Says White House Correspondents Dinner Is ‘Largest Group of Trump Derangement Syndrome People Ever Put Together at One Time’
+### 1. Josh Sapan on Life After AMC Networks and Championing Disability on Screen
+
+[原文] Josh Sapan, the former CEO of AMC Networks, left the entertainment company he had led through the peak TV era in 2021. He had helped transform the network devoted to reruns of classic movie into a pro
+
+📎 [阅读原文](https://variety.com/2026/biz/news/josh-sapan-life-after-amc-networks-championing-disability-on-screen-1236820906/) — *Variety*
+
+### 2. Nike Releases New Air Jordan 4 Retro ‘Comic’ Sneakers: Here’s Where To Shop a Pair Online
+
+[原文] Throughout his career in the NBA, Michael Jordan made a massive impact on the court, as one of the best players in the league. He also made an impact in pop culture with his Nike signature shoes, whic
+
+📎 [阅读原文](https://variety.com/2026/shopping/news/where-to-buy-nike-air-jordan-4-retro-comic-shop-online-1236819166/) — *Variety*
+
+### 3. Trump Says White House Correspondents’ Dinner Is ‘Largest Group of Trump Derangement Syndrome People Ever Put Together at One Time’
 
 [原文] President Donald Trump attended his first-ever White House Correspondents&#8217; Association Dinner, with this year&#8217;s rescheduled gala held Friday evening in Washington, D.C., and delivered some
 
 📎 [阅读原文](https://variety.com/2026/tv/news/trump-white-house-correspondents-dinner-remarks-1236820779/) — *Variety*
 
-### 2. Guillermo del Toro said ‘Absolutely No Goddamn AI’ in ‘Pan’s Labyrinth’ 3D Re-Release: ‘We’re Protecting a Lineage of Art’
+### 4. Guillermo del Toro Says There Is ‘Absolutely No Goddamn AI’ in ‘Pan’s Labyrinth’ 3D Re-Release: ‘We’re Protecting a Lineage of Art’
 
 [原文] Guillermo del Toro had one rule when bringing “Pan&#8217;s Labyrinth” back to theaters for its 20th anniversary: “No goddamn AI.” The filmmaker returned to San Diego Comic-Con to discuss the film’s 20
 
 📎 [阅读原文](https://variety.com/2026/film/news/guillermo-del-toro-no-ai-pans-labyrinth-rerelease-1236815109/) — *Variety*
 
-### 3. Nick Hakim’s ‘I Can See’ Is a Hazy Alt-R&B Masterpiece: Album Review
+### 5. Nick Hakim’s ‘I Can See’ Is a Hazy Alt-R&B Masterpiece: Album Review
 
 [原文] “Stoner R&#38;B” is not an insult: It’s the opposite, a loose term to describe a sprawling genre of music that includes everything from Dijon and Frank Ocean to Brent Faiyaz and Jhene Aiko. It’s R&#38
 
 📎 [阅读原文](https://variety.com/2026/music/reviews/nick-hakim-i-can-see-masterpiece-album-review-1236818633/) — *Variety*
-
-### 4. Paramount Faces Drawn-Out Battle With State AGs: ‘They Saw the Writing on the Wall’
-
-[原文] Only a few days ago, the states&#8217; antitrust challenge to the Paramount-Warner Bros. merger still looked like a speed bump. Now, it looks more like siege warfare &#8212; as Paramount has agreed to
-
-📎 [阅读原文](https://variety.com/2026/film/news/paramount-state-ags-warner-bros-battle-1236820702/) — *Variety*
-
-### 5. Norwegian Zombie Comedy ‘Grandmonster’ Wins Big Laughs and Top Outpost Award at Fantasia’s Frontières Market
-
-[原文] Norwegian director Vegard Dahle’s zombie comedy “Grandmonster” has won the top Outpost Award, and a prize of post-production services, at the Fantasia Festival’s prestigious Frontières Co-Production M
-
-📎 [阅读原文](https://variety.com/2026/film/markets-festivals/fantasia-frontieres-grandmonster-zombie-comedy-1236820625/) — *Variety*
 
 ---
 
@@ -363,35 +363,35 @@ The post Ford Recalls Over Half a Million Broncos for Engine Fire Risk: TDS app
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. As climate lawsuits advance, the oil industry enters ‘panic mode’
+### 1. In Michigan, the price of energy is on the ballot and both parties know it
+
+暂无摘要。
+
+📎 [阅读原文](https://grist.org/energy/in-michigan-the-price-of-energy-is-on-the-ballot-and-both-parties-know-it/) — *Grist*
+
+### 2. As climate lawsuits advance, the oil industry enters ‘panic mode’
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/accountability/lawsuits-heatwave-wrongful-death-supreme-court/) — *Grist*
 
-### 2. Indigenous leaders give the UN a roadmap for protecting their peoples
+### 3. Indigenous leaders give the UN a roadmap for protecting their peoples
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/global-indigenous-affairs-desk/indigenous-leaders-give-the-un-a-roadmap-for-protecting-their-peoples/) — *Grist*
 
-### 3. The secret to a better grid? Electric vehicles.
+### 4. The secret to a better grid? Electric vehicles.
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/transportation/the-secret-to-a-better-grid-electric-vehicles/) — *Grist*
 
-### 4. How war in Myanmar is driving a deadly rare earth mining boom
+### 5. How war in Myanmar is driving a deadly rare earth mining boom
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/international/myanmar-war-rare-earth-mining-landslide-labor/) — *Grist*
-
-### 5. The deadly experiment that could save the American elm
-
-暂无摘要。
-
-📎 [阅读原文](https://grist.org/solutions/the-deadly-experiment-that-could-save-the-american-elm/) — *Grist*
 
 ---
 
@@ -439,35 +439,35 @@ The post Ford Recalls Over Half a Million Broncos for Engine Fire Risk: TDS app
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Lou Koller, Frontman for Sick of It All,  Has Died
+### 1. Lil Wayne, Karol G, Smashing Pumpkins to Receive Stars on Hollywood Walk of Fame in 2027
+
+[原文] David Guetta, Linkin Park, Sia, the Ramones, Grandmaster Flash and posthumously Waylon Jennings also among the artists being honored next year
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/lil-wayne-karol-g-linkin-park-hollywood-walk-of-fame-2027-1235598793/) — *Rolling Stone*
+
+### 2. Lou Koller, Frontman for Sick of It All,  Has Died
 
 [原文] In June 2024, the singer said that doctors had found a tumor in his esophagus and he would have to undergo treatment
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/sick-of-it-all-lou-koller-dead-obituary-1235598730/) — *Rolling Stone*
 
-### 2. D4vd’s Recovered Texts With Celeste Rivas Hernandez Reveal Talk of Abortion
+### 3. D4vd’s Recovered Texts With Celeste Rivas Hernandez Reveal Talk of Abortion
 
 [原文] Messages between the singer and Celeste Rivas Hernandez were shared in court, along with descriptions of child sex abuse material allegedly found on D4vd's phone
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/d4vds-lawyer-medical-examiner-teen-stab-wounds-1235598394/) — *Rolling Stone*
 
-### 3. Billie Joe Armstrong Enlists Iron Maiden’s Bruce Dickinson for Surprise Cover
+### 4. Billie Joe Armstrong Enlists Iron Maiden’s Bruce Dickinson for Surprise Cover
 
 [原文] Dickinson surprised guests at Fandom's Comic-Con party to cover Mott the Hoople’s “All the Young Dudes”
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/iron-maiden-bruce-dickinson-billie-joe-armstrong-perform-1235598444/) — *Rolling Stone*
 
-### 4. ‘Off Campus’ Star Ella Bright Had No Idea Niall Horan Recorded ‘Baby Now That I Found You’ Duet
+### 5. ‘Off Campus’ Star Ella Bright Had No Idea Niall Horan Recorded ‘Baby Now That I Found You’ Duet
 
 [原文] The actress compared it to “This Town,” the debut solo single from Horan from the early post-One Direction days
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/niall-horan-off-campus-baby-now-that-i-found-you-duet-1235598428/) — *Rolling Stone*
-
-### 5. Sean Combs Placed in Solitary Confinement After Brawl With Fellow Inmate: Reports
-
-[原文] An inmate at the low-security federal prison in New Jersey allegedly taunted Sean Combs, who reportedly lashed out at the man, according to multiple reports
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/sean-combs-solitary-confinement-after-prison-fight-1235597168/) — *Rolling Stone*
 
 ---
 
