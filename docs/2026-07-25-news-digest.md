@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月25日** | 生成时间: 2026-07-25 03:34
+**2026年07月25日** | 生成时间: 2026-07-25 10:55
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Ten killed in Russian attack on drone exhibition near Kyiv
+### 1. More than 220,000 evacuated in France and Spain due to wildfires
+
+[原文] French firefighters battle a blaze heading towards Bordeaux while officials in Madrid say they face the "worst fire in the history of the region".
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Ten killed in Russian attack on drone exhibition near Kyiv
 
 [原文] The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Trump vows to investigate EU over fining of US tech companies
+### 3. Zelensky tries to fix crisis over removal of defence minister and counts the cost
+
+[原文] Protests have continued over Zelensky's decision to dismiss Mykhailo Fedorov, and some commentators believe he has been damaged politically.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion
+
+[原文] Prosecutors allege D4vd started abusing the girl when she was 13 and she had threatened to expose him.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cr592qdj1ldo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Trump vows to investigate EU over fining of US tech companies
 
 [原文] The US president says fines against Google, as well as Apple, Meta and Amazon, should be "entirely reversed."
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 3. US and Iran trade more strikes in Gulf as fears of escalation mount
-
-[原文] It comes as Iran condemned the US plan to use frozen Iranian assets to pay for war damages.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Indonesian babies were trafficked to Singapore. What happens to them now?
-
-[原文] At least 12 babies have been trafficked from Indonesia to Singapore, but what will happen to them remains unclear.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. South Africa's president wins bid to temporarily halt impeachment inquiry over 'Farmgate'
-
-[原文] Ramaphosa has faced scrutiny following the theft of large sums of cash from his private farm in 2020.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwymj9lkx13o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -66,23 +66,23 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/24/cyclospora-cdc-says-outbreak-is-in-nine-states.html) — *CNBC*
 
-### 3. Trump considers ‘massive attack’ on Iran; Pakistan reportedly seeks to restart stalled peace talks
+### 3. Trump sued hours after new tariffs take effect, as experts say they may not hold up
 
-[原文] The president told Axios he was considering an operation "bigger than ever before" before Reuters reported Pakistan is seeking to restart peace talks.
+[原文] President Donald Trump has renewed a flurry of tariffs, including slapping 25% duties on Brazilian imports and vowing 50% tariffs on goods from Canada.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/24/us-iran-war-trump-hormuz-houthis.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/24/trump-tariffs-lawsuit-301-ieepa.html) — *CNBC*
 
-### 4. Oil shipments are under attack on multiple fronts as fighting escalates in Red Sea, Hormuz and Black Sea
+### 4. Paramount agrees to delay WBD acquisition to as late as June 2027 amid legal challenge
 
-[原文] More than 60 commercial ships have been attacked in the Persian Gulf, Strait of Hormuz and Gulf of Oman since March 1.
+[原文] Paramount previously said it intended to complete its WBD acquisition by the end of September, but said Friday the agreement is a "significant win."
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/24/oil-tanker-red-sea-hormuz-black-sea-iran-ukraine.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/24/paramount-wbd-merger-delay.html) — *CNBC*
 
-### 5. Oil falls on report Pakistan is pushing for new U.S.-Iran talks with China's backing
+### 5. SpaceX launches massive Starship rocket in first test flight since IPO
 
-[原文] Oil prices dropped by around 3% on Friday, but remained on track for a weekly jump of 10% as the U.S.-Iran war continued to escalate.
+[原文] Elon Musk's rocket maker is conducting the first test fight for its massive Starship rocket since the company's IPO last month.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/24/oil-price-trump-hormuz-red-sea-iran-war.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/24/spacex-launches-massive-starship-rocket-in-first-test-flight-since-ipo.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Why Cognition bought Poke: AI personality is becoming a competitive advantage
+### 1. I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else
 
-[原文] AI coding startup Cognition has acquired Poke, the AI assistant you text like a friend, in a deal valuing the startup in the low nine figures. The acquisition brings Poke’s conversational style and in
+[原文] OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/) — *TechCrunch*
 
-### 2. US accuses American of allegedly wiping his phone using a ‘duress’ password during border search
+### 2. SpaceX launches new V3 Starlink satellites but suffers another booster failure
 
-[原文] A U.S. citizen has asked a court to throw out the government's claim that he gave over a passcode to border authorities that wiped his phone's data, opening up fresh questions about a person's constit
+[原文] The company ticked off a few more boxes on the second Starship V3 flight, but appears to have had another issue relighting the booster's rocket engines.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/24/us-accuses-american-of-allegedly-wiping-his-phone-using-a-duress-password-during-border-search/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/) — *TechCrunch*
 
-### 3. Anduril reportedly in talks to raise funding at $100B valuation, more than 3x last year’s mark
+### 3. Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M
 
-[原文] Anduril is said to be raising a new round of funding that may push its valuation up to about $100 billion, per Reuters.
+[原文] The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/24/anduril-reportedly-in-talks-to-raise-funding-at-100b-valuation-more-than-3x-last-years-mark/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/) — *TechCrunch*
 
-### 4. Build in public, fail in public: what it’s like to be a founder under 20 right now
+### 4. TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between
 
-[原文] AI tools have democratized the opportunity to build, shortening the timelines of success and enabling more young people to start successful companies without stepping foot inside a Big Tech company.
+[原文] Money has evolved into far more than the cash in your wallet or your bank account. And at TechCrunch Disrupt 2026, we’re devoting an entire stage to that progression.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/24/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage-explores-fintech-payments-ai-and-everything-between/) — *TechCrunch*
 
-### 5. Anthropic launches Opus 5
+### 5. Vietnam is looking to restrict social media for kids; here are the growing number of other countries doing the same
 
-[原文] Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.
+[原文] Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and ex
 
-📎 [阅读原文](https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/24/social-media-ban-children-countries-list/) — *TechCrunch*
 
 ---
 
@@ -174,29 +174,29 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/articles/cy5dnnq1l0po?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Klopp starts Germany reign by threatening to quit
+### 2. Horror injury overshadows gymnastics silver at Commonwealths
+
+[原文] A horror fall from England gymnast Gabriel Langton overshadows his team's silver medal in the team event on the opening night of action at Glasgow 2026.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/articles/c151qlnzw05o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. Klopp starts Germany reign by threatening to quit
 
 [原文] Jurgen Klopp starts his reign as Germany's head coach by threatening to quit if the media invades his family's privacy.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cqjxd0n4gd2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Pogacar on verge of fifth Tour title after Alpe d'Huez win
+### 4. Scott overcomes pressure and big pal Dean to give Scotland golden start
+
+[原文] Scotland's Duncan Scott thrilled a home crowd with his swim to gold at Tollcross on the first full day of competition at the Commonwealth Games.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/articles/cdx8255g8qqo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 5. Pogacar on verge of fifth Tour title after Alpe d'Huez win
 
 [原文] Defending Tour de France champion Tadej Pogacar is on the verge of winning a record-equalling fifth Tour de France after taking a storming victory on stage 19 to Alpe d'Huez.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/cycling/articles/c2elrwxe941o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. Hamilton fastest as new Aston Martin makes encouraging debut
-
-[原文] Lewis Hamilton leads team-mate Charles Leclerc to a Ferrari one-two in Friday practice at the Hungarian Grand Prix.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/c3v0wp9yvdgo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. NBA superstar James, 41, to join Philadelphia 76ers
-
-[原文] Basketball superstar LeBron James announces he will join the Philadelphia 76ers for what he says will be his final contract in the NBA.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/articles/cx27r0me3zno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Chuck Russell, Director of ‘The Mask,’ Dies at 74
+### 1. Trump Says White House Correspondents Dinner Is ‘Largest Group of Trump Derangement Syndrome People Ever Put Together at One Time’
 
-[原文] Chuck Russell, who helped launch several notable careers as the director of genre films including 1994&#8217;s &#8220;The Mask&#8221; as well as &#8220;A Nightmare on Elm Street 3: Dream Warriors,&#82
+[原文] President Donald Trump attended his first-ever White House Correspondents Association Dinner, with this year&#8217;s rescheduled gala held Friday evening in Washington, D.C., and delivered some pointe
 
-📎 [阅读原文](https://variety.com/2026/film/news/chuck-russell-dead-the-mask-the-blob-1236820565/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/trump-white-house-correspondents-dinner-remarks-1236820779/) — *Variety*
 
-### 2. Netflix Executives Considered Pulling ‘Michael Jackson: The Verdict’ Docuseries a Week Before Its Release (EXCLUSIVE)
+### 2. Guillermo del Toro said ‘Absolutely No Goddamn AI’ in ‘Pan’s Labyrinth’ 3D Re-Release: ‘We’re Protecting a Lineage of Art’
 
-[原文] Netflix almost pulled the streamer&#8217;s recent documentary “Michael Jackson: The Verdict” a week before its release for fear of reprisal, Variety has learned. The three-part docuseries re-examines 
+[原文] Guillermo del Toro had one rule when bringing “Pan&#8217;s Labyrinth” back to theaters for its 20th anniversary: “No goddamn AI.” The filmmaker returned to San Diego Comic-Con to discuss the film’s 20
 
-📎 [阅读原文](https://variety.com/2026/tv/global/michael-jackson-docuseries-netflix-considered-pulling-1236817368/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/guillermo-del-toro-no-ai-pans-labyrinth-rerelease-1236815109/) — *Variety*
 
-### 3. ‘Rings of Power’ Debuts Season 3 Trailer; Simon Pegg Joins Cast as the Balrog
+### 3. Nick Hakim’s ‘I Can See’ Is a Hazy Alt-R&B Masterpiece: Album Review
 
-[原文] Amazon Studios has released the first look at the third season of “The Lord of the Rings: The Rings of Power,” the fantasy television series based on J.R.R. Tolkien’s Middle-earth. According to an off
+[原文] “Stoner R&#38;B” is not an insult: It’s the opposite, a loose term to describe a sprawling genre of music that includes everything from Dijon and Frank Ocean to Brent Faiyaz and Jhene Aiko. It’s R&#38
 
-📎 [阅读原文](https://variety.com/2026/tv/news/lord-of-the-rings-rings-of-power-season-3-trailer-1236625486/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/reviews/nick-hakim-i-can-see-masterpiece-album-review-1236818633/) — *Variety*
 
-### 4. Inside Costa Rica’s Alcatraz and Another 5 Top Locations
+### 4. Paramount Faces Drawn-Out Battle With State AGs: ‘They Saw the Writing on the Wall’
 
-[原文] The same crystalline waters swooshing the pebbled coast of San Lucas Island were once murked by the crimson red of blood. From 1873 to 1991, the island served as Costa Rica’s principal penitentiary, w
+[原文] Only a few days ago, the states&#8217; antitrust challenge to the Paramount-Warner Bros. merger still looked like a speed bump. Now, it looks more like siege warfare &#8212; as Paramount has agreed to
 
-📎 [阅读原文](https://variety.com/2026/film/global/costa-rica-alcatraz-another-5-top-locations-1236820110/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/paramount-state-ags-warner-bros-battle-1236820702/) — *Variety*
 
-### 5. Matt Damon Describes His Role in The Daniels’ New Sci-Fi Movie as ‘The Breakfast Club’ Meets ‘Inception’ Meets Anime Meets John Oliver
+### 5. Norwegian Zombie Comedy ‘Grandmonster’ Wins Big Laughs and Top Outpost Award at Fantasia’s Frontières Market
 
-[原文] Matt Damon&#160;has revealed the wild pitch from “Everything Everywhere All at Once” directors Daniel Kwan and Daniel Scheinert. Damon, who is set to star in directors&#8217; new sci-fi film revealed 
+[原文] Norwegian director Vegard Dahle’s zombie comedy “Grandmonster” has won the top Outpost Award, and a prize of post-production services, at the Fantasia Festival’s prestigious Frontières Co-Production M
 
-📎 [阅读原文](https://variety.com/2026/film/news/matt-damon-daniels-sci-fi-movie-breakfast-club-inception-1236820464/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/markets-festivals/fantasia-frontieres-grandmonster-zombie-comedy-1236820625/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Cape Fear Episode 9 Recap and Review – ‘The Scar’
+### 1. Next Kratos-Led God of War Game Is Coming After Laufey, and Connects Directly to Her Story | Comic Con 2026
 
-[原文] The penultimate episode of Apple TV's Cape Fear suffers from rushed resolutions and bland storytelling. Read our full recap and review of Episode 9, "The Scar."
+[原文] Santa Monica Studio head of creative Cory Barlog has announced that the next Kratos-led God of War game is coming after God of War Laufey, and connects directly to her story.
 
-📎 [阅读原文](https://www.ign.com/articles/cape-fear-episode-9-recap-and-review-the-scar) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/next-kratos-led-god-of-war-game-is-coming-after-laufey-and-connects-directly-to-her-story-comic-con-2026) — *IGN*
 
-### 2. Woot Has Great Deals on Factory Reconditioned MSI Gaming PCs Thanks to a New 22% Off Coupon
+### 2. American Caper From Absurd Ventures' Dan Houser Is Getting a Double-Sized Season Finale Issue #12 - Exclusive | Comic Con 2026
 
-[原文] Prebuilt desktop computers equipped with RTX 50 series GPUs for way below market price.
+[原文] IGN can exclusively reveal that American Caper, the crime fiction comic series from the mind of Absurd Ventures' Dan Houser, is getting a double-sized season finale issue #12 that will arrive on Novem
 
-📎 [阅读原文](https://www.ign.com/articles/msi-gaming-pc-deals-at-woot-july-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/american-caper-from-absurd-ventures-dan-houser-is-getting-a-double-sized-season-finale-issue-12-exclusive-comic-con-2026) — *IGN*
 
-### 3. The Future's Bright in Blade Runner 2099's Debut Trailer | Comic Con 2026
+### 3. X-Men '97 Season 3 Will Bring Back These Fan-Favorite Mutant Villains | Comic Con 2026
 
-[原文] Prime Video has revealed Blade Runner 2099 with a debut trailer at San Diego Comic-Con 2026, and confirmed all eight episodes will drop on November 25, 2026.
+[原文] X-Men '97 fans just got a big update on Season 3 at Comic-Con, including the return of some fan-favorite mutant villains.
 
-📎 [阅读原文](https://www.ign.com/articles/the-futures-bright-in-blade-runner-2099s-debut-trailer-comic-con-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/x-men-97-season-3-will-bring-back-these-fan-favorite-mutant-villains-comic-con-2026) — *IGN*
 
-### 4. Frankenstein’s Criterion Collection Release Is Up for Preorder – Here’s Where You Can Buy It
+### 4. Marvel Comics Makes Eddie Brock Venom Again | Comic Con 2026
 
-[原文] Guillermo del Toro's Frankenstein is joining the Criterion Collection on October 27. Here's where you can preorder its 4K, Blu-ray, and DVD.
+[原文] Marvel Comics is bringing Venom back to basics, as Eddie Brock dons the symbiote once more in a new monthly series launching in October 2026.
 
-📎 [阅读原文](https://www.ign.com/articles/frankenstein-criterion-collection-4k-blu-ray-where-to-buy) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/marvel-comics-makes-eddie-brock-venom-again-comic-con-2026) — *IGN*
 
-### 5. King of the Hill’s Pamela Adlon Reveals Her Favorite Bobby Hill Episodes
+### 5. Lanterns: We Think We Know Who the Real Villain Is Based on the New Trailer | Comic Con 2026
 
-[原文] Meta Description: Pamela Adlon discusses the King of the Hill Hulu revival, finding 21-year-old Bobby's voice, and why she wants to play the character for the rest of her life.
+[原文] Especially given how much earlier promo material made Lanterns seem like a True Detective or Yellowstone spin-off that featured a Lantern ring or two, the new trailer looks to set fan worries aside by
 
-📎 [阅读原文](https://www.ign.com/articles/pamela-adlon-king-of-the-hill-bobby-voice) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/lanterns-we-think-we-know-who-the-real-villain-is-based-on-the-new-trailer-comic-con-2026) — *IGN*
 
 ---
 
@@ -401,11 +401,11 @@ The post Ford Recalls Over Half a Million Broncos for Engine Fire Risk: TDS app
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. We Must Stop Using AI to ‘Level-Down’ Our Students
+### 1. Early Childhood Education Teachers Grapple with Screen Time
 
-[原文] How AI deprived my students of the reading struggle they needed to succeed — and five better ways to use it.
+[原文] The AAP’s new guidance helps, but putting it into practice in classrooms remains challenging.
 
-📎 [阅读原文](https://edsurge.com/news/we-must-stop-using-ai-to-level-down-our-students) — *EdSurge*
+📎 [阅读原文](https://edsurge.com/news/early-childhood-education-teachers-grapple-with-screen-time) — *EdSurge*
 
 ### 2. What Does AI Cost When We Skip the Work?
 
@@ -413,23 +413,23 @@ The post Ford Recalls Over Half a Million Broncos for Engine Fire Risk: TDS app
 
 📎 [阅读原文](https://edsurge.com/news/what-does-ai-cost-when-we-skip-the-work) — *EdSurge*
 
-### 3. The Language Barrier Is the Real Barrier in Edtech
+### 3. We Must Stop Using AI to ‘Level-Down’ Our Students
+
+[原文] How AI deprived my students of the reading struggle they needed to succeed — and five better ways to use it.
+
+📎 [阅读原文](https://edsurge.com/news/we-must-stop-using-ai-to-level-down-our-students) — *EdSurge*
+
+### 4. The Language Barrier Is the Real Barrier in Edtech
 
 [原文] The English-first bias in technology must be addressed.
 
 📎 [阅读原文](https://edsurge.com/news/the-language-barrier-is-the-real-barrier-in-edtech) — *EdSurge*
 
-### 4. These Hip-Hop Artists Were Already Teaching
+### 5. These Hip-Hop Artists Were Already Teaching
 
 [原文] A new degree program credentials hip-hop artists to bring communal, real-world learning to the classroom.
 
 📎 [阅读原文](https://edsurge.com/news/these-hip-hop-artists-were-already-teaching) — *EdSurge*
-
-### 5. AI Meets ESL, and Teachers Are Intrigued
-
-[原文] Can AI chatbots support K-12 emergent bilingual learners without widening gaps?
-
-📎 [阅读原文](https://edsurge.com/news/ai-meets-esl-and-teachers-are-intrigued) — *EdSurge*
 
 ---
 
@@ -439,35 +439,35 @@ The post Ford Recalls Over Half a Million Broncos for Engine Fire Risk: TDS app
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Billie Joe Armstrong Enlists Iron Maiden’s Bruce Dickinson for Surprise Cover
+### 1. Lou Koller, Frontman for Sick of It All,  Has Died
 
-[原文] Dickinson surprised guests at Comic-Con party to cover Mott the Hoople’s “All the Young Dudes”
+[原文] In June 2024, the singer said that doctors had found a tumor in his esophagus and he would have to undergo treatment
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/sick-of-it-all-lou-koller-dead-obituary-1235598730/) — *Rolling Stone*
+
+### 2. D4vd’s Recovered Texts With Celeste Rivas Hernandez Reveal Talk of Abortion
+
+[原文] Messages between the singer and Celeste Rivas Hernandez were shared in court, along with descriptions of child sex abuse material allegedly found on D4vd's phone
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/d4vds-lawyer-medical-examiner-teen-stab-wounds-1235598394/) — *Rolling Stone*
+
+### 3. Billie Joe Armstrong Enlists Iron Maiden’s Bruce Dickinson for Surprise Cover
+
+[原文] Dickinson surprised guests at Fandom's Comic-Con party to cover Mott the Hoople’s “All the Young Dudes”
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/iron-maiden-bruce-dickinson-billie-joe-armstrong-perform-1235598444/) — *Rolling Stone*
 
-### 2. ‘Off Campus’ Star Ella Bright Had No Idea Niall Horan Recorded ‘Baby Now That I Found You’ Duet
+### 4. ‘Off Campus’ Star Ella Bright Had No Idea Niall Horan Recorded ‘Baby Now That I Found You’ Duet
 
 [原文] The actress compared it to “This Town,” the debut solo single from Horan from the early post-One Direction days
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/niall-horan-off-campus-baby-now-that-i-found-you-duet-1235598428/) — *Rolling Stone*
 
-### 3. Sean Combs Placed in Solitary Confinement After Brawl With Fellow Inmate: Reports
+### 5. Sean Combs Placed in Solitary Confinement After Brawl With Fellow Inmate: Reports
 
 [原文] An inmate at the low-security federal prison in New Jersey allegedly taunted Sean Combs, who reportedly lashed out at the man, according to multiple reports
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/sean-combs-solitary-confinement-after-prison-fight-1235597168/) — *Rolling Stone*
-
-### 4. Jack White Brings Out Black Crowes’ Chris Robinson to Tear Up Free’s ‘I’m a Mover’
-
-[原文] The two rockers covered the Seventies deep cut during White’s show in Chicago
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/jack-white-the-black-crowes-chris-robinson-surprise-guest-1235598308/) — *Rolling Stone*
-
-### 5. Demi Moore Gets Front-Row Seat to Katseye’s Breakdown in ‘Animal’ Video
-
-[原文] The single, written by Ed Sheeran and produced by Omer Fedi and Blake Slatkin, will appear on Katseye’s upcoming five-track EP Wild
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/katseye-new-single-animal-video-guest-demi-moore-1235598166/) — *Rolling Stone*
 
 ---
 
