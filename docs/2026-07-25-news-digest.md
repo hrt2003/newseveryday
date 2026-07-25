@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月25日** | 生成时间: 2026-07-25 10:55
+**2026年07月25日** | 生成时间: 2026-07-25 16:11
 
 ---
 
@@ -34,17 +34,17 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion
+### 4. Four Palestinians and two Israelis killed in West Bank shooting
+
+[原文] Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion
 
 [原文] Prosecutors allege D4vd started abusing the girl when she was 13 and she had threatened to expose him.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cr592qdj1ldo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Trump vows to investigate EU over fining of US tech companies
-
-[原文] The US president says fines against Google, as well as Apple, Meta and Amazon, should be "entirely reversed."
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -72,17 +72,17 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/24/trump-tariffs-lawsuit-301-ieepa.html) — *CNBC*
 
-### 4. Paramount agrees to delay WBD acquisition to as late as June 2027 amid legal challenge
+### 4. Finland’s radical answer to renewable energy’s biggest headache: The world’s largest sand battery
+
+[原文] A small Finnish town has turned to the world's largest commercial sand battery to tackle a major hurdle in the energy transition: intermittency.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/25/finland-sand-battery-renewable-energy-storage.html) — *CNBC*
+
+### 5. Paramount agrees to delay WBD acquisition to as late as June 2027 amid legal challenge
 
 [原文] Paramount previously said it intended to complete its WBD acquisition by the end of September, but said Friday the agreement is a "significant win."
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/24/paramount-wbd-merger-delay.html) — *CNBC*
-
-### 5. SpaceX launches massive Starship rocket in first test flight since IPO
-
-[原文] Elon Musk's rocket maker is conducting the first test fight for its massive Starship rocket since the company's IPO last month.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/24/spacex-launches-massive-starship-rocket-in-first-test-flight-since-ipo.html) — *CNBC*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Fury wins low-key warm-up to keep Joshua fight on track
-
-[原文] British heavyweight Tyson Fury stops Mariusz Wach in a low-key bout in Thailand to keep a potential blockbuster fight with Anthony Joshua on track.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/articles/cy5dnnq1l0po?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 2. Horror injury overshadows gymnastics silver at Commonwealths
+### 1. Horror injury overshadows gymnastics silver at Commonwealths
 
 [原文] A horror fall from England gymnast Gabriel Langton overshadows his team's silver medal in the team event on the opening night of action at Glasgow 2026.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/articles/c151qlnzw05o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Klopp starts Germany reign by threatening to quit
+### 2. 'Maybe he's a racist' - Trump critical of James
 
-[原文] Jurgen Klopp starts his reign as Germany's head coach by threatening to quit if the media invades his family's privacy.
+[原文] United States President Donald Trump said LeBron James might be "a racist" when asked if the basketball star is the "best ever" to play the sport.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cqjxd0n4gd2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Scott overcomes pressure and big pal Dean to give Scotland golden start
+### 3. How do Manchester City manage the Rodri dilemma?
 
-[原文] Scotland's Duncan Scott thrilled a home crowd with his swim to gold at Tollcross on the first full day of competition at the Commonwealth Games.
+[原文] BBC Sport looks at what City's new-look midfield could be like and whether it is time to cash in on Rodri.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/articles/cdx8255g8qqo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cd9w2qp8pwxo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Pogacar on verge of fifth Tour title after Alpe d'Huez win
+### 4. USA's Lyles wins 100m in world-leading 9.79 seconds
 
-[原文] Defending Tour de France champion Tadej Pogacar is on the verge of winning a record-equalling fifth Tour de France after taking a storming victory on stage 19 to Alpe d'Huez.
+[原文] Noah Lyles runs a world-leading 9.79 seconds as he claims an impressive victory in the 100m at the US athletics championships.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cycling/articles/c2elrwxe941o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/c3d38zkx59jo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 5. On the move - football's youngest journeymen
+
+[原文] The players who had appeared for a remarkable number of clubs by their 23rd birthday.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c39e1789j8po?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -208,7 +208,7 @@
 
 ### 1. Trump Says White House Correspondents Dinner Is ‘Largest Group of Trump Derangement Syndrome People Ever Put Together at One Time’
 
-[原文] President Donald Trump attended his first-ever White House Correspondents Association Dinner, with this year&#8217;s rescheduled gala held Friday evening in Washington, D.C., and delivered some pointe
+[原文] President Donald Trump attended his first-ever White House Correspondents&#8217; Association Dinner, with this year&#8217;s rescheduled gala held Friday evening in Washington, D.C., and delivered some
 
 📎 [阅读原文](https://variety.com/2026/tv/news/trump-white-house-correspondents-dinner-remarks-1236820779/) — *Variety*
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Next Kratos-Led God of War Game Is Coming After Laufey, and Connects Directly to Her Story | Comic Con 2026
+### 1. Spaceballs: The New One Creators on Making Mel Brooks' Yogurt CGI and Paying Tribute to John Candy | Comic Con 2026
+
+[原文] Rick Moranis appeared at SDCC alongside Josh Gad to reveal new details for Spaceballs: The New One, including Mel Brooks' now CGI Yogurt and fresh Star Wars gags.
+
+📎 [阅读原文](https://www.ign.com/articles/spaceballs-2-sdcc-panel-rick-moranis-mel-brooks) — *IGN*
+
+### 2. God of War Laufey Release Date Announced | Comic Con 2026
+
+[原文] God of War Laufey has a release date: February 16, 2027.
+
+📎 [阅读原文](https://www.ign.com/articles/god-of-war-laufey-release-date-announced-comic-con-2026) — *IGN*
+
+### 3. Next Kratos-Led God of War Game Is Coming After Laufey, and Connects Directly to Her Story | Comic Con 2026
 
 [原文] Santa Monica Studio head of creative Cory Barlog has announced that the next Kratos-led God of War game is coming after God of War Laufey, and connects directly to her story.
 
 📎 [阅读原文](https://www.ign.com/articles/next-kratos-led-god-of-war-game-is-coming-after-laufey-and-connects-directly-to-her-story-comic-con-2026) — *IGN*
 
-### 2. American Caper From Absurd Ventures' Dan Houser Is Getting a Double-Sized Season Finale Issue #12 - Exclusive | Comic Con 2026
+### 4. American Caper From Absurd Ventures' Dan Houser Is Getting a Double-Sized Season Finale Issue #12 - Exclusive | Comic Con 2026
 
 [原文] IGN can exclusively reveal that American Caper, the crime fiction comic series from the mind of Absurd Ventures' Dan Houser, is getting a double-sized season finale issue #12 that will arrive on Novem
 
 📎 [阅读原文](https://www.ign.com/articles/american-caper-from-absurd-ventures-dan-houser-is-getting-a-double-sized-season-finale-issue-12-exclusive-comic-con-2026) — *IGN*
 
-### 3. X-Men '97 Season 3 Will Bring Back These Fan-Favorite Mutant Villains | Comic Con 2026
+### 5. Palworld Review
 
-[原文] X-Men '97 fans just got a big update on Season 3 at Comic-Con, including the return of some fan-favorite mutant villains.
+[原文] A clever blend of Pokemon-style creature collecting and a traditional co-op survival game.
 
-📎 [阅读原文](https://www.ign.com/articles/x-men-97-season-3-will-bring-back-these-fan-favorite-mutant-villains-comic-con-2026) — *IGN*
-
-### 4. Marvel Comics Makes Eddie Brock Venom Again | Comic Con 2026
-
-[原文] Marvel Comics is bringing Venom back to basics, as Eddie Brock dons the symbiote once more in a new monthly series launching in October 2026.
-
-📎 [阅读原文](https://www.ign.com/articles/marvel-comics-makes-eddie-brock-venom-again-comic-con-2026) — *IGN*
-
-### 5. Lanterns: We Think We Know Who the Real Villain Is Based on the New Trailer | Comic Con 2026
-
-[原文] Especially given how much earlier promo material made Lanterns seem like a True Detective or Yellowstone spin-off that featured a Lantern ring or two, the new trailer looks to set fan worries aside by
-
-📎 [阅读原文](https://www.ign.com/articles/lanterns-we-think-we-know-who-the-real-villain-is-based-on-the-new-trailer-comic-con-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/palworld-review) — *IGN*
 
 ---
 
