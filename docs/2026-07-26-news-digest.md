@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月26日** | 生成时间: 2026-07-26 03:13
+**2026年07月26日** | 生成时间: 2026-07-26 11:21
 
 ---
 
@@ -16,7 +16,7 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. More than 250,000 flee wildfires in France and Spain
+### 1. More than 300,000 flee wildfires in France and Spain
 
 [原文] Spain's PM warns of "complex hours" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.
 
@@ -54,17 +54,17 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. From Silicon Valley to DC, the tech world is suddenly obsessed with one concept in AI: Distillation
+### 1. Imax 70 mm screenings become the biggest star for Christopher Nolan’s ‘The Odyssey’
+
+[原文] Moviegoers are traveling, lining up and paying premiums to see Christopher Nolan’s ‘The Odyssey’ in scarce Imax 70 mm screenings.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/25/the-odyssey-imax-70mm-screenings.html) — *CNBC*
+
+### 2. From Silicon Valley to DC, the tech world is suddenly obsessed with one concept in AI: Distillation
 
 [原文] Distillation has long been a topic for AI wonks, but it's become a hot-button issue of late as techies and lawmakers debate how it should be regulated.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/25/hat-is-distillation-and-why-is-everyone-so-obsessed-with-it-this-week.html) — *CNBC*
-
-### 2. Trump sued hours after new tariffs take effect, as experts say they may not hold up
-
-[原文] President Donald Trump has renewed a flurry of tariffs, including slapping 25% duties on Brazilian imports and vowing 50% tariffs on goods from Canada.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/24/trump-tariffs-lawsuit-301-ieepa.html) — *CNBC*
 
 ### 3. Analysis: A powerful new coalition of AI skeptics is coalescing right in Trump's blind spot
 
@@ -72,11 +72,11 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/25/trump-ai-data-center-backlash.html) — *CNBC*
 
-### 4. Imax 70 mm screenings become the biggest star for Christopher Nolan’s ‘The Odyssey’
+### 4. Trump sued hours after new tariffs take effect, as experts say they may not hold up
 
-[原文] Moviegoers are traveling, lining up and paying premiums to see Christopher Nolan’s ‘The Odyssey’ in scarce Imax 70 mm screenings.
+[原文] President Donald Trump has renewed a flurry of tariffs, including slapping 25% duties on Brazilian imports and vowing 50% tariffs on goods from Canada.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/25/the-odyssey-imax-70mm-screenings.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/24/trump-tariffs-lawsuit-301-ieepa.html) — *CNBC*
 
 ### 5. Logistics giants are racing to keep up with healthcare boom as GLP-1s highlight need for cold storage
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Kalshi demands Netflix take down trailer for ‘Prediction Games’ documentary
+### 1. Monday.com is the latest tech company to blame AI for layoffs — here are 20 others
+
+[原文] A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/) — *TechCrunch*
+
+### 2. Warner Bros. lawsuit accuses Amazon of illegally poaching executives
+
+[原文] The lawsuit will likely renew debates about whether term employment agreements are enforceable under California. law
+
+📎 [阅读原文](https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/) — *TechCrunch*
+
+### 3. The hacker who humiliated spyware makers and was never caught
+
+[原文] An awe-inspiring hacktivist who hacked two controversial government spyware makers may be the most prolific hacker to have never gotten caught. What do we know about Phineas Fisher?
+
+📎 [阅读原文](https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/) — *TechCrunch*
+
+### 4. Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation
+
+[原文] Elon Musk's tunneling startup is reportedly in talks for a major new funding round.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/) — *TechCrunch*
+
+### 5. Kalshi demands Netflix take down trailer for ‘Prediction Games’ documentary
 
 [原文] Kalshi claims the trailer is “defamatory” and contains “both fabricated documents and false and misleading statements.”
 
 📎 [阅读原文](https://techcrunch.com/2026/07/25/kalshi-demands-netflix-take-down-trailer-for-prediction-games-documentary/) — *TechCrunch*
-
-### 2. Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech
-
-[原文] At libraries around the country, "Avoiding AI" workshops have elicited unprecedented demand.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/) — *TechCrunch*
-
-### 3. One fallen power line exposed a growing AI data center problem. Here’s how to fix it.
-
-[原文] A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/) — *TechCrunch*
-
-### 4. I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else
-
-[原文] OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/) — *TechCrunch*
-
-### 5. SpaceX launches new V3 Starlink satellites but suffers another booster failure
-
-[原文] The company ticked off a few more boxes on the second Starship V3 flight, but appears to have had another issue relighting the booster's rocket engines.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Norris on pole as Hamilton and Antonelli penalised
+### 1. Joshua knocked down twice as dramatic win sets up Fury fight
 
-[原文] McLaren's Lando Norris takes his first grand prix pole position of 2026 in Hungary, as Lewis Hamilton and Kimi Antonelli are both given grid penalties.
+[原文] Anthony Joshua suffers two knockdowns before recovering to dramatically stop Kristian Prenga in the second round.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/c4gv02vyzv4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/articles/cgew1lrpgzro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Pogacar poised to join Tour greats with fifth title in Paris finale
+### 2. Ramsay-Peaty in tears after missing out on gold again
+
+[原文] An emotional Adam Ramsay-Peaty questions how his future looks after missing out on gold at the Commonwealth Games in Glasgow.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/swimming/articles/cz053k47p0ko?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. Norris cautious despite pole as it 'falls apart' for Hamilton
+
+[原文] Lando Norris has an opportunity to win his first grand prix of the year in Hungary, but Lewis Hamilton says his positivity is being tested after another penalty.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/cm2gd6gd33go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. Paris awaits as Pogacar poised to join Tour greats with fifth title
 
 [原文] Tadej Pogacar is set to win a record-equalling fifth Tour de France after Ecuador's Richard Carapaz takes a dramatic stage 20 to Alpe d'Huez.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/cycling/articles/c1d141dl2qro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Howe unsure over Guimaraes future amid Arsenal interest
+### 5. Joshua's emotional win over Prenga in pictures
 
-[原文] Newcastle United head coach Eddie Howe says he has had positive discussions with captain Bruno Guimaraes.
+[原文] A pictorial view as Anthony Joshua beats Kristian Prenga in dramatic fashion in Saudi Arabia to tee up a super-fight with Tyson Fury.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cdrvxm682yko?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. Vozinha to join Chilean club after World Cup heroics
-
-[原文] Cape Verde goalkeeper Vozinha, who earned plaudits for his feats during the World Cup, is set to join Chilean side Colo Colo.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ckgdz5mrxd1o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. 'He'll go right through this guy' - Joshua v Prenga predictions
-
-[原文] Figures from the boxing world give their predictions for Saturday's heavyweight fight between Anthony Joshua and Kristian Prenga.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/articles/ce3q23ke22qo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/articles/c141x88p30ko?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘Love Island USA’ Contestant Kenzie Slams Rumors That She’s a Trump Supporter ‘Just Because I’m Blonde and White’: ‘F— the F— Off!’
+### 1. ‘Black Panther 3’: David Jonsson to Play T’Challa’s Son as December 2028 Release Date Set
 
-[原文] &#8220;Love Island USA&#8221; Season 8 contestant Kenzie Annis has slammed rumors that she is a Trump supporter. Speculation started spreading amongst the &#8220;Love Island&#8221; fandom early in the
+[原文] Black Panther is back! David Jonsson has been cast as the new Black Panther and is playing T&#8217;Challa&#8217;s son in &#8220;Black Panther 3,&#8221; out Dec. 15, 2028. The film will follow Jonsson&
 
-📎 [阅读原文](https://variety.com/2026/tv/news/love-island-usa-kenzie-denies-trump-supporter-rumors-1236821061/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/black-panther-3-december-2028-release-david-jonsson-1236083370/) — *Variety*
 
-### 2. ‘Futurama’ to Release Three New Supersized Specials, Including a Christmas Episode, Starting Next Year on Hulu
+### 2. ‘Avengers: Doomsday’ Trailer Rocks Comic-Con: Doctor Doom Raises Army of Sentinels to Take Down Avengers, Fantastic Four and X-Men
 
-[原文] Hulu has greenlit three supersized &#8220;Futurama&#8221; specials in addition to the show&#8217;s upcoming Season 14, the series&#8217; executive producers and cast revealed Saturday at San Diego Com
+[原文] Marvel Studios chief Kevin Feige surprised San Diego Comic Con attendees with exclusive footage of &#8220;Avengers: Doomsday,&#8221; shown only to lucky fans inside of the convention center&#8217;s ma
 
-📎 [阅读原文](https://variety.com/2026/tv/news/futurama-three-new-supersized-specials-hulu-comic-con-1236821009/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/avengers-doomsday-new-trailer-comic-con-1236817677/) — *Variety*
 
-### 3. ‘Bob’s Burgers’ to Unveil New Holiday Short ‘On the Fort Day of Christmas’ This Year on Hulu
+### 3. ‘Coyote vs. Acme’ Director and Star Lana Condor on Finally Showing Their Film to the Fans at Comic-Con: ‘The Fight Was For a Good Reason’
 
-[原文] &#8216;Tis the season for &#8220;Bob&#8217;s Burgers,&#8221; which will return to the holidays with an all-new Christmas-themed short set to premiere on Hulu (and internationally for most Disney+ subs
+[原文] If you went back to November 2023 and told “Coyote vs. Acme” director Dave Green that his Looney Toons legal comedy would make its debut at San Diego Comic-Con, he probably wouldn’t believe it. Of cou
 
-📎 [阅读原文](https://variety.com/2026/tv/news/bobs-burgers-short-on-the-fort-day-of-christmas-hulu-1236820701/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/coyote-vs-acme-director-lana-condor-public-screening-fans-comic-con-1236821209/) — *Variety*
 
-### 4. ‘Brunello: The Gracious Visionary’ Review: Giuseppe Tornatore’s Seductive Hagiography of a Fashion Legend
+### 4. Ryan Gosling to Star in Marvel’s Ghost Rider Movie
 
-[原文] As a design house, Brunello Cucinelli is a name synonymous with luxury and quality. As a production company, it’s hard to know how to feel about it preceding a biographical film about its namesake. “B
+[原文] Ryan Gosling is finally joining the Marvel Cinematic Universe. The &#8220;Project Hail Mary&#8221; star will play Ghost Rider in a new standalone movie, Marvel Studios exec Kevin Feige announced onsta
 
-📎 [阅读原文](https://variety.com/2026/film/reviews/brunello-the-gracious-visionary-review-1236821018/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/ryan-gosling-ghost-rider-marvel-movie-1236821206/) — *Variety*
 
-### 5. Roxette Cancels 40th Anniversary Tour of North American Amphitheaters, Citing ‘Hugely Increased Touring Costs’
+### 5. Stephen King’s ‘Carrie’ Series Sets October Release Date, Drops Horrifying New Trailer
 
-[原文] There was good news and bad news about Roxette&#8217;s enduring popularity this week. The good news was, the group&#8217;s 1990 smash &#8220;It Must Have Been Love&#8221; was announced as having offic
+[原文] Amazon Prime Video has released a new teaser trailer for “Carrie,” the TV adaptation of Stephen King’s classic horror novel. All eight episodes of the series will debut on Oct. 7. The series is a “bol
 
-📎 [阅读原文](https://variety.com/2026/music/news/roxette-cancels-tour-in-north-america-touring-costs-1236820989/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/carrie-tv-series-trailer-release-date-mike-flanagan-1236807045/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Final Fantasy 14 Sets Nintendo Switch 2 Release Date for Early August
+### 1. Black Panther 3 Release Date Confirmed by Marvel | Comic Con 2026
 
-[原文] Square Enix has announced Final Fantasy 14 has a Nintendo Switch 2 release date of August 4, 2026.
+[原文] Marvel has made Black Panther 3 official, and confirmed it will launch on December 15, 2028.
 
-📎 [阅读原文](https://www.ign.com/articles/final-fantasy-14-sets-nintendo-switch-2-release-date-for-early-august) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/black-panther-3-release-date-confirmed-by-marvel-comic-con-2026) — *IGN*
 
-### 2. Absolute Batman and Absolute Martian Manhunter Win Big at the 2026 Eisner Awards | Comic Con 2026
+### 2. Deadpool and Peggy Carter Confirmed for Avengers: Doomsday | Comic Con 2026
 
-[原文] DC's Absolute Universe dominated the 2026 Eisner Awards, with both Absolute Batman and Absolute Martian Manhunter taking home key trophies.
+[原文] Ryan Reynolds and Hayley Atwell will reprise their Marvel roles as Deadpool and Peggy Carter in Avengers: Doomsday, it's been confirmed.
 
-📎 [阅读原文](https://www.ign.com/articles/absolute-batman-and-absolute-martian-manhunter-win-big-at-the-2026-eisner-awards-comic-con-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/deadpool-and-peggy-carter-confirmed-for-avengers-doomsday-comic-con-2026) — *IGN*
 
-### 3. What's Up With Those Avengers: Doomsday Latverian Witches at Comic-Con? | Comic Con 2026
+### 3. Marvel Announces Ryan Gosling Ghost Rider Movie | Comic Con 2026
 
-[原文] Are even more familiar faces coming to the next MCU epic? Marvel's Latverian Witches costume tease at SDCC would seem to indicate an Infinity Stone and maybe even a Scarlet Witch connection!
+[原文] Marvel has announced a Ghost Rider movie starring Ryan Gosling, directed by Deadpool & Wolverine's Shawn Levy.
 
-📎 [阅读原文](https://www.ign.com/articles/whats-up-with-those-avengers-doomsday-latverian-witches-at-comic-con-comic-con-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/marvel-announces-ryan-gosling-ghost-rider-movie-comic-con-2026) — *IGN*
 
-### 4. Spaceballs: The New One Creators on Making Mel Brooks' Yogurt CGI and Paying Tribute to John Candy | Comic Con 2026
+### 4. Yaga Trailer Reveals New Series' Horror and Seductive Side
 
-[原文] Rick Moranis appeared at SDCC alongside Josh Gad to reveal new details for Spaceballs: The New One, including Mel Brooks' now CGI Yogurt and fresh Star Wars gags.
+暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/spaceballs-2-sdcc-panel-rick-moranis-mel-brooks) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/yaga-trailer-reveals-new-series-horror-and-seductive-side) — *IGN*
 
-### 5. God of War Laufey Release Date Announced | Comic Con 2026
+### 5. Exclusive: Coyote vs. Acme Is Getting a Physical Home Media Release with NSFW John Cena Outtakes | Comic Con 2026
 
-[原文] God of War Laufey has a release date: February 16, 2027.
+[原文] Coyote vs. Acme director Dave Green confirmed to IGN that the film is coming to Blu-ray, along with some hilarious outtakes that he described as “not PG-rated.”
 
-📎 [阅读原文](https://www.ign.com/articles/god-of-war-laufey-release-date-announced-comic-con-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/exclusive-coyote-vs-acme-is-getting-a-physical-home-media-release-with-nsfw-john-cena-outtakes-comic-con-2026) — *IGN*
 
 ---
 
@@ -439,35 +439,35 @@ The post Lost in Translation: FT-1 Designer Explains Why Toyota&#8217;s Pr
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Bon Iver’s Justin Vernon Performs Entire Set of Bob Dylan Covers at Eaux Claires Fest
+### 1. Katy Perry ‘Deeply Appalled’ After White House Uses ‘Firework’ in Military Strikes TikTok Video
+
+[原文] "My music is for bringing people together, not celebrating warfare," singer wrote Saturday in response to post
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/katy-perry-white-house-firework-military-strikes-tiktok-1235598831/) — *Rolling Stone*
+
+### 2. Bon Iver’s Justin Vernon Performs Entire Set of Bob Dylan Covers at Eaux Claires Fest
 
 [原文] Singer also plays surprise set at his curated Wisconsin festival, Vernon's first full set of Bon Iver music in nearly three years
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/bon-iver-justin-vernon-bob-dylan-covers-set-eaux-claires-1235598818/) — *Rolling Stone*
 
-### 2. Lil Wayne, Karol G, Smashing Pumpkins to Receive Stars on Hollywood Walk of Fame in 2027
+### 3. Lil Wayne, Karol G, Smashing Pumpkins to Receive Stars on Hollywood Walk of Fame in 2027
 
 [原文] David Guetta, Linkin Park, Sia, the Ramones, Grandmaster Flash and posthumously Waylon Jennings also among the artists being honored next year
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/lil-wayne-karol-g-linkin-park-hollywood-walk-of-fame-2027-1235598793/) — *Rolling Stone*
 
-### 3. Lou Koller, Frontman for Sick of It All,  Dead at 59
+### 4. Lou Koller, Frontman for Sick of It All,  Dead at 61
 
 [原文] In June 2024, the singer said that doctors had found a tumor in his esophagus and he would have to undergo treatment
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/sick-of-it-all-lou-koller-dead-obituary-1235598730/) — *Rolling Stone*
 
-### 4. D4vd’s Texts Show He Got Celeste Rivas Hernandez Pregnant at 13, Talked Her Through Abortion: LAPD
+### 5. D4vd’s Texts Show He Got Celeste Rivas Hernandez Pregnant at 13, Talked Her Through Abortion: LAPD
 
 [原文] Messages between the singer and Celeste Rivas Hernandez were shared in court, along with descriptions of child sex abuse material allegedly found on D4vd's phone
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/d4vds-lawyer-medical-examiner-teen-stab-wounds-1235598394/) — *Rolling Stone*
-
-### 5. Billie Joe Armstrong Enlists Iron Maiden’s Bruce Dickinson for Surprise Cover
-
-[原文] Dickinson surprised guests at Fandom's Comic-Con party to cover Mott the Hoople’s “All the Young Dudes”
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/iron-maiden-bruce-dickinson-billie-joe-armstrong-perform-1235598444/) — *Rolling Stone*
 
 ---
 
