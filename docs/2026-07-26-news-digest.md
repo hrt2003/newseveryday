@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月26日** | 生成时间: 2026-07-26 16:31
+**2026年07月26日** | 生成时间: 2026-07-26 21:37
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Watch: At the scene of Berlin Pride attack as manhunt continues
+### 1. What we know so far about the Berlin Pride ramming attack
 
-[原文] A 21-year-old suspect has been identified by police, but he has not been found.
+[原文] A police manhunt is underway after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/videos/c74gzknyyz2o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. France battles fire 'whirlwinds' as another 55,000 evacuated
+### 2. Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say
 
-[原文] More than 340,000 people have now been evacuated from wildfires in France and Spain.
+[原文] The latest attacks come two days after a clash between settlers and Palestinians near the village of Tell, which left four Palestinians and two Israelis dead.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. Firefighters battle wildfire as tens of thousands evacuated near Bordeaux
+
+[原文] More than 330,000 people have now been evacuated from wildfires across France and Spain.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Trump takes swipes at press during White House Correspondents' Dinner
+### 4. Trump takes swipes at press during White House Correspondents' Dinner
 
 [原文] The event celebrated press freedom after the first dinner was cancelled by a shooting in April.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. India's 'cockroach' protest called off after education minister quits
+### 5. India's 'cockroach' protest called off after education minister quits
 
 [原文] The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Iran-backed Houthis claim missile attack on Saudi Arabia
-
-[原文] US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,17 +54,17 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Imax 70 mm screenings become the biggest star for Christopher Nolan’s ‘The Odyssey’
+### 1. Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of 'hostile and criminal act'
 
-[原文] Moviegoers are traveling, lining up and paying premiums to see Christopher Nolan’s ‘The Odyssey’ in scarce Imax 70 mm screenings.
+[原文] The latest attacks by Ukraine, combined with Saudi military strikes on Iran-backed Houthi targets in Yemen, represent a widening of the Middle East conflict.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/25/the-odyssey-imax-70mm-screenings.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/26/ukraine-strikes-iranian-vessels-tehran-accuses-kyiv-of-hostile-act.html) — *CNBC*
 
-### 2. From Silicon Valley to DC, the tech world is suddenly obsessed with one concept in AI: Distillation
+### 2. Logistics giants are racing to keep up with healthcare boom as GLP-1s highlight need for cold storage
 
-[原文] Distillation has long been a topic for AI wonks, but it's become a hot-button issue of late as techies and lawmakers debate how it should be regulated.
+[原文] Shipping and logistics companies are tapping into the growing market of healthcare as cold chain and temperature-controlled facilities become more crucial.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/25/hat-is-distillation-and-why-is-everyone-so-obsessed-with-it-this-week.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/25/ups-fedex-dhl-healthare-logistics-glp.html) — *CNBC*
 
 ### 3. Cocoa prices are easing. So why is chocolate still so expensive?
 
@@ -72,17 +72,17 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/26/cocoa-prices-chocolate-lindt-barry-callebaut-nestle.html) — *CNBC*
 
-### 4. Analysis: A powerful new coalition of AI skeptics is coalescing right in Trump's blind spot
+### 4. 100 days until midterm election: DCCC Chair DelBene says Democrats have the momentum
+
+[原文] Democrats see a path back to the U.S. House majority this November as President Donald Trump's approval dips.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/26/election-midterms-dccc-chair-delbene-democrats.html) — *CNBC*
+
+### 5. Analysis: A powerful new coalition of AI skeptics is coalescing right in Trump's blind spot
 
 [原文] Evangelicals, labor unions and anti-AI-data-center activists are part of a groundswell worrying about how fast technology is changing.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/25/trump-ai-data-center-backlash.html) — *CNBC*
-
-### 5. Trump sued hours after new tariffs take effect, as experts say they may not hold up
-
-[原文] President Donald Trump has renewed a flurry of tariffs, including slapping 25% duties on Brazilian imports and vowing 50% tariffs on goods from Canada.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/24/trump-tariffs-lawsuit-301-ieepa.html) — *CNBC*
 
 ---
 
@@ -130,35 +130,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. A daily fiber supplement reduced knee arthritis pain and improved strength
+### 1. Why losing the wrong fat can trigger diabetes
 
-[原文] A prebiotic fiber supplement reduced knee osteoarthritis pain while also improving grip strength and pain sensitivity in a six-week trial. The results hint at a fascinating gut-muscle-pain connection 
+[原文] Scientists discovered that damaged fat cells can become inflamed, lose their ability to store lipids, and eventually vanish, disrupting the body’s metabolism. The findings show that diabetes can resul
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260724061448.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260726015259.htm) — *Science Daily*
 
-### 2. The Universe can outrun light without breaking Einstein’s rules
+### 2. A hidden Alzheimer’s tipping point may decide who gets dementia
 
-[原文] Cosmic expansion allows distant galaxies to move away faster than light, while still letting us see ancient light they emitted when they were much closer. Eventually, accelerating expansion will push 
+[原文] Scientists have identified a possible tipping point that helps determine whether Alzheimer’s-related brain changes lead to dementia. The key may lie in how the brain’s immune cells respond to plaques 
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260724061444.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260726015257.htm) — *Science Daily*
 
-### 3. Oral GLP-1 drugs may quiet the brain’s food craving circuit
+### 3. Inside the Backrooms: The internet’s creepiest place is becoming a tourist attraction
 
-[原文] Newer oral drugs related to semaglutide medications such as Ozempic reduced pleasure-driven eating in mice by quieting a deep brain reward circuit. The finding could open new avenues for understanding
+[原文] The Backrooms began as a single eerie image of empty yellow rooms, but internet users transformed it into a vast fictional world that feels disturbingly real. Through videos, games, maps, survival gui
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260724061439.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260726015254.htm) — *Science Daily*
 
-### 4. Scientists put the “recycling is a distraction” claim to the test
+### 4. CRISPR makes prostate cancer vulnerable to immunotherapy
 
-[原文] Recycling, greener diets, and other personal climate choices do not seem to distract people from supporting major environmental reforms. A four-year study of nearly 2,800 Australians found that these 
+[原文] Scientists used CRISPR to make prostate cancer cells easier for the immune system to detect and destroy. The experimental treatment dramatically improved the effects of immunotherapy in mice and may o
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260724061437.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260726015250.htm) — *Science Daily*
 
-### 5. A single dose reversed autism-like symptoms in adult mice within hours
+### 5. The best way to save giant sequoias may be more fire
 
-[原文] Even mild inflammation during pregnancy led mouse offspring to develop persistent brain overactivity, sensory sensitivity, repetitive behaviors, and increased seizure risk. Remarkably, one dose of rap
+[原文] Giant sequoias are built to withstand ordinary fires, but recent extreme wildfires killed thousands of trees that had survived for centuries or even millennia. A new analysis of about 26,400 sequoias 
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260724061436.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260726015243.htm) — *Science Daily*
 
 ---
 
@@ -174,29 +174,29 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/articles/cgr7gyv8zq0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Ramsay-Peaty in tears after missing out on gold again
-
-[原文] An emotional Adam Ramsay-Peaty questions how his future looks after missing out on gold at the Commonwealth Games in Glasgow.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/swimming/articles/cz053k47p0ko?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 3. Gomez injury overshadows winning start for Iraola
+### 2. Gomez injury overshadows winning start for Iraola
 
 [原文] Liverpool start life under Andoni Iraola with a 4-2 win over Sunderland thanks to goals from Kieran Morrison, Dominik Szoboszlai, Federico Chiesa and Lewis Koumas.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cm2genrg72do?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Norris cautious despite pole as it 'falls apart' for Hamilton
+### 3. England suffer heavy netball defeat by Australia
 
-[原文] Lando Norris has an opportunity to win his first grand prix of the year in Hungary, but Lewis Hamilton says his positivity is being tested after another penalty.
+[原文] England captain Fran Williams says her team were "far from our best" in a 66-47 defeat by defending Commonwealth champions Australia.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/cm2gd6gd33go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/netball/articles/cdrvg3ypx5yo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Paris awaits as Pogacar poised to join Tour greats with fifth title
+### 4. Highlights - Joshua beats Prenga after early scare
 
-[原文] Tadej Pogacar is set to win a record-equalling fifth Tour de France after Ecuador's Richard Carapaz takes a dramatic stage 20 to Alpe d'Huez.
+[原文] In his comeback fight, Anthony Joshua suffered two early knockdowns but recovered to dramatically stop Kristian Prenga in the second round in Saudi Arabia.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cycling/articles/c1d141dl2qro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/videos/cvgvp7n45e5o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 5. Wilson makes Leeds debut in defeat by Wrexham
+
+[原文] Wales attacking midfielder Harry Wilson makes his first outing for Leeds United as they are beaten 3-2 by Wrexham in the club's opening pre-season game.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cy9wvln2234o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Winston Duke Confirms That Yes, He Really Did Improvise That Iconic Line In Black Panther
+### 1. Kevin Feige Pushes Back at Criticisms That Dr. Doom Hasn't Had Thanos-Level Buildup
+
+[原文] Marvel Studios President Kevin Feige is hitting back at Doomsday critics who feel like Dr. Doom hasn’t had the necessary buildup to crown him the next big bad of the MCU in the way that Thanos was bac
+
+📎 [阅读原文](https://www.ign.com/articles/kevin-feige-pushes-back-at-criticisms-that-dr-doom-hasnt-had-thanos-level-buildup) — *IGN*
+
+### 2. Winston Duke Confirms That Yes, He Really Did Improvise That Iconic Line In Black Panther
 
 [原文] Winston Duke confirmed that one of the funniest lines in Black Panther was one that he made up, completely off the cuff.
 
 📎 [阅读原文](https://www.ign.com/articles/winston-duke-confirms-that-yes-he-really-did-improvise-that-iconic-line-in-black-panther) — *IGN*
 
-### 2. 'I Would Stay at That Haunted Inn' — Widow's Bay Cast and Crew Are Just as Attached to the Island as the Rest of Us | Comic Con 2026
+### 3. 'I Would Stay at That Haunted Inn' — Widow's Bay Cast and Crew Are Just as Attached to the Island as the Rest of Us | Comic Con 2026
 
 [原文] At Apple TV's first ever Hall H panel at San Diego Comic-Con, the cast and crew of Widow's Bay reacted to the show's breakout success.
 
 📎 [阅读原文](https://www.ign.com/articles/i-would-stay-at-that-haunted-inn-widows-bay-apple-tv-panel-hall-h-cast-and-crew-comic-con-2026) — *IGN*
 
-### 3. The 4 Biggest Mysteries From Marvel's Comic-Con Panel | Comic Con 2026
+### 4. The 4 Biggest Mysteries From Marvel's Comic-Con Panel | Comic Con 2026
 
 [原文] How does T'Challa have an adult son? Which Ghost Rider is Ryan Reynolds playing? What's the deal with Deadpool? We break down the biggest questions from Marvel Studios' Comic-Con panel.
 
 📎 [阅读原文](https://www.ign.com/articles/the-4-biggest-mysteries-from-marvels-comic-con-panel-black-panther-deadpool-doomsday) — *IGN*
 
-### 4. Hayley Atwell Explains That Trailer With Steve Rogers Holding a Baby
+### 5. Hayley Atwell Explains That Trailer With Steve Rogers Holding a Baby
 
 [原文] The Marvel star shed a little more light on the trailer that showed Steve Rogers holding a baby, and it only made things more confusing.
 
 📎 [阅读原文](https://www.ign.com/articles/hayley-atwell-explains-that-trailer-with-steve-rogers-holding-a-baby) — *IGN*
-
-### 5. New Avengers: Doomsday Footage and Poster Revealed at San Diego Comic Con
-
-[原文] Marvel has given fans a new look at Avengers: Doomsday with a fresh poster of Victor Von Doom and an extra clip from the movie showing off his evil abilities.
-
-📎 [阅读原文](https://www.ign.com/articles/new-avengers-doomsday-footage-and-poster-revealed-at-san-diego-comic-con) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post Lost in Translation: FT-1 Designer Explains Why Toyota&#8217;s Pr
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. In Michigan, the price of energy is on the ballot and both parties know it
+### 1. Here’s how offshore wind helped New England beat record heat
+
+暂无摘要。
+
+📎 [阅读原文](https://grist.org/energy/heres-how-offshore-wind-helped-new-england-beat-record-heat/) — *Grist*
+
+### 2. In Michigan, the price of energy is on the ballot and both parties know it
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/energy/in-michigan-the-price-of-energy-is-on-the-ballot-and-both-parties-know-it/) — *Grist*
 
-### 2. As climate lawsuits advance, the oil industry enters ‘panic mode’
+### 3. As climate lawsuits advance, the oil industry enters ‘panic mode’
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/accountability/lawsuits-heatwave-wrongful-death-supreme-court/) — *Grist*
 
-### 3. Indigenous leaders give the UN a roadmap for protecting their peoples
+### 4. Indigenous leaders give the UN a roadmap for protecting their peoples
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/global-indigenous-affairs-desk/indigenous-leaders-give-the-un-a-roadmap-for-protecting-their-peoples/) — *Grist*
 
-### 4. The secret to a better grid? Electric vehicles.
+### 5. The secret to a better grid? Electric vehicles.
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/transportation/the-secret-to-a-better-grid-electric-vehicles/) — *Grist*
-
-### 5. How war in Myanmar is driving a deadly rare earth mining boom
-
-暂无摘要。
-
-📎 [阅读原文](https://grist.org/international/myanmar-war-rare-earth-mining-landslide-labor/) — *Grist*
 
 ---
 
@@ -477,35 +477,35 @@ The post Lost in Translation: FT-1 Designer Explains Why Toyota&#8217;s Pr
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Lounges Could Be Next in Southwest’s Overhaul: ‘There’s Work Underway’
+### 1. Everyone in Travel Wants a Fair Ranking…Until They Own One
+
+[原文] Travel search is auctions stacked on auctions: everyone demands fairness from the layer above while selling position to the layer below.
+
+📎 [阅读原文](https://skift.com/2026/07/26/everyone-in-travel-wants-a-fair-rankinguntil-they-own-one/) — *Skift*
+
+### 2. Lounges Could Be Next in Southwest’s Overhaul: ‘There’s Work Underway’
 
 [原文] With the possibility of lounges, Southwest is betting that it can capture more premium customers and boost engagement with its loyalty program.
 
 📎 [阅读原文](https://skift.com/2026/07/24/lounges-could-be-next-in-southwests-overhaul/) — *Skift*
 
-### 2. Wildfire Risk is Increasing. Rising Insurance Costs Are Pushing Hotels to Prepare
+### 3. Wildfire Risk is Increasing. Rising Insurance Costs Are Pushing Hotels to Prepare
 
 [原文] As wildfires grow more frequent and severe, insurers are no longer pricing risk by location alone — they’re underwriting based on how resilient a property is, pushing operators to firm up their hotels
 
 📎 [阅读原文](https://skift.com/2026/07/24/wildfire-risk-is-increasing-rising-insurance-costs-are-pushing-hotels-to-prepare/) — *Skift*
 
-### 3. CitizenM, 1 Year Later: Learning to Love Marriott Audits and New Bonvoy Guests
+### 4. CitizenM, 1 Year Later: Learning to Love Marriott Audits and New Bonvoy Guests
 
 [原文] Selling your brand to a major group and staying on to run the hotels is an unusual move. A year in, the distribution lift is real. Whether Marriott can now grow CitizenM beyond its original backer is 
 
 📎 [阅读原文](https://skift.com/2026/07/24/citizenm-1-year-later-learning-to-love-marriott-audits-and-new-bonvoy-guests/) — *Skift*
 
-### 4. Skift’s Farnborough Cheat Sheet: Key Aircraft Deals Explained
+### 5. Skift’s Farnborough Cheat Sheet: Key Aircraft Deals Explained
 
 [原文] Fewer orders than the hype promised, and most of the big money spent by companies that don't fly a single passenger.
 
 📎 [阅读原文](https://skift.com/2026/07/24/skifts-farnborough-cheat-sheet-key-aircraft-deals-explained/) — *Skift*
-
-### 5. Skift Brings Data + AI Summit to Europe for the First Time
-
-[原文] Nearly every travel company now claims to be deploying AI. Far fewer can show the outcome, and Europe's rules and languages make proof harder to reach than anywhere else. The Skift Data + AI Summit Eu
-
-📎 [阅读原文](https://skift.com/2026/07/24/skift-brings-data-ai-summit-europe-for-the-first-time/) — *Skift*
 
 ---
 
@@ -529,6 +529,7 @@ The post Lost in Translation: FT-1 Designer Explains Why Toyota&#8217;s Pr
 
 - **🚗 汽车**: Autocar
 - **🌱 环境**: Inside Climate News
+- **✈️ 旅游**: Nomadic Matt
 
 ---
 
