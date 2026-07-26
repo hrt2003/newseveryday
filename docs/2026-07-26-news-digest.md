@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月26日** | 生成时间: 2026-07-26 11:21
+**2026年07月26日** | 生成时间: 2026-07-26 16:31
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. More than 300,000 flee wildfires in France and Spain
+### 1. Watch: At the scene of Berlin Pride attack as manhunt continues
 
-[原文] Spain's PM warns of "complex hours" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.
+[原文] A 21-year-old suspect has been identified by police, but he has not been found.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/videos/c74gzknyyz2o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Trump takes swipes at press during White House Correspondents' Dinner
+### 2. France battles fire 'whirlwinds' as another 55,000 evacuated
+
+[原文] More than 340,000 people have now been evacuated from wildfires in France and Spain.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. Trump takes swipes at press during White House Correspondents' Dinner
 
 [原文] The event celebrated press freedom after the first dinner was cancelled by a shooting in April.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. India's 'cockroach' protest called off after education minister quits
+### 4. India's 'cockroach' protest called off after education minister quits
 
 [原文] The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Iran-backed Houthis claim missile attack on Saudi Arabia
+### 5. Iran-backed Houthis claim missile attack on Saudi Arabia
 
 [原文] US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Ten killed in Russian attack on drone exhibition near Kyiv
-
-[原文] The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -66,23 +66,23 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/25/hat-is-distillation-and-why-is-everyone-so-obsessed-with-it-this-week.html) — *CNBC*
 
-### 3. Analysis: A powerful new coalition of AI skeptics is coalescing right in Trump's blind spot
+### 3. Cocoa prices are easing. So why is chocolate still so expensive?
+
+[原文] Chocolate firms look to win shoppers back with premium products and social media trends after poor weather conditions, tariffs, and the Iran war hit sales.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/26/cocoa-prices-chocolate-lindt-barry-callebaut-nestle.html) — *CNBC*
+
+### 4. Analysis: A powerful new coalition of AI skeptics is coalescing right in Trump's blind spot
 
 [原文] Evangelicals, labor unions and anti-AI-data-center activists are part of a groundswell worrying about how fast technology is changing.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/25/trump-ai-data-center-backlash.html) — *CNBC*
 
-### 4. Trump sued hours after new tariffs take effect, as experts say they may not hold up
+### 5. Trump sued hours after new tariffs take effect, as experts say they may not hold up
 
 [原文] President Donald Trump has renewed a flurry of tariffs, including slapping 25% duties on Brazilian imports and vowing 50% tariffs on goods from Canada.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/24/trump-tariffs-lawsuit-301-ieepa.html) — *CNBC*
-
-### 5. Logistics giants are racing to keep up with healthcare boom as GLP-1s highlight need for cold storage
-
-[原文] Shipping and logistics companies are tapping into the growing market of healthcare as cold chain and temperature-controlled facilities become more crucial.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/25/ups-fedex-dhl-healthare-logistics-glp.html) — *CNBC*
 
 ---
 
@@ -168,11 +168,11 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Joshua knocked down twice as dramatic win sets up Fury fight
+### 1. After chaotic return, where does Joshua win leave Fury fight?
 
-[原文] Anthony Joshua suffers two knockdowns before recovering to dramatically stop Kristian Prenga in the second round.
+[原文] Where does Anthony Joshua's chaotic comeback win over Kristian Prenga leave the super-fight with Tyson Fury?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/articles/cgew1lrpgzro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/articles/cgr7gyv8zq0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ### 2. Ramsay-Peaty in tears after missing out on gold again
 
@@ -180,23 +180,23 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/swimming/articles/cz053k47p0ko?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Norris cautious despite pole as it 'falls apart' for Hamilton
+### 3. Gomez injury overshadows winning start for Iraola
+
+[原文] Liverpool start life under Andoni Iraola with a 4-2 win over Sunderland thanks to goals from Kieran Morrison, Dominik Szoboszlai, Federico Chiesa and Lewis Koumas.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cm2genrg72do?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. Norris cautious despite pole as it 'falls apart' for Hamilton
 
 [原文] Lando Norris has an opportunity to win his first grand prix of the year in Hungary, but Lewis Hamilton says his positivity is being tested after another penalty.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/cm2gd6gd33go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Paris awaits as Pogacar poised to join Tour greats with fifth title
+### 5. Paris awaits as Pogacar poised to join Tour greats with fifth title
 
 [原文] Tadej Pogacar is set to win a record-equalling fifth Tour de France after Ecuador's Richard Carapaz takes a dramatic stage 20 to Alpe d'Huez.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/cycling/articles/c1d141dl2qro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Joshua's emotional win over Prenga in pictures
-
-[原文] A pictorial view as Anthony Joshua beats Kristian Prenga in dramatic fashion in Saudi Arabia to tee up a super-fight with Tyson Fury.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/articles/c141x88p30ko?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘Black Panther 3’: David Jonsson to Play T’Challa’s Son as December 2028 Release Date Set
+### 1. PBS SoCal, KMEX Lead L.A. Local Emmy Wins; KVEA, KABC Land Top Newscast Prizes
+
+[原文] PBS SoCal (KOCE and KCET) was the big winner Saturday night at the L.A. Area Emmy Awards, landing eight — including for live events-programming, entertainment, crime/social issues and arts. Univision&
+
+📎 [阅读原文](https://variety.com/2026/tv/news/la-local-emmy-winners-pbs-socal-leads-kvea-kabc-1236821371/) — *Variety*
+
+### 2. Marvel’s Comic-Con Panel Excites Fans for ‘Doomsday’ but Leaves Them Cautiously Optimistic About What’s Beyond
+
+[原文] Diehard Marvel fans packed into San Diego Comic Con&#8217;s massive Hall H Saturday night, some even camping out for more than 30 hours. But as the 40-minute panel wrapped up with just two surprise an
+
+📎 [阅读原文](https://variety.com/2026/film/news/marvel-comic-con-doomsday-ghost-rider-black-panther-1236821335/) — *Variety*
+
+### 3. Winston Duke Trusts David Jonsson to Take On ‘Black Panther’: ‘I Think It’s Going to Be Great’
+
+[原文] Winston Duke is officially returning to Wakanda for “Black Panther 3”, and David Jonsson is coming along with him. Marvel teased the third &#8220;Black Panther&#8221; at San Diego Comic-Con, which rel
+
+📎 [阅读原文](https://variety.com/2026/film/news/winston-duke-david-jonsson-black-panther-3-1236821351/) — *Variety*
+
+### 4. ‘Black Panther 3’: David Jonsson to Play T’Challa’s Son as December 2028 Release Date Set
 
 [原文] Black Panther is back! David Jonsson has been cast as the new Black Panther and is playing T&#8217;Challa&#8217;s son in &#8220;Black Panther 3,&#8221; out Dec. 15, 2028. The film will follow Jonsson&
 
 📎 [阅读原文](https://variety.com/2026/film/news/black-panther-3-december-2028-release-david-jonsson-1236083370/) — *Variety*
 
-### 2. ‘Avengers: Doomsday’ Trailer Rocks Comic-Con: Doctor Doom Raises Army of Sentinels to Take Down Avengers, Fantastic Four and X-Men
+### 5. ‘Avengers: Doomsday’ Trailer Rocks Comic-Con: Doctor Doom Raises Army of Sentinels to Take Down Avengers, Fantastic Four and X-Men
 
 [原文] Marvel Studios chief Kevin Feige surprised San Diego Comic Con attendees with exclusive footage of &#8220;Avengers: Doomsday,&#8221; shown only to lucky fans inside of the convention center&#8217;s ma
 
 📎 [阅读原文](https://variety.com/2026/film/news/avengers-doomsday-new-trailer-comic-con-1236817677/) — *Variety*
-
-### 3. ‘Coyote vs. Acme’ Director and Star Lana Condor on Finally Showing Their Film to the Fans at Comic-Con: ‘The Fight Was For a Good Reason’
-
-[原文] If you went back to November 2023 and told “Coyote vs. Acme” director Dave Green that his Looney Toons legal comedy would make its debut at San Diego Comic-Con, he probably wouldn’t believe it. Of cou
-
-📎 [阅读原文](https://variety.com/2026/film/news/coyote-vs-acme-director-lana-condor-public-screening-fans-comic-con-1236821209/) — *Variety*
-
-### 4. Ryan Gosling to Star in Marvel’s Ghost Rider Movie
-
-[原文] Ryan Gosling is finally joining the Marvel Cinematic Universe. The &#8220;Project Hail Mary&#8221; star will play Ghost Rider in a new standalone movie, Marvel Studios exec Kevin Feige announced onsta
-
-📎 [阅读原文](https://variety.com/2026/film/news/ryan-gosling-ghost-rider-marvel-movie-1236821206/) — *Variety*
-
-### 5. Stephen King’s ‘Carrie’ Series Sets October Release Date, Drops Horrifying New Trailer
-
-[原文] Amazon Prime Video has released a new teaser trailer for “Carrie,” the TV adaptation of Stephen King’s classic horror novel. All eight episodes of the series will debut on Oct. 7. The series is a “bol
-
-📎 [阅读原文](https://variety.com/2026/tv/news/carrie-tv-series-trailer-release-date-mike-flanagan-1236807045/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Black Panther 3 Release Date Confirmed by Marvel | Comic Con 2026
+### 1. Winston Duke Confirms That Yes, He Really Did Improvise That Iconic Line In Black Panther
 
-[原文] Marvel has made Black Panther 3 official, and confirmed it will launch on December 15, 2028.
+[原文] Winston Duke confirmed that one of the funniest lines in Black Panther was one that he made up, completely off the cuff.
 
-📎 [阅读原文](https://www.ign.com/articles/black-panther-3-release-date-confirmed-by-marvel-comic-con-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/winston-duke-confirms-that-yes-he-really-did-improvise-that-iconic-line-in-black-panther) — *IGN*
 
-### 2. Deadpool and Peggy Carter Confirmed for Avengers: Doomsday | Comic Con 2026
+### 2. 'I Would Stay at That Haunted Inn' — Widow's Bay Cast and Crew Are Just as Attached to the Island as the Rest of Us | Comic Con 2026
 
-[原文] Ryan Reynolds and Hayley Atwell will reprise their Marvel roles as Deadpool and Peggy Carter in Avengers: Doomsday, it's been confirmed.
+[原文] At Apple TV's first ever Hall H panel at San Diego Comic-Con, the cast and crew of Widow's Bay reacted to the show's breakout success.
 
-📎 [阅读原文](https://www.ign.com/articles/deadpool-and-peggy-carter-confirmed-for-avengers-doomsday-comic-con-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/i-would-stay-at-that-haunted-inn-widows-bay-apple-tv-panel-hall-h-cast-and-crew-comic-con-2026) — *IGN*
 
-### 3. Marvel Announces Ryan Gosling Ghost Rider Movie | Comic Con 2026
+### 3. The 4 Biggest Mysteries From Marvel's Comic-Con Panel | Comic Con 2026
 
-[原文] Marvel has announced a Ghost Rider movie starring Ryan Gosling, directed by Deadpool & Wolverine's Shawn Levy.
+[原文] How does T'Challa have an adult son? Which Ghost Rider is Ryan Reynolds playing? What's the deal with Deadpool? We break down the biggest questions from Marvel Studios' Comic-Con panel.
 
-📎 [阅读原文](https://www.ign.com/articles/marvel-announces-ryan-gosling-ghost-rider-movie-comic-con-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/the-4-biggest-mysteries-from-marvels-comic-con-panel-black-panther-deadpool-doomsday) — *IGN*
 
-### 4. Yaga Trailer Reveals New Series' Horror and Seductive Side
+### 4. Hayley Atwell Explains That Trailer With Steve Rogers Holding a Baby
 
-暂无摘要。
+[原文] The Marvel star shed a little more light on the trailer that showed Steve Rogers holding a baby, and it only made things more confusing.
 
-📎 [阅读原文](https://www.ign.com/articles/yaga-trailer-reveals-new-series-horror-and-seductive-side) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/hayley-atwell-explains-that-trailer-with-steve-rogers-holding-a-baby) — *IGN*
 
-### 5. Exclusive: Coyote vs. Acme Is Getting a Physical Home Media Release with NSFW John Cena Outtakes | Comic Con 2026
+### 5. New Avengers: Doomsday Footage and Poster Revealed at San Diego Comic Con
 
-[原文] Coyote vs. Acme director Dave Green confirmed to IGN that the film is coming to Blu-ray, along with some hilarious outtakes that he described as “not PG-rated.”
+[原文] Marvel has given fans a new look at Avengers: Doomsday with a fresh poster of Victor Von Doom and an extra clip from the movie showing off his evil abilities.
 
-📎 [阅读原文](https://www.ign.com/articles/exclusive-coyote-vs-acme-is-getting-a-physical-home-media-release-with-nsfw-john-cena-outtakes-comic-con-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/new-avengers-doomsday-footage-and-poster-revealed-at-san-diego-comic-con) — *IGN*
 
 ---
 
