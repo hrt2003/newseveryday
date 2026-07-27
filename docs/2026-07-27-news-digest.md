@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月27日** | 生成时间: 2026-07-27 11:31
+**2026年07月27日** | 生成时间: 2026-07-27 17:57
 
 ---
 
@@ -16,29 +16,29 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Firefighters battle wildfire as tens of thousands evacuated near Bordeaux
+### 1. Three dead and several injured in shooting at food festival near Seattle's Space Needle
 
-[原文] More than 330,000 people have now been evacuated from wildfires across France and Spain.
+[原文] Several others, including a two-year-old boy, were also injured. Seattle Mayor Katie Wilson says a suspect is in custody.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat
-
-[原文] Mamdani walked back his threat last week, acknowledging he lacked the legal power to arrest Netanyahu on a warrant issued by the International Criminal Court.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 3. Berlin Pride attack suspect shot and killed during police operation
+### 2. Berlin Pride attack suspect shot and killed during police operation
 
 [原文] Police say Abdul Ballout was shot and killed after he rushed at officers with a knife in a western borough of Berlin.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. What we know so far about the Berlin Pride ramming attack
+### 3. Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat
 
-[原文] German Chancellor Friedrich Merz condemns the attack as "heinous" after a suspect drove a car into a crowd near the Tiergarten park.
+[原文] Mamdani walked back his threat last week, acknowledging he lacked the legal power to arrest Netanyahu on a warrant issued by the International Criminal Court.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. UK PM pledges continued support for Ukraine ahead of Zelensky visit
+
+[原文] The Ukrainian president will be Andy Burnham's first international visitor since taking office.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 5. Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Oil slides 5% as Iran reportedly signals halt to attacks if U.S. pause holds
+### 1. U.S. and Iran pause fighting to give peace talks 'space.' Here's where negotiations stand
 
-[原文] Oil prices fell after Iran reportedly said it would suspend attacks as long as a U.S. pause in hostilities remains in place.
+[原文] A temporary pause to the U.S.-Iran conflict appeared to hold on Monday, after negotiations over a lasting peace faced fresh hurdles over the weekend.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/27/oil-price-wti-brent-slide-as-iran-reportedly-may-halt-attacks.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/27/us-iran-war-trump-hormuz.html) — *CNBC*
 
-### 2. China memory chipmaker CXMT skyrockets 500% in blockbuster Shanghai debut
+### 2. Why Trump's new tariff blitz is very different this time round
+
+[原文] President Trump on Friday launched a fresh round of tariffs targeting 60 trading partners, including the European Union, China, and the U.K.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/27/donald-trump-tariffs-trade-war-iran.html) — *CNBC*
+
+### 3. Chipmaker CXMT’s 466% market debut surge makes it the most valuable China-listed company
 
 [原文] The Hefei-based company raised 57.92 billion yuan ($8.6 billion) after pricing its IPO at 8.66 yuan per share.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/27/cxmt-china-market-debut-chipmaker-ipo.html) — *CNBC*
 
-### 3. Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of 'hostile and criminal act'
+### 4. Spain and France wildfires force more than 300,000 to flee as Macron calls crisis meeting
 
-[原文] The latest attacks by Ukraine, combined with Saudi military strikes on Iran-backed Houthi targets in Yemen, represent a widening of the Middle East conflict.
+[原文] The impact of a gigantic wildfire ravaging France's Bordeaux region and Spain has been like a "clap of thunder" for the local economy, a minister said.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/26/ukraine-strikes-iranian-vessels-tehran-accuses-kyiv-of-hostile-act.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/27/wildfires-spain-france-bordeaux-heatwave.html) — *CNBC*
 
-### 4. China industrial profit growth slows again in June as retreating oil prices sap earnings lift
+### 5. New UK Prime Minister Burnham says he would be prepared to call out Trump
 
-[原文] Corporate earnings have staged one of the strongest turnarounds in the economy this year, swinging from barely positive growth in 2025 to double-digit gains.
+[原文] Burnham said he had a phone conversation with Trump on Monday when he officially took on the role, describing it as "a good exchange".
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/27/china-industrial-profit-growth-exports-oil-drops.html) — *CNBC*
-
-### 5. How AI wealth could be distributed to all Americans
-
-[原文] AI riches are already concentrated among a handful of powerful companies, but there are plenty of new, some radical, ideas about how to spread the wealth.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/26/how-can-ai-wealth-be-shared-with-all-americans.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/26/new-uk-prime-minister-burnham-says-he-would-be-prepared-to-call-out-trump.html) — *CNBC*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Littler wins Matchplay and smashes Taylor record
+### 1. Meditate, pray or watch football instead of spreading hate - Infantino
 
-[原文] Luke Littler sets a new record for the tournament average and final average in a World Matchplay as he defends his title in Blackpool by beating Gerwyn Price 18-9.
+[原文] Fifa president Gianni Infantino tells critics to "meditate, pray or watch a football match" instead of "spreading hate and false rumours" about him and the World Cup.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/darts/articles/cwym032rlkvo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cz0515973gpo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Norris and McLaren almost perfect as Ferrari flounder in Hungary
+### 2. Diomande agrees Real Madrid terms as PSG step away
+
+[原文] RB Leipzig winger Yan Diomande agrees personal terms with Real Madrid after Paris St-Germain withdraw their interest.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cqx74lpprd7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. Record Spurs spend shows new ambition - Van de Ven
+
+[原文] Micky van de Ven says Tottenham's record spending highlights a "new ambition" after an "unacceptable" season.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c4gw34l26xzo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. Norris and McLaren almost perfect as Ferrari flounder in Hungary
 
 [原文] Lando Norris' first grand prix win of 2026 was a long time coming as the mistakes piled up for Ferrari in Hungary, writes Andrew Benson.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/cz7d9p3yplno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Pogacar wins fifth Tour title amid Paris finish drama
+### 5. Littler wins Matchplay and smashes Taylor record
 
-[原文] Slovenian Tadej Pogacar wins the Tour de France for a record-equalling fifth time.
+[原文] Luke Littler sets a new record for the tournament average and final average in a World Matchplay as he defends his title in Blackpool by beating Gerwyn Price 18-9.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cycling/articles/c07r8d4d2z5o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. Evans steps out of shadows into spotlight with Scotland's fourth gold
-
-[原文] Angharad Evans was overlooked before these Commonwealth Games. But now the Scotland swimmer is a gold medallist.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/swimming/articles/cn9n17vy25wo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Chiesa happy but wants new chapter at Liverpool
-
-[原文] Liverpool forward Federico Chiesa says he is "happy" at the club amid speculation over his future.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c70gzrx034ro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/darts/articles/cwym032rlkvo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘House of the Dragon’ Actor Benjamin Evan Ainsworth on ‘Absurdity’ of Assassination Attempt, Daeron’s Growing Power and if Ormund Is Dyeing the Kid’s Hair
+### 1. ‘The Legend of Kitchen Soldier,’ ‘Yumi’s Cells’ Lead Prime Video India’s Slate of 100-Plus New CJ ENM Titles
 
-[原文] SPOILER ALERT:&#160;This article contains spoilers for Season 3, Episode 3 of “House of the Dragon,” now streaming on HBO Max. Daeron Targaryen (Benjamin Evan Ainsworth) is growing up: On this week&#8
+[原文] Prime Video India and Korean powerhouse CJ ENM have signed a multi-year distribution deal that will add more than 100 Korean titles to the streamer&#8217;s Indian lineup over the next two years. The a
 
-📎 [阅读原文](https://variety.com/2026/tv/features/house-of-the-dragon-daeron-assassination-attempt-ormund-1236820311/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/prime-video-india-cj-enm-korean-titles-deal-1236821665/) — *Variety*
 
-### 2. Kevin Feige Says Ryan Coogler Met With David Jonsson Six Months Ago in a ‘Secret Meeting’ to Discuss ‘Black Panther 3’ Role: ‘I Got Chills’
+### 2. Bill Oddie, Wildlife Presenter and Comedian, Dies at 85
 
-[原文] Marvel boss Kevin Feige recently told Empire how David Jonsson was cast as the next Black Panther. He explained that “The Long Walk” star met with “Black Panther” director Ryan Coogler in a “secret me
+[原文] Bill Oddie, the English comedian and conservationist known for hosting wildlife programs including BBC&#8217;s &#8220;Springwatch,&#8221; has died. He was 85. Oddie&#8217;s agent, David Foster, confir
 
-📎 [阅读原文](https://variety.com/2026/film/news/kevin-feige-ryan-coogler-david-jonsson-black-panther-3-1236821563/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/global/bill-oddie-dead-wildlife-presenter-comedian-1236821660/) — *Variety*
 
-### 3. Gracie Abrams Scores First No. 1 on Albums Chart With ‘Daughter From Hell’
+### 3. Benedict Cumberbatch, Alan Cumming and Benedict Wong Urge U.K. Government to Block Paramount-Warner Bros. Merger in Op-Ed: ‘It Threatens to Inflict Immense Harm’
 
-[原文] Gracie Abrams has earned her first No 1 on the Billboard 200 with her third album &#8220;Daughter From Hell,&#8221; bowing atop the chart with 124,000 equivalent album units. The singer-songwriter ann
+[原文] Benedict Cumberbatch, Alan Cumming and Benedict Wong have urged the U.K. government to intervene in the proposed Paramount-Warner Bros merger, saying it “threatens to inflict immense harm on the Briti
 
-📎 [阅读原文](https://variety.com/2026/music/news/gracie-abrams-scores-first-no-1-daughter-from-hell-1236821550/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/biz/global/benedict-cumberbatch-paramount-warner-bros-merger-1236821639/) — *Variety*
 
-### 4. Tom Holland: Some of My Movies Are ‘S–t’ and You ‘Shouldn’t’ Watch Them
+### 4. Dylan Mulvaney Fires Back After Trump Mocks Her and Kaitlan Collins in White House Correspondents’ Dinner Speech: ‘Actually the Greatest Compliment of All’
 
-[原文] Tom Holland is having a great time doing the press circuit for both “The Odyssey” and “Spider-Man: Brand New Day” because he’s fond of the movies. That hasn’t always been the case. On the July 22 epis
+[原文] Dylan Mulvaney has hit back at U.S. President Donald Trump after he mocked the trans advocate, actress and singer in his White House Correspondents&#8217; Dinner speech on Friday. &#8220;My name is Dy
 
-📎 [阅读原文](https://variety.com/2026/film/news/tom-holland-some-movies-shit-shouldnt-watch-1236821438/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/digital/news/dylan-mulvaney-responds-trump-mocks-whcd-speech-1236821637/) — *Variety*
 
-### 5. ‘Attack on Paradise’ Review: Under Siege From Both Criminals and Cops, a Hero Battles Upward in a Zesty High-Rise Actioner
+### 5. Korea Box Office: Na Hong-Jin’s ‘Hope’ Holds Firm at No. 1 as Market Slows
 
-[原文] Saïd Boumazoughe gets a “created by” credit just below director Bob Colaers at the end of “Attack on Paradise,” amplifying the fact that this project is very much the Belgian-Moroccan star’s realized 
+[原文] Science-fiction thriller &#8220;Hope&#8221; maintained its powerful grip on the top spot at the South Korean box office during the weekend of Jul. 24–26. According to data from KOBIS, the tracking ser
 
-📎 [阅读原文](https://variety.com/2026/film/reviews/attack-on-paradise-review-1236821505/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/box-office/korea-box-office-na-hong-jin-hope-holds-no-1-1236821621/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Marvel Reveals First Clip of Sadie Sink in Spider-Man: Brand New Day, But Fans Aren't Sure What She's Trying to Say in It
+### 1. Rick and Morty Season 9 Finale Review & Recap: "Field of Dreams"
+
+[原文] Rick and Morty closes out Season 9 with a real winner of an episode, as Morty explores the multiverse and finds only misery in "Field of Dreams." Read our full review.
+
+📎 [阅读原文](https://www.ign.com/articles/rick-and-morty-season-9-finale-review-recap-field-of-dreams) — *IGN*
+
+### 2. The Best GTA Missions
+
+[原文] From wild heists and nostalgic drug deals to jetpack joyrides and beyond, these are the very best GTA missions of all time.
+
+📎 [阅读原文](https://www.ign.com/articles/best-gta-missions) — *IGN*
+
+### 3. House of the Dragon Just Gave a Major Character the Send-Off They Bitterly Deserved
+
+[原文] House of the Dragon: Season 3, Episode 6 started things off with a bang by killing one of the series' major characters in a manner faithful to the book Fire & Blood. Not that we're sorry to see them g
+
+📎 [阅读原文](https://www.ign.com/articles/house-of-the-dragon-just-gave-a-major-character-the-send-off-they-bitterly-deserved) — *IGN*
+
+### 4. House of the Dragon Season 3, Episode 6 Recap and Review
+
+[原文] At the three-quarter mark, this season of House of the Dragon is easily the best in the show’s history. It’s nuanced and complex, but doesn’t feel like it’s being artificially complicated all the time
+
+📎 [阅读原文](https://www.ign.com/articles/house-of-the-dragon-season-3-episode-6-recap-and-review) — *IGN*
+
+### 5. Marvel Reveals First Clip of Sadie Sink in Spider-Man: Brand New Day, But Fans Aren't Sure What She's Trying to Say in It
 
 [原文] Marvel has revealed a very, very short clip featuring Sadie Sink in Spider-Man: Brand New Day, and fans are doing their best to piece together what her mystery character is saying in it.
 
 📎 [阅读原文](https://www.ign.com/articles/marvel-reveals-first-clip-of-sadie-sink-in-spider-man-brand-new-day-but-fans-arent-sure-what-shes-trying-to-say-in-it) — *IGN*
-
-### 2. Preorders Are Live for Hasbro’s The Legend of Zelda Figures – Here’s Where You Can Grab Them
-
-[原文] Hasbro's The Legend of Zelda figures of Link, Zelda, and Ganondorf are now available to preorder from select retailers. With a release date of May 1 next year, we've broken down where they're availabl
-
-📎 [阅读原文](https://www.ign.com/articles/preorder-hasbro-the-legend-of-zelda-figures) — *IGN*
-
-### 3. Magic: The Gathering's Top 12 Most Powerful Commander Precons Of All Time
-
-[原文] Looking for Magic's most powerful boxed precon decks for Commander? Here's our top 12, including Universes Beyond.
-
-📎 [阅读原文](https://www.ign.com/articles/magic-the-gatherings-top-12-most-powerful-commander-precons-of-all-time) — *IGN*
-
-### 4. The Odyssey Box Office Drops Just 19% as Its Second Weekend in Theaters Brings Another $215 Million Globally
-
-[原文] Director Christoper Nolan's The Odyssey has managed to track down another $215.3 million at the global box office, dropping only 19% in its second weekend in theaters.
-
-📎 [阅读原文](https://www.ign.com/articles/the-odyssey-box-office-drops-just-19-as-its-second-weekend-in-theaters-brings-another-215-million-globally) — *IGN*
-
-### 5. These Incredible Avengers: Doomsday Figures Give Us a Better Look at the Film's X-Men Costumes | Comic Con 2026
-
-[原文] Hot Toys' Avengers: Doomsday figures have been revealed, giving us a much better look at key X-Men characters like Ian McKellen's Magneto and Channing Tatum's Gambit.
-
-📎 [阅读原文](https://www.ign.com/articles/these-incredible-avengers-doomsday-figures-give-us-a-better-look-at-the-films-x-men-costumes-comic-con-2026) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post Somebody Should Really Give Ayrton Senna&#8217;s NSX a Good, Long-Term 
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Here’s how offshore wind helped New England beat record heat
+### 1. ‘Climate hushing’ has swept the Democratic Party. New polling suggests it’s a mistake.
+
+暂无摘要。
+
+📎 [阅读原文](https://grist.org/politics/climate-hushing-democrats-polling-primaries-voters/) — *Grist*
+
+### 2. Here’s how offshore wind helped New England beat record heat
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/energy/heres-how-offshore-wind-helped-new-england-beat-record-heat/) — *Grist*
 
-### 2. In Michigan, the price of energy is on the ballot and both parties know it
+### 3. In Michigan, the price of energy is on the ballot and both parties know it
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/energy/in-michigan-the-price-of-energy-is-on-the-ballot-and-both-parties-know-it/) — *Grist*
 
-### 3. As climate lawsuits advance, the oil industry enters ‘panic mode’
+### 4. As climate lawsuits advance, the oil industry enters ‘panic mode’
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/accountability/lawsuits-heatwave-wrongful-death-supreme-court/) — *Grist*
 
-### 4. Indigenous leaders give the UN a roadmap for protecting their peoples
+### 5. Indigenous leaders give the UN a roadmap for protecting their peoples
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/global-indigenous-affairs-desk/indigenous-leaders-give-the-un-a-roadmap-for-protecting-their-peoples/) — *Grist*
-
-### 5. The secret to a better grid? Electric vehicles.
-
-暂无摘要。
-
-📎 [阅读原文](https://grist.org/transportation/the-secret-to-a-better-grid-electric-vehicles/) — *Grist*
 
 ---
 
@@ -439,35 +439,35 @@ The post Somebody Should Really Give Ayrton Senna&#8217;s NSX a Good, Long-Term 
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Gracie Abrams Earns First-Ever Number One Album With ‘Daughter from Hell’
+### 1. Charli XCX ‘Begrudgingly’ Shares ‘Music, Fashion, Film (B-Sides Edition)’ on Streaming
+
+[原文] The singer's highly-anticipated follow-up to Brat arrived last week
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/charli-xcx-music-fashion-film-b-sides-edition-streaming-1235598976/) — *Rolling Stone*
+
+### 2. Gracie Abrams Earns First-Ever Number One Album With ‘Daughter from Hell’
 
 [原文] The album debuted atop the Billboard 200 with 124,000 equivalent album sales
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/gracie-abrams-first-number-one-album-daughter-from-hell-1235596858/) — *Rolling Stone*
 
-### 2. Watch Oliver Tree’s ‘Celebration of Life’ Memorial Service
+### 3. Watch Oliver Tree’s ‘Celebration of Life’ Memorial Service
 
 [原文] Diplo, Logan Paul, the late singer's parents and more remember Tree's legacy at Santa Cruz memorial
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/oliver-tree-celebration-of-life-memorial-service-watch-1235598939/) — *Rolling Stone*
 
-### 3. Kacey Musgraves Strikes Three Shows Off of Her Middle of Nowhere Tour
+### 4. Kacey Musgraves Strikes Three Shows Off of Her Middle of Nowhere Tour
 
 [原文] Gigs in Chicago (the tour's opening night show), Boston, and Brooklyn removed from schedule after they were added to itinerary due to initial demand
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/kacey-musgraves-cancels-three-shows-middle-of-nowhere-tour-1235598902/) — *Rolling Stone*
 
-### 4. Katy Perry ‘Deeply Appalled’ After White House Uses ‘Firework’ in Military Strikes TikTok Video
+### 5. Katy Perry ‘Deeply Appalled’ After White House Uses ‘Firework’ in Military Strikes TikTok Video
 
 [原文] "My music is for bringing people together, not celebrating warfare," singer wrote Saturday in response to post
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/katy-perry-white-house-firework-military-strikes-tiktok-1235598831/) — *Rolling Stone*
-
-### 5. Bon Iver’s Justin Vernon Performs Entire Set of Bob Dylan Covers at Eaux Claires Fest
-
-[原文] Singer also plays surprise set at his curated Wisconsin festival, Vernon's first full set of Bon Iver music in nearly three years
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/bon-iver-justin-vernon-bob-dylan-covers-set-eaux-claires-1235598818/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post Somebody Should Really Give Ayrton Senna&#8217;s NSX a Good, Long-Term 
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. United Chased Delta and American. Now Airline M&A Has Stalled
+### 1. China’s $770 Million Crackdown on Trip.com Is Really About Platform Power
+
+[原文] China's latest antitrust ruling puts new scrutiny on how online travel platforms use exclusivity, pricing, and traffic allocation to maintain their edge.
+
+📎 [阅读原文](https://skift.com/2026/07/27/chinas-770-million-crackdown-on-trip-com-is-really-about-platform-power/) — *Skift*
+
+### 2. United Chased Delta and American. Now Airline M&A Has Stalled
 
 [原文] The proposed merger represents United CEO Scott Kirby’s high appetite for ambitious and large deals.
 
 📎 [阅读原文](https://skift.com/2026/07/26/united-chased-delta-and-american-now-airline-m-and-a-has-stalled/) — *Skift*
 
-### 2. Everyone in Travel Wants a Fair Ranking…Until They Own One
+### 3. Everyone in Travel Wants a Fair Ranking…Until They Own One
 
 [原文] Travel search is auctions stacked on auctions: everyone demands fairness from the layer above while selling position to the layer below.
 
 📎 [阅读原文](https://skift.com/2026/07/26/everyone-in-travel-wants-a-fair-rankinguntil-they-own-one/) — *Skift*
 
-### 3. Lounges Could Be Next in Southwest’s Overhaul: ‘There’s Work Underway’
+### 4. Lounges Could Be Next in Southwest’s Overhaul: ‘There’s Work Underway’
 
 [原文] With the possibility of lounges, Southwest is betting that it can capture more premium customers and boost engagement with its loyalty program.
 
 📎 [阅读原文](https://skift.com/2026/07/24/lounges-could-be-next-in-southwests-overhaul/) — *Skift*
 
-### 4. Wildfire Risk is Increasing. Rising Insurance Costs Are Pushing Hotels to Prepare
+### 5. Wildfire Risk is Increasing. Rising Insurance Costs Are Pushing Hotels to Prepare
 
 [原文] As wildfires grow more frequent and severe, insurers are no longer pricing risk by location alone — they’re underwriting based on how resilient a property is, pushing operators to firm up their hotels
 
 📎 [阅读原文](https://skift.com/2026/07/24/wildfire-risk-is-increasing-rising-insurance-costs-are-pushing-hotels-to-prepare/) — *Skift*
-
-### 5. CitizenM, 1 Year Later: Learning to Love Marriott Audits and New Bonvoy Guests
-
-[原文] Selling your brand to a major group and staying on to run the hotels is an unusual move. A year in, the distribution lift is real. Whether Marriott can now grow CitizenM beyond its original backer is 
-
-📎 [阅读原文](https://skift.com/2026/07/24/citizenm-1-year-later-learning-to-love-marriott-audits-and-new-bonvoy-guests/) — *Skift*
 
 ---
 
