@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月27日** | 生成时间: 2026-07-27 03:17
+**2026年07月27日** | 生成时间: 2026-07-27 11:31
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. What we know so far about the Berlin Pride ramming attack
-
-[原文] A police manhunt is under way after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 2. Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say
-
-[原文] The latest attacks come two days after a clash between settlers and Palestinians near the village of Tell, which left four Palestinians and two Israelis dead.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 3. Firefighters battle wildfire as tens of thousands evacuated near Bordeaux
+### 1. Firefighters battle wildfire as tens of thousands evacuated near Bordeaux
 
 [原文] More than 330,000 people have now been evacuated from wildfires across France and Spain.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Trump takes swipes at press during White House Correspondents' Dinner
+### 2. Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat
 
-[原文] The event celebrated press freedom after the first dinner was cancelled by a shooting in April.
+[原文] Mamdani walked back his threat last week, acknowledging he lacked the legal power to arrest Netanyahu on a warrant issued by the International Criminal Court.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. India's 'cockroach' protest called off after education minister quits
+### 3. Berlin Pride attack suspect shot and killed during police operation
 
-[原文] The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.
+[原文] Police say Abdul Ballout was shot and killed after he rushed at officers with a knife in a western borough of Berlin.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. What we know so far about the Berlin Pride ramming attack
+
+[原文] German Chancellor Friedrich Merz condemns the attack as "heinous" after a suspect drove a car into a crowd near the Tiergarten park.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say
+
+[原文] The latest attacks come two days after a clash between settlers and Palestinians near the village of Tal, which left four Palestinians and two Israelis dead.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of 'hostile and criminal act'
+### 1. Oil slides 5% as Iran reportedly signals halt to attacks if U.S. pause holds
+
+[原文] Oil prices fell after Iran reportedly said it would suspend attacks as long as a U.S. pause in hostilities remains in place.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/27/oil-price-wti-brent-slide-as-iran-reportedly-may-halt-attacks.html) — *CNBC*
+
+### 2. China memory chipmaker CXMT skyrockets 500% in blockbuster Shanghai debut
+
+[原文] The Hefei-based company raised 57.92 billion yuan ($8.6 billion) after pricing its IPO at 8.66 yuan per share.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/27/cxmt-china-market-debut-chipmaker-ipo.html) — *CNBC*
+
+### 3. Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of 'hostile and criminal act'
 
 [原文] The latest attacks by Ukraine, combined with Saudi military strikes on Iran-backed Houthi targets in Yemen, represent a widening of the Middle East conflict.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/26/ukraine-strikes-iranian-vessels-tehran-accuses-kyiv-of-hostile-act.html) — *CNBC*
 
-### 2. Inside the S&P 500 AI boom, industrials are getting as rich as tech stocks
+### 4. China industrial profit growth slows again in June as retreating oil prices sap earnings lift
 
-[原文] The industrials sector of the stock market is benefitting from the AI infrastructure boom with its P/E ratio up close to tech levels and investor flows strong.
+[原文] Corporate earnings have staged one of the strongest turnarounds in the economy this year, swinging from barely positive growth in 2025 to double-digit gains.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/26/best-ai-stocks-market-sp500.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/27/china-industrial-profit-growth-exports-oil-drops.html) — *CNBC*
 
-### 3. How AI wealth could be distributed to all Americans
+### 5. How AI wealth could be distributed to all Americans
 
 [原文] AI riches are already concentrated among a handful of powerful companies, but there are plenty of new, some radical, ideas about how to spread the wealth.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/26/how-can-ai-wealth-be-shared-with-all-americans.html) — *CNBC*
-
-### 4. 100 days until midterm election: DCCC Chair DelBene says Democrats have the momentum
-
-[原文] Democrats see a path back to the U.S. House majority this November as President Donald Trump's approval dips.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/26/election-midterms-dccc-chair-delbene-democrats.html) — *CNBC*
-
-### 5. Top Wall Street analysts back these 3 stocks for their long-term growth potential
-
-[原文] Investors with a long-term horizon should look beyond the ongoing noise and focus on stocks that are well-positioned to generate strong returns.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/26/top-analysts-back-these-3-stocks-for-their-long-term-growth-potential.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Inside one London founder house rewriting the founder-house rules
+### 1. Are brain waves the next unlock for physical AI?
+
+[原文] Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/) — *TechCrunch*
+
+### 2. Can Apple make smart glasses that aren’t a constant privacy threat?
+
+[原文] As Apple prepares to launch its first smart glasses, the company may also be wrestling with how to address consumer privacy concerns.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/) — *TechCrunch*
+
+### 3. Making sense of the panic over Chinese AI
+
+[原文] On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/) — *TechCrunch*
+
+### 4. Inside one London founder house rewriting the founder-house rules
 
 [原文] How one founder house is betting work-life balance can beat burnout .
 
 📎 [阅读原文](https://techcrunch.com/2026/07/26/inside-one-london-founder-house-rewriting-the-founder-house-rules/) — *TechCrunch*
 
-### 2. Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack
+### 5. Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack
 
 [原文] "The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!"
 
 📎 [阅读原文](https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/) — *TechCrunch*
-
-### 3. TechCrunch Mobility: Uber bets on its former CEO
-
-[原文] Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/26/techcrunch-mobility-uber-bets-on-its-former-ceo/) — *TechCrunch*
-
-### 4. Monday.com is the latest tech company to blame AI for layoffs — here are 20 others
-
-[原文] A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/) — *TechCrunch*
-
-### 5. Warner Bros. lawsuit accuses Amazon of illegally poaching executives
-
-[原文] The lawsuit will likely renew debates about whether term employment agreements are enforceable under California. law
-
-📎 [阅读原文](https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Norris wins his first grand prix of year in Hungary
+### 1. Littler wins Matchplay and smashes Taylor record
 
-[原文] Lando Norris takes his and McLaren's first victory of the year in a compelling Hungarian Grand Prix.
+[原文] Luke Littler sets a new record for the tournament average and final average in a World Matchplay as he defends his title in Blackpool by beating Gerwyn Price 18-9.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/cm2gnkyl8j1o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/darts/articles/cwym032rlkvo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Chiesa happy but wants new chapter at Liverpool
+### 2. Norris and McLaren almost perfect as Ferrari flounder in Hungary
+
+[原文] Lando Norris' first grand prix win of 2026 was a long time coming as the mistakes piled up for Ferrari in Hungary, writes Andrew Benson.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/cz7d9p3yplno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. Pogacar wins fifth Tour title amid Paris finish drama
+
+[原文] Slovenian Tadej Pogacar wins the Tour de France for a record-equalling fifth time.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/cycling/articles/c07r8d4d2z5o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. Evans steps out of shadows into spotlight with Scotland's fourth gold
+
+[原文] Angharad Evans was overlooked before these Commonwealth Games. But now the Scotland swimmer is a gold medallist.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/swimming/articles/cn9n17vy25wo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 5. Chiesa happy but wants new chapter at Liverpool
 
 [原文] Liverpool forward Federico Chiesa says he is "happy" at the club amid speculation over his future.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c70gzrx034ro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 3. Mayo beat Kerry in thriller to end 75-year All-Ireland wait
-
-[原文] Mayo end a 75-year wait for the county's fourth All-Ireland Senior Football title with a 1-20 to 1-17 victory over Kerry in a captivating and intense final that went down to the wire at a raucous Crok
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/articles/c70gzrpky87o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. Complete weekend for Norris but poor result for Sainz - driver ratings
-
-[原文] BBC Radio 5 Live F1 commentator Harry Benjamin rates how the drivers performed during the Hungarian Grand Prix.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/c74yr33vvy1o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Greaves wins Women's Matchplay in last-leg decider
-
-[原文] Beau Greaves wins the Women's World Matchplay for the third time after coming through a thrilling last-leg decider to beat Fallon Sherrock.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/darts/articles/cy9wvxqqj40o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Tom Holland: Some of My Movies Are ‘S–t’ and You ‘Shouldn’t’ Watch Them
+### 1. ‘House of the Dragon’ Actor Benjamin Evan Ainsworth on ‘Absurdity’ of Assassination Attempt, Daeron’s Growing Power and if Ormund Is Dyeing the Kid’s Hair
+
+[原文] SPOILER ALERT:&#160;This article contains spoilers for Season 3, Episode 3 of “House of the Dragon,” now streaming on HBO Max. Daeron Targaryen (Benjamin Evan Ainsworth) is growing up: On this week&#8
+
+📎 [阅读原文](https://variety.com/2026/tv/features/house-of-the-dragon-daeron-assassination-attempt-ormund-1236820311/) — *Variety*
+
+### 2. Kevin Feige Says Ryan Coogler Met With David Jonsson Six Months Ago in a ‘Secret Meeting’ to Discuss ‘Black Panther 3’ Role: ‘I Got Chills’
+
+[原文] Marvel boss Kevin Feige recently told Empire how David Jonsson was cast as the next Black Panther. He explained that “The Long Walk” star met with “Black Panther” director Ryan Coogler in a “secret me
+
+📎 [阅读原文](https://variety.com/2026/film/news/kevin-feige-ryan-coogler-david-jonsson-black-panther-3-1236821563/) — *Variety*
+
+### 3. Gracie Abrams Scores First No. 1 on Albums Chart With ‘Daughter From Hell’
+
+[原文] Gracie Abrams has earned her first No 1 on the Billboard 200 with her third album &#8220;Daughter From Hell,&#8221; bowing atop the chart with 124,000 equivalent album units. The singer-songwriter ann
+
+📎 [阅读原文](https://variety.com/2026/music/news/gracie-abrams-scores-first-no-1-daughter-from-hell-1236821550/) — *Variety*
+
+### 4. Tom Holland: Some of My Movies Are ‘S–t’ and You ‘Shouldn’t’ Watch Them
 
 [原文] Tom Holland is having a great time doing the press circuit for both “The Odyssey” and “Spider-Man: Brand New Day” because he’s fond of the movies. That hasn’t always been the case. On the July 22 epis
 
 📎 [阅读原文](https://variety.com/2026/film/news/tom-holland-some-movies-shit-shouldnt-watch-1236821438/) — *Variety*
 
-### 2. ‘Attack on Paradise’ Review: Under Siege From Both Criminals and Cops, a Hero Battles Upward in a Zesty High-Rise Actioner
+### 5. ‘Attack on Paradise’ Review: Under Siege From Both Criminals and Cops, a Hero Battles Upward in a Zesty High-Rise Actioner
 
 [原文] Saïd Boumazoughe gets a “created by” credit just below director Bob Colaers at the end of “Attack on Paradise,” amplifying the fact that this project is very much the Belgian-Moroccan star’s realized 
 
 📎 [阅读原文](https://variety.com/2026/film/reviews/attack-on-paradise-review-1236821505/) — *Variety*
-
-### 3. Gay Romance Podcast ‘Drive Thru Magic’ Casts Daniel J. Kim and Danielle Kennedy, Sets September Release Date (EXCLUSIVE)
-
-[原文] Daniel J. Kim (“Cobra Kai”) and Danielle Kennedy (“The ’Burbs”) have joined the cast of&#160;“Drive Thru Magic,” the upcoming scripted fiction podcast from actor, writer and director&#160;Briggon&#160
-
-📎 [阅读原文](https://variety.com/2026/digital/columns/gay-romance-podcast-drive-thru-magic-daniel-j-kim-1236821490/) — *Variety*
-
-### 4. ‘No Rest for the Wicked’ Review: A Supernatural Gay Love Story in a 19th-Century Backwater
-
-[原文] The yearning separations of seafaring life have generated many a romantic ghost story, and while it largely takes place on terra firma, the Danish “No Rest for the Wicked” provides an honorable additi
-
-📎 [阅读原文](https://variety.com/2026/film/reviews/no-rest-for-the-wicked-review-1236821491/) — *Variety*
-
-### 5. ‘Pinocchio: Unstrung’ Review: Killer Puppetry Is the Best Thing About This Killer Puppet Slasher
-
-[原文] British indie director Rhys Frake-Waterfield gained a measure of notoriety for his 2023 film “Winnie-the-Pooh: Blood and Honey,” at best an amusing sketch idea that could hardly support a feature-leng
-
-📎 [阅读原文](https://variety.com/2026/film/news/pinocchio-unstrung-review-1236821368/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Which Ghost Rider Is Ryan Gosling Playing in the MCU? | Comic Con 2026
+### 1. Marvel Reveals First Clip of Sadie Sink in Spider-Man: Brand New Day, But Fans Aren't Sure What She's Trying to Say in It
 
-[原文] Which Ghost Rider is Ryan Gosling playing in the MCU? We have some ideas, as well as how the former MCU Ghost Rider could be retconned out of existence.
+[原文] Marvel has revealed a very, very short clip featuring Sadie Sink in Spider-Man: Brand New Day, and fans are doing their best to piece together what her mystery character is saying in it.
 
-📎 [阅读原文](https://www.ign.com/articles/which-ghost-rider-is-ryan-gosling-playing-in-the-mcu-marvel-comic-con-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/marvel-reveals-first-clip-of-sadie-sink-in-spider-man-brand-new-day-but-fans-arent-sure-what-shes-trying-to-say-in-it) — *IGN*
 
-### 2. Kevin Feige Says Ryan Gosling Approached Him With a 'Specific Vision' for Ghost Rider in the MCU
+### 2. Preorders Are Live for Hasbro’s The Legend of Zelda Figures – Here’s Where You Can Grab Them
 
-[原文] Ryan Gosling will officially star in a Ghost Rider movie in the Marvel Cinematic Universe, and according to MCU orchestrator Kevin Feige, he's already got a "specific vision" in mind for the character
+[原文] Hasbro's The Legend of Zelda figures of Link, Zelda, and Ganondorf are now available to preorder from select retailers. With a release date of May 1 next year, we've broken down where they're availabl
 
-📎 [阅读原文](https://www.ign.com/articles/kevin-feige-says-ryan-gosling-approached-him-with-a-specific-vision-for-ghost-rider-in-the-mcu) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/preorder-hasbro-the-legend-of-zelda-figures) — *IGN*
 
-### 3. IDW Teases an Exciting New Era for Teenage Mutant Ninja Turtles | Comic Con 2026
+### 3. Magic: The Gathering's Top 12 Most Powerful Commander Precons Of All Time
 
-[原文] IDW's flagship TMNT comic is undergoing another seismic change in 2027. We chat with the current and incoming writers of the series to learn more.
+[原文] Looking for Magic's most powerful boxed precon decks for Commander? Here's our top 12, including Universes Beyond.
 
-📎 [阅读原文](https://www.ign.com/articles/idw-teases-an-exciting-new-era-for-teenage-mutant-ninja-turtles-comic-con-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/magic-the-gatherings-top-12-most-powerful-commander-precons-of-all-time) — *IGN*
 
-### 4. Resident Evil Director Knows RE2 Didn't Have Snow or iPhones, But He 'Took Liberties' to Make the Movie Better
+### 4. The Odyssey Box Office Drops Just 19% as Its Second Weekend in Theaters Brings Another $215 Million Globally
 
-[原文] Resident Evil director Zach Cregger has seen all the comments about the snow and iPhones in his new movie, but he said he's got a good reason for why he "took liberties" with the lore.
+[原文] Director Christoper Nolan's The Odyssey has managed to track down another $215.3 million at the global box office, dropping only 19% in its second weekend in theaters.
 
-📎 [阅读原文](https://www.ign.com/articles/resident-evil-director-knows-re2-didnt-have-snow-or-iphones-but-he-took-liberties-to-make-the-movie-better) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/the-odyssey-box-office-drops-just-19-as-its-second-weekend-in-theaters-brings-another-215-million-globally) — *IGN*
 
-### 5. Kevin Feige Pushes Back at Criticisms That Dr. Doom Hasn't Had Thanos-Level Buildup
+### 5. These Incredible Avengers: Doomsday Figures Give Us a Better Look at the Film's X-Men Costumes | Comic Con 2026
 
-[原文] Marvel Studios President Kevin Feige is hitting back at Doomsday critics who feel like Dr. Doom hasn’t had the necessary buildup to crown him the next big bad of the MCU in the way that Thanos was bac
+[原文] Hot Toys' Avengers: Doomsday figures have been revealed, giving us a much better look at key X-Men characters like Ian McKellen's Magneto and Channing Tatum's Gambit.
 
-📎 [阅读原文](https://www.ign.com/articles/kevin-feige-pushes-back-at-criticisms-that-dr-doom-hasnt-had-thanos-level-buildup) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/these-incredible-avengers-doomsday-figures-give-us-a-better-look-at-the-films-x-men-costumes-comic-con-2026) — *IGN*
 
 ---
 
@@ -439,35 +439,35 @@ The post Somebody Should Really Give Ayrton Senna&#8217;s NSX a Good, Long-Term 
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Watch Oliver Tree’s ‘Celebration of Life’ Memorial Service
+### 1. Gracie Abrams Earns First-Ever Number One Album With ‘Daughter from Hell’
+
+[原文] The album debuted atop the Billboard 200 with 124,000 equivalent album sales
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/gracie-abrams-first-number-one-album-daughter-from-hell-1235596858/) — *Rolling Stone*
+
+### 2. Watch Oliver Tree’s ‘Celebration of Life’ Memorial Service
 
 [原文] Diplo, Logan Paul, the late singer's parents and more remember Tree's legacy at Santa Cruz memorial
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/oliver-tree-celebration-of-life-memorial-service-watch-1235598939/) — *Rolling Stone*
 
-### 2. Kacey Musgraves Strikes Three Shows Off of Her Middle of Nowhere Tour
+### 3. Kacey Musgraves Strikes Three Shows Off of Her Middle of Nowhere Tour
 
 [原文] Gigs in Chicago (the tour's opening night show), Boston, and Brooklyn removed from schedule after they were added to itinerary due to initial demand
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/kacey-musgraves-cancels-three-shows-middle-of-nowhere-tour-1235598902/) — *Rolling Stone*
 
-### 3. Katy Perry ‘Deeply Appalled’ After White House Uses ‘Firework’ in Military Strikes TikTok Video
+### 4. Katy Perry ‘Deeply Appalled’ After White House Uses ‘Firework’ in Military Strikes TikTok Video
 
 [原文] "My music is for bringing people together, not celebrating warfare," singer wrote Saturday in response to post
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/katy-perry-white-house-firework-military-strikes-tiktok-1235598831/) — *Rolling Stone*
 
-### 4. Bon Iver’s Justin Vernon Performs Entire Set of Bob Dylan Covers at Eaux Claires Fest
+### 5. Bon Iver’s Justin Vernon Performs Entire Set of Bob Dylan Covers at Eaux Claires Fest
 
 [原文] Singer also plays surprise set at his curated Wisconsin festival, Vernon's first full set of Bon Iver music in nearly three years
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/bon-iver-justin-vernon-bob-dylan-covers-set-eaux-claires-1235598818/) — *Rolling Stone*
-
-### 5. Lil Wayne, Karol G, Smashing Pumpkins to Receive Stars on Hollywood Walk of Fame in 2027
-
-[原文] David Guetta, Linkin Park, Sia, the Ramones, Grandmaster Flash and posthumously Waylon Jennings also among the artists being honored next year
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/lil-wayne-karol-g-linkin-park-hollywood-walk-of-fame-2027-1235598793/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post Somebody Should Really Give Ayrton Senna&#8217;s NSX a Good, Long-Term 
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Everyone in Travel Wants a Fair Ranking…Until They Own One
+### 1. United Chased Delta and American. Now Airline M&A Has Stalled
+
+[原文] The proposed merger represents United CEO Scott Kirby’s high appetite for ambitious and large deals.
+
+📎 [阅读原文](https://skift.com/2026/07/26/united-chased-delta-and-american-now-airline-m-and-a-has-stalled/) — *Skift*
+
+### 2. Everyone in Travel Wants a Fair Ranking…Until They Own One
 
 [原文] Travel search is auctions stacked on auctions: everyone demands fairness from the layer above while selling position to the layer below.
 
 📎 [阅读原文](https://skift.com/2026/07/26/everyone-in-travel-wants-a-fair-rankinguntil-they-own-one/) — *Skift*
 
-### 2. Lounges Could Be Next in Southwest’s Overhaul: ‘There’s Work Underway’
+### 3. Lounges Could Be Next in Southwest’s Overhaul: ‘There’s Work Underway’
 
 [原文] With the possibility of lounges, Southwest is betting that it can capture more premium customers and boost engagement with its loyalty program.
 
 📎 [阅读原文](https://skift.com/2026/07/24/lounges-could-be-next-in-southwests-overhaul/) — *Skift*
 
-### 3. Wildfire Risk is Increasing. Rising Insurance Costs Are Pushing Hotels to Prepare
+### 4. Wildfire Risk is Increasing. Rising Insurance Costs Are Pushing Hotels to Prepare
 
 [原文] As wildfires grow more frequent and severe, insurers are no longer pricing risk by location alone — they’re underwriting based on how resilient a property is, pushing operators to firm up their hotels
 
 📎 [阅读原文](https://skift.com/2026/07/24/wildfire-risk-is-increasing-rising-insurance-costs-are-pushing-hotels-to-prepare/) — *Skift*
 
-### 4. CitizenM, 1 Year Later: Learning to Love Marriott Audits and New Bonvoy Guests
+### 5. CitizenM, 1 Year Later: Learning to Love Marriott Audits and New Bonvoy Guests
 
 [原文] Selling your brand to a major group and staying on to run the hotels is an unusual move. A year in, the distribution lift is real. Whether Marriott can now grow CitizenM beyond its original backer is 
 
 📎 [阅读原文](https://skift.com/2026/07/24/citizenm-1-year-later-learning-to-love-marriott-audits-and-new-bonvoy-guests/) — *Skift*
-
-### 5. Skift’s Farnborough Cheat Sheet: Key Aircraft Deals Explained
-
-[原文] Fewer orders than the hype promised, and most of the big money spent by companies that don't fly a single passenger.
-
-📎 [阅读原文](https://skift.com/2026/07/24/skifts-farnborough-cheat-sheet-key-aircraft-deals-explained/) — *Skift*
 
 ---
 
