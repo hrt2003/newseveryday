@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月27日** | 生成时间: 2026-07-27 17:57
+**2026年07月27日** | 生成时间: 2026-07-27 22:44
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Three dead and several injured in shooting at food festival near Seattle's Space Needle
+### 1. Devastating European wildfires in maps - and how they're being tackled
 
-[原文] Several others, including a two-year-old boy, were also injured. Seattle Mayor Katie Wilson says a suspect is in custody.
+[原文] A blaze near Bordeaux has torn through more than 162 sq miles (420 sq km) in less than four days, while the Madrid region is seeing its worst fires ever.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Berlin Pride attack suspect shot and killed during police operation
+### 2. Oil price dives as US and Iran pause attacks
 
-[原文] Police say Abdul Ballout was shot and killed after he rushed at officers with a knife in a western borough of Berlin.
+[原文] The US says attacks on Iran have been halted to give "talks some space", raising hopes of a resolution to the conflict.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat
+### 3. Anger, shock and grief - questions remain in the wake of the Berlin Pride attack
 
-[原文] Mamdani walked back his threat last week, acknowledging he lacked the legal power to arrest Netanyahu on a warrant issued by the International Criminal Court.
+[原文] As details emerge about the suspected Berlin Pride attacker's past, many are asking why he was not in prison.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. UK PM pledges continued support for Ukraine ahead of Zelensky visit
+### 4. More than 600 US military service members injured since Iran War began in February
 
-[原文] The Ukrainian president will be Andy Burnham's first international visitor since taking office.
+[原文] The latest figure includes casualties from Operation Fury and a new category called  "Overseas Operations".
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c998pzd1e8xo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say
+### 5. Bali bans Dutch expats whose run club allegedly excluded Indonesians
 
-[原文] The latest attacks come two days after a clash between settlers and Palestinians near the village of Tal, which left four Palestinians and two Israelis dead.
+[原文] The two men, who are accused of favouring foreigners for their events, allegedly violated immigration laws.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c1l1m6e08e2o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. U.S. and Iran pause fighting to give peace talks 'space.' Here's where negotiations stand
+### 1. Sam Altman to meet with Trump administration, Senators this week. Here's what he plans to say
 
-[原文] A temporary pause to the U.S.-Iran conflict appeared to hold on Monday, after negotiations over a lasting peace faced fresh hurdles over the weekend.
+[原文] Altman will preview the capabilities of the company's upcoming family of AI models and answer questions about cybersecurity and open-weight models.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/27/us-iran-war-trump-hormuz.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/27/altman-trump-china-open-weight-ai.html) — *CNBC*
 
-### 2. Why Trump's new tariff blitz is very different this time round
+### 2. Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberattack fallout continues
 
-[原文] President Trump on Friday launched a fresh round of tariffs targeting 60 trading partners, including the European Union, China, and the U.K.
+[原文] Microsoft, SpaceX, Palantir, alongside dozens of other tech companies from the U.S. and Europe, have joined the Open Secure AI Alliance.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/27/nvidia-ai-initiative-openai-cyber-attack.html) — *CNBC*
+
+### 3. Why Trump's new tariff blitz is very different this time around
+
+[原文] President Trump on Friday launched a fresh round of tariffs targeting 60 trading partners, including the European Union, China and the U.K.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/27/donald-trump-tariffs-trade-war-iran.html) — *CNBC*
 
-### 3. Chipmaker CXMT’s 466% market debut surge makes it the most valuable China-listed company
+### 4. Ford wants more customers to customize vehicles to boost profits as it eyes 'Nike shoe drop' moments
 
-[原文] The Hefei-based company raised 57.92 billion yuan ($8.6 billion) after pricing its IPO at 8.66 yuan per share.
+[原文] Ford is expanding its accessory and parts business in an effort to boost profits and better tap into the $53 billion U.S. automotive aftermarket industry.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/27/cxmt-china-market-debut-chipmaker-ipo.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/27/ford-vehicle-customization-bronco.html) — *CNBC*
 
-### 4. Spain and France wildfires force more than 300,000 to flee as Macron calls crisis meeting
+### 5. Federal Reserve is likely to hold interest rates steady. Here's what that means for consumers
 
-[原文] The impact of a gigantic wildfire ravaging France's Bordeaux region and Spain has been like a "clap of thunder" for the local economy, a minister said.
+[原文] The Federal Reserve is expected to keep its overnight rate unchanged at the conclusion of its July meeting.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/27/wildfires-spain-france-bordeaux-heatwave.html) — *CNBC*
-
-### 5. New UK Prime Minister Burnham says he would be prepared to call out Trump
-
-[原文] Burnham said he had a phone conversation with Trump on Monday when he officially took on the role, describing it as "a good exchange".
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/26/new-uk-prime-minister-burnham-says-he-would-be-prepared-to-call-out-trump.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/27/fed-interest-rates-july.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Are brain waves the next unlock for physical AI?
+### 1. Snapchat now lets you share what you’re listening to in real time
+
+[原文] Starting with Spotify, Snapchat users will be able to link their accounts, choose who can see their listening activity, and see what their friends are listening to in real time.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/27/snapchat-now-lets-you-share-what-youre-listening-to-in-real-time/) — *TechCrunch*
+
+### 2. Enigma raises $70M to make controlling a robot as easy as adjusting the volume
+
+[原文] The massive seed round was led by  Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/) — *TechCrunch*
+
+### 3. Europe got its own TBPN-style live show, and everyone’s angling for a guest spot
+
+[原文] On Monday, the network announced a $1.6 million seed round from top players in the media ecosystem, including Powerhouse Capital, Axel Springer SE (which owns Business Insider and Politico), the popul
+
+📎 [阅读原文](https://techcrunch.com/2026/07/27/europe-got-its-own-tbpn-style-live-show-and-its-already-a-hot-spot-on-a-press-tour/) — *TechCrunch*
+
+### 4. Are brain waves the next unlock for physical AI?
 
 [原文] Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/) — *TechCrunch*
 
-### 2. Can Apple make smart glasses that aren’t a constant privacy threat?
+### 5. Can Apple make smart glasses that aren’t a constant privacy threat?
 
 [原文] As Apple prepares to launch its first smart glasses, the company may also be wrestling with how to address consumer privacy concerns.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/) — *TechCrunch*
-
-### 3. Making sense of the panic over Chinese AI
-
-[原文] On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/) — *TechCrunch*
-
-### 4. Inside one London founder house rewriting the founder-house rules
-
-[原文] How one founder house is betting work-life balance can beat burnout .
-
-📎 [阅读原文](https://techcrunch.com/2026/07/26/inside-one-london-founder-house-rewriting-the-founder-house-rules/) — *TechCrunch*
-
-### 5. Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack
-
-[原文] "The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!"
-
-📎 [阅读原文](https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/) — *TechCrunch*
 
 ---
 
@@ -130,35 +130,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Why losing the wrong fat can trigger diabetes
+### 1. Why Jupiter has several giant moons but Saturn has only Titan
 
-[原文] Scientists discovered that damaged fat cells can become inflamed, lose their ability to store lipids, and eventually vanish, disrupting the body’s metabolism. The findings show that diabetes can resul
+[原文] Young Jupiter’s powerful magnetic field may have created a safe zone where several large moons could survive. Saturn lacked this protection, possibly explaining why Titan stands almost alone among its
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260726015259.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260727012143.htm) — *Science Daily*
 
-### 2. A hidden Alzheimer’s tipping point may decide who gets dementia
+### 2. After 241 days in orbit this NASA astronaut is finally home
 
-[原文] Scientists have identified a possible tipping point that helps determine whether Alzheimer’s-related brain changes lead to dementia. The key may lie in how the brain’s immune cells respond to plaques 
+[原文] NASA astronaut Chris Williams and two Roscosmos cosmonauts are back on Earth after spending 241 days aboard the International Space Station. Their journey covered more than 102 million miles and inclu
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260726015257.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260727012131.htm) — *Science Daily*
 
-### 3. Inside the Backrooms: The internet’s creepiest place is becoming a tourist attraction
+### 3. Scientists reveal what sparkling water really does to your teeth
 
-[原文] The Backrooms began as a single eerie image of empty yellow rooms, but internet users transformed it into a vast fictional world that feels disturbingly real. Through videos, games, maps, survival gui
+[原文] Unsweetened sparkling water may offer a tooth-friendlier alternative to sugary soda, according to a small preliminary study tracking how different drinks change mouth acidity. Soda caused the stronges
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260726015254.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260727012126.htm) — *Science Daily*
 
-### 4. CRISPR makes prostate cancer vulnerable to immunotherapy
+### 4. Eating within 8 hours may help keep the aging brain sharp
 
-[原文] Scientists used CRISPR to make prostate cancer cells easier for the immune system to detect and destroy. The experimental treatment dramatically improved the effects of immunotherapy in mice and may o
+[原文] Eating within a shorter daily window may help protect certain thinking skills as people age. In a small six-month trial, older women who limited eating to about 8 to 9 hours a day performed better on 
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260726015250.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260727012125.htm) — *Science Daily*
 
-### 5. The best way to save giant sequoias may be more fire
+### 5. Why the same DNA damage causes cancer in some people but not others
 
-[原文] Giant sequoias are built to withstand ordinary fires, but recent extreme wildfires killed thousands of trees that had survived for centuries or even millennia. A new analysis of about 26,400 sequoias 
+[原文] A controlled mouse study has provided direct evidence that inherited genetics can steer how cancer begins and evolves after DNA damage. The discovery could eventually help doctors better predict cance
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260726015243.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260727012123.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Meditate, pray or watch football instead of spreading hate - Infantino
+### 1. Chelsea open talks to sign Brighton striker Welbeck
 
-[原文] Fifa president Gianni Infantino tells critics to "meditate, pray or watch a football match" instead of "spreading hate and false rumours" about him and the World Cup.
+[原文] Chelsea are in talks to sign Brighton & Hove Albion striker Danny Welbeck, with the 35-year-old keen to join new manager Xabi Alonso at Stamford Bridge.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cz0515973gpo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cx2d79ddvg4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Diomande agrees Real Madrid terms as PSG step away
+### 2. Real Madrid contract talks and Arsenal interest - what is Vinicius Jr's future?
 
-[原文] RB Leipzig winger Yan Diomande agrees personal terms with Real Madrid after Paris St-Germain withdraw their interest.
+[原文] With Real Madrid renewing contract talks and Arsenal showing interest, there may be no more intriguing transfer situation right now than Vinicius Jr's future.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cqx74lpprd7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c62vx42zd83o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Record Spurs spend shows new ambition - Van de Ven
+### 3. English football agrees trial to end goalkeeper tactical timeouts
 
-[原文] Micky van de Ven says Tottenham's record spending highlights a "new ambition" after an "unacceptable" season.
+[原文] English football is set to implement a radical trial to try to eradicate the goalkeeper tactical timeout this season, BBC Sport can reveal.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c4gw34l26xzo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/clyjxd53zkpo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Norris and McLaren almost perfect as Ferrari flounder in Hungary
+### 4. 'Give him his passport' - Hearn backs British champion's citizenship fight
 
-[原文] Lando Norris' first grand prix win of 2026 was a long time coming as the mistakes piled up for Ferrari in Hungary, writes Andrew Benson.
+[原文] British champion Bilal Fawaz has lived in the UK for more than 20 years but is fighting for British citizenship - his story features in a new BBC documentary.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/cz7d9p3yplno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/articles/c75gwq7l0rno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Littler wins Matchplay and smashes Taylor record
+### 5. Second again - why has Scheffler stopped winning?
 
-[原文] Luke Littler sets a new record for the tournament average and final average in a World Matchplay as he defends his title in Blackpool by beating Gerwyn Price 18-9.
+[原文] World number one Scottie Scheffler has not won a tournament since January, but what's the reason?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/darts/articles/cwym032rlkvo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/cm2ge4pv94lo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘The Legend of Kitchen Soldier,’ ‘Yumi’s Cells’ Lead Prime Video India’s Slate of 100-Plus New CJ ENM Titles
+### 1. ‘I Want Your Sex’ Director Gregg Araki on Using an Intimacy Coordinator for the First Time, Opening Outfest and Gen Z Turning Away From Sex: ‘That’s F—ing Life!’
 
-[原文] Prime Video India and Korean powerhouse CJ ENM have signed a multi-year distribution deal that will add more than 100 Korean titles to the streamer&#8217;s Indian lineup over the next two years. The a
+[原文] &#8220;I Want Your Sex&#8221; writer and director Gregg Araki has seen the reports of Gen Z having less sex, and he has some notes. &#8220;Like, why don&#8217;t you have sex? What&#8217;s going on?&#8
 
-📎 [阅读原文](https://variety.com/2026/tv/news/prime-video-india-cj-enm-korean-titles-deal-1236821665/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/i-want-your-sex-gregg-araki-intimacy-coordinator-outfest-gen-z-sex-1236820941/) — *Variety*
 
-### 2. Bill Oddie, Wildlife Presenter and Comedian, Dies at 85
+### 2. Laufey Signs With UTA in All Areas
 
-[原文] Bill Oddie, the English comedian and conservationist known for hosting wildlife programs including BBC&#8217;s &#8220;Springwatch,&#8221; has died. He was 85. Oddie&#8217;s agent, David Foster, confir
+[原文] Fast-rising Grammy-winning singer-songwriter Laufey has signed with United Talent Agency for global representation in all areas, the company announced early Monday. UTA will work to secure opportuniti
 
-📎 [阅读原文](https://variety.com/2026/tv/global/bill-oddie-dead-wildlife-presenter-comedian-1236821660/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/laufey-signs-with-uta-all-areas-1236821590/) — *Variety*
 
-### 3. Benedict Cumberbatch, Alan Cumming and Benedict Wong Urge U.K. Government to Block Paramount-Warner Bros. Merger in Op-Ed: ‘It Threatens to Inflict Immense Harm’
+### 3. Imax China Prepares Full ‘Odyssey’ Rollout Across Nearly 800 Screens as CEO Cites the ‘Christopher Nolan Effect’ (EXCLUSIVE)
 
-[原文] Benedict Cumberbatch, Alan Cumming and Benedict Wong have urged the U.K. government to intervene in the proposed Paramount-Warner Bros merger, saying it “threatens to inflict immense harm on the Briti
+[原文] Imax China is preparing to dedicate the vast majority of its nearly 800-screen network to Christopher Nolan&#8217;s &#8220;The Odyssey&#8221; when the film opens in mainland China on Aug. 14, with CEO
 
-📎 [阅读原文](https://variety.com/2026/biz/global/benedict-cumberbatch-paramount-warner-bros-merger-1236821639/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/the-odyssey-china-imax-rollout-800-screens-1236821684/) — *Variety*
 
-### 4. Dylan Mulvaney Fires Back After Trump Mocks Her and Kaitlan Collins in White House Correspondents’ Dinner Speech: ‘Actually the Greatest Compliment of All’
+### 4. Carly Simon Reveals Parkinson’s Disease Diagnosis: ‘I Have Not Stopped Living and I Have Not Stopped Working’
 
-[原文] Dylan Mulvaney has hit back at U.S. President Donald Trump after he mocked the trans advocate, actress and singer in his White House Correspondents&#8217; Dinner speech on Friday. &#8220;My name is Dy
+[原文] Carly Simon has been diagnosed with Parkinson&#8217;s disease. The 83-year-old singer-songwriter, best known for her 1972 hit &#8220;You&#8217;re So Vain,&#8221; revealed the news on Monday in a state
 
-📎 [阅读原文](https://variety.com/2026/digital/news/dylan-mulvaney-responds-trump-mocks-whcd-speech-1236821637/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/carly-simon-parkinsons-disease-diagnosis-1236821716/) — *Variety*
 
-### 5. Korea Box Office: Na Hong-Jin’s ‘Hope’ Holds Firm at No. 1 as Market Slows
+### 5. Deep Com Roots Sells ‘Summer Days’ to Half the World, as ISII Group Rolls on ‘Amor de Dios’ With Belen Rueda (EXCLUSIVE)
 
-[原文] Science-fiction thriller &#8220;Hope&#8221; maintained its powerful grip on the top spot at the South Korean box office during the weekend of Jul. 24–26. According to data from KOBIS, the tracking ser
+[原文] Flexing its muscles as one of the biggest new kids on its film industry block, Spain’s ISII Group has gone into production on “Amor de Dios” headlined by “The Orphanage” star Belén Rueda and produced 
 
-📎 [阅读原文](https://variety.com/2026/film/box-office/korea-box-office-na-hong-jin-hope-holds-no-1-1236821621/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/isii-group-deep-com-roots-taz-skylar-belen-rueda-1236821688/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Rick and Morty Season 9 Finale Review & Recap: "Field of Dreams"
+### 1. Christopher Nolan Explains Some of the Changes He Made for The Odyssey Compared to Homer's Epic Poem, Including the New Ending
 
-[原文] Rick and Morty closes out Season 9 with a real winner of an episode, as Morty explores the multiverse and finds only misery in "Field of Dreams." Read our full review.
+[原文] The Odyssey is a smash hit with critics and on course to make over $1 billion at the global box office, but some have questioned changes made by Nolan for his adaptation of Homer's epic poem.
 
-📎 [阅读原文](https://www.ign.com/articles/rick-and-morty-season-9-finale-review-recap-field-of-dreams) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/christopher-nolan-explains-some-of-the-changes-he-made-for-the-odyssey-compared-to-homers-epic-poem-including-the-new-ending) — *IGN*
 
-### 2. The Best GTA Missions
+### 2. Tom Hiddleston Has Made a Pompeii Documentary, Inspired by His Marvel Brother Chris Hemsworth, And After Suggesting the Location Appear in Loki
 
-[原文] From wild heists and nostalgic drug deals to jetpack joyrides and beyond, these are the very best GTA missions of all time.
+[原文] Tom Hiddleston is back in Pompeii — but this time as the star of a new National Geographic show, rather than in character as Loki.
 
-📎 [阅读原文](https://www.ign.com/articles/best-gta-missions) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/tom-hiddleston-has-made-a-pompeii-documentary-inspired-by-his-marvel-brother-chris-hemsworth-and-after-suggesting-the-location-appear-in-loki) — *IGN*
 
-### 3. House of the Dragon Just Gave a Major Character the Send-Off They Bitterly Deserved
+### 3. Baldur's Gate 3 True Third-Person Camera Mod Goes Viral, Sparks Debate About Whether It Erases the Game's Identity
 
-[原文] House of the Dragon: Season 3, Episode 6 started things off with a bang by killing one of the series' major characters in a manner faithful to the book Fire & Blood. Not that we're sorry to see them g
+[原文] Baldur’s Gate 3 might be three years old, but it’s still the subject of much debate — and many new mods. One mod in particular has gone viral, leading some fans to say developer Larian should keep it 
 
-📎 [阅读原文](https://www.ign.com/articles/house-of-the-dragon-just-gave-a-major-character-the-send-off-they-bitterly-deserved) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/baldurs-gate-3-true-third-person-camera-mod-goes-viral-sparks-debate-about-whether-it-erases-the-games-identity) — *IGN*
 
-### 4. House of the Dragon Season 3, Episode 6 Recap and Review
+### 4. Spider-Man: Brand New Day Featured the Return of Rosario Dawson's Marvel Character Clare Temple — Until the Scene Was Cut
 
-[原文] At the three-quarter mark, this season of House of the Dragon is easily the best in the show’s history. It’s nuanced and complex, but doesn’t feel like it’s being artificially complicated all the time
+[原文] Spider-Man: Brand New Day almost featured the return of recurring Marvel character Clare Temple, actress Rosario Dawson has revealed.
 
-📎 [阅读原文](https://www.ign.com/articles/house-of-the-dragon-season-3-episode-6-recap-and-review) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/spider-man-brand-new-day-featured-the-return-of-rosario-dawsons-marvel-character-clare-temple-until-the-scene-was-cut) — *IGN*
 
-### 5. Marvel Reveals First Clip of Sadie Sink in Spider-Man: Brand New Day, But Fans Aren't Sure What She's Trying to Say in It
+### 5. Avengers: Doomsday Star Robert Downey Jr. Hid a Secret Message on His Jacket During Marvel's Comic Con Panel — And Now Its Latverian Runes Have Been Translated
 
-[原文] Marvel has revealed a very, very short clip featuring Sadie Sink in Spider-Man: Brand New Day, and fans are doing their best to piece together what her mystery character is saying in it.
+[原文] An eagle-eyed Marvel fan has translated the secret message written in Latverian runes seen on the jacket of Avengers: Doomsday star Robert Downey Jr. during this weekend's Comic Con panel.
 
-📎 [阅读原文](https://www.ign.com/articles/marvel-reveals-first-clip-of-sadie-sink-in-spider-man-brand-new-day-but-fans-arent-sure-what-shes-trying-to-say-in-it) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/avengers-doomsday-star-robert-downey-jr-hid-a-secret-message-on-his-jacket-during-marvels-comic-con-panel-and-now-its-latverian-runes-have-been-translated) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Absolute Peak: McLaren F1 GTR Expected to Sell for at Least $35 Million
+### 1. 2026 Honda Jazz e:HEV Review: The Forbidden Fuel-Sipping Daily Warrior
+
+[原文] The Honda Fit, or Jazz, has continued to age well in Europe and other markets, making us reminisce about the cool hatchbacks, coupes, and sedans we once had in the States.
+The post 2026 Honda Jazz e:H
+
+📎 [阅读原文](https://www.thedrive.com/car-reviews/2026-honda-jazz-ehev-review-the-forbidden-fuel-sipping-daily-warrior) — *The Drive*
+
+### 2. The Honda Accord Crosstour May Live Again: TDS
+
+[原文] Honda is reportedly considering an "Accord SUV" built on the sedan's bones that sounds a lot like the Crosstour of days past.
+The post The Honda Accord Crosstour May Live Again: TDS appeared first on 
+
+📎 [阅读原文](https://www.thedrive.com/news/the-honda-accord-crosstour-may-live-again-tds) — *The Drive*
+
+### 3. Absolute Peak: McLaren F1 GTR Expected to Sell for at Least $35 Million
 
 [原文] If you've got F1 money to spend, this is the one to get.
 The post Absolute Peak: McLaren F1 GTR Expected to Sell for at Least $35 Million appeared first on The Drive.
 
 📎 [阅读原文](https://www.thedrive.com/news/absolute-peak-mclaren-f1-gtr-expected-to-sell-for-at-least-35-million) — *The Drive*
 
-### 2. Just Three of These International Harvester Hit-and-Miss Engines Exist Today
+### 4. Just Three of These International Harvester Hit-and-Miss Engines Exist Today
 
 [原文] This specific relic was tucked away for 70 years at a planing mill, coated in sawdust and oil.
 The post Just Three of These International Harvester Hit-and-Miss Engines Exist Today appeared first on T
 
 📎 [阅读原文](https://www.thedrive.com/news/just-three-of-these-international-harvester-hit-and-miss-engines-exist-today) — *The Drive*
 
-### 3. Waymo’s Self-Driving Cars Crash Less Often Than Human Drivers: Study
+### 5. Waymo’s Self-Driving Cars Crash Less Often Than Human Drivers: Study
 
 [原文] It's an encouraging sign for a technology that's so far offered more hype than results, but the study's authors say more data is needed.
 The post Waymo&#8217;s Self-Driving Cars Crash Less Often Than 
 
 📎 [阅读原文](https://www.thedrive.com/news/waymos-self-driving-cars-crash-less-often-than-human-drivers-study) — *The Drive*
-
-### 4. New Book Tells the Story of RTR, an American Drift Team That Exploded Into Way More
-
-[原文] From grassroots racing to a full-fledged partnership with Ford, it's all here.
-The post New Book Tells the Story of RTR, an American Drift Team That Exploded Into Way More appeared first on The Drive.
-
-📎 [阅读原文](https://www.thedrive.com/news/new-book-tells-the-story-of-rtr-an-american-drift-team-that-exploded-into-way-more) — *The Drive*
-
-### 5. Somebody Should Really Give Ayrton Senna’s NSX a Good, Long-Term Home
-
-[原文] The F1 legend's personal car is being treated as a speculative asset, and that's just wrong.
-The post Somebody Should Really Give Ayrton Senna&#8217;s NSX a Good, Long-Term Home appeared first on The 
-
-📎 [阅读原文](https://www.thedrive.com/news/somebody-should-really-give-ayrton-sennas-nsx-a-good-long-term-home) — *The Drive*
 
 ---
 
@@ -439,35 +439,35 @@ The post Somebody Should Really Give Ayrton Senna&#8217;s NSX a Good, Long-Term 
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Charli XCX ‘Begrudgingly’ Shares ‘Music, Fashion, Film (B-Sides Edition)’ on Streaming
+### 1. See Bon Jovi Bring Out Bruce Springsteen at Madison Square Garden
 
-[原文] The singer's highly-anticipated follow-up to Brat arrived last week
+[原文] "The king of the great state of New Jersey," in the words of Jon Bon Jovi, joined the band for "Who Says You Can't Go Home" and "The Promised Land"
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/bon-jovi-bruce-springsteen-madison-square-garden-1235599043/) — *Rolling Stone*
+
+### 2. Carly Simon Reveals Parkinson’s Diagnosis: ‘I Have Not Stopped Living’
+
+[原文] “Some days I’m so tired I can’t get the day moving at all. On others, it gives me a little more room to move, think, work, and feel like myself”
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/carly-simon-parkinsons-disease-diagnosis-1235598947/) — *Rolling Stone*
+
+### 3. Charli XCX ‘Begrudgingly’ Shares ‘Music, Fashion, Film (B-Sides Edition)’ on Streaming
+
+[原文] The singer’s highly-anticipated follow-up to Brat arrived last week
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/charli-xcx-music-fashion-film-b-sides-edition-streaming-1235598976/) — *Rolling Stone*
 
-### 2. Gracie Abrams Earns First-Ever Number One Album With ‘Daughter from Hell’
+### 4. Gracie Abrams Earns First-Ever Number One Album With ‘Daughter from Hell’
 
 [原文] The album debuted atop the Billboard 200 with 124,000 equivalent album sales
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/gracie-abrams-first-number-one-album-daughter-from-hell-1235596858/) — *Rolling Stone*
 
-### 3. Watch Oliver Tree’s ‘Celebration of Life’ Memorial Service
+### 5. Watch Oliver Tree’s ‘Celebration of Life’ Memorial Service
 
-[原文] Diplo, Logan Paul, the late singer's parents and more remember Tree's legacy at Santa Cruz memorial
+[原文] Diplo, Logan Paul, the late singer’s parents and more remember Tree’s legacy at Santa Cruz memorial
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/oliver-tree-celebration-of-life-memorial-service-watch-1235598939/) — *Rolling Stone*
-
-### 4. Kacey Musgraves Strikes Three Shows Off of Her Middle of Nowhere Tour
-
-[原文] Gigs in Chicago (the tour's opening night show), Boston, and Brooklyn removed from schedule after they were added to itinerary due to initial demand
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/kacey-musgraves-cancels-three-shows-middle-of-nowhere-tour-1235598902/) — *Rolling Stone*
-
-### 5. Katy Perry ‘Deeply Appalled’ After White House Uses ‘Firework’ in Military Strikes TikTok Video
-
-[原文] "My music is for bringing people together, not celebrating warfare," singer wrote Saturday in response to post
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/katy-perry-white-house-firework-military-strikes-tiktok-1235598831/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post Somebody Should Really Give Ayrton Senna&#8217;s NSX a Good, Long-Term 
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. China’s $770 Million Crackdown on Trip.com Is Really About Platform Power
+### 1. What the World Cup Could Have Been
+
+[原文] The travel industry bet billions that the 2026 World Cup would bring throngs of international travellers to North America. Instead, it got lower hotel occupancy, price spikes, and fewer travelers. It’
+
+📎 [阅读原文](https://skift.com/2026/07/27/what-the-world-cup-could-have-been/) — *Skift*
+
+### 2. China’s Hotel Investment Surge Isn’t Just a Distress Sale Story
+
+[原文] A regulatory change most investors are still catching up to is reshaping how China’s hotel assets get bought, sold and valued.
+
+📎 [阅读原文](https://skift.com/2026/07/27/chinas-hotel-investment-surge-isnt-just-a-distress-sale-story/) — *Skift*
+
+### 3. Sonder’s Brand Name Bought Out of Bankruptcy, but the Management Business Is Gone
+
+[原文] A Vancouver company that runs hundreds of niche travel sites bought the Sonder name. The brand carcass has value for its residual search traffic.
+
+📎 [阅读原文](https://skift.com/2026/07/27/sonders-brand-name-bought-out-of-bankruptcy-but-the-management-business-is-gone/) — *Skift*
+
+### 4. China’s $770 Million Crackdown on Trip.com Is Really About Platform Power
 
 [原文] China's latest antitrust ruling puts new scrutiny on how online travel platforms use exclusivity, pricing, and traffic allocation to maintain their edge.
 
 📎 [阅读原文](https://skift.com/2026/07/27/chinas-770-million-crackdown-on-trip-com-is-really-about-platform-power/) — *Skift*
 
-### 2. United Chased Delta and American. Now Airline M&A Has Stalled
+### 5. United Chased Delta and American. Now Airline M&A Has Stalled
 
 [原文] The proposed merger represents United CEO Scott Kirby’s high appetite for ambitious and large deals.
 
 📎 [阅读原文](https://skift.com/2026/07/26/united-chased-delta-and-american-now-airline-m-and-a-has-stalled/) — *Skift*
-
-### 3. Everyone in Travel Wants a Fair Ranking…Until They Own One
-
-[原文] Travel search is auctions stacked on auctions: everyone demands fairness from the layer above while selling position to the layer below.
-
-📎 [阅读原文](https://skift.com/2026/07/26/everyone-in-travel-wants-a-fair-rankinguntil-they-own-one/) — *Skift*
-
-### 4. Lounges Could Be Next in Southwest’s Overhaul: ‘There’s Work Underway’
-
-[原文] With the possibility of lounges, Southwest is betting that it can capture more premium customers and boost engagement with its loyalty program.
-
-📎 [阅读原文](https://skift.com/2026/07/24/lounges-could-be-next-in-southwests-overhaul/) — *Skift*
-
-### 5. Wildfire Risk is Increasing. Rising Insurance Costs Are Pushing Hotels to Prepare
-
-[原文] As wildfires grow more frequent and severe, insurers are no longer pricing risk by location alone — they’re underwriting based on how resilient a property is, pushing operators to firm up their hotels
-
-📎 [阅读原文](https://skift.com/2026/07/24/wildfire-risk-is-increasing-rising-insurance-costs-are-pushing-hotels-to-prepare/) — *Skift*
 
 ---
 
@@ -529,6 +529,7 @@ The post Somebody Should Really Give Ayrton Senna&#8217;s NSX a Good, Long-Term 
 
 - **🚗 汽车**: Autocar
 - **🌱 环境**: Inside Climate News
+- **✈️ 旅游**: Nomadic Matt
 
 ---
 
