@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月28日** | 生成时间: 2026-07-28 10:48
+**2026年07月28日** | 生成时间: 2026-07-28 16:40
 
 ---
 
@@ -16,11 +16,11 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Wildfire now nine miles from French city of Bordeaux, mayor warns
+### 1. The cocaine superhighway from Ecuador to Europe - BBC reports on the gangs and police fightback
 
-[原文] Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation "catastrophic".
+[原文] The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 2. Trump says Iran war talks taking place during lull in strikes
 
@@ -28,23 +28,23 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars
+### 3. Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits
 
-[原文] Iran has reacted with fury to the assault on the vessel, with Tehran's foreign minister saying it "cannot go unanswered".
+[原文] The proposed settlement aims to close a years-long legal battle over claims its talcs products cause cancer.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. China's new challenge as natural disasters strike - fake AI videos
+### 4. US singer D4vd to go on trial for murder in death of 14-year-old
+
+[原文] The star is accused of killing Celeste Rivas Hernandez, whose remains were found in a Tesla registered to his address.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. China's new challenge as natural disasters strike - fake AI videos
 
 [原文] Storms and flooding incidents over the last few months have seen fake videos inundating social media.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx27mjvxgg1o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. A Japanese town wrestles with identity after protests over its first mosque
-
-[原文] As Japan increasingly relies on foreign workers, it is also grappling with how to integrate new cultures and religions.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c36d79nd5w8o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Apple ends day as world's most valuable company, passing Nvidia
+### 1. Iran hosts Hormuz calls with Saudi Arabia, Oman as Trump hails ‘good talks’
+
+[原文] Talks over the Strait of Hormuz continue as Iran's foreign ministry discussed the strategically vital maritime passage with Saudi and Omani counterparts.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/28/us-iran-war-trump-hormuz.html) — *CNBC*
+
+### 2. Apple ends day as world's most valuable company, passing Nvidia
 
 [原文] Nvidia had held the top spot as the most valuable company since June 2025, when it took the crown from Microsoft.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/27/apple-most-valuable-company-nvidia.html) — *CNBC*
 
-### 2. Shares of SK Hynix plunge 10% in Seoul as semiconductor sell-off deepens
+### 3. Oil extends losses as a pause in U.S.-Iran hostilities raises de-escalation hopes
 
-[原文] South Korean semiconductor shares tumbled on Tuesday, extending a rout in chipmakers after another weak session on Wall Street.
+[原文] Speaking to reporters aboard Air Force One on Monday en route to Michigan, Trump dismissed suggestions that the U.S. was running short on weapons.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/28/sk-hynix-plunges-semiconductor-selloff-deepens-samsung-softbank.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/28/oil-price-today-wti-brent-us-iran-hormuz.html) — *CNBC*
 
-### 3. U.S. and Korean tech stocks are now tightly linked — and that could be a worry for investors
+### 4. U.S. and Korean tech stocks are now tightly linked — and that could be a worry for investors
 
 [原文] The 60-day correlation between the Kospi and Nasdaq 100 recently climbed to about 0.50, its highest level since 2021, according to data provided by Rayliant.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/28/nasdaq-kospi-wall-street-korea-markets-skhynox-samsung.html) — *CNBC*
 
-### 4. Trump administration asks Supreme Court to intervene to allow mail-in voting restrictions
+### 5. SK Hynix shares plunge nearly 15% in Seoul as chip sell-off deepens
 
-[原文] A federal appeals court on Saturday kept the restrictions blocked in 23 states that sued, finding states must prepare for potentially disruptive election changes.
+[原文] South Korean semiconductor shares tumbled on Tuesday, extending a rout in chipmakers after another weak session on Wall Street.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/27/trump-supreme-court-mail-in-voting-restrictions.html) — *CNBC*
-
-### 5. Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models
-
-[原文] Critics have questioned why Anthropic didn't sign an industry letter last week in support of open-weight models.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/27/anthropic-ceo-dario-amodei-isnt-advocating-open-weight-model-ban.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/28/sk-hynix-plunges-semiconductor-selloff-deepens-samsung-softbank.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI
+### 1. Lyft and Baidu enter London’s robotaxi battleground as testing begins
+
+[原文] Baidu's Apollo Go autonomous vehicles will be available on Freenow, the mobility network that Lyft acquired in 2025.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins/) — *TechCrunch*
+
+### 2. Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing
+
+[原文] Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/) — *TechCrunch*
+
+### 3. Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI
 
 [原文] Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/) — *TechCrunch*
 
-### 2. Satya Nadella says companies that trust one AI for everything may not survive
+### 4. Satya Nadella says companies that trust one AI for everything may not survive
 
 [原文] Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/) — *TechCrunch*
 
-### 3. Thea Energy lands $20M federal grant to build its magnets for fusion reactors
+### 5. Thea Energy lands $20M federal grant to build its magnets for fusion reactors
 
 [原文] Fusion power startup Thea Energy snagged a $20 million award from ARPA-E to scale production of its high-temperature superconducting magnets.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/27/thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fusion-reactors/) — *TechCrunch*
-
-### 4. As rivals chase acquisitions, Peacock bets on bundles through a new deal with YouTube
-
-[原文] The deal means content will be integrated into the YouTube experience, allowing viewers to discover and watch Peacock content without leaving the platform.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/27/as-rivals-chase-acquisitions-peacock-bets-on-bundles-through-a-new-deal-with-youtube/) — *TechCrunch*
-
-### 5. PSA: Your Claude shared chats and Artifacts may have ended up on Google
-
-[原文] The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Chelsea open talks to sign Henderson and Welbeck
+### 1. Is struggling Ramsay-Peaty nearing the end?
 
-[原文] Chelsea are in talks to sign Brentford midfielder Jordan Henderson and Brighton striker Danny Welbeck.
+[原文] Can Adam Ramsay-Peaty return to the top after a disappointing Commonwealth Games or is the end nigh for Britain's former Olympic champion?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cx2d79ddvg4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/swimming/articles/cddj2ynlmpro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Inter in advanced talks with England defender Stones
+### 2. Why Chelsea want to sign older players
 
-[原文] England defender John Stones is in advanced talks with Inter Milan about joining the Italian side on a free transfer.
+[原文] Chelsea are targeting deals for Maxence Lacroix, Jordan Henderson and Danny Welbeck - three experienced heads, in an age when the focus has been on youth.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cgewgj8qwvjo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cn0nw0lyrkdo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. English football agrees trial to end goalkeeper tactical timeouts
+### 3. Greaves takes 5-0 in incredible Test bowling spell
 
-[原文] English football will implement a trial to try to eradicate the goalkeeper tactical timeout this season.
+[原文] West Indies all-rounder Justin Greaves takes five wickets without conceding a run during an incredible spell of bowling on day three of the first Test against Pakistan.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/clyjxd53zkpo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cx2rjv5599go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. 'Nothing makes sense' - Ramsay-Peaty beaten again
+### 4. 'I needed this summer' - what next for Arsenal's Kelly?
 
-[原文] Adam Ramsay-Peaty says "nothing makes sense" as he again has to settle for bronze at the Commonwealth Games in Glasgow.
+[原文] Chloe Kelly found 2025-26 hard, but is optimistic about hers and Arsenal's prospects this season.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/swimming/articles/cqlx2r3l6z3o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cgk4gk5xd2xo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Liverpool's centre-back situation and why Iraola must act
+### 5. Why is Hamilton getting so many penalties? - F1 Q&A
 
-[原文] BBC Sport looks at Liverpool's issues at centre-back, and what Andoni Iraola might do to fix them.
+[原文] BBC Sport F1 correspondent Andrew Benson answers your latest questions after the Hungarian Grand Prix.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cpw9zw972l2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/cp9e188m751o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Ariana Grande Sues Hackers for Leaking Unreleased Music and Footage
+### 1. Lee Chang-dong’s Venice and Toronto-Bound ‘Possible Love’ Sets Theatrical Release Dates Ahead of Netflix Bow
+
+[原文] Lee Chang-dong&#8217;s &#8220;Possible Love&#8221; will open in Korean theaters September 23, followed by select theatrical releases in Australia Oct. 22 and in the U.S., Canada, U.K., Ireland and Jap
+
+📎 [阅读原文](https://variety.com/2026/film/news/lee-chang-dong-possible-love-theatrical-netflix-date-1236822375/) — *Variety*
+
+### 2. ‘Kill Jackie,’ Starring a Glamorous, Lethal Catherine Zeta-Jones, Acquired by Warner Bros. Discovery for HBO Max (EXCLUSIVE)
+
+[原文] Warner Bros. Discovery has acquired revenge thriller “Kill Jackie,” starring Catherine Zeta-Jones, for HBO Max in Spain, Portugal, Sweden, Denmark, Norway, Finland, Iceland, France and Belgium. The de
+
+📎 [阅读原文](https://variety.com/2026/tv/global/catherine-zeta-jones-warner-bros-discovery-hbo-max-1236822368/) — *Variety*
+
+### 3. ‘Spider-Man: Brand New Day’ First Reactions: Tom Holland Has ‘Never Been Better’ in a Sequel That Ditches ‘Multiverse Tedium’ and Delivers a ‘Grounded Spider-Man Tale’
+
+[原文] &#8220;Spider-Man: Brand New Day&#8221; has finally been unveiled to members of the film press, who are calling Tom Holland&#8217;s fourth standalone movie &#8220;a grounded Spider-Man tale&#8221; tha
+
+📎 [阅读原文](https://variety.com/2026/film/news/spider-man-brand-new-day-first-reactions-tom-holland-1236821722/) — *Variety*
+
+### 4. Zendaya Stuns ‘Spider-Man: Brand New Day’ Premiere in ‘Abstract’ Spider-Inspired Look: ‘It’s Like This Metamorphosis’
+
+[原文] Zendaya stunned the red carpet at the “Spider-Man: Brand New Day” Los Angeles premiere in a black satin Ashi Studio corset with a sweeping architectural train, putting an exclamation point on a press 
+
+📎 [阅读原文](https://variety.com/2026/film/news/zendaya-spider-man-brand-new-day-premiere-dress-law-roach-1236822294/) — *Variety*
+
+### 5. Ariana Grande Sues Hackers for Leaking Unreleased Music and Footage
 
 [原文] Ariana Grande has filed a lawsuit against anonymous hackers, claiming that they gained backdoor access to devices that led to the leak of unreleased songs and footage from recording sessions and music
 
 📎 [阅读原文](https://variety.com/2026/music/news/ariana-grande-sues-hackers-leaking-unreleased-music-footage-1236822277/) — *Variety*
-
-### 2. ‘Dungeon Crawler Carl’s’ Breakout, Ryan Reynolds’ Jeanpool Stunt and More Comic-Con Highlights
-
-[原文] A new fandom took over San Diego Comic-Con this year: “Dungeon Crawler Carl.” While there were plenty of Marvel and DC superheroes walking around the convention center and the surrounding Gaslamp Quar
-
-📎 [阅读原文](https://variety.com/2026/film/news/dungeon-crawler-carl-ryan-reynolds-jeanpool-comic-con-1236822244/) — *Variety*
-
-### 3. ‘Obsession’ Star Michael Johnston in Talks to Join ‘The Mummy 4’ With Brendan Fraser and Rachel Weisz
-
-[原文] &#8220;Obsession&#8221; star Michael Johnston is in early talks to join the fourth installment of &#8220;The Mummy,&#8221; Variety has confirmed. Johnston previously starred in the TV series &#8220;Te
-
-📎 [阅读原文](https://variety.com/2026/film/news/mummy-4-michael-johnston-obsession-brendan-fraser-1236822219/) — *Variety*
-
-### 4. D4vd Ordered to Stand Trial for Murder of 14-Year-Old Girl
-
-[原文] A judge ruled that singer D4vd must stand trial for allegedly killing and dismembering a 14-year-old girl. On Monday, Los Angeles Judge Charlaine Olmedo determined during a preliminary hearing that th
-
-📎 [阅读原文](https://variety.com/2026/music/news/d4vd-to-stand-trial-in-murder-of-14-year-old-girl-1236817323/) — *Variety*
-
-### 5. How to Stream Shark Week Live Online Without Cable
-
-[原文] Shark Week has officially returned, bringing another frenzy of great whites, makos and other underwater predators to Discovery Channel. The network’s annual programming event kicked off Sunday, July 2
-
-📎 [阅读原文](https://variety.com/2026/shopping/news/how-to-stream-shark-week-online-without-cable-1236822181/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Spider-Man: Brand New Day Is Projected to Have the Biggest Opening of 2026
+### 1. Xbox Executive Explains Outage, Vows to 'Do Better'
+
+[原文] Xbox's Chief Technology Officer, Scott Van Vliet, has offered transparency and an explanation for the system and service outage that affected game libraries, sign-in, and game launching for many playe
+
+📎 [阅读原文](https://www.ign.com/articles/xbox-executive-explains-outage-vows-to-do-better) — *IGN*
+
+### 2. Spider-Man: Brand New Day Is Projected to Have the Biggest Opening of 2026
 
 [原文] Spider-Man: Brand New Day is on track to absolutely obliterate the box office this weekend.
 
 📎 [阅读原文](https://www.ign.com/articles/spider-man-brand-new-day-is-projected-to-have-the-biggest-opening-of-2026) — *IGN*
 
-### 2. Avengers: Secret Wars Is the Only MCU Movie in 2027 as Kevin Feige Promises Quality Over Quantity
+### 3. Avengers: Secret Wars Is the Only MCU Movie in 2027 as Kevin Feige Promises Quality Over Quantity
 
 [原文] It looks like Avengers: Secret Wars will be the only MCU movie in 2027, as Kevin Feige has promised that Marvel Studios is committed to "focusing on quality."
 
 📎 [阅读原文](https://www.ign.com/articles/avengers-secret-wars-is-the-only-mcu-movie-in-2027-as-kevin-feige-promises-quality-over-quantity) — *IGN*
 
-### 3. Call of Duty: Black Ops Fans Discover Cut Zombies Content Over 15 Years After Release
+### 4. Call of Duty: Black Ops Fans Discover Cut Zombies Content Over 15 Years After Release
 
 [原文] Call of Duty: Black Ops fans have uncovered a new cut Zombies mode from the game, over a decade and a half after its original release.
 
 📎 [阅读原文](https://www.ign.com/articles/call-of-duty-black-ops-fans-discover-cut-zombies-content-over-15-years-after-release) — *IGN*
 
-### 4. Pick Up an 11-Outlet Clamp-Style Power Strip With LED Night Light Illumination for Just $17.99
+### 5. Pick Up an 11-Outlet Clamp-Style Power Strip With LED Night Light Illumination for Just $17.99
 
 [原文] Convenience with a dash of pizazz.
 
 📎 [阅读原文](https://www.ign.com/articles/clamp-style-power-strip-with-led-night-light-deal) — *IGN*
-
-### 5. Pick up a Big and Tall Gaming Chair for Less Than $140 With Free Shipping on Amazon
-
-[原文] An inviting gaming chair without the high dollar price tag
-
-📎 [阅读原文](https://www.ign.com/articles/comhoma-big-and-tall-gaming-chair-deal-updated) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post Absolute Peak: McLaren F1 GTR Expected to Sell for at Least $35 Million
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘Climate hushing’ has swept the Democratic Party. New polling suggests it’s a mistake.
+### 1. Next stop for California’s high-speed rail: Finding private investors
+
+暂无摘要。
+
+📎 [阅读原文](https://grist.org/solutions/next-stop-for-californias-high-speed-rail-finding-private-investors/) — *Grist*
+
+### 2. ‘Climate hushing’ has swept the Democratic Party. New polling suggests it’s a mistake.
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/politics/climate-hushing-democrats-polling-primaries-voters/) — *Grist*
 
-### 2. Here’s how offshore wind helped New England beat record heat
+### 3. Here’s how offshore wind helped New England beat record heat
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/energy/heres-how-offshore-wind-helped-new-england-beat-record-heat/) — *Grist*
 
-### 3. In Michigan, the price of energy is on the ballot and both parties know it
+### 4. In Michigan, the price of energy is on the ballot and both parties know it
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/energy/in-michigan-the-price-of-energy-is-on-the-ballot-and-both-parties-know-it/) — *Grist*
 
-### 4. As climate lawsuits advance, the oil industry enters ‘panic mode’
+### 5. As climate lawsuits advance, the oil industry enters ‘panic mode’
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/accountability/lawsuits-heatwave-wrongful-death-supreme-court/) — *Grist*
-
-### 5. Indigenous leaders give the UN a roadmap for protecting their peoples
-
-暂无摘要。
-
-📎 [阅读原文](https://grist.org/global-indigenous-affairs-desk/indigenous-leaders-give-the-un-a-roadmap-for-protecting-their-peoples/) — *Grist*
 
 ---
 
@@ -439,35 +439,35 @@ The post Absolute Peak: McLaren F1 GTR Expected to Sell for at Least $35 Million
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Tyla Reveals ‘A*Pop’ World Tour Dates
+### 1. Watch Bebe Rexha Perform Joyous Medley of ‘New Religion,’ ‘Sad Girls’ on ‘Fallon’
+
+[原文] The tracks come off the singer's latest album, Dirty Blonde, which marks her first independent release
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/bebe-rexha-new-religion-sad-girls-performance-fallon-1235599515/) — *Rolling Stone*
+
+### 2. Ariana Grande Sues Hackers Over Alleged Theft of Unreleased Music, Photos, and Video Footage
+
+[原文] Lawsuit states that 45 unreleased songs reportedly hit the internet in 2023 alone
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/ariana-grande-sues-hackers-unreleased-music-leak-1235599473/) — *Rolling Stone*
+
+### 3. Linda Perhacs’ Friends Say Cult Singer-Songwriter Has ‘Gone Missing’
+
+[原文] The 82-year-old musician, who struggles with dementia, was discharged from a care facility eight months ago, according to a statement
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/linda-perhacs-missing-cult-singer-songwriter-1235599411/) — *Rolling Stone*
+
+### 4. Tyla Reveals ‘A*Pop’ World Tour Dates
 
 [原文] The singer’s international trek will bring her “fresh” era to North America, Europe, and Africa this fall
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/tyla-apop-world-tour-dates-north-america-1235599448/) — *Rolling Stone*
 
-### 2. Case Against D4vd, Singer Accused of Murdering Teen, Will Proceed to Trial
+### 5. Case Against D4vd, Singer Accused of Murdering Teen, Will Proceed to Trial
 
 [原文] Musican was a “very clever adult” who sexually abused Celeste Rivas Hernandez and “gaslit” her before murdering her, prosecutors argued
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/d4vd-celeste-rivas-murder-prosecutors-1235599111/) — *Rolling Stone*
-
-### 3. The Great Purple Way: Prince Musical ‘Purple Rain’ Headed to Broadway
-
-[原文] After a run in Minneapolis last year, the show is set to begin previews next March before premiering in April
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/prince-purple-rain-musical-broadway-2027-1235599225/) — *Rolling Stone*
-
-### 4. Miley Cyrus Signs to Atlantic Records
-
-[原文] The pop star had been with Columbia Records since 2021
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/miley-cyrus-atlantic-records-1235598988/) — *Rolling Stone*
-
-### 5. Faith No More Are Finally Reuniting in 2027
-
-[原文] After a few false starts and canceled shows, the band will return to the stage for the first time in over a decade next year in Australia and New Zealand
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/faith-no-more-2027-reunion-shows-system-of-a-down-1235599027/) — *Rolling Stone*
 
 ---
 
