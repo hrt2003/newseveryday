@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月28日** | 生成时间: 2026-07-28 03:39
+**2026年07月28日** | 生成时间: 2026-07-28 10:48
 
 ---
 
@@ -16,17 +16,17 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Wildfire now nine miles away from French city of Bordeaux, mayor warns
+### 1. Wildfire now nine miles from French city of Bordeaux, mayor warns
 
 [原文] Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation "catastrophic".
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Devastating European wildfires in maps - and how they're being tackled
+### 2. Trump says Iran war talks taking place during lull in strikes
 
-[原文] A blaze near Bordeaux has torn through more than 162 sq miles (420 sq km) in less than four days, while the Madrid region is seeing its worst fires ever.
+[原文] The US president says "there is a good chance that something could happen", as Iran denies direct talks are taking place.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 3. Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars
 
@@ -34,17 +34,17 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. More than 600 US military service members injured since Iran War began in February
+### 4. China's new challenge as natural disasters strike - fake AI videos
 
-[原文] The latest figure includes casualties from Operation Fury and a new category called  "Overseas Operations".
+[原文] Storms and flooding incidents over the last few months have seen fake videos inundating social media.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c998pzd1e8xo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx27mjvxgg1o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Anger as Berlin Pride attacker revealed to have been freed weeks earlier
+### 5. A Japanese town wrestles with identity after protests over its first mosque
 
-[原文] As details emerge about the suspected Berlin Pride attacker's past, many are asking why he was not in prison.
+[原文] As Japan increasingly relies on foreign workers, it is also grappling with how to integrate new cultures and religions.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c36d79nd5w8o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Sam Altman to meet with Trump administration, senators this week. Here's what he plans to say
+### 1. Apple ends day as world's most valuable company, passing Nvidia
 
-[原文] Altman will preview the capabilities of the company's upcoming family of AI models and answer questions about cybersecurity and open-weight models.
+[原文] Nvidia had held the top spot as the most valuable company since June 2025, when it took the crown from Microsoft.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/27/altman-trump-china-open-weight-ai.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/27/apple-most-valuable-company-nvidia.html) — *CNBC*
 
-### 2. Consolidated food supply may be worsening cyclospora outbreaks, experts say
+### 2. Shares of SK Hynix plunge 10% in Seoul as semiconductor sell-off deepens
 
-[原文] Experts say food industry consolidation may be amplifying the cyclospora outbreak, allowing contaminated produce to spread farther.
+[原文] South Korean semiconductor shares tumbled on Tuesday, extending a rout in chipmakers after another weak session on Wall Street.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/27/cyclospora-outbreak-food-industry-consolidation.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/28/sk-hynix-plunges-semiconductor-selloff-deepens-samsung-softbank.html) — *CNBC*
 
-### 3. Trump says U.S. has sold more than $13 billion of Venezuela oil
+### 3. U.S. and Korean tech stocks are now tightly linked — and that could be a worry for investors
 
-[原文] President Donald Trump said Monday the U.S. has sold more than $13 billion of Venezuelan oil since taking control of the South American nation's energy exports.
+[原文] The 60-day correlation between the Kospi and Nasdaq 100 recently climbed to about 0.50, its highest level since 2021, according to data provided by Rayliant.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/27/trump-says-us-has-sold-more-than-13-billion-of-venezuela-oil-.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/28/nasdaq-kospi-wall-street-korea-markets-skhynox-samsung.html) — *CNBC*
 
-### 4. U.S. and Iran pause fighting, Trump dismisses concerns of dwindling stockpiles
+### 4. Trump administration asks Supreme Court to intervene to allow mail-in voting restrictions
 
-[原文] A temporary pause to the U.S.-Iran conflict appeared to hold on Monday, after negotiations over a lasting peace faced fresh hurdles over the weekend.
+[原文] A federal appeals court on Saturday kept the restrictions blocked in 23 states that sued, finding states must prepare for potentially disruptive election changes.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/27/us-iran-war-trump-hormuz.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/27/trump-supreme-court-mail-in-voting-restrictions.html) — *CNBC*
 
-### 5. Netflix woes setting up for a Hollywood ending, says trader Mike Khouw
+### 5. Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models
 
-[原文] Netflix's stock price may have lost the plot, but its fundamental narrative remains intact.
+[原文] Critics have questioned why Anthropic didn't sign an industry letter last week in support of open-weight models.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/27/netflix-woes-setting-up-for-a-hollywood-ending-says-trader-mike-khouw.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/27/anthropic-ceo-dario-amodei-isnt-advocating-open-weight-model-ban.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system
+### 1. Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI
 
-[原文] Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.
+[原文] Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/) — *TechCrunch*
 
-### 2. Apple sued after alleged App Store crypto scam cost users $1.8M
+### 2. Satya Nadella says companies that trust one AI for everything may not survive
 
-[原文] Apple is facing a lawsuit from three users who say they collectively lost more than $1.8 million after downloading a fraudulent crypto wallet from the App Store, challenging the company’s longstanding
+[原文] Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/27/apple-sued-after-alleged-app-store-crypto-scam-cost-users-1-8m/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/) — *TechCrunch*
 
-### 3. Amazon’s new satellite network for mobile phones could turn up the heat on SpaceX
+### 3. Thea Energy lands $20M federal grant to build its magnets for fusion reactors
 
-[原文] Amazon is expanding its plans for providing satellite connectivity to mobile phones.
+[原文] Fusion power startup Thea Energy snagged a $20 million award from ARPA-E to scale production of its high-temperature superconducting magnets.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/27/amazons-new-satellite-network-for-mobile-phones-could-turn-up-the-heat-on-spacex/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/27/thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fusion-reactors/) — *TechCrunch*
 
-### 4. Antares raises $470M to build nuclear reactors for the US military
+### 4. As rivals chase acquisitions, Peacock bets on bundles through a new deal with YouTube
 
-[原文] Antares has raised $470 million to build small modular reactors — 100 kW to 1 MW — for U.S. Air Force bases.
+[原文] The deal means content will be integrated into the YouTube experience, allowing viewers to discover and watch Peacock content without leaving the platform.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/27/antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-military/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/27/as-rivals-chase-acquisitions-peacock-bets-on-bundles-through-a-new-deal-with-youtube/) — *TechCrunch*
 
-### 5. OpenAI’s Hugging Face breach has reignited the debate over alignment and control
+### 5. PSA: Your Claude shared chats and Artifacts may have ended up on Google
 
-[原文] OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.
+[原文] The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/) — *TechCrunch*
 
 ---
 
@@ -174,29 +174,29 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cx2d79ddvg4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. English football agrees trial to end goalkeeper tactical timeouts
+### 2. Inter in advanced talks with England defender Stones
+
+[原文] England defender John Stones is in advanced talks with Inter Milan about joining the Italian side on a free transfer.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cgewgj8qwvjo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. English football agrees trial to end goalkeeper tactical timeouts
 
 [原文] English football will implement a trial to try to eradicate the goalkeeper tactical timeout this season.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/clyjxd53zkpo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Liverpool's centre-back situation and why Iraola must act
+### 4. 'Nothing makes sense' - Ramsay-Peaty beaten again
+
+[原文] Adam Ramsay-Peaty says "nothing makes sense" as he again has to settle for bronze at the Commonwealth Games in Glasgow.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/swimming/articles/cqlx2r3l6z3o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 5. Liverpool's centre-back situation and why Iraola must act
 
 [原文] BBC Sport looks at Liverpool's issues at centre-back, and what Andoni Iraola might do to fix them.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cpw9zw972l2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. 'Give him his passport' - Hearn backs British champion's citizenship fight
-
-[原文] British champion Bilal Fawaz has lived in the UK for more than 20 years but is fighting for British citizenship - his story features in a new BBC documentary.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/articles/c75gwq7l0rno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Real Madrid contract talks and Arsenal interest - what is Vinicius Jr's future?
-
-[原文] With Real Madrid renewing contract talks and Arsenal showing interest, there may be no more intriguing transfer situation right now than Vinicius Jr's future.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c62vx42zd83o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘The Odyssey’ by the Numbers: 6 Ways Christopher Nolan’s Epic Is Shattering Box Office Expectations
+### 1. Ariana Grande Sues Hackers for Leaking Unreleased Music and Footage
 
-[原文] With a sensational second weekend at the box office, it&#8217;s clear &#8220;The Odyssey&#8221; will have a long &#8212; and epic &#8212; journey in theaters. Christopher Nolan&#8217;s take on Homer’s
+[原文] Ariana Grande has filed a lawsuit against anonymous hackers, claiming that they gained backdoor access to devices that led to the leak of unreleased songs and footage from recording sessions and music
 
-📎 [阅读原文](https://variety.com/2026/film/box-office/the-odyssey-box-office-nolan-shattering-expectations-1236821760/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/ariana-grande-sues-hackers-leaking-unreleased-music-footage-1236822277/) — *Variety*
 
-### 2. Massive Tribeca Fest Data Leak Exposes Jennifer Lawrence, Robert De Niro and More Celebs’ Contact Info; Meet the Man Who Discovered the Files
+### 2. ‘Dungeon Crawler Carl’s’ Breakout, Ryan Reynolds’ Jeanpool Stunt and More Comic-Con Highlights
 
-[原文] The Tribeca Festival suffered a data leak that exposed hundreds of thousands of records, as well as the contact information for thousands of celebrities, including Martin Scorsese, Francis Ford Coppol
+[原文] A new fandom took over San Diego Comic-Con this year: “Dungeon Crawler Carl.” While there were plenty of Marvel and DC superheroes walking around the convention center and the surrounding Gaslamp Quar
 
-📎 [阅读原文](https://variety.com/2026/film/news/tribeca-festival-data-leak-jennifer-lawrence-robert-de-niro-1236822023/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/dungeon-crawler-carl-ryan-reynolds-jeanpool-comic-con-1236822244/) — *Variety*
 
-### 3. Savannah Guthrie Posts New Video Urging Mother’s Kidnappers to ‘Do the Right Thing’: ‘Tell Us Where to Look for Her’
+### 3. ‘Obsession’ Star Michael Johnston in Talks to Join ‘The Mummy 4’ With Brendan Fraser and Rachel Weisz
 
-[原文] For the first time since April, Savannah Guthrie posted a new video to Instagram directly addressing her mother&#8217;s kidnappers. &#8220;I&#8217;m coming on today with a very specific message. It ha
+[原文] &#8220;Obsession&#8221; star Michael Johnston is in early talks to join the fourth installment of &#8220;The Mummy,&#8221; Variety has confirmed. Johnston previously starred in the TV series &#8220;Te
 
-📎 [阅读原文](https://variety.com/2026/tv/news/savannah-guthrie-video-mothers-kidnappers-nancy-1236671368/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/mummy-4-michael-johnston-obsession-brendan-fraser-1236822219/) — *Variety*
 
-### 4. Gold House Launches Gold House Studios, Unveiling A Slate Led By ‘The Boys’ Star Karen Fukuhara (EXCLUSIVE)
+### 4. D4vd Ordered to Stand Trial for Murder of 14-Year-Old Girl
 
-[原文] Gold House, the cultural platform behind the Gold Open movement and The Gold Gala is moving into production with the launch of Gold House Studios. Since its launch eight years ago, Gold House has been
+[原文] A judge ruled that singer D4vd must stand trial for allegedly killing and dismembering a 14-year-old girl. On Monday, Los Angeles Judge Charlaine Olmedo determined during a preliminary hearing that th
 
-📎 [阅读原文](https://variety.com/2026/biz/news/gold-house-launches-gold-house-studios-1236821953/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/d4vd-to-stand-trial-in-murder-of-14-year-old-girl-1236817323/) — *Variety*
 
-### 5. Whoopi Goldberg, Jenifer Lewis, Vanessa Williams and Vivica A. Fox to Star in Netflix Comedy ‘Women Like Us’
+### 5. How to Stream Shark Week Live Online Without Cable
 
-[原文] Whoopi Goldberg, Jenifer Lewis, Vanessa Williams and Vivica A. Fox are teaming up to star in a new original comedy movie for Netflix. The film, titled “Women Like Us” is produced by the Obamas’ Higher
+[原文] Shark Week has officially returned, bringing another frenzy of great whites, makos and other underwater predators to Discovery Channel. The network’s annual programming event kicked off Sunday, July 2
 
-📎 [阅读原文](https://variety.com/2026/film/news/whoopi-goldberg-jenifer-lewis-vanessa-williams-vivica-a-fox-netflix-movie-1236821975/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/shopping/news/how-to-stream-shark-week-online-without-cable-1236822181/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Physical 'Copies' of GTA 6 Will Expire 170 Days After Launch Date in Japan
+### 1. Spider-Man: Brand New Day Is Projected to Have the Biggest Opening of 2026
 
-[原文] If you’re buying ‘physical’ copies of GTA 6 in Japan, you’d better act fast and download that code lickety-split, else it might expire while you’re not looking.
+[原文] Spider-Man: Brand New Day is on track to absolutely obliterate the box office this weekend.
 
-📎 [阅读原文](https://www.ign.com/articles/physical-copies-of-gta-6-will-expire-170-days-after-launch-date-in-japan) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/spider-man-brand-new-day-is-projected-to-have-the-biggest-opening-of-2026) — *IGN*
 
-### 2. The MSI Codex R2 GeForce RTX 5070 Prebuilt Gaming PC Drops to Just $1,399.99
+### 2. Avengers: Secret Wars Is the Only MCU Movie in 2027 as Kevin Feige Promises Quality Over Quantity
 
-[原文] Excellent prebuilt option for 1080p and 1440p gaming, and it's capable enough to run games in 4K as well.
+[原文] It looks like Avengers: Secret Wars will be the only MCU movie in 2027, as Kevin Feige has promised that Marvel Studios is committed to "focusing on quality."
 
-📎 [阅读原文](https://www.ign.com/articles/msi-codex-r2-rtx-5070-gaming-pc-deal-july-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/avengers-secret-wars-is-the-only-mcu-movie-in-2027-as-kevin-feige-promises-quality-over-quantity) — *IGN*
 
-### 3. The $1,800 Power Lift Recliner and Massage Chair Drops to $350 at Wayfair After a Massive 80% Discount
+### 3. Call of Duty: Black Ops Fans Discover Cut Zombies Content Over 15 Years After Release
 
-[原文] A chair you don't want to get it out of, even if it's designed to help you do so.
+[原文] Call of Duty: Black Ops fans have uncovered a new cut Zombies mode from the game, over a decade and a half after its original release.
 
-📎 [阅读原文](https://www.ign.com/articles/wayfair-power-lift-recliner-and-massage-chair-deal-july-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/call-of-duty-black-ops-fans-discover-cut-zombies-content-over-15-years-after-release) — *IGN*
 
-### 4. The 4K-Ready MSI Codex Z2 GeForce RTX 5070 Ti Gaming PC Drops to $1,699 After a $600 Discount
+### 4. Pick Up an 11-Outlet Clamp-Style Power Strip With LED Night Light Illumination for Just $17.99
 
-[原文] Most RTX 5070 Ti equipped PCs sell for over $2000 and the GPU alone runs for $950-$1000.
+[原文] Convenience with a dash of pizazz.
 
-📎 [阅读原文](https://www.ign.com/articles/msi-codex-z2-rtx-5070-ti-gaming-pc-deal-july-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/clamp-style-power-strip-with-led-night-light-deal) — *IGN*
 
-### 5. Shang-Chi Star Simu Liu Says He Would 'Crawl Through a Mile of Broken Glass' for a Sequel
+### 5. Pick up a Big and Tall Gaming Chair for Less Than $140 With Free Shipping on Amazon
 
-[原文] We still know next to nothing about Shang-Chi 2, but star Simu Liu said he would "crawl through a mile of broken glass on my bare hands" to make it happen.
+[原文] An inviting gaming chair without the high dollar price tag
 
-📎 [阅读原文](https://www.ign.com/articles/shang-chi-star-simu-liu-says-he-would-crawl-through-a-mile-of-broken-glass-for-a-sequel) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/comhoma-big-and-tall-gaming-chair-deal-updated) — *IGN*
 
 ---
 
@@ -327,10 +327,10 @@ The post 20% of You
 
 📎 [阅读原文](https://www.thedrive.com/news/20-of-your-uber-fare-actually-goes-to-insurance-alone-study) — *The Drive*
 
-### 2. TJ Maxx Is Selling These Horrible Chevy Truck Shirts Designed by AI
+### 2. Apparently AI Can’t Tell the Difference Between Regular Cab and Crew Cab Pickups
 
-[原文] A tag on the shirt claims that it's "officially licensed," and if so, that's downright tragic.
-The post TJ Maxx Is Selling These Horrible Chevy Truck Shirts Designed by AI appeared first on The Drive.
+[原文] An "officially licensed" Chevy trucks T-shirt popped up at TJ Maxx that doesn't quite grasp the difference between two and four doors.
+The post Apparently AI Can&#8217;t Tell the Difference Between Re
 
 📎 [阅读原文](https://www.thedrive.com/news/tj-maxx-is-selling-these-horrible-chevy-truck-shirts-designed-by-ai) — *The Drive*
 
@@ -439,35 +439,35 @@ The post Absolute Peak: McLaren F1 GTR Expected to Sell for at Least $35 Million
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Great Purple Way: Prince Musical ‘Purple Rain’ Headed to Broadway
+### 1. Tyla Reveals ‘A*Pop’ World Tour Dates
+
+[原文] The singer’s international trek will bring her “fresh” era to North America, Europe, and Africa this fall
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/tyla-apop-world-tour-dates-north-america-1235599448/) — *Rolling Stone*
+
+### 2. Case Against D4vd, Singer Accused of Murdering Teen, Will Proceed to Trial
+
+[原文] Musican was a “very clever adult” who sexually abused Celeste Rivas Hernandez and “gaslit” her before murdering her, prosecutors argued
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/d4vd-celeste-rivas-murder-prosecutors-1235599111/) — *Rolling Stone*
+
+### 3. The Great Purple Way: Prince Musical ‘Purple Rain’ Headed to Broadway
 
 [原文] After a run in Minneapolis last year, the show is set to begin previews next March before premiering in April
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/prince-purple-rain-musical-broadway-2027-1235599225/) — *Rolling Stone*
 
-### 2. Miley Cyrus Signs to Atlantic Records
+### 4. Miley Cyrus Signs to Atlantic Records
 
 [原文] The pop star had been with Columbia Records since 2021
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/miley-cyrus-atlantic-records-1235598988/) — *Rolling Stone*
 
-### 3. Faith No More Are Finally Reuniting in 2027
+### 5. Faith No More Are Finally Reuniting in 2027
 
 [原文] After a few false starts and canceled shows, the band will return to the stage for the first time in over a decade next year in Australia and New Zealand
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/faith-no-more-2027-reunion-shows-system-of-a-down-1235599027/) — *Rolling Stone*
-
-### 4. See Bon Jovi Bring Out Bruce Springsteen at Madison Square Garden
-
-[原文] “The king of the great state of New Jersey,” in the words of Jon Bon Jovi, joined the band for “Who Says You Can’t Go Home” and “The Promised Land”
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/bon-jovi-bruce-springsteen-madison-square-garden-1235599043/) — *Rolling Stone*
-
-### 5. Carly Simon Reveals Parkinson’s Diagnosis: ‘I Have Not Stopped Living’
-
-[原文] “Some days I’m so tired I can’t get the day moving at all. On others, it gives me a little more room to move, think, work, and feel like myself”
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/carly-simon-parkinsons-disease-diagnosis-1235598947/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post Absolute Peak: McLaren F1 GTR Expected to Sell for at Least $35 Million
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Amazon’s Alexa+ Is Trying to Sell Trips Inside a Chat. Priceline Is an Early Test
+### 1. Why American Express Wants to Buy TheFork: New Cardmembers
+
+[原文] In acquiring TheFork, American Express wouldn't be merely adding some dining reservations' bookings. Instead, it's adding valuable data about discretionary spend, expanding its global footprint, and e
+
+📎 [阅读原文](https://skift.com/2026/07/27/why-american-express-wants-to-buy-thefork-new-cardmembers/) — *Skift*
+
+### 2. Amazon’s Alexa+ Is Trying to Sell Trips Inside a Chat. Priceline Is an Early Test
 
 [原文] Amazon is betting that stored payment credentials, new MCP support and 180 million Prime members can solve the problem that stopped OpenAI cold: getting travelers to complete a purchase inside an AI c
 
 📎 [阅读原文](https://skift.com/2026/07/27/amazons-alexa-is-trying-to-sell-trips-inside-a-chat-priceline-is-an-early-test/) — *Skift*
 
-### 2. Trip.com Killed Tool at the Center of China’s Antitrust Case — and It’s Already Hitting Profits
+### 3. Trip.com Killed Tool at the Center of China’s Antitrust Case — and It’s Already Hitting Profits
 
 [原文] Trip.com will now have to prove that it can keep hotels, sustain growth, and defend its market position without the commercial tools that regulators ruled crossed the line.
 
 📎 [阅读原文](https://skift.com/2026/07/27/trip-com-killed-tool-at-the-center-of-chinas-antitrust-case-and-its-already-hitting-profits/) — *Skift*
 
-### 3. What the World Cup Could Have Been
+### 4. Airbnb Has Car Rentals Now. What Does That Make It?
+
+[原文] Airbnb wants to be the only travel app you'll ever need, but its new car rental tie-up hands the wheel to Expedia — the same OTA that's buying CarTrawler, the partner now filling that gap.
+
+📎 [阅读原文](https://skift.com/2026/07/27/airbnb-has-car-rentals-now-what-does-that-make-it/) — *Skift*
+
+### 5. What the World Cup Could Have Been
 
 [原文] The travel industry bet billions that the 2026 World Cup would bring throngs of international travellers to North America. Instead, it got lower hotel occupancy, price spikes, and fewer travelers. It’
 
 📎 [阅读原文](https://skift.com/2026/07/27/what-the-world-cup-could-have-been/) — *Skift*
-
-### 4. China’s Hotel Investment Surge Isn’t Just a Distress Sale Story
-
-[原文] A regulatory change most investors are still catching up to is reshaping how China’s hotel assets get bought, sold and valued.
-
-📎 [阅读原文](https://skift.com/2026/07/27/chinas-hotel-investment-surge-isnt-just-a-distress-sale-story/) — *Skift*
-
-### 5. Sonder’s Brand Name Bought Out of Bankruptcy, but the Management Business Is Gone
-
-[原文] A Vancouver company that runs hundreds of niche travel sites bought the Sonder name. The brand carcass has value for its residual search traffic.
-
-📎 [阅读原文](https://skift.com/2026/07/27/sonders-brand-name-bought-out-of-bankruptcy-but-the-management-business-is-gone/) — *Skift*
 
 ---
 
