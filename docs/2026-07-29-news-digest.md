@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月29日** | 生成时间: 2026-07-29 10:54
+**2026年07月29日** | 生成时间: 2026-07-29 16:46
 
 ---
 
@@ -16,15 +16,15 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Watch: The moment quake hit Japan
+### 1. Japan in a ‘race against time’ to rescue people trapped beneath rubble after quake
 
-[原文] Video shows locations across the region where a strong earthquake struck Japan's Kyushu island on 28 July.
+[原文] At least 13 people have been killed after the earthquake struck the island of Kyushu on Tuesday.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/videos/cvg7v55gxnqo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/videos/c3r0pg0dgrgo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Iran and US trade strikes, shattering brief lull in fighting
+### 2. Saudi Arabia joins US in strikes on Iran-backed militias in Iraq
 
-[原文] US Central Command says it intercepted "multiple" ballistic missiles fired by Iran.
+[原文] US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
@@ -34,17 +34,17 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Trump administration bans new Chinese humanoid robots
+### 4. Four women accuse Jared Leto of criminal sexual conduct
+
+[原文] The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Trump administration bans new Chinese humanoid robots
 
 [原文] The US and China are locked in a race to the lead the world in robotics and artificial intelligence.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Wildfires in south-west France flare up as region braces for new 40C heatwave
-
-[原文] Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires in Gironde.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,17 +54,17 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Asian technology stocks extend sell-off with SoftBank down 7% as AI plays take a hit
-
-[原文] Asian technology stocks extended their selloff on Wednesday, with semiconductor names leading declines after another weak session in the U.S.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/29/chip-selloff-sk-hynix-samsung-softbank.html) — *CNBC*
-
-### 2. Iran launches surprise ballistic missile attack on U.S. forces in the Middle East
+### 1. Iran launches surprise ballistic missile attack on U.S. forces in the Middle East
 
 [原文] Centcom in a post on X said that the attack originated from Iran, but all missiles were intercepted.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/29/us-iran-war-hormuz-centcom.html) — *CNBC*
+
+### 2. Why America's super rich have embraced the appeal of British soccer teams
+
+[原文] American investors now control more than half the Premier League. CNBC examines why U.K. soccer clubs have become attractive long-term assets.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/29/why-america-super-rich-love-football-clubs-british.html) — *CNBC*
 
 ### 3. Oil jumps as U.S.-Iran resume strikes after a brief pause
 
@@ -72,17 +72,17 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/29/oil-prices-today-brent-wti-iran-us-hormuz.html) — *CNBC*
 
-### 4. SK Hynix shares fall as exponential earnings growth fails to satisfy AI-charged expectations
+### 4. Minister apologizes as Korean leveraged ETF investors nurse heavy losses amid chip stock rout
 
-[原文] SK Hynix shares fell as exponential profit and revenue growth failed to meet analysts' lofty expectations for a darling of the artificial intelligence sector.
+[原文] Korean retail investors have racked up heavy losses from leveraged bets on stocks, following rule changes earlier this year.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/29/sk-hynix-earnings-profit-revenue-hbm-memory.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/29/korea-leveraged-etf-kodex-sk-hynix.html) — *CNBC*
 
-### 5. Senate confirms Jay Clayton as Trump's director of national intelligence, replacing Pulte
+### 5. Tech stocks extend sell-off with SoftBank losing 7% as AI plays take a hit
 
-[原文] Bill Pulte had been serving for months as DNI after Tulsi Gabbard resigned the post.
+[原文] Chinese internet stocks listed in Hong Kong bucked the broader regional weakness with Tencent, Meituan, Baidu and Kuaishou all trading higher.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/28/jay-clayton-bill-pulte-senate-vote-trump-spy-chief.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/29/chip-selloff-sk-hynix-samsung-softbank.html) — *CNBC*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Uefa and PM criticise Infantino World Cup plan
+### 1. Uefa World Cup boycott may be raised over Fifa plan
 
-[原文] Uefa and Prime Minister Andy Burnham criticise proposals from Fifa to seek private investment in its competitions, including the World Cup.
+[原文] Uefa's 55 member associations will hold an emergency meeting this week to discuss Fifa's controversial proposals to sell stakes in its major competitions.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cvg7vglq9wpo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Soggy socks & a slathering of deep heat - rain causes chaos in Glasgow
+### 2. Diomande's rapid and remarkable rise to Real Madrid
+
+[原文] Yan Diomande has quickly gone from being a relatively unknown winger to the brink of becoming Real Madrid's record signing.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cm2g3dd2jxko?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. Soggy socks & a slathering of deep heat - rain causes chaos in Glasgow
 
 [原文] Torrential rain causes chaos at the athletics in the Commonwealth Games, but England's Amy Hunt produces one of a number of impressive performances.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/c80nk2v5gmmo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Alonso's first Chelsea match a tale of four strikers
+### 4. Five things we've learned from first half of F1 season
 
-[原文] Xabi Alonso's first game as Chelsea manager is defined by four strikers - from one who scored a hat-trick to one who could leave.
+[原文] BBC F1 correspondent Andrew Benson analyses the five key things we've learned from the 2026 season so far.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c1w13ddr4ejo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/clyj898j2p0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Are there already worrying signs for Vrancken's Hearts?
+### 5. Villa offer glimpse into future despite friendly loss
 
-[原文] Former Hearts forward Ryan Stevenson delivers a scathing verdict as Wouter Vrancken's reign begins with a chastening Champions League elimination.
+[原文] Youngsters Brian Madjo and George Hemmings scored in Aston Villa's defeat to Real Sociedad.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/clyxgpkkp0mo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Zidane waited for France - now can he harness their star power?
-
-[原文] Zinedine Zidane says he waited for the France job, but what will he bring to the role after after five years out of management?
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c20dxgpjng3o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cg4dv0qyvzvo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘Jumanji: Open World’ Trailer: Dwayne Johnson, Kevin Hart and Jack Black Return for Third and Final Movie
+### 1. Jared Leto Accused of Criminal Sexual Conduct by Four Women in BBC Documentary
+
+[原文] Jared Leto has been accused of criminal sexual conduct by four women, who claim the offenses occurred when they were teenagers. In a new BBC documentary &#8220;Jared Leto: Hollywood&#8217;s Dark Secre
+
+📎 [阅读原文](https://variety.com/2026/film/global/jared-leto-accused-criminal-sexual-conduct-bbc-documentary-1236823153/) — *Variety*
+
+### 2. BTS Won’t Submit for 2027 Grammy Awards Consideration
+
+[原文] BTS will not submit its music for consideration at the 69th Grammy Awards, scheduled for Feb. 7, 2027, the group announced on Wednesday. All seven members – RM, Jin, Suga, J-Hope, Jimin, V and Jungkoo
+
+📎 [阅读原文](https://variety.com/2026/music/news/bts-wont-submit-2027-grammy-awards-1236823143/) — *Variety*
+
+### 3. Royal Challengers Bengaluru, Rajasthan Royals Sales Push IPL Cricket’s Business Value to $20.6 Billion, Houlihan Lokey Study Finds
+
+[原文] The Indian Premier League cricket tournament&#8217;s business value has climbed to $20.6 billion, up 11.4% year over year, according to Houlihan Lokey&#8217;s 2026 IPL Valuation Study released Wednesd
+
+📎 [阅读原文](https://variety.com/2026/sports/news/ipl-valuation-rcb-rajasthan-royals-sales-1236822733/) — *Variety*
+
+### 4. ‘Jumanji: Open World’ Trailer: Dwayne Johnson, Kevin Hart and Jack Black Return for Third and Final Movie
 
 [原文] Sony has unveiled the trailer for the third entry in the &#8220;Jumanji&#8221; franchise, titled &#8220;Jumanji: Open World.&#8221; The teaser offers fans their first glimpse of the returning ensemble
 
 📎 [阅读原文](https://variety.com/2026/film/news/jumanji-3-trailer-dwayne-johnson-kevin-hart-open-world-1236706410/) — *Variety*
 
-### 2. Noah Kahan Slams White House for Using Song in Social Media Post: ‘Would Never Approve’
+### 5. Noah Kahan Slams White House for Using Song in Social Media Post: ‘Would Never Approve’
 
 [原文] Noah Kahan is the latest among musicians firing back against the White House for using their music on social media, responding to an Instagram post that utilized his song &#8220;American Cars.&#8221; 
 
 📎 [阅读原文](https://variety.com/2026/music/news/noah-kahan-slams-white-house-american-cars-instagram-post-1236823051/) — *Variety*
-
-### 3. ‘The Gilded Age’ Star Ben Ahlers and Wesley Taylor Wrap Workplace Satire Short ‘Movin’ On Up’ (EXCLUSIVE)
-
-[原文] &#8220;The Gilded Age&#8221; star Ben Ahlers and Wesley Taylor have wrapped production on ‘Movin’ On Up,’ a workplace satire short film directed by Jacob Wahba . Taylor (“Only Murders In The Building,
-
-📎 [阅读原文](https://variety.com/2026/film/news/the-gilded-age-ben-ahlers-wesley-taylor-movin-on-up-1236822854/) — *Variety*
-
-### 4. On-Set Visual Effects Workers on ‘Star Wars’ Productions Join IATSE
-
-[原文] A group of U.S. visual effects workers engaged directly by &#8220;Star Wars&#8221; franchise productions has joined the International Alliance of Theatrical Stage Employees for collective bargaining p
-
-📎 [阅读原文](https://variety.com/2026/artisans/news/visual-effects-workers-star-wars-productions-join-iatse-1236823009/) — *Variety*
-
-### 5. Ari Emanuel Blasts States’ ‘Trash’ Lawsuit Aimed at Blocking Paramount-Warner Bros. Merger, Claims It Threatens to ‘Destroy’ Competition
-
-[原文] Hollywood powerbroker Ari Emanuel rallied to the defense of his friend and business associate David Ellison, claiming that the state attorneys general trying to block Paramount’s Warner Bros. Discover
-
-📎 [阅读原文](https://variety.com/2026/film/news/ari-emanuel-lawsuit-paramount-warner-bros-merger-destroy-hollywood-1236822993/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Destin Daniel Cretton Admits He Was 'Sad' When Avengers: Kang Dynasty Got Canceled
+### 1. GTA Online In-game Gambling Suddenly Disabled in Australia
+
+[原文] Australia joins a list of around 50 countries worldwide where GTA Online gambling features are blocked.
+
+📎 [阅读原文](https://www.ign.com/articles/gta-online-in-game-gambling-suddenly-disabled-in-australia) — *IGN*
+
+### 2. Lightspeed LA Lays Off Staff as It Shifts Last Sentinel's Creative Direction
+
+[原文] Lightspeed LA, the developer behind Last Sentinel, announced that it’s making a big shift in creative direction that will impact some members of its staff.
+
+📎 [阅读原文](https://www.ign.com/articles/lightspeed-la-lays-off-staff-as-it-shifts-last-sentinels-creative-direction) — *IGN*
+
+### 3. Destin Daniel Cretton Admits He Was 'Sad' When Avengers: Kang Dynasty Got Canceled
 
 [原文] The Spider-Man: Brand New Day director admitted to feeling disappointed when Marvel’s carefully-crafted buildup to Kang the Conqueror didn’t pan out as originally planned.
 
 📎 [阅读原文](https://www.ign.com/articles/destin-daniel-cretton-admits-he-was-sad-when-avengers-kang-dynasty-got-canceled) — *IGN*
 
-### 2. Philips Electric Razor Deals: Save up to 60% at Amazon UK
+### 4. Philips Electric Razor Deals: Save up to 60% at Amazon UK
 
 [原文] Score up to 60% off Philips electric shavers at Amazon UK, including big discounts on the Shaver Series 5000, Series 3000X, and OneBlade accessories.
 
 📎 [阅读原文](https://www.ign.com/articles/philips-shaver-deals-2026) — *IGN*
 
-### 3. Godzilla Minus One is Getting a Limited Edition 4K Steelbook, and Preorders Are Live Now
+### 5. Godzilla Minus One is Getting a Limited Edition 4K Steelbook, and Preorders Are Live Now
 
 [原文] Preorders for the Godzilla Minus One Limited Edition 4K Steelbook are now live on Amazon and Gruv. Secure your 3-disc collector's set before the October release.
 
 📎 [阅读原文](https://www.ign.com/articles/godzilla-minus-one-4k-steelbook-preorders) — *IGN*
-
-### 4. Pick up a Big and Tall Gaming Chair for Less Than $140 With Free Shipping on Amazon
-
-[原文] An inviting gaming chair without the high dollar price tag
-
-📎 [阅读原文](https://www.ign.com/articles/comhoma-big-and-tall-gaming-chair-deal-updated) — *IGN*
-
-### 5. Pick Up an 11-Outlet Clamp-Style Power Strip With LED Night Light Illumination for Just $17.99
-
-[原文] Convenience with a dash of pizazz.
-
-📎 [阅读原文](https://www.ign.com/articles/clamp-style-power-strip-with-led-night-light-deal) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post Mercedes Doesn&#8217;t Plan on Being Ki
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Inside the ‘America First’ makeover of a global hunger program
+### 1. It’s official: Data centers are slowing America’s shift away from coal
+
+暂无摘要。
+
+📎 [阅读原文](https://grist.org/energy/data-centers-electricity-power-coal-emissions-climate-report/) — *Grist*
+
+### 2. The EU might weaken its landmark climate law — the ‘most impactful’ in the world
+
+暂无摘要。
+
+📎 [阅读原文](https://grist.org/international/the-eu-might-weaken-its-landmark-climate-law-the-most-impactful-in-the-world/) — *Grist*
+
+### 3. Is it getting too hot for summer school?
+
+暂无摘要。
+
+📎 [阅读原文](https://grist.org/buildings/is-it-getting-too-hot-for-summer-school/) — *Grist*
+
+### 4. China’s solar industry is losing money. The country is doubling down anyway.
+
+暂无摘要。
+
+📎 [阅读原文](https://grist.org/energy/chinas-solar-industry-is-losing-money-the-country-is-doubling-down-anyway/) — *Grist*
+
+### 5. Inside the ‘America First’ makeover of a global hunger program
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/food-and-agriculture/inside-america-first-makeover-of-usaid-global-hunger-program/) — *Grist*
-
-### 2. Next stop for California’s high-speed rail: Finding private investors
-
-暂无摘要。
-
-📎 [阅读原文](https://grist.org/transportation/next-stop-for-californias-high-speed-rail-finding-private-investors/) — *Grist*
-
-### 3. ‘Climate hushing’ has swept the Democratic Party. New polling suggests it’s a mistake.
-
-暂无摘要。
-
-📎 [阅读原文](https://grist.org/politics/climate-hushing-democrats-polling-primaries-voters/) — *Grist*
-
-### 4. Here’s how offshore wind helped New England beat record heat
-
-暂无摘要。
-
-📎 [阅读原文](https://grist.org/energy/heres-how-offshore-wind-helped-new-england-beat-record-heat/) — *Grist*
-
-### 5. In Michigan, the price of energy is on the ballot and both parties know it
-
-暂无摘要。
-
-📎 [阅读原文](https://grist.org/energy/in-michigan-the-price-of-energy-is-on-the-ballot-and-both-parties-know-it/) — *Grist*
 
 ---
 
@@ -439,35 +439,35 @@ The post Mercedes Doesn&#8217;t Plan on Being Ki
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Noah Kahan Slams White House for Using His Song in Trump Promo Video
+### 1. Willie Nelson Voices Concern About ‘Data Centers Invading Our Land’
+
+[原文] "The strength of rural America has never come from big industrial footprints," the musician wrote. "It comes from generations of people, open spaces, local businesses, and a connection to the land"
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/willie-nelson-data-centers-statement-1235600229/) — *Rolling Stone*
+
+### 2. Megan Moroney Ends Concert Early Due to Illness: ‘It Hurts Me So Much to Disappoint You All’
+
+[原文] The singer cut her Denver show after just three songs
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/megan-moroney-ends-denver-concert-early-illness-1235600223/) — *Rolling Stone*
+
+### 3. Pearl Jam’s Early Years Revealed in New Intimate Photography Book
+
+[原文] Bassist Jeff Ament's Since Forever captures the iconic band in rare moments throughout the decades
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/pearl-jam-photography-book-jeff-ament-since-forever-1235600216/) — *Rolling Stone*
+
+### 4. Noah Kahan Slams White House for Using His Song in Trump Promo Video
 
 [原文] The administration used Kahan's "American Cars" to soundtrack photos of the president visiting General Motors’ flagship test site
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/noah-kahan-white-house-music-trump-video-1235600195/) — *Rolling Stone*
 
-### 2. Phoebe Bridgers Reveals ‘Lost Weekend’ Track List
+### 5. Phoebe Bridgers Reveals ‘Lost Weekend’ Track List
 
 [原文] The 16-track project, her first solo album in six years, arrives in August
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/phoebe-bridgers-lost-weekend-track-list-1235600133/) — *Rolling Stone*
-
-### 3. Jim James Previews First Solo Album in Eight Years With Title Track ‘Wowed Out’
-
-[原文] My Morning Jacket frontman shares new single and will celebrate the solo album’s release by hitting the road
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/jim-james-new-song-album-wowed-out-tour-dates-1235600120/) — *Rolling Stone*
-
-### 4. Robyn and Zara Larsson Raise Heart Rates on ‘Talk to Me’ Remix
-
-[原文] The Sexistential collaboration follows their team-up on the “Puss Puss” remix from Larsson’s Midnight Sun: Girls Trip
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/robyn-zara-larsson-talk-to-me-remix-1235599569/) — *Rolling Stone*
-
-### 5. Steve Lacy Spoils ‘Spider-Man: Brand New Day,’ Faces Nerd Crash-Outs
-
-[原文] The identity of Sadie Sink’s character in the new Spider-Man movie is top secret, but Lacy may not have known that
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/steve-lacy-spoils-spider-man-brand-new-day-1235599804/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post Mercedes Doesn&#8217;t Plan on Being Ki
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Google Is Leaning on Travel to Sell Its AI Ad Story
+### 1. China’s Outbound Travel Recovery Has a New Problem: Not Enough Planes
+
+[原文] Chinese demand for outbound travel continues to grow in 2026 despite war and diplomatic fallout. What's holding the market back now isn't hesitation, it's a shortage of flights.
+
+📎 [阅读原文](https://skift.com/2026/07/29/chinas-outbound-travel-recovery-has-a-new-problem-not-enough-planes/) — *Skift*
+
+### 2. Google Is Leaning on Travel to Sell Its AI Ad Story
 
 [原文] Retail and finance drove Google's search ad revenue this quarter. But Google chose travel — IHG for its newest ad format, Booking Holdings for cloud and AI-powered transactions — to show investors whe
 
 📎 [阅读原文](https://skift.com/2026/07/28/google-earnings-ads-artificial-intelligence-ihg-booking/) — *Skift*
 
-### 2. Hilton Cuts Fees to Rebuild Hotel Owners’ Margins as Costs Stay Sticky
+### 3. Hilton Cuts Fees to Rebuild Hotel Owners’ Margins as Costs Stay Sticky
 
 [原文] Hilton said it wants to help owners facing squeezed margins, such as by cutting some fees. "We're spending a huge amount of time on this," says CEO Chris Nassetta.
 
 📎 [阅读原文](https://skift.com/2026/07/28/hilton-cuts-fees-to-rebuild-hotel-owners-margins-as-costs-stay-sticky/) — *Skift*
 
-### 3. JetBlue Is Still Losing Money, but Investors Are Buying the Turnaround Story
+### 4. JetBlue Is Still Losing Money, but Investors Are Buying the Turnaround Story
 
 [原文] Despite some skepticism about JetBlue’s viability, the carrier reaffirmed its outlook for the year and is banking on domestic first class to help it turn a profit.
 
 📎 [阅读原文](https://skift.com/2026/07/28/jetblue-is-still-losing-money-but-investors-are-buying-the-turnaround/) — *Skift*
 
-### 4. Inside the Math of Fora’s $1 Billion Valuation
+### 5. Inside the Math of Fora’s $1 Billion Valuation
 
 [原文] Fora’s $1 billion valuation rests on one bet: its existing advisors will keep booking more, allowing the platform to grow without taking more from them or from hotels.
 
 📎 [阅读原文](https://skift.com/2026/07/28/inside-the-math-of-foras-1-billion-valuation/) — *Skift*
-
-### 5. Iran War Dents Royal Caribbean’s Revenue Forecast
-
-[原文] Cruise line operators are underperforming the market for the first time post-COVID as war in the Middle East weighs on bookings.
-
-📎 [阅读原文](https://skift.com/2026/07/28/royal-caribbean-earnings-impact-iran-war/) — *Skift*
 
 ---
 
