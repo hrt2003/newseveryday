@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月29日** | 生成时间: 2026-07-29 03:37
+**2026年07月29日** | 生成时间: 2026-07-29 10:54
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Wildfires in south-west France flare up as region braces for new 40C heatwave
+### 1. Watch: The moment quake hit Japan
+
+[原文] Video shows locations across the region where a strong earthquake struck Japan's Kyushu island on 28 July.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/videos/cvg7v55gxnqo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Iran and US trade strikes, shattering brief lull in fighting
+
+[原文] US Central Command says it intercepted "multiple" ballistic missiles fired by Iran.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. How Mexican drug cartels have outsourced meth labs to Nigeria
+
+[原文] West Africa is becoming increasingly attractive to those who want to make and export illicit drugs.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. Trump administration bans new Chinese humanoid robots
+
+[原文] The US and China are locked in a race to the lead the world in robotics and artificial intelligence.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Wildfires in south-west France flare up as region braces for new 40C heatwave
 
 [原文] Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires in Gironde.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 2. Uefa reacts with fury to Infantino World Cup plan
-
-[原文] European football's governing body Uefa reacts furiously to proposals from Fifa to seek private investment in its competitions, including the World Cup.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 3. Ghana mourns its tallest man - a 'generous and popular giant'
-
-[原文] Sulemana Abdul Samed, who was diagnosed with gigantism several years ago, has died at the age of 33.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/crk52jk0131o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Mysterious deaths of 14 elephants in Kenya prompts urgent inquiry
-
-[原文] It is the highest number of elephant deaths to be recorded in this area of southern Kenya in decades.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c3w0d7yeqlxo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Odyssey translator writes scathing review of Nolan film adaptation
-
-[原文] The film has won rave reviews from film critics but a translator of Homer's work was less than impressed.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cd692n215ndo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Kentucky Gov. Beshear calls on Mitch McConnell to prove he can serve or resign
+### 1. Asian technology stocks extend sell-off with SoftBank down 7% as AI plays take a hit
 
-[原文] McConnell’s prolonged absence could complicate the GOP’s narrow Senate majority and trigger an untested Kentucky vacancy process.
+[原文] Asian technology stocks extended their selloff on Wednesday, with semiconductor names leading declines after another weak session in the U.S.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/28/beshear-mcconnell-health-resign-senate-vacancy.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/29/chip-selloff-sk-hynix-samsung-softbank.html) — *CNBC*
 
-### 2. Elon Musk stocks take $1.5 trillion hit with fresh test in SpaceX lockup ahead
+### 2. Iran launches surprise ballistic missile attack on U.S. forces in the Middle East
 
-[原文] It's been a rough month for Elon Musk, if there is such a thing for the world's richest man.
+[原文] Centcom in a post on X said that the attack originated from Iran, but all missiles were intercepted.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/28/elon-musk-stocks-take-1point5-trillion-hit-with-fresh-test-in-spacex-lockup-ahead.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/29/us-iran-war-hormuz-centcom.html) — *CNBC*
 
-### 3. Blurred front lines: Trump meets Zelenskyy as Ukraine, Iran wars collide
+### 3. Oil jumps as U.S.-Iran resume strikes after a brief pause
 
-[原文] Trump and Zelenskyy meet as the U.S war against Iran and Russia's full-scale invasion of Ukraine have threatened to overlap in recent days.
+[原文] Oil rose sharply amid renewed tensions in the Middle East after Iran launched an attack on U.S. forces using ballistic missiles.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/28/trump-zelenskyy-ukraine-russia-iran-war.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/29/oil-prices-today-brent-wti-iran-us-hormuz.html) — *CNBC*
 
-### 4. U.S. Strategic Petroleum Reserve faces stress as emergency releases strain old infrastructure
+### 4. SK Hynix shares fall as exponential earnings growth fails to satisfy AI-charged expectations
 
-[原文] The reserve has an authorized storage capacity of 714 million barrels, according to the Department of Energy.
+[原文] SK Hynix shares fell as exponential profit and revenue growth failed to meet analysts' lofty expectations for a darling of the artificial intelligence sector.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/28/us-strategic-petroleum-reserve-spr-iran-oil-strait-hormuz.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/29/sk-hynix-earnings-profit-revenue-hbm-memory.html) — *CNBC*
 
-### 5. Senate to set up key vote on Russia sanctions
+### 5. Senate confirms Jay Clayton as Trump's director of national intelligence, replacing Pulte
 
-[原文] The sanctions target Russian officials, oligarchs, their family members, foreign persons, Russian banks and financial institutions and the Russian shadow fleet.
+[原文] Bill Pulte had been serving for months as DNI after Tulsi Gabbard resigned the post.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/28/russia-sanctions-congress-key-vote-lindsey-graham-ukraine.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/28/jay-clayton-bill-pulte-senate-vote-trump-spy-chief.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Ozlo’s Sleepbuds 2 build on Bose’s sleep earbud legacy
+### 1. Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents
+
+[原文] The deal is Cyera's third acquisition this year.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/) — *TechCrunch*
+
+### 2. Bot-detection startup Spur nabs $200M from Insight
+
+[原文] Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/) — *TechCrunch*
+
+### 3. MCP startup Runlayer accuses Rippling of stealing its product idea
+
+[原文] Runlayer is suing Rippling after Rippling evaluated the startup's MCP  gateway product and then opted to build one itself.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/) — *TechCrunch*
+
+### 4. Sam Altman is ready to decelerate
+
+[原文] His change of position comes after "the first security incident that I have felt very viscerally."
+
+📎 [阅读原文](https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/) — *TechCrunch*
+
+### 5. Ozlo’s Sleepbuds 2 build on Bose’s sleep earbud legacy
 
 [原文] Ozlo’s first major update to its sleep earbuds introduces longer battery life, improved connectivity, enhanced audio, and new sleep features as the startup continues the product line once abandoned by
 
 📎 [阅读原文](https://techcrunch.com/2026/07/28/ozlos-sleepbuds-2-build-on-boses-sleep-earbud-legacy/) — *TechCrunch*
-
-### 2. The robot NASA hired to lift a orbital telescope is tumbling out of control
-
-[原文] Katalyst's LINK spacecraft is tumbling out of control after suffering key component failures.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/28/the-robot-nasa-hired-to-lift-a-orbital-telescope-is-tumbling-out-of-control/) — *TechCrunch*
-
-### 3. Waymo, robotaxi operators face fresh scrutiny over emergency response failures
-
-[原文] Rep. Kevin Mullin (D-California ) has proposed a bill that would direct federal regulators to establish minimum national safety standards for autonomous vehicle operators.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/28/waymo-robotaxi-operators-face-fresh-scrutiny-over-emergency-response-failures/) — *TechCrunch*
-
-### 4. eBay reaches $56M settlement with e-commerce newsletter writers it terrorized in 2019
-
-[原文] Ina and David Steiner inspired the ire of high-level eBay executives after occasionally criticizing the company in their newsletter. In 2019, a plot was concocted to intimidate the couple into halting
-
-📎 [阅读原文](https://techcrunch.com/2026/07/28/ebay-reaches-56m-settlement-with-e-commerce-newsletter-writers-it-terrorized-in-2019/) — *TechCrunch*
-
-### 5. These App Store hidden gems prove there’s still room for great software in the AI era
-
-[原文] Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital 
-
-📎 [阅读原文](https://techcrunch.com/2026/07/28/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Uefa says Fifa plan for private investment in World Cup 'crosses line'
+### 1. Uefa and PM criticise Infantino World Cup plan
 
-[原文] European football's governing body Uefa reacts furiously to proposals from Fifa to seek private investment in its competitions, including the World Cup.
+[原文] Uefa and Prime Minister Andy Burnham criticise proposals from Fifa to seek private investment in its competitions, including the World Cup.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Alonso's first Chelsea match a tale of four strikers
+### 2. Soggy socks & a slathering of deep heat - rain causes chaos in Glasgow
+
+[原文] Torrential rain causes chaos at the athletics in the Commonwealth Games, but England's Amy Hunt produces one of a number of impressive performances.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/c80nk2v5gmmo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. Alonso's first Chelsea match a tale of four strikers
 
 [原文] Xabi Alonso's first game as Chelsea manager is defined by four strikers - from one who scored a hat-trick to one who could leave.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c1w13ddr4ejo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Zidane waited for France - now can he harness their star power?
+### 4. Are there already worrying signs for Vrancken's Hearts?
+
+[原文] Former Hearts forward Ryan Stevenson delivers a scathing verdict as Wouter Vrancken's reign begins with a chastening Champions League elimination.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/clyxgpkkp0mo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 5. Zidane waited for France - now can he harness their star power?
 
 [原文] Zinedine Zidane says he waited for the France job, but what will he bring to the role after after five years out of management?
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c20dxgpjng3o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. Celtic 'a really good match' for record signing Hogh
-
-[原文] Celtic break their transfer record to sign Denmark striker Kasper Hogh from Bodo/Glimt on a four-year contract.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cwymjrm0xlwo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Mancini reappointed Italy boss after Pirlo controversy
-
-[原文] Roberto Mancini is appointed Italy manager for a second time - just a day after Andrea Pirlo rules himself out of the running for the job and technical director Paolo Maldini resigns.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c0ly412r412o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘Superhero Fatigue Is Real. Spider-Man Fatigue Is Not’: Tom Holland’s ‘Brand New Day’ Could Score One of the Biggest Opening Weekends Ever
+### 1. ‘Jumanji: Open World’ Trailer: Dwayne Johnson, Kevin Hart and Jack Black Return for Third and Final Movie
 
-[原文] Superhero fatigue is no match for Peter Parker. Sure, comic book movies have been on the fritz. But Marvel&#8217;s friendly neighborhood web-slinger is about to change the narrative, with Sony&#8217;s
+[原文] Sony has unveiled the trailer for the third entry in the &#8220;Jumanji&#8221; franchise, titled &#8220;Jumanji: Open World.&#8221; The teaser offers fans their first glimpse of the returning ensemble
 
-📎 [阅读原文](https://variety.com/2026/film/news/spider-man-brand-new-day-box-office-opening-records-1236822094/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/jumanji-3-trailer-dwayne-johnson-kevin-hart-open-world-1236706410/) — *Variety*
 
-### 2. ‘I Will Find You’ Becomes Netflix’s No. 10 Most-Popular English-Language TV Series of All Time
+### 2. Noah Kahan Slams White House for Using Song in Social Media Post: ‘Would Never Approve’
 
-[原文] Harlan Coben&#8217;s &#8220;I Will Find You&#8221; has become Netflix&#8217;s No. 10 most-popular English-language TV series of all time, having reached a cumulative 101.9 million views in the six wee
+[原文] Noah Kahan is the latest among musicians firing back against the White House for using their music on social media, responding to an Instagram post that utilized his song &#8220;American Cars.&#8221; 
 
-📎 [阅读原文](https://variety.com/2026/tv/news/i-will-find-you-netflix-ratings-record-1236822866/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/noah-kahan-slams-white-house-american-cars-instagram-post-1236823051/) — *Variety*
 
-### 3. Gold Medal Figure Skater and Magic: The Gathering Superfan Amber Glenn on Her 100,000-Card Collection and What She’d Want in Her Own ‘Secret Lair’ Set
+### 3. ‘The Gilded Age’ Star Ben Ahlers and Wesley Taylor Wrap Workplace Satire Short ‘Movin’ On Up’ (EXCLUSIVE)
 
-[原文] Figure skater Amber Glenn went viral during the Milano Cortina 2026 Winter Olympic Games, partly because she won a gold medal and partly because she outed herself as a huge fan of Hasbro&#8217;s popul
+[原文] &#8220;The Gilded Age&#8221; star Ben Ahlers and Wesley Taylor have wrapped production on ‘Movin’ On Up,’ a workplace satire short film directed by Jacob Wahba . Taylor (“Only Murders In The Building,
 
-📎 [阅读原文](https://variety.com/2026/gaming/news/magic-the-gathering-amber-glenn-secret-lair-card-ideas-1236822081/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/the-gilded-age-ben-ahlers-wesley-taylor-movin-on-up-1236822854/) — *Variety*
 
-### 4. ‘Biological War’ TV Adaptation in the Works at Universal Global Television and Patrick Macmanus’ Littleton Road Productions (EXCLUSIVE)
+### 4. On-Set Visual Effects Workers on ‘Star Wars’ Productions Join IATSE
 
-[原文] Following a bidding war, Universal Global Television and Patrick Macmanus’ Littleton Road Productions have acquired the rights to &#8220;Biological War: A Scenario,&#8221; Annie Jacobsen&#8217;s lates
+[原文] A group of U.S. visual effects workers engaged directly by &#8220;Star Wars&#8221; franchise productions has joined the International Alliance of Theatrical Stage Employees for collective bargaining p
 
-📎 [阅读原文](https://variety.com/2026/tv/news/biological-war-tv-adaptation-universal-patrick-macmanus-1236822153/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/artisans/news/visual-effects-workers-star-wars-productions-join-iatse-1236823009/) — *Variety*
 
-### 5. Mary Beth Barone on Her Debut Netflix Special ‘Galaxy Brain,’ Wanting to ‘Offend the Correct People’ and ‘Overcompensating’ Season 2: It’s ‘Sadder but Also Funnier’
+### 5. Ari Emanuel Blasts States’ ‘Trash’ Lawsuit Aimed at Blocking Paramount-Warner Bros. Merger, Claims It Threatens to ‘Destroy’ Competition
 
-[原文] Mary Beth Barone knows her debut Netflix special, &#8220;Galaxy Brain,&#8221; might piss some people off. In fact, she&#8217;s keeping a list — on it are J.K. Rowling, Mark Zuckerberg and male comedia
+[原文] Hollywood powerbroker Ari Emanuel rallied to the defense of his friend and business associate David Ellison, claiming that the state attorneys general trying to block Paramount’s Warner Bros. Discover
 
-📎 [阅读原文](https://variety.com/2026/tv/news/mary-beth-barone-netflix-special-galaxy-brain-overcompensating-1236821768/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/ari-emanuel-lawsuit-paramount-warner-bros-merger-destroy-hollywood-1236822993/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Call of Duty: Black Ops Fans Can't Agree on Which Map to Play
+### 1. Destin Daniel Cretton Admits He Was 'Sad' When Avengers: Kang Dynasty Got Canceled
 
-[原文] Call of Duty: Black Ops fans are growing frustrated by players who refuse to vote for different maps.
+[原文] The Spider-Man: Brand New Day director admitted to feeling disappointed when Marvel’s carefully-crafted buildup to Kang the Conqueror didn’t pan out as originally planned.
 
-📎 [阅读原文](https://www.ign.com/articles/call-of-duty-black-ops-fans-cant-agree-on-which-map-to-play) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/destin-daniel-cretton-admits-he-was-sad-when-avengers-kang-dynasty-got-canceled) — *IGN*
 
-### 2. Supergirl Now Available to Watch Online After Box Office Struggles
+### 2. Philips Electric Razor Deals: Save up to 60% at Amazon UK
 
-[原文] Supergirl has landed on digital after a disastrous box office run.
+[原文] Score up to 60% off Philips electric shavers at Amazon UK, including big discounts on the Shaver Series 5000, Series 3000X, and OneBlade accessories.
 
-📎 [阅读原文](https://www.ign.com/articles/how-to-watch-supergirl-streaming) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/philips-shaver-deals-2026) — *IGN*
 
-### 3. Batman: Caped Crusader Season 2 Review - Darker, Deadlier, but Still Flawed
+### 3. Godzilla Minus One is Getting a Limited Edition 4K Steelbook, and Preorders Are Live Now
 
-[原文] Batman: Caped Crusader makes some storytelling missteps in Season 2, but it still delivers a fun blend of detective noir and deep psychological portraits of Batman’s many allies and enemies.
+[原文] Preorders for the Godzilla Minus One Limited Edition 4K Steelbook are now live on Amazon and Gruv. Secure your 3-disc collector's set before the October release.
 
-📎 [阅读原文](https://www.ign.com/articles/batman-caped-crusader-season-2-review-darker-deadlier-but-still-flawed) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/godzilla-minus-one-4k-steelbook-preorders) — *IGN*
 
-### 4. First Look at Three Cards From The Hobbit's New Magic: The Gathering Crossover
+### 4. Pick up a Big and Tall Gaming Chair for Less Than $140 With Free Shipping on Amazon
 
-[原文] How could Magic return to Middle-earth without a legendary map?
+[原文] An inviting gaming chair without the high dollar price tag
 
-📎 [阅读原文](https://www.ign.com/articles/first-look-at-three-cards-from-the-hobbits-new-magic-the-gathering-crossover) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/comhoma-big-and-tall-gaming-chair-deal-updated) — *IGN*
 
-### 5. Sony Confirms PlayStation Plus Monthly Games for August 2026, Headlined by Dying Light 2: Stay Human
+### 5. Pick Up an 11-Outlet Clamp-Style Power Strip With LED Night Light Illumination for Just $17.99
 
-[原文] Sony has confirmed the PlayStation Plus monthly games lineup for August 2026 — and it includes Dying Light 2: Stay Human: Reloaded Edition.
+[原文] Convenience with a dash of pizazz.
 
-📎 [阅读原文](https://www.ign.com/articles/sony-confirms-playstation-plus-monthly-games-for-august-2026-headlined-by-dying-light-2-stay-human) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/clamp-style-power-strip-with-led-night-light-deal) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Feds Bulk-Order 250 Cadillac Escalades So the Secret Service Can Ride in Style
+### 1. The 2027 Audi Q9 Is the Largest Model In Automaker’s History and Its New Flagship
+
+[原文] Larger than the BMW X7 and Mercedes GLS, the Q9 wants your family's attention.
+The post The 2027 Audi Q9 Is the Largest Model In Automaker&#8217;s History and Its New Flagship appeared first on The Dr
+
+📎 [阅读原文](https://www.thedrive.com/news/the-2027-audi-q9-is-the-largest-model-in-automakers-history-and-its-new-flagship) — *The Drive*
+
+### 2. Take a Look at IndyCar’s First New Racer in 16 Years
+
+[原文] The superspeedway aero package looks downright aggressive, while the road course kit looks very F1-like. Don't you think?
+The post Take a Look at IndyCar&#8217;s First New Racer in 16 Years appeared f
+
+📎 [阅读原文](https://www.thedrive.com/news/take-a-look-at-indycars-first-new-racer-in-16-years) — *The Drive*
+
+### 3. Feds Bulk-Order 250 Cadillac Escalades So the Secret Service Can Ride in Style
 
 [原文] President Trump addressed the nation from a GM facility, ragging on the UAW president and mentioning the Escalade order.
 The post Feds Bulk-Order 250 Cadillac Escalades So the Secret Service Can Ride 
 
 📎 [阅读原文](https://www.thedrive.com/news/feds-bulk-order-250-cadillac-escalades-so-the-secret-service-can-ride-in-style) — *The Drive*
 
-### 2. Riding With Pagani’s Test Driver in a Utopia Roadster Ruined Me for Life
+### 4. Riding With Pagani’s Test Driver in a Utopia Roadster Ruined Me for Life
 
 [原文] Riding shotgun with the person in charge of developing multi-million-dollar, V12 hypercars is like taking a painting lesson with Leonardo da Vinci himself. It's hard to beat.
 The post Riding With Paga
 
 📎 [阅读原文](https://www.thedrive.com/news/riding-with-paganis-test-driver-in-a-utopia-roadster-ruined-me-for-life) — *The Drive*
 
-### 3. Mercedes Doesn’t Plan on Being Kicked Out of the US, CEO Says
+### 5. Mercedes Doesn’t Plan on Being Kicked Out of the US, CEO Says
 
 [原文] The U.S. is Mercedes' strongest sales region right now, and the company's CEO says it will "protect" its American business in the face of a ban threat.
 The post Mercedes Doesn&#8217;t Plan on Being Ki
 
 📎 [阅读原文](https://www.thedrive.com/news/mercedes-china-ban-threat-ceo-response) — *The Drive*
-
-### 4. It Sure Looks Like the Dodge Charger Super Bee Is Coming Back With a Turbocharged Inline-Six
-
-[原文] An iconic Dodge Charger nameplate is returning, but it won't have a Hemi V8 under its hood this time.
-The post It Sure Looks Like the Dodge Charger Super Bee Is Coming Back With a Turbocharged Inline-
-
-📎 [阅读原文](https://www.thedrive.com/news/it-sure-looks-like-the-dodge-charger-super-bee-is-coming-back-with-a-turbocharged-inline-six) — *The Drive*
-
-### 5. Spied: BMW i4 Convertible Confirms EV Droptops Are Going Mainstream
-
-[原文] A camouflaged BMW i4 convertible has been spied out testing. The car is expected for the 2028 model year.
-The post Spied: BMW i4 Convertible Confirms EV Droptops Are Going Mainstream appeared first on
-
-📎 [阅读原文](https://www.thedrive.com/news/2028-bmw-i4-cabrio-spy-shots) — *The Drive*
 
 ---
 
@@ -439,35 +439,35 @@ The post Spied: BMW i4 Convertible Confirms EV Droptops Are Going Mainstream app
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Robyn and Zara Larsson Raise Heart Rates on ‘Talk to Me’ Remix
+### 1. Noah Kahan Slams White House for Using His Song in Trump Promo Video
+
+[原文] The administration used Kahan's "American Cars" to soundtrack photos of the president visiting General Motors’ flagship test site
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/noah-kahan-white-house-music-trump-video-1235600195/) — *Rolling Stone*
+
+### 2. Phoebe Bridgers Reveals ‘Lost Weekend’ Track List
+
+[原文] The 16-track project, her first solo album in six years, arrives in August
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/phoebe-bridgers-lost-weekend-track-list-1235600133/) — *Rolling Stone*
+
+### 3. Jim James Previews First Solo Album in Eight Years With Title Track ‘Wowed Out’
+
+[原文] My Morning Jacket frontman shares new single and will celebrate the solo album’s release by hitting the road
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/jim-james-new-song-album-wowed-out-tour-dates-1235600120/) — *Rolling Stone*
+
+### 4. Robyn and Zara Larsson Raise Heart Rates on ‘Talk to Me’ Remix
 
 [原文] The Sexistential collaboration follows their team-up on the “Puss Puss” remix from Larsson’s Midnight Sun: Girls Trip
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/robyn-zara-larsson-talk-to-me-remix-1235599569/) — *Rolling Stone*
 
-### 2. Steve Lacy Spoils ‘Spider-Man: Brand New Day,’ Faces Nerd Crash-Outs
+### 5. Steve Lacy Spoils ‘Spider-Man: Brand New Day,’ Faces Nerd Crash-Outs
 
 [原文] The identity of Sadie Sink’s character in the new Spider-Man movie is top secret, but Lacy may not have known that
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/steve-lacy-spoils-spider-man-brand-new-day-1235599804/) — *Rolling Stone*
-
-### 3. David Lee Roth, Alex Van Halen to Reunite … for a TED Talk
-
-[原文] Event will take place in Fargo, North Dakota on Thursday and be available to stream at a later date
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/david-lee-roth-alex-van-halen-ted-talk-1235599738/) — *Rolling Stone*
-
-### 4. New York’s Hottest Club Is Bon Jovi at MSG
-
-[原文] From Paul McCartney and Bruce Springsteen to Pink and Ed Sheeran, the band greeted a steady stream of well-wishers during their Madison Square Garden residency
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/bon-jovi-madison-square-garden-celebrity-guest-list-1235597959/) — *Rolling Stone*
-
-### 5. Tom Morello Previews New Solo Album With ‘Anti-Fascist’ Rock Song ‘Date Night’
-
-[原文] The LP, out in September, features appearances from Serj Tankian, Kneecap, and Beartooth
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/tom-morello-solo-album-announcement-date-night-single-1235599505/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post Spied: BMW i4 Convertible Confirms EV Droptops Are Going Mainstream app
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Hilton Cuts Fees to Rebuild Hotel Owners’ Margins as Costs Stay Sticky
+### 1. Google Is Leaning on Travel to Sell Its AI Ad Story
+
+[原文] Retail and finance drove Google's search ad revenue this quarter. But Google chose travel — IHG for its newest ad format, Booking Holdings for cloud and AI-powered transactions — to show investors whe
+
+📎 [阅读原文](https://skift.com/2026/07/28/google-earnings-ads-artificial-intelligence-ihg-booking/) — *Skift*
+
+### 2. Hilton Cuts Fees to Rebuild Hotel Owners’ Margins as Costs Stay Sticky
 
 [原文] Hilton said it wants to help owners facing squeezed margins, such as by cutting some fees. "We're spending a huge amount of time on this," says CEO Chris Nassetta.
 
 📎 [阅读原文](https://skift.com/2026/07/28/hilton-cuts-fees-to-rebuild-hotel-owners-margins-as-costs-stay-sticky/) — *Skift*
 
-### 2. JetBlue Is Still Losing Money, but Investors Are Buying the Turnaround Story
+### 3. JetBlue Is Still Losing Money, but Investors Are Buying the Turnaround Story
 
 [原文] Despite some skepticism about JetBlue’s viability, the carrier reaffirmed its outlook for the year and is banking on domestic first class to help it turn a profit.
 
 📎 [阅读原文](https://skift.com/2026/07/28/jetblue-is-still-losing-money-but-investors-are-buying-the-turnaround/) — *Skift*
 
-### 3. Inside the Math of Fora’s $1 Billion Valuation
+### 4. Inside the Math of Fora’s $1 Billion Valuation
 
 [原文] Fora’s $1 billion valuation rests on one bet: its existing advisors will keep booking more, allowing the platform to grow without taking more from them or from hotels.
 
 📎 [阅读原文](https://skift.com/2026/07/28/inside-the-math-of-foras-1-billion-valuation/) — *Skift*
 
-### 4. Iran War Dents Royal Caribbean’s Revenue Forecast
+### 5. Iran War Dents Royal Caribbean’s Revenue Forecast
 
 [原文] Cruise line operators are underperforming the market for the first time post-COVID as war in the Middle East weighs on bookings.
 
 📎 [阅读原文](https://skift.com/2026/07/28/royal-caribbean-earnings-impact-iran-war/) — *Skift*
-
-### 5. Jay Carney to Exit Airbnb. Lime Veteran Appointed Policy Chief
-
-[原文] The choice of a cities-and-operations operator to succeed a former White House press secretary on policy strategy signals that Airbnb could be reverting to a more of an aggressive regulatory ground ga
-
-📎 [阅读原文](https://skift.com/2026/07/28/jay-carney-to-exit-airbnb-lime-veteran-appointed-policy-chief/) — *Skift*
 
 ---
 
