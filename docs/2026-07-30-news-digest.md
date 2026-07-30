@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月30日** | 生成时间: 2026-07-30 03:22
+**2026年07月30日** | 生成时间: 2026-07-30 10:39
 
 ---
 
@@ -22,29 +22,29 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Two firefighters die in Crete as wildfires threaten parts of southern Europe
+### 2. Three Greek firefighters die as wildfires threaten parts of southern Europe
 
-[原文] Gale-force winds have whipped up the flames prompting the evacuation of several villages on the island, as parts of the continent also continue to tackle fires.
+[原文] Gale-force winds on Crete have whipped up flames prompting the evacuation of several villages, as parts of the continent continue to tackle fires.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Fifa opens disciplinary proceedings against Argentina
+### 3. Zendaya on working with Tom Holland in Spider-Man: ‘When you’re best friends it’s easy’
 
-[原文] Fifa opens disciplinary proceedings against Argentina over their behaviour after their World Cup final loss to Spain and throughout the tournament.
+[原文] The couple walked the white carpet at the London premiere of their latest film, Spiderman: Brand New Day.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cp3rkwgy6y7o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. France fire crews face searing heat in battle to contain flames
+### 4. 'It's our home, it's our forest': BBC speaks to locals fighting France wildfire
 
-[原文] "It's our forest," one volunteer fighting the fire in the Gironde region told the BBC, as other locals have refused to heed evacuations.
+[原文] Firefighters are battling flare-ups in 40C heat in the Gironde region, as some locals have refused to heed evacuations.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Four women accuse Jared Leto of criminal sexual conduct
+### 5. Salman Rushdie attacker convicted of terror offences
 
-[原文] The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.
+[原文] Hadi Matar, 28, was convicted of attempting to help Hezbollah by attacking the British-Indian author.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,33 +54,33 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Divided Fed holds interest rates steady, but three members voted to hike
+### 1. Zuckerberg lays out Meta's AI capacity dilemma: What to sell vs. what to keep
 
-[原文] Despite increasing support for a rate increase, the Federal Open Market Committee voted 9-3 to leave the federal funds rate in a range between 3.5% and 3.75%.
+[原文] For investors anxious to hear more about Meta's plans to make money from its big AI spending, Mark Zuckerberg said there's a trade-off.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/29/fed-rate-decision-july-2026.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/29/zuckerberg-metas-ai-capacity-dilemma-what-to-sell-vs-what-to-keep.html) — *CNBC*
 
-### 2. Trump says U.S. will give Iran a 'beating' after surprise attack
+### 2. U.S. strikes Iran after surprise missile attack, dashing hopes of de-escalation
 
-[原文] Centcom in a post on X said that the attack originated from Iran, but all missiles were intercepted.
+[原文] The U.S. forces began launching strikes against Iran Wednesday stateside, plunging the two sides back into open conflict after a days-long pause.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/29/us-iran-war-hormuz-centcom.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/30/us-iran-war-hormuz-centcom-trump-.html) — *CNBC*
 
-### 3. Sam Altman to meet with White House's Wiles this week ahead of AI framework deadline
+### 3. Microsoft jumps 8% as it boosts capital spending plans, citing demand
 
-[原文] OpenAI CEO Sam Altman is meeting with a range of senior Trump administration officials, lawmakers and economists.
+[原文] Microsoft sees positive free cash flow for the new fiscal year as it changes accounting for data centers and office buildings.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/29/altman-white-house-wiles-ai-framework.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/29/microsoft-msft-q4-earnings-report-2026.html) — *CNBC*
 
-### 4. Hims and Hers shares fall 10% as FTC sues company over data, billing practices
+### 4. Analysis: Fed Chairman Warsh's credibility in question after leaving interest rates unchanged
 
-[原文] The FTC sued Hims & Hers over alleged health data sharing with Meta and Snap, billing practices and subscription cancellations.
+[原文] The Fed held interest rates steady, but long-term Treasury yields jumped. Investors are questioning whether he will act forcefully enough on inflation.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/29/hims-and-hers-ftc-lawsuit-stock.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/29/kevin-warsh-fed-treasury-yields-inflation-credibility-interest-rates.html) — *CNBC*
 
-### 5. Todd Blanche attorney general nomination on edge as Cornyn questions Trump-IRS settlement
+### 5. Todd Blanche AG nomination vote by Senate Judiciary postponed amid Trump-IRS settlement concerns
 
-[原文] Sen. John Cornyn says the DOJ has failed to satisfy his concerns about a deal to shield President Donald Trump and others from IRS tax audits.
+[原文] Sen. John Cornyn, R-Texas, says the DOJ has failed to satisfy his concerns about a deal to shield President Donald Trump and others from IRS tax audits.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/29/todd-blanche-attorney-general-trump-irs-audit-cornyn.html) — *CNBC*
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Claude Opus 5 became downright ruthless when tasked with running a vending machine
+### 1. Microsoft is openly competing with OpenAI, Anthropic more than ever
 
-[原文] Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever.
+[原文] Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/) — *TechCrunch*
 
-### 2. Sorry, haters. Ferrari’s first EV is doing just fine
+### 2. Mark Zuckerberg predicts that billions of people will have personal AI agents in five years
 
-[原文] To the horror of commenters across the internet, the Ferrari Luce appears to be a sales success.
+[原文] As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/29/sorry-haters-ferraris-first-ev-is-doing-just-fine/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/) — *TechCrunch*
 
-### 3. Waymo robotaxis are starting to return to freeways
+### 3. Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag
 
-[原文] Waymo robotaxis are now using freeways in Phoenix with more cities to follow in the coming days.
+[原文] When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and compe
 
-📎 [阅读原文](https://techcrunch.com/2026/07/29/waymo-robotaxis-are-starting-to-return-to-freeways/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/) — *TechCrunch*
 
-### 4. US government bans new foreign-made humanoids, robot dogs, and solar inverters, citing risks to national security
+### 4. Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents
 
-[原文] The ban largely affects U.S. imports from China, which currently dominates the global market for making humanoid robots and solar inverters.
+[原文] On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/29/us-government-bans-new-foreign-made-humanoids-robot-dogs-and-solar-inverters-citing-risks-to-national-security/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/) — *TechCrunch*
 
-### 5. Google brings its age-assurance technology to Android developers worldwide
+### 5. Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026
 
-[原文] Google is expanding its Play Age Signals API, giving Android developers a privacy-preserving way to tailor experiences based on users’ age ranges.
+[原文] At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/29/google-is-rolling-out-its-age-assurance-tech-for-apps-worldwide-by-year-end/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/) — *TechCrunch*
 
 ---
 
@@ -148,17 +148,17 @@
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260729010719.htm) — *Science Daily*
 
-### 4. Your gut may help your brain decide what to remember
+### 4. Daily multivitamin may help older adults stay independent
+
+[原文] Taking a daily multivitamin may help older adults preserve the strength and stamina needed for everyday activities. After three years, users reported better functional health than those taking a place
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260729010716.htm) — *Science Daily*
+
+### 5. Your gut may help your brain decide what to remember
 
 [原文] Signals traveling from the gut to the brain may help turn meals into lasting memories. Rats showed stronger memory activity after consuming nutritious foods, but not after drinking sweet liquids with 
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260729010713.htm) — *Science Daily*
-
-### 5. Earth’s hidden “gold kitchen” lies beneath the seafloor
-
-[原文] Deep beneath submarine volcanoes, Earth may be running a natural “gold kitchen.” By analyzing volcanic glass from the Kermadec island arc north of New Zealand, researchers found that water-rich mantle
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260727214628.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Fleming expected to be named England Test coach
-
-[原文] Former New Zealand captain Stephen Fleming is expected to be appointed as England Test coach after the sacking of Brendon McCullum.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c5yvp474rpro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 2. Is World Cup sell-off plan a step too far by Infantino?
-
-[原文] BBC Sport explores why Fifa president Gianni Infantino feels powerful enough to sell off stakes in the World Cup - and what the consequences could be.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cjejl274xx8o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 3. Fifa opens disciplinary proceedings against Argentina
+### 1. Alleged assaults and Falklands banner - Argentina face Fifa charges
 
 [原文] Fifa opens disciplinary proceedings against Argentina over their behaviour after their World Cup final loss to Spain and throughout the tournament.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cp3rkwgy6y7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Liverpool preparing opening bid for PSG's Barcola
+### 2. Fleming expected to be named England Test coach
 
-[原文] Liverpool step up their interest for Paris St-Germain's Bradley Barcola and are preparing an opening bid.
+[原文] Former New Zealand captain Stephen Fleming is expected to be appointed as England Test coach after the sacking of Brendon McCullum.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c0qv8wekp7eo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c5yvp474rpro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Saltburn suspend Devine after 'finger-clicking' claim
+### 3. Why finger-clicking 'scandal' has gripped sporting world - Agnew
 
-[原文] The Saltburn player at the centre of an alleged cheating scandal is suspended by the club for the "foreseeable future".
+[原文] Why the wicketkeeper in the Saltburn Cricket Club 'finger-clicking' scandal is the key voice in any investigation.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cg7m5grrp7ko?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c980w3wd370o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. Boxer Abdul - grandson of dictator - disqualified for headbutt
+
+[原文] Ugandan boxer Aziz Abdul - the grandson of dictator Idi Amin - was disqualified from his fight at the Commonwealth Games after appearing to headbutt his English opponent.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/articles/czxewy7zl46o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 5. 'Change is inevitable' - Liverpool CEO on FSG, Iraola and consortium talks
+
+[原文] Liverpool Billy Hogan talks to BBC Sport in New York about investment, transition and why FSG aren't done yet.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c8xnvqrxv8ro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Cinema United Chief Michael O’Leary Blasts Paramount Warner Bros. Deal, Endorses Litigation to Delay Merger
+### 1. Ben Affleck Wins $1 Million Prize on ‘Who Wants to Be a Millionaire,’ One Year After Matt Damon Did the Same
 
-[原文] The head of Cinema United is reiterating the lobbying organization&#8217;s opposition to Paramount Skydance&#8217;s proposed merger with Warner Bros., as well as the group&#8217;s support of litigatio
+[原文] SPOILER ALERT: This story contains spoilers for Season 5, Episode 2 of &#8220;Who Wants to Be a Millionaire,&#8221; which aired on ABC at 8 p.m. ET. Ben Affleck has joined the pantheon of celebrity wi
 
-📎 [阅读原文](https://variety.com/2026/film/news/cinema-united-chief-michael-oleary-blasts-paramount-warner-bros-deal-1236823659/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/ben-affleck-wins-1-million-who-wants-to-be-a-millionaire-1236823747/) — *Variety*
 
-### 2. Jason Cloth, ‘Babylon’ and ‘Joker’ Financier, Indicted in Alleged $100 Million Ponzi Scheme
+### 2. Supernatural Reality Competition Korean Series ‘House of Fates’ Greenlit as ‘Battle of Fates’ Spinoff at Disney+
 
-[原文] Jason Cloth, a financier with executive producer credits on “Joker,” “Babylon,” and “Ghostbusters: Afterlife,” has been indicted in Chicago on allegations that he ran a $100 million Ponzi scheme. Clot
+[原文] Disney+ has greenlit &#8220;House of Fates,&#8221; a spinoff of the record-breaking Korean competition series &#8220;Battle of Fates,&#8221; from the original show&#8217;s producer and writer. The new
 
-📎 [阅读原文](https://variety.com/2026/film/news/jason-cloth-babylon-joker-financier-indicted-ponzi-scheme-1236823635/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/supernatural-reality-competition-korean-series-house-of-fates-disney-1236823264/) — *Variety*
 
-### 3. ‘A Star Is Born’ Producer Lynette Howell Taylor Re-Elected Academy President
+### 3. Grammy Chief ‘Saddened to Hear’ That BTS Won’t Submit for 2027 Awards
 
-[原文] Lynette Howell Taylor has been reelected president of the Academy of Motion Picture Arts and Sciences, beginning a second consecutive term as the organization moves toward its 100th anniversary. Also 
+[原文] Grammy CEO Harvey Mason jr. has issued a statement in response to BTS’ decision not to submit for the 2027 awards, which the K-Pop superstars announced on Wednesday, in an effort to clarify that the l
 
-📎 [阅读原文](https://variety.com/2026/film/awards/lynette-howell-taylor-academy-president-reelected-1236823656/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/grammy-chief-saddened-bts-wont-submit-for-2027-awards-1236823891/) — *Variety*
 
-### 4. ‘Chicago Fire’ Star Joe Miñoso to Leave Series After 15 Seasons
+### 4. AMC Theatres Chief Adam Aron Pushes for Paramount Warner Bros. Merger, Says ‘Thanks, But No Thanks’ to State AG’s Blocking Deal
 
-[原文] Joe Miñoso is leaving &#8220;Chicago Fire&#8221; after 15 seasons, a source confirms to Variety. The actor has played firefighter Joe Cruz on the NBC drama series since Season 1. He will appear in a h
+[原文] Of all the great cinematic narrative arcs, there’s something special about the comeback. Think &#8220;Rocky,&#8221; &#8220;The Shawshank Redemption,&#8221; &#8220;The Natural.&#8221; A much-maligned o
 
-📎 [阅读原文](https://variety.com/2026/tv/news/chicago-fire-joe-minoso-leaving-season-15-1236823672/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/biz/news/amc-theatres-adam-aron-paramount-warner-bros-merger-1236823859/) — *Variety*
 
-### 5. What’s Coming to Netflix in August 2026
+### 5. Andrew Garfield on Amazon Dropping ‘Artificial’ and Wanting to Meet Sam Altman (EXCLUSIVE)
 
-[原文] Netflix has announced an exciting new rotation of movies and series for this August, including a variety of horror and crime projects to prepare viewers for the upcoming fall season. The &#8220;Chucky
+[原文] “Artificial” star Andrew Garfield is weighing on Amazon MGM Studios’ decision to drop the Luca Guadagnino-directed film about Sam Altman and OpenAI. “I was and I wasn’t [surprised],” the Oscar winner 
 
-📎 [阅读原文](https://variety.com/feature/whats-on-netflix-movies-shows-1203517873/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/columns/andrew-garfield-amazon-artificial-sam-altman-1236823821/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Today’s Top Deals: Pokémon TCG Booster Bundles, LEGO Eevee, and Death Stranding 2 for PS5
+### 1. Xbox CEO Asha Sharma Gives Optimistic Outlook Despite Grim Fiscal Earnings Report
 
-[原文] And there are plenty more discounts, from home gym equipment to 4K Blu-rays.
+[原文] Xbox CEO Asha Sharma responded to the company’s Q4 2026 fiscal report, which showed a continued decline in earnings for both content and hardware.
 
-📎 [阅读原文](https://www.ign.com/articles/best-deals-for-july-29-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/xbox-ceo-asha-sharma-gives-optimistic-outlook-despite-grim-fiscal-earnings-report) — *IGN*
 
-### 2. Crunchyroll Announces First Streaming Bundle for U.S. Subscribers
+### 2. The $20 AstroAI S8 Cordless Jump Starter Is an Inexpensive, Yet Essential Addition to Your Car's Emergency Kit
 
-[原文] Crunchyroll just announced its first streaming bundle, but you can only get it through Prime Video.
+[原文] A more convenient alternative to traditional jumper cables.
 
-📎 [阅读原文](https://www.ign.com/articles/crunchyroll-starz-prime-video-streaming-bundle-announcement) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/astroai-s8-cordless-car-jump-starter-deal-july-2026) — *IGN*
 
-### 3. BioWare's Former Dragon Age Boss Says a Mass Effect-Style Remaster Trilogy Is Pretty Much Impossible
+### 3. Battlefield 6's Record-Breaking Success Earns EA CEO $38 Million Payday, But Laid-Off Devs Aren't Around to Celebrate
 
-[原文] Don't hold your breath for remasters of the original Dragon Age trilogy - they're pretty much impossible, BioWare's former Dragon Age boss has said.
+[原文] EA’s CEO got an $8 million raise thanks to how well Battlefield 6 performed — four months after the devs responsible for making the game got laid off.
 
-📎 [阅读原文](https://www.ign.com/articles/biowares-former-dragon-age-boss-says-a-mass-effect-style-remaster-trilogy-is-pretty-much-impossible) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/battlefield-6s-record-breaking-success-earns-ea-ceo-38-million-payday-but-laid-off-devs-arent-around-to-celebrate) — *IGN*
 
-### 4. You Can Get 24 Cans of Dr Pepper for Just $10 at Amazon Today
+### 4. HP's Flagship OMEN 45L RTX 5070 Ti Gaming PC With 32GB of DDR5 RAM Drops to $1,999
 
-[原文] The reason for the post today, readers, is that something just came across my desk. It is perhaps the best deal I've seen in the last six months. If you have 60 seconds, I'd like to share that deal wi
+[原文] Will run all of your games in 4K with ease.
 
-📎 [阅读原文](https://www.ign.com/articles/dr-pepper-24-pack-amazon-deal) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/hp-omen-45l-rtx-5070-ti-gaming-pc-deal-july-2026) — *IGN*
 
-### 5. Makoto Shinkai’s Your Name Returning to Theaters in New 4K Remaster
+### 5. The 27" LG UltraGear 280Hz Gaming Monitor Featuring Tandem OLED Tech Is on Sale Today for $399.99
 
-[原文] Writer-director Makoto Shinkai’s beloved 2016 anime film Your Name has been remastered in 4K for a North American theatrical re-release next month.
+[原文] Tandem OLEDs are brighter and less prone to burn-in than previous generation OLED panels.
 
-📎 [阅读原文](https://www.ign.com/articles/your-name-4k-remaster-theatrical-release) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/lg-ultragear-gaming-monitor-deal-with-tandem-oled) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Flock CEO Wants Its Cameras in Every One of America’s 17,000 Cities
+### 1. $64,360 Toyota GRMN Corolla Is the Most Expensive Hot Hatch You Can Buy
+
+[原文] This limited-edition GR Corolla is better equipped to slay the Nürburgring, but demands a $23,000 premium over the regular one.
+The post $64,360 Toyota GRMN Corolla Is the Most Expensive Hot Hatch You
+
+📎 [阅读原文](https://www.thedrive.com/news/64640-toyota-grmn-corolla-is-the-most-expensive-hot-hatch-you-can-buy) — *The Drive*
+
+### 2. Flock CEO Claims Its Cameras Aren’t a Constitutional Violation: ‘Cut and Dry’
+
+[原文] Flock CEO Garrett Langley told The Drive, "The courts have deemed this is not a warrantless search."
+The post Flock CEO Claims Its Cameras Aren&#8217;t a Constitutional Violation: &#8216;Cut and Dry&#
+
+📎 [阅读原文](https://www.thedrive.com/news/flock-ceo-claims-its-cameras-arent-a-constitutional-violation-cut-and-dry) — *The Drive*
+
+### 3. Audi’s New Q9 Will Project Your Turn Signals Onto the Road
+
+[原文] The flagship SUV's Digital Matrix LED system casts animated arrows from each corner of the car — and the same tech is coming to the smaller Q7.
+The post Audi&#8217;s New Q9 Will Project Your Turn Sign
+
+📎 [阅读原文](https://www.thedrive.com/news/audis-new-q9-will-project-your-turn-signals-onto-the-road) — *The Drive*
+
+### 4. Flock CEO Wants Its Cameras in Every One of America’s 17,000 Cities
 
 [原文] Flock CEO Garrett Langley said he wants more cities to look like San Francisco, "where crime is incredibly hard to get away with."
 The post Flock CEO Wants Its Cameras in Every One of America&#8217;s 
 
 📎 [阅读原文](https://www.thedrive.com/news/flock-ceo-wants-its-cameras-in-every-one-of-americas-17000-cities) — *The Drive*
 
-### 2. Spied: Ferrari Isn’t Done With V12 Coupes Yet
+### 5. Spied: Ferrari Isn’t Done With V12 Coupes Yet
 
 [原文] Could this be the next hardcore Ferrari V12 coupe to follow in the footsteps of the GTO and tdf?
 The post Spied: Ferrari Isn&#8217;t Done With V12 Coupes Yet appeared first on The Drive.
 
 📎 [阅读原文](https://www.thedrive.com/news/spied-ferrari-isnt-done-with-v12-coupes-yet) — *The Drive*
-
-### 3. Flock’s CEO Faced Me After Its Cameras Led to My Wrongful Stop
-
-[原文] Flock CEO Garrett Langley sat down to discuss the errors that led to police stopping me and the growing fight over Flock's network of AI-powered surveillance cameras.
-The post Flock’s CEO Faced Me Aft
-
-📎 [阅读原文](https://www.thedrive.com/podcast/flocks-ceo-wants-zero-wrongful-stops-i-wasnt-the-first) — *The Drive*
-
-### 4. Get 25% off the Perfect Car Vacuum for Pet Owners
-
-[原文] Pet hair is extremely hard to extract from car carpets. But having the right tool changes everything.
-The post Get 25% off the Perfect Car Vacuum for Pet Owners appeared first on The Drive.
-
-📎 [阅读原文](https://www.thedrive.com/news/get-25-off-the-perfect-car-vacuum-for-pet-owners) — *The Drive*
-
-### 5. 777-HP Ram Rumble Bee SRT Hellcat Street Truck Starts Just Under $100K
-
-[原文] Or if you're content with the 5.7-liter, non-SRT Rumble Bee, you're looking at $62,790.
-The post 777-HP Ram Rumble Bee SRT Hellcat Street Truck Starts Just Under $100K appeared first on The Drive.
-
-📎 [阅读原文](https://www.thedrive.com/news/777-hp-ram-rumble-bee-srt-hellcat-street-truck-starts-just-under-100k) — *The Drive*
 
 ---
 
@@ -439,35 +439,35 @@ The post 777-HP Ram Rumble Bee SRT Hellcat Street Truck Starts Just Under $100K 
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Why This Nashville Indie-Rock Band Is Singing About ‘Jane Fonda’
+### 1. Tame Impala and Jennie Perform Their Hit ‘Dracula’ Together for First Time Ever
 
-[原文] Lombardy are helping foster Music City's indie scene with irreverent songs and an unpredictable live show
+[原文] The singer joined frontman Kevin Parker onstage for Tame Impala’s show at Boston's TD Garden
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/lombardy-nashville-rock-band-jane-fonda-song-1235600516/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/tame-impala-jennie-perform-dracula-boston-1235597315/) — *Rolling Stone*
 
-### 2. Rachel Chinouriri Is ‘One Song Away From Crying’ and Just Weeks Away From Her New Album
+### 2. Grammys CEO Defends New Asian Pop Category After BTS Says They Won’t Participate in 2027 Awards
 
-[原文] British singer and songwriter will release her second studio album I Think I Spoke Too Soon on Oct. 16
+[原文] "I am saddened to hear that BTS has chosen not to participate in the Grammy Awards process this year," said Grammy CEO Harvey Mason jr.
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/rachel-chinouriri-new-single-album-i-think-i-spoke-too-soon-1235599351/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/bts-grammys-arirang-wont-submit-2027-awards-ceo-responds-1235600777/) — *Rolling Stone*
 
-### 3. Afroman Sues Officer Who Raided His Home, Sued Him, and Lost
+### 3. Kanye West Settles Sexual Assault and Wrongful Termination Lawsuit With Ex-Staffer
 
-[原文] Musician accuses Brian Newland of malicious prosecution, abuse of process, and more
+[原文] Lauren Pisciotta, West's former assistant, accused the artist of drugging and sexually assaulting her at a Sean Combs studio session
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/afroman-sues-officer-who-raided-home-sued-lost-1235600431/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/kanye-west-settles-sexual-assault-lawsuit-ex-staffer-1235600754/) — *Rolling Stone*
 
-### 4. BTS Won’t Submit Comeback Album for Consideration at 2027 Grammys
+### 4. ‘An Angelic Presence’: Bruce Springsteen, Bono, Wilco’s Nels Cline Pay Tribute to Glen Hansard
 
-[原文] The group expressed "hope that music can be heard and loved by itself rather than being divided by region or language" after the introduction of a Best Asian Pop Music Performance category
+[原文] Finneas, Cat Power, Rachel Zegler, Lin-Manuel Miranda, and Warren Ellis remember the Irish musician who died Wednesday
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/bts-wont-submit-for-2027-grammy-awards-1235600350/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/glen-hansard-death-tributes-reactions-artists-celebrities-1235600528/) — *Rolling Stone*
 
-### 5. Kavinsky, French DJ-Producer Whose Chilly ‘Nightcall’ Defined ‘Drive,’ Dead at 50
+### 5. Bono Remembers ‘Voice of the Streets’ Glen Hansard
 
-[原文] Artist had resurgence after appearance at 2024 Olympics
+[原文] U2 frontman often participated in the Christmas Eve Busk, which Hansard organized in Dublin
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/kavinsky-death-obituary-1235600260/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/bono-glen-hansard-tribute-1235600511/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post 777-HP Ram Rumble Bee SRT Hellcat Street Truck Starts Just Under $100K 
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Frontier’s Q2 Shows an Ultra-Low-Cost Carrier Can Raise Fares Too
+### 1. Europe’s Fires Haven’t Stopped Tourism Yet, But EU Officials Warn Risk Could Spread
+
+[原文] Wildfires in France and Spain forced evacuations near popular tourist destinations like Bordeaux and Madrid. EU officials say risks could spread to other parts of the continent.
+
+📎 [阅读原文](https://skift.com/2026/07/29/europe-fires-impact-tourism-france-spain/) — *Skift*
+
+### 2. Frontier’s Q2 Shows an Ultra-Low-Cost Carrier Can Raise Fares Too
 
 [原文] Frontier Airlines saw record revenue in the second quarter on higher airfares and a readjustment in capacity following Spirit’s liquidation.
 
 📎 [阅读原文](https://skift.com/2026/07/29/frontiers-q2-shows-an-ultra-low-cost-carrier-can-raise-fares-too/) — *Skift*
 
-### 2. Europe’s Airline Supergroups Brace for a Crucial Earnings Week
+### 3. Europe’s Airline Supergroups Brace for a Crucial Earnings Week
 
 [原文] Before the Iran war, all three of Europe's largest legacy players enjoyed decent profits. A costlier second half of the year will test how much of that holds.
 
 📎 [阅读原文](https://skift.com/2026/07/29/europes-airline-supergroups-brace-for-a-crucial-earnings-week/) — *Skift*
 
-### 3. Sustainability Doesn’t Sell Itself — Sell It as an Experience Instead
+### 4. Sustainability Doesn’t Sell Itself — Sell It as an Experience Instead
 
 [原文] Experience premiums are bankable; sustainability premiums are not. Both poll more than 70% on the question of whether they matter to travelers, but only one shows up in wallet share.
 
 📎 [阅读原文](https://skift.com/2026/07/29/sustainability-doesnt-sell-itself-sell-it-as-an-experience-instead/) — *Skift*
 
-### 4. Mount Olympus Is Finally a UNESCO World Heritage Site. Managing a Tourism Surge Is Its Next Hurdle
+### 5. Mount Olympus Is Finally a UNESCO World Heritage Site. Managing a Tourism Surge Is Its Next Hurdle
 
 [原文] After a 12-year campaign, Mount Olympus and its wider area has been inscribed as a UNESCO World Heritage Site. Tour operators welcome the designation as a boost to tourism — and environmental protecti
 
 📎 [阅读原文](https://skift.com/2026/07/29/mount-olympus-is-finally-a-unesco-world-heritage-site-managing-a-tourism-surge-is-its-next-hurdle/) — *Skift*
-
-### 5. Who Owns Travel: The Sovereign Wealth Map of 2026
-
-[原文] We mapped who owns travel's physical layer in 2026 and it came back sovereign, but the money is not as patient as it used to be, and after the Saudi-UAE rift, not as unified either.
-
-📎 [阅读原文](https://skift.com/2026/07/29/who-owns-travel-the-sovereign-wealth-map-of-2026/) — *Skift*
 
 ---
 
