@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月30日** | 生成时间: 2026-07-30 10:39
+**2026年07月30日** | 生成时间: 2026-07-30 16:32
 
 ---
 
@@ -16,23 +16,23 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Saudi Arabia's dilemma as it tries to stay out of US-Iran war
+### 1. US launches 'heavy' strikes on Iran after attempted attack on American troops
+
+[原文] After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Saudi Arabia's dilemma as it tries to stay out of US-Iran war
 
 [原文] The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Three Greek firefighters die as wildfires threaten parts of southern Europe
+### 3. Three Greek firefighters die as wildfires threaten parts of southern Europe
 
 [原文] Gale-force winds on Crete have whipped up flames prompting the evacuation of several villages, as parts of the continent continue to tackle fires.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 3. Zendaya on working with Tom Holland in Spider-Man: ‘When you’re best friends it’s easy’
-
-[原文] The couple walked the white carpet at the London premiere of their latest film, Spiderman: Brand New Day.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 4. 'It's our home, it's our forest': BBC speaks to locals fighting France wildfire
 
@@ -40,11 +40,11 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Salman Rushdie attacker convicted of terror offences
+### 5. Veteran Ugandan opposition leader collapses in court and in ICU, his wife says
 
-[原文] Hadi Matar, 28, was convicted of attempting to help Hezbollah by attacking the British-Indian author.
+[原文] The 70 year old has been in detention since November 2024 and faces treason charges, which he denies.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c0m78xl1k2po?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Zuckerberg lays out Meta's AI capacity dilemma: What to sell vs. what to keep
+### 1. Iran says it will 'punish the aggressor today' after 'heavy wave' of U.S. strikes
 
-[原文] For investors anxious to hear more about Meta's plans to make money from its big AI spending, Mark Zuckerberg said there's a trade-off.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/29/zuckerberg-metas-ai-capacity-dilemma-what-to-sell-vs-what-to-keep.html) — *CNBC*
-
-### 2. U.S. strikes Iran after surprise missile attack, dashing hopes of de-escalation
-
-[原文] The U.S. forces began launching strikes against Iran Wednesday stateside, plunging the two sides back into open conflict after a days-long pause.
+[原文] Iran's Islamic Revolutionary Guard Corps threatened further escalation on Thursday after a wave of retaliatory U.S. strikes on the country overnight.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/30/us-iran-war-hormuz-centcom-trump-.html) — *CNBC*
 
-### 3. Microsoft jumps 8% as it boosts capital spending plans, citing demand
-
-[原文] Microsoft sees positive free cash flow for the new fiscal year as it changes accounting for data centers and office buildings.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/29/microsoft-msft-q4-earnings-report-2026.html) — *CNBC*
-
-### 4. Analysis: Fed Chairman Warsh's credibility in question after leaving interest rates unchanged
+### 2. Analysis: Fed Chairman Warsh's credibility in question after leaving interest rates unchanged
 
 [原文] The Fed held interest rates steady, but long-term Treasury yields jumped. Investors are questioning whether he will act forcefully enough on inflation.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/29/kevin-warsh-fed-treasury-yields-inflation-credibility-interest-rates.html) — *CNBC*
 
-### 5. Todd Blanche AG nomination vote by Senate Judiciary postponed amid Trump-IRS settlement concerns
+### 3. Jeep maker Stellantis swings to profit on rising demand in North America; shares fall 5%
 
-[原文] Sen. John Cornyn, R-Texas, says the DOJ has failed to satisfy his concerns about a deal to shield President Donald Trump and others from IRS tax audits.
+[原文] Auto giant Stellantis on Thursday swung to profit in the second quarter, boosted by rising demand in North America.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/29/todd-blanche-attorney-general-trump-irs-audit-cornyn.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/30/stellantis-q2-earnings-autos-jeep.html) — *CNBC*
+
+### 4. The Strait of Hormuz is just one trade chokepoint facing a new era of maritime warfare
+
+[原文] Attacks near the Strait of Hormuz, Red Sea and Black Sea are pushing shipowners to reroute cargo and rethink global trade risks.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/30/strait-hormuz-drone-shipping-risks.html) — *CNBC*
+
+### 5. Shell posts best quarterly profit in four years as Iran war boosts oil and gas prices
+
+[原文] The bumper result comes as energy majors receive a profit boost from soaring fossil fuel prices amid the Iran war.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/30/shell-2q-earnings-iran-war-oil.html) — *CNBC*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Alleged assaults and Falklands banner - Argentina face Fifa charges
+### 1. Manager Howe to leave Newcastle with immediate effect
 
-[原文] Fifa opens disciplinary proceedings against Argentina over their behaviour after their World Cup final loss to Spain and throughout the tournament.
+[原文] Newcastle manager Eddie Howe is set to leave the club with immediate effect, sources tell BBC Sport.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cp3rkwgy6y7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c5yd23l95vgo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Fleming expected to be named England Test coach
+### 2. Four pointers to most open Premier League title race in years
 
-[原文] Former New Zealand captain Stephen Fleming is expected to be appointed as England Test coach after the sacking of Brendon McCullum.
+[原文] Three of the Premier League's "big six" have new managers, the champions have a key injury issue and Tottenham and Chelsea are breaking transfer records - and that might mean a very open title race.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c5yvp474rpro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c1e163xpzz2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Why finger-clicking 'scandal' has gripped sporting world - Agnew
-
-[原文] Why the wicketkeeper in the Saltburn Cricket Club 'finger-clicking' scandal is the key voice in any investigation.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c980w3wd370o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. Boxer Abdul - grandson of dictator - disqualified for headbutt
+### 3. Boxer Abdul - grandson of dictator - disqualified for headbutt
 
 [原文] Ugandan boxer Aziz Abdul - the grandson of dictator Idi Amin - was disqualified from his fight at the Commonwealth Games after appearing to headbutt his English opponent.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/articles/czxewy7zl46o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. 'Change is inevitable' - Liverpool CEO on FSG, Iraola and consortium talks
+### 4. Phillips' struggles are a cautionary tale for Anderson
 
-[原文] Liverpool Billy Hogan talks to BBC Sport in New York about investment, transition and why FSG aren't done yet.
+[原文] As Kalvin Phillips nears a fourth loan move away from Manchester City, what can record signing Elliot Anderson learn from his struggles at the Etihad?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c8xnvqrxv8ro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/clyl1354z3yo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 5. The phone call that made Briton an NFL trailblazer
+
+[原文] Seydou Traore is the first graduate of the London-based NFL Academy to be drafted in the NFL. This is how he beat the odds.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/american-football/articles/c4gd01l443wo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Ben Affleck Wins $1 Million Prize on ‘Who Wants to Be a Millionaire,’ One Year After Matt Damon Did the Same
+### 1. ‘Balcanica,’ Starring Matilda De Angelis, Picked Up by M-Appeal Ahead of Venice World Premiere (EXCLUSIVE)
 
-[原文] SPOILER ALERT: This story contains spoilers for Season 5, Episode 2 of &#8220;Who Wants to Be a Millionaire,&#8221; which aired on ABC at 8 p.m. ET. Ben Affleck has joined the pantheon of celebrity wi
+[原文] Berlin-based sales outfit M-Appeal has picked up international sales rights to Nicola Sorcinelli&#8217;s “Balcanica,” starring Matilda De Angelis, which will have its world premiere in competition at 
 
-📎 [阅读原文](https://variety.com/2026/tv/news/ben-affleck-wins-1-million-who-wants-to-be-a-millionaire-1236823747/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/m-appeal-balcanica-matilda-de-angelis-venice-1236824007/) — *Variety*
 
-### 2. Supernatural Reality Competition Korean Series ‘House of Fates’ Greenlit as ‘Battle of Fates’ Spinoff at Disney+
+### 2. Mubi to Release ‘La Mesías,’ From ‘La Bola Negra’ Cannes Best Director Winners, in the U.K., Germany, Canada and Beyond (EXCLUSIVE)
 
-[原文] Disney+ has greenlit &#8220;House of Fates,&#8221; a spinoff of the record-breaking Korean competition series &#8220;Battle of Fates,&#8221; from the original show&#8217;s producer and writer. The new
+[原文] “La Mesías,” the multi-prized series created by Javier Ambrossi and Javier Calvo, behind the Cannes best-director winning “La bola negra,” will be released by Mubi in U.K., Canada, Turkey, the Netherl
 
-📎 [阅读原文](https://variety.com/2026/tv/news/supernatural-reality-competition-korean-series-house-of-fates-disney-1236823264/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/global/mubi-to-release-la-mesias-from-la-bola-negra-directors-1236823729/) — *Variety*
 
-### 3. Grammy Chief ‘Saddened to Hear’ That BTS Won’t Submit for 2027 Awards
+### 3. Busan’s Asian Project Market Unveils 30 Selections for 2026 Edition
 
-[原文] Grammy CEO Harvey Mason jr. has issued a statement in response to BTS’ decision not to submit for the 2027 awards, which the K-Pop superstars announced on Wednesday, in an effort to clarify that the l
+[原文] Busan&#8217;s Asian Project Market (APM) has unveiled the 30 feature projects selected for its 2026 edition. APM set a new all-time submissions record for the third consecutive year, receiving 604 ent
 
-📎 [阅读原文](https://variety.com/2026/music/news/grammy-chief-saddened-bts-wont-submit-for-2027-awards-1236823891/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/markets-festivals/busans-asian-project-market-2026-selections-1236824004/) — *Variety*
 
-### 4. AMC Theatres Chief Adam Aron Pushes for Paramount Warner Bros. Merger, Says ‘Thanks, But No Thanks’ to State AG’s Blocking Deal
+### 4. Thanh Hang, Hong Anh’s Vietnamese Period Drama ‘Madame in Saigon’ Lands North American Rights Deal With Reel Citrus, Live On (EXCLUSIVE)
 
-[原文] Of all the great cinematic narrative arcs, there’s something special about the comeback. Think &#8220;Rocky,&#8221; &#8220;The Shawshank Redemption,&#8221; &#8220;The Natural.&#8221; A much-maligned o
+[原文] Reel Citrus has acquired North American rights to the Vietnamese period drama &#8220;Mesdames Thanh Sắc,&#8221; which it will release as &#8220;Madame in Saigon,&#8221; through a partnership with Ho C
 
-📎 [阅读原文](https://variety.com/2026/biz/news/amc-theatres-adam-aron-paramount-warner-bros-merger-1236823859/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/thanh-hang-hong-anh-madame-in-saigon-north-american-deal-1236823999/) — *Variety*
 
-### 5. Andrew Garfield on Amazon Dropping ‘Artificial’ and Wanting to Meet Sam Altman (EXCLUSIVE)
+### 5. Joyce Carol Oates Defends ‘The Odyssey’ and Slams Translator for Scathing Review: ‘Speaks in the Crude Language of MAGA Folks’
 
-[原文] “Artificial” star Andrew Garfield is weighing on Amazon MGM Studios’ decision to drop the Luca Guadagnino-directed film about Sam Altman and OpenAI. “I was and I wasn’t [surprised],” the Oscar winner 
+[原文] Author Joyce Carol Oates came to the defense of Christopher Nolan’s “The Odyssey” after translator Emily Wilson wrote a viral review attacking the film. “Rather than disagreeing with interpretations o
 
-📎 [阅读原文](https://variety.com/2026/film/columns/andrew-garfield-amazon-artificial-sam-altman-1236823821/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/joyce-carol-oates-the-odyssey-slams-translator-review-1236823922/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Xbox CEO Asha Sharma Gives Optimistic Outlook Despite Grim Fiscal Earnings Report
+### 1. The Defiant is a Story-Driven Shooter that Explores a Rarely Seen Side of WW2 | IGN Preview
+
+[原文] Hands-on impressions of this gritty new singleplayer shooter set during the Second Sino-Japanese War.
+
+📎 [阅读原文](https://www.ign.com/articles/the-defiant-is-a-story-driven-shooter-that-explores-a-rarely-seen-side-of-ww2-ign-preview) — *IGN*
+
+### 2. Project Motor Racing Adds Free Holden Commodore, PC Triple-Screen Support in 2.1 Update
+
+[原文] New, free V8 Supercars DLC pack launches alongside a “significant new update” for Project Motor Racing, which includes a total rebuild of the handling model for the GT3 and GT4 categories.
+
+📎 [阅读原文](https://www.ign.com/articles/project-motor-racing-adds-free-holden-commodore-pc-triple-screen-support-in-21-update) — *IGN*
+
+### 3. Xbox CEO Asha Sharma Gives Optimistic Outlook Despite Grim Fiscal Earnings Report
 
 [原文] Xbox CEO Asha Sharma responded to the company’s Q4 2026 fiscal report, which showed a continued decline in earnings for both content and hardware.
 
 📎 [阅读原文](https://www.ign.com/articles/xbox-ceo-asha-sharma-gives-optimistic-outlook-despite-grim-fiscal-earnings-report) — *IGN*
 
-### 2. The $20 AstroAI S8 Cordless Jump Starter Is an Inexpensive, Yet Essential Addition to Your Car's Emergency Kit
+### 4. The $20 AstroAI S8 Cordless Jump Starter Is an Inexpensive, Yet Essential Addition to Your Car's Emergency Kit
 
 [原文] A more convenient alternative to traditional jumper cables.
 
 📎 [阅读原文](https://www.ign.com/articles/astroai-s8-cordless-car-jump-starter-deal-july-2026) — *IGN*
 
-### 3. Battlefield 6's Record-Breaking Success Earns EA CEO $38 Million Payday, But Laid-Off Devs Aren't Around to Celebrate
+### 5. Battlefield 6's Record-Breaking Success Earns EA CEO $38 Million Payday, But Laid-Off Devs Aren't Around to Celebrate
 
 [原文] EA’s CEO got an $8 million raise thanks to how well Battlefield 6 performed — four months after the devs responsible for making the game got laid off.
 
 📎 [阅读原文](https://www.ign.com/articles/battlefield-6s-record-breaking-success-earns-ea-ceo-38-million-payday-but-laid-off-devs-arent-around-to-celebrate) — *IGN*
-
-### 4. HP's Flagship OMEN 45L RTX 5070 Ti Gaming PC With 32GB of DDR5 RAM Drops to $1,999
-
-[原文] Will run all of your games in 4K with ease.
-
-📎 [阅读原文](https://www.ign.com/articles/hp-omen-45l-rtx-5070-ti-gaming-pc-deal-july-2026) — *IGN*
-
-### 5. The 27" LG UltraGear 280Hz Gaming Monitor Featuring Tandem OLED Tech Is on Sale Today for $399.99
-
-[原文] Tandem OLEDs are brighter and less prone to burn-in than previous generation OLED panels.
-
-📎 [阅读原文](https://www.ign.com/articles/lg-ultragear-gaming-monitor-deal-with-tandem-oled) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post Spied: Ferrari Isn&#8217;t Done With V12 Coupes Yet appeared first on T
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. It’s official: Data centers are slowing America’s shift away from coal
+### 1. 4 things to know about cyclospora and climate change
+
+暂无摘要。
+
+📎 [阅读原文](https://grist.org/accountability/4-things-to-know-about-cyclospora-and-climate-change/) — *Grist*
+
+### 2. It’s official: Data centers are slowing America’s shift away from coal
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/energy/data-centers-electricity-power-coal-emissions-climate-report/) — *Grist*
 
-### 2. The EU might weaken its landmark climate law — the ‘most impactful’ in the world
+### 3. The EU might weaken its landmark climate law — the ‘most impactful’ in the world
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/international/the-eu-might-weaken-its-landmark-climate-law-the-most-impactful-in-the-world/) — *Grist*
 
-### 3. Is it getting too hot for summer school?
+### 4. Is it getting too hot for summer school?
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/extreme-heat/is-it-getting-too-hot-for-summer-school/) — *Grist*
 
-### 4. China’s solar industry is losing money. The country is doubling down anyway.
+### 5. China’s solar industry is losing money. The country is doubling down anyway.
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/energy/chinas-solar-industry-is-losing-money-the-country-is-doubling-down-anyway/) — *Grist*
-
-### 5. Inside the ‘America First’ makeover of a global hunger program
-
-暂无摘要。
-
-📎 [阅读原文](https://grist.org/food-and-agriculture/inside-america-first-makeover-of-usaid-global-hunger-program/) — *Grist*
 
 ---
 
@@ -439,35 +439,35 @@ The post Spied: Ferrari Isn&#8217;t Done With V12 Coupes Yet appeared first on T
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Tame Impala and Jennie Perform Their Hit ‘Dracula’ Together for First Time Ever
+### 1. Shaboozey Taps Ciara Miller for ‘Cowgirl’ Performance on ‘Fallon’
+
+[原文] The country singer's new album, The Outlaw Cherie Lee &#38; Other Western Tales, is out Friday
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/shaboozey-ciara-miller-cowgirl-performance-fallon-1235600827/) — *Rolling Stone*
+
+### 2. Singer Linda Perhacs ‘Found Safely’ After Being Reported Missing
+
+[原文] The 82-year-old musician's former manager thanked the community for helping to "amplify this effort by sharing information, reaching out with support, and expressing genuine care for Linda's well-bein
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/missing-singer-linda-perhacs-found-and-safe-1235600822/) — *Rolling Stone*
+
+### 3. Tame Impala and Jennie Perform Their Hit ‘Dracula’ Together for First Time Ever
 
 [原文] The singer joined frontman Kevin Parker onstage for Tame Impala’s show at Boston's TD Garden
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/tame-impala-jennie-perform-dracula-boston-1235597315/) — *Rolling Stone*
 
-### 2. Grammys CEO Defends New Asian Pop Category After BTS Says They Won’t Participate in 2027 Awards
+### 4. Grammys CEO Defends New Asian Pop Category After BTS Says They Won’t Participate in 2027 Awards
 
 [原文] "I am saddened to hear that BTS has chosen not to participate in the Grammy Awards process this year," said Grammy CEO Harvey Mason jr.
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/bts-grammys-arirang-wont-submit-2027-awards-ceo-responds-1235600777/) — *Rolling Stone*
 
-### 3. Kanye West Settles Sexual Assault and Wrongful Termination Lawsuit With Ex-Staffer
+### 5. Kanye West Settles Sexual Assault and Wrongful Termination Lawsuit With Ex-Staffer
 
 [原文] Lauren Pisciotta, West's former assistant, accused the artist of drugging and sexually assaulting her at a Sean Combs studio session
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/kanye-west-settles-sexual-assault-lawsuit-ex-staffer-1235600754/) — *Rolling Stone*
-
-### 4. ‘An Angelic Presence’: Bruce Springsteen, Bono, Wilco’s Nels Cline Pay Tribute to Glen Hansard
-
-[原文] Finneas, Cat Power, Rachel Zegler, Lin-Manuel Miranda, and Warren Ellis remember the Irish musician who died Wednesday
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/glen-hansard-death-tributes-reactions-artists-celebrities-1235600528/) — *Rolling Stone*
-
-### 5. Bono Remembers ‘Voice of the Streets’ Glen Hansard
-
-[原文] U2 frontman often participated in the Christmas Eve Busk, which Hansard organized in Dublin
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/bono-glen-hansard-tribute-1235600511/) — *Rolling Stone*
 
 ---
 
