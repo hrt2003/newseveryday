@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月31日** | 生成时间: 2026-07-31 11:21
+**2026年07月31日** | 生成时间: 2026-07-31 16:54
 
 ---
 
@@ -22,29 +22,29 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Spain sending troops as thousands enter enclave of Ceuta from Morocco
+### 2. If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war
 
-[原文] At least 15 people drown as migrants try to swim to Spanish territory amid scenes of chaos at the border.
+[原文] The plan - if successful - potentially removes the most significant obstacle to advancing the Trump-backed peace initiative in Gaza.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Nirmal Purja among 10 climbers feared missing after avalanche
+### 3. About 49,000 migrants enter Spanish enclave of Ceuta, officials say
 
-[原文] An American, a Chinese national, an Omani and five Nepalis are said to be part of the group feared missing in Pakistan.
+[原文] This comes after thousands of migrants were reported to have illegally crossed into the territory on Thursday and Friday.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Uefa to boycott World Cups if Fifa plans approved
+### 4. AC Milan and Italy great Baresi dies aged 66
 
-[原文] Uefa says "the World Cup is not for sale" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposal
+[原文] AC Milan and Italy great Franco Baresi has died at the age of 66, the Italian club announces.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Anthropic says Claude AI hacked three firms during cyber tests
+### 5. UK rapper Yung Filly found not guilty of raping woman after Australian show
 
-[原文] It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks.
+[原文] The YouTuber has been found guilty for two counts of assault over the 2024 incident in Perth.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Amazon hikes 2026 capex to $220 billion due to higher memory costs
+### 1. Apple drops 7%, Amazon surges 12% as investors pick AI winners after earnings
+
+[原文] Shares of Amazon jumped sharply in premarket trading on Friday while Apple dropped as investors digest earnings.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/31/apple-aapl-amazon-amzn-stock-today.html) — *CNBC*
+
+### 2. Iran targets strategic U.S. assets in Kuwait, Bahrain after Egypt drone attack
+
+[原文] Iran's army said it launched attacks on strategic U.S. assets and military bases in Kuwait and Bahrain.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/31/us-iran-war-trump-hormuz.html) — *CNBC*
+
+### 3. Oil prices ease as recovering Hormuz Strait traffic tempers war premium
+
+[原文] Commonwealth Bank of Australia said in a note on Friday that stronger oil flows through the Strait of Hormuz had eased market concerns after U.S.-Iran strikes earlier this week.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/31/oil-prices-today-brent-wti-hormuz-trump-iran-.html) — *CNBC*
+
+### 4. Amazon hikes 2026 capex to $220 billion due to higher memory costs
 
 [原文] AWS sales expanded 37% year over year, which trounced analysts' expectations for 31% growth.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/30/amazon-amzn-q2-earnings-report-2026.html) — *CNBC*
 
-### 2. CXMT's blockbuster debut in Shanghai sets stage for next test against global memory giants
+### 5. Deadly storms and a global supply squeeze are sending copper prices soaring
 
-暂无摘要。
+[原文] Deadly storms in Chile have disrupted mining operations, further straining supply and potentially driving prices higher, strategists say.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/31/cxmts-sk-hynix-samsung-micron-memory-chip.html) — *CNBC*
-
-### 3. China’s U.S.-bound shipments fall in July after brief recovery, survey shows
-
-[原文] The latest China Beige Book study found factory activity decelerated in July.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/30/china-us-exports-drop.html) — *CNBC*
-
-### 4. Tim Cook sees Apple's hybrid AI strategy as a 'competitive weapon'
-
-[原文] Ahead of the launch of Siri AI, Apple's outgoing CEO Tim Cook said the company will charge for artificial intelligence through iCloud.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/30/tim-cook-sees-apples-hybrid-ai-strategy-as-a-competitive-weapon-.html) — *CNBC*
-
-### 5. China's factory activity unexpectedly contracts in July as export rush fades
-
-[原文] China's factory activity unexpectedly contracted in July, as the export rush that powered a second-quarter rebound began to unwind.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/31/china-pmi-factory-activity-economic-growth-exports-.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/31/copper-prices-chile-storms-mines-ai.html) — *CNBC*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Is Infantino finished? Could Uefa boycott World Cup? What happens now?
+### 1. Asian confederation joins Uefa and Concacaf in opposing Fifa plan
+
+[原文] The Asian Football Confederation (AFC) says it "stands in solidarity" with Uefa and Concacaf in opposition to Fifa's proposal to sell stakes in its competitions to private investors.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ce345l6kg6ro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. AC Milan and Italy great Baresi dies aged 66
+
+[原文] AC Milan and Italy great Franco Baresi has died at the age of 66, the Italian club announces.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. Is Infantino finished? Could Uefa boycott World Cup? What happens now?
 
 [原文] It's been a seismic 48 hours for football after Uefa threatened to boycott the World Cup and Concacaf rejected Gianni Infantino's funding plan - what happens now, and can Fifa's president survive?
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c9984d9x1eyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Uefa to boycott World Cups if Fifa plans approved
+### 4. De Zerbi's 'ultra' roots and the Brescia connection at Spurs
 
-[原文] Uefa says "the World Cup is not for sale" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposal
+[原文] Roberto de Zerbi says he was born an ultra, raised on the Brescia curva alongside his father - and he has carried those roots to north London.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c1j15e0p17zo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Challenging times ahead for Newcastle - Shearer
+### 5. The Premier League clubs fighting a World Cup hangover
 
-[原文] MOTD pundit and Newcastle United legend Alan Shearer explains why he is worried about what will happen next at his old club after the departure of manager Eddie Howe.
+[原文] Which Premier League clubs have carried the biggest World Cup workload?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cd0xvpmny55o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. England captaincy could be what Root needs - Vaughan
-
-[原文] Former skipper Michael Vaughan says the England Test captaincy could be "exactly what Joe Root needs" after the 35-year-old is appointed to the role for a second time.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/ckg357xm0jlo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Howe going as spending rules bite - troubles for Newcastle's Saudi owners
-
-[原文] Newcastle United wanted to become one of the world's top clubs under their Saudi owners - but Eddie Howe's decision to leave is a sign of the troubles they are facing.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c78g4jn43zko?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c87n3wydzjzo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘Spider-Man: Brand New Day’ Credits Scene Explained: Will Tom Holland Return in ‘Avengers: Doomsday’ or ‘Secret Wars’?
+### 1. Element Pictures Names Former Sky and HBO Publicist Chris Duggan as First Head of Communications and Marketing (EXCLUSIVE)
+
+[原文] Element Pictures, the powerhouse Irish film and TV production company and awards season regular, has appointed its first in-house head of communications and marketing. Seasoned publicity veteran Chris
+
+📎 [阅读原文](https://variety.com/2026/film/global/element-pictures-chris-duggan-communications-marketing-head-1236824038/) — *Variety*
+
+### 2. ITV Sees ‘Solid’ Results in First Half of 2026, Reports $26 Million Loss Due to Fast Food Advertising Regulations
+
+[原文] ITV has unveiled “solid” if underwhelming results for the first half of 2026, with a 2% uplift across its major profit centers. Total group revenue stayed steady at £1.9 billion ($2.5 billion). These 
+
+📎 [阅读原文](https://variety.com/2026/tv/global/itv-half-year-results-2026-solid-2-percent-1236824882/) — *Variety*
+
+### 3. Ariana Grande’s ‘Petal’ Introduces an Angry and Angular Ari: Album Review
+
+[原文] On the surface, Ariana Grande’s “Petal” is a sister album to its predecessor, 2024’s “Eternal Sunshine” — it was made with the same two collaborators, Ilya Salmanzadeh and Max Martin, and it also was 
+
+📎 [阅读原文](https://variety.com/2026/music/reviews/ariana-grande-petal-angry-ari-album-review-1236824838/) — *Variety*
+
+### 4. Sony Pictures Revenue Drops 13% in June Quarter, Music Segment Sales Jump 21%
+
+[原文] Sony Pictures Entertainment posted a sales decline for the June 2026 quarter, offset by growth at Crunchyroll, while Sony&#8217;s music segment saw revenue increase 21%. The PlayStation games unit had
+
+📎 [阅读原文](https://variety.com/2026/film/news/sony-pictures-earnings-june-2026-music-playstation-sales-1236824839/) — *Variety*
+
+### 5. ‘Spider-Man: Brand New Day’ Credits Scene Explained: Will Tom Holland Return in ‘Avengers: Doomsday’ or ‘Secret Wars’?
 
 [原文] SPOILER ALERT: This article contains major spoilers for &#8220;Spider-Man: Brand New Day,&#8221; now playing in theaters. Where in the world is Spider-Man going next? After saving New York City in &#8
 
 📎 [阅读原文](https://variety.com/2026/film/news/spider-man-brand-new-day-credits-avengers-doomsday-secret-wars-1236821075/) — *Variety*
-
-### 2. ‘Stuart Fails to Save the Universe’ Producers on Episode 2’s Surprise Kaley Cuoco Cameo As an Alternate Penny
-
-[原文] SPOILER ALERT: This story contains spoilers from “Stuart Fails to Save the Universe” Season 1 Episode 2, now streaming on HBO Max. “Stuart Fails to Save the Universe” Episode 2 was chock full of cameo
-
-📎 [阅读原文](https://variety.com/2026/tv/news/stuart-fails-to-save-the-universe-kaley-cuoco-cameo-how-1236823001/) — *Variety*
-
-### 3. ‘Spider-Man: Brand New Day’: Sadie Sink Is [SPOILER]. How Her Role Sets Up Marvel’s Next Reboot
-
-[原文] SPOILER ALERT: This article contains major spoilers for &#8220;Spider-Man: Brand New Day,&#8217; now playing in theaters. After months of speculation about who Sadie Sink is playing in &#8220;Spider-M
-
-📎 [阅读原文](https://variety.com/2026/film/news/sadie-sink-jean-grey-spider-man-brand-new-day-x-men-1236816949/) — *Variety*
-
-### 4. Boy George Drops Out of London ‘Jesus Christ Superstar’ Production Following Backlash to Pro-Israel Song
-
-[原文] Boy George has dropped out of a London production of &#8220;Jesus Christ Superstar&#8221; just days after releasing the controversial pro-Israel song &#8220;We Will Dance Again.&#8221; Paul Kemsley, G
-
-📎 [阅读原文](https://variety.com/2026/music/news/boy-george-drops-out-jesus-christ-superstar-pro-israel-song-1236824746/) — *Variety*
-
-### 5. ‘Dungeons & Dragons’ Reveals Star Wars, ‘World of Warcraft’-Themed Tabletop Roleplaying Games as Part of New ‘Universes Beyond’ Collection
-
-[原文] &#8220;Dungeons &#38; Dragons&#8221; maker Wizards of the Coast announced the upcoming launch of Star Wars and &#8220;World of Warcraft&#8221;-themed tabletop role-playing game offerings during Gen Co
-
-📎 [阅读原文](https://variety.com/2026/gaming/news/dungeons-and-dragons-star-wars-world-of-warcraft-games-1236824675/) — *Variety*
 
 ---
 
@@ -363,35 +363,35 @@ The post The Ferrari Luce Has Done It
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. These psychedelic images reveal what your weather app isn’t telling you
+### 1. Here’s what supercharged the monster wildfires in Spain and France
+
+暂无摘要。
+
+📎 [阅读原文](https://grist.org/wildfires/study-monster-wildfires-spain-france-attribution/) — *Grist*
+
+### 2. Why rice crops could be in for a weird year
+
+暂无摘要。
+
+📎 [阅读原文](https://grist.org/extreme-weather/why-rice-crops-could-be-in-for-a-weird-year/) — *Grist*
+
+### 3. Wildfire prevention has always been a challenge in the West. Hotter, drier weather is making it worse.
+
+暂无摘要。
+
+📎 [阅读原文](https://grist.org/extreme-weather/wildfires-forest-management-utah-west/) — *Grist*
+
+### 4. These psychedelic images reveal what your weather app isn’t telling you
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/extreme-heat/these-psychedelic-images-reveal-what-your-weather-app-isnt-telling-you/) — *Grist*
 
-### 2. 4 things to know about cyclospora and climate change
+### 5. 4 things to know about cyclospora and climate change
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/accountability/4-things-to-know-about-cyclospora-and-climate-change/) — *Grist*
-
-### 3. It’s official: Data centers are slowing America’s shift away from coal
-
-暂无摘要。
-
-📎 [阅读原文](https://grist.org/energy/data-centers-electricity-power-coal-emissions-climate-report/) — *Grist*
-
-### 4. The EU might weaken its landmark climate law — the ‘most impactful’ in the world
-
-暂无摘要。
-
-📎 [阅读原文](https://grist.org/international/the-eu-might-weaken-its-landmark-climate-law-the-most-impactful-in-the-world/) — *Grist*
-
-### 5. Is it getting too hot for summer school?
-
-暂无摘要。
-
-📎 [阅读原文](https://grist.org/extreme-heat/is-it-getting-too-hot-for-summer-school/) — *Grist*
 
 ---
 
@@ -439,35 +439,35 @@ The post The Ferrari Luce Has Done It
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Power Tastes So Sweet on New Jae Stephens Single ‘Sugar Trap’
+### 1. Cardi B Disses Trump on Revved Up New Single ‘Ah Ha’
+
+[原文] The song marks the rapper's first new music since her 2025 album, Am I The Drama?
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/cardi-b-ah-ha-single-donald-trump-1235601378/) — *Rolling Stone*
+
+### 2. Slayyyter Debuts Self-Directed Music Video for ‘Brand New Chanel$’
+
+[原文] The anthemic track follows the singer's recent album, Wor$t Girl in America
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/slayyyter-brand-new-chanels-music-video-single-1235601373/) — *Rolling Stone*
+
+### 3. Power Tastes So Sweet on New Jae Stephens Single ‘Sugar Trap’
 
 [原文] Later this week, Stephens will place the cherry on top of "Sugar Trap" release week with a performance at Lollapalooza
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/jae-stephens-new-single-sugar-trap-1235599353/) — *Rolling Stone*
 
-### 2. Sombr Brings Out 5 Seconds of Summer During High-Octane Lollapalooza Set
+### 4. Sombr Brings Out 5 Seconds of Summer During High-Octane Lollapalooza Set
 
 [原文] The musicians surprise performed "She Looks So Perfect" for the fest's massive crowd Thursday night
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/sombr-5-seconds-of-summer-performance-lollapalooza-2026-1235600361/) — *Rolling Stone*
 
-### 3. Boy George Drops Out of ‘Jesus Christ Superstar’ After Pro-Israel Song Release
+### 5. Boy George Drops Out of ‘Jesus Christ Superstar’ After Pro-Israel Song Release
 
 [原文] The singer's AI-assisted song, “We Will Dance Again,” minimizes Palestinian suffering and praises Israel’s military actions in Gaza
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/boy-george-drops-out-jesus-christ-superstar-musical-1235601316/) — *Rolling Stone*
-
-### 4. Travis Scott Directs Visual for ‘Odyssey’ Song ‘When I’m Home’
-
-[原文] Scott directs and stars in the new visual with James Blake and Ludwig Goransson following the release of the film’s closing song
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/travis-scott-odyssey-video-when-im-home-1235601212/) — *Rolling Stone*
-
-### 5. Barack Obama’s Summer Song List: Glen Hansard, the Strokes, Noah Kahan Lead Annual Playlist
-
-[原文] “It starts with a song Michelle and I love by Glen Hansard, a great musician who passed tragically this week,” former president wrote
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/barack-obama-summer-playlist-glen-hansard-strokes-noah-kahan-1235601040/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post The Ferrari Luce Has Done It
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. MGM Resorts Looks to Luxury and ‘Live Tourism’ Given Tourist Shortfall
+### 1. India’s Inbound Problem: With Its Marketing Budget Gutted, Government Enlists Air India and IndiGo
+
+[原文] India is compensating for shrinking marketing budgets by giving its airlines a bigger role in selling the country overseas. But this alone won't fix the structural challenges that continue to hold bac
+
+📎 [阅读原文](https://skift.com/2026/07/31/indias-inbound-problem-with-its-marketing-budget-gutted-government-enlists-air-india-and-indigo/) — *Skift*
+
+### 2. MGM Resorts Looks to Luxury and ‘Live Tourism’ Given Tourist Shortfall
 
 [原文] The visitor to Las Vegas who books a mid-priced room and buys show tickets, whether they're from Cleveland or Calgary, hasn't come back in full yet.
 
 📎 [阅读原文](https://skift.com/2026/07/30/mgm-resorts-looks-to-luxury-and-live-tourism-given-tourist-shortfall/) — *Skift*
 
-### 2. Airbnb’s Next Act: Tickets, Then a Wallet
+### 3. Airbnb’s Next Act: Tickets, Then a Wallet
 
 [原文] Airbnb spent seven years watching attractions ticketing from inside Tiqets, let Expedia buy the company, and is now hiring to build its own ticketing business.
 
 📎 [阅读原文](https://skift.com/2026/07/30/airbnbs-next-act-tickets-then-a-wallet/) — *Skift*
 
-### 3. Hyatt Pressured Over Delayed Openings as It Speeds Up Mid-Tier Buildout
+### 4. Hyatt Pressured Over Delayed Openings as It Speeds Up Mid-Tier Buildout
 
 [原文] Luxury pays Hyatt's bills, but the company needs its mid-market brands to fill in the map in smaller destinations that can't support full-service hotels. The catch: net rooms growth is proving slower 
 
 📎 [阅读原文](https://skift.com/2026/07/30/hyatt-pressured-over-delayed-openings-as-it-speeds-up-mid-tier-buildout/) — *Skift*
 
-### 4. Norwegian Cruise Line CEO Cites ‘Self-Inflicted’ Problems, Weak Outlook Into 2027
+### 5. Norwegian Cruise Line CEO Cites ‘Self-Inflicted’ Problems, Weak Outlook Into 2027
 
 [原文] Demand pressures are expected to carrying over into 2027, but CEO John Chidsey says the company’s problems are largely "self-inflicted" and fixable.
 
 📎 [阅读原文](https://skift.com/2026/07/30/norwegian-cruise-line-ceo-cites-self-inflicted-problems-weak-outlook-into-2027/) — *Skift*
-
-### 5. Accor Sets Q3 Deadline to Decide on Ennismore’s IPO, Says Stake Won’t Drop Below 51%
-
-[原文] Accor has set a decision deadline and a floor. But the numbers heading into a potential listing are moving in the wrong direction. War in the Middle East is weighing on results and complicates the tim
-
-📎 [阅读原文](https://skift.com/2026/07/30/accor-sets-q3-deadline-to-decide-on-ennismores-ipo-says-stake-wont-drop-below-51/) — *Skift*
 
 ---
 
