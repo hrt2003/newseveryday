@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月31日** | 生成时间: 2026-07-31 16:54
+**2026年07月31日** | 生成时间: 2026-07-31 22:16
 
 ---
 
@@ -16,11 +16,11 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Hamas says it has agreed to disarm after Trump announces Board of Peace plan
+### 1. About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says
 
-[原文] A senior Hamas official has told the BBC they have agreed to the Board of Peace's plan. Israel has not commented.
+[原文] The estimated number of arrivals is more than 70% of the population of the city, which is about 83,600.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 2. If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war
 
@@ -28,23 +28,23 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. About 49,000 migrants enter Spanish enclave of Ceuta, officials say
-
-[原文] This comes after thousands of migrants were reported to have illegally crossed into the territory on Thursday and Friday.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. AC Milan and Italy great Baresi dies aged 66
+### 3. AC Milan and Italy great Baresi dies aged 66
 
 [原文] AC Milan and Italy great Franco Baresi has died at the age of 66, the Italian club announces.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. UK rapper Yung Filly found not guilty of raping woman after Australian show
+### 4. Peru's ex-president has 15-year jail sentence for corruption charges overturned
 
-[原文] The YouTuber has been found guilty for two counts of assault over the 2024 incident in Perth.
+[原文] Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Fifa says 'nobody selling football' as plan continues
+
+[原文] Football's governing body Fifa plans to continue the consultation process after Uefa threatens to boycott World Cups.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Apple drops 7%, Amazon surges 12% as investors pick AI winners after earnings
+### 1. Dwindling cash and soaring memory costs: Tech's AI buildout has ballooning price tag
 
-[原文] Shares of Amazon jumped sharply in premarket trading on Friday while Apple dropped as investors digest earnings.
+[原文] Amazon, Alphabet and Tesla all reported negative cash flow in the latest quarter, while Meta's cash generation plummeted by 91%.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/31/apple-aapl-amazon-amzn-stock-today.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/31/tech-earnings-cash-memory-ai.html) — *CNBC*
 
-### 2. Iran targets strategic U.S. assets in Kuwait, Bahrain after Egypt drone attack
+### 2. Fed officials who voted to hike rates say action is needed now against inflation
 
-[原文] Iran's army said it launched attacks on strategic U.S. assets and military bases in Kuwait and Bahrain.
+[原文] Kashkari and Hammack joined Dallas Fed President Lorie Logan in dissenting against holding the Fed's key overnight borrowing rate steady.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/31/us-iran-war-trump-hormuz.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/31/fed-officials-who-voted-to-hike-rates-say-action-is-needed-now-against-inflation.html) — *CNBC*
 
-### 3. Oil prices ease as recovering Hormuz Strait traffic tempers war premium
+### 3. Democrats demand information on Trump and Lutnick families' ties to critical mineral deals
 
-[原文] Commonwealth Bank of Australia said in a note on Friday that stronger oil flows through the Strait of Hormuz had eased market concerns after U.S.-Iran strikes earlier this week.
+[原文] The senators asked the Departments of Commerce, Defense, Energy, Interior and the Export-Import Bank to preserve all records related to those deals.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/31/oil-prices-today-brent-wti-hormuz-trump-iran-.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/31/senate-democrats-trump-lutnick-critical-mineral-deals.html) — *CNBC*
 
-### 4. Amazon hikes 2026 capex to $220 billion due to higher memory costs
+### 4. Exxon and Chevron profits surge on rising oil prices due to Iran war
 
-[原文] AWS sales expanded 37% year over year, which trounced analysts' expectations for 31% growth.
+[原文] ExxonMobil and Chevron on Friday reported second-quarter profits that surged on rising oil prices due to the Iran war.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/30/amazon-amzn-q2-earnings-report-2026.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/31/exxon-xom-chevron-cvx-q2-earnings.html) — *CNBC*
 
-### 5. Deadly storms and a global supply squeeze are sending copper prices soaring
+### 5. GM to launch its own in-vehicle AI system later this year
 
-[原文] Deadly storms in Chile have disrupted mining operations, further straining supply and potentially driving prices higher, strategists say.
+[原文] General Motors plans to launch a proprietary in-vehicle artificial intelligence system that's better tailored for its customers later this year.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/31/copper-prices-chile-storms-mines-ai.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/31/gm-in-vehicle-ai-system.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Anthropic says its own AI models breached three companies during security tests
+### 1. Tesla reportedly might sell its China business ahead of a SpaceX merger
+
+[原文] Tesla had already reportedly prepped for the idea in the event that Beijing invades Taiwan.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/31/tesla-reportedly-might-sell-its-china-business-ahead-of-a-spacex-merger/) — *TechCrunch*
+
+### 2. Repeat founder Ryan Williams raises $10M seed for an AI startup for private credit managers
+
+[原文] Ellis AI announced Thursday its emergence from stealth with $10 million in seed funding.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/) — *TechCrunch*
+
+### 3. Anthropic says its own AI models breached three companies during security tests
 
 [原文] After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents
 
 📎 [阅读原文](https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/) — *TechCrunch*
 
-### 2. Apple stockpiles inventory as it braces for ‘significant supply constraints’
+### 4. Apple stockpiles inventory as it braces for ‘significant supply constraints’
 
 [原文] Apple is worried enough about supply shortages that it reported about $11.1 billion in inventory, which is almost double the $5.7 billion it reported last September.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/) — *TechCrunch*
 
-### 3. AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares
+### 5. AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares
 
 [原文] The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/) — *TechCrunch*
-
-### 4. Reddit reports a solid quarter but shows signs of AI’s impact
-
-[原文] Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/) — *TechCrunch*
-
-### 5. Investors love AI, as long as you’re a cloud host
-
-[原文] Amazon isn't slowing down on data center spending — but investors don't seem to mind.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/) — *TechCrunch*
 
 ---
 
@@ -168,29 +168,29 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Asian confederation joins Uefa and Concacaf in opposing Fifa plan
+### 1. Burnham says Infantino 'wrong man' to lead Fifa as criticism grows
 
-[原文] The Asian Football Confederation (AFC) says it "stands in solidarity" with Uefa and Concacaf in opposition to Fifa's proposal to sell stakes in its competitions to private investors.
+[原文] Prime Minister Andy Burnham says Gianni Infantino is "the wrong man" to lead Fifa as criticism grows of the controversial investment plan.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ce345l6kg6ro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. AC Milan and Italy great Baresi dies aged 66
+### 2. Chelsea fined £10m but avoid suspended points deduction
+
+[原文] Chelsea are fined £10m by the Football Association for breaching rules relating to payments to agents between 2009 and 2022.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c5ygz42gedno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. AC Milan and Italy great Baresi dies aged 66
 
 [原文] AC Milan and Italy great Franco Baresi has died at the age of 66, the Italian club announces.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Is Infantino finished? Could Uefa boycott World Cup? What happens now?
+### 4. Why women's football is first casualty of Fifa plans
 
-[原文] It's been a seismic 48 hours for football after Uefa threatened to boycott the World Cup and Concacaf rejected Gianni Infantino's funding plan - what happens now, and can Fifa's president survive?
+[原文] Fifa's president Gianni Infantino's plans will make women's football "the first casualties" according to former England defender Anita Asante.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c9984d9x1eyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. De Zerbi's 'ultra' roots and the Brescia connection at Spurs
-
-[原文] Roberto de Zerbi says he was born an ultra, raised on the Brescia curva alongside his father - and he has carried those roots to north London.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c1j15e0p17zo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cp8xzl54wyzo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ### 5. The Premier League clubs fighting a World Cup hangover
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Element Pictures Names Former Sky and HBO Publicist Chris Duggan as First Head of Communications and Marketing (EXCLUSIVE)
+### 1. Starz’s U.K.-Set Boxing Crime Drama ‘Fightland’ Is a Knockout: TV Review
 
-[原文] Element Pictures, the powerhouse Irish film and TV production company and awards season regular, has appointed its first in-house head of communications and marketing. Seasoned publicity veteran Chris
+[原文] Created by Daniel Fajemisin-Duncan and Marlon Smith and executive produced by Curtis “50 Cent” Jackson, “Fightland,” is a stimulating crime drama that puts audiences directly in the boxing arena. Set 
 
-📎 [阅读原文](https://variety.com/2026/film/global/element-pictures-chris-duggan-communications-marketing-head-1236824038/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/reviews/fightland-review-starz-50-cent-1236819899/) — *Variety*
 
-### 2. ITV Sees ‘Solid’ Results in First Half of 2026, Reports $26 Million Loss Due to Fast Food Advertising Regulations
+### 2. ‘The Odyssey’ Is Luring Tourists to the Sicilian Island That Stands In for Ithaca — and Could Generate $500 Million in Revenue
 
-[原文] ITV has unveiled “solid” if underwhelming results for the first half of 2026, with a 2% uplift across its major profit centers. Total group revenue stayed steady at £1.9 billion ($2.5 billion). These 
+[原文] Christopher Nolan’s “The Odyssey” and Italy have special ties that are generating rich returns. The Greek epic was partly shot on the island of Favignana off the west coast of Sicily — which stood in 
 
-📎 [阅读原文](https://variety.com/2026/tv/global/itv-half-year-results-2026-solid-2-percent-1236824882/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/the-odyssey-sicilian-island-favignana-ithaca-tourism-boom-1236824011/) — *Variety*
 
-### 3. Ariana Grande’s ‘Petal’ Introduces an Angry and Angular Ari: Album Review
+### 3. Suno Loses Landmark AI Lawsuit to German Performing Rights Society GEMA
 
-[原文] On the surface, Ariana Grande’s “Petal” is a sister album to its predecessor, 2024’s “Eternal Sunshine” — it was made with the same two collaborators, Ilya Salmanzadeh and Max Martin, and it also was 
+[原文] German music collection society GEMA notched another major legal victory in its campaign to rein in AI companies&#8217; use of copyrighted material on Friday, winning the case it brought against the g
 
-📎 [阅读原文](https://variety.com/2026/music/reviews/ariana-grande-petal-angry-ari-album-review-1236824838/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/digital/news/suno-loses-ai-lawsuit-gema-1236825010/) — *Variety*
 
-### 4. Sony Pictures Revenue Drops 13% in June Quarter, Music Segment Sales Jump 21%
+### 4. Irish Indie Film ‘Lemonade,’ Starring Barry Keoghan, Reveals First Images and Plot Details (EXCLUSIVE)
 
-[原文] Sony Pictures Entertainment posted a sales decline for the June 2026 quarter, offset by growth at Crunchyroll, while Sony&#8217;s music segment saw revenue increase 21%. The PlayStation games unit had
+[原文] Full details of an under-the-radar and low-budget Irish feature starring Barry Keoghan have been revealed alongside a couple of first look images from the film. &#8220;Lemonade,&#8221; written and dir
 
-📎 [阅读原文](https://variety.com/2026/film/news/sony-pictures-earnings-june-2026-music-playstation-sales-1236824839/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/irish-film-lemonade-barry-keoghan-first-images-plot-details-1236824265/) — *Variety*
 
-### 5. ‘Spider-Man: Brand New Day’ Credits Scene Explained: Will Tom Holland Return in ‘Avengers: Doomsday’ or ‘Secret Wars’?
+### 5. LISTEN: Music Fans Shrug Off Ticket Price Hikes to Keep Summer Concert Business Humming
 
-[原文] SPOILER ALERT: This article contains major spoilers for &#8220;Spider-Man: Brand New Day,&#8221; now playing in theaters. Where in the world is Spider-Man going next? After saving New York City in &#8
+[原文] The global live music business is chugging along through its busy summer season as strong as ever, defying even what has long been its biggest challenge: ticket-price sensitivity. Consumers consistent
 
-📎 [阅读原文](https://variety.com/2026/film/news/spider-man-brand-new-day-credits-avengers-doomsday-secret-wars-1236821075/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/live-music-summer-tour-luminate-report-ticket-price-1236823878/) — *Variety*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The New Dodge Charger Is YouTube’s Favorite Car to Build (or Destroy) Right Now
+### 1. A Tesla/SpaceX Merger Could Create a Big Mess in China: TDS
+
+[原文] Tesla has reportedly considered jettisoning its business in China in the event of a SpaceX merger, though the company has denied this.
+The post A Tesla/SpaceX Merger Could Create a Big Mess in China: 
+
+📎 [阅读原文](https://www.thedrive.com/news/a-tesla-spacex-merger-could-create-a-big-mess-in-china-tds) — *The Drive*
+
+### 2. 2026 Mercedes-Maybach SL680 Review: All Chill, No Thrill
+
+[原文] It's a big, soft, and luxurious convertible, which is what you'd expect from a quarter-million-dollar Maybach. Too bad it's not much fun to drive.
+The post 2026 Mercedes-Maybach SL680 Review: All Chil
+
+📎 [阅读原文](https://www.thedrive.com/news/2026-mercedes-benz-sl680-maybach-review-all-chill-no-thrill) — *The Drive*
+
+### 3. The New Dodge Charger Is YouTube’s Favorite Car to Build (or Destroy) Right Now
 
 [原文] There's a handful of YouTubers thrashing new Dodge Chargers right now, and it's no coincidence.
 The post The New Dodge Charger Is YouTube&#8217;s Favorite Car to Build (or Destroy) Right Now appeared 
 
 📎 [阅读原文](https://www.thedrive.com/news/the-new-dodge-charger-is-youtubes-favorite-car-to-build-or-destroy-right-now) — *The Drive*
 
-### 2. Flock’s CEO Admits Police Abuse ‘Is a Problem.’ Then Defends His Company
+### 4. Flock’s CEO Admits Police Abuse ‘Is a Problem.’ Then Defends His Company
 
 [原文] Flock CEO Garrett Langley told The Drive, "Any level of abuse is unacceptable" — but he stopped short of detailing what comes next.
 The post Flock&#8217;s CEO Admits Police Abuse &#8216;Is a Problem.&
 
 📎 [阅读原文](https://www.thedrive.com/news/flocks-ceo-admits-police-abuse-is-a-problem-then-defends-his-company) — *The Drive*
 
-### 3. GM’s Gimmicky Midgate Is Actually One of the Best Reasons to Buy an EV Truck
+### 5. GM’s Gimmicky Midgate Is Actually One of the Best Reasons to Buy an EV Truck
 
 [原文] It's really useful to be able to extend your truck bed into the cab, and GM's execution on the Sierra and Silverado EVs knocks it out of the park.
 The post GM&#8217;s Gimmicky Midgate Is Actually One 
 
 📎 [阅读原文](https://www.thedrive.com/news/gms-gimmicky-midgate-is-actually-one-of-the-best-reasons-to-buy-an-ev-truck) — *The Drive*
-
-### 4. Heavy-Duty Pickups Lead List of America’s Deadliest Vehicles to Other Drivers
-
-[原文] The IIHS calculated which vehicles are likeliest to result in other drivers dying in a crash, and most of the top 10 shares something in common.
-The post Heavy-Duty Pickups Lead List of America&#8217;
-
-📎 [阅读原文](https://www.thedrive.com/news/heavy-duty-pickups-lead-list-of-americas-most-deadly-vehicles) — *The Drive*
-
-### 5. The Ferrari Luce Has Done Its Job
-
-[原文] Things are looking rosy at Ferrari, with the Luce EV reaching its 2026 sales target in just two months, and the automaker raising its full-year revenue estimate. 
-The post The Ferrari Luce Has Done It
-
-📎 [阅读原文](https://www.thedrive.com/news/the-ferrari-luce-has-done-its-job) — *The Drive*
 
 ---
 
@@ -401,17 +401,17 @@ The post The Ferrari Luce Has Done It
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Reality Bites: Students Say They Face Stark Challenges After High School
+### 1. Why Would Anyone Opt for Virtual Kindergarten?
+
+[原文] As a researcher, I knew the evidence. As a father, I learned that when making decisions for your child, emotions matter as well.
+
+📎 [阅读原文](https://edsurge.com/news/why-would-anyone-opt-for-virtual-kindergarten) — *EdSurge*
+
+### 2. Reality Bites: Students Say They Face Stark Challenges After High School
 
 [原文] A new national survey finds a widening gap between classroom preparation and postgraduation life.
 
 📎 [阅读原文](https://edsurge.com/news/reality-bites-students-say-they-face-stark-challenges-after-high-school) — *EdSurge*
-
-### 2. What Should Students Still Have to Do for Themselves?
-
-[原文] Two educators grapple with the same question from opposite perspectives.
-
-📎 [阅读原文](https://edsurge.com/news/what-should-students-still-have-to-do-for-themselves) — *EdSurge*
 
 ### 3. Translating Dignity, Not Just Language
 
@@ -419,17 +419,17 @@ The post The Ferrari Luce Has Done It
 
 📎 [阅读原文](https://edsurge.com/news/translating-dignity-not-just-language) — *EdSurge*
 
-### 4. I Went from Rising Senior to Teacher. Here’s What I Learned
+### 4. What Should Students Still Have to Do for Themselves?
+
+[原文] Two educators grapple with the same question from opposite perspectives.
+
+📎 [阅读原文](https://edsurge.com/news/what-should-students-still-have-to-do-for-themselves) — *EdSurge*
+
+### 5. I Went from Rising Senior to Teacher. Here’s What I Learned
 
 [原文] A high school student creates an online class for middle schoolers — and gains perspective on teaching.
 
 📎 [阅读原文](https://edsurge.com/news/i-went-from-rising-senior-to-teacher-heres-what-i-learned) — *EdSurge*
-
-### 5. Early Childhood Education Teachers Grapple with Screen Time
-
-[原文] The AAP’s new guidance helps, but putting it into practice in classrooms remains challenging.
-
-📎 [阅读原文](https://edsurge.com/news/early-childhood-education-teachers-grapple-with-screen-time) — *EdSurge*
 
 ---
 
@@ -441,31 +441,31 @@ The post The Ferrari Luce Has Done It
 
 ### 1. Cardi B Disses Trump on Revved Up New Single ‘Ah Ha’
 
-[原文] The song marks the rapper's first new music since her 2025 album, Am I The Drama?
+[原文] The song marks the rapper’s first new music since her 2025 album, Am I The Drama?
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/cardi-b-ah-ha-single-donald-trump-1235601378/) — *Rolling Stone*
 
 ### 2. Slayyyter Debuts Self-Directed Music Video for ‘Brand New Chanel$’
 
-[原文] The anthemic track follows the singer's recent album, Wor$t Girl in America
+[原文] The anthemic track follows the singer’s recent album, Wor$t Girl in America
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/slayyyter-brand-new-chanels-music-video-single-1235601373/) — *Rolling Stone*
 
 ### 3. Power Tastes So Sweet on New Jae Stephens Single ‘Sugar Trap’
 
-[原文] Later this week, Stephens will place the cherry on top of "Sugar Trap" release week with a performance at Lollapalooza
+[原文] Later this week, Stephens will place the cherry on top of “Sugar Trap” release week with a performance at Lollapalooza
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/jae-stephens-new-single-sugar-trap-1235599353/) — *Rolling Stone*
 
 ### 4. Sombr Brings Out 5 Seconds of Summer During High-Octane Lollapalooza Set
 
-[原文] The musicians surprise performed "She Looks So Perfect" for the fest's massive crowd Thursday night
+[原文] The musicians surprise performed “She Looks So Perfect” for the fest’s massive crowd Thursday night
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/sombr-5-seconds-of-summer-performance-lollapalooza-2026-1235600361/) — *Rolling Stone*
 
 ### 5. Boy George Drops Out of ‘Jesus Christ Superstar’ After Pro-Israel Song Release
 
-[原文] The singer's AI-assisted song, “We Will Dance Again,” minimizes Palestinian suffering and praises Israel’s military actions in Gaza
+[原文] The singer's AI-assisted song, “We Will Dance Again,” praises Israel’s military actions in Gaza
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/boy-george-drops-out-jesus-christ-superstar-musical-1235601316/) — *Rolling Stone*
 
@@ -477,35 +477,35 @@ The post The Ferrari Luce Has Done It
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. India’s Inbound Problem: With Its Marketing Budget Gutted, Government Enlists Air India and IndiGo
+### 1. Permira-Backed Engine Buys Options Travel to Build Corporate Booking Tool
+
+[原文] Engine is a startup that spent a decade selling hotel rooms to businesses that never hired a travel management company for help. Now it's just bought a TMC, and plans to build the booking software it 
+
+📎 [阅读原文](https://skift.com/2026/07/31/permira-backed-engine-buys-options-travel-to-build-corporate-booking-tool/) — *Skift*
+
+### 2. Accor and Treebo Call Off Deal in India: Scoop
+
+[原文] Accor's 300-hotel target by 2030 was never going to hinge on Treebo alone, but the exit strips out the one partner that gave the joint venture genuine reach into the tier-two and tier-three towns.
+
+📎 [阅读原文](https://skift.com/2026/07/31/accor-and-treebo-call-off-deal-in-india-scoop/) — *Skift*
+
+### 3. AI Is Deciding Which Hotels Get Considered — Hospitality Revenue Leaders Need a Budget Response
+
+[原文] AI is pushing hotel discovery earlier in the traveler journey, forcing commercial leaders to rethink who owns visibility, how to measure success, and whether more budget should move upstream before de
+
+📎 [阅读原文](https://skift.com/2026/07/31/ai-driven-travel-discovery-hotel-visibility/) — *Skift*
+
+### 4. Expedia Acquired AI Trip-Planner Layla: Exclusive
+
+[原文] Is Layla substantially more advanced that the ever-increasing number of other AI trip-planners out in the wild? Hiring additional tech talent will be a benefit of this deal regardless of whether the L
+
+📎 [阅读原文](https://skift.com/2026/07/31/expedia-acquired-ai-trip-planner-layla-exclusive/) — *Skift*
+
+### 5. India’s Inbound Problem: With Its Marketing Budget Gutted, Government Enlists Air India and IndiGo
 
 [原文] India is compensating for shrinking marketing budgets by giving its airlines a bigger role in selling the country overseas. But this alone won't fix the structural challenges that continue to hold bac
 
 📎 [阅读原文](https://skift.com/2026/07/31/indias-inbound-problem-with-its-marketing-budget-gutted-government-enlists-air-india-and-indigo/) — *Skift*
-
-### 2. MGM Resorts Looks to Luxury and ‘Live Tourism’ Given Tourist Shortfall
-
-[原文] The visitor to Las Vegas who books a mid-priced room and buys show tickets, whether they're from Cleveland or Calgary, hasn't come back in full yet.
-
-📎 [阅读原文](https://skift.com/2026/07/30/mgm-resorts-looks-to-luxury-and-live-tourism-given-tourist-shortfall/) — *Skift*
-
-### 3. Airbnb’s Next Act: Tickets, Then a Wallet
-
-[原文] Airbnb spent seven years watching attractions ticketing from inside Tiqets, let Expedia buy the company, and is now hiring to build its own ticketing business.
-
-📎 [阅读原文](https://skift.com/2026/07/30/airbnbs-next-act-tickets-then-a-wallet/) — *Skift*
-
-### 4. Hyatt Pressured Over Delayed Openings as It Speeds Up Mid-Tier Buildout
-
-[原文] Luxury pays Hyatt's bills, but the company needs its mid-market brands to fill in the map in smaller destinations that can't support full-service hotels. The catch: net rooms growth is proving slower 
-
-📎 [阅读原文](https://skift.com/2026/07/30/hyatt-pressured-over-delayed-openings-as-it-speeds-up-mid-tier-buildout/) — *Skift*
-
-### 5. Norwegian Cruise Line CEO Cites ‘Self-Inflicted’ Problems, Weak Outlook Into 2027
-
-[原文] Demand pressures are expected to carrying over into 2027, but CEO John Chidsey says the company’s problems are largely "self-inflicted" and fixable.
-
-📎 [阅读原文](https://skift.com/2026/07/30/norwegian-cruise-line-ceo-cites-self-inflicted-problems-weak-outlook-into-2027/) — *Skift*
 
 ---
 
