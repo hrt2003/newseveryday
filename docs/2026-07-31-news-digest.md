@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年07月31日** | 生成时间: 2026-07-31 03:38
+**2026年07月31日** | 生成时间: 2026-07-31 11:21
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. US launches 'heavy' strikes on Iran after attempted attack on American troops
+### 1. Hamas says it has agreed to disarm after Trump announces Board of Peace plan
 
-[原文] After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks.
+[原文] A senior Hamas official has told the BBC they have agreed to the Board of Peace's plan. Israel has not commented.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Why limited war with the US may suit Iran better than peace
+### 2. Spain sending troops as thousands enter enclave of Ceuta from Morocco
 
-[原文] Iran may believe it can control its conflict carefully enough to keep pressure on the US while avoiding an all-out war.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 3. Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta
-
-[原文] The territory's leader said the influx is overwhelming resources and urged the Spanish government to intervene.
+[原文] At least 15 people drown as migrants try to swim to Spanish territory amid scenes of chaos at the border.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Missile that left crater deep inside Poland was probably Russian - Polish PM
+### 3. Nirmal Purja among 10 climbers feared missing after avalanche
 
-[原文] The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine.
+[原文] An American, a Chinese national, an Omani and five Nepalis are said to be part of the group feared missing in Pakistan.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. At least five members of same family killed in Russian missile attack, Zelensky says
+### 4. Uefa to boycott World Cups if Fifa plans approved
 
-[原文] A six-year-old girl and two boys, aged 11 and 17, were among six killed in a village near the central city of Kryvyi Rih.
+[原文] Uefa says "the World Cup is not for sale" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposal
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Anthropic says Claude AI hacked three firms during cyber tests
+
+[原文] It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. AI investor Leopold Aschenbrenner forced to unwind all public stock positions after steep losses, sources say
+### 1. Amazon hikes 2026 capex to $220 billion due to higher memory costs
 
-[原文] Leopold Aschenbrenner's hedge fund has sold all of its public stock holdings, according to people familiar with the matter.
+[原文] AWS sales expanded 37% year over year, which trounced analysts' expectations for 31% growth.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/30/amazon-amzn-q2-earnings-report-2026.html) — *CNBC*
 
-### 2. Jersey Mike's stock falls 3% in public market debut after pricing shares at $23
+### 2. CXMT's blockbuster debut in Shanghai sets stage for next test against global memory giants
 
-[原文] Jersey Mike's priced its initial public offering at $23 per share.
+暂无摘要。
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/30/jersey-mikes-ipo-jmke-starts-trading-on-the-new-york-stock-exchange.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/31/cxmts-sk-hynix-samsung-micron-memory-chip.html) — *CNBC*
 
-### 3. China’s open-weight model lead exposes America’s AI blind spot
+### 3. China’s U.S.-bound shipments fall in July after brief recovery, survey shows
 
-[原文] The future of AI may be dictated not by who builds the smartest model, but who builds the models everyone runs on. Right now, that's China.
+[原文] The latest China Beige Book study found factory activity decelerated in July.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/30/china-open-source-trump-ai.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/30/china-us-exports-drop.html) — *CNBC*
 
-### 4. Apple and Amazon report after the bell. Here's what the options market is saying
+### 4. Tim Cook sees Apple's hybrid AI strategy as a 'competitive weapon'
 
-[原文] Earnings on deck this afternoon for Apple and Amazon will likely decide if the stock market can end what’s so far been a rough week on solid footing.
+[原文] Ahead of the launch of Siri AI, Apple's outgoing CEO Tim Cook said the company will charge for artificial intelligence through iCloud.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/30/apple-and-amazon-report-after-the-bell-heres-what-the-options-market-is-saying.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/30/tim-cook-sees-apples-hybrid-ai-strategy-as-a-competitive-weapon-.html) — *CNBC*
 
-### 5. Trump says sanctions bill should include tariffs on Iran, despite 'trivial' trade with U.S.
+### 5. China's factory activity unexpectedly contracts in July as export rush fades
 
-[原文] Trump said he'd "like to see tariffs on Iran" added to a bill that would impose economic sanctions on Russia and those supporting its war against Ukraine.
+[原文] China's factory activity unexpectedly contracted in July, as the export rush that powered a second-quarter rebound began to unwind.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/30/trump-iran-tariffs-sanctions-bill.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/31/china-pmi-factory-activity-economic-growth-exports-.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI
+### 1. Anthropic says its own AI models breached three companies during security tests
 
-[原文] As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and 
+[原文] After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents
 
-📎 [阅读原文](https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/) — *TechCrunch*
 
-### 2. Florida plans to build air taxi pads using $200M intended for EV chargers
+### 2. Apple stockpiles inventory as it braces for ‘significant supply constraints’
 
-[原文] Florida wants to use federal EV charger funds to build an air taxi network connecting golf courses, luxury apartment buildings, and airports.
+[原文] Apple is worried enough about supply shortages that it reported about $11.1 billion in inventory, which is almost double the $5.7 billion it reported last September.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/30/florida-plans-to-build-air-taxi-pads-using-200m-intended-for-ev-chargers/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/) — *TechCrunch*
 
-### 3. LinkedIn adds a button to report AI-generated ‘slop’
+### 3. AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares
 
-[原文] LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool.
+[原文] The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/) — *TechCrunch*
 
-### 4. Synthetic-user startup Simile raises $200M at $2B valuation 5 months after $100M Series A
+### 4. Reddit reports a solid quarter but shows signs of AI’s impact
 
-[原文] Add another member to the fast-and-furious AI unicorn club: Simile
+[原文] Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/) — *TechCrunch*
 
-### 5. Spotify launches ‘User notes’ to let users add memories to songs
+### 5. Investors love AI, as long as you’re a cloud host
 
-[原文] Spotify says the new feature is designed to let users add personal captions to their favorite songs, such as noting why a track was added to a playlist or when they first discovered it
+[原文] Amazon isn't slowing down on data center spending — but investors don't seem to mind.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/30/spotify-launches-user-notes-to-let-users-add-memories-to-songs/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/) — *TechCrunch*
 
 ---
 
@@ -168,29 +168,29 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Uefa to boycott World Cups if Fifa plans approved
+### 1. Is Infantino finished? Could Uefa boycott World Cup? What happens now?
+
+[原文] It's been a seismic 48 hours for football after Uefa threatened to boycott the World Cup and Concacaf rejected Gianni Infantino's funding plan - what happens now, and can Fifa's president survive?
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c9984d9x1eyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. Uefa to boycott World Cups if Fifa plans approved
 
 [原文] Uefa says "the World Cup is not for sale" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposal
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Challenging times ahead for Newcastle - Shearer
+### 3. Challenging times ahead for Newcastle - Shearer
 
 [原文] MOTD pundit and Newcastle United legend Alan Shearer explains why he is worried about what will happen next at his old club after the departure of manager Eddie Howe.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cd0xvpmny55o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. England captaincy could be what Root needs - Vaughan
+### 4. England captaincy could be what Root needs - Vaughan
 
 [原文] Former skipper Michael Vaughan says the England Test captaincy could be "exactly what Joe Root needs" after the 35-year-old is appointed to the role for a second time.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/ckg357xm0jlo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. Watch: Women's Open first-round highlights
-
-[原文] Highlights of the opening day of the Women’s Open from Royal Lytham & St Annes.
-
-📎 [阅读原文](https://www.bbc.co.uk/iplayer/episode/m002zm99?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ### 5. Howe going as spending rules bite - troubles for Newcastle's Saudi owners
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘Human Centipede’ Creator Reveals Last Movie ‘The End of Tom Six’; He Filmed for Six Years While Living in Isolation With Multiple Sclerosis (EXCLUSIVE)
+### 1. ‘Spider-Man: Brand New Day’ Credits Scene Explained: Will Tom Holland Return in ‘Avengers: Doomsday’ or ‘Secret Wars’?
 
-[原文] Controversial filmmaker Tom Six is saying goodbye to his fans in a very personal way. The writer-director has announced the release of his final movie, “The End of Tom Six.” The “Human Centipede” crea
+[原文] SPOILER ALERT: This article contains major spoilers for &#8220;Spider-Man: Brand New Day,&#8221; now playing in theaters. Where in the world is Spider-Man going next? After saving New York City in &#8
 
-📎 [阅读原文](https://variety.com/2026/film/news/human-centipede-director-tom-six-ms-diagnosis-new-movie-1236824461/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/spider-man-brand-new-day-credits-avengers-doomsday-secret-wars-1236821075/) — *Variety*
 
-### 2. The Next Spider-Man Actor: Tom Holland Has a ‘Clear Vision’ For His Successor and a ‘Whole Plan’ Is Already ‘Laid Out’
+### 2. ‘Stuart Fails to Save the Universe’ Producers on Episode 2’s Surprise Kaley Cuoco Cameo As an Alternate Penny
 
-[原文] Tom Holland is swinging back into theaters this weekend as Peter Parker in &#8220;Spider-Man: Brand New Day,&#8221; but a plan is already being laid out for his replacement. The actor has been vocal i
+[原文] SPOILER ALERT: This story contains spoilers from “Stuart Fails to Save the Universe” Season 1 Episode 2, now streaming on HBO Max. “Stuart Fails to Save the Universe” Episode 2 was chock full of cameo
 
-📎 [阅读原文](https://variety.com/2026/film/news/spider-man-actors-tom-holland-successor-1236824415/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/stuart-fails-to-save-the-universe-kaley-cuoco-cameo-how-1236823001/) — *Variety*
 
-### 3. ‘Wonder Man’ Not Returning for Season 2 at Disney+ (EXCLUSIVE)
+### 3. ‘Spider-Man: Brand New Day’: Sadie Sink Is [SPOILER]. How Her Role Sets Up Marvel’s Next Reboot
 
-[原文] &#8220;Wonder Man&#8221; has been canceled at Disney+, Variety has learned exclusively. The news comes despite the fact that Disney announced a Season 2 renewal for the show back in March, roughly two
+[原文] SPOILER ALERT: This article contains major spoilers for &#8220;Spider-Man: Brand New Day,&#8217; now playing in theaters. After months of speculation about who Sadie Sink is playing in &#8220;Spider-M
 
-📎 [阅读原文](https://variety.com/2026/tv/news/wonder-man-canceled-disney-season-2-renewal-1236824259/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/sadie-sink-jean-grey-spider-man-brand-new-day-x-men-1236816949/) — *Variety*
 
-### 4. Jared Leto Documentary Director on Exposing Sexual Misconduct Allegations and the ‘Mystery’ of Why He Hasn’t Been Held Accountable
+### 4. Boy George Drops Out of London ‘Jesus Christ Superstar’ Production Following Backlash to Pro-Israel Song
 
-[原文] Just over a year after Jared Leto withstood a catalogue of sexual misconduct accusations&#160;published in AirMail, the BBC&#160;broadcast a documentary&#160;titled “Jared Leto: Hollywood’s Dark Secre
+[原文] Boy George has dropped out of a London production of &#8220;Jesus Christ Superstar&#8221; just days after releasing the controversial pro-Israel song &#8220;We Will Dance Again.&#8221; Paul Kemsley, G
 
-📎 [阅读原文](https://variety.com/2026/tv/global/jared-leto-bbc-documentary-director-allegations-1236824187/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/boy-george-drops-out-jesus-christ-superstar-pro-israel-song-1236824746/) — *Variety*
 
-### 5. Locarno Player ‘The Days Off,’ Lucila Mariani’s Dreamlike Argentine Debut, Boarded by Inwave Films (EXCLUSIVE)
+### 5. ‘Dungeons & Dragons’ Reveals Star Wars, ‘World of Warcraft’-Themed Tabletop Roleplaying Games as Part of New ‘Universes Beyond’ Collection
 
-[原文] Inwave Films, the international sales company with offices in Paris and Beijing, has acquired worldwide sales rights to “The Days Off,” the debut feature from Argentine writer-director Lucila Mariani,
+[原文] &#8220;Dungeons &#38; Dragons&#8221; maker Wizards of the Coast announced the upcoming launch of Star Wars and &#8220;World of Warcraft&#8221;-themed tabletop role-playing game offerings during Gen Co
 
-📎 [阅读原文](https://variety.com/2026/film/news/locarno-the-days-off-lucila-mariani-inwave-maravillacine-1236823137/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/gaming/news/dungeons-and-dragons-star-wars-world-of-warcraft-games-1236824675/) — *Variety*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Flock’s CEO Admits Police Abuse ‘Is a Problem.’ Then Defends His Company
+### 1. The New Dodge Charger Is YouTube’s Favorite Car to Build (or Destroy) Right Now
+
+[原文] There's a handful of YouTubers thrashing new Dodge Chargers right now, and it's no coincidence.
+The post The New Dodge Charger Is YouTube&#8217;s Favorite Car to Build (or Destroy) Right Now appeared 
+
+📎 [阅读原文](https://www.thedrive.com/news/the-new-dodge-charger-is-youtubes-favorite-car-to-build-or-destroy-right-now) — *The Drive*
+
+### 2. Flock’s CEO Admits Police Abuse ‘Is a Problem.’ Then Defends His Company
 
 [原文] Flock CEO Garrett Langley told The Drive, "Any level of abuse is unacceptable" — but he stopped short of detailing what comes next.
 The post Flock&#8217;s CEO Admits Police Abuse &#8216;Is a Problem.&
 
 📎 [阅读原文](https://www.thedrive.com/news/flocks-ceo-admits-police-abuse-is-a-problem-then-defends-his-company) — *The Drive*
 
-### 2. GM’s Gimmicky Midgate Is Actually One of the Best Reasons to Buy an EV Truck
+### 3. GM’s Gimmicky Midgate Is Actually One of the Best Reasons to Buy an EV Truck
 
 [原文] It's really useful to be able to extend your truck bed into the cab, and GM's execution on the Sierra and Silverado EVs knocks it out of the park.
 The post GM&#8217;s Gimmicky Midgate Is Actually One 
 
 📎 [阅读原文](https://www.thedrive.com/news/gms-gimmicky-midgate-is-actually-one-of-the-best-reasons-to-buy-an-ev-truck) — *The Drive*
 
-### 3. Heavy-Duty Pickups Lead List of America’s Deadliest Vehicles to Other Drivers
+### 4. Heavy-Duty Pickups Lead List of America’s Deadliest Vehicles to Other Drivers
 
 [原文] The IIHS calculated which vehicles are likeliest to result in other drivers dying in a crash, and most of the top 10 shares something in common.
 The post Heavy-Duty Pickups Lead List of America&#8217;
 
 📎 [阅读原文](https://www.thedrive.com/news/heavy-duty-pickups-lead-list-of-americas-most-deadly-vehicles) — *The Drive*
 
-### 4. The Ferrari Luce Has Done Its Job
+### 5. The Ferrari Luce Has Done Its Job
 
 [原文] Things are looking rosy at Ferrari, with the Luce EV reaching its 2026 sales target in just two months, and the automaker raising its full-year revenue estimate. 
 The post The Ferrari Luce Has Done It
 
 📎 [阅读原文](https://www.thedrive.com/news/the-ferrari-luce-has-done-its-job) — *The Drive*
-
-### 5. Americans Don’t Lease as Much as They Used To. Blame Carmakers: TDS
-
-[原文] The pandemic taught automakers and dealers what they can get away with, and that playbook has made the car leasing market a lot less attractive.
-The post Americans Don&#8217;t Lease as Much as They Us
-
-📎 [阅读原文](https://www.thedrive.com/news/americans-dont-lease-as-much-as-they-used-to-blame-carmakers-tds) — *The Drive*
 
 ---
 
@@ -439,35 +439,35 @@ The post Americans Don&#8217;t Lease as Much as They Us
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Barack Obama’s Summer Song List: Glen Hansard, the Strokes, Noah Kahan Lead Annual Playlist
+### 1. Power Tastes So Sweet on New Jae Stephens Single ‘Sugar Trap’
 
-[原文] "It starts with a song Michelle and I love by Glen Hansard, a great musician who passed tragically this week," former president wrote
+[原文] Later this week, Stephens will place the cherry on top of "Sugar Trap" release week with a performance at Lollapalooza
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/jae-stephens-new-single-sugar-trap-1235599353/) — *Rolling Stone*
+
+### 2. Sombr Brings Out 5 Seconds of Summer During High-Octane Lollapalooza Set
+
+[原文] The musicians surprise performed "She Looks So Perfect" for the fest's massive crowd Thursday night
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/sombr-5-seconds-of-summer-performance-lollapalooza-2026-1235600361/) — *Rolling Stone*
+
+### 3. Boy George Drops Out of ‘Jesus Christ Superstar’ After Pro-Israel Song Release
+
+[原文] The singer's AI-assisted song, “We Will Dance Again,” minimizes Palestinian suffering and praises Israel’s military actions in Gaza
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/boy-george-drops-out-jesus-christ-superstar-musical-1235601316/) — *Rolling Stone*
+
+### 4. Travis Scott Directs Visual for ‘Odyssey’ Song ‘When I’m Home’
+
+[原文] Scott directs and stars in the new visual with James Blake and Ludwig Goransson following the release of the film’s closing song
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/travis-scott-odyssey-video-when-im-home-1235601212/) — *Rolling Stone*
+
+### 5. Barack Obama’s Summer Song List: Glen Hansard, the Strokes, Noah Kahan Lead Annual Playlist
+
+[原文] “It starts with a song Michelle and I love by Glen Hansard, a great musician who passed tragically this week,” former president wrote
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/barack-obama-summer-playlist-glen-hansard-strokes-noah-kahan-1235601040/) — *Rolling Stone*
-
-### 2. See Glen Hansard Sing Moving, Unreleased Song at Final Performance
-
-[原文] Singer-songwriter performed at a Dublin pub hours before his death
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/glen-hansard-final-performance-unreleased-song-1235600984/) — *Rolling Stone*
-
-### 3. Watch the Grateful Dead Tear Through ‘Brown-Eyed Women’ in 1991
-
-[原文] The 6/17/1991 show at Giants Stadium is the subject of the annual ‘Grateful Dead Meet-Up At The Movies’
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/grateful-dead-brown-eyed-women-1991-1235599772/) — *Rolling Stone*
-
-### 4. See Smashing Pumpkins Bring Out ‘Brady Bunch’ Actor for ‘It’s a Sunshine Day’ Cover
-
-[原文] Two months after Billy Corgan interviewed actor Barry Williams on his podcast, the pair reunite at Lollapalooza aftershow at Chicago’s Riviera Theatre
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/smashing-pumpkins-greg-brady-bunch-actor-its-a-sunshine-day-1235600863/) — *Rolling Stone*
-
-### 5. Shaboozey Taps Ciara Miller for ‘Cowgirl’ Performance on ‘Fallon’
-
-[原文] The country singer’s new album, The Outlaw Cherie Lee &#38; Other Western Tales, is out Friday
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/shaboozey-ciara-miller-cowgirl-performance-fallon-1235600827/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post Americans Don&#8217;t Lease as Much as They Us
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Hyatt Pressured Over Delayed Openings as It Speeds Up Mid-Tier Buildout
+### 1. MGM Resorts Looks to Luxury and ‘Live Tourism’ Given Tourist Shortfall
+
+[原文] The visitor to Las Vegas who books a mid-priced room and buys show tickets, whether they're from Cleveland or Calgary, hasn't come back in full yet.
+
+📎 [阅读原文](https://skift.com/2026/07/30/mgm-resorts-looks-to-luxury-and-live-tourism-given-tourist-shortfall/) — *Skift*
+
+### 2. Airbnb’s Next Act: Tickets, Then a Wallet
+
+[原文] Airbnb spent seven years watching attractions ticketing from inside Tiqets, let Expedia buy the company, and is now hiring to build its own ticketing business.
+
+📎 [阅读原文](https://skift.com/2026/07/30/airbnbs-next-act-tickets-then-a-wallet/) — *Skift*
+
+### 3. Hyatt Pressured Over Delayed Openings as It Speeds Up Mid-Tier Buildout
 
 [原文] Luxury pays Hyatt's bills, but the company needs its mid-market brands to fill in the map in smaller destinations that can't support full-service hotels. The catch: net rooms growth is proving slower 
 
 📎 [阅读原文](https://skift.com/2026/07/30/hyatt-pressured-over-delayed-openings-as-it-speeds-up-mid-tier-buildout/) — *Skift*
 
-### 2. Norwegian Cruise Line CEO Cites ‘Self-Inflicted’ Problems, Weak Outlook Into 2027
+### 4. Norwegian Cruise Line CEO Cites ‘Self-Inflicted’ Problems, Weak Outlook Into 2027
 
 [原文] Demand pressures are expected to carrying over into 2027, but CEO John Chidsey says the company’s problems are largely "self-inflicted" and fixable.
 
 📎 [阅读原文](https://skift.com/2026/07/30/norwegian-cruise-line-ceo-cites-self-inflicted-problems-weak-outlook-into-2027/) — *Skift*
 
-### 3. Accor Sets Q3 Deadline to Decide on Ennismore’s IPO, Says Stake Won’t Drop Below 51%
+### 5. Accor Sets Q3 Deadline to Decide on Ennismore’s IPO, Says Stake Won’t Drop Below 51%
 
 [原文] Accor has set a decision deadline and a floor. But the numbers heading into a potential listing are moving in the wrong direction. War in the Middle East is weighing on results and complicates the tim
 
 📎 [阅读原文](https://skift.com/2026/07/30/accor-sets-q3-deadline-to-decide-on-ennismores-ipo-says-stake-wont-drop-below-51/) — *Skift*
-
-### 4. Two Bids for TAP Air Portugal, Two Very Different Charm Offensives
-
-[原文] Lisbon has made clear that price alone won't decide TAP's future. One bidder arrived in Portugal with a spade; the other enlisted Delta's Ed Bastian.
-
-📎 [阅读原文](https://skift.com/2026/07/30/two-bids-for-tap-air-portugal-two-very-different-charm-offensives/) — *Skift*
-
-### 5. Is Verified Identity the Missing Link in Airline Direct Booking?
-
-[原文] Airlines are investing heavily in direct bookings, loyalty programs, and more flexible offer creation. But the bigger opportunity may depend on something more basic: knowing who travelers are, what co
-
-📎 [阅读原文](https://skift.com/2026/07/30/airline-loyalty-identity-verification/) — *Skift*
 
 ---
 
