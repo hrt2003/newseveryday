@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月01日** | 生成时间: 2026-08-01 16:25
+**2026年08月01日** | 生成时间: 2026-08-01 21:35
 
 ---
 
@@ -16,17 +16,17 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Fifa scraps controversial World Cup investment plan
+### 1. Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings
 
-[原文] Football's world governing body Fifa abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni Infantino's proposal.
+[原文] Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta "shocking".
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco
+### 2. Uefa has 'lost confidence' in Infantino's Fifa leadership
 
-[原文] Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.
+[原文] The governing body of European football says Fifa president Gianni Infantino has "failed to deliver" on promises he made when elected 10 years ago.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 3. Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge
 
@@ -34,17 +34,17 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Russian strikes on Kyiv kill at least nine, Ukraine officials say
+### 4. Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says
+
+[原文] The Nepali-born climber was known for scaling the world's 14 highest peaks in just over six months in 2019.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship
 
 [原文] The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Race to rescue remaining climbers after deadly avalanche in Pakistan
-
-[原文] Poor weather has been hampering the search for seven still missing after Thursday's avalanche on Broad Peak.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. How Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days
+### 1. OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open'
 
-[原文] Leopold Aschenbrenner, a former OpenAI researcher-turned-hedge fund manager, saw a dramatic decline this week in his AI-focused fund, Situational Awareness.
+[原文] The wake-up call to the cyber industry comes as industry experts descend on Black Hat, a major cybersecurity conference.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/01/open-ai-hugging-face-hack-cyber-warnings.html) — *CNBC*
 
-### 2. As Warsh’s Fed faces pressure to act on inflation, these indicators show it’s at its lowest in years
+### 2. Tankers near Oman come under fire as Iran threatens to choke off shipping routes
 
-[原文] Trimmed mean measures are painting a different picture than the headline numbers.
+[原文] The latest attacks come amid U.S. media reports that U.S. President Donald Trump is preparing a fresh round of strikes against Iran.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/31/these-fed-alternative-indicators-show-inflation-is-at-lowest-in-years.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/01/tankers-near-oman-come-under-fire.html) — *CNBC*
 
-### 3. Iran's overlapping power centers make ending the war more complicated
+### 3. To keep growing, incoming Best Buy CEO says he first wants to go smaller
 
-[原文] Iran’s power structure complicates efforts to enforce any ceasefire with the U.S., from the Supreme Leader to the Revolutionary Guards.
+[原文] As incoming CEO Jason Bonfig prepares to take the reins, he told CNBC he's focused on expanding the company's reach and enhancing the customer experience.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/01/iran-ceasefire-power-structure.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/01/best-buy-ceo-jason-bonfig-smaller-stores.html) — *CNBC*
 
-### 4. Trump's AI executive order nears key deadline as regulation debate intensifies
+### 4. As Americans go direct with GLP-1 prescriptions, Walmart, Costco, Amazon will be big weight-loss winners
 
-[原文] OpenAI's Sam Altman and Nvidia's Jensen Huang were among tech leaders in Washington, D.C., ahead of a deadline the White House set in its AI executive order.
+[原文] As Americans are encouraged to go direct with weight-loss drug prescriptions, retail pharmacy chains are poised to win big.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/31/trump-ai-executive-order-nears-key-deadline-regulation-debate-heats-up.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/01/glp-1-prescriptions-weight-loss-walmart-costco-amazon.html) — *CNBC*
 
-### 5. Building for 131°F: Europe races to protect its infrastructure from a ‘quiet catastrophe’
+### 5. Trump appeals order that slammed his IRS lawsuit and referred his lawyer to bar
 
-[原文] A summer of weather extremes and severe infrastructure stress has prompted companies and policymakers across Europe to respond.
+[原文] Trump had sued the IRS for $10 billion over the leak of his tax information by an agency contractor.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/01/europe-extreme-heat-climate-change-55c.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/31/trump-appeals-irs-lawsuit-blanche-fund.html) — *CNBC*
 
 ---
 
@@ -168,23 +168,23 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Fifa scraps controversial World Cup investment plan
+### 1. The five dramatic days that shook Infantino and world football
 
-[原文] Football's world governing body Fifa abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni Infantino's proposal.
+[原文] BBC Sport's Simon Stone reflects on the unravelling of Gianni Infantino's plans to sell off stakes in Fifa competitions.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c8rny2p6144o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Infantino on the brink? Who might replace him if he goes?
+### 2. Uefa has 'lost confidence' in Infantino's Fifa leadership
 
-[原文] Fifa president Gianni Infantino is in the eye of a storm after scrapping his attempt to sell stakes in the World Cup. If he goes, who comes in?
+[原文] The governing body of European football says Fifa president Gianni Infantino has "failed to deliver" on promises he made when elected 10 years ago.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c998m4ve0rpo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Same start but different outlook at Rangers as McInnes era begins
+### 3. 'Sometimes he wants to leave' - De Zerbi on Richarlison's Spurs future
 
-[原文] Derek McInnes insists Rangers will improve after his team's Scottish Premiership draw at Dundee United.
+[原文] Roberto de Zerbi says Tottenham "don't know" whether Richarlison will stay or leave, as he "sometimes" wants to leave.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c04krgdvn3ro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c36djl924y4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ### 4. Intensity, smiles & Lewandowski - inside Liverpool training under Iraola
 
@@ -192,11 +192,11 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c6290e063yno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Hunter Bell eyes ambitious sweep after 800m gold in Glasgow
+### 5. Kerr v Wightman for mile gold? Or will Australians spoil home party?
 
-[原文] England's Georgia Hunter Bell eyes an ambitious sweep of gold medals in 2026 after winning the 800m Commonwealth Games title in Glasgow.
+[原文] The Commonwealth Games men's mile is infused with intrigue and history - and as the event returns in Glasgow it looks set for a compelling final.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/cj36lz1d2lno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/c4gw6z2w5xdo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. FIFA Chief Gianni Infantino on the Ropes as He Ditches Controversial $20 Billion Private Investment Plan
+### 1. Massive Attack Duo Banned From Singapore Over Palestinian Flag Display
+
+[原文] Both members of Massive Attack have been permanently barred from re-entering Singapore after unfurling a Palestinian flag during the British trip-hop group&#8217;s concert in the city-state, according
+
+📎 [阅读原文](https://variety.com/2026/music/news/massive-attack-duo-banned-singapore-palestinian-flag-1236825534/) — *Variety*
+
+### 2. ‘The Inbetweeners’ Reunion Movie in the Works at Netflix With Original Lead Cast to Return
+
+[原文] &#8220;The Inbetweeners&#8221; — the hit Brit teen comedy series from the late 2000s that spawned two successful spin-off films — is officially back. A reunion movie is now in the works at Netflix, Va
+
+📎 [阅读原文](https://variety.com/2026/film/global/the-inbetweeners-reunion-movie-netflix-original-lead-cast-1236825532/) — *Variety*
+
+### 3. FIFA Chief Gianni Infantino on the Ropes as He Ditches Controversial $20 Billion Private Investment Plan
 
 [原文] Gianni Infantino, the embattled president of soccer’s governing body FIFA, has abandoned his controversial plan to create a $20 billion company, FIFA Forward Enterprise, that would control the commerc
 
 📎 [阅读原文](https://variety.com/2026/biz/global/fifa-gianni-infantino-ditches-private-investment-plan-1236825512/) — *Variety*
 
-### 2. Tiger Shroff to Star in Viccky Jain’s VJ Frames Launch Title, Directed by Remo D’Souza, With Abhishek Banerjee, Elvish Yadav Also Set (EXCLUSIVE)
+### 4. Tiger Shroff to Star in Viccky Jain’s VJ Frames Launch Title, Directed by Remo D’Souza, With Abhishek Banerjee, Elvish Yadav Also Set (EXCLUSIVE)
 
 [原文] Indian producer and entrepreneur Viccky Jain has launched a new production banner, VJ Frames, timed to coincide with his birthday. The company&#8217;s debut project is an action franchise directed by 
 
 📎 [阅读原文](https://variety.com/2026/film/news/tiger-shroff-viccky-jain-vj-frames-1236825325/) — *Variety*
 
-### 3. Javier Bardem Politely Warned ‘Cape Fear’ Co-Star About Grabbing Her Hair During Attack Scene and Apologized in Advance: ‘I’m So Sorry, My Love’
+### 5. Javier Bardem Politely Warned ‘Cape Fear’ Co-Star About Grabbing Her Hair During Attack Scene and Apologized in Advance: ‘I’m So Sorry, My Love’
 
 [原文] In 2007, Javier Bardem delivered one of the century’s most chilling performances as Anton Chigurh in “No Country for Old Men.” Nearly two decades later, he’s proved once again he could convincingly pl
 
 📎 [阅读原文](https://variety.com/2026/tv/news/javier-bardem-cape-fear-finale-grabs-hair-lily-collias-1236825394/) — *Variety*
-
-### 4. ‘Spider-Man: Brand New Day’ Leaks Online: Millions Watched Bootleg Before It Was Taken Down
-
-[原文] While Marvel fans are expected to turn out in droves to see &#8220;Spider-Man: Brand New Day&#8221; in theaters this weekend, a high-quality bootleg of the film leaked on X, with millions of people ha
-
-📎 [阅读原文](https://variety.com/2026/film/news/spider-man-brand-new-day-leaked-high-quality-1236825389/) — *Variety*
-
-### 5. ‘The Devil’s Mouth’ Director Breaks Down His Bloody, One-Location Shark Movie, Those ‘Demanding’ Stunts and Why Kathryn Newton and Lana Condor Wanted to Switch Roles
-
-[原文] When &#8220;The Devil&#8217;s Mouth&#8221; director Jeff Wadlow met the cast of his bloody shark movie, he made one thing clear. &#8220;&#8216;Listen, this is going to be the most physically demanding
-
-📎 [阅读原文](https://variety.com/2026/film/news/devils-mouth-bloody-shark-movie-stunts-lana-condor-1236825182/) — *Variety*
 
 ---
 
@@ -363,35 +363,35 @@ The post 2026 Mercedes-Maybach SL680 Review: All Chil
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Here’s what supercharged the monster wildfires in Spain and France
+### 1. How wildfire smoke is reshaping childhood
+
+暂无摘要。
+
+📎 [阅读原文](https://grist.org/wildfires/how-wildfire-smoke-is-reshaping-childhood/) — *Grist*
+
+### 2. Here’s what supercharged the monster wildfires in Spain and France
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/wildfires/study-monster-wildfires-spain-france-attribution/) — *Grist*
 
-### 2. Why rice crops could be in for a weird year
+### 3. Why rice crops could be in for a weird year
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/extreme-weather/why-rice-crops-could-be-in-for-a-weird-year/) — *Grist*
 
-### 3. Wildfire prevention has always been a challenge in the West. Hotter, drier weather is making it worse.
+### 4. Wildfire prevention has always been a challenge in the West. Hotter, drier weather is making it worse.
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/extreme-weather/wildfires-forest-management-utah-west/) — *Grist*
 
-### 4. These psychedelic images reveal what your weather app isn’t telling you
+### 5. These psychedelic images reveal what your weather app isn’t telling you
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/extreme-heat/these-psychedelic-images-reveal-what-your-weather-app-isnt-telling-you/) — *Grist*
-
-### 5. 4 things to know about cyclospora and climate change
-
-暂无摘要。
-
-📎 [阅读原文](https://grist.org/accountability/4-things-to-know-about-cyclospora-and-climate-change/) — *Grist*
 
 ---
 
@@ -439,35 +439,35 @@ The post 2026 Mercedes-Maybach SL680 Review: All Chil
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Olivia Rodrigo and Yungblud Join Smashing Pumpkins for Nostalgia-Fueled Lollapalooza Set
+### 1. Patti Smith Meets Pope Leo XIV: ‘A Moment That Shall Forever Produce a Smile’
+
+[原文] Meeting was "a conversation between two people discovering they were old friends, sharing memories woven from words and music, dreams, visions, and hopes," Vatican undersecretary writes
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/patti-smith-pope-leo-xiv-vatican-meeting-1235602043/) — *Rolling Stone*
+
+### 2. Olivia Rodrigo and Yungblud Join Smashing Pumpkins for Nostalgia-Fueled Lollapalooza Set
 
 [原文] Billy Corgan delivered "Luna" and "Thirty-Three" with his surprise guests
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/olivia-rodrigo-yungblud-smashing-pumpkins-lollapalooza-1235601995/) — *Rolling Stone*
 
-### 2. Modest Mouse Drops Guitarist Simon O’Connor From Upcoming Tour
+### 3. Modest Mouse Drops Guitarist Simon O’Connor From Upcoming Tour
 
 [原文] Guitarist was accused of sending inappropriate messages to teenage fan on social media; Les Savy Fav's Seth Jabour enlisted to take O'Connor's place
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/modest-mouse-drops-guitarist-simon-oconnor-upcoming-tour-1235601830/) — *Rolling Stone*
 
-### 3. Yungblud Makes Triumphant Return at Lollapalooza and Rocks Out With Fan Katie
+### 4. Yungblud Makes Triumphant Return at Lollapalooza and Rocks Out With Fan Katie
 
 [原文] The musician canceled an event date earlier in the month preceding his appearance at the Chicago festival
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/yungblud-performance-lollapalooza-2026-1235600567/) — *Rolling Stone*
 
-### 4. Drake ‘Fraudulent Streams’ Case on Ice as Judge Sends Online Casino Claims to Arbitration
+### 5. Drake ‘Fraudulent Streams’ Case on Ice as Judge Sends Online Casino Claims to Arbitration
 
 [原文] A judge has paused a lawsuit claiming Drake helped inflate his music streaming numbers, saying the plaintiffs must first complete arbitration with the gaming platform named in the complaint
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/drake-adin-ross-streaming-lawsuit-stake-arbitration-1235601620/) — *Rolling Stone*
-
-### 5. How 26 Golden Retrievers Took Over Stateside
-
-[原文] And why we were totally OK with that
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/hitting-road-to-stateside-hertz-sydney-rose-arcy-drive-1235596431/) — *Rolling Stone*
 
 ---
 
@@ -529,6 +529,7 @@ The post 2026 Mercedes-Maybach SL680 Review: All Chil
 
 - **🚗 汽车**: Autocar
 - **🌱 环境**: Inside Climate News
+- **✈️ 旅游**: Nomadic Matt
 
 ---
 
