@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月01日** | 生成时间: 2026-08-01 03:39
+**2026年08月01日** | 生成时间: 2026-08-01 11:19
 
 ---
 
@@ -28,13 +28,13 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Two bodies located and search ongoing after avalanche hits Nirmal Purja's team
+### 3. Body of US climber the latest recovered after Pakistan avalanche
 
-[原文] Two bodies have been recovered from Pakistan's Broad Peak and seven spotted by drones - though their condition remains unclear.
+[原文] The bodies of two other climbers have already been recovered from the mountain, while others are still missing.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Peru's ex-president has 15-year jail sentence for corruption charges overturned
+### 4. Peru's ex-president leaves jail after 15-year jail term for corruption overturned
 
 [原文] Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.
 
@@ -60,29 +60,29 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html) — *CNBC*
 
-### 2. Trump says U.S. has 'not agreed to' grant Ukraine Patriot missile licenses
-
-[原文] President Donald Trump said the U.S. hasn't agreed to grant Ukraine licenses to produce Patriot missile systems.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/31/trump-ukraine-patriot-missile-license-russia.html) — *CNBC*
-
-### 3. As Warsh’s Fed faces pressure to act on inflation, these indicators show it’s at its lowest in years
+### 2. As Warsh’s Fed faces pressure to act on inflation, these indicators show it’s at its lowest in years
 
 [原文] Trimmed mean measures are painting a different picture than the headline numbers.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/31/these-fed-alternative-indicators-show-inflation-is-at-lowest-in-years.html) — *CNBC*
 
-### 4. Analysis: Markets heard a dovish Kevin Warsh. The Fed chairman's own words suggest a rate hike
+### 3. Trump's AI executive order nears key deadline as regulation debate intensifies
 
-[原文] Investors saw Warsh’s press conference as dovish, but a closer reading of the Fed chair's prepared remarks suggests he may be close to raising interest rates.
+[原文] OpenAI's Sam Altman and Nvidia's Jensen Huang were among tech leaders in Washington, D.C., ahead of a deadline the White House set in its AI executive order.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/31/kevin-warsh-fed-inflation-rate-hike-markets.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/31/trump-ai-executive-order-nears-key-deadline-regulation-debate-heats-up.html) — *CNBC*
 
-### 5. FIFA tests the limits of private equity in sports with World Cup subsidiary sale
+### 4. Pirro moves to drop case against Olympian, says Reflecting Pool damage caused by 'flawed installation'
 
-[原文] UEFA and Concacaf's rejection of FIFA's plan to sell a 20% stake in the World Cup's commercial operations highlights uneasiness with private equity in sports.
+[原文] President Donald Trump had touted the Reflecting Pool update, one of many renovations in D.C. he ordered ahead of America's 250th birthday celebrations.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/31/fifa-world-cup-private-equity-sports.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/31/trump-pirro-reflecting-pool-olympian-david-hearn.html) — *CNBC*
+
+### 5. Alphabet, Amazon and Microsoft added nearly $1.5 trillion in combined value this week
+
+[原文] Amazon, Microsoft and Google added hundreds of billions of dollars to their market caps, while Apple and Meta saw their market valuations fall.
+
+📎 [阅读原文](https://www.cnbc.com/2026/07/31/apple-aapl-amazon-amzn-stock-today.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. VC-backed startups commit more fraud, and researchers think they know why
+### 1. OpenAI reportedly finds evidence that more of its agents ran amok
 
-[原文] New research from the U.K.’s Imperial College and France’s Emlyon Business School mapped out how Silicon Valley founders commit fraud — and the role investors play.
+[原文] OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/31/vc-backed-startups-commit-more-fraud-and-researchers-think-they-know-why/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/) — *TechCrunch*
 
-### 2. Sam Altman isn’t the only one who wants to pump the brakes on AI
+### 2. Rivian spinoff Also to start delivering e-bikes after months of delays
 
-[原文] After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI
+[原文] Also has big plans beyond the TM-B. The startup mostly refers to itself as a "vehicle" company and has plans to make four-wheel pedal-assist cargo vehicles for Amazon.
 
-📎 [阅读原文](https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/) — *TechCrunch*
 
-### 3. Snapchat no longer rewards fully AI-generated Spotlight content
+### 3. Silicon Valley loves young founders. Until it doesn’t.
 
-[原文] Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.
+[原文] AI tools have democratized the opportunity to build, shortening the timelines of success and enabling more young people to start successful companies without stepping foot inside a Big Tech company.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/) — *TechCrunch*
 
-### 4. Siri AI could come with a paywall for power users
+### 4. India is starting to pay for apps, not just download them
 
-[原文] Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.
+[原文] India's app market generated a record $345 million in Q2.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/) — *TechCrunch*
 
-### 5. GM and Ford are talking less and less about EVs
+### 5. Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation
 
-[原文] The leading U.S. automakers are mentioning EVs on their investor calls at pre-pandemic rates, according to new data from TechCrunch and Hudson Labs.
+[原文] A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.
 
-📎 [阅读原文](https://techcrunch.com/2026/07/31/gm-and-ford-are-talking-less-and-less-about-evs/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Infantino on the brink? Who could replace him if he goes?
+### 1. Fifa scraps controversial World Cup investment plan
 
-[原文] Fifa president Gianni Infantino is in the eye of a storm after his attempt to sell stakes in the World Cup. If he goes, who comes in?
+[原文] Football's world governing body abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni Infantino's proposal.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. Infantino on the brink? Who might replace him if he goes?
+
+[原文] Fifa president Gianni Infantino is in the eye of a storm after scrapping his attempt to sell stakes in the World Cup. If he goes, who comes in?
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c998m4ve0rpo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Watch: Women's Open second-round highlights
+### 3. Same start but different outlook at Rangers as McInnes era begins
 
-[原文] Day 2 Highlights from Royal Lytham. Who’s on course to take Miyu Yamashita’s title?
+[原文] Derek McInnes insists Rangers will improve after his team's Scottish Premiership draw at Dundee United.
 
-📎 [阅读原文](https://www.bbc.co.uk/iplayer/episode/m002zm93?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c04krgdvn3ro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Chelsea's Mudryk free to play after appeal against doping ban
+### 4. Chelsea's Mudryk free to play after appeal against doping ban
 
 [原文] Chelsea and Ukraine winger Mykhailo Mudryk has not played since November 2024, and has been unable to access the club's training ground.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cvg8pvr8e8go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Newcastle confirm Howe resignation as head coach
+### 5. Hunter Bell eyes ambitious sweep after 800m gold in Glasgow
 
-[原文] Eddie Howe steps down as head coach of Newcastle United after nearly five years in charge.
+[原文] England's Georgia Hunter Bell eyes an ambitious sweep of gold medals in 2026 after winning the 800m Commonwealth Games title in Glasgow.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c74gdn2w3d7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. 'At least I'll sleep well tonight' - Fifa executive joins Burnham in questioning Infantino
-
-[原文] Fifa's chief operating officer strongly criticises Gianni Infantino's plan to sell stakes in competitions to private investors.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c2dkj03jp34o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/cj36lz1d2lno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘Big Brother 28’ Contestant Jason Breaks Down That Explosive Tea Party and Not Letting Kamu ‘Bully’ Him: ‘Isn’t It Interesting How the Six People in Power Were So Threatened by a Drag Queen?’
+### 1. Javier Bardem Politely Warned ‘Cape Fear’ Co-Star About Grabbing Her Hair During Attack Scene and Apologized in Advance: ‘I’m So Sorry, My Love’
 
-[原文] “Big Brother 28&#8243; contestant Jason De Puy, also known as Salina EsTitties from two seasons of “RuPaul&#8217;s Drag Race,” knew the writing was on the wall when he lost the blockbuster challenge d
+[原文] In 2007, Javier Bardem delivered one of the century’s most chilling performances as Anton Chigurh in “No Country for Old Men.” Nearly two decades later, he’s proved once again he could convincingly pl
 
-📎 [阅读原文](https://variety.com/2026/tv/news/big-brother-28-jason-tea-party-kamu-bully-drag-queen-1236825246/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/javier-bardem-cape-fear-finale-grabs-hair-lily-collias-1236825394/) — *Variety*
 
-### 2. Dermot Mulroney Leaving ‘Chicago Fire’ in Season 15
+### 2. ‘Spider-Man: Brand New Day’ Leaks Online: Millions Watched Bootleg Before It Was Taken Down
 
-[原文] Dermot Mulroney is leaving &#8220;Chicago Fire&#8221; in Season 15, Variety has confirmed. The actor, who joined the NBC drama in Season 13 as Chief Dom Pascal, will wrap up his storyline early in the
+[原文] While Marvel fans are expected to turn out in droves to see &#8220;Spider-Man: Brand New Day&#8221; in theaters this weekend, a high-quality bootleg of the film leaked on X, with millions of people ha
 
-📎 [阅读原文](https://variety.com/2026/tv/news/chicago-fire-dermot-mulroney-leaving-season-15-1236825309/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/spider-man-brand-new-day-leaked-high-quality-1236825389/) — *Variety*
 
-### 3. DC and HBO’s ‘Booster Gold’ Show ‘Won’t Be Moving Forward,’ Says Writer David Jenkins
+### 3. ‘The Devil’s Mouth’ Director Breaks Down His Bloody, One-Location Shark Movie, Those ‘Demanding’ Stunts and Why Kathryn Newton and Lana Condor Wanted to Switch Roles
 
-[原文] DC Studios and HBO&#8217;s &#8220;Booster Gold&#8221; TV series &#8220;won&#8217;t be moving forward,&#8221; writer David Jenkins said on Friday.c &#8220;My &#8216;Booster Gold&#8217; won’t be moving 
+[原文] When &#8220;The Devil&#8217;s Mouth&#8221; director Jeff Wadlow met the cast of his bloody shark movie, he made one thing clear. &#8220;&#8216;Listen, this is going to be the most physically demanding
 
-📎 [阅读原文](https://variety.com/2026/tv/news/booster-gold-show-canceled-dc-hbo-1236825280/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/devils-mouth-bloody-shark-movie-stunts-lana-condor-1236825182/) — *Variety*
 
-### 4. As ‘Civilization’ Turns 35, Creator Sid Meier and Firaxis President Look Ahead to a New Ages for 2K Studio’s Franchises
+### 4. ‘Cape Fear’ Creator Nick Antosca on That Shocking Final Sequence and Making Big Changes From Scorsese’s Version
 
-[原文] Sid Meier&#8217;s four-year-old grandson has a new favorite song and it&#8217;s one that is near and dear to fans of the legendary video game developer&#8217;s “Civilization” franchise. “He is singing
+[原文] SPOILER ALERT: This story contains spoilers for “The Executioners,” the finale of “Cape Fear,” now streaming on Apple TV. In the final moments of “Cape Fear,” Anna Bowden realizes that she’ll never tr
 
-📎 [阅读原文](https://variety.com/2026/gaming/news/civilization-35-anniversary-sid-meier-firaxis-xcom-games-1236824977/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/features/cape-fear-finale-max-cady-1236812603/) — *Variety*
 
-### 5. Jon Bernthal on His ‘Brotherly Dynamic’ With Tom Holland in ‘Spider-Man’ and ‘The Odyssey,’ and Why Punisher Is Peter Parker’s ‘Cautionary Tale’
+### 5. Olivia Wilde and Cooper Hoffman Used Pain Scale Ratings to Prep BDSM Scenes in ‘I Want Your Sex’: She ‘Hit Him Really Hard and’ It Was ‘Only a Seven or Eight’
 
-[原文] Jon Bernthal and Tom Holland&#8217;s superhero trajectory is so intertwined, it could make its own comic book storyline. In 2015, on the set of the period drama “Pilgrimage,” Bernthal and Holland film
+[原文] Cooper Hoffman had never filmed a sex scene before signing on to Gregg Araki’s erotic thriller “I Want Your Sex.” So when he arrived on set for the first time and found himself surrounded by ball gags
 
-📎 [阅读原文](https://variety.com/2026/film/features/spider-man-brand-new-day-punisher-jon-bernthal-odyssey-1236822987/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/artisans/news/i-want-your-sex-olivia-wilde-cooper-hoffman-sex-scenes-prep-1236825024/) — *Variety*
 
 ---
 
@@ -244,35 +244,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. WHO: Integration, innovation and community leadership key to ending HIV, hepatitis and STIs
+### 1. WHO Director-General visits Jordan to recognize strong collaboration on health system delivery, emergency relief and advancing mental health
 
-[原文] The World Health Organization (WHO) today launched a new report assessing progress in implementing the Global Health Sector Strategies (GHSS) on HIV, viral hepatitis and sexually transmitted infection
+[原文] The Director-General of the World Health Organization, Dr Tedros Adhanom Ghebreyesus, today concluded the first day of his two-day State visit to the Hashemite Kingdom of Jordan, underscoring the stro
 
-📎 [阅读原文](https://www.who.int/news/item/27-07-2026-who--integration--innovation-and-community-leadership-key-to-ending-hiv--hepatitis-and-stis) — *WHO*
+📎 [阅读原文](https://www.who.int/news/item/25-02-2026-who-director-general-visits-jordan-to-recognize-strong-collaboration-on-health-system-delivery--emergency-relief-and-advancing-mental-health) — *WHO*
 
-### 2. WHO launches seven strategies to prevent drowning
+### 2. WHO statement on notification of withdrawal of the United States
 
-[原文] Ahead of World Drowning Prevention Day on 25 July, the World Health Organization (WHO) is launching a new technical package to help governments and communities implement seven proven measures to reduc
+[原文] WHO regrets the United States’ notification of withdrawal from WHO – a decision that makes both the United States and the world less safe. The notification of withdrawal raises issues that will be con
 
-📎 [阅读原文](https://www.who.int/news/item/23-07-2026-who-launches-seven-strategies-to-prevent-drowning) — *WHO*
+📎 [阅读原文](https://www.who.int/news/item/24-01-2026-who-statement-on-notification-of-withdrawal-of-the-united-states) — *WHO*
 
-### 3. UN report: Global hunger levels ease for third consecutive year as regional disparities persist
+### 3. Paying tribute to David Nabarro
 
-[原文] Global hunger declined for a third consecutive year in 2025, demonstrating that progress is possible. However, the improvements remain fragile, unevenly distributed and insufficient to achieve the Sus
+[原文] Tribute to Dr David Nabarro
 
-📎 [阅读原文](https://www.who.int/news/item/21-07-2026-un-report--global-hunger-levels-ease-for-third-consecutive-year-as-regional-disparities-persist) — *WHO*
+📎 [阅读原文](https://www.who.int/news/item/30-07-2025-paying-tribute-to-david-nabarro) — *WHO*
 
-### 4. WHO marks 25 years of Research4Life, advancing access to scientific knowledge in more than 120 countries
+### 4. Timor-Leste certified malaria-free by WHO
 
-[原文] The World Health Organization (WHO) today marks the 25th anniversary of Research4Life, a public-private partnership that provides researchers, educators, health professionals and policy-makers in low-
+[原文] The World Health Organization (WHO) has certified Timor-Leste as malaria-free, a remarkable achievement for a country that prioritized the disease and embarked on a concerted, nation-wide response sho
 
-📎 [阅读原文](https://www.who.int/news/item/21-07-2026-who-marks-25-years-of-research4life--advancing-access-to-scientific-knowledge-in-more-than-120-countries) — *WHO*
+📎 [阅读原文](https://www.who.int/news/item/24-07-2025-timor-leste-certified-malaria-free-by-who) — *WHO*
 
-### 5. Road deaths fall by 21% globally but stronger action is needed to save lives
+### 5. African Union and World Health Organization renew strategic partnership to drive impact and strengthen health systems in Africa
 
-[原文] Despite the addition of more than one billion motor-vehicles to the world&rsquo;s roads, the global rate of road traffic deaths declined by 21% between 2011 and 2025, according to new data released by
+[原文] The World Health Organization (WHO) and the African Union (AU) Commission renewed their longstanding strategic partnership today with the signing of an updated Memorandum of Understanding (MoU) on the
 
-📎 [阅读原文](https://www.who.int/news/item/20-07-2026-road-deaths-fall-by-21--globally-but-stronger-action-is-needed-to-save-lives) — *WHO*
+📎 [阅读原文](https://www.who.int/news/item/24-05-2025-world-health-organization-and-african-union-renew-strategic-partnership-to-drive-impact-and-strengthen-health-systems-in-africa) — *WHO*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. PlayStation 5 Video Games Are Heavily Discounted During Best Buy's Back to School Sale
+### 1. Spider-Man: Brand New Day Leak on Social Media Reportedly Seen by Millions Before Sony Took It Down
 
-[原文] Several standout games are included.
+[原文] Spider-Man: Brand New Day has reportedly suffered a significant leak that saw a high-quality bootleg spread across X/Twitter before Sony took it down.
 
-📎 [阅读原文](https://www.ign.com/articles/best-buy-back-to-school-sale-playstation-5-video-game-deals) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/spider-man-brand-new-day-leak-on-social-media-reportedly-seen-by-millions-before-sony-took-it-down) — *IGN*
 
-### 2. 'The Fan's Dream Come True' - Marvel Comics Creators Lavish Praise on Spider-Man: Brand New Day
+### 2. Everything Coming to Disney+ in August
 
-[原文] Marvel Comics legends Frank Miller and J. Michael Straczynski are lavishing praise on Spider-Man: Brand New Day, with Miller calling it "the fan's dream come true."
+[原文] Disney+ is returning to form with a stacked lineup for August. There’s quite literally something for everyone, from Star Wars and X-Men to Pokemon to Disney Princesses. For some reason, there’s even s
 
-📎 [阅读原文](https://www.ign.com/articles/the-fans-dream-come-true-marvel-comics-creators-lavish-praise-on-spider-man-brand-new-day) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/whats-new-on-disney-plus-august-2026) — *IGN*
 
-### 3. X-Men Movie Casts Samara Weaving as the MCU's Emma Frost
+### 3. Amazon Is Having a Lord of the Rings T-Shirt Sale This Weekend
 
-[原文] Marvel Studios has reportedly cast Ready or Not star Samara Weaving as Emma Frost for its upcoming MCU X-Men movie.
+暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/x-men-movie-casts-samara-weaving-as-the-mcus-emma-frost) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/amazon-lord-of-the-rings-t-shirt-sale-this-weekend-2026) — *IGN*
 
-### 4. Everything Coming to HBO Max in August
+### 4. Spider-Man: Brand New Day - Our Biggest Burning Questions About the New Marvel Movie
 
-[原文] Dragons and Lanterns.
+[原文] Would a real New Yorker eat Little Caesars? We have so many burning questions from Spider-Man: Brand New Day.
 
-📎 [阅读原文](https://www.ign.com/articles/whats-new-on-hbo-max-august-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/spider-man-brand-new-day-our-biggest-burning-questions-about-the-new-marvel-movie) — *IGN*
 
-### 5. AMD Reportedly Plans to Raise GPU Prices, Too
+### 5. The $500 Console Is Dead
 
-[原文] It seems like AMD is about to raise graphics card prices by around 10%, according to an industry insider on Twitter.
+[原文] Gaming hardware is more expensive than ever. There’s a few different reasons things are as bad as they are, but regardless of how we got here, there’s no denying it’s an absolutely terrible time to be
 
-📎 [阅读原文](https://www.ign.com/articles/amd-reportedly-plans-to-raise-gpu-prices-too) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/the-500-console-is-dead) — *IGN*
 
 ---
 
@@ -439,35 +439,35 @@ The post 2026 Mercedes-Maybach SL680 Review: All Chil
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Glen Hansard: Family Announces Memorial Arrangements, Public Funeral
+### 1. Yungblud Makes Triumphant Return at Lollapalooza and Rocks Out With Fan Katie
 
-[原文] "Music at the funeral will be provided by Glen's friends and family," family says of August 4th memorial
+[原文] The musician canceled an event date earlier in the month preceding his appearance at the Chicago festival
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/yungblud-performance-lollapalooza-2026-1235600567/) — *Rolling Stone*
+
+### 2. Drake ‘Fraudulent Streams’ Case on Ice as Judge Sends Online Casino Claims to Arbitration
+
+[原文] A judge has paused a lawsuit claiming Drake helped inflate his music streaming numbers, saying the plaintiffs must first complete arbitration with the gaming platform named in the complaint
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/drake-adin-ross-streaming-lawsuit-stake-arbitration-1235601620/) — *Rolling Stone*
+
+### 3. How 26 Golden Retrievers Took Over Stateside
+
+[原文] And why we were totally OK with that
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/hitting-road-to-stateside-hertz-sydney-rose-arcy-drive-1235596431/) — *Rolling Stone*
+
+### 4. Glen Hansard: Family Announces Memorial Arrangements, Public Funeral
+
+[原文] “Music at the funeral will be provided by Glen’s friends and family,” family says of August 4th memorial
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/glen-hansard-family-memorial-arrangements-public-funeral-1235601653/) — *Rolling Stone*
 
-### 2. North West Scraps Tour Plans: ‘It Isn’t Happening Anymore’
+### 5. North West Scraps Tour Plans: ‘It Isn’t Happening Anymore’
 
 [原文] The 13-year-old artist, who released her debut EP earlier this year, had 14 tour dates planned with rapper Molly Santana
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/north-west-tour-cancelled-before-first-date-1235601623/) — *Rolling Stone*
-
-### 3. Tom Waits Shares New Spoken Word Piece ‘The Fly’: ‘My Appreciation for the Winged Nuisance’
-
-[原文] The track features as B-side for Waits’ “Boots on the Ground” collaboration with Massive Attack, his first new music since 2011
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/tom-waits-new-spoken-word-the-fly-1235601532/) — *Rolling Stone*
-
-### 4. Massive Attack Under Investigation for Palestine Support at Singapore Concert
-
-[原文] “Police confirm that reports were lodged and investigations are ongoing,” authorities said after band waved Palestinian flag onstage, a violation of local law
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/massive-attack-investigation-palestine-support-singapore-1235601492/) — *Rolling Stone*
-
-### 5. Carly Simon Gets Poetic on New Song ‘Peaches’
-
-[原文] The track, which arrives days after Simon revealed her recent Parkinson’s Disease diagnosis, is off her upcoming album Comes in Waves
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/carly-simon-peaches-single-1235600939/) — *Rolling Stone*
 
 ---
 
@@ -529,7 +529,6 @@ The post 2026 Mercedes-Maybach SL680 Review: All Chil
 
 - **🚗 汽车**: Autocar
 - **🌱 环境**: Inside Climate News
-- **✈️ 旅游**: Nomadic Matt, Travel Off Path
 
 ---
 
