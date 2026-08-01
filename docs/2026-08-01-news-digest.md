@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月01日** | 生成时间: 2026-08-01 11:19
+**2026年08月01日** | 生成时间: 2026-08-01 16:25
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco
+### 1. Fifa scraps controversial World Cup investment plan
+
+[原文] Football's world governing body Fifa abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni Infantino's proposal.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco
 
 [原文] Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza
+### 3. Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge
 
-[原文] The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.
+[原文] Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Body of US climber the latest recovered after Pakistan avalanche
+### 4. Russian strikes on Kyiv kill at least nine, Ukraine officials say
 
-[原文] The bodies of two other climbers have already been recovered from the mountain, while others are still missing.
+[原文] The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Race to rescue remaining climbers after deadly avalanche in Pakistan
+
+[原文] Poor weather has been hampering the search for seven still missing after Thursday's avalanche on Broad Peak.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Peru's ex-president leaves jail after 15-year jail term for corruption overturned
-
-[原文] Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Hundreds escape Greek wildfire by sea as blazes continue across Europe
-
-[原文] Around 500 people, mostly tourists, are evacuated by boat from Agios Vasileios after becoming trapped.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c0kmzx8vpv4o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -66,23 +66,23 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/31/these-fed-alternative-indicators-show-inflation-is-at-lowest-in-years.html) — *CNBC*
 
-### 3. Trump's AI executive order nears key deadline as regulation debate intensifies
+### 3. Iran's overlapping power centers make ending the war more complicated
+
+[原文] Iran’s power structure complicates efforts to enforce any ceasefire with the U.S., from the Supreme Leader to the Revolutionary Guards.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/01/iran-ceasefire-power-structure.html) — *CNBC*
+
+### 4. Trump's AI executive order nears key deadline as regulation debate intensifies
 
 [原文] OpenAI's Sam Altman and Nvidia's Jensen Huang were among tech leaders in Washington, D.C., ahead of a deadline the White House set in its AI executive order.
 
 📎 [阅读原文](https://www.cnbc.com/2026/07/31/trump-ai-executive-order-nears-key-deadline-regulation-debate-heats-up.html) — *CNBC*
 
-### 4. Pirro moves to drop case against Olympian, says Reflecting Pool damage caused by 'flawed installation'
+### 5. Building for 131°F: Europe races to protect its infrastructure from a ‘quiet catastrophe’
 
-[原文] President Donald Trump had touted the Reflecting Pool update, one of many renovations in D.C. he ordered ahead of America's 250th birthday celebrations.
+[原文] A summer of weather extremes and severe infrastructure stress has prompted companies and policymakers across Europe to respond.
 
-📎 [阅读原文](https://www.cnbc.com/2026/07/31/trump-pirro-reflecting-pool-olympian-david-hearn.html) — *CNBC*
-
-### 5. Alphabet, Amazon and Microsoft added nearly $1.5 trillion in combined value this week
-
-[原文] Amazon, Microsoft and Google added hundreds of billions of dollars to their market caps, while Apple and Meta saw their market valuations fall.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/31/apple-aapl-amazon-amzn-stock-today.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/01/europe-extreme-heat-climate-change-55c.html) — *CNBC*
 
 ---
 
@@ -170,7 +170,7 @@
 
 ### 1. Fifa scraps controversial World Cup investment plan
 
-[原文] Football's world governing body abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni Infantino's proposal.
+[原文] Football's world governing body Fifa abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni Infantino's proposal.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
@@ -186,11 +186,11 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c04krgdvn3ro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Chelsea's Mudryk free to play after appeal against doping ban
+### 4. Intensity, smiles & Lewandowski - inside Liverpool training under Iraola
 
-[原文] Chelsea and Ukraine winger Mykhailo Mudryk has not played since November 2024, and has been unable to access the club's training ground.
+[原文] Liverpool's pre-season under Andoni Iraola is ramping up - and here is what we learned from the first open training session under their new boss.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cvg8pvr8e8go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c6290e063yno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ### 5. Hunter Bell eyes ambitious sweep after 800m gold in Glasgow
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Javier Bardem Politely Warned ‘Cape Fear’ Co-Star About Grabbing Her Hair During Attack Scene and Apologized in Advance: ‘I’m So Sorry, My Love’
+### 1. FIFA Chief Gianni Infantino on the Ropes as He Ditches Controversial $20 Billion Private Investment Plan
+
+[原文] Gianni Infantino, the embattled president of soccer’s governing body FIFA, has abandoned his controversial plan to create a $20 billion company, FIFA Forward Enterprise, that would control the commerc
+
+📎 [阅读原文](https://variety.com/2026/biz/global/fifa-gianni-infantino-ditches-private-investment-plan-1236825512/) — *Variety*
+
+### 2. Tiger Shroff to Star in Viccky Jain’s VJ Frames Launch Title, Directed by Remo D’Souza, With Abhishek Banerjee, Elvish Yadav Also Set (EXCLUSIVE)
+
+[原文] Indian producer and entrepreneur Viccky Jain has launched a new production banner, VJ Frames, timed to coincide with his birthday. The company&#8217;s debut project is an action franchise directed by 
+
+📎 [阅读原文](https://variety.com/2026/film/news/tiger-shroff-viccky-jain-vj-frames-1236825325/) — *Variety*
+
+### 3. Javier Bardem Politely Warned ‘Cape Fear’ Co-Star About Grabbing Her Hair During Attack Scene and Apologized in Advance: ‘I’m So Sorry, My Love’
 
 [原文] In 2007, Javier Bardem delivered one of the century’s most chilling performances as Anton Chigurh in “No Country for Old Men.” Nearly two decades later, he’s proved once again he could convincingly pl
 
 📎 [阅读原文](https://variety.com/2026/tv/news/javier-bardem-cape-fear-finale-grabs-hair-lily-collias-1236825394/) — *Variety*
 
-### 2. ‘Spider-Man: Brand New Day’ Leaks Online: Millions Watched Bootleg Before It Was Taken Down
+### 4. ‘Spider-Man: Brand New Day’ Leaks Online: Millions Watched Bootleg Before It Was Taken Down
 
 [原文] While Marvel fans are expected to turn out in droves to see &#8220;Spider-Man: Brand New Day&#8221; in theaters this weekend, a high-quality bootleg of the film leaked on X, with millions of people ha
 
 📎 [阅读原文](https://variety.com/2026/film/news/spider-man-brand-new-day-leaked-high-quality-1236825389/) — *Variety*
 
-### 3. ‘The Devil’s Mouth’ Director Breaks Down His Bloody, One-Location Shark Movie, Those ‘Demanding’ Stunts and Why Kathryn Newton and Lana Condor Wanted to Switch Roles
+### 5. ‘The Devil’s Mouth’ Director Breaks Down His Bloody, One-Location Shark Movie, Those ‘Demanding’ Stunts and Why Kathryn Newton and Lana Condor Wanted to Switch Roles
 
 [原文] When &#8220;The Devil&#8217;s Mouth&#8221; director Jeff Wadlow met the cast of his bloody shark movie, he made one thing clear. &#8220;&#8216;Listen, this is going to be the most physically demanding
 
 📎 [阅读原文](https://variety.com/2026/film/news/devils-mouth-bloody-shark-movie-stunts-lana-condor-1236825182/) — *Variety*
-
-### 4. ‘Cape Fear’ Creator Nick Antosca on That Shocking Final Sequence and Making Big Changes From Scorsese’s Version
-
-[原文] SPOILER ALERT: This story contains spoilers for “The Executioners,” the finale of “Cape Fear,” now streaming on Apple TV. In the final moments of “Cape Fear,” Anna Bowden realizes that she’ll never tr
-
-📎 [阅读原文](https://variety.com/2026/tv/features/cape-fear-finale-max-cady-1236812603/) — *Variety*
-
-### 5. Olivia Wilde and Cooper Hoffman Used Pain Scale Ratings to Prep BDSM Scenes in ‘I Want Your Sex’: She ‘Hit Him Really Hard and’ It Was ‘Only a Seven or Eight’
-
-[原文] Cooper Hoffman had never filmed a sex scene before signing on to Gregg Araki’s erotic thriller “I Want Your Sex.” So when he arrived on set for the first time and found himself surrounded by ball gags
-
-📎 [阅读原文](https://variety.com/2026/artisans/news/i-want-your-sex-olivia-wilde-cooper-hoffman-sex-scenes-prep-1236825024/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Spider-Man: Brand New Day Leak on Social Media Reportedly Seen by Millions Before Sony Took It Down
+### 1. Everything Coming to Netflix in August 2026
+
+[原文] Close out the summer with Chucky, Fast and Furious, Ricky Gervais as a cartoon cat, The Whisper Man, and more... all on Netflix.
+
+📎 [阅读原文](https://www.ign.com/articles/whats-new-on-netflix-august-2026) — *IGN*
+
+### 2. Spider-Man: Brand New Day Leak on Social Media Reportedly Seen by Millions Before Sony Took It Down
 
 [原文] Spider-Man: Brand New Day has reportedly suffered a significant leak that saw a high-quality bootleg spread across X/Twitter before Sony took it down.
 
 📎 [阅读原文](https://www.ign.com/articles/spider-man-brand-new-day-leak-on-social-media-reportedly-seen-by-millions-before-sony-took-it-down) — *IGN*
 
-### 2. Everything Coming to Disney+ in August
+### 3. Everything Coming to Disney+ in August
 
 [原文] Disney+ is returning to form with a stacked lineup for August. There’s quite literally something for everyone, from Star Wars and X-Men to Pokemon to Disney Princesses. For some reason, there’s even s
 
 📎 [阅读原文](https://www.ign.com/articles/whats-new-on-disney-plus-august-2026) — *IGN*
 
-### 3. Amazon Is Having a Lord of the Rings T-Shirt Sale This Weekend
+### 4. Amazon Is Having a Lord of the Rings T-Shirt Sale This Weekend
 
 暂无摘要。
 
 📎 [阅读原文](https://www.ign.com/articles/amazon-lord-of-the-rings-t-shirt-sale-this-weekend-2026) — *IGN*
 
-### 4. Spider-Man: Brand New Day - Our Biggest Burning Questions About the New Marvel Movie
+### 5. Spider-Man: Brand New Day - Our Biggest Burning Questions About the New Marvel Movie
 
 [原文] Would a real New Yorker eat Little Caesars? We have so many burning questions from Spider-Man: Brand New Day.
 
 📎 [阅读原文](https://www.ign.com/articles/spider-man-brand-new-day-our-biggest-burning-questions-about-the-new-marvel-movie) — *IGN*
-
-### 5. The $500 Console Is Dead
-
-[原文] Gaming hardware is more expensive than ever. There’s a few different reasons things are as bad as they are, but regardless of how we got here, there’s no denying it’s an absolutely terrible time to be
-
-📎 [阅读原文](https://www.ign.com/articles/the-500-console-is-dead) — *IGN*
 
 ---
 
@@ -439,35 +439,35 @@ The post 2026 Mercedes-Maybach SL680 Review: All Chil
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Yungblud Makes Triumphant Return at Lollapalooza and Rocks Out With Fan Katie
+### 1. Olivia Rodrigo and Yungblud Join Smashing Pumpkins for Nostalgia-Fueled Lollapalooza Set
+
+[原文] Billy Corgan delivered "Luna" and "Thirty-Three" with his surprise guests
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/olivia-rodrigo-yungblud-smashing-pumpkins-lollapalooza-1235601995/) — *Rolling Stone*
+
+### 2. Modest Mouse Drops Guitarist Simon O’Connor From Upcoming Tour
+
+[原文] Guitarist was accused of sending inappropriate messages to teenage fan on social media; Les Savy Fav's Seth Jabour enlisted to take O'Connor's place
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/modest-mouse-drops-guitarist-simon-oconnor-upcoming-tour-1235601830/) — *Rolling Stone*
+
+### 3. Yungblud Makes Triumphant Return at Lollapalooza and Rocks Out With Fan Katie
 
 [原文] The musician canceled an event date earlier in the month preceding his appearance at the Chicago festival
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/yungblud-performance-lollapalooza-2026-1235600567/) — *Rolling Stone*
 
-### 2. Drake ‘Fraudulent Streams’ Case on Ice as Judge Sends Online Casino Claims to Arbitration
+### 4. Drake ‘Fraudulent Streams’ Case on Ice as Judge Sends Online Casino Claims to Arbitration
 
 [原文] A judge has paused a lawsuit claiming Drake helped inflate his music streaming numbers, saying the plaintiffs must first complete arbitration with the gaming platform named in the complaint
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/drake-adin-ross-streaming-lawsuit-stake-arbitration-1235601620/) — *Rolling Stone*
 
-### 3. How 26 Golden Retrievers Took Over Stateside
+### 5. How 26 Golden Retrievers Took Over Stateside
 
 [原文] And why we were totally OK with that
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/hitting-road-to-stateside-hertz-sydney-rose-arcy-drive-1235596431/) — *Rolling Stone*
-
-### 4. Glen Hansard: Family Announces Memorial Arrangements, Public Funeral
-
-[原文] “Music at the funeral will be provided by Glen’s friends and family,” family says of August 4th memorial
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/glen-hansard-family-memorial-arrangements-public-funeral-1235601653/) — *Rolling Stone*
-
-### 5. North West Scraps Tour Plans: ‘It Isn’t Happening Anymore’
-
-[原文] The 13-year-old artist, who released her debut EP earlier this year, had 14 tour dates planned with rapper Molly Santana
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/north-west-tour-cancelled-before-first-date-1235601623/) — *Rolling Stone*
 
 ---
 
