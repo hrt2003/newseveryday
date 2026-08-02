@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月02日** | 生成时间: 2026-08-02 03:13
+**2026年08月02日** | 生成时间: 2026-08-02 11:20
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings
+### 1. How Spain's migrant crisis created a political storm - whipped up by social media
 
-[原文] Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta "shocking".
+[原文] The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Call for 'full review' as pressure grows on Infantino
+### 2. Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal
+
+[原文] The US president's message came amid media reports that he was planning new, intense strikes on Iran over the weekend.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. EU calls emergency meeting to discuss Ceuta migrant crossings
+
+[原文] There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. Call for 'full review' as pressure grows on Infantino
 
 [原文] The leadership of Fifa is publicly questioned by football's governing bodies in Europe, North and Central America and the Caribbean.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge
+### 5. Tourist plane crashes in Peru, killing 13
 
-[原文] Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.
+[原文] The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Italy putting nearly all major cities on highest heat alert
-
-[原文] Some 19 major Italian cities - including Rome, Milan and Naples - are already on red alert, and by Monday all but two will be.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says
-
-[原文] The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -60,7 +60,7 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/01/glp-1-prescriptions-weight-loss-walmart-costco-amazon.html) — *CNBC*
 
-### 2. Tankers near Oman come under fire as Iran threatens to choke off shipping routes
+### 2. Embassies warn Americans of travel risk amid signs of possible U.S.-Iran military action in the coming days
 
 [原文] The latest attacks come amid U.S. media reports that U.S. President Donald Trump is preparing a fresh round of strikes against Iran.
 
@@ -78,11 +78,11 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/01/open-ai-hugging-face-hack-cyber-warnings.html) — *CNBC*
 
-### 5. Berkshire Hathaway shares hit eight-month high
+### 5. Trump lashes out at Pirro after she moves to drop Reflecting Pool vandalism case, saying 'flawed installation' to blame
 
-[原文] The conglomerate that Warren Buffett built rallied to an eight-month high this week. There could be more gains ahead if they play catch up with the S&P 500.
+[原文] President Donald Trump had touted the Reflecting Pool update, one of many renovations in D.C. he ordered ahead of America's 250th birthday celebrations.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/01/-berkshire-hathaway-shares-hit-eight-month-high.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/07/31/trump-pirro-reflecting-pool-olympian-david-hearn.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Should you still buy your next smartphone — or subscribe to it instead?
+### 1. Inside the London hacker house taking a stand against founder burnout
+
+[原文] How one founder house is betting work-life balance can beat burnout .
+
+📎 [阅读原文](https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/) — *TechCrunch*
+
+### 2. Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps
+
+[原文] Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/) — *TechCrunch*
+
+### 3. YouTuber Hank Green says his AI usage is ‘not healthy’
+
+[原文] Green offered a remarkable apology, saying that "the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world."
+
+📎 [阅读原文](https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/) — *TechCrunch*
+
+### 4. Should you still buy your next smartphone — or subscribe to it instead?
 
 [原文] Apple's new Upgrade program is the latest sign that smartphone ownership is changing.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/) — *TechCrunch*
 
-### 2. Sam Altman is still making the case for parenting via ChatGPT
+### 5. Sam Altman is still making the case for parenting via ChatGPT
 
 [原文] OpenAI's CEO seemed excited to share a "cool use case" for parents.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/) — *TechCrunch*
-
-### 3. This $9 key physically locks your most addictive apps
-
-[原文] This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/) — *TechCrunch*
-
-### 4. Uber is building an autonomous vehicle empire, and here’s every company it’s using to do it
-
-[原文] Uber has partnered with — and in some cases made direct investments in — about 30 autonomous vehicle companies over the past two years. Here's the list and the latest on the partnerships.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/) — *TechCrunch*
-
-### 5. Apps that help you break free from doomscrolling and get active
-
-[原文] If you’re looking to cut back on screen time and get a little more active, here’s a roundup of the apps that might help.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/01/apps-that-help-you-break-free-from-doomscrolling-and-get-active/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The five dramatic days that shook Infantino and world football
+### 1. A bruising 24 hours - what next for Fifa and under-pressure Infantino?
 
-[原文] BBC Sport's Simon Stone reflects on the unravelling of Gianni Infantino's plans to sell off stakes in Fifa competitions.
+[原文] The pressure is building on Gianni Infantino. Can he survive as Fifa president?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c8rny2p6144o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Root in 'very different place' over Test captaincy
+### 2. Emotional Kerr delivers moment Glasgow 2026 has waited for
+
+[原文] There were no pacers and no wave lights. This was a Saturday night scrap - Glasgow rules - and Josh Kerr wasn't going to let anyone beat him in that fight.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/ckge35ywjvyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. Root in 'very different place' over Test captaincy
 
 [原文] England's Joe Root is ready to embrace his second stint as Test captain, saying he is in a "very different place" to when he stepped down from the role four years ago.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cy0j806xryyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Gold family agrees to sell West Ham stake to Staveley
+### 4. Shittu 'robbed' - are AI boxing judges the answer?
 
-[原文] Former West Ham co-owner David Gold's daughter Vanessa confirms plans to sell shares to a consortium headed by ex-Newcastle co-owner Amanda Staveley.
+[原文] After commentators claim England's Dimeji Shittu was "robbed" in the Commonwealth Games final, is judging helped by artificial intelligence the answer?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cwyle0nl810o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/articles/c4g42xk1l7vo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Chelsea confirm Welbeck signing from Brighton
+### 5. Sawyers puts heartbreak behind her to claim gold
 
-[原文] Chelsea complete the signing of Brighton striker Danny Welbeck.
+[原文] English long jumper Jazmin Sawyers overcomes previous major championship disappointments to win Commonwealth gold.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cly5g1vy3p3o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Woad & Hull in contention ahead of Open final round
-
-[原文] England's Lottie Woad and Charley Hull are both in contention going into the final round of the AIG Women's Open at Royal Lytham and St Annes.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/c3v03v02xgwo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/c1d1q5y5llxo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. WWE SummerSlam 2026 Livestream: Here’s Where to Watch the Two-Night Pro Wrestling Event Live Online for Free
+### 1. ‘It: Welcome to Derry’ Creator Says Season 2 Will ‘Not’ Shy Away From the ‘Horrible’ Cultural Themes of the 1930s: It’s the ‘Heart of Our Story’
 
-[原文] After a thrilling and dazzling Night of Champions, WWE travels to Minnesota for an epic WWE SummerSlam &#8212; a premium live event starting on Saturday, Aug. 1. The two-night event features six title
+[原文] As horror fans eagerly await the next chapter in Pennywise&#8217;s (Bill Skarsgård) horrifying reign of terror, &#8220;It: Welcome to Derry&#8221; co-creator Andy Muschietti has shared some details on
 
-📎 [阅读原文](https://variety.com/2026/shopping/news/how-to-watch-wwe-summerslam-2026-live-online-free-1236822004/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/it-welcome-to-derry-season-2-update-cultural-themes-1930s-1236825738/) — *Variety*
 
-### 2. Vin Diesel Says ‘Fast Forever’ Has the ‘Best Script I Have Read in Decades’: ‘I Am Still Crying’
+### 2. Lamont Roach Jr. vs. William Zepeda Livestream: Here’s Where to Watch the Boxing Title Bout Online for Free
 
-[原文] Vin Diesel has read the script for the 11th &#8220;Fast &#38; Furious&#8221; film, and he is singing its praises. &#8220;I just read the &#8216;Fast Forever&#8217; script by [Michael Lesslie]. It is t
+[原文] In a title bout for the championship, American Lamont Roach, Jr. takes on Mexican boxer William Zepeda in a 12-round match. What&#8217;s on the line? The vacant WBC Lightweight title belt. At the end 
 
-📎 [阅读原文](https://variety.com/2026/film/news/vin-diesel-fast-forever-best-script-1236825704/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/shopping/news/how-to-watch-roach-jr-vs-zepeda-boxing-live-online-free-1236823309/) — *Variety*
 
-### 3. Juliette Lewis on Fiery ‘Cape Fear’ Finale, ‘Nostalgic’ Nods to 1991 Film and Why Crystal Will ‘Haunt’ Max Forever
+### 3. Vincent Pastore, Who Played ‘Big Pussy’ on ‘The Sopranos’, Dies at 80
 
-[原文] SPOILER ALERT: This post contains spoilers for “The Executioners,” the finale of “Cape Fear,” now streaming on Apple TV. Nothing good ever happens on a houseboat in a “Cape Fear” adaptation — just ask
+[原文] Vincent Pastore, who is best known for playing Salvatore “Big Pussy” Bonpensiero on HBO’s “The Sopranos,” has died, according to TMZ. He was 80. Pastore was a key player on the first two seasons of “T
 
-📎 [阅读原文](https://variety.com/2026/tv/news/juliette-lewis-cape-fear-finale-crystal-death-1991-movie-1236818597/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/vincent-pastore-dead-big-pussy-the-sopranos-hbo-1236825791/) — *Variety*
 
-### 4. The Rolling Stones ‘Behind the Song’: See Mick Jagger and Producer Andrew Watt’s Deep Dive on the Creation of ‘Mr. Charm’ (EXCLUSIVE)
+### 4. Lollapalooza Shortens Wolf Alice and Cortis Sets, Delays Several More Amid Intense Flooding
 
-[原文] Unlike most of his peers, the lead singer of the world’s greatest rock and roll band has never been one for looking back, even at the recent past. There’s a scene in one of the countless Rolling Stone
+[原文] Day three of Lollapalooza has been delayed from 12 p.m. to 3 p.m. CT. Most of the sets scheduled within that three-hour window have been canceled, with a few exceptions. K-pop group Cortis, who have b
 
-📎 [阅读原文](https://variety.com/2026/music/news/rolling-stones-behind-the-song-mick-jagger-andrew-watts-mr-charm-1236825650/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/lollapalooza-delays-flooding-wolf-alice-cortis-1236825734/) — *Variety*
 
-### 5. Richard L. O’Connor, Emmy-Winning Producer and ‘The Muppet Movie’ Executive, Dies at 96
+### 5. ‘Wild Inside’ Review: The Story of the Central Park Owl Becomes a Moving and Haunting Documentary
 
-[原文] Richard L. O&#8217;Connor, an Emmy-winning producer known for his work as an executive in charge of productions like &#8220;The Muppet Movie,&#8221; &#8220;On Golden Pond&#8221; and &#8220;Hickey &#38
+[原文] "Wild Inside" feels like the vérité version of the greatest children’s novel E.B. White never wrote.
 
-📎 [阅读原文](https://variety.com/2026/film/news/richard-l-oconnor-dead-the-muppet-movie-on-golden-pond-1236825613/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/reviews/wild-inside-review-the-central-park-owl-1236825626/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Barbie 2 Will Have to Start from Scratch if Warner Bros. Can't Make a Deal With Talent by December
+### 1. Spider-Man: Brand New Day Beats Avengers: Endgame Record to Claim Biggest Domestic Opening Day of All Time
+
+[原文] Marvel Studios' Spider-Man: Brand New Day has broken yet another record after webbing up a whopping $168 million at the domestic box office on its opening day.
+
+📎 [阅读原文](https://www.ign.com/articles/spider-man-brand-new-day-beats-avengers-endgame-record-to-claim-biggest-domestic-opening-day-of-all-time) — *IGN*
+
+### 2. Game of Thrones: The Mad King Reveals Full Stage Cast and First Portrait
+
+[原文] See the first official cast photo for Game of Thrones: The Mad King stage play, featuring King Aerys II, Rhaegar Targaryen, Young Ned Stark, and more.
+
+📎 [阅读原文](https://www.ign.com/articles/game-of-thrones-the-mad-king-cast-first-look) — *IGN*
+
+### 3. Vincent Pastore, The Sopranos Actor, Dies at 80
+
+[原文] Vincent Pastore, the actor best known for playing Salvatore Bonpensiero in the groundbreaking TV series The Sopranos, has died at 80.
+
+📎 [阅读原文](https://www.ign.com/articles/vincent-pastore-the-sopranos-actor-dies-at-80) — *IGN*
+
+### 4. Elden Ring Players Are Hoping for Godwyn DLC After FromSoftware Shares Cryptic Social Media Post
+
+[原文] It's been two years since FromSoftware released its Shadow of the Erdtree expansion, but a new post from the developer has some fans believing that even more Elden Ring DLC is on the way.
+
+📎 [阅读原文](https://www.ign.com/articles/elden-ring-players-are-hoping-for-godwyn-dlc-after-fromsoftware-shares-cryptic-social-media-post) — *IGN*
+
+### 5. Barbie 2 Will Have to Start from Scratch if Warner Bros. Can't Make a Deal With Talent by December
 
 [原文] Negotiations for Barbie 2 have come to a halt, and if Warner Bros. can't make a deal by December 2026, it will lose director Greta Gerwig, writer Noah Baumbach, and stars Margot Robbie and Ryan Goslin
 
 📎 [阅读原文](https://www.ign.com/articles/barbie-2-will-have-to-start-from-scratch-if-warner-bros-cant-make-a-deal-with-talent-by-december) — *IGN*
-
-### 2. The Best Deals Today: LEGO Pokémon, DDR5 RAM, Death Stranding 2, and More
-
-暂无摘要。
-
-📎 [阅读原文](https://www.ign.com/articles/best-deals-for-august-1-2026) — *IGN*
-
-### 3. AI Is Making Games Worse, And For What?
-
-[原文] We're months into the AI-caused RAM crisis, and it just seems that AI is just making gaming worse and more expensive. And it doesn't seem like gamers are really getting anything out of the deal.
-
-📎 [阅读原文](https://www.ign.com/articles/ai-is-making-games-worse-and-for-what) — *IGN*
-
-### 4. Hololive Dreams: How the Development Team Used RPG Mechanics to Create a Giant Rhythm Game
-
-[原文] Hololive Dreams combines rhythm-based gameplay with RPG progression, offering over 150 songs and 50 VTubers in an accessible new mobile experience.
-
-📎 [阅读原文](https://www.ign.com/articles/hololive-dreams-rhythm-rpg-mechanics) — *IGN*
-
-### 5. 5 Books to Read Next If You Loved Dungeon Crawler Carl
-
-暂无摘要。
-
-📎 [阅读原文](https://www.ign.com/articles/best-books-like-dungeon-crawler-carl) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Someone Turned a BMW M4 Competition xDrive Into a Pickup
+### 1. Cops Imitating Plants Catch 74 Drivers on Their Phones in Six Hours
+
+[原文] The boys in blue went green for a crackdown on distracted drivers.
+The post Cops Imitating Plants Catch 74 Drivers on Their Phones in Six Hours appeared first on The Drive.
+
+📎 [阅读原文](https://www.thedrive.com/news/cops-imitating-plants-catch-74-drivers-on-their-phones-in-six-hours) — *The Drive*
+
+### 2. Someone Turned a BMW M4 Competition xDrive Into a Pickup
 
 [原文] It looks super clean, and it makes trips to Home Depot a lot more fun.
 The post Someone Turned a BMW M4 Competition xDrive Into a Pickup appeared first on The Drive.
 
 📎 [阅读原文](https://www.thedrive.com/news/someone-turned-a-bmw-m4-competition-xdrive-into-a-pickup) — *The Drive*
 
-### 2. You Can Buy a ‘New’ 1990 Aston Martin V8 Vantage Zagato
+### 3. You Can Buy a ‘New’ 1990 Aston Martin V8 Vantage Zagato
 
 [原文] It's a time-capsule example of an Aston Martin like no other.
 The post You Can Buy a &#8216;New&#8217; 1990 Aston Martin V8 Vantage Zagato appeared first on The Drive.
 
 📎 [阅读原文](https://www.thedrive.com/news/you-can-buy-a-new-1990-aston-martin-v8-vantage-zagato) — *The Drive*
 
-### 3. New AEV Kit Has Everything to Turn a Ford Super Duty Into a Super Off-Roader for $20K
+### 4. New AEV Kit Has Everything to Turn a Ford Super Duty Into a Super Off-Roader for $20K
 
 [原文] It's not cheap, but this kit is a simpler solution than rounding up a bunch of individual parts.
 The post New AEV Kit Has Everything to Turn a Ford Super Duty Into a Super Off-Roader for $20K appeared
 
 📎 [阅读原文](https://www.thedrive.com/news/new-aev-kit-has-everything-to-turn-your-ford-super-duty-into-a-super-off-roader-for-20k) — *The Drive*
 
-### 4. Mercedes CEO Admits It ‘Forgot a Little Bit About the Customer’ When It Axed Buttons
+### 5. Mercedes CEO Admits It ‘Forgot a Little Bit About the Customer’ When It Axed Buttons
 
 [原文] Mercedes CEO Ola Källenius says the company chased "technology for the sake of technology" and is now "reintroducing the most sensible buttons."
 The post Mercedes CEO Admits It &#8216;Forgot a Little 
 
 📎 [阅读原文](https://www.thedrive.com/news/mercedes-forgot-a-little-bit-about-the-customer-when-it-got-rid-of-buttons-ceo) — *The Drive*
-
-### 5. Chevy Says ‘Officially Licensed’ AI Slop Shirt at TJ Maxx Is a Fake
-
-[原文] At least General Motors isn't outsourcing its merch designs to crappy chatbots.
-The post Chevy Says &#8216;Officially Licensed&#8217; AI Slop Shirt at TJ Maxx Is a Fake appeared first on The Drive.
-
-📎 [阅读原文](https://www.thedrive.com/news/chevy-says-officially-licensed-ai-slop-shirt-at-tj-maxx-is-a-fake) — *The Drive*
 
 ---
 
@@ -529,7 +529,6 @@ The post Chevy Says &#8216;Officially Licensed&#8217; AI Slop Shirt at TJ Maxx I
 
 - **🚗 汽车**: Autocar
 - **🌱 环境**: Inside Climate News
-- **✈️ 旅游**: Nomadic Matt, Travel Off Path
 
 ---
 
