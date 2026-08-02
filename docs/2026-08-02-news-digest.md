@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月02日** | 生成时间: 2026-08-02 11:20
+**2026年08月02日** | 生成时间: 2026-08-02 16:28
 
 ---
 
@@ -16,17 +16,17 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. How Spain's migrant crisis created a political storm - whipped up by social media
+### 1. Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'
+
+[原文] The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the "perimeters" of a deal had been agreed.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. How Spain's migrant crisis created a political storm - whipped up by social media
 
 [原文] The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 2. Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal
-
-[原文] The US president's message came amid media reports that he was planning new, intense strikes on Iran over the weekend.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 3. EU calls emergency meeting to discuss Ceuta migrant crossings
 
@@ -34,17 +34,17 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Call for 'full review' as pressure grows on Infantino
+### 4. Young guns for hire - the teenage hitmen recruited to kill across Europe
 
-[原文] The leadership of Fifa is publicly questioned by football's governing bodies in Europe, North and Central America and the Caribbean.
+[原文] The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Tourist plane crashes in Peru, killing 13
+### 5. The Sopranos star Vincent Pastore dies aged 80
 
-[原文] The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.
+[原文] Pastore, who played Salvatore "Big Pussy" Bonpensiero in the hit US show, was found at his home in New York City, US media report.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,17 +54,17 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. As Americans go direct with GLP-1 prescriptions, Walmart, Costco, Amazon will be big weight-loss winners
+### 1. Trump says he has canceled a planned attack on Iran after reaching an agreement over the 'perimeters of a deal'
+
+[原文] The U.S. president said Iran and its regional neighbors asked the U.S. to hold off any attacks after 'the perimeters of a deal has been agreed to'.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/02/trump-planned-attack-on-iran-canceled-after-reaching-outline-of-deal.html) — *CNBC*
+
+### 2. As Americans go direct with GLP-1 prescriptions, Walmart, Costco, Amazon will be big weight-loss winners
 
 [原文] As Americans are encouraged to go direct with weight-loss drug prescriptions, retail pharmacy chains are poised to win big.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/01/glp-1-prescriptions-weight-loss-walmart-costco-amazon.html) — *CNBC*
-
-### 2. Embassies warn Americans of travel risk amid signs of possible U.S.-Iran military action in the coming days
-
-[原文] The latest attacks come amid U.S. media reports that U.S. President Donald Trump is preparing a fresh round of strikes against Iran.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/01/tankers-near-oman-come-under-fire.html) — *CNBC*
 
 ### 3. To keep growing, incoming Best Buy CEO says he first wants to go smaller
 
@@ -72,17 +72,17 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/01/best-buy-ceo-jason-bonfig-smaller-stores.html) — *CNBC*
 
-### 4. OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open'
+### 4. An exam leak in India exposed a Gen Z jobs crisis that goes much deeper
+
+[原文] While the leak of key exam papers was the trigger for the recent student protest in India, rising unemployment is the real fuel angering Gen Z in the country.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/02/india-exam-leak-protests-jobs-crisis-gen-z-unemployment-modi.html) — *CNBC*
+
+### 5. OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open'
 
 [原文] The wake-up call to the cyber industry comes as industry experts descend on Black Hat, a major cybersecurity conference.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/01/open-ai-hugging-face-hack-cyber-warnings.html) — *CNBC*
-
-### 5. Trump lashes out at Pirro after she moves to drop Reflecting Pool vandalism case, saying 'flawed installation' to blame
-
-[原文] President Donald Trump had touted the Reflecting Pool update, one of many renovations in D.C. he ordered ahead of America's 250th birthday celebrations.
-
-📎 [阅读原文](https://www.cnbc.com/2026/07/31/trump-pirro-reflecting-pool-olympian-david-hearn.html) — *CNBC*
 
 ---
 
@@ -170,7 +170,7 @@
 
 ### 1. A bruising 24 hours - what next for Fifa and under-pressure Infantino?
 
-[原文] The pressure is building on Gianni Infantino. Can he survive as Fifa president?
+[原文] Pressure is building on Gianni Infantino. Can he survive as Fifa president after the implosion of the controversial World Cup investment plan?
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
@@ -180,23 +180,23 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/ckge35ywjvyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Root in 'very different place' over Test captaincy
+### 3. What happened to star signings your club never made?
+
+[原文] BBC Sport takes a look at some star players who were close to moving to the Premier League, only for the deals to fall through.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c5y32lgr67no?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. Root in 'very different place' over Test captaincy
 
 [原文] England's Joe Root is ready to embrace his second stint as Test captain, saying he is in a "very different place" to when he stepped down from the role four years ago.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cy0j806xryyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Shittu 'robbed' - are AI boxing judges the answer?
+### 5. Shittu 'robbed' - are AI boxing judges the answer?
 
 [原文] After commentators claim England's Dimeji Shittu was "robbed" in the Commonwealth Games final, is judging helped by artificial intelligence the answer?
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/articles/c4g42xk1l7vo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Sawyers puts heartbreak behind her to claim gold
-
-[原文] English long jumper Jazmin Sawyers overcomes previous major championship disappointments to win Commonwealth gold.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/c1d1q5y5llxo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘It: Welcome to Derry’ Creator Says Season 2 Will ‘Not’ Shy Away From the ‘Horrible’ Cultural Themes of the 1930s: It’s the ‘Heart of Our Story’
+### 1. ‘Hacks’ Stars Hannah Einbinder and Paul W. Downs on the Legacy of ‘Hacks’ and Which Character Needs a Spinoff First
+
+[原文] Hannah Einbinder says working with Gillian Anderson on the new film “Teenage Sex and Death at Camp Miasma” has actually given her a new perspective on the end of “Hacks” and its legacy. “Doing all thi
+
+📎 [阅读原文](https://variety.com/2026/tv/awards/hacks-hannah-einbinder-paul-w-downs-legacy-spinoff-1236825927/) — *Variety*
+
+### 2. Nicole Kidman and Sandra Bullock Surprise Fans at ‘Practical Magic’ Screening in Hollywood Forever Cemetery for L.A.’s Cinespia
+
+[原文] Sandra Bullock and Nicole Kidman made a surprise appearance at a screening of &#8220;Practical Magic&#8221; on Saturday night in L.A. Attendees came to the place, the Hollywood Forever Cemetery, for m
+
+📎 [阅读原文](https://variety.com/2026/film/news/nicole-kidman-sandra-bullock-practical-magic-cinespia-screening-1236825330/) — *Variety*
+
+### 3. Toymaker Hasbro Reimagines Most Iconic Board Games With Spider-Man-Themed Graphics and Gameplay
+
+[原文] &#8220;Spider-Man: Brand New Day&#8221; is shaping up to be a big hit at the box office, challenging 2019&#8217;s &#8220;Avengers: Endgame&#8221; for the biggest North American movie opening of all ti
+
+📎 [阅读原文](https://variety.com/2026/shopping/news/best-spider-man-board-games-hasbro-monopoly-buy-online-1236825826/) — *Variety*
+
+### 4. ‘It: Welcome to Derry’ Creator Says Season 2 Will ‘Not’ Shy Away From the ‘Horrible’ Cultural Themes of the 1930s: It’s the ‘Heart of Our Story’
 
 [原文] As horror fans eagerly await the next chapter in Pennywise&#8217;s (Bill Skarsgård) horrifying reign of terror, &#8220;It: Welcome to Derry&#8221; co-creator Andy Muschietti has shared some details on
 
 📎 [阅读原文](https://variety.com/2026/tv/news/it-welcome-to-derry-season-2-update-cultural-themes-1930s-1236825738/) — *Variety*
 
-### 2. Lamont Roach Jr. vs. William Zepeda Livestream: Here’s Where to Watch the Boxing Title Bout Online for Free
+### 5. Lamont Roach Jr. vs. William Zepeda Livestream: Here’s Where to Watch the Boxing Title Bout Online for Free
 
 [原文] In a title bout for the championship, American Lamont Roach, Jr. takes on Mexican boxer William Zepeda in a 12-round match. What&#8217;s on the line? The vacant WBC Lightweight title belt. At the end 
 
 📎 [阅读原文](https://variety.com/2026/shopping/news/how-to-watch-roach-jr-vs-zepeda-boxing-live-online-free-1236823309/) — *Variety*
-
-### 3. Vincent Pastore, Who Played ‘Big Pussy’ on ‘The Sopranos’, Dies at 80
-
-[原文] Vincent Pastore, who is best known for playing Salvatore “Big Pussy” Bonpensiero on HBO’s “The Sopranos,” has died, according to TMZ. He was 80. Pastore was a key player on the first two seasons of “T
-
-📎 [阅读原文](https://variety.com/2026/tv/news/vincent-pastore-dead-big-pussy-the-sopranos-hbo-1236825791/) — *Variety*
-
-### 4. Lollapalooza Shortens Wolf Alice and Cortis Sets, Delays Several More Amid Intense Flooding
-
-[原文] Day three of Lollapalooza has been delayed from 12 p.m. to 3 p.m. CT. Most of the sets scheduled within that three-hour window have been canceled, with a few exceptions. K-pop group Cortis, who have b
-
-📎 [阅读原文](https://variety.com/2026/music/news/lollapalooza-delays-flooding-wolf-alice-cortis-1236825734/) — *Variety*
-
-### 5. ‘Wild Inside’ Review: The Story of the Central Park Owl Becomes a Moving and Haunting Documentary
-
-[原文] "Wild Inside" feels like the vérité version of the greatest children’s novel E.B. White never wrote.
-
-📎 [阅读原文](https://variety.com/2026/film/reviews/wild-inside-review-the-central-park-owl-1236825626/) — *Variety*
 
 ---
 
