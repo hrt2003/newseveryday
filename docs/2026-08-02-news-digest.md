@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月02日** | 生成时间: 2026-08-02 16:28
+**2026年08月02日** | 生成时间: 2026-08-02 21:35
 
 ---
 
@@ -16,7 +16,7 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'
+### 1. Trump cancels Iran strikes subject to deal being made 'rapidly'
 
 [原文] The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the "perimeters" of a deal had been agreed.
 
@@ -28,11 +28,11 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. EU calls emergency meeting to discuss Ceuta migrant crossings
+### 3. Five dead, 41 missing, after Indonesia ferry catches fire
 
-[原文] There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.
+[原文] The vessel with at least 250 people on board caught fire off Madura island.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 4. Young guns for hire - the teenage hitmen recruited to kill across Europe
 
@@ -40,11 +40,11 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. The Sopranos star Vincent Pastore dies aged 80
+### 5. A bruising 24 hours - what next for Fifa and under-pressure Infantino?
 
-[原文] Pastore, who played Salvatore "Big Pussy" Bonpensiero in the hit US show, was found at his home in New York City, US media report.
+[原文] Pressure is building on Gianni Infantino. Can he survive as Fifa president after the implosion of the controversial World Cup investment plan?
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,23 +54,23 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump says he has canceled a planned attack on Iran after reaching an agreement over the 'perimeters of a deal'
+### 1. Trump cancels planned attack on Iran, saying he reached an agreement over the 'perimeters of a deal'
 
-[原文] The U.S. president said Iran and its regional neighbors asked the U.S. to hold off any attacks after 'the perimeters of a deal has been agreed to'.
+[原文] The U.S. president said Iran and its regional neighbors asked the U.S. to hold off on attacks after 'the perimeters of a deal has been agreed to.'
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/02/trump-planned-attack-on-iran-canceled-after-reaching-outline-of-deal.html) — *CNBC*
 
-### 2. As Americans go direct with GLP-1 prescriptions, Walmart, Costco, Amazon will be big weight-loss winners
+### 2. Why flights are so expensive and will likely stay that way
+
+[原文] Airlines are paying billions of dollars more in fuel costs this year
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/02/flights-are-getting-even-more-expensive-as-fuel-prices-rise.html) — *CNBC*
+
+### 3. As Americans go direct with GLP-1 prescriptions, Walmart, Costco, Amazon will be big weight-loss winners
 
 [原文] As Americans are encouraged to go direct with weight-loss drug prescriptions, retail pharmacy chains are poised to win big.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/01/glp-1-prescriptions-weight-loss-walmart-costco-amazon.html) — *CNBC*
-
-### 3. To keep growing, incoming Best Buy CEO says he first wants to go smaller
-
-[原文] As incoming CEO Jason Bonfig prepares to take the reins, he told CNBC he's focused on expanding the company's reach and enhancing the customer experience.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/01/best-buy-ceo-jason-bonfig-smaller-stores.html) — *CNBC*
 
 ### 4. An exam leak in India exposed a Gen Z jobs crisis that goes much deeper
 
@@ -78,11 +78,11 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/02/india-exam-leak-protests-jobs-crisis-gen-z-unemployment-modi.html) — *CNBC*
 
-### 5. OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open'
+### 5. Top Wall Street analysts are bullish on these 3 dividend stocks for passive income
 
-[原文] The wake-up call to the cyber industry comes as industry experts descend on Black Hat, a major cybersecurity conference.
+[原文] Tracking top analysts can help investors shortlist attractive dividend stocks, as these experts provide useful insights.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/01/open-ai-hugging-face-hack-cyber-warnings.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/02/top-analysts-are-bullish-on-these-dividend-stocks-for-passive-income-.html) — *CNBC*
 
 ---
 
@@ -130,35 +130,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Superheated magma may power towering lava fountains
+### 1. Scientists detect a sharp acceleration in global warming
 
-[原文] Scientists studying magma from the 2021 Tajogaite eruption on La Palma have discovered that extreme heat can dramatically change how an eruption unfolds. When magma becomes superheated, it can dissolv
+[原文] Global warming appears to have shifted into a faster gear. After removing the effects of El Niño, volcanic eruptions, and solar cycles, researchers found that the planet has warmed at roughly 0.35°C p
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260731034200.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260801093239.htm) — *Science Daily*
 
-### 2. Eating one avocado a day may lower heart disease risk
+### 2. This once-a-week workout may help cut belly fat, study shows
 
-[原文] A daily avocado may help lower heart disease risk in adults with obesity by reducing the number of LDL particles circulating in the blood. After six months, participants who ate an avocado each day ex
+[原文] A surprisingly small dose of exercise may deliver major health benefits for adults carrying excess fat around the waist. In a four-month trial involving 315 adults with central obesity, researchers fo
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260731034155.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260801042831.htm) — *Science Daily*
 
-### 3. Scientists may have found a way to prevent statin muscle pain
+### 3. Dark matter’s secret force does the opposite of what scientists expected
 
-[原文] Scientists have identified an immune response that may explain why statins cause muscle pain, weakness, and exercise intolerance in some people. The finding could eventually lead to treatments that pr
+[原文] Dark matter particles may exert a hidden force on one another, but its effects are stranger than expected. An extra attraction helps the particles cluster, yet it also makes dark matter effectively li
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260731034152.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260801042822.htm) — *Science Daily*
 
-### 4. NASA’s Curiosity rover finds a mysterious honeycomb landscape on Mars
+### 4. Without this protein, damaged muscle turns to fat and scar tissue
 
-[原文] NASA’s Curiosity rover has entered a Martian valley covered by an astonishing “sea” of tiny polygon-shaped fractures. The honeycomb patterns, each only a few inches wide, stretch across the landscape 
+[原文] A protein once thought to mainly protect chromosome ends may also be essential for keeping muscle stem cells ready to repair injuries. Researchers found that TRF2 helps these cells maintain their iden
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260731034142.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260801042814.htm) — *Science Daily*
 
-### 5. Scientists found two mysterious ‘ghost’ ancestors hiding in our DNA
+### 5. Mathematicians prove perfectly fair elections are impossible
 
-[原文] Modern humans carry DNA from two mysterious extinct lineages in addition to Neanderthals and Denisovans. Their hidden genetic legacy shows that our evolutionary past was shaped by repeated mixing amon
+[原文] Mathematicians have shown that no electoral system can perfectly balance local representation, proportional national results, and a fixed-size parliament once enough parties compete. A newly proposed 
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/07/260731034139.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260801042812.htm) — *Science Daily*
 
 ---
 
@@ -174,29 +174,29 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Emotional Kerr delivers moment Glasgow 2026 has waited for
+### 2. 2,000km, eight countries, 29 days - the fastest runner to cross the Alps
 
-[原文] There were no pacers and no wave lights. This was a Saturday night scrap - Glasgow rules - and Josh Kerr wasn't going to let anyone beat him in that fight.
+[原文] Ultra-runner Sophie Woods runs 2,000km across eight countries in only 29 days to break the record for completing the Via Alpina - one of the world's toughest endurance challenges.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/ckge35ywjvyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/articles/cg7mdjkrr22o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. What happened to star signings your club never made?
+### 3. Selfies, signatures & social media - how Kerr embraced Glasgow Games
 
-[原文] BBC Sport takes a look at some star players who were close to moving to the Premier League, only for the deals to fall through.
+[原文] Gold medallist Josh Kerr has revelled in the Commonwealth Games and in competing for Scotland in Glasgow this week.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c5y32lgr67no?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/cly976620j6o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Root in 'very different place' over Test captaincy
+### 4. Rockets survive late fightback to beat Sunrisers
 
-[原文] England's Joe Root is ready to embrace his second stint as Test captain, saying he is in a "very different place" to when he stepped down from the role four years ago.
+[原文] Trent Rockets hold off a late assault from Annabel Sutherland and Lauren Winfield-Hill to beat defending champions Sunrisers Leeds by five runs and extend their winning streak to three matches
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cy0j806xryyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cp8xw292rk0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Shittu 'robbed' - are AI boxing judges the answer?
+### 5. Coach to 'reassess' future after England miss out on netball medal
 
-[原文] After commentators claim England's Dimeji Shittu was "robbed" in the Commonwealth Games final, is judging helped by artificial intelligence the answer?
+[原文] England's netballers are outclassed 68-50 by Australia in their quest to win bronze at the Commonwealth Games.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/articles/c4g42xk1l7vo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/netball/articles/cm2gzyxv6vyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -363,35 +363,35 @@ The post Mercedes CEO Admits It &#8216;Forgot a Little
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. How wildfire smoke is reshaping childhood
+### 1. This Texas coal mine will soon be home to a 1.2GW solar farm
+
+暂无摘要。
+
+📎 [阅读原文](https://grist.org/energy/this-texas-coal-mine-will-soon-be-home-to-a-1-2gw-solar-farm/) — *Grist*
+
+### 2. How wildfire smoke is reshaping childhood
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/wildfires/how-wildfire-smoke-is-reshaping-childhood/) — *Grist*
 
-### 2. Here’s what supercharged the monster wildfires in Spain and France
+### 3. Here’s what supercharged the monster wildfires in Spain and France
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/wildfires/study-monster-wildfires-spain-france-attribution/) — *Grist*
 
-### 3. Why rice crops could be in for a weird year
+### 4. Why rice crops could be in for a weird year
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/extreme-weather/why-rice-crops-could-be-in-for-a-weird-year/) — *Grist*
 
-### 4. Wildfire prevention has always been a challenge in the West. Hotter, drier weather is making it worse.
+### 5. Wildfire prevention has always been a challenge in the West. Hotter, drier weather is making it worse.
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/extreme-weather/wildfires-forest-management-utah-west/) — *Grist*
-
-### 5. These psychedelic images reveal what your weather app isn’t telling you
-
-暂无摘要。
-
-📎 [阅读原文](https://grist.org/extreme-heat/these-psychedelic-images-reveal-what-your-weather-app-isnt-telling-you/) — *Grist*
 
 ---
 
@@ -477,35 +477,35 @@ The post Mercedes CEO Admits It &#8216;Forgot a Little
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. U.S. Makes Visa Bond Program Permanent — Visas Granted to Targeted Countries Drop 83%
+### 1. The Travel Industry Power-Struggle Map
+
+[原文] Travel is not one market. It is a series of fights over who answers the traveler, who gets found, who owns the booking, who controls the inventory, who holds the wallet, and eventually, who remembers 
+
+📎 [阅读原文](https://skift.com/2026/08/02/the-travel-industry-power-struggle-map/) — *Skift*
+
+### 2. Corporate Travel’s Rulebook Is Its AI Booking Advantage
+
+[原文] Amex GBT and Kayak for Business moved AI booking into managed travel before consumer tools cracked it. The logic: policies, approvals, and audit trails are the preconditions an agent needs to transact
+
+📎 [阅读原文](https://skift.com/2026/08/02/amex-gbt-kayak-ai-agentic-booking-business-travel/) — *Skift*
+
+### 3. U.S. Makes Visa Bond Program Permanent — Visas Granted to Targeted Countries Drop 83%
 
 [原文] Overstays from the targeted countries are down, but so is demand for tourist visas.
 
 📎 [阅读原文](https://skift.com/2026/07/31/us-visa-bond-program-final-rule/) — *Skift*
 
-### 2. UK Pubs and Clubs Get Tax Cuts. Hotels Get Left Out — Again
+### 4. UK Pubs and Clubs Get Tax Cuts. Hotels Get Left Out — Again
 
 [原文] UK hotels have been excluded from two rounds of government business rates relief. The sector is pushing back, and the numbers show why.
 
 📎 [阅读原文](https://skift.com/2026/07/31/uk-pubs-and-clubs-get-tax-cuts-hotels-get-left-out-again/) — *Skift*
 
-### 3. Mexico Will Spend $115 Million Fighting Rotting Seaweed as Hotels Slash Rates
+### 5. Mexico Will Spend $115 Million Fighting Rotting Seaweed as Hotels Slash Rates
 
 [原文] Mexico officials will invest in specialized vessels, offshore barriers and monitoring systems to tackle record-levels of sargassum — but the tourism industry wants more emphasis on environmental solut
 
 📎 [阅读原文](https://skift.com/2026/07/31/mexico-will-spend-115-million-fighting-rotting-seaweed-as-hotels-slash-rates/) — *Skift*
-
-### 4. Permira-Backed Engine Buys Options Travel to Build Corporate Booking Tool
-
-[原文] Engine is a startup that spent a decade selling hotel rooms to businesses that never hired a travel management company for help. Now it's just bought a TMC, and plans to build the booking software it 
-
-📎 [阅读原文](https://skift.com/2026/07/31/permira-backed-engine-buys-options-travel-to-build-corporate-booking-tool/) — *Skift*
-
-### 5. Accor and Treebo Call Off Deal in India: Scoop
-
-[原文] Accor's 300-hotel target by 2030 was never going to hinge on Treebo alone, but the exit strips out the one partner that gave the joint venture genuine reach into the tier-two and tier-three towns.
-
-📎 [阅读原文](https://skift.com/2026/07/31/accor-and-treebo-call-off-deal-in-india-scoop/) — *Skift*
 
 ---
 
@@ -529,6 +529,7 @@ The post Mercedes CEO Admits It &#8216;Forgot a Little
 
 - **🚗 汽车**: Autocar
 - **🌱 环境**: Inside Climate News
+- **✈️ 旅游**: Nomadic Matt
 
 ---
 
