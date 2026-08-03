@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月03日** | 生成时间: 2026-08-03 11:21
+**2026年08月03日** | 生成时间: 2026-08-03 17:52
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Two crew killed after firefighting helicopters collide in Greece, as British pilot survives
+### 1. Trump suggests new talks with Iran to begin on Monday
 
-[原文] One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.
+[原文] Tehran has not responded to the suggestion that new talks are imminent. Trump has previously said a negotiated end to the war is close, only for strikes to resume.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Trump cancels Iran strikes subject to deal being made 'rapidly'
+### 2. 'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir
 
-[原文] The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the "perimeters" of a deal had been agreed.
+[原文] The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal
+### 3. Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years
 
-[原文] Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.
+[原文] Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. How Spain's migrant crisis created a political storm - whipped up by social media
+### 4. Two workers killed in blast after re-entering quake-hit Japan mall on boss' order
 
-[原文] The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.
+[原文] The two women's employer has apologised for sending them back to Aeon Mall to secure cash.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c24mr09r99eo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths
+### 5. US and Japan take action to prop up yen in rare joint move
 
-[原文] Russia's military says it attacked Ukraine's ports and vessels in the Black Sea overnight.
+[原文] Both countries have said that they will not hesitate to conduct joint interventions in the future.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump says Iran talks to resume Monday after calling off planned strikes
-
-[原文] The latest peace proposal calls for warring parties to return to negotiations and continue working out some of the thorny issues that derailed diplomatic efforts.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/03/trump-iran-us-negotiations-peace-proposals-.html) — *CNBC*
-
-### 2. U.S., Japan confirm coordinated yen intervention, signal readiness for more
-
-[原文] Japan's finance ministry said Monday it conducted a coordinated yen-buying intervention with the U.S. Treasury on Friday.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/03/yen-intervention-us-japan-trump-bessent-katayama.html) — *CNBC*
-
-### 3. Oil drops over 4% as Middle East tensions ebb on diplomatic efforts
+### 1. Oil prices fall more than 5% as Middle East tensions ebb on diplomatic efforts
 
 [原文] Oil prices fell on Monday as investors pared geopolitical risk premiums after U.S. President Donald Trump said he had called off a planned strike on Iran.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/03/oil-prices-today-wti-brent-hormuz-trump-iran.html) — *CNBC*
 
-### 4. AstraZeneca in talks with Bristol Myers Squibb on $400 billion megadeal, FT reports
+### 2. AstraZeneca slides after report of Bristol Myers merger talks leaves analysts 'perplexed'
 
-[原文] U.K. pharmaceutical giant AstraZeneca is considering a deal to merge with its U.S. rival Bristol Myers Squibb.
+[原文] The companies have discussed a potential merger over several months, the Financial Times reported on Sunday.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/02/astrazeneca-and-bristol-myers-squibb-mull-400-billion-deal-report-.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/03/astrazeneca-bristol-myers-squibb-merger-talks.html) — *CNBC*
 
-### 5. 'Spider-Man: Brand New Day' chases 'Avengers: Endgame' opening record with $355 million domestic debut
+### 3. Why the U.S. stepped in after decades to prop up Japan's yen — and what's at stake
 
-[原文] Sony and Marvel's "Spider-Man: Brand New Day" snared $355 million in estimated domestic box office on its opening weekend, the second-highest debut of all time.
+[原文] Washington's decision to join Japan in supporting the battered yen has prompted questions over what motivated the rare coordinated intervention.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/02/spider-man-brand-new-day-box-office-355-million-domestic-opening.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/03/japan-yen-intervention-us-treasurys-euros-.html) — *CNBC*
+
+### 4. 'Winter is coming': Ukraine fears its toughest test since Russia's full-scale invasion
+
+[原文] Russian forces have ramped up the number of missile strikes on Ukrainian cities, likely seeking to exploit Kyiv's shortage of ballistic missile interceptors.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/03/ukraine-russia-war-putin-zelenskyy-winter.html) — *CNBC*
+
+### 5. Buying a condo with a mortgage may soon get more complicated. Here's why
+
+[原文] New policies that apply to mortgages for condos take effect Aug. 3, and some experts are sounding the alarm that buyers may see delays or denials.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/01/condo-buyers-mortgage-rules-fannie-mae-freddie-mac.html) — *CNBC*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Tale of two halves leaves Iraola with plenty to ponder
+### 1. English FA set to join Welsh in withdrawing support for Infantino
 
-[原文] On the overnight flight from Chicago back to England, Andoni Iraola will have plenty of thinking to do after the conclusion of Liverpool's pre-season US tour.
+[原文] The English Football Association is set to write to Fifa president Gianni Infantino withdrawing its support amid the fallout from his scrapped plans to sell off stakes in Fifa competitions to private 
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. Liverpool ship four second-half goals to leave Iraola with much to ponder
+
+[原文] Liverpool conclude their pre-season US tour with a 4-2 defeat against Leeds, having held a two-goal half-time lead in Chicago.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cr7k03gy028o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. 'No guarantees' - joyful Glasgow cannot banish all Commonwealth doubts
+### 3. From European hopes to relegation form - will Moyes reignite Everton?
 
-[原文] Glasgow 2026 was a joyful success in isolation but questions and doubts remain about the Commonwealth Games' future.
+[原文] Everton competed for the European places before falling away last season. BBC Sport examines whether David Moyes is the right man to turn them around this term.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/articles/c2k7nn9z0e7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cy5dw9xeekvo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Alonso heals Real Madrid scars to lead Chelsea's senior revolution
+### 4. Man Utd boss Skinner leaves role before WSL season
 
-[原文] Xabi Alonso on healing from his Real Madrid exit, his gut feeling to join Chelsea and why he sees his new club as an exciting opportunity.
+[原文] Manchester United manager Marc Skinner steps down from his position before the start of the Women's Super League season.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cz7d138ew59o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cdewr8w0r80o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Irish boxer Reeves 'critical but stable' in hospital
+### 5. Newcastle sign Braga keeper Hornicek for £25.7m
 
-[原文] Irish boxer Lee Reeves is in a "critical but stable" condition in hospital after he was stretchered out of the ring in Dublin on Saturday.
+[原文] Newcastle United sign goalkeeper Lukas Hornicek from Braga for £25.7m.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/articles/czxqwp57pvvo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Kuwaki wins Women's Open after Henseleit's ball strikes marshal
-
-[原文] Shiho Kuwaki holds her nerve to beat Esther Henseleit after two play-off holes to become the second consecutive Japanese player to win the Women's Open.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/cgmkz4yxpx3o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c3ekzyz1qj8o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘House of the Dragon’: Gayle Rankin on That ‘F — ed Up’ Aemond-Alys-Alicent Scene, ‘Unbearable’ Family Dinner and Dragon Egg Plans
+### 1. ‘Peaky Blinders’ Helps U.K. Region Land Official Production Hub Status From British Film Commission
 
-[原文] SPOILER ALERT: This article contains spoilers for Season 3, Episode 7 of “House of the Dragon,” now streaming on HBO Max. Gayle Rankin&#8217;s Alys Rivers has dealt with an Oedipus complex before duri
+[原文] &#8220;Peaky Blinders&#8221; may have given closely clipped back and sides haircuts a new lease of life, but it&#8217;s now helped a region of the U.K. land official backing as a center for high-end p
 
-📎 [阅读原文](https://variety.com/2026/tv/news/house-of-the-dragon-aemond-alys-rivers-alicent-sex-eggs-1236824981/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/global/peaky-blinders-uk-west-midlands-official-production-hub-1236826227/) — *Variety*
 
-### 2. ‘Jimmy’ Review: Woozily Seductive Mood Piece Wanders Europe in Pursuit of James Baldwin’s Spirit
+### 2. ‘Sunday in the Park with George’ Producers Confirm Summer 2027 Show Will Go On ‘As Planned’ After Ariana Grande Exits
 
-[原文] &#8220;If not me, who?&#8221; said actor Billy Porter in a 2024 Guardian interview, explaining the rationale for his plan to direct and star in a biopic of Black queer author and activist James Baldwi
+[原文] The London production of “Sunday in the Park With George” is set to go ahead as planned despite Ariana Grande exiting the show. The Stephen Sondheim revival, which also stars Grande&#8217;s &#8220;Wic
 
-📎 [阅读原文](https://variety.com/2026/film/reviews/jimmy-review-1236826059/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/theater/global/sunday-in-the-park-with-george-summer-2027-launch-1236826224/) — *Variety*
 
-### 3. Phil Collins Says He Almost Died in 2024 From Alcohol Abuse: ‘People Were Coming to Say Goodbye’
+### 3. Zee Shareholders Approve $330 Million Capital Raise Before Indian Regulator Bars Company From Markets
 
-[原文] Phil Collins recently told The Times of London that he almost died in 2024 from health complications stemming from alcohol abuse. The Genesis frontman explained that he was initially admitted to a Swi
+[原文] Shareholders of Indian media giant Zee Entertainment Enterprises Ltd. approved a promoter group fund infusion worth INR3143.5 crore ($330 million) and a new employee stock option plan at an extraordin
 
-📎 [阅读原文](https://variety.com/2026/music/news/phil-collins-almost-died-2024-alcohol-abuse-1236826098/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/zee-shareholders-approve-fund-raise-sebi-market-ban-1236826217/) — *Variety*
 
-### 4. Pima County Sheriff’s Department Made Several Mistakes During Search for Nancy Guthrie, New Report Claims
+### 4. Action Man Movie, Based on Iconic British Toy Originally Inspired by ‘G.I. Joe,’ in Development With Working Title and Hasbro
 
-[原文] A new report from the Wall Street Journal, published Saturday night, brings to light several possible errors by the Pima County Sheriff’s Department during its search for Nancy Guthrie, which has seen
+[原文] Action Man — the iconic British action figure that first launched in 1966 — is getting the movie treatment. Variety has confirmed that an Action Man film is being developed by U.K. powerhouse studio W
 
-📎 [阅读原文](https://variety.com/2026/tv/news/pima-county-sheriff-department-mistakes-nancy-guthrie-1236826065/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/action-man-movie-toy-working-title-hasbro-1236825801/) — *Variety*
 
-### 5. Christopher Nolan Says There Is a ‘Fundamental Flaw’ With Amateur Film Criticism: ‘To Identify the Mechanism Does Not Invalidate the Mechanism’
+### 5. Woody Harrelson to Be Honored at Sarajevo Film Festival
 
-[原文] Critics have said their piece about Christopher Nolan’s “The Odyssey,” and now he is saying his piece about them. While on “The Odyssey” press tour, the director spoke with podcaster Zhong Shu about “
+[原文] Woody Harrelson will be awarded the Honorary Heart of Sarajevo at the 32nd Sarajevo Film Festival in recognition of his &#8220;outstanding contribution to the film industry and an exceptional acting c
 
-📎 [阅读原文](https://variety.com/2026/film/news/christopher-nolan-flaw-film-criticism-the-odyssey-1236826067/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/woody-harrelson-sarajevo-film-festival-1236826197/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Wonder Man Showrunner Confirms 'Contracts Were Signed, Schedules Were Cleared' Before Marvel Canceled Season 2
+### 1. How TCL’s 2026 TV Range Brings True Competitive PC Gaming to the Couch
+
+暂无摘要。
+
+📎 [阅读原文](https://www.ign.com/articles/how-tcls-2026-tv-range-brings-true-competitive-pc-gaming-to-the-couch) — *IGN*
+
+### 2. House of the Dragon: Helaena’s Dream Points to Major Fire & Blood Changes
+
+[原文] Helaena Targaryen's latest dream in House of the Dragon hints that the HBO series is making major changes to George R.R. Martin's Fire & Blood book canon.
+
+📎 [阅读原文](https://www.ign.com/articles/house-of-the-dragon-helaena-dream-explained-fire-and-blood-changes) — *IGN*
+
+### 3. House of the Dragon Season 3, Episode 7 Recap and Review
+
+[原文] House of the Dragon Season 3, Episode 7 Recap and Review: The Targaryens remind us why their civil war is called the Dance of Dragons in a lizard-rich episode.
+
+📎 [阅读原文](https://www.ign.com/articles/house-of-the-dragon-season-3-episode-7-recap-and-review) — *IGN*
+
+### 4. Marvel's Wolverine ESRB Rating Promises 'a Handful of Sequences' Featuring 'Exposed Buttocks'
+
+[原文] Marvel's Wolverine will have gore, intense violence, strong language, and at least a few scenes featuring "a character's exposed buttocks," according to its Entertainment Software Rating Board (ESRB) 
+
+📎 [阅读原文](https://www.ign.com/articles/marvels-wolverine-esrb-rating-promises-a-handful-of-sequences-featuring-exposed-buttocks) — *IGN*
+
+### 5. Wonder Man Showrunner Confirms 'Contracts Were Signed, Schedules Were Cleared' Before Marvel Canceled Season 2
 
 [原文] Wonder Man showrunner Andrew Guest sounded off on Marvel's decision to cancel Season 2, confirming that "contracts were signed" and "schedules were cleared" before its abrupt demise.
 
 📎 [阅读原文](https://www.ign.com/articles/wonder-man-showrunner-confirms-contracts-were-signed-schedules-were-cleared-before-marvel-canceled-season-2) — *IGN*
-
-### 2. Wicked Star Ariana Grande to Take a 'Step Back From Visibility' Amid 'Endless, Ongoing Public Scrutiny'
-
-[原文] Wicked star Ariana Grande will take a ‘step back from visibility’ following her Eternal Sunshine tour, and has exited West End musical Sunday in the Park with George, which was due to open in London n
-
-📎 [阅读原文](https://www.ign.com/articles/wicked-star-ariana-grande-to-take-a-step-back-from-visibility-amid-endless-ongoing-public-scrutiny) — *IGN*
-
-### 3. Tom Holland Says Spider-Man 5 Is 'Unclear,' Teases He Knows When Miles Morales Will Join the MCU
-
-[原文] Details regarding Spider-Man 5 are "unclear," according to Tom Holland, but the longtime Peter Parker actor has at least confirmed he knows when Miles Morales will join the Marvel Cinematic Universe (
-
-📎 [阅读原文](https://www.ign.com/articles/tom-holland-says-spider-man-5-is-unclear-teases-he-knows-when-miles-morales-will-join-the-mcu) — *IGN*
-
-### 4. Spider-Man: Brand New Day Comes Close to Passing Avengers: Endgame With Second Biggest Box Office Debut of All Time at $927 Million Globally
-
-[原文] Spider-Man: Brand New Day combined the power of Tom Holland and the MCU to bring in an estimated $927 million at the global box office during its opening weekend in theaters.
-
-📎 [阅读原文](https://www.ign.com/articles/spider-man-brand-new-day-comes-close-to-passing-avengers-endgame-with-second-biggest-box-office-debut-of-all-time-at-927-million-globally) — *IGN*
-
-### 5. The Best Deals Today: Mega Man Star Force Legacy Collection, Saros, Death Stranding 2, and More
-
-暂无摘要。
-
-📎 [阅读原文](https://www.ign.com/articles/best-deals-for-august-2-2026) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post Someone Turned a BMW M4 Competition xDrive Into a Pickup appeared first
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. This Texas coal mine will soon be home to a 1.2GW solar farm
+### 1. Is the recycling symbol free speech? A judge just ruled it could be.
+
+暂无摘要。
+
+📎 [阅读原文](https://grist.org/accountability/is-the-recycling-symbol-free-speech-a-judge-just-ruled-it-could-be/) — *Grist*
+
+### 2. This Texas coal mine will soon be home to a 1.2GW solar farm
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/energy/this-texas-coal-mine-will-soon-be-home-to-a-1-2gw-solar-farm/) — *Grist*
 
-### 2. How wildfire smoke is reshaping childhood
+### 3. How wildfire smoke is reshaping childhood
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/wildfires/how-wildfire-smoke-is-reshaping-childhood/) — *Grist*
 
-### 3. Here’s what supercharged the monster wildfires in Spain and France
+### 4. Here’s what supercharged the monster wildfires in Spain and France
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/wildfires/study-monster-wildfires-spain-france-attribution/) — *Grist*
 
-### 4. Why rice crops could be in for a weird year
+### 5. Why rice crops could be in for a weird year
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/extreme-weather/why-rice-crops-could-be-in-for-a-weird-year/) — *Grist*
-
-### 5. Wildfire prevention has always been a challenge in the West. Hotter, drier weather is making it worse.
-
-暂无摘要。
-
-📎 [阅读原文](https://grist.org/extreme-weather/wildfires-forest-management-utah-west/) — *Grist*
 
 ---
 
@@ -439,35 +439,35 @@ The post Someone Turned a BMW M4 Competition xDrive Into a Pickup appeared first
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Ariana Grande Taking a ‘Step Back’ From Public Life After Tour
+### 1. Massive Attack Respond to Being Banned From Singapore Over Displaying Palestinian Flag
+
+[原文] "We did not imagine that merely holding up the flag of a sovereign state recognized by 157 countries would violate any law"
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/massive-attack-singapore-palestinian-flag-response-1235602364/) — *Rolling Stone*
+
+### 2. Ariana Grande Taking a ‘Step Back’ From Public Life After Tour
 
 [原文] "She looks forward to finishing the tour and ending it on a high note, both healthily and happily, and then taking a much-deserved break"
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/ariana-grande-step-back-tour-ends-rep-1235602318/) — *Rolling Stone*
 
-### 2. See Madonna Bring Out Kylie Minogue to Preview ‘Love Sensation’ Remix in Amsterdam
+### 3. See Madonna Bring Out Kylie Minogue to Preview ‘Love Sensation’ Remix in Amsterdam
 
 [原文] Material Girl also performs Confessions on a Dance Floor's "Sorry" live for first time since 2008 at WorldPride Amsterdam's Club Confessions gig
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/madonna-kylie-minogue-love-sensation-remix-amsterdam-1235602313/) — *Rolling Stone*
 
-### 3. Phil Collins Reveals He Nearly Died in 2024 Amid Battle With Alcohol Addiction
+### 4. Phil Collins Reveals He Nearly Died in 2024 Amid Battle With Alcohol Addiction
 
 [原文] "My kidneys were packing up, my organs were just seizing up,” Collins told the Sunday Times. "People were coming to say goodbye."
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/phil-collins-reveals-nearly-died-2024-alcohol-addiction-1235602301/) — *Rolling Stone*
 
-### 4. Lollapalooza 2026 Day Three: Olivia Dean, Sienna Spiro, and Rain Delays
+### 5. Lollapalooza 2026 Day Three: Olivia Dean, Sienna Spiro, and Rain Delays
 
 [原文] Grammy winner Dean celebrated breaking a U.K. chart record with surprise guest Sam Fender
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/olivia-dean-sam-fender-performance-lollapalooza-2026-1235598466/) — *Rolling Stone*
-
-### 5. New Radicals Release First New Song in 28 Years for ‘One Night Only’ Rom-Com
-
-[原文] "You Get What You Give" band's "One Night Only (Break Loose Break Free!)" appears on soundtrack for upcoming film
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/new-radicals-first-new-song-28-years-one-night-only-1235602202/) — *Rolling Stone*
 
 ---
 
@@ -529,6 +529,7 @@ The post Someone Turned a BMW M4 Competition xDrive Into a Pickup appeared first
 
 - **🚗 汽车**: Autocar
 - **🌱 环境**: Inside Climate News
+- **✈️ 旅游**: Nomadic Matt
 
 ---
 
