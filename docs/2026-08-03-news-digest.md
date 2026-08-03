@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月03日** | 生成时间: 2026-08-03 03:15
+**2026年08月03日** | 生成时间: 2026-08-03 11:21
 
 ---
 
@@ -16,7 +16,7 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Two crew killed as British pilot survives after firefighting helicopters collide in Greece
+### 1. Two crew killed after firefighting helicopters collide in Greece, as British pilot survives
 
 [原文] One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump cancels planned attack on Iran, saying he reached an agreement over the 'perimeters of a deal'
+### 1. Trump says Iran talks to resume Monday after calling off planned strikes
 
-[原文] The U.S. president said Iran and its regional neighbors asked the U.S. to hold off on attacks after 'the perimeters of a deal has been agreed to.'
+[原文] The latest peace proposal calls for warring parties to return to negotiations and continue working out some of the thorny issues that derailed diplomatic efforts.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/02/trump-planned-attack-on-iran-canceled-after-reaching-outline-of-deal.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/03/trump-iran-us-negotiations-peace-proposals-.html) — *CNBC*
 
-### 2. 'Spider-Man: Brand New Day' chases 'Avengers: Endgame' opening record with $355 million domestic debut
+### 2. U.S., Japan confirm coordinated yen intervention, signal readiness for more
+
+[原文] Japan's finance ministry said Monday it conducted a coordinated yen-buying intervention with the U.S. Treasury on Friday.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/03/yen-intervention-us-japan-trump-bessent-katayama.html) — *CNBC*
+
+### 3. Oil drops over 4% as Middle East tensions ebb on diplomatic efforts
+
+[原文] Oil prices fell on Monday as investors pared geopolitical risk premiums after U.S. President Donald Trump said he had called off a planned strike on Iran.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/03/oil-prices-today-wti-brent-hormuz-trump-iran.html) — *CNBC*
+
+### 4. AstraZeneca in talks with Bristol Myers Squibb on $400 billion megadeal, FT reports
+
+[原文] U.K. pharmaceutical giant AstraZeneca is considering a deal to merge with its U.S. rival Bristol Myers Squibb.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/02/astrazeneca-and-bristol-myers-squibb-mull-400-billion-deal-report-.html) — *CNBC*
+
+### 5. 'Spider-Man: Brand New Day' chases 'Avengers: Endgame' opening record with $355 million domestic debut
 
 [原文] Sony and Marvel's "Spider-Man: Brand New Day" snared $355 million in estimated domestic box office on its opening weekend, the second-highest debut of all time.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/02/spider-man-brand-new-day-box-office-355-million-domestic-opening.html) — *CNBC*
-
-### 3. Why flights are so expensive and will likely stay that way
-
-[原文] Airlines are paying billions of dollars more in fuel costs this year
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/02/flights-are-getting-even-more-expensive-as-fuel-prices-rise.html) — *CNBC*
-
-### 4. Investors scored on Iran war's oil market boom. Staying long the trade will get trickier
-
-[原文] Oil price volatility caused by U.S.-Iran war created big market winners, but for buy-and-hold investors, there are better long-term energy themes to monitor.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/02/oil-prices-iran-war-energy-market.html) — *CNBC*
-
-### 5. As Americans go direct with GLP-1 prescriptions, Walmart, Costco, Amazon will be big weight-loss winners
-
-[原文] As Americans are encouraged to go direct with weight-loss drug prescriptions, retail pharmacy chains are poised to win big.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/01/glp-1-prescriptions-weight-loss-walmart-costco-amazon.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Malaysia is reportedly shutting down Balaji Srinivasan’s Network School
+### 1. The global memory shortage hits the MacBook Air
+
+[原文] The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/) — *TechCrunch*
+
+### 2. Sam Altman and AI’s decel debate
+
+[原文] On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to "pace the rate of AI development."
+
+📎 [阅读原文](https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/) — *TechCrunch*
+
+### 3. Malaysia is reportedly shutting down Balaji Srinivasan’s Network School
 
 [原文] Let's see how this "frontier community for techno-optimists" is doing ...
 
 📎 [阅读原文](https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/) — *TechCrunch*
 
-### 2. TechCrunch Mobility: Two roads diverged — for robotaxis
+### 4. TechCrunch Mobility: Two roads diverged — for robotaxis
 
 [原文] Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/) — *TechCrunch*
 
-### 3. These App Store hidden gems prove there’s still room for great software in the AI era
+### 5. These App Store hidden gems prove there’s still room for great software in the AI era
 
 [原文] Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital 
 
 📎 [阅读原文](https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/) — *TechCrunch*
-
-### 4. Inside the London hacker house taking a stand against founder burnout
-
-[原文] How one founder house is betting work-life balance can beat burnout .
-
-📎 [阅读原文](https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/) — *TechCrunch*
-
-### 5. Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps
-
-[原文] Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Alonso heals Real Madrid scars to lead Chelsea's senior revolution
+### 1. Tale of two halves leaves Iraola with plenty to ponder
+
+[原文] On the overnight flight from Chicago back to England, Andoni Iraola will have plenty of thinking to do after the conclusion of Liverpool's pre-season US tour.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cr7k03gy028o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. 'No guarantees' - joyful Glasgow cannot banish all Commonwealth doubts
+
+[原文] Glasgow 2026 was a joyful success in isolation but questions and doubts remain about the Commonwealth Games' future.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/articles/c2k7nn9z0e7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. Alonso heals Real Madrid scars to lead Chelsea's senior revolution
 
 [原文] Xabi Alonso on healing from his Real Madrid exit, his gut feeling to join Chelsea and why he sees his new club as an exciting opportunity.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cz7d138ew59o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Finucane 'screaming inside' after record-breaking Games
+### 4. Irish boxer Reeves 'critical but stable' in hospital
 
-[原文] Emma Finucane creates history by winning a fourth track cycling Commonwealth Games gold and leads Wales into closing ceremony.
+[原文] Irish boxer Lee Reeves is in a "critical but stable" condition in hospital after he was stretchered out of the ring in Dublin on Saturday.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cycling/articles/cp30v9l3n81o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/articles/czxqwp57pvvo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Chelsea sign Strasbourg midfielder Barco
+### 5. Kuwaki wins Women's Open after Henseleit's ball strikes marshal
 
-[原文] Chelsea complete the signing of Argentina and Strasbourg midfielder Valentin Barco on a seven-year deal.
+[原文] Shiho Kuwaki holds her nerve to beat Esther Henseleit after two play-off holes to become the second consecutive Japanese player to win the Women's Open.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cdrv6e5m87no?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. Johnson denies Harrington in star-studded Portugal event
-
-[原文] Zach Johnson holds off Padraig Harrington at The Els Club in the first officially sanctioned Champions Tour event held in Portugal.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/c24mrrr6yz7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Duckett and Amir star as leaders Rockets see off Sunrisers
-
-[原文] Ben Duckett strikes a half-century and takes a sharp diving catch to remove England team-mate Harry Brook as Trent Rockets beat Sunrisers Leeds by five runs.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c1l18jr3py9o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/cgmkz4yxpx3o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘Hadestown’ Parts Ways With Hades Actor Geno Segers After Online Controversy
+### 1. ‘House of the Dragon’: Gayle Rankin on That ‘F — ed Up’ Aemond-Alys-Alicent Scene, ‘Unbearable’ Family Dinner and Dragon Egg Plans
 
-[原文] Geno Segers, who was announced this week to join Broadway’s “Hadestown,” will no longer be part of the Broadway production. “Hadestown” announced a new principal cast earlier this week, with Segers se
+[原文] SPOILER ALERT: This article contains spoilers for Season 3, Episode 7 of “House of the Dragon,” now streaming on HBO Max. Gayle Rankin&#8217;s Alys Rivers has dealt with an Oedipus complex before duri
 
-📎 [阅读原文](https://variety.com/2026/theater/news/broadways-hadestown-geno-segers-online-controversy-1236826009/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/house-of-the-dragon-aemond-alys-rivers-alicent-sex-eggs-1236824981/) — *Variety*
 
-### 2. ‘Spider-Man: Brand New Day’ Obliterates Expectations With $927 Million Global Debut
+### 2. ‘Jimmy’ Review: Woozily Seductive Mood Piece Wanders Europe in Pursuit of James Baldwin’s Spirit
 
-[原文] All hail Peter Parker. Sony and Marvel&#8217;s web-slinging adventure &#8220;Spider-Man: Brand New Day&#8221; climbed to $927 million globally, a mind-blowing, jaw-dropping and totally epic opening we
+[原文] &#8220;If not me, who?&#8221; said actor Billy Porter in a 2024 Guardian interview, explaining the rationale for his plan to direct and star in a biopic of Black queer author and activist James Baldwi
 
-📎 [阅读原文](https://variety.com/2026/film/box-office/spider-man-brand-new-day-global-debut-nears-1-billion-1236825975/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/reviews/jimmy-review-1236826059/) — *Variety*
 
-### 3. ‘Wonder Man’ Co-Creator Says ‘Contracts Were Signed, Schedules Were Cleared’ Before Marvel Series Was Canceled: ‘This Is Not a Marketing Stunt’
+### 3. Phil Collins Says He Almost Died in 2024 From Alcohol Abuse: ‘People Were Coming to Say Goodbye’
 
-[原文] “Wonder Man” showrunner and co-creator Andrew Guest took to TikTok on Saturday to thank fans and share his thoughts about the Marvel Television drama’s cancellation. “Just want to say I’ve been listen
+[原文] Phil Collins recently told The Times of London that he almost died in 2024 from health complications stemming from alcohol abuse. The Genesis frontman explained that he was initially admitted to a Swi
 
-📎 [阅读原文](https://variety.com/2026/tv/news/wonder-man-canceled-co-creator-reaction-marvel-disney-1236825977/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/phil-collins-almost-died-2024-alcohol-abuse-1236826098/) — *Variety*
 
-### 4. ‘Spider-Man: Brand New Day’ and ‘The Odyssey’ Power Biggest Collective Weekend in Box Office History With $430 Million
+### 4. Pima County Sheriff’s Department Made Several Mistakes During Search for Nancy Guthrie, New Report Claims
 
-[原文] A powerful one-two punch from &#8220;Spider-Man: Brand New Day&#8221; and &#8220;The Odyssey&#8221; has fueled the biggest collective weekend in box office history, with roughly $430 million across al
+[原文] A new report from the Wall Street Journal, published Saturday night, brings to light several possible errors by the Pima County Sheriff’s Department during its search for Nancy Guthrie, which has seen
 
-📎 [阅读原文](https://variety.com/2026/film/box-office/the-odyssey-spiderman-biggest-box-office-weekend-history-1236825132/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/pima-county-sheriff-department-mistakes-nancy-guthrie-1236826065/) — *Variety*
 
-### 5. 21 Best Movies New to Streaming in August: ‘Michael,’ ‘Mother Mary,’ ‘Oppenheimer’ Back on Peacock and More
+### 5. Christopher Nolan Says There Is a ‘Fundamental Flaw’ With Amateur Film Criticism: ‘To Identify the Mechanism Does Not Invalidate the Mechanism’
 
-[原文] Looking to watch the biggest movies of the year? You&#8217;ll have to go to the theater this August to catch &#8220;The Odyssey&#8221; and &#8220;Spider-Man: Brand New Day,&#8221; but coming home is t
+[原文] Critics have said their piece about Christopher Nolan’s “The Odyssey,” and now he is saying his piece about them. While on “The Odyssey” press tour, the director spoke with podcaster Zhong Shu about “
 
-📎 [阅读原文](https://variety.com/lists/best-movies-streaming-august-2026/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/christopher-nolan-flaw-film-criticism-the-odyssey-1236826067/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Best Deals Today: Mega Man Star Force Legacy Collection, Saros, Death Stranding 2, and More
+### 1. Wonder Man Showrunner Confirms 'Contracts Were Signed, Schedules Were Cleared' Before Marvel Canceled Season 2
+
+[原文] Wonder Man showrunner Andrew Guest sounded off on Marvel's decision to cancel Season 2, confirming that "contracts were signed" and "schedules were cleared" before its abrupt demise.
+
+📎 [阅读原文](https://www.ign.com/articles/wonder-man-showrunner-confirms-contracts-were-signed-schedules-were-cleared-before-marvel-canceled-season-2) — *IGN*
+
+### 2. Wicked Star Ariana Grande to Take a 'Step Back From Visibility' Amid 'Endless, Ongoing Public Scrutiny'
+
+[原文] Wicked star Ariana Grande will take a ‘step back from visibility’ following her Eternal Sunshine tour, and has exited West End musical Sunday in the Park with George, which was due to open in London n
+
+📎 [阅读原文](https://www.ign.com/articles/wicked-star-ariana-grande-to-take-a-step-back-from-visibility-amid-endless-ongoing-public-scrutiny) — *IGN*
+
+### 3. Tom Holland Says Spider-Man 5 Is 'Unclear,' Teases He Knows When Miles Morales Will Join the MCU
+
+[原文] Details regarding Spider-Man 5 are "unclear," according to Tom Holland, but the longtime Peter Parker actor has at least confirmed he knows when Miles Morales will join the Marvel Cinematic Universe (
+
+📎 [阅读原文](https://www.ign.com/articles/tom-holland-says-spider-man-5-is-unclear-teases-he-knows-when-miles-morales-will-join-the-mcu) — *IGN*
+
+### 4. Spider-Man: Brand New Day Comes Close to Passing Avengers: Endgame With Second Biggest Box Office Debut of All Time at $927 Million Globally
+
+[原文] Spider-Man: Brand New Day combined the power of Tom Holland and the MCU to bring in an estimated $927 million at the global box office during its opening weekend in theaters.
+
+📎 [阅读原文](https://www.ign.com/articles/spider-man-brand-new-day-comes-close-to-passing-avengers-endgame-with-second-biggest-box-office-debut-of-all-time-at-927-million-globally) — *IGN*
+
+### 5. The Best Deals Today: Mega Man Star Force Legacy Collection, Saros, Death Stranding 2, and More
 
 暂无摘要。
 
 📎 [阅读原文](https://www.ign.com/articles/best-deals-for-august-2-2026) — *IGN*
-
-### 2. Hideo Kojima Reviews Spider-Man: Brand New Day: 'It Felt Fresh, and I Really Enjoyed It'
-
-[原文] Movie critic Hideo Kojima has finally published his Spider-Man: Brand New Day review, and it turns out he "really enjoyed" its take on a "lonely Peter Parker."
-
-📎 [阅读原文](https://www.ign.com/articles/hideo-kojima-reviews-spider-man-brand-new-day-it-felt-fresh-and-i-really-enjoyed-it) — *IGN*
-
-### 3. What the Heck Is Marvel Doing With the Hulk Anyway!?
-
-[原文] After Spider-Man: Brand New Day, we've gotta ask: What the heck is Marvel doing with the Hulk these days anyway!?
-
-📎 [阅读原文](https://www.ign.com/articles/what-the-heck-is-marvel-doing-with-the-hulk-anyway-spider-man-brand-new-day) — *IGN*
-
-### 4. Spider-Man: Brand New Day Beats Avengers: Endgame Record to Claim Biggest Domestic Opening Day of All Time
-
-[原文] Marvel Studios' Spider-Man: Brand New Day has broken yet another record after webbing up a whopping $168 million at the domestic box office on its opening day.
-
-📎 [阅读原文](https://www.ign.com/articles/spider-man-brand-new-day-beats-avengers-endgame-record-to-claim-biggest-domestic-opening-day-of-all-time) — *IGN*
-
-### 5. Game of Thrones: The Mad King Reveals Full Stage Cast and First Portrait
-
-[原文] See the first official cast photo for Game of Thrones: The Mad King stage play, featuring King Aerys II, Rhaegar Targaryen, Young Ned Stark, and more.
-
-📎 [阅读原文](https://www.ign.com/articles/game-of-thrones-the-mad-king-cast-first-look) — *IGN*
 
 ---
 
@@ -439,35 +439,35 @@ The post Someone Turned a BMW M4 Competition xDrive Into a Pickup appeared first
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. See Madonna Bring Out Kylie Minogue to Preview ‘Love Sensation’ Remix in Amsterdam
+### 1. Ariana Grande Taking a ‘Step Back’ From Public Life After Tour
+
+[原文] "She looks forward to finishing the tour and ending it on a high note, both healthily and happily, and then taking a much-deserved break"
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/ariana-grande-step-back-tour-ends-rep-1235602318/) — *Rolling Stone*
+
+### 2. See Madonna Bring Out Kylie Minogue to Preview ‘Love Sensation’ Remix in Amsterdam
 
 [原文] Material Girl also performs Confessions on a Dance Floor's "Sorry" live for first time since 2008 at WorldPride Amsterdam's Club Confessions gig
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/madonna-kylie-minogue-love-sensation-remix-amsterdam-1235602313/) — *Rolling Stone*
 
-### 2. Phil Collins Reveals He Nearly Died in 2024 Amid Battle With Alcohol Addiction
+### 3. Phil Collins Reveals He Nearly Died in 2024 Amid Battle With Alcohol Addiction
 
 [原文] "My kidneys were packing up, my organs were just seizing up,” Collins told the Sunday Times. "People were coming to say goodbye."
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/phil-collins-reveals-nearly-died-2024-alcohol-addiction-1235602301/) — *Rolling Stone*
 
-### 3. Lollapalooza 2026 Day Three: Olivia Dean, Sienna Spiro, and Rain Delays
+### 4. Lollapalooza 2026 Day Three: Olivia Dean, Sienna Spiro, and Rain Delays
 
 [原文] Grammy winner Dean celebrated breaking a U.K. chart record with surprise guest Sam Fender
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/olivia-dean-sam-fender-performance-lollapalooza-2026-1235598466/) — *Rolling Stone*
 
-### 4. New Radicals Release First New Song in 28 Years for ‘One Night Only’ Rom-Com
+### 5. New Radicals Release First New Song in 28 Years for ‘One Night Only’ Rom-Com
 
 [原文] "You Get What You Give" band's "One Night Only (Break Loose Break Free!)" appears on soundtrack for upcoming film
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/new-radicals-first-new-song-28-years-one-night-only-1235602202/) — *Rolling Stone*
-
-### 5. See Phish Bust Out XTC’s ‘Melt the Guns’ for First Time Since 1987
-
-[原文] Days after nostalgic MSG run, jam band provides Fenway Park with the biggest "bust out" in Phistory
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/phish-bust-out-xtc-melt-the-guns-first-time-since-1987-1235602147/) — *Rolling Stone*
 
 ---
 
