@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月04日** | 生成时间: 2026-08-04 10:50
+**2026年08月04日** | 生成时间: 2026-08-04 16:43
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach
+### 1. EU calls for stronger borders after Ceuta migrant crossings
+
+[原文] Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Analysis: Trump challenged by cold reality from top allies
+
+[原文] A president used to bending US politics to his will faces two stinging losses in a matter of days, writes the BBC's Anthony Zurcher.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach
 
 [原文] Three children were killed when the drone crashed at a popular resort on the Black Sea.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Iran says it is in talks with Oman but not the US after Trump says negotiations to resume
+### 4. Five dead in Moscow region as Ukraine continues warehouse strikes
+
+[原文] Facilities in St Petersburg and Tver were also hit, while at least one was killed in Russian strikes on Ukraine.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Iran says it is in talks with Oman but not the US after Trump says negotiations to resume
 
 [原文] Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 3. Threat to oil tankers in Middle East  worst since start of Iran war, analysts say
-
-[原文] Fresh attacks on alternative shipping routes have left tankers facing an increasingly complex situation, analysts say.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Rhine falls to record low levels as drought strains Europe's rivers
-
-[原文] Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. US reports first two deaths linked to  'explosive diarrhoea' outbreak
-
-[原文] The illness caused by parasitic infection that spreads through contaminated food or water is not generally life-threatening, health officials say.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c2k7px317eeo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,29 +54,29 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Palantir soars 12% on blowout quarter, with U.S. commercial revenue soaring nearly 150%
+### 1. Trump warns Iran talks are ‘last chance’ to end war — oil prices rise as Tehran denies negotiations
 
-[原文] Palantir's second-quarter earnings beat expectations, and the AI software company lifted revenue guidance.
+[原文] President Donald Trump has warned that the latest round of negotiations with Iran are the "last chance" to bring an end to the five-month conflict.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/03/palantir-pltr-earnings-q2-2026.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/04/us-iran-war-trump-hormuz.html) — *CNBC*
 
-### 2. Snap's stock jumps 8% on earnings beat and strong sales forecast
+### 2. BP profit more than doubles as Trump blasts Big Oil for ‘making too much money’
 
-[原文] Snap beat analysts' estimates across the board in its second-quarter earnings report.
+[原文] The result come after U.S. President Donald Trump lashed out at Big Oil for making "too much money" off higher fuel prices amid the Iran war.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/03/snap-q2-earnings-report-2026.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/04/bp-2q-earnings-oil-iran-war.html) — *CNBC*
 
-### 3. India to raise up to $3.3 billion by selling stake in country’s largest life insurer at 10% discount
+### 3. Takaichi’s fiscal push could lift growth — and Japan’s already-rising interest bill
 
-[原文] Indian government plans to raise up to $3.3 billion by selling its stake in the country's top life insurance company.
+[原文] Japan is giving up revenue now in the hope that stronger consumption and a 370 trillion yen public-private investment will deliver faster growth later.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/04/india-lic-stake-sale-discount.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/04/japan-takaichi-food-tax-cut-jgb-boj.html) — *CNBC*
 
-### 4. Twenty five states sue Trump administration over latest global tariffs
+### 4. Treasury yields are broadly flat as investors mull uncertainty around peace talks
 
-[原文] Twenty five states sued the Trump administration, arguing its latest global tariffs unlawfully replace duties already struck down by courts.
+[原文] The yield on the 10-year U.S. Treasury note — the key benchmark for U.S. government borrowing — was flat at 4.686%.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/03/trump-tariffs-25-states-lawsuit-supreme-court.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/04/treasury-yields-investors-peace-talks-uncertainty.html) — *CNBC*
 
 ### 5. CNBC's The China Connection newsletter: AI wins come with an old investor risk
 
@@ -130,35 +130,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Two new compounds could reveal hidden drivers of Alzheimer’s disease
+### 1. Your brain may be wired to regain lost weight
+
+[原文] Weight loss is not simply a test of willpower. The human brain evolved to protect body fat during times of scarcity, and it can treat a previously higher weight as the new normal, triggering stronger 
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260803080902.htm) — *Science Daily*
+
+### 2. Two new compounds could reveal hidden drivers of Alzheimer’s disease
 
 [原文] Vanderbilt researchers created the first selective compound designed to inhibit TAOK-1, a poorly understood protein connected to Alzheimer’s disease. They also discovered a second compound that activa
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260802223437.htm) — *Science Daily*
 
-### 2. Scientists may have found aging’s hidden trigger for brain disease
+### 3. Scientists may have found aging’s hidden trigger for brain disease
 
 [原文] Scientists have identified a molecular switch that may help explain why aging makes the brain more vulnerable to diseases such as ALS and Huntington’s. In worms, the protein EPS8 builds up with age an
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260802223433.htm) — *Science Daily*
 
-### 3. Ancient Arctic carbon is pouring into the sea, but the seabed captures most of it
+### 4. Scientists went looking for giant trees in Taiwan and found a lost world
 
-[原文] Thawing Arctic permafrost is releasing ancient carbon into the ocean, raising fears that microbes could turn it into greenhouse gases and accelerate climate change. But sediment cores collected near C
+[原文] Taiwan’s steep, remote mountains have sheltered extraordinary forests containing hundreds of giant Taiwania firs. After years of difficult expeditions, LiDAR mapping, and citizen-science detective wor
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260802223424.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260802223431.htm) — *Science Daily*
 
-### 4. Scientists reveal the hidden force driving the universe’s hottest fluid
+### 5. These bizarre new beetles look so stretchy scientists named them Luffy
 
-[原文] When atomic nuclei smash together at nearly the speed of light, they create the hottest fluid in the universe, but scientists may have overlooked one of its most important forces. New simulations reve
+[原文] Scientists have named a newly discovered beetle genus Luffy, inspired by the stretchy hero of the manga and anime One Piece. The insects have unusually long, slender mandibles, antennae, and mouthpart
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260802223422.htm) — *Science Daily*
-
-### 5. Moonquakes could reveal hidden water beneath the lunar surface
-
-[原文] Hidden moon ice may reveal itself through the way it bends and reflects vibrations from moonquakes. The technique could help astronauts locate vital water supplies and uncover clues about the origins 
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260802223420.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260802223430.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Tierney shows value as Celtic title defence begins
+### 1. Ex-captain Stokes would love to coach England in future
 
-[原文] BBC Scotland looks at the impact of Kieran Tierney in Celtic's win over Dundee in the Scottish Premiership.
+[原文] Ben Stokes says he would love to become England head coach in the future, as he expresses concerns about the toll captaincy could take on Joe Root.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/articles/cpd72xwyjw9o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cgljg1ezyr9o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Infantino opponents threaten 'non co-operation' with Fifa
+### 2. Record number of new managers for season like no other
 
-[原文] Opponents of Fifa president Gianni Infantino are threatening "non co-operation" with the governing body unless he steps down, according to senior Uefa sources.
+[原文] The 2026-27 Premier League season has not yet kicked off, but it has already made history for its managerial changes.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cddjmd6189yo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. England midfielder Henderson joins Chelsea
+### 3. Itauma v Hrgovic upgraded to IBF world-title bout
 
-[原文] Free agent Jordan Henderson signs a two-year deal with Chelsea after his contract with Premier League rivals Brentford is mutually terminated.
+[原文] British heavyweight Moses Itauma's fight against Filip Hrgovic on 29 August will be for the vacant IBF title.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c62qnnrzqk5o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/articles/clyxvg8j36go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Inside Liverpool's summer so far - should fans be worried?
+### 4. Why we are still waiting for the 'Newey effect' - F1 Q&A
 
-[原文] BBC Sport's Aadam Patel reports on the latest from the Liverpool tour of the United States.
+[原文] BBC Sport F1 correspondent Andrew Benson answers your latest questions.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c4g42rz2y89o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/cpd79ln1p93o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Raducanu to miss US Open to continue recovery
+### 5. UFC's Nascimento, 34, dies after apparent heart attack
 
-[原文] Emma Raducanu will miss the US Open as she continues her recovery from a stress fracture.
+[原文] MMA fighter Allan Nascimento dies at the age of 34, says the sport's leading promotion the UFC.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cn4njxg33l7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/mixed-martial-arts/articles/cvgwvnje09po?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Dermot Mulroney Says He’s ‘Sad to See it Go’ After ‘Chicago Fire’ Exit: ‘We Gave it Our All for Two Seasons’
+### 1. Haugesund New Nordic Films Unveils French Focus Including a Case Study on ‘Ibelin,’ From ‘The Imitation Game’ Director Morten Tyldum (EXCLUSIVE)
 
-[原文] News broke on Friday that Dermot Mulroney will leave NBC’s “Chicago Fire” in its upcoming 15th season. During a recent appearance at Flash Weekend Chicago Horror Convention (via People), Mulroney open
+[原文] New Nordic Films, the Norwegian International Film Festival’s industry confab in Haugesund, has announced the program for its first ever French Focus, set up to foster partnerships and co-productions 
 
-📎 [阅读原文](https://variety.com/2026/tv/news/dermot-mulroney-sad-chicago-fire-exit-reaction-1236827150/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/morten-tyldum-les-valseurs-french-focus-haugesund-1236826569/) — *Variety*
 
-### 2. CBS Orders Comedy Pilot ‘Hilda! (In Lights!)’ About 70-Year-Old Woman Pursuing Broadway Dreams
+### 2. Hwang Bo-reum, Lee Geum-yi Among Authors in Busan Story Market’s 2026 Selections
 
-[原文] CBS has given a pilot order to a comedy series titled &#8220;Hilda! (In Lights!)&#8221; about an elderly woman who moves to New York City to pursue her Broadway dreams. Three scripts for the single-ca
+[原文] The Busan Story Market (BSM) has unveiled 25 official selections for 2026, including international bestseller Hwang Bo-reum and two-time Hans Christian Andersen Award finalist Lee Geum-yi, drawing on 
 
-📎 [阅读原文](https://variety.com/2026/tv/news/cbs-sets-comedy-pilot-hilda-in-lights-1236826913/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/markets-festivals/hwang-bo-reum-lee-geum-yi-busan-story-market-1236827371/) — *Variety*
 
-### 3. Anya Taylor-Joy Says ‘Women Don’t Method Act Because We Have Things to Take Care of and Can’t Lose Our Minds’ or Be ‘Assholes’ on Set
+### 3. Shudder Nabs U.S. Rights to ‘Bloody Tennis’ and Horror Film Grabs Buyers in Other Major Territories Ahead of Locarno World Premiere (EXCLUSIVE)
 
-[原文] Anya Taylor-Joy is known for giving full-bodied performances in the likes of &#8220;The Witch,&#8221; &#8220;The Queen&#8217;s Gambit,&#8221; &#8220;Furiosa&#8221; and more, but she&#8217;s never gone
+[原文] Nikias Chryssos&#8217; English-language horror film “Bloody Tennis” has secured several international deals, including to Shudder in the U.S., ahead of its world premiere at the Locarno Film Festival.
 
-📎 [阅读原文](https://variety.com/2026/film/news/anya-taylor-joy-women-method-act-assholes-set-1236826424/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/bloody-tennis-shudder-major-territories-sales-locarno-1236826572/) — *Variety*
 
-### 4. Dick Clark Productions Launches DCP Studios to Expand Content and Creative Capabilities
+### 4. Tadanobu Asano, Yukino Kishii’s Cannes Title ‘All the Lovers in the Night’ Lands North American Distribution (EXCLUSIVE)
 
-[原文] Dick Clark Productions has launched DCP Studios, a unit designed to expand the company&#8217;s creative and production capabilities for awards shows including the Golden Globes, “Dick Clark’s New Year
+[原文] Bitters End has set North American distribution for &#8220;All the Lovers in the Night,&#8221; Yukiko Sode&#8217;s Yukino Kishii and Tadanobu Asano starrer that premiered in Un Certain Regard at Canne
 
-📎 [阅读原文](https://variety.com/2026/tv/news/dick-clark-productions-dcp-studios-yosef-johnson-1236826766/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/tadanobu-asano-all-the-lovers-in-the-night-north-america-sales-1236827351/) — *Variety*
 
-### 5. ‘The Devil Wears Prada 2’ Hits 15.2 Million Views in Five Days on Streaming, Disney’s Biggest Live-Action Movie Premiere Since ‘Deadpool & Wolverine’
+### 5. Hyun Bin, Jung Woosung Collide Again as ‘Made in Korea’ Sets September Return on Disney+ and Hulu
 
-[原文] &#8220;The Devil Wears Prada 2&#8221; reached 15.2 million views globally in its first five days of streaming on Disney+ and Hulu. That total, calculated by dividing the total amount of time the film 
+[原文] &#8220;Made in Korea&#8221; will return for a second season on Sept. 9, streaming exclusively on Disney+ and Hulu, with stars Hyun Bin, Jung Woosung and Woo Dohwan reprising their roles for the six-ep
 
-📎 [阅读原文](https://variety.com/2026/film/news/the-devil-wears-prada-2-ratings-views-streaming-1236826857/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/hyun-bin-jung-woosung-made-in-korea-season-2-1236827347/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Beast of Reincarnation Review
+### 1. Ice Cream Man Review
+
+[原文] Ice Cream Man review: Eli Roth attempts to make his own Terrifier or Weapons only to fall painfully short of both.
+
+📎 [阅读原文](https://www.ign.com/articles/ice-cream-man-review) — *IGN*
+
+### 2. Beast of Reincarnation Review
 
 [原文] Beast of Reincarnation is an action RPG that has some great ideas blossoming here and there, but they can be hard to spot among the weeds.
 
 📎 [阅读原文](https://www.ign.com/articles/beast-of-reincarnation-review) — *IGN*
 
-### 2. Save 30% Off the Petite DJI Neo 4K Quadcopter Drone Camera, Including Bundles, Starting at Just $139
+### 3. Save 30% Off the Petite DJI Neo 4K Quadcopter Drone Camera, Including Bundles, Starting at Just $139
 
 [原文] These drones are legal to purchase and use and are FAA registration exempt.
 
 📎 [阅读原文](https://www.ign.com/articles/dji-neo-4k-quadcopter-drone-deals-august-2026) — *IGN*
 
-### 3. X-Men Fans Are Rediscovering That Samara Weaving Is a Huge Gamer After Emma Frost Casting
+### 4. X-Men Fans Are Rediscovering That Samara Weaving Is a Huge Gamer After Emma Frost Casting
 
 [原文] X-Men fans were more hyped than ever after Samara Weaving was cast as Emma Frost, but they got even more geeked after rediscovering that she’s a very serious gamer.
 
 📎 [阅读原文](https://www.ign.com/articles/x-men-fans-are-rediscovering-that-samara-weaving-is-a-huge-gamer-after-emma-frost-casting) — *IGN*
 
-### 4. The 27" LG UltraGear 280Hz Gaming Monitor Featuring Tandem OLED Tech Is on Sale Today for $399.99
+### 5. The 27" LG UltraGear 280Hz Gaming Monitor Featuring Tandem OLED Tech Is on Sale Today for $399.99
 
 [原文] Tandem OLEDs are brighter and less prone to burn-in than previous generation OLED panels.
 
 📎 [阅读原文](https://www.ign.com/articles/lg-ultragear-gaming-monitor-deal-with-tandem-oled) — *IGN*
-
-### 5. Kevin Feige Reveals Why Marvel Fought to Keep Sadie Sink's Role in Spider-Man: Brand New Day a Secret
-
-[原文] Now that Spider-Man: Brand New Day has finally revealed Sadie Sink's mystery role, Marvel Studios boss Kevin Feige has shared why the comic book movie company fought so hard to keep it a secret.
-
-📎 [阅读原文](https://www.ign.com/articles/kevin-feige-reveals-why-marvel-fought-to-keep-sadie-sinks-role-in-spider-man-brand-new-day-a-secret) — *IGN*
 
 ---
 
@@ -439,35 +439,35 @@ The post IndyCar Needed a New Racer for Many Reasons. Breaking Track
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. New Doc Will Depict Joe Jackson’s Life in Collaboration With Marlon Jackson
+### 1. Brandon Flowers Says He’s Considered Quitting Music: ‘How Much Longer do I Want to do This?’
 
-[原文] The series is set to release soon on BLK PRIME
+[原文] "I think of Mick Jagger and ask myself: What keeps him getting up on that stage?"
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/brandon-flowers-considering-quitting-music-interview-1235603183/) — *Rolling Stone*
+
+### 2. Watch Chance the Rapper Revisit Reflective Track ‘Same Drugs’ on ‘Fallon’
+
+[原文] The rapper is celebrating the 10th anniversary of his seminal mixtape Coloring Book
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/chance-the-rapper-same-drugs-fallon-coloring-book-1235603177/) — *Rolling Stone*
+
+### 3. Ariana Grande Pauses Show to Address Break From Public Eye: ‘I Wanted to Speak to my Fans Directly’
+
+[原文] A rep previously said that the singer will be taking a “step back” following her tour
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/ariana-grande-break-public-eye-pauses-show-speaks-to-fans-1235603155/) — *Rolling Stone*
+
+### 4. New Doc Will Depict Joe Jackson’s Life in Collaboration With Marlon Jackson
+
+[原文] The series is set to release soon on BLK Prime
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/joe-jackson-documentary-collaboration-marlon-jackson-1235603122/) — *Rolling Stone*
 
-### 2. David Z, Grammy-Winning Producer Who Helped Craft Prince’s Early Music, Dead at 78
+### 5. David Z, Grammy-Winning Producer Who Helped Craft Prince’s Early Music, Dead at 78
 
 [原文] The veteran producer worked with Etta James, Fine Young Cannibals, the Jets, Jonny Lang, and more
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/david-z-prince-minneapolis-sound-dead-obituary-1235602977/) — *Rolling Stone*
-
-### 3. Scout Motors Salutes Hard-working Americans at Rolling Stone’s July 4th Stateside Fest
-
-[原文] It wasn&#8217;t just any Fourth of July. It was America&#8217;s 250th birthday, and fittingly, Rolling Stone brought its inaugural Stateside festival to Kingston, N.Y. — New York&#8217;s first capital
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/scout-motors-rolling-stone-july-4th-stateside-1235601199/) — *Rolling Stone*
-
-### 4. John Mayer Reflects on Bob Weir Playing His Final Dead & Company: ‘His Ultimate Act of Defiance’
-
-[原文] Guitarist says Weir’s insistence on playing three nights was amid his health battle “one of the greatest acts of heroism I will ever see in my lifetime”
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/john-mayer-bob-weir-final-dead-and-company-health-battle-1235602656/) — *Rolling Stone*
-
-### 5. Watch Bruce Springsteen Reflect on Patti Scialfa’s Cancer Diagnosis, Perform ‘Born to Run’ Acoustic
-
-[原文] Springsteen appeared virtually at an event for the Pan-Mass Challenge, which raises funds for the Dana-Farber Cancer Institute, where Scialfa — who he said is in remission —  is being treated
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/bruce-springsteen-wife-cancer-diagnosis-born-to-run-1235602650/) — *Rolling Stone*
 
 ---
 
