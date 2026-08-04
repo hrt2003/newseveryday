@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月04日** | 生成时间: 2026-08-04 03:42
+**2026年08月04日** | 生成时间: 2026-08-04 10:50
 
 ---
 
@@ -22,29 +22,29 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Rhine falls to record low levels as drought strains Europe's rivers
-
-[原文] Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 3. Iran says it is in talks with Oman but not the US after Trump says negotiations to resume
+### 2. Iran says it is in talks with Oman but not the US after Trump says negotiations to resume
 
 [原文] Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Threat to oil tankers in Middle East  worst since start of Iran war, analysts say
+### 3. Threat to oil tankers in Middle East  worst since start of Iran war, analysts say
 
 [原文] Fresh attacks on alternative shipping routes have left tankers facing an increasingly complex situation, analysts say.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. 'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir
+### 4. Rhine falls to record low levels as drought strains Europe's rivers
 
-[原文] The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.
+[原文] Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. US reports first two deaths linked to  'explosive diarrhoea' outbreak
+
+[原文] The illness caused by parasitic infection that spreads through contaminated food or water is not generally life-threatening, health officials say.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c2k7px317eeo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Hugging Face CEO says China is winning the AI race and dominating on open models
+### 1. Palantir soars 12% on blowout quarter, with U.S. commercial revenue soaring nearly 150%
 
-[原文] Hugging Face CEO Clément Delangue said Chinese AI models could catch up to the U.S. as soon as this year.
+[原文] Palantir's second-quarter earnings beat expectations, and the AI software company lifted revenue guidance.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/03/hugging-face-china-ai-race-open-models.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/03/palantir-pltr-earnings-q2-2026.html) — *CNBC*
 
-### 2. Trump says Exxon and Chevron made 'too much money' off high oil prices during Iran conflict: 'I don't like it'
+### 2. Snap's stock jumps 8% on earnings beat and strong sales forecast
 
-[原文] U.S. crude oil prices have gained about 20% since the U.S. and Israel attacked Iran on Feb. 28.
+[原文] Snap beat analysts' estimates across the board in its second-quarter earnings report.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/03/trump-says-exxon-and-chevron-made-too-much-money-off-high-oil-prices-during-iran-conflict-i-dont-like-it.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/03/snap-q2-earnings-report-2026.html) — *CNBC*
 
-### 3. Can Palantir pull off a Microsoft-style comeback? Here's what options say
+### 3. India to raise up to $3.3 billion by selling stake in country’s largest life insurer at 10% discount
 
-[原文] Hopes are running high that high-profile software provider Palantir can shake off its nine-month bear market and rally after earnings.
+[原文] Indian government plans to raise up to $3.3 billion by selling its stake in the country's top life insurance company.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/03/can-palantir-pull-off-a-microsoft-style-comeback-heres-what-options-say.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/04/india-lic-stake-sale-discount.html) — *CNBC*
 
-### 4. FAA clears smallest Boeing 737 Max to fly after years of delays
+### 4. Twenty five states sue Trump administration over latest global tariffs
 
-[原文] Airlines can finally start flying passengers soon after planes are certified, but it can take them months to work them into schedules.
+[原文] Twenty five states sued the Trump administration, arguing its latest global tariffs unlawfully replace duties already struck down by courts.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/03/faa-boeing-737-max-certification.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/03/trump-tariffs-25-states-lawsuit-supreme-court.html) — *CNBC*
 
-### 5. Michigan confirms first two deaths in cyclospora outbreak
+### 5. CNBC's The China Connection newsletter: AI wins come with an old investor risk
 
-[原文] The Michigan Health Department said that both individuals had underlying health conditions.
+[原文] From a surprise yuan devaluation in 2015 to crackdowns in recent years, many of Beijing's policy moves appear abrupt to outsiders.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/03/cyclospora-outbreak-first-two-deaths-reported-in-michigan.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/03/cnbcs-the-china-connection-newsletter-ai-wins-create-investor-risks.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. DesignArena creators raise $7.9 million to bring taste to AI models
+### 1. After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’
 
-[原文] DesignArena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.
+[原文] After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/) — *TechCrunch*
+
+### 2. Snap CEO sidesteps Specs preorder questions on Q2 earnings call
+
+[原文] When asked about product-market fit, Spiegel said he believes mass-market consumer adoption won't occur until the end of the decade.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/03/snap-ceo-sidesteps-specs-pre-order-questions-on-q2-earnings-call/) — *TechCrunch*
+
+### 3. AWS is helping vibe-coding startup Superblocks, and the implications are big
+
+[原文] AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/) — *TechCrunch*
+
+### 4. Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated
+
+[原文] OpenAI and Anthropic admitted that their unreleased AI models escaped their sandboxes and hacked several companies in unprecedented cyberattacks. Who is legally to blame? Should prosecutors charge the
+
+📎 [阅读原文](https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/) — *TechCrunch*
+
+### 5. Design Arena creators raise $7.9 million to bring taste to AI models
+
+[原文] Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/) — *TechCrunch*
-
-### 2. Influencers draw backlash for attending OpenAI’s first luxury trip
-
-[原文] OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/) — *TechCrunch*
-
-### 3. Apple challenges UK government’s latest demand for iCloud backdoor: report
-
-[原文] Apple has appealed a new legal demand by the U.K. government, which critics say could threaten the privacy rights of users all over the world.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/03/apple-challenges-uk-governments-latest-demand-for-icloud-backdoor-report/) — *TechCrunch*
-
-### 4. Apple finally fixed Siri. So why does it feel anticlimactic?
-
-[原文] Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. But after years of delays, the launch lands in an AI landscape where chatbots have evolved into agents t
-
-📎 [阅读原文](https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/) — *TechCrunch*
-
-### 5. Outernet turns your saved posts into real-world adventures
-
-[原文] Founded by the creators of viral offline events like San Francisco’s citywide scavenger hunt Pursuit, Outernet's app helps users save places and events they discover online, then nudges them to actual
-
-📎 [阅读原文](https://techcrunch.com/2026/08/03/outernet-turns-your-saved-posts-into-real-world-adventures/) — *TechCrunch*
 
 ---
 
@@ -168,11 +168,11 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. England midfielder Henderson joins Chelsea
+### 1. Tierney shows value as Celtic title defence begins
 
-[原文] Free agent Jordan Henderson signs a two-year deal with Chelsea after his contract with Premier League rivals Brentford is mutually terminated.
+[原文] BBC Scotland looks at the impact of Kieran Tierney in Celtic's win over Dundee in the Scottish Premiership.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c62qnnrzqk5o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/articles/cpd72xwyjw9o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ### 2. Infantino opponents threaten 'non co-operation' with Fifa
 
@@ -180,23 +180,23 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Inside Liverpool's summer so far - should fans be worried?
+### 3. England midfielder Henderson joins Chelsea
+
+[原文] Free agent Jordan Henderson signs a two-year deal with Chelsea after his contract with Premier League rivals Brentford is mutually terminated.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c62qnnrzqk5o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. Inside Liverpool's summer so far - should fans be worried?
 
 [原文] BBC Sport's Aadam Patel reports on the latest from the Liverpool tour of the United States.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c4g42rz2y89o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Raducanu to miss US Open to continue recovery
+### 5. Raducanu to miss US Open to continue recovery
 
 [原文] Emma Raducanu will miss the US Open as she continues her recovery from a stress fracture.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cn4njxg33l7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Pollock to demand £1m a year at Northampton - Hearn
-
-[原文] Henry Pollock is set to demand a substantial increase on his current Northampton contract to stay at Franklin's Gardens, with agent Eddie Hearn suggesting annual earnings of £1m are his going rate.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-union/articles/c05q1g9v2evo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Jimmy Fallon is Nearly Last Late-Night Host Standing Amid Summer Hiatus
+### 1. Dermot Mulroney Says He’s ‘Sad to See it Go’ After ‘Chicago Fire’ Exit: ‘We Gave it Our All for Two Seasons’
 
-[原文] And then there was Fallon. NBC&#8217;s &#8220;Tonight Show&#8221; is the only late-night program to keep on keeping on as usual as the nation moves into late summer, a sign of how the wee-hours format
+[原文] News broke on Friday that Dermot Mulroney will leave NBC’s “Chicago Fire” in its upcoming 15th season. During a recent appearance at Flash Weekend Chicago Horror Convention (via People), Mulroney open
 
-📎 [阅读原文](https://variety.com/2026/tv/news/jimmy-fallon-last-late-night-host-standing-summer-hiatus-1236826644/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/dermot-mulroney-sad-chicago-fire-exit-reaction-1236827150/) — *Variety*
 
-### 2. This ‘Spider-Man’ Art Book Explores the Making of ‘Brand New Day,’ From Early Concept Sketches to Final Production Designs
+### 2. CBS Orders Comedy Pilot ‘Hilda! (In Lights!)’ About 70-Year-Old Woman Pursuing Broadway Dreams
 
-[原文] Spider-Man is swinging from the big screen to the coffee table. A new hardcover book exploring the making of Tom Holland&#8217;s latest Marvel adventure is now available to pre-order on Amazon ahead o
+[原文] CBS has given a pilot order to a comedy series titled &#8220;Hilda! (In Lights!)&#8221; about an elderly woman who moves to New York City to pursue her Broadway dreams. Three scripts for the single-ca
 
-📎 [阅读原文](https://variety.com/2026/shopping/news/spider-man-brand-new-day-art-book-sketches-1236826647/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/cbs-sets-comedy-pilot-hilda-in-lights-1236826913/) — *Variety*
 
-### 3. Costume Designer Arianne Phillips on How Madonna Inspired ‘I Want Your Sex,’ and Finding Olivia Wilde’s Frustrated Artist Look for ‘The Invite’
+### 3. Anya Taylor-Joy Says ‘Women Don’t Method Act Because We Have Things to Take Care of and Can’t Lose Our Minds’ or Be ‘Assholes’ on Set
 
-[原文] Olivia Wilde once called costume designer Arianne Phillips “one of the greatest costume designers in film history.” Phillips worked with Wilde on &#8220;Don’t Worry Darling,&#8221; and when it came to
+[原文] Anya Taylor-Joy is known for giving full-bodied performances in the likes of &#8220;The Witch,&#8221; &#8220;The Queen&#8217;s Gambit,&#8221; &#8220;Furiosa&#8221; and more, but she&#8217;s never gone
 
-📎 [阅读原文](https://variety.com/2026/artisans/news/costumes-i-want-your-sex-the-invite-1236824429/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/anya-taylor-joy-women-method-act-assholes-set-1236826424/) — *Variety*
 
-### 4. Every ‘Spider-Man’ Movie Ranked From Worst to Best
+### 4. Dick Clark Productions Launches DCP Studios to Expand Content and Creative Capabilities
 
-[原文] Throughout two decades of web-slinging, rebooting, reversals of fortune, immersions into the Marvel Cinematic Universe and sporadic reappearances by the Spidey-hating J. Jonah Jameson, the “Spider-Man
+[原文] Dick Clark Productions has launched DCP Studios, a unit designed to expand the company&#8217;s creative and production capabilities for awards shows including the Golden Globes, “Dick Clark’s New Year
 
-📎 [阅读原文](https://variety.com/lists/spider-man-movies-ranked-best-worst/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/dick-clark-productions-dcp-studios-yosef-johnson-1236826766/) — *Variety*
 
-### 5. ‘The Beloved,’ ‘Minotaur,’ ‘No Good Men’ Among Sarajevo Film Festival’s Open Air Selection
+### 5. ‘The Devil Wears Prada 2’ Hits 15.2 Million Views in Five Days on Streaming, Disney’s Biggest Live-Action Movie Premiere Since ‘Deadpool & Wolverine’
 
-[原文] The Sarajevo Film Festival has revealed the lineup of its Open Air section, which screens films outdoors in the festival’s largest venue, the Coca-Cola Open Air Cinema. The Open Air section includes f
+[原文] &#8220;The Devil Wears Prada 2&#8221; reached 15.2 million views globally in its first five days of streaming on Disney+ and Hulu. That total, calculated by dividing the total amount of time the film 
 
-📎 [阅读原文](https://variety.com/2026/film/global/sarajevo-film-festival-open-air-section-1236826332/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/the-devil-wears-prada-2-ratings-views-streaming-1236826857/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Popular Budget-Friendly Flashforge Adventurer 5M 3D Printer Drops to a Mere $135 Shipped
+### 1. Beast of Reincarnation Review
 
-[原文] This may be the best price I've seen for a solid entry-level 3D printer.
+[原文] Beast of Reincarnation is an action RPG that has some great ideas blossoming here and there, but they can be hard to spot among the weeds.
 
-📎 [阅读原文](https://www.ign.com/articles/flashforge-adventurer-5m-3d-printer-deal-july-2026-updated) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/beast-of-reincarnation-review) — *IGN*
 
-### 2. The UrLife E20 1,000W 48V Adult Electric Bike With 28mph Top Speed and 80 Mile Range Drops to $282
+### 2. Save 30% Off the Petite DJI Neo 4K Quadcopter Drone Camera, Including Bundles, Starting at Just $139
 
-[原文] Zip to places faster and easier when you go back to school.
+[原文] These drones are legal to purchase and use and are FAA registration exempt.
 
-📎 [阅读原文](https://www.ign.com/articles/urlife-e20-1000w-48v-adult-electric-bike-deal-july-2026-updated) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/dji-neo-4k-quadcopter-drone-deals-august-2026) — *IGN*
 
-### 3. Announcing Game Scope: IGN Daily Game #001
+### 3. X-Men Fans Are Rediscovering That Samara Weaving Is a Huge Gamer After Emma Frost Casting
 
-[原文] A new daily game that zooms WAY in on screenshots. Can you guess the game before it zooms all the way out?
+[原文] X-Men fans were more hyped than ever after Samara Weaving was cast as Emma Frost, but they got even more geeked after rediscovering that she’s a very serious gamer.
 
-📎 [阅读原文](https://www.ign.com/articles/announcing-game-scope-ign-daily-game-001) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/x-men-fans-are-rediscovering-that-samara-weaving-is-a-huge-gamer-after-emma-frost-casting) — *IGN*
 
-### 4. Rockstar Games Killed Midnight Club 5 Because It Wasn't as Big as GTA, Ex-Designer Claims
+### 4. The 27" LG UltraGear 280Hz Gaming Monitor Featuring Tandem OLED Tech Is on Sale Today for $399.99
 
-[原文] An ex-Rockstar Games designer claims that the studio killed the Midnight Club franchise as it wasn't as big as Grand Theft Auto.
+[原文] Tandem OLEDs are brighter and less prone to burn-in than previous generation OLED panels.
 
-📎 [阅读原文](https://www.ign.com/articles/rockstar-games-killed-midnight-club-5-because-it-wasnt-as-big-as-gta-ex-designer-claims) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/lg-ultragear-gaming-monitor-deal-with-tandem-oled) — *IGN*
 
-### 5. The 4K-Ready iBuypower AMD Ryzen 9 9900X Radeon RX 9070 XT Gaming PC Drops to $1,799
+### 5. Kevin Feige Reveals Why Marvel Fought to Keep Sadie Sink's Role in Spider-Man: Brand New Day a Secret
 
-[原文] This prebuilt will run the hottest new games in 4K, including Pragmata, 007: First Light, and Forza Horizon 6.
+[原文] Now that Spider-Man: Brand New Day has finally revealed Sadie Sink's mystery role, Marvel Studios boss Kevin Feige has shared why the comic book movie company fought so hard to keep it a secret.
 
-📎 [阅读原文](https://www.ign.com/articles/ibuypower-radeon-rx-9070-xt-gaming-pc-deal-july-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/kevin-feige-reveals-why-marvel-fought-to-keep-sadie-sinks-role-in-spider-man-brand-new-day-a-secret) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Watch Ford’s Hypercar V8 Rev Through a Lap of Le Mans on the Dyno
+### 1. 275-HP Polaris RZR Pro R Boost Is the World’s Most Powerful Factory Side-by-Side
+
+[原文] A big Garrett turbocharger adds 50 horsepower to the 2.0-liter four-cylinder, but the upgrades don't stop there for the machine that tops out at $56,999.
+The post 275-HP Polaris RZR Pro R Boost Is the
+
+📎 [阅读原文](https://www.thedrive.com/news/275-hp-polaris-rzr-pro-r-boost-is-the-worlds-most-powerful-factory-side-by-side) — *The Drive*
+
+### 2. Police Arrest Farm Diesel Theft Suspect After Months-Long Investigation and 500 Gallons of Missing Fuel
+
+[原文] You have to be specially equipped to steal (and store) that much diesel.
+The post Police Arrest Farm Diesel Theft Suspect After Months-Long Investigation and 500 Gallons of Missing Fuel appeared first
+
+📎 [阅读原文](https://www.thedrive.com/news/police-arrest-farm-diesel-theft-suspect-after-months-long-investigation-and-500-gallons-of-missing-fuel) — *The Drive*
+
+### 3. Audi CEO Admits New Flagship SUV Almost Got Those Electronic Door Handles Nobody Asked For
+
+[原文] Audi CEO Gernot Döllner told The Drive one final test drive was enough to kill the Q9's electronic door handles.
+The post Audi CEO Admits New Flagship SUV Almost Got Those Electronic Door Handles Nobo
+
+📎 [阅读原文](https://www.thedrive.com/news/audi-ceo-admits-new-flagship-suv-almost-got-those-electronic-door-handles-nobody-asked-for) — *The Drive*
+
+### 4. Watch Ford’s Hypercar V8 Rev Through a Lap of Le Mans on the Dyno
 
 [原文] With loads of data flowing in from Ford Racing's multi-million-dollar simulator, dyno engineers can get to work simulating laps around the Circuit de la Sarthe.
 The post Watch Ford&#8217;s Hypercar V8
 
 📎 [阅读原文](https://www.thedrive.com/news/watch-fords-hypercar-v8-rev-through-a-lap-of-le-mans-on-the-dyno) — *The Drive*
 
-### 2. IndyCar Needed a New Racer for Many Reasons. Breaking Track Records Is One of Them
+### 5. IndyCar Needed a New Racer for Many Reasons. Breaking Track Records Is One of Them
 
 [原文] Not only is the current car almost 16 years old, but it has also hit a ceiling on safety and performance. The IR28 should fix that.
 The post IndyCar Needed a New Racer for Many Reasons. Breaking Track
 
 📎 [阅读原文](https://www.thedrive.com/news/indycar-needed-a-new-racer-for-many-reasons-breaking-track-records-is-one-of-them) — *The Drive*
-
-### 3. A Lowrider Meet Convinced Me: Enthusiasts Should Step Out of Their Comfort Zones
-
-[原文] Stumbling upon the "Envy Frenzy 26" car show this weekend reminded me "all show and no go" cars can actually be a lot of fun to look at.
-The post A Lowrider Meet Convinced Me: Enthusiasts Should Step 
-
-📎 [阅读原文](https://www.thedrive.com/news/a-lowrider-meet-convinced-me-enthusiasts-should-step-out-of-their-comfort-zones) — *The Drive*
-
-### 4. Florida Says $200M Fund for EV Chargers Is ‘Waste’ to Taxpayers, Should Go to Flying Taxis Instead: TDS
-
-[原文] Nearly $200 million was earmarked to build out charging infrastructure in the state with the second-most EVs. Now, the Florida DOT wants to spend it on an "aerial highway network."
-The post Florida Sa
-
-📎 [阅读原文](https://www.thedrive.com/news/florida-says-200m-fund-for-ev-chargers-is-waste-to-taxpayers-should-go-to-flying-taxis-instead-tds) — *The Drive*
-
-### 5. Battery-Powered Semi Truck ‘Backpack’ Converts Diesel Big Rigs to Hybrids. But Why?
-
-[原文] The startup behind this idea just raised $27 million, which it plans to use to develop a cheaper version offering the same battery range.
-The post Battery-Powered Semi Truck &#8216;Backpack&#8217; Con
-
-📎 [阅读原文](https://www.thedrive.com/news/battery-powered-semi-truck-backpack-converts-diesel-big-rigs-to-hybrids-but-why) — *The Drive*
 
 ---
 
@@ -439,35 +439,35 @@ The post Battery-Powered Semi Truck &#8216;Backpack&#8217; Con
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Scout Motors Salutes Hard-working Americans at Rolling Stone’s July 4th Stateside Fest
+### 1. New Doc Will Depict Joe Jackson’s Life in Collaboration With Marlon Jackson
+
+[原文] The series is set to release soon on BLK PRIME
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/joe-jackson-documentary-collaboration-marlon-jackson-1235603122/) — *Rolling Stone*
+
+### 2. David Z, Grammy-Winning Producer Who Helped Craft Prince’s Early Music, Dead at 78
+
+[原文] The veteran producer worked with Etta James, Fine Young Cannibals, the Jets, Jonny Lang, and more
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/david-z-prince-minneapolis-sound-dead-obituary-1235602977/) — *Rolling Stone*
+
+### 3. Scout Motors Salutes Hard-working Americans at Rolling Stone’s July 4th Stateside Fest
 
 [原文] It wasn&#8217;t just any Fourth of July. It was America&#8217;s 250th birthday, and fittingly, Rolling Stone brought its inaugural Stateside festival to Kingston, N.Y. — New York&#8217;s first capital
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/scout-motors-rolling-stone-july-4th-stateside-1235601199/) — *Rolling Stone*
 
-### 2. John Mayer Reflects on Bob Weir Playing His Final Dead & Company: ‘His Ultimate Act of Defiance’
+### 4. John Mayer Reflects on Bob Weir Playing His Final Dead & Company: ‘His Ultimate Act of Defiance’
 
 [原文] Guitarist says Weir’s insistence on playing three nights was amid his health battle “one of the greatest acts of heroism I will ever see in my lifetime”
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/john-mayer-bob-weir-final-dead-and-company-health-battle-1235602656/) — *Rolling Stone*
 
-### 3. Watch Bruce Springsteen Reflect on Patti Scialfa’s Cancer Diagnosis, Perform ‘Born to Run’ Acoustic
+### 5. Watch Bruce Springsteen Reflect on Patti Scialfa’s Cancer Diagnosis, Perform ‘Born to Run’ Acoustic
 
 [原文] Springsteen appeared virtually at an event for the Pan-Mass Challenge, which raises funds for the Dana-Farber Cancer Institute, where Scialfa — who he said is in remission —  is being treated
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/bruce-springsteen-wife-cancer-diagnosis-born-to-run-1235602650/) — *Rolling Stone*
-
-### 4. Zac Brown Band Celebrates Concert Milestone by Giving Away Free Cruises to Entire Stadium
-
-[原文] The country group surprised 37,000 audience members at Boston's Fenway Park with a trip on Margaritaville at Sea in honor of 15 consecutive sold-out shows
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/zac-brown-brand-fenway-park-milestone-free-cruises-1235602576/) — *Rolling Stone*
-
-### 5. Hear Lucy Dacus’ Cover of ‘Clay Pigeons’ for Blaze Foley Tribute Album
-
-[原文] Sittin’ With Blaze is set for release Friday, August 7, and includes covers from Phosphorescent, Lucinda Williams, Willie Watson, Cactus Lee, Dylan Earl, Uncle Lucius, Riley Downing, and more
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/lucy-dacus-clay-pigeons-blaze-foley-tribute-album-1235602470/) — *Rolling Stone*
 
 ---
 
@@ -529,7 +529,6 @@ The post Battery-Powered Semi Truck &#8216;Backpack&#8217; Con
 
 - **🚗 汽车**: Autocar
 - **🌱 环境**: Inside Climate News
-- **✈️ 旅游**: Nomadic Matt
 
 ---
 
