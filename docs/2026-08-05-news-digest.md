@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月05日** | 生成时间: 2026-08-05 16:41
+**2026年08月05日** | 生成时间: 2026-08-05 22:18
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall
-
-[原文] US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 2. Russian strike kills at least 17 as Zelensky says interceptors could have saved lives
+### 1. Russia strike kills 21 as Ukraine says it needs more missile interceptors
 
 [原文] The Russia defence ministry said it had struck logistics hubs and supply centres in Kyiv and the surrounding region.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Armed man arrested near Trump's golf course ahead of president's visit
+### 2. Drone carrying explosives found at German airport, police say
 
-[原文] The arrest happened shortly before President Trump was due to host a fundraising dinner at the coastal golf course in California.
+[原文] The drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Police raid Starbucks Korea headquarters over 'Tank Day' fiasco
+### 3. Left-wing political outsider wins Democratic Senate primary in Michigan
 
-[原文] People have filed complaints against Starbucks for allegedly making light of the deadly Gwangju Uprising.
+[原文] Abdul El-Sayed, the son of Egyptian immigrants, would be the first Muslim US senator if elected in November.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c0kmd4xpr46o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/ckgdkpz07kvo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Afghan boxer appears in court in connection with death of Scottish woman
+### 4. What can scientists learn from a stray SpaceX rocket hitting the Moon?
 
-[原文] Sharif Ahmadzai, 26, is being held in connection with the death of Elisabeth Jane Ross from Edinburgh.
+[原文] While the collision was an accident, it is a unique scientific gift for planetary geologists that could provide important data for future space missions.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cq56qejll6vo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c62q0xerzrno?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. UN rights chief alarmed by rise in Iran executions since March
+
+[原文] Volker Türk says 56 people have been executed on national security-related charges, including 27 in cases linked to January's protests.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c75gvzxrz49o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. SpaceX dives 10% after AI spending surge rattles investors
+### 1. Fed's Kashkari says 'now is the time to start slowly moving' rates up
+
+[原文] Kashkari was one of three dissenters at last week's Federal Open Market Committee meeting.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/05/feds-kashkari-says-now-is-the-time-to-start-slowly-moving-rates-up.html) — *CNBC*
+
+### 2. Situational Awareness hedge fund meltdown was a warning shot for leveraged markets, BofA CEO says
+
+[原文] Bank of America was among the prime brokers for the hedge fund, which is run by Leopold Aschenbrenner.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/05/bofa-brian-moynihan-situational-awareness-meltdown-was-a-warning-shot.html) — *CNBC*
+
+### 3. Abdul El-Sayed wins Michigan Democratic Senate primary as voters pivot to the left
+
+[原文] Abdul El-Sayed won the Michigan Democratic Senate primary, setting up a context with former Rep. Mike Rogers in the November general election.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/04/abdul-el-sayed-haley-stevens-michigan-primary.html) — *CNBC*
+
+### 4. SpaceX dives 9% after AI spending surge rattles investors
 
 [原文] CEO Elon Musk said SpaceX would hit $1 trillion in annual revenue in 2030 versus a previous forecast of 2031 as he looked to strike an bullish tone.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/05/spacex-spcx-stock-today-earnings.html) — *CNBC*
 
-### 2. U.S. says Strait of Hormuz is 'free and open' as Bessent signals deal with Iran is close
+### 5. Saudi wealth fund and Jared Kushner's Affinity finalize $55 billion EA Sports deal
 
-[原文] U.S. Central Command said the "southern route of the Strait of Hormuz remains free and open"
+[原文] EA said its stock has ceased trading and will be delisted from the Nasdaq. Its shareholders will receive $210 in cash per share.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/05/us-iran-war-trump-hormuz-bessent-iran-deal-close.html) — *CNBC*
-
-### 3. Novo Nordisk CEO defends economics of Wegovy pill as lower prices weigh on sales; shares fall
-
-[原文] Wall Street isn't convinced the Ozempic maker has a promising path back to sustainable growth as competition from Eli Lilly intensifies.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/05/novo-nordisk-stock-guidance-earnings-wegovy-ozempic-eli-lilly.html) — *CNBC*
-
-### 4. Europe is blowing up riverbeds as an extreme drought wreaks havoc on its economy
-
-[原文] Severe drought is disrupting energy and freight across Europe as low Rhine and Danube levels raise risks for supply chains and economic growth.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/05/drought-rhine-danube-water-levels-economy.html) — *CNBC*
-
-### 5. GM, Chinese automaker extend joint venture for 20 years despite geopolitical tensions with U.S.
-
-[原文] GM said the deal will focus on domestic sales of Buick and Cadillac models in China and exporting Chevrolet products built in China for non-U.S. markets.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/04/gm-chinese-automaker-extend-tie-up-amid-geopolitical-tensions-with-us.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/05/saudi-wealth-fund-jared-kushner-ea-sports-deal.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Wispr Flow launches a Granola-styled meeting notetaker
+### 1. Anthropic is hiring an AI chip design team
 
-[原文] Wispr Flow's new terms of service indicate it will introduce a notetaker that generates meeting summaries and action items.
+[原文] Anthropic is building a team for designing its own custom AI chips. The Claude-maker said it would co-design hardware and models to help its technology run faster and more efficiently.
 
-📎 [阅读原文](https://techcrunch.com/2026/08/05/wispr-flow-is-preparing-to-launch-a-meeting-notetaker-updated-terms-suggest/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/) — *TechCrunch*
 
-### 2. Elon Musk repeatedly one-upped his execs on SpaceX’s first earnings call
+### 2. Disney+ looks to TikTok creators to bring fan content to its short-form video feed
 
-[原文] Musk kept inflating the already-big promises being made by SpaceX CFO Bret Johnsen and Gwynne Shotwell on the company's first call.
+[原文] As streamers compete with social media giants for viewer attention, Disney+ is partnering with TikTok to bring creator content to its app.
 
-📎 [阅读原文](https://techcrunch.com/2026/08/04/elon-musk-repeatedly-one-upped-his-execs-on-spacexs-first-earnings-call/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/08/05/disney-looks-to-tiktok-creators-to-bring-fan-content-to-its-short-form-video-feed/) — *TechCrunch*
 
-### 3. Lucid’s turnaround plan hinges on $1.4B in cash savings, robotaxis
+### 3. MacPaw taps Liquid AI to offer on-device inference to devs building for its app store
 
-[原文] Lucid's new CEO Silvio Napoli listed four must-win priorities, including the successful launch of its midsize EV, finishing a factory in Saudi Arabia, cutting expenses, and robotaxis.
+[原文] MacPaw is building a local version of its AI assistant Eney using Liquid AI's models.
 
-📎 [阅读原文](https://techcrunch.com/2026/08/04/lucids-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/) — *TechCrunch*
 
-### 4. How to get the best hotel deals for TechCrunch Disrupt 2026
+### 4. Robinhood to list a fund that lets anyone back Y Combinator startups
 
-[原文] We’ve partnered with hotels around Moscone West during Disrupt, taking place October 13 to 15, to secure the best prices available for attendees.
+[原文] Robinhood's latest financial instrument intends to let any retail investor feel like they, too, can make money by backing Y Combinator startups.
 
-📎 [阅读原文](https://techcrunch.com/2026/08/04/how-to-get-the-best-hotel-deals-for-techcrunch-disrupt-2026/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/08/05/robinhood-to-list-a-fund-that-lets-anyone-back-y-combinator-startups/) — *TechCrunch*
 
-### 5. SpaceX has bought $329M worth of Tesla Megapacks so far this year
+### 5. Indian EV startup River raises $120M Series C to scale production, launch more models
 
-[原文] The purchase illustrates just how interconnected Elon Musk's universe of companies are.
+[原文] River plans to build a new factory, launch additional models from 2027, and target profitability as it scales production.
 
-📎 [阅读原文](https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/08/05/indian-ev-two-wheeler-startup-river-raises-120m-after-scaling-with-one-model/) — *TechCrunch*
 
 ---
 
@@ -130,35 +130,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. This hydrogen turbine turns controlled explosions into electricity
+### 1. A colossal magma system has been hiding beneath Tuscany
 
-[原文] Scientists have successfully generated electricity with a hydrogen turbine that produces its own pressure through detonation waves instead of relying on a mechanical compressor. The breakthrough could
+[原文] A massive magma reservoir has been detected deep beneath Tuscany, despite showing no obvious signs at the surface. Scientists mapped the roughly 6,000-cubic-kilometer body using natural ground vibrati
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260803080919.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260804034645.htm) — *Science Daily*
 
-### 2. Cancer-fighting chewing gum cuts HPV levels by up to 93%
+### 2. Europe’s wildfires became so intense they created their own storm
 
-[原文] A specially engineered chewing gum reduced HPV by up to 93% and nearly eliminated two bacteria linked to head and neck cancer. The treatment preserved beneficial mouth bacteria, raising hopes for a sa
+[原文] Historic wildfires scorched huge areas of Spain and France, with one Spanish blaze burning an area about the size of New York City and a French fire generating a rare, towering fire cloud. A dangerous
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260803080917.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260804034631.htm) — *Science Daily*
 
-### 3. 518-million-year-old creature reveals the origins of spider fangs
+### 3. A solar eclipse and the Perseid meteor shower arrive on the same day
 
-[原文] A tiny 518-million-year-old sea creature has revealed the earliest known evidence of the structures that eventually became spiders’ fangs. Hidden inside the fossil were pincerlike limbs and preserved 
+[原文] August brings four major celestial events, including a solar eclipse and the peak of the Perseid meteor shower. Dark New Moon skies could make the Perseids especially impressive, while Venus will blaz
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260803080906.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260804034628.htm) — *Science Daily*
 
-### 4. Strange quantum experiment shows “negative time” is more than an illusion
+### 4. Sitting up straight may improve your mood and decision-making
 
-[原文] Photons traveling through a cloud of atoms can emerge so early that they appear to have spent a negative amount of time inside. Researchers tested whether this was merely a misleading feature of the l
+[原文] A simple change in posture may subtly affect how people feel and make decisions. Participants who sat upright reported greater feelings of pride and took more successful risks in a virtual balloon gam
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260803080904.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260804034624.htm) — *Science Daily*
 
-### 5. Your brain may be wired to regain lost weight
+### 5. Scientists discover the brain cells that keep you motivated
 
-[原文] Weight loss is not simply a test of willpower. The human brain evolved to protect body fat during times of scarcity, and it can treat a previously higher weight as the new normal, triggering stronger 
+[原文] A group of brain cells called orexin neurons appears to help us keep working when reaching a reward becomes increasingly difficult. Blocking their activity weakened motivation in rats, pointing to a p
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260803080902.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260804034622.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Why Liverpool are ready to make Barcola third £100m signing
+### 1. Key questions as Infantino faces Fifa executives
 
-[原文] With Liverpool prepared to make Bradley Barcola their third £100m signing, BBC Sport looks at what the France and Paris St-Germain winger would bring to Anfield.
+[原文] Fifa president Gianni Infantino will face senior leaders of football's world governing body on Wednesday. This is what is expected to happen.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c5y3pd5xvpzo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c62vd95ljp0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. What happens next with Rashford and Man Utd?
+### 2. Salah mobbed at airport before Trabzonspor move
 
-[原文] Marcus Rashford is expected to return to Manchester United training in the coming days as debate continues over whether that is a good thing or not.
+[原文] Turkish club Trabzonspor are set to confirm the signing of Egypt captain and former Liverpool forward Mohamed Salah.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cx25y63wr51o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cn8negllz1ko?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Arsenal set to sign Newcastle captain Guimaraes
+### 3. Why Arsenal are signing Newcastle captain Guimaraes
 
-[原文] Arsenal are set to complete their protracted move for Newcastle captain Bruno Guimaraes.
+[原文] With Bruno Guimaraes set to sign for Premier League champions Arsenal, BBC Sport look at why the Gunners wanted the Newcastle skipper.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c8en9rnex2jo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/clyl2e351vlo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Infantino calls executive meeting as criticism mounts
+### 4. Transfer 'shark' De Zerbi hopes to drag Spurs up from depths
 
-[原文] Gianni Infantino summons senior leaders to a meeting on Wednesday, after facing more fierce criticism of his scrapped plan to sell off Fifa's commercial and event operations.
+[原文] Through his self-confessed love of the transfer window, Tottenham boss Roberto de Zerbi hopes he can guide his club back up the Premier League table.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c2k7p4nxdy4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/crrv2dvgppjo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Turkish club Trabzonspor begin talks to sign Salah
+### 5. Lines to be first British woman in America's Cup team for 90 years
 
-[原文] Turkish club Trabzonspor say they have begun negotiations to sign Mohamed Salah.
+[原文] Jemima Lines has hailed a "pivotal moment" in her sport after she became the first woman to be selected for the British America's Cup team in 90 years.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ckgdkd5ggg7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/sailing/articles/c86n53qj312o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘Ted Lasso’ Season 4 Is Both a Promising Reboot and a Tedious Sequel: TV Review
+### 1. Cinema Ritrovato Chief Gianluca Farinelli Appointed Artistic Director of Italy’s David di Donatello Awards
 
-[原文] Anyone with even the vaguest understanding of the profit motive can understand why Apple TV sports comedy “Ted Lasso” has returned three years after its poorly received —&#160;yet still widely watched
+[原文] Gianluca Farinelli, who is head of Italy&#8217;s venerable Il Cinema Ritrovato festival dedicated to cinematic treasures of the past, has been appointed artistic director of the David di Donatello awa
 
-📎 [阅读原文](https://variety.com/2026/tv/reviews/ted-lasso-season-4-review-1236827749/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/awards/cinema-ritrovato-gianluca-farinelli-david-donatello-1236828287/) — *Variety*
 
-### 2. ‘The Blacklist Was a Plague’ — Locarno Retrospective Curator Ehsan Khoshbakht Talks About What We Can Learn From the Intolerance of the Past
+### 2. ‘Avengers: Endgame’ Directors Congratulate ‘Spider-Man: Brand New Day’ for Breaking Their Opening Weekend Record: ‘The Gauntlet Has Been Passed’
 
-[原文] One of the most shameful episodes in Hollywood’s history is being examined in a new retrospective to screen at the Locarno Film Festival: Red &#38; Black: Hollywood Left and the Blacklist. Speaking to
+[原文] &#8220;Avengers: Endgame&#8221; directors Joe and Anthony Russo have officially surrendered the opening box office crown to &#8220;Spider-Man: Brand New Day.&#8221; The Marvel filmmaking duo took to I
 
-📎 [阅读原文](https://variety.com/2026/film/global/blacklist-locarno-retrospective-ehsan-khoshbakht-red-scare-1236827487/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/avengers-endgame-directors-spider-man-brand-new-day-records-box-office-1236828221/) — *Variety*
 
-### 3. Locarno Open Doors 2026: Next Gen African Tales of Miraculous Snowfalls, Lost Dreams, an African Keyboard Prodigy and New Heroes
+### 3. TIFF Docs Chief Not Worried About Taking on Elon Musk
 
-[原文] Magic realist love story “Chapa 100,” absurdist political allegory “A Vineyard for a Lobster” and cross-continental queer drama “Hibiscus by the River” look like some of the potential standouts at Loc
+[原文] The Toronto International Film Festival’s documentary czar feels confident about taking on Elon Musk. On Wednesday, the 2026 edition of TIFF unveiled its documentary films slate, consisting of 21 doc 
 
-📎 [阅读原文](https://variety.com/2026/film/global/locarno-open-doors-ique-langa-suzannah-mirghani-1236827734/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/tiff-docs-elon-musk-alex-gibney-megan-rapinoe-edward-said-1236827957/) — *Variety*
 
-### 4. How Genesis Is Using Korean Hospitality and the Power of Sports to Build a New Kind of Luxury Brand
+### 4. Karthik Subbaraj’s Toronto-Bound ‘Dorothy’ Unveils Teaser (EXCLUSIVE)
 
-[原文] A few months ago, crowds lined the 18th green at The Riviera Country Club in Pacific Palisades, California, as 26-year-old American golfer Jacob Bridgeman secured his first PGA Tour victory at the 202
+[原文] Jio Studios and Sikhya Entertainment have released a teaser for Karthik Subbaraj&#8217;s &#8220;Dorothy&#8221; ahead of the Tamil-language film&#8217;s world premiere at the Toronto Film Festival. &#8
 
-📎 [阅读原文](https://variety.com/2026/shopping/news/genesis-automotive-pga-tour-golf-sponsorship-activation-1236724155/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/karthik-subbaraj-toronto-dorothy-teaser-1236828207/) — *Variety*
 
-### 5. Perez Hilton: Disturbing Livestream Frightens Fans, Rushed to Hospital After Police Investigation
+### 5. Cannes Critics’ Week Film ‘Six Months in a Pink and Blue Building’ Sells to Strand Releasing for North America (EXCLUSIVE)
 
-[原文] Local police were dispatched to the Miami home of Hollywood gossip journalist Perez Hilton after receiving reports about a disturbing livestream during which Hilton, covered in blood, appeared to be c
+[原文] Strand Releasing has acquired North American rights to Bruno Santamaria Razo’s debut feature &#8220;Six Months in a Pink and Blue Building,&#8221; the Mexican coming-of-age drama that premiered at Cri
 
-📎 [阅读原文](https://variety.com/2026/tv/news/perez-hilton-livestream-police-miami-home-1236828090/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/cannes-critics-six-months-pink-and-blue-building-strand-us-1236828297/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Save $750 Off Gigabyte's Flagship AORUS Master Gaming Laptop With GeForce RTX 5070 Ti Graphics
+### 1. Beaten Path Revealed for PC and Consoles
 
-[原文] Gigabyte's most premium gaming laptop.
+[原文] Introducing Beaten Path, a new solo-developed tactical RPG set in a world of ancient machines and fallen gods. The developer (Jarett Gross) cites Fire Emblem and Final Fantasy Tactics as his inspirati
 
-📎 [阅读原文](https://www.ign.com/articles/gigabyte-aorus-master-rtx-5070-ti-gaming-laptop-deal) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/beaten-path-revealed-for-pc-and-consoles) — *IGN*
 
-### 2. Original Grand Tour Hosts Jeremy Clarkson, Richard Hammond, and James May Will Cameo in the New Season
+### 2. Sometimes You Gotta Get Mad: The Real Villain in Spider-Man: Brand New Day Is Rage
 
-[原文] The original former Top Gear trio set to make appearances alongside their replacements in the returning series.
+[原文] The real villain in Spider-Man: Brand New Day isn't Jean Grey. It's not even Damage Control -- not really. It's actually... rage.
 
-📎 [阅读原文](https://www.ign.com/articles/original-grand-tour-hosts-jeremy-clarkson-richard-hammond-and-james-may-will-cameo-in-the-new-season) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/sometimes-you-gotta-get-mad-the-real-villain-in-spider-man-brand-new-day-is-rage) — *IGN*
 
-### 3. Joke Game Priced at 200 Dollars Rakes In $1.3 Million on Steam Before Thousands of Players Refund It
+### 3. Star Wars: Episode IV — A New Hope Gets Welsh Language Dub
 
-[原文] The teenaged developer of a joke game titled This Game Costs 200 Dollars almost made over $1 million before thousands of players refunded it.
+[原文] Ahead of the film’s 50th anniversary next year, Star Wars: Episode IV — A New Hope is being translated into the Welsh language. Titled Star Wars: Gobaith Newydd, the Welsh language dub will be broadca
 
-📎 [阅读原文](https://www.ign.com/articles/joke-game-priced-at-200-dollars-rakes-in-13-million-on-steam-before-thousands-of-players-refund-it) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/star-wars-episode-iv-a-new-hope-gets-welsh-language-dub) — *IGN*
 
-### 4. The Popular Budget-Friendly Flashforge Adventurer 5M 3D Printer Drops to a Mere $135 Shipped
+### 4. Disney Admits Live-Action Moana and Star Wars: The Mandalorian and Grogu  'Underperformed', But Says The Movies Still Helped Shift Plenty of Merchandise
 
-[原文] This may be the best price I've seen for a solid entry-level 3D printer.
+[原文] Disney's live-action Moana and Star Wars: The Mandalorian and Grogu both underperformed at the box office, but their ticket sales are only part of the story, the company has argued.
 
-📎 [阅读原文](https://www.ign.com/articles/flashforge-adventurer-5m-3d-printer-deal-july-2026-updated) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/disney-admits-live-action-moana-and-star-wars-the-mandalorian-and-grogu-underperformed-but-says-the-movies-still-helped-shift-plenty-of-merchandise) — *IGN*
 
-### 5. These Lord of the Rings 3D Maps Are an Incredible Gift Idea for Tolkien Fans
+### 5. Pokémon Pokopia Version 2.0.0 Released, And Here Are the Full Patch Notes
 
-暂无摘要。
+[原文] Nintendo Switch 2 hit Pokémon Pokopia has received its big Version 2.0.0 update, adding a bunch of free content, support for its Bubbly Basin expansion, and much more.
 
-📎 [阅读原文](https://www.ign.com/articles/lord-of-the-rings-3d-maps-of-middle-earth-gift-idea-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/pokmon-pokopia-version-200-released-and-here-are-the-full-patch-notes) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Midnight Club 5 Axed by Rockstar Because It Couldn’t Measure Up to GTA, Dev Says
+### 1. Lucid Pumps Brakes on Cosmos Midsize SUV Launch Amid Cost-Cutting Campaign: TDS
+
+[原文] Lucid now doesn't plan to launch its sub-$50K Cosmos SUV until 2027, as it hopes to iron out the kinks and ensure early success.
+The post Lucid Pumps Brakes on Cosmos Midsize SUV Launch Amid Cost-Cutt
+
+📎 [阅读原文](https://www.thedrive.com/news/lucid-pumps-brakes-on-cosmos-midsize-suv-launch-amid-cost-cutting-campaign-tds) — *The Drive*
+
+### 2. Midnight Club 5 Axed by Rockstar Because It Couldn’t Measure Up to GTA, Dev Says
 
 [原文] Rockstar left Midnight Club behind because it was the "red-headed stepchild project" in GTA's shadow, according to a former developer.
 The post Midnight Club 5 Axed by Rockstar Because It Couldn&#8217
 
 📎 [阅读原文](https://www.thedrive.com/news/midnight-club-5-axed-by-rockstar-because-it-couldnt-measure-up-to-gta-dev-says) — *The Drive*
 
-### 2. 2027 Ford F-150 Ditches 2.7L EcoBoost, Adds V8 Back to Top Trims
+### 3. 2027 Ford F-150 Ditches 2.7L EcoBoost, Adds V8 Back to Top Trims
 
 [原文] The King Ranch and Platinum are once again available with the 5.0-liter Coyote, and Ford is rolling out a new base engine for the F-150.
 The post 2027 Ford F-150 Ditches 2.7L EcoBoost, Adds V8 Back to
 
 📎 [阅读原文](https://www.thedrive.com/news/2027-ford-f-150-ditches-2-7l-ecoboost-adds-v8-back-to-top-trims) — *The Drive*
 
-### 3. The ‘Freedom Car’ Aims The Right Idea At The Wrong Villain
+### 4. The ‘Freedom Car’ Aims The Right Idea At The Wrong Villain
 
 [原文] Sean Duffy's "Freedom Car" concept sounds good, but it has a huge blind spot when it comes to protecting the freedom of American drivers.
 The post The &#8216;Freedom Car&#8217; Aims The Right Idea At 
 
 📎 [阅读原文](https://www.thedrive.com/news/the-freedom-car-aims-the-right-idea-at-the-wrong-villain) — *The Drive*
 
-### 4. The Hottest Track Car in California Is a Stock Toyota Echo
+### 5. The Hottest Track Car in California Is a Stock Toyota Echo
 
 [原文] If you think you need a "real" performance car to have fun at a track day, allow us to introduce you to the Echo Hot Lap Challenge.
 The post The Hottest Track Car in California Is a Stock Toyota Echo 
 
 📎 [阅读原文](https://www.thedrive.com/features/the-hottest-track-car-in-california-is-a-stock-toyota-echo) — *The Drive*
-
-### 5. My 2026 Dodge Charger Test Car Bricked Itself Three Times In Five Days
-
-[原文] It took four weeks and shipping the car back to Detroit for Stellantis to figure out what happened, but we're still left with open questions.
-The post My 2026 Dodge Charger Test Car Bricked Itself Thr
-
-📎 [阅读原文](https://www.thedrive.com/news/my-2026-dodge-charger-test-car-bricked-itself-three-times-in-five-days) — *The Drive*
 
 ---
 
@@ -363,35 +363,35 @@ The post My 2026 Dodge Charger Test Car Bricked Itself Thr
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Wildfire season is changing. Spokane is showing how.
+### 1. Michigan winemakers have a new climate worry: More wildfire smoke
+
+暂无摘要。
+
+📎 [阅读原文](https://grist.org/food-and-agriculture/michigan-winemakers-have-a-new-climate-worry-more-wildfire-smoke/) — *Grist*
+
+### 2. Wildfire season is changing. Spokane is showing how.
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/wildfires/wildfire-season-spokane-washington-state-climate/) — *Grist*
 
-### 2. A controversial plan to update Line 5 just suffered a major loss at the Michigan Supreme Court
+### 3. A controversial plan to update Line 5 just suffered a major loss at the Michigan Supreme Court
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/energy/controversial-plan-line-5-major-loss-michigan-supreme-court/) — *Grist*
 
-### 3. What another Texas flood revealed about the state’s warning system
+### 4. What another Texas flood revealed about the state’s warning system
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/extreme-weather/what-another-texas-flood-revealed-about-the-states-warning-system/) — *Grist*
 
-### 4. Is the recycling symbol free speech? A judge just ruled it could be.
+### 5. Is the recycling symbol free speech? A judge just ruled it could be.
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/accountability/is-the-recycling-symbol-free-speech-a-judge-just-ruled-it-could-be/) — *Grist*
-
-### 5. This Texas coal mine will soon be home to a 1.2GW solar farm
-
-暂无摘要。
-
-📎 [阅读原文](https://grist.org/energy/this-texas-coal-mine-will-soon-be-home-to-a-1-2gw-solar-farm/) — *Grist*
 
 ---
 
@@ -401,11 +401,11 @@ The post My 2026 Dodge Charger Test Car Bricked Itself Thr
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Teachers Forge Ahead on Integrating AI
+### 1. What Happens When AI Policy Meets a Real Classroom?
 
-[原文] A new report highlights teacher-led adoption, student demand for feedback, and a growing push for tools tailored specifically to the classroom.
+[原文] One national study, one local leader, and a reality check on how schools are really regulating AI.
 
-📎 [阅读原文](https://edsurge.com/news/teachers-forge-ahead-on-integrating-ai) — *EdSurge*
+📎 [阅读原文](https://edsurge.com/news/what-happens-when-ai-policy-meets-a-real-classroom) — *EdSurge*
 
 ### 2. Math Terrified Me When I Was a Student. That Made Me a Better Teacher.
 
@@ -413,23 +413,23 @@ The post My 2026 Dodge Charger Test Car Bricked Itself Thr
 
 📎 [阅读原文](https://edsurge.com/news/math-terrified-me-when-i-was-a-student-that-made-me-a-better-teacher) — *EdSurge*
 
-### 3. High Schools Need a New Model for a New Economy
+### 3. Teachers Forge Ahead on Integrating AI
+
+[原文] A new report highlights teacher-led adoption, student demand for feedback, and a growing push for tools tailored specifically to the classroom.
+
+📎 [阅读原文](https://edsurge.com/news/teachers-forge-ahead-on-integrating-ai) — *EdSurge*
+
+### 4. High Schools Need a New Model for a New Economy
 
 [原文] Career-connected learning, not just college readiness, will prepare students for jobs that keep shifting.
 
 📎 [阅读原文](https://edsurge.com/news/high-schools-need-a-new-model-for-a-new-economy) — *EdSurge*
 
-### 4. Why Would Anyone Opt for Virtual Kindergarten?
+### 5. Why Would Anyone Opt for Virtual Kindergarten?
 
 [原文] As a researcher, I knew the evidence. As a father, I learned that when making decisions for your child, emotions matter as well.
 
 📎 [阅读原文](https://edsurge.com/news/why-would-anyone-opt-for-virtual-kindergarten) — *EdSurge*
-
-### 5. Reality Bites: Students Say They Face Stark Challenges After High School
-
-[原文] A new national survey finds a widening gap between classroom preparation and postgraduation life.
-
-📎 [阅读原文](https://edsurge.com/news/reality-bites-students-say-they-face-stark-challenges-after-high-school) — *EdSurge*
 
 ---
 
@@ -439,35 +439,35 @@ The post My 2026 Dodge Charger Test Car Bricked Itself Thr
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Barry Manilow Postpones Lexington Concert Right Before Showtime
+### 1. Weezer Go Back in Time for ‘C.E.O.’ Music Video
+
+[原文] The rock band tapped Tony Hawk, Giovanni Ribisi, Michael Peña, Rob Riggle, and Rob Huebel for the throwback clip
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/weezer-ceo-music-video-tony-hawk-tour-dates-1235603846/) — *Rolling Stone*
+
+### 2. Nia Smith on Conducting the Perfect At-Home Listening Experience
+
+暂无摘要。
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/nia-smith-crafting-the-perfect-home-listening-experience-1235597373/) — *Rolling Stone*
+
+### 3. Is That Cameron Winter on Phoebe Bridgers’ New Album?
+
+[原文] A mysterious singer with the pseudonym "Son-John Johnson" is credited on the Lost Weekend tracks "Kill Me" and "I Can't Wait." He sure sounds a lot like Geese's frontman
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/phoebe-bridgers-cameron-winter-lost-weekend-1235600345/) — *Rolling Stone*
+
+### 4. Barry Manilow Postpones Lexington Concert Right Before Showtime
 
 [原文] The star's show in Kentucky was pushed back due to "unforeseen circumstances"
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/barry-manilow-postpones-concert-lexington-1235603820/) — *Rolling Stone*
 
-### 2. Kanye West ‘Refused to Compensate’ Producer for Work on ‘Vultures 2’ and ‘Bully,’ Lawsuit Claims
+### 5. Kanye West ‘Refused to Compensate’ Producer for Work on ‘Vultures 2’ and ‘Bully,’ Lawsuit Claims
 
 [原文] The unidentified producer says he created AI-generated vocals for several tracks and is seeking at least $220,000 for the alleged work
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/kanye-west-producer-vultures-bully-lawsuit-ai-vocals-1235603313/) — *Rolling Stone*
-
-### 3. Elvis Costello to Celebrate 49th Anniversary of ‘My Aim Is True’ With Five-Disc Box Set
-
-[原文] “Making my first record seemed like the beginning of something that I’d imagined for a long time,” Costello writes in the liner notes, “before I had any sense of a potential audience”
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/elvis-costello-my-aim-is-true-49th-anniversary-box-set-1235603330/) — *Rolling Stone*
-
-### 4. Linkin Park Pick Themselves Back Up in New ‘Unshatter’ Documentary Trailer
-
-[原文] Directed by the band’s Joe Hahn, the film shows how they regrouped following Chester Bennington’s death to record From Zero with Emily Armstrong
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/linkin-park-unshatter-documentary-trailer-1235603284/) — *Rolling Stone*
-
-### 5. Watch Bono and Eddie Vedder Perform at Glen Hansard’s Funeral
-
-[原文] Mourners including Bono, Vedder, Hozier, the Edge, Imelda May, and many others gathered in Dublin to honor the late singer-songwriter
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/bono-eddie-vedder-perform-glen-hansard-funeral-1235603303/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post My 2026 Dodge Charger Test Car Bricked Itself Thr
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Booking Holdings CEO: AI Overviews Are Squeezing SEO
+### 1. Air India Names New CEO: Former Ethiopian Airlines Boss to Lead Turnaround
 
-[原文] No travel business has found the silver bullet yet in how to show up prominently on a consistent basis within the major LLMs. As these platforms evolve, such an achievement becomes a moving target.
+[原文] Tewolde Gebremariam coming in as Air India CEO was definitely not in our bingo card, but it may be exactly the kind of operator the airline needs for its next phase.
 
-📎 [阅读原文](https://skift.com/2026/08/04/booking-holdings-saw-pressure-from-googles-ai-overviews/) — *Skift*
+📎 [阅读原文](https://skift.com/2026/08/05/air-india-names-ethiopian-airlines-former-ceo-to-lead-turnaround/) — *Skift*
 
-### 2. One Airline Is Carrying the Lufthansa Group – It Isn’t Lufthansa
+### 2. What IndiGo and Ethiopian Say About the Rise of the Rest
 
-[原文] As the German group prepares to double down in Rome and potentially Lisbon, the challenge isn’t finding new hubs – it's getting them to perform more like Swiss in Zurich.
+[原文] IndiGo and Ethiopian Airlines were built on workers, traders, students, and diaspora travel rather than tourism. Destinations that understand those flows will spend their money differently.
 
-📎 [阅读原文](https://skift.com/2026/08/04/one-airline-is-carrying-the-lufthansa-group-it-isnt-lufthansa/) — *Skift*
+📎 [阅读原文](https://skift.com/2026/08/05/what-indigo-and-ethiopian-say-about-the-rise-of-the-rest/) — *Skift*
 
-### 3. Iran War Drags Down Q2 Earnings for Big Hotel Chains
+### 3. Can Banks Become the New Hotel Tastemakers? Capital One Travel Thinks So
 
-[原文] Q2 came in better than feared across the board, thanks to resilient domestic demand. But no one’s calling it over — Q4, the Gulf’s peak season, is the real test.
+[原文] Capital One Travel built its business around how people actually travel. Its Premier and Lifestyle Collections bring that strategy to lodging, helping premium travelers navigate a growing range of opt
 
-📎 [阅读原文](https://skift.com/2026/08/04/iran-war-drags-down-q2-earnings-for-big-hotel-chains/) — *Skift*
+📎 [阅读原文](https://skift.com/2026/08/05/capital-one-travel-luxury-curation-strategy/) — *Skift*
 
-### 4. Hoshino’s Nara Prison Leans Into the Heritage — a Test Case for Japan’s Historic Buildings
+### 4. Wynn’s UAE Casino Is Delayed and Costlier — CEO Calls It a ‘Monopoly’ Worth the Spend
 
-[原文] Japan’s Hoshino Resorts makes a bold move that blends cultural preservation, tourism strategy, and a new “cycle of heritage” model that blends government ownership with private operation. If it works,
+[原文] Despite a $600 million overrun, Wynn doubled down on the UAE — treating regional conflict as a cost, not a reason to pause.
 
-📎 [阅读原文](https://skift.com/2026/08/04/hoshinos-nara-prison-leans-into-the-heritage-a-test-case-for-japans-historic-buildings/) — *Skift*
+📎 [阅读原文](https://skift.com/2026/08/05/wynns-uae-casino-is-delayed-and-costlier-ceo-calls-it-a-monopoly-worth-the-spend/) — *Skift*
 
-### 5. Steve Singh’s Business Travel Startup Spotnana Is Now 30% Consumer
+### 5. Faye Raises $50 Million, Bets on AI to Get Travel Insurance Claims Paid in Minutes
 
-[原文] Spotnana is Steve Singh's second act after building and flipping Concur. He's expanding the business travel startup to cover leisure travel, too, after having raised additional funding.
+[原文] Faye is using AI to move more claims from filing to payment while keeping denials with humans. That makes the claims experience, not just the checkout offer, the core of its pitch to travel brands.
 
-📎 [阅读原文](https://skift.com/2026/08/04/steve-singhs-business-travel-startup-spotnana-is-now-30-consumer/) — *Skift*
+📎 [阅读原文](https://skift.com/2026/08/05/faye-raises-50-million-bets-on-ai-to-get-travel-insurance-claims-paid-in-minutes/) — *Skift*
 
 ---
 
@@ -529,6 +529,7 @@ The post My 2026 Dodge Charger Test Car Bricked Itself Thr
 
 - **🚗 汽车**: Autocar
 - **🌱 环境**: Inside Climate News
+- **✈️ 旅游**: Nomadic Matt
 
 ---
 
