@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月05日** | 生成时间: 2026-08-05 10:47
+**2026年08月05日** | 生成时间: 2026-08-05 16:41
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack
-
-[原文] Ukraine said the video - showing a terrified civilian being hounded by a remotely controlled drone - amounted to a war crime.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 2. Oil prices fall on hopes Strait of Hormuz could reopen
+### 1. Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall
 
 [原文] US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Russian ballistic missile strike on Kyiv kills one and injures others
+### 2. Russian strike kills at least 17 as Zelensky says interceptors could have saved lives
 
-[原文] The head of Kyiv's military administration says Russia is "once again massively attacking" and has hit residential buildings.
+[原文] The Russia defence ministry said it had struck logistics hubs and supply centres in Kyiv and the surrounding region.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. EU commends Spain's 'swift response' to Ceuta migrant crisis
-
-[原文] About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Armed man arrested near Trump's golf course ahead of president's visit
+### 3. Armed man arrested near Trump's golf course ahead of president's visit
 
 [原文] The arrest happened shortly before President Trump was due to host a fundraising dinner at the coastal golf course in California.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. Police raid Starbucks Korea headquarters over 'Tank Day' fiasco
+
+[原文] People have filed complaints against Starbucks for allegedly making light of the deadly Gwangju Uprising.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c0kmd4xpr46o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Afghan boxer appears in court in connection with death of Scottish woman
+
+[原文] Sharif Ahmadzai, 26, is being held in connection with the death of Elisabeth Jane Ross from Edinburgh.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cq56qejll6vo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. U.S. says Strait of Hormuz is 'free and open' as Bessent says deal with Iran is close
+### 1. SpaceX dives 10% after AI spending surge rattles investors
+
+[原文] CEO Elon Musk said SpaceX would hit $1 trillion in annual revenue in 2030 versus a previous forecast of 2031 as he looked to strike an bullish tone.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/05/spacex-spcx-stock-today-earnings.html) — *CNBC*
+
+### 2. U.S. says Strait of Hormuz is 'free and open' as Bessent signals deal with Iran is close
 
 [原文] U.S. Central Command said the "southern route of the Strait of Hormuz remains free and open"
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/05/us-iran-war-trump-hormuz-bessent-iran-deal-close.html) — *CNBC*
 
-### 2. SoftBank jumps 10% as Asia tech stocks track Wall Street AI rally
+### 3. Novo Nordisk CEO defends economics of Wegovy pill as lower prices weigh on sales; shares fall
 
-[原文] Asian technology stocks rallied on Wednesday after Wall Street's record-setting session fueled optimism around artificial intelligence and growth stocks.
+[原文] Wall Street isn't convinced the Ozempic maker has a promising path back to sustainable growth as competition from Eli Lilly intensifies.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/05/softbank-samsung-sk-hynix-samsung-tech-rally.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/05/novo-nordisk-stock-guidance-earnings-wegovy-ozempic-eli-lilly.html) — *CNBC*
 
-### 3. GM, Chinese automaker extend joint venture for 20 years despite geopolitical tensions with U.S.
+### 4. Europe is blowing up riverbeds as an extreme drought wreaks havoc on its economy
+
+[原文] Severe drought is disrupting energy and freight across Europe as low Rhine and Danube levels raise risks for supply chains and economic growth.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/05/drought-rhine-danube-water-levels-economy.html) — *CNBC*
+
+### 5. GM, Chinese automaker extend joint venture for 20 years despite geopolitical tensions with U.S.
 
 [原文] GM said the deal will focus on domestic sales of Buick and Cadillac models in China and exporting Chevrolet products built in China for non-U.S. markets.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/04/gm-chinese-automaker-extend-tie-up-amid-geopolitical-tensions-with-us.html) — *CNBC*
-
-### 4. SpaceX's AI spending unnerves Wall Street despite promises of quick payoff
-
-[原文] In addressing Wall Street for the first time since SpaceX's IPO, executives tried to make the case that hefty AI investments are paying off within a year.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/04/spacex-ai-spending-unnerves-wall-street-despite-promising-quick-payoff.html) — *CNBC*
-
-### 5. AMD's revenue climbs 50% and data center sales doubled, but the stock is down
-
-[原文] AMD's data center unit is driving the company's growth, up 107% over last year.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/04/amd-earnings-report-q2-2026.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Elon Musk repeatedly one-upped his execs on SpaceX’s first earnings call
+### 1. Wispr Flow launches a Granola-styled meeting notetaker
+
+[原文] Wispr Flow's new terms of service indicate it will introduce a notetaker that generates meeting summaries and action items.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/05/wispr-flow-is-preparing-to-launch-a-meeting-notetaker-updated-terms-suggest/) — *TechCrunch*
+
+### 2. Elon Musk repeatedly one-upped his execs on SpaceX’s first earnings call
 
 [原文] Musk kept inflating the already-big promises being made by SpaceX CFO Bret Johnsen and Gwynne Shotwell on the company's first call.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/04/elon-musk-repeatedly-one-upped-his-execs-on-spacexs-first-earnings-call/) — *TechCrunch*
 
-### 2. Lucid’s turnaround plan hinges on $1.4B in cash savings, robotaxis
+### 3. Lucid’s turnaround plan hinges on $1.4B in cash savings, robotaxis
 
 [原文] Lucid's new CEO Silvio Napoli listed four must-win priorities, including the successful launch of its midsize EV, finishing a factory in Saudi Arabia, cutting expenses, and robotaxis.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/04/lucids-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis/) — *TechCrunch*
 
-### 3. How to get the best hotel deals for TechCrunch Disrupt 2026
+### 4. How to get the best hotel deals for TechCrunch Disrupt 2026
 
 [原文] We’ve partnered with hotels around Moscone West during Disrupt, taking place October 13 to 15, to secure the best prices available for attendees.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/04/how-to-get-the-best-hotel-deals-for-techcrunch-disrupt-2026/) — *TechCrunch*
 
-### 4. SpaceX has bought $329M worth of Tesla Megapacks so far this year
+### 5. SpaceX has bought $329M worth of Tesla Megapacks so far this year
 
 [原文] The purchase illustrates just how interconnected Elon Musk's universe of companies are.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/) — *TechCrunch*
-
-### 5. SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth
-
-[原文] SpaceX doubled its revenue compared to last year, according to its first quarterly earnings since going public in June.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Infantino calls executive meeting as criticism mounts
+### 1. Why Liverpool are ready to make Barcola third £100m signing
 
-[原文] Gianni Infantino summons senior leaders to a meeting on Wednesday, after facing more fierce criticism of his plan to sell off Fifa's commercial and event operations.
+[原文] With Liverpool prepared to make Bradley Barcola their third £100m signing, BBC Sport looks at what the France and Paris St-Germain winger would bring to Anfield.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c5y3pd5xvpzo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. What happens next with Rashford and Man Utd?
+
+[原文] Marcus Rashford is expected to return to Manchester United training in the coming days as debate continues over whether that is a good thing or not.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cx25y63wr51o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. Arsenal set to sign Newcastle captain Guimaraes
+
+[原文] Arsenal are set to complete their protracted move for Newcastle captain Bruno Guimaraes.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c8en9rnex2jo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. Infantino calls executive meeting as criticism mounts
+
+[原文] Gianni Infantino summons senior leaders to a meeting on Wednesday, after facing more fierce criticism of his scrapped plan to sell off Fifa's commercial and event operations.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c2k7p4nxdy4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Turkish club Trabzonspor begin talks to sign Salah
+### 5. Turkish club Trabzonspor begin talks to sign Salah
 
 [原文] Turkish club Trabzonspor say they have begun negotiations to sign Mohamed Salah.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ckgdkd5ggg7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 3. Brilliant Brook leads Sunrisers to record Hundred score
-
-[原文] Harry Brook hits a 15-ball fifty and Ryan Rickelton makes 94 not out as Sunrisers Leeds set a new Hundred record, making 241-2 against London Spirit.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c2lqpyv9g7qo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. Man Utd set to appoint ex-Hearts boss Olid as women's manager
-
-[原文] Manchester United are set to appoint former Hearts boss Eva Olid as their women's manager to replace Marc Skinner.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c86n72316g1o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Drinking culture embedded in cricket - Stokes
-
-[原文] Ben Stokes says drinking is embedded in cricket, but does not believe the England team he led has a problem with alcohol.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cgljg1ezyr9o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Eli Roth Admits ‘Ice Cream Man’ Features AI-Assisted Shots After Suggesting Otherwise: ‘I Misspoke’
+### 1. ‘Ted Lasso’ Season 4 Is Both a Promising Reboot and a Tedious Sequel: TV Review
 
-[原文] Eli Roth first promised that his upcoming horror release, “Ice Cream Man,” would feature an animated sequence he had initially drawn himself. Now, days ahead of the film&#8217;s Aug. 7 premiere, Roth 
+[原文] Anyone with even the vaguest understanding of the profit motive can understand why Apple TV sports comedy “Ted Lasso” has returned three years after its poorly received —&#160;yet still widely watched
 
-📎 [阅读原文](https://variety.com/2026/film/news/eli-roth-ice-cream-man-ai-generated-shots-1236828000/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/reviews/ted-lasso-season-4-review-1236827749/) — *Variety*
 
-### 2. ESPN Taps Creators to Help Promote the NFL Season and its First Super Bowl Telecast
+### 2. ‘The Blacklist Was a Plague’ — Locarno Retrospective Curator Ehsan Khoshbakht Talks About What We Can Learn From the Intolerance of the Past
 
-[原文] ESPN has lined up its fourth annual &#8220;Creator Network&#8221; of digital stars who will fan out across the country to promote the 2026 NFL season that is set to culminate with the Super Bowl airin
+[原文] One of the most shameful episodes in Hollywood’s history is being examined in a new retrospective to screen at the Locarno Film Festival: Red &#38; Black: Hollywood Left and the Blacklist. Speaking to
 
-📎 [阅读原文](https://variety.com/2026/tv/news/espn-creators-nfl-diana-flores-chase-murman-simone-scott-1236827688/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/blacklist-locarno-retrospective-ehsan-khoshbakht-red-scare-1236827487/) — *Variety*
 
-### 3. Lindsey Buckingham, Madison Beer, Kiernan Shipka and Tiffani Thiessen Named As Presenters for Variety’s Power of Young Hollywood
+### 3. Locarno Open Doors 2026: Next Gen African Tales of Miraculous Snowfalls, Lost Dreams, an African Keyboard Prodigy and New Heroes
 
-[原文] Variety has announced presenters for its annual Power of Young Hollywood, this year presented by Disney+, taking place on Aug. 5 in Los Angeles. Presenting Tate McRae with the Triple Threat Award will
+[原文] Magic realist love story “Chapa 100,” absurdist political allegory “A Vineyard for a Lobster” and cross-continental queer drama “Hibiscus by the River” look like some of the potential standouts at Loc
 
-📎 [阅读原文](https://variety.com/2026/biz/news/madison-beer-kiernan-shipka-power-of-young-hollywood-1236828051/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/locarno-open-doors-ique-langa-suzannah-mirghani-1236827734/) — *Variety*
 
-### 4. Cannibalism Comedy-Horror ‘Ali & Ben’s Spicy Meats,’ Starring Amir Nafis, Signs Abnormal Studios for Worldwide Sales (EXCLUSIVE)
+### 4. How Genesis Is Using Korean Hospitality and the Power of Sports to Build a New Kind of Luxury Brand
 
-[原文] Kuala Lumpur genre outfit Abnormal Studios has taken on worldwide international sales for &#8220;Ali &#38; Ben&#8217;s Spicy Meats,&#8221; a Malaysian cannibal black comedy-horror from sibling filmmak
+[原文] A few months ago, crowds lined the 18th green at The Riviera Country Club in Pacific Palisades, California, as 26-year-old American golfer Jacob Bridgeman secured his first PGA Tour victory at the 202
 
-📎 [阅读原文](https://variety.com/2026/film/news/cannibalism-comedy-ali-bens-spicy-meats-abnormal-studios-worldwide-sales-1236827535/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/shopping/news/genesis-automotive-pga-tour-golf-sponsorship-activation-1236724155/) — *Variety*
 
-### 5. LISTEN: National Comedy Center’s Journey Gunderson on Preserving Humor as History
+### 5. Perez Hilton: Disturbing Livestream Frightens Fans, Rushed to Hospital After Police Investigation
 
-[原文] On today’s episode of &#8220;Daily Variety&#8221; podcast, Journey Gunderson, executive director of the National Comedy Center in Jamestown, N.Y., explains why it’s important to have an institution de
+[原文] Local police were dispatched to the Miami home of Hollywood gossip journalist Perez Hilton after receiving reports about a disturbing livestream during which Hilton, covered in blood, appeared to be c
 
-📎 [阅读原文](https://variety.com/2026/tv/news/national-comedy-center-journey-gunderson-lucille-ball-fest-1236828038/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/perez-hilton-livestream-police-miami-home-1236828090/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Joke Game Priced at 200 Dollars Rakes In $1.3 Million on Steam Before Thousands of Players Refund It
+### 1. Save $750 Off Gigabyte's Flagship AORUS Master Gaming Laptop With GeForce RTX 5070 Ti Graphics
+
+[原文] Gigabyte's most premium gaming laptop.
+
+📎 [阅读原文](https://www.ign.com/articles/gigabyte-aorus-master-rtx-5070-ti-gaming-laptop-deal) — *IGN*
+
+### 2. Original Grand Tour Hosts Jeremy Clarkson, Richard Hammond, and James May Will Cameo in the New Season
+
+[原文] The original former Top Gear trio set to make appearances alongside their replacements in the returning series.
+
+📎 [阅读原文](https://www.ign.com/articles/original-grand-tour-hosts-jeremy-clarkson-richard-hammond-and-james-may-will-cameo-in-the-new-season) — *IGN*
+
+### 3. Joke Game Priced at 200 Dollars Rakes In $1.3 Million on Steam Before Thousands of Players Refund It
 
 [原文] The teenaged developer of a joke game titled This Game Costs 200 Dollars almost made over $1 million before thousands of players refunded it.
 
 📎 [阅读原文](https://www.ign.com/articles/joke-game-priced-at-200-dollars-rakes-in-13-million-on-steam-before-thousands-of-players-refund-it) — *IGN*
 
-### 2. The Popular Budget-Friendly Flashforge Adventurer 5M 3D Printer Drops to a Mere $135 Shipped
+### 4. The Popular Budget-Friendly Flashforge Adventurer 5M 3D Printer Drops to a Mere $135 Shipped
 
 [原文] This may be the best price I've seen for a solid entry-level 3D printer.
 
 📎 [阅读原文](https://www.ign.com/articles/flashforge-adventurer-5m-3d-printer-deal-july-2026-updated) — *IGN*
 
-### 3. These Lord of the Rings 3D Maps Are an Incredible Gift Idea for Tolkien Fans
+### 5. These Lord of the Rings 3D Maps Are an Incredible Gift Idea for Tolkien Fans
 
 暂无摘要。
 
 📎 [阅读原文](https://www.ign.com/articles/lord-of-the-rings-3d-maps-of-middle-earth-gift-idea-2026) — *IGN*
-
-### 4. Spider-Man Theory May Change How You See Brand New Day's Ending
-
-[原文] A new Spider-Man: Brand New Day fan theory may help explain the ending of the film.
-
-📎 [阅读原文](https://www.ign.com/articles/spider-man-theory-may-change-how-you-see-brand-new-days-ending) — *IGN*
-
-### 5. DJI's Latest Osmo Action 6 8K Video Camera Drops to $308 During the AliExpress Back to School Sale
-
-[原文] Everyone else still has it for $439, including Amazon.
-
-📎 [阅读原文](https://www.ign.com/articles/dji-osmo-action-6-video-camera-deal-august-2026) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post My 2026 Dodge Charger Test Car Bricked Itself Thr
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. What another Texas flood revealed about the state’s warning system
+### 1. Wildfire season is changing. Spokane is showing how.
+
+暂无摘要。
+
+📎 [阅读原文](https://grist.org/wildfires/wildfire-season-spokane-washington-state-climate/) — *Grist*
+
+### 2. A controversial plan to update Line 5 just suffered a major loss at the Michigan Supreme Court
+
+暂无摘要。
+
+📎 [阅读原文](https://grist.org/energy/controversial-plan-line-5-major-loss-michigan-supreme-court/) — *Grist*
+
+### 3. What another Texas flood revealed about the state’s warning system
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/extreme-weather/what-another-texas-flood-revealed-about-the-states-warning-system/) — *Grist*
 
-### 2. Is the recycling symbol free speech? A judge just ruled it could be.
+### 4. Is the recycling symbol free speech? A judge just ruled it could be.
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/accountability/is-the-recycling-symbol-free-speech-a-judge-just-ruled-it-could-be/) — *Grist*
 
-### 3. This Texas coal mine will soon be home to a 1.2GW solar farm
+### 5. This Texas coal mine will soon be home to a 1.2GW solar farm
 
 暂无摘要。
 
 📎 [阅读原文](https://grist.org/energy/this-texas-coal-mine-will-soon-be-home-to-a-1-2gw-solar-farm/) — *Grist*
-
-### 4. How wildfire smoke is reshaping childhood
-
-暂无摘要。
-
-📎 [阅读原文](https://grist.org/wildfires/how-wildfire-smoke-is-reshaping-childhood/) — *Grist*
-
-### 5. Here’s what supercharged the monster wildfires in Spain and France
-
-暂无摘要。
-
-📎 [阅读原文](https://grist.org/wildfires/study-monster-wildfires-spain-france-attribution/) — *Grist*
 
 ---
 
@@ -439,35 +439,35 @@ The post My 2026 Dodge Charger Test Car Bricked Itself Thr
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Kanye West ‘Refused to Compensate’ Producer for Work on ‘Vultures 2’ and ‘Bully,’ Lawsuit Claims
+### 1. Barry Manilow Postpones Lexington Concert Right Before Showtime
+
+[原文] The star's show in Kentucky was pushed back due to "unforeseen circumstances"
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/barry-manilow-postpones-concert-lexington-1235603820/) — *Rolling Stone*
+
+### 2. Kanye West ‘Refused to Compensate’ Producer for Work on ‘Vultures 2’ and ‘Bully,’ Lawsuit Claims
 
 [原文] The unidentified producer says he created AI-generated vocals for several tracks and is seeking at least $220,000 for the alleged work
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/kanye-west-producer-vultures-bully-lawsuit-ai-vocals-1235603313/) — *Rolling Stone*
 
-### 2. Elvis Costello to Celebrate 49th Anniversary of ‘My Aim Is True’ With Five-Disc Box Set
+### 3. Elvis Costello to Celebrate 49th Anniversary of ‘My Aim Is True’ With Five-Disc Box Set
 
 [原文] “Making my first record seemed like the beginning of something that I’d imagined for a long time,” Costello writes in the liner notes, “before I had any sense of a potential audience”
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/elvis-costello-my-aim-is-true-49th-anniversary-box-set-1235603330/) — *Rolling Stone*
 
-### 3. Linkin Park Pick Themselves Back Up in New ‘Unshatter’ Documentary Trailer
+### 4. Linkin Park Pick Themselves Back Up in New ‘Unshatter’ Documentary Trailer
 
 [原文] Directed by the band’s Joe Hahn, the film shows how they regrouped following Chester Bennington’s death to record From Zero with Emily Armstrong
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/linkin-park-unshatter-documentary-trailer-1235603284/) — *Rolling Stone*
 
-### 4. Watch Bono and Eddie Vedder Perform at Glen Hansard’s Funeral
+### 5. Watch Bono and Eddie Vedder Perform at Glen Hansard’s Funeral
 
 [原文] Mourners including Bono, Vedder, Hozier, the Edge, Imelda May, and many others gathered in Dublin to honor the late singer-songwriter
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/bono-eddie-vedder-perform-glen-hansard-funeral-1235603303/) — *Rolling Stone*
-
-### 5. Frank Zappa’s ‘Freak Out!’ 60th Anniversary Reissue to Feature Rare Mono Mix, Fillmore Recordings
-
-[原文] Three versions of Mothers of Invention’s pioneering 1966 LP - mono, stereo, and pre-mix - accompanied by unreleased live recordings, outtakes, vocal references and more
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/frank-zappa-freak-out-60th-anniversary-reissue-mono-mix-1235602920/) — *Rolling Stone*
 
 ---
 
@@ -529,7 +529,6 @@ The post My 2026 Dodge Charger Test Car Bricked Itself Thr
 
 - **🚗 汽车**: Autocar
 - **🌱 环境**: Inside Climate News
-- **✈️ 旅游**: Nomadic Matt
 
 ---
 
