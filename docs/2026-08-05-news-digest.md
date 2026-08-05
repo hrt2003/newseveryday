@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月05日** | 生成时间: 2026-08-05 03:41
+**2026年08月05日** | 生成时间: 2026-08-05 10:47
 
 ---
 
@@ -18,7 +18,7 @@
 
 ### 1. Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack
 
-[原文] Ukraine said the video - showing a terrified civilian being hounded by a remotely-controlled drone - amounted to a war crime.
+[原文] Ukraine said the video - showing a terrified civilian being hounded by a remotely controlled drone - amounted to a war crime.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
@@ -28,23 +28,23 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. EU commends Spain's 'swift response' to Ceuta migrant crisis
+### 3. Russian ballistic missile strike on Kyiv kills one and injures others
+
+[原文] The head of Kyiv's military administration says Russia is "once again massively attacking" and has hit residential buildings.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. EU commends Spain's 'swift response' to Ceuta migrant crisis
 
 [原文] About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Ukraine hits more Wildberries sites as strike kills five in Moscow region
+### 5. Armed man arrested near Trump's golf course ahead of president's visit
 
-[原文] Facilities operated by Russia's largest online retailer were also hit in St Petersburg and Tver.
+[原文] The arrest happened shortly before President Trump was due to host a fundraising dinner at the coastal golf course in California.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Arrests in Egypt after people allegedly impersonate judges
-
-[原文] Egyptian authorities say the alleged scam involved fabricated scenes in court as part of a plot to defraud people.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cn0n9wpvlwpo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Bessent says there may be deal Tuesday or Wednesday to open Strait of Hormuz with 'freedom of movement'
+### 1. U.S. says Strait of Hormuz is 'free and open' as Bessent says deal with Iran is close
 
-[原文] "We are in talks with the Iranians," the Treasury secretary told CNBC's "Squawk Box."
+[原文] U.S. Central Command said the "southern route of the Strait of Hormuz remains free and open"
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/04/bessent-says-there-may-be-deal-tuesday-or-wednesday-to-open-strait-of-hormuz-with-freedom-of-movement.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/05/us-iran-war-trump-hormuz-bessent-iran-deal-close.html) — *CNBC*
 
-### 2. Chipotle stock falls on potential link to salmonella outbreak in Minnesota
+### 2. SoftBank jumps 10% as Asia tech stocks track Wall Street AI rally
 
-[原文] Chipotle has pulled the affected supply from restaurants and replaced them with peppers from different growers, according to the company.
+[原文] Asian technology stocks rallied on Wednesday after Wall Street's record-setting session fueled optimism around artificial intelligence and growth stocks.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/04/chipotle-stock-falls-salmonella-outbreak-minnesota.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/05/softbank-samsung-sk-hynix-samsung-tech-rally.html) — *CNBC*
 
-### 3. Oil prices tumble after Bessent says Strait of Hormuz deal may come this week
+### 3. GM, Chinese automaker extend joint venture for 20 years despite geopolitical tensions with U.S.
 
-[原文] Treasury Secretary Scott Bessent said a deal to reopen the Strait of Hormuz would allow freedom of navigation.
+[原文] GM said the deal will focus on domestic sales of Buick and Cadillac models in China and exporting Chevrolet products built in China for non-U.S. markets.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/04/oil-rises-after-selloff-as-talks-to-end-us-iran-war-remain-uncertain.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/04/gm-chinese-automaker-extend-tie-up-amid-geopolitical-tensions-with-us.html) — *CNBC*
 
-### 4. Jeff Bezos just filed to sell $4 billion in Amazon. The shares are falling
+### 4. SpaceX's AI spending unnerves Wall Street despite promises of quick payoff
 
-[原文] The filing came after Amazon climbed to an all-time high on Monday, extending gains sparked by last week's quarterly results.
+[原文] In addressing Wall Street for the first time since SpaceX's IPO, executives tried to make the case that hefty AI investments are paying off within a year.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/04/jeff-bezos-just-filed-to-sell-4-billion-in-amazon-the-shares-are-falling.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/04/spacex-ai-spending-unnerves-wall-street-despite-promising-quick-payoff.html) — *CNBC*
 
-### 5. How the 'Baby iPhone' and an Apple supplier leak explain China's recent supply chain moves
+### 5. AMD's revenue climbs 50% and data center sales doubled, but the stock is down
 
-[原文] In China's biggest electronics marketplace, Huaqiangbei, technicians don't have the parts to make exact copies of Apple's latest phones.
+[原文] AMD's data center unit is driving the company's growth, up 107% over last year.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/04/china-apple-india-tata-electronics.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/04/amd-earnings-report-q2-2026.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Meet Wrinkles, an AI app that uncovers the hidden stories of the places around you
+### 1. Elon Musk repeatedly one-upped his execs on SpaceX’s first earnings call
 
-[原文] Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.
+[原文] Musk kept inflating the already-big promises being made by SpaceX CFO Bret Johnsen and Gwynne Shotwell on the company's first call.
 
-📎 [阅读原文](https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/08/04/elon-musk-repeatedly-one-upped-his-execs-on-spacexs-first-earnings-call/) — *TechCrunch*
 
-### 2. Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress
+### 2. Lucid’s turnaround plan hinges on $1.4B in cash savings, robotaxis
 
-[原文] The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.
+[原文] Lucid's new CEO Silvio Napoli listed four must-win priorities, including the successful launch of its midsize EV, finishing a factory in Saudi Arabia, cutting expenses, and robotaxis.
 
-📎 [阅读原文](https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/08/04/lucids-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis/) — *TechCrunch*
 
-### 3. Waymo opens up robotaxi service in Dallas to everyone
+### 3. How to get the best hotel deals for TechCrunch Disrupt 2026
 
-[原文] Waymo has dropped the waitlist for its robotaxi service in Dallas, the latest step in the company's bid to scale its self-driving technology across the United States, U.K., and Europe.
+[原文] We’ve partnered with hotels around Moscone West during Disrupt, taking place October 13 to 15, to secure the best prices available for attendees.
 
-📎 [阅读原文](https://techcrunch.com/2026/08/04/waymo-opens-up-robotaxi-service-in-dallas-to-everyone/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/08/04/how-to-get-the-best-hotel-deals-for-techcrunch-disrupt-2026/) — *TechCrunch*
 
-### 4. Take an extra $100 off your TechCrunch Disrupt 2026 pass: This week only!
+### 4. SpaceX has bought $329M worth of Tesla Megapacks so far this year
 
-[原文] Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.
+[原文] The purchase illustrates just how interconnected Elon Musk's universe of companies are.
 
-📎 [阅读原文](https://techcrunch.com/2026/08/04/take-an-extra-100-off-your-techcrunch-disrupt-2026-pass-this-week-only/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/) — *TechCrunch*
 
-### 5. TV Time co-founder launches Bingers to revive the beloved TV-tracking app
+### 5. SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth
 
-[原文] Bingers is a new TV and movie tracker that revives the social features fans loved with TV Time, while adding support for importing their viewing history.
+[原文] SpaceX doubled its revenue compared to last year, according to its first quarterly earnings since going public in June.
 
-📎 [阅读原文](https://techcrunch.com/2026/08/04/tv-time-co-founder-launches-bingers-to-revive-the-beloved-tv-tracking-app/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Drinking culture embedded in cricket - Stokes
+### 1. Infantino calls executive meeting as criticism mounts
 
-[原文] Ben Stokes says drinking is embedded in cricket, but does not believe the England team he led has a problem with alcohol.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cgljg1ezyr9o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 2. Fifa private money plan had to be scrapped - Wenger
-
-[原文] Fifa's chief of global football development Arsene Wenger says the decision to scrap the plan to have private investment in Fifa competitions was "absolutely necessary".
+[原文] Gianni Infantino summons senior leaders to a meeting on Wednesday, after facing more fierce criticism of his plan to sell off Fifa's commercial and event operations.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c2k7p4nxdy4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Man Utd set to appoint ex-Hearts boss Olid as women's manager
+### 2. Turkish club Trabzonspor begin talks to sign Salah
+
+[原文] Turkish club Trabzonspor say they have begun negotiations to sign Mohamed Salah.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ckgdkd5ggg7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. Brilliant Brook leads Sunrisers to record Hundred score
+
+[原文] Harry Brook hits a 15-ball fifty and Ryan Rickelton makes 94 not out as Sunrisers Leeds set a new Hundred record, making 241-2 against London Spirit.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c2lqpyv9g7qo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. Man Utd set to appoint ex-Hearts boss Olid as women's manager
 
 [原文] Manchester United are set to appoint former Hearts boss Eva Olid as their women's manager to replace Marc Skinner.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c86n72316g1o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Why £1m-a-season deal will be hard for Pollock and Hearn to find
+### 5. Drinking culture embedded in cricket - Stokes
 
-[原文] Salary cap regulations might not be high on everyone's holiday reading list, but Eddie Hearn might be interested if he's keen to get Henry Pollock's £1m pay-day.
+[原文] Ben Stokes says drinking is embedded in cricket, but does not believe the England team he led has a problem with alcohol.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-union/articles/ckg4y9ylr77o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Arsenal in talks to sign Newcastle's Guimaraes
-
-[原文] Arsenal open direct talks with Newcastle United to sign captain Bruno Guimaraes.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ckg9k2yvywxo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cgljg1ezyr9o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Judge Sets Paramount-Warner Bros. Antitrust Trial for March 2027
+### 1. Eli Roth Admits ‘Ice Cream Man’ Features AI-Assisted Shots After Suggesting Otherwise: ‘I Misspoke’
 
-[原文] The judge hearing the antitrust case seeking to block the Paramount-Warner Bros. Discovery merger has issued a preliminary scheduling order, with a trial set to start in March 2027 &#8212; considerabl
+[原文] Eli Roth first promised that his upcoming horror release, “Ice Cream Man,” would feature an animated sequence he had initially drawn himself. Now, days ahead of the film&#8217;s Aug. 7 premiere, Roth 
 
-📎 [阅读原文](https://variety.com/2026/tv/news/paramount-warner-bros-antitrust-trial-date-march-2027-1236827843/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/eli-roth-ice-cream-man-ai-generated-shots-1236828000/) — *Variety*
 
-### 2. Disney’s Next Big Thing: Malachi Barton on ‘Camp Rock 3,’ Doomscrolling on TikTok and Not Hiding His Faith in God
+### 2. ESPN Taps Creators to Help Promote the NFL Season and its First Super Bowl Telecast
 
-[原文] “Can we play ‘Be Like a Woman’ in this beeyotch?” At a studio in Manhattan’s NoMad neighborhood, the speakers fill the room with an avant-pop track from 1979 — one that failed to find an audience upon
+[原文] ESPN has lined up its fourth annual &#8220;Creator Network&#8221; of digital stars who will fan out across the country to promote the 2026 NFL season that is set to culminate with the Super Bowl airin
 
-📎 [阅读原文](https://variety.com/2026/tv/features/malachi-barton-camp-rock-3-disney-faith-god-1236826142/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/espn-creators-nfl-diana-flores-chase-murman-simone-scott-1236827688/) — *Variety*
 
-### 3. Variety’s 10 Assistants to Watch in 2026
+### 3. Lindsey Buckingham, Madison Beer, Kiernan Shipka and Tiffani Thiessen Named As Presenters for Variety’s Power of Young Hollywood
 
-[原文] It’s the most thankless job in Hollywood. Who else but assistants keep calendars from colliding, ensure the checks clear and fix the little mistakes before they become big ones? Being an assistant mea
+[原文] Variety has announced presenters for its annual Power of Young Hollywood, this year presented by Disney+, taking place on Aug. 5 in Los Angeles. Presenting Tate McRae with the Triple Threat Award will
 
-📎 [阅读原文](https://variety.com/lists/variety-10-assistants-to-watch-2026/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/biz/news/madison-beer-kiernan-shipka-power-of-young-hollywood-1236828051/) — *Variety*
 
-### 4. ‘The Voice’ Celebrity Edition to Air on NBC in 2027, With Host Keke Palmer and Judges Joe Jonas, Queen Latifah, Riley Green
+### 4. Cannibalism Comedy-Horror ‘Ali & Ben’s Spicy Meats,’ Starring Amir Nafis, Signs Abnormal Studios for Worldwide Sales (EXCLUSIVE)
 
-[原文] &#8220;The Voice&#8221; is plotting its first-ever celebrity edition. NBC announced Tuesday that it is starting production on &#8220;The Voice: Celebrity,&#8221; which will air sometime in 2027. Keke 
+[原文] Kuala Lumpur genre outfit Abnormal Studios has taken on worldwide international sales for &#8220;Ali &#38; Ben&#8217;s Spicy Meats,&#8221; a Malaysian cannibal black comedy-horror from sibling filmmak
 
-📎 [阅读原文](https://variety.com/2026/tv/news/the-voice-celebrity-nbc-2027-host-keke-palmer-joe-jonas-1236827720/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/cannibalism-comedy-ali-bens-spicy-meats-abnormal-studios-worldwide-sales-1236827535/) — *Variety*
 
-### 5. UFC Lost $30 Million on White House Fight on Donald Trump’s Birthday
+### 5. LISTEN: National Comedy Center’s Journey Gunderson on Preserving Humor as History
 
-[原文] Ari Emanuel, TKO Group&#8217;s executive chairman and CEO, called the UFC Freedom 250 event at the White House &#8220;a roaring success.&#8221; But the company said it lost $30 million on the elaborat
+[原文] On today’s episode of &#8220;Daily Variety&#8221; podcast, Journey Gunderson, executive director of the National Comedy Center in Jamestown, N.Y., explains why it’s important to have an institution de
 
-📎 [阅读原文](https://variety.com/2026/tv/news/ufc-freedom-250-lost-30-million-white-house-donald-trump-1236827704/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/national-comedy-center-journey-gunderson-lucille-ball-fest-1236828038/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Amazon Has a Well-Reviewed 12V 4,000A Cordless Car Jump Starter for Just $25.64 After Coupon
+### 1. Joke Game Priced at 200 Dollars Rakes In $1.3 Million on Steam Before Thousands of Players Refund It
 
-[原文] Powerful enough to jump start most consumer cars and trucks in the United States (many times over).
+[原文] The teenaged developer of a joke game titled This Game Costs 200 Dollars almost made over $1 million before thousands of players refunded it.
 
-📎 [阅读原文](https://www.ign.com/articles/best-cordless-car-jump-starter-deal-august-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/joke-game-priced-at-200-dollars-rakes-in-13-million-on-steam-before-thousands-of-players-refund-it) — *IGN*
 
-### 2. Capcom Is Making a Life-Sized Leon Kennedy Statue for Resident Evil’s 30th Anniversary, and of Course the Internet Is Being Totally Normal About It
+### 2. The Popular Budget-Friendly Flashforge Adventurer 5M 3D Printer Drops to a Mere $135 Shipped
 
-[原文] Capcom is preparing for Resident Evil’s 30th anniversary exhibition in Shibuya, and to celebrate, it’s commissioning a life-sized statue of the beloved horror series’ poster boy, Leon S. Kennedy.
+[原文] This may be the best price I've seen for a solid entry-level 3D printer.
 
-📎 [阅读原文](https://www.ign.com/articles/capcom-is-making-a-life-sized-leon-kennedy-statue-for-resident-evils-30th-anniversary-and-of-course-the-internet-is-being-totally-normal-about-it) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/flashforge-adventurer-5m-3d-printer-deal-july-2026-updated) — *IGN*
 
-### 3. Dungeons & Dragons: World of Warcraft Crossover Is Up for Preorder
+### 3. These Lord of the Rings 3D Maps Are an Incredible Gift Idea for Tolkien Fans
 
-[原文] World of Warcraft is making its way into Dungeons & Dragons this November, and preorders are live.
+暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/dungeons-dragons-world-of-warcraft-crossover-where-to-buy) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/lord-of-the-rings-3d-maps-of-middle-earth-gift-idea-2026) — *IGN*
 
-### 4. Today’s Top Deals: Dragon Quest I & II HD-2D Remake, LEGO Mineral Collection, Zelda Art Book
+### 4. Spider-Man Theory May Change How You See Brand New Day's Ending
 
-[原文] Plus, grab a $9 GameSir controller and save on PS5 and PC games.
+[原文] A new Spider-Man: Brand New Day fan theory may help explain the ending of the film.
 
-📎 [阅读原文](https://www.ign.com/articles/best-deals-for-august-4-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/spider-man-theory-may-change-how-you-see-brand-new-days-ending) — *IGN*
 
-### 5. Xbox Will Reportedly Continue to Support Physical Discs Following PS6 Backlash
+### 5. DJI's Latest Osmo Action 6 8K Video Camera Drops to $308 During the AliExpress Back to School Sale
 
-[原文] Digital Foundry's John Linneman says sources have told him that Microsoft is planning to continue support for physical game discs with the aim of prioritizing backward compatibility.
+[原文] Everyone else still has it for $439, including Amazon.
 
-📎 [阅读原文](https://www.ign.com/articles/xbox-will-reportedly-continue-to-support-physical-discs-following-ps6-backlash) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/dji-osmo-action-6-video-camera-deal-august-2026) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. 2027 Ford F-150 Ditches 2.7L EcoBoost, Adds V8 Back to Top Trims
+### 1. Midnight Club 5 Axed by Rockstar Because It Couldn’t Measure Up to GTA, Dev Says
+
+[原文] Rockstar left Midnight Club behind because it was the "red-headed stepchild project" in GTA's shadow, according to a former developer.
+The post Midnight Club 5 Axed by Rockstar Because It Couldn&#8217
+
+📎 [阅读原文](https://www.thedrive.com/news/midnight-club-5-axed-by-rockstar-because-it-couldnt-measure-up-to-gta-dev-says) — *The Drive*
+
+### 2. 2027 Ford F-150 Ditches 2.7L EcoBoost, Adds V8 Back to Top Trims
 
 [原文] The King Ranch and Platinum are once again available with the 5.0-liter Coyote, and Ford is rolling out a new base engine for the F-150.
 The post 2027 Ford F-150 Ditches 2.7L EcoBoost, Adds V8 Back to
 
 📎 [阅读原文](https://www.thedrive.com/news/2027-ford-f-150-ditches-2-7l-ecoboost-adds-v8-back-to-top-trims) — *The Drive*
 
-### 2. The ‘Freedom Car’ Aims The Right Idea At The Wrong Villain
+### 3. The ‘Freedom Car’ Aims The Right Idea At The Wrong Villain
 
 [原文] Sean Duffy's "Freedom Car" concept sounds good, but it has a huge blind spot when it comes to protecting the freedom of American drivers.
 The post The &#8216;Freedom Car&#8217; Aims The Right Idea At 
 
 📎 [阅读原文](https://www.thedrive.com/news/the-freedom-car-aims-the-right-idea-at-the-wrong-villain) — *The Drive*
 
-### 3. The Hottest Track Car in California Is a Stock Toyota Echo
+### 4. The Hottest Track Car in California Is a Stock Toyota Echo
 
 [原文] If you think you need a "real" performance car to have fun at a track day, allow us to introduce you to the Echo Hot Lap Challenge.
 The post The Hottest Track Car in California Is a Stock Toyota Echo 
 
 📎 [阅读原文](https://www.thedrive.com/features/the-hottest-track-car-in-california-is-a-stock-toyota-echo) — *The Drive*
 
-### 4. My 2026 Dodge Charger Test Car Bricked Itself Three Times In Five Days
+### 5. My 2026 Dodge Charger Test Car Bricked Itself Three Times In Five Days
 
 [原文] It took four weeks and shipping the car back to Detroit for Stellantis to figure out what happened, but we're still left with open questions.
 The post My 2026 Dodge Charger Test Car Bricked Itself Thr
 
 📎 [阅读原文](https://www.thedrive.com/news/my-2026-dodge-charger-test-car-bricked-itself-three-times-in-five-days) — *The Drive*
-
-### 5. The Man Who Gave Us the Juke Will Take Over as Nissan’s Design Boss
-
-[原文] Twenty-four-year Nissan veteran Matthew Weaver will replace Alfonso Albaisa, who's stepping down as the brand's corporate executive of global design on October 1.
-The post The Man Who Gave Us the Juke
-
-📎 [阅读原文](https://www.thedrive.com/news/the-man-who-gave-us-the-juke-will-take-over-as-nissans-design-boss) — *The Drive*
 
 ---
 
@@ -439,7 +439,7 @@ The post The Man Who Gave Us the Juke
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Kanye West ‘Refused to Compensate’ Producer for Work on ‘Vultures 2′ and ‘Bully,’ Lawsuit Claims
+### 1. Kanye West ‘Refused to Compensate’ Producer for Work on ‘Vultures 2’ and ‘Bully,’ Lawsuit Claims
 
 [原文] The unidentified producer says he created AI-generated vocals for several tracks and is seeking at least $220,000 for the alleged work
 
@@ -447,7 +447,7 @@ The post The Man Who Gave Us the Juke
 
 ### 2. Elvis Costello to Celebrate 49th Anniversary of ‘My Aim Is True’ With Five-Disc Box Set
 
-[原文] “Making my first record seemed like the beginning of something that I’d imagined for a long time," Costello writes in the liner notes, 'before I had any sense of a potential audience"
+[原文] “Making my first record seemed like the beginning of something that I’d imagined for a long time,” Costello writes in the liner notes, “before I had any sense of a potential audience”
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/elvis-costello-my-aim-is-true-49th-anniversary-box-set-1235603330/) — *Rolling Stone*
 
@@ -477,35 +477,35 @@ The post The Man Who Gave Us the Juke
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. One Airline Is Carrying the Lufthansa Group – It Isn’t Lufthansa
+### 1. Booking Holdings CEO: AI Overviews Are Squeezing SEO
+
+[原文] No travel business has found the silver bullet yet in how to show up prominently on a consistent basis within the major LLMs. As these platforms evolve, such an achievement becomes a moving target.
+
+📎 [阅读原文](https://skift.com/2026/08/04/booking-holdings-saw-pressure-from-googles-ai-overviews/) — *Skift*
+
+### 2. One Airline Is Carrying the Lufthansa Group – It Isn’t Lufthansa
 
 [原文] As the German group prepares to double down in Rome and potentially Lisbon, the challenge isn’t finding new hubs – it's getting them to perform more like Swiss in Zurich.
 
 📎 [阅读原文](https://skift.com/2026/08/04/one-airline-is-carrying-the-lufthansa-group-it-isnt-lufthansa/) — *Skift*
 
-### 2. Iran War Drags Down Q2 Earnings for Big Hotel Chains
+### 3. Iran War Drags Down Q2 Earnings for Big Hotel Chains
 
 [原文] Q2 came in better than feared across the board, thanks to resilient domestic demand. But no one’s calling it over — Q4, the Gulf’s peak season, is the real test.
 
 📎 [阅读原文](https://skift.com/2026/08/04/iran-war-drags-down-q2-earnings-for-big-hotel-chains/) — *Skift*
 
-### 3. Hoshino’s Nara Prison Leans Into the Heritage — a Test Case for Japan’s Historic Buildings
+### 4. Hoshino’s Nara Prison Leans Into the Heritage — a Test Case for Japan’s Historic Buildings
 
 [原文] Japan’s Hoshino Resorts makes a bold move that blends cultural preservation, tourism strategy, and a new “cycle of heritage” model that blends government ownership with private operation. If it works,
 
 📎 [阅读原文](https://skift.com/2026/08/04/hoshinos-nara-prison-leans-into-the-heritage-a-test-case-for-japans-historic-buildings/) — *Skift*
 
-### 4. Steve Singh’s Business Travel Startup Spotnana Is Now 30% Consumer
+### 5. Steve Singh’s Business Travel Startup Spotnana Is Now 30% Consumer
 
 [原文] Spotnana is Steve Singh's second act after building and flipping Concur. He's expanding the business travel startup to cover leisure travel, too, after having raised additional funding.
 
 📎 [阅读原文](https://skift.com/2026/08/04/steve-singhs-business-travel-startup-spotnana-is-now-30-consumer/) — *Skift*
-
-### 5. U.S. Clears Smallest Boeing 737 Max to Fly Following Years of Delays
-
-[原文] The certification is a big win for Southwest, which has been waiting for the aircraft for years as it looks to grow and replace parts of its aging fleet.
-
-📎 [阅读原文](https://skift.com/2026/08/03/u-s-clears-smallest-boeing-737-max-to-fly/) — *Skift*
 
 ---
 
@@ -529,6 +529,7 @@ The post The Man Who Gave Us the Juke
 
 - **🚗 汽车**: Autocar
 - **🌱 环境**: Inside Climate News
+- **✈️ 旅游**: Nomadic Matt
 
 ---
 
