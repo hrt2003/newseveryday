@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月06日** | 生成时间: 2026-08-06 10:50
+**2026年08月06日** | 生成时间: 2026-08-06 16:42
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Iran says deal with Oman on Strait of Hormuz is in final stages
+### 1. In Odesa, no-one is safe from Russia's new Black Sea strikes
+
+[原文] Blackened ships and smashed docks mark Russia's recent surge of attacks on Ukraine's coastline.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Iran says deal with Oman on Strait of Hormuz is in final stages
 
 [原文] Neither the US or Oman have commented on the proposed agreement on the vital waterway.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Infantino sorry for errors but stays Fifa president
+### 3. Indian journalist Tarun Tejpal convicted in 2013 rape case
 
-[原文] Gianni Infantino will remain as Fifa president after receiving the backing of senior executives, but "sincerely apologises" for errors made in his controversial private investment plans.
+[原文] The Goa bench of the Bombay High Court overturned a 2021 trial court verdict clearing Tejpal of all charges.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2v551w9v8o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives
+### 4. Outrage as Ugandan football captain beaten to death in street gang attack
 
-[原文] Without Patriot interceptors, Ukraine's skies are wide open and people are fully exposed to Russia's missile barrages.
+[原文] The 27-year-old was killed by suspected robbers after resisting an attempt to rob him, police say.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cm2g0038yr8o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Banned from football at home, Afghan women's team reunite 8,000 miles away
+### 5. Rihanna is 'in the studio', says partner A$AP Rocky
 
-[原文] Women in the team, which is recognised by Fifa, say football has given them freedom and independence.
+[原文] The singer, who last released a full album in 2016, is in the studio and "cooking", her partner said.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c8dnrpmgv4yo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Drone carrying explosives found at German airport, police say
-
-[原文] The drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c4gwvvw9k1xo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -60,29 +60,29 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/06/us-iran-war-hormuz-trump-bessent-deal.html) — *CNBC*
 
-### 2. JPMorgan's Jamie Dimon warns of high leverage: 'Somebody will disrupt the market'
+### 2. Google is expanding its AI empire — and losing the people who built it
+
+[原文] Google’s cloud boom is testing the company's commitment to frontier AI as commercial returns take priority.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/05/google-is-expanding-its-ai-empire-and-losing-the-people-who-built-it.html) — *CNBC*
+
+### 3. JPMorgan's Jamie Dimon warns of high leverage: 'Somebody will disrupt the market'
 
 [原文] JPMorgan Chief Executive Officer Jamie Dimon warned that leverage across financial markets remains elevated, adding that investors should be mindful that hidden borrowing could amplify market disrupti
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/06/jpmorgan-jamie-dimon-leverage-market-disruption.html) — *CNBC*
 
-### 3. Google's AI reshuffle: Chief scientist Jeff Dean exits and Demis Hassabis steps down as DeepMind CEO
+### 4. SoftBank gets $8.2 billion boost from Intel as OpenAI takes a backseat
 
-[原文] Google's AI divisions are getting reshuffled, the search giant announced on Wednesday.
+[原文] SoftBank on Thursday reported profit for its fiscal first quarter that beat market expectations.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/05/google-chief-scientist-jeff-dean-leaving-company-after-27-years.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/06/softbank-q1-earnings-intel-bytedance-stakes.html) — *CNBC*
 
-### 4. Inside India newsletter: What's behind India’s rush to sell shares in state-owned firms
+### 5. Nintendo's fiscal first-quarter profit and revenue beat estimates, despite Switch 2 sales slump
 
-[原文] India is ramping up stake sales in state-owned companies to keep the growth engine running amid growing fiscal constraints
+[原文] Nintendo reported fiscal first-quarter earnings Thursday.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/06/india-lic-shares-economy-disinvestment-.html) — *CNBC*
-
-### 5. We're downgrading Honeywell Aerospace after a shockingly bad earnings debut
-
-[原文] The company slashed its full-year guidance on key metrics in its first earnings report since separating from the Honeywell conglomerate in June.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/05/were-downgrading-honeywell-aerospace-after-a-shockingly-bad-earnings-debut.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/06/nintendo-first-quarter-earnings-switch2.html) — *CNBC*
 
 ---
 
@@ -130,35 +130,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. A colossal magma system has been hiding beneath Tuscany
+### 1. Dirty air may trigger painful rheumatoid arthritis flares
+
+[原文] Tiny pollution particles from smoke, soot, and dust may worsen rheumatoid arthritis and raise the risk of painful flares, particularly after prolonged exposure. The findings suggest that avoiding poor
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260805082452.htm) — *Science Daily*
+
+### 2. THC medication made PTSD nightmares disappear for more than a third of patients
+
+[原文] A prescription form of THC helped many people with PTSD escape recurring trauma-related nightmares, with more than one-third reporting that the nightmares disappeared completely after ten weeks. The r
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260805082450.htm) — *Science Daily*
+
+### 3. A colossal magma system has been hiding beneath Tuscany
 
 [原文] A massive magma reservoir has been detected deep beneath Tuscany, despite showing no obvious signs at the surface. Scientists mapped the roughly 6,000-cubic-kilometer body using natural ground vibrati
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260804034645.htm) — *Science Daily*
 
-### 2. Europe’s wildfires became so intense they created their own storm
+### 4. 567-million-year-old fossils rewrite the dawn of animal life
 
-[原文] Historic wildfires scorched huge areas of Spain and France, with one Spanish blaze burning an area about the size of New York City and a French fire generating a rare, towering fire cloud. A dangerous
+[原文] A spectacular fossil site in Canada contains 567-million-year-old creatures that may represent some of the earliest animals to move, reproduce sexually, and develop recognizable body plans. The discov
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260804034631.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260804034644.htm) — *Science Daily*
 
-### 3. A solar eclipse and the Perseid meteor shower arrive on the same day
+### 5. Claude Fable 5 AI finds a tiny formula that topples an 87-year-old math conjecture
 
-[原文] August brings four major celestial events, including a solar eclipse and the peak of the Perseid meteor shower. Dark New Moon skies could make the Perseids especially impressive, while Venus will blaz
+[原文] A mathematician working at Anthropic says he used the AI model Claude Fable 5 to uncover a remarkably simple counterexample to the Jacobian conjecture, a famous problem that has resisted mathematician
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260804034628.htm) — *Science Daily*
-
-### 4. Sitting up straight may improve your mood and decision-making
-
-[原文] A simple change in posture may subtly affect how people feel and make decisions. Participants who sat upright reported greater feelings of pride and took more successful risks in a virtual balloon gam
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260804034624.htm) — *Science Daily*
-
-### 5. Scientists discover the brain cells that keep you motivated
-
-[原文] A group of brain cells called orexin neurons appears to help us keep working when reaching a reward becomes increasingly difficult. Blocking their activity weakened motivation in rats, pointing to a p
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260804034622.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260804034634.htm) — *Science Daily*
 
 ---
 
@@ -170,33 +170,33 @@
 
 ### 1. Infantino sorry for errors but stays Fifa president
 
-[原文] Gianni Infantino will remain as Fifa president after receiving the backing of senior executives, but "sincerely apologises" for errors made in his controversial private investment plans.
+[原文] Gianni Infantino will remain Fifa president after receiving backing from senior executives, but "sincerely apologises" for errors in his controversial private investment plans.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Newcastle appoint Jaissle - what should fans expect?
+### 2. Olympic champion curler Muirhead comes out of retirement
 
-[原文] Newcastle United appoint Matthias Jaissle, 38, as head coach to succeed Eddie Howe - but what will the German bring to the club?
+[原文] Winter Olympic gold medallist Eve Muirhead revokes her retirement, saying being Team GB's chef de mission at this year's Games has inspired her to return to curling after four years away.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cn4n0ypyx31o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/articles/cwymv01lrn4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. How Buttler became T20 cricket's run-scoring GOAT
+### 3. Mourinho, Ferguson & search for new club - what next for Smalling?
 
-[原文] BBC Sport explores how Jos Buttler became the highest run-getter in men's T20 cricket.
+[原文] Snubbing university, genetics testing for supplements, Sir Alex Ferguson and Jose Mourinho - Chris Smalling is not your ordinary footballer.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c5ywjjnn0j5o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c935ng33l36o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Everton sign midfielder Norgaard from Arsenal
+### 4. A wanted man - but would Liverpool's Gakpo be a good fit at Spurs?
 
-[原文] Everton sign Denmark midfielder Christian Norgaard from Arsenal on a two-year contract for a reported fee of £7m.
+[原文] The data behind Tottenham's interest in Liverpool forward Cody Gakpo and how he could fit into Roberto de Zerbi’s side.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cm2gvlnjndpo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c98vnel56q6o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Real Madrid make Vinicius Jr improved contract offer
+### 5. I'd like Hundred to be longer - Salt
 
-[原文] Real Madrid make Vinicius Jr an improved contract offer as they look to keep the Brazil winger at the Bernabeu.
+[原文] Welsh Fire captain Phil Salt says ideally he would like The Hundred to be a week longer after his side played three matches in five days.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cx2dpejpv70o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c20eg91xvd4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Regal Cinemas CEO Eduardo Acuna Backs Paramount-Warner Bros. Merger, Says Antitrust Trial ‘Creates More Uncertainty and Distraction’
+### 1. Michelle Yeoh Named Asian Filmmaker of the Year at Busan
+
+[原文] Michelle Yeoh has been named Asian Filmmaker of the Year at the 31st Busan International Film Festival (BIFF), an annual honor recognizing an Asian film professional or organization for exceptional co
+
+📎 [阅读原文](https://variety.com/2026/film/festivals/michelle-yeoh-asian-filmmaker-of-the-year-busan-2-1236828896/) — *Variety*
+
+### 2. ReelShort on Track for $1.05 Billion Revenue, First Profit at Scale in 2026, Media Partners Asia Report Finds
+
+[原文] Media Partners Asia projects that leading microdrama platform ReelShort will generate $1.05 billion in revenue in 2026, up 34%, and post its first meaningful profit at scale, according to a new report
+
+📎 [阅读原文](https://variety.com/2026/tv/news/reelshort-1-billion-revenue-profit-2026-mpa-1236828885/) — *Variety*
+
+### 3. Judge Dismisses Lawsuit From Paramount Streaming Subscribers Seeking to Block Warner Bros. Merger
+
+[原文] A federal judge on Wednesday dismissed a lawsuit from a group of consumers looking to challenge the $111 billion merger between Paramount and Warner Bros. Judge Araceli Martínez-Olguín wrote that the 
+
+📎 [阅读原文](https://variety.com/2026/film/news/judge-dismisses-lawsuit-paramount-warner-bros-merger-1236828855/) — *Variety*
+
+### 4. ‘The Shards’ Star Igby Rigney on Wooing Ryan Murphy, Never Meeting Bret Easton Ellis and Not Worrying About Sex Scenes: ‘It’s Like Doing a Dance Under a Microscope’
+
+[原文] Igby Rigney is exhausted.&#160; It’s a day before “The Shards” launches, and he’s just gotten back from Berlin, the final stop of a global press tour that also took him to New York and London. When th
+
+📎 [阅读原文](https://variety.com/2026/tv/news/the-shards-igby-rigney-bret-easton-ellis-1236828415/) — *Variety*
+
+### 5. Regal Cinemas CEO Eduardo Acuna Backs Paramount-Warner Bros. Merger, Says Antitrust Trial ‘Creates More Uncertainty and Distraction’
 
 [原文] Regal Cinemas CEO Eduardo Acuna released a statement on Wednesday evening in support of the looming Paramount-Warner Bros. merger. &#8220;This year has been an important one for our industry. Attendan
 
 📎 [阅读原文](https://variety.com/2026/film/news/regal-cinemas-ceo-supports-paramount-warner-bros-merger-1236828802/) — *Variety*
-
-### 2. Bella Thorne and Zendaya Got Pitted Against Each Other During Disney Fame and Snuck Off Set to ‘Hash It Out’ After Things ‘Got Pretty Bad’
-
-[原文] Bella Thorne revealed on the latest episode of the &#8220;Call Her Daddy&#8221; podcast that she was aggressively pitted against her &#8220;Shake It Off&#8221; co-star Zendaya amid the height of their
-
-📎 [阅读原文](https://variety.com/2026/tv/news/zendaya-bella-thorne-feud-disney-pitted-against-each-other-1236828507/) — *Variety*
-
-### 3. Vampire Mockumentary ‘I Love Paris’ Takes Top Honors at 2026 Fantasia Film Festival Audience Awards
-
-[原文] The people have spoken at this year’s Fantasia International Film Festival. Nicky Murphy’s vampire mockumentary “I Love Paris” took home best international feature honors at the audience awards, while
-
-📎 [阅读原文](https://variety.com/2026/film/festivals/i-love-paris-2026-fantasia-film-festival-audience-awards-1236828704/) — *Variety*
-
-### 4. ‘Mustache’ Review: A Delightfully Anxious Pakistani American Coming-of-Age Comedy
-
-[原文] American coming-of-age comedies rarely beat with such uncomfortable verisimilitude. In the bilingual “Mustache” — the first feature from writer-director Imran J. Khan — 13-year-old Pakistani American 
-
-📎 [阅读原文](https://variety.com/2026/film/news/mustache-review-1236827903/) — *Variety*
-
-### 5. ‘Soulm8te’ Review: Fembot Goes Rogue in Polished but Predictable Tech Thriller
-
-[原文] Billed as a spun-off third entry in the “M3GAN” franchise, “Soulm8te” is to “Fatal Attraction” as M3GAN’s vehicles were to “Orphan” and “The Bad Seed” — a robotic replay of very familiar genre tropes.
-
-📎 [阅读原文](https://variety.com/2026/film/reviews/soulm8te-review-1236828635/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Odyssey Translator Emily Wilson Slams Christopher Nolan’s Understanding of Zeus’ Law
+### 1. 'This Is Not Cool' — BMW Owners Are Annoyed Over a New Spider-Man Ad Forced Into Their Cars
+
+[原文] BMW owners have discovered that a Spider-Man: Brand New Day ad has been forcefully added to their car's infotainment system.
+
+📎 [阅读原文](https://www.ign.com/articles/this-is-not-cool-bmw-owners-are-annoyed-over-a-new-spider-man-ad-forced-into-their-cars) — *IGN*
+
+### 2. The Odyssey Translator Emily Wilson Slams Christopher Nolan’s Understanding of Zeus’ Law
 
 [原文] Scholar and translator Emily Wilson has once again criticized Christopher Nolan's adaptation of The Odyssey, this time taking aim at the epic film's interpretation of Zeus' law.
 
 📎 [阅读原文](https://www.ign.com/articles/emily-wilson-criticizes-christopher-nolan-the-odyssey-zeus-law) — *IGN*
 
-### 2. Google Is Killing Google Assistant on Android Devices Next Month
+### 3. Google Is Killing Google Assistant on Android Devices Next Month
 
 [原文] Google announced the plan to sunset Assistant last year, but things were pushed back as users found Gemini not entirely capable of filling Assistant's shoes. During this time, if Gemini wasn't able to
 
 📎 [阅读原文](https://www.ign.com/articles/google-is-killing-google-assistant-on-android-devices-next-month) — *IGN*
 
-### 3. Marvel Tokon: Fighting Souls Review So Far
+### 4. Marvel Tokon: Fighting Souls Review So Far
 
 [原文] Tokon seems primed to live up to the legacy of Marvel fighting.
 
 📎 [阅读原文](https://www.ign.com/articles/marvel-tokon-fighting-souls-review) — *IGN*
 
-### 4. PlayStation 5 Consoles Are Now Reportedly Coming With Warning Stickers Reminding Players That Physical Disc Production Will End
+### 5. PlayStation 5 Consoles Are Now Reportedly Coming With Warning Stickers Reminding Players That Physical Disc Production Will End
 
 [原文] In a move that has once again sparked backlash within the gaming community, Sony now seems to be placing advisory stickers on PlayStation 5 consoles, warning players that physical games will soon be d
 
 📎 [阅读原文](https://www.ign.com/articles/playstation-5-consoles-now-come-with-warning-sticker-telling-players-that-physical-game-production-will-end) — *IGN*
-
-### 5. GTA 5 Actor Auditioned for 60 Roles in GTA 6, But Heard Nothing from Rockstar
-
-[原文] Actor Robert Bogue, who played FIB agent Steve Haines in Grand Theft Auto 5, says he auditioned for 60 roles in GTA 6, but he was ultimately ignored by Rockstar Games.
-
-📎 [阅读原文](https://www.ign.com/articles/gta-5-actor-auditioned-for-60-roles-in-gta-6-but-heard-nothing-from-rockstar) — *IGN*
 
 ---
 
@@ -401,29 +401,29 @@ The post Midnight Club 5 Axed by Rockstar Because It Couldn&#8217
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Library That Sparked a STEM Revolution for Our Students
-
-[原文] To truly close the digital equity gap, educators must become architects of student possibility.
-
-📎 [阅读原文](https://edsurge.com/news/the-library-that-sparked-a-stem-revolution-for-our-students) — *EdSurge*
-
-### 2. What Happens When AI Policy Meets a Real Classroom?
+### 1. What Happens When AI Policy Meets a Real Classroom?
 
 [原文] One national study, one local leader, and a reality check on how schools are really regulating AI.
 
 📎 [阅读原文](https://edsurge.com/news/what-happens-when-ai-policy-meets-a-real-classroom) — *EdSurge*
 
-### 3. Math Terrified Me When I Was a Student. That Made Me a Better Teacher.
+### 2. The Library That Sparked a STEM Revolution for Our Students
 
-[原文] A novice educator turns her "weakness" into a teaching strength.
+[原文] To truly close the digital equity gap, educators must become architects of student possibility.
 
-📎 [阅读原文](https://edsurge.com/news/math-terrified-me-when-i-was-a-student-that-made-me-a-better-teacher) — *EdSurge*
+📎 [阅读原文](https://edsurge.com/news/the-library-that-sparked-a-stem-revolution-for-our-students) — *EdSurge*
 
-### 4. Teachers Forge Ahead on Integrating AI
+### 3. Teachers Forge Ahead on Integrating AI
 
 [原文] A new report highlights teacher-led adoption, student demand for feedback, and a growing push for tools tailored specifically to the classroom.
 
 📎 [阅读原文](https://edsurge.com/news/teachers-forge-ahead-on-integrating-ai) — *EdSurge*
+
+### 4. Math Terrified Me When I Was a Student. That Made Me a Better Teacher.
+
+[原文] A novice educator turns her "weakness" into a teaching strength.
+
+📎 [阅读原文](https://edsurge.com/news/math-terrified-me-when-i-was-a-student-that-made-me-a-better-teacher) — *EdSurge*
 
 ### 5. High Schools Need a New Model for a New Economy
 
@@ -439,35 +439,35 @@ The post Midnight Club 5 Axed by Rockstar Because It Couldn&#8217
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Geddy Lee, Alex Lifeson, and Famous Guest Drummers Honor Neil Peart in New Documentary
+### 1. U2 Share Rewritten ‘Beautiful Day’ Lyrics From Glen Hansard’s Funeral
+
+[原文] "You left a hangover from hell, of this there is no doubt/ But as you wake up in heaven, all the angels will shout"
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/u2-beautiful-day-lyrics-glen-hansard-funeral-bono-the-edge-1235604461/) — *Rolling Stone*
+
+### 2. Elliot Page Says Christopher Nolan’s Script for ‘The Odyssey’ Left Him ‘Breathless’
+
+[原文] The actor described the box office-breaking film as "so complex, so massive, and with this tremendous engine and heart"
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/elliot-page-the-odyssey-interview-fallon-1235604454/) — *Rolling Stone*
+
+### 3. Watch Hilary Duff Perform ‘The Anthem’ With Good Charlotte at Madison Square Garden
+
+[原文] The Lizzie Maguire star is currently out on her global Lucky Me Tour
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/hilary-duff-good-charlotte-the-anthem-performance-msg-1235604450/) — *Rolling Stone*
+
+### 4. ZZ Top Cancel Hollywood Bowl Concert Due to ‘Insurmountable Obstacles’
+
+[原文] Cheap Trick, who have been sharing select tour dates with the band, announced that they would hold an "intimate" show at the Troubadour instead
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/zz-top-cancel-hollywood-bowl-concert-cheap-trick-troubador-1235604394/) — *Rolling Stone*
+
+### 5. Geddy Lee, Alex Lifeson, and Famous Guest Drummers Honor Neil Peart in New Documentary
 
 [原文] Chad Smith, Stewart Copeland, and Danny Carey all play Rush songs with Lee and Lifeson in Neil Peart: No One’s Disciple, which debuts in September
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/geddy-lee-alex-lifeson-neil-peart-documentary-1235604273/) — *Rolling Stone*
-
-### 2. Sam Smith Releases Bluesy Lament ‘When He’s Gone’ Ahead of New Album, ‘Hazel Eyes’
-
-[原文] Smith’s fifth studio album arrives on Aug. 21
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/sam-smith-when-hes-gone-single-hazel-eyes-1235603990/) — *Rolling Stone*
-
-### 3. Dawn Richard Will Dig Deep Into New Orleans Roots on New Album, ‘Creole Culture’
-
-[原文] The singer previews the record, out in October, with the new single “Enough”
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/dawn-richard-creole-culture-album-announcement-1235603956/) — *Rolling Stone*
-
-### 4. D4vd: 10 Takeaways From Our Investigation Into the Singer Accused of Killing Celeste Rivas Hernandez
-
-[原文] The artist, born David Burke, allegedly maintained an intense online relationship with another young woman, who is sharing details of their interactions for the first time
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/d4vd-accused-murder-celeste-rivas-hernandez-takeaways-1235600333/) — *Rolling Stone*
-
-### 5. Jay-Z Drops First New Verse in Years on Beyoncé’s New ‘Morning Dew (Donk)’ Remix
-
-[原文] The updated version of the archival single features elements of songs from Soulja Boy, the Isley Brothers, and Sheck Wes
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/beyonce-morning-dew-donk-remix-jay-z-1235603878/) — *Rolling Stone*
 
 ---
 
@@ -528,6 +528,7 @@ The post Midnight Club 5 Axed by Rockstar Because It Couldn&#8217
 ## ⚠️ 今日故障源
 
 - **🚗 汽车**: Autocar
+- **✈️ 旅游**: Nomadic Matt
 
 ---
 
