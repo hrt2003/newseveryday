@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月06日** | 生成时间: 2026-08-06 16:42
+**2026年08月06日** | 生成时间: 2026-08-06 22:20
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. In Odesa, no-one is safe from Russia's new Black Sea strikes
+### 1. Ukraine hits two oil refineries deep in Russian territory
+
+[原文] Ukraine's president says the strikes aim to limit revenues Russia "used to finance" its war.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwymv212xrxo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. In Odesa, no-one is safe from Russia's new Black Sea strikes
 
 [原文] Blackened ships and smashed docks mark Russia's recent surge of attacks on Ukraine's coastline.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Iran says deal with Oman on Strait of Hormuz is in final stages
+### 3. US Senate committee votes to hold Fauci in contempt over Covid hearing
+
+[原文] The committee will now refer him for potential prosecution following his refusal to answer questions during a hearing focused on his handling of the Covid-19 pandemic.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c1m18158my9o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. Iran says deal with Oman on Strait of Hormuz is in final stages
 
 [原文] Neither the US or Oman have commented on the proposed agreement on the vital waterway.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Indian journalist Tarun Tejpal convicted in 2013 rape case
+### 5. DR Congo river boat under quarantine for Ebola after five deaths
 
-[原文] The Goa bench of the Bombay High Court overturned a 2021 trial court verdict clearing Tejpal of all charges.
+[原文] The health minister says all the passengers are being screened as a precautionary measure.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2v551w9v8o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Outrage as Ugandan football captain beaten to death in street gang attack
-
-[原文] The 27-year-old was killed by suspected robbers after resisting an attempt to rob him, police say.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cm2g0038yr8o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Rihanna is 'in the studio', says partner A$AP Rocky
-
-[原文] The singer, who last released a full album in 2016, is in the studio and "cooking", her partner said.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c4gwvvw9k1xo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/ce971plr2nvo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. U.S. ready to return to 'commitments,' Iran says, after Trump signals deal is near
+### 1. Ford's new 'Fathom' electric pickup truck will start at $28,000
 
-[原文] Iran denied it was in talks with Washington, despite claims by Trump to the contrary.
+[原文] It's the first vehicle to be built using the "Universal Electric Vehicle" platform that Ford has said is key to making money with EVs.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/06/us-iran-war-hormuz-trump-bessent-deal.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/06/ford-fathom-pickup-truck-price.html) — *CNBC*
 
-### 2. Google is expanding its AI empire — and losing the people who built it
+### 2. SpaceX stock could face further pressure as first batch of shares unlock since IPO
 
-[原文] Google’s cloud boom is testing the company's commitment to frontier AI as commercial returns take priority.
+[原文] With the first tranche of SpaceX shares held by insiders unlocking, the stock could see downward pressure.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/05/google-is-expanding-its-ai-empire-and-losing-the-people-who-built-it.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/06/spacex-faces-test-as-shares-unlock-allowing-early-investors-cash-out.html) — *CNBC*
 
-### 3. JPMorgan's Jamie Dimon warns of high leverage: 'Somebody will disrupt the market'
+### 3. Fox won't renegotiate NFL media rights before current deal expires, CEO Lachlan Murdoch says
 
-[原文] JPMorgan Chief Executive Officer Jamie Dimon warned that leverage across financial markets remains elevated, adding that investors should be mindful that hidden borrowing could amplify market disrupti
+[原文] Fox has decided not to renegotiate its current TV deal with the NFL until the expiration of the league's opt-out clause in 2030, said CEO Lachlan Murdoch.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/06/jpmorgan-jamie-dimon-leverage-market-disruption.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/06/fox-nfl-media-rights-renegotiations-opt-out.html) — *CNBC*
 
-### 4. SoftBank gets $8.2 billion boost from Intel as OpenAI takes a backseat
+### 4. Versant shares surge 13% after company raises 2026 outlook on platforms, advertising momentum
 
-[原文] SoftBank on Thursday reported profit for its fiscal first quarter that beat market expectations.
+[原文] Versant noted revenue growth in its platforms business, which includes Fandango and GolfNow, and now, the recent acquisition of Full Swing.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/06/softbank-q1-earnings-intel-bytedance-stakes.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/06/versant-vsnt-earnings-q2-2026.html) — *CNBC*
 
-### 5. Nintendo's fiscal first-quarter profit and revenue beat estimates, despite Switch 2 sales slump
+### 5. The divide between Eli Lilly and Novo Nordisk is widening after their latest earnings
 
-[原文] Nintendo reported fiscal first-quarter earnings Thursday.
+[原文] As Lilly widens its lead in the obesity race, Novo is still racing to win back market share and restore investor confidence in its pipeline.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/06/nintendo-first-quarter-earnings-switch2.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/06/eli-lilly-novo-nordisk-earnings-glp1-market.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Get up to $400 off your TechCrunch Disrupt 2026 pass until Friday
+### 1. eBay continues to bet on live shopping after record quarter
 
-[原文] Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.
+[原文] eBay touted an increase in eBay Live's gross merchandise volume as it plans to expand it to more international markets in the coming weeks and months.
 
-📎 [阅读原文](https://techcrunch.com/2026/08/05/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/08/06/ebay-continues-to-bet-on-live-shopping-after-record-quarter/) — *TechCrunch*
 
-### 2. Nikita Bier steps down as X’s head of product
+### 2. Amid legal battles, Suno says it will start watermarking songs
 
-[原文] The serial entrepreneur is stepping down a little over a year after taking the "24/7 job" of overseeing X.
+[原文] Suno's watermarking feature comes as the company is fighting legal battles on several fronts.
 
-📎 [阅读原文](https://techcrunch.com/2026/08/05/nikita-bier-steps-down-as-xs-head-of-product/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/) — *TechCrunch*
 
-### 3. Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO
+### 3. Ford’s new electric truck, ‘Fathom’, starts at $28,350
 
-[原文] Kalanick continues to get the band back together, after acquiring Anthony Levandowski's autonomy startup, and even soliciting investment from Uber.
+[原文] Due in "fall 2027," Ford said Thursday that it won't reveal what Fathom looks like until early next year.
 
-📎 [阅读原文](https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/08/06/fords-new-electric-truck-fathom-starts-at-28350/) — *TechCrunch*
 
-### 4. Meta launches Muse Code, an AI agent for large code bases
+### 4. Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce
 
-[原文] Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.
+[原文] The startup's platform predicts what product a shopper wants next, learn their general taste, and fine-tune continuously based on what they do in real time.
 
-📎 [阅读原文](https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/) — *TechCrunch*
 
-### 5. Trump’s DOJ gains oversight of OpenAI’s green-card employee sponsorships
+### 5. Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI
 
-[原文] The DOJ alleged that OpenAI did not meaningful attempt to hire U.S. citizens before seeking permanent residence for Visa-holding employees.
+[原文] Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and 
 
-📎 [阅读原文](https://techcrunch.com/2026/08/05/trumps-doj-gains-oversight-of-openais-green-card-employee-sponsorships/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/) — *TechCrunch*
 
 ---
 
@@ -130,35 +130,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Dirty air may trigger painful rheumatoid arthritis flares
+### 1. A drug already used for osteoporosis blocked spinal damage in a new study
 
-[原文] Tiny pollution particles from smoke, soot, and dust may worsen rheumatoid arthritis and raise the risk of painful flares, particularly after prolonged exposure. The findings suggest that avoiding poor
+[原文] Genetic changes may set off a chain reaction that causes the spine’s natural shock absorbers to harden and deteriorate. Zebrafish with a faulty collagen-related gene developed mineral buildup and spin
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260805082452.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260806051943.htm) — *Science Daily*
 
-### 2. THC medication made PTSD nightmares disappear for more than a third of patients
+### 2. Major study challenges long-held fears about acetaminophen and ibuprofen use in babies
 
-[原文] A prescription form of THC helped many people with PTSD escape recurring trauma-related nightmares, with more than one-third reporting that the nightmares disappeared completely after ten weeks. The r
+[原文] A landmark study of nearly 4,000 babies found that acetaminophen and ibuprofen were equally safe during infancy. Neither medicine was linked to eczema or bronchiolitis, and no serious side effects wer
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260805082450.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260805082510.htm) — *Science Daily*
 
-### 3. A colossal magma system has been hiding beneath Tuscany
+### 3. A star’s violent death exposed a hidden supermassive black hole
 
-[原文] A massive magma reservoir has been detected deep beneath Tuscany, despite showing no obvious signs at the surface. Scientists mapped the roughly 6,000-cubic-kilometer body using natural ground vibrati
+[原文] A supermassive black hole has been found lurking about 30,000 light-years from the center of its galaxy—the first dormant black hole detected so far from a galactic core. It revealed itself only after
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260804034645.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260805082457.htm) — *Science Daily*
 
-### 4. 567-million-year-old fossils rewrite the dawn of animal life
+### 4. Forget the sperm race: Fertilization may depend on teamwork
 
-[原文] A spectacular fossil site in Canada contains 567-million-year-old creatures that may represent some of the earliest animals to move, reproduce sexually, and develop recognizable body plans. The discov
+[原文] Millions of sperm do not always compete alone—some species send them into action as coordinated teams. A sweeping evolutionary study found that this cooperation is widespread among arthropods and has 
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260804034644.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260805082455.htm) — *Science Daily*
 
-### 5. Claude Fable 5 AI finds a tiny formula that topples an 87-year-old math conjecture
+### 5. The AMOC stayed strong even as a major ocean “lifeline” nearly shut down
 
-[原文] A mathematician working at Anthropic says he used the AI model Claude Fable 5 to uncover a remarkably simple counterexample to the Jacobian conjecture, a famous problem that has resisted mathematician
+[原文] Ancient seafloor sediments have revealed a surprising twist in how the Atlantic’s massive circulation system works. During a cold period about 3.4 million years ago, the flow of warm, salty water from
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260804034634.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260805082454.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Infantino sorry for errors but stays Fifa president
+### 1. Barcelona? Real Madrid? Man City's Rodri has a decision to make
 
-[原文] Gianni Infantino will remain Fifa president after receiving backing from senior executives, but "sincerely apologises" for errors in his controversial private investment plans.
+[原文] Midfielder Rodri may have a huge decision to make this summer on whether to join Real Madrid or Barcelona, should he decide to leave Manchester City.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cglj6p6n9l8o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Olympic champion curler Muirhead comes out of retirement
+### 2. Hampshire and England bowler Turner retires aged 25
 
-[原文] Winter Olympic gold medallist Eve Muirhead revokes her retirement, saying being Team GB's chef de mission at this year's Games has inspired her to return to curling after four years away.
+[原文] Hampshire and England fast bowler John Turner retires from cricket aged 25 after more than a year out injured.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/articles/cwymv01lrn4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c9d894zep3lo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Mourinho, Ferguson & search for new club - what next for Smalling?
+### 3. Why Liverpool icon Salah has chosen Trabzonspor
 
-[原文] Snubbing university, genetics testing for supplements, Sir Alex Ferguson and Jose Mourinho - Chris Smalling is not your ordinary footballer.
+[原文] Why Mohamed Salah chose Trabzonspor over Saudi Arabia and MLS, and what the move means for him and Turkish football.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c935ng33l36o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cy74v1j1v6zo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. A wanted man - but would Liverpool's Gakpo be a good fit at Spurs?
+### 4. England recall Pope & Lawrence for Pakistan Tests but Bethell out
 
-[原文] The data behind Tottenham's interest in Liverpool forward Cody Gakpo and how he could fit into Roberto de Zerbi’s side.
+[原文] Surrey duo Ollie Pope and Dan Lawrence are recalled to the England squad for the first two Tests against Pakistan.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c98vnel56q6o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/crl7911zk40o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. I'd like Hundred to be longer - Salt
+### 5. Mark Hughes' son died of sudden adult death syndrome
 
-[原文] Welsh Fire captain Phil Salt says ideally he would like The Hundred to be a week longer after his side played three matches in five days.
+[原文] Alex Hughes was found collapsed at his home in Macclesfield, Cheshire, on 19 June by his two sons.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c20eg91xvd4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5yrq8n52n0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Michelle Yeoh Named Asian Filmmaker of the Year at Busan
+### 1. Farhan Akhtar and Ritesh Sidhwani’s Excel Entertainment, AA Films Board Toronto Midnight Madness Malayalam Vampire Thriller ‘Half’ (EXCLUSIVE)
 
-[原文] Michelle Yeoh has been named Asian Filmmaker of the Year at the 31st Busan International Film Festival (BIFF), an annual honor recognizing an Asian film professional or organization for exceptional co
+[原文] Toronto Midnight Madness selection “Half,” the Malayalam vampire action thriller from Fragrant Nature Film Creations (FNFC), has been boarded by Ritesh Sidhwani and Farhan Akhtar’s Excel Entertainment
 
-📎 [阅读原文](https://variety.com/2026/film/festivals/michelle-yeoh-asian-filmmaker-of-the-year-busan-2-1236828896/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/farhan-akhtar-excel-toronto-malayalam-vampire-thriller-half-1236829098/) — *Variety*
 
-### 2. ReelShort on Track for $1.05 Billion Revenue, First Profit at Scale in 2026, Media Partners Asia Report Finds
+### 2. Toronto Midnight Madness Film ‘Kick On’ Boarded by Blue Finch for Sales (EXCLUSIVE)
 
-[原文] Media Partners Asia projects that leading microdrama platform ReelShort will generate $1.05 billion in revenue in 2026, up 34%, and post its first meaningful profit at scale, according to a new report
+[原文] U.K. sales and distribution company Blue Finch Films has picked up worldwide sales rights, excluding Australia and New Zealand, to Nick Kozakis’ action horror “Kick On,” which will have its world prem
 
-📎 [阅读原文](https://variety.com/2026/tv/news/reelshort-1-billion-revenue-profit-2026-mpa-1236828885/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/markets-festivals/toronto-midnight-madness-kick-on-blue-finch-1236829076/) — *Variety*
 
-### 3. Judge Dismisses Lawsuit From Paramount Streaming Subscribers Seeking to Block Warner Bros. Merger
+### 3. ‘Obsession,’ Inde Navarrette and Curry Barker Are Heading Back to TIFF
 
-[原文] A federal judge on Wednesday dismissed a lawsuit from a group of consumers looking to challenge the $111 billion merger between Paramount and Warner Bros. Judge Araceli Martínez-Olguín wrote that the 
+[原文] The Toronto International Film Festival just can’t quit “Obsession.” On Thursday, TIFF, which runs Sept. 10-20, 2026, announced its Midnight Madness lineup of genre films, including filmmaker Anna Bil
 
-📎 [阅读原文](https://variety.com/2026/film/news/judge-dismisses-lawsuit-paramount-warner-bros-merger-1236828855/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/tiff-2026-obsession-inde-navarrette-curry-barker-midnight-madness-anna-biller-1236828829/) — *Variety*
 
-### 4. ‘The Shards’ Star Igby Rigney on Wooing Ryan Murphy, Never Meeting Bret Easton Ellis and Not Worrying About Sex Scenes: ‘It’s Like Doing a Dance Under a Microscope’
+### 4. ‘Operation Safed Sagar’: Inside Netflix’s High-Altitude Bet on the Untold Story of the India-Pakistan Kargil War
 
-[原文] Igby Rigney is exhausted.&#160; It’s a day before “The Shards” launches, and he’s just gotten back from Berlin, the final stop of a global press tour that also took him to New York and London. When th
+[原文] The most important prop in Netflix series &#8220;Operation Safed Sagar&#8221; isn&#8217;t a fighter jet. It&#8217;s a wing badge. When creator and showrunner Abhijeet Singh Parmar first sat down with 
 
-📎 [阅读原文](https://variety.com/2026/tv/news/the-shards-igby-rigney-bret-easton-ellis-1236828415/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/operation-safed-sagar-netflix-india-kargil-war-1236828940/) — *Variety*
 
-### 5. Regal Cinemas CEO Eduardo Acuna Backs Paramount-Warner Bros. Merger, Says Antitrust Trial ‘Creates More Uncertainty and Distraction’
+### 5. Martin McDonagh to Be Honored at Zurich Film Festival as ‘Wild Horse Nine’ Receives Gala Premiere
 
-[原文] Regal Cinemas CEO Eduardo Acuna released a statement on Wednesday evening in support of the looming Paramount-Warner Bros. merger. &#8220;This year has been an important one for our industry. Attendan
+[原文] The Zurich Film Festival will pay tribute to filmmaker Martin McDonagh as it gives a gala premiere to his latest film, “Wild Horse Nine,” starring John Malkovich and Sam Rockwell. The London-based dir
 
-📎 [阅读原文](https://variety.com/2026/film/news/regal-cinemas-ceo-supports-paramount-warner-bros-merger-1236828802/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/martin-mcdonagh-zurich-film-festival-wild-horse-nine-1236829104/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. 'This Is Not Cool' — BMW Owners Are Annoyed Over a New Spider-Man Ad Forced Into Their Cars
+### 1. Japanese Anime Fan Arrested After Canceling Naruto and One Piece Merchandise Orders Worth $2.7 Million
 
-[原文] BMW owners have discovered that a Spider-Man: Brand New Day ad has been forcefully added to their car's infotainment system.
+[原文] Tokyo police have arrested a woman for obstructing the business of anime company Shueisha, after she allegedly ordered — then canceled — more than 4.3 billion yen's worth of Naruto and One Piece merch
 
-📎 [阅读原文](https://www.ign.com/articles/this-is-not-cool-bmw-owners-are-annoyed-over-a-new-spider-man-ad-forced-into-their-cars) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/japanese-anime-fan-arrested-after-canceling-naruto-and-one-piece-merchandise-orders-worth-27-million) — *IGN*
 
-### 2. The Odyssey Translator Emily Wilson Slams Christopher Nolan’s Understanding of Zeus’ Law
+### 2. Roblox Blames Falling Player Numbers and In-Game Spending on Its Push to Recommend Less Slop to Kids — And There Being No Replacement for Last Year's Viral Hit Grow a Garden
 
-[原文] Scholar and translator Emily Wilson has once again criticized Christopher Nolan's adaptation of The Odyssey, this time taking aim at the epic film's interpretation of Zeus' law.
+[原文] Roblox player numbers and in-game spending have fallen sharply from their peak last summer, when the gaming platform hosted viral hits such as Grow a Garden and Steal the Brainrot.
 
-📎 [阅读原文](https://www.ign.com/articles/emily-wilson-criticizes-christopher-nolan-the-odyssey-zeus-law) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/roblox-blames-falling-player-numbers-and-in-game-spending-on-its-push-to-recommend-less-slop-to-kids-and-there-being-no-replacement-for-last-years-viral-hit-grow-a-garden) — *IGN*
 
-### 3. Google Is Killing Google Assistant on Android Devices Next Month
+### 3. Last Chance: Get Up to a £20 Argos Gift Card on PS5 Games Today
 
-[原文] Google announced the plan to sunset Assistant last year, but things were pushed back as users found Gemini not entirely capable of filling Assistant's shoes. During this time, if Gemini wasn't able to
+[原文] Today is your last chance to score up to a £20 free Argos gift card on PS5 games, including GTA 6 preorders. Do not miss out before the deal expires tonight.
 
-📎 [阅读原文](https://www.ign.com/articles/google-is-killing-google-assistant-on-android-devices-next-month) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/argos-ps5-games-gift-card-deal-ends-today) — *IGN*
 
-### 4. Marvel Tokon: Fighting Souls Review So Far
+### 4. The U.S. Government's Mario, Pokémon and Naruto Meme Posting Could Damage These Franchises, Japanese Officials Warn
 
-[原文] Tokon seems primed to live up to the legacy of Marvel fighting.
+[原文] Japanese officials have repeatedly requested that the U.S. government stop its meme posting involving characters and franchises such as Mario, Pokémon and Naruto.
 
-📎 [阅读原文](https://www.ign.com/articles/marvel-tokon-fighting-souls-review) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/the-us-governments-mario-pokmon-and-naruto-meme-posting-could-damage-these-franchises-japanese-officials-warn) — *IGN*
 
-### 5. PlayStation 5 Consoles Are Now Reportedly Coming With Warning Stickers Reminding Players That Physical Disc Production Will End
+### 5. Switch 2 Sales Down Year-on-Year After 2025's Explosive Launch, Though Nintendo Insists Adoption Still Compares 'Favorably' to Original Switch
 
-[原文] In a move that has once again sparked backlash within the gaming community, Sony now seems to be placing advisory stickers on PlayStation 5 consoles, warning players that physical games will soon be d
+[原文] Switch 2 sales are down by more than a third compared to the console's explosive launch a year ago, though Nintendo has insisted its new machine's arrival still compares well with that of Switch 1.
 
-📎 [阅读原文](https://www.ign.com/articles/playstation-5-consoles-now-come-with-warning-sticker-telling-players-that-physical-game-production-will-end) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/switch-2-sales-down-year-on-year-after-2025s-explosive-launch-though-nintendo-insists-adoption-still-compares-favorably-to-original-switch) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Illegal Muscle Cars: How Enthusiasts Are Recreating Forbidden Classics in China
+### 1. 2026 Ferrari 296 Speciale Aperta Review: The Red-Blooded Supercar Enzo Would Be Proud of
+
+[原文] Following in the footsteps of the magical 360 Challenge Stradale, 430 Scuderia, 458 Speciale, and 488 Pista—the Ferrari 296 Speciale honors its name with spicy looks and mind-bending performance.
+The 
+
+📎 [阅读原文](https://www.thedrive.com/car-reviews/2026-ferrari-296-speciale-aperta-review) — *The Drive*
+
+### 2. Entry-Level Merc GT53 Trades Triple-Motor Power for Big Range: TDS
+
+[原文] The new Mercedes-AMG GT53 doesn't have the 1,153 hp of the flagship version, but it does have a projected 500 miles of range.
+The post Entry-Level Merc GT53 Trades Triple-Motor Power for Big Range: TD
+
+📎 [阅读原文](https://www.thedrive.com/news/entry-level-merc-gt53-trades-triple-motor-power-for-big-range-tds) — *The Drive*
+
+### 3. Ford’s New Electric Truck Is Called ‘Fathom’ and Starts at $29,945
+
+[原文] Let's just hope you weren't actually betting on it being called the Ranchero.
+The post Ford’s New Electric Truck Is Called &#8216;Fathom&#8217; and Starts at $29,945 appeared first on The Drive.
+
+📎 [阅读原文](https://www.thedrive.com/news/fords-new-electric-truck-is-called-fathom-and-starts-at-29945) — *The Drive*
+
+### 4. Illegal Muscle Cars: How Enthusiasts Are Recreating Forbidden Classics in China
 
 [原文] Classic cars are highly regulated in China, so a motorcycle club-turned-coachbuilder is trying to fill that gap by recreating iconic designs of the past.
 The post Illegal Muscle Cars: How Enthusiasts 
 
 📎 [阅读原文](https://www.thedrive.com/news/illegal-muscle-cars-how-enthusiasts-are-recreating-forbidden-classics-in-china) — *The Drive*
 
-### 2. America Finally Gets Modern Headlights. Your Experience May Vary
+### 5. America Finally Gets Modern Headlights. Your Experience May Vary
 
 [原文] Audi's Head of Exterior Lighting, Michael Kruppa, and lighting expert Daniel Stern told The Drive why Audi and Rivian built such different headlights.
 The post America Finally Gets Modern Headlights. 
 
 📎 [阅读原文](https://www.thedrive.com/news/america-finally-gets-modern-headlights-your-experience-may-vary) — *The Drive*
-
-### 3. Dear Automakers: Get Your Ads Out of Our Cars
-
-[原文] It's time to tell your MBAs that some opportunities are best left unexploited. 
-The post Dear Automakers: Get Your Ads Out of Our Cars appeared first on The Drive.
-
-📎 [阅读原文](https://www.thedrive.com/news/dear-automakers-get-your-ads-out-of-our-cars) — *The Drive*
-
-### 4. Lucid Pumps Brakes on Cosmos Midsize SUV Launch Amid Cost-Cutting Campaign: TDS
-
-[原文] Lucid now doesn't plan to launch its sub-$50K Cosmos SUV until 2027, as it hopes to iron out the kinks and ensure early success.
-The post Lucid Pumps Brakes on Cosmos Midsize SUV Launch Amid Cost-Cutt
-
-📎 [阅读原文](https://www.thedrive.com/news/lucid-pumps-brakes-on-cosmos-midsize-suv-launch-amid-cost-cutting-campaign-tds) — *The Drive*
-
-### 5. Midnight Club 5 Axed by Rockstar Because It Couldn’t Measure Up to GTA, Dev Says
-
-[原文] Rockstar left Midnight Club behind because it was the "red-headed stepchild project" in GTA's shadow, according to a former developer.
-The post Midnight Club 5 Axed by Rockstar Because It Couldn&#8217
-
-📎 [阅读原文](https://www.thedrive.com/news/midnight-club-5-axed-by-rockstar-because-it-couldnt-measure-up-to-gta-dev-says) — *The Drive*
 
 ---
 
@@ -363,35 +363,35 @@ The post Midnight Club 5 Axed by Rockstar Because It Couldn&#8217
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. FEMA Downsizing Exacerbates Longstanding Problems, Imperils Disaster Response, Federal Watchdog Says
+### 1. In Florida, Being Poor Isn’t Enough to Qualify for the Best Water Aid
+
+[原文] Belle Glade is one of the poorest cities in Florida, a majority-Black farmworker community on the southern rim of Lake Okeechobee, where clean and reliable drinking water has never been a given. But w
+
+📎 [阅读原文](https://insideclimatenews.org/news/06082026/florida-federal-water-aid-excludes-bigger-low-income-communities/) — *Inside Climate News*
+
+### 2. As Solar and Batteries Dominate in Texas, Republican Lawmakers Consider Natural Gas Minimums
+
+[原文] As new electricity generation skews toward solar and battery storage in Texas, Republican state senators are questioning whether it’s time to impose minimum standards for building gas plants and move 
+
+📎 [阅读原文](https://insideclimatenews.org/news/06082026/texas-republicans-consider-natural-gas-minimums/) — *Inside Climate News*
+
+### 3. Philadelphia Juggles Short-Term Budget Plans and Long-Term Climate Goals
+
+[原文] PHILADELPHIA—This summer has brought the full force of a changing climate, with wildfire smoke, extreme heat, flash flooding and severe storms continuing a trend of increasingly extreme weather affect
+
+📎 [阅读原文](https://insideclimatenews.org/news/06082026/philadelphia-budget-climate-efforts/) — *Inside Climate News*
+
+### 4. FEMA Downsizing Exacerbates Longstanding Problems, Imperils Disaster Response, Federal Watchdog Says
 
 [原文] A widespread downsizing of the Federal Emergency Management Agency during the second Trump administration has exacerbated longstanding workforce challenges there and imperiled its response to disaster
 
 📎 [阅读原文](https://insideclimatenews.org/news/05082026/fema-downsizing-imperils-disaster-response/) — *Inside Climate News*
 
-### 2. As More New Yorkers Use the City’s Waterways for Recreation, Officials Fight Sewage Notification Order
+### 5. As More New Yorkers Use the City’s Waterways for Recreation, Officials Fight Sewage Notification Order
 
 [原文] The bullhorn blared as three cardboard kayaks lurched into the Hudson River from Pier 84 in Manhattan. Their occupants paddled across choppy waters toward a bright yellow buoy about 20 meters offshore
 
 📎 [阅读原文](https://insideclimatenews.org/news/05082026/new-york-city-fights-sewage-discharge-notifications/) — *Inside Climate News*
-
-### 3. Coming to Some of Pennsylvania’s Most Picturesque Places: Data Centers
-
-[原文] TOBYHANNA, Pa.—Rich Troscianecki spent a decade searching for a slice of paradise. After raising a family in a sprawling New Jersey suburb, he and his wife craved a more peaceful place with lots of wo
-
-📎 [阅读原文](https://insideclimatenews.org/news/05082026/data-centers-in-pennsylvania-poconos/) — *Inside Climate News*
-
-### 4. Climate-Fueled Fires Put America’s Natural and Cultural Sites At Risk
-
-[原文] Climate-fueled wildfires could scorch many of the sites that shape America’s cultural identity.&#160; A study published in May found wildfire risk threatens the majority of sites designated by the fed
-
-📎 [阅读原文](https://insideclimatenews.org/news/04082026/todays-climate-wildfire-history-cultural-sites-national-parks/) — *Inside Climate News*
-
-### 5. As Spokane Burns, a Record Northwestern Fire Season Shows No Signs of Slowing
-
-[原文] Matthew Kincanon spent Saturday drinking coffee from his favorite mug and planning an afternoon with friends, until the Old Trails Fire exploded across the Spokane River, a few miles from his home.&#1
-
-📎 [阅读原文](https://insideclimatenews.org/news/04082026/spokane-fire-part-of-record-wildfire-season/) — *Inside Climate News*
 
 ---
 
@@ -401,29 +401,29 @@ The post Midnight Club 5 Axed by Rockstar Because It Couldn&#8217
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. What Happens When AI Policy Meets a Real Classroom?
-
-[原文] One national study, one local leader, and a reality check on how schools are really regulating AI.
-
-📎 [阅读原文](https://edsurge.com/news/what-happens-when-ai-policy-meets-a-real-classroom) — *EdSurge*
-
-### 2. The Library That Sparked a STEM Revolution for Our Students
+### 1. The Library That Sparked a STEM Revolution for Our Students
 
 [原文] To truly close the digital equity gap, educators must become architects of student possibility.
 
 📎 [阅读原文](https://edsurge.com/news/the-library-that-sparked-a-stem-revolution-for-our-students) — *EdSurge*
 
-### 3. Teachers Forge Ahead on Integrating AI
+### 2. What Happens When AI Policy Meets a Real Classroom?
 
-[原文] A new report highlights teacher-led adoption, student demand for feedback, and a growing push for tools tailored specifically to the classroom.
+[原文] One national study, one local leader, and a reality check on how schools are really regulating AI.
 
-📎 [阅读原文](https://edsurge.com/news/teachers-forge-ahead-on-integrating-ai) — *EdSurge*
+📎 [阅读原文](https://edsurge.com/news/what-happens-when-ai-policy-meets-a-real-classroom) — *EdSurge*
 
-### 4. Math Terrified Me When I Was a Student. That Made Me a Better Teacher.
+### 3. Math Terrified Me When I Was a Student. That Made Me a Better Teacher.
 
 [原文] A novice educator turns her "weakness" into a teaching strength.
 
 📎 [阅读原文](https://edsurge.com/news/math-terrified-me-when-i-was-a-student-that-made-me-a-better-teacher) — *EdSurge*
+
+### 4. Teachers Forge Ahead on Integrating AI
+
+[原文] A new report highlights teacher-led adoption, student demand for feedback, and a growing push for tools tailored specifically to the classroom.
+
+📎 [阅读原文](https://edsurge.com/news/teachers-forge-ahead-on-integrating-ai) — *EdSurge*
 
 ### 5. High Schools Need a New Model for a New Economy
 
@@ -477,35 +477,35 @@ The post Midnight Club 5 Axed by Rockstar Because It Couldn&#8217
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Expedia B2B Is Mostly Hotels, But It Wants a One-Stop Shop
+### 1. Extreme Drought Is Upending River Cruises
+
+[原文] Low water levels in Europe are causing widespread disruption to river cruises, leading to one Viking ship running aground. As guests face potential cancellations, the consumer travel insurance industr
+
+📎 [阅读原文](https://skift.com/2026/08/06/extreme-drought-is-upending-river-cruises/) — *Skift*
+
+### 2. Air India and IndiGo Just Hired CEOs for Two Very Different Global Goals
+
+[原文] Neither airline hired for today’s problems. Air India is trying to make a 600-aircraft expansion look orderly, while IndiGo is trying to ensure its global ambitions don’t arrive before its widebody fl
+
+📎 [阅读原文](https://skift.com/2026/08/06/air-india-and-indigo-just-hired-ceos-for-two-very-different-global-goals/) — *Skift*
+
+### 3. Expedia B2B Is Mostly Hotels, But It Wants a One-Stop Shop
 
 [原文] Expedia Group's B2B offering has been predominantly hotels. The online travel agency, which was founded more than 25 years ago, only recently began offering flights to B2B partners. Its strategy is to
 
 📎 [阅读原文](https://skift.com/2026/08/05/expedia-is-investing-in-its-leading-b2b-product-as-competition-heats-up/) — *Skift*
 
-### 2. Thank You, Google. Trivago Expects EU Tailwind
+### 4. Thank You, Google. Trivago Expects EU Tailwind
 
 [原文] A more even playing field for Trivago and Google's online competitors in Europe at long last? As the saying goes, the devil will be in the details.
 
 📎 [阅读原文](https://skift.com/2026/08/05/thank-you-google-trivago-expects-eu-tailwind/) — *Skift*
 
-### 3. Choice Hotels’ New Interim CEO’s First Task: Fix the Revenue Gap
+### 5. Choice Hotels’ New Interim CEO’s First Task: Fix the Revenue Gap
 
 [原文] Dom Dragisich has had the top job for 11 weeks, having inherited a franchise machine that is adding rooms again but lagging rivals on revenue. He's making the pitch that he can close the gap.
 
 📎 [阅读原文](https://skift.com/2026/08/05/choice-hotels-new-interim-ceos-first-task-fix-the-revenue-gap/) — *Skift*
-
-### 4. Two Disneys: Booming U.S. Parks, Sluggish Asia
-
-[原文] While domestic park attendance remains strong, executives said Disney’s Asian parks aren’t immune to recent macroeconomic pressures.
-
-📎 [阅读原文](https://skift.com/2026/08/05/disney-parks-domestic-asia-q3/) — *Skift*
-
-### 5. Skift Capital Allocation Brief: A New Quarterly Read on Where Travel’s Money Goes
-
-[原文] M&A, venture money, buybacks, take-privates, a free quarterly read on all the capital moving through travel, what it means, and a first look at the decision intelligence Skift is building.
-
-📎 [阅读原文](https://skift.com/2026/08/05/skift-capital-allocation-brief-a-new-quarterly-read-on-where-travels-money-goes/) — *Skift*
 
 ---
 
@@ -528,7 +528,6 @@ The post Midnight Club 5 Axed by Rockstar Because It Couldn&#8217
 ## ⚠️ 今日故障源
 
 - **🚗 汽车**: Autocar
-- **✈️ 旅游**: Nomadic Matt
 
 ---
 
