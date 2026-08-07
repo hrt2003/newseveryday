@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月07日** | 生成时间: 2026-08-07 08:05
+**2026年08月07日** | 生成时间: 2026-08-07 15:21
 
 ---
 
@@ -16,17 +16,17 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump denies US weapons shortage and says information 'leakers' being 'hunted down'
+### 1. Meta fined $567m in largest child safety ruling against social media giant
 
-[原文] While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 2. Meta fined $567m in largest child safety ruling against social media giant
-
-[原文] A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children.
+[原文] The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Trump again tries to limit US birthright citizenship with new executive orders
+
+[原文] The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 3. Uefa says boycott may still go ahead as FA withdraws Infantino support
 
@@ -34,17 +34,17 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. South Korea space agency shares Moon images after SpaceX rocket debris crash
+### 4. Australian aviation crew carries out daring midwinter Antarctica rescue
 
-[原文] Seoul's lunar orbiter captured images of the Moon before and after part of SpaceX's rocket hit its surface on Wednesday.
+[原文] Team evacuated a patient from McMurdo Station after landing plane in total darkness and temperature of -43°C.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqjxgx5y51lo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Thousands of migrants still in Ceuta after border crisis, local leader says
+### 5. Trump denies US weapons shortage and says information 'leakers' being 'hunted down'
 
-[原文] The Spanish territory's mayor-president also says 100 deaths occurred as a result of 78,000 migrants crossing from neighbouring Morocco.
+[原文] While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c0ejdj22zq9o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Iran's Hormuz Strait plan reportedly blocks U.S., Israeli ships; U.S. rejects any 'impediments'
+### 1. Oil rises as Iran's draft plan sees U.S. and Israel banned from Strait of Hormuz
 
-[原文] The U.S. appeared to quickly reject the terms of an Iranian draft plan that would open the Strait of Hormuz to ships except those from the U.S. and Israel.
+[原文] News of Iran's restrictive draft plan for the Strait of Hormuz sent oil prices higher, renewing concerns over supply disruptions.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/06/us-iran-war-hormuz-trump-bessent-deal.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/07/oil-rises-supply-fears-iran-draft-plan-strait-hormuz.html) — *CNBC*
 
-### 2. Copper jumps to its highest level ever. What the metal is telling us
+### 2. Iran's chief negotiator accuses Trump of 'theater diplomacy' with Hormuz traffic near standstill
 
-[原文] Once a reliable gauge if economic health, "Dr. Copper" may be giving complicated signals this year.
+[原文] The conflict is broadening across the region, with Gulf energy infrastructure and key shipping chokepoints under renewed threat.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/06/copper-jumps-to-its-highest-level-ever-what-the-metal-is-telling-us-.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/07/us-iran-war-trump-hormuz-diplomacy-oil-.html) — *CNBC*
 
-### 3. Airbnb stock soars 9% on earnings and revenue beat, strong guidance for third quarter
+### 3. Meta ordered to pay $567 million into abatement fund as remedy to child harms case in New Mexico
 
-[原文] Airbnb said it's seeing strong demand "across all regions," contributing to the company's better-than-expected forecast.
+[原文] A judge in New Mexico ordered Meta to pay $567 million into an abatement fund after a jury ruled the company violated the state’s unfair practices act.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/06/airbnb-abnb-q2-earningsreport.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/06/meta-to-pay-into-567-million-fund-after-child-harms-case-new-mexico.html) — *CNBC*
 
-### 4. From birth to brokerage: Why South Korea is seeing a surge in infant investment accounts
+### 4. A 'weaponized' yen: How the U.S.-Japan intervention may reshape global currency markets
 
-[原文] South Korean babies are turning into mini shareholders, thanks to their parents' investment strategies.
+[原文] The unprecedented U.S.-Japan intervention to support the yen may end up shaping market behavior.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/07/south-korea-investment-stock-baby-accounts.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/07/japan-us-yen-intervention-global-currency-markets.html) — *CNBC*
 
-### 5. The July jobs numbers are due out Friday. Here's what to expect
+### 5. China's exports growth beats estimates in July, as AI-driven shipments surge
 
-[原文] Nonfarm payrolls are expected to post a gain of just 83,000 with an unchanged unemployment rate at 4.2%.
+[原文] China's exports rose more than expected in July, as global demand for high-tech components continues to absorb the country's manufactured goods.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/06/the-july-jobs-numbers-are-due-out-friday-heres-what-to-expect.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/07/china-july-trade-exports-imports-surplus-imbalance-tariffs-.html) — *CNBC*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Vinicius Jr and Real Madrid agree new six-year deal
+### 1. Who will leave Chelsea? How Blues could cut 41-man squad
 
-[原文] Brazil winger Vinicius Jr will stay at Real Madrid after agreeing improved terms with the Spanish side despite interest from Arsenal.
+[原文] With 25 days until the transfer window closes, Chelsea will be working hard to cut their 41-man senior squad. But who could be heading out?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c1517j1q129o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c0jle24ln68o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Uefa says boycott may still go ahead as FA withdraws Infantino support
+### 2. Old habits haunt Rangers in early McInnes tenure
+
+[原文] Derek McInnes says Rangers were "guilty of beating ourselves" as his side conceded cheap goals in the Europa League first-leg defeat to Jagiellonia Bialystok.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c0kmd62el06o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. 39 moves across five countries - football's ultimate journeyman
+
+[原文] As he prepares to manage in the FA Cup for the first time, Zeph Thomas tells BBC Sport about his extraordinary career path spanning 39 moves in 18 years.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cdx7wq2r21yo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. Guimaraes future decided before I arrived - Jaissle
+
+[原文] Newcastle United manager Matthias Jaissle says a decision about Bruno Guimaraes' future was "already made" by the time he first met the club's departing captain.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c62el1507p1o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 5. Uefa says boycott may still go ahead as FA withdraws Infantino support
 
 [原文] Fifa's backing of president Gianni Infantino at a meeting on Wednesday "changes nothing", says European governing body Uefa.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 3. Doku's new deal, Gonzalez to stay - what's latest on Man City transfers?
-
-[原文] Winger Jeremy Doku is the latest Manchester City player to commit his future to the club after signing a new contract until 2031.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c62qv47wdl0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. Le Court wins stage six of Tour after mechanical failure
-
-[原文] Kimberley Le Court wins a sprint finish to seal victory in stage six of the Tour de France Femmes on Thursday, as Swiss rider Marlen Reusser holds on to the overall lead.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/cycling/articles/cp87zgl332qo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Wigan thrash Saints in opening Super Four game
-
-[原文] Wigan Warriors kick off the new Super Four format of the Women's Super League with a thumping 44-6 win at St Helens.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-league/articles/cx2dplp1gjzo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. LISTEN: Fear, Loathing and Endless Potential: AI4 Conference Takes Stock of Transformative Technologies
+### 1. Vishal Bhardwaj Sets ‘Rashomon’-Style Film on Tarun Tejpal Rape Case After Bombay High Court Conviction (EXCLUSIVE)
 
-[原文] On today’s episode of “Daily Variety” podcast, Variety’s Corbin Bolies reports from Las Vegas where he is covering the AI4 conference with a slew of top leaders and true believers. The excitement arou
+[原文] Indian auteur Vishal Bhardwaj is developing a film based on the Tarun Tejpal rape case, the director confirmed with Variety, hours after the Bombay High Court overturned a Goa sessions court acquittal
 
-📎 [阅读原文](https://variety.com/2026/digital/news/ai4-conference-fear-loathing-daily-variety-podcast-1236829536/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/vishal-bhardwaj-tarun-tejpal-film-rashomon-1236829746/) — *Variety*
 
-### 2. ‘Michael 2’ Eyes Filming Start ‘Towards the End of this Year’ or Early 2027 as Lionsgate Teases Release Date
+### 2. Ricky Gervais’ Netflix Animated Comedy ‘Alley Cats’ Is Surprisingly Bittersweet: TV Review
 
-[原文] Lionsgate is working on the sequel to “Michael” and hopes to start rolling the cameras soon on the second biopic about Michael Jackson. The studio hopes to begin production in late 2026 or early 2027,
+[原文] To kick off the third episode of the Netflix animated comedy “Alley Cats,” protagonist Gus — an overweight orange tabby voiced by writer, creator and frequent director Ricky Gervais (think Garfield wi
 
-📎 [阅读原文](https://variety.com/2026/film/news/michael-2-filming-start-release-date-1236829530/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/reviews/alley-cats-review-ricky-gervais-netflix-1236829439/) — *Variety*
 
-### 3. After U.K. Approval of Paramount-WBD Deal, European Media Leaders Rally Behind David Ellison: ‘The Industry Will Be Stronger’
+### 3. ‘The Last House’ Review: Wagner Moura and Greta Lee Bring Conviction to a Suitably Stifling Stay-at-Home Thriller
 
-[原文] The U.K.’s decision to clear Paramount Skydance’s $111 ⁠billion proposed acquisition of Warner Bros. Discovery has been broadly welcomed by European industry players. U.K. exhibitors, media executives
+[原文] A decade or so ago, the premise of apocalyptic thriller &#8220;The Last House&#8221; might have sounded a little more out there than it does now: A middle-class Seattle family wakes up one morning to 
 
-📎 [阅读原文](https://variety.com/2026/film/global/uk-approval-paramount-wbd-european-leaders-david-ellison-1236829488/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/reviews/the-last-house-review-1236828947/) — *Variety*
 
-### 4. ‘Michael’ Boosts Lionsgate Quarterly Results as Studio Narrows Loss to $29 Million
+### 4. ‘La Koreana,’ a Banner New Talent Title From Spain, Brought to Market at Locarno by Producers Lazona Zinema and Estibaliz Urresola’s Sirimiri (EXCLUSIVE)
 
-[原文] Shamone! Record-breaking biopic &#8220;Michael&#8221; helped Lionsgate&#8217;s movie division turn in a profit of $105 million &#8212; its best-ever result for a June quarter. Lionsgate&#8217;s Motion
+[原文] Sirimiri Films, founded by Estibaliz Urresola, director of Berlinale winner “20,000 Species of Bees,” is teaming with Lazona Zinema, the Basque division of Lazona (“Spanish Affair,” “Gigantes,” “No Re
 
-📎 [阅读原文](https://variety.com/2026/film/news/lionsgate-q2-2026-michael-narrows-loss-1236829508/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/la-koreana-lazona-zinema-estebaliz-urresola-1236829726/) — *Variety*
 
-### 5. Peter Katsis, Veteran Manager for Backstreet Boys, Korn, Jane’s Addiction and More, Dies at 69
+### 5. Locarno’s Alliance 4 Development Welcomes Queer Musical, Eco Body Horror and Bruce LaBruce’s Melodrama with Monica Bellucci and Béatrice Dalle
 
-[原文] Peter Katsis, a co-founder of the management companies the Firm and Prospect Park who over the course of a 35-year career managed an unusually wide wide variety of artists including Backstreet Boys, K
+[原文] Alliance 4 Development, Locarno’s co-development platform for film projects from Austria, France, Germany and Switzerland, has presented this year’s projects.&#160; The line-up includes Bruce LaBruce’
 
-📎 [阅读原文](https://variety.com/2026/music/news/peter-katsis-dead-manager-backstreet-boys-korn-janes-addiction-1236829517/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/alliance-4-development-bruce-labruce-monica-bellucci-1236828965/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Sam Neill to Play Role in Sony Pictures' Legend of Zelda Movie, Dichen Lachman and Yvonne Strahovski Also Confirmed
-
-[原文] The late great Sam Neill will reportedly make a posthumous appearance in Sony Pictures’ forthcoming Legend of Zelda film, with Dichen Lachman and Yvonne Strahovski also confirmed to star.
-
-📎 [阅读原文](https://www.ign.com/articles/sam-neill-to-play-role-in-sony-pictures-legend-of-zelda-movie) — *IGN*
-
-### 2. Hideki Kamiya Reveals Spider-Man 2 Scene That Inspired Key Game Sequence in Okami
-
-[原文] Hideki Kamiya revealed that Okami's main planner took inspiration from a scene in Sam Raimi’s Spider-Man 2 movie to shape one particular moment in the highly-acclaimed 2006 game.
-
-📎 [阅读原文](https://www.ign.com/articles/hideki-kamiya-reveals-spider-man-2-scene-that-inspired-key-game-sequence-in-okami) — *IGN*
-
-### 3. The Legend of Zelda Movie Casts Uli Latukefu as Ganondorf
-
-[原文] The Legend of Zelda movie has revealed who will be playing Ganondorf.
-
-📎 [阅读原文](https://www.ign.com/articles/the-legend-of-zelda-movie-casts-uli-latukefu-as-ganondorf) — *IGN*
-
-### 4. We Build LEGO The Mandalorian's N-1 Starfighter, A Celebration of Star Wars Ship Design
-
-[原文] We put together the big and gorgeous LEGO set based on The Mandalorian's N-1 Starfighter, with many thoughts about the series and what this ship means along the way.
-
-📎 [阅读原文](https://www.ign.com/articles/we-build-lego-the-mandalorians-n-1-starfighter-75442) — *IGN*
-
-### 5. Sony Is Forcing PSSR 2.0 in Latest PS5 Pro Beta
+### 1. Will Wight's Cradle Series Is a Must-Read for Anime Fans Who Just Discovered Their Love of LitRPG
 
 暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/sony-is-forcing-pssr-20-in-latest-ps5-pro-beta) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/will-wight-cradle-series-litrpg-book-recommendation) — *IGN*
+
+### 2. Layoffs Hit Staff at Crossfire Developer That’s No Moon
+
+[原文] In yet another sweep of layoffs within the gaming space, Crossfire developer That’s No Moon has axed an as-yet undetermined number of staff.
+
+📎 [阅读原文](https://www.ign.com/articles/layoffs-hit-crossfire-developer-thats-no-moon) — *IGN*
+
+### 3. The First Fourth Wing Graphic Novel Is Up for Preorder on Amazon, Out April 2027
+
+暂无摘要。
+
+📎 [阅读原文](https://www.ign.com/articles/the-first-fourth-wing-graphic-novel-is-up-for-preorder-on-amazon-out-april-2027) — *IGN*
+
+### 4. American Squid Game Spinoff Series Reportedly Canceled at Netflix
+
+[原文] Netflix has reportedly chosen to shelve David Fincher’s American Squid Game spinoff series, according to sources close to the project.
+
+📎 [阅读原文](https://www.ign.com/articles/american-squid-game-spinoff-series-reportedly-canceled-at-netflix) — *IGN*
+
+### 5. Quake Gets Free New Campaign Co-Developed by MachineGames for Game's 30th Anniversary
+
+[原文] The 2021 remaster of Quake has gotten a new 19-level campaign co-developed by MachineGames in honor of the FPS' 30th anniversary.
+
+📎 [阅读原文](https://www.ign.com/articles/quake-gets-free-new-campaign-co-developed-by-machinegames-for-games-30th-anniversary) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post Entry-Level Merc GT53 Trades Triple-Motor Power for Big Range: TD
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. In Florida, Being Poor Isn’t Enough to Qualify for the Best Water Aid
+### 1. Wildfire Smoke Is Now a Bigger Prenatal Threat Than Human Sources of Air Pollution
+
+[原文] In 1965, a presidential advisory panel issued a report warning that pervasive chemical and carbon pollution was harming environmental health and changing the climate. Five years later, President Richa
+
+📎 [阅读原文](https://insideclimatenews.org/news/07082026/wildfire-smoke-pollution-prenatal-threat/) — *Inside Climate News*
+
+### 2. In Florida, Being Poor Isn’t Enough to Qualify for the Best Water Aid
 
 [原文] Belle Glade is one of the poorest cities in Florida, a majority-Black farmworker community on the southern rim of Lake Okeechobee, where clean and reliable drinking water has never been a given. But w
 
 📎 [阅读原文](https://insideclimatenews.org/news/06082026/florida-federal-water-aid-excludes-bigger-low-income-communities/) — *Inside Climate News*
 
-### 2. As Solar and Batteries Dominate in Texas, Republican Lawmakers Consider Natural Gas Minimums
+### 3. As Solar and Batteries Dominate in Texas, Republican Lawmakers Consider Natural Gas Minimums
 
 [原文] As new electricity generation skews toward solar and battery storage in Texas, Republican state senators are questioning whether it’s time to impose minimum standards for building gas plants and move 
 
 📎 [阅读原文](https://insideclimatenews.org/news/06082026/texas-republicans-consider-natural-gas-minimums/) — *Inside Climate News*
 
-### 3. Philadelphia Juggles Short-Term Budget Plans and Long-Term Climate Goals
+### 4. Philadelphia Juggles Short-Term Budget Plans and Long-Term Climate Goals
 
 [原文] PHILADELPHIA—This summer has brought the full force of a changing climate, with wildfire smoke, extreme heat, flash flooding and severe storms continuing a trend of increasingly extreme weather affect
 
 📎 [阅读原文](https://insideclimatenews.org/news/06082026/philadelphia-budget-climate-efforts/) — *Inside Climate News*
 
-### 4. FEMA Downsizing Exacerbates Longstanding Problems, Imperils Disaster Response, Federal Watchdog Says
+### 5. FEMA Downsizing Exacerbates Longstanding Problems, Imperils Disaster Response, Federal Watchdog Says
 
 [原文] A widespread downsizing of the Federal Emergency Management Agency during the second Trump administration has exacerbated longstanding workforce challenges there and imperiled its response to disaster
 
 📎 [阅读原文](https://insideclimatenews.org/news/05082026/fema-downsizing-imperils-disaster-response/) — *Inside Climate News*
-
-### 5. As More New Yorkers Use the City’s Waterways for Recreation, Officials Fight Sewage Notification Order
-
-[原文] The bullhorn blared as three cardboard kayaks lurched into the Hudson River from Pier 84 in Manhattan. Their occupants paddled across choppy waters toward a bright yellow buoy about 20 meters offshore
-
-📎 [阅读原文](https://insideclimatenews.org/news/05082026/new-york-city-fights-sewage-discharge-notifications/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post Entry-Level Merc GT53 Trades Triple-Motor Power for Big Range: TD
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Why Is Everyone Convinced Tate McRae Is MAGA?
+### 1. Watch Role Model Debut Reflective Song ‘Harmony’ on ‘Fallon’
+
+[原文] The musician's third album, Chuck Timely &#38; the Hourglass, is out today
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/role-model-harmony-performance-fallon-1235604970/) — *Rolling Stone*
+
+### 2. Hear Madonna and Kylie Minogue Team Up for ‘Love Sensation (Afterhours Mix)’
+
+[原文] The pop duo teased the track during a live performance in Amsterdam earlier this month
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/madonna-kylie-minogue-love-sensation-afterhours-mix-1235604947/) — *Rolling Stone*
+
+### 3. Hear Sierra Ferrell’s Psychedelic New Song, ‘Trying to Love You’
+
+[原文] On her first new single of 2026, the Americana powerhouse hops effortlessly to unexpected notes and corners
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/sierra-ferrell-new-song-trying-to-love-you-1235604841/) — *Rolling Stone*
+
+### 4. Joan Jett Cancels Upcoming Shows After Surgery From a Fractured Vertebra
+
+[原文] The "Bad Reputation" singer is taking time off the road to "begin the necessary healing process"
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/joan-jett-cancels-september-shows-surgery-1235604864/) — *Rolling Stone*
+
+### 5. Why Is Everyone Convinced Tate McRae Is MAGA?
 
 [原文] A country music collaboration and rumored relationship sparked criticism around the Canadian pop star's politics. Here's what she's said so far
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/why-everyone-is-convinced-tate-mcrae-is-maga-1235604671/) — *Rolling Stone*
-
-### 2. Peter Katsis, Smashing Pumpkins and Backstreet Boys Manager, Dead at 69
-
-[原文] Katsis also worked with Jane's Addiction, Korn, Audioslave, Ice Cube, and more top artists
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/peter-katsis-smashing-pumpkins-backstreet-boys-manager-dead-obituary-1235604814/) — *Rolling Stone*
-
-### 3. Grammy-Nominated Opera Singer’s Son Pleads Not Guilty to Dad’s Alleged Murder
-
-[原文] Jubilant Sykes was found with fatal stab wounds inside his Santa Monica, California, home after a 911 call last December
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/opera-singer-jubilant-sykes-son-pleads-not-guilty-murder-1235604745/) — *Rolling Stone*
-
-### 4. Green Day Launches 24/7 YouTube Channel With Videos, Live Performances, and Unseen Archival Footage
-
-[原文] Green Day TV will also feature Tre Cool-hosted Transmission Unknown variety show, “unearthed VHS tapes, deep cuts, and probably some stuff that should’ve stayed in the archives”
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/green-day-24-7-youtube-music-videos-live-performances-1235604775/) — *Rolling Stone*
-
-### 5. Ne-Yo Sued With Claims His Dog ‘Viciously Attacked’ Woman Delivering Package
-
-[原文] The woman alleges the dog bit her on the leg without provocation
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/ne-yo-sued-dog-attack-georgia-chris-brown-1235604752/) — *Rolling Stone*
 
 ---
 
