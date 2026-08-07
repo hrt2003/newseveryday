@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月07日** | 生成时间: 2026-08-07 15:21
+**2026年08月07日** | 生成时间: 2026-08-07 21:11
 
 ---
 
@@ -22,17 +22,17 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Trump again tries to limit US birthright citizenship with new executive orders
+### 2. Saudi Arabia, Turkey and Pakistan sign defence pact
+
+[原文] Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. Trump again tries to limit US birthright citizenship with new executive orders
 
 [原文] The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 3. Uefa says boycott may still go ahead as FA withdraws Infantino support
-
-[原文] Fifa's backing of president Gianni Infantino at a meeting on Wednesday "changes nothing", says European governing body Uefa.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 4. Australian aviation crew carries out daring midwinter Antarctica rescue
 
@@ -40,11 +40,11 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Trump denies US weapons shortage and says information 'leakers' being 'hunted down'
+### 5. US strikes $1.2bn deal to pay German firm to halt offshore wind projects
 
-[原文] While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons.
+[原文] The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Oil rises as Iran's draft plan sees U.S. and Israel banned from Strait of Hormuz
+### 1. U.S. economy unexpectedly lost 23,000 jobs in July
 
-[原文] News of Iran's restrictive draft plan for the Strait of Hormuz sent oil prices higher, renewing concerns over supply disruptions.
+[原文] Nonfarm payrolls were projected to increase by 83,000 in July while the unemployment rate held steady at 4.2%, according to the Dow Jones consensus.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/07/oil-rises-supply-fears-iran-draft-plan-strait-hormuz.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/07/jobs-report-july-2026.html) — *CNBC*
 
-### 2. Iran's chief negotiator accuses Trump of 'theater diplomacy' with Hormuz traffic near standstill
+### 2. Solar stocks shine after Trump extends China tariffs to polysilicon products
+
+[原文] Solar stocks rose in premarket trading President Donald Trump announced fresh import restrictions on polysilicon products.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/07/polysilicon-solar-tariffs-donald-trump-us-china-trade-war-energy-semiconductors.html) — *CNBC*
+
+### 3. Iran's chief negotiator accuses Trump of 'theater diplomacy' with Hormuz traffic near standstill
 
 [原文] The conflict is broadening across the region, with Gulf energy infrastructure and key shipping chokepoints under renewed threat.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/07/us-iran-war-trump-hormuz-diplomacy-oil-.html) — *CNBC*
 
-### 3. Meta ordered to pay $567 million into abatement fund as remedy to child harms case in New Mexico
+### 4. Companies scoff at airlines' cheapest business class tickets. 'The real value is flexibility'
 
-[原文] A judge in New Mexico ordered Meta to pay $567 million into an abatement fund after a jury ruled the company violated the state’s unfair practices act.
+[原文] Some companies plan to shun the cheapest business- and premium- economy fares from their executives.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/06/meta-to-pay-into-567-million-fund-after-child-harms-case-new-mexico.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/07/business-business-premium-fares.html) — *CNBC*
 
-### 4. A 'weaponized' yen: How the U.S.-Japan intervention may reshape global currency markets
+### 5. GAO finds Elon Musk's DOGE inflated claims of $110 billion in savings for federal government
 
-[原文] The unprecedented U.S.-Japan intervention to support the yen may end up shaping market behavior.
+[原文] The nonpartisan watchdog found Elon Musk's DOGE didn't cut as much federal spending as it claimed and that it fell far short of its promised $2 trillion.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/07/japan-us-yen-intervention-global-currency-markets.html) — *CNBC*
-
-### 5. China's exports growth beats estimates in July, as AI-driven shipments surge
-
-[原文] China's exports rose more than expected in July, as global demand for high-tech components continues to absorb the country's manufactured goods.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/07/china-july-trade-exports-imports-surplus-imbalance-tariffs-.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/06/doge-elon-musk-gao-government-cost-cuts.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400
+### 1. The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know
+
+[原文] TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/07/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/) — *TechCrunch*
+
+### 2. New Mexico court orders Meta to pay additional $567M in child safety case
+
+[原文] Meta's total fine has raked up to $942 million in this case
+
+📎 [阅读原文](https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/) — *TechCrunch*
+
+### 3. OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400
 
 [原文] Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/) — *TechCrunch*
 
-### 2. Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands
+### 4. Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands
 
 [原文] Not everyone needs a keynote slot to make noise at TechCrunch Disrupt 2026. Sometimes the best way to meet investors, customers, and partners is by exhibiting directly on the Expo Hall floor at San Fr
 
 📎 [阅读原文](https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/) — *TechCrunch*
 
-### 3. Vogue just gave another nod of approval to the tech world
+### 5. Vogue just gave another nod of approval to the tech world
 
 [原文] Vogue World is coming to San Francisco next year — perhaps another indication that tech bros are now part of the fashion zeitgeist.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/06/vogue-just-gave-another-nod-of-approval-to-the-tech-world/) — *TechCrunch*
-
-### 4. Get up to $400 off your TechCrunch Disrupt 2026 pass until tomorrow
-
-[原文] Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/06/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/) — *TechCrunch*
-
-### 5. Google says hackers are calling financial firm employees to hack and extort victims
-
-[原文] Groups of hackers are breaking into large U.S. financial firms to steal sensitive data and extort victims, Google’s security researchers report.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/06/google-says-hackers-are-calling-financial-firm-employees-to-hack-and-extort-victims/) — *TechCrunch*
 
 ---
 
@@ -136,29 +136,29 @@
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260806051943.htm) — *Science Daily*
 
-### 2. Major study challenges long-held fears about acetaminophen and ibuprofen use in babies
+### 2. Scientists tracked 12 people in Antarctica for 10 months—what happened could shape future Mars missions
 
-[原文] A landmark study of nearly 4,000 babies found that acetaminophen and ibuprofen were equally safe during infancy. Neither medicine was linked to eczema or bronchiolitis, and no serious side effects wer
+[原文] A ten-month Antarctic experiment found that astronauts may struggle not only with loneliness but also with spending too much time around the same people. Frequent contact was linked to greater tension
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260805082510.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260806050722.htm) — *Science Daily*
 
-### 3. A star’s violent death exposed a hidden supermassive black hole
+### 3. Scientists find unexpected life on Ötzi the Iceman’s 5,300-year-old body
 
-[原文] A supermassive black hole has been found lurking about 30,000 light-years from the center of its galaxy—the first dormant black hole detected so far from a galactic core. It revealed itself only after
+[原文] More than 5,000 years after his death, Ötzi the Iceman is still hosting a remarkable mix of ancient and modern microorganisms. Researchers separated microbes that lived in his body during his lifetime
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260805082457.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260806050721.htm) — *Science Daily*
 
-### 4. Forget the sperm race: Fertilization may depend on teamwork
+### 4. Vitamin C may fight cancer — but not the way scientists once thought
 
-[原文] Millions of sperm do not always compete alone—some species send them into action as coordinated teams. A sweeping evolutionary study found that this cooperation is widespread among arthropods and has 
+[原文] Linus Pauling was widely mocked for claiming that vitamin C could fight cancer, especially after trials using vitamin C pills showed no benefit. Researchers now know that intravenous vitamin C reaches
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260805082455.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260806050717.htm) — *Science Daily*
 
-### 5. The AMOC stayed strong even as a major ocean “lifeline” nearly shut down
+### 5. Earth’s molten core suddenly reversed direction — and scientists don’t know why
 
-[原文] Ancient seafloor sediments have revealed a surprising twist in how the Atlantic’s massive circulation system works. During a cold period about 3.4 million years ago, the flow of warm, salty water from
+[原文] Earth’s molten iron core unexpectedly reversed direction beneath the Pacific, revealing a dramatic change in the hidden engine that creates our planet’s magnetic field. Satellite data suggest the surg
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260805082454.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260806050713.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Who will leave Chelsea? How Blues could cut 41-man squad
+### 1. Man City reject Barcelona's Rodri bid & in talks for Bouaddi
 
-[原文] With 25 days until the transfer window closes, Chelsea will be working hard to cut their 41-man senior squad. But who could be heading out?
+[原文] Manchester City reject £38m offer from Barcelona for Rodri and remain in talks for Lille midfielder Ayyoub Bouaddi.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c0jle24ln68o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/articles/clyj1rgdnpxo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Old habits haunt Rangers in early McInnes tenure
+### 2. Emotional Guimaraes wanted to join Arsenal - Wilson
 
-[原文] Derek McInnes says Rangers were "guilty of beating ourselves" as his side conceded cheap goals in the Europa League first-leg defeat to Jagiellonia Bialystok.
+[原文] Newcastle United sporting director Ross Wilson says the club did not plan to sell Bruno Guimaraes, but their "very emotional" captain wanted to join Arsenal.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c0kmd62el06o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c0m7knennd3o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. 39 moves across five countries - football's ultimate journeyman
+### 3. Norway call on Infantino to resign but two countries back Fifa president
 
-[原文] As he prepares to manage in the FA Cup for the first time, Zeph Thomas tells BBC Sport about his extraordinary career path spanning 39 moves in 18 years.
+[原文] The Norwegian Football Federation calls for Fifa president Gianni Infantino to resign after he attempted to sell off stakes in the World Cup.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cdx7wq2r21yo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c4g6l3gnv0go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Guimaraes future decided before I arrived - Jaissle
+### 4. England forward Toney charged with assault
 
-[原文] Newcastle United manager Matthias Jaissle says a decision about Bruno Guimaraes' future was "already made" by the time he first met the club's departing captain.
+[原文] Ivan Toney, who was part of England's World Cup squad this summer, is charged with assault following an incident last December.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c62el1507p1o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cpw9nz7qwyqo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Uefa says boycott may still go ahead as FA withdraws Infantino support
+### 5. Assistant referee Massey-Ellis retires to take FA role
 
-[原文] Fifa's backing of president Gianni Infantino at a meeting on Wednesday "changes nothing", says European governing body Uefa.
+[原文] Assistant referee Sian Massey‑Ellis announces her retirement from officiating to take up a position with the Football Association.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/crl7ed7gerzo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Vishal Bhardwaj Sets ‘Rashomon’-Style Film on Tarun Tejpal Rape Case After Bombay High Court Conviction (EXCLUSIVE)
+### 1. William Orbit, Grammy-Winning Producer for Madonna and Blur, Dies at 69
 
-[原文] Indian auteur Vishal Bhardwaj is developing a film based on the Tarun Tejpal rape case, the director confirmed with Variety, hours after the Bombay High Court overturned a Goa sessions court acquittal
+[原文] William Orbit, the Grammy-winning musician and producer best known for his work with Madonna, All Saints and Blur, died on July 23. He was 69. Orbit&#8217;s family confirmed his death in a statement p
 
-📎 [阅读原文](https://variety.com/2026/film/news/vishal-bhardwaj-tarun-tejpal-film-rashomon-1236829746/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/william-orbit-dead-producer-madonna-blur-1236829434/) — *Variety*
 
-### 2. Ricky Gervais’ Netflix Animated Comedy ‘Alley Cats’ Is Surprisingly Bittersweet: TV Review
+### 2. Lionsgate CEO Wants to See Paramount-Warner Bros. Merger Close Soon: ‘Uncertainty and Delay’ Are ‘Not Good for Anybody’
 
-[原文] To kick off the third episode of the Netflix animated comedy “Alley Cats,” protagonist Gus — an overweight orange tabby voiced by writer, creator and frequent director Ricky Gervais (think Garfield wi
+[原文] Lionsgate CEO Jon Feltheimer voiced support for the stalled Paramount-Warner Bros. Discovery merger, which is headed to an antitrust trial to begin in March 2027. While Lionsgate competes with Paramou
 
-📎 [阅读原文](https://variety.com/2026/tv/reviews/alley-cats-review-ricky-gervais-netflix-1236829439/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/lionsgate-ceo-supports-paramount-warner-bros-merger-1236829897/) — *Variety*
 
-### 3. ‘The Last House’ Review: Wagner Moura and Greta Lee Bring Conviction to a Suitably Stifling Stay-at-Home Thriller
+### 3. ‘GTA 6’ Pre-Orders Reach ‘Unprecedented and Astonishing’ Level in June Quarter, Take-Two Interactive CEO Says
 
-[原文] A decade or so ago, the premise of apocalyptic thriller &#8220;The Last House&#8221; might have sounded a little more out there than it does now: A middle-class Seattle family wakes up one morning to 
+[原文] Video game publisher Take-Two Interactive drew $1.39 billion in sales from April 1-June 30, the quarter during which it opened presales for &#8220;Grand Theft Auto 6,&#8221; even as the company&#8217;
 
-📎 [阅读原文](https://variety.com/2026/film/reviews/the-last-house-review-1236828947/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/gaming/news/gta-6-preorder-sales-take-two-earnings-1236829396/) — *Variety*
 
-### 4. ‘La Koreana,’ a Banner New Talent Title From Spain, Brought to Market at Locarno by Producers Lazona Zinema and Estibaliz Urresola’s Sirimiri (EXCLUSIVE)
+### 4. ‘The Blue Trail’ Director Gabriel Mascaro and Top Brazilian Producer Paula Cosenza Launch Trema, Set First Slate (EXCLUSIVE)
 
-[原文] Sirimiri Films, founded by Estibaliz Urresola, director of Berlinale winner “20,000 Species of Bees,” is teaming with Lazona Zinema, the Basque division of Lazona (“Spanish Affair,” “Gigantes,” “No Re
+[原文] Gabriel Mascaro, director of the 2025 Berlinale Grand Jury Prize winner “The Blue Trail,” and top Brazilian producer Paula Cosenza (“Memory House”) have teamed to create Trema, launched as a Northeast
 
-📎 [阅读原文](https://variety.com/2026/film/global/la-koreana-lazona-zinema-estebaliz-urresola-1236829726/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/gabriel-mascaro-paula-cosenza-trema-1236829859/) — *Variety*
 
-### 5. Locarno’s Alliance 4 Development Welcomes Queer Musical, Eco Body Horror and Bruce LaBruce’s Melodrama with Monica Bellucci and Béatrice Dalle
+### 5. Starz Sees Revenue Drop 4% in Q2 but Raises Profit Outlook as Streaming Stabilizes, Takes $147 Million Charge for Termination of Universal Output Deal
 
-[原文] Alliance 4 Development, Locarno’s co-development platform for film projects from Austria, France, Germany and Switzerland, has presented this year’s projects.&#160; The line-up includes Bruce LaBruce’
+[原文] Starz saw total revenue slide again in the second quarter of 2026 &#8212; but the media company reported its first year-over-year growth in streaming revenue in 18 months. Company execs believe the bu
 
-📎 [阅读原文](https://variety.com/2026/film/global/alliance-4-development-bruce-labruce-monica-bellucci-1236828965/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/starz-q2-2026-earnings-streaming-universal-deal-termination-1236829362/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Will Wight's Cradle Series Is a Must-Read for Anime Fans Who Just Discovered Their Love of LitRPG
+### 1. Amazon Knocks $10 off Physical Nintendo Switch Sports Resort Preorders
+
+[原文] Amazon has knocked $10 off Nintendo Switch Sports Resort preorders for Switch 2 again, matching digital pricing ahead of its October launch this year.
+
+📎 [阅读原文](https://www.ign.com/articles/nintendo-switch-sports-resort-preorder-deal-amazon) — *IGN*
+
+### 2. LEGO Harry Potter Celebrates 25 Years With Ministry of Magic Set, and The First-Ever Minifigure of a Specific Character
+
+[原文] LEGO will celebrate a quarter century of its Harry Potter range with the launch of a new Ministry of Magic set, featuring the first-ever Minifigure of Arabella Figg.
+
+📎 [阅读原文](https://www.ign.com/articles/lego-harry-potter-celebrates-25-years-with-ministry-of-magic-set-and-the-first-ever-minifigure-of-a-specific-character) — *IGN*
+
+### 3. Brainrot Royale Brings Some Of The Internet’s Wildest Characters To PUBG MOBILE’s World of Wonder
 
 暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/will-wight-cradle-series-litrpg-book-recommendation) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/brainrot-royale-brings-some-of-the-internets-wildest-characters-to-pubg-mobiles-world-of-wonder) — *IGN*
 
-### 2. Layoffs Hit Staff at Crossfire Developer That’s No Moon
+### 4. Rockstar Owner Take-Two Confirms GTA 6 Release Date Still on Track, Says 'GTA 6: An Extended Look' Will Help Grow 'Consumers' Passion and Anticipation'
 
-[原文] In yet another sweep of layoffs within the gaming space, Crossfire developer That’s No Moon has axed an as-yet undetermined number of staff.
+[原文] Rockstar owner Take-Two has confirmed the current November 19 GTA 6 release date is still on track, and insisted the upcoming Grand Theft Auto VI: An Extended Look will help grow “consumers’ passion a
 
-📎 [阅读原文](https://www.ign.com/articles/layoffs-hit-crossfire-developer-thats-no-moon) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/rockstar-owner-take-two-confirms-gta-6-release-date-still-on-track-says-gta-6-an-extended-look-will-help-grow-consumers-passion-and-anticipation) — *IGN*
 
-### 3. The First Fourth Wing Graphic Novel Is Up for Preorder on Amazon, Out April 2027
+### 5. Nintendo Says Physical Games Still Account for 38.5% of Its Software Sales, Following Sony's Decision to Kill PS5 Discs
 
-暂无摘要。
+[原文] Boxed games still account for 38.5% of Nintendo's software sales, the Mario maker has said, suggesting it has no desire to kill physical media anytime soon.
 
-📎 [阅读原文](https://www.ign.com/articles/the-first-fourth-wing-graphic-novel-is-up-for-preorder-on-amazon-out-april-2027) — *IGN*
-
-### 4. American Squid Game Spinoff Series Reportedly Canceled at Netflix
-
-[原文] Netflix has reportedly chosen to shelve David Fincher’s American Squid Game spinoff series, according to sources close to the project.
-
-📎 [阅读原文](https://www.ign.com/articles/american-squid-game-spinoff-series-reportedly-canceled-at-netflix) — *IGN*
-
-### 5. Quake Gets Free New Campaign Co-Developed by MachineGames for Game's 30th Anniversary
-
-[原文] The 2021 remaster of Quake has gotten a new 19-level campaign co-developed by MachineGames in honor of the FPS' 30th anniversary.
-
-📎 [阅读原文](https://www.ign.com/articles/quake-gets-free-new-campaign-co-developed-by-machinegames-for-games-30th-anniversary) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/nintendo-says-physical-games-still-account-for-385-of-its-software-sales-following-sonys-decision-to-kill-ps5-discs) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. An Obscure Physics Sim Is Reeling in Almost as Many Players as Forza Horizon 6 on Steam
+### 1. Alert: Cool Shirts Are Back with The Drive’s New Blipshift Collection
+
+[原文] Need new threads? Our latest merch drop revives more of Blipshift's greatest all-time designs, plus a new throwback shirt with The Drive's original logo.
+The post Alert: Cool Shirts Are Back with The 
+
+📎 [阅读原文](https://www.thedrive.com/news/alert-cool-shirts-are-back-with-the-drives-new-blipshift-collection) — *The Drive*
+
+### 2. An Obscure Physics Sim Is Reeling in Almost as Many Players as Forza Horizon 6 on Steam
 
 [原文] After a hot start, FH6's Steam player count has crashed to a tenth of its peak, while physics sandbox BeamNG is catching quick. It's a sign of the times.
 The post An Obscure Physics Sim Is Reeling in 
 
 📎 [阅读原文](https://www.thedrive.com/news/an-obscure-physics-sim-is-reeling-in-almost-as-many-players-as-forza-horizon-6-on-steam) — *The Drive*
 
-### 2. SRT’s New Quick-Spool Turbo Gadget Makes the Hurricane I6 Launch Like a V8
+### 3. SRT’s New Quick-Spool Turbo Gadget Makes the Hurricane I6 Launch Like a V8
 
 [原文] The goal is to eradicate lag on twin-turbo Hurricane inline-six engines.
 The post SRT&#8217;s New Quick-Spool Turbo Gadget Makes the Hurricane I6 Launch Like a V8 appeared first on The Drive.
 
 📎 [阅读原文](https://www.thedrive.com/news/srts-new-quick-spool-turbo-gadget-makes-the-hurricane-i6-launch-like-a-v8) — *The Drive*
 
-### 3. This Ford Dealer Knows How to Sell Trucks: Make Them Look Old
+### 4. This Ford Dealer Knows How to Sell Trucks: Make Them Look Old
 
 [原文] Making brand-new pickup trucks look old is nothing new, but every now and then we come across a prime example of a retro-fied Ford. This is a good one.
 The post This Ford Dealer Knows How to Sell Truc
 
 📎 [阅读原文](https://www.thedrive.com/news/this-ford-dealer-knows-how-to-sell-trucks-make-them-look-old) — *The Drive*
 
-### 4. 2026 Ferrari 296 Speciale Aperta Review: The Red-Blooded Supercar Enzo Would Be Proud of
+### 5. 2026 Ferrari 296 Speciale Aperta Review: The Red-Blooded Supercar Enzo Would Be Proud of
 
 [原文] Following in the footsteps of the magical 360 Challenge Stradale, 430 Scuderia, 458 Speciale, and 488 Pista—the Ferrari 296 Speciale honors its name with spicy looks and mind-bending performance.
 The 
 
 📎 [阅读原文](https://www.thedrive.com/car-reviews/2026-ferrari-296-speciale-aperta-review) — *The Drive*
-
-### 5. Entry-Level Merc GT53 Trades Triple-Motor Power for Big Range: TDS
-
-[原文] The new Mercedes-AMG GT53 doesn't have the 1,153 hp of the flagship version, but it does have a projected 500 miles of range.
-The post Entry-Level Merc GT53 Trades Triple-Motor Power for Big Range: TD
-
-📎 [阅读原文](https://www.thedrive.com/news/entry-level-merc-gt53-trades-triple-motor-power-for-big-range-tds) — *The Drive*
 
 ---
 
@@ -363,35 +363,35 @@ The post Entry-Level Merc GT53 Trades Triple-Motor Power for Big Range: TD
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Wildfire Smoke Is Now a Bigger Prenatal Threat Than Human Sources of Air Pollution
+### 1. Trump Promotes Commercial Fishing in Protected Pacific Marine National Monuments
+
+[原文] President Donald Trump is seeking to reverse significant ocean protections by allowing commercial fishing in three Pacific marine national monuments President George W. Bush established in the early 2
+
+📎 [阅读原文](https://insideclimatenews.org/news/07082026/commercial-fishing-in-protected-pacific-marine-national-monuments/) — *Inside Climate News*
+
+### 2. Wildfire Smoke Is Now a Bigger Prenatal Threat Than Human Sources of Air Pollution
 
 [原文] In 1965, a presidential advisory panel issued a report warning that pervasive chemical and carbon pollution was harming environmental health and changing the climate. Five years later, President Richa
 
 📎 [阅读原文](https://insideclimatenews.org/news/07082026/wildfire-smoke-pollution-prenatal-threat/) — *Inside Climate News*
 
-### 2. In Florida, Being Poor Isn’t Enough to Qualify for the Best Water Aid
+### 3. In Florida, Being Poor Isn’t Enough to Qualify for the Best Water Aid
 
 [原文] Belle Glade is one of the poorest cities in Florida, a majority-Black farmworker community on the southern rim of Lake Okeechobee, where clean and reliable drinking water has never been a given. But w
 
 📎 [阅读原文](https://insideclimatenews.org/news/06082026/florida-federal-water-aid-excludes-bigger-low-income-communities/) — *Inside Climate News*
 
-### 3. As Solar and Batteries Dominate in Texas, Republican Lawmakers Consider Natural Gas Minimums
+### 4. As Solar and Batteries Dominate in Texas, Republican Lawmakers Consider Natural Gas Minimums
 
 [原文] As new electricity generation skews toward solar and battery storage in Texas, Republican state senators are questioning whether it’s time to impose minimum standards for building gas plants and move 
 
 📎 [阅读原文](https://insideclimatenews.org/news/06082026/texas-republicans-consider-natural-gas-minimums/) — *Inside Climate News*
 
-### 4. Philadelphia Juggles Short-Term Budget Plans and Long-Term Climate Goals
+### 5. Philadelphia Juggles Short-Term Budget Plans and Long-Term Climate Goals
 
 [原文] PHILADELPHIA—This summer has brought the full force of a changing climate, with wildfire smoke, extreme heat, flash flooding and severe storms continuing a trend of increasingly extreme weather affect
 
 📎 [阅读原文](https://insideclimatenews.org/news/06082026/philadelphia-budget-climate-efforts/) — *Inside Climate News*
-
-### 5. FEMA Downsizing Exacerbates Longstanding Problems, Imperils Disaster Response, Federal Watchdog Says
-
-[原文] A widespread downsizing of the Federal Emergency Management Agency during the second Trump administration has exacerbated longstanding workforce challenges there and imperiled its response to disaster
-
-📎 [阅读原文](https://insideclimatenews.org/news/05082026/fema-downsizing-imperils-disaster-response/) — *Inside Climate News*
 
 ---
 
@@ -401,29 +401,29 @@ The post Entry-Level Merc GT53 Trades Triple-Motor Power for Big Range: TD
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Library That Sparked a STEM Revolution for Our Students
-
-[原文] To truly close the digital equity gap, educators must become architects of student possibility.
-
-📎 [阅读原文](https://edsurge.com/news/the-library-that-sparked-a-stem-revolution-for-our-students) — *EdSurge*
-
-### 2. What Happens When AI Policy Meets a Real Classroom?
+### 1. What Happens When AI Policy Meets a Real Classroom?
 
 [原文] One national study, one local leader, and a reality check on how schools are really regulating AI.
 
 📎 [阅读原文](https://edsurge.com/news/what-happens-when-ai-policy-meets-a-real-classroom) — *EdSurge*
 
-### 3. Math Terrified Me When I Was a Student. That Made Me a Better Teacher.
+### 2. The Library That Sparked a STEM Revolution for Our Students
 
-[原文] A novice educator turns her "weakness" into a teaching strength.
+[原文] To truly close the digital equity gap, educators must become architects of student possibility.
 
-📎 [阅读原文](https://edsurge.com/news/math-terrified-me-when-i-was-a-student-that-made-me-a-better-teacher) — *EdSurge*
+📎 [阅读原文](https://edsurge.com/news/the-library-that-sparked-a-stem-revolution-for-our-students) — *EdSurge*
 
-### 4. Teachers Forge Ahead on Integrating AI
+### 3. Teachers Forge Ahead on Integrating AI
 
 [原文] A new report highlights teacher-led adoption, student demand for feedback, and a growing push for tools tailored specifically to the classroom.
 
 📎 [阅读原文](https://edsurge.com/news/teachers-forge-ahead-on-integrating-ai) — *EdSurge*
+
+### 4. Math Terrified Me When I Was a Student. That Made Me a Better Teacher.
+
+[原文] A novice educator turns her "weakness" into a teaching strength.
+
+📎 [阅读原文](https://edsurge.com/news/math-terrified-me-when-i-was-a-student-that-made-me-a-better-teacher) — *EdSurge*
 
 ### 5. High Schools Need a New Model for a New Economy
 
@@ -439,35 +439,35 @@ The post Entry-Level Merc GT53 Trades Triple-Motor Power for Big Range: TD
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Watch Role Model Debut Reflective Song ‘Harmony’ on ‘Fallon’
+### 1. Tyga Says ‘There’s Nothing Wrong ‘ With Using AI to Create His ’80s-Inspired Album ‘$tarface’
+
+[原文] The rapper opened up to VIBE about embracing the new technology, his mom’s passing, and who the new project is really for
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/tyga-says-nothing-wrong-with-using-ai-on-his-new-album-1235604799/) — *Rolling Stone*
+
+### 2. Brandon Flowers Looks Back at the Past on Anthemic Single ‘Tiger’s Blood’
+
+[原文] The Killers frontman will release a new album, Thrasher, later this month
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/brandon-flowers-tigers-blood-single-1235604980/) — *Rolling Stone*
+
+### 3. Watch Role Model Debut Reflective Song ‘Harmony’ on ‘Fallon’
 
 [原文] The musician's third album, Chuck Timely &#38; the Hourglass, is out today
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/role-model-harmony-performance-fallon-1235604970/) — *Rolling Stone*
 
-### 2. Hear Madonna and Kylie Minogue Team Up for ‘Love Sensation (Afterhours Mix)’
+### 4. Hear Madonna and Kylie Minogue Team Up for ‘Love Sensation (Afterhours Mix)’
 
 [原文] The pop duo teased the track during a live performance in Amsterdam earlier this month
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/madonna-kylie-minogue-love-sensation-afterhours-mix-1235604947/) — *Rolling Stone*
 
-### 3. Hear Sierra Ferrell’s Psychedelic New Song, ‘Trying to Love You’
+### 5. Hear Sierra Ferrell’s Psychedelic New Song, ‘Trying to Love You’
 
 [原文] On her first new single of 2026, the Americana powerhouse hops effortlessly to unexpected notes and corners
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/sierra-ferrell-new-song-trying-to-love-you-1235604841/) — *Rolling Stone*
-
-### 4. Joan Jett Cancels Upcoming Shows After Surgery From a Fractured Vertebra
-
-[原文] The "Bad Reputation" singer is taking time off the road to "begin the necessary healing process"
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/joan-jett-cancels-september-shows-surgery-1235604864/) — *Rolling Stone*
-
-### 5. Why Is Everyone Convinced Tate McRae Is MAGA?
-
-[原文] A country music collaboration and rumored relationship sparked criticism around the Canadian pop star's politics. Here's what she's said so far
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/why-everyone-is-convinced-tate-mcrae-is-maga-1235604671/) — *Rolling Stone*
 
 ---
 
