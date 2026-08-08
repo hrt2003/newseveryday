@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月08日** | 生成时间: 2026-08-08 09:52
+**2026年08月08日** | 生成时间: 2026-08-08 14:59
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies
+### 1. Child among three killed in Russian missile attacks near Kyiv
+
+[原文] Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies
 
 [原文] Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Thai PM vows to introduce stricter gun laws after eight killed in shooting
+### 3. Thai PM vows to introduce stricter gun laws after eight killed in shooting
 
 [原文] Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. I was standing in front of my teacher when she was shot, Thai pupil says
+### 4. I was standing in front of my teacher when she was shot, Thai pupil says
 
 [原文] The student says she feared never seeing her mother again after the attack killed five teachers.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Saudi Arabia, Turkey and Pakistan sign defence pact
+### 5. 'I ran because I knew I would die': Russian drones target medics in Ukraine
 
-[原文] Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.
+[原文] Ukrainian emergency workers warn of growing Russian attacks on hospitals and ambulances.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Spanish police arrest 78 people in bust of 'one of largest' smuggling networks
-
-[原文] The group moved synthetic drugs from Spain to Algeria, then used the return journey to smuggle migrants and weapons.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -66,23 +66,23 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/07/here-are-three-key-takeaways-from-the-disappointing-july-jobs-report.html) — *CNBC*
 
-### 3. ‘SaaSpocalypse’ debate intensifies as software stocks swing wildly
+### 3. Inside the startup drone maker powering Ukraine's deep-strike campaign
+
+[原文] Fire Point CEO Iryna Terekh says Ukraine has "learned the hard way" that military leverage is integral to to bringing diplomacy within reach.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/08/ukraine-russia-war-fire-point-drones.html) — *CNBC*
+
+### 4. ‘SaaSpocalypse’ debate intensifies as software stocks swing wildly
 
 [原文] This week saw massive moves in both directions for software stocks, as investors try to figure out which names are best insulated from artificial intelligence.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/07/saaspocalypse-debate-intensifies-as-software-stocks-swing-wildly.html) — *CNBC*
 
-### 4. Cassidy supports Todd Blanche, rescuing Trump's embattled attorney general pick
+### 5. Cassidy supports Todd Blanche, rescuing Trump's embattled attorney general pick
 
 [原文] Attorney General nominee Todd Blanche needs at least 50 votes on the Senate floor to be confirmed after clearing the Senate Judiciary Committee.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/07/blanche-ag-trump-cassidy-senate-confirmation.html) — *CNBC*
-
-### 5. Burger King overtakes Wendy's as the nation's second-largest burger chain
-
-[原文] Burger King is once again the second-largest burger chain in the U.S. by system-wide sales.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/07/burger-king-wendys-hamburger-restaurants.html) — *CNBC*
 
 ---
 
@@ -130,35 +130,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. A drug already used for osteoporosis blocked spinal damage in a new study
+### 1. Sunlight creates quantum entanglement once thought to require lasers
+
+[原文] Scientists have generated quantum entanglement directly from sunlight, potentially offering a lower-energy alternative to the lasers normally used in quantum technology. Their outdoor experiment produ
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260807035133.htm) — *Science Daily*
+
+### 2. A drug already used for osteoporosis blocked spinal damage in a new study
 
 [原文] Genetic changes may set off a chain reaction that causes the spine’s natural shock absorbers to harden and deteriorate. Zebrafish with a faulty collagen-related gene developed mineral buildup and spin
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260806051943.htm) — *Science Daily*
 
-### 2. Scientists tracked 12 people in Antarctica for 10 months—what happened could shape future Mars missions
+### 3. Teen cannabis use linked to slower memory and thinking growth
+
+[原文] Teens who start using cannabis may experience slower growth in memory, attention, language, and processing speed. Their abilities often developed normally at first, then began leveling off while nonus
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260806050726.htm) — *Science Daily*
+
+### 4. Scientists tracked 12 people in Antarctica for 10 months—what happened could shape future Mars missions
 
 [原文] A ten-month Antarctic experiment found that astronauts may struggle not only with loneliness but also with spending too much time around the same people. Frequent contact was linked to greater tension
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260806050722.htm) — *Science Daily*
 
-### 3. Scientists find unexpected life on Ötzi the Iceman’s 5,300-year-old body
+### 5. Scientists find unexpected life on Ötzi the Iceman’s 5,300-year-old body
 
 [原文] More than 5,000 years after his death, Ötzi the Iceman is still hosting a remarkable mix of ancient and modern microorganisms. Researchers separated microbes that lived in his body during his lifetime
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260806050721.htm) — *Science Daily*
-
-### 4. Vitamin C may fight cancer — but not the way scientists once thought
-
-[原文] Linus Pauling was widely mocked for claiming that vitamin C could fight cancer, especially after trials using vitamin C pills showed no benefit. Researchers now know that intravenous vitamin C reaches
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260806050717.htm) — *Science Daily*
-
-### 5. Earth’s molten core suddenly reversed direction — and scientists don’t know why
-
-[原文] Earth’s molten iron core unexpectedly reversed direction beneath the Pacific, revealing a dramatic change in the hidden engine that creates our planet’s magnetic field. Satellite data suggest the surg
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260806050713.htm) — *Science Daily*
 
 ---
 
@@ -174,29 +174,29 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Politicians, private jets and power - the life of a Fifa president
+### 2. Life as a Wag in the transfer window
 
-[原文] Fifa president Gianni Infantino appears to be trying to return to business as usual after the failed World Cup private investment plan - but it may not be that easy.
+[原文] What is life like for footballers' families during the transfer window where a last-minute deal means you need to uproot your life and move hundreds of miles?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cx2rp0n9pydo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cx2jpgj24vlo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Liverpool close to signing Barcelona's Araujo on loan
+### 3. Inside Newcastle 2.0 - how the project is changing
+
+[原文] Matthias Jaissle will take charge of his first friendly as Newcastle United head coach against Valencia as a new era begins.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cd7lzdpjlg2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. Liverpool close to signing Barcelona's Araujo on loan
 
 [原文] Liverpool are close to signing Uruguay defender Ronald Araujo on a season-long loan from Barcelona, with an option to purchase.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c4gxvvxldewo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Man City reject Barcelona's Rodri bid & in talks for Bouaddi
+### 5. Goals galore - the wildest scores in EFL Cup history
 
-[原文] Manchester City reject £38m offer from Barcelona for Rodri and remain in talks for Lille midfielder Ayyoub Bouaddi.
+[原文] BBC Sport looks at some of the wildest games - and scorelines - the EFL Cup has produced as the competition returns for a new season.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/articles/clyj1rgdnpxo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Flintoff leaves England Lions head coach role
-
-[原文] Former England all-rounder Andrew Flintoff steps down as head coach of England Lions.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cpw9nvzkxexo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c5y02m99evro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Behind the Scenes of Obama’s Acting Cameo in ‘Life, Larry’: Blaming Larry David for His Tan Suit Debacle, Improvising Lines and Ranting About Ketchup
+### 1. Taylor Swift Song ‘August’ Removed From Trump TikTok Video
+
+[原文] A TikTok video that included Taylor Swift&#8217;s song &#8220;August&#8221; posted four days ago to the account for Donald Trump&#8217;s campaign has had the sound removed. The caption on the now Tayl
+
+📎 [阅读原文](https://variety.com/2026/music/news/taylor-swift-song-august-removed-trump-tiktok-video-1236830512/) — *Variety*
+
+### 2. Behind the Scenes of Obama’s Acting Cameo in ‘Life, Larry’: Blaming Larry David for His Tan Suit Debacle, Improvising Lines and Ranting About Ketchup
 
 [原文] In his HBO sketch series “Life, Larry and the Pursuit of Unhappiness,” Larry David travels throughout history, inserting his stubborn and curmudgeonly self into America’s most pivotal moments. “Lawren
 
 📎 [阅读原文](https://variety.com/2026/tv/news/obama-larry-david-show-tan-suit-1236829485/) — *Variety*
 
-### 2. ‘Power Book III: Raising Kanan’ Creator Sascha Penn and Stars Patina Miller and Mekai Curtis on the Deadly Series Finale and ‘Power: Origins’
+### 3. ‘Power Book III: Raising Kanan’ Creator Sascha Penn and Stars Patina Miller and Mekai Curtis on the Deadly Series Finale and ‘Power: Origins’
 
 [原文] SPOILER ALERT: The following story contains plot details from the series finale of “Raising Kanan” now streaming on Starz. The final curtain has closed on the hit 1990s-set crime series “Power Book II
 
 📎 [阅读原文](https://variety.com/2026/tv/features/raising-kanan-series-finale-how-raq-dies-power-origins-spinoff-1236829538/) — *Variety*
 
-### 3. Stanley Tucci on Why His Emmy-Nominated ‘Tucci In Italy’ Is Moving to the United Kingdom Next Season
+### 4. Stanley Tucci on Why His Emmy-Nominated ‘Tucci In Italy’ Is Moving to the United Kingdom Next Season
 
 [原文] Italy remains Stanley Tucci&#8217;s first love. But a man can travel, right? After winning three Emmys for CNN&#8217;s “Stanley Tucci: Searching for Italy,” followed by two nominations (including this
 
 📎 [阅读原文](https://variety.com/2026/tv/awards/stanley-tucci-nat-geo-italy-moving-uk-next-season-why-1236830482/) — *Variety*
 
-### 4. ‘The Last House’ Ending Breakdown: Why Is the Family Trapped Inside Their Home?
+### 5. ‘The Last House’ Ending Breakdown: Why Is the Family Trapped Inside Their Home?
 
 [原文] SPOILER ALERT: This story contains major spoilers for “The Last House,” out now on Netflix. “The Last House” is a new sci-fi feature that just dropped on Netflix that&#8217;s built around a central my
 
 📎 [阅读原文](https://variety.com/2026/film/news/the-last-house-ending-explained-why-family-trapped-inside-1236806415/) — *Variety*
-
-### 5. ‘One Night Only’ Director Will Gluck Cut Out ‘So Much Nudity’ Because People Dislike Sex on Screen: ‘It Takes You Out of the Movie’
-
-[原文] “One Night Only” director Will Gluck doesn&#8217;t want you to overthink it. The filmmaker has been fielding a lot of inquiries about the premise, logic and loopholes of his new movie, a raucous roman
-
-📎 [阅读原文](https://variety.com/2026/film/features/one-night-only-director-removed-nudity-1236827870/) — *Variety*
 
 ---
 
@@ -477,35 +477,35 @@ The post Dodge Goes the Porsche Route and Makes Custom Paint Colors Available to
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Google Confirms Hotel Agentic Booking Is Now in Testing
+### 1. Google Brings Agentic AI to Ask Maps Hotel Search
+
+[原文] Google Maps is bringing spatial context to AI hotel search. Add personal itinerary data, and this becomes more than another AI search update for hotels — even before booking arrives.
+
+📎 [阅读原文](https://skift.com/2026/08/07/google-brings-agentic-ai-to-ask-maps-hotel-search/) — *Skift*
+
+### 2. Google Confirms Hotel Agentic Booking Is Now in Testing
 
 [原文] Google has moved agentic hotel booking from promise to product test. But how much of the transaction — and customer relationship — it intends to control remains to be seen.
 
 📎 [阅读原文](https://skift.com/2026/08/07/google-confirms-hotel-agentic-booking-is-now-in-testing/) — *Skift*
 
-### 2. GetYourGuide to Pass Its Digital Services Tax Bill to Tour Operators
+### 3. GetYourGuide to Pass Its Digital Services Tax Bill to Tour Operators
 
 [原文] Digital services taxes were designed to hit Big Tech revenues, instead they are being passed onto tour operators.
 
 📎 [阅读原文](https://skift.com/2026/08/07/getyourguide-to-pass-its-digital-services-tax-bill-on-to-suppliers/) — *Skift*
 
-### 3. How Nevis Built a Tourism Strategy Around Refusal
+### 4. How Nevis Built a Tourism Strategy Around Refusal
 
 [原文] The Premier of Nevis is candid about what his island will not build and what has not worked. Now the government is spending real money to find out whether that positioning holds.
 
 📎 [阅读原文](https://skift.com/2026/08/07/how-nevis-built-a-tourism-strategy-around-refusal/) — *Skift*
 
-### 4. How Hilton Overhauled B2B Sales and Taught Reps to ‘Scrimmage’
+### 5. How Hilton Overhauled B2B Sales and Taught Reps to ‘Scrimmage’
 
 [原文] Hilton spent years reorganizing its B2B sales machine. The reason? Many corporate buyers no longer want to buy the way hotel sellers often want to sell.
 
 📎 [阅读原文](https://skift.com/2026/08/07/how-hilton-overhauled-b2b-sales-and-taught-reps-to-scrimmage/) — *Skift*
-
-### 5. Gen Z Business Travelers Are Anxious, and Brands Aren’t Helping
-
-[原文] Gen Z business travelers are anxious and uncertain, navigating booking systems and policies built for a different generation. What they want isn't more technology — it's clarity, guidance and a little
-
-📎 [阅读原文](https://skift.com/2026/08/07/gen-z-business-travelers-are-anxious-and-brands-arent-helping/) — *Skift*
 
 ---
 
