@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月08日** | 生成时间: 2026-08-08 03:01
+**2026年08月08日** | 生成时间: 2026-08-08 09:52
 
 ---
 
@@ -16,29 +16,29 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Seven killed after Thai student opens fire at home and school
+### 1. Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies
 
-[原文] Authorities say the 14-year-old killed his grandparents before gunning down five teachers at his school.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 2. Spain threatens retaliation if Italy fails to lift border controls after Ceuta crossings
-
-[原文] Italy has said it will not accept "ultimatums or impositions" after the mass crossing of migrants from Morocco to Ceuta last week.
+[原文] Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Saudi Arabia, Turkey and Pakistan sign defence pact
+### 2. Thai PM vows to introduce stricter gun laws after eight killed in shooting
+
+[原文] Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. I was standing in front of my teacher when she was shot, Thai pupil says
+
+[原文] The student says she feared never seeing her mother again after the attack killed five teachers.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. Saudi Arabia, Turkey and Pakistan sign defence pact
 
 [原文] Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Meta fined $567m in largest child safety ruling against social media giant
-
-[原文] The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 5. Spanish police arrest 78 people in bust of 'one of largest' smuggling networks
 
@@ -60,17 +60,17 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/07/trump-iran-hormuz-deal-stocks-oil.html) — *CNBC*
 
-### 2. Trump revives effort to fire Fed's Lisa Cook
-
-[原文] Trump aide Dan Scavino told Cook there is "sufficient reason to believe that you made false statements on one or more mortgage agreements."
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/07/trump-lisa-cook-federal-reserve.html) — *CNBC*
-
-### 3. Here are three key takeaways from the disappointing July jobs report
+### 2. Here are three key takeaways from the disappointing July jobs report
 
 [原文] Nonfarm payrolls in the U.S. unexpectedly declined in July, but so did the unemployment rate, leaving investors with mixed signals.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/07/here-are-three-key-takeaways-from-the-disappointing-july-jobs-report.html) — *CNBC*
+
+### 3. ‘SaaSpocalypse’ debate intensifies as software stocks swing wildly
+
+[原文] This week saw massive moves in both directions for software stocks, as investors try to figure out which names are best insulated from artificial intelligence.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/07/saaspocalypse-debate-intensifies-as-software-stocks-swing-wildly.html) — *CNBC*
 
 ### 4. Cassidy supports Todd Blanche, rescuing Trump's embattled attorney general pick
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Cloudflare launches Kitesurf, a browser built for AI agents
+### 1. OpenAI says it slowed Astra model development over security concerns
 
-[原文] Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, h
+[原文] OpenAI said this model, which is still in development, reached its "critical cybersecurity threshold," meaning it could independently identify and carry out cyberattacks against traditionally well-pro
+
+📎 [阅读原文](https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/) — *TechCrunch*
+
+### 2. After Rippling blew millions on AI in months, it built an employee ROI tool
+
+[原文] After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/) — *TechCrunch*
+
+### 3. Wacom’s MovinkPad 11 is a fun, midpriced entry point for digital artists
+
+[原文] The MovinkPad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/) — *TechCrunch*
+
+### 4. Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks
+
+[原文] Researchers found common points of failure, like software used to organize and display web content, could have allowed hackers to run riot through government websites.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/) — *TechCrunch*
+
+### 5. Cloudflare launches Kitesurf, a browser built for AI agents
+
+[原文] Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents mo
 
 📎 [阅读原文](https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/) — *TechCrunch*
-
-### 2. Computer maker Framework notifies ‘all customers’ of a data breach
-
-[原文] Framework told "all" of its customers that hackers accessed their names, email addresses, phone numbers, and physical addresses in a data breach.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/07/computer-maker-framework-notifies-all-customers-of-a-data-breach/) — *TechCrunch*
-
-### 3. Today’s the last day to get up to $400 off your TechCrunch Disrupt 2026 ticket
-
-[原文] Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/07/todays-the-last-day-to-get-up-to-400-off-your-techcrunch-disrupt-2026-ticket/) — *TechCrunch*
-
-### 4. Trump administration has spent nearly $4B to cancel offshore wind farms
-
-[原文] The Trump administration has now convinced developers to abandon 12 offshore wind leases. The latest will cost taxpayers $1.2 billion.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/07/trump-administration-has-spent-nearly-4b-to-cancel-offshore-wind-farms/) — *TechCrunch*
-
-### 5. Host your own piece of Disrupt: Apply to run a Side Event at TechCrunch Disrupt 2026
-
-[原文] You put together the concept — from a founder mixer, an after-hours panel, a themed party, a morning run, whatever fits your goal — and the TechCrunch team helps put it in front of the attendees alrea
-
-📎 [阅读原文](https://techcrunch.com/2026/08/07/host-your-own-piece-of-disrupt-apply-to-run-a-side-event-at-techcrunch-disrupt-2026/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Politicians, private jets and power - the life of a Fifa president
+### 1. Infantino denies claims Uefa paid off alleged 'lover'
+
+[原文] Gianni Infantino's alleged lover was given a severance payment over the affair by Uefa while he was its general secretary, according to a Daily Telegraph investigation.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. Politicians, private jets and power - the life of a Fifa president
 
 [原文] Fifa president Gianni Infantino appears to be trying to return to business as usual after the failed World Cup private investment plan - but it may not be that easy.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cx2rp0n9pydo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Man City reject Barcelona's Rodri bid & in talks for Bouaddi
+### 3. Liverpool close to signing Barcelona's Araujo on loan
+
+[原文] Liverpool are close to signing Uruguay defender Ronald Araujo on a season-long loan from Barcelona, with an option to purchase.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c4gxvvxldewo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. Man City reject Barcelona's Rodri bid & in talks for Bouaddi
 
 [原文] Manchester City reject £38m offer from Barcelona for Rodri and remain in talks for Lille midfielder Ayyoub Bouaddi.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/articles/clyj1rgdnpxo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. France set to take part in U20 Women's World Cup despite Uefa boycott threat
+### 5. Flintoff leaves England Lions head coach role
 
-[原文] France say they are still planning to compete in the Under-20 Women's World Cup next month despite a threat from Uefa to boycott Fifa competitions.
+[原文] Former England all-rounder Andrew Flintoff steps down as head coach of England Lions.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c87nrpwg20vo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. 'Critically important' summit called on future of Scottish football
-
-[原文] The Scottish Football Association is to hold a "critically important" summit around the future of the national game.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cglj813z9rro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Norway call on Infantino to resign but two countries back Fifa president
-
-[原文] The Norwegian Football Federation calls for Fifa president Gianni Infantino to resign after he attempted to sell off stakes in the World Cup.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c4g6l3gnv0go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cpw9nvzkxexo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Magnus Ferrell on His Viral Hit ‘Asleep Talking’ and Dad Will Ferrell Showing Michelle Obama His Music: ‘I Finally Felt Ready to Have a Spotlight on It’
+### 1. Behind the Scenes of Obama’s Acting Cameo in ‘Life, Larry’: Blaming Larry David for His Tan Suit Debacle, Improvising Lines and Ranting About Ketchup
 
-[原文] Not every up-and-coming artist can say they watched Michelle Obama jam out to their music before landing on the charts. But&#160;two&#160;weeks after Will Ferrell proudly played his son Magnus&#160;Fe
+[原文] In his HBO sketch series “Life, Larry and the Pursuit of Unhappiness,” Larry David travels throughout history, inserting his stubborn and curmudgeonly self into America’s most pivotal moments. “Lawren
 
-📎 [阅读原文](https://variety.com/2026/music/news/magnus-ferrell-asleep-talking-will-ferrell-michelle-obama-1236830141/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/obama-larry-david-show-tan-suit-1236829485/) — *Variety*
 
-### 2. Virginie Efira – a ‘Showgirls’ Fan – Enjoyed the ‘Benedetta’ Controversy: ‘When Verhoeven Said There Would Be Lesbian Sex Scenes, I Just Replied: ‘No Problem’
+### 2. ‘Power Book III: Raising Kanan’ Creator Sascha Penn and Stars Patina Miller and Mekai Curtis on the Deadly Series Finale and ‘Power: Origins’
 
-[原文] Paul Verhoeven’s “Benedetta,” about a nun embarking on a scandalous affair with another nun, offended many viewers and sparked protests in several countries. But it didn’t offend its lead Virginie Efi
+[原文] SPOILER ALERT: The following story contains plot details from the series finale of “Raising Kanan” now streaming on Starz. The final curtain has closed on the hit 1990s-set crime series “Power Book II
 
-📎 [阅读原文](https://variety.com/2026/film/awards/virginie-efira-showgirls-benedetta-verhoeven-locarno-1236830203/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/features/raising-kanan-series-finale-how-raq-dies-power-origins-spinoff-1236829538/) — *Variety*
 
-### 3. Da’Vine Joy Randolph to Star in Indie Dark Comedy ‘Dedicated to Morris Burke’ From Director Will Ropp (EXCLUSIVE)
+### 3. Stanley Tucci on Why His Emmy-Nominated ‘Tucci In Italy’ Is Moving to the United Kingdom Next Season
 
-[原文] Da’Vine Joy Randolph has signed on to star in director Will Ropp’s indie dark comedy “Dedicated to Morris Burke.” The Oscar winner plays Judy Brooks, who discovers that the final novel of her late bes
+[原文] Italy remains Stanley Tucci&#8217;s first love. But a man can travel, right? After winning three Emmys for CNN&#8217;s “Stanley Tucci: Searching for Italy,” followed by two nominations (including this
 
-📎 [阅读原文](https://variety.com/2026/film/columns/davine-joy-randolph-dark-comedy-dedicated-to-morris-burke-director-will-ropp-1236830182/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/awards/stanley-tucci-nat-geo-italy-moving-uk-next-season-why-1236830482/) — *Variety*
 
-### 4. What Rockstar Games’ Netflix Pact for ‘GTA 6’ Reveal Signals About Hollywood’s Growing Relationship With Gaming
+### 4. ‘The Last House’ Ending Breakdown: Why Is the Family Trapped Inside Their Home?
 
-[原文] &#8220;Grand Theft Auto 6&#8221; was already set to make history in the video game world &#8212; but now it&#8217;s making a hot prerelease spin through Hollywood as well. On Aug. 27, Netflix will deb
+[原文] SPOILER ALERT: This story contains major spoilers for “The Last House,” out now on Netflix. “The Last House” is a new sci-fi feature that just dropped on Netflix that&#8217;s built around a central my
 
-📎 [阅读原文](https://variety.com/2026/tv/news/grand-theft-auto-vi-netflix-partnership-1236830098/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/the-last-house-ending-explained-why-family-trapped-inside-1236806415/) — *Variety*
 
-### 5. LISTEN: NBCUniversal Media Group Chief Matt Strauss on Growing Peacock, Testing Membership Rewards and Becoming a Daily Habit With Users
+### 5. ‘One Night Only’ Director Will Gluck Cut Out ‘So Much Nudity’ Because People Dislike Sex on Screen: ‘It Takes You Out of the Movie’
 
-[原文] On today&#8217;s episode of Variety&#8216;s &#8220;Strictly Business&#8221; podcast, Matt Strauss, chairman of NBCUniversal Media Group, expands on the evolution of the Peacock streamer and his view o
+[原文] “One Night Only” director Will Gluck doesn&#8217;t want you to overthink it. The filmmaker has been fielding a lot of inquiries about the premise, logic and loopholes of his new movie, a raucous roman
 
-📎 [阅读原文](https://variety.com/2026/tv/news/matt-strauss-nbcuniversal-peacock-streaming-strictly-1236829718/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/features/one-night-only-director-removed-nudity-1236827870/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The LEGO Icons Natural History Museum Set Drops to a 90-Day Low Price at Amazon With $50 Discount
+### 1. Sega Is Auctioning Off Shadow The Hedgehog's Real-Life Motorcycle For a Good Cause
 
-[原文] The LEGO Icons Natural History Museum set has been marked down to $299.99 at Amazon, a $50 price cut from its original price of $349.99 and a 90-day low at the retailer.
+[原文] Sega is auctioning off Shadow the Hedgehog’s real-life Dark Rider motorcycle and giving the proceeds to charity.
 
-📎 [阅读原文](https://www.ign.com/articles/the-lego-icons-natural-history-museum-set-drops-to-a-90-day-low-price-at-amazon-with-50-discount) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/sega-is-auctioning-off-shadow-the-hedgehogs-real-life-motorcycle-for-a-good-cause) — *IGN*
 
-### 2. Take-Two Boss Predicts Actual Good Video Game Streaming Within 3 Years, Says for Streaming to Matter It Would Have to Run GTA 6 as Well as Consoles
+### 2. Jeff VanderMeer Reveals Annihilation Sequel Abdication, the Final Part of the Southern Reach Series
 
-[原文] The boss of Take-Two has suggested the video game industry will be in “commercial streaming mode” within three years — but for video game streaming to matter, it will have to run GTA 6 just as well as
+[原文] Southern Reach creator Jeff VanderMeer has revealed Abdication, the fifth and final book in the series that began with 2014's Annihilation.
 
-📎 [阅读原文](https://www.ign.com/articles/take-two-boss-predicts-actual-good-video-game-streaming-within-3-years-says-for-streaming-to-matter-it-would-have-to-run-gta-6-as-well-as-consoles) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/jeff-vandermeer-reveals-annihilation-sequel-abdication-the-final-part-of-the-southern-reach-series) — *IGN*
 
-### 3. Fanatical’s Summer Sale Is Live With Big Discounts on Some of Our Favorite PC Games
+### 3. Marvel Tokon Stumbles to Mixed Steam Reviews as 'Miserable' PC Port Complaints Prompt Response From Arc System Works
 
-[原文] Fanatical has launched its Summer Sale and it features some truly great deals for PC gamers, including discounts on Resident Evil Requiem, DOOM: The Dark Ages, and more.
+[原文] Marvel Tokon: Fighting Souls stumbled on Steam with "Mixed" user reviews as players complain of PlayStation account requirements, anti-cheat roadblocks, and other technical issues.
 
-📎 [阅读原文](https://www.ign.com/articles/fanatical-summer-sale-best-pc-game-deals-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/marvel-tokon-stumbles-to-mixed-steam-reviews-as-miserable-pc-port-complaints-prompt-response-from-arc-system-works) — *IGN*
 
-### 4. Asmongold Banned Again on Twitch Following 'Violation of Community Guidelines'
+### 4. Dwayne Johnson Reacts to Negative Moana Reviews After Disney's Live-Action Remake Bombs
 
-[原文] Zack Hoyt, the popular streamer known online as Asmongold, has again received a temporary ban on one of his channels, following a "violation of Twitch's community guidelines."
+[原文] Dwayne "The Rock" Johnson shared his thoughts about the negative reviews for Disney's live-action Moana remake after it floundered in theaters.
 
-📎 [阅读原文](https://www.ign.com/articles/asmongold-banned-again-on-twitch-following-violation-of-community-guidelines) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/dwayne-johnson-reacts-to-negative-moana-reviews-after-disneys-live-action-remake-bombs) — *IGN*
 
-### 5. Control Resonant: Exclusive Metro Fault Mission Gameplay — IGN First
+### 5. Brandon Sanderson Says the Speed Racer Movie Is 'Unironically a 10 out of 10'
 
-[原文] Control Resonant is our IGN First for August, and we have a whole new mission of gameplay to kick things off.
+[原文] "This is the Wachowskis at their A game, and it was underappreciated when it came out."
 
-📎 [阅读原文](https://www.ign.com/articles/control-resonant-exclusive-metro-fault-mission-gameplay-ign-first) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/brandon-sanderson-says-the-speed-racer-movie-is-unironically-a-10-out-of-10) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Get up to 50% off Super-Useful Dremel Tools During This Summer Sale
+### 1. Does Your Car Even Fit In Your Garage?
+
+[原文] Garages are shrinking, especially closer to big cities. Can you even fit your personal car inside one?
+The post Does Your Car Even Fit In Your Garage? appeared first on The Drive.
+
+📎 [阅读原文](https://www.thedrive.com/news/does-your-car-even-fit-in-your-garage) — *The Drive*
+
+### 2. Do Helmet Spoilers Actually Work?
+
+[原文] Helmets with chin and rear spoilers certainly look cooler than their more basic counterparts, but most people don't actually know whether these help reduce drag or increase lift.
+The post Do Helmet Sp
+
+📎 [阅读原文](https://www.thedrive.com/news/do-helmet-spoilers-actually-work) — *The Drive*
+
+### 3. Listen to a Former CAT Engineer Explain Why Inline-Sixes Are Better Than V8s for Hard Work
+
+[原文] Jim Coles worked as a Caterpillar engineer and sold Peterbilts for 40 years, so it's safe to say he knows a thing or two about diesels.
+The post Listen to a Former CAT Engineer Explain Why Inline-Sixe
+
+📎 [阅读原文](https://www.thedrive.com/news/listen-to-a-former-cat-engineer-explain-why-inline-sixes-are-better-than-v8s-for-hard-work) — *The Drive*
+
+### 4. Get up to 50% off Super-Useful Dremel Tools During This Summer Sale
 
 [原文] Dremel has some great deals going on extremely useful tools right now.
 The post Get up to 50% off Super-Useful Dremel Tools During This Summer Sale appeared first on The Drive.
 
 📎 [阅读原文](https://www.thedrive.com/news/get-up-to-50-off-super-useful-dremel-tools-during-this-summer-sale) — *The Drive*
 
-### 2. Dodge Goes the Porsche Route and Makes Custom Paint Colors Available to the Masses
+### 5. Dodge Goes the Porsche Route and Makes Custom Paint Colors Available to the Masses
 
 [原文] Dodge is "Jailbreaking" its color options for 2027.
 The post Dodge Goes the Porsche Route and Makes Custom Paint Colors Available to the Masses appeared first on The Drive.
 
 📎 [阅读原文](https://www.thedrive.com/news/dodge-goes-the-porsche-route-and-makes-custom-paint-colors-available-to-the-masses) — *The Drive*
-
-### 3. 2027 Dodge Charger Super Bee Buzzes With 600 HP From a Highly Boosted Inline-Six
-
-[原文] Dodge is turning up the wick on its high-output Hurricane inline-six. 
-The post 2027 Dodge Charger Super Bee Buzzes With 600 HP From a Highly Boosted Inline-Six appeared first on The Drive.
-
-📎 [阅读原文](https://www.thedrive.com/news/2027-dodge-charger-super-bee-buzzes-with-600-hp-from-a-highly-boosted-inline-six) — *The Drive*
-
-### 4. Volkswagen’s US Comeback Plan Involves a Pickup Truck: TDS
-
-[原文] The embattled automaker is making moves to restore business in the U.S., and one of them may bring the company's first truck in decades.
-The post Volkswagen&#8217;s US Comeback Plan Involves a Pickup 
-
-📎 [阅读原文](https://www.thedrive.com/news/volkswagens-us-comeback-plan-involves-a-pickup-truck-tds) — *The Drive*
-
-### 5. Alert: Cool Shirts Are Back with The Drive’s New Blipshift Collection
-
-[原文] Need new threads? Our latest merch drop revives more of Blipshift's greatest all-time designs, plus a new throwback shirt with The Drive's original logo.
-The post Alert: Cool Shirts Are Back with The 
-
-📎 [阅读原文](https://www.thedrive.com/news/alert-cool-shirts-are-back-with-the-drives-new-blipshift-collection) — *The Drive*
 
 ---
 
@@ -363,35 +363,35 @@ The post Alert: Cool Shirts Are Back with The
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump Promotes Commercial Fishing in Protected Pacific Marine National Monuments
+### 1. A Minnesota Dairy Company’s Rapid Expansion Is Prompting Lawsuits Against Regulators
+
+[原文] As Riverview LLP aggressively expands its mega-dairies across the Upper Midwest, advocacy groups and worried residents are mounting legal challenges and orchestrating local efforts to push back. The M
+
+📎 [阅读原文](https://insideclimatenews.org/news/07082026/minnesota-riverview-dairy-expansion-prompts-lawsuits-against-regulators/) — *Inside Climate News*
+
+### 2. Trump Promotes Commercial Fishing in Protected Pacific Marine National Monuments
 
 [原文] President Donald Trump is seeking to reverse significant ocean protections by allowing commercial fishing in three Pacific marine national monuments President George W. Bush established in the early 2
 
 📎 [阅读原文](https://insideclimatenews.org/news/07082026/commercial-fishing-in-protected-pacific-marine-national-monuments/) — *Inside Climate News*
 
-### 2. Wildfire Smoke Is Now a Bigger Prenatal Threat Than Human Sources of Air Pollution
+### 3. Wildfire Smoke Is Now a Bigger Prenatal Threat Than Human Sources of Air Pollution
 
 [原文] In 1965, a presidential advisory panel issued a report warning that pervasive chemical and carbon pollution was harming environmental health and changing the climate. Five years later, President Richa
 
 📎 [阅读原文](https://insideclimatenews.org/news/07082026/wildfire-smoke-pollution-prenatal-threat/) — *Inside Climate News*
 
-### 3. In Florida, Being Poor Isn’t Enough to Qualify for the Best Water Aid
+### 4. In Florida, Being Poor Isn’t Enough to Qualify for the Best Water Aid
 
 [原文] Belle Glade is one of the poorest cities in Florida, a majority-Black farmworker community on the southern rim of Lake Okeechobee, where clean and reliable drinking water has never been a given. But w
 
 📎 [阅读原文](https://insideclimatenews.org/news/06082026/florida-federal-water-aid-excludes-bigger-low-income-communities/) — *Inside Climate News*
 
-### 4. As Solar and Batteries Dominate in Texas, Republican Lawmakers Consider Natural Gas Minimums
+### 5. As Solar and Batteries Dominate in Texas, Republican Lawmakers Consider Natural Gas Minimums
 
 [原文] As new electricity generation skews toward solar and battery storage in Texas, Republican state senators are questioning whether it’s time to impose minimum standards for building gas plants and move 
 
 📎 [阅读原文](https://insideclimatenews.org/news/06082026/texas-republicans-consider-natural-gas-minimums/) — *Inside Climate News*
-
-### 5. Philadelphia Juggles Short-Term Budget Plans and Long-Term Climate Goals
-
-[原文] PHILADELPHIA—This summer has brought the full force of a changing climate, with wildfire smoke, extreme heat, flash flooding and severe storms continuing a trend of increasingly extreme weather affect
-
-📎 [阅读原文](https://insideclimatenews.org/news/06082026/philadelphia-budget-climate-efforts/) — *Inside Climate News*
 
 ---
 
@@ -401,29 +401,29 @@ The post Alert: Cool Shirts Are Back with The
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Library That Sparked a STEM Revolution for Our Students
-
-[原文] To truly close the digital equity gap, educators must become architects of student possibility.
-
-📎 [阅读原文](https://edsurge.com/news/the-library-that-sparked-a-stem-revolution-for-our-students) — *EdSurge*
-
-### 2. What Happens When AI Policy Meets a Real Classroom?
+### 1. What Happens When AI Policy Meets a Real Classroom?
 
 [原文] One national study, one local leader, and a reality check on how schools are really regulating AI.
 
 📎 [阅读原文](https://edsurge.com/news/what-happens-when-ai-policy-meets-a-real-classroom) — *EdSurge*
 
-### 3. Math Terrified Me When I Was a Student. That Made Me a Better Teacher.
+### 2. The Library That Sparked a STEM Revolution for Our Students
 
-[原文] A novice educator turns her "weakness" into a teaching strength.
+[原文] To truly close the digital equity gap, educators must become architects of student possibility.
 
-📎 [阅读原文](https://edsurge.com/news/math-terrified-me-when-i-was-a-student-that-made-me-a-better-teacher) — *EdSurge*
+📎 [阅读原文](https://edsurge.com/news/the-library-that-sparked-a-stem-revolution-for-our-students) — *EdSurge*
 
-### 4. Teachers Forge Ahead on Integrating AI
+### 3. Teachers Forge Ahead on Integrating AI
 
 [原文] A new report highlights teacher-led adoption, student demand for feedback, and a growing push for tools tailored specifically to the classroom.
 
 📎 [阅读原文](https://edsurge.com/news/teachers-forge-ahead-on-integrating-ai) — *EdSurge*
+
+### 4. Math Terrified Me When I Was a Student. That Made Me a Better Teacher.
+
+[原文] A novice educator turns her "weakness" into a teaching strength.
+
+📎 [阅读原文](https://edsurge.com/news/math-terrified-me-when-i-was-a-student-that-made-me-a-better-teacher) — *EdSurge*
 
 ### 5. High Schools Need a New Model for a New Economy
 
@@ -439,35 +439,35 @@ The post Alert: Cool Shirts Are Back with The
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Kurupt Reveals Eminem Helped Cover His Rehab Costs
+### 1. Meshell Ndegeocello, Cat Power Give Human League’s ‘Don’t You Want Me’ a Reggae Rework
+
+[原文] Unlikely duet previews Synonym, an ambitious covers album featuring Cynthia Erivo, Chaka Khan, Brandi Carlile, and WILLOW
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/meshell-ndegeocello-cat-power-human-league-1235605666/) — *Rolling Stone*
+
+### 2. Katseye’s Sophia Laforteza Announces Hiatus From Group
+
+[原文] “Making this decision wasn’t easy, but I’m learning that health has to come first”
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/katseye-sophie-break-hiatus-1235605430/) — *Rolling Stone*
+
+### 3. Chappell Roan Announces Two-Night LGBTQ+ Fundraising Event
+
+[原文] ‘Super Graphic Spectacular’ at Los Angeles’ Shrine Auditorium in October will benefit the Midwest Princess Project
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/chappell-roan-super-graphic-spectacular-fundraising-event-1235605626/) — *Rolling Stone*
+
+### 4. Kurupt Reveals Eminem Helped Cover His Rehab Costs
 
 [原文] “You know these things cost bread, so Em put the cheese up for it,” the rapper shared
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/kurupt-eminem-rehab-1235605412/) — *Rolling Stone*
 
-### 2. See Chris Stapleton Perform ‘Patience’ With Guns N’ Roses Members in Toronto
+### 5. See Chris Stapleton Perform ‘Patience’ With Guns N’ Roses Members in Toronto
 
 [原文] One night after country singer joined band for “Knockin’ on Heaven’s Door,” Slash and Duff McKagan make surprise appearance for Lies classic and Fleetwood Mac cover
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/chris-stapleton-perform-patience-guns-n-roses-toronto-1235605404/) — *Rolling Stone*
-
-### 3. Lindsey Buckingham Teases Project With Stevie Nicks: ‘Next Year Should Be Pretty Interesting’
-
-[原文] After a long estrangement, Buckingham and Nicks are again friends. “Stevie and I are talking all the time now,” Buckingham said. “Next year quite a few things will reveal themselves”
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/lindsey-buckingham-stevie-nicks-tease-1235605228/) — *Rolling Stone*
-
-### 4. Who Voted for the 100 Best Grateful Dead Songs
-
-[原文] We asked a large group of longtime fans to give us their favorite Dead classics
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/100-best-grateful-dead-songs-voters-1235604541/) — *Rolling Stone*
-
-### 5. William Orbit, Grammy-Winning Producer of Madonna’s ‘Ray of Light,’ Dead at 69
-
-[原文] Electronic music extraordinaire also worked on Blur’s experimental 13 in addition to songs by U2, No Doubt, Pink, and more
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/william-orbit-producer-madonna-ray-of-light-dead-obituary-1235605106/) — *Rolling Stone*
 
 ---
 
@@ -528,7 +528,6 @@ The post Alert: Cool Shirts Are Back with The
 ## ⚠️ 今日故障源
 
 - **🚗 汽车**: Autocar
-- **✈️ 旅游**: Nomadic Matt, Travel Off Path
 
 ---
 
