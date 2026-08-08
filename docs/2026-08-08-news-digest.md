@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月08日** | 生成时间: 2026-08-08 14:59
+**2026年08月08日** | 生成时间: 2026-08-08 20:54
 
 ---
 
@@ -22,29 +22,29 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies
+### 2. US Senate narrowly confirms Todd Blanche as attorney general
+
+[原文] Republican Senator Bill Cassidy was the deciding vote after a lengthy stand-off.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. The phone book that led us to Assad's spy chief in hiding
+
+[原文] How we tracked down "The Spider" who was once one of the most-feared men in Syria.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies
 
 [原文] Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Thai PM vows to introduce stricter gun laws after eight killed in shooting
+### 5. US pledges $1bn support to Colombia as Trump-backed president sworn in
 
-[原文] Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead.
+[原文] Abelardo de la Espriella used his maiden speech to promise an "all-out war" on what he calls "narco-terrorism".
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. I was standing in front of my teacher when she was shot, Thai pupil says
-
-[原文] The student says she feared never seeing her mother again after the attack killed five teachers.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. 'I ran because I knew I would die': Russian drones target medics in Ukraine
-
-[原文] Ukrainian emergency workers warn of growing Russian attacks on hospitals and ambulances.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -60,29 +60,29 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/07/trump-iran-hormuz-deal-stocks-oil.html) — *CNBC*
 
-### 2. Here are three key takeaways from the disappointing July jobs report
+### 2. Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'
 
-[原文] Nonfarm payrolls in the U.S. unexpectedly declined in July, but so did the unemployment rate, leaving investors with mixed signals.
+[原文] The Black Hat cybersecurity conference in Las Vegas couldn't have come at a better time, with AI agent hacks stacking up from Anthropic, Meta and OpenAI.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/07/here-are-three-key-takeaways-from-the-disappointing-july-jobs-report.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html) — *CNBC*
 
-### 3. Inside the startup drone maker powering Ukraine's deep-strike campaign
+### 3. Cyclospora fears lead consumers to lose their appetite for salads
+
+[原文] Traffic to salad chains has fallen as consumers avoid greens due to the ongoing cyclospora outbreaks across the U.S.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/08/cyclospora-salads-lettuce-restaurants.html) — *CNBC*
+
+### 4. Inside the startup drone maker powering Ukraine's deep-strike campaign
 
 [原文] Fire Point CEO Iryna Terekh says Ukraine has "learned the hard way" that military leverage is integral to to bringing diplomacy within reach.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/08/ukraine-russia-war-fire-point-drones.html) — *CNBC*
 
-### 4. ‘SaaSpocalypse’ debate intensifies as software stocks swing wildly
+### 5. Elevator giant Otis wants to be a defensive play in an volatile market. It has to prove itself first
 
-[原文] This week saw massive moves in both directions for software stocks, as investors try to figure out which names are best insulated from artificial intelligence.
+[原文] Otis positions itself as a long-term growth stock, but shares are down due to setbacks in its elevator service business and investors chasing the AI trade.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/07/saaspocalypse-debate-intensifies-as-software-stocks-swing-wildly.html) — *CNBC*
-
-### 5. Cassidy supports Todd Blanche, rescuing Trump's embattled attorney general pick
-
-[原文] Attorney General nominee Todd Blanche needs at least 50 votes on the Senate floor to be confirmed after clearing the Senate Judiciary Committee.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/07/blanche-ag-trump-cassidy-senate-confirmation.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/08/elevator-giant-otis-stock-wall-street.html) — *CNBC*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Infantino denies claims Uefa paid off alleged 'lover'
+### 1. Arsenal sign Guimaraes from Newcastle in £75m deal
 
-[原文] Gianni Infantino's alleged lover was given a severance payment over the affair by Uefa while he was its general secretary, according to a Daily Telegraph investigation.
+[原文] Premier League champions Arsenal sign Brazil midfielder Bruno Guimaraes from Newcastle United for £75m.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c1719r079rjo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Life as a Wag in the transfer window
+### 2. Scotland closing in on head coach to replace Clarke
 
-[原文] What is life like for footballers' families during the transfer window where a last-minute deal means you need to uproot your life and move hundreds of miles?
+[原文] The Scottish FA is closing in on the appointment of a new head coach to succeed Steve Clarke.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cx2jpgj24vlo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c07rx4npmpxo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Inside Newcastle 2.0 - how the project is changing
-
-[原文] Matthias Jaissle will take charge of his first friendly as Newcastle United head coach against Valencia as a new era begins.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cd7lzdpjlg2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. Liverpool close to signing Barcelona's Araujo on loan
-
-[原文] Liverpool are close to signing Uruguay defender Ronald Araujo on a season-long loan from Barcelona, with an option to purchase.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c4gxvvxldewo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Goals galore - the wildest scores in EFL Cup history
+### 3. Goals galore - the wildest scores in EFL Cup history
 
 [原文] BBC Sport looks at some of the wildest games - and scorelines - the EFL Cup has produced as the competition returns for a new season.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c5y02m99evro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. NBA forward Clarke's death due to effects of drugs
+
+[原文] Memphis Grizzlies forward Brandon Clarke's death was due to the effects of heroin and cocaine, the Los Angeles medical authority reveals.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/basketball/articles/czekj4wg41po?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 5. Infantino denies claims Uefa paid off alleged 'lover'
+
+[原文] Gianni Infantino's alleged lover was given a severance payment over the affair by Uefa while he was its general secretary, according to a Daily Telegraph investigation.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Taylor Swift Song ‘August’ Removed From Trump TikTok Video
+### 1. ‘Ketticè’ Review: An Amusing, Original Portrait of Adolescent Ennui Against a Backdrop of Adult Cluelessness
+
+[原文] Monica Bellucci’s sneer is a thing of wonder, so why have so few directors used it properly? When allowed full rein to her sense of irony, as given her by Giovanni Tortorici in “Ketticè,” Bellucci has
+
+📎 [阅读原文](https://variety.com/2026/film/reviews/kettice-review-1236830542/) — *Variety*
+
+### 2. Satyajit Ray’s ‘Goopy Gyne Bagha Byne’ Making to be Chronicled in Srijit Mukherji’s ‘Maharaja Tomare Selam’
+
+[原文] Indian National Award-winning filmmaker Srijit Mukherji is bringing to screen the making of Satyajit Ray&#8217;s &#8220;Goopy Gyne Bagha Byne,&#8221; one of Indian cinema&#8217;s most celebrated class
+
+📎 [阅读原文](https://variety.com/2026/film/news/satyajit-ray-goopy-gyne-bagha-byne-maharaja-tomare-selam-1236830536/) — *Variety*
+
+### 3. ‘I Rarely Wake Up Dreaming’ Review: An Affecting Trans Relationship Drama Brings Fresh Perspective to the War in Ukraine
+
+[原文] Russia&#8217;s 2022 invasion of Ukraine has prompted a wealth of urgent nonfiction filmmaking documenting the harsh realities of life under siege, but comparatively little dramatic storytelling — a sp
+
+📎 [阅读原文](https://variety.com/2026/film/news/i-rarely-wake-up-dreaming-review-1236830181/) — *Variety*
+
+### 4. Taylor Swift Song ‘August’ Removed From Trump TikTok Video
 
 [原文] A TikTok video that included Taylor Swift&#8217;s song &#8220;August&#8221; posted four days ago to the account for Donald Trump&#8217;s campaign has had the sound removed. The caption on the now Tayl
 
 📎 [阅读原文](https://variety.com/2026/music/news/taylor-swift-song-august-removed-trump-tiktok-video-1236830512/) — *Variety*
 
-### 2. Behind the Scenes of Obama’s Acting Cameo in ‘Life, Larry’: Blaming Larry David for His Tan Suit Debacle, Improvising Lines and Ranting About Ketchup
+### 5. Behind the Scenes of Obama’s Acting Cameo in ‘Life, Larry’: Blaming Larry David for His Tan Suit Debacle, Improvising Lines and Ranting About Ketchup
 
 [原文] In his HBO sketch series “Life, Larry and the Pursuit of Unhappiness,” Larry David travels throughout history, inserting his stubborn and curmudgeonly self into America’s most pivotal moments. “Lawren
 
 📎 [阅读原文](https://variety.com/2026/tv/news/obama-larry-david-show-tan-suit-1236829485/) — *Variety*
-
-### 3. ‘Power Book III: Raising Kanan’ Creator Sascha Penn and Stars Patina Miller and Mekai Curtis on the Deadly Series Finale and ‘Power: Origins’
-
-[原文] SPOILER ALERT: The following story contains plot details from the series finale of “Raising Kanan” now streaming on Starz. The final curtain has closed on the hit 1990s-set crime series “Power Book II
-
-📎 [阅读原文](https://variety.com/2026/tv/features/raising-kanan-series-finale-how-raq-dies-power-origins-spinoff-1236829538/) — *Variety*
-
-### 4. Stanley Tucci on Why His Emmy-Nominated ‘Tucci In Italy’ Is Moving to the United Kingdom Next Season
-
-[原文] Italy remains Stanley Tucci&#8217;s first love. But a man can travel, right? After winning three Emmys for CNN&#8217;s “Stanley Tucci: Searching for Italy,” followed by two nominations (including this
-
-📎 [阅读原文](https://variety.com/2026/tv/awards/stanley-tucci-nat-geo-italy-moving-uk-next-season-why-1236830482/) — *Variety*
-
-### 5. ‘The Last House’ Ending Breakdown: Why Is the Family Trapped Inside Their Home?
-
-[原文] SPOILER ALERT: This story contains major spoilers for “The Last House,” out now on Netflix. “The Last House” is a new sci-fi feature that just dropped on Netflix that&#8217;s built around a central my
-
-📎 [阅读原文](https://variety.com/2026/film/news/the-last-house-ending-explained-why-family-trapped-inside-1236806415/) — *Variety*
 
 ---
 
@@ -363,35 +363,35 @@ The post Dodge Goes the Porsche Route and Makes Custom Paint Colors Available to
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. A Minnesota Dairy Company’s Rapid Expansion Is Prompting Lawsuits Against Regulators
+### 1. Massive Wildfires Test the Limits of International Cooperation
+
+[原文] When wildfires began raging across France and Spain last month, the European Union sent aircraft and firefighters from nine other countries. The Pacific Northwest, where fires have forced tens of thou
+
+📎 [阅读原文](https://insideclimatenews.org/news/08082026/wildfires-test-international-cooperation/) — *Inside Climate News*
+
+### 2. Natural Gas Dominates PJM’s First Reformed Grid Queue, Driven by Data-Center Demand
+
+[原文] Natural gas surged to the top in the first round of power projects accepted into PJM Interconnection’s reformed interconnection process, making up nearly half of the more than 200 gigawatts of capacit
+
+📎 [阅读原文](https://insideclimatenews.org/news/08082026/gas-dominates-pjm-interconnections-reformed-grid-queue/) — *Inside Climate News*
+
+### 3. Alabama Seeks to Lower Gas Utility Profits for the First Time in 40 Years
+
+[原文] MONTGOMERY, Ala.—For the first time in more than 40 years, Alabama utility regulators this week convened formal hearings to potentially decrease profits for one of the state’s major monopoly utilities
+
+📎 [阅读原文](https://insideclimatenews.org/news/08082026/alabama-regulators-cut-gas-utility-profits/) — *Inside Climate News*
+
+### 4. A Minnesota Dairy Company’s Rapid Expansion Is Prompting Lawsuits Against Regulators
 
 [原文] As Riverview LLP aggressively expands its mega-dairies across the Upper Midwest, advocacy groups and worried residents are mounting legal challenges and orchestrating local efforts to push back. The M
 
 📎 [阅读原文](https://insideclimatenews.org/news/07082026/minnesota-riverview-dairy-expansion-prompts-lawsuits-against-regulators/) — *Inside Climate News*
 
-### 2. Trump Promotes Commercial Fishing in Protected Pacific Marine National Monuments
+### 5. Trump Promotes Commercial Fishing in Protected Pacific Marine National Monuments
 
 [原文] President Donald Trump is seeking to reverse significant ocean protections by allowing commercial fishing in three Pacific marine national monuments President George W. Bush established in the early 2
 
 📎 [阅读原文](https://insideclimatenews.org/news/07082026/commercial-fishing-in-protected-pacific-marine-national-monuments/) — *Inside Climate News*
-
-### 3. Wildfire Smoke Is Now a Bigger Prenatal Threat Than Human Sources of Air Pollution
-
-[原文] In 1965, a presidential advisory panel issued a report warning that pervasive chemical and carbon pollution was harming environmental health and changing the climate. Five years later, President Richa
-
-📎 [阅读原文](https://insideclimatenews.org/news/07082026/wildfire-smoke-pollution-prenatal-threat/) — *Inside Climate News*
-
-### 4. In Florida, Being Poor Isn’t Enough to Qualify for the Best Water Aid
-
-[原文] Belle Glade is one of the poorest cities in Florida, a majority-Black farmworker community on the southern rim of Lake Okeechobee, where clean and reliable drinking water has never been a given. But w
-
-📎 [阅读原文](https://insideclimatenews.org/news/06082026/florida-federal-water-aid-excludes-bigger-low-income-communities/) — *Inside Climate News*
-
-### 5. As Solar and Batteries Dominate in Texas, Republican Lawmakers Consider Natural Gas Minimums
-
-[原文] As new electricity generation skews toward solar and battery storage in Texas, Republican state senators are questioning whether it’s time to impose minimum standards for building gas plants and move 
-
-📎 [阅读原文](https://insideclimatenews.org/news/06082026/texas-republicans-consider-natural-gas-minimums/) — *Inside Climate News*
 
 ---
 
@@ -483,7 +483,7 @@ The post Dodge Goes the Porsche Route and Makes Custom Paint Colors Available to
 
 📎 [阅读原文](https://skift.com/2026/08/07/google-brings-agentic-ai-to-ask-maps-hotel-search/) — *Skift*
 
-### 2. Google Confirms Hotel Agentic Booking Is Now in Testing
+### 2. Google Confirms Agentic Hotel Booking Is Now in Testing
 
 [原文] Google has moved agentic hotel booking from promise to product test. But how much of the transaction — and customer relationship — it intends to control remains to be seen.
 
@@ -528,6 +528,7 @@ The post Dodge Goes the Porsche Route and Makes Custom Paint Colors Available to
 ## ⚠️ 今日故障源
 
 - **🚗 汽车**: Autocar
+- **✈️ 旅游**: Nomadic Matt
 
 ---
 
