@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月09日** | 生成时间: 2026-08-09 02:41
+**2026年08月09日** | 生成时间: 2026-08-09 09:59
 
 ---
 
@@ -16,29 +16,29 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general
+### 1. Hormuz talks positive, Oman says, as Iran warns deal would not open strait
+
+[原文] Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general
 
 [原文] The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. US offers $1bn to Colombia on new right-wing president's first day of office
+### 3. US offers $1bn to Colombia on new right-wing president's first day of office
 
 [原文] Abelardo de la Espriella used his maiden speech to promise an "all-out war" on what he calls "narco-terrorism".
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Messi's father Jorge dies aged 68 after illness
+### 4. Messi's father Jorge dies aged 68 after illness
 
 [原文] Lionel Messi's father and agent Jorge dies at the age of 68 following a long illness.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies
-
-[原文] Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 5. Madonna pays tribute to 'genius, otherworldly' producer William Orbit
 
@@ -72,17 +72,17 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html) — *CNBC*
 
-### 4. Hunter Biden says Joe Biden’s cancer has spread further and is ‘very painful’
+### 4. Verizon mobile service restored after outage for thousands of customers in the U.S.
+
+[原文] Customers still having trouble with their service should restart their devices, the wireless carrier said. Verizon did not provide ⁠a reason for ⁠the outage.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/08/verizon-mobile-outage-downdetector.html) — *CNBC*
+
+### 5. Hunter Biden says Joe Biden’s cancer has spread further and is ‘very painful’
 
 [原文] "The cancer has spread, is metastasized into his bones and further. It's very painful. It's very debilitating in many respects," Hunter Biden said.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/08/hunter-biden-says-joe-bidens-cancer-has-spread-is-very-debilitating.html) — *CNBC*
-
-### 5. Cyclospora fears lead consumers to lose their appetite for salads
-
-[原文] Traffic to salad chains has fallen as consumers avoid greens due to the ongoing cyclospora outbreaks across the U.S.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/08/cyclospora-salads-lettuce-restaurants.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. X replaces ‘misaligned’ revenue sharing program with Original Content Rewards
+### 1. Planned Amazon data center could become the biggest climate polluter in the U.S.
+
+[原文] As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/) — *TechCrunch*
+
+### 2. OpenAI acquires presentation startup NextSlide
+
+[原文] NextSlide says its team members are now working on ChatGPT.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/) — *TechCrunch*
+
+### 3. X replaces ‘misaligned’ revenue sharing program with Original Content Rewards
 
 [原文] X is winding down its existing Revenue Sharing program.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/) — *TechCrunch*
 
-### 2. The Kindle Scribe Colorsoft is a lot of fun, but it’s not a must-have
+### 4. The Kindle Scribe Colorsoft is a lot of fun, but it’s not a must-have
 
 [原文] While the device is pretty and lightweight, it’s not something the everyday person needs due to its hefty price tag and size.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/08/the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-its-not-a-must-have/) — *TechCrunch*
 
-### 3. Google’s top hacker hunter explains why hacking groups get codenames
+### 5. Google’s top hacker hunter explains why hacking groups get codenames
 
 [原文] Google recently changed how it refers and assigns names to hacking groups. TechCrunch spoke with one of the world’s foremost experts on tracking hackers to understand why companies give hackers codena
 
 📎 [阅读原文](https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/) — *TechCrunch*
-
-### 4. OpenAI says it slowed Astra model development over security concerns
-
-[原文] OpenAI said this model, which is still in development, reached its "critical cybersecurity threshold," meaning it could independently identify and carry out cyberattacks against traditionally well-pro
-
-📎 [阅读原文](https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/) — *TechCrunch*
-
-### 5. After Rippling blew millions on AI in months, it built an employee ROI tool
-
-[原文] After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Athletes from bankrupt track league have now been paid - Johnson
+### 1. Fifa criticises campaign to oust president Infantino
+
+[原文] Fifa strongly criticises what it calls a "concerted and ongoing effort" to "undermine" the organisation and its president Gianni Infantino.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. Tielemans cameo against PSG hints at Man Utd future
+
+[原文] Manchester United's £35m signing Youri Tielemans makes an impressive debut in the 1-1 friendly draw against Paris St-Germain in Gothenburg.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ce34k3qve4no?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. Athletes from bankrupt track league have now been paid - Johnson
 
 [原文] Four-time Olympic champion Michael Johnson speaks publicly for the first time since Grand Slam Track went bankrupt, and clarifies details of payments to himself and athletes.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/c9q9p9n2xqgo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Garcia hopes long-term friend Alonso's Chelsea finish second to Liverpool
+### 4. Jaissle starts with win but not planning to 'smash locker room'
 
-[原文] As two Liverpool legends meet in pre-season, Luis Garcia says he hopes Xabi Alonso's Chelsea finish behind their former club in the Premier League.
+[原文] It was a night which ended with Newcastle United lifting a trophy, but there was certainly no danger of head coach Matthias Jaissle getting carried away.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c4gj9j7yv9do?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c3049pl53yyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Vollering wins stage to claim Tour lead before final day
+### 5. Simpson avenges only loss in Williamson rematch
 
-[原文] Demi Vollering races clear to win stage eight of the Tour de France Femmes and snatch the leader's yellow jersey with just one stage remaining.
+[原文] Callum Simpson reclaims the British and Commonwealth super-middleweight titles as he earns a unanimous decision in his rematch with Troy Williamson.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cycling/articles/cvg8jedd8x1o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. Rockets beat MI London to reach knockout stage
-
-[原文] Trent Rockets book their place in the knockout stages of the men's Hundred with a six-wicket victory against MI London at The Oval.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c1j1e46j59xo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Eight-try Wigan thump Toulouse to move into second
-
-[原文] Try-machine Zach Eckersley and Liam Marshall both score twice as Wigan Warriors beat Toulouse Olympique 48-18 to go second in Super League.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-league/articles/ce3qz1p47p2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/articles/c7vgjdry18jo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Anthony Michael Hall Says John Hughes Wanted a ‘Breakfast Club’ Sequel Where the Original Cast Is ‘In Their 30s’
+### 1. Gina Prince-Bythewood Discusses the Worldbuilding of ‘Children of Blood and Bone’ and Praises Author Tomi Adeyemi as a ‘Genius’
 
-[原文] “The Breakfast Club” star Anthony Michael Hall said during a recent appearance on “The Rich Eisen Show” that director John Hughes wanted a sequel in which the group of troubled teens reunites as adult
+[原文] For the opening night of the 24th annual Martha’s Vineyard African American Film Festival (MVAAFF), “Children of Blood and Bone” director Gina Prince-Bythewood and star Thuso Mbedu shared never-before
 
-📎 [阅读原文](https://variety.com/2026/film/news/anthony-michael-hall-john-hughes-breakfast-club-sequel-1236830655/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/gina-prince-bythewood-children-of-blood-and-bone-tomi-adeyemi-mvaaff-1236830592/) — *Variety*
 
-### 2. ‘Cookie Queens’ Review: A Doc About Girl Scout Cookies, Produced by Meghan Markle and Prince Harry, Is Too Much of a Reality-Show Ramble
+### 2. Andrew Lloyd Webber Is ‘Gutted’ on ‘Cats: The Jellicle Ball’ Closing Night: Producing on Broadway Is ‘Unsustainable’
 
-[原文] As a director, Alysa Nahmias thinks like a reality-show producer — she frames the movie as a contest, inviting us to chortle in admiration at what eager-beaver achievers all four girls are. "Cookie Qu
+[原文] Ahead of tonight&#8217;s final &#8220;Cats: The Jellicle Ball&#8221; show, composer Andrew Lloyd Webber is speaking out about how producing on Broadway has become &#8220;unsustainable.&#8221; “I’m gut
 
-📎 [阅读原文](https://variety.com/2026/film/reviews/cookie-queens-review-prince-harry-meghan-markle-1236830251/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/legit/news/andrew-lloyd-webber-cats-the-jellicle-ball-closing-night-1236830708/) — *Variety*
 
-### 3. Bill Maher’s Joke About Ariana Grande’s Weight Draws Groans From ‘Real Time’ Audience
+### 3. Warner Bros. Uses AI Dog Podcast to Promote ‘The End of Oak Street’: ‘Ewan McGregor Was Excellent With Treats’
 
-[原文] Bill Maher made a joke about Ariana Grande’s weight during Friday’s episode of “Real Time,” and drew mixed reactions from his live audience. “I hope the aliens are here, I do. I hope they’re here and 
+[原文] Warner Bros. has teamed with the AI dog podcast “DogPack” to promote its upcoming sci-fi action film “The End of Oak Street.” The 90-second podcast clip, hosted by an AI golden retriever named Goldie 
 
-📎 [阅读原文](https://variety.com/2026/tv/news/bill-maher-joke-ariana-grande-weight-real-time-1236830643/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/warner-bros-ai-dog-podcast-the-end-of-oak-street-1236830713/) — *Variety*
 
-### 4. Giovanni Tortorici on Working With Monica Bellucci Who Plays an ‘Eccentric’ Aristocratic Matron in His Luca Guadagnino-Produced Film ‘Ketticè’
+### 4. Perez Hilton ‘Will Require Surgery’ After Live Stream Incident, Family Demands Media ‘Cease Photographing Perez’s Children’
 
-[原文] Emerging Italian director Giovanni Tortorici, whose feature debut “Diciannove” made a splash last year after launcing from the Venice Horizons section, is in competition at the Locarno Film Festival w
+[原文] Perez Hilton’s family released a statement on Saturday updating fans about the blogger’s health after he appeared to commit self-harm during a TikTok livestream. “Perez’s condition remains serious but
 
-📎 [阅读原文](https://variety.com/2026/film/festivals/giovanni-tortorici-monica-bellucci-luca-guadagnino-kettice-1236828928/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/perez-hilton-update-surgery-live-stream-family-statement-1236830699/) — *Variety*
 
-### 5. Olivia Wilde Says She’s Become ‘So Much More Romantic’ Because of ‘The Invite’: ‘It Melted the Cynic Out of Me’
+### 5. ‘Abbott Elementary’ Stars Sheryl Lee Ralph and Janelle James on the Paramount-Warner Bros. Merger: ‘We’ve Lost Too Many People’
 
-[原文] Olivia Wilde said she has become “so much more romantic” because of “The Invite.” “It’s melted the cynic out of me,” she said at Switzerand&#8217;s Locarno Film Festival . “I have spoken to people who
+[原文] As “Abbott Elementary” gears up for Season 6 production in just a few short weeks, stars Sheryl Lee Ralph, Janelle James and Luke Tennie are reflecting on turbulent changes in the industry — from the 
 
-📎 [阅读原文](https://variety.com/2026/film/global/olivia-wilde-the-invite-locarno-seth-rogen-1236830606/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/scene/news/abbott-elementary-sheryl-lee-ralph-janelle-james-paramount-1236830682/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Asus ROG XReal R1 XR Glasses Review
+### 1. Mortal Kombat Director 'Not Sure' About Return for Third Movie as Mortal Kombat 3 Remains in Limbo
+
+[原文] Mortal Kombat movie director Simon McQuoid has cast doubt on his return to the franchise as work on a third movie remains in limbo.
+
+📎 [阅读原文](https://www.ign.com/articles/mortal-kombat-director-not-sure-about-return-for-third-movie-as-mortal-kombat-3-remains-in-limbo) — *IGN*
+
+### 2. Freddy Fazbear's Pizza Opening Permanent Location Featuring Animatronic Stage Shows in 2027
+
+[原文] Freddy Fazbear's Pizza is coming to life thanks to a new collaboration between Five Nights at Freddy's and entertainment and retail center American Dream.
+
+📎 [阅读原文](https://www.ign.com/articles/freddy-fazbears-pizza-opening-permanent-location-featuring-animatronic-stage-shows-in-2027) — *IGN*
+
+### 3. 'They Fundamentally Don't Understand Art' — Doom Dev Blasts Xbox After Microsoft 'Gutted' id Software With Layoffs
+
+[原文] After layoffs ripped through Doom developer id Software in July, lead services programmer Chris Hays has taken aim at Xbox: "They fundamentally don't understand art."
+
+📎 [阅读原文](https://www.ign.com/articles/they-fundamentally-dont-understand-art-doom-dev-blasts-xbox-after-microsoft-gutted-id-software-with-layoffs) — *IGN*
+
+### 4. The Best Deals Today: AirPods Pro 3, LEGO Back to the Future, Saros, and More
 
 暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/asus-rog-xreal-r1-xr-glasses-review) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/best-deals-for-august-8-2026) — *IGN*
 
-### 2. Sega Is Auctioning Off Shadow The Hedgehog's Real-Life Motorcycle For a Good Cause
+### 5. Bart Simpson Actress Nancy Cartwright Believes The Simpsons Will End With Season 40
 
-[原文] Sega is auctioning off Shadow the Hedgehog’s real-life Dark Rider motorcycle and giving the proceeds to charity.
+[原文] The Simpsons may only have a few seasons left, according to Bart actress Nancy Cartwright.
 
-📎 [阅读原文](https://www.ign.com/articles/sega-is-auctioning-off-shadow-the-hedgehogs-real-life-motorcycle-for-a-good-cause) — *IGN*
-
-### 3. Jeff VanderMeer Reveals Annihilation Sequel Abdication, the Final Part of the Southern Reach Series
-
-[原文] Southern Reach creator Jeff VanderMeer has revealed Abdication, the fifth and final book in the series that began with 2014's Annihilation.
-
-📎 [阅读原文](https://www.ign.com/articles/jeff-vandermeer-reveals-annihilation-sequel-abdication-the-final-part-of-the-southern-reach-series) — *IGN*
-
-### 4. Marvel Tokon Stumbles to Mixed Steam Reviews as 'Miserable' PC Port Complaints Prompt Response From Arc System Works
-
-[原文] Marvel Tokon: Fighting Souls stumbled on Steam with "Mixed" user reviews as players complain of PlayStation account requirements, anti-cheat roadblocks, and other technical issues.
-
-📎 [阅读原文](https://www.ign.com/articles/marvel-tokon-stumbles-to-mixed-steam-reviews-as-miserable-pc-port-complaints-prompt-response-from-arc-system-works) — *IGN*
-
-### 5. Dwayne Johnson Reacts to Negative Moana Reviews After Disney's Live-Action Remake Bombs
-
-[原文] Dwayne "The Rock" Johnson shared his thoughts about the negative reviews for Disney's live-action Moana remake after it floundered in theaters.
-
-📎 [阅读原文](https://www.ign.com/articles/dwayne-johnson-reacts-to-negative-moana-reviews-after-disneys-live-action-remake-bombs) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/bart-simpson-actress-nancy-cartwright-believes-the-simpsons-will-end-with-season-40) — *IGN*
 
 ---
 
@@ -528,6 +528,7 @@ The post Does Your Car Even Fit In Your Garage? appeared first on The Drive.
 ## ⚠️ 今日故障源
 
 - **🚗 汽车**: Autocar
+- **✈️ 旅游**: Nomadic Matt
 
 ---
 
