@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月09日** | 生成时间: 2026-08-09 15:01
+**2026年08月09日** | 生成时间: 2026-08-09 20:57
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Israel accused of weaponising archaeology at ancient West Bank sites
+### 1. Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
+
+[原文] Israel's PM says its military will not pull-out from Gaza until Hamas is "genuinely" disarmed.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Ancient Roman shipwreck discovered off Sicily coast
+
+[原文] Italy's culture minister says it is one of the most important underwater archaeological finds in years.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. Fifa criticises campaign to oust president Infantino
+
+[原文] Fifa strongly criticises what it calls a "concerted and ongoing effort" to "undermine" the organisation and its president Gianni Infantino.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. Israel accused of weaponising archaeology at ancient West Bank sites
 
 [原文] Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Hundreds arrested over French wildfires, but who is to blame?
+### 5. Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation
 
-[原文] The government is trying to attribute blame for the unprecedented fires which tore through the country last month.
+[原文] The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 3. Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-
-[原文] Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Perez Hilton faces long recovery after reports he self-harmed during livestream
-
-[原文] The US blogger is in a "serious but stable" condition in hospital, according to his family.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general
-
-[原文] The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Iran sets conditions for opening Strait of Hormuz after UAE says one of its ships was targeted by airstrike
+### 1. How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta
 
-[原文] Iran's military stressed that the crucial waterway would only be reopened when the U.S. accepts Iran's conditions.
+[原文] The rogue AI attacks involving OpenAI, Anthropic and Meta all tied back to a small Israeli startup named Irregular.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/08/uae-ship-targeted-missile-us-iran-tensions-stay-high.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html) — *CNBC*
 
-### 2. Myspace eyes comeback as an an 'antidote' to social media fatigue — but it may be a long shot
+### 2. Myspace eyes comeback as an 'antidote' to social media fatigue — but it may be a long shot
 
 [原文] "Excitement about Myspace's relaunch reflects nostalgia for a more analog time, when algorithms were less dominant in our lives," an analyst told CNBC.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/09/myspace-comeback-rival-social-media-giants.html) — *CNBC*
 
-### 3. Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive cash hoard
+### 3. Abel puts a big chunk of Berkshire's cash to work
+
+[原文] In his second quarter as the new CEO of Berkshire Hathaway, Greg Abel did some serious spending, including $4.5 billion on buybacks.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/09/abel-puts-a-big-chunk-of-berkshires-cash-to-work.html) — *CNBC*
+
+### 4. Saudi Aramco extinguishes fire at refinery as Houthis claim responsibility
+
+[原文] Iran's foreign minister reportedly said his country is not engaging in talks with the U.S., but added: "Messages are being exchanged through intermediaries."
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/09/saudi-aramco-extinguishes-refinery-fire-houthis-claim-attack.html) — *CNBC*
+
+### 5. Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive cash hoard
 
 [原文] Strength across its energy, railroad and manufacturing businesses more than offset weaker insurance results.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html) — *CNBC*
-
-### 4. Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'
-
-[原文] The Black Hat cybersecurity conference in Las Vegas couldn't have come at a better time, with AI agent hacks stacking up from Anthropic, Meta and OpenAI.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html) — *CNBC*
-
-### 5. Verizon mobile service restored after outage for thousands of customers in the U.S.
-
-[原文] Customers still having trouble with their service should restart their devices, the wireless carrier said. Verizon did not provide ⁠a reason for ⁠the outage.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/08/verizon-mobile-outage-downdetector.html) — *CNBC*
 
 ---
 
@@ -130,35 +130,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Cutting sweet foods doesn’t curb cravings or improve health
+### 1. 60,000-year-old ostrich eggshell engravings reveal a surprisingly sophisticated human mind
 
-[原文] Changing how much sweet-tasting food people eat may not change how much they crave or enjoy sweetness after all. In a six-month trial, researchers found that people assigned to high-, low-, or average
+[原文] More than 60,000 years ago, humans in southern Africa were engraving ostrich eggshells with intricate geometric patterns that appear far more organized than previously realized. Researchers found recu
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260807235103.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260808235013.htm) — *Science Daily*
 
-### 2. Meteorite that smashed through a New Jersey roof reveals clues to life’s origins
+### 2. Wine, beer, or spirits? Massive study finds a surprising health divide
 
-[原文] A rare meteorite that crashed through a New Jersey roof contains evidence of ancient salty fluids, organic compounds, and amino acids from a primitive asteroid. Its pristine chemistry could offer new 
+[原文] A study tracking more than 340,000 adults for over a decade found that heavy drinking increased the risk of death regardless of beverage type. At lower levels, however, the picture became more surpris
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260807035145.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260808235008.htm) — *Science Daily*
 
-### 3. The sun is covered in tiny whirlpools we’ve never seen before
+### 3. Frequent cannabis users wake up with their “stress hormone” already elevated
 
-[原文] Scientists have discovered incredibly tiny plasma whirlpools swirling across the Sun’s surface, some just 20 kilometers wide. These previously invisible vortices may twist magnetic fields and help bui
+[原文] Frequent cannabis users may wake up with unusually high levels of the stress hormone cortisol, suggesting their daily stress rhythms could be disrupted. Researchers say the finding raises questions ab
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260807035142.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260808234953.htm) — *Science Daily*
 
-### 4. New fuel cell breakthrough could help power energy-hungry data centers
+### 4. For decades, we were told to choose low-fat dairy. New research says otherwise
 
-[原文] A new nanostructured carbon design lets fuel-cell catalysts use tiny amounts of platinum while remaining remarkably stable and efficient. The breakthrough could help hydrogen fuel cells become a more 
+[原文] Full-fat dairy may be healthier than conventional advice has suggested. In a 12-week study, adults who ate three servings a day showed no meaningful increases in weight, body fat, cholesterol, or insu
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260807035140.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260808234948.htm) — *Science Daily*
 
-### 5. Sunlight creates quantum entanglement once thought to require lasers
+### 5. A 0.42-nanometer breakthrough could push transistors beyond silicon
 
-[原文] Scientists have generated quantum entanglement directly from sunlight, potentially offering a lower-energy alternative to the lasers normally used in quantum technology. Their outdoor experiment produ
+[原文] Atomically thin semiconductors could enable dramatically smaller and more efficient chips, but a stubborn problem at the boundary between materials has limited their performance. Researchers have now 
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260807035133.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260808234943.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Fifa criticises campaign to oust president Infantino
+### 1. Carrington makes 'white privilege' post after ejection
 
-[原文] Fifa strongly criticises what it calls a "concerted and ongoing effort" to "undermine" the organisation and its president Gianni Infantino.
+[原文] Chicago Sky guard DiJonai Carrington is ejected from her side's defeat by Indiana Fever for committing a hard foul, before taking to social media to post "white privilege".
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/basketball/articles/cd0x3dye57ko?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Tielemans cameo against PSG hints at Man Utd future
+### 2. Man Utd working on deal to sign Leicester teenager Page
+
+[原文] Manchester United are working on a deal to sign Leicester teenager Louis Page.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c5y4qpjqd7qo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. What are your favourite new kits for the coming season?
+
+[原文] BBC Sport has rounded up some of the best new kits released by clubs around the world over the summer - vote for your top 10
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c4g630klknjo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. Tielemans cameo against PSG hints at Man Utd future
 
 [原文] Manchester United's £35m signing Youri Tielemans makes an impressive debut in the 1-1 friendly draw against Paris St-Germain in Gothenburg.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ce34k3qve4no?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. New season, new boss - will Alexander-Arnold be key figure at Real Madrid?
+### 5. Unmasking London City's Spanish superstar
 
-[原文] Trent Alexander-Arnold faces a defining second season at Real Madrid as he looks to prove his worth under Jose Mourinho.
+[原文] Alexia Putellas' arrival at London City Lionesses was the biggest transfer in WSL history - but who is the person behind the global stardom?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c78gvzvwql0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. Jaissle starts with win but not planning to 'smash locker room'
-
-[原文] It was a night which ended with Newcastle United lifting a trophy, but there was certainly no danger of head coach Matthias Jaissle getting carried away.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c3049pl53yyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Money problems and broken dreams - why is it so hard to run a cycling team?
-
-[原文] The Hess women's cycling team was owned by a rich benefactor with a background in high finance - so how did they end up failing to pay riders and staff?
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/cycling/articles/c20d8redpyxo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c8en56r919ro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Mahesh Babu’s Look in S.S. Rajamouli’s ‘Varanasi’ Unveiled
+### 1. ‘Our Time Will Come’ Review: Two Orphans Journey to Accra to Find Their Kin in an Emotionally Absorbing Ghanaian Drama
+
+[原文] Elements of “Oliver Twist” are given a West African update in “Our Time Will Come,” an atmospheric and emotionally absorbing feature debut from writer-director Amartei Armar, who thankfully cares too 
+
+📎 [阅读原文](https://variety.com/2026/film/reviews/our-time-will-come-review-1236830797/) — *Variety*
+
+### 2. ‘Donkey Princess’ Review: A Princess Escapes the Kingdom, but Not the Patriarchy, in an Inventive, Shape-Shifting Fairytale
+
+[原文] Chilean duo Cristobal León and Joaquín Cociña made a dream nightmare debut with &#8220;The Wolf House,&#8221; a stop-motion fantasy that turned heads both with its wholly original design — incorporati
+
+📎 [阅读原文](https://variety.com/2026/film/news/donkey-princess-review-1236830559/) — *Variety*
+
+### 3. Naseeruddin Shah, Gurvinder Singh Turn a Village’s Real Grief Into Locarno Competition Title ‘Rehmat’: ‘It’s Important That These Films Get Made’
+
+[原文] The family living in the house that &#8220;Rehmat&#8221; uses as Rashid Ali&#8217;s ancestral home lost a son to a drug overdose shortly after Indian filmmaker Gurvinder Singh and his crew first met t
+
+📎 [阅读原文](https://variety.com/2026/film/festivals/naseeruddin-shah-gurvinder-singh-rehmat-locarno-1236830761/) — *Variety*
+
+### 4. Mahesh Babu’s Look in S.S. Rajamouli’s ‘Varanasi’ Unveiled
 
 [原文] Two new character stills of Mahesh Babu from S.S. Rajamouli&#8217;s &#8220;Varanasi&#8221; were released Sunday to mark the actor&#8217;s birthday, showing his character Rudhra on location in Africa. 
 
 📎 [阅读原文](https://variety.com/2026/film/news/mahesh-babu-look-ss-rajamouli-varanasi-1236830753/) — *Variety*
 
-### 2. Whitney Houston Gets Her Own Barbie, Recreating Iconic ‘I Wanna Dance With Somebody’ Look
+### 5. Whitney Houston Gets Her Own Barbie, Recreating Iconic ‘I Wanna Dance With Somebody’ Look
 
 [原文] Whitney Houston is ready to dance with somebody &#8212; in Barbieland. Mattel is honoring the late pop icon with a new Barbie Signature doll inspired by Houston’s colorful look from the 1987 music vid
 
 📎 [阅读原文](https://variety.com/2026/shopping/news/whitney-houston-barbie-buy-online-1236830603/) — *Variety*
-
-### 3. Gina Prince-Bythewood Discusses the Worldbuilding of ‘Children of Blood and Bone’ and Praises Author Tomi Adeyemi as a ‘Genius’
-
-[原文] For the opening night of the 24th annual Martha’s Vineyard African American Film Festival (MVAAFF), “Children of Blood and Bone” director Gina Prince-Bythewood and star Thuso Mbedu shared never-before
-
-📎 [阅读原文](https://variety.com/2026/film/news/gina-prince-bythewood-children-of-blood-and-bone-tomi-adeyemi-mvaaff-1236830592/) — *Variety*
-
-### 4. Andrew Lloyd Webber Is ‘Gutted’ on ‘Cats: The Jellicle Ball’ Closing Night: Producing on Broadway Is ‘Unsustainable’
-
-[原文] Ahead of tonight&#8217;s final &#8220;Cats: The Jellicle Ball&#8221; show, composer Andrew Lloyd Webber is speaking out about how producing on Broadway has become &#8220;unsustainable.&#8221; “I’m gut
-
-📎 [阅读原文](https://variety.com/2026/legit/news/andrew-lloyd-webber-cats-the-jellicle-ball-closing-night-1236830708/) — *Variety*
-
-### 5. Warner Bros. Uses AI Dog Podcast to Promote ‘The End of Oak Street’: ‘Ewan McGregor Was Excellent With Treats’
-
-[原文] Warner Bros. has teamed with the AI dog podcast “DogPack” to promote its upcoming sci-fi action film “The End of Oak Street.” The 90-second podcast clip, hosted by an AI golden retriever named Goldie 
-
-📎 [阅读原文](https://variety.com/2026/film/news/warner-bros-ai-dog-podcast-the-end-of-oak-street-1236830713/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Mortal Kombat Director 'Not Sure' About Return for Third Movie as Mortal Kombat 3 Remains in Limbo
+### 1. 'If You're Not a Netflix Subscriber, You Definitely Should Be' — Take-Two Boss Teases Grand Theft Auto VI: An Extended Look
+
+[原文] Take-Two Boss Strauss Zelnick discusses Grand Theft Auto VI: An Extended Look Netflix reveal.
+
+📎 [阅读原文](https://www.ign.com/articles/if-youre-not-a-netflix-subscriber-you-definitely-should-be-take-two-boss-teases-grand-theft-auto-vi-an-extended-look) — *IGN*
+
+### 2. Mortal Kombat Director 'Not Sure' About Return for Third Movie as Mortal Kombat 3 Remains in Limbo
 
 [原文] Mortal Kombat movie director Simon McQuoid has cast doubt on his return to the franchise as work on a third movie remains in limbo.
 
 📎 [阅读原文](https://www.ign.com/articles/mortal-kombat-director-not-sure-about-return-for-third-movie-as-mortal-kombat-3-remains-in-limbo) — *IGN*
 
-### 2. Freddy Fazbear's Pizza Opening Permanent Location Featuring Animatronic Stage Shows in 2027
+### 3. Freddy Fazbear's Pizza Opening Permanent Location Featuring Animatronic Stage Shows in 2027
 
 [原文] Freddy Fazbear's Pizza is coming to life thanks to a new collaboration between Five Nights at Freddy's and entertainment and retail center American Dream.
 
 📎 [阅读原文](https://www.ign.com/articles/freddy-fazbears-pizza-opening-permanent-location-featuring-animatronic-stage-shows-in-2027) — *IGN*
 
-### 3. 'They Fundamentally Don't Understand Art' — Doom Dev Blasts Xbox After Microsoft 'Gutted' id Software With Layoffs
+### 4. 'They Fundamentally Don't Understand Art' — Doom Dev Blasts Xbox After Microsoft 'Gutted' id Software With Layoffs
 
 [原文] After layoffs ripped through Doom developer id Software in July, lead services programmer Chris Hays has taken aim at Xbox: "They fundamentally don't understand art."
 
 📎 [阅读原文](https://www.ign.com/articles/they-fundamentally-dont-understand-art-doom-dev-blasts-xbox-after-microsoft-gutted-id-software-with-layoffs) — *IGN*
 
-### 4. The Best Deals Today: AirPods Pro 3, LEGO Back to the Future, Saros, and More
+### 5. The Best Deals Today: AirPods Pro 3, LEGO Back to the Future, Saros, and More
 
 暂无摘要。
 
 📎 [阅读原文](https://www.ign.com/articles/best-deals-for-august-8-2026) — *IGN*
-
-### 5. Bart Simpson Actress Nancy Cartwright Believes The Simpsons Will End With Season 40
-
-[原文] The Simpsons may only have a few seasons left, according to Bart actress Nancy Cartwright.
-
-📎 [阅读原文](https://www.ign.com/articles/bart-simpson-actress-nancy-cartwright-believes-the-simpsons-will-end-with-season-40) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post Does Your Car Even Fit In Your Garage? appeared first on The Drive.
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Massive Wildfires Test the Limits of International Cooperation
+### 1. A Very American Invention, Pushed to an Extreme
+
+[原文] HAIGLER, Neb.—The far southwestern corner of this state unfurls in a rolling sea of dusky-green prairie where cattle have outnumbered people for generations. A sign along U.S. Highway 34, just before 
+
+📎 [阅读原文](https://insideclimatenews.org/news/09082026/blackshirt-building-nations-largest-beef-feedlot-in-nebraska/) — *Inside Climate News*
+
+### 2. As US Offshore Wind Disappears, a Generation of Workers Is Left Behind
+
+[原文] When Gerard Mullin decided to train in offshore wind, he didn’t know what to expect. But on his first long-term project in Massachusetts, he immediately relished the consistency of the work, the good 
+
+📎 [阅读原文](https://insideclimatenews.org/news/09082026/us-offshore-wind-disappears-leaving-workers-behind/) — *Inside Climate News*
+
+### 3. Massive Wildfires Test the Limits of International Cooperation
 
 [原文] When wildfires began raging across France and Spain last month, the European Union sent aircraft and firefighters from nine other countries. The Pacific Northwest, where fires have forced tens of thou
 
 📎 [阅读原文](https://insideclimatenews.org/news/08082026/wildfires-test-international-cooperation/) — *Inside Climate News*
 
-### 2. Natural Gas Dominates PJM’s First Reformed Grid Queue, Driven by Data-Center Demand
+### 4. Natural Gas Dominates PJM’s First Reformed Grid Queue, Driven by Data-Center Demand
 
 [原文] Natural gas surged to the top in the first round of power projects accepted into PJM Interconnection’s reformed interconnection process, making up nearly half of the more than 200 gigawatts of capacit
 
 📎 [阅读原文](https://insideclimatenews.org/news/08082026/gas-dominates-pjm-interconnections-reformed-grid-queue/) — *Inside Climate News*
 
-### 3. Alabama Seeks to Lower Gas Utility Profits for the First Time in 40 Years
+### 5. Alabama Seeks to Lower Gas Utility Profits for the First Time in 40 Years
 
 [原文] MONTGOMERY, Ala.—For the first time in more than 40 years, Alabama utility regulators this week convened formal hearings to potentially decrease profits for one of the state’s major monopoly utilities
 
 📎 [阅读原文](https://insideclimatenews.org/news/08082026/alabama-regulators-cut-gas-utility-profits/) — *Inside Climate News*
-
-### 4. A Minnesota Dairy Company’s Rapid Expansion Is Prompting Lawsuits Against Regulators
-
-[原文] As Riverview LLP aggressively expands its mega-dairies across the Upper Midwest, advocacy groups and worried residents are mounting legal challenges and orchestrating local efforts to push back. The M
-
-📎 [阅读原文](https://insideclimatenews.org/news/07082026/minnesota-riverview-dairy-expansion-prompts-lawsuits-against-regulators/) — *Inside Climate News*
-
-### 5. Trump Promotes Commercial Fishing in Protected Pacific Marine National Monuments
-
-[原文] President Donald Trump is seeking to reverse significant ocean protections by allowing commercial fishing in three Pacific marine national monuments President George W. Bush established in the early 2
-
-📎 [阅读原文](https://insideclimatenews.org/news/07082026/commercial-fishing-in-protected-pacific-marine-national-monuments/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post Does Your Car Even Fit In Your Garage? appeared first on The Drive.
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Madonna Pays Tribute to Producer William Orbit: ‘You Were My Ray of Light’
+### 1. Drake Turns Kick Stream Into a 20-v-1 Dating Show, Warns Rap Rivals His ‘Pen Isn’t Dry’
+
+[原文] Inside the rapper’s wild ride of a livestream, featuring Lena the Plug, an Hermès giveaway, and apparent subliminals involving Lil Yachty and Roc Nation.
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/drake-kick-stream-recap-1235605965/) — *Rolling Stone*
+
+### 2. Madonna Pays Tribute to Producer William Orbit: ‘You Were My Ray of Light’
 
 [原文] "You pressed a magic button inside of me and I fell into a galaxy of unrealized dreams," singer writes of her longtime collaborator following his death at the age of 69
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/madonna-tribute-ray-of-light-producer-william-orbit-1235605882/) — *Rolling Stone*
 
-### 2. Taylor Swift Removes ‘August’ From Team Trump TikTok Video
+### 3. Taylor Swift Removes ‘August’ From Team Trump TikTok Video
 
 [原文] Days after Trump-affiliated account once again antagonistically uses singer’s music, the Folklore track was stripped by “the copyright owner”
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/taylor-swift-removes-august-team-trump-tiktok-video-1235605878/) — *Rolling Stone*
 
-### 3. Morrissey Cancels Las Vegas Residency Due to ‘Unforeseen Logistical Challenges’
+### 4. Morrissey Cancels Las Vegas Residency Due to ‘Unforeseen Logistical Challenges’
 
 [原文] Notorious concert canceler nixes four-night stand at the Wynn a week before residency and after many fans already booked travel and accommodations
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/morrissey-cancels-las-vegas-residency-logistical-challenges-1235605869/) — *Rolling Stone*
 
-### 4. Meshell Ndegeocello, Cat Power Give Human League’s ‘Don’t You Want Me’ a Reggae Rework
+### 5. Meshell Ndegeocello, Cat Power Give Human League’s ‘Don’t You Want Me’ a Reggae Rework
 
 [原文] Unlikely duet previews Synonym, an ambitious covers album featuring Cynthia Erivo, Chaka Khan, Brandi Carlile, and WILLOW
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/meshell-ndegeocello-cat-power-human-league-1235605666/) — *Rolling Stone*
-
-### 5. Katseye’s Sophia Laforteza Announces Hiatus From Group
-
-[原文] “Making this decision wasn’t easy, but I’m learning that health has to come first”
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/katseye-sophie-break-hiatus-1235605430/) — *Rolling Stone*
 
 ---
 
@@ -528,7 +528,7 @@ The post Does Your Car Even Fit In Your Garage? appeared first on The Drive.
 ## ⚠️ 今日故障源
 
 - **🚗 汽车**: Autocar
-- **✈️ 旅游**: Nomadic Matt, Travel Off Path
+- **✈️ 旅游**: Nomadic Matt
 
 ---
 
