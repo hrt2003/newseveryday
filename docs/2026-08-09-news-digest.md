@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月09日** | 生成时间: 2026-08-09 09:59
+**2026年08月09日** | 生成时间: 2026-08-09 15:01
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Hormuz talks positive, Oman says, as Iran warns deal would not open strait
+### 1. Israel accused of weaponising archaeology at ancient West Bank sites
+
+[原文] Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Hundreds arrested over French wildfires, but who is to blame?
+
+[原文] The government is trying to attribute blame for the unprecedented fires which tore through the country last month.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 
 [原文] Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general
+### 4. Perez Hilton faces long recovery after reports he self-harmed during livestream
+
+[原文] The US blogger is in a "serious but stable" condition in hospital, according to his family.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general
 
 [原文] The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 3. US offers $1bn to Colombia on new right-wing president's first day of office
-
-[原文] Abelardo de la Espriella used his maiden speech to promise an "all-out war" on what he calls "narco-terrorism".
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Messi's father Jorge dies aged 68 after illness
-
-[原文] Lionel Messi's father and agent Jorge dies at the age of 68 following a long illness.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Madonna pays tribute to 'genius, otherworldly' producer William Orbit
-
-[原文] The Queen of Pop worked with Orbit several times over the years, most notably on her genre-bending, Grammy Award-winning album Ray of Light.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -60,11 +60,11 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/08/uae-ship-targeted-missile-us-iran-tensions-stay-high.html) — *CNBC*
 
-### 2. Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'
+### 2. Myspace eyes comeback as an an 'antidote' to social media fatigue — but it may be a long shot
 
-[原文] The Black Hat cybersecurity conference in Las Vegas couldn't have come at a better time, with AI agent hacks stacking up from Anthropic, Meta and OpenAI.
+[原文] "Excitement about Myspace's relaunch reflects nostalgia for a more analog time, when algorithms were less dominant in our lives," an analyst told CNBC.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/09/myspace-comeback-rival-social-media-giants.html) — *CNBC*
 
 ### 3. Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive cash hoard
 
@@ -72,17 +72,17 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html) — *CNBC*
 
-### 4. Verizon mobile service restored after outage for thousands of customers in the U.S.
+### 4. Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'
+
+[原文] The Black Hat cybersecurity conference in Las Vegas couldn't have come at a better time, with AI agent hacks stacking up from Anthropic, Meta and OpenAI.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html) — *CNBC*
+
+### 5. Verizon mobile service restored after outage for thousands of customers in the U.S.
 
 [原文] Customers still having trouble with their service should restart their devices, the wireless carrier said. Verizon did not provide ⁠a reason for ⁠the outage.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/08/verizon-mobile-outage-downdetector.html) — *CNBC*
-
-### 5. Hunter Biden says Joe Biden’s cancer has spread further and is ‘very painful’
-
-[原文] "The cancer has spread, is metastasized into his bones and further. It's very painful. It's very debilitating in many respects," Hunter Biden said.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/08/hunter-biden-says-joe-bidens-cancer-has-spread-is-very-debilitating.html) — *CNBC*
 
 ---
 
@@ -180,11 +180,11 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ce34k3qve4no?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Athletes from bankrupt track league have now been paid - Johnson
+### 3. New season, new boss - will Alexander-Arnold be key figure at Real Madrid?
 
-[原文] Four-time Olympic champion Michael Johnson speaks publicly for the first time since Grand Slam Track went bankrupt, and clarifies details of payments to himself and athletes.
+[原文] Trent Alexander-Arnold faces a defining second season at Real Madrid as he looks to prove his worth under Jose Mourinho.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/c9q9p9n2xqgo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c78gvzvwql0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ### 4. Jaissle starts with win but not planning to 'smash locker room'
 
@@ -192,11 +192,11 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c3049pl53yyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Simpson avenges only loss in Williamson rematch
+### 5. Money problems and broken dreams - why is it so hard to run a cycling team?
 
-[原文] Callum Simpson reclaims the British and Commonwealth super-middleweight titles as he earns a unanimous decision in his rematch with Troy Williamson.
+[原文] The Hess women's cycling team was owned by a rich benefactor with a background in high finance - so how did they end up failing to pay riders and staff?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/articles/c7vgjdry18jo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cycling/articles/c20d8redpyxo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Gina Prince-Bythewood Discusses the Worldbuilding of ‘Children of Blood and Bone’ and Praises Author Tomi Adeyemi as a ‘Genius’
+### 1. Mahesh Babu’s Look in S.S. Rajamouli’s ‘Varanasi’ Unveiled
+
+[原文] Two new character stills of Mahesh Babu from S.S. Rajamouli&#8217;s &#8220;Varanasi&#8221; were released Sunday to mark the actor&#8217;s birthday, showing his character Rudhra on location in Africa. 
+
+📎 [阅读原文](https://variety.com/2026/film/news/mahesh-babu-look-ss-rajamouli-varanasi-1236830753/) — *Variety*
+
+### 2. Whitney Houston Gets Her Own Barbie, Recreating Iconic ‘I Wanna Dance With Somebody’ Look
+
+[原文] Whitney Houston is ready to dance with somebody &#8212; in Barbieland. Mattel is honoring the late pop icon with a new Barbie Signature doll inspired by Houston’s colorful look from the 1987 music vid
+
+📎 [阅读原文](https://variety.com/2026/shopping/news/whitney-houston-barbie-buy-online-1236830603/) — *Variety*
+
+### 3. Gina Prince-Bythewood Discusses the Worldbuilding of ‘Children of Blood and Bone’ and Praises Author Tomi Adeyemi as a ‘Genius’
 
 [原文] For the opening night of the 24th annual Martha’s Vineyard African American Film Festival (MVAAFF), “Children of Blood and Bone” director Gina Prince-Bythewood and star Thuso Mbedu shared never-before
 
 📎 [阅读原文](https://variety.com/2026/film/news/gina-prince-bythewood-children-of-blood-and-bone-tomi-adeyemi-mvaaff-1236830592/) — *Variety*
 
-### 2. Andrew Lloyd Webber Is ‘Gutted’ on ‘Cats: The Jellicle Ball’ Closing Night: Producing on Broadway Is ‘Unsustainable’
+### 4. Andrew Lloyd Webber Is ‘Gutted’ on ‘Cats: The Jellicle Ball’ Closing Night: Producing on Broadway Is ‘Unsustainable’
 
 [原文] Ahead of tonight&#8217;s final &#8220;Cats: The Jellicle Ball&#8221; show, composer Andrew Lloyd Webber is speaking out about how producing on Broadway has become &#8220;unsustainable.&#8221; “I’m gut
 
 📎 [阅读原文](https://variety.com/2026/legit/news/andrew-lloyd-webber-cats-the-jellicle-ball-closing-night-1236830708/) — *Variety*
 
-### 3. Warner Bros. Uses AI Dog Podcast to Promote ‘The End of Oak Street’: ‘Ewan McGregor Was Excellent With Treats’
+### 5. Warner Bros. Uses AI Dog Podcast to Promote ‘The End of Oak Street’: ‘Ewan McGregor Was Excellent With Treats’
 
 [原文] Warner Bros. has teamed with the AI dog podcast “DogPack” to promote its upcoming sci-fi action film “The End of Oak Street.” The 90-second podcast clip, hosted by an AI golden retriever named Goldie 
 
 📎 [阅读原文](https://variety.com/2026/film/news/warner-bros-ai-dog-podcast-the-end-of-oak-street-1236830713/) — *Variety*
-
-### 4. Perez Hilton ‘Will Require Surgery’ After Live Stream Incident, Family Demands Media ‘Cease Photographing Perez’s Children’
-
-[原文] Perez Hilton’s family released a statement on Saturday updating fans about the blogger’s health after he appeared to commit self-harm during a TikTok livestream. “Perez’s condition remains serious but
-
-📎 [阅读原文](https://variety.com/2026/film/news/perez-hilton-update-surgery-live-stream-family-statement-1236830699/) — *Variety*
-
-### 5. ‘Abbott Elementary’ Stars Sheryl Lee Ralph and Janelle James on the Paramount-Warner Bros. Merger: ‘We’ve Lost Too Many People’
-
-[原文] As “Abbott Elementary” gears up for Season 6 production in just a few short weeks, stars Sheryl Lee Ralph, Janelle James and Luke Tennie are reflecting on turbulent changes in the industry — from the 
-
-📎 [阅读原文](https://variety.com/2026/scene/news/abbott-elementary-sheryl-lee-ralph-janelle-james-paramount-1236830682/) — *Variety*
 
 ---
 
@@ -528,7 +528,7 @@ The post Does Your Car Even Fit In Your Garage? appeared first on The Drive.
 ## ⚠️ 今日故障源
 
 - **🚗 汽车**: Autocar
-- **✈️ 旅游**: Nomadic Matt
+- **✈️ 旅游**: Nomadic Matt, Travel Off Path
 
 ---
 
