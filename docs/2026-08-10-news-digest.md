@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月10日** | 生成时间: 2026-08-10 10:04
+**2026年08月10日** | 生成时间: 2026-08-10 15:47
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Iran denies any direct talks with U.S. on opening Strait of Hormuz as Houthis claim attack on Saudi refinery
+### 1. U.S. reaffirms grip on Hormuz blockade, turning away 55 ships as talks stall
 
-[原文] Iran's foreign minister reportedly said his country is not engaging in talks with the U.S., but added: "Messages are being exchanged through intermediaries."
+[原文] The escalating tally underscores how far the two sides remain from resolving a crisis that has choked the Strait of Hormuz for more than five months.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/09/saudi-aramco-extinguishes-refinery-fire-houthis-claim-attack.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/10/us-iran-war-trump-hormuz-oman-ships-blockade-shipping.html) — *CNBC*
 
-### 2. How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta
+### 2. Trump says oil supermajors are making too much money. What will they do with it?
+
+[原文] The windfall is fueling fresh political and environmental backlash, with Trump accusing Exxon Mobil and Chevron of making “too much money.”
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/10/oil-iran-war-profits-windfall-tax.html) — *CNBC*
+
+### 3. Australian rare earth miner surges as much as 29% after U.S. Department of War investment
+
+[原文] The Trump administration has backed plans to build an Australian scandium mine as part of a push to challenge China’s critical-minerals dominance.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/10/rare-earths-sunrise-energy-metals-trump-cina.html) — *CNBC*
+
+### 4. How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta
 
 [原文] The rogue AI attacks involving OpenAI, Anthropic and Meta all tied back to a small Israeli startup named Irregular.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html) — *CNBC*
 
-### 3. Oil rises amid uncertainty over U.S.-Iran Strait of Hormuz deal
-
-[原文] Oil rose as traders assess mixed signals from the U.S. and Iran amid worries that a deal to open the Strait of Hormuz may not be coming anytime soon.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/10/oil-prices-today-brent-wti-hormuz-trump-iran.html) — *CNBC*
-
-### 4. Abel puts a big chunk of Berkshire's cash to work
+### 5. Abel puts a big chunk of Berkshire's cash to work
 
 [原文] In his second quarter as the new CEO of Berkshire Hathaway, Greg Abel did some serious spending, including $4.5 billion on buybacks.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/09/abel-puts-a-big-chunk-of-berkshires-cash-to-work.html) — *CNBC*
-
-### 5. Myspace eyes comeback as an 'antidote' to social media fatigue — but it may be a long shot
-
-[原文] "Excitement about Myspace's relaunch reflects nostalgia for a more analog time, when algorithms were less dominant in our lives," an analyst told CNBC.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/09/myspace-comeback-rival-social-media-giants.html) — *CNBC*
 
 ---
 
@@ -174,29 +174,29 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cr7kldj1583o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. We cannot sustain the level we want - Iraola
+### 2. The team behind Hodgkinson's golden rise and the hunt for a world record
 
-[原文] After throwing away a two-goal lead for the second match in a row, Andoni Iraola says his Liverpool side "cannot sustain the level we want".
+[原文] BBC Sport looks at the team behind Great Britain 800m star Keely Hodgkinson's golden rise and pursuit of a world record.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c3r0zzpw5gjo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/cjwp3nnlgqpo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Defiant Hodgkinson says home European title would mean as much as Olympic gold
+### 3. How Liverpool are shaping up under Iraola
 
-[原文] Keely Hodgkinson will seek to prove she is still number one following a "tricky" outdoor season when she faces world-class rivals for European 800m gold in Birmingham.
+[原文] Four pre-season games is a very small sample, but Andoni Iraola is starting to put his stamp on Liverpool. So how are the Reds shaping up under their new boss?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/c5y3djlk7jdo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cx27gkmed3wo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Bonding & building - what we learned about Alonso's Chelsea in pre-season
-
-[原文] Chelsea's pre-season campaign was all about new manager Xabi Alonso, so what have we learned about his side?
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c5y62r3x213o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. McInnes left frustrated amid Rangers' poor start to season
+### 4. McInnes left frustrated amid Rangers' poor start to season
 
 [原文] Derek McInnes is still seeking a win after three games as Rangers managers and feels hard done by following a 2-1 home defeat by Hibernian and injury to big-money striker Youssef Chermiti.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c5y36vr1j2zo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 5. Mudryk's emotional return and 'leader' Palmer - inside Chelsea's pre-season
+
+[原文] Chelsea's pre-season campaign was all about new manager Xabi Alonso, so what have we learned about his side?
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c5y62r3x213o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘Widow’s Bay,’ ‘Fallout’ and ‘Hacks’ Among Set Decorators Society of America TV Award Winners
+### 1. ‘Spider-Man: Brand New Day’ Becomes Highest Grossing Hollywood Film in India
 
-[原文] &#8220;Widow&#8217;s Bay,&#8221; &#8220;Fallout,&#8221; &#8220;Hacks&#8221; and &#8220;Beef&#8221; are among the shows that took home top honors from the Set Decorators Society of America. This year&#
+[原文] UPDATED: Sony&#8217;s &#8220;Spider-Man: Brand New Day&#8221; has become the highest grossing Hollywood film in India, dethroning &#8220;Avatar: The Way of Water.&#8221; A $10.6 million weekend booste
 
-📎 [阅读原文](https://variety.com/2026/artisans/news/set-decorators-society-of-america-tv-award-winners-full-list-1236830970/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/box-office/spider-man-brand-new-day-india-box-office-record-1236827437/) — *Variety*
 
-### 2. Ben Jones, Actor Turned Politician Who Played Cooter Davenport in ‘The Dukes of Hazzard,’ Dies at 84
+### 2. ‘Primo Viaggio,’ Presented Last Year at Locarno’s Alliance 4 Development, Has Wrapped and Heading for Venice Gap-Financing Market (EXCLUSIVE)
 
-[原文] Ben Jones, the actor turned politician best known for playing Cooter Davenport on “The Dukes of Hazzard,” died on Sunday from a heart attack, according to his wife Alma Viator. He was 84. Viator annou
+[原文] Less than one year after the producers met at the Locarno Film Festival&#8217;s Alliance 4 Development co-development platform, &#8220;Primo Viaggio,&#8221; produced by Italy&#8217;s Sacher Film and F
 
-📎 [阅读原文](https://variety.com/2026/tv/news/ben-jones-dead-cooter-davenport-the-dukes-of-hazzard-1236831024/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/primo-viaggio-nanni-moretti-halley-locarno-wraps-1236830544/) — *Variety*
 
-### 3. Phoebe Bridgers Sings about Love and Death and the Whole Damn Thing in ‘Lost Weekend,’ a Captivating Record Worth the Six-Year Wait: Album Review
+### 3. ‘Letters From the Silenced Country,’ Documentary About Oppression in Belarus, Boarded by Filmotor Ahead of Venice Premiere (EXCLUSIVE)
 
-[原文] If there&#8217;s anything Phoebe Bridgers knows how to do, it&#8217;s land a punch line. There are a lot of them in &#8220;Lost Weekend,&#8221; her first solo record in six years, and she doesn&#8217;
+[原文] Filmotor has picked up world sales rights for “Letters From the Silenced Country” by Belarusian writer-director Andrei Kutsila, which has its world premiere at the Venice Film Festival. The partly ani
 
-📎 [阅读原文](https://variety.com/2026/music/album-reviews/phoebe-bridgers-lost-weekend-album-review-1236831012/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/venice-letters-from-the-silenced-country-filmotor-1236831072/) — *Variety*
 
-### 4. David Sackeroff, Emmy-Nominated ‘Seinfeld’ and ‘Home Improvement’ Production Designer, Dies at 81
+### 4. Ritesh Sidhwani and Farhan Akhtar Launch Excel Origins, Initiative to Discover Filmmakers Under 30, as India’s Excel Entertainment Marks 25th Anniversary (EXCLUSIVE)
 
-[原文] David Sackeroff, an Emmy-nominated production designer and art director known for his work on classic shows like “Seinfeld,” “Alf” and “Carol &#38; Company”, died July 10 on Bainbridge Island, Wash. H
+[原文] Excel Entertainment is marking its 25th anniversary with the launch of &#8220;Excel Origins,&#8221; an initiative from co-founders Ritesh Sidhwani and Farhan Akhtar dedicated to discovering, developin
 
-📎 [阅读原文](https://variety.com/2026/digital/news/david-sackeroff-dead-seinfeld-production-designer-1236831001/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/farhan-akhtar-ritesh-sidhwani-excel-origins-1236830778/) — *Variety*
 
-### 5. Ariana Grande Debuts at No. 1 on Album Chart With ‘Petal,’ Earning Her Best First-Week Numbers in Seven Years
+### 5. Korea Box Office: ‘The Odyssey’ Bests ‘Spider-Man: Brand New Day’
 
-[原文] Ariana Grande has earned her seventh No. 1 album on the Billboard 200 chart with &#8220;Petal,&#8221; which bows in the top spot with 295,000 equivalent album units, her best opening-week figure this 
+[原文] &#8220;The Odyssey&#8221; sailed to the top of the South Korean box office during the weekend of Aug. 7–9. According to data from KOBIS, the tracking service operated by the Korean Film Council, the C
 
-📎 [阅读原文](https://variety.com/2026/music/news/ariana-grande-debut-petal-album-chart-1236830944/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/box-office/korea-box-office-the-odyssey-spider-man-brand-new-day-1236831065/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Warner Bros. Stirs Controversy After Posting 'Embarrassing' AI Dog Podcast for The End of Oak Street
+### 1. One Night Only Director Cut 'So Much Nudity' from Film Because Audiences Now Dislike Seeing It
+
+[原文] Director Will Gluck revealed that he “cut out so much” nudity from One Night Only because he believes modern movie audiences are now too uncomfortable seeing it on screen.
+
+📎 [阅读原文](https://www.ign.com/articles/one-night-only-director-cut-so-much-nudity-from-film-because-audiences-now-dislike-seeing-it) — *IGN*
+
+### 2. House of the Dragon Season 3 Ending Explained and Book Differences
+
+[原文] Unpack the House of the Dragon Season 3 finale ending, including key betrayals, deaths, dragon devastation, and the biggest book-to-show changes from Fire & Blood.
+
+📎 [阅读原文](https://www.ign.com/articles/house-of-the-dragon-season-3-ending-explained-book-differences) — *IGN*
+
+### 3. House of the Dragon Season 3 Finale Recap and Review
+
+[原文] House of the Dragon Season 3 Finale Recap and Review: There’s little sense of an ending here, but this spectacular battle left everything to play for in the final season.
+
+📎 [阅读原文](https://www.ign.com/articles/house-of-the-dragon-season-3-finale-episode-8-recap-and-review) — *IGN*
+
+### 4. Warner Bros. Stirs Controversy After Posting 'Embarrassing' AI Dog Podcast for The End of Oak Street
 
 [原文] Warner Bros. is under fire after it collaborated with an AI dog podcast to promote Ewan McGregor and Anne Hathaway's new movie, The End of Oak Street.
 
 📎 [阅读原文](https://www.ign.com/articles/warner-bros-stirs-controversy-after-posting-embarrassing-ai-dog-podcast-for-the-end-of-oak-street) — *IGN*
 
-### 2. Marvel Tokon PC Launch Is So Bad That Famed FGC Content Creator Maximilian Dood Uninstalled the Game on Stream
+### 5. Marvel Tokon PC Launch Is So Bad That Famed FGC Content Creator Maximilian Dood Uninstalled the Game on Stream
 
 [原文] Marvel Tokon: Fighting Souls' launch weekend has been filled with so many PC issues that even famed FGC content creator Maximilian Christiansen (a.k.a. Maximilian Dood) couldn't help but uninstall the
 
 📎 [阅读原文](https://www.ign.com/articles/marvel-tokon-pc-launch-is-so-bad-that-famed-fgc-content-creator-maximilian-dood-uninstalled-the-game-on-stream) — *IGN*
-
-### 3. Blizzard Reportedly Leads Xbox as 'Top-Performing' Studio Thanks to Overwatch and Diablo
-
-[原文] Blizzard Entertainment is reportedly Microsoft's golden child after Overwatch and Diablo 4: Lord of Hatred helped it become the "top-performing" Xbox studio.
-
-📎 [阅读原文](https://www.ign.com/articles/blizzard-reportedly-leads-xbox-as-top-performing-studio-thanks-to-overwatch-and-diablo) — *IGN*
-
-### 4. The Best Deals Today: Civilization VII, AirPods Pro 3, Spider-Man: Brand New Day Steelbook, and More
-
-暂无摘要。
-
-📎 [阅读原文](https://www.ign.com/articles/best-deals-for-august-9-2026) — *IGN*
-
-### 5. Spider-Man: Brand New Day Swings Closer to $2 Billion in Second Weekend in Theaters, The Odyssey Becomes Highest-Grossing Christopher Nolan Movie of All Time
-
-[原文] August brought another standout weekend at the box office after Spider-Man: Brand New Day swung closer to $2 billion in theaters, and The Odyssey became the highest-grossing Christopher Nolan movie of
-
-📎 [阅读原文](https://www.ign.com/articles/spider-man-brand-new-day-swings-closer-to-2-billion-in-second-weekend-in-theaters-the-odyssey-becomes-highest-grossing-christopher-nolan-movie-of-all-time) — *IGN*
 
 ---
 
@@ -439,35 +439,35 @@ The post Walmart Brand Car Batteries Flop in Absurdly In-Depth Test appeared fir
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Rufus Wainwright, Kathleen Hanna, Yo La Tengo Celebrate the Radical Music of Yoko Ono
+### 1. Usher Addresses Claims He Used a Lookalike Onstage: ‘They Can’t Clone This’
+
+[原文] Fans speculated that the singer employed a body double for his concert at MetLife Stadium in New Jersey
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/usher-lookalike-claims-onstage-tour-1235606100/) — *Rolling Stone*
+
+### 2. Rufus Wainwright, Kathleen Hanna, Yo La Tengo Celebrate the Radical Music of Yoko Ono
 
 [原文] “Yoko Only,” a night of inspired performances and collaborations, honored Ono’s boundary-pushing songs, feminist vision, and enduring influence
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/yoko-ono-tribute-los-angeles-yo-la-tengo-kathleen-hanna-1235606063/) — *Rolling Stone*
 
-### 2. Inaugural L.A. Jazz Festival Canceled at Last Minute
+### 3. Inaugural L.A. Jazz Festival Canceled at Last Minute
 
 [原文] John Legend and Janelle Monae were among the dozens of artists booked to play the citywide, weeks-long event until it was canceled Friday, hours before its opening ceremony
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/inaugural-los-angeles-jazz-festival-canceled-last-minute-1235606056/) — *Rolling Stone*
 
-### 3. See Charli XCX Join the Strokes for ‘Take It or Leave It’ at Outside Lands
+### 4. See Charli XCX Join the Strokes for ‘Take It or Leave It’ at Outside Lands
 
 [原文] Fresh off their album sales battle — “She won. She won by a lot,” Julian Casablancas quipped — Friday night’s headliner at San Francisco fest makes surprise appearance during band’s Saturday set
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/charli-xcx-the-strokes-take-it-or-leave-it-outside-lands-1235605980/) — *Rolling Stone*
 
-### 4. Drake Turns Kick Stream Into a 20-v-1 Dating Show, Warns Rap Rivals His ‘Pen Isn’t Dry’
+### 5. Drake Turns Kick Stream Into a 20-v-1 Dating Show, Warns Rap Rivals His ‘Pen Isn’t Dry’
 
 [原文] Inside the rapper’s wild ride of a livestream, featuring Lena the Plug, an Hermès giveaway, and apparent subliminals about rap beef.
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/drake-kick-stream-recap-1235605965/) — *Rolling Stone*
-
-### 5. Madonna Pays Tribute to Producer William Orbit: ‘You Were My Ray of Light’
-
-[原文] “You pressed a magic button inside of me and I fell into a galaxy of unrealized dreams,” singer writes of her longtime collaborator following his death at the age of 69
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/madonna-tribute-ray-of-light-producer-william-orbit-1235605882/) — *Rolling Stone*
 
 ---
 
