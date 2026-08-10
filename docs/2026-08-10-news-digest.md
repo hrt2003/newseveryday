@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月10日** | 生成时间: 2026-08-10 15:47
+**2026年08月10日** | 生成时间: 2026-08-10 21:16
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Suspected crime boss Daniel Kinahan appears in court after extradition
+### 1. At least 13 killed in Ukrainian drone strike deep into Russia
 
-[原文] The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.
+[原文] Russian officials say another 75 people were injured by the attack in the Tatarstan region, one of the deadliest Ukrainian drone attacks on Russia since Moscow's full-scale invasion.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-
-[原文] Israel's PM says its military will not pull out from Gaza until Hamas is "genuinely" disarmed.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 3. Evidence that South African special forces murdered top detective shared with BBC
+### 2. Evidence that South African special forces murdered top detective shared with BBC
 
 [原文] Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Drones spotted over German base days after Leipzig bomb incident
+### 3. China evacuates one million from homes as massive storm arrives
 
-[原文] Police are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts.
+[原文] Typhoon Dolphin has made landfall, bringing strong winds and heavy rain across eastern China including Shanghai.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Ancient Roman shipwreck discovered off Sicily coast
+### 4. Former Thai MP allegedly kills official and confesses on YouTube
 
-[原文] Italy's culture minister says it is one of the most important underwater archaeological finds in years.
+[原文] Chalong Riewrang called a YouTube livestream to say he had shot a government official.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqx7lje8l79o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Alleged rebel leader killed in Colombia as president targets armed groups
+
+[原文] The military operation against Hernando Forero Mosquera was carried out just days after Colombia's new president was sworn in.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5yrljp9x9eo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. U.S. reaffirms grip on Hormuz blockade, turning away 55 ships as talks stall
+### 1. Intel plans $15 billion stock offering as AI demand accelerates
+
+[原文] Technology giants have shelled out trillions to support insatiable AI demand and the infrastructure buildout.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html) — *CNBC*
+
+### 2. Trump signals shift to economic pressure as Iran hardens stance over Strait of Hormuz
 
 [原文] The escalating tally underscores how far the two sides remain from resolving a crisis that has choked the Strait of Hormuz for more than five months.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/10/us-iran-war-trump-hormuz-oman-ships-blockade-shipping.html) — *CNBC*
 
-### 2. Trump says oil supermajors are making too much money. What will they do with it?
+### 3. Trump’s foreign licensing business booms to $59.5 million as Gulf developers pay
 
-[原文] The windfall is fueling fresh political and environmental backlash, with Trump accusing Exxon Mobil and Chevron of making “too much money.”
+[原文] Nearly two-thirds of Trump’s foreign licensing fees came from two Gulf developers, in the UAE and Qatar, including one pursuing a $20 billion U.S. expansion.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/10/oil-iran-war-profits-windfall-tax.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/10/trump-foreign-real-estate-licensing-income-gulf-deals.html) — *CNBC*
 
-### 3. Australian rare earth miner surges as much as 29% after U.S. Department of War investment
+### 4. Archer shares surge after Boeing stake, electric aircraft subsidiary deal
 
-[原文] The Trump administration has backed plans to build an Australian scandium mine as part of a push to challenge China’s critical-minerals dominance.
+[原文] Boeing is selling three of its subsidiaries to Archer Aviation in exchange for a stake in the eVTOL startup.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/10/rare-earths-sunrise-energy-metals-trump-cina.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/10/boeing-evtol-archer-stake.html) — *CNBC*
 
-### 4. How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta
+### 5. Meta to open source its most powerful AI model as it takes swipe at OpenAI, Anthropic
 
-[原文] The rogue AI attacks involving OpenAI, Anthropic and Meta all tied back to a small Israeli startup named Irregular.
+[原文] Meta launched Muse Glimmer and plans to release Muse Spark 1.2 weights as Zuckerberg pushes for U.S. leadership in open AI.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html) — *CNBC*
-
-### 5. Abel puts a big chunk of Berkshire's cash to work
-
-[原文] In his second quarter as the new CEO of Berkshire Hathaway, Greg Abel did some serious spending, including $4.5 billion on buybacks.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/09/abel-puts-a-big-chunk-of-berkshires-cash-to-work.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/10/meta-muse-glimmer-open-weight-ai.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry
+### 1. Discovered Materials is playing AI whack-a-mole to hunt cooler chips
+
+[原文] Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/) — *TechCrunch*
+
+### 2. Google Play adds Venmo as a payment option
+
+[原文] The ability to add Venmo to Google Play comes as people are spending more money on apps and games.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/10/google-play-adds-venmo-as-a-payment-option/) — *TechCrunch*
+
+### 3. Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry
 
 [原文] The AI-focused hedge fund is still making some big bets.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/) — *TechCrunch*
 
-### 2. Anthropic is turning Claude Code’s auto mode on by default
+### 4. Anthropic is turning Claude Code’s auto mode on by default
 
 [原文] Programming with Claude Code will soon require even less human oversight.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/) — *TechCrunch*
 
-### 3. TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire
+### 5. TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire
 
 [原文] Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/) — *TechCrunch*
-
-### 4. Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy
-
-[原文] On the latest episode of Equity, we spoke to Jill Lepore about "government by machines" and why Elon Musk is a bad science fiction reader.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/) — *TechCrunch*
-
-### 5. The AI safety test is becoming a safety risk
-
-[原文] AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with i
-
-📎 [阅读原文](https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Mourinho says he agreed to replace Ferguson at Man Utd
+### 1. Infantino broke trust 'through deception' - confederation presidents
 
-[原文] David Moyes succeeded Sir Alex Ferguson at Old Trafford in 2013 but things could have been so different, Jose Mourinho reveals in a new documentary.
+[原文] Fifa has been accused of breaking trust "through deception" in an open letter issued by Uefa, Concacaf and the Asian Football Confederation.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cr7kldj1583o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c78gl599jn4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. The team behind Hodgkinson's golden rise and the hunt for a world record
+### 2. Championship all-stars to global gamble - will Ipswich's approach work?
+
+[原文] As Ipswich prepare for their return to the Premier League, BBC Sport look at how they are approaching the transfer market differently.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cx2lexp9qjxo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. The team behind Hodgkinson's golden rise and the hunt for a world record
 
 [原文] BBC Sport looks at the team behind Great Britain 800m star Keely Hodgkinson's golden rise and pursuit of a world record.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/cjwp3nnlgqpo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. How Liverpool are shaping up under Iraola
+### 4. 'I've cried non-stop' - Ditcheva breaks both hands again
 
-[原文] Four pre-season games is a very small sample, but Andoni Iraola is starting to put his stamp on Liverpool. So how are the Reds shaping up under their new boss?
+[原文] Dakota Ditcheva says she broke both of her hands during the win over Denise Kielholtz - months after recovering from similar injuries.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cx27gkmed3wo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/mixed-martial-arts/articles/ckgde2jxvkeo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. McInnes left frustrated amid Rangers' poor start to season
+### 5. Swap agreed for Everton's McNeil and Palace's Johnson
 
-[原文] Derek McInnes is still seeking a win after three games as Rangers managers and feels hard done by following a 2-1 home defeat by Hibernian and injury to big-money striker Youssef Chermiti.
+[原文] Everton and Crystal Palace agree a swap deal that will involve Toffees' winger Dwight McNeil joining the Eagles and Wales international Brennan Johnson moving in the opposite direction.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c5y36vr1j2zo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Mudryk's emotional return and 'leader' Palmer - inside Chelsea's pre-season
-
-[原文] Chelsea's pre-season campaign was all about new manager Xabi Alonso, so what have we learned about his side?
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c5y62r3x213o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ckg32lvxpvyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘Spider-Man: Brand New Day’ Becomes Highest Grossing Hollywood Film in India
+### 1. Procter & Gamble Aims to Make Bladder-Leak Conversations Part of NFL Chatter
 
-[原文] UPDATED: Sony&#8217;s &#8220;Spider-Man: Brand New Day&#8221; has become the highest grossing Hollywood film in India, dethroning &#8220;Avatar: The Way of Water.&#8221; A $10.6 million weekend booste
+[原文] Football games have long stood as a welcome place for beer commercials. Now Procter &#38; Gamble hopes they will also become a great roost for discussions of an inevitable byproduct of liquid intake: 
 
-📎 [阅读原文](https://variety.com/2026/film/box-office/spider-man-brand-new-day-india-box-office-record-1236827437/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/procter-gamble-bladder-leak-always-discreet-nfl-1236831210/) — *Variety*
 
-### 2. ‘Primo Viaggio,’ Presented Last Year at Locarno’s Alliance 4 Development, Has Wrapped and Heading for Venice Gap-Financing Market (EXCLUSIVE)
+### 2. Brad Pitt Says AI Could Help More ‘Mid-Budget Films’ Get Made if It’s ‘Used as a Tool’: ‘Gonna Be a Very Interesting Experiment’
 
-[原文] Less than one year after the producers met at the Locarno Film Festival&#8217;s Alliance 4 Development co-development platform, &#8220;Primo Viaggio,&#8221; produced by Italy&#8217;s Sacher Film and F
+[原文] Brad Pitt is keeping an open mind about AI use in movies, saying that it could actually help more mid-budget projects get made. The Oscar-winning actor was asked his thoughts on the topic in a new Esq
 
-📎 [阅读原文](https://variety.com/2026/film/global/primo-viaggio-nanni-moretti-halley-locarno-wraps-1236830544/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/brad-pitt-ai-could-help-mid-budget-movies-get-made-1236831201/) — *Variety*
 
-### 3. ‘Letters From the Silenced Country,’ Documentary About Oppression in Belarus, Boarded by Filmotor Ahead of Venice Premiere (EXCLUSIVE)
+### 3. Jeremy Irons, Keke Palmer, Alan Cumming and More Attached to Projects Launching at Toronto Market
 
-[原文] Filmotor has picked up world sales rights for “Letters From the Silenced Country” by Belarusian writer-director Andrei Kutsila, which has its world premiere at the Venice Film Festival. The partly ani
+[原文] Jeremy Irons, Keke Palmer, Alan Cumming and other talent are attached to projects launching at the inaugural market at Toronto Intl. Film Festival, known as TIFF: The Market, which runs Sept. 10-16. T
 
-📎 [阅读原文](https://variety.com/2026/film/global/venice-letters-from-the-silenced-country-filmotor-1236831072/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/jeremy-irons-keke-palmer-alan-cumming-toronto-market-1236831198/) — *Variety*
 
-### 4. Ritesh Sidhwani and Farhan Akhtar Launch Excel Origins, Initiative to Discover Filmmakers Under 30, as India’s Excel Entertainment Marks 25th Anniversary (EXCLUSIVE)
+### 4. Locarno Open Doors: Talemwa Pius’ ‘A Vineyard for a Lobster’ and Mohammed Sheikh’s ‘Accept My Plea for a Burial’ Win Top Prizes at Festival’s Africa Industry Focus
 
-[原文] Excel Entertainment is marking its 25th anniversary with the launch of &#8220;Excel Origins,&#8221; an initiative from co-founders Ritesh Sidhwani and Farhan Akhtar dedicated to discovering, developin
+[原文] Ugandan Talemwa Pius’ striking magic realist fable “A Vineyard for a Lobster” and “Accept My Plea for a Burial,” a Somalia set critique of ancient custom, emerged triumphant at Locarno’s 2026 Open Doo
 
-📎 [阅读原文](https://variety.com/2026/film/news/farhan-akhtar-ritesh-sidhwani-excel-origins-1236830778/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/locarno-open-doors-winners-talemwa-pius-mohammed-sheikh-1236831175/) — *Variety*
 
-### 5. Korea Box Office: ‘The Odyssey’ Bests ‘Spider-Man: Brand New Day’
+### 5. How Norway’s Øyafestivalen Became One of Europe’s Best Music Fests: Balancing Huge Headliners With Homegrown Artists, Prioritizing Gender Parity and More
 
-[原文] &#8220;The Odyssey&#8221; sailed to the top of the South Korean box office during the weekend of Aug. 7–9. According to data from KOBIS, the tracking service operated by the Korean Film Council, the C
+[原文] In a year without Glastonbury, music lovers have turned to other festivals in the U.K. and Europe to fill the void. There&#8217;s Primavera Sound in Barcelona, with its proximity to the beach and genr
 
-📎 [阅读原文](https://variety.com/2026/film/box-office/korea-box-office-the-odyssey-spider-man-brand-new-day-1236831065/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/global/norway-oyafestivalen-europe-best-music-fests-1236830561/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. One Night Only Director Cut 'So Much Nudity' from Film Because Audiences Now Dislike Seeing It
+### 1. 'We're Totally Supporting It' — Take-Two Boss Says Borderlands 4 Performance 'Has Not Affected Our Plans at All' as Fans Await Year 2 Roadmap
 
-[原文] Director Will Gluck revealed that he “cut out so much” nudity from One Night Only because he believes modern movie audiences are now too uncomfortable seeing it on screen.
+[原文] Take-Two boss Strauss Zelnick has insisted publisher 2K remains committed to Borderlands 4, and that the looter shooter's commercial performance hasn’t affected plans to support the game.
 
-📎 [阅读原文](https://www.ign.com/articles/one-night-only-director-cut-so-much-nudity-from-film-because-audiences-now-dislike-seeing-it) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/were-totally-supporting-it-take-two-boss-says-borderlands-4-performance-has-not-affected-our-plans-at-all-as-fans-await-year-2-roadmap) — *IGN*
 
-### 2. House of the Dragon Season 3 Ending Explained and Book Differences
+### 2. 'It's Complicated': Daredevil Star Charlie Cox Responds to Spider-Man: Brand New Day, And The Punisher's Claim He's Never Had a Friend Like Peter Parker
 
-[原文] Unpack the House of the Dragon Season 3 finale ending, including key betrayals, deaths, dragon devastation, and the biggest book-to-show changes from Fire & Blood.
+[原文] Charlie Cox has been asked about a certain scene featuring Frank Castle in Spider-Man: Brand New Day.
 
-📎 [阅读原文](https://www.ign.com/articles/house-of-the-dragon-season-3-ending-explained-book-differences) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/its-complicated-daredevil-star-charlie-cox-responds-to-spider-man-brand-new-day-and-the-punishers-claim-hes-never-had-a-friend-like-peter-parker) — *IGN*
 
-### 3. House of the Dragon Season 3 Finale Recap and Review
+### 3. Burnout Revenge Is Actually the Best One
 
-[原文] House of the Dragon Season 3 Finale Recap and Review: There’s little sense of an ending here, but this spectacular battle left everything to play for in the final season.
+[原文] Burnout Revenge is actually the best one.
 
-📎 [阅读原文](https://www.ign.com/articles/house-of-the-dragon-season-3-finale-episode-8-recap-and-review) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/burnout-revenge-is-actually-the-best-one) — *IGN*
 
-### 4. Warner Bros. Stirs Controversy After Posting 'Embarrassing' AI Dog Podcast for The End of Oak Street
+### 4. Game of Thrones Is Getting a New 4K Steelbook Collection, Now Up for Preorder
 
-[原文] Warner Bros. is under fire after it collaborated with an AI dog podcast to promote Ewan McGregor and Anne Hathaway's new movie, The End of Oak Street.
+[原文] This limited edition release is now available to preorder from select retailers ahead of its release date on November 3.
 
-📎 [阅读原文](https://www.ign.com/articles/warner-bros-stirs-controversy-after-posting-embarrassing-ai-dog-podcast-for-the-end-of-oak-street) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/game-of-thrones-complete-collection-4k-steelbook-set-where-to-buy) — *IGN*
 
-### 5. Marvel Tokon PC Launch Is So Bad That Famed FGC Content Creator Maximilian Dood Uninstalled the Game on Stream
+### 5. Spider-Man: Brand New Day 4K Steelbook Designs Seemingly Revealed, Since Removed by Amazon
 
-[原文] Marvel Tokon: Fighting Souls' launch weekend has been filled with so many PC issues that even famed FGC content creator Maximilian Christiansen (a.k.a. Maximilian Dood) couldn't help but uninstall the
+[原文] Amazon briefly revealed the cover art for Spider-Man: Brand New Day's 4K UHD Steelbook and $150 Collector's Edition before promptly removing the designs from its listings. While fans seem to love the 
 
-📎 [阅读原文](https://www.ign.com/articles/marvel-tokon-pc-launch-is-so-bad-that-famed-fgc-content-creator-maximilian-dood-uninstalled-the-game-on-stream) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/spider-man-brand-new-day-4k-steelbook-designs-revealed) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post Walmart Brand Car Batteries Flop in Absurdly In-Depth Test appeared fir
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. A Very American Invention, Pushed to an Extreme
+### 1. State of the Climate: A Dimming, Overheated Planet, With Degraded Oceans
+
+[原文] As global warming continued to reshape Earth’s climate, the planet’s oceans reached record high temperatures for the third year in a row in 2025. Some northern forests and tundra released more carbon 
+
+📎 [阅读原文](https://insideclimatenews.org/news/10082026/global-warming-record-high-temperatures/) — *Inside Climate News*
+
+### 2. Pennsylvania Confronts an Unfamiliar Climate Hazard: Wildfire Smoke
+
+[原文] Karen Schaeffer is used to spending a lot of time thinking about how to keep kids happy and healthy. But only recently has she confronted a new problem at the childcare center she runs in Lititz, Penn
+
+📎 [阅读原文](https://insideclimatenews.org/news/10082026/pennsylvania-wildfire-smoke-unhealthy-air/) — *Inside Climate News*
+
+### 3. A Very American Invention, Pushed to an Extreme
 
 [原文] HAIGLER, Neb.—The far southwestern corner of this state unfurls in a rolling sea of dusky-green prairie where cattle have outnumbered people for generations. A sign along U.S. Highway 34, just before 
 
 📎 [阅读原文](https://insideclimatenews.org/news/09082026/blackshirt-building-nations-largest-beef-feedlot-in-nebraska/) — *Inside Climate News*
 
-### 2. As US Offshore Wind Disappears, a Generation of Workers Is Left Behind
+### 4. As US Offshore Wind Disappears, a Generation of Workers Is Left Behind
 
 [原文] When Gerard Mullin decided to train in offshore wind, he didn’t know what to expect. But on his first long-term project in Massachusetts, he immediately relished the consistency of the work, the good 
 
 📎 [阅读原文](https://insideclimatenews.org/news/09082026/us-offshore-wind-disappears-leaving-workers-behind/) — *Inside Climate News*
 
-### 3. Massive Wildfires Test the Limits of International Cooperation
+### 5. Massive Wildfires Test the Limits of International Cooperation
 
 [原文] When wildfires began raging across France and Spain last month, the European Union sent aircraft and firefighters from nine other countries. The Pacific Northwest, where fires have forced tens of thou
 
 📎 [阅读原文](https://insideclimatenews.org/news/08082026/wildfires-test-international-cooperation/) — *Inside Climate News*
-
-### 4. Natural Gas Dominates PJM’s First Reformed Grid Queue, Driven by Data-Center Demand
-
-[原文] Natural gas surged to the top in the first round of power projects accepted into PJM Interconnection’s reformed interconnection process, making up nearly half of the more than 200 gigawatts of capacit
-
-📎 [阅读原文](https://insideclimatenews.org/news/08082026/gas-dominates-pjm-interconnections-reformed-grid-queue/) — *Inside Climate News*
-
-### 5. Alabama Seeks to Lower Gas Utility Profits for the First Time in 40 Years
-
-[原文] MONTGOMERY, Ala.—For the first time in more than 40 years, Alabama utility regulators this week convened formal hearings to potentially decrease profits for one of the state’s major monopoly utilities
-
-📎 [阅读原文](https://insideclimatenews.org/news/08082026/alabama-regulators-cut-gas-utility-profits/) — *Inside Climate News*
 
 ---
 
@@ -413,17 +413,17 @@ The post Walmart Brand Car Batteries Flop in Absurdly In-Depth Test appeared fir
 
 📎 [阅读原文](https://edsurge.com/news/the-library-that-sparked-a-stem-revolution-for-our-students) — *EdSurge*
 
-### 3. Teachers Forge Ahead on Integrating AI
-
-[原文] A new report highlights teacher-led adoption, student demand for feedback, and a growing push for tools tailored specifically to the classroom.
-
-📎 [阅读原文](https://edsurge.com/news/teachers-forge-ahead-on-integrating-ai) — *EdSurge*
-
-### 4. Math Terrified Me When I Was a Student. That Made Me a Better Teacher.
+### 3. Math Terrified Me When I Was a Student. That Made Me a Better Teacher.
 
 [原文] A novice educator turns her "weakness" into a teaching strength.
 
 📎 [阅读原文](https://edsurge.com/news/math-terrified-me-when-i-was-a-student-that-made-me-a-better-teacher) — *EdSurge*
+
+### 4. Teachers Forge Ahead on Integrating AI
+
+[原文] A new report highlights a growing push for tools tailored specifically to the classroom.
+
+📎 [阅读原文](https://edsurge.com/news/teachers-forge-ahead-on-integrating-ai) — *EdSurge*
 
 ### 5. High Schools Need a New Model for a New Economy
 
@@ -439,35 +439,35 @@ The post Walmart Brand Car Batteries Flop in Absurdly In-Depth Test appeared fir
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Usher Addresses Claims He Used a Lookalike Onstage: ‘They Can’t Clone This’
+### 1. Watch Eddie Vedder Busk in Dublin in Honor of Glen Hansard
+
+[原文] The Pearl Jam frontman performed in Hansard's usual spot on Grafton Street alongside Murdo Mitchell and several other musicians
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/eddie-vedder-glen-hansard-busking-dublin-1235606107/) — *Rolling Stone*
+
+### 2. Usher Addresses Claims He Used a Lookalike Onstage: ‘They Can’t Clone This’
 
 [原文] Fans speculated that the singer employed a body double for his concert at MetLife Stadium in New Jersey
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/usher-lookalike-claims-onstage-tour-1235606100/) — *Rolling Stone*
 
-### 2. Rufus Wainwright, Kathleen Hanna, Yo La Tengo Celebrate the Radical Music of Yoko Ono
+### 3. Rufus Wainwright, Kathleen Hanna, Yo La Tengo Celebrate the Radical Music of Yoko Ono
 
 [原文] “Yoko Only,” a night of inspired performances and collaborations, honored Ono’s boundary-pushing songs, feminist vision, and enduring influence
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/yoko-ono-tribute-los-angeles-yo-la-tengo-kathleen-hanna-1235606063/) — *Rolling Stone*
 
-### 3. Inaugural L.A. Jazz Festival Canceled at Last Minute
+### 4. Inaugural L.A. Jazz Festival Canceled at Last Minute
 
 [原文] John Legend and Janelle Monae were among the dozens of artists booked to play the citywide, weeks-long event until it was canceled Friday, hours before its opening ceremony
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/inaugural-los-angeles-jazz-festival-canceled-last-minute-1235606056/) — *Rolling Stone*
 
-### 4. See Charli XCX Join the Strokes for ‘Take It or Leave It’ at Outside Lands
+### 5. See Charli XCX Join the Strokes for ‘Take It or Leave It’ at Outside Lands
 
 [原文] Fresh off their album sales battle — “She won. She won by a lot,” Julian Casablancas quipped — Friday night’s headliner at San Francisco fest makes surprise appearance during band’s Saturday set
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/charli-xcx-the-strokes-take-it-or-leave-it-outside-lands-1235605980/) — *Rolling Stone*
-
-### 5. Drake Turns Kick Stream Into a 20-v-1 Dating Show, Warns Rap Rivals His ‘Pen Isn’t Dry’
-
-[原文] Inside the rapper’s wild ride of a livestream, featuring Lena the Plug, an Hermès giveaway, and apparent subliminals about rap beef.
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/drake-kick-stream-recap-1235605965/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post Walmart Brand Car Batteries Flop in Absurdly In-Depth Test appeared fir
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Skift Capital Allocation Brief: A New Quarterly Read on Where Travel’s Money Goes
+### 1. Ras Al Khaimah’s New Pitch to Indian Tourists: We’re Premium — Not Just Cheaper Than Dubai
+
+[原文] Ras Al Khaimah wants Indians to visit for Ras Al Khaimah, not just because it’s near Dubai.
+
+📎 [阅读原文](https://skift.com/2026/08/10/ras-al-khaimahs-new-pitch-to-indian-tourists-were-premium-not-just-cheaper-than-dubai/) — *Skift*
+
+### 2. Skift Capital Allocation Brief: A New Quarterly Read on Where Travel’s Money Goes
 
 [原文] M&A, venture money, buybacks, take-privates, a free quarterly read on all the capital moving through travel, what it means, and a first look at the decision intelligence Skift is building.
 
 📎 [阅读原文](https://skift.com/2026/08/09/skift-capital-allocation-brief-a-new-quarterly-read-on-where-travels-money-goes/) — *Skift*
 
-### 2. Aman Threatened to Call the Police on a Creator. Why the Whole Industry Should Pay Attention.
+### 3. Aman Threatened to Call the Police on a Creator. Why the Whole Industry Should Pay Attention.
 
 [原文] Aman built its business on luxury and discretion. When it turned away a YouTube-famous travel creator who had come to review one of its resorts, it lost the plot – and control.
 
 📎 [阅读原文](https://skift.com/2026/08/08/aman-threatened-to-call-the-police-on-a-creator-why-the-whole-industry-should-pay-attention/) — *Skift*
 
-### 3. Google Brings Agentic AI to Ask Maps Hotel Search
+### 4. Google Brings Agentic AI to Ask Maps Hotel Search
 
 [原文] Google Maps is bringing spatial context to AI hotel search. Add personal itinerary data, and this becomes more than another AI search update for hotels — even before booking arrives.
 
 📎 [阅读原文](https://skift.com/2026/08/07/google-brings-agentic-ai-to-ask-maps-hotel-search/) — *Skift*
 
-### 4. Google Confirms Agentic Hotel Booking Is Now in Testing
+### 5. Google Confirms Agentic Hotel Booking Is Now in Testing
 
 [原文] Google has moved agentic hotel booking from promise to product test. But how much of the transaction — and customer relationship — it intends to control remains to be seen.
 
 📎 [阅读原文](https://skift.com/2026/08/07/google-confirms-hotel-agentic-booking-is-now-in-testing/) — *Skift*
-
-### 5. GetYourGuide to Pass Its Digital Services Tax Bill to Tour Operators
-
-[原文] Digital services taxes were designed to hit Big Tech revenues, instead they are being passed onto tour operators.
-
-📎 [阅读原文](https://skift.com/2026/08/07/getyourguide-to-pass-its-digital-services-tax-bill-on-to-suppliers/) — *Skift*
 
 ---
 
