@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月10日** | 生成时间: 2026-08-10 02:46
+**2026年08月10日** | 生成时间: 2026-08-10 10:04
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
+### 1. Suspected crime boss Daniel Kinahan appears in court after extradition
+
+[原文] The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 
 [原文] Israel's PM says its military will not pull out from Gaza until Hamas is "genuinely" disarmed.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Ancient Roman shipwreck discovered off Sicily coast
+### 3. Evidence that South African special forces murdered top detective shared with BBC
+
+[原文] Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. Drones spotted over German base days after Leipzig bomb incident
+
+[原文] Police are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Ancient Roman shipwreck discovered off Sicily coast
 
 [原文] Italy's culture minister says it is one of the most important underwater archaeological finds in years.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 3. Perez Hilton faces long recovery after reports he self-harmed during livestream
-
-[原文] The US blogger is in a "serious but stable" condition in hospital, according to his family.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Residents warned to brace for the worst as Canada wildfire rages out of control
-
-[原文] The Bald Range wildfire in British Columbia, still considered "out of control", has spread over 53 sq miles (136 sq km).
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Ecuador charges ex-minister over presidential candidate assassination case
-
-[原文] Prosecutors accuse six others, including the leader of cartel Los Lobos, of having an indirect role in the murder of Fernando Villavicencio.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cgjeznj6979o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,23 +54,23 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta
-
-[原文] The rogue AI attacks involving OpenAI, Anthropic and Meta all tied back to a small Israeli startup named Irregular.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html) — *CNBC*
-
-### 2. Iran denies any direct talks with U.S. on opening Strait of Hormuz as Houthis claim attack on Saudi refinery
+### 1. Iran denies any direct talks with U.S. on opening Strait of Hormuz as Houthis claim attack on Saudi refinery
 
 [原文] Iran's foreign minister reportedly said his country is not engaging in talks with the U.S., but added: "Messages are being exchanged through intermediaries."
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/09/saudi-aramco-extinguishes-refinery-fire-houthis-claim-attack.html) — *CNBC*
 
-### 3. Myspace eyes comeback as an 'antidote' to social media fatigue — but it may be a long shot
+### 2. How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta
 
-[原文] "Excitement about Myspace's relaunch reflects nostalgia for a more analog time, when algorithms were less dominant in our lives," an analyst told CNBC.
+[原文] The rogue AI attacks involving OpenAI, Anthropic and Meta all tied back to a small Israeli startup named Irregular.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/09/myspace-comeback-rival-social-media-giants.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html) — *CNBC*
+
+### 3. Oil rises amid uncertainty over U.S.-Iran Strait of Hormuz deal
+
+[原文] Oil rose as traders assess mixed signals from the U.S. and Iran amid worries that a deal to open the Strait of Hormuz may not be coming anytime soon.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/10/oil-prices-today-brent-wti-hormuz-trump-iran.html) — *CNBC*
 
 ### 4. Abel puts a big chunk of Berkshire's cash to work
 
@@ -78,11 +78,11 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/09/abel-puts-a-big-chunk-of-berkshires-cash-to-work.html) — *CNBC*
 
-### 5. Ocasio-Cortez hasn't 'ruled out' running for president or Senate in 2028
+### 5. Myspace eyes comeback as an 'antidote' to social media fatigue — but it may be a long shot
 
-[原文] The congresswoman, who has emerged as a polling favorite to be the Democratic nominee, said she also has not ruled out a run for the Senate in 2028.
+[原文] "Excitement about Myspace's relaunch reflects nostalgia for a more analog time, when algorithms were less dominant in our lives," an analyst told CNBC.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/09/ocasio-cortez-hasnt-ruled-out-running-for-president-or-senate-in-2028.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/09/myspace-comeback-rival-social-media-giants.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire
+### 1. Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry
+
+[原文] The AI-focused hedge fund is still making some big bets.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/) — *TechCrunch*
+
+### 2. Anthropic is turning Claude Code’s auto mode on by default
+
+[原文] Programming with Claude Code will soon require even less human oversight.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/) — *TechCrunch*
+
+### 3. TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire
 
 [原文] Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/) — *TechCrunch*
 
-### 2. Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy
+### 4. Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy
 
 [原文] On the latest episode of Equity, we spoke to Jill Lepore about "government by machines" and why Elon Musk is a bad science fiction reader.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/) — *TechCrunch*
 
-### 3. The AI safety test is becoming a safety risk
+### 5. The AI safety test is becoming a safety risk
 
 [原文] AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with i
 
 📎 [阅读原文](https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/) — *TechCrunch*
-
-### 4. This ‘adversarial’ pattern can prevent surveillance cameras from detecting you
-
-[原文] A security researcher has designed an algorithm that can create computer-generated patterns capable of hiding people, faces, and vehicles from detection by surveillance cameras.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/) — *TechCrunch*
-
-### 5. This former notorious red-light district is now one of the world’s top AI hubs
-
-[原文] More than 20 years ago, King's Cross was one of the seediest area's in London. Now it's sprouting something new.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. We cannot sustain the level we want - Iraola
+### 1. Mourinho says he agreed to replace Ferguson at Man Utd
+
+[原文] David Moyes succeeded Sir Alex Ferguson at Old Trafford in 2013 but things could have been so different, Jose Mourinho reveals in a new documentary.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cr7kldj1583o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. We cannot sustain the level we want - Iraola
 
 [原文] After throwing away a two-goal lead for the second match in a row, Andoni Iraola says his Liverpool side "cannot sustain the level we want".
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c3r0zzpw5gjo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Guimaraes can take us to the next level - Arteta
+### 3. Defiant Hodgkinson says home European title would mean as much as Olympic gold
 
-[原文] Mikel Arteta said the signing of Bruno Guimaraes will help Arsenal go to the "next level" and hints that the Gunners are not done with their summer transfer activity.
+[原文] Keely Hodgkinson will seek to prove she is still number one following a "tricky" outdoor season when she faces world-class rivals for European 800m gold in Birmingham.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c629ggx45d3o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/c5y3djlk7jdo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Digne completes move to PSG from Aston Villa
+### 4. Bonding & building - what we learned about Alonso's Chelsea in pre-season
 
-[原文] France international Lucas Digne has completed his move from Aston Villa to European champions Paris St-Germain.
+[原文] Chelsea's pre-season campaign was all about new manager Xabi Alonso, so what have we learned about his side?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ce34v2eyn1qo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c5y62r3x213o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Vollering wins final stage to clinch second Tour title
+### 5. McInnes left frustrated amid Rangers' poor start to season
 
-[原文] Demi Vollering shows her prowess on the final stage of the Tour de France Femmes to become the race's first two-time winner.
+[原文] Derek McInnes is still seeking a win after three games as Rangers managers and feels hard done by following a 2-1 home defeat by Hibernian and injury to big-money striker Youssef Chermiti.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cycling/articles/ceqevv9vjpdo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Sunrisers thump Fire to close in on qualification
-
-[原文] Sunrisers Leeds move closer to securing qualification for The Hundred's knockout stages with a comprehensive 71-run win over Welsh Fire.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c70gn1634z7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c5y36vr1j2zo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Blockbuster Mentality Is Back, Baby!
+### 1. ‘Widow’s Bay,’ ‘Fallout’ and ‘Hacks’ Among Set Decorators Society of America TV Award Winners
 
-[原文] The suits of Hollywood are used to big numbers. That’s how they roll. But the record-setting opening weekend of “Spider-Man: Brand New Day” isn’t something that happens every day, or every year — more
+[原文] &#8220;Widow&#8217;s Bay,&#8221; &#8220;Fallout,&#8221; &#8220;Hacks&#8221; and &#8220;Beef&#8221; are among the shows that took home top honors from the Set Decorators Society of America. This year&#
 
-📎 [阅读原文](https://variety.com/2026/film/columns/the-blockbuster-mentallity-is-back-baby-spider-man-1236830819/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/artisans/news/set-decorators-society-of-america-tv-award-winners-full-list-1236830970/) — *Variety*
 
-### 2. ‘Five Nights at Freddy’s’ to Open Real Freddy Fazbear’s Pizza Location in 2027
+### 2. Ben Jones, Actor Turned Politician Who Played Cooter Davenport in ‘The Dukes of Hazzard,’ Dies at 84
 
-[原文] &#8220;Five Nights at Freddy&#8217;s&#8221; and New Jersey entertainment and retail center American Dream will open a real-life Freddy Fazbear’s Pizza location in East Rutherford, N.J., in 2027. Based
+[原文] Ben Jones, the actor turned politician best known for playing Cooter Davenport on “The Dukes of Hazzard,” died on Sunday from a heart attack, according to his wife Alma Viator. He was 84. Viator annou
 
-📎 [阅读原文](https://variety.com/2026/film/news/five-nights-at-freddys-real-life-freddy-fazbears-pizza-1236830901/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/ben-jones-dead-cooter-davenport-the-dukes-of-hazzard-1236831024/) — *Variety*
 
-### 3. Florian Hoffmann’s U.N. Compound Drama ‘Yazz’ Takes Main Alliance 4 Development Prizes at Locarno Pro Awards
+### 3. Phoebe Bridgers Sings about Love and Death and the Whole Damn Thing in ‘Lost Weekend,’ a Captivating Record Worth the Six-Year Wait: Album Review
 
-[原文] Florian Hoffmann’s “Yazz,” about a teenager growing up in a UN compound in the Central African Republic, celebrated two major wins at this year’s Locarno Pro Awards for the Alliance 4 Development co-d
+[原文] If there&#8217;s anything Phoebe Bridgers knows how to do, it&#8217;s land a punch line. There are a lot of them in &#8220;Lost Weekend,&#8221; her first solo record in six years, and she doesn&#8217;
 
-📎 [阅读原文](https://variety.com/2026/film/global/florian-hoffmann-yazz-alliance-4-development-prizes-locarno-1236830871/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/album-reviews/phoebe-bridgers-lost-weekend-album-review-1236831012/) — *Variety*
 
-### 4. What’s It Going to Take for Steve Carell to Finally Win an Emmy?
+### 4. David Sackeroff, Emmy-Nominated ‘Seinfeld’ and ‘Home Improvement’ Production Designer, Dies at 81
 
-[原文] What does Steve Carell have to do for Emmy voters to take notice? In recent years, he’s died in car accidents twice (Apple TV’s “The Morning Show” and Netflix’s “Four Seasons”), been a billionaire wit
+[原文] David Sackeroff, an Emmy-nominated production designer and art director known for his work on classic shows like “Seinfeld,” “Alf” and “Carol &#38; Company”, died July 10 on Bainbridge Island, Wash. H
 
-📎 [阅读原文](https://variety.com/2026/tv/awards/steve-carell-why-he-hasnt-won-an-emmy-award-1236830722/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/digital/news/david-sackeroff-dead-seinfeld-production-designer-1236831001/) — *Variety*
 
-### 5. ‘The Odyssey’ Is Christopher Nolan’s Highest-Grossing Movie Ever With $1.1 Billion and Imax’s Biggest Release of All Time With $289 Million
+### 5. Ariana Grande Debuts at No. 1 on Album Chart With ‘Petal,’ Earning Her Best First-Week Numbers in Seven Years
 
-[原文] &#8220;The Odyssey&#8221; has notched two major box office milestones over the weekend. The big-budget adaptation of Homer&#8217;s original epic is officially Christopher Nolan&#8217;s biggest movie e
+[原文] Ariana Grande has earned her seventh No. 1 album on the Billboard 200 chart with &#8220;Petal,&#8221; which bows in the top spot with 295,000 equivalent album units, her best opening-week figure this 
 
-📎 [阅读原文](https://variety.com/2026/film/box-office/the-odyssey-christopher-nolan-biggest-movie-imax-record-1236830867/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/ariana-grande-debut-petal-album-chart-1236830944/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Netflix Reportedly Delays The Witcher Season 5 to 2027
+### 1. Warner Bros. Stirs Controversy After Posting 'Embarrassing' AI Dog Podcast for The End of Oak Street
 
-[原文] Geralt's return to Netflix seems to have been pushed back, as a new report has stated that The Witcher Season 5 has been delayed until 2027.
+[原文] Warner Bros. is under fire after it collaborated with an AI dog podcast to promote Ewan McGregor and Anne Hathaway's new movie, The End of Oak Street.
 
-📎 [阅读原文](https://www.ign.com/articles/netflix-reportedly-delays-the-witcher-season-5-to-2027) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/warner-bros-stirs-controversy-after-posting-embarrassing-ai-dog-podcast-for-the-end-of-oak-street) — *IGN*
 
-### 2. 'If You're Not a Netflix Subscriber, You Definitely Should Be' — Take-Two Boss Teases Grand Theft Auto VI: An Extended Look
+### 2. Marvel Tokon PC Launch Is So Bad That Famed FGC Content Creator Maximilian Dood Uninstalled the Game on Stream
 
-[原文] Take-Two Boss Strauss Zelnick discusses Grand Theft Auto VI: An Extended Look Netflix reveal.
+[原文] Marvel Tokon: Fighting Souls' launch weekend has been filled with so many PC issues that even famed FGC content creator Maximilian Christiansen (a.k.a. Maximilian Dood) couldn't help but uninstall the
 
-📎 [阅读原文](https://www.ign.com/articles/if-youre-not-a-netflix-subscriber-you-definitely-should-be-take-two-boss-teases-grand-theft-auto-vi-an-extended-look) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/marvel-tokon-pc-launch-is-so-bad-that-famed-fgc-content-creator-maximilian-dood-uninstalled-the-game-on-stream) — *IGN*
 
-### 3. Mortal Kombat Director 'Not Sure' About Return for Third Movie as Mortal Kombat 3 Remains in Limbo
+### 3. Blizzard Reportedly Leads Xbox as 'Top-Performing' Studio Thanks to Overwatch and Diablo
 
-[原文] Mortal Kombat movie director Simon McQuoid has cast doubt on his return to the franchise as work on a third movie remains in limbo.
+[原文] Blizzard Entertainment is reportedly Microsoft's golden child after Overwatch and Diablo 4: Lord of Hatred helped it become the "top-performing" Xbox studio.
 
-📎 [阅读原文](https://www.ign.com/articles/mortal-kombat-director-not-sure-about-return-for-third-movie-as-mortal-kombat-3-remains-in-limbo) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/blizzard-reportedly-leads-xbox-as-top-performing-studio-thanks-to-overwatch-and-diablo) — *IGN*
 
-### 4. Freddy Fazbear's Pizza Opening Permanent Location Featuring Animatronic Stage Shows in 2027
+### 4. The Best Deals Today: Civilization VII, AirPods Pro 3, Spider-Man: Brand New Day Steelbook, and More
 
-[原文] Freddy Fazbear's Pizza is coming to life thanks to a new collaboration between Five Nights at Freddy's and entertainment and retail center American Dream.
+暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/freddy-fazbears-pizza-opening-permanent-location-featuring-animatronic-stage-shows-in-2027) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/best-deals-for-august-9-2026) — *IGN*
 
-### 5. 'They Fundamentally Don't Understand Art' — Doom Dev Blasts Xbox After Microsoft 'Gutted' id Software With Layoffs
+### 5. Spider-Man: Brand New Day Swings Closer to $2 Billion in Second Weekend in Theaters, The Odyssey Becomes Highest-Grossing Christopher Nolan Movie of All Time
 
-[原文] After layoffs ripped through Doom developer id Software in July, lead services programmer Chris Hays has taken aim at Xbox: "They fundamentally don't understand art."
+[原文] August brought another standout weekend at the box office after Spider-Man: Brand New Day swung closer to $2 billion in theaters, and The Odyssey became the highest-grossing Christopher Nolan movie of
 
-📎 [阅读原文](https://www.ign.com/articles/they-fundamentally-dont-understand-art-doom-dev-blasts-xbox-after-microsoft-gutted-id-software-with-layoffs) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/spider-man-brand-new-day-swings-closer-to-2-billion-in-second-weekend-in-theaters-the-odyssey-becomes-highest-grossing-christopher-nolan-movie-of-all-time) — *IGN*
 
 ---
 
@@ -439,35 +439,35 @@ The post Walmart Brand Car Batteries Flop in Absurdly In-Depth Test appeared fir
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Inaugural L.A. Jazz Festival Canceled at Last Minute
+### 1. Rufus Wainwright, Kathleen Hanna, Yo La Tengo Celebrate the Radical Music of Yoko Ono
+
+[原文] “Yoko Only,” a night of inspired performances and collaborations, honored Ono’s boundary-pushing songs, feminist vision, and enduring influence
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/yoko-ono-tribute-los-angeles-yo-la-tengo-kathleen-hanna-1235606063/) — *Rolling Stone*
+
+### 2. Inaugural L.A. Jazz Festival Canceled at Last Minute
 
 [原文] John Legend and Janelle Monae were among the dozens of artists booked to play the citywide, weeks-long event until it was canceled Friday, hours before its opening ceremony
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/inaugural-los-angeles-jazz-festival-canceled-last-minute-1235606056/) — *Rolling Stone*
 
-### 2. See Charli XCX Join the Strokes for ‘Take It or Leave It’ at Outside Lands
+### 3. See Charli XCX Join the Strokes for ‘Take It or Leave It’ at Outside Lands
 
-[原文] Fresh off their album sales battle — "She won. She won by a lot," Julian Casablancas quipped — Friday night's headliner at San Francisco fest makes surprise appearance during band's Saturday set
+[原文] Fresh off their album sales battle — “She won. She won by a lot,” Julian Casablancas quipped — Friday night’s headliner at San Francisco fest makes surprise appearance during band’s Saturday set
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/charli-xcx-the-strokes-take-it-or-leave-it-outside-lands-1235605980/) — *Rolling Stone*
 
-### 3. Drake Turns Kick Stream Into a 20-v-1 Dating Show, Warns Rap Rivals His ‘Pen Isn’t Dry’
+### 4. Drake Turns Kick Stream Into a 20-v-1 Dating Show, Warns Rap Rivals His ‘Pen Isn’t Dry’
 
 [原文] Inside the rapper’s wild ride of a livestream, featuring Lena the Plug, an Hermès giveaway, and apparent subliminals about rap beef.
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/drake-kick-stream-recap-1235605965/) — *Rolling Stone*
 
-### 4. Madonna Pays Tribute to Producer William Orbit: ‘You Were My Ray of Light’
+### 5. Madonna Pays Tribute to Producer William Orbit: ‘You Were My Ray of Light’
 
-[原文] "You pressed a magic button inside of me and I fell into a galaxy of unrealized dreams," singer writes of her longtime collaborator following his death at the age of 69
+[原文] “You pressed a magic button inside of me and I fell into a galaxy of unrealized dreams,” singer writes of her longtime collaborator following his death at the age of 69
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/madonna-tribute-ray-of-light-producer-william-orbit-1235605882/) — *Rolling Stone*
-
-### 5. Taylor Swift Removes ‘August’ From Team Trump TikTok Video
-
-[原文] Days after Trump-affiliated account once again antagonistically uses singer’s music, the Folklore track was stripped by “the copyright owner”
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/taylor-swift-removes-august-team-trump-tiktok-video-1235605878/) — *Rolling Stone*
 
 ---
 
