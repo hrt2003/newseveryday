@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月11日** | 生成时间: 2026-08-11 09:59
+**2026年08月11日** | 生成时间: 2026-08-11 15:13
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. At least 13 killed in Ukrainian drone strike deep into Russia
+### 1. At least 132 killed in Colombia's largest  earthquake in years
 
-[原文] Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion.
+[原文] More than 480 people were injured in the quakes, with more feared trapped under collapsed buildings.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word
-
-[原文] The Trump administration is said to be unbothered by the Israeli prime minister's rejection of the deal, viewing it as campaign rhetoric ahead of a general election.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 3. 'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes
-
-[原文] More than 12,000 people have been forced to evacuate and some homes have been lost after a wildfire tore through Canada's picturesque Okanagan region.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Canada flight cancelled after child refuses to wear seat belt
+### 2. Canada flight cancelled after child refuses to wear seat belt
 
 [原文] The incident has sparked a debate over child safety and discipline on commercial planes.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. 30 years later, a former gang member will stand trial for Tupac's murder
+### 3. Watch: What we know about Tupac murder suspect Duane 'Keffe D' Davis
 
-[原文] It’s been three decades since Tupac was killed, and since then, his reputation has only grown.
+[原文] The trial of the 63-year-old former gang boss kicked off on Monday, and he has entered a not guilty plea.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/videos/cjd48zkg5n9o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. At least 13 killed in Ukrainian drone strike deep into Russia
+
+[原文] Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word
+
+[原文] The Trump administration is said to be unbothered by the Israeli prime minister's rejection of the deal, viewing it as campaign rhetoric ahead of a general election.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -66,23 +66,23 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html) — *CNBC*
 
-### 3. Trump signs executive order calling for fewer childhood vaccines, falsely linking shots to autism
+### 3. Hormuz Deadlock: Where oil prices could head next as prospects for an imminent deal fade
+
+[原文] Oil traders keep clinging to hope that the Strait of Hormuz will reopen. That won't last forever.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/11/hormuz-oil-prices-us-iran.html) — *CNBC*
+
+### 4. OpenAI wraps $7 billion share sale ahead of potential IPO
+
+[原文] OpenAI's tender offer has been in the works since the company closed its record-breaking $122 billion funding round in March.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/10/openai-wraps-7-billion-share-sale-ahead-of-potential-ipo-.html) — *CNBC*
+
+### 5. Trump signs executive order calling for fewer childhood vaccines, falsely linking shots to autism
 
 [原文] The order builds on the Trump administration's efforts to reshape the childhood shot schedule under HHS Secretary RFK Jr., a longtime vaccine skeptic.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/10/trump-vaccine-executive-order-autism.html) — *CNBC*
-
-### 4. CNBC's The China Connection newsletter: 'Spider-Man' and 'The Odyssey' come courting the massive filmgoer market
-
-[原文] More American movie stars have appeared in China this year, reflecting Hollywood's market interests amid political tensions.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/11/hollywood-returns-to-china-as-chinese-rivals-push-abroad.html) — *CNBC*
-
-### 5. Trump says he spoke recently to Fed Chairman Warsh, denies regular calls
-
-[原文] The president said he had recently been in touch with the Fed chairman, but denied regular contact amid concerns about central bank independence.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/10/trump-spoke-to-fed-chair-kevin-warsh-denies-regular-calls.html) — *CNBC*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. GB's Hunt comes of age with European 100m gold
+### 1. Trump says it would be 'terrible mistake' to remove Infantino
+
+[原文] US President Donald Trump says it would be a "terrible mistake" if under pressure Fifa president Gianni Infantino was ousted.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cg7m3nk013mo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. GB's Hunt comes of age with European 100m gold
 
 [原文] Britain's Amy Hunt has her "coming of age" moment as she storms to 100m glory at the European Athletics Championships in Birmingham.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/c629lxdx88wo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Who could Arsenal sign after missing out on Vinicius Jr?
+### 3. Following Guardiola may be impossible job - Maresca
+
+[原文] New Manchester City manager Enzo Maresca talks about replacing Pep Guardiola, his interest in AI and his captaincy dilemma.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cz970w31k75o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. Who could Arsenal sign after missing out on Vinicius Jr?
 
 [原文] One big signing missed, but one big signing through the doors - it's been a mixed transfer window for Arsenal.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c9d84pxqdgno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Forest owner Marinakis sues Palace over gun banner
+### 5. Forest owner Marinakis sues Palace over gun banner
 
 [原文] Evangelos Marinakis is suing Crystal Palace for a banner unfurled by their fans depicting the Nottingham Forest owner holding a gun to midfielder Morgan Gibbs-White's head.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/czjlwe90py7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. The transgender controversy surrounding the WNBA
-
-[原文] After the Indiana Fever's Sophie Cunningham said it was "common sense" to ban transgender women from women's sports, a row has emerged in the WNBA - with former NBA players saying eligibility rules me
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/basketball/articles/ckg3enx6rj6o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Britain's Hunt sprints to European 100m gold
-
-[原文] Great Britain's Amy Hunt wins her first major gold medal with victory in the 100m at the European Athletics Championships in Birmingham.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/videos/cn8nd4w0wl7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Boxing Legend Chris John Joins Silver Media Group for Animated Series ‘Dragon’s Dojo’ (EXCLUSIVE)
+### 1. ‘Pacifiction’ Director Albert Serra on His New Film ’Sixteen Moments of My Life’ and Why He’d Love to Have Directed Elvis Presley
 
-[原文] Singapore&#8217;s Silver Media Group has signed a memorandum of understanding with Indonesian boxing legend Chris John to develop &#8220;Dragon&#8217;s Dojo,&#8221; a mobile-first vertical animated se
+[原文] Don’t call Albert Serra’s new film, “Seize moments de ma vie” (“Sixteen Moments of My Life”), a concert film. Premiering out of competition at the Locarno Film Festival, the film documents a one-off p
 
-📎 [阅读原文](https://variety.com/2026/tv/news/boxing-legend-chris-john-animated-series-dragons-dojo-1236831269/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/albert-serra-ingrid-caven-16-moments-of-my-life-locarno-1236831563/) — *Variety*
 
-### 2. Bill Bellamy to Receive Icon Award at Whats Funny Comedy Festival, Co-Founded by Lil Rel Howery
+### 2. ‘Mobile Suit Gundam RG XARX-ZERO’ Director Kamiyama Kenji Built His New Series Around a Metaphor for AI Fears: ‘Will We End Up Being Used by It?’
 
-[原文] Comedian, actor, and entertainer Bill Bellamy will be presented with the Icon Award at the 2026 Whats Funny Comedy Festival, recognizing his decades of excellence and impact on stand-up comedy and ent
+[原文] Kamiyama Kenji says the alien threat driving his new &#8220;Gundam&#8221; anime is a direct metaphor for humanity&#8217;s uneasy relationship with artificial intelligence. The director, known for &#82
 
-📎 [阅读原文](https://variety.com/2026/scene/news/bill-bellamy-icon-award-whats-funny-comedy-festival-lil-rel-howery-1236831692/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/mobile-suit-gundam-rg-xarx-zero-director-ai-metaphor-1236831178/) — *Variety*
 
-### 3. Ella Langley’s ‘Choosin’ Texas’ Spends 17th Week at No. 1, Now Solely Holds Fourth Place Spot Among All-Time Hot 100 Streaks
+### 3. Locarno: The Filmmakers Behind ‘Piluk,’ From the National Film Board of Canada, Discuss the Language of Animation
 
-[原文] Ella Langley&#8217;s &#8220;Choosin&#8217; Texas&#8221; is unquestionably the biggest hit single of the year, and all that&#8217;s left to decide is where the seemingly unstoppable song ultimately lan
+[原文] With a world premiere in the Locarno Film Festival&#8217;s Pardi di Domani selection of short and medium-length films, the filmmakers behind &#8220;Piluk&#8221; saw the production as a chance to tell 
 
-📎 [阅读原文](https://variety.com/2026/music/news/ella-langley-choosin-texas-17th-week-hot-100-1236831734/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/locarno-piluk-animation-national-film-board-of-canada-1236831733/) — *Variety*
 
-### 4. Demi Lovato to Make ‘Camp Rock 3’ Cameo Appearance
+### 4. ‘Spider-Man: Brand New Day,’ ‘The Odyssey’ Battle Atop U.K., Ireland Box Office
 
-[原文] Demi Lovato will make a cameo appearance in &#8220;Camp Rock 3,&#8221; reprising the role of Mitchie Torres. The news comes just ahead of the Los Angeles premiere event on Monday. The movie will debut
+[原文] Sony&#8217;s superhero blockbuster &#8220;Spider-Man: Brand New Day&#8221; retained its top spot at the U.K. and Ireland box office for a second consecutive week, taking £10.1 million ($13.6) over its
 
-📎 [阅读原文](https://variety.com/2026/tv/news/demi-lovato-camp-rock-3-cameo-1236831732/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/box-office/spider-man-brand-new-day-the-odyssey-uk-ireland-box-office-1236831811/) — *Variety*
 
-### 5. What to Know About Tupac’s Murder Trial and Suspect Duane ‘Keffe D’ Davis
+### 5. Gramado Film Festival Hosts the First International Meeting of Cities
 
-[原文] For three decades, rap legend and cultural icon Tupac Shakur’s killing has remained one of America’s great unsolved mysteries, spawning countless books, documentaries and long-form investigative journ
+[原文] The First International Meeting of Cities will take place Aug. 12-14 at the Gramado Film Market and will gather municipal-level authorities from such major towns as Medellín, Rio de Janeiro, Porto Ale
 
-📎 [阅读原文](https://variety.com/2026/music/news/tupac-murder-trial-context-duane-keffe-d-davis-diddy-netflix-memoir-crips-1236831711/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/gramado-fest-hosts-international-meeting-of-cities-1236831694/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The JSAUX Screen Protector Is Dirt Cheap Insurance for Your Nintendo Switch 2 for Just $7
+### 1. AU Deals: Save $100 on a Gigabyte OLED Monitor and get Onimusha: Way of the Sword For Free
+
+暂无摘要。
+
+📎 [阅读原文](https://www.ign.com/articles/gigabyte-oled-monitor-onimusha-way-of-the-sword-for-free-au-deals) — *IGN*
+
+### 2. Get a 36V 500W Adult Electric Bike for $275 Shipped During the AliExpress Back to School Sale
+
+[原文] This electric assisted bike can go up to 23mph with a range of up to 45 miles.
+
+📎 [阅读原文](https://www.ign.com/articles/5th-wheel-electric-bike-deal-august-2026) — *IGN*
+
+### 3. Ditch the Bubble Level, the Fanttik D2 Pocket Green Laser Level Is Priced Under $30
+
+[原文] Give up the crooked life.
+
+📎 [阅读原文](https://www.ign.com/articles/fanttik-d2-pocket-green-laser-level-deal-august-2026) — *IGN*
+
+### 4. The JSAUX Screen Protector Is Dirt Cheap Insurance for Your Nintendo Switch 2 for Just $7
 
 [原文] In comes in a three pack, in case you mess up (twice).
 
 📎 [阅读原文](https://www.ign.com/articles/nintendo-switch-screen-protector-deal-august-2026) — *IGN*
 
-### 2. Get a Complete CyberPowerPC Prebuilt Gaming PC With GeForce RTX 5070 GPU for Just $1,399 Shipped
+### 5. Get a Complete CyberPowerPC Prebuilt Gaming PC With GeForce RTX 5070 GPU for Just $1,399 Shipped
 
 [原文] It's even equipped with the latest generation 2026 Intel Ultra 7 Arrow Lake Refresh CPU.
 
 📎 [阅读原文](https://www.ign.com/articles/cyberpowerpc-geforce-rtx-5070-gaming-pc-deal-august-2026) — *IGN*
-
-### 3. The MSI Vector 16" RTX 5070 Ti Gaming Laptop Drops to $1,399 During Walmart's Back to School Sale
-
-[原文] The best price I've seen for an RTX 5070 Ti equipped gaming laptop in 2026.
-
-📎 [阅读原文](https://www.ign.com/articles/msi-vector-rtx-5070-ti-gaming-laptop-deal-walmart-back-to-school-sale) — *IGN*
-
-### 4. Chloe Bailey Wants to Play Storm in Marvel's X-Men Movie
-
-[原文] Singer, songwriter, and actress Chloe Bailey is throwing her hat in the ring for the chance at playing Storm in Marvel’s upcoming X-Men movie.
-
-📎 [阅读原文](https://www.ign.com/articles/chloe-bailey-wants-to-play-storm-in-marvels-x-men-movie) — *IGN*
-
-### 5. New York Citizen Receives Letters to Spider-Man Because He Shares a Home With Marvel's Peter Parker
-
-[原文] A New York citizen has revealed himself to be the owner of a home shared by Marvel's Peter Parker, and it just so happens to come with one major perk: letters to Spider-Man.
-
-📎 [阅读原文](https://www.ign.com/articles/new-york-citizen-receives-letters-to-spider-man-because-he-shares-a-home-with-marvels-peter-parker) — *IGN*
 
 ---
 
@@ -439,35 +439,35 @@ The post 2027 Ram Power Wagon C
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ZZ Top Drummer Frank Beard’s Health Led to Recent Show Cancellation
+### 1. Biggie’s Manager Wins Battle Against Widow Faith Evans, Gains Partial Control Over Rapper’s Catalog
+
+[原文] Wayne Barrow prevailed in his battle to get payments as the trustee of Biggie's mom's estate
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/biggie-manager-voletta-wallace-faith-evans-catalog-1235606554/) — *Rolling Stone*
+
+### 2. ZZ Top Drummer Frank Beard Facing Health Issues Following Show Cancellation
 
 [原文] Billy Gibbons and Elwood Francis will continue the tour with a fill-in for the musician, a spokesperson told Rolling Stone
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/zz-top-frank-beard-health-show-cancellation-1235606586/) — *Rolling Stone*
 
-### 2. Watch Eddie Vedder Busk in Dublin in Honor of Glen Hansard
+### 3. Watch Eddie Vedder Busk in Dublin in Honor of Glen Hansard
 
 [原文] The Pearl Jam frontman performed in Hansard’s usual spot on Grafton Street alongside Murdo Mitchell and several other musicians
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/eddie-vedder-glen-hansard-busking-dublin-1235606107/) — *Rolling Stone*
 
-### 3. Usher Addresses Claims He Used a Look-Alike Onstage: ‘They Can’t Clone This’
+### 4. Usher Addresses Claims He Used a Look-Alike Onstage: ‘They Can’t Clone This’
 
 [原文] Fans speculated that the singer employed a body double for his concert at MetLife Stadium in New Jersey
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/usher-lookalike-claims-onstage-tour-1235606100/) — *Rolling Stone*
 
-### 4. Rufus Wainwright, Kathleen Hanna, Yo La Tengo Celebrate the Radical Music of Yoko Ono
+### 5. Rufus Wainwright, Kathleen Hanna, Yo La Tengo Celebrate the Radical Music of Yoko Ono
 
 [原文] “Yoko Only,” a night of inspired performances and collaborations, honored Ono’s boundary-pushing songs, feminist vision, and enduring influence
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/yoko-ono-tribute-los-angeles-yo-la-tengo-kathleen-hanna-1235606063/) — *Rolling Stone*
-
-### 5. Inaugural LA Jazz Festival Canceled at Last Minute
-
-[原文] John Legend and Janelle Monáe were among the dozens of artists booked to play the citywide, weekslong event until it was canceled Friday, hours before its opening ceremony
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/inaugural-los-angeles-jazz-festival-canceled-last-minute-1235606056/) — *Rolling Stone*
 
 ---
 
@@ -528,6 +528,8 @@ The post 2027 Ram Power Wagon C
 ## ⚠️ 今日故障源
 
 - **🚗 汽车**: Autocar
+- **🎵 音乐**: NME
+- **✈️ 旅游**: Nomadic Matt
 
 ---
 
