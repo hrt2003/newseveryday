@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月11日** | 生成时间: 2026-08-11 15:13
+**2026年08月11日** | 生成时间: 2026-08-11 21:13
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. At least 132 killed in Colombia's largest  earthquake in years
+### 1. Trump hid in catering truck in secret plane swap over Iran threat, reports say
+
+[原文] The US president was reportedly part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Russia using North Korean missiles to strike Ukraine, Zelensky says
+
+[原文] Ukraine's president says strikes in Zaporizhzhia - which killed at least six and injured 19 - involved ballistic missiles from Russia's ally.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia
+
+[原文] The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. At least 132 killed in Colombia's largest  earthquake in years
 
 [原文] More than 480 people were injured in the quakes, with more feared trapped under collapsed buildings.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Canada flight cancelled after child refuses to wear seat belt
+### 5. Libyan authorities battle big blaze at major oil refinery
 
-[原文] The incident has sparked a debate over child safety and discipline on commercial planes.
+[原文] Monday's drone strike on the Zawiya refinery was the third such incident in two days.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 3. Watch: What we know about Tupac murder suspect Duane 'Keffe D' Davis
-
-[原文] The trial of the 63-year-old former gang boss kicked off on Monday, and he has entered a not guilty plea.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/videos/cjd48zkg5n9o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. At least 13 killed in Ukrainian drone strike deep into Russia
-
-[原文] Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word
-
-[原文] The Trump administration is said to be unbothered by the Israeli prime minister's rejection of the deal, viewing it as campaign rhetoric ahead of a general election.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cp308z9pl30o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump claims total control of Hormuz, demands Iran pay reparations as standoff deepens
+### 1. Wall Street just endorsed Jensen Huang's 'big concept' for AI. What now?
+
+[原文] The first three-plus years of the AI buildout has been funded by record amounts of equity and debt issued by leading tech companies. Nvidia has a new idea.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/11/wall-street-endorsed-jensen-huangs-big-concept-for-ai-what-now.html) — *CNBC*
+
+### 2. 'That's a good idea': U.S. and Iran trade reparation demands as Hormuz deal hopes fade
 
 [原文] The dueling positions Washington and Tehran staked out showed how far apart the two sides remain even as both talked of winding down regional hostilities.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/11/us-iran-war-trump-hormuz-control-reparation-talks-.html) — *CNBC*
 
-### 2. Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investable asset’
+### 3. Intel upsizes stock offering to $20 billion at $95 per share as AI demand accelerates
 
-[原文] Nvidia CEO Jensen Huang argued that because its hardware is broadly adopted, flexible and transferable, lenders can underwrite compute as revenue-generating.
+[原文] Technology giants have shelled out trillions to support insatiable AI demand and the infrastructure buildout.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html) — *CNBC*
 
-### 3. Hormuz Deadlock: Where oil prices could head next as prospects for an imminent deal fade
+### 4. Baby products company Frida is expanding into kids’ personal care
 
-[原文] Oil traders keep clinging to hope that the Strait of Hormuz will reopen. That won't last forever.
+[原文] Baby products company Frida is launching a new category of personal care items for kids, tapping into a growing market and largely untapped space.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/11/hormuz-oil-prices-us-iran.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/11/frida-kids-personal-care.html) — *CNBC*
 
-### 4. OpenAI wraps $7 billion share sale ahead of potential IPO
+### 5. Zelenskyy warns Putin is preparing for escalation by bringing in North Korean military equipment
 
-[原文] OpenAI's tender offer has been in the works since the company closed its record-breaking $122 billion funding round in March.
+[原文] His comments come shortly after deadly Russian attacks on cities across Ukraine overnight.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/10/openai-wraps-7-billion-share-sale-ahead-of-potential-ipo-.html) — *CNBC*
-
-### 5. Trump signs executive order calling for fewer childhood vaccines, falsely linking shots to autism
-
-[原文] The order builds on the Trump administration's efforts to reshape the childhood shot schedule under HHS Secretary RFK Jr., a longtime vaccine skeptic.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/10/trump-vaccine-executive-order-autism.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/11/ukraine-war-zelenskyy-russia-putin-north-korea.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. OpenAI reportedly completed a $7 billion employee tender offer
+### 1. Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations
+
+[原文] Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by defa
+
+📎 [阅读原文](https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/) — *TechCrunch*
+
+### 2. What comes after the smartphone? Amazon’s Panos Panay will make his case at TechCrunch Disrupt 2026
+
+[原文] At Disrupt 2026, Amazon's Panos Panay will provide an exclusive vision for what's in store for us beyond the smartphone.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/11/what-comes-after-the-smartphone-amazons-panos-panay-will-make-his-case-at-techcrunch-disrupt-2026/) — *TechCrunch*
+
+### 3. Anthropic says it will watermark text generated by its AI models
+
+[原文] Anthropic will extend support for watermarking AI generations for older models as well.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/) — *TechCrunch*
+
+### 4. OpenAI reportedly completed a $7 billion employee tender offer
 
 [原文] San Francisco's housing market is in trouble again.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/) — *TechCrunch*
 
-### 2. As AI-led attacks multiply, OpenAI launches a new cyber model
+### 5. As AI-led attacks multiply, OpenAI launches a new cyber model
 
 [原文] OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/) — *TechCrunch*
-
-### 3. Jeff Bezos might finally get his hands on a sports team
-
-[原文] Jeff Bezos is reportedly close to buying his first stake in a sports team: the U.K.'s famed Liverpool Football Club.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/10/jeff-bezos-might-finally-get-his-hands-on-a-sports-team/) — *TechCrunch*
-
-### 4. Now Rippling is counter-suing tiny startup Runlayer
-
-[原文] This lawsuit follows one filed last month by Runlayer that accused Rippling of stealing its product ideas. It's a seller- and buyer-beware market warning.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/10/now-rippling-is-counter-suing-tiny-startup-runlayer/) — *TechCrunch*
-
-### 5. Google co-founder Sergey Brin has now spent $100 million to fight the billionaire tax
-
-[原文] California's Prop 40 would impose a one-time 5% tax on the net worth of the state's billionaires.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/10/google-co-founder-sergey-brin-has-now-spent-100-million-to-fight-the-billionaire-tax/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump says it would be 'terrible mistake' to remove Infantino
+### 1. The map showing world's division over Infantino
 
-[原文] US President Donald Trump says it would be a "terrible mistake" if under pressure Fifa president Gianni Infantino was ousted.
+[原文] BBC Sport uses visuals to explore the support and opposition to Gianni Infantino's leadership of Fifa from its members.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cg7m3nk013mo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c0l5e18063lo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. GB's Hunt comes of age with European 100m gold
+### 2. Hodgkinson and gold medal rivals progress at Europeans
 
-[原文] Britain's Amy Hunt has her "coming of age" moment as she storms to 100m glory at the European Athletics Championships in Birmingham.
+[原文] Keely Hodgkinson and gold medal rivals Audrey Werro and Femke Broeders-Bol progress to remain on course for a tantalising European 800m showdown.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/c629lxdx88wo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/cwy4ww1k49eo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Following Guardiola may be impossible job - Maresca
+### 3. Forest sign Sporting's Ivory Coast defender Diomande
 
-[原文] New Manchester City manager Enzo Maresca talks about replacing Pep Guardiola, his interest in AI and his captaincy dilemma.
+[原文] Nottingham Forest sign Ivory Coast defender Ousmane Diomande from Portuguese club Sporting for a reported £34m.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cz970w31k75o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c70g5539dygo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Who could Arsenal sign after missing out on Vinicius Jr?
+### 4. Palace co-owner spoke to McNeil's partner before move
 
-[原文] One big signing missed, but one big signing through the doors - it's been a mixed transfer window for Arsenal.
+[原文] Crystal Palace co-owner and chairman Steve Parish contacts Dwight McNeil's partner before the midfielder's move to the club.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c9d84pxqdgno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cwyjxxg5ze5o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Forest owner Marinakis sues Palace over gun banner
+### 5. 'I won Commonwealth bronze - then went back to work at McDonald's'
 
-[原文] Evangelos Marinakis is suing Crystal Palace for a banner unfurled by their fans depicting the Nottingham Forest owner holding a gun to midfielder Morgan Gibbs-White's head.
+[原文] Summer Shaw wins Scotland's first judo medal at the 2026 Commonwealth Games and a week later is working at McDonald's.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/czjlwe90py7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/judo/articles/cwyl3kg71p9o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘Pacifiction’ Director Albert Serra on His New Film ’Sixteen Moments of My Life’ and Why He’d Love to Have Directed Elvis Presley
+### 1. Rosario Dawson Says Her ‘Spider-Man: Brand New Day’ Cameo ‘Got Cut Out’ and Her Mom Told Her ‘That Sucks’: ‘I Hope I Get to Be Claire Again’
 
-[原文] Don’t call Albert Serra’s new film, “Seize moments de ma vie” (“Sixteen Moments of My Life”), a concert film. Premiering out of competition at the Locarno Film Festival, the film documents a one-off p
+[原文] Rosario Dawson has revealed that she filmed a cameo in &#8220;Spider-Man: Brand New Day,&#8221; but it &#8220;got cut out.&#8221; In the Marvel Cinematic Universe, Dawson plays Claire Temple, a nurse 
 
-📎 [阅读原文](https://variety.com/2026/film/global/albert-serra-ingrid-caven-16-moments-of-my-life-locarno-1236831563/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/rosario-dawson-spider-man-brand-new-day-cameo-cut-out-1236831939/) — *Variety*
 
-### 2. ‘Mobile Suit Gundam RG XARX-ZERO’ Director Kamiyama Kenji Built His New Series Around a Metaphor for AI Fears: ‘Will We End Up Being Used by It?’
+### 2. David Ellison Threatens to Pull Paramount Out of California Starting Oct. 1 if States Refuse to Negotiate Settlement in Antitrust Suit
 
-[原文] Kamiyama Kenji says the alien threat driving his new &#8220;Gundam&#8221; anime is a direct metaphor for humanity&#8217;s uneasy relationship with artificial intelligence. The director, known for &#82
+[原文] David Ellison is eager to reach a swift resolution in the antitrust case filed by 12 states seeking to block the Paramount-Warner Bros. Discovery merger. And he&#8217;s prepared start moving Paramount
 
-📎 [阅读原文](https://variety.com/2026/tv/news/mobile-suit-gundam-rg-xarx-zero-director-ai-metaphor-1236831178/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/david-ellison-move-paramount-out-of-california-states-antitrust-lawsuit-1236831936/) — *Variety*
 
-### 3. Locarno: The Filmmakers Behind ‘Piluk,’ From the National Film Board of Canada, Discuss the Language of Animation
+### 3. Oscars: Lithuania Submits ‘How to Divorce During the War’ for International Feature Race
 
-[原文] With a world premiere in the Locarno Film Festival&#8217;s Pardi di Domani selection of short and medium-length films, the filmmakers behind &#8220;Piluk&#8221; saw the production as a chance to tell 
+[原文] Andrius Blaževičius’ “How to Divorce During the War” has been selected as Lithuania’s entry for the Academy Award for best international feature film. Blaževičius’ third feature won the directing awar
 
-📎 [阅读原文](https://variety.com/2026/film/global/locarno-piluk-animation-national-film-board-of-canada-1236831733/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/awards/how-to-divorce-during-the-war-lithuania-oscars-1236831963/) — *Variety*
 
-### 4. ‘Spider-Man: Brand New Day,’ ‘The Odyssey’ Battle Atop U.K., Ireland Box Office
+### 4. Summer Box Office Hits $4 Billion for Second Time Since COVID, Thanks to ‘Odyssey,’ ‘Spider-Man’ and More Blockbusters
 
-[原文] Sony&#8217;s superhero blockbuster &#8220;Spider-Man: Brand New Day&#8221; retained its top spot at the U.K. and Ireland box office for a second consecutive week, taking £10.1 million ($13.6) over its
+[原文] It&#8217;s officially the biggest summer at the box office since COVID, thanks to blockbusters like &#8220;The Odyssey&#8221; and &#8220;Spider-Man: Brand New Day,&#8221; as well as breakouts like &#8
 
-📎 [阅读原文](https://variety.com/2026/film/box-office/spider-man-brand-new-day-the-odyssey-uk-ireland-box-office-1236831811/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/box-office/summer-box-office-4-billion-odyssey-spiderman-obsession-backrooms-1236831246/) — *Variety*
 
-### 5. Gramado Film Festival Hosts the First International Meeting of Cities
+### 5. Selena Gomez’s Rare Beauty Impact Fund Partners With Pacsun on Denim Collection
 
-[原文] The First International Meeting of Cities will take place Aug. 12-14 at the Gramado Film Market and will gather municipal-level authorities from such major towns as Medellín, Rio de Janeiro, Porto Ale
+[原文] Selena Gomez’s Rare Impact Fund is teaming up with Pacsun once again, this time for a back-to-school denim drop that gives back to youth mental health initiatives. The retailer has unveiled its sixth 
 
-📎 [阅读原文](https://variety.com/2026/film/global/gramado-fest-hosts-international-meeting-of-cities-1236831694/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/shopping/news/selena-gomez-rare-beauty-pacsun-collection-shop-online-1236831562/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. AU Deals: Save $100 on a Gigabyte OLED Monitor and get Onimusha: Way of the Sword For Free
+### 1. Watchmen CGI Doesn't Hold Up, The Comedian Actor Jeffrey Dean Morgan Says, but He's Proud of His Fight Scene With Ozymandias
 
-暂无摘要。
+[原文] Jeffrey Dean Morgan has reflected upon Zack Snyder’s adaptation of the much-loved Alan Moore and Dave Gibbons comic book Watchmen, saying the CGI doesn’t hold up today, nearly 20 years after the film 
 
-📎 [阅读原文](https://www.ign.com/articles/gigabyte-oled-monitor-onimusha-way-of-the-sword-for-free-au-deals) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/watchmen-cgi-doesnt-hold-up-the-comedian-actor-jeffrey-dean-morgan-says-but-hes-proud-of-his-fight-scene-with-ozymandias) — *IGN*
 
-### 2. Get a 36V 500W Adult Electric Bike for $275 Shipped During the AliExpress Back to School Sale
+### 2. Selling Impossible Pokémon: Ban Reports Point to Long-Rumored Black Market for 'Injecting' Rare Pokémon Go Quests, Sparking Speculation of Insider Involvement
 
-[原文] This electric assisted bike can go up to 23mph with a range of up to 45 miles.
+[原文] Pokémon Go players are reportedly being banned for obtaining rare creatures from questlines "in an unauthorized manner", seemingly confirming past whispers of a black market that allows fans to fraudu
 
-📎 [阅读原文](https://www.ign.com/articles/5th-wheel-electric-bike-deal-august-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/selling-impossible-pokemon-ban-reports-point-to-long-rumored-black-market-for-injecting-rare-pokmon-go-quests-sparking-speculation-of-insider-involvement) — *IGN*
 
-### 3. Ditch the Bubble Level, the Fanttik D2 Pocket Green Laser Level Is Priced Under $30
+### 3. Negan Actor Jeffrey Dean Morgan Says The Walking Dead Fans Still Swear at Him in the Street for Killing Glenn 10 Years Ago
 
-[原文] Give up the crooked life.
+[原文] Jeffrey Dean Morgan says he still gets angry fans confronting him over the actions of his The Walking Dead villain, Negan, with people swearing at him in the street on a regular basis.
 
-📎 [阅读原文](https://www.ign.com/articles/fanttik-d2-pocket-green-laser-level-deal-august-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/negan-actor-jeffrey-dean-morgan-says-the-walking-dead-fans-still-swear-at-him-in-the-street-for-killing-glenn-10-years-ago) — *IGN*
 
-### 4. The JSAUX Screen Protector Is Dirt Cheap Insurance for Your Nintendo Switch 2 for Just $7
+### 4. Saber CEO Admits 'Dig' at Gearbox Boss Randy Pitchford in New Game Trailer, Saying It's Payback for 'Shots at Embracer in Borderlands 4'
 
-[原文] In comes in a three pack, in case you mess up (twice).
+[原文] Beef between two high-profile video game industry CEOs has bubbled over into the public domain, via a trailer for new taxi simulation game Rideshare Stimulator.
 
-📎 [阅读原文](https://www.ign.com/articles/nintendo-switch-screen-protector-deal-august-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/saber-ceo-admits-dig-at-gearbox-boss-randy-pitchford-in-new-game-trailer-saying-its-payback-for-shots-at-embracer-in-borderlands-4) — *IGN*
 
-### 5. Get a Complete CyberPowerPC Prebuilt Gaming PC With GeForce RTX 5070 GPU for Just $1,399 Shipped
+### 5. New, Temporary Time Attack Circuit Coming to Forza Horizon 6 for Four Weeks
 
-[原文] It's even equipped with the latest generation 2026 Intel Ultra 7 Arrow Lake Refresh CPU.
+[原文] The Horizon Mascot Party brings new cars, a new track, and new custom props.
 
-📎 [阅读原文](https://www.ign.com/articles/cyberpowerpc-geforce-rtx-5070-gaming-pc-deal-august-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/new-temporary-time-attack-circuit-coming-to-forza-horizon-6-for-four-weeks) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post 2027 Ram Power Wagon C
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. NYC Wants to Use Thermal Energy to Cool Subway Stations
+### 1. What Candidates Have Planned for Virginia’s Coast Could Decide a Key Congressional Race
+
+[原文] With Virginia’s Aug. 4 primaries in the rearview mirror, the ballot is set in one of the nation’s most competitive congressional districts.&#160; In the state’s second congressional district, Republic
+
+📎 [阅读原文](https://insideclimatenews.org/news/11082026/virginia-coast-key-congressional-race/) — *Inside Climate News*
+
+### 2. Permian Basin Community Seeks Fix for Radium in Its Drinking Water
+
+[原文] IMPERIAL, Texas—Many residents of this small town drive long distances to buy bottled water instead of opening up the tap. Pecos County Fresh Water, a county-operated utility, provides drinking water 
+
+📎 [阅读原文](https://insideclimatenews.org/news/11082026/texas-permian-basin-community-radium-in-groundwater/) — *Inside Climate News*
+
+### 3. US Senate Committee Advances Bill Exempting Montana Coal Company From Environmental Standards
+
+[原文] A U.S. Senate committee last week approved a complicated swap of underground coal resources supported by Montana’s Crow Tribe that would benefit Signal Peak Energy, a mining company that exports most 
+
+📎 [阅读原文](https://insideclimatenews.org/news/11082026/senate-indian-affairs-committee-advances-crow-revenue-act/) — *Inside Climate News*
+
+### 4. NYC Wants to Use Thermal Energy to Cool Subway Stations
 
 [原文] New York Governor Kathy Hochul and New York City Mayor Zohran Mamdani announced Monday that they, along with the Metropolitan Transportation Authority, will lead a new pilot program to study whether t
 
 📎 [阅读原文](https://insideclimatenews.org/news/10082026/nyc-thermal-energy-subway-cooling/) — *Inside Climate News*
 
-### 2. State of the Climate: A Dimming, Overheated Planet, With Degraded Oceans
+### 5. State of the Climate: A Dimming, Overheated Planet, With Degraded Oceans
 
 [原文] As global warming continued to reshape Earth’s climate, the planet’s oceans reached record high temperatures for the third year in a row in 2025. Some northern forests and tundra released more carbon 
 
 📎 [阅读原文](https://insideclimatenews.org/news/10082026/global-warming-record-high-temperatures/) — *Inside Climate News*
-
-### 3. Pennsylvania Confronts an Unfamiliar Climate Hazard: Wildfire Smoke
-
-[原文] Karen Schaeffer is used to spending a lot of time thinking about how to keep kids happy and healthy. But only recently has she confronted a new problem at the childcare center she runs in Lititz, Penn
-
-📎 [阅读原文](https://insideclimatenews.org/news/10082026/pennsylvania-wildfire-smoke-unhealthy-air/) — *Inside Climate News*
-
-### 4. A Very American Invention, Pushed to an Extreme
-
-[原文] HAIGLER, Neb.—The far southwestern corner of this state unfurls in a rolling sea of dusky-green prairie where cattle have outnumbered people for generations. A sign along U.S. Highway 34, just before 
-
-📎 [阅读原文](https://insideclimatenews.org/news/09082026/blackshirt-building-nations-largest-beef-feedlot-in-nebraska/) — *Inside Climate News*
-
-### 5. As US Offshore Wind Disappears, a Generation of Workers Is Left Behind
-
-[原文] When Gerard Mullin decided to train in offshore wind, he didn’t know what to expect. But on his first long-term project in Massachusetts, he immediately relished the consistency of the work, the good 
-
-📎 [阅读原文](https://insideclimatenews.org/news/09082026/us-offshore-wind-disappears-leaving-workers-behind/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post 2027 Ram Power Wagon C
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Biggie’s Manager Wins Battle Against Widow Faith Evans, Gains Partial Control Over Rapper’s Catalog
+### 1. Travis Barker Fights Through the Pain in ‘Louder Than Fear’ Trailer
+
+[原文] The documentary film, about the Blink-182 drummer's near-death experience in a plane crash, premieres on streaming this week
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/travis-barker-louder-than-fear-trailer-disney-hulu-1235606640/) — *Rolling Stone*
+
+### 2. Biggie’s Manager Wins Battle Against Widow Faith Evans, Gains Partial Control Over Rapper’s Catalog
 
 [原文] Wayne Barrow prevailed in his battle to get payments as the trustee of Biggie's mom's estate
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/biggie-manager-voletta-wallace-faith-evans-catalog-1235606554/) — *Rolling Stone*
 
-### 2. ZZ Top Drummer Frank Beard Facing Health Issues Following Show Cancellation
+### 3. ZZ Top Drummer Frank Beard Facing Health Issues Following Show Cancellation
 
 [原文] Billy Gibbons and Elwood Francis will continue the tour with a fill-in for the musician, a spokesperson told Rolling Stone
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/zz-top-frank-beard-health-show-cancellation-1235606586/) — *Rolling Stone*
 
-### 3. Watch Eddie Vedder Busk in Dublin in Honor of Glen Hansard
+### 4. Watch Eddie Vedder Busk in Dublin in Honor of Glen Hansard
 
 [原文] The Pearl Jam frontman performed in Hansard’s usual spot on Grafton Street alongside Murdo Mitchell and several other musicians
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/eddie-vedder-glen-hansard-busking-dublin-1235606107/) — *Rolling Stone*
 
-### 4. Usher Addresses Claims He Used a Look-Alike Onstage: ‘They Can’t Clone This’
+### 5. Usher Addresses Claims He Used a Look-Alike Onstage: ‘They Can’t Clone This’
 
 [原文] Fans speculated that the singer employed a body double for his concert at MetLife Stadium in New Jersey
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/usher-lookalike-claims-onstage-tour-1235606100/) — *Rolling Stone*
-
-### 5. Rufus Wainwright, Kathleen Hanna, Yo La Tengo Celebrate the Radical Music of Yoko Ono
-
-[原文] “Yoko Only,” a night of inspired performances and collaborations, honored Ono’s boundary-pushing songs, feminist vision, and enduring influence
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/yoko-ono-tribute-los-angeles-yo-la-tengo-kathleen-hanna-1235606063/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post 2027 Ram Power Wagon C
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Perk Is in No Rush to IPO as Revenue Nears $400 Million
+### 1. The Lessons of Cancún, Fifty Years Later
+
+[原文] Cancún worked because Mexico found a market first and built the resort second. Most of its copies reversed the order.
+
+📎 [阅读原文](https://skift.com/2026/08/11/the-lessons-of-cancun-fifty-years-later/) — *Skift*
+
+### 2. UAE’s Hotel Divide: Abu Dhabi Holds Up While Dubai Sinks
+
+[原文] Dubai’s hotel economy runs on flights that haven’t come back. Abu Dhabi’s runs on an events calendar that didn’t need them to.
+
+📎 [阅读原文](https://skift.com/2026/08/11/uaes-hotel-divide-abu-dhabi-holds-up-while-dubai-sinks/) — *Skift*
+
+### 3. Perk Is in No Rush to IPO as Revenue Nears $400 Million
 
 [原文] Perk, the travel management tech company, says it can wait on an IPO as long as it keeps growing near 50% a year without burning cash. The choppy market debut of Navan, its closest rival, hints at one
 
 📎 [阅读原文](https://skift.com/2026/08/10/perk-is-in-no-rush-to-ipo-as-revenue-nears-400-million/) — *Skift*
 
-### 2. Lemon Tree Hotels Targets UAE, Thailand, and Maldives to Follow Indian Travelers Abroad
+### 4. Lemon Tree Hotels Targets UAE, Thailand, and Maldives to Follow Indian Travelers Abroad
 
 [原文] Lemon Tree is betting a homegrown brand can find its own following abroad. But for now, it’s drawing the line at three hours’ flying time.
 
 📎 [阅读原文](https://skift.com/2026/08/10/lemon-tree-hotels-targets-uae-thailand-and-maldives-to-follow-indian-travelers-abroad/) — *Skift*
 
-### 3. Agoda CEO to Lead Booking Holdings’ New B2B Unit, New Tech Details: Scoop
+### 5. Agoda CEO to Lead Booking Holdings’ New B2B Unit, New Tech Details: Scoop
 
 [原文] If there were an internal debate among its brands about the direction of Booking Holdings' B2B efforts, Agoda seems to have won.
 
 📎 [阅读原文](https://skift.com/2026/08/10/booking-holdings-makes-leadership-appointments-tied-to-new-b2b-unit-as-partners-get-onboarded-scoop/) — *Skift*
-
-### 4. Inside GetYourGuide’s Sixteen-Year Road to Profit
-
-[原文] Sixteen years, about $750 million in equity funding, half a billion euros of losses, and one answer: repeat customers. Everything else was the cost of finding it.
-
-📎 [阅读原文](https://skift.com/2026/08/10/inside-getyourguides-sixteen-year-road-to-profit/) — *Skift*
-
-### 5. Iceland’s Hotels Were Already Full. Then Came the Eclipse.
-
-[原文] The eclipse is expected to strain Iceland’s infrastructure, but tourism leaders are betting it can also convince travelers their next trip doesn’t need to be a summer stay in Reykjavík.
-
-📎 [阅读原文](https://skift.com/2026/08/10/iceland-solar-eclipse-2026/) — *Skift*
 
 ---
 
@@ -528,8 +528,6 @@ The post 2027 Ram Power Wagon C
 ## ⚠️ 今日故障源
 
 - **🚗 汽车**: Autocar
-- **🎵 音乐**: NME
-- **✈️ 旅游**: Nomadic Matt
 
 ---
 
