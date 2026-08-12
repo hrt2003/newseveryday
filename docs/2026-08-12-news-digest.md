@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月12日** | 生成时间: 2026-08-12 03:05
+**2026年08月12日** | 生成时间: 2026-08-12 10:12
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump hid in catering truck in secret plane swap over Iran threat, reports say
+### 1. Rescuers scramble for survivors with 180 dead in Colombia earthquake
 
-[原文] The US president was reportedly part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey.
+[原文] Colombia experienced a number of aftershocks on Tuesday, as efforts continued to free survivors trapped in rubble and buildings.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Russia using North Korean missiles to strike Ukraine, Zelensky says
+### 2. Trump's dramatic plane swap hints at personal stakes of Iran war
 
-[原文] Ukraine's president says strikes in Zaporizhzhia - which killed seven people - involved ballistic missiles from Russia's ally.
+[原文] It marks another striking episode in the turbulent history of his relationship with Iran, writes the BBC's Anthony Zurcher.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia
+### 3. Trump says he switched planes after Nato summit because of possible threat
 
-[原文] The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war.
+[原文] The president says the Secret Service wanted him to go on a different flight after the Nato summit in Turkey.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Russia releases former US Marine reported in poor health
+### 4. US says helicopter fired missiles to disable ship breaking Iran blockade
 
-[原文] Trump said Robert Gilman, who was arrested in 2022, was released on a humanitarian basis, after he had reportedly been in a catatonic-like state.
+[原文] US Central Command says its helicopter hit the engine room of a Panama-flagged cargo vessel in the Gulf of Oman.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Watch: Family escapes home during Colombia earthquake
+### 5. These seaside apartments were a ghost city - then police say scammers moved in
 
-[原文] At least 169 people are dead and a state of emergency has been declared after Colombia was hit by one of its largest earthquakes in years.
+[原文] Malaysia's Forest City was pitched as "paradise" but last month police raided it over alleged scam operations.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/videos/cwyl3w1e6zxo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2kvlye1k5o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump wants to split the MMR vaccine. Experts say that's unlikely — and comes with consequences
+### 1. CoreWeave stock pops 14% as revenue doubles on accelerating AI infrastructure demand
 
-[原文] Doctors and other experts say that splitting the measles, mumps and rubella shot has no scientific basis and is unlikely to get off the ground.
+[原文] CoreWeave's revenue is surging as the AI boom continues, but the company is also sitting on $35 billion in debt.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/11/mmr-vaccine-trump-wants-to-split-childhood-shot-up.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/11/coreweave-crwv-q2-earnings-report-2026.html) — *CNBC*
 
-### 2. Trump says NYC pied-à-terre tax 'must be stopped,' eyes federal block
+### 2. Longtime OpenAI executive Brad Lightcap leaves as shake-up at AI lab continues
 
-[原文] Trump in a Truth Social post called Mamdani's pied-à-terre tax a "dangerous political 'experiment' in New York will destroy" the city and state.
+[原文] Longtime OpenAI executive Brad Lightcap announced his departure on Tuesday, the latest in a series of recent leadership shake-ups at the company.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/11/trump-nyc-pied-a-terre-tax-mamdani-lawsuit.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/11/longtime-openai-executive-brad-lightcap-leaves-as-shakeup-at-ai-lab-continues.html) — *CNBC*
 
-### 3. An inflation report Wednesday should be a big deal for the Fed. Here's what to expect
-
-[原文] The consumer price index is expected to show only a modest increase for July.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/11/an-inflation-report-wednesday-should-be-a-big-deal-for-the-fed-heres-what-to-expect.html) — *CNBC*
-
-### 4. AI computing power is becoming a tradable asset class as CME launches futures contracts
-
-[原文] The exchange is partnering with Silicon Data to introduce two compute futures contracts on Oct. 5, pending regulatory review.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/11/ai-computing-power-becomes-a-tradable-asset-class-as-cme-starts-futures.html) — *CNBC*
-
-### 5. U.S. oil rises above $83 a barrel as Iran says Strait of Hormuz won't open until conditions are met
+### 3. U.S. oil rises above $83 a barrel as Iran says Strait of Hormuz won't open until conditions are met
 
 [原文] U.S. oil had risen as much as 3% earlier in the day after President Donald Trump demanded that Iran pay reparations to the U.S.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/11/oil-prices-today-us-crude-84.html) — *CNBC*
+
+### 4. EVs dominate China’s car market: 5 takeaways from the country's latest auto sales data
+
+[原文] The China Passenger Car Association released data Tuesday showing penetration of new energy vehicles rose in July. Tesla's Model Y remained popular.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/12/china-car-sales-data-byd-tesla-geely-vw.html) — *CNBC*
+
+### 5. Sen. Darline Graham advances to Republican special primary runoff in South Carolina
+
+[原文] Progressive Democrats hope to keep their winning streak rolling in Minnesota and Wisconsin.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/11/primary-election-wisconsin-minnesota-south-carolina-democrats-hong-flanagan-craig.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Google’s Gemini app surges to one billion users
+### 1. Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months
 
-[原文] Gemini is keeping pace with OpenAI’s ChatGPT, which hit 1 billion monthly active users back in June.
+[原文] Phia, the shopping startup co-founded by Phoebe Gates and Sophia Kianni, is once again under fire for its alleged business practices.
 
-📎 [阅读原文](https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/) — *TechCrunch*
 
-### 2. Bluesky’s active user base is shrinking as its focus expands beyond the app
+### 2. Accel closes oversubscribed $550M India fund within weeks, 19 months after its last
 
-[原文] Over a year following its post-election surge, Bluesky’s mobile app is seeing a continued decline in active users, though its remaining community is still relatively engaged.
+[原文] The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.
 
-📎 [阅读原文](https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/) — *TechCrunch*
 
-### 3. What’s Scaleup Europe, the $5.7B fund that just backed satellite company ICEYE?
+### 3. Uber surprised robotics company Serve by selling its entire stake
 
-[原文] Scaleup Europe, a public-private fund with a $5.7 billion target, made its first investment by backing Finnish satellite company ICEYE.
+[原文] The divestiture comes as the two once-tight companies have started to diverge on the business side.
 
-📎 [阅读原文](https://techcrunch.com/2026/08/11/whats-scaleup-europe-the-5-7b-fund-that-just-backed-satellite-company-iceye/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/) — *TechCrunch*
 
-### 4. Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’
+### 4. FBI says cybercriminals are hacking into victims’ online accounts to steal their intimate pictures
 
-[原文] One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was "excited to help you all advance the mission from a different vantage point."
+[原文] In a new alert, the FBI said cybercriminals are targeting adults and minors in an attempt to steal their personal and intimate pictures in extortion campaigns.
 
-📎 [阅读原文](https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/08/11/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-steal-their-intimate-pictures/) — *TechCrunch*
 
-### 5. General Catalyst leads $1.1B round into 2-month-old River AI
+### 5. OpenAI launches ChatGPT desktop app for Linux
 
-[原文] River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.
+[原文] OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.
 
-📎 [阅读原文](https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. What potential Bezos deal would mean for Liverpool
+### 1. GB's Glave and Azu claim European 100m one-two
+
+[原文] Great Britain's Romell Glave and Jeremiah Azu claim a sensational European 100m one-two for the hosts in Birmingham.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/cvg70y30x5go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. A coup for Bezos and a windfall for FSG - where does deal leave Liverpool?
 
 [原文] Why investment by a group including Jeff Bezos would not make a marked difference to Liverpool's spending power - and might sit uneasily with fans.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cvgx311g1zko?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Jaissle 'bit scared' how refs will take 'emotional' touchline style
+### 3. Jaissle 'bit scared' how refs will take 'emotional' touchline style
 
 [原文] Newcastle United head coach Matthias Jaissle cut a measured figure at his unveiling news conference, but Premier League managers will come up against someone very different
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cedje42vgwjo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. The map showing world's division over Infantino
-
-[原文] BBC Sport uses visuals to explore the support and opposition to Gianni Infantino's leadership of Fifa from its members.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c0l5e18063lo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. Criticism of empty seats and ticket prices at the Europeans
+### 4. Criticism of empty seats and ticket prices at Europeans
 
 [原文] Nearly 10,000 seats were empty at Birmingham's Alexander Stadium on Monday.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c0jl66j9yjpo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Palace co-owner spoke to McNeil's partner before move
+### 5. Unhappy PSG given extra Super Cup dressing room
 
-[原文] Crystal Palace co-owner and chairman Steve Parish contacts Dwight McNeil's partner before the midfielder's move to the club.
+[原文] Champions League winners Paris St-Germain were unhappy with the space they were given at Red Bull Arena.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cwyjxxg5ze5o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cre41pqy0r7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘The Last House’ Debuts With 27.5 Million Views in Three Days
+### 1. ‘The Brink of War’ Review: Reagan and Gorbachev Engage in Unengaging Verbal Battle
 
-[原文] &#8220;The Last House,&#8221; a new thriller film starring Greta Lee and Wagner Moura, debuted with 27.5 million views in its first three days of streaming on Netflix. With that total, the movie easil
+[原文] There was a time when talky slabs of recent political history like &#8220;The Brink of War,&#8221; carried by skilled name actors who aren&#8217;t quite stars, were largely the preserve of Emmy-chasin
 
-📎 [阅读原文](https://variety.com/2026/film/news/the-last-house-ratings-netflix-views-1236832324/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/the-brink-of-war-review-1236831938/) — *Variety*
 
-### 2. Julie Andrews Turned Down ‘Princess Diaries 3’ Offer Because ‘I Think I’m Retired’ From On-Screen Acting: ‘They Asked Me All Last Year’ If I’d Return
+### 2. John Hinckley Jr. Shares New Message to Jodie Foster, 45 Years After Trying to Assassinate Ronald Reagan to Impress Her: ‘I Wish Her Well’
 
-[原文] Julie Andrews recently told InStyle magazine that she is not returning for &#8220;The Princess Diaries 3&#8221; opposite Anne Hathaway. The 90-year-old icon turned down the offer to reprise her role o
+[原文] John Hinckley Jr., the Oklahoma native who tried to assassinate President Ronald Regan in 1981 in an attempt to impress Jodie Foster, shared a new message for “The Silence of the Lambs” star during a 
 
-📎 [阅读原文](https://variety.com/2026/film/news/julie-andrews-rejected-princess-diaries-3-offer-retired-1236832252/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/john-hinckley-jr-message-jodie-foster-ronald-reagan-1236832616/) — *Variety*
 
-### 3. ‘The Daily Show’ Releases Audition Tapes for John Oliver, Michael Che, Current Hosts and More
+### 3. Zoe Saldaña Says It’s ‘Frustrating’ When Political Questions Only Get Asked to Actors of Color and Women: ‘That’s Incredibly Limiting’
 
-[原文] &#8220;The Daily Show&#8221; released a slew of never-before-seen audition tapes from past and present correspondents in a 10-minute compilation posted to YouTube. The video, honoring the satirical ne
+[原文] Zoe Saldaña is growing frustrated with political questions, mainly because she doesn&#8217;t find them being asked in equal measure across the industry. The Oscar winner said during a conversation at 
 
-📎 [阅读原文](https://variety.com/2026/tv/news/the-daily-show-audition-tapes-john-oliver-michael-che-1236832272/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/zoe-saldana-political-questions-women-of-color-white-men-1236832484/) — *Variety*
 
-### 4. ‘The Odyssey’ Photo Books Reveal Behind-the-Scenes Secrets of Filming the Trojan Horse, Battles and More
+### 4. ‘Assassin’s Creed’ Creator’s New Action-Adventure Game ‘1666: Amsterdam’ Sets Early Access Release (Gaming News Roundup)
 
-[原文] Insight Editions, Universal Pictures and Syncopy are releasing two new books capturing the making and behind-the-scenes of Christopher Nolan’s “The Odyssey.&#8221; James Mottham&#8217;s book, “Filming
+[原文] Panache Digital Games announced “1666: Amsterdam” will release in Early Access on Aug. 25. From &#8220;Assassin&#8217;s Creed&#8221; series creator Patrice Désilets, the dark, third-person narrative a
 
-📎 [阅读原文](https://variety.com/2026/artisans/news/the-odyssey-christopher-nolan-book-photos-1236832103/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/digital/news/gaming-news-roundup-week-of-august-10-1236831438/) — *Variety*
 
-### 5. Ann Hui Named Camellia Award Recipient at Busan Film Festival – Global Bulletin
+### 5. Rod Stewart Cancels Upcoming Tour Dates Following Coronary Stent Procedure
 
-[原文] CAMELLIA CONFERRED Ann Hui, one of Hong Kong cinema&#8217;s defining figures, will receive the 2026 Camellia Award at the opening ceremony of the 31st Busan International Film Festival on Oct. 6 at Bu
+[原文] Rod Stewart has announced that he will be canceling the next four weeks of performances as part of his &#8220;One Last Time&#8221; farewell tour and &#8220;The Encore Shows&#8221; Las Vegas residency 
 
-📎 [阅读原文](https://variety.com/2026/film/festivals/ann-hui-camellia-award-biff-licchavi-cinema-festival-1236832309/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/rod-stewart-cancels-tour-dates-coronary-stent-procedure-1236832530/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Lord of the Rings: War in the North Legacy Edition Gets Shadow Drop on Modern Consoles and PC
+### 1. Zack Snyder Returns to Warner Bros. Lot Years After DCEU Exit
 
-[原文] A brand new re-release of The Lord of the Rings: War in the North has been launched out of the blue on modern consoles and PC.
+[原文] Zack Snyder made a surprise return to the Warner Bros. lot years after his messy DCEU exit, sparking speculation about his future with the studio.
 
-📎 [阅读原文](https://www.ign.com/articles/the-lord-of-the-rings-war-in-the-north-legacy-edition-gets-shadow-drop-on-modern-consoles-and-pc) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/zack-snyder-returns-to-warner-bros-lot-years-after-dceu-exit) — *IGN*
 
-### 2. The Massive 77" Panasonic Z8BA 4K OLED Fire TV Drops to Just $1,199.99 Shipped
+### 2. Save 50% Off the Ecoflow River 3 Plus Power Station With Detachable Power Bank, Now Just $139
 
-[原文] Best price I've seen for a 77" OLED TV.
+[原文] This is normally a Costco exclusive product that retails for $280.
 
-📎 [阅读原文](https://www.ign.com/articles/panasonic-z85ba-4k-oled-tv-deal-august-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/ecoflow-river-3-plus-power-station-deal-august-2026) — *IGN*
 
-### 3. Toy Story 5 Gets a Digital Release Date After Crossing $1 Billion at the Global Box Office
+### 3. Ditch the Bubble Level, the Fanttik D2 Pocket Green Laser Level Is Priced Under $30
 
-[原文] Toy Story 5 will be released on digital platforms on August 18, 2026.
+[原文] Give up the crooked life.
 
-📎 [阅读原文](https://www.ign.com/articles/toy-story-5-gets-a-digital-release-date-after-crossing-1-billion-at-the-global-box-office) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/fanttik-d2-pocket-green-laser-level-deal-august-2026) — *IGN*
 
-### 4. The Legend of Zelda 40th Anniversary Nintendo Switch 2 Console Images Reportedly Leak
+### 4. The JSAUX Screen Protector Is Dirt Cheap Insurance for Your Nintendo Switch 2 for Just $7
 
-[原文] Leaked images of a The Legend of Zelda 40th Anniversary Nintendo Switch 2 console and Pro Controller appear to be circulating online.
+[原文] In comes in a three pack, in case you mess up (twice).
 
-📎 [阅读原文](https://www.ign.com/articles/the-legend-of-zelda-40th-anniversary-nintendo-switch-2-console-images-reportedly-leak) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/nintendo-switch-screen-protector-deal-august-2026) — *IGN*
 
-### 5. Minions & Monsters Is Now Available to Watch at Home
+### 5. Get a 36V 500W Adult Electric Bike for $275 Shipped During the AliExpress Back to School Sale
 
-暂无摘要。
+[原文] This electric assisted bike can go up to 23mph with a range of up to 45 miles.
 
-📎 [阅读原文](https://www.ign.com/articles/how-to-watch-minions-and-monsters-streaming) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/5th-wheel-electric-bike-deal-august-2026) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post Dodge&#8217;s &#8216;Attitude Adjustment&#8217; Is an Actual line Item 
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Corpus Christi Seeks to Block Referendum on Industrial Water Charge
+### 1. Neighbors Live in Fear After Pipeline Leak in ‘Unleashing American Energy’ Era
+
+[原文] UPPER MAKEFIELD TOWNSHIP, Pa.— As their children ran in circles at the street corner on a clear morning, parents of Mount Eyre Manor kept watch, especially mindful of the white pickup trucks that begi
+
+📎 [阅读原文](https://insideclimatenews.org/news/11082026/pennsylvania-neighborhood-deals-with-fuel-spill-as-environmental-enforcement-shrinks/) — *Inside Climate News*
+
+### 2. As Climate-Fueled Extreme Weather Spikes, Loneliness Can Be Life-Threatening
+
+[原文] Amid heat waves, wildfire smoke warnings and sudden storms over the last few months, officials around the world have urged people to follow a fairly straightforward method for keeping safe: stay insid
+
+📎 [阅读原文](https://insideclimatenews.org/news/11082026/todays-climate-extreme-weather-loneliness/) — *Inside Climate News*
+
+### 3. Corpus Christi Seeks to Block Referendum on Industrial Water Charge
 
 [原文] As Corpus Christi teetered on the edge of a water supply disaster earlier this year, community organizers circulated a petition to dramatically increase the price of water for the region’s large indus
 
 📎 [阅读原文](https://insideclimatenews.org/news/11082026/corpus-christi-fair-water-amendment-industrial-charge/) — *Inside Climate News*
 
-### 2. What Candidates Have Planned for Virginia’s Coast Could Decide a Key Congressional Race
+### 4. What Candidates Have Planned for Virginia’s Coast Could Decide a Key Congressional Race
 
 [原文] With Virginia’s Aug. 4 primaries in the rearview mirror, the ballot is set in one of the nation’s most competitive congressional districts.&#160; In the state’s second congressional district, Republic
 
 📎 [阅读原文](https://insideclimatenews.org/news/11082026/virginia-coast-key-congressional-race/) — *Inside Climate News*
 
-### 3. Permian Basin Community Seeks Fix for Radium in Its Drinking Water
+### 5. Permian Basin Community Seeks Fix for Radium in Its Drinking Water
 
 [原文] IMPERIAL, Texas—Many residents of this small town drive long distances to buy bottled water instead of opening up the tap. Pecos County Fresh Water, a county-operated utility, provides drinking water 
 
 📎 [阅读原文](https://insideclimatenews.org/news/11082026/texas-permian-basin-community-radium-in-groundwater/) — *Inside Climate News*
-
-### 4. US Senate Committee Advances Bill Exempting Montana Coal Company From Environmental Standards
-
-[原文] A U.S. Senate committee last week approved a complicated swap of underground coal resources supported by Montana’s Crow Tribe that would benefit Signal Peak Energy, a mining company that exports most 
-
-📎 [阅读原文](https://insideclimatenews.org/news/11082026/senate-indian-affairs-committee-advances-crow-revenue-act/) — *Inside Climate News*
-
-### 5. NYC Wants to Use Thermal Energy to Cool Subway Stations
-
-[原文] New York Governor Kathy Hochul and New York City Mayor Zohran Mamdani announced Monday that they, along with the Metropolitan Transportation Authority, will lead a new pilot program to study whether t
-
-📎 [阅读原文](https://insideclimatenews.org/news/10082026/nyc-thermal-energy-subway-cooling/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post Dodge&#8217;s &#8216;Attitude Adjustment&#8217; Is an Actual line Item 
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Noah Kahan Tees Up Second ‘Folk and Fairways’ Charity Show and Golf Tournament
+### 1. Rod Stewart Undergoes Successful Heart Procedure, Cancels Tour Dates to Recover
+
+[原文] After a routine coronary stent procedure, the singer is taking time off his One Last Time Tour to heal
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/rod-stewart-heart-procedure-cancels-tour-1235607202/) — *Rolling Stone*
+
+### 2. Kennedy Center to Cover $250,000 Legal Fees of Jazz Musician Who Protested Trump Takeover
+
+[原文] The organization tried to sue Chuck Redd for backing out of an annual Christmas eve gig, but a judge dismissed the suit in June
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/kennedy-center-chuck-redd-legal-fees-trump-1235607038/) — *Rolling Stone*
+
+### 3. Noah Kahan Tees Up Second ‘Folk and Fairways’ Charity Show and Golf Tournament
 
 [原文] The two-day event will take place in Stowe, Vermont, this September
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/noah-kahan-2026-folk-and-fairways-1235606936/) — *Rolling Stone*
 
-### 2. Spotify Details Plan to Label AI Artists
+### 4. Spotify Details Plan to Label AI Artists
 
 [原文] People will have the opportunity to self-disclose with an “AI Persona” badge. Otherwise, the streaming giant will start identifying and tagging relevant profiles
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/spotify-labeling-ai-artists-1235606855/) — *Rolling Stone*
 
-### 3. Blur’s Graham Coxon Remembers William Orbit: ‘This Genius Tinged With Madness’
+### 5. Blur’s Graham Coxon Remembers William Orbit: ‘This Genius Tinged With Madness’
 
 [原文] The guitarist shares his memories of collaborating with the late producer on 1999’s 13, the experimental album that also included “Tender” and “Coffee &#38; TV.”
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/blur-graham-coxon-william-orbit-tribute-1235606853/) — *Rolling Stone*
-
-### 4. Taylor Swift to Be Inducted Into Nashville Songwriters Hall of Fame
-
-[原文] Swift will join the likes of Dolly Parton, Johnny Cash, and Willie Nelson when she is honored later this year alongside Lyle Lovett
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/taylor-swift-nashville-songwriters-hall-of-fame-1235606729/) — *Rolling Stone*
-
-### 5. Amy Helm Allegedly Caused $2 Million in Damages to Levon Helm Studios, Lawsuit Claims
-
-[原文] The Woodstock venue’s new leadership team claims Levon Helm’s daughter was behind “millions of dollars of self-dealing transactions” during her tenure as president
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/amy-helm-levon-studio-lawsuit-1235606741/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post Dodge&#8217;s &#8216;Attitude Adjustment&#8217; Is an Actual line Item 
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Canadian Travel to the U.S. Ticks Up Again — But Still Far from a Full Recovery
+### 1. Airbnb Partners With Tripadvisor Experiences, Drops Build-Your-Own Strategy
+
+[原文] Airbnb was never going to be able to scale experiences without major partnerships or acquisitions.
+
+📎 [阅读原文](https://skift.com/2026/08/11/airbnb-partners-with-tripadvisor-experiences-drops-build-your-own-strategy/) — *Skift*
+
+### 2. Canadian Travel to the U.S. Ticks Up Again — But Still Far from a Full Recovery
 
 [原文] The recent increase in Canadian travel to the U.S. isn't a full comeback — it's a low bar clearing itself.
 
 📎 [阅读原文](https://skift.com/2026/08/11/canadian-travel-to-the-u-s-ticks-up-again-but-still-far-from-a-full-recovery/) — *Skift*
 
-### 2. While Rivals Cut Fees, IHG Takes a Different Route on Owner Economics
+### 3. While Rivals Cut Fees, IHG Takes a Different Route on Owner Economics
 
 [原文] Fee cuts are the story of this earnings season. IHG has a different answer and a different argument for why it doesn’t need to follow peer pressure.
 
 📎 [阅读原文](https://skift.com/2026/08/11/while-rivals-cut-fees-ihg-takes-a-different-route-on-owner-economics/) — *Skift*
 
-### 3. More Travel Leaders Join the Skift Global Forum 2026 Stage
+### 4. More Travel Leaders Join the Skift Global Forum 2026 Stage
 
 [原文] The second round of Skift Global Forum 2026 speakers is here. You get to hear how travel's biggest operators are pricing and allocating capital while the calls are still open, before any of it reaches
 
 📎 [阅读原文](https://skift.com/2026/08/11/skift-global-forum-2026-second-round-speakers/) — *Skift*
 
-### 4. Air Canada Heads Into Winter Between CEOs and With Plenty To Prove
+### 5. Air Canada Heads Into Winter Between CEOs and With Plenty To Prove
 
 [原文] The most revealing number on Wednesday may be one Air Canada stopped giving investors in April.
 
 📎 [阅读原文](https://skift.com/2026/08/11/air-canada-heads-into-winter-between-ceos-and-with-plenty-to-prove/) — *Skift*
-
-### 5. Spain’s Eclipse: A Three-Year Tourism Strategy Built Around Two Minutes of Darkness
-
-[原文] Three eclipse events between now and 2028 give Spain a rare, low-cost tool to redirect demand toward inland regions.
-
-📎 [阅读原文](https://skift.com/2026/08/11/spain-eclipse-tourism-strategy/) — *Skift*
 
 ---
 
