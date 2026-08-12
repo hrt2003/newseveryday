@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月12日** | 生成时间: 2026-08-12 10:12
+**2026年08月12日** | 生成时间: 2026-08-12 15:37
 
 ---
 
@@ -22,17 +22,17 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Trump's dramatic plane swap hints at personal stakes of Iran war
+### 2. Trump confirms he switched planes after Nato summit because of possible threat
+
+[原文] Journalists and White House staff who were on board the jet were unaware the president had left.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. Trump's dramatic plane swap hints at personal stakes of Iran war
 
 [原文] It marks another striking episode in the turbulent history of his relationship with Iran, writes the BBC's Anthony Zurcher.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 3. Trump says he switched planes after Nato summit because of possible threat
-
-[原文] The president says the Secret Service wanted him to go on a different flight after the Nato summit in Turkey.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 4. US says helicopter fired missiles to disable ship breaking Iran blockade
 
@@ -40,11 +40,11 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. These seaside apartments were a ghost city - then police say scammers moved in
+### 5. Baby Shark boy set to make K-pop debut
 
-[原文] Malaysia's Forest City was pitched as "paradise" but last month police raided it over alleged scam operations.
+[原文] The boy from the most-watched YouTube video of all time is now 17 years old, and wants to be a K-pop star.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2kvlye1k5o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/videos/cvg7zrxknvno?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,33 +54,33 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. CoreWeave stock pops 14% as revenue doubles on accelerating AI infrastructure demand
+### 1. World's largest sovereign wealth fund posts record $184 billion profit as it reveals SpaceX stake for the first time
 
-[原文] CoreWeave's revenue is surging as the AI boom continues, but the company is also sitting on $35 billion in debt.
+[原文] The fund — currently valued at around $2.34 trillion — is an investor in more than 7,000 companies across 60 countries.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/11/coreweave-crwv-q2-earnings-report-2026.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/12/norway-sovereign-wealth-fund-spacex-nvidia-apple-nbim.html) — *CNBC*
 
-### 2. Longtime OpenAI executive Brad Lightcap leaves as shake-up at AI lab continues
+### 2. Houthi attack kills six in first fatalities in Red Sea in over a year; U.S. strikes container ship
 
-[原文] Longtime OpenAI executive Brad Lightcap announced his departure on Tuesday, the latest in a series of recent leadership shake-ups at the company.
+[原文] A cargoship and containership have been hit in the Red Sea and Gulf of Oman as the war inflicts a toll on the world's critical shipping lanes.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/11/longtime-openai-executive-brad-lightcap-leaves-as-shakeup-at-ai-lab-continues.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/12/us-iran-war-trump-hormuz-houthi-attack-blockade-.html) — *CNBC*
 
-### 3. U.S. oil rises above $83 a barrel as Iran says Strait of Hormuz won't open until conditions are met
+### 3. Google’s new AI boss inherits a race to catch OpenAI and Anthropic
 
-[原文] U.S. oil had risen as much as 3% earlier in the day after President Donald Trump demanded that Iran pay reparations to the U.S.
+[原文] Koray Kavukcuoglu is taking charge of Google DeepMind as it tries to keep Gemini competitive with OpenAI and Anthropic.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/11/oil-prices-today-us-crude-84.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/12/google-deepmind-koray-kavukcuoglu.html) — *CNBC*
 
-### 4. EVs dominate China’s car market: 5 takeaways from the country's latest auto sales data
+### 4. Why the historic U.S.-Japan intervention has failed to halt the yen’s slide
 
-[原文] The China Passenger Car Association released data Tuesday showing penetration of new energy vehicles rose in July. Tesla's Model Y remained popular.
+[原文] The Japanese yen has erased about half of the gains from an unprecedented U.S.-Japan intervention less than two weeks ago.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/12/china-car-sales-data-byd-tesla-geely-vw.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/12/japan-yen-us-dollar-intervention-.html) — *CNBC*
 
 ### 5. Sen. Darline Graham advances to Republican special primary runoff in South Carolina
 
-[原文] Progressive Democrats hope to keep their winning streak rolling in Minnesota and Wisconsin.
+[原文] Progressive Democrats keep their winning streak rolling in Minnesota.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/11/primary-election-wisconsin-minnesota-south-carolina-democrats-hong-flanagan-craig.html) — *CNBC*
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months
+### 1. India’s Yulu raises $93M as quick-commerce boom fuels e-bike demand
+
+[原文] Yulu aims to have a fleet of 200,000 bikes in the next two years and faster electric two-wheelers, aiming at new logistics use cases.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/) — *TechCrunch*
+
+### 2. Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months
 
 [原文] Phia, the shopping startup co-founded by Phoebe Gates and Sophia Kianni, is once again under fire for its alleged business practices.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/) — *TechCrunch*
 
-### 2. Accel closes oversubscribed $550M India fund within weeks, 19 months after its last
+### 3. Accel closes oversubscribed $550M India fund within weeks, 19 months after its last
 
 [原文] The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/) — *TechCrunch*
 
-### 3. Uber surprised robotics company Serve by selling its entire stake
+### 4. Uber surprised robotics company Serve by selling its entire stake
 
 [原文] The divestiture comes as the two once-tight companies have started to diverge on the business side.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/) — *TechCrunch*
 
-### 4. FBI says cybercriminals are hacking into victims’ online accounts to steal their intimate pictures
+### 5. FBI says cybercriminals are hacking into victims’ online accounts to steal their intimate pictures
 
 [原文] In a new alert, the FBI said cybercriminals are targeting adults and minors in an attempt to steal their personal and intimate pictures in extortion campaigns.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/11/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-steal-their-intimate-pictures/) — *TechCrunch*
-
-### 5. OpenAI launches ChatGPT desktop app for Linux
-
-[原文] OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/) — *TechCrunch*
 
 ---
 
@@ -174,29 +174,29 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/cvg70y30x5go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. A coup for Bezos and a windfall for FSG - where does deal leave Liverpool?
+### 2. Emery chases first Super Cup - but does it matter?
+
+[原文] Aston Villa are competing in the Super Cup for the first time since 1982, but manager Unai Emery has much more recent experience of the match.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cq6dj2jn277o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. A coup for Bezos and a windfall for FSG - where does deal leave Liverpool?
 
 [原文] Why investment by a group including Jeff Bezos would not make a marked difference to Liverpool's spending power - and might sit uneasily with fans.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cvgx311g1zko?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Jaissle 'bit scared' how refs will take 'emotional' touchline style
+### 4. Depay says Corinthians 'unacceptable' as contract ends
 
-[原文] Newcastle United head coach Matthias Jaissle cut a measured figure at his unveiling news conference, but Premier League managers will come up against someone very different
+[原文] Memphis Depay accuses Corinthians of "unacceptable behaviour" and of breaching an agreement after the Brazilian club decided against renewing his contract.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cedje42vgwjo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cwym29gnkzdo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Criticism of empty seats and ticket prices at Europeans
+### 5. Ramsay-Peaty fifth in European Championships 100m final
 
-[原文] Nearly 10,000 seats were empty at Birmingham's Alexander Stadium on Monday.
+[原文] Adam Ramsay-Peaty was beaten for the first time at a European Aquatics Championships as he finished fifth in the 100m breaststroke final in Paris.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c0jl66j9yjpo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Unhappy PSG given extra Super Cup dressing room
-
-[原文] Champions League winners Paris St-Germain were unhappy with the space they were given at Red Bull Arena.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cre41pqy0r7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/swimming/articles/c4g4vyrdpddo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘The Brink of War’ Review: Reagan and Gorbachev Engage in Unengaging Verbal Battle
+### 1. Oscar Nominee Barkhad Abdi, Jim Deddes Lead Teddy Cherim’s ‘Maalstroom’; First-Look Image Released (EXCLUSIVE)
 
-[原文] There was a time when talky slabs of recent political history like &#8220;The Brink of War,&#8221; carried by skilled name actors who aren&#8217;t quite stars, were largely the preserve of Emmy-chasin
+[原文] Jim Deddes, Tenzing Woing and Somali-American actor Barkhad Abdi, known for his Oscar-nominated role in “Captain Phillips,” lead the cast of “Maalstroom,” which has just wrapped. Variety has been give
 
-📎 [阅读原文](https://variety.com/2026/film/news/the-brink-of-war-review-1236831938/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/barkhad-abdi-jim-deddes-teddy-cherims-maalstroom-1236832364/) — *Variety*
 
-### 2. John Hinckley Jr. Shares New Message to Jodie Foster, 45 Years After Trying to Assassinate Ronald Reagan to Impress Her: ‘I Wish Her Well’
+### 2. Caleb Landry Jones on the Five-Year Battle to Make ‘Down the Arm of God,’ Confronting Prejudices Against Homelessness and How Luc Besson Saved the Film
 
-[原文] John Hinckley Jr., the Oklahoma native who tried to assassinate President Ronald Regan in 1981 in an attempt to impress Jodie Foster, shared a new message for “The Silence of the Lambs” star during a 
+[原文] Trying to find funding for &#8220;Down the Arm of God&#8221; proved to be a difficult five-year ordeal for lead star and co-writer Caleb Landry Jones — one that brought the &#8220;Three Billboards Out
 
-📎 [阅读原文](https://variety.com/2026/film/news/john-hinckley-jr-message-jodie-foster-ronald-reagan-1236832616/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/caleb-landry-jones-down-the-arm-of-god-luc-besson-1236827771/) — *Variety*
 
-### 3. Zoe Saldaña Says It’s ‘Frustrating’ When Political Questions Only Get Asked to Actors of Color and Women: ‘That’s Incredibly Limiting’
+### 3. Hansal Mehta, Siddharth Bodke on ‘Scam 2010’ as First Look Unveiled for SonyLIV Series: ‘A Story About Ambition, Influence and Arrogance’ (EXCLUSIVE)
 
-[原文] Zoe Saldaña is growing frustrated with political questions, mainly because she doesn&#8217;t find them being asked in equal measure across the industry. The Oscar winner said during a conversation at 
+[原文] Siddharth Bodke&#8217;s first look as the lead of &#8220;Scam 2010&#8221; is out, with director Hansal Mehta and the actor both weighing in on the Birla Studios and Applause Entertainment production f
 
-📎 [阅读原文](https://variety.com/2026/film/news/zoe-saldana-political-questions-women-of-color-white-men-1236832484/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/hansal-mehta-scam-2010-first-look-sonyliv-1236832223/) — *Variety*
 
-### 4. ‘Assassin’s Creed’ Creator’s New Action-Adventure Game ‘1666: Amsterdam’ Sets Early Access Release (Gaming News Roundup)
+### 4. WGA Slams David Ellison’s Plan to Pull Paramount From California: ‘This Type of Behavior Is Precisely Why the Merger Should Be Blocked’
 
-[原文] Panache Digital Games announced “1666: Amsterdam” will release in Early Access on Aug. 25. From &#8220;Assassin&#8217;s Creed&#8221; series creator Patrice Désilets, the dark, third-person narrative a
+[原文] The Writers Guild of America has fired back at Paramount Skydance CEO David Ellison after he threatened to start pulling Paramount out of California on Oct. 1 if California AG Rob Bonta refused to com
 
-📎 [阅读原文](https://variety.com/2026/digital/news/gaming-news-roundup-week-of-august-10-1236831438/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/wga-david-ellison-paramount-move-california-warner-bros-1236832685/) — *Variety*
 
-### 5. Rod Stewart Cancels Upcoming Tour Dates Following Coronary Stent Procedure
+### 5. Jenna Ortega ‘Would Go All Day’ Without Food or Water as a Child Star to Make Sure She Wasn’t ‘In the Way of Anybody’
 
-[原文] Rod Stewart has announced that he will be canceling the next four weeks of performances as part of his &#8220;One Last Time&#8221; farewell tour and &#8220;The Encore Shows&#8221; Las Vegas residency 
+[原文] Jenna Ortega recently told Esquire that, as a child actor, she would go entire days without asking for food or water to make sure she was not “in the way of anybody.” “I really had it going for me as 
 
-📎 [阅读原文](https://variety.com/2026/music/news/rod-stewart-cancels-tour-dates-coronary-stent-procedure-1236832530/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/jenna-ortega-all-day-without-food-water-child-star-1236832697/) — *Variety*
 
 ---
 
@@ -439,35 +439,35 @@ The post Dodge&#8217;s &#8216;Attitude Adjustment&#8217; Is an Actual line Item 
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Rod Stewart Undergoes Successful Heart Procedure, Cancels Tour Dates to Recover
+### 1. Jason Sudeikis Joins Mumford and Sons Onstage to Sing ‘Ted Lasso’ Theme Song
+
+[原文] The actor was a surprise guest during the band's concert at Madison Square Garden
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/jason-sudeikis-mumford-and-sons-ted-lasso-theme-song-1235607296/) — *Rolling Stone*
+
+### 2. Jenna Ortega Reveals the Surprising Fact Behind Sabrina Carpenter’s ‘Taste’ Video
+
+[原文] The pair teamed up for the single's fantastically campy video in 2024
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/jenna-ortega-sabrina-carpenter-taste-music-video-bts-1235607274/) — *Rolling Stone*
+
+### 3. Rod Stewart Undergoes Successful Heart Procedure, Cancels Tour Dates to Recover
 
 [原文] After a routine coronary stent procedure, the singer is taking time off his One Last Time Tour to heal
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/rod-stewart-heart-procedure-cancels-tour-1235607202/) — *Rolling Stone*
 
-### 2. Kennedy Center to Cover $250,000 Legal Fees of Jazz Musician Who Protested Trump Takeover
+### 4. Kennedy Center to Cover $250,000 Legal Fees of Jazz Musician Who Protested Trump Takeover
 
 [原文] The organization tried to sue Chuck Redd for backing out of an annual Christmas eve gig, but a judge dismissed the suit in June
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/kennedy-center-chuck-redd-legal-fees-trump-1235607038/) — *Rolling Stone*
 
-### 3. Noah Kahan Tees Up Second ‘Folk and Fairways’ Charity Show and Golf Tournament
+### 5. Noah Kahan Tees Up Second ‘Folk and Fairways’ Charity Show and Golf Tournament
 
 [原文] The two-day event will take place in Stowe, Vermont, this September
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/noah-kahan-2026-folk-and-fairways-1235606936/) — *Rolling Stone*
-
-### 4. Spotify Details Plan to Label AI Artists
-
-[原文] People will have the opportunity to self-disclose with an “AI Persona” badge. Otherwise, the streaming giant will start identifying and tagging relevant profiles
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/spotify-labeling-ai-artists-1235606855/) — *Rolling Stone*
-
-### 5. Blur’s Graham Coxon Remembers William Orbit: ‘This Genius Tinged With Madness’
-
-[原文] The guitarist shares his memories of collaborating with the late producer on 1999’s 13, the experimental album that also included “Tender” and “Coffee &#38; TV.”
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/blur-graham-coxon-william-orbit-tribute-1235606853/) — *Rolling Stone*
 
 ---
 
