@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月13日** | 生成时间: 2026-08-13 15:39
+**2026年08月13日** | 生成时间: 2026-08-13 21:19
 
 ---
 
@@ -22,29 +22,29 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Israeli settlers besieging Palestinian families in West Bank village
+### 2. UK defends seizing shadow fleet tanker after Putin threat
 
-[原文] Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.
+[原文] The UK government says it is "disrupting and deterring shadow fleet vessels" in accordance with the law.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Ebola outbreak on track to be deadliest ever, WHO chief says
+### 3. More troops to be sent to West Bank village besieged by Israeli settlers
+
+[原文] Two Palestinian families in the village of Qusra say they have been trapped in their homes, with water and power cut off, since Sunday.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. Ebola outbreak on track to be deadliest ever, WHO chief says
 
 [原文] The outbreak, declared on 15 May, has caused more than 2,000 deaths, with thousands more reported cases.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Why are 'human fridges' being sold in Japan?
+### 5. Travis Kelce shares first details from his wedding to Taylor Swift: 'Best night of my life'
 
-[原文] As Japan swelters through extreme summer heat, BBC Tokyo correspondent Kurumi Mori tries out a new way to cool down.
+[原文] In the comments, Kelce called Swift his "wife" for first time and said it was a "childhood dream" to wed at Madison Square Garden.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/videos/cjej4y3gvzlo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Indian actor's video with endangered gibbon sparks investigation
-
-[原文] A deleted video of Tamil star Vikram cuddling an endangered gibbon has triggered an inquiry into how the animal entered India.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c9q9351yp1xo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘Hormuz remains blocked’: Iran disputes Trump claims as traffic sinks to near 3-month lows
+### 1. Wholesale prices were flat in July, below expectations for 0.2% increase
 
-[原文] The Persian Strait Gulf Authority said "the Strait of Hormuz remains blocked and will not be reopened until Iran's conditions are accepted."
+[原文] The producer price index was expected to increase by 0.2% in July, according to the Dow Jones consensus.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/13/us-iran-war-trump-hormuz-irgc.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/13/wholesale-prices-were-flat-in-july-below-expectations-for-0point2percent-increase.html) — *CNBC*
 
-### 2. This Chinese firm has topped Micron and Kioxia in shipments of crucial NAND memory chips
+### 2. Iran looks to ramp up economic alliance with BRICS nations as war with U.S. drags on
 
-[原文] Counterpoint Research looked at the NAND segment of memory chips, which is benefitting along with the larger DRAM segment from artificial intelligence demand.
+[原文] Iran’s central bank chief said Thursday that the country is set to join the BRICS New Development Bank.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/13/chinese-firm-tops-micron-kioxia-shipments-nand-memory-chips.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/13/iran-war-brics-bank.html) — *CNBC*
 
-### 3. South Korea’s Kospi has staged a stunning comeback. How long will the bull market last?
+### 3. An inside look at SK Hynix $720 billion AI-fueled buildout that's taking over South Korea
 
-[原文] South Korea's Kospi has staged a reversal from its latest rout, returning to bull-market territory as investors piled back into the semiconductor giants that dominate the index.
+[原文] SK Hynix, the leading maker of high-bandwidth memory, is pouring $720 billion into memory factories to meet AI demand. We got an exclusive first look.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/13/south-korea-kospi-bull-market-sk-hynix-samsung-surge.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/13/inside-sk-hynixs-720-billion-bet-to-build-enough-memory-for-ai.html) — *CNBC*
 
-### 4. Trump says Karoline Leavitt resigning as White House press secretary
+### 4. Trump-linked oil venture delays Greenland drilling plans after government warning
 
-[原文] Leavitt, the youngest White House press secretary ever, gave birth in May to a girl, her second child.
+[原文] Greenland Energy Company and joint venture partner 80 Mile have delayed planned oil drilling in Greenland until winter 2027.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/12/trump-white-house-karoline-leavitt-resigning-.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/13/greenland-energy-oil-drilling-trump.html) — *CNBC*
 
-### 5. Cerebras stock plunges 14% after second earnings report following IPO
+### 5. New federal rules could end mortgage escrow interest for some homeowners. States are suing to block them
 
-[原文] Cerebras Systems reported better-than-expected second-quarter revenue and raised its full-year guidance.
+[原文] A new lawsuit challenges recently issued rules from federal banking regulators that preempts state laws requiring banks to pay interest on escrow accounts.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/12/cerebras-cbrs-q2-earnings-report-2026.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/13/mortgage-escrow-account-interest-lawsuit-bank-rules.html) — *CNBC*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Fearless Madjo, 17, ends eight-month wait with eye-catching Villa debut
+### 1. Hodgkinson into 800m final after dramatic Werro fall
 
-[原文] Teenage striker Brian Madjo scores on his Aston Villa debut in Uefa Super Cup defeat by Paris St-Germain to end eight-month wait for a chance to play in competitive games.
+[原文] Keely Hodgkinson reaches the women's 800m final at the European Championships - moments after rival Audrey Werro suffers a dramatic fall that put her place in doubt.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cg4dp23z5z7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/cgq5pd4n0y5o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. GB's Hudson-Smith wins historic 400m gold on home track - highlights & report
+### 2. Critical former referees add to culture of fear, says retiring Taylor
 
-[原文] Great Britain's Matthew Hudson-Smith makes history as the joint-most decorated man of all-time at European Championships by claiming 400m gold in Birmingham.
+[原文] Retiring Premier League referee Anthony Taylor says his decision to quit was partly due to the toxic debate around officials.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/c93560k7l6go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/czxq25zejj4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Messi plays for Inter Miami after father's death
+### 3. Football Association of Ireland withdraws Infantino support
 
-[原文] Lionel Messi makes a substitute appearance for Inter Miami on Wednesday following the death of his father and hinting he may retire.
+[原文] The Football Association of Ireland [FAI] officially withdraws support for under-fire Fifa president Gianni Infantino, while the Irish Football Association [IFA] confirms it backs Uefa's stance.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cz9722y1ee7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cy8m2mg0y99o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Only wins can stop curfew hokey-cokey for England's 'grown adults'
+### 4. Hodgkinson leads home Broeders-Bol to qualify for 800m final
 
-[原文] England have scrapped their midnight curfew seven months after introducing it. Now, only wins will repair the reputational damage they have sustained, says Stephan Shemilt.
+[原文] Great Britain's Keely Hodgkinson wins her 800m semi-final leading home Femke Broeders-Bol of the Netherlands.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/czjl2pelp1go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/videos/c07r2lz4ne0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Fernandes the centre of attention - but what next for Man Utd captain?
+### 5. Fulham leave pitch as Malaga take penalty into empty net
 
-[原文] Manchester United skipper Bruno Fernandes is attracting attention on and off the pitch.
+[原文] Fulham's pre-season friendly against Malaga ends in chaotic fashion as the Premier League side leave the pitch before a penalty shootout.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cvgwzegz9ggo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cz052j8x9x1o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Busan’s Asian Contents & Film Market Names Japan 2026 Focus Country for Producer Hub
+### 1. Netflix’s ‘My Brilliant Career’ Is a Spunky Reimagining of the Australian Period Drama: TV Review
 
-[原文] The Asian Contents &#38; Film Market (ACFM) has selected Japan as the 2026 Focus Country for its Producer Hub, a co-production networking platform tied to the Busan International Film Festival (BIFF(.
+[原文] Based on the feminist writer Miles Franklin’s 1901 novel of the same name — and having been previously adapted in Gillian Armstrong&#8217;s acclaimed 1979 film starring Judy Davis and Sam Neill — Netf
 
-📎 [阅读原文](https://variety.com/2026/film/markets-festivals/busan-acfm-japan-2026-focus-country-producer-hub-1236833558/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/reviews/my-brilliant-career-review-netflix-1236833152/) — *Variety*
 
-### 2. ‘Far From the Trees’ Director Meritxell Colell on Turning Exile and Endangered Languages Into a ‘Body of Memory’
+### 2. ‘American Horror Story: 13’ Teaser Brings Back Jessica Lange and Rubber Man as FX Sets Release Dates for 13 Half-Hour Episodes
 
-[原文] In “Far From the Trees,” (&#8220;Lejos de los árboles&#8221;) Meritxell Colell asks viewers to listen before they try to understand. Premiering in Locarno’s international competition, the Spain-Italy-
+[原文] FX is finally lifting the curtain on &#8220;American Horror Story: 13,&#8221; courtesy of a new teaser trailer that confirms the returns of Jessica Lange as Constance Langdon (&#8220;AHS: Murder House
 
-📎 [阅读原文](https://variety.com/2026/global/global/far-from-the-trees-director-meritxell-colell-1236827380/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/american-horror-story-13-trailer-jessica-lange-rubber-man-1236833666/) — *Variety*
 
-### 3. Ritchie Blackmore Performs With Deep Purple for First Time Since Acrimonious Split in Early ’90s, After Warning Fans: ‘I Have Not Played Rock Music in 25 Years’
+### 3. ‘Far From the Trees’ Review: A Richly Contemplative Journey of Physical and Mental Meanderings, Beautifully Combining 4K Digital with Super 16
 
-[原文] Most Deep Purple fans had long since given up any hope of seeing the band ever share a stage with founding guitarist Ritchie Blackmore again, due to a well-know, decades-long estrangement. But that&#8
+[原文] Language and sounds trigger idyllic childhood recollections in Meritxell Colell Aparicio’s deeply personal, contemplative drama “Far From the Trees,” a handsome reverie blending 4K, Super16mm and arch
 
-📎 [阅读原文](https://variety.com/2026/music/news/ritchie-blackmore-deep-purple-performs-smoke-on-the-water-1236833509/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/reviews/far-from-the-trees-review-1236833672/) — *Variety*
 
-### 4. Andreas Dresen, Doris Dörrie Films to World Premiere  at Zurich Film Festival
+### 4. David Letterman to Interview Matt Damon, Julia Roberts and More in ‘My Next Guest’ Season 7
 
-[原文] The world premieres of two major German films, Andreas Dresen’s “Love, After All” and Doris Dörrie’s “How Can I Help?,” are among 11 titles to feature in the Gala Premieres section of Zurich Film Fest
+[原文] David Letterman&#8217;s next guests who need no introduction are Matt Damon, Julia Roberts, Jimmy Kimmel and Alex Honnold. The late-night legend will sit down with the aforementioned subjects for long
 
-📎 [阅读原文](https://variety.com/2026/film/global/andreas-dresen-doris-dorrie-zurich-film-festival-1236833312/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/david-letterman-interview-matt-damon-my-next-guest-1236833517/) — *Variety*
 
-### 5. Indian Freedom Fighter Bhagat Singh Series in Development at Collective Studios’ Historyverse (EXCLUSIVE)
+### 5. ‘How Long Gone’ to Host Inaugural Awards Show ‘The Goneies’ in New York (EXCLUSIVE)
 
-[原文] A new original series exploring the life of Indian freedom fighter Bhagat Singh is in development at Collective Studios&#8217; Historyverse. The project is being made in association with Hathiramani C
+[原文] Move over, Oscars: There&#8217;s a brand new awards show for bicoastal elitists. &#8220;How Long Gone,&#8221; the cult-famous culture podcast hosted by Chris Black and Jason Stewart, has announced the
 
-📎 [阅读原文](https://variety.com/2026/film/news/bhagat-singh-series-collective-studios-historyverse-1236833000/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/legit/news/how-long-gone-awards-show-1236833524/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Here's Where to Stream Every Minions Movie Online Right Now
+### 1. Spider-Man: Brand New Day Writers Insist That, 'Technically,' Jean Grey Didn't Kill Anyone — or So We Should Believe
 
-暂无摘要。
+[原文] Spider-Man: Brand New Day's screenwriters have stated that Jean Grey did not actually kill anyone during the movie — "technically", at least.
 
-📎 [阅读原文](https://www.ign.com/articles/where-to-stream-every-minions-movie-in-order) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/spider-man-brand-new-day-writers-insist-that-technically-jean-grey-didnt-kill-anyone-or-so-we-should-believe) — *IGN*
 
-### 2. McDonald's Announces Eight Hello Kitty x Godzilla Toys Coming to Happy Meals This August
+### 2. MTG Marvel Commander Deck Bundle Drops to Lowest Price Ever at Amazon
 
-[原文] Hello Kitty and Godzilla are coming to McDonald’s Happy Meals this August in one of the most highly-anticipated collaborations to ever hit the fast food franchise.
+[原文] Get the MTG x Marvel Commander Deck bundle for just $199.99 at Amazon. Save $100 on all four decks in this limited-time restock deal.
 
-📎 [阅读原文](https://www.ign.com/articles/mcdonalds-announces-eight-hello-kitty-x-godzilla-toys-coming-to-happy-meals-this-august) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/mtg-marvel-commander-deck-bundle-deal) — *IGN*
 
-### 3. Made by Google 2026: Everything Announced
+### 3. Target Offers 20% Off GTA 6 and Marvel’s Wolverine Preorders for Students and Teachers
 
-[原文] Every year, Google holds the Made By Google event, where the company reveals its flagship mobile hardware for the next year. This time around, we already know the Pixel 11 is going to be there, but th
+[原文] Students and teachers can save 20% on GTA 6 and Marvel’s Wolverine preorders at Target for a limited time in a new "Back-to-School" offer.
 
-📎 [阅读原文](https://www.ign.com/articles/made-by-google-2026-everything-announced) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/target-gta-6-wolverine-preorder-discount) — *IGN*
 
-### 4. Old School Runescape Officially Recognizes Player Who Reached Level 99 Fishing Catching Only Shrimp and Anchovies
+### 4. Space Marine 2 Maker Saber Interactive Confirms It Will an Add AI Label to Rideshare Stimulator on Steam Following Controversy
 
-[原文] The official Old School Runescape X account has responded after a player managed to get their Fishing skill up to level 99 catching only shrimp and anchovies.
+[原文] The boss of Rideshare Stimulator publisher Saber Interactive has confirmed that an AI label will be added to the game's Steam page, following public criticism.
 
-📎 [阅读原文](https://www.ign.com/articles/old-school-runescape-officially-recognizes-player-who-reached-level-99-fishing-catching-only-shrimp-and-anchovies) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/space-marine-2-maker-saber-interactive-confirms-it-will-an-add-ai-label-to-rideshare-stimulator-on-steam-following-controversy) — *IGN*
 
-### 5. The 4K-Capable Andromeda Insights Radeon RX 9070 XT Gaming PC Drops to Just $1,499 Shipped
+### 5. Save 15% on Nintendo eShop Gift Cards at Amazon Today
 
-[原文] The Radeon RX 9070 XT nearly matches the peformance of the now-$1,000 GeForce RTX 5070 Ti.
+[原文] Amazon has brought back its 15% discount on Nintendo eShop digital gift cards for Prime members for a limited time only.
 
-📎 [阅读原文](https://www.ign.com/articles/andromeda-insights-radeon-rx-9070-xt-gaming-pc-deal-july) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/nintendo-eshop-gift-card-amazon-deal) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post Jaguar Gives Us a Glimpse of Type 01 EV&#8217;s Dashboard: TDS appeared
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Chicago Mayor Seeks to Curb Health and Environmental Impacts of Data Centers
+### 1. So Much Solar: Digging Into the List of Every US Power Plant That Went Online This Year
+
+[原文] It’s been a wild first half of the year in the U.S. power sector, with announcements of gigantic natural gas power plants and some long-awaited renewable energy projects coming online. At times of rap
+
+📎 [阅读原文](https://insideclimatenews.org/news/13082026/inside-clean-energy-new-us-power-plants/) — *Inside Climate News*
+
+### 2. Wildfires and Extreme Heat Challenge Water Activist’s Attempt to Run the Length of the Colorado River
+
+[原文] Mina Guli had run more than 25 miles when she saw the plume of smoke towering over the Utah desert. The Australian ultrarunner was preparing to run another 25 miles in the morning, but watching the ne
+
+📎 [阅读原文](https://insideclimatenews.org/news/13082026/colorado-river-wildfires-and-heat-challenges-ultrarunner/) — *Inside Climate News*
+
+### 3. A Green Oasis Grows in North Philadelphia’s Heat Island
+
+[原文] In the concrete jungle of North Philadelphia, a garden blooms in vivid color. Flowers, vegetable beds and fruit trees thrive on a quiet street corner where the rattle of trains passing overhead or mus
+
+📎 [阅读原文](https://insideclimatenews.org/news/13082026/community-garden-transforms-north-philadelphia-heat-island/) — *Inside Climate News*
+
+### 4. AI Applications for Oil and Gas Companies Worsen Climate Pollution
+
+[原文] The “enabled emissions” that come when oil and gas drillers use artificial intelligence to find and exploit new energy reserves are far more damaging to the climate than the emissions that come from t
+
+📎 [阅读原文](https://insideclimatenews.org/news/13082026/ai-enables-oil-and-gas-production/) — *Inside Climate News*
+
+### 5. Chicago Mayor Seeks to Curb Health and Environmental Impacts of Data Centers
 
 [原文] Chicago environmental justice advocates say a new effort in the city to regulate data centers is an important step toward addressing public health and affordability concerns as national pressure on th
 
 📎 [阅读原文](https://insideclimatenews.org/news/12082026/chicago-mayor-data-center-regulations/) — *Inside Climate News*
-
-### 2. Corpus Christi Puts Industrial Water Charge on November Ballot
-
-[原文] Reservoirs have rebounded, but the fight over water isn’t over in Corpus Christi. The City Council has ordered a public referendum on a citizen-led petition that would sharply increase the price of wa
-
-📎 [阅读原文](https://insideclimatenews.org/news/12082026/corpus-christi-industrial-water-charge-referendum/) — *Inside Climate News*
-
-### 3. Sharks on a Plane
-
-[原文] Inside an insulated FedEx package, sloshing around in a sealed sack of seawater at 30,000 feet, four shark eggs traveled from the U.S. to Indonesia last month. Each leathery capsule—affectionately nic
-
-📎 [阅读原文](https://insideclimatenews.org/news/12082026/indonesia-zebra-shark-repopulation/) — *Inside Climate News*
-
-### 4. California Officials Scrambled as Spring Wildfire Neared Former Nuclear Reactor Site, Emails Show
-
-[原文] As a wildfire in May approached the site of one of the worst nuclear meltdowns in U.S. history, state and local officials scrambled to respond to the blaze and to establish proper real-time radiation 
-
-📎 [阅读原文](https://insideclimatenews.org/news/12082026/california-sandy-fire-santa-susana-nuclear-site-safety/) — *Inside Climate News*
-
-### 5. Michigan Voters Just Sent a Resounding Message About Data Centers
-
-[原文] Plans for a 26-megawatt data center that surfaced in Allen Park, Michigan, last year quickly ignited a groundswell of opposition from residents in the small, working-class Detroit suburb. As in dozens
-
-📎 [阅读原文](https://insideclimatenews.org/news/12082026/michigan-primary-votes-against-data-centers/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post Jaguar Gives Us a Glimpse of Type 01 EV&#8217;s Dashboard: TDS appeared
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Hayley Williams’ Band Power Snatch Surprise Drop ‘EP2’
+### 1. Lauryn Hill and Wyclef Jean Lead 2026 Global Citizen Festival Lineup
+
+[原文] The Fugees members will celebrate the 30th anniversary of The Score at the festival, which will also feature appearances from Lenny Kravitz, John Legend, Lainey Wilson and Shaboozey
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/2026-global-citizen-festival-lineup-1235607497/) — *Rolling Stone*
+
+### 2. ‘KPop Demon Hunters’ Singer Says Leonardo DiCaprio Made Her ‘Nervous’ During BAFTA Performance
+
+[原文] EJAE reflected on performing "Golden" at the BAFTA Film Awards "in front of all these celebrities"
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/kpop-demon-hunters-ejae-leonardo-dicaprio-bafta-performance-1235607911/) — *Rolling Stone*
+
+### 3. Hayley Williams’ Band Power Snatch Surprise Drop ‘EP2’
 
 [原文] The singer's band with producer Daniel James released their second project on Wednesday
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/hayley-williams-band-power-snatch-ep2-1235607900/) — *Rolling Stone*
 
-### 2. Taylor Swift Removes Yet Another Song From Yet Another White House TikTok Video
+### 4. Taylor Swift Removes Yet Another Song From Yet Another White House TikTok Video
 
 [原文] The Trump-affiliated account attempted to use "I Bet You Think About Me" in latest antagonistic post
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/taylor-swift-removes-song-trump-white-house-tiktok-1235607884/) — *Rolling Stone*
 
-### 3. Sean Combs Sues Lil Rod for Defamation, Selling Footage to Netflix
+### 5. Sean Combs Sues Lil Rod for Defamation, Selling Footage to Netflix
 
 [原文] Combs accused the music producer of selling his personal documentary footage to Netflix and making defamatory statements in the 50-Cent produced docuseries
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/sean-combs-lil-rod-lawsuit-defamation-selling-video-netflix-1235606148/) — *Rolling Stone*
-
-### 4. Kim Kardashian and Kris Jenner Win Another Round in Ray J Defamation War
-
-[原文] A judge ruled the women can proceed with their lawsuit claiming Ray J "maliciously" defamed them with the suggestion they were — or should be — the targets of a racketeering investigation
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/kim-kardashian-wins-round-ray-j-defamation-war-1235607722/) — *Rolling Stone*
-
-### 5. Neil Perry Claims He Was ‘Terminated’ From the Band Perry
-
-[原文] “I believe it’s fair to correct a false narrative, especially after asking to not be misrepresented,” Neil Perry tells Rolling Stone, after a series of Instagram posts addressing comments his sister m
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/neil-perry-kimberly-band-fired-1235607600/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post Jaguar Gives Us a Glimpse of Type 01 EV&#8217;s Dashboard: TDS appeared
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Stranded Cruise Ships, Higher Fuel Prices: Iran War Eats Into TUI’s Profits
+### 1. Yatra Online Uses Travel Disruption to Go Deeper Into Corporate Travel
+
+[原文] Yatra may be seeing less corporate travel right now, but it's building the infrastructure to capture more of it later.
+
+📎 [阅读原文](https://skift.com/2026/08/13/yatra-online-uses-travel-disruption-to-go-deeper-into-corporate-travel/) — *Skift*
+
+### 2. Virgin Atlantic’s CEO on Why People and Experience Make the Difference
+
+[原文] Corneel Koster is betting Virgin Atlantic wins where AI can't. Namely, the feeling a traveler leaves with. But turning that into paying customers — not just loyal fans — is the real test of his first 
+
+📎 [阅读原文](https://skift.com/2026/08/13/corneel-koster-virgin-atlantic-ai-customer-experience/) — *Skift*
+
+### 3. Stranded Cruise Ships, Higher Fuel Prices: Iran War Eats Into TUI’s Profits
 
 [原文] Bookings were softer in the company’s third quarter, but executives said business has started to normalize in recent weeks.
 
 📎 [阅读原文](https://skift.com/2026/08/12/tui-q3-earnings-iran-war/) — *Skift*
 
-### 2. These 13 Environmental Laws Could be Waived to Speed Up Airport-to-Spaceport Conversions
+### 4. These 13 Environmental Laws Could be Waived to Speed Up Airport-to-Spaceport Conversions
 
 [原文] The industry praised the move but environmentalists say it’s a giveaway of power.
 
 📎 [阅读原文](https://skift.com/2026/08/12/these-13-environmental-laws-could-be-waived-to-speed-up-airport-to-spaceport-conversions/) — *Skift*
 
-### 3. Premier Inn’s UAE and Saudi Expansion Signals Where Gulf Hotel Demand Is Actually Holding Up
+### 5. Premier Inn’s UAE and Saudi Expansion Signals Where Gulf Hotel Demand Is Actually Holding Up
 
 [原文] Premier Inn’s war-year numbers back up a Gulf hospitality split: mid-market held occupancy, luxury held rate.
 
 📎 [阅读原文](https://skift.com/2026/08/12/premier-inns-uae-and-saudi-expansion-signals-where-gulf-hotel-demand-is-actually-holding-up/) — *Skift*
-
-### 4. American Airlines CEO Outlines C-Suite Overhaul to Close ‘Meaningful Gap’
-
-[原文] American is hoping that reshuffling its executive ranks will help boost profitability as it faces more pressure to close the gap with Delta and United.
-
-📎 [阅读原文](https://skift.com/2026/08/12/american-airlines-ceo-outlines-c-suite-overhaul-close-meaningful-gap/) — *Skift*
-
-### 5. Air Canada Sold Aeroplan, Bought It Back, and Has Now Sold a Quarter of It Again
-
-[原文] Is Air Canada saying goodbye or simply au revoir to 25% of Aeroplan? A repurchase clause suggests the airline is keen to keep its options open.
-
-📎 [阅读原文](https://skift.com/2026/08/12/air-canada-sold-aeroplan-bought-it-back-and-has-now-sold-a-quarter-of-it-again/) — *Skift*
 
 ---
 
