@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月13日** | 生成时间: 2026-08-13 10:16
+**2026年08月13日** | 生成时间: 2026-08-13 15:39
 
 ---
 
@@ -16,11 +16,11 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Major Russian grain export terminals hit in Ukraine Black Sea port attack
+### 1. Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC
 
-[原文] Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.
+[原文] In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only "destroy Ukraine, not conquer it", with the war now in its fifth year.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 2. Israeli settlers besieging Palestinian families in West Bank village
 
@@ -34,17 +34,17 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Trump says White House press secretary Karoline Leavitt to leave post
-
-[原文] Leavitt will depart from her role to spend time with her young children and family, the president says.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Why are 'human fridges' being sold in Japan?
+### 4. Why are 'human fridges' being sold in Japan?
 
 [原文] As Japan swelters through extreme summer heat, BBC Tokyo correspondent Kurumi Mori tries out a new way to cool down.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/videos/cjej4y3gvzlo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Indian actor's video with endangered gibbon sparks investigation
+
+[原文] A deleted video of Tamil star Vikram cuddling an endangered gibbon has triggered an inquiry into how the animal entered India.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c9q9351yp1xo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Cerebras stock plunges 14% after second earnings report following IPO
+### 1. ‘Hormuz remains blocked’: Iran disputes Trump claims as traffic sinks to near 3-month lows
+
+[原文] The Persian Strait Gulf Authority said "the Strait of Hormuz remains blocked and will not be reopened until Iran's conditions are accepted."
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/13/us-iran-war-trump-hormuz-irgc.html) — *CNBC*
+
+### 2. This Chinese firm has topped Micron and Kioxia in shipments of crucial NAND memory chips
+
+[原文] Counterpoint Research looked at the NAND segment of memory chips, which is benefitting along with the larger DRAM segment from artificial intelligence demand.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/13/chinese-firm-tops-micron-kioxia-shipments-nand-memory-chips.html) — *CNBC*
+
+### 3. South Korea’s Kospi has staged a stunning comeback. How long will the bull market last?
+
+[原文] South Korea's Kospi has staged a reversal from its latest rout, returning to bull-market territory as investors piled back into the semiconductor giants that dominate the index.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/13/south-korea-kospi-bull-market-sk-hynix-samsung-surge.html) — *CNBC*
+
+### 4. Trump says Karoline Leavitt resigning as White House press secretary
+
+[原文] Leavitt, the youngest White House press secretary ever, gave birth in May to a girl, her second child.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/12/trump-white-house-karoline-leavitt-resigning-.html) — *CNBC*
+
+### 5. Cerebras stock plunges 14% after second earnings report following IPO
 
 [原文] Cerebras Systems reported better-than-expected second-quarter revenue and raised its full-year guidance.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/12/cerebras-cbrs-q2-earnings-report-2026.html) — *CNBC*
-
-### 2. Oil rises on worries over supply disruptions as spill near Oman worsens
-
-[原文] News of recent deadly attacks on vessels in the Gulf of Oman and the Red Sea drove oil higher. An oil spill near Oman continued to worsen.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/13/oil-spill-near-oman-worries-over-supply-.html) — *CNBC*
-
-### 3. South Korea's Kospi swings from bear to bull-market territory in just over a month on AI trade
-
-[原文] South Korean stocks rallied on Thursday, pushing the benchmark Kospi into a technical bull market.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/13/south-korea-kospi-bull-market-sk-hynix-samsung-ai-trade.html) — *CNBC*
-
-### 4. U.S. budget deficit surged in July to highest level since March 2021
-
-[原文] Beyond the big single-month jump, the collective red ink over the 10 months of the fiscal year rose to nearly $1.8 trillion, surpassing the same period in 2025.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/12/us-budget-deficit-surged-in-july-to-highest-level-since-march-2021.html) — *CNBC*
-
-### 5. Goldman says Japan's $1 trillion of reserves leaves 'plenty of capacity' for further yen interventions
-
-[原文] Japan has enough cash at its disposal for a couple more rounds of yen-buying on the scale of last month's intervention, Goldman Sachs says.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/13/us-japan-dollar-yen-intervention-goldman.html) — *CNBC*
 
 ---
 
@@ -168,7 +168,7 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Fearless Madjo, 17, ends eight-month wait with dream Villa debut
+### 1. Fearless Madjo, 17, ends eight-month wait with eye-catching Villa debut
 
 [原文] Teenage striker Brian Madjo scores on his Aston Villa debut in Uefa Super Cup defeat by Paris St-Germain to end eight-month wait for a chance to play in competitive games.
 
@@ -180,23 +180,23 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/c93560k7l6go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Messi's most iconic moments as he ponders retirement
+### 3. Messi plays for Inter Miami after father's death
 
-[原文] As Lionel Messi considers his footballing future following the death of his father, BBC Sport looks back at some of his most iconic moments.
+[原文] Lionel Messi makes a substitute appearance for Inter Miami on Wednesday following the death of his father and hinting he may retire.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c74x9zd83vlo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cz9722y1ee7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Fernandes the centre of attention - but what next for Man Utd captain?
+### 4. Only wins can stop curfew hokey-cokey for England's 'grown adults'
+
+[原文] England have scrapped their midnight curfew seven months after introducing it. Now, only wins will repair the reputational damage they have sustained, says Stephan Shemilt.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/czjl2pelp1go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 5. Fernandes the centre of attention - but what next for Man Utd captain?
 
 [原文] Manchester United skipper Bruno Fernandes is attracting attention on and off the pitch.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cvgwzegz9ggo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Atletico agree £34.2m deal for Tottenham's Romero
-
-[原文] Cristian Romero is set to join La Liga side Atletico Madrid as they agree a £34.2m fee with Tottenham for their captain.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cy8e2vx2l30o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. DGA and IATSE Push Rob Bonta to Allow Paramount-Warner Bros. Merger With Conditions
+### 1. Busan’s Asian Contents & Film Market Names Japan 2026 Focus Country for Producer Hub
 
-[原文] The Directors Guild of America and IATSE are urging California Attorney General Rob Bonta to settle his antitrust lawsuit with Paramount, arguing that prolonged uncertainty over the Warner Bros. Disco
+[原文] The Asian Contents &#38; Film Market (ACFM) has selected Japan as the 2026 Focus Country for its Producer Hub, a co-production networking platform tied to the Busan International Film Festival (BIFF(.
 
-📎 [阅读原文](https://variety.com/2026/film/news/dga-iatse-rob-bonta-paramount-settle-warner-bros-merger-1236833456/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/markets-festivals/busan-acfm-japan-2026-focus-country-producer-hub-1236833558/) — *Variety*
 
-### 2. ‘Reacher’ Season 4 Cast Guide: Who’s Who in the Prime Video Action Series
+### 2. ‘Far From the Trees’ Director Meritxell Colell on Turning Exile and Endangered Languages Into a ‘Body of Memory’
 
-[原文] Get ready for more action and more Alan Ritchson in &#8220;Reacher&#8221; Season 4, which premieres Wednesday, Aug. 12 on Prime Video. Our hunky, ex-military hero (Ritchson) is once again joined by a 
+[原文] In “Far From the Trees,” (&#8220;Lejos de los árboles&#8221;) Meritxell Colell asks viewers to listen before they try to understand. Premiering in Locarno’s international competition, the Spain-Italy-
 
-📎 [阅读原文](https://variety.com/lists/reacher-season-4-cast-characters/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/global/global/far-from-the-trees-director-meritxell-colell-1236827380/) — *Variety*
 
-### 3. As ‘The Comeback’ and ‘Hacks’ End, Valerie Cherish and Deborah Vance Are Emmy Competitors for the First and Last Time
+### 3. Ritchie Blackmore Performs With Deep Purple for First Time Since Acrimonious Split in Early ’90s, After Warning Fans: ‘I Have Not Played Rock Music in 25 Years’
 
-[原文] In the Season 5 opener of “Hacks,” Jean Smart’s beleaguered character Deborah Vance is eager to reclaim her legacy — and comes up with the perfect way to do it. She wants to be an EGOT. The idea of th
+[原文] Most Deep Purple fans had long since given up any hope of seeing the band ever share a stage with founding guitarist Ritchie Blackmore again, due to a well-know, decades-long estrangement. But that&#8
 
-📎 [阅读原文](https://variety.com/2026/tv/awards/deborah-vance-valerie-cherish-emmy-battle-hacks-comeback-1236833429/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/ritchie-blackmore-deep-purple-performs-smoke-on-the-water-1236833509/) — *Variety*
 
-### 4. Phylicia Rashad on Her Historic Career and the Current State of TV: ‘If There’s Something on That I Don’t Like, I Simply Don’t Watch It’
+### 4. Andreas Dresen, Doris Dörrie Films to World Premiere  at Zurich Film Festival
 
-[原文] Legendary actress, director and producer Phylicia Rashad was the guest speaker at the C-Suite Luncheon during the 24th annual Martha’s Vineyard African American Film Festival (MVAAFF). Started by Step
+[原文] The world premieres of two major German films, Andreas Dresen’s “Love, After All” and Doris Dörrie’s “How Can I Help?,” are among 11 titles to feature in the Gala Premieres section of Zurich Film Fest
 
-📎 [阅读原文](https://variety.com/2026/scene/news/phylicia-rashad-on-legacy-and-humanity-1236831743/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/andreas-dresen-doris-dorrie-zurich-film-festival-1236833312/) — *Variety*
 
-### 5. Amazon Game Studios Divests MMOs ‘Lost Ark,’ ‘Throne and Liberty’ in Strategy Shift
+### 5. Indian Freedom Fighter Bhagat Singh Series in Development at Collective Studios’ Historyverse (EXCLUSIVE)
 
-[原文] Amazon Game Studios will return Western territory publishing responsibilities for “Throne and Liberty” and “Lost Ark” to game developers NC and Smilegate, respectively, amid the company&#8217;s pivot 
+[原文] A new original series exploring the life of Indian freedom fighter Bhagat Singh is in development at Collective Studios&#8217; Historyverse. The project is being made in association with Hathiramani C
 
-📎 [阅读原文](https://variety.com/2026/gaming/news/amazon-game-studios-divests-lost-ark-throne-and-liberty-1236833373/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/bhagat-singh-series-collective-studios-historyverse-1236833000/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Old School Runescape Officially Recognizes Player Who Reached Level 99 Fishing Catching Only Shrimp and Anchovies
+### 1. Here's Where to Stream Every Minions Movie Online Right Now
+
+暂无摘要。
+
+📎 [阅读原文](https://www.ign.com/articles/where-to-stream-every-minions-movie-in-order) — *IGN*
+
+### 2. McDonald's Announces Eight Hello Kitty x Godzilla Toys Coming to Happy Meals This August
+
+[原文] Hello Kitty and Godzilla are coming to McDonald’s Happy Meals this August in one of the most highly-anticipated collaborations to ever hit the fast food franchise.
+
+📎 [阅读原文](https://www.ign.com/articles/mcdonalds-announces-eight-hello-kitty-x-godzilla-toys-coming-to-happy-meals-this-august) — *IGN*
+
+### 3. Made by Google 2026: Everything Announced
+
+[原文] Every year, Google holds the Made By Google event, where the company reveals its flagship mobile hardware for the next year. This time around, we already know the Pixel 11 is going to be there, but th
+
+📎 [阅读原文](https://www.ign.com/articles/made-by-google-2026-everything-announced) — *IGN*
+
+### 4. Old School Runescape Officially Recognizes Player Who Reached Level 99 Fishing Catching Only Shrimp and Anchovies
 
 [原文] The official Old School Runescape X account has responded after a player managed to get their Fishing skill up to level 99 catching only shrimp and anchovies.
 
 📎 [阅读原文](https://www.ign.com/articles/old-school-runescape-officially-recognizes-player-who-reached-level-99-fishing-catching-only-shrimp-and-anchovies) — *IGN*
 
-### 2. The 4K-Capable Andromeda Insights Radeon RX 9070 XT Gaming PC Drops to Just $1,499 Shipped
+### 5. The 4K-Capable Andromeda Insights Radeon RX 9070 XT Gaming PC Drops to Just $1,499 Shipped
 
 [原文] The Radeon RX 9070 XT nearly matches the peformance of the now-$1,000 GeForce RTX 5070 Ti.
 
 📎 [阅读原文](https://www.ign.com/articles/andromeda-insights-radeon-rx-9070-xt-gaming-pc-deal-july) — *IGN*
-
-### 3. Dataminers Uncover Five Possible DLC Characters for Marvel Tokon: Fighting Souls
-
-[原文] Now that Marvel Tokon: Fighting Souls is officially out in the wild, dataminers have wasted no time digging through the game’s files, and they’ve found some interesting heroes mentioned within them.
-
-📎 [阅读原文](https://www.ign.com/articles/dataminers-uncover-five-possible-dlc-characters-for-marvel-tokon-fighting-souls) — *IGN*
-
-### 4. Hogwarts Legacy 2 Is Officially in the Works, Confirms Warner Bros.
-
-[原文] A sequel to Hogwarts Legacy is actively in development, according to Warner Bros.
-
-📎 [阅读原文](https://www.ign.com/articles/hogwarts-legacy-2-is-officially-in-the-works-confirms-warner-bros) — *IGN*
-
-### 5. The Wolfbox MF60 Cordless Electric Air Duster Delivers Tons of Dust Busting Airflow for Just $28
-
-[原文] An essential tool for PC maintenance.
-
-📎 [阅读原文](https://www.ign.com/articles/wolfbox-mega-flow-mf60-cordless-electric-air-duster-deal-august-2026) — *IGN*
 
 ---
 
@@ -439,35 +439,35 @@ The post Jaguar Gives Us a Glimpse of Type 01 EV&#8217;s Dashboard: TDS appeared
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Taylor Swift Removes Yet Another Song From Yet Another White House TikTok Video
+### 1. Hayley Williams’ Band Power Snatch Surprise Drop ‘EP2’
+
+[原文] The singer's band with producer Daniel James released their second project on Wednesday
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/hayley-williams-band-power-snatch-ep2-1235607900/) — *Rolling Stone*
+
+### 2. Taylor Swift Removes Yet Another Song From Yet Another White House TikTok Video
 
 [原文] The Trump-affiliated account attempted to use "I Bet You Think About Me" in latest antagonistic post
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/taylor-swift-removes-song-trump-white-house-tiktok-1235607884/) — *Rolling Stone*
 
-### 2. Sean Combs Sues Lil Rod for Defamation, Selling Footage to Netflix
+### 3. Sean Combs Sues Lil Rod for Defamation, Selling Footage to Netflix
 
 [原文] Combs accused the music producer of selling his personal documentary footage to Netflix and making defamatory statements in the 50-Cent produced docuseries
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/sean-combs-lil-rod-lawsuit-defamation-selling-video-netflix-1235606148/) — *Rolling Stone*
 
-### 3. Kim Kardashian and Kris Jenner Win Another Round in Ray J Defamation War
+### 4. Kim Kardashian and Kris Jenner Win Another Round in Ray J Defamation War
 
 [原文] A judge ruled the women can proceed with their lawsuit claiming Ray J "maliciously" defamed them with the suggestion they were — or should be — the targets of a racketeering investigation
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/kim-kardashian-wins-round-ray-j-defamation-war-1235607722/) — *Rolling Stone*
 
-### 4. Neil Perry Claims He Was ‘Terminated’ From the Band Perry
+### 5. Neil Perry Claims He Was ‘Terminated’ From the Band Perry
 
 [原文] “I believe it’s fair to correct a false narrative, especially after asking to not be misrepresented,” Neil Perry tells Rolling Stone, after a series of Instagram posts addressing comments his sister m
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/neil-perry-kimberly-band-fired-1235607600/) — *Rolling Stone*
-
-### 5. Travis Kelce Describes Taylor Swift Wedding as ‘Best Night of My Life’
-
-[原文] The NFL star spoke about his big day for the first time during the Kansas City Chiefs' training camp
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/travis-kelce-taylor-swift-wedding-first-comments-1235607573/) — *Rolling Stone*
 
 ---
 
