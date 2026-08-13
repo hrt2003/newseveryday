@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月13日** | 生成时间: 2026-08-13 03:05
+**2026年08月13日** | 生成时间: 2026-08-13 10:16
 
 ---
 
@@ -16,11 +16,11 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Members of Trump's cabinet remained on decoy plane, after president's quiet exit
+### 1. Major Russian grain export terminals hit in Ukraine Black Sea port attack
 
-[原文] Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.
+[原文] Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 2. Israeli settlers besieging Palestinian families in West Bank village
 
@@ -28,23 +28,23 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Woman pulled alive from rubble 36 hours after Colombia quake
+### 3. Ebola outbreak on track to be deadliest ever, WHO chief says
 
-[原文] Following a 10-hour rescue operation, emergency workers pulled the 32-year-old from beneath slabs of concrete.
+[原文] The outbreak, declared on 15 May, has caused more than 2,000 deaths, with thousands more reported cases.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Major Russian grain export terminals hit in Ukraine Black Sea port attack
+### 4. Trump says White House press secretary Karoline Leavitt to leave post
 
-[原文] Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.
+[原文] Leavitt will depart from her role to spend time with her young children and family, the president says.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. LA Lakers to be sold in record $12.5bn deal
+### 5. Why are 'human fridges' being sold in Japan?
 
-[原文] The Los Angeles Lakers is to be sold for a reported record $12.5bn - less than a year after Mark Walter took a majority stake in the NBA franchise.
+[原文] As Japan swelters through extreme summer heat, BBC Tokyo correspondent Kurumi Mori tries out a new way to cool down.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/basketball/articles/c04k2dn422xo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/videos/cjej4y3gvzlo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. U.S. budget deficit surged in July to highest level since March 2021
+### 1. Cerebras stock plunges 14% after second earnings report following IPO
+
+[原文] Cerebras Systems reported better-than-expected second-quarter revenue and raised its full-year guidance.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/12/cerebras-cbrs-q2-earnings-report-2026.html) — *CNBC*
+
+### 2. Oil rises on worries over supply disruptions as spill near Oman worsens
+
+[原文] News of recent deadly attacks on vessels in the Gulf of Oman and the Red Sea drove oil higher. An oil spill near Oman continued to worsen.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/13/oil-spill-near-oman-worries-over-supply-.html) — *CNBC*
+
+### 3. South Korea's Kospi swings from bear to bull-market territory in just over a month on AI trade
+
+[原文] South Korean stocks rallied on Thursday, pushing the benchmark Kospi into a technical bull market.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/13/south-korea-kospi-bull-market-sk-hynix-samsung-ai-trade.html) — *CNBC*
+
+### 4. U.S. budget deficit surged in July to highest level since March 2021
 
 [原文] Beyond the big single-month jump, the collective red ink over the 10 months of the fiscal year rose to nearly $1.8 trillion, surpassing the same period in 2025.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/12/us-budget-deficit-surged-in-july-to-highest-level-since-march-2021.html) — *CNBC*
 
-### 2. Here's the inflation breakdown for July 2026 — in one chart
+### 5. Goldman says Japan's $1 trillion of reserves leaves 'plenty of capacity' for further yen interventions
 
-[原文] Costs remain elevated for consumers, however inflation is showing some signs of easing, economists say.
+[原文] Japan has enough cash at its disposal for a couple more rounds of yen-buying on the scale of last month's intervention, Goldman Sachs says.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/12/inflation-breakdown-for-july-2026-cpi-in-one-chart.html) — *CNBC*
-
-### 3. 'Nobody wants it': Lettuce prices see record-setting plunge as cyclospora spooks consumers
-
-[原文] Lettuce prices posted their sharpest month-over-month decline on record as diners reconsider the vegetable amid the cyclospora outbreak.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/12/lettuce-prices-cyclospora-cpi.html) — *CNBC*
-
-### 4. Trump sued over Truth Social advance access sale
-
-[原文] The lawsuit, filed in U.S. District Court in Manhattan, notes that Trump's posts on his own social media site often move financial markets.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/12/trump-truth-social-lawsuit.html) — *CNBC*
-
-### 5. Strait of Hormuz ship traffic near three-month low as U.S.-Iran deal in doubt
-
-[原文] Traffic is about 90% lower than the daily average of 130 ships that transited Hormuz before the U.S. and Israel attacked Iran on Feb. 28.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/12/strait-hormuz-ship-traffic-iran-war-deal.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/13/us-japan-dollar-yen-intervention-goldman.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Grubhub’s $24M FTC settlement is finally reaching diners and drivers
+### 1. Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes
+
+[原文] Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/) — *TechCrunch*
+
+### 2. AI nuclear power firm Fermi finally has a new CEO
+
+[原文] Lee McIntire, an independent member of Fermi's board, has been hired as CEO, more than three months since the company fired co-founder Toby Neugebauer from the top post.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/) — *TechCrunch*
+
+### 3. Northrop’s robot space mechanic is a new way to keep satellites at work longer
+
+[原文] The Mission Robotic Vehicle is making the first attempt to attach a new thruster to an aging satellite.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/) — *TechCrunch*
+
+### 4. Amazon will train on Twitch streamers’ content by default, unless they opt out
+
+[原文] "If this was opt-in, nobody would opt in," Twitch CPO Mike Minton said on a livestream responding to user feedback. "That's honestly the answer."
+
+📎 [阅读原文](https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/) — *TechCrunch*
+
+### 5. Grubhub’s $24M FTC settlement is finally reaching diners and drivers
 
 [原文] Checks are being mailed from Grubhub's $23.8 million fine from  the FTC after it settled allegations over its business practices.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/12/grubhubs-24m-ftc-settlement-is-finally-reaching-diners-and-drivers/) — *TechCrunch*
-
-### 2. AI coding startup Cognition reportedly already in talks to raise at $40B valuation
-
-[原文] Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/) — *TechCrunch*
-
-### 3. As AI safety concerns mount, three pioneers make the case for staying open
-
-[原文] At Ai4, three of the world's most respected AI experts—Geoffrey Hinton, Fei-Fei Li, and Andrew Ng—debated regulation, open-source access, and how America can compete as China advances in Asia.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/) — *TechCrunch*
-
-### 4. OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise
-
-[原文] Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/) — *TechCrunch*
-
-### 5. Uber Freight reportedly investigating after hacking group claims data breach
-
-[原文] An extortion gang known for targeting transportation companies and private equity firms has taken credit for a breach at Uber Freight.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/12/uber-freight-reportedly-investigating-after-hacking-group-claims-data-breach/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Messi unsure he will play 'much longer' after father's death
+### 1. Fearless Madjo, 17, ends eight-month wait with dream Villa debut
 
-[原文] Lionel Messi says he is unsure how much longer he will continue playing football in an emotional tribute after his father's death.
+[原文] Teenage striker Brian Madjo scores on his Aston Villa debut in Uefa Super Cup defeat by Paris St-Germain to end eight-month wait for a chance to play in competitive games.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c78gqj2dqyno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cg4dp23z5z7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. What's happening with Lewis-Skelly's Arsenal future?
+### 2. GB's Hudson-Smith wins historic 400m gold on home track - highlights & report
 
-[原文] Myles Lewis-Skelly's long-term future at Arsenal has been debated since he slipped down the pecking order last season - will he stay with the Gunners with interest reportedly shown elsewhere?
+[原文] Great Britain's Matthew Hudson-Smith makes history as the joint-most decorated man of all-time at European Championships by claiming 400m gold in Birmingham.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/clyxpgjx4mjo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/c93560k7l6go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Can Mourinho restore Real Madrid to former glory?
+### 3. Messi's most iconic moments as he ponders retirement
 
-[原文] Jose Mourinho is back at Real Madrid 13 years after leaving the club. But can the 63-year-old recapture the success of his first spell and deliver trophies at the Bernabeu? BBC Sport speaks to those w
+[原文] As Lionel Messi considers his footballing future following the death of his father, BBC Sport looks back at some of his most iconic moments.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cddjpz6q3d6o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c74x9zd83vlo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. LA Lakers to be sold in record $12.5bn deal
+### 4. Fernandes the centre of attention - but what next for Man Utd captain?
 
-[原文] The Los Angeles Lakers is to be sold for a reported record $12.5bn - less than a year after Mark Walter took a majority stake in the NBA franchise.
+[原文] Manchester United skipper Bruno Fernandes is attracting attention on and off the pitch.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/basketball/articles/c04k2dn422xo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cvgwzegz9ggo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. England scrap midnight curfew after seven months
+### 5. Atletico agree £34.2m deal for Tottenham's Romero
 
-[原文] New Test captain Joe Root abolishes the midnight curfew imposed on the England team under predecessor Ben Stokes.
+[原文] Cristian Romero is set to join La Liga side Atletico Madrid as they agree a £34.2m fee with Tottenham for their captain.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c30428ljm06o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cy8e2vx2l30o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘The Matrix’ Director Lilly Wachowski Says Hollywood Won’t Finance Her $10 Million Thriller Because It’s Got a ‘Wall-to-Wall Trans Cast’
+### 1. DGA and IATSE Push Rob Bonta to Allow Paramount-Warner Bros. Merger With Conditions
 
-[原文] Filmmaker Lilly Wachowski is working to get her next project, &#8220;The Hunted,&#8221; out of late-stage production. But the &#8220;Bound&#8221; and &#8220;Matrix&#8221; director says nobody in Holly
+[原文] The Directors Guild of America and IATSE are urging California Attorney General Rob Bonta to settle his antitrust lawsuit with Paramount, arguing that prolonged uncertainty over the Warner Bros. Disco
 
-📎 [阅读原文](https://variety.com/2026/film/news/lilly-wachowski-trans-movie-no-financing-1236833156/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/dga-iatse-rob-bonta-paramount-settle-warner-bros-merger-1236833456/) — *Variety*
 
-### 2. Nick Reiner Indicted for Murders of Parents Rob and Michele Reiner
+### 2. ‘Reacher’ Season 4 Cast Guide: Who’s Who in the Prime Video Action Series
 
-[原文] Nick Reiner has been indicted on charges of murdering his parents, Rob and Michele Reiner, as prosecutors aim to expedite the process of getting to a trial. Reiner, 32, has been held without bail sinc
+[原文] Get ready for more action and more Alan Ritchson in &#8220;Reacher&#8221; Season 4, which premieres Wednesday, Aug. 12 on Prime Video. Our hunky, ex-military hero (Ritchson) is once again joined by a 
 
-📎 [阅读原文](https://variety.com/2026/film/news/nick-reiner-indicted-murders-rob-michele-reiner-1236833176/) — *Variety*
+📎 [阅读原文](https://variety.com/lists/reacher-season-4-cast-characters/) — *Variety*
 
-### 3. The Band Perry’s Family Feud Lights Up: Neil Perry Says He Was ‘Terminated’ From Sibling Trio, as Kimberly Perry’s Husband Stepped In to Make It a Marital Duo
+### 3. As ‘The Comeback’ and ‘Hacks’ End, Valerie Cherish and Deborah Vance Are Emmy Competitors for the First and Last Time
 
-[原文] The Band Perry used to have sibling &#8220;blood harmony,&#8221; but now things are just looking bloody between the sister and two brothers who used to make up country music&#8217;s foremost contempor
+[原文] In the Season 5 opener of “Hacks,” Jean Smart’s beleaguered character Deborah Vance is eager to reclaim her legacy — and comes up with the perfect way to do it. She wants to be an EGOT. The idea of th
 
-📎 [阅读原文](https://variety.com/2026/music/news/band-perry-feud-neil-terminated-kimberly-husband-1236833122/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/awards/deborah-vance-valerie-cherish-emmy-battle-hacks-comeback-1236833429/) — *Variety*
 
-### 4. Travis Kelce Speaks Out on Wedding to Taylor Swift: ‘Best Night of My Life’ and ‘It Was Cool to Live Out My Childhood Dream’ of Being in MSG
+### 4. Phylicia Rashad on Her Historic Career and the Current State of TV: ‘If There’s Something on That I Don’t Like, I Simply Don’t Watch It’
 
-[原文] During this NFL offseason, Travis Kelce marked one item off his &#8220;Wi$h Li$t,&#8221; marrying Taylor Swift. “It was a fun offseason, man,” Kelce told reporters on Wednesday, as he returned to the 
+[原文] Legendary actress, director and producer Phylicia Rashad was the guest speaker at the C-Suite Luncheon during the 24th annual Martha’s Vineyard African American Film Festival (MVAAFF). Started by Step
 
-📎 [阅读原文](https://variety.com/2026/music/news/travis-kelce-interview-taylor-swift-wedding-best-night-1236833147/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/scene/news/phylicia-rashad-on-legacy-and-humanity-1236831743/) — *Variety*
 
-### 5. How ‘Meet the Press,’ TV’s Longest-Running Program, Continues to Take the Nation’s Political Pulse
+### 5. Amazon Game Studios Divests MMOs ‘Lost Ark,’ ‘Throne and Liberty’ in Strategy Shift
 
-[原文] When Kristen Welker was named host of NBC’s “Meet the Press” in 2023, she went back and re-watched pivotal episodes and interviews conducted by the show’s legendary moderator Tim Russert. Russert, who
+[原文] Amazon Game Studios will return Western territory publishing responsibilities for “Throne and Liberty” and “Lost Ark” to game developers NC and Smilegate, respectively, amid the company&#8217;s pivot 
 
-📎 [阅读原文](https://variety.com/2026/tv/news/meet-the-press-tv-longest-running-program-nbc-100-1236832645/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/gaming/news/amazon-game-studios-divests-lost-ark-throne-and-liberty-1236833373/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Tom Holland's Brutal Spider-Man: Brand New Day Workout Goes Viral as Fans Try It for Themselves
+### 1. Old School Runescape Officially Recognizes Player Who Reached Level 99 Fishing Catching Only Shrimp and Anchovies
 
-[原文] Tom Holland’s brutal workout to get in shape for Spider-Man: Brand New Day is taking social media by storm as fans share their own experiences trying it for themselves.
+[原文] The official Old School Runescape X account has responded after a player managed to get their Fishing skill up to level 99 catching only shrimp and anchovies.
 
-📎 [阅读原文](https://www.ign.com/articles/tom-hollands-brutal-spider-man-brand-new-day-workout-goes-viral-as-fans-try-it-for-themselves) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/old-school-runescape-officially-recognizes-player-who-reached-level-99-fishing-catching-only-shrimp-and-anchovies) — *IGN*
 
-### 2. Today’s Top Deals: Marvel Cosmic Invasion for Switch, LEGO Animal Crossing, and Switch 2 Console
+### 2. The 4K-Capable Andromeda Insights Radeon RX 9070 XT Gaming PC Drops to Just $1,499 Shipped
 
-[原文] And don’t miss discounts on an RTX 5070 Ti gaming PC, Bose headphones, and more.
+[原文] The Radeon RX 9070 XT nearly matches the peformance of the now-$1,000 GeForce RTX 5070 Ti.
 
-📎 [阅读原文](https://www.ign.com/articles/best-deals-for-august-12-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/andromeda-insights-radeon-rx-9070-xt-gaming-pc-deal-july) — *IGN*
 
-### 3. The One Piece: Escape from Egghead Board Game Is Runny and Undercooked
+### 3. Dataminers Uncover Five Possible DLC Characters for Marvel Tokon: Fighting Souls
 
-[原文] The push-your-luck dice rolling can be fun with the right group, but One Piece: Escape from Egghead stumbles due to ambiguous rules, questionable designs, and mechanics that break at different player 
+[原文] Now that Marvel Tokon: Fighting Souls is officially out in the wild, dataminers have wasted no time digging through the game’s files, and they’ve found some interesting heroes mentioned within them.
 
-📎 [阅读原文](https://www.ign.com/articles/one-piece-escape-from-egghead-board-game-review) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/dataminers-uncover-five-possible-dlc-characters-for-marvel-tokon-fighting-souls) — *IGN*
 
-### 4. Made By Google 2026 Live Blog: Get Ready For the Pixel 11
+### 4. Hogwarts Legacy 2 Is Officially in the Works, Confirms Warner Bros.
 
-[原文] Every year, Google holds the Made By Google event, where the company reveals its flagship mobile hardware for the next year. This time around, we already know the Pixel 11 is going to be there, but th
+[原文] A sequel to Hogwarts Legacy is actively in development, according to Warner Bros.
 
-📎 [阅读原文](https://www.ign.com/articles/made-by-google-2026-everything-announced) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/hogwarts-legacy-2-is-officially-in-the-works-confirms-warner-bros) — *IGN*
 
-### 5. Halo 2's Midnight Release Turns Into a Hostage Situation in a New Short Film
+### 5. The Wolfbox MF60 Cordless Electric Air Duster Delivers Tons of Dust Busting Airflow for Just $28
 
-[原文] A new short film known as Midnight Drop will turn Halo 2's highly anticipated midnight release into the worst night for a group of gamers.
+[原文] An essential tool for PC maintenance.
 
-📎 [阅读原文](https://www.ign.com/articles/halo-2s-midnight-release-turns-into-a-hostage-situation-in-a-new-short-film) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/wolfbox-mega-flow-mf60-cordless-electric-air-duster-deal-august-2026) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Driven: BFGoodrich Trail-Terrain T/A+ Blends Capability With On-Road Comfort
+### 1. Chrysler CEO Teases a Factory-Lowered Pacifica: ‘Stay Tuned’
+
+[原文] In the last year Chrysler's now shown both lowered and lifted versions of its Pacifica minivan, and the automaker's CEO won't say the word no.
+The post Chrysler CEO Teases a Factory-Lowered Pacifica: 
+
+📎 [阅读原文](https://www.thedrive.com/news/chrysler-ceo-teases-a-factory-lowered-pacifica-stay-tuned) — *The Drive*
+
+### 2. Driven: BFGoodrich Trail-Terrain T/A+ Blends Capability With On-Road Comfort
 
 [原文] BFG's mainstream all-terrain got a little better this year. We're testing them out to see what's new.
 The post Driven: BFGoodrich Trail-Terrain T/A+ Blends Capability With On-Road Comfort appeared fir
 
 📎 [阅读原文](https://www.thedrive.com/car-reviews/driven-bfgoodrich-trail-terrain-t-a-blends-capability-with-on-road-comfort) — *The Drive*
 
-### 2. Goodyear Can’t Make a Tire for $12 Like China. Here’s Its Plan
+### 3. Goodyear Can’t Make a Tire for $12 Like China. Here’s Its Plan
 
 [原文] Goodyear CEO Mark Stewart told The Drive how a $1.7 billion loss reshaped the company's plant footprint and product strategy.
 The post Goodyear Can&#8217;t Make a Tire for $12 Like China. Here&#8217;s
 
 📎 [阅读原文](https://www.thedrive.com/news/goodyear-cant-make-a-tire-for-12-like-china-heres-its-plan) — *The Drive*
 
-### 3. 2026 Hummer EV Off-Road Review: It’s Technology Versus Tight Trails
+### 4. 2026 Hummer EV Off-Road Review: It’s Technology Versus Tight Trails
 
 [原文] The GMC Hummer EV is as close as you can get to driving the Warthog from Halo while still being street-legal.
 The post 2026 Hummer EV Off-Road Review: It’s Technology Versus Tight Trails appeared firs
 
 📎 [阅读原文](https://www.thedrive.com/car-reviews/2026-hummer-ev-off-road-review) — *The Drive*
 
-### 4. Jaguar Gives Us a Glimpse of Type 01 EV’s Dashboard: TDS
+### 5. Jaguar Gives Us a Glimpse of Type 01 EV’s Dashboard: TDS
 
 [原文] The interior of Jaguar's controversial electric coupe appears to be as cold and monolithic as its exterior.
 The post Jaguar Gives Us a Glimpse of Type 01 EV&#8217;s Dashboard: TDS appeared first on Th
 
 📎 [阅读原文](https://www.thedrive.com/news/jaguar-gives-us-a-glimpse-of-type-01-evs-dashboard-tds) — *The Drive*
-
-### 5. Honda Is Opening Its Vault and Selling Iconic Race Cars From Le Mans, Daytona, Indy
-
-[原文] Honda Racing Corporation's new Heritage Racing Program will not just sell you an iconic racer, but it'll also restore it, service it and help you track it.
-The post Honda Is Opening Its Vault and Sell
-
-📎 [阅读原文](https://www.thedrive.com/news/honda-is-opening-its-vault-and-selling-iconic-race-cars-from-le-mans-daytona-indy) — *The Drive*
 
 ---
 
@@ -363,35 +363,35 @@ The post Honda Is Opening Its Vault and Sell
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Corpus Christi Puts Industrial Water Charge on November Ballot
+### 1. Chicago Mayor Seeks to Curb Health and Environmental Impacts of Data Centers
+
+[原文] Chicago environmental justice advocates say a new effort in the city to regulate data centers is an important step toward addressing public health and affordability concerns as national pressure on th
+
+📎 [阅读原文](https://insideclimatenews.org/news/12082026/chicago-mayor-data-center-regulations/) — *Inside Climate News*
+
+### 2. Corpus Christi Puts Industrial Water Charge on November Ballot
 
 [原文] Reservoirs have rebounded, but the fight over water isn’t over in Corpus Christi. The City Council has ordered a public referendum on a citizen-led petition that would sharply increase the price of wa
 
 📎 [阅读原文](https://insideclimatenews.org/news/12082026/corpus-christi-industrial-water-charge-referendum/) — *Inside Climate News*
 
-### 2. Sharks on a Plane
+### 3. Sharks on a Plane
 
 [原文] Inside an insulated FedEx package, sloshing around in a sealed sack of seawater at 30,000 feet, four shark eggs traveled from the U.S. to Indonesia last month. Each leathery capsule—affectionately nic
 
 📎 [阅读原文](https://insideclimatenews.org/news/12082026/indonesia-zebra-shark-repopulation/) — *Inside Climate News*
 
-### 3. California Officials Scrambled as Spring Wildfire Neared Former Nuclear Reactor Site, Emails Show
+### 4. California Officials Scrambled as Spring Wildfire Neared Former Nuclear Reactor Site, Emails Show
 
 [原文] As a wildfire in May approached the site of one of the worst nuclear meltdowns in U.S. history, state and local officials scrambled to respond to the blaze and to establish proper real-time radiation 
 
 📎 [阅读原文](https://insideclimatenews.org/news/12082026/california-sandy-fire-santa-susana-nuclear-site-safety/) — *Inside Climate News*
 
-### 4. Michigan Voters Just Sent a Resounding Message About Data Centers
+### 5. Michigan Voters Just Sent a Resounding Message About Data Centers
 
 [原文] Plans for a 26-megawatt data center that surfaced in Allen Park, Michigan, last year quickly ignited a groundswell of opposition from residents in the small, working-class Detroit suburb. As in dozens
 
 📎 [阅读原文](https://insideclimatenews.org/news/12082026/michigan-primary-votes-against-data-centers/) — *Inside Climate News*
-
-### 5. With Federal Environmental Justice Programs Gutted, a Scholar Makes the Case for a More Confrontational Path
-
-[原文] The tools the environmental justice movement spent decades building are being pulled apart. The Biden administration’s Justice40 initiative—meant to steer 40 percent of the benefits of federal climate
-
-📎 [阅读原文](https://insideclimatenews.org/news/12082026/environmental-justice-book-calls-for-resistance/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post Honda Is Opening Its Vault and Sell
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Travis Kelce Describes Taylor Swift Wedding as ‘Best Night of My Life’
+### 1. Taylor Swift Removes Yet Another Song From Yet Another White House TikTok Video
+
+[原文] The Trump-affiliated account attempted to use "I Bet You Think About Me" in latest antagonistic post
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/taylor-swift-removes-song-trump-white-house-tiktok-1235607884/) — *Rolling Stone*
+
+### 2. Sean Combs Sues Lil Rod for Defamation, Selling Footage to Netflix
+
+[原文] Combs accused the music producer of selling his personal documentary footage to Netflix and making defamatory statements in the 50-Cent produced docuseries
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/sean-combs-lil-rod-lawsuit-defamation-selling-video-netflix-1235606148/) — *Rolling Stone*
+
+### 3. Kim Kardashian and Kris Jenner Win Another Round in Ray J Defamation War
+
+[原文] A judge ruled the women can proceed with their lawsuit claiming Ray J "maliciously" defamed them with the suggestion they were — or should be — the targets of a racketeering investigation
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/kim-kardashian-wins-round-ray-j-defamation-war-1235607722/) — *Rolling Stone*
+
+### 4. Neil Perry Claims He Was ‘Terminated’ From the Band Perry
+
+[原文] “I believe it’s fair to correct a false narrative, especially after asking to not be misrepresented,” Neil Perry tells Rolling Stone, after a series of Instagram posts addressing comments his sister m
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/neil-perry-kimberly-band-fired-1235607600/) — *Rolling Stone*
+
+### 5. Travis Kelce Describes Taylor Swift Wedding as ‘Best Night of My Life’
 
 [原文] The NFL star spoke about his big day for the first time during the Kansas City Chiefs' training camp
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/travis-kelce-taylor-swift-wedding-first-comments-1235607573/) — *Rolling Stone*
-
-### 2. Marilyn Manson’s Ex-Assistant Gets Trial Date for Sexual Assault and Battery Claims
-
-[原文] Ashley Walters alleges Manson sexually assaulted her in 2010, then later whipped her and threw her against a wall
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/marilyn-manson-sex-assault-trial-assistant-evan-rachel-wood-1235607558/) — *Rolling Stone*
-
-### 3. Ritchie Blackmore Set to Play With Deep Purple After 33 Year-Estrangement
-
-[原文] “It’ll be good to see the old guys again,” Blackmore told fans on Instagram about their one-off reunion plan. “But it’s kind of frightening. I’ve been playing acoustic guitar for 25 years”
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/ritchie-blackmore-deep-purple-33-years-1235607480/) — *Rolling Stone*
-
-### 4. Godflesh’s New Song ‘Living/Ending’ Will Pummel You to Oblivion
-
-[原文] Pioneering industrial-metal band’s penultimate album, Decay, due this fall
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/godflesh-decay-living-ending-new-song-album-1235607366/) — *Rolling Stone*
-
-### 5. Kathleen Hanna, Ad-Rock, Tom Morello, More Tapped for ‘Contra-ICE Vol. 1: ICE OUT’ Benefit Album
-
-[原文] Fred Armisen, Fishbone, and more contribute to compilation with proceeds going to National Day Laborer Organizing Network and Unión del Barrio
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/kathleen-hanna-ad-rock-tom-morello-ice-1235606749/) — *Rolling Stone*
 
 ---
 
