@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月14日** | 生成时间: 2026-08-14 03:06
+**2026年08月14日** | 生成时间: 2026-08-14 10:12
 
 ---
 
@@ -34,17 +34,17 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Conditions on US aircraft carrier at sea for more than 250 days raise alarms
+### 4. Engine parts smashed Ryanair window that man's head was sucked out of, report says
+
+[原文] A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Conditions on US aircraft carrier at sea for more than 250 days raise alarms
 
 [原文] Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Person fined after using foghorn to wake sleeping polar bear
-
-[原文] Under local regulations in the region, "it is forbidden to needlessly disturb, attract or pursue a polar bear".
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Anthropic CFO Krishna Rao is leading early IPO meetings with investors and has not discussed valuation, sources say
+### 1. U.S. to use economic tactics on Iran 'that have never been seen'; Navy works to relieve troubled carrier USS Abraham Lincoln
+
+[原文] "It will be a combination of economic isolation like ‌the world has ​never seen before, ​and ​the continued blockade in ‌the Strait of ​Hormuz," Bessent said.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/14/us-iran-war-trump-hormuz-carrier-abraham-lincoln-george-washington.html) — *CNBC*
+
+### 2. From Apple to Ford: How Chinese tech is becoming harder for global companies to ignore
+
+[原文] Global companies are increasingly tapping Chinese technology for its growing capabilities and scale, even as geopolitical risks remain.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/14/china-tech-global-appeal-apple-ford-catl-deepseek.html) — *CNBC*
+
+### 3. Trade court upholds Trump's closure of 'de minimis' loophole
+
+[原文] President Donald Trump in a Truth Social post celebrated the continued closure of the deminimis exemption as a "BIG WIN."
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/13/trump-trade-court-de-minimis-tariffs-ieepa.html) — *CNBC*
+
+### 4. Anthropic CFO Krishna Rao is leading early IPO meetings with investors and has not discussed valuation, sources say
 
 [原文] Anthropic CFO Krishna Rao is leading early investor meetings, which have focused on big-picture themes like its Claude AI models, management and more.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/13/anthropic-cfo-early-ipo-meetings-valuation.html) — *CNBC*
 
-### 2. 'Big Short' investor Steve Eisman sees an Achilles' heel in the AI boom
+### 5. Uber partners with China's Pony.ai for 2,000 robotaxis in Europe
 
-[原文] Steve Eisman is warning that the artificial intelligence boom has become increasingly dependent on the fortunes of just two companies: OpenAI and Anthropic.
+[原文] The rollout comes as robotaxi fleet sizes become increasingly critical for commercialization.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/13/big-short-investor-steve-eisman-sees-an-achilles-heel-in-the-ai-boom.html) — *CNBC*
-
-### 3. Workday skyrockets 20% before trading halted on report of Silver Lake takeover
-
-[原文] Workday shares have plummeted this year on AI disruption fears.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/13/workday-skyrockets-25percent-before-trading-halted-on-report-of-silver-lake-takeover.html) — *CNBC*
-
-### 4. Cisco shares slide 9% despite earnings beat and stronger-than-expected guidance
-
-[原文] Cisco is showing booming demand for AI infrastructure, but its results weren't good enough to satisfy investors.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/13/cisco-shares-slide-9percent-despite-earnings-beat-and-strong-guidance.html) — *CNBC*
-
-### 5. Wholesale prices were flat in July, below expectations for 0.2% increase
-
-[原文] The producer price index was expected to increase by 0.2% in July, according to the Dow Jones consensus.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/13/wholesale-prices-were-flat-in-july-below-expectations-for-0point2percent-increase.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/14/uber-partners-with-chinas-ponyai-for-2000-robotaxis-in-europe.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Anthropic set AI agents loose on the same task. They started a turf war.
+### 1. Investors sue Selena Gomez alleging fraud tied to her mental health startup
 
-[原文] Anthropic researchers found AI agents can clash, collude and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.
+[原文] The plaintiffs say they invested nearly $1.2 million in the company, and are accusing Gomez of failing to build and market the startup.
 
-📎 [阅读原文](https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/) — *TechCrunch*
 
-### 2. OpenAI hires new CRO as executive shake-up continues
+### 2. Flock says its new tool will help identify police abuse, but hasn’t explained how it works
 
-[原文] Dali Rajic will take over as OpenAI's top salesperson.
+[原文] The surveillance company announced it's making a tool called "Audit Assistance" mandatory for all customers, claiming it's already helped catch abuse. But the company has yet to explain how the tool w
 
-📎 [阅读原文](https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/) — *TechCrunch*
 
-### 3. Ford on track to complete $2B factory overhaul for Fathom EV truck
+### 3. If Apple sends you a push notification alerting you to a spyware attack, take it seriously
 
-[原文] Ford expects to begin prototype builds of the Fathom EV in the first quarter of 2027.
+[原文] Apple now sends out push notifications to iPhone lock screens when the company identifies government spyware targeting someone's devices.
 
-📎 [阅读原文](https://techcrunch.com/2026/08/13/ford-on-track-to-complete-2b-factory-overhaul-for-fathom-ev-truck/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/) — *TechCrunch*
 
-### 4. X open sources its ranking algorithm, letting users see if they’ve been ‘shadowbanned’
+### 4. Writer introduces new AI model and upgraded harness to contain token costs
 
-[原文] X is expanding the open source code behind its 'For You' feed and launching new transparency tools that show users when its ranking systems have affected their accounts or posts.
+[原文] Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.
 
-📎 [阅读原文](https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/) — *TechCrunch*
 
-### 5. Instagram introduces a redesigned wordmark
+### 5. Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.
 
-[原文] The social media giant says it was time for a sharper and more modern look after a decade.
+[原文] AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.
 
-📎 [阅读原文](https://techcrunch.com/2026/08/13/instagram-introduces-a-redesigned-wordmark/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Rashford, Mainoo & transfers - Carrick calls for more signings
+### 1. 'Two out of four, baby' - Hunt wins 200m as she eyes historic quadruple
 
-[原文] Before his first full season as Manchester United head coach, Michael Carrick explains why the club need more players, discusses why he is in a privileged position and talks Marcus Rashford and Kobbie
+[原文] Britain's Amy Hunt charges to 200m glory to secure her second European Championships gold medal - but the sprinter has her sights set on a historic quadruple in Birmingham.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c79g4px5z1zo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/c1e1ype5q0do?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. LIV set to cancel season-ending Team Championship
+### 2. What's going wrong for Rangers and McInnes?
+
+[原文] After Rangers' Europa League qualifying defeat by Jagellonia Bialystok, what is going wrong for new manager Derek McInnes and his side so far this season?
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cly8w7wm9v8o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. 'This is her stage!' - Hunt takes 200m gold
+
+[原文] GB sprint star Amy Hunt takes her second gold of the 2026 European Athletics Championships in the women's 200m, with Rhasidat Adeleke second and Dina Asher-Smith in third.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/videos/c5yvz902xv5o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. Man City's Reijnders set for £52m Saudi move
+
+[原文] Manchester City midfielder Tijjani Reijnders is set to leave following a year at the club after a £52m move was agreed with Saudi Pro-League side Al-Qadsiah.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cp30xwkj4y3o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 5. LIV set to cancel season-ending Team Championship
 
 [原文] LIV Golf players have been warned that the season-ending Team Championship later this month is set to be cancelled.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/c1512e13n40o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 3. Leicester City put up for sale for more than £200m
-
-[原文] Leicester City's Thai owners King Power are hoping to sell the club after 16 years, for more than £200m.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ce3qp0yy0j9o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. Hodgkinson leads home Broeders-Bol to qualify for 800m final
-
-[原文] Great Britain's Keely Hodgkinson wins her 800m semi-final leading home Femke Broeders-Bol of the Netherlands.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/videos/c07r2lz4ne0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. GB teenager Nowacki wins dramatic European gold
-
-[原文] British teenager Filip Nowacki claims a dramatic gold in the men's 200m breaststroke final at the European Aquatics Championships in Paris.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/swimming/articles/cre4peze9yyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Netflix Shuts Down Studio Behind ‘Unhinged’ Game 6 Weeks After Release
+### 1. Oscar Predictions: Supporting Actress — Is This the Year of Penélope Cruz?
 
-[原文] Netflix is shutting down two studios, including the developer behind horror game, &#8220;Unhinged,&#8221; which released less than two months ago. The streaming service is closing &#8220;Unhinged&#822
+[原文] Variety&#160;Awards Circuit&#160;section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars,&#160;Emmys,
 
-📎 [阅读原文](https://variety.com/2026/gaming/news/netflix-closes-unhinged-video-game-studio-night-school-1236834103/) — *Variety*
+📎 [阅读原文](https://variety.com/feature/2027-oscars-best-supporting-actress-predictions-1236834272/) — *Variety*
 
-### 2. Inside the Disney Machine: How the Iconic Brand Is Discovering the Next Generation of Stars
+### 2. Oscar Predictions: Best Actor — The Most Competitive Category Awaits Leading Men Like Tom Cruise, Matt Damon and More
 
-[原文] It&#8217;s a tale as old as time — or at least the late &#8217;90s. Young actors cut their teeth on Disney youth programming and blossom into fully fledged pop stars or Academy Award-nominated actors.
+[原文] Variety&#160;Awards Circuit&#160;section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars,&#160;Emmys,
 
-📎 [阅读原文](https://variety.com/2026/tv/news/disney-next-generation-stars-1236832245/) — *Variety*
+📎 [阅读原文](https://variety.com/feature/2027-oscars-best-actor-predictions-1236834269/) — *Variety*
 
-### 3. ‘Ted Lasso’ Season 4 Opens With 296.6 Million Minutes Watched in Two Days, Apple TV’s Biggest Launch Ever
+### 3. Tyler Duckworth, ‘The Challenge’ Reality Show Winner, Dies at 44
 
-[原文] &#8220;Ted Lasso&#8221; made a strong return to Apple TV last week, with the Season 4 premiere pulling in 296.6 million minutes watched over the course of Aug. 4-5. That total, measured by Nielsen, ma
+[原文] Tyler Duckworth, who competed on six seasons of reality show &#8220;The Challenge&#8221; and also appeared on MTV&#8217;s &#8220;The Real World: Key West,&#8221; has died in North Dakota. He was 44. H
 
-📎 [阅读原文](https://variety.com/2026/tv/news/ted-lasso-season-4-ratings-apple-tv-1236834053/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/tyler-duckworth-dead-the-challenge-1236834280/) — *Variety*
 
-### 4. ‘KPop Demon Hunters’ Singer Ejae ‘Made Mistakes’ During BAFTAs Performance After Seeing Leonardo DiCaprio: ‘He Was Not Smiling’ and ‘That’s What Put Me Off’
+### 4. John Farnham’s ‘Whispering Jack’ Gets Special 40th Anniversary Release
 
-[原文] Leonardo DiCaprio could throw any of us off of our game — as EJAE can testify. The “KPop Demon Hunters” vocalist spoke with the U.K. newspaper the Times and recounted her experience performing at this
+[原文] A limited-edition version of the hit album is pressed on black and white vinyl, and individually numbered from one to 2,500.
 
-📎 [阅读原文](https://variety.com/2026/film/news/kpop-demon-hunters-ejae-leonardo-dicaprio-1236834101/) — *Variety*
+📎 [阅读原文](https://www.billboard.com/music/music-news/john-farnham-whispering-jack-40th-anniversary-release-1236316345/) — *Billboard*
 
-### 5. Will Smith’s ‘King Richard’ Co-Star Aunjanue Ellis-Taylor Defends the Oscars Slap: ‘I Stand By That’ Because the First Amendment Should Not ‘Protect A—holes’
+### 5. California Ticket Resale Cap Bill Fails to Move Forward
 
-[原文] When it comes to Will Smith&#8217;s shocking Oscars slap, Aunjanue Ellis-Taylor is sticking with her &#8220;King Richard&#8221; co-star. The Oscar nominee, who played Smith&#8217;s on-screen wife as t
+[原文] The bill would have capped the resale price of tickets at no more than 10% of their original cost.
 
-📎 [阅读原文](https://variety.com/2026/film/news/aunjanue-ellis-taylor-will-smith-oscars-slap-1236834055/) — *Variety*
+📎 [阅读原文](https://www.billboard.com/pro/california-ticket-resale-cap-bill-fails-move-forward/) — *Billboard*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Everything New We Learned About Marvel's Wolverine From Our Big Interview With Insomniac
+### 1. Never Run Out of Ports Again With This Sabrent 8-Port 252W USB Charging Station, Now Just $59.60
 
-[原文] Everything new we learned about Marvel's Wolverine from our big interview with Insomniac.
+[原文] You can never have too many charging ports.
 
-📎 [阅读原文](https://www.ign.com/articles/everything-new-we-learned-about-marvels-wolverine-from-our-big-interview-with-insomniac) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/sabrent-voltik-8-port-252w-usb-desktop-charging-station-deal-august-2026) — *IGN*
 
-### 2. Insomniac Confirms Marvel's Wolverine Performance Mode Details
+### 2. Pay Less Than Half Price for Sony's Outstanding WH-1000XM6 Wireless Noise Canceling Headphones
 
-[原文] Insomniac has revealed an impressive performance mode for Marvel’s Wolverine on the base PlayStation 5.
+[原文] These are refurbished units that are indistinguishable from new and include a 2 year warranty.
 
-📎 [阅读原文](https://www.ign.com/articles/insomniac-confirms-marvels-wolverine-performance-mode-details) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/sony-wh-1000xm6-wireless-noise-canceling-headphone-deal-august-2026) — *IGN*
 
-### 3. Insomniac Explains Why Wolverine's Suit Heals Itself
+### 3. Get a Comfortable Big and Tall Gaming Chair for Less Than $140 With Free Shipping on Amazon
 
-[原文] Insomniac tells IGN why Wolverine's suit heals itself.
+[原文] Three different styles are on sale.
 
-📎 [阅读原文](https://www.ign.com/articles/insomniac-explains-why-wolverines-suit-heals-itself) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/comhoma-big-and-tall-gaming-chair-deal-august-2026) — *IGN*
 
-### 4. Insomniac Says There's Plenty in Marvel's Wolverine to Keep People Playing After the Credits Roll, Including New Game Plus Day-One
+### 4. Save 70% Off Proton VPN's 2-Year Plan, Now Just $2.99
 
-[原文] Insomniac has confirmed the various features in Marvel's Wolverine designed to keep people playing after the credits roll.
+[原文] The best VPN is on sale right now.
 
-📎 [阅读原文](https://www.ign.com/articles/insomniac-says-theres-plenty-in-marvels-wolverine-to-keep-people-playing-after-the-credits-roll-including-new-game-plus-day-one) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/protonvpn-vpn-deal-august-2026) — *IGN*
 
-### 5. Marvel's Wolverine: The Final Preview
+### 5. Supergirl Featurette Wiped From YouTube After Fans Spot Director Using Alleged AI Concept Art for Lobo
 
-[原文] If Insomniac has proved anything over the last eight years, it’s that they know how to make a hell of a superhero game. Marvel's Spider-Man remains one of the PlayStation 4’s defining action games and
+[原文] Lobo’s intimidating design in Warner Bros.’ 2026 Supergirl film was seemingly made with the help of artificial intelligence, something that sparked backlash among fans and resulted in a video revealin
 
-📎 [阅读原文](https://www.ign.com/articles/marvels-wolverine-the-final-preview-insomniac-spider-man) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/supergirl-featurette-wiped-from-youtube-after-fans-spot-director-using-alleged-ai-concept-art-for-lobo) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. New Koenigsegg CCGT1 Hypercar Offers Yet Another Way to Shift With Your Hands
+### 1. The Lucid Gravity GT-S Is a Sapphire-Inspired SUV with 1,070 HP
+
+[原文] Lucid's three-row SUV was already fantastic to drive, and now you can get an even quicker one. 
+The post The Lucid Gravity GT-S Is a Sapphire-Inspired SUV with 1,070 HP appeared first on The Drive.
+
+📎 [阅读原文](https://www.thedrive.com/news/the-lucid-gravity-gt-s-is-a-sapphire-inspired-suv-with-1070-hp) — *The Drive*
+
+### 2. New Koenigsegg CCGT1 Hypercar Offers Yet Another Way to Shift With Your Hands
 
 [原文] The 1,600-horsepower track slayer is available with two transmission options: a six-speed manual or a new nine-speed sequential that bangs through the gears in a split-second.
 The post New Koenigsegg 
 
 📎 [阅读原文](https://www.thedrive.com/news/new-koenigsegg-ccgt1-hypercar-offers-yet-another-way-to-shift-with-your-hands) — *The Drive*
 
-### 2. Flock Admits Failures That Put Innocent People at Risk, Overhauls Police Search Rules
+### 3. Flock Admits Failures That Put Innocent People at Risk, Overhauls Police Search Rules
 
 [原文] Flock CEO Garrett Langley says wrongful stops show a failed system and is tightening search rules while cutting data retention.
 The post Flock Admits Failures That Put Innocent People at Risk, Overhau
 
 📎 [阅读原文](https://www.thedrive.com/news/flock-admits-failures-that-put-innocent-people-at-risk-overhauls-police-search-rules) — *The Drive*
 
-### 3. Acura Says Its Next-Gen Cars Will Look Like This Stunning Sports Car Concept. We Hope So
+### 4. Acura Says Its Next-Gen Cars Will Look Like This Stunning Sports Car Concept. We Hope So
 
 [原文] Does the Nexera Vision hint at what a future NSX could look like? Acura won't say, but it will say that it previews the upcoming RDX.
 The post Acura Says Its Next-Gen Cars Will Look Like This Stunning
 
 📎 [阅读原文](https://www.thedrive.com/news/acura-says-its-next-gen-cars-will-look-like-this-stunning-sports-car-concept-we-hope-so) — *The Drive*
 
-### 4. Ford Mustang GTD Competition Used Street-Legal Tires To Obliterate the Chevy Corvette ZR1X’s Nurburgring Lap Record
+### 5. Ford Mustang GTD Competition Used Street-Legal Tires To Obliterate the Chevy Corvette ZR1X’s Nurburgring Lap Record
 
 [原文] Speculation about the tires Ford used to destroy everyone at the 'Ring is now over.
 The post Ford Mustang GTD Competition Used Street-Legal Tires To Obliterate the Chevy Corvette ZR1X&#8217;s Nurburgr
 
 📎 [阅读原文](https://www.thedrive.com/news/ford-mustang-gtd-competition-used-street-legal-tires-to-obliterate-the-chevy-corvette-zr1xs-nurburgring-lap-record) — *The Drive*
-
-### 5. Score: The 2027 Porsche 911 Carrera S Brings Back the Manual Transmission
-
-[原文] After its disappearance last year during the 911's mid-cycle refresh caused a global panic, the stick shift makes its triumphant return to the Carrera S.
-The post Score: The 2027 Porsche 911 Carrera S
-
-📎 [阅读原文](https://www.thedrive.com/news/score-the-2027-porsche-911-carrera-s-brings-back-the-manual-transmission) — *The Drive*
 
 ---
 
@@ -363,35 +363,35 @@ The post Score: The 2027 Porsche 911 Carrera S
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. So Much Solar: Digging Into the List of Every US Power Plant That Went Online This Year
+### 1. Maryland Breaks Heat-Related Death Record With Weeks of Summer to Go
+
+[原文] Prolonged heatwaves pushed death tolls to new levels this year in Maryland, which recorded its highest number of heat-related deaths with more than a month left of summer.&#160; At least 70 deaths acr
+
+📎 [阅读原文](https://insideclimatenews.org/news/13082026/maryland-breaks-heat-deaths-record/) — *Inside Climate News*
+
+### 2. Montana’s Sand Creek Fire Burns Through Into Beloved Ski Area
+
+[原文] The Sand Creek Fire had grown to 27,736 acres on Thursday after burning through parts of Maverick Mountain Ski Area in southwestern Montana, but firefighters succeeded in protecting the ski lodge and 
+
+📎 [阅读原文](https://insideclimatenews.org/news/13082026/montana-sand-creek-fire-burns-maverick-mountain-ski-area/) — *Inside Climate News*
+
+### 3. So Much Solar: Digging Into the List of Every US Power Plant That Went Online This Year
 
 [原文] It’s been a wild first half of the year in the U.S. power sector, with announcements of gigantic natural gas power plants and some long-awaited renewable energy projects coming online. At times of rap
 
 📎 [阅读原文](https://insideclimatenews.org/news/13082026/inside-clean-energy-new-us-power-plants/) — *Inside Climate News*
 
-### 2. Wildfires and Extreme Heat Challenge Water Activist’s Attempt to Run the Length of the Colorado River
+### 4. Wildfires and Extreme Heat Challenge Water Activist’s Attempt to Run the Length of the Colorado River
 
 [原文] Mina Guli had run more than 25 miles when she saw the plume of smoke towering over the Utah desert. The Australian ultrarunner was preparing to run another 25 miles in the morning, but watching the ne
 
 📎 [阅读原文](https://insideclimatenews.org/news/13082026/colorado-river-wildfires-and-heat-challenges-ultrarunner/) — *Inside Climate News*
 
-### 3. A Green Oasis Grows in North Philadelphia’s Heat Island
+### 5. A Green Oasis Grows in North Philadelphia’s Heat Island
 
 [原文] In the concrete jungle of North Philadelphia, a garden blooms in vivid color. Flowers, vegetable beds and fruit trees thrive on a quiet street corner where the rattle of trains passing overhead or mus
 
 📎 [阅读原文](https://insideclimatenews.org/news/13082026/community-garden-transforms-north-philadelphia-heat-island/) — *Inside Climate News*
-
-### 4. AI Applications for Oil and Gas Companies Worsen Climate Pollution
-
-[原文] The “enabled emissions” that come when oil and gas drillers use artificial intelligence to find and exploit new energy reserves are far more damaging to the climate than the emissions that come from t
-
-📎 [阅读原文](https://insideclimatenews.org/news/13082026/ai-enables-oil-and-gas-production/) — *Inside Climate News*
-
-### 5. Chicago Mayor Seeks to Curb Health and Environmental Impacts of Data Centers
-
-[原文] Chicago environmental justice advocates say a new effort in the city to regulate data centers is an important step toward addressing public health and affordability concerns as national pressure on th
-
-📎 [阅读原文](https://insideclimatenews.org/news/12082026/chicago-mayor-data-center-regulations/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post Score: The 2027 Porsche 911 Carrera S
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Michael Jackson Estate Wins Round as Judge Orders Arbitration in Cascio Siblings Trafficking Case
+### 1. Romeo Santos Sues Accounting Firm for $2.3 Million Over Alleged Tax Errors, Mismanagement
+
+[原文] The Latin superstar claims the firm filed “incoherent” tax documents, missed deadlines, and failed to invest his money or fund his retirement account
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/romeo-santos-sues-accounting-firm-mismanagement-1235608306/) — *Rolling Stone*
+
+### 2. NBA YoungBoy, Now Living in Korea, Reveals Heart Condition and Says He Has One More Tour in Him
+
+[原文] The rap star also said that he has “one or two” albums left in his colossal career
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/nba-youngboy-korea-heart-condition-one-more-tour-1235608299/) — *Rolling Stone*
+
+### 3. Lil Durk Murder-for-Hire Trial: Judge Rules ‘Pissed Me Off’ Video Can Be Used as Evidence
+
+[原文] Durk's defense fought the admission, saying it would create “so much risk of prejudice and confusion"
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/lil-durk-murder-for-hire-trial-video-lyrics-used-evidence-1235608235/) — *Rolling Stone*
+
+### 4. Michael Jackson Estate Wins Round as Judge Orders Arbitration in Cascio Siblings Trafficking Case
 
 [原文] The judge ruled that while the siblings’ allegations “are horrific,” the court lacked discretion to hear the case
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/michael-jackson-estate-arbitration-cascio-siblings-1235607946/) — *Rolling Stone*
 
-### 2. Man Arrested After Allegedly Urinating on Fans at Morgan Wallen Concert
+### 5. Man Arrested After Allegedly Urinating on Fans at Morgan Wallen Concert
 
 [原文] Jayson Reed of North Carolina was charged with four counts of second-degree assault, public urination, and other related offenses stemming from the incident at July 18 show in Baltimore
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/man-arrested-allegedly-urinating-fans-morgan-wallen-concert-1235608030/) — *Rolling Stone*
-
-### 3. Suki Waterhouse Plays ‘Song Shuffle’ — With a Cameo From Sombr
-
-[原文] Before her set at Lollapalooza, the singer-actress went deep on favorites like Sophie B. Hawkins, Donna Lewis, and more
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/suki-waterhouse-song-shuffle-loveland-1235607934/) — *Rolling Stone*
-
-### 4. BTS Member V Reveals Hearing-Loss Issues Amid World Tour
-
-[原文] “If the hearing in my left ear is at 100, it’s only about 30 in my right,” singer tells fans during livestream Wednesday
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/bts-member-v-hearing-loss-issues-world-tour-1235607924/) — *Rolling Stone*
-
-### 5. Watch Ritchie Blackmore Reunite With Deep Purple For ‘Smoke on the Water’
-
-[原文] The emotional performance marked the first time the estranged bandmates had appeared in public together in 33 years
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/ritchie-blackmore-reunite-deep-purple-smoke-on-the-water-1235607916/) — *Rolling Stone*
 
 ---
 
@@ -516,7 +516,7 @@ The post Score: The 2027 Porsche 911 Carrera S
 - **💻 科技**: TechCrunch
 - **🔬 科学**: Science Daily
 - **⚽ 体育**: BBC Sport
-- **🎬 娱乐**: Variety
+- **🎬 娱乐**: Variety、Billboard
 - **🏥 健康**: WHO
 - **🎮 游戏**: IGN
 - **🚗 汽车**: The Drive
