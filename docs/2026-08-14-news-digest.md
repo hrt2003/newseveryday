@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月14日** | 生成时间: 2026-08-14 15:37
+**2026年08月14日** | 生成时间: 2026-08-14 21:13
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. 'Unprecedented' rains in Japan kill six people
+### 1. 'Unprecedented' rain in Japan kills eight people
 
 [原文] The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Palestinians told to leave homes in village where Israeli settlers besieged houses
-
-[原文] The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 3. US says dozens of countries helped China dodge Trump's tariffs
+### 2. US says dozens of countries helped China dodge Trump's tariffs
 
 [原文] A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Romania shuts only nuclear plant as heat causes huge drop in Danube River level
-
-[原文] The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Engine parts smashed Ryanair window that man's head was sucked out of, report says
+### 3. Engine parts smashed Ryanair window that man's head was sucked out of, report says
 
 [原文] A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. Conditions on US aircraft carrier at sea for more than 250 days raise alarms
+
+[原文] Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Stolen Matisse artworks recovered by police in Brazil
+
+[原文] A man is arrested after eight works by the French artist are found at a home in greater São Paulo.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,11 +54,11 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. U.S. to use economic tactics on Iran 'that have never been seen'; Navy works to relieve troubled carrier USS Abraham Lincoln
+### 1. 10-year Treasury yield is little changed after weak retail sales data
 
-[原文] "It will be a combination of economic isolation like ‌the world has ​never seen before, ​and ​the continued blockade in ‌the Strait of ​Hormuz," Bessent said.
+[原文] The moves come after the latest retail sales figures missed expectations and the U.S. said its naval blockade of Iranian ports could continue "indefinitely."
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/14/us-iran-war-trump-hormuz-carrier-abraham-lincoln-george-washington.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/14/treasury-yields-us-iran-economic-sanctions.html) — *CNBC*
 
 ### 2. How a niche copper trade became a real-time gauge of Trump’s next tariff move
 
@@ -66,23 +66,23 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/14/copper-trump-tariffs-metal-commodities-trade-war.html) — *CNBC*
 
-### 3. From Apple to Ford: How Chinese tech is becoming harder for global companies to ignore
+### 3. ‘Absolutely unacceptable’: Japan PM Takaichi condemns Putin’s visit to disputed Kuril Islands
 
-[原文] Global companies are increasingly tapping Chinese technology for its growing capabilities and scale, even as geopolitical risks remain.
+[原文] Japan protested Vladimir Putin’s first visit to the disputed Kuril Islands, escalating tensions over territory claimed by both Tokyo and Moscow.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/14/china-tech-global-appeal-apple-ford-catl-deepseek.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/14/putin-kuril-islands-japan.html) — *CNBC*
 
-### 4. Trump ally Nigel Farage wins special election to return to UK parliament
+### 4. Data breach notices have already blown past last year’s total — and AI is playing a growing role
 
-[原文] Farage stepped down last month to trigger the vote, branding it a fight against "the establishment," amid controversy over his finances.
+[原文] Data breaches are surging in 2026, with artificial intelligence playing a growing role in cyberattacks, and 'malicious insider' incidents also on the rise.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/14/nigel-farage-reform-uk-parliament-re-election.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/14/data-breaches-surge-2026-ai-cyberattacks.html) — *CNBC*
 
-### 5. Trade court upholds Trump's closure of 'de minimis' loophole
+### 5. Anthropic's investor talks, Workday's stock surge, Apple's new facility and more in Morning Squawk
 
-[原文] President Donald Trump in a Truth Social post celebrated the continued closure of the deminimis exemption as a "BIG WIN."
+[原文] Here are five key things investors need to know to start the trading day.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/13/trump-trade-court-de-minimis-tariffs-ieepa.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/14/5-things-to-know-before-the-market-opens.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Investors sue Selena Gomez alleging fraud tied to her mental health startup
+### 1. Uber and Pony.ai plan to bring 2,000 robotaxis to Europe
+
+[原文] The partnership is expanding beyond the initial market of Zagreb, Croatia to four additional European cities.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/14/uber-and-pony-ai-plan-to-bring-2000-robotaxis-to-europe/) — *TechCrunch*
+
+### 2. Investors sue Selena Gomez alleging fraud tied to her mental health startup
 
 [原文] The plaintiffs say they invested nearly $1.2 million in the company, and are accusing Gomez of failing to build and market the startup.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/) — *TechCrunch*
 
-### 2. Flock says its new tool will help identify police abuse, but hasn’t explained how it works
+### 3. Flock says its new tool will help identify police abuse, but hasn’t explained how it works
 
 [原文] The surveillance company announced it's making a tool called "Audit Assistance" mandatory for all customers, claiming it's already helped catch abuse. But the company has yet to explain how the tool w
 
 📎 [阅读原文](https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/) — *TechCrunch*
 
-### 3. If Apple sends you a push notification alerting you to a spyware attack, take it seriously
+### 4. If Apple sends you a push notification alerting you to a spyware attack, take it seriously
 
 [原文] Apple now sends out push notifications to iPhone lock screens when the company identifies government spyware targeting someone's devices.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/) — *TechCrunch*
 
-### 4. Writer introduces new AI model and upgraded harness to contain token costs
+### 5. Writer introduces new AI model and upgraded harness to contain token costs
 
 [原文] Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/) — *TechCrunch*
-
-### 5. Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.
-
-[原文] AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. 'Two out of four, baby' - Hunt wins 200m as she eyes historic quadruple
+### 1. A pivotal day for Chelsea, Man City and Fernandez - what's going on?
 
-[原文] Britain's Amy Hunt charges to 200m glory to secure her second European Championships gold medal - but the sprinter has her sights set on a historic quadruple in Birmingham.
+[原文] Chelsea's deadline to Manchester City for an Enzo Fernandez bid is 17:00 BST on Friday - will the deal happen?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/c1e1ype5q0do?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c7vgyrl2573o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. What's going wrong for Rangers and McInnes?
+### 2. VAR, timewasting and subs - new rules for the new season
 
-[原文] After Rangers' Europa League qualifying defeat by Jagellonia Bialystok, what is going wrong for new manager Derek McInnes and his side so far this season?
+[原文] The 2026-27 season will feature an unprecedented number of new laws, mostly designed to tackle tempo disruption and make the game quicker.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cly8w7wm9v8o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ce85pje4gyqo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. How Maresca's Man City are shaping up compared with Guardiola side
+### 3. European Cup winner Rimmer dies aged 78
 
-[原文] Enzo Maresca has the difficult task of following Pep Guardiola at Manchester City. BBC Sport analyses the new manager's style and tactics from the pre-season games so far.
+[原文] European Cup winner and former Aston Villa and Manchester United goalkeeper Jimmy Rimmer dies at the age of 78.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c70g7dx63geo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c20eyww3vyro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. LIV set to cancel season-ending Team Championship
+### 4. Hasan hits Bangladesh's first century in Australia
 
-[原文] LIV Golf players have been warned that the season-ending Team Championship later this month is set to be cancelled.
+[原文] Tanzid Hasan Tamim becomes the first Bangladesh cricketer to score a Test century in Australia as the visitors continued to dominate on day two in Darwin.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/c1512e13n40o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c8dn2em268jo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. New Zealand break with OFC to withdraw Infantino support
+### 5. Rising golf star, 18, dies after brain haemorrhage
 
-[原文] New Zealand break rank with Oceania's football governing body to become the latest nation to withdraw support for Fifa president Gianni Infantino.
+[原文] Promising Australian golfer Jessica Bang dies at the age of 18 after suffering a brain haemorrhage as she prepared for a tournament in Thailand.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/crl7wdkxdd7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/cp8elkd2353o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Rani Mukerji Receives La Trobe Honorary Doctorate, Wins IFFM Special Citation
+### 1. Busan Film Festival to Honor Founder Director Kim Dong-ho With Korean Cinema Award
 
-[原文] Bollywood star Rani Mukerji has been awarded an Honorary Doctor of Letters by Australia&#8217;s La Trobe University for three decades of work in Indian cinema and her contributions off screen, the uni
+[原文] Kim Dong-ho, founding festival director of the Busan International Film Festival, has been named the recipient of the 31st BIFF&#8217;s Korean Cinema Award. The honor goes to figures whose work has sh
 
-📎 [阅读原文](https://variety.com/2026/film/news/rani-mukerji-la-trobe-honorary-doctorate-iffm-citation-1236834439/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/busan-film-festival-kim-dong-ho-korean-cinema-award-1236834556/) — *Variety*
 
-### 2. COL AI Studios Launches to Expand Group’s Global Distribution Network (EXCLUSIVE)
+### 2. San Sebastian Adds Jesse Eisenberg, Fred Cavayé, Amanda Kernell Films to Golden Shell Race
 
-[原文] COL Group has launched COL AI Studios, a new entertainment vertical designed to help platforms, studios and brands develop, test and scale content beyond traditional licensing deals. The studio builds
+[原文] The San Sebastián Film Festival has added six films to its 2026 Official Selection, including new works from Jesse Eisenberg, Fred Cavayé, Amanda Kernell and Gabriel Martins, alongside feature debuts 
 
-📎 [阅读原文](https://variety.com/2026/film/news/col-ai-studios-launch-global-distribution-1236834136/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/markets-festivals/san-sebastian-jesse-eisenberg-fred-cavaye-amanda-kernell-1236834484/) — *Variety*
 
-### 3. Troye Sivan Brings Nicole Kidman to the Club for ‘She’s the Best’ Music Video
+### 3. Golden Lion Winner Milcho Manchevski Talks ‘Giving a Voice’ to Pulse Nightclub Survivors With ‘Good People’: ‘Our Job Was to Stay Out of the Way’
 
-[原文] Troye Sivan has kicked off a new era with the release of his new single &#8220;She&#8217;s the Best&#8221; along with a music video co-starring Nicole Kidman. In the clip, directed by Gordon Von Stein
+[原文] It took over three decades for Macedonian filmmaker Milcho Manchevski — whose debut feature “Before the Rain” won the top award in Venice in 1994 and was Oscar nominated — to direct his first document
 
-📎 [阅读原文](https://variety.com/2026/music/news/troye-sivan-nicole-kidman-shes-the-best-music-video-1236834397/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/golden-lion-winner-milcho-manchevski-good-people-sarajevo-1236831946/) — *Variety*
 
-### 4. Phoebe Bridgers Leads Delighted Fans Around the Rink at a Rollerskating Listening Party for ‘Lost Weekend’
+### 4. ‘The Devil Wears Prada 2’ Is Drawing Tourists to Milan Prompting an 18% Increase in Visitors to the Film’s Locations in Italy’s Fashion Capital
 
-[原文] Phoebe Bridgers tends to stand out in a crowd, and not just because of her celebrity or natural star quality, but because of the hair; other women around L.A. may go for the platinum blonde look, but 
+[原文] “The Devil Wears Prada 2” is making a heavenly impact on Milan. Just a few months after the theatrical release in May of the long-awaited sequel to “The Devil Wears Prada” – that was partly shot in It
 
-📎 [阅读原文](https://variety.com/2026/music/news/phoebe-bridgers-rollerskating-release-party-qa-lost-weekend-1236834356/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/the-devil-wears-prada-2-tourists-milan-italy-fashion-1236833591/) — *Variety*
 
-### 5. Oscar Predictions: Supporting Actress — Is This the Year of Penélope Cruz?
+### 5. Nigel Farage Documentary ‘Where Does the Money Come From?’ Set at U.K. Broadcaster 5 as Parliamentary Standards Watchdog Reopens Finance Probe
 
-[原文] Variety&#160;Awards Circuit&#160;section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars,&#160;Emmys,
+[原文] ITN Productions has set &#8220;Nigel Farage: Where Does the Money Come From?,&#8221; a one-hour documentary examining the Reform U.K. leader&#8217;s finances, to air on 5, part of the Paramount Skydan
 
-📎 [阅读原文](https://variety.com/feature/2027-oscars-best-supporting-actress-predictions-1236834272/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/nigel-farage-documentary-5-standards-probe-1236834471/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Xbox's Separation from Compulsion Games Seems Complete as Studio Is Listed as the Publisher of South of Midnight on Steam
+### 1. Pokémon TCG: Pitch Black Elite Trainer Boxes Are Back in Stock at Amazon
+
+[原文] Amazon has restocked Pokémon TCG Pitch Black Elite Trainer Boxes and Booster Bundles at prices below TCGplayer market value. Grab them before they sell out.
+
+📎 [阅读原文](https://www.ign.com/articles/pokemon-tcg-pitch-black-etb-booster-amazon-deals-updated) — *IGN*
+
+### 2. Best Buy Has a Massive 24-Hour Sale on Magic: The Gathering — Now Live
+
+[原文] Save up to 50% on Magic: The Gathering sets during Best Buy’s 24-hour sale, including deep discounts on new Marvel Super Heroes and TMNT releases, alongside the best commander decks of 2026.
+
+📎 [阅读原文](https://www.ign.com/articles/best-buy-has-a-massive-24-hour-sale-on-magic-the-gathering-now-live) — *IGN*
+
+### 3. Magic: The Gathering's The Hobbit Booster Boxes Secure a New Price Cut on Launch Day
+
+[原文] Amazon discounted MTG The Hobbit Play Booster Boxes for launch day. Here is where to find the deal and the most valuable cards in the set.
+
+📎 [阅读原文](https://www.ign.com/articles/magic-the-gathering-hobbit-sealed-play-booster-box-amazon-launch-day-deal) — *IGN*
+
+### 4. The X-Files Creator Chris Carter Wants to Continue the Story on From the Divisive Season 11 Finale
+
+[原文] IGN interviews Chris Carter on The X-Files: I Want to Believe - Vrach Frankenshteyn and finally continuing the mainline story.
+
+📎 [阅读原文](https://www.ign.com/articles/the-x-files-creator-chris-carter-wants-to-continue-the-story-on-from-the-divisive-season-11-finale) — *IGN*
+
+### 5. Xbox's Separation from Compulsion Games Seems Complete as Studio Is Listed as the Publisher of South of Midnight on Steam
 
 [原文] Xbox's separation from Compulsion Games – one of four studios it spun out independently during the recent Xbox "reset" amidst thousands of layoffs – appears to be complete, as the developer itself is 
 
 📎 [阅读原文](https://www.ign.com/articles/xboxs-separation-from-compulsion-games-seems-complete-as-studio-is-listed-as-the-publisher-of-south-of-midnight-on-steam) — *IGN*
-
-### 2. Never Run Out of Ports Again With This Sabrent 8-Port 252W USB Charging Station, Now Just $59.60
-
-[原文] You can never have too many charging ports.
-
-📎 [阅读原文](https://www.ign.com/articles/sabrent-voltik-8-port-252w-usb-desktop-charging-station-deal-august-2026) — *IGN*
-
-### 3. Pay Less Than Half Price for Sony's Outstanding WH-1000XM6 Wireless Noise Canceling Headphones
-
-[原文] These are refurbished units that are indistinguishable from new and include a 2 year warranty.
-
-📎 [阅读原文](https://www.ign.com/articles/sony-wh-1000xm6-wireless-noise-canceling-headphone-deal-august-2026) — *IGN*
-
-### 4. Get a Comfortable Big and Tall Gaming Chair for Less Than $140 With Free Shipping on Amazon
-
-[原文] Three different styles are on sale.
-
-📎 [阅读原文](https://www.ign.com/articles/comhoma-big-and-tall-gaming-chair-deal-august-2026) — *IGN*
-
-### 5. Save 70% Off Proton VPN's 2-Year Plan, Now Just $2.99
-
-[原文] The best VPN is on sale right now.
-
-📎 [阅读原文](https://www.ign.com/articles/protonvpn-vpn-deal-august-2026) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Lucid Gravity GT-S Is a Sapphire-Inspired SUV with 1,070 HP
+### 1. McLaren Revives Manual in First Stick-Shift Supercar Since F1
+
+[原文] Meet the McLaren McL 6GT. The company hasn't built anything like it in almost 35 years.
+The post McLaren Revives Manual in First Stick-Shift Supercar Since F1 appeared first on The Drive.
+
+📎 [阅读原文](https://www.thedrive.com/news/mclaren-revives-manual-in-first-stick-shift-supercar-since-f1) — *The Drive*
+
+### 2. America Is Getting a 795-HP Convertible
+
+[原文] Do we need one? Wait a second. What kind of question is that?
+The post America Is Getting a 795-HP Convertible appeared first on The Drive.
+
+📎 [阅读原文](https://www.thedrive.com/news/america-is-getting-a-795-hp-convertible) — *The Drive*
+
+### 3. The Lucid Gravity GT-S Is a Sapphire-Inspired SUV with 1,070 HP
 
 [原文] Lucid's three-row SUV was already fantastic to drive, and now you can get an even quicker one. 
 The post The Lucid Gravity GT-S Is a Sapphire-Inspired SUV with 1,070 HP appeared first on The Drive.
 
 📎 [阅读原文](https://www.thedrive.com/news/the-lucid-gravity-gt-s-is-a-sapphire-inspired-suv-with-1070-hp) — *The Drive*
 
-### 2. New Koenigsegg CCGT1 Hypercar Offers Yet Another Way to Shift With Your Hands
+### 4. New Koenigsegg CCGT1 Hypercar Offers Yet Another Way to Shift With Your Hands
 
 [原文] The 1,600-horsepower track slayer is available with two transmission options: a six-speed manual or a new nine-speed sequential that bangs through the gears in a split-second.
 The post New Koenigsegg 
 
 📎 [阅读原文](https://www.thedrive.com/news/new-koenigsegg-ccgt1-hypercar-offers-yet-another-way-to-shift-with-your-hands) — *The Drive*
 
-### 3. Flock Admits Failures That Put Innocent People at Risk, Overhauls Police Search Rules
+### 5. Flock Admits Failures That Put Innocent People at Risk, Overhauls Police Search Rules
 
 [原文] Flock CEO Garrett Langley says wrongful stops show a failed system and is tightening search rules while cutting data retention.
 The post Flock Admits Failures That Put Innocent People at Risk, Overhau
 
 📎 [阅读原文](https://www.thedrive.com/news/flock-admits-failures-that-put-innocent-people-at-risk-overhauls-police-search-rules) — *The Drive*
-
-### 4. Acura Says Its Next-Gen Cars Will Look Like This Stunning Sports Car Concept. We Hope So
-
-[原文] Does the Nexera Vision hint at what a future NSX could look like? Acura won't say, but it will say that it previews the upcoming RDX.
-The post Acura Says Its Next-Gen Cars Will Look Like This Stunning
-
-📎 [阅读原文](https://www.thedrive.com/news/acura-says-its-next-gen-cars-will-look-like-this-stunning-sports-car-concept-we-hope-so) — *The Drive*
-
-### 5. Ford Mustang GTD Competition Used Street-Legal Tires To Obliterate the Chevy Corvette ZR1X’s Nurburgring Lap Record
-
-[原文] Speculation about the tires Ford used to destroy everyone at the 'Ring is now over.
-The post Ford Mustang GTD Competition Used Street-Legal Tires To Obliterate the Chevy Corvette ZR1X&#8217;s Nurburgr
-
-📎 [阅读原文](https://www.thedrive.com/news/ford-mustang-gtd-competition-used-street-legal-tires-to-obliterate-the-chevy-corvette-zr1xs-nurburgring-lap-record) — *The Drive*
 
 ---
 
@@ -363,35 +363,35 @@ The post Ford Mustang GTD Competition Used Street-Legal Tires To Obliterate the 
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Maryland Breaks Heat-Related Death Record With Weeks of Summer to Go
+### 1. The Data Center Industry’s PR Blitz Is Backfiring
+
+[原文] HENDERSON, N.C.—On a recent summer evening Mitzi Parrott, who lives in Vance County, saw a television commercial on the evening news that gave her pause. Kathie Hamm and Bobbie Lequire, also of Vance 
+
+📎 [阅读原文](https://insideclimatenews.org/news/14082026/data-center-pr-blitz-backfiring/) — *Inside Climate News*
+
+### 2. Florida Makes It Harder for Residents Living on Radioactive Soil From Former Phosphate Mines to Sue
+
+[原文] “What happens when you get exposure to radioactivity?” Andy Mele remembers the man asking earnestly as he pulled up his shirt. The man, who looked like he couldn’t be older than 35, exposed his swolle
+
+📎 [阅读原文](https://insideclimatenews.org/news/14082026/florida-law-makes-it-harder-to-sue-phosphate-mines-for-radioactive-so/) — *Inside Climate News*
+
+### 3. Microplastics Found in Mexican Howler Monkeys Living in a UNESCO Biosphere Reserve
+
+[原文] For thousands of years, Mexican howler monkeys have inhabited the lush rainforest canopy of what is now Los Tuxtlas—a 155,000-acre UNESCO biosphere reserve in the eastern state of Veracruz, 325 miles 
+
+📎 [阅读原文](https://insideclimatenews.org/news/14082026/mexican-howler-monkeys-microplastics/) — *Inside Climate News*
+
+### 4. Maryland Breaks Heat-Related Death Record With Weeks of Summer to Go
 
 [原文] Prolonged heatwaves pushed death tolls to new levels this year in Maryland, which recorded its highest number of heat-related deaths with more than a month left of summer.&#160; At least 70 deaths acr
 
 📎 [阅读原文](https://insideclimatenews.org/news/13082026/maryland-breaks-heat-deaths-record/) — *Inside Climate News*
 
-### 2. Montana’s Sand Creek Fire Burns Through Into Beloved Ski Area
+### 5. Montana’s Sand Creek Fire Burns Through Into Beloved Ski Area
 
 [原文] The Sand Creek Fire had grown to 27,736 acres on Thursday after burning through parts of Maverick Mountain Ski Area in southwestern Montana, but firefighters succeeded in protecting the ski lodge and 
 
 📎 [阅读原文](https://insideclimatenews.org/news/13082026/montana-sand-creek-fire-burns-maverick-mountain-ski-area/) — *Inside Climate News*
-
-### 3. So Much Solar: Digging Into the List of Every US Power Plant That Went Online This Year
-
-[原文] It’s been a wild first half of the year in the U.S. power sector, with announcements of gigantic natural gas power plants and some long-awaited renewable energy projects coming online. At times of rap
-
-📎 [阅读原文](https://insideclimatenews.org/news/13082026/inside-clean-energy-new-us-power-plants/) — *Inside Climate News*
-
-### 4. Wildfires and Extreme Heat Challenge Water Activist’s Attempt to Run the Length of the Colorado River
-
-[原文] Mina Guli had run more than 25 miles when she saw the plume of smoke towering over the Utah desert. The Australian ultrarunner was preparing to run another 25 miles in the morning, but watching the ne
-
-📎 [阅读原文](https://insideclimatenews.org/news/13082026/colorado-river-wildfires-and-heat-challenges-ultrarunner/) — *Inside Climate News*
-
-### 5. A Green Oasis Grows in North Philadelphia’s Heat Island
-
-[原文] In the concrete jungle of North Philadelphia, a garden blooms in vivid color. Flowers, vegetable beds and fruit trees thrive on a quiet street corner where the rattle of trains passing overhead or mus
-
-📎 [阅读原文](https://insideclimatenews.org/news/13082026/community-garden-transforms-north-philadelphia-heat-island/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post Ford Mustang GTD Competition Used Street-Legal Tires To Obliterate the 
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Orville Peck Resists Rebab on Rowdy Single ‘Already Gone’
+### 1. Katseye Bring the Party in Vibrant ‘Hootie Frutti’ Music Video
+
+[原文] The girl group's new five-song EP, Wild, is out now
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/katseye-hootie-frutti-music-video-1235608358/) — *Rolling Stone*
+
+### 2. Watch Keanu Reeves’ Dogstar Perform ‘Joy’ on ‘Fallon’
+
+[原文] The reunited rock band released their fourth album, All in Now, earlier this year
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/keanu-reeves-dogstar-joy-performance-fallon-1235608355/) — *Rolling Stone*
+
+### 3. Orville Peck Resists Rebab on Rowdy Single ‘Already Gone’
 
 [原文] The track is the third listen off the country singer's forthcoming album, Mule
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/orville-peck-already-gone-single-music-video-1235608348/) — *Rolling Stone*
 
-### 2. Troye Sivan Drops ‘She’s The Best,’ Featuring Secret Charli XCX Cameo
+### 4. Troye Sivan Drops ‘She’s The Best,’ Featuring Secret Charli XCX Cameo
 
 [原文] This is the first single off Sivan's new album of the same name, out Oct.9, and the track's accompanying video stars Nicole Kidman
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/troye-sivan-shes-the-best-charli-xcx-nicole-kidman-1235608285/) — *Rolling Stone*
 
-### 3. Selena Gomez and Her Mother Accused of Defrauding Investors as Mental Health Startup ‘Collapsed’
+### 5. Selena Gomez and Her Mother Accused of Defrauding Investors as Mental Health Startup ‘Collapsed’
 
 [原文] Investors say they pumped $1.2 million into Wondermind and claim they were misled about Gomez's involvement
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/selena-gomez-mother-lawsuit-fraud-wondermind-startup-1235608329/) — *Rolling Stone*
-
-### 4. Romeo Santos Sues Accounting Firm for $2.3 Million Over Alleged Tax Errors, Mismanagement
-
-[原文] The Latin superstar claims the firm filed “incoherent” tax documents, missed deadlines, and failed to invest his money or fund his retirement account
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/romeo-santos-sues-accounting-firm-mismanagement-1235608306/) — *Rolling Stone*
-
-### 5. NBA YoungBoy, Now Living in Korea, Reveals Heart Condition and Says He Has One More Tour in Him
-
-[原文] The rap star also said that he has “one or two” albums left in his career
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/nba-youngboy-korea-heart-condition-one-more-tour-1235608299/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post Ford Mustang GTD Competition Used Street-Legal Tires To Obliterate the 
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Overseas Travel to the U.S. Has Fallen for Four Straight Months — Despite the World Cup
+### 1. How Net Unit Growth Ate the Hotel Industry
+
+[原文] The roughly 200 brands across the big hotel groups make more sense as an answer to a quarterly growth metric than to anything travelers asked for.
+
+📎 [阅读原文](https://skift.com/2026/08/14/how-net-unit-growth-ate-the-hotel-industry/) — *Skift*
+
+### 2. Overseas Travel to the U.S. Has Fallen for Four Straight Months — Despite the World Cup
 
 [原文] In June and July, the United States ushered in visitors from dozens of countries as a World Cup host. It wasn’t enough to put an end to disappointing overseas tourism figures.
 
 📎 [阅读原文](https://skift.com/2026/08/13/overseas-travel-to-the-u-s-has-fallen-for-four-straight-months-despite-the-world-cup/) — *Skift*
 
-### 2. Minor Delays Plan for $1 Billion Hotel REIT
+### 3. Minor Delays Plan for $1 Billion Hotel REIT
 
 [原文] Minor International is postponing its plan to float a real estate investment trust (REIT) with some of its hotels. A hoped-for Mideast ceasefire might reduce investor worries about inflation and make 
 
 📎 [阅读原文](https://skift.com/2026/08/13/minor-delays-plan-for-1-billion-hotel-reit/) — *Skift*
 
-### 3. Travel Creators Follow the Money to Shorter Trips
+### 4. Travel Creators Follow the Money to Shorter Trips
 
 [原文] Travelers are more interested in shorter, closer trips. Creators are adjusting their content to match.
 
 📎 [阅读原文](https://skift.com/2026/08/13/content-creators-domestic-travel-trends/) — *Skift*
 
-### 4. Accor’s Fix for Corporate Travel’s Most Tedious Ritual: Rates That Don’t Vanish
+### 5. Accor’s Fix for Corporate Travel’s Most Tedious Ritual: Rates That Don’t Vanish
 
 [原文] Hotel groups and corporate clients burn months every year haggling over room rates that often fail to show up when employees actually book. Accor is leaning on automation to help fix this.
 
 📎 [阅读原文](https://skift.com/2026/08/13/accors-fix-for-corporate-travels-most-tedious-ritual-rates-that-dont-vanish/) — *Skift*
-
-### 5. Yatra Online Uses Travel Disruption to Go Deeper Into Corporate Travel
-
-[原文] Yatra may be seeing less corporate travel right now, but it's building the infrastructure to capture more of it later.
-
-📎 [阅读原文](https://skift.com/2026/08/13/yatra-online-uses-travel-disruption-to-go-deeper-into-corporate-travel/) — *Skift*
 
 ---
 
