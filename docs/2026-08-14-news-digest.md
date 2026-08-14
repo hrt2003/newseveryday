@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月14日** | 生成时间: 2026-08-14 10:12
+**2026年08月14日** | 生成时间: 2026-08-14 15:37
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Palestinians told to leave homes in village where Israeli settlers besieged houses
+### 1. 'Unprecedented' rains in Japan kill six people
+
+[原文] The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Palestinians told to leave homes in village where Israeli settlers besieged houses
 
 [原文] The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Romania shuts only nuclear plant as heat causes huge drop in Danube River level
+### 3. US says dozens of countries helped China dodge Trump's tariffs
+
+[原文] A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. Romania shuts only nuclear plant as heat causes huge drop in Danube River level
 
 [原文] The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC
-
-[原文] In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only "destroy Ukraine, not conquer it", with the war now in its fifth year.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Engine parts smashed Ryanair window that man's head was sucked out of, report says
+### 5. Engine parts smashed Ryanair window that man's head was sucked out of, report says
 
 [原文] A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Conditions on US aircraft carrier at sea for more than 250 days raise alarms
-
-[原文] Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -60,29 +60,29 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/14/us-iran-war-trump-hormuz-carrier-abraham-lincoln-george-washington.html) — *CNBC*
 
-### 2. From Apple to Ford: How Chinese tech is becoming harder for global companies to ignore
+### 2. How a niche copper trade became a real-time gauge of Trump’s next tariff move
+
+[原文] The widening price of copper between two metals exchanges is offering investors a gauge of U.S. tariff risk.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/14/copper-trump-tariffs-metal-commodities-trade-war.html) — *CNBC*
+
+### 3. From Apple to Ford: How Chinese tech is becoming harder for global companies to ignore
 
 [原文] Global companies are increasingly tapping Chinese technology for its growing capabilities and scale, even as geopolitical risks remain.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/14/china-tech-global-appeal-apple-ford-catl-deepseek.html) — *CNBC*
 
-### 3. Trade court upholds Trump's closure of 'de minimis' loophole
+### 4. Trump ally Nigel Farage wins special election to return to UK parliament
+
+[原文] Farage stepped down last month to trigger the vote, branding it a fight against "the establishment," amid controversy over his finances.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/14/nigel-farage-reform-uk-parliament-re-election.html) — *CNBC*
+
+### 5. Trade court upholds Trump's closure of 'de minimis' loophole
 
 [原文] President Donald Trump in a Truth Social post celebrated the continued closure of the deminimis exemption as a "BIG WIN."
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/13/trump-trade-court-de-minimis-tariffs-ieepa.html) — *CNBC*
-
-### 4. Anthropic CFO Krishna Rao is leading early IPO meetings with investors and has not discussed valuation, sources say
-
-[原文] Anthropic CFO Krishna Rao is leading early investor meetings, which have focused on big-picture themes like its Claude AI models, management and more.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/13/anthropic-cfo-early-ipo-meetings-valuation.html) — *CNBC*
-
-### 5. Uber partners with China's Pony.ai for 2,000 robotaxis in Europe
-
-[原文] The rollout comes as robotaxi fleet sizes become increasingly critical for commercialization.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/14/uber-partners-with-chinas-ponyai-for-2000-robotaxis-in-europe.html) — *CNBC*
 
 ---
 
@@ -180,23 +180,23 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cly8w7wm9v8o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. 'This is her stage!' - Hunt takes 200m gold
+### 3. How Maresca's Man City are shaping up compared with Guardiola side
 
-[原文] GB sprint star Amy Hunt takes her second gold of the 2026 European Athletics Championships in the women's 200m, with Rhasidat Adeleke second and Dina Asher-Smith in third.
+[原文] Enzo Maresca has the difficult task of following Pep Guardiola at Manchester City. BBC Sport analyses the new manager's style and tactics from the pre-season games so far.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/videos/c5yvz902xv5o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c70g7dx63geo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Man City's Reijnders set for £52m Saudi move
-
-[原文] Manchester City midfielder Tijjani Reijnders is set to leave following a year at the club after a £52m move was agreed with Saudi Pro-League side Al-Qadsiah.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cp30xwkj4y3o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. LIV set to cancel season-ending Team Championship
+### 4. LIV set to cancel season-ending Team Championship
 
 [原文] LIV Golf players have been warned that the season-ending Team Championship later this month is set to be cancelled.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/c1512e13n40o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 5. New Zealand break with OFC to withdraw Infantino support
+
+[原文] New Zealand break rank with Oceania's football governing body to become the latest nation to withdraw support for Fifa president Gianni Infantino.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/crl7wdkxdd7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Oscar Predictions: Supporting Actress — Is This the Year of Penélope Cruz?
+### 1. Rani Mukerji Receives La Trobe Honorary Doctorate, Wins IFFM Special Citation
+
+[原文] Bollywood star Rani Mukerji has been awarded an Honorary Doctor of Letters by Australia&#8217;s La Trobe University for three decades of work in Indian cinema and her contributions off screen, the uni
+
+📎 [阅读原文](https://variety.com/2026/film/news/rani-mukerji-la-trobe-honorary-doctorate-iffm-citation-1236834439/) — *Variety*
+
+### 2. COL AI Studios Launches to Expand Group’s Global Distribution Network (EXCLUSIVE)
+
+[原文] COL Group has launched COL AI Studios, a new entertainment vertical designed to help platforms, studios and brands develop, test and scale content beyond traditional licensing deals. The studio builds
+
+📎 [阅读原文](https://variety.com/2026/film/news/col-ai-studios-launch-global-distribution-1236834136/) — *Variety*
+
+### 3. Troye Sivan Brings Nicole Kidman to the Club for ‘She’s the Best’ Music Video
+
+[原文] Troye Sivan has kicked off a new era with the release of his new single &#8220;She&#8217;s the Best&#8221; along with a music video co-starring Nicole Kidman. In the clip, directed by Gordon Von Stein
+
+📎 [阅读原文](https://variety.com/2026/music/news/troye-sivan-nicole-kidman-shes-the-best-music-video-1236834397/) — *Variety*
+
+### 4. Phoebe Bridgers Leads Delighted Fans Around the Rink at a Rollerskating Listening Party for ‘Lost Weekend’
+
+[原文] Phoebe Bridgers tends to stand out in a crowd, and not just because of her celebrity or natural star quality, but because of the hair; other women around L.A. may go for the platinum blonde look, but 
+
+📎 [阅读原文](https://variety.com/2026/music/news/phoebe-bridgers-rollerskating-release-party-qa-lost-weekend-1236834356/) — *Variety*
+
+### 5. Oscar Predictions: Supporting Actress — Is This the Year of Penélope Cruz?
 
 [原文] Variety&#160;Awards Circuit&#160;section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars,&#160;Emmys,
 
 📎 [阅读原文](https://variety.com/feature/2027-oscars-best-supporting-actress-predictions-1236834272/) — *Variety*
-
-### 2. Oscar Predictions: Best Actor — The Most Competitive Category Awaits Leading Men Like Tom Cruise, Matt Damon and More
-
-[原文] Variety&#160;Awards Circuit&#160;section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars,&#160;Emmys,
-
-📎 [阅读原文](https://variety.com/feature/2027-oscars-best-actor-predictions-1236834269/) — *Variety*
-
-### 3. Tyler Duckworth, ‘The Challenge’ Reality Show Winner, Dies at 44
-
-[原文] Tyler Duckworth, who competed on six seasons of reality show &#8220;The Challenge&#8221; and also appeared on MTV&#8217;s &#8220;The Real World: Key West,&#8221; has died in North Dakota. He was 44. H
-
-📎 [阅读原文](https://variety.com/2026/tv/news/tyler-duckworth-dead-the-challenge-1236834280/) — *Variety*
-
-### 4. John Farnham’s ‘Whispering Jack’ Gets Special 40th Anniversary Release
-
-[原文] A limited-edition version of the hit album is pressed on black and white vinyl, and individually numbered from one to 2,500.
-
-📎 [阅读原文](https://www.billboard.com/music/music-news/john-farnham-whispering-jack-40th-anniversary-release-1236316345/) — *Billboard*
-
-### 5. California Ticket Resale Cap Bill Fails to Move Forward
-
-[原文] The bill would have capped the resale price of tickets at no more than 10% of their original cost.
-
-📎 [阅读原文](https://www.billboard.com/pro/california-ticket-resale-cap-bill-fails-move-forward/) — *Billboard*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Never Run Out of Ports Again With This Sabrent 8-Port 252W USB Charging Station, Now Just $59.60
+### 1. Xbox's Separation from Compulsion Games Seems Complete as Studio Is Listed as the Publisher of South of Midnight on Steam
+
+[原文] Xbox's separation from Compulsion Games – one of four studios it spun out independently during the recent Xbox "reset" amidst thousands of layoffs – appears to be complete, as the developer itself is 
+
+📎 [阅读原文](https://www.ign.com/articles/xboxs-separation-from-compulsion-games-seems-complete-as-studio-is-listed-as-the-publisher-of-south-of-midnight-on-steam) — *IGN*
+
+### 2. Never Run Out of Ports Again With This Sabrent 8-Port 252W USB Charging Station, Now Just $59.60
 
 [原文] You can never have too many charging ports.
 
 📎 [阅读原文](https://www.ign.com/articles/sabrent-voltik-8-port-252w-usb-desktop-charging-station-deal-august-2026) — *IGN*
 
-### 2. Pay Less Than Half Price for Sony's Outstanding WH-1000XM6 Wireless Noise Canceling Headphones
+### 3. Pay Less Than Half Price for Sony's Outstanding WH-1000XM6 Wireless Noise Canceling Headphones
 
 [原文] These are refurbished units that are indistinguishable from new and include a 2 year warranty.
 
 📎 [阅读原文](https://www.ign.com/articles/sony-wh-1000xm6-wireless-noise-canceling-headphone-deal-august-2026) — *IGN*
 
-### 3. Get a Comfortable Big and Tall Gaming Chair for Less Than $140 With Free Shipping on Amazon
+### 4. Get a Comfortable Big and Tall Gaming Chair for Less Than $140 With Free Shipping on Amazon
 
 [原文] Three different styles are on sale.
 
 📎 [阅读原文](https://www.ign.com/articles/comhoma-big-and-tall-gaming-chair-deal-august-2026) — *IGN*
 
-### 4. Save 70% Off Proton VPN's 2-Year Plan, Now Just $2.99
+### 5. Save 70% Off Proton VPN's 2-Year Plan, Now Just $2.99
 
 [原文] The best VPN is on sale right now.
 
 📎 [阅读原文](https://www.ign.com/articles/protonvpn-vpn-deal-august-2026) — *IGN*
-
-### 5. Supergirl Featurette Wiped From YouTube After Fans Spot Director Using Alleged AI Concept Art for Lobo
-
-[原文] Lobo’s intimidating design in Warner Bros.’ 2026 Supergirl film was seemingly made with the help of artificial intelligence, something that sparked backlash among fans and resulted in a video revealin
-
-📎 [阅读原文](https://www.ign.com/articles/supergirl-featurette-wiped-from-youtube-after-fans-spot-director-using-alleged-ai-concept-art-for-lobo) — *IGN*
 
 ---
 
@@ -439,35 +439,35 @@ The post Ford Mustang GTD Competition Used Street-Legal Tires To Obliterate the 
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Romeo Santos Sues Accounting Firm for $2.3 Million Over Alleged Tax Errors, Mismanagement
+### 1. Orville Peck Resists Rebab on Rowdy Single ‘Already Gone’
+
+[原文] The track is the third listen off the country singer's forthcoming album, Mule
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/orville-peck-already-gone-single-music-video-1235608348/) — *Rolling Stone*
+
+### 2. Troye Sivan Drops ‘She’s The Best,’ Featuring Secret Charli XCX Cameo
+
+[原文] This is the first single off Sivan's new album of the same name, out Oct.9, and the track's accompanying video stars Nicole Kidman
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/troye-sivan-shes-the-best-charli-xcx-nicole-kidman-1235608285/) — *Rolling Stone*
+
+### 3. Selena Gomez and Her Mother Accused of Defrauding Investors as Mental Health Startup ‘Collapsed’
+
+[原文] Investors say they pumped $1.2 million into Wondermind and claim they were misled about Gomez's involvement
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/selena-gomez-mother-lawsuit-fraud-wondermind-startup-1235608329/) — *Rolling Stone*
+
+### 4. Romeo Santos Sues Accounting Firm for $2.3 Million Over Alleged Tax Errors, Mismanagement
 
 [原文] The Latin superstar claims the firm filed “incoherent” tax documents, missed deadlines, and failed to invest his money or fund his retirement account
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/romeo-santos-sues-accounting-firm-mismanagement-1235608306/) — *Rolling Stone*
 
-### 2. NBA YoungBoy, Now Living in Korea, Reveals Heart Condition and Says He Has One More Tour in Him
+### 5. NBA YoungBoy, Now Living in Korea, Reveals Heart Condition and Says He Has One More Tour in Him
 
-[原文] The rap star also said that he has “one or two” albums left in his colossal career
+[原文] The rap star also said that he has “one or two” albums left in his career
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/nba-youngboy-korea-heart-condition-one-more-tour-1235608299/) — *Rolling Stone*
-
-### 3. Lil Durk Murder-for-Hire Trial: Judge Rules ‘Pissed Me Off’ Video Can Be Used as Evidence
-
-[原文] Durk's defense fought the admission, saying it would create “so much risk of prejudice and confusion"
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/lil-durk-murder-for-hire-trial-video-lyrics-used-evidence-1235608235/) — *Rolling Stone*
-
-### 4. Michael Jackson Estate Wins Round as Judge Orders Arbitration in Cascio Siblings Trafficking Case
-
-[原文] The judge ruled that while the siblings’ allegations “are horrific,” the court lacked discretion to hear the case
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/michael-jackson-estate-arbitration-cascio-siblings-1235607946/) — *Rolling Stone*
-
-### 5. Man Arrested After Allegedly Urinating on Fans at Morgan Wallen Concert
-
-[原文] Jayson Reed of North Carolina was charged with four counts of second-degree assault, public urination, and other related offenses stemming from the incident at July 18 show in Baltimore
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/man-arrested-allegedly-urinating-fans-morgan-wallen-concert-1235608030/) — *Rolling Stone*
 
 ---
 
@@ -516,7 +516,7 @@ The post Ford Mustang GTD Competition Used Street-Legal Tires To Obliterate the 
 - **💻 科技**: TechCrunch
 - **🔬 科学**: Science Daily
 - **⚽ 体育**: BBC Sport
-- **🎬 娱乐**: Variety、Billboard
+- **🎬 娱乐**: Variety
 - **🏥 健康**: WHO
 - **🎮 游戏**: IGN
 - **🚗 汽车**: The Drive
