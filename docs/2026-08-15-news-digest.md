@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月15日** | 生成时间: 2026-08-15 02:58
+**2026年08月15日** | 生成时间: 2026-08-15 09:24
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Instagram accounts fuelling Ceuta crisis with paid advice for help to cross
+### 1. Mangione admits killing healthcare CEO and pleads guilty to federal charges
+
+[原文] "I shot Mr Thompson in Manhattan and he died," the 28-year-old said after pleading guilty to charges of stalking resulting in death.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule
+
+[原文] Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. US aircraft carrier on way to relieve USS Lincoln after issues reported on board
+
+[原文] Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. Instagram accounts fuelling Ceuta crisis with paid advice for help to cross
 
 [原文] BBC's Top Comment podcast has found a network of Instagram profiles glamourising the swim around the Morocco-Ceuta border fence.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers
+### 5. Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers
 
 [原文] Two families have been trapped in their homes in the occupied West Bank for several days.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 3. 'Unprecedented' rain in Japan kills eight people
-
-[原文] The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Builders unearth €9m gold stash sealed in walls of Belgian property
-
-[原文] Construction workers found the stash in the walls of a cellar while drilling to lay sewage pipes.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Stolen Matisse artworks recovered by police in Brazil
-
-[原文] A man is arrested after eight works by the French artist are found at a home in greater São Paulo.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -60,29 +60,29 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html) — *CNBC*
 
-### 2. Luigi Mangione pleads guilty in federal case related to UnitedHealthcare CEO killing
+### 2. Berkshire Hathaway boosts Alphabet to a top three holding, ups Delta and housing bets
 
-[原文] Mangione's lawyers argue his federal plea bars his prosecution for murder in state court for Brian Thompson's slaying due to New York's double jeopardy law
+[原文] Berkshire owned about 106 million shares in the parent of Google, worth $37.9 billion at the end of June, according to a regulatory filing released Friday.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/14/luigi-mangione-pleads-guilty-brian-thompson-killing.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/14/berkshire-hathaway-boosts-alphabet-to-a-top-three-holding-ups-delta-and-housing-bets.html) — *CNBC*
 
-### 3. Trump asks Supreme Court to let White House ballroom construction continue
+### 3. Nvidia discloses $21 billion stake in SpaceX at end of second quarter
 
-[原文] President Donald Trump tore down the White House East Wing to make way for the ballroom project.
+[原文] Nvidia's stake in SpaceX, which came through an investment in xAI, was worth about $21 billion at the end of the second quarter.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/14/trump-ballroom-supreme-court-white-house.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/14/nvidia-discloses-21-billion-stake-in-spacex-at-end-of-second-quarter.html) — *CNBC*
 
-### 4. Disney CEO Josh D'Amaro tells CNBC parks were 'big surprise' in last quarter, company has 'clarity' and 'stability'
+### 4. Trump family-backed crypto firm World Liberty gets conditional bank charter approval
 
-[原文] New CEO Josh D'Amaro has said his strategy for continued growth at Disney is centered around storytelling, intellectual property and technology.
+[原文] The OCC conditionally approved World Liberty Trust Co.’s national trust bank charter. That would allow the Trump family-backed firm to issue stablecoins.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/14/disney-ceo-josh-damaro-d23-expo.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/14/world-liberty-trump-occ-bank-charter-stablecoin.html) — *CNBC*
 
-### 5. How a niche copper trade became a real-time gauge of Trump’s next tariff move
+### 5. Regulators and banks step up scrutiny of prediction markets
 
-[原文] The widening price of copper between two metals exchanges is offering investors a gauge of U.S. tariff risk.
+[原文] The CFTC is reviewing prediction betting platforms' so-called mention markets, people familiar with the matter confirmed to CNBC.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/14/copper-trump-tariffs-metal-commodities-trade-war.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/14/prediction-markets-scrutiny-mounts-from-regulators-and-banks.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Read-it-later app Pocket shut down down — here are the best alternatives
+### 1. Talks to sell PayPal to Stripe and Advent are heating up
+
+[原文] PayPal is still reportedly negotiating a potential sale to Stripe and private equity firm Advent, as the fintech firm's new CEO attempts to turn the company around.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/) — *TechCrunch*
+
+### 2. Self-driving trucks are officially testing on California highways
+
+[原文] Aurora Innovation and Kodiak AI, two companies developing self-driving trucks, have received permits from the California Department of Motor Vehicles.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/) — *TechCrunch*
+
+### 3. Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria
+
+[原文] The AI opportunity is huge, but "it would also be a grave error in our minds to let excitement weaken our investment discipline," Kushner warns in his first-ever investment letter.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/) — *TechCrunch*
+
+### 4. What we know about the alleged Iranian hacks on US water utilities
+
+[原文] Over the last couple of weeks, hackers have targeted and broken into the systems of several water plants in the United States. Here’s what we know and don’t know about this wave of attacks allegedly c
+
+📎 [阅读原文](https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/) — *TechCrunch*
+
+### 5. Read-it-later app Pocket shut down — here are the best alternatives
 
 [原文] Pocket users have until October 8, 2025, to export their saved articles and other items, including lists, archives, favorites, notes, and highlights.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/14/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/) — *TechCrunch*
-
-### 2. Unforgetful is a new reminders app for people who can’t stop hitting snooze
-
-[原文] Unforgetful, the latest app from longtime indie developer Marco Arment, is designed to make reminders harder to ignore — or accidentally dismiss.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/) — *TechCrunch*
-
-### 3. Google will now allow users to remove visible watermark from its AI generations
-
-[原文] Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/) — *TechCrunch*
-
-### 4. Does Mark Zuckerberg really believe AI is ‘for everyone’?
-
-[原文] Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that s
-
-📎 [阅读原文](https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/) — *TechCrunch*
-
-### 5. Apple proposes to take a 15% cut of purchases made outside the App Store
-
-[原文] Apple is asking a federal judge to allow it to charge commissions of up to 15% on purchases made through external links in iOS apps.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Britain's Finlay Tarling dies in Volta a Portugal accident
+### 1. Hodgkinson beaten to European gold by rival Werro
+
+[原文] Keely Hodgkinson is forced to settle for European silver as Switzerland's Audrey Werro denies the Briton a third consecutive title in a thrilling 800m final.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/cyvl05g8g4lo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. Britain's Finlay Tarling dies in Volta a Portugal accident
 
 [原文] British cyclist Finlay Tarling dies at the age of 19 in a serious accident during the eighth stage of the Volta a Portugal.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/cycling/articles/ceqed1g3j48o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Bezos-backed consortium buys a third of Liverpool
+### 3. Bezos-backed consortium buys a third of Liverpool
 
 [原文] Liverpool's owners agree to sell about a third of the club to a consortium including billionaire Amazon founder Jeff Bezos - in a deal that values the Reds at more than £5bn.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cx2vj4l9wxyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Chelsea say no Fernandez move as deadline passes - but is it really over?
+### 4. Chelsea say no Fernandez move as deadline passes - but is it really over?
 
 [原文] Chelsea's deadline for clubs to bid £120m for midfielder Enzo Fernandez has passed - and they now expect the Argentine to stay at the club this season.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c7vgyrl2573o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Ramsay-Peaty confused by early exit at Europeans
+### 5. Walter puts dominant Super Giants in Hundred final
 
-[原文] Former Olympic and world champion Adam Ramsay-Peaty says he is "confused" as his poor run of form continues at the European Aquatics Championships.
+[原文] All-rounder Paul Walter is the unlikely star with 80 off 46 balls as Manchester Super Giants comfortably beat Sunrisers Leeds to reach the men's Hundred final.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/swimming/articles/c0m7yxjemj0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. VAR, timewasting and subs - new rules for the new season
-
-[原文] The 2026-27 season will feature an unprecedented number of new laws, mostly designed to tackle tempo disruption and make the game quicker.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ce85pje4gyqo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c0qvy5p5gdlo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘Pretty Babies’ Director Tyler-Marie Evans on Sex Work, Female Friendship and Finding Humanity Beyond Stereotypes
+### 1. Emmy Predictions: ‘The Pitt,’ ‘Hacks’ and ‘Beef’ Head Into Final Voting With History on Their Side (and Against Them)
 
-[原文] We all have souls. That sentiment sits at the heart of &#8220;Pretty Babies,&#8221; Tyler-Marie Evans&#8217; feature debut, which world premieres Friday in competition at the Edinburgh Intl. Film Fest
+[原文] Variety&#160;Awards Circuit&#160;section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars,&#160;Emmys,
 
-📎 [阅读原文](https://variety.com/2026/film/global/pretty-babies-director-tyler-marie-evans-1236833628/) — *Variety*
+📎 [阅读原文](https://variety.com/lists/2026-emmys-predictions/) — *Variety*
 
-### 2. DIRECTV Drops Price of Sports Genre Pack to Under $50 for First Month Just in Time for Fall Football Season
+### 2. Netflix Pushes Back on Tyra Banks ‘Reality Check’ Defamation Suit
 
-[原文] Sports fans won’t have to rely on cable anymore to catch the big games and tournaments this fall, as streaming service DIRECTV launches a new promo for cord cutters looking to take in the action. DIRE
+[原文] Netflix filed a motion Friday to throw out Tyra Banks&#8217; defamation suit over a documentary series about &#8220;America&#8217;s Next Top Model,&#8221; arguing that Banks is taking issue with routi
 
-📎 [阅读原文](https://variety.com/2026/shopping/news/directv-mysports-genre-pack-deal-pricing-channel-details-1236834741/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/netflix-dismiss-tyra-banks-reality-check-defamation-suit-1236834978/) — *Variety*
 
-### 3. Kate O’Flynn on Her ‘Widow’s Bay’ Breakout, Mike Leigh’s Final Film and Her Emmy Nomination: ‘I Felt Like an Ostrich’
+### 3. Disney Is Launching a Romantasy Webcomics Series on Webtoon Inspired by Movies Including ‘Beauty and the Beast’
 
-[原文] Kate O’Flynn found out she was an Emmy nominee and immediately went underground. “I felt like an ostrich,” she tells Variety over Zoom. “I got the news, and I was immediately overwhelmed and put my he
+[原文] Disney is putting the adult in Disney Adult. The Mouse House is famous for warm-and-fuzzy family entertainment &#8212; but it also has a stockpile of moody and magical love stories. At D23 in Anaheim,
 
-📎 [阅读原文](https://variety.com/2026/tv/awards/kate-oflynn-widows-bay-emmys-mike-leigh-1236828796/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/digital/news/disney-cursed-love-webtoon-romantasy-webcomics-beauty-and-the-beast-1236834088/) — *Variety*
 
-### 4. California Bill to Subsidize Post-Production Advances as Commercials Bill Dies
+### 4. Emmys: Supporting Actress (Comedy) — Hannah Einbinder Defends Her Crown Against ‘Widow’s Bay’
 
-[原文] A bill to subsidize post-production in California cleared a hurdle in the state Senate on Thursday, while a separate measure to fund commercial production died. The post-production bill, AB 2319, woul
+[原文] Variety&#160;Awards Circuit&#160;section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars,&#160;Emmys,
 
-📎 [阅读原文](https://variety.com/2026/film/news/california-bill-post-production-commercials-1236834698/) — *Variety*
+📎 [阅读原文](https://variety.com/lists/emmys-2026-supporting-actress-comedy-predictions/) — *Variety*
 
-### 5. ‘Widow’s Bay’ Cinematographer Christian Sprenger on How ‘Jaws’ and ‘The Shining’ Influenced the Show’s Visual Style
+### 5. ‘Beef’ Creator Lee Sung Jin on Abandoning His Tom Brady Heist Plot and the Finneas, Cailee Spaeny Emmy Snubs
 
-[原文] “Widow’s Bay” showrunner Katie Dippold knows how to toe the line between comedy and horror — her credits include “Haunted Mansion” and “Ghostbusters.” With her latest project, she proves this skill on
+[原文] Lee Sung Jin learned about “Beef’s” latest Emmy haul all at once. The second season of Netflix’s genre-bending anthology earned 16 nominations, the most of any limited or anthology series this year. T
 
-📎 [阅读原文](https://variety.com/2026/artisans/awards/widows-bay-jaws-the-shining-flashback-episode-1236834593/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/awards/lee-sung-jin-beef-tom-brady-emmy-snubs-1236834964/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Control Resonant: Exclusive Boss Fight Gameplay - IGN First
+### 1. This 50-Hour Fantasy Audiobook Is the Best Possible Use of an Audible Free Trial
 
-[原文] We've got more brand new Control Resonant gameplay to show you, as we take a look at one of the game's biggest boss fights.
+[原文] The Wandering Inn is considered to be a part of the LitRPG genre, which is very similar to Dungeon Crawler Carl, and I can't recommend it enough.
 
-📎 [阅读原文](https://www.ign.com/articles/control-resonant-exclusive-boss-fight-gameplay-ign-first) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/the-wandering-inn-audiobook-recommendation) — *IGN*
 
-### 2. Lanterns Series Premiere Review: Restoring Faith in James Gunn's DCU
+### 2. Flexispot's Back to School Sale Offers Big Savings on Affordable Yet High Quality Standing Desks and Chairs
 
-[原文] With a finely honed Dynamic Duo lighting the way, Lanterns serves as a critical return to form for the DCU in its first episode. Read our spoiler-free review.
+[原文] Great build quality and premium features at an attractive price, perfect for the budget-conscious student.
 
-📎 [阅读原文](https://www.ign.com/articles/lanterns-series-premiere-review-restoring-faith-in-james-gunns-dcu) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/flexispot-back-to-school-sale-2026-best-deals-on-electric-standing-desks-and-ergonomic-chairs) — *IGN*
 
-### 3. The Watcher, an Orwellian Surveillance Sim, Announced for PC
+### 3. Furnish Your Home Gym With This Complete Multi-Function Power Cage for Just $263.48 Shipped
 
-[原文] In a totalitarian state, you play an observer who watches your neighbors in a strange city called Z. This is the premise behind The Watcher (aptly named!), which is in development for PC.
+[原文] Squat rack, lat pull-down machine, power tower, and dip bar in one.
 
-📎 [阅读原文](https://www.ign.com/articles/the-watcher-an-orwellian-surveillance-sim-announced-for-pc) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/sportsroyals-multi-function-power-cage-deal-august-2026) — *IGN*
 
-### 4. The X-Files Returns to Comics With New Series From Dynamite Entertainment
+### 4. Save 70% Off Proton VPN's 2-Year Plan, Now Just $2.99
 
-[原文] If you're jonesing for classic The X-Files adventures, you're in luck. Dynamite Entertainment has just revealed a new comic book series presenting previously unseen cases for Agents Mulder and Scully.
+[原文] The best VPN is on sale right now.
 
-📎 [阅读原文](https://www.ign.com/articles/the-x-files-returns-to-comics-with-new-series-from-dynamite-entertainment) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/protonvpn-vpn-deal-august-2026) — *IGN*
 
-### 5. The Original Scary Movie Is Getting Its Own 4K Steelbook – Here’s Where You Can Preorder It
+### 5. Secretlab's Gaming Chairs Are on Sale During the Back to School Sale, Including Its Flagship Nanogen Edition
 
-[原文] The original Scary Movie, from 2000, is releasing as a 4K steelbook this year and preorders are officially live for it. Here's where you can grab a copy ahead of its October release.
+[原文] The Secretlab Titan Evo is our top gaming chair pick for 2026.
 
-📎 [阅读原文](https://www.ign.com/articles/scary-movie-2000-4k-steelbook-where-to-buy) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/secretlab-back-to-school-sale-2026-best-deals-on-titan-gaming-chairs) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post Is Cadillac Cool Enough to Sell I
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Data Center Industry’s PR Blitz Is Backfiring
+### 1. California Pesticide Agency Hopelessly Captured by Industry, Critics Charge
+
+[原文] SACRAMENTO, Calif.—Farmworkers, their loved ones and advocates lined up out the door of a California state legislative hearing room this week to urge elected officials to hold pesticide regulators acc
+
+📎 [阅读原文](https://insideclimatenews.org/news/14082026/california-regulators-face-calls-to-better-protect-immigrants-from-pesticides/) — *Inside Climate News*
+
+### 2. As Trump Expands Hunting and Fishing Access on Wildlife Refuges, What Will the Impact Be?
+
+[原文] Over 95 percent of land within national wildlife refuges across the country will soon be open to hunting and fishing. The announcement Thursday from the U.S. Department of the Interior represents the 
+
+📎 [阅读原文](https://insideclimatenews.org/news/14082026/trump-expands-hunting-fishing-access-on-wildlife-refuges/) — *Inside Climate News*
+
+### 3. The Data Center Industry’s PR Blitz Is Backfiring
 
 [原文] HENDERSON, N.C.—On a recent summer evening Mitzi Parrott, who lives in Vance County, saw a television commercial on the evening news that gave her pause. Kathie Hamm and Bobbie Lequire, also of Vance 
 
 📎 [阅读原文](https://insideclimatenews.org/news/14082026/data-center-pr-blitz-backfiring/) — *Inside Climate News*
 
-### 2. Florida Makes It Harder for Residents Living on Radioactive Soil From Former Phosphate Mines to Sue
+### 4. Florida Makes It Harder for Residents Living on Radioactive Soil From Former Phosphate Mines to Sue
 
 [原文] “What happens when you get exposure to radioactivity?” Andy Mele remembers the man asking earnestly as he pulled up his shirt. The man, who looked like he couldn’t be older than 35, exposed his swolle
 
 📎 [阅读原文](https://insideclimatenews.org/news/14082026/florida-law-makes-it-harder-to-sue-phosphate-mines-for-radioactive-so/) — *Inside Climate News*
 
-### 3. Microplastics Found in Mexican Howler Monkeys Living in a UNESCO Biosphere Reserve
+### 5. Microplastics Found in Mexican Howler Monkeys Living in a UNESCO Biosphere Reserve
 
 [原文] For thousands of years, Mexican howler monkeys have inhabited the lush rainforest canopy of what is now Los Tuxtlas—a 155,000-acre UNESCO biosphere reserve in the eastern state of Veracruz, 325 miles 
 
 📎 [阅读原文](https://insideclimatenews.org/news/14082026/mexican-howler-monkeys-microplastics/) — *Inside Climate News*
-
-### 4. Maryland Breaks Heat-Related Death Record With Weeks of Summer to Go
-
-[原文] This article has been updated. Prolonged heatwaves pushed death tolls to new levels this year in Maryland, which recorded its highest number of heat-related deaths with more than a month left of summe
-
-📎 [阅读原文](https://insideclimatenews.org/news/13082026/maryland-breaks-heat-deaths-record/) — *Inside Climate News*
-
-### 5. Montana’s Sand Creek Fire Burns Through Into Beloved Ski Area
-
-[原文] The Sand Creek Fire had grown to 27,736 acres on Thursday after burning through parts of Maverick Mountain Ski Area in southwestern Montana, but firefighters succeeded in protecting the ski lodge and 
-
-📎 [阅读原文](https://insideclimatenews.org/news/13082026/montana-sand-creek-fire-burns-maverick-mountain-ski-area/) — *Inside Climate News*
 
 ---
 
@@ -425,11 +425,11 @@ The post Is Cadillac Cool Enough to Sell I
 
 📎 [阅读原文](https://edsurge.com/news/reading-scores-continue-to-drop-for-many-middle-schoolers-heres-why) — *EdSurge*
 
-### 5. The Library That Sparked a STEM Revolution for Our Students
+### 5. What Happens When AI Policy Meets a Real Classroom?
 
-[原文] To truly close the digital equity gap, educators must become architects of student possibility.
+[原文] One national study, one local leader, and a reality check on how schools are really regulating AI.
 
-📎 [阅读原文](https://edsurge.com/news/the-library-that-sparked-a-stem-revolution-for-our-students) — *EdSurge*
+📎 [阅读原文](https://edsurge.com/news/what-happens-when-ai-policy-meets-a-real-classroom) — *EdSurge*
 
 ---
 
@@ -439,35 +439,35 @@ The post Is Cadillac Cool Enough to Sell I
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. California Bill Aiming to Cap Concert Ticket Resale Prices Fails
+### 1. Slipknot and Sid Wilson Part Ways After Nearly 30 Years
+
+[原文] "Effective immediately, Slipknot will no longer be associated with Sid Wilson," the band posted in a since-deleted social media post
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/slipknot-sid-wilson-part-ways-1235602008/) — *Rolling Stone*
+
+### 2. Bad Bunny Reggaeton Copyright Case Ruling Gets Second Look From Judge
+
+[原文] Lawyers for Bad Bunny, Drake, and a host of reggaeton superstars are asking the judge to reconsider his ruling that only a jury could decide their dispute with reggae duo Steely &#38; Clevie
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/bad-bunny-drake-karol-g-reggaeton-copyright-case-reconsider-1235609366/) — *Rolling Stone*
+
+### 3. Grammys Will Take Asian Music Category Criticism Into Consideration
+
+[原文] CEO Harvey Mason jr. initially defended the Best Asian Pop Music Performance category when BTS opted out of submitting, but new conversations with stakeholders might change his mind
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/grammys-taking-asian-category-criticism-into-consideration-1235609513/) — *Rolling Stone*
+
+### 4. California Bill Aiming to Cap Concert Ticket Resale Prices Fails
 
 [原文] AB 1720, also known as the California Fans First Act, would have capped concert tickets resale prices to no more than 10 percent of face value
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/california-bill-cap-concert-ticket-resale-prices-fails-1235609292/) — *Rolling Stone*
 
-### 2. Phoebe Bridgers Drops Video for Cameron Winter Duet ‘I Can’t Wait’
+### 5. Phoebe Bridgers Drops Video for Cameron Winter Duet ‘I Can’t Wait’
 
-[原文] After six long years, the singer-songwriter's new album Lost Weekend is out now
+[原文] After six long years, the singer-songwriter’s new album Lost Weekend is out now
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/phoebe-bridgers-i-cant-wait-cameron-winter-video-1235606840/) — *Rolling Stone*
-
-### 3. Sheryl Crow Previews New Album ‘Pick You Up’ With Jesse Welles Collaboration ‘Freedom Bus’
-
-[原文] "My wish is that whoever hears these songs feels the hope I feel when I sing them," Crow shared about the album, out Oct. 9
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/sheryl-crow-pick-you-up-album-freedom-bus-single-1235608720/) — *Rolling Stone*
-
-### 4. Dave Chappelle Calls Out Producers of Diaspora Calling! Show: ‘Y’all F–ked Up’
-
-[原文] “You’re fucking up history," the comedian railed at producers after the Fugees were cut off after one hour
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/dave-chappelle-calls-out-diaspora-calling-fest-fugees-set-1235608369/) — *Rolling Stone*
-
-### 5. Katseye Bring the Party in Vibrant ‘Hootie Frutti’ Music Video
-
-[原文] The girl group’s new five-song EP, Wild, is out now
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/katseye-hootie-frutti-music-video-1235608358/) — *Rolling Stone*
 
 ---
 
@@ -527,8 +527,8 @@ The post Is Cadillac Cool Enough to Sell I
 
 ## ⚠️ 今日故障源
 
+- **🌍 国际政治**: Al Jazeera
 - **🚗 汽车**: Autocar
-- **✈️ 旅游**: Nomadic Matt
 
 ---
 
