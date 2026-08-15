@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月15日** | 生成时间: 2026-08-15 14:42
+**2026年08月15日** | 生成时间: 2026-08-15 20:43
 
 ---
 
@@ -16,11 +16,11 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Mangione admits killing healthcare CEO and pleads guilty to federal charges
+### 1. Powerful magnitude 7.7 earthquake kills at least 38 in Indonesia
 
-[原文] "I shot Mr Thompson in Manhattan and he died," the 28-year-old said after pleading guilty to charges of stalking resulting in death.
+[原文] A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 2. BBC seeks to subpoena Trump's family members in Panorama lawsuit
 
@@ -28,23 +28,23 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. At least 14 dead after 7.7-magnitude earthquake strikes Indonesia
-
-[原文] The earthquake struck off Flores island in the country's east early on Saturday morning.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule
-
-[原文] Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. US aircraft carrier on way to relieve USS Lincoln after issues reported aboard
+### 3. US aircraft carrier on way to relieve USS Lincoln after issues reported aboard
 
 [原文] Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. Eleven killed in Israeli strikes on southern Lebanon, authorities say
+
+[原文] Israel's military said it had struck "Hezbollah terror infrastructure" in response to what it described as an earlier action against its soldiers.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. South Korea proposes talks to officially end war with North
+
+[原文] Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. OpenAI talent exodus raises 'huge red flag' ahead of IPO
+### 1. Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck
 
-[原文] OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.
+[原文] Iran's deputy foreign minister says Hormuz "will remain Iranian" after Trump's claim that the waterway would soon become U.S. territory.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/15/iran-rebuffs-trumps-claim-over-hormuz-amid-report-of-ship-strike.html) — *CNBC*
 
-### 2. Russia's economy has defied the skeptics. Cracks are getting harder to hide
-
-[原文] Russia's wartime economy is under growing strain as its budget deficit widens and analysts warn pressure could intensify next year.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/15/ukraine-war-russia-economy-putin-oil.html) — *CNBC*
-
-### 3. Berkshire Hathaway boosts Alphabet to a top three holding, ups Delta and housing bets
+### 2. Berkshire Hathaway boosts Alphabet to a top three holding, ups Delta and housing bets
 
 [原文] Berkshire owned about 106 million shares in the parent of Google, worth $37.9 billion at the end of June, according to a regulatory filing released Friday.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/14/berkshire-hathaway-boosts-alphabet-to-a-top-three-holding-ups-delta-and-housing-bets.html) — *CNBC*
 
-### 4. Extreme heat spurs earliest-ever Champagne harvest, putting its famous taste to the test
-
-[原文] Producers of the iconic French fizz face a challenge to preserve its taste profile while they also battle tariff complications and fewer drinkers.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/15/heatwave-champagne-harvest-climate.html) — *CNBC*
-
-### 5. Nvidia discloses $21 billion stake in SpaceX at end of second quarter
+### 3. Nvidia discloses $21 billion stake in SpaceX at end of second quarter
 
 [原文] Nvidia's stake in SpaceX, which came through an investment in xAI, was worth about $21 billion at the end of the second quarter.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/14/nvidia-discloses-21-billion-stake-in-spacex-at-end-of-second-quarter.html) — *CNBC*
+
+### 4. Trump family-backed crypto firm World Liberty gets conditional bank charter approval
+
+[原文] The OCC conditionally approved World Liberty Trust Co.’s national trust bank charter. That would allow the Trump family-backed firm to issue stablecoins.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/14/world-liberty-trump-occ-bank-charter-stablecoin.html) — *CNBC*
+
+### 5. Between earn-nothing cash, broken long-term bonds, these are the safety trades of 2026 market
+
+[原文] Investors have flocked to short-term investments like ultra-short bond funds in anticipation of a stock market correction and with long-term bonds broken.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/15/cash-money-market-funds-bonds.html) — *CNBC*
 
 ---
 
@@ -142,23 +142,23 @@
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260814011041.htm) — *Science Daily*
 
-### 3. Scientists detect a nuclear reactor’s ghostly afterglow for the first time
+### 3. Scientists solve the mystery of a brain “switch” that can trigger weight loss in opposite ways
+
+[原文] Scientists have uncovered why two seemingly opposite ways of targeting the same brain receptor can both promote weight loss. In mice, activating the GIP receptor in the brainstem reduced appetite, whi
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260814011039.htm) — *Science Daily*
+
+### 4. Scientists detect a nuclear reactor’s ghostly afterglow for the first time
 
 [原文] Nuclear reactors may go dark, but their fuel continues producing a faint antineutrino “glow” long after shutdown. Researchers have now detected that residual signal for the first time, finding it clos
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260814011036.htm) — *Science Daily*
 
-### 4. Immune cells flood into the aging brain, Stanford scientists discover
+### 5. Immune cells flood into the aging brain, Stanford scientists discover
 
 [原文] Scientists have discovered that the aging human brain may be far less isolated from the rest of the body than once believed. Stanford researchers found that large numbers of immune cells from the bloo
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260814011033.htm) — *Science Daily*
-
-### 5. The Atlantic Ocean can handle more warming than expected — with one big catch
-
-[原文] Scientists have found that the AMOC may be far more vulnerable to rapid warming than to temperature alone. When warming happens slowly, the ocean can adapt, but at faster rates similar to today’s, the
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260814011031.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Fresh rivals & forced to settle for silver - but Hodgkinson up for fight
+### 1. Soaring heat, falling crowds - The Hundred's peculiar summer
 
-[原文] Keely Hodgkinson says she is proud of her ability to "continue to fight" after taking silver behind Audrey Werro at the European Athletics Championships.
+[原文] BBC Sport looks at the numbers behind the drop in attendances at The Hundred compared to 2025, in the tournament's first year under new private ownership.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/cjejknkjendo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cp8xpgxy5p5o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Are fans now more invested in star names than clubs?
+### 2. Bangladesh move closer to historic win in Australia
 
-[原文] From Lionel Messi and Cristiano Ronaldo to Erling Haaland and Jude Bellingham, are star names a bigger draw than clubs for young fans?
+[原文] Spinner Mehidy Hasan Miraz takes the crucial wicket of Steve Smith as Bangladesh move closer to a historic first Test victory in Australia on day three in Darwin.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cn8ner50zdno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c39eygmrlnjo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Britain's Finlay Tarling dies in Volta a Portugal accident
+### 3. 'Pressure will follow him' - Rocky Flintoff faces up to tests ahead
 
-[原文] British cyclist Finlay Tarling dies at the age of 19 in a serious accident during the eighth stage of the Volta a Portugal.
+[原文] With one former England coach calling for Rocky Flintoff to be "fast-tracked" to international cricket, what should be next for the talented teenager?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cycling/articles/ceqed1g3j48o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c9342w19n81o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Scheffler equals course record to lead first play-off event
+### 4. Fertility medication caused drug ban, says NFL player
 
-[原文] Scottie Scheffler equalls the course record with a nine-under 61 as he opens up a three-stroke lead at the end of the second round of the St Jude Championship in Memphis.
+[原文] Two-time Super Bowl winner Nazeeh Johnson believes he tested positive for a banned substance because of fertility medication he was taking.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/clyxer2kyl7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/american-football/articles/cx2rrnvr404o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. 'This is the right one' - Rohl on leaving Rangers for Salzburg
+### 5. PSG sign World Cup final match-winner Torres from Barcelona
 
-[原文] Danny Rohl explains why he left Rangers for Red Bull Salzburg - where he hopes to win trophies and help develop young players.
+[原文] Ferran Torres, who scored the winning goal for Spain at the World Cup, has joined European champions Paris St-Germain from Barcelona.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cj9dpvwl1nmo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c20jyxjl8yko?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘Frozen 3’ First Details: Anna and Kristoff Get Married, Olaf Gets a Girlfriend and a New Villain Emerges
+### 1. ‘Nowhere to Lay My Eyes’ Review: Kim Minhee Once More Gives a Melancholy Masterclass in a Hong Sangsoo Miniature
+
+[原文] The death-and-taxes certainty of Hong Sangsoo&#8217;s filmography — comparable to Woody Allen&#8217;s prime career run in its regularity, consistency and recurrence of ideas and actors across a gently
+
+📎 [阅读原文](https://variety.com/2026/film/reviews/nowhere-to-lay-my-eyes-review-1236835338/) — *Variety*
+
+### 2. ‘A Chocolate Christmas,’ a Brazilian Holiday Romantic Drama, Set to Shoot in Gramado and New York From December
+
+[原文] GRAMADO, Brazil &#8212; Vet Brazilian helmer-producer Paulo Nascimento will lense “A Chocolate Christmas,” a Portuguese-language holiday-themed feature film in the mountain resort of Gramado, in south
+
+📎 [阅读原文](https://variety.com/2026/film/global/paulo-nascimento-a-chocolate-christmas-gramado-new-york-1236835366/) — *Variety*
+
+### 3. Urša Menart Recalls Finding Inspiration on Influencers’ Fake Tragic Life Stories for Intimate Dramedy ‘Everything That’s Wrong With You’
+
+[原文] Right before the COVID-19 pandemic shut down the world, Slovenian director Urša Menart came across a curious phenomenon on the internet: young people, mostly women, making up tragic life stories to ga
+
+📎 [阅读原文](https://variety.com/2026/film/global/ursa-menart-everything-thats-wrong-with-you-influencers-1236833609/) — *Variety*
+
+### 4. Zee Entertainment Wins Interim Relief to Proceed With $330 Million Capital Raise Despite Indian Regulator’s Market Ban
+
+[原文] India&#8217;s Securities Appellate Tribunal has granted media giant Zee Entertainment Enterprises Ltd. interim relief in its dispute with the country&#8217;s securities regulator, allowing the company
+
+📎 [阅读原文](https://variety.com/2026/tv/news/zee-shareholders-approve-fund-raise-sebi-market-ban-1236826217/) — *Variety*
+
+### 5. ‘Frozen 3’ First Details: Anna and Kristoff Get Married, Olaf Gets a Girlfriend and a New Villain Emerges
 
 [原文] Thanksgiving 2027 is about to get a lot colder. Disney has revealed the first details about “Frozen 3,” which will release in theaters Nov. 24, 2027, following the previous two films&#8217; tradition 
 
 📎 [阅读原文](https://variety.com/2026/film/news/frozen-3-first-details-anna-kristoff-married-olaf-love-1236822955/) — *Variety*
-
-### 2. Marvel’s ‘X-Men’ Reboot Sets May 2028 Release Date
-
-[原文] The long-awaited X-Men movie is finally coming to the MCU. Marvel Studios exec Kevin Feige made the official announcement that the X-Men movie will release on May 5, 2028. The cast will include Sadie 
-
-📎 [阅读原文](https://variety.com/2026/film/news/x-men-release-date-marvel-reboot-1236816959/) — *Variety*
-
-### 3. ‘Star Wars: Starfighter’ Footage: Ryan Gosling Races Through the Galaxy With Young Sidekick
-
-[原文] Ryan Gosling already survived going to space in &#8220;Project Hail Mary,&#8221; but now he&#8217;s ready to blast off to a galaxy far, far away in &#8220;Star Wars: Starfighter.&#8221; The upcoming &
-
-📎 [阅读原文](https://variety.com/2026/film/news/star-wars-starfighter-trailer-ryan-gosling-1236712809/) — *Variety*
-
-### 4. Disney’s ‘Hexed’ Adds Walton Goggins and Jodie Foster to Cast
-
-[原文] Jodie Foster and Walton Goggins are joining the cast of Disney&#8217;s next animated movie, &#8220;Hexed.&#8221; The casting news was announced during the Disney Entertainment Showcase presentation at
-
-📎 [阅读原文](https://variety.com/2026/film/news/hexed-cast-walton-goggins-jodie-foster-1236834882/) — *Variety*
-
-### 5. ‘Zootopia 3’ in the Works at Disney
-
-[原文] Get ready to head back to Zootopia. Disney has announced that &#8220;Zootopia 3&#8221; is in the works following the massive success of last year&#8217;s &#8220;Zootopia 2,&#8221; which became the com
-
-📎 [阅读原文](https://variety.com/2026/film/news/zootopia-3-disney-1236835053/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. First Trailer for Star Wars: Starfighter Shown at D23 — Here's What We Saw
+### 1. I Hope GTA 6 Borrows a Lot From GTA 4
+
+[原文] I've been playing Grand Theft Auto 4 for the first time since 2008, and there's a lot in it that I hope Rockstar borrows for GTA 6.
+
+📎 [阅读原文](https://www.ign.com/articles/i-hope-gta-6-borrows-a-lot-from-gta-4) — *IGN*
+
+### 2. Frozen 3 Footage Teases New Villain, and It Looks Like Olaf is Getting a Love Interest
+
+[原文] Disney has shown off a first look at Frozen 3 at its fan event, D23.
+
+📎 [阅读原文](https://www.ign.com/articles/frozen-3-footage-teases-new-villain-and-it-looks-like-olaf-is-getting-a-love-interest) — *IGN*
+
+### 3. Disney Animation Studios Boss Jared Bush Isn't Ruling Out a Possible Kingdom Hearts Movie
+
+[原文] Jared Bush, chief creative officer of Walt Disney Animation Studios, spoke about the possibility of a Kingdom Hearts feature film, and he didn’t rule out the idea.
+
+📎 [阅读原文](https://www.ign.com/articles/disney-animation-studios-boss-jared-bush-isnt-ruling-out-a-possible-kingdom-hearts-movie) — *IGN*
+
+### 4. First Trailer for Star Wars: Starfighter Shown at D23 — Here's What We Saw
 
 [原文] Lucasfilm has shown off the debut trailer for Star Wars: Starfighter at the Disney fan event, D23.
 
 📎 [阅读原文](https://www.ign.com/articles/first-trailer-for-star-wars-starfighter-shown-at-d23-heres-what-we-saw) — *IGN*
 
-### 2. X-Men Cast Confirmed to Include Inde Navarette as Rogue, Adam Driver as Mister Sinister, Maya Boyd as Storm, and More | D23 2026
+### 5. X-Men Cast Confirmed to Include Inde Navarette as Rogue, Adam Driver as Mister Sinister, Maya Boyd as Storm, and More | D23 2026
 
 [原文] Marvel Studios has confirmed a long list of names for its new MCU X-Men movie reboot, with its cast now including Inde Navarrette, Adam Driver, Maya Boyd, and more.
 
 📎 [阅读原文](https://www.ign.com/articles/x-men-cast-confirmed-to-include-inde-navarette-as-rogue-adam-driver-as-mister-sinister-maya-boyd-as-storm-and-more-d23-2026) — *IGN*
-
-### 3. New Avengers: Doomsday Trailer Shows Doctor Doom Raising an Army of Sentinels
-
-[原文] Marvel Studios has released a new Avengers: Doomsday trailer, showing off Doctor Doom’s true power and his army of Sentinels.
-
-📎 [阅读原文](https://www.ign.com/articles/new-avengers-doomsday-trailer-shows-doctor-doom-raising-an-army-of-sentinels) — *IGN*
-
-### 4. Marvel Studios Reveal Debut VisionQuest Trailer, James Spader's Ultron Shown in Human Form
-
-暂无摘要。
-
-📎 [阅读原文](https://www.ign.com/articles/marvel-studios-reveal-debut-visionquest-trailer-james-spaders-ultron-shown-in-human-form) — *IGN*
-
-### 5. Disney's Live-Action Tangled Remake Sets 2028 Release Date | D23 2026
-
-[原文] Disney has confirmed its live-action Tangled remake now has a 2028 release date.
-
-📎 [阅读原文](https://www.ign.com/articles/disneys-live-action-tangled-remake-sets-2028-release-date-d23-2026) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post Is Cadillac Cool Enough to Sell I
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. California Pesticide Agency Hopelessly Captured by Industry, Critics Charge
+### 1. Can a Dam Expansion Hold Back Climate Considerations on the Colorado River?
+
+[原文] SANTA FE, N.M.—Is climate change enough justification to stop the expansion of a reservoir that will take more water from the dwindling Colorado River? That’s the central question in a lawsuit pitting
+
+📎 [阅读原文](https://insideclimatenews.org/news/15082026/colorado-river-dam-expansion-climate-considerations/) — *Inside Climate News*
+
+### 2. ‘The Energy Transition Cannot Become A New Form Of Colonial Violence,’ Brazilian Indigenous Leaders Tell UN Conference
+
+[原文] Leia este artigo em Português. Along the river the Xavante people of Brazil call Owawê are many of the Indigenous tribe’s sacred sites, ancient villages and cemeteries. It is also where their ear pier
+
+📎 [阅读原文](https://insideclimatenews.org/news/15082026/brazil-railway-project-cuts-through-sacred-indigenous-sites/) — *Inside Climate News*
+
+### 3. How the World’s Largest Electric Company Fell Quiet on Renewable Energy
+
+[原文] NextEra Energy, the world’s largest publicly traded electricity company, has systematically erased or downplayed its clean energy messaging since President Donald Trump returned to office, a potent ex
+
+📎 [阅读原文](https://insideclimatenews.org/news/15082026/nextera-energy-renewable/) — *Inside Climate News*
+
+### 4. California Pesticide Agency Hopelessly Captured by Industry, Critics Charge
 
 [原文] SACRAMENTO, Calif.—Farmworkers, their loved ones and advocates lined up out the door of a California state legislative hearing room this week to urge elected officials to hold pesticide regulators acc
 
 📎 [阅读原文](https://insideclimatenews.org/news/14082026/california-regulators-face-calls-to-better-protect-immigrants-from-pesticides/) — *Inside Climate News*
 
-### 2. As Trump Expands Hunting and Fishing Access on Wildlife Refuges, What Will the Impact Be?
+### 5. As Trump Expands Hunting and Fishing Access on Wildlife Refuges, What Will the Impact Be?
 
 [原文] Over 95 percent of land within national wildlife refuges across the country will soon be open to hunting and fishing. The announcement Thursday from the U.S. Department of the Interior represents the 
 
 📎 [阅读原文](https://insideclimatenews.org/news/14082026/trump-expands-hunting-fishing-access-on-wildlife-refuges/) — *Inside Climate News*
-
-### 3. The Data Center Industry’s PR Blitz Is Backfiring
-
-[原文] HENDERSON, N.C.—On a recent summer evening Mitzi Parrott, who lives in Vance County, saw a television commercial on the evening news that gave her pause. Kathie Hamm and Bobbie Lequire, also of Vance 
-
-📎 [阅读原文](https://insideclimatenews.org/news/14082026/data-center-pr-blitz-backfiring/) — *Inside Climate News*
-
-### 4. Florida Makes It Harder for Residents Living on Radioactive Soil From Former Phosphate Mines to Sue
-
-[原文] “What happens when you get exposure to radioactivity?” Andy Mele remembers the man asking earnestly as he pulled up his shirt. The man, who looked like he couldn’t be older than 35, exposed his swolle
-
-📎 [阅读原文](https://insideclimatenews.org/news/14082026/florida-law-makes-it-harder-to-sue-phosphate-mines-for-radioactive-so/) — *Inside Climate News*
-
-### 5. Microplastics Found in Mexican Howler Monkeys Living in a UNESCO Biosphere Reserve
-
-[原文] For thousands of years, Mexican howler monkeys have inhabited the lush rainforest canopy of what is now Los Tuxtlas—a 155,000-acre UNESCO biosphere reserve in the eastern state of Veracruz, 325 miles 
-
-📎 [阅读原文](https://insideclimatenews.org/news/14082026/mexican-howler-monkeys-microplastics/) — *Inside Climate News*
 
 ---
 
