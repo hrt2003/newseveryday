@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月15日** | 生成时间: 2026-08-15 09:24
+**2026年08月15日** | 生成时间: 2026-08-15 14:42
 
 ---
 
@@ -22,29 +22,29 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule
+### 2. BBC seeks to subpoena Trump's family members in Panorama lawsuit
+
+[原文] The BBC's lawyers argue Trump's family members "have personal knowledge" of his intentions in the speech he gave outside the US Capitol on 6 January 2021.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. At least 14 dead after 7.7-magnitude earthquake strikes Indonesia
+
+[原文] The earthquake struck off Flores island in the country's east early on Saturday morning.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule
 
 [原文] Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. US aircraft carrier on way to relieve USS Lincoln after issues reported on board
+### 5. US aircraft carrier on way to relieve USS Lincoln after issues reported aboard
 
 [原文] Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Instagram accounts fuelling Ceuta crisis with paid advice for help to cross
-
-[原文] BBC's Top Comment podcast has found a network of Instagram profiles glamourising the swim around the Morocco-Ceuta border fence.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers
-
-[原文] Two families have been trapped in their homes in the occupied West Bank for several days.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -60,29 +60,29 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html) — *CNBC*
 
-### 2. Berkshire Hathaway boosts Alphabet to a top three holding, ups Delta and housing bets
+### 2. Russia's economy has defied the skeptics. Cracks are getting harder to hide
+
+[原文] Russia's wartime economy is under growing strain as its budget deficit widens and analysts warn pressure could intensify next year.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/15/ukraine-war-russia-economy-putin-oil.html) — *CNBC*
+
+### 3. Berkshire Hathaway boosts Alphabet to a top three holding, ups Delta and housing bets
 
 [原文] Berkshire owned about 106 million shares in the parent of Google, worth $37.9 billion at the end of June, according to a regulatory filing released Friday.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/14/berkshire-hathaway-boosts-alphabet-to-a-top-three-holding-ups-delta-and-housing-bets.html) — *CNBC*
 
-### 3. Nvidia discloses $21 billion stake in SpaceX at end of second quarter
+### 4. Extreme heat spurs earliest-ever Champagne harvest, putting its famous taste to the test
+
+[原文] Producers of the iconic French fizz face a challenge to preserve its taste profile while they also battle tariff complications and fewer drinkers.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/15/heatwave-champagne-harvest-climate.html) — *CNBC*
+
+### 5. Nvidia discloses $21 billion stake in SpaceX at end of second quarter
 
 [原文] Nvidia's stake in SpaceX, which came through an investment in xAI, was worth about $21 billion at the end of the second quarter.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/14/nvidia-discloses-21-billion-stake-in-spacex-at-end-of-second-quarter.html) — *CNBC*
-
-### 4. Trump family-backed crypto firm World Liberty gets conditional bank charter approval
-
-[原文] The OCC conditionally approved World Liberty Trust Co.’s national trust bank charter. That would allow the Trump family-backed firm to issue stablecoins.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/14/world-liberty-trump-occ-bank-charter-stablecoin.html) — *CNBC*
-
-### 5. Regulators and banks step up scrutiny of prediction markets
-
-[原文] The CFTC is reviewing prediction betting platforms' so-called mention markets, people familiar with the matter confirmed to CNBC.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/14/prediction-markets-scrutiny-mounts-from-regulators-and-banks.html) — *CNBC*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Hodgkinson beaten to European gold by rival Werro
+### 1. Fresh rivals & forced to settle for silver - but Hodgkinson up for fight
 
-[原文] Keely Hodgkinson is forced to settle for European silver as Switzerland's Audrey Werro denies the Briton a third consecutive title in a thrilling 800m final.
+[原文] Keely Hodgkinson says she is proud of her ability to "continue to fight" after taking silver behind Audrey Werro at the European Athletics Championships.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/cyvl05g8g4lo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/cjejknkjendo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Britain's Finlay Tarling dies in Volta a Portugal accident
+### 2. Are fans now more invested in star names than clubs?
+
+[原文] From Lionel Messi and Cristiano Ronaldo to Erling Haaland and Jude Bellingham, are star names a bigger draw than clubs for young fans?
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cn8ner50zdno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. Britain's Finlay Tarling dies in Volta a Portugal accident
 
 [原文] British cyclist Finlay Tarling dies at the age of 19 in a serious accident during the eighth stage of the Volta a Portugal.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/cycling/articles/ceqed1g3j48o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Bezos-backed consortium buys a third of Liverpool
+### 4. Scheffler equals course record to lead first play-off event
 
-[原文] Liverpool's owners agree to sell about a third of the club to a consortium including billionaire Amazon founder Jeff Bezos - in a deal that values the Reds at more than £5bn.
+[原文] Scottie Scheffler equalls the course record with a nine-under 61 as he opens up a three-stroke lead at the end of the second round of the St Jude Championship in Memphis.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cx2vj4l9wxyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/clyxer2kyl7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Chelsea say no Fernandez move as deadline passes - but is it really over?
+### 5. 'This is the right one' - Rohl on leaving Rangers for Salzburg
 
-[原文] Chelsea's deadline for clubs to bid £120m for midfielder Enzo Fernandez has passed - and they now expect the Argentine to stay at the club this season.
+[原文] Danny Rohl explains why he left Rangers for Red Bull Salzburg - where he hopes to win trophies and help develop young players.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c7vgyrl2573o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Walter puts dominant Super Giants in Hundred final
-
-[原文] All-rounder Paul Walter is the unlikely star with 80 off 46 balls as Manchester Super Giants comfortably beat Sunrisers Leeds to reach the men's Hundred final.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c0qvy5p5gdlo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cj9dpvwl1nmo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Emmy Predictions: ‘The Pitt,’ ‘Hacks’ and ‘Beef’ Head Into Final Voting With History on Their Side (and Against Them)
+### 1. ‘Frozen 3’ First Details: Anna and Kristoff Get Married, Olaf Gets a Girlfriend and a New Villain Emerges
 
-[原文] Variety&#160;Awards Circuit&#160;section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars,&#160;Emmys,
+[原文] Thanksgiving 2027 is about to get a lot colder. Disney has revealed the first details about “Frozen 3,” which will release in theaters Nov. 24, 2027, following the previous two films&#8217; tradition 
 
-📎 [阅读原文](https://variety.com/lists/2026-emmys-predictions/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/frozen-3-first-details-anna-kristoff-married-olaf-love-1236822955/) — *Variety*
 
-### 2. Netflix Pushes Back on Tyra Banks ‘Reality Check’ Defamation Suit
+### 2. Marvel’s ‘X-Men’ Reboot Sets May 2028 Release Date
 
-[原文] Netflix filed a motion Friday to throw out Tyra Banks&#8217; defamation suit over a documentary series about &#8220;America&#8217;s Next Top Model,&#8221; arguing that Banks is taking issue with routi
+[原文] The long-awaited X-Men movie is finally coming to the MCU. Marvel Studios exec Kevin Feige made the official announcement that the X-Men movie will release on May 5, 2028. The cast will include Sadie 
 
-📎 [阅读原文](https://variety.com/2026/tv/news/netflix-dismiss-tyra-banks-reality-check-defamation-suit-1236834978/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/x-men-release-date-marvel-reboot-1236816959/) — *Variety*
 
-### 3. Disney Is Launching a Romantasy Webcomics Series on Webtoon Inspired by Movies Including ‘Beauty and the Beast’
+### 3. ‘Star Wars: Starfighter’ Footage: Ryan Gosling Races Through the Galaxy With Young Sidekick
 
-[原文] Disney is putting the adult in Disney Adult. The Mouse House is famous for warm-and-fuzzy family entertainment &#8212; but it also has a stockpile of moody and magical love stories. At D23 in Anaheim,
+[原文] Ryan Gosling already survived going to space in &#8220;Project Hail Mary,&#8221; but now he&#8217;s ready to blast off to a galaxy far, far away in &#8220;Star Wars: Starfighter.&#8221; The upcoming &
 
-📎 [阅读原文](https://variety.com/2026/digital/news/disney-cursed-love-webtoon-romantasy-webcomics-beauty-and-the-beast-1236834088/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/star-wars-starfighter-trailer-ryan-gosling-1236712809/) — *Variety*
 
-### 4. Emmys: Supporting Actress (Comedy) — Hannah Einbinder Defends Her Crown Against ‘Widow’s Bay’
+### 4. Disney’s ‘Hexed’ Adds Walton Goggins and Jodie Foster to Cast
 
-[原文] Variety&#160;Awards Circuit&#160;section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars,&#160;Emmys,
+[原文] Jodie Foster and Walton Goggins are joining the cast of Disney&#8217;s next animated movie, &#8220;Hexed.&#8221; The casting news was announced during the Disney Entertainment Showcase presentation at
 
-📎 [阅读原文](https://variety.com/lists/emmys-2026-supporting-actress-comedy-predictions/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/hexed-cast-walton-goggins-jodie-foster-1236834882/) — *Variety*
 
-### 5. ‘Beef’ Creator Lee Sung Jin on Abandoning His Tom Brady Heist Plot and the Finneas, Cailee Spaeny Emmy Snubs
+### 5. ‘Zootopia 3’ in the Works at Disney
 
-[原文] Lee Sung Jin learned about “Beef’s” latest Emmy haul all at once. The second season of Netflix’s genre-bending anthology earned 16 nominations, the most of any limited or anthology series this year. T
+[原文] Get ready to head back to Zootopia. Disney has announced that &#8220;Zootopia 3&#8221; is in the works following the massive success of last year&#8217;s &#8220;Zootopia 2,&#8221; which became the com
 
-📎 [阅读原文](https://variety.com/2026/tv/awards/lee-sung-jin-beef-tom-brady-emmy-snubs-1236834964/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/zootopia-3-disney-1236835053/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. This 50-Hour Fantasy Audiobook Is the Best Possible Use of an Audible Free Trial
+### 1. First Trailer for Star Wars: Starfighter Shown at D23 — Here's What We Saw
 
-[原文] The Wandering Inn is considered to be a part of the LitRPG genre, which is very similar to Dungeon Crawler Carl, and I can't recommend it enough.
+[原文] Lucasfilm has shown off the debut trailer for Star Wars: Starfighter at the Disney fan event, D23.
 
-📎 [阅读原文](https://www.ign.com/articles/the-wandering-inn-audiobook-recommendation) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/first-trailer-for-star-wars-starfighter-shown-at-d23-heres-what-we-saw) — *IGN*
 
-### 2. Flexispot's Back to School Sale Offers Big Savings on Affordable Yet High Quality Standing Desks and Chairs
+### 2. X-Men Cast Confirmed to Include Inde Navarette as Rogue, Adam Driver as Mister Sinister, Maya Boyd as Storm, and More | D23 2026
 
-[原文] Great build quality and premium features at an attractive price, perfect for the budget-conscious student.
+[原文] Marvel Studios has confirmed a long list of names for its new MCU X-Men movie reboot, with its cast now including Inde Navarrette, Adam Driver, Maya Boyd, and more.
 
-📎 [阅读原文](https://www.ign.com/articles/flexispot-back-to-school-sale-2026-best-deals-on-electric-standing-desks-and-ergonomic-chairs) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/x-men-cast-confirmed-to-include-inde-navarette-as-rogue-adam-driver-as-mister-sinister-maya-boyd-as-storm-and-more-d23-2026) — *IGN*
 
-### 3. Furnish Your Home Gym With This Complete Multi-Function Power Cage for Just $263.48 Shipped
+### 3. New Avengers: Doomsday Trailer Shows Doctor Doom Raising an Army of Sentinels
 
-[原文] Squat rack, lat pull-down machine, power tower, and dip bar in one.
+[原文] Marvel Studios has released a new Avengers: Doomsday trailer, showing off Doctor Doom’s true power and his army of Sentinels.
 
-📎 [阅读原文](https://www.ign.com/articles/sportsroyals-multi-function-power-cage-deal-august-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/new-avengers-doomsday-trailer-shows-doctor-doom-raising-an-army-of-sentinels) — *IGN*
 
-### 4. Save 70% Off Proton VPN's 2-Year Plan, Now Just $2.99
+### 4. Marvel Studios Reveal Debut VisionQuest Trailer, James Spader's Ultron Shown in Human Form
 
-[原文] The best VPN is on sale right now.
+暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/protonvpn-vpn-deal-august-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/marvel-studios-reveal-debut-visionquest-trailer-james-spaders-ultron-shown-in-human-form) — *IGN*
 
-### 5. Secretlab's Gaming Chairs Are on Sale During the Back to School Sale, Including Its Flagship Nanogen Edition
+### 5. Disney's Live-Action Tangled Remake Sets 2028 Release Date | D23 2026
 
-[原文] The Secretlab Titan Evo is our top gaming chair pick for 2026.
+[原文] Disney has confirmed its live-action Tangled remake now has a 2028 release date.
 
-📎 [阅读原文](https://www.ign.com/articles/secretlab-back-to-school-sale-2026-best-deals-on-titan-gaming-chairs) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/disneys-live-action-tangled-remake-sets-2028-release-date-d23-2026) — *IGN*
 
 ---
 
@@ -439,35 +439,35 @@ The post Is Cadillac Cool Enough to Sell I
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Slipknot and Sid Wilson Part Ways After Nearly 30 Years
+### 1. Courtney Love Reveals She ‘Almost Died’ in 2019 Amid Mystery Illness
+
+[原文] The musician also revealed her upcoming album, her first since 2010, is done
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/courtney-love-almost-died-new-albmum-1235609604/) — *Rolling Stone*
+
+### 2. Slipknot and Sid Wilson Part Ways After Nearly 30 Years
 
 [原文] "Effective immediately, Slipknot will no longer be associated with Sid Wilson," the band posted in a since-deleted social media post
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/slipknot-sid-wilson-part-ways-1235602008/) — *Rolling Stone*
 
-### 2. Bad Bunny Reggaeton Copyright Case Ruling Gets Second Look From Judge
+### 3. Bad Bunny Reggaeton Copyright Case Ruling Gets Second Look From Judge
 
 [原文] Lawyers for Bad Bunny, Drake, and a host of reggaeton superstars are asking the judge to reconsider his ruling that only a jury could decide their dispute with reggae duo Steely &#38; Clevie
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/bad-bunny-drake-karol-g-reggaeton-copyright-case-reconsider-1235609366/) — *Rolling Stone*
 
-### 3. Grammys Will Take Asian Music Category Criticism Into Consideration
+### 4. Grammys Will Take Asian Music Category Criticism Into Consideration
 
 [原文] CEO Harvey Mason jr. initially defended the Best Asian Pop Music Performance category when BTS opted out of submitting, but new conversations with stakeholders might change his mind
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/grammys-taking-asian-category-criticism-into-consideration-1235609513/) — *Rolling Stone*
 
-### 4. California Bill Aiming to Cap Concert Ticket Resale Prices Fails
+### 5. California Bill Aiming to Cap Concert Ticket Resale Prices Fails
 
 [原文] AB 1720, also known as the California Fans First Act, would have capped concert tickets resale prices to no more than 10 percent of face value
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/california-bill-cap-concert-ticket-resale-prices-fails-1235609292/) — *Rolling Stone*
-
-### 5. Phoebe Bridgers Drops Video for Cameron Winter Duet ‘I Can’t Wait’
-
-[原文] After six long years, the singer-songwriter’s new album Lost Weekend is out now
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/phoebe-bridgers-i-cant-wait-cameron-winter-video-1235606840/) — *Rolling Stone*
 
 ---
 
@@ -527,7 +527,6 @@ The post Is Cadillac Cool Enough to Sell I
 
 ## ⚠️ 今日故障源
 
-- **🌍 国际政治**: Al Jazeera
 - **🚗 汽车**: Autocar
 
 ---
