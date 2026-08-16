@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月16日** | 生成时间: 2026-08-16 09:35
+**2026年08月16日** | 生成时间: 2026-08-16 14:44
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Hunt wins third gold as Asher-Smith makes history
+### 1. Strong favourites or tougher task - will Arsenal defend their title?
+
+[原文] Arsenal begin this season as Premier League champions but just how difficult is it to defend the league title, and how well equipped as they for the challenge?
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c0l5927xr89o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. Hunt wins third gold as Asher-Smith makes history
 
 [原文] Amy Hunt claims the third gold medal of her bid for a historic quadruple and Dina Asher-Smith makes history as Great Britain win two relay golds at the European Athletics Championships.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/cqjxxd0j844o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Rashford returns as AC Milan highlight issues facing Carrick
+### 3. How important is Community Shield to a team's season?
+
+[原文] Premier League champions Arsenal take on FA Cup winners Manchester City in Sunday's Community Shield - but would winning suggest a successful season ahead?
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c1e1v64q256o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. Rashford returns as AC Milan highlight issues facing Carrick
 
 [原文] Manchester United finish their pre-season campaign with a 4-2 defeat by Ruben Amorim's AC Milan in Poland, as Marcus Rashford returns to Red Devils action.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cg5ll71pqv1o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. 'Fury' at Tarling death as cycling union calls for better helmets
+### 5. 'Fury' at Tarling death as cycling union calls for better helmets
 
 [原文] The cyclists' union expresses "fury" over the death of British rider Fin Tarling during Friday's stage of the Volta a Portugal.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/cycling/articles/czxqqlpnx98o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. Fernandez booed by Chelsea fans as Alonso offers glimpse of blueprint
-
-[原文] Enzo Fernandez is booed by sections of the Chelsea support, Morgan Rogers scores on his first appearance and Xabi Alonso offers a glimpse of what could be his blueprint for the season.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c36dd10jj09o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. O'Connor secures European gold in heptathlon
-
-[原文] Kate O'Connor says her late grandmother "would have been jumping for joy" at the Irish athlete claims gold in the heptathlon at the European Championships in Birmingham.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/cvgjjpe85z1o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘RuPaul’s Drag Race,’ ‘All Stars’ and ‘Untucked’ Renewed for New Seasons at MTV and Paramount+
+### 1. Ranveer Singh, Kalyani Priyadarshan’s ‘Pralay,’ Produced by Ananya Birla and Hansal Mehta, Directed by Jai Mehta, Starts Filming
+
+[原文] Ranveer Singh&#8217;s &#8220;Pralay,&#8221; an end-of-the-world action thriller, has begun filming in Mumbai. The film is produced by Ananya Birla&#8217;s Birla Studios, Hansal Mehta and Sahil Saigal&
+
+📎 [阅读原文](https://variety.com/2026/film/news/ranveer-singh-kalyani-priyadarshan-pralay-mumbai-filming-1236835508/) — *Variety*
+
+### 2. ‘The Pitt,’ ‘Hacks’ and ‘Beef’ Among Astra TV Awards Winners
+
+[原文] &#8220;Hacks,&#8221; &#8220;The Pitt&#8221; and &#8220;Beef&#8221; were the big winners of the 2026 Astra TV Awards. &#8220;The Pitt&#8221; took home the most trophies of the night with six. Those inc
+
+📎 [阅读原文](https://variety.com/2026/awards/news/the-pitt-hacks-beef-astra-tv-awards-winners-1236835570/) — *Variety*
+
+### 3. ‘Monsters, Inc.’ Themed Land Will Open at Disney World in 2027
+
+[原文] THe&#8217;Monsters, Inc.&#8217; themed land, Monstropolis is set to open at Disney&#8217;s Hollywood Studios at Disney World in 2027. The news was announced Saturday at D23. Vice President Creative, W
+
+📎 [阅读原文](https://variety.com/2026/film/news/monsters-inc-themed-land-will-disney-world-2027-1236834775/) — *Variety*
+
+### 4. ‘RuPaul’s Drag Race,’ ‘All Stars’ and ‘Untucked’ Renewed for New Seasons at MTV and Paramount+
 
 [原文] Shantay you stay! &#8220;RuPaul&#8217;s Drag Race,&#8221; &#8220;All Stars&#8221; and &#8220;Untucked&#8221; have all been renewed for new seasons at MTV and Paramount+. The franchise&#8217;s main sho
 
 📎 [阅读原文](https://variety.com/2026/tv/news/rupaul-drag-race-all-stars-untucked-renewed-mtv-paramount-1236834928/) — *Variety*
 
-### 2. Disney Leaders Talk Streaming Strategy and Growth Drivers: Sports, Local Language, Vertical Media and Emerging Formats
+### 5. Disney Leaders Talk Streaming Strategy and Growth Drivers: Sports, Local Language, Vertical Media and Emerging Formats
 
 [原文] Amid a torrent of fan-friendly news about Disney projects across the media spectrum, Disney leadership took time on the first day of the three-day D23 fan fest weekend in Anaheim for panels that offer
 
 📎 [阅读原文](https://variety.com/2026/tv/news/d23-espn-disney-international-eric-schrier-carol-choi-1236835550/) — *Variety*
-
-### 3. Slipknot Confirms Sid Wilson’s Sudden Exit: ‘We Wish Him the Best’
-
-[原文] Slipknot is officially parting ways with Sid Wilson, who had been part of the group for nearly 30 years. &#8220;Effective immediately, Slipknot will no longer be associated with Sid Wilson,&#8221; the
-
-📎 [阅读原文](https://variety.com/2026/music/news/slipknot-confirms-sid-wilson-sudden-exit-1236835546/) — *Variety*
-
-### 4. Here’s How to Watch Claressa Shields vs. Kaye Scott Boxing Live Online
-
-[原文] After defending her undisputed women&#8217;s heavyweight title against Franchon Crews-Dezurn back in February, American boxer Claressa Shields drops in weight class to middleweight to challenge WBA an
-
-📎 [阅读原文](https://variety.com/2026/shopping/news/how-to-watch-claressa-shields-vs-kaye-scott-boxing-live-online-1236833217/) — *Variety*
-
-### 5. Director Frieda Luk on Olivia Luccardi’s ‘Sacred Creatures’ Role and the Fine Line Between ‘Crazy’ and ‘Enlightened’
-
-[原文] For “Sacred Creatures” director Frieda Luk, belief can be comforting, ridiculous, exhilarating and hard to explain. “I’m really fascinated by when people believe in something,” she tells Variety. “One
-
-📎 [阅读原文](https://variety.com/2026/film/festivals/director-frieda-luk-olivia-luccardi-sacred-creatures-1236835353/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Star Wars: Smuggler's Gambit Lets You Keep Helping Hondo Ohnaka in Fortnite After You Leave Disneyland
+### 1. Disney Experiences Showcase at D23 2026: Everything Announced for Disney Parks, Disney Cruise Line, and More (Updating Live!)
+
+[原文] We are here at the Honda Center in Anaheim, California, for Horizons: A Carousel of Progress, also known as D23's Disney Eexperiences Showcase, and we'll be covering all the big news from Disney Parks
+
+📎 [阅读原文](https://www.ign.com/articles/disney-experiences-showcase-at-d23-2026-everything-announced-for-disney-parks-disney-cruise-line-and-more) — *IGN*
+
+### 2. 'I Want to Set the Record Straight: That Is Not Happening' — Kingdom Hearts 4 Devs Say KH4 '100%' Will Not Be Delayed Past Late 2027 Launch | D23 2026
+
+[原文] Kingdom Hearts 4 co-director Tai Yasue and series creator Tetsuya Nomura have assured fans that it is a "100% thing" the game will not be delayed past its late 2027 launch window.
+
+📎 [阅读原文](https://www.ign.com/articles/i-want-to-set-the-record-straight-that-is-not-happening-kingdom-hearts-4-devs-say-kh4-100-will-not-be-delayed-past-late-2027-launch-d23-2026) — *IGN*
+
+### 3. Kingdom Hearts 4 Gets Extended Gameplay Trailer Featuring Playable Mickey, Donald, and Goofy | D23 2026
+
+[原文] Disney and Square Enix showed up for the Deep Dive into Kingdom Hearts panel at D23 2026 to show off an extended gameplay trailer for Kingdom Hearts 4 that features a first look at a playable King Mic
+
+📎 [阅读原文](https://www.ign.com/articles/kingdom-hearts-4-gets-extended-gameplay-trailer-featuring-playable-mickey-donald-and-goofy-d23-2026) — *IGN*
+
+### 4. Star Wars: Smuggler's Gambit Lets You Keep Helping Hondo Ohnaka in Fortnite After You Leave Disneyland
 
 [原文] Smuggler's Gambit in Fortnite lets you continue the Smuggler's Run experience by expanding it into a PvE multiplayer online game with your friends. You can also do the opposite by scanning a QR code a
 
 📎 [阅读原文](https://www.ign.com/articles/star-wars-smugglers-gambit-lets-you-keep-helping-hondo-ohnaka-in-fortnite-after-you-leave-disneyland) — *IGN*
 
-### 2. Tetsuya Nomura Teases Involvement in Kingdom Hearts Anime Series, Tells Fans to Let Their 'Imagination Run Wild' | D23 2026
+### 5. Tetsuya Nomura Teases Involvement in Kingdom Hearts Anime Series, Tells Fans to Let Their 'Imagination Run Wild' | D23 2026
 
 [原文] Kingdom Hearts creator Tetsuya Nomura has one message for fans when it comes to its mysterious new Disney+ anime series: "Please let your imagination run wild."
 
 📎 [阅读原文](https://www.ign.com/articles/tetsuya-nomura-teases-involvement-in-kingdom-hearts-anime-series-tells-fans-to-let-their-imagination-run-wild-d23-2026) — *IGN*
-
-### 3. D23 Deep Dive Into Kingdom Hearts Panel: Everything Announced — Updating Live
-
-[原文] D23, Disney's biggest fan convention, continues with a special panel all about Kingdom Hearts. IGN is on the ground bringing you the biggest news, reveals, and updates from the presentation as it kick
-
-📎 [阅读原文](https://www.ign.com/articles/d23-deep-dive-into-kingdom-hearts-panel-everything-announced-updating-live) — *IGN*
-
-### 4. Dave Filoni Confirms Disney Isn't Making Scrapped Star Wars Movie The Hunt for Ben Solo 'Right Now' | D23 2026
-
-[原文] Lucasfilm president Dave Filoni has confirmed that, despite the push from fans, Disney still isn't working on its scrapped Star Wars movie The Hunt for Ben Solo.
-
-📎 [阅读原文](https://www.ign.com/articles/dave-filoni-confirms-disney-isnt-making-scrapped-star-wars-movie-the-hunt-for-ben-solo-right-now-d23-2026) — *IGN*
-
-### 5. The Best Deals Today: Project Hail Mary 4K Blu-ray, Resident Evil Requiem, AirPods Pro 3, and More
-
-暂无摘要。
-
-📎 [阅读原文](https://www.ign.com/articles/best-deals-for-august-15-2026) — *IGN*
 
 ---
 
