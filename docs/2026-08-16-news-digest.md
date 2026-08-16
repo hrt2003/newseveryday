@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月16日** | 生成时间: 2026-08-16 14:44
+**2026年08月16日** | 生成时间: 2026-08-16 20:45
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Rescuers search for survivors of powerful Indonesia earthquake
+### 1. Five killed as Russia launches fresh aerial attacks across Ukraine
 
-[原文] Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.
+[原文] Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Thousands displaced by deadly Indonesia earthquake as rescue efforts continue
+
+[原文] Hundreds of homes and public buildings have been severely damaged with at least 53 people killed.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Morocco detains dozens of migrants trying to cross into Ceuta, reports say
+### 3. Hurricane Lala lashes Hawaii with strong winds and torrential rain
 
-[原文] Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.
+[原文] If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Eleven killed in Israeli strikes on southern Lebanon, authorities say
+### 4. Twelve killed as Polish bus veers off Hungarian motorway
 
-[原文] Israel's military said it had struck "Hezbollah terror infrastructure" in response to what it described as earlier action against its soldiers.
+[原文] Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Liechtenstein changes succession rule to allow women to ascend the throne
+### 5. Europe's tallest Virgin Mary statue unveiled in rural Poland
 
-[原文] The declaration was made on the national day of the central European country, which has a population of just 44,000.
+[原文] The 55.6-metre (182ft) concrete figure is head-and-shoulders above Rio de Jaineiro's Christ the Redeemer.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Qatar denies capturing three Iranian pilots after downing fighter jets
-
-[原文] Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Depleted strategic oil reserve nears level that raises concerns about damage to caverns, operations
+### 1. Secret outperformer: Dispelling the 'myths' about an unloved stock market
+
+[原文] European markets fly under the radar when compared with larger and more liquid U.S. markets, but Goldman Sachs offered to dispel some of the myths.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/16/goldman-stock-market-outperformance.html) — *CNBC*
+
+### 2. Depleted strategic oil reserve nears level that raises concerns about damage to caverns, operations
 
 [原文] The rapid drawdown of the U.S. Strategic Petroleum Reserve could damage the caverns that store the oil, experts warn.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/15/strategic-petroleum-reserve-spr-oil-iran-war-caverns.html) — *CNBC*
 
-### 2. Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter
+### 3. Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter
 
 [原文] The jump in revenue underscores the rapid growth of the Claude chatbot maker as it prepares for a potential blockbuster initial public offering.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html) — *CNBC*
 
-### 3. Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck
+### 4. Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck
 
 [原文] Iran's deputy foreign minister says Hormuz "will remain Iranian" after Trump's claim that the waterway would soon become U.S. territory.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/15/iran-rebuffs-trumps-claim-over-hormuz-amid-report-of-ship-strike.html) — *CNBC*
 
-### 4. Prediction markets and sports betting: How this UK exchange is trying to do both in the U.S.
+### 5. Top Wall Street analysts like these 3 dividend stocks for steady income
 
-[原文] Smarkets is entering the U.S. prediction market race but also applying to run as a sportsbook within states amid regulatory uncertainty at the federal level.
+[原文] Investors looking for steady income can add dividend-paying energy stocks to their portfolios.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/15/prediction-markets-and-sports-betting-how-this-uk-exchange-is-trying-to-do-both-in-the-us.html) — *CNBC*
-
-### 5. Nvidia discloses $21 billion stake in SpaceX at end of second quarter
-
-[原文] Nvidia's stake in SpaceX, which came through an investment in xAI, was worth about $21 billion at the end of the second quarter.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/14/nvidia-discloses-21-billion-stake-in-spacex-at-end-of-second-quarter.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/16/top-wall-street-analysts-like-these-dividend-stocks-for-steady-income.html) — *CNBC*
 
 ---
 
@@ -130,35 +130,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Scientists detect a surprising shift in human blood as CO2 rises
+### 1. Scientists reveal why walking gets so much harder with age
 
-[原文] Rising carbon dioxide in the atmosphere may be leaving a measurable imprint inside the human body. Researchers analyzing more than two decades of U.S. health data found that blood bicarbonate levels h
+[原文] As we age, the body appears to sacrifice walking efficiency in exchange for stability. Older adults stiffen the ankle more with each step, which may help prevent falls but also forces the muscles to w
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260814235845.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260815065014.htm) — *Science Daily*
 
-### 2. When gut microbes run low on fiber, they may start eating you
+### 2. Physicists discover a hidden gluon structure inside protons that could rewrite textbooks
 
-[原文] Gut microbes need something to eat, and when fiber is limited, they may begin consuming proteins from the mucus lining that protects the gut. Researchers found that fiber can suppress this process, wh
+[原文] Physicists may have uncovered a hidden feature inside protons that helps preserve one of matter’s most fundamental properties. RHIC collision data suggest baryon number is carried not simply by three 
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260814235842.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260815064805.htm) — *Science Daily*
 
-### 3. A stress hormone may help the brain repair itself
+### 3. This 10-cent heart drug cuts hospitalizations by 25%
 
-[原文] A surprising stress-related signal may help the brain repair itself after injury. Researchers found that myelin-producing precursor cells rapidly release the stress hormone CRH near damaged brain tiss
+[原文] A centuries-old heart drug costing less than ten cents a day could help keep heart-failure patients out of the hospital. New research suggests low-dose digoxin can reduce heart-failure hospitalization
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260814011044.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260814235858.htm) — *Science Daily*
 
-### 4. World’s first superconducting quantum heat engine could help unlock massive quantum computers
+### 4. The common mistake that could make aging joints hurt more
 
-[原文] A tiny superconducting engine has successfully converted heat near absolute zero into useful work, demonstrating the first cyclic quantum heat engine of its kind. Future versions could operate autonom
+[原文] Aging gradually wears down the cartilage and fluid that protect our joints, but avoiding movement may actually make matters worse. Exercise helps nourish cartilage, strengthens the muscles that protec
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260814011041.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260814235852.htm) — *Science Daily*
 
-### 5. Scientists solve the mystery of a brain “switch” that can trigger weight loss in opposite ways
+### 5. A black hole shredded a “super sun” — but something strange may have survived
 
-[原文] Scientists have uncovered why two seemingly opposite ways of targeting the same brain receptor can both promote weight loss. In mice, activating the GIP receptor in the brainstem reduced appetite, whi
+[原文] Astronomers have witnessed a black hole violently shredding a massive star, creating one of the most energetic stellar explosions ever observed. The event, nicknamed “the Whippet,” briefly released ab
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260814011039.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260814235849.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Strong favourites or tougher task - will Arsenal defend their title?
-
-[原文] Arsenal begin this season as Premier League champions but just how difficult is it to defend the league title, and how well equipped as they for the challenge?
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c0l5927xr89o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 2. Hunt wins third gold as Asher-Smith makes history
-
-[原文] Amy Hunt claims the third gold medal of her bid for a historic quadruple and Dina Asher-Smith makes history as Great Britain win two relay golds at the European Athletics Championships.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/cqjxxd0j844o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 3. How important is Community Shield to a team's season?
+### 1. How important is Community Shield to a team's season?
 
 [原文] Premier League champions Arsenal take on FA Cup winners Manchester City in Sunday's Community Shield - but would winning suggest a successful season ahead?
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c1e1v64q256o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Rashford returns as AC Milan highlight issues facing Carrick
+### 2. Donnelly wins GB's first women's marathon medal at Europeans
 
-[原文] Manchester United finish their pre-season campaign with a 4-2 defeat by Ruben Amorim's AC Milan in Poland, as Marcus Rashford returns to Red Devils action.
+[原文] Abbie Donnelly became the first British woman to win a marathon medal at the European Championships as she claimed bronze in Birmingham on Sunday.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cg5ll71pqv1o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/cjejjzg4vqwo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. 'Fury' at Tarling death as cycling union calls for better helmets
+### 3. Coventry agree deal for Forest striker Awoniyi
 
-[原文] The cyclists' union expresses "fury" over the death of British rider Fin Tarling during Friday's stage of the Volta a Portugal.
+[原文] Coventry City agree a deal worth about £17m for Nottingham Forest striker Taiwo Awoniyi.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cycling/articles/czxqqlpnx98o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cvgjjr90l0lo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. Bangladesh thrash Australia in one of Test cricket's greatest upsets
+
+[原文] Bangladesh thrash Australia by nine wickets on the fourth day of the series-opener in Darwin to complete one of Test cricket's greatest upsets.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cn8nn37v22lo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 5. Maguire wants 'huge threat' Rashford to stay at Man Utd
+
+[原文] Manchester United defender Harry Maguire says he hopes Marcus Rashford will stay at the club because he can improve Michael Carrick's team.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c4g442me1k8o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Ranveer Singh, Kalyani Priyadarshan’s ‘Pralay,’ Produced by Ananya Birla and Hansal Mehta, Directed by Jai Mehta, Starts Filming
+### 1. Locarno Winner ‘Forgotten Spaceman’ Adds Khan & Kumar Media, Prism Entertainment as Executive Producers Ahead of Toronto Bow (EXCLUSIVE)
+
+[原文] &#8220;Forgotten Spaceman,&#8221; the documentary short by BAFTA-nominated filmmaker Elham Ehsas that won the Leopard of Tomorrow (International Competition) award at Locarno&#8217;s Junior Jury Award
+
+📎 [阅读原文](https://variety.com/2026/film/festivals/forgotten-spaceman-locarno-leopard-tomorrow-khan-kumar-prism-eps-1236835604/) — *Variety*
+
+### 2. ‘Shame and Money’ Director on Sundance-Winning Drama About a Kosovo Family in Free Fall: ‘It’s a Look Into the Past and a Warning to the Future’
+
+[原文] Sundance Grand Jury Prize winner Visar Morina returns to the Sarajevo Film Festival — the scene of a previous triumph — with the biting social drama “Shame and Money,” which won the top prize in Park 
+
+📎 [阅读原文](https://variety.com/2026/film/global/shame-and-money-sundance-social-drama-kosovo-1236834517/) — *Variety*
+
+### 3. Ranveer Singh, Kalyani Priyadarshan’s ‘Pralay,’ Produced by Ananya Birla and Hansal Mehta, Directed by Jai Mehta, Starts Filming
 
 [原文] Ranveer Singh&#8217;s &#8220;Pralay,&#8221; an end-of-the-world action thriller, has begun filming in Mumbai. The film is produced by Ananya Birla&#8217;s Birla Studios, Hansal Mehta and Sahil Saigal&
 
 📎 [阅读原文](https://variety.com/2026/film/news/ranveer-singh-kalyani-priyadarshan-pralay-mumbai-filming-1236835508/) — *Variety*
 
-### 2. ‘The Pitt,’ ‘Hacks’ and ‘Beef’ Among Astra TV Awards Winners
+### 4. ‘The Pitt,’ ‘Hacks’ and ‘Beef’ Among Astra TV Awards Winners
 
 [原文] &#8220;Hacks,&#8221; &#8220;The Pitt&#8221; and &#8220;Beef&#8221; were the big winners of the 2026 Astra TV Awards. &#8220;The Pitt&#8221; took home the most trophies of the night with six. Those inc
 
 📎 [阅读原文](https://variety.com/2026/awards/news/the-pitt-hacks-beef-astra-tv-awards-winners-1236835570/) — *Variety*
 
-### 3. ‘Monsters, Inc.’ Themed Land Will Open at Disney World in 2027
+### 5. ‘Monsters, Inc.’ Themed Land Will Open at Disney World in 2027
 
 [原文] THe&#8217;Monsters, Inc.&#8217; themed land, Monstropolis is set to open at Disney&#8217;s Hollywood Studios at Disney World in 2027. The news was announced Saturday at D23. Vice President Creative, W
 
 📎 [阅读原文](https://variety.com/2026/film/news/monsters-inc-themed-land-will-disney-world-2027-1236834775/) — *Variety*
-
-### 4. ‘RuPaul’s Drag Race,’ ‘All Stars’ and ‘Untucked’ Renewed for New Seasons at MTV and Paramount+
-
-[原文] Shantay you stay! &#8220;RuPaul&#8217;s Drag Race,&#8221; &#8220;All Stars&#8221; and &#8220;Untucked&#8221; have all been renewed for new seasons at MTV and Paramount+. The franchise&#8217;s main sho
-
-📎 [阅读原文](https://variety.com/2026/tv/news/rupaul-drag-race-all-stars-untucked-renewed-mtv-paramount-1236834928/) — *Variety*
-
-### 5. Disney Leaders Talk Streaming Strategy and Growth Drivers: Sports, Local Language, Vertical Media and Emerging Formats
-
-[原文] Amid a torrent of fan-friendly news about Disney projects across the media spectrum, Disney leadership took time on the first day of the three-day D23 fan fest weekend in Anaheim for panels that offer
-
-📎 [阅读原文](https://variety.com/2026/tv/news/d23-espn-disney-international-eric-schrier-carol-choi-1236835550/) — *Variety*
 
 ---
 
@@ -363,35 +363,35 @@ The post Lamborghini&#8217;s CMO Says Emotion Isn&#8217;t Just So
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Can a Dam Expansion Hold Back Climate Considerations on the Colorado River?
+### 1. Empowering Guatemalan Villagers Plagued by Plastic
+
+[原文] This story was supported by the Pulitzer Center. JALAPA, Guatemala—On a hot, muggy afternoon in the small mountain village of El Duraznal, Soila Elizabeth Cruz carefully reached under the slats of a b
+
+📎 [阅读原文](https://insideclimatenews.org/news/16082026/project-aims-to-help-guatemalans-plagued-by-plastic-pollution/) — *Inside Climate News*
+
+### 2. In South America, Chinese EVs Are Racing Ahead
+
+[原文] Planet China:&#160;Fifteenth in a series about how Beijing’s trillion-dollar development plan is reshaping the globe—and the natural world. CÓRDOBA, Argentina—Franco Bornancini’s iPhone buzzed relentl
+
+📎 [阅读原文](https://insideclimatenews.org/news/16082026/china-evs-dominate-south-america-market/) — *Inside Climate News*
+
+### 3. Cash Cow
+
+[原文] Welcome to Inside Climate, a podcast from the staff of Inside Climate News. In this episode, co-host Jake Bolster sits down with reporters Georgina Gustin and Lisa Sorg to talk about the wide-ranging 
+
+📎 [阅读原文](https://insideclimatenews.org/news/16082026/inside-climate-podcast-cash-cow-cafos/) — *Inside Climate News*
+
+### 4. Can a Dam Expansion Hold Back Climate Considerations on the Colorado River?
 
 [原文] SANTA FE, N.M.—Is climate change enough justification to stop the expansion of a reservoir that will take more water from the dwindling Colorado River? That’s the central question in a lawsuit pitting
 
 📎 [阅读原文](https://insideclimatenews.org/news/15082026/colorado-river-dam-expansion-climate-considerations/) — *Inside Climate News*
 
-### 2. ‘The Energy Transition Cannot Become A New Form Of Colonial Violence,’ Brazilian Indigenous Leaders Tell UN Conference
+### 5. ‘The Energy Transition Cannot Become A New Form Of Colonial Violence,’ Brazilian Indigenous Leaders Tell UN Conference
 
 [原文] Leia este artigo em Português. Along the river the Xavante people of Brazil call Owawê are many of the Indigenous tribe’s sacred sites, ancient villages and cemeteries. It is also where their ear pier
 
 📎 [阅读原文](https://insideclimatenews.org/news/15082026/brazil-railway-project-cuts-through-sacred-indigenous-sites/) — *Inside Climate News*
-
-### 3. ‘A Transição Energética Não Pode Se Tornar Uma Nova Forma de Violência Colonial,’ Dizem Lideranças Indígenas Brasileiras Às Nações Unidas
-
-[原文] Read this article in English. Ao longo do rio que o povo Xavante chama de Owawê estão muitos dos seus territórios sagrados, vilas e cemitérios. Também é onde o ritual fura-orelha é realizado, marcando
-
-📎 [阅读原文](https://insideclimatenews.org/news/15082026/a-transicao-energetica-nao-pode-se-tornar-uma-nova-forma-de-violencia-colonial-dizem-liderancas-indigenas-brasileiras-as-nacoes-unidas/) — *Inside Climate News*
-
-### 4. How the World’s Largest Electric Company Fell Quiet on Renewable Energy
-
-[原文] NextEra Energy, the world’s largest publicly traded electricity company, has systematically erased or downplayed its clean energy messaging since President Donald Trump returned to office, a potent ex
-
-📎 [阅读原文](https://insideclimatenews.org/news/15082026/nextera-energy-renewable/) — *Inside Climate News*
-
-### 5. California Pesticide Agency Hopelessly Captured by Industry, Critics Charge
-
-[原文] SACRAMENTO, Calif.—Farmworkers, their loved ones and advocates lined up out the door of a California state legislative hearing room this week to urge elected officials to hold pesticide regulators acc
-
-📎 [阅读原文](https://insideclimatenews.org/news/14082026/california-regulators-face-calls-to-better-protect-immigrants-from-pesticides/) — *Inside Climate News*
 
 ---
 
