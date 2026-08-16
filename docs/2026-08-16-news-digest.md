@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月16日** | 生成时间: 2026-08-16 02:34
+**2026年08月16日** | 生成时间: 2026-08-16 09:35
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia
+### 1. Rescuers search for survivors of powerful Indonesia earthquake
 
-[原文] A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.
+[原文] Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Eleven killed in Israeli strikes on southern Lebanon, authorities say
+### 2. Morocco detains dozens of migrants trying to cross into Ceuta, reports say
+
+[原文] Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. Eleven killed in Israeli strikes on southern Lebanon, authorities say
 
 [原文] Israel's military said it had struck "Hezbollah terror infrastructure" in response to what it described as earlier action against its soldiers.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. BBC seeks to subpoena Trump's family members in Panorama lawsuit
+### 4. Liechtenstein changes succession rule to allow women to ascend the throne
 
-[原文] The BBC's lawyers argue Trump's family members "have personal knowledge" of his intentions in the speech he gave outside the US Capitol on 6 January 2021.
+[原文] The declaration was made on the national day of the central European country, which has a population of just 44,000.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. US aircraft carrier on way to relieve USS Lincoln after issues reported aboard
+### 5. Qatar denies capturing three Iranian pilots after downing fighter jets
 
-[原文] Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.
+[原文] Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. South Korea proposes talks to officially end war with North
-
-[原文] Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -60,29 +60,29 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/15/strategic-petroleum-reserve-spr-oil-iran-war-caverns.html) — *CNBC*
 
-### 2. Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck
-
-[原文] Iran's deputy foreign minister says Hormuz "will remain Iranian" after Trump's claim that the waterway would soon become U.S. territory.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/15/iran-rebuffs-trumps-claim-over-hormuz-amid-report-of-ship-strike.html) — *CNBC*
-
-### 3. Nvidia discloses $21 billion stake in SpaceX at end of second quarter
-
-[原文] Nvidia's stake in SpaceX, which came through an investment in xAI, was worth about $21 billion at the end of the second quarter.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/14/nvidia-discloses-21-billion-stake-in-spacex-at-end-of-second-quarter.html) — *CNBC*
-
-### 4. Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter
+### 2. Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter
 
 [原文] The jump in revenue underscores the rapid growth of the Claude chatbot maker as it prepares for a potential blockbuster initial public offering.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html) — *CNBC*
 
-### 5. Marijuana reform is emerging as a midterm elections issue on both sides of the aisle
+### 3. Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck
 
-[原文] With November's midterms fast approaching, cannabis reform is an issue. It's popular with voters, but its power to tilt elections remains uncertain.
+[原文] Iran's deputy foreign minister says Hormuz "will remain Iranian" after Trump's claim that the waterway would soon become U.S. territory.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/15/cannabis-marijuana-legalization-midterm-elections.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/15/iran-rebuffs-trumps-claim-over-hormuz-amid-report-of-ship-strike.html) — *CNBC*
+
+### 4. Prediction markets and sports betting: How this UK exchange is trying to do both in the U.S.
+
+[原文] Smarkets is entering the U.S. prediction market race but also applying to run as a sportsbook within states amid regulatory uncertainty at the federal level.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/15/prediction-markets-and-sports-betting-how-this-uk-exchange-is-trying-to-do-both-in-the-us.html) — *CNBC*
+
+### 5. Nvidia discloses $21 billion stake in SpaceX at end of second quarter
+
+[原文] Nvidia's stake in SpaceX, which came through an investment in xAI, was worth about $21 billion at the end of the second quarter.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/14/nvidia-discloses-21-billion-stake-in-spacex-at-end-of-second-quarter.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. SpaceX officially closes its Cursor acquisition
+### 1. Woman claims her stepfather used Grok to transform childhood photo into explicit imagery
+
+[原文] The woman claimed that AI tools are "taking everyday life and turning it into child sexual abuse."
+
+📎 [阅读原文](https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/) — *TechCrunch*
+
+### 2. Anthropic shares more details about how Claude’s new watermarks will work
+
+[原文] How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?
+
+📎 [阅读原文](https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/) — *TechCrunch*
+
+### 3. SpaceX officially closes its Cursor acquisition
 
 [原文] AI coding startup Cursor is now officially a part of SpaceX.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/) — *TechCrunch*
 
-### 2. How to tell if your AI platforms’ accounts have been hacked
+### 4. How to tell if your AI platforms’ accounts have been hacked
 
 [原文] A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/) — *TechCrunch*
 
-### 3. Every fusion startup that has raised over $100M
+### 5. Every fusion startup that has raised over $100M
 
 [原文] Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/) — *TechCrunch*
-
-### 4. Talks to sell PayPal to Stripe and Advent are heating up
-
-[原文] PayPal is still reportedly negotiating a potential sale to Stripe and private equity firm Advent, as the fintech firm's new CEO attempts to turn the company around.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/) — *TechCrunch*
-
-### 5. Self-driving trucks are officially testing on California highways
-
-[原文] Aurora Innovation and Kodiak AI, two companies developing self-driving trucks, have received permits from the California Department of Motor Vehicles.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Fernandez booed by Chelsea fans as Alonso offers glimpse of blueprint
+### 1. Hunt wins third gold as Asher-Smith makes history
+
+[原文] Amy Hunt claims the third gold medal of her bid for a historic quadruple and Dina Asher-Smith makes history as Great Britain win two relay golds at the European Athletics Championships.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/cqjxxd0j844o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. Rashford returns as AC Milan highlight issues facing Carrick
+
+[原文] Manchester United finish their pre-season campaign with a 4-2 defeat by Ruben Amorim's AC Milan in Poland, as Marcus Rashford returns to Red Devils action.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cg5ll71pqv1o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. 'Fury' at Tarling death as cycling union calls for better helmets
+
+[原文] The cyclists' union expresses "fury" over the death of British rider Fin Tarling during Friday's stage of the Volta a Portugal.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/cycling/articles/czxqqlpnx98o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. Fernandez booed by Chelsea fans as Alonso offers glimpse of blueprint
 
 [原文] Enzo Fernandez is booed by sections of the Chelsea support, Morgan Rogers scores on his first appearance and Xabi Alonso offers a glimpse of what could be his blueprint for the season.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c36dd10jj09o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Inter sign England full-back Spence from Tottenham
+### 5. O'Connor secures European gold in heptathlon
 
-[原文] England full-back Djed Spence signs a five-year deal at Inter Milan as he makes a move to Italy from Tottenham.
+[原文] Kate O'Connor says her late grandmother "would have been jumping for joy" at the Irish athlete claims gold in the heptathlon at the European Championships in Birmingham.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cz64vg6znz1o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 3. Tarling family heartbroken as riders pay tribute to British cyclist
-
-[原文] Finlay Tarling's father says it has been "heartbreaking and heartwarming" to receive messages of support and happy photos of his son following the British cyclist's death.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/cycling/articles/cjd4g7vy5jzo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. Sunderland agree £25.6m fee for defender Methalie
-
-[原文] Sunderland agree a £25.6m fee to sign left-back Dayann Methalie from Toulouse.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c934488gjyzo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Bangladesh move closer to historic win in Australia
-
-[原文] Spinner Mehidy Hasan Miraz takes the crucial wicket of Steve Smith as Bangladesh move closer to a historic first Test victory in Australia on day three in Darwin.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c39eygmrlnjo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/cvgjjpe85z1o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. UFC 330 Livestream: Here’s Where to Watch the Makhachev vs. Machado Garry Online for Free
+### 1. ‘RuPaul’s Drag Race,’ ‘All Stars’ and ‘Untucked’ Renewed for New Seasons at MTV and Paramount+
 
-[原文] After Max Holloway defeated Conor McGregor in a TKO in less than 70 second during UFC 329 in July, the Ultimate Fighting Championship travels from Las Vegas to Philadelphia for UFC 330. For the main e
+[原文] Shantay you stay! &#8220;RuPaul&#8217;s Drag Race,&#8221; &#8220;All Stars&#8221; and &#8220;Untucked&#8221; have all been renewed for new seasons at MTV and Paramount+. The franchise&#8217;s main sho
 
-📎 [阅读原文](https://variety.com/2026/shopping/news/how-to-watch-ufc-330-makhachev-vs-machado-garry-live-online-free-1236833641/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/rupaul-drag-race-all-stars-untucked-renewed-mtv-paramount-1236834928/) — *Variety*
 
-### 2. Dave Marsh, Bruce Springsteen Biographer and Rock Critic, Dies at 76
+### 2. Disney Leaders Talk Streaming Strategy and Growth Drivers: Sports, Local Language, Vertical Media and Emerging Formats
 
-[原文] Dave Marsh, the film critic and biographer who documented the early days of Bruce Springsteen in his influential 1979 book “Born to Run,” died Friday in his Connecticut home. He was 76. Jim Rotolo, wh
+[原文] Amid a torrent of fan-friendly news about Disney projects across the media spectrum, Disney leadership took time on the first day of the three-day D23 fan fest weekend in Anaheim for panels that offer
 
-📎 [阅读原文](https://variety.com/2026/music/news/dave-marsh-dead-bruce-springsteen-born-to-run-1236835488/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/d23-espn-disney-international-eric-schrier-carol-choi-1236835550/) — *Variety*
 
-### 3. Adam Scott Says His Daughter’s Acting Class Was Forced to Watch His Failed ‘Office’ Audition as an Example of What Not to Do
+### 3. Slipknot Confirms Sid Wilson’s Sudden Exit: ‘We Wish Him the Best’
 
-[原文] Once upon a time, &#8220;Severance&#8221; star Adam Scott auditioned for the beloved sitcom &#8220;The Office.&#8221; Years later, he&#8217;s reliving the memories of that failed audition after his da
+[原文] Slipknot is officially parting ways with Sid Wilson, who had been part of the group for nearly 30 years. &#8220;Effective immediately, Slipknot will no longer be associated with Sid Wilson,&#8221; the
 
-📎 [阅读原文](https://variety.com/2026/tv/news/adam-scott-daughter-failed-office-audition-john-krasinski-1236835469/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/slipknot-confirms-sid-wilson-sudden-exit-1236835546/) — *Variety*
 
-### 4. Locarno: Marco Cavazzin’s ‘Mutrion,’ Set in the Venice Lagoon, Scoops Leopards of Tomorrow Director Award
+### 4. Here’s How to Watch Claressa Shields vs. Kaye Scott Boxing Live Online
 
-[原文] &#8220;Mutrion,&#8221; a short film set in the Venice lagoon&#160;by 26-year-old Italian director&#160;Marco Cavazzin, has scooped the best director award at the Locarno Film Festival&#8217;s Pardi di
+[原文] After defending her undisputed women&#8217;s heavyweight title against Franchon Crews-Dezurn back in February, American boxer Claressa Shields drops in weight class to middleweight to challenge WBA an
 
-📎 [阅读原文](https://variety.com/2026/film/festivals/locarno-marco-cavazzin-mutrion-venice-leopards-of-tomorrow-1236834478/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/shopping/news/how-to-watch-claressa-shields-vs-kaye-scott-boxing-live-online-1236833217/) — *Variety*
 
-### 5. Nate Bargatze Sets Guinness World Record for Most Tickets Sold for a Stand-Up Comedy Tour (EXCLUSIVE)
+### 5. Director Frieda Luk on Olivia Luccardi’s ‘Sacred Creatures’ Role and the Fine Line Between ‘Crazy’ and ‘Enlightened’
 
-[原文] Nate Bargatze and his &#8220;Big Dumb Eyes&#8221; just set a Guinness World Record. The Tennessee-born comedian has officially sold the most tickets for a stand-up comedy tour, surpassing the previous
+[原文] For “Sacred Creatures” director Frieda Luk, belief can be comforting, ridiculous, exhilarating and hard to explain. “I’m really fascinated by when people believe in something,” she tells Variety. “One
 
-📎 [阅读原文](https://variety.com/2026/tv/news/nate-bargatze-guinness-world-record-comedy-tour-tickets-sold-1236835016/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/director-frieda-luk-olivia-luccardi-sacred-creatures-1236835353/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Dungeon Crawler Carl TV Series Could Make or Break the Future of LitRPG Adaptations
+### 1. Star Wars: Smuggler's Gambit Lets You Keep Helping Hondo Ohnaka in Fortnite After You Leave Disneyland
+
+[原文] Smuggler's Gambit in Fortnite lets you continue the Smuggler's Run experience by expanding it into a PvE multiplayer online game with your friends. You can also do the opposite by scanning a QR code a
+
+📎 [阅读原文](https://www.ign.com/articles/star-wars-smugglers-gambit-lets-you-keep-helping-hondo-ohnaka-in-fortnite-after-you-leave-disneyland) — *IGN*
+
+### 2. Tetsuya Nomura Teases Involvement in Kingdom Hearts Anime Series, Tells Fans to Let Their 'Imagination Run Wild' | D23 2026
+
+[原文] Kingdom Hearts creator Tetsuya Nomura has one message for fans when it comes to its mysterious new Disney+ anime series: "Please let your imagination run wild."
+
+📎 [阅读原文](https://www.ign.com/articles/tetsuya-nomura-teases-involvement-in-kingdom-hearts-anime-series-tells-fans-to-let-their-imagination-run-wild-d23-2026) — *IGN*
+
+### 3. D23 Deep Dive Into Kingdom Hearts Panel: Everything Announced — Updating Live
+
+[原文] D23, Disney's biggest fan convention, continues with a special panel all about Kingdom Hearts. IGN is on the ground bringing you the biggest news, reveals, and updates from the presentation as it kick
+
+📎 [阅读原文](https://www.ign.com/articles/d23-deep-dive-into-kingdom-hearts-panel-everything-announced-updating-live) — *IGN*
+
+### 4. Dave Filoni Confirms Disney Isn't Making Scrapped Star Wars Movie The Hunt for Ben Solo 'Right Now' | D23 2026
+
+[原文] Lucasfilm president Dave Filoni has confirmed that, despite the push from fans, Disney still isn't working on its scrapped Star Wars movie The Hunt for Ben Solo.
+
+📎 [阅读原文](https://www.ign.com/articles/dave-filoni-confirms-disney-isnt-making-scrapped-star-wars-movie-the-hunt-for-ben-solo-right-now-d23-2026) — *IGN*
+
+### 5. The Best Deals Today: Project Hail Mary 4K Blu-ray, Resident Evil Requiem, AirPods Pro 3, and More
 
 暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/the-dungeon-crawler-carl-tv-series-could-make-or-break-future-litrpg-book-adaptations) — *IGN*
-
-### 2. 100% Marvel's Spider-Man Games with One Month of Free IGN Guides Checklists
-
-暂无摘要。
-
-📎 [阅读原文](https://www.ign.com/articles/100-marvels-spider-man-games-with-one-month-of-free-ign-guides-checklists) — *IGN*
-
-### 3. I Love Handhelds, But I’m Worried the RAM Crisis is Going to Kill Them
-
-[原文] Handheld gaming PCs have been getting better every year, but with skyrocketing prices, they might not make much sense to either gamers or manufacturers.
-
-📎 [阅读原文](https://www.ign.com/articles/i-love-handhelds-but-im-worried-the-ram-crisis-is-going-to-kill-them) — *IGN*
-
-### 4. Star Trek’s Babs Olusanmokun on the End of Strange New Worlds: ‘I Don't See It as a Final Episode’
-
-[原文] Star Trek: Strange New Worlds’ Babs Olusanmokun, who plays Dr. M'Benga, says he doesn't see the end of the show "as a final episode."
-
-📎 [阅读原文](https://www.ign.com/articles/star-treks-babs-olusanmokun-on-the-end-of-strange-new-worlds-i-dont-see-it-as-a-final-episode) — *IGN*
-
-### 5. Who Needs Wolverine? Why We're Pumped for Marvel's X-Men Reboot | D23 2026
-
-[原文] Marvel's X-Men reboot has a distinct lack of Wolverine, but that's one reason we're so excited for this fresh take on the franchise.
-
-📎 [阅读原文](https://www.ign.com/articles/who-needs-wolverine-why-were-pumped-for-marvels-x-men-reboot-d23-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/best-deals-for-august-15-2026) — *IGN*
 
 ---
 
@@ -439,35 +439,35 @@ The post Lamborghini&#8217;s CMO Says Emotion Isn&#8217;t Just So
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Dave Marsh, Legendary Rock Biographer and Critic, Dead at 76
+### 1. Selena Gomez’s Lawyer Calls Wondermind Suit ‘Meritless,’ Will File Motion to Dismiss ‘Baseless Claims’
+
+[原文] The singer, her mother Mandy Teefey, and their former business partner were sued by investors who claim they were misled by Gomez’s involvement
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/selena-gomez-wondermind-lawsuit-meritless-motion-to-dismiss-1235609673/) — *Rolling Stone*
+
+### 2. Frankie Valli Says ‘I Am Not Retired,’ His Brother Bobby Apologizes for Being ‘Misinformed’
+
+[原文] The 92-year-old singer took to social media to clarify his status after his brother said Frankie “will now retire”
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/frankie-valli-not-retired-brother-bobby-apologizes-1235609548/) — *Rolling Stone*
+
+### 3. Dave Marsh, Legendary Rock Biographer and Critic, Dead at 76
 
 [原文] Pioneering Creem and Rolling Stone journalist wrote essential biographies on the Who and Bruce Springsteen
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/dave-marsh-music-critic-biographer-dead-obit-1235609648/) — *Rolling Stone*
 
-### 2. Matthew McConaughey’s Life in Songs Has Taken Him Everywhere
+### 4. Matthew McConaughey’s Life in Songs Has Taken Him Everywhere
 
 [原文] While sitting down to discuss the songs that have defined his life, the actor recalls a life-changing trip to Africa, the time he considered becoming a monk, picking up songs from his brother, and mor
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/matthew-mcconaughey-life-in-songs-1235609364/) — *Rolling Stone*
 
-### 3. Courtney Love Reveals She ‘Almost Died’ in 2019 Amid Mystery Illness
+### 5. Courtney Love Reveals She ‘Almost Died’ in 2019 Amid Mystery Illness
 
 [原文] The musician also revealed her upcoming album, her first since 2010, is done
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/courtney-love-almost-died-new-albmum-1235609604/) — *Rolling Stone*
-
-### 4. Slipknot and Sid Wilson Part Ways After Nearly 30 Years
-
-[原文] "Effective immediately, Slipknot will no longer be associated with Sid Wilson," the band posted in a since-deleted social media post
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/slipknot-sid-wilson-part-ways-1235602008/) — *Rolling Stone*
-
-### 5. Bad Bunny Reggaeton Copyright Case Ruling Gets Second Look From Judge
-
-[原文] Lawyers for Bad Bunny, Drake, and a host of reggaeton superstars are asking the judge to reconsider his ruling that only a jury could decide their dispute with reggae duo Steely &#38; Clevie
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/bad-bunny-drake-karol-g-reggaeton-copyright-case-reconsider-1235609366/) — *Rolling Stone*
 
 ---
 
