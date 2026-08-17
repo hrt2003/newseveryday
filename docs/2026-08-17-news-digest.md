@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月17日** | 生成时间: 2026-08-17 15:02
+**2026年08月17日** | 生成时间: 2026-08-17 20:50
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan
-
-[原文] US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 2. Ukrainian strikes kill six in Russia, acting governor says
-
-[原文] A 14-year-old child was among four others injured, the acting governor of Russia's Belgorod region says.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 3. Trump says US to reduce military drills with South Korea after it stayed out of Iran war
+### 1. Trump says US to reduce military drills with South Korea after it stayed out of Iran war
 
 [原文] Trump cites his "very good relationship" with North Korea's leader in deciding to downsize the exercises.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Ebola outbreak in DR Congo becomes deadliest in its history
+### 2. Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan
+
+[原文] US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. Ukrainian strikes kill six in Russia, acting governor says
+
+[原文] A 14-year-old child was among four others injured, the acting governor of Russia's Belgorod region says.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. Aid shortages and fears of starvation as Indonesia reels from deadly earthquake
+
+[原文] Some 53 people were killed and thousands displaced by the earthquake, which struck early on Saturday.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Ebola outbreak in DR Congo becomes deadliest in its history
 
 [原文] The outbreak was already the fastest growing on record, caused by a rare species of Ebola called Bundibugyo.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Record rains drench South Korean city as landslide kills one
-
-[原文] It comes as large swathes of East and South East Asia have been pummelled by dats of heavy rain.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvgww971nn2o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Top U.S. commander acknowledges mental health issues on USS Lincoln
+### 1. OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive
 
-[原文] Cooper's visit and statement come after reports of widespread morale and mental health concerns aboard the Lincoln.
+暂无摘要。
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/16/top-us-commander-acknowledges-mental-health-issues-on-uss-lincoln.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/17/openai-brockman-leadership-changes.html) — *CNBC*
 
-### 2. What the results of a Connecticut congressional primary race may mean for Social Security
+### 2. Meta faces ‘astronomical’ consequences as legal fight reaches critical moment in California
 
-[原文] Rep. John Larson of Connecticut, an advocate for expanding Social Security, was ousted in a Democratic primary contest Tuesday.
+[原文] Less than two weeks after a loss in New Mexico, Meta faces a much bigger legal test in a case being co-led by California's attorney general.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/16/social-security-john-larson-connecticut-primary.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html) — *CNBC*
 
-### 3. Ferrari Luce: Polarizing EV becomes a $40 million collector’s item
+### 3. 'Don't get too comfortable': Wall Street’s ‘fear gauge’ hits 2026 low — here's why it's unlikely to last
 
-[原文] The auction of the Luce comes nearly three months after Ferrari unveiled its first fully electric car, which was priced at 550,000 euros (roughly $640,000).
+[原文] A falling VIX points to growing investor complacency ahead of a traditionally turbulent time for markets, strategists warn.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/17/ferrari-luce-electric-car-autos.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/17/stock-market-volatility-vix-wall-street.html) — *CNBC*
 
-### 4. Japan second-quarter GDP grows 1.1% on an annualized basis, missing expectations
+### 4. What will TV look like in three years? Media insiders share their predictions
 
-[原文] On an annualized basis, Japan saw growth of 1.1%, against estimates of 2%.
+[原文] CNBC asked media insiders what they think the TV market — from pay TV subscribers to sports ratings — will look like in three years.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/17/japan-gdp-misses-estimates-trade-exports-yen-nikkei.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/17/tv-media-insiders-predictions.html) — *CNBC*
 
-### 5. Depleted strategic oil reserve nears level that raises concerns about damage to caverns, operations
+### 5. Santoli: Earnings bonanza that lifted market to record may not be all that it appears to be
 
-[原文] The rapid drawdown of the U.S. Strategic Petroleum Reserve could damage the caverns that store the oil, experts warn.
+[原文] The S&P 500 is up more than 6% in 12 trading days to record levels.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/15/strategic-petroleum-reserve-spr-oil-iran-war-caverns.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/17/santoli-earnings-bonanza-that-lifted-market-to-record-may-not-be-all-that-it-appears-to-be.html) — *CNBC*
 
 ---
 
@@ -142,23 +142,23 @@
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260815064805.htm) — *Science Daily*
 
-### 3. This 10-cent heart drug cuts hospitalizations by 25%
+### 3. Scientists tracked kids for 8 years — the screen time result was unexpected
 
-[原文] A centuries-old heart drug costing less than ten cents a day could help keep heart-failure patients out of the hospital. New research suggests low-dose digoxin can reduce heart-failure hospitalization
+[原文] An eight-year Finnish study found that children who spent more time on screens tended to show better cognitive processing as teenagers, challenging common assumptions about screen use. Researchers say
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260814235858.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260815064803.htm) — *Science Daily*
 
-### 4. The common mistake that could make aging joints hurt more
+### 4. Tiny graphene wrinkles create surprisingly powerful electrical effects
 
-[原文] Aging gradually wears down the cartilage and fluid that protect our joints, but avoiding movement may actually make matters worse. Exercise helps nourish cartilage, strengthens the muscles that protec
+[原文] Scientists have discovered that tiny, sharply curved wrinkles in graphene can dramatically alter its electrical behavior, creating surprisingly strong charge separation. The finding suggests future el
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260814235852.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260815064801.htm) — *Science Daily*
 
-### 5. A black hole shredded a “super sun” — but something strange may have survived
+### 5. Animals have been eating nature’s original bioplastic for millions of years
 
-[原文] Astronomers have witnessed a black hole violently shredding a massive star, creating one of the most energetic stellar explosions ever observed. The event, nicknamed “the Whippet,” briefly released ab
+[原文] Nature invented biodegradable plastic long before humans did—and animals may have been feeding on it for hundreds of millions of years. Researchers discovered that dozens of animal species possess enz
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260814235849.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260815064759.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. History for Hunt and Asher-Smith in golden finish for GB
+### 1. Man City in advanced talks for £85m Bouaddi, 18
 
-[原文] Amy Hunt and Dina Asher-Smith make history while Georgia Hunter Bell claims a commanding 1500m gold as Great Britain finish strongly at the European Championships.
+[原文] Manchester City are in advanced talks with Lille over a move for Morocco midfielder Ayyoub Bouaddi.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/c30444dmqe0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cd7l9n4qnlno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Brook on Test captaincy, batting and Wellington
+### 2. Scottish FA withdraws support for Fifa president Infantino
 
-[原文] In an exclusive interview, England's Harry Brook says he supports Joe Root taking the Test captaincy, addresses frustrations about his batting and describes the Wellington nightclub incident fallout.
+[原文] The Scottish Football Association has lost confidence in Gianni Infantino and will not be voting for his re-election as president of Fifa, chief executive Ian Maxwell has told BBC Sport.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cwyee152xeqo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/crrv4092pvlo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Barcelona agree £65m Rodri deal - who could replace him at Man City?
+### 3. 'Are you not entertained?' - Hunt enters stardom with iconic quadruple
 
-[原文] Barcelona agree a deal to sign Spain captain Rodri from Manchester City.
+[原文] Amy Hunt asserts herself as Great Britain's new track sensation after winning an unprecedented four gold medals at the European Athletics Championships.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cy0jj65r18yo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/clyqqxgrdqqo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. What awaits new Scotland head coach Pocognoli?
+### 4. Pocognoli 'feels connection' with 'passionate' Scotland
 
-[原文] Shifting the playing style, maintaining qualification for major tournaments and refreshing the squad await the new Scotland boss.
+[原文] New Scotland boss Sebastien Pocognoli says the passionate nature of Scottish football was a key factor in his taking the job.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cly995z1j8go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cdx75z0ngylo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Nightmare Man City start for Maresca - are Arsenal really so far ahead?
+### 5. Bronze explains out-of-character contract extension
 
-[原文] Did Arsenal show just how far above Manchester City they are with their dominant Community Shield win?
+[原文] England defender Lucy Bronze says she has found a "really good role" at a club she is "comfortable" with, after signing a rare contract extension with Chelsea.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c5y449kwq14o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cy4kge80l1eo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Korea Box Office: Christopher Nolan’s ‘The Odyssey’ Outpaces ‘Spider-Man: Brand New Day’ Again in Strong Second Weekend
+### 1. Hayden Panetierre’s Death: No Signs of ‘Foul Play or Suspicious Circumstances,’ Police Say
 
-[原文] &#8220;The Odyssey&#8221; ruled the South Korean box office during the weekend of Aug. 14–16. According to data from KOBIS, the tracking service operated by the Korean Film Council, the Christopher No
+[原文] Hayden Panetierre&#8217;s death is under investigation, but there were &#8220;not any signs of foul play or suspicious circumstances,&#8221; according to police. The &#8220;Scream&#8221; and &#8220;He
 
-📎 [阅读原文](https://variety.com/2026/film/box-office/korea-box-office-the-odyssey-outpaces-spider-man-brand-new-day-1236836058/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/hayden-panetierre-death-no-foul-play-police-investigation-1236836204/) — *Variety*
 
-### 2. Former Costa Rican Film Commissioner Marysela Zamora: ‘I Believe That the Next Great Chapter in Audiovisual Media Will Be Written in Spanish’ (EXCLUSIVE)
+### 2. Iranian Director Ali Asgari Unveils First Clip From Venice-Bound ‘A Bit of Light’: ‘This Trump Guy Is Threatening to Bomb Here Every Day’ (EXCLUSIVE)
 
-[原文] Former Costa Rican Film Commissioner Marysela Zamora, who was instrumental in reviving the Costa Rica Media Market (CRMM) these past two years, will continue to serve on the Board of Directors of the 
+[原文] Iranian director Ali Asgari, who was in Venice Horizons last year with dark satire “Divine Comedy,” will soon be back — in competition this time — with his new feature “A Bit of Light.” Variety is unv
 
-📎 [阅读原文](https://variety.com/2026/film/global/former-costa-rican-film-commissioner-marysela-zamora-1236835874/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/iranian-director-ali-asgari-a-bit-of-light-first-clip-1236836044/) — *Variety*
 
-### 3. China Box Office: ‘Once Upon a Time in the Middle East’ Dominates With $70 Million Weekend as Christopher Nolan’s ‘The Odyssey’ Debuts Second
+### 3. London Film Festival Competition Lineup: Aimee Lou Wood’s ‘The Idiot(s),’ Mackenzie Davis’ Sci-Fi Romance ‘My Notes on Mars,’ Hirokazu Kore-eda’s ‘Look Back’ and More
 
-[原文] Dirty Monkeys’ war comedy-drama &#8220;Once Upon a Time in the Middle East&#8221; took command of the mainland China box office during the Aug. 14–16 weekend, grossing RMB477.9 million ($70.3 million)
+[原文] The 70th edition of the BFI London Film Festival has revealed its official competition, with 10 titles set to compete for the best film award. The films selected represent 10 countries, including the 
 
-📎 [阅读原文](https://variety.com/2026/film/box-office/china-box-office-once-upon-a-time-in-the-middle-east-the-odyssey-1236836046/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/london-film-festival-2026-competition-lineup-1236836085/) — *Variety*
 
-### 4. Hollywood Failed Hayden Panettiere
+### 4. ‘Supporting Role’ Review: Dato Bakhtadze Captivates in a Nocturnal Odyssey Through Tbilisi
 
-[原文] Hayden Panettiere, the former child actress who grew up onscreen before our very eyes, passed away Sunday at the age of 36. She died five days before her 37th birthday. “It is with profound sadness th
+[原文] A nocturnal odyssey through the spectral streets of Tbilisi is conjured with mesmerizing effect in Georgian writer-director Ana Urushadze’s “Supporting Role.” On the heavy heels of Niaz (Dato Bakhtadz
 
-📎 [阅读原文](https://variety.com/2026/film/news/hayden-panettiere-death-hollywood-sexual-predators-1236836037/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/reviews/supporting-role-review-1236836132/) — *Variety*
 
-### 5. John Oliver Brutally Mocks Trump for Sacrificing Staff in Airplane-Swap Incident
+### 5. Hayden Panettiere Remembered by Viola Davis, Bethany Joy Lenz, Melissa Barrera and More: ‘I Wish the World Had More Time With You’
 
-[原文] On Sunday night, the summer’s hottest soap opera star, John Oliver, opened the latest edition of his Emmy-winning HBO series “Last Week Tonight” by addressing Trump’s controversial airplane switcheroo
+[原文] Celebrities are paying tribute to &#8220;Nashville&#8221; and &#8220;Heroes&#8221; actress Hayden Panettiere, who died Sunday at 36. Though a cause of death has not been released, her father told ABC 
 
-📎 [阅读原文](https://variety.com/2026/tv/news/john-oliver-mocks-trump-sacrificing-staff-airplane-swap-incident-iran-1236836013/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/hayden-panettiere-remembered-viola-davis-bethany-joy-lenz-1236836020/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Heroes Star Hayden Panettiere Dies at 36
+### 1. Robert Downey Jr. Returns as Iron Man in Avengers Infinity Defense, a New Attraction Where You'll Fight Thanos at Disneyland's Avengers Campus
+
+[原文] Robert Downey Jr. will reprise his iconic role of Iron Man for Avengers Infinity Defense, a star-studded new battle against Thanos coming to Disneyland's Avengers Campus.
+
+📎 [阅读原文](https://www.ign.com/articles/robert-downey-jr-returns-as-iron-man-in-avengers-infinity-defense-a-new-attraction-where-youll-fight-thanos-at-disneylands-avengers-campus) — *IGN*
+
+### 2. Halloween: The Game Will Actually Be Available in New Zealand After All
+
+[原文] Developer IllFonic alters course, and the game will now be made available digitally for NZ.
+
+📎 [阅读原文](https://www.ign.com/articles/halloween-the-game-will-actually-be-available-in-new-zealand-after-all) — *IGN*
+
+### 3. Heroes Star Hayden Panettiere Dies at 36
 
 [原文] The former child actor’s entertainment career spanned three decades.
 
 📎 [阅读原文](https://www.ign.com/articles/heroes-star-hayden-panettiere-dies-at-36) — *IGN*
 
-### 2. Lanterns Showrunner Says That Episode 1 Surprise Ending Was ‘Big and Scary’ to Commit To
+### 4. Lanterns Showrunner Says That Episode 1 Surprise Ending Was ‘Big and Scary’ to Commit To
 
 [原文] Chris Mundy, the showrunner on James Gunn's new DC series Lanterns, says the surprise ending of Episode 1 was ‘big and scary’ to commit to.
 
 📎 [阅读原文](https://www.ign.com/articles/lanterns-showrunner-hbo-surprise-ending-kyle-chandler-hal-jordan-big-and-scary-to-commit-to) — *IGN*
 
-### 3. 'Look Forward to Meetin' Ya, Sugah!' — Rogue Voice Actress Lenore Zann Reacts to MCU X-Men Casting With Special Video Message for Inde Navarrette
+### 5. 'Look Forward to Meetin' Ya, Sugah!' — Rogue Voice Actress Lenore Zann Reacts to MCU X-Men Casting With Special Video Message for Inde Navarrette
 
 [原文] Lenore Zann, the voice of Rogue in animated Marvel projects since the '90s, published a special video to congratulate Inde Navarrette after she was confirmed to play the live-action version of her cha
 
 📎 [阅读原文](https://www.ign.com/articles/look-forward-to-meetin-ya-sugah-rogue-voice-actress-lenore-zann-reacts-to-mcu-x-men-casting-with-special-video-message-for-inde-navarrette) — *IGN*
-
-### 4. Avengers: Doomsday Trailer Sparks Theories About 2 Doctor Dooms as Fans Hope for a Surprise Cameo from Cillian Murphy
-
-[原文] The new Avengers: Doomsday trailer is here, and some fans believe it has a few clues that suggest the film is hiding two Doctor Dooms – and maybe even a cameo from Cillian Murphy.
-
-📎 [阅读原文](https://www.ign.com/articles/avengers-doomsday-trailer-sparks-theories-about-2-doctor-dooms-as-fans-hope-for-a-surprise-cameo-from-cillian-murphy) — *IGN*
-
-### 5. The Best Deals Today: Final Fantasy VII Rebirth for Switch 2, Nioh 3, Project Hail Mary, and More
-
-暂无摘要。
-
-📎 [阅读原文](https://www.ign.com/articles/best-deals-for-august-16-2026) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post Garmin Keeps Updating Old GPS Devices With New Maps. Here&#8217;s Why T
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Empowering Guatemalan Villagers Plagued by Plastic
+### 1. As Temperatures Get Hotter, Pesticides Are More Dangerous to Farmworkers
+
+[原文] For the nation’s 2.4 million farmworkers, climate change is poised to exacerbate the harms of pesticides, a growing body of research shows. Heat stresses the body, making it more vulnerable to pestici
+
+📎 [阅读原文](https://insideclimatenews.org/news/17082026/florida-heat-amplifies-pesticides-dangers-for-farmworkers/) — *Inside Climate News*
+
+### 2. Offshore Wind Will Struggle Long After Trump’s Attacks
+
+[原文] The United States had a vision: Offshore wind would produce enough energy to power over 10 million homes by 2030.&#160; But five years after the Biden administration’s ambitious proposal, President Do
+
+📎 [阅读原文](https://insideclimatenews.org/news/17082026/offshore-wind-will-struggle-after-trump/) — *Inside Climate News*
+
+### 3. Public Lands Are at the Forefront of Wyoming’s Primaries
+
+[原文] Wyoming’s cherished open spaces appear to be at the forefront of voters’ minds as they head to the polls in an election that could decide whether public lands continue to come under scrutiny from stat
+
+📎 [阅读原文](https://insideclimatenews.org/news/17082026/wyoming-public-lands-forefront-of-elections/) — *Inside Climate News*
+
+### 4. Empowering Guatemalan Villagers Plagued by Plastic
 
 [原文] This story was supported by the Pulitzer Center. JALAPA, Guatemala—On a hot, muggy afternoon in the small mountain village of El Duraznal, Soila Elizabeth Cruz carefully reached under the slats of a b
 
 📎 [阅读原文](https://insideclimatenews.org/news/16082026/project-aims-to-help-guatemalans-plagued-by-plastic-pollution/) — *Inside Climate News*
 
-### 2. In South America, Chinese EVs Are Racing Ahead
+### 5. In South America, Chinese EVs Are Racing Ahead
 
 [原文] Planet China:&#160;Fifteenth in a series about how Beijing’s trillion-dollar development plan is reshaping the globe—and the natural world. CÓRDOBA, Argentina—Franco Bornancini’s iPhone buzzed relentl
 
 📎 [阅读原文](https://insideclimatenews.org/news/16082026/china-evs-dominate-south-america-market/) — *Inside Climate News*
-
-### 3. Cash Cow
-
-[原文] Welcome to Inside Climate, a podcast from the staff of Inside Climate News. In this episode, co-host Jake Bolster sits down with reporters Georgina Gustin and Lisa Sorg to talk about the wide-ranging 
-
-📎 [阅读原文](https://insideclimatenews.org/news/16082026/inside-climate-podcast-cash-cow-cafos/) — *Inside Climate News*
-
-### 4. Can a Dam Expansion Hold Back Climate Considerations on the Colorado River?
-
-[原文] SANTA FE, N.M.—Is climate change enough justification to stop the expansion of a reservoir that will take more water from the dwindling Colorado River? That’s the central question in a lawsuit pitting
-
-📎 [阅读原文](https://insideclimatenews.org/news/15082026/colorado-river-dam-expansion-climate-considerations/) — *Inside Climate News*
-
-### 5. ‘The Energy Transition Cannot Become A New Form Of Colonial Violence,’ Brazilian Indigenous Leaders Tell UN Conference
-
-[原文] Leia este artigo em Português. Along the river the Xavante people of Brazil call Owawê are many of the Indigenous tribe’s sacred sites, ancient villages and cemeteries. It is also where their ear pier
-
-📎 [阅读原文](https://insideclimatenews.org/news/15082026/brazil-railway-project-cuts-through-sacred-indigenous-sites/) — *Inside Climate News*
 
 ---
 
