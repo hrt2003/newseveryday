@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月17日** | 生成时间: 2026-08-17 09:27
+**2026年08月17日** | 生成时间: 2026-08-17 15:02
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump says US to scale back military drills with South Korea after it stayed out of Iran war
+### 1. Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan
+
+[原文] US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Ukrainian strikes kill six in Russia, acting governor says
+
+[原文] A 14-year-old child was among four others injured, the acting governor of Russia's Belgorod region says.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. Trump says US to reduce military drills with South Korea after it stayed out of Iran war
 
 [原文] Trump cites his "very good relationship" with North Korea's leader in deciding to downsize the exercises.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Trump envoy Kushner meets Hamas leader to push Gaza peace plan
+### 4. Ebola outbreak in DR Congo becomes deadliest in its history
 
-[原文] The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.
+[原文] The outbreak was already the fastest growing on record, caused by a rare species of Ebola called Bundibugyo.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Russia says at least seven killed in largest Ukrainian attack of 2026
+### 5. Record rains drench South Korean city as landslide kills one
 
-[原文] Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.
+[原文] It comes as large swathes of East and South East Asia have been pummelled by dats of heavy rain.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Two dead and hundreds evacuated after twin fires break out on Greek island
-
-[原文] About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Four 'extraordinary' Renaissance paintings stolen from Italian museum
-
-[原文] The works were taken overnight without alarms being triggered, raising suspicion of a professional hit.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvgww971nn2o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Japan second-quarter GDP grows 1.1% on an annualized basis, missing expectations
-
-[原文] On an annualized basis, Japan saw growth of 1.1%, against estimates of 2%.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/17/japan-gdp-misses-estimates-trade-exports-yen-nikkei.html) — *CNBC*
-
-### 2. Top U.S. commander acknowledges mental health issues on USS Lincoln
+### 1. Top U.S. commander acknowledges mental health issues on USS Lincoln
 
 [原文] Cooper's visit and statement come after reports of widespread morale and mental health concerns aboard the Lincoln.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/16/top-us-commander-acknowledges-mental-health-issues-on-uss-lincoln.html) — *CNBC*
 
-### 3. What the results of a Connecticut congressional primary race may mean for Social Security
+### 2. What the results of a Connecticut congressional primary race may mean for Social Security
 
 [原文] Rep. John Larson of Connecticut, an advocate for expanding Social Security, was ousted in a Democratic primary contest Tuesday.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/16/social-security-john-larson-connecticut-primary.html) — *CNBC*
 
-### 4. Depleted strategic oil reserve nears level that raises concerns about damage to caverns, operations
+### 3. Ferrari Luce: Polarizing EV becomes a $40 million collector’s item
+
+[原文] The auction of the Luce comes nearly three months after Ferrari unveiled its first fully electric car, which was priced at 550,000 euros (roughly $640,000).
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/17/ferrari-luce-electric-car-autos.html) — *CNBC*
+
+### 4. Japan second-quarter GDP grows 1.1% on an annualized basis, missing expectations
+
+[原文] On an annualized basis, Japan saw growth of 1.1%, against estimates of 2%.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/17/japan-gdp-misses-estimates-trade-exports-yen-nikkei.html) — *CNBC*
+
+### 5. Depleted strategic oil reserve nears level that raises concerns about damage to caverns, operations
 
 [原文] The rapid drawdown of the U.S. Strategic Petroleum Reserve could damage the caverns that store the oil, experts warn.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/15/strategic-petroleum-reserve-spr-oil-iran-war-caverns.html) — *CNBC*
-
-### 5. Secret outperformer: Dispelling the 'myths' about an unloved stock market
-
-[原文] European markets fly under the radar when compared with larger and more liquid U.S. markets, but Goldman Sachs offered to dispel some of the myths.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/16/goldman-stock-market-outperformance.html) — *CNBC*
 
 ---
 
@@ -174,29 +174,29 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/c30444dmqe0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Barcelona agree £65m Rodri deal - who could replace him at Man City?
+### 2. Brook on Test captaincy, batting and Wellington
+
+[原文] In an exclusive interview, England's Harry Brook says he supports Joe Root taking the Test captaincy, addresses frustrations about his batting and describes the Wellington nightclub incident fallout.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cwyee152xeqo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. Barcelona agree £65m Rodri deal - who could replace him at Man City?
 
 [原文] Barcelona agree a deal to sign Spain captain Rodri from Manchester City.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cy0jj65r18yo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. What awaits new Scotland head coach Pocognoli?
+### 4. What awaits new Scotland head coach Pocognoli?
 
 [原文] Shifting the playing style, maintaining qualification for major tournaments and refreshing the squad await the new Scotland boss.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cly995z1j8go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Nightmare Man City start for Maresca - are Arsenal really so far ahead?
+### 5. Nightmare Man City start for Maresca - are Arsenal really so far ahead?
 
 [原文] Did Arsenal show just how far above Manchester City they are with their dominant Community Shield win?
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c5y449kwq14o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. What has been the impact of new owners on The Hundred?
-
-[原文] BBC Sport looks at the impact new owners have had on The Hundred as the first season since private stakes were sold in teams ends.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cy4kknnpyvvo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘The End of Tom Six’ Review: The Director of the ‘Human Centipede’ Films Has Multiple Sclerosis and Is Sharing the Horror. This Confessional Doc Is His Witty Self-Defense
+### 1. Korea Box Office: Christopher Nolan’s ‘The Odyssey’ Outpaces ‘Spider-Man: Brand New Day’ Again in Strong Second Weekend
 
-[原文] "The End of Tom Six" is a self-styled confessional memoir in which Six fuses his life and career and illness into a parable. He’s asking: Is there room anymore for movies, like his, that stray over th
+[原文] &#8220;The Odyssey&#8221; ruled the South Korean box office during the weekend of Aug. 14–16. According to data from KOBIS, the tracking service operated by the Korean Film Council, the Christopher No
 
-📎 [阅读原文](https://variety.com/2026/film/reviews/the-end-of-tom-six-review-the-human-centipede-1236835608/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/box-office/korea-box-office-the-odyssey-outpaces-spider-man-brand-new-day-1236836058/) — *Variety*
 
-### 2. Noah Wyle Hopes David Ellison’s Threat to Move Paramount Out of California is ‘Saber Rattling’: ‘You’re Going to Take Hollywood Out of Hollywood’
+### 2. Former Costa Rican Film Commissioner Marysela Zamora: ‘I Believe That the Next Great Chapter in Audiovisual Media Will Be Written in Spanish’ (EXCLUSIVE)
 
-[原文] Noah Wyle is hoping David Ellison isn’t serious about moving Paramount out of California. “I hope this is saber rattling because I can&#8217;t think of anything that would less engender you to the pop
+[原文] Former Costa Rican Film Commissioner Marysela Zamora, who was instrumental in reviving the Costa Rica Media Market (CRMM) these past two years, will continue to serve on the Board of Directors of the 
 
-📎 [阅读原文](https://variety.com/2026/tv/columns/noah-wyle-david-ellison-move-paramount-out-of-california-1236835892/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/former-costa-rican-film-commissioner-marysela-zamora-1236835874/) — *Variety*
 
-### 3. Dwayne Johnson Leads Crowd in ‘Happy Birthday’ Song for Daughter Simone After Receiving Disney Legends Award at D23
+### 3. China Box Office: ‘Once Upon a Time in the Middle East’ Dominates With $70 Million Weekend as Christopher Nolan’s ‘The Odyssey’ Debuts Second
 
-[原文] Dwayne Johnson has been officially crowned a legend — a Disney Legend that is. On Sunday at D23, Johnson was honored with the hall-of-fame-style award from the Walt Disney Company. From &#8220;Jungle 
+[原文] Dirty Monkeys’ war comedy-drama &#8220;Once Upon a Time in the Middle East&#8221; took command of the mainland China box office during the Aug. 14–16 weekend, grossing RMB477.9 million ($70.3 million)
 
-📎 [阅读原文](https://variety.com/2026/film/news/dwayne-johnson-disney-legend-d23-emily-blunt-1236833908/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/box-office/china-box-office-once-upon-a-time-in-the-middle-east-the-odyssey-1236836046/) — *Variety*
 
-### 4. Bob Iger Gets All-Star Send-Off From Robert Downey Jr., Harrison Ford and New CEO Josh D’Amaro at D23 Disney Legends Ceremony
+### 4. Hollywood Failed Hayden Panettiere
 
-[原文] Bob Iger is officially a legend within the Disney kingdom. We can’t call it surprising that the media giant named its former CEO (twice over) to its hall of fame, but it’s certainly fitting. Iger, 75,
+[原文] Hayden Panettiere, the former child actress who grew up onscreen before our very eyes, passed away Sunday at the age of 36. She died five days before her 37th birthday. “It is with profound sadness th
 
-📎 [阅读原文](https://variety.com/2026/film/news/bob-iger-robert-downey-jr-harrison-ford-d23-disney-legends-1236835731/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/hayden-panettiere-death-hollywood-sexual-predators-1236836037/) — *Variety*
 
-### 5. Anne Hathaway Tears Up as She’s Named a Disney Legend (and Her 2026 Box Office Crosses $2 Billion): ‘I’m One of the Most Insanely Lucky People in the World’
+### 5. John Oliver Brutally Mocks Trump for Sacrificing Staff in Airplane-Swap Incident
 
-[原文] Shut up! Oscar winner Anne Hathaway is officially a Disney Legend. Hathaway was officially inducted into Disney&#8217;s hall of fame on Sunday afternoon during D23, the company&#8217;s weekend-long ul
+[原文] On Sunday night, the summer’s hottest soap opera star, John Oliver, opened the latest edition of his Emmy-winning HBO series “Last Week Tonight” by addressing Trump’s controversial airplane switcheroo
 
-📎 [阅读原文](https://variety.com/2026/film/news/anne-hathaway-disney-legend-d23-princess-diaries-devil-wears-prada-1236835727/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/john-oliver-mocks-trump-sacrificing-staff-airplane-swap-incident-iran-1236836013/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Avengers: Doomsday Trailer Sparks Theories About 2 Doctor Dooms as Fans Hope for a Surprise Cameo from Cillian Murphy
+### 1. Heroes Star Hayden Panettiere Dies at 36
+
+[原文] The former child actor’s entertainment career spanned three decades.
+
+📎 [阅读原文](https://www.ign.com/articles/heroes-star-hayden-panettiere-dies-at-36) — *IGN*
+
+### 2. Lanterns Showrunner Says That Episode 1 Surprise Ending Was ‘Big and Scary’ to Commit To
+
+[原文] Chris Mundy, the showrunner on James Gunn's new DC series Lanterns, says the surprise ending of Episode 1 was ‘big and scary’ to commit to.
+
+📎 [阅读原文](https://www.ign.com/articles/lanterns-showrunner-hbo-surprise-ending-kyle-chandler-hal-jordan-big-and-scary-to-commit-to) — *IGN*
+
+### 3. 'Look Forward to Meetin' Ya, Sugah!' — Rogue Voice Actress Lenore Zann Reacts to MCU X-Men Casting With Special Video Message for Inde Navarrette
+
+[原文] Lenore Zann, the voice of Rogue in animated Marvel projects since the '90s, published a special video to congratulate Inde Navarrette after she was confirmed to play the live-action version of her cha
+
+📎 [阅读原文](https://www.ign.com/articles/look-forward-to-meetin-ya-sugah-rogue-voice-actress-lenore-zann-reacts-to-mcu-x-men-casting-with-special-video-message-for-inde-navarrette) — *IGN*
+
+### 4. Avengers: Doomsday Trailer Sparks Theories About 2 Doctor Dooms as Fans Hope for a Surprise Cameo from Cillian Murphy
 
 [原文] The new Avengers: Doomsday trailer is here, and some fans believe it has a few clues that suggest the film is hiding two Doctor Dooms – and maybe even a cameo from Cillian Murphy.
 
 📎 [阅读原文](https://www.ign.com/articles/avengers-doomsday-trailer-sparks-theories-about-2-doctor-dooms-as-fans-hope-for-a-surprise-cameo-from-cillian-murphy) — *IGN*
 
-### 2. The Best Deals Today: Final Fantasy VII Rebirth for Switch 2, Nioh 3, Project Hail Mary, and More
+### 5. The Best Deals Today: Final Fantasy VII Rebirth for Switch 2, Nioh 3, Project Hail Mary, and More
 
 暂无摘要。
 
 📎 [阅读原文](https://www.ign.com/articles/best-deals-for-august-16-2026) — *IGN*
-
-### 3. Simu Liu Says Sleeping Dogs Movie Has 'a REAL Path Forward' Amid Dealmaking With Square Enix
-
-[原文] Marvel star Simu Liu has offered a positive update on his long-in-development Sleeping Dogs movie adaptation, saying the film has "a REAL path forward" as discussions with game publisher Square Enix c
-
-📎 [阅读原文](https://www.ign.com/articles/simu-liu-says-sleeping-dogs-movie-has-a-real-path-forward-amid-dealmaking-with-square-enix) — *IGN*
-
-### 4. Spider-Man: Brand New Day Becomes First Spider-Man Movie to Reach $2 Billion in Theaters
-
-[原文] Spider-Man: Brand New Day has officially crossed $2 billion at the global box office, marking the first time Marvel's wall-crawling hero has ever reached the theatrical landmark.
-
-📎 [阅读原文](https://www.ign.com/articles/spider-man-brand-new-day-becomes-first-spider-man-movie-to-reach-2-billion-in-theaters) — *IGN*
-
-### 5. The Best Handheld Gaming PCs to Take Your Games on the Go
-
-[原文] Play your favorite PC, Steam, and Xbox games on the go with the best handheld gaming PCs.
-
-📎 [阅读原文](https://www.ign.com/articles/best-handheld-gaming-pc) — *IGN*
 
 ---
 
@@ -439,35 +439,35 @@ The post Garmin Keeps Updating Old GPS Devices With New Maps. Here&#8217;s Why T
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Jay Weinberg Reveals He Didn’t Have ‘Legal Ability’ to Work With Other Artists: Part of Him ‘Was Dying’
+### 1. Watch Cynthia Erivo Join Ariana Grande to Perform ‘For Good’ in London
+
+[原文] The Wicked co-stars also sang a medley of “Get Happy" and "Happy Days Are Here Again" during Grande's show at the O2
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/ariana-grande-cynthia-erivo-for-good-wicked-live-london-1235609808/) — *Rolling Stone*
+
+### 2. Jay Weinberg Reveals He Didn’t Have ‘Legal Ability’ to Work With Other Artists: Part of Him ‘Was Dying’
 
 [原文] “Without giving too much attention to any kind of one situation, not having the legal ability to play music with other people was definitely difficult,” drummer says
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/jay-weinberg-legally-barred-collaborating-musicians-1235609752/) — *Rolling Stone*
 
-### 2. Watch Noah Kahan and Surprise Guest Chappell Roan Perform ‘California’ at Rose Bowl Stadium
+### 3. Watch Noah Kahan and Surprise Guest Chappell Roan Perform ‘California’ at Rose Bowl Stadium
 
 [原文] The musician played 27 songs at his sold-out The Great Divide tour stop in Pasadena, California on Saturday
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/noah-kahan-chappell-roan-perform-california-live-1235609738/) — *Rolling Stone*
 
-### 3. Selena Gomez’s Lawyer Calls Wondermind Suit ‘Meritless,’ Will File Motion to Dismiss ‘Baseless Claims’
+### 4. Selena Gomez’s Lawyer Calls Wondermind Suit ‘Meritless,’ Will File Motion to Dismiss ‘Baseless Claims’
 
 [原文] The singer, her mother Mandy Teefey, and their former business partner were sued by investors who claim they were misled by Gomez’s involvement
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/selena-gomez-wondermind-lawsuit-meritless-motion-to-dismiss-1235609673/) — *Rolling Stone*
 
-### 4. Frankie Valli Says ‘I Am Not Retired,’ His Brother Bobby Apologizes for Being ‘Misinformed’
+### 5. Frankie Valli Says ‘I Am Not Retired,’ His Brother Bobby Apologizes for Being ‘Misinformed’
 
 [原文] The 92-year-old singer took to social media to clarify his status after his brother said Frankie “will now retire”
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/frankie-valli-not-retired-brother-bobby-apologizes-1235609548/) — *Rolling Stone*
-
-### 5. Dave Marsh, Legendary Rock Biographer and Critic, Dead at 76
-
-[原文] Pioneering Creem and Rolling Stone journalist wrote essential biographies on the Who and Bruce Springsteen
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/dave-marsh-music-critic-biographer-dead-obit-1235609648/) — *Rolling Stone*
 
 ---
 
