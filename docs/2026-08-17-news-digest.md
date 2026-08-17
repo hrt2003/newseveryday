@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月17日** | 生成时间: 2026-08-17 02:33
+**2026年08月17日** | 生成时间: 2026-08-17 09:27
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Russia says at least seven killed in largest Ukrainian attack of 2026
+### 1. Trump says US to scale back military drills with South Korea after it stayed out of Iran war
+
+[原文] Trump cites his "very good relationship" with North Korea's leader in deciding to downsize the exercises.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Trump envoy Kushner meets Hamas leader to push Gaza peace plan
+
+[原文] The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. Russia says at least seven killed in largest Ukrainian attack of 2026
 
 [原文] Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Thousands displaced by deadly Indonesia earthquake as rescue efforts continue
+### 4. Two dead and hundreds evacuated after twin fires break out on Greek island
 
-[原文] Hundreds of homes and public buildings have been severely damaged with at least 53 people killed.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 3. Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist
-
-[原文] Officials say flash flooding may have swept away homes with people in them in worst-hit areas.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Twelve killed as Polish bus veers off Hungarian motorway
-
-[原文] Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Two dead and hundreds evacuated as twin fires break out on Greek island
-
-[原文] Nearly 200 firefighters are trying to keep the two fires apart on Salamina, Greek media report.
+[原文] About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Four 'extraordinary' Renaissance paintings stolen from Italian museum
+
+[原文] The works were taken overnight without alarms being triggered, raising suspicion of a professional hit.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Prediction markets and sports betting: How this UK exchange is trying to do both in the U.S.
+### 1. Japan second-quarter GDP grows 1.1% on an annualized basis, missing expectations
 
-[原文] Smarkets is entering the U.S. prediction market race but also applying to run as a sportsbook within states amid regulatory uncertainty at the federal level.
+[原文] On an annualized basis, Japan saw growth of 1.1%, against estimates of 2%.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/15/prediction-markets-and-sports-betting-how-this-uk-exchange-is-trying-to-do-both-in-the-us.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/17/japan-gdp-misses-estimates-trade-exports-yen-nikkei.html) — *CNBC*
 
-### 2. What the results of a Connecticut congressional primary race may mean for Social Security
+### 2. Top U.S. commander acknowledges mental health issues on USS Lincoln
+
+[原文] Cooper's visit and statement come after reports of widespread morale and mental health concerns aboard the Lincoln.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/16/top-us-commander-acknowledges-mental-health-issues-on-uss-lincoln.html) — *CNBC*
+
+### 3. What the results of a Connecticut congressional primary race may mean for Social Security
 
 [原文] Rep. John Larson of Connecticut, an advocate for expanding Social Security, was ousted in a Democratic primary contest Tuesday.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/16/social-security-john-larson-connecticut-primary.html) — *CNBC*
 
-### 3. Depleted strategic oil reserve nears level that raises concerns about damage to caverns, operations
+### 4. Depleted strategic oil reserve nears level that raises concerns about damage to caverns, operations
 
 [原文] The rapid drawdown of the U.S. Strategic Petroleum Reserve could damage the caverns that store the oil, experts warn.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/15/strategic-petroleum-reserve-spr-oil-iran-war-caverns.html) — *CNBC*
 
-### 4. Secret outperformer: Dispelling the 'myths' about an unloved stock market
+### 5. Secret outperformer: Dispelling the 'myths' about an unloved stock market
 
 [原文] European markets fly under the radar when compared with larger and more liquid U.S. markets, but Goldman Sachs offered to dispel some of the myths.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/16/goldman-stock-market-outperformance.html) — *CNBC*
-
-### 5. Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter
-
-[原文] The jump in revenue underscores the rapid growth of the Claude chatbot maker as it prepares for a potential blockbuster initial public offering.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’
+### 1. Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+
+
+[原文] OpenRouter's CEO recently described the startup as Stripe for AI.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/) — *TechCrunch*
+
+### 2. Why people aren’t buying Mark Zuckerberg’s AI future
+
+[原文] On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/) — *TechCrunch*
+
+### 3. Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’
 
 [原文] Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/) — *TechCrunch*
 
-### 2. TechCrunch Mobility: The shifting flight path of electric air taxis
+### 4. TechCrunch Mobility: The shifting flight path of electric air taxis
 
 [原文] Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/) — *TechCrunch*
 
-### 3. Woman claims her stepfather used Grok to transform childhood photo into explicit imagery
+### 5. Woman claims her stepfather used Grok to transform childhood photo into explicit imagery
 
 [原文] The woman claimed that AI tools are "taking everyday life and turning it into child sexual abuse."
 
 📎 [阅读原文](https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/) — *TechCrunch*
-
-### 4. Anthropic shares more details about how Claude’s new watermarks will work
-
-[原文] How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?
-
-📎 [阅读原文](https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/) — *TechCrunch*
-
-### 5. SpaceX officially closes its Cursor acquisition
-
-[原文] AI coding startup Cursor is now officially a part of SpaceX.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Belgian Pocognoli confirmed as Scotland boss
+### 1. History for Hunt and Asher-Smith in golden finish for GB
 
-[原文] The Scottish FA say they have appointed "one of Europe's brightest emerging coaching talents" by securing Sebastien Pocognoli as Scotland men's new head coach on a two-year deal.
+[原文] Amy Hunt and Dina Asher-Smith make history while Georgia Hunter Bell claims a commanding 1500m gold as Great Britain finish strongly at the European Championships.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cwyrre1qzwlo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/c30444dmqe0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. 'Probably my last year' - Ronaldo hints at retirement
+### 2. Barcelona agree £65m Rodri deal - who could replace him at Man City?
 
-[原文] Cristiano Ronaldo says this season will probably be his last as a player after a glittering football career.
+[原文] Barcelona agree a deal to sign Spain captain Rodri from Manchester City.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c3300lxjz7lo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cy0jj65r18yo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Rangers host Celtic in League Cup quarter-finals
+### 3. What awaits new Scotland head coach Pocognoli?
 
-[原文] Rangers will host Celtic in the Premier Sports Cup quarter-finals with Kilmarnock v Aberdeen the other all top-flight tie.
+[原文] Shifting the playing style, maintaining qualification for major tournaments and refreshing the squad await the new Scotland boss.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/clyjjp0k5rdo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cly995z1j8go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Oliveira dedicates Portugal stage win to Tarling family
+### 4. Nightmare Man City start for Maresca - are Arsenal really so far ahead?
 
-[原文] Rui Oliveira wins the final stage of the Volta a Portugal in his home city of Porto before dedicating the win to Finlay Tarling's family.
+[原文] Did Arsenal show just how far above Manchester City they are with their dominant Community Shield win?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cycling/articles/cy07720z94no?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c5y449kwq14o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Hollman leads Middlesex to first List A final for 36 years
+### 5. What has been the impact of new owners on The Hundred?
 
-[原文] Luke Hollman scores an unbeaten 83 to help Middlesex stun Durham with a two-wicket win in their One-Day Cup semi-final to reach their first List A decider since 1990.
+[原文] BBC Sport looks at the impact new owners have had on The Hundred as the first season since private stakes were sold in teams ends.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c4g48y40e0lo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cy4kknnpyvvo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘The Sopranos’ Star Drea de Matteo Says Starting an OnlyFans Was a ‘Political Statement’: ‘F— You. I Don’t Have to Work’
+### 1. ‘The End of Tom Six’ Review: The Director of the ‘Human Centipede’ Films Has Multiple Sclerosis and Is Sharing the Horror. This Confessional Doc Is His Witty Self-Defense
 
-[原文] “The Sopranos” star Drea de Matteo recently told Jamie Kennedy on the “Hate to Break It To Ya” podcast (via EW) that starting her OnlyFans page was a “political statement.” “In some ways, the OnlyFans
+[原文] "The End of Tom Six" is a self-styled confessional memoir in which Six fuses his life and career and illness into a parable. He’s asking: Is there room anymore for movies, like his, that stray over th
 
-📎 [阅读原文](https://variety.com/2026/tv/news/the-sopranos-drea-de-matteo-onlyfans-political-statement-1236835657/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/reviews/the-end-of-tom-six-review-the-human-centipede-1236835608/) — *Variety*
 
-### 2. Dolly Parton Skips Dollywood Ride Opening Amid Ongoing Health Problems: ‘My Nashville Doctor Has Kinda Clipped My Wings’
+### 2. Noah Wyle Hopes David Ellison’s Threat to Move Paramount Out of California is ‘Saber Rattling’: ‘You’re Going to Take Hollywood Out of Hollywood’
 
-[原文] Dolly Parton was unable to attend the opening of NightFlight Expedition at Dollywood on Friday due to ongoing &#8220;health issues.&#8221; Dollywood President Eugene Naughton shared a pre-recorded vid
+[原文] Noah Wyle is hoping David Ellison isn’t serious about moving Paramount out of California. “I hope this is saber rattling because I can&#8217;t think of anything that would less engender you to the pop
 
-📎 [阅读原文](https://variety.com/2026/music/news/dolly-parton-skips-dollywood-opening-health-issues-1236835632/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/columns/noah-wyle-david-ellison-move-paramount-out-of-california-1236835892/) — *Variety*
 
-### 3. Paul Mescal, Joseph Quinn, Barry Keoghan and Harris Dickinson Spotted Filming Beatles Biopic at Iconic Abbey Road Crosswalk
+### 3. Dwayne Johnson Leads Crowd in ‘Happy Birthday’ Song for Daughter Simone After Receiving Disney Legends Award at D23
 
-[原文] It wouldn’t be a Beatles movie without Abbey Road. In a video shared on social media, Harris Dickinson, Paul Mescal, Joseph Quinn and Barry Keoghan were shown recreating the iconic album cover for Sam
+[原文] Dwayne Johnson has been officially crowned a legend — a Disney Legend that is. On Sunday at D23, Johnson was honored with the hall-of-fame-style award from the Walt Disney Company. From &#8220;Jungle 
 
-📎 [阅读原文](https://variety.com/2026/film/news/paul-mescal-barry-keoghan-filming-beatles-biopic-abbey-road-1236835628/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/dwayne-johnson-disney-legend-d23-emily-blunt-1236833908/) — *Variety*
 
-### 4. Box Office: ‘Spider-Man: Brand New Day’ Remains No. 1 With $70 Million, ‘End of Oak Street’ Debuts to $21 Million
+### 4. Bob Iger Gets All-Star Send-Off From Robert Downey Jr., Harrison Ford and New CEO Josh D’Amaro at D23 Disney Legends Ceremony
 
-[原文] Dog days of summer? This year&#8217;s August at the box office didn&#8217;t get the memo. This popcorn season is ending with a bang rather than the usual whimper as &#8220;Spider-Man: Brand New Day&#8
+[原文] Bob Iger is officially a legend within the Disney kingdom. We can’t call it surprising that the media giant named its former CEO (twice over) to its hall of fame, but it’s certainly fitting. Iger, 75,
 
-📎 [阅读原文](https://variety.com/2026/film/box-office/spiderman-box-office-brand-new-day-dominates-end-of-oak-street-debut-1236834084/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/bob-iger-robert-downey-jr-harrison-ford-d23-disney-legends-1236835731/) — *Variety*
 
-### 5. ‘Spider-Man: Brand New Day’ Hits $2 Billion Worldwide in Three Weeks
+### 5. Anne Hathaway Tears Up as She’s Named a Disney Legend (and Her 2026 Box Office Crosses $2 Billion): ‘I’m One of the Most Insanely Lucky People in the World’
 
-[原文] New day, new box office milestone for Sony&#8217;s latest Spidey adventure. &#8220;Spider-Man: Brand New Day&#8221; has surpassed $2 billion in global ticket sales, eclipsing the rare benchmark after 
+[原文] Shut up! Oscar winner Anne Hathaway is officially a Disney Legend. Hathaway was officially inducted into Disney&#8217;s hall of fame on Sunday afternoon during D23, the company&#8217;s weekend-long ul
 
-📎 [阅读原文](https://variety.com/2026/film/box-office/spider-man-brand-new-day-2-billion-worldwide-box-office-second-fastest-milestone-1236834058/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/anne-hathaway-disney-legend-d23-princess-diaries-devil-wears-prada-1236835727/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Disney Experiences Showcase: Everything Announced for Disney Parks, Disney Cruise Line, and More | D23 2026
+### 1. Avengers: Doomsday Trailer Sparks Theories About 2 Doctor Dooms as Fans Hope for a Surprise Cameo from Cillian Murphy
 
-[原文] Here are all the big reveals from D23's Disney Experiences Showcase, including the name and major attractions of Villains Land, new details on the rides and land of the Cars-themed Piston Peak Nationa
+[原文] The new Avengers: Doomsday trailer is here, and some fans believe it has a few clues that suggest the film is hiding two Doctor Dooms – and maybe even a cameo from Cillian Murphy.
 
-📎 [阅读原文](https://www.ign.com/articles/disney-experiences-showcase-at-d23-2026-everything-announced-for-disney-parks-disney-cruise-line-and-more) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/avengers-doomsday-trailer-sparks-theories-about-2-doctor-dooms-as-fans-hope-for-a-surprise-cameo-from-cillian-murphy) — *IGN*
 
-### 2. 'I Want to Set the Record Straight: That Is Not Happening' — Kingdom Hearts 4 Devs Say KH4 '100%' Will Not Be Delayed Past Late 2027 Launch | D23 2026
+### 2. The Best Deals Today: Final Fantasy VII Rebirth for Switch 2, Nioh 3, Project Hail Mary, and More
 
-[原文] Kingdom Hearts 4 co-director Tai Yasue and series creator Tetsuya Nomura have assured fans that it is a "100% thing" the game will not be delayed past its late 2027 launch window.
+暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/i-want-to-set-the-record-straight-that-is-not-happening-kingdom-hearts-4-devs-say-kh4-100-will-not-be-delayed-past-late-2027-launch-d23-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/best-deals-for-august-16-2026) — *IGN*
 
-### 3. Kingdom Hearts 4 Gets Extended Gameplay Trailer Featuring Playable Mickey, Donald, and Goofy | D23 2026
+### 3. Simu Liu Says Sleeping Dogs Movie Has 'a REAL Path Forward' Amid Dealmaking With Square Enix
 
-[原文] Disney and Square Enix showed up for the Deep Dive into Kingdom Hearts panel at D23 2026 to show off an extended gameplay trailer for Kingdom Hearts 4 that features a first look at a playable King Mic
+[原文] Marvel star Simu Liu has offered a positive update on his long-in-development Sleeping Dogs movie adaptation, saying the film has "a REAL path forward" as discussions with game publisher Square Enix c
 
-📎 [阅读原文](https://www.ign.com/articles/kingdom-hearts-4-gets-extended-gameplay-trailer-featuring-playable-mickey-donald-and-goofy-d23-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/simu-liu-says-sleeping-dogs-movie-has-a-real-path-forward-amid-dealmaking-with-square-enix) — *IGN*
 
-### 4. Star Wars: Smuggler's Gambit Lets You Keep Helping Hondo Ohnaka in Fortnite After You Leave Disneyland
+### 4. Spider-Man: Brand New Day Becomes First Spider-Man Movie to Reach $2 Billion in Theaters
 
-[原文] Smuggler's Gambit in Fortnite lets you continue the Smuggler's Run experience by expanding it into a PvE multiplayer online game with your friends. You can also do the opposite by scanning a QR code a
+[原文] Spider-Man: Brand New Day has officially crossed $2 billion at the global box office, marking the first time Marvel's wall-crawling hero has ever reached the theatrical landmark.
 
-📎 [阅读原文](https://www.ign.com/articles/star-wars-smugglers-gambit-lets-you-keep-helping-hondo-ohnaka-in-fortnite-after-you-leave-disneyland) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/spider-man-brand-new-day-becomes-first-spider-man-movie-to-reach-2-billion-in-theaters) — *IGN*
 
-### 5. Tetsuya Nomura Teases Involvement in Kingdom Hearts Anime Series, Tells Fans to Let Their 'Imagination Run Wild' | D23 2026
+### 5. The Best Handheld Gaming PCs to Take Your Games on the Go
 
-[原文] Kingdom Hearts creator Tetsuya Nomura has one message for fans when it comes to its mysterious new Disney+ anime series: "Please let your imagination run wild."
+[原文] Play your favorite PC, Steam, and Xbox games on the go with the best handheld gaming PCs.
 
-📎 [阅读原文](https://www.ign.com/articles/tetsuya-nomura-teases-involvement-in-kingdom-hearts-anime-series-tells-fans-to-let-their-imagination-run-wild-d23-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/best-handheld-gaming-pc) — *IGN*
 
 ---
 
@@ -439,35 +439,35 @@ The post Garmin Keeps Updating Old GPS Devices With New Maps. Here&#8217;s Why T
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Watch Noah Kahan and Surprise Guest Chappell Roan Perform ‘California’ at Rose Bowl Stadium
+### 1. Jay Weinberg Reveals He Didn’t Have ‘Legal Ability’ to Work With Other Artists: Part of Him ‘Was Dying’
+
+[原文] “Without giving too much attention to any kind of one situation, not having the legal ability to play music with other people was definitely difficult,” drummer says
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/jay-weinberg-legally-barred-collaborating-musicians-1235609752/) — *Rolling Stone*
+
+### 2. Watch Noah Kahan and Surprise Guest Chappell Roan Perform ‘California’ at Rose Bowl Stadium
 
 [原文] The musician played 27 songs at his sold-out The Great Divide tour stop in Pasadena, California on Saturday
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/noah-kahan-chappell-roan-perform-california-live-1235609738/) — *Rolling Stone*
 
-### 2. Selena Gomez’s Lawyer Calls Wondermind Suit ‘Meritless,’ Will File Motion to Dismiss ‘Baseless Claims’
+### 3. Selena Gomez’s Lawyer Calls Wondermind Suit ‘Meritless,’ Will File Motion to Dismiss ‘Baseless Claims’
 
 [原文] The singer, her mother Mandy Teefey, and their former business partner were sued by investors who claim they were misled by Gomez’s involvement
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/selena-gomez-wondermind-lawsuit-meritless-motion-to-dismiss-1235609673/) — *Rolling Stone*
 
-### 3. Frankie Valli Says ‘I Am Not Retired,’ His Brother Bobby Apologizes for Being ‘Misinformed’
+### 4. Frankie Valli Says ‘I Am Not Retired,’ His Brother Bobby Apologizes for Being ‘Misinformed’
 
 [原文] The 92-year-old singer took to social media to clarify his status after his brother said Frankie “will now retire”
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/frankie-valli-not-retired-brother-bobby-apologizes-1235609548/) — *Rolling Stone*
 
-### 4. Dave Marsh, Legendary Rock Biographer and Critic, Dead at 76
+### 5. Dave Marsh, Legendary Rock Biographer and Critic, Dead at 76
 
 [原文] Pioneering Creem and Rolling Stone journalist wrote essential biographies on the Who and Bruce Springsteen
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/dave-marsh-music-critic-biographer-dead-obit-1235609648/) — *Rolling Stone*
-
-### 5. Matthew McConaughey’s Life in Songs Has Taken Him Everywhere
-
-[原文] While sitting down to discuss the songs that have defined his life, the actor recalls a life-changing trip to Africa, the time he considered becoming a monk, picking up songs from his brother, and mor
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/matthew-mcconaughey-life-in-songs-1235609364/) — *Rolling Stone*
 
 ---
 
