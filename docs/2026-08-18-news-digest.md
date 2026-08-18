@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月18日** | 生成时间: 2026-08-18 02:43
+**2026年08月18日** | 生成时间: 2026-08-18 09:23
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Meta faces ‘astronomical’ consequences as legal fight reaches critical moment in California
-
-[原文] Meta faces a federal trial over child safety claims that could bring major financial penalties and changes to Facebook and Instagram.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html) — *CNBC*
-
-### 2. 30-year Treasury yield tops 5.31%, the highest in 19 years
+### 1. 30-year Treasury yield tops 5.31%, the highest in 19 years
 
 [原文] Treasury yields were higher as traders awaited the latest FOMC minutes due later this week.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/17/treasury-yields-federal-reserve-fomc-minutes.html) — *CNBC*
 
-### 3. Paramount seeks $1.88 billion bond from state AGs to cover costs of WBD merger delay
-
-[原文] Paramount agreed to delay its proposed acquisition of WBD to as late as June 2027 while the state AGs' case heads to trial.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/17/paramount-bond-merger-delay-costs.html) — *CNBC*
-
-### 4. Trump threatens to 'bomb' Oman if it 'gets in the way' as U.S.-Iran ceasefire expires
+### 2. Trump won't extend Iran ceasefire, threatens to 'bomb' Oman if it 'gets in the way'
 
 [原文] Shipping traffic in the Strait of Hormuz sank to a new low as a ceasefire between the U.S. and Iran is set to expire on Monday with no deal in sight.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html) — *CNBC*
 
-### 5. Nvidia backing $105 billion in financing for OpenAI data center in Ohio
+### 3. Lakers governor Jeanie Buss says siblings cannot sell family’s stake to Bob Iger, Joshua Kushner
 
-[原文] Technology giants are shelling out billions to scale capacity to meet massive data center demand.
+[原文] Jeanie Buss's lawyer says she has not agreed to sell the team and that any vote suggesting the Buss family is selling "would be and is void."
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/17/jeanie-buss-opposes-sale-family-stake.html) — *CNBC*
+
+### 4. Meta faces ‘astronomical’ consequences as legal fight reaches critical moment in California
+
+[原文] Meta faces a federal trial over child safety claims that could bring major financial penalties and changes to Facebook and Instagram.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html) — *CNBC*
+
+### 5. 'Absolutely crazy': Here's what South Korean stock investors are doing in U.S. markets
+
+[原文] South Korean stock investors have made 'absolutely crazy' bets as they flee their home market, while global investors pile in.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/18/korean-stock-investors-flee-bruising-home-market-pile-into-us.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Reddit begins testing a new audio and video experience, similar to popular TikTok videos
+### 1. Anthropic’s annualized revenue surges to $65B
 
-[原文] Reddit is beginning to test video and audio versions of popular posts, allowing users to watch or listen to Reddit stories instead of just reading them.
+[原文] The model maker added $18 billion in annualized revenue in two months.
 
-📎 [阅读原文](https://techcrunch.com/2026/08/17/reddit-begins-testing-a-new-audio-and-video-experience-similar-to-popular-tiktok-videos/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/) — *TechCrunch*
 
-### 2. Sound-powered fire protection startup gets $15M to snuff out fires before they turn catastrophic
+### 2. AI automation startup Relay shuts down, staff joins Google’s Chrome team
 
-[原文] Sonic Fire Protection raised its new funding to help get its sound-powered fire protection system into everything from commercial kitchens to apartment buildings.
+[原文] "We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon," Jacob Bank, Relay founder and CEO, said.
 
-📎 [阅读原文](https://techcrunch.com/2026/08/17/sound-powered-fire-protection-startup-gets-15m-to-snuff-out-fires-before-they-turn-catastrophic/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/) — *TechCrunch*
 
-### 3. YouTube will now count a view as soon as a video starts playing
+### 3. ‘Unprecedented’ number of Apple users received recent spyware alert, say investigators
 
-[原文] The change comes a year after YouTube applied the same approach to counting views on Shorts videos.
+[原文] Cybersecurity experts who investigate spyware attacks say the number of people who received a recent threat notification from Apple is unusually high.
 
-📎 [阅读原文](https://techcrunch.com/2026/08/17/youtube-will-now-count-a-view-as-soon-as-a-video-starts-playing/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/08/17/unprecedented-number-of-apple-users-received-recent-spyware-alert-say-investigators/) — *TechCrunch*
 
-### 4. Feedly attributes weeklong slowdown to bug, not its AI pivot
+### 4. Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21
 
-[原文] Feedly says a bug is behind the performance issues that have made its web app nearly "unusable" for some users, while complaints about its mobile apps and customer support are adding to frustrations.
+[原文] If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at
 
-📎 [阅读原文](https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/08/17/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/) — *TechCrunch*
 
-### 5. Amazon, which started off selling books, is destroying rare texts to train AI
+### 5. Spotify’s new Playlist Notes let users and editors explain their song picks
 
-[原文] Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.
+[原文] Spotify launches a new feature that gives users a chance to explain the stories and reasoning behind their favorite music. Editors will be using the feature, too, on top playlists like RapCaviar and o
 
-📎 [阅读原文](https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/08/17/spotifys-new-playlist-notes-let-users-and-editors-explain-their-song-picks/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Man City move for £85m Bouaddi and still want Fernandez
+### 1. Top Fifa official sacked after Infantino plan criticism
+
+[原文] Senior Fifa figure Kevin Lamour is sacked by football's world governing body three weeks after criticising its president Gianni Infantino.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. Guardiola-Walker fallout revealed in new documentary
+
+[原文] A new documentary series about Pep Guardiola's final two seasons at Manchester City reveals the bust-up he had with former captain Kyle Walker.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c62xj5evpjpo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. LIV cancels final event to focus on 'next chapter'
+
+[原文] LIV Golf cancels its Team Championships in Michigan after weeks of speculation, saying it needs to focus on "building its next chapter".
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/c7vg4rn7v6ro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. Man City move for £85m Bouaddi and still want Fernandez
 
 [原文] Manchester City are in advanced talks with Lille over a move for Morocco midfielder Ayyoub Bouaddi.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cd7l9n4qnlno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Youthful Pocognoli the brave choice for Scotland job
+### 5. Rodri lands in Barcelona to complete 'dream' move
 
-[原文] The Scottish FA are all-in on Sebastien Pocognoli, 39, showing bravery and ambition - what everybody wanted, writes Tom English.
+[原文] Spain midfielder Rodri says it is his "dream" to play for Barcelona as he arrives in the city to complete his move from Manchester City.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c8dn39n6np2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 3. Man Utd will reject any bid for Fernandes
-
-[原文] Manchester United have no intention of selling captain Bruno Fernandes despite Turkish club Galatasaray being prepared to lodge a bid for the 31-year-old later this week.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/clyj7rn31dpo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. 'Are you not entertained?' - Hunt enters stardom with iconic quadruple
-
-[原文] Amy Hunt asserts herself as Great Britain's new track sensation after winning an unprecedented four gold medals at the European Athletics Championships.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/clyqqxgrdqqo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. What England can expect from captain Root
-
-[原文] What can England expect from Joe Root's leadership, based on his first full-time spell in charge?
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c934w4828vyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cevmw02j4nyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Paramount Requests States and WGA Be Required to Post $1.9 Billion Bond to Cover Financial Losses While Warner Bros. Merger Is Stuck on Hold Pending Trial
+### 1. David F. Sandberg to Direct Horror Movie ‘Mommy’s Home’ For Lionsgate
 
-[原文] David Ellison&#8217;s Paramount Skydance asked the judge overseeing the antitrust lawsuits filed by 12 states and the WGA to force the plaintiffs to pony up a whopping $1.88 billion bond to cover the 
+[原文] David F. Sandberg has been tapped to direct a new psychological horror movie, &#8220;Mommy&#8217;s Home,&#8221; for Lionsgate. From screenwriter James Morosini, &#8220;Mommy&#8217;s Home&#8221; follow
 
-📎 [阅读原文](https://variety.com/2026/film/news/paramount-requests-1-9-billion-bond-state-lawsuit-warner-bros-merger-1236836420/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/david-f-sandberg-direct-mommys-home-lionsgate-1236836858/) — *Variety*
 
-### 2. BINI, SB19 and Lea Salonga Lead ‘Forgotten Island’ Soundtrack (EXCLUSIVE)
+### 2. LISTEN: How Chris Carter Got a Second Shot at ‘The X-Files: I Want to Believe’ Film
 
-[原文] The full track listing for Dreamworks Animation’s “Forgotten Island&#8221; has been revealed. SB19, BINI and Lea Salonga are among the artists leading the soundtrack. As previously revealed, H.E.R. an
+[原文] On today&#8217;s episode of &#8220;Daily Variety&#8221; podcast, &#8220;The X-Files&#8221; creator Chris Carter explains to Variety’s Michael Schneider how he got the chance to do a director’s cut of 
 
-📎 [阅读原文](https://variety.com/2026/artisans/news/bini-sb19-lea-salonga-lead-forgotten-island-full-tracklist-1236836531/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/chris-carter-x-files-i-want-to-believe-directors-cut-1236836849/) — *Variety*
 
-### 3. Taylor Swift Praises Phoebe Bridgers’ New Album ‘Lost Weekend,’ Calls It an ‘Absolute Triumph in Every Way’
+### 3. ‘Furious’ Star Steve Way on the Beauty of ‘Disabled Love’ and the Difficulty of Navigating Hollywood Without a Team: ‘I Want an Agency to Whore Me Out’
 
-[原文] Taylor Swift has spoken out about her love of Phoebe Bridgers&#8217; new album &#8220;Lost Weekend,&#8221; praising the singer-songwriter for her &#8220;absolute triumph&#8221; of a record. Swift, who
+[原文] It’s uncommon to meet an actor bold enough to call Ari Emanuel, the executive chairman of WME Group and one of the most powerful people in Hollywood, a “prick” on the record. But it’s also uncommon to
 
-📎 [阅读原文](https://variety.com/2026/music/news/taylor-swift-praises-phoebe-bridgers-lost-weekend-triumph-1236836547/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/furious-steve-way-disability-hollywood-serial-killer-romance-1236836217/) — *Variety*
 
-### 4. Øya Festival 2026: The 10 Best Sets We Saw, From the Cure to Geese to Lily Allen
+### 4. ‘Friday the 13th’ Prequel Series ‘Crystal Lake’ Is ‘Gory’ and ‘Gross’ With ‘Blood Everywhere,’ Says Star Linda Cardellini
 
-[原文] Not many festival lineups are as stacked — and sonically diverse — as Øyafestivalen in Oslo, Norway. Over four days at Tøyen Park in the center of the city, there was truly something for everyone. Got
+[原文] “Crystal Lake” star Linda Cardellini is teasing the upcoming “Friday the 13th” prequel television series. Cardellini stars in the Peacock series as the franchise antagonist Pamela Voorhees. The show, 
 
-📎 [阅读原文](https://variety.com/lists/oyafestivalen-2026-best-sets-the-cure-geese-lily-allen/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/columns/crystal-lake-linda-cardellini-friday-the-13th-prequel-series-gory-gross-blood-1236836771/) — *Variety*
 
-### 5. Instagram Head of Product Design Explains Thinking Behind That New Logo and Responds to Critics: ‘It’s Important for Us to Embrace the Future’
+### 5. ‘Spy Kids’ Actor Alexa PenaVega Shares Heartbreak After Deaths of Fellow Child Stars Hayden Panettiere, Michelle Trachtenberg and Daveigh Chase: ‘Hug Your People Close Today’
 
-[原文] Instagram rolled out a new logo last week &#8212; which instantly drew jeers from some users. One of the top criticisms was that the cursive-style &#8220;s&#8221; in the updated wordmark confusingly l
+[原文] Alexa PenaVega&#8217;s &#8220;heart is heavy&#8221; after the death of Hayden Panettiere, most notably because it marks the third passing of a fellow child star in 2026. The &#8220;Spy Kids&#8221; act
 
-📎 [阅读原文](https://variety.com/2026/digital/news/instagram-designer-explains-new-logo-responds-to-critics-1236836340/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/alexa-vega-child-actor-deaths-hayden-panettiere-trachtenberg-1236836669/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. You Can Now Buy Digital Video Games on DoorDash
+### 1. Amazon's Game of Thrones T-Shirt Sale Has Some Great House of the Dragon Designs
 
 暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/you-can-now-buy-digital-video-games-on-doordash) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/game-of-thrones-house-of-the-dragon-t-shirt-sale-august-2026) — *IGN*
 
-### 2. Tributes to Hayden Panettiere Pour in From Scream Co-Stars, Plus Fans of Kingdom Hearts and Until Dawn
+### 2. The 65" Samsung S90F 4K QD-OLED TV Drops to $1,198 with Free Shipping on Amazon
 
-[原文] Fans, friends, and co-stars have flooded social media with tributes as they remember Kingdom Hearts and Scream actress Hayden Panettiere.
+[原文] We picked the S90F as the best gaming TV in 2026.
 
-📎 [阅读原文](https://www.ign.com/articles/tributes-to-hayden-panettiere-pour-in-from-scream-co-stars-plus-fans-of-kingdom-hearts-and-until-dawn) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/samsung-s65f-4k-oled-tv-deal-august-2026) — *IGN*
 
-### 3. Supreme’s 2026 Fall/Winter Collection Features a 24K Gold Analogue Pocket
+### 3. US Army Battalion Reportedly Giving Soldiers Time Off to Play GTA 6 in Exchange for Reenlisting
 
-[原文] Streetwear brand Supreme has unveiled its Fall/Winter 2026 collection, and it features a collab with Analogue Pocket, the fantastic retro handheld that lets you play your Game Boy cartridges on FPGA-b
+[原文] A battalion in the United States Army is reportedly offering soldiers four days off to let them play Grand Theft Auto 6 when it releases this November if they reenlist.
 
-📎 [阅读原文](https://www.ign.com/articles/supremes-2026-fall-winter-collection-features-a-24k-gold-analogue-pocket) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/us-army-battalion-reportedly-giving-soldiers-time-off-to-play-gta-6-in-exchange-for-reenlisting) — *IGN*
 
-### 4. Fortnite Goes 32-Bit to Reveal New Gaming Legend Season With Legally Distinct Mario Kart, Mortal Kombat Parodies, Plus Actual Sonic the Hedgehog
+### 4. Save $900 Off the Asus ROG Flow Z13 Ultra-Portable Gaming Laptop During the Best Buy Anniversary Sale
 
-[原文] Fortnite has shown off its character roster for Overdrive, the battle royale's upcoming season themed around legendary video games.
+[原文] This 2.56 pound convertible is better at gaming than most full-sized laptops.
 
-📎 [阅读原文](https://www.ign.com/articles/fortnite-goes-32-bit-to-reveal-new-gaming-legend-season-with-legally-distinct-mario-kart-mortal-kombat-parodies-plus-actual-sonic-the-hedgehog) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/asus-rog-flow-z13-ultra-portable-gaming-laptop-deal-bestbuy-anniversary-sale) — *IGN*
 
-### 5. The Complete Calvin and Hobbes Collection Gets Huge Discount With Amazon Coupon, Dropping It Below $100
+### 5. YouTube Reveals View Count Changes That Will Track Views The Instant Someone Hits Play on a Video
 
-[原文] The Complete Calvin and Hobbes Collection has received a huge 59% discount at Amazon with the help of a coupon on the store page, dropping it from $225 to $93.10.
+[原文] YouTube has revealed a new view count update that will see videos accumulate views the instant someone hits play.
 
-📎 [阅读原文](https://www.ign.com/articles/the-complete-calvin-and-hobbes-collection-amazon-deal-august-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/youtube-reveals-view-count-changes-that-will-track-views-the-instant-someone-hits-play-on-a-video) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Toyota Says US Allocation of GR GT Supercar Is Already Sold Out ‘By Design’
+### 1. See and Hear Ford’s First Le Mans Prototype in 60 Years Finally Hit the Track
+
+[原文] Ford's new V8-powered racer will follow in the GT40's footsteps and challenge for overall victory at Le Mans next year.
+The post See and Hear Ford&#8217;s First Le Mans Prototype in 60 Years Finally H
+
+📎 [阅读原文](https://www.thedrive.com/news/see-and-hear-fords-first-le-mans-prototype-in-60-years-hit-the-track-for-the-first-time) — *The Drive*
+
+### 2. Toyota Says US Allocation of GR GT Supercar Is Already Sold Out ‘By Design’
 
 [原文] Toyota is only interested in selling its newest supercar to "people who are going to drive it," and not flippers.
 The post Toyota Says US Allocation of GR GT Supercar Is Already Sold Out &#8216;By Des
 
 📎 [阅读原文](https://www.thedrive.com/news/toyota-says-us-allocation-of-gr-gt-supercar-is-already-sold-out-by-design) — *The Drive*
 
-### 2. ‘Hit It With A Hammer:’ Toyota’s Actual Official Procedure for Diagnosing Recalled V6 Engines
+### 3. ‘Hit It With A Hammer:’ Toyota’s Actual Official Procedure for Diagnosing Recalled V6 Engines
 
 [原文] With the strike of a hammer, Toyota can tell if your engine will face trouble down the line—and the test is a lot more high-tech than it looks.
 The post &#8216;Hit It With A Hammer:&#8217; Toyota&#821
 
 📎 [阅读原文](https://www.thedrive.com/news/hit-it-with-a-hammer-toyotas-actual-official-procedure-for-diagnosing-recalled-v6-engines) — *The Drive*
 
-### 3. The Famously Front-Wheel-Drive Mini Cooper May Not Stay That Way for Long
+### 4. The Famously Front-Wheel-Drive Mini Cooper May Not Stay That Way for Long
 
 [原文] BMW's new EV platform may require the next Mini to go rear-drive for the first time in the iconic hatch's history.
 The post The Famously Front-Wheel-Drive Mini Cooper May Not Stay That Way for Long ap
 
 📎 [阅读原文](https://www.thedrive.com/news/the-famously-front-wheel-drive-mini-cooper-may-not-stay-that-way-for-long) — *The Drive*
 
-### 4. The Jeep Cherokee Just Returned Only to Be Replaced in 3 Years: TDS
+### 5. The Jeep Cherokee Just Returned Only to Be Replaced in 3 Years: TDS
 
 [原文] Stellantis is planning to introduce a next-gen Jeep Cherokee in a remarkably short amount of time, built in the U.S. using a different architecture.
 The post The Jeep Cherokee Just Returned Only to Be
 
 📎 [阅读原文](https://www.thedrive.com/news/the-jeep-cherokee-just-returned-only-to-be-replaced-in-3-years-tds) — *The Drive*
-
-### 5. Brembo’s New Six-Piston Brake Caliper Is Its Most Powerful Ever
-
-[原文] That stopping power will be put to good use in big trucks and SUVs.
-The post Brembo&#8217;s New Six-Piston Brake Caliper Is Its Most Powerful Ever appeared first on The Drive.
-
-📎 [阅读原文](https://www.thedrive.com/news/brembos-new-six-piston-brake-caliper-is-its-most-powerful-ever) — *The Drive*
 
 ---
 
@@ -363,35 +363,35 @@ The post Brembo&#8217;s New Six-Piston Brake Caliper Is Its Most Powerful Ever a
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. As Temperatures Get Hotter, Pesticides Are More Dangerous to Farmworkers
+### 1. Canada Bets Big on Hydro and Wind Power
+
+[原文] Canadian Prime Minister Mark Carney said the country will build the largest clean energy investment in North America’s history—a package of hydropower, onshore wind and transmission projects aimed at 
+
+📎 [阅读原文](https://insideclimatenews.org/news/17082026/canada-hydro-wind-power-investments/) — *Inside Climate News*
+
+### 2. As Temperatures Get Hotter, Pesticides Are More Dangerous to Farmworkers
 
 [原文] For the nation’s 2.4 million farmworkers, climate change is poised to exacerbate the harms of pesticides, a growing body of research shows. Heat stresses the body, making it more vulnerable to pestici
 
 📎 [阅读原文](https://insideclimatenews.org/news/17082026/florida-heat-amplifies-pesticides-dangers-for-farmworkers/) — *Inside Climate News*
 
-### 2. Offshore Wind Will Struggle Long After Trump’s Attacks
+### 3. Offshore Wind Will Struggle Long After Trump’s Attacks
 
 [原文] The United States had a vision: Offshore wind would produce enough energy to power over 10 million homes by 2030.&#160; But five years after the Biden administration’s ambitious proposal, President Do
 
 📎 [阅读原文](https://insideclimatenews.org/news/17082026/offshore-wind-will-struggle-after-trump/) — *Inside Climate News*
 
-### 3. Public Lands Are at the Forefront of Wyoming’s Primaries
+### 4. Public Lands Are at the Forefront of Wyoming’s Primaries
 
 [原文] Wyoming’s cherished open spaces appear to be at the forefront of voters’ minds as they head to the polls in an election that could decide whether public lands continue to come under scrutiny from stat
 
 📎 [阅读原文](https://insideclimatenews.org/news/17082026/wyoming-public-lands-forefront-of-elections/) — *Inside Climate News*
 
-### 4. Empowering Guatemalan Villagers Plagued by Plastic
+### 5. Empowering Guatemalan Villagers Plagued by Plastic
 
 [原文] This story was supported by the Pulitzer Center. JALAPA, Guatemala—On a hot, muggy afternoon in the small mountain village of El Duraznal, Soila Elizabeth Cruz carefully reached under the slats of a b
 
 📎 [阅读原文](https://insideclimatenews.org/news/16082026/project-aims-to-help-guatemalans-plagued-by-plastic-pollution/) — *Inside Climate News*
-
-### 5. In South America, Chinese EVs Are Racing Ahead
-
-[原文] Planet China:&#160;Fifteenth in a series about how Beijing’s trillion-dollar development plan is reshaping the globe—and the natural world. CÓRDOBA, Argentina—Franco Bornancini’s iPhone buzzed relentl
-
-📎 [阅读原文](https://insideclimatenews.org/news/16082026/china-evs-dominate-south-america-market/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post Brembo&#8217;s New Six-Piston Brake Caliper Is Its Most Powerful Ever a
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Tupac Shakur Murder Trial Opens 30 Years After Rapper’s Death: ‘An Act of Revenge’
+### 1. Taylor Swift Can’t Stop Listening to Phoebe Bridgers’ New Album
 
-[原文] Jurors will decide whether Duane "Keffe D" Davis played a role in the deadly drive-by shooting that killed  Tupac Shakur in September 1996
+[原文] The pop superstar celebrated Bridgers' birthday and called Lost Weekend "an absolute triumph" in new social media post
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/taylor-swift-loves-phoebe-bridgers-new-album-lost-weekend-1235610254/) — *Rolling Stone*
+
+### 2. Tupac Shakur Murder Trial Opens 30 Years After Rapper’s Death: ‘An Act of Revenge’
+
+[原文] Jurors will decide whether Duane “Keffe D” Davis played a role in the deadly drive-by shooting that killed Tupac Shakur in September 1996
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/tupac-shakur-murder-trial-keffe-d-suge-knight-1235609806/) — *Rolling Stone*
 
-### 2. Watch Al Jardine Sing the Beach Boys Deep Cut ‘Back Home’ for First Time in 49 Years
+### 3. Watch Al Jardine Sing the Beach Boys Deep Cut ‘Back Home’ for First Time in 49 Years
 
 [原文] The obscure song was written in 1963 for the Surfer Girl album, revisited twice in 1970 during the Sunflower sessions, and not released until 1976 on 15 Big Ones
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/al-jardine-performs-beach-boys-deep-cut-back-home-1235609947/) — *Rolling Stone*
 
-### 3. Ritchie Blackmore on His Deep Purple Reunion: ‘It Could Be the Last Time We See Each Other’
+### 4. Ritchie Blackmore on His Deep Purple Reunion: ‘It Could Be the Last Time We See Each Other’
 
 [原文] “I was there to see old friends. I hadn’t seen [them] in 40 years, and we’re all getting older,” Blackmore told Guitar Player about his one-off rendition of “Smoke on the Water” on Long Island
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/ritchie-blackmore-deep-purple-reunion-last-time-1235609998/) — *Rolling Stone*
 
-### 4. Ellie Goulding Sues Ex-Management Company Over Live Nation Ties
+### 5. Ellie Goulding Sues Ex-Management Company Over Live Nation Ties
 
 [原文] The English pop star says her team at TaP Management pushed her to work with Live Nation, but never disclosed that the company owned TaP
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/ellie-goulding-sues-tap-management-live-nation-1235601089/) — *Rolling Stone*
-
-### 5. Watch Cynthia Erivo Join Ariana Grande to Perform ‘For Good’ in London
-
-[原文] The Wicked co-stars also sang a medley of “Get Happy” and “Happy Days Are Here Again” during Grande’s show at the O2
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/ariana-grande-cynthia-erivo-for-good-wicked-live-london-1235609808/) — *Rolling Stone*
 
 ---
 
@@ -483,29 +483,29 @@ The post Brembo&#8217;s New Six-Piston Brake Caliper Is Its Most Powerful Ever a
 
 📎 [阅读原文](https://skift.com/2026/08/17/the-skift-state-of-travel-2026-is-out-heres-what-stood-out/) — *Skift*
 
-### 2. Lawsuit Against Delta Raises a Bigger Question: How Airlines Use Carbon Offsets
+### 2. Google Scoops Up Spirit Airlines’ Data in Bankruptcy Sale to Train AI
+
+[原文] Google plans to use troves of Spirit’s business data and software code to improve its own AI models and products.
+
+📎 [阅读原文](https://skift.com/2026/08/17/google-scoops-up-spirits-data-in-bankruptcy-sale-to-train-ai/) — *Skift*
+
+### 3. The Substack Renaissance in Travel Media Comes With a Catch
+
+[原文] Substack provides space for travel writers with strong points of view honed from years of experience. The best ones embrace the freedom and avoid quick takes.
+
+📎 [阅读原文](https://skift.com/2026/08/17/the-substack-renaissance-in-travel-media-comes-with-a-catch/) — *Skift*
+
+### 4. Lawsuit Against Delta Raises a Bigger Question: How Airlines Use Carbon Offsets
 
 [原文] Airlines should reassess their decarbonization strategies to ensure their emissions reductions hold up  — along with the language used to disclose them.
 
 📎 [阅读原文](https://skift.com/2026/08/17/delta-greenwashing-lawsuit-carbon-credits/) — *Skift*
 
-### 3. Airbnb Has Quietly Rebuilt the Marketing Engine It Was Famous for Cutting
+### 5. Airbnb Has Quietly Rebuilt the Marketing Engine It Was Famous for Cutting
 
 [原文] Airbnb’s 90% traffic claim may still be true, but it says less and less about how the company is spending on growth.
 
 📎 [阅读原文](https://skift.com/2026/08/17/airbnb-has-quietly-rebuilt-the-marketing-engine-it-was-famous-for-cutting/) — *Skift*
-
-### 4. Saudi Arabia and Egypt Lead Middle East’s Hotel Construction. The UAE Trails.
-
-[原文] War disruption doesn’t slow hotel construction in the Gulf. Riyadh and Cairo still have room to build.
-
-📎 [阅读原文](https://skift.com/2026/08/17/saudi-arabia-and-egypt-lead-middle-easts-hotel-construction-the-uae-trails/) — *Skift*
-
-### 5. Airbnb-CarTrawler Partnership Details 1 Month In: Scoop
-
-[原文] Airbnb's car rental business would be more of a win if it did the hard work to establish direct relationships with the car-rental companies themselves.
-
-📎 [阅读原文](https://skift.com/2026/08/15/airbnb-cartrawler-partnership-details-1-month-in-scoop/) — *Skift*
 
 ---
 
