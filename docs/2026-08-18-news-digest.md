@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月18日** | 生成时间: 2026-08-18 09:23
+**2026年08月18日** | 生成时间: 2026-08-18 14:49
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal
+### 1. IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus
 
-[原文] Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.
+[原文] Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Russia and Ukraine trade more deadly strikes
+### 2. Russia says UK 'will pay' for supplying drones to Ukraine
 
-[原文] Moscow says nine people have been killed in the past 24 hours, while Kyiv reports four deaths.
+[原文] An MoD spokesperson responds by saying Britain stands "shoulder to shoulder" with Ukraine.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Russia's prominent anti-war politician jailed for 11 years
+### 3. Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says
 
-[原文] Lev Schlosberg is found guilty of "discrediting" Russia's army - a verdict he condemns as punishment for his political position.
+[原文] After he was shot multiple times, Tupac Shakur refused to cooperate with police and told an officer "we'll take care of it", an officer testified.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. French PM heckled over wildfire response as blazes continue across Europe
+### 4. Inside secret police warehouse as Germany targets small boats gangs
 
-[原文] The prime minister announced on Monday €12m worth of aid to French regions that had been worst affected by the fires.
+[原文] German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2rzx5g5yro?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Mushroom murderer Erin Patterson is appealing - here's what you need to know
+### 5. Watch: Why has Trump shifted on North Korea?
 
-[原文] The Australian, who notoriously poisoned her family members, is trying to overturn her conviction.
+[原文] Trump said the US will "substantially reduce" joint military exercises with South Korea, citing his "very good relationship" with Kim Jong Un.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj9dx03jrgjo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. 30-year Treasury yield tops 5.31%, the highest in 19 years
+### 1. Ship attacked in Hormuz Strait as U.S.-Iran ceasefire expiry risks prolonged conflict
+
+[原文] The attack caused damage to the engine room and resulted in a crew casualty, UKMTO said, adding that the remaining crew were being assisted by the Omani Coast Guard.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/18/us-iran-war-trump-hormuz-trump-ceasefire-expires-extension-.html) — *CNBC*
+
+### 2. The 30-year Treasury yield just hit a 19-year high. Three things could drive it even higher
+
+[原文] The yield on the 30-year U.S. Treasury has surged to its highest level in 19 years, and some strategists see scope for the move to go further.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/18/30-year-treasury-yield-three-things-that-could-drive-it-even-higher.html) — *CNBC*
+
+### 3. South Korea must brace for ‘worst-case scenario,’ President Lee says, as Trump cuts military drills
+
+[原文] The annual exercises, are defensive and not intended to attack North Korea or raise tensions on the peninsula, Lee said.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/18/trump-south-korea-military-exercises-iran-north-korea.html) — *CNBC*
+
+### 4. 30-year Treasury yield tops 5.31%, the highest in 19 years
 
 [原文] Treasury yields were higher as traders awaited the latest FOMC minutes due later this week.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/17/treasury-yields-federal-reserve-fomc-minutes.html) — *CNBC*
 
-### 2. Trump won't extend Iran ceasefire, threatens to 'bomb' Oman if it 'gets in the way'
-
-[原文] Shipping traffic in the Strait of Hormuz sank to a new low as a ceasefire between the U.S. and Iran is set to expire on Monday with no deal in sight.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html) — *CNBC*
-
-### 3. Lakers governor Jeanie Buss says siblings cannot sell family’s stake to Bob Iger, Joshua Kushner
-
-[原文] Jeanie Buss's lawyer says she has not agreed to sell the team and that any vote suggesting the Buss family is selling "would be and is void."
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/17/jeanie-buss-opposes-sale-family-stake.html) — *CNBC*
-
-### 4. Meta faces ‘astronomical’ consequences as legal fight reaches critical moment in California
+### 5. Meta faces ‘astronomical’ consequences as legal fight reaches critical moment in California
 
 [原文] Meta faces a federal trial over child safety claims that could bring major financial penalties and changes to Facebook and Instagram.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html) — *CNBC*
-
-### 5. 'Absolutely crazy': Here's what South Korean stock investors are doing in U.S. markets
-
-[原文] South Korean stock investors have made 'absolutely crazy' bets as they flee their home market, while global investors pile in.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/18/korean-stock-investors-flee-bruising-home-market-pile-into-us.html) — *CNBC*
 
 ---
 
@@ -136,29 +136,29 @@
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260816044853.htm) — *Science Daily*
 
-### 2. Scientists reveal why walking gets so much harder with age
+### 2. The bacteria that make cheese taste so good may also benefit your gut
+
+[原文] Scientists studying three artisan British cheeses found that the microbes responsible for their distinctive flavors may also offer surprising benefits for gut health. As the cheeses matured, helpful b
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260816044847.htm) — *Science Daily*
+
+### 3. Einstein’s biggest “mistake” came back — and changed cosmology forever
+
+[原文] Einstein’s abandoned cosmological constant made a spectacular comeback when astronomers discovered that the universe’s expansion is accelerating. It now sits at the heart of our best cosmological mode
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260816044835.htm) — *Science Daily*
+
+### 4. Scientists reveal why walking gets so much harder with age
 
 [原文] As we age, the body appears to sacrifice walking efficiency in exchange for stability. Older adults stiffen the ankle more with each step, which may help prevent falls but also forces the muscles to w
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260815065014.htm) — *Science Daily*
 
-### 3. Low-fat vegan diet helps people lose weight without eating less
+### 5. Scientists may have finally proved that “empty” space isn’t really empty
 
-[原文] A low-fat vegan diet may help people lose weight without counting calories, shrinking portions, or feeling constantly hungry. In a 16-week clinical trial, people eating mostly fruits, vegetables, grai
+[原文] A magnetar’s colossal magnetic field may have revealed a quantum effect predicted by Werner Heisenberg nearly 90 years ago, in which seemingly empty space alters the behavior of light. If confirmed, t
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260815064825.htm) — *Science Daily*
-
-### 4. Tiny 1.7-billion-year-old fossils could reveal how complex life began
-
-[原文] Scientists are searching some of Earth’s oldest rocks for tiny fossils that could reveal how simple microbial life made the extraordinary leap toward plants, animals, and other complex organisms. Solv
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260815064811.htm) — *Science Daily*
-
-### 5. Webb’s mysterious little red dots may be hiding entire galaxies
-
-[原文] Astronomers may finally have a clue to what happens to the mysterious “little red dots” that crowded the early universe. By studying a spiral galaxy nicknamed the “Saguaro,” researchers found a compac
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260815064808.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260815065007.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Top Fifa official sacked after Infantino plan criticism
+### 1. Breakouts & wildcards - 13 surprise stars for new season
+
+[原文] BBC Sport TV and radio commentators identify the players they think could be the breakout stars of the new Premier League season.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c1l197j4gvro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. Top Fifa official sacked after Infantino plan criticism
 
 [原文] Senior Fifa figure Kevin Lamour is sacked by football's world governing body three weeks after criticising its president Gianni Infantino.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Guardiola-Walker fallout revealed in new documentary
+### 3. Guardiola-Walker fallout revealed in new documentary
 
 [原文] A new documentary series about Pep Guardiola's final two seasons at Manchester City reveals the bust-up he had with former captain Kyle Walker.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c62xj5evpjpo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. LIV cancels final event to focus on 'next chapter'
+### 4. Williams sisters lose on doubles return
+
+[原文] Serena and Venus Williams lose a thriller at the Cincinnati Open in their first doubles match together for four years.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/c4g6m08nnn8o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 5. LIV cancels final event to focus on 'next chapter'
 
 [原文] LIV Golf cancels its Team Championships in Michigan after weeks of speculation, saying it needs to focus on "building its next chapter".
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/c7vg4rn7v6ro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. Man City move for £85m Bouaddi and still want Fernandez
-
-[原文] Manchester City are in advanced talks with Lille over a move for Morocco midfielder Ayyoub Bouaddi.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cd7l9n4qnlno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Rodri lands in Barcelona to complete 'dream' move
-
-[原文] Spain midfielder Rodri says it is his "dream" to play for Barcelona as he arrives in the city to complete his move from Manchester City.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cevmw02j4nyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. David F. Sandberg to Direct Horror Movie ‘Mommy’s Home’ For Lionsgate
+### 1. Rosie O’Donnell Shines in ‘Jimmy Kimmel Live’ Hosting Debut, Attacks ‘Mango Mussolini’ Trump and Gives Moving Hayden Panettiere Tribute
+
+[原文] When Jimmy Kimmel announced that Rosie O’Donnell would be filling in as a week-long guest host of “Jimmy Kimmel Live” during his summer vacation, he teased it would be “a special treat” for Donald Tru
+
+📎 [阅读原文](https://variety.com/2026/tv/news/rosie-o-donnell-hosts-jimmy-kimmel-live-slams-trump-1236836907/) — *Variety*
+
+### 2. Vin Diesel Says ‘Fast Forever’ Starts Shooting in December
+
+[原文] Vin Diesel says filming for “Fast Forever” has a start date. “We start shooting in December, if I can make good on the request from the studio,” Diesel told Variety Monday night at the 25th anniversar
+
+📎 [阅读原文](https://variety.com/2026/film/news/vin-diesel-fast-forever-starts-shooting-december-1236836906/) — *Variety*
+
+### 3. Michelle Rodriguez Remembers Hayden Panettiere After Co-Hosting World Music Awards: ‘Can’t Stand How Many Young People Are Leaving Us Lately’
+
+[原文] Michelle Rodriguez is sharing her memories of Hayden Panettiere after the “Scream 4” star died at age 36 on Sunday. Rodriguez and Panettiere co-hosted the World Music Awards back in 2010. When asked w
+
+📎 [阅读原文](https://variety.com/2026/film/news/michelle-rodriguez-hayden-panettiere-world-music-awards-1236836885/) — *Variety*
+
+### 4. Jeanie Buss Seeks to Contest Sale of Los Angeles Lakers to Bob Iger and Josh Kushner: Report
+
+[原文] Jeanie Buss, the Los Angeles Lakers owner who has been the face of the team since the death of her father Jerry Buss in 2013, is reportedly contesting the plan approved by her siblings to sell the fam
+
+📎 [阅读原文](https://variety.com/2026/tv/news/jeanie-buss-lakers-sale-bob-iger-josh-kushner-1236836879/) — *Variety*
+
+### 5. David F. Sandberg to Direct Horror Movie ‘Mommy’s Home’ For Lionsgate
 
 [原文] David F. Sandberg has been tapped to direct a new psychological horror movie, &#8220;Mommy&#8217;s Home,&#8221; for Lionsgate. From screenwriter James Morosini, &#8220;Mommy&#8217;s Home&#8221; follow
 
 📎 [阅读原文](https://variety.com/2026/film/news/david-f-sandberg-direct-mommys-home-lionsgate-1236836858/) — *Variety*
-
-### 2. LISTEN: How Chris Carter Got a Second Shot at ‘The X-Files: I Want to Believe’ Film
-
-[原文] On today&#8217;s episode of &#8220;Daily Variety&#8221; podcast, &#8220;The X-Files&#8221; creator Chris Carter explains to Variety’s Michael Schneider how he got the chance to do a director’s cut of 
-
-📎 [阅读原文](https://variety.com/2026/tv/news/chris-carter-x-files-i-want-to-believe-directors-cut-1236836849/) — *Variety*
-
-### 3. ‘Furious’ Star Steve Way on the Beauty of ‘Disabled Love’ and the Difficulty of Navigating Hollywood Without a Team: ‘I Want an Agency to Whore Me Out’
-
-[原文] It’s uncommon to meet an actor bold enough to call Ari Emanuel, the executive chairman of WME Group and one of the most powerful people in Hollywood, a “prick” on the record. But it’s also uncommon to
-
-📎 [阅读原文](https://variety.com/2026/tv/news/furious-steve-way-disability-hollywood-serial-killer-romance-1236836217/) — *Variety*
-
-### 4. ‘Friday the 13th’ Prequel Series ‘Crystal Lake’ Is ‘Gory’ and ‘Gross’ With ‘Blood Everywhere,’ Says Star Linda Cardellini
-
-[原文] “Crystal Lake” star Linda Cardellini is teasing the upcoming “Friday the 13th” prequel television series. Cardellini stars in the Peacock series as the franchise antagonist Pamela Voorhees. The show, 
-
-📎 [阅读原文](https://variety.com/2026/tv/columns/crystal-lake-linda-cardellini-friday-the-13th-prequel-series-gory-gross-blood-1236836771/) — *Variety*
-
-### 5. ‘Spy Kids’ Actor Alexa PenaVega Shares Heartbreak After Deaths of Fellow Child Stars Hayden Panettiere, Michelle Trachtenberg and Daveigh Chase: ‘Hug Your People Close Today’
-
-[原文] Alexa PenaVega&#8217;s &#8220;heart is heavy&#8221; after the death of Hayden Panettiere, most notably because it marks the third passing of a fellow child star in 2026. The &#8220;Spy Kids&#8221; act
-
-📎 [阅读原文](https://variety.com/2026/film/news/alexa-vega-child-actor-deaths-hayden-panettiere-trachtenberg-1236836669/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Amazon's Game of Thrones T-Shirt Sale Has Some Great House of the Dragon Designs
+### 1. The Practical ASUS ZenScreen 16" 1080p Portable USB Monitor Is on Sale From Newegg via AliExpress
+
+[原文] Doubles as a secondary monitor for your laptop or a portable display for your Nintendo Switch or Steam Deck.
+
+📎 [阅读原文](https://www.ign.com/articles/asus-zenscreen-usb-portable-monitor-deal-august-2026) — *IGN*
+
+### 2. James Gunn Defends the Tonal Shift of the DCU After Lanterns Stirs Conversation With Gritty First Episode
+
+[原文] DC Studios co-CEO and Superman director James Gunn has stepped in to defend Lanterns and clarify why the DCU won't be "of one tone" going forward.
+
+📎 [阅读原文](https://www.ign.com/articles/james-gunn-defends-the-tonal-shift-of-the-dcu-after-lanterns-stirs-conversation-with-gritty-first-episode) — *IGN*
+
+### 3. Amazon's Game of Thrones T-Shirt Sale Has Some Great House of the Dragon Designs
 
 暂无摘要。
 
 📎 [阅读原文](https://www.ign.com/articles/game-of-thrones-house-of-the-dragon-t-shirt-sale-august-2026) — *IGN*
 
-### 2. The 65" Samsung S90F 4K QD-OLED TV Drops to $1,198 with Free Shipping on Amazon
+### 4. The 65" Samsung S90F 4K QD-OLED TV Drops to $1,198 with Free Shipping on Amazon
 
 [原文] We picked the S90F as the best gaming TV in 2026.
 
 📎 [阅读原文](https://www.ign.com/articles/samsung-s65f-4k-oled-tv-deal-august-2026) — *IGN*
 
-### 3. US Army Battalion Reportedly Giving Soldiers Time Off to Play GTA 6 in Exchange for Reenlisting
+### 5. US Army Battalion Reportedly Giving Soldiers Time Off to Play GTA 6 in Exchange for Reenlisting
 
 [原文] A battalion in the United States Army is reportedly offering soldiers four days off to let them play Grand Theft Auto 6 when it releases this November if they reenlist.
 
 📎 [阅读原文](https://www.ign.com/articles/us-army-battalion-reportedly-giving-soldiers-time-off-to-play-gta-6-in-exchange-for-reenlisting) — *IGN*
-
-### 4. Save $900 Off the Asus ROG Flow Z13 Ultra-Portable Gaming Laptop During the Best Buy Anniversary Sale
-
-[原文] This 2.56 pound convertible is better at gaming than most full-sized laptops.
-
-📎 [阅读原文](https://www.ign.com/articles/asus-rog-flow-z13-ultra-portable-gaming-laptop-deal-bestbuy-anniversary-sale) — *IGN*
-
-### 5. YouTube Reveals View Count Changes That Will Track Views The Instant Someone Hits Play on a Video
-
-[原文] YouTube has revealed a new view count update that will see videos accumulate views the instant someone hits play.
-
-📎 [阅读原文](https://www.ign.com/articles/youtube-reveals-view-count-changes-that-will-track-views-the-instant-someone-hits-play-on-a-video) — *IGN*
 
 ---
 
