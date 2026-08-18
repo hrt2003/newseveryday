@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月18日** | 生成时间: 2026-08-18 14:49
+**2026年08月18日** | 生成时间: 2026-08-18 20:52
 
 ---
 
@@ -16,17 +16,17 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus
+### 1. UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning
+
+[原文] Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its "hour of need".
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus
 
 [原文] Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 2. Russia says UK 'will pay' for supplying drones to Ukraine
-
-[原文] An MoD spokesperson responds by saying Britain stands "shoulder to shoulder" with Ukraine.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 3. Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says
 
@@ -40,11 +40,11 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Watch: Why has Trump shifted on North Korea?
+### 5. Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'
 
-[原文] Trump said the US will "substantially reduce" joint military exercises with South Korea, citing his "very good relationship" with Kim Jong Un.
+[原文] The former heavyweight boxing champion shares a child with the Heroes actress, who died on Sunday.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5ywe951z80o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Ship attacked in Hormuz Strait as U.S.-Iran ceasefire expiry risks prolonged conflict
+### 1. 30-year Treasury yield tops 5.33%, new 19-year high on inflation, spending concerns
+
+[原文] Tuesday saw yields on U.S. 30-year Treasury yields add over 1 basis point to trade at around 5.322%, hovering just below its highest level since 2002.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/18/treasury-yields-.html) — *CNBC*
+
+### 2. Home Depot reaffirms guidance amid 'frozen housing market conditions'
+
+[原文] Home Depot reported second fiscal quarter results that beat Wall Street expectations on the top and bottom lines.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/18/home-depot-hd-q2-2026-earnings.html) — *CNBC*
+
+### 3. Nvidia's AI moat is shifting from chips to capital
+
+[原文] Nvidia still has dominant market share in AI chips, but with competition picking up steam, the company is taking greater advantage of another key asset.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/18/nvidias-ai-moat-is-shifting-from-chips-to-capital.html) — *CNBC*
+
+### 4. Sea Ray parent Brunswick bets on AI navigation and new revenue streams to help stalling boat sales
+
+[原文] Brunswick Corp. CEO David Foulkes told CNBC premium boat sales are staying afloat, while value options are lagging.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/18/sea-ray-parent-brunswick-ai-recurring-revenue-boat-sales.html) — *CNBC*
+
+### 5. Trump's Oman bomb threat an attempt to get their 'attention,' says former ambassador
 
 [原文] The attack caused damage to the engine room and resulted in a crew casualty, UKMTO said, adding that the remaining crew were being assisted by the Omani Coast Guard.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/18/us-iran-war-trump-hormuz-trump-ceasefire-expires-extension-.html) — *CNBC*
-
-### 2. The 30-year Treasury yield just hit a 19-year high. Three things could drive it even higher
-
-[原文] The yield on the 30-year U.S. Treasury has surged to its highest level in 19 years, and some strategists see scope for the move to go further.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/18/30-year-treasury-yield-three-things-that-could-drive-it-even-higher.html) — *CNBC*
-
-### 3. South Korea must brace for ‘worst-case scenario,’ President Lee says, as Trump cuts military drills
-
-[原文] The annual exercises, are defensive and not intended to attack North Korea or raise tensions on the peninsula, Lee said.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/18/trump-south-korea-military-exercises-iran-north-korea.html) — *CNBC*
-
-### 4. 30-year Treasury yield tops 5.31%, the highest in 19 years
-
-[原文] Treasury yields were higher as traders awaited the latest FOMC minutes due later this week.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/17/treasury-yields-federal-reserve-fomc-minutes.html) — *CNBC*
-
-### 5. Meta faces ‘astronomical’ consequences as legal fight reaches critical moment in California
-
-[原文] Meta faces a federal trial over child safety claims that could bring major financial penalties and changes to Facebook and Instagram.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Anthropic’s annualized revenue surges to $65B
+### 1. Reach Capital raises $265M Fund V to back AI founders building to ‘expand human potential’
+
+[原文] Reach Capital announced Tuesday an oversubscribed $265M Fund V.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/18/reach-capital-raises-265m-fund-v-to-back-ai-founders-building-to-expand-human-potential/) — *TechCrunch*
+
+### 2. Fairphone is launching its latest repairable phone in the US too
+
+[原文] The Fairphone 6+ is priced at $649 and will be available on Amazon.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/18/fairphone-is-launching-its-latest-repairable-phone-in-the-us-too/) — *TechCrunch*
+
+### 3. Einride strikes deal to add 500 Tesla Semis to its fleet
+
+[原文] Einride will buy the Tesla Semis, which will be made to Amazon and other customers.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/18/einride-strikes-deal-to-add-500-tesla-semis-to-its-fleet/) — *TechCrunch*
+
+### 4. Detroit startup Grounded raises $5M to customize electric and gas-powered vans
+
+[原文] The company has shifted from making van-life builds to custom outfitting vehicles for small businesses, all while the EV landscape in the US changed dramatically.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/18/detroit-startup-grounded-raises-5m-to-customize-electric-and-gas-powered-vans/) — *TechCrunch*
+
+### 5. Anthropic’s annualized revenue surges to $65B
 
 [原文] The model maker added $18 billion in annualized revenue in two months.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/) — *TechCrunch*
-
-### 2. AI automation startup Relay shuts down, staff joins Google’s Chrome team
-
-[原文] "We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon," Jacob Bank, Relay founder and CEO, said.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/) — *TechCrunch*
-
-### 3. ‘Unprecedented’ number of Apple users received recent spyware alert, say investigators
-
-[原文] Cybersecurity experts who investigate spyware attacks say the number of people who received a recent threat notification from Apple is unusually high.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/17/unprecedented-number-of-apple-users-received-recent-spyware-alert-say-investigators/) — *TechCrunch*
-
-### 4. Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21
-
-[原文] If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at
-
-📎 [阅读原文](https://techcrunch.com/2026/08/17/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/) — *TechCrunch*
-
-### 5. Spotify’s new Playlist Notes let users and editors explain their song picks
-
-[原文] Spotify launches a new feature that gives users a chance to explain the stories and reasoning behind their favorite music. Editors will be using the feature, too, on top playlists like RapCaviar and o
-
-📎 [阅读原文](https://techcrunch.com/2026/08/17/spotifys-new-playlist-notes-let-users-and-editors-explain-their-song-picks/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Breakouts & wildcards - 13 surprise stars for new season
+### 1. Why Fernandez uncertainty has echoes of Isak saga
 
-[原文] BBC Sport TV and radio commentators identify the players they think could be the breakout stars of the new Premier League season.
+[原文] Enzo Fernandez's possible Manchester City move is following the pattern of Alexander Isak's transfer last summer - and creating headaches for Chelsea.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c1l197j4gvro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cx2dzj2w25vo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Top Fifa official sacked after Infantino plan criticism
+### 2. Newcastle complete £30m move for Benfica's Dedic
 
-[原文] Senior Fifa figure Kevin Lamour is sacked by football's world governing body three weeks after criticising its president Gianni Infantino.
+[原文] Newcastle United sign defender Amar Dedic from Benfica for around £30m.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/czekzxd09zlo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Guardiola-Walker fallout revealed in new documentary
+### 3. What's going on at Cadillac and Haas? F1 Q&A
+
+[原文] BBC Sport F1 correspondent Andrew Benson answers your latest questions before the season resumes with the Dutch Grand Prix.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/c1w1ypg102po?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. Guardiola-Walker fallout revealed in new documentary
 
 [原文] A new documentary series about Pep Guardiola's final two seasons at Manchester City reveals the bust-up he had with former captain Kyle Walker.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c62xj5evpjpo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Williams sisters lose on doubles return
+### 5. Premier League to publish verdicts on referee and VAR decisions
 
-[原文] Serena and Venus Williams lose a thriller at the Cincinnati Open in their first doubles match together for four years.
+[原文] The Premier League will publish the judgements of its Key Match Incidents Panel for the first time this season.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/c4g6m08nnn8o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. LIV cancels final event to focus on 'next chapter'
-
-[原文] LIV Golf cancels its Team Championships in Michigan after weeks of speculation, saying it needs to focus on "building its next chapter".
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/c7vg4rn7v6ro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c98v0mrerz2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Rosie O’Donnell Shines in ‘Jimmy Kimmel Live’ Hosting Debut, Attacks ‘Mango Mussolini’ Trump and Gives Moving Hayden Panettiere Tribute
+### 1. Publicis Groupe, 3 Arts, Travis Kelce Launch Venture to Help Advertisers Strike Deals With College Athletes
 
-[原文] When Jimmy Kimmel announced that Rosie O’Donnell would be filling in as a week-long guest host of “Jimmy Kimmel Live” during his summer vacation, he teased it would be “a special treat” for Donald Tru
+[原文] French advertising giant Publicis Groupe has a new American teammate: Travis Kelce. The ad-holding company and the popular Kansas City Chiefs tight end are forming a joint venture that aims to help ad
 
-📎 [阅读原文](https://variety.com/2026/tv/news/rosie-o-donnell-hosts-jimmy-kimmel-live-slams-trump-1236836907/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/publicis-groupe-3-arts-travis-kelce-ads-college-athletes-1236836867/) — *Variety*
 
-### 2. Vin Diesel Says ‘Fast Forever’ Starts Shooting in December
+### 2. ABC Files First Amendment Lawsuit Against FCC
 
-[原文] Vin Diesel says filming for “Fast Forever” has a start date. “We start shooting in December, if I can make good on the request from the studio,” Diesel told Variety Monday night at the 25th anniversar
+[原文] Disney&#8217;s ABC filed a First Amendment lawsuit against the Federal Communications Commission on Tuesday, raising the pitch of the company&#8217;s efforts to countermand unusual pressure from the f
 
-📎 [阅读原文](https://variety.com/2026/film/news/vin-diesel-fast-forever-starts-shooting-december-1236836906/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/abc-first-amendment-lawsuit-fcc-1236837028/) — *Variety*
 
-### 3. Michelle Rodriguez Remembers Hayden Panettiere After Co-Hosting World Music Awards: ‘Can’t Stand How Many Young People Are Leaving Us Lately’
+### 3. Peacock Raises Prices Across All Plans, NBCU’s Fourth Increase in Four Years
 
-[原文] Michelle Rodriguez is sharing her memories of Hayden Panettiere after the “Scream 4” star died at age 36 on Sunday. Rodriguez and Panettiere co-hosted the World Music Awards back in 2010. When asked w
+[原文] NBCUniversal&#8217;s Peacock just turned profitable for the first time. And now the company is raising prices for all customers, marking the streamer&#8217;s fourth fee increase in four years. Startin
 
-📎 [阅读原文](https://variety.com/2026/film/news/michelle-rodriguez-hayden-panettiere-world-music-awards-1236836885/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/peacock-raises-prices-fourth-time-in-four-years-1236837016/) — *Variety*
 
-### 4. Jeanie Buss Seeks to Contest Sale of Los Angeles Lakers to Bob Iger and Josh Kushner: Report
+### 4. ‘Ice Princess’ Director Remembers Stars Hayden Panettiere and Michelle Trachtenberg as an ‘Amazing Pair’: ‘Two Shining Talents, Gone Far Too Soon’
 
-[原文] Jeanie Buss, the Los Angeles Lakers owner who has been the face of the team since the death of her father Jerry Buss in 2013, is reportedly contesting the plan approved by her siblings to sell the fam
+[原文] &#8220;Ice Princess&#8221; director Tim Fywell has penned a sweet tribute to the two stars of his beloved 2005 ice skating movie, Hayden Panettiere and Michelle Trachtenberg, following Panettiere&#821
 
-📎 [阅读原文](https://variety.com/2026/tv/news/jeanie-buss-lakers-sale-bob-iger-josh-kushner-1236836879/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/ice-princess-director-honors-hayden-panettiere-michelle-trachtenberg-1236837006/) — *Variety*
 
-### 5. David F. Sandberg to Direct Horror Movie ‘Mommy’s Home’ For Lionsgate
+### 5. Oscars: Taiwan Selects ‘A Foggy Tale’ for International Feature Race
 
-[原文] David F. Sandberg has been tapped to direct a new psychological horror movie, &#8220;Mommy&#8217;s Home,&#8221; for Lionsgate. From screenwriter James Morosini, &#8220;Mommy&#8217;s Home&#8221; follow
+[原文] &#8220;A Foggy Tale,&#8221; directed by Chen Yu-hsun, has been selected to represent Taiwan in the best international feature film category at the 99th Academy Awards, Taiwan&#8217;s Ministry of Cultu
 
-📎 [阅读原文](https://variety.com/2026/film/news/david-f-sandberg-direct-mommys-home-lionsgate-1236836858/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/awards/oscars-taiwan-a-foggy-tale-international-feature-1236837005/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Practical ASUS ZenScreen 16" 1080p Portable USB Monitor Is on Sale From Newegg via AliExpress
+### 1. Do Not Boycott GTA 6, Fired Rockstar Workers Tell Fans: 'There’s a Better Way to Support Us and Hold Rockstar to Account'
 
-[原文] Doubles as a secondary monitor for your laptop or a portable display for your Nintendo Switch or Steam Deck.
+[原文] The first Rockstar workers who are embroiled in a legal battle with the company have told fans they shouldn’t boycott GTA 6 to protest on their behalf.
 
-📎 [阅读原文](https://www.ign.com/articles/asus-zenscreen-usb-portable-monitor-deal-august-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/do-not-boycott-gta-6-fired-rockstar-workers-tell-fans-theres-a-better-way-to-support-us-and-hold-rockstar-to-account) — *IGN*
 
-### 2. James Gunn Defends the Tonal Shift of the DCU After Lanterns Stirs Conversation With Gritty First Episode
+### 2. 'We Were Robbed': Toy Story 5 Deleted Scene Showed Jessie and Bullseye's First Meeting
 
-[原文] DC Studios co-CEO and Superman director James Gunn has stepped in to defend Lanterns and clarify why the DCU won't be "of one tone" going forward.
+[原文] Toy Story 5 was once set to feature a flashback showing the first meeting between Jessie and Bullseye, before the sequence was cut.
 
-📎 [阅读原文](https://www.ign.com/articles/james-gunn-defends-the-tonal-shift-of-the-dcu-after-lanterns-stirs-conversation-with-gritty-first-episode) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/we-were-robbed-toy-story-5-deleted-scene-showed-jessie-and-bullseyes-first-meeting) — *IGN*
 
-### 3. Amazon's Game of Thrones T-Shirt Sale Has Some Great House of the Dragon Designs
+### 3. Deus Ex, System Shock, and Thief Developer Legend Warren Spector Announces Retirement
+
+[原文] Video game developer legend Warren Spector has announced his retirement from video game development.
+
+📎 [阅读原文](https://www.ign.com/articles/deus-ex-system-shock-and-thief-developer-legend-warren-spector-announces-retirement) — *IGN*
+
+### 4. Marvel Boss Kevin Feige Teases 'Sagas Upon Sagas' of X-Men Movies, With Young Cast Ready for '100 More'
+
+[原文] Marvel boss Kevin Feige has teased huge plans for X-Men, and said that "there can be 100 more" movies featuring the characters.
+
+📎 [阅读原文](https://www.ign.com/articles/marvel-boss-kevin-feige-teases-sagas-upon-sagas-of-x-men-movies-with-young-cast-ready-for-100-more) — *IGN*
+
+### 5. gamescom awesome indies show: How to Watch
 
 暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/game-of-thrones-house-of-the-dragon-t-shirt-sale-august-2026) — *IGN*
-
-### 4. The 65" Samsung S90F 4K QD-OLED TV Drops to $1,198 with Free Shipping on Amazon
-
-[原文] We picked the S90F as the best gaming TV in 2026.
-
-📎 [阅读原文](https://www.ign.com/articles/samsung-s65f-4k-oled-tv-deal-august-2026) — *IGN*
-
-### 5. US Army Battalion Reportedly Giving Soldiers Time Off to Play GTA 6 in Exchange for Reenlisting
-
-[原文] A battalion in the United States Army is reportedly offering soldiers four days off to let them play Grand Theft Auto 6 when it releases this November if they reenlist.
-
-📎 [阅读原文](https://www.ign.com/articles/us-army-battalion-reportedly-giving-soldiers-time-off-to-play-gta-6-in-exchange-for-reenlisting) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/gamescom-awesome-indies-show-how-to-watch) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post The Jeep Cherokee Just Returned Only to Be
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Canada Bets Big on Hydro and Wind Power
+### 1. NOAA’s New Priorities Put Profits Ahead of Marine Protections
+
+[原文] In the Western Pacific, protections for endangered leatherback turtles face elimination. In Alaskan waters, Steller sea lion sanctuaries could soon shrink. And in the North Atlantic, gear designed to 
+
+📎 [阅读原文](https://insideclimatenews.org/news/18082026/noaa-scraps-marine-protections/) — *Inside Climate News*
+
+### 2. The Clock Is Ticking on Leaded Aviation Fuel
+
+[原文] OSHKOSH, Wisc.—Every July, more than 10,000 general aviation aircraft from around the world fly here for the Experimental Aircraft Association’s AirVenture, widely recognized as the largest annual avi
+
+📎 [阅读原文](https://insideclimatenews.org/news/18082026/hurdles-complicate-aviation-lead-fuel-transition/) — *Inside Climate News*
+
+### 3. Canada Bets Big on Hydro and Wind Power
 
 [原文] Canadian Prime Minister Mark Carney said the country will build the largest clean energy investment in North America’s history—a package of hydropower, onshore wind and transmission projects aimed at 
 
 📎 [阅读原文](https://insideclimatenews.org/news/17082026/canada-hydro-wind-power-investments/) — *Inside Climate News*
 
-### 2. As Temperatures Get Hotter, Pesticides Are More Dangerous to Farmworkers
+### 4. As Temperatures Get Hotter, Pesticides Are More Dangerous to Farmworkers
 
 [原文] For the nation’s 2.4 million farmworkers, climate change is poised to exacerbate the harms of pesticides, a growing body of research shows. Heat stresses the body, making it more vulnerable to pestici
 
 📎 [阅读原文](https://insideclimatenews.org/news/17082026/florida-heat-amplifies-pesticides-dangers-for-farmworkers/) — *Inside Climate News*
 
-### 3. Offshore Wind Will Struggle Long After Trump’s Attacks
+### 5. Offshore Wind Will Struggle Long After Trump’s Attacks
 
 [原文] The United States had a vision: Offshore wind would produce enough energy to power over 10 million homes by 2030.&#160; But five years after the Biden administration’s ambitious proposal, President Do
 
 📎 [阅读原文](https://insideclimatenews.org/news/17082026/offshore-wind-will-struggle-after-trump/) — *Inside Climate News*
-
-### 4. Public Lands Are at the Forefront of Wyoming’s Primaries
-
-[原文] Wyoming’s cherished open spaces appear to be at the forefront of voters’ minds as they head to the polls in an election that could decide whether public lands continue to come under scrutiny from stat
-
-📎 [阅读原文](https://insideclimatenews.org/news/17082026/wyoming-public-lands-forefront-of-elections/) — *Inside Climate News*
-
-### 5. Empowering Guatemalan Villagers Plagued by Plastic
-
-[原文] This story was supported by the Pulitzer Center. JALAPA, Guatemala—On a hot, muggy afternoon in the small mountain village of El Duraznal, Soila Elizabeth Cruz carefully reached under the slats of a b
-
-📎 [阅读原文](https://insideclimatenews.org/news/16082026/project-aims-to-help-guatemalans-plagued-by-plastic-pollution/) — *Inside Climate News*
 
 ---
 
@@ -401,23 +401,23 @@ The post The Jeep Cherokee Just Returned Only to Be
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. College Admissions Testing is Returning to Mixed Reactions
+### 1. Early Childhood Educators Are Leveling Up at Community Colleges — and Employers Agree
+
+[原文] Research reveals little to no penalty from employers for teachers who earn four-year degrees at community colleges instead of universities.
+
+📎 [阅读原文](https://edsurge.com/news/early-childhood-educators-are-leveling-up-at-community-colleges-and-employers-agree) — *EdSurge*
+
+### 2. College Admissions Testing is Returning to Mixed Reactions
 
 [原文] Supporters argue that reinstating SAT and ACT test requirements better vet student readiness.
 
 📎 [阅读原文](https://edsurge.com/news/college-admissions-testing-is-returning-to-mixed-reactions) — *EdSurge*
 
-### 2. On AI Policy, Students Have Plenty to Say
+### 3. On AI Policy, Students Have Plenty to Say
 
 [原文] At a gathering in Boston, ‘student senators’ proposed a first-of-its-kind national AI policy for K-12 classrooms.
 
 📎 [阅读原文](https://edsurge.com/news/on-ai-policy-students-have-plenty-to-say) — *EdSurge*
-
-### 3. Supporting Early Childhood Educators
-
-[原文] The guests on this episode of This Week with EdSurge say good tools fail without good follow-through.
-
-📎 [阅读原文](https://edsurge.com/news/what-do-the-youngest-learners-in-the-building-actually-need) — *EdSurge*
 
 ### 4. The K-12 Silo Won’t Survive AI — But Our Relationships Might
 
@@ -425,11 +425,11 @@ The post The Jeep Cherokee Just Returned Only to Be
 
 📎 [阅读原文](https://edsurge.com/news/the-k-12-silo-wont-survive-ai-but-our-relationships-might) — *EdSurge*
 
-### 5. Reading Scores Continue to Drop for Many Middle Schoolers
+### 5. Supporting Early Childhood Educators
 
-[原文] Educators say middle schools need the same coherent literacy systems that transformed K-3.
+[原文] The guests on this episode of This Week with EdSurge say good tools fail without good follow-through.
 
-📎 [阅读原文](https://edsurge.com/news/reading-scores-continue-to-drop-for-many-middle-schoolers-heres-why) — *EdSurge*
+📎 [阅读原文](https://edsurge.com/news/what-do-the-youngest-learners-in-the-building-actually-need) — *EdSurge*
 
 ---
 
@@ -439,35 +439,35 @@ The post The Jeep Cherokee Just Returned Only to Be
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Taylor Swift Can’t Stop Listening to Phoebe Bridgers’ New Album
+### 1. Fontaines D.C. Preview New Album ‘Dopamine Chamber’ With Song ‘Marianne’
+
+[原文] The Irish band's fifth album arrives on Oct. 16 via XL Recordings
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/fontaines-dc-new-album-song-dopamine-chamber-marianne-1235610335/) — *Rolling Stone*
+
+### 2. Shakira Pledges $1.25 Million to Rebuild Schools Damaged by Earthquake in Colombia
+
+[原文] The Colombian singer's Fundación Pies Descalzos will lead an effort to kickstart education in the devastated Chocó region
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/shakira-colombia-earthquake-university-schools-rebuilding-1235610631/) — *Rolling Stone*
+
+### 3. Taylor Swift Can’t Stop Listening to Phoebe Bridgers’ New Album
 
 [原文] The pop superstar celebrated Bridgers' birthday and called Lost Weekend "an absolute triumph" in new social media post
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/taylor-swift-loves-phoebe-bridgers-new-album-lost-weekend-1235610254/) — *Rolling Stone*
 
-### 2. Tupac Shakur Murder Trial Opens 30 Years After Rapper’s Death: ‘An Act of Revenge’
+### 4. Tupac Shakur Murder Trial Opens 30 Years After Rapper’s Death: ‘An Act of Revenge’
 
 [原文] Jurors will decide whether Duane “Keffe D” Davis played a role in the deadly drive-by shooting that killed Tupac Shakur in September 1996
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/tupac-shakur-murder-trial-keffe-d-suge-knight-1235609806/) — *Rolling Stone*
 
-### 3. Watch Al Jardine Sing the Beach Boys Deep Cut ‘Back Home’ for First Time in 49 Years
+### 5. Watch Al Jardine Sing the Beach Boys Deep Cut ‘Back Home’ for First Time in 49 Years
 
 [原文] The obscure song was written in 1963 for the Surfer Girl album, revisited twice in 1970 during the Sunflower sessions, and not released until 1976 on 15 Big Ones
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/al-jardine-performs-beach-boys-deep-cut-back-home-1235609947/) — *Rolling Stone*
-
-### 4. Ritchie Blackmore on His Deep Purple Reunion: ‘It Could Be the Last Time We See Each Other’
-
-[原文] “I was there to see old friends. I hadn’t seen [them] in 40 years, and we’re all getting older,” Blackmore told Guitar Player about his one-off rendition of “Smoke on the Water” on Long Island
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/ritchie-blackmore-deep-purple-reunion-last-time-1235609998/) — *Rolling Stone*
-
-### 5. Ellie Goulding Sues Ex-Management Company Over Live Nation Ties
-
-[原文] The English pop star says her team at TaP Management pushed her to work with Live Nation, but never disclosed that the company owned TaP
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/ellie-goulding-sues-tap-management-live-nation-1235601089/) — *Rolling Stone*
 
 ---
 
