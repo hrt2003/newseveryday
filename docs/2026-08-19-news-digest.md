@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月19日** | 生成时间: 2026-08-19 14:49
+**2026年08月19日** | 生成时间: 2026-08-19 20:53
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Sacked Ukrainian defence minister calls for presidential election
+### 1. Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza
+
+[原文] The five-year-old spent hours on the phone to paramedics before her body was recovered days later in Gaza City in 2024.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Sacked Ukrainian defence minister calls for presidential election
 
 [原文] Martial law has been in place in Ukraine since February 2022, under which elections are suspended.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Trump pauses new tariffs on Canada and says countries close to a deal
+### 3. Mushroom murderer trial undermined by 'catastrophic' hotel mix-up, appeal court told
 
-[原文] US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade deal.
+[原文] Erin Patterson's defence team appeal against her conviction for killing relatives with a beef Wellington laced with toxic mushrooms.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/czjlxenlgkko?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. Trump pauses new tariffs on Canada for three days, saying deal close
+
+[原文] The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Meta hooked children on Facebook and Instagram, US court hears
-
-[原文] Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. South Korea shortens war games with US, citing Washington request
+### 5. South Korea shortens war games with US, citing Washington request
 
 [原文] It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a "very good" relationship with North Korea's Kim Jong Un.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Husband and mother-in-law charged over Indian bride's death
-
-[原文] Twisha Sharma, a model and actor, had been married for just five months when she was found dead in May.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cjej8nze1wko?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump pauses 50% scheduled tariffs on Canada for three days, announces 'deal' with Ottawa
+### 1. Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock soars 90%
+
+[原文] The combination regimen significantly extended the time patients lived without their melanoma returning, compared with Keytruda alone.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html) — *CNBC*
+
+### 2. UAE severs trade with Iran after reported missile strike
+
+[原文] Washington and Tehran are considering next steps after negotiations fell apart, while the UAE has suspended trade with Iran.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz.html) — *CNBC*
+
+### 3. Target hikes outlook as sales rebound and huge tariff refund boosts bottom line
+
+[原文] Target posted better-than-expected fiscal second-quarter sales and raised its full-year outlook.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html) — *CNBC*
+
+### 4. Treasury yields pull back from multi-year highs ahead of FOMC minutes
+
+[原文] Treasury yields eased on Wednesday from multi-year highs seen in the previous day, as a sell-off at the long end of the curve eased investor jitters.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/19/treasury-yields-multi-decade-highs-bonds-inflation.html) — *CNBC*
+
+### 5. Trump pauses 50% scheduled tariffs on Canada for three days, announces 'deal' with Ottawa
 
 [原文] Trump has already imposed a variety of tariffs on Canada and its specific exports, including metals, lumber and auto parts.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/18/trump-carney-canada-tariffs-dealine-talks.html) — *CNBC*
-
-### 2. Seoul, Washington to halve joint drills as Trump reportedly seeks summit with North Korea's Kim
-
-[原文] Seoul, Washington to halve joint drills as Trump reportedly seeks summit with North Korea's Kim
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/19/south-korea-trump-military-drills-exercise-north-korea-kim-jong-un-.html) — *CNBC*
-
-### 3. Nukes all around? A fraying U.S. nuclear umbrella is pushing allies to weigh defense options, raising risk of a proliferation cascade
-
-[原文] As countries take more responsibility for their own defense and nuclear states step back from arms-control commitments, the question of proliferation arises.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/19/nuclear-proliferation-defense-risk-trump-umbrella-.html) — *CNBC*
-
-### 4. California AG Bonta says case against Meta is about 'restitution and distortion,' not damages
-
-[原文] Following opening arguments in the case against Meta, California Attorney General Bonta said the trial is not about extracting a massive payout.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/18/meta-attorneys-general-opening-arguments-california-bonta-restitution.html) — *CNBC*
-
-### 5. China’s backflipping robot maker Unitree pops 542% in Shanghai debut
-
-[原文] Unitree Robotics shares rise 542% on their first day of trading in Shanghai
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/19/china-backflipping-robot-maker-unitree-jumps-shanghai-ipo.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Cursor capitalizes on GitHub frustration, launches rival hosting platform
+### 1. AI isn’t close to curing cancer. This startup says it knows what it will take.
+
+[原文] It's the data, stupid.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/) — *TechCrunch*
+
+### 2. You can Venmo your college tuition, for some reason
+
+[原文] Kids these days don't know how good they have it.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/19/you-can-venmo-your-college-tuition-for-some-reason/) — *TechCrunch*
+
+### 3. Relativity Networks raises $22 million to bring a faster kind of fiber to data centers
+
+[原文] Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/) — *TechCrunch*
+
+### 4. Cursor capitalizes on GitHub frustration, launches rival hosting platform
 
 [原文] Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/) — *TechCrunch*
 
-### 2. DOJ’s probe into Andreessen Horowitz over board seats baffles VCs
+### 5. DOJ’s probe into Andreessen Horowitz over board seats baffles VCs
 
 [原文] Since portfolio companies often pivot and expand into competing markets, investors view occasional conflicts of interest as unavoidable for large VC firms.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/) — *TechCrunch*
-
-### 3. TikTok explores peer-to-peer payments via DMs, report says
-
-[原文] If rolled out, the feature would use the social media service’s TikTok Pay offering, which is already available in Southeast Asia for TikTok Shop purchases.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/) — *TechCrunch*
-
-### 4. OpenAI institutes new safeguards after Hugging Face breach
-
-[原文] The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/) — *TechCrunch*
-
-### 5. Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21
-
-[原文] If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at
-
-📎 [阅读原文](https://techcrunch.com/2026/08/18/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/) — *TechCrunch*
 
 ---
 
@@ -130,35 +130,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Scientists turn DNA into a memory device that uses 100x less power
+### 1. Pollen has a surprising problem — and honeybees have found a way around it
 
-[原文] Researchers combined synthetic DNA with a semiconductor to create an ultra-low-power memory device capable of storing and processing information in the same place. The bio-hybrid technology could even
+[原文] Honeybees can apparently detect when their food has the wrong balance of essential nutrients and adjust how much they eat to avoid potentially harmful excesses. They also transform pollen into remarka
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260816044853.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260819041237.htm) — *Science Daily*
 
-### 2. The bacteria that make cheese taste so good may also benefit your gut
+### 2. Coffee drinkers have less fat, more muscle, and surprising hormone differences
 
-[原文] Scientists studying three artisan British cheeses found that the microbes responsible for their distinctive flavors may also offer surprising benefits for gut health. As the cheeses matured, helpful b
+[原文] Coffee drinkers may be getting more than an energy boost. A Finnish study found that people who drank more coffee tended to have less total and abdominal fat, more muscle, and healthier metabolic mark
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260816044847.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260819041228.htm) — *Science Daily*
 
-### 3. Einstein’s biggest “mistake” came back — and changed cosmology forever
+### 3. This 23-foot crocodylian may have ruled South America’s food chain
 
-[原文] Einstein’s abandoned cosmological constant made a spectacular comeback when astronomers discovered that the universe’s expansion is accelerating. It now sits at the heart of our best cosmological mode
+[原文] Miocene South America was packed with giant prey—and the predators hunting them were just as spectacular. Fossil bite marks suggest crocodylians, especially the enormous Purussaurus neivensis, were mo
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260816044835.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260819041226.htm) — *Science Daily*
 
-### 4. Scientists reveal why walking gets so much harder with age
+### 4. Tiny quantum engines reveal useful energy hiding in “waste heat”
 
-[原文] As we age, the body appears to sacrifice walking efficiency in exchange for stability. Older adults stiffen the ankle more with each step, which may help prevent falls but also forces the muscles to w
+[原文] A tiny machine made from just an atom and particles of light may sound impossibly simple, but it raises a surprisingly difficult question: what counts as heat, and what energy can still do useful work
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260815065014.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260819041222.htm) — *Science Daily*
 
-### 5. Scientists may have finally proved that “empty” space isn’t really empty
+### 5. 16 mummies and a dog reveal a hidden order inside an ancient Egyptian tomb
 
-[原文] A magnetar’s colossal magnetic field may have revealed a quantum effect predicted by Werner Heisenberg nearly 90 years ago, in which seemingly empty space alters the behavior of light. If confirmed, t
+[原文] A tomb in Egypt’s Theban Necropolis reveals a surprisingly organized story of burial, reuse, and changing beliefs spanning hundreds of years. Researchers found 16 mummified people, the remains of at l
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260815065007.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260819041218.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. How will your club fare? Phil McNulty's Premier League predictions
+### 1. 'Everyone wants clarity' over Man City charges, says Arsenal chief
+
+[原文] Arsenal's chief executive Richard Garlick speaks out on the case against Manchester City and the more than 100 alleged breaches of the Premier League's financial rules.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c1416keng1po?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. How will your club fare? Phil McNulty's Premier League predictions
 
 [原文] How will your club fare in the 2026-27 Premier League? BBC chief football writer Phil McNulty makes his annual predictions.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c5ye50qz7yqo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Musiala collapses in match for second time in four days
+### 3. Kyrgios suspended after positive cocaine test
 
-[原文] Bayern Munich midfielder Jamal Musiala says he is being treated for a "neurological dysfunction" after collapsing during a match for the second time in a four-day period.
+[原文] Nick Kyrgios is provisionally suspended from tennis after testing positive for cocaine.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c330kg5xm8no?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/c4g612r12yno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Antonelli - the boy 'born in a garage' who started driving on dad's lap
+### 4. Antonelli - the boy 'born in a garage' who started driving on dad's lap
 
 [原文] Kimi Antonelli was a natural driver at the age of three, according to his dad. Here's how he went on to lead the F1 drivers' championship at the age of 19.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/c0rdvxdwwwwo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Root's great challenge to finish captaincy story
+### 5. New Zealand great Tui joins Trailfinders
 
-[原文] Joe Root has an unexpected chance to address some unfinished business as England captain, but it is one of the biggest challenges of his stellar career.
+[原文] World Cup-winning New Zealand international Ruby Tui, 34, signs a one-year deal with Trailfinders Women.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cd69881454vo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Even the Queen could not watch - 10 years since Olympic hockey gold
-
-[原文] Ten years since Team GB clinched women's hockey gold at the Rio Olympics, BBC Sport looks back at the legacy of that historic win.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/hockey/articles/czek237r51po?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-union/articles/cd69dj304wxo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Kim Jong-kwan’s ‘The Table: Day and Night’ to Open Busan
+### 1. Estúdios Globo to Produce Feature ‘Macacos,’ Based on Clayton Nascimento’s Play (EXCLUSIVE)
 
-[原文] The 31st Busan International Film Festival (BIFF) has selected &#8220;The Table: Day and Night,&#8221; directed by Kim Jong-kwan, as its opening film for the 2026 edition, marking the feature&#8217;s 
+[原文] GRAMADO, Brazil &#8212; Local media giant Globo’s Estúdios Globo will produce feature film “Macacos” (“Monkeys”), based on a play of Clayton Nascimento, and telefilm “Os Tatuyos,” as part of the compa
 
-📎 [阅读原文](https://variety.com/2026/film/festivals/kim-jong-kwan-table-day-and-night-busan-opening-film-1236837993/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/globo-produces-macacos-based-clayton-nascimento-play-1236838109/) — *Variety*
 
-### 2. ‘Supergirl’ Star David Krumholtz Posts and Deletes Plans to Retire From Acting: ‘And Now, New Life’
+### 2. ‘Wildwood’ Trailer: Carey Mulligan Voices a Grieving Mother Ready to Tear Apart an Enchanted Forest in New Laika Stop-Motion Film
 
-[原文] David Krumholtz, who played Kor-El in this year&#8217;s &#8220;Supergirl&#8221; and appeared in &#8220;Oppenheimer&#8221; and &#8220;The Studio,&#8221; said on Threads Monday that he&#8217;s done with
+[原文] After six years, Laika is back with a new stop-motion animated film. In the new trailer for &#8220;Wildwood,&#8221; a young girl named Prue (Peyton Elizabeth Lee) launches a desperate rescue mission, 
 
-📎 [阅读原文](https://variety.com/2026/film/news/david-krumholtz-posts-deletes-retire-from-acting-1236837871/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/wildwood-trailer-new-stopmotion-laika-film-1236837290/) — *Variety*
 
-### 3. John Irvin, Director of ‘Hamburger Hill,’ ‘Tinker Tailor Soldier Spy,’ Dies at 86
+### 3. ‘Northbound’ Review: Bruce Dern Revs Up a Road Movie With Its Hands Otherwise Firmly at Ten and Two
 
-[原文] John Irvin, the British director of “Hamburger Hill,” the “Tinker Tailor Soldier Spy” miniseries and 1981’s “Ghost Story,” died Aug. 11. He was 86.  His producers confirmed he died at the home of his 
+[原文] There is a pleasantly peppery performance from a bewhiskered — and bewhiskyed — Bruce Dern in William Scoular&#8217;s &#8220;Northbound,&#8221; but its spice is lost to the coziness of an approach tha
 
-📎 [阅读原文](https://variety.com/2026/film/news/john-irvin-dead-hamburger-hill-1236837824/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/reviews/northbound-review-bruce-dern-1236836684/) — *Variety*
 
-### 4. ‘Heroes’ Creator Tim Kring Pays Tribute to Hayden Panettiere as a ‘Singularly Talented Actor’ With a ‘Deep Understanding of Human Nature’
+### 4. Ewan McGregor Says Next Obi-Wan Kenobi Project Could Be Tracking Down Yoda or a ‘Big Love Story’ With Wife Mary Elizabeth Winstead’s ‘Ahsoka’ Character: ‘There’s Got to Be Something’
 
-[原文] Hayden Panettiere was a seasoned professional by the time she auditioned for “Heroes” at the age of 16. But unlike many actors who start working as kids, Hayden had no sense of jaded child actor quali
+[原文] Ewan McGregor has recently been very vocal about his desire to return as Obi-Wan Kenobi — and even has a few pitches for what his “Star Wars” character could get up to in a new project. Speaking at th
 
-📎 [阅读原文](https://variety.com/2026/tv/news/heroes-tim-kring-tribute-hayden-panettiere-1236837796/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/ewan-mcgregor-obi-wan-kenobi-project-ideas-yoda-ahsoka-1236838079/) — *Variety*
 
-### 5. Felicia Day, Wil Wheaton on New Tabletop Gaming Show ‘Conludo,’ How ‘The Guild’ Reunion Movie Will Be Impacted by a Denied California Tax Credit
+### 5. Producers Scout for K-pop Talent With U.S. Appeal During KCON Fan Festival in Los Angeles
 
-[原文] Reunions all around for Felicia Day these days: Amid a massive fundraiser for a movie reunion of her series “The Guild,” Day is reteaming with longtime friend and collaborator Wil Wheaton for a new ki
+[原文] In a makeshift audition booth assembled in a far corner on the ground floor of the Los Angeles Convention Center, a steady stream of K-pop lovers took their shot this past weekend. As part of the annu
 
-📎 [阅读原文](https://variety.com/2026/tv/news/felicia-day-wil-wheaton-the-guild-movie-show-conludo-1236837516/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/girls-planet-2027-kim-sinyoung-kcon-music-tv-1236836519/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Bose QuietComfort Ultra Wireless Noise Canceling Headphones Drops Below $200 for Back to School
+### 1. Don't Skip Your Chance to Compete in The UNO Championship Series, With a $50,000 Grand Finale Prize
 
-[原文] These headphones have no equal in the sub-$200 price category.
+[原文] How good are you at UNO? Toy company Mattel is announcing the UNO World Championship Series, which will offer a $50,000 grand prize.
 
-📎 [阅读原文](https://www.ign.com/articles/bose-quietcomfort-ultra-wireless-noise-canceling-headphone-deal-august-2026-updated) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/dont-skip-your-chance-to-compete-in-the-uno-championship-series-with-a-50000-grand-finale-prize) — *IGN*
 
-### 2. Today’s Top Deals: Dragon Quest III HD-2D Remake, 27" Samsung Monitor, and LEGO Corvette Stingray
+### 2. The Pokémon Company Cancels 30th Anniversary Card Orders Following 'Cyber Incident,' Warns of Customer Data Breach
 
-[原文] Don’t miss Gruv’s 3 for $33 4K Blu-ray sale, a discounted budget gaming mouse, and more.
+[原文] The Pokémon Company is cancelling orders of Pokémon 30th Anniversary Cards following a "cyber incident" that potentially left customer details exposed.
 
-📎 [阅读原文](https://www.ign.com/articles/best-deals-for-august-18-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/pokemon-company-cancels-30th-anniversary-card-orders-following-cyber-incident-warns-of-customer-data-breach) — *IGN*
 
-### 3. Robin Williams’ Children Revive His Instagram to Fight AI Misuse
+### 3. Deleted Highlander Action Sequence With The Kurgan Was Cut Because It Was 'Too Good,' Actor Says
 
-[原文] Robin Williams' children Zak, Zelda, and Cody have revived their late father's Instagram account after a decade to combat rampant AI abuse of his voice and likeness.
+[原文] An actor who starred in a fight sequence cut from the original Highlander movie has revealed what happened, 40 years later.
 
-📎 [阅读原文](https://www.ign.com/articles/robin-williams-children-revive-instagram-ai-abuse) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/deleted-highlander-action-sequence-with-the-kurgan-was-cut-because-it-was-too-good-actor-says) — *IGN*
 
-### 4. IFA 2026: What to Expect From the World’s Largest Home & Consumer Tech Event This Year
+### 4. 'All Good Things Come to an End': Doctor Who Writer Believes Show's Return 'Quietly Won't Happen'
 
-[原文] Not just a trade show; more like a cultural playground.
+[原文] Former Doctor Who writer Mark Gatiss believes the BBC's current plan to reboot the show "quietly won't happen."
 
-📎 [阅读原文](https://www.ign.com/articles/ifa-2026-what-to-expect) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/all-good-things-come-to-an-end-doctor-who-writer-believes-shows-return-quietly-wont-happen) — *IGN*
 
-### 5. The Jackery Explorer 240D 80,000mAh Power Bank Drops Below $100 for the First Time
+### 5. Fast Forever Starts Shooting in December, Confirms Vin Diesel
 
-[原文] Massive capacity, compact size
+[原文] The supposedly final chapter in the Fast & Furious saga should begin shooting before the year is out.
 
-📎 [阅读原文](https://www.ign.com/articles/the-jackery-explorer-240d-80000mah-power-bank-drops-below-100-for-the-first-time) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/fast-forever-starts-shooting-in-december-confirms-vin-diesel) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post 2027 S
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. El Paso Officials Seek Answers Following Emissions at Marathon Refinery
+### 1. Proposed Data Centers Could Use More Electricity Than All Alabama Homes Combined, Analysis Shows. Who Will Pay?
+
+[原文] Wired for Profit: Fourth in a series about Alabama Power’s influence over electric rates, renewable energy, pollution and politics in the Yellowhammer State. WESTOVER, Ala.—Shannon Vanden Heuvel said 
+
+📎 [阅读原文](https://insideclimatenews.org/news/19082026/alabama-power-proposed-data-centers-utility-bills/) — *Inside Climate News*
+
+### 2. As Seas Rise, Scientists Race to Save Coastal Marshes From Drowning
+
+[原文] STONE HARBOR, N.J.—Against a lush carpet of marsh grasses, the five-and-a-half acre island of muddy sediment, shallow pools and tufts of straggly vegetation stood out like a sore thumb.&#160; It wasn’
+
+📎 [阅读原文](https://insideclimatenews.org/news/19082026/sea-level-rise-drowns-coastal-marshes/) — *Inside Climate News*
+
+### 3. El Paso Officials Seek Answers Following Emissions at Marathon Refinery
 
 [原文] EL PASO, Texas—Gilbert Morales struggled to compose himself before addressing the El Paso City Council on Tuesday morning. Morales fought back tears as he recounted how his wife died of lung cancer in
 
 📎 [阅读原文](https://insideclimatenews.org/news/18082026/marathon-el-paso-refinery-emissions/) — *Inside Climate News*
 
-### 2. Hurricane Lala Pummels Hawaii—Despite Never Making Landfall
+### 4. Hurricane Lala Pummels Hawaii—Despite Never Making Landfall
 
 [原文] Despite never making landfall, Hurricane Lala left a path of destruction across Hawaii over the weekend. Strong winds, torrential rain and mudslides damaged or swept away more than 100 homes while fel
 
 📎 [阅读原文](https://insideclimatenews.org/news/18082026/todays-climate-hurricane-lala-hawaii/) — *Inside Climate News*
 
-### 3. NOAA’s New Priorities Put Profits Ahead of Marine Protections
+### 5. NOAA’s New Priorities Put Profits Ahead of Marine Protections
 
 [原文] In the Western Pacific, protections for endangered leatherback turtles face elimination. In Alaskan waters, Steller sea lion sanctuaries could soon shrink. And in the North Atlantic, gear designed to 
 
 📎 [阅读原文](https://insideclimatenews.org/news/18082026/noaa-scraps-marine-protections/) — *Inside Climate News*
-
-### 4. The Clock Is Ticking on Leaded Aviation Fuel
-
-[原文] OSHKOSH, Wisc.—Every July, more than 10,000 general aviation aircraft from around the world fly here for the Experimental Aircraft Association’s AirVenture, widely recognized as the largest annual avi
-
-📎 [阅读原文](https://insideclimatenews.org/news/18082026/hurdles-complicate-aviation-lead-fuel-transition/) — *Inside Climate News*
-
-### 5. Canada Bets Big on Hydro and Wind Power
-
-[原文] Canadian Prime Minister Mark Carney said the country will build the largest clean energy investment in North America’s history—a package of hydropower, onshore wind and transmission projects aimed at 
-
-📎 [阅读原文](https://insideclimatenews.org/news/17082026/canada-hydro-wind-power-investments/) — *Inside Climate News*
 
 ---
 
@@ -401,35 +401,35 @@ The post 2027 S
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Early Childhood Educators Are Leveling Up at Community Colleges — and Employers Agree
+### 1. The Case Against the Classroom Cellphone Crackdown
+
+[原文] Instead of banning the technology, schools have a unique opportunity to promote digital citizenship and authentic student engagement.
+
+📎 [阅读原文](https://edsurge.com/news/the-case-against-the-classroom-cellphone-crackdown) — *EdSurge*
+
+### 2. What Is AI Actually Costing Schools?
+
+[原文] On This Week with EdSurge, searching to see where artificial intelligence quietly adds up.
+
+📎 [阅读原文](https://edsurge.com/news/what-is-ai-actually-costing-schools) — *EdSurge*
+
+### 3. Early Childhood Educators Are Leveling Up at Community Colleges — and Employers Agree
 
 [原文] Research reveals little to no penalty from employers for teachers who earn four-year degrees at community colleges instead of universities.
 
 📎 [阅读原文](https://edsurge.com/news/early-childhood-educators-are-leveling-up-at-community-colleges-and-employers-agree) — *EdSurge*
 
-### 2. College Admissions Testing is Returning to Mixed Reactions
+### 4. College Admissions Testing is Returning to Mixed Reactions
 
 [原文] Supporters argue that reinstating SAT and ACT test requirements better vet student readiness.
 
 📎 [阅读原文](https://edsurge.com/news/college-admissions-testing-is-returning-to-mixed-reactions) — *EdSurge*
 
-### 3. On AI Policy, Students Have Plenty to Say
+### 5. On AI Policy, Students Have Plenty to Say
 
 [原文] At a gathering in Boston, ‘student senators’ proposed a first-of-its-kind national AI policy for K-12 classrooms.
 
 📎 [阅读原文](https://edsurge.com/news/on-ai-policy-students-have-plenty-to-say) — *EdSurge*
-
-### 4. The K-12 Silo Won’t Survive AI — But Our Relationships Might
-
-[原文] I left my school to ask tech executives how to prepare students for the future.
-
-📎 [阅读原文](https://edsurge.com/news/the-k-12-silo-wont-survive-ai-but-our-relationships-might) — *EdSurge*
-
-### 5. Supporting Early Childhood Educators
-
-[原文] The guests on this episode of This Week with EdSurge say good tools fail without good follow-through.
-
-📎 [阅读原文](https://edsurge.com/news/what-do-the-youngest-learners-in-the-building-actually-need) — *EdSurge*
 
 ---
 
@@ -477,35 +477,35 @@ The post 2027 S
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Five Asia-Pacific Airlines, One Huge Fuel Shock, Five Different Outcomes
+### 1. Outgoing Air India CEO Campbell Wilson to Join Air New Zealand Board
+
+[原文] Campbell Wilson’s Air India record will inevitably follow him into the Air New Zealand boardroom.
+
+📎 [阅读原文](https://skift.com/2026/08/19/outgoing-air-india-ceo-campbell-wilson-to-join-air-new-zealand-board/) — *Skift*
+
+### 2. Five Asia-Pacific Airlines, One Huge Fuel Shock, Five Different Outcomes
 
 [原文] Strong demand cushioned many of Asia-Pacific’s largest carriers from a brutal fuel shock, but Q2 exposed how little room there is for error when costs rise faster than revenue.
 
 📎 [阅读原文](https://skift.com/2026/08/18/five-asia-pacific-airlines-one-huge-fuel-shock-five-different-outcomes/) — *Skift*
 
-### 2. Travel Has Started Weighing AI’s Worth
+### 3. Travel Has Started Weighing AI’s Worth
 
 [原文] Travel companies are starting to separate AI that’s paying off from capabilities that aren’t fully baked yet — and that’s starting to shape how they talk about both.
 
 📎 [阅读原文](https://skift.com/2026/08/18/travel-has-started-weighing-ais-worth/) — *Skift*
 
-### 3. Can Tweaking Plane Routes Cut Aviation’s Climate Impact? An Airspace-Wide Contrail Trial Will Test It
+### 4. Can Tweaking Plane Routes Cut Aviation’s Climate Impact? An Airspace-Wide Contrail Trial Will Test It
 
 [原文] It marks a step-change in contrail avoidance research, which has so far been limited to specific airlines. The UK-backed test will cover the Shanwick Oceanic Control Area.
 
 📎 [阅读原文](https://skift.com/2026/08/18/can-rerouting-planes-cut-aviations-climate-impact-an-airspace-wide-contrail-trial-will-test-it/) — *Skift*
 
-### 4. American Cut Seatback Screens to Save Money. Now It’s Playing Catch-Up With Delta and United.
+### 5. American Cut Seatback Screens to Save Money. Now It’s Playing Catch-Up With Delta and United.
 
 [原文] Adding back screens is American's latest attempt to focus on premium. But it has a lot of catching up to do.
 
 📎 [阅读原文](https://skift.com/2026/08/18/american-brings-back-seatback-screens-on-narrowbody-aircraft/) — *Skift*
-
-### 5. The Skift State of Travel 2026 Is Out. Here’s What Stood Out.
-
-[原文] On Monday's ⁠Good Morning Hospitality, A Skift Podcast⁠, ⁠Brandreth Canaley⁠, ⁠Michael Goldin⁠, and ⁠Jamie Lane⁠ each share the stat from Skift's State of Travel 2026 report that hit hardest for them,
-
-📎 [阅读原文](https://skift.com/2026/08/17/the-skift-state-of-travel-2026-is-out-heres-what-stood-out/) — *Skift*
 
 ---
 
