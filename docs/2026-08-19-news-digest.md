@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月19日** | 生成时间: 2026-08-19 09:25
+**2026年08月19日** | 生成时间: 2026-08-19 14:49
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Meta hooked children on Facebook and Instagram, court hears
+### 1. Sacked Ukrainian defence minister calls for presidential election
 
-[原文] Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states got under way.
+[原文] Martial law has been in place in Ukraine since February 2022, under which elections are suspended.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Trump pauses new tariffs on Canada and says countries close to a deal
+
+[原文] US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade deal.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. Meta hooked children on Facebook and Instagram, US court hears
+
+[原文] Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning
+### 4. South Korea shortens war games with US, citing Washington request
 
-[原文] Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its "hour of need".
+[原文] It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a "very good" relationship with North Korea's Kim Jong Un.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Earthquake rocks Spain's historic Granada, injuring three
+### 5. Husband and mother-in-law charged over Indian bride's death
 
-[原文] A number of buildings and cars are damaged in the historic city, and the world famous Alhambra palace has temporarily closed.
+[原文] Twisha Sharma, a model and actor, had been married for just five months when she was found dead in May.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Brazil's President Lula hails oil discovery near Amazon river
-
-[原文] Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Lindsay Clancy begged for help before her children's killings, mother-in-law testifies
-
-[原文] Lindsay Clancy has admitted killing her daughter and two sons but has pleaded not guilty to murder, saying she was experiencing postpartum psychosis.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cjej8nze1wko?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,11 +54,11 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump says no talks scheduled with Iran as he teases action in Hormuz Strait
+### 1. Trump pauses 50% scheduled tariffs on Canada for three days, announces 'deal' with Ottawa
 
-[原文] Trump insists the U.S., not Iran, is in control of the strait, even though transiting vessels continue to come under attack and few attempt the crossing.
+[原文] Trump has already imposed a variety of tariffs on Canada and its specific exports, including metals, lumber and auto parts.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/18/us-iran-war-trump-hormuz-trump-ceasefire-expires-extension-.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/18/trump-carney-canada-tariffs-dealine-talks.html) — *CNBC*
 
 ### 2. Seoul, Washington to halve joint drills as Trump reportedly seeks summit with North Korea's Kim
 
@@ -66,23 +66,23 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/19/south-korea-trump-military-drills-exercise-north-korea-kim-jong-un-.html) — *CNBC*
 
-### 3. Trump, Carney reportedly in talks ahead of new 50% tariffs on Canadian goods
+### 3. Nukes all around? A fraying U.S. nuclear umbrella is pushing allies to weigh defense options, raising risk of a proliferation cascade
 
-[原文] Trump has already imposed a variety of tariffs on Canada and its specific exports, including metals, lumber and auto parts.
+[原文] As countries take more responsibility for their own defense and nuclear states step back from arms-control commitments, the question of proliferation arises.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/18/trump-carney-canada-tariffs-dealine-talks.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/19/nuclear-proliferation-defense-risk-trump-umbrella-.html) — *CNBC*
 
-### 4. OpenAI rolls out ChatGPT for Teens experience with 'stronger built-in safety protections'
+### 4. California AG Bonta says case against Meta is about 'restitution and distortion,' not damages
 
-[原文] ChatGPT for Teens includes a number of educational features and applies age-appropriate safeguards, OpenAI said.
+[原文] Following opening arguments in the case against Meta, California Attorney General Bonta said the trial is not about extracting a massive payout.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/18/openai-chatgpt-for-teens-safety.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/18/meta-attorneys-general-opening-arguments-california-bonta-restitution.html) — *CNBC*
 
-### 5. Data centers, crypto, and tax revisions take center stage in Tuesday primaries
+### 5. China’s backflipping robot maker Unitree pops 542% in Shanghai debut
 
-[原文] Incumbent Republican Sen. Dan Sullivan of Alaska is facing a serious challenge from former Democratic Rep. Mary Peltola.
+[原文] Unitree Robotics shares rise 542% on their first day of trading in Shanghai
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/18/primary-elections-alaska-florida-wyoming-midterms.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/19/china-backflipping-robot-maker-unitree-jumps-shanghai-ipo.html) — *CNBC*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Rodri ready for 'excitement again' after Barca complete £65m deal
+### 1. How will your club fare? Phil McNulty's Premier League predictions
 
-[原文] Barcelona sign Spain midfielder Rodri, the player of the 2026 World Cup, from Manchester City after a trophy-laden seven years with the Premier League club.
+[原文] How will your club fare in the 2026-27 Premier League? BBC chief football writer Phil McNulty makes his annual predictions.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c2k7w3vwv5yo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c5ye50qz7yqo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Premier League chief says Fifa self-destructed over World Cup plan
+### 2. Musiala collapses in match for second time in four days
 
-[原文] Premier League chief executive Richard Masters has criticised Fifa president Gianni Infantino's World Cup sell-off plan, saying the organisation has "pressed the self-destruct button" by delivering "a
+[原文] Bayern Munich midfielder Jamal Musiala says he is being treated for a "neurological dysfunction" after collapsing during a match for the second time in a four-day period.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cgjeqez58wno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c330kg5xm8no?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Root's great challenge to finish captaincy story
+### 3. Antonelli - the boy 'born in a garage' who started driving on dad's lap
+
+[原文] Kimi Antonelli was a natural driver at the age of three, according to his dad. Here's how he went on to lead the F1 drivers' championship at the age of 19.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/c0rdvxdwwwwo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. Root's great challenge to finish captaincy story
 
 [原文] Joe Root has an unexpected chance to address some unfinished business as England captain, but it is one of the biggest challenges of his stellar career.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cd69881454vo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Aston Villa agree deal for West Ham's Wan-Bissaka
+### 5. Even the Queen could not watch - 10 years since Olympic hockey gold
 
-[原文] Aston Villa agree to sign West Ham defender Aaron Wan-Bissaka on an initial loan deal with an obligation to buy at the end of the season.
+[原文] Ten years since Team GB clinched women's hockey gold at the Rio Olympics, BBC Sport looks back at the legacy of that historic win.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cgr7vvpkw0eo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Musiala collapses during match for second time in four-day period
-
-[原文] Bayern Munich midfielder Jamal Musiala says he is being treated for a "neurological dysfunction" after collapsing during a match for the second time in a four-day period.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c330kg5xm8no?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/hockey/articles/czek237r51po?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. John Irvin, Director of ‘Hamburger Hill,’ ‘Tinker Tailor Soldier Spy,’ Dies at 86
+### 1. Kim Jong-kwan’s ‘The Table: Day and Night’ to Open Busan
+
+[原文] The 31st Busan International Film Festival (BIFF) has selected &#8220;The Table: Day and Night,&#8221; directed by Kim Jong-kwan, as its opening film for the 2026 edition, marking the feature&#8217;s 
+
+📎 [阅读原文](https://variety.com/2026/film/festivals/kim-jong-kwan-table-day-and-night-busan-opening-film-1236837993/) — *Variety*
+
+### 2. ‘Supergirl’ Star David Krumholtz Posts and Deletes Plans to Retire From Acting: ‘And Now, New Life’
+
+[原文] David Krumholtz, who played Kor-El in this year&#8217;s &#8220;Supergirl&#8221; and appeared in &#8220;Oppenheimer&#8221; and &#8220;The Studio,&#8221; said on Threads Monday that he&#8217;s done with
+
+📎 [阅读原文](https://variety.com/2026/film/news/david-krumholtz-posts-deletes-retire-from-acting-1236837871/) — *Variety*
+
+### 3. John Irvin, Director of ‘Hamburger Hill,’ ‘Tinker Tailor Soldier Spy,’ Dies at 86
 
 [原文] John Irvin, the British director of “Hamburger Hill,” the “Tinker Tailor Soldier Spy” miniseries and 1981’s “Ghost Story,” died Aug. 11. He was 86.  His producers confirmed he died at the home of his 
 
 📎 [阅读原文](https://variety.com/2026/film/news/john-irvin-dead-hamburger-hill-1236837824/) — *Variety*
 
-### 2. ‘Heroes’ Creator Tim Kring Pays Tribute to Hayden Panettiere as a ‘Singularly Talented Actor’ With a ‘Deep Understanding of Human Nature’
+### 4. ‘Heroes’ Creator Tim Kring Pays Tribute to Hayden Panettiere as a ‘Singularly Talented Actor’ With a ‘Deep Understanding of Human Nature’
 
 [原文] Hayden Panettiere was a seasoned professional by the time she auditioned for “Heroes” at the age of 16. But unlike many actors who start working as kids, Hayden had no sense of jaded child actor quali
 
 📎 [阅读原文](https://variety.com/2026/tv/news/heroes-tim-kring-tribute-hayden-panettiere-1236837796/) — *Variety*
 
-### 3. Felicia Day, Wil Wheaton on New Tabletop Gaming Show ‘Conludo,’ How ‘The Guild’ Reunion Movie Will Be Impacted by a Denied California Tax Credit
+### 5. Felicia Day, Wil Wheaton on New Tabletop Gaming Show ‘Conludo,’ How ‘The Guild’ Reunion Movie Will Be Impacted by a Denied California Tax Credit
 
 [原文] Reunions all around for Felicia Day these days: Amid a massive fundraiser for a movie reunion of her series “The Guild,” Day is reteaming with longtime friend and collaborator Wil Wheaton for a new ki
 
 📎 [阅读原文](https://variety.com/2026/tv/news/felicia-day-wil-wheaton-the-guild-movie-show-conludo-1236837516/) — *Variety*
-
-### 4. Walmart Touts Free Peacock Access for Walmart+ Members on Heels of Streamer’s Latest Price Hike
-
-[原文] Walmart is offering up some new deals, discounts and special offers right now, including a way to get a Peacock streaming subscription for free. While Walmart is touting its back to school deals right
-
-📎 [阅读原文](https://variety.com/2026/shopping/news/best-walmart-plus-deals-streaming-offers-1236040212/) — *Variety*
-
-### 5. Clive Barker Announces Kickstarter-Exclusive Anthology Book Series ‘Library of the Dead’ (EXCLUSIVE)
-
-[原文] Horror master Clive Barker is set to release the new “Library of the Dead” anthology project Aug. 18 exclusively on Kickstarter. The three-book horror anthology consists of three books: “Fear Eternal,
-
-📎 [阅读原文](https://variety.com/2026/digital/news/clive-barker-kickstarter-series-library-of-the-dead-1236837367/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Robin Williams’ Children Revive His Instagram to Fight AI Misuse
+### 1. The Bose QuietComfort Ultra Wireless Noise Canceling Headphones Drops Below $200 for Back to School
+
+[原文] These headphones have no equal in the sub-$200 price category.
+
+📎 [阅读原文](https://www.ign.com/articles/bose-quietcomfort-ultra-wireless-noise-canceling-headphone-deal-august-2026-updated) — *IGN*
+
+### 2. Today’s Top Deals: Dragon Quest III HD-2D Remake, 27" Samsung Monitor, and LEGO Corvette Stingray
+
+[原文] Don’t miss Gruv’s 3 for $33 4K Blu-ray sale, a discounted budget gaming mouse, and more.
+
+📎 [阅读原文](https://www.ign.com/articles/best-deals-for-august-18-2026) — *IGN*
+
+### 3. Robin Williams’ Children Revive His Instagram to Fight AI Misuse
 
 [原文] Robin Williams' children Zak, Zelda, and Cody have revived their late father's Instagram account after a decade to combat rampant AI abuse of his voice and likeness.
 
 📎 [阅读原文](https://www.ign.com/articles/robin-williams-children-revive-instagram-ai-abuse) — *IGN*
 
-### 2. IFA 2026: What to Expect From the World’s Largest Home & Consumer Tech Event This Year
+### 4. IFA 2026: What to Expect From the World’s Largest Home & Consumer Tech Event This Year
 
 [原文] Not just a trade show; more like a cultural playground.
 
 📎 [阅读原文](https://www.ign.com/articles/ifa-2026-what-to-expect) — *IGN*
 
-### 3. The Jackery Explorer 240D 80,000mAh Power Bank Drops Below $100 for the First Time
+### 5. The Jackery Explorer 240D 80,000mAh Power Bank Drops Below $100 for the First Time
 
 [原文] Massive capacity, compact size
 
 📎 [阅读原文](https://www.ign.com/articles/the-jackery-explorer-240d-80000mah-power-bank-drops-below-100-for-the-first-time) — *IGN*
-
-### 4. The Stardew Valley Switch 2 Physical Edition Is the Kind of Cash Grab I Can Get Behind
-
-[原文] Eight months after the Switch 2 edition of Stardew Valley was released digitally, a physical edition of the upgrade has popped up at Fangamer.
-
-📎 [阅读原文](https://www.ign.com/articles/the-stardew-valley-switch-2-physical-edition-is-the-kind-of-cash-grab-i-can-get-behind) — *IGN*
-
-### 5. Brandon Sanderson's Cosmere RPG Starter Set Is Now Being Sold at Target Retail Stores
-
-暂无摘要。
-
-📎 [阅读原文](https://www.ign.com/articles/the-cosmere-rpg-starter-set-board-game-is-now-being-sold-at-target-retail-stores) — *IGN*
 
 ---
 
@@ -439,35 +439,35 @@ The post 2027 S
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. C+C Music Factory Founder Sues Freedom Williams in $30 Million Trademark Lawsuit
+### 1. Suge Knight Gang Associate Dodges Questions at Tupac Trial: ‘Not Gonna Send Him to Prison’
+
+[原文] Former gang member James McDonald testified at the trial of Duane "Keffe D" Davis
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/tupac-shakur-murder-trial-mcdonald-testimony-1235610596/) — *Rolling Stone*
+
+### 2. C+C Music Factory Founder Sues Freedom Williams in $30 Million Trademark Lawsuit
 
 [原文] Robert Clivillés claims rapper Williams has been making money off the group's name without permission
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/cc-music-factory-lawsuit-trademark-1235611284/) — *Rolling Stone*
 
-### 2. Watch ZZ Top Perform ‘Tush’ at Band’s Final Concert With Original Lineup
+### 3. Watch ZZ Top Perform ‘Tush’ at Band’s Final Concert With Original Lineup
 
 [原文] This July 18, 2021, gig in Louisville, Kentucky, marked the end of one of the single most enduring lineups in rock history
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/zz-top-dusty-hill-last-concert-gimme-all-your-lovin-1204055/) — *Rolling Stone*
 
-### 3. Frank Beard, ZZ Top’s Hard-Shuffling Drummer, Dead at 77
+### 4. Frank Beard, ZZ Top’s Hard-Shuffling Drummer, Dead at 77
 
 [原文] The tireless drummer anchored the Texas band on hits like “La Grange,” “Tush,” and “Cheap Sunglasses” during its five-decade run
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/frank-beard-zz-top-drummer-dead-obituary-1235607415/) — *Rolling Stone*
 
-### 4. A 22-Year-Old Drama Student Filmed Jimi Hendrix’s Woodstock Performance From the Stage
+### 5. A 22-Year-Old Drama Student Filmed Jimi Hendrix’s Woodstock Performance From the Stage
 
 [原文] A Second Look reveals rare footage of the 1969 festival and new perspective on classics “Purple Haze” and “Voodoo Child (Slight Return)”
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/jimi-hendrix-woodstock-performance-a-second-look-film-1235610617/) — *Rolling Stone*
-
-### 5. Allman Betts Family Revival Tour to Mark 10th Anniversary With Robert Randolph, Sierra Hull
-
-[原文] Devon Allman and Duane Betts, sons of founding Allman Brothers Band members Gregg Allman and Dickey Betts, will lead the rotating ensemble-cast lineup
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/allman-betts-family-revival-tour-10th-anniversary-dates-1235610845/) — *Rolling Stone*
 
 ---
 
