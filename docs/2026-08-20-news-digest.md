@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月20日** | 生成时间: 2026-08-20 02:39
+**2026年08月20日** | 生成时间: 2026-08-20 09:24
 
 ---
 
@@ -18,33 +18,33 @@
 
 ### 1. Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation
 
-[原文] The five-year old Gaza girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.
+[原文] The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Sacked Ukrainian defence minister calls for presidential election
+### 2. Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza
+
+[原文] Australia's foreign minister says she will summon the Israeli ambassador over 'insulting' Zomi Frankcom decision.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. Trump threatens 'tremendous economic consequences' on any country helping Iran
+
+[原文] It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. Sacked Ukrainian defence minister calls for presidential election
 
 [原文] Martial law has been in place in Ukraine since February 2022, under which elections are suspended.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Israel opens up bids for highly-sensitive West Bank settlement project
+### 5. Israel opens up bids for highly-sensitive West Bank settlement project
 
-[原文] Israeli plans to build on the area east of Jerusalem - which would divide the occupied West Bank in two - have long been internationally condemned.
+[原文] The UK's foreign secretary condemned the move as "an unacceptable and destructive act".
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. South Korea shortens war games with US, citing Washington request
-
-[原文] It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a "very good" relationship with North Korea's Kim Jong Un.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Ukrainian man arrested in Croatia over Nord Stream pipeline blasts
-
-[原文] The man is alleged to have been one of the scuba divers who planted explosives on the pipelines in 2022.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump touted a deal to avert new tariffs on Canada. Here's what we know so far
+### 1. U.S. government debt passes $40 trillion, more than doubling in a decade
 
-[原文] Trump's new tariffs on about $20 billion worth of Canadian goods were set to take effect Wednesday, but were postponed by three days.
+暂无摘要。
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/19/trump-canada-tariffs-deal-carney.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/19/us-government-debt-passes-40-trillion-mark-for-the-first-time.html) — *CNBC*
 
-### 2. Fed officials saw need for rate hike if inflation doesn't cool, minutes show
+### 2. Bessent moves to curb Treasury yields, putting new pressure on Warsh's Fed
 
-[原文] The Federal Reserve on Wednesday released minutes from its July 28-29 policy meeting.
+[原文] Treasury's move to buy back more long-term debt cooled a bond selloff, but economists warn it could raise new inflation and independence questions for the Fed
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/19/bessent-treasury-buybacks-yields-warsh-fed.html) — *CNBC*
 
-### 3. Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock soars 150%
+### 3. Trump announces 'economic warfare' on Iran, threatens ‘tremendous’ consequences for its backers
 
-[原文] The combination regimen significantly extended the time patients lived without their melanoma returning, compared with Keytruda alone.
+[原文] The announcement extends a pressure campaign the Trump administration has waged since April under the banner Operation Economic Fury.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz-economic-warfare.html) — *CNBC*
 
-### 4. DOJ cites Comey's novel in urging judge not to toss '86 47' seashells threat to Trump case
+### 4. Japan exports beat estimates in July as robust chip shipments power fifth straight month of gains
 
-[原文] "There is no serious dispute that an objective viewer of Comey's post could read it to mean 'Kill President Trump,' " prosecutors said.
+[原文] Shipments of semiconductor equipment posted a massive 49.1% jump in value, reflecting continued demand, boosted by the artificial intelligence boom.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/19/comey-trump-8647-seashells-threat-doj.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/20/japan-exports-imports-july-chip-ai.html) — *CNBC*
 
-### 5. Yields pull back from multi-year highs after Treasury Department says it will double government debt repurchase size
+### 5. Call-buying bonanza around Trump's Hyperliquid comments includes some eyebrow-raising trades
 
-[原文] Treasury yields pulled back on Wednesday from multi-year highs seen earlier this week.
+[原文] President Donald Trump hinted that regulation may be in the works for Hyperliquid. Interesting trading activity followed.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/19/treasury-yields-multi-decade-highs-bonds-inflation.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/19/call-buying-bonanza-around-trumps-hyperliquid-comments-includes-eyebrow-raising-trades.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Meet the startup helping Wall Street put a price on AI compute
+### 1. Stripe didn’t really buy OpenRouter because of the ‘singularity’
 
-[原文] The AI buildout shows no signs of slowing. And&#160;with&#160;hundreds of&#160;billions of dollars a year going into data centers and GPUs,&#160;compute has&#160;become the single biggest cost for any
+[原文] What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of "the singularity" but it's really for a far more real and powerful reason.
 
-📎 [阅读原文](https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/) — *TechCrunch*
 
-### 2. T-Mobile ‘chopped a cable’ to expel Chinese hackers from its network
+### 2. Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities
 
-[原文] The U.S. phone provider escaped a large-scale breach of its network after identifying Chinese-backed hackers early on.
+[原文] The next-generation robotaxi, called the Waymo Ojai, is central to the company's push towards mass scale, and eventually, profitability.
 
-📎 [阅读原文](https://techcrunch.com/2026/08/19/t-mobile-chopped-a-cable-to-expel-chinese-hackers-from-its-network/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/) — *TechCrunch*
 
-### 3. Time’s running out! Save $300 on your TechCrunch Disrupt 2026 pass until August 21
+### 3. OpenAI seeks to one-up Anthropic with new customer privacy protections
 
-[原文] If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at
+[原文] A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.
 
-📎 [阅读原文](https://techcrunch.com/2026/08/19/times-running-out-save-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/) — *TechCrunch*
 
-### 4. TerraPower’s nuclear reactor has a secret weapon for powering AI data centers
+### 4. Cognition CEO denies report that SpaceX tried to acquire the startup
 
-[原文] TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.
+[原文] SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.
 
-📎 [阅读原文](https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/) — *TechCrunch*
 
-### 5. Rivian spinout Also raises another $150M
+### 5. Travis Kalanick kicks off another round of VC bashing: ‘1% are helpful’
 
-[原文] The round, led by Prysm Capital, will fund the company's expansion beyond pedal-assist electric bikes and commercial cargo quads to autonomous delivery vehicles.
+[原文] After raising $1.7 billion for his new robotics company Atoms, Travis Kalanick is introspective about the role VCs have played in his career.
 
-📎 [阅读原文](https://techcrunch.com/2026/08/19/rivian-spinout-also-raises-another-150-million/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/08/19/travis-kalanick-kicks-off-another-round-of-vc-bashing-1-are-helpful/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Athletics coach believed missing is in jail for sexual assault
+### 1. How Root brought welcome calm on return as England captain
+
+[原文] Joe Root took advice from Harry Brook and adopted a hands-off approach with his bowlers on his return as England Test skipper.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c36d944wlweo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. Athletics coach believed missing is in jail for sexual assault
 
 [原文] English athletics coach Leon Baptiste was given a 10-month prison sentence in Morocco for sexually assaulting a minor.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/c204wq61e19o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Arsenal agree £50m-plus deal to sign Villa's Konsa
+### 3. Rashford wants to play football 'without name mentioned every day'
 
-[原文] Arsenal agree a deal worth more than £50m to sign Aston Villa and England defender Ezri Konsa.
+[原文] Marcus Rashford says he would like to play football without his "name being mentioned every day" after Gary Neville tried to start a conversation about the Manchester United forward on a podcast.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c98vz9jvg0vo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c1j1397zg1xo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. 'Parents shouldn’t fear their children not coming home from a race'
+### 4. Tongue & Robinson cut Headingley ball in half
 
-[原文] Parents should not be scared their children might not come back from a cycling race following the death of Finlay Tarling, Lorena Wiebes says after winning the opening stage of the Tour of Britain Wom
+[原文] England seamers Josh Tongue and Ollie Robinson find a solution as to who keeps the ball after the both claim a five-wicket haul at Headingley - split it in half.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cycling/articles/c5y3n8e1e6eo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/ceqe3zd9wleo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Kane plays down returning to Premier League in future
+### 5. Why positive cocaine test could mean end of Kyrgios' career
 
-[原文] Harry Kane says "the itch isn't there as much anymore" to one day return to England from Germany and try and break the all-time scoring record in the Premier League.
+[原文] Nick Kyrgios once said he did not want to play tennis into his 30s. A positive cocaine test could have brought an end to his career aged 31.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/clylkxekeleo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Cricket: Today at the Test
-
-[原文] New captain, new coach and some old faces. England start the series at Headingley
-
-📎 [阅读原文](https://www.bbc.co.uk/iplayer/live/bbctwo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/c87nzeepv70o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. David Krumholtz Clarifies He’s Putting Acting Career on Hold but Not ‘Retiring or Quitting’: Disappointments ‘Are Starting to Sting More’
+### 1. Hayden Panettiere’s Death: DEA Joins Investigation
 
-[原文] &#8220;Supergirl&#8221; and &#8220;Oppenheimer&#8221; actor David Krumholtz is clarifying his remarks from earlier this week about whether he&#8217;s retiring from acting. Krumholtz posted on Instagra
+[原文] The Drug Enforcement Administration has joined the investigation into Hayden Panettiere’s death, according to ABC News. The DEA is entering a joint effort with South Carolina&#8217;s Greenville Police
 
-📎 [阅读原文](https://variety.com/2026/film/news/david-krumholtz-acting-career-on-hold-not-retiring-1236838449/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/hayden-panettiere-death-dea-joins-investigation-1236838724/) — *Variety*
 
-### 2. Telemundo Executive José Suárez Dies in Helicopter Crash at 55
+### 2. French Soccer Star Kylian Mbappé Debuts Gold Nike Cleats on Heels of World Cup Golden Boot Award Win
 
-[原文] José Alberto Suárez, president and general manager of Telemundo&#8217;s TV stations in Orlando, Tampa and Fort Myers-Naples, Florida, died Wednesday in a helicopter crash, according to the NBCUniversa
+[原文] The World Cup may be over but the merch and apparel rollout continues this month with the launch of a limited-edition pair of soccer cleats from French star and 2026 Golden Boot Award winner, Kylian M
 
-📎 [阅读原文](https://variety.com/2026/tv/news/telemundo-jose-suarez-dies-helicopter-crash-1236838453/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/shopping/athletes/kylian-mbappe-nike-mercurial-gold-soccer-cleats-buy-online-1236838580/) — *Variety*
 
-### 3. ‘Slow Horses’ Actor Jack Lowden Unpacks River Cartwright and Why Pride Gets in His Way
+### 3. Dane Cook’s Brother Stole $12 Million From Comedian, Hid Bricks of Cash in Pasta Sauce
 
-[原文] It’s fair to say that when audiences see River Cartwright at the beginning of Apple TV’s “Slow Horses” Season 5, he is not in a good place. The previous season revealed that River’s father, Frank Hark
+[原文] Uh oh, Spaghetti O&#8217;s! Dane Cook&#8217;s brother stole $12 million from the comedian and hid bricks of cash inside pasta sauce, a new documentary reveals. Premiering on Sept. 29, &#8220;Funny Mon
 
-📎 [阅读原文](https://variety.com/2026/awards/news/slow-horses-actor-jack-lowden-river-cartwright-season-5-1236838202/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/dane-cook-brother-stole-12-million-cash-pasta-sauce-1236838675/) — *Variety*
 
-### 4. ‘Widow’s Bay’ and Other Contenders Continue to Complicate Emmy’s Comedy Conundrum
+### 4. Hayden Panettiere’s ‘Heroes’ Dad Calls Out ‘Predatory’ Paparazzi Who ‘Hunted’ Her and the Press Who Asked ‘Misogynistic’ Questions When She Was a Teen
 
-[原文] You’re probably as tired of the “what’s a comedy?” debate as I am, particularly when it comes to awards shows like the Emmys. FX’s “The Bear” reignited that conversation a few years ago, even though i
+[原文] Jack Coleman, the &#8220;Heroes&#8221; actor who played the father of Hayden Panettiere&#8217;s Claire Bennet, posted an emotional tribute to his late co-star following her death this week at 36 years
 
-📎 [阅读原文](https://variety.com/2026/tv/awards/widows-bay-emmys-comedy-contenders-conundrum-1236837738/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/hayden-panettiere-heroes-dad-slams-paparazzi-media-hunting-her-1236838679/) — *Variety*
 
-### 5. Yash’s ‘Toxic’ Unveils English-Language Trailer
+### 5. ‘Lucky’ Creators on Deciding Who Dies in the Finale, Why the Show Really Is Over and Not Knowing About Drew Starkey’s ‘Avid’ Fandom ‘Until We Killed Him’
 
-[原文] Prime Media Studios has acquired North American distribution rights to &#8220;Toxic: A Fairytale for Grown-Ups&#8221; and released the English-language trailer for the Geetu Mohandas-directed action t
+[原文] SPOILER ALERT: This interview contains major spoilers from “All Good Things,” the finale of Apple TV’s “Lucky.” Luciana “Lucky” Armstrong (Anya Taylor-Joy) has just pulled off one last con on the most
 
-📎 [阅读原文](https://variety.com/2026/film/news/yash-toxic-english-trailer-1236838385/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/lucky-creators-finale-deaths-killing-drew-starkey-anya-taylor-joy-1236838325/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Call of Duty: Modern Warfare 4 Beta Will Fix Issues That Have Plagued the Series for the Better Part of a Decade
+### 1. Mail-Order Media Giant Columbia House Shutting Down After 71 Years
 
-[原文] The Call of Duty: Modern Warfare 4 beta will fix some issues that have plagued the series for the better part of a decade.
+[原文] Mail-order music and movie club Columbia House is officially shutting down and ceasing new orders after 71 years of operation.
 
-📎 [阅读原文](https://www.ign.com/articles/call-of-duty-modern-warfare-4-beta-will-fix-issues-that-have-plagued-the-series-for-the-better-part-of-a-decade) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/mail-order-media-giant-columbia-house-shutting-down-after-71-years) — *IGN*
 
-### 2. Latest Xbox Console Updates Include Extremely Belated Profile Badge if You Bought an Xbox One Back in 2013
+### 2. Preorder SPECS, Snap's First-Ever AR Glasses
 
-[原文] New Xbox console features include a special profile badge if you forked out for an Xbox One on day one back in November 2013.
+[原文] Lightweight and stylish personal wearable computer.
 
-📎 [阅读原文](https://www.ign.com/articles/latest-xbox-console-updates-include-extremely-belated-profile-badge-if-you-bought-an-xbox-one-back-in-2013) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/preorder-the-specs-ar-glasses-from-snap) — *IGN*
 
-### 3. Speed Racer: The Complete Series Collector’s Edition on Blu-Ray Is Up for Preorder (and on Sale at Amazon)
+### 3. Steam Frame Seems to Be On the Horizon as Unboxing and Setup Videos Leak Online
 
-[原文] Speed Racer: The Complete Series is getting a Blu-ray Collector's Edition on August 25. Here's where it's available to preorder ahead of its release.
+[原文] After setup videos leaked online, Valve opted to push them out officially.
 
-📎 [阅读原文](https://www.ign.com/articles/speed-racer-the-complete-series-blu-ray-where-to-buy) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/steam-frame-seems-to-be-on-the-horizon-as-unboxing-and-setup-videos-leak-online) — *IGN*
 
-### 4. John Cena Reveals the Touching Reason Why Warner Bros.’ Initial Decision to Shelve Coyote vs Acme Didn’t Devastate Him
+### 4. LEGO Fans Are Closer Than Ever to Getting a Studio Ghibli Set
 
-[原文] John Cena opened up about the graceful way he handled Warner Bros.’ infamously unpopular decision to shelve Coyote vs Acme back in 2023 and how James Gunn’s influence on the film still lingers.
+暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/john-cena-reveals-the-touching-reason-why-warner-bros-initial-decision-to-shelve-coyote-vs-acme-didnt-devastate-him) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/lego-fans-studio-ghibli-ideas-2026) — *IGN*
 
-### 5. Xbox Special Edition Translucent Green Controller Price, Release Date Leaked
+### 5. Director of Marvel’s Wolverine Responds After Extended Gameplay Footage Sparks Backlash
 
-[原文] Pricing and launch details for Microsoft's snazzy translucent green Xbox controller have leaked online.
+[原文] The director of Marvel’s Wolverine, Mike Daly, opened up about the recent backlash toward the game after its extended gameplay showcase drew criticism online.
 
-📎 [阅读原文](https://www.ign.com/articles/xbox-special-edition-translucent-green-controller-price-release-date-leaked) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/director-of-marvels-wolverine-responds-after-extended-gameplay-footage-sparks-backlash) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post GTA 6 Leaked Gameplay Shows Off Chaos in a Knockoff Ranchero appear
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Proposed Data Centers Could Use More Electricity Than All Alabama Homes Combined, Analysis Shows. Who Will Pay?
+### 1. Recent Rain Slowed Southwestern Montana Wildfires. Now the Heat Is Returning.
+
+[原文] Firefighters are gaining ground on three large wildfires that have burned more than 47,000 acres across southwestern Montana, but unhelpful warmer temperatures, lower humidity and breezy conditions ar
+
+📎 [阅读原文](https://insideclimatenews.org/news/19082026/montana-wildfire-conditions-rapidly-change/) — *Inside Climate News*
+
+### 2. Proposed Data Centers Could Use More Electricity Than All Alabama Homes Combined, Analysis Shows. Who Will Pay?
 
 [原文] Wired for Profit: Fourth in a series about Alabama Power’s influence over electric rates, renewable energy, pollution and politics in the Yellowhammer State. WESTOVER, Ala.—Shannon Vanden Heuvel said 
 
 📎 [阅读原文](https://insideclimatenews.org/news/19082026/alabama-power-proposed-data-centers-utility-bills/) — *Inside Climate News*
 
-### 2. As Seas Rise, Scientists Race to Save Coastal Marshes From Drowning
+### 3. As Seas Rise, Scientists Race to Save Coastal Marshes From Drowning
 
 [原文] STONE HARBOR, N.J.—Against a lush carpet of marsh grasses, the five-and-a-half acre island of muddy sediment, shallow pools and tufts of straggly vegetation stood out like a sore thumb.&#160; It wasn’
 
 📎 [阅读原文](https://insideclimatenews.org/news/19082026/sea-level-rise-drowns-coastal-marshes/) — *Inside Climate News*
 
-### 3. El Paso Officials Seek Answers Following Emissions at Marathon Refinery
+### 4. El Paso Officials Seek Answers Following Emissions at Marathon Refinery
 
 [原文] EL PASO, Texas—Gilbert Morales struggled to compose himself before addressing the El Paso City Council on Tuesday morning. Morales fought back tears as he recounted how his wife died of lung cancer in
 
 📎 [阅读原文](https://insideclimatenews.org/news/18082026/marathon-el-paso-refinery-emissions/) — *Inside Climate News*
 
-### 4. Hurricane Lala Pummels Hawaii—Despite Never Making Landfall
+### 5. Hurricane Lala Pummels Hawaii—Despite Never Making Landfall
 
 [原文] Despite never making landfall, Hurricane Lala left a path of destruction across Hawaii over the weekend. Strong winds, torrential rain and mudslides damaged or swept away more than 100 homes while fel
 
 📎 [阅读原文](https://insideclimatenews.org/news/18082026/todays-climate-hurricane-lala-hawaii/) — *Inside Climate News*
-
-### 5. NOAA’s New Priorities Put Profits Ahead of Marine Protections
-
-[原文] In the Western Pacific, protections for endangered leatherback turtles face elimination. In Alaskan waters, Steller sea lion sanctuaries could soon shrink. And in the North Atlantic, gear designed to 
-
-📎 [阅读原文](https://insideclimatenews.org/news/18082026/noaa-scraps-marine-protections/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post GTA 6 Leaked Gameplay Shows Off Chaos in a Knockoff Ranchero appear
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Cher’s Conservatorship Bid Over Elijah Blue Allman Heats Up as Son’s Wife Seeks Control Instead
+### 1. Fan’s Cause of Death at Goose’s Madison Square Garden Concert Determined
 
-[原文] Marieangela King Allman files a formal opposition and says she deserves priority if a conservator is needed
+[原文] Paul Keuker, 51, accidentally fell during the show and transported to a hospital, where he was pronounced dead
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/cher-conservatorship-elijah-blue-allman-wife-seeks-control-1235611525/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/goose-fan-cause-of-death-madison-square-garden-concert-1235611854/) — *Rolling Stone*
 
-### 2. Jack White Summons a Reagan-Era ‘John Wayne’ Novelty Rap to Humiliate Charley Crockett
+### 2. Alex Lifeson Quit Weed for Rush’s Tour. These 10 Musicians Gave It Up, Too (Or At Least Tried)
 
-[原文] Instagram post quoting “the Duke” follows comments from Crockett who said he lost respect for White after Twin Temple kerfuffle
+[原文] We look at other musicians — from Miley Cyrus to Willie Nelson to Paul McCartney to SZA — who've talked about quitting
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/jack-white-charley-crockett-the-duke-john-wayne-1235611439/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/alex-lifeson-weed-rush-musicians-who-quit-1235611818/) — *Rolling Stone*
 
-### 3. Beck Dives Deeper Into ‘Ride Lonesome’ With New Single, ‘Disappearing Act’
+### 3. Anderson .Paak and Cordae Bicker With Their Pants Off in ‘Step Brothers’-Inspired Album Teaser Video
 
-[原文] The single will appear alongside previously released tracks “In the Night” and “Ride Lonesome” on his upcoming album, Ride Lonesome, out Sept. 18
+[原文] Rappers filmed the clip to promote upcoming collaborative album, Heavy Is the Crown
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/beck-new-single-disappearing-act-ride-lonesome-album-1235611438/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/anderson-paak-cordae-heavy-is-the-crown-collaboration-album-1235611749/) — *Rolling Stone*
 
-### 4. Niall Horan Is Letting Fans Decide His Next Tour Set List
+### 4. Ariana Grande Wins Fast-Track Subpoena Power to ‘Unmask’ Alleged Hackers
 
-[原文] Singer-songwriter opens online portal where fans can vote for up to 20 songs they want to hear on his upcoming Dinner Party tour
+[原文] The singer told the court that without immediate discovery power, she runs the risk that the account data needed to identify her alleged hackers “will be lost”
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/niall-horan-letting-fans-choose-tour-setlist-1235611486/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/ariana-grande-wins-subpoena-power-unmask-hackers-1235611707/) — *Rolling Stone*
 
-### 5. Green Day’s Mike Dirnt to Sell One-of-a-Kind Bass Guitars, Clothing, More on Reverb
+### 5. Tyler, the Creator’s Camp Flog Gnaw Returns With Future, Don Toliver, Steve Lacy, Turnstile
 
-[原文] Collection includes Dookie-, Nimrod-, and American Idiot-era bass guitars, alongside other gear and clothing spanning musician’s career on Reverb
+[原文] Scheduled for Nov. 14 and 15 at Dodger Stadium, the weekend-long event will also feature appearances from Not for Radio, Wallows, Lola Young, and more
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/green-day-mike-dirnt-bass-guitars-clothing-reverb-on-sale-1235608094/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/camp-flog-gnaw-2026-tyler-the-creator-steve-lacy-turnstile-1235611575/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post GTA 6 Leaked Gameplay Shows Off Chaos in a Knockoff Ranchero appear
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Disney Has a New Metric to Capture Its Growing Bet on Cruises
+### 1. Delta’s Texas Ambitions: Is Austin Its Next Hub?
+
+[原文] Texas is one of the fastest growing states in the U.S., and American, Southwest, and United all have a major presence in the state. Now, Delta is looking to cash in with more growth out of Austin and 
+
+📎 [阅读原文](https://skift.com/2026/08/19/deltas-texas-ambitions-is-austin-its-next-hub/) — *Skift*
+
+### 2. GMH Hotels: The Metric That Broke Hotel Strategy
+
+[原文] On this week's ⁠Good Morning Hospitality, A Skift Podcast⁠: Hotels Edition, ⁠Sarah Dandashy⁠ and ⁠Steve Turk⁠ dig into how the hotel industry measures success, where capital is flowing, and who contro
+
+📎 [阅读原文](https://skift.com/2026/08/19/gmh-hotels-the-metric-that-broke-hotel-strategy/) — *Skift*
+
+### 3. Disney Has a New Metric to Capture Its Growing Bet on Cruises
 
 [原文] Disney doesn't break out its cruise financials, but a U.K. subsidiary offers more details on the sector's growth.
 
 📎 [阅读原文](https://skift.com/2026/08/19/disney-global-guest-cruise-growth/) — *Skift*
 
-### 2. Why American Paused a Climate Trial When Fuel Prices Spiked, Hopes to Resume This Fall
+### 4. Why American Paused a Climate Trial When Fuel Prices Spiked, Hopes to Resume This Fall
 
 [原文] Avoiding the creation of planet-warming contrails is considered one of the cheapest ways to cut aviation’s impact on the environment — but even marginal costs mount when jet fuel prices spike.
 
 📎 [阅读原文](https://skift.com/2026/08/19/why-american-paused-a-climate-trial-when-fuel-prices-spiked/) — *Skift*
 
-### 3. The 2% Fee Behind the American Travel Boom
+### 5. The 2% Fee Behind the American Travel Boom
 
 [原文] Airlines and hotels have built huge businesses on America’s uncapped card fees, but rarely talk about what makes them possible.
 
 📎 [阅读原文](https://skift.com/2026/08/19/the-2-fee-behind-the-american-travel-boom/) — *Skift*
-
-### 4. Delta Pilots Detail Why Scheduling Talks Broke Down as Cancellations Rise
-
-[原文] Reliability has long been one of Delta’s biggest selling points. But the carrier has experienced an uptick in disruptions this year and has not been able to reach a deal with its pilots’ union yet on 
-
-📎 [阅读原文](https://skift.com/2026/08/19/delta-pilots-detail-why-scheduling-talks-hit-an-impasse/) — *Skift*
-
-### 5. Outgoing Air India CEO Campbell Wilson to Join Air New Zealand Board
-
-[原文] Campbell Wilson’s Air India record will inevitably follow him into the Air New Zealand boardroom.
-
-📎 [阅读原文](https://skift.com/2026/08/19/outgoing-air-india-ceo-campbell-wilson-to-join-air-new-zealand-board/) — *Skift*
 
 ---
 
