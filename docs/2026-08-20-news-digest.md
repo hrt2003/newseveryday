@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月20日** | 生成时间: 2026-08-20 09:24
+**2026年08月20日** | 生成时间: 2026-08-20 14:51
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation
+### 1. Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza
 
-[原文] The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 2. Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza
-
-[原文] Australia's foreign minister says she will summon the Israeli ambassador over 'insulting' Zomi Frankcom decision.
+[原文] Australia's foreign minister summoned the Israeli ambassador over "insulting" Zomi Frankcom decision.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Trump threatens 'tremendous economic consequences' on any country helping Iran
+### 2. Founder of collapsed Chinese property giant Evergrande sentenced to life in prison
+
+[原文] Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. At least 12 killed in Kyiv as Ukraine grapples with air defence shortages
+
+[原文] Apartment blocks and warehouses were targeted in the "massive attack" on Thursday, officials say.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. Trump threatens 'tremendous economic consequences' on any country helping Iran
 
 [原文] It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Sacked Ukrainian defence minister calls for presidential election
+### 5. Giant whales move into Greenland waters as ice disappears
 
-[原文] Martial law has been in place in Ukraine since February 2022, under which elections are suspended.
+[原文] Melting sea ice from climate change has opened up the region for giant whales to undertake "feeding frenzies".
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Israel opens up bids for highly-sensitive West Bank settlement project
-
-[原文] The UK's foreign secretary condemned the move as "an unacceptable and destructive act".
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. U.S. government debt passes $40 trillion, more than doubling in a decade
-
-暂无摘要。
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/19/us-government-debt-passes-40-trillion-mark-for-the-first-time.html) — *CNBC*
-
-### 2. Bessent moves to curb Treasury yields, putting new pressure on Warsh's Fed
-
-[原文] Treasury's move to buy back more long-term debt cooled a bond selloff, but economists warn it could raise new inflation and independence questions for the Fed
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/19/bessent-treasury-buybacks-yields-warsh-fed.html) — *CNBC*
-
-### 3. Trump announces 'economic warfare' on Iran, threatens ‘tremendous’ consequences for its backers
+### 1. Trump announces 'economic warfare' on Iran, threatens ‘tremendous’ consequences for its backers
 
 [原文] The announcement extends a pressure campaign the Trump administration has waged since April under the banner Operation Economic Fury.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz-economic-warfare.html) — *CNBC*
 
-### 4. Japan exports beat estimates in July as robust chip shipments power fifth straight month of gains
+### 2. Bitcoin, ether surge as Trump urges Congress to pass crypto Clarity Act
 
-[原文] Shipments of semiconductor equipment posted a massive 49.1% jump in value, reflecting continued demand, boosted by the artificial intelligence boom.
+[原文] Bitcoin and ether surged after U.S. President Donald Trump urged Congress to pass a bill that would set a regulatory framework for the cryptocurrency sector.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/20/japan-exports-imports-july-chip-ai.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/20/cryptocurrencies-trump-bitcoin-ethereum.html) — *CNBC*
 
-### 5. Call-buying bonanza around Trump's Hyperliquid comments includes some eyebrow-raising trades
+### 3. Trump scaling down U.S.-South Korea drills risks more than just joint military readiness
 
-[原文] President Donald Trump hinted that regulation may be in the works for Hyperliquid. Interesting trading activity followed.
+[原文] The move by Trump also will start to raise questions about the credibility of Washington's commitment to alliances.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/19/call-buying-bonanza-around-trumps-hyperliquid-comments-includes-eyebrow-raising-trades.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/20/trump-south-korea-military-drills-cuts-.html) — *CNBC*
+
+### 4. SK Hynix shares surge over 12% in Seoul after announcing massive stock buyback
+
+[原文] Shares of SK Hynix surged over 12% in Seoul after the company announced a massive stock buyback.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/20/sk-hynixs-south-korean-shares-surge-stock-buyback-.html) — *CNBC*
+
+### 5. Nvidia plays matchmaker in Nordics, sources tell CNBC, as AI data center deals boom in region
+
+[原文] Nvidia is trying to connect GPU customers with Nordic data-center operators as cheap power and available land fuel the region’s AI infrastructure boom.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/19/nvidia-nordic-ai-data-centers.html) — *CNBC*
 
 ---
 
@@ -130,35 +130,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Pollen has a surprising problem — and honeybees have found a way around it
+### 1. AI-designed “intrabodies” could unlock new treatments for Alzheimer’s, Parkinson’s and MND
+
+[原文] Researchers have developed a new way to turn ordinary antibodies into tiny disease-fighting molecules that can work inside human cells, potentially opening new paths for treating Alzheimer’s, Parkinso
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260819041242.htm) — *Science Daily*
+
+### 2. Pollen has a surprising problem — and honeybees have found a way around it
 
 [原文] Honeybees can apparently detect when their food has the wrong balance of essential nutrients and adjust how much they eat to avoid potentially harmful excesses. They also transform pollen into remarka
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260819041237.htm) — *Science Daily*
 
-### 2. Coffee drinkers have less fat, more muscle, and surprising hormone differences
+### 3. MIT physicists discover electrons rebuilding like ice inside a quantum material
+
+[原文] MIT physicists found that two electronic phases inside the same quantum material emerge through surprisingly different mechanisms—one smoothly and the other in expanding pockets resembling growing ice
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260819041231.htm) — *Science Daily*
+
+### 4. Coffee drinkers have less fat, more muscle, and surprising hormone differences
 
 [原文] Coffee drinkers may be getting more than an energy boost. A Finnish study found that people who drank more coffee tended to have less total and abdominal fat, more muscle, and healthier metabolic mark
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260819041228.htm) — *Science Daily*
 
-### 3. This 23-foot crocodylian may have ruled South America’s food chain
+### 5. This 23-foot crocodylian may have ruled South America’s food chain
 
 [原文] Miocene South America was packed with giant prey—and the predators hunting them were just as spectacular. Fossil bite marks suggest crocodylians, especially the enormous Purussaurus neivensis, were mo
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260819041226.htm) — *Science Daily*
-
-### 4. Tiny quantum engines reveal useful energy hiding in “waste heat”
-
-[原文] A tiny machine made from just an atom and particles of light may sound impossibly simple, but it raises a surprisingly difficult question: what counts as heat, and what energy can still do useful work
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260819041222.htm) — *Science Daily*
-
-### 5. 16 mummies and a dog reveal a hidden order inside an ancient Egyptian tomb
-
-[原文] A tomb in Egypt’s Theban Necropolis reveals a surprisingly organized story of burial, reuse, and changing beliefs spanning hundreds of years. Researchers found 16 mummified people, the remains of at l
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260819041218.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. How Root brought welcome calm on return as England captain
+### 1. Premier League predictions 2026-27: BBC Sport pundits pick their top four
+
+[原文] We ask 26 BBC Sport football pundits to predict who will win the 2026-27 Premier League title, and which clubs will finish in the top four.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cp8edryd7plo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. How Root brought welcome calm on return as England captain
 
 [原文] Joe Root took advice from Harry Brook and adopted a hands-off approach with his bowlers on his return as England Test skipper.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c36d944wlweo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Athletics coach believed missing is in jail for sexual assault
+### 3. Which supplements do athletes take and why?
 
-[原文] English athletics coach Leon Baptiste was given a 10-month prison sentence in Morocco for sexually assaulting a minor.
+[原文] There is a long list of supplements taken by elite athletes in the pursuit of marginal gains - what do they take and why?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/c204wq61e19o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/articles/cpd7pwx0233o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Rashford wants to play football 'without name mentioned every day'
+### 4. Celtic find value in 'special' Duran - but does ambition reach further still?
 
-[原文] Marcus Rashford says he would like to play football without his "name being mentioned every day" after Gary Neville tried to start a conversation about the Manchester United forward on a podcast.
+[原文] Now that the Champions League money may be nigh, we will get to see the scale of Celtic's ambition, asks Tom English?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c1j1397zg1xo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cn0n6k42803o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Tongue & Robinson cut Headingley ball in half
+### 5. Aguero and Shearer star in best opening-round debuts
 
-[原文] England seamers Josh Tongue and Ollie Robinson find a solution as to who keeps the ball after the both claim a five-wicket haul at Headingley - split it in half.
+[原文] BBC Sport takes a look at some of the Premier League's greatest opening-day debuts, including Alan Shearer's Blackburn blinder and Michu's Swansea screamers.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/ceqe3zd9wleo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Why positive cocaine test could mean end of Kyrgios' career
-
-[原文] Nick Kyrgios once said he did not want to play tennis into his 30s. A positive cocaine test could have brought an end to his career aged 31.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/c87nzeepv70o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cwyl718g865o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Hayden Panettiere’s Death: DEA Joins Investigation
+### 1. India’s Epic Studios, Rusk Media Ink 50-Title Vertical Drama Deal (EXCLUSIVE)
 
-[原文] The Drug Enforcement Administration has joined the investigation into Hayden Panettiere’s death, according to ABC News. The DEA is entering a joint effort with South Carolina&#8217;s Greenville Police
+[原文] India&#8217;s Epic Studios has partnered with Rusk Media Private Limited (RMPL) to produce 50 original vertical drama series, aiming to build the country&#8217;s largest library of owned vertical-dram
 
-📎 [阅读原文](https://variety.com/2026/film/news/hayden-panettiere-death-dea-joins-investigation-1236838724/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805/) — *Variety*
 
-### 2. French Soccer Star Kylian Mbappé Debuts Gold Nike Cleats on Heels of World Cup Golden Boot Award Win
+### 2. Busan Festival Honors Ahn Sung-ki, Market Names Thailand Country of Honor
 
-[原文] The World Cup may be over but the merch and apparel rollout continues this month with the launch of a limited-edition pair of soccer cleats from French star and 2026 Golden Boot Award winner, Kylian M
+[原文] The 31st Busan International Film Festival (BIFF) has unveiled a Special Program in Focus honoring the late Korean screen legend Ahn Sung-ki, while the festival&#8217;s market arm has named Thailand t
 
-📎 [阅读原文](https://variety.com/2026/shopping/athletes/kylian-mbappe-nike-mercurial-gold-soccer-cleats-buy-online-1236838580/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/markets-festivals/busan-festival-honor-ahn-sung-ki-market-thailand-country-of-honor-1236838811/) — *Variety*
 
-### 3. Dane Cook’s Brother Stole $12 Million From Comedian, Hid Bricks of Cash in Pasta Sauce
+### 3. Manoj Bajpayee, Sudhir Mishra, Anubhav Sinha’s Gandhi Film Unveils Plot, Adds Saurabh Shukla, Narendra Hirawat (EXCLUSIVE)
 
-[原文] Uh oh, Spaghetti O&#8217;s! Dane Cook&#8217;s brother stole $12 million from the comedian and hid bricks of cash inside pasta sauce, a new documentary reveals. Premiering on Sept. 29, &#8220;Funny Mon
+[原文] Indian thespian Manoj Bajpayee&#8217;s first screen portrayal of Mahatma Gandhi will focus on a previously undisclosed chapter of India&#8217;s independence history, according to new details released 
 
-📎 [阅读原文](https://variety.com/2026/tv/news/dane-cook-brother-stole-12-million-cash-pasta-sauce-1236838675/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/manoj-bajpayee-gandhi-film-plot-cast-producer-1236838081/) — *Variety*
 
-### 4. Hayden Panettiere’s ‘Heroes’ Dad Calls Out ‘Predatory’ Paparazzi Who ‘Hunted’ Her and the Press Who Asked ‘Misogynistic’ Questions When She Was a Teen
+### 4. Josh Radnor Is ‘Not Even a Little Bit’ Close to His ‘How I Met Your Mother’ Co-Stars: ‘You Just Go Out and Live Your Life’
 
-[原文] Jack Coleman, the &#8220;Heroes&#8221; actor who played the father of Hayden Panettiere&#8217;s Claire Bennet, posted an emotional tribute to his late co-star following her death this week at 36 years
+[原文] Josh Radnor recently told the “Half the Picture” podcast that he is “not even a little bit” close to his “How I Met Your Mother” co-stars, despite filming together for 208 episodes across 9 seasons. W
 
-📎 [阅读原文](https://variety.com/2026/tv/news/hayden-panettiere-heroes-dad-slams-paparazzi-media-hunting-her-1236838679/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/josh-radnor-not-close-how-i-met-your-mother-co-stars-1236838802/) — *Variety*
 
-### 5. ‘Lucky’ Creators on Deciding Who Dies in the Finale, Why the Show Really Is Over and Not Knowing About Drew Starkey’s ‘Avid’ Fandom ‘Until We Killed Him’
+### 5. Naomi Watts to Receive Zurich Film Festival’s Golden Eye Award for ‘The Housewife’
 
-[原文] SPOILER ALERT: This interview contains major spoilers from “All Good Things,” the finale of Apple TV’s “Lucky.” Luciana “Lucky” Armstrong (Anya Taylor-Joy) has just pulled off one last con on the most
+[原文] Zurich Film Festival is to honor actress Naomi Watts with the Golden Eye Award for her performance in Ben Shirinian’s “The Housewife.” In Zurich, she will present the film, in which she portrays the e
 
-📎 [阅读原文](https://variety.com/2026/tv/news/lucky-creators-finale-deaths-killing-drew-starkey-anya-taylor-joy-1236838325/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/naomi-watts-zurich-the-housewife-1236838419/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Mail-Order Media Giant Columbia House Shutting Down After 71 Years
+### 1. The X-Tech Executive Chair Aims to Upend Premium Models from Herman Miller, Steelcase at a Better Price
+
+[原文] Battle of the super premium tier chairs.
+
+📎 [阅读原文](https://www.ign.com/articles/x-tech-executive-chair-aims-to-upend-premium-models-from-herman-miller-steelcase) — *IGN*
+
+### 2. Ryan Reynolds Congratulates Christopher Nolan's the Odyssey for Surpassing Deadpool & Wolverine to Become Highest Grossing R-Rated Movie of All Time
+
+[原文] The one thing Christopher Nolan’s adaptation of an ancient Greek epic and Reynold’s fourth wall-breaking Deadpool flick with Hugh Jackman have in common is that each of them has been the world’s highe
+
+📎 [阅读原文](https://www.ign.com/articles/ryan-reynolds-congratulates-christopher-nolans-the-odyssey-for-surpassing-deadpool-wolverine-to-become-highest-grossing-r-rated-movie-of-all-time) — *IGN*
+
+### 3. Save $75 Off the Nintendo Switch 2 Plus Up to $130 in Best Buy Credit When You Trade in a Switch Console
+
+[原文] That's up to $205 in total savings, and just fyi the retail price goes up starting September 1.
+
+📎 [阅读原文](https://www.ign.com/articles/nintendo-switch-2-trade-in-deal-best-buy-anniversary-sale) — *IGN*
+
+### 4. Mail-Order Media Giant Columbia House Shutting Down After 71 Years
 
 [原文] Mail-order music and movie club Columbia House is officially shutting down and ceasing new orders after 71 years of operation.
 
 📎 [阅读原文](https://www.ign.com/articles/mail-order-media-giant-columbia-house-shutting-down-after-71-years) — *IGN*
 
-### 2. Preorder SPECS, Snap's First-Ever AR Glasses
+### 5. Preorder SPECS, Snap's First-Ever AR Glasses
 
 [原文] Lightweight and stylish personal wearable computer.
 
 📎 [阅读原文](https://www.ign.com/articles/preorder-the-specs-ar-glasses-from-snap) — *IGN*
-
-### 3. Steam Frame Seems to Be On the Horizon as Unboxing and Setup Videos Leak Online
-
-[原文] After setup videos leaked online, Valve opted to push them out officially.
-
-📎 [阅读原文](https://www.ign.com/articles/steam-frame-seems-to-be-on-the-horizon-as-unboxing-and-setup-videos-leak-online) — *IGN*
-
-### 4. LEGO Fans Are Closer Than Ever to Getting a Studio Ghibli Set
-
-暂无摘要。
-
-📎 [阅读原文](https://www.ign.com/articles/lego-fans-studio-ghibli-ideas-2026) — *IGN*
-
-### 5. Director of Marvel’s Wolverine Responds After Extended Gameplay Footage Sparks Backlash
-
-[原文] The director of Marvel’s Wolverine, Mike Daly, opened up about the recent backlash toward the game after its extended gameplay showcase drew criticism online.
-
-📎 [阅读原文](https://www.ign.com/articles/director-of-marvels-wolverine-responds-after-extended-gameplay-footage-sparks-backlash) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Namco’s Cyber Cycles Is Finally Getting a Console Port After 31 Years
+### 1. Yep, the Backwards Doors Are Real: Genesis GV90 Is a Super-Luxe SUV From Space
+
+[原文] With coach doors, funky design, and airbags in its roof, the Genesis GV90 leaves an impression you're not likely to confuse for any other high-end SUV.
+The post Yep, the Backwards Doors Are Real: Gene
+
+📎 [阅读原文](https://www.thedrive.com/news/yep-the-backwards-doors-are-real-genesis-gv90-is-a-super-luxe-suv-from-space) — *The Drive*
+
+### 2. Namco’s Cyber Cycles Is Finally Getting a Console Port After 31 Years
 
 [原文] Released in arcades in 1995 after Ridge Racer, Cyber Cycles never received a home version—until now.
 The post Namco&#8217;s Cyber Cycles Is Finally Getting a Console Port After 31 Years appeared first
 
 📎 [阅读原文](https://www.thedrive.com/news/namcos-cyber-cycles-is-finally-getting-a-console-port-after-31-years) — *The Drive*
 
-### 2. Hot-Rod 1976 Chrysler Slant-Six Now Powers a Whole House
+### 3. Hot-Rod 1976 Chrysler Slant-Six Now Powers a Whole House
 
 [原文] Whereas some people build these engines for the quarter-mile, this one was upgraded for backup power duty.
 The post Hot-Rod 1976 Chrysler Slant-Six Now Powers a Whole House appeared first on The Drive
 
 📎 [阅读原文](https://www.thedrive.com/news/hot-rod-1976-chrysler-slant-six-now-powers-a-whole-house) — *The Drive*
 
-### 3. New ‘The Grand Tour’ Trailer: Why This Trio Can Win Where Other ‘Top Gear’ Knockoffs Failed
+### 4. New ‘The Grand Tour’ Trailer: Why This Trio Can Win Where Other ‘Top Gear’ Knockoffs Failed
 
 [原文] Thomas Holland, James Engelsman, and Francis Bourgeois come off as distinctly different personalities—not just from each other, but also from previous Top Gear and The Grand Tour hosts.
 The post New ‘
 
 📎 [阅读原文](https://www.thedrive.com/news/new-the-grand-tour-trailer-why-this-trio-can-win-where-other-top-gear-knockoffs-failed) — *The Drive*
 
-### 4. Ford Bronco Pickup Reportedly Planned by 2030: TDS
+### 5. Ford Bronco Pickup Reportedly Planned by 2030: TDS
 
 [原文] Also, the next Hyundai Tucson will look nothing like the last, and BMW is recalling nearly 30,000 sedans for rear-diff issues.
 The post Ford Bronco Pickup Reportedly Planned by 2030: TDS appeared firs
 
 📎 [阅读原文](https://www.thedrive.com/news/ford-bronco-pickup-reportedly-planned-by-2030-tds) — *The Drive*
-
-### 5. GTA 6 Leaked Gameplay Shows Off Chaos in a Knockoff Ranchero
-
-[原文] New footage of Grand Theft Auto VI has leaked ahead of its big Netflix reveal, teasing minor but impactful gameplay tweaks.
-The post GTA 6 Leaked Gameplay Shows Off Chaos in a Knockoff Ranchero appear
-
-📎 [阅读原文](https://www.thedrive.com/news/gta-6-leaked-gameplay-shows-off-chaos-in-a-knockoff-ranchero) — *The Drive*
 
 ---
 
