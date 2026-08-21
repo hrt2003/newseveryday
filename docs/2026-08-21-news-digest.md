@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月21日** | 生成时间: 2026-08-21 02:43
+**2026年08月21日** | 生成时间: 2026-08-21 09:34
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says
+### 1. UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project
+
+[原文] European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. How much could Trump's 'economic D-Day' hurt Iran?
+
+[原文] Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says
 
 [原文] At least 17 people were killed in the "massive attack" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Bessent urges US partners to back plans to 'squash' Iran economy
+### 4. Trump wants to be friends with Kim - but South Korea could pay the price
 
-[原文] The US Treasury secretary says allies will need to decide whether they "are with us or against us".
+[原文] US military exercises with South Korea end early on Friday, at a time when the North is in a position of strength.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Founder of collapsed Chinese property giant Evergrande sentenced to life in prison
+### 5. Dozens dead after boat capsizes in north-western Nigeria
 
-[原文] Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.
+[原文] The incident took place in the country's northwest ​Sokoto state, with many of the victims feared to be children.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Como mayor bans 'beasts' in city centre after being hit by bike
-
-[原文] Alessandro Rapinese issues the prohibition for the historic city centre after an encounter with a cyclist last month.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Assad officer extradited to Syria on war crimes charges for first time
-
-[原文] Lebanon handed over former General Adel Issa, as Syria steps up its pursuit of wanted members of the former regime.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Bessent says Treasury buyback operation could be more than $4 billion
-
-[原文] Bessent said his department is going "make a market" in the longer-dated securities where yields have been surging lately.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/20/bessent-says-treasury-buyback-operation-could-be-more-than-4-billion.html) — *CNBC*
-
-### 2. AI data center outrage is showing up everywhere from ads to elections
+### 1. AI data center outrage is showing up everywhere from ads to elections
 
 [原文] With less than three months until the midterm elections, opposition to AI data centers is becoming a bipartisan rallying cry in a growing number of states.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/20/ai-data-center-election-backlash.html) — *CNBC*
 
-### 3. Bessent says U.S. likely won't restart large-scale Iran combat as it steps up economic pressure
+### 2. Warsh faces Fed independence test as Bessent moves in on central bank's turf
 
-[原文] Bessent and President Donald Trump unveiled the economic operation nearly six months into the Iran war, which continues without a clear end in sight.
+[原文] Bessent’s effort to tamp down long-term Treasury yields could force Warsh to clarify how far the Fed should go in coordinating on bonds and the balance sheet.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/20/bessent-economy-iran-war-trump.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/20/bessent-warsh-fed-bond-market-treasury-yields.html) — *CNBC*
 
-### 4. California AG tells CNBC that settling Paramount-WBD lawsuit would require 'robust structural remedies'
+### 3. Japan's historic yen intervention has ‘turbo-charged’ the carry trade
 
-[原文] California AG Rob Bonta discussed the states' antitrust case to block the Paramount Skydance-Warner Bros. Discovery merger with CNBC's David Faber.
+[原文] Japan's historic effort to prop up the yen may have had an unintended consequence: giving investors a better opportunity to put the carry trade back on.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/20/california-ag-bonta-paramount-wbd-lawsuit-remedies.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/20/us-japan-yen-intervention-bank-of-japan-carry-trade.html) — *CNBC*
 
-### 5. Walmart hikes full-year outlook and gets huge tariff refund, but stock falls on sales concerns
+### 4. Walmart stock tumbles 9% after outlook disappoints Wall Street
 
 [原文] Walmart is expected to report its fiscal second-quarter earnings on Thursday, offering a read on the consumer and the K-shaped economy.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html) — *CNBC*
+
+### 5. Japan headline inflation rate hits highest this year as energy prices bite
+
+[原文] Core inflation — which strips out prices of fresh food but includes energy — was in line with expectations, coming in at 1.8%.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/21/japan-inflation-iran-war-energy.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Linkdaze’s smart calendar is built to run a household, not just track a schedule
+### 1. Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada
 
-[原文] Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.
+[原文] Together, these permits would allow up to 8,000 robotaxis to be deployed over the next 12 months.
 
-📎 [阅读原文](https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/) — *TechCrunch*
 
-### 2. Grok keeps sending gibberish responses to users
+### 2. AI data startup Micro1 reaches $500M gross run rate amid AI training boom
 
-[原文] Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning.
+[原文] Surging demand for AI training data is driving rapid growth for the startup and its rivals.
 
-📎 [阅读原文](https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/) — *TechCrunch*
 
-### 3. The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know
+### 3. Learn what VCs actually want, from a founder who’s raised $1B
 
-[原文] Year after year, investors who've explored the Expo Halls, met founders, and learned from peers have proven why you need to be on the ground at Disrupt this year.
+[原文] Investors want founders who understand the financial reality of their business. Messy data, misunderstood metrics, or waiting until you’re nearly out of cash to start fundraising can cost founders lev
 
-📎 [阅读原文](https://techcrunch.com/2026/08/20/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/video/learn-what-vcs-actually-want-from-a-founder-whos-raised-1b/) — *TechCrunch*
 
-### 4. A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds
+### 4. OpenAI is gaining on Anthropic with business users, new data indicates
 
-[原文] ChatGPT and other AI models are now authoring and editing much of the new web.
+[原文] Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how "sticky" enterprise AI spending really is.
 
-📎 [阅读原文](https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/) — *TechCrunch*
 
-### 5. Early Cerebras investor Adit Singh joins Mayfield as infrastructure partner
+### 5. ChatGPT can now send texts for you with new Apple Messages plug-in
 
-[原文] At Mayfield, Singh will focus on semiconductor, cybersecurity, and physical AI investments.
+[原文] Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.
 
-📎 [阅读原文](https://techcrunch.com/2026/08/20/early-cerebras-investor-adit-singh-joins-mayfield-as-infrastructure-partner/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Liverpool have £50m bid rejected for Brighton's Minteh
+### 1. Brook as talented as Gower and Pietersen but not ready to be captain - Agnew
+
+[原文] England batsman Harry Brook was not ready to be Test captain but his knock at Headingley should be his batting blueprint for the future, writes Jonathan Agnew.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c8rn7jx766go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. McInnes' Rangers serve up stodgy 12-course banquet of huff and puff
+
+[原文] Rangers beat Jablonec in the first leg of their Conference League play-off, but it wasn't a pretty watch, writes Tom English.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c98v73n24j2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. Liverpool have £50m bid rejected for Brighton's Minteh
 
 [原文] Liverpool have a £50m bid rejected by Brighton for their winger Yankuba Minteh.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c4gknq7d8d5o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Seven defenders on the books - why Arsenal still want Konsa
+### 4. Seven defenders on the books - why Arsenal still want Konsa
 
 [原文] Arsenal have already spent more than £100m this summer as they look to defend their Premier League title - so why do they want Ezri Konsa as well?
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c62ey2y9n79o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Closer to retiring than changing teams - why Verstappen stayed at Red Bull
+### 5. McIlroy back in form with lead at BMW Championship
 
-[原文] After signing a contract extension with Red Bull to 2030, Max Verstappen says he was "closer to retiring" from F1 "than changing teams".
+[原文] Rory McIlroy says a bit of "good work" with his team helped him rediscover his form and take a clubhouse lead in the first round of the BMW Championship.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/c0qvkj40zk4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. Cricket: Today at the Test
-
-[原文] Day 2 highlights from the Test match between England and Pakistan at Headingley.
-
-📎 [阅读原文](https://www.bbc.co.uk/iplayer/live/bbctwo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Why first 10 days of new season could tell us a lot about Man Utd
-
-[原文] The first 10 days of the new Premier League season could tell us a lot about what lies ahead for Manchester United.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cy5dx427yw7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/cy4598pnx7po?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. How an Indie Studio Convinced ‘Naruto’ Creator, TV Tokyo to Let Them Make Franchise’s First Licensed Digital Card Game (EXCLUSIVE)
+### 1. Jaafar Jackson: ‘Michael’ Sequel Will Give ‘More Insight’ Into Child Abuse Allegations and ‘Let His Voice Be Heard’
 
-[原文] &#8220;Naruto” fans will have access to the popular anime franchise&#8217;s first-ever digital card game with Thursday&#8217;s worldwide launch of the officially licensed &#8220;Naruto Ninja Cards.” D
+[原文] Now that the second “Michael” movie is closer to starting production, star Jaafar Jackson says it will indeed address the criticisms and child abuse allegations Michael Jackson faced in the &#8217;90s
 
-📎 [阅读原文](https://variety.com/2026/gaming/news/naruto-digital-card-game-sekai-tv-tokyo-1236839122/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/jaafar-jackson-michael-sequel-insight-child-abuse-allegations-1236839600/) — *Variety*
 
-### 2. What Does Prince Harry and Meghan Markle’s Move Back to the U.K. Mean for the Royal Family?
+### 2. Ariana Grande Blasts Trump Administration for Using ‘We Can’t Be Friends’ in Social Post: ‘Your Truth Is False’
 
-[原文] The Sussexes are coming home. In a shock announcement on Wednesday, it was revealed that Prince Harry and Meghan Markle are moving back to the U.K. for an &#8220;extended period&#8221; with their two 
+[原文] Ariana Grande has once again spoken out against the Trump administration for using one of her songs in a post on social media, this time for setting &#8220;We Can&#8217;t Be Friends (Wait For Your Lov
 
-📎 [阅读原文](https://variety.com/2026/global/news/prince-harry-meghan-markle-uk-move-means-royal-family-1236839004/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/ariana-grande-slams-trump-we-cant-be-friends-tiktok-post-1236839607/) — *Variety*
 
-### 3. Charles Melton in Talks for ‘Naruto’ Movie as Kakashi
+### 3. How ‘Star Trek: Strange New Worlds’ Pulled Off That Madcap Puppet Episode
 
-[原文] Charles Melton is in close talks to play Kakashi Hatake in Destin Daniel Cretton&#8217;s upcoming &#8220;Naruto&#8221; movie, Variety has learned. The news comes amid speculation at D23 that Melton wo
+[原文] SPOILER ALERT: This article contains spoilers for “Star Trek: Strange New Worlds” Season 4 Episode 5, titled “Level Five Transporter Accident,&#8221; now streaming on Paramount+. At long last, the mos
 
-📎 [阅读原文](https://variety.com/2026/film/news/charles-melton-in-talks-naruto-movie-kakashi-1236839318/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/star-trek-strange-new-worlds-puppet-episode-1236833011/) — *Variety*
 
-### 4. CBS Plans Special Morning, Primetime Coverage of 9/11 Anniversary
+### 4. Prime Video Unveils Landmark $2 Billion-Plus Investment in Latin American Entertainment
 
-[原文] CBS will fill key morning and primetime hours on September 11 with live coverage and special programming devoted to the 25th anniversary of terrorist attacks on America on that date in 2001. The CBS p
+[原文] Prime Video has unveiled a landmark $2 billion-plus investment plan in Latin American entertainment spanning 2027 to 2030 in a concerted bid to increase viewership and engagement. The move comes in wh
 
-📎 [阅读原文](https://variety.com/2026/tv/news/cbs-9-11-anniversary-tv-news-coverage-1236839200/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/prime-video-2-billion-investment-latin-america-1236839446/) — *Variety*
 
-### 5. Yahya Abdul-Mateen II Says the ‘Optics’ at Marvel Are ‘Obvious’ After ‘Wonder Man’ and ‘Blade’ Canceled: ‘If I’m Disney, I Do Not Want to Be Attached To These Optics’
+### 5. Dave Bautista Officially Set as Kratos in ‘God of War’ TV Series
 
-[原文] Yahya Abdul-Mateen II says the &#8220;optics&#8221; at Marvel are obvious after the studio canceled his Emmy-nominated series &#8220;Wonder Woman&#8221; after one season and failed over multiple years
+[原文] Dave Bautista is officially taking up the mantle of the &#8220;God of War.&#8221; Variety has learned that the actor is now set to lead the Amazon Prime Video TV series based on the video game franchi
 
-📎 [阅读原文](https://variety.com/2026/tv/news/yahya-abdul-mateen-calls-out-marvel-wonder-man-blade-failures-1236839058/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/dave-bautista-kratos-god-of-war-tv-series-amazon-1236839394/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Modern Warfare 4 Developers Address Need for Balance in Call of Duty
+### 1. Netflix Reveals New Cyberpunk: Edgerunners 2 Trailer and Images at Anime NYC
 
-[原文] The team behind Call of Duty: Modern Warfare 4 believes that players have only gotten better at the game since the franchise became a pop culture juggernaut.
+[原文] A new trailer and images from Cyberpunk: Edgerunners 2 have been revealed by Netflix, giving us a closer look at the high-octane action and heartbreaking tragedy we can expect from this latest foray i
 
-📎 [阅读原文](https://www.ign.com/articles/modern-warfare-4-developers-address-need-for-balance-in-call-of-duty) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/netflix-reveals-new-cyberpunk-edgerunners-2-trailer-and-images-at-anime-nyc) — *IGN*
 
-### 2. The Big Call of Duty: Modern Warfare 4 Interview — Infinity Ward on the Beta, Matchmaking, and Much More
+### 2. Netflix Confirms Blue Eye Samurai Will End With Third and Final Season
 
-[原文] IGN interviews Infinity Ward on all things Call of Duty: Modern Warfare 4 ahead of the beta.
+[原文] Netflix has revealed that Blue Eye Samurai will officially end with a third and final season.
 
-📎 [阅读原文](https://www.ign.com/articles/the-big-call-of-duty-modern-warfare-4-interview-infinity-ward-on-the-beta-matchmaking-and-much-more) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/netflix-confirms-blue-eye-samurai-will-end-with-third-and-final-season) — *IGN*
 
-### 3. Golden Axe: First Look at the New Animated Series Based on the Classic SEGA Game
+### 3. Netflix Reveals Packed Anime Slate: Full Announcement Rundown, Trailers, and Images
 
-[原文] Paramount+ reveals a first look at its upcoming animated Golden Axe TV series based on the classic 1989 SEGA arcade beat 'em up game.
+[原文] Netflix showed off a massive slate of upcoming projects at Anime NYC, including exclusive trailers and images for series like Cyberpunk: Edgerunners 2, The One Piece, Blue Eye Samurai, and more.
 
-📎 [阅读原文](https://www.ign.com/articles/golden-axe-animated-series-first-look-sega-plot-cast-release-date) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/netflix-reveals-packed-anime-slate-full-announcement-rundown-trailers-and-images) — *IGN*
 
-### 4. PUBG MOBILE X NARUTO SHIPPUDEN INTERVIEW: How PUBG MOBILE Created An Immersive NARUTO Crossover
+### 4. Double Your PlayStation 5 Storage With This 1TB PCIe M.2 SSD for Just $136.39 Shipped
 
-暂无摘要。
+[原文] Near-essential PS5 upgrade.
 
-📎 [阅读原文](https://www.ign.com/articles/pubg-mobile-x-naruto-shippuden-interview-how-pubg-mobile-created-an-immersive-naruto-crossover) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/best-ps5-ssd-deal-august-2026) — *IGN*
 
-### 5. LEGO’s Technic Chevrolet Corvette Stingray Has Raced to a New All-Time Low Price at Amazon and Best Buy
+### 5. Zoey 101 Star Jamie Lynn Spears Denies Show Was Canceled Because of Teen Pregnancy
 
-[原文] Both Amazon and Best Buy have knocked $18 off the cost of the LEGO Technic Chevrolet Corvette Stingray, dropping it to its lowest price yet at the former.
+[原文] Former Nickeloden star Jamie Lynn Spears has denied rumors that her show, Zoey 101, was cancelled because of her teen pregnancy.
 
-📎 [阅读原文](https://www.ign.com/articles/legos-technic-chevrolet-corvette-stingray-has-raced-to-a-new-all-time-low-price-at-amazon-and-best-buy) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/zoey-101-star-jamie-lynn-spears-denies-show-was-canceled-because-of-teen-pregnancy) — *IGN*
 
 ---
 
@@ -362,35 +362,35 @@ The post Max Verstappen Surprises Everyone and Commits to
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Notes from Illinois’ Virtual Power Plant Frontier
+### 1. More than 50 Sloths Died at a Florida Wildlife Attraction. Officials Say No Crime Occurred.
+
+[原文] New investigative findings from a Florida sheriff’s office detail the stark conditions of emaciated and dehydrated sloths at a planned tourism attraction where more than 50 of the animals died, includ
+
+📎 [阅读原文](https://insideclimatenews.org/news/20082026/florida-sloth-world-deaths-investigation-concludes-no-crime/) — *Inside Climate News*
+
+### 2. China’s Solar Buildout Hampers Bird Diversity
+
+[原文] Policies promoting solar power construction projects in China have contributed to a decline in bird diversity across the country. Those findings, from a study published Thursday in the journal Science
+
+📎 [阅读原文](https://insideclimatenews.org/news/20082026/china-solar-panels-harm-bird-diversity/) — *Inside Climate News*
+
+### 3. Notes from Illinois’ Virtual Power Plant Frontier
 
 [原文] Illinois is the latest example of how a state can embrace virtual power plants and see results almost immediately. Today, Solrite Energy is announcing its entry into the Illinois market with a program
 
 📎 [阅读原文](https://insideclimatenews.org/news/20082026/inside-clean-energy-illinois-virtual-power-plants/) — *Inside Climate News*
 
-### 2. Europe Faces Surging Wildfire Threat, New Research Shows
+### 4. Europe Faces Surging Wildfire Threat, New Research Shows
 
 [原文] Wildfires in Europe could burn across about 39 percent more land by the end of the century, even if greenhouse gas emissions decline rapidly over the next few decades, new research shows. With continu
 
 📎 [阅读原文](https://insideclimatenews.org/news/20082026/europe-surging-wildfire-threat/) — *Inside Climate News*
 
-### 3. Pressure Increases for Texas to Allow Treated Drilling Waste Into Rivers and Rangeland
+### 5. Pressure Increases for Texas to Allow Treated Drilling Waste Into Rivers and Rangeland
 
 [原文] ORLA, Texas—Elected officials and industry leaders warn that Texas is at the “precipice” of running out of underground space to dispose of the nearly 1 billion gallons of wastewater that oil and gas p
 
 📎 [阅读原文](https://insideclimatenews.org/news/20082026/texas-oil-wastewater-treatment/) — *Inside Climate News*
-
-### 4. Safety Failures Led to Last Year’s Fatal Explosion at U.S. Steel Plant
-
-[原文] The federal government alleged that U.S. Steel could have prevented a catastrophic explosion at Clairton Coke Works near Pittsburgh on Aug. 11, 2025, killing two workers and injuring 11. The U.S. Chem
-
-📎 [阅读原文](https://insideclimatenews.org/news/20082026/us-steel-plant-fatal-explosion-safety-failures/) — *Inside Climate News*
-
-### 5. Climate Change Reshuffles Where People Are Moving in Florida
-
-[原文] SEBRING, Fla.—The city of Sebring has an “Old Florida” charm.&#160; Citrus trees greet motorists driving into town. Red, white and blue bunting hangs from a white gazebo in the middle of the town circ
-
-📎 [阅读原文](https://insideclimatenews.org/news/20082026/florida-threats-lead-to-climate-migration/) — *Inside Climate News*
 
 ---
 
@@ -438,35 +438,35 @@ The post Max Verstappen Surprises Everyone and Commits to
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Yungblud Crowd-Surfs in a Wheelchair While Performing With Broken Leg
+### 1. Jon Landau Remembers ‘Generous Friend’ and Springsteen Biographer Dave Marsh
+
+[原文] The prolific rock critic wrote for Rolling Stone and penned over 25 books
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/dave-marsh-bruce-springsteen-biography-jon-landau-1235612544/) — *Rolling Stone*
+
+### 2. Tupac Murder Trial: Jurors Hear ‘Secret’ Police Interview with Keffe D Admitting Role in Shooting
+
+[原文] Duane “Keffe D” Davis now says he lied to investigators during the meeting to gain leverage while facing a potential life sentence on drug charges
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/tupac-shakur-murder-trial-keffe-d-shooting-suge-knight-1235612218/) — *Rolling Stone*
+
+### 3. Jessica Simpson Documentary Headed to Netflix in 2027
+
+[原文] Joe Pearlman, filmmaker behind recent Robbie Williams doc, will helm the "dive deep into the pop star’s life and career"
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/jessica-simpson-documentary-netflix-2027-1235612241/) — *Rolling Stone*
+
+### 4. Yungblud Crowd-Surfs in a Wheelchair While Performing With Broken Leg
 
 [原文] “Good way to break my leg …,” singer quips weeks after injuring himself before Sturgis Motorcycle Rally gig
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/yungblud-crowdsurfs-wheelchair-performing-broken-leg-1235612019/) — *Rolling Stone*
 
-### 2. Def Leppard Guitarist Vivian Campbell’s Cancer Has Returned
+### 5. Def Leppard Guitarist Vivian Campbell’s Cancer Has Returned
 
 [原文] Musician, who revealed first Hodgkin’s lymphoma diagnosis in 2013, says cancer’s return won’t slow him down
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/def-leppard-vivian-campbell-cancer-update-1235611949/) — *Rolling Stone*
-
-### 3. Jade Is Her Own Biggest Fan, and Has the Spotify Library to Prove It
-
-[原文] The pop singer and songwriter joins Rolling Stone’s Song Shuffle series, revealing an eclectic mix of songs from Little Mix and her own debut solo album, That’s Showbiz Baby!
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/jade-song-shuffle-little-mix-bon-iver-mnek-1235611781/) — *Rolling Stone*
-
-### 4. Mariah Carey ‘Unironically’ Reissuing ‘Glitter’ Soundtrack for 25th Anniversary
-
-[原文] “I made this album with so much love and care, so it was devastating to watch it become a punch line. I'm endlessly grateful to my fans who kept championing it all these years,” singer says of 2001 LP
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/mariah-carey-reissue-glitter-soundtrack-25th-anniversary-1235611961/) — *Rolling Stone*
-
-### 5. Pulp Share First Trailer for ‘What Do You Do for an Encore?’ Documentary
-
-[原文] Garth Jennings-directed film about Jarvis Cocker-fronted band premieres Sept. 25 on Mubi after one-night-only theatrical run
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/pulp-first-trailer-what-do-you-do-for-an-encore-documentary-1235611929/) — *Rolling Stone*
 
 ---
 
@@ -476,35 +476,35 @@ The post Max Verstappen Surprises Everyone and Commits to
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Travelodge CEO Exits After Mishandling of Guest’s Sexual Assault Case
+### 1. Expedia Cuts Eight Executives as It Reorganizes Around AI
+
+[原文] Expedia Group is shedding several senior leaders and shifting others around to reshape leadership and work structure. The goal: To help product and technology efforts move faster.
+
+📎 [阅读原文](https://skift.com/2026/08/20/expedia-cuts-eight-executives-as-it-reorganizes-around-ai/) — *Skift*
+
+### 2. Travelodge CEO Exits After Mishandling of Guest’s Sexual Assault Case
 
 [原文] Boydell’s departure won’t close the book on Travelodge’s security crisis. An independent review is ongoing and industry-wide safety talks have put the sector on notice.
 
 📎 [阅读原文](https://skift.com/2026/08/20/travelodge-ceo-exits-after-mishandling-of-guests-sexual-assault-case/) — *Skift*
 
-### 2. The Next Dollar: Three Competing Strategies at Lindblad, Intrepid, and Travelopia
+### 3. The Next Dollar: Three Competing Strategies at Lindblad, Intrepid, and Travelopia
 
 [原文] Lindblad is buying out founders, Travelopia is pruning an asset-heavy portfolio, and Intrepid is buying brands to strengthen its ground network. Each of these companies is deciding which parts of the 
 
 📎 [阅读原文](https://skift.com/2026/08/20/the-next-dollar-three-competing-strategies-at-lindblad-intrepid-and-travelopia/) — *Skift*
 
-### 3. Taj Starts Bringing Staff Back to Dubai Hotels, Others Cautious on Q4 Recovery
+### 4. Taj Starts Bringing Staff Back to Dubai Hotels, Others Cautious on Q4 Recovery
 
 [原文] Dubai’s occupancy rebound is partly a supply story, not a demand one — hotels are using the war to do renovations they needed anyway.
 
 📎 [阅读原文](https://skift.com/2026/08/20/taj-starts-bringing-staff-back-to-dubai-hotels-others-cautious-on-q4-recovery/) — *Skift*
 
-### 4. The UK’s Hidden-Fee Crackdown Is Coming for Travel
+### 5. The UK’s Hidden-Fee Crackdown Is Coming for Travel
 
 [原文] An investigation isn't a verdict, but the UK regulator no longer needs a court to reach one, and it can fine a company up to 10% of global turnover once it does. The travel industry will be watching v
 
 📎 [阅读原文](https://skift.com/2026/08/20/the-uks-hidden-fee-crackdown-is-coming-for-travel/) — *Skift*
-
-### 5. Delta’s Texas Ambitions: Is Austin Its Next Hub?
-
-[原文] Texas is one of the fastest growing states in the U.S., and American, Southwest, and United all have a major presence in the state. Now, Delta is looking to cash in with more growth out of Austin and 
-
-📎 [阅读原文](https://skift.com/2026/08/19/deltas-texas-ambitions-is-austin-its-next-hub/) — *Skift*
 
 ---
 
