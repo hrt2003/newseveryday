@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月21日** | 生成时间: 2026-08-21 09:34
+**2026年08月21日** | 生成时间: 2026-08-21 14:52
 
 ---
 
@@ -28,23 +28,23 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says
+### 3. El Niño set to be 'strongest in living memory', says Met Office
 
-[原文] At least 17 people were killed in the "massive attack" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted.
+[原文] Scientists say the growing El Niño weather pattern is an "unprecedented event" and means 2027 is likely to be the world's hottest year on record.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Trump wants to be friends with Kim - but South Korea could pay the price
+### 4. British rapper Yung Filly to face retrial on rape charges in Australia
 
-[原文] US military exercises with South Korea end early on Friday, at a time when the North is in a position of strength.
+[原文] A jury last month cleared the YouTuber of several sexual assault offences, but it couldn't reach a decision on three others,
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cd7l1g8922jo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Dozens dead after boat capsizes in north-western Nigeria
+### 5. Why the US economy is ringing alarm bells
 
-[原文] The incident took place in the country's northwest ​Sokoto state, with many of the victims feared to be children.
+[原文] The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. AI data center outrage is showing up everywhere from ads to elections
+### 1. 'A delicate dance': JD Vance says economic pressure is the best way to achieve Washington's objectives in Iran
+
+[原文] Vance said "what has been true over the last couple of weeks is they felt a lot more pressure than we have."
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/21/us-iran-war-trump-hormuz-vance-economic-pressure.html) — *CNBC*
+
+### 2. U.S. bond intervention is like 'paying your mortgage with your credit card,' JPMorgan's Sullivan says
+
+[原文] The U.S. government's efforts to manage pressure in the Treasury market risk merely shifting the problem down the road, according to JPMorgan's James Sullivan.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/21/us-bond-intervention-shifting-problem-future-jpmorgan.html) — *CNBC*
+
+### 3. 'Perfect storm' brews for global food supply this winter as grain prices soar
+
+[原文] Fears over crop yields and farmers' ability to plant ahead of next year have come to the fore as wheat prices jump.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/21/grain-price-russia-food-supply.html) — *CNBC*
+
+### 4. AI data center outrage is showing up everywhere from ads to elections
 
 [原文] With less than three months until the midterm elections, opposition to AI data centers is becoming a bipartisan rallying cry in a growing number of states.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/20/ai-data-center-election-backlash.html) — *CNBC*
 
-### 2. Warsh faces Fed independence test as Bessent moves in on central bank's turf
-
-[原文] Bessent’s effort to tamp down long-term Treasury yields could force Warsh to clarify how far the Fed should go in coordinating on bonds and the balance sheet.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/20/bessent-warsh-fed-bond-market-treasury-yields.html) — *CNBC*
-
-### 3. Japan's historic yen intervention has ‘turbo-charged’ the carry trade
+### 5. Japan's historic yen intervention has ‘turbo-charged’ the carry trade
 
 [原文] Japan's historic effort to prop up the yen may have had an unintended consequence: giving investors a better opportunity to put the carry trade back on.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/20/us-japan-yen-intervention-bank-of-japan-carry-trade.html) — *CNBC*
-
-### 4. Walmart stock tumbles 9% after outlook disappoints Wall Street
-
-[原文] Walmart is expected to report its fiscal second-quarter earnings on Thursday, offering a read on the consumer and the K-shaped economy.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html) — *CNBC*
-
-### 5. Japan headline inflation rate hits highest this year as energy prices bite
-
-[原文] Core inflation — which strips out prices of fresh food but includes energy — was in line with expectations, coming in at 1.8%.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/21/japan-inflation-iran-war-energy.html) — *CNBC*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Brook as talented as Gower and Pietersen but not ready to be captain - Agnew
+### 1. Spurs agree £75m deal to sign Man City's Savinho
+
+[原文] Tottenham agree a deal to sign Manchester City winger Savinho for £75m, with a further £10m in potential add-ons.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cwyl0r8g4lwo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. Brook as talented as Gower and Pietersen but not ready to be captain - Agnew
 
 [原文] England batsman Harry Brook was not ready to be Test captain but his knock at Headingley should be his batting blueprint for the future, writes Jonathan Agnew.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c8rn7jx766go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. McInnes' Rangers serve up stodgy 12-course banquet of huff and puff
+### 3. Break-up of Villa's Europa heroes leaves cracks for Emery to fill
 
-[原文] Rangers beat Jablonec in the first leg of their Conference League play-off, but it wasn't a pretty watch, writes Tom English.
+[原文] Aston Villa have already sold three key players this summer, a figure that could potentially double by the end of the transfer window.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c98v73n24j2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c20j3vjvy48o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Liverpool have £50m bid rejected for Brighton's Minteh
+### 4. Sutton's opening weekend predictions v Courteeners frontman Liam Fray
 
-[原文] Liverpool have a £50m bid rejected by Brighton for their winger Yankuba Minteh.
+[原文] BBC Sport football expert Chris Sutton takes on Courteeners frontman Liam Fray, plus the BBC readers and AI with his predictions for the fixtures on the opening weekend of the new Premier League seaso
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c4gknq7d8d5o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cn9nqzny7n7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Seven defenders on the books - why Arsenal still want Konsa
+### 5. 'Borderline Personality Disorder is my superpower'
 
-[原文] Arsenal have already spent more than £100m this summer as they look to defend their Premier League title - so why do they want Ezri Konsa as well?
+[原文] Wales' Donna Rose tells BBC Sport how rugby union has helped her manage Borderline Personality Disorder.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c62ey2y9n79o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. McIlroy back in form with lead at BMW Championship
-
-[原文] Rory McIlroy says a bit of "good work" with his team helped him rediscover his form and take a clubhouse lead in the first round of the BMW Championship.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/cy4598pnx7po?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-union/articles/c3w0vw7530no?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Jaafar Jackson: ‘Michael’ Sequel Will Give ‘More Insight’ Into Child Abuse Allegations and ‘Let His Voice Be Heard’
+### 1. Amazon MGM Studios Unveils Teaser for Kunal Kemmu’s ‘Vibe’ (EXCLUSIVE)
+
+[原文] Amazon MGM Studios has released the teaser for &#8220;Vibe,&#8221; an action comedy written and directed by Kunal Kemmu that follows two ordinary friends who unexpectedly become the country&#8217;s la
+
+📎 [阅读原文](https://variety.com/2026/film/news/amazon-mgm-studios-kunal-kemmu-vibe-teaser-1236839782/) — *Variety*
+
+### 2. Chris Hansen Says He Refused to Sign His Rights Away in Order to Screen Robert Pattinson’s ‘Primetime’
+
+[原文] Chris Hansen didn&#8217;t get to take a seat for the new A24 movie &#8220;Primetime.&#8221; The 66-year-old veteran journalist went to the offices of indie distributor A24 to watch the Lance Oppenheim
+
+📎 [阅读原文](https://variety.com/2026/film/awards/chris-hansen-a24-primetime-screening-refused-1236839630/) — *Variety*
+
+### 3. Jaafar Jackson: ‘Michael’ Sequel Will Give ‘More Insight’ Into Child Abuse Allegations and ‘Let His Voice Be Heard’
 
 [原文] Now that the second “Michael” movie is closer to starting production, star Jaafar Jackson says it will indeed address the criticisms and child abuse allegations Michael Jackson faced in the &#8217;90s
 
 📎 [阅读原文](https://variety.com/2026/film/news/jaafar-jackson-michael-sequel-insight-child-abuse-allegations-1236839600/) — *Variety*
 
-### 2. Ariana Grande Blasts Trump Administration for Using ‘We Can’t Be Friends’ in Social Post: ‘Your Truth Is False’
+### 4. Ariana Grande Blasts Trump Administration for Using ‘We Can’t Be Friends’ in Social Post: ‘Your Truth Is False’
 
 [原文] Ariana Grande has once again spoken out against the Trump administration for using one of her songs in a post on social media, this time for setting &#8220;We Can&#8217;t Be Friends (Wait For Your Lov
 
 📎 [阅读原文](https://variety.com/2026/music/news/ariana-grande-slams-trump-we-cant-be-friends-tiktok-post-1236839607/) — *Variety*
 
-### 3. How ‘Star Trek: Strange New Worlds’ Pulled Off That Madcap Puppet Episode
+### 5. How ‘Star Trek: Strange New Worlds’ Pulled Off That Madcap Puppet Episode
 
 [原文] SPOILER ALERT: This article contains spoilers for “Star Trek: Strange New Worlds” Season 4 Episode 5, titled “Level Five Transporter Accident,&#8221; now streaming on Paramount+. At long last, the mos
 
 📎 [阅读原文](https://variety.com/2026/tv/news/star-trek-strange-new-worlds-puppet-episode-1236833011/) — *Variety*
-
-### 4. Prime Video Unveils Landmark $2 Billion-Plus Investment in Latin American Entertainment
-
-[原文] Prime Video has unveiled a landmark $2 billion-plus investment plan in Latin American entertainment spanning 2027 to 2030 in a concerted bid to increase viewership and engagement. The move comes in wh
-
-📎 [阅读原文](https://variety.com/2026/film/global/prime-video-2-billion-investment-latin-america-1236839446/) — *Variety*
-
-### 5. Dave Bautista Officially Set as Kratos in ‘God of War’ TV Series
-
-[原文] Dave Bautista is officially taking up the mantle of the &#8220;God of War.&#8221; Variety has learned that the actor is now set to lead the Amazon Prime Video TV series based on the video game franchi
-
-📎 [阅读原文](https://variety.com/2026/tv/news/dave-bautista-kratos-god-of-war-tv-series-amazon-1236839394/) — *Variety*
 
 ---
 
@@ -444,29 +444,29 @@ The post Max Verstappen Surprises Everyone and Commits to
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/dave-marsh-bruce-springsteen-biography-jon-landau-1235612544/) — *Rolling Stone*
 
-### 2. Tupac Murder Trial: Jurors Hear ‘Secret’ Police Interview with Keffe D Admitting Role in Shooting
+### 2. Ariana Grande Slams Team Trump After It Uses ‘We Can’t Be Friends’ in TikTok Video: ‘Your Truth is False’
+
+[原文] The Grammy winner previously criticized the Trump administration after it used her song "Bye" in an ICE TikTok video
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/ariana-grande-white-house-music-ice-video-1235576472/) — *Rolling Stone*
+
+### 3. Tupac Murder Trial: Jurors Hear ‘Secret’ Police Interview with Keffe D Admitting Role in Shooting
 
 [原文] Duane “Keffe D” Davis now says he lied to investigators during the meeting to gain leverage while facing a potential life sentence on drug charges
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/tupac-shakur-murder-trial-keffe-d-shooting-suge-knight-1235612218/) — *Rolling Stone*
 
-### 3. Jessica Simpson Documentary Headed to Netflix in 2027
+### 4. Jessica Simpson Documentary Headed to Netflix in 2027
 
 [原文] Joe Pearlman, filmmaker behind recent Robbie Williams doc, will helm the "dive deep into the pop star’s life and career"
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/jessica-simpson-documentary-netflix-2027-1235612241/) — *Rolling Stone*
 
-### 4. Yungblud Crowd-Surfs in a Wheelchair While Performing With Broken Leg
+### 5. Yungblud Crowd-Surfs in a Wheelchair While Performing With Broken Leg
 
 [原文] “Good way to break my leg …,” singer quips weeks after injuring himself before Sturgis Motorcycle Rally gig
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/yungblud-crowdsurfs-wheelchair-performing-broken-leg-1235612019/) — *Rolling Stone*
-
-### 5. Def Leppard Guitarist Vivian Campbell’s Cancer Has Returned
-
-[原文] Musician, who revealed first Hodgkin’s lymphoma diagnosis in 2013, says cancer’s return won’t slow him down
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/def-leppard-vivian-campbell-cancer-update-1235611949/) — *Rolling Stone*
 
 ---
 
