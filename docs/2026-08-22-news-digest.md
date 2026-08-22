@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月22日** | 生成时间: 2026-08-22 09:23
+**2026年08月22日** | 生成时间: 2026-08-22 14:45
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Israel re-establishes closed West Bank settlement, defying growing international protests
+### 1. Canada says it will match US tariffs 'dollar for dollar' as trade talks break down
+
+[原文] A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. TikTok to pay $400m to US in one of largest child privacy settlements
+
+[原文] The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected "vast amounts of data" on millions of users under the age of 13.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. Israel re-establishes closed West Bank settlement, defying growing international protests
 
 [原文] Thirty "pioneer families" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Russian double-tap drone strike kills 15 in Ukrainian mall, officials say
+### 4. Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall
 
-[原文] At least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head.
+[原文] Nine people are still missing after the attack which left 130 injured, including a number of children.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. One killed in sword attack at Swedish school
+### 5. One killed in sword attack at Swedish school
 
 [原文] Officials say another three people were injured, and an 18-year-old male suspect shot and arrested.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Hong Kong's Tiananmen activists guilty in national security trial
-
-[原文] Three activists were accused of inciting others to subvert state power under the China-introduced law.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza
-
-[原文] Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -60,11 +60,11 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/21/ray-dalio-bessent-debt-crisis-bitcoin-gold.html) — *CNBC*
 
-### 2. Anthropic IPO filing will show AI backlash as a risk factor, sources say
+### 2. Six investors reveal the biggest market risks — and one strategy they agree on
 
-[原文] Anthropic is poised to debut on the stock market at a time when the public is increasingly upset about data centers and is fearful about AI taking jobs.
+[原文] Investors see different risks threatening markets, but broadly agree that traders should diversify beyond recent winners.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/22/investors-market-risks-diversification-stocks-kospi.html) — *CNBC*
 
 ### 3. Supreme Court allows Trump to continue White House ballroom construction for now
 
@@ -72,17 +72,17 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/21/supreme-court-trump-white-house-ballroom.html) — *CNBC*
 
-### 4. Bessent's bond gambit aimed at calming markets is instead stirring inflation worries
+### 4. Anthropic IPO filing will show AI backlash as a risk factor, sources say
+
+[原文] Anthropic is poised to debut on the stock market at a time when the public is increasingly upset about data centers and is fearful about AI taking jobs.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html) — *CNBC*
+
+### 5. Bessent's bond gambit aimed at calming markets is instead stirring inflation worries
 
 [原文] The so-called breakeven rate hit its highest levels in more than two months.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/21/bessents-bond-gambit-aimed-at-calming-markets-is-instead-stirring-inflation-worries-.html) — *CNBC*
-
-### 5. Ken Griffin says Citadel unwound more than 80% of risk tied to Situational Awareness portfolio
-
-[原文] Citadel has unwound more than 80% of the portfolio risk it acquired from Situational Awareness through over $4 billion in block trades, said Ken Griffin.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/21/citadel-situational-awareness-ken-griffin.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Japanese space tech startup Letara expands beyond satellite thrusters with $16M
+### 1. Michael Polansky is training an AI model on skin that’s still alive
+
+[原文] Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue alive
+
+📎 [阅读原文](https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/) — *TechCrunch*
+
+### 2. Japanese space tech startup Letara expands beyond satellite thrusters with $16M
 
 [原文] Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and security, after raising ¥2.6 billion ($16 m
 
 📎 [阅读原文](https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/) — *TechCrunch*
 
-### 2. Anthropic’s Opus 4.6 is a smut-machine
+### 3. Anthropic’s Opus 4.6 is a smut-machine
 
 [原文] Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/) — *TechCrunch*
 
-### 3. Nvidia partners with data center developer Cloverleaf
+### 4. Nvidia partners with data center developer Cloverleaf
 
 [原文] Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/) — *TechCrunch*
 
-### 4. How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours
+### 5. How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours
 
 [原文] Rillet CEO Nicolas Kopp shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/) — *TechCrunch*
-
-### 5. Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams
-
-[原文] Apple has admitted that some roles are being impacted as it shifts its focus away from certain initiatives.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/) — *TechCrunch*
 
 ---
 
@@ -174,29 +174,29 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cpw94evj1q7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Lessons learned, but Coventry's top-flight return about more than result
+### 2. Second set of twins a good distraction from injury - Maddison
+
+[原文] Tottenham midfielder James Maddison says having five children aged four and under - including a second set of twins - helpfully distracted him from his ACL injury last season.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c20j3vx6ne4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. Lessons learned, but Coventry's top-flight return about more than result
 
 [原文] Twenty-five years, 94 days and countless twists later, Coventry City have started life back in the Premier League, but it was a tough baptism of fire with a 3-0 loss at defending champions Arsenal.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cp8e37mpp0eo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Arsenal start title defence with comfortable win over Coventry
+### 4. Arsenal start title defence with comfortable win over Coventry
 
 [原文] Goals from Kai Havertz, Bukayo Saka and Martin Odegaard give champions Arsenal a comfortable 3-0 win over newcomers Coventry City, in the opening game of the Premier League campaign at the Emirates St
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cgr7e17010go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Man Utd agree £70m fee for Brighton's Baleba
+### 5. Fab Four and Fleming on the phone - England's first-Test takeaways
 
-[原文] Manchester United agree a fee of up to £70m for Brighton midfielder Carlos Baleba.
+[原文] Have England improved or were Pakistan really poor? BBC cricket correspondent Stephan Shemilt analyses the first-Test talking points from Headingley.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cwy452d662ko?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. It would be 'nice to have choice' over Ashes venues - Root
-
-[原文] Joe Root said "it would be nice to have a choice" over the venues where his England team play as they leave Headingley until 2029.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cm2g5xpl33no?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c5yr18gp9j9o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Paramount and State A.G. to Meet Monday to Discuss Settlement of Antitrust Case
+### 1. Olivia Rodrigo Releases ‘Handmaid’s Tale’-Inspired Song, ‘Serena Joy,’ in a Tiny Run of CDs, With Digital Drop to Follow
+
+[原文] It was already clear Olivia Rodrigo is in full feminist mode these days, with her all-female music festival, Daisy Chain Fields, set to take place in California&#8217;s Orange County next Saturday. Bu
+
+📎 [阅读原文](https://variety.com/2026/music/news/olivia-rodrigo-serena-joy-cd-single-handmaids-tale-1236840709/) — *Variety*
+
+### 2. Austrian Director Sandra Wollner’s ‘Everytime’ Wins Best Film at Sarajevo Film Festival
+
+[原文] Sandra Wollner’s “Everytime” continued its winning streak at the Sarajevo Film Festival, where the Cannes Un Certain Regard winner took home the Heart of Sarajevo for best narrative feature film. The 
+
+📎 [阅读原文](https://variety.com/2026/film/global/sandra-wollner-everytime-wins-sarajevo-film-festival-1236840695/) — *Variety*
+
+### 3. Bill Maher Puts Hunter Biden in the Hot Seat: ‘I’ve Seen You With Your Dick Out’
+
+[原文] After enduring years of character assassinations by the right, Hunter Biden is in the throes of a chaotic media blitz that’s included Twitter-trolling, posting on Substack and appearances on a number 
+
+📎 [阅读原文](https://variety.com/2026/tv/news/bill-maher-hunter-biden-dick-real-time-hbo-joe-biden-trump-sons-1236840676/) — *Variety*
+
+### 4. ‘Spa Weekend’ Review: Leslie Mann and Isla Fisher in a High-Concept Comedy Without the Comic Highs
+
+[原文] I watched "Spa Weekend" and realized that the genre it’s in — the high-concept movie with the concept in the title, the comedy that puts out a vibe of "Look, I’m crass and dumb and obvious! And that’s
+
+📎 [阅读原文](https://variety.com/2026/film/reviews/spa-weekend-review-leslie-mann-anna-faris-1236840170/) — *Variety*
+
+### 5. Paramount and State A.G. to Meet Monday to Discuss Settlement of Antitrust Case
 
 [原文] Paramount Skydance representatives are expected to meet on Monday with the California Attorney General&#8217;s office to discuss a potential settlement of the states&#8217; antitrust case, according t
 
 📎 [阅读原文](https://variety.com/2026/film/news/paramount-merger-warner-settlement-talks-bonta-california-1236840532/) — *Variety*
-
-### 2. Paramount Slams Mark Ruffalo Merger Attack as ‘Antisemitic,’ Says Company Does Not ‘Tolerate Prejudice of Any Kind’
-
-[原文] Paramount has come out swinging against a Friday screed from Mark Ruffalo, in which the award-winning actor accused moguls David and Larry Ellison of “powering some of the most destructive and inhuman
-
-📎 [阅读原文](https://variety.com/2026/film/news/paramount-responds-mark-ruffalo-merger-attack-israel-1236840552/) — *Variety*
-
-### 3. Emmy Overachiever Jason Bateman on Whether He Considers Himself an Actor or Director First
-
-[原文] Jason Bateman is this year’s Emmy overachiever, nominated for lead limited series actor and limited series directing on Netflix’s “Black Rabbit,” and as both supporting actor and executive producer on
-
-📎 [阅读原文](https://variety.com/2026/tv/awards/jason-bateman-emmys-black-rabbit-dtf-st-louis-podcast-1236840514/) — *Variety*
-
-### 4. Secret Hollywood Group’s AI Plan Focuses on Defining How AI Is Used — While Keeping Humans in Control
-
-[原文] A group of Hollywood filmmakers, executives and actors has spent the last three years secretly meeting with Silicon Valley executives to try to address a simmering issue in the industry: how to define
-
-📎 [阅读原文](https://variety.com/2026/biz/news/secret-hollywood-groups-ai-plan-protecting-copyrighted-work-1236840245/) — *Variety*
-
-### 5. Vertical Media on Track to Generate $150 Billion in 2026 as the Booming Sector Fights Crowded Content Field and High Subscriber Acquisition Costs
-
-[原文] There’s no doubt that 2026 will go down as a milestone year for the growth in popularity of vertical media content in the U.S. The sector is booming but still incredibly diffuse. That will change as m
-
-📎 [阅读原文](https://variety.com/2026/digital/news/vertical-media-150-billion-tiktok-microdramas-owl-co-1236840519/) — *Variety*
 
 ---
 
@@ -439,7 +439,7 @@ The post GTA 6 Driving Physics Hint at Return to the
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Buckcherry Involved in Tragic ‘Multi-Vehicle Accident’ in South Carolina
+### 1. Buckcherry Members ‘Unharmed’ After Tour Bus Involved in Tragic ‘Multi-Vehicle Accident’
 
 [原文] "Authorities have confirmed that the collision that occurred ahead of our bus resulted in a fatality," said the band in a statement
 
@@ -528,6 +528,7 @@ The post GTA 6 Driving Physics Hint at Return to the
 ## ⚠️ 今日故障源
 
 - **🚗 汽车**: Autocar
+- **✈️ 旅游**: Nomadic Matt
 
 ---
 
