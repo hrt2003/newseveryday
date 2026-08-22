@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月22日** | 生成时间: 2026-08-22 14:45
+**2026年08月22日** | 生成时间: 2026-08-22 20:45
 
 ---
 
@@ -34,9 +34,9 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall
+### 4. Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike
 
-[原文] Nine people are still missing after the attack which left 130 injured, including a number of children.
+[原文] Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin
+### 1. Meta is the latest tech giant to land in her courtroom. Meet Judge Yvonne Gonzalez Rogers
 
-[原文] Billionaire investor Ray Dalio said the the debt buyback announcement this week fits into a larger pattern that could signal a forthcoming debt crisis.
+[原文] Judge Yvonne Gonzalez Rogers has presided over a series of landmark tech trials and is now overseeing a case that could have a huge impact on Meta's future.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/21/ray-dalio-bessent-debt-crisis-bitcoin-gold.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/22/meet-yvonne-gonzalez-rogers-judge-taking-on-meta.html) — *CNBC*
 
-### 2. Six investors reveal the biggest market risks — and one strategy they agree on
+### 2. Inside Coca-Cola’s secretive innovation labs: How the beverage giant wants to automate dirty soda and refreshers
+
+[原文] From McDonald's to Wendy's, longtime Coke customers have been expanding their beverage offerings to boost their profit margins.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/22/coca-cola-innovation-labs-dirty-sodas-refreshers.html) — *CNBC*
+
+### 3. Ahead of tough new U.S. sanctions, Iran criticizes 'extraterritorial sovereignty'
+
+[原文] U.S. Treasury Secretary Scott Bessent told CNBC on Thursday that the proposed economic measures will likely negate the need for major U.S. military operations.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/22/iran-criticizes-us-sanctions-extraterritorial-sovereignty.html) — *CNBC*
+
+### 4. Warren Buffett Watch: It's Buffett, not Abel, who appears to be calling the shots on stocks
+
+[原文] New Berkshire Hathaway CEO Greg Abel appears to be letting Warren Buffett and portfolio manager Ted Weschler make all the decisions on the company's equities.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/22/warren-buffett-not-greg-abel-appears-to-still-be-calling-the-shots-on-stocks.html) — *CNBC*
+
+### 5. Six investors reveal the biggest market risks — and one strategy they agree on
 
 [原文] Investors see different risks threatening markets, but broadly agree that traders should diversify beyond recent winners.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/22/investors-market-risks-diversification-stocks-kospi.html) — *CNBC*
-
-### 3. Supreme Court allows Trump to continue White House ballroom construction for now
-
-[原文] President Donald Trump had the White House's East Wing demolished in 2025 to make way for his controversial planned ballroom.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/21/supreme-court-trump-white-house-ballroom.html) — *CNBC*
-
-### 4. Anthropic IPO filing will show AI backlash as a risk factor, sources say
-
-[原文] Anthropic is poised to debut on the stock market at a time when the public is increasingly upset about data centers and is fearful about AI taking jobs.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html) — *CNBC*
-
-### 5. Bessent's bond gambit aimed at calming markets is instead stirring inflation worries
-
-[原文] The so-called breakeven rate hit its highest levels in more than two months.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/21/bessents-bond-gambit-aimed-at-calming-markets-is-instead-stirring-inflation-worries-.html) — *CNBC*
 
 ---
 
@@ -168,23 +168,23 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Swaggering Arsenal want title attack, not defence
+### 1. Russell wins Dutch GP sprint from pole position
 
-[原文] Arsenal started last season as nearly men but their title win has given them a swagger - as Coventry discovered on the Premier League's opening night.
+[原文] Mercedes' George Russell leads from start to finish to win the sprint race at the Dutch Grand Prix.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cpw94evj1q7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/cn0n03rn711o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Second set of twins a good distraction from injury - Maddison
+### 2. Martinelli deserves better from Arsenal - Wright
 
-[原文] Tottenham midfielder James Maddison says having five children aged four and under - including a second set of twins - helpfully distracted him from his ACL injury last season.
+[原文] Ian Wright says Gabriel Martinelli deserves "more respect" from Arsenal and questions the way the club have handled the winger's potential exit.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c20j3vx6ne4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cj636ewwz46o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Lessons learned, but Coventry's top-flight return about more than result
+### 3. How new-look Spurs are shaping up under De Zerbi
 
-[原文] Twenty-five years, 94 days and countless twists later, Coventry City have started life back in the Premier League, but it was a tough baptism of fire with a 3-0 loss at defending champions Arsenal.
+[原文] Roberto de Zerbi has had time and money over the summer to start creating a new-look Tottenham. So how are they shaping up?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cp8e37mpp0eo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cx25xy7p9zpo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ### 4. Arsenal start title defence with comfortable win over Coventry
 
@@ -192,11 +192,11 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cgr7e17010go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Fab Four and Fleming on the phone - England's first-Test takeaways
+### 5. 'We're not Brendon and Ben' - Root's calmness praised
 
-[原文] Have England improved or were Pakistan really poor? BBC cricket correspondent Stephan Shemilt analyses the first-Test talking points from Headingley.
+[原文] Joe Root is praised for his calmness on his return as captain by interim coach Marcus Trescothick, who says the pair "are not" Ben Stokes and Brendon McCullum.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c5yr18gp9j9o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cly9yzrgp21o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Olivia Rodrigo Releases ‘Handmaid’s Tale’-Inspired Song, ‘Serena Joy,’ in a Tiny Run of CDs, With Digital Drop to Follow
+### 1. Actor Michael Wright, Star of ‘The Five Heartbeats’ and ‘V,’ Dies at 70
+
+[原文] Michael Wright, an actor known for his roles in &#8220;The Five Heartbeats,&#8221; &#8220;The Principal&#8221; and &#8220;V,&#8221; has died, according to a statement from his family. He was 70. His w
+
+📎 [阅读原文](https://variety.com/2026/tv/news/michael-wright-dead-five-heartbeats-the-principal-1236840765/) — *Variety*
+
+### 2. Emily Watson Says ‘Dune: Prophecy’ Season 2 Will Have ‘Lots of New Elements,’ Led Her on ‘A Quest in a Way Actors Always Get to Do and Actresses Don’t’
+
+[原文] Starring in HBO Max’s “Dune: Prophecy” has been a major “departure” for Emily Watson, whose lauded career was built upon major independent and arthouse successes such as Lars von Trier’s “Breaking the
+
+📎 [阅读原文](https://variety.com/2026/film/global/emily-watson-dune-prophecy-season-2-1236840725/) — *Variety*
+
+### 3. Here’s How to Watch 2026 Indycar Series Freedom 250 Grand Prix of Washington, D.C. Live Online
+
+[原文] After the Grand Prix of Ontario in Canada in mid-August, Indycar Series travels to the United States&#8217; capital city for the 2026 Freedom 250 Grand Prix of Washington, D.C. It starts on Saturday, 
+
+📎 [阅读原文](https://variety.com/2026/shopping/news/how-to-watch-indycar-freedom-250-grand-prix-live-online-free-1236838320/) — *Variety*
+
+### 4. ‘Everything That’s Wrong With You’ Review: A  Luminous Two-Hander from Slovenia About Online Pals Navigating the Waters of IRL Friendship
+
+[原文] Anyone with a scrolling habit will know that social media can be a soothing place for the downbeat and lonely. Yet the intimacy you can strike up with strangers rubs up against the uncomfortable fact 
+
+📎 [阅读原文](https://variety.com/2026/film/reviews/everything-thats-wrong-with-you-review-1236840724/) — *Variety*
+
+### 5. Olivia Rodrigo Releases ‘Handmaid’s Tale’-Inspired Song, ‘Serena Joy,’ in a Tiny Run of CDs, With Digital Drop to Follow
 
 [原文] It was already clear Olivia Rodrigo is in full feminist mode these days, with her all-female music festival, Daisy Chain Fields, set to take place in California&#8217;s Orange County next Saturday. Bu
 
 📎 [阅读原文](https://variety.com/2026/music/news/olivia-rodrigo-serena-joy-cd-single-handmaids-tale-1236840709/) — *Variety*
-
-### 2. Austrian Director Sandra Wollner’s ‘Everytime’ Wins Best Film at Sarajevo Film Festival
-
-[原文] Sandra Wollner’s “Everytime” continued its winning streak at the Sarajevo Film Festival, where the Cannes Un Certain Regard winner took home the Heart of Sarajevo for best narrative feature film. The 
-
-📎 [阅读原文](https://variety.com/2026/film/global/sandra-wollner-everytime-wins-sarajevo-film-festival-1236840695/) — *Variety*
-
-### 3. Bill Maher Puts Hunter Biden in the Hot Seat: ‘I’ve Seen You With Your Dick Out’
-
-[原文] After enduring years of character assassinations by the right, Hunter Biden is in the throes of a chaotic media blitz that’s included Twitter-trolling, posting on Substack and appearances on a number 
-
-📎 [阅读原文](https://variety.com/2026/tv/news/bill-maher-hunter-biden-dick-real-time-hbo-joe-biden-trump-sons-1236840676/) — *Variety*
-
-### 4. ‘Spa Weekend’ Review: Leslie Mann and Isla Fisher in a High-Concept Comedy Without the Comic Highs
-
-[原文] I watched "Spa Weekend" and realized that the genre it’s in — the high-concept movie with the concept in the title, the comedy that puts out a vibe of "Look, I’m crass and dumb and obvious! And that’s
-
-📎 [阅读原文](https://variety.com/2026/film/reviews/spa-weekend-review-leslie-mann-anna-faris-1236840170/) — *Variety*
-
-### 5. Paramount and State A.G. to Meet Monday to Discuss Settlement of Antitrust Case
-
-[原文] Paramount Skydance representatives are expected to meet on Monday with the California Attorney General&#8217;s office to discuss a potential settlement of the states&#8217; antitrust case, according t
-
-📎 [阅读原文](https://variety.com/2026/film/news/paramount-merger-warner-settlement-talks-bonta-california-1236840532/) — *Variety*
 
 ---
 
@@ -363,35 +363,35 @@ The post GTA 6 Driving Physics Hint at Return to the
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Texas Oil and Gas Regulators Will No Longer Have to Accept Public Comment at Open Meetings
+### 1. A Global Gathering to Tackle the Planet’s Soil Crisis Is Underway in Mongolia
+
+[原文] In Ulaanbaatar, Mongolia, policy makers, scientists and global negotiators are gathering to convey an urgent message: The world’s rangelands, which make up about half of Earth’s land surface, are in t
+
+📎 [阅读原文](https://insideclimatenews.org/news/22082026/convention-to-combat-desertification-highlights-soil-crisis/) — *Inside Climate News*
+
+### 2. Secret Plan to Dump Slaughterhouse Waste Blindsided Residents of Iowa’s Loess Hills
+
+[原文] In a matter of days, a dirt pit the size of five football fields appeared next to the weathered headstones of Center Cemetery in Castana, Iowa. The excavation site sits on the edge of the Loess Hills,
+
+📎 [阅读原文](https://insideclimatenews.org/news/22082026/iowa-loess-hills-slaughterhouse-waste/) — *Inside Climate News*
+
+### 3. Texas Oil and Gas Regulators Will No Longer Have to Accept Public Comment at Open Meetings
 
 [原文] The three elected officials who regulate the oil and gas industry in Texas hold an open meeting each month in Austin to vote on matters from pipeline violations to permit renewals. Members of the publ
 
 📎 [阅读原文](https://insideclimatenews.org/news/21082026/texas-railroad-commission-new-participation-policy/) — *Inside Climate News*
 
-### 2. Lawsuit Seeks to Block Closure of Top Federal Climate Research Center
+### 4. Lawsuit Seeks to Block Closure of Top Federal Climate Research Center
 
 [原文] One of the nation’s largest environmental groups is challenging the Trump administration’s closure of a leading climate institute, filing a lawsuit Thursday in federal court saying the closure is unla
 
 📎 [阅读原文](https://insideclimatenews.org/news/21082026/lawsuit-to-block-climate-research-center-closure/) — *Inside Climate News*
 
-### 3. Bomb Fishing Is Reducing Coral Reefs to ‘Rubble’
+### 5. Bomb Fishing Is Reducing Coral Reefs to ‘Rubble’
 
 [原文] Nicknamed the “Amazon of the Seas,” the Coral Triangle is the world’s most biologically diverse marine ecosystem. Sink below the surface and you’ll encounter the sound of a vibrant symphony of snappin
 
 📎 [阅读原文](https://insideclimatenews.org/news/21082026/bomb-fishing-destroying-coral-reefs/) — *Inside Climate News*
-
-### 4. ‘Lead City’ Series Receives National Association of Black Journalists Award
-
-[原文] A collaborative project about Chicago’s handling of its massive number of lead water pipes—a public health hazard—has won a reporting award from the National Association of Black Journalists. The “Sal
-
-📎 [阅读原文](https://insideclimatenews.org/news/21082026/lead-city-series-receives-national-association-of-black-journalists-award/) — *Inside Climate News*
-
-### 5. Extreme Heat Waves Fuel Political Tensions in Europe
-
-[原文] LINZ, Austria—A summer-long series of heatwaves that has been blistering much of Europe since June has turned political. Elected leaders are facing growing scrutiny for their lackluster response to th
-
-📎 [阅读原文](https://insideclimatenews.org/news/21082026/europe-heat-fuels-political-tensions/) — *Inside Climate News*
 
 ---
 
@@ -477,35 +477,35 @@ The post GTA 6 Driving Physics Hint at Return to the
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The New Long-Haul Routes Testing How Far Demand Really Stretches
+### 1. In Praise of Kayak, 21 Years Later
+
+[原文] Nobody has built a better travel search tool than Kayak. There, I said it.
+
+📎 [阅读原文](https://skift.com/2026/08/22/in-praise-of-kayak-21-years-later/) — *Skift*
+
+### 2. The New Long-Haul Routes Testing How Far Demand Really Stretches
 
 [原文] From Sapporo to Riyadh, airlines are getting bolder with their long-haul route bets and using efficient widebody jets to test markets that may once have seemed too niche.
 
 📎 [阅读原文](https://skift.com/2026/08/21/the-new-long-haul-routes-testing-how-far-demand-really-stretches/) — *Skift*
 
-### 2. Viator’s Updated Operator Agreement Formalizes a Power Shift in Experiences Pricing: Scoop
+### 3. Viator’s Updated Operator Agreement Formalizes a Power Shift in Experiences Pricing: Scoop
 
 [原文] Is Airbnb's partnership with Tripadvisor merely an expansion of Airbnb's partnership with Tripadvisor's res-tech unit Bokun? So far some Airbnb employees aren't seeing signs of a broad, new Viator inv
 
 📎 [阅读原文](https://skift.com/2026/08/21/viators-updated-operator-agreement-formalizes-a-power-shift-in-experiences-pricing-scoop/) — *Skift*
 
-### 3. The Iran War Shows How Reliant Indian Airlines Are on Gulf Hubs
+### 4. The Iran War Shows How Reliant Indian Airlines Are on Gulf Hubs
 
 [原文] India’s global aviation ambitions still run through the Gulf. When that works, it connects Indian travelers to the world. When geopolitics disrupts it, the shock quickly reaches India’s airlines.
 
 📎 [阅读原文](https://skift.com/2026/08/21/the-iran-war-shows-how-reliant-indian-airlines-are-on-gulf-hubs/) — *Skift*
 
-### 4. Travel’s AI Reckoning Has Arrived
+### 5. Travel’s AI Reckoning Has Arrived
 
 [原文] Sarah Kopit and Seth Borko break down travel’s AI reckoning: what is paying off, what is still experimental, and why data, trust, and ROI now matter more than AI hype.
 
 📎 [阅读原文](https://skift.com/2026/08/21/travels-ai-reckoning-has-arrived/) — *Skift*
-
-### 5. Google Just Bought Spirit’s Data for $10 Million and Got a Steal
-
-[原文] On today's Skift Daily Briefing, ⁠Sarah Dandashy⁠ breaks down why Google's Spirit data purchase is a bargain with enormous AI implications, what the UK's drip pricing crackdown means for travelers and
-
-📎 [阅读原文](https://skift.com/2026/08/21/google-just-bought-spirits-data-for-10-million-and-got-a-steal/) — *Skift*
 
 ---
 
@@ -528,7 +528,6 @@ The post GTA 6 Driving Physics Hint at Return to the
 ## ⚠️ 今日故障源
 
 - **🚗 汽车**: Autocar
-- **✈️ 旅游**: Nomadic Matt
 
 ---
 
