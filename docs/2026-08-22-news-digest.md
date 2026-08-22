@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月22日** | 生成时间: 2026-08-22 02:40
+**2026年08月22日** | 生成时间: 2026-08-22 09:23
 
 ---
 
@@ -22,29 +22,29 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Russian double-tap drone strike kills 14 in Ukrainian mall, officials say
+### 2. Russian double-tap drone strike kills 15 in Ukrainian mall, officials say
 
-[原文] Another 121 people were injured when the shopping centre was hit, according to the regional head.
+[原文] At least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Hong Kong's Tiananmen activists guilty in national security trial
+### 3. One killed in sword attack at Swedish school
+
+[原文] Officials say another three people were injured, and an 18-year-old male suspect shot and arrested.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. Hong Kong's Tiananmen activists guilty in national security trial
 
 [原文] Three activists were accused of inciting others to subvert state power under the China-introduced law.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza
+### 5. UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza
 
 [原文] Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Two teenagers seriously injured after sword attack at Swedish school
-
-[原文] Police say one man has been arrested, while several other local schools were locked down.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Ken Griffin says Citadel unwound more than 80% of risk tied to Situational Awareness portfolio
+### 1. Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin
 
-[原文] In a letter to clients, Griffin addressed the firm's purchase of assets from Situational Awareness for the first time.
+[原文] Billionaire investor Ray Dalio said the the debt buyback announcement this week fits into a larger pattern that could signal a forthcoming debt crisis.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/21/citadel-situational-awareness-ken-griffin.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/21/ray-dalio-bessent-debt-crisis-bitcoin-gold.html) — *CNBC*
 
-### 2. Supreme Court allows Trump to continue White House ballroom construction for now
+### 2. Anthropic IPO filing will show AI backlash as a risk factor, sources say
+
+[原文] Anthropic is poised to debut on the stock market at a time when the public is increasingly upset about data centers and is fearful about AI taking jobs.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html) — *CNBC*
+
+### 3. Supreme Court allows Trump to continue White House ballroom construction for now
 
 [原文] President Donald Trump had the White House's East Wing demolished in 2025 to make way for his controversial planned ballroom.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/21/supreme-court-trump-white-house-ballroom.html) — *CNBC*
 
-### 3. Trump to allow import of 300,000 metric tons of ground beef without tariff
+### 4. Bessent's bond gambit aimed at calming markets is instead stirring inflation worries
 
-[原文] Beef prices in the U.S have soared in 2026 due to a reduction in the nation's cattle herd.
+[原文] The so-called breakeven rate hit its highest levels in more than two months.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/21/trump-ground-beef-import-tariff.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/21/bessents-bond-gambit-aimed-at-calming-markets-is-instead-stirring-inflation-worries-.html) — *CNBC*
 
-### 4. Trump tariff deadline looms as Canada says it's working to resolve 'trade issues' with U.S.
+### 5. Ken Griffin says Citadel unwound more than 80% of risk tied to Situational Awareness portfolio
 
-[原文] Businesses have warned that Trump's new 50% duties could cripple their U.S. sales if they take effect.
+[原文] Citadel has unwound more than 80% of the portfolio risk it acquired from Situational Awareness through over $4 billion in block trades, said Ken Griffin.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/21/trump-canada-tariffs-trade-deal-deadline.html) — *CNBC*
-
-### 5. As GOP warns data centers put Ohio Senate seat at risk, Husted defends energy policy
-
-[原文] Vice President JD Vance joined Sen. Jon Husted and other GOP leaders at a Middletown, Ohio, steel plant, as data center fears loom.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/21/jon-husted-data-centers-ohio-senate.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/21/citadel-situational-awareness-ken-griffin.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Tesla’s solar roof is dead — here’s what went wrong
+### 1. Japanese space tech startup Letara expands beyond satellite thrusters with $16M
 
-[原文] Tesla's solar roof was an experiment that never really caught on for the company. But does that mean the concept of roof-integrated solar is dead?
+[原文] Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and security, after raising ¥2.6 billion ($16 m
 
-📎 [阅读原文](https://techcrunch.com/2026/08/21/teslas-solar-roof-is-dead-heres-what-went-wrong/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/) — *TechCrunch*
 
-### 2. Waymo hands over documents in NHTSA’s child collision probe
+### 2. Anthropic’s Opus 4.6 is a smut-machine
 
-[原文] The responses to NHTSA's questions so far are redacted entirely, citing "confidential business information."
+[原文] Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.
 
-📎 [阅读原文](https://techcrunch.com/2026/08/21/waymo-hands-over-documents-in-nhtsas-child-collision-probe/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/) — *TechCrunch*
 
-### 3. Why is the DOJ investigating Andreessen Horowitz’s board seats?
+### 3. Nvidia partners with data center developer Cloverleaf
 
-[原文] Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on 
+[原文] Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.
 
-📎 [阅读原文](https://techcrunch.com/video/why-is-the-doj-investigating-andreessen-horowitzs-board-seats/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/) — *TechCrunch*
 
-### 4. US government lab is probing Chinese lidar for security vulnerabilities
+### 4. How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours
 
-[原文] The security review is being performed by the Idaho National Laboratory, and the research is being funded by a company -- or a group of companies -- in the electric and autonomous vehicle industries.
+[原文] Rillet CEO Nicolas Kopp shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying.
 
-📎 [阅读原文](https://techcrunch.com/2026/08/21/us-government-lab-is-probing-chinese-lidar-for-security-vulnerabilities/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/) — *TechCrunch*
 
-### 5. Oura faces lawsuit accusing it of misleading consumers about sleep-tracking accuracy
+### 5. Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams
 
-[原文] The lawsuit alleges that Oura rings are unable to measure any of the physiological signals needed to assess sleep quality or determine sleep stages.
+[原文] Apple has admitted that some roles are being impacted as it shifts its focus away from certain initiatives.
 
-📎 [阅读原文](https://techcrunch.com/2026/08/21/oura-faces-lawsuit-accusing-it-of-misleading-consumers-about-sleep-tracking-accuracy/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. It would be 'nice to have choice' over Ashes venues - Root
+### 1. Swaggering Arsenal want title attack, not defence
+
+[原文] Arsenal started last season as nearly men but their title win has given them a swagger - as Coventry discovered on the Premier League's opening night.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cpw94evj1q7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. Lessons learned, but Coventry's top-flight return about more than result
+
+[原文] Twenty-five years, 94 days and countless twists later, Coventry City have started life back in the Premier League, but it was a tough baptism of fire with a 3-0 loss at defending champions Arsenal.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cp8e37mpp0eo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. Arsenal start title defence with comfortable win over Coventry
+
+[原文] Goals from Kai Havertz, Bukayo Saka and Martin Odegaard give champions Arsenal a comfortable 3-0 win over newcomers Coventry City, in the opening game of the Premier League campaign at the Emirates St
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cgr7e17010go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. Man Utd agree £70m fee for Brighton's Baleba
+
+[原文] Manchester United agree a fee of up to £70m for Brighton midfielder Carlos Baleba.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cwy452d662ko?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 5. It would be 'nice to have choice' over Ashes venues - Root
 
 [原文] Joe Root said "it would be nice to have a choice" over the venues where his England team play as they leave Headingley until 2029.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cm2g5xpl33no?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 2. 'I fear for them' - Vaughan & Raja lament 'desperate times' for Pakistan
-
-[原文] Former England captain Michael Vaughan says he "really fears" for Pakistan after their heavy defeat in the first Test at Headingley.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/czrj545d34mo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 3. 'Hungry to win' - Villa's Konsa joins Arsenal in £55m deal
-
-[原文] Arsenal complete the £55m signing of England defender Ezri Konsa from Aston Villa.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ckg97jpkkego?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. Argentina's Paredes banned for 10 games after World Cup clashes
-
-[原文] Fifa ban Argentina midfielder Leandro Paredes for 10 matches over his role in clashes with Spanish players after the World Cup final.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c98v7p1pr3eo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Brighton reject Liverpool's new £60m Minteh bid
-
-[原文] Liverpool have an improved bid of £60m for winger Yankuba Minteh rejected by Brighton but talks between the clubs continue.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ce97ky3vkx4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘It Ends’: Is Alexander Ullom the Next Great Horror Director?
+### 1. Paramount and State A.G. to Meet Monday to Discuss Settlement of Antitrust Case
 
-[原文] Alexander Ullom is dog-tired. The reason why the 28-year-old filmmaker looks “like a fuckin’ mess,” as he puts it, is because he wrapped principal photography on his sophomore movie, “4 x 4: The Event
+[原文] Paramount Skydance representatives are expected to meet on Monday with the California Attorney General&#8217;s office to discuss a potential settlement of the states&#8217; antitrust case, according t
 
-📎 [阅读原文](https://variety.com/2026/film/features/it-ends-alexander-ullom-next-horror-movie-director-1236839167/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/paramount-merger-warner-settlement-talks-bonta-california-1236840532/) — *Variety*
 
-### 2. Quality Control Co-Founder Pierre ‘P’ Thomas Hospitalized After Suffering Heart Attack
+### 2. Paramount Slams Mark Ruffalo Merger Attack as ‘Antisemitic,’ Says Company Does Not ‘Tolerate Prejudice of Any Kind’
 
-[原文] Quality Control co-founder Pierre &#8220;P&#8221; Thomas is currently in the hospital receiving medical care after suffering a heart attack. A rep for Thomas confirmed to Variety that the hip-hop mogu
+[原文] Paramount has come out swinging against a Friday screed from Mark Ruffalo, in which the award-winning actor accused moguls David and Larry Ellison of “powering some of the most destructive and inhuman
 
-📎 [阅读原文](https://variety.com/2026/music/news/pierre-p-thomas-quality-control-hospitalized-heart-attack-1236840256/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/paramount-responds-mark-ruffalo-merger-attack-israel-1236840552/) — *Variety*
 
-### 3. Why ‘American Doctor’ Director Quit Her ABC Executive Job and Drained Her Savings Account to Make a Documentary About Gaza Healthcare Workers
+### 3. Emmy Overachiever Jason Bateman on Whether He Considers Himself an Actor or Director First
 
-[原文] When Emmy award-winning documentary filmmaker and journalist Poh Si Teng heard the news of her colleague Samer Abu&#160;Daqqa being killed by an Israeli drone strike while on assignment back in Decemb
+[原文] Jason Bateman is this year’s Emmy overachiever, nominated for lead limited series actor and limited series directing on Netflix’s “Black Rabbit,” and as both supporting actor and executive producer on
 
-📎 [阅读原文](https://variety.com/2026/film/features/american-doctor-director-documentary-gaza-healthcare-workers-1236840080/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/awards/jason-bateman-emmys-black-rabbit-dtf-st-louis-podcast-1236840514/) — *Variety*
 
-### 4. DC’s ‘People v. Gorilla Grodd’ Mockumentary Series Set at HBO Max, Skyler Gisondo and Jimmy Tatro to Star
+### 4. Secret Hollywood Group’s AI Plan Focuses on Defining How AI Is Used — While Keeping Humans in Control
 
-[原文] HBO Max is officially moving forward with their DC Studios mockumentary series, now titled &#8220;The People v. Gorilla Grodd.&#8221; The show was first reported to be in the works in November 2025. A
+[原文] A group of Hollywood filmmakers, executives and actors has spent the last three years secretly meeting with Silicon Valley executives to try to address a simmering issue in the industry: how to define
 
-📎 [阅读原文](https://variety.com/2026/tv/news/people-v-gorilla-grodd-hbo-max-skyler-gisondo-jimmy-tatro-1236840183/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/biz/news/secret-hollywood-groups-ai-plan-protecting-copyrighted-work-1236840245/) — *Variety*
 
-### 5. Hayden Panettiere’s 37th Birthday Honored by Ex Wladimir Klitschko, 5 Days After Her Death: ‘You Are Missed. You Will Never Be Forgotten’
+### 5. Vertical Media on Track to Generate $150 Billion in 2026 as the Booming Sector Fights Crowded Content Field and High Subscriber Acquisition Costs
 
-[原文] Hayden Panettiere‘s ex-boyfriend, Wladimir Klitschko, is paying tribute to the late actress on what would&#8217;ve been her 37th birthday. She died Sunday, Aug. 16, just five days prior. &#8220;Today 
+[原文] There’s no doubt that 2026 will go down as a milestone year for the growth in popularity of vertical media content in the U.S. The sector is booming but still incredibly diffuse. That will change as m
 
-📎 [阅读原文](https://variety.com/2026/film/news/hayden-panettiere-birthday-death-ex-wladimir-klitschko-1236840226/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/digital/news/vertical-media-150-billion-tiktok-microdramas-owl-co-1236840519/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. This Awesome LEGO-Like Original Xbox Building Kit Is Still Available to Preorder (But It's Sold Out at Amazon)
+### 1. The Sinking City 2 Review
 
-[原文] Mattel has announced a LEGO-like building kit for the original Xbox game console in celebration of its 25th anniversary, but it's selling out fast.
+[原文] The Sinking City 2 feels inescapably like off-brand Resident Evil, but it's a praiseworthy imitation of its main inspirations wrapped in the Cthulhu mythos.
 
-📎 [阅读原文](https://www.ign.com/articles/mattel-brick-shop-original-xbox-building-kit-announcement-preorders) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/the-sinking-city-2-review) — *IGN*
 
-### 2. Toy Story 5 Limited-Edition 4K Steelbook Sells Out Immediately
+### 2. 'Hoping for a Huge October Surprise, But Not Holding My Breath' — Arc Raiders Players Torn After Embark Delays Future Expeditions Until Early 2027
 
-[原文] The 4K Blu-ray releases for Toy Story 5 went up for preorder this morning. Unfortunately for any collectors, however, the previously announced limited edition steelbook has already sold out across ret
+[原文] Embark Studios has announced that all future Arc Raiders Expeditions have been delayed until early 2027 as it aims to "return with major improvements" following community feedback.
 
-📎 [阅读原文](https://www.ign.com/articles/toy-story-5-limited-edition-4k-steelbook-sells-out-immediately) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/hoping-for-a-huge-october-surprise-but-not-holding-my-breath-arc-raiders-players-torn-after-embark-delays-future-expeditions-until-early-2027) — *IGN*
 
-### 3. Intergalactic: The Heretic Prophet Cast Expands With Uncharted, The Last of Us Veteran
+### 3. Save $800 Off This Top-Tier iBuypower Gaming PC With AMD Ryzen 9 9950X3D CPU and 5090 GPU
 
-[原文] Veteran voice actor Robin Atkin Downes has confirmed his involvement in Naughty Dog's upcoming Intergalactic: The Heretic Prophet, following work on Uncharted and The Last of Us.
+[原文] Decked out config with 32GB of DDR5-6000MHz RAM, massive 4TB SSD, and 3 year warranty.
 
-📎 [阅读原文](https://www.ign.com/articles/intergalactic-the-heretic-prophet-cast-expands-with-uncharted-the-last-of-us-veteran) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/ibuypower-rtx-5090-gaming-pc-deal-august-2026) — *IGN*
 
-### 4. YouTuber Named in Take-Two GTA 6 Leaker Subpoena Insists He Did Nothing Wrong
+### 4. Amazon Has Box Set Deals Hidden Deep Within Its BOGO 50% Off Book Sale
 
-[原文] The YouTuber named in Take-Two's GTA 6 leaker subpoena has denied any wrongdoing.
+暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/youtuber-named-in-take-two-gta-6-leaker-subpoena-insists-he-did-nothing-wrong) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/amazon-bogo-book-sale-august-2026) — *IGN*
 
-### 5. Samsung's Absolutely Massive 57" Dual 4K Gaming Monitor Drops to the Lowest Price I've Ever Seen
+### 5. Double Fine Owns IP and Publishing Rights for All of Its Games Following Xbox Split, Psychonauts Studio Confirms
 
-[原文] Bigger is better.
+[原文] Psychonauts and Brutal Legend developer Double Fine Productions has confirmed it has regained the IP and publishing rights for all of its games released under Microsoft following its split from Xbox.
 
-📎 [阅读原文](https://www.ign.com/articles/samsung-odyssey-g9-gaming-monitor-deal-august-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/double-fine-owns-ip-and-publishing-rights-for-all-of-its-games-following-xbox-split-psychonauts-studio-confirms) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Toyota Knows the GR GT ‘Makes No Financial Sense.’ But Akio Promised No Boring Cars
+### 1. Summer Scores: Short-Money Truck Mods That Punch Above Their Price
 
-[原文] A Toyota exec gets candid about the finances behind the brand's new halo car, and why gentleman drivers are crucial for this car's success.
-The post Toyota Knows the GR GT ‘Makes No Financial Sense.’ 
+[原文] We've done some serious bargain-hunting and wrangled a bunch of discount codes to get you great deals on truck upgrades that are affordable, but still meaningful.
+The post Summer Scores: Short-Money T
+
+📎 [阅读原文](https://www.thedrive.com/news/summer-scores-short-money-truck-mods-that-punch-above-their-price) — *The Drive*
+
+### 2. Toyota Knows the GR GT ‘Makes No Financial Sense.’ But Akio Promised No Boring Cars
+
+[原文] A Toyota exec gets candid about the finances behind the brand's new halo car, and why gentleman drivers are crucial for its success.
+The post Toyota Knows the GR GT ‘Makes No Financial Sense.’ But Aki
 
 📎 [阅读原文](https://www.thedrive.com/news/toyota-knows-the-gr-gt-makes-no-financial-sense-but-akio-promised-no-boring-cars) — *The Drive*
 
-### 2. These Stand-On Motorized Wagons Have Created a Fascinating Modding Community
+### 3. These Stand-On Motorized Wagons Have Created a Fascinating Modding Community
 
 [原文] The StepRanger is billed as a micro-truck that goes where pickups can't, and owners are modifying them in some incredibly cool ways.
 The post These Stand-On Motorized Wagons Have Created a Fascinating
 
 📎 [阅读原文](https://www.thedrive.com/news/these-stand-on-motorized-wagons-have-created-a-fascinating-modding-community) — *The Drive*
 
-### 3. The Government Is Still Messing With Fuel Formulas to Try to Curb Gas Prices
+### 4. The Government Is Still Messing With Fuel Formulas to Try to Curb Gas Prices
 
 [原文] The EPA is allowing the sale of more volatile "winter gas" earlier in the year than usual, even though high temps worsen pollution.
 The post The Government Is Still Messing With Fuel Formulas to Try t
 
 📎 [阅读原文](https://www.thedrive.com/news/the-government-is-still-messing-with-fuel-formulas-to-try-to-curb-gas-prices) — *The Drive*
 
-### 4. GTA 6 Driving Physics Hint at Return to the Realism of GTA 4
+### 5. GTA 6 Driving Physics Hint at Return to the Realism of GTA 4
 
 [原文] If you were disappointed with the arcade-style handling of cars in Grand Theft Auto V, you may like what you see in the latest GTA 6 gameplay leak.
 The post GTA 6 Driving Physics Hint at Return to the
 
 📎 [阅读原文](https://www.thedrive.com/news/gta-6-driving-physics-hint-at-return-to-the-realism-of-gta-4) — *The Drive*
-
-### 5. Feds Investigate GM’s 6.2-Liter V8s That Keep Failing Despite Fixes: TDS
-
-[原文] The probe covers nearly 1 million trucks and SUVs, after 500 owners let NHTSA know their vehicles are still having problems post-recall.
-The post Feds Investigate GM&#8217;s 6.2-Liter V8s That Keep Fa
-
-📎 [阅读原文](https://www.thedrive.com/news/feds-investigate-gms-6-2-liter-v8s-that-keep-failing-despite-fixes-tds) — *The Drive*
 
 ---
 
@@ -363,35 +363,35 @@ The post Feds Investigate GM&#8217;s 6.2-Liter V8s That Keep Fa
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Extreme Heat Waves Fuel Political Tensions in Europe
+### 1. Texas Oil and Gas Regulators Will No Longer Have to Accept Public Comment at Open Meetings
+
+[原文] The three elected officials who regulate the oil and gas industry in Texas hold an open meeting each month in Austin to vote on matters from pipeline violations to permit renewals. Members of the publ
+
+📎 [阅读原文](https://insideclimatenews.org/news/21082026/texas-railroad-commission-new-participation-policy/) — *Inside Climate News*
+
+### 2. Lawsuit Seeks to Block Closure of Top Federal Climate Research Center
+
+[原文] One of the nation’s largest environmental groups is challenging the Trump administration’s closure of a leading climate institute, filing a lawsuit Thursday in federal court saying the closure is unla
+
+📎 [阅读原文](https://insideclimatenews.org/news/21082026/lawsuit-to-block-climate-research-center-closure/) — *Inside Climate News*
+
+### 3. Bomb Fishing Is Reducing Coral Reefs to ‘Rubble’
+
+[原文] Nicknamed the “Amazon of the Seas,” the Coral Triangle is the world’s most biologically diverse marine ecosystem. Sink below the surface and you’ll encounter the sound of a vibrant symphony of snappin
+
+📎 [阅读原文](https://insideclimatenews.org/news/21082026/bomb-fishing-destroying-coral-reefs/) — *Inside Climate News*
+
+### 4. ‘Lead City’ Series Receives National Association of Black Journalists Award
+
+[原文] A collaborative project about Chicago’s handling of its massive number of lead water pipes—a public health hazard—has won a reporting award from the National Association of Black Journalists. The “Sal
+
+📎 [阅读原文](https://insideclimatenews.org/news/21082026/lead-city-series-receives-national-association-of-black-journalists-award/) — *Inside Climate News*
+
+### 5. Extreme Heat Waves Fuel Political Tensions in Europe
 
 [原文] LINZ, Austria—A summer-long series of heatwaves that has been blistering much of Europe since June has turned political. Elected leaders are facing growing scrutiny for their lackluster response to th
 
 📎 [阅读原文](https://insideclimatenews.org/news/21082026/europe-heat-fuels-political-tensions/) — *Inside Climate News*
-
-### 2. More than 50 Sloths Died at a Florida Wildlife Attraction. Officials Say No Crime Occurred.
-
-[原文] New investigative findings from a Florida sheriff’s office detail the stark conditions of emaciated and dehydrated sloths at a planned tourism attraction where more than 50 of the animals died, includ
-
-📎 [阅读原文](https://insideclimatenews.org/news/20082026/florida-sloth-world-deaths-investigation-concludes-no-crime/) — *Inside Climate News*
-
-### 3. China’s Solar Buildout Hampers Bird Diversity
-
-[原文] Policies promoting solar power construction projects in China have contributed to a decline in bird diversity across the country. Those findings, from a study published Thursday in the journal Science
-
-📎 [阅读原文](https://insideclimatenews.org/news/20082026/china-solar-panels-harm-bird-diversity/) — *Inside Climate News*
-
-### 4. Notes from Illinois’ Virtual Power Plant Frontier
-
-[原文] Illinois is the latest example of how a state can embrace virtual power plants and see results almost immediately. Today, Solrite Energy is announcing its entry into the Illinois market with a program
-
-📎 [阅读原文](https://insideclimatenews.org/news/20082026/inside-clean-energy-illinois-virtual-power-plants/) — *Inside Climate News*
-
-### 5. Europe Faces Surging Wildfire Threat, New Research Shows
-
-[原文] Wildfires in Europe could burn across about 39 percent more land by the end of the century, even if greenhouse gas emissions decline rapidly over the next few decades, new research shows. With continu
-
-📎 [阅读原文](https://insideclimatenews.org/news/20082026/europe-surging-wildfire-threat/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post Feds Investigate GM&#8217;s 6.2-Liter V8s That Keep Fa
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Quality Control Co-Founder Pierre ‘P’ Thomas ‘Alive and Currently Hospitalized’ After Heart Attack
+### 1. Buckcherry Involved in Tragic ‘Multi-Vehicle Accident’ in South Carolina
+
+[原文] "Authorities have confirmed that the collision that occurred ahead of our bus resulted in a fatality," said the band in a statement
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/buckcherry-car-crash-south-carolina-1235613285/) — *Rolling Stone*
+
+### 2. Tupac Jurors See Keffe D’s First Public Interview About Killing: ‘I Got Cancer…Nothing Else to Lose’
+
+[原文] The jury also heard Keffe claim in a 2009 police interview that alleged gunman Orlando Anderson “peed on his hands” after the shooting to wash away gunpowder
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/tupac-shakur-murder-trial-keffe-d-bet-suge-knight-1235613138/) — *Rolling Stone*
+
+### 3. Quality Control Co-Founder Pierre ‘P’ Thomas ‘Alive and Currently Hospitalized’ After Heart Attack
 
 [原文] The music executive, whose roster includes Lil Baby, Quavo, and JT, is reportedly being monitored in the ICU
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/quality-control-co-founder-pierre-p-thomas-heart-attack-1235613014/) — *Rolling Stone*
 
-### 2. New Translations Crave an Uncertain Life in Synth-Pop Gem ‘Modern Lovers’
+### 4. New Translations Crave an Uncertain Life in Synth-Pop Gem ‘Modern Lovers’
 
 [原文] The song by the Nashville band arrives with a new video showcasing the undeniable charisma of frontperson Oliver Pierce
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/new-translations-modern-lovers-song-video-1235612925/) — *Rolling Stone*
 
-### 3. Turnstile Enlist Elton John, Hayley Williams, Slayyyter for ‘Never Enough: Versions’ LP
+### 5. Turnstile Enlist Elton John, Hayley Williams, Slayyyter for ‘Never Enough: Versions’ LP
 
-[原文] "Reimagined" version of 2025 album, out August 28, also features contributions from Panda Bear, A.G. Cook, Blood Orange, Julien Baker, Faye Webster, and many more
+[原文] “Reimagined” version of 2025 album, out August 28, also features contributions from Panda Bear, A.G. Cook, Blood Orange, Julien Baker, Faye Webster, and many more
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/turnstile-elton-john-hayley-williams-never-enough-versions-1235612895/) — *Rolling Stone*
-
-### 4. The Game Takes Aim at Kendrick Lamar — and He Brought Drake With Him
-
-[原文] After months of simmering West Coast tension, the veteran MC makes his feelings about Kendrick clear on his new album, with a little help from his biggest rival
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/the-game-kendrick-drake-new-album-1235612820/) — *Rolling Stone*
-
-### 5. Hollis Brown Had a Nasty Breakup. They Reunite for New Song ‘Garage Days’
-
-[原文] After a 2023 fight between singer Mike Montali and guitarist Jonathan Bonilla, the two met to clear the air. "Just me and him sitting in a diner in Queens, yelling at each other," Montali says
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/hollis-brown-reunite-garage-days-song-1235612738/) — *Rolling Stone*
 
 ---
 
