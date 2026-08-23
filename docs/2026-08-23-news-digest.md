@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月23日** | 生成时间: 2026-08-23 09:37
+**2026年08月23日** | 生成时间: 2026-08-23 14:46
 
 ---
 
@@ -16,7 +16,7 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse
+### 1. Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war
 
 [原文] Canada's prime minister said he was "reluctantly" announcing retaliatory tariffs as he accused the US of starting a trade war.
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Harvard’s $699 startup bootcamp offers AI avatars of its instructors
+### 1. Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders
+
+[原文] Flipkart's quick-commerce venture is delivering 1.1 million to 1.2 million orders a day, nearly triple its November volume.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/) — *TechCrunch*
+
+### 2. Harvard’s $699 startup bootcamp offers AI avatars of its instructors
 
 [原文] In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/) — *TechCrunch*
 
-### 2. Will the DOJ’s investigation into a16z spook other VCs?
+### 3. Will the DOJ’s investigation into a16z spook other VCs?
 
 [原文] On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/) — *TechCrunch*
 
-### 3. Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research
+### 4. Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research
 
 [原文] Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/) — *TechCrunch*
 
-### 4. OpenAI says California should strengthen its AI safety bill
+### 5. OpenAI says California should strengthen its AI safety bill
 
 [原文] OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/) — *TechCrunch*
-
-### 5. Frontier AI labs still won’t say how they’d contain a rogue model
-
-[原文] A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially
-
-📎 [阅读原文](https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/) — *TechCrunch*
 
 ---
 
@@ -130,35 +130,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. JWST finds early galaxies may be 4 times more massive than thought
+### 1. Quitting alcohol may prime the brain for relapse
+
+[原文] Mice that developed compulsive drinking after alcohol abstinence showed more than double the activity in a brain region associated with stress and addiction. Because the signal appeared before they dr
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260822015148.htm) — *Science Daily*
+
+### 2. JWST finds early galaxies may be 4 times more massive than thought
 
 [原文] Astronomers using JWST have discovered that massive early galaxies contain far more small, faint stars than expected. That hidden population could make some of these galaxies three to four times more 
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260822015141.htm) — *Science Daily*
 
-### 2. Exercise may work better for keeping weight off than losing it
+### 3. Black holes keep tearing these stars apart, but they survive
+
+[原文] Astronomers have found stars that repeatedly skim past supermassive black holes, surviving each encounter while producing a new burst of light. In some systems, those flares mysteriously fade with eve
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260822015119.htm) — *Science Daily*
+
+### 4. Exercise may work better for keeping weight off than losing it
 
 [原文] Exercise may not be a powerful weight-loss tool on its own, but it appears to play a much bigger role in preventing lost weight from returning. By preserving muscle, supporting metabolism, improving f
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260821012240.htm) — *Science Daily*
 
-### 3. Peppermint oil lowers blood pressure in just 20 days
+### 5. Peppermint oil lowers blood pressure in just 20 days
 
 [原文] Peppermint oil may have an unexpected benefit for people with mildly high blood pressure. Adults who took a small dose twice daily for 20 days saw their systolic blood pressure fall by an average of 8
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260821012238.htm) — *Science Daily*
-
-### 4. This yeast supplement may boost cancer-fighting immunity
-
-[原文] A simple yeast-based food supplement may help restore the immune system’s ability to fight cancer, according to new research in mice. Scientists found that yeast beta-glucan reprogrammed early immune 
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260821012230.htm) — *Science Daily*
-
-### 5. This frozen fiber makes light and sound interact 1,000x more strongly
-
-[原文] Freezing the liquid core of an optical fiber produced an extreme environment where light and sound interact more than 1,000 times more strongly than in ordinary fibers. Researchers used the effect to 
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260821012228.htm) — *Science Daily*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. HBO Max Is Free Right Now For 7 Days With This Prime Video Promo
+### 1. ‘One Battle After Another’ and ‘Marty Supreme’ Take Top Honors at Location Managers Guild International Awards
+
+[原文] “One Battle After Another” and “Marty Supreme” took top honors at the Location Managers Guild International (LMGI) LMGI Awarda. The LGMI Awards were handed out on Saturday night and honor the use of f
+
+📎 [阅读原文](https://variety.com/2026/artisans/news/location-managers-guild-international-awards-2026-winners-1236840833/) — *Variety*
+
+### 2. HBO Max Is Free Right Now For 7 Days With This Prime Video Promo
 
 [原文] Despite HBO Max hiking prices again last fall, the streamer is hoping to win over some new customers, with a 7-day free trial through Prime Video, just in time for the buzzy premiere of &#8220;Lantern
 
 📎 [阅读原文](https://variety.com/2026/shopping/news/best-hbo-max-deal-offer-1235439129/) — *Variety*
 
-### 2. Dale Morris, Titan of Nashville Management Who Forged Superstar Careers for Kenny Chesney and Alabama, Dies at 89
+### 3. Dale Morris, Titan of Nashville Management Who Forged Superstar Careers for Kenny Chesney and Alabama, Dies at 89
 
 [原文] Dale Morris, one of the leading names in the ranks of Nashville music managers, who helped build up superstar careers for the group Alabama and then Kenny Chesney nearly from scratch, died Friday at 8
 
 📎 [阅读原文](https://variety.com/2026/music/obituaries-people-news/dale-morris-dead-manager-kenny-chesney-alabama-1236840866/) — *Variety*
 
-### 3. Rolly Romero vs. Teofimo Lopez Livestream: Where to Watch the Welterweight Pay-Per-View Match Online
+### 4. Rolly Romero vs. Teofimo Lopez Livestream: Where to Watch the Welterweight Pay-Per-View Match Online
 
 [原文] In an epic bout, Premier Boxing Champions travels to Nevada this weekend, as Las Vegas-native Rolando &#8220;Rolly&#8221; Romero (17-2-0) defends his WBA welterweight title against Brooklyn-born boxer
 
 📎 [阅读原文](https://variety.com/2026/shopping/news/how-to-watch-rolly-romero-vs-teofimo-lopez-ppv-boxing-live-online-1236838232/) — *Variety*
 
-### 4. Taylor Sheridan Accused of Stealing ‘Yellowstone’ From 2016 Pitch in Copyright Lawsuit
+### 5. Taylor Sheridan Accused of Stealing ‘Yellowstone’ From 2016 Pitch in Copyright Lawsuit
 
 [原文] Writer Lauren J. Salkin has accused Taylor Sheridan of stealing his marquee series “Yellowstone” from her 2016 pitch in a lawsuit filed on Friday. 101 Studios, Paramount and Elevate Entertainment are 
 
 📎 [阅读原文](https://variety.com/2026/tv/news/taylor-sheridan-accused-stealing-yellowstone-lawsuit-1236840854/) — *Variety*
-
-### 5. ‘Sentimental Value’ Sweeps Amanda Awards
-
-[原文] Joachim Trier’s Oscar winner “Sentimental Value” became this year’s biggest Amanda Awards winner, taking home eight statuettes, including the top prize for best Norwegian film.  Trier was also awarded
-
-📎 [阅读原文](https://variety.com/2026/awards/awards/sentimental-value-amanda-awards-one-battle-after-another-1236840778/) — *Variety*
 
 ---
 
