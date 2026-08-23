@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月23日** | 生成时间: 2026-08-23 14:46
+**2026年08月23日** | 生成时间: 2026-08-23 20:46
 
 ---
 
@@ -16,23 +16,23 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war
+### 1. Trump says Canada wants 'benefits' of being US state after trade talks collapse
 
-[原文] Canada's prime minister said he was "reluctantly" announcing retaliatory tariffs as he accused the US of starting a trade war.
+[原文] Canada's PM said he was "reluctantly" announcing retaliatory tariffs and accused the US of starting a trade war.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Carney faces crucial test after walking away from Trump's deal
+### 2. Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC
 
-[原文] The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.
+[原文] The sacked former defence minister has also called for elections to be held in Ukraine.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike
+### 3. Girl, 17, killed in Swedish sword attack, police say
 
-[原文] Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.
+[原文] Two boys aged 12 and 17 were also injured, while an 18-year-old suspect has been detained.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 4. Father leaves 7-year-old son alone on Mount Fuji to continue hike
 
@@ -40,11 +40,11 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Syria says Israeli strike near Damascus violation of international law
+### 5. The hotel booking mix-up that could free mushroom murderer
 
-[原文] The latest incident comes days after reports emerged Israel had struck a military airbase close to the Turkish border.
+[原文] A table tennis tournament and a throat lozenge could help Erin Patterson's lawyers overturn her convictions.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,17 +54,17 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Inside Coca-Cola’s secretive innovation labs: How the beverage giant wants to automate dirty soda and refreshers
+### 1. After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI
 
-[原文] From McDonald's to Wendy's, longtime Coke customers have been expanding their beverage offerings to boost their profit margins.
+[原文] United Airlines CEO Scott Kirby talked to CNBC in a wide-ranging interview about his proposed airline megadeals, AI and the future of the carrier.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/22/coca-cola-innovation-labs-dirty-sodas-refreshers.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/23/united-airlines-ceo-scott-kirby.html) — *CNBC*
 
-### 2. As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8
+### 2. Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill
 
-[原文] New 50% Trump administration tariffs on some Canadian exports went into place after the U.S. and Canada failed to reach a deal on Friday.
+[原文] Citigroup and Wells Fargo have room to buy a big regional bank as regulators have opened the door to megadeals. Five regional banks make sense as targets.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/23/wells-fargo-citigroup-deals-regional-banks.html) — *CNBC*
 
 ### 3. Trump reshuffled his portfolio in June, selling names like Meta and buying Berkshire Hathaway
 
@@ -72,17 +72,17 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/22/trump-reshuffled-his-portfolio-in-june-selling-names-like-meta-and-buying-berkshire-hathaway.html) — *CNBC*
 
-### 4. Paramount, California AG office reportedly plan to meet Monday to discuss settling WBD lawsuit
+### 4. Inside Coca-Cola’s secretive innovation labs: How the beverage giant wants to automate dirty soda and refreshers
 
-[原文] Paramount and the California A.G. office are set to meet Monday to discuss a settlement of the antitrust lawsuit over Paramount's Warner Bros. Discovery deal.
+[原文] From McDonald's to Wendy's, longtime Coke customers have been expanding their beverage offerings to boost their profit margins.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/22/paramount-california-ag-said-to-plan-meeting-on-settling-wbd-suit-.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/22/coca-cola-innovation-labs-dirty-sodas-refreshers.html) — *CNBC*
 
-### 5. Ahead of tough new U.S. sanctions, Iran criticizes 'extraterritorial sovereignty'
+### 5. As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8
 
-[原文] U.S. Treasury Secretary Scott Bessent told CNBC on Thursday that the proposed economic measures will likely negate the need for major U.S. military operations.
+[原文] New 50% Trump administration tariffs on some Canadian exports went into place after the U.S. and Canada failed to reach a deal on Friday.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/22/iran-criticizes-us-sanctions-extraterritorial-sovereignty.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html) — *CNBC*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Hull shock Man Utd with dream Premier League return
+### 1. Man City agree £86m deal for 18-year-old Bouaddi
 
-[原文] Watch highlights as Hull City make a dream start to their return to the Premier League, beating Manchester United 2-0 on the opening weekend at the MKM Stadium.
+[原文] Manchester City agree a deal in principle for 18-year-old Lille midfielder Ayyoub Bouaddi worth 100m euros (£86m).
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/clyl5ejxj2wo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/clyjy0e0pkzo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Brentford beat lacklustre Spurs in comfortable opening day win
+### 2. 'New season, new trim' - Haaland reveals buzzcut
 
-[原文] Tottenham Hotspur's Premier League season under Roberto De Zerbi gets off to a dismal start as they lose 3-0 to a dominant Brentford side at the Gtech Community Stadium.
+[原文] Manchester City striker Erling Haaland reveals his new buzz cut on social media.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cqx75yq28rwo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cr4941zkgevo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Late drama as Ipswich stun Sunderland
+### 3. Abuse from Liverpool fans hurts - Alexander-Arnold
 
-[原文] Ipswich Town beat Sunderland as Jack Clarke scores a 90th minute winner to open their account on their return to the Premier League.
+[原文] Trent Alexander-Arnold says he still receives abuse from Liverpool fans online after leaving Anfield for Real Madrid 14 months ago.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cvg0214evlmo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cqjxj2zz77ro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Leeds score late winner to silence Forest fans
+### 4. Lopez beats Romero then snubs Catterall fight
 
-[原文] Anton Stach scores in the 88th minute to give Leeds United a win in Oliver Glasner's first game in charge of Nottingham Forest in the Premier League.
+[原文] American Teofimo Lopez beats Rolando Romero in Las Vegas to claim the WBA welterweight title then seemingly snubs number one challenger Jack Catterall.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cwyr0n7vyrgo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/articles/c87n7rd30vro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Wasteful Palace punished by Everton in Sage's first game
+### 5. Mourinho urges Vinicius Jr to control emotions
 
-[原文] Everton beat Crystal Palace 2–0 to win their opening game of the Premier League season for the first time in five years, with goals from Kiernan Dewsbury‑Hall and Thierno.
+[原文] Jose Mourinho says Real Madrid's Brazil winger Vinicius Jr "needs to have great emotional control" when being bullied in games.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/c0m7dk4z82ro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c1414my6165o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘One Battle After Another’ and ‘Marty Supreme’ Take Top Honors at Location Managers Guild International Awards
+### 1. ‘Skintown’ Review: A Breezy, Loved-Up, Drugged-Up Guide to Getting Into Trouble in The Troubles
+
+[原文] Nostalgia, like ecstasy, is a hell of a drug and Kieron J. Walsh&#8217;s warm-hearted, hot-headed &#8220;Skintown&#8221; is buzzing on both. A more polite brother to the &#8220;Kneecap&#8221; boys and
+
+📎 [阅读原文](https://variety.com/2026/film/reviews/skintown-review-1236839532/) — *Variety*
+
+### 2. ‘One Piece’ Season 3 Casts Its Koza, Toto, Pell and Chaka
+
+[原文] Netflix has added four to the cast of “One Piece&#8221; Season 3, casting the roles of Koza, Toto, Pell and Chaka.  Emilio Sakraya (“Rheingold”) will play Koza, Omid Abtahi (The Mandalorian”) will pla
+
+📎 [阅读原文](https://variety.com/2026/tv/news/one-piece-season-3-cast-koza-toto-pell-chaka-1236840397/) — *Variety*
+
+### 3. Venice-Bound ‘Meteorite,’ Debut Feature From Colombia’s Sebastián Múnera, Acquired by MoreThan Films (EXCLUSIVE)
+
+[原文] MoreThan Films has acquired Colombian filmmaker Sebastián Múnera&#8217;s film &#8220;Meteorite,&#8221; which will have its world premiere in Venice Critics&#8217; Week (Sept. 2-12). The film follows T
+
+📎 [阅读原文](https://variety.com/2026/film/global/venice-meteorite-sebastian-munera-morethan-films-1236840956/) — *Variety*
+
+### 4. Upendra Joins Cast as Teja Sajja, Shanaya Kapoor, Suparn S. Varma’s Sequel Titled ‘Zombie Reddy Nxt Lvl’ (EXCLUSIVE)
+
+[原文] Kannada cinema superstar Upendra has joined the cast of &#8220;Zombie Reddy Nxt Lvl,&#8221; the sequel to the hit &#8220;Zombie Reddy,&#8221; in a powerhouse role, India&#8217;s People Media Factory h
+
+📎 [阅读原文](https://variety.com/2026/film/news/upendra-teja-sajja-shanaya-kapoor-zombie-reddy-nxt-lvl-1236840852/) — *Variety*
+
+### 5. ‘One Battle After Another’ and ‘Marty Supreme’ Take Top Honors at Location Managers Guild International Awards
 
 [原文] “One Battle After Another” and “Marty Supreme” took top honors at the Location Managers Guild International (LMGI) LMGI Awarda. The LGMI Awards were handed out on Saturday night and honor the use of f
 
 📎 [阅读原文](https://variety.com/2026/artisans/news/location-managers-guild-international-awards-2026-winners-1236840833/) — *Variety*
-
-### 2. HBO Max Is Free Right Now For 7 Days With This Prime Video Promo
-
-[原文] Despite HBO Max hiking prices again last fall, the streamer is hoping to win over some new customers, with a 7-day free trial through Prime Video, just in time for the buzzy premiere of &#8220;Lantern
-
-📎 [阅读原文](https://variety.com/2026/shopping/news/best-hbo-max-deal-offer-1235439129/) — *Variety*
-
-### 3. Dale Morris, Titan of Nashville Management Who Forged Superstar Careers for Kenny Chesney and Alabama, Dies at 89
-
-[原文] Dale Morris, one of the leading names in the ranks of Nashville music managers, who helped build up superstar careers for the group Alabama and then Kenny Chesney nearly from scratch, died Friday at 8
-
-📎 [阅读原文](https://variety.com/2026/music/obituaries-people-news/dale-morris-dead-manager-kenny-chesney-alabama-1236840866/) — *Variety*
-
-### 4. Rolly Romero vs. Teofimo Lopez Livestream: Where to Watch the Welterweight Pay-Per-View Match Online
-
-[原文] In an epic bout, Premier Boxing Champions travels to Nevada this weekend, as Las Vegas-native Rolando &#8220;Rolly&#8221; Romero (17-2-0) defends his WBA welterweight title against Brooklyn-born boxer
-
-📎 [阅读原文](https://variety.com/2026/shopping/news/how-to-watch-rolly-romero-vs-teofimo-lopez-ppv-boxing-live-online-1236838232/) — *Variety*
-
-### 5. Taylor Sheridan Accused of Stealing ‘Yellowstone’ From 2016 Pitch in Copyright Lawsuit
-
-[原文] Writer Lauren J. Salkin has accused Taylor Sheridan of stealing his marquee series “Yellowstone” from her 2016 pitch in a lawsuit filed on Friday. 101 Studios, Paramount and Elevate Entertainment are 
-
-📎 [阅读原文](https://variety.com/2026/tv/news/taylor-sheridan-accused-stealing-yellowstone-lawsuit-1236840854/) — *Variety*
 
 ---
 
@@ -363,35 +363,35 @@ The post Summer Scores: Short-Money T
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. A Global Gathering to Tackle the Planet’s Soil Crisis Is Underway in Mongolia
+### 1. Burning Questions Confront Wildland Firefighters in Maine and Across New England
+
+[原文] Wildfires in New England rarely make national news. The spotlight is more often on the catastrophic fires of Western states, but the Northeast’s fire season has been quietly heating up. In 2025, sever
+
+📎 [阅读原文](https://insideclimatenews.org/news/23082026/new-england-wildland-firefighters-impacted-by-federal-proposals/) — *Inside Climate News*
+
+### 2. Boulder, Colorado, and Big Oil Prepare for High-Stakes Clash in Supreme Court
+
+[原文] Local and state governments across the United States have turned to state courts over the past nine years, filing lawsuits reminiscent of those against the tobacco industry in the 1990s against major 
+
+📎 [阅读原文](https://insideclimatenews.org/news/23082026/suncor-v-boulder-supreme-court-climate-case/) — *Inside Climate News*
+
+### 3. A Global Gathering to Tackle the Planet’s Soil Crisis Is Underway in Mongolia
 
 [原文] In Ulaanbaatar, Mongolia, policy makers, scientists and global negotiators are gathering to convey an urgent message: The world’s rangelands, which make up about half of Earth’s land surface, are in t
 
 📎 [阅读原文](https://insideclimatenews.org/news/22082026/convention-to-combat-desertification-highlights-soil-crisis/) — *Inside Climate News*
 
-### 2. Secret Plan to Dump Slaughterhouse Waste Blindsided Residents of Iowa’s Loess Hills
+### 4. Secret Plan to Dump Slaughterhouse Waste Blindsided Residents of Iowa’s Loess Hills
 
 [原文] In a matter of days, a dirt pit the size of five football fields appeared next to the weathered headstones of Center Cemetery in Castana, Iowa. The excavation site sits on the edge of the Loess Hills,
 
 📎 [阅读原文](https://insideclimatenews.org/news/22082026/iowa-loess-hills-slaughterhouse-waste/) — *Inside Climate News*
 
-### 3. Texas Oil and Gas Regulators Will No Longer Have to Accept Public Comment at Open Meetings
+### 5. Texas Oil and Gas Regulators Will No Longer Have to Accept Public Comment at Open Meetings
 
 [原文] The three elected officials who regulate the oil and gas industry in Texas hold an open meeting each month in Austin to vote on matters from pipeline violations to permit renewals. Members of the publ
 
 📎 [阅读原文](https://insideclimatenews.org/news/21082026/texas-railroad-commission-new-participation-policy/) — *Inside Climate News*
-
-### 4. Lawsuit Seeks to Block Closure of Top Federal Climate Research Center
-
-[原文] One of the nation’s largest environmental groups is challenging the Trump administration’s closure of a leading climate institute, filing a lawsuit Thursday in federal court saying the closure is unla
-
-📎 [阅读原文](https://insideclimatenews.org/news/21082026/lawsuit-to-block-climate-research-center-closure/) — *Inside Climate News*
-
-### 5. Bomb Fishing Is Reducing Coral Reefs to ‘Rubble’
-
-[原文] Nicknamed the “Amazon of the Seas,” the Coral Triangle is the world’s most biologically diverse marine ecosystem. Sink below the surface and you’ll encounter the sound of a vibrant symphony of snappin
-
-📎 [阅读原文](https://insideclimatenews.org/news/21082026/bomb-fishing-destroying-coral-reefs/) — *Inside Climate News*
 
 ---
 
