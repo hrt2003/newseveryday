@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月23日** | 生成时间: 2026-08-23 02:35
+**2026年08月23日** | 生成时间: 2026-08-23 09:37
 
 ---
 
@@ -28,23 +28,23 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. TikTok to pay $400m to US in one of largest child privacy settlements
-
-[原文] The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected "vast amounts of data" on millions of users under the age of 13.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Fourteen killed in strike on Myanmar monastery
-
-[原文] A rescue worker said the site had been struck twice as civilians gathered for a meditation retreat.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike
+### 3. Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike
 
 [原文] Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. Father leaves 7-year-old son alone on Mount Fuji to continue hike
+
+[原文] The man had taken his two boys on the trip but is said to have left one behind when he got tired.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Syria says Israeli strike near Damascus violation of international law
+
+[原文] The latest incident comes days after reports emerged Israel had struck a military airbase close to the Turkish border.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8
-
-[原文] New 50% Trump administration tariffs on some Canadian exports went into place after the U.S. and Canada failed to reach a deal on Friday.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html) — *CNBC*
-
-### 2. Inside Coca-Cola’s secretive innovation labs: How the beverage giant wants to automate dirty soda and refreshers
+### 1. Inside Coca-Cola’s secretive innovation labs: How the beverage giant wants to automate dirty soda and refreshers
 
 [原文] From McDonald's to Wendy's, longtime Coke customers have been expanding their beverage offerings to boost their profit margins.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/22/coca-cola-innovation-labs-dirty-sodas-refreshers.html) — *CNBC*
 
+### 2. As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8
+
+[原文] New 50% Trump administration tariffs on some Canadian exports went into place after the U.S. and Canada failed to reach a deal on Friday.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html) — *CNBC*
+
 ### 3. Trump reshuffled his portfolio in June, selling names like Meta and buying Berkshire Hathaway
 
-[原文] President Donald Trump disclosed just over 1,000 financial transitions in the month of June in what appears to be broad reshuffling of his portfolio.
+[原文] President Donald Trump disclosed just over 1,000 financial transactions in the month of June in what appears to be broad reshuffling of his portfolio.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/22/trump-reshuffled-his-portfolio-in-june-selling-names-like-meta-and-buying-berkshire-hathaway.html) — *CNBC*
 
-### 4. Ahead of tough new U.S. sanctions, Iran criticizes 'extraterritorial sovereignty'
+### 4. Paramount, California AG office reportedly plan to meet Monday to discuss settling WBD lawsuit
+
+[原文] Paramount and the California A.G. office are set to meet Monday to discuss a settlement of the antitrust lawsuit over Paramount's Warner Bros. Discovery deal.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/22/paramount-california-ag-said-to-plan-meeting-on-settling-wbd-suit-.html) — *CNBC*
+
+### 5. Ahead of tough new U.S. sanctions, Iran criticizes 'extraterritorial sovereignty'
 
 [原文] U.S. Treasury Secretary Scott Bessent told CNBC on Thursday that the proposed economic measures will likely negate the need for major U.S. military operations.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/22/iran-criticizes-us-sanctions-extraterritorial-sovereignty.html) — *CNBC*
-
-### 5. Meta is the latest tech giant to land in her courtroom. Meet Judge Yvonne Gonzalez Rogers
-
-[原文] Judge Yvonne Gonzalez Rogers has presided over a series of landmark tech trials and is now overseeing a case that could have a huge impact on Meta's future.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/22/meet-yvonne-gonzalez-rogers-judge-taking-on-meta.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. OpenAI says California should strengthen its AI safety bill
+### 1. Harvard’s $699 startup bootcamp offers AI avatars of its instructors
+
+[原文] In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/) — *TechCrunch*
+
+### 2. Will the DOJ’s investigation into a16z spook other VCs?
+
+[原文] On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/) — *TechCrunch*
+
+### 3. Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research
+
+[原文] Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/) — *TechCrunch*
+
+### 4. OpenAI says California should strengthen its AI safety bill
 
 [原文] OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/) — *TechCrunch*
 
-### 2. Frontier AI labs still won’t say how they’d contain a rogue model
+### 5. Frontier AI labs still won’t say how they’d contain a rogue model
 
 [原文] A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially
 
 📎 [阅读原文](https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/) — *TechCrunch*
-
-### 3. US battery startups have found a lifeline in defense
-
-[原文] U.S. battery startups pulled in $500 million in grants from the Department of Energy, throwing a lifeline to an industry that was on the ropes after EV incentives were slashed.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/22/us-battery-startups-have-found-a-lifeline-in-defense/) — *TechCrunch*
-
-### 4. Pixel 11 Pro XL review: Snappier cameras can’t hide an iterative upgrade
-
-[原文] Google’s Pixel 11 Pro XL brings snappier cameras and genuinely useful AI features like Rambler, but its iterative upgrades may not be enough to tempt recent Pixel owners.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/22/pixel-11-pro-xl-review-snappier-cameras-cant-hide-an-iterative-upgrade/) — *TechCrunch*
-
-### 5. Michael Polansky is training an AI model on skin that’s still alive
-
-[原文] Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue alive
-
-📎 [阅读原文](https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Norris expects challenge after back-to-back poles
+### 1. Hull shock Man Utd with dream Premier League return
 
-[原文] World champion Lando Norris says he expects other teams to challenge for victory after securing pole position for Sunday's final Dutch Grand Prix.
+[原文] Watch highlights as Hull City make a dream start to their return to the Premier League, beating Manchester United 2-0 on the opening weekend at the MKM Stadium.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/cy4548x20y5o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/clyl5ejxj2wo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Tonali nightmare as Sangare stars - Brentford v Spurs player ratings
+### 2. Brentford beat lacklustre Spurs in comfortable opening day win
 
-[原文] How Brentford and Tottenham's players rated following their Premier League match.
+[原文] Tottenham Hotspur's Premier League season under Roberto De Zerbi gets off to a dismal start as they lose 3-0 to a dominant Brentford side at the Gtech Community Stadium.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cp878q13v72o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cqx75yq28rwo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Man Utd 'didn't look ready' - but hurting Carrick remains calm
+### 3. Late drama as Ipswich stun Sunderland
 
-[原文] Manchester United boss Michael Carrick is refusing to panic despite shock loss at newly promoted Hull City.
+[原文] Ipswich Town beat Sunderland as Jack Clarke scores a 90th minute winner to open their account on their return to the Premier League.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c87n78p070do?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cvg0214evlmo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Tarling third in Vuelta opener after brother's death
+### 4. Leeds score late winner to silence Forest fans
 
-[原文] Britain's Josh Tarling finishes third in the opening stage of the Vuelta a Espana just eight days after his brother Fin lost his life in a crash.
+[原文] Anton Stach scores in the 88th minute to give Leeds United a win in Oliver Glasner's first game in charge of Nottingham Forest in the Premier League.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cycling/articles/cq6d6y0e500o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cwyr0n7vyrgo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Ex-West Brom midfielder Castro, 25, dies during friendly
+### 5. Wasteful Palace punished by Everton in Sage's first game
 
-[原文] Former West Brom midfielder Quevin Castro dies at the age of 25 after collapsing during a match in Portugal.
+[原文] Everton beat Crystal Palace 2–0 to win their opening game of the Premier League season for the first time in five years, with goals from Kiernan Dewsbury‑Hall and Thierno.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c8dnd416pzyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/c0m7dk4z82ro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Why Do We Love Spider-Man So Much?
+### 1. HBO Max Is Free Right Now For 7 Days With This Prime Video Promo
 
-[原文] Why does everyone love Spider-Man so much? When “Spider-Man: No Way Home” came out at the end of 2021, it made an insane amount of money ($814 million in the U.S. alone), blasting away any vestige of 
+[原文] Despite HBO Max hiking prices again last fall, the streamer is hoping to win over some new customers, with a 7-day free trial through Prime Video, just in time for the buzzy premiere of &#8220;Lantern
 
-📎 [阅读原文](https://variety.com/2026/film/columns/why-do-we-love-spider-man-so-much-tom-holland-1236840784/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/shopping/news/best-hbo-max-deal-offer-1235439129/) — *Variety*
 
-### 2. ‘National Treasure 3’ Is ‘Happening,’ Says Franchise Director Jon Turteltaub
+### 2. Dale Morris, Titan of Nashville Management Who Forged Superstar Careers for Kenny Chesney and Alabama, Dies at 89
 
-[原文] “National Treasure” director Jon Turteltaub says a third film is happening. “I have not said anything before this, but you deserve to have the scoop,” Turteltaub said at a live taping of the “National
+[原文] Dale Morris, one of the leading names in the ranks of Nashville music managers, who helped build up superstar careers for the group Alabama and then Kenny Chesney nearly from scratch, died Friday at 8
 
-📎 [阅读原文](https://variety.com/2026/film/news/national-treasure-3-nicolas-cage-jon-turteltaub-1236840826/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/obituaries-people-news/dale-morris-dead-manager-kenny-chesney-alabama-1236840866/) — *Variety*
 
-### 3. How ‘Abbott Elementary’ Pulled Off Its Big Phillies Game Episode
+### 3. Rolly Romero vs. Teofimo Lopez Livestream: Where to Watch the Welterweight Pay-Per-View Match Online
 
-[原文] They say that every trip to watch a ballgame is a different experience: a chance to see stolen bases and home runs; antics from the bleachers that end up on kiss cams and dance cams; fly balls soaring
+[原文] In an epic bout, Premier Boxing Champions travels to Nevada this weekend, as Las Vegas-native Rolando &#8220;Rolly&#8221; Romero (17-2-0) defends his WBA welterweight title against Brooklyn-born boxer
 
-📎 [阅读原文](https://variety.com/2026/artisans/focus/abbott-elementary-phillies-game-episode-1236840283/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/shopping/news/how-to-watch-rolly-romero-vs-teofimo-lopez-ppv-boxing-live-online-1236838232/) — *Variety*
 
-### 4. ‘The Magic Faraway Tree’ Review: Wholesome, Harmless Family Movie Aims to Give Enid Blyton the Paddington Treatment
+### 4. Taylor Sheridan Accused of Stealing ‘Yellowstone’ From 2016 Pitch in Copyright Lawsuit
 
-[原文] If the children&#8217;s books of Enid Blyton have fallen out of fashion in classrooms and libraries — largely due to the racism and regressive gender politics throughout the British author&#8217;s oeu
+[原文] Writer Lauren J. Salkin has accused Taylor Sheridan of stealing his marquee series “Yellowstone” from her 2016 pitch in a lawsuit filed on Friday. 101 Studios, Paramount and Elevate Entertainment are 
 
-📎 [阅读原文](https://variety.com/2026/film/news/the-magic-faraway-tree-review-1236840728/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/taylor-sheridan-accused-stealing-yellowstone-lawsuit-1236840854/) — *Variety*
 
-### 5. Box Office: ‘Insidious: Out of the Further’ Takes First Place on Friday With $10.6 Million, But ‘Spider-Man: Brand New Day’ Will Win the Weekend
+### 5. ‘Sentimental Value’ Sweeps Amanda Awards
 
-[原文] “Insidious: Out of the Further” leapfrogged “Spider-Man: Brand New Day” and took the No. 1 spot at the domestic box office on Friday, but Marvel’s webslinger is still poised to win the weekend. “Out o
+[原文] Joachim Trier’s Oscar winner “Sentimental Value” became this year’s biggest Amanda Awards winner, taking home eight statuettes, including the top prize for best Norwegian film.  Trier was also awarded
 
-📎 [阅读原文](https://variety.com/2026/film/box-office/box-office-insidious-out-of-the-further-spider-man-1236840803/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/awards/awards/sentimental-value-amanda-awards-one-battle-after-another-1236840778/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. How to Watch the Insidious Movies in Order
+### 1. GTA 6 Leaker Releases More Gameplay Videos Despite Rockstar Owner Take-Two's Microsoft and Discord Subpoenas
+
+[原文] The alleged GTA 6 leaker has released two further gameplay videos despite Rockstar owner Take-Two's subpoenas requesting identifying information from Microsoft and Discord.
+
+📎 [阅读原文](https://www.ign.com/articles/gta-6-leaker-releases-more-gameplay-videos-despite-rockstar-owner-take-twos-microsoft-and-discord-subpoenas) — *IGN*
+
+### 2. The Best PC Gaming Collaboration Collections to Check Out Now
+
+[原文] If you're a PC gamer with a passion for cool collabs, you won't want to overlook these killer crossovers.
+
+📎 [阅读原文](https://www.ign.com/articles/best-pc-gaming-collaborations) — *IGN*
+
+### 3. The Best Deals Today: Nintendo Switch 2, LEGO Tropical Aquarium, Final Fantasy VII Rebirth, and More
+
+暂无摘要。
+
+📎 [阅读原文](https://www.ign.com/articles/best-deals-for-august-22-2026) — *IGN*
+
+### 4. How to Watch the Insidious Movies in Order
 
 [原文] With a new sequel out in theaters this weekend, here's a look back at how all of the Insidious movies fit together in timeline order.
 
 📎 [阅读原文](https://www.ign.com/articles/insidious-movies-in-order) — *IGN*
 
-### 2. IGN's Top Reviewed Movies of 2026 So Far
+### 5. IGN's Top Reviewed Movies of 2026 So Far
 
 [原文] IGN has already reviewed quite a few movies in 2026, but only one film has earned a perfect 10 out of 10 (and it's not even out yet!).
 
 📎 [阅读原文](https://www.ign.com/articles/best-reviewed-movies-of-2026) — *IGN*
-
-### 3. Metal Gear Solid 4: The Flawed Masterpiece Kojima Didn't Want to Make
-
-[原文] With Metal Gear Solid 4 finally arriving on modern consoles thanks to Master Collection Vol. 2, we take a look back at the game's legacy. Was it really just a big cutscene, or is it Kojima's masterpie
-
-📎 [阅读原文](https://www.ign.com/articles/metal-gear-solid-4-the-flawed-masterpiece-kojima-didnt-want-to-make) — *IGN*
-
-### 4. Ultra Graphics Settings Are a Scam: Why High Is Good Enough, if Not Better, for Most Players
-
-[原文] Most games don’t actually need to be played at Ultra settings to look good. They don’t even need it to look great. To prove it, I turned down the settings in a bunch of great-looking games to see how 
-
-📎 [阅读原文](https://www.ign.com/articles/ultra-graphics-settings-are-a-scam-why-high-is-good-enough-if-not-better-for-most-players) — *IGN*
-
-### 5. Sangster Directs Hammer Review
-
-[原文] Sangster Directs Hammer review: Severin Films focuses on the considerable contribution of writer/director Jimmy Sangster (and actor Ralph Bates) to Hammer horror film history.
-
-📎 [阅读原文](https://www.ign.com/articles/sangster-directs-hammer-review) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Hot Album Drops Tied to Fatal Crash Rate Increases: Study
+### 1. This Drift Team’s Website Is What the Internet Should Look Like
+
+[原文] This self-consciously retro site is proof that the Internet really did peak around 2004.
+The post This Drift Team&#8217;s Website Is What the Internet Should Look Like appeared first on The Drive.
+
+📎 [阅读原文](https://www.thedrive.com/news/this-drift-teams-website-is-what-the-internet-should-look-like) — *The Drive*
+
+### 2. Hot Album Drops Tied to Fatal Crash Rate Increases: Study
 
 [原文] Between 2017 and 2022, the number of fatal crashes in the U.S. increased approximately 15% on major album release dates, according to the study.
 The post Hot Album Drops Tied to Fatal Crash Rate Incre
 
 📎 [阅读原文](https://www.thedrive.com/news/hot-album-drops-tied-to-fatal-crash-rate-increases-study) — *The Drive*
 
-### 2. Own a ‘Mad Max’ Movie Car Extra by Out-Bidding Everyone for This Ratty 1948 Buggy
+### 3. Own a ‘Mad Max’ Movie Car Extra by Out-Bidding Everyone for This Ratty 1948 Buggy
 
 [原文] It was only an extra in 2015's "Fury Road," but it's got that sweet post-apocalyptic look.
 The post Own a &#8216;Mad Max&#8217; Movie Car Extra by Out-Bidding Everyone for This Ratty 1948 Buggy appear
 
 📎 [阅读原文](https://www.thedrive.com/news/own-a-mad-max-movie-car-extra-by-out-bidding-everyone-for-this-ratty-1948-buggy) — *The Drive*
 
-### 3. Building Your Own Electric Honda ATV Is Quite the DIY Project
+### 4. Building Your Own Electric Honda ATV Is Quite the DIY Project
 
 [原文] There's plenty of off-the-shelf parts available, but making them fit required plenty of work.
 The post Building Your Own Electric Honda ATV Is Quite the DIY Project appeared first on The Drive.
 
 📎 [阅读原文](https://www.thedrive.com/news/building-your-own-electric-honda-atv-is-quite-the-diy-project) — *The Drive*
 
-### 4. Summer Scores: Short-Money Truck Mods That Punch Above Their Price
+### 5. Summer Scores: Short-Money Truck Mods That Punch Above Their Price
 
 [原文] We've done some serious bargain-hunting and wrangled a bunch of discount codes to get you great deals on truck upgrades that are affordable, but still meaningful.
 The post Summer Scores: Short-Money T
 
 📎 [阅读原文](https://www.thedrive.com/news/summer-scores-short-money-truck-mods-that-punch-above-their-price) — *The Drive*
-
-### 5. Toyota Knows the GR GT ‘Makes No Financial Sense.’ But Akio Promised No Boring Cars
-
-[原文] A Toyota exec gets candid about the finances behind the brand's new halo car, and why gentleman drivers are crucial for its success.
-The post Toyota Knows the GR GT ‘Makes No Financial Sense.’ But Aki
-
-📎 [阅读原文](https://www.thedrive.com/news/toyota-knows-the-gr-gt-makes-no-financial-sense-but-akio-promised-no-boring-cars) — *The Drive*
 
 ---
 
@@ -528,7 +528,6 @@ The post Toyota Knows the GR GT ‘Makes No Financial Sense.’ But Aki
 ## ⚠️ 今日故障源
 
 - **🚗 汽车**: Autocar
-- **📚 教育**: Campus Technology
 
 ---
 
