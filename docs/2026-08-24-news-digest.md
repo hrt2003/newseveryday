@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月24日** | 生成时间: 2026-08-24 15:04
+**2026年08月24日** | 生成时间: 2026-08-24 20:56
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Divorce, smartphones and control - BBC sees how Taliban run Afghanistan
+### 1. Russia's second-biggest online retailer targeted in Ukrainian strikes
 
-[原文] Five years after the Taliban’s return, the BBC follows senior figures as the group reshapes the country.
+[原文] Ozon says its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Trump says Canada wants 'benefits' of being US state after trade talks collapse
+### 2. Iran faces 'greatest financial offensive ever', says US treasury secretary
 
-[原文] Canada's PM said he was "reluctantly" announcing retaliatory tariffs and accused the US of starting a trade war.
+[原文] Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Shein aims for almost $27bn valuation in stock market debut
+### 3. King of Norway's health has worsened, palace says
 
-[原文] The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September.
+[原文] Norway's King Harald remains in hospital receiving antibiotics for a bloodstream bacterial infection.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. China probes use of formaldehyde to keep cabbages fresh
+### 4. Nearly three million Teslas recalled in China over hidden door handles
 
-[原文] Using the carcinogen to preserve food is prohibited in China, the world's largest producer of cabbages.
+[原文] Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy9ze48l2yeo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Ex-cricket captains urge 'proper medical care' for Imran Khan
+### 5. Access to Zambian courts prevented as election petition deadline looms
 
-[原文] The former skippers say it is "basic decency" for Pakistan to comply with a court-ordered medical assessment.
+[原文] Preparations for President Hakainde Hichilema's second inauguration appear to be continuing.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. U.S. to unveil 'greatest financial offensive' against Iran as Tehran threatens ship seizures
+### 1. Bessent could tap near $1 trillion Treasury General Account to fund bond buybacks, sources said
 
-[原文] The escalation came as both sides have missed a 60-day ceasefire window to reach a deal, closing off the formal truce mechanism to end the six-month war.
+[原文] Using the TGA would provide the Treasury with considerable firepower to influence long-term bond yields.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/24/us-iran-war-trump-hormuz-bessent-economic-sanctions-.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/24/bessent-1-trillion-treasury-general-account-bond-buybacks.html) — *CNBC*
 
-### 2. Oil prices fall as investors await 'toughest' U.S. sanctions on Iran
+### 2. U.S. Trade Rep Greer blames Canada for failed tariff talks: 'They wanted more'
 
-[原文] Oil prices fell Monday as investors awaited details of what Washington has billed as its toughest-ever sanctions campaign against Iran.
+[原文] Canadian negotiators left Washington Friday without a deal to prevent President Donald Trump from enacting new 50% tariffs on about $20 billion worth of goods.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/24/oil-price-today-wti-brent-us-sanctions-iran.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/24/trump-canada-trade-tariffs-greer.html) — *CNBC*
 
-### 3. Alibaba plunges after announcing $10.2 billion share placement to fund AI push
+### 3. Trump Media CEO defends selling faster access to president's Truth Social posts, says more have signed up
 
-[原文] Alibaba shares plunged 10% after the tech giant priced a $10.2 billion share placement to fund its growing AI investments.
+[原文] Trump Media interim CEO Kevin McGurn defended his company offering faster access to President Donald Trump's Truth Social posts.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/24/trump-media-ceo-truth-api.html) — *CNBC*
 
-### 4. Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill
+### 4. Santoli: Why all the fuss about bond yields is happening now
 
-[原文] Citigroup and Wells Fargo have room to buy a big regional bank as regulators have opened the door to megadeals. Five regional banks make sense as targets.
+[原文] The textbooks say the cycle high in real yields should act as a restraint on economic growth and equity valuations.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/23/wells-fargo-citigroup-deals-regional-banks.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/24/why-all-the-fuss-about-bond-yields-is-happening-now.html) — *CNBC*
 
-### 5. Democratic House leader Jeffries meets with Jared Kushner as midterms loom
+### 5. 'They asked too much': Canadian dollar slides as Ottawa and Washington head for all-out trade war
 
-[原文] Democrats are currently favored to win a majority in the House of Representatives after November's elections.
+[原文] "As a smaller, more open economy, Canada has more to lose from this," ING strategists said Monday.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/23/democratic-leader-jeffries-meets-with-jared-kushner-as-midterms-loom.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/24/canada-us-trade-war-deal.html) — *CNBC*
 
 ---
 
@@ -168,11 +168,11 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Relief for Iraola but Liverpool have work to do after snatching draw at Newcastle
+### 1. Alonso 'always thinking' but Arbeloa becoming boss 'a surprise' - Benitez
 
-[原文] Dominik Szoboszlai's injury-time penalty rescues a point at the start of the Andoni Iraola era - but Liverpool need to improve after below-par display.
+[原文] Former Liverpool manager Rafael Benitez on his former players Xabi Alonso and Alvaro Arbeloa who face each other as managers on Monday when Fulham host Chelsea.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cdrvr73egnlo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ckge725zy1zo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ### 2. What will it take to stop the England hangovers?
 
@@ -180,23 +180,23 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/clyey486g4eo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Norris and McLaren 'don't have car' to fight for title despite Dutch GP win
+### 3. Boks drop Feinberg-Mngomezulu to bench for All Blacks rematch
 
-[原文] Lando Norris says he and McLaren "don't have the car I need to fight for a championship", despite a second consecutive win of the season at the Dutch Grand Prix.
+[原文] Sacha Feinberg-Mngomezulu pays for an indifferent showing in South Africa's series opener against New Zealand, as the fly-half drops to the Springbok bench.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/c1e1e56q4w5o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-union/articles/cg7k90y8j9no?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Uefa chief Ceferin rules out Fifa presidency bid
+### 4. Fans suffer firework burns and eye injuries in Eredivisie
 
-[原文] Uefa president Aleksander Ceferin rules himself out of the running to replace Gianni Infantino, but expects a candidate to challenge the Fifa president's leadership in March.
+[原文] Dutch side SC Cambuur says fans were left with "burns, hearing damage and eye injuries"  after Feyenoord supporters threw fireworks during Sunday's Eredivisie match.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cp878rp71v2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cr50n2d4rj0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Maradona's 'Hand of God' ball sells for £2.5m
+### 5. DeChambeau proud of what LIV has achieved
 
-[原文] The football with which Diego Maradona scored his famous 'hand of God' goal in the 1986 World Cup quarter-final victory over England is sold at auction.
+[原文] Bryson DeChambeau says he is "proud" of what LIV Golf has achieved with the breakaway league facing questions about its future following the final event of the season in Indianapolis.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/cx2z9yl1gdno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Deauville American Film Festival Reveals Industry Lineup
+### 1. ‘EastEnders’ Puts Out Casting Call for Character Named Meghan After Duchess’ U.K. Return: ‘Confident, Gorgeous and Ready to Cause Chaos’
 
-[原文] The Deauville American Film Festival has revealed the lineup for the industry section of its 2026 edition. The Deauville Industry Days sidebar, taking place over two days at the festival being held at
+[原文] Reports of Meghan Markle’s return to acting in the U.K. prompted numerous quips and memes over the weekend that the Duchess of Sussex was planning to make an appearance on long-running BBC soap “EastE
 
-📎 [阅读原文](https://variety.com/2026/film/global/deauville-american-film-festival-industry-section-1236841342/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/global/eastenders-casting-call-meghan-duchess-1236841460/) — *Variety*
 
-### 2. ‘Game of Thrones’ Actor Kristofer Hivju Turns to Rom-Com with ‘True Love’ by ‘Little Did I Know’’s Martina Haag (EXCLUSIVE)
+### 2. Toronto Midnight Madness Title ‘Vintage Violence,’ Starring Cole Sprouse and Kiko Mizuhara, Boarded by Best Friend Forever (EXCLUSIVE)
 
-[原文] Norwegian star actor Kristofer Hivju (“Game of Thrones,” “Red One”, “Beck”) will play opposite Friday Hallgren (from Oscar-nominated “As It Is in Heaven”) in the upcoming Swedish-Croatian rom-com “Tru
+[原文] Best Friend Forever has boarded international sales on Eugene Kotlyarenko’s &#8220;Vintage Violence,&#8221; starring Cole Sprouse (&#8220;Riverdale&#8221;) and Kiko Mizuhara, ahead of the film’s world
 
-📎 [阅读原文](https://variety.com/2026/film/global/kristofer-hivju-frida-hallgren-true-love-sf-studios-1236840991/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/toronto-midnight-madness-vintage-violence-best-friend-forever-1236841445/) — *Variety*
 
-### 3. Erik Poppe Talks Haugesund Opener ‘Beloved,’ Written by Nobel Prize Winner Jon Fosse: ‘People Long for Something Honest and Truthful’
+### 3. Vietnamese Found-Footage Horror Hit ‘Lau Chu Hoa: The Deadliest Mansion’ Heads to North American Theaters (EXCLUSIVE)
 
-[原文] In “Beloved,” opening the Norwegian International Film Festival Haugesund, Erik Poppe takes on a script by Nobel Prize winner Jon Fosse. “It’s a project that has been on my desk for many, many years. 
+[原文] Vietnamese found-footage horror film &#8220;Lầu Chú Hoả: The Deadliest Mansion&#8221; is opening in North American theaters on Sept. 4, with Mockingbird Pictures placing the title across AMC, Regal an
 
-📎 [阅读原文](https://variety.com/2026/film/global/erik-poppe-haugesund-opener-beloved-nobel-prize-jon-fosse-1236841030/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/lau-chu-hoa-deadliest-mansion-north-america-release-1236841428/) — *Variety*
 
-### 4. Korea Box Office: ‘The Odyssey’ Outmuscles ‘Spider-Man: Brand New Day’ to Hold Top Spot
+### 4. Brad Pitt’s ‘Heart of the Beast’ Added to San Sebastián Lineup
 
-[原文] &#8220;The Odyssey&#8221; maintained its commanding position atop the South Korea box office during the weekend of Aug. 21–23. According to data from KOBIS, the tracking service operated by the Korean
+[原文] Paramount Pictures’ “The Heart of the Beast,” starring Brad Pitt and directed by David Ayer, has been added to San Sebastián Film Festival’s lineup, screening out of competition in its Official Select
 
-📎 [阅读原文](https://variety.com/2026/film/box-office/korea-box-office-the-odyssey-spider-man-brand-new-day-insidious-1236841339/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/brad-pitt-heart-of-the-beast-paramount-san-sebastian-1236841422/) — *Variety*
 
-### 5. China Box Office: ‘Once Upon a Time in the Middle East’ Stays on Top as ‘V’ Debuts in Second
+### 5. Joachim Trier’s ‘Sentimental Value,’ Hlynur Pálmason’s ‘The Love That Remains’ Among the Nominees for the Nordic Council Film Prize
 
-[原文] Dirty Monkeys’ war comedy-drama &#8220;Once Upon a Time in the Middle East&#8221; held onto the No. 1 position at the mainland China box office during the Aug. 21–23 weekend, taking in RMB298.8 millio
+[原文] Five features and one documentary have been nominated for the 2026 Nordic Council Film Prize. It’s awarded to a feature film or documentary produced in the Nordic countries that has been distributed i
 
-📎 [阅读原文](https://variety.com/2026/film/box-office/china-box-office-once-upon-a-time-in-the-middle-east-v-1236841327/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/awards/awards/sentimental-value-nominees-nordic-council-film-prize-1236841360/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Lanterns Showrunner on Episode 2’s Big Ending: ‘When and Where to Use the Ring Is the Whole Ballgame’
+### 1. Playable Control Resonant and a Dune: Awakening Update Highlight Level Infinite’s Massive gamescom 2026 Plans
 
-[原文] Just like Hal Jordan said, when and where to use the ring is the whole ballgame. Showrunner Chris Mundy discusses Lanterns Episode 2's big ending.
+[原文] Level Infinite is bringing playable demos of Control Resonant and Dune: Awakening to Gamescom 2026, alongside an exclusive Hunt: Showdown 1896 reveal.
 
-📎 [阅读原文](https://www.ign.com/articles/lanterns-showrunner-episode-2-ending-when-and-where-to-use-the-ring-is-the-whole-ballgame) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/level-infinite-gamescom-2026-lineup) — *IGN*
 
-### 2. Lanterns Season 1, Episode 2 Review & Recap
+### 2. Pokémon TCG: Premium Collection Sets Are in Stock at Target for MSRP
 
-[原文] Lanterns continues to impress in its sophomore episode, proving that Kyle Chandler’s Hal and Aaron Pierre’s John are just as entertaining apart as they are together. Read our full review of Episode 2.
+[原文] Target just restocked this rare Pokémon TCG premium collection at MSRP, offering one of the best pack-for-pack deals we’ve seen in months.
 
-📎 [阅读原文](https://www.ign.com/articles/lanterns-season-1-episode-2-review-recap) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/pokemon-tcg-mega-zygarde-ex-premium-collection-target) — *IGN*
 
-### 3. The Best Deals Today: LEGO Animal Crossing, Nintendo Switch 2, Nioh 3, and More
+### 3. Billie Piper Says She's 'Not the Next Doctor' After That Bizarre Doctor Who Cliffhanger, Asks Fans to 'Chill Out'
 
-暂无摘要。
+[原文] Billie Piper has finally discussed her bizarre Doctor Who cliffhanger, and said "everyone needs to chill out and wait" while the show is on hiatus.
 
-📎 [阅读原文](https://www.ign.com/articles/best-deals-for-august-23-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/billie-piper-says-shes-not-the-next-doctor-after-that-bizarre-doctor-who-cliffhanger-asks-fans-to-chill-out) — *IGN*
 
-### 4. The Batman: Part 2 Set Videos Show Batmobile Clashing With Gotham Police
+### 4. Warhammer 40,000 Audiobook Includes AI Training Warning — Read Out by the Narrator
 
-[原文] Set videos from The Batman: Part 2 reveal the Batmobile in high-speed clashes with Gotham City Police and SWAT units on the Glasgow set.
+[原文] Games Workshop is famously anti-AI, but I was still caught by surprise when the narrator of my new favorite Warhammer 40,000 audiobook read out a warning about training AI systems on the novel itself.
 
-📎 [阅读原文](https://www.ign.com/articles/the-batman-part-2-batmobile-set-video) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/warhammer-40000-audiobook-includes-ai-training-warning-read-out-by-the-narrator) — *IGN*
 
-### 5. Marvel’s Wolverine Limited-Edition PS5 Controller Is Still Available for Preorder (But It May Sell Out)
+### 5. Peggy Carter Getting 'Frisbeed to Death' in Doctor Strange Was 'A Complete Disservice,' Hayley Atwell Says
 
-[原文] The Marvel's Wolverine-themed PS5 controller has been a huge bestseller among the IGN audience, but it may be starting to sell out ahead of release.
+[原文] Peggy Carter's untimely demise in Doctor Strange in the Multiverse of Madness was a "complete disservice to the character," Marvel actress Hayley Atwell has said.
 
-📎 [阅读原文](https://www.ign.com/articles/marvels-wolverine-limited-edition-ps5-controller-is-still-available-for-preorder-but-it-may-sell-out) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/peggy-carter-getting-frisbeed-to-death-in-doctor-strange-was-a-complete-disservice-hayley-atwell-says) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post Hot Album Drops Tied to Fatal Crash Rate Incre
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Burning Questions Confront Wildland Firefighters in Maine and Across New England
+### 1. The Trump Administration Has Spent Billions Boosting Gas Exports, Spurring More Fracking
+
+[原文] For companies looking to export natural gas, the last few years have brought both feast and famine. The growth has been so fast that some efforts have struggled to secure financial backing. There are 
+
+📎 [阅读原文](https://insideclimatenews.org/news/24082026/trump-spends-billions-boosting-lng-exports/) — *Inside Climate News*
+
+### 2. Burning Questions Confront Wildland Firefighters in Maine and Across New England
 
 [原文] Wildfires in New England rarely make national news. The spotlight is more often on the catastrophic fires of Western states, but the Northeast’s fire season has been quietly heating up. In 2025, sever
 
 📎 [阅读原文](https://insideclimatenews.org/news/23082026/new-england-wildland-firefighters-impacted-by-federal-proposals/) — *Inside Climate News*
 
-### 2. Boulder, Colorado, and Big Oil Prepare for High-Stakes Clash in Supreme Court
+### 3. Boulder, Colorado, and Big Oil Prepare for High-Stakes Clash in Supreme Court
 
 [原文] Local and state governments across the United States have turned to state courts over the past nine years, filing lawsuits reminiscent of those against the tobacco industry in the 1990s against major 
 
 📎 [阅读原文](https://insideclimatenews.org/news/23082026/suncor-v-boulder-supreme-court-climate-case/) — *Inside Climate News*
 
-### 3. A Global Gathering to Tackle the Planet’s Soil Crisis Is Underway in Mongolia
+### 4. A Global Gathering to Tackle the Planet’s Soil Crisis Is Underway in Mongolia
 
 [原文] In Ulaanbaatar, Mongolia, policy makers, scientists and global negotiators are gathering to convey an urgent message: The world’s rangelands, which make up about half of Earth’s land surface, are in t
 
 📎 [阅读原文](https://insideclimatenews.org/news/22082026/convention-to-combat-desertification-highlights-soil-crisis/) — *Inside Climate News*
 
-### 4. Primary Effort ‘Changed the Conversation’ Around Wyoming’s Public Lands
+### 5. Primary Effort ‘Changed the Conversation’ Around Wyoming’s Public Lands
 
 [原文] Zach Lentsch was leading a climbing trip on Devils Tower in Wyoming’s northeast corner on Aug. 18 when he got a text from a friend saying voter turnout in the state primary, held that day, was strong.
 
 📎 [阅读原文](https://insideclimatenews.org/news/22082026/public-lands-win-in-wyoming-primary/) — *Inside Climate News*
-
-### 5. Secret Plan to Dump Slaughterhouse Waste Blindsided Residents of Iowa’s Loess Hills
-
-[原文] In a matter of days, a dirt pit the size of five football fields appeared next to the weathered headstones of Center Cemetery in Castana, Iowa. The excavation site sits on the edge of the Loess Hills,
-
-📎 [阅读原文](https://insideclimatenews.org/news/22082026/iowa-loess-hills-slaughterhouse-waste/) — *Inside Climate News*
 
 ---
 
@@ -477,35 +477,35 @@ The post Hot Album Drops Tied to Fatal Crash Rate Incre
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. In Praise of Kayak, 21 Years Later
+### 1. What Radisson’s Saudi Arabia Bet Reveals About the Gulf’s Divided Recovery
+
+[原文] Radisson’s own development numbers are the latest confirmation of a pattern playing out across the Gulf: domestic demand is the hedge, and Saudi Arabia has it, the UAE doesn’t.
+
+📎 [阅读原文](https://skift.com/2026/08/24/what-radissons-saudi-arabia-bet-reveals-about-the-gulfs-divided-recovery/) — *Skift*
+
+### 2. Thailand’s Six-Year Tourist Fee Saga Returns With a $14 Price Tag
+
+[原文] After five policy reversals and one outright cancellation, Thailand's six-year-old-tourism fee plan is back at THB 450 — pending, naturally, another round of approvals.
+
+📎 [阅读原文](https://skift.com/2026/08/24/thailands-six-year-tourist-fee-saga-returns-with-a-14-price-tag/) — *Skift*
+
+### 3. In Praise of Kayak, 21 Years Later
 
 [原文] Nobody has built a better travel search tool than Kayak. There, I said it.
 
 📎 [阅读原文](https://skift.com/2026/08/22/in-praise-of-kayak-21-years-later/) — *Skift*
 
-### 2. The New Long-Haul Routes Testing How Far Demand Really Stretches
+### 4. The New Long-Haul Routes Testing How Far Demand Really Stretches
 
 [原文] From Sapporo to Riyadh, airlines are getting bolder with their long-haul route bets and using efficient widebody jets to test markets that may once have seemed too niche.
 
 📎 [阅读原文](https://skift.com/2026/08/21/the-new-long-haul-routes-testing-how-far-demand-really-stretches/) — *Skift*
 
-### 3. Viator’s Updated Operator Agreement Formalizes a Power Shift in Experiences Pricing: Scoop
+### 5. Viator’s Updated Operator Agreement Formalizes a Power Shift in Experiences Pricing: Scoop
 
 [原文] Is Airbnb's partnership with Tripadvisor merely an expansion of Airbnb's partnership with Tripadvisor's res-tech unit Bokun? So far some Airbnb employees aren't seeing signs of a broad, new Viator inv
 
 📎 [阅读原文](https://skift.com/2026/08/21/viators-updated-operator-agreement-formalizes-a-power-shift-in-experiences-pricing-scoop/) — *Skift*
-
-### 4. The Iran War Shows How Reliant Indian Airlines Are on Gulf Hubs
-
-[原文] India’s global aviation ambitions still run through the Gulf. When that works, it connects Indian travelers to the world. When geopolitics disrupts it, the shock quickly reaches India’s airlines.
-
-📎 [阅读原文](https://skift.com/2026/08/21/the-iran-war-shows-how-reliant-indian-airlines-are-on-gulf-hubs/) — *Skift*
-
-### 5. Travel’s AI Reckoning Has Arrived
-
-[原文] Sarah Kopit and Seth Borko break down travel’s AI reckoning: what is paying off, what is still experimental, and why data, trust, and ROI now matter more than AI hype.
-
-📎 [阅读原文](https://skift.com/2026/08/21/travels-ai-reckoning-has-arrived/) — *Skift*
 
 ---
 
