@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月24日** | 生成时间: 2026-08-24 02:33
+**2026年08月24日** | 生成时间: 2026-08-24 09:36
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill
+### 1. Treasury Secretary to announce Iran sanctions as Tehran dismisses economic warfare threat
+
+[原文] Bessent told CNBC that the sanctions will be the "toughest" in history.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/23/treasury-secretary-bessent-iran-sanctions-press-conference.html) — *CNBC*
+
+### 2. Oil prices fall as investors await 'toughest' U.S. sanctions on Iran
+
+[原文] Oil prices fell Monday as investors awaited details of what Washington has billed as its toughest-ever sanctions campaign against Iran.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/24/oil-price-today-wti-brent-us-sanctions-iran.html) — *CNBC*
+
+### 3. Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill
 
 [原文] Citigroup and Wells Fargo have room to buy a big regional bank as regulators have opened the door to megadeals. Five regional banks make sense as targets.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/23/wells-fargo-citigroup-deals-regional-banks.html) — *CNBC*
 
-### 2. After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI
-
-[原文] United Airlines CEO Scott Kirby talked to CNBC in a wide-ranging interview about his proposed airline megadeals, AI and the future of the carrier.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/23/united-airlines-ceo-scott-kirby.html) — *CNBC*
-
-### 3. Democratic House leader Jeffries meets with Jared Kushner as midterms loom
+### 4. Democratic House leader Jeffries meets with Jared Kushner as midterms loom
 
 [原文] Democrats are currently favored to win a majority in the House of Representatives after November's elections.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/23/democratic-leader-jeffries-meets-with-jared-kushner-as-midterms-loom.html) — *CNBC*
 
-### 4. Trump reshuffled his portfolio in June, selling names like Meta and buying Berkshire Hathaway
+### 5. After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI
 
-[原文] President Donald Trump disclosed just over 1,000 financial transactions in the month of June in what appears to be broad reshuffling of his portfolio.
+[原文] United Airlines CEO Scott Kirby talked to CNBC in a wide-ranging interview about his proposed airline megadeals, AI and the future of the carrier.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/22/trump-reshuffled-his-portfolio-in-june-selling-names-like-meta-and-buying-berkshire-hathaway.html) — *CNBC*
-
-### 5. Inside Coca-Cola’s secretive innovation labs: How the beverage giant wants to automate dirty soda and refreshers
-
-[原文] From McDonald's to Wendy's, longtime Coke customers have been expanding their beverage offerings to boost their profit margins.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/22/coca-cola-innovation-labs-dirty-sodas-refreshers.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/23/united-airlines-ceo-scott-kirby.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions
+### 1. Who’s behind the new ‘stealth model’ Ox Alpha?
+
+[原文] A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/) — *TechCrunch*
+
+### 2. Uber faces fine of nearly $1B over automated driver suspensions
+
+[原文] The Dutch Data Protection Authority is fining Uber €825 million in the second largest penalty issued under Europe’s GDPR.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/) — *TechCrunch*
+
+### 3. Linkdaze’s smart calendar is built to run a household, not just track a schedule
+
+[原文] Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/) — *TechCrunch*
+
+### 4. TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions
 
 [原文] Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/) — *TechCrunch*
 
-### 2. Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash
+### 5. Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash
 
 [原文] Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/) — *TechCrunch*
-
-### 3. Is it legal to train AI models on copyrighted books? It’s complicated
-
-[原文] Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?
-
-📎 [阅读原文](https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/) — *TechCrunch*
-
-### 4. Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders
-
-[原文] Flipkart's quick-commerce venture is delivering 1.1 million to 1.2 million orders a day, nearly triple its November volume.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/) — *TechCrunch*
-
-### 5. Harvard’s $699 startup bootcamp offers AI avatars of its instructors
-
-[原文] In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ECB investigates Carse 'nightclub incident'
+### 1. What will it take to stop the England hangovers?
 
-[原文] The ECB is investigating after videos circulating online appear to show England bowler Brydon Carse being led away from a nightclub in handcuffs.
+[原文] Yet again, England are dealing with a player involved in a late-night incident. Only strong action will ensure there are no more, writes Stephan Shemilt.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cg5l53d2ejmo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/clyey486g4eo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Norris beats Antonelli to claim final Dutch GP win
+### 2. Relief for Iraola but Liverpool have work to do after snatching draw at Newcastle
 
-[原文] Lando Norris and McLaren beats Mercedes' Kimi Antonelli to take a masterful strategic victory in a compelling Dutch Grand Prix.
+[原文] Dominik Szoboszlai's injury-time penalty rescues a point at the start of the Andoni Iraola era - but Liverpool need to improv after below-par performance.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/ce8l8jek1k1o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cdrvr73egnlo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Watkins' absence at Brighton a question for him - Emery
+### 3. Norris and McLaren 'don't have car' to fight for title despite Dutch GP win
 
-[原文] Ollie Watkins' absence in Aston Villa's thrashing at Brighton is a question for the striker, says boss Unai Emery.
+[原文] Lando Norris says he and McLaren "don't have the car I need to fight for a championship", despite a second consecutive win of the season at the Dutch Grand Prix.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c20j3vjvy48o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/c1e1e56q4w5o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Newcastle and Liverpool united in tribute to legend Keegan
+### 4. 'A win at home in the first game was beyond anyone's dreams' - Holden on MOTD
 
-[原文] Both Newcastle and Liverpool pay tribute to their legendary player on the opening weekend of the Premier League season.
+[原文] Following their huge win against Manchester United, Hull City assistant head coach Dean Holden joins Gabby Logan, Danny Murphy and Joe Hart in the Match of the Day studio.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ckgdgplejxzo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/c0kmk6rd30no?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Jamieson takes Trump call after ending 14-year title wait
+### 5. Trump waves green flag to start IndyCar race through Washington streets
 
-[原文] Scott Jamieson shoots a final round of 67 at the Nexo Championship to end his 14-year drought and earn a video call with President Donald Trump.
+[原文] The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/c8xnx252220o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Ridley Scott Says ‘I’m Not a Filmmaker, I’m an Influencer’
+### 1. Foo Fighters and Gustavo Dudamel Blow Up the Hollywood Bowl as Conductor Blows Out the Candle on His Time With the LA Phil: Concert Review
 
-[原文] Ridley Scott recently told The Times of London that he sees himself not as a “filmmaker,” but as an “influencer.” “Every time, you are vulnerable,” Scott said when asked to identify a through line in 
+[原文] The LA Phil has played with plenty of pop and rock acts before, but it may have taken Foo Fighters to really put the dude in Dudamel. And not a moment too soon, with this being famed conductor Gustavo
 
-📎 [阅读原文](https://variety.com/2026/film/news/ridley-scott-not-a-filmmaker-im-an-influencer-the-dog-stars-1236841083/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/concert-reviews/foo-fighters-hollywood-bowl-gustavo-dudamel-concert-review-1236841090/) — *Variety*
 
-### 2. Grace Passô’s ‘Our Secret’ Nabs the Best Film Kikito at the 54th Gramado Film Festival
+### 2. ‘Boorman and the Devil’ Review: The Making of John Boorman’s 1977 Disaster ‘Exorcist II: The Heretic’ Becomes a Documentary So Unbelievable It’s Funny
 
-[原文] GRAMADO, Brazil &#8212; “Our Secret&#8221; (&#8220;Nosso segredo&#8221;), the first feature from Grace Passô, nabbed the best feature film Kikito award at the Aug. 22 closing ceremony of the 54th Gram
+[原文] You might call Boorman’s fortitude admirable, but you could also call it delusional. And it lends "Boorman and the Devil" the quality of a true-life Christopher Guest movie. For this is the unintentio
 
-📎 [阅读原文](https://variety.com/2026/film/global/passo-nosso-segredo-won-gramado-best-film-kikito-1236841004/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/reviews/boorman-and-the-devil-review-exorcist-ii-the-heretic-1236841140/) — *Variety*
 
-### 3. Martin Short Gets Honest: What It’s Like to Be All Over the Emmy Race, Thanks to Three Very Different Projects
+### 3. Shelley Fabares, ‘Coach’ and ‘The Donna Reed Show’ Star, Dies at 82
 
-[原文] Martin Short is having quite a unique Emmy season, and he knows it. His name is all over this year’s nominations, via three very distinct projects: As an actor, he’s nominated for outstanding comedy l
+[原文] Shelley Fabares, the star of the classic sitcoms “The Donna Reed Show” and “Coach,” died on Saturday in Los Angeles. She was 82. Fabares’ family said in a statement, “We will miss her deeply — not onl
 
-📎 [阅读原文](https://variety.com/2026/tv/awards/martin-short-busy-emmy-race-three-very-different-projects-1236839629/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/shelley-fabares-dead-coach-the-donna-reed-show-1236841162/) — *Variety*
 
-### 4. ‘Sentimental Value’ Star Anders Danielsen Lie and Anne Marie Ottersen Inducted Into the Haugesund Walk of Fame: ‘It Feels Full Circle’
+### 4. Mark Ruffalo Called Out Over ‘Extremist and Antisemitic Messaging’ by Simon Wiesenthal Center, Creative Communities For Peace
 
-[原文] Norwegian actors Anders Danielsen Lie and Anne Marie Ottersen were inducted into the Haugesund Walk of Fame..  The unveiling taking place during the first weekend of this year&#8217;s Norwegian Intl. 
+[原文] Two prominent Jewish advocacy groups have called out Mark Ruffalo for spreading “antisemitic tropes.” &#8220;Words matter, and so does the willingness to draw a line when legitimate debate gives way t
 
-📎 [阅读原文](https://variety.com/2026/awards/awards/sentimental-value-anders-danielsen-lie-anne-marie-ottersen-1236840981/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/mark-ruffalo-paramount-antisemitic-tropes-1236841081/) — *Variety*
 
-### 5. Box Office: ‘Spider-Man: Brand New Day’ Triumphs Again in Fourth Weekend With $39 Million, ‘Insidious 6’ Launches to $25 Million
+### 5. Katseye Earns First No. 1 on Albums Chart; Phoebe Bridgers Debuts at No. 2
 
-[原文] Long may Peter Parker reign! Sony&#8217;s Marvel adventure &#8220;Spider-Man: Brand New Day&#8221; continues to dominate at the box office, collecting $39 million in its fourth weekend of release. Des
+[原文] Katseye has scored their first No. 1 on the Billboard 200 as their latest project &#8220;Wild&#8221; debuts atop the list. &#8220;Wild,&#8221; the five-track offering led by the singles &#8220;Pinky U
 
-📎 [阅读原文](https://variety.com/2026/film/box-office/spiderman-brand-new-day-box-office-insidious-6-opens-1236838324/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/katseye-wild-first-no-1-phoebe-bridgers-no-2-albums-chart-1236841114/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. GTA 6 Leaker Releases More Gameplay Videos Despite Rockstar Owner Take-Two's Microsoft and Discord Subpoenas
+### 1. The Best Deals Today: LEGO Animal Crossing, Nintendo Switch 2, Nioh 3, and More
 
-[原文] The alleged GTA 6 leaker has released two further gameplay videos despite Rockstar owner Take-Two's subpoenas requesting identifying information from Microsoft and Discord.
+暂无摘要。
+
+📎 [阅读原文](https://www.ign.com/articles/best-deals-for-august-23-2026) — *IGN*
+
+### 2. The Batman: Part 2 Set Videos Show Batmobile Clashing With Gotham Police
+
+[原文] Set videos from The Batman: Part 2 reveal the Batmobile in high-speed clashes with Gotham City Police and SWAT units on the Glasgow set.
+
+📎 [阅读原文](https://www.ign.com/articles/the-batman-part-2-batmobile-set-video) — *IGN*
+
+### 3. Marvel’s Wolverine Limited-Edition PS5 Controller Is Still Available for Preorder (But It May Sell Out)
+
+[原文] The Marvel's Wolverine-themed PS5 controller has been a huge bestseller among the IGN audience, but it may be starting to sell out ahead of release.
+
+📎 [阅读原文](https://www.ign.com/articles/marvels-wolverine-limited-edition-ps5-controller-is-still-available-for-preorder-but-it-may-sell-out) — *IGN*
+
+### 4. [UPDATE] GTA 6 Leaker Shows No Sign of Slowing Down as Ninth Gameplay Video Hits the Internet
+
+[原文] The GTA 6 leaks have stretched into a sixth consecutive day, as the person or group responsible shows no sign of slowing down even in the face of court action from Rockstar parent company Take-Two.
 
 📎 [阅读原文](https://www.ign.com/articles/gta-6-leaker-releases-more-gameplay-videos-despite-rockstar-owner-take-twos-microsoft-and-discord-subpoenas) — *IGN*
 
-### 2. The Best PC Gaming Collaboration Collections to Check Out Now
+### 5. The Best PC Gaming Collaboration Collections to Check Out Now
 
 [原文] If you're a PC gamer with a passion for cool collabs, you won't want to overlook these killer crossovers.
 
 📎 [阅读原文](https://www.ign.com/articles/best-pc-gaming-collaborations) — *IGN*
-
-### 3. The Best Deals Today: Nintendo Switch 2, LEGO Tropical Aquarium, Final Fantasy VII Rebirth, and More
-
-暂无摘要。
-
-📎 [阅读原文](https://www.ign.com/articles/best-deals-for-august-22-2026) — *IGN*
-
-### 4. How to Watch the Insidious Movies in Order
-
-[原文] With a new sequel out in theaters this weekend, here's a look back at how all of the Insidious movies fit together in timeline order.
-
-📎 [阅读原文](https://www.ign.com/articles/insidious-movies-in-order) — *IGN*
-
-### 5. IGN's Top Reviewed Movies of 2026 So Far
-
-[原文] IGN has already reviewed quite a few movies in 2026, but only one film has earned a perfect 10 out of 10 (and it's not even out yet!).
-
-📎 [阅读原文](https://www.ign.com/articles/best-reviewed-movies-of-2026) — *IGN*
 
 ---
 
