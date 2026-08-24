@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月24日** | 生成时间: 2026-08-24 09:36
+**2026年08月24日** | 生成时间: 2026-08-24 15:04
 
 ---
 
@@ -16,11 +16,11 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Zelensky should be asked what he knew about government corruption, sacked minister tells BBC
+### 1. Divorce, smartphones and control - BBC sees how Taliban run Afghanistan
 
-[原文] Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.
+[原文] Five years after the Taliban’s return, the BBC follows senior figures as the group reshapes the country.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 2. Trump says Canada wants 'benefits' of being US state after trade talks collapse
 
@@ -28,23 +28,23 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Guinea rubbish landfill collapse kills 30
+### 3. Shein aims for almost $27bn valuation in stock market debut
 
-[原文] A mound of rubbish at a major waste site buried several homes in the capital, the government says.
+[原文] The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. DR Congo and M23 rebels agree roadmap for peace talks
+### 4. China probes use of formaldehyde to keep cabbages fresh
 
-[原文] Representatives met in Switzerland to work out next steps to resolve the conflict.
+[原文] Using the carcinogen to preserve food is prohibited in China, the world's largest producer of cabbages.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy9ze48l2yeo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. France links sharp rise in drownings to heatwaves
+### 5. Ex-cricket captains urge 'proper medical care' for Imran Khan
 
-[原文] A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.
+[原文] The former skippers say it is "basic decency" for Pakistan to comply with a court-ordered medical assessment.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,11 +54,11 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Treasury Secretary to announce Iran sanctions as Tehran dismisses economic warfare threat
+### 1. U.S. to unveil 'greatest financial offensive' against Iran as Tehran threatens ship seizures
 
-[原文] Bessent told CNBC that the sanctions will be the "toughest" in history.
+[原文] The escalation came as both sides have missed a 60-day ceasefire window to reach a deal, closing off the formal truce mechanism to end the six-month war.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/23/treasury-secretary-bessent-iran-sanctions-press-conference.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/24/us-iran-war-trump-hormuz-bessent-economic-sanctions-.html) — *CNBC*
 
 ### 2. Oil prices fall as investors await 'toughest' U.S. sanctions on Iran
 
@@ -66,23 +66,23 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/24/oil-price-today-wti-brent-us-sanctions-iran.html) — *CNBC*
 
-### 3. Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill
+### 3. Alibaba plunges after announcing $10.2 billion share placement to fund AI push
+
+[原文] Alibaba shares plunged 10% after the tech giant priced a $10.2 billion share placement to fund its growing AI investments.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html) — *CNBC*
+
+### 4. Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill
 
 [原文] Citigroup and Wells Fargo have room to buy a big regional bank as regulators have opened the door to megadeals. Five regional banks make sense as targets.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/23/wells-fargo-citigroup-deals-regional-banks.html) — *CNBC*
 
-### 4. Democratic House leader Jeffries meets with Jared Kushner as midterms loom
+### 5. Democratic House leader Jeffries meets with Jared Kushner as midterms loom
 
 [原文] Democrats are currently favored to win a majority in the House of Representatives after November's elections.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/23/democratic-leader-jeffries-meets-with-jared-kushner-as-midterms-loom.html) — *CNBC*
-
-### 5. After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI
-
-[原文] United Airlines CEO Scott Kirby talked to CNBC in a wide-ranging interview about his proposed airline megadeals, AI and the future of the carrier.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/23/united-airlines-ceo-scott-kirby.html) — *CNBC*
 
 ---
 
@@ -168,17 +168,17 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. What will it take to stop the England hangovers?
+### 1. Relief for Iraola but Liverpool have work to do after snatching draw at Newcastle
+
+[原文] Dominik Szoboszlai's injury-time penalty rescues a point at the start of the Andoni Iraola era - but Liverpool need to improve after below-par display.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cdrvr73egnlo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. What will it take to stop the England hangovers?
 
 [原文] Yet again, England are dealing with a player involved in a late-night incident. Only strong action will ensure there are no more, writes Stephan Shemilt.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/clyey486g4eo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 2. Relief for Iraola but Liverpool have work to do after snatching draw at Newcastle
-
-[原文] Dominik Szoboszlai's injury-time penalty rescues a point at the start of the Andoni Iraola era - but Liverpool need to improv after below-par performance.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cdrvr73egnlo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ### 3. Norris and McLaren 'don't have car' to fight for title despite Dutch GP win
 
@@ -186,17 +186,17 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/c1e1e56q4w5o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. 'A win at home in the first game was beyond anyone's dreams' - Holden on MOTD
+### 4. Uefa chief Ceferin rules out Fifa presidency bid
 
-[原文] Following their huge win against Manchester United, Hull City assistant head coach Dean Holden joins Gabby Logan, Danny Murphy and Joe Hart in the Match of the Day studio.
+[原文] Uefa president Aleksander Ceferin rules himself out of the running to replace Gianni Infantino, but expects a candidate to challenge the Fifa president's leadership in March.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/c0kmk6rd30no?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cp878rp71v2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Trump waves green flag to start IndyCar race through Washington streets
+### 5. Maradona's 'Hand of God' ball sells for £2.5m
 
-[原文] The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.
+[原文] The football with which Diego Maradona scored his famous 'hand of God' goal in the 1986 World Cup quarter-final victory over England is sold at auction.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Foo Fighters and Gustavo Dudamel Blow Up the Hollywood Bowl as Conductor Blows Out the Candle on His Time With the LA Phil: Concert Review
+### 1. Deauville American Film Festival Reveals Industry Lineup
 
-[原文] The LA Phil has played with plenty of pop and rock acts before, but it may have taken Foo Fighters to really put the dude in Dudamel. And not a moment too soon, with this being famed conductor Gustavo
+[原文] The Deauville American Film Festival has revealed the lineup for the industry section of its 2026 edition. The Deauville Industry Days sidebar, taking place over two days at the festival being held at
 
-📎 [阅读原文](https://variety.com/2026/music/concert-reviews/foo-fighters-hollywood-bowl-gustavo-dudamel-concert-review-1236841090/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/deauville-american-film-festival-industry-section-1236841342/) — *Variety*
 
-### 2. ‘Boorman and the Devil’ Review: The Making of John Boorman’s 1977 Disaster ‘Exorcist II: The Heretic’ Becomes a Documentary So Unbelievable It’s Funny
+### 2. ‘Game of Thrones’ Actor Kristofer Hivju Turns to Rom-Com with ‘True Love’ by ‘Little Did I Know’’s Martina Haag (EXCLUSIVE)
 
-[原文] You might call Boorman’s fortitude admirable, but you could also call it delusional. And it lends "Boorman and the Devil" the quality of a true-life Christopher Guest movie. For this is the unintentio
+[原文] Norwegian star actor Kristofer Hivju (“Game of Thrones,” “Red One”, “Beck”) will play opposite Friday Hallgren (from Oscar-nominated “As It Is in Heaven”) in the upcoming Swedish-Croatian rom-com “Tru
 
-📎 [阅读原文](https://variety.com/2026/film/reviews/boorman-and-the-devil-review-exorcist-ii-the-heretic-1236841140/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/kristofer-hivju-frida-hallgren-true-love-sf-studios-1236840991/) — *Variety*
 
-### 3. Shelley Fabares, ‘Coach’ and ‘The Donna Reed Show’ Star, Dies at 82
+### 3. Erik Poppe Talks Haugesund Opener ‘Beloved,’ Written by Nobel Prize Winner Jon Fosse: ‘People Long for Something Honest and Truthful’
 
-[原文] Shelley Fabares, the star of the classic sitcoms “The Donna Reed Show” and “Coach,” died on Saturday in Los Angeles. She was 82. Fabares’ family said in a statement, “We will miss her deeply — not onl
+[原文] In “Beloved,” opening the Norwegian International Film Festival Haugesund, Erik Poppe takes on a script by Nobel Prize winner Jon Fosse. “It’s a project that has been on my desk for many, many years. 
 
-📎 [阅读原文](https://variety.com/2026/tv/news/shelley-fabares-dead-coach-the-donna-reed-show-1236841162/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/erik-poppe-haugesund-opener-beloved-nobel-prize-jon-fosse-1236841030/) — *Variety*
 
-### 4. Mark Ruffalo Called Out Over ‘Extremist and Antisemitic Messaging’ by Simon Wiesenthal Center, Creative Communities For Peace
+### 4. Korea Box Office: ‘The Odyssey’ Outmuscles ‘Spider-Man: Brand New Day’ to Hold Top Spot
 
-[原文] Two prominent Jewish advocacy groups have called out Mark Ruffalo for spreading “antisemitic tropes.” &#8220;Words matter, and so does the willingness to draw a line when legitimate debate gives way t
+[原文] &#8220;The Odyssey&#8221; maintained its commanding position atop the South Korea box office during the weekend of Aug. 21–23. According to data from KOBIS, the tracking service operated by the Korean
 
-📎 [阅读原文](https://variety.com/2026/film/global/mark-ruffalo-paramount-antisemitic-tropes-1236841081/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/box-office/korea-box-office-the-odyssey-spider-man-brand-new-day-insidious-1236841339/) — *Variety*
 
-### 5. Katseye Earns First No. 1 on Albums Chart; Phoebe Bridgers Debuts at No. 2
+### 5. China Box Office: ‘Once Upon a Time in the Middle East’ Stays on Top as ‘V’ Debuts in Second
 
-[原文] Katseye has scored their first No. 1 on the Billboard 200 as their latest project &#8220;Wild&#8221; debuts atop the list. &#8220;Wild,&#8221; the five-track offering led by the singles &#8220;Pinky U
+[原文] Dirty Monkeys’ war comedy-drama &#8220;Once Upon a Time in the Middle East&#8221; held onto the No. 1 position at the mainland China box office during the Aug. 21–23 weekend, taking in RMB298.8 millio
 
-📎 [阅读原文](https://variety.com/2026/music/news/katseye-wild-first-no-1-phoebe-bridgers-no-2-albums-chart-1236841114/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/box-office/china-box-office-once-upon-a-time-in-the-middle-east-v-1236841327/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Best Deals Today: LEGO Animal Crossing, Nintendo Switch 2, Nioh 3, and More
+### 1. Lanterns Showrunner on Episode 2’s Big Ending: ‘When and Where to Use the Ring Is the Whole Ballgame’
+
+[原文] Just like Hal Jordan said, when and where to use the ring is the whole ballgame. Showrunner Chris Mundy discusses Lanterns Episode 2's big ending.
+
+📎 [阅读原文](https://www.ign.com/articles/lanterns-showrunner-episode-2-ending-when-and-where-to-use-the-ring-is-the-whole-ballgame) — *IGN*
+
+### 2. Lanterns Season 1, Episode 2 Review & Recap
+
+[原文] Lanterns continues to impress in its sophomore episode, proving that Kyle Chandler’s Hal and Aaron Pierre’s John are just as entertaining apart as they are together. Read our full review of Episode 2.
+
+📎 [阅读原文](https://www.ign.com/articles/lanterns-season-1-episode-2-review-recap) — *IGN*
+
+### 3. The Best Deals Today: LEGO Animal Crossing, Nintendo Switch 2, Nioh 3, and More
 
 暂无摘要。
 
 📎 [阅读原文](https://www.ign.com/articles/best-deals-for-august-23-2026) — *IGN*
 
-### 2. The Batman: Part 2 Set Videos Show Batmobile Clashing With Gotham Police
+### 4. The Batman: Part 2 Set Videos Show Batmobile Clashing With Gotham Police
 
 [原文] Set videos from The Batman: Part 2 reveal the Batmobile in high-speed clashes with Gotham City Police and SWAT units on the Glasgow set.
 
 📎 [阅读原文](https://www.ign.com/articles/the-batman-part-2-batmobile-set-video) — *IGN*
 
-### 3. Marvel’s Wolverine Limited-Edition PS5 Controller Is Still Available for Preorder (But It May Sell Out)
+### 5. Marvel’s Wolverine Limited-Edition PS5 Controller Is Still Available for Preorder (But It May Sell Out)
 
 [原文] The Marvel's Wolverine-themed PS5 controller has been a huge bestseller among the IGN audience, but it may be starting to sell out ahead of release.
 
 📎 [阅读原文](https://www.ign.com/articles/marvels-wolverine-limited-edition-ps5-controller-is-still-available-for-preorder-but-it-may-sell-out) — *IGN*
-
-### 4. [UPDATE] GTA 6 Leaker Shows No Sign of Slowing Down as Ninth Gameplay Video Hits the Internet
-
-[原文] The GTA 6 leaks have stretched into a sixth consecutive day, as the person or group responsible shows no sign of slowing down even in the face of court action from Rockstar parent company Take-Two.
-
-📎 [阅读原文](https://www.ign.com/articles/gta-6-leaker-releases-more-gameplay-videos-despite-rockstar-owner-take-twos-microsoft-and-discord-subpoenas) — *IGN*
-
-### 5. The Best PC Gaming Collaboration Collections to Check Out Now
-
-[原文] If you're a PC gamer with a passion for cool collabs, you won't want to overlook these killer crossovers.
-
-📎 [阅读原文](https://www.ign.com/articles/best-pc-gaming-collaborations) — *IGN*
 
 ---
 
