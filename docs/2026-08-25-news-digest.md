@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月25日** | 生成时间: 2026-08-25 02:45
+**2026年08月25日** | 生成时间: 2026-08-25 09:25
 
 ---
 
@@ -28,17 +28,17 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Russia's second-biggest online retailer targeted in Ukrainian strikes
+### 3. US removes Syria from list of state sponsors of terrorism
 
-[原文] Ozon says its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes.
+[原文] The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Israel warns of 'forceful' response to kites flown from Gaza
+### 4. Moment tornado tears through southern France
 
-[原文] Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.
+[原文] The tornado has injured more than 40 people and destroyed homes in villages.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 5. King of Norway's health has worsened, palace says
 
@@ -60,29 +60,29 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/24/trump-iran-economy-sanctions-china-bessent.html) — *CNBC*
 
-### 2. Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills
+### 2. Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates
 
-[原文] Goldman Sachs is embracing AI, but one of its senior tech leaders warns that it comes with an unintended risk: weakening the reasoning skills of future bankers.
+[原文] President Donald Trump said the U.S. will raise tariffs on imports of cars, trucks and auto parts from Canada to 50% on Jan. 1, 2027.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/24/trump-canada-auto-tariffs-trade-war.html) — *CNBC*
 
-### 3. Nvidia says Groq racks will be online this year following $20 billion purchase
+### 3. Bessent could tap near $1 trillion Treasury General Account to fund bond buybacks, sources said
 
-[原文] Nvidia's race to manufacture Groq chips and make them available to customers highlight the growing importance in AI of low-latency inference.
+[原文] Using the TGA would provide the Treasury with considerable firepower to influence long-term bond yields.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/24/nvidia-says-groq-racks-will-be-online-this-year-after-20-billion-deal.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/24/bessent-1-trillion-treasury-general-account-bond-buybacks.html) — *CNBC*
 
-### 4. Trump’s oil and gas stocks gained up to $15.5 million amid Iran war, congressional Democrats say
+### 4. Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can't clear it
 
-[原文] Trump’s stock trading could face heightened congressional scrutiny if Democrats retake either chamber in the midterms.
+[原文] An antitrust challenge by a group of state attorneys general has left Paramount CEO David Ellison hunting for avenues to get his deal for WBD done.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/24/trump-oil-gas-stocks-iran-war-investments-democrats.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/24/paramount-ceo-david-ellison-wbd-acquisition-final-hurdle.html) — *CNBC*
 
-### 5. California AG Rob Bonta cancels Paramount settlement meeting, citing 'lack of good faith'
+### 5. Main Street Sports sues Comcast, Charter for underpaid licensing fees
 
-[原文] California AG Rob Bonta was scheduled to meet with Paramount representatives on Monday, he said, but canceled the meeting.
+[原文] Main Street has been in the process of winding down its portfolio of regional sports networks since the the NHL and NBA seasons ended earlier this year.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/24/california-ag-bonta-paramount-settlement-meeting.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/24/main-street-sports-comcast-charter-lawsuit-payments.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Instinct’s powerful AI assistant is raising privacy and security concerns
+### 1. Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC
 
-[原文] Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs
+[原文] The AI hedge fund went from "the talk of Wall Street" to "subject of federal subpoenas" faster than you can say "diversify your portfolio."
 
-📎 [阅读原文](https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/) — *TechCrunch*
 
-### 2. Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics
+### 2. Oura is reportedly eyeing a September IPO that could value it at more than $16B
 
-[原文] General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new inves
+[原文] We all knew it was coming. The expected valuation may surprise, though.
 
-📎 [阅读原文](https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/) — *TechCrunch*
 
-### 3. OpenAI is building AI agents for everything. Will everyone use them?
+### 3. Trump bought SpaceX shares two weeks after blockbuster IPO
 
-[原文] Inside the frontier lab’s push to bring AI agents from software engineers to the masses.
+[原文] The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.
 
-📎 [阅读原文](https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/) — *TechCrunch*
 
-### 4. Brake problems in GM EVs draw greater federal scrutiny
+### 4. Zillow and Redfin settle FTC antitrust case
 
-[原文] In one crash, the driver of a 2024 Blazer EV said they had to "deliberately steer the vehicle into a concrete curb" to slow it down and avoid a "catastrophic intersection collision."
+[原文] Zillow and Redfin reached a settlement with the FTC, which requires Redfin to reenter the rental advertising business.
 
-📎 [阅读原文](https://techcrunch.com/2026/08/24/brake-problems-in-gm-evs-draw-greater-federal-scrutiny/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/) — *TechCrunch*
 
-### 5. Hugging Face reportedly in talks to be acquired for $13B
+### 5. Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space
 
-[原文] Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sa
+[原文] Make the most of Disrupt's crowds of potential investors and partners by exhibiting your startup from October 13-15.
 
-📎 [阅读原文](https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Watkins' departure would cut deepest - and Villa did not see it coming
+### 1. Three reasons Chelsea could challenge for title - and one they may not
+
+[原文] While Chelsea's front three produced a sparkling display in their win over Fulham, goalkeeper Robert Sanchez remains a major concern.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c62e2y1p7njo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. Watkins' departure would cut deepest - and Villa did not see it coming
 
 [原文] Ollie Watkins has been an Aston Villa legend but it appears his time at the club is nearing a painful end amid interest from Saudi Arabia.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cq63ry9q6jzo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Alvarez's Arsenal dilemma amid summer's most bitter transfer tussle
+### 3. Punishment that sends shiver down whole England team needed - Vaughan
 
-[原文] An analysis of Julian Alvarez's future with the transfer window closing on 1 September - and the Argentine's chances of a move from Atletico Madrid to Arsenal.
+[原文] A punishment to “send a shiver down the whole team” may be needed after Brydon Carse became the latest England cricketer involved in a drinking controversy, according to Michael Vaughan.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c750nd7yq7yo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cx2zn3exqj7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. England drop Carse after nightclub incident
+### 4. Palmer impresses as Chelsea edge past Fulham to give Alonso first win
 
-[原文] Pace bowler Brydon Carse is removed from England's squad for the second Test against Pakistan amid an ongoing investigation into an incident that led to him being briefly arrested.
+[原文] Cole Palmer scores and sets up Joao Pedro as Chelsea give Xabi Alonso a winning start against Alvaro Arbeloa's Fulham at Craven Cottage in the Premier League.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cn74lg8xzpvo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/ckgx2ke9jgvo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Former world snooker champion Dott guilty of child sex abuse
+### 5. Watson among Britons through in US Open qualifying
 
-[原文] The former world champion was found guilty of lewd and libidinous behaviour towards a girl and boy.
+[原文] Heather Watson is among the British winners in the first round of US Open qualifying as she bids for a first New York main-drawn appearance in five years.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c0lr80rk0dno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Does Elliott have a Liverpool future after latest omission?
-
-[原文] Harvey Elliott's position at Liverpool looks uncertain following his absence from the matchday squad at Newcastle on the opening weekend of the Premier League season.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c5y589nwjk9o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cj0689mmp16o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘You’ Author Caroline Kepnes Sets Series Directorial Debut With Psychological Thriller ‘The Attentionist’ (EXCLUSIVE)
+### 1. Taylor Swift Sings Mashup of ‘All Too Well,’ ‘I Knew It, I Knew You’ and ‘August’ in Grammy Museum Video
 
-[原文] “You” fans rejoice – the author of the bestselling novels and creator of the fan-favorite serial killer Joe Goldberg is set for an ambitious new series project. Caroline Kepnes, whose first “You” book
+[原文] Most Taylor Swift fans probably do not think of the sad events of &#8220;All Too Well&#8221; and the ultimately happy &#8220;Toy Story 5&#8221; as occurring in the same cinematic or musical universe. 
 
-📎 [阅读原文](https://variety.com/2026/film/news/you-caroline-kepnes-director-debut-the-attentionist-1236841684/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/taylor-swift-sings-mashup-all-too-well-grammy-museum-video-1236842092/) — *Variety*
 
-### 2. Disney and NFL Team Up on Apparel Collection, Pairing Each of the League’s 32 Teams With Beloved Franchise Characters
+### 2. Taylor Swift Recalls How ‘I Knew You Were Trouble’ Was Written As a ‘Really Sad Ballad’ in Grammy Museum Conversation Video
 
-[原文] Disney is taking fantasy football a little more literally. The entertainment giant has teamed with the NFL, Champion and Fanatics on a new apparel collection pairing every one of the league&#8217;s 32
+[原文] Taylor Swift opened up about the process of writing and recording her 2012 hit &#8220;I Knew You Were Trouble,&#8221; revealing that it was initially penned as a &#8220;really sad ballad&#8221; before
 
-📎 [阅读原文](https://variety.com/2026/shopping/news/disney-nfl-team-apparel-collection-shop-online-1236841749/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/taylor-swift-i-knew-you-were-trouble-grammy-museum-clip-1236841957/) — *Variety*
 
-### 3. Disney Offers Executives Voluntary Early Retirement Packages Amid Overall Cost-Cutting Plans
+### 3. Wendy Williams Documentary Series ‘Clap If You Care,’ From the Host’s Longtime TV Producer, Picked Up at Peacock
 
-[原文] Disney is offering longtime executives early retirement packages amid larger cost-cutting efforts and ongoing layoffs. The offer, announced in a memo to staff sent by Senior EVP and Chief People Offic
+[原文] Peacock is digging into the well-mined world of former radio host and TV talk show star Wendy Williams, greenlighting the three-part documentary “Clap If You Care: The Wendy Williams Show” (which is a
 
-📎 [阅读原文](https://variety.com/2026/tv/news/disney-offers-execs-voluntary-retirement-packages-1236841676/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/wendy-williams-documentary-clap-if-you-care-peacock-1236841933/) — *Variety*
 
-### 4. Former Child Star Raquel Lee Sues Disney Over Alleged Rape at 14 by Ex-Employee
+### 4. Azerbaijan’s Lawyer Defends Defamation Suit Against CNN: ‘These Untrue Statements Actually Put Lives at Risk’
 
-[原文] Raquel Lee, who appeared on &#8220;The Amanda Show&#8221; and &#8220;The Proud Family&#8221; as a child star, has sued Disney, alleging that an ex-employee raped her when she was 14 while working on t
+[原文] Azerbaijan is very upset about a June 5 report on CNN that Israeli troops had used the country as a staging area for attacks on Iran. The country&#8217;s government says that the report, based on anon
 
-📎 [阅读原文](https://variety.com/2026/film/news/child-star-raquel-lee-sues-disney-1236841598/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/azerbaijan-lawyer-cnn-defamation-suit-1236841531/) — *Variety*
 
-### 5. Paramount Says It Did Not Leak Discussions With California’s Attorney General to the Press
+### 5. How to Watch the Dunkman World Championship Final Online for Free
 
-[原文] David Ellison&#8217;s Paramount Skydance released a statement Monday after California attorney general Rob Bonta abruptly canceled the two sides&#8217; planned meeting, alleging Paramount had leaked c
+[原文] The eight best basketball dunkers in the world are coming to primetime television this week as the Dunkman World Championship final airs on TNT. The final eight take center court August 25 at 8 p.m. E
 
-📎 [阅读原文](https://variety.com/2026/film/news/paramount-leak-discussions-california-attorney-general-1236841669/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/shopping/athletes/watch-dunkman-world-championship-final-live-online-free-1236838721/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Exclusive: PokémonXP and 2026 Pokémon World Championships Pokémon Center Merch Reveal
+### 1. Newegg Has the Least Overpriced 32GB of DDR5 6000MHz CL 30 Desktop Memory
 
-[原文] See a huge selection of Pokémon merch to be exclusively sold at the 2026 Pokémon World Championships and PokémonXP pop-up Pokémon Center, including a Steiff Pikachu, a rocket backpack, and more.
+[原文] This is the best RAM for AMD Ryzen-based gaming builds.
 
-📎 [阅读原文](https://www.ign.com/articles/exclusive-pokemonxp-and-2026-pokemon-world-championships-pokemon-center-merch-reveal) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/newegg-has-the-least-overpriced-32gb-of-ddr5-6000mhz-cl-30-desktop-memory) — *IGN*
 
-### 2. 7 Magic: The Gathering Crossovers We Want for Universes Beyond in 2027 and Beyond
+### 2. Get a 1,000W 48V Adult Electric Bike With 28mph Top Speed and 80 Mile Range for Just $275 Shipped
 
-[原文] Following Hasbro's tease of more "fantasy-adjacent" Magic: The Gathering Universes Beyond sets for 2027, here are our predictions for what could join the lineup next year.
+[原文] Zip around easier and faster when you go back to school.
 
-📎 [阅读原文](https://www.ign.com/articles/magic-the-gathering-universes-beyond-latest-predictions-news) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/urlife-e20-1000w-48v-adult-electric-bike-deal-august-2026) — *IGN*
 
-### 3. Former Rockstar Dev Calls GTA 6 Leaks 'A Nothing Burger,' Insists Hot Coffee Was Much, Much Worse
+### 3. The Witcher 3 Songs of the Past Expansion Confirmed to Include More Gwent, and Everyone Is Already Celebrating
 
-[原文] As Take-Two works to identify the person or group behind the GTA 6 'CyberLeek' account, one former Rockstar developer has insisted the recent spate of gameplay leaks will have little impact on the suc
+[原文] CD Projekt Red has confirmed The Witcher 3: Wild Hunt's upcoming Songs of the Past expansion will come with more Gwent, and card game lovers are already celebrating.
 
-📎 [阅读原文](https://www.ign.com/articles/former-rockstar-dev-calls-gta-6-leaks-a-nothing-burger-insists-hot-coffee-was-much-much-worse) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/the-witcher-3-songs-of-the-past-expansion-confirmed-to-include-more-gwent-and-everyone-is-already-celebrating) — *IGN*
 
-### 4. Playable Control Resonant and a Dune: Awakening Update Highlight Level Infinite’s Massive gamescom 2026 Plans
+### 4. The FlashForge AD5X Multi-Color 3D Printer Drops to Just $203 Shipped at AliExpress
 
-[原文] Level Infinite is bringing playable demos of Control Resonant and Dune: Awakening to Gamescom 2026, alongside an exclusive Hunt: Showdown 1896 reveal.
+[原文] The same printer is $350 on Amazon.
 
-📎 [阅读原文](https://www.ign.com/articles/level-infinite-gamescom-2026-lineup) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/flashforge-ad5x-3d-printer-deal-august-2026-updated-2) — *IGN*
 
-### 5. Pokémon TCG: Premium Collection Sets Are in Stock at Target for MSRP
+### 5. Xbox and PlayStation Appear to Be Publicly Backing Down from Promoting Multiplatform Releases
 
-[原文] Target just restocked this rare Pokémon TCG premium collection at MSRP, offering one of the best pack-for-pack deals we’ve seen in months.
+[原文] Xbox and PlayStation seem to be downplaying their multiplatform presence in new marketing beats.
 
-📎 [阅读原文](https://www.ign.com/articles/pokemon-tcg-mega-zygarde-ex-premium-collection-target) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/xbox-and-playstation-appear-to-be-publicly-backing-down-from-promoting-multiplatform-releases) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post BMW Exec Says Young People Prefer Voice and Screens Over Buttons Becaus
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Remembering the ‘Visionary’ Author of Pennsylvania’s Environmental Rights Amendment
+### 1. Fearing ‘Catastrophic Impacts’ From Water Cuts, Nevada Sues Feds Over Colorado River Plan
+
+[原文] Three days was all it took for the Trump administration’s Colorado River plan to see a legal challenge from, somewhat ironically, Nevada.&#160; Of the seven states that rely on the river, Nevada gets 
+
+📎 [阅读原文](https://insideclimatenews.org/news/24082026/nevada-sues-trump-administration-over-colorado-river-plan/) — *Inside Climate News*
+
+### 2. ERCOT Says Abbott’s Data Center Audit Will Be Done in December
+
+[原文] The first group of large data centers in line to get connected to Texas’ grid won’t move forward until mid-December, grid officials say.&#160; Electric Reliability Council of Texas (ERCOT) staff needs
+
+📎 [阅读原文](https://insideclimatenews.org/news/24082026/texas-gov-abbott-data-centers-audit/) — *Inside Climate News*
+
+### 3. Remembering the ‘Visionary’ Author of Pennsylvania’s Environmental Rights Amendment
 
 [原文] A monumental figure in Pennsylvania’s environmental movement passed away last week. Former state legislator Franklin Kury, who was 89, led Pennsylvania to become one of the first governments in the wo
 
 📎 [阅读原文](https://insideclimatenews.org/news/24082026/remembering-franklin-kury-pennsylvania-environmental-rights-amendment-visionary/) — *Inside Climate News*
 
-### 2. The Trump Administration Has Spent Billions Boosting Gas Exports, Spurring More Fracking
+### 4. The Trump Administration Has Spent Billions Boosting Gas Exports, Spurring More Fracking
 
 [原文] For companies looking to export natural gas, the last few years have brought both feast and famine. The growth has been so fast that some efforts have struggled to secure financial backing. There are 
 
 📎 [阅读原文](https://insideclimatenews.org/news/24082026/trump-spends-billions-boosting-lng-exports/) — *Inside Climate News*
 
-### 3. Burning Questions Confront Wildland Firefighters in Maine and Across New England
+### 5. Burning Questions Confront Wildland Firefighters in Maine and Across New England
 
 [原文] Wildfires in New England rarely make national news. The spotlight is more often on the catastrophic fires of Western states, but the Northeast’s fire season has been quietly heating up. In 2025, sever
 
 📎 [阅读原文](https://insideclimatenews.org/news/23082026/new-england-wildland-firefighters-impacted-by-federal-proposals/) — *Inside Climate News*
-
-### 4. Boulder, Colorado, and Big Oil Prepare for High-Stakes Clash in Supreme Court
-
-[原文] Local and state governments across the United States have turned to state courts over the past nine years, filing lawsuits reminiscent of those against the tobacco industry in the 1990s against major 
-
-📎 [阅读原文](https://insideclimatenews.org/news/23082026/suncor-v-boulder-supreme-court-climate-case/) — *Inside Climate News*
-
-### 5. A Global Gathering to Tackle the Planet’s Soil Crisis Is Underway in Mongolia
-
-[原文] In Ulaanbaatar, Mongolia, policy makers, scientists and global negotiators are gathering to convey an urgent message: The world’s rangelands, which make up about half of Earth’s land surface, are in t
-
-📎 [阅读原文](https://insideclimatenews.org/news/22082026/convention-to-combat-desertification-highlights-soil-crisis/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post BMW Exec Says Young People Prefer Voice and Screens Over Buttons Becaus
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Lil Durk Trial Openings: Defense Claims Rapper Unfairly Offered as ‘Big Fish’ By Co-Defendant
+### 1. Taylor Swift Talks Honoring Her Country Roots ‘More and More’ in Rare Interview
 
-[原文] “Mr. Banks had nothing to do with it. He was not there," rapper's defense lawyer said in her opening statement
+[原文] The superstar spoke with Recording Academy CEO Harvey Mason Jr. for the institution's Icon Sessions series
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/taylor-swift-honor-country-roots-tim-mcgraw-1235614372/) — *Rolling Stone*
+
+### 2. Watch Van Halen’s Michael Anthony Play ‘Runnin’ With The Devil’ With Jason Bonham
+
+[原文] It was the first time in the 16-year history of Jason Bonham's Led Zeppelin Evening that a song not found in the Zeppelin catalog was performed at one of their shows
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/michael-anthony-runnin-with-the-devil-jason-bonham-1235614234/) — *Rolling Stone*
+
+### 3. Photographer Linda McCartney to Be Honored With USPS Stamp Collection
+
+[原文] McCartney was the first woman to shoot the cover of Rolling Stone, and she herself appeared on the cover with husband Paul twice
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/linda-mccartney-usps-stamp-collection-1235614126/) — *Rolling Stone*
+
+### 4. Olivia Rodrigo, Days After Releasing via Exclusive CD,  Spreads ‘Serena Joy’ Around
+
+[原文] Rodrigo will debut the track at her upcoming inaugural Daisy Chain Fields festival
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/olivia-rodrigo-serena-joy-streaming-platforms-1235614051/) — *Rolling Stone*
+
+### 5. Lil Durk Trial Openings: Defense Claims Rapper Unfairly Offered as ‘Big Fish’ By Co-Defendant
+
+[原文] “Mr. Banks had nothing to do with it. He was not there,” rapper’s defense lawyer said in her opening statement
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/lil-durk-trial-opening-statement-1235612620/) — *Rolling Stone*
-
-### 2. Ella Langley Ties Lil Nas X and Shaboozey’s Billboard Hot 100 Record
-
-[原文] "Choosin' Texas" spends its 19th week at Number One, tying the reign of country tracks "Old Town Road" and "A Bar Song (Tipsy)"
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/ella-langley-ties-shaboozey-lil-nas-x-billboard-number-one-1235613980/) — *Rolling Stone*
-
-### 3. Former AC/DC Drummer Chris Slade Announces Retirement
-
-[原文] “I’m near enough 80 years old. I’ve been drumming professionally since I was 16 with Tom Jones. I’ve had a good innings. And thank you all for coming to the shows”
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/chris-slade-former-ac-dc-drummer-retiring-1235613896/) — *Rolling Stone*
-
-### 4. Trump Told DOJ to Settle Live Nation Case After Meeting With CEO in Oval Office
-
-[原文] The president and Michael Rapino reportedly discussed why the antitrust case hadn't settled yet during a Feb. 27 meeting
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/donald-trump-live-nation-ceo-met-antitrust-settlement-1235613900/) — *Rolling Stone*
-
-### 5. Hear Neil Young’s New Recording of a Song He Originally Wrote as a Teenager in 1965
-
-[原文] “Casting Me Away From You” will appear on Young’s new LP Second Song, which he recorded with the Chrome Dreams
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/neil-youngs-new-song-1965-1235613843/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post BMW Exec Says Young People Prefer Voice and Screens Over Buttons Becaus
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. PE Money Is Coming for STR. The New StayTerra CEO Explains the Strategy.
+### 1. Three South Korean Carriers Are Merging Into One Low-Cost Giant
+
+[原文] A supercharged budget airline backed by the flag carrier changes the math for everyone else in a low-cost market that still has too many brands.
+
+📎 [阅读原文](https://skift.com/2026/08/24/three-south-korean-carriers-are-merging-into-one-low-cost-giant/) — *Skift*
+
+### 2. Wall Street Is Starting to Believe Airbnb’s Growth Story
+
+[原文] The bank's thesis that Airbnb's "Acceleration is here to stay" is a bold statement. The potential is there. Focus and execution will be all-important.
+
+📎 [阅读原文](https://skift.com/2026/08/24/wall-street-is-starting-to-believe-airbnbs-growth-story/) — *Skift*
+
+### 3. Cruise Ports Top the Labor Day List and the K-Shaped Travel Gap is Narrowing
+
+[原文] Airfare and gas prices are up, but research suggests Americans are committed to spending on travel.
+
+📎 [阅读原文](https://skift.com/2026/08/24/labor-day-travel-k-shaped-economy/) — *Skift*
+
+### 4. PE Money Is Coming for STR. The New StayTerra CEO Explains the Strategy.
 
 [原文] On Monday's ⁠Good Morning Hospitality, A Skift Podcast⁠, ⁠Brandreth Canaley⁠, and ⁠Michael Goldin⁠ are joined by ⁠Amy Kothari⁠, the new CEO of ⁠StayTerra⁠, to talk PE-backed STR consolidation, what th
 
 📎 [阅读原文](https://skift.com/2026/08/24/pe-money-is-coming-for-str-the-new-stayterra-ceo-explains-the-strategy/) — *Skift*
 
-### 2. Black Tomato Founders Sell 75% to Employee Ownership Trust — But Keep Control: Exclusive
+### 5. Black Tomato Founders Sell 75% to Employee Ownership Trust — But Keep Control: Exclusive
 
 [原文] The founders of Black Tomato have sold the majority of their shares in a deal that gives them liquidity while keeping decision-making power — and qualifies them for a potential tax benefit.
 
 📎 [阅读原文](https://skift.com/2026/08/24/black-tomato-founders-sell-75-to-employee-ownership-trust-but-keep-control-exclusive/) — *Skift*
-
-### 3. F1 Confirms Abu Dhabi Grand Prix — Events Calendar Is Propping Up Tourism
-
-[原文] F1’s decision splits the Gulf calendar into two tiers: Abu Dhabi keeps its finale, Bahrain and Saudi lost theirs.
-
-📎 [阅读原文](https://skift.com/2026/08/24/f1-confirms-abu-dhabi-grand-prix-events-calendar-is-propping-up-tourism/) — *Skift*
-
-### 4. What Radisson’s Saudi Arabia Bet Reveals About the Gulf’s Divided Recovery
-
-[原文] Radisson’s own development numbers are the latest confirmation of a pattern playing out across the Gulf: domestic demand is the hedge, and Saudi Arabia has it, the UAE doesn’t.
-
-📎 [阅读原文](https://skift.com/2026/08/24/what-radissons-saudi-arabia-bet-reveals-about-the-gulfs-divided-recovery/) — *Skift*
-
-### 5. Thailand’s Six-Year Tourist Fee Saga Returns With a $14 Price Tag
-
-[原文] After five policy reversals and one outright cancellation, Thailand's six-year-old-tourism fee plan is back at THB 450 — pending, naturally, another round of approvals.
-
-📎 [阅读原文](https://skift.com/2026/08/24/thailands-six-year-tourist-fee-saga-returns-with-a-14-price-tag/) — *Skift*
 
 ---
 
