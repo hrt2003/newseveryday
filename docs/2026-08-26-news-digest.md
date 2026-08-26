@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月26日** | 生成时间: 2026-08-26 14:54
+**2026年08月26日** | 生成时间: 2026-08-26 20:58
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%
+### 1. Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say
+
+[原文] A hospital official told the BBC that the door to the ward was not locked, but manned with security guards, to protect the babies.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%
 
 [原文] The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. China hits out at 'illegal' new US sanctions on Iran and trading partners
+### 3. German airport worker dies of malaria after 'mosquito arrives on plane'
 
-[原文] The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.
+[原文] Five other airport workers are also receiving treatment following the rare outbreak at German's busiest airport.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. CIA chief travels to Moscow for unannounced talks, US media reports
+### 4. Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer
 
-[原文] Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.
+[原文] Zvi Sukkot's actions have drawn widespread condemnation, including from Israeli Prime Minister Benjamin Netanyahu.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Mass arrests in global crackdown on West African cyber-crime networks
+### 5. Libyan who was cleared after Lockerbie bombing trial dies aged 70
 
-[原文] The operation included the arrest of 39 people in South Africa for romance and investment scams.
+[原文] A Facebook post by Libyan Airlines announced the death of Al Amin Khalifah Fhimah and expressed the company's condolences to his family.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cq5xdnxppl4o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Brain disease in dead NFL players 'higher than previously shown'
-
-[原文] A new study says at least one in four ex-NFL players who died between 2016 and 2021 had a degenerative brain disease but the true figure could be much higher.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy0zgx6wlz3o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Oil prices fall on Hormuz deal hopes, U.S. pivots to economic pressure on Iran
+### 1. Fed’s preferred inflation gauge shows core prices rose 3.3% annually in July
 
-[原文] Oil fell Wednesday, as investors continue to assess the U.S. pivot toward economic sanctions rather than military strikes to add pressure on Iran.
+[原文] The personal consumption expenditures price index was expected to rise 0.1% monthly and 3.6% on a 12-month basis, according to economists surveyed by Dow Jones.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/26/oil-falls-as-the-us-pivots-to-economic-pressure-on-iran-.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/26/feds-preferred-inflation-gauge-shows-core-prices-rose-3point3percent-annually-in-july.html) — *CNBC*
 
-### 2. Trump's Saudi nuclear deal reaches Congress as experts warn of proliferation risk
+### 2. Mark Walter's TWG Global blasts 'attacks,' insists 'no fraud' amid federal probe
 
-[原文] Some Democratic lawmakers and nonproliferation advocates have criticized the pact for not including a permanent prohibition on enrichment or reprocessing.
+[原文] The empire of billionaire Los Angeles Dodgers owner Mark Walter has faced media scrutiny since he said he would sell his majority share of the LA Lakers.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/26/trump-saudi-nuclear-agreement-congress-iran-deal-.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/26/mark-walter-twg-guggenheim-lakers.html) — *CNBC*
 
-### 3. Amazon service Bezos once called 'artificial artificial intelligence' is shutting down
+### 3. Hyundai has grown more than any automaker in the U.S. — and it's not done yet
 
-[原文] Mechanical Turk launched in 2005 as a way to farm out tasks that are easy for humans to complete but too challenging for computers.
+[原文] The South Korean automaker wants to keep going by ramping up production at a new $7.6 billion plant in Georgia to capture more sales and market share.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/25/amazon-service-that-jeff-bezos-called-artificial-ai-is-shutting-down.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/26/hyundai-sales-us-investment.html) — *CNBC*
 
-### 4. Canada unveils retaliatory tariffs on about $20 billion of U.S. goods
+### 4. Iran says the U.S. is standing in the way of Hormuz deal amid talks with Oman
 
-[原文] Canadian trade negotiators left the U.S. last week after failing to clinch a trade deal that would stop President Donald Trump's new tariffs from taking effect.
+[原文] Iran and Oman are approaching a deal to secure safe transit through the Strait of Hormuz and future administration of the vital economic artery.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/25/canada-trump-tariffs-trade-carney-leblanc.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/26/us-iran-war-trump-hormuz.html) — *CNBC*
 
-### 5. Sen. Darline Graham, Trump's pick for South Carolina Senate, wins GOP primary
+### 5. Medical device maker Boston Scientific is being hit by a cyberattack. The shares are falling
 
-[原文] Sen. Darline Graham on Tuesday defeated Rep. Ralph Norman, winning the GOP nomination for a South Carolina Senate seat.
+[原文] The attack has disrupted the company's ability to ship products, and it's not clear when services will be restored.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/25/trump-darline-graham-south-carolina-primary.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/26/medical-device-maker-boston-scientific-is-being-hit-by-a-cyber-attack-the-shares-are-falling.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call
+### 1. Arga is building a better way to train enterprise AI agents
+
+[原文] Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/) — *TechCrunch*
+
+### 2. Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses
+
+[原文] The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/) — *TechCrunch*
+
+### 3. Runable hits $21M to bet AI agents can go from building businesses to growing them
+
+[原文] Runable says 60%–70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/) — *TechCrunch*
+
+### 4. Ventures Platform goes bigger — and broader — with its second Africa fund
+
+[原文] The Pan-African venture firm has raised $84 million and plans to invest in startups beyond its home market of Nigeria.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/26/ventures-platform-goes-bigger-and-broader-with-its-second-africa-fund/) — *TechCrunch*
+
+### 5. India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call
 
 [原文] Ringg has raised $10 million from Peak XV as a part of its Series A extension.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/) — *TechCrunch*
-
-### 2. Robotics startup Generalist reaches $3B valuation, sources say
-
-[原文] The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/) — *TechCrunch*
-
-### 3. OpenAI loses a top data center exec as stream of high-profile departures continues
-
-[原文] In a statement to TechCrunch about Malone's departure, OpenAI said it had "recently reorganized" its "infrastructure organization to support the scale and pace of our work."
-
-📎 [阅读原文](https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/) — *TechCrunch*
-
-### 4. X sends cease-and-desist to open source project Nitter over alleged scraping
-
-[原文] X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X front ends, demanding its instances and code repository be taken down over alleged scraping.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/) — *TechCrunch*
-
-### 5. Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious
-
-[原文] Instagram says the process can produce a first pass in under 10 seconds, potentially saving creators significant editing time while making video creation more approachable for people who don't have mu
-
-📎 [阅读原文](https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. O'Neill takes responsibility after Celtic's latest European capitulation
+### 1. Man City complete £86m Bouaddi signing from Lille
 
-[原文] Celtic throw away a four-goal aggregate lead as they suffer a 5-4 defeat by Austrian side LASK to miss out on the Champions League for the second year in a row.
+[原文] Manchester City complete the signing of Morocco midfielder Ayyoub Bouaddi from Lille in a £85.6m deal on a five-year contract.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c7506lkw1gno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c8d3jej2lqlo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Alcaraz and Williams thrill in brief but bright US Open mixed doubles showing
+### 2. Root's message has '100%' landed, says Tongue
 
-[原文] Serena Williams and Carlos Alcaraz were among the star double-acts in New York as the US Open mixed doubles competition got under way on Tuesday.
+[原文] Fast bowler Josh Tongue said captain Joe Root’s message to the England players about their off-field behaviour has “100%” been heeded.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cn5drv06w2ro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cdj4e277vwxo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Liverpool's midfield is fragile - will they act in the window?
+### 3. Man City to make offer for £120m-rated Fernandez
 
-[原文] Liverpool's draw at Newcastle emphasised once again their midfield fragility but will they act in the market and bring in a defensive-minded player?
+[原文] Manchester City are set to make an opening offer for priority midfield target Enzo Fernandez.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cx2zgzydd16o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cgewvygeq8vo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Forest agree £50m deal for Chelsea striker Delap
+### 4. Sterling charged with dangerous driving after crash
 
-[原文] Nottingham Forest have agreed a fee worth around £50m to sign Chelsea striker Liam Delap.
+[原文] Raheem Sterling will appear in court next month to face charges of dangerous driving after crashing his car into motorway barriers in May.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c4g5zg526gdo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c23xkk1vkkpo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Is Joao Pedro ready to break Chelsea's so-called number nine curse?
+### 5. Celtic deficiencies laid bare on another night of Champions League pain
 
-[原文] Joao Pedro took just 31 seconds to score his opening goal of the season - will the new number nine reach the 20 he scored last season while wearing the number 20 shirt?
+[原文] When Callum McGregor eviscerated his own team-mates in the wake of Celtic's stupefying Champions League collapse against LASK, he delivered their one coherent moment of a spineless night, writes Tom E
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cgk5ydy0vk4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cjdv5xvgv9lo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Vidio Teams With ReelShort for First Indonesian Short-Drama Partnership
+### 1. DAZN Will Acquire EverPass in Bid to Expand NFL Sunday Ticket
 
-[原文] Indonesian streaming platform Vidio has partnered with ReelShort, the microdrama platform owned by Crazy Maple Studio, marking ReelShort&#8217;s first entry into the Indonesian market. Hundreds of Ree
+[原文] Streaming-sports purveyor DAZN has struck an agreement to buy EverPass Media, the distributor of licensed sports properties to commercial establishments like hotels and bars. In doing so, DAZN will pi
 
-📎 [阅读原文](https://variety.com/2026/tv/news/vidio-reelshort-indonesia-partnership-short-drama-1236843567/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/dazn-wacquire-everpass-nfl-sunday-ticket-1236843700/) — *Variety*
 
-### 2. LevelK Boards Haugesund-Bound Norwegian Psycho Thriller ‘Anathema,’ About Repression, Denial and Collective Madness (EXCLUSIVE)
+### 2. Independent Talent Group Launches Creator Studio With Hire of Deborah Turness
 
-[原文] Copenhagen-based sales and aggregation outlet LevelK has boarded the Norwegian psycho-thriller “Anathema” by promising directing duo Ea Johanne Sandberg and Alpha Nord. One of 21 projects in developme
+[原文] U.K. agency Independent Talent Group is launching a creator studio to be headed by Deborah Turness, who has joined as president of Independent Talent Studio. Most recently, Turness was CEO of BBC News
 
-📎 [阅读原文](https://variety.com/2026/film/global/levelk-sales-norwegian-thriller-anathema-1236843078/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/biz/global/independent-talent-group-deborah-turness-1236843696/) — *Variety*
 
-### 3. Amanda Kernell Is More Interested in ‘Liberation Than a Curse’ as Her Third Feature ‘Brace Your Heart’ Debuts Trailer (EXCLUSIVE)
+### 3. Venice-Selected ‘Agata the Writer,’ Starring Mia Wasikowska, Boarded by MMM Film Sales (EXCLUSIVE)
 
-[原文] In her upcoming third feature “Brace Your Heart,” Amanda Kernell follows a survivor, not a victim.&#160; “We’re all different, and some people who experience really difficult things can’t recover. But
+[原文] French sales company MMM Film Sales has acquired the international rights to “Agata the Writer,” starring Mia Wasikowska, which will have its world premiere at the Venice Film Festival in the Venice D
 
-📎 [阅读原文](https://variety.com/2026/film/global/amanda-kernell-brace-your-heart-1236842342/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/venice-agata-the-writer-mia-wasikowska-mmm-film-sales-1236843679/) — *Variety*
 
-### 4. ‘Heroes’ Stars Throw Reunion to ‘Celebrate the Life’ of Hayden Panettiere: ‘So Much Love, Gratitude and Warmth’
+### 4. GameSquare Pivots Livestreaming Measurement Service Stream Hatchet Into Creator Marketing Analytics Platform (EXCLUSIVE)
 
-[原文] The cast of “Heroes” got together to celebrate the life of their co-star Hayden Panettiere, who died on Aug. 16 at 36 years old. &#8220;A ‘HEROES’ reunion to celebrate the life of HAYDEN was deeply em
+[原文] GameSquare is rebranding its gaming and esports-focused livestreaming measurement platform Stream Hatchet into Hatchet, which it describes as “the first full-service creator matching and brand marketi
 
-📎 [阅读原文](https://variety.com/2026/tv/news/heroes-cast-reunion-celebrate-life-of-hayden-panettiere-1236843535/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/gaming/news/stream-hatchet-rebrand-creator-marketing-gamesquare-1236842946/) — *Variety*
 
-### 5. Taylor Swift Pays Tribute to Dolly Parton: ‘She Was True Grace and True Grit, All in One Dazzling Person’
+### 5. COL Group, CP Group Strike 360-Degree Partnership to Grow Thailand’s Short-Form Drama Industry
 
-[原文] Taylor Swift shared a touching tribute to the late Dolly Parton after the iconic singer-songwriter’s death on Tuesday. “A world without Dolly doesn’t feel possible, real, or right,&#8221; it reads. &#
+[原文] COL Group and CP Group are teaming on a partnership aimed at building up Thailand&#8217;s short-form drama business, linking creative training, local content production and distribution under a single
 
-📎 [阅读原文](https://variety.com/2026/music/news/taylor-swift-dolly-parton-tribute-dead-1236842794/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/col-group-cp-group-partnership-thailand-short-form-drama-1236842870/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Toxic: A Fairy Tale for Grown-Ups Review
+### 1. I Finally Found My Dream Collectible, and It Only Took 40 Years of Searching for It
 
-[原文] Toxic: A Fairy Tale for Grown-Ups review: A sloppy gangster epic finds Indian megastar Yash in the mood for blood.
+[原文] I spent 40 years looking for a collectible prop replica of the Omni, the time-travelling device from the mostly forgotten show Voyagers!, and now I've finally found one.
 
-📎 [阅读原文](https://www.ign.com/articles/toxic-a-fairy-tale-for-grown-ups-review) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/voyagers-omni-prop-i-finally-found-my-dream-collectible-and-it-only-took-40-years-of-searching-for-it) — *IGN*
 
-### 2. Showa American Story: The First Hands-On Preview
+### 2. Rockstar Games Finally Addresses Extraordinary and 'Heartbreaking' GTA 6 Leaks, Warns Players That 'Some Spoilers' May Now Impact 'The Intended Game Experience'
 
-[原文] Showa American Story succeeds in crafting an unforgettable, eccentric B-movie world. However, its deliberate jank and niche style mean its general polish still lags behind other modern AAA action game
+[原文] Rockstar Games has finally addressed the past week's extraordinary spate of Grand Theft Auto 6 leaks.
 
-📎 [阅读原文](https://www.ign.com/articles/showa-american-story-the-first-hands-on-preview) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/rockstar-games-finally-addresses-extraordinary-gta-6-leaks-warns-players-that-some-spoilers-may-now-impact-the-intended-game-experience) — *IGN*
 
-### 3. The Baseus 25,000mAh 140W Laptop Power Bank With Dual USB-C Cables Drops to Just $45.29
+### 3. Marvel Fans Say Avengers: Endgame Encore's Extra 4 Minutes Risk Being 'Really Oversold', After Directors Insist Movie is 'Required Viewing for Following The Story in Doomsday'
 
-[原文] Even better, you do not need to be an Amazon Prime member to apply this discount.
+[原文] We all love Avengers: Endgame, but some Marvel fans are now suggesting that the four minutes of footage added to its upcoming Encore re-release risk being oversold by its directors.
 
-📎 [阅读原文](https://www.ign.com/articles/baseus-25000mah-140w-power-bank-deal-august-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/marvel-fans-say-avengers-endgame-encores-extra-4-minutes-are-being-really-oversold-after-directors-insist-movie-is-required-viewing-for-following-the-story-in-doomsday) — *IGN*
 
-### 4. The Dog Stars Review
+### 4. Mega Man: Dual Override Feels Like a Perfect Entry Point Into The Series
 
-[原文] Ridley Scott's post-apocalyptic survivor drama keeps its feelings about grieving in a triple layer of emotional bubble wrap.
+[原文] We played Mega Man: Dual Override, which is shaping up to be a perfect entry point into the series.
 
-📎 [阅读原文](https://www.ign.com/articles/the-dog-stars-review) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/mega-man-dual-override-preview) — *IGN*
 
-### 5. Konami Partners With Celebrity Kitty to Release Metal Gear Cat Toys at CatCon 2026
+### 5. Fable: After Watching a Full Quest, I Couldn’t Be More Excited to Play It | gamescom 2026
 
-[原文] Konami is partnering up with a celebrity kitty named ‘one-eared Uno’ to debut a special Metal Gear cat toy collection available at CatCon 2026.
+[原文] Beer, swearing, and aggressive strangers. I feel at home. After watching a full quest from Fable, I couldn't be more excited to play it. Our preview:
 
-📎 [阅读原文](https://www.ign.com/articles/konami-partners-with-celebrity-kitty-to-release-metal-gear-cat-toys-at-catcon-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/fable-after-watching-a-full-quest-i-couldnt-be-more-excited-to-play-it-gamescom-2026) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post Lincoln Is Building the New Corsair in China and Shipping it to the US 
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘Unbearable’ Heat in Uncooled Alabama Prisons
+### 1. Clean Air Policies Help Kids Breathe and Think Better
+
+[原文] Growing up with dirty air harms kids&#8217; health. But reducing pollution can help reverse the damage.&#160; In London, an effort to combat traffic emissions led to measured improvements in kids whos
+
+📎 [阅读原文](https://insideclimatenews.org/news/26082026/reducing-air-pollution-can-help-childrens-health/) — *Inside Climate News*
+
+### 2. New York’s Power Grid Struggles to Handle the Heat
+
+[原文] NEW YORK—When nearly 10,000 people in Southeast Queens lost power during a July heatwave, Mayor Zohran Mamdani called on residents to keep their air conditioners at 78 degrees to reduce the pressure o
+
+📎 [阅读原文](https://insideclimatenews.org/news/26082026/new-york-power-grid-struggles-during-heatwaves/) — *Inside Climate News*
+
+### 3. A Florida Community Aimed to Address a Legacy of Pollution. The Trump Administration Cancelled Its Funding.
+
+[原文] TAMPA, Fla.—Ross Fabian’s low-slung apartment building sits beside a pond that sometimes smells of dead fish. He has seen dead dogs in the pond. For many years the pond has served an important purpose
+
+📎 [阅读原文](https://insideclimatenews.org/news/26082026/florida-community-lost-millions-when-trump-cancelled-environmental-justice-grant/) — *Inside Climate News*
+
+### 4. ‘Unbearable’ Heat in Uncooled Alabama Prisons
 
 [原文] ELMORE, Ala.—Tiffany Montellano can’t sleep.&#160; Instead, she lies awake, worried about her husband Andrew, 31, who is incarcerated at Elmore Correctional Facility just north of Montgomery, Alabama’
 
 📎 [阅读原文](https://insideclimatenews.org/news/25082026/alabama-prisons-unbearable-heat/) — *Inside Climate News*
 
-### 2. A Severe Drought Is Straining the Panama Canal. Could Global Warming Make It Worse?
+### 5. A Severe Drought Is Straining the Panama Canal. Could Global Warming Make It Worse?
 
 [原文] One of the world’s most-used shortcuts is at risk as a severe drought plagues Central America.&#160; Starting in early September, the Panama Canal will reduce the number of ships allowed to pass throu
 
 📎 [阅读原文](https://insideclimatenews.org/news/25082026/todays-climate-el-nino-drought-panama-canal/) — *Inside Climate News*
-
-### 3. The Biggest Carbon Polluters Are to Blame for Half of U.S. Western Water Lost to Climate Change, ‘Groundbreaking’ Paper Says
-
-[原文] Some of the largest fossil fuel companies on Earth are disproportionately responsible for the water crisis in the American West, according to a first-of-its-kind study published Tuesday. From 2014 to 
-
-📎 [阅读原文](https://insideclimatenews.org/news/25082026/attribution-study-links-carbon-majors-to-colorado-river-crisis/) — *Inside Climate News*
-
-### 4. Data Center Developers in Texas Plan Massive New Gas Power Projects
-
-[原文] The 12 largest gas power projects planned in Texas are all specifically intended to run data centers, according to data released Tuesday by Global Energy Monitor, a global nonprofit that maps and trac
-
-📎 [阅读原文](https://insideclimatenews.org/news/25082026/texas-data-center-gas-projects/) — *Inside Climate News*
-
-### 5. Pennsylvania Lags Far Behind on Solar. Here’s How It Could Catch Up.
-
-[原文] Pennsylvania was a pioneer on renewable energy before the fracking boom upended that trajectory, and environmental advocates think it’s past time for state leaders to once again prioritize clean forms
-
-📎 [阅读原文](https://insideclimatenews.org/news/25082026/pennsylvania-legislature-slows-renewable-energy-adoption/) — *Inside Climate News*
 
 ---
 
@@ -401,35 +401,35 @@ The post Lincoln Is Building the New Corsair in China and Shipping it to the US 
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. As Male Teachers Vanish From the Classroom, Schools Look for Ways to Bring Them Back
+### 1. Protecting the Student Mind in the Age of AI
+
+[原文] Educators must shift their focus from preventing cognitive offloading to preserving the critical thinking skills AI threatens to replace.
+
+📎 [阅读原文](https://edsurge.com/news/protecting-the-student-mind-in-the-age-of-ai) — *EdSurge*
+
+### 2. Can a Letter From Washington Actually Change How Schools Buy Technology?
+
+[原文] On this episode of This Week with EdSurge, unpacking new federal edtech guidance for schools.
+
+📎 [阅读原文](https://edsurge.com/news/can-a-letter-from-washington-actually-change-how-schools-buy-technology) — *EdSurge*
+
+### 3. As Male Teachers Vanish From the Classroom, Schools Look for Ways to Bring Them Back
 
 [原文] A new survey of 145 men in the profession points to mentorship, pay and a sense of belonging as the biggest levers for recruitment and retention.
 
 📎 [阅读原文](https://edsurge.com/news/as-male-teachers-vanish-from-the-classroom-schools-look-for-ways-to-bring-them-back) — *EdSurge*
 
-### 2. EdSurge Welcomes Top Journalists and Educators to Advisory Board
+### 4. EdSurge Welcomes Top Journalists and Educators to Advisory Board
 
 [原文] Bringing together award-winning reporters and leading educators, the board will provide strategic guidance on newsroom priorities and emerging issues ...
 
 📎 [阅读原文](https://edsurge.com/news/edsurge-welcomes-top-journalists-and-educators-to-advisory-board) — *EdSurge*
 
-### 3. Department of Education Issues Long-Awaited Edtech Guidance for States and Districts
+### 5. Department of Education Issues Long-Awaited Edtech Guidance for States and Districts
 
 [原文] The letter emphasizes outcomes and evidence but stops short of issuing federal regulations.
 
 📎 [阅读原文](https://edsurge.com/news/department-of-education-issues-long-awaited-edtech-guidance-for-states-and-districts) — *EdSurge*
-
-### 4. The Case Against the Classroom Cellphone Crackdown
-
-[原文] Instead of banning the technology, schools have an opportunity to promote digital citizenship and student engagement.
-
-📎 [阅读原文](https://edsurge.com/news/the-case-against-the-classroom-cellphone-crackdown) — *EdSurge*
-
-### 5. Assignments, Invoices, and the AI Fix
-
-[原文] On This Week with EdSurge, searching to see where artificial intelligence quietly adds up.
-
-📎 [阅读原文](https://edsurge.com/news/what-is-ai-actually-costing-schools) — *EdSurge*
 
 ---
 
@@ -439,35 +439,35 @@ The post Lincoln Is Building the New Corsair in China and Shipping it to the US 
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Jelly Roll Pays Tribute to Dolly Parton: ‘The Last American That Everyone Liked’
+### 1. Kesha Pays Tribute to Dolly Parton With ‘Old Flames (Can’t Hold a Candle to You)’ Cover
+
+[原文] Parton's 1980 hit song was co-written by Kesha's mom, Pebe Sebert
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/kesha-dolly-parton-tribute-live-cover-1235615710/) — *Rolling Stone*
+
+### 2. Watch Jack White’s Emotional Cover ‘Jolene’ in Honor of Dolly Parton
+
+[原文] The musician performed the hit song during his concert in London to pay tribute to the country star following her death on Tuesday
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/jack-white-dolly-parton-jolene-cover-live-tribute-1235615698/) — *Rolling Stone*
+
+### 3. Jelly Roll Pays Tribute to Dolly Parton: ‘The Last American That Everyone Liked’
 
 [原文] The musician shared his thoughts on the late singer while guest-hosting Jimmy Kimmel Live
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/jelly-roll-dolly-parton-tribute-jimmy-kimmel-live-1235615691/) — *Rolling Stone*
 
-### 2. Sabrina Carpenter Honors Hero Dolly Parton, Recalls Thinking ‘We Could Be Sisters!’
+### 4. Sabrina Carpenter Honors Hero Dolly Parton, Recalls Thinking ‘We Could Be Sisters!’
 
 [原文] The pop star posted several Instagram images from the set of the 'Please Please Please' music video, which they shot together in 2025
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/sabrina-carpenter-dolly-parton-please-please-please-tribute-1235615500/) — *Rolling Stone*
 
-### 3. Shania Twain Mourns Dolly Parton, Shares Their Performance of ‘Coat of Many Colors’
+### 5. Shania Twain Mourns Dolly Parton and Shares Their Tender Performance of ‘Coat of Many Colors’
 
 [原文] "My mentor is gone," wrote Twain in her tribute alongside footage of their duet on the Oprah Winfrey Show
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/dolly-parton-death-shania-twain-tribute-performance-1235615374/) — *Rolling Stone*
-
-### 4. Eminem Shares Touching Letter From Dolly Parton: I Always Felt an ‘Unexplained Connection to You’
-
-[原文] The rapper posted a message the country star wrote him after he was inducted into the Rock and Roll Hall of Fame
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/dolly-parton-death-eminem-letter-tribute-1235615331/) — *Rolling Stone*
-
-### 5. Gigi Perez Headlines New York Fashion Week Event Presented by Rolling Stone and Gap Inc.’s Encore Membership Program
-
-[原文] On September 14, during New York Fashion Week, a select group of Gap Inc.’s Encore members and cardmembers who RSVP will enjoy an intimate performance by singer-songwriter Gigi Perez at the historic C
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/gigi-perez-performance-fashion-week-encore-rolling-stone-1235614312/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post Lincoln Is Building the New Corsair in China and Shipping it to the US 
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. It’s No Taylor Swift Effect, but Harry Styles’ Residency Offers NYC Operators a Boost
+### 1. Skift Global Forum Preview: Virgin Atlantic’s CEO on Where AI Belongs and Where People Win
+
+[原文] Corneel Koster is betting Virgin Atlantic wins on what people feel, the sense of belonging a great crew creates, in an era where AI mediates the booking. He's backing that bet with premium cabins and 
+
+📎 [阅读原文](https://skift.com/2026/08/26/skift-global-forum-preview-virgin-atlantic-ceo-ai-people/) — *Skift*
+
+### 2. Why Taj-Parent IHCL Wants Full Control of Oriental Hotels
+
+[原文] The real significance of the IHCL-Oriental Hotels deal is more about tidying up how the hotel business is organized and setting up for future growth, rather than an immediate financial windfall.
+
+📎 [阅读原文](https://skift.com/2026/08/26/why-taj-parent-ihcl-wants-full-control-of-oriental-hotels/) — *Skift*
+
+### 3. Here Are the Winners of the 2026 IDEA Awards
+
+[原文] The 2026 Skift IDEA Awards winners demonstrate that the most essential key to travel's future is to establish an innovative idea and to build it into a lever for change.   These companies reflect the 
+
+📎 [阅读原文](https://skift.com/2026/08/26/here-are-the-winners-of-the-2026-idea-awards/) — *Skift*
+
+### 4. It’s No Taylor Swift Effect, but Harry Styles’ Residency Offers NYC Operators a Boost
 
 [原文] Harry Styles’ Madison Square Garden residency isn’t expected to have the same cachet as the global Eras Tour, but the 30-show stint could offer NYC operators a more sustained lift.
 
 📎 [阅读原文](https://skift.com/2026/08/25/harry-styles-residency-nyc-demand/) — *Skift*
 
-### 2. United CEO on Fares in 2027: Fuel Stays ‘Elevated,’ But We Can ‘Pass All of That On’
+### 5. United CEO on Fares in 2027: Fuel Stays ‘Elevated,’ But We Can ‘Pass All of That On’
 
 [原文] United is betting demand stays strong. But at some point, added capacity will put pressure on prices.
 
 📎 [阅读原文](https://skift.com/2026/08/25/united-ceo-expects-high-demand-will-continue-to-offset-fuel-in-2027/) — *Skift*
-
-### 3. VayKLife Just Acquired Xplorie. The Guest Experience Layer Finally Gets Its Moment.
-
-[原文] On this bonus episode of ⁠Good Morning Hospitality, A Skift Podcast⁠, ⁠Wil Slickers⁠ sits down with ⁠Dan Gaertner⁠, CEO of ⁠VayKLife⁠, to break the news that VayKLife has acquired ⁠Xplorie⁠, bringing 
-
-📎 [阅读原文](https://skift.com/2026/08/25/vayklife-just-acquired-xplorie-the-guest-experience-layer-finally-gets-its-moment/) — *Skift*
-
-### 4. Live Tourism Economy: Where Event-Driven Travel Spending Lands
-
-[原文] A concert or a final now decides where hundreds of thousands of people travel and when. The harder question is who captures the money that arrives with them. The Skift Live Tourism Summit is where des
-
-📎 [阅读原文](https://skift.com/2026/08/25/live-tourism-economy-where-event-driven-travel-spending-lands/) — *Skift*
-
-### 5. Brand USA Chief in Advanced Talks to Rejoin NYC Tourism: Scoop
-
-[原文] The pivot comes two years after Fred Dixon joined the nation's destination marketing organization.
-
-📎 [阅读原文](https://skift.com/2026/08/25/brand-usa-fred-dixon-nyc-tourism/) — *Skift*
 
 ---
 
