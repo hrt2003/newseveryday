@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月26日** | 生成时间: 2026-08-26 09:35
+**2026年08月26日** | 生成时间: 2026-08-26 14:54
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Sen. Darline Graham, Trump's pick for South Carolina Senate, wins GOP primary
-
-[原文] Sen. Darline Graham on Tuesday defeated Rep. Ralph Norman, winning the GOP nomination for a South Carolina Senate seat.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/25/trump-darline-graham-south-carolina-primary.html) — *CNBC*
-
-### 2. Oil falls on easing concerns of renewed tensions as the U.S. pivots to economic pressure on Iran
+### 1. Oil prices fall on Hormuz deal hopes, U.S. pivots to economic pressure on Iran
 
 [原文] Oil fell Wednesday, as investors continue to assess the U.S. pivot toward economic sanctions rather than military strikes to add pressure on Iran.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/26/oil-falls-as-the-us-pivots-to-economic-pressure-on-iran-.html) — *CNBC*
 
-### 3. From military alliance to economic partnership: How Trump is redefining U.S.-South Korea ties
+### 2. Trump's Saudi nuclear deal reaches Congress as experts warn of proliferation risk
 
-[原文] Trump last Sunday instructed the Pentagon to cut military drills because they were "costly" and send "inappropriate and hostile" signals to North Korea.
+[原文] Some Democratic lawmakers and nonproliferation advocates have criticized the pact for not including a permanent prohibition on enrichment or reprocessing.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/26/trump-us-south-korea-alliance-military-drills-.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/26/trump-saudi-nuclear-agreement-congress-iran-deal-.html) — *CNBC*
 
-### 4. OpenAI data center chief Chris Malone is out, the latest in a string of executive exits
-
-[原文] An OpenAI spokesperson said the company "recently reorganized our infrastructure organization to support the scale and pace of our work."
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/25/openais-head-of-data-centers-chris-malone-is-out-in-latest-exec-exit.html) — *CNBC*
-
-### 5. Amazon service Bezos once called 'artificial artificial intelligence' is shutting down
+### 3. Amazon service Bezos once called 'artificial artificial intelligence' is shutting down
 
 [原文] Mechanical Turk launched in 2005 as a way to farm out tasks that are easy for humans to complete but too challenging for computers.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/25/amazon-service-that-jeff-bezos-called-artificial-ai-is-shutting-down.html) — *CNBC*
+
+### 4. Canada unveils retaliatory tariffs on about $20 billion of U.S. goods
+
+[原文] Canadian trade negotiators left the U.S. last week after failing to clinch a trade deal that would stop President Donald Trump's new tariffs from taking effect.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/25/canada-trump-tariffs-trade-carney-leblanc.html) — *CNBC*
+
+### 5. Sen. Darline Graham, Trump's pick for South Carolina Senate, wins GOP primary
+
+[原文] Sen. Darline Graham on Tuesday defeated Rep. Ralph Norman, winning the GOP nomination for a South Carolina Senate seat.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/25/trump-darline-graham-south-carolina-primary.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Robotics startup Generalist reaches $3B valuation, sources say
+### 1. India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call
+
+[原文] Ringg has raised $10 million from Peak XV as a part of its Series A extension.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/) — *TechCrunch*
+
+### 2. Robotics startup Generalist reaches $3B valuation, sources say
 
 [原文] The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/) — *TechCrunch*
 
-### 2. OpenAI loses a top data center exec, as stream of high-profile departures continues
+### 3. OpenAI loses a top data center exec as stream of high-profile departures continues
 
-[原文] Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group.
+[原文] In a statement to TechCrunch about Malone's departure, OpenAI said it had "recently reorganized" its "infrastructure organization to support the scale and pace of our work."
 
 📎 [阅读原文](https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/) — *TechCrunch*
 
-### 3. X sends cease-and-desist to open source project Nitter over alleged scraping
+### 4. X sends cease-and-desist to open source project Nitter over alleged scraping
 
 [原文] X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X front ends, demanding its instances and code repository be taken down over alleged scraping.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/) — *TechCrunch*
 
-### 4. Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious
+### 5. Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious
 
 [原文] Instagram says the process can produce a first pass in under 10 seconds, potentially saving creators significant editing time while making video creation more approachable for people who don't have mu
 
 📎 [阅读原文](https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/) — *TechCrunch*
-
-### 5. Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding
-
-[原文] The company's new fundraising total now stands at $232 million.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/) — *TechCrunch*
 
 ---
 
@@ -142,23 +142,23 @@
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260824065601.htm) — *Science Daily*
 
-### 3. Supercharged “natural killer” cells could be a powerful new cancer weapon
+### 3. Three forgotten kings could rewrite the history of ancient Assyria
+
+[原文] Three forgotten Assyrian kings may have been hiding in plain sight for more than 2,700 years. By piecing together clues from tablets, inscriptions, and an ancient statue, researchers argue that these 
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260824065549.htm) — *Science Daily*
+
+### 4. Supercharged “natural killer” cells could be a powerful new cancer weapon
 
 [原文] Researchers have found a way to supercharge natural killer cells, powerful immune cells that can attack cancer, so they can penetrate solid tumors and keep fighting once inside. In mice, these special
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260824065546.htm) — *Science Daily*
 
-### 4. Bird flu is spreading. Your backyard feeder could make it worse
+### 5. Bird flu is spreading. Your backyard feeder could make it worse
 
 [原文] Backyard bird feeders could become unexpected hotspots for H5N1 as Australia’s bird flu outbreak spreads, bringing species together in ways that rarely occur naturally. Experts say stopping feeding is
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260824065519.htm) — *Science Daily*
-
-### 5. Scientists find hidden “highways” guiding animal evolution
-
-[原文] A sweeping analysis of thousands of animal genomes suggests that chromosomes do not evolve randomly but instead follow a limited number of irreversible “evolutionary highways.” These one-way genetic c
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260824065514.htm) — *Science Daily*
 
 ---
 
@@ -168,9 +168,9 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. O'Neill takes responsibility with nowhere to hide for Celtic
+### 1. O'Neill takes responsibility after Celtic's latest European capitulation
 
-[原文] Celtic manager Martin O'Neill says his team have a "million miles to go" after defeat in Austria.
+[原文] Celtic throw away a four-goal aggregate lead as they suffer a 5-4 defeat by Austrian side LASK to miss out on the Champions League for the second year in a row.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c7506lkw1gno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
@@ -180,11 +180,11 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cn5drv06w2ro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Man Utd's midfield spending is done - now for a left-back?
+### 3. Liverpool's midfield is fragile - will they act in the window?
 
-[原文] After spending £155m on three midfielders, now Manchester United must decide whether to try to buy a left-back
+[原文] Liverpool's draw at Newcastle emphasised once again their midfield fragility but will they act in the market and bring in a defensive-minded player?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/clykngy3gldo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cx2zgzydd16o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ### 4. Forest agree £50m deal for Chelsea striker Delap
 
@@ -192,11 +192,11 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c4g5zg526gdo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Littler's Players Championship hopes dented
+### 5. Is Joao Pedro ready to break Chelsea's so-called number nine curse?
 
-[原文] Luke Littler loses to Jermaine Wattimena in the quarter-finals of the 27th Players Championship contest of the year.
+[原文] Joao Pedro took just 31 seconds to score his opening goal of the season - will the new number nine reach the 20 he scored last season while wearing the number 20 shirt?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/darts/articles/c36ln69p1ldo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cgk5ydy0vk4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Iowa Attorney General Says She’s Taking California to the Supreme Court Over Paramount-Warner Bros. Lawsuit
+### 1. Vidio Teams With ReelShort for First Indonesian Short-Drama Partnership
 
-[原文] Iowa Attorney General Brenna Bird wrote in an op-ed for The Daily Wire that she is suing California for leading the charge in the lawsuit against the Paramount-Warner Bros. merger. “California is once
+[原文] Indonesian streaming platform Vidio has partnered with ReelShort, the microdrama platform owned by Crazy Maple Studio, marking ReelShort&#8217;s first entry into the Indonesian market. Hundreds of Ree
 
-📎 [阅读原文](https://variety.com/2026/film/news/iowa-attorney-general-sue-california-paramount-warner-bros-1236843385/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/vidio-reelshort-indonesia-partnership-short-drama-1236843567/) — *Variety*
 
-### 2. ‘Love Island USA’ Host Ariana Madix on Bringing ‘Sexiness’ and ‘Danger’ to Her Hosting Gig: ‘I Initially Scare the Crap Out of’ Islanders
+### 2. LevelK Boards Haugesund-Bound Norwegian Psycho Thriller ‘Anathema,’ About Repression, Denial and Collective Madness (EXCLUSIVE)
 
-[原文] Ariana Madix has had a meteoric rise as a host — one that landed her an Emmy nomination this year. After a guest-hosting gig during the fifth season of the summertime dating show “Love Island USA,” sh
+[原文] Copenhagen-based sales and aggregation outlet LevelK has boarded the Norwegian psycho-thriller “Anathema” by promising directing duo Ea Johanne Sandberg and Alpha Nord. One of 21 projects in developme
 
-📎 [阅读原文](https://variety.com/2026/awards/features/ariana-madix-love-island-usa-host-sexiness-island-1236840928/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/levelk-sales-norwegian-thriller-anathema-1236843078/) — *Variety*
 
-### 3. ‘Paranormal Activity’ Review: Spooky Franchise Gets a Hair-Raising Stage Experience
+### 3. Amanda Kernell Is More Interested in ‘Liberation Than a Curse’ as Her Third Feature ‘Brace Your Heart’ Debuts Trailer (EXCLUSIVE)
 
-[原文] Taking the spirit of the “Paranormal Activity” films and turning it into a scare-‘em stage experience could have been a terrifying trip for its creators, too. After all, horror isn’t exactly a Broadwa
+[原文] In her upcoming third feature “Brace Your Heart,” Amanda Kernell follows a survivor, not a victim.&#160; “We’re all different, and some people who experience really difficult things can’t recover. But
 
-📎 [阅读原文](https://variety.com/2026/legit/reviews/paranormal-activity-review-broadway-stage-experience-1236841925/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/amanda-kernell-brace-your-heart-1236842342/) — *Variety*
 
-### 4. Can Guy Fieri Unite America? Inside His Lifelong Advocacy of Global Cuisine: ‘When You Talk About Food, You Talk About Culture’
+### 4. ‘Heroes’ Stars Throw Reunion to ‘Celebrate the Life’ of Hayden Panettiere: ‘So Much Love, Gratitude and Warmth’
 
-[原文] “I called Taylor Sheridan to ask him just for some meat for the event. Taylor said, ‘I’ll only give you the meat if I can come cook it.’ And Taylor Sheridan shows up to cook.”&#160; Guy Fieri is remin
+[原文] The cast of “Heroes” got together to celebrate the life of their co-star Hayden Panettiere, who died on Aug. 16 at 36 years old. &#8220;A ‘HEROES’ reunion to celebrate the life of HAYDEN was deeply em
 
-📎 [阅读原文](https://variety.com/2026/awards/features/guy-fieri-diners-drive-ins-and-dives-host-unite-america-1236840922/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/heroes-cast-reunion-celebrate-life-of-hayden-panettiere-1236843535/) — *Variety*
 
-### 5. Luis Castro, Trish Reilly and Barry Wilkinson Named 2026 MacGuffin Award Honorees
+### 5. Taylor Swift Pays Tribute to Dolly Parton: ‘She Was True Grace and True Grit, All in One Dazzling Person’
 
-[原文] Luis Castro, Trish Reilly and Barry Wilkinson will be honored at the third annual MacGuffin Awards.&#160; The Property Masters Guild aims to highlight and elevate the craft of the Property Master by r
+[原文] Taylor Swift shared a touching tribute to the late Dolly Parton after the iconic singer-songwriter’s death on Tuesday. “A world without Dolly doesn’t feel possible, real, or right,&#8221; it reads. &#
 
-📎 [阅读原文](https://variety.com/2026/artisans/news/property-masters-guild-macguffin-award-honorees-1236841984/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/taylor-swift-dolly-parton-tribute-dead-1236842794/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Konami Partners With Celebrity Kitty to Release Metal Gear Cat Toys at CatCon 2026
+### 1. Toxic: A Fairy Tale for Grown-Ups Review
+
+[原文] Toxic: A Fairy Tale for Grown-Ups review: A sloppy gangster epic finds Indian megastar Yash in the mood for blood.
+
+📎 [阅读原文](https://www.ign.com/articles/toxic-a-fairy-tale-for-grown-ups-review) — *IGN*
+
+### 2. Showa American Story: The First Hands-On Preview
+
+[原文] Showa American Story succeeds in crafting an unforgettable, eccentric B-movie world. However, its deliberate jank and niche style mean its general polish still lags behind other modern AAA action game
+
+📎 [阅读原文](https://www.ign.com/articles/showa-american-story-the-first-hands-on-preview) — *IGN*
+
+### 3. The Baseus 25,000mAh 140W Laptop Power Bank With Dual USB-C Cables Drops to Just $45.29
+
+[原文] Even better, you do not need to be an Amazon Prime member to apply this discount.
+
+📎 [阅读原文](https://www.ign.com/articles/baseus-25000mah-140w-power-bank-deal-august-2026) — *IGN*
+
+### 4. The Dog Stars Review
+
+[原文] Ridley Scott's post-apocalyptic survivor drama keeps its feelings about grieving in a triple layer of emotional bubble wrap.
+
+📎 [阅读原文](https://www.ign.com/articles/the-dog-stars-review) — *IGN*
+
+### 5. Konami Partners With Celebrity Kitty to Release Metal Gear Cat Toys at CatCon 2026
 
 [原文] Konami is partnering up with a celebrity kitty named ‘one-eared Uno’ to debut a special Metal Gear cat toy collection available at CatCon 2026.
 
 📎 [阅读原文](https://www.ign.com/articles/konami-partners-with-celebrity-kitty-to-release-metal-gear-cat-toys-at-catcon-2026) — *IGN*
-
-### 2. The First New Magic Puzzle of 2026 Is Now Available at Retailers
-
-暂无摘要。
-
-📎 [阅读原文](https://www.ign.com/articles/the-first-series-6-magic-puzzle-company-jigsaw-puzzle-is-now-available) — *IGN*
-
-### 3. For Today Only, Best Buy Has a 5TB Seagate Portable Hard Drive for $169.99
-
-[原文] The best price for 5TB of portable storage in today's overpriced market.
-
-📎 [阅读原文](https://www.ign.com/articles/5tb-seagate-portable-hard-drive-deal-august-2026) — *IGN*
-
-### 4. This LEGO Gift Card Deal Can Save You $65 on the Massive Minas Tirith Set
-
-暂无摘要。
-
-📎 [阅读原文](https://www.ign.com/articles/lego-gift-card-deal-lord-of-the-rings-minas-tirith-2026) — *IGN*
-
-### 5. Apple's 2nd Generation AirTags Drop to a New Price Low
-
-[原文] A practical accessory for iPhone owners who tend to lose wallets, keys, remotes.
-
-📎 [阅读原文](https://www.ign.com/articles/apples-2nd-generation-airtags-drop-to-a-new-price-low) — *IGN*
 
 ---
 
@@ -439,35 +439,35 @@ The post Lincoln Is Building the New Corsair in China and Shipping it to the US 
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Sabrina Carpenter Honors Hero Dolly Parton, Recalls Thinking ‘We Could Be Sisters!’
+### 1. Jelly Roll Pays Tribute to Dolly Parton: ‘The Last American That Everyone Liked’
+
+[原文] The musician shared his thoughts on the late singer while guest-hosting Jimmy Kimmel Live
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/jelly-roll-dolly-parton-tribute-jimmy-kimmel-live-1235615691/) — *Rolling Stone*
+
+### 2. Sabrina Carpenter Honors Hero Dolly Parton, Recalls Thinking ‘We Could Be Sisters!’
 
 [原文] The pop star posted several Instagram images from the set of the 'Please Please Please' music video, which they shot together in 2025
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/sabrina-carpenter-dolly-parton-please-please-please-tribute-1235615500/) — *Rolling Stone*
 
-### 2. Shania Twain Mourns Dolly Parton, Shares Their Performance of ‘Coat of Many Colors’
+### 3. Shania Twain Mourns Dolly Parton, Shares Their Performance of ‘Coat of Many Colors’
 
 [原文] "My mentor is gone," wrote Twain in her tribute alongside footage of their duet on the Oprah Winfrey Show
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/dolly-parton-death-shania-twain-tribute-performance-1235615374/) — *Rolling Stone*
 
-### 3. Eminem Shares Touching Letter From Dolly Parton: I Always Felt an ‘Unexplained Connection to You’
+### 4. Eminem Shares Touching Letter From Dolly Parton: I Always Felt an ‘Unexplained Connection to You’
 
 [原文] The rapper posted a message the country star wrote him after he was inducted into the Rock and Roll Hall of Fame
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/dolly-parton-death-eminem-letter-tribute-1235615331/) — *Rolling Stone*
 
-### 4. Gigi Perez Headlines New York Fashion Week Event Presented by Rolling Stone and Gap Inc.’s Encore Membership Program
+### 5. Gigi Perez Headlines New York Fashion Week Event Presented by Rolling Stone and Gap Inc.’s Encore Membership Program
 
 [原文] On September 14, during New York Fashion Week, a select group of Gap Inc.’s Encore members and cardmembers who RSVP will enjoy an intimate performance by singer-songwriter Gigi Perez at the historic C
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/gigi-perez-performance-fashion-week-encore-rolling-stone-1235614312/) — *Rolling Stone*
-
-### 5. Flashback: Dolly Parton Duets With Rob Halford, Simon Le Bon at Rock Hall Induction
-
-[原文] After initially rejecting the the honor, Dolly Parton showed up in 2022 and delivered one of the greatest Rock and Roll Hall of Fame performances in recent memory
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/dolly-parton-rob-halford-rock-hall-induction-1235615110/) — *Rolling Stone*
 
 ---
 
