@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月27日** | 生成时间: 2026-08-27 03:52
+**2026年08月27日** | 生成时间: 2026-08-27 16:22
 
 ---
 
@@ -34,17 +34,17 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c62mr97n936o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%
+### 4. At least 12 dead as wildfires sweep through northern Algeria
 
-[原文] The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.
+[原文] Northern Africa has experienced severe heatwaves this summer, leading to hundreds of fires across the region.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvgyd4x6nj4o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Radiation link in flight attendant's breast cancer, French court finds
+### 5. US drug agency approves breakthrough treatment for pancreatic cancer
 
-[原文] Former Air France stewardess Sophie Lainault has had her cancer recognised as an occupational disease.
+[原文] Experts have hailed the drug, daraxonrasib, as a game changer for one of the world's deadliest cancers.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/clyq4ge4wk9o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,29 +54,29 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Federal judge lifts final block on Trump mail-in voting order, clearing way for midterm restrictions
+### 1. Nvidia jumps 6% in premarket trading after blockbuster earnings boost AI confidence
 
-[原文] The rule in question would require election officials to give USPS voter information and use federally reviewed, uniquely barcoded ballot envelopes.
+[原文] Nvidia shares rose on Thursday after the chip giant's revenue guidance reassured investors that AI demand will remain strong.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/26/trump-usps-mail-voting-rule-lawsuit-states-supreme-court.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/27/nvidia-nvda-q2-earnings.html) — *CNBC*
 
-### 2. OpenAI releases sweeping report on Hugging Face AI agent hack
+### 2. Tanker attack tests Trump’s claim that Hormuz is a 'functioning strait'
 
-[原文] The 37-page report walks through the actions that OpenAI's models took during a series of evaluations prior to and during the Hugging Face breach.
+[原文] An oil tanker was struck by an unidentified projectile in the Strait of Hormuz, keeping alive risks deterring vessesl from the vital energy corridor.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/26/open-ai-hugging-face-hack.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/27/us-iran-war-trump-hormuz-attack-mine-.html) — *CNBC*
 
-### 3. Anthropic and Nscale strike $45 billion cloud deal, sources say
+### 3. CIA chief John Ratcliffe reportedly made secretive Moscow trip to warn Russia against attacking NATO
 
-[原文] Anthropic will rent around 460 megawatts of compute capacity at an Nscale data center development in West Virgina, according to sources.
+[原文] Russia and Ukraine have intensified long-range drone and missile strikes as fears of further escalation grow.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/26/anthropic-and-nscale-strike-45-billion-cloud-deal-sources-say.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/27/ratcliffe-moscow-russia-nato-ukraine-iran.html) — *CNBC*
 
-### 4. Apple sets iPhone launch event for Sept. 9, first under new CEO John Ternus
+### 4. Nvidia agrees to buy Hugging Face for $12.9 billion, report says
 
-[原文] Analysts expect the company to launch new iPhones and Apple Watches at the event, including the company's first folding phone
+[原文] Nvidia reportedly agreed to buy open source AI platform Hugging Face for $12.9 billion as the chipmaker expands deeper into the AI ecosystem.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/26/apple-iphone-launch-date-john-ternus.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/27/nvidia-hugging-face-acquisition.html) — *CNBC*
 
 ### 5. Meta settles social media addiction case with California, other states for $16.7 billion
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Google’s Gemini has a branding problem, and so does the rest of AI
+### 1. Nvidia closes in on Hugging Face acquisition
 
-[原文] Consumer AI apps need to stop making users learn their product architecture.
+[原文] Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.
 
-📎 [阅读原文](https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/) — *TechCrunch*
 
-### 2. How do we explain OpenAI’s executive exodus?
+### 2. Viral AI startup Instinct has raised $350M at a $2.5B valuation
 
-[原文] Was Greg Brockman the right executive all along?
+[原文] The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.
 
-📎 [阅读原文](https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/) — *TechCrunch*
 
-### 3. OpenAI releases its official report on the Hugging Face breach
+### 3. Amazon just tripled its order of Nvidia chips over ‘surging demand’
 
-[原文] The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.
+[原文] Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.
 
-📎 [阅读原文](https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/) — *TechCrunch*
 
-### 4. Flipboard acquires Graze, the feed builder working to monetize the open social web
+### 4. Meta’s $18B child-safety deal hinges on age-verification tech that doesn’t work well
 
-[原文] Flipboard is acquiring Bluesky feed-building startup Graze, bringing its privacy-friendly ad technology and creator monetization tools into Flipboard’s growing open social web ecosystem.
+[原文] The historic settlement reignites ongoing concern around how age-verification technology puts privacy at risk.
 
-📎 [阅读原文](https://techcrunch.com/2026/08/26/flipboard-acquires-graze-the-feed-builder-working-to-monetize-the-open-social-web/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/) — *TechCrunch*
 
-### 5. Medical device maker Boston Scientific says a cyberattack is causing a ‘global disruption’ to its operations
+### 5. Anthropic continues compute-gobbling streak in $45B deal with Nscale
 
-[原文] The company won't say if medical devices are affected or if any customer data was exfiltrated.
+[原文] The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.
 
-📎 [阅读原文](https://techcrunch.com/2026/08/26/medical-device-maker-boston-scientific-says-a-cyberattack-is-causing-a-global-disruption-to-its-operations/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Liverpool turn attention to Sarr after Brighton reject Minteh bids
+### 1. Liverpool close in on signing PSG forward Barcola
 
-[原文] Liverpool are exploring a move for Crystal Palace's Ismaila Sarr after Brighton reject their two bids for Yankuba Minteh.
+[原文] Liverpool are closing in on the signing of Bradley Barcola from Paris St-Germain for a fee that is expected to be in excess of £100m.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cr7d5m4d928o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c33kvgd3xpyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Littler suffers another setback with semi-final exit at PC28
+### 2. Chelsea in talks to sign Atalanta defender Ahanor
 
-[原文] Luke Littler's hopes of qualifying for the Players Championship finals suffers another setback as he is beaten by Brendan Dolan in the semi-finals of PC28 in Leicester.
+[原文] Chelsea are in talks to sign 18-year-old Atalanta and Italy defender Honest Ahanor for £34.3m.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/darts/articles/clyj5xzzvdlo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cdj4ev9nmj4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Newcastle sign Gonzalez from Man City for £52m
+### 3. Root shows off-field leadership - now for on-field
 
-[原文] Newcastle United sign Manchester City midfielder Nico Gonzalez for a fee which could rise to £52m.
+[原文] Joe Root has shown himself to be the off-field leader England need - now comes a chance to show his credentials as captain on-field.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cx2zlnpnk4zo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cly4632zw0lo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. '0% chance' - Atletico hit back at Barca over Alvarez transfer row
+### 4. Why Herrera is playing for free in Spanish third division
 
-[原文] Barcelona have again restated their desire to sign Julian Alvarez, prompting another angry response from Atletico Madrid.
+[原文] Ander Herrera has represented some of the world's biggest clubs, but now he is back home playing for free in Spain's third tier - and this is why.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c87v0y2x8wro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c9864p3wz1jo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Itauma 'million times better' than Fury and Joshua - Hamed
+### 5. Liverpool v Spurs & Man Utd v Brighton - full EFL Cup third-round draw
 
-[原文] British boxing legend Prince Naseem Hamed has described Moses Itauma as "a million times better" than Anthony Joshua and Tyson Fury.
+[原文] Liverpool face Tottenham in the third round of the EFL Cup, Manchester United play Brighton and Manchester City draw Norwich.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/articles/c07ln5v0my3o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c62mr6pv65zo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. 5 Things About Dolly Parton You Didn’t Know: From Producing ‘Buffy the Vampire Slayer’ to the COVID Vaccine
+### 1. Emmy-Winning Baobab Studios Lands Naver Ventures Investment, Sets ‘Shine’ as Flagship Title (EXCLUSIVE)
 
-[原文] The inimitable, irreplaceable Dolly Parton passed away on Tuesday after a brief battle with cancer. She was 80. The country legend and cultural icon was perhaps our last universally beloved celebrity,
+[原文] Baobab Studios has secured a strategic investment from Naver Ventures, the U.S.-based venture investment arm of Naver Corporation, the 10-time Emmy-winning transmedia animation studio has revealed. Na
 
-📎 [阅读原文](https://variety.com/lists/dolly-parton-5-facts-buffy-the-vampire-slayer-imagination-library-covid-vaccine-lgbt-rights/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/baobab-studios-naver-ventures-investment-shine-1236844847/) — *Variety*
 
-### 2. After ‘Insidious 6’ Was Scrapped, Star Lin Shaye Said ‘F— This’ and Wrote a Letter Pleading With Sony’s CEO to Save It (EXCLUSIVE)
+### 2. Miyu Distribution Acquires Fernanda Salgado’s ‘Ana, en Passant’ Starring Lauded Brazilian Actress Zezé Motta (EXCLUSIVE)
 
-[原文] There might not be an “Insidious: Out of the Further” without franchise star Lin Shaye. Before creatives confirmed production of the now-released film, a sixth installment of the horror franchise was 
+[原文] Global indie animation powerhouse Miyu Distribution has acquired international rights to Fernanda Salgado’s “Ana, en Passant” ahead of its world premiere at the Brasília Brazilian Film Festival and in
 
-📎 [阅读原文](https://variety.com/2026/film/features/insidious-lin-shaye-interview-letter-sony-tom-rothman-1236841953/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/miyu-distribution-fernanda-salgado-ana-en-passant-vancouver-1236842687/) — *Variety*
 
-### 3. James Franco’s Career Rehab Flops as He Sleepwalks Through the Werewolf Microdrama ‘Love, Lies & Frank’
+### 3. ‘Godzilla Minus Zero’ Behind-the-Scenes Clip Unveiled by Toho and Gkids
 
-[原文] James Franco’s glittering career first showed signs of faltering in 2014, when a 17-year-old girl shared messages the then-35-year-old sent her on Instagram, trying to coerce her into showing up at hi
+[原文] Toho and Gkids have released a new behind-the-scenes clip for &#8220;Godzilla Minus Zero,&#8221; the follow-up to Yamazaki Takashi&#8217;s Academy Award-winning &#8220;Godzilla Minus One,&#8221; ahead
 
-📎 [阅读原文](https://variety.com/2026/tv/columns/james-franco-hollywood-comeback-flops-werewolf-microdrama-1236834831/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/godzilla-minus-zero-behind-the-scenes-clip-toho-gkids-1236844837/) — *Variety*
 
-### 4. Amazon MGM Studios Exec Carina Walker Named Head of YA
+### 4. Venice Horizons Best Director Winner Anuparna Roy’s ‘Lovers in the Blue Night’ Boarded by Parallax (EXCLUSIVE)
 
-[原文] New Amazon MGM Studios global TV head Peter Friedlander is continuing to round out his executive team, naming Carina Walker to head of YA. “Carina has a collective 9.5 years at Amazon where she’s work
+[原文] Parallax has acquired international sales rights to Anuparna Roy&#8217;s &#8220;Lovers in the Blue Night,&#8221; which will have its world premiere in the Horizons competition at the Venice Film Festi
 
-📎 [阅读原文](https://variety.com/2026/tv/news/amazon-mgm-studios-carina-walker-head-of-ya-1236844363/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/venice-anuparna-roy-lovers-in-the-blue-night-parallax-1236844820/) — *Variety*
 
-### 5. Jaye P. Morgan, Singer, Actress and Game Show Panelist, Dies at 94
+### 5. Manoj Bajpayee’s ‘Last Man in Tower’ Sets September Indian Release From Rana Daggubati’s Spirit Media, Unveils Teaser (EXCLUSIVE)
 
-[原文] Jaye P. Morgan, a singer, actress and frequent game show panelist in the 1970s, died Monday in Washington.  Her family announced her death and said she resided in Castle Rock, Washington. Morgan’s sin
+[原文] &#8220;Last Man in Tower,&#8221; the Aravind Adiga adaptation starring Manoj Bajpayee, is headed to Indian theaters this September and has unveiled its first teaser. The film, directed by Ben Rekhi an
 
-📎 [阅读原文](https://variety.com/2026/tv/news/jaye-p-morgan-dead-gong-show-1236844264/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/last-man-in-tower-bajpayee-september-release-teaser-1236844048/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Rockstar Games Doubled in Size for GTA 6, Hired Real World Professionals for Fashion, Vehicles, and More
+### 1. Andrew Garfield’s The Uprising Sends Mixed Signals on Robin Hood Connection
 
-[原文] Rockstar Games doubled its employee headcount for Grand Theft Auto 6 and hired real-world professionals for the game's vehicles, fashion, and more.
+[原文] Focus Features’ The Uprising stars Andrew Garfield in a 1381 Peasants' Revolt drama—but new marketing suggests it might actually be a stealth Robin Hood origin story.
 
-📎 [阅读原文](https://www.ign.com/articles/rockstar-games-doubled-in-size-for-gta-6-hired-real-world-professionals-for-fashion-vehicles-and-more) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/andrew-garfield-the-uprising-robin-hood) — *IGN*
 
-### 2. The SteelSeries 25th Anniversary Sale Gifts You Free Gear When You Buy One of Its Best Gaming Headsets
+### 2. Xbox CEO Asha Sharma Opens Up on Future of Physical Games for Next Generation Console Project Helix
 
-[原文] Up to $110 in savings.
+[原文] Xbox CEO Asha Sharma was cagey when asked if the company’s next console, codenamed Project Helix, will have a disc drive or not, but gave some optimistic insights into its approach to physical games.
 
-📎 [阅读原文](https://www.ign.com/articles/steelseries-25th-anniversary-sale-arctis-nova-pro-omni-gaming-headset-deal) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/xbox-ceo-asha-sharma-opens-up-on-future-of-physical-games-for-next-generation-console-project-helix) — *IGN*
 
-### 3. Call of Duty: Modern Warfare 4 for Switch 2 Is Up for Preorder
+### 3. Double Fine Productions Makes Brutal Legend Free for 666 Minutes to Honor Tim Curry
 
-[原文] Preorders are live for the Nintendo Switch 2 version of Call of Duty: Modern Warfare 4 – but physical copies are just a code in a box.
+[原文] Double Fine Productions, who recently regained the rights to its entire catalog following its pivot back to independence after Microsoft parted ways with several studios during its "Xbox reset," is ho
 
-📎 [阅读原文](https://www.ign.com/articles/call-of-duty-modern-warfare-4-for-switch-2-where-to-buy) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/double-fine-productions-makes-brutal-legend-free-for-666-minutes-to-honor-tim-curry) — *IGN*
 
-### 4. The Duskbloods Feels Like a Nintendo Party Game in a Bloody Wrapper
+### 4. Silent Hill Producer Says Konami Wants to Release a New Game in the Series Every Year
 
-[原文] Once you go beneath the surface of its wonderfully grotesque, unwelcoming exterior that’s right in line with FromSoftware’s house style, The Duskbloods plays so much like a classic multiplayer Nintend
+[原文] Silent Hill producer Motoi Okamoto says that Konami is gunning for annual releases of new games in its flagship horror franchise.
 
-📎 [阅读原文](https://www.ign.com/articles/the-duskbloods-feels-like-a-nintendo-party-game-in-a-bloody-wrapper) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/silent-hill-producer-says-konami-wants-to-release-a-new-game-in-the-series-every-year) — *IGN*
 
-### 5. Guns of Eschaton Is a Soulslike Shooter for the Genre’s Most Masochistic Fans | gamescom 2026
+### 5. 'I Think That Was a Big Flaw' — Uncharted 3 Designer Says the Game Was Hindered by Too Many Set Pieces
 
-[原文] Guns of Eschaton reinvents the rules of both the soulslike and the first-person shooter, making for what seems to be a very challenging journey through the Wild West.
+[原文] An ex-Naughty Dog designer believes that Uncharted 2's success may have negatively impacted the way Uncharted 3 was developed.
 
-📎 [阅读原文](https://www.ign.com/articles/guns-of-eschaton-soulslike-shooter-preview-gamescom-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/i-think-that-was-a-big-flaw-uncharted-3-designer-says-the-game-was-hindered-by-too-many-set-pieces) — *IGN*
 
 ---
 
@@ -439,35 +439,35 @@ The post Diesel Prices Are About to Break Records. Here
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Queen’s Last Filmed Concert With Freddie Mercury Is Headed to IMAX
+### 1. Jack Osbourne Says Upcoming Ozzy Movie Won’t Be an ‘Artsy, Esoteric Biopic’
 
-[原文] See a trailer for Queen Budapest, filmed in 1986, which will open in cinemas this fall
+[原文] "I’m always saying in the meetings, ‘We’ve got to give the fans what they want,'" he confirmed
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/queen-freddie-mercury-budapest-imax-trailer-1235615809/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/jack-osbourne-ozzy-osbourne-movie-update-1235616567/) — *Rolling Stone*
 
-### 2. Jay-Z Reintroduces Himself Once More in New ‘JAŸ-Z in 8’ Trailer
+### 2. Kehlani Pauses Tour Due to Health Concerns: ‘In So Much Pain’
 
-[原文] The docuseries, which was directed by and co-stars Rick Rubin, will premiere in September
+[原文] The singer cancelled two upcoming shows, saying that it "breaks my heart to have to ever do this"
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/jay-z-in-8-trailer-rick-rubin-1235615749/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/kehlani-tour-pause-health-concerns-1235616563/) — *Rolling Stone*
 
-### 3. Paul McCartney and John Lennon Crack Each Other Up in Rare ‘Day Tripper’ Demo
+### 3. Watch Phoebe Bridgers Cover Nirvana’s ‘Lithium’ for BBC Radio 1
 
-[原文] The “Songwriting Work Tape” version of the classic single was recorded at Lennon’s house and will be included on the upcoming special edition of Rubber Soul
+[原文] The musician also showcased "Bobby" off her new album Lost Weekend
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/the-beatles-rare-working-demo-day-tripper-1235615793/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/phoebe-bridgers-nirvana-lithium-cover-bbc-radio-1-1235616559/) — *Rolling Stone*
 
-### 4. Kesha Pays Tribute to Dolly Parton With ‘Old Flames (Can’t Hold a Candle to You)’ Cover
+### 4. Selena Gomez Hits Back Against ‘Absurd’ Fraud Claims in Wondermind Lawsuit
 
-[原文] Parton’s 1980 hit song was co-written by Kesha’s mom, Pebe Sebert
+[原文] The star's lawyers filed a motion to dismiss after investors of the health startup sued Gomez, her mother, and their ex-business partner
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/kesha-dolly-parton-tribute-live-cover-1235615710/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/selena-gomez-fraud-wondermind-lawsuit-dismiss-1235616511/) — *Rolling Stone*
 
-### 5. Watch Jack White’s Emotional Cover of ‘Jolene’ in Honor of Dolly Parton
+### 5. Beyoncé to Donate $1 Million to Earthquake Relief Efforts in Colombia’s Hardest-Hit Areas
 
-[原文] The musician performed the hit song during his concert in London to pay tribute to the country star following her death on Tuesday
+[原文] The money will help provide food and housing supplies to those impacted by the disaster
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/jack-white-dolly-parton-jolene-cover-live-tribute-1235615698/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/beyonce-donates-1-million-colombia-earthquake-relief-1235616488/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post Diesel Prices Are About to Break Records. Here
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Regional Parks Keep Closing. Why Dolly Parton’s Dollywood Bucks the Trend.
+### 1. Confirmed: Brand USA CEO Fred Dixon to Lead NYC Tourism Again
+
+[原文] The announcement follows Skift’s reporting that Dixon had been in advance talks for a return to NYC Tourism.
+
+📎 [阅读原文](https://skift.com/2026/08/26/brand-usa-ceo-fred-dixon-nyc-tourism/) — *Skift*
+
+### 2. Theme Parks Keep Closing. Why Dolly Parton’s Dollywood Bucks the Trend.
 
 [原文] As independent theme parks shutter and Six Flags sheds assets to pay down debt, Dolly Parton’s privately-held, non-franchise park is in the midst of a $500 million expansion.
 
 📎 [阅读原文](https://skift.com/2026/08/26/dolly-parton-dollywood-theme-park-success/) — *Skift*
 
-### 2. GMH Hotels: Harry Styles Is Moving Hotel Markets.
+### 3. GMH Hotels: Harry Styles Is Moving Hotel Markets.
 
 [原文] On this week's ⁠Good Morning Hospitality, A Skift Podcast⁠: Hotels Edition, ⁠Sarah Dandashy⁠ and ⁠Steve Turk⁠ break down how demand is shifting across every segment of hospitality heading into Labor D
 
 📎 [阅读原文](https://skift.com/2026/08/26/gmh-hotels-harry-styles-is-moving-hotel-markets/) — *Skift*
 
-### 3. Rascal Voyages Bets on ‘Marine Safaris’ — and Freedom Over Formality
+### 4. Rascal Voyages Bets on ‘Marine Safaris’ — and Freedom Over Formality
 
 [原文] Rascal thinks the next frontier is not more formality, but access to remote places, useful freedom, and crews trained to improvise.
 
 📎 [阅读原文](https://skift.com/2026/08/26/rascal-voyages-bets-on-marine-safaris-and-freedom-over-formality/) — *Skift*
 
-### 4. Why Every Boutique Hotel Founder Eventually Sells
+### 5. Why Every Boutique Hotel Founder Eventually Sells
 
 [原文] Asset-light lets boutique hotel brands grow without owning the real estate. It also leaves behind exactly what the big hotel companies want to buy: the brand.
 
 📎 [阅读原文](https://skift.com/2026/08/26/why-every-boutique-hotel-founder-eventually-sells/) — *Skift*
-
-### 5. Skift Global Forum Preview: Virgin Atlantic’s CEO on Where AI Belongs and Where People Win
-
-[原文] Corneel Koster is betting Virgin Atlantic wins on what people feel, the sense of belonging a great crew creates, in an era where AI mediates the booking. He's backing that bet with premium cabins and 
-
-📎 [阅读原文](https://skift.com/2026/08/26/skift-global-forum-preview-virgin-atlantic-ceo-ai-people/) — *Skift*
 
 ---
 
