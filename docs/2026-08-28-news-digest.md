@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月28日** | 生成时间: 2026-08-28 06:00
+**2026年08月28日** | 生成时间: 2026-08-28 18:23
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say
+### 1. 'High risk' of lake breaching and causing second flood, warns China
 
-[原文] Preliminary investigations by scientists have pointed to a collapsed glacier as the cause, highlighting the issue of rapidly melting Himalayan ice.
+[原文] Authorities say a lake formed after a recent landslide near the Nepal-Tibet border may breach in the coming days.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cly464k252yo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/ckg8l2x8wr8o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. What we know about deadly Nepal-Tibet floods
+### 2. Trump administration illegally retaliated against Anthropic, judge rules
 
-[原文] Hundreds have died or are missing in Wednesday's flooding and landslides on the border of Nepal and Tibet.
+[原文] The AI startup has been at loggerheads with the Pentagon over the use of AI by the US military.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Convicted Bosnian Serb war criminal Mladić dies aged 84
+### 3. Tate brothers blast US jail conditions as they seek bail in UK extradition fight
 
-[原文] He was jailed for life in 2017 for genocide, war crimes and crimes against  humanity during the wars in the ex-Yugoslavia in 1992-95.
+[原文] Andrew and Tristan Tate's legal team argued in a Miami court that the two were not a flight risk.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5ywxpryj95o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c9v9nndjznvo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Jury deliberating in trial of Lindsay Clancy, US woman accused of killing her children
+### 4. What we know after the big Grand Theft Auto 6 preview
 
-[原文] Prosecutors argued Clancy made a calculated decision to murder the children, while the defence argued that she was suffering from postpartum psychosis.
+[原文] The official look at the blockbuster video game leaves fans and critics impressed.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c33keeyyv70o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c3d7exngd5no?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Norwegians lay flowers at palace as King Harald's condition worsens
+### 5. Trump signs order to rename Lake Ontario as Lake America
 
-[原文] The 89-year-old's condition is described as "extremely serious" and members of his family have visited him in hospital.
+[原文] Canada has rejected the new name of the lake, which straddles both countries, as their row deepens.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqxvrnvrr5do?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect
+### 1. Iran says return to diplomacy 'isn't impossible' — but all Mideast wars must end to reopen Hormuz
+
+[原文] Iran said the conflict in the Gaza Strip has to end, Israel has to withdraw from Lebanon and also halt its attacks on Syria.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/28/us-iran-war-trump-hormuz-oman-centcom.html) — *CNBC*
+
+### 2. Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect
 
 [原文] Prior Fed chairs have used the speech as an opportunity to lay out broad policy frameworks and intentions.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/27/fed-chairman-kevin-warsh-delivers-his-key-jackson-hole-speech-friday.html) — *CNBC*
 
-### 2. SK Hynix CEO says Indiana will be key memory production base by 2030, first U.S. facility now underway
+### 3. Marvell shares tumble 8% as outlook underwhelms despite 37% revenue growth
 
-[原文] At the groundbreaking ceremony for SK Hynix's first U.S. facility, CEO Kwak Noh-Jung says Indiana will be a key memory production base by 2030.
+[原文] Marvell Technology shares fell 8% in premarket trading despite a second-quarter revenue beat, as its fiscal 2028 outlook failed to meet investors' expectations.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/27/sk-hynix-ceo-says-indiana-will-be-key-memory-production-base-by-2030.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/28/marvell-mrvl-q2-earnings-outlook.html) — *CNBC*
 
-### 3. Trump signs order to rename Lake Ontario 'Lake America' amid Canada trade war
+### 4. Russian forces intensify attacks in Donetsk as Ukraine lauds fresh EU push to unlock frozen assets
 
-[原文] President Donald Trump signed an executive order that he said will "immediately" change the name of Lake Ontario to "Lake America."
+[原文] Russia claims advances toward Sloviansk and Kramatorsk as fighting intensifies in Donetsk.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/27/trump-canada-lake-america-ontario.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/28/russia-donetsk-ukraine-frozen-assets.html) — *CNBC*
 
-### 4. SpaceX shares are doing something very unusual. Options traders are taking note
+### 5. Trump ratchets up rhetoric against Beijing as U.S.-China officials meet for Xi's Washington visit
 
-[原文] After debuting as the most volatile stock among its large-cap peers, Elon Musk's astronomic equity hasn't moved in three weeks.
+[原文] U.S. and Chinese officials met in Beijing this week, despite the White House's tough talk on China.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/27/spacex-shares-are-doing-something-very-unusual-options-traders-are-taking-note.html) — *CNBC*
-
-### 5. Gap shares jump 12% after company names new Old Navy CEO to revive struggling brand
-
-[原文] Gap announced a new CEO for Old Navy on Thursday as the brand reported a decline in comparable sales for the most recent quarter.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/27/gap-q2-2026-earnings.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/28/trump-x-meeting-us-china-iran-sanctions.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Rivian’s CFO is leaving the company
+### 1. As electric two-wheelers gain a foothold, Belgian startup Any bets on cargo space
+
+[原文] Launched by Belgian startup Any, LUV1 is a modular electric motorcycle with 120 liters of cargo space that can be used to carry bags, work equipment, or even pets.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/28/as-electric-two-wheelers-gain-a-foothold-belgian-startup-any-bets-on-cargo-space/) — *TechCrunch*
+
+### 2. AI, athletes, and Keith Rabois: StrictlyVC is back in New York on September 10
+
+[原文] A boutique StrictlyVC evening returns to New York's West Village on September 10 with Keith Rabois, Craig Shapiro, Jason Levien, Tristan Walker, Brynn Putnam, and Deven Parekh — covering AI, sports in
+
+📎 [阅读原文](https://techcrunch.com/2026/08/27/ai-athletes-and-keith-rabois-strictlyvc-is-back-in-new-york-on-september-10/) — *TechCrunch*
+
+### 3. Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026
+
+[原文] At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/) — *TechCrunch*
+
+### 4. Rivian’s CFO is leaving the company
 
 [原文] Claire McDonough is stepping down on October 30 to pursue a new opportunity, the company said in a filing on Thursday.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/27/rivians-cfo-is-leaving-the-company/) — *TechCrunch*
 
-### 2. Bluesky adds an ‘algorithmic opt-out’ feature for those who don’t want to go viral
+### 5. Bluesky adds an ‘algorithmic opt-out’ feature for those who don’t want to go viral
 
 [原文] Sometimes people just want to post to their followers, Bluesky says.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/27/bluesky-adds-an-algorithmic-opt-out-feature-for-those-who-dont-want-to-go-viral/) — *TechCrunch*
-
-### 3. Buried in Meta’s $18B settlement is a legal pass on kids’ data
-
-[原文] Meta’s settlement with 29 states allows it to retain certain data from children under 13 to train and test age-detection models, highlighting a privacy trade-off built into the deal.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/) — *TechCrunch*
-
-### 4. YouTube now lets creators tag Amazon products and earn commissions from purchases
-
-[原文] The update turns product recommendations into a more direct revenue stream for creators, and for Amazon, the move puts its massive online marketplace inside one of the most popular video platforms.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/27/youtube-now-lets-creators-tag-amazon-products-and-earn-commissions-from-purchases/) — *TechCrunch*
-
-### 5. Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google
-
-[原文] Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/) — *TechCrunch*
 
 ---
 
@@ -130,35 +130,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Your dislike of eating bugs may be 9,000 years old
+### 1. Scientists tested 212 plant-based meat alternatives. Every one contained fungal toxins
+
+[原文] Every one of 212 plant-based meat alternatives and drinks tested in the UK contained at least one naturally occurring fungal toxin, though concentrations remained below recommended EU guideline levels
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260828005216.htm) — *Science Daily*
+
+### 2. Scientists tracked 4,500 animals and found a surprising human effect
+
+[原文] Scientists tracking thousands of animals found that our physical presence can reshape where wildlife moves and lives, sometimes as strongly as roads, cities, and other human development. Because diffe
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260827010517.htm) — *Science Daily*
+
+### 3. Your dislike of eating bugs may be 9,000 years old
 
 [原文] Ancient teeth and human DNA are revealing a surprising history of insect eating. Modern humans in northern Eurasia appear to have eaten insects only occasionally, while Neanderthals may have consumed 
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260827010516.htm) — *Science Daily*
 
-### 2. “I jumped from my chair” – Astronomers spot Betelgeuse’s hidden companion
+### 4. “I jumped from my chair” – Astronomers spot Betelgeuse’s hidden companion
 
 [原文] Astronomers have captured their clearest image yet of Betelgeuse’s long-suspected companion, potentially ending a search that lasted about 100 years. The surprisingly massive hidden star could help ex
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260827010514.htm) — *Science Daily*
 
-### 3. Vitamin C won’t prevent most colds, but it may do one small thing
+### 5. Vitamin C won’t prevent most colds, but it may do one small thing
 
 [原文] The belief that huge doses of vitamin C can ward off colds was popularized more than 50 years ago by Nobel Prize winner Linus Pauling. Since then, larger studies have found that vitamin C does not pre
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260827010507.htm) — *Science Daily*
-
-### 4. AI searched 100 million possibilities and found a cheaper way to 3D-print a NASA rocket alloy
-
-[原文] Researchers used AI to search through more than 100 million possible settings for 3D-printing a high-performance NASA alloy. After only 40 experiments, the system identified six successful configurati
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260827010504.htm) — *Science Daily*
-
-### 5. A mysterious cosmic hum may come from 13-billion-year-old dark stars
-
-[原文] Today’s mysterious gravitational-wave background may preserve clues about how the Universe’s first supermassive black holes formed. Descendants of hypothetical Dark Stars could be responsible for a ma
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/08/260827010457.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. 'Mortified' McInnes takes responsibility for Rangers' European exit
+### 1. What is the aim for Kompany, Kane and Bayern?
 
-[原文] Manager Derek McInnes says he takes "full responsibility" for Rangers' "embarrassing" Conference League exit at the hands of Jablonec.
+[原文] Bayern Munich start their latest title defence as overwhelming odds-on favourites to win the Bundesliga again - so what would constitute success?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c4gvxw90428o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cvg967e3qqdo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Man City and Aston Villa to face holders PSG in Champions League
+### 2. Callaway drops golf brand over sexist video row
 
-[原文] European champions Paris St-Germain will face Premier League duo Manchester City and Aston Villa in the league phase of this season's Champions League.
+[原文] Golf club manufacturer Callaway ends its partnership with content creator Good Good with immediate effect and donates $1m to women's charity after promoting advert that shows a woman being pushed over
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c5ywxxll10jo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/ckgw7ex5085o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Chelsea agree £7.5m fee for Villa's Martinez
+### 3. Will fast-tracked Itauma become world champion at 21?
 
-[原文] Chelsea agree a £7.5m fee to sign Aston Villa goalkeeper Emiliano Martinez.
+[原文] Can heavyweight Moses Itauma become world champion at 21 by beating Filip Hrgovic on Saturday or has the fast-tracked Briton arrived too soon?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c1j4r033wxzo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/articles/cz7z3er7r45o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Werro edges closer to 800m mark as world records fall in Zurich
+### 4. Artist defends 'unfinished' O'Sullivan mural
 
-[原文] European champion Audrey Werro came tantalisingly close to downing the oldest outdoor world record in athletics, finishing a little more than four tenths of a second off Jarmila Kratochvilova's 800m m
+[原文] The mural on a snooker club wall has gone viral - but artist says "touch-ups" are still needed.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/cgmrvyjn1nvo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cg5978p1vyro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Smith & Cox help England to 248-9 on truncated day one
+### 5. Why wildcards abound for Venus Williams
 
-[原文] Jamie Smith and Jordan Cox battle difficult conditions and an improved Pakistan performance to take England to a competitive total on the opening day of the second Test.
+[原文] Venus Williams has not won a singles match in over a year but has received numerous wildcards to compete. The reasons why go beyond just tennis.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cddv00z4609o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/c14d8lg0grpo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Andrea Eastman, ‘The Godfather’ Casting Director and Former Hollywood Agent, Dies at 86
+### 1. Gangland Action Thriller ‘Nozem’ From Director Scott Vickers to Star Buddy Boerkoel, Daniel Fathers (EXCLUSIVE)
 
-[原文] Andrea Eastman, the casting director for “The Godfather” and former Hollywood agent, died on Wednesday at her home in Santa Barbara. She was 86. Entering the film industry at a time when it was domina
+[原文] Brit director Scott Vickers has lined up the cast for upcoming Amsterdam-set gangland thriller &#8220;Nozem,&#8221; which starts shooting in the Dutch capital next week. Led by the film&#8217;s writer
 
-📎 [阅读原文](https://variety.com/2026/biz/news/andrea-eastman-dead-godfather-1236845555/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/nozem-scott-vickers-buddy-boerkoel-daniel-fathers-1236844850/) — *Variety*
 
-### 2. ‘Scooby-Doo’ Netflix Series Casts Andre 3000, Cathy Moriarty
+### 2. Nicola Coughlan, Matt Lucas, Hugh Bonneville and More Back Campaign Against AI Voice Cloning: ‘An Existential Threat to Our Entire Industry’
 
-[原文] The &#8220;Scooby-Doo&#8221; live-action Netflix series has added both Andre &#8220;3000&#8221; Benjamin and Cathy Moriarty in recurring roles. The series, which is officially titled &#8220;Scooby-Doo
+[原文] Nicola Coughlan, Matt Lucas and Hugh Bonneville are among the high-profile names backing a new campaign against AI voice cloning. Titled &#8220;Save Our Voices Now,&#8221; the initiative calls for gre
 
-📎 [阅读原文](https://variety.com/2026/tv/news/scooby-doo-netflix-series-cast-andre-3000-cathy-moriarty-1236845596/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/digital/global/nicola-coughlan-matt-lucas-ai-voice-cloning-law-1236845817/) — *Variety*
 
-### 3. Katseye Drops Out of Olivia Rodrigo’s Daisy Chain Fields Festival: ‘It Breaks Our Hearts’
+### 3. Joachim Trier’s ‘Sentimental Value’ Drives Arthouse Success From Taiwan to Romania as Distributors Reveal Nordic Playbook
 
-[原文] Katseye has dropped out of Olivia Rodrigo&#8217;s Daisy Chain Fields Festival slated to take place in Irvine, California, this Saturday, citing member Megan Skiendiel&#8217;s ankle injury as the reaso
+[原文] Joachim Trier’s Cannes Grand Prix winner “Sentimental Value,” starring Renate Reinsve, Stellan Skarsgård and Elle Fanning, is providing independent distributors with a potent case study in how Nordic 
 
-📎 [阅读原文](https://variety.com/2026/music/news/katseye-drops-out-daisy-chain-festival-it-breaks-our-hearts-1236845576/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/joachim-trier-sentimental-value-hlynur-palmason-1236845133/) — *Variety*
 
-### 4. J. Smith-Cameron Joins ‘Law & Order: SVU’ in Recurring Role
+### 4. Sabu Unpacks ‘Arrested Memory’ Ahead of Venice, Toronto Bows as Trailer Debuts (EXCLUSIVE)
 
-[原文] J. Smith-Cameron is heading to the courthouse. The Emmy nominee has joined the upcoming Season 28 of &#8220;Law &#38; Order: SVU&#8221; in a recurring role. She will play jury consultant Gwen Sharpe, 
+[原文] Sabu, the Japanese director of Venice and Toronto-bound &#8220;Arrested Memory,&#8221; says the film&#8217;s nearly two-decade journey to the screen – after stalled attempts to shoot in Germany, Korea
 
-📎 [阅读原文](https://variety.com/2026/tv/news/j-smith-cameron-law-and-order-svu-1236845550/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/sabu-arrested-memory-venice-toronto-1236845823/) — *Variety*
 
-### 5. Mike Leigh Has Spent 50 Years Refusing to Compromise. He’s Not Starting Now.
+### 5. ‘The Bothersome Man’ Director Jens Lien Tackles Automation Anxiety in ‘Joe’s Assignment’ (EXCLUSIVE)
 
-[原文] No one tells Mike Leigh what his movie is about. Not financiers, not distributors, not even Netflix, which he says could fund him “without batting an eyelid” but never has. At 83, Leigh is exactly the
+[原文] Jens Lien, the Norwegian filmmaker behind cult dystopian comedy “The Bothersome Man” and HBO Nordic sci-fi satire “Beforeigners,” is returning to speculative territory with “Joe’s Assignment,” a near-
 
-📎 [阅读原文](https://variety.com/2026/film/features/mike-leigh-tender-loving-care-final-film-harvey-weinstein-oscars-1236841786/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/bothersome-man-jens-lien-joes-assignment-1236844917/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. In GTA 6 You’re Not Just Wanted, You’re Hunted
+### 1. How the GTA 6 Map Size Stacks Up to Other Rockstar Games Like RDR2 and GTA 5
 
-[原文] The wanted system in GTA 6 has been totally overhauled to give the police even more tools to hunt you, as well as new methods for players to evade being busted.
+[原文] Grand Theft Auto 6's map is significantly larger than Rockstar's previous games; here's how it compares to the studio's other titles.
 
-📎 [阅读原文](https://www.ign.com/articles/gta-6-wanted-system-explained) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/how-the-gta-6-map-size-stacks-up-to-other-rockstar-games-like-rdr2-and-gta-5) — *IGN*
 
-### 2. The Way You Steal Cars in GTA 6 Completely Changes the Game
+### 2. The Whisper Man Review
 
-[原文] Stealing cars is no longer a case of just tapping a button in GTA 6. Rockstar reveals how it has added “layers of stratification” to make the theft in Grand Theft Auto a little more challenging.
+[原文] The Whisper Man review: Robert De Niro and Adam Scott headline a trope-heavy thriller that feels like a throwback to another era.
 
-📎 [阅读原文](https://www.ign.com/articles/gta-6-car-steal-system-explained) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/the-whisper-man-review-netflix) — *IGN*
 
-### 3. Here's Every Song Featured in Rockstar's GTA 6 Extended Look
+### 3. Here's Your Last Chance to Get a Nintendo Switch 2 Console for $399.99 Before the September 1 Price Hike
 
-[原文] Rockstar Games' first official extended look at Grand Theft Auto 6 featured a lot of licensed music, and we've got the list of every song it featured right here.
+[原文] Save $100 off a refurbished Switch 2 console compared to the upcoming list price of $500.
 
-📎 [阅读原文](https://www.ign.com/articles/heres-every-song-featured-in-rockstars-gta-6-extended-look) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/nintendo-switch-2-deal-last-chance) — *IGN*
 
-### 4. For Today Only, Best Buy Has an iBuyPower RTX 5080 Prebuilt Gaming PC for Just $2,500
+### 4. The X-Tech Executive Chair Aims to Upend Premium Models from Herman Miller, Steelcase at a Better Price
 
-[原文] 4K powerhouse.
+[原文] Battle of the super premium tier chairs.
 
-📎 [阅读原文](https://www.ign.com/articles/ibuypower-slate-rtx-5080-prebuilt-gaming-pc-deal-august-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/x-tech-executive-chair-aims-to-upend-premium-models-from-herman-miller-steelcase) — *IGN*
 
-### 5. Get a Cordless Rechargeable Electric Air Duster for Your PC Maintenance for Just $19.99
+### 5. Why Even Consider a Projector When Costco Has an Excellent 100" Hisense 4K TV for Just $1,500?
 
-[原文] Say goodbye to buying compressed air canisters in bulk.
+[原文] This massive TV even comes with an extended 5 year warranty.
 
-📎 [阅读原文](https://www.ign.com/articles/cordless-electric-air-duster-deal-august-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/100-inch-hisense-qd7-4k-tv-deal-labor-day) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post 2028 Bentley Torcal First Ride: A Luxury EV that Moves to a Different B
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. As Oceans Warm, Children Face Growing Malnutrition Risk
+### 1. Can California Farmers Break Free From Plastic?
+
+[原文] Farmers have relied on plastic since the 1960s, when the mass production of affordable agricultural tools derived from petrochemicals made them widely accessible. Plastic mulch quickly became a corner
+
+📎 [阅读原文](https://insideclimatenews.org/news/28082026/california-farms-plastic-reliance/) — *Inside Climate News*
+
+### 2. A Montana Community Rallies to Save Its Beloved Ski Hill
+
+[原文] When the Sand Creek Fire crested Montana’s Maverick Mountain 16 days ago, Cory Birkenbuel watched as firefighters and aircraft fought to keep the flames from taking a place that had been part of his l
+
+📎 [阅读原文](https://insideclimatenews.org/news/28082026/montana-ski-hill-sand-creek-fire-damage/) — *Inside Climate News*
+
+### 3. 20,000 Salmon Return to the Klamath—but Challenging Conditions for Recovery Remain
+
+[原文] In August 2024, excavation crews breached the last of four dams on the Klamath River in far northern California, marking the first time in over a century 100 years that salmon could swim above the dam
+
+📎 [阅读原文](https://insideclimatenews.org/news/27082026/salmon-return-to-klamath-river-after-dam-removals/) — *Inside Climate News*
+
+### 4. Empoderando a las comunidades guatemaltecas afectadas por el plástico
+
+[原文] Read this article in English. Esta historia cuenta con el apoyo del Centro Pulitzer. JALAPA, Guatemala—En una tarde calurosa y bochornosa, en el pequeño pueblo montañoso de El Duraznal, Soila Elizabet
+
+📎 [阅读原文](https://insideclimatenews.org/news/27082026/empoderando-a-las-comunidades-guatemaltecas-afectadas-por-el-plastico/) — *Inside Climate News*
+
+### 5. As Oceans Warm, Children Face Growing Malnutrition Risk
 
 [原文] When ocean temperatures soar, the consequences reverberate beyond the water. In coastal communities, marine heat waves threaten livelihoods, food security and human health—particularly the well-being 
 
 📎 [阅读原文](https://insideclimatenews.org/news/27082026/marine-heat-threatens-childrens-health/) — *Inside Climate News*
-
-### 2. Global Warming Intensifies El Niño, Galápagos Coral Fossils Show
-
-[原文] Researchers analyzing modern and fossil corals from the Galápagos Islands concluded that global warming has intensified El Niño cycles over the last 40 years, making them more extreme than natural var
-
-📎 [阅读原文](https://insideclimatenews.org/news/27082026/global-warming-intensifies-el-nino/) — *Inside Climate News*
-
-### 3. Rooftop Solar Is Having a Rough One
-
-[原文] Rooftop solar installers feel like a dog that’s been repeatedly kicked. President Donald Trump has made solar more expensive—or at least slowed the long-term decline in costs—by imposing tariffs on im
-
-📎 [阅读原文](https://insideclimatenews.org/news/27082026/inside-clean-energy-rooftop-solar-sales/) — *Inside Climate News*
-
-### 4. Corpus Christi Withholds Water to Wetlands While Lifting Restrictions on Lawns
-
-[原文] Environmental regulators in Texas issued an emergency order on Tuesday evening suspending requirements for the drought-stricken city of Corpus Christi to release water from its reservoir system in sup
-
-📎 [阅读原文](https://insideclimatenews.org/news/27082026/corpus-christi-withholds-wetlands-water-while-lifting-lawn-restrictions/) — *Inside Climate News*
-
-### 5. As Water Pollution Concerns Grow in Iowa, So Do Fertilizer Industry Profits
-
-[原文] As farmers balk at skyrocketing fertilizer costs and runoff threatens drinking water sources in Iowa, North American manufacturers are raking in cash. Illinois-based CF Industries and Canadian company
-
-📎 [阅读原文](https://insideclimatenews.org/news/27082026/fertilizer-industry-profits-grow/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post 2028 Bentley Torcal First Ride: A Luxury EV that Moves to a Different B
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Dolly Parton’s Streams Soar More Than 2,000 Percent After Her Death
+### 1. Ice Spice, Lil Yachty Team Up for Single ‘Out My Face (My Baby)’
 
-[原文] "Jolene" and "9 to 5" were Parton's most played songs since her death on Tuesday
+[原文] The duo also filmed a music video for the track, which was directed by AMD and Little Miles
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/dolly-partons-music-2000-percent-audio-only-streams-1235616785/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/ice-spice-lil-yachty-out-my-face-my-baby-single-1235617242/) — *Rolling Stone*
 
-### 2. Dolly Parton’s Sister Stella Honors Singer: ‘Dolly Loved the World and Everyone in It’
+### 2. Jelly Roll Finally Addresses His Political Views: ‘Human Dignity Isn’t Republican or Democrat’
 
-[原文] “My sister was one of the most generous, thoughtful, and kind people I’ve ever known,” she writes in online tribute
+[原文] The country singer delivered an emotional monologue while guest-hosting Jimmy Kimmel Live
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/dolly-parton-sister-stella-tribute-1235616754/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/jelly-roll-politics-grammys-kimmel-monologue-1235617235/) — *Rolling Stone*
 
-### 3. Watch Adele Perform ‘When We Were Young’ in Yayoi Kusama’s Infinity Mirrored Room
+### 3. J. Cole Cancels Concert After Touring Crew Member’s Death
 
-[原文] The acclaimed Japanese artist, whose installation became the set of the singer’s 2016 Brit Awards performance, died earlier this month
+[原文] The rapper's show in Sacramento on Thursday was cut after the tragic accident
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/yayoi-kusama-dead-watch-adele-perform-in-mirrored-room-1235616601/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/j-cole-cancels-concert-crew-member-death-1235617197/) — *Rolling Stone*
 
-### 4. ‘I Want to Be the Prima of Pop One Day’: Adéla Talks Upcoming Debut, Worshipping Beyoncé
+### 4. Actually, Zara Larsson Isn’t Eligible For Best New Artist. She’s Already a Grammy Nominee
 
-[原文] The rising pop star goes deep on seeing Queen Bey in 2013 — and a few other superstars in her playlist — in the latest episode of Song Shuffle
+[原文] Larsson said she didn't want to submit for the category in an interview circulating the internet. But she can't — here's why
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/adela-song-shuffle-1235614691/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/zara-larsson-best-new-artist-grammy-eligible-1235617035/) — *Rolling Stone*
 
-### 5. David Byrne’s Baltimore Shows Set for Concert Film by ‘Brutalist’ Director Brady Corbet
+### 5. Katseye Drops Out of Olivia Rodrigo’s Daisy Chain Fields Festival After Member Sprains Ankle
 
-[原文] “When Brady told me he wanted to shoot our show in 70 millimeter (70 millimeter!) I didn’t realize what a difference it would make,” singer says of upcoming documentary
+[原文] The superstar group were set to perform this Saturday in Southern California
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/david-byrne-baltimore-shows-concert-film-brady-corbet-1235616620/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/katseye-olivia-rodrigo-daisy-chain-fields-festival-drop-out-1235617116/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post 2028 Bentley Torcal First Ride: A Luxury EV that Moves to a Different B
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Carl Icahn’s JetBlue Bet Didn’t Pay Off: Board Members Resign as Stake Shrinks
+### 1. Cheval Is Riding Out Dubai’s Demand Slump On Long-Stay Guests
+
+[原文] Cheval is betting Dubai’s domestic demand can carry it to recovery. S&P doesn’t see that recovery until 2027.
+
+📎 [阅读原文](https://skift.com/2026/08/28/cheval-is-riding-out-dubais-demand-slump-on-long-stay-guests/) — *Skift*
+
+### 2. Motel 6’s Power: What Prism’s Annual Report Reveals Ahead of Its IPO
+
+[原文] Prism has arguably built a much more sophisticated company than the Oyo of its first IPO attempt. An American-heavy, India-operated hospitality platform that wants to use technology to take more contr
+
+📎 [阅读原文](https://skift.com/2026/08/27/motel-6s-power-what-prisms-annual-report-reveals-ahead-of-its-ipo/) — *Skift*
+
+### 3. Carl Icahn’s JetBlue Bet Didn’t Pay Off: Board Members Resign as Stake Shrinks
 
 [原文] Icahn hasn’t had the same success as activist campaigns at Southwest. JetBlue’s stock has continued to decline since he first disclosed his stake.
 
 📎 [阅读原文](https://skift.com/2026/08/27/carl-icahn-two-jetblue-board-picks-resign/) — *Skift*
 
-### 2. Why Flight Attendants Are Fighting Google’s Purchase of Spirit Airlines Data
+### 4. Why Flight Attendants Are Fighting Google’s Purchase of Spirit Airlines Data
 
 [原文] Spirit says it is working with a third-party to scrub any personal information from the data before the transaction is approved.
 
 📎 [阅读原文](https://skift.com/2026/08/27/why-flight-attendants-are-fighting-googles-purchase-of-spirits-data/) — *Skift*
 
-### 3. Google’s Agentic Hotel Booking Tool Comes to AI Mode
+### 5. Google’s Agentic Hotel Booking Tool Comes to AI Mode
 
 [原文] Google's agentic hotel booking is finally launching in AI Mode, nine months after it was first teased. Skeptics may see it as a redux of the shuttered Book on Google tool, but here's why the company t
 
 📎 [阅读原文](https://skift.com/2026/08/27/googles-agentic-hotel-booking-tool-comes-to-ai-mode/) — *Skift*
-
-### 4. More Americans Could Soon Be Eligible for Online Passport Renewals
-
-[原文] The State Department has proposed a new rule that would allow online passport renewals for Americans overseas and lift restrictions for domestic online renewal eligibility.
-
-📎 [阅读原文](https://skift.com/2026/08/27/passport-renewal-expand-americans-overseas/) — *Skift*
-
-### 5. The UK’s Airport Record Hides a Huge Traffic Shift
-
-[原文] A record quarter for UK airports was less a boom than a reshuffle: Gulf traffic collapsed as low-cost carriers and European leisure routes picked up the slack.
-
-📎 [阅读原文](https://skift.com/2026/08/27/the-uks-airport-record-hides-a-huge-traffic-shift/) — *Skift*
 
 ---
 
