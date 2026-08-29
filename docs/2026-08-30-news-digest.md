@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月30日** | 生成时间: 2026-08-30 00:27
+**2026年08月30日** | 生成时间: 2026-08-30 04:40
 
 ---
 
@@ -28,23 +28,23 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil
+### 3. Right-wing commentator Milo Yiannopoulos deported from US to UK
 
-[原文] Venezuelan interim president says the unusual agreement will help revive her country's economy.
+[原文] The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Landlady to 9/11 hijackers reveals their links to alleged Saudi spy
+### 4. Norway's new king remembers 'my dear father' in first speech
 
-[原文] A woman who rented out homes to two al-Qaeda members speaks publicly for the first time - to the BBC.
+[原文] Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Norway mourns King Harald as Haakon VIII ascends throne
+### 5. Former Ecuadorian president imprisoned for corruption
 
-[原文] Mourners gather outside the palace as royals, politicians and citizens remember a beloved king, whose son has adopted the family motto "all for norway".
+[原文] Lenín Moreno denies taking bribes from a Chinese firm to secure a contract to build a hydroelectric plant.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Tech backlash reaches fever pitch as AI angst collides with social media fears
-
-[原文] With data center concerns becoming a major election issue and Meta reaching a landmark settlement in a social media case, the tech backlash is gaining steam.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/29/tech-backlash-ai-data-centers-elections.html) — *CNBC*
-
-### 2. Trump announces deal with Venezuela to secure more than 65 billion barrels of oil reserves
-
-[原文] The U.S. struck a deal with Venezuela to get majority control of more than 65 billion barrels of oil reserves, Trump said in a social media post.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/28/trump-announces-deal-with-venezuela-to-secure-more-than-65-billion-barrels-of-oil-reserves.html) — *CNBC*
-
-### 3. K, C or E? Why economists can’t agree on the shape of today’s economy
+### 1. K, C or E? Why economists can’t agree on the shape of today’s economy
 
 [原文] Economists have long viewed the post-pandemic economy as "K"-shaped. That consensus has now evaporated.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/29/k-shaped-economy-c-shaped-e-shape.html) — *CNBC*
 
-### 4. Iran trade falls as Supreme Leader Khamenei urges less reliance on the U.S. dollar
+### 2. OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX
+
+[原文] OpenAI plans to end model access through Cursor on Nov. 12, citing concerns after SpaceX’s $60 billion acquisition of the coding startup.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html) — *CNBC*
+
+### 3. Tech backlash reaches fever pitch as AI angst collides with social media fears
+
+[原文] With data center concerns becoming a major election issue and Meta reaching a landmark settlement in a social media case, the tech backlash is gaining steam.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/29/tech-backlash-ai-data-centers-elections.html) — *CNBC*
+
+### 4. Trump announces deal with Venezuela to secure more than 65 billion barrels of oil reserves
+
+[原文] The U.S. struck a deal with Venezuela to get majority control of more than 65 billion barrels of oil reserves, Trump said in a social media post.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/28/trump-announces-deal-with-venezuela-to-secure-more-than-65-billion-barrels-of-oil-reserves.html) — *CNBC*
+
+### 5. Iran trade falls as Supreme Leader Khamenei urges less reliance on the U.S. dollar
 
 [原文] Iran's president says sanctions are hitting imports and exports, as its supreme leader urges less reliance on the U.S. dollar.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/29/iran-trade-sanctions-dollar-oil-exports.html) — *CNBC*
-
-### 5. Buffett remains active at 96, but Berkshire's shares aren't doing much
-
-[原文] Warren Buffett will be celebrating his 96th birthday on Sunday, but Berkshire Hathaway investors aren't celebrating the stock's anemic performance.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/29/buffett-remains-active-at-96-but-berkshires-shares-arent-doing-much.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Hollywood celebs are getting into microdrama apps
+### 1. Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft
+
+[原文] This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/) — *TechCrunch*
+
+### 2. At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?
+
+[原文] Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/) — *TechCrunch*
+
+### 3. “We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z
+
+[原文] Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a "discovery" science to an "en
+
+📎 [阅读原文](https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/) — *TechCrunch*
+
+### 4. Hollywood celebs are getting into microdrama apps
 
 [原文] Several Hollywood celebs are ditching the massive eight-figure checks and exotic movie sets for a rising format: microdramas.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/) — *TechCrunch*
 
-### 2. The Theragun Sense makes everyday recovery surprisingly easy
+### 5. The Theragun Sense makes everyday recovery surprisingly easy
 
 [原文] As my 20s are set to come to an end later this year, I’ve officially reached the age where sleeping in the wrong position or stretching just a little too far can cause aches and pains. I’ve always bee
 
 📎 [阅读原文](https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/) — *TechCrunch*
-
-### 3. Nvidia’s AI advantage is moving beyond the GPU
-
-[原文] The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/) — *TechCrunch*
-
-### 4. Chinese automakers are following Tesla’s bet that robots are the next big profit machine
-
-[原文] Technical progress has encouraged a new batch of companies to jump in on the promise of profits from humanoid robots. And they're all Chinese automakers.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/) — *TechCrunch*
-
-### 5. Is the best way to watch a movie on a pair of sunglasses?
-
-[原文] Are XREAL's smart glasses the way of the future for home entertainment?
-
-📎 [阅读原文](https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. 'That trust isn't there' - how does Iraola get best out of Isak?
+### 1. Man City open talks with Liverpool over Gakpo
 
-[原文] Alexander Isak scored his first goal of the season in the 2-2 draw against Nottingham Forest - but how do Liverpool get the best out of him?
+[原文] Manchester City open talks with Liverpool about signing Netherlands winger Cody Gakpo.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cgjq65nvw38o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c39m0z4m2mpo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Leader Pogacar abandons Vuelta after crash
+### 2. Decision to curtail play at Lord's 'a joke' - Hussain
 
-[原文] Race leader Tadej Pogacar pulls out of the Vuelta a Espana after crashing during stage eight of the three-week race.
+[原文] The decision to abandon play an hour early after a rain-hit third day of England’s second Test against Pakistan is criticised by former captain Nasser Hussain and fans.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c1l6njn2vm8o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. Pogacar requires surgery after Vuelta crash
+
+[原文] Tadej Pogacar needs surgery on a broken collarbone after sustaining multiple injuries in the crash that led to him abandoning the Vuelta a Espana.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/cycling/articles/c0qx0ndg373o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Iraola angry as official's board delays subs before goal
+### 4. Tonali struggles but Gonzalez impresses - player ratings for Tottenham v Newcastle
 
-[原文] Liverpool boss Andoni Iraola says he was angry about being prevented from making a triple substitution sooner during his side's draw against Nottingham Forest.
+[原文] How Tottenham Hotspur and Newcastle United's players rated following Saturday's 2-0 win for the visitors in their Premier League match.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cd795e9ejgzo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c93e8qv2qq0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Gibbs-White shines - player ratings for Liverpool v Nottm Forest
+### 5. South Africa hold off All Blacks fightback to level series
 
-[原文] How Liverpool and Nottingham Forest's players rated following their Premier League match.
+[原文] World champions South Africa deliver a powerful first-half performance as they edge past New Zealand and level 'Rugby's Greatest Rivalry' series at 1-1.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ckgwnnj281no?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Itauma v Hrgovic - heavyweight world title fight predictions
-
-[原文] Figures from the boxing world give their predictions for Saturday's heavyweight world title fight between Moses Itauma and Filip Hrgovic.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/articles/c5ye30735xpo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-union/articles/c1mvred1l7do?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Box Office: ‘The Dog Stars’ Struggles With Just $3 Million on Friday; ‘Spider-Man: Brand New Day’ to Win Weekend Again
+### 1. Venice Film Festival Jury Press Conference ‘Probably Not’ Happening Due to Scheduling, Will Replace Event With Welcome Cocktails for Journalists
+
+[原文] The Venice Film Festival is weighing scrapping its traditional opening jury press conference on the Lido. The festival, which kicks off Sept. 2 with the world premiere of Danny Boyle&#8217;s &#8220;In
+
+📎 [阅读原文](https://variety.com/2026/film/global/venice-film-festival-jury-press-conference-canceled-1236846620/) — *Variety*
+
+### 2. Ray Winstone Told Off a Director Who Was ‘Groping’ His Female Co-Star During Filming: ‘Don’t You Dare Do That’
+
+[原文] Ray Winstone recently recalled to The Times of London that he once told off an unnamed director after he saw them “groping” his female co-star. “I had this director once,” Winstone said. “I was in a s
+
+📎 [阅读原文](https://variety.com/2026/tv/news/ray-winstone-told-off-director-groping-female-co-star-1236846594/) — *Variety*
+
+### 3. ‘New Girl’ Reunion Is Not Happening: ‘There Are No Scripts,’ Says Creator Liz Meriwether
+
+[原文] “New Girl” isn’t coming back anytime soon. Despite recent claims by Max Greenfield, who played Schmidt on the hit Fox sitcom, that he has read “amazing” scripts for a reunion, show creator Liz Meriwet
+
+📎 [阅读原文](https://variety.com/2026/tv/columns/new-girl-reunion-not-happening-no-scripts-liz-meriwether-britney-spears-1236846563/) — *Variety*
+
+### 4. Anne Hathaway Joins Tom Cruise in ‘Days of Thunder’ Follow-Up; Paramount Sets Release Date (EXCLUSIVE)
+
+[原文] Anne Hathaway will star opposite Tom Cruise in the next chapter of “Days of Thunder,” Variety has learned exclusively. Paramount Pictures has dated the feature film sequel for June 2, 2028, when Cruis
+
+📎 [阅读原文](https://variety.com/2026/film/news/anne-hathaway-tom-cruise-days-of-thunder-sequel-1236839347/) — *Variety*
+
+### 5. Box Office: ‘The Dog Stars’ Struggles With Just $3 Million on Friday; ‘Spider-Man: Brand New Day’ to Win Weekend Again
 
 [原文] 20th Century’s “The Dog Stars” and Keylight Pictures’ “Coyote vs. Acme” both debuted in theaters on Friday, but Sony and Marvel’s “Spider-Man: Brand New Day” will once again win the weekend. “Coyote v
 
 📎 [阅读原文](https://variety.com/2026/film/news/box-office-the-dog-stars-spider-man-brand-new-day-1236846559/) — *Variety*
-
-### 2. Here’s How to Watch Moses Itauma vs. Filip Hrgovic Boxing Pay-Per-View Live Online
-
-[原文] The best boxers in the world travel to London this weekend, where English fighter Moses Itauma (14-0-0) takes on Albanian Filip Hrgovic (20-2-0) in the heavyweight title main event on Saturday, Aug. 2
-
-📎 [阅读原文](https://variety.com/2026/shopping/news/how-to-watch-moses-vs-hrgovic-boxing-ppv-live-online-1236845973/) — *Variety*
-
-### 3. Here’s How to Watch the 2026-2027 NCAA College Football Season Live Online
-
-[原文] The new season is finally here! The 2026-2027 NCAA College Football season officially kicks off with its first big weekend of games starting on Saturday, Aug. 23. Starting on Saturday, Aug. 29, The fi
-
-📎 [阅读原文](https://variety.com/2026/shopping/news/how-to-watch-college-football-season-online-free-1235703850/) — *Variety*
-
-### 4. Chantelle Cameron vs. Mikaela Mayer Livestream: Here’s Where to Watch the Unification Title Bout Online for Free
-
-[原文] The best boxers in the world travel to England for the Most Valuable Promotions Women (MVPW) boxing event. For the main event, English Chantelle Cameron (22-1-0) takes on American boxer Mikaela Mayer 
-
-📎 [阅读原文](https://variety.com/2026/shopping/news/how-to-watch-chantelle-cameron-vs-mikaela-mayer-boxing-live-online-free-1236846060/) — *Variety*
-
-### 5. ‘The Song of Scorpions,’ ‘Qissa’ Director Anup Singh Sets Mumbai Film ‘Lasya: The Gentle Dance’ (EXCLUSIVE)
-
-[原文] Anup Singh, director of &#8220;Qissa&#8221; and &#8220;The Song of Scorpions,&#8221; is directing a new short film, &#8220;Lasya: The Gentle Dance,&#8221; shot on Mumbai&#8217;s streets, produced by M
-
-📎 [阅读原文](https://variety.com/2026/film/news/anup-singh-lasya-the-gentle-dance-mumbai-film-1236846494/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. IGN's Top-Reviewed Nintendo Switch 2 Games
+### 1. The Witcher 4 Will Have a Physical Edition Even if Discs Go Away, CD Projekt Red Confirms
 
-[原文] Not all Nintendo games are created equal. Here are the 10 best Nintendo games we've played in the Switch 2 generation.
+[原文] The Witcher 4 will still "have a box" for physical game collectors even after Sony stops supporting discs in 2028, CD Projekt Red has confirmed.
 
-📎 [阅读原文](https://www.ign.com/articles/best-reviewed-nintendo-switch-2-games) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/the-witcher-4-will-have-a-physical-edition-even-if-discs-go-away-cd-projekt-red-confirms) — *IGN*
 
-### 2. Everything Coming to Netflix in September
+### 2. Anne Hathaway Cast Opposite Tom Cruise in Days of Thunder Sequel
 
-[原文] Welcome in the fall with the xenomorph, some T-virus zombies, Bruce the shark, and more... all on Netflix
+[原文] Anne Hathaway will star opposite Tom Cruise in the sequel to Days of Thunder. The Oscar-winning star of The Odyssey and The End of Oak Street will play a team owner and engineer in the sequel, due out
 
-📎 [阅读原文](https://www.ign.com/articles/whats-new-on-netflix-september-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/anne-hathaway-tom-cruise-days-of-thunder-sequel-plot-release-date) — *IGN*
 
-### 3. Philips OneBlade vs Standard Razors: A Worthwhile Upgrade?
+### 3. Everything Coming to HBO Max in September
 
-[原文] The Philips OneBlade is available at a discount right now at Amazon - here's why it's ideal for your next shave.
+[原文] While the Paramount and Warner Bros. deal continues to sit in legal limbo, HBO Max is chugging along with another strong lineup of new additions in September.
 
-📎 [阅读原文](https://www.ign.com/articles/philips-oneblade-vs-traditional-razors) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/whats-new-on-hbo-max-september-2026) — *IGN*
 
-### 4. Join Us: Watch 11 Minutes of Exclusive Gameplay from the Upcoming Cult Simulator | gamescom 2026
+### 4. Ridley Scott Says Alien: Romulus 'Was OK,' So He's Returning to the Franchise Because It 'Needs Some Help'
 
-[原文] Wolf Haus Games revealed 11 minutes of gameplay for Join Us at gamescom 2026, alongside a PS5 announcement and a trailer featuring real-life former cult members.
+[原文] Director Ridley Scott said Alien: Romulus "was OK," so he's returning to the Alien franchise because it "needs some help."
 
-📎 [阅读原文](https://www.ign.com/articles/join-us-gameplay-ps5-release-gamescom) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/ridley-scott-says-alien-romulus-was-ok-so-hes-returning-to-the-franchise-because-it-needs-some-help) — *IGN*
 
-### 5. Dragon’s Dogma 2: Dark Arisen Will Send You On a Chilly Loot Grind | gamescom 2026
+### 5. Fibbage Card Game Review
 
-[原文] Dragon's Dogma 2's Dark Arisen expansion adds a whole new region with clever winter weather effects, an old-but-new loot grind, and... a dragon that vomits zombies. We're so back.
+暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/dragons-dogma-2-dark-arisen-will-send-you-on-a-chilly-loot-grind-gamescom-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/fibbage-card-game-review) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Study Finds Nissan Titan Headlight Glare Is 615% Over IIHS Limit, But Still Not Breaking the Law
+### 1. Tom Cruise Confirms ‘Days of Thunder’ Sequel Coming Summer 2028
+
+[原文] "Days of Thunder" is about to get the "Top Gun: Maverick" treatment, and Anne Hathaway will join Tom Cruise in the new movie.
+The post Tom Cruise Confirms &#8216;Days of Thunder&#8217; Sequel Coming S
+
+📎 [阅读原文](https://www.thedrive.com/news/tom-cruise-confirms-days-of-thunder-2-coming-summer-2028) — *The Drive*
+
+### 2. For Sale: 6×6 Ford Truck Developed as an Amphibious Military Prototype Circa 1960
+
+[原文] The U.S. Army passed on this aluminum-bodied cargo truck, sticking with more conventional designs. That doesn't mean you have to.
+The post For Sale: 6&#215;6 Ford Truck Developed as an Amphibious Mili
+
+📎 [阅读原文](https://www.thedrive.com/news/for-sale-6x6-ford-truck-developed-as-an-amphibious-military-prototype-circa-1960) — *The Drive*
+
+### 3. Worst Day at Work Ever: Semi-Truck Rolls Into Pipeline, Area Ruled No-Fly Zone
+
+[原文] A word of advice: If you're stopping near a natural-gas pipeline, make sure the parking brake is set.
+The post Worst Day at Work Ever: Semi-Truck Rolls Into Pipeline, Area Ruled No-Fly Zone appeared f
+
+📎 [阅读原文](https://www.thedrive.com/news/worst-day-at-work-ever-semi-truck-rolls-into-pipeline-area-ruled-no-fly-zone) — *The Drive*
+
+### 4. Study Finds Nissan Titan Headlight Glare Is 615% Over IIHS Limit, But Still Not Breaking the Law
 
 [原文] Full-size pickup trucks in general were the worst offenders for headlight glare.
 The post Study Finds Nissan Titan Headlight Glare Is 615% Over IIHS Limit, But Still Not Breaking the Law appeared firs
 
 📎 [阅读原文](https://www.thedrive.com/news/study-finds-nissan-titan-headlight-glare-is-615-over-iihs-limit-but-still-not-breaking-the-law) — *The Drive*
 
-### 2. Legit MotoGP Handlebar Sim Controller Promises More Immersive Game Experience Without Totally Sucking
+### 5. Legit MotoGP Handlebar Sim Controller Promises More Immersive Game Experience Without Totally Sucking
 
 [原文] Far from a toy, this could be the heart of an epic two-wheeled sim rig.
 The post Legit MotoGP Handlebar Sim Controller Promises More Immersive Game Experience Without Totally Sucking appeared first on
 
 📎 [阅读原文](https://www.thedrive.com/news/legit-motogp-handlebar-sim-controller-promises-more-immersive-game-experience-without-totally-sucking) — *The Drive*
-
-### 3. iRacing’s Long-Awaited Career Mode Is Nearly Here and Sounds Really Good
-
-[原文] iRacing's upcoming career mode requires no additional car or track purchases. Hooray!
-The post iRacing&#8217;s Long-Awaited Career Mode Is Nearly Here and Sounds Really Good appeared first on The Driv
-
-📎 [阅读原文](https://www.thedrive.com/news/iracings-long-awaited-career-mode-is-nearly-here-and-sounds-really-good) — *The Drive*
-
-### 4. This Chevy Cruze Powered a House for Five Days During an Emergency Outage
-
-[原文] Think you need a big EV to double as a whole-home generator? Well, this should make you reconsider.
-The post This Chevy Cruze Powered a House for Five Days During an Emergency Outage appeared first on
-
-📎 [阅读原文](https://www.thedrive.com/news/this-chevy-cruze-powered-a-house-for-five-days-during-an-emergency-outage) — *The Drive*
-
-### 5. VW California Cruise Is the ID Buzz Camper They Should’ve Built Yesterday
-
-[原文] VW is finally turning the ID Buzz into a camper at last, with a bed, folding table and chairs, blackout windows, and other conveniences.
-The post VW California Cruise Is the ID Buzz Camper They Should
-
-📎 [阅读原文](https://www.thedrive.com/news/vw-california-cruise-is-the-id-buzz-camper-they-shouldve-built-yesterday) — *The Drive*
 
 ---
 
@@ -439,35 +439,35 @@ The post VW California Cruise Is the ID Buzz Camper They Should
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Watch Bruce Springsteen and Bleachers Reunite to Sing ‘Jersey Girl’ and ‘Chinatown’ in Asbury Park
+### 1. See Kacey Musgrave Cover Dolly Parton’s ‘Here You Come Again’ in Boston
+
+[原文] Singer also dedicated "Rainbow" to the late country icon, revealing that Parton was the inspiration behind the song
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/kacey-musgrave-dolly-parton-here-you-come-again-boston-1235617792/) — *Rolling Stone*
+
+### 2. Watch Bruce Springsteen and Bleachers Reunite to Sing ‘Jersey Girl’ and ‘Chinatown’ in Asbury Park
 
 [原文] The duo last performed "Chinatown" live in 2020
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/bruce-springsteen-bleachers-perform-jersey-girl-chinatown-1235617724/) — *Rolling Stone*
 
-### 2. Taylor Swift Donates $50k to Help Mother Struck by Car
+### 3. Taylor Swift Donates $50k to Help Mother Struck by Car
 
 [原文] The superstar donated to a GoFundMe launched to help Ashley Taunton, who was hit by a vehicle while helping others on the side of a road
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/taylor-swift-donates-50k-mother-hit-by-car-1235617716/) — *Rolling Stone*
 
-### 3. Stella Lefty Interpolates the Chicks’ ‘There‘s Your Trouble’ on New Album
+### 4. Stella Lefty Interpolates the Chicks’ ‘There‘s Your Trouble’ on New Album
 
 [原文] A rep for Lefty confirmed to Rolling Stone that “Summer You Were Mine“ interpolates the Grammy-winning song after fans noticed similarities between the two tracks
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/stella-lefty-credit-the-chicks-summer-you-were-mine-1235616587/) — *Rolling Stone*
 
-### 4. No, Ice Spice Is Not Pregnant
+### 5. No, Ice Spice Is Not Pregnant
 
 [原文] After the rapper appeared to be heavily pregnant in the video for "Out My Face," fans took the imagery literally
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/ice-spice-not-pregnant-out-my-face-music-video-1235617619/) — *Rolling Stone*
-
-### 5. Lil Durk Murder-for-Hire Trial: Admitted Shooter Grilled on Cross, Confronted With Jail Calls
-
-[原文] Defense lawyer Brian Steel asserted that Kasey “OTF Jam” Hester invented claims against the “All My Life” rapper in the hopes of helping himself
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/lil-durk-murder-for-hire-trial-shooter-grilled-jail-calls-1235617554/) — *Rolling Stone*
 
 ---
 
