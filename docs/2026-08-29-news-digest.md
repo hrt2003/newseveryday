@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月29日** | 生成时间: 2026-08-29 05:56
+**2026年08月29日** | 生成时间: 2026-08-29 14:23
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Norway mourns King Harald as Haakon VIII ascends throne
+### 1. Footage of Tibet floods isn't being shown in China - and we know little about victims there
+
+[原文] Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil
+
+[原文] Venezuelan interim president says the unusual agreement will help revive her country's economy.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. Landlady to 9/11 hijackers reveals their links to alleged Saudi spy
+
+[原文] A woman who rented out homes to two al-Qaeda members speaks publicly for the first time - to the BBC.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. Norway mourns King Harald as Haakon VIII ascends throne
 
 [原文] Mourners gather outside the palace as royals, politicians and citizens remember a beloved king, whose son has adopted the family motto "all for norway".
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Oslo mayor calls off wedding ceremony after death of Norway's king
-
-[原文] Anne Lindboe, the mayor of Norway's capital, had planned to marry her fiance on Friday.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5ydgk3v60eo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 3. Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say
-
-[原文] But they say Moscow will likely continue its "hybrid activity" against Nato members, short of direct military action.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Right-wing commentator Milo Yiannopoulos detained by ICE
+### 5. Right-wing commentator Milo Yiannopoulos detained by ICE
 
 [原文] The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Berlin is being blackmailed by hackers, mayor says
-
-[原文] Kai Wegner says the German capital and city-state would not cave in to a ransom demand for data stolen in a cyber-attack.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Bessent attacks Warren over yen intervention query, offers ‘Foreign Exchange for Dummies’ lesson
+### 1. Trump announces deal with Venezuela to secure more than 65 billion barrels of oil reserves
+
+[原文] The U.S. struck a deal with Venezuela to get majority control of more than 65 billion barrels of oil reserves, Trump said in a social media post.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/28/trump-announces-deal-with-venezuela-to-secure-more-than-65-billion-barrels-of-oil-reserves.html) — *CNBC*
+
+### 2. Bessent attacks Warren over yen intervention query, offers ‘Foreign Exchange for Dummies’ lesson
 
 [原文] Treasury has not disclosed how much yen it bought, the execution rate or the current value of the position, despite Warren’s requests for details.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/28/bessent-warren-yen-intervention-treasury-japan.html) — *CNBC*
 
-### 2. Corn and wheat prices jump to highest prices in more than three years
+### 3. Meta’s $18 billion settlement puts TikTok and YouTube on notice. Who's next on the firing line?
+
+[原文] "Meta is seeking to ensure its competitors will face the same rules," one business professor told CNBC after Meta called on rivals to protect children online.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/29/meta-settlement-tiktok-youtube-snap-teen-safety.html) — *CNBC*
+
+### 4. Analysis: Kevin Warsh sharpens inflation warning at Jackson Hole, signaling possible rate hike
+
+[原文] After confusing markets at his July news conference, Fed Chairman Kevin Warsh used Jackson Hole to give a clearer view of the case for higher interest rates.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-fed-inflation-rate-hike.html) — *CNBC*
+
+### 5. Corn and wheat prices jump to highest prices in more than three years
 
 [原文] Corn and wheat futures have surged to their highest levels in more than three years. But the reasons for these recent rallies are notably different.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/28/corn-and-wheat-prices-jump-to-highest-prices-in-more-than-three-years.html) — *CNBC*
-
-### 3. Stock traders warm up to Warsh as volatility index touches year-to-date low
-
-[原文] The Cboe Volatility Index (VIX), which measures the price of 30-day options on the S&P 500 Index, fell to as low as 14.1.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/28/stock-traders-warm-up-to-warsh-as-volatility-index-touches-year-to-date-low.html) — *CNBC*
-
-### 4. Apple hikes subscription prices for Apple TV and Apple One in the U.S.
-
-[原文] Apple raised prices for Apple Music by $1 per month in July, citing licensing costs.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/28/apple-tv-one-price-hike-us.html) — *CNBC*
-
-### 5. Mark Walter's insurer Delaware Life sees two banks pause sale of its products amid probes
-
-[原文] Walter's holding company earlier in the week said "there has been no fraud" at Delaware Life and its affiliated company, Clear Spring Life and Annuity.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/28/mark-walter-delaware-life-truist-fifth-third-banks.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Neocloud Lambda secures $1B in debt to buy more chips
+### 1. Chinese automakers are following Tesla’s bet that robots are the next big profit machine
+
+[原文] Technical progress has encouraged a new batch of companies to jump in on the promise of profits from humanoid robots. And they're all Chinese automakers.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/) — *TechCrunch*
+
+### 2. Is the best way to watch a movie on a pair of sunglasses?
+
+[原文] Are XREAL's smart glasses the way of the future for home entertainment?
+
+📎 [阅读原文](https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/) — *TechCrunch*
+
+### 3. Neocloud Lambda secures $1B in debt to buy more chips
 
 [原文] Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/) — *TechCrunch*
 
-### 2. An Anthropic researcher just gave us a peek at self-improving AI
+### 4. An Anthropic researcher just gave us a peek at self-improving AI
 
 [原文] Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/) — *TechCrunch*
 
-### 3. Brave’s browser one-ups Chrome with its new support for email aliases
+### 5. Brave’s browser one-ups Chrome with its new support for email aliases
 
 [原文] The feature, announced this week, allows Brave's users to sign up for websites and other online services without having to share their personal email addresses.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/) — *TechCrunch*
-
-### 4. Open-weight AI companies are the Valley’s hottest acquisition targets
-
-[原文] There's a lot of capital pouring into the business of giving models away.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/) — *TechCrunch*
-
-### 5. How Sweden built one of Europe’s hottest startup ecosystems
-
-[原文] Sophia Bendz, general partner at Cherry Ventures, stopped by Equity to break down the latest in the Swedish tech ecosystem.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/28/how-sweden-built-one-of-europes-hottest-startup-ecosystems/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. How England are building an attack to trouble Australia
+### 1. A magician and a maverick - this could be Cherki's moment for Man City
+
+[原文] After two goals and a swaggering display against Crystal Palace, Phil McNulty asks if this is Rayan Cherki's time to shine for Manchester City.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c24j5jnnr9eo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. Lampard 'somewhere in the middle' of Mourinho and Ancelotti
+
+[原文] Eight years into his own managerial career, Coventry City boss Frank Lampard cites Jose Mourinho and Carli Ancelotti as the main influences on his style.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c87v04d59n3o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. How England are building an attack to trouble Australia
 
 [原文] Former England captain Michael Vaughan predicts England's new pace quartet will trouble Australia - so what is making them effective against Pakistan?
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cvgy0zdex14o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. More British athletes convicted in connection with Baptiste case
+### 4. More British athletes convicted in connection with Baptiste case
 
 [原文] BBC Sport reveals that Will Sharman, Richard Sharman and Lamin Deen were also convicted in the case which led to Leon Baptiste's imprisonment.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/c5yenn85dqgo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Sarfaraz denies knowing about Pakistan threat to end tour
+### 5. Fery into first ATP Tour final as opponent retires
 
-[原文] Head coach Sarfaraz Ahmed says he and his players did not know about a Pakistan Cricket Board threat to the England and Wales Cricket Board over a Sky interview with the sons of Imran Khan.
+[原文] Arthur Fery is into his first ATP Tour final as opponent James Duckworth retires because of injury at the Winston-Salem Open.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c17j0y17epdo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. Haaland and Cherki fire impressive Man City to victory at Palace
-
-[原文] Erling Haaland and Rayan Cherki both score twice as Manchester City cruise to a 4-1 win at Crystal Palace in the Premier League.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/c8e3k3ww56no?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. 'I learned from Murray' - Boulter won't make wedding ring mistake
-
-[原文] Andy Murray has long been a guiding figure for British tennis, but newly-married Katie Boulter will not be following his lead when it comes to keeping her wedding ring safe as she prepares for the US 
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/c20v7y3vy2do?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cgmr97470epo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Everything We Know About ‘Grand Theft Auto VI’
+### 1. Shailene Woodley Was Crushed When She Found Out Her Scenes in ‘Amazing Spider-Man 2’ Were Cut: The Role of Mary Jane Was ‘My Dream’
 
-[原文] More than a decade after the last installment of “Grand Theft Auto” released, players are finally getting &#8220;GTA 6&#8221; on Nov. 19. Per the official description for “GTA 6” from publisher Rockst
+[原文] More than 12 years later, Shailene Woodley has opened up about her disappointment in finding out that her part in &#8220;The Amazing Spider-Man 2&#8221; opposite Andrew Garfield didn&#8217;t make the 
 
-📎 [阅读原文](https://variety.com/2026/gaming/news/gta-6-release-details-1236846230/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/shailene-woodley-amazing-spider-man-2-mary-jane-cut-a-year-after-filming-1236846453/) — *Variety*
 
-### 2. Hooters Restaurant Movie in the Works — Film News in Brief
+### 2. Kartik Aaryan’s ‘Captain India’ Sets September London Shoot (EXCLUSIVE)
 
-[原文] First the Blackberry and Hot Cheetos got the feature film treatment, and now: “Hooters: The Movie.”  Based on real-life events that took place at the restaurant, the founders of Hooters are turning th
+[原文] &#8220;Captain India,&#8221; starring Kartik Aaryan, commences principal photography in London this September, with the shoot expected to wrap by the end of October. The film is directed by Shimit Ami
 
-📎 [阅读原文](https://variety.com/2026/film/news/film-news-in-brief-aug-24-2026-1236841619/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/kartik-aaryan-captain-india-september-london-shoot-1236846198/) — *Variety*
 
-### 3. LISTEN: Holywater Tech Chief Bogdan Nesvit on the Explosive Growth of Microdramas: ‘Studios and Creators are Knocking on Our Doors’
+### 3. Naomi Osaka Debuts a Luxury Accessories Brand at Uncharted’s Fame to Fortune Summit in the Hamptons
 
-[原文] On today&#8217;s episode of Variety&#8216;s &#8220;Strictly Business,&#8221; Bogdan Nesvit, co-CEO and co-founder of Holywater Tech, details the explosive growth of the company’s My Drama and My Muse 
+[原文] Tennis champion Naomi Osaka has for years made the tennis court a runway, with her Nike outfits often paired with pieces made in collaboration with designers such as Hana Yagi and Robert Wun. Her next
 
-📎 [阅读原文](https://variety.com/2026/tv/news/holywater-tech-bogdan-nesvit-microdrama-my-drama-my-muse-1236846046/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/biz/news/naomi-osaka-luxury-brand-uncharted-fame-to-fortune-summit-1236846357/) — *Variety*
 
-### 4. Gladys Knight Cuts Back on Performing as She Transitions to ‘Next Stage’ of Career and Life
+### 4. Bill Maher Delivers Lamest Dolly Parton Tribute Yet
 
-[原文] After three quarters of a century under the spotlight, Gladys Knight is ready to take things a little slower.  Knight announced on Instagram on Thursday that she will be performing less, and will focu
+[原文] Last week, Bill Maher dedicated his long-running HBO show “Real Time” to defending Trump “human printer” Natalie Harp — after admitting he was too afraid to mock her oddly close relationship with Pres
 
-📎 [阅读原文](https://variety.com/2026/music/news/gladys-knight-steps-back-performing-1236846273/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/bill-maher-lamest-dolly-parton-tribute-real-time-hbo-1236846445/) — *Variety*
 
-### 5. What’s New on Netflix in September 2026
+### 5. Sara Bareilles Sings About Loss — and It’s Our Gain — in the Beautifully Bittersweet ‘Good Grief’: Album Review
 
-[原文] Whether you&#8217;re looking to settle into September with cozy classics or start a new series, Netflix has a long list of titles joining or returning to the streamer this fall.&#160; The long-awaited
+[原文] Well, just how good can grief be? That&#8217;s a question raised by Sara Bareilles&#8217; &#8220;Good Grief,&#8221; which, true to its promissory title, deals primarily with loss and death and the kin
 
-📎 [阅读原文](https://variety.com/feature/whats-on-netflix-movies-shows-1203517873/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/album-reviews/sara-bareilles-album-review-good-grief-1236846038/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Ultralight Gaming Mouse Arms Race Has Entered a New Phase
+### 1. The Pokémon Company Looks to Smart Device Integrations as Future Targets
 
-[原文] We explore how Corsair are reshaping ultralight gaming mice in 2026 as the industry shifts focus beyond simple weight reduction.
+[原文] President and CEO of The Pokémon Company, Tsunekazu Ishihara, shared a small bit of insight about the company’s possible future plans with wearable technology during a panel discussion at the inaugura
 
-📎 [阅读原文](https://www.ign.com/articles/ultralight-gaming-mice-future-innovation) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/the-pokemon-company-looks-to-smart-device-integrations-as-future-targets) — *IGN*
 
-### 2. NBA 2K27 Review So Far
+### 2. Zach Cregger's Resident Evil on Track to Have Biggest Opening Weekend of Any RE Movie in History
 
-[原文] So far, new features have put a spotlight on longstanding issues.
+[原文] Zach Cregger’s Resident Evil movie is on track to have the most profitable opening weekend out of any film adaptation of Capcom’s flagship horror franchise.
 
-📎 [阅读原文](https://www.ign.com/articles/nba-2k27-review) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/zach-creggers-resident-evil-on-track-to-have-biggest-opening-weekend-of-any-re-movie-in-history) — *IGN*
 
-### 3. Save 40% Off Sony's Premium DualSense Edge Controller, Worth It for Grand Theft Auto 6
+### 3. Xbox CEO Says Project Helix Includes a 'Family of Devices'
 
-[原文] This pro grade controller features customizable thumbsticks, paddle switches, L/R trigger stops, and more.
+[原文] Xbox CEO Asha Sharma has suggested Project Helix will encompass more than one device, saying that Microsoft has been working on "a great family of devices."
 
-📎 [阅读原文](https://www.ign.com/articles/playstation-5-dualsense-edge-wireless-controller-deal-august-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/xbox-ceo-says-project-helix-includes-a-family-of-devices) — *IGN*
 
-### 4. Kick Streamer Neon Responds After Rockstar Seemingly Includes a Reference to Him in GTA 6 Netflix Showcase
+### 4. The Founders of Hooters Are Making a Buddy-Comedy Movie About the Restaurant Chain's Origin Story
 
-[原文] Prominent Kick streamer Neon has responded after Rockstar appeared to reference him in a side mission shown during their special GTA 6 first-look trailer on Netflix.
+[原文] Yep, you read that right. Hooters: The Movie is in the early stages of pre-production, and some of the chain’s original founders are directly involved.
 
-📎 [阅读原文](https://www.ign.com/articles/kick-streamer-neon-responds-after-rockstar-seemingly-includes-a-reference-to-him-in-gta-6-netflix-showcase) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/the-founders-of-hooters-are-making-a-buddy-comedy-movie-about-the-restaurant-chains-origin-story) — *IGN*
 
-### 5. Rockstar Approached Netflix for Exclusive GTA 6 Extended Look, Not the Other Way Around
+### 5. Indie Dev Posts Video Reporting Stolen Laptops at gamescom as CD Projekt Red and More Step in to Help
 
-[原文] The big Grand Theft Auto 6 extended look (mostly) went off without a hitch, and apparently, it was Rockstar Games' idea to bring it to Netflix in the first place, not the other way around.
+[原文] Ryan Laley, the solo indie developer behind upcoming asymmetrical horror game Mimic, has shared a video confirming his gamescom was "cut short" after he and other developers had their laptops stolen.
 
-📎 [阅读原文](https://www.ign.com/articles/rockstar-approached-netflix-for-exclusive-gta-6-extended-look-not-the-other-way-around) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/indie-dev-posts-video-reporting-stolen-laptops-at-gamescom-as-cd-projekt-red-and-more-step-in-to-help) — *IGN*
 
 ---
 
@@ -439,35 +439,35 @@ The post 2026 Hummer EV Pickup Truck: The Dog Review appeared first on The Drive
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Olivia Rodrigo’s Daisy Chain Fields Festival Raises $10 Million for Women and Girls Nonprofits
+### 1. Watch Bruce Springsteen and Bleachers Reunite to Sing ‘Jersey Girl’ and ‘Chinatown’ in Asbury Park
 
-[原文] Proceeds from the festival will benefit organizations including National Domestic Workers Alliance, Planned Parenthood, National Institute for Reproductive Health, and more
+[原文] The duo last performed "Chinatown" live in 2020
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/olivia-rodrigo-daisy-chain-festival-donates-10-million-1235617591/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/bruce-springsteen-bleachers-perform-jersey-girl-chinatown-1235617724/) — *Rolling Stone*
 
-### 2. Miguel Calls Out Harassment of Partner and Child: ‘Legal and Ethical Lines Have Been Crossed’
+### 2. Taylor Swift Donates $50k to Help Mother Struck by Car
 
-[原文] “Racism, threats, harassment, stalking, invasions of privacy, and targeting of children are abuse. Not opinion,” the singer-songwriter wrote in a lengthy Instagram post
+[原文] The superstar donated to a GoFundMe launched to help Ashley Taunton, who was hit by a vehicle while helping others on the side of a road
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/miguel-calls-out-online-harassment-1235617426/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/taylor-swift-donates-50k-mother-hit-by-car-1235617716/) — *Rolling Stone*
 
-### 3. The Who Rehearsed For Possible Tour With Zak Starkey Following Bitter Split: ‘It Sounded Great’
+### 3. Stella Lefty Interpolates the Chicks’ ‘There‘s Your Trouble’ on New Album
 
-[原文] The wild soap opera of the Who and Zak Starkey’s acrimonious split has reached a surprising new chapter, and the drummer might be back for their farewell tour in Europe
+[原文] A rep for Lefty confirmed to Rolling Stone that “Summer You Were Mine“ interpolates the Grammy-winning song after fans noticed similarities between the two tracks
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/the-who-rehearsed-with-zak-starkey-1235617418/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/stella-lefty-credit-the-chicks-summer-you-were-mine-1235616587/) — *Rolling Stone*
 
-### 4. John Mayer Has Some Thoughts on His Future With Dead and Company
+### 4. No, Ice Spice Is Not Pregnant
 
-[原文] “I’m not saying, ‘You’ll never see me on stage doing that,’” he told Andy Cohen. “I don’t know how you will yet, and I don’t really want to start thinking about actionable ways to do it”
+[原文] After the rapper appeared to be heavily pregnant in the video for "Out My Face," fans took the imagery literally
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/john-mayer-future-dead-and-company-1235617335/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/ice-spice-not-pregnant-out-my-face-music-video-1235617619/) — *Rolling Stone*
 
-### 5. The Linda Lindas Are Haunted in ‘Everybody Told Me’ Video
+### 5. Lil Durk Murder-for-Hire Trial: Admitted Shooter Grilled on Cross, Confronted With Jail Calls
 
-[原文] The single appears on the rock group’s newly released third studio album Gotta Get Out
+[原文] Defense lawyer Brian Steel asserted that Kasey “OTF Jam” Hester invented claims against the “All My Life” rapper in the hopes of helping himself
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/the-linda-lindas-everybody-told-me-video-1235617326/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/lil-durk-murder-for-hire-trial-shooter-grilled-jail-calls-1235617554/) — *Rolling Stone*
 
 ---
 
