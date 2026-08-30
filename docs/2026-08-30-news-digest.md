@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月30日** | 生成时间: 2026-08-30 12:34
+**2026年08月30日** | 生成时间: 2026-08-30 19:33
 
 ---
 
@@ -16,17 +16,17 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Footage of Tibet floods isn't being shown in China - and we know little about victims there
+### 1. Iceland votes against restarting talks on joining EU
 
-[原文] Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 2. Iceland EU referendum on a knife edge as counting continues
-
-[原文] A vote on whether to resume membership talks with the European Union is too close to call.
+[原文] Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume talks.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Manhunt after shooting at Swiss rave kills woman, 22, and injures five
+
+[原文] Five others in their twenties were injured after shots were fired at a techno event near Zurich.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 3. At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot
 
@@ -34,17 +34,17 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Right-wing commentator Milo Yiannopoulos deported from US to UK
-
-[原文] The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Canada installs large Lake Ontario sign in latest jab at US
+### 4. Large Lake Ontario sign installed in Canada in latest jab at US
 
 [原文] Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: "Lake Ontario. Now and Always."
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. WhatsApp chat used to send cash for crime and extremism
+
+[原文] The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Itauma punches himself out against Hrgovic in world-title fight
+### 1. Everton call off Armstrong sale after fan backlash
 
-[原文] Filip Hrgovic shatters Moses Itauma's world-title dream as the Briton appears to punch himself out in an extraordinary heavyweight world-title contest in London.
+[原文] Everton have called off a proposed deal to sell midfielder Harrison Armstrong to Nottingham Forest following a backlash from the club's supporters.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/articles/cpd0n46we13o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c0lrge3dwklo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Man City open talks with Liverpool over Gakpo
+### 2. Tottenham make Ndiaye move with Richarlison set for Everton
 
-[原文] The Netherlands forward has also attracted interest from Tottenham, but sources indicate Manchester City is his preferred destination if he leaves Anfield.
+[原文] Tottenham are in advanced talks to sign Iliman Ndiaye from Everton, with Richarlison set to move in the opposite direction as part of separate negotiations.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c39m0z4m2mpo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/crl631pgxj7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. £300m spent, bottom of the table... but Spurs boss De Zerbi 'not angry'
+### 3. Martinez is eighth Chelsea-Villa deal in four years
 
-[原文] Having spent more than £300m in the summer, Tottenham find themselves bottom of the Premier League, without a point or a goal, but boss Roberto de Zerbi remains optimistic.
+[原文] After Emiliano Martinez's move, BBC Sport looks at why Aston Villa and Chelsea have become one of the Premier League’s busiest transfer partnerships since 2022.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/clyqn158n5jo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cvgy0qjl0xno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Decision to curtail play at Lord's 'a joke' - Hussain
+### 4. Heavyweight Itauma handed harsh world-title lesson
 
-[原文] The decision to abandon play an hour early after a rain-hit third day of England’s second Test against Pakistan is criticised by former captain Nasser Hussain and fans.
+[原文] British heavyweight Moses Itauma was taught a harsh lesson at world level - what can he learn from defeat and where does the 21-year-old go next?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c1l6njn2vm8o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/articles/cg7krndl84do?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. 'Supporters aren't always wrong' - Moyes on Everton fans' anger
+### 5. How Sabalenka could lose No 1 ranking at US Open
 
-[原文] David Moyes says "supporters aren't always wrong" after Everton fans voice their opposition to the potential sale of teenage midfielder Harrison Armstrong during the 1-1 draw at Bournemouth.
+[原文] Will Aryna Sabalenka rediscover her mojo? How will Carlos Alcaraz's comeback go? And can Novak Djokovic win? It's time for the 2026 US Open singles.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cy7zk5vprplo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/c4glzvq3pzno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Harry Styles Shouts-Out Ex Taylor Swift’s Wedding During Madison Square Garden Show
+### 1. ’17’ Review: Harrowing Teen Pregnancy Drama from Macedonia Could Be the Feel-Bad Movie of the Year
+
+[原文] From the first frame, Kosara Mitić’s “17” refuses to pull any punches, plunging us immediately into the traumatic moment when a hookup between high-school student Sara (Eva Kostić) and two boys takes 
+
+📎 [阅读原文](https://variety.com/2026/film/reviews/17-review-1236846790/) — *Variety*
+
+### 2. ‘Sea of Glass’ Review: A Widow’s Coastal Healing Retreat Turns Into a Stately, Moody Greek Tragedy
+
+[原文] There are Greek waves aplenty lapping at the forlorn beachside setting of &#8220;Sea of Glass,&#8221; though they&#8217;re not especially weird ones. Amid a national cinema that has become internation
+
+📎 [阅读原文](https://variety.com/2026/film/news/sea-of-glass-review-1236846714/) — *Variety*
+
+### 3. Inside the Global Rise of CJ ENM’s ‘The Legend of Kitchen Soldier’
+
+[原文] When &#8220;The Legend of Kitchen Soldier&#8221; was selected as the only K-drama in the Special Screening section at Series Mania in Lille earlier this year, it marked an early signal that something 
+
+📎 [阅读原文](https://variety.com/2026/tv/news/legend-of-kitchen-soldier-cj-enm-global-success-1236846772/) — *Variety*
+
+### 4. Harry Styles Pokes Fun at Ex Taylor Swift’s Wedding During Madison Square Garden Show
 
 [原文] On the opening night of his 30-concert residency at Madison Square Garden, pop superstar Harry Styles paid tribute to the late, great Dolly Parton. And at the tail end of Saturday night’s show, he sho
 
 📎 [阅读原文](https://variety.com/2026/music/news/harry-styles-shout-out-taylor-swift-wedding-travis-kelce-madison-square-garden-show-1236846748/) — *Variety*
 
-### 2. Owner of ‘Heated Rivalry’ Cabin Needed to Do Some ‘Soul Searching’ Before Inviting the Show Back for Season 2
+### 5. Owner of ‘Heated Rivalry’ Cabin Needed to Do Some ‘Soul Searching’ Before Inviting the Show Back for Season 2
 
 [原文] Michael Kutryk, the owner of the now-famous cabin featured in “Heated Rivalry” Season 1, said he needed to do some “soul searching” before allowing the HBO production to come back for Season 2. “I did
 
 📎 [阅读原文](https://variety.com/2026/tv/news/owner-heated-rivalry-cabin-some-soul-searching-season-2-1236846730/) — *Variety*
-
-### 3. ‘Borges and Me’ Review: Gentle, Nostalgic Literary Road Movie Is More Perky Than Poetic
-
-[原文] American author Jay Parini&#8217;s 2020 memoir &#8220;Borges and Me: An Encounter&#8221; read as a charming extension of an anecdote any writer would dine out on for the rest of their life: the tale o
-
-📎 [阅读原文](https://variety.com/2026/film/news/borges-and-me-review-1236843724/) — *Variety*
-
-### 4. Final Emmy Predictions in 116 Categories: HBO Max Poised to Dominate With ‘The Pitt’ as ‘Widow’s Bay’ and ‘Hacks’ Chase Opposite All-Time Records
-
-[原文] Variety&#160;Awards Circuit&#160;section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars,&#160;Emmys,
-
-📎 [阅读原文](https://variety.com/lists/2026-emmys-predictions/) — *Variety*
-
-### 5. Chris Hansen Says Robert Pattinson’s ‘Primetime’ Performance Is ‘Overly Dramatic,’ But His Wife and Kids Think It’s a ‘Pretty Good Imitation’
-
-[原文] Chris Hansen recently gave his reaction to Robert Pattinson’s impression of him in the upcoming A24 drama-thriller “Primetime,” which chronicles Hansen’s stint as host of Dateline NBC’s “To Catch a Pr
-
-📎 [阅读原文](https://variety.com/2026/film/news/chris-hansen-robert-pattinson-primetime-overly-dramatic-1236846693/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. GTA 6 Will Have No Microtransactions or Generative AI at Launch, Rockstar Says
+### 1. 4 Penny Coffins Lets You Play 19th-Century Detective – Or a 10-Foot Demon Ripping Friends in Half
+
+[原文] Other Ocean’s 4 Penny Coffins blends Among Us with Jack the Ripper in an 1888 Whitechapel social investigation game featuring 8-player and solo modes.
+
+📎 [阅读原文](https://www.ign.com/articles/4-penny-coffins-preview-jack-the-ripper) — *IGN*
+
+### 2. The Pokémon Company on PokémonXP's Lottery System, Long Lines, and Limited Access to Workshops
+
+暂无摘要。
+
+📎 [阅读原文](https://www.ign.com/articles/the-pokmon-company-on-pokmonxps-lottery-system-long-lines-and-limited-access-to-workshops) — *IGN*
+
+### 3. GTA 6 Will Have No Microtransactions or Generative AI at Launch, Rockstar Says
 
 [原文] Rockstar Games has said Grand Theft Auto 6 will have no microtransactions or generative AI when it launches in November.
 
 📎 [阅读原文](https://www.ign.com/articles/gta-6-will-have-no-microtransactions-or-generative-ai-at-launch-rockstar-says) — *IGN*
 
-### 2. The Best Deals Today: Tomodachi Life: Living the Dream, Jurassic Park 4K Collection, Nintendo Switch 2, and More
+### 4. The Best Deals Today: Tomodachi Life: Living the Dream, Jurassic Park 4K Collection, Nintendo Switch 2, and More
 
 暂无摘要。
 
 📎 [阅读原文](https://www.ign.com/articles/best-deals-for-august-29-2026) — *IGN*
 
-### 3. EA Motive's Iron Man Game Reveal 'Didn't Go as Planned,' But the Leak Has Marvel Fans More Excited Than Ever
+### 5. EA Motive's Iron Man Game Reveal 'Didn't Go as Planned,' But the Leak Has Marvel Fans More Excited Than Ever
 
 [原文] EA Motive Studio's Iron Man game suffered an unexpected leak, but it may have resulted in Marvel fans being more excited about it than ever.
 
 📎 [阅读原文](https://www.ign.com/articles/ea-motives-iron-man-game-reveal-didnt-go-as-planned-but-the-leak-has-marvel-fans-more-excited-than-ever) — *IGN*
-
-### 4. Everything Coming to Apple TV in September
-
-暂无摘要。
-
-📎 [阅读原文](https://www.ign.com/articles/whats-new-on-apple-tv-september-2026) — *IGN*
-
-### 5. The Witcher 4 Will Have a Physical Edition Even if Discs Go Away, CD Projekt Red Confirms
-
-[原文] The Witcher 4 will still "have a box" for physical game collectors even after Sony stops supporting discs in 2028, CD Projekt Red has confirmed.
-
-📎 [阅读原文](https://www.ign.com/articles/the-witcher-4-will-have-a-physical-edition-even-if-discs-go-away-cd-projekt-red-confirms) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post Legit MotoGP Handlebar Sim Controller Promises More Immersive Game Expe
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Grid Has Eyes
+### 1. How North Carolina Wasted the Chance To Fix Hog Pollution
+
+[原文] Feeding the Beast: Second in a series about lax regulation, corporate influence and the heavily polluting, yet nearly untouchable American meat industry. Thousands of dead and bloated pigs floated dow
+
+📎 [阅读原文](https://insideclimatenews.org/news/30082026/north-carolina-wasted-chance-to-fix-hog-pollution/) — *Inside Climate News*
+
+### 2. Trying to Get Away From Gas Turbines, Data Centers Place Their Hopes on Small Modular Nuclear Reactors
+
+[原文] Data center developers and states see small modular nuclear reactors as one of the potential solutions for America’s increasing energy demand due to their smaller sizes and ability to provide steady e
+
+📎 [阅读原文](https://insideclimatenews.org/news/30082026/data-center-small-modular-nuclear-reactors/) — *Inside Climate News*
+
+### 3. The Grid Has Eyes
 
 [原文] Wired for Profit: Fifth in a series about Alabama Power’s influence over electric rates, renewable energy, pollution and politics in the Yellowhammer State. BIRMINGHAM, Ala.—Darrell Nance knows he’s b
 
 📎 [阅读原文](https://insideclimatenews.org/news/29082026/alabama-power-flock-surveillance-cameras/) — *Inside Climate News*
 
-### 2. Super PAC Targeting Conservatives Against Clean Energy Touts Fifth Republican Primary Win
+### 4. Super PAC Targeting Conservatives Against Clean Energy Touts Fifth Republican Primary Win
 
 [原文] Both President Donald Trump and a clean energy super PAC that backed Darline Graham, sister of the late Sen. Lindsey Graham, are celebrating her victory over Rep. Ralph Norman in Tuesday’s South Carol
 
 📎 [阅读原文](https://insideclimatenews.org/news/29082026/super-pac-targets-conservatives-against-clean-energy/) — *Inside Climate News*
 
-### 3. California Dairy Farm’s New Biogas Project Makes History and Raises Eyebrows
+### 5. California Dairy Farm’s New Biogas Project Makes History and Raises Eyebrows
 
 [原文] KERMAN, Calif.—One hundred degrees on a steamy Thursday afternoon and not much can be seen along the dust-blown avenue in Kerman. A school bus cruises by. Cows lap up water or feed behind a fence. A t
 
 📎 [阅读原文](https://insideclimatenews.org/news/29082026/california-dairy-farm-biogas-project/) — *Inside Climate News*
-
-### 4. While Renewables Languish, Pennsylvania Pays Millions to Coal Waste Companies
-
-[原文] WINDBER, Pa.—Standing on the rocky banks of Paint Creek in western Pennsylvania, Jim Panaro pointed out the colors of contamination. The orange staining the boulders is from iron, he explained, and th
-
-📎 [阅读原文](https://insideclimatenews.org/news/29082026/pennsylvania-pays-millions-to-coal-waste-companies/) — *Inside Climate News*
-
-### 5. Flood-Ravaged Nepal on Alert as Scientists Warn of Additional Risk
-
-[原文] Residents and rescue workers in flood-ravaged valleys of Nepal faced the threat of a new wave of inundation Friday, as scientists warned that debris had blocked rivers upstream, forming fragile dams r
-
-📎 [阅读原文](https://insideclimatenews.org/news/28082026/scientists-warn-of-additional-risk-after-nepal-flood/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post Legit MotoGP Handlebar Sim Controller Promises More Immersive Game Expe
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. See Kacey Musgraves Cover Dolly Parton’s ‘Here You Come Again’ in Boston
+### 1. Olivia Rodrigo Delivers Magic With Stevie Nicks, Sarah McLachlan, Alanis Morissette at Daisy Chain
+
+[原文] Rodrigo capped her inaugural all-women festival with a stunning headlining set — and invited her heroes to the stage
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/olivia-rodrigo-stevie-nicks-sarah-mclachlan-alanis-perform-1235614614/) — *Rolling Stone*
+
+### 2. See Kacey Musgraves Cover Dolly Parton’s ‘Here You Come Again’ in Boston
 
 [原文] Singer also dedicated "Rainbow" to the late country icon, revealing that Parton was the inspiration behind the song
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/kacey-musgrave-dolly-parton-here-you-come-again-boston-1235617792/) — *Rolling Stone*
 
-### 2. Watch Bruce Springsteen and Bleachers Reunite to Sing ‘Jersey Girl’ and ‘Chinatown’ in Asbury Park
+### 3. Watch Bruce Springsteen and Bleachers Reunite to Sing ‘Jersey Girl’ and ‘Chinatown’ in Asbury Park
 
 [原文] The duo last performed "Chinatown" live in 2020
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/bruce-springsteen-bleachers-perform-jersey-girl-chinatown-1235617724/) — *Rolling Stone*
 
-### 3. Taylor Swift Donates $50k to Help Mother Struck by Car
+### 4. Taylor Swift Donates $50k to Help Mother Struck by Car
 
 [原文] The superstar donated to a GoFundMe launched to help Ashley Taunton, who was hit by a vehicle while helping others on the side of a road
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/taylor-swift-donates-50k-mother-hit-by-car-1235617716/) — *Rolling Stone*
 
-### 4. Stella Lefty Interpolates the Chicks’ ‘There‘s Your Trouble’ on New Album
+### 5. Stella Lefty Interpolates the Chicks’ ‘There‘s Your Trouble’ on New Album
 
 [原文] A rep for Lefty confirmed to Rolling Stone that “Summer You Were Mine“ interpolates the Grammy-winning song after fans noticed similarities between the two tracks
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/stella-lefty-credit-the-chicks-summer-you-were-mine-1235616587/) — *Rolling Stone*
-
-### 5. No, Ice Spice Is Not Pregnant
-
-[原文] After the rapper appeared to be heavily pregnant in the video for "Out My Face," fans took the imagery literally
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/ice-spice-not-pregnant-out-my-face-music-video-1235617619/) — *Rolling Stone*
 
 ---
 
