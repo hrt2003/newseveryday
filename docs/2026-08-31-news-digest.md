@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月31日** | 生成时间: 2026-08-31 00:20
+**2026年08月31日** | 生成时间: 2026-08-31 04:46
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Iceland votes against restarting EU membership talks
+### 1. Eight killed and others missing after ferry capsizes off northern Cyprus
+
+[原文] A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Iceland votes against restarting EU membership talks
 
 [原文] Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume accession talks.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Manhunt after shooting at Swiss rave kills woman, 22, and injures five
+### 3. Manhunt after shooting at Swiss rave kills woman, 22, and injures five
 
 [原文] Five others in their twenties were injured after shots were fired at a techno event near Zurich.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Canada installs large Lake Ontario sign in latest jab at US
+### 4. 'A giant leap forward': Nasa launches powerful new space telescope
+
+[原文] The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Canada installs large Lake Ontario sign in latest jab at US
 
 [原文] Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: "Lake Ontario. Now and Always."
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. WhatsApp chat used to send cash for crime and extremism
-
-[原文] The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot
-
-[原文] An investigation has begun into the storage of weapons for Ukraine's military near a residential area.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,17 +54,17 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The 'choose your own adventure' earnings: Why retailers are handling tariff refunds so differently
-
-[原文] Retailers have diverged on how they've reported tariff refunds in their earnings this quarter, with some choosing to lower prices and others boosting margins.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/30/trump-tariff-refunds-walmart-home-depot-target.html) — *CNBC*
-
-### 2. He beat Big Tobacco. Will the same playbook work against Meta and social media?
+### 1. He beat Big Tobacco. Will the same playbook work against Meta and social media?
 
 [原文] Mike Moore beat Big Tobacco. Will the same playbook work against Meta and social media?
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/30/mike-moore-ag-social-media-settlement-big-tobacco.html) — *CNBC*
+
+### 2. The 'choose your own adventure' earnings: Why retailers are handling tariff refunds so differently
+
+[原文] Retailers have diverged on how they've reported tariff refunds in their earnings this quarter, with some choosing to lower prices and others boosting margins.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/30/trump-tariff-refunds-walmart-home-depot-target.html) — *CNBC*
 
 ### 3. Icelanders reject reopening talks to join the EU despite Trump's Greenland threats
 
@@ -72,17 +72,17 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/30/iceland-eu-accession-referendum-result.html) — *CNBC*
 
-### 4. What new tariff walls in U.S.-Canada trade war mean for the economy's critical metals
+### 4. Trump criticizes NBC over election comment as Treasury denies some NYT, WSJ and Bloomberg reporters G20 credentials
+
+[原文] Trump's attack on NBC comes after the Treasury barred journalists from The New York Times, The Wall Street Journal and Bloomberg from attending the G20.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/30/trump-nbc-election-comment-treasury-g20-reporter-access.html) — *CNBC*
+
+### 5. What new tariff walls in U.S.-Canada trade war mean for the economy's critical metals
 
 [原文] When the U.S.-Canada trade war erupted, the market repriced metals and materials stocks and ETFs, but longer-term investors should be wary.
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/30/us-canada-trade-war-tariffs-steel-aluminum-metals-economy.html) — *CNBC*
-
-### 5. Top Wall Street analysts suggest these 3 dividend stocks for consistent income
-
-[原文] These three dividend stocks offer steady income in turbulent markets.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/30/top-analysts-suggest-these-dividend-stocks-for-consistent-income.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. TechCrunch Mobility: The hidden human cost of robotaxis
+### 1. Liux’s Big microcar bets on sustainability to take on Chinese rivals
+
+[原文] The Liux Big microcar is made in Spain. The startup thinks it can compete in a crowded market with its tiny electric car built around sustainability.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/) — *TechCrunch*
+
+### 2. Musk’s faster path to more gas turbines comes with pollution problem
+
+[原文] Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already trigg
+
+📎 [阅读原文](https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/) — *TechCrunch*
+
+### 3. TechCrunch Mobility: The hidden human cost of robotaxis
 
 [原文] Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/) — *TechCrunch*
 
-### 2. Caterpillar is bringing to AI deployment what it learned from automating mining
+### 4. Caterpillar is bringing to AI deployment what it learned from automating mining
 
 [原文] Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/) — *TechCrunch*
 
-### 3. Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft
+### 5. Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft
 
 [原文] This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/) — *TechCrunch*
-
-### 4. At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?
-
-[原文] Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/) — *TechCrunch*
-
-### 5. “We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z
-
-[原文] Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a "discovery" science to an "en
-
-📎 [阅读原文](https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Joao Pedro a central figure - player ratings for Chelsea v Brighton
+### 1. A new Man Utd era - but Fernandes still sets the standard
 
-[原文] Here's how the players rated as Chelsea and Brighton met in the Premier League on Sunday.
+[原文] For all the new signings, it is still captain Bruno Fernandes who sets the standard at Manchester United, writes Simon Stone.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cdx5z7zk54po?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cpwl248p5vgo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Barcelona close to deal for Arsenal's Jesus
+### 2. How did Rashford do on return to Man Utd XI? Player ratings
 
-[原文] Barcelona are closing in on a move for Arsenal striker Gabriel Jesus in a deal worth £8.6m.
+[原文] How Manchester United and Ipswich Town's players rated following their Premier League match.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c9qr79jr1qqo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cx2z6kkqdxqo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. How Sabalenka could lose No 1 ranking at US Open
+### 3. '14,000 runs for a reason' - Root calm on form
 
-[原文] Will Aryna Sabalenka rediscover her mojo? How will Carlos Alcaraz's comeback go? And can Novak Djokovic win? It's time for the 2026 US Open singles.
+[原文] England captain Joe Root is "not too concerned" about his recent modest returns with the bat, saying he has "14,000 runs for a reason".
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/c4glzvq3pzno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c2l8d45yen7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Pidcock dedicates world-title triumph to Tarling
+### 4. 'His best Test for a year' - England-Pakistan player ratings
 
-[原文] Great Britain's Tom Pidcock pays tribute to Fin Tarling after winning his second cross-country world title at the Mountain Bike World Championships in Italy.
+[原文] Who produced their best Test performance in 12 months? Which batter is building a case to test the selectors? Player ratings from England's win over Pakistan.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cycling/articles/c20vnvdd7e7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c70d87p74pxo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. England's Dean storms to British Masters title
+### 5. Why Chelsea need more than a new goalkeeper to be title challengers
 
-[原文] Former supermarket delivery driver Joe Dean fires a nine-under-par final round to come from seven shots back to win his first DP World Tour title.
+[原文] Chelsea's new goalkeeper Emiliano Martinez made his debut in a thrilling 4-3 win over Brighton - but is unable to solve his new club's defensive problems on his own.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/c23xvx9rgleo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cwyzpez3x3go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Box Office: ‘The Dog Stars’ Bombs With $8 Million; ‘Spider-Man’ Continues Reign in Fifth Weekend
+### 1. ‘Days of Thunder’ Star Randy Quaid Says Anne Hathaway Is ‘Woke’ and a ‘Horrible Choice’ for the Sequel: ‘You Need the Original Girl’
 
-[原文] “The Dog Stars” couldn’t beat the heat during the dog days of summer and melted down over its opening weekend. Disney and 20th Century’s “The Dog Stars” opened to just $8 million domestically from 3,3
+[原文] “Days of Thunder” star Randy Quaid sounded off on Anne Hathaway after it was revealed that she has joined Tom Cruise in the racing drama’s upcoming sequel. “We need Nicole [Kidman] back,” Quaid wrote 
 
-📎 [阅读原文](https://variety.com/2026/film/box-office/box-office-the-dog-stars-bombs-spider-man-brand-new-day-1236846879/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/days-of-thunder-2-anne-hathaway-horrible-choice-randy-quaid-1236846972/) — *Variety*
 
-### 2. ‘Call My Agent! The Movie’ Review: Love-Hate Energy Keeps the Gang Together in a Fast, Funny Feature-Length Return
+### 2. Sandra Bullock Seemingly Drops Hint That Olivia Rodrigo and Stevie Nicks Have Music in ‘Practical Magic 2’
 
-[原文] The rare reboot pitch that that can actually be greeted with &#8220;this again!&#8221; rather than &#8220;this again?,&#8221; &#8220;Call My Agent! The Movie&#8221; makes sense of its rote title in tw
+[原文] Will Olivia Rodrigo and Stevie Nicks bring their musical talents to “Practical Magic 2?” Star Sandra Bullock seemed to teased the two pop stars’ involvement in the Warner Bros. sequel in a post on her
 
-📎 [阅读原文](https://variety.com/2026/film/news/call-my-agent-the-movie-review-1236846824/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/sandra-bullock-olivia-rodrigo-stevie-nicks-practical-magic-2-1236846948/) — *Variety*
 
-### 3. Here’s How to Watch the 2026 Little League World Series Championship Game Live Online
+### 3. At Daisy Chain Fields, Olivia Rodrigo, Chappell Roan and Honored Forebears Convene for a Superb Festival That’s Hot to Go in Every Way: Concert Review
 
-[原文] The 2026 Little League World Series Championship Game features Nevada vs. Curaçao on Sunday, Aug. 30 at 3 p.m. ET/12 p.m. PT on ESPN. Games take place at Lamade Stadium in South Williamsport, Pennsylv
+[原文] You know an inaugural festival has been a success when, after the temperature reached 95 degrees, humidity topped 80%&#8230; perspiration stains were so pervasive that it was the odd dry spots that lo
 
-📎 [阅读原文](https://variety.com/2026/shopping/news/how-to-watch-little-league-world-series-online-livestream-free-1236487338/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/concert-reviews/daisy-chain-fields-olivia-rodrigo-chappell-roan-concert-review-1236846844/) — *Variety*
 
-### 4. Laura Dern Set to Honor George Clooney During Venice Film Festival Opening Ceremony
+### 4. President Trump Calls For FCC Punishment of NBC News’ Kristen Welker Following Promotional ‘Meet the Press’ Banter
 
-[原文] Laura Dern is set to give the Laudatio speech honoring&#160;George Clooney at Venice Film Festival where, as previously announced, he will be honored on Wed., Sept. 2, with a Golden Lion for Lifetime 
+[原文] President Donald Trump suggested referring NBC News anchor Kristen Welker for possible punishment by the Federal Communications Commission after the &#8220;Meet the Press&#8221; moderator made innocuo
 
-📎 [阅读原文](https://variety.com/2026/film/festivals/laura-dern-george-clooney-venice-golden-lion-lifetime-1236846829/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/trump-kristen-welker-fcc-punishment-meet-the-press-1236846910/) — *Variety*
 
-### 5. ’17’ Review: Harrowing Teen Pregnancy Drama from Macedonia Could Be the Feel-Bad Movie of the Year
+### 5. Olivia Rodrigo Raises $20 Million With Daisy Chain Fields Festival Thanks to Matching Commitment From Melinda French Gates
 
-[原文] From the first frame, Kosara Mitić’s “17” refuses to pull any punches, plunging us immediately into the traumatic moment when a hookup between high-school student Sara (Eva Kostić) and two boys takes 
+[原文] Olivia Rodrigo raised a significant sum of $10 million with her inaugural Daisy Chain Fields Festival — and then doubled it to $20 million, thanks to a matching commitment from philanthropist Melinda 
 
-📎 [阅读原文](https://variety.com/2026/film/reviews/17-review-1236846790/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/olivia-rodrigo-raises-20-million-daisy-chain-melinda-gates-1236846915/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. PSA: Nintendo Switch 2 Gets a $50 Price Increase on Tuesday
+### 1. Star Wars and Jurassic Park VFX Legend Phil Tippett Closes Studio and Auctions Memorabilia
 
-[原文] Nintendo is raising the price of the Switch 2 to $500 on September 1, meaning this is your last chance to get one before the hike.
+[原文] Oscar-winning animator Phil Tippett is closing his Berkeley studio and auctioning off legendary Star Wars, Jurassic Park, and RoboCop props and memorabilia.
 
-📎 [阅读原文](https://www.ign.com/articles/nintendo-switch-2-50-price-increase-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/phil-tippett-studio-closure-auction) — *IGN*
 
-### 2. Grab Philips Shavers at a Steep Discount at Amazon Right Now
+### 2. Fable's Main Quest Will Take About 20 Hours to Beat
 
-[原文] Save hundreds on Philips Shavers, including the Prestige Ultra model which is now better than half price.
+[原文] Fable's main quest will take around 20 hours to beat, Playground Games has confirmed.
 
-📎 [阅读原文](https://www.ign.com/articles/best-philips-electric-shaver-deals) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/fables-main-quest-will-take-about-20-hours-to-beat) — *IGN*
 
-### 3. 4 Penny Coffins Lets You Play 19th-Century Detective – Or a 10-Foot Demon Ripping Friends in Half
+### 3. GTA 6 Fans Think They Found Jason and Lucia's Vice City Apartment in Real Life
 
-[原文] Other Ocean’s 4 Penny Coffins blends Among Us with Jack the Ripper in an 1888 Whitechapel social investigation game featuring 8-player and solo modes.
+[原文] Grand Theft Auto 6 fans think they've spotted the real-life inspiration for Jason and Lucia's Vice City apartment – but don't expect to ever visit it yourself.
 
-📎 [阅读原文](https://www.ign.com/articles/4-penny-coffins-preview-jack-the-ripper) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/gta-6-fans-think-they-found-jason-and-lucias-vice-city-apartment-in-real-life) — *IGN*
 
-### 4. The Pokémon Company on PokémonXP's Lottery System, Long Lines, and Limited Access to Workshops
+### 4. Every Cosmere Tabletop Game Based on Brandon Sanderson's Epic Book Universe
 
 暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/the-pokmon-company-on-pokmonxps-lottery-system-long-lines-and-limited-access-to-workshops) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/all-cosmere-tabletop-and-board-games) — *IGN*
 
-### 5. GTA 6 Will Have No Microtransactions or Generative AI at Launch, Rockstar Says
+### 5. Everything Coming to Disney+ in September
 
-[原文] Rockstar Games has said Grand Theft Auto 6 will have no microtransactions or generative AI when it launches in November.
+暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/gta-6-will-have-no-microtransactions-or-generative-ai-at-launch-rockstar-says) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/whats-new-on-disney-plus-september-2026) — *IGN*
 
 ---
 
@@ -439,35 +439,35 @@ The post For Sale: 6&#215;6 Ford Truck Developed as an Amphibious Mili
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Melinda French Gates Doubles Olivia Rodrigo’s Daisy Chain Fields Donation to $20 Million
+### 1. Karen O Misses Daisy Chain Fields Appearance Due to ‘Family Emergency’
+
+[原文] "Very sad to miss such a herstoric music event, but I’m where I’m most needed, with family back east," Yeah Yeah Yeahs singer says after missing special guest spot during Olivia Rodrigo's set
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/karen-o-misses-daisy-chain-fields-family-emergency-1235618039/) — *Rolling Stone*
+
+### 2. What Do All the Colors Mean? Decoding Taylor Swift’s Next Move
+
+[原文] Here are all the fans theories making the rounds
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/taylor-swift-color-theory-explained-new-music-1235617057/) — *Rolling Stone*
+
+### 3. Melinda French Gates Doubles Olivia Rodrigo’s Daisy Chain Fields Donation to $20 Million
 
 [原文] "What Daisy Chain Fields sets in motion will last far beyond a single night," philanthropist says in statement
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/melinda-french-gates-doubles-olivia-rodrigo-donation-1235617839/) — *Rolling Stone*
 
-### 2. Olivia Rodrigo Shines With Stevie Nicks, Sarah McLachlan, Alanis Morissette at Daisy Chain
+### 4. Olivia Rodrigo Shines With Stevie Nicks, Sarah McLachlan, Alanis Morissette at Daisy Chain
 
 [原文] Rodrigo capped her inaugural all-women festival with a stunning headlining set — and invited her heroes to the stage
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/olivia-rodrigo-stevie-nicks-sarah-mclachlan-alanis-perform-1235614614/) — *Rolling Stone*
 
-### 3. See Kacey Musgraves Cover Dolly Parton’s ‘Here You Come Again’ in Boston
+### 5. See Kacey Musgraves Cover Dolly Parton’s ‘Here You Come Again’ in Boston
 
 [原文] Singer also dedicated "Rainbow" to the late country icon, revealing that Parton was the inspiration behind the song
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/kacey-musgrave-dolly-parton-here-you-come-again-boston-1235617792/) — *Rolling Stone*
-
-### 4. Watch Bruce Springsteen and Bleachers Reunite to Sing ‘Jersey Girl’ and ‘Chinatown’ in Asbury Park
-
-[原文] The duo last performed "Chinatown" live in 2020
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/bruce-springsteen-bleachers-perform-jersey-girl-chinatown-1235617724/) — *Rolling Stone*
-
-### 5. Taylor Swift Donates $50k to Help Mother Struck by Car
-
-[原文] The superstar donated to a GoFundMe launched to help Ashley Taunton, who was hit by a vehicle while helping others on the side of a road
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/taylor-swift-donates-50k-mother-hit-by-car-1235617716/) — *Rolling Stone*
 
 ---
 
