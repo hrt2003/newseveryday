@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月30日** | 生成时间: 2026-08-30 04:40
+**2026年08月30日** | 生成时间: 2026-08-30 12:34
 
 ---
 
@@ -22,29 +22,29 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot
+### 2. Iceland EU referendum on a knife edge as counting continues
+
+[原文] A vote on whether to resume membership talks with the European Union is too close to call.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot
 
 [原文] An investigation has begun into the storage of weapons for Ukraine's military near a residential area.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Right-wing commentator Milo Yiannopoulos deported from US to UK
+### 4. Right-wing commentator Milo Yiannopoulos deported from US to UK
 
 [原文] The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Norway's new king remembers 'my dear father' in first speech
+### 5. Canada installs large Lake Ontario sign in latest jab at US
 
-[原文] Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign.
+[原文] Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: "Lake Ontario. Now and Always."
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Former Ecuadorian president imprisoned for corruption
-
-[原文] Lenín Moreno denies taking bribes from a Chinese firm to secure a contract to build a hydroelectric plant.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Man City open talks with Liverpool over Gakpo
+### 1. Itauma punches himself out against Hrgovic in world-title fight
 
-[原文] Manchester City open talks with Liverpool about signing Netherlands winger Cody Gakpo.
+[原文] Filip Hrgovic shatters Moses Itauma's world-title dream as the Briton appears to punch himself out in an extraordinary heavyweight world-title contest in London.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/articles/cpd0n46we13o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. Man City open talks with Liverpool over Gakpo
+
+[原文] The Netherlands forward has also attracted interest from Tottenham, but sources indicate Manchester City is his preferred destination if he leaves Anfield.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c39m0z4m2mpo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Decision to curtail play at Lord's 'a joke' - Hussain
+### 3. £300m spent, bottom of the table... but Spurs boss De Zerbi 'not angry'
+
+[原文] Having spent more than £300m in the summer, Tottenham find themselves bottom of the Premier League, without a point or a goal, but boss Roberto de Zerbi remains optimistic.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/clyqn158n5jo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. Decision to curtail play at Lord's 'a joke' - Hussain
 
 [原文] The decision to abandon play an hour early after a rain-hit third day of England’s second Test against Pakistan is criticised by former captain Nasser Hussain and fans.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c1l6njn2vm8o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Pogacar requires surgery after Vuelta crash
+### 5. 'Supporters aren't always wrong' - Moyes on Everton fans' anger
 
-[原文] Tadej Pogacar needs surgery on a broken collarbone after sustaining multiple injuries in the crash that led to him abandoning the Vuelta a Espana.
+[原文] David Moyes says "supporters aren't always wrong" after Everton fans voice their opposition to the potential sale of teenage midfielder Harrison Armstrong during the 1-1 draw at Bournemouth.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cycling/articles/c0qx0ndg373o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. Tonali struggles but Gonzalez impresses - player ratings for Tottenham v Newcastle
-
-[原文] How Tottenham Hotspur and Newcastle United's players rated following Saturday's 2-0 win for the visitors in their Premier League match.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c93e8qv2qq0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. South Africa hold off All Blacks fightback to level series
-
-[原文] World champions South Africa deliver a powerful first-half performance as they edge past New Zealand and level 'Rugby's Greatest Rivalry' series at 1-1.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-union/articles/c1mvred1l7do?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cy7zk5vprplo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Venice Film Festival Jury Press Conference ‘Probably Not’ Happening Due to Scheduling, Will Replace Event With Welcome Cocktails for Journalists
+### 1. Harry Styles Shouts-Out Ex Taylor Swift’s Wedding During Madison Square Garden Show
 
-[原文] The Venice Film Festival is weighing scrapping its traditional opening jury press conference on the Lido. The festival, which kicks off Sept. 2 with the world premiere of Danny Boyle&#8217;s &#8220;In
+[原文] On the opening night of his 30-concert residency at Madison Square Garden, pop superstar Harry Styles paid tribute to the late, great Dolly Parton. And at the tail end of Saturday night’s show, he sho
 
-📎 [阅读原文](https://variety.com/2026/film/global/venice-film-festival-jury-press-conference-canceled-1236846620/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/harry-styles-shout-out-taylor-swift-wedding-travis-kelce-madison-square-garden-show-1236846748/) — *Variety*
 
-### 2. Ray Winstone Told Off a Director Who Was ‘Groping’ His Female Co-Star During Filming: ‘Don’t You Dare Do That’
+### 2. Owner of ‘Heated Rivalry’ Cabin Needed to Do Some ‘Soul Searching’ Before Inviting the Show Back for Season 2
 
-[原文] Ray Winstone recently recalled to The Times of London that he once told off an unnamed director after he saw them “groping” his female co-star. “I had this director once,” Winstone said. “I was in a s
+[原文] Michael Kutryk, the owner of the now-famous cabin featured in “Heated Rivalry” Season 1, said he needed to do some “soul searching” before allowing the HBO production to come back for Season 2. “I did
 
-📎 [阅读原文](https://variety.com/2026/tv/news/ray-winstone-told-off-director-groping-female-co-star-1236846594/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/owner-heated-rivalry-cabin-some-soul-searching-season-2-1236846730/) — *Variety*
 
-### 3. ‘New Girl’ Reunion Is Not Happening: ‘There Are No Scripts,’ Says Creator Liz Meriwether
+### 3. ‘Borges and Me’ Review: Gentle, Nostalgic Literary Road Movie Is More Perky Than Poetic
 
-[原文] “New Girl” isn’t coming back anytime soon. Despite recent claims by Max Greenfield, who played Schmidt on the hit Fox sitcom, that he has read “amazing” scripts for a reunion, show creator Liz Meriwet
+[原文] American author Jay Parini&#8217;s 2020 memoir &#8220;Borges and Me: An Encounter&#8221; read as a charming extension of an anecdote any writer would dine out on for the rest of their life: the tale o
 
-📎 [阅读原文](https://variety.com/2026/tv/columns/new-girl-reunion-not-happening-no-scripts-liz-meriwether-britney-spears-1236846563/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/borges-and-me-review-1236843724/) — *Variety*
 
-### 4. Anne Hathaway Joins Tom Cruise in ‘Days of Thunder’ Follow-Up; Paramount Sets Release Date (EXCLUSIVE)
+### 4. Final Emmy Predictions in 116 Categories: HBO Max Poised to Dominate With ‘The Pitt’ as ‘Widow’s Bay’ and ‘Hacks’ Chase Opposite All-Time Records
 
-[原文] Anne Hathaway will star opposite Tom Cruise in the next chapter of “Days of Thunder,” Variety has learned exclusively. Paramount Pictures has dated the feature film sequel for June 2, 2028, when Cruis
+[原文] Variety&#160;Awards Circuit&#160;section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars,&#160;Emmys,
 
-📎 [阅读原文](https://variety.com/2026/film/news/anne-hathaway-tom-cruise-days-of-thunder-sequel-1236839347/) — *Variety*
+📎 [阅读原文](https://variety.com/lists/2026-emmys-predictions/) — *Variety*
 
-### 5. Box Office: ‘The Dog Stars’ Struggles With Just $3 Million on Friday; ‘Spider-Man: Brand New Day’ to Win Weekend Again
+### 5. Chris Hansen Says Robert Pattinson’s ‘Primetime’ Performance Is ‘Overly Dramatic,’ But His Wife and Kids Think It’s a ‘Pretty Good Imitation’
 
-[原文] 20th Century’s “The Dog Stars” and Keylight Pictures’ “Coyote vs. Acme” both debuted in theaters on Friday, but Sony and Marvel’s “Spider-Man: Brand New Day” will once again win the weekend. “Coyote v
+[原文] Chris Hansen recently gave his reaction to Robert Pattinson’s impression of him in the upcoming A24 drama-thriller “Primetime,” which chronicles Hansen’s stint as host of Dateline NBC’s “To Catch a Pr
 
-📎 [阅读原文](https://variety.com/2026/film/news/box-office-the-dog-stars-spider-man-brand-new-day-1236846559/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/chris-hansen-robert-pattinson-primetime-overly-dramatic-1236846693/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Witcher 4 Will Have a Physical Edition Even if Discs Go Away, CD Projekt Red Confirms
+### 1. GTA 6 Will Have No Microtransactions or Generative AI at Launch, Rockstar Says
+
+[原文] Rockstar Games has said Grand Theft Auto 6 will have no microtransactions or generative AI when it launches in November.
+
+📎 [阅读原文](https://www.ign.com/articles/gta-6-will-have-no-microtransactions-or-generative-ai-at-launch-rockstar-says) — *IGN*
+
+### 2. The Best Deals Today: Tomodachi Life: Living the Dream, Jurassic Park 4K Collection, Nintendo Switch 2, and More
+
+暂无摘要。
+
+📎 [阅读原文](https://www.ign.com/articles/best-deals-for-august-29-2026) — *IGN*
+
+### 3. EA Motive's Iron Man Game Reveal 'Didn't Go as Planned,' But the Leak Has Marvel Fans More Excited Than Ever
+
+[原文] EA Motive Studio's Iron Man game suffered an unexpected leak, but it may have resulted in Marvel fans being more excited about it than ever.
+
+📎 [阅读原文](https://www.ign.com/articles/ea-motives-iron-man-game-reveal-didnt-go-as-planned-but-the-leak-has-marvel-fans-more-excited-than-ever) — *IGN*
+
+### 4. Everything Coming to Apple TV in September
+
+暂无摘要。
+
+📎 [阅读原文](https://www.ign.com/articles/whats-new-on-apple-tv-september-2026) — *IGN*
+
+### 5. The Witcher 4 Will Have a Physical Edition Even if Discs Go Away, CD Projekt Red Confirms
 
 [原文] The Witcher 4 will still "have a box" for physical game collectors even after Sony stops supporting discs in 2028, CD Projekt Red has confirmed.
 
 📎 [阅读原文](https://www.ign.com/articles/the-witcher-4-will-have-a-physical-edition-even-if-discs-go-away-cd-projekt-red-confirms) — *IGN*
-
-### 2. Anne Hathaway Cast Opposite Tom Cruise in Days of Thunder Sequel
-
-[原文] Anne Hathaway will star opposite Tom Cruise in the sequel to Days of Thunder. The Oscar-winning star of The Odyssey and The End of Oak Street will play a team owner and engineer in the sequel, due out
-
-📎 [阅读原文](https://www.ign.com/articles/anne-hathaway-tom-cruise-days-of-thunder-sequel-plot-release-date) — *IGN*
-
-### 3. Everything Coming to HBO Max in September
-
-[原文] While the Paramount and Warner Bros. deal continues to sit in legal limbo, HBO Max is chugging along with another strong lineup of new additions in September.
-
-📎 [阅读原文](https://www.ign.com/articles/whats-new-on-hbo-max-september-2026) — *IGN*
-
-### 4. Ridley Scott Says Alien: Romulus 'Was OK,' So He's Returning to the Franchise Because It 'Needs Some Help'
-
-[原文] Director Ridley Scott said Alien: Romulus "was OK," so he's returning to the Alien franchise because it "needs some help."
-
-📎 [阅读原文](https://www.ign.com/articles/ridley-scott-says-alien-romulus-was-ok-so-hes-returning-to-the-franchise-because-it-needs-some-help) — *IGN*
-
-### 5. Fibbage Card Game Review
-
-暂无摘要。
-
-📎 [阅读原文](https://www.ign.com/articles/fibbage-card-game-review) — *IGN*
 
 ---
 
@@ -439,7 +439,7 @@ The post Legit MotoGP Handlebar Sim Controller Promises More Immersive Game Expe
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. See Kacey Musgrave Cover Dolly Parton’s ‘Here You Come Again’ in Boston
+### 1. See Kacey Musgraves Cover Dolly Parton’s ‘Here You Come Again’ in Boston
 
 [原文] Singer also dedicated "Rainbow" to the late country icon, revealing that Parton was the inspiration behind the song
 
@@ -477,35 +477,35 @@ The post Legit MotoGP Handlebar Sim Controller Promises More Immersive Game Expe
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. How SingleThread Is Growing Without Copying Itself
+### 1. Airbnb Is Testing Lower Fees for Hosts Who Bring Their Own Guests
+
+[原文] Call it "direct booking" if you like, but the reservation still runs on Airbnb's platform. And Airbnb's take rate now seems variable.
+
+📎 [阅读原文](https://skift.com/2026/08/29/airbnb-is-testing-lower-fees-for-hosts-who-bring-their-own-guests/) — *Skift*
+
+### 2. How SingleThread Is Growing Without Copying Itself
 
 [原文] SingleThread is expanding thoughtfully, leaning on translating its service culture through people and giving them bigger challenges to tackle.
 
 📎 [阅读原文](https://skift.com/2026/08/29/how-singlethread-is-growing-without-copying-itself/) — *Skift*
 
-### 2. Canadians Were Just Starting to Come Around to U.S. Travel. Then Came the Trade War.
+### 3. Canadians Were Just Starting to Come Around to U.S. Travel. Then Came the Trade War.
 
 [原文] Canadian travel to the U.S. had just hit its fourth straight month of year-over-year gains when tariff disputes between the two countries escalated — a worrisome development for hotel operators and de
 
 📎 [阅读原文](https://skift.com/2026/08/28/canada-us-trade-war-tourism/) — *Skift*
 
-### 3. Booking Holdings vs. Expedia in B2B: Bombshell Estimate Says Booking Leads in Room Nights
+### 4. Booking Holdings vs. Expedia in B2B: Bombshell Estimate Says Booking Leads in Room Nights
 
 [原文] No matter how you parse the numbers, Booking Holdings' B2B business appears to be a lot larger than the travel industry previously understood. Its in-process reorganization could have significant impl
 
 📎 [阅读原文](https://skift.com/2026/08/28/booking-holdings-vs-expedia-in-b2b-bombshell-estimate-says-booking-leads-in-room-nights/) — *Skift*
 
-### 4. What Hotelbeds’ Shrinking Margins Mean for Hotel Distribution
+### 5. What Hotelbeds’ Shrinking Margins Mean for Hotel Distribution
 
 [原文] Hotelbeds became the dominant independent bed bank through scale. Its results now show that scale alone no longer protects the economics.
 
 📎 [阅读原文](https://skift.com/2026/08/28/what-hotelbeds-shrinking-margins-mean-for-hotel-distribution/) — *Skift*
-
-### 5. Cheval Is Riding Out Dubai’s Demand Slump On Long-Stay Guests
-
-[原文] Cheval is betting Dubai’s domestic demand can carry it to recovery. S&P doesn’t see that recovery until 2027.
-
-📎 [阅读原文](https://skift.com/2026/08/28/cheval-is-riding-out-dubais-demand-slump-on-long-stay-guests/) — *Skift*
 
 ---
 
