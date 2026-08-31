@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年08月31日** | 生成时间: 2026-08-31 04:46
+**2026年08月31日** | 生成时间: 2026-08-31 12:38
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Eight killed and others missing after ferry capsizes off northern Cyprus
+### 1. Eight killed and 18 missing after ferry capsizes off northern Cyprus
 
 [原文] A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Iceland votes against restarting EU membership talks
+### 2. US strikes Iranian launchers on Larak Island in first known attack in weeks
+
+[原文] Iran says the attack killed two people and injured two others, in the first known US strike on Iran since late July.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. Iceland votes against restarting EU membership talks
 
 [原文] Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume accession talks.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Manhunt after shooting at Swiss rave kills woman, 22, and injures five
+### 4. Manhunt after shooting at Swiss rave kills woman, 22, and injures five
 
 [原文] Five others in their twenties were injured after shots were fired at a techno event near Zurich.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. 'A giant leap forward': Nasa launches powerful new space telescope
+### 5. 15 hikers feared missing after 'terrifying' flash flooding hits Grand Canyon
 
-[原文] The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter.
+[原文] "It was a beautiful day - and then people were screaming," one hiker who was airlifted to safety tells the BBC.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Canada installs large Lake Ontario sign in latest jab at US
-
-[原文] Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: "Lake Ontario. Now and Always."
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. He beat Big Tobacco. Will the same playbook work against Meta and social media?
+### 1. Trump threatens to blow up Iran's Kharg Island oil hub as hostilities escalate once again
+
+[原文] The last major U.S. strikes on Iran were carried out in late July.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/30/us-iran-strikes-strait-hormuz.html) — *CNBC*
+
+### 2. Oil rises over 1% after U.S. forces strike two Iranian rocket launchers on Larak Island
+
+[原文] Oil rises Monday, amid heightened concerns over supply disruptions after U.S. forces struck two Iranian rocket launchers on Larak Island on Sunday.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/31/oil-prices-hormuz-iran-larak-island-centcom.html) — *CNBC*
+
+### 3. Jackson Hole analyst roundup: Warsh's speech sends hike chances higher, may put Fed `at odds' with Treasury
+
+[原文] Fed Chair Kevin Warsh's hawkish stance reinforced expectations of a relatively tighter stance at the Federal Open Market Committee meeting in September.
+
+📎 [阅读原文](https://www.cnbc.com/2026/08/31/jackson-hole-fed-chair-kevin-warsh-hawkish-rate-hikes-analysts.html) — *CNBC*
+
+### 4. He beat Big Tobacco. Will the same playbook work against Meta and social media?
 
 [原文] Mike Moore beat Big Tobacco. Will the same playbook work against Meta and social media?
 
 📎 [阅读原文](https://www.cnbc.com/2026/08/30/mike-moore-ag-social-media-settlement-big-tobacco.html) — *CNBC*
 
-### 2. The 'choose your own adventure' earnings: Why retailers are handling tariff refunds so differently
+### 5. BYD shares slide as fierce China competition dents first-half earnings
 
-[原文] Retailers have diverged on how they've reported tariff refunds in their earnings this quarter, with some choosing to lower prices and others boosting margins.
+[原文] BYD shares slid after the automaker released its latest results on Friday, despite higher second-quarter profit and overseas growth.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/30/trump-tariff-refunds-walmart-home-depot-target.html) — *CNBC*
-
-### 3. Icelanders reject reopening talks to join the EU despite Trump's Greenland threats
-
-[原文] Icelanders voted 52.8% to 47.2% against reopening talks to join the European Union.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/30/iceland-eu-accession-referendum-result.html) — *CNBC*
-
-### 4. Trump criticizes NBC over election comment as Treasury denies some NYT, WSJ and Bloomberg reporters G20 credentials
-
-[原文] Trump's attack on NBC comes after the Treasury barred journalists from The New York Times, The Wall Street Journal and Bloomberg from attending the G20.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/30/trump-nbc-election-comment-treasury-g20-reporter-access.html) — *CNBC*
-
-### 5. What new tariff walls in U.S.-Canada trade war mean for the economy's critical metals
-
-[原文] When the U.S.-Canada trade war erupted, the market repriced metals and materials stocks and ETFs, but longer-term investors should be wary.
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/30/us-canada-trade-war-tariffs-steel-aluminum-metals-economy.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/08/31/byd-shares-slide-as-fierce-china-competition-dents-first-half-earnings.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Liux’s Big microcar bets on sustainability to take on Chinese rivals
+### 1. The U.S. is building barriers around drones and robots, but China has scale to get around them
+
+[原文] The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/) — *TechCrunch*
+
+### 2. Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off
+
+[原文] George Arison is done letting Wall Street's "Grindr discount" go unchallenged — in a wide-ranging Q&#038;A, the CEO walks us through how AI, a controversial $350-plus EDGE tier, and a bet on healthcar
+
+📎 [阅读原文](https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/) — *TechCrunch*
+
+### 3. Liux’s Big microcar bets on sustainability to take on Chinese rivals
 
 [原文] The Liux Big microcar is made in Spain. The startup thinks it can compete in a crowded market with its tiny electric car built around sustainability.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/) — *TechCrunch*
 
-### 2. Musk’s faster path to more gas turbines comes with pollution problem
+### 4. Musk’s faster path to more gas turbines comes with pollution problem
 
 [原文] Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already trigg
 
 📎 [阅读原文](https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/) — *TechCrunch*
 
-### 3. TechCrunch Mobility: The hidden human cost of robotaxis
+### 5. TechCrunch Mobility: The hidden human cost of robotaxis
 
 [原文] Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/) — *TechCrunch*
-
-### 4. Caterpillar is bringing to AI deployment what it learned from automating mining
-
-[原文] Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/) — *TechCrunch*
-
-### 5. Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft
-
-[原文] This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/) — *TechCrunch*
 
 ---
 
@@ -174,29 +174,29 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cpwl248p5vgo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. How did Rashford do on return to Man Utd XI? Player ratings
+### 2. Djokovic breaks down in tears during US Open first-round exit
+
+[原文] An emotional Novak Djokovic suffers a US Open first-round defeat which provided further evidence that age is fast catching up with the 39-year-old great.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/c39m1le9gjeo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. How did Rashford do on return to Man Utd XI? Player ratings
 
 [原文] How Manchester United and Ipswich Town's players rated following their Premier League match.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cx2z6kkqdxqo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. '14,000 runs for a reason' - Root calm on form
+### 4. GB's Samuel earns first win at a Grand Slam - but 'nervous' Norrie beaten
+
+[原文] British qualifier Toby Samuel breaks more new ground with a dominant victory over Tomas Machac on his US Open debut.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/c8045eyd84mo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 5. '14,000 runs for a reason' - Root calm on form
 
 [原文] England captain Joe Root is "not too concerned" about his recent modest returns with the bat, saying he has "14,000 runs for a reason".
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c2l8d45yen7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. 'His best Test for a year' - England-Pakistan player ratings
-
-[原文] Who produced their best Test performance in 12 months? Which batter is building a case to test the selectors? Player ratings from England's win over Pakistan.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c70d87p74pxo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Why Chelsea need more than a new goalkeeper to be title challengers
-
-[原文] Chelsea's new goalkeeper Emiliano Martinez made his debut in a thrilling 4-3 win over Brighton - but is unable to solve his new club's defensive problems on his own.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cwyzpez3x3go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘Days of Thunder’ Star Randy Quaid Says Anne Hathaway Is ‘Woke’ and a ‘Horrible Choice’ for the Sequel: ‘You Need the Original Girl’
+### 1. ‘Pokémon: Wild Card’ Movie Sets 2027 Release Date, Drops Anime Teaser Starring Trading Card Game Player
+
+[原文] It&#8217;s time to catch &#8217;em all because Pokémon is heading back to the big screen. The popular trading card and video game franchise is returning with &#8220;Pokémon: Wild Card,&#8221; a new mo
+
+📎 [阅读原文](https://variety.com/2026/film/news/pokemon-wild-card-movie-release-date-teaser-1236847050/) — *Variety*
+
+### 2. ‘Lanterns’ Stars Aaron Pierre, Jasmine Cephas Jones on John’s Backstory Episode and How Being Black Informs His Quest to Become Green Lantern: ‘Fear Is Instilled in Our Ancestry’
+
+[原文] SPOILER ALERT:&#160;This article contains spoilers for Season 1, Episode 3 of “Lanterns,” now streaming on HBO Max. From the series&#8217; opening scene, “Lanterns” sets up John Stewart’s (Aaron Pierr
+
+📎 [阅读原文](https://variety.com/2026/tv/features/lanterns-aaron-pierre-john-backstory-episode-green-lantern-1236838632/) — *Variety*
+
+### 3. Korea’s Showbox Launches Microdrama Label Showbite, Sets Sights on Global Markets (EXCLUSIVE)
+
+[原文] Showbox, the Korean film and content studio, has launched a new microdrama label, Showbite, and will begin rolling out original short-form content in September, spanning genres from romance and comedy
+
+📎 [阅读原文](https://variety.com/2026/tv/news/showbox-microdrama-label-showbite-global-markets-1236846765/) — *Variety*
+
+### 4. Enhypen Lands First No. 1, Dolly Parton Reenters Top Five on Albums Chart
+
+[原文] Enhypen has scored its first No. 1 on the Billboard 200 with &#8220;The Sin : Bliss,&#8221; while Dolly Parton reentered the top 5 with &#8220;Ultimate Dolly Parton&#8221; following news of her death 
+
+📎 [阅读原文](https://variety.com/2026/music/news/enhypen-land-first-no-1-dolly-parton-returns-albums-chart-1236846995/) — *Variety*
+
+### 5. ‘Days of Thunder’ Star Randy Quaid Says Anne Hathaway Is ‘Woke’ and a ‘Horrible Choice’ for the Sequel: ‘You Need the Original Girl’
 
 [原文] “Days of Thunder” star Randy Quaid sounded off on Anne Hathaway after it was revealed that she has joined Tom Cruise in the racing drama’s upcoming sequel. “We need Nicole [Kidman] back,” Quaid wrote 
 
 📎 [阅读原文](https://variety.com/2026/film/news/days-of-thunder-2-anne-hathaway-horrible-choice-randy-quaid-1236846972/) — *Variety*
-
-### 2. Sandra Bullock Seemingly Drops Hint That Olivia Rodrigo and Stevie Nicks Have Music in ‘Practical Magic 2’
-
-[原文] Will Olivia Rodrigo and Stevie Nicks bring their musical talents to “Practical Magic 2?” Star Sandra Bullock seemed to teased the two pop stars’ involvement in the Warner Bros. sequel in a post on her
-
-📎 [阅读原文](https://variety.com/2026/film/news/sandra-bullock-olivia-rodrigo-stevie-nicks-practical-magic-2-1236846948/) — *Variety*
-
-### 3. At Daisy Chain Fields, Olivia Rodrigo, Chappell Roan and Honored Forebears Convene for a Superb Festival That’s Hot to Go in Every Way: Concert Review
-
-[原文] You know an inaugural festival has been a success when, after the temperature reached 95 degrees, humidity topped 80%&#8230; perspiration stains were so pervasive that it was the odd dry spots that lo
-
-📎 [阅读原文](https://variety.com/2026/music/concert-reviews/daisy-chain-fields-olivia-rodrigo-chappell-roan-concert-review-1236846844/) — *Variety*
-
-### 4. President Trump Calls For FCC Punishment of NBC News’ Kristen Welker Following Promotional ‘Meet the Press’ Banter
-
-[原文] President Donald Trump suggested referring NBC News anchor Kristen Welker for possible punishment by the Federal Communications Commission after the &#8220;Meet the Press&#8221; moderator made innocuo
-
-📎 [阅读原文](https://variety.com/2026/tv/news/trump-kristen-welker-fcc-punishment-meet-the-press-1236846910/) — *Variety*
-
-### 5. Olivia Rodrigo Raises $20 Million With Daisy Chain Fields Festival Thanks to Matching Commitment From Melinda French Gates
-
-[原文] Olivia Rodrigo raised a significant sum of $10 million with her inaugural Daisy Chain Fields Festival — and then doubled it to $20 million, thanks to a matching commitment from philanthropist Melinda 
-
-📎 [阅读原文](https://variety.com/2026/music/news/olivia-rodrigo-raises-20-million-daisy-chain-melinda-gates-1236846915/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Star Wars and Jurassic Park VFX Legend Phil Tippett Closes Studio and Auctions Memorabilia
-
-[原文] Oscar-winning animator Phil Tippett is closing his Berkeley studio and auctioning off legendary Star Wars, Jurassic Park, and RoboCop props and memorabilia.
-
-📎 [阅读原文](https://www.ign.com/articles/phil-tippett-studio-closure-auction) — *IGN*
-
-### 2. Fable's Main Quest Will Take About 20 Hours to Beat
-
-[原文] Fable's main quest will take around 20 hours to beat, Playground Games has confirmed.
-
-📎 [阅读原文](https://www.ign.com/articles/fables-main-quest-will-take-about-20-hours-to-beat) — *IGN*
-
-### 3. GTA 6 Fans Think They Found Jason and Lucia's Vice City Apartment in Real Life
-
-[原文] Grand Theft Auto 6 fans think they've spotted the real-life inspiration for Jason and Lucia's Vice City apartment – but don't expect to ever visit it yourself.
-
-📎 [阅读原文](https://www.ign.com/articles/gta-6-fans-think-they-found-jason-and-lucias-vice-city-apartment-in-real-life) — *IGN*
-
-### 4. Every Cosmere Tabletop Game Based on Brandon Sanderson's Epic Book Universe
+### 1. Pokemon: Wild Card the Movie Announced for 2027
 
 暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/all-cosmere-tabletop-and-board-games) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/pokemon-wild-card-the-movie-announced-for-2027) — *IGN*
 
-### 5. Everything Coming to Disney+ in September
+### 2. 2026 Pokémon World Championships: Everything Announced
 
 暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/whats-new-on-disney-plus-september-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/2026-pokemon-world-championships-everything-announced) — *IGN*
+
+### 3. Lanterns Season 1, Episode 3 Review & Recap: 'OutKast'
+
+[原文] Lanterns Episode 3 succeeds in delivering a very different kind of superhero origin story, and the series is all the better for it. Read our review of "OutKast."
+
+📎 [阅读原文](https://www.ign.com/articles/lanterns-season-1-episode-3-review-recap-outkast) — *IGN*
+
+### 4. GTA 5's Michael Actor Defends GTA 6 After Doubters Say Rockstar's Games Look Too Similar
+
+[原文] Ned Luke, the actor behind Grand Theft Auto 5's Michael De Santa, said people who think Grand Theft Auto 6 looks too much like GTA 5 are "out of their minds."
+
+📎 [阅读原文](https://www.ign.com/articles/gta-5s-michael-actor-defends-gta-6-after-doubters-say-rockstars-games-look-too-similar) — *IGN*
+
+### 5. The Best Deals Today: LEGO Star Wars, Dragon Quest I & II HD-2D Remake, Jurassic Park 4K Collection, and More
+
+暂无摘要。
+
+📎 [阅读原文](https://www.ign.com/articles/best-deals-for-august-30-2026) — *IGN*
 
 ---
 
