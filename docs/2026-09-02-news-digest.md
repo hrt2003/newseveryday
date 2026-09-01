@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月02日** | 生成时间: 2026-09-02 00:19
+**2026年09月02日** | 生成时间: 2026-09-02 04:47
 
 ---
 
@@ -22,29 +22,29 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. 'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban
+### 2. US launches more strikes on Iran as state media reports explosions
+
+[原文] US Central Command accused Iran of targeting commercial shipping and American service members deployed in the region.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. 'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban
 
 [原文] As of August, the number forced to return this year from Pakistan and Iran had reached another million.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Nepal death toll crosses 1,000 as rescuers race to find workers trapped in mud-filled tunnels
+### 4. River water smashed into tunnel and chased me for 20 minutes, Nepal worker tells BBC
 
-[原文] Thousands are still missing as Chinese state media report the official number of fatalities in Tibet at 16.
+[原文] Major efforts to rescue hydropower workers continue as Nepal's death toll exceeds 1,000.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cg49590v6k1o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Sexual assaults happening almost every day in Ceuta, prosecutors say
+### 5. Sexual assaults happening almost every day in Ceuta, prosecutors say
 
 [原文] Most migrants have returned to neighbouring Morocco, but as many as 5,000 remain in the Spanish exclave.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Vance calls Michigan Senate candidate El-Sayed 'evil' at campaign rally
-
-[原文] El-Sayed faces Trump ally Mike Rogers in what has quickly become a senate race characterised by personal attacks and insults between the two.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cn9w39py48xo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. 10-year yield hits highest since January 2025 as higher oil prices stoke inflation worries
+### 1. Bessent touts bond market as 10-year Treasury yield spikes
 
-[原文] Treasury yields increased on Tuesday as investors monitored a reignition of tensions in the Middle East.
+[原文] Treasury Secretary Scott Bessent downplayed short-term bond moves even as he touted the U.S. market, saying, "what happens over a month doesn't matter."
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/01/bonds-treasury-yields-middle-east-tensions.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/01/bessent-trump-bond-yields-g20.html) — *CNBC*
 
-### 2. Canada's Carney slaps Trump admin for 'doing memes ... throwing shade'
+### 2. U.S. House votes to avoid government shutdown amid GOP hard-liner resistance
 
-[原文] Canadian Prime Minister Mark Carney said, "It's beneath their office' when asked about Trump Cabinet secretaries insulting his nation's military.
+[原文] The U.S. House on Tuesday voted in favor of a short-term spending measure that would avoid a government shutdown until after November's midterm election.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/01/congress-government-shutdown-vote.html) — *CNBC*
+
+### 3. Canada's Carney slaps Trump admin for 'doing memes ... throwing shade'
+
+[原文] Canadian Prime Minister Mark Carney said "It's beneath their office' when asked about Trump Cabinet secretaries insulting his nation's military.
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/01/canada-carney-trump-trade-ontario.html) — *CNBC*
 
-### 3. Crypto enters September with legislative policy gamble hanging by a thread
+### 4. Palo Alto Networks beats quarterly estimates on AI demand, continues acquisition spree
 
-[原文] Comprehensive industry legislation teeters on the brink amid growing doubts the bill will cross the finish line.
+[原文] Palo Alto Networks' stock has nearly doubled this year as AI boosts demand for security detection and response tools
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/01/crypto-enters-september-with-policy-gamble-hanging-by-a-thread.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/01/palo-alto-networks-panw-q4-2026-earnings.html) — *CNBC*
 
-### 4. AI token prices are hitting new record lows
+### 5. House to vote on measure condemning socialism ahead of November election
 
-[原文] A closely followed measure of artificial intelligence token prices touched fresh lows.
+[原文] Republicans also inserted a call to pass the highly controversial voter-ID bill known as the SAVE America Act into the socialism resolution.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/01/ai-token-prices-lows.html) — *CNBC*
-
-### 5. Fed Governor Barr says he'll support rate hike if inflation doesn't ease
-
-[原文] The policymaker said he's concerned about "broader price pressures taking hold" as inflation has prevailed above the Fed's 2% target.
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/01/fed-governor-barr-says-hell-support-rate-hike-if-inflation-doesnt-ease.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/01/congress-vote-condemning-socialism-election.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. GoPro to be acquired for $285M, will remain a public company
+### 1. John Ternus hypes ‘huge launch next week’ in first memo as Apple CEO
 
-[原文] GoPro is merging with a company that builds AI infrastructure, and will continue supporting existing consumer products.
+[原文] Apple is hosting its iPhone release event next week, which is rumored to feature the first-ever foldable iPhone.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/01/gopro-to-be-acquired-for-285m-will-remain-a-public-company/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/) — *TechCrunch*
 
-### 2. Amazon Alexa can now alert you when something new might tempt you to shop
+### 2. Anthropic’s new Fable release is cheaper, less restrictive
 
-[原文] Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase.
+[原文] Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/) — *TechCrunch*
 
-### 3. AIR raises $50M to help companies vet the skills and add-ons AI agents use
+### 3. Thrive’s Kushner defends involvement in FIFA mess, hires Elon’s go-to lawyer
 
-[原文] AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behaviour.
+[原文] New York's prestigious-yet-secretive venture firm Thrive Capital finally speaks out about its involvement in the messy drama upending international soccer.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/01/thrives-kushner-defends-involvement-in-fifa-mess-hires-elons-go-to-lawyer/) — *TechCrunch*
 
-### 4. Microsoft 365 outage drags on, but things are improving
+### 4. Who is John Ternus, the new Apple CEO?
 
-[原文] Microsoft 365 and Outlook are still seeing service degradations on Tuesday, the company's status page indicates.
+[原文] Starting on September 1, Ternus will lead one of the world's most valuable companies, but if you're not a dedicated Apple enthusiast, you've probably never heard of this man, who has largely remained 
 
-📎 [阅读原文](https://techcrunch.com/2026/09/01/microsoft-365-outage-drags-on-but-things-are-improving/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/01/who-is-john-ternus-the-incoming-apple-ceo/) — *TechCrunch*
 
-### 5. Fambot introduces an ‘AI chief of staff’ for families
+### 5. Google’s answer to Canva is an AI tool where you prompt instead of design
 
-[原文] Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.
+[原文] With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Man City agree £125m fee for Chelsea's Fernandez
+### 1. Premier League breaks transfer record for second straight summer
+
+[原文] Premier League clubs break their all-time summer transfer record after spending reaches £3.198bn.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/czxzk0znvzeo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. Chelsea agree £47.1m move for Monaco's Camara
+
+[原文] Chelsea have moved to replace outgoing midfielder Enzo Fernandez with Monaco's Lamine Camara.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ce8emxm7xmzo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. Superb England crush Ireland with record ODI chase
+
+[原文] Maia Bouchier's stunning century helps England women seal their record one-day international chase of 282 to beat Ireland in the series opener.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cjdvem7yke9o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. Man City sign Ndiaye from Everton for £65m
+
+[原文] Manchester City sign winger Iliman Ndiaye from Everton in a deal worth up to £65m.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c3wj1qw5x04o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 5. Man City agree £125m fee for Chelsea's Fernandez
 
 [原文] Manchester City agree to pay a British transfer record fee of £125m for Chelsea midfielder Enzo Fernandez.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cr7deg1ze03o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 2. Newcastle sign Fernandez-Pardo from Lille for £51m
-
-[原文] Newcastle United sign Belgium forward Matias Fernandez-Pardo from Lille for an initial £51.4m.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c5ylv97mn58o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 3. Celtic sign Parma's Sorensen, with more to come before deadline
-
-[原文] Celtic sign Parma midfielder Oliver Sorensen on loan shortly after assistant manager Shaun Maloney suggests the Scottish champions were working on up to four additions before finalising their Europa L
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c62ek3n67e7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. What does Norris deal mean for Piastri? F1 Q&A
-
-[原文] BBC Sport F1 correspondent Andrew Benson answers your latest questions before the Italian Grand Prix.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/ckgx017vmjeo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Aston Villa sign Mbaye and Harwood-Bellis
-
-[原文] Aston Villa complete the signings of Senegal winger Ibrahim Mbaye from Paris St-Germain and English centre-back Taylor Harwood-Bellis from Southampton.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c1kxmjvnl8yo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. California Lawmakers Pass Film Credit Fix on Tax Cap
+### 1. Variety and Utopai Studios to Host Future in Focus Conversations at TIFF
 
-[原文] The California Legislature has approved a budget fix for the entertainment industry that allows studios to cash in their tax credits faster. Both the Assembly and state Senate passed the bill, SB 186,
+[原文] Variety Future in Focus, presented by Utopai Studios, will bring together leading filmmakers and creative voices at the Toronto International Film Festival. The invite-only event, presented on Sept. 1
 
-📎 [阅读原文](https://variety.com/2026/film/news/california-lawmakers-film-credit-fix-tax-cap-1236847905/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/variety-utopai-studios-host-future-in-focus-tiff-1236847582/) — *Variety*
 
-### 2. Miley Cyrus Announces New Album ‘Bass Persuades,’ Sets Two Shows for Hollywood Bowl
+### 2. Tony Romo Suggests He’d Like to Return to CBS’ NFL Coverage After No Contest Plea
 
-[原文] Miley Cyrus has announced her new album &#8220;Bass Persuades,&#8221; releasing on September 18 via Atlantic Records. Cyrus will also make a rare return to the stage with a two-night stint at Hollywoo
+[原文] Tony Romo has analyzed plays for CBS Sports since 2017. Now he&#8217;s considering a new one, in which he hopes the network allows him to return following a run-in with the law. Romo on Tuesday said h
 
-📎 [阅读原文](https://variety.com/2026/music/news/miley-cyrus-new-album-bass-persuades-hollywood-bowl-1236847024/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/tony-romo-cbs-nfl-return-cbs-no-contest-plea-1236848637/) — *Variety*
 
-### 3. Matthew Perry Docuseries Set at Netflix With October Release Date
+### 3. Producer Urged Trump to Back U.S. Film Incentive Citing Prospect of Shooting Richard Nixon Biopic Overseas
 
-[原文] &#8220;The One About Matthew Perry,&#8221; a three-part docuseries about the &#8220;Friends&#8221; star&#8217;s life and career, will debut on Netflix on October 27. Perry&#8217;s sister, Mia Perry Bo
+[原文] President Donald Trump came away from a meeting with actor Jon Voight and two Hollywood producers very supportive of a federal tax incentive for film and TV productions. Something that may have caught
 
-📎 [阅读原文](https://variety.com/2026/tv/news/matthew-perry-documentary-netflix-october-release-date-1236847540/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/trump-us-film-incentive-white-house-meeting-richard-nixon-biopic-overseas-1236848380/) — *Variety*
 
-### 4. HBO Max to Revamp Harry Potter Film Rewatch Podcast Into Companion Series for New TV Show (EXCLUSIVE)
+### 4. Jason Isbell Leads New Suno Lawsuit, Claims AI Music Generator ‘Exploits’ Musicians’ Identities in Models
 
-[原文] HBO Max is ending its Harry Potter film rewatch podcast and turning it into a companion program for the upcoming HBO TV series adaptation of J.K. Rowling&#8217;s work. The podcast, currently titled &#
+[原文] Grammy-winning Americana crooner Jason Isbell is one of several new litigants in a new federal lawsuit against the AI music generator Suno, arguing the company has allowed users to produce tracks base
 
-📎 [阅读原文](https://variety.com/2026/tv/news/harry-potter-tv-show-podcast-hbo-max-1236847756/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/jason-isbell-suno-lawsuit-ai-music-exploits-identities-1236848468/) — *Variety*
 
-### 5. Chuck Lorre to Be Honored at Project Angel Food Gala (EXCLUSIVE)
+### 5. ‘Avengers: Secret Wars’ Adds Noah Jupe to Cast
 
-[原文] Philanthropist and television writer-producer Chuck Lorre will receive the Founders Angel Award at Project Angel Food’s annual Angel Awards Gala on Saturday, Sept. 26 in Los Angeles.&#160; This award 
+[原文] Noah Jupe will be the latest actor to join the Marvel Cinematic Universe, with the &#8220;Hamnet&#8221; and &#8220;A Quiet Place&#8221; star tapped to play a top-secret role in &#8220;Avengers: Secret
 
-📎 [阅读原文](https://variety.com/2026/awards/events/chuck-lorre-to-be-honored-by-project-angel-food-exclusive-1236847868/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/marvel-avengers-secret-wars-noah-jupe-cast-1236848537/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Afterworld: The First Hands-On Preview: A (Probably Too Early) Taste of Paradox’s Next Big Thing
+### 1. The 3-in-1 LEGO Haunted Mansion Drops to a New Low Price, Includes a Haunted Train Build
 
-[原文] Typical for a Paradox game, Afterworld contains systems upon systems upon systems. It would be impossible to cover them all in the scope of this preview, from sending ranger teams into devastated citi
+暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/afterworld-the-first-hands-on-preview-a-probably-too-early-taste-of-paradoxs-next-big-thing) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/the-3-in-1-lego-haunted-mansion-drops-to-a-new-low-price-includes-a-haunted-train-build) — *IGN*
 
-### 2. Alex Ross Returns for New Marvel Dimensions Graphic Novel
+### 2. Save 53% Off Like New Sony WH-1000XM6 Noise Canceling Headphones During eBay's Labor Day Sale
 
-[原文] The legendary Alex Ross is back in the Marvel Universe for Marvel Dimensions. Check out our exclusive preview of this mind-bending graphic novel.
+[原文] Includes a 2 year warranty.
 
-📎 [阅读原文](https://www.ign.com/articles/alex-ross-returns-for-new-marvel-dimensions-graphic-novel) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/sony-wh-1000xm6-wireless-noise-canceling-headphone-deal-ebay-labor-day-sale) — *IGN*
 
-### 3. Marvel’s Wolverine: Explaining the Origins of the PS5 Game’s Suits
+### 3. Amazon Resale Has a Like New Nintendo Switch Pro Controller for Just $48.12 With Free Shipping
 
-[原文] We break down every costume confirmed to appear in Marvel's Wolverine and how Insomniac's new game draws on decades of X-Men lore.
+[原文] Switch 2 compatible.
 
-📎 [阅读原文](https://www.ign.com/articles/marvels-wolverine-ps5-game-costumes-origins) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/nintendo-switch-pro-controller-deal-september-2026) — *IGN*
 
-### 4. Video Game Release Dates: The Biggest Games Coming Soon
+### 4. Get Two Months of the Paramount+ Premium (Ad-Free) Subscription for Just $1 Per Month
 
-[原文] An updated list of video game release dates for PS5, Xbox Series X|S, Nintendo Switch, Switch 2, and PC games.
+[原文] Most new and returning (non-current) subscribers should be eligible.
 
-📎 [阅读原文](https://www.ign.com/articles/video-game-release-dates-ps4-ps5-xbox-one-series-x-nintendo-switch) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/paramount-plus-subscription-deal-august-2026) — *IGN*
 
-### 5. 'I Don't Think There's Any Plan': Kit Harington Gives Disappointing Update on His Marvel Future as Black Knight
+### 5. The Excellent Sony WH-1000XM5 Noise Canceling Wireless Headphones Drops to $198 on Amazon
 
-[原文] Game of Thrones star Kit Harrington has given a disappointing update on the future of his Marvel character Dane Whitman, better known as Black Knight.
+[原文] The best noise canceling over-ear headphones under $200.
 
-📎 [阅读原文](https://www.ign.com/articles/i-dont-think-theres-any-plan-kit-harington-gives-disappointing-update-on-his-marvel-future-as-black-knight) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/sony-wh1000xm5-noise-canceling-wireless-headphone-deal-august-2026) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Cadillac Could Have Used a $2 Sticker on the Optiq. It Chose to Etch Glass Instead
+### 1. Kia Is on Fire
+
+[原文] Even in a turbulent market, Kia just set an all-time monthly sales record in August and is on track for its fourth consecutive record year.
+The post Kia Is on Fire appeared first on The Drive.
+
+📎 [阅读原文](https://www.thedrive.com/news/kia-is-on-fire) — *The Drive*
+
+### 2. Vintage Chevy Tow Truck That Was Stuck on a Mountain for a Year Is Finally Pulled Out
+
+[原文] After sliding off a trail and getting stuck for 11 months, the squarebody Chevy also became part of a fight over abandoned vehicles in the American west.
+The post Vintage Chevy Tow Truck That Was Stuc
+
+📎 [阅读原文](https://www.thedrive.com/news/this-wrecked-tow-truck-sparked-drama-after-sitting-on-a-mountainside-for-months-now-its-been-retrieved) — *The Drive*
+
+### 3. EV Renter Hit With $418 Charging Bill After Using Dealer’s Public Charger
+
+[原文] This man was charged 31 times the normal rate to recharge a Chevrolet Bolt.
+The post EV Renter Hit With $418 Charging Bill After Using Dealer&#8217;s Public Charger appeared first on The Drive.
+
+📎 [阅读原文](https://www.thedrive.com/news/ev-renter-hit-with-418-charging-bill-after-using-dealers-public-charger) — *The Drive*
+
+### 4. Cadillac Could Have Used a $2 Sticker on the Optiq. It Chose to Etch Glass Instead
 
 [原文] Cadillac lavished a neat design touch many will never notice on the windows of its SUVs, and it's more than a simple decal.
 The post Cadillac Could Have Used a $2 Sticker on the Optiq. It Chose to Etc
 
 📎 [阅读原文](https://www.thedrive.com/news/cadillac-could-have-used-a-2-sticker-on-the-optiq-it-chose-to-etch-glass-instead) — *The Drive*
 
-### 2. Mazda Plans to Turnaround Struggles With ‘Unprecedented’ Product Revival Campaign: TDS
+### 5. Mazda Plans to Turnaround Struggles With ‘Unprecedented’ Product Revival Campaign: TDS
 
 [原文] Mazda's CEO says it will roll out model upgrades "on a scale unprecedented to date" to stem a two-year sales slide.
 The post Mazda Plans to Turnaround Struggles With &#8216;Unprecedented&#8217; Produc
 
 📎 [阅读原文](https://www.thedrive.com/news/mazda-plans-to-turnaround-struggles-with-unprecedented-product-revival-campaign-tds) — *The Drive*
-
-### 3. 2027 Bentley Supersports First-Drive Review: The Lightweight Sports Car Bentley Should’ve Built All Along
-
-[原文] Bentley's new track-day special is about as silly as you'd expect and as quick as you'd hope.
-The post 2027 Bentley Supersports First-Drive Review: The Lightweight Sports Car Bentley Should&#8217;ve B
-
-📎 [阅读原文](https://www.thedrive.com/car-reviews/2027-bentley-supersports-first-drive-review) — *The Drive*
-
-### 4. Half-Off Tools, Free Batteries, and More Labor Day Sale Scores at The Home Depot To Finish Off Your Last Summer Projects
-
-[原文] The Home Depot is deeply discounting almost everything from tools to accessories so you can finish your last summer projects before the cold weather comes back.
-The post Half-Off Tools, Free Batteries
-
-📎 [阅读原文](https://www.thedrive.com/news/half-off-tools-free-batteries-and-more-labor-day-sale-scores-at-the-home-depot-to-finish-off-your-last-summer-projects) — *The Drive*
-
-### 5. Those Sketchy ‘Freedom Fuel’ Gas Stations Were Selling Stolen Fuel: Lawsuit
-
-[原文] Wondering how Freedom Fuel Network was able to sell gas for so cheap? A lawsuit claims it was stolen from the supplier.
-The post Those Sketchy &#8216;Freedom Fuel&#8217; Gas Stations Were Selling Stol
-
-📎 [阅读原文](https://www.thedrive.com/news/those-sketchy-freedom-fuel-gas-stations-were-selling-stolen-fuel-lawsuit) — *The Drive*
 
 ---
 
@@ -439,35 +439,35 @@ The post Those Sketchy &#8216;Freedom Fuel&#8217; Gas Stations Were Selling Stol
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Who Announce Massive ‘Who By Numbers’ Box Set With 92 Unreleased Tracks
+### 1. Lizzo Stylist’s Lawsuit Against Singer’s Touring Company Shut Down by Judge
 
-[原文] The five-disc set includes two complete concerts from 1976, studio jams and alternate renditions of the songs, and Pete Townshend's original demos
+[原文] Judge rules Asha Daniels failed to identify conduct by employees that demonstrated “general hostility” to women in the workplace
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/lizzo-stylist-lawsuit-shut-down-1235619054/) — *Rolling Stone*
+
+### 2. Miley (No Last Name) Plans 10th Album, ‘Bass Persuades,’ Hollywood Bowl Dates
+
+[原文] The artist teased the upcoming release with a 30-second instrumental video of her playing guitar
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/miley-cyrus-bass-persuades-hollywood-bowl-1235618977/) — *Rolling Stone*
+
+### 3. Journey Brought Out Hugo Valenti for a Second Time — And This Time He Nailed It
+
+[原文] The longtime tribute band singer once again sang with Journey at a show in Japan, fronting the group on “Faithfully” and the 1981 deep cut “Keep on Runnin’”
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/journey-hugo-valenti-second-time-1235618975/) — *Rolling Stone*
+
+### 4. Mark the Spot, Episode 2: Fashion
+
+[原文] D for Dapper
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/mark-the-spot-episode-2-fashion-d-for-dapper-1235584567/) — *Rolling Stone*
+
+### 5. The Who Announce Massive ‘Who By Numbers’ Box Set With 92 Unreleased Tracks
+
+[原文] The five-disc set includes two complete concerts from 1976, studio jams and alternate renditions of the songs, and Pete Townshend’s original demos
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/the-who-who-by-numbers-box-1235618864/) — *Rolling Stone*
-
-### 2. George Michael Takes a Pop Star Victory Lap in New Trailer for ‘The Faith Tour’ Concert Film
-
-[原文] The upcoming movie was assembled out of previously unreleased footage of Michael's two 1988 concerts in Paris
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/george-michael-new-trailer-faith-tour-concert-film-1235618885/) — *Rolling Stone*
-
-### 3. Yeah Yeah Yeahs Unveil Live Album Recorded at London’s Royal Albert Hall
-
-[原文] The album, Hidden in Pieces Live at the Royal Albert Hall, was recorded last year and arrived alongside a short film
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/yeah-yeah-yeahs-live-album-short-film-london-1235618795/) — *Rolling Stone*
-
-### 4. Watch Drake Perform ‘Iceman’ Tracks Live at Don Toliver’s Toronto Show
-
-[原文] The rapper showcased “Shabang,” “Burning Bridges,” and “Janice STFU” on stage for the first time
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/drake-iceman-tracks-live-don-toliver-toronto-show-1235618799/) — *Rolling Stone*
-
-### 5. Watch Kelly Clarkson’s Sensational Cover of ‘Golden’ on Final Show
-
-[原文] The KPop Demon Hunters song was the most requested Kellyoke, said Clarkson’s team
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/kelly-clarkson-final-season-golden-kellyoke-1235618746/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post Those Sketchy &#8216;Freedom Fuel&#8217; Gas Stations Were Selling Stol
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Airbnb Names Ex-Booking.com Hotel Boss and Viator President as Chief Business Officer
+### 1. JetBlue Unveils New Domestic First Class Seats as It Hopes to End Losing Streak
+
+[原文] JetBlue’s new domestic first class seats seek to give customers a more premium experience with customized cocktails, meals, and roomy seats made with mattress foam. The carrier is banking on the seats
+
+📎 [阅读原文](https://skift.com/2026/09/01/jetblue-unveils-new-domestic-first-class-seats/) — *Skift*
+
+### 2. What Happens to a Travel Company Owned by Private Equity for Too Long?
+
+[原文] One of travel's best tour operators went to market and couldn't sell. The reasons tell you as much about where the industry is headed as about the company itself.
+
+📎 [阅读原文](https://skift.com/2026/09/01/what-happens-to-a-travel-company-owned-by-private-equity-for-too-long/) — *Skift*
+
+### 3. AirDNA Enters Revenue Management Market With Host Dynamic Pricing Tool: Exclusive
+
+[原文] Short-term rental hosts are leaving money on the table if they don't at least dabble in dynamic pricing. If AirDNA can make the process easier for hosts, then there is a big upside awaiting.
+
+📎 [阅读原文](https://skift.com/2026/09/01/airdna-enters-revenue-management-market-with-host-dynamic-pricing-tool-exclusive/) — *Skift*
+
+### 4. Airbnb Names Ex-Booking.com Hotel Boss and Tripadvisor Exec as Chief Business Officer
 
 [原文] If Airbnb needs people connections and know-how to scale its boutique hotels business, it found someone with deep experience in Pepijn Rijvers. He also has marketing and tours and activities experienc
 
 📎 [阅读原文](https://skift.com/2026/09/01/airbnb-names-ex-booking-com-hotel-boss-and-viator-president-as-chief-business-officer/) — *Skift*
 
-### 2. The F&B Strategy That Starts With Winning Over Locals, Not Just Guests
+### 5. The F&B Strategy That Starts With Winning Over Locals, Not Just Guests
 
 [原文] As hotel owners look for growth beyond the guest room, restaurants and bars are playing a more central role in how a property attracts locals, builds identity, and generates revenue. Paris Society, pa
 
 📎 [阅读原文](https://skift.com/2026/09/01/accor-ennismore-paris-society-food-beverage-strategy/) — *Skift*
-
-### 3. Vrbo Brings Sponsored Listings to Vacation Rental Search
-
-[原文] For vacation rental managers, Vrbo’s new ad product could unlock more business. The question is whether managers see incremental demand — or pay more just to stay visible.
-
-📎 [阅读原文](https://skift.com/2026/09/01/vrbo-brings-paid-placement-to-vacation-rental-search/) — *Skift*
-
-### 4. Fosun Files for ClubMed IPO in Hong Kong
-
-[原文] ClubMed's revenue rose less than 2% last year, suggesting that "premiumization" isn't delivering pricing power yet. An IPO would generate capital that might help fix that.
-
-📎 [阅读原文](https://skift.com/2026/08/31/fosun-files-for-clubmed-ipo-in-hong-kong/) — *Skift*
-
-### 5. Marriott Presses Sales Teams on $1.55 Billion ‘Gap to Goal’ for 2027 Groups
-
-[原文] Marriott has given sales teams a year-end stretch goal of $1.55 billion for group bookings for next year at the hotels it manages in the U.S. and Canada. Its global 2027 group sales look "flattish." O
-
-📎 [阅读原文](https://skift.com/2026/08/31/marriott-presses-sales-teams-on-1-55-billion-gap-to-goal-for-2027-groups/) — *Skift*
 
 ---
 
