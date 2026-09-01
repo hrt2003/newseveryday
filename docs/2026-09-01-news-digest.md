@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月01日** | 生成时间: 2026-09-01 12:19
+**2026年09月01日** | 生成时间: 2026-09-01 19:21
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. What it was like inside court for Tupac Shakur’s murder trial verdict
+### 1. 'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban
 
-[原文] BBC presenter Anoushka Mutanda-Dougherty describes what it was like when Duane "Keffe D" Davis was found guilty of murdering the famous rapper.
+[原文] As of August, the number forced to return this year from Pakistan and Iran had reached another million.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/videos/cz6zp2pwzx5o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously
+### 2. Nepal death toll crosses 1,000 as rescuers race to find workers trapped in mud-filled tunnels
 
-[原文] Rescuers have resorted to explosives as they struggle to reach trapped workers, as the flooding death toll reaches 939.
+[原文] Thousands are still missing as Chinese state media report the official number of fatalities in Tibet at 16.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. US singer D4vd's celebrity lawyers withdraw from murder case
+### 3. Russian attack hits rail workers in new deadly strikes on Kyiv
 
-[原文] The singer, 21, will be now represented by a public defender in the murder trial of 14-year-old Celeste Rivas Hernandez. He has pleaded not guilty.
+[原文] Ukrainian officials say 20 people, including two children, were injured in the capital and the wider region.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/crr451lpl4no?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2zmdgry3do?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Man arrested after Swiss rave shooting that killed woman
+### 4. The final minutes before floodwater crashed through Nepal-China border
 
-[原文] A 22-year-old Italian woman was killed and several injured at a techno rave in Aarau.
+[原文] More than 100 Indians are missing at a vital Nepal-China trade crossing after devastating Himalayan floods.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cddv92n194vo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Shein shares fall in long-awaited stock market debut
+### 5. Israeli fire kills three in Gaza City during reported raid, medics say
 
-[原文] The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London.
+[原文] Unconfirmed local reports say the Israeli military carried out air and artillery strikes after a raid by an Israel-backed militia was discovered.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Venezuela grants U.S.-backed oil firm NABEP 100-year concessions for 17 oil fields, White House says
+### 1. 10-year yield hits highest since January 2025 as Middle East tensions return to focus
 
-[原文] Venezuelan interim authorities have granted North American Blue Energy Partners 100-year concessions for 17 oil fields, White House says.
+[原文] Treasury yields increased on Tuesday as investors monitored a reignition of tensions in the Middle East.
 
-📎 [阅读原文](https://www.cnbc.com/2026/08/31/venezuela-grants-north-american-blue-energy-partners-100-year-concessions-for-17-oil-fields-white-house-says.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/01/bonds-treasury-yields-middle-east-tensions.html) — *CNBC*
 
-### 2. Tanker struck in Hormuz, raising worries over escalation, as Trump vows to hit Iran 'hard'
+### 2. Apple enters John Ternus era as AI challenges and memory crunch intensify
+
+[原文] John Ternus' first day as Apple CEO comes at a critical juncture for the iPhone maker, with memory prices soaring and AI challenges looming.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/01/apple-enters-ternus-era-as-ai-challenges-and-memory-crunch-intensify.html) — *CNBC*
+
+### 3. Livestream shopping is gaining steam in the U.S., thanks to apps like TikTok and Whatnot
+
+[原文] Whatnot and TikTok are tapping into its potential livestream shopping in the U.S. after a decade of massive success in China.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/01/tiktok-whatnot-livestream-shopping.html) — *CNBC*
+
+### 4. Tehran urges return to June deal, oil prices rise as Trump vows to hit Iran 'hard'
 
 [原文] Iran launched an attack on two American bases in Jordan on Monday in retaliation for the U.S. attack on its Larak Island.
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/01/us-iran-war-trump-hormuz-tanker-attack-shipping-sanctions-.html) — *CNBC*
 
-### 3. Bessent reportedly tells Russia no economic relief until Ukraine war ends as Europe snubs Moscow at G20
+### 5. India rejects court order to uphold decades-old water-sharing treaty with Pakistan
 
-[原文] The meeting underscored Washington's willingness to reopen diplomatic talks with Moscow, as Europe intends to isolate the nation while the war continues.
+[原文] The arbitration ruling adds a new layer of stress to a long-simmering water dispute between two nuclear-armed neighbors.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/01/bessent-russia-ukraine-war-sanctions-war-g20-.html) — *CNBC*
-
-### 4. Indian PM Modi implores Putin to end Ukraine war amid U.S. tariff threat on Russian oil
-
-[原文] Indian PM Narendra Modi has urged Russia to end the Ukraine war and to cease hostilities.
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/01/russia-india-ukraine-war-oil-modi-putin.html) — *CNBC*
-
-### 5. Supreme Court lets Trump build White House ballroom as lawsuit continues
-
-[原文] Chief Justice John Roberts dissented with three liberal justices, saying, "That construction is likely unlawful."
-
-📎 [阅读原文](https://www.cnbc.com/2026/08/31/supreme-court-white-house-ballroom.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/01/india-hague-ruling-pakistan-water-treaty.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year
+### 1. If space data centers feel far-fetched, why not interstellar travel?
+
+[原文] The team behind Starcloud's orbital data centers has a new high-risk space project: Sending a probe to Alpha Centauri.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/01/if-space-data-centers-feel-far-fetched-why-not-interstellar-travel/) — *TechCrunch*
+
+### 2. Magna increases bet on battery swapping in India with $35M for Yuma
+
+[原文] Magna's investment in Yuma Energy has reached $87 million as the Canadian auto supplier increases its majority stake in the Indian battery-swapping firm.
+
+📎 [阅读原文](https://techcrunch.com/2026/08/31/magna-increases-bet-on-battery-swapping-in-india-with-35m-for-yuma/) — *TechCrunch*
+
+### 3. Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year
 
 [原文] Founded by a 20-year-old, Alteon is developing autonomous aircraft that hopes to harvest wind energy to stay aloft for several months.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/) — *TechCrunch*
 
-### 2. Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI
+### 4. Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI
 
 [原文] Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/) — *TechCrunch*
 
-### 3. Polymarket reportedly raises $300 million from Donald Trump Jr.’s investment fund
+### 5. Polymarket reportedly raises $300 million from Donald Trump Jr.’s investment fund
 
 [原文] The firm, 1789 Capital, led the funding round that reportedly will total around $1 billion.
 
 📎 [阅读原文](https://techcrunch.com/2026/08/31/polymarket-reportedly-raises-300-million-from-donald-trump-jr-s-investment-fund/) — *TechCrunch*
-
-### 4. a16z brings growth fund to $8.5B days after launching new $1.1B fund
-
-[原文] Andreessen Horowitz held out its hand and returned with billions more in new funds to invest in startups.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/31/a16z-brings-growth-fund-to-8-5b-days-after-launching-new-1-1b-fund/) — *TechCrunch*
-
-### 5. A group funded by Andreessen, Horowitz, and Brockman plans data center ads to sway midterms
-
-[原文] Build American AI plans to lobby voters in select states about the virtues of data centers by spending millions of dollars on ads.
-
-📎 [阅读原文](https://techcrunch.com/2026/08/31/a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Arteta joins elite 250 club - but where does he rank?
+### 1. Aston Villa complete £47m Mbaye signing
 
-[原文] At full-time in Arsenal's 1-0 win at Aston Villa, the travelling supporters sang about how their team will win the league again with Mikel Arteta in charge.
+[原文] Aston Villa sign of Senegal winger Ibrahim Mbaye from Paris St-Germain for a fee of 55m euros (£47m).
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c1kxmjvnl8yo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. Pakistan changes 'most shocking ever' - Afridi
+
+[原文] Pakistan's decision to make dramatic changes to their squad during the series in England is the "most shocking decision ever", according to former captain Shahid Afridi.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c4g5x5n892yo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. Arteta joins elite 250 club - but where does he rank?
+
+[原文] Arsenal's fans are singing about winning the league again under Mikel Arteta. Monday's 1-0 win at Aston Villa demonstrated the strengths they have developed under their long-serving manager.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cy4z8qjx931o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Man City open talks with Chelsea over Fernandez move
+### 4. What does Norris deal mean for Piastri? F1 Q&A
 
-[原文] Manchester City open talks with Chelsea in their bid to sign Argentina midfielder Enzo Fernandez.
+[原文] BBC Sport F1 correspondent Andrew Benson answers your latest questions before the Italian Grand Prix.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ckgvrlme148o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/ckgx017vmjeo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Messi retires from Argentina duty with 'nothing left to give'
+### 5. GB's Fery returns to Grand Slam stage - what lies ahead?
 
-[原文] Argentina great Lionel Messi announces his retirement from international football, saying it was a decision that "hurt" but he understands "the time has come".
+[原文] Shock Wimbledon semi-finalist Arthur Fery returns to the Grand Slam stage when he faces Italy's Lorenzo Musetti at the US Open.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ceq89y38elro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. How Messi's decade of dominance almost never happened
-
-[原文] Lionel Messi's decade of dominance with Argentina that almost never happened will go down as one of football's greatest ever stories.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c20e6wv1pdwo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. 'I'll get better' - how did Alcaraz look on winning singles return?
-
-[原文] After a 139-day wait, Carlos Alcaraz makes a winning return to the singles court as he beats Roman Safuillin in the US Open first round.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cm2m3484v4xo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/c624q0y73glo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Xolo Maridueña Was Not Sure Blue Beetle Would Ever Come Back, Until James Gunn Called Him About the ‘Superman’ Sequel: ‘The Most Humbled’
+### 1. Marco Bassetti, Anna Marsh, Jane Tranter, Edward Berger to Speak at Rome’s MIA Market
 
-[原文] Xolo Maridueña wasn’t sure what would become of Blue Beetle after he debuted as the DC crime fighter in a 2023 blockbuster. That was, until DC boss James Gunn called him about coming back for the “Sup
+[原文] Marco Bassetti, CEO of Banijay Entertainment, Anna Marsh, deputy CEO of Canal+, CEO of Studiocanal and chief content officer of Canal+, Jane Tranter, CEO of Bad Wolf, and director Edward Berger, best 
 
-📎 [阅读原文](https://variety.com/2026/film/news/xolo-mariduena-blue-beetle-james-gunn-superman-sequel-1236847961/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/marco-bassetti-anna-marsh-jane-tranter-edward-berger-mia-1236848077/) — *Variety*
 
-### 2. Alex Cooper’s ‘Love Overboard’ Canceled by Hulu After One Season
+### 2. London Film Festival Sets Screen Talks With Andrew Scott, Cynthia Erivo, Jesse Eisenberg, Sofia Coppola and More
 
-[原文] &#8220;Love Overboard&#8221; is lost at sea. The dating show executive produced by Alex Cooper has been canceled by Hulu, Variety has confirmed. Hosted by &#8220;The Bachelorette&#8221; and &#8220;The
+[原文] The BFI London Film Festival has unveiled an impressive lineup of talent set to take part in screen talks at its upcoming 70th edition, including several stars who are already starting to appear on ea
 
-📎 [阅读原文](https://variety.com/2026/tv/news/love-overboard-canceled-hulu-1236847953/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/london-film-festival-sets-screen-talks-andrew-scott-1236848041/) — *Variety*
 
-### 3. Duane ‘Keffe D’ Davis Found Guilty of Orchestrating Tupac Shakur’s Murder
+### 3. SND Swoops on Toronto-Bound Bérénice Bejo Starrer  ‘Alice: Pioneer of Cinema’ Ahead of Unifrance Rendez-Vous in Le Havre (EXCLUSIVE)
 
-[原文] A jury has found Duane &#8220;Keffe D&#8221; Davis guilty of orchestrating the 1996 murder of Tupac Shakur. After a day of closing arguments, Davis was found guilty of murder with the use of a deadly 
+[原文] Paris-based film and television studio SND, part of French media group M6, has picked up world sales on the high-end period drama “Alice: Pioneer of Cinema,” in which Oscar-nominee Bérénice Bejo (“The
 
-📎 [阅读原文](https://variety.com/2026/music/news/duane-keffe-d-davis-found-guilty-tupac-shakur-murder-1236847908/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/snd-berenice-bejo-alice-pioneer-of-cinema-1236847159/) — *Variety*
 
-### 4. ‘Guardians of the Video Game’ Lands Finecut for International Sales Ahead of Toronto Market
+### 4. Vicon Acquires Facial Capture Firm Captive Devices (EXCLUSIVE)
 
-[原文] Seoul-based sales agent Finecut has acquired international sales rights to &#8220;Guardians of the Video Game,&#8221; a 3D animated feature based on the Naver Webtoon of the same name, ahead of the To
+[原文] Vicon has acquired Captive Devices Ltd, a Manchester, U.K.-based maker of head-mounted camera systems for markerless facial performance capture. Vicon is the motion capture arm of Oxford Metrics. The 
 
-📎 [阅读原文](https://variety.com/2026/film/news/guardians-of-the-video-game-finecut-1236847132/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/vicon-acquires-captive-devices-facial-capture-1236848044/) — *Variety*
 
-### 5. The Rise of ‘Love Island USA’: From Death Threats Against Contestants to Agency Battles for the Biggest Stars
+### 5. Isabelle Huppert, Maggie Gyllenhaal, Kore-Eda Hirokazu, Fan Bingbing, Michelle Yeoh on Guest List as Busan Unveils Galas, Asian Cinema Competition
 
-[原文] When Liv Walker first heard from the “Love Island USA” casting team, she thought it might be a scam. After all, she had never even seen the show. Originally scouted for Season 5 of the reality dating 
+[原文] The 31st Busan International Film Festival (BIFF) has unveiled a guest lineup headlined by Isabelle Huppert, Maggie Gyllenhaal, Kore-eda Hirokazu, Fan Bingbing and Michelle Yeoh. Huppert brings her la
 
-📎 [阅读原文](https://variety.com/2026/tv/news/rise-of-love-island-usa-1236847622/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/isabelle-huppert-busan-asian-cinema-competition-1236848032/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Duane Davis Found Guilty in Murder of Tupac Shakur
+### 1. IGN Australia and Chupa Chups to Host a Retro Gaming ‘Fun House’ Activation at Westfield Parramatta This October
+
+[原文] IGN Australia and Chupa Chups to Host a Retro Gaming ‘Fun House’ Activation at Westfield Parramatta This October
+
+📎 [阅读原文](https://www.ign.com/articles/chupa-chups-forever-fun-house) — *IGN*
+
+### 2. Duane Davis Found Guilty in Murder of Tupac Shakur
 
 [原文] Verdict arrives 30 years after the rapper and actor was killed in a Las Vegas drive-by shooting.
 
 📎 [阅读原文](https://www.ign.com/articles/duane-davis-found-guilty-in-murder-of-tupac-shakur) — *IGN*
 
-### 2. Labor Day Sales Are Now Live — Here's Where You Can Find Deals Today
+### 3. Labor Day Sales Are Now Live — Here's Where You Can Find Deals Today
 
 暂无摘要。
 
 📎 [阅读原文](https://www.ign.com/articles/labor-day-sales-2026-best-deals) — *IGN*
 
-### 3. Save 70% Off Proton VPN's 2-Year Plan, Now Just $2.99
+### 4. Save 70% Off Proton VPN's 2-Year Plan, Now Just $2.99
 
 [原文] The best VPN is on sale right now.
 
 📎 [阅读原文](https://www.ign.com/articles/protonvpn-vpn-deal-august-2026) — *IGN*
 
-### 4. The 65" Samsung S90F 4K QD-OLED TV Is Better Than Its 2026 Successor, and It's on Sale for Labor Day
+### 5. The 65" Samsung S90F 4K QD-OLED TV Is Better Than Its 2026 Successor, and It's on Sale for Labor Day
 
 [原文] The S90F is the last TV in the lineup with QD-OLED technology; the new 2026 removes it.
 
 📎 [阅读原文](https://www.ign.com/articles/samsung-s65f-4k-oled-tv-deal-ebay-labor-day-sale) — *IGN*
-
-### 5. AMC Theaters Launches Its Own Film Distribution Company As Small Budget Movies Soar
-
-[原文] AMC Theaters isn’t merely a destination for watching new film releases; it now helps make those releases happen.
-
-📎 [阅读原文](https://www.ign.com/articles/amc-theaters-launches-its-own-film-distribution-company-as-small-budget-movies-soar) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post There&#8217;s a &#8216;CRX Farm&#8217
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. No One Knows All the Toxic Chemicals You’re Eating
+### 1. The Amazon’s Defenders Declare a State of Emergency
+
+[原文] PUYO, Ecuador—People fighting oil wells, mines and other threats to their homelands did not come to this Amazonian city to lobby politicians at an environmental conference hosted by governments. They 
+
+📎 [阅读原文](https://insideclimatenews.org/news/01092026/amazons-defenders-declare-state-of-emergency/) — *Inside Climate News*
+
+### 2. The Trump EPA Is a Toothless Friend of Polluting Industries, Analysis Shows
+
+[原文] By its own account, the U.S. Environmental Protection Agency is doing a fantastic job. In a March report on its performance in the last fiscal year, the agency boasted that it had concluded 2,127 civi
+
+📎 [阅读原文](https://insideclimatenews.org/news/01092026/trump-epa-clean-air-water-retreat/) — *Inside Climate News*
+
+### 3. Maryland Consumer Advocate Challenges PJM Plan to Buy Power for Projected Data Center Growth
+
+[原文] Maryland’s ratepayer protection agency is fighting on two fronts simultaneously to shield households from paying hundreds of millions more in costs related to projected power demand—much of it linked 
+
+📎 [阅读原文](https://insideclimatenews.org/news/01092026/maryland-ratepayer-advocate-challenges-pjm-power-plan/) — *Inside Climate News*
+
+### 4. No One Knows All the Toxic Chemicals You’re Eating
 
 [原文] Most people decide if it’s safe to eat an old tub of yogurt in the fridge or canned tuna in the back of the cupboard by checking its sell-by date. But no label indicates that pesticides, phthalates, P
 
 📎 [阅读原文](https://insideclimatenews.org/news/01092026/food-packaging-toxic-chemicals/) — *Inside Climate News*
 
-### 2. Why Iceland Chose Fish Over European Alliances
+### 5. Why Iceland Chose Fish Over European Alliances
 
 [原文] Over the weekend, Iceland voted against resuming talks to join the European Union. At the heart of the referendum question: fish. More than a decade since talks previously collapsed, Euroskeptics won 
 
 📎 [阅读原文](https://insideclimatenews.org/news/31082026/iceland-rejects-european-union-for-fishing/) — *Inside Climate News*
-
-### 3. Will a Data Center Join the Philadelphia Bellwether District’s Mix of Manufacturers and Warehouses?
-
-[原文] PHILADELPHIA—A simmering debate over the future of Philadelphia’s Bellwether District has been reenergized by a Planning Commission presentation last month that identified the industrial zone as one o
-
-📎 [阅读原文](https://insideclimatenews.org/news/31082026/philadelphia-refinery-clean-up-bellwether-district/) — *Inside Climate News*
-
-### 4. Power Struggles
-
-[原文] Welcome to Inside Climate, a podcast from the staff of Inside Climate News. This week, Alabama-based reporters Dennis Pillion and Lee Hedgepeth join co-host Kiley Price to talk about energy demand, ri
-
-📎 [阅读原文](https://insideclimatenews.org/news/31082026/inside-climate-podcast-alabama-power/) — *Inside Climate News*
-
-### 5. How North Carolina Wasted the Chance To Fix Hog Pollution
-
-[原文] Feeding the Beast: Second in a series about lax regulation, corporate influence and the heavily polluting, yet nearly untouchable American meat industry. Thousands of dead and bloated pigs floated dow
-
-📎 [阅读原文](https://insideclimatenews.org/news/30082026/north-carolina-wasted-chance-to-fix-hog-pollution/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post There&#8217;s a &#8216;CRX Farm&#8217
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Watch Kelly Clarkson’s Sensational Cover of ‘Golden’ on Final Show
+### 1. Watch Drake Perform ‘Iceman’ Tracks Live at Don Toliver’s Toronto Show
+
+[原文] The rapper showcased “Shabang,” “Burning Bridges,” and “Janice STFU" on stage for the first time
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/drake-iceman-tracks-live-don-toliver-toronto-show-1235618799/) — *Rolling Stone*
+
+### 2. Watch Kelly Clarkson’s Sensational Cover of ‘Golden’ on Final Show
 
 [原文] The KPop Demon Hunters song was the most requested Kellyoke, said Clarkson's team
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/kelly-clarkson-final-season-golden-kellyoke-1235618746/) — *Rolling Stone*
 
-### 2. Duane ‘Keffe D’ Davis Found Guilty in Murder of Tupac Shakur
+### 3. Duane ‘Keffe D’ Davis Found Guilty in Murder of Tupac Shakur
 
 [原文] The jury in Nevada took only about three hours to return the verdict in the 30-year-old homicide. Davis will be sentenced in October
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/tupac-shakur-murder-trial-keffe-d-guilty-1235617194/) — *Rolling Stone*
 
-### 3. Ariana Grande Tells Fans She’ll Wear ‘Cozy Footwear’ On Stage After Minor Foot Injury
+### 4. Ariana Grande Tells Fans She’ll Wear ‘Cozy Footwear’ On Stage After Minor Foot Injury
 
 [原文] The pop star has just two shows remaining on her headlining Eternal Sunshine tour
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/ariana-grande-minor-foot-injury-london-concert-1235618723/) — *Rolling Stone*
 
-### 4. Tupac Trial Closings: Prosecutors Call ‘Keffe D’ Murder Mastermind, Defense Calls Case ‘Fiction’
+### 5. Tupac Trial Closings: Prosecutors Call ‘Keffe D’ Murder Mastermind, Defense Calls Case ‘Fiction’
 
 [原文] Duane Davis' lawyer questioned why prosecutors never subpoenaed Suge Knight to testify
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/tupac-shakur-murder-trial-closings-keffe-d-duane-davis-suge-1235618205/) — *Rolling Stone*
-
-### 5. Lionel Richie Hospitalized After St. Louis Concert
-
-[原文] A source close to the singer's tour confirmed the singer was OK, but did not share any details about what landed him in the hospital
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/lionel-richie-hospital-st-louis-concert-1235618577/) — *Rolling Stone*
 
 ---
 
