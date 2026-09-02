@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月02日** | 生成时间: 2026-09-02 11:42
+**2026年09月02日** | 生成时间: 2026-09-02 18:55
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Germany says Russia behind Leipzig airport drone attack
+### 1. US sailors arrive at Thailand's Pattaya after record 250 days at sea
 
-[原文] A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.
+[原文] The USS Abraham Lincoln is docking close to Pattaya, known for its neon-lit nightlife, and for sex tourism.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cg7k09z4lj9o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Iran retaliates after US strikes kill four at wedding party, state media reports
+### 2. Why US troops have a history in this raucous Thai city
 
-[原文] Iran has launched attacks on US military bases in Iraq and Jordan, according to local state media and the Jordanian Armed Forces.
+[原文] The BBC's Jonathan Head looks at the historical echoes of US troops arriving in Pattaya, a beach resort famous for its racy bars.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/videos/c5yw03jr892o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. 'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban
+### 3. Thousands still missing as Nepal-Tibet flood relief and recovery intensifies
 
-[原文] As of August, the number forced to return this year from Pakistan and Iran had reached another million.
+[原文] More than 1, 000 people have died and thousands are missing, with communities relying on airlifted supplies.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c8xk45k9r1go?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. River water smashed into tunnel and chased me for 20 minutes, Nepal worker tells BBC
+### 4. BBC travels inside occupied Lebanon as officials say Israel expanding positions
 
-[原文] Major efforts to rescue hydropower workers continue as Nepal's death toll exceeds 1,000.
+[原文] A BBC team joined a humanitarian mission of the UN peacekeeping force, which says Israeli troops are fortifying positions and continuing demolitions.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cg49590v6k1o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Sexual assaults happening almost every day in Ceuta, prosecutors say
+### 5. Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations
 
-[原文] Most migrants have returned to neighbouring Morocco, but as many as 5,000 remain in the Spanish exclave.
+[原文] Chinese and Gulf state airlines are among those still using Russian airspace. Meanwhile, Russia says it will intensify its own attacks on Ukraine.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump says U.S. is not forcing Iran to negotiate after fresh round of strikes
+### 1. 10-year U.S. Treasury yield hits highest level since November 2023 as global bond sell-off continues
+
+[原文] Treasury yields continued to climb on Wednesday as inflation fears stoked a global rise in borrowing costs.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/02/bond-yields-treasurys-inflation.html) — *CNBC*
+
+### 2. Iran says two tankers have hit Hormuz naval mines, attacks regional targets in retaliation to U.S. strikes
 
 [原文] U.S. forces completed another wave of strikes against Iran on Tuesday stateside, hitting multiple Islamic Revolutionary Guard Corps sites across the country.
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/02/us-iran-war-trump-hormuz-irgc-jordan-bahrain.html) — *CNBC*
 
-### 2. China dissented from G20 statement opposing 'cheap exports' flooding market, Bessent says
+### 3. Chevron will expand Venezuela operations, more than doubling production through $7 billion investment
 
-[原文] Bessent is leading the Trump administration's plan to choke off Iran's economy by threatening its business partners with secondary sanctions.
+暂无摘要。
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/01/bessent-china-g20-trade-exports-trump-xi.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/02/chevron-venezuela-operations.html) — *CNBC*
 
-### 3. Canada's Carney slaps Trump admin for 'doing memes ... throwing shade'
+### 4. Zelenskyy says airlines should avoid Russian airspace as Ukraine expands drone operations
 
-[原文] Canadian Prime Minister Mark Carney said "It's beneath their office' when asked about Trump Cabinet secretaries insulting his nation's military.
+[原文] Zelenskyy urged airlines to avoid Russian airspace, warning that expanding Ukrainian drone operations are making the skies increasingly unsafe.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/01/canada-carney-trump-trade-ontario.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/02/ukraine-zelenskyy-airlines-russia-drone-war.html) — *CNBC*
 
-### 4. Dell surges 9% after lifting fiscal 2027 forecast on AI server strength
+### 5. Bank of Canada mulls Trump tariff shock as it readies interest rates decision
 
-[原文] Dell sees AI server revenue tripling in fiscal 2027. Six months ago, it was looking for the number to double.
+[原文] The U.S.-Canada trade dispute and the descent into a retaliatory tariff blitz have complicated the job for the Bank of Canada ahead of its Wednesday decision.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/01/dell-q2-earnings-report-2027.html) — *CNBC*
-
-### 5. U.S. House votes to avoid government shutdown amid GOP hard-liner resistance
-
-[原文] The U.S. House on Tuesday voted in favor of a short-term spending measure that would avoid a government shutdown until after November's midterm election.
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/01/congress-government-shutdown-vote.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/02/bank-canada-rate-decision-trump-tariffs.html) — *CNBC*
 
 ---
 
@@ -130,35 +130,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Scientists discover why snake embryos twist into spirals
+### 1. Too much coffee may weaken bones, study finds
+
+[原文] Following nearly 10,000 older women for 10 years, researchers found that tea drinking was associated with slightly higher hip bone density. Moderate coffee consumption did not appear harmful, but drin
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260901070550.htm) — *Science Daily*
+
+### 2. Earth may have lost the Sun’s protective shield millions of years ago
+
+[原文] NASA-funded studies suggest Earth’s climate has been influenced by both the Sun’s travels through dense regions of the Milky Way and the violent superflares of its youth. Those events may help explain
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260901070523.htm) — *Science Daily*
+
+### 3. Scientists discover why snake embryos twist into spirals
 
 [原文] Snake embryos begin life curled into a distinctive right-handed spiral, and scientists may finally know why. Their bodies grow faster than their guts, creating a tether that forces the lengthening emb
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260901070516.htm) — *Science Daily*
 
-### 2. Mindfulness may lower blood pressure in just 8 weeks
+### 4. Mindfulness may lower blood pressure in just 8 weeks
 
 [原文] Mindfulness, gratitude, and optimism training may improve blood pressure, inflammation, and other heart-health measures within just eight to 12 weeks. The strongest programs paired daily practice with
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260901010721.htm) — *Science Daily*
 
-### 3. One of Earth’s driest places was just covered in snow
+### 5. One of Earth’s driest places was just covered in snow
 
 [原文] Rare storms covered huge stretches of Chile’s Atacama Desert in snow and dumped extraordinary amounts of rain on one of the driest regions on Earth. The extreme weather shut down observatories, trigge
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260901010709.htm) — *Science Daily*
-
-### 4. NASA delays Crew-13 launch after leak found on SpaceX Dragon
-
-[原文] NASA and SpaceX have delayed Crew-13 after finding an oxidizer leak in the Dragon spacecraft’s propulsion system during prelaunch preparations. Engineers are investigating the problem before the four-
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260901010705.htm) — *Science Daily*
-
-### 5. NASA’s Swift telescope is back, but time is running out
-
-[原文] NASA has brought two of Swift’s telescopes back online after technical problems derailed a commercial mission intended to rescue the aging observatory by raising its orbit. With atmospheric drag pulli
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260901010702.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Fernandez joins Man City for joint-British record £125m
+### 1. Are Arsenal taking a risk in not signing a world-class forward?
 
-[原文] Manchester City pay a joint-British transfer record fee of £125m for Chelsea midfielder Enzo Fernandez.
+[原文] Arsenal have been busy in the transfer market as they look to defend their Premier League title, but do they lack a world class striker still?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cr7deg1ze03o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c783x812dk5o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Premier League breaks transfer record for second straight summer
+### 2. Feared in attack, light at the back - why Liverpool's transfer window leaves questions
 
-[原文] Premier League clubs break their all-time summer transfer record after spending reaches £3.198bn.
+[原文] Feared in attack but light at the back? Liverpool have spent more than £200m in the transfer window but questions remain over whether the squad has enough depth.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/czxzk0znvzeo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cx2zg85eyrqo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. No repeat of Wimbledon heroics as Fery exits US Open
+### 3. Balogun has medical at Everton before abandoning move
+
+[原文] Everton's move for Folarin Balogun collapses after the striker changes his mind following a medical at the club's Finch Farm training base.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c780e6q84l4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. No repeat of Wimbledon heroics as Fery exits US Open
 
 [原文] Arthur Fery is unable to produce a repeat of his Wimbledon heroics as his US Open debut ends in a first-round loss to Italian 13th seed Lorenzo Musetti.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cn8mrl4m5zzo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Superb England crush Ireland with record ODI chase
+### 5. Five moments that shaped Taylor's legendary career
 
-[原文] Maia Bouchier's stunning century helps England women seal their record one-day international chase of 282 to beat Ireland in the series opener.
+[原文] From writing a letter to her idol as a 10-year-old to messaging a promoter on social media, here are five sliding doors moments that helped shape Katie Taylor’s career.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cjdvem7yke9o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Camara's £47.1m move from Monaco to Chelsea collapses
-
-[原文] Lamine Camara is staying at Monaco after the Senegal midfielder's £47.1m move to Chelsea collapses.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ce8emxm7xmzo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/articles/cp30z57kq0ro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Danny Booko and Nia Sanchez Leave ‘The Valley’: ‘Our Priority Is Protecting Our Peace’
+### 1. Venice Jury President Maggie Gyllenhaal Says Films Are ‘Fundamentally, Unavoidably Political’ and Questions Lack of Female Directors in Competition: ‘There’s a Systemic Problem’
 
-[原文] Danny Booko and Nia Sanchez are leaving “The Valley” after three seasons with the Bravo reality show. “We wanted to share a quick update that we will not be returning to &#8216;The Valley,&#8217;” the
+[原文] It didn&#8217;t take long for politics to take the spotlight at this year’s Venice Film Festival jury press conference. Amid the wars raging in Gaza and Ukraine, as well as the unrest in the United St
 
-📎 [阅读原文](https://variety.com/2026/tv/news/danny-booko-nia-sanchez-leave-the-valley-bravo-1236848977/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/maggie-gyllenhaal-films-political-venice-film-festival-1236848746/) — *Variety*
 
-### 2. Victor Miller, ‘Friday the 13th’ Screenwriter, Dies at 86
+### 2. Ruben Östlund’s Plattform Produktion Boards Jessica Hausner’s Satirical Drama ‘Toxic’ Ahead of Venice Gap-Financing Market (EXCLUSIVE)
 
-[原文] Victor Miller, the screenwriter behind the horror classic “Friday the 13th,” died on Monday in Alameda, Calif. He was 86. Miller’s death was confirmed to Variety by his son, Ian. Released in 1980, “Fr
+[原文] Ruben Östlund’s Plattform Produktion has joined “Toxic,” the forthcoming satirical workplace drama from “Club Zero” director Jessica Hausner, which is among the projects being pitched during the Venic
 
-📎 [阅读原文](https://variety.com/2026/film/news/victor-miller-dead-friday-the-13th-screenwriter-1236848883/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/ruben-ostlund-plattform-produktion-jessica-hausner-toxic-1236837048/) — *Variety*
 
-### 3. David Byrne Returns to Oscar Race With Original Song for Elon Musk Documentary ‘Musk’ (EXCLUSIVE)
+### 3. ‘Spider-Man: Brand New Day’ Stays in Full Swing Atop U.K., Ireland Box Office as ‘The Odyssey’ Continues Voyage
 
-[原文] David Byrne wrote a song about the world’s richest man. The Talking Heads frontman wrote and performed an original song for “Musk,” Alex Gibney&#8217;s sprawling documentary reckoning with Elon Musk, 
+[原文] Sony&#8217;s superhero blockbuster &#8220;Spider-Man: Brand New Day&#8221; held the top position at the U.K. and Ireland box office for a fifth consecutive weekend, generating £2.7 million ($3.7 milli
 
-📎 [阅读原文](https://variety.com/2026/film/awards/david-byrne-musk-documentary-oscar-song-1236848717/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/box-office/spider-man-brand-new-day-odyssey-coyote-acme-uk-ireland-box-office-1236849104/) — *Variety*
 
-### 4. Ji Chang-wook and Imada Mio’s Korean-Japanese Romcom ‘Merry Berry Love’ Sets October Disney+, Hulu Bow
+### 4. ‘Wildwood’ and ‘Ray Gunn’ to World Premiere at London Film Festival as ‘Ink,’ ‘Club Kid,’ ‘Bunker,’ ‘La Bola Negra,’ ‘Wild Horse Nine’ and More Join Lineup
 
-[原文] Korean-Japanese romantic comedy series &#8220;Merry Berry Love,&#8221; starring Ji Chang-wook and Imada Mio, is bowing on Disney+ and Hulu this October. Set on a picturesque Japanese island, the serie
+[原文] The 70th BFI London Film Festival has unveiled its full lineup of movies, with the U.K.&#8217;s biggest film event bringing together some of the year&#8217;s most talked about festival favorites, many
 
-📎 [阅读原文](https://variety.com/2026/tv/news/ji-chang-wook-imada-mio-merry-berry-love-disney-hulu-october-1236848185/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/london-film-festival-lineup-wildwood-ray-gunn-premieres-1236849077/) — *Variety*
 
-### 5. Indian Streamer JioHotstar Launches in U.K., Canada and Singapore With Interactive Features
+### 5. Cartoon Forum Unveils Tribute Nominees, Introduces New Sustainability Award Ahead of 2026 Edition
 
-[原文] India&#8217;s leading streamer JioHotstar has launched internationally in the U.K., Canada and Singapore, bringing its catalog of more than 160,000 hours of entertainment across more than 12 Asian lan
+[原文] 12 days before its grand opening, Cartoon Forum, Europe&#8217;s main co-production forum for animated TV series, has unveiled its 2026 Tribute nominees. Presented for the first time in 2006, these awa
 
-📎 [阅读原文](https://variety.com/2026/tv/news/jiohotstar-uk-canada-singapore-launch-1236848067/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/markets-festivals/cartoon-forum-unveils-tribute-2026-nominees-animation-tv-1236849080/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The 65" Samsung S90F 4K QD-OLED TV Is Better Than Its 2026 Successor, and It's on Sale for Labor Day
+### 1. LEGO PlayStation Images Leak, Revealing Some Incredible PS1 Easter Eggs
+
+[原文] The long-rumored LEGO PlayStation set has been glimpsed in leaked photos, and it's an impressive recreation of Sony's retro console with a several great Easter eggs.
+
+📎 [阅读原文](https://www.ign.com/articles/lego-playstation-images-leak-revealing-some-incredible-ps1-easter-eggs) — *IGN*
+
+### 2. Eight-Player Splitscreen Added to Mario Kart 8 Deluxe
+
+[原文] Nintendo has conjured up an eight-player splitscreen mode for Mario Kart 8 Deluxe, available now in a free update on Switch 2.
+
+📎 [阅读原文](https://www.ign.com/articles/eight-player-splitscreen-added-to-mario-kart-8-deluxe) — *IGN*
+
+### 3. LEGO Star Wars: The Mandalorian Review
+
+[原文] LEGO Star Wars: The Mandalorian is a goofy and fun tribute to the live-action series, but it’s hard not to wish that this animated special told a completely original story. Read our full review.
+
+📎 [阅读原文](https://www.ign.com/articles/lego-star-wars-the-mandalorian-review-disney-plus) — *IGN*
+
+### 4. The Runner Review
+
+[原文] Gal Gadot does everything she can to keep Prime Video's The Runner, well, running, but despite some decent set pieces, the film is ultimately unsatisfying.
+
+📎 [阅读原文](https://www.ign.com/articles/the-runner-review-gal-gadot) — *IGN*
+
+### 5. The 65" Samsung S90F 4K QD-OLED TV Is Better Than Its 2026 Successor, and It's on Sale for Labor Day
 
 [原文] The S90F is the last TV in the lineup with QD-OLED technology; the new 2026 removes it.
 
 📎 [阅读原文](https://www.ign.com/articles/samsung-s65f-4k-oled-tv-deal-ebay-labor-day-sale) — *IGN*
-
-### 2. Star Wars Zero Company Was Originally Pitched as a Titanfall Universe Game
-
-[原文] Star Wars Zero Company was originally pitched as a game in the Titanfall universe.
-
-📎 [阅读原文](https://www.ign.com/articles/star-wars-zero-company-was-originally-pitched-as-a-titanfall-universe-game) — *IGN*
-
-### 3. Stanley Kubrick’s Daughter Responds to Eyes Wide Shut Conspiracy Theories
-
-[原文] Stanley Kubrick’s daughter Vivian has addressed rumors surrounding Eyes Wide Shut, debunking claims that key scenes were removed after the director's death.
-
-📎 [阅读原文](https://www.ign.com/articles/stanley-kubrick-daughter-eyes-wide-shut-conspiracy-theories) — *IGN*
-
-### 4. CD Projekt Red Boss 'Isn't Worried' About Delays for Next-Gen Consoles as RAM Prices Soar
-
-[原文] CD Projekt Red joint CEO Michał Nowakowski opened up about the developer’s reaction to the rising price of consoles and the possibility of next-generation hardware getting delayed.
-
-📎 [阅读原文](https://www.ign.com/articles/cd-projekt-red-boss-isnt-worried-about-delays-for-next-gen-consoles-as-ram-prices-soar) — *IGN*
-
-### 5. GTA 6's Morality Meter Will Reportedly 'Shatter' and Make You Irredeemable If You Cause Too Much Mayhem
-
-[原文] Grand Theft Auto 6's morality meter can reportedly "shatter" and lead to you becoming essentially irredeemable for an entire playthrough of the game.
-
-📎 [阅读原文](https://www.ign.com/articles/gta-6s-morality-meter-will-reportedly-shatter-and-make-you-irredeemable-if-you-cause-too-much-mayhem) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post Mazda Plans to Turnaround Struggles With &#8216;Unprecedented&#8217; Pr
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Federal Judge Strikes Down New York’s Climate Change Superfund Law
+### 1. No Relief for Maui Wildfire Survivors Losing Thousands to Contractors
+
+[原文] This story is a collaboration between Inside Climate News and Honolulu Civil Beat. Three years after the deadly Lahaina wildfire destroyed her childhood home, Raquel Utrillo cannot bear the thought of
+
+📎 [阅读原文](https://insideclimatenews.org/news/02092026/maui-wildfire-survivors-contractor-fraud/) — *Inside Climate News*
+
+### 2. Lawsuit in Argentina Challenges British-Israeli Oil Project Near the Long-Disputed Falkland Islands
+
+[原文] A proposed offshore oil project near the Falkland Islands threatens sensitive marine ecosystems—and Argentina’s sovereignty—and must be halted, an Argentine environmental group and a veterans’ organiz
+
+📎 [阅读原文](https://insideclimatenews.org/news/02092026/argentina-challenges-british-israeli-oil-project-near-disputed-falkland-islands/) — *Inside Climate News*
+
+### 3. Climate ‘Overshoot’ Is Coming—Are We Ready?
+
+[原文] Fossil fuel emissions are pushing Earth’s climate toward a dangerous new phase of climate “overshoot,” scientists warned Wednesday in a new report from the United Nations Environmental Programme. The 
+
+📎 [阅读原文](https://insideclimatenews.org/news/02092026/un-report-climate-overshoot-warning/) — *Inside Climate News*
+
+### 4. Federal Judge Strikes Down New York’s Climate Change Superfund Law
 
 [原文] A federal judge has struck down New York’s Climate Change Superfund Act, ruling that it “conflicts with” federal authority.&#160;&#160; The legislation would have required fossil fuel companies to hel
 
 📎 [阅读原文](https://insideclimatenews.org/news/01092026/federal-judge-strikes-down-new-york-climate-change-superfund-act/) — *Inside Climate News*
 
-### 2. At the Grand Canyon, Flooding and Wildfire Underscore Compounding Extreme Weather Risks
+### 5. At the Grand Canyon, Flooding and Wildfire Underscore Compounding Extreme Weather Risks
 
 [原文] An intense downpour at Grand Canyon National Park transformed hiking trails and shallow creeks into deadly rapids over the weekend, killing at least two people. Following scattered showers Saturday mo
 
 📎 [阅读原文](https://insideclimatenews.org/news/01092026/todays-climate-grand-canyon-flash-floods/) — *Inside Climate News*
-
-### 3. Why Montana Firefighters Are Intentionally Burning Areas Around Two Wildfires
-
-[原文] About a month ago, two wildfires ignited a day apart in southwest Montana. The Bobcat Lakes Fire started July 31 near Wise River, followed by the Sand Creek Fire on Aug. 1 near Wisdom.&#160; Now, crew
-
-📎 [阅读原文](https://insideclimatenews.org/news/01092026/montana-strategic-firing-around-two-wildfires/) — *Inside Climate News*
-
-### 4. The Amazon’s Defenders Declare a State of Emergency
-
-[原文] PUYO, Ecuador—People fighting oil wells, mines and other threats to their homelands did not come to this Amazonian city to lobby politicians at an environmental conference hosted by governments. They 
-
-📎 [阅读原文](https://insideclimatenews.org/news/01092026/amazons-defenders-declare-state-of-emergency/) — *Inside Climate News*
-
-### 5. The Trump EPA Is a Toothless Friend of Polluting Industries, Analysis Shows
-
-[原文] By its own account, the U.S. Environmental Protection Agency is doing a fantastic job. In a March report on its performance in the last fiscal year, the agency boasted that it had concluded 2,127 civi
-
-📎 [阅读原文](https://insideclimatenews.org/news/01092026/trump-epa-clean-air-water-retreat/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post Mazda Plans to Turnaround Struggles With &#8216;Unprecedented&#8217; Pr
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Sean Ono Lennon Confirms Birth of Baby Boy, John Lennon and Yoko Ono’s First Grandchild
+### 1. Olivia Rodrigo Wants Monica Barbaro to Play Her in a Movie
+
+[原文] The singer admitted that when she sees a photo of the actress sometimes she thinks, "Oh, that's a picture of me"
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/olivia-rodrigo-monica-barbaro-movie-cameron-crowe-1235619571/) — *Rolling Stone*
+
+### 2. Watch Katseye Kick Off Wildworld Tour in Dublin
+
+[原文] The global trek will hit the U.K., Europe, and North America before wrapping in November
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/katseye-wildworld-tour-dublin-kick-off-1235619559/) — *Rolling Stone*
+
+### 3. Sean Ono Lennon Confirms Birth of Baby Boy, John Lennon and Yoko Ono’s First Grandchild
 
 [原文] The couple shared the happy news on social media
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/sean-ono-lennon-baby-boy-john-lennon-yoko-ono-grandchild-1235619534/) — *Rolling Stone*
 
-### 2. Ariana Grande Holds Back Tears During Final ‘Eternal Sunshine’ Show: ‘An Extraordinary Experience’
+### 4. Ariana Grande Holds Back Tears During Final ‘Eternal Sunshine’ Show: ‘An Extraordinary Experience’
 
 [原文] Following the conclusion of the tour, Grande plans “step back” from public life
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/ariana-grande-final-eternal-sunshine-concert-london-1235619516/) — *Rolling Stone*
 
-### 3. Alanis Morissette Sues Former Tour Manager, Alleges ‘Extortionate’ Threat Over Airport Drugs
+### 5. Alanis Morissette Sues Former Tour Manager, Alleges ‘Extortionate’ Threat Over Airport Drugs
 
 [原文] The singer's new lawsuit claims she is "the victim of a calculated blackmail campaign"
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/alanis-morissette-sues-tour-manager-extortion-airport-drugs-1235619395/) — *Rolling Stone*
-
-### 4. Tupac Shakur’s Family ‘Elated and Relieved’ After Duane ‘Keffe D’ Davis Conviction
-
-[原文] "We honor Afeni Shakur — a mother whose strength and unshakable belief in her son's truth carried this fight long before any of us knew where it would lead," the rapper's sister said in a statement
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/tupac-murder-trial-keffe-d-guilty-verdict-family-statement-1235619394/) — *Rolling Stone*
-
-### 5. Jason Isbell Claims Suno Used Artists’ Identities to Train AI ‘Without Consent’ in New Lawsuit
-
-[原文] The complaint claims the AI music company "exploits" and profits from those personal attributes in violation of right-of-publicity laws
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/jason-isbell-suno-lawsuit-artist-identities-1235619317/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post Mazda Plans to Turnaround Struggles With &#8216;Unprecedented&#8217; Pr
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. JetBlue Unveils New Domestic First Class Seats as It Hopes to End Losing Streak
+### 1. For UAE Short-Term Rentals, Occupancy Is Recovering — Demand Hasn’t Fully Caught Up
+
+[原文] Occupancy is recovering faster than demand because supply is shrinking. AirDNA’s Q3 numbers still show bookings running 13% behind last year.
+
+📎 [阅读原文](https://skift.com/2026/09/02/for-uae-short-term-rentals-occupancy-is-recovering-demand-hasnt-fully-caught-up/) — *Skift*
+
+### 2. JetBlue Unveils New Domestic First Class Seats as It Hopes to End Losing Streak
 
 [原文] JetBlue’s new domestic first class seats seek to give customers a more premium experience with customized cocktails, meals, and roomy seats made with mattress foam. The carrier is banking on the seats
 
 📎 [阅读原文](https://skift.com/2026/09/01/jetblue-unveils-new-domestic-first-class-seats/) — *Skift*
 
-### 2. What Happens to a Travel Company Owned by Private Equity for Too Long?
+### 3. What Happens to a Travel Company Owned by Private Equity for Too Long?
 
 [原文] One of travel's best tour operators went to market and couldn't sell. The reasons tell you as much about where the industry is headed as about the company itself.
 
 📎 [阅读原文](https://skift.com/2026/09/01/what-happens-to-a-travel-company-owned-by-private-equity-for-too-long/) — *Skift*
 
-### 3. AirDNA Enters Revenue Management Market With Host Dynamic Pricing Tool: Exclusive
+### 4. AirDNA Enters Revenue Management Market With Host Dynamic Pricing Tool: Exclusive
 
 [原文] Short-term rental hosts are leaving money on the table if they don't at least dabble in dynamic pricing. If AirDNA can make the process easier for hosts, then there is a big upside awaiting.
 
 📎 [阅读原文](https://skift.com/2026/09/01/airdna-enters-revenue-management-market-with-host-dynamic-pricing-tool-exclusive/) — *Skift*
 
-### 4. Airbnb Names Ex-Booking.com Hotel Boss and Tripadvisor Exec as Chief Business Officer
+### 5. Airbnb Names Ex-Booking.com Hotel Boss and Tripadvisor Exec as Chief Business Officer
 
 [原文] If Airbnb needs people connections and know-how to scale its boutique hotels business, it found someone with deep experience in Pepijn Rijvers. He also has marketing and tours and activities experienc
 
 📎 [阅读原文](https://skift.com/2026/09/01/airbnb-names-ex-booking-com-hotel-boss-and-viator-president-as-chief-business-officer/) — *Skift*
-
-### 5. The F&B Strategy That Starts With Winning Over Locals, Not Just Guests
-
-[原文] As hotel owners look for growth beyond the guest room, restaurants and bars are playing a more central role in how a property attracts locals, builds identity, and generates revenue. Paris Society, pa
-
-📎 [阅读原文](https://skift.com/2026/09/01/accor-ennismore-paris-society-food-beverage-strategy/) — *Skift*
 
 ---
 
