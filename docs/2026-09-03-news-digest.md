@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月03日** | 生成时间: 2026-09-03 00:15
+**2026年09月03日** | 生成时间: 2026-09-03 04:46
 
 ---
 
@@ -22,29 +22,29 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany
+### 2. Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says
+
+[原文] The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany
 
 [原文] Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West
+### 4. Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West
 
 [原文] The Russian president wants to keep Britain guessing - and stressing - over Moscow's real intentions.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. US sailors arrive in Thailand's Pattaya after record 250 days at sea
+### 5. Watch: Jury still unable to reach unanimous decision in Lindsay Clancy case
 
-[原文] The USS Abraham Lincoln is docking close to Pattaya, known for its neon-lit nightlife, and for sex tourism.
+[原文] For a second time in two days, jurors told the judge they could not agree on a verdict in the murder trial.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cg7k09z4lj9o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations
-
-[原文] Chinese and Gulf state airlines are among those still using Russian airspace. Meanwhile, Russia says it will intensify its own attacks on Ukraine.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/videos/cy8z32v7130o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. New York Fed's Williams says yield surge due to strong economic prospects
+### 1. Microsoft to start disclosing Azure quarterly revenue as company consolidates business units
 
-[原文] The central bank policymaker in a CNBC interview did not commit on whether he thinks an interest rate hike is necessary.
+[原文] Microsoft will begin reporting quarterly Azure revenue in dollars for the first time, providing more clarity about its business that competes with AWS.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/02/microsoft-to-disclose-azure-revenue-as-part-of-segment-changes.html) — *CNBC*
 
-### 2. Uber to cut 10% of workforce in bid to move 'simpler and faster'
+### 2. Snowflake spikes 22% on healthy results and AI coding momentum
 
-[原文] Uber is cutting small teams by nearly half and allowing about 1% of its workforce to continue working remotely.
+[原文] Snowflake business is growing quickly, in part thanks to adoption of an artificial intelligence agent for writing code.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/02/uber-to-cut-10percent-of-workforce-in-bid-to-move-simpler-and-faster.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/02/snowflake-snow-q2-earnings-report-2027.html) — *CNBC*
 
-### 3. Energy Secretary Chris Wright tells CNBC more than 17 million barrels of oil transited Hormuz on Monday
+### 3. Broadcom's stock drops 5% as weak guidance overshadows earnings beat
 
-[原文] The Energy secretary spoke to CNBC's Brian Sullivan in Venezuela on Wednesday, after President Donald Trump announced a massive oil deal with Caracas.
+[原文] Broadcom gave a disappointing revenue forecast for the current quarter.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/02/energy-secretary-chris-wright-tells-cnbc-that-more-than-17-million-barrels-of-oil-transited-hormuz-on-monday.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/02/broadcom-avgo-q3-earnings-report-2026.html) — *CNBC*
 
-### 4. Trump to meet with travel industry CEOs as White House touts World Cup tourism boost
+### 4. The Los Angeles Angels are being sold for a record $4 billion. Here's what every MLB team is now worth
 
-[原文] Trump’s meeting with travel executives comes after a World Cup that showcased his unusually close relationship with FIFA President Gianni Infantino.
+暂无摘要。
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/02/trump-travel-industry-world-cup-tourism-airlines-hotels.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/02/the-los-angeles-angels-are-being-sold-for-a-record-4-billion-heres-what-every-mlb-team-is-now-worth.html) — *CNBC*
 
-### 5. Trump floats renaming Strait of Hormuz the 'Trump Strait'
+### 5. States now must report undocumented immigrants to DHS or risk federal funding, DOJ says
 
-[原文] U.S. Energy Secretary Chris Wright told CNBC that more than 17 million barrels of oil transited the strait on Monday, a new wartime record.
+[原文] The new DOJ opinion relates to funding states get for Temporary Assistance for Needy Families and the Supplemental Security Income programs.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/02/trump-hormuz-strait-ontario-iran.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/02/doj-states-undocumented-immigrants-dhs-funds.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Wonderful more than doubles its valuation to $5B in under 6 months
+### 1. OpenAI’s new reasoning technique alarms AI safety experts
 
-[原文] Wonderful's $550M Series C was led by Insight Partners, with Salesforce, Index Ventures, IVP, Vine Ventures, 9Yards and Bessemer participating.
+[原文] OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/) — *TechCrunch*
 
-### 2. India’s richest man now wants to turn aging computers into AI-ready PCs
+### 2. MapQuest is now the No. 1 U.S. app after bucking Trump’s ‘Lake America’ renaming
 
-[原文] Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.
+[原文] The once-dominant mapping app has surged to the top of Apple’s U.S. App Store after refusing to adopt Trump’s “Lake America” name, drawing more than half of its 2026 U.S. downloads in just six days.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/) — *TechCrunch*
 
-### 3. HiddenLayer nabs $100M as enterprises rush to secure their AI deployments
+### 3. It sure looks like hackers breached a major ID card verification service
 
-[原文] HiddenLayer has raised a $100M Series B from Delta-v Capital, Ten Eleven Ventures, Morgan Stanley, Microsoft's M12, Booz Allen Hamilton, and others.
+[原文] An identity theft search site claimed to have more than 150 million driver's license photos stolen from an ID verification service. The crime site has now shut down.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/) — *TechCrunch*
 
-### 4. PSA: Amazon’s shopping AI can now tell you if that message is a scam
+### 4. Delivery Hero board backs Uber’s $15B takeover bid
 
-[原文] Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.
+[原文] If approved, the combined company would become one of the largest food delivery platforms in the world.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/02/delivery-hero-board-backs-ubers-15b-takeover-bid/) — *TechCrunch*
 
-### 5. Adobe acquires Indian market intelligence startup Rilo
+### 5. Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’
 
-[原文] This is Adobe's second acquisition out of India after Rephrase.ai in 2023
+[原文] The internet has a trust problem, and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now making their way into job applications, 
 
-📎 [阅读原文](https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/) — *TechCrunch*
 
 ---
 
@@ -180,23 +180,23 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c9861n79kepo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Carse left out of England squad for third Pakistan Test
+### 3. Olympic champion Davis-Woodhall 'lucky to be alive' after car crash
+
+[原文] Olympic long jump champion Tara Davis-Woodhall says she is "lucky and blessed to be alive" after being involved in a car crash.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/cwyzdvrrz3yo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. Carse left out of England squad for third Pakistan Test
 
 [原文] England leave Brydon Carse out of their squad for the third and final Test against Pakistan at Edgbaston.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cr4v2kzzvw0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Man Utd and their calculated left-back gamble
+### 5. Man Utd and their calculated left-back gamble
 
 [原文] Despite a widespread expectation they would sign a left-back this summer, Manchester United decided against - what does it mean?
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cj9x212829vo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Woods banned from driving for five years after March's crash arrest
-
-[原文] The golfer will accept a five-year driving ban and $1,000 fine as part of a plea agreement.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5y7xvpn5kno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Owen Thiele, Este Haim, Kate Berlant, Lisa Gilroy, Joel Kim Booster Join Variety’s Entertainment & Technology Summit
+### 1. Jack O’Connell’s Ruthless Tabloid Editor in ‘Ink’ Fires Up Venice as Danny Boyle Drama Earns Warm 4-Minute Ovation
 
-[原文] Variety has announced additional programming for its Entertainment &#38; Technology Summit presented by EY on Sept. 17 in Los Angeles. This includes actor and host of &#8220;In Your Dreams&#8221; podc
+[原文] Venice Film Festival kicked off on Wednesday night with the splashy premiere of &#8220;Ink,&#8221; an explosive drama about the rise of Rupert Murdoch&#8217;s tabloid empire. The film, which stars Jac
 
-📎 [阅读原文](https://variety.com/2026/biz/news/variety-entertainment-technology-2026-summit-programming-1236848829/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/jack-oconnell-danny-boyle-ink-venice-premiere-1236836393/) — *Variety*
 
-### 2. Kelly Clarkson Hits High Notes Singing ‘Golden’ During Final Talk Show; Lin-Manuel Miranda, Kristin Chenoweth and More ‘Blown Away’ by Performance
+### 2. Tim Curry’s Cause of Death Revealed
 
-[原文] Kelly Clarkson ended her talk show on a high note. The singer wrapped up “The Kelly Clarkson Show” after seven seasons with the Aug. 31 episode, during which the “American Idol” alum covered the hit s
+[原文] A cause of death has been confirmed for &#8220;Rocky Horror Picture Show&#8221; star Tim Curry, a week after his death at 80. The actor&#8217;s main cause of death was coronary artery disease, People 
 
-📎 [阅读原文](https://variety.com/2026/music/news/kelly-clarkson-sings-golden-talk-show-demon-hunters-1236849262/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/tim-curry-cause-of-death-1236845645/) — *Variety*
 
-### 3. David Byrne’s Hollywood Bowl Shows Put a Seal on One of the Greatest Rock Tours of All Time: Concert Review
+### 3. Elliot Page Is ‘Not Really’ Getting Casting Calls After ‘The Odyssey’: ‘If Someone Wants to Call Me…I’d Love to Do Good Work’
 
-[原文] Well, Brady Corbet has got his work cut out for him. That was one of the first thoughts that came to mind soon after David Byrne and company took the stage for the first of two shows at the Hollywood 
+[原文] Elliot Page has never felt more comfortable on screen. Finding the right role, however, has proven to be more difficult. During his appearance on the “On Film… With Kevin McCarthy” podcast, Elliott re
 
-📎 [阅读原文](https://variety.com/2026/music/concert-reviews/david-byrne-hollywood-bowl-tour-concert-review-1236849387/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/elliot-page-casting-calls-after-odyssey-1236849618/) — *Variety*
 
-### 4. ‘Black Book 2,’ ‘I’m Coming for You’ Headline Buzzy Slate of African Works in Progress at Inaugural TIFF Market (EXCLUSIVE)
+### 4. Filmmaker Penny Lane Sets Documentary on Bronx Zoo Elephant, ‘Happy’ (EXCLUSIVE)
 
-[原文] CANEX Creations Inc., the pan-African investment platform behind films such as the buzzy Cannes premiere “Clarissa,” has unveiled a slate of works in progress that it will be screening for prospective
+[原文] Documentary filmmaker Penny Lane (&#8220;Hail Satan?,&#8221; &#8220;Our Nixon&#8221;) has set her latest documentary on the Bronx Zoo elephant, Happy. The doc is being made in partnership with Alex Gi
 
-📎 [阅读原文](https://variety.com/2026/film/global/black-book-2-im-coming-for-you-africa-tiff-market-1236849064/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/filmmaker-penny-lane-documentary-happy-bronx-zoo-elephant-1236849229/) — *Variety*
 
-### 5. Nimesh Patel’s Netflix Special ‘Buy the Dip’ Sets September Release (EXCLUSIVE)
+### 5. Evan Rachel Wood Got Recast in ‘Practical Magic 2’ Against Her Wish and Says ‘No One Who Worked on the Original Film’ Reached Out to Her
 
-[原文] Nimesh Patel&#8217;s Netflix special has been given a title and release date. &#8220;Buy the Dip,&#8221; an hour of stand-up comedy, will debut on the streamer on Sept. 22. In what&#8217;s described a
+[原文] Evan Rachel Wood appeared to shade her original &#8220;Practical Magic&#8221; co-stars Nicole Kidman and Sandra Bullock by revealing in an Instagram story (via Entertainment Weekly) that no one involv
 
-📎 [阅读原文](https://variety.com/2026/tv/news/nimesh-patel-netflix-special-buy-the-dip-release-date-1236848659/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/evan-rachel-wood-shades-kidman-bullock-practical-magic-2-recasting-1236849434/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Epomaker Split 70 Keyboard Review
+### 1. Fortnite Announces Crossover With Andrew Garfield Historical Drama The Uprising
 
-[原文] The Epomaker Split70 Keyboard offers great ergonomics and an excellent typing feel, but its unconventional layout demands patience.
+[原文] Fortnite is officially crossing over with Andrew Garfield’s medieval rebellion film The Uprising, including historical melee weapons and film-inspired cinematic endings unique to each outcome.
 
-📎 [阅读原文](https://www.ign.com/articles/epomaker-split-70-keyboard-review) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/fortnite-andrew-garfield-the-uprising-crossover) — *IGN*
 
-### 2. The Best LEGO Castle Sets to Build in 2026
+### 2. Eren Yeager's English Voice Actor Literally Dislocated His Jaw to Pull Off One of Attack on Titan's Most Iconic Moments
 
-[原文] From Lord of the Rings to Disney, these are the best castle LEGO sets you can buy and build right now.
+[原文] Bryce Papenbrook, the English voice actor for Eren Yeager, claimed that he literally dislocated his jaw in order to realistically sell one of the most intense moments in Attack on Titan.
 
-📎 [阅读原文](https://www.ign.com/articles/the-best-lego-castle-sets) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/eren-yeagers-english-voice-actor-literally-dislocated-his-jaw-to-pull-off-one-of-attack-on-titans-most-iconic-moments) — *IGN*
 
-### 3. The Big Godzilla: Destroy All Monsters Melee Remastered Interview: Launching Against GTA 6, Cutting Hedorah, and Staying (Mostly) Faithful to a GameCube Classic
+### 3. Get 6.6ft 240W USB Type-C Cables for Less Than $3 Apiece
 
-[原文] IGN spoke with Godzilla: Destroy All Monsters Melee Remastered senior designer Simon Strange to hear about the game fans have long pleaded for — but never thought would actually happen.
+[原文] Universal cables perfect for your Nintendo Switch 2, Steam Deck, iPhone 17, or laptop.
 
-📎 [阅读原文](https://www.ign.com/articles/the-big-godzilla-destroy-all-monsters-melee-remastered-interview-launching-against-gta-6-cutting-hedorah-and-staying-mostly-faithful-to-a-gamecube-classic) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/best-usb-cable-deals-september-2026) — *IGN*
 
-### 4. LEGO Advent Calendars for 2026 Are Already on Sale
+### 4. Amazon Resale Has a Like New Nintendo Switch Pro Controller for Just $40.29 With Free Shipping
 
-[原文] They just came out, but you can already save $10 apiece on all five 2026 LEGO advent calendars, including Star Wars, Marvel, and Disney themes.
+[原文] Switch 2 compatible.
 
-📎 [阅读原文](https://www.ign.com/articles/lego-advent-calendars-2026-are-already-on-sale) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/nintendo-switch-pro-controller-deal-september-2026) — *IGN*
 
-### 5. Xbox Acknowledges 'Major Outage' as Sign-In Issues Hit PC and Consoles
+### 5. YouTuber Claims Rockstar Confirmed Fans Measured Oxygen Levels Around Its Campus in Anticipation for a New Trailer
 
-[原文] Microsoft has acknowledged a "major outage", with account issues across PC, Xbox Series X/S and other devices.
+[原文] Italian YouTuber Mike ShowSha got to visit Rockstar ahead of the company’s big GTA 6 Netflix showcase, where developers told him that overeager fans were literally measuring the oxygen levels around t
 
-📎 [阅读原文](https://www.ign.com/articles/xbox-acknowledges-major-outage-as-sign-in-issues-hit-pc-and-consoles) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/youtuber-claims-rockstar-confirmed-fans-measured-oxygen-levels-around-its-campus-in-anticipation-for-a-new-trailer) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Finally: A New Car With Crotch Vents
+### 1. Dear Ford: Don’t Gatekeep the 6×6 Ranger Super Duty You Made for England
 
-[原文] Return of the crotch vent might be enough to get me excited about a new car startup brand.
-The post Finally: A New Car With Crotch Vents appeared first on The Drive.
+[原文] Ford made this six-wheel tactical truck as a concept for the British Army, but let's be real: it belongs here.
+The post Dear Ford: Don&#8217;t Gatekeep the 6&#215;6 Ranger Super Duty You Made for Engl
 
-📎 [阅读原文](https://www.thedrive.com/news/finally-a-new-car-with-crotch-vents) — *The Drive*
+📎 [阅读原文](https://www.thedrive.com/news/ford-built-a-6x6-ranger-super-duty-prototype-with-a-tray-bed) — *The Drive*
 
-### 2. Driven: Linglong’s Leao Lion Climber Tires On an Actual Off-Road Trail
+### 2. The Subaru WRX Is Rebounding From Its Worst Year Ever
 
-[原文] Linglong Tire has new budget-friendly off-road tire options in the Leao Lion Climber line. We did some road and trail miles to see what they're about.
-The post Driven: Linglong’s Leao Lion Climber Tir
+[原文] Thanks to a $5,000 price cut to start the year and more inventory, the Subaru WRX has bounced back from its 2025 doldrums.
+The post The Subaru WRX Is Rebounding From Its Worst Year Ever appeared first
 
-📎 [阅读原文](https://www.thedrive.com/news/driven-linglongs-leao-lion-climber-tires-on-an-actual-off-road-trail) — *The Drive*
+📎 [阅读原文](https://www.thedrive.com/news/the-subaru-wrx-is-rebounding-from-its-worst-year-ever) — *The Drive*
 
-### 3. 2026 Cadillac Optiq-V Review: Premium Design, Premium Price, Mediocre Ride
+### 3. The Feds Diluted Gas to Cut Prices. Diesel Has No Such Fix
 
-[原文] On paper, the 519-hp Cadillac Optiq-V has what it needs to be a thrilling SUV. In practice, you may as well stick with the regular one.
-The post 2026 Cadillac Optiq-V Review: Premium Design, Premium P
+[原文] Diesel is closing in on its 2022 record and the price hikes are about to hit everything from school buses to holiday shopping.
+The post The Feds Diluted Gas to Cut Prices. Diesel Has No Such Fix appea
 
-📎 [阅读原文](https://www.thedrive.com/car-reviews/2026-cadillac-optiq-v-review) — *The Drive*
+📎 [阅读原文](https://www.thedrive.com/news/the-feds-diluted-gas-to-cut-prices-diesel-has-no-such-fix) — *The Drive*
 
-### 4. Say Hello to the First All-New Mitsubishi Montero in 20 Years: TDS
+### 4. Do UTVs Really Need Fancy Dual-Clutch Transmissions? Let’s See
 
-[原文] The new Montero—or Pajero, as it's known overseas—is looking fantastic, though it may not be quite the version Mitsubishi brings to the U.S.
-The post Say Hello to the First All-New Mitsubishi Montero 
+[原文] After testing two wildly different side-by-sides with DCTs, it's time to compare them to more typical CVTs.
+The post Do UTVs Really Need Fancy Dual-Clutch Transmissions? Let&#8217;s See appeared first
 
-📎 [阅读原文](https://www.thedrive.com/news/say-hello-to-the-first-all-new-mitsubishi-montero-in-20-years-tds) — *The Drive*
+📎 [阅读原文](https://www.thedrive.com/news/do-utvs-really-need-fancy-dual-clutch-transmissions-lets-see) — *The Drive*
 
-### 5. Kia Is on Fire
+### 5. Lake Como Villa Where James Bond Shot Mr. White in ‘Casino Royale’ Is Up for Sale
 
-[原文] Even in a turbulent market, Kia just set an all-time monthly sales record in August and is on track for its fourth consecutive record year.
-The post Kia Is on Fire appeared first on The Drive.
+[原文] Casino Royale had some lovely Aston Martins and Jaguars, but it also featured this stunning lakeside home in the closing scenes. Now it's for sale and move-in ready.
+The post Lake Como Villa Where Jam
 
-📎 [阅读原文](https://www.thedrive.com/news/kia-is-on-fire) — *The Drive*
+📎 [阅读原文](https://www.thedrive.com/news/lake-como-villa-where-james-bond-shot-mr-white-in-casino-royale-is-up-for-sale) — *The Drive*
 
 ---
 
@@ -381,17 +381,17 @@ The post Kia Is on Fire appeared first on The Drive.
 
 📎 [阅读原文](https://insideclimatenews.org/news/02092026/un-report-climate-overshoot-warning/) — *Inside Climate News*
 
-### 4. Federal Judge Strikes Down New York’s Climate Change Superfund Law
+### 4. Polluting Nylon Plants Clean Up Their Acts
+
+[原文] Many of our impact case studies cover ongoing stories that Inside Climate News continues to actively cover. The impact reflected here is current as of publication and may be updated as the situation d
+
+📎 [阅读原文](https://insideclimatenews.org/news/02092026/impact-methane-reporting/) — *Inside Climate News*
+
+### 5. Federal Judge Strikes Down New York’s Climate Change Superfund Law
 
 [原文] A federal judge has struck down New York’s Climate Change Superfund Act, ruling that it “conflicts with” federal authority.&#160;&#160; The legislation would have required fossil fuel companies to hel
 
 📎 [阅读原文](https://insideclimatenews.org/news/01092026/federal-judge-strikes-down-new-york-climate-change-superfund-act/) — *Inside Climate News*
-
-### 5. At the Grand Canyon, Flooding and Wildfire Underscore Compounding Extreme Weather Risks
-
-[原文] An intense downpour at Grand Canyon National Park transformed hiking trails and shallow creeks into deadly rapids over the weekend, killing at least two people. Following scattered showers Saturday mo
-
-📎 [阅读原文](https://insideclimatenews.org/news/01092026/todays-climate-grand-canyon-flash-floods/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post Kia Is on Fire appeared first on The Drive.
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Blackpink’s Lisa Will Capture Solo Journey in ‘Always Lalisa’ Documentary
+### 1. Cassandra Wilson, Grammy-Winning Jazz Singer, Dead at 70
 
-[原文] In theaters October 12, the film, directed by Sue Kim, will follow Lisa as she balances global stardom and internal pressure
+[原文] Vocalist blended jazz with pop music repertoire and was famous for putting refreshing, unusual spins on well-known songs
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/blackpink-lisa-documentary-solo-journey-1235619780/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/cassandra-wilson-jazz-singer-dead-obituary-1235619965/) — *Rolling Stone*
 
-### 2. See Rush Pay Belated Tribute to Neil Peart in New Doc
+### 2. Dollywood Developing ‘Several New Experiences’ to Honor Dolly Parton
 
-[原文] Film, which premieres this month at TIFF, also features the Police's Stewart Copeland, Red Hot Chili Peppers' Chad Smith
+[原文] Dollywood Parks &#38; Resorts will reflect on the life and legacy of its founder in the wake of her death
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/rush-neil-peart-doc-no-ones-disciple-1235619750/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/dolly-parton-new-dollywood-parks-exhibits-memorial-honor-1235620073/) — *Rolling Stone*
 
-### 3. Travis Kelce and Taylor Swift Needed ‘Intimate and Genuine’ Venue for Wedding — So MSG Was Perfect
+### 3. Here’s What Stevie Nicks and Olivia Rodrigo Sing on the ‘Practical Magic 2’ Soundtrack
 
-[原文] "We needed it to be a private feel," Kelce said on the first episode of his New Heights podcast since the July 3 ceremony
+[原文] After their duet on "Landslide," Sandra Bullock teased that their "angel voices" appear on the upcoming sequel
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/why-travis-kelce-taylor-swift-chose-msg-for-wedding-1235619693/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/stevie-nicks-olivia-rodrigo-practical-magic-2-1235619423/) — *Rolling Stone*
 
-### 4. Keffe D’s Lawyer Intends to Appeal Tupac Murder Conviction
+### 4. D4vd Doesn’t Deserve Public Defender, Lawyer for Celeste Rivas Hernandez’s Family Claims
 
-[原文] “No one ever wants to lose, especially something like this,” lawyer Michael Sanft says
+[原文] "The residents of Los Angeles County should be outraged because it will be the taxpayers that are picking [up] the tab to defend this millionaire," Patrick Steinfeld says
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/keffe-d-duane-davis-lawyer-tupac-shakur-murder-appeal-1235619670/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/d4vd-not-indigent-lawyer-claims-1235619888/) — *Rolling Stone*
 
-### 5. Olivia Rodrigo Wants Monica Barbaro to Play Her in a Movie
+### 5. Kacey Musgraves Performs ‘Easy’ With Troye Sivan for the First Time at MSG
 
-[原文] The singer admitted that when she sees a photo of the actress sometimes she thinks, “Oh, that’s a picture of me”
+[原文] The country singer invited her former collaborator to the second sold-out night of her New York shows
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/olivia-rodrigo-monica-barbaro-movie-cameron-crowe-1235619571/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/kacey-musgraves-troye-sivan-madison-square-garden-perform-1235619385/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post Kia Is on Fire appeared first on The Drive.
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Southwest to Launch ‘At Least’ 11 Airport Lounges in Chase Partnership
+### 1. Skift Global Forum Preview: Amadeus’s President of Travel on Why the Traveler, Not the Platform, Should Hold the Controls
+
+[原文] Decius Valmorbida thinks the industry competes too hard on closed ecosystems and cooperates too little on the plumbing. His bet: open, shared foundations grow the pie for everyone. We'll test whether 
+
+📎 [阅读原文](https://skift.com/2026/09/02/skift-global-forum-preview-amadeus-traveler-platform-controls/) — *Skift*
+
+### 2. Travel Execs to Meet With Trump to Push Inbound Tourism
+
+[原文] The meeting comes on the heels of the World Cup tournament and follows four consecutive months of inbound travel declines.
+
+📎 [阅读原文](https://skift.com/2026/09/02/travel-execs-meet-trump-white-house/) — *Skift*
+
+### 3. Uber to Lay Off 3,300 Employees, Reducing Management Jobs by 20%
+
+[原文] Uber's reorganization doesn't directly impact its product portfolio, according to the company, but its attention is focused on core businesses.
+
+📎 [阅读原文](https://skift.com/2026/09/02/uber-to-lay-off-3300-employees-reducing-management-jobs-by-20/) — *Skift*
+
+### 4. Southwest to Launch ‘At Least’ 11 Airport Lounges in Chase Partnership
 
 [原文] Lounges are the latest step in Southwest’s rapid transformation from a low-cost domestic carrier to a full-service operator.
 
 📎 [阅读原文](https://skift.com/2026/09/02/southwest-to-launch-airport-lounges-in-2027/) — *Skift*
 
-### 2. Virgin’s New International Trains Could Cut Emissions, Fares — and Fuel Its Loyalty Program
+### 5. Virgin’s New International Trains Could Cut Emissions, Fares — and Fuel Its Loyalty Program
 
 [原文] Increased competition on the track connecting the UK and continental Europe could be a win for the environment if it pulls travelers off planes, but prices need to be lower. Virgin has another incenti
 
 📎 [阅读原文](https://skift.com/2026/09/02/virgins-new-international-trains-could-cut-emissions-fares-and-fuel-its-loyalty-program/) — *Skift*
-
-### 3. Ryanair Pulls Winter Capacity and Warns Rivals May Struggle to Survive
-
-[原文] Ryanair has a fuel hedge most airlines would envy, and it's still cutting unprofitable winter flights. Its more exposed rivals should be nervous.
-
-📎 [阅读原文](https://skift.com/2026/09/02/ryanair-pulls-winter-capacity-and-warns-rivals-may-struggle-to-survive/) — *Skift*
-
-### 4. The Economics of Flight Search, Post-Google
-
-[原文] Skyscanner, Kiwi.com, and Wego built different businesses around the same problem: helping people find flights. Their latest private company filings show what that business is worth after Google — and
-
-📎 [阅读原文](https://skift.com/2026/09/02/the-economics-of-flight-search-post-google/) — *Skift*
-
-### 5. Saudi Tourism Names New CEO As Kingdom Pulls Back On Vision 2030 Spending
-
-[原文] Ageel Alshaibani inherits a goal of drawing 150 million tourists — a tough ask now that the Public Investment Fund is pulling back on the giga projects built to draw them.
-
-📎 [阅读原文](https://skift.com/2026/09/02/saudi-tourism-names-new-ceo-as-kingdom-pulls-back-on-vision-2030-spending/) — *Skift*
 
 ---
 
