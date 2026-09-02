@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月02日** | 生成时间: 2026-09-02 04:47
+**2026年09月02日** | 生成时间: 2026-09-02 11:42
 
 ---
 
@@ -22,9 +22,9 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. US launches more strikes on Iran as state media reports explosions
+### 2. Iran retaliates after US strikes kill four at wedding party, state media reports
 
-[原文] US Central Command accused Iran of targeting commercial shipping and American service members deployed in the region.
+[原文] Iran has launched attacks on US military bases in Iraq and Jordan, according to local state media and the Jordanian Armed Forces.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
@@ -54,17 +54,17 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Bessent touts bond market as 10-year Treasury yield spikes
+### 1. Trump says U.S. is not forcing Iran to negotiate after fresh round of strikes
 
-[原文] Treasury Secretary Scott Bessent downplayed short-term bond moves even as he touted the U.S. market, saying, "what happens over a month doesn't matter."
+[原文] U.S. forces completed another wave of strikes against Iran on Tuesday stateside, hitting multiple Islamic Revolutionary Guard Corps sites across the country.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/01/bessent-trump-bond-yields-g20.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/02/us-iran-war-trump-hormuz-irgc-jordan-bahrain.html) — *CNBC*
 
-### 2. U.S. House votes to avoid government shutdown amid GOP hard-liner resistance
+### 2. China dissented from G20 statement opposing 'cheap exports' flooding market, Bessent says
 
-[原文] The U.S. House on Tuesday voted in favor of a short-term spending measure that would avoid a government shutdown until after November's midterm election.
+[原文] Bessent is leading the Trump administration's plan to choke off Iran's economy by threatening its business partners with secondary sanctions.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/01/congress-government-shutdown-vote.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/01/bessent-china-g20-trade-exports-trump-xi.html) — *CNBC*
 
 ### 3. Canada's Carney slaps Trump admin for 'doing memes ... throwing shade'
 
@@ -72,17 +72,17 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/01/canada-carney-trump-trade-ontario.html) — *CNBC*
 
-### 4. Palo Alto Networks beats quarterly estimates on AI demand, continues acquisition spree
+### 4. Dell surges 9% after lifting fiscal 2027 forecast on AI server strength
 
-[原文] Palo Alto Networks' stock has nearly doubled this year as AI boosts demand for security detection and response tools
+[原文] Dell sees AI server revenue tripling in fiscal 2027. Six months ago, it was looking for the number to double.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/01/palo-alto-networks-panw-q4-2026-earnings.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/01/dell-q2-earnings-report-2027.html) — *CNBC*
 
-### 5. House to vote on measure condemning socialism ahead of November election
+### 5. U.S. House votes to avoid government shutdown amid GOP hard-liner resistance
 
-[原文] Republicans also inserted a call to pass the highly controversial voter-ID bill known as the SAVE America Act into the socialism resolution.
+[原文] The U.S. House on Tuesday voted in favor of a short-term spending measure that would avoid a government shutdown until after November's midterm election.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/01/congress-vote-condemning-socialism-election.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/01/congress-government-shutdown-vote.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. John Ternus hypes ‘huge launch next week’ in first memo as Apple CEO
+### 1. Larry Page’s flying car company Pivotal loses its CEO
 
-[原文] Apple is hosting its iPhone release event next week, which is rumored to feature the first-ever foldable iPhone.
+[原文] The company told TechCrunch he is "pursuing new endeavors." Karklin will be replaced on an interim basis by Mike Ross, an aviation executive who joined Pivotal's board of directors in November 2025.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/) — *TechCrunch*
 
-### 2. Anthropic’s new Fable release is cheaper, less restrictive
+### 2. Reliance’s JioHotstar takes its streaming empire global — without sports
 
-[原文] Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.
+[原文] JioHotstar will only have entertainment content when it launches in the UK, Canada, and Singapore.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/) — *TechCrunch*
 
-### 3. Thrive’s Kushner defends involvement in FIFA mess, hires Elon’s go-to lawyer
+### 3. Apple follows Google in adopting Trump’s ‘Lake America’ name
 
-[原文] New York's prestigious-yet-secretive venture firm Thrive Capital finally speaks out about its involvement in the messy drama upending international soccer.
+[原文] Apple Maps is following President Trump's executive order to change the name of Lake Ontario to Lake America.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/01/thrives-kushner-defends-involvement-in-fifa-mess-hires-elons-go-to-lawyer/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/) — *TechCrunch*
 
-### 4. Who is John Ternus, the new Apple CEO?
+### 4. AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B
 
-[原文] Starting on September 1, Ternus will lead one of the world's most valuable companies, but if you're not a dedicated Apple enthusiast, you've probably never heard of this man, who has largely remained 
+[原文] AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/01/who-is-john-ternus-the-incoming-apple-ceo/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/) — *TechCrunch*
 
-### 5. Google’s answer to Canva is an AI tool where you prompt instead of design
+### 5. OpenAI’s Astra model is on the way — and very good at breaking into computer systems
 
-[原文] With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.
+[原文] OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Premier League breaks transfer record for second straight summer
+### 1. Fernandez joins Man City for joint-British record £125m
+
+[原文] Manchester City pay a joint-British transfer record fee of £125m for Chelsea midfielder Enzo Fernandez.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cr7deg1ze03o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. Premier League breaks transfer record for second straight summer
 
 [原文] Premier League clubs break their all-time summer transfer record after spending reaches £3.198bn.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/czxzk0znvzeo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Chelsea agree £47.1m move for Monaco's Camara
+### 3. No repeat of Wimbledon heroics as Fery exits US Open
 
-[原文] Chelsea have moved to replace outgoing midfielder Enzo Fernandez with Monaco's Lamine Camara.
+[原文] Arthur Fery is unable to produce a repeat of his Wimbledon heroics as his US Open debut ends in a first-round loss to Italian 13th seed Lorenzo Musetti.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ce8emxm7xmzo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cn8mrl4m5zzo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Superb England crush Ireland with record ODI chase
+### 4. Superb England crush Ireland with record ODI chase
 
 [原文] Maia Bouchier's stunning century helps England women seal their record one-day international chase of 282 to beat Ireland in the series opener.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cjdvem7yke9o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Man City sign Ndiaye from Everton for £65m
+### 5. Camara's £47.1m move from Monaco to Chelsea collapses
 
-[原文] Manchester City sign winger Iliman Ndiaye from Everton in a deal worth up to £65m.
+[原文] Lamine Camara is staying at Monaco after the Senegal midfielder's £47.1m move to Chelsea collapses.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c3wj1qw5x04o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Man City agree £125m fee for Chelsea's Fernandez
-
-[原文] Manchester City agree to pay a British transfer record fee of £125m for Chelsea midfielder Enzo Fernandez.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cr7deg1ze03o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ce8emxm7xmzo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Variety and Utopai Studios to Host Future in Focus Conversations at TIFF
+### 1. Danny Booko and Nia Sanchez Leave ‘The Valley’: ‘Our Priority Is Protecting Our Peace’
 
-[原文] Variety Future in Focus, presented by Utopai Studios, will bring together leading filmmakers and creative voices at the Toronto International Film Festival. The invite-only event, presented on Sept. 1
+[原文] Danny Booko and Nia Sanchez are leaving “The Valley” after three seasons with the Bravo reality show. “We wanted to share a quick update that we will not be returning to &#8216;The Valley,&#8217;” the
 
-📎 [阅读原文](https://variety.com/2026/film/news/variety-utopai-studios-host-future-in-focus-tiff-1236847582/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/danny-booko-nia-sanchez-leave-the-valley-bravo-1236848977/) — *Variety*
 
-### 2. Tony Romo Suggests He’d Like to Return to CBS’ NFL Coverage After No Contest Plea
+### 2. Victor Miller, ‘Friday the 13th’ Screenwriter, Dies at 86
 
-[原文] Tony Romo has analyzed plays for CBS Sports since 2017. Now he&#8217;s considering a new one, in which he hopes the network allows him to return following a run-in with the law. Romo on Tuesday said h
+[原文] Victor Miller, the screenwriter behind the horror classic “Friday the 13th,” died on Monday in Alameda, Calif. He was 86. Miller’s death was confirmed to Variety by his son, Ian. Released in 1980, “Fr
 
-📎 [阅读原文](https://variety.com/2026/tv/news/tony-romo-cbs-nfl-return-cbs-no-contest-plea-1236848637/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/victor-miller-dead-friday-the-13th-screenwriter-1236848883/) — *Variety*
 
-### 3. Producer Urged Trump to Back U.S. Film Incentive Citing Prospect of Shooting Richard Nixon Biopic Overseas
+### 3. David Byrne Returns to Oscar Race With Original Song for Elon Musk Documentary ‘Musk’ (EXCLUSIVE)
 
-[原文] President Donald Trump came away from a meeting with actor Jon Voight and two Hollywood producers very supportive of a federal tax incentive for film and TV productions. Something that may have caught
+[原文] David Byrne wrote a song about the world’s richest man. The Talking Heads frontman wrote and performed an original song for “Musk,” Alex Gibney&#8217;s sprawling documentary reckoning with Elon Musk, 
 
-📎 [阅读原文](https://variety.com/2026/film/news/trump-us-film-incentive-white-house-meeting-richard-nixon-biopic-overseas-1236848380/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/awards/david-byrne-musk-documentary-oscar-song-1236848717/) — *Variety*
 
-### 4. Jason Isbell Leads New Suno Lawsuit, Claims AI Music Generator ‘Exploits’ Musicians’ Identities in Models
+### 4. Ji Chang-wook and Imada Mio’s Korean-Japanese Romcom ‘Merry Berry Love’ Sets October Disney+, Hulu Bow
 
-[原文] Grammy-winning Americana crooner Jason Isbell is one of several new litigants in a new federal lawsuit against the AI music generator Suno, arguing the company has allowed users to produce tracks base
+[原文] Korean-Japanese romantic comedy series &#8220;Merry Berry Love,&#8221; starring Ji Chang-wook and Imada Mio, is bowing on Disney+ and Hulu this October. Set on a picturesque Japanese island, the serie
 
-📎 [阅读原文](https://variety.com/2026/music/news/jason-isbell-suno-lawsuit-ai-music-exploits-identities-1236848468/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/ji-chang-wook-imada-mio-merry-berry-love-disney-hulu-october-1236848185/) — *Variety*
 
-### 5. ‘Avengers: Secret Wars’ Adds Noah Jupe to Cast
+### 5. Indian Streamer JioHotstar Launches in U.K., Canada and Singapore With Interactive Features
 
-[原文] Noah Jupe will be the latest actor to join the Marvel Cinematic Universe, with the &#8220;Hamnet&#8221; and &#8220;A Quiet Place&#8221; star tapped to play a top-secret role in &#8220;Avengers: Secret
+[原文] India&#8217;s leading streamer JioHotstar has launched internationally in the U.K., Canada and Singapore, bringing its catalog of more than 160,000 hours of entertainment across more than 12 Asian lan
 
-📎 [阅读原文](https://variety.com/2026/film/news/marvel-avengers-secret-wars-noah-jupe-cast-1236848537/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/jiohotstar-uk-canada-singapore-launch-1236848067/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The 3-in-1 LEGO Haunted Mansion Drops to a New Low Price, Includes a Haunted Train Build
+### 1. The 65" Samsung S90F 4K QD-OLED TV Is Better Than Its 2026 Successor, and It's on Sale for Labor Day
 
-暂无摘要。
+[原文] The S90F is the last TV in the lineup with QD-OLED technology; the new 2026 removes it.
 
-📎 [阅读原文](https://www.ign.com/articles/the-3-in-1-lego-haunted-mansion-drops-to-a-new-low-price-includes-a-haunted-train-build) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/samsung-s65f-4k-oled-tv-deal-ebay-labor-day-sale) — *IGN*
 
-### 2. Save 53% Off Like New Sony WH-1000XM6 Noise Canceling Headphones During eBay's Labor Day Sale
+### 2. Star Wars Zero Company Was Originally Pitched as a Titanfall Universe Game
 
-[原文] Includes a 2 year warranty.
+[原文] Star Wars Zero Company was originally pitched as a game in the Titanfall universe.
 
-📎 [阅读原文](https://www.ign.com/articles/sony-wh-1000xm6-wireless-noise-canceling-headphone-deal-ebay-labor-day-sale) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/star-wars-zero-company-was-originally-pitched-as-a-titanfall-universe-game) — *IGN*
 
-### 3. Amazon Resale Has a Like New Nintendo Switch Pro Controller for Just $48.12 With Free Shipping
+### 3. Stanley Kubrick’s Daughter Responds to Eyes Wide Shut Conspiracy Theories
 
-[原文] Switch 2 compatible.
+[原文] Stanley Kubrick’s daughter Vivian has addressed rumors surrounding Eyes Wide Shut, debunking claims that key scenes were removed after the director's death.
 
-📎 [阅读原文](https://www.ign.com/articles/nintendo-switch-pro-controller-deal-september-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/stanley-kubrick-daughter-eyes-wide-shut-conspiracy-theories) — *IGN*
 
-### 4. Get Two Months of the Paramount+ Premium (Ad-Free) Subscription for Just $1 Per Month
+### 4. CD Projekt Red Boss 'Isn't Worried' About Delays for Next-Gen Consoles as RAM Prices Soar
 
-[原文] Most new and returning (non-current) subscribers should be eligible.
+[原文] CD Projekt Red joint CEO Michał Nowakowski opened up about the developer’s reaction to the rising price of consoles and the possibility of next-generation hardware getting delayed.
 
-📎 [阅读原文](https://www.ign.com/articles/paramount-plus-subscription-deal-august-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/cd-projekt-red-boss-isnt-worried-about-delays-for-next-gen-consoles-as-ram-prices-soar) — *IGN*
 
-### 5. The Excellent Sony WH-1000XM5 Noise Canceling Wireless Headphones Drops to $198 on Amazon
+### 5. GTA 6's Morality Meter Will Reportedly 'Shatter' and Make You Irredeemable If You Cause Too Much Mayhem
 
-[原文] The best noise canceling over-ear headphones under $200.
+[原文] Grand Theft Auto 6's morality meter can reportedly "shatter" and lead to you becoming essentially irredeemable for an entire playthrough of the game.
 
-📎 [阅读原文](https://www.ign.com/articles/sony-wh1000xm5-noise-canceling-wireless-headphone-deal-august-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/gta-6s-morality-meter-will-reportedly-shatter-and-make-you-irredeemable-if-you-cause-too-much-mayhem) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post Mazda Plans to Turnaround Struggles With &#8216;Unprecedented&#8217; Pr
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Amazon’s Defenders Declare a State of Emergency
+### 1. Federal Judge Strikes Down New York’s Climate Change Superfund Law
+
+[原文] A federal judge has struck down New York’s Climate Change Superfund Act, ruling that it “conflicts with” federal authority.&#160;&#160; The legislation would have required fossil fuel companies to hel
+
+📎 [阅读原文](https://insideclimatenews.org/news/01092026/federal-judge-strikes-down-new-york-climate-change-superfund-act/) — *Inside Climate News*
+
+### 2. At the Grand Canyon, Flooding and Wildfire Underscore Compounding Extreme Weather Risks
+
+[原文] An intense downpour at Grand Canyon National Park transformed hiking trails and shallow creeks into deadly rapids over the weekend, killing at least two people. Following scattered showers Saturday mo
+
+📎 [阅读原文](https://insideclimatenews.org/news/01092026/todays-climate-grand-canyon-flash-floods/) — *Inside Climate News*
+
+### 3. Why Montana Firefighters Are Intentionally Burning Areas Around Two Wildfires
+
+[原文] About a month ago, two wildfires ignited a day apart in southwest Montana. The Bobcat Lakes Fire started July 31 near Wise River, followed by the Sand Creek Fire on Aug. 1 near Wisdom.&#160; Now, crew
+
+📎 [阅读原文](https://insideclimatenews.org/news/01092026/montana-strategic-firing-around-two-wildfires/) — *Inside Climate News*
+
+### 4. The Amazon’s Defenders Declare a State of Emergency
 
 [原文] PUYO, Ecuador—People fighting oil wells, mines and other threats to their homelands did not come to this Amazonian city to lobby politicians at an environmental conference hosted by governments. They 
 
 📎 [阅读原文](https://insideclimatenews.org/news/01092026/amazons-defenders-declare-state-of-emergency/) — *Inside Climate News*
 
-### 2. The Trump EPA Is a Toothless Friend of Polluting Industries, Analysis Shows
+### 5. The Trump EPA Is a Toothless Friend of Polluting Industries, Analysis Shows
 
 [原文] By its own account, the U.S. Environmental Protection Agency is doing a fantastic job. In a March report on its performance in the last fiscal year, the agency boasted that it had concluded 2,127 civi
 
 📎 [阅读原文](https://insideclimatenews.org/news/01092026/trump-epa-clean-air-water-retreat/) — *Inside Climate News*
-
-### 3. Maryland Consumer Advocate Challenges PJM Plan to Buy Power for Projected Data Center Growth
-
-[原文] Maryland’s ratepayer protection agency is fighting on two fronts simultaneously to shield households from paying hundreds of millions more in costs related to projected power demand—much of it linked 
-
-📎 [阅读原文](https://insideclimatenews.org/news/01092026/maryland-ratepayer-advocate-challenges-pjm-power-plan/) — *Inside Climate News*
-
-### 4. No One Knows All the Toxic Chemicals You’re Eating
-
-[原文] Most people decide if it’s safe to eat an old tub of yogurt in the fridge or canned tuna in the back of the cupboard by checking its sell-by date. But no label indicates that pesticides, phthalates, P
-
-📎 [阅读原文](https://insideclimatenews.org/news/01092026/food-packaging-toxic-chemicals/) — *Inside Climate News*
-
-### 5. Why Iceland Chose Fish Over European Alliances
-
-[原文] Over the weekend, Iceland voted against resuming talks to join the European Union. At the heart of the referendum question: fish. More than a decade since talks previously collapsed, Euroskeptics won 
-
-📎 [阅读原文](https://insideclimatenews.org/news/31082026/iceland-rejects-european-union-for-fishing/) — *Inside Climate News*
 
 ---
 
@@ -401,35 +401,35 @@ The post Mazda Plans to Turnaround Struggles With &#8216;Unprecedented&#8217; Pr
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. AI Can Help One of K-12’s Biggest Challenges: Middle School Reading
+### 1. How AI Taught Me to Embrace Vulnerability in the Classroom
+
+[原文] True innovation isn’t found in mastering every platform, but in being willing to ask deeper questions and take risks.
+
+📎 [阅读原文](https://edsurge.com/news/how-ai-taught-me-to-embrace-vulnerability-in-the-classroom) — *EdSurge*
+
+### 2. A Principal and a Student Reviewed the New ChatGPT for Teens. They Had Plenty to Say
+
+[原文] The new offering is promising, but there are some real-world reservations.
+
+📎 [阅读原文](https://edsurge.com/news/a-principal-and-a-student-reviewed-the-new-chatgpt-for-teens-they-had-plenty-to-say) — *EdSurge*
+
+### 3. AI Can Help One of K-12’s Biggest Challenges: Middle School Reading
 
 [原文] Artificial intelligence can bridge the middle grades literacy gap by providing individualized student reading instruction at scale.
 
 📎 [阅读原文](https://edsurge.com/news/ai-can-help-one-of-k-12s-biggest-challenges-middle-school-reading) — *EdSurge*
 
-### 2. Student Artists Wrestle with AI’s Promise and Peril
+### 4. Student Artists Wrestle with AI’s Promise and Peril
 
 [原文] Four student artists map out what artificial intelligence means for their communities today — and 50 years from now.
 
 📎 [阅读原文](https://edsurge.com/news/student-artists-wrestle-with-ais-promise-and-peril) — *EdSurge*
 
-### 3. Protecting Student Cognition in the Age of AI
-
-[原文] Educators must shift their focus from preventing cognitive offloading to preserving the critical thinking skills AI threatens to replace.
-
-📎 [阅读原文](https://edsurge.com/news/protecting-the-student-mind-in-the-age-of-ai) — *EdSurge*
-
-### 4. Can a Letter From Washington Actually Change How Schools Buy Technology?
+### 5. Can a Letter From Washington Actually Change How Schools Buy Technology?
 
 [原文] On this episode of This Week with EdSurge, unpacking new federal edtech guidance for schools.
 
 📎 [阅读原文](https://edsurge.com/news/can-a-letter-from-washington-actually-change-how-schools-buy-technology) — *EdSurge*
-
-### 5. As Male Teachers Vanish From the Classroom, Schools Look for Ways to Bring Them Back
-
-[原文] A new survey of 145 men in the profession points to mentorship, pay and a sense of belonging as the biggest levers for recruitment and retention.
-
-📎 [阅读原文](https://edsurge.com/news/as-male-teachers-vanish-from-the-classroom-schools-look-for-ways-to-bring-them-back) — *EdSurge*
 
 ---
 
@@ -439,35 +439,35 @@ The post Mazda Plans to Turnaround Struggles With &#8216;Unprecedented&#8217; Pr
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Lizzo Stylist’s Lawsuit Against Singer’s Touring Company Shut Down by Judge
+### 1. Sean Ono Lennon Confirms Birth of Baby Boy, John Lennon and Yoko Ono’s First Grandchild
 
-[原文] Judge rules Asha Daniels failed to identify conduct by employees that demonstrated “general hostility” to women in the workplace
+[原文] The couple shared the happy news on social media
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/lizzo-stylist-lawsuit-shut-down-1235619054/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/sean-ono-lennon-baby-boy-john-lennon-yoko-ono-grandchild-1235619534/) — *Rolling Stone*
 
-### 2. Miley (No Last Name) Plans 10th Album, ‘Bass Persuades,’ Hollywood Bowl Dates
+### 2. Ariana Grande Holds Back Tears During Final ‘Eternal Sunshine’ Show: ‘An Extraordinary Experience’
 
-[原文] The artist teased the upcoming release with a 30-second instrumental video of her playing guitar
+[原文] Following the conclusion of the tour, Grande plans “step back” from public life
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/miley-cyrus-bass-persuades-hollywood-bowl-1235618977/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/ariana-grande-final-eternal-sunshine-concert-london-1235619516/) — *Rolling Stone*
 
-### 3. Journey Brought Out Hugo Valenti for a Second Time — And This Time He Nailed It
+### 3. Alanis Morissette Sues Former Tour Manager, Alleges ‘Extortionate’ Threat Over Airport Drugs
 
-[原文] The longtime tribute band singer once again sang with Journey at a show in Japan, fronting the group on “Faithfully” and the 1981 deep cut “Keep on Runnin’”
+[原文] The singer's new lawsuit claims she is "the victim of a calculated blackmail campaign"
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/journey-hugo-valenti-second-time-1235618975/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/alanis-morissette-sues-tour-manager-extortion-airport-drugs-1235619395/) — *Rolling Stone*
 
-### 4. Mark the Spot, Episode 2: Fashion
+### 4. Tupac Shakur’s Family ‘Elated and Relieved’ After Duane ‘Keffe D’ Davis Conviction
 
-[原文] D for Dapper
+[原文] "We honor Afeni Shakur — a mother whose strength and unshakable belief in her son's truth carried this fight long before any of us knew where it would lead," the rapper's sister said in a statement
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/mark-the-spot-episode-2-fashion-d-for-dapper-1235584567/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/tupac-murder-trial-keffe-d-guilty-verdict-family-statement-1235619394/) — *Rolling Stone*
 
-### 5. The Who Announce Massive ‘Who By Numbers’ Box Set With 92 Unreleased Tracks
+### 5. Jason Isbell Claims Suno Used Artists’ Identities to Train AI ‘Without Consent’ in New Lawsuit
 
-[原文] The five-disc set includes two complete concerts from 1976, studio jams and alternate renditions of the songs, and Pete Townshend’s original demos
+[原文] The complaint claims the AI music company "exploits" and profits from those personal attributes in violation of right-of-publicity laws
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/the-who-who-by-numbers-box-1235618864/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/jason-isbell-suno-lawsuit-artist-identities-1235619317/) — *Rolling Stone*
 
 ---
 
