@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月03日** | 生成时间: 2026-09-03 11:41
+**2026年09月03日** | 生成时间: 2026-09-03 18:55
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says
+### 1. UN warns of 'supersized' El Niño as countries prepare for impact
 
-[原文] The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday.
+[原文] The WMO has warned that the natural weather phenomenon could bring disruption to global economies.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Protests in Spain over government's handling of Ceuta migrant crisis
+### 2. Feminist activist and journalist Gloria Steinem dies at 92
 
-[原文] Spanish opposition parties accuse Prime Minister Pedro Sánchez of abandoning the residents of Ceuta.
+[原文] Her foundation said she "passed away peacefully" at her home in New York City, "surrounded by many who loved her".
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany
+### 3. Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply
 
-[原文] Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.
+[原文] Once-rival criminal groups are being forced to work together because of a shortage of small boats, a BBC investigation has found.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West
+### 4. More than 80 migrants feared dead after boat rescued off Canary Islands
 
-[原文] The Russian president wants to keep Britain guessing - and stressing - over Moscow's real intentions.
+[原文] Rescuers found 44 survivors on board the vessel but bad weather meant they had to leave five bodies behind.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c33kzv7kly4o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Watch: Jury still unable to reach unanimous decision in Lindsay Clancy case
+### 5. Trump $1 coin makes him first living president on US currency in a century
 
-[原文] For a second time in two days, jurors told the judge they could not agree on a verdict in the murder trial.
+[原文] The US Mint special edition is stamped with a portrait of Trump alongside the words "LIBERTY" and "IN GOD WE TRUST"
 
-📎 [阅读原文](https://www.bbc.co.uk/news/videos/cy8z32v7130o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,29 +54,29 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Iran attacks Kuwait as Trump says renewed Mideast hostilities will not last 'too long'
+### 1. The world appears to be entering a higher-rate era. Here’s who will pay the price
+
+[原文] The bond sell-off is owed to a mix of high government debt issuance, an oil-price shock that has reignited inflation concerns, and expectations of higher rates.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/03/global-bond-yields-rising-treasuries-jgb-bunds.html) — *CNBC*
+
+### 2. Iran strikes Kuwait as Trump says renewed Mideast hostilities will not last 'too long'
 
 [原文] On Thursday, Kuwait's army said it was confronting hostile missile and drone attacks from Iran.
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/03/us-iran-war-trump-hormuz-israel-middle-east-europe-kuwait.html) — *CNBC*
 
-### 2. Broadcom delivers strong earnings view as CEO touts growth with AI labs
+### 3. Putin floats 'chance' at peace with Ukraine as NATO chief warns Russia is becoming 'increasingly reckless'
 
-[原文] Broadcom gave a disappointing revenue forecast for the current quarter but provided robust earnings guidance for fiscal 2028.
+[原文] Putin said peace with Ukraine remains possible while calling Kyiv’s warning on Russian airspace “state terrorism,” as NATO flags fresh risks.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/02/broadcom-avgo-q3-earnings-report-2026.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/03/putin-peace-russia-ukraine-nato-defense.html) — *CNBC*
 
-### 3. Google starts September with AI momentum after longest monthly losing streak in over a decade
+### 4. Dutch central bank moves gold bars out of U.S. and Canada, citing ‘crisis preparedness’
 
-[原文] After a slow but extended selloff on Wall Steet, Google began September with renewed momentum, helped by new AI models.
+[原文] DNB said gold stored with the Bank of England is more readily tradable, allowing it to be deployed more quickly in a severe crisis.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/02/google-starts-september-with-ai-momentum-after-long-losing-streak.html) — *CNBC*
-
-### 4. Microsoft to start disclosing Azure quarterly revenue as company consolidates business units
-
-[原文] Microsoft will begin reporting quarterly Azure revenue in dollars for the first time, providing more clarity about its business that competes with AWS.
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/02/microsoft-to-disclose-azure-revenue-as-part-of-segment-changes.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/03/netherlands-gold-transfer-us-canada-uk.html) — *CNBC*
 
 ### 5. NBA suspends Clippers owner Ballmer for one year in Kawhi Leonard salary cap probe
 
@@ -130,35 +130,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Too much coffee may weaken bones, study finds
+### 1. September brings a dazzling Venus and a glowing Harvest Moon
+
+[原文] September’s sky features brilliant Venus, the Milky Way’s hazy center, and the seasonal turning point of the equinox. The month ends with a glowing Harvest Moon rising near Saturn and faint Neptune.
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260902234500.htm) — *Science Daily*
+
+### 2. New Mexico’s largest reservoir plunges to just 1.4% full
+
+[原文] Elephant Butte Reservoir, New Mexico’s largest reservoir, plunged to just 1.4 percent capacity in July 2026 after years of extreme drought and record early snowmelt. The dramatic decline exposed long-
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260902234454.htm) — *Science Daily*
+
+### 3. The universe has plenty of hydrogen. So why is star formation collapsing?
+
+[原文] Star formation across the universe has fallen dramatically over the past 4.5 billion years, but astronomers have uncovered a surprising twist: the supply of neutral hydrogen, a key ingredient for maki
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260902234442.htm) — *Science Daily*
+
+### 4. Too much coffee may weaken bones, study finds
 
 [原文] Following nearly 10,000 older women for 10 years, researchers found that tea drinking was associated with slightly higher hip bone density. Moderate coffee consumption did not appear harmful, but drin
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260901070550.htm) — *Science Daily*
 
-### 2. Earth may have lost the Sun’s protective shield millions of years ago
+### 5. Each extra hour of prolonged sitting linked to 9% higher cancer death risk
 
-[原文] NASA-funded studies suggest Earth’s climate has been influenced by both the Sun’s travels through dense regions of the Milky Way and the violent superflares of its youth. Those events may help explain
+[原文] Sitting for long, uninterrupted stretches may carry greater health risks than sitting the same amount of time in shorter bouts. Researchers found that each extra hour of prolonged sedentary behavior w
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260901070523.htm) — *Science Daily*
-
-### 3. “Broken heart syndrome” can look just like a heart attack. This test can tell them apart
-
-[原文] “Broken heart syndrome” can mimic a heart attack so closely that patients often need invasive testing to tell the difference. Researchers have now developed the BioTAK score, which combines biological
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260901070518.htm) — *Science Daily*
-
-### 4. Scientists discover why snake embryos twist into spirals
-
-[原文] Snake embryos begin life curled into a distinctive right-handed spiral, and scientists may finally know why. Their bodies grow faster than their guts, creating a tether that forces the lengthening emb
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260901070516.htm) — *Science Daily*
-
-### 5. Mindfulness may lower blood pressure in just 8 weeks
-
-[原文] Mindfulness, gratitude, and optimism training may improve blood pressure, inflammation, and other heart-health measures within just eight to 12 weeks. The strongest programs paired daily practice with
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260901010721.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260901070548.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Man City buy costly new midfield - but have they overlooked Haaland cover?
+### 1. Ashes ticket price increase 'really poor' - Vaughan
 
-[原文] Manchester City have completed a squad overhaul including a fully revamped midfield to the tune of a Premier League record £458m, but that eyewatering number does not tell the full story.
+[原文] Former England captain Michael Vaughan is critical of a 43% ticket price increase for next year's men's Ashes Test at Edgbaston.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cpq02z298p7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/ce87v9ljl8no?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Boulter wins one game in 58-minute US Open defeat
+### 2. Ranking the most game-changing transfers in Premier League history
 
-[原文] British number one Katie Boulter is dumped out in the second round of the US Open as she wins just one game in a 58-minute demolition by Karolina Muchova.
+[原文] Some transfers take time to bed in, others prove instant game-changers - here are the top 10 signings of the Premier League era that moved the needle.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cjdv3gxl5zgo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c87v88y0pdyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Fury calls Joshua a 'coward' as wait for announcement continues
-
-[原文] Tyson Fury says Anthony Joshua is a "coward" as the pair face a tense wait to see whether their long-awaited all-British heavyweight blockbuster can be agreed.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/articles/cx2zg14qzryo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. Olympic champion Davis-Woodhall 'lucky to be alive' after car crash
-
-[原文] Olympic long jump champion Tara Davis-Woodhall says she is "lucky and blessed to be alive" after being involved in a car crash.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/cwyzdvrrz3yo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Sabalenka earns 53-minute US Open win - but tension still shows
+### 3. 'What kind of question is that?' - Sabalenka spiky after ruthless win
 
 [原文] Two-time defending champion Aryna Sabalenka cruises into the US Open third round before a spiky exchange with a journalist.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/ce8emkzpxmmo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. Osnabruck display tifo with working rollercoaster before Kane ruins fun
+
+[原文] VfL Osnabruck showcase a tifo that took months to plan before their German Cup tie against Bayern Munich.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cvgy1g4800zo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 5. Italian Grand Prix declared heat-hazard race
+
+[原文] The Italian Grand Prix is declared a heat-hazard race as high temperatures continue in the country following the summer heatwave.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/c99dp0zeymjo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘Ramayana’ Sets November Release Date
+### 1. Gloria Steinem, Feminist Icon and Ms. Founder, Dies at 92
 
-[原文] Sony Pictures Entertainment is set to release “Ramayana” globally on November 6. The epic, starring Ranbir Kapoor, Yash and Sai Pallavi, follows exiled prince Rama (Kapoor) and his consort Sita (Palla
+[原文] Gloria Steinem, the writer and activist who became the public face of the American women&#8217;s movement and helped launch Ms. magazine, died Wednesday at her home in New York City. She was 92. In an
 
-📎 [阅读原文](https://variety.com/2026/film/news/ramayana-release-date-sony-1236849917/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/obituaries-people-news/gloria-steinem-dead-feminist-icon-1236850131/) — *Variety*
 
-### 2. George Lucas Says Opening Lucas Museum ‘Almost Broke My Will’: ‘It’s Taken So Long to Get Here’
+### 2. Amelia Dimoldenberg to End ‘Chicken Shop Date’
 
-[原文] George Lucas previewed the long-in-the-works Lucas Museum of Narrative Art in Los Angeles on Wednesday, and Lucas said of the Herculean effort, &#8220;I&#8217;m fascinated by doing things that people 
+[原文] Amelia Dimoldenberg is ending her viral YouTube series &#8220;Chicken Shop Date&#8221; after 12 years. The host, writer and producer announced the news on Thursday in an Instagram post, writing: &#822
 
-📎 [阅读原文](https://variety.com/gallery/george-lucas-museum-star-wars-los-angeles/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/digital/global/amelia-dimoldenberg-end-chicken-shop-date-1236850127/) — *Variety*
 
-### 3. Utopai Studios, DeNA Team on AI-Assisted Animation Projects in Japan (EXCLUSIVE)
+### 3. Ursula Meier on English-Language Debut ‘Quiet Land,’ and How Gillian Anderson Inspired Her to Tell an ‘American Story’ (EXCLUSIVE)
 
-[原文] Utopai Studios and DeNA Co., Ltd. have unveiled an AI-assisted animation partnership in Japan. The Entertainment Development Business Unit of DeNA will begin weaving Utopai&#8217;s storytelling AI sys
+[原文] Swiss French filmmaker Ursula Meier (“The Line”) is prepping her long-gestating English-language debut, “Quiet Land,” a detective story-cum-romantic drama set in Big Sky country that she’ll be taking 
 
-📎 [阅读原文](https://variety.com/2026/film/news/utopai-studios-dena-ai-animation-japan-1236849545/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/ursula-meier-quiet-land-gillian-anderson-1236845298/) — *Variety*
 
-### 4. ‘The Sun Never Sets’ Review: Dakota Fanning and Jake Johnson Split, Maybe, in Joe Swanberg’s Unsatisfying Romcom
+### 4. Jeff Goldblum to Host ‘SNL U.K.’ Season 2 Premiere
 
-[原文] Long past his sexually explicit enfant terrible mumblecore origins, writer-director Joe Swanberg continues his ongoing experiments in honoring the romantic comedy’s conventional satisfactions while ex
+[原文] &#8220;SNL U.K.&#8221; has brought out a big gun to launch its second season, with &#8220;Jurassic Park&#8221; icon Jeff Goldblum set as host for the opening episode. Goldblum — a regular to the U.K.,
 
-📎 [阅读原文](https://variety.com/2026/film/reviews/the-sun-never-sets-review-dakota-fanning-1236849830/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/global/jeff-goldblum-host-snl-uk-season-two-opening-episode-1236850080/) — *Variety*
 
-### 5. Should Hollywood Embrace Religion? Young Audiences Crave Complex Spiritual Characters and Plotlines That Challenge Faith, New Study Shows
+### 5. Sandra Hüller to Play Male German Writer Wolfgang Herrndorf in Maria Schrader’s ‘Work and Structure’ for Studiocanal
 
-[原文] Could Hollywood entice younger audiences by having a little faith? A surprising new Future of Faith study from The Center for Scholars &#38; Storytellers (CSS) at UCLA suggests that both Gen Z and Gen
+[原文] Sandra Hüller will star in “Arbeit und Struktur” (“Work and Structure”), Maria Schrader’s adaptation of the acclaimed autobiographical work by German writer and artist Wolfgang Herrndorf. The movie wi
 
-📎 [阅读原文](https://variety.com/2026/film/features/hollywood-religion-young-people-spiritual-content-1236849362/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/sandra-huller-male-german-writer-wolfgang-herrndorf-maria-schrader-1236850086/) — *Variety*
 
 ---
 
@@ -363,35 +363,35 @@ The post Lake Como Villa Where Jam
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. China’s Carbon Pollution Fell in Recent Months as Oil Demand Plummeted
+### 1. New Trump Rules Would Limit State Power to Block Pipelines, Energy Projects
+
+[原文] When the Trump administration last fall unveiled its cornerstone policy for carrying out the Clean Water Act—new language spelling out the reach of the Environmental Protection Agency’s authority—it s
+
+📎 [阅读原文](https://insideclimatenews.org/news/03092026/epa-clean-water-act-provision-would-limit-state-power/) — *Inside Climate News*
+
+### 2. In South Florida, a Crackdown on Overdue Electricity Bills Coincides With Peak Summer Heat, ICE Enforcement
+
+[原文] HOMESTEAD, Fla.—It was too hot to sleep.&#160; When the lights turned off and the air conditioning unit went quiet that night in July, it didn’t come as a surprise for Mirella Estrada, 51. She and her
+
+📎 [阅读原文](https://insideclimatenews.org/news/03092026/homestead-florida-electricity-bill-disconnections/) — *Inside Climate News*
+
+### 3. China’s Carbon Pollution Fell in Recent Months as Oil Demand Plummeted
 
 [原文] China’s carbon pollution fell modestly in recent months after the country’s consumers and industries sharply cut their use of oil, according to a new analysis. With oil and gas markets still in turmoi
 
 📎 [阅读原文](https://insideclimatenews.org/news/02092026/china-oil-consumption-declines/) — *Inside Climate News*
 
-### 2. No Relief for Maui Wildfire Survivors Losing Thousands to Contractors
+### 4. No Relief for Maui Wildfire Survivors Losing Thousands to Contractors
 
 [原文] This story is a collaboration between Inside Climate News and Honolulu Civil Beat. Three years after the deadly Lahaina wildfire destroyed her childhood home, Raquel Utrillo cannot bear the thought of
 
 📎 [阅读原文](https://insideclimatenews.org/news/02092026/maui-wildfire-survivors-contractor-fraud/) — *Inside Climate News*
 
-### 3. Lawsuit in Argentina Challenges British-Israeli Oil Project Near the Long-Disputed Falkland Islands
+### 5. Lawsuit in Argentina Challenges British-Israeli Oil Project Near the Long-Disputed Falkland Islands
 
 [原文] A proposed offshore oil project near the Falkland Islands threatens sensitive marine ecosystems—and Argentina’s sovereignty—and must be halted, an Argentine environmental group and a veterans’ organiz
 
 📎 [阅读原文](https://insideclimatenews.org/news/02092026/argentina-challenges-british-israeli-oil-project-near-disputed-falkland-islands/) — *Inside Climate News*
-
-### 4. Climate ‘Overshoot’ Is Coming—Are We Ready?
-
-[原文] Fossil fuel emissions are pushing Earth’s climate toward a dangerous new phase of climate “overshoot,” scientists warned Wednesday in a new report from the United Nations Environmental Programme. The 
-
-📎 [阅读原文](https://insideclimatenews.org/news/02092026/un-report-climate-overshoot-warning/) — *Inside Climate News*
-
-### 5. Polluting Nylon Plants Clean Up Their Acts
-
-[原文] Many of our impact case studies cover ongoing stories that Inside Climate News continues to actively cover. The impact reflected here is current as of publication and may be updated as the situation d
-
-📎 [阅读原文](https://insideclimatenews.org/news/02092026/impact-methane-reporting/) — *Inside Climate News*
 
 ---
 
@@ -401,11 +401,11 @@ The post Lake Como Villa Where Jam
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. How AI Taught Me to Embrace Vulnerability in the Classroom
+### 1. Hundreds of Thousands of Eligible Kids Are Waiting for Childcare Assistance
 
-[原文] True innovation isn’t found in mastering every platform, but in being willing to ask deeper questions and take risks.
+[原文] A nationwide investigation reveals massive waitlists for government-funded childcare assistance, leaving low-income families stranded without essential ...
 
-📎 [阅读原文](https://edsurge.com/news/how-ai-taught-me-to-embrace-vulnerability-in-the-classroom) — *EdSurge*
+📎 [阅读原文](https://edsurge.com/news/hundreds-of-thousands-of-eligible-kids-are-waiting-for-childcare-assistance) — *EdSurge*
 
 ### 2. Putting Edtech Guidance to Work in the Classroom
 
@@ -413,23 +413,23 @@ The post Lake Como Villa Where Jam
 
 📎 [阅读原文](https://edsurge.com/news/putting-edtech-guidance-to-work-in-the-classroom) — *EdSurge*
 
-### 3. A Principal and a Student Reviewed the New ChatGPT for Teens. They Had Plenty to Say
+### 3. How AI Taught Me to Embrace Vulnerability in the Classroom
+
+[原文] True innovation isn’t found in mastering every platform, but in being willing to ask deeper questions and take risks.
+
+📎 [阅读原文](https://edsurge.com/news/how-ai-taught-me-to-embrace-vulnerability-in-the-classroom) — *EdSurge*
+
+### 4. A Principal and a Student Reviewed the New ChatGPT for Teens. They Had Plenty to Say
 
 [原文] The new offering is promising, but there are some real-world reservations.
 
 📎 [阅读原文](https://edsurge.com/news/a-principal-and-a-student-reviewed-the-new-chatgpt-for-teens-they-had-plenty-to-say) — *EdSurge*
 
-### 4. AI Can Help One of K-12’s Biggest Challenges: Middle School Reading
+### 5. AI Can Help One of K-12’s Biggest Challenges: Middle School Reading
 
 [原文] Artificial intelligence can bridge the middle grades literacy gap by providing individualized student reading instruction at scale.
 
 📎 [阅读原文](https://edsurge.com/news/ai-can-help-one-of-k-12s-biggest-challenges-middle-school-reading) — *EdSurge*
-
-### 5. Student Artists Wrestle with AI’s Promise and Peril
-
-[原文] Four student artists map out what artificial intelligence means for their communities today — and 50 years from now.
-
-📎 [阅读原文](https://edsurge.com/news/student-artists-wrestle-with-ais-promise-and-peril) — *EdSurge*
 
 ---
 
@@ -439,35 +439,35 @@ The post Lake Como Villa Where Jam
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Billy Ray Cyrus Says Miley Dropping Last Name Is ‘Natural Progression for an Iconic Superstar’
+### 1. Noel Gallagher Hints at Oasis 2027 Summer Tour
+
+[原文] Rumors have swirled about a follow-up to the band's popular 2025 reunion tour
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/noel-gallagher-oasis-2027-summer-tour-1235620509/) — *Rolling Stone*
+
+### 2. Katy Perry Describes Justin Trudeau as ‘the Love of My Life’
+
+[原文] The singer discussed her new relationship and her breakup with Orlando Bloom in a new interview
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/katy-perry-justin-trudeau-relationship-orlando-bloom-1235620503/) — *Rolling Stone*
+
+### 3. Legendary Drummer Alex Van Halen Knighted in the Netherlands
+
+[原文] "I think institutions like this are important in people’s lives because it adds a dignity and a gravity to what we do," said the musician
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/alex-van-halen-knighted-netherlands-1235620436/) — *Rolling Stone*
+
+### 4. Billy Ray Cyrus Says Miley Dropping Last Name Is ‘Natural Progression for an Iconic Superstar’
 
 [原文] Miley nixed her surname for her upcoming 10th album, Bass Persuades
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/miley-billy-ray-cyrus-dropping-last-name-new-album-1235620468/) — *Rolling Stone*
 
-### 2. Cassandra Wilson, Grammy-Winning Jazz Singer, Dead at 70
+### 5. Cassandra Wilson, Grammy-Winning Jazz Singer, Dead at 70
 
 [原文] Vocalist blended jazz with pop music repertoire and was famous for putting refreshing, unusual spins on well-known songs
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/cassandra-wilson-jazz-singer-dead-obituary-1235619965/) — *Rolling Stone*
-
-### 3. Dollywood Developing ‘Several New Experiences’ to Honor Dolly Parton
-
-[原文] Dollywood Parks &#38; Resorts will reflect on the life and legacy of its founder in the wake of her death
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/dolly-parton-new-dollywood-parks-exhibits-memorial-honor-1235620073/) — *Rolling Stone*
-
-### 4. Here’s What Stevie Nicks and Olivia Rodrigo Sing on the ‘Practical Magic 2’ Soundtrack
-
-[原文] After the two singers’ “Landslide” duet, Sandra Bullock teased that their “angel voices” appear on the upcoming sequel
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/stevie-nicks-olivia-rodrigo-practical-magic-2-1235619423/) — *Rolling Stone*
-
-### 5. D4vd Doesn’t Deserve Public Defender, Lawyer for Celeste Rivas Hernandez’s Family Claims
-
-[原文] “The residents of Los Angeles County should be outraged because it will be the taxpayers that are picking [up] the tab to defend this millionaire,” Patrick Steinfeld says
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/d4vd-not-indigent-lawyer-claims-1235619888/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post Lake Como Villa Where Jam
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Skift Global Forum Preview: Amadeus’s President of Travel on Why the Traveler, Not the Platform, Should Hold the Controls
+### 1. The Race for Chinese Travel Demand Is Now a Fight to Get on the AI Shortlist
+
+[原文] Travel marketers have spent decades convincing Chinese travelers to pick them. Now they have to convince AI to mention them.
+
+📎 [阅读原文](https://skift.com/2026/09/03/the-race-for-chinese-travel-demand-is-now-a-fight-to-get-on-the-ai-shortlist/) — *Skift*
+
+### 2. Skift Global Forum Preview: Amadeus’s President of Travel on Why the Traveler, Not the Platform, Should Hold the Controls
 
 [原文] Decius Valmorbida thinks the industry competes too hard on closed ecosystems and cooperates too little on the plumbing. His bet: open, shared foundations grow the pie for everyone. We'll test whether 
 
 📎 [阅读原文](https://skift.com/2026/09/02/skift-global-forum-preview-amadeus-traveler-platform-controls/) — *Skift*
 
-### 2. Travel Execs Push Trump for 100 Million+ International Visitors by 2030
+### 3. Travel Execs Push Trump for 100 Million+ International Visitors by 2030
 
 [原文] The meeting comes on the heels of the World Cup tournament and follows four consecutive months of inbound travel declines.
 
 📎 [阅读原文](https://skift.com/2026/09/02/travel-execs-meet-trump-white-house/) — *Skift*
 
-### 3. Uber to Lay Off 3,300 Employees, Reducing Management Jobs by 20%
+### 4. Uber to Lay Off 3,300 Employees, Reducing Management Jobs by 20%
 
 [原文] Uber's reorganization doesn't directly impact its product portfolio, according to the company, but its attention is focused on core businesses.
 
 📎 [阅读原文](https://skift.com/2026/09/02/uber-to-lay-off-3300-employees-reducing-management-jobs-by-20/) — *Skift*
 
-### 4. Southwest to Launch ‘at Least’ 11 Airport Lounges in Chase Partnership
+### 5. Southwest to Launch ‘at Least’ 11 Airport Lounges in Chase Partnership
 
 [原文] Lounges are the latest step in Southwest’s rapid transformation from a low-cost domestic carrier to a full-service operator.
 
 📎 [阅读原文](https://skift.com/2026/09/02/southwest-to-launch-airport-lounges-in-2027/) — *Skift*
-
-### 5. Virgin’s New International Trains Could Cut Emissions, Fares — and Fuel Its Loyalty Program
-
-[原文] Increased competition on the track connecting the UK and continental Europe could be a win for the environment if it pulls travelers off planes, but prices need to be lower. Virgin has another incenti
-
-📎 [阅读原文](https://skift.com/2026/09/02/virgins-new-international-trains-could-cut-emissions-fares-and-fuel-its-loyalty-program/) — *Skift*
 
 ---
 
