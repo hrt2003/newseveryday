@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月03日** | 生成时间: 2026-09-03 04:46
+**2026年09月03日** | 生成时间: 2026-09-03 11:41
 
 ---
 
@@ -16,17 +16,17 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians
-
-[原文] Iranian media reports two children were among those killed when shrapnel hit a home. Iran then launched missiles and drones at US targets in the Middle East.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 2. Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says
+### 1. Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says
 
 [原文] The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Protests in Spain over government's handling of Ceuta migrant crisis
+
+[原文] Spanish opposition parties accuse Prime Minister Pedro Sánchez of abandoning the residents of Ceuta.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 3. EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Microsoft to start disclosing Azure quarterly revenue as company consolidates business units
+### 1. Iran attacks Kuwait as Trump says renewed Mideast hostilities will not last 'too long'
+
+[原文] On Thursday, Kuwait's army said it was confronting hostile missile and drone attacks from Iran.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/03/us-iran-war-trump-hormuz-israel-middle-east-europe-kuwait.html) — *CNBC*
+
+### 2. Broadcom delivers strong earnings view as CEO touts growth with AI labs
+
+[原文] Broadcom gave a disappointing revenue forecast for the current quarter but provided robust earnings guidance for fiscal 2028.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/02/broadcom-avgo-q3-earnings-report-2026.html) — *CNBC*
+
+### 3. Google starts September with AI momentum after longest monthly losing streak in over a decade
+
+[原文] After a slow but extended selloff on Wall Steet, Google began September with renewed momentum, helped by new AI models.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/02/google-starts-september-with-ai-momentum-after-long-losing-streak.html) — *CNBC*
+
+### 4. Microsoft to start disclosing Azure quarterly revenue as company consolidates business units
 
 [原文] Microsoft will begin reporting quarterly Azure revenue in dollars for the first time, providing more clarity about its business that competes with AWS.
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/02/microsoft-to-disclose-azure-revenue-as-part-of-segment-changes.html) — *CNBC*
 
-### 2. Snowflake spikes 22% on healthy results and AI coding momentum
+### 5. NBA suspends Clippers owner Ballmer for one year in Kawhi Leonard salary cap probe
 
-[原文] Snowflake business is growing quickly, in part thanks to adoption of an artificial intelligence agent for writing code.
+[原文] The NBA also fined the Los Angeles Clippers $30 million and said the team will forfeit five first-round picks, one in each year in drafts starting in 2029.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/02/snowflake-snow-q2-earnings-report-2027.html) — *CNBC*
-
-### 3. Broadcom's stock drops 5% as weak guidance overshadows earnings beat
-
-[原文] Broadcom gave a disappointing revenue forecast for the current quarter.
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/02/broadcom-avgo-q3-earnings-report-2026.html) — *CNBC*
-
-### 4. The Los Angeles Angels are being sold for a record $4 billion. Here's what every MLB team is now worth
-
-暂无摘要。
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/02/the-los-angeles-angels-are-being-sold-for-a-record-4-billion-heres-what-every-mlb-team-is-now-worth.html) — *CNBC*
-
-### 5. States now must report undocumented immigrants to DHS or risk federal funding, DOJ says
-
-[原文] The new DOJ opinion relates to funding states get for Temporary Assistance for Needy Families and the Supplemental Security Income programs.
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/02/doj-states-undocumented-immigrants-dhs-funds.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/02/nba-suspends-clippers-ballmer-kawhi-leonard-salary-cap.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. OpenAI’s new reasoning technique alarms AI safety experts
+### 1. The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026
+
+[原文] The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/) — *TechCrunch*
+
+### 2. Palo Alto Networks paid $500M for Thrive-backed Console, sources say
+
+[原文] The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/) — *TechCrunch*
+
+### 3. TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals
+
+[原文] On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/) — *TechCrunch*
+
+### 4. Google spared from ad-business breakup, but judge orders changes to how it operates
+
+[原文] Google has dodged an effort to break up its ad business, but a judge said Wednesday that the company will need to adjust its business to benefit competitors.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/) — *TechCrunch*
+
+### 5. OpenAI’s new reasoning technique alarms AI safety experts
 
 [原文] OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/) — *TechCrunch*
-
-### 2. MapQuest is now the No. 1 U.S. app after bucking Trump’s ‘Lake America’ renaming
-
-[原文] The once-dominant mapping app has surged to the top of Apple’s U.S. App Store after refusing to adopt Trump’s “Lake America” name, drawing more than half of its 2026 U.S. downloads in just six days.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/) — *TechCrunch*
-
-### 3. It sure looks like hackers breached a major ID card verification service
-
-[原文] An identity theft search site claimed to have more than 150 million driver's license photos stolen from an ID verification service. The crime site has now shut down.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/) — *TechCrunch*
-
-### 4. Delivery Hero board backs Uber’s $15B takeover bid
-
-[原文] If approved, the combined company would become one of the largest food delivery platforms in the world.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/02/delivery-hero-board-backs-ubers-15b-takeover-bid/) — *TechCrunch*
-
-### 5. Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’
-
-[原文] The internet has a trust problem, and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now making their way into job applications, 
-
-📎 [阅读原文](https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Late-night transfer fallout sparks Chelsea-Monaco row
+### 1. Man City buy costly new midfield - but have they overlooked Haaland cover?
 
-[原文] How Chelsea, Everton and Monaco all missed out after late-night drama on deadline day. Nizaar Kinsella reports.
+[原文] Manchester City have completed a squad overhaul including a fully revamped midfield to the tune of a Premier League record £458m, but that eyewatering number does not tell the full story.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c1wx0g1npn9o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cpq02z298p7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. How Everton's deadline day debacle leaves owners facing fan mutiny
+### 2. Boulter wins one game in 58-minute US Open defeat
 
-[原文] Everton's transfer deadline day debacle over Folarin Balogun leaves owners The Friedkin facing fan mutiny, says chief football writer Phil McNulty.
+[原文] British number one Katie Boulter is dumped out in the second round of the US Open as she wins just one game in a 58-minute demolition by Karolina Muchova.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c9861n79kepo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cjdv3gxl5zgo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Olympic champion Davis-Woodhall 'lucky to be alive' after car crash
+### 3. Fury calls Joshua a 'coward' as wait for announcement continues
+
+[原文] Tyson Fury says Anthony Joshua is a "coward" as the pair face a tense wait to see whether their long-awaited all-British heavyweight blockbuster can be agreed.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/articles/cx2zg14qzryo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. Olympic champion Davis-Woodhall 'lucky to be alive' after car crash
 
 [原文] Olympic long jump champion Tara Davis-Woodhall says she is "lucky and blessed to be alive" after being involved in a car crash.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/cwyzdvrrz3yo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Carse left out of England squad for third Pakistan Test
+### 5. Sabalenka earns 53-minute US Open win - but tension still shows
 
-[原文] England leave Brydon Carse out of their squad for the third and final Test against Pakistan at Edgbaston.
+[原文] Two-time defending champion Aryna Sabalenka cruises into the US Open third round before a spiky exchange with a journalist.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cr4v2kzzvw0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Man Utd and their calculated left-back gamble
-
-[原文] Despite a widespread expectation they would sign a left-back this summer, Manchester United decided against - what does it mean?
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cj9x212829vo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/ce8emkzpxmmo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Jack O’Connell’s Ruthless Tabloid Editor in ‘Ink’ Fires Up Venice as Danny Boyle Drama Earns Warm 4-Minute Ovation
+### 1. ‘Ramayana’ Sets November Release Date
 
-[原文] Venice Film Festival kicked off on Wednesday night with the splashy premiere of &#8220;Ink,&#8221; an explosive drama about the rise of Rupert Murdoch&#8217;s tabloid empire. The film, which stars Jac
+[原文] Sony Pictures Entertainment is set to release “Ramayana” globally on November 6. The epic, starring Ranbir Kapoor, Yash and Sai Pallavi, follows exiled prince Rama (Kapoor) and his consort Sita (Palla
 
-📎 [阅读原文](https://variety.com/2026/film/festivals/jack-oconnell-danny-boyle-ink-venice-premiere-1236836393/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/ramayana-release-date-sony-1236849917/) — *Variety*
 
-### 2. Tim Curry’s Cause of Death Revealed
+### 2. George Lucas Says Opening Lucas Museum ‘Almost Broke My Will’: ‘It’s Taken So Long to Get Here’
 
-[原文] A cause of death has been confirmed for &#8220;Rocky Horror Picture Show&#8221; star Tim Curry, a week after his death at 80. The actor&#8217;s main cause of death was coronary artery disease, People 
+[原文] George Lucas previewed the long-in-the-works Lucas Museum of Narrative Art in Los Angeles on Wednesday, and Lucas said of the Herculean effort, &#8220;I&#8217;m fascinated by doing things that people 
 
-📎 [阅读原文](https://variety.com/2026/film/news/tim-curry-cause-of-death-1236845645/) — *Variety*
+📎 [阅读原文](https://variety.com/gallery/george-lucas-museum-star-wars-los-angeles/) — *Variety*
 
-### 3. Elliot Page Is ‘Not Really’ Getting Casting Calls After ‘The Odyssey’: ‘If Someone Wants to Call Me…I’d Love to Do Good Work’
+### 3. Utopai Studios, DeNA Team on AI-Assisted Animation Projects in Japan (EXCLUSIVE)
 
-[原文] Elliot Page has never felt more comfortable on screen. Finding the right role, however, has proven to be more difficult. During his appearance on the “On Film… With Kevin McCarthy” podcast, Elliott re
+[原文] Utopai Studios and DeNA Co., Ltd. have unveiled an AI-assisted animation partnership in Japan. The Entertainment Development Business Unit of DeNA will begin weaving Utopai&#8217;s storytelling AI sys
 
-📎 [阅读原文](https://variety.com/2026/film/news/elliot-page-casting-calls-after-odyssey-1236849618/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/utopai-studios-dena-ai-animation-japan-1236849545/) — *Variety*
 
-### 4. Filmmaker Penny Lane Sets Documentary on Bronx Zoo Elephant, ‘Happy’ (EXCLUSIVE)
+### 4. ‘The Sun Never Sets’ Review: Dakota Fanning and Jake Johnson Split, Maybe, in Joe Swanberg’s Unsatisfying Romcom
 
-[原文] Documentary filmmaker Penny Lane (&#8220;Hail Satan?,&#8221; &#8220;Our Nixon&#8221;) has set her latest documentary on the Bronx Zoo elephant, Happy. The doc is being made in partnership with Alex Gi
+[原文] Long past his sexually explicit enfant terrible mumblecore origins, writer-director Joe Swanberg continues his ongoing experiments in honoring the romantic comedy’s conventional satisfactions while ex
 
-📎 [阅读原文](https://variety.com/2026/film/news/filmmaker-penny-lane-documentary-happy-bronx-zoo-elephant-1236849229/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/reviews/the-sun-never-sets-review-dakota-fanning-1236849830/) — *Variety*
 
-### 5. Evan Rachel Wood Got Recast in ‘Practical Magic 2’ Against Her Wish and Says ‘No One Who Worked on the Original Film’ Reached Out to Her
+### 5. Should Hollywood Embrace Religion? Young Audiences Crave Complex Spiritual Characters and Plotlines That Challenge Faith, New Study Shows
 
-[原文] Evan Rachel Wood appeared to shade her original &#8220;Practical Magic&#8221; co-stars Nicole Kidman and Sandra Bullock by revealing in an Instagram story (via Entertainment Weekly) that no one involv
+[原文] Could Hollywood entice younger audiences by having a little faith? A surprising new Future of Faith study from The Center for Scholars &#38; Storytellers (CSS) at UCLA suggests that both Gen Z and Gen
 
-📎 [阅读原文](https://variety.com/2026/film/news/evan-rachel-wood-shades-kidman-bullock-practical-magic-2-recasting-1236849434/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/features/hollywood-religion-young-people-spiritual-content-1236849362/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Fortnite Announces Crossover With Andrew Garfield Historical Drama The Uprising
+### 1. Save 26% Off Kirby Air Riders for the Nintendo Switch 2
 
-[原文] Fortnite is officially crossing over with Andrew Garfield’s medieval rebellion film The Uprising, including historical melee weapons and film-inspired cinematic endings unique to each outcome.
+[原文] It's as if Mario Kart and Super Smash Bros had a baby, and then Kirby ate it.
 
-📎 [阅读原文](https://www.ign.com/articles/fortnite-andrew-garfield-the-uprising-crossover) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/kirby-air-riders-switch-2-game-deal-september-2026) — *IGN*
 
-### 2. Eren Yeager's English Voice Actor Literally Dislocated His Jaw to Pull Off One of Attack on Titan's Most Iconic Moments
+### 2. The 2026 65" LG Evo C6 4K OLED TV Drops to $1,199.99 During the eBay Labor Day Sale
 
-[原文] Bryce Papenbrook, the English voice actor for Eren Yeager, claimed that he literally dislocated his jaw in order to realistically sell one of the most intense moments in Attack on Titan.
+暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/eren-yeagers-english-voice-actor-literally-dislocated-his-jaw-to-pull-off-one-of-attack-on-titans-most-iconic-moments) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/lg-evo-c6-4k-oled-tv-deal-ebay-labor-day-sale) — *IGN*
 
-### 3. Get 6.6ft 240W USB Type-C Cables for Less Than $3 Apiece
+### 3. Resident Evil's Zach Cregger Admits He Was 'Naive' to Assume Fans Would Approve of Him Avoiding a Direct Adaptation of the Games
 
-[原文] Universal cables perfect for your Nintendo Switch 2, Steam Deck, iPhone 17, or laptop.
+[原文] Zach Cregger admitted that he was “naive” to think his less-direct approach to adapting Resident Evil would be universally well-received by fans after deliberately choosing to avoid retelling the stor
 
-📎 [阅读原文](https://www.ign.com/articles/best-usb-cable-deals-september-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/resident-evils-zach-cregger-admits-he-was-naive-to-assume-fans-would-approve-of-him-avoiding-a-direct-adaptation-of-the-games) — *IGN*
 
-### 4. Amazon Resale Has a Like New Nintendo Switch Pro Controller for Just $40.29 With Free Shipping
+### 4. Alienware Just Released the World's First 39" 5K Monitor With RGB Stripe Tandem OLED Technology
 
-[原文] Switch 2 compatible.
+[原文] The best monitor for both gaming and workstation productivity is now shipping.
 
-📎 [阅读原文](https://www.ign.com/articles/nintendo-switch-pro-controller-deal-september-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/alienware-aw3926qw-39-5k-oled-gaming-monitor-is-now-available) — *IGN*
 
-### 5. YouTuber Claims Rockstar Confirmed Fans Measured Oxygen Levels Around Its Campus in Anticipation for a New Trailer
+### 5. The Witcher 4, Cyberpunk 2077 Developer CD Projekt Red Ramps Up Hiring on 'Project Hadar'
 
-[原文] Italian YouTuber Mike ShowSha got to visit Rockstar ahead of the company’s big GTA 6 Netflix showcase, where developers told him that overeager fans were literally measuring the oxygen levels around t
+[原文] The Witcher and Cyberpunk developer CD Projekt Red is staffing up for its unannounced 'Project Hadar', as that team is currently over 30 people strong with plans "to hire more, up to 50 developers by 
 
-📎 [阅读原文](https://www.ign.com/articles/youtuber-claims-rockstar-confirmed-fans-measured-oxygen-levels-around-its-campus-in-anticipation-for-a-new-trailer) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/the-witcher-4-cyberpunk-2077-developer-cd-projekt-red-ramps-up-hiring-on-project-hadar) — *IGN*
 
 ---
 
@@ -327,10 +327,10 @@ The post Dear Ford: Don&#8217;t Gatekeep the 6&#215;6 Ranger Super Duty You Made
 
 📎 [阅读原文](https://www.thedrive.com/news/ford-built-a-6x6-ranger-super-duty-prototype-with-a-tray-bed) — *The Drive*
 
-### 2. The Subaru WRX Is Rebounding From Its Worst Year Ever
+### 2. The Subaru WRX Is Back With a Vengeance
 
 [原文] Thanks to a $5,000 price cut to start the year and more inventory, the Subaru WRX has bounced back from its 2025 doldrums.
-The post The Subaru WRX Is Rebounding From Its Worst Year Ever appeared first
+The post The Subaru WRX Is Back With a Vengeance appeared first on The Drive.
 
 📎 [阅读原文](https://www.thedrive.com/news/the-subaru-wrx-is-rebounding-from-its-worst-year-ever) — *The Drive*
 
@@ -363,35 +363,35 @@ The post Lake Como Villa Where Jam
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. No Relief for Maui Wildfire Survivors Losing Thousands to Contractors
+### 1. China’s Carbon Pollution Fell in Recent Months as Oil Demand Plummeted
+
+[原文] China’s carbon pollution fell modestly in recent months after the country’s consumers and industries sharply cut their use of oil, according to a new analysis. With oil and gas markets still in turmoi
+
+📎 [阅读原文](https://insideclimatenews.org/news/02092026/china-oil-consumption-declines/) — *Inside Climate News*
+
+### 2. No Relief for Maui Wildfire Survivors Losing Thousands to Contractors
 
 [原文] This story is a collaboration between Inside Climate News and Honolulu Civil Beat. Three years after the deadly Lahaina wildfire destroyed her childhood home, Raquel Utrillo cannot bear the thought of
 
 📎 [阅读原文](https://insideclimatenews.org/news/02092026/maui-wildfire-survivors-contractor-fraud/) — *Inside Climate News*
 
-### 2. Lawsuit in Argentina Challenges British-Israeli Oil Project Near the Long-Disputed Falkland Islands
+### 3. Lawsuit in Argentina Challenges British-Israeli Oil Project Near the Long-Disputed Falkland Islands
 
 [原文] A proposed offshore oil project near the Falkland Islands threatens sensitive marine ecosystems—and Argentina’s sovereignty—and must be halted, an Argentine environmental group and a veterans’ organiz
 
 📎 [阅读原文](https://insideclimatenews.org/news/02092026/argentina-challenges-british-israeli-oil-project-near-disputed-falkland-islands/) — *Inside Climate News*
 
-### 3. Climate ‘Overshoot’ Is Coming—Are We Ready?
+### 4. Climate ‘Overshoot’ Is Coming—Are We Ready?
 
 [原文] Fossil fuel emissions are pushing Earth’s climate toward a dangerous new phase of climate “overshoot,” scientists warned Wednesday in a new report from the United Nations Environmental Programme. The 
 
 📎 [阅读原文](https://insideclimatenews.org/news/02092026/un-report-climate-overshoot-warning/) — *Inside Climate News*
 
-### 4. Polluting Nylon Plants Clean Up Their Acts
+### 5. Polluting Nylon Plants Clean Up Their Acts
 
 [原文] Many of our impact case studies cover ongoing stories that Inside Climate News continues to actively cover. The impact reflected here is current as of publication and may be updated as the situation d
 
 📎 [阅读原文](https://insideclimatenews.org/news/02092026/impact-methane-reporting/) — *Inside Climate News*
-
-### 5. Federal Judge Strikes Down New York’s Climate Change Superfund Law
-
-[原文] A federal judge has struck down New York’s Climate Change Superfund Act, ruling that it “conflicts with” federal authority.&#160;&#160; The legislation would have required fossil fuel companies to hel
-
-📎 [阅读原文](https://insideclimatenews.org/news/01092026/federal-judge-strikes-down-new-york-climate-change-superfund-act/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post Lake Como Villa Where Jam
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Cassandra Wilson, Grammy-Winning Jazz Singer, Dead at 70
+### 1. Billy Ray Cyrus Says Miley Dropping Last Name Is ‘Natural Progression for an Iconic Superstar’
+
+[原文] Miley nixed her surname for her upcoming 10th album, Bass Persuades
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/miley-billy-ray-cyrus-dropping-last-name-new-album-1235620468/) — *Rolling Stone*
+
+### 2. Cassandra Wilson, Grammy-Winning Jazz Singer, Dead at 70
 
 [原文] Vocalist blended jazz with pop music repertoire and was famous for putting refreshing, unusual spins on well-known songs
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/cassandra-wilson-jazz-singer-dead-obituary-1235619965/) — *Rolling Stone*
 
-### 2. Dollywood Developing ‘Several New Experiences’ to Honor Dolly Parton
+### 3. Dollywood Developing ‘Several New Experiences’ to Honor Dolly Parton
 
 [原文] Dollywood Parks &#38; Resorts will reflect on the life and legacy of its founder in the wake of her death
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/dolly-parton-new-dollywood-parks-exhibits-memorial-honor-1235620073/) — *Rolling Stone*
 
-### 3. Here’s What Stevie Nicks and Olivia Rodrigo Sing on the ‘Practical Magic 2’ Soundtrack
+### 4. Here’s What Stevie Nicks and Olivia Rodrigo Sing on the ‘Practical Magic 2’ Soundtrack
 
-[原文] After their duet on "Landslide," Sandra Bullock teased that their "angel voices" appear on the upcoming sequel
+[原文] After the two singers’ “Landslide” duet, Sandra Bullock teased that their “angel voices” appear on the upcoming sequel
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/stevie-nicks-olivia-rodrigo-practical-magic-2-1235619423/) — *Rolling Stone*
 
-### 4. D4vd Doesn’t Deserve Public Defender, Lawyer for Celeste Rivas Hernandez’s Family Claims
+### 5. D4vd Doesn’t Deserve Public Defender, Lawyer for Celeste Rivas Hernandez’s Family Claims
 
-[原文] "The residents of Los Angeles County should be outraged because it will be the taxpayers that are picking [up] the tab to defend this millionaire," Patrick Steinfeld says
+[原文] “The residents of Los Angeles County should be outraged because it will be the taxpayers that are picking [up] the tab to defend this millionaire,” Patrick Steinfeld says
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/d4vd-not-indigent-lawyer-claims-1235619888/) — *Rolling Stone*
-
-### 5. Kacey Musgraves Performs ‘Easy’ With Troye Sivan for the First Time at MSG
-
-[原文] The country singer invited her former collaborator to the second sold-out night of her New York shows
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/kacey-musgraves-troye-sivan-madison-square-garden-perform-1235619385/) — *Rolling Stone*
 
 ---
 
@@ -483,7 +483,7 @@ The post Lake Como Villa Where Jam
 
 📎 [阅读原文](https://skift.com/2026/09/02/skift-global-forum-preview-amadeus-traveler-platform-controls/) — *Skift*
 
-### 2. Travel Execs to Meet With Trump to Push Inbound Tourism
+### 2. Travel Execs Push Trump for 100 Million+ International Visitors by 2030
 
 [原文] The meeting comes on the heels of the World Cup tournament and follows four consecutive months of inbound travel declines.
 
@@ -495,7 +495,7 @@ The post Lake Como Villa Where Jam
 
 📎 [阅读原文](https://skift.com/2026/09/02/uber-to-lay-off-3300-employees-reducing-management-jobs-by-20/) — *Skift*
 
-### 4. Southwest to Launch ‘At Least’ 11 Airport Lounges in Chase Partnership
+### 4. Southwest to Launch ‘at Least’ 11 Airport Lounges in Chase Partnership
 
 [原文] Lounges are the latest step in Southwest’s rapid transformation from a low-cost domestic carrier to a full-service operator.
 
