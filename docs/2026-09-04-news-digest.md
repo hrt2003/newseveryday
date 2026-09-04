@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月04日** | 生成时间: 2026-09-04 04:44
+**2026年09月04日** | 生成时间: 2026-09-04 11:43
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. UN warns of 'supersized' El Niño as countries prepare for impact
+### 1. Tensions flare as judge declines to remove juror in Lindsay Clancy trial
+
+[原文] The defence lawyer is upset after the judge decides not to remove a holdout in the triple murder case.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c7v4n7pv5epo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Argentine leader says oil firms working off Falklands face sanctions
+
+[原文] Javier Milei reiterates his country's claim on the British overseas territory, saying the "winds of change" favour it.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. US investigating if missile hit Iran wedding, Vance says
+
+[原文] The Iranian Red Crescent Society (IRCS) said shrapnel from a missile hit the ceremony and killed four people on Tuesday.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. UN warns of 'supersized' El Niño as countries prepare for impact
 
 [原文] The WMO has warned that the natural weather phenomenon could bring disruption to global economies.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies
+### 5. Volkswagen board approves plan to cut another 50,000 jobs
 
-[原文] Millions of people have been exposed to the smog, with more than 12,000 children suffering respiratory issues.
+[原文] The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 by 2030.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/clyqw44w142o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 3. Feminist activist and journalist Gloria Steinem dies, aged 92
-
-[原文] Her foundation said she "passed away peacefully" at her home in New York City, "surrounded by many who loved her".
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Palestinian teens killed during settler attack on West Bank village, officials say
-
-[原文] Al-Mughayyir's council says they were trying to stop settlers stealing sheep, but the Israeli military says they threw stones at its troops.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. 'Beautiful, vibrant' Disney star Carla Jeffery dies aged 33
-
-[原文] Jeffery was known for playing cheerleader Bree in 2018 Disney Channel movie Zombies and two sequels.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/ceq8r5gjygno?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Vance says Fed should lower interest rates: 'Would be nice to have some help'
+### 1. European Union joins U.S.-led 'Operation Economic Outcast' as Iran cries foul
+
+[原文] The bloc's endorsement came as the Group of 20 finance ministers and central bank governors gathered in Asheville, North Carolina, earlier this week.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/04/us-iran-war-trump-hormuz-operation-economic-outcast-sanctions-campaign.html) — *CNBC*
+
+### 2. Vance says Fed should lower interest rates: 'Would be nice to have some help'
 
 [原文] Vice President J.D. Vance's remarks came less than two weeks before the Federal Open Market Committee is set to convene and decide whether to adjust rates.
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/03/vance-fed-interest-rates-trump-bond-yields.html) — *CNBC*
 
-### 2. Carney claps back at Lutnick, says Canada will resume trade talks 'when the Americans are ready'
+### 3. The big August jobs report is due out Friday. Here's what to expect for what has been a jobless summer
 
-[原文] Canada has retaliated against President Donald Trump's 50% tariffs with "dollar for dollar" duties on U.S. goods, which are set to take effect next week.
+[原文] August nonfarm payrolls are expected to rise by 53,000 as a subdued labor market keeps Fed attention focused on inflation.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/03/carney-lutnick-trump-trade-canada.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/03/august-2026-jobs-report-payrolls.html) — *CNBC*
 
-### 3. Zscaler stock rises on earnings beat, upbeat guidance
-
-[原文] CEO Jay Chaudhry said he's "very bullish" on Zscaler's agentic Zero Trust offering, which is gaining early momentum
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/03/zscaler-zs-q4-earnings-2026.html) — *CNBC*
-
-### 4. Lululemon stock plunges 15% on disappointing earnings and outlook
-
-[原文] Lululemon posted another quarter of disappointing results and a sales slowdown as the company struggles to turn its business around.
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/03/lululemon-lulu-q2-2026-earnings.html) — *CNBC*
-
-### 5. Adobe names Anil Chakravarthy as CEO, replacing Shantanu Narayen
+### 4. Adobe names Anil Chakravarthy as CEO, replacing Shantanu Narayen
 
 [原文] Adobe announced Anil Chakravarthy as its next CEO, replacing Shantanu Narayen, who announced his departure last March.
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/03/adobe-anil-chakravarthy-ceo.html) — *CNBC*
+
+### 5. Lululemon stock plunges 15% on disappointing earnings and outlook
+
+[原文] Lululemon posted another quarter of disappointing results and a sales slowdown as the company struggles to turn its business around.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/03/lululemon-lulu-q2-2026-earnings.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Cybercab is Tesla’s ‘fork in the road’ moment
+### 1. Crusoe reportedly raises $3B at a  $30B valuation
+
+[原文] The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/) — *TechCrunch*
+
+### 2. Oura files to go public
+
+[原文] The ring maker says that its business has shown significant revenue growth over the past year.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/03/oura-files-to-go-public/) — *TechCrunch*
+
+### 3. Tesla is asking people if they want to buy and run Cybercab fleets
+
+[原文] The company published a form on its website Thursday soliciting info from people who are interested in "Cybercab fleet vehicle purchasing."
+
+📎 [阅读原文](https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/) — *TechCrunch*
+
+### 4. Startup ARR is less secure than ever, new research shows
+
+[原文] The AI era has completely broken enterprise buying patterns, and startups haven't yet figured out how to navigate.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/) — *TechCrunch*
+
+### 5. The Cybercab is Tesla’s ‘fork in the road’ moment
 
 [原文] The company is about to formally launch the gold two-seater, with no steering wheel or pedals -- a move that could change Tesla forever.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/) — *TechCrunch*
-
-### 2. Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation
-
-[原文] The high-profile startup's annual revenue run rate stands at over $100 million.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/) — *TechCrunch*
-
-### 3. Utilities are racing to link up with fusion startups, with Realta Fusion the latest to benefit
-
-[原文] The grid has been straining under the weight of new AI data centers, and that has utilities courting fusion startups.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/) — *TechCrunch*
-
-### 4. Abliteration.ai is making a business out of removing AI guardrails
-
-[原文] Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/) — *TechCrunch*
-
-### 5. Meta is paying to peek at how you use their latest AI model
-
-[原文] For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who "contribute" to the development of future m
-
-📎 [阅读原文](https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/) — *TechCrunch*
 
 ---
 
@@ -180,23 +180,23 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c8e3p780n3do?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Spurs omit Richarlison from Premier League squad
+### 3. Kyrgios given one-month ban for positive cocaine test
 
-[原文] Richarlison is left out of Tottenham's Premier League squad as he does not figure in the club's plans this season.
+[原文] Nick Kyrgios is eligible to return to tennis after accepting a one-month ban for testing positive for cocaine.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c79038z3q4yo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/c4gj0x5z10go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. 'Adonis' Gibbs-White's chance to shine - will Tuchel take notice?
+### 4. 'I was seeing spots' - third seed Auger-Aliassime stunned in New York
 
-[原文] Morgan Gibbs-White was left out of England's World Cup squad - will his continued good form be impossible for Thomas Tuchel to ignore?
+[原文] Third seed Felix Auger-Aliassime says he was "dizzy and seeing spots" in a surprise second-round loss to Karen Khachanov at the US Open.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c07lk45y3ego?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cy0zxxk3y62o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Arsenal's Martinelli joins Al-Hilal in £60m move
+### 5. Ashes tickets pricing people out of game - Vaughan
 
-[原文] Arsenal winger Gabriel Martinelli has joined Saudi Pro League side Al-Hilal for £60m.
+[原文] Former England captain Michael Vaughan says ticket price rises for next year's men's Ashes are "pricing a lot of people out of the game."
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cq5xl575q7no?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/ce87v9ljl8no?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Dark Comedy ‘Down to Die’ Marks Actress Marta Pozzan Directorial Debut (EXCLUSIVE)
+### 1. ‘Monsters of God’ Finale Twist: The Final Boss and Rogue Special Agent
 
-[原文] Actress and producer Marta Pozzan will make her directorial debut with the dark comedy short “Down to Die.” The film follows two friends, Maria (Pozzan) and Gabriel (Andrew Matarazzo), whose seemingly
+[原文] The finale of “Monsters of God,” a five-part docuseries from “Tiger King” creator Eric Goode exploring the exotic reptile smuggling trade, is an eye-opener. After exploring all avenues of the shady un
 
-📎 [阅读原文](https://variety.com/2026/film/columns/dark-comedy-down-to-die-marks-marta-pozzan-director-1236850677/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/monsters-of-god-finale-twist-hbo-anson-wong-eric-goode-ploughshare-tortoise-1236850725/) — *Variety*
 
-### 2. Dolly Parton Tributes Score Big Ratings for the Networks; ABC’s ‘9 to 5’ Airing Is Most-Watched Broadcast Movie in More Than Three Years
+### 2. Pablo Torre Sounds Off on the NBA’s Historic Ruling Against the Clippers, Kawhi Leonard and ESPN — and Teases His Next Big Sports Investigation
 
-[原文] Dolly Parton continues to be a beloved icon — if ratings for the recent tribute specials across four different networks are any indication. ABC, CBS, NBC and The CW all attracted decent-sized crowds f
+[原文] Pablo Torre is feeling vindicated — sort of. Back in July, Variety spoke with the trailblazing sports journalist about “Pablo Torre Finds Out,” his engrossing podcast, a mélange of chat show and true-
 
-📎 [阅读原文](https://variety.com/2026/tv/news/dolly-parton-tributes-ratings-broadcast-networks-1236848984/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/sports/news/pablo-torre-clippers-nba-kawhi-leonard-steve-ballmer-espn-mark-walter-lakers-1236851177/) — *Variety*
 
-### 3. ‘Lego Harry Potter’ Collection Coming to Nintendo Switch 2 (Gaming News Roundup)
+### 3. ‘Marriagetoxin’ Creators Joumyaku and Yoda Mizuki Tease Season 2: ‘There Is Plenty of Cool Action We Want You to See’ (EXCLUSIVE)
 
-[原文] The “Lego Harry Potter Collection” is coming to Nintendo Switch 2 on Oct. 16. Developed by Warner Bros. Games, TT Games and The Lego Group, the collection includes “Lego Harry Potter: Years 1-4” and “
+[原文] A master assassin&#8217;s toughest job isn&#8217;t a kill order. It&#8217;s finding a wife. That premise carried &#8220;Marriagetoxin&#8221; from a running Shonen Jump+ series into one of the standout
 
-📎 [阅读原文](https://variety.com/2026/gaming/news/gaming-news-roundup-week-august-31-1236848692/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/marriagetoxin-creators-tease-season-2-1236850772/) — *Variety*
 
-### 4. Radu Jude’s ‘The Diary of a Chambermaid’ Secures U.S. Distribution With Film Movement (EXCLUSIVE)
+### 4. Shakira, Romeo Santos, Prince Royce Among Top Winners at Premios Juventud 2026
 
-[原文] Film Movement has acquired U.S. rights to Radu Jude’s “The Diary of a Chambermaid,” the Romanian filmmaker’s first French-language feature, following its world premiere in Cannes Directors’ Fortnight.
+[原文] Shakira, Prince Royce and Romeo Santos were among the top winners at Premios Juventud 2026, broadcast live from the Starlight Amphitheater in Marbella, Spain on Thursday night. Royce and Santos shared
 
-📎 [阅读原文](https://variety.com/2026/film/global/radu-jude-the-diary-of-a-chambermaid-u-s-distribution-film-movement-1236850922/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/shakira-romeo-santos-prince-royce-winners-premios-juventud-1236851053/) — *Variety*
 
-### 5. John Malkovich Fights Back Tears During 13-Minute Venice Standing Ovation as ‘Wild Horse Nine’ Storms Into Oscar Race
+### 5. Beyoncé Releases ‘B’Day 20th Anniversary Deluxe Edition’ Featuring Unreleased Songs, Collaborations With Selena and Maluma
 
-[原文] In what will surely be one of the biggest standing ovations at Venice Film Festival this year, Martin McDonagh&#8217;s &#8220;Wild Horse Nine&#8221; received a thunderous 13 minutes of applause at its
+[原文] To commemorate the 20th anniversary of her sophomore album, Beyoncé has released a remastered version of &#8220;B&#8217;Day&#8221; featuring Spanish recordings, previously released bonus tracks, and a
 
-📎 [阅读原文](https://variety.com/2026/film/festivals/wild-horse-nine-john-malkovich-sam-rockwell-venice-premiere-1236850074/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/beyonce-bday-20th-anniversary-duets-selena-maluma-1236851153/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Today’s Top Deals: LEGO Autumn Cottage, Metroid Prime 4 for Switch 2, and 8Bitdo Ultimate 2 Controller
+### 1. Original Gran Turismo Circuit Returns to Series After 13-Year Absence
 
-[原文] Save on other LEGO sets, PS Store Gift Cards, and more, too.
+[原文] Polyphony Digital has revealed Gran Turismo 7’s next major update will mark the return of Autumn Ring, and includes a dozen new cars, the series debut of real-life circuit Sportsland Sugo, and a varie
 
-📎 [阅读原文](https://www.ign.com/articles/best-deals-for-september-3-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/original-gran-turismo-circuit-returns-to-series-after-13-year-absence) — *IGN*
 
-### 2. Until Dawn 2 Was Co-Developed by Dispatch Developer AdHoc Studio
+### 2. Save $3,000 Off the Massive 83" LG Evo M3 4K OLED TV With Wireless Connectivity and 5 Year Warranty
 
-[原文] AdHoc Studio, the team behind Disptached, helped develop Until Dawn 2.
+[原文] LG's biggest and best OLED TV of 2023.
 
-📎 [阅读原文](https://www.ign.com/articles/until-dawn-2-was-co-developed-by-dispatch-developer-adhoc-studio) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/lg-evo-m3-4k-oled-tv-deal-september-2026) — *IGN*
 
-### 3. STALZONE Is an Extraction Shooter with MMO DNA
+### 3. Get a Brand New 27" Samsung Odyssey OLED G5 Gaming Monitor for Just $269 With Free Shipping
 
-暂无摘要。
+[原文] The lowest price right now for an OLED gaming monitor.
 
-📎 [阅读原文](https://www.ign.com/articles/stalzone-is-an-extraction-shooter-with-mmo-dna) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/samsung-oled-gaming-monitor-deal-september-2026) — *IGN*
 
-### 4. Bucking Fastard Review
+### 4. Eureka Ergonomic Is Running A Huge Sale for Labor Day
 
-[原文] Bucking Fastard review: Werner Herzog casts Kate and Rooney Mara as synchronized sisters based on unusual real-life twins.
+[原文] Save big on office and gaming furniture.
 
-📎 [阅读原文](https://www.ign.com/articles/bucking-fastard-review) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/eureka-ergonomic-is-running-a-huge-sale-for-labor-day) — *IGN*
 
-### 5. Get 6.6ft 240W USB Type-C Cables for Less Than $3 Apiece
+### 5. The 65" Samsung S90F 4K QD-OLED TV Is Better Than Its 2026 Successor, and It's on Sale for Labor Day
 
-[原文] Universal cables perfect for your Nintendo Switch 2, Steam Deck, iPhone 17, or laptop.
+[原文] The S90F is the last TV in the lineup with QD-OLED technology; the new 2026 removes it.
 
-📎 [阅读原文](https://www.ign.com/articles/best-usb-cable-deals-september-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/samsung-s65f-4k-oled-tv-deal-ebay-labor-day-sale) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Cadillac V-One Concept Engineer Spills the Secrets of a Customer-Spec Le Mans Hypercar
+### 1. When a Tornado Destroyed 100 Brand New Corvettes, This Salvage Yard Got to Work
+
+[原文] It's rare to see over a hundred new cars parted out just after final assembly, but that's exactly what happened after a tornado struck GM's Bowling Green factory.
+The post When a Tornado Destroyed 100
+
+📎 [阅读原文](https://www.thedrive.com/news/heres-what-happened-to-100-brand-new-corvettes-that-got-hit-by-a-tornado) — *The Drive*
+
+### 2. Cadillac V-One Concept Engineer Spills the Secrets of a Customer-Spec Le Mans Hypercar
 
 [原文] The Cadillac V-One isn't just a race car in paint scheme. Here's what actually separates it from Cadillac's factory Le Mans prototypes Hint: lots of engineering headaches.
 The post Cadillac V-One Conc
 
 📎 [阅读原文](https://www.thedrive.com/news/cadillac-v-one-concept-engineer-spills-the-secrets-of-a-customer-spec-le-mans-hypercar) — *The Drive*
 
-### 2. Save Hundreds: Yakima and Thule Car Racks Are 20% Off for REI’s Labor Day Sale
+### 3. Save Hundreds: Yakima and Thule Car Racks Are 20% Off for REI’s Labor Day Sale
 
 [原文] Bike racks, camping gear, and all kinds of awesome adventure accessories are deeply discounted at REI through September 7.
 The post Save Hundreds: Yakima and Thule Car Racks Are 20% Off for REI’s Labo
 
 📎 [阅读原文](https://www.thedrive.com/news/save-hundreds-yakima-and-thule-car-racks-are-20-off-for-reis-labor-day-sale) — *The Drive*
 
-### 3. Lexus RX Is About To Get a Lot Less Boring
+### 4. Lexus RX Is About To Get a Lot Less Boring
 
 [原文] The Lexus RX RR 'Morizo' turns the frumpy crossover into a supersized hot hatch.
 The post Lexus RX Is About To Get a Lot Less Boring appeared first on The Drive.
 
 📎 [阅读原文](https://www.thedrive.com/news/2027-lexus-rx-spy-shots) — *The Drive*
 
-### 4. Gran Turismo 7’s Huge Spec IV Update Shows It’s Listening To Players
+### 5. Gran Turismo 7’s Huge Spec IV Update Shows It’s Listening To Players
 
 [原文] The just-announced free update to GT7 will add 12 new cars, two new tracks, and some highly requested features and modes as it nears its fifth birthday.
 The post Gran Turismo 7&#8217;s Huge Spec IV Up
 
 📎 [阅读原文](https://www.thedrive.com/news/gt7-revives-autumn-ring-adds-12-new-cars-in-huge-spec-iv-update) — *The Drive*
-
-### 5. Ford Wants 100,000 Fathom Sales in First Year. It Took F-150 Lightning Five Years: TDS
-
-[原文] Ford has reportedly set an ambitious goal for its $30,000 electric truck, that would have it triple the F-150 Lightning's best single-year sales in its first year on the market.
-The post Ford Wants 10
-
-📎 [阅读原文](https://www.thedrive.com/news/ford-wants-100000-fathom-sales-in-first-year-it-took-f-150-lightning-five-years-tds) — *The Drive*
 
 ---
 
@@ -365,7 +365,7 @@ The post Ford Wants 10
 
 ### 1. Court Stalls EPA Plan to Override California’s Vehicle Pollution Standards
 
-[原文] A federal judge has temporarily blocked the Environmental Protection Agency from challenging California’s longstanding authority to set vehicle pollution stan tdadards stricter than federal requiremen
+[原文] A federal judge has temporarily blocked the Environmental Protection Agency from challenging California’s longstanding authority to set vehicle pollution standards stricter than federal requirements. 
 
 📎 [阅读原文](https://insideclimatenews.org/news/03092026/judge-blocks-epa-from-challenging-californias-emissions-standards/) — *Inside Climate News*
 
@@ -439,35 +439,35 @@ The post Ford Wants 10
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘Soul Train Awards’ Emerge From Limbo, Returning This Fall
+### 1. Lil Durk Murder-for-Hire Trial: Shooter’s Wife and Mother of King Von’s Son Testify
+
+[原文] The wife of one of the government's star witnesses testified for the defense and disputed her husband's account
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/lil-durk-trial-quando-rondo-king-von-shooter-wife-testifies-1235621034/) — *Rolling Stone*
+
+### 2. Blackpink’s Lisa Returns to Her Rap Roots on Solo Single ‘SaWaDiKa’
+
+[原文] The rapper-singer is ushering a new era ahead of her Press Play EP, which arrives on Oct. 23
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/lisa-sawadika-single-press-play-ep-1235620810/) — *Rolling Stone*
+
+### 3. Drake Gives His Elusive ‘FOMO’ Project a Release Date
+
+[原文] Little is known about the upcoming drop, which the rapper has been teasing for weeks
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/drake-fomo-fear-of-missing-out-release-date-1235621125/) — *Rolling Stone*
+
+### 4. Miley Cyrus Declares ‘The Kids Don’t Wanna Dance’ on New Single
+
+[原文] "Bass Persuades" is the first glimpse into the singer's tenth studio album of the same name
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/miley-cyrus-bass-persuades-single-video-1235620020/) — *Rolling Stone*
+
+### 5. ‘Soul Train Awards’ Emerge From Limbo, Returning This Fall
 
 [原文] BET, CBS, and several other networks will air the ceremony in November
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/soul-train-awards-return-this-fall-bet-spotify-1235620919/) — *Rolling Stone*
-
-### 2. Camilo Séptimo Member Jonathan Melendez, Pregnant Wife, and Daughter Murdered in Mexico
-
-[原文] Keyboardist played in indie-rock group Camilo Séptimo
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/jonathan-melendez-camilo-septimo-dead-1235620704/) — *Rolling Stone*
-
-### 3. Dolly Parton’s Cousin Says Singer Kept Cancer Battle Private to Keep Fans From Worrying
-
-[原文] “She always wanted to keep everybody being positive around her and put that out there in the world,” Richie Owens says
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/dolly-parton-cancer-battle-privacy-1235620673/) — *Rolling Stone*
-
-### 4. Noel Gallagher Hints at Oasis 2027 Summer Tour
-
-[原文] Rumors have swirled about a follow-up to the band’s popular 2025 reunion tour
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/noel-gallagher-oasis-2027-summer-tour-1235620509/) — *Rolling Stone*
-
-### 5. Katy Perry Describes Justin Trudeau as ‘The Love of My Life’
-
-[原文] The singer discussed her new relationship and her breakup with Orlando Bloom in a new interview
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/katy-perry-justin-trudeau-relationship-orlando-bloom-1235620503/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post Ford Wants 10
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Emirates Pushes Premium Economy Upmarket as Business Class Gets Sliced Up
+### 1. Amadeus Brings Travel Tech Into Claude
+
+[原文] Weeks after closing its self-service developer portal, Amadeus revealed that building new ties to connect its travel systems to Claude, both for developers and the travel workforce.
+
+📎 [阅读原文](https://skift.com/2026/09/03/amadeus-brings-travel-tech-into-claude/) — *Skift*
+
+### 2. Emirates Pushes Premium Economy Upmarket as Business Class Gets Sliced Up
 
 [原文] Airlines can no longer rely on passenger growth alone, so they're fighting harder for travelers who will pay more.
 
 📎 [阅读原文](https://skift.com/2026/09/03/emirates-pushes-premium-economy-upmarket-as-business-class-gets-sliced-up/) — *Skift*
 
-### 2. Why Luxury GMs Need a Razor Sharp Point of View
+### 3. Why Luxury GMs Need a Razor Sharp Point of View
 
 [原文] As brands scale and standards spread, the property leader’s most important role is preserving the reason a hotel belongs where it is.
 
 📎 [阅读原文](https://skift.com/2026/09/03/why-luxury-gms-need-a-razor-sharp-point-of-view/) — *Skift*
 
-### 3. How Airports Are Growing Without Blowing Their Climate Goals
+### 4. How Airports Are Growing Without Blowing Their Climate Goals
 
 [原文] Airports insist that passenger growth and net zero aren’t in conflict but nearly all of their progress is over emissions that they control. The bigger problem, emissions that lie in the supply chain, 
 
 📎 [阅读原文](https://skift.com/2026/09/03/how-airports-are-growing-without-blowing-their-climate-goals/) — *Skift*
 
-### 4. The Short-Term Rental Model for Shrinking Places
+### 5. The Short-Term Rental Model for Shrinking Places
 
 [原文] The short-term rental fight was designed for cities running out of homes. A growing number of places face the opposite problem with population decline: too many homes and too few people.
 
 📎 [阅读原文](https://skift.com/2026/09/03/the-short-term-rental-model-for-shrinking-places/) — *Skift*
-
-### 5. Swiggy Has a New Travel Concierge. Can a Food Delivery App Make It Work?
-
-[原文] Travel is full of problems that don't fit neatly into an app. Swiggy's Crew is betting it can handle the messy parts.
-
-📎 [阅读原文](https://skift.com/2026/09/03/swiggy-has-a-new-travel-concierge-can-a-food-delivery-app-make-it-work/) — *Skift*
 
 ---
 
@@ -528,7 +528,6 @@ The post Ford Wants 10
 ## ⚠️ 今日故障源
 
 - **🚗 汽车**: Autocar
-- **✈️ 旅游**: Nomadic Matt
 
 ---
 
