@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月05日** | 生成时间: 2026-09-05 00:00
+**2026年09月05日** | 生成时间: 2026-09-05 04:30
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. U.S. payrolls rose 162,000 in August, much more than expected; unemployment rate at 4.1%
-
-[原文] Nonfarm payrolls were expected to increase by 53,000 in August while the unemployment rate held at 4.1%, according to the Dow Jones consensus.
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/04/jobs-report-august-2026.html) — *CNBC*
-
-### 2. Trump tells Fed to slash rates or he'll end trade with countries with U.S. surpluses
+### 1. Trump doubles down on threat to halt trade with top partners unless Fed cuts rates
 
 [原文] President Donald Trump demanded that the Fed slash interest rates or else he will cut off trade with countries with which the U.S. maintains trade deficits.
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/04/trump-fed-rates-jobs-trade.html) — *CNBC*
 
-### 3. World's biggest sovereign wealth fund plans to cut U.S. Treasury holdings
+### 2. Tesla's stock drops 6% as Cybercab update 'underwhelms' Wall Street
+
+[原文] Tesla's long-awaited Cybercab update failed to dazzle investors.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/04/teslas-stock-drops-as-cybercab-update-underwhelms-nhtsa-probe.html) — *CNBC*
+
+### 3. Longtime Fox News host Maria Bartiromo disputes reports of termination
+
+[原文] Maria Bartiromo, the longtime host of Fox News and Fox Business programming, has disputed reports she was fired from the cable TV networks.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/04/maria-bartiromo-fox-news-termination.html) — *CNBC*
+
+### 4. World's biggest sovereign wealth fund plans to cut U.S. Treasury holdings
 
 [原文] Norway's $2.3 trillion investment fund says it can diversify into new areas with greater risk and returns.
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/04/worlds-biggest-sovereign-wealth-fund-plans-to-cut-treasury-holdings.html) — *CNBC*
 
-### 4. WBNA Commissioner Cathy Engelbert to retire at the end of 2026
+### 5. Trump says he will spend up to $500 million of 'my money' to help Republicans in midterms
 
-[原文] Engelbert oversaw a period of unprecedented growth for the WNBA, but has faced criticism from players over her leadership.
+[原文] Trump's pledge would dramatically increase MAGA Inc.’s spending after the Trump-aligned PAC kept most of its $403 million war chest on the sidelines.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/04/wbna-commissioner-cathy-engelbert-to-retire-at-the-end-of-2026-.html) — *CNBC*
-
-### 5. Analysis: Lower Treasury yields could require a weaker economy. Trump won't fix them
-
-[原文] Long-term Treasury yields are being held up by Trump-era policy risk, heavy government borrowing and AI-driven corporate debt.
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/04/treasury-bonds-yield-trump-ai-mortgage-rates-analysis.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/04/trump-maga-inc-500-million-republicans-midterm-elections.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. CD sales are making an unexpected comeback amid a retro tech boom
+### 1. Judge blocks X rival from using Twitter name, but allows ‘Tweet’ for now
+
+[原文] A federal judge temporarily barred an X rival from using the Twitter name, but found that X was likely to have abandoned the “Tweet” trademark and bird logo. The startup has since relaunched as Tweet.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/) — *TechCrunch*
+
+### 2. What will Apple’s John Ternus era look like?
+
+[原文] It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a 
+
+📎 [阅读原文](https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/) — *TechCrunch*
+
+### 3. No little kids allowed, and other new info about Tesla’s Cybercab
+
+[原文] The company says no children under 13 can ride -- even with a parent. That's more restrictive than the Model Y SUVs it's using as robotaxis.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/) — *TechCrunch*
+
+### 4. Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge
+
+[原文] It's the latest failure of OpenAI's internal monitoring and security systems.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/) — *TechCrunch*
+
+### 5. CD sales are making an unexpected comeback amid a retro tech boom
 
 [原文] U.S. CD revenue jumped 58.6% in the first half of 2026, reversing last year’s decline as interest in retro tech and physical media continues to grow.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/04/cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-boom/) — *TechCrunch*
-
-### 2. Krafton doubles down on India with another $250M bet beyond gaming
-
-[原文] Krafton's planned investment in India is set to surpass $500 million with its latest commitment.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/04/krafton-doubles-down-on-india-with-another-250m-bet-beyond-gaming/) — *TechCrunch*
-
-### 3. Google’s Gemini Spark can now manage your Google Photos library
-
-[原文] Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/) — *TechCrunch*
-
-### 4. Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event
-
-[原文] Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/) — *TechCrunch*
-
-### 5. US military disabled ad tracking on troops’ devices following reports of targeted attacks
-
-[原文] A senator's letter confirms the U.S. military moved to prevent the tracking after foreign adversaries used location data to target troops.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/04/us-military-disabled-ad-tracking-on-troops-devices-following-reports-of-targeted-attacks/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. How 'unique' Bellingham is thriving in Mourinho's system
+### 1. 'It's so strong' - Sabalenka halts play over cannabis smell
 
-[原文] Jude Bellingham looks fit and ready to build on his World Cup form as he aims to rediscover his best at Real Madrid under Jose Mourinho.
+[原文] Aryna Sabalenka briefly halts her US Open match against Kamilla Rakhimova because of the smell of cannabis before going on to reach the fourth round.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c86xj375x2yo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/c4gm2607p0zo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Russell leads Leclerc in Friday practice at Monza
+### 2. Dean says he always applied laws - but which matches did he play games in?
 
-[原文] Mercedes' George Russell tops Friday practice at the Italian Grand Prix from Ferrari's Charles Leclerc.
+[原文] Is there any evidence that former Premier League referee Mike Dean used to play mini-games during matches? BBC Sport has taken a look at the evidence.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/czjzn84wn9wo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. Emotional Taylor steps on to the scales one final time
+
+[原文] Katie Taylor and Flora Pili weigh in under the light-welterweight limit at a sun-kissed Trinity College in Dublin before they fight for the undisputed title at Croke Park on Saturday.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/articles/cvgy95v3pjdo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. Ferrari still behind Mercedes on straights - Hamilton
+
+[原文] Lewis Hamilton says Ferrari's new engine is "an improvement" but that his team are still lagging behind Mercedes on the straights at the Italian Grand Prix.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/cgk5g0z26yxo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Richarlison omission not my decision - De Zerbi
+### 5. Guendouzi and Greenwood banned  after brawl
 
-[原文] Tottenham Hotspur manager Roberto de Zerbi says it was not his decision to leave Richarlison out of the club's Premier League squad.
+[原文] Fenerbahce midfielder Matteo Guendouzi gets a four-match European ban and is fined 50,000 euros after a brawl following the Champions League play-off win at Lyon.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c79038z3q4yo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. 'Disappointing' and 'really sad' - no away fans at Old Firm games this season
-
-[原文] There will be no away supporters for Celtic and Rangers derbies in the Scottish Premiership or Premier Sports Cup this season.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ce8x2j8kl3do?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. 'My position now is as one of two 10s' - Kane breaks down his evolution
-
-[原文] Harry Kane was the highest goalscorer in Europe last season, yet he plays like a midfielder. We ask him to break down his game.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/articles/cx2z7rjn2p2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cly7874vxzlo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘Fauda’ Creator Calls Mark Ruffalo a ‘Rare Combination’ of ‘Stupid’ and ‘Ignorant’ After His Viral Statement on Paramount: ‘Do You Understand What It Means, “Genocide”?’
+### 1. How John Malkovich’s 30-Year Oscar Drought Could Finally End With ‘Wild Horse Nine’
 
-[原文] “Fauda” creator Avi Issacharoff has criticized Mark Ruffalo’s interpretation of the Israel-Hamas conflict, including his repeated claims of “genocide” in Gaza. “Mark Ruffalo saying ‘Genocide, genocide
+[原文] John Malkovich could finally have an Oscar secret weapon, and his name is Martin McDonagh. “Wild Horse Nine,” the black comedy that bowed in competition at the Venice Film Festival — where it drew a 1
 
-📎 [阅读原文](https://variety.com/2026/politics/global/fauda-creator-mark-ruffalo-genocide-remarks-1236851588/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/awards/wild-horse-nine-john-malkovich-oscars-best-actor-telluride-1236847559/) — *Variety*
 
-### 2. ‘Mayday’ Review: Ryan Reynolds and Kenneth Branagh Are Unlikely Cold War Buddies in a Pleasing Eighties Throwback
+### 2. Rob Rausch and Maura Higgins to Host Survival Competition Show for Peacock ‘Get Me Out of Here’
 
-[原文] Accelerated by artificial intelligence and an indefatigable firehose of content, the uncanny valley between real blockbusters and fake ones is disappearing at an exponential pace. Ten years ago, or ev
+[原文] Rob Rausch and Maura Higgins are returning to reality TV — this time as hosts. The &#8220;Traitors&#8221; and &#8220;Love Island&#8221; alums will lead a new competition series with the working title 
 
-📎 [阅读原文](https://variety.com/2026/film/reviews/mayday-review-ryan-reynolds-1236851743/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/rob-rausch-maura-higgins-host-survival-competition-show-1236851996/) — *Variety*
 
-### 3. Maria Bartiromo’s Lawyer Says Anchor Was Not Fired by Fox News
+### 3. Tetris Company Distances Itself From Trump White House’s ‘Build the Wall’ Game, Says ‘We Take Copyright Very Seriously’
 
-[原文] Maria Bartiromo&#8217;s attorney railed at reporting that suggests the longtime business-news anchor was fired by Fox News Media, and suggested she was ready to take the company to court. &#8220;The i
+[原文] The Tetris Company wants to be clear that it was not involved in the creation of the White House&#8217;s &#8220;Build the Wall&#8221; game &#8212; an obvious copy of the famous block-dropping title &#
 
-📎 [阅读原文](https://variety.com/2026/tv/news/maria-bartiromo-lawyer-anchor-was-not-fired-fox-news-1236851764/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/digital/news/tetris-company-trump-white-house-build-the-wall-game-copyright-1236851993/) — *Variety*
 
-### 4. Global Content Industry Leaders Gather to Discuss ‘Multilateralism for the Moving Image’ at France’s Lumiere Summit
+### 4. ‘The Basics of Philosophy’ Review: Paul Schrader Wrestles with Sin and Spinoza in His Latest Tortured-Man Drama
 
-[原文] Hollywood heavyweights and top players in content and exhibition from around the world will gather in Saint-Paul-de-Vence on Sept. 7 for the landmark Lumiere Summit that aims to explore the future of 
+[原文] Another man, another room, another vile past deed in need of expiation. On the one hand you could accuse writer-director Paul Schrader of retreading old ground with his latest unadorned exploration of
 
-📎 [阅读原文](https://variety.com/2026/film/news/lumiere-summit-film-france-macron-film-saint-paul-de-vence-1236851413/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/reviews/the-basics-of-philosophy-review-1236847014/) — *Variety*
 
-### 5. TikTok Creator Skyelar Chase Signs With Innovative Artists Entertainment
+### 5. How to Watch the U.S Open Live Online
 
-[原文] Digital creator Skyelar Chase, who specializes in luxury lifestyle content and has more than 1.7 million followers on TikTok, has signed with Innovative Artists Entertainment for representation in all
+[原文] The U.S. Open is officially underway in New York. The final Grand Slam of the year kicked off its main draw Aug. 30 at the USTA Billie Jean King National Tennis Center in Flushing Meadows, with third-
 
-📎 [阅读原文](https://variety.com/2026/digital/news/skyelar-chase-signs-with-innovative-artists-entertainment-1236851678/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/shopping/news/how-to-stream-us-open-live-online-streaming-1236851970/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Harry Potter Series' Dobby and Young Voldemort Casting Revealed
+### 1. GTA 6 for Xbox: You Can Save $10, Today Only
 
-[原文] HBO has revealed a trio of key roles for the second season of its lavish Harry Potter series: Dobby, Ginny Weasley and Tom Riddle, better known as a young Lord Voldemort.
+[原文] Xbox owners can save $10 on Grand Theft Auto 6's ultimate edition using this simple workaround (but it's only available today).
 
-📎 [阅读原文](https://www.ign.com/articles/harry-potter-series-dobby-and-young-voldemort-casting-revealed) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/gta-6-for-xbox-you-can-save-10-today-only) — *IGN*
 
-### 2. White House Launches Arcade.Gov, a Minigame Site Where You Catch Immigrants, Build a Tetris Border Wall, and 'Fill Your Kids' Trump Accounts' With Bitcoin
+### 2. New Resident Evil Teaser Trailer Reveals First Glimpse at Creature That Looks a Lot Like Las Plagas
 
-[原文] Donald Trump's White House has launched Arcade.Gov, a site with mini-games where you catch and deport immigrants, or use Tetris blocks to build a border wall.
+[原文] A new Spanish-language trailer for Zach Cregger’s Resident Evil movie includes never-before-seen footage of a tentacle-like mutation that looks frighteningly similar to Las Plagas from RE4.
 
-📎 [阅读原文](https://www.ign.com/articles/white-house-launches-arcadegov-a-minigame-site-where-you-catch-immigrants-build-a-tetris-border-wall-and-fill-your-kids-trump-accounts-with-bitcoin) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/new-resident-evil-teaser-trailer-reveals-first-look-at-creature-that-seems-a-lot-like-las-plagas) — *IGN*
 
-### 3. Onimusha Shows Why Capcom Is on a Winning Streak
+### 3. Mrs. Doubtfire Is Releasing on 4K This September – Here’s Where to Preorder It
 
-[原文] Onimusha: Way of the Sword succeeds because it does what Capcom games like Resident Evil 7 and Monster Hunter: World did before it - combine the best of the series' past with the best of the wider ind
+[原文] Mrs. Doubtfire, the beloved comedy starring Robin Williams, is officially getting a 4K release on September 29. Here's where it's available to preorder and what bonus features it comes with.
 
-📎 [阅读原文](https://www.ign.com/articles/onimusha-shows-why-capcom-is-on-a-winning-streak) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/mrs-doubtfire-4k-where-to-buy) — *IGN*
 
-### 4. 1 vs. 100 Live Was the Kind of Incredible Creative Risk I'd Like to See Xbox Get Back To
+### 4. DLSS 5 Will Be Coming to Older Graphics Cards After All
 
-[原文] I so vividly remember making the time to log on and play 1 vs. 100 in the evenings the game was available, and trying to answer those trivia questions as quickly as possible. You could get on Party Ch
+[原文] On Nvidia's forums, an Nvidia employee claimed that the company will be expanding DLSS 5 support to RTX 40 series graphics cards at some point, but we're probably going to be waiting a while for it.
 
-📎 [阅读原文](https://www.ign.com/articles/1-vs-100-live-was-the-kind-of-incredible-creative-risk-id-like-to-see-xbox-get-back-to) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/dlss-5-will-be-coming-to-older-graphics-cards-after-all) — *IGN*
 
-### 5. I'm Getting My Hopes Up for The Ascent 2 After the Developer Told Me It Had Big Franchise Plans
+### 5. Criminal Showrunner and Winter Soldier Co-Creator Ed Brubaker Sued by Production Assistant
 
-[原文] The Ascent 2 is a game I’ve hoped developer Neon Giant would make ever since I finished the wonderful The Ascent back in 2021 — and after speaking to the studio at gamescom, I’m convinced it’s now in 
+[原文] Prime Video's Criminal series is embroiled in controversy, as showrunner Ed Brubaker has been sued by a former production assistant for allegedly fostering a hostile work environment.
 
-📎 [阅读原文](https://www.ign.com/articles/im-getting-my-hopes-up-for-the-ascent-2-after-the-developer-told-me-it-had-big-franchise-plans) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/criminal-showrunner-and-winter-soldier-co-creator-ed-brubaker-sued-by-production-assistant) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. In America, a Bull Bar Is a Look. In Australia, It’s Just Another Factory Option
+### 1. Tesla Cybercab Isn’t Just Missing a Steering Wheel. It Doesn’t Even Have Brake Lines
+
+[原文] The Cybercab has a lot of wild features to make it cheaper to build and maintain—including some you can't see from the rider's seats.
+The post Tesla Cybercab Isn&#8217;t Just Missing a Steering Wheel.
+
+📎 [阅读原文](https://www.thedrive.com/news/tesla-cybercab-isnt-just-missing-a-steering-wheel-it-doesnt-even-have-brake-lines) — *The Drive*
+
+### 2. This Independent BMW Mechanic Built a Cooler Digital Dash Than BMW Itself
+
+[原文] This digital gauge cluster for E28 and E30 Bimmers aims to bring modern convenience to old classics, without ditching the style fans want.
+The post This Independent BMW Mechanic Built a Cooler Digital
+
+📎 [阅读原文](https://www.thedrive.com/news/this-independent-bmw-mechanic-built-a-cooler-digital-dash-than-bmw-itself) — *The Drive*
+
+### 3. Jeep’s Best Path to a V8 Wagoneer Is Hiding In Plain Sight
+
+[原文] The Grand Wagoneer is powered by nostalgia ... and an inline-six. How about a smaller model with some bigger motors?
+The post Jeep&#8217;s Best Path to a V8 Wagoneer Is Hiding In Plain Sight appeared 
+
+📎 [阅读原文](https://www.thedrive.com/news/jeeps-best-path-to-a-v8-wagoneer-is-hiding-in-plain-sight) — *The Drive*
+
+### 4. In America, a Bull Bar Is a Look. In Australia, It’s Just Another Factory Option
 
 [原文] Front vehicle sensors and higher standards for pedestrian safety have mostly removed these options from American vehicles, but in kangaroo country, they're still a necessity.
 The post In America, a Bu
 
 📎 [阅读原文](https://www.thedrive.com/news/in-america-a-bull-bar-is-a-look-in-australia-its-just-another-factory-option) — *The Drive*
 
-### 2. VW Cuts Another 50,000 Jobs and Possibly a Brand: TDS
+### 5. VW Cuts Another 50,000 Jobs and Possibly a Brand: TDS
 
 [原文] VW's largest-ever restructuring has ballooned to 100,000 job cuts and could result in the end of one of its oldest brands.
 The post VW Cuts Another 50,000 Jobs and Possibly a Brand: TDS appeared first
 
 📎 [阅读原文](https://www.thedrive.com/news/vw-cuts-another-50000-jobs-and-possibly-a-brand-tds) — *The Drive*
-
-### 3. Lolly, Lolly, Lolly, Get Your Cool Shirts Here
-
-[原文] Quickly, quickly, quickly, get those cool shirts here... in our latest merch drop with Blipshift. The clock is ticking!
-The post Lolly, Lolly, Lolly, Get Your Cool Shirts Here appeared first on The Dr
-
-📎 [阅读原文](https://www.thedrive.com/news/lolly-lolly-lolly-get-your-cool-shirts-here) — *The Drive*
-
-### 4. When a Tornado Destroyed 100 Brand New Corvettes, This Salvage Yard Got to Work
-
-[原文] It's rare to see over a hundred new cars parted out just after final assembly, but that's exactly what happened after a tornado struck GM's Bowling Green factory.
-The post When a Tornado Destroyed 100
-
-📎 [阅读原文](https://www.thedrive.com/news/heres-what-happened-to-100-brand-new-corvettes-that-got-hit-by-a-tornado) — *The Drive*
-
-### 5. Cadillac V-One Concept Engineer Spills the Secrets of a Customer-Spec Le Mans Hypercar
-
-[原文] The Cadillac V-One isn't just a race car in paint scheme. Here's what actually separates it from Cadillac's factory Le Mans prototypes Hint: lots of engineering headaches.
-The post Cadillac V-One Conc
-
-📎 [阅读原文](https://www.thedrive.com/news/cadillac-v-one-concept-engineer-spills-the-secrets-of-a-customer-spec-le-mans-hypercar) — *The Drive*
 
 ---
 
@@ -439,35 +439,35 @@ The post Cadillac V-One Conc
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Judge Orders Competency Evaluation for Ex-Turnstile Guitarist in Attempted Murder Case
+### 1. Big Sean and Kanye West Reunite After Feud With Surprise Appearance in Chicago
+
+[原文] Big Sean joined Kanye West at his Soldier Field homecoming concert to perform "Clique," "Mercy," and "I Don't Fuck With You"
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/big-sean-kanye-west-end-feud-surprise-performance-chicago-1235621691/) — *Rolling Stone*
+
+### 2. Judge Orders Competency Evaluation for Ex-Turnstile Guitarist in Attempted Murder Case
 
 [原文] Brady Ebert is facing life in prison after his charges for intentionally driving his car into the father of Turnstile singer Brendan Yates were upgraded to attempted first-degree murder
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/turnstile-guitarist-ordered-competency-evaluation-1235621396/) — *Rolling Stone*
 
-### 2. Adéla Channels Her Inner Movie Star in ‘Nicole Kidman’ Music Video
+### 3. Adéla Channels Her Inner Movie Star in ‘Nicole Kidman’ Music Video
 
 [原文] The clip, directed by Hannah Lux Davis, references Eyes Wide Shut, Moulin Rouge, Birth, and Babygirl
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/adela-nicole-kidman-music-video-1235621284/) — *Rolling Stone*
 
-### 3. Blackpink’s Jisoo Finds the Romance on Solo Single ‘Click’
+### 4. Blackpink’s Jisoo Finds the Romance on Solo Single ‘Click’
 
 [原文] The singer is gearing up to release her debut full-length album
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/blackpink-jisoo-click-single-1235621279/) — *Rolling Stone*
 
-### 4. Squeeze Cancel Virginia Concert After Man Crushed to Death by Tour Bus
+### 5. Squeeze Cancel Virginia Concert After Man Crushed to Death by Tour Bus
 
 [原文] “Our thoughts remain with everyone affected by this tragic event,” the band said in a statement
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/squeeze-virginia-concert-cancelled-man-crushed-to-death-1235621275/) — *Rolling Stone*
-
-### 5. Beyoncé Unveils ‘B’Day’ Anniversary Album Featuring Selena, Maluma, and Celia Cruz
-
-[原文] The 31-song digital edition features several previously unreleased tracks including a collab with Pharrell
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/beyonce-bday-anniversary-album-selena-maluma-1235621124/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post Cadillac V-One Conc
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Could AI Agents Turn the Time Between Trips Into a Revenue Channel?
+### 1. Biggest Innovators in Travel and Hospitality: Summer 2026
+
+[原文] There is no shortage of launches and you can easily find the most expensive hospitality offerings. We're most interested in judgment that leads to truly exceptional service.
+
+📎 [阅读原文](https://skift.com/2026/09/04/biggest-innovators-in-travel-and-hospitality-summer-2026/) — *Skift*
+
+### 2. The New Travel Loyalty Leaders Aren’t Hotels or Airlines — They’re Banks
+
+[原文] Travel companies have spent years worrying about losing customers to online travel agencies. The bigger threat was already in the wallet.
+
+📎 [阅读原文](https://skift.com/2026/09/04/the-new-travel-loyalty-leaders-arent-hotels-or-airlines-theyre-banks/) — *Skift*
+
+### 3. Could AI Agents Turn the Time Between Trips Into a Revenue Channel?
 
 [原文] AI agents are helping airlines and other travel companies stay connected with customers throughout the journey. By retaining context and acting on signals over time, they could turn isolated service i
 
 📎 [阅读原文](https://skift.com/2026/09/04/ai-agents-travel-customer-lifecycle/) — *Skift*
 
-### 2. BRICS Summit Pushes Delhi Hotel Rates Up 4x as Room Supply Tightens
+### 4. BRICS Summit Pushes Delhi Hotel Rates Up 4x as Room Supply Tightens
 
 [原文] Major events can send hotel rates sharply higher. But Delhi’s BRICS spike also shows how quickly hotel supply can get squeezed when demand arrives all at once.
 
 📎 [阅读原文](https://skift.com/2026/09/04/brics-summit-pushes-delhi-hotel-rates-up-4x-as-room-supply-tightens/) — *Skift*
 
-### 3. Qatar’s Arrivals Are Down 30% This Year — Its Recovery Now Rests on F1
+### 5. Qatar’s Arrivals Are Down 30% This Year — Its Recovery Now Rests on F1
 
 [原文] Arrivals are still down a third from last year. Qatar’s answer, as it was for the World Cup, is another mega event on the calendar.
 
 📎 [阅读原文](https://skift.com/2026/09/04/qatars-arrivals-are-down-30-this-year-its-recovery-now-rests-on-f1/) — *Skift*
-
-### 4. Air India’s $1.1 Billion Lifeline Comes with Conditions: Reports
-
-[原文] Air India's owners haven't run out of money. They've run out of patience. The $1.1 billion lifeline shows they are still willing to back the airline, but now they want results.
-
-📎 [阅读原文](https://skift.com/2026/09/04/air-indias-1-1-billion-lifeline-comes-with-conditions-reports/) — *Skift*
-
-### 5. Amadeus Brings Travel Tech Into Claude
-
-[原文] Weeks after closing its self-service developer portal, Amadeus revealed that building new ties to connect its travel systems to Claude, both for developers and the travel workforce.
-
-📎 [阅读原文](https://skift.com/2026/09/03/amadeus-brings-travel-tech-into-claude/) — *Skift*
 
 ---
 
