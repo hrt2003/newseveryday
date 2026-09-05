@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月05日** | 生成时间: 2026-09-05 18:14
+**2026年09月05日** | 生成时间: 2026-09-05 22:51
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Mistrial declared in Lindsay Clancy murder case, after jury deadlocks
+### 1. US hits three Iranian oil tankers after saying its warships were targeted
+
+[原文] US Central Command says the attacks came after Iran launched ballistic missiles at two of its Navy warships.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. US envoys arrive in Moscow ahead of Ukraine talks
+
+[原文] Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. Mistrial declared in Lindsay Clancy murder case, after jury deadlocks
 
 [原文] The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Trump's peace envoys to visit Moscow and Kyiv over weekend
+### 4. At least two dead in blast at Bolivia military barracks
 
-[原文] Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.
+[原文] Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect
+### 5. What different world maps get right - and what they get wrong
 
-[原文] Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.
+[原文] As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Nepal rescuers try to reach dozens trapped in tunnel after two found alive
-
-[原文] More than 1,300 people have died and thousands are missing, but rescuers' hopes have risen after finding survivors in a tunnel.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c7903j1vpe5o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Trump signs order to remove endangered species protection for grey wolves
-
-[原文] The US president says the move will help ranchers, but conservationists say it could derail efforts to recover populations.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump doubles down on threat to halt trade with top partners unless Fed cuts rates
+### 1. GM vs. Ford: U.S. defense, energy sectors add to automakers' century-old rivalry
 
-[原文] President Donald Trump demanded that the Fed slash interest rates or else he will cut off trade with countries with which the U.S. maintains trade deficits.
+[原文] General Motors and Ford are looking for new potential growth areas, including by seeking military contracts and getting into energy storage businesses.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/04/trump-fed-rates-jobs-trade.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/05/gm-ford-defense-energy.html) — *CNBC*
 
-### 2. Tesla's stock drops 6% as Cybercab update 'underwhelms' Wall Street
+### 2. Meet the CISO: A new front line star in the AI cybersecurity war
 
-[原文] Tesla's long-awaited Cybercab update failed to dazzle investors.
+[原文] The OpenAI-Hugging Face agent hack sent shockwaves through the business world and helped put the chief information security officer into the spotlight.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/04/teslas-stock-drops-as-cybercab-update-underwhelms-nhtsa-probe.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/05/ai-cybersecurity-ciso-executive.html) — *CNBC*
 
-### 3. From Trump’s takeover threats to a ‘northern neighborhood,’ why the EU chief is going to Greenland
+### 3. Trump’s state capitalism comes to the oil industry with his unprecedented Venezuela deal
 
-[原文] The visit comes as Trump renews his push for greater U.S. control of the self-governing Danish territory.
+[原文] The deal comes eight months after Washington ousted former President Nicolás Maduro in a military raid.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/05/eu-greenland-von-der-leyen-trump-arctic.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/05/trump-venezuela-oil-north-america-blue-energy-partners-nabep.html) — *CNBC*
 
-### 4. Longtime Fox News host Maria Bartiromo disputes reports of termination
+### 4. Many truckers don't feel like the rest of America about AI data centers as business booms
 
-[原文] Maria Bartiromo, the longtime host of Fox News and Fox Business programming, has disputed reports she was fired from the cable TV networks.
+[原文] Sprawling data center components from HVAC systems to tubing, wiring and semiconductors arrive primarily by truck, a boon for a business hit hard by trade wars.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/04/maria-bartiromo-fox-news-termination.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/05/ai-data-centers-cost-economy.html) — *CNBC*
 
-### 5. World's biggest sovereign wealth fund plans to cut U.S. Treasury holdings
+### 5. Abel: Two ways Berkshire hopes to cash in on AI
 
-[原文] Norway's $2.3 trillion investment fund says it can diversify into new areas with greater risk and returns.
+[原文] Berkshire Hathaway CEO Greg Abel tells CNBC the company is pursuing AI opportunities on two paths.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/04/worlds-biggest-sovereign-wealth-fund-plans-to-cut-treasury-holdings.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/05/abel-two-ways-berkshire-hopes-in-cash-in-on-ai.html) — *CNBC*
 
 ---
 
@@ -168,23 +168,23 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Isak finally arrives as Gakpo proves value to Liverpool
+### 1. Scott shines, Dedic struggles - Newcastle v Bournemouth player ratings
 
-[原文] Has the real Alexander Isak finally arrived at Liverpool after his two-goal display in their Premier League win at Ipswich Town, asks chief football writer Phil McNulty?
+[原文] How Newcastle United and Bournemouth's players rated in their Premier League match.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c209xvxe558o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cr4vzr9n2nyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. 'Best bend I've ever run' - Hunt's strong season continues in Brussels
+### 2. Hughes steps down as Liverpool sporting director
+
+[原文] Richard Hughes steps down from his position as sporting director of Liverpool  and is set to join Saudi side Al-Hilal.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c3d7483rv82o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. 'Best bend I've ever run' - Hunt's strong season continues in Brussels
 
 [原文] Amy Hunt's strong late-season form showed no signs of letting up as she clocked a season's best to finish third in the 200m at the Diamond League final in Brussels.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/cwyzn491wldo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 3. I've never spoken to Everton owner Friedkin - Moyes
-
-[原文] Everton manager David Moyes says he has never met or spoken to the club's owner Dan Friedkin.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c4gl3wx8g64o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ### 4. Antonelli 'disrupting rules of fandom' in Ferrari's Italy
 
@@ -192,11 +192,11 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/cj03m124lp3o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. No Brits left in US Open singles - but are there reasons to be positive?
+### 5. Pogacar will miss rest of season after Vuelta crash
 
-[原文] There will be no British interest in the second week of another Grand Slam at the US Open - but is it all doom and gloom?
+[原文] Five-time Tour de France champion Tadej Pogacar will not race again this season after suffering injuries including a fracture in his neck at the Vuelta a Espana.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cy4zvjk74ppo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cycling/articles/c1dle4xep96o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘The Liberation’ Review: Carrie Coon Is Breathtaking as a Woman Lured by a Cult in Guy Nattiv’s Deeply Personal Film
+### 1. ‘Chronovisor’ Review: An Eerie, Fiendishly Clever Mystery for Lovers of Libraries and the Storied Smell of Old Books
 
-[原文] “You carry a lot of weight around, don’t you?” In Guy Nattiv’s observant, harrowing and unmistakably feminine “The Liberation,” this line marks the first time someone truly sees through fortysomething
+[原文] For anyone whose happy place is an old-school library reading room, all aged dark wood and green-and-gold reading lamps casting warm islands of light in the velvety murk, &#8220;Chronovisor&#8221; wil
 
-📎 [阅读原文](https://variety.com/2026/film/reviews/the-liberation-review-1236851030/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/reviews/chronovisor-review-1236852515/) — *Variety*
 
-### 2. Swiss Projects at the Venice Gap-Financing Market: Natural Disaster, Complicated Romance, Exploited Migrants, Murder Mystery in Montana
+### 2. Al Pacino Sends Video Message to Venice After Missing Press Conference for ‘Father Joe’: ‘I Wish I Was There, I Really Do’
 
-[原文] Both well-established and up-and-coming Swiss filmmakers are taking part in the Venice Film Festival’s Production Bridge industry strand, where Switzerland will be one of the country’s in focus at the
+[原文] Al Pacino didn&#8217;t travel to the Venice Film Festival for the premiere of &#8220;Father Joe,&#8221; but he sent a video message with well wishes to his collaborators on the movie. &#8220;I wish I 
 
-📎 [阅读原文](https://variety.com/2026/film/global/switzerland-venice-film-festival-gap-financing-market-1236841524/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/al-pacino-skips-father-joe-press-conference-venice-1236851487/) — *Variety*
 
-### 3. Rubaiyat Hossain on Bodies, Beauty and Venice, Toronto and London-Bound ‘The Difficult Bride,’ Clip Unveiled (EXCLUSIVE)
+### 3. Retirement Match: Here’s How to Watch Katie Taylor vs. Flora Pili Boxing Live Online
 
-[原文] The idea for &#8220;The Difficult Bride&#8221; traces back to a story Rubaiyat Hossain heard as a 7 year old, visiting a Dhaka beauty parlor with her mother. &#8220;There was a bride who died there,&#
+[原文] Set as Katie Taylor&#8217;s final fight, one of the greatest fighters in boxing is going for the undisputed title. Irish boxer Katie Taylor defense her WBO, IBF and WBA women&#8217;s super lightweight
 
-📎 [阅读原文](https://variety.com/2026/film/festivals/rubaiyat-hossain-difficult-bride-1236851501/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/shopping/news/how-to-watch-katie-taylor-vs-flora-pili-boxing-live-sept-2026-online-1236850092/) — *Variety*
 
-### 4. Mad Solutions and Haitham Dabbour’s Irth Platform Announce Strategic Pan-Arab Content Partnership in Venice
+### 4. Louis Garrel Jokes About ‘Moretti Method’ Acting at Press Conference for Nanni Moretti’s ‘It Will Happen Tonight’
 
-[原文] Pan-Arab distributor Mad Solutions and Egyptian multihyphenate Haitham Dabbour&#8217;s Irth platform dedicated to supporting standout writers across the Arab world announced a strategic partnership on
+[原文] Veteran auteur Nanni Moretti – who has had nine movies in competition at Cannes — is back in Venice after 37 years with &#8220;It Will Happen Tonight,” a romantic drama toplining French star Louis Gar
 
-📎 [阅读原文](https://variety.com/2026/film/festivals/mad-solutions-haitham-dabbours-irth-pan-arab-partnership-1236852377/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/louis-garrel-moretti-method-acting-nanni-it-will-tonight-1236843635/) — *Variety*
 
-### 5. Lav Diaz Preps False Prophets Film and Jose Rizal’s ‘Noli Me Tangere’ Adaptation, Unpacks Venice Title ‘Let Us Through, Dear Ancestors’ (EXCLUSIVE)
+### 5. Liam and Noel Gallagher Skip Oasis Documentary Press Conference at Venice Film Festival
 
-[原文] Lav Diaz is developing a film about false prophets and a screen adaptation of José Rizal&#8217;s &#8220;Noli Me Tangere,&#8221; the Filipino auteur reveals, alongside details on &#8220;Let Us Through,
+[原文] In news that might not surprise anyone, Liam and Noel Gallagher skipped the Venice Film Festival press conference for their upcoming Disney+ documentary &#8220;Oasis: Don&#8217;t Look Back in Anger&#8
 
-📎 [阅读原文](https://variety.com/2026/film/festivals/lav-diaz-venice-film-ancestors-new-projects-1236851519/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/liam-noel-gallagher-skip-oasis-doc-press-conference-venice-1236852403/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. 14 Predictions for the September 2026 Nintendo Direct and Zelda 40th Anniversary Direct
+### 1. Tomb Raider: Legacy of Atlantis Could Be Great, But There's Some Things We Can't Ignore...
+
+[原文] Tomb Raider: Legacy of Atlantis shows massive potential, but controversial changes like skill trees and modern hand-holding threaten to frustrate fans. And some of that food looks very suspicious.
+
+📎 [阅读原文](https://www.ign.com/articles/tomb-raider-legacy-of-atlantis-impressions) — *IGN*
+
+### 2. 14 Predictions for the September 2026 Nintendo Direct and Zelda 40th Anniversary Direct
 
 [原文] IGN's Logan Plant shares 14 predictions for the pair of Nintendo Directs airing in the coming days.
 
 📎 [阅读原文](https://www.ign.com/articles/14-predictions-for-the-september-2026-nintendo-direct-and-zelda-40th-anniversary-direct) — *IGN*
 
-### 2. 'No One Puts Double Fine Out of Business Except for Me' — Tim Schafer Explains How He Kept Double Fine Afloat After Leaving Xbox
+### 3. 'No One Puts Double Fine Out of Business Except for Me' — Tim Schafer Explains How He Kept Double Fine Afloat After Leaving Xbox
 
 [原文] Tim Schafer, game designer and founder of Psychonauts developer Double Fine, gave a strong response after Xbox divested the studio as part of its massive restructuring efforts this summer.
 
 📎 [阅读原文](https://www.ign.com/articles/no-one-puts-double-fine-out-of-business-except-for-me-tim-schafer-explains-how-he-kept-double-fine-afloat-after-leaving-xbox) — *IGN*
 
-### 3. Wonder Woman Casting Rumors Heat Up as Fans Suspect James Gunn Secretly Picked Adria Arjona for the Role
+### 4. Wonder Woman Casting Rumors Heat Up as Fans Suspect James Gunn Secretly Picked Adria Arjona for the Role
 
 [原文] DC fans are convinced the DCU's Wonder Woman will be played by Adria Arjona after she posted a video of her workout routine ahead of Man of Tomorrow.
 
 📎 [阅读原文](https://www.ign.com/articles/wonder-woman-casting-rumors-heat-up-as-fans-suspect-james-gunn-secretly-picked-adria-arjona-for-the-role) — *IGN*
 
-### 4. gamescom Apologizes for Its Initial Response to Thefts, Promises Improved Security Measures
+### 5. gamescom Apologizes for Its Initial Response to Thefts, Promises Improved Security Measures
 
 [原文] gamescom has provided a second response regarding the theft of developers’ equipment during its event, offering an apology for its initial reaction to the ordeal.
 
 📎 [阅读原文](https://www.ign.com/articles/gamescom-apologizes-for-its-initial-response-to-thefts-promises-improved-security-measures) — *IGN*
-
-### 5. Halloween: The Game Review So Far
-
-[原文] So far this asymmetrical horror game is more trick than treat.
-
-📎 [阅读原文](https://www.ign.com/articles/halloween-the-game-review) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Gabriel Bortoleto Is ‘Willing to Sacrifice Everything’ to Achieve F1 Greatness. Anything Less Isn’t an Option
+### 1. Shaping Your Car Exhaust Like a Silly Straw Is Horrible for Performance, Dyno Proves
+
+[原文] This bizarre-looking design is actually a type of Tesla valve, which is typically used to control the flow of liquids—not exhaust gases. But somebody decided to give it a try anyway.
+The post Shaping 
+
+📎 [阅读原文](https://www.thedrive.com/news/shaping-your-car-exhaust-like-a-silly-straw-is-horrible-for-performance-dyno-proves) — *The Drive*
+
+### 2. This Groovy and Patriotic ‘Austin Powers’ Corvette Is Up for Grabs
+
+[原文] Featured in 1999's "The Spy Who Shagged Me," this 1965 convertible is a movie star and just a nice classic 'Vette.
+The post This Groovy and Patriotic ‘Austin Powers’ Corvette Is Up for Grabs appeared 
+
+📎 [阅读原文](https://www.thedrive.com/news/this-groovy-and-patriotic-austin-powers-corvette-is-up-for-grabs) — *The Drive*
+
+### 3. Gabriel Bortoleto Is ‘Willing to Sacrifice Everything’ to Achieve F1 Greatness. Anything Less Isn’t an Option
 
 [原文] The rising star of Audi's F1 team talks about idolizing Senna, the sacrifices his family made to get him here, and how to become mentally strong at just 21 years of age.
 The post Gabriel Bortoleto Is 
 
 📎 [阅读原文](https://www.thedrive.com/features/gabriel-bortoleto-is-willing-to-sacrifice-everything-to-achieve-f1-greatness-anything-less-isnt-an-option) — *The Drive*
 
-### 2. Tesla Cybercab Isn’t Just Missing a Steering Wheel. It Doesn’t Even Have Brake Lines
+### 4. Tesla Cybercab Isn’t Just Missing a Steering Wheel. It Doesn’t Even Have Brake Lines
 
 [原文] The Cybercab has a lot of wild features to make it cheaper to build and maintain—including some you can't see from the rider's seats.
 The post Tesla Cybercab Isn&#8217;t Just Missing a Steering Wheel.
 
 📎 [阅读原文](https://www.thedrive.com/news/tesla-cybercab-isnt-just-missing-a-steering-wheel-it-doesnt-even-have-brake-lines) — *The Drive*
 
-### 3. This Independent BMW Mechanic Built a Cooler Digital Dash Than BMW Itself
+### 5. This Independent BMW Mechanic Built a Cooler Digital Dash Than BMW Itself
 
 [原文] This digital gauge cluster for E28 and E30 Bimmers aims to bring modern convenience to old classics, without ditching the style fans want.
 The post This Independent BMW Mechanic Built a Cooler Digital
 
 📎 [阅读原文](https://www.thedrive.com/news/this-independent-bmw-mechanic-built-a-cooler-digital-dash-than-bmw-itself) — *The Drive*
-
-### 4. Jeep’s Best Path to a V8 Wagoneer Is Hiding In Plain Sight
-
-[原文] The Grand Wagoneer is powered by nostalgia ... and an inline-six. How about a smaller model with some bigger motors?
-The post Jeep&#8217;s Best Path to a V8 Wagoneer Is Hiding In Plain Sight appeared 
-
-📎 [阅读原文](https://www.thedrive.com/news/jeeps-best-path-to-a-v8-wagoneer-is-hiding-in-plain-sight) — *The Drive*
-
-### 5. In America, a Bull Bar Is a Look. In Australia, It’s Just Another Factory Option
-
-[原文] Front vehicle sensors and higher standards for pedestrian safety have mostly removed these options from American vehicles, but in kangaroo country, they're still a necessity.
-The post In America, a Bu
-
-📎 [阅读原文](https://www.thedrive.com/news/in-america-a-bull-bar-is-a-look-in-australia-its-just-another-factory-option) — *The Drive*
 
 ---
 
@@ -439,35 +439,35 @@ The post In America, a Bu
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Beyoncé Is Selling a Wooden Box to Get Your Beekeeper Dreams Off the Ground For $948
+### 1. Duane ‘Keffe D’ Davis Says ‘I’m Innocent’ in First Interview Since Tupac Murder Conviction
+
+[原文] "Man, they lied about me so much. I don’t even know where to begin. All those cops in there was lying like a motherfucker," Davis says of witness testimony
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/duane-keffe-d-davis-first-interview-tupac-murder-conviction-1235622106/) — *Rolling Stone*
+
+### 2. Beyoncé Is Selling a Wooden Box to Get Your Beekeeper Dreams Off the Ground For $948
 
 [原文] The "Bee Keeper Collector's Box" was released in a limited quantity of 500 for the anniversary of B'Day, but does not include any vinyl records from her catalog
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/beyonce-selling-limited-edition-wooden-box-1235621880/) — *Rolling Stone*
 
-### 2. Big Sean and Kanye West Reunite After Feud With Surprise Appearance in Chicago
+### 3. Big Sean and Kanye West Reunite After Feud With Surprise Appearance in Chicago
 
 [原文] Big Sean joined Kanye West at his Soldier Field homecoming concert to perform "Clique," "Mercy," and "I Don't Fuck With You"
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/big-sean-kanye-west-end-feud-surprise-performance-chicago-1235621691/) — *Rolling Stone*
 
-### 3. Judge Orders Competency Evaluation for Ex-Turnstile Guitarist in Attempted Murder Case
+### 4. Judge Orders Competency Evaluation for Ex-Turnstile Guitarist in Attempted Murder Case
 
 [原文] Brady Ebert is facing life in prison after his charges for intentionally driving his car into the father of Turnstile singer Brendan Yates were upgraded to attempted first-degree murder
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/turnstile-guitarist-ordered-competency-evaluation-1235621396/) — *Rolling Stone*
 
-### 4. Adéla Channels Her Inner Movie Star in ‘Nicole Kidman’ Music Video
+### 5. Adéla Channels Her Inner Movie Star in ‘Nicole Kidman’ Music Video
 
 [原文] The clip, directed by Hannah Lux Davis, references Eyes Wide Shut, Moulin Rouge, Birth, and Babygirl
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/adela-nicole-kidman-music-video-1235621284/) — *Rolling Stone*
-
-### 5. Blackpink’s Jisoo Finds the Romance on Solo Single ‘Click’
-
-[原文] The singer is gearing up to release her debut full-length album
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/blackpink-jisoo-click-single-1235621279/) — *Rolling Stone*
 
 ---
 
