@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月05日** | 生成时间: 2026-09-05 11:42
+**2026年09月05日** | 生成时间: 2026-09-05 18:14
 
 ---
 
@@ -34,17 +34,17 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. UN votes to adopt new world map to reflect Africa's true size
+### 4. Nepal rescuers try to reach dozens trapped in tunnel after two found alive
 
-[原文] The Togo-sponsored resolution was backed by 164 nations - with the US as the only nation to vote against it.
+[原文] More than 1,300 people have died and thousands are missing, but rescuers' hopes have risen after finding survivors in a tunnel.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c7903j1vpe5o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. At least two dead in blast at Bolivia military barracks
+### 5. Trump signs order to remove endangered species protection for grey wolves
 
-[原文] Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.
+[原文] The US president says the move will help ranchers, but conservationists say it could derail efforts to recover populations.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -66,23 +66,23 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/04/teslas-stock-drops-as-cybercab-update-underwhelms-nhtsa-probe.html) — *CNBC*
 
-### 3. Longtime Fox News host Maria Bartiromo disputes reports of termination
+### 3. From Trump’s takeover threats to a ‘northern neighborhood,’ why the EU chief is going to Greenland
+
+[原文] The visit comes as Trump renews his push for greater U.S. control of the self-governing Danish territory.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/05/eu-greenland-von-der-leyen-trump-arctic.html) — *CNBC*
+
+### 4. Longtime Fox News host Maria Bartiromo disputes reports of termination
 
 [原文] Maria Bartiromo, the longtime host of Fox News and Fox Business programming, has disputed reports she was fired from the cable TV networks.
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/04/maria-bartiromo-fox-news-termination.html) — *CNBC*
 
-### 4. World's biggest sovereign wealth fund plans to cut U.S. Treasury holdings
+### 5. World's biggest sovereign wealth fund plans to cut U.S. Treasury holdings
 
 [原文] Norway's $2.3 trillion investment fund says it can diversify into new areas with greater risk and returns.
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/04/worlds-biggest-sovereign-wealth-fund-plans-to-cut-treasury-holdings.html) — *CNBC*
-
-### 5. Trump says he will spend up to $500 million of 'my money' to help Republicans in midterms
-
-[原文] Trump's pledge would dramatically increase MAGA Inc.’s spending after the Trump-aligned PAC kept most of its $403 million war chest on the sidelines.
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/04/trump-maga-inc-500-million-republicans-midterm-elections.html) — *CNBC*
 
 ---
 
@@ -148,17 +148,17 @@
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260904000313.htm) — *Science Daily*
 
-### 4. Scientists reveal the hidden instructions that build the human brain
+### 4. Life uses 4 DNA letters. Scientists just made 8 work
+
+[原文] Researchers at UC San Diego have demonstrated that a key cellular enzyme can accurately read an eight-letter genetic alphabet, doubling the four letters used by all known life on Earth. Detailed imagi
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260904000310.htm) — *Science Daily*
+
+### 5. Scientists reveal the hidden instructions that build the human brain
 
 [原文] UCLA researchers have discovered two powerful influences that help guide how the human brain forms before birth. Radial glia, stem cells responsible for producing much of the cerebral cortex, change t
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260904000308.htm) — *Science Daily*
-
-### 5. NASA scientists discover a giant 10-sided pattern on Saturn
-
-[原文] A huge 10-sided atmospheric pattern has appeared around Saturn’s south pole, giving the planet a surprising counterpart to its famous northern hexagon. Hubble data suggest the strange decagon only beg
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260903064229.htm) — *Science Daily*
 
 ---
 
@@ -174,29 +174,29 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c209xvxe558o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Isak shines at last but Scherpen suffers - Ipswich v Liverpool player ratings
+### 2. 'Best bend I've ever run' - Hunt's strong season continues in Brussels
 
-[原文] How Liverpool and Ipswich Town's players rated following their Premier League match.
+[原文] Amy Hunt's strong late-season form showed no signs of letting up as she clocked a season's best to finish third in the 200m at the Diamond League final in Brussels.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c5y5g5vq00lo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/cwyzn491wldo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. How London City proved they can live up to the hype
+### 3. I've never spoken to Everton owner Friedkin - Moyes
 
-[原文] There was an expectation on London City Lionesses to live up to the hype and deliver in the Women's Super League's season opener - and they did.
+[原文] Everton manager David Moyes says he has never met or spoken to the club's owner Dan Friedkin.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/czxz1vnwgz6o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c4gl3wx8g64o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Isak's early double gives Liverpool victory over Ipswich
+### 4. Antonelli 'disrupting rules of fandom' in Ferrari's Italy
 
-[原文] Alexander Isak scores twice in the opening ten minutes as Liverpool pick up their first win of the season with a 2-0 victory at Ipswich.
+[原文] BBC Sport heads to Monza to find out if Italians want Kimi Antonelli to win the F1 title or if it is all about Ferrari.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cgmr1z492k9o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/cj03m124lp3o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. 'It's so strong' - Sabalenka halts play over cannabis smell
+### 5. No Brits left in US Open singles - but are there reasons to be positive?
 
-[原文] Aryna Sabalenka briefly halts her US Open match against Kamilla Rakhimova because of the smell of cannabis before going on to reach the fourth round.
+[原文] There will be no British interest in the second week of another Grand Slam at the US Open - but is it all doom and gloom?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/c4gm2607p0zo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cy4zvjk74ppo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘A Long Winter’ Review: Andrew Haigh’s Moody Drama, Set on a Farm in the Rockies in the Early ’50s,  Is a Sweeping Act of Cinematic Storytelling
+### 1. ‘The Liberation’ Review: Carrie Coon Is Breathtaking as a Woman Lured by a Cult in Guy Nattiv’s Deeply Personal Film
 
-[原文] Based on a novella by Colm Tóibín, it’s a movie austere enough to risk alienating its audience, yet if you get onto its wavelength you stay right there, inside the movie’s world.
+[原文] “You carry a lot of weight around, don’t you?” In Guy Nattiv’s observant, harrowing and unmistakably feminine “The Liberation,” this line marks the first time someone truly sees through fortysomething
 
-📎 [阅读原文](https://variety.com/2026/film/reviews/a-long-winter-review-andrew-haigh-1236850173/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/reviews/the-liberation-review-1236851030/) — *Variety*
 
-### 2. ‘Tender Loving Care’ Review: Mike Leigh’s Tale of Social Workers, Lonely Hearts and Dementia Should Have Been a Fuller Portrait
+### 2. Swiss Projects at the Venice Gap-Financing Market: Natural Disaster, Complicated Romance, Exploited Migrants, Murder Mystery in Montana
 
-[原文] Leigh doesn’t make any wrong moves here; just about every scene in the movie plays. Yet "Tender Loving Care" builds (or maybe I should say recedes) to something more schematic than it is powerful.
+[原文] Both well-established and up-and-coming Swiss filmmakers are taking part in the Venice Film Festival’s Production Bridge industry strand, where Switzerland will be one of the country’s in focus at the
 
-📎 [阅读原文](https://variety.com/2026/film/reviews/tender-loving-care-review-mike-leigh-1236851312/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/switzerland-venice-film-festival-gap-financing-market-1236841524/) — *Variety*
 
-### 3. Meet Topic, the Indie Studio Dominating the Festival Circuit With ‘The Debut,’ ‘Club Kid,’ ‘Wicker’
+### 3. Rubaiyat Hossain on Bodies, Beauty and Venice, Toronto and London-Bound ‘The Difficult Bride,’ Clip Unveiled (EXCLUSIVE)
 
-[原文] Movies developed and financed outside of the major studios and streamers have a massive hill to climb. It happens that Topic Studios, one such independent shop, has made it all the way up the Rockies 
+[原文] The idea for &#8220;The Difficult Bride&#8221; traces back to a story Rubaiyat Hossain heard as a 7 year old, visiting a Dhaka beauty parlor with her mother. &#8220;There was a bride who died there,&#
 
-📎 [阅读原文](https://variety.com/2026/film/news/topic-studios-indie-film-the-debut-club-kid-wicker-1236852204/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/rubaiyat-hossain-difficult-bride-1236851501/) — *Variety*
 
-### 4. Halloween Horror Nights Opens at Universal Studios Hollywood With ‘Sinners,’ ‘Stranger Things 5’ and a Blood-Soaked Nikki From ‘Obsession’
+### 4. Mad Solutions and Haitham Dabbour’s Irth Platform Announce Strategic Pan-Arab Content Partnership in Venice
 
-[原文] Halloween has officially arrived at Universal Studios Hollywood.&#160; Halloween Horror Nights opened Thursday at the theme park where screams of excitement turned to screams of fright. Guests rushed 
+[原文] Pan-Arab distributor Mad Solutions and Egyptian multihyphenate Haitham Dabbour&#8217;s Irth platform dedicated to supporting standout writers across the Arab world announced a strategic partnership on
 
-📎 [阅读原文](https://variety.com/2026/film/news/halloween-horror-nights-opena-universal-studios-hollywood-1236852215/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/mad-solutions-haitham-dabbours-irth-pan-arab-partnership-1236852377/) — *Variety*
 
-### 5. Jordan Firstman’s ‘Club Kid’ Hits Telluride, and Colleen Camp Could Be Its Secret Oscar Weapon
+### 5. Lav Diaz Preps False Prophets Film and Jose Rizal’s ‘Noli Me Tangere’ Adaptation, Unpacks Venice Title ‘Let Us Through, Dear Ancestors’ (EXCLUSIVE)
 
-[原文] Jordan Firstman is hoping to join an exclusive club: the Oscars. And he might have someone on his team that can help him do it. “Club Kid,” Firstman&#8217;s directorial debut, arrived in Cannes&#8217;
+[原文] Lav Diaz is developing a film about false prophets and a screen adaptation of José Rizal&#8217;s &#8220;Noli Me Tangere,&#8221; the Filipino auteur reveals, alongside details on &#8220;Let Us Through,
 
-📎 [阅读原文](https://variety.com/2026/film/awards/club-kid-jordan-firstman-colleen-camp-telluride-oscars-1236852164/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/lav-diaz-venice-film-ancestors-new-projects-1236851519/) — *Variety*
 
 ---
 
@@ -363,35 +363,35 @@ The post In America, a Bu
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. New Mexico Bans Uranium Leasing on State Lands
+### 1. As Extreme Weather Worsens, Black and Hispanic Homeowners Are Paying More for Insurance
+
+[原文] Homeowners in Hispanic and Black communities nationwide are paying a disproportionate share of skyrocketing home insurance costs, according to a recent report. The disparities leave communities of col
+
+📎 [阅读原文](https://insideclimatenews.org/news/05092026/black-and-hispanic-homeowners-pay-more-for-insurance/) — *Inside Climate News*
+
+### 2. Error in a Recent BLM Lease Sale Has Wyoming Residents Concerned Over New Oil and Gas Rules
+
+[原文] A mistake in the federal documents offering public land in Wyoming for oil and gas leases has Cowboy State residents and environmentalists questioning whether government agencies are prepared to handl
+
+📎 [阅读原文](https://insideclimatenews.org/news/05092026/wyoming-blm-oil-gas-lease-error/) — *Inside Climate News*
+
+### 3. New Mexico Bans Uranium Leasing on State Lands
 
 [原文] Officials in New Mexico, the nation’s largest historic producer of uranium ore, banned new leasing of state lands for uranium mining on Friday.&#160; State Land Commissioner Stephanie Garcia Richard s
 
 📎 [阅读原文](https://insideclimatenews.org/news/04092026/new-mexico-bans-uranium-leasing/) — *Inside Climate News*
 
-### 2. A Pipeline Giant That Spilled Jet Fuel in Pennsylvania Is Trying to Weaken a Clean Water Law
+### 4. A Pipeline Giant That Spilled Jet Fuel in Pennsylvania Is Trying to Weaken a Clean Water Law
 
 [原文] Energy Transfer, the Dallas-based pipeline giant facing a state-level criminal probe related to a jet fuel spill that polluted drinking water in a suburban Philadelphia neighborhood, is seeking to hav
 
 📎 [阅读原文](https://insideclimatenews.org/news/04092026/energy-transfer-tries-to-weaken-pennsylvania-clean-water-law/) — *Inside Climate News*
 
-### 3. Can Studying Heat Waves in Real Time Save Lives?
+### 5. Can Studying Heat Waves in Real Time Save Lives?
 
 [原文] The volume of patients in Dr. Robert Brewer’s upstate New York emergency room isn’t always predictable, but when there’s a heat wave, he knows he needs to staff up.&#160; Heat waves mean more dehydrat
 
 📎 [阅读原文](https://insideclimatenews.org/news/04092026/tracking-heat-in-real-time-could-help-doctors/) — *Inside Climate News*
-
-### 4. Underserved Communities Again Ask Courts to Restore Justice Grant Funding
-
-[原文] Plaintiffs are continuing to press the Trump administration in federal court to restore $3 billion in grant funding for environmental and climate justice programs that would benefit underserved commun
-
-📎 [阅读原文](https://insideclimatenews.org/news/04092026/communities-sue-again-over-termination-of-environmental-justice-grants/) — *Inside Climate News*
-
-### 5. Farmed Salmon May Not Be as Nutritious as It Once Was, New Research Suggests
-
-[原文] Eat more fatty fish. That dietary advice has changed the way the world consumes salmon, pushing consumer demand ever upward and production to higher and higher levels. Most of that demand is being met
-
-📎 [阅读原文](https://insideclimatenews.org/news/04092026/farmed-salmon-losing-healthy-fatty-acids/) — *Inside Climate News*
 
 ---
 
@@ -528,7 +528,6 @@ The post In America, a Bu
 ## ⚠️ 今日故障源
 
 - **🚗 汽车**: Autocar
-- **✈️ 旅游**: Nomadic Matt
 
 ---
 
