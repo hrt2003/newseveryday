@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月06日** | 生成时间: 2026-09-06 04:06
+**2026年09月06日** | 生成时间: 2026-09-06 11:44
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. US envoys meet Putin in Moscow for Ukraine talks
+### 1. US envoys set for Ukraine talks after meeting Putin in Moscow
 
-[原文] Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation "is not so easy".
+[原文] Steve Witkoff and Jared Kushner leave Moscow talks with hopes for "equally productive meetings" in Ukraine.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. US hits three Iranian oil tankers after saying its warships were targeted
+### 2. US and Iran trade retaliatory attacks on ships as conflict flares
 
-[原文] The strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.
+[原文] The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Mistrial declared in Lindsay Clancy murder case, after jury deadlocks
+### 3. TV presenter among 11 sentenced to death in Egypt drugs case
 
-[原文] The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.
+[原文] Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. At least two dead in blast at Bolivia military barracks
+### 4. Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home
 
-[原文] Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.
+[原文] Chandika Shrestha was airlifted to hospital after spending more than 10 days in her partially buried house.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. What different world maps get right - and what they get wrong
+### 5. Prince William to attend King Harald's funeral in Norway
 
-[原文] As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong.
+[原文] The Prince of Wales will represent the King at the funeral of Harald V in Oslo next week.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cp301rw6kvro?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Hikers rescued after using Google Gemini for planning
+### 1. Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft
+
+[原文] Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/) — *TechCrunch*
+
+### 2. Hikers rescued after using Google Gemini for planning
 
 [原文] The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required."
 
 📎 [阅读原文](https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/) — *TechCrunch*
 
-### 2. OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure
+### 3. OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure
 
 [原文] OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/) — *TechCrunch*
 
-### 3. Clucky’s new alarm app wakes you up with a crowing rooster
+### 4. Clucky’s new alarm app wakes you up with a crowing rooster
 
 [原文] Clucky's new alarm app has an option where users are woken up to the sound of a rooster. They then complete a mission to turn it off.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/) — *TechCrunch*
 
-### 4. Oura is going public, but these smart ring companies are coming for its crown
+### 5. Oura is going public, but these smart ring companies are coming for its crown
 
 [原文] While Oura has largely dominated the smart ring market for years, a growing number of rivals are now racing to dethrone it by trying all sorts of approaches to get an edge over it.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/) — *TechCrunch*
-
-### 5. XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation
-
-[原文] The round is being raised just months after the robot data startup exited from stealth.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/) — *TechCrunch*
 
 ---
 
@@ -130,35 +130,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. A longer exhale may push your brain toward bolder decisions
+### 1. A mysterious signal around Earth could be dark matter
+
+[原文] Scientists used Earth’s magnetic field and atmosphere as a planet-sized detector to search for some of the lightest proposed forms of dark matter. The approach dramatically improved limits on ultralig
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260904000328.htm) — *Science Daily*
+
+### 2. A longer exhale may push your brain toward bolder decisions
 
 [原文] Slow breathing with a prolonged exhale made people more willing to take risks by changing heart activity and increasing the brain’s sensitivity to rewards. The findings suggest that something as simpl
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260904000320.htm) — *Science Daily*
 
-### 2. Giant Greenland iceberg slams into Joe Island and survives
+### 3. Giant Greenland iceberg slams into Joe Island and survives
 
 [原文] A giant iceberg measuring more than 76 square kilometers broke from Greenland’s Petermann Glacier in August 2026, marking the Arctic’s largest glacier calving event since 2020. The berg later slammed 
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260904000316.htm) — *Science Daily*
 
-### 3. Dark matter detector finds a strange signal scientists can’t yet explain
+### 4. Dark matter detector finds a strange signal scientists can’t yet explain
 
 [原文] The LUX-ZEPLIN experiment has detected a rare particle interaction that looks unusually difficult to explain as ordinary background noise and appeared where dark matter might be expected. Scientists a
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260904000313.htm) — *Science Daily*
 
-### 4. Life uses 4 DNA letters. Scientists just made 8 work
+### 5. Life uses 4 DNA letters. Scientists just made 8 work
 
 [原文] Researchers at UC San Diego have demonstrated that a key cellular enzyme can accurately read an eight-letter genetic alphabet, doubling the four letters used by all known life on Earth. Detailed imagi
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260904000310.htm) — *Science Daily*
-
-### 5. Scientists reveal the hidden instructions that build the human brain
-
-[原文] UCLA researchers have discovered two powerful influences that help guide how the human brain forms before birth. Radial glia, stem cells responsible for producing much of the cerebral cortex, change t
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260904000308.htm) — *Science Daily*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Original ‘Practical Magic’ Star Alexandra Artrip Addresses ‘Negativity’ Over Recasting in Sequel: They ‘Did What They Thought Was Best to Be Successful’
+### 1. ‘The Debut’ Review: Julianne Moore Is Astonishing in Jesse Eisenberg’s Funny and Dizzying Community-Theater Comedy
 
-[原文] Alexandra Artrip, who played the youngest daughter of Sandra Bullock&#8217;s character Sally Owens in 1998&#8217;s &#8220;Practical Magic,&#8221; has weighed in on the sequel&#8217;s decision to recas
+[原文] What holds it together is the suppleness of Eisenberg’s voice as a writer-director (the wit that singes, the story that never stops poking around corners), and the utterly astonishing performance of J
 
-📎 [阅读原文](https://variety.com/2026/film/news/practical-magic-2-recasting-alexandra-artrip-1236852818/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/reviews/the-debut-review-julianne-moore-jesse-eisenberg-1236852779/) — *Variety*
 
-### 2. Mandy Moore on Hilary Duff’s Musical Comeback and Playing an ‘Absolute Bitch’ in Dan Fogelman’s NFL Family Drama ‘The Land’: It’s ‘”Friday Night Lights” and “Succession” All Rolled Into One’
+### 2. Bad Bunny Wins Emmy for Super Bowl Halftime Show
 
-[原文] Mandy Moore knows how to travel with her kids. She hands them a tablet for some screen time. Not that the children have carte blanche on what they could watch. Instead, Moore uses ABCmouse, a childhoo
+[原文] Bad Bunny has won his first Emmy for the Super Bowl Halftime Show. He won in the outstanding variety special (live) category. “The Apple Music Super Bowl LX Halftime Show Starring Bad Bunny” took home
 
-📎 [阅读原文](https://variety.com/2026/tv/columns/mandy-moore-hilary-duff-dan-fogelman-hulu-series-the-land-1236851086/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/artisans/awards/bad-bunny-emmy-super-bowl-halftime-show-1236849643/) — *Variety*
 
-### 3. Telluride Toasts Andrew Haigh as ‘A Long Winter’ Hands Fred Hechinger and Caitríona Balfe Awards-Worthy Roles
+### 3. ‘Elsinore’ Revisits Daniel Day-Lewis’ Infamous Walk-Off During ’80s ‘Hamlet’ Production
 
-[原文] Andrew Haigh has built a career watching people at the precise moment their lives come apart — and finding, in the wreckage, something close to grace. At the 53rd Telluride Film Festival, the British 
+[原文] Audiences got the first glimpse at a triumphant and career-defining performance from Andrew Scott in “Elsinore” this weekend, but the Telluride player also delivers another important gift: legendary s
 
-📎 [阅读原文](https://variety.com/2026/film/awards/andrew-haigh-a-long-winter-telluride-oscars-1236852682/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/elsinore-andrew-scott-daniel-day-lewis-hamlet-1236853006/) — *Variety*
 
-### 4. Kid Cudi Defends Kanye West After Ending Feud: Kanye ‘Apologized and It Was Sincere’ After Antisemitic Outbursts
+### 4. ‘The Debut’ Explodes at Telluride With Julianne Moore’s Gonzo, Career-Best Turn, Thanks to a Toolbelt, Unlit Cigarettes and a Faux Musical
 
-[原文] After feuding for the past few years, Kanye West and Kid Cudi have made up and reunited during West&#8217;s Chicago concert on Friday night. West performed the past two nights in his hometown of Chica
+[原文] Jesse Eisenberg has made his most significant debut to date. There is a delicious irony at the center of “The Debut,” Eisenberg&#8217;s third feature as a director, which world premiered at the Tellur
 
-📎 [阅读原文](https://variety.com/2026/music/news/kid-cudi-kanye-west-end-feud-antisemitic-1236852747/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/awards/the-debut-julianne-moore-telluride-oscars-paul-giamatti-1236852947/) — *Variety*
 
-### 5. ‘Evil Dead’ Star Bruce Campbell Says He Has 5 Years to Live After Incurable Cancer Diagnosis: I’m ‘Dying’ but ‘I’m Moving On’
+### 5. Bad Bunny ‘Super Bowl Halftime Show,’ ‘Muppets’ and ‘Traitors’ Win Night 1 Creative Arts Emmy Awards
 
-[原文] &#8220;Evil Dead&#8221; star Bruce Campbell is opening up about his battle with cancer, revealing that he&#8217;s been given about five years to live. Back in March, Campbell revealed he had been diag
+[原文] Bad Bunny’s “Super Bowl Halftime Show” and “The Traitors” dominated night one of the Creative Arts Emmys with seven and six wins, respectively. &#160;&#160;&#160;Comedian Wanda Sykes provided opening 
 
-📎 [阅读原文](https://variety.com/2026/film/news/bruce-campbell-cancer-5-years-live-1236852722/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/artisans/news/creative-arts-emmy-awards-winners-list-night-one-1236849746/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Batman Part 2 Set Photos Hint at Arkham-Style Batsuit Upgrade
+### 1. How to Watch the September 2026 Nintendo Direct and Zelda 40th Anniversary Direct
 
-[原文] New set photos from The Batman Part II reveal a closer look at Robert Pattinson’s updated Batsuit, drawing comparisons to the iconic Arkham game design.
+[原文] Nintendo is going big this September with two Nintendo Direct showcases airing on back-to-back days. Here's everything you need to know.
 
-📎 [阅读原文](https://www.ign.com/articles/the-batman-part-2-set-photos-arkham-suit-upgrade) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/how-to-watch-the-september-2026-nintendo-direct-and-zelda-40th-anniversary-direct) — *IGN*
 
-### 2. How to Navigate Rebecca Yarros' Popular Fourth Wing Book Series
+### 2. Left 4 Dead 2 Dev Admits Valve Intentionally Leaked Its Own Trailer After the ESRB Blocked It from Release
 
-暂无摘要。
+[原文] Former Valve writer Chet Faliszek has a confession to make: Valve intentionally leaked its own Left 4 Dead 2 trailer.
 
-📎 [阅读原文](https://www.ign.com/articles/fourth-wing-books-in-order-empyrean-series-timeline) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/left-4-dead-2-dev-admits-valve-intentionally-leaked-its-own-trailer-after-the-esrb-blocked-it-from-release) — *IGN*
 
-### 3. Bruce Campbell Says He Has 5 Years Left to Live Amid Cancer Battle
+### 3. Insomniac Clears the Air After Marvel's Wolverine Fans Confuse Lady Deathstrike for Psylocke
 
-[原文] Evil Dead star Bruce Campbell said he has just five years left to live amid his ongoing battle with cancer.
+[原文] Insomniac Games has cleared the air after a new trailer for Marvel's Wolverine had fans confusing Lady Deathstrike for Psylocke.
 
-📎 [阅读原文](https://www.ign.com/articles/bruce-campbell-says-he-has-5-years-left-to-live-amid-cancer-battle) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/insomniac-clears-the-air-after-marvels-wolverine-fans-confuse-lady-deathstrike-for-psylocke) — *IGN*
 
-### 4. The Best Deals Today: Nintendo Switch 2 Consoles, Granblue Fantasy: Relink, Fire Emblem: Fortune's Weave, and More
+### 4. Zach Cregger Says He's Done With Franchise Films After Resident Evil
 
-暂无摘要。
+[原文] Resident Evil movie director Zach Cregger is days away from his survival horror adaptation's theatrical premiere, but don't expect him to help bring another franchise film to the big screen ever again
 
-📎 [阅读原文](https://www.ign.com/articles/best-deals-for-september-5-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/zach-cregger-says-hes-done-with-franchise-films-after-resident-evil) — *IGN*
 
-### 5. Asus ROG Swift OLED PG27UCWM Review
+### 5. Primetime Review
 
-[原文] The Asus ROG Swift OLED PG27UCWM offers a gorgeous display that works as well for cinematic games as it does for competitive, fast-paced ones.
+[原文] A blast from the past with a sickly allure, the Robert Pattinson romp Primetime is as garish as its subject: Chris Hansen’s To Catch a Predator.
 
-📎 [阅读原文](https://www.ign.com/articles/asus-rog-swift-oled-pg27ucwm-review) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/primetime-movie-review) — *IGN*
 
 ---
 
@@ -439,35 +439,35 @@ The post Tesla Cybercab Isn&#8217;t Just Missing a Steering Wheel.
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Phoebe Bridgers Talks ‘Super Intimidating’ Acting Debut at ‘Primetime’ Venice Premiere
+### 1. Taylor Swift Says She Tried to Channel Randy Newman on ‘I Knew It, I Knew You’
+
+[原文] The singer-songwriter discussed her Toy Story 5 song in rare appearance across three country radio stations
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/taylor-swift-randy-newman-toy-story-song-1235621007/) — *Rolling Stone*
+
+### 2. Phoebe Bridgers Talks ‘Super Intimidating’ Acting Debut at ‘Primetime’ Venice Premiere
 
 [原文] “She’s unbelievable,” Robert Pattinson said of his musician co-star. "Even on the first day, she was so relaxed"
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/phoebe-bridgers-talks-acting-debut-primetime-venice-premiere-1235622112/) — *Rolling Stone*
 
-### 2. Duane ‘Keffe D’ Davis Says ‘I’m Innocent’ in First Interview Since Tupac Murder Conviction
+### 3. Duane ‘Keffe D’ Davis Says ‘I’m Innocent’ in First Interview Since Tupac Murder Conviction
 
 [原文] "Man, they lied about me so much. I don’t even know where to begin. All those cops in there was lying like a motherfucker," Davis says of witness testimony
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/duane-keffe-d-davis-first-interview-tupac-murder-conviction-1235622106/) — *Rolling Stone*
 
-### 3. Beyoncé Is Selling a Wooden Box to Get Your Beekeeper Dreams Off the Ground For $948
+### 4. Beyoncé Is Selling a Wooden Box to Get Your Beekeeper Dreams Off the Ground For $948
 
 [原文] The "Bee Keeper Collector's Box" was released in a limited quantity of 500 for the anniversary of B'Day, but does not include any vinyl records from her catalog
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/beyonce-selling-limited-edition-wooden-box-1235621880/) — *Rolling Stone*
 
-### 4. Big Sean and Kanye West Reunite After Feud With Surprise Appearance in Chicago
+### 5. Big Sean and Kanye West Reunite After Feud With Surprise Appearance in Chicago
 
 [原文] Big Sean joined Kanye West at his Soldier Field homecoming concert to perform "Clique," "Mercy," and "I Don't Fuck With You"
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/big-sean-kanye-west-end-feud-surprise-performance-chicago-1235621691/) — *Rolling Stone*
-
-### 5. Judge Orders Competency Evaluation for Ex-Turnstile Guitarist in Attempted Murder Case
-
-[原文] Brady Ebert is facing life in prison after his charges for intentionally driving his car into the father of Turnstile singer Brendan Yates were upgraded to attempted first-degree murder
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/turnstile-guitarist-ordered-competency-evaluation-1235621396/) — *Rolling Stone*
 
 ---
 
