@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月06日** | 生成时间: 2026-09-06 11:44
+**2026年09月06日** | 生成时间: 2026-09-06 18:35
 
 ---
 
@@ -16,9 +16,9 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. US envoys set for Ukraine talks after meeting Putin in Moscow
+### 1. US envoys set for Ukraine talks after meeting Putin in Russia
 
-[原文] Steve Witkoff and Jared Kushner leave Moscow talks with hopes for "equally productive meetings" in Ukraine.
+[原文] It will be the first trip by Steve Witkoff and Jared Kushner, Trump's top negotiators, to Kyiv.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss) — *BBC World*
 
@@ -28,23 +28,23 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. TV presenter among 11 sentenced to death in Egypt drugs case
+### 3. TV presenter among 12 sentenced to death in Egypt drugs case
 
 [原文] Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home
+### 4. Volcano eruption leaves 150,000 passengers stranded in Indonesia
+
+[原文] More than 150,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home
 
 [原文] Chandika Shrestha was airlifted to hospital after spending more than 10 days in her partially buried house.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Prince William to attend King Harald's funeral in Norway
-
-[原文] The Prince of Wales will represent the King at the funeral of Harald V in Oslo next week.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cp301rw6kvro?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump turns up the heat on Warsh as Fed rate hike looms
+### 1. This enhanced geothermal project aims to unlock gigawatts of power to fuel the data center boom
+
+[原文] Power demand in the U.S. is rising. Fervo Energy bets that its project in Utah will prove that enhanced geothermal can be part of the power mix going forward.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/05/fervo-energys-enhanced-geothermal-project-aims-to-power-data-center-boom.html) — *CNBC*
+
+### 2. Trump turns up the heat on Warsh as Fed rate hike looms
 
 [原文] Ten days ahead of the next Federal Reserve meeting, the Trump administration looks to be in a full-court press to halt a rate hike in its tracks.
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html) — *CNBC*
 
-### 2. Trump’s state capitalism comes to the oil industry with his unprecedented Venezuela deal
+### 3. Trump’s state capitalism comes to the oil industry with his unprecedented Venezuela deal
 
 [原文] The deal comes eight months after Washington ousted former President Nicolás Maduro in a military raid.
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/05/trump-venezuela-oil-north-america-blue-energy-partners-nabep.html) — *CNBC*
 
-### 3. LeBron James teases partnership with Polymarket
+### 4. LeBron James teases partnership with Polymarket
 
 [原文] LeBron James on Saturday teased an upcoming partnership with the prediction markets platform Polymarket in a social media post.
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/05/lebron-james-polymarket-partnership.html) — *CNBC*
 
-### 4. U.S. attacks 3 Iranian oil tankers after missiles target Navy warships
+### 5. U.S. attacks 3 Iranian oil tankers after missiles target Navy warships
 
 [原文] Three Iranian crude oil carriers were hit by U.S. forces on Saturday near Iran's key oil export hub, Kharg Island, in the Gulf, U.S. Central Command reported.
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/05/us-iran-oil-tankers-navy-missile-attack.html) — *CNBC*
-
-### 5. Meet the CISO: A new front line star in the AI cybersecurity war
-
-[原文] The OpenAI-Hugging Face agent hack sent shockwaves through the business world and helped put the chief information security officer into the spotlight.
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/05/ai-cybersecurity-ciso-executive.html) — *CNBC*
 
 ---
 
@@ -142,23 +142,23 @@
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260904000320.htm) — *Science Daily*
 
-### 3. Giant Greenland iceberg slams into Joe Island and survives
+### 3. Indonesia’s most dangerous fires are burning underground
+
+[原文] Indonesia’s dangerous peat fires are surging early in the 2026 fire season as a strengthening El Niño and severe drought dry out wetlands that can burn underground for months. These slow smoldering fi
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260904000318.htm) — *Science Daily*
+
+### 4. Giant Greenland iceberg slams into Joe Island and survives
 
 [原文] A giant iceberg measuring more than 76 square kilometers broke from Greenland’s Petermann Glacier in August 2026, marking the Arctic’s largest glacier calving event since 2020. The berg later slammed 
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260904000316.htm) — *Science Daily*
 
-### 4. Dark matter detector finds a strange signal scientists can’t yet explain
+### 5. Dark matter detector finds a strange signal scientists can’t yet explain
 
 [原文] The LUX-ZEPLIN experiment has detected a rare particle interaction that looks unusually difficult to explain as ordinary background noise and appeared where dark matter might be expected. Scientists a
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260904000313.htm) — *Science Daily*
-
-### 5. Life uses 4 DNA letters. Scientists just made 8 work
-
-[原文] Researchers at UC San Diego have demonstrated that a key cellular enzyme can accurately read an eight-letter genetic alphabet, doubling the four letters used by all known life on Earth. Detailed imagi
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260904000310.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Haaland header maintains perfect winning start for Man City
+### 1. Taylor's place among greats set in stone after extraordinary swansong
 
-[原文] Manchester City highlighted their early season credentials by maintaining their 100% winning record after three Premier League games, but had to cling on to leave newly promoted Coventry still searchi
+[原文] Fairytale endings in boxing are a rarity, but Irish icon Katie Taylor sails off into the sunset after the most perfect of farewells at Dublin's towering Croke Park.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cx2zg0zl0nyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/articles/c5yjr8pp0jwo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Chilwell scores on Palace return in victory at Fulham
+### 2. Hunt 'not afraid of anyone' after second podium in two days
 
-[原文] Ben Chilwell scored on his Crystal Palace return as the Eagles came from behind twice to earn a 3-2 win at Fulham.
+[原文] Amy Hunt says she is "on the up" and "not afraid of anyone" after finishing second in the 100m at the Diamond League final in Brussels.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cg59dgn7jm9o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/cgk5drzm54xo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Forest and Spurs remain winless after disallowed goal drama in draw
+### 3. Arsenal had more than 20 players on shortlist to capitalise on title win
 
-[原文] Tottenham are still waiting for their first Premier League win of the season after a scrappy draw at Nottingham Forest.
+[原文] Senior football correspondent Sami Mokbel goes inside Arsenal's bid to capitalise on their Premier League title and strengthen their squad this summer.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/c4g589gkdepo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cz7z09v9pp1o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Ramsey strikes late as Newcastle salvage Bournemouth draw
+### 4. Zheng goes from 5-0 and match point down to victory
 
-[原文] Newcastle fought back from 2-0 down to earn a hard-fought Premier League point at home to Bournemouth thanks to Jacob Ramsey's 88th minute equaliser.
+[原文] Zheng Qinwen fights back from 5-0 down in the deciding set and stares down match point to stun American 22nd seed Madison Keys.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cvgye9zy419o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/c3eq55xznvyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Late Vuskovic header rescues point for Brighton against Leeds
+### 5. 'Not Football Manager' - De Zerbi says misfiring Spurs need time
 
-[原文] Leeds were denied a first Premier League win at American Express Stadium as Brighton came from behind to earn a share of the spoils.
+[原文] Tottenham have failed to score in their opening three Premier League games and manager Roberto de Zerbi says it will take time to build his expensive squad into a team.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/c9w4px54j7yo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c2e03wdw47jo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘The Debut’ Review: Julianne Moore Is Astonishing in Jesse Eisenberg’s Funny and Dizzying Community-Theater Comedy
+### 1. French President Emmanuel Macron Calls for a ‘New Multilateralism’ Across Creative Industries: ‘We Built a Civilization of Images. We Should Not Resign Ourselves to Watching It Deteriorate’
 
-[原文] What holds it together is the suppleness of Eisenberg’s voice as a writer-director (the wit that singes, the story that never stops poking around corners), and the utterly astonishing performance of J
+[原文] In 1895, the first public film screening happened. It was in the basement of the Grand Café, nearby the Paris Opera, with a program of 10 short movies, each no more than 50 seconds long. Cinema was bo
 
-📎 [阅读原文](https://variety.com/2026/film/reviews/the-debut-review-julianne-moore-jesse-eisenberg-1236852779/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/biz/opinion/french-president-emmanuel-macron-op-ed-future-creative-industries-1236852793/) — *Variety*
 
-### 2. Bad Bunny Wins Emmy for Super Bowl Halftime Show
+### 2. Are Russian Filmmakers Finally Coming in From the Cold?
 
-[原文] Bad Bunny has won his first Emmy for the Super Bowl Halftime Show. He won in the outstanding variety special (live) category. “The Apple Music Super Bowl LX Halftime Show Starring Bad Bunny” took home
+[原文] The Venice Film Festival found itself under fire in the weeks leading up to opening night over the inclusion of “DAU,” by Russian filmmaker Ilya Khrzhanovsky, in the main competition of its 83rd editi
 
-📎 [阅读原文](https://variety.com/2026/artisans/awards/bad-bunny-emmy-super-bowl-halftime-show-1236849643/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/russian-filmmakers-dau-venice-film-festival-1236845801/) — *Variety*
 
-### 3. ‘Elsinore’ Revisits Daniel Day-Lewis’ Infamous Walk-Off During ’80s ‘Hamlet’ Production
+### 3. Groundbreaking Roma Director Alina Șerban on ‘Pain,’ ‘Joy,’ of Historic, Venice-Bound ‘I Matter’: ‘I Managed to Do Something Impossible’
 
-[原文] Audiences got the first glimpse at a triumphant and career-defining performance from Andrew Scott in “Elsinore” this weekend, but the Telluride player also delivers another important gift: legendary s
+[原文] Roma filmmaker Alina Șerban broke barriers long before she set foot on the red carpet this week at the Venice Film Festival, where her feature-length directorial debut, “I Matter,” world premieres in 
 
-📎 [阅读原文](https://variety.com/2026/film/news/elsinore-andrew-scott-daniel-day-lewis-hamlet-1236853006/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/roma-alina-serban-venice-i-matter-1236847100/) — *Variety*
 
-### 4. ‘The Debut’ Explodes at Telluride With Julianne Moore’s Gonzo, Career-Best Turn, Thanks to a Toolbelt, Unlit Cigarettes and a Faux Musical
+### 4. Moonfish’ Director and Stars Lucy Liu and Morgan Spector Break Down Their Black-and-White Animated Film About Isolated Astronauts And Why It’s an Allegory for ‘The Current Human Condition’
 
-[原文] Jesse Eisenberg has made his most significant debut to date. There is a delicious irony at the center of “The Debut,” Eisenberg&#8217;s third feature as a director, which world premiered at the Tellur
+[原文] For Lucy Liu, who has voiced memorable characters in everything from “Kung Fu Panda” to “Strange World,” being part of the independently made, black-and-white animated film “Moonfish” was all about le
 
-📎 [阅读原文](https://variety.com/2026/film/awards/the-debut-julianne-moore-telluride-oscars-paul-giamatti-1236852947/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/moonfish-lucy-liu-morgan-spector-1236852534/) — *Variety*
 
-### 5. Bad Bunny ‘Super Bowl Halftime Show,’ ‘Muppets’ and ‘Traitors’ Win Night 1 Creative Arts Emmy Awards
+### 5. Dev Benegal’s Judith Blum Reddy Doc ‘Everything Is Not OK’ Acquired by Watermelon Pictures, Annemarie Jacir Aboard as EP (EXCLUSIVE)
 
-[原文] Bad Bunny’s “Super Bowl Halftime Show” and “The Traitors” dominated night one of the Creative Arts Emmys with seven and six wins, respectively. &#160;&#160;&#160;Comedian Wanda Sykes provided opening 
+[原文] Watermelon Pictures has acquired &#8220;Everything Is Not OK,&#8221; a documentary from director Dev Benegal chronicling the life of artist Judith Blum Reddy. The film will stream exclusively on Water
 
-📎 [阅读原文](https://variety.com/2026/artisans/news/creative-arts-emmy-awards-winners-list-night-one-1236849746/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/judith-blum-reddy-doc-everything-is-not-ok-watermelon-pictures-1236852495/) — *Variety*
 
 ---
 
@@ -363,35 +363,35 @@ The post Tesla Cybercab Isn&#8217;t Just Missing a Steering Wheel.
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. As Extreme Weather Worsens, Black and Hispanic Homeowners Are Paying More for Insurance
+### 1. Farmers Are Going Broke Amid Rising Gas Prices, While the Ag Secretary Profits Off Them
+
+[原文] As farmers grapple with soaring diesel and fertilizer prices and the Department of Agriculture yanks support for cheaper, renewable forms of energy, the agency’s chief, Brooke Rollins, is carrying mil
+
+📎 [阅读原文](https://insideclimatenews.org/news/06092026/agriculture-secretary-brooke-rollins-profits-off-rising-gas-prices/) — *Inside Climate News*
+
+### 2. Elevated Levels of Lead Surround Local Oregon Airports
+
+[原文] For years health officials have held that there is no safe level of lead exposure for humans. Even low levels can cause irreversible cognitive decline in children. Yet despite the risk, leaded aviatio
+
+📎 [阅读原文](https://insideclimatenews.org/news/06092026/oregon-small-airports-lead-risk/) — *Inside Climate News*
+
+### 3. As Extreme Weather Worsens, Black and Hispanic Homeowners Are Paying More for Insurance
 
 [原文] Homeowners in Hispanic and Black communities nationwide are paying a disproportionate share of skyrocketing home insurance costs, according to a recent report. The disparities leave communities of col
 
 📎 [阅读原文](https://insideclimatenews.org/news/05092026/black-and-hispanic-homeowners-pay-more-for-insurance/) — *Inside Climate News*
 
-### 2. Error in a Recent BLM Lease Sale Has Wyoming Residents Concerned Over New Oil and Gas Rules
+### 4. Error in a Recent BLM Lease Sale Has Wyoming Residents Concerned Over New Oil and Gas Rules
 
 [原文] A mistake in the federal documents offering public land in Wyoming for oil and gas leases has Cowboy State residents and environmentalists questioning whether government agencies are prepared to handl
 
 📎 [阅读原文](https://insideclimatenews.org/news/05092026/wyoming-blm-oil-gas-lease-error/) — *Inside Climate News*
 
-### 3. New Mexico Bans Uranium Leasing on State Lands
+### 5. New Mexico Bans Uranium Leasing on State Lands
 
 [原文] Officials in New Mexico, the nation’s largest historic producer of uranium ore, banned new leasing of state lands for uranium mining on Friday.&#160; State Land Commissioner Stephanie Garcia Richard s
 
 📎 [阅读原文](https://insideclimatenews.org/news/04092026/new-mexico-bans-uranium-leasing/) — *Inside Climate News*
-
-### 4. A Pipeline Giant That Spilled Jet Fuel in Pennsylvania Is Trying to Weaken a Clean Water Law
-
-[原文] Energy Transfer, the Dallas-based pipeline giant facing a state-level criminal probe related to a jet fuel spill that polluted drinking water in a suburban Philadelphia neighborhood, is seeking to hav
-
-📎 [阅读原文](https://insideclimatenews.org/news/04092026/energy-transfer-tries-to-weaken-pennsylvania-clean-water-law/) — *Inside Climate News*
-
-### 5. Can Studying Heat Waves in Real Time Save Lives?
-
-[原文] The volume of patients in Dr. Robert Brewer’s upstate New York emergency room isn’t always predictable, but when there’s a heat wave, he knows he needs to staff up.&#160; Heat waves mean more dehydrat
-
-📎 [阅读原文](https://insideclimatenews.org/news/04092026/tracking-heat-in-real-time-could-help-doctors/) — *Inside Climate News*
 
 ---
 
