@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月06日** | 生成时间: 2026-09-06 18:35
+**2026年09月06日** | 生成时间: 2026-09-06 23:11
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. US envoys set for Ukraine talks after meeting Putin in Russia
+### 1. US envoys meet Zelensky in Ukraine after talks with Putin in Russia
 
-[原文] It will be the first trip by Steve Witkoff and Jared Kushner, Trump's top negotiators, to Kyiv.
+[原文] Steve Witkoff and Jared Kushner are holding talks in Kyiv, in their first visit to Ukraine since Russia's full-scale invasion.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. US and Iran trade retaliatory attacks on ships as conflict flares
-
-[原文] The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 3. TV presenter among 12 sentenced to death in Egypt drugs case
-
-[原文] Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Volcano eruption leaves 150,000 passengers stranded in Indonesia
+### 2. Volcano eruption leaves 150,000 passengers stranded in Indonesia
 
 [原文] More than 150,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home
+### 3. Dozens feared trapped in collapsed building in Delhi
 
-[原文] Chandika Shrestha was airlifted to hospital after spending more than 10 days in her partially buried house.
+[原文] As many as 50 people are thought to have been inside the five-storey hostel when it came down.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. TV presenter among 12 sentenced to death in Egypt drugs case
+
+[原文] Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. US and Iran trade retaliatory attacks on ships as conflict flares
+
+[原文] The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. This enhanced geothermal project aims to unlock gigawatts of power to fuel the data center boom
+### 1. ‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace
 
-[原文] Power demand in the U.S. is rising. Fervo Energy bets that its project in Utah will prove that enhanced geothermal can be part of the power mix going forward.
+[原文] Anthropic, OpenAI, Meta and Google all released model updates this week, while Nvidia said it's acquiring open-source AI platform Hugging Face.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/05/fervo-energys-enhanced-geothermal-project-aims-to-power-data-center-boom.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html) — *CNBC*
 
-### 2. Trump turns up the heat on Warsh as Fed rate hike looms
+### 2. Iran warns of ‘more painful’ response to U.S. attacks as economic pressure mounts
+
+[原文] Iran warned of faster, heavier retaliation against U.S. attacks while acknowledging the war’s mounting toll on its economy.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/06/iran-us-response-oil-tanker-strikes.html) — *CNBC*
+
+### 3. Trump turns up the heat on Warsh as Fed rate hike looms
 
 [原文] Ten days ahead of the next Federal Reserve meeting, the Trump administration looks to be in a full-court press to halt a rate hike in its tracks.
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html) — *CNBC*
 
-### 3. Trump’s state capitalism comes to the oil industry with his unprecedented Venezuela deal
+### 4. Sugar is outperforming the stock market this year. Here's what's driving it, and where it can go from here
 
-[原文] The deal comes eight months after Washington ousted former President Nicolás Maduro in a military raid.
+[原文] The sweetener's prices surged last week, reflecting a sharp deterioration in the global supply outlook.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/05/trump-venezuela-oil-north-america-blue-energy-partners-nabep.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/06/sugar-is-outperforming-the-stock-market-this-year-whats-driving-it.html) — *CNBC*
 
-### 4. LeBron James teases partnership with Polymarket
+### 5. AI data centers are transforming rural land markets — and fueling a backlash
 
-[原文] LeBron James on Saturday teased an upcoming partnership with the prediction markets platform Polymarket in a social media post.
+[原文] The data center buildout is driving up the price of rural land as some farmers and property owners buy in and others push back against development.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/05/lebron-james-polymarket-partnership.html) — *CNBC*
-
-### 5. U.S. attacks 3 Iranian oil tankers after missiles target Navy warships
-
-[原文] Three Iranian crude oil carriers were hit by U.S. forces on Saturday near Iran's key oil export hub, Kharg Island, in the Gulf, U.S. Central Command reported.
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/05/us-iran-oil-tankers-navy-missile-attack.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/06/ai-data-centers-are-transforming-rural-land-markets-fueling-backlash.html) — *CNBC*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Taylor's place among greats set in stone after extraordinary swansong
+### 1. Fifa president Infantino will stand for re-election
+
+[原文] Fifa president Gianni Infantino will stand for re-election in March, the world governing body has confirmed.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c99d1dlpkp4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. Vardy joins Burnley on season-long contract
+
+[原文] Former Leicester City and England striker Jamie Vardy joins Burnley until the end of the season.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cdx5v3405k3o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. Taylor's place among greats set in stone after extraordinary swansong
 
 [原文] Fairytale endings in boxing are a rarity, but Irish icon Katie Taylor sails off into the sunset after the most perfect of farewells at Dublin's towering Croke Park.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/articles/c5yjr8pp0jwo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Hunt 'not afraid of anyone' after second podium in two days
+### 4. McColgan wins London Big Half after five months out
+
+[原文] Britain's Eilish McColgan returns to competitive action after five months out with a broken toe to win the London Big Half for a fourth time.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/c1kxv18jxw4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 5. Hunt 'not afraid of anyone' after second podium in two days
 
 [原文] Amy Hunt says she is "on the up" and "not afraid of anyone" after finishing second in the 100m at the Diamond League final in Brussels.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/cgk5drzm54xo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 3. Arsenal had more than 20 players on shortlist to capitalise on title win
-
-[原文] Senior football correspondent Sami Mokbel goes inside Arsenal's bid to capitalise on their Premier League title and strengthen their squad this summer.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cz7z09v9pp1o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. Zheng goes from 5-0 and match point down to victory
-
-[原文] Zheng Qinwen fights back from 5-0 down in the deciding set and stares down match point to stun American 22nd seed Madison Keys.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/c3eq55xznvyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. 'Not Football Manager' - De Zerbi says misfiring Spurs need time
-
-[原文] Tottenham have failed to score in their opening three Premier League games and manager Roberto de Zerbi says it will take time to build his expensive squad into a team.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c2e03wdw47jo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. French President Emmanuel Macron Calls for a ‘New Multilateralism’ Across Creative Industries: ‘We Built a Civilization of Images. We Should Not Resign Ourselves to Watching It Deteriorate’
+### 1. ‘Possible Love’ Review: Korean Master Lee Chang-dong Returns With a Beautifully Mature, Quietly Colossal Relationship Drama
 
-[原文] In 1895, the first public film screening happened. It was in the basement of the Grand Café, nearby the Paris Opera, with a program of 10 short movies, each no more than 50 seconds long. Cinema was bo
+[原文] One of the key moments from Lee Chang-dong&#8217;s last film, 2018&#8217;s &#8220;Burning,&#8221; still glows bright in the memory. A girl mimes eating a tangerine, and explains the knack for making i
 
-📎 [阅读原文](https://variety.com/2026/biz/opinion/french-president-emmanuel-macron-op-ed-future-creative-industries-1236852793/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/reviews/possible-love-review-1236846877/) — *Variety*
 
-### 2. Are Russian Filmmakers Finally Coming in From the Cold?
+### 2. ‘September 5’ Director Tim Fehlbaum Working on a ‘Historical Film’ Set in Berlin as Swiss Filmmakers Take on Challenges and Opportunities of Shooting in English
 
-[原文] The Venice Film Festival found itself under fire in the weeks leading up to opening night over the inclusion of “DAU,” by Russian filmmaker Ilya Khrzhanovsky, in the main competition of its 83rd editi
+[原文] Some of the main breakouts of Swiss cinema in 2026—and the few years that precede it—share one striking commonality: they are either entirely in English or feature large chunks of English. Think Petra
 
-📎 [阅读原文](https://variety.com/2026/film/global/russian-filmmakers-dau-venice-film-festival-1236845801/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/september-5-tim-fehlbaum-ursula-meier-michael-koch-1236852712/) — *Variety*
 
-### 3. Groundbreaking Roma Director Alina Șerban on ‘Pain,’ ‘Joy,’ of Historic, Venice-Bound ‘I Matter’: ‘I Managed to Do Something Impossible’
+### 3. Susan Sarandon Says She’s ‘Still Had Movies Taken Away Recently’ Over Palestine Support: ‘There Are Agencies That Are Telling People Not to Hire Me’
 
-[原文] Roma filmmaker Alina Șerban broke barriers long before she set foot on the red carpet this week at the Venice Film Festival, where her feature-length directorial debut, “I Matter,” world premieres in 
+[原文] Susan Sarandon said she&#8217;s &#8220;still had movies taken away recently&#8221; over her outspoken support of Palestine. At the Venice Film Festival press conference for her new film &#8220;The Ech
 
-📎 [阅读原文](https://variety.com/2026/film/global/roma-alina-serban-venice-i-matter-1236847100/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/susan-sarandon-movies-taken-away-palestine-support-1236853245/) — *Variety*
 
-### 4. Moonfish’ Director and Stars Lucy Liu and Morgan Spector Break Down Their Black-and-White Animated Film About Isolated Astronauts And Why It’s an Allegory for ‘The Current Human Condition’
+### 4. ‘Woman Unknown’ Director May el-Toukhy Talks the Torment of World War II ‘Horizontal Collaborators’ and Venice’s Female Director Snub: ‘It’s a Structural Problem’
 
-[原文] For Lucy Liu, who has voiced memorable characters in everything from “Kung Fu Panda” to “Strange World,” being part of the independently made, black-and-white animated film “Moonfish” was all about le
+[原文] In “Woman Unknown,” May el-Toukhy takes a closer look at women accused of having relationships with German soldiers during World War II. “When we started to build a story about a ‘horizontal collabora
 
-📎 [阅读原文](https://variety.com/2026/film/news/moonfish-lucy-liu-morgan-spector-1236852534/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/woman-unknown-may-el-toukhy-world-war-ii-venice-directors-1236847532/) — *Variety*
 
-### 5. Dev Benegal’s Judith Blum Reddy Doc ‘Everything Is Not OK’ Acquired by Watermelon Pictures, Annemarie Jacir Aboard as EP (EXCLUSIVE)
+### 5. ‘From Inside Out – The Architecture of Peter Zumthor’ Review: Wim Wenders’ Latest 3D Documentary Is an Architectural Marvel
 
-[原文] Watermelon Pictures has acquired &#8220;Everything Is Not OK,&#8221; a documentary from director Dev Benegal chronicling the life of artist Judith Blum Reddy. The film will stream exclusively on Water
+[原文] The screen is usually a canvas, but it becomes a window to an enormous room in Wim Wenders’ latest 3D documentary, “From Inside Out – The Architecture of Peter Zumthor.” Within that room unfolds the t
 
-📎 [阅读原文](https://variety.com/2026/film/news/judith-blum-reddy-doc-everything-is-not-ok-watermelon-pictures-1236852495/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/from-inside-out-the-architecture-of-peter-zumthor-review-1236853214/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. How to Watch the September 2026 Nintendo Direct and Zelda 40th Anniversary Direct
+### 1. Riot Co-Founder Calls League of Legends MMO the 'Grail' Quest, 5 Years After It Was Announced
+
+[原文] League of Legends developer Riot Games is still bashing away on its MMO, which co-founder Mark Merrill recently described as the studio’s "grail quest."
+
+📎 [阅读原文](https://www.ign.com/articles/riot-co-founder-calls-league-of-legends-mmo-the-grail-quest-5-years-after-it-was-announced) — *IGN*
+
+### 2. Skytech Gaming Blaze 5 Review
+
+[原文] The Skytech Gaming Blaze 5 is packed with strong mid-tier components in a sleek glassy tower, but there are a few issues that’ll impact your quality of life.
+
+📎 [阅读原文](https://www.ign.com/articles/skytech-gaming-blaze-5-review) — *IGN*
+
+### 3. How to Watch the September 2026 Nintendo Direct and Zelda 40th Anniversary Direct
 
 [原文] Nintendo is going big this September with two Nintendo Direct showcases airing on back-to-back days. Here's everything you need to know.
 
 📎 [阅读原文](https://www.ign.com/articles/how-to-watch-the-september-2026-nintendo-direct-and-zelda-40th-anniversary-direct) — *IGN*
 
-### 2. Left 4 Dead 2 Dev Admits Valve Intentionally Leaked Its Own Trailer After the ESRB Blocked It from Release
+### 4. Left 4 Dead 2 Dev Admits Valve Intentionally Leaked Its Own Trailer After the ESRB Blocked It from Release
 
 [原文] Former Valve writer Chet Faliszek has a confession to make: Valve intentionally leaked its own Left 4 Dead 2 trailer.
 
 📎 [阅读原文](https://www.ign.com/articles/left-4-dead-2-dev-admits-valve-intentionally-leaked-its-own-trailer-after-the-esrb-blocked-it-from-release) — *IGN*
 
-### 3. Insomniac Clears the Air After Marvel's Wolverine Fans Confuse Lady Deathstrike for Psylocke
+### 5. Insomniac Clears the Air After Marvel's Wolverine Fans Confuse Lady Deathstrike for Psylocke
 
 [原文] Insomniac Games has cleared the air after a new trailer for Marvel's Wolverine had fans confusing Lady Deathstrike for Psylocke.
 
 📎 [阅读原文](https://www.ign.com/articles/insomniac-clears-the-air-after-marvels-wolverine-fans-confuse-lady-deathstrike-for-psylocke) — *IGN*
-
-### 4. Zach Cregger Says He's Done With Franchise Films After Resident Evil
-
-[原文] Resident Evil movie director Zach Cregger is days away from his survival horror adaptation's theatrical premiere, but don't expect him to help bring another franchise film to the big screen ever again
-
-📎 [阅读原文](https://www.ign.com/articles/zach-cregger-says-hes-done-with-franchise-films-after-resident-evil) — *IGN*
-
-### 5. Primetime Review
-
-[原文] A blast from the past with a sickly allure, the Robert Pattinson romp Primetime is as garish as its subject: Chris Hansen’s To Catch a Predator.
-
-📎 [阅读原文](https://www.ign.com/articles/primetime-movie-review) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Let’s Hope This 1JZ-Powered Toyota Crown Hearse Has Tie-Downs for the Casket Because I Want the Driver to Whip It Into the Graveside
+### 1. GMC Offered Plaid Valve Covers as a Factory Option in 1963
+
+[原文] For one year only, GMC did something that's never been repeated in the world of work trucks.
+The post GMC Offered Plaid Valve Covers as a Factory Option in 1963 appeared first on The Drive.
+
+📎 [阅读原文](https://www.thedrive.com/news/gmc-offered-plaid-valve-covers-as-a-factory-option-in-1963) — *The Drive*
+
+### 2. Let’s Hope This 1JZ-Powered Toyota Crown Hearse Has Tie-Downs for the Casket Because I Want the Driver to Whip It Into the Graveside
 
 [原文] I don't know about you, but I want my last ride to have plenty of tire smoke and opposite lock.
 The post Let&#8217;s Hope This 1JZ-Powered Toyota Crown Hearse Has Tie-Downs for the Casket Because I Wa
 
 📎 [阅读原文](https://www.thedrive.com/news/lets-hope-this-1jz-powered-toyota-crown-hearse-has-tie-downs-for-the-casket-because-i-want-the-driver-to-whip-it-into-the-graveside) — *The Drive*
 
-### 2. Shaping Your Car Exhaust Like a Silly Straw Is Horrible for Performance, Dyno Proves
+### 3. Shaping Your Car Exhaust Like a Silly Straw Is Horrible for Performance, Dyno Proves
 
 [原文] This bizarre-looking design is actually a type of Tesla valve, which is typically used to control the flow of liquids—not exhaust gases. But somebody decided to give it a try anyway.
 The post Shaping 
 
 📎 [阅读原文](https://www.thedrive.com/news/shaping-your-car-exhaust-like-a-silly-straw-is-horrible-for-performance-dyno-proves) — *The Drive*
 
-### 3. This Groovy and Patriotic ‘Austin Powers’ Corvette Is Up for Grabs
+### 4. This Groovy and Patriotic ‘Austin Powers’ Corvette Is Up for Grabs
 
 [原文] Featured in 1999's "The Spy Who Shagged Me," this 1965 convertible is a movie star and just a nice classic 'Vette.
 The post This Groovy and Patriotic ‘Austin Powers’ Corvette Is Up for Grabs appeared 
 
 📎 [阅读原文](https://www.thedrive.com/news/this-groovy-and-patriotic-austin-powers-corvette-is-up-for-grabs) — *The Drive*
 
-### 4. Gabriel Bortoleto Is ‘Willing to Sacrifice Everything’ to Achieve F1 Greatness. Anything Less Isn’t an Option
+### 5. Gabriel Bortoleto Is ‘Willing to Sacrifice Everything’ to Achieve F1 Greatness. Anything Less Isn’t an Option
 
 [原文] The rising star of Audi's F1 team talks about idolizing Senna, the sacrifices his family made to get him here, and how to become mentally strong at just 21 years of age.
 The post Gabriel Bortoleto Is 
 
 📎 [阅读原文](https://www.thedrive.com/features/gabriel-bortoleto-is-willing-to-sacrifice-everything-to-achieve-f1-greatness-anything-less-isnt-an-option) — *The Drive*
-
-### 5. Tesla Cybercab Isn’t Just Missing a Steering Wheel. It Doesn’t Even Have Brake Lines
-
-[原文] The Cybercab has a lot of wild features to make it cheaper to build and maintain—including some you can't see from the rider's seats.
-The post Tesla Cybercab Isn&#8217;t Just Missing a Steering Wheel.
-
-📎 [阅读原文](https://www.thedrive.com/news/tesla-cybercab-isnt-just-missing-a-steering-wheel-it-doesnt-even-have-brake-lines) — *The Drive*
 
 ---
 
@@ -439,35 +439,35 @@ The post Tesla Cybercab Isn&#8217;t Just Missing a Steering Wheel.
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Taylor Swift Says She Tried to Channel Randy Newman on ‘I Knew It, I Knew You’
+### 1. Bad Bunny’s Super Bowl Halftime Show Wins 7 Emmy Awards
+
+[原文] Both Bad Bunny and Sabrina Carpenter win their first-ever Emmys Saturday at the Creative Emmy Awards
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/bad-bunny-super-bowl-halftime-show-wins-7-emmy-awards-1235622294/) — *Rolling Stone*
+
+### 2. Taylor Swift Says She Tried to Channel Randy Newman on ‘I Knew It, I Knew You’
 
 [原文] The singer-songwriter discussed her Toy Story 5 song in rare appearance across three country radio stations
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/taylor-swift-randy-newman-toy-story-song-1235621007/) — *Rolling Stone*
 
-### 2. Phoebe Bridgers Talks ‘Super Intimidating’ Acting Debut at ‘Primetime’ Venice Premiere
+### 3. Phoebe Bridgers Talks ‘Super Intimidating’ Acting Debut at ‘Primetime’ Venice Premiere
 
 [原文] “She’s unbelievable,” Robert Pattinson said of his musician co-star. "Even on the first day, she was so relaxed"
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/phoebe-bridgers-talks-acting-debut-primetime-venice-premiere-1235622112/) — *Rolling Stone*
 
-### 3. Duane ‘Keffe D’ Davis Says ‘I’m Innocent’ in First Interview Since Tupac Murder Conviction
+### 4. Duane ‘Keffe D’ Davis Says ‘I’m Innocent’ in First Interview Since Tupac Murder Conviction
 
 [原文] "Man, they lied about me so much. I don’t even know where to begin. All those cops in there was lying like a motherfucker," Davis says of witness testimony
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/duane-keffe-d-davis-first-interview-tupac-murder-conviction-1235622106/) — *Rolling Stone*
 
-### 4. Beyoncé Is Selling a Wooden Box to Get Your Beekeeper Dreams Off the Ground For $948
+### 5. Beyoncé Is Selling a Wooden Box to Get Your Beekeeper Dreams Off the Ground For $948
 
 [原文] The "Bee Keeper Collector's Box" was released in a limited quantity of 500 for the anniversary of B'Day, but does not include any vinyl records from her catalog
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/beyonce-selling-limited-edition-wooden-box-1235621880/) — *Rolling Stone*
-
-### 5. Big Sean and Kanye West Reunite After Feud With Surprise Appearance in Chicago
-
-[原文] Big Sean joined Kanye West at his Soldier Field homecoming concert to perform "Clique," "Mercy," and "I Don't Fuck With You"
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/big-sean-kanye-west-end-feud-surprise-performance-chicago-1235621691/) — *Rolling Stone*
 
 ---
 
