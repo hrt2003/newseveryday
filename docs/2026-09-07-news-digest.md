@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月07日** | 生成时间: 2026-09-07 11:44
+**2026年09月07日** | 生成时间: 2026-09-07 19:59
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Germany's far-right AfD set for big win in eastern state, just short of majority
+### 1. Germany's far-right AfD says 'democracy demands' parties work with them after state election win
 
-[原文] Germany's AfD hails a "historic result" and is projected to win 44% of the vote in Saxony-Anhalt, far ahead of the conservatives on 17%.
+[原文] The far-right party is trying to form a government in the state after falling three seats short of a majority.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Five dead after Amazon cargo plane crashes at Miami airport
+### 2. Israeli strikes in southern Lebanese village kill nine
 
-[原文] Five people are dead and five seriously injured after a Boeing 767-300 cargo plane "overran" the runway and caught fire, officials say.
+[原文] Lebanon says a recent Israeli escalation is jeopardising a US-brokered ceasefire meant to end the conflict between Israel and Hezbollah.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. New videos of man in 9/11 lawsuit reveal extremist links
+
+[原文] The footage and other evidence the FBI failed to share undermine Omar al-Bayoumi's 25 years of denials.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. Probe begins into why cargo plane overran Miami runway
+
+[原文] Five people died and five others were injured as the Amazon plane overshot the runway after landing at Miami International Airport.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Zelensky says he expects war to continue into winter after talks with US envoys
+### 5. Zelensky says he expects war to continue into winter after talks with US envoys
 
 [原文] There was no announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain
-
-[原文] Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Volcano eruption leaves 170,000 passengers stranded in Indonesia
-
-[原文] More than 170,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. U.S. Energy Secretary Wright says Iran nuclear deal may never happen
+### 1. Trump says he's made 'Hundreds of Billions of Dollars on Stocks' for the U.S., in AI posting spree
 
-[原文] Iran warned of faster, heavier retaliation against U.S. attacks while acknowledging the war’s mounting toll on its economy.
+[原文] U.S. President Donald Trump posted a stream of AI-generated images and a series of sweeping and unverified claims on Truth Social on Sunday
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/06/iran-us-response-oil-tanker-strikes.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/07/trump-truth-social-ai-images-posting-spree.html) — *CNBC*
 
-### 2. Treasury yields face 4.8% test as fiscal risks threaten to spill into other assets
+### 2. SpaceX rival launches rocket in historic first, says industry is 'desperate' for more
+
+[原文] Isar Aerospace reached orbit on its second test flight as the German rocket startup looks to scale production amid booming satellite launch demand.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/07/isar-aerospace-spacex-rival-rocket-launch.html) — *CNBC*
+
+### 3. Far-right AfD landslide in German state piles pressure on federal government
+
+[原文] The "extraordinary" result may be the "most consequential German state-election result of the postwar era," according to analysts.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/07/afd-germany-economy-merz.html) — *CNBC*
+
+### 4. Treasury yields face 4.8% test as fiscal risks threaten to spill into other assets
 
 [原文] Treasury yields face a test at 4.8%, with a sustained move above that potentially creating "meaningful problems" for other asset classes, said Miller Tabak.
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/07/us-treasury-yields-markets-scott-bessent.html) — *CNBC*
 
-### 3. AI data centers are transforming rural land markets — and fueling a backlash
+### 5. China says it will pump $54 billion into banks and insurers — but their stocks still fell
 
-[原文] The data center buildout is driving up the price of rural land as some farmers and property owners buy in and others push back against development.
+[原文] With a bigger capital cushion, financial institutions may also be asked to do more to mobilize resources in capital markets, analysts say.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/06/ai-data-centers-are-transforming-rural-land-markets-fueling-backlash.html) — *CNBC*
-
-### 4. Volcano eruption disrupts hundreds of flights at Southeast Asia's second-busiest airport
-
-[原文] Mount Anak Krakatau’s eruption disrupted hundreds of flights across Indonesia, with flight cancellations extending into Monday.
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/07/flights-canceled-jakarta-airport-anak-krakatau-eruption-disrupts-regional-travel-volcano.html) — *CNBC*
-
-### 5. Data centers in space: Four big obstacles and Elon Musk's ambitious timeline
-
-暂无摘要。
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/07/data-centers-space-elon-musk-obstacles.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/07/china-state-banks-lenders-insurers-capital-solvency-bankrupt-nim-.html) — *CNBC*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. No new striker, no worries - Havertz and Odegaard torment Chelsea
+### 1. New video shows Williams handball - but won't end VAR row
 
-[原文] Nine points from three games, one goal conceded and big players stepping up - are Arsenal still ahead of the rest in the race for the Premier League title?
+[原文] A new camera angle shows the ball coming off Nottingham Forest defender Neco Williams' arms as he scores his disallowed goal against Tottenham.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cqjkql0rkneo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c0lr4401rw0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Two right-backs in midfield - are Chelsea short despite £349m spent?
+### 2. Pietersen joins England's white-ball coaching team
 
-[原文] Chelsea ended Sunday's 2-1 defeat by champions Arsenal with two right-backs alongside each other in midfield - how did they get here?
+[原文] England appoint former Ashes-winning batter Kevin Pietersen to their white-ball coaching team in the build-up to the 2027 ICC Cricket World Cup.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/clyegw2re82o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cz6zggqp190o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Champions Arsenal come from behind to beat Chelsea
+### 3. How £725 game-show winnings kick-started Champions League coach's career
 
-[原文] Reigning champions Arsenal came from behind to beat big-spending Chelsea in a pulsating London derby at Emirates Stadium.
+[原文] Lithuanian coach Valdas Dambrauskas cut his teeth in English football, and now returns in the Champions League with Sabah.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/c4gm2y4ll5vo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cvgy8w548yyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Antonelli 'walks over water' for win that will go down in F1 folklore
+### 4. 'We're not robots' - why US Open men's contenders have tumbled
 
-[原文] Kimi Antonelli delivered one of the great F1 drives to win the Italian Grand Prix and leave Mercedes' team-mate George Russell's title hopes almost a lost cause.
+[原文] The chaotic nature of the men's draw has been a sharp contrast to the relative calm of the women's - but anyone can still win the US Open titles.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/cm2my2z365lo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/czrz8kmmdgzo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Dunkley century helps England sweep Ireland 3-0
+### 5. Red Star fans unveil tifo of war criminal Mladic before derby
 
-[原文] Sophia Dunkley hits 119 as England end their international summer with a 114-run thrashing of Ireland at Worcester.
+[原文] Red Star Belgrade fans unveil a tifo of war criminal Ratko Mladic before their derby win over Partizan Belgrade on Sunday.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cqxve1xderro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c209n1y58neo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Rob Reiner Wins Posthumous Emmy for ‘The Bear’
+### 1. ‘Plaza Catedral’ Director Abner Benaim, Chile’s Daniela Vega and Alfredo Castro Board Fiction Series ‘School of the Americas’ (EXCLUSIVE)
 
-[原文] The late and great Rob Reiner has won an Emmy, nine months after his death. Reiner won the outstanding guest actor in a comedy series for &#8220;The Bear&#8221; at the Emmy Awards Night 2, prevailing 
+[原文] Panama’s Abner Benaim has boarded as a co-director of the fiction series “School of the Americas” (“Escuela de las Américas”), which will star two of Chile’s most internationally renowned thespians: D
 
-📎 [阅读原文](https://variety.com/2026/tv/awards/rob-reiner-wins-posthumous-emmy-the-bear-1236849972/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/abner-benaim-daniela-vega-alfredo-castro-school-americas-1236853506/) — *Variety*
 
-### 2. Linda Cardellini Wins Emmy for Supporting Actress in a Limited Series for ‘DTF St. Louis’
+### 2. Studio TF1 Smashes Doc Records With ‘Leon Marchand: Beyond Gold,’ Rolls Out ‘Surface’
 
-[原文] Linda Cardellini won her first Emmy on Sunday night at the Creative Arts Emmys taking home the award for supporting actress in a limited or anthology series. On stage, an emotional Cardellini said, &#
+[原文] Studio TF1 is celebrating recent successes at home and abroad with Sacha Vucinic and Xavier Marchand’s sports documentary “Leon Marchand: Beyond Gold” and Slimane-Baptiste Berhoun’s mystery drama “Sur
 
-📎 [阅读原文](https://variety.com/2026/tv/news/linda-cardellini-wins-emmy-best-supporting-actress-imited-series-1236850681/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/global/studio-tf1-leon-marchand-records-surface-sales-1236853480/) — *Variety*
 
-### 3. David Harbour Wins Emmy for Supporting Actor in Limited Series for ‘DTF: St. Louis’
+### 3. ‘Sumo: Spirit Weighs Nothing’ Review: A Handsome Ode to an Oft-Disrespected Sport
 
-[原文] David Harbour has won the Emmy for Supporting Actor in a Limited or Anthology Series or Movie for his portrayal of Floyd Smernitch in HBO Max&#8217;s &#8220;DTF St. Louis.&#8221; This marks the actor&
+[原文] The title of &#8220;Sumo: Spirit Weighs Nothing&#8221; is the closest that Erik Shirai&#8217;s documentary comes to a joke at the expense of its subject: sumo wrestling, the Japanese sport largely kno
 
-📎 [阅读原文](https://variety.com/2026/tv/awards/david-harbour-dtf-st-louis-wins-emmy-supporting-actor-limited-series-1236850789/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/reviews/sumo-spirit-weighs-nothing-review-1236853884/) — *Variety*
 
-### 4. Nathan Fielder Drops Weird Trailer for Secret Elizabeth Holmes Doc ‘You Can See Everything’
+### 4. Belgian Royalty Series ‘King of Hearts’ Secures Key VRT Backing (EXCLUSIVE)
 
-[原文] For years, it’s been rumored that Nathan Fielder had been interviewing Theranos founder (and certified huckster) Elizabeth Holmes — including visiting her in prison — for a top-secret documentary. And
+[原文] Enterprising Flemish broadcaster VRT has boarded the historical coming-of-age drama series ‘King of Hearts’ from Giles Coulier, whose company, De Wereldvrede, is behind such hits as 2019 series “War o
 
-📎 [阅读原文](https://variety.com/2026/film/news/nathan-fielder-secret-elizabeth-holmes-doc-you-can-see-everything-a24-telluride-1236853584/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/flemish-broadcaster-vrt-historical-series-king-of-hearts-1236852181/) — *Variety*
 
-### 5. Tokyo Film Festival Adds Nippon Cinema Now Competition, Crosscut Asia+ Section, New Award Honoring Women in Film
+### 5. The Next James Bond Has Been Picked, Says Gary Oldman, Whose ‘Fingers Are Crossed’ for ‘Slow Horses’ Co-Star Jack Lowden
 
-[原文] The Tokyo International Film Festival will introduce two new competitive awards, a Southeast Asia-focused section and a prize honoring women in cinema. The Nippon Cinema Now section will award a Best 
+[原文] Gary Oldman&#8217;s connection to the world of James Bond may be unknown, but the actor claims to have some key information about the casting of the next 007. According to the Oscar-winning acting ico
 
-📎 [阅读原文](https://variety.com/2026/film/festivals/tokyo-film-festival-new-competition-award-honoring-women-1236852405/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/james-bond-picked-says-gary-oldman-hopes-for-jack-lowden-1236853973/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Lanterns Season 1, Episode 4 Review & Recap: "The Weenie"
+### 1. Amazon Restocks Rare Pokémon TCG Sets for Labor Day
 
-[原文] Lanterns stumbles a bit in Episode 4 as it fails to take full advantage of some key DC characters, but the series’ core strengths remain. Read our full review.
+[原文] Amazon has restocked rare Pokémon TCG products for Labor Day, including Prismatic Evolutions Super-Premium Collections and Destined Rivals Elite Trainer Boxes.
 
-📎 [阅读原文](https://www.ign.com/articles/lanterns-season-1-episode-4-review-recap-the-weenie) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/amazon-pokemon-tcg-labor-day-restock) — *IGN*
 
-### 2. [UPDATE] Halloween: The Game Patches Out Sex Minigame — Dev Confirms 'Major Oversight'
+### 2. PlayStation Reportedly Plotting New Killzone — but Is It a Remake or a Remaster?
 
-[原文] Halloween: The Game developer IllFonic has patched out a sex mini-game after a gameplay clip went viral. Now, the studio has issued a statement.
+[原文] Sony is reportedly in the early stages of bringing its first-person shooter series, Killzone, back from the dead.
 
-📎 [阅读原文](https://www.ign.com/articles/halloween-the-game-appears-to-patch-out-a-sex-minigame-and-players-think-they-know-why) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/playstation-reportedly-plotting-new-killzone-but-is-it-a-remake-or-a-remaster) — *IGN*
 
-### 3. The Batman Part 2 Goes in 'Another Totally Different Direction,' Robert Pattinson Teases
+### 3. Nintendo Developing New Smash Bros, Nintendogs, Mario Kart DLC With Star Fox, Leaker Claims
 
-[原文] Robert Pattinson has suggested The Batman Part 2 will be a very different take on the DC superhero than we’ve seen before.
+[原文] Nintendo is developing an all-new Super Smash Bros and Nintendogs, a notable leaker has claimed.
 
-📎 [阅读原文](https://www.ign.com/articles/the-batman-part-2-goes-in-another-totally-different-direction-robert-pattinson-teases) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/nintendo-developing-new-smash-bros-nintendogs-mario-kart-dlc-with-star-fox-leaker-claims) — *IGN*
 
-### 4. Zach Cregger Says He Feels Like He's 'Running for Office' Trying to Get Skeptical Resident Evil Fans 'Not to Call Me a LARPer'
+### 4. 'One Season Is Perfect' — Nicolas Cage Reacts to Spider-Noir Prime Video Cancelation
 
-[原文] Resident Evil director Zach Cregger has said he feels like he’s been on an “apology tour” while navigating skepticism from some fans about his movie adaptation of Capcom’s horror franchise.
+[原文] Nicolas Cage has insisted just one season of Spider-Noir is “perfect” after Amazon canceled the Prime video show.
 
-📎 [阅读原文](https://www.ign.com/articles/zach-cregger-says-he-feels-like-hes-running-for-office-trying-to-get-skeptical-resident-evil-fans-not-to-call-me-a-larper) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/one-season-is-perfect-nicolas-cage-reacts-to-spider-noir-prime-video-cancelation) — *IGN*
 
-### 5. Exodus Ending and Character Fates Change Based on Your Choices
+### 5. Amazon's Scrapped Stargate Show Featured Daniel Jackson Trapped in a Parallel Universe
 
-[原文] Exodus is an upcoming sci-fi RPG that will account for the decisions you make in its story, and its narrative director explains how it'll all be reflected in the end.
+[原文] Amazon's canned Stargate reboot would have starred Michael Shanks' fan-favorite character Daniel Jackson, trapped in a parallel universe.
 
-📎 [阅读原文](https://www.ign.com/articles/exodus-companions-might-not-make-the-ending-based-on-player-choices-mass-effect) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/amazons-scrapped-stargate-show-featured-daniel-jackson-trapped-in-a-parallel-universe) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post This Groovy and Patriotic ‘Austin Powers’ Corvette Is Up for Grabs 
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Farmers Are Going Broke Amid Rising Gas Prices, While the Ag Secretary Profits Off Them
+### 1. The Winners and Losers of Maine’s Race to Armor Its Shoreline Against Climate Change
+
+[原文] GORHAM, Maine—Supersonic shockwaves shook the bones of Charlie Hamblen’s historic Maine farmhouse more than a dozen times last year, travelling over half a mile from blasts at a nearby quarry. The qua
+
+📎 [阅读原文](https://insideclimatenews.org/news/07092026/maines-race-to-protect-shorelines-as-quarries-expand/) — *Inside Climate News*
+
+### 2. Farmers Are Going Broke Amid Rising Gas Prices, While the Ag Secretary Profits Off Them
 
 [原文] As farmers grapple with soaring diesel and fertilizer prices and the Department of Agriculture yanks support for cheaper, renewable forms of energy, the agency’s chief, Brooke Rollins, is carrying mil
 
 📎 [阅读原文](https://insideclimatenews.org/news/06092026/agriculture-secretary-brooke-rollins-profits-off-rising-gas-prices/) — *Inside Climate News*
 
-### 2. Elevated Levels of Lead Surround Local Oregon Airports
+### 3. Elevated Levels of Lead Surround Local Oregon Airports
 
 [原文] For years health officials have held that there is no safe level of lead exposure for humans. Even low levels can cause irreversible cognitive decline in children. Yet despite the risk, leaded aviatio
 
 📎 [阅读原文](https://insideclimatenews.org/news/06092026/oregon-small-airports-lead-risk/) — *Inside Climate News*
 
-### 3. As Extreme Weather Worsens, Black and Hispanic Homeowners Are Paying More for Insurance
+### 4. As Extreme Weather Worsens, Black and Hispanic Homeowners Are Paying More for Insurance
 
 [原文] Homeowners in Hispanic and Black communities nationwide are paying a disproportionate share of skyrocketing home insurance costs, according to a recent report. The disparities leave communities of col
 
 📎 [阅读原文](https://insideclimatenews.org/news/05092026/black-and-hispanic-homeowners-pay-more-for-insurance/) — *Inside Climate News*
 
-### 4. Error in a Recent BLM Lease Sale Has Wyoming Residents Concerned Over New Oil and Gas Rules
+### 5. Error in a Recent BLM Lease Sale Has Wyoming Residents Concerned Over New Oil and Gas Rules
 
 [原文] A mistake in the federal documents offering public land in Wyoming for oil and gas leases has Cowboy State residents and environmentalists questioning whether government agencies are prepared to handl
 
 📎 [阅读原文](https://insideclimatenews.org/news/05092026/wyoming-blm-oil-gas-lease-error/) — *Inside Climate News*
-
-### 5. New Mexico Bans Uranium Leasing on State Lands
-
-[原文] Officials in New Mexico, the nation’s largest historic producer of uranium ore, banned new leasing of state lands for uranium mining on Friday.&#160; State Land Commissioner Stephanie Garcia Richard s
-
-📎 [阅读原文](https://insideclimatenews.org/news/04092026/new-mexico-bans-uranium-leasing/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post This Groovy and Patriotic ‘Austin Powers’ Corvette Is Up for Grabs 
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Andy Williams, Every Time I Die Guitarist and Pro Wrestler, Dead at 48
+### 1. Watch Carrie Underwood Cover Limp Bizkit, Papa Roach, Linkin Park at Velocity Festival
+
+[原文] The country singer performed a series of nu-metal covers at the Iowa music festival on Saturday
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/carrie-underwood-limp-bizkit-papa-roach-covers-live-1235622371/) — *Rolling Stone*
+
+### 2. Andy Williams, Every Time I Die Guitarist and Pro Wrestler, Dead at 48
 
 [原文] Founding rhythm guitarist for Buffalo metalcore band successfully segued into wrestling at "The Butcher"
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/andy-williams-every-time-i-die-guitarist-wrestler-dead-obit-1235622341/) — *Rolling Stone*
 
-### 2. 14 People Hospitalized During the Chainsmokers’ Concert in San Jose
+### 3. 14 People Hospitalized During the Chainsmokers’ Concert in San Jose
 
 [原文] Over a dozen concertgoers required medical attention for "suspected alcohol intoxication and drug-related issues," authorities say
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/14-people-hospitalized-the-chainsmokers-concert-san-jose-1235622325/) — *Rolling Stone*
 
-### 3. Bad Bunny’s Super Bowl Halftime Show Wins 7 Emmy Awards
+### 4. Bad Bunny’s Super Bowl Halftime Show Wins 7 Emmy Awards
 
 [原文] Both Bad Bunny and Sabrina Carpenter win their first-ever Emmys Saturday at the Creative Emmy Awards
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/bad-bunny-super-bowl-halftime-show-wins-7-emmy-awards-1235622294/) — *Rolling Stone*
 
-### 4. Taylor Swift Says She Tried to Channel Randy Newman on ‘I Knew It, I Knew You’
+### 5. Taylor Swift Says She Tried to Channel Randy Newman on ‘I Knew It, I Knew You’
 
 [原文] The singer-songwriter discussed her Toy Story 5 song in rare appearance across three country radio stations
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/taylor-swift-randy-newman-toy-story-song-1235621007/) — *Rolling Stone*
-
-### 5. Phoebe Bridgers Talks ‘Super Intimidating’ Acting Debut at ‘Primetime’ Venice Premiere
-
-[原文] “She’s unbelievable,” Robert Pattinson said of his musician co-star. "Even on the first day, she was so relaxed"
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/phoebe-bridgers-talks-acting-debut-primetime-venice-premiere-1235622112/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post This Groovy and Patriotic ‘Austin Powers’ Corvette Is Up for Grabs 
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. A Viral AI Bot Just Showed Travel What Frictionless Actually Means
+### 1. Air India’s New CEO Gets a Clear Mandate: Safety, Reliability and Profit
+
+[原文] New CEO Tewolde Gebremariam is taking over a very different Air India from the one Campbell Wilson inherited in 2022. The airline has more aircraft, more resources and bigger ambitions, not to forget,
+
+📎 [阅读原文](https://skift.com/2026/09/07/air-indias-new-ceo-gets-a-clear-mandate-safety-reliability-and-profit/) — *Skift*
+
+### 2. A Viral AI Bot Just Showed Travel What Frictionless Actually Means
 
 [原文] Instinct, a freshman AI assistant that has Silicon Valley buzzing, can book and rebook trips from a text thread. Key lesson for travel: Talking about frictionless booking isn't the same as delivering 
 
 📎 [阅读原文](https://skift.com/2026/09/04/a-viral-ai-bot-just-showed-travel-what-frictionless-actually-means/) — *Skift*
 
-### 2. Blackstone Plans $7 Billion IPO of Spanish Resort Owner Hotel Investment Partners: Report
+### 3. Blackstone Plans $7 Billion IPO of Spanish Resort Owner Hotel Investment Partners: Report
 
 [原文] After nearly two years of weighing a sale, the private equity giant is reportedly steering the Barcelona-based owner of hotels and resorts across the Mediterranean toward a Madrid listing this fall.
 
 📎 [阅读原文](https://skift.com/2026/09/04/blackstone-plans-7-billion-ipo-of-spanish-resort-owner-hotel-investment-partners-report/) — *Skift*
 
-### 3. Europe Prepares New Law to Support Cities’ Airbnb Crackdowns
+### 4. Europe Prepares New Law to Support Cities’ Airbnb Crackdowns
 
 [原文] Brussels is looking to advance legislation that would clarify local authorities’ power to crack down on short-term rentals amid Europe's housing crisis.
 
 📎 [阅读原文](https://skift.com/2026/09/04/european-commission-short-term-rental-crackdown/) — *Skift*
 
-### 4. Biggest Innovators in Travel and Hospitality: Summer 2026
+### 5. Biggest Innovators in Travel and Hospitality: Summer 2026
 
 [原文] There is no shortage of launches and you can easily find the most expensive hospitality offerings. We're most interested in judgment that leads to truly exceptional service.
 
 📎 [阅读原文](https://skift.com/2026/09/04/biggest-innovators-in-travel-and-hospitality-summer-2026/) — *Skift*
-
-### 5. The New Travel Loyalty Leaders Aren’t Hotels or Airlines — They’re Banks
-
-[原文] Travel companies have spent years worrying about losing customers to online travel agencies. The bigger threat was already in the wallet.
-
-📎 [阅读原文](https://skift.com/2026/09/04/the-new-travel-loyalty-leaders-arent-hotels-or-airlines-theyre-banks/) — *Skift*
 
 ---
 
