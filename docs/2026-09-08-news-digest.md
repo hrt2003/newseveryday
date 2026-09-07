@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月08日** | 生成时间: 2026-09-08 01:43
+**2026年09月08日** | 生成时间: 2026-09-08 05:19
 
 ---
 
@@ -16,29 +16,29 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Germany's far-right AfD says 'democracy demands' parties work with them after state election win
+### 1. Palestinian parents fear for children's lives at school as settler attacks grow
+
+[原文] A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Germany's far-right AfD says 'democracy demands' parties work with them after state election win
 
 [原文] The far-right party is trying to form a government in the state after falling three seats short of a majority.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Thousands turn out in Serbia for funeral of  'Butcher of Bosnia' Ratko Mladić
+### 3. Thousands turn out in Serbia for funeral of  'Butcher of Bosnia' Ratko Mladić
 
 [原文] Mladić was jailed for genocide during the 1990s Bosnian war and the EU warned Serbia not to glorify the convicted war criminal.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cn5dkk7yw74o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Israeli strikes in southern Lebanese village kill 12
+### 4. Israeli strikes in southern Lebanese village kill 12
 
 [原文] Lebanon says a recent Israeli escalation is jeopardising a US-brokered ceasefire meant to end the conflict between Israel and Hezbollah.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Probe begins into why cargo plane overran Miami runway
-
-[原文] Five people died and five others were injured as the Amazon plane overshot the runway after landing at Miami International Airport.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 5. Grindr to pay £26m to settle claims it allegedly shared users' HIV status
 
@@ -60,29 +60,29 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/07/oil-prices-rise-to-6-week-high-after-iran-and-us-trade-blows-saudi-aramco-facilities-reportedly-hit.html) — *CNBC*
 
-### 2. Trump says he's made 'Hundreds of Billions of Dollars on Stocks' for the U.S., in stream of AI posts
+### 2. Trump says Bombardier can't sell in U.S. unless Canada aerospace giant builds there
+
+[原文] Trump's announcement comes on the eve of Canadian retaliatory tariffs set to take effect Tuesday on $20 billion of U.S. goods.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/07/trump-bombardier-cant-sell-in-us-unless-canada-aerospace-giant-builds-there.html) — *CNBC*
+
+### 3. Trump says he's made 'Hundreds of Billions of Dollars on Stocks' for the U.S., in stream of AI posts
 
 [原文] U.S. President Donald Trump posted a stream of AI-generated images and a series of sweeping and unverified claims on Truth Social on Sunday
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/07/trump-truth-social-ai-images-posting-spree.html) — *CNBC*
 
-### 3. SpaceX rival launches rocket in historic first, says industry is 'desperate' for more
+### 4. SpaceX rival launches rocket in historic first, says industry is 'desperate' for more
 
 [原文] Isar Aerospace reached orbit on its second test flight as the German rocket startup looks to scale production amid booming satellite launch demand.
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/07/isar-aerospace-spacex-rival-rocket-launch.html) — *CNBC*
 
-### 4. Greenland welcomes major funding boost from EU amid Trump’s annexation threats
+### 5. Greenland welcomes major funding boost from EU amid Trump’s annexation threats
 
 [原文] It comes shortly after Icelanders voted to reject restarting EU membership talks and as Trump renews his push to acquire Greenland on national security grounds.
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/07/greenland-eu-trump-critical-minerals-arctic.html) — *CNBC*
-
-### 5. Far-right AfD landslide in German state piles pressure on federal government
-
-[原文] The "extraordinary" result may be the "most consequential German state-election result of the postwar era," according to analysts.
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/07/afd-germany-economy-merz.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. What we expect from the upcoming Apple launch
+### 1. Opaque recurrence, and other AI terms that you should probably know
+
+[原文] The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/) — *TechCrunch*
+
+### 2. A secret new Elizabeth Holmes documentary stuns Telluride
+
+[原文] Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes documentary, "You Can See Everything," stunned Telluride audiences Sunday night with its generous access to the Theranos founder.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/) — *TechCrunch*
+
+### 3. What we expect from the upcoming Apple launch
 
 [原文] While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/) — *TechCrunch*
 
-### 2. Phil Schiller’s App Store exit reportedly driven by wariness over future plans
+### 4. Phil Schiller’s App Store exit reportedly driven by wariness over future plans
 
 [原文] Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/) — *TechCrunch*
 
-### 3. Authors push back as publishers and agents make claims on Anthropic settlement
+### 5. Authors push back as publishers and agents make claims on Anthropic settlement
 
 [原文] Authors say publishers seem to be claiming more than their fair share of settlement payments.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/) — *TechCrunch*
-
-### 4. Travis Kalanick’s Atoms might be getting into the robotaxi business
-
-[原文] The Uber founder has said that Atoms will allow him to complete "unfinished business."
-
-📎 [阅读原文](https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/) — *TechCrunch*
-
-### 5. TechCrunch Mobility: Tesla Cybercab hits the road — and a snag
-
-[原文] Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Can Kane buck history and win Ballon d'Or?
+### 1. Champions League returns - who are favourites and players to watch?
+
+[原文] The Champions League is back and BBC Sport take a look at who the favourites are to win the title plus predictions from the experts.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c17j5lr8kkqo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. Can Kane buck history and win Ballon d'Or?
 
 [原文] History suggests Ballon d’Or winners come from those who have recently lifted one of football's biggest trophies. Can Harry Kane become a rare exception?
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cm2gee75vz7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Pakistan investigate 'discipline and conduct' on England tour
+### 3. Ecclestone stopped by police for taking shotgun into Portugal
 
-[原文] Pakistan begin an inquiry into “discipline and conduct” in the latest twist on a turbulent tour of England.
+[原文] Former Formula 1 boss Bernie Ecclestone says he was stopped by officials at an airport in Portugal after arriving with a shotgun he intended to use in a clay pigeon shooting competition.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cj4je1nl51qo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/cy9zx52xen2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Who will be new Liverpool sporting director - and what issues do they face?
+### 4. Zheng stuns Swiatek after winning another set from 5-0 down
 
-[原文] The possible candidates to succeed Richard Hughes - plus the numerous tasks facing Liverpool's next sporting director.
+[原文] Zheng Qinwen wins a set from 5-0 down for the second successive match as she shocks Iga Swiatek to reach the US Open quarter-finals.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c5yw73ppwd1o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cm2ml7xxg80o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Edu leaves Nottingham Forest after turbulent spell
+### 5. Edu leaves Nottingham Forest after turbulent spell
 
 [原文] Global head of football Edu leaves Nottingham Forest after just over a year at the City Ground.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cj06m1e3e75o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. New video shows Williams handball - but won't end VAR row
-
-[原文] A new camera angle shows the ball coming off Nottingham Forest defender Neco Williams' arms as he scores his disallowed goal against Tottenham.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c0lr4401rw0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘Alpha Gang’ Review: Cate Blanchett, Chris Pine and an All-Star Cast Play Space Aliens in David and Nathan Zellner’s Endearingly Goofy Sci-Fi Spoof
+### 1. Elon Musk Documentary Teaser Asks If Billionaire Is the ‘Greatest Living Inventor’ or a ‘Fascist’ Who ‘Has Lost His Mind’
 
-[原文] Among the greatest cinematic mysteries of our time, when it’s harder than ever to make movies, is the fact that David and NathanZellner continue to realize their uncompromisingly DIY, endearingly chil
+[原文] The first teaser trailer for Alex Gibney’s highly anticipated Elon Musk documentary “Musk” has been released. The film will world premiere out of competition at the 83rd Venice International Film Fest
 
-📎 [阅读原文](https://variety.com/2026/film/reviews/alpha-gang-review-1236854144/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/elon-musk-documentary-trailer-1236850977/) — *Variety*
 
-### 2. ‘The Spiral’ Review: Paolo Strippoli’s Lurid Faustian Tragedy Shores Up His Reputation as Italy’s New Horror Virtuoso
+### 2. ‘Elsinore’ Director Simon Stone, Basking in Telluride’s Glow, on Making a Movie About Love of the Theater, the Peak AIDS Era, and Being ‘100% in the Service of Andrew Scott’
 
-[原文] We don&#8217;t get a close enough look to see if the Devil actually wears Prada, but regardless, in Paolo Strippoli&#8217;s new horror romp &#8220;The Spiral,&#8221; she&#8217;s very chicly turned out
+[原文] The Telluride Film Festival casts a wide net, as almost all festivals of its ilk do, but if it has had any speciality that stands out among many, it might be the well-earned tearjerker. There is as mu
 
-📎 [阅读原文](https://variety.com/2026/film/news/the-spiral-review-1236854031/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/elsinore-telluride-film-festival-andrew-scott-simon-stone-1236854213/) — *Variety*
 
-### 3. Luca Guadagnino on Casting Hollywood A-Listers in Subversive Roles: ‘I Have Worked With Some of the Finest’
+### 3. MPA Signs Two Lumiere Summit Declarations, Joins Roundtables With Presidents Macron and Lee
 
-[原文] Luca Guadagnino discussed his warm rapport with Hollywood movie stars on Monday at the Venice Film Festival, one year after being on the Lido with his Julia Roberts-starrer &#8220;After the Hunt.&#822
+[原文] The Motion Picture Association signed two declarations at the Lumière Summit on Monday, adding its name alongside those of governments and private sector organizations worldwide to the Lumière Declara
 
-📎 [阅读原文](https://variety.com/2026/film/global/luca-guadagnino-hollywood-stars-subversive-roles-1236854036/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/mpa-lumiere-summit-declarations-rivkin-macron-lee-1236854208/) — *Variety*
 
-### 4. ‘South Park’ Mocks Trump While Celebrating Emmy Win for Outstanding Animated Program
+### 4. ‘Look Back’ Review: Once Past the Over- Preciousness of a Child’s World, Hirokazu Kore-eda’s Manga Adaptation Becomes a Moving Tribute to Friendship
 
-[原文] “South Park” threw one final jab at President Donald Trump Sunday night as the show celebrated its Emmy win for Outstanding Animated Program. The official “South Park” X account posted a graphic of Tr
+[原文] There’s barely an adult in sight in Hirokazu Kore-eda’s “Look Back,” where anyone out of school age is marginalized practically to the point of superfluidity. Like much in the first half of this sweet
 
-📎 [阅读原文](https://variety.com/2026/tv/news/south-park-trump-emmy-win-outstanding-animated-program-1236854156/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/look-back-review-1236854197/) — *Variety*
 
-### 5. Nathan Fielder and Lance Oppenheim’s Elizabeth Holmes Doc ‘You Can See Everything’ Detonates the Oscar Race — and Has A24 Chasing a 90-Year Record
+### 5. Summer Box Office Breaks All-Time Record With $4.67 Billion
 
-[原文] For three days, the Telluride Film Festival ran on a single unknown rumor. By Sunday night, the line outside the Werner Herzog Theatre had swelled into the longest of the weekend, phones were sealed i
+[原文] Need proof the movies are really, truly back? The summer box office was already the biggest since COVID upended the industry in 2020 — and now the season has become the highest-grossing of all time. D
 
-📎 [阅读原文](https://variety.com/2026/film/awards/nathan-fielder-you-can-see-everything-elizabeth-holmes-oscars-1236854109/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/box-office/summer-box-office-breaks-all-time-record-1236854175/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Secretlab Labor Day Sale Has Big Discounts on Its Titan Gaming Chairs Including the Nanogen Edition
+### 1. Magic: The Gathering's Hobbit Gift Bundles Are Back In Stock at Amazon
 
-[原文] The Secretlab Titan Evo is our top gaming chair pick for 2026.
+[原文] Save almost 20% and get a Collector Booster included with 9 Play Boosters, too.
 
-📎 [阅读原文](https://www.ign.com/articles/secretlab-labor-day-sale-2026-best-deals-on-titan-gaming-chairs) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/magic-the-gatherings-hobbit-gift-bundles-are-back-in-stock-at-amazon) — *IGN*
 
-### 2. Alienware Just Released the World's First 39" 5K Monitor With RGB Stripe Tandem OLED Technology
+### 2. Forza Horizon 6's PS5 Version Still on Track for 2026 Release, Playground Says
 
-[原文] The best monitor for both gaming and workstation productivity is now shipping.
+[原文] Forza Horizon 6 is still planned to launch on PS5 this year, despite not having a firm release date yet.
 
-📎 [阅读原文](https://www.ign.com/articles/alienware-aw3926qw-39-5k-oled-gaming-monitor-is-now-available) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/forza-horizon-6s-ps5-version-still-on-track-for-2026-release-playground-says) — *IGN*
 
-### 3. Flexispot's Labor Day Sale Takes Up to 65% Off Office Furniture, Including Our Favorite Standing Desk of 2026
+### 3. Is GTA 6 Too Realistic for Its Own Good? Refueling Cars and Gun Restrictions Spark Debate
 
-[原文] Flexispot is best known for its standing desks and ergo chairs, but the brand has since expanded to home furniture.
+[原文] Early Grand Theft Auto 6 details have sparked debate about whether Rockstar Games' latest is too realistic for its own good.
 
-📎 [阅读原文](https://www.ign.com/articles/flexispots-labor-day-sale-best-standing-desk-deals-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/is-gta-6-too-realistic-for-its-own-good-refueling-cars-and-gun-restrictions-spark-debate) — *IGN*
 
-### 4. Get 6.6ft 240W USB Type-C Cables for Less Than $3 Apiece
+### 4. GTA 6 Will Launch Digitally at Midnight Around the World, So Of Course Fans Are Already Planning to Set Their Console Locations to New Zealand
 
-[原文] Universal cables perfect for your Nintendo Switch 2, Steam Deck, iPhone 17, or laptop.
+[原文] Rockstar will launch Grand Theft Auto 6 at midnight local time in most countries on November 19 — meaning some fans are already planning to adjust their console region and play early.
 
-📎 [阅读原文](https://www.ign.com/articles/best-usb-cable-deals-september-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/gta-6-will-launch-digitally-at-midnight-around-the-world-so-of-course-fans-are-already-planning-to-set-their-console-locations-to-new-zealand) — *IGN*
 
-### 5. Get a Brand New 27" Samsung Odyssey OLED G5 Gaming Monitor for Just $269 With Free Shipping
+### 5. Walmart’s Bricktember Sale Includes the LEGO Mario Kart Luigi & Mach 8 Set at Its Lowest Price Yet
 
-[原文] The lowest price right now for an OLED gaming monitor.
+[原文] LEGO’s Mario Kart Luigi & Mach 8 set has hit its lowest price yet at Walmart during its Bricktember sale event, with the retailer knocking $29.99 off it down to $150.
 
-📎 [阅读原文](https://www.ign.com/articles/samsung-oled-gaming-monitor-deal-september-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/walmarts-bricktember-sale-includes-the-lego-mario-kart-luigi-mach-8-set-at-its-lowest-price-yet) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Kubota’s Remote Control Tractor Was an ’80s Flop. This Guy Just Found a Survivor
+### 1. Do Mudflaps Tank Your Truck’s MPG? This Super Scientific Aero Breakdown Has Answers
+
+[原文] Removing your mud flaps might help reduce drag and boost fuel economy, but most pickups have bigger issues when it comes to aero.
+The post Do Mudflaps Tank Your Truck&#8217;s MPG? This Super Scientifi
+
+📎 [阅读原文](https://www.thedrive.com/news/do-mudflaps-tank-your-trucks-mpg-this-super-scientific-aero-breakdown-has-answers) — *The Drive*
+
+### 2. Kubota’s Remote Control Tractor Was an ’80s Flop. This Guy Just Found a Survivor
 
 [原文] Kubota wasn't a household name in the U.S. some 40 years ago, but that didn't stop it from innovating with a 20-horse RC compact tractor.
 The post Kubota&#8217;s Remote Control Tractor Was an &#8217;8
 
 📎 [阅读原文](https://www.thedrive.com/news/kubotas-remote-control-tractor-was-an-80s-flop-this-guy-just-found-a-survivor) — *The Drive*
 
-### 2. 2026 Mazda MX-5 RF Review: Is a Miata With a Heavy and Pricey Hardtop Still ‘the Answer’?
+### 3. 2026 Mazda MX-5 RF Review: Is a Miata With a Heavy and Pricey Hardtop Still ‘the Answer’?
 
 [原文] The Mazda Miata is the automotive equivalent of a summer outfit: shorts, a flowy tee, and breathable sneakers that can take a beating. But let's talk about the RF's heavy hat up top.
 The post 2026 Maz
 
 📎 [阅读原文](https://www.thedrive.com/car-reviews/2026-mazda-mx-5-rf-review-is-a-miata-with-a-heavy-and-pricey-hardtop-still-the-answer) — *The Drive*
 
-### 3. The Dodge Viper V10 Is Back—In A Tiny New Supercar
+### 4. The Dodge Viper V10 Is Back—In A Tiny New Supercar
 
 [原文] The Viper may be dead, but with its engine, this Bristol lives to fight another day.
 The post The Dodge Viper V10 Is Back—In A Tiny New Supercar appeared first on The Drive.
 
 📎 [阅读原文](https://www.thedrive.com/news/the-dodge-viper-v10-is-back-in-a-tiny-new-supercar) — *The Drive*
 
-### 4. Tuning the Bugatti Tourbillon’s V16 Exhaust Sound Took a Lot of Work. It Was Worth It
+### 5. Tuning the Bugatti Tourbillon’s V16 Exhaust Sound Took a Lot of Work. It Was Worth It
 
 [原文] Engineers spent thousands of hours making the Tourbillon's 9,000-rpm engine sound as great as possible, while still meeting regulatory standards—not an easy task.
 The post Tuning the Bugatti Tourbillo
 
 📎 [阅读原文](https://www.thedrive.com/news/tuning-the-bugatti-tourbillons-v16-exhaust-sound-took-a-lot-of-work-it-was-worth-it) — *The Drive*
-
-### 5. GMC Offered Plaid Valve Covers as a Factory Option in 1963
-
-[原文] For one year only, GMC did something that's never been repeated in the world of work trucks.
-The post GMC Offered Plaid Valve Covers as a Factory Option in 1963 appeared first on The Drive.
-
-📎 [阅读原文](https://www.thedrive.com/news/gmc-offered-plaid-valve-covers-as-a-factory-option-in-1963) — *The Drive*
 
 ---
 
@@ -439,35 +439,35 @@ The post GMC Offered Plaid Valve Covers as a Factory Option in 1963 appeared fir
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Celeste Rivas Hernandez’s Parents Lobby for Death Penalty if D4vd Found Guilty of Daughter’s Murder
+### 1. Billy Joel Announces Death of Early Bandmate Jon Small
+
+[原文] Small and Joel played together in the Hassles and Attila before the future Piano Man had affair with Small's wife, temporarily ending their friendship
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/jon-small-billy-joel-early-band-mate-dead-obituary-1235622476/) — *Rolling Stone*
+
+### 2. Celeste Rivas Hernandez’s Parents Lobby for Death Penalty if D4vd Found Guilty of Daughter’s Murder
 
 [原文] "If the death penalty were activated, it would be perfect for this kind of human being, devoid of feelings and emptiness inside," says family of victim who would have turned 16 on Monday
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/d4vd-death-penalty-victim-family-says-1235622460/) — *Rolling Stone*
 
-### 2. Radiohead Reveal 2027 Japan and Australia Tour
+### 3. Radiohead Reveal 2027 Japan and Australia Tour
 
 [原文] The 21-date trek follows the band's fall 2025 reunion dates in Europe
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/radiohead-2027-tour-dates-australia-japan-1235614678/) — *Rolling Stone*
 
-### 3. Watch Carrie Underwood Cover Limp Bizkit, Papa Roach, Linkin Park at Velocity Festival
+### 4. Watch Carrie Underwood Cover Limp Bizkit, Papa Roach, Linkin Park at Velocity Festival
 
 [原文] The country singer performed a series of nu-metal covers at the Iowa music festival on Saturday
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/carrie-underwood-limp-bizkit-papa-roach-covers-live-1235622371/) — *Rolling Stone*
 
-### 4. Andy Williams, Every Time I Die Guitarist and Pro Wrestler, Dead at 48
+### 5. Andy Williams, Every Time I Die Guitarist and Pro Wrestler, Dead at 48
 
 [原文] Founding rhythm guitarist for Buffalo metalcore band successfully segued into wrestling at "The Butcher"
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/andy-williams-every-time-i-die-guitarist-wrestler-dead-obit-1235622341/) — *Rolling Stone*
-
-### 5. 14 People Hospitalized During the Chainsmokers’ Concert in San Jose
-
-[原文] Over a dozen concertgoers required medical attention for "suspected alcohol intoxication and drug-related issues," authorities say
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/14-people-hospitalized-the-chainsmokers-concert-san-jose-1235622325/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post GMC Offered Plaid Valve Covers as a Factory Option in 1963 appeared fir
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. EU Ends Border ‘Safety Valve’ as Airlines Warn of More Delays
+### 1. Vrbo’s Biggest Product Push Yet, and What Hosts Need to Know
+
+[原文] On this episode of Good Morning Hospitality, Michael Goldin, Brandy Canaley, and Jamie Lane sit down with Tim Rosolio, VP of Vacation Rental Partnerships at Expedia Group, to unpack what the expansion
+
+📎 [阅读原文](https://skift.com/2026/09/07/vrbos-biggest-product-push-yet-and-what-hosts-need-to-know/) — *Skift*
+
+### 2. EU Ends Border ‘Safety Valve’ as Airlines Warn of More Delays
 
 [原文] The training wheels are off – Brussels now finds out whether Europe’s airports can actually stay upright.
 
 📎 [阅读原文](https://skift.com/2026/09/07/eu-ends-border-safety-valve-as-airlines-warn-of-more-delays/) — *Skift*
 
-### 2. Flyadeal CEO Reveals Plans for Premium Economy and Long-Haul Network
+### 3. Flyadeal CEO Reveals Plans for Premium Economy and Long-Haul Network
 
 [原文] Flyadeal’s move into connecting flights and premium economy marks a natural next step for a budget carrier scaling into long-haul.
 
 📎 [阅读原文](https://skift.com/2026/09/07/flyadeal-ceo-reveals-plans-for-premium-economy-and-long-haul-network/) — *Skift*
 
-### 3. Air India’s New CEO Gets a Clear Mandate: Safety, Reliability and Profit
+### 4. Air India’s New CEO Gets a Clear Mandate: Safety, Reliability and Profit
 
 [原文] New CEO Tewolde Gebremariam is taking over a very different Air India from the one Campbell Wilson inherited in 2022. The airline has more aircraft, more resources and bigger ambitions, not to forget,
 
 📎 [阅读原文](https://skift.com/2026/09/07/air-indias-new-ceo-gets-a-clear-mandate-safety-reliability-and-profit/) — *Skift*
 
-### 4. A Viral AI Bot Just Showed Travel What Frictionless Actually Means
+### 5. A Viral AI Bot Just Showed Travel What Frictionless Actually Means
 
 [原文] Instinct, a freshman AI assistant that has Silicon Valley buzzing, can book and rebook trips from a text thread. Key lesson for travel: Talking about frictionless booking isn't the same as delivering 
 
 📎 [阅读原文](https://skift.com/2026/09/04/a-viral-ai-bot-just-showed-travel-what-frictionless-actually-means/) — *Skift*
-
-### 5. Blackstone Plans $7 Billion IPO of Spanish Resort Owner Hotel Investment Partners: Report
-
-[原文] After nearly two years of weighing a sale, the private equity giant is reportedly steering the Barcelona-based owner of hotels and resorts across the Mediterranean toward a Madrid listing this fall.
-
-📎 [阅读原文](https://skift.com/2026/09/04/blackstone-plans-7-billion-ipo-of-spanish-resort-owner-hotel-investment-partners-report/) — *Skift*
 
 ---
 
