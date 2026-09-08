@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月09日** | 生成时间: 2026-09-09 00:18
+**2026年09月09日** | 生成时间: 2026-09-09 04:54
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs
+### 1. UK announces sanctions on West Bank settlements prompting furious Israeli response
+
+[原文] Britain's foreign secretary accuses settlers of carrying out the "ethnic cleansing" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs
 
 [原文] Canada's levies - as high as 50% - will apply to nearly $20bn of US products, from steel to T-shirts.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Renoir paintings worth millions stolen in French museum heist
+### 3. Renoir paintings worth millions stolen in French museum heist
 
 [原文] It is the latest in a string of high-profile art thefts in Europe that has again put the security of museums and galleries in the spotlight.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Argentina to file criminal case against oil company operating in Falklands
+### 4. Argentina to file criminal case against oil company operating in Falklands
 
 [原文] The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Ukrainian TV channel building hit by Russian drone as five killed in Kyiv
+### 5. Ukrainian TV channel building hit by Russian drone as five killed in Kyiv
 
-[原文] The attack happened while the We Are Ukraine channel was broadcasting live, President Zelensky said.
+[原文] President Zelensky describes the daytime drone attack in Ukraine's capital as a "new page in Russian degradation"
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Saudi Arabia vows to respond after Houthis attack cities and energy facilities
-
-[原文] The Iran-backed Yemeni group's attacks have injured 73 people and caused fires at oil facilities, Saudi authorities say.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,11 +54,11 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Qualcomm issues Amazon warrants to acquire $4 billion worth of chipmaker's stock as part of AI infrastructure deal
+### 1. U.S. downplays Iran's seizure of unmanned sub in Hormuz Strait
 
-[原文] Qualcomm is trying to move into the data center business, where Nvidia has been the dominant player in the AI boom.
+[原文] The U.S. and Iran traded new attacks around the Strait of Hormuz, as President Donald Trump insists oil prices will drop fast once the Iran war ends.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/08/qualcomm-amazon-data-center-infrastructure-deal.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/08/iran-us-sub-strait-hormuz.html) — *CNBC*
 
 ### 2. Bombardier points out U.S. footprint after Trump says aerospace giant must build in America
 
@@ -66,23 +66,23 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/07/trump-bombardier-cant-sell-in-us-unless-canada-aerospace-giant-builds-there.html) — *CNBC*
 
-### 3. U.S. sanctions Iranian airlines in aim to tighten economic squeeze as war spreads, oil rises
+### 3. Trump administration expresses 'profound concern' over Ford's ties to China
 
-[原文] The latest U.S. action under "Operation Economic Outcast" targets all Iranian airlines that were not already facing sanctions.
+[原文] In a letter to Ford CEO Jim Farley, U.S. DOT Secretary Sean Duffy questioned the automaker's strategic trajectory involving Chinese companies.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/08/us-sanctions-iran-airlines-oil-economy-war.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/08/ford-china-dot-sean-duffy.html) — *CNBC*
 
-### 4. AstraZeneca's COPD drug scores two late-stage trial wins as full data boosts blockbuster hopes
+### 4. This alternative energy stock is more popular than SpaceX in the options pits. Here's why
 
-[原文] The full data reinforces hopes that the drug could be a breakthrough COPD treatment and reach AstraZeneca's peak annual sales forecast of more than $5 billion.
+[原文] Crude oil is back above $90 and energy stocks in the S&P 500 index are approaching fresh 52-week highs.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/08/astrazeneca-copd-drug-tozorakimab-shows-positive-late-stage-trial-results.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/08/bloom-energy-is-trading-more-options-than-spacex.html) — *CNBC*
 
-### 5. Here’s where rental demand is heading and what it means for future home sales
+### 5. New Hampshire goes to the polls in primary for key open Senate seat
 
-[原文] As U.S. rent prices rise, more tenants are relocating to cheaper markets, according to a new report by Zillow.
+[原文] Incumbent Sen. Jeanne Shaheen, D-N.H., will retire when her term ends in January.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/08/rental-demand-home-sales-zillow-report.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/08/new-hampshire-primary-senate-scott-brown-john-sununu-chris-pappas-karishma-manzur.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Google’s revived nuclear power plant gets $1.9B loan from US government
+### 1. The Exploration Company nabs $450 million to challenge SpaceX
 
-[原文] Google said it would bring an Iowa nuclear power plant back from the dead. Now, the plant's owner is getting a $1.9B loan from the U.S. Energy Department.
+[原文] The Exploration Company (TEC) has raised $450 million to build reusable spacecraft, in what it describes as “the largest-ever Series C by a European space company.”
 
-📎 [阅读原文](https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/) — *TechCrunch*
 
-### 2. Chrome is now shipping updates every 2 weeks as AI changes the security landscape
+### 2. Meta debuts its Muse AI agent. Will consumers trust it?
 
-[原文] Google is speeding up Chrome’s release schedule to ship security patches and new features faster.
+[原文] Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still t
 
-📎 [阅读原文](https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/) — *TechCrunch*
 
-### 3. Mistral raises €3B as sovereign AI becomes big business
+### 3. How to watch Apple’s foldable iPhone announcement
 
-[原文] The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe and PSG Equity.
+[原文] Apple's annual iPhone event will stream live on September 9 at 10 a.m. PDT, and we're expecting big news.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/) — *TechCrunch*
 
-### 4. A hacker stole $340M in a crypto heist, then returned most of it
+### 4. OpenAI fought dirty on career-making math problem, says NYU mathematician
 
-[原文] The latest heist is one of the largest thefts of cryptocurrency to date.
+[原文] There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/08/a-hacker-stole-340m-in-a-crypto-heist-then-returned-most-of-it/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/) — *TechCrunch*
 
-### 5. Nuclear startup Bluecore Energy raises $50M seed round, just two months after launch
+### 5. Google Cloud races to catch up in the AI deployment wars with Accenture deal
 
-[原文] Bluecore Energy announced Tuesday an oversubscribed $50 million seed round — just months after raising a $10 million pre-seed and coming out of stealth.
+[原文] Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Favourite Kane makes Ballon d'Or shortlist
+### 1. LIV players free to leave after bankruptcy protection filing
+
+[原文] LIV Golf intends to starts its new league early next year after filing for bankruptcy protection in the United States.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/ce8x39wj5p1o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. From shot-shy to shoot on sight - Villa find a way to win
+
+[原文] Aston Villa finally found their shooting boots with three goals at Club Brugge - but their win was not straightforward.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c62j655pe81o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. Favourite Kane makes Ballon d'Or shortlist
 
 [原文] Bayern Munich striker Harry Kane is one of three England players nominated for the 2026 Ballon d'Or alongside Jude Bellingham and Declan Rice.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c62m82qqm87o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. England different from when Pietersen left - Root
+### 4. Sabalenka fights back to keep US Open defence alive
 
-[原文] Joe Root says the England team is "very different" to the one Kevin Pietersen was sacked from in 2014, after the former batter joined the coaching staff of the white-ball side.
+[原文] Aryna Sabalenka battles back to beat sixth seed Linda Noskova in three sets and advance to the semi-finals.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cr4vex3rpz2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/c3v43p9r2qdo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Mac Allister 'sad' at no Liverpool contract offer
+### 5. GB's Brennan wins his fourth stage of 2026 Vuelta
 
-[原文] Liverpool midfielder Alexis Mac Allister says he is "very sad" not to have been offered a new deal by the club and had "options" to leave in the summer.
+[原文] Britain's Matthew Brennan sprints to his fourth stage win of the 2026 Vuelta a Espana.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cvgy0542qjvo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. McTominay's heart procedure 'a complete success'
-
-[原文] Napoli say Scott McTominay's heart surgery "was a complete success" and expect the Scotland midfielder to resume training this month.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cd79y308yl9o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Russo and Greenwood nominated for Ballon d'Or
-
-[原文] England stars Alessia Russo and Alex Greenwood are among 30 players nominated for the women's Ballon d'Or.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cpd01d9je5zo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cycling/articles/c804dl8m544o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘Practical Magic 2’ Review: Sandra Bullock and Nicole Kidman Don’t Quite Cast a Spell in an Overlong, Predictable Sequel
+### 1. Nick Offerman Slams Ben Shapiro’s ‘Rampant Homophobia’ After Being Attacked for Playing a Gay Role: ‘Holy S—. That’s Crazy’
 
-[原文] As cumbersome and overlong as the 28-year wait between the 1998 original film and its sequel, “Practical Magic 2” serves as a next-generation reminder that sometimes the best way to let a beloved expe
+[原文] Nick Offerman recently appeared on the &#8220;Talk Easy With Sam Fragoso&#8221; podcast and blasted Ben Shapiro&#8217;s &#8220;rampant homophobia&#8221; after seeing a video for the first time of the 
 
-📎 [阅读原文](https://variety.com/2026/film/reviews/practical-magic-2-review-sandra-bullock-nicole-kidman-1236854379/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/nick-offerman-slams-ben-shapiro-homophobia-1236854766/) — *Variety*
 
-### 2. Here’s How to Watch 2026-2027 UEFA Champions League Matches Live Online
+### 2. Suno and Believe Music Announce Strategic Partnership
 
-[原文] The 2026-2027 UEFA Champions League tournament features the best clubs in Europe, like Arsenal, Paris Saint-Germain, Bayern München, Atlético de Madrid and others, competing for a chance to hoist the 
+[原文] Suno, the controversial AI music generating platform, continues to make moves toward legitimacy in the music industry: After striking licensing deals with Warner Music and BMG (arguably the third and 
 
-📎 [阅读原文](https://variety.com/2026/shopping/news/how-to-watch-uefa-champions-league-2026-2027-live-online-free-1236854798/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/digital/news/suno-believe-strategic-partnership-1236855137/) — *Variety*
 
-### 3. ‘Entourage’ Stars Jeremy Piven and Adrian Grenier Reunite on Screen After 11 Years in Ad for Jake Paul’s Gambling App Betr (EXCLUSIVE)
+### 3. Jim Geoghan, ‘Suite Life of Zack & Cody’ Co-Creator, Dies at 79
 
-[原文] There may never be an &#8220;Entourage&#8221; revival, but fans can get a little taste of Ari and Vince in a new ad. Jeremy Piven and Adrian Grenier, who played super agent Ari Gold and movie star Vin
+[原文] Jim Geoghan, the creator of “Suite Life of Zack &#38; Cody,” died on Sept. 6 at 79 in Los Angeles, his daughter Genevieve Geoghan confirmed to Variety. He was 79. He co-created and executive produced 
 
-📎 [阅读原文](https://variety.com/2026/tv/news/entourage-reunion-jeremy-piven-adrian-grenier-ad-1236854333/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/people-news/jim-geoghan-dead-dies-suite-life-zack-cody-1236855101/) — *Variety*
 
-### 4. ‘Artificial’ Trailer: Andrew Garfield Is Sam Altman in Luca Guadagnino’s OpenAI Movie as Neon Sets Christmas Day Release
+### 4. Prime Video Orders Australian Originals ‘Free Spirits: The Backpacker Poisonings,’ ‘Madness of Three’ and ‘The Test’ Season 4
 
-[原文] Chat, what&#8217;s the latest &#8220;Artificial&#8221; news? Neon has released the trailer for Luca Guadagnino&#8217;s “Artificial,” which will open in theaters on Christmas Day. The movie stars Andre
+[原文] Prime Video has ordered three new Australian original titles, growing its local slate to 34 commissions since 2019. The new titles include two true-crime docuseries and a fourth season of the sports d
 
-📎 [阅读原文](https://variety.com/2026/film/news/artificial-trailer-andrew-garfield-openai-biopic-1236802616/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/prime-video-australian-originals-the-test-season-4-1236854836/) — *Variety*
 
-### 5. ‘Littermates’ Sets Theatrical Release Via Alamo Exclusives; Comic Dystopian Film Also Sets Fantastic Fest Screening (EXCLUSIVE)
+### 5. Penélope Cruz Sobs and Kisses Javier Bardem as ‘Bunker’ Dazzles Venice With Record 15.5-Minute Ovation
 
-[原文] Scott Tinkham and Michael Woloson&#8217;s indie feature “Littermates” is headed to the big screen. The comic dystopian feature is set to open at over 30 Alamo Drafthouse locations on Nov. 6 via Alamo 
+[原文] Penelope Cruz broke out into uncontrollable sobs as she kissed her husband and co-star Javier Bardem during the incredibly long 15.5-minute standing ovation at the premiere of &#8220;Bunker&#8221; at 
 
-📎 [阅读原文](https://variety.com/2026/film/news/littermates-theatrical-release-alamo-exclusives-1236849930/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/penelope-cruz-javier-bardem-bunker-venice-premiere-1236844863/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Legend of Zelda: Ocarina of Time Remake Release Date Confirmed, and It Looks Like a Faithful-Looking Return With a Few Surprises
+### 1. Nintendo Intentionally Included Loading Screens in The Legend of Zelda: Ocarina of Time Remake, and Fans Are Torn
 
-[原文] Nintendo has finally shown off its upcoming The Legend of Zelda: Ocarina of Time remake, and revealed its launch date.
+[原文] Nintendo has confirmed it intentionally included loading screens in its The Legend of Zelda: Ocarina of Time remake to "preserve the essence of the original game," and the internet isn't in love with 
 
-📎 [阅读原文](https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-fully-revealed) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/nintendo-intentionally-included-loading-screens-in-the-legend-of-zelda-ocarina-of-time-remake-and-fans-are-torn) — *IGN*
 
-### 2. Nintendo Reveals Lego Link & Epona Set for The Legend of Zelda 40th Anniversary
+### 2. The Live-Action Moana’s 4K Steelbook Is Now Up for Preorder – Here’s Where You Can Grab It
 
-[原文] Nintendo has revealed an Ocarina of Time-themed Lego Link & Epona set as part of its The Legend of Zelda 40th Anniversary Direct.
+[原文] 2026's live-action Moana is making its way to a physical format with a 4K steelbook alongside regular 4K and Blu-ray releases. Here's where you can preorder them, and what bonus features this release 
 
-📎 [阅读原文](https://www.ign.com/articles/nintendo-reveals-lego-link-epona-set-for-the-legend-of-zelda-40th-anniversary) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/moana-2026-live-action-4k-steelbook-where-to-buy) — *IGN*
 
-### 3. Call of Duty 2 Signaled the Beginning of the End of Halo's Reign As the King of Console Shooters
+### 3. Sega's President Says There's Been an Increase in Fans Who Don't Play Its Games, but That Doesn't Mean They Aren't Gamers
 
-[原文] Call of Duty 2 was, quite simply, the right game at the right time for Xbox 360. It showed gamers what the new console was capable of while also being a stellar game regardless of platform. It probabl
+[原文] Sega president and COO Shuji Utsumi says the company has experienced an uptick in fans who don’t actually play the games it develops and publishes.
 
-📎 [阅读原文](https://www.ign.com/articles/call-of-duty-2-signaled-the-beginning-of-the-end-of-halos-reign-as-the-king-of-console-shooters) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/segas-president-says-theres-been-an-increase-in-fans-who-dont-play-its-games-but-that-doesnt-mean-they-arent-gamers) — *IGN*
 
-### 4. The Legend of Zelda Live-Action Movie Will Be an Original Story Based on the Series So Far
+### 4. The Legend of Zelda 40th Anniversary Edition Switch 2 and Accessories Are Going Up for Preorder
 
-[原文] Nintendo has discussed further details of its live-action The Legend of Zelda movie, including its title and story.
+[原文] Evertyhing you need to know to preorder a Legend of Zelda 40th Anniversary Edition Nintendo Switch 2, Pro Controller, and carrying case (all available October 29).
 
-📎 [阅读原文](https://www.ign.com/articles/the-legend-of-zelda-live-action-movie-detailed) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/legend-of-zelda-40th-anniversary-edition-switch-2-pro-controller-where-to-buy) — *IGN*
 
-### 5. Donnie Darko Returning to Theaters in 4K for 25th Anniversary
+### 5. Marvel’s Wolverine: Every Comic Book Costume In the PS5 Game
 
-[原文] Cult classic Donnie Darko is returning to movie theaters nationwide in a restored 4K format to celebrate the film's 25th anniversary.
+[原文] We break down every costume confirmed to appear in Marvel's Wolverine and how Insomniac's new game draws on decades of X-Men lore.
 
-📎 [阅读原文](https://www.ign.com/articles/donnie-darko-25th-anniversary-4k-theatrical-re-release) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/marvels-wolverine-ps5-game-costumes-origins) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. This Waterproof Gas Engine Is Built To Run Underwater, Not Just Wade Through It
+### 1. They Said a Porsche 944 K-Swap Was Impossible. They Were Wrong
 
-[原文] The Horse B20 is a usual engine (2.0-liter turbo) with an unusual ability—it stays running when submerged.
-The post This Waterproof Gas Engine Is Built To Run Underwater, Not Just Wade Through It appe
+[原文] After more than a year, our K24-swapped Porsche 944 can finally move under its own power!
+The post They Said a Porsche 944 K-Swap Was Impossible. They Were Wrong appeared first on The Drive.
+
+📎 [阅读原文](https://www.thedrive.com/news/they-said-a-porsche-944-k-swap-was-impossible-they-were-wrong) — *The Drive*
+
+### 2. Someone Slapped a Turbo on a 100-Year-Old Ford Model T Engine. Will It Actually Work?
+
+[原文] Automakers weren't turbocharging their cars a century ago, but what's stopping hot-rodders from trying it now? Technically, nothing.
+The post Someone Slapped a Turbo on a 100-Year-Old Ford Model T Eng
+
+📎 [阅读原文](https://www.thedrive.com/news/someone-slapped-a-turbo-on-a-100-year-old-ford-model-t-engine-will-it-actually-work) — *The Drive*
+
+### 3. No Bridge, No Problem: New Turbo-Four Gas Engine Can Actually Run Underwater
+
+[原文] The newly-developed Horse B20 is a usual engine (2.0-liter turbo) with an unusual ability to stay running while submerged in up to four feet of water.
+The post No Bridge, No Problem: New Turbo-Four Ga
 
 📎 [阅读原文](https://www.thedrive.com/news/this-waterproof-gas-engine-is-built-to-run-underwater-not-just-wade-through-it) — *The Drive*
 
-### 2. Forza Horizon 6 Just Added a Car You Won’t See in Any Other Game
+### 4. Forza Horizon 6 Just Added a Car You Won’t See in Any Other Game
 
 [原文] The weird, rare Renault Sport Spider hasn't appeared in a racing game in over 20 years, but Forza Horizon 6 just took care of that.
 The post Forza Horizon 6 Just Added a Car You Won&#8217;t See in Any
 
 📎 [阅读原文](https://www.thedrive.com/news/forza-horizon-6-adds-renault-spider-september-car-pass) — *The Drive*
 
-### 3. Traffic Experts Are Tricking Drivers Into Slowing Down With More Green Lights
+### 5. The Trick To Stop Speeding Drivers Is Actually More Green Lights
 
-[原文] Think traffic lights are timed just to screw with your commute? Check out what they're doing out west. 
-The post Traffic Experts Are Tricking Drivers Into Slowing Down With More Green Lights appeared 
+[原文] To cut down on speeding, some cities are experimenting with timing traffic lights so drivers who do the speed limit can ride an endless wave of green.
+The post The Trick To Stop Speeding Drivers Is Ac
 
 📎 [阅读原文](https://www.thedrive.com/news/traffic-experts-are-tricking-drivers-into-slowing-down-with-more-green-lights) — *The Drive*
-
-### 4. Straight-Six-Powered BMW M350 Promises 440 HP and a Drift Mode: TDS
-
-[原文] Also, Stellantis has expanded an already massive Jeep Grand Cherokee suspension recall, and the new Audi A2 is an EV we'll be sad to miss out on.
-The post Straight-Six-Powered BMW M350 Promises 440 HP
-
-📎 [阅读原文](https://www.thedrive.com/news/straight-six-powered-bmw-m350-promises-440-hp-and-a-drift-mode-tds) — *The Drive*
-
-### 5. Do Mudflaps Tank Your Truck’s MPG? This Super Scientific Aero Breakdown Has Answers
-
-[原文] Removing your mud flaps might help reduce drag and boost fuel economy, but most pickups have bigger issues when it comes to aero.
-The post Do Mudflaps Tank Your Truck&#8217;s MPG? This Super Scientifi
-
-📎 [阅读原文](https://www.thedrive.com/news/do-mudflaps-tank-your-trucks-mpg-this-super-scientific-aero-breakdown-has-answers) — *The Drive*
 
 ---
 
@@ -401,23 +401,23 @@ The post Do Mudflaps Tank Your Truck&#8217;s MPG? This Super Scientifi
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Are Schools Inadvertently Making Students More Stressed?
+### 1. AI Videos Are Warping Early Learning, Teachers Say
+
+[原文] The rise of so-called “baby slop” is turning early childhood educators into media critics.
+
+📎 [阅读原文](https://edsurge.com/news/ai-videos-are-warping-early-learning-teachers-say-heres-how-theyre-responding) — *EdSurge*
+
+### 2. Are Schools Inadvertently Making Students More Stressed?
 
 [原文] Cathy Vatterott, author of “The Teens Are Not Alright,” believes schools are treating the symptoms of student stress instead of looking at the real problem.
 
 📎 [阅读原文](https://edsurge.com/news/are-schools-inadvertently-making-students-more-stressed) — *EdSurge*
 
-### 2. Hundreds of Thousands of Eligible Kids Are Waiting for Childcare Assistance
+### 3. Hundreds of Thousands of Eligible Kids Are Waiting for Childcare Assistance
 
 [原文] A nationwide investigation reveals massive waitlists for government-funded childcare assistance, leaving low-income families stranded without essential ...
 
 📎 [阅读原文](https://edsurge.com/news/hundreds-of-thousands-of-eligible-kids-are-waiting-for-childcare-assistance) — *EdSurge*
-
-### 3. Putting Edtech Guidance to Work in the Classroom
-
-[原文] A look at what happens when rules written far from a classroom land on a teacher’s desk.
-
-📎 [阅读原文](https://edsurge.com/news/putting-edtech-guidance-to-work-in-the-classroom) — *EdSurge*
 
 ### 4. How AI Taught Me to Embrace Vulnerability in the Classroom
 
@@ -425,11 +425,11 @@ The post Do Mudflaps Tank Your Truck&#8217;s MPG? This Super Scientifi
 
 📎 [阅读原文](https://edsurge.com/news/how-ai-taught-me-to-embrace-vulnerability-in-the-classroom) — *EdSurge*
 
-### 5. A Principal and a Student Reviewed the New ChatGPT for Teens. They Had Plenty to Say
+### 5. Putting Edtech Guidance to Work in the Classroom
 
-[原文] The new offering is promising, but there are some real-world reservations.
+[原文] A look at what happens when rules written far from a classroom land on a teacher’s desk.
 
-📎 [阅读原文](https://edsurge.com/news/a-principal-and-a-student-reviewed-the-new-chatgpt-for-teens-they-had-plenty-to-say) — *EdSurge*
+📎 [阅读原文](https://edsurge.com/news/putting-edtech-guidance-to-work-in-the-classroom) — *EdSurge*
 
 ---
 
@@ -439,35 +439,35 @@ The post Do Mudflaps Tank Your Truck&#8217;s MPG? This Super Scientifi
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Sir Tom Jones Reveals He Was Fired From ‘The Voice UK’
+### 1. D’Angelo and Angie Stone’s Son Will Play the Notorious B.I.G. in the Snoop Dogg Biopic
+
+[原文] This will be the first major acting role for Michael D'Angelo Archer II, who's also been releasing music as SwayvoTwain
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/snoop-dogg-biopic-dangelo-son-notorious-big-1235622984/) — *Rolling Stone*
+
+### 2. Abbey Road Music Photography Awards Announce 2026 Finalists
+
+[原文] Photos of Oasis, Charli XCX, and more are nominated for this month’s annual awards at the legendary London studios
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/abbey-road-music-photography-awards-2026-finalists-1235622602/) — *Rolling Stone*
+
+### 3. Hear Elton John Dig Out Sixties Deep Cut ‘Skyline Pigeon’ at Rock in Rio
+
+[原文] “This next song is the first good song I wrote with Bernie [Taupin],” John said. “And Brazil is the only place it’s ever been popular, so here we go”
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/elton-john-dig-skyline-pigeon-rock-in-rio-1235622664/) — *Rolling Stone*
+
+### 4. Sir Tom Jones Reveals He Was Fired From ‘The Voice UK’
 
 [原文] “They now say in the press they wanted to ‘refresh’ the show, and with a new coaching line-up there wouldn’t be a chair for me,” he wrote on X
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/tom-jones-fired-from-the-voice-uk-1235622537/) — *Rolling Stone*
 
-### 2. Stevie Wonder to Play All of ‘Songs In the Key of Life’ on 50th Anniversary Tour
+### 5. Stevie Wonder to Play All of ‘Songs in the Key of Life’ on 50th-Anniversary Tour
 
 [原文] The musician will celebrate his landmark 1976 album on a fall trek that will hit the U.S. in November and December
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/stevie-wonder-songs-in-the-key-of-life-tour-dates-1235622542/) — *Rolling Stone*
-
-### 3. Cage the Elephant Will Play the Halftime Show at NFL’s Munich Game
-
-[原文] “We are going to bring the same energy we bring to our own shows and we cannot wait,” says Cage the Elephant’s Matt Shultz of the Nov. 15 Germany matchup between the Patriots and Lions
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/cage-the-elephant-halftime-nfl-munich-game-1235622560/) — *Rolling Stone*
-
-### 4. Billy Joel Announces Death of Early Bandmate Jon Small
-
-[原文] Small and Joel played together in the Hassles and Attila before the future Piano Man had affair with Small's wife, temporarily ending their friendship
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/jon-small-billy-joel-early-band-mate-dead-obituary-1235622476/) — *Rolling Stone*
-
-### 5. Celeste Rivas Hernandez’s Parents Lobby for Death Penalty if D4vd Found Guilty of Daughter’s Murder
-
-[原文] “If the death penalty were activated, it would be perfect for this kind of human being, devoid of feelings and emptiness inside,” says family of victim who would have turned 16 on Monday
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/d4vd-death-penalty-victim-family-says-1235622460/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post Do Mudflaps Tank Your Truck&#8217;s MPG? This Super Scientifi
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Inside the Financial Engineering of Club Med’s IPO
+### 1. What Hurricane Season Means For Hospitality’s Capex
+
+[原文] Host Hotels & Resorts’ $105 million work on The Don CeSar puts a real number on the cost of hurricane repairs and preparedness — but, as the company notes, investing in resilience doesn’t reduce risk 
+
+📎 [阅读原文](https://skift.com/2026/09/08/what-hurricane-season-means-for-hospitalitys-capex/) — *Skift*
+
+### 2. Google Strips Out EU Travel Search Features to Avoid More Fines
+
+[原文] Google is scaling back certain search features in Europe as DMA enforcement escalates.
+
+📎 [阅读原文](https://skift.com/2026/09/08/google-update-europe-travel-search-results-dma/) — *Skift*
+
+### 3. Inside the Financial Engineering of Club Med’s IPO
 
 [原文] Club Med wants to grow from 69 resorts to about 85 without owning the next wave, and its new financial structure helps explain why.
 
 📎 [阅读原文](https://skift.com/2026/09/08/inside-the-financial-engineering-of-club-meds-ipo/) — *Skift*
 
-### 2. Luxury+Lifestyle: Can a Small Collection of Iconic London Hotels Out-Earn Big Brands?
+### 4. Luxury+Lifestyle: Can a Small Collection of Iconic London Hotels Out-Earn Big Brands?
 
 [原文] The owner of The Connaught and The Berkeley has hired the man who scaled Six Senses to build an operating company for luxury lifestyle hotels it owns and doesn't own.
 
 📎 [阅读原文](https://skift.com/2026/09/08/luxurylifestyle-can-a-small-collection-of-iconic-london-hotels-out-earn-big-brands/) — *Skift*
 
-### 3. Skift Global Forum Preview: Intrepid’s Chairman on the Climate Cost His Rivals Sidestep
+### 5. Skift Global Forum Preview: Intrepid’s Chairman on the Climate Cost His Rivals Sidestep
 
 [原文] You created the demand, so you own the emissions. That's Darrell Wade's case for counting the customer flights most operators leave off their carbon books, and the competitive cost it carries. We'll t
 
 📎 [阅读原文](https://skift.com/2026/09/08/skift-global-forum-preview-intrepid-chairman-carbon-emissions-flights/) — *Skift*
-
-### 4. Everyone Is All In on the Airbus A321XLR — Except Delta
-
-[原文] More airlines are embracing long-haul flying on narrowbody jets — in a competitive transatlantic market, they allow airlines to launch service in smaller cities. However, Delta is not convinced.
-
-📎 [阅读原文](https://skift.com/2026/09/08/everyone-is-all-in-on-the-airbus-a321xlr-except-for-delta/) — *Skift*
-
-### 5. How Wellness Hospitality Is Breaking Out of the Luxury Bubble
-
-[原文] Health-conscious travel is entering the mainstream. Novotel’s Longevity Everyday model shows how hotel brands can extend wellness beyond premium retreats by embedding supportive choices into the ordin
-
-📎 [阅读原文](https://skift.com/2026/09/08/novotel-longevity-travel-everyday-wellness/) — *Skift*
 
 ---
 
