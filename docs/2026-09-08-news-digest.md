@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月08日** | 生成时间: 2026-09-08 05:19
+**2026年09月08日** | 生成时间: 2026-09-08 11:48
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Palestinian parents fear for children's lives at school as settler attacks grow
+### 1. Flight recorders recovered from 'devastating' Amazon cargo plane crash
+
+[原文] Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Palestinian parents fear for children's lives at school as settler attacks grow
 
 [原文] A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Germany's far-right AfD says 'democracy demands' parties work with them after state election win
+### 3. Germany's far-right AfD says 'democracy demands' parties work with them after state election win
 
 [原文] The far-right party is trying to form a government in the state after falling three seats short of a majority.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Thousands turn out in Serbia for funeral of  'Butcher of Bosnia' Ratko Mladić
+### 4. Eiffel Tower shut by staff protest after female workers moved for religious visit
 
-[原文] Mladić was jailed for genocide during the 1990s Bosnian war and the EU warned Serbia not to glorify the convicted war criminal.
+[原文] The mayor of Paris said an investigation would be launched into the incident, which left female employees "humiliated", according to a union representative.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cn5dkk7yw74o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Israeli strikes in southern Lebanese village kill 12
+### 5. Ukraine's chief prosecutor resigns over call centre corruption scandal
 
-[原文] Lebanon says a recent Israeli escalation is jeopardising a US-brokered ceasefire meant to end the conflict between Israel and Hezbollah.
+[原文] In his resignation letter, Ruslan Kravchenko denied the allegations against him, saying he did not want his office "to be used as a tool in political confrontation".
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Grindr to pay £26m to settle claims it allegedly shared users' HIV status
-
-[原文] The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c780nlgyd79o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Oil prices rise to 6-week high after Iran and U.S. trade blows, Saudi Aramco facilities reportedly hit
+### 1. China's imports in August miss estimates as exports pick up pace amid calls for rebalancing trade
 
-[原文] Renewed attacks between the adversaries in the Iran war pushed oil prices up on Monday.
+[原文] China's exports and imports gathered momentum in August, as the world's second-largest economy faces mounting pressure to rebalance trade.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/07/oil-prices-rise-to-6-week-high-after-iran-and-us-trade-blows-saudi-aramco-facilities-reportedly-hit.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/08/china-exports-imports-august-trade-rebalance-demand-surplus-.html) — *CNBC*
 
-### 2. Trump says Bombardier can't sell in U.S. unless Canada aerospace giant builds there
+### 2. Iran foreign ministry takes aim at Canada for support of U.S. actions in Strait of Hormuz
+
+[原文] Canada had condemned Iran’s "destabilizing actions" in the Middle East, saying that it would work with partners to maintain significant pressure on Iran.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/08/us-iran-war-trump-hormuz-canada-trade-talks-greenland.html) — *CNBC*
+
+### 3. Nvidia supplier Wistron's shares drop after it announces $1.5 billion global stock sale
+
+[原文] Wistron shares fall Tuesday after announcement of $1.5 billion global share sale
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/08/nvidia-supplier-wistron-share-sale.html) — *CNBC*
+
+### 4. Oil extends gains as renewed Mideast hostilities raise worries of prolonged conflict
+
+[原文] Oil prices rose Tuesday on worries over escalating Mideast tensions after the U.S. and Iran traded strikes over the weekend.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/08/oil-prices-today-brent-wti-hormuz-iran-war.html) — *CNBC*
+
+### 5. Bombardier points out U.S. footprint after Trump says aerospace giant must build in America
 
 [原文] Trump's announcement comes on the eve of Canadian retaliatory tariffs set to take effect Tuesday on $20 billion of U.S. goods.
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/07/trump-bombardier-cant-sell-in-us-unless-canada-aerospace-giant-builds-there.html) — *CNBC*
-
-### 3. Trump says he's made 'Hundreds of Billions of Dollars on Stocks' for the U.S., in stream of AI posts
-
-[原文] U.S. President Donald Trump posted a stream of AI-generated images and a series of sweeping and unverified claims on Truth Social on Sunday
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/07/trump-truth-social-ai-images-posting-spree.html) — *CNBC*
-
-### 4. SpaceX rival launches rocket in historic first, says industry is 'desperate' for more
-
-[原文] Isar Aerospace reached orbit on its second test flight as the German rocket startup looks to scale production amid booming satellite launch demand.
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/07/isar-aerospace-spacex-rival-rocket-launch.html) — *CNBC*
-
-### 5. Greenland welcomes major funding boost from EU amid Trump’s annexation threats
-
-[原文] It comes shortly after Icelanders voted to reject restarting EU membership talks and as Trump renews his push to acquire Greenland on national security grounds.
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/07/greenland-eu-trump-critical-minerals-arctic.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Opaque recurrence, and other AI terms that you should probably know
+### 1. Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch
+
+[原文] Eric Wu, who built and ran Opendoor before stepping away in 2022, has had his new company, NavigateAI, out of stealth since May — building AI copilots that give construction workers real-time, hands-f
+
+📎 [阅读原文](https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/) — *TechCrunch*
+
+### 2. Opaque recurrence, and other AI terms that you should probably know
 
 [原文] The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/) — *TechCrunch*
 
-### 2. A secret new Elizabeth Holmes documentary stuns Telluride
+### 3. A secret new Elizabeth Holmes documentary stuns Telluride
 
 [原文] Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes documentary, "You Can See Everything," stunned Telluride audiences Sunday night with its generous access to the Theranos founder.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/) — *TechCrunch*
 
-### 3. What we expect from the upcoming Apple launch
+### 4. What we expect from the upcoming Apple launch
 
 [原文] While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/) — *TechCrunch*
 
-### 4. Phil Schiller’s App Store exit reportedly driven by wariness over future plans
+### 5. Phil Schiller’s App Store exit reportedly driven by wariness over future plans
 
 [原文] Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/) — *TechCrunch*
-
-### 5. Authors push back as publishers and agents make claims on Anthropic settlement
-
-[原文] Authors say publishers seem to be claiming more than their fair share of settlement payments.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/) — *TechCrunch*
 
 ---
 
@@ -180,11 +180,11 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cm2gee75vz7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Ecclestone stopped by police for taking shotgun into Portugal
+### 3. Gauff's statement win completes stacked US Open line-up
 
-[原文] Former Formula 1 boss Bernie Ecclestone says he was stopped by officials at an airport in Portugal after arriving with a shotgun he intended to use in a clay pigeon shooting competition.
+[原文] Coco Gauff powers past teenage star Iva Jovic as the top six seeds reach the US Open women's quarter-finals for the first time in 28 years.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/cy9zx52xen2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/crk368k4e42o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ### 4. Zheng stuns Swiatek after winning another set from 5-0 down
 
@@ -192,11 +192,11 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cm2ml7xxg80o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Edu leaves Nottingham Forest after turbulent spell
+### 5. Ecclestone stopped by police for taking shotgun into Portugal
 
-[原文] Global head of football Edu leaves Nottingham Forest after just over a year at the City Ground.
+[原文] Former Formula 1 boss Bernie Ecclestone says he was stopped by officials at an airport in Portugal after arriving with a shotgun he intended to use in a clay pigeon shooting competition.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cj06m1e3e75o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/cy9zx52xen2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Elon Musk Documentary Teaser Asks If Billionaire Is the ‘Greatest Living Inventor’ or a ‘Fascist’ Who ‘Has Lost His Mind’
+### 1. French President Emmanuel Macron Calls on YouTube to Finance Content and Warns of Growing Threat to Cultural Model (EXCLUSIVE)
+
+[原文] French President Emmanuel Macron said the Lumière Summit in Saint-Paul-de-Vence, which he co-chaired with South Korean President Lee Jae Myung on Monday, was deliberately held at a moment of dramatic 
+
+📎 [阅读原文](https://variety.com/2026/film/global/french-president-emmanuel-macron-youtube-finance-content-1236854274/) — *Variety*
+
+### 2. Macklemore Says His Call to ‘Free Palestine’ Is Not a ‘Criticism’ of Jewish People: ‘None of Us Will Be Free Until We Are All Free’
+
+[原文] Macklemore is speaking out about his call to “Free Palestine,” which the rapper made while opening for Ed Sheeran on Friday night at New Jersey’s MetLife Stadium. “To all of my Jewish brothers and sis
+
+📎 [阅读原文](https://variety.com/2026/music/news/macklemore-responds-free-palestine-criticism-ed-sheeran-1236854276/) — *Variety*
+
+### 3. ‘No Paradise If You Are Killed by a Woman’ Review: Iraq’s Oscar Submission Offers a Patriotic Anthem to the Kurdish Peshmerga’s Fight Against Islamic State
+
+[原文] The trope of the lone action hero with near-superhuman strength gets a gender switch in “No Paradise If You Are Killed By A Woman,” a visually impressive drama about a resourceful female Peshmerga sni
+
+📎 [阅读原文](https://variety.com/2026/film/reviews/no-paradise-if-you-are-killed-by-a-woman-review-1236852895/) — *Variety*
+
+### 4. Elon Musk Documentary Teaser Asks If Billionaire Is the ‘Greatest Living Inventor’ or a ‘Fascist’ Who ‘Has Lost His Mind’
 
 [原文] The first teaser trailer for Alex Gibney’s highly anticipated Elon Musk documentary “Musk” has been released. The film will world premiere out of competition at the 83rd Venice International Film Fest
 
 📎 [阅读原文](https://variety.com/2026/film/news/elon-musk-documentary-trailer-1236850977/) — *Variety*
 
-### 2. ‘Elsinore’ Director Simon Stone, Basking in Telluride’s Glow, on Making a Movie About Love of the Theater, the Peak AIDS Era, and Being ‘100% in the Service of Andrew Scott’
+### 5. ‘Elsinore’ Director Simon Stone, Basking in Telluride’s Glow, on Making a Movie About Love of the Theater, the Peak AIDS Era, and Being ‘100% in the Service of Andrew Scott’
 
 [原文] The Telluride Film Festival casts a wide net, as almost all festivals of its ilk do, but if it has had any speciality that stands out among many, it might be the well-earned tearjerker. There is as mu
 
 📎 [阅读原文](https://variety.com/2026/film/news/elsinore-telluride-film-festival-andrew-scott-simon-stone-1236854213/) — *Variety*
-
-### 3. MPA Signs Two Lumiere Summit Declarations, Joins Roundtables With Presidents Macron and Lee
-
-[原文] The Motion Picture Association signed two declarations at the Lumière Summit on Monday, adding its name alongside those of governments and private sector organizations worldwide to the Lumière Declara
-
-📎 [阅读原文](https://variety.com/2026/film/news/mpa-lumiere-summit-declarations-rivkin-macron-lee-1236854208/) — *Variety*
-
-### 4. ‘Look Back’ Review: Once Past the Over- Preciousness of a Child’s World, Hirokazu Kore-eda’s Manga Adaptation Becomes a Moving Tribute to Friendship
-
-[原文] There’s barely an adult in sight in Hirokazu Kore-eda’s “Look Back,” where anyone out of school age is marginalized practically to the point of superfluidity. Like much in the first half of this sweet
-
-📎 [阅读原文](https://variety.com/2026/film/news/look-back-review-1236854197/) — *Variety*
-
-### 5. Summer Box Office Breaks All-Time Record With $4.67 Billion
-
-[原文] Need proof the movies are really, truly back? The summer box office was already the biggest since COVID upended the industry in 2020 — and now the season has become the highest-grossing of all time. D
-
-📎 [阅读原文](https://variety.com/2026/film/box-office/summer-box-office-breaks-all-time-record-1236854175/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Magic: The Gathering's Hobbit Gift Bundles Are Back In Stock at Amazon
+### 1. Pokémon TCG Destined Rivals ETB in Stock at Amazon and Under Market Price
 
-[原文] Save almost 20% and get a Collector Booster included with 9 Play Boosters, too.
+[原文] Amazon has restocked the rare Pokémon TCG Destined Rivals Elite Trainer Box for under market price.
 
-📎 [阅读原文](https://www.ign.com/articles/magic-the-gatherings-hobbit-gift-bundles-are-back-in-stock-at-amazon) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/pokemon-tcg-destined-rivals-etb-amazon-restock) — *IGN*
 
-### 2. Forza Horizon 6's PS5 Version Still on Track for 2026 Release, Playground Says
+### 2. Levelling Up with LG: How 5K is Changing the Gaming Monitor in 2026
 
-[原文] Forza Horizon 6 is still planned to launch on PS5 this year, despite not having a firm release date yet.
+[原文] Levelling Up with LG: How 5K is Changing the Gaming Monitor in 2026
 
-📎 [阅读原文](https://www.ign.com/articles/forza-horizon-6s-ps5-version-still-on-track-for-2026-release-playground-says) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/levelling-up-with-lg-how-5k-is-changing-the-gaming-monitor-in-2026) — *IGN*
 
-### 3. Is GTA 6 Too Realistic for Its Own Good? Refueling Cars and Gun Restrictions Spark Debate
+### 3. NHL 27 Is Using AI-Generated Voiceover for In-Game Commentators, John Buccigross Says
 
-[原文] Early Grand Theft Auto 6 details have sparked debate about whether Rockstar Games' latest is too realistic for its own good.
+[原文] EA Sports is using generative AI to create voiceover for its in-game commentators in NHL 27, according to veteran sports commentator John Buccigross.
 
-📎 [阅读原文](https://www.ign.com/articles/is-gta-6-too-realistic-for-its-own-good-refueling-cars-and-gun-restrictions-spark-debate) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/nhl-27-is-using-ai-generated-voiceover-for-in-game-commentators-john-buccigross-says) — *IGN*
 
-### 4. GTA 6 Will Launch Digitally at Midnight Around the World, So Of Course Fans Are Already Planning to Set Their Console Locations to New Zealand
+### 4. Final Fantasy Resonance Mod Brings Back Classic FF Character Ariana Grande
 
-[原文] Rockstar will launch Grand Theft Auto 6 at midnight local time in most countries on November 19 — meaning some fans are already planning to adjust their console region and play early.
+[原文] If you were upset to hear that pop star Ariana Grande wouldn't return in Final Fantasy Resonance, a new mod is here to save the day.
 
-📎 [阅读原文](https://www.ign.com/articles/gta-6-will-launch-digitally-at-midnight-around-the-world-so-of-course-fans-are-already-planning-to-set-their-console-locations-to-new-zealand) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/final-fantasy-resonance-mod-brings-back-classic-ff-character-ariana-grande) — *IGN*
 
-### 5. Walmart’s Bricktember Sale Includes the LEGO Mario Kart Luigi & Mach 8 Set at Its Lowest Price Yet
+### 5. Pokémon TCG Prismatic Evolutions Super-Premium Collection Restocked at Amazon
 
-[原文] LEGO’s Mario Kart Luigi & Mach 8 set has hit its lowest price yet at Walmart during its Bricktember sale event, with the retailer knocking $29.99 off it down to $150.
+[原文] Amazon has restocked the rare Pokémon TCG Prismatic Evolutions Super-Premium Collection featuring 15 booster packs and promo cards.
 
-📎 [阅读原文](https://www.ign.com/articles/walmarts-bricktember-sale-includes-the-lego-mario-kart-luigi-mach-8-set-at-its-lowest-price-yet) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/pokemon-tcg-prismatic-evolutions-super-premium-amazon-restock) — *IGN*
 
 ---
 
@@ -465,7 +465,7 @@ The post Tuning the Bugatti Tourbillo
 
 ### 5. Andy Williams, Every Time I Die Guitarist and Pro Wrestler, Dead at 48
 
-[原文] Founding rhythm guitarist for Buffalo metalcore band successfully segued into wrestling at "The Butcher"
+[原文] Founding rhythm guitarist for Buffalo metalcore band successfully segued into wrestling as "The Butcher"
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/andy-williams-every-time-i-die-guitarist-wrestler-dead-obit-1235622341/) — *Rolling Stone*
 
@@ -528,6 +528,7 @@ The post Tuning the Bugatti Tourbillo
 ## ⚠️ 今日故障源
 
 - **🚗 汽车**: Autocar
+- **✈️ 旅游**: Nomadic Matt
 
 ---
 
