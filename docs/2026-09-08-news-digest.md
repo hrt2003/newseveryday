@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月08日** | 生成时间: 2026-09-08 11:48
+**2026年09月08日** | 生成时间: 2026-09-08 18:54
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Flight recorders recovered from 'devastating' Amazon cargo plane crash
+### 1. Canada braces for prolonged trade war as counter-tariffs on US take effect
 
-[原文] Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport.
+[原文] The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Palestinian parents fear for children's lives at school as settler attacks grow
+### 2. Eiffel Tower shut by staff protest after female workers moved for religious visit
 
-[原文] A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 3. Germany's far-right AfD says 'democracy demands' parties work with them after state election win
-
-[原文] The far-right party is trying to form a government in the state after falling three seats short of a majority.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Eiffel Tower shut by staff protest after female workers moved for religious visit
-
-[原文] The mayor of Paris said an investigation would be launched into the incident, which left female employees "humiliated", according to a union representative.
+[原文] An investigation will be launched into the incident, which left female employees "humiliated", a union representative says.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Ukraine's chief prosecutor resigns over call centre corruption scandal
+### 3. Trial over alleged murders of Australian surfer brothers starts in Mexico
 
-[原文] In his resignation letter, Ruslan Kravchenko denied the allegations against him, saying he did not want his office "to be used as a tool in political confrontation".
+[原文] The bodies of Jake and Callum Robinson and their US friend were found with gunshot wounds to their heads.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c780nlgyd79o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. Highest paid world leader to get salary increase of $1 million
+
+[原文] Singapore's prime minister Lawrence Wong will see his annual pay rise to 3.6 million Singapore dollars ($2.8m; £2.1m).
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5y5kn143d1o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Nepal cracks down on online abuse of flood survivors
+
+[原文] Authorities will "show no leniency" to people who "belittle" those who are suffering, the prime minister says.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cq5x3n38308o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,29 +54,29 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. China's imports in August miss estimates as exports pick up pace amid calls for rebalancing trade
+### 1. Brent crude nears $100 after strikes on Saudi energy sites amid renewed Mideast hostilities
 
-[原文] China's exports and imports gathered momentum in August, as the world's second-largest economy faces mounting pressure to rebalance trade.
+[原文] Oil prices rose Tuesday on worries over escalating Mideast tensions after the U.S. and Iran traded strikes over the weekend.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/08/china-exports-imports-august-trade-rebalance-demand-surplus-.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/08/oil-prices-today-brent-wti-hormuz-iran-war.html) — *CNBC*
 
-### 2. Iran foreign ministry takes aim at Canada for support of U.S. actions in Strait of Hormuz
+### 2. Canada's retaliatory tariffs worth $27.6 billion take effect as trade rift with U.S. deepens
+
+[原文] Duties on U.S. steel and aluminum products have doubled to 50% as a war of words between Washington and Ottawa continues.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/08/canada-retaliatory-tariffs.html) — *CNBC*
+
+### 3. Iran foreign ministry takes aim at Canada for support of U.S. actions in Strait of Hormuz
 
 [原文] Canada had condemned Iran’s "destabilizing actions" in the Middle East, saying that it would work with partners to maintain significant pressure on Iran.
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/08/us-iran-war-trump-hormuz-canada-trade-talks-greenland.html) — *CNBC*
 
-### 3. Nvidia supplier Wistron's shares drop after it announces $1.5 billion global stock sale
+### 4. Cholesterol drug setback casts doubt over multibillion-dollar race
 
-[原文] Wistron shares fall Tuesday after announcement of $1.5 billion global share sale
+[原文] Novartis’ failure raises the stakes for Amgen and Eli Lilly in the race to turn lower Lp(a) levels into fewer heart attacks and strokes.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/08/nvidia-supplier-wistron-share-sale.html) — *CNBC*
-
-### 4. Oil extends gains as renewed Mideast hostilities raise worries of prolonged conflict
-
-[原文] Oil prices rose Tuesday on worries over escalating Mideast tensions after the U.S. and Iran traded strikes over the weekend.
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/08/oil-prices-today-brent-wti-hormuz-iran-war.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/08/novartis-cholesterol-setback-drug-race-eli-lilly-amgen.html) — *CNBC*
 
 ### 5. Bombardier points out U.S. footprint after Trump says aerospace giant must build in America
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch
+### 1. Stoke Space raises another billion to rival SpaceX at re-flying rockets
+
+[原文] Stoke has "completed the initial closing" of a $1B Series E round intended to help it reach orbit and prepare a new, larger rocket for operations.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/08/stoke-space-raises-another-billion-to-rival-spacex-at-re-flying-rockets/) — *TechCrunch*
+
+### 2. Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch
 
 [原文] Eric Wu, who built and ran Opendoor before stepping away in 2022, has had his new company, NavigateAI, out of stealth since May — building AI copilots that give construction workers real-time, hands-f
 
 📎 [阅读原文](https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/) — *TechCrunch*
 
-### 2. Opaque recurrence, and other AI terms that you should probably know
+### 3. Opaque recurrence, and other AI terms that you should probably know
 
 [原文] The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/) — *TechCrunch*
 
-### 3. A secret new Elizabeth Holmes documentary stuns Telluride
+### 4. A secret new Elizabeth Holmes documentary stuns Telluride
 
 [原文] Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes documentary, "You Can See Everything," stunned Telluride audiences Sunday night with its generous access to the Theranos founder.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/) — *TechCrunch*
 
-### 4. What we expect from the upcoming Apple launch
+### 5. What we expect from the upcoming Apple launch
 
 [原文] While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/) — *TechCrunch*
-
-### 5. Phil Schiller’s App Store exit reportedly driven by wariness over future plans
-
-[原文] Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Champions League returns - who are favourites and players to watch?
+### 1. How Alcaraz can single-handedly end American dreams
 
-[原文] The Champions League is back and BBC Sport take a look at who the favourites are to win the title plus predictions from the experts.
+[原文] Three Americans have the chance to become the first home US Open men's champion since 2003. But Carlos Alcaraz stands in the way.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/c86xgxenyz9o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. Who are Champions League favourites and players to watch?
+
+[原文] The Champions League is back and BBC Sport takes a look at who the favourites are to win the title plus predictions from the experts.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c17j5lr8kkqo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Can Kane buck history and win Ballon d'Or?
+### 3. Newcastle were 'preparing for months' for Howe departure
 
-[原文] History suggests Ballon d’Or winners come from those who have recently lifted one of football's biggest trophies. Can Harry Kane become a rare exception?
+[原文] Newcastle United sporting director Ross Wilson says the club were preparing for former head coach Eddie Howe's departure for up to nine months.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cm2gee75vz7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cly4lngg6npo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Gauff's statement win completes stacked US Open line-up
+### 4. Russell hindered or just Antonelli brilliance? - F1 Q&A
+
+[原文] BBC Sport F1 correspondent Andrew Benson answers your latest questions after the Italian Grand Prix.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/c8r6e663g1lo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 5. Gauff's dominant win completes stacked US Open last eight
 
 [原文] Coco Gauff powers past teenage star Iva Jovic as the top six seeds reach the US Open women's quarter-finals for the first time in 28 years.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/crk368k4e42o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. Zheng stuns Swiatek after winning another set from 5-0 down
-
-[原文] Zheng Qinwen wins a set from 5-0 down for the second successive match as she shocks Iga Swiatek to reach the US Open quarter-finals.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cm2ml7xxg80o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Ecclestone stopped by police for taking shotgun into Portugal
-
-[原文] Former Formula 1 boss Bernie Ecclestone says he was stopped by officials at an airport in Portugal after arriving with a shotgun he intended to use in a clay pigeon shooting competition.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/cy9zx52xen2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. French President Emmanuel Macron Calls on YouTube to Finance Content and Warns of Growing Threat to Cultural Model (EXCLUSIVE)
+### 1. ‘Elite’ Star Ester Expósito Circles ‘Stink Eye,’ an Iberseries Co-Production & Financing Forum Title (EXCLUSIVE)
 
-[原文] French President Emmanuel Macron said the Lumière Summit in Saint-Paul-de-Vence, which he co-chaired with South Korean President Lee Jae Myung on Monday, was deliberately held at a moment of dramatic 
+[原文] Spanish actor Ester Expósito (“Elite”) is circling the upcoming feature “Stink Eye” (“Malmirada”) and has signed a letter of intent to topline the feature debut of Colombian director-writer Cristina S
 
-📎 [阅读原文](https://variety.com/2026/film/global/french-president-emmanuel-macron-youtube-finance-content-1236854274/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/ester-exposito-stink-eye-iberseries-coproduction-forum-1236851062/) — *Variety*
 
-### 2. Macklemore Says His Call to ‘Free Palestine’ Is Not a ‘Criticism’ of Jewish People: ‘None of Us Will Be Free Until We Are All Free’
+### 2. Andy Serkis Unleashes Imagination with Venice Immersive Breakout ‘Nevatars’
 
-[原文] Macklemore is speaking out about his call to “Free Palestine,” which the rapper made while opening for Ed Sheeran on Friday night at New Jersey’s MetLife Stadium. “To all of my Jewish brothers and sis
+[原文] Premiering out of Venice Immersive, &#8220;Nevatars&#8221; has long been a passion project for director Andy Serkis. It took root when Serkis and partner Jonathan Cavendish co-founded The Imaginarium,
 
-📎 [阅读原文](https://variety.com/2026/music/news/macklemore-responds-free-palestine-criticism-ed-sheeran-1236854276/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/digital/global/andy-serkis-venice-immersive-nevatars-xreal-aura-1236853991/) — *Variety*
 
-### 3. ‘No Paradise If You Are Killed by a Woman’ Review: Iraq’s Oscar Submission Offers a Patriotic Anthem to the Kurdish Peshmerga’s Fight Against Islamic State
+### 3. France TV Exports Plummet Amid Ad Decline, Broadcaster Budget Cuts, ‘Deteriorating Economic Environment’
 
-[原文] The trope of the lone action hero with near-superhuman strength gets a gender switch in “No Paradise If You Are Killed By A Woman,” a visually impressive drama about a resourceful female Peshmerga sni
+[原文] The French National Film Board (CNC) and Unifrance on Tuesday offered a sobering assessment of France’s TV content exports in 2025, citing &#8220;a deteriorating economic environment and numerous unce
 
-📎 [阅读原文](https://variety.com/2026/film/reviews/no-paradise-if-you-are-killed-by-a-woman-review-1236852895/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/global/france-audiovisual-exports-unifrance-cnc-1236854471/) — *Variety*
 
-### 4. Elon Musk Documentary Teaser Asks If Billionaire Is the ‘Greatest Living Inventor’ or a ‘Fascist’ Who ‘Has Lost His Mind’
+### 4. ‘Boys of Tommen’ Unveils First Images of Shirtless Conor Sanchez as Johnny and Wistful Nancy Surridge as Shannon
 
-[原文] The first teaser trailer for Alex Gibney’s highly anticipated Elon Musk documentary “Musk” has been released. The film will world premiere out of competition at the 83rd Venice International Film Fest
+[原文] Prime Video has set fans’ pulses racing after unveiling the first images from its upcoming YA adaptation “Boys of Tommen.” Starring Conor Sánchez as rugby player Johnny Kavanagh and Nancy Surridge as 
 
-📎 [阅读原文](https://variety.com/2026/film/news/elon-musk-documentary-trailer-1236850977/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/global/boys-of-tommen-shirtless-conor-sanchez-johnny-shannon-1236854500/) — *Variety*
 
-### 5. ‘Elsinore’ Director Simon Stone, Basking in Telluride’s Glow, on Making a Movie About Love of the Theater, the Peak AIDS Era, and Being ‘100% in the Service of Andrew Scott’
+### 5. Balanga Secures First International Sales for History Doc ‘Beasts of the Colosseum,’ Ahead of Unifrance Rendez-Vous (EXCLUSIVE)
 
-[原文] The Telluride Film Festival casts a wide net, as almost all festivals of its ilk do, but if it has had any speciality that stands out among many, it might be the well-earned tearjerker. There is as mu
+[原文] International distributor Balanga has announced its first major international sales of its documentary “Beasts of the Colosseum,” produced by Antoine Henriquet&#8217;s AH! Production and Jean-Luc Berl
 
-📎 [阅读原文](https://variety.com/2026/film/news/elsinore-telluride-film-festival-andrew-scott-simon-stone-1236854213/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/global/balanga-beasts-of-the-colosseum-ai-unifrance-rendez-vous-1236850308/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Pokémon TCG Destined Rivals ETB in Stock at Amazon and Under Market Price
+### 1. Andrew Garfield Says He Hopes Billionaires Are 'Scared S**tless' by His New Movie, The Uprising
+
+[原文] Andrew Garfield has said he hopes that any billionaires who see his new movie, The Uprising, are “scared s**tless” by it.
+
+📎 [阅读原文](https://www.ign.com/articles/andrew-garfield-says-he-hopes-billionaires-are-scared-stless-by-his-new-movie-the-uprising) — *IGN*
+
+### 2. Nintendo Store Leak Reveals The Legend of Zelda: Ocarina of Time Switch 2 Remake Pricing
+
+[原文] It looks like Nintendo has inadvertently revealed how much its remake of The Legend of Zelda: Ocarina of Time will cost on Switch 2.
+
+📎 [阅读原文](https://www.ign.com/articles/nintendo-store-leak-reveals-the-legend-of-zelda-ocarina-of-time-switch-2-remake-pricing) — *IGN*
+
+### 3. Pokémon TCG Destined Rivals ETB in Stock at Amazon and Under Market Price
 
 [原文] Amazon has restocked the rare Pokémon TCG Destined Rivals Elite Trainer Box for under market price.
 
 📎 [阅读原文](https://www.ign.com/articles/pokemon-tcg-destined-rivals-etb-amazon-restock) — *IGN*
 
-### 2. Levelling Up with LG: How 5K is Changing the Gaming Monitor in 2026
+### 4. Levelling Up with LG: How 5K is Changing the Gaming Monitor in 2026
 
 [原文] Levelling Up with LG: How 5K is Changing the Gaming Monitor in 2026
 
 📎 [阅读原文](https://www.ign.com/articles/levelling-up-with-lg-how-5k-is-changing-the-gaming-monitor-in-2026) — *IGN*
 
-### 3. NHL 27 Is Using AI-Generated Voiceover for In-Game Commentators, John Buccigross Says
+### 5. NHL 27 Is Using AI-Generated Voiceover for In-Game Commentators, John Buccigross Says
 
 [原文] EA Sports is using generative AI to create voiceover for its in-game commentators in NHL 27, according to veteran sports commentator John Buccigross.
 
 📎 [阅读原文](https://www.ign.com/articles/nhl-27-is-using-ai-generated-voiceover-for-in-game-commentators-john-buccigross-says) — *IGN*
-
-### 4. Final Fantasy Resonance Mod Brings Back Classic FF Character Ariana Grande
-
-[原文] If you were upset to hear that pop star Ariana Grande wouldn't return in Final Fantasy Resonance, a new mod is here to save the day.
-
-📎 [阅读原文](https://www.ign.com/articles/final-fantasy-resonance-mod-brings-back-classic-ff-character-ariana-grande) — *IGN*
-
-### 5. Pokémon TCG Prismatic Evolutions Super-Premium Collection Restocked at Amazon
-
-[原文] Amazon has restocked the rare Pokémon TCG Prismatic Evolutions Super-Premium Collection featuring 15 booster packs and promo cards.
-
-📎 [阅读原文](https://www.ign.com/articles/pokemon-tcg-prismatic-evolutions-super-premium-amazon-restock) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post Tuning the Bugatti Tourbillo
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Winners and Losers of Maine’s Race to Armor Its Shoreline Against Climate Change
+### 1. The Cost of Keeping Cool: Georgia Power Customers Struggle With Summer Bills
+
+[原文] When the power goes out during a Georgia summer, the heat builds fast. Inside a home without air conditioning, the air turns heavy and stifling. For Donica Odell, who has dealt with Georgia Power disc
+
+📎 [阅读原文](https://insideclimatenews.org/news/08092026/georgia-power-electricity-disconnections/) — *Inside Climate News*
+
+### 2. The Winners and Losers of Maine’s Race to Armor Its Shoreline Against Climate Change
 
 [原文] GORHAM, Maine—Supersonic shockwaves shook the bones of Charlie Hamblen’s historic Maine farmhouse more than a dozen times last year, travelling over half a mile from blasts at a nearby quarry. The qua
 
 📎 [阅读原文](https://insideclimatenews.org/news/07092026/maines-race-to-protect-shorelines-as-quarries-expand/) — *Inside Climate News*
 
-### 2. Farmers Are Going Broke Amid Rising Gas Prices, While the Ag Secretary Profits Off Them
+### 3. Farmers Are Going Broke Amid Rising Gas Prices, While the Ag Secretary Profits Off Them
 
 [原文] As farmers grapple with soaring diesel and fertilizer prices and the Department of Agriculture yanks support for cheaper, renewable forms of energy, the agency’s chief, Brooke Rollins, is carrying mil
 
 📎 [阅读原文](https://insideclimatenews.org/news/06092026/agriculture-secretary-brooke-rollins-profits-off-rising-gas-prices/) — *Inside Climate News*
 
-### 3. Elevated Levels of Lead Surround Local Oregon Airports
+### 4. Elevated Levels of Lead Surround Local Oregon Airports
 
 [原文] For years health officials have held that there is no safe level of lead exposure for humans. Even low levels can cause irreversible cognitive decline in children. Yet despite the risk, leaded aviatio
 
 📎 [阅读原文](https://insideclimatenews.org/news/06092026/oregon-small-airports-lead-risk/) — *Inside Climate News*
 
-### 4. As Extreme Weather Worsens, Black and Hispanic Homeowners Are Paying More for Insurance
+### 5. As Extreme Weather Worsens, Black and Hispanic Homeowners Are Paying More for Insurance
 
 [原文] Homeowners in Hispanic and Black communities nationwide are paying a disproportionate share of skyrocketing home insurance costs, according to a recent report. The disparities leave communities of col
 
 📎 [阅读原文](https://insideclimatenews.org/news/05092026/black-and-hispanic-homeowners-pay-more-for-insurance/) — *Inside Climate News*
-
-### 5. Error in a Recent BLM Lease Sale Has Wyoming Residents Concerned Over New Oil and Gas Rules
-
-[原文] A mistake in the federal documents offering public land in Wyoming for oil and gas leases has Cowboy State residents and environmentalists questioning whether government agencies are prepared to handl
-
-📎 [阅读原文](https://insideclimatenews.org/news/05092026/wyoming-blm-oil-gas-lease-error/) — *Inside Climate News*
 
 ---
 
@@ -477,35 +477,35 @@ The post Tuning the Bugatti Tourbillo
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Vrbo’s Biggest Product Push Yet, and What Hosts Need to Know
+### 1. Flagship Group Makes First Three Acquisitions For Experiences Roll-Up
+
+[原文] Appetite for an experiences roll-up has long existed, but Covid put plans on ice. Now P&Ls have had a chance to rebound, and the timing is perhaps even better today, with experiences positioned as a c
+
+📎 [阅读原文](https://skift.com/2026/09/08/flagship-group-makes-first-three-acquisitions-for-experiences-roll-up/) — *Skift*
+
+### 2. Vrbo’s Biggest Product Push Yet, and What Hosts Need to Know
 
 [原文] On this episode of Good Morning Hospitality, Michael Goldin, Brandy Canaley, and Jamie Lane sit down with Tim Rosolio, VP of Vacation Rental Partnerships at Expedia Group, to unpack what the expansion
 
 📎 [阅读原文](https://skift.com/2026/09/07/vrbos-biggest-product-push-yet-and-what-hosts-need-to-know/) — *Skift*
 
-### 2. EU Ends Border ‘Safety Valve’ as Airlines Warn of More Delays
+### 3. EU Ends Border ‘Safety Valve’ as Airlines Warn of More Delays
 
 [原文] The training wheels are off – Brussels now finds out whether Europe’s airports can actually stay upright.
 
 📎 [阅读原文](https://skift.com/2026/09/07/eu-ends-border-safety-valve-as-airlines-warn-of-more-delays/) — *Skift*
 
-### 3. Flyadeal CEO Reveals Plans for Premium Economy and Long-Haul Network
+### 4. Flyadeal CEO Reveals Plans for Premium Economy and Long-Haul Network
 
 [原文] Flyadeal’s move into connecting flights and premium economy marks a natural next step for a budget carrier scaling into long-haul.
 
 📎 [阅读原文](https://skift.com/2026/09/07/flyadeal-ceo-reveals-plans-for-premium-economy-and-long-haul-network/) — *Skift*
 
-### 4. Air India’s New CEO Gets a Clear Mandate: Safety, Reliability and Profit
+### 5. Air India’s New CEO Gets a Clear Mandate: Safety, Reliability and Profit
 
 [原文] New CEO Tewolde Gebremariam is taking over a very different Air India from the one Campbell Wilson inherited in 2022. The airline has more aircraft, more resources and bigger ambitions, not to forget,
 
 📎 [阅读原文](https://skift.com/2026/09/07/air-indias-new-ceo-gets-a-clear-mandate-safety-reliability-and-profit/) — *Skift*
-
-### 5. A Viral AI Bot Just Showed Travel What Frictionless Actually Means
-
-[原文] Instinct, a freshman AI assistant that has Silicon Valley buzzing, can book and rebook trips from a text thread. Key lesson for travel: Talking about frictionless booking isn't the same as delivering 
-
-📎 [阅读原文](https://skift.com/2026/09/04/a-viral-ai-bot-just-showed-travel-what-frictionless-actually-means/) — *Skift*
 
 ---
 
@@ -528,7 +528,6 @@ The post Tuning the Bugatti Tourbillo
 ## ⚠️ 今日故障源
 
 - **🚗 汽车**: Autocar
-- **✈️ 旅游**: Nomadic Matt
 
 ---
 
