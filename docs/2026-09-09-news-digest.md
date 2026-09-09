@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月09日** | 生成时间: 2026-09-09 11:53
+**2026年09月09日** | 生成时间: 2026-09-09 18:59
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. UK announces sanctions on West Bank settlements prompting furious Israeli response
+### 1. Oil hits $100 a barrel for first time since July after US and Houthi strikes
 
-[原文] Britain's foreign secretary accuses settlers of carrying out the "ethnic cleansing" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.
+[原文] Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Paul Adams: British-Israeli relations at lowest ebb in decades
+### 2. US to ban imports of some Canadian alcohol, dairy goods and motorbikes
 
-[原文] Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 3. US slaps import ban on Canadian alcohol, motorbikes and other goods
-
-[原文] It is the latest strike in a long trade war, and comes as Canadian counter-tariffs on US goods come into force.
+[原文] It is the latest strike in a long trade war, and comes after Canadian counter-tariffs on US goods come into force.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. 'Constantly on my mind' - 9/11 agony goes on for bereaved, 25 years on
+### 3. Tycoon to pay ex-wife $1.87bn in record South Korea divorce settlement
 
-[原文] As the 25th anniversary approaches, the wait for the alleged mastermind of the attack to be put on trial goes on.
+[原文] The billion dollar payout marks the largest divorce settlement in the country's history.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c05re9qg09ro?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Renoir paintings worth millions stolen in French museum heist
+### 4. Meta continues to run ads promoting child sexual abuse material in India - report
 
-[原文] It is the latest in a string of high-profile art thefts in Europe that has again put the security of museums and galleries in the spotlight.
+[原文] The report follows a BBC Eye investigation that found Instagram running paid ads promoting such material in India.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Baby orangutans found in Indian forest spark trafficking inquiry
+
+[原文] The critically endangered apes were found far from their natural habitat in the eastern Indian state of Odisha.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvgynv90599o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Iran says it hit American vessels, oil tankers in Hormuz in retaliation for U.S. strikes
+### 1. U.S. denies claims Iran struck two American vessels in retaliation for earlier strikes
 
-[原文] The U.S. and Iran traded new attacks around the Strait of Hormuz, as President Donald Trump insists oil prices will drop fast once the Iran war ends.
+[原文] The U.S. denied Iran’s claim that it struck two American vessels as the two sides traded attacks near the Strait of Hormuz and Brent crude hit $100 a barrel.
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/08/iran-us-sub-strait-hormuz.html) — *CNBC*
 
-### 2. Brent crude nears $100 a barrel as U.S.-Iran tit-for-tat strikes stoke supply worries
+### 2. U.S. reveals import ban on slew of Canadian goods as trade war escalates
 
-[原文] Oil prices rose on Wednesday as escalating tensions between the U.S. and Iran fueled concerns over further disruptions to Middle East energy supplies,
+[原文] Import bans on motorbikes, alcohol and dairy products are due to come into effect on Sept. 29 as the rift between the countries deepens.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/09/oil-prices-today-wti-brent-us-iran-hormuz-attacks.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/09/us-canada-trade-war-import-ban.html) — *CNBC*
 
-### 3. Hit TV show 'South Park' becomes 'South America' in apparent reference to Trump's geographic name changes
+### 3. Anthropic researcher says AI has more than 10% chance of 'killing all humans' after colleague quits
 
-[原文] Show creators Trey Parker and Matt Stone said in a statement that they were "inspired by the bravery and patriotism of Apple and Google."
+[原文] An Anthropic safety researcher said there is a greater than 10% chance AI could "kill all humans" after a former colleague quits over safety concerns.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/09/tv-show-south-park-changes-show-name-south-america-trump.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/09/anthropic-researcher-quits-ai-safety.html) — *CNBC*
 
-### 4. China's wholesale inflation tops estimates in August on commodity costs, tech demand as consumer price increases meet forecast
+### 4. Andreessen- and Thiel-backed defense startup opens U.S. missile factory as it exits stealth
 
-[原文] Much of the anticipated pickup reflects a favorable base-effect comparison and higher commodity costs, rather than a genuine strengthening in household demand.
+[原文] Founded in 2024, Covenant is speeding up lower-cost missile manufacturing for the U.S. military.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/09/china-cpi-ppi-august-oil-prices-tech-manufacturing-.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/09/defense-tech-covenant-anthem-missile.html) — *CNBC*
 
-### 5. Canada's retaliatory tariffs worth CA$27.6 billion take effect as trade rift with U.S. deepens
+### 5. LIV Golf files for Chapter 11 bankruptcy protection
 
-[原文] Duties on Canadian imports of U.S. steel and aluminum products have doubled to 50% as a trade war between Washington and Ottawa intensifies.
+[原文] As part of the proposed bankruptcy deal, the upstart golf venture is expected to be majority owned by its players.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/08/canada-retaliatory-tariffs.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/08/liv-golf-chapter-11-bankruptcy.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. White House takes down ‘Build the Wall’ game after the Tetris Company complains
+### 1. Google DeepMind alumni are building tools to accelerate fusion power for the grid
+
+[原文] Fusionality is developing control systems and simulation environments to help fusion power startups move faster.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/08/google-deepmind-alumni-are-building-tools-to-accelerate-fusion-power-for-the-grid/) — *TechCrunch*
+
+### 2. CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks
+
+[原文] UK-based manufacturing software startup CloudNC announced Wednesday a $20 million B extension round, bringing its lifetime total raised amount to $128 million.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/) — *TechCrunch*
+
+### 3. White House takes down ‘Build the Wall’ game after the Tetris Company complains
 
 [原文] The Trump administration's short-lived arcade game "Build the Wall" is now nowhere to be found after the Tetris Company posted that it takes "copyright infringement very seriously."
 
 📎 [阅读原文](https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/) — *TechCrunch*
 
-### 2. Hackers are stealing Claude tokens from subscribers
+### 4. Hackers are stealing Claude tokens from subscribers
 
 [原文] Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/) — *TechCrunch*
 
-### 3. Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market
+### 5. Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market
 
 [原文] Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/) — *TechCrunch*
-
-### 4. The Exploration Company nabs $450 million to challenge SpaceX
-
-[原文] The Exploration Company (TEC) has raised $450 million to build reusable spacecraft, in what it describes as “the largest-ever Series C by a European space company.”
-
-📎 [阅读原文](https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/) — *TechCrunch*
-
-### 5. Meta debuts its Muse AI agent. Will consumers trust it?
-
-[原文] Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still t
-
-📎 [阅读原文](https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. LIV files for bankruptcy protection with over $45m owed to players
+### 1. Shelton beats Alcaraz in latest-ever US Open finish to reach semis
+
+[原文] Carlos Alcaraz's US Open title defence is over after a dramatic five-set quarter-final loss to Ben Shelton which ends at 03:34 local time.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/c20v6pgz7nmo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. LIV files for bankruptcy protection with over $45m owed to players
 
 [原文] LIV Golf has filed for bankruptcy protection with at least $45m (£33m) owed to players, who will now have the option to leave.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/ce8x39wj5p1o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Bouaddi impresses on first start - have Man City found 'a gem'?
+### 3. McLaren talks, 'numb' cars and being 'captain of the ship' - Verstappen Q&A
 
-[原文] Ayyoub Bouaddi belies his age with a mature Champions League performance on his first Manchester City start to showcase why the club were so intent on signing the 18-year-old.
+[原文] In an exclusive interview with BBC Sport, Max Verstappen talks about his new contract at Red Bull and much more.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cy0zq59gr21o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/cy4ze023nvro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. In the middle again - but Mourinho says Alexander-Arnold 'not a midfielder'
+### 4. England to extend head coach Borthwick's contract
+
+[原文] England head coach Steve Borthwick will have his contract extended past the 2028 Six Nations in a bid to avoid uncertainty over his future before and during next year's Rugby World Cup.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-union/articles/c5ydlq5n0zwo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 5. In the middle again - but Mourinho says Alexander-Arnold 'not a midfielder'
 
 [原文] Trent Alexander-Arnold started in midfield for Real Madrid's win over Inter - but Jose Mourinho says it is not his best position.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c980lgdrlzno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. Tiafoe consoles tearful Michelsen after remarkable US Open comeback
-
-[原文] Frances Tiafoe comes from two sets and a break down to beat Alex Michelsen in a thrilling comeback to reach the US Open semi-finals.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/c33k6zl5m87o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. West Ham go top of Championship - are they ready to leave past behind?
-
-[原文] Three wins in a row, top of the table, unity at the club - are West Ham ready to leave the past behind on and off the pitch?
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cp80znxj2dmo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Louis Messina, Taylor Swift’s Tour Promoter, Urges Judge to Reject Live Nation/Ticketmaster Antitrust Settlement: ‘I Could Go Out of Business Like Other Promoters Who Have Fallen Victim to Live Nation’
+### 1. Netflix India Chief Monika Shergill Says ‘Specificity Can Be a Strength’ as Streamer Unveils Expanded Comedy Slate (EXCLUSIVE)
 
-[原文] You might think that the man who promoted Taylor Swift&#8217;s Eras Tour, as well as all of her other global outings, would be powerful enough not to feel intimidated by Live Nation and Ticketmaster. 
+[原文] Monika Shergill, VP, content, Netflix India, says the streamer has moved comedy from a series of individual bets to a long-term programming pillar because of how many different audience needs the genr
 
-📎 [阅读原文](https://variety.com/2026/music/news/louis-messina-taylor-swift-promoter-live-nation-ticketmaster-1236855357/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/netflix-india-comedy-slate-monika-shergill-1236854380/) — *Variety*
 
-### 2. John Mulaney Circling Lead Role in ‘Get Smart’ Reboot at Warner Bros.
+### 2. France Untold: ‘Swapped’ Team Discusses Collective Drive Behind Trailblazing Period Thriller
 
-[原文] John Mulaney is circling the role of Agent Maxwell Smart in Warner Bros. upcoming movie reboot of “Get Smart,” Variety has confirmed. The project is still in very early stages. Seth Grahame-Smith, who
+[原文] It all began with a family story from the little-known French region of Morvan. Vincent Robert&#8217;s family, to be precise, as his great-grandmother had been a wet nurse herself. While investigating
 
-📎 [阅读原文](https://variety.com/2026/film/news/john-mulaney-get-smart-movie-reboot-warner-bros-1236855373/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/markets-festivals/swapped-period-drama-thriller-france-tv-distribution-1236852470/) — *Variety*
 
-### 3. Netflix Orders New Series Take On ‘Lonesome Dove’ From ‘East of Eden’ Showrunners Zoe Kazan and Jeb Stuart
+### 3. Ventana Sur Founder Bernardo Bergeret, Showrunner Joanna Lombardi and TV Film Exec Karina Dolgiej Comprise First Selection Team of Iberseries Co-Production Forum
 
-[原文] “Lonesome Dove,” which was originally adapted into an Emmy- and Golden Globe-winning CBS miniseries starring Robert Duvall in 1989, is getting a new take at Netflix. The streamer announced Tuesday tha
+[原文] For the first time in the five-year history of the Iberseries &#38; Platino Industria&#8217;s Co-Production and Financing Forum, a selection committee has been formed, comprising Ventana Sur/BloodWind
 
-📎 [阅读原文](https://variety.com/2026/tv/news/netflix-lonesome-dove-orders-new-series-take-1236855339/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/ventana-sur-bernardo-bergeret-joanna-lombardi-karinadolgiej-1236854355/) — *Variety*
 
-### 4. Telluride Takeaways: From Julianne Moore and Paul Giamatti’s ‘Debut’ to Nathan Fielder’s Audacious Dare to the Doc Branch
+### 4. ‘Drishyam: The Conclusion’ Director Abhishek Pathak Says Ajay Devgn’s Vijay Salgaonkar Turns Darker, as Franchise Continues Global Journey (EXCLUSIVE)
 
-[原文] On my last morning in Telluride, halfway through breakfast at Butcher &#38; Baker, Kenneth Branagh stopped at the table on his way to a Q&#38;A for “Into the Breach,” the National Theatre documentary 
+[原文] Abhishek Pathak, director of &#8220;Drishyam: The Conclusion,&#8221; says the Hindi franchise&#8217;s third installment tells an entirely new story unconnected to the Malayalam original, with Ajay Dev
 
-📎 [阅读原文](https://variety.com/2026/film/awards/telluride-takeaways-julianne-moore-nathan-fielder-oscars-1236855247/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/drishyam-conclusion-abhishek-pathak-ajay-devgn-1236855563/) — *Variety*
 
-### 5. Congress Begins Drafting 20% Federal Film Incentive With Trump’s Blessing (EXCLUSIVE)
+### 5. ‘Blindspot Berlin’ Zooms In on ‘Systemic Failures and Human Errors’ That Led to the Infamous Christmas Market Terrorist Attack: ‘We Were Just Shaking Our Heads’
 
-[原文] Members of Congress are drafting legislation that would create a 20% federal film and TV incentive &#8212; with bonuses that could bring it as high as 30% &#8212; after President Trump endorsed the id
+[原文] You might already know the ending of “Blindspot Berlin,” a new series about the infamous December 2016 attack at the Christmas market in Berlin. But that doesn’t mean you shouldn’t watch it.&#160;&#16
 
-📎 [阅读原文](https://variety.com/2026/film/news/congress-draft-federal-film-incentive-trump-1236855119/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/global/blindspot-berlin-christmas-market-terrorist-attack-tiff-1236855021/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Netflix Orders Lonesome Dove TV Series From East of Eden Showrunners
+### 1. IGN Australia and Chupa Chups to Host a Retro Gaming ‘Fun House’ Activation at Westfield Parramatta This October
+
+[原文] IGN Australia and Chupa Chups to Host a Retro Gaming ‘Fun House’ Activation at Westfield Parramatta This October
+
+📎 [阅读原文](https://www.ign.com/articles/chupa-chups-forever-fun-house) — *IGN*
+
+### 2. Hands on: Tianji: Shadow of the Ancients
+
+[原文] Hands on: Tianji: Shadow of the Ancients
+
+📎 [阅读原文](https://www.ign.com/articles/hands-on-tianji-shadow-of-the-ancients) — *IGN*
+
+### 3. Netflix Orders Lonesome Dove TV Series From East of Eden Showrunners
 
 [原文] Netflix is adapting Larry McMurtry’s iconic Western novel Lonesome Dove into a new TV series from East of Eden co-showrunners Zoe Kazan and Jeb Stuart.
 
 📎 [阅读原文](https://www.ign.com/articles/netflix-lonesome-dove-series-zoe-kazan) — *IGN*
 
-### 2. AMC Theaters Is Broadcasting the 2026 Rocket League World Championship Finals at Select Cinemas Across the US
+### 4. AMC Theaters Is Broadcasting the 2026 Rocket League World Championship Finals at Select Cinemas Across the US
 
 [原文] The 2026 Rocket League World Championship Finals will be broadcast at 50 AMC Theaters across the United States.
 
 📎 [阅读原文](https://www.ign.com/articles/amc-theaters-is-broadcasting-the-2026-rocket-league-world-championship-finals-at-select-cinemas-across-the-us) — *IGN*
 
-### 3. SteelSeries Aeon Pro Review So Far
+### 5. SteelSeries Aeon Pro Review So Far
 
 [原文] The SteelSeries Aeon Pro packs in just about every "pro" feature you could ask for in a controller, with Hall-effect thumbsticks, tactile switch buttons, adjustable triggers, and the company's outstan
 
 📎 [阅读原文](https://www.ign.com/articles/steelseries-aeon-pro-review) — *IGN*
-
-### 4. The Lord of the Rings: The Rings of Power Is Finally Getting a 4K Blu-ray Release Ahead of Season 3
-
-[原文] The Rings of Power is finally getting a 4K Blu-ray release ahead of the Prime Video show's third season.
-
-📎 [阅读原文](https://www.ign.com/articles/lord-of-the-rings-the-rings-of-power-season-1-2-4k-blu-ray-where-to-buy) — *IGN*
-
-### 5. The Bomb Busters Board Game Drops to Its Lowest Price Ever at Amazon
-
-暂无摘要。
-
-📎 [阅读原文](https://www.ign.com/articles/bomb-busters-board-game-deal-september-2026) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. They Said a Porsche 944 K-Swap Was Impossible. They Were Wrong
+### 1. 2026 Jeep Recon First-Drive Review: Disappointment Is a Jeep Thing Now
+
+[原文] After a multi-year delay that watered down its already questionable relevance, the brand's first trail-rated electric SUV, the Jeep Recon, is as conventional as it is confused.
+The post 2026 Jeep Reco
+
+📎 [阅读原文](https://www.thedrive.com/car-reviews/2026-jeep-recon-first-drive-review) — *The Drive*
+
+### 2. They Said a Porsche 944 K-Swap Was Impossible. They Were Wrong
 
 [原文] After more than a year, our K24-swapped Porsche 944 can finally move under its own power!
 The post They Said a Porsche 944 K-Swap Was Impossible. They Were Wrong appeared first on The Drive.
 
 📎 [阅读原文](https://www.thedrive.com/news/they-said-a-porsche-944-k-swap-was-impossible-they-were-wrong) — *The Drive*
 
-### 2. Someone Slapped a Turbo on a 100-Year-Old Ford Model T Engine. Will It Actually Work?
+### 3. Someone Slapped a Turbo on a 100-Year-Old Ford Model T Engine. Will It Actually Work?
 
 [原文] Automakers weren't turbocharging their cars a century ago, but what's stopping hot-rodders from trying it now? Technically, nothing.
 The post Someone Slapped a Turbo on a 100-Year-Old Ford Model T Eng
 
 📎 [阅读原文](https://www.thedrive.com/news/someone-slapped-a-turbo-on-a-100-year-old-ford-model-t-engine-will-it-actually-work) — *The Drive*
 
-### 3. No Bridge, No Problem: New Turbo-Four Gas Engine Can Actually Run Underwater
+### 4. No Bridge, No Problem: New Turbo-Four Gas Engine Can Actually Run Underwater
 
 [原文] The newly-developed Horse B20 is a usual engine (2.0-liter turbo) with an unusual ability to stay running while submerged in up to four feet of water.
 The post No Bridge, No Problem: New Turbo-Four Ga
 
 📎 [阅读原文](https://www.thedrive.com/news/this-waterproof-gas-engine-is-built-to-run-underwater-not-just-wade-through-it) — *The Drive*
 
-### 4. Forza Horizon 6 Just Added a Car You Won’t See in Any Other Game
+### 5. Forza Horizon 6 Just Added a Car You Won’t See in Any Other Game
 
 [原文] The weird, rare Renault Sport Spider hasn't appeared in a racing game in over 20 years, but Forza Horizon 6 just took care of that.
 The post Forza Horizon 6 Just Added a Car You Won&#8217;t See in Any
 
 📎 [阅读原文](https://www.thedrive.com/news/forza-horizon-6-adds-renault-spider-september-car-pass) — *The Drive*
-
-### 5. The Trick To Stop Speeding Drivers Is Actually More Green Lights
-
-[原文] To cut down on speeding, some cities are experimenting with timing traffic lights so drivers who do the speed limit can ride an endless wave of green.
-The post The Trick To Stop Speeding Drivers Is Ac
-
-📎 [阅读原文](https://www.thedrive.com/news/traffic-experts-are-tricking-drivers-into-slowing-down-with-more-green-lights) — *The Drive*
 
 ---
 
@@ -363,35 +363,35 @@ The post The Trick To Stop Speeding Drivers Is Ac
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. As Hostilities Flare and Oil Prices Spike, U.S. Consumers Pay at the Pump
+### 1. For Many New Yorkers, Home Is No Escape From the Heat
+
+[原文] New York City is getting hotter, and for some residents, staying cool can be a matter of life and death. Mayor Zohran Mamdani has declared at least three heat emergencies this summer, some lasting mor
+
+📎 [阅读原文](https://insideclimatenews.org/news/09092026/new-york-indoor-heat-stress/) — *Inside Climate News*
+
+### 2. NOAA Fisheries Takes A ‘Sharp Turn Away From Science’
+
+[原文] In July, the Trump administration relegated endangered leatherback turtles, sea lions and whales to mere collateral damage in its race to profit from the oceans. Now, fisheries science is in the gover
+
+📎 [阅读原文](https://insideclimatenews.org/news/09092026/noaa-commercial-interests-threatens-fisheries/) — *Inside Climate News*
+
+### 3. As Hostilities Flare and Oil Prices Spike, U.S. Consumers Pay at the Pump
 
 [原文] Hours after President Donald Trump predicted on Truth Social that oil prices would fall precipitously once the United States wins its war with Iran, strikes on Saudi Arabia’s oil infrastructure by Ira
 
 📎 [阅读原文](https://insideclimatenews.org/news/08092026/oil-prices-spike-amid-trump-climate-rollbacks/) — *Inside Climate News*
 
-### 2. Many People Aren’t Connecting the Dots Between Climate Change and Extreme Weather
+### 4. Many People Aren’t Connecting the Dots Between Climate Change and Extreme Weather
 
 [原文] At the end of August, devastating floods and a debris flow triggered by a glacier collapse crashed through the valleys of Nepal, killing more than 1,300 people. Earlier this summer, deadly heat waves 
 
 📎 [阅读原文](https://insideclimatenews.org/news/08092026/todays-climate-extreme-weather-attribution-disconnect/) — *Inside Climate News*
 
-### 3. The Cost of Keeping Cool: Georgia Power Customers Struggle With Summer Bills
+### 5. The Cost of Keeping Cool: Georgia Power Customers Struggle With Summer Bills
 
 [原文] When the power goes out during a Georgia summer, the heat builds fast. Inside a home without air conditioning, the air turns heavy and stifling. For Donica Odell, who has dealt with Georgia Power disc
 
 📎 [阅读原文](https://insideclimatenews.org/news/08092026/georgia-power-electricity-disconnections/) — *Inside Climate News*
-
-### 4. The Winners and Losers of Maine’s Race to Armor Its Shoreline Against Climate Change
-
-[原文] GORHAM, Maine—Supersonic shockwaves shook the bones of Charlie Hamblen’s historic Maine farmhouse more than a dozen times last year, travelling over half a mile from blasts at a nearby quarry. The qua
-
-📎 [阅读原文](https://insideclimatenews.org/news/07092026/maines-race-to-protect-shorelines-as-quarries-expand/) — *Inside Climate News*
-
-### 5. Farmers Are Going Broke Amid Rising Gas Prices, While the Ag Secretary Profits Off Them
-
-[原文] As farmers grapple with soaring diesel and fertilizer prices and the Department of Agriculture yanks support for cheaper, renewable forms of energy, the agency’s chief, Brooke Rollins, is carrying mil
-
-📎 [阅读原文](https://insideclimatenews.org/news/06092026/agriculture-secretary-brooke-rollins-profits-off-rising-gas-prices/) — *Inside Climate News*
 
 ---
 
@@ -401,29 +401,29 @@ The post The Trick To Stop Speeding Drivers Is Ac
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. AI Videos Are Warping Early Learning, Teachers Say
+### 1. Stitching the Future: Technology as a Sacred Trust
+
+[原文] By grounding our digital strategy in the same values as our ancestors, we can ensure technology serves our school community rather than consuming it.
+
+📎 [阅读原文](https://edsurge.com/news/stitching-the-future-technology-as-a-sacred-trust) — *EdSurge*
+
+### 2. AI Videos Are Warping Early Learning, Teachers Say
 
 [原文] The rise of so-called “baby slop” is turning early childhood educators into media critics.
 
 📎 [阅读原文](https://edsurge.com/news/ai-videos-are-warping-early-learning-teachers-say-heres-how-theyre-responding) — *EdSurge*
 
-### 2. Are Schools Inadvertently Making Students More Stressed?
+### 3. Are Schools Inadvertently Making Students More Stressed?
 
 [原文] Cathy Vatterott, author of “The Teens Are Not Alright,” believes schools are treating the symptoms of student stress instead of looking at the real problem.
 
 📎 [阅读原文](https://edsurge.com/news/are-schools-inadvertently-making-students-more-stressed) — *EdSurge*
 
-### 3. Hundreds of Thousands of Eligible Kids Are Waiting for Childcare Assistance
+### 4. Hundreds of Thousands of Eligible Kids Are Waiting for Childcare Assistance
 
 [原文] A nationwide investigation reveals massive waitlists for government-funded childcare assistance, leaving low-income families stranded without essential ...
 
 📎 [阅读原文](https://edsurge.com/news/hundreds-of-thousands-of-eligible-kids-are-waiting-for-childcare-assistance) — *EdSurge*
-
-### 4. How AI Taught Me to Embrace Vulnerability in the Classroom
-
-[原文] True innovation isn’t found in mastering every platform, but in being willing to ask deeper questions and take risks.
-
-📎 [阅读原文](https://edsurge.com/news/how-ai-taught-me-to-embrace-vulnerability-in-the-classroom) — *EdSurge*
 
 ### 5. Putting Edtech Guidance to Work in the Classroom
 
@@ -439,35 +439,35 @@ The post The Trick To Stop Speeding Drivers Is Ac
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Lil Durk Closings: Prosecutors Hammer ‘Revenge,’ Defense Cites ‘Tsunami of Reasonable Doubt’
+### 1. Celeste Rivas Hernandez’s Parents Sue D4vd for Wrongful Death
+
+[原文] The singer's mother and his managers have been accused of negligence in failing to protect a minor
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/celeste-rivas-hernandez-parents-d4vd-wrongful-death-lawsuit-1235623302/) — *Rolling Stone*
+
+### 2. Lucy Dacus to Reissue Debut Album ‘No Burden,’ Shares Unreleased Song
+
+[原文] "No Thank You, I Love You, Goodbye" leads the 10th anniversary reissue of No Burden which arrives on Dec. 4
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/lucy-dacus-no-burden-reissue-unreleased-song-1235622946/) — *Rolling Stone*
+
+### 3. Lil Durk Closings: Prosecutors Hammer ‘Revenge,’ Defense Cites ‘Tsunami of Reasonable Doubt’
 
 [原文] The rapper is fighting charges he put a bounty on Quando Rondo in retaliation for the killing of King Von
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/lil-durk-murder-for-hire-quando-rondo-king-von-closings-1235622843/) — *Rolling Stone*
 
-### 2. D’Angelo and Angie Stone’s Son Will Play the Notorious B.I.G. in the Snoop Dogg Biopic
+### 4. D’Angelo and Angie Stone’s Son Will Play the Notorious B.I.G. in the Snoop Dogg Biopic
 
 [原文] This will be the first major acting role for Michael D’Angelo Archer II, who’s also been releasing music as SwayvoTwain
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/snoop-dogg-biopic-dangelo-son-notorious-big-1235622984/) — *Rolling Stone*
 
-### 3. Abbey Road Music Photography Awards Announce 2026 Finalists
+### 5. Abbey Road Music Photography Awards Announce 2026 Finalists
 
 [原文] Photos of Oasis, Charli XCX, and more are nominated for this month’s annual awards at the legendary London studios
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/abbey-road-music-photography-awards-2026-finalists-1235622602/) — *Rolling Stone*
-
-### 4. Hear Elton John Dig Out Sixties Deep Cut ‘Skyline Pigeon’ at Rock in Rio
-
-[原文] “This next song is the first good song I wrote with Bernie [Taupin],” John said. “And Brazil is the only place it’s ever been popular, so here we go”
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/elton-john-dig-skyline-pigeon-rock-in-rio-1235622664/) — *Rolling Stone*
-
-### 5. Sir Tom Jones Reveals He Was Fired From ‘The Voice UK’
-
-[原文] “They now say in the press they wanted to ‘refresh’ the show, and with a new coaching line-up there wouldn’t be a chair for me,” he wrote on X
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/tom-jones-fired-from-the-voice-uk-1235622537/) — *Rolling Stone*
 
 ---
 
