@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月09日** | 生成时间: 2026-09-09 04:54
+**2026年09月09日** | 生成时间: 2026-09-09 11:53
 
 ---
 
@@ -22,29 +22,29 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs
+### 2. Paul Adams: British-Israeli relations at lowest ebb in decades
 
-[原文] Canada's levies - as high as 50% - will apply to nearly $20bn of US products, from steel to T-shirts.
+[原文] Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Renoir paintings worth millions stolen in French museum heist
+### 3. US slaps import ban on Canadian alcohol, motorbikes and other goods
+
+[原文] It is the latest strike in a long trade war, and comes as Canadian counter-tariffs on US goods come into force.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. 'Constantly on my mind' - 9/11 agony goes on for bereaved, 25 years on
+
+[原文] As the 25th anniversary approaches, the wait for the alleged mastermind of the attack to be put on trial goes on.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Renoir paintings worth millions stolen in French museum heist
 
 [原文] It is the latest in a string of high-profile art thefts in Europe that has again put the security of museums and galleries in the spotlight.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Argentina to file criminal case against oil company operating in Falklands
-
-[原文] The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Ukrainian TV channel building hit by Russian drone as five killed in Kyiv
-
-[原文] President Zelensky describes the daytime drone attack in Ukraine's capital as a "new page in Russian degradation"
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. U.S. downplays Iran's seizure of unmanned sub in Hormuz Strait
+### 1. Iran says it hit American vessels, oil tankers in Hormuz in retaliation for U.S. strikes
 
 [原文] The U.S. and Iran traded new attacks around the Strait of Hormuz, as President Donald Trump insists oil prices will drop fast once the Iran war ends.
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/08/iran-us-sub-strait-hormuz.html) — *CNBC*
 
-### 2. Bombardier points out U.S. footprint after Trump says aerospace giant must build in America
+### 2. Brent crude nears $100 a barrel as U.S.-Iran tit-for-tat strikes stoke supply worries
 
-[原文] Trump's announcement comes on the eve of Canadian retaliatory tariffs set to take effect Tuesday on $20 billion of U.S. goods.
+[原文] Oil prices rose on Wednesday as escalating tensions between the U.S. and Iran fueled concerns over further disruptions to Middle East energy supplies,
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/07/trump-bombardier-cant-sell-in-us-unless-canada-aerospace-giant-builds-there.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/09/oil-prices-today-wti-brent-us-iran-hormuz-attacks.html) — *CNBC*
 
-### 3. Trump administration expresses 'profound concern' over Ford's ties to China
+### 3. Hit TV show 'South Park' becomes 'South America' in apparent reference to Trump's geographic name changes
 
-[原文] In a letter to Ford CEO Jim Farley, U.S. DOT Secretary Sean Duffy questioned the automaker's strategic trajectory involving Chinese companies.
+[原文] Show creators Trey Parker and Matt Stone said in a statement that they were "inspired by the bravery and patriotism of Apple and Google."
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/08/ford-china-dot-sean-duffy.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/09/tv-show-south-park-changes-show-name-south-america-trump.html) — *CNBC*
 
-### 4. This alternative energy stock is more popular than SpaceX in the options pits. Here's why
+### 4. China's wholesale inflation tops estimates in August on commodity costs, tech demand as consumer price increases meet forecast
 
-[原文] Crude oil is back above $90 and energy stocks in the S&P 500 index are approaching fresh 52-week highs.
+[原文] Much of the anticipated pickup reflects a favorable base-effect comparison and higher commodity costs, rather than a genuine strengthening in household demand.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/08/bloom-energy-is-trading-more-options-than-spacex.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/09/china-cpi-ppi-august-oil-prices-tech-manufacturing-.html) — *CNBC*
 
-### 5. New Hampshire goes to the polls in primary for key open Senate seat
+### 5. Canada's retaliatory tariffs worth CA$27.6 billion take effect as trade rift with U.S. deepens
 
-[原文] Incumbent Sen. Jeanne Shaheen, D-N.H., will retire when her term ends in January.
+[原文] Duties on Canadian imports of U.S. steel and aluminum products have doubled to 50% as a trade war between Washington and Ottawa intensifies.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/08/new-hampshire-primary-senate-scott-brown-john-sununu-chris-pappas-karishma-manzur.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/08/canada-retaliatory-tariffs.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Exploration Company nabs $450 million to challenge SpaceX
+### 1. White House takes down ‘Build the Wall’ game after the Tetris Company complains
+
+[原文] The Trump administration's short-lived arcade game "Build the Wall" is now nowhere to be found after the Tetris Company posted that it takes "copyright infringement very seriously."
+
+📎 [阅读原文](https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/) — *TechCrunch*
+
+### 2. Hackers are stealing Claude tokens from subscribers
+
+[原文] Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/) — *TechCrunch*
+
+### 3. Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market
+
+[原文] Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/) — *TechCrunch*
+
+### 4. The Exploration Company nabs $450 million to challenge SpaceX
 
 [原文] The Exploration Company (TEC) has raised $450 million to build reusable spacecraft, in what it describes as “the largest-ever Series C by a European space company.”
 
 📎 [阅读原文](https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/) — *TechCrunch*
 
-### 2. Meta debuts its Muse AI agent. Will consumers trust it?
+### 5. Meta debuts its Muse AI agent. Will consumers trust it?
 
 [原文] Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still t
 
 📎 [阅读原文](https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/) — *TechCrunch*
-
-### 3. How to watch Apple’s foldable iPhone announcement
-
-[原文] Apple's annual iPhone event will stream live on September 9 at 10 a.m. PDT, and we're expecting big news.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/) — *TechCrunch*
-
-### 4. OpenAI fought dirty on career-making math problem, says NYU mathematician
-
-[原文] There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/) — *TechCrunch*
-
-### 5. Google Cloud races to catch up in the AI deployment wars with Accenture deal
-
-[原文] Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. LIV players free to leave after bankruptcy protection filing
+### 1. LIV files for bankruptcy protection with over $45m owed to players
 
-[原文] LIV Golf intends to starts its new league early next year after filing for bankruptcy protection in the United States.
+[原文] LIV Golf has filed for bankruptcy protection with at least $45m (£33m) owed to players, who will now have the option to leave.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/ce8x39wj5p1o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. From shot-shy to shoot on sight - Villa find a way to win
+### 2. Bouaddi impresses on first start - have Man City found 'a gem'?
 
-[原文] Aston Villa finally found their shooting boots with three goals at Club Brugge - but their win was not straightforward.
+[原文] Ayyoub Bouaddi belies his age with a mature Champions League performance on his first Manchester City start to showcase why the club were so intent on signing the 18-year-old.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c62j655pe81o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cy0zq59gr21o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Favourite Kane makes Ballon d'Or shortlist
+### 3. In the middle again - but Mourinho says Alexander-Arnold 'not a midfielder'
 
-[原文] Bayern Munich striker Harry Kane is one of three England players nominated for the 2026 Ballon d'Or alongside Jude Bellingham and Declan Rice.
+[原文] Trent Alexander-Arnold started in midfield for Real Madrid's win over Inter - but Jose Mourinho says it is not his best position.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c62m82qqm87o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c980lgdrlzno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Sabalenka fights back to keep US Open defence alive
+### 4. Tiafoe consoles tearful Michelsen after remarkable US Open comeback
 
-[原文] Aryna Sabalenka battles back to beat sixth seed Linda Noskova in three sets and advance to the semi-finals.
+[原文] Frances Tiafoe comes from two sets and a break down to beat Alex Michelsen in a thrilling comeback to reach the US Open semi-finals.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/c3v43p9r2qdo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/c33k6zl5m87o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. GB's Brennan wins his fourth stage of 2026 Vuelta
+### 5. West Ham go top of Championship - are they ready to leave past behind?
 
-[原文] Britain's Matthew Brennan sprints to his fourth stage win of the 2026 Vuelta a Espana.
+[原文] Three wins in a row, top of the table, unity at the club - are West Ham ready to leave the past behind on and off the pitch?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cycling/articles/c804dl8m544o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cp80znxj2dmo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Nick Offerman Slams Ben Shapiro’s ‘Rampant Homophobia’ After Being Attacked for Playing a Gay Role: ‘Holy S—. That’s Crazy’
+### 1. Louis Messina, Taylor Swift’s Tour Promoter, Urges Judge to Reject Live Nation/Ticketmaster Antitrust Settlement: ‘I Could Go Out of Business Like Other Promoters Who Have Fallen Victim to Live Nation’
 
-[原文] Nick Offerman recently appeared on the &#8220;Talk Easy With Sam Fragoso&#8221; podcast and blasted Ben Shapiro&#8217;s &#8220;rampant homophobia&#8221; after seeing a video for the first time of the 
+[原文] You might think that the man who promoted Taylor Swift&#8217;s Eras Tour, as well as all of her other global outings, would be powerful enough not to feel intimidated by Live Nation and Ticketmaster. 
 
-📎 [阅读原文](https://variety.com/2026/tv/news/nick-offerman-slams-ben-shapiro-homophobia-1236854766/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/louis-messina-taylor-swift-promoter-live-nation-ticketmaster-1236855357/) — *Variety*
 
-### 2. Suno and Believe Music Announce Strategic Partnership
+### 2. John Mulaney Circling Lead Role in ‘Get Smart’ Reboot at Warner Bros.
 
-[原文] Suno, the controversial AI music generating platform, continues to make moves toward legitimacy in the music industry: After striking licensing deals with Warner Music and BMG (arguably the third and 
+[原文] John Mulaney is circling the role of Agent Maxwell Smart in Warner Bros. upcoming movie reboot of “Get Smart,” Variety has confirmed. The project is still in very early stages. Seth Grahame-Smith, who
 
-📎 [阅读原文](https://variety.com/2026/digital/news/suno-believe-strategic-partnership-1236855137/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/john-mulaney-get-smart-movie-reboot-warner-bros-1236855373/) — *Variety*
 
-### 3. Jim Geoghan, ‘Suite Life of Zack & Cody’ Co-Creator, Dies at 79
+### 3. Netflix Orders New Series Take On ‘Lonesome Dove’ From ‘East of Eden’ Showrunners Zoe Kazan and Jeb Stuart
 
-[原文] Jim Geoghan, the creator of “Suite Life of Zack &#38; Cody,” died on Sept. 6 at 79 in Los Angeles, his daughter Genevieve Geoghan confirmed to Variety. He was 79. He co-created and executive produced 
+[原文] “Lonesome Dove,” which was originally adapted into an Emmy- and Golden Globe-winning CBS miniseries starring Robert Duvall in 1989, is getting a new take at Netflix. The streamer announced Tuesday tha
 
-📎 [阅读原文](https://variety.com/2026/tv/people-news/jim-geoghan-dead-dies-suite-life-zack-cody-1236855101/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/netflix-lonesome-dove-orders-new-series-take-1236855339/) — *Variety*
 
-### 4. Prime Video Orders Australian Originals ‘Free Spirits: The Backpacker Poisonings,’ ‘Madness of Three’ and ‘The Test’ Season 4
+### 4. Telluride Takeaways: From Julianne Moore and Paul Giamatti’s ‘Debut’ to Nathan Fielder’s Audacious Dare to the Doc Branch
 
-[原文] Prime Video has ordered three new Australian original titles, growing its local slate to 34 commissions since 2019. The new titles include two true-crime docuseries and a fourth season of the sports d
+[原文] On my last morning in Telluride, halfway through breakfast at Butcher &#38; Baker, Kenneth Branagh stopped at the table on his way to a Q&#38;A for “Into the Breach,” the National Theatre documentary 
 
-📎 [阅读原文](https://variety.com/2026/tv/news/prime-video-australian-originals-the-test-season-4-1236854836/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/awards/telluride-takeaways-julianne-moore-nathan-fielder-oscars-1236855247/) — *Variety*
 
-### 5. Penélope Cruz Sobs and Kisses Javier Bardem as ‘Bunker’ Dazzles Venice With Record 15.5-Minute Ovation
+### 5. Congress Begins Drafting 20% Federal Film Incentive With Trump’s Blessing (EXCLUSIVE)
 
-[原文] Penelope Cruz broke out into uncontrollable sobs as she kissed her husband and co-star Javier Bardem during the incredibly long 15.5-minute standing ovation at the premiere of &#8220;Bunker&#8221; at 
+[原文] Members of Congress are drafting legislation that would create a 20% federal film and TV incentive &#8212; with bonuses that could bring it as high as 30% &#8212; after President Trump endorsed the id
 
-📎 [阅读原文](https://variety.com/2026/film/festivals/penelope-cruz-javier-bardem-bunker-venice-premiere-1236844863/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/congress-draft-federal-film-incentive-trump-1236855119/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Nintendo Intentionally Included Loading Screens in The Legend of Zelda: Ocarina of Time Remake, and Fans Are Torn
+### 1. Netflix Orders Lonesome Dove TV Series From East of Eden Showrunners
 
-[原文] Nintendo has confirmed it intentionally included loading screens in its The Legend of Zelda: Ocarina of Time remake to "preserve the essence of the original game," and the internet isn't in love with 
+[原文] Netflix is adapting Larry McMurtry’s iconic Western novel Lonesome Dove into a new TV series from East of Eden co-showrunners Zoe Kazan and Jeb Stuart.
 
-📎 [阅读原文](https://www.ign.com/articles/nintendo-intentionally-included-loading-screens-in-the-legend-of-zelda-ocarina-of-time-remake-and-fans-are-torn) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/netflix-lonesome-dove-series-zoe-kazan) — *IGN*
 
-### 2. The Live-Action Moana’s 4K Steelbook Is Now Up for Preorder – Here’s Where You Can Grab It
+### 2. AMC Theaters Is Broadcasting the 2026 Rocket League World Championship Finals at Select Cinemas Across the US
 
-[原文] 2026's live-action Moana is making its way to a physical format with a 4K steelbook alongside regular 4K and Blu-ray releases. Here's where you can preorder them, and what bonus features this release 
+[原文] The 2026 Rocket League World Championship Finals will be broadcast at 50 AMC Theaters across the United States.
 
-📎 [阅读原文](https://www.ign.com/articles/moana-2026-live-action-4k-steelbook-where-to-buy) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/amc-theaters-is-broadcasting-the-2026-rocket-league-world-championship-finals-at-select-cinemas-across-the-us) — *IGN*
 
-### 3. Sega's President Says There's Been an Increase in Fans Who Don't Play Its Games, but That Doesn't Mean They Aren't Gamers
+### 3. SteelSeries Aeon Pro Review So Far
 
-[原文] Sega president and COO Shuji Utsumi says the company has experienced an uptick in fans who don’t actually play the games it develops and publishes.
+[原文] The SteelSeries Aeon Pro packs in just about every "pro" feature you could ask for in a controller, with Hall-effect thumbsticks, tactile switch buttons, adjustable triggers, and the company's outstan
 
-📎 [阅读原文](https://www.ign.com/articles/segas-president-says-theres-been-an-increase-in-fans-who-dont-play-its-games-but-that-doesnt-mean-they-arent-gamers) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/steelseries-aeon-pro-review) — *IGN*
 
-### 4. The Legend of Zelda 40th Anniversary Edition Switch 2 and Accessories Are Going Up for Preorder
+### 4. The Lord of the Rings: The Rings of Power Is Finally Getting a 4K Blu-ray Release Ahead of Season 3
 
-[原文] Evertyhing you need to know to preorder a Legend of Zelda 40th Anniversary Edition Nintendo Switch 2, Pro Controller, and carrying case (all available October 29).
+[原文] The Rings of Power is finally getting a 4K Blu-ray release ahead of the Prime Video show's third season.
 
-📎 [阅读原文](https://www.ign.com/articles/legend-of-zelda-40th-anniversary-edition-switch-2-pro-controller-where-to-buy) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/lord-of-the-rings-the-rings-of-power-season-1-2-4k-blu-ray-where-to-buy) — *IGN*
 
-### 5. Marvel’s Wolverine: Every Comic Book Costume In the PS5 Game
+### 5. The Bomb Busters Board Game Drops to Its Lowest Price Ever at Amazon
 
-[原文] We break down every costume confirmed to appear in Marvel's Wolverine and how Insomniac's new game draws on decades of X-Men lore.
+暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/marvels-wolverine-ps5-game-costumes-origins) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/bomb-busters-board-game-deal-september-2026) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post The Trick To Stop Speeding Drivers Is Ac
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Cost of Keeping Cool: Georgia Power Customers Struggle With Summer Bills
+### 1. As Hostilities Flare and Oil Prices Spike, U.S. Consumers Pay at the Pump
+
+[原文] Hours after President Donald Trump predicted on Truth Social that oil prices would fall precipitously once the United States wins its war with Iran, strikes on Saudi Arabia’s oil infrastructure by Ira
+
+📎 [阅读原文](https://insideclimatenews.org/news/08092026/oil-prices-spike-amid-trump-climate-rollbacks/) — *Inside Climate News*
+
+### 2. Many People Aren’t Connecting the Dots Between Climate Change and Extreme Weather
+
+[原文] At the end of August, devastating floods and a debris flow triggered by a glacier collapse crashed through the valleys of Nepal, killing more than 1,300 people. Earlier this summer, deadly heat waves 
+
+📎 [阅读原文](https://insideclimatenews.org/news/08092026/todays-climate-extreme-weather-attribution-disconnect/) — *Inside Climate News*
+
+### 3. The Cost of Keeping Cool: Georgia Power Customers Struggle With Summer Bills
 
 [原文] When the power goes out during a Georgia summer, the heat builds fast. Inside a home without air conditioning, the air turns heavy and stifling. For Donica Odell, who has dealt with Georgia Power disc
 
 📎 [阅读原文](https://insideclimatenews.org/news/08092026/georgia-power-electricity-disconnections/) — *Inside Climate News*
 
-### 2. The Winners and Losers of Maine’s Race to Armor Its Shoreline Against Climate Change
+### 4. The Winners and Losers of Maine’s Race to Armor Its Shoreline Against Climate Change
 
 [原文] GORHAM, Maine—Supersonic shockwaves shook the bones of Charlie Hamblen’s historic Maine farmhouse more than a dozen times last year, travelling over half a mile from blasts at a nearby quarry. The qua
 
 📎 [阅读原文](https://insideclimatenews.org/news/07092026/maines-race-to-protect-shorelines-as-quarries-expand/) — *Inside Climate News*
 
-### 3. Farmers Are Going Broke Amid Rising Gas Prices, While the Ag Secretary Profits Off Them
+### 5. Farmers Are Going Broke Amid Rising Gas Prices, While the Ag Secretary Profits Off Them
 
 [原文] As farmers grapple with soaring diesel and fertilizer prices and the Department of Agriculture yanks support for cheaper, renewable forms of energy, the agency’s chief, Brooke Rollins, is carrying mil
 
 📎 [阅读原文](https://insideclimatenews.org/news/06092026/agriculture-secretary-brooke-rollins-profits-off-rising-gas-prices/) — *Inside Climate News*
-
-### 4. Elevated Levels of Lead Surround Local Oregon Airports
-
-[原文] For years health officials have held that there is no safe level of lead exposure for humans. Even low levels can cause irreversible cognitive decline in children. Yet despite the risk, leaded aviatio
-
-📎 [阅读原文](https://insideclimatenews.org/news/06092026/oregon-small-airports-lead-risk/) — *Inside Climate News*
-
-### 5. As Extreme Weather Worsens, Black and Hispanic Homeowners Are Paying More for Insurance
-
-[原文] Homeowners in Hispanic and Black communities nationwide are paying a disproportionate share of skyrocketing home insurance costs, according to a recent report. The disparities leave communities of col
-
-📎 [阅读原文](https://insideclimatenews.org/news/05092026/black-and-hispanic-homeowners-pay-more-for-insurance/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post The Trick To Stop Speeding Drivers Is Ac
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. D’Angelo and Angie Stone’s Son Will Play the Notorious B.I.G. in the Snoop Dogg Biopic
+### 1. Lil Durk Closings: Prosecutors Hammer ‘Revenge,’ Defense Cites ‘Tsunami of Reasonable Doubt’
 
-[原文] This will be the first major acting role for Michael D'Angelo Archer II, who's also been releasing music as SwayvoTwain
+[原文] The rapper is fighting charges he put a bounty on Quando Rondo in retaliation for the killing of King Von
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/lil-durk-murder-for-hire-quando-rondo-king-von-closings-1235622843/) — *Rolling Stone*
+
+### 2. D’Angelo and Angie Stone’s Son Will Play the Notorious B.I.G. in the Snoop Dogg Biopic
+
+[原文] This will be the first major acting role for Michael D’Angelo Archer II, who’s also been releasing music as SwayvoTwain
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/snoop-dogg-biopic-dangelo-son-notorious-big-1235622984/) — *Rolling Stone*
 
-### 2. Abbey Road Music Photography Awards Announce 2026 Finalists
+### 3. Abbey Road Music Photography Awards Announce 2026 Finalists
 
 [原文] Photos of Oasis, Charli XCX, and more are nominated for this month’s annual awards at the legendary London studios
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/abbey-road-music-photography-awards-2026-finalists-1235622602/) — *Rolling Stone*
 
-### 3. Hear Elton John Dig Out Sixties Deep Cut ‘Skyline Pigeon’ at Rock in Rio
+### 4. Hear Elton John Dig Out Sixties Deep Cut ‘Skyline Pigeon’ at Rock in Rio
 
 [原文] “This next song is the first good song I wrote with Bernie [Taupin],” John said. “And Brazil is the only place it’s ever been popular, so here we go”
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/elton-john-dig-skyline-pigeon-rock-in-rio-1235622664/) — *Rolling Stone*
 
-### 4. Sir Tom Jones Reveals He Was Fired From ‘The Voice UK’
+### 5. Sir Tom Jones Reveals He Was Fired From ‘The Voice UK’
 
 [原文] “They now say in the press they wanted to ‘refresh’ the show, and with a new coaching line-up there wouldn’t be a chair for me,” he wrote on X
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/tom-jones-fired-from-the-voice-uk-1235622537/) — *Rolling Stone*
-
-### 5. Stevie Wonder to Play All of ‘Songs in the Key of Life’ on 50th-Anniversary Tour
-
-[原文] The musician will celebrate his landmark 1976 album on a fall trek that will hit the U.S. in November and December
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/stevie-wonder-songs-in-the-key-of-life-tour-dates-1235622542/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post The Trick To Stop Speeding Drivers Is Ac
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. What Hurricane Season Means For Hospitality’s Capex
+### 1. Klook Bets Creators Can Sell the Whole Trip, Not Just the Viral Attraction
+
+[原文] The social media influencer’s “Like, Comment and Share” button just got a new friend… Meet the “Book” link.
+
+📎 [阅读原文](https://skift.com/2026/09/08/klook-bets-creators-can-sell-the-whole-trip-not-just-the-viral-attraction/) — *Skift*
+
+### 2. What Hurricane Season Means For Hospitality’s Capex
 
 [原文] Host Hotels & Resorts’ $105 million work on The Don CeSar puts a real number on the cost of hurricane repairs and preparedness — but, as the company notes, investing in resilience doesn’t reduce risk 
 
 📎 [阅读原文](https://skift.com/2026/09/08/what-hurricane-season-means-for-hospitalitys-capex/) — *Skift*
 
-### 2. Google Strips Out EU Travel Search Features to Avoid More Fines
+### 3. Google Strips Out EU Travel Search Features to Avoid More Fines
 
 [原文] Google is scaling back certain search features in Europe as DMA enforcement escalates.
 
 📎 [阅读原文](https://skift.com/2026/09/08/google-update-europe-travel-search-results-dma/) — *Skift*
 
-### 3. Inside the Financial Engineering of Club Med’s IPO
+### 4. Inside the Financial Engineering of Club Med’s IPO
 
 [原文] Club Med wants to grow from 69 resorts to about 85 without owning the next wave, and its new financial structure helps explain why.
 
 📎 [阅读原文](https://skift.com/2026/09/08/inside-the-financial-engineering-of-club-meds-ipo/) — *Skift*
 
-### 4. Luxury+Lifestyle: Can a Small Collection of Iconic London Hotels Out-Earn Big Brands?
+### 5. Luxury+Lifestyle: Can a Small Collection of Iconic London Hotels Out-Earn Big Brands?
 
 [原文] The owner of The Connaught and The Berkeley has hired the man who scaled Six Senses to build an operating company for luxury lifestyle hotels it owns and doesn't own.
 
 📎 [阅读原文](https://skift.com/2026/09/08/luxurylifestyle-can-a-small-collection-of-iconic-london-hotels-out-earn-big-brands/) — *Skift*
-
-### 5. Skift Global Forum Preview: Intrepid’s Chairman on the Climate Cost His Rivals Sidestep
-
-[原文] You created the demand, so you own the emissions. That's Darrell Wade's case for counting the customer flights most operators leave off their carbon books, and the competitive cost it carries. We'll t
-
-📎 [阅读原文](https://skift.com/2026/09/08/skift-global-forum-preview-intrepid-chairman-carbon-emissions-flights/) — *Skift*
 
 ---
 
