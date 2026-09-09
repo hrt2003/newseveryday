@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月10日** | 生成时间: 2026-09-10 00:13
+**2026年09月10日** | 生成时间: 2026-09-10 04:42
 
 ---
 
@@ -22,29 +22,29 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Oil hits $100 a barrel for first time since July after US and Houthi strikes
+### 2. Google picks Finland for its largest single investment in Europe
+
+[原文] The US tech giant says the €13bn data centre project will create tens of thousands of jobs.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. Oil hits $100 a barrel for first time since July after US and Houthi strikes
 
 [原文] Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. US to ban imports of some Canadian alcohol, dairy goods and motorbikes
+### 4. Iran referred to UN Security Council for nuclear non-compliance
+
+[原文] Tehran condemns the resolution, blaming US and Israeli strikes on its nuclear facilities for disrupting inspections.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. US to ban imports of some Canadian alcohol, dairy goods and motorbikes
 
 [原文] It is the latest strike in a long trade war, and comes after Canadian counter-tariffs on US goods come into force.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Two die at Moldovan border as Russia-Ukraine drone war rages
-
-[原文] Three deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. N Korea has built two-storey uranium enrichment facility, says watchdog
-
-[原文] The International Atomic Energy Agency's says the facility is cause for "serious concern".
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy0zqk2w92lo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Treasury Department to buy back up to $6 billion in longer-term debt, triple the normal level
+### 1. Trump says oil and gas prices won't fall until 'right after' midterm election
 
-[原文] The much-anticipated announcement triples the normal buyback operation and follows an announcement  from Treasury Secretary Scott Bessent.
+[原文] President Donald Trump said energy prices that have been elevated due to the Iran war will not come down until after the midterm elections.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/09/treasury-department-to-buy-back-6-billion-in-longer-term-debt-triple-the-normal-level.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/09/trump-oil-gas-prices-midterm-elections.html) — *CNBC*
 
-### 2. Robinhood CEO says companies can't control how their stock is tokenized as AMC clash escalates
-
-[原文] Robinhood's Vlad Tenev said public companies can’t control financial products built around their stock while acknowledging token holders don’t get voting rights.
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/09/robinhood-ceo-says-companies-cant-control-how-their-stock-is-tokenized-as-amc-clash-escalates.html) — *CNBC*
-
-### 3. CoreWeave CEO chalks up public AI pushback to the speed of change: 'And that is frightening'
-
-[原文] CoreWeave CEO Mike Intrator spoke to CNBC at the Goldman Sachs' Communacopia + Technology Conference this week.
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/09/goldman-sachs-communcacopia-technology-conference-ai.html) — *CNBC*
-
-### 4. Experts weigh in as researcher says AI has more than 10% chance of 'killing all humans'
+### 2. Experts weigh in as researcher says AI has more than 10% chance of 'killing all humans'
 
 [原文] Jacob Coxon said in a post on X that Anthropic and OpenAI are "gambling with our lives."
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/09/anthropic-researcher-quits-ai-safety.html) — *CNBC*
 
-### 5. Brent crude oil tops $101 for first time since July as fighting escalates in Persian Gulf
+### 3. Bessent’s political turn in GOP speech tests his bond-market credibility
 
-[原文] Oil prices extended gains on Wednesday as escalating tensions between the U.S. and Iran fueled concerns over further disruptions to Middle East energy supplies.
+[原文] Treasury Secretary Scott Bessent's planned Republican convention speech in Dallas is raising questions about how politics could affect market confidence in him.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/09/oil-prices-today-wti-brent-us-iran-hormuz-attacks.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/09/bessent-treasury-yields-buybacks-republican-convention.html) — *CNBC*
+
+### 4. Republicans to tout congressional stock-trading ban at midterm convention as Trump trades
+
+[原文] Trump disclosed more than 21,000 trades in 2025, while the House-passed restrictions Republicans are promoting apply only to Congress.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/09/trump-republicans-congress-stock-trading-ban-midterm-convention.html) — *CNBC*
+
+### 5. Bond sell-off, stock boom: Why rebalancing is a good strategy right now
+
+[原文] With stocks near all-time highs and bonds selling off, it's likely a good time for investors to consider rebalancing to their target risk, advisors said.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/09/bond-selloff-stock-boom-rebalancing.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Superintelligence is coming. Should we let it?
+### 1. Apple Watch’s new AI features are normalizing the idea that technology is always listening
 
-[原文] AI companies have been talking about superintelligent AI like&#160;it&#8217;s&#160;inevitable, but recent&#160;safety incidents&#160;like&#160;OpenAI&#8217;s&#160;Hugging Face breach&#160;are&#160;dem
+[原文] Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave wh
 
-📎 [阅读原文](https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/) — *TechCrunch*
 
-### 2. Viral AI assistant Instinct now has its own email address
+### 2. Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch
 
-[原文] Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.
+[原文] The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/) — *TechCrunch*
 
-### 3. Uber rival inDrive scales beyond ride-hailing to capture more consumer spending
+### 3. There are new shiny iPhones, so Apple is making you pay more for older models
 
-[原文] inDrive's ad business, first piloted in July 2025, has served more than 2 billion impressions and attracted over 2,000 paying advertisers a month.
+[原文] Apple is raising the price of its existing iPhone models by $100, including iPhone 16, iPhone 17, and iPhone Air.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/09/uber-rival-indrive-scales-beyond-ride-hailing-to-capture-more-consumer-spending/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/09/there-are-new-shiny-iphones-so-apple-is-making-you-pay-more-for-older-models/) — *TechCrunch*
 
-### 4. ‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI
+### 4. The hinge for Apple’s new foldable phone was built with AI
 
-[原文] Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs.
+[原文] Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/) — *TechCrunch*
 
-### 5. Shipt becomes the latest delivery app with an AI shopping assistant
+### 5. Apple Watch’s new feature listens to your chats and recaps them
 
-[原文] Users can ask the assistant to do things like "Create a cart for my Saturday tailgate for 25 people and include some brunch items," or "Build a cart for easy school lunches and after-school snacks," S
+[原文] The Siri Recap feature is similar to other note-taking apps like Granola.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/09/apple-watchs-new-feature-listens-to-your-chats-and-recaps-them/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. What next for LIV Golf's star players, and its fight for survival?
+### 1. Gay should open for England in South Africa - Cook
+
+[原文] England batter Emilio Gay has done enough to lock in an opener's spot for their winter tour of South Africa, according to Sir Alastair Cook.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cj4jwpn94k2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. What next for LIV Golf's star players, and its fight for survival?
 
 [原文] Golf's main tours are expecting a lot of interest in rejoining from LIV golfers – but the path back might not be so easy.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/c0re742dpw1o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. 'Embarrassing' Pakistan break record in innings to forget
+### 3. Benn 'dragged down to pits of hell' by weight cut
 
-[原文] The only thing gloomier than the leaden skies at lunch on day of the third Test at Edgbaston will be the mood in the Pakistan dressing room as things went from bad to worse.
+[原文] Conor Benn says making the welterweight limit for his world-title challenge against Ryan Garcia has felt like being "dragged down to the pits of hell" but insists he is healthy and will make weight.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c62mn0zn657o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/articles/cx2z9lvp0wgo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Kimi Raikkonen's son Robin, 11, signs for Red Bull
+### 4. 'Just a number' - Rybakina's rise to world number one
 
-[原文] Robin Raikkonen, the 11-year-old son of former Formula 1 world champion Kimi Raikkonen, signs for Red Bull's driver development programme.
+[原文] Elena Rybakina becomes the new women's world number one after reaching the US Open semi-finals, ending Aryna Sabalenka's 99-week reign at the top of the rankings.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/c3v437155e3o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/c70l7qgw87do?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Messi agrees to buy second Spanish club
+### 5. England humble hapless Pakistan on opening day of final Test
 
-[原文] Spanish second-division side Eldense say Argentina great Lionel Messi has reached a "preliminary agreement" to become the club's majority shareholder.
+[原文] England took early control of the third and final Test against Pakistan after a day of dominance with bat and ball, closing the day on 156-4, giving the home side a lead of 23 at stumps, after earlier
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c99dmky78d3o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Borthwick's holding pattern extended - with minimal confidence vote
-
-[原文] England head coach Steve Borthwick's extra six months buys time but doesn't indicate reserves of confidence from his Rugby Football Union employers.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-union/articles/cy8z5gkenl2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/videos/clyer832nx8o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Channing Tatum, Gemma Chan and a 9-Year-Old Front the ‘Josephine’ Oscar Campaign (EXCLUSIVE)
+### 1. ‘The Legend of Zelda: Ocarina of Time’ 40th Anniversary Remake Sets Nintendo Switch 2 Release Date (Gaming News Roundup)
 
-[原文] Every awards season has a film that dares you to look away. This year it’s carried by a nine-year-old girl. Sumerian Pictures will submit Beth de Araújo’s Sundance Film Festival winner “Josephine” acr
+[原文] Celebrating 40 years of gameplay, an updated version of “The Legend of Zelda: Ocarina of Time” will be available for Nintendo Switch 2 on Nov. 5. The remake will have overhauled visuals, fully voiced 
 
-📎 [阅读原文](https://variety.com/2026/film/awards/josephine-oscars-campaign-channing-tatum-gemma-chan-1236855246/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/gaming/news/gaming-news-roundup-week-september-7-1236855160/) — *Variety*
 
-### 2. ‘The Pitt’ to Be Honored by Cedars-Sinai (EXCLUSIVE)
+### 2. How Netflix Will Use Apple’s iPhone Duo to Deliver a ‘Big-Screen Feeling’
 
-[原文] “The Pitt”&#160;will be honored by Cedars-Sinai with the Hollywood Leadership Award at its upcoming Sunset Soirée gala. The award recognizes the medical drama’s authentic portrayal of life in the emer
+[原文] Apple has unveiled its first foldable smartphone, the iPhone Duo, which has a 7.6-inch diagonal screen when opened up. And Netflix is here for it. Netflix is among the handful of pre-release partners 
 
-📎 [阅读原文](https://variety.com/2026/tv/columns/the-pitt-honored-by-cedars-sinai-1236855362/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/digital/news/netflix-apple-iphone-duo-foldable-features-1236856362/) — *Variety*
 
-### 3. Xilam Animation Unveils Raft of Legacy, Returning IP Series Presales at Unifrance Rendez-vous (EXCLUSIVE)
+### 3. ‘Company’ Review: Casey Affleck’s Latest Directorial Effort Isn’t What It Initially Appears to Be, but Isn’t Very Interesting Either Way
 
-[原文] Academy Award-nominated French animation studio Xilam Animation has inked a wave of presales for the latest content from its line-up of iconic comedy franchises during the Unifrance Rendez-Vous, contr
+[原文] Stories are nested within stories to steadily diminishing returns in “Company,” a perversely ponderous exercise in hide-the-genre that takes more than an hour to reveal what its game really is. Gather
 
-📎 [阅读原文](https://variety.com/2026/tv/markets-festivals/xilam-animation-unifrance-rendez-vous-oggy-chickies-sales-1236854556/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/reviews/company-review-casey-affleck-1236855871/) — *Variety*
 
-### 4. ‘Call My Agent! The Movie’ Premieres in Paris as Ted Sarandos Touts Netflix’s ‘Vital’ Role in France Amid Regulatory Fight
+### 4. ‘Charlie’s Angels’ Reunion, Zendaya and ‘Buffy’ Alums Sarah Michelle Gellar, David Boreanaz Among Confirmed Emmys Presenters
 
-[原文] Netflix co-CEO Ted Sarandos used the Paris premiere of “Call My Agent! The Movie” to underscore the streamer’s importance to France’s entertainment industry amid a regulatory battle over the country’s
+[原文] &#8220;Charlie&#8217;s Angels&#8221; and &#8220;Angel&#8221; are among the first round of names announced Wednesday to serve as presenters at Monday night&#8217;s 78th Emmys on NBC and Peacock. &#8220
 
-📎 [阅读原文](https://variety.com/2026/film/global/call-my-agent-movie-premiere-paris-ted-sarandos-netflix-1236855665/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/charlies-angels-reunion-zendaya-buffy-emmys-presenters-1236856284/) — *Variety*
 
-### 5. Fox Says DOJ Requests More Documents in Review of $22 Billion Roku Deal ‘as Expected’
+### 5. Channing Dungey on Warner Bros. TV Group’s Big Year of Pickups, Renewals and New Deals — Despite Industry Distractions and Ownership Uncertainty
 
-[原文] Fox Corp.&#8217;s bid for streaming platform Roku is undergoing review by the Justice Department, with the U.S. agency requesting additional documents related to the proposed deal. On Tuesday, Sept. 8
+[原文] Warner Bros. TV Group isn’t acting like a studio with an uncertain future. Even as the fate of Warner Bros. Discovery remains up in the air — given the uncertain timeline of a Paramount Skydance acqui
 
-📎 [阅读原文](https://variety.com/2026/tv/news/fox-roku-deal-doj-merger-review-1236855878/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/warner-bros-tv-group-pickups-renewals-deals-channing-dungey-1236856102/) — *Variety*
 
 ---
 
@@ -320,39 +320,39 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Honda’s Top Bosses Explain How They’re Avoiding Toyota’s Engine Nightmare
+### 1. Luxury Car Sales Are Cratering. Some Porsche Dealers Are Making It Worse
+
+[原文] Bentley sold fewer than 150 cars in July, Aston Martin's revenue is down 21%, and some Porsche dealers are pushing customers into buying cars they don't want for access to cars they do want.
+The post 
+
+📎 [阅读原文](https://www.thedrive.com/podcast/luxury-car-sales-are-cratering-porsche-dealers-are-making-it-worse) — *The Drive*
+
+### 2. We Borrowed a $1.2M Airplane to Pick Up My $3,000 Dream Car
+
+[原文] Leaning on friends in high places (literally, the sky) to acquire another cheap old car.
+The post We Borrowed a $1.2M Airplane to Pick Up My $3,000 Dream Car appeared first on The Drive.
+
+📎 [阅读原文](https://www.thedrive.com/features/we-borrowed-a-1-2m-airplane-to-pick-up-my-3000-dream-car) — *The Drive*
+
+### 3. Honda’s Top Bosses Explain How They’re Avoiding Toyota’s Engine Nightmare
 
 [原文] As cars become more advanced and rely more on complex computers and software, maintaining reliability becomes a lot harder. Here's how Honda is making sure its engines (and other components) don't gre
 
 📎 [阅读原文](https://www.thedrive.com/news/hondas-top-bosses-explain-how-theyre-avoiding-toyotas-engine-nightmare) — *The Drive*
 
-### 2. Here’s What 20 Years of Tire Progress Looks Like in Lap Times
+### 4. Here’s What 20 Years of Tire Progress Looks Like in Lap Times
 
 [原文] A lot of things have gotten worse in the last 20 years. Tires? Not one of them. 
 The post Here&#8217;s What 20 Years of Tire Progress Looks Like in Lap Times appeared first on The Drive.
 
 📎 [阅读原文](https://www.thedrive.com/news/heres-what-20-years-of-tire-progress-looks-like-in-lap-times) — *The Drive*
 
-### 3. This 2003 Ford Super Duty Got a 2023 10-Speed. Now It Drives Like a New Truck
+### 5. There’s a New 10-Speed Transmission Behind This Old 7.3L Power Stroke Diesel
 
-[原文] Here's what happens when you pair a holy grail 7.3-liter Power Stroke with a new transmission that keeps it in boost all the time.
-The post This 2003 Ford Super Duty Got a 2023 10-Speed. Now It Drives
+[原文] Here's what happens when you pair a holy grail 7.3-liter Power Stroke with a transmission that keeps it in boost all the time.
+The post There&#8217;s a New 10-Speed Transmission Behind This Old 7.3L P
 
 📎 [阅读原文](https://www.thedrive.com/news/this-2003-ford-super-duty-got-a-2023-10-speed-now-it-drives-like-a-new-truck) — *The Drive*
-
-### 4. 2027 Honda Passport TrailSport Now Has the Ground Clearance of a Jeep Wrangler
-
-[原文] The Honda Passport TrailSport is getting more than just a lift kit; new axles and subframe give it a significant suspension re-engineering.
-The post 2027 Honda Passport TrailSport Now Has the Ground C
-
-📎 [阅读原文](https://www.thedrive.com/news/2027-honda-passport-trailsport-now-has-the-ground-clearance-of-a-jeep-wrangler) — *The Drive*
-
-### 5. 2027 Honda Civic Type R HRC Sounds Like Way More Than an Aero Package: TDS
-
-[原文] The CTR hasn't been updated much over the years, but the upcoming HRC version rumored for 2027 could change that in a huge way.
-The post 2027 Honda Civic Type R HRC Sounds Like Way More Than an Aero P
-
-📎 [阅读原文](https://www.thedrive.com/news/2027-honda-civic-type-r-hrc-sounds-like-way-more-than-an-aero-package-tds) — *The Drive*
 
 ---
 
@@ -362,35 +362,35 @@ The post 2027 Honda Civic Type R HRC Sounds Like Way More Than an Aero P
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. For Many New Yorkers, Home Is No Escape From the Heat
+### 1. 5 Takeaways From Our Investigation Into China’s Massive Overseas Investments
+
+[原文] For more than a decade, the Chinese government has overseen a trillion-dollar building spree across the globe, helping construct and finance a vast network of mines, ports, railways and other infrastr
+
+📎 [阅读原文](https://insideclimatenews.org/news/09092026/planet-china-overseas-investments-investigation-takeaways/) — *Inside Climate News*
+
+### 2. For Many New Yorkers, Home Is No Escape From the Heat
 
 [原文] New York City is getting hotter, and for some residents, staying cool can be a matter of life and death. Mayor Zohran Mamdani has declared at least three heat emergencies this summer, some lasting mor
 
 📎 [阅读原文](https://insideclimatenews.org/news/09092026/new-york-indoor-heat-stress/) — *Inside Climate News*
 
-### 2. NOAA Fisheries Takes A ‘Sharp Turn Away From Science’
+### 3. NOAA Fisheries Takes A ‘Sharp Turn Away From Science’
 
 [原文] In July, the Trump administration relegated endangered leatherback turtles, sea lions and whales to mere collateral damage in its race to profit from the oceans. Now, fisheries science is in the gover
 
 📎 [阅读原文](https://insideclimatenews.org/news/09092026/noaa-commercial-interests-threatens-fisheries/) — *Inside Climate News*
 
-### 3. As Hostilities Flare and Oil Prices Spike, U.S. Consumers Pay at the Pump
+### 4. As Hostilities Flare and Oil Prices Spike, U.S. Consumers Pay at the Pump
 
 [原文] Hours after President Donald Trump predicted on Truth Social that oil prices would fall precipitously once the United States wins its war with Iran, strikes on Saudi Arabia’s oil infrastructure by Ira
 
 📎 [阅读原文](https://insideclimatenews.org/news/08092026/oil-prices-spike-amid-trump-climate-rollbacks/) — *Inside Climate News*
 
-### 4. Many People Aren’t Connecting the Dots Between Climate Change and Extreme Weather
+### 5. Many People Aren’t Connecting the Dots Between Climate Change and Extreme Weather
 
 [原文] At the end of August, devastating floods and a debris flow triggered by a glacier collapse crashed through the valleys of Nepal, killing more than 1,300 people. Earlier this summer, deadly heat waves 
 
 📎 [阅读原文](https://insideclimatenews.org/news/08092026/todays-climate-extreme-weather-attribution-disconnect/) — *Inside Climate News*
-
-### 5. The Cost of Keeping Cool: Georgia Power Customers Struggle With Summer Bills
-
-[原文] When the power goes out during a Georgia summer, the heat builds fast. Inside a home without air conditioning, the air turns heavy and stifling. For Donica Odell, who has dealt with Georgia Power disc
-
-📎 [阅读原文](https://insideclimatenews.org/news/08092026/georgia-power-electricity-disconnections/) — *Inside Climate News*
 
 ---
 
@@ -406,7 +406,7 @@ The post 2027 Honda Civic Type R HRC Sounds Like Way More Than an Aero P
 
 📎 [阅读原文](https://edsurge.com/news/stitching-the-future-technology-as-a-sacred-trust) — *EdSurge*
 
-### 2. Two Students, Two Questions That Wouldn’t Let Go
+### 2. Two Students, Two Questions They Wouldn’t Let Go
 
 [原文] Students asking why learning matters in the age of AI forces two teachers to respond.
 
@@ -438,35 +438,35 @@ The post 2027 Honda Civic Type R HRC Sounds Like Way More Than an Aero P
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Bootsy Collins Is About to Reveal All in Upcoming Memoir
+### 1. Billy Joel Says Concerts Were ‘Causing Damage To My Brain Nerves’ Whenever He Played Live
 
-[原文] "If I'm lyin', I'm dyin'," bassist says of new book Funked Around, Found Out out next spring
+[原文] In an new interview, Joel reveals that he initially refused surgical intervention after being diagnosed with normal pressure hydrocephalus, and isn't sure when he'll tour again
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/bootsy-collins-funked-around-found-out-memoir-autobiography-1235623095/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/billy-joel-concerts-damage-brain-nerves-1235623880/) — *Rolling Stone*
 
-### 2. ‘Wicked’ Will Get the Orchestra Treatment on Live-to-Film Concert Tour
+### 2. N.O.R.E. Sued for Sexual Assault by Carmen Bryan
 
-[原文] For now, the scheduled events (which don’t include the film cast) account for screenings of Wicked: Part One only, while separate showings will be hosted for Wicked: For Good
+[原文] Bryan, who shares a child with Nas, claimed she pleaded with Jay-Z not to get involved after telling him about the alleged assault at a nightclub in 1999
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/wicked-movies-tour-orchestra-concert-screenings-1235623554/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/nore-accused-sexual-assault-carmen-bryan-lawsuit-1235621684/) — *Rolling Stone*
 
-### 3. Julien Baker Announces Surprise Show at Nashville’s Third Man Records
+### 3. Amber Mark’s Road to Lollapalooza
 
-[原文] Baker's last solo album, Little Oblivions, arrived in 2021
+[原文] At one of the largest music festivals in The US, it would seem difficult to create a sense of intimacy amidst such a massive crowd, yet somehow, Amber Mark’s smooth, sultry vocals, strong connection t
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/julien-baker-surprise-nashville-show-1235623537/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/amber-marks-road-lollapalooza-1235617552/) — *Rolling Stone*
 
-### 4. Neurosis Plan Short Tour In Support of ‘An Undying Love for a Burning World’
+### 4. Nirvana to Receive Video Vanguard Award at VMAs
 
-[原文] Band also releases short film with the songs "We Are Torn Wide Open" and "Mirror Deep" featuring Blackfeet Nation members
+[原文] MTV made announcement on anniversary of trio’s censor-baiting performance of “Lithium” at the 1992 VMAs
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/neurosis-tour-dates-an-undying-love-for-a-burning-world-1235623522/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/nirvana-mtv-vmas-video-vanguard-award-1235623655/) — *Rolling Stone*
 
-### 5. Is AI Music Going Legit? Suno Launches New Models Built on a Major Label Catalog
+### 5. Hear Dolly Parton’s First Posthumous Song — From a New Stanley Brothers Tribute Album
 
-[原文] Suno’s advanced new music-generating models were trained on Warner Music Group’s songs. WMG isn’t revealing the size of the catalog it turned over or whether artists had the ability to opt out
+[原文] The all-star tribute to the Stanleys also features Willie Nelson, Sierra Ferrell, Jamey Johnson, Dierks Bentley, and many more
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/suno-new-model-v6-warner-music-group-1235623431/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/dolly-parton-posthumous-song-stanley-brothers-tribute-1235623533/) — *Rolling Stone*
 
 ---
 
@@ -476,35 +476,35 @@ The post 2027 Honda Civic Type R HRC Sounds Like Way More Than an Aero P
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. United Airlines’ CEO Wants The U.S. To Fund SAF Like It Funded Solar
+### 1. Skift Global Forum: Five Decisions in the Room
 
-[原文] Supply chain woes have long blocked the uptake of SAF, but United Airlines’ Scott Kirby sees potential in corn and soy currently grown for biodiesel. He wants more government support to firm up the in
+[原文] Every leader at Skift Global Forum is recalibrating amid technological and economic disruption. The open question is whether they’re doing it for the right decade.
 
-📎 [阅读原文](https://skift.com/2026/09/09/united-airlines-ceo-wants-u-s-to-fund-saf-like-it-funded-solar/) — *Skift*
+📎 [阅读原文](https://skift.com/2026/09/09/skift-global-forum-2026-five-decisions-in-the-room/) — *Skift*
 
-### 2. Why the Personal AI Assistant Hype Matters More for Travel Than Any AI Travel Product
+### 2. Navan Buys BoomPop to Push Into Meetings and Events
 
-[原文] The biggest shift in AI travel may be happening outside travel, as general-purpose agents learn to book, rebook, and act for the customer.
+[原文] A public travel company growing 35% is buying its way into the meetings-and-events spend that managed travel never tamed.
 
-📎 [阅读原文](https://skift.com/2026/09/09/why-the-personal-ai-assistant-hype-matters-more-for-travel-than-any-ai-travel-product/) — *Skift*
+📎 [阅读原文](https://skift.com/2026/09/09/navan-buys-boompop-to-push-into-meetings-and-events/) — *Skift*
 
-### 3. European Vacation Rental Platform Awaze Felt Affordability Squeeze in 2025
+### 3. Choice’s New CEO Has 3 Top Fixes — Plus $450 Million in Hotels to Sell
 
-[原文] Europe's largest holiday-rental group grew adjusted earnings and narrowed its loss in 2025, but revenue slipped, its cash position shrunk, and the group slid into net liabilities ahead of a 2028 refin
+[原文] New CEO Dominic Dragisich says Choice's build-and-buy era is over. His formula is to grow U.S. room count, close the revenue-generation gap with peer brands like Wyndham, and sell real estate it doesn
 
-📎 [阅读原文](https://skift.com/2026/09/09/european-vacation-rental-platform-awaze-felt-affordability-squeeze-in-2025/) — *Skift*
+📎 [阅读原文](https://skift.com/2026/09/09/choices-new-ceo-has-3-top-fixes-plus-450-million-in-hotels-to-sell/) — *Skift*
 
-### 4. Klook Bets Creators Can Sell the Whole Trip, Not Just the Viral Attraction
+### 4. EU Unveils Rules to Help Cities Crack Down on Airbnbs
 
-[原文] The social media influencer’s “Like, Comment and Share” button just got a new friend… Meet the “Book” link.
+[原文] Brussels has laid out a legal roadmap for restricting short-term rentals in stressed housing markets. Critics argue the rules lack oversight.
 
-📎 [阅读原文](https://skift.com/2026/09/08/klook-bets-creators-can-sell-the-whole-trip-not-just-the-viral-attraction/) — *Skift*
+📎 [阅读原文](https://skift.com/2026/09/09/eu-proposed-rules-short-term-rentals/) — *Skift*
 
-### 5. What Hurricane Season Means For Hospitality’s Capex
+### 5. Marriott CEO Says AI Will Impact Hotel Distribution First
 
-[原文] Host Hotels & Resorts’ $105 million work on The Don CeSar puts a real number on the cost of hurricane repairs and preparedness — but, as the company notes, investing in resilience doesn’t reduce risk 
+[原文] Marriott CEO Anthony Capuano was asked where AI is showing up in practice. He said the "biggest impact" so far has been on "distribution," or how travelers discover hotels online.
 
-📎 [阅读原文](https://skift.com/2026/09/08/what-hurricane-season-means-for-hospitalitys-capex/) — *Skift*
+📎 [阅读原文](https://skift.com/2026/09/09/marriott-ceo-says-ai-will-impact-hotel-distribution-first/) — *Skift*
 
 ---
 
@@ -526,6 +526,7 @@ The post 2027 Honda Civic Type R HRC Sounds Like Way More Than an Aero P
 
 ## ⚠️ 今日故障源
 
+- **🌍 国际政治**: NPR World
 - **🚗 汽车**: Autocar
 
 ---
