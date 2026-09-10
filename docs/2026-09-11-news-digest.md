@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月11日** | 生成时间: 2026-09-11 00:05
+**2026年09月11日** | 生成时间: 2026-09-11 04:37
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump says every adult American will get $5,000 if Republicans win midterms
+### 1. Yemen's Houthis reportedly seize strategic Red Sea port of Mokha
 
-[原文] Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from.
+[原文] Mokha's capture would bring the Iran-backed group closer to controlling the Bab al-Mandab Strait waterway, a key shipping route.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Watch: Is Trump's $5,000 election pledge legal?
+### 2. Can Trump really pay $5,000 to every American adult?
 
-[原文] The US president has said every American will get $5,000 (£3,700) if the Republican Party wins November's midterms.
+[原文] Analysts question if the US president's election year offer is workable, legal or affordable.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Iran war won't end until after crucial November elections, says Trump
+### 3. Pilot warned Amazon cargo plane going too fast before deadly crash, data shows
 
-[原文] The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election.
+[原文] One pilot told the other about the aircraft's "excessive speed" but received an uneven response even as alarms sounded.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry
+### 4. Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack
 
-[原文] The fire broke out as the vessel nearing its destination at the tourist hotspot of Coron in Palawan.
+[原文] The paper said it stood by its reporting, after publishing extracts from a book where the claim appears.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Royal family rift after popular TV news presenter chosen to succeed Ugandan king
+### 5. Man jailed after threatening to kill son's teacher in French village
 
-[原文] King Oyo's family say he left a will naming his young son as heir to the Tooro kingdom.
+[原文] The father had threatened to behead a female primary school teacher near Toulouse.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,11 +54,11 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Apple makes biggest change to iPhone release cadence in 7 years in Ternus' first showcase as CEO
+### 1. Trump's $1 trillion-plus 'dividend' plan meets immediate bipartisan pushback
 
-[原文] In John Ternus' first launch event as CEO, Apple announced its first foldable phone and the iPhone 18 Pro.
+[原文] Such a payout could cost more than $1 trillion and is likely to face legal obstacles.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/10/apple-makes-biggest-change-to-iphone-release-cadence-in-7-years.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/10/trump-dividend-midterms-gop.html) — *CNBC*
 
 ### 2. The likelihood of a Fed interest rate hike next week just got a lot higher
 
@@ -66,23 +66,23 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/10/the-likelihood-of-a-fed-interest-rate-hike-next-week-just-got-a-lot-higher.html) — *CNBC*
 
-### 3. Trump's $1 trillion-plus 'dividend' plan meets immediate bipartisan pushback
+### 3. Friday's CPI inflation report is even more important than usual. Here's what to expect
 
-[原文] Such a payout could cost more than $1 trillion and is likely to face legal obstacles.
+[原文] The Bureau of Labor Statistics will release the August consumer price index report at 8:30 a.m.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/10/trump-dividend-midterms-gop.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/10/fridays-cpi-inflation-report-is-even-more-important-than-usual-heres-what-to-expect.html) — *CNBC*
 
-### 4. Kimmel says interview with Senate candidate Talarico won't air on ABC amid FCC threats
+### 4. Oracle's stock jumps 7% on earnings beat as cloud infrastructure revenue more than doubles
+
+[原文] Oracle's results for the quarter came in stronger than expected, as did its revenue backlog.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/10/oracle-orcl-q1-earnings-report-2027.html) — *CNBC*
+
+### 5. Kimmel says interview with Senate candidate Talarico won't air on ABC amid FCC threats
 
 [原文] ABC has come under increased pressure from the FCC, and the Trump administration has raised concerns about equal air time for political candidates.
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/10/abc-kimmel-talarico-fcc.html) — *CNBC*
-
-### 5. Wholesale prices rose 0.4% in August, as expected
-
-[原文] The producer price index was expected to rise 0.4% in August, according to the Dow Jones consensus forecast.
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/10/ppi-inflation-report-august-2026.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Google is making it easier to switch between password managers on Android
+### 1. Meta’s AI agent Muse is now the No. 2 app in the US
 
-[原文] Google's new feature will transfer your passkeys as well
+[原文] Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/10/google-is-making-it-easier-to-switch-between-password-managers-on-android/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/) — *TechCrunch*
 
-### 2. The Boring Company raises $3B in round led by UAE
+### 2. Proxima Fusion bets €140M on a critical fusion ingredient dominated by Asian suppliers
 
-[原文] The company said it plans to dig more than 150 kilometers of tunnels in the Middle Eastern country.
+[原文] Proxima Fusion said Wednesday it plans to build a €140 million ($162.6 million) factory to produce fusion-grade high-temperature superconducting (HTS) tape, which will provide the startup with key com
 
-📎 [阅读原文](https://techcrunch.com/2026/09/10/the-boring-company-raises-3b-in-round-led-by-uae/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/10/proxima-fusion-bets-e140m-on-a-critical-fusion-ingredient-dominated-by-asian-suppliers/) — *TechCrunch*
 
-### 3. AI agents are flooding public services with new requests
+### 3. Amazon makes it easier to buy what you see on Prime Video
 
-[原文] “The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.
+[原文] Amazon is expanding shopping integrations across Prime Video, letting viewers discover products tied to thousands of shows, movies, and live sports through X-Ray, its shopping app, and a new Lens-powe
 
-📎 [阅读原文](https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video/) — *TechCrunch*
 
-### 4. Bending Spoons to buy collaboration tools maker Miro for $1.36B, 90% less than its 2022 valuation
+### 4. Anthropic reveals rogue AI agents hate CAPTCHAs, just like you
 
-[原文] Bending Spoons is buying Miro for $1.36B, a huge dip in valuation for the workplace collaboration startup, which was valued at $17.5B in late 2021.
+[原文] Come inside the mind of a bot trying to convince the internet it's human.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less-than-its-2022-valuation/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/) — *TechCrunch*
 
-### 5. Maven Robotics wants to steal your robot deployment deal
+### 5. India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content
 
-[原文] Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.
+[原文] Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Arsenal close to finalising new contract for Arteta
+### 1. England's push for two-day win halted by weather
 
-[原文] Mikel Arteta is believed to be close to finalising a new contract with Premier League champions Arsenal.
+[原文] England's charge towards a two-day victory in the final Test against Pakistan is only halted by rain at Edgbaston.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cgrvq2xp8dwo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c980dgvp2qeo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Hull & Woad to face Korda & Corpuz in Solheim opener
+### 2. Spurs and Richarlison in dispute over contract
 
-[原文] Charley Hull and Lottie Woad will face the formidable pairing of Nelly Korda and Allisen Corpuz in Friday's opening match of the Solheim Cup in the Netherlands.
+[原文] Tottenham and their forward Richarlison are in dispute over the remaining nine months on his contract.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/cx2zrp0ye5yo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c62mq8j4j5lo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Can you make a case for Chelsea being stripped of 2016-17 title?
+### 3. Hamilton and Leclerc 'squash' Monza controversy
 
-[原文] Does Mauricio Pochettino have a case that Tottenham should be retrospectively crowned Premier League champions?
+[原文] Lewis Hamilton says he and Ferrari team-mate Charles Leclerc have "squashed" any controversy between them from the Italian Grand Prix.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c0re0n84yz7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/ckg825g59l1o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Team GB return after pregnancy 'hard to put into words' - Kinsella
+### 4. England march to early win over Pakistan held up by rain
 
-[原文] A year after giving birth, Alice Kinsella takes the latest step on her groundbreaking return to gymnastics at an international meeting for Team GB.
+[原文] Harry Brook, Dan Lawrence, Jamie Smith and Ollie Robinson all post half-centuries on day two of the third Test for England, with rain the only respite for a Pakistan side trailing by 268.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/gymnastics/articles/cly59z2yjpjo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/videos/cz9zjypykqqo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Switch Six Nations fixture to USA to grow game – World Rugby
+### 5. 2030 Winter Olympics boss departs amid turmoil
 
-[原文] World Rugby would help any nation which wants to switch a Six Nations match to the United States as it continues its drive to spread the game stateside.
+[原文] Edgar Grospiron leaves his position as president of the organising committee for the 2030 French Alps Winter Olympics just 18 months after his appointment.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-union/articles/c5ymg0pm1yno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/articles/c980dgv6vyqo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. How Fandom’s New CEO Is Opening a ‘Much Simpler Front Door’ for General Consumers Without Removing ‘Depth of Nerddom’ From Platform
+### 1. Taylor Swift to Attend CMA Awards for First Time in 10 Years After ‘I Knew It, I Knew You’ Nomination, Further Cementing Her Country Comeback
 
-[原文] Whether it was a conscious choice or not, chances are high that if you’ve run an online query about a TV show, movie, book or video game the answer you received came courtesy of Fandom. Launched in 20
+[原文] In most cases, Taylor Swift leaves a little bit of suspense in the air as to whether she&#8217;ll attend one of the many awards shows where she is nominated. Not this time. Within hours of the announc
 
-📎 [阅读原文](https://variety.com/2026/gaming/news/fandom-new-ceo-general-consumers-expanding-platform-1236855758/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/taylor-swift-attending-cma-awards-song-nomination-i-knew-it-1236857806/) — *Variety*
 
-### 2. How ‘River’ Director Joshua Giuliano Made a ‘Beautiful, Brutal’ Slasher With Two Modern Scream Queens and a ‘Terrifying’ Villain
+### 2. T-Mobile’s New Deal Offers a Free Samsung Galaxy Z Fold8 Phone and Additional Entertainment Perks
 
-[原文] In Joshua Giuliano’s debut feature “River,” the line between beauty and carnage is razor thin. The slasher film, set to premiere Sept. 10 at the Toronto International Film Festival, concerns a trio of
+[原文] Tech giant Samsung recently unveiled three new phone models: Galaxy Z Fold8, Z Flip8 and Z Fold8 Ultra. Described as “a screen built for content,” these phones are at the forefront of the foldable pho
 
-📎 [阅读原文](https://variety.com/2026/film/features/river-slasher-jane-levy-jessica-rothe-1236856506/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/shopping/news/t-mobile-samsung-galaxy-z-fold8-phone-deal-offer-sept-2026-1236857858/) — *Variety*
 
-### 3. U2 Named MusiCares 2027 Persons of the Year
+### 3. Janelle Rodriguez, Who Helped Build NBC News’ Streaming Outlet, to Exit
 
-[原文] MusiCares has named U2 — Bono, The Edge, Adam Clayton and Larry Mullen Jr. — as its 2027 Persons of the Year. The 36th annual Persons of the Year benefit gala will be held at a new location, Peacock T
+[原文] Janelle Rodriguez, who helped build and launch NBC News&#8217; live-streaming outlet NBC News Now while overseeing a rare changing of the guard at &#8220;NBC Nightly News,&#8221; is leaving. &#8220;I&
 
-📎 [阅读原文](https://variety.com/2026/music/news/u2-musicares-2027-persons-of-the-year-1236856791/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/janelle-rodriguez-nbc-news-exit-1236857830/) — *Variety*
 
-### 4. ‘Nobody Wants This’ Sets Season 3 Release Date, Drops First-Look Images
+### 4. Peacock Orders ‘Before I Let Go’ Based on Kennedy Ryan Novel From Malcolm D. Lee, Attica Locke, Tembi Locke
 
-[原文] &#8220;Nobody Wants This&#8221; Season 3 has an official premiere date at Netflix. The third season of the popular romantic comedy series will debut on Oct. 22. Netflix has also dropped new first-look
+[原文] Peacock has given a series order to &#8220;Before I Let Go,&#8221; based on the Kennedy Ryan novel of the same name. Ryan and Malcolm D. Lee (“The Best Man” franchise, “Girls Trip&#8221;) created the 
 
-📎 [阅读原文](https://variety.com/2026/tv/news/nobody-wants-this-season-3-release-date-1236857293/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/peacock-before-i-let-go-based-kennedy-ryan-novel-1236857735/) — *Variety*
 
-### 5. ‘P-Valley’ to End With Season 3, Starz Strip Club Drama Sets Long Awaited Release Date
+### 5. ‘Under the Volcano’ Director Damian Kocur Takes on Contemporary Poland, Stereotypes and Historical Trauma in ‘La Manche’ as Oma Inge Film and Les Contes Modernes Come on Board (EXCLUSIVE)
 
-[原文] Starz has set the premiere date for &#8220;P-Valley&#8221; Season 3, which will also be the show&#8217;s final season. The drama series will return for its third and final season on Dec. 4, meaning it
+[原文] Polish director Damian Kocur is ready for “La Manche.” Presented at the Venice Production Bridge and produced by Kijora Film, the film will be co-produced by Germany’s Oma Inge Film and France’s Les C
 
-📎 [阅读原文](https://variety.com/2026/tv/news/p-valley-final-season-3-release-date-1236857331/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/damian-kocur-la-manche-oma-inge-les-contes-modernes-1236857477/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. 'You Get Your Tariff Money back... if You Give Them More Money' — Fans React to Nintendo's 'Customer Appreciation' Sale
+### 1. Pay Half Price for the Logitech G Pro X2 Superstrike Wireless Gaming Mouse With Haptic Inductive Triggers
 
-[原文] Fans are reacting to the announcement of a unique "Customer Appreciation" sale that Nintendo claims has been "made possible in part by tariff-related refunds."
+[原文] 10/10 "Masterpiece".
 
-📎 [阅读原文](https://www.ign.com/articles/you-get-your-tariff-money-back-if-you-give-them-more-money-fans-react-to-nintendos-customer-appreciation-sale) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/logitech-g-pro-x2-superstrike-gaming-mouse-deal-september-2026) — *IGN*
 
-### 2. Nintendo Announces New Switch Sale Made Possible By "Tariff-Related" Refunds
+### 2. Asa Germann Cast as Angel in Marvel's X-Men Movie
 
-[原文] Nintendo announces a 30% off Customer Appreciation Sale for Switch games and accessories, funded in part by tariff refunds following recent US litigation.
+[原文] Marvel’s X-Men movie has found its Angel in Asa Germann, best known for his roles in Gen V and Scream 7.
 
-📎 [阅读原文](https://www.ign.com/articles/nintendo-switch-customer-appreciation-sale-tariff-refunds) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/asa-germann-cast-as-angel-in-marvels-x-men-movie) — *IGN*
 
-### 3. Iron Man: How [Spoiler]'s Shocking Return Changes Everything for Tony Stark
+### 3. Top 15 Best Wolverine Comics
 
-[原文] Iron Man writer Joshua Williamson breaks down the shocking return in issue #9 and how this major twist will upend Tony Stark's world in the months to come.
+[原文] Wolverine has been fighting the good fight for decades in the Marvel Universe. These are his 15 greatest comic book storylines of all time.
 
-📎 [阅读原文](https://www.ign.com/articles/iron-man-happy-hogan-shocking-return-preview-interview) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/best-wolverine-comics-all-time) — *IGN*
 
-### 4. Grand Theft Auto VI Limited-Edition PS5 DualSense Controllers Are Up for Preorder
+### 4. Wardogs Surpasses 1 Million Copies Sold on Day One, Blows Past 300k Peak Concurrent Players on Steam
 
-[原文] Preorders are live for Grand Theft Auto VI Limited-Edition PS5 DualSense Controllers, but stock is limited. Hurry if you want one.
+[原文] Wardogs has already surpassed a million copies sold and is lighting up Steam's concurrent player charts.
 
-📎 [阅读原文](https://www.ign.com/articles/grand-theft-auto-6-limited-edition-ps5-dualsense-controllers-where-to-buy) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/wardogs-surpasses-1-million-copies-sold-on-day-one-blows-past-300k-peak-concurrent-players-on-steam) — *IGN*
 
-### 5. The Legend of Zelda: Ocarina of Time Remake's Divisive Character Models May Reflect Shigeru Miyamoto's Love of Puppetry, Nintendo Veteran Believes
+### 5. Dead or Alive 6 Last Round Project Manager Sparks Debate After Revealing Koei Tecmo is Dialing Back the Game's 'Sexy Costumes'
 
-[原文] The Legend of Zelda: Ocarina of Time remake's divisive character models may reflect Shigeru Miyamoto's love of puppetry, one Nintendo veteran believes.
+[原文] Dead or Alive 6 Last Round Project Manager Tsuyoshi Iuchi has sparked a debate within the fighting game community after explaining why the team at Koei Tecmo is dialing back on making sexy costumes.
 
-📎 [阅读原文](https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remakes-divisive-character-models-may-reflect-shigeru-miyamotos-love-of-puppetry-nintendo-veteran-believes) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/dead-or-alive-6-last-round-project-manager-sparks-debate-after-revealing-koei-tecmo-is-dialing-back-the-games-sexy-costumes) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Meet the Guy Who Owns Every 2007 Chrysler Model in the Same Shade of Blue
+### 1. The Free Milwaukee Tool or Battery Deal Is Back at The Home Depot
 
-[原文] Ryan Maruca is 25 years old, and he loves Chrysler's Daimler era. That's why he collected the manufacturer's entire lineup from 20 years ago.
-The post Meet the Guy Who Owns Every 2007 Chrysler Model i
+[原文] Build your own combo of Milwaukee batteries or tools and get some great stuff for free during this promo at The Home Depot.
+The post The Free Milwaukee Tool or Battery Deal Is Back at The Home Depot a
 
-📎 [阅读原文](https://www.thedrive.com/news/meet-the-guy-who-owns-every-2007-chrysler-model-in-the-same-shade-of-blue) — *The Drive*
+📎 [阅读原文](https://www.thedrive.com/news/the-free-milwaukee-tool-or-battery-deal-is-back-at-the-home-depot) — *The Drive*
 
-### 2. Bugatti’s VW Era Is Officially Over as Porsche Exits Rimac Partnership: TDS
+### 2. Costco Is Now Rationing Motor Oil Because the Global Shortage Is Getting Real
 
-[原文] Porsche has completed selling its stake in Bugatti Rimac to a group of investors in a deal said to be worth $1.2 billion.
-The post Bugatti&#8217;s VW Era Is Officially Over as Porsche Exits Rimac Part
+[原文] A Kirkland Signature oil change has nearly doubled in price, but that's not the most concerning change to how Costco's selling lubricants these days.
+The post Costco Is Now Rationing Motor Oil Because
 
-📎 [阅读原文](https://www.thedrive.com/news/bugattis-vw-era-is-officially-over-as-porsche-exits-rimac-partnership-tds) — *The Drive*
+📎 [阅读原文](https://www.thedrive.com/news/costco-is-now-rationing-motor-oil-because-the-global-shortage-is-getting-real) — *The Drive*
 
-### 3. 2028 XC40 Adds Much-Needed Updates to Volvo’s Cheapest Gas SUV
+### 3. The Mercedes-AMG C-Class Gets a V8 Again Because a Turbo-Four PHEV Isn’t It
 
-[原文] The Volvo XC40 is getting a modest makeover for 2028 as the current generation nears a decade on the market.
-The post 2028 XC40 Adds Much-Needed Updates to Volvo&#8217;s Cheapest Gas SUV appeared firs
+[原文] The 637 hp Mercedes-AMG CLE 646 Spezialanfertigung is a return to form for AMG—and yes, that's its real name.
+The post The Mercedes-AMG C-Class Gets a V8 Again Because a Turbo-Four PHEV Isn&#8217;t It
 
-📎 [阅读原文](https://www.thedrive.com/news/2027-xc40-adds-much-needed-updates-to-volvos-cheapest-gas-suv) — *The Drive*
+📎 [阅读原文](https://www.thedrive.com/news/the-mercedes-amg-c-class-gets-a-v8-again-because-a-turbo-four-phev-isnt-it) — *The Drive*
 
-### 4. Luxury Car Sales Are Cratering. Some Porsche Dealers Are Making It Worse
+### 4. Toyota’s New Gas Go-Kart Costs $2,500, Fits in a Minivan, and Proves Fun Isn’t Dead
 
-[原文] Bentley sold fewer than 150 cars in July, Aston Martin's revenue is down 21%, and some Porsche dealers are pushing customers into buying cars they don't want for access to cars they do want.
-The post 
+[原文] It's a 215cc kart that's meant to make life easier for normal families. 
+The post Toyota&#8217;s New Gas Go-Kart Costs $2,500, Fits in a Minivan, and Proves Fun Isn&#8217;t Dead appeared first on The 
 
-📎 [阅读原文](https://www.thedrive.com/podcast/luxury-car-sales-are-cratering-porsche-dealers-are-making-it-worse) — *The Drive*
+📎 [阅读原文](https://www.thedrive.com/news/toyotas-new-gas-go-kart-costs-2500-fits-in-a-minivan-and-proves-fun-isnt-dead) — *The Drive*
 
-### 5. We Borrowed a $1.2M Airplane to Pick Up My $3,000 Dream Car
+### 5. You’re Not Imagining It: Infotainment Systems Are Tanking Vehicle Quality
 
-[原文] Leaning on friends in high places (literally, the sky) to acquire another cheap old car.
-The post We Borrowed a $1.2M Airplane to Pick Up My $3,000 Dream Car appeared first on The Drive.
+[原文] Infotainment accounts for "25% of all vehicle problems" with new cars, according to JD Power.
+The post You&#8217;re Not Imagining It: Infotainment Systems Are Tanking Vehicle Quality appeared first on
 
-📎 [阅读原文](https://www.thedrive.com/features/we-borrowed-a-1-2m-airplane-to-pick-up-my-3000-dream-car) — *The Drive*
+📎 [阅读原文](https://www.thedrive.com/news/youre-not-imagining-it-infotainment-systems-are-tanking-vehicle-quality) — *The Drive*
 
 ---
 
@@ -363,35 +363,35 @@ The post We Borrowed a $1.2M Airplane to Pick Up My $3,000 Dream Car appeared fi
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. How California Is Kicking Its Natural Gas Habit
+### 1. Chemours to Pay $455 Million for Fayetteville Works Contamination
+
+[原文] This story is a collaboration between Inside Climate News and CityView NC, part of The Assembly Local Network. North Carolina and a handful of local governments agreed to settle with Chemours over its
+
+📎 [阅读原文](https://insideclimatenews.org/news/10092026/chemours-fayetteville-pfas-contamination-settlement/) — *Inside Climate News*
+
+### 2. How California Is Kicking Its Natural Gas Habit
 
 [原文] Natural gas is fading from California’s electricity mix more quickly than seemed possible just a few years ago. The state hit its peak for gas-fired electricity in 2014 and has fallen in eight of the 
 
 📎 [阅读原文](https://insideclimatenews.org/news/10092026/inside-clean-energy-california-transitions-away-from-natural-gas/) — *Inside Climate News*
 
-### 2. Pennsylvania Is Building More EV Chargers. Will Drivers Come?
+### 3. Pennsylvania Is Building More EV Chargers. Will Drivers Come?
 
 [原文] As I drove 500 miles across Pennsylvania and back in a little blue Chevrolet Bolt EV, a charging station near a dumpster at the back of a Pizza Hut parking lot proved to be a convenient stop. But afte
 
 📎 [阅读原文](https://insideclimatenews.org/news/10092026/pennsylvania-spends-big-on-ev-charging-network/) — *Inside Climate News*
 
-### 3. Industry Interests Spent Big Money to Stop California From Banning PFAS Pesticides
+### 4. Industry Interests Spent Big Money to Stop California From Banning PFAS Pesticides
 
 [原文] An ambitious bill to keep toxic &#8220;forever chemicals&#8221; off California produce lost its teeth after the chemical and agricultural industry spent hundreds of thousands of dollars lobbying again
 
 📎 [阅读原文](https://insideclimatenews.org/news/09092026/industry-interests-spent-big-money-to-stop-california-from-banning-pfas-pesticides/) — *Inside Climate News*
 
-### 4. Utahns Support Protecting National Monuments That Trump Downsized
+### 5. Utahns Support Protecting National Monuments That Trump Downsized
 
 [原文] Two-thirds of Utah voters support restoring the boundaries of Bears Ears and Grand Staircase-Escalante national monuments to the previous boundaries they had before President Donald Trump reduced them
 
 📎 [阅读原文](https://insideclimatenews.org/news/09092026/utah-voters-support-protecting-national-monuments/) — *Inside Climate News*
-
-### 5. The US Wants Minerals from South America. Its Environmental Defenders Fear What Comes Next.
-
-[原文] When Secretary of State Marco Rubio arrived in South America this week, he carried a familiar message: The United States wants access to minerals and an expanded military presence in the region.&#160;
-
-📎 [阅读原文](https://insideclimatenews.org/news/09092026/the-united-states-wants-south-america-minerals/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post We Borrowed a $1.2M Airplane to Pick Up My $3,000 Dream Car appeared fi
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. See Soundgarden’s Surviving Members Perform Halftime at Seahawks Game
+### 1. Spice Girls Fans Really Really Want a New Tour — They Are Getting a Box Set Instead
 
-[原文] The Pretty Reckless' Taylor Momsen and Pearl Jam's Mike McCready join reunited band for "Outshined" and a rare "Spoonman"
+[原文] “*puts credit card back in purse*”
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/soundgarden-members-perform-halftime-seahawks-game-1235624621/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/spice-girls-compilation-no-reunion-tour-fans-react-1235624780/) — *Rolling Stone*
 
-### 2. See Shania Twain Ride Pastel Unicorn in New ‘Still the One’ Video
+### 2. Billy Joel Pays Tribute to ‘Best Friend’ Jon Small: ‘Like a Brother to Me’
 
-[原文] But perhaps the most surreal aspect is Zedd's dance-floor version of the song
+[原文] “Losing Jon has hit me in a way I have never experienced. It is difficult to imagine this world without him in it,” singer writes of former bandmate and longtime friend
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/shania-twain-zedd-youre-still-the-one-candy-crush-video-1235624601/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/billy-joel-pays-tribute-jon-small-1235624727/) — *Rolling Stone*
 
-### 3. Slayyyter Is Infinitely More Pissed Off on ‘Crank 2’
+### 3. Nice as Fuck — Featuring Jenny Lewis and Members of Au Revoir Simone and the Like — Are Back for a Tour
 
-[原文] On the original "Crank," Slayyyter gets so twisted she "can't say no sentences right." Now, she wants the target of her sequel song to hear her loud and clear — emphasis on loud
+[原文] Group will embark on a 10th-anniversary tour this fall
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/slayyyter-shares-raging-crank-sequel-song-crank-2-1235623666/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/nice-as-fuck-10-anniversary-reunion-tour-1235624710/) — *Rolling Stone*
 
-### 4. Harry Styles Wants to Dance With Even More of His Friends on His 2027 Stadium Tour
+### 4. Julien Baker Returns to the Road With Rock Club Residency Tour This Fall
 
-[原文] The pop star will visit stadiums in six North American cities, and be joined on the road by Tinashe, Kylie Minogue, CA7RIEL &#38; Paco Amoroso, Lainey Wilson, Q Marsden, and the Womack Sisters, among 
+[原文] Singer will stage three-night stands in six cities, performing tracks from throughout her catalog as well as new music
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/harry-styles-2027-north-american-stadium-tour-dates-1235623961/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/julien-baker-rock-club-residency-tour-1235624445/) — *Rolling Stone*
 
-### 5. Harry Styles Announces 2027 Together, Together Tour Dates Are Coming: ‘I Hope to See You There’
+### 5. Snoop Dogg to Host VMAs as Show Returns to West Coast
 
-[原文] “I can’t wait for us to keep dancing with all our friends,” the star wrote in a letter to fans
+[原文] “Some of the biggest moments of my career happened on that stage and on MTV,” said the rap mogul
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/harry-styles-2027-together-together-tour-dates-coming-1235624191/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/snoop-dogg-host-vmas-show-returns-to-west-coast-1235624264/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post We Borrowed a $1.2M Airplane to Pick Up My $3,000 Dream Car appeared fi
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Hotels Have Focused on Coral Restoration — Palladium Is Betting on Seagrass Too
+### 1. Google’s New Hotel Search in Europe: What it Looks Like Now
+
+[原文] Google’s new user interface is meant to help the company avoid fines from EU regulators.
+
+📎 [阅读原文](https://skift.com/2026/09/10/google-update-europe-hotel-flight-search-results/) — *Skift*
+
+### 2. Hotels Have Focused on Coral Restoration — Palladium Is Betting on Seagrass Too
 
 [原文] Coastal hotels rely on clear water and white beaches to fill rooms, but Palladium’s conservation work protecting them is still funded by its foundation rather than operating budget.
 
 📎 [阅读原文](https://skift.com/2026/09/10/hotels-have-focused-on-coral-restoration-palladium-is-betting-on-seagrass-too/) — *Skift*
 
-### 2. With Booking’s Etraveli Deal Still Blocked, Expedia Has the Edge in M&A
+### 3. With Booking’s Etraveli Deal Still Blocked, Expedia Has the Edge in M&A
 
 [原文] Expedia is making acquisitions to build its business while Booking in Europe doesn't have that option. Companies such as Uber would find it tougher to advance its superapp strategy in Europe if regula
 
 📎 [阅读原文](https://skift.com/2026/09/10/with-bookings-etraveli-deal-still-blocked-expedia-has-the-edge-in-ma/) — *Skift*
 
-### 3. Marriott Brings Loyalty Into Corporate Booking Tools With Spotnana Deal
+### 4. Marriott Brings Loyalty Into Corporate Booking Tools With Spotnana Deal
 
 [原文] Marriott's best weapon for winning business travelers is its loyalty program. But until now it couldn't show loyalty information inside the booking portals corporations force employees to use. Spotnan
 
 📎 [阅读原文](https://skift.com/2026/09/10/marriott-brings-loyalty-into-corporate-booking-tools-with-spotnana-deal/) — *Skift*
 
-### 4. Inside Abercrombie & Kent’s Multibillion-Dollar Bet on Crystal Cruises
+### 5. Inside Abercrombie & Kent’s Multibillion-Dollar Bet on Crystal Cruises
 
 [原文] The owner of Abercrombie & Kent is using the balance sheet of one of travel’s best asset-light luxury businesses to rebuild Crystal Cruises. Company filings, credit ratings, and bond documents show wh
 
 📎 [阅读原文](https://skift.com/2026/09/10/inside-abercrombie-kents-multibillion-dollar-bet-on-crystal-cruises/) — *Skift*
-
-### 5. A Lost Year for Gulf Tourism
-
-[原文] Rooms are filling at half-price, not at pre-war demand — that’s hurting big brands and independents alike, but only one side has the balance sheet to outlast it.
-
-📎 [阅读原文](https://skift.com/2026/09/10/a-lost-year-for-gulf-tourism/) — *Skift*
 
 ---
 
