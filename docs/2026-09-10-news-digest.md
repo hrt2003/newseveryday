@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月10日** | 生成时间: 2026-09-10 11:52
+**2026年09月10日** | 生成时间: 2026-09-10 18:55
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Spanish intelligence warned of Ceuta mass crossing plans before surge
+### 1. Trump says every adult American will get $5,000 if Republicans win midterms
 
-[原文] Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands entered Ceuta.
+[原文] Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Google picks Finland for its largest single investment in Europe
+### 2. Watch: Is Trump's $5,000 election pledge legal?
 
-[原文] The US tech giant says the €13bn data centre project will create tens of thousands of jobs.
+[原文] The US president has said every American will get $5,000 (£3,700) if the Republican Party wins November's midterms.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Oil hits $100 a barrel for first time since July after US and Houthi strikes
+### 3. Iran war won't end until after crucial November elections, says Trump
 
-[原文] Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday
+[原文] The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Iran referred to UN Security Council for nuclear non-compliance
+### 4. Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry
 
-[原文] Tehran condemns the resolution, blaming US and Israeli strikes on its nuclear facilities for disrupting inspections.
+[原文] The fire broke out as the vessel nearing its destination at the tourist hotspot of Coron in Palawan.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Germany's Merz attacks AfD in stormy debate after far-right election win
+### 5. Royal family rift after popular TV news presenter chosen to succeed Ugandan king
 
-[原文] Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to "ethnic cleansing" for skilled workers.
+[原文] King Oyo's family say he left a will naming his young son as heir to the Tooro kingdom.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump says oil and gas prices won't fall until 'right after' midterm election
+### 1. Trump promises $5,000 'dividend' to U.S. citizens if Republicans win midterms
 
-[原文] President Donald Trump said energy prices that have been elevated due to the Iran war will not come down until after the midterm elections.
+[原文] Such a payout could cost more than $1 trillion and is likely to face legal obstacles.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/09/trump-oil-gas-prices-midterm-elections.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/10/trump-dividend-midterms-gop.html) — *CNBC*
 
-### 2. UBS CEO flags investor complacency as geopolitical and economic risks mount
+### 2. Trump warns Tehran over Pickaxe Mountain activity; U.S.-Iran exchange attacks on ships near Hormuz
 
-[原文] The UBS top boss cautioned that investors face an increasingly complicated environment given multiple headwinds.
+[原文] U.S. President Donald Trump has urged Iran "not to get cute" over activity at a suspected nuclear site on Pickaxe Mountain.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/10/ubs-ceo-sergio-ermotti-investor-complacency-piling-risks-.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/10/iran-us-war-hormuz-pickaxe-mountain.html) — *CNBC*
 
-### 3. Experts weigh in as researcher says AI has more than 10% chance of 'killing all humans'
+### 3. World’s largest contract chipmaker TSMC sees August revenue surge over 53% to record high
 
-[原文] Jacob Coxon said in a post on X that Anthropic and OpenAI are "gambling with our lives."
+[原文] TSMC reported monthly sales revenue for August on Thursday.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/09/anthropic-researcher-quits-ai-safety.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/10/tsmc-august-revenue-chip-ai.html) — *CNBC*
 
-### 4. Samsung works to draw iPhone users to its foldables even as Apple enters the market
+### 4. Bond sell-off, stock boom: Why rebalancing is a good strategy right now
 
-[原文] Samsung is drawing more iPhone users to its foldables as Apple’s rumored entry threatens to reshape the market.
+[原文] With stocks near all-time highs and bonds selling off, it's likely a good time for investors to consider rebalancing to their target risk, advisors said.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/10/samsung-tries-to-draw-iphone-users-to-its-foldables-amid-apple-entry.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/09/bond-selloff-stock-boom-rebalancing.html) — *CNBC*
 
-### 5. Democratic Sen. John Fetterman makes surprise video appearance at GOP midterm convention
+### 5. 'Extinction' warnings ramp up as more OpenAI, Anthropic researchers join calls for an AI slowdown
 
-[原文] Fetterman, of Pennsylvania, vowed to "work with President Trump to fight and defend the steel way of life right here in the Steel Valley."
+[原文] There is growing concern globally about the capability of AI, following numerous cyberattacks and security incidents in recent months by rogue models
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/09/fetterman-trump-midterm-republican-convention.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/10/openai-anthropic-ai-safety-slowdown-extinction.html) — *CNBC*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Arsenal are passing every test - and Odegaard is in form of his life
+### 1. Spurs should be awarded 2016-17 title - Pochettino
+
+[原文] Mauricio Pochettino believes Chelsea should be stripped of the Premier League title for 2016-17, when his Tottenham team finished runners-up.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c783ndd7ge2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. Arsenal are passing every test - and Odegaard is in form of his life
 
 [原文] Another Arsenal win, another Martin Odegaard goal - the Gunners captain looks back to his best, writes Phil McNulty.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ce8737p0977o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Liverpool will reward Mac Allister if he lets his football do talking
+### 3. How history points to another Solheim Cup thriller
 
-[原文] After saying he was "very sad" at the lack of a contract offer from Liverpool, Alexis Mac Allister proved his worth against Atletico Madrid.
+[原文] With no more than one point separating the teams at the past three Solheim Cups played in Europe there is every reason to expect that this week's contest will be just as exciting, writes Iain Carter.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/crl6zyr1gw5o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/c87vy0qlw09o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Gauff saves match points to set up Rybakina semi-final
+### 4. Liverpool come from behind to beat Atletico Madrid
 
-[原文] Coco Gauff saves two match points to beat Mirra Andreeva and set up a US Open semi-final against incoming world number one Elena Rybakina.
+[原文] Alexis Mac Allister scores an emphatic winner as Liverpool began their Champions League campaign with a win over Atletico Madrid at Anfield.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/c98670d418yo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/ce874m9ld2mo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Star subs rescue Chelsea as Alonso 'takes blame'
+### 5. Benn does not deserve world title shot - Garcia
 
-[原文] Chelsea get the better of Leeds in a cup thriller, but Blues boss Xabi Alonso has food for thought after needing rescue act from his star substitutes.
+[原文] Ryan Garcia says Conor Benn is nothing more than an "average fighter" and does not deserve a shot at his WBC welterweight title.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cx2zx9n29glo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. What next for LIV Golf's star players, and its fight for survival?
-
-[原文] Golf's main tours are expecting a lot of interest in rejoining from LIV golfers – but the path back might not be so easy.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/c0re742dpw1o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/articles/cevwzgj9vkyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Suki Waterhouse Says She’d Be ‘Nepo-Babying’ Her Daughter With Robert Pattinson If She Wanted to Work in Hollywood
+### 1. Woody Norman, Malachi Kirby, Tuppence Middleton, Conrad Khan, Kola Bokinni to Star in Urban Horror Thriller ‘Skag & Bone’; Featuristic Produces, UTA on Board (EXCLUSIVE)
 
-[原文] Good news for Suki Waterhouse and Robert Pattinson’s two-year-old daughter: if she ever wants to pursue a career in the arts when she&#8217;s older, her mom is happy to help.  In a recent interview wi
+[原文] Woody Norman (“C’mon C’mon”), Malachi Kirby (“Small Axe”), Tuppence Middleton (“Downton Abbey”), Conrad Khan (“Sunny Dancer”) and Kola Bokinni (“Ted Lasso”) are set to star in the British urban horror
 
-📎 [阅读原文](https://variety.com/2026/film/news/suki-waterhouse-robert-pattinson-nepo-baby-daughter-1236856866/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/urban-horror-thriller-skag-bone-cast-1236856168/) — *Variety*
 
-### 2. Barry Melrose, Former ESPN Analyst and Hockey Pro, Dies at 70
+### 2. Telekom Srbija’s Content Head on Blueprint for Turning Serbian Production Powerhouse Into Global Player
 
-[原文] Barry Melrose, a former NHL player, coach and longtime ESPN analyst, died Wednesday. He was 70.&#160; Melrose’s wife, Cindy, confirmed his death to ESPN.&#160; &#8220;For decades, Barry Melrose was on
+[原文] Telecommunications giant Telekom Srbija is looking to position itself as not only the leading production hub in Serbia but a regional juggernaut for the countries of the former Yugoslavia, exporting l
 
-📎 [阅读原文](https://variety.com/2026/sports/people-news/barry-melrose-dead-espn-analyst-nhl-player-1236856806/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/global/telekom-srbija-content-head-serbian-production-powerhouse-1236851472/) — *Variety*
 
-### 3. Hideo Kojima’s ‘Physint’ Moves From PlayStation to Xbox as ‘Death Stranding’ Creator Plots TV and Film Projects With New Publishing Partner
+### 3. Serbian Sci-Fi Epic ‘Sanctuary,’ Starring ‘The Handmaid’s Tale’s’ Nina Kiri, Acquired for U.S. Distribution (EXCLUSIVE)
 
-[原文] Xbox is expanding its partnership with video game industry legend Hideo Kojima. The “Death Stranding” and “Metal Gear” creator has switched the publishing partner on his upcoming game “Physint” to Mic
+[原文] Vertical has acquired U.S. distribution rights to “Sanctuary,” an English-language, post-apocalyptic thriller starring “The Handmaid’s Tale’s” Nina Kiri. According to the synopsis, “Sanctuary” is set 
 
-📎 [阅读原文](https://variety.com/2026/gaming/news/hideo-kojima-physint-game-xbox-playstation-1236855372/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/serbia-sci-fi-sanctuary-nina-kiri-us-distribution-1236851443/) — *Variety*
 
-### 4. ‘South Park’ Creators Apologize for the Years-Long Delay of Their Kendrick Lamar Movie: ‘We Still Believe in the Project’
+### 4. ‘DJ Ahmet’ Leads Adriatic Awards Contest, Followed by ‘Yugo Florida’
 
-[原文] “South Park” co-creators Trey Parker and Matt Stone have released an official apology for delaying their mysterious film collaboration with Kendrick Lamar. “We take full responsibility for the schedul
+[原文] Georgi M. Unkovski&#8217;s &#8220;DJ Ahmet&#8221; leads the contest in the cinema categories for the Adriatic Film and TV Awards, which honor the top films and series from Bosnia and Herzegovina, Mont
 
-📎 [阅读原文](https://variety.com/2026/film/news/south-park-creators-apology-delay-kendrick-lamar-movie-1236856745/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/dj-ahmet-yugo-florida-adriatic-awards-1236855711/) — *Variety*
 
-### 5. Trump White House Pulls Down Tetris-Like Game, in Which You Had to Stop a ‘Zombie Siege’ at Mexican Border, After Company’s Copyright Threat
+### 5. Netflix’s YA Rowing Drama ‘Crew Girl’ Capsizes and Sinks: TV Review
 
-[原文] The White House has removed the &#8220;Build the Wall&#8221; game &#8212; a Tetris knockoff in which players were tasked with fortifying the southern U.S. border to keep out illegal immigrants &#8212;
+[原文] Created by Vivian Lin, Netflix’s latest YA series “Crew Girl” brings audiences into the competitive world of rowing. The show follows 16-year-old Teagan Tao (Miku Martineau), a single sculler whose en
 
-📎 [阅读原文](https://variety.com/2026/digital/news/trump-white-house-removes-tetris-game-copyright-threat-1236856740/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/reviews/crew-girl-review-netflix-1236848333/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The People v. Gorilla Grodd Set Video Shows DC Villain Singing Backstreet Boys
+### 1. Walmart’s Dropped the LEGO Ideas Mineral Collection Down to $40 During Its Bricktember Sale
 
-[原文] New BTS footage from DC Studios' The People v. Gorilla Grodd shows the supervillain singing Backstreet Boys' "As Long as You Love Me" in an a cappella group.
+[原文] During its Bricktember sale event, Walmart has knocked the LEGO Ideas Mineral Collection down to $40. That saves you $19.99 compared to paying full price.
 
-📎 [阅读原文](https://www.ign.com/articles/the-people-v-gorilla-grodd-set-video-backstreet-boys) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/walmarts-dropped-the-lego-ideas-mineral-collection-down-to-40-during-its-bricktember-sale) — *IGN*
 
-### 2. The Practical Acer 16" 1080p Portable USB Monitor Is on Sale For Just $39.99 at Best Buy
+### 2. LEGO Astro Bot Set Leaks, Though It Won't Be Available as a Standalone Purchase
 
-[原文] Use as a secondary screen for your laptop or portable display for your Nintendo Switch 2.
+[原文] LEGO will soon launch an adorable Astro Bot set, though you won't be able to pick it up as a standalone purchase.
 
-📎 [阅读原文](https://www.ign.com/articles/acer-usb-portable-monitor-deal-september-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/lego-astro-bot-set-leaks-though-it-wont-be-available-as-a-standalone-purchase) — *IGN*
 
-### 3. If I Were to Buy a (Near) 100" TV Right Now, I Would Get TCL's QM8L SQD Mini-LED TV Over OLED
+### 3. GTA 6 Developer Rockstar Says It Will Defend Itself 'Vigorously' From Union Claims as Employment Tribunal Over the Firing of 31 Workers Gets Underway
 
-[原文] Better than OLED and better than home theater projectors.
+[原文] GTA 6 developer Rockstar Games has issued a new statement as it heads to an employment tribunal to face allegations that it unlawfully fired 31 workers.
 
-📎 [阅读原文](https://www.ign.com/articles/tcl-qm8l-sqd-mini-led-tv-deal) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/gta-6-developer-rockstar-says-it-will-defend-itself-vigorously-from-union-claims-as-employment-tribunal-over-the-firing-of-31-workers-gets-underway) — *IGN*
 
-### 4. Valorant Cheater Using Evil Tung Tung Tung Sahur Skin Banned After Viral Video Sparks Backlash Against Riot's Anti-Cheat
+### 4. GTA 6 DualSense Controller Preorders Are Now Live in the UK
 
-[原文] A hacker using an ‘Evil’ Tung Tung Tung Sahur skin has been banned after wreaking havoc in Valorant lobbies and decimating entire teams.
+[原文] Secure your GTA 6 DualSense controller in the UK. Preorders are live for both Vice City-themed PS5 controllers starting at £74.99.
 
-📎 [阅读原文](https://www.ign.com/articles/valorant-cheater-using-evil-tung-tung-tung-sahur-skin-banned-after-viral-video-sparks-backlash-against-riots-anti-cheat) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/gta-6-dualsense-controller-preorders-are-now-live-in-the-uk) — *IGN*
 
-### 5. Nintendo Direct September 2026 No-Shows: From The Duskbloods to Mario
+### 5. Nintendo Switch and Switch 2 System Update 23.0.0 Released — Here Are the Full Patch Notes
 
-[原文] Today's September 2026 Nintendo Direct has come and gone, and so has any chance of seeing the next 3D Mario, The Duskbloods, and more highly anticipated games that ended up being no-shows.
+[原文] Nintendo has released a fresh firmware update, adding VRR support to Switch 2.
 
-📎 [阅读原文](https://www.ign.com/articles/nintendo-direct-september-2026-no-shows-from-the-duskbloods-to-mario) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/nintendo-switch-and-switch-2-system-update-2300-released-here-are-the-full-patch-notes) — *IGN*
 
 ---
 
@@ -320,39 +320,39 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Luxury Car Sales Are Cratering. Some Porsche Dealers Are Making It Worse
+### 1. 2027 XC40 Adds Much-Needed Updates to Volvo’s Cheapest Gas SUV
+
+[原文] The Volvo XC40 is getting a modest makeover for 2027 as the current generation nears a decade on the market.
+The post 2027 XC40 Adds Much-Needed Updates to Volvo&#8217;s Cheapest Gas SUV appeared firs
+
+📎 [阅读原文](https://www.thedrive.com/news/2027-xc40-adds-much-needed-updates-to-volvos-cheapest-gas-suv) — *The Drive*
+
+### 2. Luxury Car Sales Are Cratering. Some Porsche Dealers Are Making It Worse
 
 [原文] Bentley sold fewer than 150 cars in July, Aston Martin's revenue is down 21%, and some Porsche dealers are pushing customers into buying cars they don't want for access to cars they do want.
 The post 
 
 📎 [阅读原文](https://www.thedrive.com/podcast/luxury-car-sales-are-cratering-porsche-dealers-are-making-it-worse) — *The Drive*
 
-### 2. We Borrowed a $1.2M Airplane to Pick Up My $3,000 Dream Car
+### 3. We Borrowed a $1.2M Airplane to Pick Up My $3,000 Dream Car
 
 [原文] Leaning on friends in high places (literally, the sky) to acquire another cheap old car.
 The post We Borrowed a $1.2M Airplane to Pick Up My $3,000 Dream Car appeared first on The Drive.
 
 📎 [阅读原文](https://www.thedrive.com/features/we-borrowed-a-1-2m-airplane-to-pick-up-my-3000-dream-car) — *The Drive*
 
-### 3. Honda’s Top Bosses Explain How They’re Avoiding Toyota’s Engine Nightmare
+### 4. Honda’s Top Bosses Explain How They’re Avoiding Toyota’s Engine Nightmare
 
 [原文] As cars become more advanced and rely more on complex computers and software, maintaining reliability becomes a lot harder. Here's how Honda is making sure its engines (and other components) don't gre
 
 📎 [阅读原文](https://www.thedrive.com/news/hondas-top-bosses-explain-how-theyre-avoiding-toyotas-engine-nightmare) — *The Drive*
 
-### 4. Here’s What 20 Years of Tire Progress Looks Like in Lap Times
+### 5. Here’s What 20 Years of Tire Progress Looks Like in Lap Times
 
 [原文] A lot of things have gotten worse in the last 20 years. Tires? Not one of them. 
 The post Here&#8217;s What 20 Years of Tire Progress Looks Like in Lap Times appeared first on The Drive.
 
 📎 [阅读原文](https://www.thedrive.com/news/heres-what-20-years-of-tire-progress-looks-like-in-lap-times) — *The Drive*
-
-### 5. There’s a New 10-Speed Transmission Behind This Old 7.3L Power Stroke Diesel
-
-[原文] Here's what happens when you pair a holy grail 7.3-liter Power Stroke with a transmission that keeps it in boost all the time.
-The post There&#8217;s a New 10-Speed Transmission Behind This Old 7.3L P
-
-📎 [阅读原文](https://www.thedrive.com/news/this-2003-ford-super-duty-got-a-2023-10-speed-now-it-drives-like-a-new-truck) — *The Drive*
 
 ---
 
@@ -362,35 +362,35 @@ The post There&#8217;s a New 10-Speed Transmission Behind This Old 7.3L P
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Industry Interests Spent Big Money to Stop California From Banning PFAS Pesticides
+### 1. Pennsylvania Is Building More EV Chargers. Will Drivers Come?
+
+[原文] As I drove 500 miles across Pennsylvania and back in a little blue Chevrolet Bolt EV, a charging station near a dumpster at the back of a Pizza Hut parking lot proved to be a convenient stop. But afte
+
+📎 [阅读原文](https://insideclimatenews.org/news/10092026/pennsylvania-spends-big-on-ev-charging-network/) — *Inside Climate News*
+
+### 2. Industry Interests Spent Big Money to Stop California From Banning PFAS Pesticides
 
 [原文] An ambitious bill to keep toxic &#8220;forever chemicals&#8221; off California produce lost its teeth after the chemical and agricultural industry spent hundreds of thousands of dollars lobbying again
 
 📎 [阅读原文](https://insideclimatenews.org/news/09092026/industry-interests-spent-big-money-to-stop-california-from-banning-pfas-pesticides/) — *Inside Climate News*
 
-### 2. Utahns Support Protecting National Monuments That Trump Downsized
+### 3. Utahns Support Protecting National Monuments That Trump Downsized
 
 [原文] Two-thirds of Utah voters support restoring the boundaries of Bears Ears and Grand Staircase-Escalante national monuments to the previous boundaries they had before President Donald Trump reduced them
 
 📎 [阅读原文](https://insideclimatenews.org/news/09092026/utah-voters-support-protecting-national-monuments/) — *Inside Climate News*
 
-### 3. The US Wants Minerals from South America. Its Environmental Defenders Fear What Comes Next.
+### 4. The US Wants Minerals from South America. Its Environmental Defenders Fear What Comes Next.
 
 [原文] When Secretary of State Marco Rubio arrived in South America this week, he carried a familiar message: The United States wants access to minerals and an expanded military presence in the region.&#160;
 
 📎 [阅读原文](https://insideclimatenews.org/news/09092026/the-united-states-wants-south-america-minerals/) — *Inside Climate News*
 
-### 4. 5 Takeaways From Our Investigation Into China’s Massive Overseas Investments
+### 5. 5 Takeaways From Our Investigation Into China’s Massive Overseas Investments
 
 [原文] For more than a decade, the Chinese government has overseen a trillion-dollar building spree across the globe, helping construct and finance a vast network of mines, ports, railways and other infrastr
 
 📎 [阅读原文](https://insideclimatenews.org/news/09092026/planet-china-overseas-investments-investigation-takeaways/) — *Inside Climate News*
-
-### 5. For Many New Yorkers, Home Is No Escape From the Heat
-
-[原文] New York City is getting hotter, and for some residents, staying cool can be a matter of life and death. Mayor Zohran Mamdani has declared at least three heat emergencies this summer, some lasting mor
-
-📎 [阅读原文](https://insideclimatenews.org/news/09092026/new-york-indoor-heat-stress/) — *Inside Climate News*
 
 ---
 
@@ -476,35 +476,35 @@ The post There&#8217;s a New 10-Speed Transmission Behind This Old 7.3L P
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Wyndham Is Watching India’s Airports as Closely as Its Hotels
+### 1. A Lost Year for Gulf Tourism
+
+[原文] Rooms are filling at half-price, not at pre-war demand — that’s hurting big brands and independents alike, but only one side has the balance sheet to outlast it.
+
+📎 [阅读原文](https://skift.com/2026/09/10/a-lost-year-for-gulf-tourism/) — *Skift*
+
+### 2. Wyndham Is Watching India’s Airports as Closely as Its Hotels
 
 [原文] The 200-hotel target is only part of Wyndham’s India bet. The bigger opportunity may be getting Indian travelers to stay at Wyndham hotels wherever they go — from Jaipur to Athens and beyond.
 
 📎 [阅读原文](https://skift.com/2026/09/09/wyndham-is-watching-indias-airports-as-closely-as-its-hotels/) — *Skift*
 
-### 2. Meta Says Its Muse Agent Books Travel. Here’s How It Works
+### 3. Meta Says Its Muse Agent Books Travel. Here’s How It Works
 
 [原文] Meta’s Muse plugs directly into flights but shops the rest of travel through the open web. That puts the AI agent, not a travel integration, in control of where the search goes.
 
 📎 [阅读原文](https://skift.com/2026/09/09/meta-says-its-muse-agent-books-travel-heres-what-that-actually-means/) — *Skift*
 
-### 3. Skift Global Forum: Five Decisions in the Room
+### 4. Skift Global Forum: Five Decisions in the Room
 
 [原文] Every leader at Skift Global Forum is recalibrating amid technological and economic disruption. The open question is whether they’re doing it for the right decade.
 
 📎 [阅读原文](https://skift.com/2026/09/09/skift-global-forum-2026-five-decisions-in-the-room/) — *Skift*
 
-### 4. Navan Buys BoomPop to Push Into Meetings and Events
+### 5. Navan Buys BoomPop to Push Into Meetings and Events
 
 [原文] A public travel company growing 35% is buying its way into the meetings-and-events spend that managed travel never tamed.
 
 📎 [阅读原文](https://skift.com/2026/09/09/navan-buys-boompop-to-push-into-meetings-and-events/) — *Skift*
-
-### 5. Choice’s New CEO Has 3 Top Fixes — Plus $450 Million in Hotels to Sell
-
-[原文] New CEO Dominic Dragisich says Choice's build-and-buy era is over. His formula is to grow U.S. room count, close the revenue-generation gap with peer brands like Wyndham, and sell real estate it doesn
-
-📎 [阅读原文](https://skift.com/2026/09/09/choices-new-ceo-has-3-top-fixes-plus-450-million-in-hotels-to-sell/) — *Skift*
 
 ---
 
