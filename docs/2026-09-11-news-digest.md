@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月11日** | 生成时间: 2026-09-11 11:48
+**2026年09月11日** | 生成时间: 2026-09-11 18:54
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Yemen's Houthis reportedly seize strategic Red Sea port of Mokha
+### 1. Five killed and 67 injured in Russian strike on shopping centre, Ukraine says
 
-[原文] Mokha's capture would bring the Iran-backed group closer to controlling the Bab al-Mandab Strait waterway, a key shipping route.
+[原文] The attack in Pavlohrad city centre was the third Russian strike on a mall within days, local media report.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cpvelrmp1vmo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Can Trump really pay $5,000 to every American adult?
+### 2. Anthropic blocks possible attempt to use AI to make biological weapons
 
-[原文] Analysts question if the US president's election year offer is workable, legal or affordable.
+[原文] The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Pilot warned Amazon cargo plane going too fast before deadly crash, data shows
+### 3. Hong Kong's Tiananmen activists sentenced to up to seven years in prison
 
-[原文] One pilot told the other about the aircraft's "excessive speed" but received an uneven response even as alarms sounded.
+[原文] Hong Kong used to be one of the only places in Chinese territory where people could gather to mark the 1989 crackdown.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack
+### 4. Five dead and dozens injured in coach crash in Swiss Alps
 
-[原文] The paper said it stood by its reporting, after publishing extracts from a book where the claim appears.
+[原文] The tourist coach was carrying dozens of Dutch passengers when it overturned in the south-eastern Swiss Alps.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. More than 20 children killed in DR Congo school fire
+### 5. Princess Diana's 'revenge dress' goes up for auction
 
-[原文] Officials say there was a stampede as they fled a fire that engulfed two schools in the eastern rebel-held city of Bukavu.
+[原文] Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump says he has no regrets about starting the Iran war as U.S. dials up economic pressure
-
-[原文] Speaking to Fox News presenter Laura Ingraham, Trump said that he would have attacked Iran despite the impact on the midterm elections.
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/11/us-iran-war-trump-hormuz-banks-oil-sanctions.html) — *CNBC*
-
-### 2. Bessent says 'a large bank' will be sanctioned on Monday as part of Iran strategy
+### 1. Bessent says 'a large bank' will be sanctioned on Monday as part of Iran strategy
 
 [原文] U.S. Treasury Secretary Scott Bessent said that a large bank would be sanctioned next week.
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/11/bessent-large-bank-sanctioned.html) — *CNBC*
 
-### 3. Chinese AI labs secretly used millions of Claude exchanges to train their models, Anthropic says
+### 2. Iran-backed Houthis seize key port in Yemen, advance on another vital oil choke point
 
-[原文] Anthropic said it detected unauthorized efforts by China-based AI labs including Alibaba and Moonshot AI to use its Claude models to help improve their own AI systems.
+[原文] The advance raises the threat to shipping near the Bab el-Mandeb Strait, a waterway that connects the Red Sea to the Gulf of Aden to global markets.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/11/chinese-ai-labs-moonshot-deepseek-alibaba-anthropic.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/11/iran-houthis-mokha-red-sea-yemen.html) — *CNBC*
 
-### 4. Chinese Nvidia rival Enflame soars 206% on stock market debut as AI demand stays hot
+### 3. Friday's CPI inflation report is even more important than usual. Here's what to expect
 
-[原文] Chinese AI chipmaker Enflame, an Nvidia rival and one of China's "four little dragons," made its Shanghai market debut.
+[原文] The Bureau of Labor Statistics will release the August consumer price index report at 8:30 a.m.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/11/chinese-nvidia-rival-enflame-stock-market-debut-ai.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/10/fridays-cpi-inflation-report-is-even-more-important-than-usual-heres-what-to-expect.html) — *CNBC*
 
-### 5. Hassett kept up to $5 million Coinbase stake as Trump reshaped crypto policy
+### 4. Trump says he has no regrets about starting the Iran war as U.S. dials up economic pressure
 
-[原文] Trump economic advisor Kevin Hassett owned as much as $5 million in Coinbase while serving as the White House's top economic advisor, his disclosure shows.
+[原文] Speaking to Fox News presenter Laura Ingraham, Trump said that he would have attacked Iran despite the impact on the midterm elections.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/10/kevin-hassett-coinbase-stock-trump-crypto-recusal.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/11/us-iran-war-trump-hormuz-banks-oil-sanctions.html) — *CNBC*
+
+### 5. Jim Cramer says this is the key force driving stocks right now
+
+[原文] CNBC's Jim Cramer said the 30-year Treasury yield is a key force driving stocks as it climbs to roughly 5.3%.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/10/jim-cramer-key-force-driving-stocks-right-now.html) — *CNBC*
 
 ---
 
@@ -106,7 +106,7 @@
 
 ### 3. Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his
 
-[原文] Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses.
+[原文] Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/) — *TechCrunch*
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Rybakina sets up blockbuster Sabalenka final at US Open
+### 1. Hall signs new contract with Newcastle until 2031
 
-[原文] Soon-to-be world number one Elena Rybakina will face Aryna Sabalenka in a blockbuster US Open final between the tournament's top two seeds.
+[原文] Newcastle United defender Lewis Hall signs a new contract with the club that runs until 2031.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cy9znnpnx5ro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ce9e3d5exp8o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Two goals in two games - Sesko gives Man Utd a different threat
+### 2. $10m on line at inaugural Ultimate Championship
 
-[原文] Benjamin Sesko's return to Manchester United's starting line-up is well timed ahead of Sunday's Premier League encounter with Manchester City
+[原文] The inaugural World Athletics Ultimate Championship begins on Friday. From the global stars competing to how it all works - here is everything you need to know.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c770d63d850o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/c8enzz036leo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. England's push for two-day win halted by weather
+### 3. Bed at 6:45am - US Open semi-finalists fight effects of late-night finishes
 
-[原文] England's charge towards a two-day victory in the final Test against Pakistan is only halted by rain at Edgbaston.
+[原文] New York is known as the city that never sleeps. But that comes at a price for US Open stars - including men's semi-finalists Ben Shelton and Alexander Zverev.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c980dgvp2qeo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/crk3jjp2l35o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Man Utd put four past Sabah on Champions League return
+### 4. Hull's Thomas unhurt after car crash
 
-[原文] Manchester United recorded their biggest Champions League victory since 2020 as they swept Sabah FK aside at Old Trafford.
+[原文] Premier League winger Sorba Thomas's Land Rover overturns on Millhouse Woods Lane in Cottingham.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/crl600nz58lo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cn8m2p4dmjro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. England captain Jones calls for fertility support
+### 5. More than 100,000 watch 49ers shock Rams in Melbourne
 
-[原文] England captain Meg Jones wants the Red Roses to have access to fertility support and egg freezing.
+[原文] San Francisco 49ers record dominant 27-7 victory over Super Bowl favourites Los Angeles Rams in front of a crowd of more than 100,000 at Melbourne Cricket Ground.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-union/articles/ce9er3xdgvdo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/american-football/articles/cvgyq36rvxvo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Oscar Predictions 2027: Telluride Reshapes the Best Picture Race as TIFF Lines Up Its Crowd-Pleasers
+### 1. Venice Final Cut Winner Machérie Ekwa Bahango on ‘Madi Makambu’ and Why She Wants Congo to Be Seen: ‘We’re a Great Nation That Needs to Write Its Own History’
 
-[原文] Variety&#160;Awards Circuit&#160;section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars,&#160;Emmys,
+[原文] Machérie Ekwa Bahango wants Congo to be noticed by the industry.&#160; “Through my films, I would like Congo to be seen as part of the world. Not for the labels people stick on it, but for what it rea
 
-📎 [阅读原文](https://variety.com/lists/2027-oscars-predictions/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/awards/venice-final-cut-macherie-ekwa-bahango-madi-makambu-congo-1236858450/) — *Variety*
 
-### 2. ‘Burgundy’ Review: An Attractive, Light-Bodied Wine Doc With a Good Nose but No Legs
+### 2. France, South Korea Take Center Stage as Global Film and TV Leaders Confront Industry Upheaval at Lumiere Summit: ‘Culture Itself Is Becoming a Driver of Growth’
 
-[原文] &#8220;Everything that follows is true. Exactly as we dreamed it,&#8221; reads the opening title of &#8220;Burgundy,&#8221; from award-winning documentary duo Michael Dweck and Gregory Kershaw, with a
+[原文] From Hollywood heavyweights and festival chiefs to exhibitors, broadcasters, streamers, heads of state and industry figures from more than 60 countries converged at a historic site in the south of Fra
 
-📎 [阅读原文](https://variety.com/2026/film/reviews/burgundy-review-1236847240/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/france-korea-macron-lumiere-summit-ai-saint-paul-de-vence-1236857980/) — *Variety*
 
-### 3. ‘Stuffed’ Review: Jodie Comer and Harry Melling Sing the Body Eccentric in an Odd, and Oddly Touching, Taxidermy Musical
+### 3. Oscars: Singapore Selects Anthony Chen’s ‘We Are All Strangers’ for International Feature Race
 
-[原文] It’s a somewhat telling coincidence that “Stuffed,” a very peculiar new vehicle for Jodie Comer, is premiering at the same edition of Toronto as “Prima Facie,” the film adaptation of the stage hit tha
+[原文] &#8220;We Are All Strangers,&#8221; written and directed by Anthony Chen, has been selected as Singapore&#8217;s official entry in the international feature category at the 99th Academy Awards, the In
 
-📎 [阅读原文](https://variety.com/2026/film/reviews/stuffed-review-jodie-comer-harry-melling-1236857095/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/awards/oscars-singapore-anthony-chen-we-are-all-strangers-1236858452/) — *Variety*
 
-### 4. Dan Schneider Loses ‘Quiet on Set’ Defamation Suit on Appeal
+### 4. Charli xcx Announces U.K. and Europe ‘Music, Fashion, Film’ Tour Dates, With Audrey Hobert Opening
 
-[原文] The producers of the documentary series &#8220;Quiet on Set&#8221; have prevailed in a lawsuit brought by former Nickelodeon showrunner Dan Schneider, who claimed that the show implied that he was a c
+[原文] Charli xcx is bringing the &#8220;Music, Fashion, Film&#8221; tour overseas. The avant-garde pop star has announced six U.K. and Europe dates in February 2027, including in Dublin, Ireland; Glasgow, S
 
-📎 [阅读原文](https://variety.com/2026/tv/news/dan-schneider-quiet-on-set-defamation-dismissed-appeal-1236858005/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/global/charli-xcx-uk-europe-music-fashion-film-tour-dates-1236858435/) — *Variety*
 
-### 5. Netflix Taps ‘Friday Night Lights’ Director Peter Berg for NFL Gameday Openers, the First Narrated by Kyle Chandler
+### 5. San Sebastian Competition Title ‘Border’ Boards Reel Suspects for Global Sales (EXCLUSIVE)
 
-[原文] Peter Berg is directing the show opens for all four of Netflix’s NFL gameday livestreams this season &#8212; and for the first one, debuting Thursday, he drafted Kyle Chandler, star of the &#8220;Frid
+[原文] Paris-based international sales company Reel Suspects has boarded worldwide sales on Chinese filmmaker Ah Biao&#8217;s feature debut &#8220;Border&#8221; (&#8220;Bian Jing&#8221;), which will world pr
 
-📎 [阅读原文](https://variety.com/2026/tv/news/netflix-peter-berg-kyle-chandler-friday-night-lights-nfl-gameday-1236858004/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/san-sebastian-competition-border-boards-reel-suspects-sales-1236858429/) — *Variety*
 
 ---
 
@@ -363,35 +363,35 @@ The post You&#8217;re Not Imagining It: Infotainment Systems Are Tanking Vehicle
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Florida Proposes Stronger Protections for Sloths After Dozens Died at a Tourism Attraction
+### 1. Meet the Mechanical Engineer Running to Regulate the Texas Oil and Gas Industry
+
+[原文] Jon Rosenthal, a Democratic state representative from Houston, is facing off against Bo French, a far-right Republican culture warrior from Fort Worth, for a seat on the commission that regulates the 
+
+📎 [阅读原文](https://insideclimatenews.org/news/11092026/democrat-jon-rosenthal-runs-to-regulate-texas-oil-gas-industry/) — *Inside Climate News*
+
+### 2. Coral Reefs Can Recover But Relentless Marine Heat Waves Won’t Let Them
+
+[原文] In 1998, unusually hot ocean temperatures stressed corals worldwide, causing them to expel the microalgae living within their tissues that normally nourish the tiny animals and give them color. Over t
+
+📎 [阅读原文](https://insideclimatenews.org/news/11092026/marine-heat-waves-drive-coral-decline/) — *Inside Climate News*
+
+### 3. How Grassroots Opposition to a New Asphalt Plant Was Infiltrated by an Outside Operative
+
+[原文] CLEMMONS, N.C.—The man came out of nowhere, but he seemed to be on their side.&#160; Dozens of residents of Clemmons, a small village south of Winston-Salem, were alarmed about a proposed asphalt plan
+
+📎 [阅读原文](https://insideclimatenews.org/news/11092026/nc-asphalt-plant-opposition-infiltrated-by-outside-operative/) — *Inside Climate News*
+
+### 4. Hurricanes Routinely Threaten the Texas Coast. But Mass Evacuations Pose Risks of Their Own.
+
+[原文] This article was originally published by Public Health Watch, a nonprofit investigative news organization. Find out more at publichealthwatch.org. GALVESTON, Texas—Maya Hart’s hand stung as she grippe
+
+📎 [阅读原文](https://insideclimatenews.org/news/11092026/texas-hurricanes-mass-evacuations-risks/) — *Inside Climate News*
+
+### 5. Florida Proposes Stronger Protections for Sloths After Dozens Died at a Tourism Attraction
 
 [原文] Florida’s wildlife agency has proposed new rules to strengthen protections for sloths imported into the state, four months after an Inside Climate News investigation revealed dozens of wild sloths fro
 
 📎 [阅读原文](https://insideclimatenews.org/news/10092026/florida-proposes-stronger-sloth-protections/) — *Inside Climate News*
-
-### 2. Chemours to Pay $455 Million for Fayetteville Works Contamination
-
-[原文] This story is a collaboration between Inside Climate News and CityView NC, part of The Assembly Local Network. North Carolina and a handful of local governments agreed to settle with Chemours over its
-
-📎 [阅读原文](https://insideclimatenews.org/news/10092026/chemours-fayetteville-pfas-contamination-settlement/) — *Inside Climate News*
-
-### 3. How California Is Kicking Its Natural Gas Habit
-
-[原文] Natural gas is fading from California’s electricity mix more quickly than seemed possible just a few years ago. The state hit its peak for gas-fired electricity in 2014 and has fallen in eight of the 
-
-📎 [阅读原文](https://insideclimatenews.org/news/10092026/inside-clean-energy-california-transitions-away-from-natural-gas/) — *Inside Climate News*
-
-### 4. Pennsylvania Is Building More EV Chargers. Will Drivers Come?
-
-[原文] As I drove 500 miles across Pennsylvania and back in a little blue Chevrolet Bolt EV, a charging station near a dumpster at the back of a Pizza Hut parking lot proved to be a convenient stop. But afte
-
-📎 [阅读原文](https://insideclimatenews.org/news/10092026/pennsylvania-spends-big-on-ev-charging-network/) — *Inside Climate News*
-
-### 5. Industry Interests Spent Big Money to Stop California From Banning PFAS Pesticides
-
-[原文] An ambitious bill to keep toxic &#8220;forever chemicals&#8221; off California produce lost its teeth after the chemical and agricultural industry spent hundreds of thousands of dollars lobbying again
-
-📎 [阅读原文](https://insideclimatenews.org/news/09092026/industry-interests-spent-big-money-to-stop-california-from-banning-pfas-pesticides/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post You&#8217;re Not Imagining It: Infotainment Systems Are Tanking Vehicle
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Jay-Z Loses Appeal to Revive Extortion and Defamation Lawsuit Against Lawyer Who Filed Rape Claim
+### 1. Jhené Aiko Taps Kendrick Lamar for Reflective Track ‘So Good’
+
+[原文] The singer released her new LP, Westside Whimsy, today
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/jhene-aiko-kendrick-lamar-so-good-collaboration-1235625111/) — *Rolling Stone*
+
+### 2. Watch Jonas Brothers Perform Halftime Show at Melbourne NFL Game
+
+[原文] The group showcased of medley of songs, including “Burnin’ Up,” “Sucker,” and a cover of John Farnham’s "You’re the Voice"
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/jonas-brothers-halftime-show-melbourne-nfl-game-1235625106/) — *Rolling Stone*
+
+### 3. Jay-Z Loses Appeal to Revive Extortion and Defamation Lawsuit Against Lawyer Who Filed Rape Claim
 
 [原文] The rapper pledged to hold the lawyer who filed the since-dismissed allegation accountable, but now the lawyer is entitled to recover his legal costs
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/jay-z-loses-appeal-extortion-lawsuit-combs-buzbee-1235625033/) — *Rolling Stone*
 
-### 2. Jay-Z Brings Out Justin Timberlake and Pharrell Williams in Paris
+### 4. Jay-Z Brings Out Justin Timberlake and Pharrell Williams in Paris
 
 [原文] The show celebrated the 30th anniversary of Jay-Z's debut album, Reasonable Doubt
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/jay-z-brings-out-justin-timberlake-pharrell-williams-paris-1235625018/) — *Rolling Stone*
 
-### 3. Alison Krauss and Union Station Cancel Remaining Tour Dates: Singer Advised to Take a ‘Vocal Rest’
+### 5. Alison Krauss and Union Station Cancel Remaining Tour Dates: Singer Advised to Take a ‘Vocal Rest’
 
 [原文] "Prioritizing health and vocal integrity is imperative at this time," the band writes
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/alison-krauss-and-union-station-cancel-tour-dates-2026-1235625030/) — *Rolling Stone*
-
-### 4. Mark the Spot , E3: Music
-
-[原文] Revelers Hall
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/mark-the-spot-music-1235619211/) — *Rolling Stone*
-
-### 5. Spice Girls Fans Really Really Want a New Tour — They Are Getting a Box Set Instead
-
-[原文] “*puts credit card back in purse*”
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/spice-girls-compilation-no-reunion-tour-fans-react-1235624780/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post You&#8217;re Not Imagining It: Infotainment Systems Are Tanking Vehicle
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Google’s New Hotel Search in Europe: What it Looks Like Now
+### 1. Where Travel Stands, 25 Years After 9/11
+
+[原文] Twenty-five years after 9/11, travel has become remarkably easy for people the system is prepared to move. The growing divide is over who gets that treatment.
+
+📎 [阅读原文](https://skift.com/2026/09/11/where-travel-stands-25-years-after-9-11/) — *Skift*
+
+### 2. Google’s New Hotel Search in Europe: What it Looks Like Now
 
 [原文] Google’s new user interface is meant to help the company avoid fines from EU regulators.
 
 📎 [阅读原文](https://skift.com/2026/09/10/google-update-europe-hotel-flight-search-results/) — *Skift*
 
-### 2. Hotels Have Focused on Coral Restoration — Palladium Is Betting on Seagrass Too
+### 3. Hotels Have Focused on Coral Restoration — Palladium Is Betting on Seagrass Too
 
 [原文] Coastal hotels rely on clear water and white beaches to fill rooms, but Palladium’s conservation work protecting them is still funded by its foundation rather than operating budget.
 
 📎 [阅读原文](https://skift.com/2026/09/10/hotels-have-focused-on-coral-restoration-palladium-is-betting-on-seagrass-too/) — *Skift*
 
-### 3. With Booking’s Etraveli Deal Still Blocked, Expedia Has the Edge in M&A
+### 4. With Booking’s Etraveli Deal Still Blocked, Expedia Has the Edge in M&A
 
 [原文] Expedia is making acquisitions to build its business while Booking in Europe doesn't have that option. Companies such as Uber would find it tougher to advance its superapp strategy in Europe if regula
 
 📎 [阅读原文](https://skift.com/2026/09/10/with-bookings-etraveli-deal-still-blocked-expedia-has-the-edge-in-ma/) — *Skift*
 
-### 4. Marriott Brings Loyalty Into Corporate Booking Tools With Spotnana Deal
+### 5. Marriott Brings Loyalty Into Corporate Booking Tools With Spotnana Deal
 
 [原文] Marriott's best weapon for winning business travelers is its loyalty program. But until now it couldn't show loyalty information inside the booking portals corporations force employees to use. Spotnan
 
 📎 [阅读原文](https://skift.com/2026/09/10/marriott-brings-loyalty-into-corporate-booking-tools-with-spotnana-deal/) — *Skift*
-
-### 5. Inside Abercrombie & Kent’s Multibillion-Dollar Bet on Crystal Cruises
-
-[原文] The owner of Abercrombie & Kent is using the balance sheet of one of travel’s best asset-light luxury businesses to rebuild Crystal Cruises. Company filings, credit ratings, and bond documents show wh
-
-📎 [阅读原文](https://skift.com/2026/09/10/inside-abercrombie-kents-multibillion-dollar-bet-on-crystal-cruises/) — *Skift*
 
 ---
 
