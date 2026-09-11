@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月12日** | 生成时间: 2026-09-12 00:08
+**2026年09月12日** | 生成时间: 2026-09-12 04:42
 
 ---
 
@@ -16,17 +16,17 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Anthropic blocks possible attempt to use AI to make biological weapons
+### 1. Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane
 
-[原文] The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.
+[原文] The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Hong Kong's Tiananmen activists sentenced to up to seven years in prison
+### 2. Norway's Princess Astrid dies two days after attending brother King Harald's funeral
 
-[原文] Hong Kong used to be one of the only places in Chinese territory where people could gather to mark the 1989 crackdown.
+[原文] Princess Astrid "represented the Royal House in a warm and dutiful manner", the new king, Haakon VIII, said in a tribute to his aunt.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cgjq1qy98vjo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 3. Israel says it has destroyed major underground Hezbollah base
 
@@ -34,17 +34,17 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Buddhist monk arrested in suspected $3m embezzlement scandal
-
-[原文] Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed having sex.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Princess Diana's 'revenge dress' goes up for auction
+### 4. Princess Diana's 'revenge dress' goes up for auction
 
 [原文] Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Buddhist monk arrested in suspected $3m embezzlement scandal
+
+[原文] Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed having sex.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -60,29 +60,29 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/11/cpi-inflation-breakdown-august-2026.html) — *CNBC*
 
-### 2. 25 years after 9/11, the U.S. starts rolling back travel restrictions, from liquids to gate access
+### 2. Saudi Arabia shut down East-West crude oil pipeline after multiple attacks
 
-[原文] Years after 9/11, the U.S. government is walking back some security screenings as threats and technology evolve.
+[原文] Iran-allied Houthi militants in Yemen have escalated strikes on Saudi Arabia this week.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/11/9/11-anniversary-air-travel.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/11/saudi-arabia-shut-down-east-west-crude-oil-pipeline.html) — *CNBC*
 
-### 3. Analysis: Hot inflation data sets up a Fed rate hike. What happens if Warsh wavers
+### 3. I went to Caracas for Venezuela’s new oil deals. Here’s what stood out
 
-[原文] August CPI data leaves Kevin Warsh to choose between acting on his inflation warnings or risking new doubts about his control of the central bank.
+[原文] CNBC was one of just a handful of news organizations allowed to travel to Caracas with the U.S. secretary of energy.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/11/kevin-warsh-fed-cpi-inflation-rate-hike-analysis.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/11/the-inside-story-on-the-historic-us-venezuela-oil-deal-and-how-it-will-work.html) — *CNBC*
 
-### 4. Iran, Russia condemn Western economic sanctions and urge BRICS bloc to deepen economic ties
+### 4. Dell stock jumps on RBC initiation, now up nearly 350% in 2026
 
-[原文] Iranian President Masoud Pezeshkian and Russian President Vladimir Putin criticized Western sanctions and asked the BRICS bloc to deepen trade ties.
+[原文] Dell sold about $16.4 billion of AI servers in its second quarter, RBC said.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/11/iran-russia-brics-sanctions-energy.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/11/dell-stock-rbc-initiation.html) — *CNBC*
 
-### 5. Record U.S. cyclosporiasis outbreak is over, CDC says
+### 5. Dan Chung rebuilt a decimated Alger Management after 9/11. He's still finding the market's winners
 
-[原文] The largest outbreak, linked to shredded iceberg lettuce from Taylor Farms, sickened more than 12,000 people.
+[原文] The CEO and chief investment officer at Fred Alger Management survived the attack by chance. He was tasked with reconstruction after 35 staffers died.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/11/cdc-record-cyclosporiasis-outbreak-over.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/11/dan-chung-rebuilt-a-decimated-alger-management-after-9/11-hes-still-finding-the-markets-winners.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Roblox is making it easier to build games with AI — and play them outside Roblox
+### 1. One week left to book your exhibit table at TechCrunch Disrupt 2026
 
-[原文] Roblox will allow creator to deploy their games across PC< consoles, and mobile as standalone apps
+[原文] Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/) — *TechCrunch*
+
+### 2. Final, final, final call for TechCrunch Disrupt 2026 Side Events
+
+[原文] The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/) — *TechCrunch*
+
+### 3. Kimi-maker Moonshot AI targets $2B in annual revenue
+
+[原文] While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/) — *TechCrunch*
+
+### 4. Roblox is making it easier to build games with AI — and play them outside Roblox
+
+[原文] At its annual Roblox Developer Conference (RDC), the company announced several new features, including new game-creation tools, expanded NPC capabilities, and the ability to make games available acros
 
 📎 [阅读原文](https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/) — *TechCrunch*
 
-### 2. Matt Mullenweg tells Automattic staff in Slack he’s back in control after CEO ouster
+### 5. Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ
 
-[原文] In a Slack message seen by TechCrunch, Matt Mullenweg told Automattic employees he’s back in control of the company, days after its board put him on leave. Automattic has not yet confirmed the apparen
+[原文] Cerberus, WeGlobal AI, and LOOQ took the top three spots at the regional final of Road to TechCrunch Startup Battlefield 2026 and will represent Central Eurasia in the Startup Battlefield 200 at TechC
 
-📎 [阅读原文](https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/) — *TechCrunch*
-
-### 3. Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email provider
-
-[原文] This is the second data breach affecting a company that hardware crypto wallet maker Trezor relies on.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/) — *TechCrunch*
-
-### 4. Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play
-
-[原文] Collaborative Fund just bought into D.C. United and its stadium, with  firm founder Craig Shapiro pitching it as a way to showcase for the firm's startups.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/) — *TechCrunch*
-
-### 5. Jensen Huang explains why Nvidia will grow an astounding 70% next year
-
-[原文] Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Hull fined £30k & bans issued over Chelsea chant
+### 1. Razaullah introduces himself as Pakistan thrive in chaos
 
-[原文] Hull City have been fined £30,000 over discriminatory chanting with the club issuing three supporter bans following their FA Cup defeat by Chelsea in February.
+[原文] Cancel the tee booked at the Belfry, rearrange the trip to Cadbury World and abort the shopping jolly to the Bullring. The reason? Pakistan's debutant Razaullah and Razball.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c624l1v9853o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c158k8vn7vwo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Bed at 6:45am - US Open semi-finalists fight effects of late-night finishes
+### 2. Ciganda's late sparkle lifts Europe on dramatic opening day of Solheim Cup
 
-[原文] New York is known as the city that never sleeps. But that comes at a price for US Open stars - including men's semi-finalists Ben Shelton and Alexander Zverev.
+[原文] Carlota Ciganda steals the show after Europe's top pairing of Charley Hull and Lottie Woad fail to ignite on day one of the Solheim Cup against the United States.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/crk3jjp2l35o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/cm2q83edzzlo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Hull's Thomas unhurt after car crash
+### 3. New Madrid circuit very high risk, says Russell
 
-[原文] Premier League winger Sorba Thomas's Land Rover overturns in Cottingham.
+[原文] George Russell says the new Madrid circuit is "very high risk" after Arvid Lindblad crashes in Friday practice at the Spanish Grand Prix.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cn8m2p4dmjro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/cew9nr2kx20o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Liverpool unveil memorials for former manager Beard
+### 4. 'Out of control' - Cook questions England tactics
 
-[原文] Liverpool have unveiled permanent memorials at their training ground and outside Anfield in tribute to former women's team manager Matt Beard.
+[原文] England had “no plan” and were “out of control” in the face of Razaullah’s stunning hitting on the third day of the final Test against Pakistan, according to former captain Alastair Cook.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c20939pqy78o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c1kxw9dn29ko?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Celtic given 'timely' police reminder before derby
+### 5. Benn defies concerns to make weight for Garcia bout
 
-[原文] Celtic players had a visit from Police Scotland on Friday to give them "a timely reminder" about their "general behaviour" in Sunday's Premier Sport Cup quarter-final against city rivals Rangers, mana
+[原文] Conor Benn and Ryan Garcia both comfortably make the welterweight limit for their WBC title fight despite concerns at how they would fare on the scales.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cz7zrdxj9x0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/articles/c4gqj1g5d27o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Alexandra Pechman‘s TIFF Drama ‘Magazine’ Takes a Nostalgic Look at New York’s Last Gasp Before the Digital Age
+### 1. No, Tom Cruise’s ‘Digger’ Isn’t a Musical
 
-[原文] Alexandra Pechman dipped into her own story for “Magazine,” a coming-of-age tale set in the early 2010s in a New York City print scene on the verge of change from forces it can’t imagine. That could a
+[原文] Internet sleuths were convinced this week that Tom Cruise’s upcoming movie “Digger” is a secret musical, but unfortunately that isn’t the case. Variety spoke with two sources familiar with the product
 
-📎 [阅读原文](https://variety.com/2026/film/news/alexandra-pechman-tiff-magazine-1236851185/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/tom-cruise-digger-musical-new-trailer-1236859100/) — *Variety*
 
-### 2. ‘SNL U.K.’ Cast on Wanting ‘Bigger Swings and Some Sex Sketches’ in Season 2, Bloody Backstage Mishaps and if Jack Shep’s Princess Diana Will Return
+### 2. ‘Beef’ Creator Lee Sung Jin Pitched Charles Melton on the Show Over Dinner: ‘By the Third Appetizer He Said Yes’
 
-[原文] &#8220;SNL U.K.&#8221; returns to screens on Sep 12 for season 2, Sky&#8217;s high-profile U.S. import splashing down into Britain&#8217;s nascent live TV sketch show waters for a second time. But whi
+[原文] Gold House celebrated its third annual One House Toast to the Emmys, honoring the achievements of Asian Pacific and multicultural creatives in entertainment. The man of the hour was &#8220;Beef&#8221;
 
-📎 [阅读原文](https://variety.com/2026/tv/global/snl-uk-cast-season-2-sex-sketches-princess-diana-1236858434/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/scene/news/beef-creator-lee-sung-jin-pitched-charles-melton-over-dinner-1236858820/) — *Variety*
 
-### 3. ‘A Bit of Light’ Review: A Life-Affirming Drama About a Suicidal Iranian Doctor
+### 3. Sandra Bullock Rejected ‘Every Pervert’ in Auditions ‘Asking Me to Drop My Pants’ and Stopped Acting in Rom-Coms When ‘I Was Getting So Much S— For Them’
 
-[原文] Although its story unspools on the precipice of the U.S.-Iran war, Ali Asgari’s gentle family drama “A Bit of Light” was filmed in the conflict’s wake, under shellfire in Tehran. The production was ev
+[原文] Sandra Bullock joined her friend and fellow actor Jennifer Aniston for a chat as part of the &#8220;Practical Magic 2&#8221; star&#8217;s Interview magazine cover and revealed that she made the intent
 
-📎 [阅读原文](https://variety.com/2026/film/reviews/a-bit-of-light-review-1236841903/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/sandra-bullock-rom-coms-auditioned-perverts-1236855823/) — *Variety*
 
-### 4. How Variety Covered 9/11 Attack and Its Aftermath 25 Years Ago
+### 4. Court to Hold Paramount-Warner Bros. Settlement Conference in Late October
 
-[原文] On Sept. 11, 2001, after the deadliest terrorist attack on the U.S. in history, Variety reporters and editors swung into action to put out the daily paper. This was the lede on the multi-bylined top s
+[原文] A court will hold a two-day settlement conference in the Paramount-Warner Bros. antitrust case in late October. The conference is a standard part of civil procedure and does not indicate whether a dea
 
-📎 [阅读原文](https://variety.com/2026/biz/news/how-variety-covered-9-11-terrorist-attacks-1236857523/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/paramount-warner-bros-settlement-conference-october-1236859028/) — *Variety*
 
-### 5. Venice Days Winners: Argentinian Director Maria Aparicio’s ‘Sadness Sometimes, Sometimes Rebellion’ Claims Top Prize
+### 5. ‘Back to Buenos Aires’ Review: Marco Bechis’ Return to the Screen Covers Similar Ground to Earlier Works but is Only Fitfully Effective
 
-[原文] Argentinian director Maria Aparicio&#8217;s drama &#8220;Sometimes Sadness, Sometimes Rebellion&#8221; — which mixes personal and political elements — has scored the Venice Days director&#8217;s award
+[原文] The return of Marco Bechis to filmmaking after 10 years is a welcome surprise, and the terrain he covers in “Back to Buenos Aires” is a familiar one for the veteran Chilean-Italian director who himsel
 
-📎 [阅读原文](https://variety.com/2026/film/festivals/venice-days-sadness-sometimes-rebellion-top-prize-1236858639/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/reviews/back-to-buenos-aires-review-1236859052/) — *Variety*
 
 ---
 
@@ -244,35 +244,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. STAT+: Up and down the ladder: The latest comings and goings
+### 1. WHO Director-General visits Jordan to recognize strong collaboration on health system delivery, emergency relief and advancing mental health
 
-[原文] From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.
+[原文] The Director-General of the World Health Organization, Dr Tedros Adhanom Ghebreyesus, today concluded the first day of his two-day State visit to the Hashemite Kingdom of Jordan, underscoring the stro
 
-📎 [阅读原文](https://www.statnews.com/pharmalot/2026/09/11/up-down-ladder-jobs-pharma-biotech/?utm_campaign=rss) — *STAT News*
+📎 [阅读原文](https://www.who.int/news/item/25-02-2026-who-director-general-visits-jordan-to-recognize-strong-collaboration-on-health-system-delivery--emergency-relief-and-advancing-mental-health) — *WHO*
 
-### 2. Medicaid will let states use ‘tiers’ to determine medical frailty
+### 2. WHO statement on notification of withdrawal of the United States
 
-[原文] New Medicaid rules use allow use of tiers to determine work exemptions. Advocates fear complex guidelines could cause patients to lose insurance.
+[原文] WHO regrets the United States’ notification of withdrawal from WHO – a decision that makes both the United States and the world less safe. The notification of withdrawal raises issues that will be con
 
-📎 [阅读原文](https://www.statnews.com/2026/09/11/medicaid-work-requirements-new-tier-system-define-medical-frailty/?utm_campaign=rss) — *STAT News*
+📎 [阅读原文](https://www.who.int/news/item/24-01-2026-who-statement-on-notification-of-withdrawal-of-the-united-states) — *WHO*
 
-### 3. STAT+: Pharmalittle: We’re reading about anxious Novartis investors, patent expirations for biologics, and more
+### 3. Paying tribute to David Nabarro
 
-[原文] Novartis investors are stepping up scrutiny of the company's dealmaking after setbacks to drugs it acquired through mergers and acquisitions
+[原文] Tribute to Dr David Nabarro
 
-📎 [阅读原文](https://www.statnews.com/pharmalot/2026/09/11/anxious-novartis-investors-biologics-facing-patent-expirations/?utm_campaign=rss) — *STAT News*
+📎 [阅读原文](https://www.who.int/news/item/30-07-2025-paying-tribute-to-david-nabarro) — *WHO*
 
-### 4. STAT+: Cancer drug shortages keep disrupting patient care
+### 4. Timor-Leste certified malaria-free by WHO
 
-[原文] Platinum chemotherapy's long-term effects, surprising heart failure drug failures, and more biotech news from The Readout
+[原文] The World Health Organization (WHO) has certified Timor-Leste as malaria-free, a remarkable achievement for a country that prioritized the disease and embarked on a concerted, nation-wide response sho
 
-📎 [阅读原文](https://www.statnews.com/2026/09/11/biotech-news-cancer-drug-shortages-keep-disrupting-patient-care/?utm_campaign=rss) — *STAT News*
+📎 [阅读原文](https://www.who.int/news/item/24-07-2025-timor-leste-certified-malaria-free-by-who) — *WHO*
 
-### 5. Boycott launched against American Diabetes Association includes journal
+### 5. African Union and World Health Organization renew strategic partnership to drive impact and strengthen health systems in Africa
 
-[原文] Trump's $500 Obamacare promise, childhood cancer treatment with long-term risks, and more health news
+[原文] The World Health Organization (WHO) and the African Union (AU) Commission renewed their longstanding strategic partnership today with the signing of an updated Memorandum of Understanding (MoU) on the
 
-📎 [阅读原文](https://www.statnews.com/2026/09/11/health-news-boycott-launched-against-ada-includes-journal/?utm_campaign=rss) — *STAT News*
+📎 [阅读原文](https://www.who.int/news/item/24-05-2025-world-health-organization-and-african-union-renew-strategic-partnership-to-drive-impact-and-strengthen-health-systems-in-africa) — *WHO*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. A Whisper of Fall: Jinyiwei Brings Serious Martial-Arts Spectacle to Soulslikes | IGN Preview
+### 1. Magic: The Gathering’s Newest Legendary Artifact Destroys Whole Universes (and Your Creatures)
 
-[原文] A Whisper of Fall: Jinyiwei does an impressive job of drawing players into its world of martial-arts action, and I appreciated that it really leaned into the vertical exploration. I would have liked t
+[原文] We've got a first look at two new cards from Reality Fracture.
 
-📎 [阅读原文](https://www.ign.com/articles/a-whisper-of-fall-jinyiwei-brings-serious-martial-arts-spectacle-to-soulslikes-ign-preview) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/magic-the-gatherings-reality-fracture-spoiler-card-reveal) — *IGN*
 
-### 2. Emberville Is a Charming Blend of Stardew Valley and Diablo | IGN Preview
+### 2. The 9 Biggest Trailers Worth Watching This Week
 
-[原文] What is here is already an impressive start. Between the mastery and class skill trees, loot, and stat points to distribute, Emberville already appeals to my love of ARPGs, while its gathering and cra
+[原文] Trailers from two Nintendo Directs, Godzilla Minus Zero, the new Nathan Fielder documentary, Mike Flanagan's Carrie, and more.
 
-📎 [阅读原文](https://www.ign.com/articles/emberville-is-a-charming-blend-of-stardew-valley-and-diablo-ign-preview) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/biggest-game-movie-tv-trailers-this-week-sept-5-11) — *IGN*
 
-### 3. Grand Theft Auto: Vice City – The Legacy Review
+### 3. Save 50% Off the TP-Link Deco 7 Pro BE10000 Wi-Fi 7 Whole Home Mesh System
 
-[原文] The original, legendary GTA: Vice City remains an irresistible experience in 2026 thanks to its unrivalled personality and style, and its sonically unmistakable soundtrack.
+[原文] Amazon's best selling WiFi 7 router.
 
-📎 [阅读原文](https://www.ign.com/articles/grand-theft-auto-vice-city-the-legacy-review) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/tp-link-whole-home-mesh-system-wifi-7-router-deal-september-2026) — *IGN*
 
-### 4. Woot Has a Grade A Refurbished Nintendo Switch 2 Available for $449, Though Not for Long
+### 4. Miami Approves 'Discreet' GTA 6 Marketing Campaign So the City Can Fix Its Football Field
 
-[原文] Woot has a Grade A refurbished Nintendo Switch 2 available for $449 for a limited time. Compared to paying full price for a brand new console now post-price hike, you're saving $50 through this offer.
+[原文] Rockstar Games' Grand Theft Auto 6 is coming to real-life Miami after a city meeting resulted in the approval of a "discreet" – and controversial – marketing campaign.
 
-📎 [阅读原文](https://www.ign.com/articles/woot-has-a-grade-a-refurbished-nintendo-switch-2-available-for-449-though-not-for-long) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/miami-approves-discreet-gta-6-marketing-campaign-so-the-city-can-fix-its-football-field) — *IGN*
 
-### 5. 'I Really Want Game Pass to Work' — After Navigating the Xbox 'Reset,' Double Fine Boss Tim Schafer Is Indie Once Again
+### 5. The Long Game: 4 Tactics to Master Early in Star Wars Zero Company
 
-[原文] After navigating the Xbox "Reset," Double Fine boss Tim Schafer is indie once again. IGN interviewed the developer on what happens next.
+暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/i-really-want-game-pass-to-work-after-navigating-the-xbox-reset-double-fine-boss-tim-schafer-is-indie-once-again) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/the-long-game-4-tactics-to-master-early-in-star-wars-zero-company) — *IGN*
 
 ---
 
@@ -320,39 +320,39 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. That Viral ‘Four-Door Chevy Camaro Prototype’ Pic Is a Fake
+### 1. Shop Honors Its Retired Dyno After Thousands of High-HP Pulls With This Touching Tribute
+
+[原文] It's like losing a lifelong friend, or putting an old horse out to pasture.
+The post Shop Honors Its Retired Dyno After Thousands of High-HP Pulls With This Touching Tribute appeared first on The Driv
+
+📎 [阅读原文](https://www.thedrive.com/news/shop-honors-its-retired-dyno-after-thousands-of-high-hp-pulls-with-this-touching-tribute) — *The Drive*
+
+### 2. A Ferrari F355 Arcade Game Sold for $18,000 and I Think I Know Why
+
+[原文] Cars can take us back to a simpler time, and games have their own way of doing that.
+The post A Ferrari F355 Arcade Game Sold for $18,000 and I Think I Know Why appeared first on The Drive.
+
+📎 [阅读原文](https://www.thedrive.com/news/a-ferrari-f355-arcade-game-sold-for-18000-and-i-think-i-know-why) — *The Drive*
+
+### 3. People Are Going Crazy Over This Chevy Camaro Sedan Spy Shot. Too Bad It’s Fake
 
 [原文] Don't get too worked up over this supposed four-door Chevy Camaro test mule. It's as fake as it gets.
-The post That Viral &#8216;Four-Door Chevy Camaro Prototype&#8217; Pic Is a Fake appeared first on
+The post People Are Going Crazy Over This Chevy Camaro Sedan Spy Shot. Too Bad It&#8217;s Fake app
 
 📎 [阅读原文](https://www.thedrive.com/news/that-viral-four-door-chevy-camaro-prototype-pic-is-a-fake) — *The Drive*
 
-### 2. Guy’s Genius Idea Turns Highway Traffic Cam Into a Musical Synth, and It’s Strangely Beautiful
+### 4. Genius: Guy Turns Highway Traffic Cam Into a Musical Synth, and It’s Strangely Beautiful
 
 [原文] The program treats the freeway's five lanes like a musical staff, and a note plays every time a car crosses a fixed point.
-The post Guy&#8217;s Genius Idea Turns Highway Traffic Cam Into a Musical Syn
+The post Genius: Guy Turns Highway Traffic Cam Into a Musical Synth, and It&#
 
 📎 [阅读原文](https://www.thedrive.com/news/guys-genius-idea-turns-highway-traffic-cam-into-a-musical-synth-and-its-strangely-beautiful) — *The Drive*
 
-### 3. 2026 Porsche 911 Turbo S Cabrio Review: ‘I Felt My Brain Shift’
+### 5. 2026 Porsche 911 Turbo S Cabrio Review: ‘I Felt My Brain Shift’
 
 [原文] The Porsche 911 Turbo S Cab is, in many ways, the perfect daily. It's comfortable, luxurious, and fun to drive. But with 701 hp and a 0-60 time of just 2.4 seconds, it's also violent, as one of my pas
 
 📎 [阅读原文](https://www.thedrive.com/car-reviews/2026-porsche-911-turbo-s-review) — *The Drive*
-
-### 4. It’s the US Auto Industry Against Everyone Else, Stellantis CEO Says: TDS
-
-[原文] Stellantis boss Antonio Filosa says that the company sees the global auto market as 'clearly divided' between the U.S. and the rest of the world.
-The post It&#8217;s the US Auto Industry Against Every
-
-📎 [阅读原文](https://www.thedrive.com/news/its-the-us-auto-industry-against-everyone-else-stellantis-ceo-says-tds) — *The Drive*
-
-### 5. The Free Milwaukee Tool or Battery Deal Is Back at The Home Depot
-
-[原文] Build your own combo of Milwaukee batteries or tools and get some great stuff for free during this promo at The Home Depot.
-The post The Free Milwaukee Tool or Battery Deal Is Back at The Home Depot a
-
-📎 [阅读原文](https://www.thedrive.com/news/the-free-milwaukee-tool-or-battery-deal-is-back-at-the-home-depot) — *The Drive*
 
 ---
 
@@ -362,35 +362,35 @@ The post The Free Milwaukee Tool or Battery Deal Is Back at The Home Depot a
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Meet the Mechanical Engineer Running to Regulate the Texas Oil and Gas Industry
+### 1. A Texas LNG Plant Pumps Out Chronic, Unpermitted Pollution, a Watchdog Finds
+
+[原文] A gas export terminal on the Gulf Coast of Texas has routinely violated air pollution permits for years with little consequences from state regulators, according to a report released this week by Oilf
+
+📎 [阅读原文](https://insideclimatenews.org/news/11092026/texas-freeport-lng-unpermitted-pollution/) — *Inside Climate News*
+
+### 2. Data Center Boom Brings Health Hazards, Former EPA Officials Warn
+
+[原文] The artificial intelligence boom poses serious health risks while the Trump administration is dismantling crucial safeguards designed to protect the public, according to former officials at the federa
+
+📎 [阅读原文](https://insideclimatenews.org/news/11092026/data-center-boom-fossil-fuel-expansion-health-hazards/) — *Inside Climate News*
+
+### 3. Meet the Mechanical Engineer Running to Regulate the Texas Oil and Gas Industry
 
 [原文] Jon Rosenthal, a Democratic state representative from Houston, is facing off against Bo French, a far-right Republican culture warrior from Fort Worth, for a seat on the commission that regulates the 
 
 📎 [阅读原文](https://insideclimatenews.org/news/11092026/democrat-jon-rosenthal-runs-to-regulate-texas-oil-gas-industry/) — *Inside Climate News*
 
-### 2. Coral Reefs Can Recover But Relentless Marine Heat Waves Won’t Let Them
+### 4. Coral Reefs Can Recover But Relentless Marine Heat Waves Won’t Let Them
 
 [原文] In 1998, unusually hot ocean temperatures stressed corals worldwide, causing them to expel the microalgae living within their tissues that normally nourish the tiny animals and give them color. Over t
 
 📎 [阅读原文](https://insideclimatenews.org/news/11092026/marine-heat-waves-drive-coral-decline/) — *Inside Climate News*
 
-### 3. How Grassroots Opposition to a New Asphalt Plant Was Infiltrated by an Outside Operative
+### 5. How Grassroots Opposition to a New Asphalt Plant Was Infiltrated by an Outside Operative
 
 [原文] CLEMMONS, N.C.—The man came out of nowhere, but he seemed to be on their side.&#160; Dozens of residents of Clemmons, a small village south of Winston-Salem, were alarmed about a proposed asphalt plan
 
 📎 [阅读原文](https://insideclimatenews.org/news/11092026/nc-asphalt-plant-opposition-infiltrated-by-outside-operative/) — *Inside Climate News*
-
-### 4. Hurricanes Routinely Threaten the Texas Coast. But Mass Evacuations Pose Risks of Their Own.
-
-[原文] This article was originally published by Public Health Watch, a nonprofit investigative news organization. Find out more at publichealthwatch.org. GALVESTON, Texas—Maya Hart’s hand stung as she grippe
-
-📎 [阅读原文](https://insideclimatenews.org/news/11092026/texas-hurricanes-mass-evacuations-risks/) — *Inside Climate News*
-
-### 5. Florida Proposes Stronger Protections for Sloths After Dozens Died at a Tourism Attraction
-
-[原文] Florida’s wildlife agency has proposed new rules to strengthen protections for sloths imported into the state, four months after an Inside Climate News investigation revealed dozens of wild sloths fro
-
-📎 [阅读原文](https://insideclimatenews.org/news/10092026/florida-proposes-stronger-sloth-protections/) — *Inside Climate News*
 
 ---
 
@@ -438,35 +438,35 @@ The post The Free Milwaukee Tool or Battery Deal Is Back at The Home Depot a
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Quavo Previews New Album ‘Qrömelife’ With T.I.-Assisted Single ‘Backwards’
+### 1. X-Ray Spex, the Raincoats, the Slits Members Form Supergroup for London Punk Festival
 
-[原文] The record, out Oct. 2, is executive produced by Pharrell Williams, who helmed the recent single "Haavin"
+[原文] The event will celebrate 50 years of She-Punk with artwork, photography, fashion, and archival material from pioneers
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/london-festival-god-save-the-queens-50-years-of-she-punk-1235625261/) — *Rolling Stone*
+
+### 2. Brent Hinds’ Estate Sues Mastodon Over Late Guitarist’s Share of Band
+
+[原文] Lawsuit claims band offered $80,000 to buy out Hinds’ stake, and that new album Marrow Deep’s cover features illustration of Hinds without permission
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/brent-hinds-estate-lawsuit-mastodon-1235625314/) — *Rolling Stone*
+
+### 3. Quavo Previews New Album ‘Qrömelife’ With T.I.-Assisted Single ‘Backwards’
+
+[原文] The record, out Oct. 2, is executive produced by Pharrell Williams, who helmed the recent single “Haavin”
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/quavo-announces-new-album-qromelife-1235625210/) — *Rolling Stone*
 
-### 2. Hear My Morning Jacket, Preservation Hall Jazz Band Cover Neil Young’s ‘Like a Hurricane’
+### 4. Hear My Morning Jacket, Preservation Hall Jazz Band Cover Neil Young’s ‘Like a Hurricane’
 
 [原文] Song appears on Heart of Gold: The Songs of Neil Young, Vol. 2 - Out of the Blue, out this fall with Vol. 3
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/my-morning-jacket-neil-young-like-a-hurricane-1235620798/) — *Rolling Stone*
 
-### 3. Def Leppard Is Getting an Authorized Documentary Next Year
+### 5. Def Leppard Is Getting an Authorized Documentary Next Year
 
 [原文] Band’s journey from Sheffield, England schoolmates to Rock and Roll Hall of Fame inductees will be focus of ‘Long Live Def Leppard’
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/long-live-def-leppard-authorized-documentary-2027-1235625190/) — *Rolling Stone*
-
-### 4. N.O.R.E. Calls Carmen Bryan’s Sexual Assault Claims ‘Entirely False’
-
-[原文] Bryan claimed the rapper assaulted her at a nightclub in 1999. He calls the claims “invented interactions”
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/nore-denied-carmen-bryans-sexual-assault-claims-1235623438/) — *Rolling Stone*
-
-### 5. Watch Kings of Leon Bring Out Zach Bryan at Nashville Club Show
-
-[原文] The band’s pop-up gig debuted new song “My Whole World,” leaned heavy into hits like “Use Somebody,” and featured the Bryan collab “Bowery”
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/kings-of-leon-zach-bryan-sing-bowery-in-nashville-1235625182/) — *Rolling Stone*
 
 ---
 
@@ -476,35 +476,35 @@ The post The Free Milwaukee Tool or Battery Deal Is Back at The Home Depot a
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘I Don’t Want Cookie Cutter’: Dorchester’s Stand Against the Flattening of Luxury
+### 1. Canadian Travel to the U.S. Grew for a 5th Month Despite Trade War — Still Down 27% From 2024
+
+[原文] Many thought rising political tensions would mean fewer trips — the national data says otherwise. But not every state is seeing the same rebound.
+
+📎 [阅读原文](https://skift.com/2026/09/11/canadian-travel-to-the-u-s-grew-for-a-5th-month-despite-trade-war-still-down-27-from-2024/) — *Skift*
+
+### 2. ‘I Don’t Want Cookie Cutter’: Dorchester Collection’s Stand Against the Flattening of Luxury
 
 [原文] Dorchester has an interesting market opportunity stemming from its iconic properties and a dial service culture. The challenge is to tighten and refine the basics without taking judgment away from the
 
 📎 [阅读原文](https://skift.com/2026/09/11/i-dont-want-cookie-cutter-dorchesters-stand-against-the-flattening-of-luxury/) — *Skift*
 
-### 2. Skift Global Forum Preview: Accor CEO on Why Data is Essential, but Instinct Matters Most
+### 3. Skift Global Forum Preview: Accor CEO on Why Data is Essential, but Instinct Matters Most
 
 [原文] Accor CEO Sébastien Bazin shares what drives his decisions at scale for one of the world's largest hotel groups. He calls data essential, but says it should feed instinct rather than overrule it, a cl
 
 📎 [阅读原文](https://skift.com/2026/09/11/skift-global-forum-preview-accor-ceo-instinct-and-data/) — *Skift*
 
-### 3. Middle East’s Recovery Stalled Again: Skift Travel Health Index
+### 4. Middle East’s Recovery Stalled Again: Skift Travel Health Index
 
 [原文] The Middle East’s recovery remains vulnerable. Renewed travel warnings make a rapid rebound less likely, leaving accommodation providers focused on both rebuilding demand and recovering pricing power.
 
 📎 [阅读原文](https://skift.com/2026/09/11/middle-easts-recovery-stalled-again-skift-travel-health-index/) — *Skift*
 
-### 4. See the Confirmed Speakers for Skift Creator Summit 2026
+### 5. See the Confirmed Speakers for Skift Creator Summit 2026
 
 [原文] Creator-led demand moves across every seat in travel and sits fully inside none of them. The confirmed Creator Summit roster puts the operators who each own a piece of that path in one closed room on 
 
 📎 [阅读原文](https://skift.com/2026/09/11/skift-creator-summit-confirmed-speakers/) — *Skift*
-
-### 5. Where Travel Stands, 25 Years After 9/11
-
-[原文] Twenty-five years after 9/11, travel has become remarkably easy for people the system is prepared to move. The growing divide is over who gets that treatment.
-
-📎 [阅读原文](https://skift.com/2026/09/11/where-travel-stands-25-years-after-9-11/) — *Skift*
 
 ---
 
@@ -516,7 +516,7 @@ The post The Free Milwaukee Tool or Battery Deal Is Back at The Home Depot a
 - **🔬 科学**: Science Daily
 - **⚽ 体育**: BBC Sport
 - **🎬 娱乐**: Variety
-- **🏥 健康**: STAT News
+- **🏥 健康**: WHO
 - **🎮 游戏**: IGN
 - **🚗 汽车**: The Drive
 - **🌱 环境**: Inside Climate News
@@ -526,7 +526,6 @@ The post The Free Milwaukee Tool or Battery Deal Is Back at The Home Depot a
 
 ## ⚠️ 今日故障源
 
-- **🏥 健康**: WHO
 - **🚗 汽车**: Autocar
 
 ---
