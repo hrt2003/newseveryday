@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月11日** | 生成时间: 2026-09-11 04:37
+**2026年09月11日** | 生成时间: 2026-09-11 11:48
 
 ---
 
@@ -40,11 +40,11 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Man jailed after threatening to kill son's teacher in French village
+### 5. More than 20 children killed in DR Congo school fire
 
-[原文] The father had threatened to behead a female primary school teacher near Toulouse.
+[原文] Officials say there was a stampede as they fled a fire that engulfed two schools in the eastern rebel-held city of Bukavu.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump's $1 trillion-plus 'dividend' plan meets immediate bipartisan pushback
+### 1. Trump says he has no regrets about starting the Iran war as U.S. dials up economic pressure
 
-[原文] Such a payout could cost more than $1 trillion and is likely to face legal obstacles.
+[原文] Speaking to Fox News presenter Laura Ingraham, Trump said that he would have attacked Iran despite the impact on the midterm elections.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/10/trump-dividend-midterms-gop.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/11/us-iran-war-trump-hormuz-banks-oil-sanctions.html) — *CNBC*
 
-### 2. The likelihood of a Fed interest rate hike next week just got a lot higher
+### 2. Bessent says 'a large bank' will be sanctioned on Monday as part of Iran strategy
 
-[原文] Traders pushed chances for a rate increase to 70% in morning action.
+[原文] U.S. Treasury Secretary Scott Bessent said that a large bank would be sanctioned next week.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/10/the-likelihood-of-a-fed-interest-rate-hike-next-week-just-got-a-lot-higher.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/11/bessent-large-bank-sanctioned.html) — *CNBC*
 
-### 3. Friday's CPI inflation report is even more important than usual. Here's what to expect
+### 3. Chinese AI labs secretly used millions of Claude exchanges to train their models, Anthropic says
 
-[原文] The Bureau of Labor Statistics will release the August consumer price index report at 8:30 a.m.
+[原文] Anthropic said it detected unauthorized efforts by China-based AI labs including Alibaba and Moonshot AI to use its Claude models to help improve their own AI systems.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/10/fridays-cpi-inflation-report-is-even-more-important-than-usual-heres-what-to-expect.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/11/chinese-ai-labs-moonshot-deepseek-alibaba-anthropic.html) — *CNBC*
 
-### 4. Oracle's stock jumps 7% on earnings beat as cloud infrastructure revenue more than doubles
+### 4. Chinese Nvidia rival Enflame soars 206% on stock market debut as AI demand stays hot
 
-[原文] Oracle's results for the quarter came in stronger than expected, as did its revenue backlog.
+[原文] Chinese AI chipmaker Enflame, an Nvidia rival and one of China's "four little dragons," made its Shanghai market debut.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/10/oracle-orcl-q1-earnings-report-2027.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/11/chinese-nvidia-rival-enflame-stock-market-debut-ai.html) — *CNBC*
 
-### 5. Kimmel says interview with Senate candidate Talarico won't air on ABC amid FCC threats
+### 5. Hassett kept up to $5 million Coinbase stake as Trump reshaped crypto policy
 
-[原文] ABC has come under increased pressure from the FCC, and the Trump administration has raised concerns about equal air time for political candidates.
+[原文] Trump economic advisor Kevin Hassett owned as much as $5 million in Coinbase while serving as the White House's top economic advisor, his disclosure shows.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/10/abc-kimmel-talarico-fcc.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/10/kevin-hassett-coinbase-stock-trump-crypto-recusal.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Meta’s AI agent Muse is now the No. 2 app in the US
+### 1. Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play
 
-[原文] Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.
+[原文] Collaborative Fund just bought into D.C. United and its stadium, with  firm founder Craig Shapiro pitching it as a way to showcase for the firm's startups.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/) — *TechCrunch*
 
-### 2. Proxima Fusion bets €140M on a critical fusion ingredient dominated by Asian suppliers
+### 2. Jensen Huang explains why Nvidia will grow an astounding 70% next year
 
-[原文] Proxima Fusion said Wednesday it plans to build a €140 million ($162.6 million) factory to produce fusion-grade high-temperature superconducting (HTS) tape, which will provide the startup with key com
+[原文] Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/10/proxima-fusion-bets-e140m-on-a-critical-fusion-ingredient-dominated-by-asian-suppliers/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/) — *TechCrunch*
 
-### 3. Amazon makes it easier to buy what you see on Prime Video
+### 3. Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his
 
-[原文] Amazon is expanding shopping integrations across Prime Video, letting viewers discover products tied to thousands of shows, movies, and live sports through X-Ray, its shopping app, and a new Lens-powe
+[原文] Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/) — *TechCrunch*
 
-### 4. Anthropic reveals rogue AI agents hate CAPTCHAs, just like you
+### 4. OpenAI puts Pro subscriptions on hold due to Astra demand
 
-[原文] Come inside the mind of a bot trying to convince the internet it's human.
+[原文] The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/) — *TechCrunch*
 
-### 5. India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content
+### 5. Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek
 
-[原文] Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.
+[原文] A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. England's push for two-day win halted by weather
+### 1. Rybakina sets up blockbuster Sabalenka final at US Open
+
+[原文] Soon-to-be world number one Elena Rybakina will face Aryna Sabalenka in a blockbuster US Open final between the tournament's top two seeds.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cy9znnpnx5ro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. Two goals in two games - Sesko gives Man Utd a different threat
+
+[原文] Benjamin Sesko's return to Manchester United's starting line-up is well timed ahead of Sunday's Premier League encounter with Manchester City
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c770d63d850o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. England's push for two-day win halted by weather
 
 [原文] England's charge towards a two-day victory in the final Test against Pakistan is only halted by rain at Edgbaston.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c980dgvp2qeo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Spurs and Richarlison in dispute over contract
+### 4. Man Utd put four past Sabah on Champions League return
 
-[原文] Tottenham and their forward Richarlison are in dispute over the remaining nine months on his contract.
+[原文] Manchester United recorded their biggest Champions League victory since 2020 as they swept Sabah FK aside at Old Trafford.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c62mq8j4j5lo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/crl600nz58lo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Hamilton and Leclerc 'squash' Monza controversy
+### 5. England captain Jones calls for fertility support
 
-[原文] Lewis Hamilton says he and Ferrari team-mate Charles Leclerc have "squashed" any controversy between them from the Italian Grand Prix.
+[原文] England captain Meg Jones wants the Red Roses to have access to fertility support and egg freezing.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/ckg825g59l1o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. England march to early win over Pakistan held up by rain
-
-[原文] Harry Brook, Dan Lawrence, Jamie Smith and Ollie Robinson all post half-centuries on day two of the third Test for England, with rain the only respite for a Pakistan side trailing by 268.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/videos/cz9zjypykqqo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. 2030 Winter Olympics boss departs amid turmoil
-
-[原文] Edgar Grospiron leaves his position as president of the organising committee for the 2030 French Alps Winter Olympics just 18 months after his appointment.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/articles/c980dgv6vyqo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-union/articles/ce9er3xdgvdo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Taylor Swift to Attend CMA Awards for First Time in 10 Years After ‘I Knew It, I Knew You’ Nomination, Further Cementing Her Country Comeback
+### 1. Oscar Predictions 2027: Telluride Reshapes the Best Picture Race as TIFF Lines Up Its Crowd-Pleasers
 
-[原文] In most cases, Taylor Swift leaves a little bit of suspense in the air as to whether she&#8217;ll attend one of the many awards shows where she is nominated. Not this time. Within hours of the announc
+[原文] Variety&#160;Awards Circuit&#160;section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars,&#160;Emmys,
 
-📎 [阅读原文](https://variety.com/2026/music/news/taylor-swift-attending-cma-awards-song-nomination-i-knew-it-1236857806/) — *Variety*
+📎 [阅读原文](https://variety.com/lists/2027-oscars-predictions/) — *Variety*
 
-### 2. T-Mobile’s New Deal Offers a Free Samsung Galaxy Z Fold8 Phone and Additional Entertainment Perks
+### 2. ‘Burgundy’ Review: An Attractive, Light-Bodied Wine Doc With a Good Nose but No Legs
 
-[原文] Tech giant Samsung recently unveiled three new phone models: Galaxy Z Fold8, Z Flip8 and Z Fold8 Ultra. Described as “a screen built for content,” these phones are at the forefront of the foldable pho
+[原文] &#8220;Everything that follows is true. Exactly as we dreamed it,&#8221; reads the opening title of &#8220;Burgundy,&#8221; from award-winning documentary duo Michael Dweck and Gregory Kershaw, with a
 
-📎 [阅读原文](https://variety.com/2026/shopping/news/t-mobile-samsung-galaxy-z-fold8-phone-deal-offer-sept-2026-1236857858/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/reviews/burgundy-review-1236847240/) — *Variety*
 
-### 3. Janelle Rodriguez, Who Helped Build NBC News’ Streaming Outlet, to Exit
+### 3. ‘Stuffed’ Review: Jodie Comer and Harry Melling Sing the Body Eccentric in an Odd, and Oddly Touching, Taxidermy Musical
 
-[原文] Janelle Rodriguez, who helped build and launch NBC News&#8217; live-streaming outlet NBC News Now while overseeing a rare changing of the guard at &#8220;NBC Nightly News,&#8221; is leaving. &#8220;I&
+[原文] It’s a somewhat telling coincidence that “Stuffed,” a very peculiar new vehicle for Jodie Comer, is premiering at the same edition of Toronto as “Prima Facie,” the film adaptation of the stage hit tha
 
-📎 [阅读原文](https://variety.com/2026/tv/news/janelle-rodriguez-nbc-news-exit-1236857830/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/reviews/stuffed-review-jodie-comer-harry-melling-1236857095/) — *Variety*
 
-### 4. Peacock Orders ‘Before I Let Go’ Based on Kennedy Ryan Novel From Malcolm D. Lee, Attica Locke, Tembi Locke
+### 4. Dan Schneider Loses ‘Quiet on Set’ Defamation Suit on Appeal
 
-[原文] Peacock has given a series order to &#8220;Before I Let Go,&#8221; based on the Kennedy Ryan novel of the same name. Ryan and Malcolm D. Lee (“The Best Man” franchise, “Girls Trip&#8221;) created the 
+[原文] The producers of the documentary series &#8220;Quiet on Set&#8221; have prevailed in a lawsuit brought by former Nickelodeon showrunner Dan Schneider, who claimed that the show implied that he was a c
 
-📎 [阅读原文](https://variety.com/2026/tv/news/peacock-before-i-let-go-based-kennedy-ryan-novel-1236857735/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/dan-schneider-quiet-on-set-defamation-dismissed-appeal-1236858005/) — *Variety*
 
-### 5. ‘Under the Volcano’ Director Damian Kocur Takes on Contemporary Poland, Stereotypes and Historical Trauma in ‘La Manche’ as Oma Inge Film and Les Contes Modernes Come on Board (EXCLUSIVE)
+### 5. Netflix Taps ‘Friday Night Lights’ Director Peter Berg for NFL Gameday Openers, the First Narrated by Kyle Chandler
 
-[原文] Polish director Damian Kocur is ready for “La Manche.” Presented at the Venice Production Bridge and produced by Kijora Film, the film will be co-produced by Germany’s Oma Inge Film and France’s Les C
+[原文] Peter Berg is directing the show opens for all four of Netflix’s NFL gameday livestreams this season &#8212; and for the first one, debuting Thursday, he drafted Kyle Chandler, star of the &#8220;Frid
 
-📎 [阅读原文](https://variety.com/2026/film/global/damian-kocur-la-manche-oma-inge-les-contes-modernes-1236857477/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/netflix-peter-berg-kyle-chandler-friday-night-lights-nfl-gameday-1236858004/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Pay Half Price for the Logitech G Pro X2 Superstrike Wireless Gaming Mouse With Haptic Inductive Triggers
+### 1. The SteelSeries Arctis Nova Pro Wireless Gaming Headset With Infinite Battery Life Drops to $250
 
-[原文] 10/10 "Masterpiece".
+[原文] Wireless free with zero downtime.
 
-📎 [阅读原文](https://www.ign.com/articles/logitech-g-pro-x2-superstrike-gaming-mouse-deal-september-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/steelseries-arctis-nova-pro-gaming-headset-deal-september-2026) — *IGN*
 
-### 2. Asa Germann Cast as Angel in Marvel's X-Men Movie
+### 2. The Retroid Pocket Duo Looks Perfect for DS and 3DS Emulation
 
-[原文] Marvel’s X-Men movie has found its Angel in Asa Germann, best known for his roles in Gen V and Scream 7.
+[原文] It’s no secret that handheld gaming is in a bit of a renaissance right now. Ushered in by the Nintendo Switch and carried forward by the Steam Deck. Alongside these mainstream offerings are another cl
 
-📎 [阅读原文](https://www.ign.com/articles/asa-germann-cast-as-angel-in-marvels-x-men-movie) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/the-retroid-pocket-duo-looks-perfect-for-ds-and-3ds-emulation) — *IGN*
 
-### 3. Top 15 Best Wolverine Comics
+### 3. Hasbro Responds to DHS Using AI Optimus Prime in Deportation Posts
 
-[原文] Wolverine has been fighting the good fight for decades in the Marvel Universe. These are his 15 greatest comic book storylines of all time.
+暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/best-wolverine-comics-all-time) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/hasbro-dhs-ai-optimus-prime-deportation-response) — *IGN*
 
-### 4. Wardogs Surpasses 1 Million Copies Sold on Day One, Blows Past 300k Peak Concurrent Players on Steam
+### 4. The 34" AOC Agon Pro QD-OLED Gaming Monitor With Massive 4 Year Warranty Drops to $399.99
 
-[原文] Wardogs has already surpassed a million copies sold and is lighting up Steam's concurrent player charts.
+[原文] The least expensive ultra-wide OLED gaming monitor also happens to have the longest warranty.
 
-📎 [阅读原文](https://www.ign.com/articles/wardogs-surpasses-1-million-copies-sold-on-day-one-blows-past-300k-peak-concurrent-players-on-steam) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/aoc-agon-pro-qd-oled-gaming-monitor-deal) — *IGN*
 
-### 5. Dead or Alive 6 Last Round Project Manager Sparks Debate After Revealing Koei Tecmo is Dialing Back the Game's 'Sexy Costumes'
+### 5. Brandon Sanderson Praises the Upcoming MTG Star Trek Set for a 'Perfect Kirk' Card
 
-[原文] Dead or Alive 6 Last Round Project Manager Tsuyoshi Iuchi has sparked a debate within the fighting game community after explaining why the team at Koei Tecmo is dialing back on making sexy costumes.
+暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/dead-or-alive-6-last-round-project-manager-sparks-debate-after-revealing-koei-tecmo-is-dialing-back-the-games-sexy-costumes) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/brandon-sanderson-praises-the-upcoming-mtg-star-trek-set-for-a-perfect-kirk-card) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post You&#8217;re Not Imagining It: Infotainment Systems Are Tanking Vehicle
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Chemours to Pay $455 Million for Fayetteville Works Contamination
+### 1. Florida Proposes Stronger Protections for Sloths After Dozens Died at a Tourism Attraction
+
+[原文] Florida’s wildlife agency has proposed new rules to strengthen protections for sloths imported into the state, four months after an Inside Climate News investigation revealed dozens of wild sloths fro
+
+📎 [阅读原文](https://insideclimatenews.org/news/10092026/florida-proposes-stronger-sloth-protections/) — *Inside Climate News*
+
+### 2. Chemours to Pay $455 Million for Fayetteville Works Contamination
 
 [原文] This story is a collaboration between Inside Climate News and CityView NC, part of The Assembly Local Network. North Carolina and a handful of local governments agreed to settle with Chemours over its
 
 📎 [阅读原文](https://insideclimatenews.org/news/10092026/chemours-fayetteville-pfas-contamination-settlement/) — *Inside Climate News*
 
-### 2. How California Is Kicking Its Natural Gas Habit
+### 3. How California Is Kicking Its Natural Gas Habit
 
 [原文] Natural gas is fading from California’s electricity mix more quickly than seemed possible just a few years ago. The state hit its peak for gas-fired electricity in 2014 and has fallen in eight of the 
 
 📎 [阅读原文](https://insideclimatenews.org/news/10092026/inside-clean-energy-california-transitions-away-from-natural-gas/) — *Inside Climate News*
 
-### 3. Pennsylvania Is Building More EV Chargers. Will Drivers Come?
+### 4. Pennsylvania Is Building More EV Chargers. Will Drivers Come?
 
 [原文] As I drove 500 miles across Pennsylvania and back in a little blue Chevrolet Bolt EV, a charging station near a dumpster at the back of a Pizza Hut parking lot proved to be a convenient stop. But afte
 
 📎 [阅读原文](https://insideclimatenews.org/news/10092026/pennsylvania-spends-big-on-ev-charging-network/) — *Inside Climate News*
 
-### 4. Industry Interests Spent Big Money to Stop California From Banning PFAS Pesticides
+### 5. Industry Interests Spent Big Money to Stop California From Banning PFAS Pesticides
 
 [原文] An ambitious bill to keep toxic &#8220;forever chemicals&#8221; off California produce lost its teeth after the chemical and agricultural industry spent hundreds of thousands of dollars lobbying again
 
 📎 [阅读原文](https://insideclimatenews.org/news/09092026/industry-interests-spent-big-money-to-stop-california-from-banning-pfas-pesticides/) — *Inside Climate News*
-
-### 5. Utahns Support Protecting National Monuments That Trump Downsized
-
-[原文] Two-thirds of Utah voters support restoring the boundaries of Bears Ears and Grand Staircase-Escalante national monuments to the previous boundaries they had before President Donald Trump reduced them
-
-📎 [阅读原文](https://insideclimatenews.org/news/09092026/utah-voters-support-protecting-national-monuments/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post You&#8217;re Not Imagining It: Infotainment Systems Are Tanking Vehicle
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Spice Girls Fans Really Really Want a New Tour — They Are Getting a Box Set Instead
+### 1. Jay-Z Loses Appeal to Revive Extortion and Defamation Lawsuit Against Lawyer Who Filed Rape Claim
+
+[原文] The rapper pledged to hold the lawyer who filed the since-dismissed allegation accountable, but now the lawyer is entitled to recover his legal costs
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/jay-z-loses-appeal-extortion-lawsuit-combs-buzbee-1235625033/) — *Rolling Stone*
+
+### 2. Jay-Z Brings Out Justin Timberlake and Pharrell Williams in Paris
+
+[原文] The show celebrated the 30th anniversary of Jay-Z's debut album, Reasonable Doubt
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/jay-z-brings-out-justin-timberlake-pharrell-williams-paris-1235625018/) — *Rolling Stone*
+
+### 3. Alison Krauss and Union Station Cancel Remaining Tour Dates: Singer Advised to Take a ‘Vocal Rest’
+
+[原文] "Prioritizing health and vocal integrity is imperative at this time," the band writes
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/alison-krauss-and-union-station-cancel-tour-dates-2026-1235625030/) — *Rolling Stone*
+
+### 4. Mark the Spot , E3: Music
+
+[原文] Revelers Hall
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/mark-the-spot-music-1235619211/) — *Rolling Stone*
+
+### 5. Spice Girls Fans Really Really Want a New Tour — They Are Getting a Box Set Instead
 
 [原文] “*puts credit card back in purse*”
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/spice-girls-compilation-no-reunion-tour-fans-react-1235624780/) — *Rolling Stone*
-
-### 2. Billy Joel Pays Tribute to ‘Best Friend’ Jon Small: ‘Like a Brother to Me’
-
-[原文] “Losing Jon has hit me in a way I have never experienced. It is difficult to imagine this world without him in it,” singer writes of former bandmate and longtime friend
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/billy-joel-pays-tribute-jon-small-1235624727/) — *Rolling Stone*
-
-### 3. Nice as Fuck — Featuring Jenny Lewis and Members of Au Revoir Simone and the Like — Are Back for a Tour
-
-[原文] Group will embark on a 10th-anniversary tour this fall
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/nice-as-fuck-10-anniversary-reunion-tour-1235624710/) — *Rolling Stone*
-
-### 4. Julien Baker Returns to the Road With Rock Club Residency Tour This Fall
-
-[原文] Singer will stage three-night stands in six cities, performing tracks from throughout her catalog as well as new music
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/julien-baker-rock-club-residency-tour-1235624445/) — *Rolling Stone*
-
-### 5. Snoop Dogg to Host VMAs as Show Returns to West Coast
-
-[原文] “Some of the biggest moments of my career happened on that stage and on MTV,” said the rap mogul
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/snoop-dogg-host-vmas-show-returns-to-west-coast-1235624264/) — *Rolling Stone*
 
 ---
 
