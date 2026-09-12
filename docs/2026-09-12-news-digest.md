@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月12日** | 生成时间: 2026-09-12 11:51
+**2026年09月12日** | 生成时间: 2026-09-12 18:21
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane
+### 1. Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq
 
-[原文] The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.
+[原文] Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Tragic death of woman who testified against father in notorious mafia murder of mother
+### 2. US and Ireland's relationship 'stronger than ever'
+
+[原文] Trump is holding meetings in Dublin before attending the Irish Open golf tournament in Doonbeg, County Clare.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. Tragic death of woman who testified against father in notorious mafia murder of mother
 
 [原文] Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Death toll from Philippines ferry fire climbs to 35, with dozens still missing
+### 4. 'Never, ever forget' - America marks 25th anniversary of 9/11 attacks
+
+[原文] In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Death toll from Philippines ferry fire climbs to 35, with dozens still missing
 
 [原文] Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Passenger train derails in France leaving at least 44 injured
-
-[原文] France's transport minister says 180 passengers were on board the train operating the Rouen-Caen route in Normandy.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Arrest made over the death of black woman found hanged from tree in Mississippi
-
-[原文] Tasia Fortune's body was found  in the lot of an abandoned home in Mississippi in August.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -60,29 +60,29 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/11/cpi-inflation-breakdown-august-2026.html) — *CNBC*
 
-### 2. Saudi Arabia shut down East-West crude oil pipeline after multiple attacks by drones from Iraq
+### 2. Tehran won’t surrender to the U.S., Iranian President Pezeshkian says, as India's Modi urges dialogue and peace
+
+[原文] On his first visit to India, Iranian President Masoud Pezeshkian said he will not surrender to the U.S. and Israel, as New Delhi renewed its appeal for peace.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/12/iran-us-israel-war-india-brics.html) — *CNBC*
+
+### 3. Saudi Arabia shut down East-West crude oil pipeline after multiple attacks by drones from Iraq
 
 [原文] Iran-allied Houthi militants in Yemen have escalated strikes on Saudi Arabia this week.
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/11/saudi-arabia-shut-down-east-west-crude-oil-pipeline.html) — *CNBC*
 
-### 3. I went to Caracas for Venezuela’s new oil deals. Here’s what stood out
+### 4. Trump's America-first world is pushing other powers to hedge their bets
+
+[原文] Xi, Putin and Modi meet in New Delhi as U.S. tariffs, sanctions and the Iran war test whether BRICS members can find more common ground.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/12/brics-summit-xi-putin-modi-trump.html) — *CNBC*
+
+### 5. I went to Caracas for Venezuela’s new oil deals. Here’s what stood out
 
 [原文] CNBC was one of just a handful of news organizations allowed to travel to Caracas with the U.S. secretary of energy.
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/11/the-inside-story-on-the-historic-us-venezuela-oil-deal-and-how-it-will-work.html) — *CNBC*
-
-### 4. Dell stock jumps on RBC initiation, now up nearly 350% in 2026
-
-[原文] Dell sold about $16.4 billion of AI servers in its second quarter, RBC said.
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/11/dell-stock-rbc-initiation.html) — *CNBC*
-
-### 5. Dan Chung rebuilt a decimated Alger Management after 9/11. He's still finding the market's winners
-
-[原文] The CEO and chief investment officer at Fred Alger Management survived the attack by chance. He was tasked with reconstruction after 35 staffers died.
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/11/dan-chung-rebuilt-a-decimated-alger-management-after-9/11-hes-still-finding-the-markets-winners.html) — *CNBC*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Zverev through to third Grand Slam final in a row
+### 1. Signed instead of Rashford, Gordon is proving worth at Barca
 
-[原文] Alexander Zverev beats Karen Khachanov at the US Open to reach a third Grand Slam final in a row and continue his bid for a second major of the year.
+[原文] Anthony Gordon's £70m move to Barcelona was questioned by some - but the England winger is already proving his worth for the free-scoring Spanish giants.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cgk5n3xpkv2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. 'Red rag to a bull' - Sabalenka's extra motivation to win US Open
+
+[原文] Aryna Sabalenka has lost the world number one ranking to Elena Rybakina - but has the chance to take revenge in the US Open final.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cly59yjl5d5o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. Garcia v Benn - welterweight world title fight predictions
+
+[原文] Figures from the boxing world give their predictions for Saturday's WBC welterweight world title fight between Ryan Garcia and Briton Conor Benn.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/articles/cje8y84wd1no?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. 'A legacy' at 26 - how Hemp has grown at Man City
+
+[原文] Manchester City forward Lauren Hemp has already achieved more than most footballers at the age of 26.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cj4je2eveewo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 5. American Shelton to face Zverev in US Open final
+
+[原文] Ben Shelton powers past Frances Tiafoe in an all-American US Open semi-final to earn a spot in Sunday's final against number one seed Alexander Zverev.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/clykzn81n4go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 2. Razaullah introduces himself as Pakistan thrive in chaos
-
-[原文] Cancel the tee time at the Belfry, rearrange the trip to Cadbury World and abort the shopping jolly to the Bullring - Pakistan's debutant Razaullah lights up Edgbaston to send third Test into fourth d
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c158k8vn7vwo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 3. Like Benzema & as good as Haaland - Alonso on Joao Pedro
-
-[原文] Chelsea manager Xabi Alonso says striker Joao Pedro is similar stylistically to his former Real Madrid team-mate Karim Benzema and is at a comparable level to Manchester City's Erling Haaland.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c1j4z1ry29jo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. Ciganda's late sparkle lifts Europe on dramatic opening day of Solheim Cup
-
-[原文] Carlota Ciganda steals the show after Europe's top pairing of Charley Hull and Lottie Woad fail to ignite on day one of the Solheim Cup against the United States.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/cm2q83edzzlo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Glitzy innovations but Duplantis still wins - new Ultimate Championship begins
-
-[原文] The Ultimate Championship is posed as something different in athletics, but some things stay the same - pole vault star Armand Duplantis taking centre stage.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/c05r94l4j9go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Jimmy Kimmel’s Pulled TV Interview With James Talarico Hits 5 Million Views in 24 Hours on YouTube
+### 1. Gary Oldman Predicts HBO’s ‘Harry Potter’ Series Will Be ‘More Satisfying’ for Fans Than the Movies
+
+[原文] Gary Oldman, who played Sirius Black in four &#8220;Harry Potter&#8221; movies, said he believes HBO&#8217;s forthcoming TV series adaptation set in the Wizarding World will be a bigger crowd-pleaser 
+
+📎 [阅读原文](https://variety.com/2026/tv/news/gary-oldman-hbo-harry-potter-series-more-satisfying-than-movies-1236859390/) — *Variety*
+
+### 2. Paramount Argues States’ Antitrust Suit Will ‘Collapse Under Scrutiny’
+
+[原文] Paramount&#8217;s lawyers filed a legal response to the states&#8217; antitrust lawsuit against the Warner Bros. Discovery merger on Friday, sketching out arguments and defenses it may use at a trial 
+
+📎 [阅读原文](https://variety.com/2026/film/news/paramount-answer-antitrust-case-1236859363/) — *Variety*
+
+### 3. Jimmy Kimmel’s Pulled TV Interview With James Talarico Hits 5 Million Views in 24 Hours on YouTube
 
 [原文] Jimmy Kimmel&#8217;s pulled TV interview with James Talarico, the Texan Democrat running for the U.S. Senate, has crossed 5 million views in the 24 hours since it was posted to YouTube. It was reveale
 
 📎 [阅读原文](https://variety.com/2026/tv/news/jimmy-kimmel-james-talarico-interview-youtube-views-1236857569/) — *Variety*
 
-### 2. ‘The Julia Set’ Review: Chase Infiniti Confirms Her Movie-Star Mettle in Niki Byrne’s Riveting Math-Geek Bad Romance
+### 4. ‘The Julia Set’ Review: Chase Infiniti Confirms Her Movie-Star Mettle in Niki Byrne’s Riveting Math-Geek Bad Romance
 
 [原文] In "The Julia Set," she portrays a numbers genius in the most convincing way possible — by wearing her virtuosity lightly and casually, as if it were second nature (which, for someone like Julia, it i
 
 📎 [阅读原文](https://variety.com/2026/film/reviews/the-julia-set-review-chase-infiniti-1236858794/) — *Variety*
 
-### 3. Lil Durk Acquitted in Murder-for-Hire Trial
+### 5. Lil Durk Acquitted in Murder-for-Hire Trial
 
 [原文] A Los Angeles federal jury on Friday found Grammy-winning rapper Lil Durk not guilty of murder-for-hire, conspiracy and stalking resulting in death charges in the 2022 killing of rapper Quando Rondo’s
 
 📎 [阅读原文](https://variety.com/2026/music/news/lil-durk-acquitted-murder-for-hire-trial-1236859311/) — *Variety*
-
-### 4. ‘The Uprising’ Star Woody Norman on the ‘Power Trip’ Playing King Richard II and Going Meatless at Age 10 After Working With Joaquin Phoenix
-
-[原文] Filming “The Uprising” gave British actor Woody Norman, who plays 14-year-old King Richard II in the historical fiction drama, a massive headache. It turns out the only crown they had for him to use d
-
-📎 [阅读原文](https://variety.com/2026/film/global/the-uprising-star-norman-playing-king-richard-ii-going-meatless-age-10-joaquin-phoenix-1236857404/) — *Variety*
-
-### 5. Ocean Way Festival Featuring Killers, Olivia Dean and Jack White Is Canceled, as Santa Monica Blames Beach Damage From Hurricane Forces
-
-[原文] Ocean Way is going away, at least for a year. Goldenvoice&#8217;s inaugural Ocean Way Festival, which was scheduled to take place on the beach in Santa Monica Sept. 26-27, has been called off, with ci
-
-📎 [阅读原文](https://variety.com/2026/music/news/ocean-way-festival-canceled-beach-killers-olivia-dean-1236859293/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Save $950 Off the 2.6-Pound Lenovo Yoga 7X Ultra-Slim Laptop With the New Snapdragon X2 Elite Processor
+### 1. Planet Zoo 2 Puts You Right Down into the Wild With Your Animals | IGN Preview
+
+[原文] It wasn't realistic to get a full picture of Planet Zoo 2 from the short time I had with it in this first hands-on, especially when it comes to the business tycoon side, but I'm pretty optimistic over
+
+📎 [阅读原文](https://www.ign.com/articles/planet-zoo-2-puts-you-right-down-into-the-wild-with-your-animals-ign-preview) — *IGN*
+
+### 2. Wolverine Developer Insomniac Says Logan's Scent Trail Isn't Always on Amid 'Fart Gas' Toggle Requests
+
+[原文] A debate over “fart gas” has emerged around PlayStation 5 exclusive Marvel’s Wolverine, with some people calling for developer Insomniac to add the ability to disable Logan’s scent trail entirely from
+
+📎 [阅读原文](https://www.ign.com/articles/wolverine-developer-insomniac-says-logans-scent-trail-isnt-always-on-amid-fart-gas-toggle-requests) — *IGN*
+
+### 3. Save $950 Off the 2.6-Pound Lenovo Yoga 7X Ultra-Slim Laptop With the New Snapdragon X2 Elite Processor
 
 [原文] The ultimate ultra-portable laptop for students and professionals on the move.
 
 📎 [阅读原文](https://www.ign.com/articles/lenovo-yoga-slim-7x-ultraportable-laptop-deal-september-2026) — *IGN*
 
-### 2. Brandon Sanderson's Mistborn Expansion for the Cosmere RPG Is Up for Preorder at Amazon
+### 4. Brandon Sanderson's Mistborn Expansion for the Cosmere RPG Is Up for Preorder at Amazon
 
 暂无摘要。
 
 📎 [阅读原文](https://www.ign.com/articles/mistborn-cosmere-rpg-expansion-where-to-buy) — *IGN*
 
-### 3. GTA 6 Reviews Plague Real-Life Nudist Resort After Fans Draw Comparisons to Leaks
+### 5. GTA 6 Reviews Plague Real-Life Nudist Resort After Fans Draw Comparisons to Leaks
 
 [原文] GTA 6 fans believe its nudist resort was inspired by a real-life location, and its owners are already being bombarded with problematic reviews.
 
 📎 [阅读原文](https://www.ign.com/articles/gta-6-reviews-plague-real-life-nudist-resort-after-fans-draw-comparisons-to-leaks) — *IGN*
-
-### 4. Save 45% Off Citizen's Star Wars Themed Eco-Drive Chronograph Men's Watches
-
-[原文] The Force is strong with these ones.
-
-📎 [阅读原文](https://www.ign.com/articles/citizens-star-wars-eco-drive-chronograph-mens-watch-deals) — *IGN*
-
-### 5. Alienware Just Released the World's First 39" 5K Monitor With RGB Stripe Tandem OLED Technology
-
-[原文] The best monitor for both gaming and workstation productivity is now shipping.
-
-📎 [阅读原文](https://www.ign.com/articles/alienware-aw3926qw-39-5k-oled-gaming-monitor-is-now-available) — *IGN*
 
 ---
 
@@ -362,35 +362,35 @@ The post Genius: Guy Turns Highway Traffic Cam Into a Musical Synth, and It&#
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Court Rules Against Trump Order to Keep Costly Michigan Coal Plant Running
+### 1. An Overdue Trash Bill Left This Alabama Woman in Handcuffs. She’s Not Alone.
+
+[原文] DOUBLE SPRINGS, Ala.—As 59-year-old Pam Benton sat handcuffed to a cold bench inside the Winston County Courthouse, shame flooded over her. All she could think about, she later explained, was what her
+
+📎 [阅读原文](https://insideclimatenews.org/news/12092026/alabama-county-arrests-citizens-nonpayment-trash-bills/) — *Inside Climate News*
+
+### 2. Formal Repeal of Roadless Rule Directly Threatens Midwest Wilderness
+
+[原文] Michigan’s Norwich Plains is a stretch of unbroken wilderness in the state’s Upper Peninsula dominated by northern hardwood forest, with sugar maples and old-growth aspens that provide habitat for end
+
+📎 [阅读原文](https://insideclimatenews.org/news/12092026/roadless-rule-repeal-threatens-midwest-wilderness/) — *Inside Climate News*
+
+### 3. Maryland Under Pressure as Local Moratoriums Supercharge Opposition to Data Centers
+
+[原文] More than 60 advocacy groups from across Maryland are urging leaders in Annapolis to put a temporary pause on new data center proposals until their impacts on the environment and communities can be fu
+
+📎 [阅读原文](https://insideclimatenews.org/news/12092026/maryland-data-center-opposition-supercharged-as-election-approaches/) — *Inside Climate News*
+
+### 4. How Marmots, OnlyFans and a Meme Coin Generated Big Bucks for Wildlife Biology
+
+[原文] From our collaborating partner “Living on Earth,” public radio’s environmental news magazine, an interview by Jenni Doering with Emily Renkey from the Marmot Project.&#160; You may have heard of Fat B
+
+📎 [阅读原文](https://insideclimatenews.org/news/12092026/fat-marmot-week-raises-big-money-for-wildlife-biology/) — *Inside Climate News*
+
+### 5. Court Rules Against Trump Order to Keep Costly Michigan Coal Plant Running
 
 [原文] A federal appeals court has struck down the Trump administration’s use of emergency powers to require a coal-fired power plant in Michigan to remain open, ruling that the U.S. Department of Energy exc
 
 📎 [阅读原文](https://insideclimatenews.org/news/11092026/court-rules-against-trump-order-to-keep-costly-michigan-coal-plant-running/) — *Inside Climate News*
-
-### 2. 25 Years After 9/11, the Health Toll Is Still Unfolding
-
-[原文] New York City Mayor Zohran Mamdani released a trove of documents this week that shed new light on the air quality around the World Trade Center after the September 11 terrorist attacks. Some of these 
-
-📎 [阅读原文](https://insideclimatenews.org/news/11092026/9-11-health-toll-still-unfolding/) — *Inside Climate News*
-
-### 3. The Trump Administration Wants to Fast-Track Arctic Drilling
-
-[原文] The Trump administration is moving to accelerate oil and gas drilling across the Western Arctic with a new proposal that would slash environmental review and public input.&#160; The proposal could bri
-
-📎 [阅读原文](https://insideclimatenews.org/news/11092026/the-trump-administration-wants-to-fast-track-arctic-drilling/) — *Inside Climate News*
-
-### 4. A Texas LNG Plant Pumps Out Chronic, Unpermitted Pollution, a Watchdog Finds
-
-[原文] A gas export terminal on the Gulf Coast of Texas has routinely violated air pollution permits for years with little consequences from state regulators, according to a report released this week by Oilf
-
-📎 [阅读原文](https://insideclimatenews.org/news/11092026/texas-freeport-lng-unpermitted-pollution/) — *Inside Climate News*
-
-### 5. Data Center Boom Brings Health Hazards, Former EPA Officials Warn
-
-[原文] The artificial intelligence boom poses serious health risks while the Trump administration is dismantling crucial safeguards designed to protect the public, according to former officials at the federa
-
-📎 [阅读原文](https://insideclimatenews.org/news/11092026/data-center-boom-fossil-fuel-expansion-health-hazards/) — *Inside Climate News*
 
 ---
 
