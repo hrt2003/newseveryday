@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月12日** | 生成时间: 2026-09-12 04:42
+**2026年09月12日** | 生成时间: 2026-09-12 11:51
 
 ---
 
@@ -22,29 +22,29 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Norway's Princess Astrid dies two days after attending brother King Harald's funeral
+### 2. Tragic death of woman who testified against father in notorious mafia murder of mother
 
-[原文] Princess Astrid "represented the Royal House in a warm and dutiful manner", the new king, Haakon VIII, said in a tribute to his aunt.
+[原文] Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cgjq1qy98vjo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Israel says it has destroyed major underground Hezbollah base
+### 3. Death toll from Philippines ferry fire climbs to 35, with dozens still missing
 
-[原文] The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey.
+[原文] Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Princess Diana's 'revenge dress' goes up for auction
+### 4. Passenger train derails in France leaving at least 44 injured
 
-[原文] Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December.
+[原文] France's transport minister says 180 passengers were on board the train operating the Rouen-Caen route in Normandy.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Buddhist monk arrested in suspected $3m embezzlement scandal
+### 5. Arrest made over the death of black woman found hanged from tree in Mississippi
 
-[原文] Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed having sex.
+[原文] Tasia Fortune's body was found  in the lot of an abandoned home in Mississippi in August.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -60,7 +60,7 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/11/cpi-inflation-breakdown-august-2026.html) — *CNBC*
 
-### 2. Saudi Arabia shut down East-West crude oil pipeline after multiple attacks
+### 2. Saudi Arabia shut down East-West crude oil pipeline after multiple attacks by drones from Iraq
 
 [原文] Iran-allied Houthi militants in Yemen have escalated strikes on Saudi Arabia this week.
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. One week left to book your exhibit table at TechCrunch Disrupt 2026
+### 1. Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data
+
+[原文] The round for the two-year-old startup is coming together months after Mecka announced its Series A.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/) — *TechCrunch*
+
+### 2. Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road
+
+[原文] "It's actually allegedly being built out now," said Rabois, who has clearly dealt with a missed construction timeline or two.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/) — *TechCrunch*
+
+### 3. Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too
+
+[原文] Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/) — *TechCrunch*
+
+### 4. OpenAI’s feud with mathematicians is only escalating
+
+[原文] Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/) — *TechCrunch*
+
+### 5. One week left to book your exhibit table at TechCrunch Disrupt 2026
 
 [原文] Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/) — *TechCrunch*
-
-### 2. Final, final, final call for TechCrunch Disrupt 2026 Side Events
-
-[原文] The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/) — *TechCrunch*
-
-### 3. Kimi-maker Moonshot AI targets $2B in annual revenue
-
-[原文] While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/) — *TechCrunch*
-
-### 4. Roblox is making it easier to build games with AI — and play them outside Roblox
-
-[原文] At its annual Roblox Developer Conference (RDC), the company announced several new features, including new game-creation tools, expanded NPC capabilities, and the ability to make games available acros
-
-📎 [阅读原文](https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/) — *TechCrunch*
-
-### 5. Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ
-
-[原文] Cerberus, WeGlobal AI, and LOOQ took the top three spots at the regional final of Road to TechCrunch Startup Battlefield 2026 and will represent Central Eurasia in the Startup Battlefield 200 at TechC
-
-📎 [阅读原文](https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/) — *TechCrunch*
 
 ---
 
@@ -142,23 +142,23 @@
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260911003858.htm) — *Science Daily*
 
-### 3. Too much light at night may quietly reshape your heart
+### 3. The secret to longer life may be hidden in bat DNA
+
+[原文] Long-lived bats appear to combine powerful immune defenses with unusual strategies for eliminating damaged cells, potentially helping them avoid cancer and disease for decades. Researchers hope these 
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260911003852.htm) — *Science Daily*
+
+### 4. 66-million-year-old feather in dinosaur poop may reveal why birds survived the asteroid
+
+[原文] A feather discovered inside 66-million-year-old fossilized dinosaur poop may help explain why modern birds survived the asteroid catastrophe. The extinct bird it came from had more primitive insulatin
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260911003849.htm) — *Science Daily*
+
+### 5. Too much light at night may quietly reshape your heart
 
 [原文] Nighttime light exposure was linked to thicker, stiffer heart chambers and early signs of reduced heart function in a study of more than 11,000 people. The findings suggest that keeping bedrooms darke
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260911003847.htm) — *Science Daily*
-
-### 4. Scientists just made quantum computer operations 1,000 times faster
-
-[原文] Researchers have found a way to perform certain quantum operations more than 1,000 times faster, cutting thousands of repeated control cycles down to just one. The advance could reduce errors and brin
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260911003845.htm) — *Science Daily*
-
-### 5. Your next prescription could be treating a side effect from the last one
-
-[原文] A major Ontario study found 24 common medication chains in which one drug’s side effects can be mistaken for a new medical problem, leading to another prescription. Researchers say closer medication r
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260911003843.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Razaullah introduces himself as Pakistan thrive in chaos
+### 1. Zverev through to third Grand Slam final in a row
 
-[原文] Cancel the tee booked at the Belfry, rearrange the trip to Cadbury World and abort the shopping jolly to the Bullring. The reason? Pakistan's debutant Razaullah and Razball.
+[原文] Alexander Zverev beats Karen Khachanov at the US Open to reach a third Grand Slam final in a row and continue his bid for a second major of the year.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/clykzn81n4go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. Razaullah introduces himself as Pakistan thrive in chaos
+
+[原文] Cancel the tee time at the Belfry, rearrange the trip to Cadbury World and abort the shopping jolly to the Bullring - Pakistan's debutant Razaullah lights up Edgbaston to send third Test into fourth d
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c158k8vn7vwo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Ciganda's late sparkle lifts Europe on dramatic opening day of Solheim Cup
+### 3. Like Benzema & as good as Haaland - Alonso on Joao Pedro
+
+[原文] Chelsea manager Xabi Alonso says striker Joao Pedro is similar stylistically to his former Real Madrid team-mate Karim Benzema and is at a comparable level to Manchester City's Erling Haaland.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c1j4z1ry29jo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. Ciganda's late sparkle lifts Europe on dramatic opening day of Solheim Cup
 
 [原文] Carlota Ciganda steals the show after Europe's top pairing of Charley Hull and Lottie Woad fail to ignite on day one of the Solheim Cup against the United States.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/cm2q83edzzlo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. New Madrid circuit very high risk, says Russell
+### 5. Glitzy innovations but Duplantis still wins - new Ultimate Championship begins
 
-[原文] George Russell says the new Madrid circuit is "very high risk" after Arvid Lindblad crashes in Friday practice at the Spanish Grand Prix.
+[原文] The Ultimate Championship is posed as something different in athletics, but some things stay the same - pole vault star Armand Duplantis taking centre stage.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/cew9nr2kx20o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. 'Out of control' - Cook questions England tactics
-
-[原文] England had “no plan” and were “out of control” in the face of Razaullah’s stunning hitting on the third day of the final Test against Pakistan, according to former captain Alastair Cook.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c1kxw9dn29ko?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Benn defies concerns to make weight for Garcia bout
-
-[原文] Conor Benn and Ryan Garcia both comfortably make the welterweight limit for their WBC title fight despite concerns at how they would fare on the scales.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/articles/c4gqj1g5d27o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/c05r94l4j9go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. No, Tom Cruise’s ‘Digger’ Isn’t a Musical
+### 1. Jimmy Kimmel’s Pulled TV Interview With James Talarico Hits 5 Million Views in 24 Hours on YouTube
 
-[原文] Internet sleuths were convinced this week that Tom Cruise’s upcoming movie “Digger” is a secret musical, but unfortunately that isn’t the case. Variety spoke with two sources familiar with the product
+[原文] Jimmy Kimmel&#8217;s pulled TV interview with James Talarico, the Texan Democrat running for the U.S. Senate, has crossed 5 million views in the 24 hours since it was posted to YouTube. It was reveale
 
-📎 [阅读原文](https://variety.com/2026/film/news/tom-cruise-digger-musical-new-trailer-1236859100/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/jimmy-kimmel-james-talarico-interview-youtube-views-1236857569/) — *Variety*
 
-### 2. ‘Beef’ Creator Lee Sung Jin Pitched Charles Melton on the Show Over Dinner: ‘By the Third Appetizer He Said Yes’
+### 2. ‘The Julia Set’ Review: Chase Infiniti Confirms Her Movie-Star Mettle in Niki Byrne’s Riveting Math-Geek Bad Romance
 
-[原文] Gold House celebrated its third annual One House Toast to the Emmys, honoring the achievements of Asian Pacific and multicultural creatives in entertainment. The man of the hour was &#8220;Beef&#8221;
+[原文] In "The Julia Set," she portrays a numbers genius in the most convincing way possible — by wearing her virtuosity lightly and casually, as if it were second nature (which, for someone like Julia, it i
 
-📎 [阅读原文](https://variety.com/2026/scene/news/beef-creator-lee-sung-jin-pitched-charles-melton-over-dinner-1236858820/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/reviews/the-julia-set-review-chase-infiniti-1236858794/) — *Variety*
 
-### 3. Sandra Bullock Rejected ‘Every Pervert’ in Auditions ‘Asking Me to Drop My Pants’ and Stopped Acting in Rom-Coms When ‘I Was Getting So Much S— For Them’
+### 3. Lil Durk Acquitted in Murder-for-Hire Trial
 
-[原文] Sandra Bullock joined her friend and fellow actor Jennifer Aniston for a chat as part of the &#8220;Practical Magic 2&#8221; star&#8217;s Interview magazine cover and revealed that she made the intent
+[原文] A Los Angeles federal jury on Friday found Grammy-winning rapper Lil Durk not guilty of murder-for-hire, conspiracy and stalking resulting in death charges in the 2022 killing of rapper Quando Rondo’s
 
-📎 [阅读原文](https://variety.com/2026/film/news/sandra-bullock-rom-coms-auditioned-perverts-1236855823/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/lil-durk-acquitted-murder-for-hire-trial-1236859311/) — *Variety*
 
-### 4. Court to Hold Paramount-Warner Bros. Settlement Conference in Late October
+### 4. ‘The Uprising’ Star Woody Norman on the ‘Power Trip’ Playing King Richard II and Going Meatless at Age 10 After Working With Joaquin Phoenix
 
-[原文] A court will hold a two-day settlement conference in the Paramount-Warner Bros. antitrust case in late October. The conference is a standard part of civil procedure and does not indicate whether a dea
+[原文] Filming “The Uprising” gave British actor Woody Norman, who plays 14-year-old King Richard II in the historical fiction drama, a massive headache. It turns out the only crown they had for him to use d
 
-📎 [阅读原文](https://variety.com/2026/film/news/paramount-warner-bros-settlement-conference-october-1236859028/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/the-uprising-star-norman-playing-king-richard-ii-going-meatless-age-10-joaquin-phoenix-1236857404/) — *Variety*
 
-### 5. ‘Back to Buenos Aires’ Review: Marco Bechis’ Return to the Screen Covers Similar Ground to Earlier Works but is Only Fitfully Effective
+### 5. Ocean Way Festival Featuring Killers, Olivia Dean and Jack White Is Canceled, as Santa Monica Blames Beach Damage From Hurricane Forces
 
-[原文] The return of Marco Bechis to filmmaking after 10 years is a welcome surprise, and the terrain he covers in “Back to Buenos Aires” is a familiar one for the veteran Chilean-Italian director who himsel
+[原文] Ocean Way is going away, at least for a year. Goldenvoice&#8217;s inaugural Ocean Way Festival, which was scheduled to take place on the beach in Santa Monica Sept. 26-27, has been called off, with ci
 
-📎 [阅读原文](https://variety.com/2026/film/reviews/back-to-buenos-aires-review-1236859052/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/ocean-way-festival-canceled-beach-killers-olivia-dean-1236859293/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Magic: The Gathering’s Newest Legendary Artifact Destroys Whole Universes (and Your Creatures)
+### 1. Save $950 Off the 2.6-Pound Lenovo Yoga 7X Ultra-Slim Laptop With the New Snapdragon X2 Elite Processor
 
-[原文] We've got a first look at two new cards from Reality Fracture.
+[原文] The ultimate ultra-portable laptop for students and professionals on the move.
 
-📎 [阅读原文](https://www.ign.com/articles/magic-the-gatherings-reality-fracture-spoiler-card-reveal) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/lenovo-yoga-slim-7x-ultraportable-laptop-deal-september-2026) — *IGN*
 
-### 2. The 9 Biggest Trailers Worth Watching This Week
-
-[原文] Trailers from two Nintendo Directs, Godzilla Minus Zero, the new Nathan Fielder documentary, Mike Flanagan's Carrie, and more.
-
-📎 [阅读原文](https://www.ign.com/articles/biggest-game-movie-tv-trailers-this-week-sept-5-11) — *IGN*
-
-### 3. Save 50% Off the TP-Link Deco 7 Pro BE10000 Wi-Fi 7 Whole Home Mesh System
-
-[原文] Amazon's best selling WiFi 7 router.
-
-📎 [阅读原文](https://www.ign.com/articles/tp-link-whole-home-mesh-system-wifi-7-router-deal-september-2026) — *IGN*
-
-### 4. Miami Approves 'Discreet' GTA 6 Marketing Campaign So the City Can Fix Its Football Field
-
-[原文] Rockstar Games' Grand Theft Auto 6 is coming to real-life Miami after a city meeting resulted in the approval of a "discreet" – and controversial – marketing campaign.
-
-📎 [阅读原文](https://www.ign.com/articles/miami-approves-discreet-gta-6-marketing-campaign-so-the-city-can-fix-its-football-field) — *IGN*
-
-### 5. The Long Game: 4 Tactics to Master Early in Star Wars Zero Company
+### 2. Brandon Sanderson's Mistborn Expansion for the Cosmere RPG Is Up for Preorder at Amazon
 
 暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/the-long-game-4-tactics-to-master-early-in-star-wars-zero-company) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/mistborn-cosmere-rpg-expansion-where-to-buy) — *IGN*
+
+### 3. GTA 6 Reviews Plague Real-Life Nudist Resort After Fans Draw Comparisons to Leaks
+
+[原文] GTA 6 fans believe its nudist resort was inspired by a real-life location, and its owners are already being bombarded with problematic reviews.
+
+📎 [阅读原文](https://www.ign.com/articles/gta-6-reviews-plague-real-life-nudist-resort-after-fans-draw-comparisons-to-leaks) — *IGN*
+
+### 4. Save 45% Off Citizen's Star Wars Themed Eco-Drive Chronograph Men's Watches
+
+[原文] The Force is strong with these ones.
+
+📎 [阅读原文](https://www.ign.com/articles/citizens-star-wars-eco-drive-chronograph-mens-watch-deals) — *IGN*
+
+### 5. Alienware Just Released the World's First 39" 5K Monitor With RGB Stripe Tandem OLED Technology
+
+[原文] The best monitor for both gaming and workstation productivity is now shipping.
+
+📎 [阅读原文](https://www.ign.com/articles/alienware-aw3926qw-39-5k-oled-gaming-monitor-is-now-available) — *IGN*
 
 ---
 
@@ -362,35 +362,35 @@ The post Genius: Guy Turns Highway Traffic Cam Into a Musical Synth, and It&#
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. A Texas LNG Plant Pumps Out Chronic, Unpermitted Pollution, a Watchdog Finds
+### 1. Court Rules Against Trump Order to Keep Costly Michigan Coal Plant Running
+
+[原文] A federal appeals court has struck down the Trump administration’s use of emergency powers to require a coal-fired power plant in Michigan to remain open, ruling that the U.S. Department of Energy exc
+
+📎 [阅读原文](https://insideclimatenews.org/news/11092026/court-rules-against-trump-order-to-keep-costly-michigan-coal-plant-running/) — *Inside Climate News*
+
+### 2. 25 Years After 9/11, the Health Toll Is Still Unfolding
+
+[原文] New York City Mayor Zohran Mamdani released a trove of documents this week that shed new light on the air quality around the World Trade Center after the September 11 terrorist attacks. Some of these 
+
+📎 [阅读原文](https://insideclimatenews.org/news/11092026/9-11-health-toll-still-unfolding/) — *Inside Climate News*
+
+### 3. The Trump Administration Wants to Fast-Track Arctic Drilling
+
+[原文] The Trump administration is moving to accelerate oil and gas drilling across the Western Arctic with a new proposal that would slash environmental review and public input.&#160; The proposal could bri
+
+📎 [阅读原文](https://insideclimatenews.org/news/11092026/the-trump-administration-wants-to-fast-track-arctic-drilling/) — *Inside Climate News*
+
+### 4. A Texas LNG Plant Pumps Out Chronic, Unpermitted Pollution, a Watchdog Finds
 
 [原文] A gas export terminal on the Gulf Coast of Texas has routinely violated air pollution permits for years with little consequences from state regulators, according to a report released this week by Oilf
 
 📎 [阅读原文](https://insideclimatenews.org/news/11092026/texas-freeport-lng-unpermitted-pollution/) — *Inside Climate News*
 
-### 2. Data Center Boom Brings Health Hazards, Former EPA Officials Warn
+### 5. Data Center Boom Brings Health Hazards, Former EPA Officials Warn
 
 [原文] The artificial intelligence boom poses serious health risks while the Trump administration is dismantling crucial safeguards designed to protect the public, according to former officials at the federa
 
 📎 [阅读原文](https://insideclimatenews.org/news/11092026/data-center-boom-fossil-fuel-expansion-health-hazards/) — *Inside Climate News*
-
-### 3. Meet the Mechanical Engineer Running to Regulate the Texas Oil and Gas Industry
-
-[原文] Jon Rosenthal, a Democratic state representative from Houston, is facing off against Bo French, a far-right Republican culture warrior from Fort Worth, for a seat on the commission that regulates the 
-
-📎 [阅读原文](https://insideclimatenews.org/news/11092026/democrat-jon-rosenthal-runs-to-regulate-texas-oil-gas-industry/) — *Inside Climate News*
-
-### 4. Coral Reefs Can Recover But Relentless Marine Heat Waves Won’t Let Them
-
-[原文] In 1998, unusually hot ocean temperatures stressed corals worldwide, causing them to expel the microalgae living within their tissues that normally nourish the tiny animals and give them color. Over t
-
-📎 [阅读原文](https://insideclimatenews.org/news/11092026/marine-heat-waves-drive-coral-decline/) — *Inside Climate News*
-
-### 5. How Grassroots Opposition to a New Asphalt Plant Was Infiltrated by an Outside Operative
-
-[原文] CLEMMONS, N.C.—The man came out of nowhere, but he seemed to be on their side.&#160; Dozens of residents of Clemmons, a small village south of Winston-Salem, were alarmed about a proposed asphalt plan
-
-📎 [阅读原文](https://insideclimatenews.org/news/11092026/nc-asphalt-plant-opposition-infiltrated-by-outside-operative/) — *Inside Climate News*
 
 ---
 
@@ -438,35 +438,35 @@ The post Genius: Guy Turns Highway Traffic Cam Into a Musical Synth, and It&#
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. X-Ray Spex, the Raincoats, the Slits Members Form Supergroup for London Punk Festival
+### 1. Pink Responds to Fallout After Sharing Post Criticizing Macklemore’s Speech on Palestine
 
-[原文] The event will celebrate 50 years of She-Punk with artwork, photography, fashion, and archival material from pioneers
+[原文] Pink addressed the backlash she received after reposting a call for Macklemore to apologize following his statements on stage
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/london-festival-god-save-the-queens-50-years-of-she-punk-1235625261/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/pink-responds-backlash-macklemore-palestine-post-1235625662/) — *Rolling Stone*
 
-### 2. Brent Hinds’ Estate Sues Mastodon Over Late Guitarist’s Share of Band
+### 2. Ocean Way Festival in Santa Monica Cancels Inaugural Event Due to Hurricane Marie
 
-[原文] Lawsuit claims band offered $80,000 to buy out Hinds’ stake, and that new album Marrow Deep’s cover features illustration of Hinds without permission
+[原文] Organizers said that storm surf and runoff caused significant beach erosion, making it no longer safe for the fest to continue
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/brent-hinds-estate-lawsuit-mastodon-1235625314/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/ocean-way-festival-cancels-inaugural-event-hurricane-marie-1235625706/) — *Rolling Stone*
 
-### 3. Quavo Previews New Album ‘Qrömelife’ With T.I.-Assisted Single ‘Backwards’
+### 3. Lil Durk Acquitted of All Charges at Trial Over Shooting That Killed Quando Rondo’s Cousin
 
-[原文] The record, out Oct. 2, is executive produced by Pharrell Williams, who helmed the recent single “Haavin”
+[原文] The Grammy-winning rapper was found not guilty of conspiracy, stalking resulting in death, and murder for hire and broke down crying as the verdict was read
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/quavo-announces-new-album-qromelife-1235625210/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/lil-durk-verdict-quando-rondo-conspiracy-trial-akademiks-1235622493/) — *Rolling Stone*
 
-### 4. Hear My Morning Jacket, Preservation Hall Jazz Band Cover Neil Young’s ‘Like a Hurricane’
+### 4. Sam Smith, Normani Copyright Case Likely Headed for Trial As Judge Signals No Dismissal
 
-[原文] Song appears on Heart of Gold: The Songs of Neil Young, Vol. 2 - Out of the Blue, out this fall with Vol. 3
+[原文] A federal judge said Friday he was leaning toward denying a summary judgment bid and sending the copyright battle over the multi-platinum hit “Dancing With a Stranger” to trial
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/my-morning-jacket-neil-young-like-a-hurricane-1235620798/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/sam-smith-normani-copyright-case-judge-signals-no-dismissal-1235625637/) — *Rolling Stone*
 
-### 5. Def Leppard Is Getting an Authorized Documentary Next Year
+### 5. Samsung Asks Judge to Dismiss Dua Lipa’s $15 Million Lawsuit Over Unauthorized Image Usage
 
-[原文] Band’s journey from Sheffield, England schoolmates to Rock and Roll Hall of Fame inductees will be focus of ‘Long Live Def Leppard’
+[原文] Lawyers for the company argued the appearance of the singer's image on a television box contains "nothing suggesting plaintiff endorses the televisions"
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/long-live-def-leppard-authorized-documentary-2027-1235625190/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/dua-lipa-samsung-lawsuit-request-dismiss-case-1235625545/) — *Rolling Stone*
 
 ---
 
@@ -527,6 +527,7 @@ The post Genius: Guy Turns Highway Traffic Cam Into a Musical Synth, and It&#
 ## ⚠️ 今日故障源
 
 - **🚗 汽车**: Autocar
+- **📚 教育**: Campus Technology
 
 ---
 
