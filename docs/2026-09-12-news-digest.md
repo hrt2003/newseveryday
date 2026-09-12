@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月12日** | 生成时间: 2026-09-12 18:21
+**2026年09月12日** | 生成时间: 2026-09-12 23:16
 
 ---
 
@@ -22,29 +22,29 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. US and Ireland's relationship 'stronger than ever'
+### 2. A united Ireland would be 'fantastic' says Trump during Irish visit
 
-[原文] Trump is holding meetings in Dublin before attending the Irish Open golf tournament in Doonbeg, County Clare.
+[原文] Trump made the comments during a meeting with Irish leader Micheál Martin, but Downing Street says it will "stick to the Good Friday Agreement".
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Tragic death of woman who testified against father in notorious mafia murder of mother
+### 3. French officials investigate if malicious act caused train derailment
 
-[原文] Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy.
+[原文] Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. 'Never, ever forget' - America marks 25th anniversary of 9/11 attacks
+### 4. Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC
 
-[原文] In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary.
+[原文] A senior UN official tells the BBC there is a race against the clock to ensure access to power and water through winter.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Death toll from Philippines ferry fire climbs to 35, with dozens still missing
+### 5. 'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders
 
-[原文] Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.
+[原文] The authorities have struggled to contain the fallout, as frightened migrants flee the country.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -72,17 +72,17 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/11/saudi-arabia-shut-down-east-west-crude-oil-pipeline.html) — *CNBC*
 
-### 4. Trump's America-first world is pushing other powers to hedge their bets
+### 4. Oil's roundtrip back to $100. Why China could determine what happens next
 
-[原文] Xi, Putin and Modi meet in New Delhi as U.S. tariffs, sanctions and the Iran war test whether BRICS members can find more common ground.
+[原文] The U.S. crude oil price on Thursday topped $102 per barrel for its highest close since May.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/12/brics-summit-xi-putin-modi-trump.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/12/oils-roundtrip-back-to-100-why-china-could-determine-what-happens-next.html) — *CNBC*
 
-### 5. I went to Caracas for Venezuela’s new oil deals. Here’s what stood out
+### 5. Trump sees Iran war ending soon after mid-term elections, predicts oil prices will then fall sharply
 
-[原文] CNBC was one of just a handful of news organizations allowed to travel to Caracas with the U.S. secretary of energy.
+[原文] Oil prices retreated on Friday on hopes of a resumptions in negotiations, but notched sharp weekly gains after soaring above $100 a barrel.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/11/the-inside-story-on-the-historic-us-venezuela-oil-deal-and-how-it-will-work.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/12/trump-sees-iran-war-ending-very-soon-oil-prices-then-falling.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data
+### 1. Revolut confirms customer data breach through fake government requests
+
+[原文] Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/) — *TechCrunch*
+
+### 2. Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data
 
 [原文] The round for the two-year-old startup is coming together months after Mecka announced its Series A.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/) — *TechCrunch*
 
-### 2. Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road
+### 3. Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road
 
 [原文] "It's actually allegedly being built out now," said Rabois, who has clearly dealt with a missed construction timeline or two.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/) — *TechCrunch*
 
-### 3. Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too
+### 4. Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too
 
 [原文] Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/) — *TechCrunch*
 
-### 4. OpenAI’s feud with mathematicians is only escalating
+### 5. OpenAI’s feud with mathematicians is only escalating
 
 [原文] Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/) — *TechCrunch*
-
-### 5. One week left to book your exhibit table at TechCrunch Disrupt 2026
-
-[原文] Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/) — *TechCrunch*
 
 ---
 
@@ -130,35 +130,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Wasps are disappearing this summer, and scientists are worried
+### 1. Who really needs a heart calcium scan?
+
+[原文] A 10-year study of more than 6,000 adults found that popular coronary calcium scans may add little to standard heart disease risk estimates for many people. But for patients with borderline or interme
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260911214254.htm) — *Science Daily*
+
+### 2. Tiny sound waves could help solve a major quantum computing problem
+
+[原文] Researchers at Harvard have demonstrated a way to protect quantum information using microscopic sound waves. By continuously surrounding a diamond-based qubit with mechanical vibrations, they extended
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260911214245.htm) — *Science Daily*
+
+### 3. Scientists find Ozempic may slow aging itself
+
+[原文] Semaglutide helped older healthy mice live longer while improving memory, muscle function, blood sugar control, and several biological signs of aging. Its effects went beyond those seen with calorie r
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260911214238.htm) — *Science Daily*
+
+### 4. Researchers find a Wordle strategy that wins 99% of the time
+
+[原文] Researchers at Binghamton University have developed a mathematical strategy that can solve Wordle with a 99% success rate. Instead of simply guessing words packed with common letters or choosing the m
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260911204910.htm) — *Science Daily*
+
+### 5. Wasps are disappearing this summer, and scientists are worried
 
 [原文] Britain’s wasps have become mysteriously scarce this summer, and scientists suspect an unusual combination of temperature swings, heatwaves, and food shortages may be responsible. Even the wasps that 
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260911003901.htm) — *Science Daily*
-
-### 2. Tiny nanolaser could cut computer energy use in half
-
-[原文] Scientists have created an ultra-small nanolaser that could eventually allow microchips to transmit information with light instead of electricity, potentially making computers faster while cutting ene
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260911003858.htm) — *Science Daily*
-
-### 3. The secret to longer life may be hidden in bat DNA
-
-[原文] Long-lived bats appear to combine powerful immune defenses with unusual strategies for eliminating damaged cells, potentially helping them avoid cancer and disease for decades. Researchers hope these 
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260911003852.htm) — *Science Daily*
-
-### 4. 66-million-year-old feather in dinosaur poop may reveal why birds survived the asteroid
-
-[原文] A feather discovered inside 66-million-year-old fossilized dinosaur poop may help explain why modern birds survived the asteroid catastrophe. The extinct bird it came from had more primitive insulatin
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260911003849.htm) — *Science Daily*
-
-### 5. Too much light at night may quietly reshape your heart
-
-[原文] Nighttime light exposure was linked to thicker, stiffer heart chambers and early signs of reduced heart function in a study of more than 11,000 people. The findings suggest that keeping bedrooms darke
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260911003847.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Signed instead of Rashford, Gordon is proving worth at Barca
+### 1. England in better place than start of summer - Root
 
-[原文] Anthony Gordon's £70m move to Barcelona was questioned by some - but the England winger is already proving his worth for the free-scoring Spanish giants.
+[原文] Captain Joe Root says England are in a better place at the end of their tumultuous summer and is impressed by how they have handled the chaos.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cgk5n3xpkv2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c0klpz5k383o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. 'Red rag to a bull' - Sabalenka's extra motivation to win US Open
+### 2. Osborne becomes first female jockey to win St Leger
 
-[原文] Aryna Sabalenka has lost the world number one ranking to Elena Rybakina - but has the chance to take revenge in the US Open final.
+[原文] Saffie Osborne makes history as the first female jockey to win a British Classic Flat race, claiming victory in the St Leger on Highwayman.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cly59yjl5d5o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/horse-racing/articles/clykz8n7zd7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Garcia v Benn - welterweight world title fight predictions
+### 3. Ingebrigtsen withdraws from 1500m showdown with Kerr
 
-[原文] Figures from the boxing world give their predictions for Saturday's WBC welterweight world title fight between Ryan Garcia and Briton Conor Benn.
+[原文] Jakob Ingebrigtsen will not contest the men's 1500m final at the World Athletics Ultimate Championship, putting his reunion with rival Josh Kerr on hold.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/articles/cje8y84wd1no?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/clykzvnv686o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. 'A legacy' at 26 - how Hemp has grown at Man City
+### 4. England survive scare to sweep Pakistan series
 
-[原文] Manchester City forward Lauren Hemp has already achieved more than most footballers at the age of 26.
+[原文] England survive an almighty scare to eventually win the third Test against Pakistan by eight wickets and complete a 3-0 clean sweep.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cj4je2eveewo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c770z1j5l0ko?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. American Shelton to face Zverev in US Open final
+### 5. Root and Cox to the rescue as England beat Pakistan in third Test
 
-[原文] Ben Shelton powers past Frances Tiafoe in an all-American US Open semi-final to earn a spot in Sunday's final against number one seed Alexander Zverev.
+[原文] Captain Joe Root and Jordan Cox help England fight back from an early scare as the hosts recover from 2-2, to successfully chase down 130 and wrap up an eight-wicket win and a 3-0 series clean sweep a
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/clykzn81n4go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/videos/cge4qr13r7do?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Gary Oldman Predicts HBO’s ‘Harry Potter’ Series Will Be ‘More Satisfying’ for Fans Than the Movies
+### 1. Antonio Banderas, Trudie Styler and Eva Birthistle on the Sorrow and Joy of TIFF Medical Dramedy ‘Up Against It’
 
-[原文] Gary Oldman, who played Sirius Black in four &#8220;Harry Potter&#8221; movies, said he believes HBO&#8217;s forthcoming TV series adaptation set in the Wizarding World will be a bigger crowd-pleaser 
+[原文] When it comes to “Up Against It,” a TIFF title premiering Sept. 12, director Trudie Styler says, “I know this story like the back of my hand.” She means that doubly. Not merely had she been mulling wh
 
-📎 [阅读原文](https://variety.com/2026/tv/news/gary-oldman-hbo-harry-potter-series-more-satisfying-than-movies-1236859390/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/features/antonio-banderas-trudie-styler-eva-birthistle-up-against-it-1236856456/) — *Variety*
 
-### 2. Paramount Argues States’ Antitrust Suit Will ‘Collapse Under Scrutiny’
+### 2. Menswear Designer Todd Snyder on His Brand’s 15th Anniversary and Having Ryan Gosling and Matt Bomer as His First Celebrity Customers
 
-[原文] Paramount&#8217;s lawyers filed a legal response to the states&#8217; antitrust lawsuit against the Warner Bros. Discovery merger on Friday, sketching out arguments and defenses it may use at a trial 
+[原文] Fashion designer Todd Snyder remembers the first time he learned a celebrity was a fan of his work. It was 2013, just two years after he launched his eponymous menswear brand following career-making t
 
-📎 [阅读原文](https://variety.com/2026/film/news/paramount-answer-antitrust-case-1236859363/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/columns/menswear-designer-todd-snyder-15th-anniversary-ryan-gosling-matt-bomer-celebrity-customer-fashion-1236857360/) — *Variety*
 
-### 3. Jimmy Kimmel’s Pulled TV Interview With James Talarico Hits 5 Million Views in 24 Hours on YouTube
+### 3. ‘Family Stone 2’ Gets Official Title ‘The Families Stone’ and Sets Cast: Rachel McAdams, Sarah Jessica Parker and More Returning
 
-[原文] Jimmy Kimmel&#8217;s pulled TV interview with James Talarico, the Texan Democrat running for the U.S. Senate, has crossed 5 million views in the 24 hours since it was posted to YouTube. It was reveale
+[原文] Searchlight has officially announced &#8220;The Family Stone 2,&#8221; a sequel to the 2005 holiday classic from returning writer and director Tom Bezucha. The follow-up is officially titled &#8220;Th
 
-📎 [阅读原文](https://variety.com/2026/tv/news/jimmy-kimmel-james-talarico-interview-youtube-views-1236857569/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/family-stone-2-title-cast-rachel-mcadams-sarah-jessica-parker-1236856900/) — *Variety*
 
-### 4. ‘The Julia Set’ Review: Chase Infiniti Confirms Her Movie-Star Mettle in Niki Byrne’s Riveting Math-Geek Bad Romance
+### 4. Sarah Paulson Has Waited Forever for a Movie Like ‘Closing Night’: ‘I Wasn’t This Hot, Young Nubile Thing’
 
-[原文] In "The Julia Set," she portrays a numbers genius in the most convincing way possible — by wearing her virtuosity lightly and casually, as if it were second nature (which, for someone like Julia, it i
+[原文] It didn’t make sense. For her spellbinding portrait of Marcia Clark in “The People v. O.J. Simpson: American Crime Story,” Sarah Paulson had won every major award —the first actor in history to do so 
 
-📎 [阅读原文](https://variety.com/2026/film/reviews/the-julia-set-review-chase-infiniti-1236858794/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/features/sarah-paulson-closing-night-tiff-oscar-ryan-murphy-pedro-pascal-american-horror-story-1236859369/) — *Variety*
 
-### 5. Lil Durk Acquitted in Murder-for-Hire Trial
+### 5. Taiwan Strengthens Global Co-Production Presence at Toronto Film Festival With ‘Happily Ever After,’ ‘The Age of Goodbyes’ and ‘Arrested Memory‘
 
-[原文] A Los Angeles federal jury on Friday found Grammy-winning rapper Lil Durk not guilty of murder-for-hire, conspiracy and stalking resulting in death charges in the 2022 killing of rapper Quando Rondo’s
+[原文] A strong lineup from Taiwan hits the Toronto Intl. Film Festival, with two world premieres in the special presentations strand, a Taiwan-Japan genre title in Midnight Madness, virtual reality, market 
 
-📎 [阅读原文](https://variety.com/2026/music/news/lil-durk-acquitted-murder-for-hire-trial-1236859311/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/focus/taiwan-co-production-tiff-1236844426/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Planet Zoo 2 Puts You Right Down into the Wild With Your Animals | IGN Preview
+### 1. Dragon Quest Monsters: The Withered World Has 500 Beasts to Collect, and They're All Super Weird | IGN Preview
 
-[原文] It wasn't realistic to get a full picture of Planet Zoo 2 from the short time I had with it in this first hands-on, especially when it comes to the business tycoon side, but I'm pretty optimistic over
+[原文] So far, Dragon Quest Monsters: The Withered World is shaping up to be another solid and charming entry in the sub-series. The monster-collecting style of RPG is a fairly crowded market these days, but
 
-📎 [阅读原文](https://www.ign.com/articles/planet-zoo-2-puts-you-right-down-into-the-wild-with-your-animals-ign-preview) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/dragon-quest-monsters-the-withered-world-has-500-beasts-to-collect-and-theyre-all-super-weird-ign-preview) — *IGN*
 
-### 2. Wolverine Developer Insomniac Says Logan's Scent Trail Isn't Always on Amid 'Fart Gas' Toggle Requests
+### 2. Is Lanterns Hiding a Major Batman Connection?
 
-[原文] A debate over “fart gas” has emerged around PlayStation 5 exclusive Marvel’s Wolverine, with some people calling for developer Insomniac to add the ability to disable Logan’s scent trail entirely from
+[原文] We may have yet to meet Batman in the DCU, but one character on Lanterns seemingly shares a major connection to the Dark Knight.
 
-📎 [阅读原文](https://www.ign.com/articles/wolverine-developer-insomniac-says-logans-scent-trail-isnt-always-on-amid-fart-gas-toggle-requests) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/dcu-lanterns-batman-connection-explained) — *IGN*
 
-### 3. Save $950 Off the 2.6-Pound Lenovo Yoga 7X Ultra-Slim Laptop With the New Snapdragon X2 Elite Processor
+### 3. God Save Birmingham New Preview: This Medieval Zombie Apocalypse Is Steadily Finding Its Vision
 
-[原文] The ultimate ultra-portable laptop for students and professionals on the move.
+[原文] The developers at Ocean Drive Studios, Inc. have a great concept here, there’s no question. While I found the early builds somewhat uninteresting in execution, the latest build offers a better tone an
 
-📎 [阅读原文](https://www.ign.com/articles/lenovo-yoga-slim-7x-ultraportable-laptop-deal-september-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/god-save-birmingham-new-preview-this-medieval-zombie-apocalypse-is-steadily-finding-its-vision) — *IGN*
 
-### 4. Brandon Sanderson's Mistborn Expansion for the Cosmere RPG Is Up for Preorder at Amazon
+### 4. How a VFX Controversy Propelled the Strange Journey of Na Hong-Jin's Sci-Fi Blockbuster Hope
+
+[原文] Ten years after The Wailing, director Na Hong-jin has returned with a wild alien movie that's been marketed to every corner of film fandom — and the effort is paying off.
+
+📎 [阅读原文](https://www.ign.com/articles/how-a-vfx-controversy-propelled-the-strange-journey-of-na-hong-jins-sci-fi-blockbuster-hope) — *IGN*
+
+### 5. Zeverland Game Designer Discusses Its Unique Take on the Zombie Apocalypse
 
 暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/mistborn-cosmere-rpg-expansion-where-to-buy) — *IGN*
-
-### 5. GTA 6 Reviews Plague Real-Life Nudist Resort After Fans Draw Comparisons to Leaks
-
-[原文] GTA 6 fans believe its nudist resort was inspired by a real-life location, and its owners are already being bombarded with problematic reviews.
-
-📎 [阅读原文](https://www.ign.com/articles/gta-6-reviews-plague-real-life-nudist-resort-after-fans-draw-comparisons-to-leaks) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/zeverland-game-designer-discusses-its-unique-take-on-the-zombie-apocalypse) — *IGN*
 
 ---
 
@@ -320,39 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Shop Honors Its Retired Dyno After Thousands of High-HP Pulls With This Touching Tribute
+### 1. Someone Put 234,000 Miles on a Ford F-150 Lightning. Now It’s Time for a New Battery
+
+[原文] That's a solid tally, and judging by the truck's body damage, they weren't easy miles.
+The post Someone Put 234,000 Miles on a Ford F-150 Lightning. Now It&#8217;s Time for a New Battery appeared firs
+
+📎 [阅读原文](https://www.thedrive.com/news/someone-put-234000-miles-on-a-ford-f-150-lightning-now-its-time-for-a-new-battery) — *The Drive*
+
+### 2. Google Maps Is Now Terrible: Explained
+
+[原文] The more people who are using GPS, the more useless it becomes for speeding up your trip. And there's no good answer to this problem.
+The post Google Maps Is Now Terrible: Explained appeared first on 
+
+📎 [阅读原文](https://www.thedrive.com/news/google-maps-is-now-terrible-explained) — *The Drive*
+
+### 3. Shop Honors Its Retired Dyno After Thousands of High-HP Pulls With This Touching Tribute
 
 [原文] It's like losing a lifelong friend, or putting an old horse out to pasture.
 The post Shop Honors Its Retired Dyno After Thousands of High-HP Pulls With This Touching Tribute appeared first on The Driv
 
 📎 [阅读原文](https://www.thedrive.com/news/shop-honors-its-retired-dyno-after-thousands-of-high-hp-pulls-with-this-touching-tribute) — *The Drive*
 
-### 2. A Ferrari F355 Arcade Game Sold for $18,000 and I Think I Know Why
+### 4. A Ferrari F355 Arcade Game Sold for $18,000 and I Think I Know Why
 
 [原文] Cars can take us back to a simpler time, and games have their own way of doing that.
 The post A Ferrari F355 Arcade Game Sold for $18,000 and I Think I Know Why appeared first on The Drive.
 
 📎 [阅读原文](https://www.thedrive.com/news/a-ferrari-f355-arcade-game-sold-for-18000-and-i-think-i-know-why) — *The Drive*
 
-### 3. People Are Going Crazy Over This Chevy Camaro Sedan Spy Shot. Too Bad It’s Fake
+### 5. People Are Going Crazy Over This Chevy Camaro Sedan Spy Shot. Too Bad It’s Fake
 
 [原文] Don't get too worked up over this supposed four-door Chevy Camaro test mule. It's as fake as it gets.
 The post People Are Going Crazy Over This Chevy Camaro Sedan Spy Shot. Too Bad It&#8217;s Fake app
 
 📎 [阅读原文](https://www.thedrive.com/news/that-viral-four-door-chevy-camaro-prototype-pic-is-a-fake) — *The Drive*
-
-### 4. Genius: Guy Turns Highway Traffic Cam Into a Musical Synth, and It’s Strangely Beautiful
-
-[原文] The program treats the freeway's five lanes like a musical staff, and a note plays every time a car crosses a fixed point.
-The post Genius: Guy Turns Highway Traffic Cam Into a Musical Synth, and It&#
-
-📎 [阅读原文](https://www.thedrive.com/news/guys-genius-idea-turns-highway-traffic-cam-into-a-musical-synth-and-its-strangely-beautiful) — *The Drive*
-
-### 5. 2026 Porsche 911 Turbo S Cabrio Review: ‘I Felt My Brain Shift’
-
-[原文] The Porsche 911 Turbo S Cab is, in many ways, the perfect daily. It's comfortable, luxurious, and fun to drive. But with 701 hp and a 0-60 time of just 2.4 seconds, it's also violent, as one of my pas
-
-📎 [阅读原文](https://www.thedrive.com/car-reviews/2026-porsche-911-turbo-s-review) — *The Drive*
 
 ---
 
@@ -438,35 +439,35 @@ The post Genius: Guy Turns Highway Traffic Cam Into a Musical Synth, and It&#
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Pink Responds to Fallout After Sharing Post Criticizing Macklemore’s Speech on Palestine
+### 1. Lady Gaga Welcomes First Baby With Fiancé Michael Polansky: Reports
+
+[原文] After the couple was spotted in Northern California with a child, multiple sources confirmed Baby Gaga
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/lady-gaga-welcomes-first-baby-michael-polansky-reports-1235625783/) — *Rolling Stone*
+
+### 2. Pink Responds to Fallout After Sharing Post Criticizing Macklemore’s Speech on Palestine
 
 [原文] Pink addressed the backlash she received after reposting a call for Macklemore to apologize following his statements on stage
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/pink-responds-backlash-macklemore-palestine-post-1235625662/) — *Rolling Stone*
 
-### 2. Ocean Way Festival in Santa Monica Cancels Inaugural Event Due to Hurricane Marie
+### 3. Ocean Way Festival in Santa Monica Cancels Inaugural Event Due to Hurricane Marie
 
 [原文] Organizers said that storm surf and runoff caused significant beach erosion, making it no longer safe for the fest to continue
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/ocean-way-festival-cancels-inaugural-event-hurricane-marie-1235625706/) — *Rolling Stone*
 
-### 3. Lil Durk Acquitted of All Charges at Trial Over Shooting That Killed Quando Rondo’s Cousin
+### 4. Lil Durk Acquitted of All Charges at Trial Over Shooting That Killed Quando Rondo’s Cousin
 
 [原文] The Grammy-winning rapper was found not guilty of conspiracy, stalking resulting in death, and murder for hire and broke down crying as the verdict was read
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/lil-durk-verdict-quando-rondo-conspiracy-trial-akademiks-1235622493/) — *Rolling Stone*
 
-### 4. Sam Smith, Normani Copyright Case Likely Headed for Trial As Judge Signals No Dismissal
+### 5. Sam Smith, Normani Copyright Case Likely Headed for Trial As Judge Signals No Dismissal
 
 [原文] A federal judge said Friday he was leaning toward denying a summary judgment bid and sending the copyright battle over the multi-platinum hit “Dancing With a Stranger” to trial
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/sam-smith-normani-copyright-case-judge-signals-no-dismissal-1235625637/) — *Rolling Stone*
-
-### 5. Samsung Asks Judge to Dismiss Dua Lipa’s $15 Million Lawsuit Over Unauthorized Image Usage
-
-[原文] Lawyers for the company argued the appearance of the singer's image on a television box contains "nothing suggesting plaintiff endorses the televisions"
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/dua-lipa-samsung-lawsuit-request-dismiss-case-1235625545/) — *Rolling Stone*
 
 ---
 
