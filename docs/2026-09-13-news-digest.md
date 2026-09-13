@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月13日** | 生成时间: 2026-09-13 19:22
+**2026年09月13日** | 生成时间: 2026-09-13 23:52
 
 ---
 
@@ -22,29 +22,29 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Six dead, 107 rescued from Indonesian ferry that went missing in Java Sea
+### 2. Iran war reshapes Brics ties but also exposes divisions
 
-[原文] Ships and helicopters are searching for the remaining 130 missing people from the Virgo Transport 8 ship, which had encountered bad weather.
+[原文] Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. Six dead, 130 missing after Indonesian ferry capsizes in Java Sea
+
+[原文] Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Trump's comments on a united Ireland may have targeted audience across the Atlantic
+### 4. Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists
 
-[原文] Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.
+[原文] Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. They lost their jobs after posting about Charlie Kirk, but some have no regrets
+### 5. Trump doubles down on united Ireland comments on day two of visit
 
-[原文] Some people fired in the wake of Kirk's assassination have won big settlements from employers, others have had to start over from scratch.
+[原文] The US president was speaking at the Irish Open on Sunday and said "many people agree" with his comments.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Russians seek answers over hundreds missing after Ukraine's 2024 incursion
-
-[原文] Officials say more than 300 Russians remain missing after the 2024 Kursk offensive, but no-one really knows the true figure.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast
+### 1. Anthropic's Amodei says China presents 'toughest dilemma' for his proposed AI slowdown
 
-[原文] Altman's IPO comments and Amodei's public call for more careful pacing of AI development cap a week of loud AI warnings.
+[原文] OpenAI CEO Sam Altman, Demis Hassabis, the chair of Google DeepMind, and Elon Musk have all welcomed Amodei's proposal.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/13/china-dilemma-ai-slowdown-anthropic.html) — *CNBC*
 
-### 2. Larry Ellison nixes plan to offload up to $7.5 billion worth of Oracle stock
+### 2. Vessel struck in Strait of Hormuz, UKMTO says, as prospects for U.S.-Iran diplomacy appear elusive
+
+[原文] The latest strike happened ahead of an expected meeting between Iranian and Gulf officials in Oman to sign an agreement for shipping through the strait.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/13/vessel-struck-strait-of-hormuz-ukmto.html) — *CNBC*
+
+### 3. NFL and midterm elections set up prediction markets for a critical fall season
+
+[原文] The 2025 football season and 2024 presidential election pushed prediction markets into the prominence they enjoy today.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/13/nfl-and-midterms-mark-key-fall-season-for-prediction-markets.html) — *CNBC*
+
+### 4. Larry Ellison nixes plan to offload up to $7.5 billion worth of Oracle stock
 
 [原文] Oracle founder Larry Ellison has canceled his plan to sell up to $7.5 billion worth of stock in the software company.
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/12/larry-ellison-nixes-plan-to-offload-up-to-7point5-billion-worth-of-oracle-stock-.html) — *CNBC*
 
-### 3. China's Xi urges BRICS nations to work towards peace in the Middle East
-
-[原文] China, Iran's biggest trading partner and a key customer of Tehran's energy exports, is willing to work with BRICS towards peace in the region, Xi said.
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/13/chinas-xi-urges-brics-peace-middle-east.html) — *CNBC*
-
-### 4. Xi says China will take lead to foster AI, tech cooperation among BRICS countries
+### 5. Xi says China will take lead to foster AI, tech cooperation among BRICS countries
 
 [原文] China will take the lead to help foster artificial-intelligence collaboration and development among developing-economy countries, President Xi Jinping said.
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/13/china-xi-ai-tech-brics.html) — *CNBC*
-
-### 5. Indian Prime Minister Modi says border peace is key to India-China ties
-
-[原文] Indian Prime Minister Narendra Modi and Chinese President Xi Jinping addressed concerns around border dispute and the trade imbalance.
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/12/india-china-modi-xi-brics-border.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Automattic confirms Mullenweg has returned as CEO after attempted ouster by board
+### 1. Fusion power startups find new partners in the defense world
+
+[原文] Fusion startups are inking defense-related deals, reigniting the relationship between fusion and national security that might have gone dormant, but never completely disappeared.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/) — *TechCrunch*
+
+### 2. Automattic confirms Mullenweg has returned as CEO after attempted ouster by board
 
 [原文] Automattic says Mullenweg is back as "chairman and CEO of Automattic, with full support of the board."
 
 📎 [阅读原文](https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/) — *TechCrunch*
 
-### 2. OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026
+### 3. OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026
 
 [原文] While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/) — *TechCrunch*
 
-### 3. Anthropic CEO outlines plan to slow AI development
+### 4. Anthropic CEO outlines plan to slow AI development
 
 [原文] Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to "pace the frontier." What would that actually look like?
 
 📎 [阅读原文](https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/) — *TechCrunch*
 
-### 4. Tesla says it will finally unveil the second generation Roadster on October 1
+### 5. Tesla says it will finally unveil the second generation Roadster on October 1
 
 [原文] Tesla’s halo sports car was first announced in November 2017.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/) — *TechCrunch*
-
-### 5. Revolut confirms customer data breach through fake government requests
-
-[原文] Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/) — *TechCrunch*
 
 ---
 
@@ -130,35 +130,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Venus’s pale yellow clouds may hide something surprisingly dark
+### 1. AI uncovers hidden Ozempic side effects across 400,000 Reddit posts
 
-[原文] A century-old mystery in Venus’s clouds just became more intriguing, as scientists calculated how strongly the unidentified material behind its dark ultraviolet patterns must absorb light. The results
+[原文] AI analysis of 400,000 Reddit posts found that users of drugs such as Ozempic, Wegovy, Mounjaro, and Zepbound reported unexpected symptoms including menstrual changes, chills, hot flashes, and fatigue
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260912220022.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260912222856.htm) — *Science Daily*
 
-### 2. Scientists discover a hidden switch that shuts down inflammation
+### 2. Scientists find a new layer of Alzheimer’s hidden in the genome
 
-[原文] Scientists have uncovered a natural braking system that helps the immune system switch off inflammation and prevent harmful immune cells from building up. Boosting this pathway in people reduced infla
+[原文] Scientists found that the 3D organization of DNA is disrupted in several types of brain cells affected by Alzheimer’s disease, altering how important genes are switched on and off. The discovery revea
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260911214306.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260912220051.htm) — *Science Daily*
 
-### 3. Scientists find water was fueling volcanoes 3 billion years ago
+### 3. Physicists can’t agree on how the Universe works
 
-[原文] Ancient rocks from Western Australia suggest water was reaching deep inside Earth more than three billion years ago, long before modern plate tectonics may have fully developed. Researchers propose th
+[原文] A massive worldwide survey of physicists has revealed surprisingly little agreement about some of the universe’s biggest mysteries. No majority backed the standard cosmological model, a leading explan
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260911214305.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260912220041.htm) — *Science Daily*
 
-### 4. CERN finds gluons behaving strangely deep inside atomic nuclei
+### 4. Scientists are building a microscope powered by a quantum computer
 
-[原文] Physicists at CERN have found a new way to peer deep inside atomic nuclei and distinguish between two competing explanations for how gluons behave. Using the ALICE experiment at the Large Hadron Colli
+[原文] Scientists are combining an electron microscope with a quantum computer to squeeze far more information from each electron. The approach could reveal faint details with fewer electrons, helping protec
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260911214303.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260912220038.htm) — *Science Daily*
 
-### 5. Who really needs a heart calcium scan?
+### 5. NASA-backed scientists turn plastic waste into edible cookies
 
-[原文] A 10-year study of more than 6,000 adults found that popular coronary calcium scans may add little to standard heart disease risk estimates for many people. But for patients with borderline or interme
+[原文] Scientists have engineered yeast to turn PET plastic and agricultural waste into ingredients for protein-rich, 3D-printed cookies called µBites. Developed partly for NASA’s Deep Space Food Challenge, 
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260911214254.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260912220033.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Garcia reality check bursts Benn's bubble in Vegas
+### 1. Antonelli wins as Norris loses out under virtual safety car
+
+[原文] Mercedes' Kimi Antonelli wins the Spanish Grand Prix after McLaren's Lando Norris loses out because of the bad timing of a virtual safety car.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/c5yeln1j175o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. Garcia reality check bursts Benn's bubble in Vegas
 
 [原文] As the biggest night of Conor Benn's career plummets into freefall in Las Vegas, what did we learn and what does it mean for the rest of his career?
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/articles/cx2zy36rzjzo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Fixed v fluid - the opposing approaches of Maresca and Carrick
-
-[原文] Enzo Maresca and Michael Carrick will go head to head in Sunday's Manchester derby, with their teams set up very differently.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cn45w80wn5xo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 3. Opener may not have to be specialist - Trescothick
-
-[原文] England’s Test opener does not necessarily have to be a specialist at the top of the order, according to Marcus Trescothick.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c0j3d0gz6d1o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. From struggling to walk to lifting trophy - how Rybakina triumphed
+### 3. From struggling to walk to lifting trophy - how Rybakina triumphed
 
 [原文] Elena Rybakina arrived in New York unable to walk without pain after injuring her foot. She leaves the city as the US Open champion and new world number one.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cp3kdzlnzneo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. 'Tough to control emotions' as Sabalenka suffers another near miss
+### 4. Ronaldo demands lifetime bans over Jota chants
 
-[原文] After losing another Grand Slam final, Aryna Sabalenka smashes her racquet in frustration at a year that has seen her lose her world number one status.
+[原文] Footage on social media appears to show Al-Hilal's Ruben Neves reacting to Al-Taawoun fans chanting Diogo Jota's name at him during their Saudi Pro League match.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cy7zej21x6do?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cgjqd3n9ppeo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 5. Woad putt sees Europe seal Solheim Cup win
+
+[原文] Lottie Woad putts with composure to seal victory for Europe in the 2026 Solheim Cup, defeating the US 15-13.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/golf/videos/cgqdz24v02go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Yoon Dan-bi’s Toronto and San Sebastian Film ‘The World Before’ Gives Its Camera a Soul and Its Island a Voice
+### 1. ‘Union Town’ Review: Barbara Kopple’s Labor Rights Documentary Is Both Aptly Angry and Optimistically Community-Minded
 
-[原文] Seven years after &#8220;Moving On,&#8221; Korean filmmaker Yoon Dan-bi returns with &#8220;The World Before,&#8221; a coming-of-age film about desire and first love. Speaking with Variety ahead of th
+[原文] Across the harrowing financial realities of late capitalism, an indisputable global fact is the injustices faced by countless workers who deliver everything we have come to rely on, from food orders t
 
-📎 [阅读原文](https://variety.com/2026/film/festivals/yoon-dan-bi-toronto-san-sebastian-the-world-before-1236859464/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/reviews/union-town-review-1236854414/) — *Variety*
 
-### 2. ‘Masc’ Review: A Sensitive Character Study Where Identity is Found in Imitation and Observation
+### 2. ‘Angh’ Cinematographer on How He Captured the Film’s Challenging Nighttime Sequences
 
-[原文] In “Masc,” director Bertil Nilsson pulls off a nifty trick: He observes an observer. Usually a film’s protagonist has the dominant POV, but here, Robin (Joshua Griffin) is trying to find his personali
+[原文] Cinematographer Adam Pietkiewicz has been dealing with patchy internet over the past few days. He and his crew have been sailing on the Baltic Sea and have finally docked at an undisclosed location in
 
-📎 [阅读原文](https://variety.com/2026/film/reviews/masc-review-1236859970/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/artisans/news/angh-cinematography-adam-pietkiewicz-1236846097/) — *Variety*
 
-### 3. Shuhua’s Acting Debut and Breaking Free From the ‘American Girl’ Label: Director Feng-i Fiona Roan on Toronto Title ‘Happily Ever After’
+### 3. TNT’s Iraq War Drama ‘High Value Target: The Hunt for Saddam’ Is Dull and Deeply Disturbing: TV Review
 
-[原文] “Happily Ever After,” the follow-up feature from Taiwanese director Feng-i Fiona Roan, is bowing in the Toronto Film Festival’s Special Presentations lineup, arriving amid heightened attention followi
+[原文] Twenty-three years after the United States invaded Iraq, the American public now knows that despite his horrific reign and brutal dictatorship, Saddam Hussein never had any weapons of mass destruction
 
-📎 [阅读原文](https://variety.com/2026/film/festivals/shuhua-happily-ever-after-feng-i-fiona-roan-toronto-1236859442/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/reviews/high-value-target-the-hunt-for-saddam-review-tnt-1236854909/) — *Variety*
 
-### 4. Cannes Prize-Winning Nepal Oscar Entry ‘Elephants in the Fog’ Sells Wide for Best Friend Forever (EXCLUSIVE)
+### 4. Ali Asgari Doesn’t Believe in a Bright Future After Iran’s January Massacre – Just ‘A Bit of Light’
 
-[原文] Abinash Bikram Shah&#8217;s &#8220;Elephants in the Fog&#8221; has been sold to distributors across 10 territories, Best Friend Forever has revealed, as the Cannes Un Certain Regard Jury Prize winner 
+[原文] Iranian director Ali Asgari has no desire to repeat clichés about great expectations for things to come. “In Iran, we don’t have high hopes for the future anymore,” he states.&#160; “We’ve been waitin
 
-📎 [阅读原文](https://variety.com/2026/film/news/elephants-in-the-fog-cannes-jury-prize-nepal-oscars-sales-1236860302/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/ali-asgari-iran-january-massacre-a-bit-of-light-venice-1236860323/) — *Variety*
 
-### 5. TIFF Platform Competition Film ‘Idda’ Portrays Female Friendship, Grief and Memory Set on Sicily’s Mount Etna
+### 5. TIFF 2026: 20 International Titles to Track, From Feng-I Fiona Roan’s Shuhua Starrer to a Taxidermy Musical and a John Madden Parkinson’s Rom-Com
 
-[原文] Reaping upbeat initial reviews, Italian film “Idda” had its world premiere at the Toronto International Film Festival as part of the TIFF Platform competition, whose non-English language winner, start
+[原文] Helen Mirren, Laura Linney, Rhys Ifans, Erin Doherty and James McAvoy star in three of the biggest U.K. titles world premiering at Toronto and making Variety’s 2026 selection of 20 International Title
 
-📎 [阅读原文](https://variety.com/2026/film/global/idda-toronto-platform-irene-dionisio-kino-produzioni-rai-1236859879/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/tiff-2026-20-international-titles-to-track-1236860336/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Your Mother Your Mother Your Mother Review
+### 1. Scooby-Doo: Origins Reveals Cute New Photo of the Live-Action Dog
+
+暂无摘要。
+
+📎 [阅读原文](https://www.ign.com/articles/scooby-doo-origins-new-dog-photo) — *IGN*
+
+### 2. Your Mother Your Mother Your Mother Review
 
 [原文] Your Mother Your Mother Your Mother review: Mahershala Ali joins his would-be Blade director as a devout sword-wielding assassin.
 
 📎 [阅读原文](https://www.ign.com/articles/your-mother-your-mother-your-mother-review) — *IGN*
 
-### 2. StarCraft Devs Promise New Game Will Definitely Release in 2030
+### 3. StarCraft Devs Promise New Game Will Definitely Release in 2030
 
 [原文] We got the chance to speak with the developers of the new StaCcraft game, who explained why they shared such a distant release date and even teased some potential gameplay elements.
 
 📎 [阅读原文](https://www.ign.com/articles/starcraft-devs-promise-new-game-will-definitely-release-in-2030) — *IGN*
 
-### 3. Warcraft 3 Reforged: Forsaken Kingdom Review So Far
+### 4. Warcraft 3 Reforged: Forsaken Kingdom Review So Far
 
 [原文] A surprise single-player campaign that maintains the feel of classic Warcraft 3 while mixing in some new ideas.
 
 📎 [阅读原文](https://www.ign.com/articles/warcraft-3-forsaken-kingdom-review) — *IGN*
 
-### 4. Overwatch Reveals First Look at New Omnic Hero Coming Later This Year
+### 5. Overwatch Reveals First Look at New Omnic Hero Coming Later This Year
 
 [原文] Blizzard has teased another new Overwatch Hero after revealing Doctrine just moments ago.
 
 📎 [阅读原文](https://www.ign.com/articles/overwatch-reveals-first-look-at-new-omnic-hero-coming-later-this-year) — *IGN*
-
-### 5. Diablo 5 Forging the Next Era Panel: Everything Announced
-
-[原文] Blizzard has revealed three classes for Diablo 5, a first look at its UI, and shown off even more as part of its Forging the Next Era panel at BlizzCon 2026.
-
-📎 [阅读原文](https://www.ign.com/articles/diablo-5-forging-the-next-era-panel-everything-announced) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. One Dude Mapped Route 66 in Its Entirety, and You Can Scroll Through All 2,199 Miles
+### 1. Suddenly 56% of Drivers Say High Gas Prices Have Them Interested in EVs
+
+[原文] The Trump Administration is proudly anti-EV, but its war against Iran may be driving adoption.
+The post Suddenly 56% of Drivers Say High Gas Prices Have Them Interested in EVs appeared first on The Dr
+
+📎 [阅读原文](https://www.thedrive.com/news/suddenly-56-of-drivers-say-high-gas-prices-have-them-interested-in-evs) — *The Drive*
+
+### 2. One Dude Mapped Route 66 in Its Entirety, and You Can Scroll Through All 2,199 Miles
 
 [原文] This detailed app lets you see what makes Route 66 legendary without leaving your couch.
 The post One Dude Mapped Route 66 in Its Entirety, and You Can Scroll Through All 2,199 Miles appeared first on
 
 📎 [阅读原文](https://www.thedrive.com/news/one-dude-mapped-route-66-in-its-entirety-and-you-can-scroll-through-all-2199-miles) — *The Drive*
 
-### 2. As Far As the Eye Can See: Vintage Truck Collection With More Than 300 Rigs Going to Auction
+### 3. As Far As the Eye Can See: Vintage Truck Collection With More Than 300 Rigs Going to Auction
 
 [原文] Amassed over 25 years, this trove of old metal is a great place to look for a new project.
 The post As Far As the Eye Can See: Vintage Truck Collection With More Than 300 Rigs Going to Auction appeare
 
 📎 [阅读原文](https://www.thedrive.com/news/as-far-as-the-eye-can-see-vintage-truck-collection-with-more-than-300-rigs-going-to-auction) — *The Drive*
 
-### 3. Someone Put 234,000 Miles on a Ford F-150 Lightning. Now It’s Time for a New Battery
+### 4. Someone Put 234,000 Miles on a Ford F-150 Lightning. Now It’s Time for a New Battery
 
 [原文] That's a solid tally, and judging by the truck's body damage, they weren't easy miles.
 The post Someone Put 234,000 Miles on a Ford F-150 Lightning. Now It&#8217;s Time for a New Battery appeared firs
 
 📎 [阅读原文](https://www.thedrive.com/news/someone-put-234000-miles-on-a-ford-f-150-lightning-now-its-time-for-a-new-battery) — *The Drive*
 
-### 4. Google Maps Is Now Terrible: Explained
+### 5. Google Maps Is Now Terrible: Explained
 
 [原文] The more people who are using GPS, the more useless it becomes for speeding up your trip. And there's no good answer to this problem.
 The post Google Maps Is Now Terrible: Explained appeared first on 
 
 📎 [阅读原文](https://www.thedrive.com/news/google-maps-is-now-terrible-explained) — *The Drive*
-
-### 5. Shop Honors Its Retired Dyno After Thousands of High-HP Pulls With This Touching Tribute
-
-[原文] It's like losing a lifelong friend, or putting an old horse out to pasture.
-The post Shop Honors Its Retired Dyno After Thousands of High-HP Pulls With This Touching Tribute appeared first on The Driv
-
-📎 [阅读原文](https://www.thedrive.com/news/shop-honors-its-retired-dyno-after-thousands-of-high-hp-pulls-with-this-touching-tribute) — *The Drive*
 
 ---
 
@@ -477,35 +477,35 @@ The post Shop Honors Its Retired Dyno After Thousands of High-HP Pulls With This
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Canadian Travel to the U.S. Grew for a 5th Month Despite Trade War — Still Down 27% From 2024
+### 1. Live Tourism’s Biggest Operators Are Confirmed. Are You in the Room?
+
+[原文] The people who decide where live demand lands, who captures it, and how it gets sold are speaking in one closed room in New York on September 22. The tourism authority that turned Las Vegas into stand
+
+📎 [阅读原文](https://skift.com/2026/09/13/skift-live-tourism-summit-confirmed-speakers/) — *Skift*
+
+### 2. But Does It Have Starlink? It’s the New Must-Have, but at $500k a Plane, Somebody’s Got to Pay
+
+[原文] Airlines are racing to get into Starlink. The installation costs are high, but airlines are betting that the service will attract more customers.
+
+📎 [阅读原文](https://skift.com/2026/09/13/starlink-is-a-must-have-for-airlines-but-somebodys-got-to-pay/) — *Skift*
+
+### 3. Canadian Travel to the U.S. Grew for a 5th Month Despite Trade War — Still Down 27% From 2024
 
 [原文] Many thought rising political tensions would mean fewer trips — the national data says otherwise. But not every state is seeing the same rebound.
 
 📎 [阅读原文](https://skift.com/2026/09/11/canadian-travel-to-the-u-s-grew-for-a-5th-month-despite-trade-war-still-down-27-from-2024/) — *Skift*
 
-### 2. ‘I Don’t Want Cookie Cutter’: Dorchester Collection’s Stand Against the Flattening of Luxury
+### 4. ‘I Don’t Want Cookie Cutter’: Dorchester Collection’s Stand Against the Flattening of Luxury
 
 [原文] Dorchester has an interesting market opportunity stemming from its iconic properties and a dial service culture. The challenge is to tighten and refine the basics without taking judgment away from the
 
 📎 [阅读原文](https://skift.com/2026/09/11/i-dont-want-cookie-cutter-dorchesters-stand-against-the-flattening-of-luxury/) — *Skift*
 
-### 3. Skift Global Forum Preview: Accor CEO on Why Data is Essential, but Instinct Matters Most
+### 5. Skift Global Forum Preview: Accor CEO on Why Data is Essential, but Instinct Matters Most
 
 [原文] Accor CEO Sébastien Bazin shares what drives his decisions at scale for one of the world's largest hotel groups. He calls data essential, but says it should feed instinct rather than overrule it, a cl
 
 📎 [阅读原文](https://skift.com/2026/09/11/skift-global-forum-preview-accor-ceo-instinct-and-data/) — *Skift*
-
-### 4. Middle East’s Recovery Stalled Again: Skift Travel Health Index
-
-[原文] The Middle East’s recovery remains vulnerable. Renewed travel warnings make a rapid rebound less likely, leaving accommodation providers focused on both rebuilding demand and recovering pricing power.
-
-📎 [阅读原文](https://skift.com/2026/09/11/middle-easts-recovery-stalled-again-skift-travel-health-index/) — *Skift*
-
-### 5. See the Confirmed Speakers for Skift Creator Summit 2026
-
-[原文] Creator-led demand moves across every seat in travel and sits fully inside none of them. The confirmed Creator Summit roster puts the operators who each own a piece of that path in one closed room on 
-
-📎 [阅读原文](https://skift.com/2026/09/11/skift-creator-summit-confirmed-speakers/) — *Skift*
 
 ---
 
