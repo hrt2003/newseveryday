@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月13日** | 生成时间: 2026-09-13 04:21
+**2026年09月13日** | 生成时间: 2026-09-13 12:00
 
 ---
 
@@ -28,23 +28,23 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. A united Ireland would be 'fantastic' says Trump during Irish visit
+### 3. They lost their jobs after posting about Charlie Kirk, but some have no regrets
 
-[原文] Trump made the comments during a meeting with Irish leader Micheál Martin, but Downing Street says it will "stick to the Good Friday Agreement".
+[原文] Some people fired in the wake of Kirk's assassination have won big settlements from employers, others have had to start over from scratch.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Fire at nursing home in Chile kills 16 residents
+### 4. Trump's comments on a united Ireland may have targeted audience across the Atlantic
+
+[原文] Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Fire at nursing home in Chile kills 16 residents
 
 [原文] Ten people were evacuated from the home in Araucanía region in central Chile.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. French officials investigate if malicious act caused train derailment
-
-[原文] Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,23 +54,23 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Oil's roundtrip back to $100. Why China could determine what happens next
+### 1. OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast
 
-[原文] The U.S. crude oil price on Thursday topped $102 per barrel for its highest close since May.
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/12/oils-roundtrip-back-to-100-why-china-could-determine-what-happens-next.html) — *CNBC*
-
-### 2. Anthropic’s Amodei shares plan to ‘slow the pace’ of growing AI capabilities; Musk and Altman express support
-
-[原文] Amodei's essay landed after an Anthropic researcher set off a firestorm on social media this week by announcing he quit his job at the company.
+[原文] Altman's IPO comments and Amodei's public call for more careful pacing of AI development cap a week of loud AI warnings.
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html) — *CNBC*
 
-### 3. Larry Ellison nixes plan to offload up to $7.5 billion worth of Oracle stock
+### 2. Larry Ellison nixes plan to offload up to $7.5 billion worth of Oracle stock
 
 [原文] Oracle founder Larry Ellison has canceled his plan to sell up to $7.5 billion worth of stock in the software company.
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/12/larry-ellison-nixes-plan-to-offload-up-to-7point5-billion-worth-of-oracle-stock-.html) — *CNBC*
+
+### 3. Oil's roundtrip back to $100. Why China could determine what happens next
+
+[原文] The U.S. crude oil price on Thursday topped $102 per barrel for its highest close since May.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/12/oils-roundtrip-back-to-100-why-china-could-determine-what-happens-next.html) — *CNBC*
 
 ### 4. Inflation is outpacing wage growth again, squeezing Americans’ paychecks
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026
+### 1. Automattic confirms Mullenweg has returned as CEO after attempted ouster by board
+
+[原文] Automattic says Mullenweg is back as "chairman and CEO of Automattic, with full support of the board."
+
+📎 [阅读原文](https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/) — *TechCrunch*
+
+### 2. OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026
 
 [原文] While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/) — *TechCrunch*
 
-### 2. Anthropic CEO outlines plan to slow AI development
+### 3. Anthropic CEO outlines plan to slow AI development
 
 [原文] Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to "pace the frontier." What would that actually look like?
 
 📎 [阅读原文](https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/) — *TechCrunch*
 
-### 3. Tesla says it will finally unveil the second generation Roadster on October 1
+### 4. Tesla says it will finally unveil the second generation Roadster on October 1
 
 [原文] Tesla’s halo sports car was first announced in November 2017.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/) — *TechCrunch*
 
-### 4. Revolut confirms customer data breach through fake government requests
+### 5. Revolut confirms customer data breach through fake government requests
 
 [原文] Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/) — *TechCrunch*
-
-### 5. Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data
-
-[原文] The round for the two-year-old startup is coming together months after Mecka announced its Series A.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/) — *TechCrunch*
 
 ---
 
@@ -130,35 +130,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Who really needs a heart calcium scan?
+### 1. Venus’s pale yellow clouds may hide something surprisingly dark
+
+[原文] A century-old mystery in Venus’s clouds just became more intriguing, as scientists calculated how strongly the unidentified material behind its dark ultraviolet patterns must absorb light. The results
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260912220022.htm) — *Science Daily*
+
+### 2. Scientists discover a hidden switch that shuts down inflammation
+
+[原文] Scientists have uncovered a natural braking system that helps the immune system switch off inflammation and prevent harmful immune cells from building up. Boosting this pathway in people reduced infla
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260911214306.htm) — *Science Daily*
+
+### 3. Scientists find water was fueling volcanoes 3 billion years ago
+
+[原文] Ancient rocks from Western Australia suggest water was reaching deep inside Earth more than three billion years ago, long before modern plate tectonics may have fully developed. Researchers propose th
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260911214305.htm) — *Science Daily*
+
+### 4. CERN finds gluons behaving strangely deep inside atomic nuclei
+
+[原文] Physicists at CERN have found a new way to peer deep inside atomic nuclei and distinguish between two competing explanations for how gluons behave. Using the ALICE experiment at the Large Hadron Colli
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260911214303.htm) — *Science Daily*
+
+### 5. Who really needs a heart calcium scan?
 
 [原文] A 10-year study of more than 6,000 adults found that popular coronary calcium scans may add little to standard heart disease risk estimates for many people. But for patients with borderline or interme
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260911214254.htm) — *Science Daily*
-
-### 2. Tiny sound waves could help solve a major quantum computing problem
-
-[原文] Researchers at Harvard have demonstrated a way to protect quantum information using microscopic sound waves. By continuously surrounding a diamond-based qubit with mechanical vibrations, they extended
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260911214245.htm) — *Science Daily*
-
-### 3. Scientists find Ozempic may slow aging itself
-
-[原文] Semaglutide helped older healthy mice live longer while improving memory, muscle function, blood sugar control, and several biological signs of aging. Its effects went beyond those seen with calorie r
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260911214238.htm) — *Science Daily*
-
-### 4. Researchers find a Wordle strategy that wins 99% of the time
-
-[原文] Researchers at Binghamton University have developed a mathematical strategy that can solve Wordle with a 99% success rate. Instead of simply guessing words packed with common letters or choosing the m
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260911204910.htm) — *Science Daily*
-
-### 5. Wasps are disappearing this summer, and scientists are worried
-
-[原文] Britain’s wasps have become mysteriously scarce this summer, and scientists suspect an unusual combination of temperature swings, heatwaves, and food shortages may be responsible. Even the wasps that 
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260911003901.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. More dropped points at Anfield - is it too early for Liverpool to worry?
+### 1. 'Today the game was unprotected' - Arteta fumes but Arsenal survive
+
+[原文] Arsenal produced a gritty 2-0 win against Sunderland, but Mikel Arteta fumed about the penalty that could have cost his side a result.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c5ym4384rezo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. Rybakina wins US Open to inflict further pain on Sabalenka
+
+[原文] Elena Rybakina demonstrates why she is the best women's player in the world by beating Aryna Sabalenka to win her first US Open title.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/clym434j01xo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. South Africa cap series victory over New Zealand with win in Baltimore
+
+[原文] South Africa complete a 3-1 series win over New Zealand as the world champions' consistency, power and cohesion proves too much in the fourth Test in Baltimore.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-union/articles/c07lmxpmvr9o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. Toothless Spurs blank again as new era turns into a false dawn
+
+[原文] Toothless Spurs' draw a blank again and are now in danger of seeing a brave new era turn into a false dawn, says chief football writer Phil McNulty.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cvgydkv0yxdo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 5. More dropped points at Anfield - is it too early for Liverpool to worry?
 
 [原文] Liverpool have failed to win either of their first two Premier League games at Anfield. But is it too early to worry?
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c62j0lr1rzmo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 2. Hodgkinson second to Werro after hamstring tear
-
-[原文] Keely Hodgkinson is again denied a major prize by rival Audrey Werro - but reveals she had to overcome a torn hamstring to make the start line at the World Athletics Ultimate Championship.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/ckgwk3dz1z2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 3. Norris' real opportunity after coming from nowhere with 'masterpiece' lap
-
-[原文] McLaren do not have the fastest car at the Spanish Grand Prix but with overtaking expected to be difficult, pole man Lando Norris has a chance of another win.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/c5yeljnxyvdo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. New system, same problems - Alonso not happy with 'soft' Chelsea
-
-[原文] It was subdued at Stamford Bridge after Chelsea's 2-2 draw with newly promoted Hull City.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c1l6qd2qvyzo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Was Hull-Woad pairing right call as Europe & US end level with singles to play?
-
-[原文] Should Europe fail to reach the 14½ points they require to win the Solheim Cup on Sunday questions will surely be asked of captain Anna Nordqvist's faith in Charley Hull and Lottie Woad as a pairing.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/ckgvz6kdy4yo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Andrew Scott Gets Candid at TIFF About ‘Elsinore’ and People Against Gay Actors Playing Straight Roles: ‘That’s Just Prejudice’
+### 1. ‘Animal Hospital’ Leads Roblox Innovation Awards 2026 Winners as Roblox Unveils 20th Anniversary Event
 
-[原文] Could Andrew Scott make history? That is the big question concerning the Irish actor’s towering performance in “Elsinore,” which debuted in Telluride before playing the Toronto International Film Fest
+[原文] The Roblox Innovation Awards (RIAs) unveiled its 2026 winners during a ceremony in San Jose Saturday with new title “Animal Hospital&#8221; taking home several top honors. Part of the 12th annual Robl
 
-📎 [阅读原文](https://variety.com/2026/film/news/andrew-scott-tiff-elsinore-gay-actors-prejudice-fleabag-1236859840/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/gaming/news/animal-hospital-roblox-innovation-awards-20th-anniversary-1236860184/) — *Variety*
 
-### 2. Pierce Brosnan Thinks the Next James Bond Will Be ‘Someone That None of Us Know About’: ‘There Are Lots of Good Hats in the Ring’
+### 2. ‘Misty Green’ Review: Chris Rock Tells the Story of a Party-Girl Actress, Brilliantly Played by Rosalind Eleazar, in The Best Movie About Hollywood in Years
 
-[原文] Ever since Denis Villeneuve’s forthcoming James Bond film was announced, the million-dollar question has been: Who will take on the role of the iconic spy? Now, former 007 Pierce Brosnan is offering h
+[原文] "Misty Green" is an amazing slice of showbiz sociology, riveting in the details of what a contemporary Hollywood actress — even a successful one — is up against. Rock isn’t casting stones. The warped 
 
-📎 [阅读原文](https://variety.com/2026/film/news/pierce-brosnan-james-bond-1236859814/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/reviews/misty-green-review-chris-rock-rosiland-eleazar-1236859541/) — *Variety*
 
-### 3. Celine Dion Delivers Tearful Speech on Opening Night of Paris Residency: ‘I Had Promised Myself Not to Cry’
+### 3. ‘I Play Rocky’ Review: Anthony Ippolito Channels Sylvester Stallone in Peter Farrelly’s Cleverly Crafted Crowd-Pleaser About the Making of ‘Rocky’
 
-[原文] Celine Dion shed tears as she kicked off her eagerly anticipated 16-date residency tonight at Plenitude Arena on the outskirts of Paris, marking her first major series of live shows since stepping awa
+[原文] For a biographical drama to work, it&#8217;s not required that the central actor do a pinpoint uncanny, so-close-to- the-real-thing-you-might-think-it’s-the-real-thing impersonation of the person he&#
 
-📎 [阅读原文](https://variety.com/2026/music/news/celine-dion-emotional-speech-opening-night-paris-residency-1236859560/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/reviews/i-play-rocky-review-anthony-ippolito-peter-farrelly-1236859563/) — *Variety*
 
-### 4. Jeremy Thomas Remembered as a Filmmaker ‘Full of Stories’ and a ‘Rebel With Taste’: ‘The Canon of His Work Is Unmatched’
+### 4. ‘I Play Rocky’ Premieres at TIFF: A Movie About a Best Picture Winner That’s a Best Picture Contender?
 
-[原文] Tributes have begun flowing from across the film world for Jeremy Thomas, the legendary British producer who passed away on Friday at the age of 77. Terry Gilliam, who worked with Thomas on &#8220;Tid
+[原文] Yo Adrian, Rocky did it … again! Only this time, the famed character is at TIFF in biopic form, thanks to director Peter Farrelly, screenwriter Peter Gamble and a star-making turn from Anthony Ippolit
 
-📎 [阅读原文](https://variety.com/2026/film/global/jeremy-thomas-tributes-luca-guadagnino-1236859499/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/awards/i-play-rocky-tiff-premiere-peter-farrelly-stallone-oscars-1236859905/) — *Variety*
 
-### 5. ‘World of Warcraft Forever,’ Expanded Version of 2004 Game, Coming in November
+### 5. Lucy Dacus on Doing a Hollywood Bowl Orchestra Show to End Her ‘Forever Is a Feeling’ Cycle, After Previously Bringing the Boygenius Era to a Close There: ‘Maybe It’s a Place Where I’m Supposed to Cry’
 
-[原文] Blizzard Entertainment will launch &#8220;World of Warcraft Forever,&#8221; a game set during the first year of the original 2004 &#8220;World of Warcraft,&#8221; Nov. 4. The &#8220;Forever&#8221; pro
+[原文] &#8220;Forever Is a Feeling,&#8221; Lucy Dacus promised in the romantic-sounding title of her 2025 solo album. Feelings are transitory things, of course, and some of the good ones must come to an end,
 
-📎 [阅读原文](https://variety.com/2026/gaming/news/world-of-warcraft-forever-release-november-1236859755/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/lucy-dacus-hollywood-bowl-orchestra-show-interview-1236860176/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Diablo 5 Announced
+### 1. StarCraft Devs Promise New Game Will Definitely Release in 2030
 
-[原文] Blizzard has officially announced Diablo 5 at BlizzCon 2026. Set entirely in a post-apocalyptic future 100 years after Diablo 4, the ARPG will release in 2029.
+[原文] We got the chance to speak with the developers of the new StaCcraft game, who explained why they shared such a distant release date and even teased some potential gameplay elements.
 
-📎 [阅读原文](https://www.ign.com/articles/diablo-5-announced-release-date-2029) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/starcraft-devs-promise-new-game-will-definitely-release-in-2030) — *IGN*
 
-### 2. Overwatch 2 Gets New Vampire-Inspired Support Hero, Map, and Big Character Reworks
+### 2. Warcraft 3 Reforged: Forsaken Kingdom Review So Far
 
-[原文] Overwatch is getting a brand-new vampire-inspired support hero, as well as the conclusion of Act III in The Reign of Talon storyline and several big character changes.
+[原文] A surprise single-player campaign that maintains the feel of classic Warcraft 3 while mixing in some new ideas.
 
-📎 [阅读原文](https://www.ign.com/articles/overwatch-2-gets-new-vampire-inspired-support-hero-map-and-big-character-reworks) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/warcraft-3-forsaken-kingdom-review) — *IGN*
 
-### 3. Next StarCraft Game Announced at BlizzCon as an Open-World Shooter, but It’s Not Due Out Until 2030
+### 3. Overwatch Reveals First Look at New Omnic Hero Coming Later This Year
 
-[原文] It’s been over 15 years since Blizzard’s beloved real-time strategy game, StarCraft 2, came out. Now, a new game in the series has been announced — but it’s still years away.
+[原文] Blizzard has teased another new Overwatch Hero after revealing Doctrine just moments ago.
 
-📎 [阅读原文](https://www.ign.com/articles/next-starcraft-game-announced-at-blizzcon-as-an-open-world-shooter-but-its-not-due-out-until-2030) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/overwatch-reveals-first-look-at-new-omnic-hero-coming-later-this-year) — *IGN*
 
-### 4. Animated Diablo Show in the Works at Netflix
+### 4. Diablo 5 Forging the Next Era Panel: Everything Announced
 
-[原文] An animated Diablo show is in the works at Netflix, as announced at Blizzcon 2026, and there could be more to com
+[原文] Blizzard has revealed three classes for Diablo 5, a first look at its UI, and shown off even more as part of its Forging the Next Era panel at BlizzCon 2026.
 
-📎 [阅读原文](https://www.ign.com/articles/animated-diablo-show-in-the-works-at-netflix) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/diablo-5-forging-the-next-era-panel-everything-announced) — *IGN*
 
-### 5. Heroes of the Storm Gets First New Character in Six Years
+### 5. X-Men Star Inde Navarrette Teases Her Plan to Nail Rogue’s Southern Accent
 
-[原文] Announced at Blizzcon 2026, Heroes of the Storm is getting its first new character since Hogger was released in 2020, as well as a new PTR.
+[原文] Obsession breakout Inde Navarrette already has a plan to make sure she nails Rogue's iconic Southern accent in the new X-Men movie.
 
-📎 [阅读原文](https://www.ign.com/articles/heroes-of-the-storm-gets-first-new-character-in-six-years) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/x-men-star-inde-navarrette-teases-her-plan-to-nail-rogues-southern-accent) — *IGN*
 
 ---
 
