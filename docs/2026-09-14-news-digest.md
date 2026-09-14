@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月14日** | 生成时间: 2026-09-14 12:08
+**2026年09月14日** | 生成时间: 2026-09-14 20:14
 
 ---
 
@@ -16,27 +16,27 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station
+### 1. China criticises idea it is in 'malicious competition' over AI
+
+[原文] It follows the Anthropic CEO 's calls for a slowdown in AI development, in a way that China doesn't pull ahead.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station
 
 [原文] The former UK PM said: "I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning".
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Trump downplays warnings of AI risks, citing rivalry with China
+### 3. Thousands demand end to violence in Mexican cartel hotspot
 
-[原文] The US president said "negative forces" were airing concerns about "things that won't happen".
+[原文] The city has seen violence skyrocket since a feud broke out between two rival factions of the Sinaloa cartel.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 3. Questions mount over what an AI 'slowdown' would look like
-
-[原文] While pacing AI development might sound like a quick fix, it is far from an easy solution.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 4. Swedish left-wing bloc narrowly ahead with election too close to call
 
-[原文] A partial count by Sweden's election authority projected that left-wing opposition bloc would win a three-seat majority.
+[原文] A preliminary count by Sweden's election authority projected that left-wing opposition bloc would win a three-seat majority.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump says U.S. may keep Iranian oil 'like Venezuela' as Gulf-Iran Hormuz talks stall
+### 1. OpenAI boss Sam Altman spells out how and why the AI industry wants to slow down: 'We could lose control'
 
-[原文] Trump said revenue from the Venezuela arrangement has "paid for the war many times."
+[原文] OpenAI's chief has made comments detailing how AI safety frameworks and a slowdown could work, as the industry unites behind concerns.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/14/sam-altman-ai-slowdown-anthropic-amodei-musk.html) — *CNBC*
+
+### 2. Iran says it destroyed U.S. advanced drone over Hormuz as Middle East conflict intensifies
+
+[原文] Iran said it downed an advanced American drone over the Strait of Hormuz, as Tehran and Washington trade warnings and strikes with no sign of de-escalation.
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/14/us-iran-trump-hormuz-gulf-oil-crude-talks-.html) — *CNBC*
 
-### 2. Anthropic walks tightrope to Nasdaq, pushing for a slowdown while pursuing $2 trillion valuation
+### 3. Why the election could make Washington's looming next fiscal crisis harder
 
-[原文] As Anthropic meets with prospective investors ahead of its potentially historic market debut, CEO Dario Amodei is pushing for a slowdown in AI.
+[原文] Some in the GOP are already disavowing raising the debt ceiling absent deep spending cuts as the national debt balloons past $40 trillion.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/14/anthropic-walks-tightrope-to-nasdaq-pushing-slowdown-and-pursuing-ipo.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/14/election-debt-limit-fiscal-crisis-congress.html) — *CNBC*
 
-### 3. The 10-year Treasury is closing in on 5%. How it gets there matters more
+### 4. Clarity Act faces make-or-break Senate vote on Tuesday as crypto industry pushes for bill
 
-[原文] The 10-year Treasury yield is closing in on 5%, a level last touched in October 2023. Strategists say the drivers behind higher yields are more important.
+[原文] A Senate vote on Tuesday is a put-up-or-shut-up moment for the Clarity Act crypto bill, scheduled by Majority Leader John Thune, R-S.D.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/14/10-year-us-treasury-is-closing-in-on-5percent.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/14/clarity-act-senate-vote-crypto-regulation.html) — *CNBC*
 
-### 4. Baker Hughes sees no slowdown in energy projects despite higher rates as AI buildouts stoke LNG demand
+### 5. Trump urges Ukraine to stop ‘knocking out’ Russian oil refineries as U.S. diesel hits record
 
-[原文] Baker Hughes has yet to see higher borrowing costs slow investment in major energy projects.
+[原文] U.S. diesel prices have surpassed $6 a gallon for the first time ever as the Ukraine and Iran wars drive broader energy supply concerns.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/14/baker-hughes-ceo-no-slowdown-in-energy-projects-despite-higher-rates-.html) — *CNBC*
-
-### 5. OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast
-
-[原文] Altman's IPO comments and Amodei's public call for more careful pacing of AI development cap a week of loud AI warnings.
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/14/trump-ukraine-russia-diesel-prices-oil.html) — *CNBC*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Refereeing body admits judgement error over Haaland derby winner
+### 1. 'This is what women in sport look like' - Hunt responds to controversial Sweeney advert
 
-[原文] The Premier League refereeing body Pro Ref admits an error of judgement in awarding Erling Haaland's winner in the Manchester derby.
+[原文] British sprinter Amy Hunt is among the female athletes to criticise the controversial betting advert starring actress Sydney Sweeney.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c5ym9ky3rzxo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/c9dw905jw5no?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Intelligence & resilience key in statement win for Maresca's Man City - Murphy
+### 2. Familiar questions for Man Utd, now Carrick must find answers
 
-[原文] Match of the Day pundit Danny Murphy explains how Manchester City beat Manchester United at Old Trafford despite being down to 10 men for most of the game.
+[原文] After one win in four Premier League games, the problems are mounting for Manchester United and manager Michael Carrick.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cq6384g0pqyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cddv5mqjgvlo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Zverev caps transformational year with US Open triumph
+### 3. Zverev turns US Open tears into triumph in transformational year
 
-[原文] Alexander Zverev lands his second Grand Slam title after ending Ben Shelton's hopes of becoming a rare home US Open men's champion.
+[原文] How a more composed Alexander Zverev stayed 'zen-like' to beat Ben Shelton and win the US Open, six years after a heart-breaking defeat in the final.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/c1wx9qpxjg3o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/clyrkeyn5pgo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. How virtual safety car cost Norris win - and should F1 change rules?
+### 4. 'Big Ludo' - trailblazing keeper who became West Ham cult figure
 
-[原文] Lando Norris says he was "insanely unlucky" to lose what seemed like a certain win in the Spanish Grand Prix because of the timing of a virtual safety car.
+[原文] Ludek Miklosko, who has died aged 64, was a cult figure with West Ham supporters after his move to London in 1990.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/cvgyjwxv7y3o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cd620083wp0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Haaland scores controversial winner as Man City win derby despite Foden red
+### 5. How did the first Ultimate Championship go?
 
-[原文] Erling Haaland's goal helps Manchester City win a highly controversial Manchester derby at rivals Manchester United despite playing with 10 men for more than 70 minutes.
+[原文] As the inaugural Ultimate Championship concludes, athletics has taken its first strides in a new direction.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cpd0j54xlyyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/cqjkwl78plro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘All That She Wants’ Review: Annie Murphy and Cooper Raiff Are Well-Matched in a Generation-Gap Romcom
+### 1. Davika Hoorne and Banjong Pisanthanakun Reunite for Toronto Title ‘Inherit’
 
-[原文] Millennials get their Mrs. Robinson moment with “All That She Wants,” an age-gap romcom titled after the 1992 Ace of Base hit. If you remember listening to that song on a cassingle, it’s time to ask y
+[原文] Davika Hoorne and director Banjong Pisanthanakun are opening up about &#8220;Inherit,&#8221; the psychological horror film that reunites the pair and will have its world premiere in the Centrepiece pr
 
-📎 [阅读原文](https://variety.com/2026/film/reviews/all-that-she-wants-review-1236860677/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/davika-hoorne-banjong-pisanthanakun-inherit-toronto-1236855775/) — *Variety*
 
-### 2. ‘Lanterns’ Star Poorna Jagannathan Breaks Down Zoe’s Brutal Episode 5: ‘It’s a Faustian Play She Makes’
+### 2. ‘Your Mother Your Mother Your Mother’ Review: A Blistering Spiritual Actioner Finally Gives Mahershala Ali a Leading Role Worth His While
 
-[原文] SPOILER ALERT: This article contains spoilers for “Lanterns” Episode 5, titled “Lights Out,” now streaming on HBO Max. This week&#8217;s episode of &#8220;Lanterns&#8221; finally unmasks the Manhunter
+[原文] Since winning two Oscars in three years less than a decade ago, Mahershala Ali has bided his time as one of Hollywood&#8217;s great untapped commodities. Not counting some disposable franchise support
 
-📎 [阅读原文](https://variety.com/2026/tv/news/lanterns-episode-5-zoe-manhunter-john-kills-zoe-1236858961/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/your-mother-your-mother-your-mother-mahershala-ali-1236860755/) — *Variety*
 
-### 3. ’60 Minutes’ Kicks Off Much-Scrutinized 59th Season With Old Ticks, Tricks
+### 3. ‘John Wick Cracked Out on Meth’ Toronto Midnight Madness Film ‘Kick On’ Director Nick Kozakis Says Real Stunts Sell the Brutality
 
-[原文] CBS News says it needs to push &#8220;60 Minutes&#8221; into the future if the show is to survive, but the first telecast of the 59th season following a shocking overhaul of its on-air and behind-the-
+[原文] There&#8217;s a severed head on set, a childhood friend swinging fists in an elevator, and a director who wanted every drop of blood shot for real. Australian filmmaker Nick Kozakis&#8217;s action-hor
 
-📎 [阅读原文](https://variety.com/2026/tv/news/60-minutes-season-59-launch-cbs-news-old-tricks-ticks-1236860783/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/nick-kozakis-real-stunts-brutality-kick-on-toronto-midnight-madness-1236859401/) — *Variety*
 
-### 4. Cynthia Erivo’s Riveting ‘Prima Facie’ Performance Earns TIFF Standing Ovation
+### 4. Director-Producing Duo Behind Student Academy Award-Nominated Jordanian Short ‘A Subconscious Dive’ Developing Debut Feature Films
 
-[原文] Cynthia Erivo already earned two best actress Oscar nominations for portraying Harriet Tubman and the green-skinned Elphaba in &#8220;Wicked&#8221; — not to mention her Tony-winning work in &#8220;The
+[原文] Jordanian filmmakers Raghad Albakheet and Danial Salman are following up the success of their Student Academy Award-nominated short film “A Subconscious Dive” with separate feature projects. Directed 
 
-📎 [阅读原文](https://variety.com/2026/film/news/cynthia-erivo-prima-facie-tiff-standing-ovation-1236860782/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/student-academy-awards-a-subconscious-dive-jordan-1236853210/) — *Variety*
 
-### 5. Seth Green Says He Was Never Invited Back for the Canceled ‘Buffy the Vampire Slayer’ Reboot
+### 5. Good Films Studios Spain Bets on Long-Term Production at Ciudad de la Luz
 
-[原文] Seth Green revealed in the Sept. 8 episode of &#8220;The McBride Rewind&#8221; podcast that he was not involved in any discussion of reprising his role as the werewolf guitarist Oz in Hulu’s canceled 
+[原文] Inside a workshop at Alicante’s Ciudad de la Luz, a boat used on “People of the Book,” now sold at Toronto by Bleiberg Entertainment, is still sitting among the physical remains of Good Films Studios 
 
-📎 [阅读原文](https://variety.com/2026/tv/actors/seth-green-canceled-buffy-the-vampire-slayer-reboot-1236860816/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/markets-festivals/good-films-studios-spain-ciudad-de-la-luz-alicante-1236858437/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Last of Us Part 2 Multiplayer Mod Cancelled at Sony’s Request
+### 1. Nintendo Customer Appreciation Sale is Live With Several First Party Games 30% Off
 
-[原文] A PvP multiplayer mod for The Last of Us Part 2 on PC is no longer going to be released after the mod maker says it was contacted by Sony Interactive Entertainment and asked not to release the project
+[原文] Nintendo's 'Customer Appreciation Sale', partly funded by US "Tariff Refunds", is now live with up to 30% off Switch games, memory cards, amiibo, and more.
 
-📎 [阅读原文](https://www.ign.com/articles/the-last-of-us-part-2-multiplayer-mod-cancelled-at-sonys-request) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/nintendo-customer-appreciation-sale-best-deals) — *IGN*
 
-### 2. Lanterns Season 1, Episode 5 Review & Recap: "Lights Out"
+### 2. Hope: Exclusive New Images Depicting the Sci-Fi Film's Alien Intruders
 
-[原文] Lanterns wraps up its 2016 storyline with a real bang, as the situation in Rushville devolves into all-out war. Read our full review of Episode 5.
+[原文] Get an exclusive first look at director Na Hong-jin’s sci-fi thriller Hope with new images showing the film's alien invaders.
 
-📎 [阅读原文](https://www.ign.com/articles/lanterns-season-1-episode-5-review-recap-lights-out) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/hope-movie-alien-invaders-images) — *IGN*
 
-### 3. New Batman: Part 2 Set Photos Hint at the Court of Owls
+### 3. First Major Cast Member Confirms Appearance in GTA 6, Seemingly Going Off Rockstar's Script
 
-[原文] New videos and photos from the London set of The Batman: Part II will only fuel the rumors that Gotham’s secret cabal of wealthy elites, the Court of Owls, factor into the movie.
+[原文] The first major cast member has confirmed his appearance in Grand Theft Auto 6, seemingly going off Rockstar’s tightly controlled marketing script.
 
-📎 [阅读原文](https://www.ign.com/articles/the-batman-part-2-set-photos-court-of-owls-anarky) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/first-major-cast-member-confirms-appearance-in-gta-6-seemingly-going-off-rockstars-script) — *IGN*
 
-### 4. This Popular RM1 CD Player Art Frame on Kickstarter Brings Back the Nostalgia I Needed and Offers to Up 55% Off in Late Pledge Rewards
+### 4. Make-A-Wish UK Brings Golf With Your Friends to Life For a Chaotic Charity Stream: How to Watch and What to Expect
 
-[原文] Time to bust out my CD binder.
+暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/how-to-back-new-rm1-cd-player-art-frame-kickstarter-project) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/make-a-wish-uk-brings-golf-with-your-friends-to-life-for-a-chaotic-charity-stream-how-to-watch-and-what-to-expect) — *IGN*
 
-### 5. Diablo 5 Director Confirms Game is Already in Full Production
+### 5. Blizzard Insists There Are 'Many Reasons to Keep Playing' Diablo 4 as Fans Debate End of Expansions and Diablo 5 in 2029
 
-[原文] Diablo 5 is officially in full production and coming in 2029. Game Director Joe Shely reveals the sequel will feature more classes, procedural worlds, and jump 100 years into the future.
+[原文] Blizzard has insisted Diablo 4 still has “bright support” as the community debates the shock news that no more expansions will be released for the game and with Diablo 5 looming over the horizon.
 
-📎 [阅读原文](https://www.ign.com/articles/diablo-5-director-confirms-game-is-already-in-full-production) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/blizzard-insists-there-are-many-reasons-to-keep-playing-diablo-4-as-fans-debate-end-of-expansions-and-diablo-5-in-2029) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post As Far As the Eye Can See: Vintage Truck Collection With More Than 300 
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Alabama Legislature Was on a Collision Course With Alabama Power. Then Came Spring Break.
+### 1. Jet Fuel in the Water
+
+[原文] Welcome to Inside Climate, a podcast from the staff of Inside Climate News. In this episode, we delve into how President Donald Trump’s environmental policy rollbacks are impacting ordinary people. In
+
+📎 [阅读原文](https://insideclimatenews.org/news/14092026/inside-climate-podcast-jet-fuel-pipeline-spill/) — *Inside Climate News*
+
+### 2. Is Wildfire Risk Increasing in the Midwest?
+
+[原文] On the night of July 6, a storm moved over northern Minnesota near the Boundary Waters Canoe Area Wilderness. The boreal forest there, composed of species like balsam fir, spruce and pine, was extreme
+
+📎 [阅读原文](https://insideclimatenews.org/news/14092026/midwest-wildfire-risk/) — *Inside Climate News*
+
+### 3. As Power Demand Rises, a Clean-Energy State Falls Back on Coal
+
+[原文] Before Iowa was the nation’s most wind-powered state, it generated nearly all of its electricity with coal. Since 2000, the fossil fuel’s role in the state’s power mix has diminished as utilities buil
+
+📎 [阅读原文](https://insideclimatenews.org/news/14092026/iowa-increases-coal-power-to-meet-electricity-demand/) — *Inside Climate News*
+
+### 4. The Alabama Legislature Was on a Collision Course With Alabama Power. Then Came Spring Break.
 
 [原文] Wired for Profit: Seventh in a series about Alabama Power’s influence over electric rates, renewable energy, pollution and politics in the Yellowhammer State. When Alabama lawmakers left for spring br
 
 📎 [阅读原文](https://insideclimatenews.org/news/13092026/alabama-power-bill-to-cap-profits-collapsed-in-the-legislature/) — *Inside Climate News*
 
-### 2. How Alabama Power Escaped a Push for Tighter Regulation With Record Profits Intact
+### 5. How Alabama Power Escaped a Push for Tighter Regulation With Record Profits Intact
 
 [原文] Wired for Profit: Sixth in a series about Alabama Power’s influence over electric rates, renewable energy, pollution and politics in the Yellowhammer State. Mack Butler insists he’s not angry about ho
 
 📎 [阅读原文](https://insideclimatenews.org/news/13092026/how-alabama-power-escaped-tighter-regulation/) — *Inside Climate News*
-
-### 3. A Super El Niño Is Building. Florida’s Most Vulnerable Homes Aren’t Ready.
-
-[原文] On the night of Feb. 22, 1998, tornadoes tore through Central Florida while most of the region slept. By dawn, 42 people were dead; to date, it is the deadliest tornado outbreak in the state’s history
-
-📎 [阅读原文](https://insideclimatenews.org/news/13092026/florida-most-vulnerable-homes-arent-ready-for-super-el-nino/) — *Inside Climate News*
-
-### 4. An Overdue Trash Bill Left This Alabama Woman in Handcuffs. She’s Not Alone.
-
-[原文] DOUBLE SPRINGS, Ala.—As 59-year-old Pam Benton sat handcuffed to a cold bench inside the Winston County Courthouse, shame flooded over her. All she could think about, she later explained, was what her
-
-📎 [阅读原文](https://insideclimatenews.org/news/12092026/alabama-county-arrests-citizens-nonpayment-trash-bills/) — *Inside Climate News*
-
-### 5. Formal Repeal of Roadless Rule Directly Threatens Midwest Wilderness
-
-[原文] Michigan’s Norwich Plains is a stretch of unbroken wilderness in the state’s Upper Peninsula dominated by northern hardwood forest, with sugar maples and old-growth aspens that provide habitat for end
-
-📎 [阅读原文](https://insideclimatenews.org/news/12092026/roadless-rule-repeal-threatens-midwest-wilderness/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post As Far As the Eye Can See: Vintage Truck Collection With More Than 300 
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Gerard Way Hints at New My Chemical Romance Album: ‘You Guys Deserve Another Record’
+### 1. Cheetah Chrome, Dead Boys and Rocket From the Tombs Guitarist, Dead at 71
+
+[原文] The prolific musician, who also played with Sylvain Sylvain and Ronnie Spector, was remembered as an "an architect of the punk rock movement"
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/cheetah-chrome-dead-boys-guitarist-obituary-1235625943/) — *Rolling Stone*
+
+### 2. Gerard Way Hints at New My Chemical Romance Album: ‘You Guys Deserve Another Record’
 
 [原文] "We kind of always wanted to make another record, so we hope to," singer told Alamodome fans of band's long-awaited follow-up to 2010’s Danger Days: The True Lives of the Fabulous Killjoys
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/gerard-way-hints-new-my-chemical-romance-album-1235625884/) — *Rolling Stone*
 
-### 2. Drake Reveals ‘Fear of Missing Out’ Is a ‘Not So Short Film’
+### 3. Drake Reveals ‘Fear of Missing Out’ Is a ‘Not So Short Film’
 
 [原文] Rapper's mysterious new project drops September 15
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/drake-fear-of-missing-out-not-so-short-film-1235625825/) — *Rolling Stone*
 
-### 3. Lady Gaga Welcomes First Baby With Fiancé Michael Polansky: Reports
+### 4. Lady Gaga Welcomes First Baby With Fiancé Michael Polansky: Reports
 
 [原文] After the couple was spotted in Northern California with a child, multiple sources confirmed Baby Gaga
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/lady-gaga-welcomes-first-baby-michael-polansky-reports-1235625783/) — *Rolling Stone*
 
-### 4. Pink Responds to Fallout After Sharing Post Criticizing Macklemore’s Speech on Palestine
+### 5. Pink Responds to Fallout After Sharing Post Criticizing Macklemore’s Speech on Palestine
 
 [原文] Pink addressed the backlash she received after reposting a call for Macklemore to apologize following his statements on stage
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/pink-responds-backlash-macklemore-palestine-post-1235625662/) — *Rolling Stone*
-
-### 5. Ocean Way Festival in Santa Monica Cancels Inaugural Event Due to Hurricane Marie
-
-[原文] Organizers said that storm surf and runoff caused significant beach erosion, making it no longer safe for the fest to continue
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/ocean-way-festival-cancels-inaugural-event-hurricane-marie-1235625706/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post As Far As the Eye Can See: Vintage Truck Collection With More Than 300 
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. India’s Domestic Tourism Boom May Be Its Biggest Inbound Problem
+### 1. AirBaltic Files for Chapter 11 Bankruptcy Protection as Financial Pressures Mount
+
+[原文] Passengers probably won’t notice AirBaltic’s bankruptcy filing. Its creditors, lessors and shareholders certainly will.
+
+📎 [阅读原文](https://skift.com/2026/09/14/airbaltic-files-for-chapter-11-bankruptcy-protection-as-financial-pressures-mount/) — *Skift*
+
+### 2. India’s Domestic Tourism Boom May Be Its Biggest Inbound Problem
 
 [原文] India has too many domestic tourists, not enough foreign ones. Add to that the country is becoming more expensive and crowded while its international marketing muscle has shrunk dramatically.
 
 📎 [阅读原文](https://skift.com/2026/09/13/indias-domestic-tourism-boom-may-be-its-biggest-inbound-problem/) — *Skift*
 
-### 2. Live Tourism’s Biggest Operators Are Confirmed. Are You in the Room?
+### 3. Live Tourism’s Biggest Operators Are Confirmed. Are You in the Room?
 
 [原文] The people who decide where live demand lands, who captures it, and how it gets sold are speaking in one closed room in New York on September 22. The tourism authority that turned Las Vegas into stand
 
 📎 [阅读原文](https://skift.com/2026/09/13/skift-live-tourism-summit-confirmed-speakers/) — *Skift*
 
-### 3. But Does It Have Starlink? It’s the New Must-Have, but at $500k a Plane, Somebody’s Got to Pay
+### 4. But Does It Have Starlink? It’s the New Must-Have, but at $500k a Plane, Somebody’s Got to Pay
 
 [原文] Airlines are racing to get into Starlink. The installation costs are high, but airlines are betting that the service will attract more customers.
 
 📎 [阅读原文](https://skift.com/2026/09/13/starlink-is-a-must-have-for-airlines-but-somebodys-got-to-pay/) — *Skift*
 
-### 4. Canadian Travel to the U.S. Grew for a 5th Month Despite Trade War — Still Down 27% From 2024
+### 5. Canadian Travel to the U.S. Grew for a 5th Month Despite Trade War — Still Down 27% From 2024
 
 [原文] Many thought rising political tensions would mean fewer trips — the national data says otherwise. But not every state is seeing the same rebound.
 
 📎 [阅读原文](https://skift.com/2026/09/11/canadian-travel-to-the-u-s-grew-for-a-5th-month-despite-trade-war-still-down-27-from-2024/) — *Skift*
-
-### 5. ‘I Don’t Want Cookie Cutter’: Dorchester Collection’s Stand Against the Flattening of Luxury
-
-[原文] Dorchester has an interesting market opportunity stemming from its iconic properties and a dial service culture. The challenge is to tighten and refine the basics without taking judgment away from the
-
-📎 [阅读原文](https://skift.com/2026/09/11/i-dont-want-cookie-cutter-dorchesters-stand-against-the-flattening-of-luxury/) — *Skift*
 
 ---
 
