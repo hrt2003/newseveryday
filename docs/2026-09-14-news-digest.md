@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月14日** | 生成时间: 2026-09-14 04:31
+**2026年09月14日** | 生成时间: 2026-09-14 12:08
 
 ---
 
@@ -18,13 +18,13 @@
 
 ### 1. Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station
 
-[原文] The former UK PM said "I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning".
+[原文] The former UK PM said: "I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning".
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 2. Trump downplays warnings of AI risks, citing rivalry with China
 
-[原文] The US President said "negative forces" were airing concerns about "things that won't happen".
+[原文] The US president said "negative forces" were airing concerns about "things that won't happen".
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
@@ -34,17 +34,17 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Six dead, 130 missing after Indonesian ferry capsizes in Java Sea
+### 4. Swedish left-wing bloc narrowly ahead with election too close to call
+
+[原文] A partial count by Sweden's election authority projected that left-wing opposition bloc would win a three-seat majority.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Six dead, 130 missing after Indonesian ferry capsizes in Java Sea
 
 [原文] Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists
-
-[原文] Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Washington scrambles to meet calls for AI guardrails while the window to act closes
+### 1. Trump says U.S. may keep Iranian oil 'like Venezuela' as Gulf-Iran Hormuz talks stall
 
-[原文] The House is scheduled to be sent home in the coming days until after November's midterm elections, leaving a narrow window to pass any form of AI regulation.
+[原文] Trump said revenue from the Venezuela arrangement has "paid for the war many times."
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/13/ai-congress-anthropic-openai-crisis.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/14/us-iran-trump-hormuz-gulf-oil-crude-talks-.html) — *CNBC*
 
-### 2. Anthropic's Amodei says China presents 'toughest dilemma' for his proposed AI slowdown
+### 2. Anthropic walks tightrope to Nasdaq, pushing for a slowdown while pursuing $2 trillion valuation
 
-[原文] OpenAI CEO Sam Altman, Demis Hassabis, the chair of Google DeepMind, and Elon Musk have all welcomed Amodei's proposal.
+[原文] As Anthropic meets with prospective investors ahead of its potentially historic market debut, CEO Dario Amodei is pushing for a slowdown in AI.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/13/china-dilemma-ai-slowdown-anthropic.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/14/anthropic-walks-tightrope-to-nasdaq-pushing-slowdown-and-pursuing-ipo.html) — *CNBC*
 
-### 3. Vessel struck in Strait of Hormuz, UKMTO says, as prospects for U.S.-Iran diplomacy appear elusive
+### 3. The 10-year Treasury is closing in on 5%. How it gets there matters more
 
-[原文] The latest strike happened ahead of an expected meeting between Iranian and Gulf officials in Oman to sign an agreement for shipping through the strait.
+[原文] The 10-year Treasury yield is closing in on 5%, a level last touched in October 2023. Strategists say the drivers behind higher yields are more important.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/13/vessel-struck-strait-of-hormuz-ukmto.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/14/10-year-us-treasury-is-closing-in-on-5percent.html) — *CNBC*
 
-### 4. NFL and midterm elections set up prediction markets for a critical fall season
+### 4. Baker Hughes sees no slowdown in energy projects despite higher rates as AI buildouts stoke LNG demand
 
-[原文] The 2025 football season and 2024 presidential election pushed prediction markets into the prominence they enjoy today.
+[原文] Baker Hughes has yet to see higher borrowing costs slow investment in major energy projects.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/13/nfl-and-midterms-mark-key-fall-season-for-prediction-markets.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/14/baker-hughes-ceo-no-slowdown-in-energy-projects-despite-higher-rates-.html) — *CNBC*
 
-### 5. Larry Ellison nixes plan to offload up to $7.5 billion worth of Oracle stock
+### 5. OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast
 
-[原文] Oracle founder Larry Ellison has canceled his plan to sell up to $7.5 billion worth of stock in the software company.
+[原文] Altman's IPO comments and Amodei's public call for more careful pacing of AI development cap a week of loud AI warnings.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/12/larry-ellison-nixes-plan-to-offload-up-to-7point5-billion-worth-of-oracle-stock-.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs
+### 1. Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic
+
+[原文] Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI and Anthropic — his $9
+
+📎 [阅读原文](https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/) — *TechCrunch*
+
+### 2. Larry Ellison cancels $7.5 billion sale of Oracle stock
+
+[原文] Oracle had previously disclosed that Ellison planned to sell 50 million shares worth around $7.5 billion.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/) — *TechCrunch*
+
+### 3. The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs
 
 [原文] From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/) — *TechCrunch*
 
-### 2. What’s behind the AI industry’s latest warnings of doom?
+### 4. What’s behind the AI industry’s latest warnings of doom?
 
 [原文] On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/) — *TechCrunch*
 
-### 3. Obama urges Democrats to have a ‘clear plan’ for AI safeguards
+### 5. Obama urges Democrats to have a ‘clear plan’ for AI safeguards
 
 [原文] Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safe
 
 📎 [阅读原文](https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/) — *TechCrunch*
-
-### 4. TechCrunch Mobility: Lyft has entered the robotaxi chat
-
-[原文] Welcome back to TechCrunch Mobility, your hub for the future of transportation, and now, more than ever, the role AI is playing in it.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/) — *TechCrunch*
-
-### 5. Fusion power startups find new partners in the defense world
-
-[原文] Fusion startups are inking defense-related deals, reigniting the relationship between fusion and national security that might have gone dormant, but never completely disappeared.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/) — *TechCrunch*
 
 ---
 
@@ -174,29 +174,29 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c5ym9ky3rzxo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. How virtual safety car cost Norris win - and should F1 change rules?
+### 2. Intelligence & resilience key in statement win for Maresca's Man City - Murphy
+
+[原文] Match of the Day pundit Danny Murphy explains how Manchester City beat Manchester United at Old Trafford despite being down to 10 men for most of the game.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cq6384g0pqyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. Zverev caps transformational year with US Open triumph
+
+[原文] Alexander Zverev lands his second Grand Slam title after ending Ben Shelton's hopes of becoming a rare home US Open men's champion.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/c1wx9qpxjg3o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. How virtual safety car cost Norris win - and should F1 change rules?
 
 [原文] Lando Norris says he was "insanely unlucky" to lose what seemed like a certain win in the Spanish Grand Prix because of the timing of a virtual safety car.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/cvgyjwxv7y3o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Haaland scores controversial winner as Man City win derby despite Foden red
+### 5. Haaland scores controversial winner as Man City win derby despite Foden red
 
 [原文] Erling Haaland's goal helps Manchester City win a highly controversial Manchester derby at rivals Manchester United despite playing with 10 men for more than 70 minutes.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cpd0j54xlyyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. 'Finally got our points' - Hull and Woad shine in European Solheim win
-
-[原文] Charley Hull gets the ball rolling as Europe's big guns finally came to the fore in Sunday's singles as they wrestled the Solheim Cup back from the United States with a 15½-12½ victory at Bernardus Go
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/c0m3pnlyl9vo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. McInnes delivers togetherness & intensity in Old Firm gobsmacker
-
-[原文] BBC Scotland's chief sportswriter Tom English analyses Rangers' convincing Old Firm victory over Celtic at Ibrox.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cj06e0mg40qo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. International Oscar Submissions: Nepal, Singapore, Israel, Romania, South Korea, Chile and More Join the List
+### 1. ‘All That She Wants’ Review: Annie Murphy and Cooper Raiff Are Well-Matched in a Generation-Gap Romcom
 
-[原文] The campaigns for the Oscar for international feature film are gaining momentum, with final submissions due by Oct. 1. The Oscars shortlists will be revealed on Dec. 15, with 15 international films se
+[原文] Millennials get their Mrs. Robinson moment with “All That She Wants,” an age-gap romcom titled after the 1992 Ace of Base hit. If you remember listening to that song on a cassingle, it’s time to ask y
 
-📎 [阅读原文](https://variety.com/lists/international-oscar-submissions-2027/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/reviews/all-that-she-wants-review-1236860677/) — *Variety*
 
-### 2. Ella Langley’s ‘Dandelion’ Album Returns to No. 1 Spot on Billboard 200 for First Time in Four Months, So ‘Choosin’ Texas’ Won’t Get Lonely at the Top
+### 2. ‘Lanterns’ Star Poorna Jagannathan Breaks Down Zoe’s Brutal Episode 5: ‘It’s a Faustian Play She Makes’
 
-[原文] Ella Langely&#8217;s fans are choosing her &#8220;Dandelion&#8221; album as a complete piece of work, and not just staying entirely trained on her long-running &#8220;Choosin&#8217; Texas&#8221; smash
+[原文] SPOILER ALERT: This article contains spoilers for “Lanterns” Episode 5, titled “Lights Out,” now streaming on HBO Max. This week&#8217;s episode of &#8220;Lanterns&#8221; finally unmasks the Manhunter
 
-📎 [阅读原文](https://variety.com/2026/music/news/ella-langley-dandelion-album-number-one-billboard-adela-1236860730/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/lanterns-episode-5-zoe-manhunter-john-kills-zoe-1236858961/) — *Variety*
 
-### 3. ‘On Behalf of My Son’ Review: A Strained Brazilian Drama About a Mother’s Apology Tour
+### 3. ’60 Minutes’ Kicks Off Much-Scrutinized 59th Season With Old Ticks, Tricks
 
-[原文] A Brazilian drama with a powerful premise but labored execution, Gabriel Martins’ “On Behalf of My Son” follows the ripple effects of a tragic bus accident through the eyes of the driver’s mother, Vic
+[原文] CBS News says it needs to push &#8220;60 Minutes&#8221; into the future if the show is to survive, but the first telecast of the 59th season following a shocking overhaul of its on-air and behind-the-
 
-📎 [阅读原文](https://variety.com/2026/film/news/on-behalf-of-my-son-review-1236860722/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/60-minutes-season-59-launch-cbs-news-old-tricks-ticks-1236860783/) — *Variety*
 
-### 4. New York Knicks Player Jalen Brunson — Emmys Host Mariska Hargitay’s Buddy — Expected to Open Show (EXCLUSIVE)
+### 4. Cynthia Erivo’s Riveting ‘Prima Facie’ Performance Earns TIFF Standing Ovation
 
-[原文] As Monday&#8217;s 78th Emmys ceremony fast approaches, Variety has learned of two new highlights that viewers should expect to see: New York Knicks point guard Jalen Brunson is expected to appear via 
+[原文] Cynthia Erivo already earned two best actress Oscar nominations for portraying Harriet Tubman and the green-skinned Elphaba in &#8220;Wicked&#8221; — not to mention her Tony-winning work in &#8220;The
 
-📎 [阅读原文](https://variety.com/2026/tv/news/new-york-knicks-jalen-brunson-emmys-mariska-hargitay-1236860658/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/cynthia-erivo-prima-facie-tiff-standing-ovation-1236860782/) — *Variety*
 
-### 5. Emmys Party Pics 2026: Mariska Hargitay, Sheryl Lee Ralph, Riz Ahmed, Katherine LaNasa and More
+### 5. Seth Green Says He Was Never Invited Back for the Canceled ‘Buffy the Vampire Slayer’ Reboot
 
-[原文] Television’s biggest night of the year always comes with lots of parties. From the Creative Coalition and BAFTA North America events leading up to the Emmys to agency soirees and post-parties hosted b
+[原文] Seth Green revealed in the Sept. 8 episode of &#8220;The McBride Rewind&#8221; podcast that he was not involved in any discussion of reprising his role as the werewolf guitarist Oz in Hulu’s canceled 
 
-📎 [阅读原文](https://variety.com/gallery/emmys-2026-party-pics/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/actors/seth-green-canceled-buffy-the-vampire-slayer-reboot-1236860816/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Overwatch Devs Confirm That Yes, Tracer Is Still The Game’s Mascot
+### 1. The Last of Us Part 2 Multiplayer Mod Cancelled at Sony’s Request
 
-[原文] You heard it here first, folks: Tracer is still the face of Overwatch, despite not being featured in many major collaborations or promotional materials as of late.
+[原文] A PvP multiplayer mod for The Last of Us Part 2 on PC is no longer going to be released after the mod maker says it was contacted by Sony Interactive Entertainment and asked not to release the project
 
-📎 [阅读原文](https://www.ign.com/articles/overwatch-devs-confirm-that-yes-tracer-is-still-the-games-mascot) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/the-last-of-us-part-2-multiplayer-mod-cancelled-at-sonys-request) — *IGN*
 
-### 2. World of Warcraft: Forever Devs Explain Why the Game Makes WoW 2 Unlikely
+### 2. Lanterns Season 1, Episode 5 Review & Recap: "Lights Out"
 
-[原文] World of Warcraft: Forever developers Kris Zierhut and Mike Nuthals detail the game's new features and explain why a WoW 2 sequel is unnecessary.
+[原文] Lanterns wraps up its 2016 storyline with a real bang, as the situation in Rushville devolves into all-out war. Read our full review of Episode 5.
 
-📎 [阅读原文](https://www.ign.com/articles/world-of-warcraft-forever-wow-2-unlikely) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/lanterns-season-1-episode-5-review-recap-lights-out) — *IGN*
 
-### 3. Scooby-Doo: Origins Reveals Cute New Photo of the Live-Action Dog
+### 3. New Batman: Part 2 Set Photos Hint at the Court of Owls
 
-暂无摘要。
+[原文] New videos and photos from the London set of The Batman: Part II will only fuel the rumors that Gotham’s secret cabal of wealthy elites, the Court of Owls, factor into the movie.
 
-📎 [阅读原文](https://www.ign.com/articles/scooby-doo-origins-new-dog-photo) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/the-batman-part-2-set-photos-court-of-owls-anarky) — *IGN*
 
-### 4. Your Mother Your Mother Your Mother Review
+### 4. This Popular RM1 CD Player Art Frame on Kickstarter Brings Back the Nostalgia I Needed and Offers to Up 55% Off in Late Pledge Rewards
 
-[原文] Your Mother Your Mother Your Mother review: Mahershala Ali joins his would-be Blade director as a devout sword-wielding assassin.
+[原文] Time to bust out my CD binder.
 
-📎 [阅读原文](https://www.ign.com/articles/your-mother-your-mother-your-mother-review) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/how-to-back-new-rm1-cd-player-art-frame-kickstarter-project) — *IGN*
 
-### 5. StarCraft Devs Promise New Game Will Definitely Release in 2030
+### 5. Diablo 5 Director Confirms Game is Already in Full Production
 
-[原文] We got the chance to speak with the developers of the new StaCcraft game, who explained why they shared such a distant release date and even teased some potential gameplay elements.
+[原文] Diablo 5 is officially in full production and coming in 2029. Game Director Joe Shely reveals the sequel will feature more classes, procedural worlds, and jump 100 years into the future.
 
-📎 [阅读原文](https://www.ign.com/articles/starcraft-devs-promise-new-game-will-definitely-release-in-2030) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/diablo-5-director-confirms-game-is-already-in-full-production) — *IGN*
 
 ---
 
@@ -441,7 +441,7 @@ The post As Far As the Eye Can See: Vintage Truck Collection With More Than 300 
 
 ### 1. Gerard Way Hints at New My Chemical Romance Album: ‘You Guys Deserve Another Record’
 
-[原文] "we kind of always wanted to make another record, so we hope to," singer told Alamodome fans of band's long-awaited follow-up to 2010’s Danger Days: The True Lives of the Fabulous Killjoys
+[原文] "We kind of always wanted to make another record, so we hope to," singer told Alamodome fans of band's long-awaited follow-up to 2010’s Danger Days: The True Lives of the Fabulous Killjoys
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/gerard-way-hints-new-my-chemical-romance-album-1235625884/) — *Rolling Stone*
 
@@ -477,35 +477,35 @@ The post As Far As the Eye Can See: Vintage Truck Collection With More Than 300 
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Live Tourism’s Biggest Operators Are Confirmed. Are You in the Room?
+### 1. India’s Domestic Tourism Boom May Be Its Biggest Inbound Problem
+
+[原文] India has too many domestic tourists, not enough foreign ones. Add to that the country is becoming more expensive and crowded while its international marketing muscle has shrunk dramatically.
+
+📎 [阅读原文](https://skift.com/2026/09/13/indias-domestic-tourism-boom-may-be-its-biggest-inbound-problem/) — *Skift*
+
+### 2. Live Tourism’s Biggest Operators Are Confirmed. Are You in the Room?
 
 [原文] The people who decide where live demand lands, who captures it, and how it gets sold are speaking in one closed room in New York on September 22. The tourism authority that turned Las Vegas into stand
 
 📎 [阅读原文](https://skift.com/2026/09/13/skift-live-tourism-summit-confirmed-speakers/) — *Skift*
 
-### 2. But Does It Have Starlink? It’s the New Must-Have, but at $500k a Plane, Somebody’s Got to Pay
+### 3. But Does It Have Starlink? It’s the New Must-Have, but at $500k a Plane, Somebody’s Got to Pay
 
 [原文] Airlines are racing to get into Starlink. The installation costs are high, but airlines are betting that the service will attract more customers.
 
 📎 [阅读原文](https://skift.com/2026/09/13/starlink-is-a-must-have-for-airlines-but-somebodys-got-to-pay/) — *Skift*
 
-### 3. Canadian Travel to the U.S. Grew for a 5th Month Despite Trade War — Still Down 27% From 2024
+### 4. Canadian Travel to the U.S. Grew for a 5th Month Despite Trade War — Still Down 27% From 2024
 
 [原文] Many thought rising political tensions would mean fewer trips — the national data says otherwise. But not every state is seeing the same rebound.
 
 📎 [阅读原文](https://skift.com/2026/09/11/canadian-travel-to-the-u-s-grew-for-a-5th-month-despite-trade-war-still-down-27-from-2024/) — *Skift*
 
-### 4. ‘I Don’t Want Cookie Cutter’: Dorchester Collection’s Stand Against the Flattening of Luxury
+### 5. ‘I Don’t Want Cookie Cutter’: Dorchester Collection’s Stand Against the Flattening of Luxury
 
 [原文] Dorchester has an interesting market opportunity stemming from its iconic properties and a dial service culture. The challenge is to tighten and refine the basics without taking judgment away from the
 
 📎 [阅读原文](https://skift.com/2026/09/11/i-dont-want-cookie-cutter-dorchesters-stand-against-the-flattening-of-luxury/) — *Skift*
-
-### 5. Skift Global Forum Preview: Accor CEO on Why Data is Essential, but Instinct Matters Most
-
-[原文] Accor CEO Sébastien Bazin shares what drives his decisions at scale for one of the world's largest hotel groups. He calls data essential, but says it should feed instinct rather than overrule it, a cl
-
-📎 [阅读原文](https://skift.com/2026/09/11/skift-global-forum-preview-accor-ceo-instinct-and-data/) — *Skift*
 
 ---
 
