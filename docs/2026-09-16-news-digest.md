@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月16日** | 生成时间: 2026-09-16 00:35
+**2026年09月16日** | 生成时间: 2026-09-16 05:01
 
 ---
 
@@ -16,29 +16,29 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards
-
-[原文] The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI "kill switch" may need to be mandatory.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 2. Denmark says Russian warship fired flares at military helicopter
+### 1. Denmark says Russian warship fired flares at military helicopter
 
 [原文] The Danish prime minister has accused Russia of "reckless" behaviour, while the Kremlin is yet to comment.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. What weapon could the US have put into space?
+### 2. What weapon could the US have put into space?
 
 [原文] The announcement by the US points to a developing field of modern warfare in the Earth's orbit.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Suspected sabotage causes major Netherlands rail disruption
+### 3. Suspected sabotage causes major Netherlands rail disruption
 
 [原文] Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. South African president vows justice as more women's bodies found near Johannesburg
+
+[原文] Police have not linked the deaths to a serial killer but are investigating this possibility.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/crgqde1nex2vo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 5. Two sailors missing after tanker attacked in Strait of Hormuz, Oman says
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Musk urges top AI labs, Chinese companies to test each other's models amid calls for slowdown
+### 1. Iran war has cost on average $246 million per day in its first five months, CBO finds
 
-[原文] Elon Musk called for the leading AI labs to peer review each others' models before they're released to the public as a way to evaluate their safety.
+[原文] The Congressional Budget Office calculated the Defense Department's Iran war cost through Aug. 1 at $38.1 billion.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/15/elon-musk-ai-safety-testing.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/15/cbo-iran-war-cost-pentagon-weapons.html) — *CNBC*
 
-### 2. Saudi pipeline closure is a brief interruption that will last days, U.S. Energy Secretary tells CNBC
+### 2. Trump says Kennedy Center will stay closed without renovation unless his name is added back
 
-[原文] The Saudis closed the East-West pipeline after it sustained damage in a drone attack launched from Iraq.
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/15/saud-arabia-east-west-pipeline-iran-war-chris-wright.html) — *CNBC*
-
-### 3. 10-year Treasury yield hits highest level since 2007 as traders bet a Fed rate hike is coming
-
-[原文] The sell-off in U.S. government debt is deepening as investors price in an interest rate hike this week.
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/15/10-year-treasury-yield-rises-to-highest-since-2007.html) — *CNBC*
-
-### 4. Treasury Secretary Bessent defends Trump economic record in contentious hearing
-
-[原文] Treasury Secretary Scott Bessent is facing questions on rising energy prices, government debt and the Trump team's economic agenda.
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/15/scott-bessent-house-hearing-economy-midterms.html) — *CNBC*
-
-### 5. Judge blocks Kennedy Center board from putting Trump's name on plaza, building
-
-[原文] The ruling comes four months after the same judge ordered that the Kennedy Center could not be renamed to include President Trump's name
+[原文] The ruling comes four months after the same judge ordered that the Kennedy Center could not be renamed to include President Trump's name.
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/15/trump-kennedy-center-name-ruling.html) — *CNBC*
+
+### 3. Senate cloture vote on Clarity Act fails, dealing regulatory blow to crypto industry
+
+[原文] The Senate on Tuesday voted to block the Clarity Act from advancing, dealing a blow to the crypto industry's push for a comprehensive market framework.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/15/senate-cloture-vote-on-clarity-act-fails-dealing-regulatory-setback-to-crypto-industry.html) — *CNBC*
+
+### 4. OpenAI CFO Sarah Friar emphasizes 'need to take safety seriously' on AI risks
+
+[原文] Friar joined CNBC's Jim Cramer on "Mad Money" as the debate over technology's safety risks rages on.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/15/open-ai-sarah-friar-safety.html) — *CNBC*
+
+### 5. Americans' incomes rose and poverty fell in 2025, Census Bureau says
+
+[原文] The data comes as the Federal Reserve is considering interest-rate increases that could slow economic growth.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/15/income-poverty-census-fed-interest-rates.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Leaks, data breaches, and ransom notes: The worst hacks of 2026 so far
+### 1. Meta now lets AI agents handle the boring parts of WhatsApp Business setup
 
-[原文] From the massive DOGE data breach and the compromise of critical infrastructure to the hack of federal surveillance systems, here are the most damaging security incidents and data breaches of 2026 so 
+[原文] A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/15/the-worst-hacks-and-breaches-of-2026-so-far/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/) — *TechCrunch*
 
-### 2. Nitter and XCancel are dead (again) after X’s latest legal actions
+### 2. The AI graveyard: a running list of projects and startups that didn’t make it
 
-[原文] The privacy-friendly services for viewing X posts without an account have gone dark again after X's escalated legal action.
+[原文] From Apple's repeatedly delayed Siri AI to OpenAI's messy "super app" launch, here's a look at the AI projects that shut down or missed expectations.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/15/nitter-and-xcancel-are-dead-again-after-xs-latest-legal-actions/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/) — *TechCrunch*
 
-### 3. OpenAI, Anthropic, Google have been in talks on AI safety for weeks
+### 3. US data centers could consume more natural gas than Germany and Japan combined by 2035
 
-[原文] OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.
+[原文] The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/) — *TechCrunch*
 
-### 4. AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round
+### 4. SpaceX will try to put Starship in orbit for the first time on September 22
 
-[原文] Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.
+[原文] Elon Musk's company will also attempt to deploy the first V3 Starlink satellites into its orbital internet constellation.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/) — *TechCrunch*
 
-### 5. Wonder scores a $425 million partnership with DoorDash as it builds its food empire
+### 5. AI agents now have a place to snitch
 
-[原文] Founded by veteran e-commerce entrepreneur Marc Lore, Wonder is slowly building a massive portfolio of restaurants and delivery companies.
+[原文] The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/15/wonder-scores-a-425-million-partnership-with-doordash-as-it-builds-its-food-empire/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/) — *TechCrunch*
 
 ---
 
@@ -168,9 +168,9 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. VAR missed Fernandez offside in Manchester derby - Webb
+### 1. VAR did not even consider if Fernandez was offside - Webb
 
-[原文] Referees' chief Howard Webb admits that the video assistant referee failed to assess the offside offence by Enzo Fernandez for the winning goal in Sunday's Manchester derby.
+[原文] Referees' chief Howard Webb has admitted that the video assistant referee (VAR) did not even consider whether Enzo Fernandez was offside for Erling Haaland's controversial winner in Sunday's Mancheste
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cv4g5rp56p55o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
@@ -186,17 +186,17 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c95y4dxr0v6do?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Sterling admits dangerous driving on motorway before crash
+### 4. Tuchel regrets not eating Azteca turf after win over Mexico
+
+[原文] Thomas Tuchel regrets not eating any of the grass at the Azteca Stadium after England's epic World Cup win against Mexico.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cq4g5r8kwx9zo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 5. Sterling admits dangerous driving on motorway before crash
 
 [原文] The former England winger crashed a Lamborghini into motorway barriers in May.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c52e01k49e8jo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. London loses bid to host 2029 World Athletics as Nairobi named host
-
-[原文] London has lost to Nairobi in its bid to host the World Athletics Championships in 2029, while the 2031 event will be held in Munich.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/crwyzvyn0p3go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Stephen Root Confirms He Is in ‘GTA 6,’ Where He Plays a Drug Trafficker in the Leonida Keys
+### 1. ‘Ace Combat 8’ Live-Action Prequel Star Josh Holloway on Revealing Four-Episode ‘Hour Zero’ Story Behind Bandai Namco Franchise’s New Game
 
-[原文] It&#8217;s official: Character actor Stephen Root has lent his voice to one of the underworld characters in Rockstar Games&#8217; highly anticipated &#8220;Grand Theft Auto 6&#8221; coming out this fa
+[原文] Before “Ace Combat 8: Wings of Theve” releases next month, fans of Bandai Namco Entertainment&#8217;s classic fighter-pilot video game franchise have a few weeks of backstory to brush up on via live-a
 
-📎 [阅读原文](https://variety.com/2026/digital/news/stephen-root-gta-6-drug-trafficker-1236863082/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/gaming/news/ace-combat-8-live-action-prequel-hour-zero-episodes-josh-holloway-1236863389/) — *Variety*
 
-### 2. International Oscar Submissions: Hungary, Nepal, the Philippines, Singapore, Israel and More Join the List
+### 2. Cinelease Buys Up Grip and Lighting Gear From Quixote
 
-[原文] The campaigns for the Oscar for international feature film are gaining momentum, with final submissions due by Oct. 1. The Oscars shortlists will be revealed on Dec. 15, with 15 international films se
+[原文] Cinelease, the film equipment rental house, announced Tuesday that it is acquiring grip and lighting equipment from Quixote, which continues to shrink its footprint amid a production slump. Quixote an
 
-📎 [阅读原文](https://variety.com/lists/international-oscar-submissions-2027/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/cinelease-quixote-lighting-grip-gear-1236861520/) — *Variety*
 
-### 3. Universal Music Group Sues DistroKid for Deceptive Trade Practices and Building an ‘AI-Slop Pipeline’
+### 3. Why the Emmys Moving to Amazon Prime Video Won’t Fix What’s Broken With Award Shows
 
-[原文] Universal Music Group sued the distribution service DistroKid on Tuesday, claiming in a federal lawsuit that the service infringed on the label’s copyright by pumping out “AI-generated ‘slop’ that sip
+[原文] Spoiler alert: Moving to streaming isn’t enough to fix award show problems. Mariska Hargitay closed the 78th Emmys on Monday night from the Peacock Theater, and the ceremony she sent off may be the la
 
-📎 [阅读原文](https://variety.com/2026/music/news/universal-music-group-sues-distrokid-ai-slop-pipeline-1236863076/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/awards/emmys-amazon-prime-video-wont-fix-award-shows-1236863243/) — *Variety*
 
-### 4. The Yellow Affair Snags San Sebastian New Directors Contender ‘Morro’ (EXCLUSIVE)
+### 4. ‘The Gentlemen’ Season 2 Sees Viewership Increase 48% in Second Week While Season 1 Also Climbs the Charts
 
-[原文] Helsinki and London-based The Yellow Affair has snatched up world sales rights to Rodrigo García Saiz’s drama “Morro” ahead of its world premiere at the New Directors’ sidebar of the San Sebastian Fil
+[原文] “The Gentlemen” Season 2 has seen a 48% jump in viewership in its second week of release on Netflix. The Guy Ritchie show, which features Theo James and Kaya Scodelario as the managers of a blossoming
 
-📎 [阅读原文](https://variety.com/2026/film/global/the-yellow-affair-morro-san-sebastian-new-directors-1236861731/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/global/the-gentlemen-netflix-season-2-viewing-figures-1236849172/) — *Variety*
 
-### 5. JustWatch Group to Launch AVOD Streaming Service This October
+### 5. ‘60 Minutes’ Season Debut Sees 21% Drop in Ratings: Is NFL or CBS News to Blame?
 
-[原文] Streaming guide JustWatch Group will debut its Advertising-Based Video on Demand (AVOD) streaming service, JustWatch TV, this October. &#8220;Every day, millions of people come to JustWatch searching 
+[原文] Was it football, or the overhaul? Ratings for the critical first episode of the new season of &#8220;60 Minutes&#8221; appear to have been tackled &#8212; by a weaker-than-expected lead-in from an NFL
 
-📎 [阅读原文](https://variety.com/2026/streaming/news/justwatch-tv-streaming-service-1236859049/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/60-minutes-season-debut-tv-ratings-drop-cbs-news-nfl-blame-1236863080/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Wolverine Developer Insomniac Promises to 'Further Refine the Player Experience' Based on Feedback
+### 1. Former Tekken Director Katsuhiro Harada Says His Next Game Will Be a ‘Surprise,’ But Not Outside Fans’ Expectations
 
-[原文] Marvel’s Wolverine developer Insomniac has said it’s planning to “further refine the player experience” based on feedback, while insisting it’s “incredibly proud” of the game.
+[原文] Katsuhiro Harada, former leader of the Tekken franchise, is finally revealing some details about his next game currently in the works at his independent development house, VS Studio.
 
-📎 [阅读原文](https://www.ign.com/articles/wolverine-developer-insomniac-promises-to-further-refine-the-player-experience-based-on-feedback) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/former-tekken-director-katsuhiro-harada-says-his-next-game-will-be-a-surprise-but-not-outside-fans-expectations) — *IGN*
 
-### 2. The Creep Tapes Season 3 Review
+### 2. Apple Watch Series 12 and Ultra 4 Get Preorder Discounts at Amazon (Out Friday)
 
-[原文] The Creep Tapes Season 3 review: A mean, hilarious, and utterly horrifying season.
+[原文] Apple Watch Series 12 and Apple Watch Ultra 4 aren't even out yet, but Amazon is already offering discounts on preorders.
 
-📎 [阅读原文](https://www.ign.com/articles/the-creep-tapes-season-3-review) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/apple-watch-series-12-and-ultra-4-get-preorder-discounts-at-amazon-out-friday) — *IGN*
 
-### 3. Wardogs Sells 2 Million Copies in 5 Days as Early Access Shooter Blows Up on Steam
+### 3. The New Fall Amazon Audible Deal Is the Best One I've Seen This Year: Get 4 Months for $0.99 Per Month
 
-[原文] Wardogs’ incredible success has seen it sell 2 million copies after just five days of release.
+[原文] Catch up on Dungeon Crawler Carl, Fourth Wing, Hunger Games, and more.
 
-📎 [阅读原文](https://www.ign.com/articles/wardogs-sells-2-million-copies-in-5-days-as-early-access-shooter-blows-up-on-steam) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/amazon-audible-deal-september-2026) — *IGN*
 
-### 4. Buffy the Vampire Slayer Reboot Cancellation Means Fans Will Never Discover if Buffy and Angel Ended Up Together, Sarah Michelle Gellar Jokes
+### 4. Zack Snyder Says 300 Is the ‘Gayest Movie Ever Made,' Defends The Last Photograph Amid Online Backlash
 
-[原文] Hulu's shock cancellation of its Buffy the Vampire Slayer reboot means that fans will never discover if Buffy and Angel ultimately ended up together.
+[原文] Zack Snyder is going viral off the heels of his latest movie, The Last Photograph, as well as his subsequent interview with Variety where he responded to the backlash against the film and made a few e
 
-📎 [阅读原文](https://www.ign.com/articles/buffy-the-vampire-slayer-reboot-cancellation-means-fans-will-never-discover-if-buffy-and-angel-ended-up-together-sarah-michelle-gellar-jokes) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/zack-snyder-says-300-is-the-gayest-movie-ever-made-defends-the-last-photograph-amid-online-backlash) — *IGN*
 
-### 5. Trump Calls AI Safety Warnings a 'Hoax,' Refuses to Back Guardrails Anthropic and OpenAI Insist Are Needed to Help Prevent Human Extinction
+### 5. The 2026 AOVOPRO 48V 500W Electric Scooter with 22-Mile Range and 22mph Top Speed Drops to $122
 
-[原文] Donald Trump has called AI safety warnings a “hoax” in response to claims the technology has a greater than 10% chance of killing all humans.
+[原文] The most powerful e-scooter I've seen for under $150.
 
-📎 [阅读原文](https://www.ign.com/articles/trump-calls-ai-safety-warnings-a-hoax-refuses-to-back-guardrails-anthropic-and-openai-insist-are-needed-to-help-prevent-human-extinction) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/aovopro-48v-500w-adult-electric-scooter-deal-september-2026) — *IGN*
 
 ---
 
@@ -320,39 +320,39 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. 2026 Honda Prelude Long-Term Test: First Impressions
+### 1. Plug-In Hybrids With 70+ Miles of Electric Range Are Here Thanks to Volvo
+
+[原文] The 2028 Volvo XC60 and XC90 just crossed an important milestone that make plug-in hybrids more capable than ever.
+The post Plug-In Hybrids With 70+ Miles of Electric Range Are Here Thanks to Volvo ap
+
+📎 [阅读原文](https://www.thedrive.com/news/plug-in-hybrids-with-70-miles-of-electric-range-are-here-thanks-to-volvo) — *The Drive*
+
+### 2. Garbage Trucks Now Have AI Cameras To Score Your House and Clock Code Violations
+
+[原文] A company called City Detect is outfitting municipalities with cameras to give homes a "blight score," effectively turning a whole city into an HOA.
+The post Garbage Trucks Now Have AI Cameras To Scor
+
+📎 [阅读原文](https://www.thedrive.com/news/garbage-trucks-now-have-ai-cameras-to-score-your-house-and-clock-code-violations) — *The Drive*
+
+### 3. 2026 Honda Prelude Long-Term Test: First Impressions
 
 [原文] So far, the Honda Prelude has proven to be a fun-to-drive, fuel-efficient coupe for getting around town, and it's clearly a driver's car. However, some of the features it's missing at this price point
 
 📎 [阅读原文](https://www.thedrive.com/car-reviews/2026-honda-prelude-long-term-test-first-impressions) — *The Drive*
 
-### 2. GM’s New V8 Trucks Ditch Oil Dipstick for Digital Gauge
+### 4. GM’s New V8 Trucks Ditch Oil Dipstick for Digital Gauge
 
 [原文] 2027 Chevy Silverados and GMC Sierras with the new 5.7-liter or 6.6-liter V8 will not feature a physical dipstick.
 The post GM&#8217;s New V8 Trucks Ditch Oil Dipstick for Digital Gauge appeared first
 
 📎 [阅读原文](https://www.thedrive.com/news/gms-new-v8-trucks-ditch-oil-dipstick-for-digital-gauge) — *The Drive*
 
-### 3. GM Finally Gave Up the Fight Against CarPlay and Android Auto: TDS
+### 5. GM Finally Gave Up the Fight Against CarPlay and Android Auto: TDS
 
 [原文] GM is introducing a new infotainment system with phone projection—first in trucks, before expanding through the lineup "across electric, gas, and diesel-powered vehicles."
 The post GM Finally Gave Up 
 
 📎 [阅读原文](https://www.thedrive.com/news/gm-finally-gave-up-the-fight-against-carplay-and-android-auto-tds) — *The Drive*
-
-### 4. 2027 Ford F-150 Brings the V8 Back to Every Trim in the Lineup
-
-[原文] Ford made a slew of changes to the new F-150 based on customer feedback, and one thing was clear: Buyers of all kinds want the 5.0-liter.
-The post 2027 Ford F-150 Brings the V8 Back to Every Trim in t
-
-📎 [阅读原文](https://www.thedrive.com/news/the-2027-ford-f-150-offers-a-v8-on-every-trim-for-the-first-time-since-2023) — *The Drive*
-
-### 5. The 2027 Ford F-150 Raptor and Tremor Will Be Thousands Cheaper. Here’s the Catch
-
-[原文] If you've been wanting an off-road-capable F-150 but the Raptor and Tremor are too pricey, Ford's got you in mind with the 2027 models.
-The post The 2027 Ford F-150 Raptor and Tremor Will Be Thousands
-
-📎 [阅读原文](https://www.thedrive.com/news/the-2027-ford-f-150-raptor-and-tremor-will-be-thousands-cheaper-heres-the-catch) — *The Drive*
 
 ---
 
@@ -438,35 +438,35 @@ The post The 2027 Ford F-150 Raptor and Tremor Will Be Thousands
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Wednesday Celebrates ‘Bleeds’ Anniversary With Deluxe Edition, Delightful New Demo
+### 1. Finneas and Every Other Ed Sheeran Opener Have Abandoned His Tour in Support of Macklemore
 
-[原文] North Carolina indie rockers introduced "June 2 (Early Version)" into their set list rotation this year
+[原文] Lukas Graham and Aaron Rowe drop out after Macklemore was forced off the trek following a pressure campaign over his comments in support of Palestinians
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/wednesday-bleeds-deluxe-demos-1235626834/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/finneas-lukas-graham-leave-ed-sheeran-tour-macklemore-1235627181/) — *Rolling Stone*
 
-### 2. New Order Keyboardist Gillian Morris Is ‘Living With Cancer’
+### 2. Muna’s Naomi McPherson Will Miss Gigs to Care for Mother With Terminal Cancer
 
-[原文] "We are enormously grateful for everyone's kindness and support and would appreciate some privacy as I continue with my treatment," the musician wrote in a statement to New Order fans
+[原文] Musician Lou Roy will fill in for McPherson for at least the first five shows of Muna’s upcoming trek
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/new-order-keyboardist-gillian-morris-cancer-1235626935/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/muna-naomi-mcpherson-tour-1235627134/) — *Rolling Stone*
 
-### 3. Caroline Rose Doesn’t Care About Your Viper Room Glory Days on New Song ‘Hello Again, Jim’
+### 3. The Veterans Who Built a Movement for Disability Rights
 
-[原文] The hooky invective against toxic music industry dudes arrives with a music video featuring actor Jimmi Simpson
+[原文] Joseph A. Jordan Jr. was only two years out of high school when he enlisted in the U.S. Army in 1943 during the height of World War II. Two years later, while stationed in France, Jordan’s jeep rolled
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/caroline-rose-new-songs-hello-again-jim-calm-1235626907/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/pvas-history-the-fight-for-veterans-rights-1946-1235617368/) — *Rolling Stone*
 
-### 4. Bob Dylan Announces Massive 39-Disc Box Set Chronicling 1976 Rolling Thunder Revue
+### 4. Nashville Indie-Rockers Lombardy Run Through the Jungle in Fiery ‘Bazooka’ Video
 
-[原文] Check out a preview of the Planet Waves deep cut “Going, Going, Gone,” which is one of 371 tracks that have never been officially released prior to this new collection
+[原文] Taking inspiration from classic war films, the clip finds the band members firing rockets from their guitars
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/bob-dylan-box-set-1976-rolling-thunder-revue-1235626854/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/lombardy-bazooka-music-video-predator-1235626332/) — *Rolling Stone*
 
-### 5. Carjacked Trailers and Missing Drummers: How Guns N’ Roses Became Music Video Superstars
+### 5. Ed Sheeran Breaks Silence on Macklemore Leaving Tour: Venue, Promoter Made ‘Final’ Decisions
 
-[原文] Director Nigel Dick shares the stories behind the visuals for "Welcome to the Jungle," "Paradise City," and "Sweet Child o' Mine" in excerpt from new memoir
+[原文] “I have spent this week trying to build bridges, to find a solution, and, unfortunately, was unable to do so,” singer says
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/guns-n-roses-music-video-book-excerpt-1235616883/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/ed-sheeran-macklemore-tour-statement-1235626937/) — *Rolling Stone*
 
 ---
 
@@ -476,35 +476,35 @@ The post The 2027 Ford F-150 Raptor and Tremor Will Be Thousands
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Broken Creator-to-Booking Chain, and Why It Matters Now
+### 1. Skift Creator Summit: Five Decisions in the Room
+
+[原文] Creators now run production studios that drive brand storytelling, customer acquisition, booking behavior, and loyalty. The travel industry knows creators matter. The question is: how should brands bu
+
+📎 [阅读原文](https://skift.com/2026/09/15/skift-creator-summit-five-decisions-in-the-room/) — *Skift*
+
+### 2. Skift Live Tourism Summit: Five Decisions in the Room
+
+[原文] Every destination has live events on its calendar. The open question is whether it builds anything lasting.
+
+📎 [阅读原文](https://skift.com/2026/09/15/skift-live-tourism-summit-five-decisions-in-the-room/) — *Skift*
+
+### 3. The Broken Creator-to-Booking Chain, and Why It Matters Now
 
 [原文] The fight in travel's creator economy has shifted. It used to be about attention, now it's about who gets the attribution for the booking.
 
 📎 [阅读原文](https://skift.com/2026/09/15/the-broken-creator-to-booking-chain-and-why-it-matters-now/) — *Skift*
 
-### 2. Why Human Connection Is Hospitality’s Next Wellness Frontier
+### 4. Why Human Connection Is Hospitality’s Next Wellness Frontier
 
 [原文] As loneliness rises and travelers seek more meaningful time together, hospitality may have a new role to play in wellness. Evermore Orlando Resort is testing whether social connection can be intention
 
 📎 [阅读原文](https://skift.com/2026/09/15/relational-wellness-future-of-hospitality/) — *Skift*
 
-### 3. Field & Stream Lodge Adds Two Hotels. Building the Brand Will Take Time.
+### 5. Field & Stream Lodge Adds Two Hotels. Building the Brand Will Take Time.
 
 [原文] Field & Stream Lodge launched in 2023. Deals two and three are conversions in Bend and Big Bear, opening in 2028. Starwood Capital and AJ Capital say high capital costs are setting the pace for brand-
 
 📎 [阅读原文](https://skift.com/2026/09/15/barry-sternlichts-field-stream-lodge-adds-two-hotels-building-the-brand-will-take-time/) — *Skift*
-
-### 4. Lindblad Adds a Luxury Antarctic Brand in Its Latest Founder-Led Deal: Exclusive
-
-[原文] White Desert and Echo Charlie will keep their founder-led vision and culture while benefitting from Lindblad's resources and reach.
-
-📎 [阅读原文](https://skift.com/2026/09/15/lindblad-acquires-white-desert-echo-charlie/) — *Skift*
-
-### 5. GetYourGuide Taps Creators to Write Reviews for Tour Operators
-
-[原文] Listings with no reviews can struggle to attract new customers. GetYourGuide is hoping an extensive network of content creators can help.
-
-📎 [阅读原文](https://skift.com/2026/09/15/getyourguide-creator-reviews-new-listings/) — *Skift*
 
 ---
 
