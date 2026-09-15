@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月15日** | 生成时间: 2026-09-15 12:07
+**2026年09月15日** | 生成时间: 2026-09-15 19:23
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. China criticises idea it is in 'malicious competition' over AI
+### 1. Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards
 
-[原文] It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race.
+[原文] The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI "kill switch" may need to be mandatory.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Welsh actor Matthew Rhys makes Emmy Awards history with double win
+### 2. AI regulation faces political deadlock as calls grow for Congress to act
+
+[原文] With Trump opposed and Congress divided, new safety legislation on AI is unlikely to pass anytime soon despite mounting pressure.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. Denmark says Russian warship fired flares at military helicopter
+
+[原文] The Danish prime minister has accused Russia of "reckless" behaviour, while the Kremlin is yet to comment.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. Welsh actor Matthew Rhys makes Emmy Awards history with double win
 
 [原文] He becomes the first person to win two lead acting prizes in one night at the prestigious TV ceremony.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Nato jets down drone that entered Lithuanian airspace
+### 5. Suspected sabotage causes major Netherlands rail disruption
 
-[原文] The origin of the drone is currently unknown, but authorities say it likely entered Lithuania from neighbouring Belarus, an ally of Russia.
+[原文] Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. US confirms for first time it has deployed space weapons
-
-[原文] The US Air Force Secretary says the weapons are necessary to defend the country against enemy action.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Wild dogs record 2,500-mile trek across Zambia in search of a mate
-
-[原文] Scientists say the record-breaking journey by three brothers offers hope wildlife can survive growing pressures.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump goes scorched earth on AI warnings, raging about data center opposition and regulation
+### 1. 10-year Treasury yield rises to highest since 2007 as Fed rate-hike expectations rise
 
-[原文] The Trump administration has encouraged AI's rapid growth and the development of data centers as it seeks an insurmountable tech edge over China.
+[原文] The sell-off in U.S. government debt is deepening as investors increasingly price in an interest rate hike this week.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/14/trump-ai-data-centers-anthropic-dario-amodei.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/15/10-year-treasury-yield-rises-to-highest-since-2007.html) — *CNBC*
 
-### 2. Weapon shortfalls, 'hundreds' of buildings and aircraft damaged, $33.4 billion spent: the U.S. government tallies costs of the Iran war
+### 2. No one and done: The Fed will hike at least two times over the next year, according to CNBC survey
 
-[原文] The department revealed that the Iran war had cost an estimated $33.4 billion as of June 29.
+[原文] While higher oil is cited as a main reason for the change in view, roughly three quarters of respondents see the inflation problem as broader than just energy prices.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/15/cnbc-fed-survey-two-rate-hikes-seen-ahead.html) — *CNBC*
+
+### 3. Iranian foreign minister will head to China for talks, as Pentagon reveals financial cost of war
+
+[原文] Iranian foreign minister Abbas Araqchi will visit China on Wednesday for talks, Beijing's foreign ministry announced on Tuesday.
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/15/us-iran-war-trump-hormuz-munitions-dod-costs-aircraft.html) — *CNBC*
 
-### 3. Oil and Treasury yields haven’t moved this closely in seven years. That’s bad news for markets
+### 4. Kraft Heinz bets on more flavors for Philadelphia cream cheese as it looks to revive brands
 
-[原文] Oil and 10-year Treasury yields are moving in near lockstep, with their correlation at its strongest since 2019.
+[原文] Philadelphia will release more cream cheese flavors as part of Kraft Heinz's turnaround.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/15/oil-us-treasurys-stocks-pressure.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/15/kraft-heinz-new-philadelphia-cream-cheese-flavors.html) — *CNBC*
 
-### 4. Counting the votes: Warsh faces a tough battle as the Fed girds for expected interest rate hike
+### 5. Supreme Court rejects Trump bid to lift block on U.S. Postal Service mail-in ballots rule
 
-[原文] Traders were pricing in a better than 92% probability of a rate increase, as well as a more than 75% chance for another one in December.
+[原文] Justice Brett Kavanaugh said that applying the U.S. Postal Service rule in the 2026 midterm elections "would be arbitrary and capricious."
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/14/counting-the-votes-warsh-faces-tough-battle-as-fed-girds-for-expected-rate-hike.html) — *CNBC*
-
-### 5. Oil extends gains following Houthi strikes on Saudi Arabia
-
-[原文] Oil extended gains amid reports of fresh Houthi strikes on Saudi Arabia and attacks by Iran on ships in the Gulf.
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/15/oil-extends-gains-following-houthi-strikes-on-saudi-arabia.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/14/supreme-court-trump-mail-ballots-midterms.html) — *CNBC*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. 'Unplayable' & 'almost perfect' - Calvert-Lewin set for England recall?
+### 1. London loses bid to host 2029 World Athletics as Nairobi named host
 
-[原文] Dominic Calvert-Lewin has now scored in Leeds' past five league matches. Is he ready for an England recall?
+[原文] London has lost to Nairobi in its bid to host the World Athletics Championships in 2029, while the 2031 event will be held in Munich.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cv1j49220j93o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/crwyzvyn0p3go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Leeds inflict heavy defeat on Newcastle to climb to third
+### 2. Sweeney ad a barrier for girls in sport - Hunt
 
-[原文] Dominic Calvert-Lewin stars as Leeds United go third in the Premier League with a superb performance to inflict a heavy 4-1 defeat on Newcastle United at Elland Road.
+[原文] British sprinter Amy Hunt says she is concerned about the controversial advert starring Sydney Sweeney being part of a "barrier" to girls' participation in sport.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/c8d3el7mvypo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/cr780v5361j0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. 'This is what women in sport look like' - Hunt leads response to Sweeney advert
+### 3. Spurs' Richarlison posts crying emoji after being left out of Liverpool tie
 
-[原文] British sprinter Amy Hunt is among an array of female athletes criticising the controversial betting advert starring actress Sydney Sweeney.
+[原文] Richarlison publicly expresses his displeasure at Roberto de Zerbi's decision to leave him out of Tottenham's squad for Tuesday's Carabao Cup tie against Liverpool.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/c9dw905jw5no?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cmrl6errl1p6o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Graham & Ure make Pocognoli's first Scotland squad
+### 4. How did they get the Madring track so wrong? - F1 Q&A
 
-[原文] Stoke City centre-half Luke Graham and Sevilla striker Robbie Ure will receive their first full Scotland call-ups on Tuesday when Sebastien Pocognoli names his first squad as head coach.
+[原文] BBC Sport F1 correspondent Andrew Benson answers your latest questions after the Spanish Grand Prix.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cm9dw94zzyx1o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/c4g7pljy4neo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Who has made Troy's Premier League team of the week?
+### 5. McBurnie & seven uncapped names in Scotland squad
 
-[原文] After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?
+[原文] Hull City forward Oli McBurnie is called up to the Scotland squad for the first time in five years while seven uncapped make new head coach Sebastien Pocognoli's first selection.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cxr50zln2gqro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cq770klrzmvyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Mariska Hargitay Leads a Brisk Yet Celebratory Emmys in a Return to Form: TV Review
+### 1. Singapore-South Korea Series ‘Collateral Romance’ Set at Mediacorp, Blintn
 
-[原文] Last year, the Emmys bet on an unorthodox host in Nate Bargatze and the result was an unmitigated disaster. This year, the Emmys bet on an unorthodox host and were rewarded with an effusive, yet effic
+[原文] Singapore&#8217;s Mediacorp and Korean content investment company Blintn are teaming on &#8220;Collateral Romance,&#8221; a 12-episode Singapore-South Korea romantic comedy filmed across both countrie
 
-📎 [阅读原文](https://variety.com/2026/tv/reviews/emmys-2026-review-1236862540/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/singapore-korea-series-collateral-romance-mediacorp-blintn-1236862829/) — *Variety*
 
-### 2. Apple TV Wins 28 Emmys Thanks to ‘Widow’s Bay’ Sweep, HBO Max Takes Second Place With Help From ‘The Pitt’ and ‘DTF St. Louis’
+### 2. PGA Tour Names Tyler Rutstein Chief Marketing Officer
 
-[原文] &#8220;Widow&#8217;s Bay&#8221; was the most-awarded show at the Emmys this year, winning 14 trophies total. The Apple TV comedy already had eight wins under its belt at the start of Monday night&#821
+[原文] Tyler Rustein, who has held positions with sports-focused apparel companies as well as the alternative Overtime sports leagues, will join the PGA Tour as its new chief marketing officer on October 5. 
 
-📎 [阅读原文](https://variety.com/2026/tv/news/apple-tv-wins-emmys-widows-bay-hbo-max-1236861206/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/pga-tour-tyler-rutstein-chief-marketing-officer-1236861263/) — *Variety*
 
-### 3. Emmys 2026 Snubs and Surprises: Colbert’s Final Season Wins, Oscar Isaac Can’t Stop Matthew Rhys, Taylor Swift Crashes the Party and More
+### 3. Prime Video’s ‘The House of the Spirits’ Showrunners Francisca Alegria and Fernanda Urrejola Lead Alma Media Lab Slate (EXCLUSIVE)
 
-[原文] The 78th Primetime Emmy Awards are here, and much like a passing glance at a cloudless night sky, the stars are out! But this is no time for puns! Television’s biggest night was hosted by “Law &#38; O
+[原文] Chile’s Francisca Alegría and Fernanda Urrejola, co-showrunners of Prime Video&#8217;s epic saga &#8220;The House of the Spirits” lead the slate of Alma Media Lab, a fledgling publishing-to-screen com
 
-📎 [阅读原文](https://variety.com/2026/awards/features/emmys-2026-snubs-surprises-colbert-wins-1236861943/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/house-of-the-spirits-francisca-alegria-fernanda-urrejola-1236853522/) — *Variety*
 
-### 4. Seven Variety Cover Stars Win 2026 Emmys
+### 4. Nepal’s Oscar Contender ‘Elephants in the Fog’ Rallies Flood Relief Efforts at Toronto and Beyond (EXCLUSIVE)
 
-[原文] TV’s biggest night has officially come to a close, and a select group of stars can now say they’re both Emmy winners and Variety cover stars. Seven 2026 Emmy winners — from Noah Wyle to Jean Smart and
+[原文] Nepal&#8217;s Academy Awards entry &#8220;Elephants in the Fog&#8221; is the sole Nepali film at the Toronto Film Festival, where director Abinash Bikram Shah has turned the film&#8217;s international
 
-📎 [阅读原文](https://variety.com/2026/tv/awards/variety-cover-stars-emmys-matthew-rhys-jean-smart-noah-wyle-1236862389/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/nepal-oscar-elephants-in-the-fog-flood-relief-efforts-1236862788/) — *Variety*
 
-### 5. Emmys So White Part 2: No Actors of Color Win Major Acting Prizes on TV’s Biggest Night
+### 5. Mikel Gurrea’s Awaited ‘Saints,’ Toplined by ‘The Beloved’ Star Victoria Luengo, Swooped on by M-Appeal (EXCLUSIVE)
 
-[原文] Sequels can be just as bad as their predecessors, and we&#8217;re in the midst of another unfortunate one. On Monday at the 78th Emmy Awards, in the lead and supporting races for drama and comedy, in 
+[原文] Mikel Gurrea’s “Saints,” starring Victoria Luengo, who played opposite Javier Bardem in “The Beloved,” will be brought to market at San Sebastián by Berlin-based M-Appeal which has acquired its intern
 
-📎 [阅读原文](https://variety.com/2026/tv/news/emmys-so-white-part-2-no-actors-of-color-win-emmys-2026-1236862434/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/mikel-gurrea-victoria-luengo-saints-m-appeal-1236862787/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Marvel's Wolverine Actor Liam McIntyre Isn't Fazed by Players' Brutal Comments About the Game
+### 1. US Confirms for the First Time It Has Deployed a Space Weapon in Earth's Orbit
+
+[原文] It sounds like something ripped straight out of a science fiction war movie, but it is now a reality: the U.S. has, for the first time, confirmed it has deployed a space weapon in Earth’s orbit.
+
+📎 [阅读原文](https://www.ign.com/articles/us-confirms-for-the-first-time-it-has-deployed-a-space-weapon-in-earths-orbit) — *IGN*
+
+### 2. James Bond Game 007 First Light Delayed Until 2027 on Nintendo Switch 2
+
+[原文] James Bond game 007 First Light has been delayed yet again on Nintendo Switch 2, and will now arrive in March 2027.
+
+📎 [阅读原文](https://www.ign.com/articles/james-bond-game-007-first-light-delayed-until-2027-on-nintendo-switch-2) — *IGN*
+
+### 3. Marvel's Wolverine Actor Liam McIntyre Isn't Fazed by Players' Brutal Comments About the Game
 
 [原文] Wolverine actor Liam McIntyre has seen what fans are saying about him and Insomniac's latest superhero game, but it's no skin off his nose.
 
 📎 [阅读原文](https://www.ign.com/articles/marvels-wolverine-actor-liam-mcintyre-isnt-fazed-by-players-brutal-comments-about-the-game) — *IGN*
 
-### 2. All the 2026 Emmy Winners (Updating Live)
+### 4. 2026 Emmy Award Winners: The Full List
 
 暂无摘要。
 
 📎 [阅读原文](https://www.ign.com/articles/2026-emmy-awards-winners) — *IGN*
 
-### 3. Save $10 Off the LEGO Nintendo Game Boy Building Set With Walmart's Hidden Coupon Code
+### 5. Save $10 Off the LEGO Nintendo Game Boy Building Set With Walmart's Hidden Coupon Code
 
 [原文] A must own set for any LEGO fan and Nintendo gamer.
 
 📎 [阅读原文](https://www.ign.com/articles/lego-game-boy-deal-september-2026) — *IGN*
-
-### 4. Wardogs Players Are Avoiding One of the Game's Factions Because It Has a Stigma of Attracting the Stupidest Players
-
-[原文] Wardogs players are avoiding the game's Lonestar faction, as they seemingly attract the worst players and lose the most games.
-
-📎 [阅读原文](https://www.ign.com/articles/wardogs-players-are-avoiding-one-of-the-games-factions-because-it-has-a-stigma-of-attracting-the-stupidest-players) — *IGN*
-
-### 5. EU Kids Act Could Require Gamers to Prove Their Age Before Playing Certain Games
-
-[原文] The EU Kids Act will be presented before the European Parliament on Thursday, and if passed, will have a meaningful impact on gamers of all ages if they want access to certain kinds of games.
-
-📎 [阅读原文](https://www.ign.com/articles/eu-kids-act-could-require-gamers-to-prove-their-age-before-playing-certain-games) — *IGN*
 
 ---
 
@@ -320,39 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Mechanics Tool Set Clearance at Amazon: Get up to 52% off DeWalt, Craftsman, and More
+### 1. 2027 Ford F-150 Brings the V8 Back to Every Trim in the Lineup
+
+[原文] Ford made a slew of changes to the new F-150 based on customer feedback, and one thing was clear: Buyers of all kinds want the 5.0-liter.
+The post 2027 Ford F-150 Brings the V8 Back to Every Trim in t
+
+📎 [阅读原文](https://www.thedrive.com/news/the-2027-ford-f-150-offers-a-v8-on-every-trim-for-the-first-time-since-2023) — *The Drive*
+
+### 2. The 2027 Ford F-150 Raptor and Tremor Will Be Thousands Cheaper. Here’s the Catch
+
+[原文] If you've been wanting an off-road-capable F-150 but the Raptor and Tremor are too pricey, Ford's got you in mind with the 2027 models.
+The post The 2027 Ford F-150 Raptor and Tremor Will Be Thousands
+
+📎 [阅读原文](https://www.thedrive.com/news/the-2027-ford-f-150-raptor-and-tremor-will-be-thousands-cheaper-heres-the-catch) — *The Drive*
+
+### 3. Mechanics Tool Set Clearance at Amazon: Get up to 52% off DeWalt, Craftsman, and More
 
 [原文] Some huge 300- and 200-piece tool kits are almost half off, along with lots of other high-quality stuff from Klein, Sunex, Wera, Craftsman, DeWalt, GearWrench, and even more.
 The post Mechanics Tool S
 
 📎 [阅读原文](https://www.thedrive.com/news/mechanics-tool-set-clearance-at-amazon-get-up-to-52-off-dewalt-craftsman-and-more) — *The Drive*
 
-### 2. iOS 27 CarPlay’s Best New Features, According to Someone Who Used Them
+### 4. iOS 27 CarPlay’s Best New Features, According to Someone Who Used Them
 
 [原文] The latest iPhone update makes CarPlay more useful, with more widget options, new nav features, and a small but important improvement for music and podcasts.
 The post iOS 27 CarPlay&#8217;s Best New F
 
 📎 [阅读原文](https://www.thedrive.com/news/ios-27-carplays-best-new-features-according-to-someone-who-actually-used-them) — *The Drive*
 
-### 3. You’ve Never Seen a 16,000-Pound Trailer Stay This Stable in a Panic Brake
+### 5. You’ve Never Seen a 16,000-Pound Trailer Stay This Stable in a Panic Brake
 
 [原文] These Diamond C trailers feature an anti-lock braking system that turns potentially disastrous maneuvers into largely uneventful moments on the highway.
 The post You&#8217;ve Never Seen a 16,000-Pound
 
 📎 [阅读原文](https://www.thedrive.com/news/youve-never-seen-a-16000-pound-trailer-stay-this-stable-in-a-panic-brake) — *The Drive*
-
-### 4. Late-Night McLaren Crash Kills Well-Known Cars and Coffee Founder
-
-[原文] South OC Cars &#038; Coffee organizer James Wehr, 27, has died.
-The post Late-Night McLaren Crash Kills Well-Known Cars and Coffee Founder appeared first on The Drive.
-
-📎 [阅读原文](https://www.thedrive.com/news/late-night-mclaren-crash-kills-well-known-cars-and-coffee-founder) — *The Drive*
-
-### 5. 2026 Honda Prelude Long-Term Test Begins: Living With Honda’s Most Controversial Car
-
-[原文] The new Prelude's connection to its predecessor, along with its drivetrain, performance, and price, has enthusiasts up in arms. But is the shade justified? We're living with one for a long time to fin
-
-📎 [阅读原文](https://www.thedrive.com/car-reviews/2026-honda-prelude-long-term-test-begins-living-with-hondas-most-controversial-car) — *The Drive*
 
 ---
 
@@ -362,35 +363,35 @@ The post Late-Night McLaren Crash Kills Well-Known Cars and Coffee Founder appea
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump Doubles Down on Climate Denial With Plan to Repeal Power Plant Rules
+### 1. How the End of USAID Eroded Global Environmental Goals
+
+[原文] Before its abrupt dismantling last year, the U.S. Agency for International Development was one of the world’s largest funders of conservation, climate resilience and other environmental programs. The 
+
+📎 [阅读原文](https://insideclimatenews.org/news/15092026/usaid-cancellation-weakened-global-environmental-protections/) — *Inside Climate News*
+
+### 2. Latino Conservation Week Kicks Off at Threatened Arizona National Monument
+
+[原文] IRONWOOD FOREST NATIONAL MONUMENT, Ariz.—Cassandra Becerra didn’t know it when she first arrived in the U.S. from Mexico as a three-year-old, but she was already an environmentalist. Her family didn’t
+
+📎 [阅读原文](https://insideclimatenews.org/news/15092026/latino-conservation-week-ironwood-forest-national-monument/) — *Inside Climate News*
+
+### 3. New England Affirms Faith in Wind Energy’s Future
+
+[原文] Second time’s the charm? On Aug. 25, Maine’s Public Utilities Commission selected winning proposals in a years-long effort to turn more of northern Maine’s howling winds into energy that can power pop
+
+📎 [阅读原文](https://insideclimatenews.org/news/15092026/maine-wind-energy-transmission-winning-proposals/) — *Inside Climate News*
+
+### 4. Trump Doubles Down on Climate Denial With Plan to Repeal Power Plant Rules
 
 [原文] On the heels of the hottest summer on record and a United Nations report warning that global temperatures are likely to push climate risks to “increasingly dangerous heights,” the Trump administration
 
 📎 [阅读原文](https://insideclimatenews.org/news/14092026/trump-epa-plan-to-repeal-power-plant-rules/) — *Inside Climate News*
 
-### 2. What’s Next for Summit’s Carbon ‘Pipeline to Nowhere’?
+### 5. What’s Next for Summit’s Carbon ‘Pipeline to Nowhere’?
 
 [原文] The Iowa Utilities Commission is moving toward hearings on the second phase of a proposed carbon dioxide pipeline, which would add hundreds of miles of lines to a project already stuck in a legal quag
 
 📎 [阅读原文](https://insideclimatenews.org/news/14092026/iowa-summit-carbon-pipeline-uncertain-future/) — *Inside Climate News*
-
-### 3. Jet Fuel in the Water
-
-[原文] Welcome to Inside Climate, a podcast from the staff of Inside Climate News. In this episode, we delve into how President Donald Trump’s environmental policy rollbacks are impacting ordinary people. In
-
-📎 [阅读原文](https://insideclimatenews.org/news/14092026/inside-climate-podcast-jet-fuel-pipeline-spill/) — *Inside Climate News*
-
-### 4. Is Wildfire Risk Increasing in the Midwest?
-
-[原文] On the night of July 6, a storm moved over northern Minnesota near the Boundary Waters Canoe Area Wilderness. The boreal forest there, composed of species like balsam fir, spruce and pine, was extreme
-
-📎 [阅读原文](https://insideclimatenews.org/news/14092026/midwest-wildfire-risk/) — *Inside Climate News*
-
-### 5. As Power Demand Rises, a Clean-Energy State Falls Back on Coal
-
-[原文] Before Iowa was the nation’s most wind-powered state, it generated nearly all of its electricity with coal. Since 2000, the fossil fuel’s role in the state’s power mix has diminished as utilities buil
-
-📎 [阅读原文](https://insideclimatenews.org/news/14092026/iowa-increases-coal-power-to-meet-electricity-demand/) — *Inside Climate News*
 
 ---
 
@@ -438,35 +439,35 @@ The post Late-Night McLaren Crash Kills Well-Known Cars and Coffee Founder appea
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Taylor Swift Chats With Tom Cruise as She Cheers on Travis Kelce at First Chiefs Game Since Wedding
+### 1. Watch Olivia Rodrigo Sing ‘Strong Enough’ for Sheryl Crow in Nashville
+
+[原文] The pop star made a surprise appearance at the BMI Troubadour ceremony, which honored 2026 recipient Crow with performances by Chris Stapleton, Eric Church, and more
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/olivia-rodrigo-sings-for-sheryl-crow-nashville-1235626697/) — *Rolling Stone*
+
+### 2. Taylor Swift Chats With Tom Cruise as She Cheers on Travis Kelce at First Chiefs Game Since Wedding
 
 [原文] The superstar skipped the Emmys to support Kelce during the season-opening game in Kansas City
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/taylor-swift-first-chiefs-game-travis-kelce-wedding-1235626496/) — *Rolling Stone*
 
-### 2. Robert Kraft Confirms He Barred Macklemore From Ed Sheeran Boston Shows
+### 3. Robert Kraft Confirms He Barred Macklemore From Ed Sheeran Boston Shows
 
 [原文] Billionaire Patriots owner said he is committed to “ensuring that all events held at our venue do not provide a platform for hate speech.”
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/macklemore-dropped-ed-sheeran-tour-robert-kraft-statement-1235626352/) — *Rolling Stone*
 
-### 3. TikTok Influencer Pleads Not Guilty to Dark-Web Hit Plot Against Singer Jack Avery
+### 4. TikTok Influencer Pleads Not Guilty to Dark-Web Hit Plot Against Singer Jack Avery
 
 [原文] Gabbie Gonzalez entered her plea alongside her father and ex-boyfriend after prosecutors accused the trio of conspiring to kill the Why Don’t We singer amid a child-custody dispute
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/tiktok-gabbie-gonzalez-arraigned-why-dont-we-jack-avery-1235626190/) — *Rolling Stone*
 
-### 4. Macklemore Says He Was Dropped From Ed Sheeran Tour After Robert Kraft Pressure Campaign
+### 5. Macklemore Says He Was Dropped From Ed Sheeran Tour After Robert Kraft Pressure Campaign
 
 [原文] The Seattle rapper claimed the billionaire New England Patriots owner told Sheeran that Macklemore would not be allowed to perform at Gillette Stadium and “rallied” other stadium owners
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/macklemore-statement-dropped-ed-sheeran-tour-1235626135/) — *Rolling Stone*
-
-### 5. Oasis Announce 2027 Global Tour Dates
-
-[原文] The North American leg will bring the Manchester band to Boston and Las Vegas
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/oasis-2027-tour-dates-liam-noel-gallagher-1235625948/) — *Rolling Stone*
 
 ---
 
@@ -476,35 +477,35 @@ The post Late-Night McLaren Crash Kills Well-Known Cars and Coffee Founder appea
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Wyndham’s Newest Brand Is a Boutique Spin-Off of Dolce Hotels
+### 1. Lindblad Adds a Luxury Antarctic Brand in Its Latest Founder-Led Deal: Exclusive
+
+[原文] White Desert and Echo Charlie will keep their founder-led vision and culture while benefitting from Lindblad's resources and reach.
+
+📎 [阅读原文](https://skift.com/2026/09/15/lindblad-acquires-white-desert-echo-charlie/) — *Skift*
+
+### 2. GetYourGuide Taps Creators to Write Reviews for Tour Operators
+
+[原文] Listings with no reviews can struggle to attract new customers. GetYourGuide is hoping an extensive network of content creators can help.
+
+📎 [阅读原文](https://skift.com/2026/09/15/getyourguide-creator-reviews-new-listings/) — *Skift*
+
+### 3. UAE Hotels Give Up on Q4, Hope for 2027 Recovery
+
+[原文] Hoteliers are getting occupancy back faster than rate — and it’s that gap, not just the war itself, pushing full recovery to 2027.
+
+📎 [阅读原文](https://skift.com/2026/09/15/uae-hotels-give-up-on-q4-hope-for-2027-recovery/) — *Skift*
+
+### 4. Wyndham’s Newest Brand Is a Boutique Spin-Off of Dolce Hotels
 
 [原文] Wyndham knows how to scale budget brands across thousands of properties. Dolce Nova requires a different instinct — one built on restraint, design, and a guest it hasn’t historically chased.
 
 📎 [阅读原文](https://skift.com/2026/09/14/wyndhams-newest-brand-is-a-boutique-spin-off-of-dolce-hotels/) — *Skift*
 
-### 2. Booking’s 5 AI Experiments — and Why Agoda’s Is Next
+### 5. Booking’s 5 AI Experiments — and Why Agoda’s Is Next
 
 [原文] Both Booking and Expedia have the luxury to address consumer-facing AI from multiple angles, including chatbots, specialized agents, and startups.  Their approaches overlap, but also have distinct dif
 
 📎 [阅读原文](https://skift.com/2026/09/14/bookings-5-ai-experiments-and-why-agodas-is-next/) — *Skift*
-
-### 3. Skift Global Forum Preview: Revolution’s Steve Case on Which Friction to Protect From AI
-
-[原文] Will this become abundant, or stay scarce? That one question drives how Steve Case invests in the AI era: AI on the abundant, capital on the rest. It leads him somewhere counterintuitive: the industry
-
-📎 [阅读原文](https://skift.com/2026/09/14/skift-global-forum-preview-steve-case-friction-ai-travel/) — *Skift*
-
-### 4. Thailand Tightens Entry Rules to Focus on ‘Quality Tourism’
-
-[原文] Thailand's shorter visa-free stays are likely to hit long-haul itineraries harder than short breaks — and the property market harder than hotels. For travel companies, the business impact will depend 
-
-📎 [阅读原文](https://skift.com/2026/09/14/thailand-tightens-entry-rules-to-focus-on-quality-tourism/) — *Skift*
-
-### 5. New Research: 5 Revenue Moves to Make Amid Market Uncertainty
-
-[原文] A new report from Sabre makes the case that leaders who make themselves comfortable with uncertainty will be able to pull ahead in a volatile market. Travel companies across sectors that balance finan
-
-📎 [阅读原文](https://skift.com/2026/09/14/new-research-5-revenue-moves-to-make-amid-market-uncertainty/) — *Skift*
 
 ---
 
