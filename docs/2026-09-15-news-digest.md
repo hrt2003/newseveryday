@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月15日** | 生成时间: 2026-09-15 05:39
+**2026年09月15日** | 生成时间: 2026-09-15 12:07
 
 ---
 
@@ -22,29 +22,29 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station
+### 2. Welsh actor Matthew Rhys makes Emmy Awards history with double win
 
-[原文] The former UK PM said: "I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning".
+[原文] He becomes the first person to win two lead acting prizes in one night at the prestigious TV ceremony.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Swedish left-wing bloc narrowly ahead with election too close to call
+### 3. Nato jets down drone that entered Lithuanian airspace
 
-[原文] With more than 90% of ballots processed early on Monday, the left-wing bloc was in front by approximately 20,000 votes.
+[原文] The origin of the drone is currently unknown, but authorities say it likely entered Lithuania from neighbouring Belarus, an ally of Russia.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Wild dogs record 2,500-mile trek across Zambia in search of a mate
+### 4. US confirms for first time it has deployed space weapons
+
+[原文] The US Air Force Secretary says the weapons are necessary to defend the country against enemy action.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Wild dogs record 2,500-mile trek across Zambia in search of a mate
 
 [原文] Scientists say the record-breaking journey by three brothers offers hope wildlife can survive growing pressures.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Thousands demand end to violence in Mexican cartel hotspot
-
-[原文] Culiacán has seen violence skyrocket since a feud broke out between two rival factions of the Sinaloa cartel.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Counting the votes: Warsh faces a tough battle as the Fed girds for expected interest rate hike
-
-[原文] Traders were pricing in a better than 92% probability of a rate increase, as well as a more than 75% chance for another one in December.
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/14/counting-the-votes-warsh-faces-tough-battle-as-fed-girds-for-expected-rate-hike.html) — *CNBC*
-
-### 2. Trump administration repeals Biden era greenhouse gas requirements for power plants
-
-[原文] President Donald Trump has systemically dismantled regulations implemented by the Obama and Biden administrations that sought to fight climate change.
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/14/trump-epa-carbon-dioxide-power-plant-climate-change.html) — *CNBC*
-
-### 3. Trump goes scorched earth on AI warnings, raging about data center opposition and regulation
+### 1. Trump goes scorched earth on AI warnings, raging about data center opposition and regulation
 
 [原文] The Trump administration has encouraged AI's rapid growth and the development of data centers as it seeks an insurmountable tech edge over China.
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/14/trump-ai-data-centers-anthropic-dario-amodei.html) — *CNBC*
 
-### 4. Trump phones Nvidia’s Huang at All-In Summit, calls data center opposition a ‘hoax’
+### 2. Weapon shortfalls, 'hundreds' of buildings and aircraft damaged, $33.4 billion spent: the U.S. government tallies costs of the Iran war
 
-[原文] President Trump has been using his social media site to sound off on Anthropic CEO Dario Amodei's suggestion that the AI industry slow its pace of development.
+[原文] The department revealed that the Iran war had cost an estimated $33.4 billion as of June 29.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/14/trump-phones-nvidia-huang-all-in-calls-data-center-opposition-hoax.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/15/us-iran-war-trump-hormuz-munitions-dod-costs-aircraft.html) — *CNBC*
 
-### 5. Apple releases test of redesigned Siri AI before iPhone 18 hits stores this week
+### 3. Oil and Treasury yields haven’t moved this closely in seven years. That’s bad news for markets
 
-[原文] Following Apple's iPhone launch event last week, the company is releasing a redesigned Siri AI, though users may have to sign up for a waitlist.
+[原文] Oil and 10-year Treasury yields are moving in near lockstep, with their correlation at its strongest since 2019.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/14/apple-releases-ios-27-redesigned-siri-ai.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/15/oil-us-treasurys-stocks-pressure.html) — *CNBC*
+
+### 4. Counting the votes: Warsh faces a tough battle as the Fed girds for expected interest rate hike
+
+[原文] Traders were pricing in a better than 92% probability of a rate increase, as well as a more than 75% chance for another one in December.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/14/counting-the-votes-warsh-faces-tough-battle-as-fed-girds-for-expected-rate-hike.html) — *CNBC*
+
+### 5. Oil extends gains following Houthi strikes on Saudi Arabia
+
+[原文] Oil extended gains amid reports of fresh Houthi strikes on Saudi Arabia and attacks by Iran on ships in the Gulf.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/15/oil-extends-gains-following-houthi-strikes-on-saudi-arabia.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says
+### 1. Jensen Huang took a call from Trump, and showed off something else, too
+
+[原文] When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/) — *TechCrunch*
+
+### 2. Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’
+
+[原文] Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/) — *TechCrunch*
+
+### 3. OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says
 
 [原文] Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/) — *TechCrunch*
 
-### 2. AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance
+### 4. AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance
 
 [原文] The company also announced a product called Active Compute Fabric, a network technology that targets the fact that much GPU time is wasted waiting for data to arrive.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/) — *TechCrunch*
 
-### 3. Amazon Prime Video takes on TikTok with short-form news clips
+### 5. Amazon Prime Video takes on TikTok with short-form news clips
 
 [原文] Prime Video is adding on-demand local and national news clips as Amazon joins other streamers experimenting with short-form video to capture younger viewers.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/) — *TechCrunch*
-
-### 4. ClickFix attacks are tricking Mac and Windows users into hacking themselves
-
-[原文] If you clicked on a fake HBO Max ad on Reddit in the past week, you might have fallen victim to a rising "ClickFix" security threat.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/) — *TechCrunch*
-
-### 5. Volkswagen’s crazy-efficient EV borrows an idea from Slate
-
-[原文] Volkswagen's new efficiency-minded halo car is almost twice as efficient as the most efficient production car, the Lucid Air.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/) — *TechCrunch*
 
 ---
 
@@ -136,29 +136,29 @@
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260914042053.htm) — *Science Daily*
 
-### 2. Cancer is rising in younger adults. Faster biological aging may help explain why
+### 2. Plague was killing entire families thousands of years before the Black Death
+
+[原文] Ancient DNA reveals that plague was already killing hunter-gatherers in Siberia 5,500 years ago, long before cities and flea-driven epidemics. The prehistoric strains may have been especially dangerou
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260913082203.htm) — *Science Daily*
+
+### 3. Cancer is rising in younger adults. Faster biological aging may help explain why
 
 [原文] Cancer rates are rising in adults under 55, and new research suggests accelerated biological aging may be one piece of the puzzle. Scientists found that people from more recent generations tended to h
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260913082200.htm) — *Science Daily*
 
-### 3. Chemistry textbooks have been getting this wrong for nearly 100 years
+### 4. Chemistry textbooks have been getting this wrong for nearly 100 years
 
 [原文] A foundational chemistry concept found in textbooks for almost 100 years may have been taught incorrectly. Researchers say the inductive effect in neutral molecules appears to extend only across one c
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260913082157.htm) — *Science Daily*
 
-### 4. Hidden brain wiring may help keep the mind sharp as gray matter shrinks
+### 5. A coral reef thought dead for 60 years is teeming with life
 
-[原文] Scientists have discovered that the brain’s short-range wiring may help protect cognition even as gray matter shrinks with age. Healthier connections just beneath the brain’s surface were linked to be
+[原文] More than 60 years after surveys suggested a deep coral reef off Benin was probably dead, scientists have found it alive. Cameras revealed healthy-looking coral patches supporting multiple fish specie
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260913081921.htm) — *Science Daily*
-
-### 5. This German submarine sank in 1917. It’s still leaking TNT
-
-[原文] A World War I submarine wreck off Denmark is leaking TNT into the surrounding water, seabed, and marine life more than a century after it sank. Scientists warn that thousands of similar wrecks could p
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260913081919.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260913081927.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Calvert-Lewin stars but Botman struggles - player ratings for Leeds v Newcastle
+### 1. 'Unplayable' & 'almost perfect' - Calvert-Lewin set for England recall?
 
-[原文] How Leeds United and Newcastle United's players rated following their Premier League match.
+[原文] Dominic Calvert-Lewin has now scored in Leeds' past five league matches. Is he ready for an England recall?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c6790xr3wvr7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cv1j49220j93o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. 'This is what women in sport look like' - Hunt leads response to Sweeney advert
+### 2. Leeds inflict heavy defeat on Newcastle to climb to third
+
+[原文] Dominic Calvert-Lewin stars as Leeds United go third in the Premier League with a superb performance to inflict a heavy 4-1 defeat on Newcastle United at Elland Road.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/c8d3el7mvypo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. 'This is what women in sport look like' - Hunt leads response to Sweeney advert
 
 [原文] British sprinter Amy Hunt is among an array of female athletes criticising the controversial betting advert starring actress Sydney Sweeney.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/c9dw905jw5no?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Graham & Ure make Pocognoli's first Scotland squad
+### 4. Graham & Ure make Pocognoli's first Scotland squad
 
 [原文] Stoke City centre-half Luke Graham and Sevilla striker Robbie Ure will receive their first full Scotland call-ups on Tuesday when Sebastien Pocognoli names his first squad as head coach.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cm9dw94zzyx1o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. No weekend game for Manchester derby VAR officials
+### 5. Who has made Troy's Premier League team of the week?
 
-[原文] The video assistant referee for the Manchester derby, Matt Donohue, and his assistant VAR, Blake Antrobus, are not appointed for this weekend's Premier League games.
+[原文] After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c6pwlk0kjqwqo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Pollock still 'open to new opportunities' as Northampton talks go on
-
-[原文] Henry Pollock continues to play hardball in his negotiations over a Northampton Saints contract extension, insisting he is still open to offers from elsewhere.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-union/articles/ck1e54qzjqljo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cxr50zln2gqro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘Secret Lives of Mormon Wives’ Star Mikayla Matthews Steps Away From Series Amid Taylor Frankie Paul Scandal: ‘Feels Wrong and Unethical’
+### 1. Mariska Hargitay Leads a Brisk Yet Celebratory Emmys in a Return to Form: TV Review
 
-[原文] &#8220;The Secret Lives of Mormon Wives&#8221; cast member Mikayla Matthews has announced that she is stepping away from the reality series &#8220;after hearing some news&#8221; she found upsetting, s
+[原文] Last year, the Emmys bet on an unorthodox host in Nate Bargatze and the result was an unmitigated disaster. This year, the Emmys bet on an unorthodox host and were rewarded with an effusive, yet effic
 
-📎 [阅读原文](https://variety.com/2026/tv/news/mikayla-matthews-leaving-mormon-wives-taylor-frankie-paul-1236861690/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/reviews/emmys-2026-review-1236862540/) — *Variety*
 
-### 2. Final Emmy Predictions in 116 Categories: HBO Max Poised to Dominate With ‘The Pitt’ as ‘Widow’s Bay’ and ‘Hacks’ Chase Opposite All-Time Records
+### 2. Apple TV Wins 28 Emmys Thanks to ‘Widow’s Bay’ Sweep, HBO Max Takes Second Place With Help From ‘The Pitt’ and ‘DTF St. Louis’
 
-[原文] Variety&#160;Awards Circuit&#160;section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars,&#160;Emmys,
+[原文] &#8220;Widow&#8217;s Bay&#8221; was the most-awarded show at the Emmys this year, winning 14 trophies total. The Apple TV comedy already had eight wins under its belt at the start of Monday night&#821
 
-📎 [阅读原文](https://variety.com/lists/2026-emmys-predictions/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/apple-tv-wins-emmys-widows-bay-hbo-max-1236861206/) — *Variety*
 
-### 3. Henry Winkler Refused to Let ABC Change ‘Happy Days’ Title to ‘Fonzie’s Happy Days’ Because ‘It Would Be a Slap in the Face’ to Co-Stars
+### 3. Emmys 2026 Snubs and Surprises: Colbert’s Final Season Wins, Oscar Isaac Can’t Stop Matthew Rhys, Taylor Swift Crashes the Party and More
 
-[原文] Henry Winkler opened up on the latest episode of &#8220;In Depth With Graham Bensinger&#8221; about refusing to let ABC executives change the name of &#8220;Happy Days&#8221; to &#8220;Fonzie’s Happy 
+[原文] The 78th Primetime Emmy Awards are here, and much like a passing glance at a cloudless night sky, the stars are out! But this is no time for puns! Television’s biggest night was hosted by “Law &#38; O
 
-📎 [阅读原文](https://variety.com/2026/tv/news/henry-winkler-refused-happy-days-title-change-1236861512/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/awards/features/emmys-2026-snubs-surprises-colbert-wins-1236861943/) — *Variety*
 
-### 4. MoreThan Films Acquires Serville Poblete’s Buzzy Toronto Hangout Comedy ‘Sunburn’ (EXCLUSIVE)
+### 4. Seven Variety Cover Stars Win 2026 Emmys
 
-[原文] International sales agency MoreThan Films has acquired the rights to “Sunburn,” by award-winning director Serville Poblete, ahead of its world premiere as part of the Centrepiece strand of the Toronto
+[原文] TV’s biggest night has officially come to a close, and a select group of stars can now say they’re both Emmy winners and Variety cover stars. Seven 2026 Emmy winners — from Noah Wyle to Jean Smart and
 
-📎 [阅读原文](https://variety.com/2026/film/global/morethan-films-serville-poblete-sunburn-toronto-1236861624/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/awards/variety-cover-stars-emmys-matthew-rhys-jean-smart-noah-wyle-1236862389/) — *Variety*
 
-### 5. Robert Kraft Defends Banning Macklemore From Ed Sheeran Tour After ‘Free Palestine’ Comments: ‘We Do Not Provide a Platform for Hate Speech’
+### 5. Emmys So White Part 2: No Actors of Color Win Major Acting Prizes on TV’s Biggest Night
 
-[原文] New England Patriots owner Robert Kraft has issued a statement defending his decision to create what amounts to a ban on rapper Macklemore performing in support of Ed Sheeran at a number of stadiums f
+[原文] Sequels can be just as bad as their predecessors, and we&#8217;re in the midst of another unfortunate one. On Monday at the 78th Emmy Awards, in the lead and supporting races for drama and comedy, in 
 
-📎 [阅读原文](https://variety.com/2026/music/news/robert-kraft-macklemore-ed-sheeran-tour-palestine-1236861621/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/emmys-so-white-part-2-no-actors-of-color-win-emmys-2026-1236862434/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Dog Breeders Are Offering Puppies in Exchange for Pokemon Cards
+### 1. Marvel's Wolverine Actor Liam McIntyre Isn't Fazed by Players' Brutal Comments About the Game
 
-[原文] The card collecting community is in an uproar after two dog breeders were caught offering to trade their French Bulldog puppies in exchange for Pokémon cards, highlighting a growing issue within the s
+[原文] Wolverine actor Liam McIntyre has seen what fans are saying about him and Insomniac's latest superhero game, but it's no skin off his nose.
 
-📎 [阅读原文](https://www.ign.com/articles/dog-breeders-are-offering-puppies-in-exchange-for-pokemon-cards) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/marvels-wolverine-actor-liam-mcintyre-isnt-fazed-by-players-brutal-comments-about-the-game) — *IGN*
 
-### 2. Save $950 Off the 2.6-Pound Lenovo Yoga 7X Ultra-Slim Laptop With the New Snapdragon X2 Elite Processor
+### 2. All the 2026 Emmy Winners (Updating Live)
 
-[原文] The ultimate ultra-portable laptop for students and professionals on the move.
+暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/lenovo-yoga-slim-7x-ultraportable-laptop-deal-september-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/2026-emmy-awards-winners) — *IGN*
 
-### 3. PlayStation Blackout Boycott Had 'No Significant Change' on Player Counts or Engagement, Says Analyst
+### 3. Save $10 Off the LEGO Nintendo Game Boy Building Set With Walmart's Hidden Coupon Code
 
-[原文] The recent PlayStation blackout boycott reportedly had no "significant" change in player engagement with the platform, according to an analyst.
+[原文] A must own set for any LEGO fan and Nintendo gamer.
 
-📎 [阅读原文](https://www.ign.com/articles/playstation-blackout-boycott-had-no-significant-change-on-player-counts-or-engagement-says-analyst) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/lego-game-boy-deal-september-2026) — *IGN*
 
-### 4. Crooked TVs, Shelves, and Picture Frames Begone With This $20 Fanttik D2 Pocket Green Laser Level
+### 4. Wardogs Players Are Avoiding One of the Game's Factions Because It Has a Stigma of Attracting the Stupidest Players
 
-[原文] A huge upgrade from the traditional bubble level.
+[原文] Wardogs players are avoiding the game's Lonestar faction, as they seemingly attract the worst players and lose the most games.
 
-📎 [阅读原文](https://www.ign.com/articles/fanttik-d2-pocket-green-laser-level-deal-september-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/wardogs-players-are-avoiding-one-of-the-games-factions-because-it-has-a-stigma-of-attracting-the-stupidest-players) — *IGN*
 
-### 5. Sydney Sweeney Criticized by Female Athletes as Nude Sports Trading App Ad Sparks Backlash
+### 5. EU Kids Act Could Require Gamers to Prove Their Age Before Playing Certain Games
 
-[原文] Euphoria star Sydney Sweeney has sparked yet another backlash for an advert after appearing nude in a series of promotional videos for sports trading app Novig.
+[原文] The EU Kids Act will be presented before the European Parliament on Thursday, and if passed, will have a meaningful impact on gamers of all ages if they want access to certain kinds of games.
 
-📎 [阅读原文](https://www.ign.com/articles/sydney-sweeney-criticized-by-female-athletes-as-nude-sports-trading-app-ad-sparks-backlash) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/eu-kids-act-could-require-gamers-to-prove-their-age-before-playing-certain-games) — *IGN*
 
 ---
 
@@ -362,35 +362,35 @@ The post Late-Night McLaren Crash Kills Well-Known Cars and Coffee Founder appea
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. What’s Next for Summit’s Carbon ‘Pipeline to Nowhere’?
+### 1. Trump Doubles Down on Climate Denial With Plan to Repeal Power Plant Rules
+
+[原文] On the heels of the hottest summer on record and a United Nations report warning that global temperatures are likely to push climate risks to “increasingly dangerous heights,” the Trump administration
+
+📎 [阅读原文](https://insideclimatenews.org/news/14092026/trump-epa-plan-to-repeal-power-plant-rules/) — *Inside Climate News*
+
+### 2. What’s Next for Summit’s Carbon ‘Pipeline to Nowhere’?
 
 [原文] The Iowa Utilities Commission is moving toward hearings on the second phase of a proposed carbon dioxide pipeline, which would add hundreds of miles of lines to a project already stuck in a legal quag
 
 📎 [阅读原文](https://insideclimatenews.org/news/14092026/iowa-summit-carbon-pipeline-uncertain-future/) — *Inside Climate News*
 
-### 2. Jet Fuel in the Water
+### 3. Jet Fuel in the Water
 
 [原文] Welcome to Inside Climate, a podcast from the staff of Inside Climate News. In this episode, we delve into how President Donald Trump’s environmental policy rollbacks are impacting ordinary people. In
 
 📎 [阅读原文](https://insideclimatenews.org/news/14092026/inside-climate-podcast-jet-fuel-pipeline-spill/) — *Inside Climate News*
 
-### 3. Is Wildfire Risk Increasing in the Midwest?
+### 4. Is Wildfire Risk Increasing in the Midwest?
 
 [原文] On the night of July 6, a storm moved over northern Minnesota near the Boundary Waters Canoe Area Wilderness. The boreal forest there, composed of species like balsam fir, spruce and pine, was extreme
 
 📎 [阅读原文](https://insideclimatenews.org/news/14092026/midwest-wildfire-risk/) — *Inside Climate News*
 
-### 4. As Power Demand Rises, a Clean-Energy State Falls Back on Coal
+### 5. As Power Demand Rises, a Clean-Energy State Falls Back on Coal
 
 [原文] Before Iowa was the nation’s most wind-powered state, it generated nearly all of its electricity with coal. Since 2000, the fossil fuel’s role in the state’s power mix has diminished as utilities buil
 
 📎 [阅读原文](https://insideclimatenews.org/news/14092026/iowa-increases-coal-power-to-meet-electricity-demand/) — *Inside Climate News*
-
-### 5. The Alabama Legislature Was on a Collision Course With Alabama Power. Then Came Spring Break.
-
-[原文] Wired for Profit: Seventh in a series about Alabama Power’s influence over electric rates, renewable energy, pollution and politics in the Yellowhammer State. When Alabama lawmakers left for spring br
-
-📎 [阅读原文](https://insideclimatenews.org/news/13092026/alabama-power-bill-to-cap-profits-collapsed-in-the-legislature/) — *Inside Climate News*
 
 ---
 
@@ -438,35 +438,35 @@ The post Late-Night McLaren Crash Kills Well-Known Cars and Coffee Founder appea
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Robert Kraft Confirms He Barred Macklemore From Ed Sheeran Boston Shows
+### 1. Taylor Swift Chats With Tom Cruise as She Cheers on Travis Kelce at First Chiefs Game Since Wedding
+
+[原文] The superstar skipped the Emmys to support Kelce during the season-opening game in Kansas City
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/taylor-swift-first-chiefs-game-travis-kelce-wedding-1235626496/) — *Rolling Stone*
+
+### 2. Robert Kraft Confirms He Barred Macklemore From Ed Sheeran Boston Shows
 
 [原文] Billionaire Patriots owner said he is committed to “ensuring that all events held at our venue do not provide a platform for hate speech.”
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/macklemore-dropped-ed-sheeran-tour-robert-kraft-statement-1235626352/) — *Rolling Stone*
 
-### 2. TikTok Influencer Pleads Not Guilty to Dark-Web Hit Plot Against Singer Jack Avery
+### 3. TikTok Influencer Pleads Not Guilty to Dark-Web Hit Plot Against Singer Jack Avery
 
 [原文] Gabbie Gonzalez entered her plea alongside her father and ex-boyfriend after prosecutors accused the trio of conspiring to kill the Why Don’t We singer amid a child-custody dispute
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/tiktok-gabbie-gonzalez-arraigned-why-dont-we-jack-avery-1235626190/) — *Rolling Stone*
 
-### 3. Macklemore Says He Was Dropped From Ed Sheeran Tour After Robert Kraft Pressure Campaign
+### 4. Macklemore Says He Was Dropped From Ed Sheeran Tour After Robert Kraft Pressure Campaign
 
 [原文] The Seattle rapper claimed the billionaire New England Patriots owner told Sheeran that Macklemore would not be allowed to perform at Gillette Stadium and “rallied” other stadium owners
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/macklemore-statement-dropped-ed-sheeran-tour-1235626135/) — *Rolling Stone*
 
-### 4. Oasis Announce 2027 Global Tour Dates
+### 5. Oasis Announce 2027 Global Tour Dates
 
 [原文] The North American leg will bring the Manchester band to Boston and Las Vegas
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/oasis-2027-tour-dates-liam-noel-gallagher-1235625948/) — *Rolling Stone*
-
-### 5. Macklemore Dropped From Ed Sheeran Tour After Onstage ‘Free Palestine’ Statements
-
-[原文] “We have been notified by venues on the upcoming U.S. tour dates that they will not allow a concert to take place with Macklemore on the lineup,” promoter says
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/macklemore-dropped-ed-sheeran-tour-pro-palestine-statements-1235625967/) — *Rolling Stone*
 
 ---
 
