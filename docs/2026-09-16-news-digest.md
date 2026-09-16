@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月16日** | 生成时间: 2026-09-16 12:03
+**2026年09月16日** | 生成时间: 2026-09-16 19:08
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. All support acts on Ed Sheeran's US tour quit after Macklemore dropped
+### 1. EU chief backs plan for Canada to become 'associate member'
+
+[原文] Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. OpenAI boss says world 'right to be afraid' but should trust AI firms
+
+[原文] Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. All support acts on Ed Sheeran's US tour quit after Macklemore dropped
 
 [原文] The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Denmark says Russian warship fired flares at military helicopter
+### 4. At least 20 killed after war-damaged Gaza building collapses
 
-[原文] The Danish prime minister has accused Russia of "reckless" behaviour, while the Kremlin is yet to comment.
+[原文] Dozens of people are missing beneath the rubble of the building in Gaza City, where some 10 families had been living.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. What weapon could the US have put into space?
+### 5. Iran war has led to US munitions shortfalls, Pentagon inspector confirms
 
-[原文] The announcement by the US points to a developing field of modern warfare in the Earth's orbit.
+[原文] The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are "virtually limitless".
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. South African president vows justice as more women's bodies found near Johannesburg
-
-[原文] Police have not linked the deaths to a serial killer but are investigating this possibility.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/crgqde1nex2vo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Two sailors missing after tanker attacked in Strait of Hormuz, Oman says
-
-[原文] Iran says El Gaia caught fire after hitting mines, but the US says the oil tanker was struck by a missile and then a drone.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Nvidia's Huang diverges with CEOs of Anthropic, OpenAI on AI safety at Dreamforce
+### 1. Yield on 10-year Treasury hovers above 5% as investors await Fed decision
 
-[原文] Comments from the two tech leaders landed days after Anthropic's Dario Amodei published an essay urging the AI industry to slow the pace of model development.
+[原文] The Federal Reserve is widely expected to hike interest rates on Wednesday.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/15/nvidia-and-anthropic-ceos-diverge-on-ai-safety-at-dreamforce.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/16/treasury-yield-bond-market-fed-decision.html) — *CNBC*
 
-### 2. Iran war has cost on average $246 million per day in its first five months, CBO finds
+### 2. Canada invited to become EU’s first ‘associate member’ as Trump trade war intensifies
 
-[原文] CBO estimates the Iran war cost the Pentagon $38.1 billion through Aug. 1 and could cost another $2 billion to $3 billion each additional month.
+[原文] EU chief Ursula von der Leyen said the bloc wants to open the door for Canada to become its first associate member, signaling a major deepening of ties.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/15/cbo-iran-war-cost-pentagon-weapons.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/16/canada-eu-associate-member-von-der-leyen.html) — *CNBC*
 
-### 3. BOJ expected to hike rates by 25 basis points to fresh three-decade high: CNBC survey
+### 3. Intel, SK Hynix shares jump on report they're discussing U.S. memory chip manufacturing
 
-[原文] The BOJ is expected to hike rates by 25 basis points to a fresh three-decade high, a CNBC survey shows.
+[原文] The deal could be a big win for Intel which has been looking to gain marquee customers for its manufacturing, or foundry, business.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/16/boj-hike-rates-cnbc-survey.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/16/intel-sk-hynix-us-memory-chips.html) — *CNBC*
 
-### 4. Nvidia CEO Huang attending Trump's state dinner for China's Xi: Source
+### 4. Mortgage demand from homebuyers drops 19% from a year ago, as interest rates surge abruptly higher
 
-[原文] Jensen Huang appeared to side with Trump as the president pushed back on tech CEOs' warnings about the risks of rapid AI advancement.
+[原文] Mortgage rates have surged to the highest level since the start of 2025, causing a major pullback in mortgage demand.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/15/nvidia-jensen-huang-trump-xi.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/16/mortgage-demand-from-homebuyers-drops-19percent-from-a-year-ago.html) — *CNBC*
 
-### 5. Trump says Kennedy Center will stay closed without renovation unless his name is added back
+### 5. Saudi says Houthis targeted Mecca with a drone, Iran-backed group rejects claim
 
-[原文] The ruling comes four months after the same judge ordered that the Kennedy Center could not be renamed to include President Trump's name.
+[原文] The Organization of Islamic Cooperation condemned the strike as a "heinous" attack. Mecca is Islam's holiest site and the focal point of the annual Hajj pilgrimage.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/15/trump-kennedy-center-name-ruling.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/16/us-iran-war-trump-hormuz.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says
+### 1. Amazon launches Alexa+ in India with Hindi support
+
+[原文] Amazon is letting all customers use Alexa+ assistant in early access period
+
+📎 [阅读原文](https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/) — *TechCrunch*
+
+### 2. We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says
 
 [原文] AI isn't some new form of "alien mind," according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/) — *TechCrunch*
 
-### 2. The AI data center boom is colliding with cities scarred by big industry
+### 3. The AI data center boom is colliding with cities scarred by big industry
 
 [原文] National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/) — *TechCrunch*
 
-### 3. Meta now lets AI agents handle the boring parts of WhatsApp Business setup
+### 4. Meta now lets AI agents handle the boring parts of WhatsApp Business setup
 
 [原文] A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/) — *TechCrunch*
 
-### 4. The AI graveyard: a running list of projects and startups that didn’t make it
+### 5. The AI graveyard: a running list of projects and startups that didn’t make it
 
 [原文] From Apple's repeatedly delayed Siri AI to OpenAI's messy "super app" launch, here's a look at the AI projects that shut down or missed expectations.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/) — *TechCrunch*
-
-### 5. US data centers could consume more natural gas than Germany and Japan combined by 2035
-
-[原文] The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. 'Superstar' Dowman shows his class - but Arsenal know caution is needed
+### 1. Ranking the greatest all-time fantasy football icons
 
-[原文] Max Dowman shines with two goals against Ipswich Town - but boss Mikel Arteta warns Arsenal cannot rush his development.
+[原文] There's nothing quite like the satisfaction of unearthing an absolute Fantasy Premier League bargain - so who are the most iconic picks ever?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c54g7w2jz77mo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cq70dl3pn8xjo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Brook likened to Pietersen in SL win - how do they compare?
+### 2. Mbappe, Vini and Konate cover up Real's message of support for Ceuta
 
-[原文] Harry Brook hits a brutal century and draws comparisons with Kevin Pietersen as England thrash Sri Lanka by 119 runs in the first T20 in Southampton.
+[原文] Vini Jnr, Mbappe and Konate cover up Ceuta message of support ahead of Real Madrid's match against Elche.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cmd94elvw7wvo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cxm2qyr5r009o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Let them ref the games and be humans - Andrews
+### 3. F1 to have 10 sprint races in 2027, including Monaco
 
-[原文] After Brentford overcame Reading to reach the Carabao Cup fourth round, head coach Keith Andrews believes the video assistant referee (VAR) is preventing referees from making decisions in matches.
+[原文] Formula 1 increases the number of sprint races from six to 10 for the 2027 World Championship.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cxj06nmjl3l6o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/crz9zvn5lzzpo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Brook & Baker shine as England crush Sri Lanka
+### 4. 'He's an idiot, but he's our idiot' - Saints fans on Pollock contract stand-off
 
-[原文] Harry Brook hit 114 not out in the first innings set up England with a total of 254 proving to difficult for Sri Lanka to chase leading to a England win by 119 runs after bowling out Sri Lanka.
+[原文] How has a drawn-out and public contract negotiation affected the relationship between Henry Pollock and Northampton Saints fans?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/videos/cv70dl8301xyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-union/articles/c6d08yve0n8no?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Sweeney ad a barrier for girls in sport - Hunt
+### 5. Fernandez signs new London City contract
 
-[原文] British sprinter Amy Hunt says she is concerned about the controversial advert starring Sydney Sweeney being part of a "barrier" to girls' participation in sport.
+[原文] London City Lionesses defender Jana Fernandez signs a new contract, keeping her at the club until 2029.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/cr780v5361j0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cq39m44d8ypvo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Cate Blanchett to Attend Tokyo Festival for Japan Premiere of Displacement Film Fund Shorts
+### 1. Markus Lehmusruusu’s Finnish Oscar Entry ‘The Squirrel’ Earns Aki Kaurismäki’s Stamp of Approval: ‘He Said It’s Like ‘2001: A Space Odyssey,’ but Better Because It’s Full of Humanism’
 
-[原文] Cate Blanchett will travel to Tokyo for the 39th edition of the Tokyo International Film Festival, where five short films backed by the Displacement Film Fund will receive their Japan premieres. Blanc
+[原文] Markus Lehmusruusu’s futuristic drama “The Squirrel” has just been selected as the Finnish Oscar submission, and it already has a notable fan. “Aki Kaurismäki called it a masterpiece. He said it was l
 
-📎 [阅读原文](https://variety.com/2026/film/festivals/cate-blanchett-tokyo-festival-displacement-film-fund-shorts-1236863090/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/markus-lehmusruusu-oscar-submission-squirrel-kaurismaki-1236863403/) — *Variety*
 
-### 2. Drake Unveils Surreal ‘Fear of Missing Out’ Film Featuring New Music Videos, Songs and an Ella Langley Remix
+### 2. Adam Fan Releases Debut English-Language Album ‘Skyfall’
 
-[原文] Drake debuted &#8220;Fear of Missing Out&#8221; on Tuesday night, unveiling an hourlong string of music videos, new songs and scenes featuring a spate of guests including Sexyy Red, Winnie Harlow, Len
+[原文] Chinese superstar Adam Fan, also known as Fan Chengcheng, has released his debut full-length English-language album &#8220;Skyfall,&#8221; expanding his music to international audiences. The release a
 
-📎 [阅读原文](https://variety.com/2026/music/news/drake-fear-of-missing-out-film-new-music-ella-langley-remix-1236863844/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/adam-fan-debut-english-album-skyfall-1236863972/) — *Variety*
 
-### 3. Helicopter Crashes Near Site of Deadly Metro Bus Accident in Chatsworth
+### 3. John Abraham Starts Shooting Ribhu Dasgupta’s Psychological Thriller ‘Guru’ (EXCLUSIVE)
 
-[原文] A helicopter, believed to be part of a local TV news team, crashed Tuesday night in Chatsworth, just blocks away from an L.A. Metro bus crash that killed two people and sent six others to the hospital
+[原文] Principal photography has commenced on &#8220;Guru,&#8221; a Bollywood psychological thriller starring John Abraham and directed by Ribhu Dasgupta. The film also stars Danish Pandor, Arif Zakaria and 
 
-📎 [阅读原文](https://variety.com/2026/tv/news/helicopter-crash-chatsworth-metro-bus-accident-1236863870/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/john-abraham-guru-shoot-ribhu-dasgupta-1236863957/) — *Variety*
 
-### 4. ‘Resident Evil’ First Reactions: Zach Cregger’s Zombie Horror Is ‘Gloriously Gory’ and One of ‘The Best Video Game Adaptations’ Ever
+### 4. Oscars: Spain Selects ‘La Bola Negra’ for International Feature Race
 
-[原文] &#8220;Weapons&#8221; and &#8220;Barbarian&#8221; director Zach Cregger is dabbling in studio IP for the first time with Sony&#8217;s &#8220;Resident Evil,&#8221; but it appears joining a franchise ha
+[原文] “La Bola Negra,” Javier Calvo and Javier Ambrossi’s Cannes Festival sensation, is Spain’s submission for the 2027 international feature film Academy Award. Rodrigo Sorogoyen’s “The Beloved, ”starring 
 
-📎 [阅读原文](https://variety.com/2026/film/news/resident-evil-first-reactions-zach-cregger-reboot-scary-1236862900/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/awards/oscars-spain-javier-calvo-javier-ambrossi-la-bola-negra-1236863433/) — *Variety*
 
-### 5. As ‘American Idol’ Leaves Los Angeles for Atlanta, More Concerns Emerge About the State of Local Production
+### 5. ‘Vivant’ Tops Asia Streaming Chart, First Japanese Drama to Lead, Report Finds
 
-[原文] Forget Hollywood. “American Idol” is heading to Georgia, dawg. In news that felt all too depressingly common in production-starved Los Angeles, word emerged Tuesday that “American Idol” — which has be
+[原文] TBS drama &#8220;Vivant&#8221; outdrew every other streaming title across Asia last month, excluding China and India, becoming the first Japanese show to top ampd Analytics&#8217; regional monthly ran
 
-📎 [阅读原文](https://variety.com/2026/tv/news/american-idol-leaves-los-angeles-for-atlanta-production-1236863758/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/vivant-asia-streaming-chart-japanese-drama-1236863954/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Wo Long 2: Wings of Ember Gets Release Date, Demo Available Now
+### 1. PS5 Update Lets You Turn on Display Names, Adds Trending Now and Top 10 Views, and More
+
+[原文] Sony has released a fresh system software update for the PS5 that makes a number of interesting changes. Check out the version 26.06-14.00.00 patch notes.
+
+📎 [阅读原文](https://www.ign.com/articles/ps5-update-lets-you-turn-on-display-names-adds-trending-now-and-top-10-views-and-more) — *IGN*
+
+### 2. Trails In The Sky 2nd Chapter Review
+
+[原文] An impressive remake which captures everything that made the original so endearing.
+
+📎 [阅读原文](https://www.ign.com/articles/trails-in-the-sky-2nd-chapter-review) — *IGN*
+
+### 3. Wo Long 2: Wings of Ember Gets Release Date, Demo Available Now
 
 [原文] Wo Long 2: Wings of Ember, the upcoming action-soulslike sequel from Team Ninja (Nier, Ninja Gaiden), will be released on March 4, 2027 for PC, PS5, Xbox Series X|S (including day one on Xbox Game Pas
 
 📎 [阅读原文](https://www.ign.com/articles/wo-long-2-wings-of-ember-gets-release-date-demo-available-now) — *IGN*
 
-### 2. Every Fourth Wing Board Game Adaption You Can Buy Right Now
+### 4. Every Fourth Wing Board Game Adaption You Can Buy Right Now
 
 暂无摘要。
 
 📎 [阅读原文](https://www.ign.com/articles/all-fourth-wing-board-game-adaptions) — *IGN*
 
-### 3. 'This Is a Place You Come to Work Hard' — Wardogs CEO Justifies Crunch as a Balancing Act
+### 5. 'This Is a Place You Come to Work Hard' — Wardogs CEO Justifies Crunch as a Balancing Act
 
 [原文] Joe Brammer, the CEO of Wardogs developer Bulkhead, has stated that the studio avoids hiring people that aren't willing to crunch.
 
 📎 [阅读原文](https://www.ign.com/articles/this-is-a-place-you-come-to-work-hard-wardogs-ceo-justifies-crunch-as-a-balancing-act) — *IGN*
-
-### 4. Marvel's Wolverine Offers Up a Canonical Explanation for Why Logan's Costume Regenerates
-
-[原文] Marvel's Wolverine explains why Logan's clothes can heal, just like his body.
-
-📎 [阅读原文](https://www.ign.com/articles/marvels-wolverine-offers-up-a-canonical-explanation-for-why-logans-costume-regenerates) — *IGN*
-
-### 5. HBO Boss All But Confirms The Last of Us Show Will End With Season 3
-
-[原文] The CEO of HBO says he “thinks” The Last of Us showrunner Craig Mazin has planned for the series to end on a third and final season.
-
-📎 [阅读原文](https://www.ign.com/articles/hbo-boss-all-but-confirms-the-last-of-us-show-will-end-with-season-3) — *IGN*
 
 ---
 
@@ -362,35 +362,35 @@ The post GM Finally Gave Up
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Congressional Republicans Aim to Shield Fossil Fuel Companies From Climate Lawsuits
+### 1. In Tampa, Community Gardeners Say They Need More Funding, Not More Information, to Feed Neighbors in Need
+
+[原文] In the East Tampa neighborhood where Dee Morales bought her house, residents have been asking for a supermarket for 10 years. They still don’t have one. So Morales did the math out loud: In the decade
+
+📎 [阅读原文](https://insideclimatenews.org/news/16092026/tampa-community-gardens-need-funding-not-more-info/) — *Inside Climate News*
+
+### 2. Congressional Republicans Aim to Shield Fossil Fuel Companies From Climate Lawsuits
 
 [原文] Republicans in Congress are continuing their efforts to shield the fossil fuel industry from legal liability for its role in unleashing the heat-trapping gases linked to a cascade of deadly, record-se
 
 📎 [阅读原文](https://insideclimatenews.org/news/15092026/congress-republicans-introduce-bills-protecting-fossil-fuel-industry/) — *Inside Climate News*
 
-### 2. An Environmental Defender Is Murdered Every Three Days
+### 3. An Environmental Defender Is Murdered Every Three Days
 
 [原文] Every three days someone is killed for defending nature.&#160; In 2025, watchdog group Global Witness documented 124 such deaths worldwide, a toll researchers say is likely only a fraction of the tota
 
 📎 [阅读原文](https://insideclimatenews.org/news/15092026/at-least-124-environmental-defenders-killed-in-2025/) — *Inside Climate News*
 
-### 3. Pushback Mounts Against Trump’s Attacks on the Endangered Species Act
+### 4. Pushback Mounts Against Trump’s Attacks on the Endangered Species Act
 
 [原文] A Trump administration rule eviscerating widespread habitat protections for endangered species just went into effect.&#160; First proposed in April, the rule rescinds the long-held definition for a si
 
 📎 [阅读原文](https://insideclimatenews.org/news/15092026/todays-climate-trump-endangered-species-act-pushback-lawsuits/) — *Inside Climate News*
 
-### 4. The Dust Settled. The Health Effects of 9/11 Didn’t.
+### 5. The Dust Settled. The Health Effects of 9/11 Didn’t.
 
 [原文] Philip Landrigan learned about the attacks on 9/11 the way much of the world did when he was chair of the Department of Preventive Medicine at Mount Sinai School of Medicine in New York: by watching t
 
 📎 [阅读原文](https://insideclimatenews.org/news/15092026/the-dust-settled-the-health-effects-of-9-11-didnt/) — *Inside Climate News*
-
-### 5. How the End of USAID Eroded Global Environmental Goals
-
-[原文] Before its abrupt dismantling last year, the U.S. Agency for International Development was one of the world’s largest funders of conservation, climate resilience and other environmental programs. The 
-
-📎 [阅读原文](https://insideclimatenews.org/news/15092026/usaid-cancellation-weakened-global-environmental-protections/) — *Inside Climate News*
 
 ---
 
@@ -400,35 +400,35 @@ The post GM Finally Gave Up
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The “October Blues” Are Coming. Here’s How Teachers Can Beat Them.
+### 1. Inside Alabama’s Next-Generation Cybersecurity Classroom
+
+暂无摘要。
+
+📎 [阅读原文](https://edsurge.com/news/inside-alabamas-next-generation-cybersecurity-classroom) — *EdSurge*
+
+### 2. What Yellowstone, Rwanda and AI Taught Me About Change
+
+[原文] By viewing our classrooms as interconnected ecosystems, we can move beyond the surface-level debate over technology to focus on cultivating judgment, ...
+
+📎 [阅读原文](https://edsurge.com/news/what-yellowstone-rwanda-and-ai-taught-me-about-change) — *EdSurge*
+
+### 3. The “October Blues” Are Coming. Here’s How Teachers Can Beat Them.
 
 [原文] Mike Anderson, author of “Rekindle Your Professional Fire,” believes new teachers are especially vulnerable to an emotional letdown after the start of ...
 
 📎 [阅读原文](https://edsurge.com/news/the-october-blues-are-coming-heres-how-teachers-can-beat-them) — *EdSurge*
 
-### 2. New York and Los Angeles Ban Student-Facing AI (For Now). Should Other Schools Follow?
+### 4. New York and Los Angeles Ban Student-Facing AI (For Now). Should Other Schools Follow?
 
 [原文] The bans, coupled with a new APA report, signal a shift from rapid AI adoption toward more deliberate evaluation.
 
 📎 [阅读原文](https://edsurge.com/news/new-york-and-los-angeles-ban-student-facing-ai-for-now-should-other-schools-follow) — *EdSurge*
 
-### 3. Parents Are Bringing AI to the IEP Meeting. How Should Teachers Respond?
+### 5. Parents Are Bringing AI to the IEP Meeting. How Should Teachers Respond?
 
 [原文] Using AI in IEP meetings can benefit parents and teachers – if done correctly.
 
 📎 [阅读原文](https://edsurge.com/news/parents-are-bringing-ai-to-the-iep-meeting-heres-how-teachers-should-respond) — *EdSurge*
-
-### 4. Two Students, Two Questions They Wouldn’t Let Go
-
-[原文] Students asking why learning matters in the age of AI forces two teachers to respond.
-
-📎 [阅读原文](https://edsurge.com/news/two-students-two-questions-that-wouldnt-let-go) — *EdSurge*
-
-### 5. Stitching the Future: Technology as a Sacred Trust
-
-[原文] By grounding our digital strategy in the same values as our ancestors, we can ensure technology serves our school community rather than consuming it.
-
-📎 [阅读原文](https://edsurge.com/news/stitching-the-future-technology-as-a-sacred-trust) — *EdSurge*
 
 ---
 
@@ -438,9 +438,9 @@ The post GM Finally Gave Up
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Drake’s ‘FOMO’ Video Previews Don Toliver and Ella Langley Collabs
+### 1. Drake Unveils ‘FOMO’ Video Featuring Ella Langley and Don Toliver Collaborations
 
-[原文] The sprawling video also featured an intimate moment between Drake's mom and her best friends
+[原文] The sprawling film also featured an intimate moment between Drake's mom and her best friends
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/drake-releases-fear-of-missing-out-1235626634/) — *Rolling Stone*
 
@@ -476,35 +476,35 @@ The post GM Finally Gave Up
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Accor Considers Acquisitions in India After Treebo Deal Falls Apart
+### 1. Power Rankings 2026
+
+[原文] Power in the travel industry now belongs to the builders. Those whose initiatives are ambitious, audacious, and — at the same time — gloriously useful. Here’s Skift’s 2026 list of the top 25 people do
+
+📎 [阅读原文](https://skift.com/2026/09/16/power-rankings-2026/) — *Skift*
+
+### 2. Turo’s Tim Rossanis on Rethinking Mobility for the Next Era of Travel
+
+[原文] Travelers are demanding more flexibility, personalization, and control across the journey. Turo’s Tim Rossanis sees mobility as a pilot for how travel companies can respond by building around traveler
+
+📎 [阅读原文](https://skift.com/2026/09/16/turo-future-of-travel-mobility/) — *Skift*
+
+### 3. Trip.com Group’s Antitrust Reset Could Change How Hotels Compete on Its Platform
+
+[原文] The fine will hit Trip.com Group’s books once. The changes to its China business could last much longer.
+
+📎 [阅读原文](https://skift.com/2026/09/16/trip-com-groups-antitrust-reset-could-change-how-hotels-compete-on-its-platform/) — *Skift*
+
+### 4. Abu Dhabi Pins Hopes on F1 and Events Calendar to Reverse a 14.2% Drop in Hotel Guests
+
+[原文] Abu Dhabi’s recovery runs on domestic demand and the return of a packed events calendar.
+
+📎 [阅读原文](https://skift.com/2026/09/16/abu-dhabi-pins-hopes-on-f1-and-events-calendar-to-reverse-a-14-2-drop-in-hotel-guests/) — *Skift*
+
+### 5. Accor Considers Acquisitions in India After Treebo Deal Falls Apart
 
 [原文] With the Treebo deal off, Accor may have to to turn to an acquisition to replace the scale it lost and speed its path to 300 hotels in India.
 
 📎 [阅读原文](https://skift.com/2026/09/15/accor-considers-acquisitions-in-india-after-treebo-deal-falls-apart/) — *Skift*
-
-### 2. Skift Creator Summit: Five Decisions in the Room
-
-[原文] Creators now run production studios that drive brand storytelling, customer acquisition, booking behavior, and loyalty. The travel industry knows creators matter. The question is: how should brands bu
-
-📎 [阅读原文](https://skift.com/2026/09/15/skift-creator-summit-five-decisions-in-the-room/) — *Skift*
-
-### 3. Skift Live Tourism Summit: Five Decisions in the Room
-
-[原文] Every destination has live events on its calendar. The open question is whether it builds anything lasting.
-
-📎 [阅读原文](https://skift.com/2026/09/15/skift-live-tourism-summit-five-decisions-in-the-room/) — *Skift*
-
-### 4. The Broken Creator-to-Booking Chain, and Why It Matters Now
-
-[原文] The fight in travel's creator economy has shifted. It used to be about attention, now it's about who gets the attribution for the booking.
-
-📎 [阅读原文](https://skift.com/2026/09/15/the-broken-creator-to-booking-chain-and-why-it-matters-now/) — *Skift*
-
-### 5. Why Human Connection Is Hospitality’s Next Wellness Frontier
-
-[原文] As loneliness rises and travelers seek more meaningful time together, hospitality may have a new role to play in wellness. Evermore Orlando Resort is testing whether social connection can be intention
-
-📎 [阅读原文](https://skift.com/2026/09/15/relational-wellness-future-of-hospitality/) — *Skift*
 
 ---
 
