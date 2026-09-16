@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月17日** | 生成时间: 2026-09-17 00:28
+**2026年09月17日** | 生成时间: 2026-09-17 05:03
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. EU chief backs plan for Canada to become 'associate member'
+### 1. Photos show widespread damage at US sites from Iranian attacks
+
+[原文] A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. EU chief backs plan for Canada to become 'associate member'
 
 [原文] Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say
+### 3. Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say
 
-[原文] Dozens of people are missing beneath the rubble of a building hit by an Israeli strike last year, where some 10 families had been living.
+[原文] Some 10 families had reportedly been living in the six-storey building in Gaza City that was hit by an Israeli strike last year.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. US accuses Russia of trying to kill Ukrainian allies overseas
+### 4. US House votes to hold billionaire Epstein associate Leon Black in contempt
 
-[原文] The FBI says five men "conspired to intimidate, threaten, or murder people on US soil and around the world".
+[原文] Black - who had business ties to Epstein - declined to appear and provide documents related to the convicted sex offender.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cjp3077led9qo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c62l8g8qlr0ko?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. OpenAI boss says world 'right to be afraid' but should trust AI firms
+### 5. OpenAI boss says world 'right to be afraid' but should trust AI firms
 
 [原文] Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Eight German state premiers back Merz amid speculation over future
-
-[原文] Christian Democratic Union leadership throws its weight behind the chancellor ahead of two state elections this weekend.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c6dj4nn0n97ro?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Pentagon CTO says U.S. government shouldn't take stakes in tech giants, questions adding AI rules
+### 1. Trump demands 1% or lower interest rate after first Fed hike since 2023
 
-[原文] President Donald Trump has angrily pushed back on the calls from industry and lawmakers for an AI slowdown or greater regulation.
+[原文] President Donald Trump demanded the Federal Reserve slash interest rates to 1% "or less," hours after the central bank announced its first rate hike since 2023.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/16/emil-michael-ai-regulation-trump.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/16/trump-fed-interest-rate-warsh.html) — *CNBC*
 
-### 2. World's top-performing sovereign wealth fund warns of looming pullback in U.S. stock market
+### 2. Jeff Gundlach says the Fed should have hiked rates by more to fight rising inflation
 
-[原文] New Zealand's $54 billion pension fund returned 14.2% in the year to June.
+[原文] The Fed should have hiked rates by half percentage point rather than a quarter, the investor told CNBC.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/16/new-zealand-sovereign-wealth-fund-stock-market.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/16/gundlach-bonds-fed-rate-hike.html) — *CNBC*
 
-### 3. House set to pass sweeping Russia sanctions bill honoring Lindsey Graham
+### 3. House votes to hold Leon Black in contempt of Congress over Epstein subpoenas defiance
 
-[原文] The Lindsey Graham Russia sanctions bill is on a path to become law after the House votes in favor.
+[原文] Billionaire Leon Black is suing the House Committee on Oversight and Government Reform seeking to block subpoenas it issued him in its probe of Jeffrey Epstein.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/16/russia-sanctions-bill-lindsey-graham-congress.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/16/leon-black-contempt-house-epstein-subpoenas-refusal.html) — *CNBC*
 
-### 4. OpenAI investors have approached the company about a new funding round
+### 4. Trump's Kennedy Center closure is 'unlawful,' Rep. Beatty tells judge in emergency hearing request
 
-[原文] OpenAI is gearing up for what is widely expected to be a blockbuster IPO next year, after it confidentially filed its prospectus in June.
+[原文] President Donald Trump says renovations at the Kennedy Center will not occur until the courts allow his name to be restored on the performing arts center.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/16/open-ai-investors-new-funding-round.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/16/trump-kennedy-center-beatty.html) — *CNBC*
 
-### 5. J.B. Hunt stock plunges 10% after company warns third-quarter earnings will fall
+### 5. Boeing CEO: 737 Max production taking 'a little bit longer' to stabilize than expected
 
-[原文] Shares of J.B. Hunt plunged more than 10% Wednesday after the company warned of an earnings drop between 5% and 10%.
+[原文] Boeing CEO Kelly Ortberg said wing production at its Renton, Washington, factory is a hold up, adding the company has plans to address it.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/16/jb-hunt-stock-jbht-earnings.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/16/boeing-ceo-737-max-production.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Hear why Neuralink co-founder Max Hodak says the screen era is ending at TechCrunch Disrupt 2026
+### 1. After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera
 
-[原文] At this year's Disrupt, Neuralink's co-founder Max Hodak will present a vision for screen-free interfaces that can even offer medical help. Register before September 25 to save up to $200 on your pass
+[原文] Can Meta dodge the "pervert glasses" accusations with a new camera-free product?
 
-📎 [阅读原文](https://techcrunch.com/2026/09/16/hear-why-neuralink-co-founder-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/) — *TechCrunch*
 
-### 2. May Mobility is going public in a $1.4B SPAC deal
+### 2. X will now let US users trade via Cashtags
 
-[原文] The deal could net the asset-light robotaxi company more than $300 million in funding.
+[原文] The move closes the gap between the market discussions taking place on the timeline, and the market itself.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/16/may-mobility-is-going-public-in-a-1-4b-spac-deal/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/16/x-will-now-let-u-s-users-trade-via-cashtags/) — *TechCrunch*
 
-### 3. Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026
+### 3. Automattic’s interim CEO and legal chief signed reciprocal severance deals during Mullenweg’s brief ouster
 
-[原文] The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $
+[原文] CFO Mark Davies and legal chief Andy Missan signed each other’s severance agreements while Matt Mullenweg was on leave, providing a year of salary and additional equity vesting if their departures qua
 
-📎 [阅读原文](https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/16/automattics-interim-ceo-and-legal-chief-signed-reciprocal-severance-deals-during-mullenwegs-brief-ouster/) — *TechCrunch*
 
-### 4. Google says some Pixel phone owners were hacked in zero-day attacks
+### 4. Former Waymo CFO jumps to self-driving startup Wayve
 
-[原文] The Pixel phone maker said there are indications that a bug in the phone's modem "may be under limited, targeted exploitation."
+[原文] Elisa de Martel, who left her position as chief financial officer at Alphabet's autonomous vehicle company Waymo in January, will be based out of Silicon Valley.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/16/google-says-some-pixel-phone-owners-were-hacked-in-zero-day-attacks/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/16/former-waymo-cfo-jumps-to-self-driving-startup-wayve/) — *TechCrunch*
 
-### 5. Amazon gives its workers a raise of $1 per hour
+### 5. Hear why Science Corp CEO Max Hodak says the screen era is ending at TechCrunch Disrupt 2026
 
-[原文] Amazon's investment in these raises comes out to over $1.5 billion, or about 0.06% of its $2.68 trillion market cap.
+[原文] At this year's Disrupt, Science Corp CEO Max Hodak will present a vision for screen-free interfaces that can even offer medical help. Register before September 25 to save up to $200 on your pass.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/16/amazon-gives-its-workers-a-raise-of-1-per-hour/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/16/hear-why-science-corp-ceo-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. 'Let's go, let's go' - inside catastrophic derby VAR mistake
+### 1. 'It's a miracle' - fireball crash victim Millroy praises rescuer Hartog
 
-[原文] The controversy surrounding the VAR decision to allow Erling Haaland's winner in the Manchester derby has rumbled on for days, so what led to the error?
+[原文] British racing driver Ollie Millroy says it is a "miracle I'm alive" after fellow driver Loek Hartog "did everything right" when saving him from his blazing car.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ck4gjr5vly99o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/motorsport/articles/cvlyl5p7kl0no?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. What next for Gabriel and Man Utd?
+### 2. Verstappen passes 100 amateur karters in 14 laps in exhibition race
+
+[原文] Four-time F1 world champion Max Verstappen passes 100 amateur drivers in just 14 laps in an exhibition go-kart race at Silverstone.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/c50m3k7jk82jo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. Gray sacked by Hibs after six league games
+
+[原文] Hibernian sack head coach David Gray six games into the Scottish Premiership season, ending the former captain's 12-year stay at Easter Road.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c52e01ln0jj8o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. Saudi club given stadium ban over Jota chants towards Neves
+
+[原文] Saudi Pro League side Al-Taawoun are ordered to play two matches behind closed doors after supporters taunted Ruben Neves over the death of friend Diogo Jota.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cwp842plmyymo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 5. What next for Gabriel and Man Utd?
 
 [原文] On the night JJ Gabriel was supposed to become Manchester United's youngest player in history, the scramble is on to persuade him not to quit.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/crgjqw0l01njo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 3. Fitzpatrick not '100% comfortable' with tour finals in Dubai
-
-[原文] Matt Fitzpatrick says he is not "100% comfortable" with the prospect of travelling to Dubai for the season-ending DP World Tour Championship in November when he is due to be defending champion.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/cxr507jrz761o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. Mbappe, Vini and Konate cover up Real's message of support for Ceuta
-
-[原文] Vini Jnr, Mbappe and Konate cover up Ceuta message of support ahead of Real Madrid's match against Elche.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cxm2qyr5r009o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Ranking the greatest all-time fantasy football icons
-
-[原文] There's nothing quite like the satisfaction of unearthing an absolute Fantasy Premier League bargain - so who are the most iconic picks ever?
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cq70dl3pn8xjo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘Edward Said: Between Worlds’ Review: A Documentary That Connects the Renowned Intellectual’s Life to the History of Palestine
+### 1. Macklemore Donating $1 Million Salary from Ed Sheeran Tour to Support Palestine: ‘I Invite Robert Kraft to Match My Donation’
 
-[原文] In “Edward Said: Between Worlds,” documentarian Maiken Baird does not follow the tried-and-true formula of a bio-doc. Instead of trying to cram a whole lifetime in under two hours, she lets the protag
+[原文] Macklemore has announced that he&#8217;ll be donating the $1 million in net earnings he received from supporting Ed Sheeran on his Loop Tour to organizations working to support the Palestinian people,
 
-📎 [阅读原文](https://variety.com/2026/film/reviews/edward-said-between-worlds-review-1236861256/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/macklemore-donating-ed-sheeran-tour-salary-palestine-support-1236864698/) — *Variety*
 
-### 2. ‘Guria’ Review: Everything Is Scarce but Charm Is Abundant in Georgia’s Deadpan Oscar Submission
+### 2. Box Office: ‘Resident Evil’ Reboot Targets Franchise-Best $45 Million Debut
 
-[原文] There&#8217;s a certain wavelength of hangdog humor that denizens of the former Soviet Republics seem able to tune to at will, and Georgian director Levan Koguashvili more than most. In his fourth fea
+[原文] Movie theater operators are counting on &#8220;Resident Evil&#8221; to scare some life into the early fall box office. Sony&#8217;s horror-comedy reboot of the zombie-infested property is targeting a 
 
-📎 [阅读原文](https://variety.com/2026/film/reviews/guria-review-1236861802/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/box-office/resident-evil-box-office-reboot-opening-weekend-projection-1236861469/) — *Variety*
 
-### 3. TIFF Takeaways: A Chris Rock Crowd-Pleaser, Peter Farrelly’s ‘Rocky’ Standing Ovation and Market Growing Pains
+### 3. ‘SNL’ Adds New Cast Members Grace Reiter and Saidah Belo-Osagie, Completing Season 52 Ensemble
 
-[原文] After a flurry of fall festival activity in Venice and Telluride, the curtain is coming down on another year at TIFF. Careers were boosted, dark horses gained traction and blades were sharpened. Here 
+[原文] &#8220;Saturday Night Live&#8221; has added its first new cast members to Season 52. Grace Reiter and Saidah Belo-Osagie are joining the NBC sketch comedy series, which returns on Sept. 26 with host J
 
-📎 [阅读原文](https://variety.com/2026/film/awards/tiff-2026-takeaways-chris-rock-peter-farrelly-rocky-market-1236863696/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/snl-new-cast-members-grace-reiter-saidah-belo-osagie-1236864319/) — *Variety*
 
-### 4. ‘Resident Evil’ Review: Zach Cregger’s Reboot Is Funky Monster Fun: a One-Man-Against-the-Squish-Zombies Lark That Never Gets Bogged Down in Video-Game Sludge
+### 4. Music Distribution, Explained: And Why It Matters More Than Ever for Independent Artists
 
-[原文] His "Resident Evil" is different, and much better, than the other "Resident Evil" movies — it’s a creepy-crawly squishfest that takes its time and has a weird innocence about it. (At moments it remind
+[原文] The music industry has never had fewer gatekeepers. Independent artists are increasingly releasing music without traditional label deals, while established acts have more options for retaining ownersh
 
-📎 [阅读原文](https://variety.com/2026/film/reviews/resident-evil-review-zach-cregger-1236863421/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/shopping/news/how-music-distribution-works-distrokid-sign-up-online-1236864648/) — *Variety*
 
-### 5. Rachel Kaly’s One-Woman Show ‘Hospital Hour’ Sets Off-Broadway Run With Chris Fleming Directing, Bob Odenkirk Executive Producing (EXCLUSIVE)
+### 5. Madonna to Open MTV Video Music Awards With First Show Performance in 23 Years
 
-[原文] Rachel Kaly&#8217;s one-woman show &#8220;Hospital Hour&#8221; is coming to New York. The comedy will begin a six-week off-Broadway run on Oct. 16 at the Culture Club in Chelsea, with comedy heavies C
+[原文] Madonna is set to open the MTV Video Music Awards with her first live performance at the show in 23 years. The pop star last graced the VMA stage as a performer with her iconic 2003 appearance with Br
 
-📎 [阅读原文](https://variety.com/2026/legit/news/rachel-kaly-hospital-hour-nyc-chris-fleming-1236863484/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/madonna-performance-to-open-mtv-video-music-awards-1236864336/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. MindsEye Developers Say They've Been Laid Off Amid Questions Over Build a Rocket Boy's Future
+### 1. Quentin Tarantino’s New Novel The Adventures of Cliff Booth Is Up for Preorder
 
-[原文] Multiple developers of the disastrous MindsEye have said they’ve been laid off, casting doubt over the future of its controversial developer, Build A Rocket Boy.
+[原文] Quentin Tarantino has a new novel coming out in December called The Adventures of Cliff Booth. It's a novelization of the upcoming Brad Pitt movie, and it's available to preorder now.
 
-📎 [阅读原文](https://www.ign.com/articles/mindseye-developers-say-theyve-been-laid-off-amid-questions-over-build-a-rocket-boys-future) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/quentin-tarantinos-new-novel-the-adventures-of-cliff-booth-is-up-for-preorder) — *IGN*
 
-### 2. Crackdown Was So Much More Than Just the Halo 3 Beta’s Pack-In Game
+### 2. Pirate Who Cracked Denuvo Games Like Resident Evil Requiem Plans to Keep Doing So Despite Being Sued
 
-[原文] The original Crackdown turned out to be a really terrific comic-book power fantasy brought to life. Or, put another way, a game very worthy of any Xbox 360 owner’s attention, regardless of the fact th
+[原文] A pirate known for cracking games that utilize the DRM software Denuvo is being hit with a lawsuit... but that isn't stopping them from continuing on.
 
-📎 [阅读原文](https://www.ign.com/articles/crackdown-was-so-much-more-than-just-the-halo-3-betas-pack-in-game) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/pirate-who-cracked-denuvo-games-like-resident-evil-requiem-plans-to-continue-doing-so-despite-being-sued) — *IGN*
 
-### 3. Netflix Reveals Narnia: The Magician's Nephew Logo as Theatrical and Streaming Release Dates Approach
+### 3. Humble’s Isometric Immersion CRPG Pack Gets You 11 Exciting Games for Just $23
 
-[原文] Netflix has revealed its logo for Narnia: The Magician's Nephew, the upcoming fantasy blockbuster directed by Barbie's Greta Gerwig.
+[原文] Humble’s Isometric Immersion CRPG Pack includes 11 games that have a total value of $291, but you can grab them all for your PC library for as low as $23.
 
-📎 [阅读原文](https://www.ign.com/articles/netflix-reveals-narnia-the-magicians-nephew-logo-as-theatrical-and-streaming-release-dates-approach) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/humble-bundle-isometric-immersion-crpg-pack) — *IGN*
 
-### 4. 30th Anniversary Pokémon Trading Card Launch Sparks Enormous Queues, 'Ghost Chair' Criticism, and Price Hikes
+### 4. The MSI Codex Z2C  RTX 5070 Prebuilt Gaming PC Drops to $1399 and Includes an Upcoming PC Game
 
-[原文] Pokémon's coveted 30th anniversary trading card set has gone on sale, though its launch has seen some stores jacking up prices, while long lines of customers have camped outside overnight.
+[原文] Excellent prebuilt option for 1080p and 1440p gaming, and it's capable enough to run games in 4K as well.
 
-📎 [阅读原文](https://www.ign.com/articles/30th-anniversary-pokemon-cards-spark-enormous-queues-and-ghost-chairs-criticism-as-retailers-hike-prices) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/msi-codex-z2c-rtx-5070-prebuilt-gaming-pc-deal-september-2026) — *IGN*
 
-### 5. Fire Emblem: Fortune's Weave Review
+### 5. DNX #1 Review: Marvel's X-Men/Fantastic Four Crossover Is Off to a Bland Start
 
-[原文] An excellent combination of combat strategy, time management, and compelling stories.
+[原文] Marvel's latest crossover event is off to a bland start, as DNX #1 fails to make the most of the latest alliance between the X-Men and Fantastic Four.
 
-📎 [阅读原文](https://www.ign.com/articles/fire-emblem-fortunes-weave-review) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/dnx-1-review-marvel-x-men-fantastic-four-crossover) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Toyota’s Engines Keep Failing. Honda Told Us How It’s Avoiding the Same Fate
+### 1. ‘Leno’s Law’ Finally Passes: Here’s What That Really Means for Classic Car Owners
+
+[原文] The governor of California has given the green-light to ease smog regulations on classic cars, but there are conditions.
+The post ‘Leno’s Law’ Finally Passes: Here’s What That Really Means for Classic
+
+📎 [阅读原文](https://www.thedrive.com/news/lenos-law-finally-passes-heres-what-that-really-means-for-classic-car-owners) — *The Drive*
+
+### 2. Figure 8 Race Devolves Into Chaos and a Driver Felony Charge
+
+[原文] Who could have known that a three-hour race designed to create contact would result in a crash—and a fight?
+The post Figure 8 Race Devolves Into Chaos and a Driver Felony Charge appeared first on The 
+
+📎 [阅读原文](https://www.thedrive.com/news/figure-8-race-devolves-into-chaos-and-a-driver-felony-charge) — *The Drive*
+
+### 3. Toyota’s Engines Keep Failing. Honda Told Us How It’s Avoiding the Same Fate
 
 [原文] Honda executives told The Drive how the automaker's quality control systems are evolving ahead of a new wave of engines – the same test Toyota just failed.
 The post Toyota&#8217;s Engines Keep Failing
 
 📎 [阅读原文](https://www.thedrive.com/news/toyotas-engines-keep-failing-honda-told-us-how-its-avoiding-the-same-fate) — *The Drive*
 
-### 2. Everything About This 100-Year-Old, 100-MPH Bentley Is Wrong
+### 4. Everything About This 100-Year-Old, 100-MPH Bentley Is Wrong
 
 [原文] With a crash gearbox, unlabeled switches, and a clutch pedal that's not where you expect it, this 1926 Bentley 3 Litre is unrefined in every way and unforgettable for it.
 The post Everything About Thi
 
 📎 [阅读原文](https://www.thedrive.com/features/everything-about-this-100-year-old-100-mph-bentley-is-wrong) — *The Drive*
 
-### 3. The McLaren Artura’s Days Appear to Be Numbered: TDS
+### 5. The McLaren Artura’s Days Appear to Be Numbered: TDS
 
 [原文] McLaren's V6 turbo-hybrid supercar burst onto the scene four years ago and, if a new report is correct, will vanish well before the end of the decade.
 The post The McLaren Artura&#8217;s Days Appear t
 
 📎 [阅读原文](https://www.thedrive.com/news/the-mclaren-arturas-days-appear-to-be-numbered-tds) — *The Drive*
-
-### 4. Plug-In Hybrids With 70+ Miles of Electric Range Are Here Thanks to Volvo
-
-[原文] The 2028 Volvo XC60 and XC90 just crossed an important milestone that make plug-in hybrids more capable than ever.
-The post Plug-In Hybrids With 70+ Miles of Electric Range Are Here Thanks to Volvo ap
-
-📎 [阅读原文](https://www.thedrive.com/news/plug-in-hybrids-with-70-miles-of-electric-range-are-here-thanks-to-volvo) — *The Drive*
-
-### 5. Garbage Trucks Now Have AI Cameras To Score Your House and Clock Code Violations
-
-[原文] A company called City Detect is outfitting municipalities with cameras to give homes a "blight score," effectively turning a whole city into an HOA.
-The post Garbage Trucks Now Have AI Cameras To Scor
-
-📎 [阅读原文](https://www.thedrive.com/news/garbage-trucks-now-have-ai-cameras-to-score-your-house-and-clock-code-violations) — *The Drive*
 
 ---
 
@@ -439,35 +439,35 @@ The post Garbage Trucks Now Have AI Cameras To Scor
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Massive Attack Call Out Ed Sheeran: ‘No Artist Should Tolerate the Censorship of Another Artist’
+### 1. Madonna to Perform at VMAs for First Time in 23 Years
 
-[原文] Garbage also responded, calling the response to Macklemore being dropped from Sheeran's tour "a major turning point"
+[原文] Superstar, who earned the most nominations across 11 categories at this year’s event, will open the show
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/2026-mtv-vmas-will-open-with-madonna-1235627673/) — *Rolling Stone*
+
+### 2. David Byrne Challenges the Idea of an Album With Expanded ‘Who Is the Sky?’
+
+[原文] Listen to “My Madness,” “T Shirt,” and other songs from new version of album, which precedes the release of Byrne’s Sleeping Beauties book
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/david-byrne-who-is-the-sky-expanded-digital-edition-1235627677/) — *Rolling Stone*
+
+### 3. Ozzy Osbourne and Black Sabbath’s Final Concert Headed to the Big Screen
+
+[原文] Back to the Beginning film, which captures Osbourne’s star-studded farewell gig, has been mixed in surround sound for stadium feel
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/ozzy-osbourne-black-sabbath-back-to-beginning-concert-film-1235627665/) — *Rolling Stone*
+
+### 4. Massive Attack Call Out Ed Sheeran: ‘No Artist Should Tolerate the Censorship of Another Artist’
+
+[原文] Garbage also responded, calling the response to Macklemore being dropped from Sheeran’s tour “a major turning point”
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/massive-attack-calls-out-ed-sheeran-over-macklemore-tour-1235627527/) — *Rolling Stone*
 
-### 2. Sean Combs’ Attorneys Drop Him, Citing Six Months of Unpaid Fees
+### 5. Sean Combs’ Attorneys Drop Him, Citing Six Months of Unpaid Fees
 
-[原文] I won't let anyone take advantage of me by overcharging me and running up bills that were never approved," Combs said
+[原文] “I won’t let anyone take advantage of me by overcharging me and running up bills that were never approved,” Combs said
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/sean-combs-attorneys-drop-him-as-client-citing-unpaid-fees-1235626533/) — *Rolling Stone*
-
-### 3. The Heartbreakers to Perform in Full for First Time Since Tom Petty’s Death
-
-[原文] In addition, the Tom Petty estate announced a massive new box set chronicling his early work, Origins 1971-1978
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/heartbreakers-perform-first-time-tom-pettys-death-1235627648/) — *Rolling Stone*
-
-### 4. Metallica to Return to North America for More M72 Tour Dates in 2027
-
-[原文] Limp Bizkit and Avatar will support the group on a run of stadiums all over the continent
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/metallica-2027-spring-tour-dates-1235627635/) — *Rolling Stone*
-
-### 5. Roger Waters Blasts ‘Little Prick’ Ed Sheeran Over Macklemore Dismissal
-
-[原文] Former Pink Floyd singer-songwriter says Sheeran did the “wrong thing” by allowing Macklemore to leave tour
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/roger-waters-ed-sheeran-macklemore-1235627522/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post Garbage Trucks Now Have AI Cameras To Scor
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Banks That Don’t Want to Become Travel Companies
+### 1. United Still Expects to Pass On 100% of Jet Fuel Costs. Says Industry Is Turning More Premium.
+
+[原文] United still thinks it can continue to pass on fuel costs through airfare increases, betting that customers are willing to pay more for premium seats and amenities like Starlink.
+
+📎 [阅读原文](https://skift.com/2026/09/16/united-still-expects-to-pass-on-100-percent-of-jet-fuel-costs/) — *Skift*
+
+### 2. Sam’s Club Travel Relaunches With Cruises and Deal With Rocket Travel’s Founders
+
+[原文] Cruises and experiences are the two holdout sectors where a majority of their bookings still take place offline. The Sam's Club Travel cruise experiment could begin to change that.
+
+📎 [阅读原文](https://skift.com/2026/09/16/sams-club-travel-relaunches-with-cruises-and-deal-with-rocket-travels-founders/) — *Skift*
+
+### 3. American Airlines to Cut Capacity if Fuel Costs Stay High
+
+[原文] American Airlines CEO Robert Isom said he expected the carrier to make some “trade-offs” on capacity if fuel prices continue to stay elevated in the long-term, expecting slower growth in 2027.&#160; “
+
+📎 [阅读原文](https://skift.com/2026/09/16/american-airlines-to-cut-capacity-if-fuel-costs-stay-high/) — *Skift*
+
+### 4. The Banks That Don’t Want to Become Travel Companies
 
 [原文] The premium travel-card war has split American finance in two: a few companies want to own the trip, while most banks want to own the customer paying for it.
 
 📎 [阅读原文](https://skift.com/2026/09/16/the-banks-that-dont-want-to-become-travel-companies/) — *Skift*
 
-### 2. Skift Global Forum Preview: Certares’ Greg O’Hara on Why He’s Betting €300 Million on Trains
+### 5. Skift Global Forum Preview: Certares’ Greg O’Hara on Why He’s Betting €300 Million on Trains
 
 [原文] O'Hara put a number on his train bet, €300 million, and a theory: whoever has the trains gets through the tunnel first.
 
 📎 [阅读原文](https://skift.com/2026/09/16/skift-global-forum-preview-greg-ohara-certares-trains/) — *Skift*
-
-### 3. Power Rankings 2026
-
-[原文] Power in the travel industry now belongs to the builders. Those whose initiatives are ambitious, audacious, and — at the same time — gloriously useful. Here’s Skift’s 2026 list of the top 25 people do
-
-📎 [阅读原文](https://skift.com/2026/09/16/power-rankings-2026/) — *Skift*
-
-### 4. Turo’s Tim Rossanis on Rethinking Mobility for the Next Era of Travel
-
-[原文] Travelers are demanding more flexibility, personalization, and control across the journey. Turo’s Tim Rossanis sees mobility as a pilot for how travel companies can respond by building around traveler
-
-📎 [阅读原文](https://skift.com/2026/09/16/turo-future-of-travel-mobility/) — *Skift*
-
-### 5. Trip.com Group’s Antitrust Reset Could Change How Hotels Compete on Its Platform
-
-[原文] The fine will hit Trip.com Group’s books once. The changes to its China business could last much longer.
-
-📎 [阅读原文](https://skift.com/2026/09/16/trip-com-groups-antitrust-reset-could-change-how-hotels-compete-on-its-platform/) — *Skift*
 
 ---
 
@@ -528,6 +528,7 @@ The post Garbage Trucks Now Have AI Cameras To Scor
 ## ⚠️ 今日故障源
 
 - **🚗 汽车**: Autocar
+- **✈️ 旅游**: Nomadic Matt, Travel Off Path
 
 ---
 
