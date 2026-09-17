@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月17日** | 生成时间: 2026-09-17 12:11
+**2026年09月17日** | 生成时间: 2026-09-17 19:17
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. US interest rates raised for first time in three years
+### 1. Assad regime planned US journalist's kidnap for weeks, BBC finds
 
-[原文] Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.
+[原文] Austin Tice’s abduction was approved by Syria’s former leader Bashar al-Assad, a source claims.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Snapchat open to putting time limits on teens, boss tells BBC
+### 2. Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft
 
-[原文] Evan Spiegel says it would be "an important step forward for the industry" in an interview with the BBC.
+[原文] Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it "may be conscious".
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Photos show widespread damage at US sites from Iranian attacks
+### 3. Ninth woman's body found as South African police investigate string of deaths
 
-[原文] A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News.
+[原文] South Africa police have cautioned against assuming that all the killings are linked but many women are afraid.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. EU chief backs plan for Canada to become 'associate member'
+### 4. EU announces plan to restrict social media access for under-15s
 
-[原文] Trump, who has frequently clashed with Canada's PM, threatens to cut trade with the European Union in response to the proposal.
+[原文] Under the plans, only children over 15 would be able to set up their own social media accounts.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c3j4jz8vpz1xo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. US House votes to hold billionaire Epstein associate Leon Black in contempt
+### 5. Aztec document goes on display in Mexico after 186 years abroad
 
-[原文] Black - who had business ties to Epstein - declined to appear and provide documents related to the convicted sex offender.
+[原文] France's national library is lending the manuscript recounting the history of the Aztecs to Mexico.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c62l8g8qlr0ko?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/ck980qyy6d2zo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. 'Hostile act': Trump threatens EU with tariffs over Canada associate-membership proposal
+### 1. Carney says Canada will decide its own partnerships after Trump calls EU proposal ‘laughable’
 
-[原文] European Commission President Ursula von der Leyen said EU is opening the door for Canada to become the first associate member of the 27-member bloc.
+[原文] U.S. President Donald Trump had described the prospect of Canada becoming the first associate member of the EU as "laughable."
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/17/trump-canada-european-union-tariffs-associate-member-ukraine-.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/17/carney-canada-eu-associate-member.html) — *CNBC*
 
-### 2. Trump plans to meet Gulf leaders at UN next week on Iran war's endgame: report
+### 2. Trump says U.S. ‘hopefully’ nearing end of Iran war as Saudi Arabia, Houthis trade strikes
 
-[原文] Washington's efforts for resuming ceasefire talks appear to have stalled, as Gulf states absorb escalating attacks from Iran and Iran-aligned Houthi militants.
+[原文] Trump says the U.S. may be nearing the end of its nearly seven-month war with Iran, as he signals Tehran is open to a deal.
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/17/us-iran-war-trump-hormuz.html) — *CNBC*
 
-### 3. House passes sweeping Russia sanctions bill honoring Lindsey Graham, sends to Trump
+### 3. Bank of England defies Fed’s rate-hike lead, leaving rates unchanged
 
-[原文] The Lindsey Graham Russia sanctions bill is on a path to become law after the House votes in favor.
+[原文] The Bank of England is expected to keep rates steady Thursday, even after U.K. inflation rose to 3.1% and energy costs keep pressure on prices.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/16/russia-sanctions-bill-lindsey-graham-congress.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/17/bank-of-england-interest-rate-decision-fed-rate-hike-uk-inflation.html) — *CNBC*
 
-### 4. Japan’s corporate leaders sound alarm over weak yen — even dollar-earners are voicing concerns
+### 4. Here are five key takeaways from Wednesday's Fed rate hike
 
-[原文] While the Japanese yen has strengthened rapidly over the past two weeks, it remains weak in historical terms.
+[原文] The Fed on Wednesday delivered a much-expected interest rate hike.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/17/japan-yen-weakness-corporate-concerns.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/16/here-are-five-key-takeaways-from-wednesdays-fed-rate-hike.html) — *CNBC*
 
-### 5. Mark Walter and Todd Boehly selling stakes in Chelsea Football Club to Clearlake Capital
+### 5. Netflix content chief Bela Bajaria defines event strategy as streamer eyes more live sports
 
-[原文] Two of Walter's insurance companies faces federal criminal and civil investigations into the accounting of roughly $21 billion in financial transactions.
+[原文] Bajaria said Netflix would be open to a package of international NFL games if one becomes available when the league renegotiates its media rights agreements.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/17/chelsea-mark-walter-bohely-clearlake-capital.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/17/netflix-bela-bajaria-live-sports-event-strategy.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026
+### 1. Comp AI sets eyes on a continuously agentic future for security and compliance
+
+[原文] Comp AI, a cybersecurity and compliance startup, announced a $34 million Series A round led by Roo Capital and Grand Ventures.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/) — *TechCrunch*
+
+### 2. Iceland-based Treble raises $18 million for its voice simulation platform
+
+[原文] Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies
+
+📎 [阅读原文](https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/) — *TechCrunch*
+
+### 3. Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026
 
 [原文] This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or
 
 📎 [阅读原文](https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/) — *TechCrunch*
 
-### 2. Snap tries to make the case again for its $2,200 smart glasses
+### 4. Snap tries to make the case again for its $2,200 smart glasses
 
 [原文] Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/) — *TechCrunch*
 
-### 3. Musk’s long-time backer is giving SpaceX stock to its investors
+### 5. Musk’s long-time backer is giving SpaceX stock to its investors
 
 [原文] Valor Equity Partners is handing out stock to its LPs instead of cash returns.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/16/musks-long-time-backer-is-giving-spacex-stock-to-its-investors/) — *TechCrunch*
-
-### 4. Al Gore says the real AI risk isn’t data centers — it’s what industry leaders are warning about
-
-[原文] In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/) — *TechCrunch*
-
-### 5. US automakers could soon be forced to include AM radio for free
-
-[原文] The House of Representatives, in rare bipartisan support, overwhelmingly approved legislation that would require new vehicles to include AM radio.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/16/us-automakers-could-soon-be-forced-to-include-am-radio-for-free/) — *TechCrunch*
 
 ---
 
@@ -130,35 +130,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Scientists “truly astonished” by discovery that challenges Earth’s origin story
+### 1. NASA’s New Horizons spots signs of liquid nitrogen flowing on Pluto
+
+[原文] Scientists have found the first evidence that liquid may have flowed across Pluto’s surface in the recent past. Dark features on the enormous Sputnik Planitia glacier appear consistent with liquid nit
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260916232525.htm) — *Science Daily*
+
+### 2. Scientists find a hidden health advantage in black and green rice
+
+[原文] Scientists found that black and green Japanese rice contain unusual, potentially beneficial fats and may be digested more slowly than ordinary white rice. The combination could make these colorful var
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260916232523.htm) — *Science Daily*
+
+### 3. New mesothelioma drug turns cancer’s own defenses against it
+
+[原文] Scientists are testing a counterintuitive way to fight mesothelioma, an aggressive asbestos-linked cancer with few effective treatments. A new experimental mesothelioma drug kills cancer cells by disa
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260915232136.htm) — *Science Daily*
+
+### 4. Hidden “immune organ” in the skull may help fight brain cancer
+
+[原文] Scientists discovered a hidden “immune organ” inside the skull that acts as a rapid first responder against brain cancer in mice. Strengthening this local immune defense improved tumor rejection and s
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260915232134.htm) — *Science Daily*
+
+### 5. Scientists “truly astonished” by discovery that challenges Earth’s origin story
 
 [原文] A new study suggests Earth formed almost entirely from material in the inner Solar System, challenging the idea that water-rich material from beyond Jupiter played a major role. If correct, Earth’s wa
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260915232132.htm) — *Science Daily*
-
-### 2. Scientists find an immune “false alarm” that may drive rapid aging
-
-[原文] Scientists have discovered that some severe genetic disorders linked to rapid aging may be driven not just by damaged DNA, but by the body’s overreaction to that damage. When broken DNA fragments leak
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260915232130.htm) — *Science Daily*
-
-### 3. A 240-million-year-old fossil just changed the dinosaur timeline
-
-[原文] A newly identified 240-million-year-old animal from Tanzania is forcing scientists to rethink the early dinosaur timeline. Dinodontosaurus isiyavamanda belongs to a group previously known only from So
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260915232128.htm) — *Science Daily*
-
-### 4. Scientists find the whole grain “sweet spot” for better heart health
-
-[原文] Eating four to six servings of whole grains a day may deliver meaningful benefits for heart health, according to a large review of 87 clinical trials. Researchers found improvements in body weight, wa
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260915232126.htm) — *Science Daily*
-
-### 5. James Webb reveals Chariklo’s mysterious rings are changing faster than expected
-
-[原文] The James Webb Space Telescope has revealed surprising changes in the rings around Chariklo, a small object orbiting between Saturn and Uranus. Over just a few years, its inner ring became more opaque
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260915232124.htm) — *Science Daily*
 
 ---
 
@@ -174,29 +174,29 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cmwyzr576y9zo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Boehly and Walter sell Chelsea stakes to Clearlake
+### 2. Real Madrid keen on Man Utd forward Gabriel, 15
 
-[原文] Clearlake Capital acquires full control of Chelsea as chairman Todd Boehly, director Mark Walter and Hansjorg Wyss sell their stakes in the club.
+[原文] Real Madrid have a strong interest in signing 15-year-old Manchester United forward JJ Gabriel.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cvrl6egl1254o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c3x2zryzpw27o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. League Two Fleetwood host Arsenal in EFL Cup - full fourth-round draw
+### 3. A team that offered hope... then, four months later, Hamas attacked Israel
 
-[原文] League Two side Fleetwood Town will host Premier League champions Arsenal in the fourth round of the EFL Cup.
+[原文] Can the potential of a golden generation of Israel's footballers, in sport and society, be realised?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cqd08y9dd5dko?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cp3rl709p7xo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Painful endgame for Gray as stale Hibs slump
+### 4. River home to 500 crocodiles chosen as Olympic rowing venue
 
-[原文] A club hero, David Gray ends his time as Hibs head coach not to the sound of euphoria from fans, but to the sound of a support collectively exhaling in relief, writes Tom English.
+[原文] A river that is home to about 500 saltwater crocodiles is given the OK to host Olympic and Paralympic rowing and canoeing events at the 2032 Brisbane Games.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c3qjk2nev7r8o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/olympics/articles/cqvgy1m9z4k8o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Verstappen passes 100 amateur karters in 14 laps in exhibition race
+### 5. Six-time Grand Slam champion Salisbury retires
 
-[原文] Four-time F1 world champion Max Verstappen passes 100 amateur drivers in just 14 laps in an exhibition go-kart race at Silverstone.
+[原文] Former world number one doubles player and six-time Grand Slam doubles champion Joe Salisbury retires from professional tennis.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/c50m3k7jk82jo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/c617j8qdk2v8o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Singer Duncan Sheik Hospitalized, in ‘Critical But Stable Condition’
+### 1. Lola Tung and Daniel Bravo Hernández to Lead New York Theatre Workshop Benefit Reading of ‘Sanctuary City’
 
-[原文] Duncan Sheik, the singer behind hits like the Grammy-nominated “Barely Breathing,” has been hospitalized and is currently receiving medical treatment, per a statement shared on his Instagram page on W
+[原文] &#8220;The Summer I Turned Pretty&#8221; and &#8220;Hadestown&#8221; star Lola Tung and &#8220;Romeo + Juliet&#8221; actor Daniel Bravo Hernández are set to lead a benefit reading of &#8220;Sanctuary 
 
-📎 [阅读原文](https://variety.com/2026/music/news/duncan-sheik-hospitalized-1236865061/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/legit/news/lola-tung-daniel-bravo-hernandez-sanctuary-city-ny-workshop-1236865105/) — *Variety*
 
-### 2. ‘South Park’ Season 29 Premiere Embraces ‘South America’ Name Change With New Theme Song And a Trump Cameo
+### 2. Alief Boards Lithuania’s ‘Dice-Ching-O-Mat’ From Producer Uljana Kim and Helmer Kristijonas Vildziunas (EXCLUSIVE)
 
-[原文] “South Park” — or rather “South America” — made its Season 29 debut Wednesday night and wasted no time introducing audiences to the newly named town. The episode, titled “South American Biker Gangs,” 
+[原文] U.K.-French sales outfit Alief has snapped international rights outside the Baltics and Poland to “Dice-Ching-a-Mat“ from Lithuanian filmmaker Kristijonas Vildziunas, whose earlier works bowed in Veni
 
-📎 [阅读原文](https://variety.com/2026/tv/news/south-park-season-29-new-intro-1236865017/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/alief-lithuania-dice-ching-o-mat-1236865305/) — *Variety*
 
-### 3. Bran Flakezz on Winning ‘Unwell Summer Games,’ His Future With Reality TV and the Alex Cooper-Alix Earle Drama
+### 3. Bill Skarsgard to Star in Hideo Kojima’s ‘Physint’ Video Game From Xbox
 
-[原文] Bran Flakezz is anything but “Unwell.” Brandon Edelman, better known as Bran Flakezz online, just emerged as one of four winners of the “Unwell Summer Games&#8221; on YouTube, created through Alex Coo
+[原文] Bill Skarsgård will star as the lead in Hideo Kojima&#8217;s upcoming action-espionage video game &#8220;Physint.&#8221; The casting news comes on the heels of last week&#8217;s announcement that &#82
 
-📎 [阅读原文](https://variety.com/2026/tv/news/bran-flakezz-unwell-summer-games-1236864695/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/gaming/news/physint-bill-skarsgard-hideo-kojima-xbox-game-1236865279/) — *Variety*
 
-### 4. Benjamin Netanyahu Calls to ‘Revoke the Citizenship’ of ‘Anyone Who Slanders IDF Soldiers’ Following ‘NAZA’ Documentary Premiere
+### 4. Industry Players From Sony Pictures Classics and FilmNation Among Those Who Flocked the NY Film & Entertainment Soccer Tournament Benefitting Local Charities
 
-[原文] Following the premiere of “NAZA” at the Venice Film Festival earlier this month, Israel’s Prime Minister Benjamin Netanyahu is calling for the introduction of a law that would “revoke the citizenship 
+[原文] Industry players from Sony Pictures Classics, FilmNation, Gersh and Cinetic were among the film and entertainment figures who traded screening rooms for the soccer pitch at this year’s New York Film a
 
-📎 [阅读原文](https://variety.com/2026/film/news/benjamin-netanyahu-naza-1236864975/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/sony-pictures-classics-filmnation-ny-film-soccer-tournament-1236865237/) — *Variety*
 
-### 5. Flamingo Estate’s Richard Christiansen on Pamela Anderson’s Pickles, Julianne Moore’s Honey and the Dolly Parton Coffee That ‘Got Away’
+### 5. Pingyao Festival Sets 10th Edition Lineup With Fei Mu Restoration, Films From Cristian Mungiu, James Gray
 
-[原文] Richard Christiansen was working in the offices at Flamingo Estate, his farm and lifestyle brand in the Highland Park neighborhood of Los Angeles, when Pamela Anderson’s son, Brandon Lee, called him t
+[原文] The Pingyao International Film Festival has unveiled the full lineup for its 10th edition, with a 4K restoration of Fei Mu&#8217;s 1948 classic &#8220;Spring in a Small Town&#8221; opening the anniver
 
-📎 [阅读原文](https://variety.com/2026/scene/news/flamingo-estates-richard-christiansen-pamela-anderson-pickles-julianne-moore-honey-dolly-parton-coffee-1236861665/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/pingyao-festival-10th-edition-lineup-fei-mu-restoration-1236865252/) — *Variety*
 
 ---
 
@@ -363,35 +363,35 @@ The post The McLaren Artura&#8217;s Days Appear t
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Climate Change Primed Nepal Glacier for Deadly Collapse
+### 1. Whales Have Rebounded in the Southern Ocean. Scientists Worry Commercial Fishing Could Threaten Their Comeback.
+
+[原文] For the second year in a row, Antarctica’s industrial krill fishing fleet halted operations ahead of schedule after reaching its seasonal catch limit.&#160; The vessels had been harvesting the tiny sh
+
+📎 [阅读原文](https://insideclimatenews.org/news/17092026/antarctica-krill-fishing-threatens-whales/) — *Inside Climate News*
+
+### 2. In a Hard-Fought New York House Race, the Environment Is on the Ballot
+
+[原文] NY-17: First in a series on the environmental stakes of one of the nation’s most fiercely contested congressional races. The Hudson River bisects New York’s 17th Congressional District, with basalt bl
+
+📎 [阅读原文](https://insideclimatenews.org/news/17092026/new-york-17th-congressional-district-race/) — *Inside Climate News*
+
+### 3. Nine Florida Springs Will Get New Cleanup Plans Under Legal Settlement
+
+[原文] Under a recent legal settlement, Florida will have to adopt new plans for addressing pollution in nine of the hundreds of freshwater springs in the state that constitute one of the largest concentrati
+
+📎 [阅读原文](https://insideclimatenews.org/news/17092026/florida-springs-cleanup-plan-settlement/) — *Inside Climate News*
+
+### 4. Climate Change Primed Nepal Glacier for Deadly Collapse
 
 [原文] Climate attribution researchers say “there is absolutely no doubt” that decades of global warming set the stage for the deadly rock and glacier collapse on Langtang Lirung Mountain in Nepal. At least 
 
 📎 [阅读原文](https://insideclimatenews.org/news/16092026/research-links-warming-rocks-thawing-permafrost-melting-ice-to-nepal-flood/) — *Inside Climate News*
 
-### 2. A New Bill Could Help Obstruct Future Energy Efficiency Standards for Home Appliances—and Repeal Old Ones
+### 5. A New Bill Could Help Obstruct Future Energy Efficiency Standards for Home Appliances—and Repeal Old Ones
 
 [原文] The Senate Committee on Energy and Natural Resources heard testimony Wednesday on the Energy Efficiency Reform Act. The new bill would make it much more difficult for the Department of Energy to updat
 
 📎 [阅读原文](https://insideclimatenews.org/news/16092026/senate-considers-energy-efficiency-reform-act/) — *Inside Climate News*
-
-### 3. Court Rules in Favor of Feds and Denver Water on Dam Expansion
-
-[原文] The unfinished expansion of Gross Reservoir near Denver can proceed after three judges ruled Tuesday in favor of the federal government and a water utility’s challenge to a lower court opinion halting
-
-📎 [阅读原文](https://insideclimatenews.org/news/16092026/court-allows-colorado-dam-expansion-to-continue/) — *Inside Climate News*
-
-### 4. Texas Oil and Gas Regulator Doubles Down and Defies State Legislature
-
-[原文] AUSTIN, Texas—A chair with Railroad Commissioner Wayne Christian’s name on it sat empty Tuesday in the hearing room of the Texas House Committee on Energy Resources. Committee Chairman Drew Darby had 
-
-📎 [阅读原文](https://insideclimatenews.org/news/16092026/texas-oil-regulator-wayne-christian-defies-state-legislature/) — *Inside Climate News*
-
-### 5. In Tampa, Community Gardeners Say They Need More Funding, Not More Information, to Feed Neighbors in Need
-
-[原文] In the East Tampa neighborhood where Dee Morales bought her house, residents have been asking for a supermarket for 10 years. They still don’t have one. So Morales did the math out loud: In the decade
-
-📎 [阅读原文](https://insideclimatenews.org/news/16092026/tampa-community-gardens-need-funding-not-more-info/) — *Inside Climate News*
 
 ---
 
@@ -445,7 +445,7 @@ The post The McLaren Artura&#8217;s Days Appear t
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/dolly-parton-honored-lifetime-achievement-award-1235627642/) — *Rolling Stone*
 
-### 2. ‘Barely Breathing’ Singer Duncan Sheik in Critical Condition
+### 2. Duncan Sheik, Tony Award-Winning Singer-Composer of ‘Spring Awakening,’ in Critical Condition
 
 [原文] A statement shared to the artist's social media said that he was "receiving medical care"
 
@@ -477,35 +477,35 @@ The post The McLaren Artura&#8217;s Days Appear t
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Cleartrip’s New Loyalty Program Is About Reducing ‘Travel Anxiety’
+### 1. Flydubai CEO Expects Pre-War Capacity by Year-End After Steep Decline
+
+[原文] The airline is investing in premium retrofits to boost revenue now, even as Boeing delays push its widebody plans to 2028.
+
+📎 [阅读原文](https://skift.com/2026/09/17/flydubai-ceo-expects-pre-war-capacity-by-year-end-after-steep-decline/) — *Skift*
+
+### 2. Cleartrip’s New Loyalty Program Is About Reducing ‘Travel Anxiety’
 
 [原文] Cleartrip’s Elite program is less about big perks and more about knowing its travelers better. That could be the bigger prize for an OTA.
 
 📎 [阅读原文](https://skift.com/2026/09/16/cleartrips-new-loyalty-program-is-about-reducing-travel-anxiety/) — *Skift*
 
-### 2. United Still Expects to Pass On 100% of Jet Fuel Costs. Says Industry Is Turning More Premium.
+### 3. United Still Expects to Pass On 100% of Jet Fuel Costs. Says Industry Is Turning More Premium.
 
 [原文] United still thinks it can continue to pass on fuel costs through airfare increases, betting that customers are willing to pay more for premium seats and amenities like Starlink.
 
 📎 [阅读原文](https://skift.com/2026/09/16/united-still-expects-to-pass-on-100-percent-of-jet-fuel-costs/) — *Skift*
 
-### 3. Sam’s Club Travel Relaunches With Cruises and Deal With Rocket Travel’s Founders
+### 4. Sam’s Club Travel Relaunches With Cruises and Deal With Rocket Travel’s Founders
 
 [原文] Cruises and experiences are the two holdout sectors where a majority of their bookings still take place offline. The Sam's Club Travel cruise experiment could begin to change that.
 
 📎 [阅读原文](https://skift.com/2026/09/16/sams-club-travel-relaunches-with-cruises-and-deal-with-rocket-travels-founders/) — *Skift*
 
-### 4. American Airlines to Cut Capacity if Fuel Costs Stay High
+### 5. American Airlines to Cut Capacity if Fuel Costs Stay High
 
 [原文] American Airlines CEO Robert Isom said he expected the carrier to make some “trade-offs” on capacity if fuel prices continue to stay elevated in the long-term, expecting slower growth in 2027.&#160; “
 
 📎 [阅读原文](https://skift.com/2026/09/16/american-airlines-to-cut-capacity-if-fuel-costs-stay-high/) — *Skift*
-
-### 5. The Banks That Don’t Want to Become Travel Companies
-
-[原文] The premium travel-card war has split American finance in two: a few companies want to own the trip, while most banks want to own the customer paying for it.
-
-📎 [阅读原文](https://skift.com/2026/09/16/the-banks-that-dont-want-to-become-travel-companies/) — *Skift*
 
 ---
 
