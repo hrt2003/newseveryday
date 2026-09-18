@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月18日** | 生成时间: 2026-09-18 11:56
+**2026年09月18日** | 生成时间: 2026-09-18 18:50
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Canada welcomes EU proposal to become 'associate member'
+### 1. Three dead and eight injured in Philippines school shooting
+
+[原文] The gunman is among the dead in what is the third school shooting in the country since June.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. At least 16 killed in attack on mosque in Pakistan
+
+[原文] A vehicle loaded with explosives rammed into a mosque building during Friday prayers, a senior police official says.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. Canada welcomes EU proposal to become 'associate member'
 
 [原文] Canadian Prime Minister Mark Carney said a Canada-EU alliance would create a "beacon for other democracies".
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Ninth woman's body found as South African police investigate string of deaths
+### 4. Ninth woman's body found as South African police investigate string of deaths
 
 [原文] South Africa police have cautioned against assuming that all the killings are linked but many women are afraid.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. UN experts say grounds to believe US committed war crimes in Iran strikes
+### 5. UN experts say grounds to believe US committed war crimes in Iran strikes
 
 [原文] The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark
-
-[原文] The BBC understands Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araghchi are among the delegates allowed to enter the US.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting
-
-[原文] Sylvia Zin is among the family members of people imprisoned in China who are seeking Trump's help when he hosts the country's leader next week.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. UN mission finds evidence signaling U.S. war crimes in Iran; Washington rejects report
+### 1. Warren Buffett stepping down as chairman of Berkshire Hathaway: 'Father Time always wins'
 
-[原文] The UN mission pointed out the missile strike on a primary school that killed over 150 people, as well as another airstrike which killed 22 civilians.
+[原文] Buffett's son, Howard, will replace him as chairman as dictated by a long-standing succession plan, Berkshire said.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/18/us-iran-war-trump-hormuz.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html) — *CNBC*
 
-### 2. Oil prices fall as Saudi supply hopes outweigh fresh Houthi strikes
+### 2. Trump administration advances $24.3 billion fighter jet deal to Saudi Arabia as Houthis escalate attacks
+
+[原文] The deal comes as Iran-backed Houthis escalate attacks on Saudi Arabia and seek control of the strategically important Bab el-Mandeb Strait.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/18/trump-saudi-arabia-f-35-houthis-iran-war.html) — *CNBC*
+
+### 3. Oil prices fall for third day on Saudi Arabia supply hopes; U.S. crude briefly dips below $100
 
 [原文] Oil prices fell on Friday as additional Saudi crude supplies help ease disruption fears.
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/18/oil-prices-today-brent-wti-saudi-arabia-houthi.html) — *CNBC*
 
-### 3. Bank of Japan raises interest rates to 31-year high, flags concerns over inflation
+### 4. An intense boardroom battle is brewing at India's giant Tata Group
 
-[原文] The decision was split 7-2, with board members Toichiro Asada and Ayano Sato dissenting from the hike.
+[原文] In 10 years, India's leading multinational conglomerate, the Tata Group, is facing a new power struggle between the chairman of Tata Sons and Tata Trusts.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/18/japan-raises-rates-30-year-high-yen-jgb.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/18/jlr-air-india-tata-iphone.html) — *CNBC*
 
-### 4. As Republicans tout Trump's 'big beautiful bill,' here's who the tax breaks benefited most
+### 5. Anthropic and OpenAI hunt for smaller data center deals, sources tell CNBC, in race to deploy AI capacity
 
-[原文] As the midterm elections approach, Republicans are touting President Donald Trump's "big beautiful bill" to voters. Here's who benefited from the tax cuts.
+[原文] Anthropic and OpenAI have announced a flurry of AI infrastructure deals over the past year as demand booms.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/17/tax-breaks-trump-big-beautiful-bill.html) — *CNBC*
-
-### 5. Anthropic shares 3 metrics to help AI companies monitor pace of development
-
-[原文] Anthropic said it measured AI-led research and development, oversight of AI agents and compute allocation within the company.
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/17/anthropic-shares-3-metrics-to-help-ai-companies-monitor-development.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/18/anthropic-openai-small-ai-data-center-deals.html) — *CNBC*
 
 ---
 
@@ -130,35 +130,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. This popular fermented food may help flush nanoplastics from the body
+### 1. Scientists restore a brain protein and reverse signs of aging in mice
+
+[原文] Scientists found that declining levels of the brain protein Menin may help drive aging, with lower levels in mice linked to inflammation, cognitive decline, weaker bones, and thinner skin. Restoring M
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260918000437.htm) — *Science Daily*
+
+### 2. This popular fermented food may help flush nanoplastics from the body
 
 [原文] A kimchi-derived bacterium can bind to nanoplastics under gut-like conditions and may help carry them out of the body. In mice, the probiotic more than doubled the amount of nanoplastics detected in f
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260917101058.htm) — *Science Daily*
 
-### 2. Scientists discover a mysterious new frog hiding in the Amazon
+### 3. Scientists discover a mysterious new frog hiding in the Amazon
 
 [原文] Scientists discovered a new frog species in the flooded forests of the western Amazon, distinguishing it from nearly identical relatives through DNA and its unique call. Adenomera varcena highlights h
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260917003737.htm) — *Science Daily*
 
-### 3. A $100 detector can see invisible particles raining down from space
+### 4. These blood thinners may have an unexpected benefit for Alzheimer’s patients
 
-[原文] A pocket-sized, roughly $100 detector can reveal the invisible stream of cosmic particles constantly passing through Earth and even through our bodies. What began as a student physics project is now b
+[原文] Newer blood thinners may do more than prevent strokes in people with Alzheimer’s disease and atrial fibrillation. Researchers found that patients taking NOACs experienced a slower decline in cognitive
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260917003725.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260917003732.htm) — *Science Daily*
 
-### 4. Astronomers just found the youngest known planet ever
+### 5. Ozempic can change your body. Can it change your life?
 
-[原文] Astronomers have confirmed a Jupiter-size planet less than a million years old, making Elias 2-24 b the youngest known planet and giving scientists a rare look at a world still being born. Its surpris
+[原文] Ozempic and other GLP-1 medications can improve blood sugar, weight, and cardiovascular health, but researchers found little evidence that they also improve mental health, employment, marriage, or ove
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260917003712.htm) — *Science Daily*
-
-### 5. JWST’s mysterious little red dots may be black holes growing at incredible speeds
-
-[原文] New supercomputer simulations suggest JWST’s puzzling Little Red Dots are rapidly growing black holes from the early Universe. Extreme radiation may have helped create unusually massive black hole see
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260917003703.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260917003728.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. 'Just the beginning' - Samba, 17, steals Man City show
+### 1. How the race they said women couldn't run took centre stage
 
-[原文] Floyd Samba's scintillating debut stole the show at Etihad Stadium but also took the headlines away from another high-profile teenager in Manchester.
+[原文] After making its debut at the 1928 Olympics, the women's 800m was cut from the programme. Now, it's often billed as the must-see event of major athletics championships. So, how did we get here?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cqr7d30p1vjmo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/olympics/articles/clyk12vrv21o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. From -17 points to dream European start for Bournemouth
+### 2. From depression after Chelsea injury to playing non-league at 37
 
-[原文] Bournemouth started a League Two season on -17 points in 2008, now they have made a dream start in European competition.
+[原文] Sam Hutchinson is getting ready to play for Farnham Town in the second qualifying round of the FA Cup - 19 years after making his Chelsea debut under Jose Mourinho.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c539mw7m0x4go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cm89jqxpvy3xo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. England crush Sri Lanka to seal T20 series win
+### 3. Poor imitation of Ange team - where do Celtic & O'Neill go from here?
 
-[原文] England comfortably chase a below-par target of 146 to thrash Sri Lanka by six wickets and seal the three-match T20 series with a game to spare.
+[原文] After another defeat, keeping the faith is surely becoming more testing for Celtic's fans, writes Tom English.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cm70dnrke6klo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c6dj4mrmd27ko?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. 'Built differently' - Hodgkinson reveals hamstring abnormality
+### 4. Tailgate parties, marching bands... and Ted Lasso? Wembley hosts US college game
 
-[原文] Olympic champion Keely Hodgkinson says she is "built differently" after an MRI scan uncovered an "abnormality" in her hamstring.
+[原文] Wembley will host its first American college football game on Saturday and one of Kansas' most famous fans could be among the 60,000 crowd.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/cjx2zlpe67pvo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/american-football/articles/cm62kg82yw5ro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Champion Van Gerwen loses in first round to Gurney
+### 5. Sutton's predictions v legendary guitarist Johnny Marr
 
-[原文] Defending champion Michael van Gerwen falls to a 6-5 defeat by Daryl Gurney in the opening round of the World Series of Darts Finals in Amsterdam.
+[原文] BBC Sport football expert Chris Sutton takes on legendary guitarist and Man City fan Johnny Marr, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/darts/articles/crje8nkdkj28o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c62j06np0gpo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘The Traitors: New Blood’ EPs Break Down NBC Premiere, Sweetening the Pot for the Faithful and Why the Civilian Cast ‘Played Hard Straight Away’
+### 1. Edmund Yeo and Vivian Sung Chase Malaysia’s Buried Past in Toronto Title ‘The Age of Goodbyes’: ‘Ordinary People Living Inside History’
 
-[原文] SPOILER ALERT: This post contains spoilers for the two-hour series premiere of NBC’s “The Traitors: New Blood,” now streaming on Peacock. “The Traitors” castle isn’t just for the rich and famous anymo
+[原文] &#8220;The Age of Goodbyes&#8221; begins, in more ways than one, with a curse. In Li Zi Shu&#8217;s sprawling Malaysian Chinese novel, a family is said to be marked by early death; in Edmund Yeo&#8217
 
-📎 [阅读原文](https://variety.com/2026/tv/news/the-traitors-new-blood-game-changes-nbc-civilian-version-1236865874/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/age-of-goodbyes-edmund-yeo-vivian-sung-toronto-1236866602/) — *Variety*
 
-### 2. Universal Still Plans Overseas Release for Alex Gibney’s ‘Musk’ Documentary Despite Mogul’s Legal Threats
+### 2. Tom Cruise Says Taylor Swift Was ‘Schooling Me on Football’ at Chiefs Game, Calls Her a ‘Brilliant Musician and Director’
 
-[原文] Contrary to a recent report, Universal is moving forward as planned with the international release of Alex Gibney&#8217;s Elon Musk documentary &#8220;Musk,&#8221; sources familiar with the project to
+[原文] Tom Cruise and Taylor Swift made headlines on Monday when they sat next to each other at the Kansas City Chiefs&#8217; first game of the season. But what were the two megastars talking about? &#8220;S
 
-📎 [阅读原文](https://variety.com/2026/film/news/universal-release-alex-gibney-musk-documentary-1236866395/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/tom-cruise-taylor-swift-schooling-me-football-chiefs-game-1236866585/) — *Variety*
 
-### 3. Nick Kroll Delivers Heartfelt Appeal for Productions to Shoot in L.A.: ‘It Will Bring Life Back’ to the City
+### 3. ‘Best of the Best’ Director Lena Khan on Making a Bollywood Fusion Dance Movie for Netflix, Working With Hasan Minhaj and Telling Maitreyi Ramakrishnan to Bring ‘Channing Tatum Energy’
 
-[原文] Nick Kroll said upcoming Netflix comedy series &#8220;A Hundred Percent,&#8221; which he co-created and stars in, is a &#8220;love letter&#8221; to Los Angeles &#8212; and he expressed hope that a &#8
+[原文] Competitive Bollywood fusion dance has thrived on American college campuses for decades, but it has rarely been the subject of a scripted feature film. Lena Khan&#8217;s &#8220;Best of the Best,&#8221
 
-📎 [阅读原文](https://variety.com/2026/tv/news/nick-kroll-la-productions-a-hundred-percent-1236866162/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/bollywood-dance-netflix-movie-lena-khan-best-of-the-best-1236866559/) — *Variety*
 
-### 4. Battling Misconceptions and Figuring Out Use Cases: Entertainment Leaders Navigate AI’s Place in the Industry
+### 4. Alfonso Cuaron to Make First Korea Visit at Busan as Festival Also Spotlights European Women+ Filmmakers
 
-[原文] In a world where AI is capturing every conversation, a series of experts is trying to figure out what it actually means for the world of entertainment. “I think the word ‘AI’ is doing too much right n
+[原文] The 31st Busan International Film Festival (BIFF) has announced the first-ever Korea visit by Alfonso Cuarón, alongside a dedicated spotlight on nine films from European women and genderqueer filmmake
 
-📎 [阅读原文](https://variety.com/2026/biz/news/battling-misconceptions-and-figuring-out-ai-entertainment-1236866336/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/alfonso-cuaron-busan-film-festival-1236866555/) — *Variety*
 
-### 5. ‘Resident Evil’ Video Game References: All the Zombies, Weapons and Easter Eggs in Zach Cregger’s Reboot
+### 5. ‘Tenzing’ Actor Tenzin Dalha Unveiled as Male Lead in Bengali Thriller ‘Chheledhora’ (EXCLUSIVE)
 
-[原文] SPOILER ALERT: This article contains major spoilers for &#8220;Resident Evil,&#8221; now playing in theaters. &#8220;Resident Evil&#8221; is one of the longest-running horror video game series, and fo
+[原文] Tenzin Dalha, at the Toronto Film Festival with Jennifer Peedom&#8217;s Apple original Film &#8220;Tenzing,&#8221; has been revealed as the male lead in Bengali-language thriller &#8220;Chheledhora,&#
 
-📎 [阅读原文](https://variety.com/lists/resident-evil-video-game-references-easter-eggs/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/tenzing-actor-tenzin-dalha-male-lead-chheledhora-1236866549/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Slow Horses Season 6, Episode 1 Review — 'Circle of Life'
+### 1. The Blood of Dawnwalker Dev Confirms New Game Plus Is on the Way
 
-[原文] Apple TV's spy series Slow Horses is back just a year after Season 5 with a Season 6 premiere that's still feels as familiar as ever, even with new writing leadership.
+[原文] The Blood of Dawnwalker is indeed getting a new game plus mode in the future, according to the game's director.
 
-📎 [阅读原文](https://www.ign.com/articles/slow-horses-season-6-episode-1-review-circle-of-life) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/the-blood-of-dawnwalker-dev-confirms-new-game-plus-is-on-the-way) — *IGN*
 
-### 2. The SteelSeries Arctis Nova Pro Wireless Gaming Headset With Infinite Battery Life Drops to a New Low
+### 2. Professor Layton Developer Level-5 Scrambles to Reupload Trailers as AI Backlash Intensifies
 
-[原文] Wireless freedom with zero downtime.
+[原文] In the wake of fierce online backlash, Professor Layton developer Level-5 has released a new statement apologizing for the mistrust caused by generative AI use in its recent showcase for upcoming titl
 
-📎 [阅读原文](https://www.ign.com/articles/steelseries-arctis-nova-pro-gaming-headset-deal-blemished-box-september-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/professor-layton-developer-level-5-scrambles-to-reupload-trailers-as-ai-backlash-intensifies) — *IGN*
 
-### 3. Save an Extra 10% Off the New SteelSeries Aeon Pro Wireless Gaming Controller With Infinite Battery Life
+### 3. First Plot Details for Zack Snyder’s Escape from New York Remake
 
-[原文] Quite possibly the best wireless PC and Xbox gaming controller ever.
+[原文] The 300 and Man of Steel director discussed the setting for his Escape from New York remake and revealed he may also already have someone lined up to star as Snake Plissken.
 
-📎 [阅读原文](https://www.ign.com/articles/steelseries-aeon-pro-wireless-gaming-controller-deal) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/first-plot-details-for-zack-snyders-escape-from-new-york-remake) — *IGN*
 
-### 4. LittleBigPlanet Developer Reportedly Working on Animal Crossing-Like Game for 2027 Release
+### 4. Magic’s Most-Wanted Marvel Deck Is Discounted – Here’s Why You Should Consider This One Instead
 
-[原文] LittleBigPlanet developer Media Molecule is reportedly working on a new social-sim game, similar to Animal Crossing, and it may release next year.
+[原文] The MTG Marvel Doom Prevails Commander deck is discounted on Amazon, but Avengers Assemble offers much better gameplay value for less money.
 
-📎 [阅读原文](https://www.ign.com/articles/littlebigplanet-developer-reportedly-working-on-animal-crossing-like-game-for-2027-release) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/mtg-marvel-commander-deck-amazon-deals) — *IGN*
 
-### 5. GPT-6 Astra Plays Minecraft, Gets So Depressed After Creeper Destroys Its Progress That It Farms Potatoes for Hours
+### 5. Resident Evil Ending Explained
 
-[原文] OpenAI’s newest model, GPT-6 Astra, got so depressed after a creeper upended its progress in Minecraft that it listlessly farmed potatoes for hours and grew paranoid of anything green.
+[原文] Zach Cregger's Resident Evil has arrived. But does it have any post-credits scenes, and what does that ending mean for the future of the franchise?
 
-📎 [阅读原文](https://www.ign.com/articles/gpt-6-astra-plays-minecraft-gets-so-depressed-after-creeper-destroys-its-progress-that-it-farms-potatoes-for-hours) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/resident-evil-movie-2026-ending-explained) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post This Is How
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. These State Elections Could Reshape Climate and Energy Policy
+### 1. California Adopts New Limits to Rein in Dairy Manure Pollution and Its ‘Outsized’ Groundwater Impacts
+
+[原文] The California valley with the most dairy farms in the state will follow stricter water pollution requirements following years of advocacy and a marathon six-hour meeting this week. The State Water Re
+
+📎 [阅读原文](https://insideclimatenews.org/news/18092026/california-dairy-manure-groundwater-regulation/) — *Inside Climate News*
+
+### 2. These State Elections Could Reshape Climate and Energy Policy
 
 [原文] Democrats are poised to achieve trifectas—control of the governor’s office and both legislative chambers—in at least three states in this year’s midterm elections, and maybe even more. This matters be
 
 📎 [阅读原文](https://insideclimatenews.org/news/17092026/inside-clean-energy-key-state-elections/) — *Inside Climate News*
 
-### 2. Whales Have Rebounded in the Southern Ocean. Scientists Worry Commercial Fishing Could Threaten Their Comeback.
+### 3. Whales Have Rebounded in the Southern Ocean. Scientists Worry Commercial Fishing Could Threaten Their Comeback.
 
 [原文] For the second year in a row, Antarctica’s industrial krill fishing fleet halted operations ahead of schedule after reaching its seasonal catch limit.&#160; The vessels had been harvesting the tiny sh
 
 📎 [阅读原文](https://insideclimatenews.org/news/17092026/antarctica-krill-fishing-threatens-whales/) — *Inside Climate News*
 
-### 3. In a Hard-Fought New York House Race, the Environment Is on the Ballot
+### 4. In a Hard-Fought New York House Race, the Environment Is on the Ballot
 
 [原文] NY-17: First in a series on the environmental stakes of one of the nation’s most fiercely contested congressional races. The Hudson River bisects New York’s 17th Congressional District, with basalt bl
 
 📎 [阅读原文](https://insideclimatenews.org/news/17092026/new-york-17th-congressional-district-race/) — *Inside Climate News*
 
-### 4. Nine Florida Springs Will Get New Cleanup Plans Under Legal Settlement
+### 5. Nine Florida Springs Will Get New Cleanup Plans Under Legal Settlement
 
 [原文] Under a recent legal settlement, Florida will have to adopt new plans for addressing pollution in nine of the hundreds of freshwater springs in the state that constitute one of the largest concentrati
 
 📎 [阅读原文](https://insideclimatenews.org/news/17092026/florida-springs-cleanup-plan-settlement/) — *Inside Climate News*
-
-### 5. Climate Change Primed Nepal Glacier for Deadly Collapse
-
-[原文] Climate attribution researchers say “there is absolutely no doubt” that decades of global warming set the stage for the deadly rock and glacier collapse on Langtang Lirung Mountain in Nepal. At least 
-
-📎 [阅读原文](https://insideclimatenews.org/news/16092026/research-links-warming-rocks-thawing-permafrost-melting-ice-to-nepal-flood/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post This Is How
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Spotify Launches Fresh Finds Forward to Support 10,000 New Independent Artists
+### 1. Carly Rae Jepsen Wants to Party in ‘Versailles’ Music Video
+
+[原文] The song comes off the pop star's new album, Day and Night
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/carly-rae-jepsen-versailles-music-video-day-and-night-1235628668/) — *Rolling Stone*
+
+### 2. Miley Cyrus and Fiancé Maxx Morando Find Bliss at the Chateau Marmont in ‘Let’s Get Married’ Video
+
+[原文] The Grammy winning artist released the video a day before her new album, Bass Persuades, arrives
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/miley-cyrus-maxx-morando-lets-get-married-video-1235628660/) — *Rolling Stone*
+
+### 3. Spotify Launches Fresh Finds Forward to Support 10,000 New Independent Artists
 
 [原文] Participating artists will receive 12 months of free studio time, early access to select Spotify features, prioritized access to tour or music video partnerships, and more
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/spotify-launches-fresh-finds-forward-independent-artists-1235628656/) — *Rolling Stone*
 
-### 2. Barbra Streisand Slams a ‘Humiliated Trump’ for Closing Kennedy Center After Losing Name Feud
+### 4. Barbra Streisand Slams a ‘Humiliated Trump’ for Closing Kennedy Center After Losing Name Feud
 
 [原文] A Trump-appointed board voted to temporarily close the center after a judge blocked Trump from putting his name on the building
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/barbra-streisand-trump-kennedy-center-closure-1235628646/) — *Rolling Stone*
 
-### 3. Guitar Center Addresses ‘Not Legitimate’ Entries Submitted in Ed Sheeran Tour Opener Contest
+### 5. Guitar Center Addresses ‘Not Legitimate’ Entries Submitted in Ed Sheeran Tour Opener Contest
 
 [原文] The company's quest to find an opener for singer has been caught in the wave of controversy over Macklemore's exit from The Loop Tour
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/ed-sheeran-guitar-center-contest-macklemore-1235628612/) — *Rolling Stone*
-
-### 4. Zara Larsson Slams Trump White House for Using ‘Midnight Sun’ in ICE Video: ‘So Dehumanizing’
-
-[原文] “You guys are such fucking losers, like it’s crazy,” Swedish singer says
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/zara-larsson-trump-white-house-midnight-sun-ice-tiktok-1235628493/) — *Rolling Stone*
-
-### 5. Tay Keith’s Cause of Death Revealed
-
-[原文] Hip-hop producer died from an accidental overdose, a source at medical examiner’s office in Nashville tells Rolling Stone
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/tay-keith-cause-of-death-revealed-1235628490/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post This Is How
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. U.S. Tourism Slide Deepens With 12% Drop in August
+### 1. IndiGo’s Low Fares Remain. The Extras Are Getting Pricier
+
+[原文] The commercial challenge for IndiGo is how much more it can monetize the passenger without making a low-cost airline feel less low-cost?
+
+📎 [阅读原文](https://skift.com/2026/09/18/indigos-low-fares-remain-the-extras-are-getting-pricier/) — *Skift*
+
+### 2. AirAsia Pushes Back on Rivals Taking Its Place in Malaysia
+
+[原文] AirAsia is defending its dominance in Malaysia as rivals eye its domestic capacity, while higher fuel costs and liquidity concerns test its advantage.
+
+📎 [阅读原文](https://skift.com/2026/09/18/airasia-pushes-back-on-rivals-taking-its-place-in-malaysia/) — *Skift*
+
+### 3. U.S. Tourism Slide Deepens With 12% Drop in August
 
 [原文] The U.S. travel industry expected a banner summer for visitor numbers.
 
 📎 [阅读原文](https://skift.com/2026/09/17/u-s-tourism-slide-deepens-with-12-drop-in-august/) — *Skift*
 
-### 2. Ultra-Low-Cost Carriers Face Soaring Jet Fuel Costs With No Relief and Little Room to Raise Fares
+### 4. Ultra-Low-Cost Carriers Face Soaring Jet Fuel Costs With No Relief and Little Room to Raise Fares
 
 [原文] Rising fuel prices are once again becoming a concern for the airline industry. Some airline executives have said to expect more capacity cuts and higher airfares.
 
 📎 [阅读原文](https://skift.com/2026/09/17/ultra-low-cost-airlines-renew-push-for-tax-break-to-offset-soaring-jet-fuel-costs/) — *Skift*
 
-### 3. Europe Handed Out €430 Million in SAF Permits Last Year — See Which Airlines Got the Most
+### 5. Europe Handed Out €430 Million in SAF Permits Last Year — See Which Airlines Got the Most
 
 [原文] Europe’s support to the industry through its Emissions Trading Scheme swelled to four times 2024’s figure as the race to meet mandated blending targets gets underway.
 
 📎 [阅读原文](https://skift.com/2026/09/17/europe-handed-out-e430-million-in-saf-permits-last-year-see-which-airlines-got-the-most/) — *Skift*
-
-### 4. What It Takes to Make AI Booking Work at Scale
-
-[原文] The travel industry is largely still testing AI bookings in controlled environments. Companies that can prove the technology works across live bookings at scale could gain a valuable head start.
-
-📎 [阅读原文](https://skift.com/2026/09/17/reservations-ai-travel-booking-technology/) — *Skift*
-
-### 5. Singapore’s Banyan Group Buys Newmark to Add 26 Hotels in Africa
-
-[原文] The owner of the Banyan Tree brand has taken a majority stake in a Cape Town safari and lodge operator. The deal is asset-light, adding fee income instead of bricks, and gives Banyan a foothold in saf
-
-📎 [阅读原文](https://skift.com/2026/09/17/singapores-banyan-group-buys-newmark-to-add-26-hotels-in-africa/) — *Skift*
 
 ---
 
