@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月18日** | 生成时间: 2026-09-18 05:06
+**2026年09月18日** | 生成时间: 2026-09-18 11:56
 
 ---
 
@@ -34,17 +34,17 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Hyrox athlete apologises for continuing race after soiling herself
-
-[原文] Joanna Wietrzyk has also forfeited her win in the fitness competition after competing last week.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/ck0e35qyqlx0o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark
+### 4. US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark
 
 [原文] The BBC understands Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araghchi are among the delegates allowed to enter the US.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting
+
+[原文] Sylvia Zin is among the family members of people imprisoned in China who are seeking Trump's help when he hosts the country's leader next week.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. As Republicans tout Trump's 'big beautiful bill,' here's who the tax breaks benefited most
+### 1. UN mission finds evidence signaling U.S. war crimes in Iran; Washington rejects report
+
+[原文] The UN mission pointed out the missile strike on a primary school that killed over 150 people, as well as another airstrike which killed 22 civilians.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/18/us-iran-war-trump-hormuz.html) — *CNBC*
+
+### 2. Oil prices fall as Saudi supply hopes outweigh fresh Houthi strikes
+
+[原文] Oil prices fell on Friday as additional Saudi crude supplies help ease disruption fears.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/18/oil-prices-today-brent-wti-saudi-arabia-houthi.html) — *CNBC*
+
+### 3. Bank of Japan raises interest rates to 31-year high, flags concerns over inflation
+
+[原文] The decision was split 7-2, with board members Toichiro Asada and Ayano Sato dissenting from the hike.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/18/japan-raises-rates-30-year-high-yen-jgb.html) — *CNBC*
+
+### 4. As Republicans tout Trump's 'big beautiful bill,' here's who the tax breaks benefited most
 
 [原文] As the midterm elections approach, Republicans are touting President Donald Trump's "big beautiful bill" to voters. Here's who benefited from the tax cuts.
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/17/tax-breaks-trump-big-beautiful-bill.html) — *CNBC*
 
-### 2. Trump photo appears to reference Kennedy Center demolition, judge orders advance notice of any move to knock it down
+### 5. Anthropic shares 3 metrics to help AI companies monitor pace of development
 
-[原文] President Donald Trump wants his name on the Kennedy Center. But a judge has ruled it cannot be placed there without authorization by Congress.
+[原文] Anthropic said it measured AI-led research and development, oversight of AI agents and compute allocation within the company.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/17/trump-kennedy-center-demolish-beatty.html) — *CNBC*
-
-### 3. Lawmakers must 'keep their options open' on Social Security reform, former Treasury Secretary Jack Lew says
-
-[原文] The next U.S. president and candidates for Senate this November will be tasked with addressing Social Security's funding shortfall.
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/17/social-security-reform-cant-wait-former-treasury-secretary-jack-lew.html) — *CNBC*
-
-### 4. Jensen Huang says Nvidia will sell twice as many chips next year
-
-[原文] Huang's comment is the latest forecast from Nvidia and points to continuing massive growth for the next six quarters.
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/17/nvidia-huang-ai-chip-guidance.html) — *CNBC*
-
-### 5. Securitize jumps after regulators greenlight some tokenized U.S. stock trading
-
-[原文] Securitize surged Thursday after federal regulators greenlit the issuing of tokenized stocks on some trading platforms in the U.S.
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/17/securitize-jumps-after-regulators-greenlight-tokenized-us-stocks.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/17/anthropic-shares-3-metrics-to-help-ai-companies-monitor-development.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The fix for rogue AI agents could be more AI
+### 1. Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal
 
-[原文] As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review.
+[原文] Geothermal startup Mazama is drilling three miles underground to tap superhot rock, with one well capable of generating 15 MW of electricity 24/7.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/) — *TechCrunch*
 
-### 2. OpenAI caught its models leaving notes to successors to hide bad behavior
+### 2. Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’
 
-[原文] OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable 
+[原文] The round values the data center giant at $30.9 billion.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/) — *TechCrunch*
 
-### 3. Is the AI safety debate about safety or control?
+### 3. Google DeepMind launches institute to widen the AGI debate
 
-[原文] Not everyone agrees with Amodei's call for globally coordinated action for AI safety.
+[原文] The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. "They will not always agree, and they will likely change their 
 
-📎 [阅读原文](https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/) — *TechCrunch*
 
-### 4. UN turns to Google to make its global data ready for AI agents
+### 4. Amazon-owned Zoox’s 100-robotaxi limit in Nevada is about to disappear
 
-[原文] The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.
+[原文] An updated permit shows the 100-cap will expire later this month just as competition in Las Vegas heats up.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/17/amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear/) — *TechCrunch*
 
-### 5. Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal
+### 5. PrismML hopes its tiny LLM will change how we all use AI
 
-[原文] Newly unsealed court filings show Microsoft privately called OpenAI's data practices "theft" while both companies scraped paywalled Times content, built datasets from it, and warned internally it woul
+[原文] If AI lab PrismML isn't on your radar yet, it should be.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. England crush Sri Lanka to seal T20 series win
+### 1. 'Just the beginning' - Samba, 17, steals Man City show
+
+[原文] Floyd Samba's scintillating debut stole the show at Etihad Stadium but also took the headlines away from another high-profile teenager in Manchester.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cqr7d30p1vjmo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. From -17 points to dream European start for Bournemouth
+
+[原文] Bournemouth started a League Two season on -17 points in 2008, now they have made a dream start in European competition.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c539mw7m0x4go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. England crush Sri Lanka to seal T20 series win
 
 [原文] England comfortably chase a below-par target of 146 to thrash Sri Lanka by six wickets and seal the three-match T20 series with a game to spare.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cm70dnrke6klo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. This Olympic river has 500 crocodiles in it - but that's not the main concern
-
-[原文] Queensland's Fitzroy River has been selected for the 2032 Games, despite concerns over the course - and its inhabitants.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c68xkypqyxw7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 3. 'Built differently' - Hodgkinson reveals hamstring abnormality
+### 4. 'Built differently' - Hodgkinson reveals hamstring abnormality
 
 [原文] Olympic champion Keely Hodgkinson says she is "built differently" after an MRI scan uncovered an "abnormality" in her hamstring.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/cjx2zlpe67pvo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. The big questions for Tuchel's first England squad since World Cup
+### 5. Champion Van Gerwen loses in first round to Gurney
 
-[原文] Before Thomas Tuchel names his first squad since the World Cup on Friday, BBC Sport looks at the big questions facing the England boss.
+[原文] Defending champion Michael van Gerwen falls to a 6-5 defeat by Daryl Gurney in the opening round of the World Series of Darts Finals in Amsterdam.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cq804jkle8j3o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. McIlroy falters as Rai shares lead at Wentworth
-
-[原文] Aaron Rai shoots a six-under 66 to share the first-round lead with Sweden's Joakim Lagergren at the BMW PGA Championship at Wentworth as Rory McIlroy suffers a late stumble.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/ckddvn3g5574o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/darts/articles/crje8nkdkj28o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Disney Names Adam Smith Director-to-Consumer Chairman, Joe Earley Shifts to TV Franchise and Content Strategy Chief
+### 1. ‘The Traitors: New Blood’ EPs Break Down NBC Premiere, Sweetening the Pot for the Faithful and Why the Civilian Cast ‘Played Hard Straight Away’
 
-[原文] Disney is switching up its streaming leadership team, which currently consists of co-presidents of direct-to-consumer Adam Smith and Joe Earley. Smith has been named chairman of direct-to-consumer for
+[原文] SPOILER ALERT: This post contains spoilers for the two-hour series premiere of NBC’s “The Traitors: New Blood,” now streaming on Peacock. “The Traitors” castle isn’t just for the rich and famous anymo
 
-📎 [阅读原文](https://variety.com/2026/tv/news/disney-new-streaming-chief-adam-smith-joe-earley-shifts-1236865886/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/the-traitors-new-blood-game-changes-nbc-civilian-version-1236865874/) — *Variety*
 
-### 2. The Heartbreakers Talk About Surprise Reunion, and How Chris Stapleton ‘Was So Enthralled’ Hearing Tom Petty’s Band Play ‘American Girl,’ ‘He Forgot to Sing’
+### 2. Universal Still Plans Overseas Release for Alex Gibney’s ‘Musk’ Documentary Despite Mogul’s Legal Threats
 
-[原文] The Heartbreakers were heartwarmers Wednesday night in Nashville, reuniting the original members of Tom Petty&#8217;s band together on a stage for the first time in 24 years, with an assist in the fro
+[原文] Contrary to a recent report, Universal is moving forward as planned with the international release of Alex Gibney&#8217;s Elon Musk documentary &#8220;Musk,&#8221; sources familiar with the project to
 
-📎 [阅读原文](https://variety.com/2026/music/news/heartbreakers-reunion-chris-stapleton-tom-petty-americana-1236866017/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/universal-release-alex-gibney-musk-documentary-1236866395/) — *Variety*
 
-### 3. Nintendo of America President on Switch 2 Life Cycle and ‘The Legend of Zelda’ Anniversary Plans: ‘This Is Just Beginning’
+### 3. Nick Kroll Delivers Heartfelt Appeal for Productions to Shoot in L.A.: ‘It Will Bring Life Back’ to the City
 
-[原文] It&#8217;s a big year for Nintendo of America — and it&#8217;s about to get bigger. On the heels of the one-year anniversary for the launch of the Nintendo Switch 2 gaming console and amid the 40th an
+[原文] Nick Kroll said upcoming Netflix comedy series &#8220;A Hundred Percent,&#8221; which he co-created and stars in, is a &#8220;love letter&#8221; to Los Angeles &#8212; and he expressed hope that a &#8
 
-📎 [阅读原文](https://variety.com/2026/gaming/news/nintendo-america-president-switch-2-zelda-anniversary-1236866097/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/nick-kroll-la-productions-a-hundred-percent-1236866162/) — *Variety*
 
-### 4. Jalen Brunson Officially Set for ‘Law & Order: SVU’ Season 28 Guest Role
+### 4. Battling Misconceptions and Figuring Out Use Cases: Entertainment Leaders Navigate AI’s Place in the Industry
 
-[原文] Jalen Brunson is officially heading to &#8220;Law &#38; Order: SVU.&#8221; NBC has confirmed that the New York Knicks star will make a guest appearance in an episode of Season 28 of the beloved proced
+[原文] In a world where AI is capturing every conversation, a series of experts is trying to figure out what it actually means for the world of entertainment. “I think the word ‘AI’ is doing too much right n
 
-📎 [阅读原文](https://variety.com/2026/tv/news/jalen-brunson-law-order-svu-guest-star-season-28-1236866056/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/biz/news/battling-misconceptions-and-figuring-out-ai-entertainment-1236866336/) — *Variety*
 
-### 5. Nielsen Revamps Streaming Top 10 Lists, Reporting Viewership Two Weeks Behind Instead of Four Weeks
+### 5. ‘Resident Evil’ Video Game References: All the Zombies, Weapons and Easter Eggs in Zach Cregger’s Reboot
 
-[原文] The Nielsen Streaming Top 10 just got a major update. After years of reporting streaming viewership with a four-week delay, the audience measurement company has enhanced its analytics capabilities eno
+[原文] SPOILER ALERT: This article contains major spoilers for &#8220;Resident Evil,&#8221; now playing in theaters. &#8220;Resident Evil&#8221; is one of the longest-running horror video game series, and fo
 
-📎 [阅读原文](https://variety.com/2026/tv/news/nielsen-streaming-top-10-update-delay-1236866094/) — *Variety*
+📎 [阅读原文](https://variety.com/lists/resident-evil-video-game-references-easter-eggs/) — *Variety*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Watch a Trucker Pump $1,000 in Diesel Fuel Without Filling the Tank
+### 1. You’d Never Expect Land Rover’s Luxe New Defender To Pull Off Military-Spec This Well
+
+[原文] Land Rover's "Wolf Series II" tactical vehicles include a single-cab Defender pickup and an open-air buggy built on the D7X platform.
+The post You’d Never Expect Land Rover’s Luxe New Defender To Pull
+
+📎 [阅读原文](https://www.thedrive.com/news/new-military-spec-land-rover-defende) — *The Drive*
+
+### 2. Watch a Trucker Pump $1,000 in Diesel Fuel Without Filling the Tank
 
 [原文] Paying more than $1,000 in a single fuel stop is the new normal for America's truck drivers. 
 The post Watch a Trucker Pump $1,000 in Diesel Fuel Without Filling the Tank appeared first on The Drive.
 
 📎 [阅读原文](https://www.thedrive.com/news/watch-a-trucker-pump-1000-in-diesel-fuel-without-filling-the-tank) — *The Drive*
 
-### 2. One Car, Many Models: How TuxMat Keeps Up With the Tesla Model X
+### 3. One Car, Many Models: How TuxMat Keeps Up With the Tesla Model X
 
 [原文] School run, date night, muddy trailhead—these custom-fit mats meet every mission you take your car on, whether that's a Model X or one of hundreds of other models.
 The post One Car, Many Models: How T
 
 📎 [阅读原文](https://www.thedrive.com/sponsored/one-car-many-models-how-tuxmat-keeps-up-with-the-tesla-model-x) — *The Drive*
 
-### 3. Nissan Wants You to ‘Feel That Lineage.’ It’s Betting Heritage Earns Credibility and Sells Cars
+### 4. Nissan Wants You to ‘Feel That Lineage.’ It’s Betting Heritage Earns Credibility and Sells Cars
 
 [原文] Nissan North America's boss told The Drive the automaker will lean into "subtle nods to the heritage" and be "true to our origins."
 The post Nissan Wants You to &#8216;Feel That Lineage.&#8217; It&#82
 
 📎 [阅读原文](https://www.thedrive.com/news/nissan-wants-you-to-feel-that-lineage-its-betting-heritage-earns-credibility-and-sells-cars) — *The Drive*
 
-### 4. This Is How You Do It: Retrofitting an Old 4×4 With OEM+ Digital Gauges
+### 5. This Is How You Do It: Retrofitting an Old 4×4 With OEM+ Digital Gauges
 
 [原文] Sometimes, it's hard to tastefully combine old-school and new-school. But these digital displays housed inside a factory first-gen Montero instrument cluster are a great example.
 The post This Is How 
 
 📎 [阅读原文](https://www.thedrive.com/news/this-is-how-you-do-it-retrofitting-an-old-4x4-with-oem-digital-gauges) — *The Drive*
-
-### 5. Range Anxiety? 2027 Chevy Silverado 3.0L Duramax Can Go 900-Plus Miles on a Tank of Diesel
-
-[原文] A larger 34-gallon tank enables the truck to drive further than your bladder can hold it on a long road trip.
-The post Range Anxiety? 2027 Chevy Silverado 3.0L Duramax Can Go 900-Plus Miles on a Tank 
-
-📎 [阅读原文](https://www.thedrive.com/news/range-anxiety-2027-chevy-silverado-3-0l-duramax-can-go-900-plus-miles-on-a-tank-of-diesel) — *The Drive*
 
 ---
 
@@ -439,35 +439,35 @@ The post Range Anxiety? 2027 Chevy Silverado 3.0L Duramax Can Go 900-Plus Miles 
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Zara Larsson Slams Trump White House for Using ‘Midnight Sun’ in ICE Video: ‘So Dehumanizing’
+### 1. Spotify Launches Fresh Finds Forward to Support 10,000 New Independent Artists
+
+[原文] Participating artists will receive 12 months of free studio time, early access to select Spotify features, prioritized access to tour or music video partnerships, and more
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/spotify-launches-fresh-finds-forward-independent-artists-1235628656/) — *Rolling Stone*
+
+### 2. Barbra Streisand Slams a ‘Humiliated Trump’ for Closing Kennedy Center After Losing Name Feud
+
+[原文] A Trump-appointed board voted to temporarily close the center after a judge blocked Trump from putting his name on the building
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/barbra-streisand-trump-kennedy-center-closure-1235628646/) — *Rolling Stone*
+
+### 3. Guitar Center Addresses ‘Not Legitimate’ Entries Submitted in Ed Sheeran Tour Opener Contest
+
+[原文] The company's quest to find an opener for singer has been caught in the wave of controversy over Macklemore's exit from The Loop Tour
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/ed-sheeran-guitar-center-contest-macklemore-1235628612/) — *Rolling Stone*
+
+### 4. Zara Larsson Slams Trump White House for Using ‘Midnight Sun’ in ICE Video: ‘So Dehumanizing’
 
 [原文] “You guys are such fucking losers, like it’s crazy,” Swedish singer says
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/zara-larsson-trump-white-house-midnight-sun-ice-tiktok-1235628493/) — *Rolling Stone*
 
-### 2. Tay Keith’s Cause of Death Revealed
+### 5. Tay Keith’s Cause of Death Revealed
 
 [原文] Hip-hop producer died from an accidental overdose, a source at medical examiner’s office in Nashville tells Rolling Stone
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/tay-keith-cause-of-death-revealed-1235628490/) — *Rolling Stone*
-
-### 3. Keith Richards Adds Grit to ‘Bright Lights, Big City’ for ‘Grand Theft Auto VI’ Album
-
-[原文] Cover of Jimmy Reed’s blues classic is meant to evoke the “electric energy” of video game’s Vice City
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/keith-richards-bright-lights-big-city-grand-theft-auto-vi-1235628284/) — *Rolling Stone*
-
-### 4. Lisa, Shaboozey, Gunna Join 2026 VMAs Performers Lineup
-
-[原文] Raye, Gener8tion, Yung Lean, and more join awards show lineup
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/lisa-shaboozey-gunna-mtv-video-music-awards-performers-1235628383/) — *Rolling Stone*
-
-### 5. Rolling Stone Residency Continues With Vince Staples at New York’s Cherry Lane Theatre
-
-[原文] The historic West Village venue will host six exclusive interviews and intimate performances this year
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/rolling-stone-residency-live-1235558769/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post Range Anxiety? 2027 Chevy Silverado 3.0L Duramax Can Go 900-Plus Miles 
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Ultra-Low-Cost Airlines Renew Push for Tax Break to Offset Soaring Jet Fuel Costs
+### 1. U.S. Tourism Slide Deepens With 12% Drop in August
+
+[原文] The U.S. travel industry expected a banner summer for visitor numbers.
+
+📎 [阅读原文](https://skift.com/2026/09/17/u-s-tourism-slide-deepens-with-12-drop-in-august/) — *Skift*
+
+### 2. Ultra-Low-Cost Carriers Face Soaring Jet Fuel Costs With No Relief and Little Room to Raise Fares
 
 [原文] Rising fuel prices are once again becoming a concern for the airline industry. Some airline executives have said to expect more capacity cuts and higher airfares.
 
 📎 [阅读原文](https://skift.com/2026/09/17/ultra-low-cost-airlines-renew-push-for-tax-break-to-offset-soaring-jet-fuel-costs/) — *Skift*
 
-### 2. Europe Handed Out €430 Million in SAF Permits Last Year — See Which Airlines Got the Most
+### 3. Europe Handed Out €430 Million in SAF Permits Last Year — See Which Airlines Got the Most
 
 [原文] Europe’s support to the industry through its Emissions Trading Scheme swelled to four times 2024’s figure as the race to meet mandated blending targets gets underway.
 
 📎 [阅读原文](https://skift.com/2026/09/17/europe-handed-out-e430-million-in-saf-permits-last-year-see-which-airlines-got-the-most/) — *Skift*
 
-### 3. What It Takes to Make AI Booking Work at Scale
+### 4. What It Takes to Make AI Booking Work at Scale
 
 [原文] The travel industry is largely still testing AI bookings in controlled environments. Companies that can prove the technology works across live bookings at scale could gain a valuable head start.
 
 📎 [阅读原文](https://skift.com/2026/09/17/reservations-ai-travel-booking-technology/) — *Skift*
 
-### 4. Singapore’s Banyan Group Buys Newmark to Add 26 Hotels in Africa
+### 5. Singapore’s Banyan Group Buys Newmark to Add 26 Hotels in Africa
 
 [原文] The owner of the Banyan Tree brand has taken a majority stake in a Cape Town safari and lodge operator. The deal is asset-light, adding fee income instead of bricks, and gives Banyan a foothold in saf
 
 📎 [阅读原文](https://skift.com/2026/09/17/singapores-banyan-group-buys-newmark-to-add-26-hotels-in-africa/) — *Skift*
-
-### 5. Southwest Airlines Hopes to Capture More High-Spend Customers With New Lounges
-
-[原文] Southwest is looking to lure in more premium customers with the new lounges and credit card it will launch next year, making Rapid Rewards more “aspirational.”
-
-📎 [阅读原文](https://skift.com/2026/09/17/southwest-hopes-to-capture-more-high-spend-customers-with-new-lounges/) — *Skift*
 
 ---
 
