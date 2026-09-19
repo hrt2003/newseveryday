@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月19日** | 生成时间: 2026-09-19 18:34
+**2026年09月19日** | 生成时间: 2026-09-19 23:38
 
 ---
 
@@ -16,9 +16,9 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. US and Denmark reach deal over Greenland after Trump annexation threats
+### 1. Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'
 
-[原文] Trump says the agreement will give the US "permanent control over security, and all other needs, in Greenland", though specifics have not been confirmed by Danish officials.
+[原文] Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump says he's banning MS NOW, CNN and Politico from White House
+### 1. The AI kill switch, explained: 'It's not too little, but it's probably too late'
 
-[原文] Trump, who often accuses mainstream media outlets of writing "fake news," said on Truth Social that those outlets shouldn't be allowed to "FICTION and LIES."
+[原文] As runaway AI fears reach a crescendo, policymakers and tech leaders are weighing the effectiveness of a magic AI stop button known as a kill switch.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/18/trump-white-house-ban-msnow-cnn-politico.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/19/ai-kill-switch-explained.html) — *CNBC*
 
-### 2. Trump says U.S. to build a 'large Military presence' in Greenland as part of a security deal with it and Denmark
+### 2. MS NOW, CNN and Politico journalists blocked from White House after Trump ban
 
-[原文] Greenland has maintained it is not for sale, and the European Union earlier this year united to rebuke Trump over his push to acquire the island.
+[原文] Journalists from MS NOW, CNN and Politico were denied access to the White House, one day after Trump banned three media outlets over their coverage of him.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/18/trump-greenland-denmark-military-deal.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/19/trump-media-ban-ms-now.html) — *CNBC*
 
-### 3. A new arms race is unfolding on the ocean floor
+### 3. Consumer sentiment is in the dumps despite a solid economy. Goldman Sachs blames 'lower happiness'
 
-[原文] Countries and companies are investing in technologies for underwater use amid concerns about the vulnerability of critical infrastructure on the ocean floor.
+[原文] Goldman economist Joseph Briggs said broader pessimism in society may be contributing to struggling consumer sentiment even as the economy chugs along.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/19/underwater-war-sea-drones-defense-tech.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/19/goldman-sachs-happiness-struggling-consumer-sentiment.html) — *CNBC*
 
-### 4. Google's Gemini becomes latest AI model to break out and hack computer systems
+### 4. Flames reported near Saudi capital airport as Pakistan presses Iran over energy supplies
 
-[原文] The disclosure comes as scrutiny over misbehaving artificial intelligence intensifies in Washington and Silicon Valley.
+[原文] Smoke and flames were seen near Riyadh’s main airport after Saudi civil-defense alerts, while Pakistan urged Iran to protect energy supplies and shipping.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/19/riyadh-airport-smoke-saudi-arabia.html) — *CNBC*
 
-### 5. OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC
+### 5. Buffett takes next step in plan to keep Berkshire from straying
 
-[原文] Suleyman joined "Squawk Box" to discuss OpenAI's latest incidents of "concerning model behavior" disclosed earlier this week.
+[原文] Warren Buffett steps down as Berkshire Hathaway's chairman, passing the job to his son, Howard.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/19/warren-buffett-takes-next-step-in-plan-to-keep-berkshire-from-straying.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. India forces caller-ID apps to feed spam reports to telcos
+### 1. Petlibro’s new AI-powered feeder is a game changer for multi-cat homes
+
+[原文] Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features 
+
+📎 [阅读原文](https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/) — *TechCrunch*
+
+### 2. AI safety conversations have gotten unbelievable
+
+[原文] This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/) — *TechCrunch*
+
+### 3. Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking
+
+[原文] Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/) — *TechCrunch*
+
+### 4. India forces caller-ID apps to feed spam reports to telcos
 
 [原文] Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/) — *TechCrunch*
 
-### 2. Tilly Norwood’s press tour is going about as well as you’d expect for an AI
+### 5. Tilly Norwood’s press tour is going about as well as you’d expect for an AI
 
 [原文] In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/) — *TechCrunch*
-
-### 3. A startup that builds other startups raised $100M and is all-in on physical AI
-
-[原文] UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/) — *TechCrunch*
-
-### 4. Anthropic is operating a lab that conducts biology experiments
-
-[原文] AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/) — *TechCrunch*
-
-### 5. AI hallucination nearly triggers US military operation
-
-[原文] “It’s important for service members to understand the uncertainty inherent to LLMs," a GovAI research scholar warns.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Hodgkinson powers to Athlos win in speed suit
+### 1. Ratcliffe 'must go' says Man Utd Muslim fan group
 
-[原文] Keely Hodgkinson powers to victory in a full-body speed suit before being presented with a Tiffany & Co crown as Athlos makes its London debut.
+[原文] The Manchester United Muslim Supporters Club says United co-owner Sir Jim Ratcliffe "must go" after he spoke out against immigration and said the country was "on the slide".
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/cwx2z4ervr6jo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cm9dw4663j9zo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Arsenal open to Dowman loan in right circumstances
+### 2. Tottenham need 'blood & fight' not just to play better - de Zerbi
 
-[原文] Arsenal are open to allowing teenage prodigy Max Dowman to leave the club on loan this term if it aids his development.
+[原文] Spurs head coach Roberto de Zerbi says his side "have to be stronger" following their loss against Aston Villa in the Premier League, focusing on the squad's "behaviour" rather than their quality.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/crp3k23nkl8go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/c6x2zg9ry9geo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Littler survives scare to progress at World Series Finals
+### 3. Clark resigns as Hartlepool boss in post-match interview
 
-[原文] World number one Luke Littler survives a first-round scare to overcome Danny Noppert in a thrilling World Series of Darts Finals match in Amsterdam.
+[原文] Lee Clark resigns as Hartlepool United head coach after a sixth loss in seven games following the 3-1 home defeat by Worthing.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/darts/articles/c62l8wnd45xpo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c6evwk1kee3po?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. The man who would be king - the rise and fall of 'the next Prince Naseem'
+### 4. Goodwin double helps London City win at struggling Charlton
 
-[原文] Touted as the king to Naseem Hamed's prince, Daniel Teasdale's story is instead a cautionary tale.
+[原文] London City Lionesses earn their first away win of the season, with Isobel Goodwin scoring twice, as they emphatically beat a struggling Charlton side who have now lost all three of their WSL games.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5ye0l17dnjo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cxnvl60le139o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Brentford stay unbeaten as they put three past Chelsea
+### 5. Emery praises Jackson & Suzuki after 'fantastic' win at Spurs
 
-[原文] Brentford maintain their unbeaten start in the Premier League as they score three second-half goals to beat Chelsea 3-0 at the Gtech Community Stadium.
+[原文] Aston Villa manager Unai Emery admires his side's resilience in their 3-2 away victory against Tottenham Hotspur in the Premier League, highlighting the performances of striker Nicolas Jackson and goa
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cx980qll9me8o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cmwyzg4ep1wlo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Spain’s SETT Drives $521 Million Investment Push to Build Global Audiovisual Players
+### 1. ‘Resident Evil’ Star Austin Abrams on His ‘Tragic’ Transformation, ‘Not Trying to Look Cool’ While Screaming and the One He Scene Wasn’t Allowed to Shoot
 
-[原文] No Spanish industry initiative is likely to drive more conversation at this year’s San Sebastián Festival than the latest moves by the Spanish Society for Technological Transformation (SETT). Over the
+[原文] SPOILER ALERT: This article contains major spoilers for &#8220;Resident Evil,&#8221; now playing in theaters. There&#8217;s not a moment in &#8220;Resident Evil&#8221; where star Austin Abrams isn&#82
 
-📎 [阅读原文](https://variety.com/2026/global/global/sett-spain-audiovisual-hub-anima-kitchent-good-films-1236846260/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/features/resident-evil-austin-abrams-ending-monster-transformation-1236867004/) — *Variety*
 
-### 2. Naomi Watts Believes Standards Have Changed for Older Women in the Industry: ‘Look at the Emmys Last Week… That’s Heartening to See’
+### 2. ‘Vintage Violence’ Review: Cole Sprouse Heads Up a Hyper-Online Gonzo Freakout in Japan
 
-[原文] British actor Naomi Watts, at the San Sebastián Film Festival to receive this year’s prestigious Donostia Award, spoke about opportunities in the industry for women over 50. Talking a week after Sarah
+[原文] Eugene Kotlyarenko has built a career on drawing upon his widely-viewed cinephilic base of knowledge to consider more contemporary forms of hyper-online, of-the-moment provocation, and “Vintage Violen
 
-📎 [阅读原文](https://variety.com/2026/film/global/naomi-watts-older-women-in-the-industry-emmys-san-sebastian-1236867602/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/reviews/vintage-violence-review-1236869473/) — *Variety*
 
-### 3. Writer-Star Berto Romero, Director Javier Ruiz Caldera Unpack San Sebastian Buzz Title ‘5 More Minutes’: ‘Characters and Audience Should Feel Every Second’s Weight’
+### 3. ‘The Other Bennet Sister’ Christmas Special Sees Mary Embark on Married Life in First Images
 
-[原文] World-premiering in San Sebastián main competition, Javier Ruiz Caldera’s time-warping drama ‘5 More Minutes’ (‘5 Minutos Más’) suggests one way an on-the rocks relationship may come closer together a
+[原文] BritBox have given fans of their hit Jane Austen-inspired series “The Other Bennet Sister” an early Christmas present with a first look at a new three-part special set to drop this holiday season. Ell
 
-📎 [阅读原文](https://variety.com/2026/film/global/5-more-minutes-berto-romero-javier-camara-san-sebastian-1236855174/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/global/the-other-bennet-sister-christmas-special-1236866738/) — *Variety*
 
-### 4. Lego’s ‘Ninjago Legends: Duskfall’ Anime-Style Shorts Premiere in Korea Ahead of YouTube Release
+### 4. ‘Anchors Aweigh’ Review: A Cynical Comedian Reflects on His Youth in an Abridged Mockumentary
 
-[原文] “Ninjago Legends: Duskfall” is premiering in Korea this weekend ahead of a worldwide release on Lego’s YouTube channel. The anime-style shorts feature some of “Ninjago’s” most beloved characters as th
+[原文] In Matt Barats’ “Anchors Aweigh,” a caustic alt-comedian is left adrift after his failed proposal, prompting him to revisit old footage from his college days and ruminate on his arrested development. 
 
-📎 [阅读原文](https://variety.com/2026/tv/global/legos-ninjago-legends-duskfall-premiere-youtube-1236866920/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/reviews/anchors-aweigh-review-1236866281/) — *Variety*
 
-### 5. Portugal’s Queer Lisboa Celebrates 30th Anniversary With Vast Showcase of Latest LGBTQ Titles, Dose of Radical 1970s Counterculture and Family Fare
+### 5. ‘Trees Are Watching’ Review: Eva Green Fights A.I. Generated Horrors in Self-Serious Misfire Boarded by Martin Scorsese
 
-[原文] Celebrating its 30th anniversary this year, Portugal’s preeminent Queer Lisboa – International Queer Film Festival kicked off Friday with a vast program showcasing the latest in LGBTQ cinema, from est
+[原文] Bahman Ghobadi directs some fascinating performances in “Trees Are Watching,” his horror movie based on the Kurdish legend of people being reborn as trees and living second lives as furniture. Not onl
 
-📎 [阅读原文](https://variety.com/2026/film/global/portugal-queer-lisboa-lgbtq-1236867311/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/trees-are-watching-review-1236865892/) — *Variety*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. New Chemical Guys Vent-Mounted Air Fresheners: Sniff-Tested and Ranked
+### 1. Jeep Is Sponsoring a Town So It Can Be the ‘Official 4×4 of Moab’
+
+[原文] Jeep is putting a dollar value on its longstanding connection to Utah's off-roading paradise.
+The post Jeep Is Sponsoring a Town So It Can Be the &#8216;Official 4&#215;4 of Moab&#8217; appeared first
+
+📎 [阅读原文](https://www.thedrive.com/news/jeep-is-sponsoring-a-town-so-it-can-be-the-official-4x4-of-moab) — *The Drive*
+
+### 2. New Chemical Guys Vent-Mounted Air Fresheners: Sniff-Tested and Ranked
 
 [原文] New Chemical Guys ScentTabs let you toggle the strength of your smells. We tested all of them for you here.
 The post New Chemical Guys Vent-Mounted Air Fresheners: Sniff-Tested and Ranked appeared fir
 
 📎 [阅读原文](https://www.thedrive.com/news/new-chemical-guys-vent-mounted-air-fresheners-sniff-tested-and-ranked) — *The Drive*
 
-### 2. AI Car Dealer Scams Are Infesting Facebook Marketplace—and They’re Working
+### 3. AI Car Dealer Scams Are Infesting Facebook Marketplace—and They’re Working
 
 [原文] Fake photos, fake voices, and a $36,000 deal for a Toyota 4Runner that never existed show how AI is supercharging Marketplace scams.
 The post AI Car Dealer Scams Are Infesting Facebook Marketplace—and
 
 📎 [阅读原文](https://www.thedrive.com/features/ai-car-dealer-scams-are-infesting-facebook-marketplace-and-theyre-working) — *The Drive*
 
-### 3. 2027 Chevy Silverado ZR2 Really Wants To Be a Baja-Bashing Cadillac
+### 4. 2027 Chevy Silverado ZR2 Really Wants To Be a Baja-Bashing Cadillac
 
 [原文] With snazzy features like massaging seats and Super Cruise hands-free driving now standard, the hardcore ZR2 is now a lot softer where it counts. But is that what people want?
 The post 2027 Chevy Silv
 
 📎 [阅读原文](https://www.thedrive.com/news/2027-chevy-silverado-zr2-really-wants-to-be-a-baja-bashing-cadillac) — *The Drive*
 
-### 4. China Will Dominate US Car Market Like Europe’s Unless Restricted, Hyundai CEO Says: TDS
+### 5. China Will Dominate US Car Market Like Europe’s Unless Restricted, Hyundai CEO Says: TDS
 
 [原文] Europe tried to stave off China from undercutting its auto market on price, but failed. Hyundai CEO Jose Munoz said the US risks the same fate without proper conditions.
 The post China Will Dominate U
 
 📎 [阅读原文](https://www.thedrive.com/news/china-will-dominate-us-car-market-like-europes-unless-restricted-hyundai-ceo-says-tds) — *The Drive*
-
-### 5. 2026 Subaru Crosstrek Hybrid Review: Why This Should Be Your Daily Driver
-
-[原文] The Subaru Crosstrek Hybrid's bang-for-the-buck can’t be overlooked or overstated.
-The post 2026 Subaru Crosstrek Hybrid Review: Why This Should Be Your Daily Driver appeared first on The Drive.
-
-📎 [阅读原文](https://www.thedrive.com/car-reviews/2026-subaru-crosstrek-hybrid-review) — *The Drive*
 
 ---
 
@@ -439,35 +439,35 @@ The post 2026 Subaru Crosstrek Hybrid Review: Why This Should Be Your Daily Driv
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Dropkick Murphys’ Ken Casey Says Ed Sheeran ‘Took the Knee’ With Macklemore: ‘Doesn’t Sit Right With Me’
+### 1. Gnarls Barkley Announce First Tour in 18 Years
+
+[原文] Duo's To Whom It Still Concerns Tour, in support of their third and final album Atlanta, hits the road this November
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/gnarls-barkley-first-tour-18-years-atlanta-1235629188/) — *Rolling Stone*
+
+### 2. Dropkick Murphys’ Ken Casey Says Ed Sheeran ‘Took the Knee’ With Macklemore: ‘Doesn’t Sit Right With Me’
 
 [原文] "That’s not how Dropkick Murphys would operate,” frontman says
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/dropkick-murphys-ken-casey-ed-sheeran-took-knee-macklemore-1235629079/) — *Rolling Stone*
 
-### 2. Lea Michele Remembers Duncan Sheik: ‘This One Hurts and Does Not Seem Real’
+### 3. Lea Michele Remembers Duncan Sheik: ‘This One Hurts and Does Not Seem Real’
 
 [原文] The actress starred in Spring Awakening composed by the late musician
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/lea-michele-duncan-sheik-tribute-spring-awakening-1235628965/) — *Rolling Stone*
 
-### 3. Ed Sheeran Opener Aaron Rowe Defends Singer, Says Focus Should Be on Robert Kraft
+### 4. Ed Sheeran Opener Aaron Rowe Defends Singer, Says Focus Should Be on Robert Kraft
 
 [原文] “You really should be focusing on the Zionist lobbies that are trying to silence the voices of people who are shouting about genocide,” Rowe says
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/aaron-rowe-ed-sheeran-robert-kraft-1235628890/) — *Rolling Stone*
 
-### 4. Sammy Hagar Fires Back at Alex Van Halen: ‘You Act Like There Never Was a Van Hagar’
+### 5. Sammy Hagar Fires Back at Alex Van Halen: ‘You Act Like There Never Was a Van Hagar’
 
 [原文] “He just keep releasing all this old stuff and charging people for old pictures that you can find on the internet,” Hagar said of Alex Van Halen. “He’s doing a lot of stuff wrong for the legacy of Van
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/sammy-hagar-fires-back-alex-van-halen-1235628732/) — *Rolling Stone*
-
-### 5. Beck Marks ‘Ride Lonesome’ Release With Tokyo-Set ‘Run Away’ Video
-
-[原文] Shogun star Tadanobu Asano stars in latest visual for singer’s first album in seven years and spiritual companion to Sea Change and Morning Phase
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/beck-marks-ride-lonesome-release-tokyo-run-away-video-1235628708/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post 2026 Subaru Crosstrek Hybrid Review: Why This Should Be Your Daily Driv
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Cutting Passenger Demand May Be Only Way to Save Heathrow’s Net Zero Case
+### 1. Skift Global Forum Preview: What Happens After the Booking? Spotnana CEO Has a Number
+
+[原文] The industry pours its attention into search and booking. Steve Singh thinks the money is in what happens after. Spotnana's AI now handles cancellations and refunds, and he believes servicing costs ca
+
+📎 [阅读原文](https://skift.com/2026/09/19/skift-global-forum-preview-spotnana-ceo-after-booking-servicing/) — *Skift*
+
+### 2. Cutting Passenger Demand May Be Only Way to Save Heathrow’s Net Zero Case
 
 [原文] The UK's official climate advisors just told the government that a Heathrow expansion does not work with the country’s climate goals — and if technology to bring emissions down doesn’t materialize, de
 
 📎 [阅读原文](https://skift.com/2026/09/18/cutting-passenger-demand-may-be-only-way-to-save-heathrows-net-zero-case/) — *Skift*
 
-### 2. Skift Global Forum Preview: IHG’s Chief Commercial & Marketing Officer on Making Hotels Legible to AI
+### 3. Skift Global Forum Preview: IHG’s Chief Commercial & Marketing Officer on Making Hotels Legible to AI
 
 [原文] Heather Balsley is making IHG legible to the AI models while arguing the models will never own the guest. Two bets, one strategy, at Skift Global Forum.
 
 📎 [阅读原文](https://skift.com/2026/09/18/skift-global-forum-preview-ihg-ai-hotel-visibility/) — *Skift*
 
-### 3. The Billion-Dollar Travel Company You’ve Probably Never Heard Of
+### 4. The Billion-Dollar Travel Company You’ve Probably Never Heard Of
 
 [原文] OneSpaWorld’s path to $1 billion in revenue offers an unusually clear look at who captures the money inside the cruise economy…and why controlling the customer matters more than controlling the servic
 
 📎 [阅读原文](https://skift.com/2026/09/18/the-billion-dollar-travel-company-youve-probably-never-heard-of/) — *Skift*
 
-### 4. How Grand Ji Hotel Is Building a Distinctly Chinese Premium Brand
+### 5. How Grand Ji Hotel Is Building a Distinctly Chinese Premium Brand
 
 [原文] Grand Ji Hotel, the new premium hotel brand from H World Group, brings a distinctly Chinese design philosophy and aesthetic to the guest experience, shaped by ideas around privacy, calm, and hospitali
 
 📎 [阅读原文](https://skift.com/2026/09/18/h-world-grand-ji-chinese-premium-hospitality/) — *Skift*
-
-### 5. Hilton Has Luxury ‘Coming Out of Its Ears’ in Saudi Arabia. Now It Wants the Middle Market.
-
-[原文] Saudi Arabia’s luxury hotel boom is mostly built. Hilton’s bet on what comes next is mid-market brands and franchises — and it has Turkey as proof the playbook works.
-
-📎 [阅读原文](https://skift.com/2026/09/18/hilton-has-luxury-coming-out-of-its-ears-in-saudi-arabia-now-it-wants-the-middle-market/) — *Skift*
 
 ---
 
