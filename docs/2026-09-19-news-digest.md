@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月19日** | 生成时间: 2026-09-19 11:53
+**2026年09月19日** | 生成时间: 2026-09-19 18:34
 
 ---
 
@@ -18,33 +18,33 @@
 
 ### 1. US and Denmark reach deal over Greenland after Trump annexation threats
 
-[原文] Trump said the agreement will give the US "permanent control over security, and all other needs, in Greenland", though specifics haven't been confirmed by Danish officials.
+[原文] Trump says the agreement will give the US "permanent control over security, and all other needs, in Greenland", though specifics have not been confirmed by Danish officials.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Russian hybrid attacks against Europe intensifying, says Macron
-
-[原文] The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 3. Trump says he is banning CNN and Politico from White House
+### 2. Trump says he is banning CNN and Politico from White House
 
 [原文] The US president has had a tense and fiery relationship with the US media throughout his political career.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Is the Kennedy Center losing 'hundreds of millions of dollars'?
+### 3. Google's Gemini AI hacked three companies in security test
 
-[原文] Records in 2024 show the venue had a surplus of millions of dollars once  contributions and grants had been factored in.
+[原文] The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/videos/cqy4zw4xr717o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. At least 21 killed after vehicle loaded with explosives rams Pakistan mosque
+### 4. Trump signs sweeping Russia sanctions bill
 
-[原文] A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility.
+[原文] The bill is named after the late Senator Lindsey Graham, a staunch advocate of aid for Ukraine.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Grim discoveries of murdered women spark fear in South Africa
+
+[原文] Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -66,23 +66,23 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/18/trump-greenland-denmark-military-deal.html) — *CNBC*
 
-### 3. Google's Gemini becomes latest AI model to break out and hack computer systems
+### 3. A new arms race is unfolding on the ocean floor
+
+[原文] Countries and companies are investing in technologies for underwater use amid concerns about the vulnerability of critical infrastructure on the ocean floor.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/19/underwater-war-sea-drones-defense-tech.html) — *CNBC*
+
+### 4. Google's Gemini becomes latest AI model to break out and hack computer systems
 
 [原文] The disclosure comes as scrutiny over misbehaving artificial intelligence intensifies in Washington and Silicon Valley.
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html) — *CNBC*
 
-### 4. OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC
+### 5. OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC
 
 [原文] Suleyman joined "Squawk Box" to discuss OpenAI's latest incidents of "concerning model behavior" disclosed earlier this week.
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html) — *CNBC*
-
-### 5. Three words from Kevin Warsh have Wall Street wondering how far the Fed will go with rate hikes
-
-[原文] The chairman both explained this week's decision to raise interest rates, and raised vexing questions about what comes next
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/18/three-words-from-kevin-warsh-have-wall-street-wondering-how-far-the-fed-will-go-with-rate-hikes.html) — *CNBC*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Chelsea miss Joao Pedro... and can't stop conceding goals
-
-[原文] Chelsea's problem was defending, but with Joao Pedro ruled out through injury, scoring goals has also become an issue.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cm0qx3yv8z42o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 2. Hodgkinson powers to Athlos win in speed suit
+### 1. Hodgkinson powers to Athlos win in speed suit
 
 [原文] Keely Hodgkinson powers to victory in a full-body speed suit before being presented with a Tiffany & Co crown as Athlos makes its London debut.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/cwx2z4ervr6jo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Brentford stay unbeaten as they put three past Chelsea
+### 2. Arsenal open to Dowman loan in right circumstances
 
-[原文] Brentford maintain their unbeaten start in the Premier League as they score three second-half goals to beat Chelsea 3-0 at the Gtech Community Stadium.
+[原文] Arsenal are open to allowing teenage prodigy Max Dowman to leave the club on loan this term if it aids his development.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cx980qll9me8o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/crp3k23nkl8go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Littler survives scare to progress at World Series Finals
+### 3. Littler survives scare to progress at World Series Finals
 
 [原文] World number one Luke Littler survives a first-round scare to overcome Danny Noppert in a thrilling World Series of Darts Finals match in Amsterdam.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/darts/articles/c62l8wnd45xpo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. McIlroy in mix heading into weekend at Wentworth
+### 4. The man who would be king - the rise and fall of 'the next Prince Naseem'
 
-[原文] Rory McIlroy stays in contention with a five-under 67 to sit four strokes behind second-round leader Ryan Gerard at the BMW PGA Championship at Wentworth.
+[原文] Touted as the king to Naseem Hamed's prince, Daniel Teasdale's story is instead a cautionary tale.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/c94gm0gg6mm7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5ye0l17dnjo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 5. Brentford stay unbeaten as they put three past Chelsea
+
+[原文] Brentford maintain their unbeaten start in the Premier League as they score three second-half goals to beat Chelsea 3-0 at the Gtech Community Stadium.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cx980qll9me8o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘Darlene Love: I Know Where I’ve Been’ Review: A Stirring Pop Doc Traces How the Great Singer of ‘He’s a Rebel’ and Other Classics Reclaimed Her Name
+### 1. Spain’s SETT Drives $521 Million Investment Push to Build Global Audiovisual Players
 
-[原文] "Darlene Love: I Know Where I’ve Been" tracks the unique fusion of glory, injustice, fleeting opportunity, dashed dreams, resilience, and latter-day recognition that defines her story. The movie, like
+[原文] No Spanish industry initiative is likely to drive more conversation at this year’s San Sebastián Festival than the latest moves by the Spanish Society for Technological Transformation (SETT). Over the
 
-📎 [阅读原文](https://variety.com/2026/film/reviews/darlene-love-i-know-where-ive-been-review-1236865848/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/global/global/sett-spain-audiovisual-hub-anima-kitchent-good-films-1236846260/) — *Variety*
 
-### 2. NFL on Sling TV 2026: Here’s How to Watch Minnesota Vikings vs. Chicago Bears Game Live Online
+### 2. Naomi Watts Believes Standards Have Changed for Older Women in the Industry: ‘Look at the Emmys Last Week… That’s Heartening to See’
 
-[原文] It&#8217;s week two in the NFL season and we&#8217;re already seeing a big rivalry game between two NFC North teams. Although both the Vikings and the Bears are 1-0 on the season, this game has a litt
+[原文] British actor Naomi Watts, at the San Sebastián Film Festival to receive this year’s prestigious Donostia Award, spoke about opportunities in the industry for women over 50. Talking a week after Sarah
 
-📎 [阅读原文](https://variety.com/2026/shopping/news/how-to-watch-min-vikings-vs-chi-bears-live-online-sling-tv-1236867237/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/naomi-watts-older-women-in-the-industry-emmys-san-sebastian-1236867602/) — *Variety*
 
-### 3. Angelina Jolie and Salma Hayek Pinault on Their New Film ‘Without Blood’ and Spending ‘A Lot of Time Talking About Our Pain, Our Losses, Our Traumas’
+### 3. Writer-Star Berto Romero, Director Javier Ruiz Caldera Unpack San Sebastian Buzz Title ‘5 More Minutes’: ‘Characters and Audience Should Feel Every Second’s Weight’
 
-[原文] In “Without Blood,” written and directed by Angelina Jolie, Salma Hayek plays Nina, a woman who spends her adult life looking for the three men responsible for the wartime murder of her father and bro
+[原文] World-premiering in San Sebastián main competition, Javier Ruiz Caldera’s time-warping drama ‘5 More Minutes’ (‘5 Minutos Más’) suggests one way an on-the rocks relationship may come closer together a
 
-📎 [阅读原文](https://variety.com/2026/film/columns/angelina-jolie-salma-hayek-without-blood-pain-losses-traumas-1236867367/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/5-more-minutes-berto-romero-javier-camara-san-sebastian-1236855174/) — *Variety*
 
-### 4. Paramount and California AG Bonta Reportedly in ‘Advanced Talks’ to Settle Antitrust Suit
+### 4. Lego’s ‘Ninjago Legends: Duskfall’ Anime-Style Shorts Premiere in Korea Ahead of YouTube Release
 
-[原文] David Ellison&#8217;s Paramount Skydance is in &#8220;advanced talks&#8221; with California Attorney General Rob Bonta to settle the 12-state antitrust suit that&#8217;s holding up its takeover of War
+[原文] “Ninjago Legends: Duskfall” is premiering in Korea this weekend ahead of a worldwide release on Lego’s YouTube channel. The anime-style shorts feature some of “Ninjago’s” most beloved characters as th
 
-📎 [阅读原文](https://variety.com/2026/film/news/paramount-california-ag-bonta-advanced-talks-settle-antitrust-suit-1236867326/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/global/legos-ninjago-legends-duskfall-premiere-youtube-1236866920/) — *Variety*
 
-### 5. Oscar Predictions: Best Adapted Screenplay — Epics, Trilogies and a Wild Dinner Party Could Define the Race
+### 5. Portugal’s Queer Lisboa Celebrates 30th Anniversary With Vast Showcase of Latest LGBTQ Titles, Dose of Radical 1970s Counterculture and Family Fare
 
-[原文] Variety&#160;Awards Circuit&#160;section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars,&#160;Emmys,
+[原文] Celebrating its 30th anniversary this year, Portugal’s preeminent Queer Lisboa – International Queer Film Festival kicked off Friday with a vast program showcasing the latest in LGBTQ cinema, from est
 
-📎 [阅读原文](https://variety.com/feature/2027-oscars-best-adapted-screenplay-predictions-1236834275/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/portugal-queer-lisboa-lgbtq-1236867311/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The SteelSeries Arctis Nova Pro Omni Gaming Headset Drops to the Lowest Price Ever at Amazon Resale
+### 1. As Fans Flood the World of Warcraft: Forever Beta, Dev Says It's Putting Up 'The Craziest Numbers I've Seen in 17 Years Working at Blizzard'
 
-[原文] A wireless gaming headset with infinite battery life.
+[原文] World of Warcraft: Forever looks like it could be a smash hit after the launch of the beta was overrun with eager fans, surprising even Blizzard itself.
 
-📎 [阅读原文](https://www.ign.com/articles/steelseries-arctis-nova-pro-omni-gaming-headset-deal-september-2026-2) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/as-fans-flood-the-world-of-warcraft-forever-beta-dev-says-its-putting-up-the-craziest-numbers-ive-seen-in-17-years-working-at-blizzard) — *IGN*
 
-### 2. Walmart Just Discounted Over a Dozen Nintendo Switch Games, Plus Get an Extra $10 With This Secret Coupon
+### 2. Marvel's Wolverine Developer Nerfs Scent Trails and Audio Sense Indicators After 'Fart Gas' Backlash
 
-[原文] It's a good time to be a Switch gamer.
+[原文] Insomniac has released an update for Marvel’s Wolverine that nerfs the “fart gas” that had become such a talking point even before the game’s release.
 
-📎 [阅读原文](https://www.ign.com/articles/nintendo-switch-customer-appreciation-sale-at-walmart-plus-secret-coupon) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/marvels-wolverine-developer-nerfs-scent-trails-and-audio-sense-indicators-after-fart-gas-backlash) — *IGN*
 
-### 3. Save 15% Off the SteelSeries Arctis Nova Pro Omni Gaming Headset AND Get a Free $110 Aerox 3 Mouse
+### 3. Lollipop Chainsaw Live-Action Movie Revealed by Dragami Games
 
-[原文] $170 in total savings.
+[原文] A live-action Lollipop Chainsaw movie is officially in the works, developer Dragami Games has announced.
 
-📎 [阅读原文](https://www.ign.com/articles/steelseries-arctis-nova-pro-omni-gaming-headset-deal-september-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/lollipop-chainsaw-live-action-movie-revealed-by-dragami-games) — *IGN*
 
-### 4. The New SteelSeries Aeon Pro Wireless Gaming Controller With Infinite Battery Life Is Now Available
+### 4. Resident Evil Fans 'Will Feel Seen' After the Movie, Says Director Zach Cregger
 
-[原文] Quite possibly the best wireless PC and Xbox gaming controller ever.
+[原文] Resident Evil director Zach Cregger and star Austin Abrams sit down to delve into how they revived the beloved horror franchise on the big screen.
 
-📎 [阅读原文](https://www.ign.com/articles/steelseries-aeon-pro-wireless-gaming-controller-deal) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/resident-evil-fans-will-feel-seen-after-the-movie-says-director-zach-cregger) — *IGN*
 
-### 5. Final Fantasy 7 Revelation Director Warns of 200GB Install Size for Remake Trilogy's Final Chapter
+### 5. We Ranked the 10 Best First Partner Pokémon TCG Cards of All Time
 
-[原文] Final Fantasy 7 Revelation will require around 200GB of storage when it launches next year, director Naoki Hamaguchi has warned.
+[原文] We ranked the 10 best First Partner Pokémon TCG cards of all time, featuring $4,500 vintage grails, iconic Charizard classics, and budget-friendly picks.
 
-📎 [阅读原文](https://www.ign.com/articles/final-fantasy-7-revelation-director-warns-of-200gb-install-size-for-remake-trilogys-final-chapter) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/best-first-partner-pokemon-tcg-cards) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post 2026 Subaru Crosstrek Hybrid Review: Why This Should Be Your Daily Driv
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Environmental and Public Health Groups Sue Over the Trump EPA’s Latest Attempt to Bolster Fossil Fuels
+### 1. ‘Post-Disaster Gentrification’ Proliferates in Florida Towns as Costs Soar Following Hurricanes
+
+[原文] Jaques and Paulina Sebastiao were the first residents on their street to rebuild their two-bedroom house two years after Hurricane Michael’s 155 mile-per-hour winds leveled almost every building in Me
+
+📎 [阅读原文](https://insideclimatenews.org/news/19092026/florida-disaster-gentrification-following-hurricanes/) — *Inside Climate News*
+
+### 2. For Climate-Vulnerable Countries, Debt Costs 25 Times More Than Climate Action
+
+[原文] The countries most vulnerable to climate change are spending nearly 25 times more on repaying debt than on climate action, according to a new ActionAid report released Wednesday.&#160; The report, “De
+
+📎 [阅读原文](https://insideclimatenews.org/news/19092026/for-climate-vulnerable-countries-debt-costs-25-times-more-than-climate-action/) — *Inside Climate News*
+
+### 3. What Happens When Earth Passes 1.5 Degrees of Warming?
+
+[原文] From our collaborating partner “Living on Earth,” public radio&#8217;s environmental news magazine, an interview by host Steve Curwood with climate scientist Michael Mann. As the United Nations prepar
+
+📎 [阅读原文](https://insideclimatenews.org/news/19092026/what-happens-when-earth-passes-1-5-degrees-of-warming/) — *Inside Climate News*
+
+### 4. Endangered Salmon May Soon Swim Freely up a Maine River. But as the Climate Changes, a Comeback Isn’t Guaranteed.
+
+[原文] On a recent canoe trip to the remote upper reaches of the Narraguagus River, Ellie Mason saw prime Atlantic salmon habitat everywhere. Though small, the river and its tributaries are some of the wilde
+
+📎 [阅读原文](https://insideclimatenews.org/news/19092026/maine-dam-removal-helps-endangered-salmon/) — *Inside Climate News*
+
+### 5. Environmental and Public Health Groups Sue Over the Trump EPA’s Latest Attempt to Bolster Fossil Fuels
 
 [原文] Environmental and public health groups are suing the Trump administration over its most recent move to eliminate protections against climate-warming pollution. The Environmental Protection Agency anno
 
 📎 [阅读原文](https://insideclimatenews.org/news/18092026/environmental-and-public-health-groups-sue-trump-epa-over-power-plant-fossil-fuels/) — *Inside Climate News*
-
-### 2. Trump Targets Big Bad Wolves, but Ranchers Say Other Administration Actions Drive Their Woes
-
-[原文] America’s centuries-old conflict with wolves took another turn earlier this month when President Donald Trump ordered the animals be stripped of federal protections across several U.S. states, claimin
-
-📎 [阅读原文](https://insideclimatenews.org/news/18092026/trump-claims-ending-wolf-protections-will-help-ranchers/) — *Inside Climate News*
-
-### 3. California Adopts New Limits to Rein in Dairy Manure Pollution and Its ‘Outsized’ Groundwater Impacts
-
-[原文] The California valley with the most dairy farms in the state will follow stricter water pollution requirements following years of advocacy and a marathon six-hour meeting this week. The State Water Re
-
-📎 [阅读原文](https://insideclimatenews.org/news/18092026/california-dairy-manure-groundwater-regulation/) — *Inside Climate News*
-
-### 4. These State Elections Could Reshape Climate and Energy Policy
-
-[原文] Democrats are poised to achieve trifectas—control of the governor’s office and both legislative chambers—in at least three states in this year’s midterm elections, and maybe even more. This matters be
-
-📎 [阅读原文](https://insideclimatenews.org/news/17092026/inside-clean-energy-key-state-elections/) — *Inside Climate News*
-
-### 5. Whales Have Rebounded in the Southern Ocean. Scientists Worry Commercial Fishing Could Threaten Their Comeback.
-
-[原文] For the second year in a row, Antarctica’s industrial krill fishing fleet halted operations ahead of schedule after reaching its seasonal catch limit.&#160; The vessels had been harvesting the tiny sh
-
-📎 [阅读原文](https://insideclimatenews.org/news/17092026/antarctica-krill-fishing-threatens-whales/) — *Inside Climate News*
 
 ---
 
