@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月20日** | 生成时间: 2026-09-20 12:10
+**2026年09月20日** | 生成时间: 2026-09-20 18:56
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show
+### 1. Two killed in 'massive' Ukrainian drone attack on Moscow region, Russia says
 
-[原文] The mega-star spoke about Israel and Gaza at his first concert since rapper Macklemore was removed from his tour.
+[原文] A major oil refinery was also hit as Moscow's mayor says 450 drones were downed during the "unprecedented attack".
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Ed Sheeran admits 'mistakes' at first show since Macklemore controversy
+
+[原文] The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Houthis say they targeted Saudi capital with ballistic missiles
+### 3. German elections under way which could decide fate of Chancellor Merz
+
+[原文] The chancellor is facing intense political pressure which will increase if his party struggles in Sunday's polls.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. Houthis say they targeted Saudi capital with ballistic missiles
 
 [原文] A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'
+### 5. Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'
 
 [原文] Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Our head teacher was an abuser. We joined forces to get justice - now we're married
-
-[原文] Students spent years collecting evidence against their Indonesian principal, before falling in love.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Journalists denied White House access after Trump banned some media outlets
-
-[原文] CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -66,23 +66,23 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/19/trump-media-ban-ms-now.html) — *CNBC*
 
-### 3. The AI kill switch, explained: 'It's not too little, but it's probably too late'
+### 3. France’s wine production nears a 70-year low, leaving winemakers with tough choices
+
+[原文] As the French wine industry reaches a crisis point, key players are considering new markets, products and generations.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/20/france-wine-production-70-year-low-heatwaves-drought.html) — *CNBC*
+
+### 4. The AI kill switch, explained: 'It's not too little, but it's probably too late'
 
 [原文] As runaway AI fears reach a crescendo, policymakers and tech leaders are weighing the effectiveness of a magic AI stop button known as a kill switch.
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/19/ai-kill-switch-explained.html) — *CNBC*
 
-### 4. Google's Gemini becomes latest AI model to break out and hack computer systems
+### 5. Google's Gemini becomes latest AI model to break out and hack computer systems
 
 [原文] The disclosure comes as scrutiny over misbehaving artificial intelligence intensifies in Washington and Silicon Valley.
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html) — *CNBC*
-
-### 5. Buffett takes next step in plan to keep Berkshire from straying
-
-[原文] Warren Buffett steps down as Berkshire Hathaway's chairman, passing the job to his son, Howard.
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/19/warren-buffett-takes-next-step-in-plan-to-keep-berkshire-from-straying.html) — *CNBC*
 
 ---
 
@@ -130,35 +130,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Caltech’s tiny new chip can steer light in 74 quadrillionths of a second
+### 1. A deadly ebola relative is surging after years in the shadows
 
-[原文] A new Caltech device can redirect a beam of light in just 74 femtoseconds using another beam and a nanoscale silicon metasurface. The breakthrough could pave the way for dramatically faster photonic c
+[原文] A growing Bundibugyo virus outbreak is showing how a little-known relative of Ebola can become a major threat when diagnosis and treatment options are limited. Experts warn that preparing only for fam
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260918024823.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260919031042.htm) — *Science Daily*
 
-### 2. Scientists just named a new snake after Guns N’ Roses legend Slash
+### 2. A giant crater may reveal the origin of Mars’ doomed moon
 
-[原文] A newly discovered snake from New Guinea has been named after Guns N’ Roses guitarist Slash, who has loved reptiles since childhood. Genetic testing and physical differences confirmed that the reddish
+[原文] A massive crater on Mars’ moon Phobos may hide a dense region of compressed material that could reveal whether the moon is a captured asteroid or debris from an ancient impact on Mars. Japan’s upcomin
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260918024816.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260919031040.htm) — *Science Daily*
 
-### 3. Scientists are about to test Einstein’s gravity with exotic matter
+### 3. Hurricane Hunters reveal 4 warning signs that a storm is about to strengthen
 
-[原文] Scientists have found a new way to create a controlled beam of muonium, an exotic atom containing a heavier cousin of the electron. The advance could allow researchers to test for the first time wheth
+[原文] Nearly three decades of Hurricane Hunter data reveal four features that can help a tilted tropical cyclone straighten its circulation and become capable of intensifying. The findings could give foreca
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260918024808.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260919031037.htm) — *Science Daily*
 
-### 4. NASA’s Roman Space Telescope could last more than twice as long as planned
+### 4. Scientists find that “perfect” systems may be surprisingly fragile
 
-[原文] NASA’s Roman Space Telescope may now have enough fuel for at least 22 years of science, more than double its original 10 year design life. An extremely precise course correction, extra fuel at launch,
+[原文] Complex systems may work better when their parts are not perfectly alike. Northwestern physicists found that carefully balanced variation, or “disorder,” can make networks such as power grids, ecosyst
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260918024802.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260919031022.htm) — *Science Daily*
 
-### 5. Scientists restore a brain protein and reverse signs of aging in mice
+### 5. New chemical wipes out 95% of termites without harming humans
 
-[原文] Scientists found that declining levels of the brain protein Menin may help drive aging, with lower levels in mice linked to inflammation, cognitive decline, weaker bones, and thinner skin. Restoring M
+[原文] A chemical that stops drywood termites from building new exoskeletons killed about 95% of colonies in testing, offering a potentially safer alternative to traditional fumigation. Because termites even
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260918000437.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260919025248.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Brighton cruise past Arsenal to end champions' perfect start
+### 1. Townsend run over by pitch roller in Thailand
 
-[原文] Brighton secure a 3-0 victory over Premier League champions Arsenal to inflict the Gunners' first defeat of the season.
+[原文] Former England winger Andros Townsend jokes that playing Stoke away "wasn't so bad after all" following a bizarre incident before a game in Thailand.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cvde048j71rdo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cr93e70xv21ko?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Coventry earn first points of season in dramatic win over Forest
+### 2. Littler could boycott Dutch events over booing
 
-[原文] Jay Dasilva's strike proves the difference as Coventry earn their first Premier League win since returning to the top flight.
+[原文] Luke Littler threatens a boycott of playing in the Netherlands after being booed and whistled at the World Series of Darts Finals in Amsterdam.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cmly4g0rqzwwo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/darts/articles/cr5ye91l200go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Newcastle hold off Hull at St James' Park
+### 3. Wembley welcomes 'rabid' college football fans
 
-[原文] Newcastle United hold off a late Hull City fightback to seal a narrow 2-1 win.
+[原文] Wembley hosted its first American college football game on Saturday, but did the event meet expectations?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/ckrer0yl0qjjo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/american-football/articles/c64g7x1r813go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Everton's unbeaten run continues with win over 10-man Ipswich
+### 4. Fleming on England discipline, Stokes, late arrival and coaching styles
 
-[原文] Unbeaten Everton move up to fifth in the Premier League, with Thierno Barry's goal making the difference against 10-man Ipswich Town.
+[原文] Read what England's new Test coach Stephen Fleming had to say about Bazball, Ben Stokes, the team's discipline issues and his own philosophy.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cmvgy397e5qzo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cw1l69z4579do?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Spurs lose again as Villa hold on for first league win
+### 5. Mourinho and Simeone renew rivalry in Madrid derby after more than a decade
 
-[原文] Aston Villa pick up their first win of the Premier League season after five matches, holding off a late push from a Tottenham Hotspur side who remain without a win in the league.
+[原文] Jose Mourinho and Diego Simeone renew their rivalry after a 12-year wait as Real Madrid visit Atletico Madrid in Sunday's Spanish capital derby.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/c3j4jz7pgq5lo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cmly4x3l5kzlo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Mark Ruffalo Tells Rob Bonta ‘Don’t You Dare’ Settle the Antitrust Lawsuit Against Paramount: ‘Do Not Cave’
+### 1. Ready, SETT, Go: SETT Execs Drill Down on the Spanish Sovereign Venture Capital Fund That Will Drive Industry Conversation at San Sebastián
+
+[原文] One of the major industry narratives at this year’s San Sebastián Festival, running Sept. 18-26, will be the presentation of SETT, the venture capital fund of Spain’s Ministry for Digital Transformati
+
+📎 [阅读原文](https://variety.com/2026/tv/global/sett-javier-ponce-maria-coronado-how-sett-works-and-why-1236869707/) — *Variety*
+
+### 2. Mark Ruffalo Tells Rob Bonta ‘Don’t You Dare’ Settle the Antitrust Lawsuit Against Paramount: ‘Do Not Cave’
 
 [原文] Mark Ruffalo is encouraging California attorney general Rob Bonta and his coalition of 11 other state AGs not to settle their lawsuit against Paramount Skydance and keep David Ellison from acquiring W
 
 📎 [阅读原文](https://variety.com/2026/film/news/mark-ruffalo-rob-bonta-dont-settle-lawsuit-paramount-1236869774/) — *Variety*
 
-### 2. ‘Ride or Die’ Canceled by Prime Video After One Season
+### 3. ‘Ride or Die’ Canceled by Prime Video After One Season
 
 [原文] “Ride or Die” has been canceled by Prime Video after one season, Variety can confirm. The streamer’s Hannah Waddingham and Octavia Spencer-led buddy dramedy premiered in July of this year. It was firs
 
 📎 [阅读原文](https://variety.com/2026/tv/news/ride-or-die-canceled-prime-video-1236869768/) — *Variety*
 
-### 3. Ed Sheeran Addresses Macklemore Controversy While on Stage at First Concert Since Rapper Dropped From Tour: ‘What Is Happening in Gaza Is Catastrophic and Unjustifiable’
+### 4. Ed Sheeran Addresses Macklemore Controversy While on Stage at First Concert Since Rapper Dropped From Tour: ‘What Is Happening in Gaza Is Catastrophic and Unjustifiable’
 
 [原文] Ed Sheeran addressed the controversy surrounding Macklemore’s removal from his Loop Tour on Saturday night, speaking from the stage at Philadelphia’s Lincoln Financial Field during his first concert s
 
 📎 [阅读原文](https://variety.com/2026/music/news/ed-sheeran-addresses-macklemore-on-stage-philadelphia-show-1236869614/) — *Variety*
 
-### 4. Ruby Rose Remembers ‘Best Friend’ Hayden Panettiere: ‘All That She Ever Wanted Was to Have Her Story Told’
+### 5. Ruby Rose Remembers ‘Best Friend’ Hayden Panettiere: ‘All That She Ever Wanted Was to Have Her Story Told’
 
 [原文] Ruby Rose got emotional when asked about her friend, Hayden Panettiere, who died Aug. 16 at 36. Rose told Entertainment Tonight that Panettiere was her &#8220;best friend&#8221; and that they &#8220;s
 
 📎 [阅读原文](https://variety.com/2026/film/news/ruby-rose-remembers-hayden-panettiere-1236869723/) — *Variety*
-
-### 5. Protestors March Outside Ed Sheeran Concert After Macklemore Was Dropped From Tour: ‘It’s Not Going to Stop Until Palestine is Free’
-
-[原文] Pro-Palestinian protesters gathered outside Ed Sheeran’s concert at Philadelphia’s Lincoln Financial Field on Saturday night as the singer returned to the stage for the first time since Macklemore was
-
-📎 [阅读原文](https://variety.com/2026/music/news/palestine-protestors-ed-sheeran-concert-macklemore-1236869617/) — *Variety*
 
 ---
 
@@ -363,35 +363,35 @@ The post New Chemical Guys Vent-Mounted Air Fresheners: Sniff-Tested and Ranked 
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘Post-Disaster Gentrification’ Proliferates in Florida Towns as Costs Soar Following Hurricanes
+### 1. A Wake-Up Call on Climate, Costs and Corruption
+
+[原文] Welcome to Inside Climate, a podcast from the staff of Inside Climate News. Ahead of Climate Week NYC, Inside Climate host Jake Bolster speaks to U.S. Sen. Sheldon Whitehouse of Rhode Island and asks 
+
+📎 [阅读原文](https://insideclimatenews.org/news/20092026/inside-climate-podcast-sen-sheldon-whitehouse/) — *Inside Climate News*
+
+### 2. Climate Super-Pollutant from China’s Electric Grid Is Cooking the Planet
+
+[原文] Read this article in Chinese 阅读本文中文版. China’s electric grid has a dirty secret: Despite leading the world in renewable energy expansion, it is also the largest emitter of the planet’s most potent gree
+
+📎 [阅读原文](https://insideclimatenews.org/news/20092026/china-grid-sf6-emissions/) — *Inside Climate News*
+
+### 3. 来自中国电网的超级气候污染物正在炙烤地球
+
+[原文] Read this article in&#160;English. 中国的电网有一个肮脏的秘密：尽管它在可再生能源发展引领全球，它也是地球上最强效温室气体的最大排放源。 六氟化硫（SF6）是一种合成化学物质，在高压设备中作为电气绝缘介质发挥着至关重要的角色。这种气体无色无味、无毒、且不可燃。但它也是气候杀手，按等质量计算，其使地球变暖的效力是二氧化碳的24,300倍。一旦释放，六氟化硫会在大气中
+
+📎 [阅读原文](https://insideclimatenews.org/news/20092026/%e6%9d%a5%e8%87%aa%e4%b8%ad%e5%9b%bd%e7%94%b5%e7%bd%91%e7%9a%84%e8%b6%85%e7%ba%a7%e6%b0%94%e5%80%99%e6%b1%a1%e6%9f%93%e7%89%a9%e6%ad%a3%e5%9c%a8%e7%82%99%e7%83%a4%e5%9c%b0%e7%90%83/) — *Inside Climate News*
+
+### 4. Whitehouse: Call Out the Corruption Propelling the US Climate Retreat
+
+[原文] Democrats controlled the Senate and the presidency when Sen. Sheldon Whitehouse first sought to roust his colleagues from the chamber’s floor, warning them that they were sleep-walking into climate di
+
+📎 [阅读原文](https://insideclimatenews.org/news/20092026/sen-whitehouse-urges-stronger-climate-messaging/) — *Inside Climate News*
+
+### 5. ‘Post-Disaster Gentrification’ Proliferates in Florida Towns as Costs Soar Following Hurricanes
 
 [原文] Jaques and Paulina Sebastiao were the first residents on their street to rebuild their two-bedroom house two years after Hurricane Michael’s 155 mile-per-hour winds leveled almost every building in Me
 
 📎 [阅读原文](https://insideclimatenews.org/news/19092026/florida-disaster-gentrification-following-hurricanes/) — *Inside Climate News*
-
-### 2. For Climate-Vulnerable Countries, Debt Costs 25 Times More Than Climate Action
-
-[原文] The countries most vulnerable to climate change are spending nearly 25 times more on repaying debt than on climate action, according to a new ActionAid report released Wednesday.&#160; The report, “De
-
-📎 [阅读原文](https://insideclimatenews.org/news/19092026/for-climate-vulnerable-countries-debt-costs-25-times-more-than-climate-action/) — *Inside Climate News*
-
-### 3. What Happens When Earth Passes 1.5 Degrees of Warming?
-
-[原文] From our collaborating partner “Living on Earth,” public radio&#8217;s environmental news magazine, an interview by host Steve Curwood with climate scientist Michael Mann. As the United Nations prepar
-
-📎 [阅读原文](https://insideclimatenews.org/news/19092026/what-happens-when-earth-passes-1-5-degrees-of-warming/) — *Inside Climate News*
-
-### 4. Endangered Salmon May Soon Swim Freely up a Maine River. But as the Climate Changes, a Comeback Isn’t Guaranteed.
-
-[原文] On a recent canoe trip to the remote upper reaches of the Narraguagus River, Ellie Mason saw prime Atlantic salmon habitat everywhere. Though small, the river and its tributaries are some of the wilde
-
-📎 [阅读原文](https://insideclimatenews.org/news/19092026/maine-dam-removal-helps-endangered-salmon/) — *Inside Climate News*
-
-### 5. Environmental and Public Health Groups Sue Over the Trump EPA’s Latest Attempt to Bolster Fossil Fuels
-
-[原文] Environmental and public health groups are suing the Trump administration over its most recent move to eliminate protections against climate-warming pollution. The Environmental Protection Agency anno
-
-📎 [阅读原文](https://insideclimatenews.org/news/18092026/environmental-and-public-health-groups-sue-trump-epa-over-power-plant-fossil-fuels/) — *Inside Climate News*
 
 ---
 
