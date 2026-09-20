@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月20日** | 生成时间: 2026-09-20 18:56
+**2026年09月20日** | 生成时间: 2026-09-20 23:43
 
 ---
 
@@ -16,9 +16,9 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Two killed in 'massive' Ukrainian drone attack on Moscow region, Russia says
+### 1. Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says
 
-[原文] A major oil refinery was also hit as Moscow's mayor says 450 drones were downed during the "unprecedented attack".
+[原文] Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
@@ -34,17 +34,17 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Houthis say they targeted Saudi capital with ballistic missiles
+### 4. Trump says his planned triumphal arch will double as a military complex to store ammunition
+
+[原文] Trump said the updated plans were at the request of the US military and for national security purposes.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Houthis say they targeted Saudi capital with ballistic missiles
 
 [原文] A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'
-
-[原文] Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Consumer sentiment is in the dumps despite a solid economy. Goldman Sachs blames 'lower happiness'
+### 1. Nvidia CEO Jensen Huang emerges as Trump's top ally in AI safety debate
 
-[原文] Goldman economist Joseph Briggs said broader pessimism in society may be contributing to struggling consumer sentiment even as the economy chugs along.
+[原文] Jensen Huang's position as the leader of the world's most valuable company, has earned him Trump's ear on the most important topics in AI.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/19/goldman-sachs-happiness-struggling-consumer-sentiment.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/20/nvidia-ceo-jensen-huang-emerges-as-trumps-top-ally-in-ai-debate.html) — *CNBC*
 
-### 2. MS NOW, CNN and Politico journalists blocked from White House after Trump ban
+### 2. ‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies
 
-[原文] Journalists from MS NOW, CNN and Politico were denied access to the White House, one day after Trump banned three media outlets over their coverage of him.
+[原文] Tariffs, fuel prices and interest rates are squeezing American companies, particularly manufacturers, auto suppliers, retailers and transportation businesses.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/19/trump-media-ban-ms-now.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html) — *CNBC*
 
-### 3. France’s wine production nears a 70-year low, leaving winemakers with tough choices
+### 3. Williams-Sonoma's stock has soared in a sluggish housing market. Here's how it won over Wall Street
 
-[原文] As the French wine industry reaches a crisis point, key players are considering new markets, products and generations.
+[原文] Williams-Sonoma is outperforming the furnishings industry due to its ability to grow profitability despite a weak housing backdrop.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/20/france-wine-production-70-year-low-heatwaves-drought.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/20/williams-sonoma-stock-rises-housing-market.html) — *CNBC*
 
-### 4. The AI kill switch, explained: 'It's not too little, but it's probably too late'
+### 4. U.S. urges Americans to reconsider Middle East travel as Iran tensions rise
 
-[原文] As runaway AI fears reach a crescendo, policymakers and tech leaders are weighing the effectiveness of a magic AI stop button known as a kill switch.
+[原文] The State Department urged Americans to reconsider Middle East travel as Houthi attacks intensify and Iran keeps the Strait of Hormuz closed.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/19/ai-kill-switch-explained.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/20/us-middle-east-travel-warning-iran-war-hormuz.html) — *CNBC*
 
-### 5. Google's Gemini becomes latest AI model to break out and hack computer systems
+### 5. Caruso-Cabrera: The investing tailwinds for Latin America are the best in decades
 
-[原文] The disclosure comes as scrutiny over misbehaving artificial intelligence intensifies in Washington and Silicon Valley.
+[原文] As measured by the iShares Latin America 40 ETF (ILF), the region is handily beating the S&P 500 year to date, up 15% compared to the S&P's 11% move
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/20/caruso-cabrera-the-investing-tailwinds-for-latin-america-are-the-best-in-decades.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Flock reportedly tries to shrink workforce with employee buyouts
+### 1. A small but growing number of founders are betting on bringing people together offline
+
+[原文] Brynn Putnam and Tristan Walker have already done something that most founders only dream about: created companies so compelling that bigger outfits bought them. Putnam, a trained ballerina with a sma
+
+📎 [阅读原文](https://techcrunch.com/2026/09/20/a-small-but-growing-number-of-founders-are-betting-that-bringing-people-together-is-its-own-industry/) — *TechCrunch*
+
+### 2. 6 days left to get ahead at TechCrunch Disrupt 2026
+
+[原文] Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/) — *TechCrunch*
+
+### 3. Flock reportedly tries to shrink workforce with employee buyouts
 
 [原文] Without buyouts, Flock would "almost certainly" need to lay off staff.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/) — *TechCrunch*
 
-### 2. Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force
+### 4. Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force
 
 [原文] Trump claimed, without evidence, that the AI backlash is a Democratic hoax.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/) — *TechCrunch*
 
-### 3. Google’s Gemini is the latest AI model to hack other companies
+### 5. Google’s Gemini is the latest AI model to hack other companies
 
 [原文] Google said Gemini had "acted appropriately" by ending each hack immediately.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/) — *TechCrunch*
-
-### 4. The US Navy just told us what’s on its tech wish list for the next several years
-
-[原文] Navy CTO Justin Fanelli talks co-investing alongside VCs instead of funding early research himself, recent buys like a $562 million autonomous refueling deal, and the Navy's updated wish list — from A
-
-📎 [阅读原文](https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/) — *TechCrunch*
-
-### 5. Petlibro’s new AI-powered feeder is a game changer for multi-cat homes
-
-[原文] Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features 
-
-📎 [阅读原文](https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/) — *TechCrunch*
 
 ---
 
@@ -130,35 +130,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. A deadly ebola relative is surging after years in the shadows
+### 1. Scientists opened a sealed envelope after 10 years. Gravity still didn’t make sense
+
+[原文] A decade-long NIST experiment has produced a new measurement of the universal gravitational constant that differs unexpectedly from another leading result, deepening a 225-year-old physics puzzle. The
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260920032049.htm) — *Science Daily*
+
+### 2. 8 common food additives linked to high blood pressure and heart disease
+
+[原文] Common preservatives hiding in processed foods may carry unexpected heart risks, with heavy consumption linked to substantially higher rates of high blood pressure and cardiovascular disease. Research
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260920031905.htm) — *Science Daily*
+
+### 3. A deadly ebola relative is surging after years in the shadows
 
 [原文] A growing Bundibugyo virus outbreak is showing how a little-known relative of Ebola can become a major threat when diagnosis and treatment options are limited. Experts warn that preparing only for fam
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260919031042.htm) — *Science Daily*
 
-### 2. A giant crater may reveal the origin of Mars’ doomed moon
+### 4. A giant crater may reveal the origin of Mars’ doomed moon
 
 [原文] A massive crater on Mars’ moon Phobos may hide a dense region of compressed material that could reveal whether the moon is a captured asteroid or debris from an ancient impact on Mars. Japan’s upcomin
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260919031040.htm) — *Science Daily*
 
-### 3. Hurricane Hunters reveal 4 warning signs that a storm is about to strengthen
+### 5. Hurricane Hunters reveal 4 warning signs that a storm is about to strengthen
 
 [原文] Nearly three decades of Hurricane Hunter data reveal four features that can help a tilted tropical cyclone straighten its circulation and become capable of intensifying. The findings could give foreca
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260919031037.htm) — *Science Daily*
-
-### 4. Scientists find that “perfect” systems may be surprisingly fragile
-
-[原文] Complex systems may work better when their parts are not perfectly alike. Northwestern physicists found that carefully balanced variation, or “disorder,” can make networks such as power grids, ecosyst
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260919031022.htm) — *Science Daily*
-
-### 5. New chemical wipes out 95% of termites without harming humans
-
-[原文] A chemical that stops drywood termites from building new exoskeletons killed about 95% of colonies in testing, offering a potentially safer alternative to traditional fumigation. Because termites even
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260919025248.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Townsend run over by pitch roller in Thailand
+### 1. Jacquet and Alisson impress - Bournemouth v Liverpool ratings
 
-[原文] Former England winger Andros Townsend jokes that playing Stoke away "wasn't so bad after all" following a bizarre incident before a game in Thailand.
+[原文] How Bournemouth and Liverpool's players rated during their Premier League match.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cr93e70xv21ko?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cw7v4959g4zpo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Littler could boycott Dutch events over booing
+### 2. Brobbey hits hat-trick on losing side - player ratings for Man City v Sunderland
 
-[原文] Luke Littler threatens a boycott of playing in the Netherlands after being booed and whistled at the World Series of Darts Finals in Amsterdam.
+[原文] How Manchester City and Sunderland players rated in their eventful Premier League match on Sunday.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/darts/articles/cr5ye91l200go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ckvgyzx4jqwwo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Wembley welcomes 'rabid' college football fans
+### 3. Brighton cruise past Arsenal to end champions' perfect start
 
-[原文] Wembley hosted its first American college football game on Saturday, but did the event meet expectations?
+[原文] Brighton secure a 3-0 victory over Premier League champions Arsenal to inflict the Gunners' first defeat of the season.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/american-football/articles/c64g7x1r813go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cvde048j71rdo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Fleming on England discipline, Stokes, late arrival and coaching styles
+### 4. Coventry earn first points of season in dramatic win over Forest
 
-[原文] Read what England's new Test coach Stephen Fleming had to say about Bazball, Ben Stokes, the team's discipline issues and his own philosophy.
+[原文] Jay Dasilva's strike proves the difference as Coventry earn their first Premier League win since returning to the top flight.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cw1l69z4579do?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cmly4g0rqzwwo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Mourinho and Simeone renew rivalry in Madrid derby after more than a decade
+### 5. Newcastle hold off Hull at St James' Park
 
-[原文] Jose Mourinho and Diego Simeone renew their rivalry after a 12-year wait as Real Madrid visit Atletico Madrid in Sunday's Spanish capital derby.
+[原文] Newcastle United hold off a late Hull City fightback to seal a narrow 2-1 win.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cmly4x3l5kzlo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/ckrer0yl0qjjo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Ready, SETT, Go: SETT Execs Drill Down on the Spanish Sovereign Venture Capital Fund That Will Drive Industry Conversation at San Sebastián
+### 1. ‘Though I Am an Inept Villainess’ Adds New Cast Ahead of January 2027 Return
 
-[原文] One of the major industry narratives at this year’s San Sebastián Festival, running Sept. 18-26, will be the presentation of SETT, the venture capital fund of Spain’s Ministry for Digital Transformati
+[原文] Toho Co., Ltd. has unveiled new cast additions and a key visual for the second cour of its TV anime &#8220;Though I Am an Inept Villainess,&#8221; subtitled &#8220;The First Royal Outing&#8221; Arc, a
 
-📎 [阅读原文](https://variety.com/2026/tv/global/sett-javier-ponce-maria-coronado-how-sett-works-and-why-1236869707/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/though-i-am-an-inept-villainess-new-cast-january-2027-return-1236868563/) — *Variety*
 
-### 2. Mark Ruffalo Tells Rob Bonta ‘Don’t You Dare’ Settle the Antitrust Lawsuit Against Paramount: ‘Do Not Cave’
+### 2. Sharon Horgan’s HBO Comedy ‘Youth’ Is a Light, Breezy Take on Middle Age: TV Review
 
-[原文] Mark Ruffalo is encouraging California attorney general Rob Bonta and his coalition of 11 other state AGs not to settle their lawsuit against Paramount Skydance and keep David Ellison from acquiring W
+[原文] Alex, the protagonist of the HBO half-hour series “Youth,” is in many ways a typical rom-com heroine. She has a glamorous job (book agent) in a glamorous city (London), with an enviable apartment to m
 
-📎 [阅读原文](https://variety.com/2026/film/news/mark-ruffalo-rob-bonta-dont-settle-lawsuit-paramount-1236869774/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/reviews/youth-review-sharon-horgan-hbo-1236866119/) — *Variety*
 
-### 3. ‘Ride or Die’ Canceled by Prime Video After One Season
+### 3. At Ed Sheeran’s Philadelphia Concert, Fans Shrug Off ‘Attempted Cancellation’ and Praise His Onstage Remarks: ‘It Brought a Tear to My Eye’
 
-[原文] “Ride or Die” has been canceled by Prime Video after one season, Variety can confirm. The streamer’s Hannah Waddingham and Octavia Spencer-led buddy dramedy premiered in July of this year. It was firs
+[原文] It’s about 9:30 p.m. at Philadelphia’s Lincoln Financial Field, roughly an hour after Ed Sheeran delivered a surprisingly lengthy four-minute speech on the controversy that has engulfed his tour since
 
-📎 [阅读原文](https://variety.com/2026/tv/news/ride-or-die-canceled-prime-video-1236869768/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/ed-sheeran-fans-philadelphia-1236870259/) — *Variety*
 
-### 4. Ed Sheeran Addresses Macklemore Controversy While on Stage at First Concert Since Rapper Dropped From Tour: ‘What Is Happening in Gaza Is Catastrophic and Unjustifiable’
+### 4. Kazakhstan’s ‘Mugalim’ From Director Ayana Nurdinova World Premieres in the New Directors Section of San Sebastián
 
-[原文] Ed Sheeran addressed the controversy surrounding Macklemore’s removal from his Loop Tour on Saturday night, speaking from the stage at Philadelphia’s Lincoln Financial Field during his first concert s
+[原文] Kazakhstani film “Mugalim” (“Múğalim”) had its world premiere at the San Sebastián Film Festival as part of the New Directors section on Sept. 20. Co-written and directed by Ayana Nurdinova, the film 
 
-📎 [阅读原文](https://variety.com/2026/music/news/ed-sheeran-addresses-macklemore-on-stage-philadelphia-show-1236869614/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/kazakhstan-mugalim-ayana-nurdinova-premiere-san-sebastian-1236866627/) — *Variety*
 
-### 5. Ruby Rose Remembers ‘Best Friend’ Hayden Panettiere: ‘All That She Ever Wanted Was to Have Her Story Told’
+### 5. Box Office: ‘Resident Evil’ Breaks Franchise Records With $60 Million Opening Weekend
 
-[原文] Ruby Rose got emotional when asked about her friend, Hayden Panettiere, who died Aug. 16 at 36. Rose told Entertainment Tonight that Panettiere was her &#8220;best friend&#8221; and that they &#8220;s
+[原文] &#8220;Weapons&#8221; director Zach Cregger has electrified the box office again, this time with his take on &#8220;Resident Evil.&#8221; His reboot of the &#8217;90s zombie video game has collected $
 
-📎 [阅读原文](https://variety.com/2026/film/news/ruby-rose-remembers-hayden-panettiere-1236869723/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/box-office/resident-evil-box-office-zach-cregger-reboot-opening-weekend-record-breaking-1236867659/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Big Bang Theory Spinoff Features Surprise Live-Action Cameos from The Flash and Mr. Freeze
+### 1. Hideo Kojima Reveals What Happened With Sony in Exclusive First Interview Since PlayStation Ditched Physint
+
+[原文] Hideo Kojima reveals what happened with Sony in his first interview since PlayStation ditched Physint.
+
+📎 [阅读原文](https://www.ign.com/articles/hideo-kojima-reveals-what-happened-with-sony-in-exclusive-first-interview-since-playstation-ditched-physint) — *IGN*
+
+### 2. Big Bang Theory Spinoff Features Surprise Live-Action Cameos from The Flash and Mr. Freeze
 
 [原文] Big Bang Theory spinoff Stuart Fails to Save the Universe featured a surprise fight between a live-action Flash and Mr. Freeze, but the show's creators originally wanted a different DC hero cameo.
 
 📎 [阅读原文](https://www.ign.com/articles/big-bang-theory-spinoff-features-surprise-live-action-cameos-from-the-flash-and-mr-freeze) — *IGN*
 
-### 2. The Last of Us Director Apologizes to God of War Laufey Devs After Calling Recent AAA Games 'Boring'
+### 3. The Last of Us Director Apologizes to God of War Laufey Devs After Calling Recent AAA Games 'Boring'
 
 [原文] The Last of Us game director Bruce Straley has apologized to the God of War Laufey team after his comments about modern AAA games brought "uninvited and unnecessary negative attention."
 
 📎 [阅读原文](https://www.ign.com/articles/the-last-of-us-director-apologizes-to-god-of-war-laufey-devs-after-calling-recent-aaa-games-boring) — *IGN*
 
-### 3. Insomniac Says Marvel's Wolverine Uses No Generative AI After Fans Spot Strange Signs in-Game
+### 4. Insomniac Says Marvel's Wolverine Uses No Generative AI After Fans Spot Strange Signs in-Game
 
 [原文] Insomniac Games has stepped in to confirm Marvel's Wolverine contains no generative AI after a few bizarre in-game signs raised eyebrows on social media.
 
 📎 [阅读原文](https://www.ign.com/articles/insomniac-says-marvels-wolverine-uses-no-generative-ai-after-fans-spot-strange-signs-in-game) — *IGN*
 
-### 4. We Ranked The 10 Best Eevee Pokémon Cards of All Time
+### 5. We Ranked The 10 Best Eevee Pokémon Cards of All Time
 
 [原文] We've ranked the 10 best Eevee Pokémon cards of all time, from priceless Japanese trophy promos to iconic vintage classics and modern chase cards.
 
 📎 [阅读原文](https://www.ign.com/articles/best-eevee-pokemon-tcg-cards) — *IGN*
-
-### 5. The Batman Part 2 Director Reveals New Image Seemingly Set in a Snowy Gotham Junkyard
-
-[原文] The Batman Part 2 director Matt Reeves has done his part to celebrate Batman Day by sharing a new image from the movie.
-
-📎 [阅读原文](https://www.ign.com/articles/the-batman-part-2-director-reveals-new-image-seemingly-set-in-a-snowy-gotham-junkyard) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. You’ve Never Seen a Lotus Turned Into a Circle Track Car Like This
+### 1. Most Automakers Race What They Sell. With the GR GT3, Toyota Is Selling What It Races
+
+[原文] Instead of designing a road car and then modifying it for the track, Toyota prioritized the needs of racing in the GR GT's design.
+The post Most Automakers Race What They Sell. With the GR GT3, Toyota
+
+📎 [阅读原文](https://www.thedrive.com/news/most-automakers-race-what-they-sell-with-the-gr-gt3-toyota-is-selling-what-it-races) — *The Drive*
+
+### 2. Different Times: Immaculate 1954 Greyhound Scenicruiser Bus for Sale Is a Reminder of What Was
+
+[原文] In the 1950s, all forms of transportation were more glamorous—even taking the bus.
+The post Different Times: Immaculate 1954 Greyhound Scenicruiser Bus for Sale Is a Reminder of What Was appeared firs
+
+📎 [阅读原文](https://www.thedrive.com/news/different-times-immaculate-1954-greyhound-scenicruiser-bus-for-sale-is-a-reminder-of-what-was) — *The Drive*
+
+### 3. You’ve Never Seen a Lotus Turned Into a Circle Track Car Like This
 
 [原文] We're not sure why someone decided to build this, but we're glad they did.
 The post You&#8217;ve Never Seen a Lotus Turned Into a Circle Track Car Like This appeared first on The Drive.
 
 📎 [阅读原文](https://www.thedrive.com/news/youve-never-seen-a-lotus-turned-into-a-circle-track-car-like-this) — *The Drive*
 
-### 2. The Future of AM Radio in Cars Just Got a Little More Certain
+### 4. The Future of AM Radio in Cars Just Got a Little More Certain
 
 [原文] A bill to mandate AM radio in new cars passed the U.S. House of Representatives earlier this week.
 The post The Future of AM Radio in Cars Just Got a Little More Certain appeared first on The Drive.
 
 📎 [阅读原文](https://www.thedrive.com/news/the-future-of-am-radio-in-cars-just-got-a-little-more-certain) — *The Drive*
 
-### 3. You Can Now Spend Almost $200,000 on a Cadillac Escalade
+### 5. You Can Now Spend Almost $200,000 on a Cadillac Escalade
 
 [原文] The base trim level has also been dropped, so you'll be spending at least six figures on a new 'Slade.
 The post You Can Now Spend Almost $200,000 on a Cadillac Escalade appeared first on The Drive.
 
 📎 [阅读原文](https://www.thedrive.com/news/you-can-now-spend-almost-200000-on-a-cadillac-escalade) — *The Drive*
-
-### 4. Jeep Is Sponsoring a Town So It Can Be the ‘Official 4×4 of Moab’
-
-[原文] Jeep is putting a dollar value on its longstanding connection to Utah's off-roading paradise.
-The post Jeep Is Sponsoring a Town So It Can Be the &#8216;Official 4&#215;4 of Moab&#8217; appeared first
-
-📎 [阅读原文](https://www.thedrive.com/news/jeep-is-sponsoring-a-town-so-it-can-be-the-official-4x4-of-moab) — *The Drive*
-
-### 5. New Chemical Guys Vent-Mounted Air Fresheners: Sniff-Tested and Ranked
-
-[原文] New Chemical Guys ScentTabs let you toggle the strength of your smells. We tested all of them for you here.
-The post New Chemical Guys Vent-Mounted Air Fresheners: Sniff-Tested and Ranked appeared fir
-
-📎 [阅读原文](https://www.thedrive.com/news/new-chemical-guys-vent-mounted-air-fresheners-sniff-tested-and-ranked) — *The Drive*
 
 ---
 
@@ -439,35 +439,35 @@ The post New Chemical Guys Vent-Mounted Air Fresheners: Sniff-Tested and Ranked 
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Ed Sheeran Breaks Silence on Israel-Gaza at First Show Amid Tour Controversy: ‘I Cannot Hide How I Feel About It Anymore’
+### 1. See William Shatner Cover Metallica and Ozzy Osbourne in Heavy Metal Debut
+
+[原文] Star Trek actor and band the *uckers played warm-up gig in Chicago Saturday ahead of official Riot Fest debut
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/william-shatner-metallica-ozzy-osbourne-heavy-metal-debut-1235629269/) — *Rolling Stone*
+
+### 2. Ed Sheeran Breaks Silence on Israel-Gaza at First Show Amid Tour Controversy: ‘I Cannot Hide How I Feel About It Anymore’
 
 [原文] “This has put me in the middle of an important and passionate argument about freedom of speech and the most complex political issue on the planet," Sheeran said
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/ed-sheeran-breaks-silence-gaza-isreael-macklemore-concert-1235629139/) — *Rolling Stone*
 
-### 2. Gnarls Barkley Announce First Tour in 18 Years
+### 3. Gnarls Barkley Announce First Tour in 18 Years
 
 [原文] Duo's To Whom It Still Concerns Tour, in support of their third and final album Atlanta, hits the road this November
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/gnarls-barkley-first-tour-18-years-atlanta-1235629188/) — *Rolling Stone*
 
-### 3. Dropkick Murphys’ Ken Casey Says Ed Sheeran ‘Took the Knee’ With Macklemore: ‘Doesn’t Sit Right With Me’
+### 4. Dropkick Murphys’ Ken Casey Says Ed Sheeran ‘Took the Knee’ With Macklemore: ‘Doesn’t Sit Right With Me’
 
 [原文] "That’s not how Dropkick Murphys would operate,” frontman says
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/dropkick-murphys-ken-casey-ed-sheeran-took-knee-macklemore-1235629079/) — *Rolling Stone*
 
-### 4. Lea Michele Remembers Duncan Sheik: ‘This One Hurts and Does Not Seem Real’
+### 5. Lea Michele Remembers Duncan Sheik: ‘This One Hurts and Does Not Seem Real’
 
 [原文] The actress starred in Spring Awakening composed by the late musician
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/lea-michele-duncan-sheik-tribute-spring-awakening-1235628965/) — *Rolling Stone*
-
-### 5. Ed Sheeran Opener Aaron Rowe Defends Singer, Says Focus Should Be on Robert Kraft
-
-[原文] “You really should be focusing on the Zionist lobbies that are trying to silence the voices of people who are shouting about genocide,” Rowe says
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/aaron-rowe-ed-sheeran-robert-kraft-1235628890/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post New Chemical Guys Vent-Mounted Air Fresheners: Sniff-Tested and Ranked 
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Skift Global Forum Preview: What Happens After the Booking? Spotnana CEO Has a Number
+### 1. What Uber and Airbnb Reveal About Expanding Beyond the Core
+
+[原文] Uber has frequency and Airbnb has travel intent; their expansion into hotels will show which advantage travels further.
+
+📎 [阅读原文](https://skift.com/2026/09/20/what-uber-and-airbnb-reveal-about-expanding-beyond-the-core/) — *Skift*
+
+### 2. Brand USA’s Covid-Era Funding Windfall Is Running Thin
+
+[原文] A one-time $250 million boost from Congress let Brand USA operate with a nearly fully funded budget after a dramatic cut to federal funding — but that extra funding is about to run dry.
+
+📎 [阅读原文](https://skift.com/2026/09/20/brand-usa-budget-fiscal-2027/) — *Skift*
+
+### 3. Skift Global Forum Preview: What Happens After the Booking? Spotnana CEO Has a Number
 
 [原文] The industry pours its attention into search and booking. Steve Singh thinks the money is in what happens after. Spotnana's AI now handles cancellations and refunds, and he believes servicing costs ca
 
 📎 [阅读原文](https://skift.com/2026/09/19/skift-global-forum-preview-spotnana-ceo-after-booking-servicing/) — *Skift*
 
-### 2. Cutting Passenger Demand May Be Only Way to Save Heathrow’s Net Zero Case
+### 4. Cutting Passenger Demand May Be Only Way to Save Heathrow’s Net Zero Case
 
 [原文] The UK's official climate advisors just told the government that a Heathrow expansion does not work with the country’s climate goals — and if technology to bring emissions down doesn’t materialize, de
 
 📎 [阅读原文](https://skift.com/2026/09/18/cutting-passenger-demand-may-be-only-way-to-save-heathrows-net-zero-case/) — *Skift*
 
-### 3. Skift Global Forum Preview: IHG’s Chief Commercial & Marketing Officer on Making Hotels Legible to AI
+### 5. Skift Global Forum Preview: IHG’s Chief Commercial & Marketing Officer on Making Hotels Legible to AI
 
 [原文] Heather Balsley is making IHG legible to the AI models while arguing the models will never own the guest. Two bets, one strategy, at Skift Global Forum.
 
 📎 [阅读原文](https://skift.com/2026/09/18/skift-global-forum-preview-ihg-ai-hotel-visibility/) — *Skift*
-
-### 4. The Billion-Dollar Travel Company You’ve Probably Never Heard Of
-
-[原文] OneSpaWorld’s path to $1 billion in revenue offers an unusually clear look at who captures the money inside the cruise economy…and why controlling the customer matters more than controlling the servic
-
-📎 [阅读原文](https://skift.com/2026/09/18/the-billion-dollar-travel-company-youve-probably-never-heard-of/) — *Skift*
-
-### 5. How Grand Ji Hotel Is Building a Distinctly Chinese Premium Brand
-
-[原文] Grand Ji Hotel, the new premium hotel brand from H World Group, brings a distinctly Chinese design philosophy and aesthetic to the guest experience, shaped by ideas around privacy, calm, and hospitali
-
-📎 [阅读原文](https://skift.com/2026/09/18/h-world-grand-ji-chinese-premium-hospitality/) — *Skift*
 
 ---
 
