@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月20日** | 生成时间: 2026-09-20 04:17
+**2026年09月20日** | 生成时间: 2026-09-20 12:10
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'
+### 1. Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show
+
+[原文] The mega-star spoke about Israel and Gaza at his first concert since rapper Macklemore was removed from his tour.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Houthis say they targeted Saudi capital with ballistic missiles
+
+[原文] A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'
 
 [原文] Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Houthis say they targeted Saudi capital with ballistic missiles
+### 4. Our head teacher was an abuser. We joined forces to get justice - now we're married
 
-[原文] A reported strike on a fuel depot at King Khalid International Airport caused delays earlier on Saturday.
+[原文] Students spent years collecting evidence against their Indonesian principal, before falling in love.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Journalists denied White House access after Trump banned some media outlets
+### 5. Journalists denied White House access after Trump banned some media outlets
 
 [原文] CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Converse pulls 'deeply upsetting' advert after backlash
-
-[原文] Social media users say an image from the brand's Instagram account resembled a KKK hood and hanging.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/crwyzj53pl1lo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Google's Gemini AI hacked three companies in security test
-
-[原文] The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -72,17 +72,17 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/19/ai-kill-switch-explained.html) — *CNBC*
 
-### 4. Flames reported near Saudi capital airport as Pakistan presses Iran over energy supplies
-
-[原文] Smoke and flames were seen near Riyadh’s main airport after Saudi civil-defense alerts, while Pakistan urged Iran to protect energy supplies and shipping.
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/19/riyadh-airport-smoke-saudi-arabia.html) — *CNBC*
-
-### 5. Google's Gemini becomes latest AI model to break out and hack computer systems
+### 4. Google's Gemini becomes latest AI model to break out and hack computer systems
 
 [原文] The disclosure comes as scrutiny over misbehaving artificial intelligence intensifies in Washington and Silicon Valley.
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html) — *CNBC*
+
+### 5. Buffett takes next step in plan to keep Berkshire from straying
+
+[原文] Warren Buffett steps down as Berkshire Hathaway's chairman, passing the job to his son, Howard.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/19/warren-buffett-takes-next-step-in-plan-to-keep-berkshire-from-straying.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump suggests rebranding AI with a new name, says he’s also creating an AI Force
+### 1. Flock reportedly tries to shrink workforce with employee buyouts
+
+[原文] Without buyouts, Flock would "almost certainly" need to lay off staff.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/) — *TechCrunch*
+
+### 2. Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force
 
 [原文] Trump claimed, without evidence, that the AI backlash is a Democratic hoax.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/) — *TechCrunch*
 
-### 2. Google’s Gemini is the latest AI model to hack other companies
+### 3. Google’s Gemini is the latest AI model to hack other companies
 
 [原文] Google said Gemini had "acted appropriately" by ending each hack immediately.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/) — *TechCrunch*
 
-### 3. The US Navy just told us what’s on its tech wish list for the next several years
+### 4. The US Navy just told us what’s on its tech wish list for the next several years
 
 [原文] Navy CTO Justin Fanelli talks co-investing alongside VCs instead of funding early research himself, recent buys like a $562 million autonomous refueling deal, and the Navy's updated wish list — from A
 
 📎 [阅读原文](https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/) — *TechCrunch*
 
-### 4. Petlibro’s new AI-powered feeder is a game changer for multi-cat homes
+### 5. Petlibro’s new AI-powered feeder is a game changer for multi-cat homes
 
 [原文] Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features 
 
 📎 [阅读原文](https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/) — *TechCrunch*
-
-### 5. AI safety conversations have gotten unbelievable
-
-[原文] This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/) — *TechCrunch*
 
 ---
 
@@ -174,7 +174,7 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cvde048j71rdo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Coventry win first points of season in dramatic win over Forest
+### 2. Coventry earn first points of season in dramatic win over Forest
 
 [原文] Jay Dasilva's strike proves the difference as Coventry earn their first Premier League win since returning to the top flight.
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘The Smell of Apples’ Review: A Sun-Soaked but Chilling Child’s-Eye View of Apartheid-Era Privilege and Denial
+### 1. Mark Ruffalo Tells Rob Bonta ‘Don’t You Dare’ Settle the Antitrust Lawsuit Against Paramount: ‘Do Not Cave’
 
-[原文] Every surface period detail is present and correct to an eerie degree in &#8220;The Smell of Apples&#8221;: the gawkily short seasonal school uniforms, the ickily patterned kitchen tiles, the garden c
+[原文] Mark Ruffalo is encouraging California attorney general Rob Bonta and his coalition of 11 other state AGs not to settle their lawsuit against Paramount Skydance and keep David Ellison from acquiring W
 
-📎 [阅读原文](https://variety.com/2026/film/news/the-smell-of-apples-review-1236869637/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/mark-ruffalo-rob-bonta-dont-settle-lawsuit-paramount-1236869774/) — *Variety*
 
-### 2. Elizabeth Warren Says it Would be a ‘Massive Mistake’ for Rob Bonta to Settle Lawsuit With Paramount as Trump Bans CNN from White House: ‘This Is a Dangerous Merger’
+### 2. ‘Ride or Die’ Canceled by Prime Video After One Season
 
-[原文] Democratic Sen. Elizabeth Warren of Massachusetts on Saturday morning issued a warning that President Donald Trump’s recent banning of CNN from the White House is a sign of things to come if Paramount
+[原文] “Ride or Die” has been canceled by Prime Video after one season, Variety can confirm. The streamer’s Hannah Waddingham and Octavia Spencer-led buddy dramedy premiered in July of this year. It was firs
 
-📎 [阅读原文](https://variety.com/2026/film/news/elizabeth-warren-massive-mistake-rob-bonta-settle-paramount-1236869679/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/ride-or-die-canceled-prime-video-1236869768/) — *Variety*
 
-### 3. Melissa Barrera Says Support for Macklemore After He Was Dropped from Ed Sheeran’s Tour Is ‘Beautiful’ and ‘I Didn’t Get That’ After Being Fired From ‘Scream’
+### 3. Ed Sheeran Addresses Macklemore Controversy While on Stage at First Concert Since Rapper Dropped From Tour: ‘What Is Happening in Gaza Is Catastrophic and Unjustifiable’
 
-[原文] Melissa Barrera, who was fired from the “Scream” franchise due to social media posts criticizing Israel amid the war in Gaza in 2023, is voicing her respect for the musicians who have dropped out of E
+[原文] Ed Sheeran addressed the controversy surrounding Macklemore’s removal from his Loop Tour on Saturday night, speaking from the stage at Philadelphia’s Lincoln Financial Field during his first concert s
 
-📎 [阅读原文](https://variety.com/2026/film/news/scream-melissa-barrera-macklemore-ed-sheeran-1236869660/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/ed-sheeran-addresses-macklemore-on-stage-philadelphia-show-1236869614/) — *Variety*
 
-### 4. Gavin Newsom Signs Bill Creating $10 Million Post-Production Tax Credit
+### 4. Ruby Rose Remembers ‘Best Friend’ Hayden Panettiere: ‘All That She Ever Wanted Was to Have Her Story Told’
 
-[原文] Gov. Gavin Newsom has signed a measure to create a $10 million tax credit meant to stem the tide of post-production jobs to other states and overseas. The bill, AB 2319, passed the state Assembly and 
+[原文] Ruby Rose got emotional when asked about her friend, Hayden Panettiere, who died Aug. 16 at 36. Rose told Entertainment Tonight that Panettiere was her &#8220;best friend&#8221; and that they &#8220;s
 
-📎 [阅读原文](https://variety.com/2026/film/news/gavin-newsom-post-production-tax-credit-1236867163/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/ruby-rose-remembers-hayden-panettiere-1236869723/) — *Variety*
 
-### 5. Singer Aaron Rowe Defends Ed Sheeran After Dropping Out of Tour: ‘It Was Human F—ing Error’
+### 5. Protestors March Outside Ed Sheeran Concert After Macklemore Was Dropped From Tour: ‘It’s Not Going to Stop Until Palestine is Free’
 
-[原文] Aaron Rowe, who was one of the opening acts on Ed Sheeran’s tour before pulling out after Macklemore’s dismissal over his support for Palestine, has now issued an impassioned defense of the singer. “I
+[原文] Pro-Palestinian protesters gathered outside Ed Sheeran’s concert at Philadelphia’s Lincoln Financial Field on Saturday night as the singer returned to the stage for the first time since Macklemore was
 
-📎 [阅读原文](https://variety.com/2026/music/news/aaron-rowe-defends-ed-sheeran-macklemore-1236869645/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/palestine-protestors-ed-sheeran-concert-macklemore-1236869617/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Insomniac Says Marvel's Wolverine Uses No Generative AI After Fans Spot Strange Signs in-Game
+### 1. Big Bang Theory Spinoff Features Surprise Live-Action Cameos from The Flash and Mr. Freeze
+
+[原文] Big Bang Theory spinoff Stuart Fails to Save the Universe featured a surprise fight between a live-action Flash and Mr. Freeze, but the show's creators originally wanted a different DC hero cameo.
+
+📎 [阅读原文](https://www.ign.com/articles/big-bang-theory-spinoff-features-surprise-live-action-cameos-from-the-flash-and-mr-freeze) — *IGN*
+
+### 2. The Last of Us Director Apologizes to God of War Laufey Devs After Calling Recent AAA Games 'Boring'
+
+[原文] The Last of Us game director Bruce Straley has apologized to the God of War Laufey team after his comments about modern AAA games brought "uninvited and unnecessary negative attention."
+
+📎 [阅读原文](https://www.ign.com/articles/the-last-of-us-director-apologizes-to-god-of-war-laufey-devs-after-calling-recent-aaa-games-boring) — *IGN*
+
+### 3. Insomniac Says Marvel's Wolverine Uses No Generative AI After Fans Spot Strange Signs in-Game
 
 [原文] Insomniac Games has stepped in to confirm Marvel's Wolverine contains no generative AI after a few bizarre in-game signs raised eyebrows on social media.
 
 📎 [阅读原文](https://www.ign.com/articles/insomniac-says-marvels-wolverine-uses-no-generative-ai-after-fans-spot-strange-signs-in-game) — *IGN*
 
-### 2. We Ranked The 10 Best Eevee Pokémon Cards of All Time
+### 4. We Ranked The 10 Best Eevee Pokémon Cards of All Time
 
 [原文] We've ranked the 10 best Eevee Pokémon cards of all time, from priceless Japanese trophy promos to iconic vintage classics and modern chase cards.
 
 📎 [阅读原文](https://www.ign.com/articles/best-eevee-pokemon-tcg-cards) — *IGN*
 
-### 3. The Batman Part 2 Director Reveals New Image Seemingly Set in a Snowy Gotham Junkyard
+### 5. The Batman Part 2 Director Reveals New Image Seemingly Set in a Snowy Gotham Junkyard
 
 [原文] The Batman Part 2 director Matt Reeves has done his part to celebrate Batman Day by sharing a new image from the movie.
 
 📎 [阅读原文](https://www.ign.com/articles/the-batman-part-2-director-reveals-new-image-seemingly-set-in-a-snowy-gotham-junkyard) — *IGN*
-
-### 4. IGN's Top-Reviewed Horror Movies of 2026
-
-[原文] 2026 has been a particularly strong year for horror, but some scares stand out from the pack. These are IGN's picks for the 10 best horror movies of the year so far.
-
-📎 [阅读原文](https://www.ign.com/articles/best-reviewed-horror-movies-2026) — *IGN*
-
-### 5. The Blood of Dawnwalker Modders Aren’t Missing the Point – They Just Love the Game
-
-[原文] Modders are extending The Blood of Dawnwalker's 30-day time limit to allow more time to complete every questline. But while this goes against the developer's vision, it shouldn't be seen as vandalism.
-
-📎 [阅读原文](https://www.ign.com/articles/the-blood-of-dawnwalker-modders-arent-missing-the-point-they-just-love-the-game) — *IGN*
 
 ---
 
@@ -439,35 +439,35 @@ The post New Chemical Guys Vent-Mounted Air Fresheners: Sniff-Tested and Ranked 
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Gnarls Barkley Announce First Tour in 18 Years
+### 1. Ed Sheeran Breaks Silence on Israel-Gaza at First Show Amid Tour Controversy: ‘I Cannot Hide How I Feel About It Anymore’
+
+[原文] “This has put me in the middle of an important and passionate argument about freedom of speech and the most complex political issue on the planet," Sheeran said
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/ed-sheeran-breaks-silence-gaza-isreael-macklemore-concert-1235629139/) — *Rolling Stone*
+
+### 2. Gnarls Barkley Announce First Tour in 18 Years
 
 [原文] Duo's To Whom It Still Concerns Tour, in support of their third and final album Atlanta, hits the road this November
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/gnarls-barkley-first-tour-18-years-atlanta-1235629188/) — *Rolling Stone*
 
-### 2. Dropkick Murphys’ Ken Casey Says Ed Sheeran ‘Took the Knee’ With Macklemore: ‘Doesn’t Sit Right With Me’
+### 3. Dropkick Murphys’ Ken Casey Says Ed Sheeran ‘Took the Knee’ With Macklemore: ‘Doesn’t Sit Right With Me’
 
 [原文] "That’s not how Dropkick Murphys would operate,” frontman says
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/dropkick-murphys-ken-casey-ed-sheeran-took-knee-macklemore-1235629079/) — *Rolling Stone*
 
-### 3. Lea Michele Remembers Duncan Sheik: ‘This One Hurts and Does Not Seem Real’
+### 4. Lea Michele Remembers Duncan Sheik: ‘This One Hurts and Does Not Seem Real’
 
 [原文] The actress starred in Spring Awakening composed by the late musician
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/lea-michele-duncan-sheik-tribute-spring-awakening-1235628965/) — *Rolling Stone*
 
-### 4. Ed Sheeran Opener Aaron Rowe Defends Singer, Says Focus Should Be on Robert Kraft
+### 5. Ed Sheeran Opener Aaron Rowe Defends Singer, Says Focus Should Be on Robert Kraft
 
 [原文] “You really should be focusing on the Zionist lobbies that are trying to silence the voices of people who are shouting about genocide,” Rowe says
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/aaron-rowe-ed-sheeran-robert-kraft-1235628890/) — *Rolling Stone*
-
-### 5. Sammy Hagar Fires Back at Alex Van Halen: ‘You Act Like There Never Was a Van Hagar’
-
-[原文] “He just keep releasing all this old stuff and charging people for old pictures that you can find on the internet,” Hagar said of Alex Van Halen. “He’s doing a lot of stuff wrong for the legacy of Van
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/sammy-hagar-fires-back-alex-van-halen-1235628732/) — *Rolling Stone*
 
 ---
 
