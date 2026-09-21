@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月21日** | 生成时间: 2026-09-21 04:32
+**2026年09月21日** | 生成时间: 2026-09-21 12:07
 
 ---
 
@@ -18,7 +18,7 @@
 
 ### 1. German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on
 
-[原文] Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.
+[原文] Exit polls show damaging losses for Merz's centre-right CDU party in the state of Mecklenburg-Vorpommern and Berlin.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
@@ -40,11 +40,11 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Houthis say they targeted Saudi capital with ballistic missiles
+### 5. Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece
 
-[原文] A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.
+[原文] One eyewitness said the scene was so chaotic that screaming could be heard from the other end of the beach.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqm27pnyd294o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -60,29 +60,29 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html) — *CNBC*
 
-### 2. Bessent meets China Vice Premier He Lifeng ahead of Trump-Xi summit
+### 2. Bessent calls meeting with China Vice Premier He Lifeng 'successful' ahead of Trump-Xi summit
 
-[原文] Scott Bessent and China’s He Lifeng are holding talks on trade, AI and critical minerals ahead of Trump and Xi’s Sept. 24 summit.
+[原文] Treasury Secretary Scott Bessent said his meeting with Chinese Vice Premier He Lifeng was "successful" ahead of the Sept. 24 Trump-Xi summit.
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/20/bessent-he-lifeng-trump-xi-summit.html) — *CNBC*
 
-### 3. Nvidia CEO Jensen Huang emerges as Trump's top ally in AI safety debate
+### 3. Oil falls as crude flows remain 'surprisingly strong'
 
-[原文] Jensen Huang's position as the leader of the world's most valuable company, has earned him Trump's ear on the most important topics in AI.
+[原文] Oil fell Monday, as traders keep watch for a recovery in shipments from Saudi Arabia, even as Mideast tensions continue to escalate.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/20/nvidia-ceo-jensen-huang-emerges-as-trumps-top-ally-in-ai-debate.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/21/iran-us-oil-prices-crude-saudi-arabia-.html) — *CNBC*
 
-### 4. Williams-Sonoma's stock has soared in a sluggish housing market. Here's how it won over Wall Street
-
-[原文] Williams-Sonoma is outperforming the furnishings industry due to its ability to grow profitability despite a weak housing backdrop.
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/20/williams-sonoma-stock-rises-housing-market.html) — *CNBC*
-
-### 5. Trump to meet with NYC Mayor Zohran Mamdani on Monday ahead of UN General Assembly
+### 4. Trump to meet with NYC Mayor Zohran Mamdani on Monday ahead of UN General Assembly
 
 [原文] The mayor's press office said the meeting will take place at Gracie Mansion and "will focus on issues affecting New York City and New Yorkers."
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/20/trump-mamdani-gracie-mansion-meeting.html) — *CNBC*
+
+### 5. U.S. urges Americans to reconsider Middle East travel as Iran tensions rise
+
+[原文] The State Department urged Americans to reconsider Middle East travel as Houthi attacks intensify and Iran keeps the Strait of Hormuz closed.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/20/us-middle-east-travel-warning-iran-war-hormuz.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. World model companies are keeping a lot of secrets
+### 1. 6 days left to save up to $200 to TechCrunch Disrupt 2026
+
+[原文] Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/) — *TechCrunch*
+
+### 2. World model companies are keeping a lot of secrets
 
 [原文] Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually buil
 
 📎 [阅读原文](https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/) — *TechCrunch*
 
-### 2. Elon Musk’s latest Boring Company pitch involves a Hyperloop between Austin and San Antonio
+### 3. Elon Musk’s latest Boring Company pitch involves a Hyperloop between Austin and San Antonio
 
 [原文] Many of The Boring Company's announced project have not materialized.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/20/elon-musks-latest-boring-company-pitch-involves-a-hyperloop-between-austin-and-san-antonio/) — *TechCrunch*
 
-### 3. Is the AI industry really ready to slow down?
+### 4. Is the AI industry really ready to slow down?
 
 [原文] On Equity, we debated whether Ai executives are serious about wanting to slow down.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/) — *TechCrunch*
 
-### 4. Vocci’s ring adds a new form factor to meeting note-taking
+### 5. Vocci’s ring adds a new form factor to meeting note-taking
 
 [原文] Vocci's lightweight ring costs $249, and might pose some privacy questions
 
 📎 [阅读原文](https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/) — *TechCrunch*
-
-### 5. ScrollEd wants to turn textbooks into TikTok
-
-[原文] ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitche
-
-📎 [阅读原文](https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Man City beat Sunderland in eight-goal thriller to go three points clear
+### 1. Neville calls Man Utd 'pathetic' - but Carrick maintains belief
 
-[原文] Manchester City beat Sunderland 5-3 in a thrilling Etihad encounter, to go three points clear at the top of the Premier League table.
+[原文] Gary Neville calls Manchester United "pathetic", but boss Michael Carrick maintains belief after salvaging draw at Fulham.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cmq5x78j0y1lo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cmly4pe6yrqzo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Cunha's late strike denies Fulham first league win of season
+### 2. What have we learned from the Premier League so far?
 
-[原文] Matheus Cunha's deflected strike in the 89th minute rescues a point for Manchester United and denies Fulham their first Premier League win of the season.
+[原文] BBC Sport takes a look at the opening weeks of the Premier League season as a long international break arrives.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cqpve80lwem9o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cvp8d4116zglo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Liverpool boss Iraola makes winning return to Bournemouth
+### 3. Mourinho prints out 'red card' incidents after Real lose derby
 
-[原文] Liverpool manager Andoni Iraola makes a winning return to his former side Bournemouth, with the Reds securing a 1-0 win at the Vitality Stadium courtesy of a second-half goal from Alexander Isak.
+[原文] Real Madrid manager Jose Mourinho prints out screenshots displaying two incidents he believes should have resulted in Atletico Madrid dismissals.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cmp3k277095do?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c6m27p9e24zno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Leeds continue unbeaten start in league with draw against Palace
+### 4. Rangers look like they know where they want to go - Celtic just look lost
 
-[原文] Leeds United maintain their unbeaten start to their Premier League campaign thanks to a hard-earned goalless draw at home against Crystal Palace.
+[原文] Tom English reflects on the first Old Firm league game of the season, in which Rangers repeated their League Cup win over Celtic.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/c39w4nydl1dzo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c317j2lzg8rdo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Brighton cruise past Arsenal to end champions' perfect start
+### 5. Holdt scores hat-trick as Spurs thrash 10-player Palace
 
-[原文] Brighton secure a 3-0 victory over Premier League champions Arsenal to inflict the Gunners' first defeat of the season.
+[原文] Olivia Holdt claims a hat-trick as Tottenham score seven times in the second half to condemn 10-player Crystal Palace to their first defeat since being promoted back to the Women's Super League.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cvde048j71rdo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cqx2zg35kln5o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘Sweet Magnolias’ Cancellation: Creator, Stars JoAnna Garcia Swisher and Jamie Lynn Spears React to Netflix Series Ending
+### 1. Presley Gerber, Model and Son of Cindy Crawford and Rande Gerber, Dies at 27
 
-[原文] Following the news that “Sweet Magnolias” has been canceled at Netflix, stars Jamie Lynn Spears, JoAnna Garcia Swisher and creator and showrunner Sheryl J. Anderson are looking back on the romantic dr
+[原文] Presley Gerber, the model son of Cindy Crawford and Rande Gerber, died Sunday. He was 27. More to come&#8230;
 
-📎 [阅读原文](https://variety.com/2026/tv/news/sweet-magnolias-netflix-cancellation-1236869711/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/digital/people-news/presley-gerber-dead-model-cindy-crawford-1236870840/) — *Variety*
 
-### 2. ‘Angh’ Review: Toronto’s Platform Award Winner Is a Lush Lament for an Indian Tribe in the 1960s
+### 2. John Oliver Takes Swipe at David Ellison and His ‘Business Daddy’ Larry Ellison on ‘Last Week Tonight’
 
-[原文] Expanding on his 2021 short film, Theja Rio’s debut feature “Angh” forces its way into the hidden crevices between indigenous identity and colonial modernity. This tension unfolds with riveting restra
+[原文] When we last saw John Oliver behind the desk of “Last Week Tonight,” he was mocking Trump for sacrificing a number of members of his senior staff on a decoy plane amidst his peculiar catering truck es
 
-📎 [阅读原文](https://variety.com/2026/film/news/angh-review-1236869752/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/john-oliver-david-ellison-larry-ellison-last-week-tonight-1236870834/) — *Variety*
 
-### 3. Jhené Aiko Scores First No. 1 on Albums Chart With ‘Westside Whimsy’
+### 3. India’s ‘Angh’ Wins Toronto Platform Award, Nabs Automatic Oscar Contention
 
-[原文] Jhené Aiko has scored her first No. 1 album on the Billboard 200 with her fourth record &#8220;Westside Whimsy.&#8221; Aiko bows atop the chart with 74,000 equivalent album units, making it the first 
+[原文] Indian feature &#8220;Angh,&#8221; the feature directorial debut of Theja Rio, has taken the top prize in the Toronto Film Festival&#8217;s Platform section, an award that comes with automatic entry i
 
-📎 [阅读原文](https://variety.com/2026/music/news/jhene-aiko-scores-first-no-1-albums-chart-westside-whimsy-1236870490/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/angh-toronto-platform-award-oscars-1236870763/) — *Variety*
 
-### 4. Barry Keoghan, Joseph Quinn and Harris Dickinson Spotted Filming the Opening of ‘A Hard Day’s Night’ Movie for Beatles Biopic
+### 4. China Box Office: ‘Once Upon a Time in the Middle East’ Secures Sixth Weekend at No. 1 in Sluggish Frame
 
-[原文] “The Beatles – A Four-Film Cinematic Event” stars Barry Keoghan, Joseph Quinn and Harris Dickinson were spotted filming the iconic opening of the “A Hard Day’s Night” movie for the forthcoming film, p
+[原文] Dirty Monkeys’ war comedy-drama &#8220;Once Upon a Time in the Middle East&#8221; retained its grip on the top spot at the mainland China box office for the sixth consecutive weekend, taking in RMB28.
 
-📎 [阅读原文](https://variety.com/2026/film/news/barry-keoghan-joseph-quinn-harris-dickinson-filming-beatles-biopic-1236870492/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/box-office/china-box-office-once-upon-a-time-in-the-middle-east-all-wishes-come-true-1236870720/) — *Variety*
 
-### 5. Apple TV Finally Schedules Jessica Chastain-Led Thriller ‘The Savant’
+### 5. Guy Gardner Is Back! Nathan Fillion Breaks Down His ‘Lanterns’ Debut and Why He’s the DC Universe’s Main Throughline
 
-[原文] After having pulled the topical Jessica Chastain-led thriller &#8220;The Savant&#8221; in Sept. 23, 2025 —&#160;just days before its premiere —&#160;Apple TV has confirmed it will finally release the 
+[原文] SPOILER ALERT: This article contains spoilers for Season 1, Episode 6 of “Lanterns,” now streaming on HBO Max. Nathan Fillion has had a hard time convincing his friends that he’s actually in “Lanterns
 
-📎 [阅读原文](https://variety.com/2026/tv/news/apple-tv-schedules-jessica-chastain-thriller-the-savant-1236560893/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/lanterns-nathan-fillion-guy-gardner-interview-1236867190/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Zach Cregger's Resident Evil Defies Expectations With $108 Million Box Office Opening Weekend
+### 1. Lanterns Season 1, Episode 6 Review & Recap
+
+[原文] Lanterns stumbles in Episode 6, as the series finally returns to the present day but struggles to maintain its narrative momentum. Read our full review.
+
+📎 [阅读原文](https://www.ign.com/articles/lanterns-season-1-episode-6-review-recap) — *IGN*
+
+### 2. Monster: The Lizzie Borden Story Review
+
+[原文] Monster: The Lizzie Borden Story aims to be an insightful commentary on female rage, but it never commits to how it wants to convey that message.
+
+📎 [阅读原文](https://www.ign.com/articles/monster-lizzie-borden-story-review) — *IGN*
+
+### 3. Final Fantasy 7 Revelation Will 'Easily Take Over 100 Hours' for Completionists to Beat, Director Teases
+
+[原文] Final Fantasy 7 Revelation director Naoki Hamaguchi teased that completionist playthroughs for the remake trilogy's conclusion could "easily take over a hundred hours" to beat.
+
+📎 [阅读原文](https://www.ign.com/articles/final-fantasy-7-revelation-will-easily-take-over-100-hours-for-completionists-to-beat-director-teases) — *IGN*
+
+### 4. Zach Cregger's Resident Evil Defies Expectations With $108 Million Box Office Opening Weekend
 
 [原文] Zach Cregger's Resident Evil has pushed through the backlash to collect an estimated $108.3 million globally in its opening weekend at the box office.
 
 📎 [阅读原文](https://www.ign.com/articles/zach-creggers-resident-evil-defies-expectations-with-108-million-box-office-opening-weekend) — *IGN*
 
-### 2. Disney+ to Allow Ads on All Plans Following Changes Detailed in Updated Subscriber Agreement
+### 5. Disney+ to Allow Ads on All Plans Following Changes Detailed in Updated Subscriber Agreement
 
 [原文] Disney+ has altered its user agreement to clarify that ads will be allowed on all subscription tiers.
 
 📎 [阅读原文](https://www.ign.com/articles/disney-to-allow-ads-on-all-plans-following-changes-detailed-in-updated-subscriber-agreement) — *IGN*
-
-### 3. Poppy Playtime Spinoff Escape from Playtime Gets Early Access Release Date
-
-[原文] Escape from Playtime, the co-op survival horror extraction spinoff of the popular Poppy's Playtime episodic horror games that was announced at Gamescom last month, will be launching into Steam Early A
-
-📎 [阅读原文](https://www.ign.com/articles/poppy-playtime-spinoff-escape-from-playtime-gets-early-access-release-date) — *IGN*
-
-### 4. Zach Cregger Suggests There's No 'Cregger Cut' of Resident Evil as Fans Hope to See Trimmed Jokes
-
-[原文] Director Zach Cregger suggested we won't get a "Cregger cut" of Resident Evil, as fans call to see the jokes that got trimmed.
-
-📎 [阅读原文](https://www.ign.com/articles/zach-cregger-suggests-theres-no-cregger-cut-of-resident-evil-as-fans-hope-to-see-trimmed-jokes) — *IGN*
-
-### 5. Hideo Kojima Reveals What Happened With Sony in Exclusive First Interview Since PlayStation Ditched Physint
-
-[原文] Hideo Kojima reveals what happened with Sony in his first interview since PlayStation ditched Physint.
-
-📎 [阅读原文](https://www.ign.com/articles/hideo-kojima-reveals-what-happened-with-sony-in-exclusive-first-interview-since-playstation-ditched-physint) — *IGN*
 
 ---
 
