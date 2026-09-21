@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月21日** | 生成时间: 2026-09-21 12:07
+**2026年09月21日** | 生成时间: 2026-09-21 20:22
 
 ---
 
@@ -22,29 +22,29 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says
+### 2. Russia's elections had few surprises - but how the Kremlin uses the results will be crucial
 
-[原文] Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.
+[原文] Vladimir Putin will likely use the result to claim most Russians back the so-called special military operation in Ukraine, writes the BBC's Steve Rosenberg.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Ed Sheeran admits 'mistakes' at first show since Macklemore controversy
+### 3. CNN, MS NOW and Politico to file lawsuit against Trump's White House ban
 
-[原文] The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage.
+[原文] The US media outlets say they are defending "the principle that the government does not decide what the press reports or publishes".
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Trump says triumphal arch will be military complex with drones and snipers
+### 4. Seven Ethiopian rebel groups form new alliance
 
-[原文] Trump said the updated plans were at the request of the US military and for national security purposes.
+[原文] The groups have been active in Ethiopia's most populous regions for years and now say they will work together.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/ckp84pj8zpngo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece
+### 5. Three arrested in South Africa over one of nine women's body finds
 
-[原文] One eyewitness said the scene was so chaotic that screaming could be heard from the other end of the beach.
+[原文] The body of Jabulile Ntimba was the ninth to be found recently in an area east of Johannesburg.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqm27pnyd294o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c617j2x01epjo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies
+### 1. Bitcoin hits highest level since January at $85,000, as the market debates whether the 'crypto winter' is over
 
-[原文] Tariffs, fuel prices and interest rates are squeezing American companies, particularly manufacturers, auto suppliers, retailers and transportation businesses.
+[原文] Bitcoin rose above $85,000 on Monday extending a rally over the past few days.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/21/bitcoin-price-crypto-rally.html) — *CNBC*
 
-### 2. Bessent calls meeting with China Vice Premier He Lifeng 'successful' ahead of Trump-Xi summit
+### 2. Treasury Secretary Bessent talks to CNBC as Trump administration faces affordability concerns
 
-[原文] Treasury Secretary Scott Bessent said his meeting with Chinese Vice Premier He Lifeng was "successful" ahead of the Sept. 24 Trump-Xi summit.
+[原文] Bessent met over the weekend with his Chinese counterpart, He Lifeng, ahead of a summit between Chinese President Xi Jinping and President Donald Trump.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/20/bessent-he-lifeng-trump-xi-summit.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/21/treasury-bessent-cnbc-squawk-trump-bond-affordabilty.html) — *CNBC*
 
-### 3. Oil falls as crude flows remain 'surprisingly strong'
+### 3. Nissan eyes increasing U.S. production as new Rogue hybrid launches
 
-[原文] Oil fell Monday, as traders keep watch for a recovery in shipments from Saudi Arabia, even as Mideast tensions continue to escalate.
+[原文] Nissan has two production shifts at its assembly plant in Smyrna, Tennessee, and adding another could mean hundreds, if not thousands, of new jobs.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/21/iran-us-oil-prices-crude-saudi-arabia-.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/21/nissan-2027-rogue-production.html) — *CNBC*
 
-### 4. Trump to meet with NYC Mayor Zohran Mamdani on Monday ahead of UN General Assembly
+### 4. Trump to be sued by MS NOW, CNN, Politico to reverse White House ban
 
-[原文] The mayor's press office said the meeting will take place at Gracie Mansion and "will focus on issues affecting New York City and New Yorkers."
+[原文] President Trump cited what he called "cumulative stories" by the three media outlets for his ban of them, saying, "You get sick of it."
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/20/trump-mamdani-gracie-mansion-meeting.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/21/trump-lawsuit-white-house-ban-ms-now-cnn-politico.html) — *CNBC*
 
-### 5. U.S. urges Americans to reconsider Middle East travel as Iran tensions rise
+### 5. Novo shares slide as drugmaker lays out post-Wegovy growth strategy
 
-[原文] The State Department urged Americans to reconsider Middle East travel as Houthi attacks intensify and Iran keeps the Strait of Hormuz closed.
+[原文] The Danish company seeks to convince investors it can compete in an increasingly crowded field it helped pioneer.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/20/us-middle-east-travel-warning-iran-war-hormuz.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/21/novo-nordisk-stock-sales-target-obesity-drugs.html) — *CNBC*
 
 ---
 
@@ -130,35 +130,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Scientists opened a sealed envelope after 10 years. Gravity still didn’t make sense
+### 1. What kills Schrödinger’s cat? Gravity may not be the answer
+
+[原文] Physicists have put a decades-old idea about why the strange rules of quantum mechanics disappear in our everyday world to one of its toughest experimental tests yet. Deep beneath Italy’s Gran Sasso m
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260920222350.htm) — *Science Daily*
+
+### 2. Scientists opened a sealed envelope after 10 years. Gravity still didn’t make sense
 
 [原文] A decade-long NIST experiment has produced a new measurement of the universal gravitational constant that differs unexpectedly from another leading result, deepening a 225-year-old physics puzzle. The
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260920032049.htm) — *Science Daily*
 
-### 2. 8 common food additives linked to high blood pressure and heart disease
+### 3. 8 common food additives linked to high blood pressure and heart disease
 
 [原文] Common preservatives hiding in processed foods may carry unexpected heart risks, with heavy consumption linked to substantially higher rates of high blood pressure and cardiovascular disease. Research
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260920031905.htm) — *Science Daily*
 
-### 3. A deadly ebola relative is surging after years in the shadows
+### 4. Millions take calcium and vitamin D for bone health. A major review finds little benefit
+
+[原文] A sweeping review of more than 153,000 adults found that calcium and vitamin D supplements, alone or together, do little to prevent fractures or falls in most older people. Researchers say the finding
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260920030147.htm) — *Science Daily*
+
+### 5. A deadly ebola relative is surging after years in the shadows
 
 [原文] A growing Bundibugyo virus outbreak is showing how a little-known relative of Ebola can become a major threat when diagnosis and treatment options are limited. Experts warn that preparing only for fam
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260919031042.htm) — *Science Daily*
-
-### 4. A giant crater may reveal the origin of Mars’ doomed moon
-
-[原文] A massive crater on Mars’ moon Phobos may hide a dense region of compressed material that could reveal whether the moon is a captured asteroid or debris from an ancient impact on Mars. Japan’s upcomin
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260919031040.htm) — *Science Daily*
-
-### 5. Hurricane Hunters reveal 4 warning signs that a storm is about to strengthen
-
-[原文] Nearly three decades of Hurricane Hunter data reveal four features that can help a tilted tropical cyclone straighten its circulation and become capable of intensifying. The findings could give foreca
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260919031037.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Neville calls Man Utd 'pathetic' - but Carrick maintains belief
+### 1. Gibbs-White set to replace Palmer in England squad
 
-[原文] Gary Neville calls Manchester United "pathetic", but boss Michael Carrick maintains belief after salvaging draw at Fulham.
+[原文] Morgan Gibbs-White is in line for an England recall to replace Cole Palmer, who is set to withdraw from the squad because of a minor injury.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cmly4pe6yrqzo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c617j2prweejo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. What have we learned from the Premier League so far?
+### 2. Why Cardiff is set to win race to host Fury-Joshua
 
-[原文] BBC Sport takes a look at the opening weeks of the Premier League season as a long international break arrives.
+[原文] Why Cardiff is set to beat competition from London and New York to host the long-awaited fight between Tyson Fury and Anthony Joshua.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cvp8d4116zglo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/articles/ck5yw8q81ql2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Mourinho prints out 'red card' incidents after Real lose derby
+### 3. 'I've asked for forgiveness' - Eckert and Southampton braced for Spygate verdict
 
-[原文] Real Madrid manager Jose Mourinho prints out screenshots displaying two incidents he believes should have resulted in Atletico Madrid dismissals.
+[原文] As Southampton manager Tonda Eckert awaits the FA hearing into his 'Spygate' misconduct conduct charge BBC sports editor Dan Roan speaks to him and club chief executive Phil Parsons on what happens ne
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c6m27p9e24zno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cmp30p934g4lo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Rangers look like they know where they want to go - Celtic just look lost
+### 4. 'Far from their best' to 'a joy to watch' -  ranking Premier League teams' start to season
 
-[原文] Tom English reflects on the first Old Firm league game of the season, in which Rangers repeated their League Cup win over Celtic.
+[原文] Five matches into the league season, which teams in the Premier League have impressed so far and who have disappointed?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c317j2lzg8rdo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cq70d74g4d8go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Holdt scores hat-trick as Spurs thrash 10-player Palace
+### 5. All the goals from the Women's Super League - matchweek three
 
-[原文] Olivia Holdt claims a hat-trick as Tottenham score seven times in the second half to condemn 10-player Crystal Palace to their first defeat since being promoted back to the Women's Super League.
+[原文] Watch every goal from matchweek three of the Women's Super League 2026-27 season.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cqx2zg35kln5o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cm0qx2191yxgo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Presley Gerber, Model and Son of Cindy Crawford and Rande Gerber, Dies at 27
+### 1. MS NOW, CNN, Politico Allege Trump, White House Staffers Violated First Amendment in New Suit
 
-[原文] Presley Gerber, the model son of Cindy Crawford and Rande Gerber, died Sunday. He was 27. More to come&#8230;
+[原文] MS NOW, CNN and Politico sued President Donald Trump and other administration officials over a decision by Trump to ban the three news organizations from newsgathering at the White House, the latest f
 
-📎 [阅读原文](https://variety.com/2026/digital/people-news/presley-gerber-dead-model-cindy-crawford-1236870840/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/ms-now-cnn-politico-lawsuit-trump-white-house-first-amendment-1236870947/) — *Variety*
 
-### 2. John Oliver Takes Swipe at David Ellison and His ‘Business Daddy’ Larry Ellison on ‘Last Week Tonight’
+### 2. Red Sea Film Festival Cancels 2026 Edition, Will Return Next Year
 
-[原文] When we last saw John Oliver behind the desk of “Last Week Tonight,” he was mocking Trump for sacrificing a number of members of his senior staff on a decoy plane amidst his peculiar catering truck es
+[原文] Saudi Arabia’s Red Sea Film Festival, the most prominent film event and market in the Arab world, has canceled its sixth edition that was scheduled to take place from Dec. 3 to 12. The event will retu
 
-📎 [阅读原文](https://variety.com/2026/tv/news/john-oliver-david-ellison-larry-ellison-last-week-tonight-1236870834/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/red-sea-film-festival-cancels-2026-edition-1236865126/) — *Variety*
 
-### 3. India’s ‘Angh’ Wins Toronto Platform Award, Nabs Automatic Oscar Contention
+### 3. ‘A Teacher’s Gift’ Lands U.K. Distribution Deal With Peccadillo Pictures (EXCLUSIVE)
 
-[原文] Indian feature &#8220;Angh,&#8221; the feature directorial debut of Theja Rio, has taken the top prize in the Toronto Film Festival&#8217;s Platform section, an award that comes with automatic entry i
+[原文] British South Asian drama &#8220;A Teacher&#8217;s Gift&#8221; has landed U.K. theatrical distribution through Peccadillo Pictures, the independent distributor known for its LGBTQ+ and world cinema ou
 
-📎 [阅读原文](https://variety.com/2026/film/festivals/angh-toronto-platform-award-oscars-1236870763/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/a-teachers-gift-uk-distribution-deal-peccadillo-pictures-1236870890/) — *Variety*
 
-### 4. China Box Office: ‘Once Upon a Time in the Middle East’ Secures Sixth Weekend at No. 1 in Sluggish Frame
+### 4. Pablo Larraín Ventures Into Argentina With His San Sebastián Golden Shell Contender ‘My Sad Dead’
 
-[原文] Dirty Monkeys’ war comedy-drama &#8220;Once Upon a Time in the Middle East&#8221; retained its grip on the top spot at the mainland China box office for the sixth consecutive weekend, taking in RMB28.
+[原文] Writer-director Pablo Larraín, best known for his trilogy “Jackie,” “Spencer” and “Maria,” ventures into Argentina for the first time in “My Sad Dead” (“Mis muertos tristes”), based on three stories b
 
-📎 [阅读原文](https://variety.com/2026/film/box-office/china-box-office-once-upon-a-time-in-the-middle-east-all-wishes-come-true-1236870720/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/pablo-larrain-my-sad-dead-mariana-enriquez-1236870553/) — *Variety*
 
-### 5. Guy Gardner Is Back! Nathan Fillion Breaks Down His ‘Lanterns’ Debut and Why He’s the DC Universe’s Main Throughline
+### 5. Bestselling Japanese Novelist Maha Harada Says ‘If This Is a Dream, I Hope I Never Wake Up’ About Her San Sebastian – and Busan – Bound Directing Debut ‘In My Father’s Room’
 
-[原文] SPOILER ALERT: This article contains spoilers for Season 1, Episode 6 of “Lanterns,” now streaming on HBO Max. Nathan Fillion has had a hard time convincing his friends that he’s actually in “Lanterns
+[原文] Maha Harada spent two decades building scenes on the page before she ever stood behind a camera. Now 64, the best-selling Japanese author is making her feature directorial debut with &#8220;In My Fath
 
-📎 [阅读原文](https://variety.com/2026/tv/news/lanterns-nathan-fillion-guy-gardner-interview-1236867190/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/maha-harada-in-my-fathers-room-interview-1236865727/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Lanterns Season 1, Episode 6 Review & Recap
+### 1. Here's Everything You Need to Know About Mighty Mike Plays and the $118,000 He Allegedly Cost His Dad
+
+[原文] Why is everyone talking about Mighty Mike Plays? From the (alleged) $118,000 bill to AI-generated T-shirt designs, we're here to explain how a Minecraft YouTube channel has captured the internet's att
+
+📎 [阅读原文](https://www.ign.com/articles/heres-everything-you-need-to-know-about-mighty-mike-plays-and-the-118000-he-allegedly-cost-his-dad) — *IGN*
+
+### 2. Silent Hill: Townfall Review
+
+[原文] Like the intravenous needle permanently jutting out of its hero’s wrist, Silent Hill: Townfall gives this long running series a welcome shot in the arm.
+
+📎 [阅读原文](https://www.ign.com/articles/silent-hill-townfall-review) — *IGN*
+
+### 3. Lanterns Season 1, Episode 6 Review & Recap
 
 [原文] Lanterns stumbles in Episode 6, as the series finally returns to the present day but struggles to maintain its narrative momentum. Read our full review.
 
 📎 [阅读原文](https://www.ign.com/articles/lanterns-season-1-episode-6-review-recap) — *IGN*
 
-### 2. Monster: The Lizzie Borden Story Review
+### 4. Monster: The Lizzie Borden Story Review
 
 [原文] Monster: The Lizzie Borden Story aims to be an insightful commentary on female rage, but it never commits to how it wants to convey that message.
 
 📎 [阅读原文](https://www.ign.com/articles/monster-lizzie-borden-story-review) — *IGN*
 
-### 3. Final Fantasy 7 Revelation Will 'Easily Take Over 100 Hours' for Completionists to Beat, Director Teases
+### 5. Final Fantasy 7 Revelation Will 'Easily Take Over 100 Hours' for Completionists to Beat, Director Teases
 
 [原文] Final Fantasy 7 Revelation director Naoki Hamaguchi teased that completionist playthroughs for the remake trilogy's conclusion could "easily take over a hundred hours" to beat.
 
 📎 [阅读原文](https://www.ign.com/articles/final-fantasy-7-revelation-will-easily-take-over-100-hours-for-completionists-to-beat-director-teases) — *IGN*
-
-### 4. Zach Cregger's Resident Evil Defies Expectations With $108 Million Box Office Opening Weekend
-
-[原文] Zach Cregger's Resident Evil has pushed through the backlash to collect an estimated $108.3 million globally in its opening weekend at the box office.
-
-📎 [阅读原文](https://www.ign.com/articles/zach-creggers-resident-evil-defies-expectations-with-108-million-box-office-opening-weekend) — *IGN*
-
-### 5. Disney+ to Allow Ads on All Plans Following Changes Detailed in Updated Subscriber Agreement
-
-[原文] Disney+ has altered its user agreement to clarify that ads will be allowed on all subscription tiers.
-
-📎 [阅读原文](https://www.ign.com/articles/disney-to-allow-ads-on-all-plans-following-changes-detailed-in-updated-subscriber-agreement) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Somebody Added a Liter of Displacement to an Iconic Jeep 4.0L and Made Huge Power
+### 1. 2027 Nissan Rogue Hybrid Wants To Win You Over With Refinement and 40 MPG for $37,065
+
+[原文] Is being pleasant to drive more important than the best fuel economy and lowest price? Nissan thinks it is.
+The post 2027 Nissan Rogue Hybrid Wants To Win You Over With Refinement and 40 MPG for $37,0
+
+📎 [阅读原文](https://www.thedrive.com/news/2027-nissan-rogue-hybrid-wants-to-win-you-over-with-refinement-and-40-mpg-for-37065) — *The Drive*
+
+### 2. Somebody Added a Liter of Displacement to an Iconic Jeep 4.0L and Made Huge Power
 
 [原文] One tuner is showing what's possible with the old platform, beating Jeep's Hurricane twin-turbo inline-six horsepower number without any boost.
 The post Somebody Added a Liter of Displacement to an Ic
 
 📎 [阅读原文](https://www.thedrive.com/news/somebody-added-a-liter-of-displacement-to-an-iconic-jeep-4-0l-and-made-huge-power) — *The Drive*
 
-### 2. Most Automakers Race What They Sell. With the GR GT3, Toyota Is Selling What It Races
+### 3. Most Automakers Race What They Sell. With the GR GT3, Toyota Is Selling What It Races
 
 [原文] Instead of designing a road car and then modifying it for the track, Toyota prioritized the needs of racing in the GR GT's design.
 The post Most Automakers Race What They Sell. With the GR GT3, Toyota
 
 📎 [阅读原文](https://www.thedrive.com/news/most-automakers-race-what-they-sell-with-the-gr-gt3-toyota-is-selling-what-it-races) — *The Drive*
 
-### 3. Different Times: Immaculate 1954 Greyhound Scenicruiser Bus for Sale Is a Reminder of What Was
+### 4. Different Times: Immaculate 1954 Greyhound Scenicruiser Bus for Sale Is a Reminder of What Was
 
 [原文] In the 1950s, all forms of transportation were more glamorous—even taking the bus.
 The post Different Times: Immaculate 1954 Greyhound Scenicruiser Bus for Sale Is a Reminder of What Was appeared firs
 
 📎 [阅读原文](https://www.thedrive.com/news/different-times-immaculate-1954-greyhound-scenicruiser-bus-for-sale-is-a-reminder-of-what-was) — *The Drive*
 
-### 4. You’ve Never Seen a Lotus Turned Into a Circle Track Car Like This
+### 5. You’ve Never Seen a Lotus Turned Into a Circle Track Car Like This
 
 [原文] We're not sure why someone decided to build this, but we're glad they did.
 The post You&#8217;ve Never Seen a Lotus Turned Into a Circle Track Car Like This appeared first on The Drive.
 
 📎 [阅读原文](https://www.thedrive.com/news/youve-never-seen-a-lotus-turned-into-a-circle-track-car-like-this) — *The Drive*
-
-### 5. The Future of AM Radio in Cars Just Got a Little More Certain
-
-[原文] A bill to mandate AM radio in new cars passed the U.S. House of Representatives earlier this week.
-The post The Future of AM Radio in Cars Just Got a Little More Certain appeared first on The Drive.
-
-📎 [阅读原文](https://www.thedrive.com/news/the-future-of-am-radio-in-cars-just-got-a-little-more-certain) — *The Drive*
 
 ---
 
@@ -363,35 +363,35 @@ The post The Future of AM Radio in Cars Just Got a Little More Certain appeared 
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. A Wake-Up Call on Climate, Costs and Corruption
+### 1. How Florida Ties Localities’ Hands on Everything from Environmental Regulation to Worker Protections
+
+[原文] Florida’s coastal residents know to brace for storm surge, but during 2024’s Hurricane Milton, it was inland communities that suffered some of the greatest flooding. It took three weeks for water to r
+
+📎 [阅读原文](https://insideclimatenews.org/news/21092026/how-florida-ties-localities-hands-on-everything-from-environmental-regulation-to-worker-protections/) — *Inside Climate News*
+
+### 2. A Wake-Up Call on Climate, Costs and Corruption
 
 [原文] Welcome to Inside Climate, a podcast from the staff of Inside Climate News. Ahead of Climate Week NYC, Inside Climate host Jake Bolster speaks to U.S. Sen. Sheldon Whitehouse of Rhode Island and asks 
 
 📎 [阅读原文](https://insideclimatenews.org/news/20092026/inside-climate-podcast-sen-sheldon-whitehouse/) — *Inside Climate News*
 
-### 2. Climate Super-Pollutant from China’s Electric Grid Is Cooking the Planet
+### 3. Climate Super-Pollutant from China’s Electric Grid Is Cooking the Planet
 
 [原文] Read this article in Chinese 阅读本文中文版. China’s electric grid has a dirty secret: Despite leading the world in renewable energy expansion, it is also the largest emitter of the planet’s most potent gree
 
 📎 [阅读原文](https://insideclimatenews.org/news/20092026/china-grid-sf6-emissions/) — *Inside Climate News*
 
-### 3. 来自中国电网的超级气候污染物正在炙烤地球
+### 4. 来自中国电网的超级气候污染物正在炙烤地球
 
 [原文] Read this article in&#160;English. 中国的电网有一个肮脏的秘密：尽管它在可再生能源发展引领全球，它也是地球上最强效温室气体的最大排放源。 六氟化硫（SF6）是一种合成化学物质，在高压设备中作为电气绝缘介质发挥着至关重要的角色。这种气体无色无味、无毒、且不可燃。但它也是气候杀手，按等质量计算，其使地球变暖的效力是二氧化碳的24,300倍。一旦释放，六氟化硫会在大气中
 
 📎 [阅读原文](https://insideclimatenews.org/news/20092026/%e6%9d%a5%e8%87%aa%e4%b8%ad%e5%9b%bd%e7%94%b5%e7%bd%91%e7%9a%84%e8%b6%85%e7%ba%a7%e6%b0%94%e5%80%99%e6%b1%a1%e6%9f%93%e7%89%a9%e6%ad%a3%e5%9c%a8%e7%82%99%e7%83%a4%e5%9c%b0%e7%90%83/) — *Inside Climate News*
 
-### 4. Whitehouse: Call Out the Corruption Propelling the US Climate Retreat
+### 5. Whitehouse: Call Out the Corruption Propelling the US Climate Retreat
 
 [原文] Democrats controlled the Senate and the presidency when Sen. Sheldon Whitehouse first sought to roust his colleagues from the chamber’s floor, warning them that they were sleep-walking into climate di
 
 📎 [阅读原文](https://insideclimatenews.org/news/20092026/sen-whitehouse-urges-stronger-climate-messaging/) — *Inside Climate News*
-
-### 5. ‘Post-Disaster Gentrification’ Proliferates in Florida Towns as Costs Soar Following Hurricanes
-
-[原文] Jaques and Paulina Sebastiao were the first residents on their street to rebuild their two-bedroom house two years after Hurricane Michael’s 155 mile-per-hour winds leveled almost every building in Me
-
-📎 [阅读原文](https://insideclimatenews.org/news/19092026/florida-disaster-gentrification-following-hurricanes/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post The Future of AM Radio in Cars Just Got a Little More Certain appeared 
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Chad Gilbert, New Found Glory’s Founding Guitarist, Dead at 45
+### 1. Taylor Swift Celebrates Travis Kelce’s First Touchdown of the Season: ‘That’s My Husband!’
+
+[原文] The Kansas City Chiefs triumphed over the Indianapolis Colts at Arrowhead Stadium
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/taylor-swift-travis-kelce-first-touchdown-celebration-nfl-1235629448/) — *Rolling Stone*
+
+### 2. Chad Gilbert, New Found Glory’s Founding Guitarist, Dead at 45
 
 [原文] Longtime member and lyricist of Florida pop-punk group revealed in March that he was battling brain cancer
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/chad-gilbert-new-found-glory-founding-guitarist-dead-obit-1235629366/) — *Rolling Stone*
 
-### 2. See William Shatner Cover Metallica and Ozzy Osbourne in Heavy Metal Debut
+### 3. See William Shatner Cover Metallica and Ozzy Osbourne in Heavy Metal Debut
 
 [原文] Star Trek actor and band the *uckers played warm-up gig in Chicago Saturday ahead of official Riot Fest debut
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/william-shatner-metallica-ozzy-osbourne-heavy-metal-debut-1235629269/) — *Rolling Stone*
 
-### 3. Ed Sheeran Breaks Silence on Israel-Gaza at First Show Amid Tour Controversy: ‘I Cannot Hide How I Feel About It Anymore’
+### 4. Ed Sheeran Breaks Silence on Israel-Gaza at First Show Amid Tour Controversy: ‘I Cannot Hide How I Feel About It Anymore’
 
 [原文] “This has put me in the middle of an important and passionate argument about freedom of speech and the most complex political issue on the planet," Sheeran said
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/ed-sheeran-breaks-silence-gaza-isreael-macklemore-concert-1235629139/) — *Rolling Stone*
 
-### 4. Gnarls Barkley Announce First Tour in 18 Years
+### 5. Gnarls Barkley Announce First Tour in 18 Years
 
 [原文] Duo's To Whom It Still Concerns Tour, in support of their third and final album Atlanta, hits the road this November
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/gnarls-barkley-first-tour-18-years-atlanta-1235629188/) — *Rolling Stone*
-
-### 5. Dropkick Murphys’ Ken Casey Says Ed Sheeran ‘Took the Knee’ With Macklemore: ‘Doesn’t Sit Right With Me’
-
-[原文] "That’s not how Dropkick Murphys would operate,” frontman says
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/dropkick-murphys-ken-casey-ed-sheeran-took-knee-macklemore-1235629079/) — *Rolling Stone*
 
 ---
 
