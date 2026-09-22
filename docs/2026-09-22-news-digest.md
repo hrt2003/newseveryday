@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月22日** | 生成时间: 2026-09-22 12:04
+**2026年09月22日** | 生成时间: 2026-09-22 19:13
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war
+### 1. Major US outlets boycott shared Trump coverage in protest at media ban
 
-[原文] The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti.
+[原文] Regular coverage of the president has been disrupted after he banned CNN, MS NOW and Politico from the White House.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cje3rezd92y3o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. CNN, MS NOW and Politico file lawsuit against Trump's White House ban
+### 2. Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC
 
-[原文] Major US networks later suspended White House TV coverage of Trump as he headed to New York for a UN summit.
+[原文] Sinkevičius told BBC Newsnight Lithuanians feel "constantly threatened" by Moscow, but the nation was prepared to "fight back" if attacked.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Merz vows to keep coalition together for Germany's 'democratic future'
+### 3. Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly
 
-[原文] The chancellor has come under increasing pressure after resounding state election defeats, but says the results "go far beyond my own person"
+[原文] The G7 also condemns "in the strongest terms" Houthi attacks on Saudi Arabia, saying that the escalation in fighting in Yemen jeopardises global energy security.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. First UK charges brought over 1994 Rwanda genocide
+### 4. Eleven injured in shooting outside Turkish school
 
-[原文] Dr Vincent Brown, formerly Dr Vincent Bajinya, 65, will appear at Westminster Magistrates’ Court on Tuesday charged with seven offences.
+[原文] Footage appears to show a male in the area carrying a firearm, while officials say the attacker has been captured.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c6y0z4gv0le4o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Millions urged to evacuate as powerful Typhoon Dujuan hits Japan
+### 5. Sri Lankan court to deliver verdict on deadly Easter bombings
 
-[原文] The country's meteorological agency had warned of an "imminent threat to life," but this has now been downgraded.
+[原文] Co-ordinated suicide attacks killed 270 people across several churches and hotels in Colombo in 2019.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cw8r687nedzgo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Much of Trump’s promised midterm election spending has yet to surface, new filing shows
+### 1. Trump, Xi seek trade stability and deals, but AI, tariffs and Iran loom large. What to watch
 
-[原文] MAGA Inc. entered September with $415.8 million as much of Trump’s promised midterm spending had yet to surface publicly.
+[原文] Trump, facing low approval on the economy ahead of the midterm election, has an added incentive to emerge from the summit with China's Xi touting trade wins.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/21/trump-maga-midterm-spending-war-chest.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/21/trump-xi-china-summit-trade-tariffs.html) — *CNBC*
 
-### 2. Here's who we know is going to the Trump-Xi dinner so far
+### 2. McDonald's is hosting an investor day as its U.S. business struggles. Here are 4 things to expect
 
-[原文] Very little is known about which Chinese business executives, if any, are expected to attend.
+[原文] The presentation comes as McDonald's U.S. business disappointed in its most recent quarter.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/22/mcdonalds-mcd-hosts-investor-day.html) — *CNBC*
 
-### 3. Investors rush into India’s National Stock Exchange IPO at valuation multiple above Nasdaq
+### 3. Trump to press Zelenskyy for energy truce, says Russia has ‘lost control’ of oil due to Ukraine war
 
-[原文] The $2.3 billion NSE IPO, India's largest public share sale issue so far this year, has drawn strong interest from investors, with bids of more than $10 billion.
+[原文] U.S. President Donald Trump said Russia has “lost control” of its diesel oil industry due to the Ukraine war, as he presses Kyiv to agree to an energy truce.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/22/india-nse-ipo-billion-nasdaq.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/22/trump-zelenskyy-ukraine-russia-putin-diesel-oil.html) — *CNBC*
 
-### 4. All Iranian airlines to be 'shut down' from Wednesday, Bessent tells CNBC
+### 4. Oil prices reverse gains as United Nations General Assembly meeting lifts hopes for Iran war diplomacy
 
-[原文] The Treasury Secretary said that Washington was pressuring Iran "like never before"
+[原文] Oil prices reversed early gains on Tuesday amid optimism that prospects for a diplomatic solution to the U.S.-Iran war are improving.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/22/us-iran-war-trump-hormuz.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/22/oil-iran-us-bessent-un-crude.html) — *CNBC*
 
-### 5. Jamie Dimon says hyperscaler AI spending could hit $1 trillion next year
+### 5. Peloton is revamping its treadmills with new features in the next phase of its turnaround
 
-[原文] JPMorgan CEO Jamie Dimon says AI spending across the hyperscaler ecosystem could reach $1 trillion next year as investment continues to surge.
+[原文] With its new treadmills, Peloton aims to appeal to customers from casual workers to more serious athletes.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/21/jamie-dimon-jpm-jpmorgan-indiaconference.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/22/peloton-announces-new-tread-peloton-iq-features.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping
+### 1. Meta deal will help plastics recycling startup MacroCycle build its first factory
+
+[原文] Meta is giving plastic recycling a boost in a new deal with startup MacroCycle, which is building its first commercial plant.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/22/meta-deal-will-help-plastics-recycling-startup-macrocycle-build-its-first-factory/) — *TechCrunch*
+
+### 2. Morphotonics raises €40M to expand its display tech into data centers
+
+[原文] Deeptech company Morphotonics raises €40M from investors including 3M Ventures, Innovation Industries, BOM, and Invest-NL.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/) — *TechCrunch*
+
+### 3. The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping
 
 [原文] Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/) — *TechCrunch*
 
-### 2. OpenAI forms math advisory group as its AI resolves more than 100 open problems
+### 4. OpenAI forms math advisory group as its AI resolves more than 100 open problems
 
 [原文] The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/) — *TechCrunch*
 
-### 3. Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket
+### 5. Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket
 
 [原文] Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your
 
 📎 [阅读原文](https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/) — *TechCrunch*
-
-### 4. Meta’s Muse is outpacing ChatGPT’s early mobile launch
-
-[原文] Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfig
-
-📎 [阅读原文](https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/) — *TechCrunch*
-
-### 5. Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google
-
-[原文] Future Google supplier Kairos Power inked a deal with Samsung C&#038;T to help build its first 50-megawatt nuclear power plant.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. 'Real fear Littler could walk away' - darts would be loser in booing row
+### 1. England fast bowler Wood retires from internationals
 
-[原文] Could Luke Littler walk away from darts completely if the booing he has suffered at European tournaments continues?
+[原文] England fast bowler Mark Wood announces his retirement from international cricket with immediate effect.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/darts/articles/cxq63p1y1m83o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c931nq260pxo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Israel FA accuses Hallgrimsson of 'ignorance, hypocrisy and stupidity'
+### 2. Pollock signs new Northampton deal in excess of £400K
 
-[原文] The Israel FA accuse Republic of Ireland manager Heimir Hallgrimsson of "ignorance, hypocrisy and stupidity" in comments made last week.
+[原文] Henry Pollock has brought an end to his contract stand-off with Northampton, saying it was ultimately "a very easy decision" to sign an extension.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cwvgyzzrd8jmo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-union/articles/cq39m2eppe0wo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Being run over by pitch roller was 'terrifying' - Townsend
+### 3. Chelsea struggles to Villa bench - Garnacho faces defining season
 
-[原文] Townsend says he was lucky to only escape from under the roller with a few "bumps and bruises".
+[原文] Alejandro Garnacho joined Aston Villa on loan from Chelsea with a view to kick-starting his career, but his early weeks in the Midlands have been a struggle.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cqp8dpd5d27yo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c51kxgj43n89o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Infantino says he is open to talks over Fifa reform
+### 4. Why is Monaco staging a sprint race? F1 Q&A
 
-[原文] Fifa president Gianni Infantino has proposed an external review of how world football's governing body operates. shifting tone as he seeks support to stay on.
+[原文] BBC Sport F1 correspondent Andrew Benson answers your latest questions before the Azerbaijan Grand Prix.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c639m2yggm1ro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/c9vgyzm2xv3do?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. F1 reduces maximum distance of races by 15km
+### 5. 'Alarming' - does WSL have a homegrown problem?
 
-[原文] F1 announces the maximum race distance for grands prix will be reduced by 15km from 305km to 290km for the 2027 season.
+[原文] The London City Lionesses raised eyebrows with no English players in their starting line-up against Manchester United, but is there a wider trend?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/cr15822d9vgxo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cew9nqnz9lno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Generative AI, Microdramas to Take Center Stage at Busan Market
+### 1. Goodfellas’ CEO Vincent Maraval Says Michel Hazanavicius Cut Eight Days of Production on WWI Film ‘The Third Hand’ by Using AI
 
-[原文] The Asian Contents &#38; Film Market (ACFM), the Busan International Film Festival&#8217;s (BIFF) official market, has finalized its 2026 lineup. InnoAsia, drawing 44 organizations and companies into 
+[原文] Vincent Maraval, the veteran CEO of major French sales-production company Goodfellas, spoke about the effects of AI in the industry while taking part in San Sebastián’s fifth edition of ots Creative I
 
-📎 [阅读原文](https://variety.com/2026/film/markets-festivals/generative-ai-microdramas-busan-market-1236871628/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/goodfellas-michel-hazanavicius-the-third-hand-ai-1236871835/) — *Variety*
 
-### 2. Robin Williams’ Daughter Calls for Fans Creating AI Videos of the Actor to ‘Have Some Shame’: ‘Leave Him Out of Your Delusional Bulls—’
+### 2. Will Record Summer Box Office Save Indie Cinema? Not Quite, but Cannes Might, Say U.S. Producers
 
-[原文] Zelda Williams is calling for fans to stop circulating AI-generated videos of her late father, Robin Williams, nearly a year after she last took to social media to ask them not to send her augmented c
+[原文] There was some much overdue optimism on the first day of the Creative Investors&#8217; Conference, co-organized by CAA Media Finance, in San Sebastian on Tuesday, as execs from an established U.S indi
 
-📎 [阅读原文](https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/will-summer-box-office-save-indie-cinema-1236871813/) — *Variety*
 
-### 3. Netflix Partners With British Library, Sets Talks Series With Florence Pugh, Zoe Kazan and More
+### 3. Clavicular Charged With Rape and Drugging in Massachusetts
 
-[原文] Netflix has teamed with one of the most famous cultural institutions in the U.K., the British Library, to help &#8220;more people discover the books behind some of the world’s most popular films and s
+[原文] &#8220;Looksmaxxing&#8221; influencer Clavicular has been charged with rape and drugging in Massachusetts, according to online court records viewed by Variety. A list of charges filed on Sept. 8 show 
 
-📎 [阅读原文](https://variety.com/2026/tv/news/netflix-partners-with-british-library-sets-talks-series-1236871540/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/digital/news/clavicular-charged-rape-drugging-massachusetts-1236871822/) — *Variety*
 
-### 4. Tom Cruise Says AI Is ‘Coming and It’s Going to Happen,’ but ‘People Want to See Real Things’: ‘Keep Creating’
+### 4. ‘Tango Metal’ Kickstarts Partnership Between Finland’s Helsinki-filmi and Iceland’s Glassriver (EXCLUSIVE)
 
-[原文] Despite the threat of AI to the film industry, Tom Cruise is confident that people will always &#8220;want to see real things&#8221; on screen. At an intimate BAFTA &#8220;Life in Pictures&#8221; conv
+[原文] In a move mirroring European indie producers’ look out for strong partners in an unstable market, Helsinki-filmi (“Tom of Finland,“ “The Summer Book,” “Codename: Annika”), one of the biggest content c
 
-📎 [阅读原文](https://variety.com/2026/film/global/tom-cruise-ai-movies-people-want-real-things-1236871464/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/glassriver-helsinki-filmi-tango-metal-1236871418/) — *Variety*
 
-### 5. Christina Applegate Shares First Video Following Months-Long Hospitalization: ‘Love to You All Out There’
+### 5. U.K.’s National Film and TV School and Sean Connery Foundation to Establish Permanent Base in Edinburgh (EXCLUSIVE)
 
-[原文] Christina Applegate has shared a first look at her life outside the hospital following a months-long stay amid her ongoing battle with multiple sclerosis. In the video, shared on Applegate’s Instagram
+[原文] The U.K.&#8217;s renowned National Film and Television School (NFTS) has partnered with the Sean Connery Foundation to establish a new Scottish filmmaking center in Edinburgh. The NFTS Sean Connery In
 
-📎 [阅读原文](https://variety.com/2026/tv/news/christina-applegate-ms-battle-1236871479/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/nfts-sean-connery-foundation-institute-edinburgh-1236871570/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. IGN Australia and Chupa Chups to Host a Retro Gaming ‘Fun House’ Activation at Westfield Parramatta This October
+### 1. Here's Your First Look at 3 Cards From Pokémon TCG: Mega Evolution — Delta Reign, Due to Launch This November
+
+[原文] IGN can today reveal three new Pokémon card designs from the upcoming set Pokémon TCG: Mega Evolution — Delta Reign.
+
+📎 [阅读原文](https://www.ign.com/articles/heres-your-first-look-at-3-cards-from-pokmon-tcg-mega-evolution-delta-reign-due-to-launch-this-november) — *IGN*
+
+### 2. How Long Is Silent Hill: Townfall?
+
+[原文] Five different IGN editors played through Silent: Hill Townfall in five different ways to find out how long Konami's new survival horror is, depending on playstyle.
+
+📎 [阅读原文](https://www.ign.com/articles/how-long-is-silent-hill-townfall) — *IGN*
+
+### 3. Injustice 3 Leak Reportedly Reveals 2 Playable Characters
+
+[原文] Injustice 3 will feature one character fans will expect and one who perhaps comes as a surprise, according to a fresh leak.
+
+📎 [阅读原文](https://www.ign.com/articles/injustice-3-leak-reportedly-reveals-2-playable-characters) — *IGN*
+
+### 4. The Love Hypothesis Review
+
+[原文] The Love Hypothesis review: Ali Hazelwood’s New York Times bestseller gets adapted into a charming rom-com.
+
+📎 [阅读原文](https://www.ign.com/articles/the-love-hypothesis-review) — *IGN*
+
+### 5. IGN Australia and Chupa Chups to Host a Retro Gaming ‘Fun House’ Activation at Westfield Parramatta This October
 
 [原文] IGN Australia and Chupa Chups to Host a Retro Gaming ‘Fun House’ Activation at Westfield Parramatta This October
 
 📎 [阅读原文](https://www.ign.com/articles/chupa-chups-forever-fun-house) — *IGN*
-
-### 2. Get a Lenovo Legion Go S Ryzen Z2 Go Handheld Gaming PC in Excellent Condition for Under $500
-
-[原文] It's more powerful than the Xbox Ally and uses SteamOS like the Steam Deck.
-
-📎 [阅读原文](https://www.ign.com/articles/lenovo-legion-go-s-handheld-gaming-pc-deal-september-2026) — *IGN*
-
-### 3. StarCraft: Tabletop Miniatures Game Review
-
-暂无摘要。
-
-📎 [阅读原文](https://www.ign.com/articles/starcraft-tabletop-miniatures-game-review) — *IGN*
-
-### 4. The Blood of Dawnwalker Update to Add Easier Difficulty Setting for Players Who Don't Want Combat
-
-[原文] The first major The Blood of Dawnwalker update will introduce an easier difficulty option for "people who don't want to experience combat" when it launches in October.
-
-📎 [阅读原文](https://www.ign.com/articles/the-blood-of-dawnwalker-update-to-add-easier-difficulty-setting-for-players-who-dont-want-combat) — *IGN*
-
-### 5. Save Up to 20% Off Tournament-Grade PS5, Xbox, and PC Controllers During SCUF's It's Time to Win Sale
-
-[原文] Elite in form AND function.
-
-📎 [阅读原文](https://www.ign.com/articles/scuf-its-time-to-win-sale-best-deals-on-gaming-controllers-for-ps5-xbox-pc) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post A Flat-Eight Porsche Hypercar Is Looking Increasingly Likely: TDS ap
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Federal Judge Rules Against Trump Administration Over Canceled Clean Energy Grants
+### 1. Could Abandoned Mines House Pennsylvania’s Unwanted Data Centers?
+
+[原文] Almost nobody wants a data center for a neighbor. Residents fear noise and air pollution, excessive energy and water use and the loss of open land. In Pennsylvania, a hot spot for new data centers, re
+
+📎 [阅读原文](https://insideclimatenews.org/news/22092026/building-data-centers-on-pennsylvania-abandoned-mines/) — *Inside Climate News*
+
+### 2. Federal Judge Rules Against Trump Administration Over Canceled Clean Energy Grants
 
 [原文] A federal judge has declared that the Trump administration unlawfully terminated $7 billion in grant funding for clean energy programs in disadvantaged communities. The Solar for All program, establis
 
 📎 [阅读原文](https://insideclimatenews.org/news/21092026/judge-rules-solar-for-all-grant-termination-unlawful/) — *Inside Climate News*
 
-### 2. In New York, Life-sized American Bison Puppets Inspire Hope for Restoration Efforts
+### 3. In New York, Life-sized American Bison Puppets Inspire Hope for Restoration Efforts
 
 [原文] Standing on Manhattan’s High Line, Jason Baldes watched pedestrians, cyclists, cars and trucks braid their way through New York City. The executive director of the Wind River Tribal Buffalo Initiative
 
 📎 [阅读原文](https://insideclimatenews.org/news/21092026/new-york-bison-puppet-march/) — *Inside Climate News*
 
-### 3. Breached Earth Boundaries Raise Risk of ‘Irreversible Change’
+### 4. Breached Earth Boundaries Raise Risk of ‘Irreversible Change’
 
 [原文] Scientists have developed an overwhelming array of methods to measure how burning fossil fuels, clearcutting forests and polluting oceans are harming the planet. But which measurements are most critic
 
 📎 [阅读原文](https://insideclimatenews.org/news/21092026/climate-extremes-show-breached-earth-boundaries/) — *Inside Climate News*
 
-### 4. How Florida Ties Localities’ Hands on Everything from Environmental Regulation to Worker Protections
+### 5. How Florida Ties Localities’ Hands on Everything from Environmental Regulation to Worker Protections
 
 [原文] Florida’s coastal residents know to brace for storm surge, but during 2024’s Hurricane Milton, it was inland communities that suffered some of the greatest flooding. It took three weeks for water to r
 
 📎 [阅读原文](https://insideclimatenews.org/news/21092026/how-florida-ties-localities-hands-on-everything-from-environmental-regulation-to-worker-protections/) — *Inside Climate News*
-
-### 5. A Wake-Up Call on Climate, Costs and Corruption
-
-[原文] Welcome to Inside Climate, a podcast from the staff of Inside Climate News. Ahead of Climate Week NYC, Inside Climate host Jake Bolster speaks to U.S. Sen. Sheldon Whitehouse of Rhode Island and asks 
-
-📎 [阅读原文](https://insideclimatenews.org/news/20092026/inside-climate-podcast-sen-sheldon-whitehouse/) — *Inside Climate News*
 
 ---
 
@@ -477,35 +477,35 @@ The post A Flat-Eight Porsche Hypercar Is Looking Increasingly Likely: TDS ap
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Equipment Outage Triggers Flight Delays, Cancellations at Northeast Airports
+### 1. The Next Dollar
+
+[原文] Travel measures success by what happens after money gets allocated: arrivals, bookings, room nights, load factors, traveler spending. We’ve built a framework around every decision that leads to those 
+
+📎 [阅读原文](https://skift.com/2026/09/22/the-next-dollar-who-moves-travels-money/) — *Skift*
+
+### 2. The New Skift
+
+[原文] A year ago, we asked what Skift would look like if we started it today. This is the answer: Skift Intelligence, and a company rebuilt around the decisions travel’s leaders have to make.
+
+📎 [阅读原文](https://skift.com/2026/09/22/the-new-skift/) — *Skift*
+
+### 3. Equipment Outage Triggers Flight Delays, Cancellations at Northeast Airports
 
 [原文] Airports in the New York area and Philadelphia are facing flight disruptions after the FAA issued a ground stop due to an equipment outage.
 
 📎 [阅读原文](https://skift.com/2026/09/21/equipment-outage-snarls-air-travel-in-new-york-philadelphia/) — *Skift*
 
-### 2. Airbnb’s Pivot: Inside Its New Push Into Hotels
+### 4. Airbnb’s Pivot: Inside Its New Push Into Hotels
 
 [原文] It's shaping up to be Airbnb's biggest new business. Hotel operators who've joined are liking the new customer pool so far. But how long can it stay exclusive?
 
 📎 [阅读原文](https://skift.com/2026/09/21/airbnbs-pivot-inside-its-new-push-into-hotels/) — *Skift*
 
-### 3. Ras Al Khaimah Wants to Be 80% Premium by 2030
+### 5. Ras Al Khaimah Wants to Be 80% Premium by 2030
 
 [原文] The international guests haven't come back yet, but Ras Al Khaimah is already building luxury supply for them.
 
 📎 [阅读原文](https://skift.com/2026/09/21/ras-al-khaimah-wants-to-be-80-premium-by-2030/) — *Skift*
-
-### 4. Ex-Remington CEO Is Building an ‘AI-Native’ Hotel Operator: Exclusive
-
-[原文] AI Hospitality Group (AIHG) wants to run full-service hotels with more tech and fewer managers, plus a fee tied to profit growth instead of the usual top-line revenue.
-
-📎 [阅读原文](https://skift.com/2026/09/21/ex-remington-ceo-is-building-an-ai-native-hotel-operator-exclusive/) — *Skift*
-
-### 5. What Uber and Airbnb Reveal About Expanding Beyond the Core
-
-[原文] Uber has frequency and Airbnb has travel intent; their expansion into hotels will show which advantage travels further.
-
-📎 [阅读原文](https://skift.com/2026/09/20/what-uber-and-airbnb-reveal-about-expanding-beyond-the-core/) — *Skift*
 
 ---
 
