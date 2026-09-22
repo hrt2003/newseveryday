@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月23日** | 生成时间: 2026-09-23 00:35
+**2026年09月23日** | 生成时间: 2026-09-23 05:02
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Sri Lanka court convicts 15 men over deadly Easter Sunday bombings
+### 1. US to build two military bases in Greenland under new deal with Denmark
+
+[原文] The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Sri Lanka court convicts 15 men over deadly Easter Sunday bombings
 
 [原文] Three churches and three luxury hotels were targeted in the 2019 attacks which killed 270.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Developing El Niño becomes strongest on record weeks before expected peak
+### 3. Developing El Niño becomes strongest on record weeks before expected peak
 
 [原文] Scientists say the developing El Niño is now the strongest on record with weather impacts already being felt around the world.
 
 📎 [阅读原文](https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC
+### 4. Ukraine anger as EU removes Russian oligarchs from sanctions list
 
-[原文] Sinkevičius told BBC Newsnight Lithuanians feel "constantly threatened" by Moscow, but the nation was prepared to "fight back" if attacked.
+[原文] Alisher Usmanov and Mikhail Fridman both have close ties to President Putin, and Kyiv said the move sent Moscow the wrong signals.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Eleven injured in shooting outside Turkish school
+### 5. Eleven injured in shooting outside Turkish school
 
 [原文] Footage appears to show a male in the area carrying a firearm, while officials say the attacker has been captured.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c6y0z4gv0le4o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Lindsay Clancy's lawyer asks judge to investigate juror and check his phone
-
-[原文] The attorney wants the court to look at the juror's mobile phone use and answers on questionnaires.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cm4gvyw80dp2o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump slams Iran and Cuba, defends AI growth and recounts record in UN speech
+### 1. Trump administration is examining whether a diesel export ban is feasible, Treasury Secretary says
 
-[原文] The U.S. "will no longer permit threats to America to gain a foothold anywhere in the Western Hemisphere," Trump told the UN leaders.
+[原文] Republican lawmakers have called for an export ban as high diesel prices hit farmers and truckers ahead of the November midterm elections.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/22/trump-un-speech-today.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/22/trump-diesel-export-ban-urkaine-russia-iran.html) — *CNBC*
 
-### 2. Trump, Xi seek trade stability and deals, but AI, tariffs and Iran loom large. What to watch
+### 2. Trump discloses more than 1,100 July trades, including up to $25 million each in sales of Microsoft, Amazon
 
-[原文] Trump, facing low approval on the economy ahead of the midterm election, has an added incentive to emerge from the summit with China's Xi touting trade wins.
+[原文] Trump sold tech stocks including Amazon and Microsoft when the Mag 7 stocks popped on July 20, adding $291 billion in market value in one day.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/21/trump-xi-china-summit-trade-tariffs.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/22/trump-trades-microsoft-amazon-july-financial-disclosure.html) — *CNBC*
 
-### 3. Sullivan: Wall Street admits it doesn't know where oil is headed. There's one stock they do agree on
+### 3. Trump administration removes around 760,000 Obamacare enrollments, alleging fraud
 
-[原文] JPMorgan’s commodity team admitted what many are thinking on the Iran situation and oil: We just don't know.
+[原文] Vice President JD Vance's White House Task Force to Eliminate Fraud estimates the action will save roughly $2.2 billion in taxpayer-funded subsidies.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/22/sullivan-wall-street-admits-it-doesnt-know-where-oil-is-headed-theres-one-stock-they-do-agree-on.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/22/trump-administration-removes-around-760000-obamacare-enrollments.html) — *CNBC*
 
-### 4. Altman and Amodei expected to join UN Security Council meeting about AI
+### 4. U.S. regulators rush to write crypto rulebook after Clarity Act stalls in Senate
 
-[原文] President Donald Trump addressed the U.N. General Assembly on Tuesday and pledged to support AI, despite calls to pace advanced models.
+[原文] State and federal regulators are rushing to fill the void after comprehensive crypto rules failed to clear the Senate.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/22/altman-amodei-unga-ai-safety.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/22/clarity-act-crypto-rules-regulators.html) — *CNBC*
 
-### 5. Iran reportedly says it can reopen Strait of Hormuz within 7 days if U.S. eases military pressure
+### 5. Royal Caribbean nears $3 billion deal to take 50% equity stake in Sandals
 
-[原文] The reports raised hopes of renewed U.S.-Iran diplomacy, with U.S. stock futures mixed and oil prices lower.
+[原文] Royal Caribbean has been trying to diversify beyond cruises and become a leader overall in vacations.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/22/us-iran-war-trump-hormuz.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/22/royal-caribbean-sandals.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Anthropic releases Opus 5.5 with lower prices and Fable-level performance
+### 1. Qualcomm launches two new smartphone chips with emphasis on AI
 
-[原文] Anthropic called it "the strongest-performing model we've tested to date."
+[原文] Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/) — *TechCrunch*
 
-### 2. Stolen passwords are exposing America’s water providers to hackers
+### 2. Apple could take on Whoop with a new fitness tracker, report says
 
-[原文] Researchers say another looming threat hangs over some of America's most important critical infrastructure.
+[原文] Apple may be developing a new fitness tracker as part of its new generation of hardware devices.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/22/stolen-passwords-are-exposing-americas-water-providers-to-hackers/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/22/apple-could-take-on-whoop-with-a-new-fitness-tracker-report-says/) — *TechCrunch*
 
-### 3. Noble Carbon will show how it’s making EV charger installs painless at TechCrunch Disrupt
+### 3. Meta admits Muse’s likeness to OpenClaw isn’t a coincidence
 
-[原文] Noble Carbon has developed a smart circuit breaker that allows households to electrify without the pain of a main panel upgrade.
+[原文] Meta says Muse was built from scratch, but acknowledges the AI assistant was "heavily inspired" by OpenClaw — down to some of its workspace filenames and content.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/22/noble-carbon-will-show-how-its-making-ev-charger-installs-painless-at-techcrunch-disrupt/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/) — *TechCrunch*
 
-### 4. Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda
+### 4. Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data
 
-[原文] At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, NVIDIA, AWS, Waabi, and more. Register now to save up to $200 b
+[原文] The theft of agents' personal information could present a major counterintelligence threat, where agents and their families are extorted into cooperating with a foreign government.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/) — *TechCrunch*
 
-### 5. AstroForge is putting AI in command of its next spacecraft
+### 5. a16z is challenging Silicon Valley’s love for drop-outs by launching a school
 
-[原文] Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.
+[原文] This academy for promising high school grads is somewhere between a trade school, Y Combinator, and Peter Thiel's Fellowship Program.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Who will start for England at Euro 2028? BBC Sport's predictions
+### 1. Jacks stars as England grind out win over Sri Lanka
 
-[原文] As England prepare to face world champions Spain on Saturday, BBC Sport's experts predict who will be starting for the Three Lions at Euro 2028.
+[原文] Will Jacks' all-round efforts help England grind out an 89-run victory over Sri Lanka in the first one-day international at Chester-le-Street.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cm3v41epe3l9o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/ckvgydn1gvlpo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Pollock left money on table to stay at Saints - Hearn
-
-[原文] Henry Pollock turned down rival offers worth much more than his Northampton extension, which will earn him over £400,000 a year, says adviser Eddie Hearn.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-union/articles/ckn8eq99jnevo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 3. I was close to joining Liverpool in 2016 - Mbappe
+### 2. I was close to joining Liverpool in 2016 - Mbappe
 
 [原文] Kylian Mbappe says his mum was a "big fan" of Jurgen Klopp and wanted her son to move to Merseyside.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c68042y9l4kno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. GB out of BJK Cup as Kartal & Boulter beaten by Czechs
+### 3. Pollock left money on table to stay at Saints - Hearn
 
-[原文] Sonay Kartal and Katie Boulter lose their singles matches as Great Britain are beaten by a strong Czech Republic side in the Billie Jean King Cup quarter-finals.
+[原文] Henry Pollock turned down rival offers worth much more than his Northampton extension, which will earn him over £400,000 a year, says adviser Eddie Hearn.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cmkg75dyz154o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-union/articles/ckn8eq99jnevo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Arteta agrees new deal with champions Arsenal
+### 4. Banned British player's £15m lawsuit against WTA dismissed
 
-[原文] Mikel Arteta agrees an improved new contract with Premier League champions Arsenal.
+[原文] British player Tara Moore's legal bid for £15m in damages over a doping case which led to her being banned for four years is dismissed.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ckd68e40ze3jo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/c9x2z652v86no?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 5. Who will start for England at Euro 2028? BBC Sport's predictions
+
+[原文] As England prepare to face world champions Spain on Saturday, BBC Sport's experts predict who will be starting for the Three Lions at Euro 2028.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cm3v41epe3l9o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Paramount, Warner Bros. Insiders Were Stunned by the Settlement With State AGs. Now They’re Girding for Inevitable Mass Layoffs
+### 1. College Sports Betting Series ‘Knockouts’ in the Works at Paramount TV Studios, Skydance Sports (EXCLUSIVE)
 
-[原文] The general mood on both sides of the Warner Bros. Discovery and Paramount Skydance aisles on Monday was shock and surprise over the sudden turn of events. And now that Paramount-WB merger has the all
+[原文] In a competitive situation, Paramount Television Studios and Skydance Sports have landed the spec script &#8220;Knockouts&#8221; from writers Clara Nevins and Harper Oreck, Variety has learned exclusi
 
-📎 [阅读原文](https://variety.com/2026/tv/news/paramount-warner-bros-insiders-settlement-shock-layoffs-1236872225/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/college-sports-betting-series-knockouts-paramount-1236872545/) — *Variety*
 
-### 2. Urban Sales Boards Ricardo Alves Jr.’s Religious Cult Thriller ‘The French Teacher’ Ahead of San Sebastián Premiere (EXCLUSIVE)
+### 2. Jake Paul’s Betting App Slams HBO After Cease and Desist Letter Sent Over ‘Entourage’ Reunion Ad: HBO ‘Does Not Own Jeremy Piven and Adrian Grenier’ (EXCLUSIVE)
 
-[原文] Paris-based sales agent Urban Sales has boarded Ricardo Alves Jr.’s “The French Teacher” ahead of its world premiere at the Horizontes Latinos section of the San Sebastián International Film Festival.
+[原文] Jake Paul&#8217;s gambling app Betr has fired back at HBO after the cabler sent a cease-and-desist letter over an ad reuniting &#8220;Entourage&#8221; stars Jeremy Piven and Adrian Grenier. In the let
 
-📎 [阅读原文](https://variety.com/2026/film/global/urban-sales-ricardo-alves-jr-french-teacher-san-sebastian-1236870927/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/jake-paul-betting-app-hbo-entourage-cease-and-desist-1236872384/) — *Variety*
 
-### 3. CNN Mood ‘Like a Funeral’ as Paramount’s Warner Bros. Win Casts New Haze on Next Steps
+### 3. ‘Compound’ Uses Security Camera Footage to Show the Violent Downfall of an Off-the-Grid Family, Reflecting America’s Increasing Surveillance State Paranoia
 
-[原文] Just when staffers at CNN thought the news giant&#8217;s path to the future was becoming more clear, new fog has set in. In recent weeks, the Warner Bros. Discovery outlet appeared to have found its g
+[原文] Sometimes films come out at a time that lines up eerily well with real life. As Americans debate the ethics of the nearly ubiquitous Flock cameras that are being placed in neighborhoods all throughout
 
-📎 [阅读原文](https://variety.com/2026/tv/news/cnn-funeral-path-hazy-paramount-wins-warner-1236872113/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/features/compound-security-footage-violent-off-the-grid-family-1236871940/) — *Variety*
 
-### 4. Ella Langley’s ‘Choosin’ Texas’ Finally Breaks Mariah Carey’s All-Time Record for Weeks at No. 1, Eclipsing ‘All I Want for Christmas Is You’
+### 4. ‘Wonder Woman’ Director Patty Jenkins Says Paramount-Warner Bros. Merger Is ‘Such Chaos’: ‘The Studio System Is in Bad Shape’
 
-[原文] There&#8217;s no long tail like a &#8220;Choosin&#8217; Texas&#8221; long tail. Ella Langley&#8217;s smash has just set the all-time record for the most weeks spent by a single at No. 1 on the Billboa
+[原文] Patty Jenkins, Halle Berry, Regina King, Misty Copeland and others gathered at downtown Manhattan’s Locanda Verde on Tuesday morning for Tribeca and Chanel’s Through Her Lens luncheon. The timing was 
 
-📎 [阅读原文](https://variety.com/2026/music/news/ella-langley-breaks-record-choosin-texas-weeks-chart-mariah-1236871292/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/patty-jenkins-on-warner-bros-paramount-merger-chaos-1236872521/) — *Variety*
 
-### 5. Lionel Richie Undergoes Heart Procedure, ‘Will Be Back on Stage Soon’ After Canceling Next Three Shows
+### 5. ‘Crew Girl’ Renewed for Season 2 at Netflix
 
-[原文] Lionel Richie will miss at least a few concert dates after being hospitalized this week and undergoing a procedure to treat atrial fibrillation, the singer&#8217;s rep says. “Lionel underwent a common
+[原文] Netflix’s latest YA drama series “Crew Girl” is racing right into Season 2, the streamer announced on Wednesday. “Crew Girl” came out on Sept. 10 and rowed to the top in the Netflix English TV Top 10,
 
-📎 [阅读原文](https://variety.com/2026/music/news/lionel-richie-heart-procedure-cancels-concerts-1236872245/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/crew-girl-second-season-1236872590/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Adidas Officially Launches Limited-Edition Pokémon Collection
+### 1. Grand Theft Auto 6's Miami Takeover Begins as Rockstar Spends Nearly $1 Million on 'Welcome to Vice City' Signage
+
+[原文] Rockstar Games has reportedly spent $1 million to install a "Welcome to Vice City" sign in Miami as part of Grand Theft Auto 6's marketing push.
+
+📎 [阅读原文](https://www.ign.com/articles/grand-theft-auto-6s-miami-takeover-begins-as-rockstar-spends-nearly-1-million-on-welcome-to-vice-city-signage) — *IGN*
+
+### 2. I Just Found Out About a Budget-Friendly Hotel Backed by Hilton That More People Should Know About for the 2026 Holiday Season
+
+[原文] The franchise is all about reliable essentials, efficiency and simplicity.
+
+📎 [阅读原文](https://www.ign.com/articles/new-budget-friendly-hotel-spark-by-hilton-holiday-travel) — *IGN*
+
+### 3. The Best Physical Switch Game Deals in Nintendo’s Customer Appreciation Sale
+
+[原文] You can save 30% on a ton of physical Switch games in Nintendo's Customer Appreciation Sale, ending September 26.
+
+📎 [阅读原文](https://www.ign.com/articles/best-physical-switch-game-deals-in-nintendos-customer-appreciation-sale-2026) — *IGN*
+
+### 4. Garfield - Escape from Monday Review
+
+[原文] A lackluster 3D platformer that leaves you feline hungry for something better.
+
+📎 [阅读原文](https://www.ign.com/articles/garfield-escape-from-monday-review) — *IGN*
+
+### 5. Disney Launches New 'Bookcessories' Featuring Iconic Characters From Star Wars and Animated Classics
 
 暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/where-to-buy-adidas-x-pokemon-30th-anniversary-collection) — *IGN*
-
-### 2. Microsoft Signals Intention to Close Down Ninja Theory After Deals to Save the Hellblade Developer Fall Through
-
-[原文] Microsoft has signalled its intention to close down Hellblade developer Ninja Theory after two deals to save the Xbox studio fell through.
-
-📎 [阅读原文](https://www.ign.com/articles/microsoft-signals-intention-to-close-down-ninja-theory-after-deals-to-save-the-hellblade-developer-fall-through) — *IGN*
-
-### 3. CONFIRMED: Microsoft Hands Halo to Call of Duty Developer Activision as Part of Seismic Xbox Studios Shakeup
-
-[原文] Microsoft has today confirmed that the next mainline Halo game will be developed by Call of Duty maker Activision, with mass layoffs hitting Halo Studios amid a significant restructure of its Xbox stu
-
-📎 [阅读原文](https://www.ign.com/articles/confirmed-microsoft-hands-halo-to-call-of-duty-developer-activision-as-part-of-huge-xbox-studios-shakeup) — *IGN*
-
-### 4. Handing Halo to Activision Makes Business Sense, but Is That Enough To Save the Series?
-
-[原文] The next Halo game will be developed by Activision, but is the slick Call of Duty development pipeline enough to save Master Chief?
-
-📎 [阅读原文](https://www.ign.com/articles/handing-halo-to-activision-makes-business-sense-but-is-that-enough-to-save-the-series) — *IGN*
-
-### 5. Heart of the Beast Review: Brad Pitt and His Combat Dog Go Ruffin' It in the Wild
-
-[原文] Heart of the Beast is a gripping wilderness survival film that will work especially well on dog lovers and those who like to see Brad Pitt get beaten up.
-
-📎 [阅读原文](https://www.ign.com/articles/heart-of-the-beast-review-brad-pitt) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/disney-launches-new-bookcessories-line-of-products) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Is a $45,000 Mazda Miata Still the Answer?
+### 1. GM’s Stance on CarPlay Is as Fractured and Confusing as Ever
+
+[原文] A new report indicates GM isn't bringing phone projection back to EVs after all, while the company doesn't want to speak on the matter. What's going on?
+The post GM&#8217;s Stance on CarPlay Is as Fra
+
+📎 [阅读原文](https://www.thedrive.com/news/gms-stance-on-carplay-is-as-fractured-and-confusing-as-ever) — *The Drive*
+
+### 2. Iran Makes $4,300 New Cars That Almost Nobody Can Buy
+
+[原文] Iran has a truly bizarre car market. State-sanctioned lotteries make domestic compact cars crazy-cheap but hard to find, while a Land Cruiser is almost $300,000.
+The post Iran Makes $4,300 New Cars Th
+
+📎 [阅读原文](https://www.thedrive.com/news/in-irans-dystopian-auto-market-a-new-car-can-be-4300-but-you-have-to-win-the-chance-to-buy-it) — *The Drive*
+
+### 3. Is a $45,000 Mazda Miata Still the Answer?
 
 [原文] You get a handsome hardtop convertible with a nice interior for that cash, but is that what the Mazda Miata is all about?
 The post Is a $45,000 Mazda Miata Still the Answer? appeared first on The Driv
 
 📎 [阅读原文](https://www.thedrive.com/news/is-a-45000-mazda-miata-still-the-answer) — *The Drive*
 
-### 2. 346.96 MPH: Top Fuel Dragster Breaks All-Time NHRA Speed Record
+### 4. 346.96 MPH: Top Fuel Dragster Breaks All-Time NHRA Speed Record
 
 [原文] NHRA just saw its first 340-mph pass last year, and Top Fuel dragsters are already headed for 350 mph.
 The post 346.96 MPH: Top Fuel Dragster Breaks All-Time NHRA Speed Record appeared first on The Dr
 
 📎 [阅读原文](https://www.thedrive.com/news/346-96-mph-top-fuel-dragster-breaks-all-time-nhra-speed-record) — *The Drive*
 
-### 3. Watch This Diesel-Electric Edison Pickup Truck Tow an 8,000-Pound Airstream Like It’s Nothing
+### 5. Watch This Diesel-Electric Edison Pickup Truck Tow an 8,000-Pound Airstream Like It’s Nothing
 
 [原文] When you see the '90s Dodge truck body, the last thing you expect to hear is silence as it cruises by.
 The post Watch This Diesel-Electric Edison Pickup Truck Tow an 8,000-Pound Airstream Like It&#821
 
 📎 [阅读原文](https://www.thedrive.com/news/watch-this-diesel-electric-edison-pickup-truck-tow-an-8000-pound-airstream-like-its-nothing) — *The Drive*
-
-### 4. Toyota’s Getting Into Gas-Extended EVs, and Not Just Dipping Its Toes: TDS
-
-[原文] Range-extender EVs use a small gas engine to help top up the batteries, and Toyota reportedly sees massive potential in them.
-The post Toyota&#8217;s Getting Into Gas-Extended EVs, and Not Just Dippin
-
-📎 [阅读原文](https://www.thedrive.com/news/toyotas-getting-into-gas-extended-evs-and-not-just-dipping-its-toes-tds) — *The Drive*
-
-### 5. 2027 GMC Sierra Denali Ultimate vs AT4X: GM’s Highest-Level Luxury Trucks Got Even Nicer
-
-[原文] As pickups continue moving up market, these drastically different approaches to premium show how GMC plans to lead the pack. 
-The post 2027 GMC Sierra Denali Ultimate vs AT4X: GM&#8217;s Highest-Level
-
-📎 [阅读原文](https://www.thedrive.com/news/2027-gmc-sierra-denali-ultimate-vs-at4x-gms-highest-level-luxury-trucks-got-even-nicer) — *The Drive*
 
 ---
 
@@ -363,35 +363,35 @@ The post 2027 GMC Sierra Denali Ultimate vs AT4X: GM&#8217;s Highest-Level
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Pennsylvania’s AI Boom Is Repeating Old Patterns of Exploitation
+### 1. Georgia Residents Sue Over OpenAI Data Center
+
+[原文] A $20 billion data center campus announced in July near Rincon, Georgia, is now facing its second lawsuit from Effingham County residents and environmental advocates. OpenAI, best known for creating C
+
+📎 [阅读原文](https://insideclimatenews.org/news/22092026/georgia-residents-sue-over-openai-data-center/) — *Inside Climate News*
+
+### 2. Pennsylvania’s AI Boom Is Repeating Old Patterns of Exploitation
 
 [原文] Pennsylvania’s data center industry has promised economic growth and a revival of the state’s industrial strength. But a new report issued Tuesday finds little evidence of job growth and warns that ad
 
 📎 [阅读原文](https://insideclimatenews.org/news/22092026/pennsylvania-ai-boom-environmental-harms/) — *Inside Climate News*
 
-### 2. Could Abandoned Mines House Pennsylvania’s Unwanted Data Centers?
+### 3. Could Abandoned Mines House Pennsylvania’s Unwanted Data Centers?
 
 [原文] Almost nobody wants a data center for a neighbor. Residents fear noise and air pollution, excessive energy and water use and the loss of open land. In Pennsylvania, a hot spot for new data centers, re
 
 📎 [阅读原文](https://insideclimatenews.org/news/22092026/building-data-centers-on-pennsylvania-abandoned-mines/) — *Inside Climate News*
 
-### 3. Federal Judge Rules Against Trump Administration Over Canceled Clean Energy Grants
+### 4. Federal Judge Rules Against Trump Administration Over Canceled Clean Energy Grants
 
 [原文] A federal judge has declared that the Trump administration unlawfully terminated $7 billion in grant funding for clean energy programs in disadvantaged communities. The Solar for All program, establis
 
 📎 [阅读原文](https://insideclimatenews.org/news/21092026/judge-rules-solar-for-all-grant-termination-unlawful/) — *Inside Climate News*
 
-### 4. In New York, Life-Sized American Bison Puppets Inspire Hope for Restoration Efforts
+### 5. In New York, Life-Sized American Bison Puppets Inspire Hope for Restoration Efforts
 
 [原文] Standing on Manhattan’s High Line, Jason Baldes watched pedestrians, cyclists, cars and trucks braid their way through New York City. The executive director of the Wind River Tribal Buffalo Initiative
 
 📎 [阅读原文](https://insideclimatenews.org/news/21092026/new-york-bison-puppet-march/) — *Inside Climate News*
-
-### 5. Breached Earth Boundaries Raise Risk of ‘Irreversible Change’
-
-[原文] Scientists have developed an overwhelming array of methods to measure how burning fossil fuels, clearcutting forests and polluting oceans are harming the planet. But which measurements are most critic
-
-📎 [阅读原文](https://insideclimatenews.org/news/21092026/climate-extremes-show-breached-earth-boundaries/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post 2027 GMC Sierra Denali Ultimate vs AT4X: GM&#8217;s Highest-Level
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Lionel Richie ‘Doing Well’ After Heart Procedure and Hospitalization
+### 1. Man Accused of Murdering ‘American Idol’ Exec and Husband Still Unfit for Trial, Judge Rules
 
-[原文] The R&#38;B great "will take some time off and will be back on stage soon," a rep said
+[原文] Raymond Boodarian was ordered to remain in a state hospital under an involuntary medication order after being accused of fatally shooting Robin Kaye and Thomas Deluca in July 2025
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/lionel-richie-heart-procedure-health-scares-1235629837/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/american-idol-exec-robin-kay-husband-murders-mental-health-1235629886/) — *Rolling Stone*
 
-### 2. Apple Is Opening a Music Venue Inside the Pink Floyd ‘Animals’ Power Station
+### 2. Original ‘Rent’ Cast Will Reunite for a Benefit Concert
 
-[原文] Sitting alongside London's River Thames, musicians can simultaneously perform and record at Apple Music Hall
+[原文] Idina Menzel, Adam Pascal, Anthony Rapp, Daphne-Rubin Vega, and others will perform a livestream from Broadway’s Richard Rodgers Theatre
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/apple-music-hall-pink-floyd-animals-1235629781/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/rent-original-cast-reunit-benefit-concert-livestream-1235629914/) — *Rolling Stone*
 
-### 3. MTV VMAs to Feature a George Michael Tribute With Raye, Sombr, and Teddy Swims
+### 3. Taylor Swift Announces New Single ‘Patient Zero’
 
-[原文] The homage to the late singer will include a medley at the Sunday awards show
+[原文] “I’ve been impatiently waiting to tell you that my brand new single ‘Patient Zero’ will be out on September 25 (!!!!!!!!!!!!),” the superstar wrote on her social media accounts
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/george-michael-tribute-raye-sombr-teddy-swims-mtv-vmas-2026-1235628525/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/taylor-swift-new-single-patient-zero-1235629706/) — *Rolling Stone*
 
-### 4. Taylor Swift to Receive Inaugural Artist Director Honors at 2026 MTV VMAs
+### 4. Tupac Shakur Murder Trial Documentary in the Works
 
-[原文] Four-time Best Direction winner honored with first award celebrating “a sustained and influential body of work from artists who have pushed creative boundaries and developed a clear directorial voice”
+[原文] The film will follow the trial of Duane “Keffe D” Davis, who was convicted in the 1996 death of the hip-hop legend
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/taylor-swift-artist-director-honors-2026-mtv-vmas-1235629611/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/tupac-shakur-murder-trial-documentary-in-works-keffe-d-1235629856/) — *Rolling Stone*
 
-### 5. Taylor Swift Celebrates Travis Kelce’s First Touchdown of the Season: ‘That’s My Husband!’
+### 5. He Was This Close to Fronting Van Halen. He Finally Got to Play Live With a Member
 
-[原文] The Kansas City Chiefs triumphed over the Indianapolis Colts at Arrowhead Stadium
+[原文] Thirty years after nearly landing his dream job, watch Mitch Malloy perform “Ain’t Talkin’ ’bout Love” with Michael Anthony
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/taylor-swift-travis-kelce-first-touchdown-celebration-nfl-1235629448/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/van-halen-mitch-malloy-aint-talkin-bout-love-1235629795/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post 2027 GMC Sierra Denali Ultimate vs AT4X: GM&#8217;s Highest-Level
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Sponsored Listings Are Spreading Across Online Travel — Just as AI Agents Threaten to Ignore Them
+### 1. That Creator Video Went Viral, the Booking Came Later: How Brands Measure Impact
+
+[原文] The path from online inspiration to booking isn’t linear. Travel brands say measurement is all about "incrementality."
+
+📎 [阅读原文](https://skift.com/2026/09/22/how-travel-measure-content-creator-lift/) — *Skift*
+
+### 2. How Travel Brands Learned to Stop Worrying and Trust Creators
+
+[原文] Travel brands are letting go of the curated campaigns and heavily produced videos in favor of giving more creative control to creators.
+
+📎 [阅读原文](https://skift.com/2026/09/22/how-travel-brands-learned-to-stop-worrying-and-trust-creators/) — *Skift*
+
+### 3. Sponsored Listings Are Spreading Across Online Travel — Just as AI Agents Threaten to Ignore Them
 
 [原文] Sponsored listings could be significantly disrupted — or they will evolve to account for AI agents.
 
 📎 [阅读原文](https://skift.com/2026/09/22/sponsored-listings-are-spreading-across-online-travel-just-as-ai-agents-threaten-to-ignore-them/) — *Skift*
 
-### 2. The Next Dollar
+### 4. The Next Dollar
 
 [原文] Travel measures success by what happens after money gets allocated: arrivals, bookings, room nights, load factors, traveler spending. We’ve built a framework around every decision that leads to those 
 
 📎 [阅读原文](https://skift.com/2026/09/22/the-next-dollar-who-moves-travels-money/) — *Skift*
 
-### 3. The New Skift
+### 5. The New Skift
 
 [原文] A year ago, we asked what Skift would look like if we started it today. This is the answer: Skift Intelligence, and a company rebuilt around the decisions travel’s leaders have to make.
 
 📎 [阅读原文](https://skift.com/2026/09/22/the-new-skift/) — *Skift*
-
-### 4. Equipment Outage Triggers Flight Delays, Cancellations at Northeast Airports
-
-[原文] Airports in the New York area and Philadelphia are facing flight disruptions after the FAA issued a ground stop due to an equipment outage.
-
-📎 [阅读原文](https://skift.com/2026/09/21/equipment-outage-snarls-air-travel-in-new-york-philadelphia/) — *Skift*
-
-### 5. Airbnb’s Pivot: Inside Its New Push Into Hotels
-
-[原文] It's shaping up to be Airbnb's biggest new business. Hotel operators who've joined are liking the new customer pool so far. But how long can it stay exclusive?
-
-📎 [阅读原文](https://skift.com/2026/09/21/airbnbs-pivot-inside-its-new-push-into-hotels/) — *Skift*
 
 ---
 
