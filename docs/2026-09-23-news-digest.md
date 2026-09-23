@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月23日** | 生成时间: 2026-09-23 05:02
+**2026年09月23日** | 生成时间: 2026-09-23 12:01
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. US to build two military bases in Greenland under new deal with Denmark
+### 1. Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines
+
+[原文] In his address, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Burnham expects to find 'common ground' with Trump in first meeting
+
+[原文] In New York, the prime minister will also deliver a speech to the UN General Assembly expected to be focused on AI.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. US to build two military bases in Greenland under new deal with Denmark
 
 [原文] The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Sri Lanka court convicts 15 men over deadly Easter Sunday bombings
+### 4. How Ceuta, football and Israel are shaping Morocco's election
+
+[原文] Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Sri Lanka court convicts 15 men over deadly Easter Sunday bombings
 
 [原文] Three churches and three luxury hotels were targeted in the 2019 attacks which killed 270.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 3. Developing El Niño becomes strongest on record weeks before expected peak
-
-[原文] Scientists say the developing El Niño is now the strongest on record with weather impacts already being felt around the world.
-
-📎 [阅读原文](https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Ukraine anger as EU removes Russian oligarchs from sanctions list
-
-[原文] Alisher Usmanov and Mikhail Fridman both have close ties to President Putin, and Kyiv said the move sent Moscow the wrong signals.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Eleven injured in shooting outside Turkish school
-
-[原文] Footage appears to show a male in the area carrying a firearm, while officials say the attacker has been captured.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c6y0z4gv0le4o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -60,29 +60,29 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/22/trump-diesel-export-ban-urkaine-russia-iran.html) — *CNBC*
 
-### 2. Trump discloses more than 1,100 July trades, including up to $25 million each in sales of Microsoft, Amazon
+### 2. In photos: Key takeaways from day one of the UN General Assembly
 
-[原文] Trump sold tech stocks including Amazon and Microsoft when the Mag 7 stocks popped on July 20, adding $291 billion in market value in one day.
+[原文] World leaders descended on New York for the annual United Nations General Assembly, where the agenda covers topics from wars to the risks posed by AI.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/22/trump-trades-microsoft-amazon-july-financial-disclosure.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/23/unga-trump-iran-china-greenland-ukraine-russia-.html) — *CNBC*
 
-### 3. Trump administration removes around 760,000 Obamacare enrollments, alleging fraud
+### 3. Oil falls after U.S. and Iran talk for hours at UN meeting
+
+[原文] Oil fell Wednesday, amid hopes of a diplomatic solution to the conflict in the Middle East after Iran and the U.S. had talks.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/23/iran-us-talks-crude-oil-un-wti.html) — *CNBC*
+
+### 4. Trump administration removes around 760,000 Obamacare enrollments, alleging fraud
 
 [原文] Vice President JD Vance's White House Task Force to Eliminate Fraud estimates the action will save roughly $2.2 billion in taxpayer-funded subsidies.
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/22/trump-administration-removes-around-760000-obamacare-enrollments.html) — *CNBC*
 
-### 4. U.S. regulators rush to write crypto rulebook after Clarity Act stalls in Senate
+### 5. South Korean solar stocks jump as curbs on Chinese sector expected to remain in place
 
-[原文] State and federal regulators are rushing to fill the void after comprehensive crypto rules failed to clear the Senate.
+[原文] South Korean solar stocks jumped as U.S. restrictions on Chinese solar products came into focus ahead of the Trump-Xi summit.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/22/clarity-act-crypto-rules-regulators.html) — *CNBC*
-
-### 5. Royal Caribbean nears $3 billion deal to take 50% equity stake in Sandals
-
-[原文] Royal Caribbean has been trying to diversify beyond cruises and become a leader overall in vacations.
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/22/royal-caribbean-sandals.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/23/korean-solar-stocks-jump-as-curbs-on-china-expected-to-stay-in-place.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Qualcomm launches two new smartphone chips with emphasis on AI
+### 1. Discord’s age verification era is upon us, despite community backlash
+
+[原文] According to Discord, 90% of users will not have to verify their age.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/22/discords-age-verification-era-is-upon-us-despite-community-backlash/) — *TechCrunch*
+
+### 2. TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4
+
+[原文] Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/) — *TechCrunch*
+
+### 3. Snorkel AI triples valuation to $3.5B as demand for AI training data booms
+
+[原文] The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/) — *TechCrunch*
+
+### 4. Qualcomm launches two new smartphone chips with emphasis on AI
 
 [原文] Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/) — *TechCrunch*
 
-### 2. Apple could take on Whoop with a new fitness tracker, report says
+### 5. Apple could take on Whoop with a new fitness tracker, report says
 
 [原文] Apple may be developing a new fitness tracker as part of its new generation of hardware devices.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/22/apple-could-take-on-whoop-with-a-new-fitness-tracker-report-says/) — *TechCrunch*
-
-### 3. Meta admits Muse’s likeness to OpenClaw isn’t a coincidence
-
-[原文] Meta says Muse was built from scratch, but acknowledges the AI assistant was "heavily inspired" by OpenClaw — down to some of its workspace filenames and content.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/) — *TechCrunch*
-
-### 4. Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data
-
-[原文] The theft of agents' personal information could present a major counterintelligence threat, where agents and their families are extorted into cooperating with a foreign government.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/) — *TechCrunch*
-
-### 5. a16z is challenging Silicon Valley’s love for drop-outs by launching a school
-
-[原文] This academy for promising high school grads is somewhere between a trade school, Y Combinator, and Peter Thiel's Fellowship Program.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/) — *TechCrunch*
 
 ---
 
@@ -142,23 +142,23 @@
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260922005719.htm) — *Science Daily*
 
-### 3. The end of humanity? What would happen if the Yellowstone supervolcano erupted now
+### 3. One of America’s largest reservoirs just hit a record low
+
+[原文] Lake Powell has fallen to its lowest level on record after an exceptionally dry and warm winter left the Colorado River Basin with little mountain snow to melt. Lake Mead also reached record lows, rai
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260922005701.htm) — *Science Daily*
+
+### 4. The end of humanity? What would happen if the Yellowstone supervolcano erupted now
 
 [原文] A Yellowstone super-eruption would begin not with a sudden surprise, but with weeks of increasingly alarming warning signs such as migrating earthquake swarms, rapid ground uplift, changing geysers, a
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260922005655.htm) — *Science Daily*
 
-### 4. Stem cells reverse stroke damage and restore movement in mice
+### 5. The LHC just ruled out another hiding place for quantum black holes
 
-[原文] Stem cell transplants helped regenerate stroke-damaged brain tissue in mice, producing new neurons and restoring lost motor function. The treatment also improved blood vessels, inflammation, and the b
+[原文] Physicists searching through Large Hadron Collider data found no evidence that the machine has been producing microscopic quantum black holes, but the result sharply narrows where such exotic physics 
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260921081116.htm) — *Science Daily*
-
-### 5. MIT’s tiny flying robot gets 450% faster with AI
-
-[原文] A new AI control system lets MIT’s tiny flying robot move with insect-like agility, boosting its speed by about 450 percent and allowing it to pull off 10 somersaults in 11 seconds. The technology cou
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260921081114.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260922005649.htm) — *Science Daily*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. College Sports Betting Series ‘Knockouts’ in the Works at Paramount TV Studios, Skydance Sports (EXCLUSIVE)
+### 1. Mariska Hargitay Teases Christopher Meloni’s ‘Law & Order: SVU’ Return Ahead of Season 28 Premiere
 
-[原文] In a competitive situation, Paramount Television Studios and Skydance Sports have landed the spec script &#8220;Knockouts&#8221; from writers Clara Nevins and Harper Oreck, Variety has learned exclusi
+[原文] It appears Elliot Stabler and Olivia Benson will reunite once again on “Law &#38; Order: SVU” — at least for an episode. Mariska Hargitay shared two photos of herself and Christopher Meloni on the set
 
-📎 [阅读原文](https://variety.com/2026/tv/news/college-sports-betting-series-knockouts-paramount-1236872545/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/mariska-hargitay-christopher-meloni-law-and-order-reunite-1236872962/) — *Variety*
 
-### 2. Jake Paul’s Betting App Slams HBO After Cease and Desist Letter Sent Over ‘Entourage’ Reunion Ad: HBO ‘Does Not Own Jeremy Piven and Adrian Grenier’ (EXCLUSIVE)
+### 2. Dolly Parton’s Manager Files for Restraining Order Against Fired Nephew, Alleging Ex-Security Head Sent ‘Terrorizing’ Texts and Threatened to ‘Destroy the Entire Brand’
 
-[原文] Jake Paul&#8217;s gambling app Betr has fired back at HBO after the cabler sent a cease-and-desist letter over an ad reuniting &#8220;Entourage&#8221; stars Jeremy Piven and Adrian Grenier. In the let
+[原文] Dolly Parton&#8217;s longtime manager has filed for a restraining order against her nephew, who until being fired a week ago was her head of security, alleging that the family member is engaged in a c
 
-📎 [阅读原文](https://variety.com/2026/tv/news/jake-paul-betting-app-hbo-entourage-cease-and-desist-1236872384/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/dolly-parton-manager-files-restraining-order-fired-nephew-1236872848/) — *Variety*
 
-### 3. ‘Compound’ Uses Security Camera Footage to Show the Violent Downfall of an Off-the-Grid Family, Reflecting America’s Increasing Surveillance State Paranoia
+### 3. Berlinale Title ‘Lali’ to Open Tasveer Film Festival’s 21st Edition (EXCLUSIVE)
 
-[原文] Sometimes films come out at a time that lines up eerily well with real life. As Americans debate the ethics of the nearly ubiquitous Flock cameras that are being placed in neighborhoods all throughout
+[原文] Seattle&#8217;s Tasveer Film Festival &#38; Market has unveiled its 21st edition lineup: 136 films from 16 countries screening Oct. 13-18, opening with Sarmad Sultan Khoosat&#8217;s &#8220;Lali,&#8221
 
-📎 [阅读原文](https://variety.com/2026/film/features/compound-security-footage-violent-off-the-grid-family-1236871940/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/berlinale-lali-tasveer-film-festival-1236871825/) — *Variety*
 
-### 4. ‘Wonder Woman’ Director Patty Jenkins Says Paramount-Warner Bros. Merger Is ‘Such Chaos’: ‘The Studio System Is in Bad Shape’
+### 4. Variety Power Of Women: Los Angeles Event Announces Channing Dungey, Queen Latifah, Lauren Graham, Marc Maron as Presenters
 
-[原文] Patty Jenkins, Halle Berry, Regina King, Misty Copeland and others gathered at downtown Manhattan’s Locanda Verde on Tuesday morning for Tribeca and Chanel’s Through Her Lens luncheon. The timing was 
+[原文] Variety has announced the presenters for this year’s Power of Women event on Wednesday, Sept. 23 in Beverly Hills. The event, in partnership with Lifetime, celebrates the Power of Women honorees, who 
 
-📎 [阅读原文](https://variety.com/2026/film/news/patty-jenkins-on-warner-bros-paramount-merger-chaos-1236872521/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/biz/news/variety-power-of-women-presenters-queen-latifah-marc-maron-1236872812/) — *Variety*
 
-### 5. ‘Crew Girl’ Renewed for Season 2 at Netflix
+### 5. Impact Fund for Global South Creators Launches at Toronto With Focus on Distribution and Audiences (EXCLUSIVE)
 
-[原文] Netflix’s latest YA drama series “Crew Girl” is racing right into Season 2, the streamer announced on Wednesday. “Crew Girl” came out on Sept. 10 and rowed to the top in the Netflix English TV Top 10,
+[原文] A new impact fund backing creators from the Global South launched at the recently concluded first edition of the Toronto Film Festival market, with a model built around getting films in front of audie
 
-📎 [阅读原文](https://variety.com/2026/tv/news/crew-girl-second-season-1236872590/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/impact-fund-global-south-creators-toronto-1236872846/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Grand Theft Auto 6's Miami Takeover Begins as Rockstar Spends Nearly $1 Million on 'Welcome to Vice City' Signage
+### 1. Gears of War: E-Day Story Director Laid Off Just a Week Before Early Access Launch
 
-[原文] Rockstar Games has reportedly spent $1 million to install a "Welcome to Vice City" sign in Miami as part of Grand Theft Auto 6's marketing push.
+[原文] Gears of War: E-Day's story director has been laid off, just one week before the game's early access launch.
 
-📎 [阅读原文](https://www.ign.com/articles/grand-theft-auto-6s-miami-takeover-begins-as-rockstar-spends-nearly-1-million-on-welcome-to-vice-city-signage) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/gears-of-war-e-day-story-director-laid-off-just-a-week-before-early-access-launch) — *IGN*
 
-### 2. I Just Found Out About a Budget-Friendly Hotel Backed by Hilton That More People Should Know About for the 2026 Holiday Season
+### 2. Wolverine's Narrative Director Explains Why Logan Needed to be a Short King in the Game
 
-[原文] The franchise is all about reliable essentials, efficiency and simplicity.
+[原文] Wolverine's narrative director, Walt Williams, opened up about why it was important to him that Logan was made to be significantly shorter than his hulking counterpart, Sabretooth, and why the emotion
 
-📎 [阅读原文](https://www.ign.com/articles/new-budget-friendly-hotel-spark-by-hilton-holiday-travel) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/marvels-wolverine-director-explains-why-logan-needed-to-be-a-short-king-in-the-game) — *IGN*
 
-### 3. The Best Physical Switch Game Deals in Nintendo’s Customer Appreciation Sale
+### 3. Save $1,050 Off the Alienware 16X Aurora RTX 5060 Gaming Laptop During Walmart's GeForce Week Sale
 
-[原文] You can save 30% on a ton of physical Switch games in Nintendo's Customer Appreciation Sale, ending September 26.
+[原文] Features premium all-metal build quality, a gorgeous OLED display, and Intel's most powerful mobile CPU.
 
-📎 [阅读原文](https://www.ign.com/articles/best-physical-switch-game-deals-in-nintendos-customer-appreciation-sale-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/alienware-16x-aurora-gaming-laptop-deal-september-2026-updated) — *IGN*
 
-### 4. Garfield - Escape from Monday Review
+### 4. State of Decay Developer Undead Labs Responds to 'Significant' Layoffs Following Independence from Xbox
 
-[原文] A lackluster 3D platformer that leaves you feline hungry for something better.
+[原文] State of Decay 3 developer Undead Labs has confirmed that it has had to undergo "significant" layoffs following its independence from Xbox.
 
-📎 [阅读原文](https://www.ign.com/articles/garfield-escape-from-monday-review) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/state-of-decay-developer-undead-labs-confirms-significant-layoffs-following-independence-from-xbox) — *IGN*
 
-### 5. Disney Launches New 'Bookcessories' Featuring Iconic Characters From Star Wars and Animated Classics
+### 5. Save 27% Off Kirby Air Riders for the Nintendo Switch 2
 
-暂无摘要。
+[原文] Super Smash Kart World
 
-📎 [阅读原文](https://www.ign.com/articles/disney-launches-new-bookcessories-line-of-products) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/kirby-air-riders-switch-2-game-deal-september-2026-updated) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post Watch This Diesel-Electric Edison Pickup Truck Tow an 8,000-Pound Airst
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Georgia Residents Sue Over OpenAI Data Center
+### 1. Competing Climate Visions Clash at UN General Assembly
+
+[原文] Two divergent worldviews emerged from the first two national addresses on the opening day of the United Nations General Assembly’s 81st session in New York.&#160; Brazil’s president, Luiz Inácio Lula 
+
+📎 [阅读原文](https://insideclimatenews.org/news/22092026/un-general-assembly-opens-with-clashing-climate-views/) — *Inside Climate News*
+
+### 2. Georgia Residents Sue Over OpenAI Data Center
 
 [原文] A $20 billion data center campus announced in July near Rincon, Georgia, is now facing its second lawsuit from Effingham County residents and environmental advocates. OpenAI, best known for creating C
 
 📎 [阅读原文](https://insideclimatenews.org/news/22092026/georgia-residents-sue-over-openai-data-center/) — *Inside Climate News*
 
-### 2. Pennsylvania’s AI Boom Is Repeating Old Patterns of Exploitation
+### 3. Pennsylvania’s AI Boom Is Repeating Old Patterns of Exploitation
 
 [原文] Pennsylvania’s data center industry has promised economic growth and a revival of the state’s industrial strength. But a new report issued Tuesday finds little evidence of job growth and warns that ad
 
 📎 [阅读原文](https://insideclimatenews.org/news/22092026/pennsylvania-ai-boom-environmental-harms/) — *Inside Climate News*
 
-### 3. Could Abandoned Mines House Pennsylvania’s Unwanted Data Centers?
+### 4. Could Abandoned Mines House Pennsylvania’s Unwanted Data Centers?
 
 [原文] Almost nobody wants a data center for a neighbor. Residents fear noise and air pollution, excessive energy and water use and the loss of open land. In Pennsylvania, a hot spot for new data centers, re
 
 📎 [阅读原文](https://insideclimatenews.org/news/22092026/building-data-centers-on-pennsylvania-abandoned-mines/) — *Inside Climate News*
 
-### 4. Federal Judge Rules Against Trump Administration Over Canceled Clean Energy Grants
+### 5. Federal Judge Rules Against Trump Administration Over Canceled Clean Energy Grants
 
 [原文] A federal judge has declared that the Trump administration unlawfully terminated $7 billion in grant funding for clean energy programs in disadvantaged communities. The Solar for All program, establis
 
 📎 [阅读原文](https://insideclimatenews.org/news/21092026/judge-rules-solar-for-all-grant-termination-unlawful/) — *Inside Climate News*
-
-### 5. In New York, Life-Sized American Bison Puppets Inspire Hope for Restoration Efforts
-
-[原文] Standing on Manhattan’s High Line, Jason Baldes watched pedestrians, cyclists, cars and trucks braid their way through New York City. The executive director of the Wind River Tribal Buffalo Initiative
-
-📎 [阅读原文](https://insideclimatenews.org/news/21092026/new-york-bison-puppet-march/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post Watch This Diesel-Electric Edison Pickup Truck Tow an 8,000-Pound Airst
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Man Accused of Murdering ‘American Idol’ Exec and Husband Still Unfit for Trial, Judge Rules
+### 1. Red Hot Chili Peppers, Dave Grohl, Vince Staples Lead Silverlake Conservatory of Music’s 25th Anniversary Show
+
+[原文] The benefit concert takes place at Hollywood Palladium on Oct. 17
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/red-hot-chili-peppers-grohl-silverlake-conservatory-concert-1235630124/) — *Rolling Stone*
+
+### 2. Outkast Sue Rapper Ovrkast for Allegedly Hijacking Its ‘Famous, Extremely Valuable’ Name
+
+[原文] The Atlanta hip-hop duo says rapper agreed to adopt a new name but later backed out of the deal
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/outkast-sues-ovrkast-trademark-infringement-big-boi-andre-1235630184/) — *Rolling Stone*
+
+### 3. Niko Rubio Will Dive Into Heartbreak and Self-Discovery on Debut Album ‘Late Night Swim’
+
+[原文] The LP arrives Oct. 30 and its next single "dream" will be released on Friday
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/niko-rubio-debut-album-late-night-swim-1235630179/) — *Rolling Stone*
+
+### 4. East Bay Ray, Dead Kennedys Guitarist, Diagnosed With Parkinson’s Disease
+
+[原文] "Ray says he plans to continue performing and touring with Dead Kennedys for as long as his health allows," band writes
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/dead-kennedys-east-bay-ray-parkinsons-disease-diagnosis-1235630035/) — *Rolling Stone*
+
+### 5. Man Accused of Murdering ‘American Idol’ Exec and Husband Still Unfit for Trial, Judge Rules
 
 [原文] Raymond Boodarian was ordered to remain in a state hospital under an involuntary medication order after being accused of fatally shooting Robin Kaye and Thomas Deluca in July 2025
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/american-idol-exec-robin-kay-husband-murders-mental-health-1235629886/) — *Rolling Stone*
-
-### 2. Original ‘Rent’ Cast Will Reunite for a Benefit Concert
-
-[原文] Idina Menzel, Adam Pascal, Anthony Rapp, Daphne-Rubin Vega, and others will perform a livestream from Broadway’s Richard Rodgers Theatre
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/rent-original-cast-reunit-benefit-concert-livestream-1235629914/) — *Rolling Stone*
-
-### 3. Taylor Swift Announces New Single ‘Patient Zero’
-
-[原文] “I’ve been impatiently waiting to tell you that my brand new single ‘Patient Zero’ will be out on September 25 (!!!!!!!!!!!!),” the superstar wrote on her social media accounts
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/taylor-swift-new-single-patient-zero-1235629706/) — *Rolling Stone*
-
-### 4. Tupac Shakur Murder Trial Documentary in the Works
-
-[原文] The film will follow the trial of Duane “Keffe D” Davis, who was convicted in the 1996 death of the hip-hop legend
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/tupac-shakur-murder-trial-documentary-in-works-keffe-d-1235629856/) — *Rolling Stone*
-
-### 5. He Was This Close to Fronting Van Halen. He Finally Got to Play Live With a Member
-
-[原文] Thirty years after nearly landing his dream job, watch Mitch Malloy perform “Ain’t Talkin’ ’bout Love” with Michael Anthony
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/van-halen-mitch-malloy-aint-talkin-bout-love-1235629795/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post Watch This Diesel-Electric Edison Pickup Truck Tow an 8,000-Pound Airst
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. That Creator Video Went Viral, the Booking Came Later: How Brands Measure Impact
+### 1. Royal Caribbean Is in Talks for 50% Stake in Sandals Resorts: Reports
+
+[原文] If Royal Caribbean buys half or more of Sandals Resorts, the main prize would be prime Caribbean beachfront. A deal would be a faster route to land-based revenue as it competes with Carnival to provid
+
+📎 [阅读原文](https://skift.com/2026/09/22/royal-caribbean-is-in-talks-for-50-stake-in-sandals-resorts-reports/) — *Skift*
+
+### 2. Why Brand USA Can’t Market the NFL
+
+[原文] Destinations can capitalize on hosting a Super Bowl, World Cup, or Olympics — but DMOs are often constrained to marketing around the event, not through it.
+
+📎 [阅读原文](https://skift.com/2026/09/22/brand-usa-destination-marketing-licensing/) — *Skift*
+
+### 3. ‘The Traveler Comes to Us’: Uber CEO Explains Break-Even Bet on Hotels
+
+[原文] Uber wants to be more than just a rideshare company. Speaking at the Skift Global Forum, Uber CEO Dara Khosrowshahi said the company is expanding into hotels and short-term rental bookings. Flights co
+
+📎 [阅读原文](https://skift.com/2026/09/22/uber-ceo-explains-break-even-bet-on-hotels/) — *Skift*
+
+### 4. That Creator Video Went Viral, the Booking Came Later: How Brands Measure Impact
 
 [原文] The path from online inspiration to booking isn’t linear. Travel brands say measurement is all about "incrementality."
 
 📎 [阅读原文](https://skift.com/2026/09/22/how-travel-measure-content-creator-lift/) — *Skift*
 
-### 2. How Travel Brands Learned to Stop Worrying and Trust Creators
+### 5. How Travel Brands Learned to Stop Worrying and Trust Creators
 
 [原文] Travel brands are letting go of the curated campaigns and heavily produced videos in favor of giving more creative control to creators.
 
 📎 [阅读原文](https://skift.com/2026/09/22/how-travel-brands-learned-to-stop-worrying-and-trust-creators/) — *Skift*
-
-### 3. Sponsored Listings Are Spreading Across Online Travel — Just as AI Agents Threaten to Ignore Them
-
-[原文] Sponsored listings could be significantly disrupted — or they will evolve to account for AI agents.
-
-📎 [阅读原文](https://skift.com/2026/09/22/sponsored-listings-are-spreading-across-online-travel-just-as-ai-agents-threaten-to-ignore-them/) — *Skift*
-
-### 4. The Next Dollar
-
-[原文] Travel measures success by what happens after money gets allocated: arrivals, bookings, room nights, load factors, traveler spending. We’ve built a framework around every decision that leads to those 
-
-📎 [阅读原文](https://skift.com/2026/09/22/the-next-dollar-who-moves-travels-money/) — *Skift*
-
-### 5. The New Skift
-
-[原文] A year ago, we asked what Skift would look like if we started it today. This is the answer: Skift Intelligence, and a company rebuilt around the decisions travel’s leaders have to make.
-
-📎 [阅读原文](https://skift.com/2026/09/22/the-new-skift/) — *Skift*
 
 ---
 
