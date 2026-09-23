@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月23日** | 生成时间: 2026-09-23 12:01
+**2026年09月23日** | 生成时间: 2026-09-23 19:05
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines
+### 1. US and Iran hold first talks since June after Trump's 'annihilation' threat
 
-[原文] In his address, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran.
+[原文] The talks are the first since a ceasefire collapsed in June, with the sides exchanging fire intermittently.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/ck62m1631d7po?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Burnham expects to find 'common ground' with Trump in first meeting
+### 2. Reports of violence against women in Gaza surge, UN agency finds
 
-[原文] In New York, the prime minister will also deliver a speech to the UN General Assembly expected to be focused on AI.
+[原文] The UN Population Fund also says there has been a "severe escalation" in the number of early and forced marriages.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. US to build two military bases in Greenland under new deal with Denmark
+### 3. Eleven killed in mass shooting at house in South Africa
+
+[原文] One of those killed is believed to be a pregnant woman, police said.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. Trump administration accuses banned media outlets of 'falsehoods' ahead of court hearing
+
+[原文] The US Justice Department's response to a lawsuit filed by CNN, Politico and MS NOW also cites national security.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. US to build two military bases in Greenland under new deal with Denmark
 
 [原文] The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. How Ceuta, football and Israel are shaping Morocco's election
-
-[原文] Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Sri Lanka court convicts 15 men over deadly Easter Sunday bombings
-
-[原文] Three churches and three luxury hotels were targeted in the 2019 attacks which killed 270.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump administration is examining whether a diesel export ban is feasible, Treasury Secretary says
+### 1. Trump-Xi summit puts AI safety talks on the table but neither side wants to slow down
 
-[原文] Republican lawmakers have called for an export ban as high diesel prices hit farmers and truckers ahead of the November midterm elections.
+[原文] Recent weeks have seen AI safety fears reach new heights. That will be a key focus for the U.S. and Chinese premiers, analysts told CNBC.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/22/trump-diesel-export-ban-urkaine-russia-iran.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/23/trump-xi-meeting-ai-safety-chips-us-china-dialogue.html) — *CNBC*
 
-### 2. In photos: Key takeaways from day one of the UN General Assembly
+### 2. Iran says Trump’s threats a sign of ‘strategic desperation,’ floats conditions for Hormuz reopening
 
-[原文] World leaders descended on New York for the annual United Nations General Assembly, where the agenda covers topics from wars to the risks posed by AI.
+[原文] Tehran's proposal could pave the way for restoring traffic through the Strait of Hormuz, reviving fragile hopes for a diplomatic off-ramp.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/23/unga-trump-iran-china-greenland-ukraine-russia-.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/23/us-iran-war-trump-hormuz.html) — *CNBC*
 
-### 3. Oil falls after U.S. and Iran talk for hours at UN meeting
+### 3. Texas turning blue may hinge on Democrats harnessing data center opposition
 
-[原文] Oil fell Wednesday, amid hopes of a diplomatic solution to the conflict in the Middle East after Iran and the U.S. had talks.
+[原文] Data center opposition is reshaping Texas' 2026 governor and Senate races as voters raise concerns over power, water and utility costs.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/23/iran-us-talks-crude-oil-un-wti.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/23/texas-data-centers-election.html) — *CNBC*
 
-### 4. Trump administration removes around 760,000 Obamacare enrollments, alleging fraud
+### 4. DOJ defends Trump ban of 3 news outlets, says White House access is a 'privilege — not a right'
 
-[原文] Vice President JD Vance's White House Task Force to Eliminate Fraud estimates the action will save roughly $2.2 billion in taxpayer-funded subsidies.
+[原文] The Department of Justice also argued President Trump was motivated by national security concerns in banning MS NOW, CNN and Politico from the White House.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/22/trump-administration-removes-around-760000-obamacare-enrollments.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/23/trump-white-house-ban-media-doj-cnn-msnow-politico.html) — *CNBC*
 
-### 5. South Korean solar stocks jump as curbs on Chinese sector expected to remain in place
+### 5. AI drone maker hits $6.4 billion valuation as Ukraine war spurs defense tech
 
-[原文] South Korean solar stocks jumped as U.S. restrictions on Chinese solar products came into focus ahead of the Trump-Xi summit.
+[原文] Tekever is one of a number of European defense tech startups raising sizable rounds amid a rearmament campaign from countries in the region.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/23/korean-solar-stocks-jump-as-curbs-on-china-expected-to-stay-in-place.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/23/ai-drone-maker-ukraine-war-defense-tech.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Discord’s age verification era is upon us, despite community backlash
+### 1. ‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI
+
+[原文] Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/) — *TechCrunch*
+
+### 2. Discord’s age verification era is upon us, despite community backlash
 
 [原文] According to Discord, 90% of users will not have to verify their age.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/22/discords-age-verification-era-is-upon-us-despite-community-backlash/) — *TechCrunch*
 
-### 2. TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4
+### 3. TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4
 
 [原文] Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/) — *TechCrunch*
 
-### 3. Snorkel AI triples valuation to $3.5B as demand for AI training data booms
+### 4. Snorkel AI triples valuation to $3.5B as demand for AI training data booms
 
 [原文] The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/) — *TechCrunch*
 
-### 4. Qualcomm launches two new smartphone chips with emphasis on AI
+### 5. Qualcomm launches two new smartphone chips with emphasis on AI
 
 [原文] Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/) — *TechCrunch*
-
-### 5. Apple could take on Whoop with a new fitness tracker, report says
-
-[原文] Apple may be developing a new fitness tracker as part of its new generation of hardware devices.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/22/apple-could-take-on-whoop-with-a-new-fitness-tracker-report-says/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Jacks stars as England grind out win over Sri Lanka
+### 1. Hunting hidden gems - is there anywhere in the world left to scout?
 
-[原文] Will Jacks' all-round efforts help England grind out an 89-run victory over Sri Lanka in the first one-day international at Chester-le-Street.
+[原文] Through live scouting and increasing data and footage, top clubs now have tabs on a large proportion of the world's talent.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/ckvgydn1gvlpo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c6y8zp2v1zl4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. I was close to joining Liverpool in 2016 - Mbappe
+### 2. 'Be comfortable in your own identity' - Agassi's advice to Raducanu
 
-[原文] Kylian Mbappe says his mum was a "big fan" of Jurgen Klopp and wanted her son to move to Merseyside.
+[原文] As Emma Raducanu plots a route back to the pinnacle of tennis, the Briton is taking inspiration from Andre Agassi's 2009 autobiography.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c68042y9l4kno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cwd08m2x93mpo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Pollock left money on table to stay at Saints - Hearn
+### 3. Germany's saviour? How Klopp is looking to turn fortunes around
 
-[原文] Henry Pollock turned down rival offers worth much more than his Northampton extension, which will earn him over £400,000 a year, says adviser Eddie Hearn.
+[原文] As Jurgen Klopp prepares for his first game as Germany manager, BBC Sport looks at how is trying to turn their fortunes around.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-union/articles/ckn8eq99jnevo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cmx2z3n88z77o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Banned British player's £15m lawsuit against WTA dismissed
+### 4. 'It was scary' – Jacks goes from hospital bed to England match-winner
 
-[原文] British player Tara Moore's legal bid for £15m in damages over a doping case which led to her being banned for four years is dismissed.
+[原文] Will Jacks' career-best 50-over figures on Tuesday came shortly after the England all-rounder was rushed into hospital for emergency surgery while on a weekend away.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/c9x2z652v86no?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cv70dy7nw2w3o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Who will start for England at Euro 2028? BBC Sport's predictions
+### 5. Hadjar to stay as Verstappen's Red Bull team-mate for 2027
 
-[原文] As England prepare to face world champions Spain on Saturday, BBC Sport's experts predict who will be starting for the Three Lions at Euro 2028.
+[原文] Frenchman Isack Hadjar is to stay at Red Bull as Max Verstappen's team-mate for the 2027 season.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cm3v41epe3l9o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/cmde0j53zz90o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Mariska Hargitay Teases Christopher Meloni’s ‘Law & Order: SVU’ Return Ahead of Season 28 Premiere
+### 1. ‘You Crazy Thing’ Director Miia Tervo Proves That Everyone Deserves to Be Seen – and That Perfection Is Boring (EXCLUSIVE)
 
-[原文] It appears Elliot Stabler and Olivia Benson will reunite once again on “Law &#38; Order: SVU” — at least for an episode. Mariska Hargitay shared two photos of herself and Christopher Meloni on the set
+[原文] Finnish director Miia Tervo didn’t have to look far for the inspiration for her third feature “You Crazy Thing,” about Aino, a mental health nurse who’s preparing a performance with her patients for a
 
-📎 [阅读原文](https://variety.com/2026/tv/news/mariska-hargitay-christopher-meloni-law-and-order-reunite-1236872962/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/you-crazy-thing-finland-miia-tervo-first-look-exclusive-1236872997/) — *Variety*
 
-### 2. Dolly Parton’s Manager Files for Restraining Order Against Fired Nephew, Alleging Ex-Security Head Sent ‘Terrorizing’ Texts and Threatened to ‘Destroy the Entire Brand’
+### 2. White House Says Trump’s Ban of CNN, MS NOW and Politico Does Not Violate First Amendment: Access ‘Is a Privilege — Not a Right’
 
-[原文] Dolly Parton&#8217;s longtime manager has filed for a restraining order against her nephew, who until being fired a week ago was her head of security, alleging that the family member is engaged in a c
+[原文] White House officials are defending U.S. President Donald Trump&#8217;s ban of CNN, MS NOW and Politico, claiming that it does not violate the First Amendment. A Tuesday court filing obtained by The N
 
-📎 [阅读原文](https://variety.com/2026/music/news/dolly-parton-manager-files-restraining-order-fired-nephew-1236872848/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/politics/news/white-house-defends-trump-cnn-ban-filing-access-privilege-1236873037/) — *Variety*
 
-### 3. Berlinale Title ‘Lali’ to Open Tasveer Film Festival’s 21st Edition (EXCLUSIVE)
+### 3. ‘Ah Girl,’ ‘The Sea Speaks His Name’ to Bookend Jakarta Film Week
 
-[原文] Seattle&#8217;s Tasveer Film Festival &#38; Market has unveiled its 21st edition lineup: 136 films from 16 countries screening Oct. 13-18, opening with Sarmad Sultan Khoosat&#8217;s &#8220;Lali,&#8221
+[原文] Singaporean director Ang Geck Geck Priscilla&#8217;s &#8220;Ah Girl&#8221; will open the sixth Jakarta Film Week, set for Oct. 21–25, and Yosep Anggi Noen&#8217;s &#8220;The Sea Speaks His Name&#8221;
 
-📎 [阅读原文](https://variety.com/2026/film/news/berlinale-lali-tasveer-film-festival-1236871825/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/ah-girl-the-sea-speaks-his-name-jakarta-film-week-1236873054/) — *Variety*
 
-### 4. Variety Power Of Women: Los Angeles Event Announces Channing Dungey, Queen Latifah, Lauren Graham, Marc Maron as Presenters
+### 4. Why the ‘Anomaly’ and ‘Surprise’ of ‘Obsession’ and ‘Backrooms’ Shouldn’t Guide Where the Industry Looks Next
 
-[原文] Variety has announced the presenters for this year’s Power of Women event on Wednesday, Sept. 23 in Beverly Hills. The event, in partnership with Lifetime, celebrates the Power of Women honorees, who 
+[原文] This year&#8217;s back-to-back phenomenon of &#8220;Obsession&#8221; and &#8220;Backrooms,&#8221; two low-budget horrors that have now earned in excess of $900 million globally, sparked a predictable 
 
-📎 [阅读原文](https://variety.com/2026/biz/news/variety-power-of-women-presenters-queen-latifah-marc-maron-1236872812/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/why-obsession-and-backrooms-shouldnt-guide-industry-1236873011/) — *Variety*
 
-### 5. Impact Fund for Global South Creators Launches at Toronto With Focus on Distribution and Audiences (EXCLUSIVE)
+### 5. Oscars: Italy Selects Paolo Strippoli’s Thriller ‘The Spiral’ for International Feature Race
 
-[原文] A new impact fund backing creators from the Global South launched at the recently concluded first edition of the Toronto Film Festival market, with a model built around getting films in front of audie
+[原文] Paolo Strippoli&#8217;s &#8220;The Spiral&#8221; has been designated as Italy&#8217;s candidate in the best international feature film category of the 2027 Academy Awards. The high-concept thriller st
 
-📎 [阅读原文](https://variety.com/2026/film/news/impact-fund-global-south-creators-toronto-1236872846/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/awards/oscars-italy-paolo-strippoli-the-spiral-international-feature-1236871826/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Gears of War: E-Day Story Director Laid Off Just a Week Before Early Access Launch
+### 1. Brothers Season 1 Review
+
+[原文] Brothers Season 1 review: Well, at least Woody and Matthew are having fun together…
+
+📎 [阅读原文](https://www.ign.com/articles/brothers-season-1-review) — *IGN*
+
+### 2. Gears of War: E-Day Story Director Laid Off Just a Week Before Early Access Launch
 
 [原文] Gears of War: E-Day's story director has been laid off, just one week before the game's early access launch.
 
 📎 [阅读原文](https://www.ign.com/articles/gears-of-war-e-day-story-director-laid-off-just-a-week-before-early-access-launch) — *IGN*
 
-### 2. Wolverine's Narrative Director Explains Why Logan Needed to be a Short King in the Game
+### 3. Wolverine's Narrative Director Explains Why Logan Needed to be a Short King in the Game
 
 [原文] Wolverine's narrative director, Walt Williams, opened up about why it was important to him that Logan was made to be significantly shorter than his hulking counterpart, Sabretooth, and why the emotion
 
 📎 [阅读原文](https://www.ign.com/articles/marvels-wolverine-director-explains-why-logan-needed-to-be-a-short-king-in-the-game) — *IGN*
 
-### 3. Save $1,050 Off the Alienware 16X Aurora RTX 5060 Gaming Laptop During Walmart's GeForce Week Sale
+### 4. Save $1,050 Off the Alienware 16X Aurora RTX 5060 Gaming Laptop During Walmart's GeForce Week Sale
 
 [原文] Features premium all-metal build quality, a gorgeous OLED display, and Intel's most powerful mobile CPU.
 
 📎 [阅读原文](https://www.ign.com/articles/alienware-16x-aurora-gaming-laptop-deal-september-2026-updated) — *IGN*
 
-### 4. State of Decay Developer Undead Labs Responds to 'Significant' Layoffs Following Independence from Xbox
+### 5. State of Decay Developer Undead Labs Responds to 'Significant' Layoffs Following Independence from Xbox
 
 [原文] State of Decay 3 developer Undead Labs has confirmed that it has had to undergo "significant" layoffs following its independence from Xbox.
 
 📎 [阅读原文](https://www.ign.com/articles/state-of-decay-developer-undead-labs-confirms-significant-layoffs-following-independence-from-xbox) — *IGN*
-
-### 5. Save 27% Off Kirby Air Riders for the Nintendo Switch 2
-
-[原文] Super Smash Kart World
-
-📎 [阅读原文](https://www.ign.com/articles/kirby-air-riders-switch-2-game-deal-september-2026-updated) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post Watch This Diesel-Electric Edison Pickup Truck Tow an 8,000-Pound Airst
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Competing Climate Visions Clash at UN General Assembly
+### 1. In Rural Pennsylvania, Doctors Confront the Hidden Health Impacts of Environmental Disasters
+
+[原文] In February 2023, George Garrow jumped in his car and hurried to help people impacted by a freight train that had derailed in East Palestine, Ohio.&#160; The crash happened about a quarter-mile west o
+
+📎 [阅读原文](https://insideclimatenews.org/news/23092026/rural-pennsylvania-extreme-weather-public-health-effects/) — *Inside Climate News*
+
+### 2. Competing Climate Visions Clash at UN General Assembly
 
 [原文] Two divergent worldviews emerged from the first two national addresses on the opening day of the United Nations General Assembly’s 81st session in New York.&#160; Brazil’s president, Luiz Inácio Lula 
 
 📎 [阅读原文](https://insideclimatenews.org/news/22092026/un-general-assembly-opens-with-clashing-climate-views/) — *Inside Climate News*
 
-### 2. Georgia Residents Sue Over OpenAI Data Center
+### 3. Georgia Residents Sue Over OpenAI Data Center
 
 [原文] A $20 billion data center campus announced in July near Rincon, Georgia, is now facing its second lawsuit from Effingham County residents and environmental advocates. OpenAI, best known for creating C
 
 📎 [阅读原文](https://insideclimatenews.org/news/22092026/georgia-residents-sue-over-openai-data-center/) — *Inside Climate News*
 
-### 3. Pennsylvania’s AI Boom Is Repeating Old Patterns of Exploitation
+### 4. Pennsylvania’s AI Boom Is Repeating Old Patterns of Exploitation
 
 [原文] Pennsylvania’s data center industry has promised economic growth and a revival of the state’s industrial strength. But a new report issued Tuesday finds little evidence of job growth and warns that ad
 
 📎 [阅读原文](https://insideclimatenews.org/news/22092026/pennsylvania-ai-boom-environmental-harms/) — *Inside Climate News*
 
-### 4. Could Abandoned Mines House Pennsylvania’s Unwanted Data Centers?
+### 5. Could Abandoned Mines House Pennsylvania’s Unwanted Data Centers?
 
 [原文] Almost nobody wants a data center for a neighbor. Residents fear noise and air pollution, excessive energy and water use and the loss of open land. In Pennsylvania, a hot spot for new data centers, re
 
 📎 [阅读原文](https://insideclimatenews.org/news/22092026/building-data-centers-on-pennsylvania-abandoned-mines/) — *Inside Climate News*
-
-### 5. Federal Judge Rules Against Trump Administration Over Canceled Clean Energy Grants
-
-[原文] A federal judge has declared that the Trump administration unlawfully terminated $7 billion in grant funding for clean energy programs in disadvantaged communities. The Solar for All program, establis
-
-📎 [阅读原文](https://insideclimatenews.org/news/21092026/judge-rules-solar-for-all-grant-termination-unlawful/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post Watch This Diesel-Electric Edison Pickup Truck Tow an 8,000-Pound Airst
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Red Hot Chili Peppers, Dave Grohl, Vince Staples Lead Silverlake Conservatory of Music’s 25th Anniversary Show
+### 1. Chvrches Return With Politically-Tinged Single ‘Roses’
+
+[原文] The Glasgow band's last album, Screen Violence, arrived in 2021
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/chvrches-roses-single-music-video-1235630232/) — *Rolling Stone*
+
+### 2. Watch Brandon Flowers Showcase ‘An American Dream’ on ‘Fallon’
+
+[原文] The Killers frontman recently released a country-inspired solo album, Thrasher
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/brandon-flowers-an-american-dream-performance-fallon-1235630227/) — *Rolling Stone*
+
+### 3. Dolly Parton’s Estate Faces Crisis After Nephew Is Fired, Accused of Threats
+
+[原文] In a new court filing, Bryan Seaver is accused of launching an "escalating campaign of threats” to extract money from the Parton estate
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/dolly-parton-estate-restraining-order-nephew-bryan-seaver-1235630186/) — *Rolling Stone*
+
+### 4. Red Hot Chili Peppers, Dave Grohl, Vince Staples Lead Silverlake Conservatory of Music’s 25th Anniversary Show
 
 [原文] The benefit concert takes place at Hollywood Palladium on Oct. 17
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/red-hot-chili-peppers-grohl-silverlake-conservatory-concert-1235630124/) — *Rolling Stone*
 
-### 2. Outkast Sue Rapper Ovrkast for Allegedly Hijacking Its ‘Famous, Extremely Valuable’ Name
+### 5. Outkast Sue Rapper Ovrkast for Allegedly Hijacking Its ‘Famous, Extremely Valuable’ Name
 
 [原文] The Atlanta hip-hop duo says rapper agreed to adopt a new name but later backed out of the deal
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/outkast-sues-ovrkast-trademark-infringement-big-boi-andre-1235630184/) — *Rolling Stone*
-
-### 3. Niko Rubio Will Dive Into Heartbreak and Self-Discovery on Debut Album ‘Late Night Swim’
-
-[原文] The LP arrives Oct. 30 and its next single "dream" will be released on Friday
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/niko-rubio-debut-album-late-night-swim-1235630179/) — *Rolling Stone*
-
-### 4. East Bay Ray, Dead Kennedys Guitarist, Diagnosed With Parkinson’s Disease
-
-[原文] "Ray says he plans to continue performing and touring with Dead Kennedys for as long as his health allows," band writes
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/dead-kennedys-east-bay-ray-parkinsons-disease-diagnosis-1235630035/) — *Rolling Stone*
-
-### 5. Man Accused of Murdering ‘American Idol’ Exec and Husband Still Unfit for Trial, Judge Rules
-
-[原文] Raymond Boodarian was ordered to remain in a state hospital under an involuntary medication order after being accused of fatally shooting Robin Kaye and Thomas Deluca in July 2025
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/american-idol-exec-robin-kay-husband-murders-mental-health-1235629886/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post Watch This Diesel-Electric Edison Pickup Truck Tow an 8,000-Pound Airst
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Royal Caribbean Is in Talks for 50% Stake in Sandals Resorts: Reports
+### 1. As Adani Eyes Airline Entry, India Weighs ‘Pros and Cons’ of Letting Airport Operators Own Carriers
+
+[原文] India wants to break the airline duopoly. It now has to decide whether giving airport operators a seat in the cockpit is the way to do it.
+
+📎 [阅读原文](https://skift.com/2026/09/23/as-adani-eyes-airline-entry-india-weighs-pros-and-cons-of-letting-airport-operators-own-carriers/) — *Skift*
+
+### 2. F1’s Bahrain Shuffle Turns October Into a Southeast Asia Hotel Boom
+
+[原文] Bahrain’s move to Malaysia creates an F1 doubleheader with Singapore — and a chance for hotels to turn two race weekends into one regional travel surge.
+
+📎 [阅读原文](https://skift.com/2026/09/23/f1s-bahrain-shuffle-turns-october-into-a-southeast-asia-hotel-boom/) — *Skift*
+
+### 3. Sri Lanka Wants 3 Million Tourists. It’s More Interested in What They Spend
+
+[原文] Sri Lanka wants more tourists, of course. But these days, it is keeping a close eye on not just how many arrive, but what they are worth beyond the arrival count.
+
+📎 [阅读原文](https://skift.com/2026/09/23/sri-lanka-wants-3-million-tourists-its-more-interested-in-what-they-spend/) — *Skift*
+
+### 4. Royal Caribbean Is in Talks for 50% Stake in Sandals Resorts: Reports
 
 [原文] If Royal Caribbean buys half or more of Sandals Resorts, the main prize would be prime Caribbean beachfront. A deal would be a faster route to land-based revenue as it competes with Carnival to provid
 
 📎 [阅读原文](https://skift.com/2026/09/22/royal-caribbean-is-in-talks-for-50-stake-in-sandals-resorts-reports/) — *Skift*
 
-### 2. Why Brand USA Can’t Market the NFL
+### 5. Why Brand USA Can’t Market the NFL
 
 [原文] Destinations can capitalize on hosting a Super Bowl, World Cup, or Olympics — but DMOs are often constrained to marketing around the event, not through it.
 
 📎 [阅读原文](https://skift.com/2026/09/22/brand-usa-destination-marketing-licensing/) — *Skift*
-
-### 3. ‘The Traveler Comes to Us’: Uber CEO Explains Break-Even Bet on Hotels
-
-[原文] Uber wants to be more than just a rideshare company. Speaking at the Skift Global Forum, Uber CEO Dara Khosrowshahi said the company is expanding into hotels and short-term rental bookings. Flights co
-
-📎 [阅读原文](https://skift.com/2026/09/22/uber-ceo-explains-break-even-bet-on-hotels/) — *Skift*
-
-### 4. That Creator Video Went Viral, the Booking Came Later: How Brands Measure Impact
-
-[原文] The path from online inspiration to booking isn’t linear. Travel brands say measurement is all about "incrementality."
-
-📎 [阅读原文](https://skift.com/2026/09/22/how-travel-measure-content-creator-lift/) — *Skift*
-
-### 5. How Travel Brands Learned to Stop Worrying and Trust Creators
-
-[原文] Travel brands are letting go of the curated campaigns and heavily produced videos in favor of giving more creative control to creators.
-
-📎 [阅读原文](https://skift.com/2026/09/22/how-travel-brands-learned-to-stop-worrying-and-trust-creators/) — *Skift*
 
 ---
 
