@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月25日** | 生成时间: 2026-09-25 00:47
+**2026年09月25日** | 生成时间: 2026-09-25 05:18
 
 ---
 
@@ -12,7 +12,7 @@
 
 ## 🌍 国际政治
 
-> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: f61bc1d8-948b-4e2e-9a3f-836b7e08e）
+> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 63f0e2e2-ebc0-48c4-bfd8-9e51ce159）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -22,111 +22,111 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Rogue OpenAI agent 'infiltrated' Australian government website in world first
+### 2. Why Australia chose the world's biggest political stage to reveal OpenAI hack
 
-[原文] Australia criticised OpenAI for taking "too long" to tell them about the breach which happened in June.
+[原文] Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?
+### 3. Four civilians killed in Pakistani strikes in Afghanistan, Taliban says
 
-[原文] News that an automated AI agent hacked a government IT system raises big questions about regulating the tech.
+[原文] Pakistan says it struck 10 targets, adding the strikes were "strictly limited to identified military objectives".
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat
+### 4. Priest killed and four injured in knife attack at Polish abbey
 
-[原文] The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.
+[原文] A male suspect from Ukraine was arrested after the stabbings in the town of Jarosław, police say.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Ethiopia's army says it has repelled attacks in first comment on fresh fighting
+### 5. Italy ministers agree to ban burqa and niqab in school and cap foreigners in class
 
-[原文] The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war.
+[原文] Prime Minister Giorgia Meloni described the measures as "common-sense tools that do not divide but really help to integrate".
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
 ## 💰 经济财经
 
-> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 31e94b27-0261-4fbb-80f1-bdc539444）
+> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: b749f3e9-6f20-4bfd-8ee7-ba68850b2）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. 30-year Treasury yield hits highest level since 2004 as bond market rout continues
+### 1. Senate narrowly votes down resolution calling for end to Iran war
 
-[原文] U.S. Treasury yields continued their upward momentum after hitting a 19-year high on Wednesday.
+[原文] The vote came weeks before the midterm election, where President Donald Trump's fellow Republicans are trying to retain their majorities in Congress.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/24/us-treasury-yields-bonds-fed-inflation.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/24/iran-war-powers-senate-vote-fuel.html) — *CNBC*
 
-### 2. Oracle sends 'force majeure' notice about data center project — stock sinks 5%
+### 2. Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed
 
-[原文] Oracle is reportedly looking to delay payment on Project Jupiter if it the data center fails to come online in 2028
+[原文] Markets expect the central bank will take a firmer hand on inflation. It's not that easy.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/24/surging-treasury-yields-are-posing-a-brand-new-problem-for-kevin-warsh-and-the-fed.html) — *CNBC*
+
+### 3. History shows financial calamities occur when rates rise rapidly like this: 'Something always breaks'
+
+[原文] The 10-year Treasury note yield is spiking to levels not seen in years, and that may be a bad omen for financial markets.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/24/history-shows-financial-calamities-occur-when-rates-rise-rapidly-like-this-something-always-breaks.html) — *CNBC*
+
+### 4. Pete Hegseth reports at least $3.1 million in cash, investments and bitcoin
+
+[原文] Defense Secretary Pete Hegseth reported at least $3.1 million in assets as he faces an impeachment push in Congress over his handling of the Iran war.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/24/pete-hegseth-financial-disclosure-cash-investments-bitcoin.html) — *CNBC*
+
+### 5. Oracle sends 'force majeure' notice about data center project — stock drops 3%
+
+[原文] Oracle is reportedly looking to delay payment on Project Jupiter if the data center fails to come online in 2028
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/24/oracle-data-center-force-majeure.html) — *CNBC*
-
-### 3. Analysis: Higher Treasury yields deliver a reality check on a hot, inflation-prone economy
-
-[原文] Elevated Treasury yields will complicate both Federal Reserve policy and Treasury financing.
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/24/treasury-yields-warsh-bessent-fed-national-debt-analysis.html) — *CNBC*
-
-### 4. Big business warns Trump against diesel export ban in joint letter
-
-[原文] The national average for a gallon of diesel reached $6.51 on Thursday, nearly $3 more than the same period a year ago, according to data from AAA.
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/24/chamber-commerce-business-roundtable-trump-diesel-export-ban-iran-war.html) — *CNBC*
-
-### 5. New York sues Polymarket U.S., two months after filing lawsuit against Kalshi
-
-[原文] State attorney general Letitia James claims Polymarket has violated the state's gambling laws.
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/24/new-york-sues-polymarket-us-two-months-after-filing-suit-against-kalshi-.html) — *CNBC*
 
 ---
 
 ## 💻 科技
 
-> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: bc20db25-5537-4662-9fe7-d83978041）
+> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: cad05211-6bdb-477c-867c-b6d278a57）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. TechCrunch Founder Summit 2026: Everything you need to know
+### 1. Nexterity wants to automate the hard, dangerous part of pipefitting
 
-[原文] TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and 
+[原文] The startup's robot can tighten or loosen four bolts at a time, and it fits in a Pelican case.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/) — *TechCrunch*
 
-### 2. Twenty minutes with the CEO of ElevenLabs, now reportedly valued at $22 billion
+### 2. Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass
 
-[原文] ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until getting a machine is wh
+[原文] Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/) — *TechCrunch*
 
-### 3. Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026
+### 3. PrismML brings its tiny LLMs to Qualcomm-powered smart glasses
 
-[原文] Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-
+[原文] Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/) — *TechCrunch*
 
-### 4. Google tests letting Gemini call businesses for you
+### 4. Meet Feather, the startup building the ‘Android of robotics’ for developers
 
-[原文] Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription.
+[原文] Feather is betting on a customizable, $30,000 platform built for software developers.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/) — *TechCrunch*
 
-### 5. Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026
+### 5. Oracle sends force majeure notice on its New Mexico Stargate data center
 
-[原文] Leaders from Waabi, Shield AI, and General Motors join the Real World AI Stage at TechCrunch Disrupt 2026 to talk building AI. Save up to $200 by September 25 at 11:59 p.m. PT. Get a second pass at 50
+[原文] The notice would allow Oracle to delay payments should the facility miss its 2028 target to come online.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/) — *TechCrunch*
 
 ---
 
 ## 🔬 科学
 
-> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 99501923-c7ed-45f6-af6c-101446c44）
+> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: f319e8b9-dcad-4d8f-bf08-7da3bbb21）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -164,83 +164,83 @@
 
 ## ⚽ 体育
 
-> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: b3608479-dc2f-454c-9d2d-f5c64f03c）
+> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 3bb736bf-1251-4b00-8dd6-3e22a10ab）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Drinking at football matches - would fans welcome it?
+### 1. Buttler injury halts England as Sri Lanka level series
+
+[原文] Jos Buttler's bravery comes in vain as Sri Lanka fight back to beat England in the second one-day international at Headingley and set up a series decider at The Oval.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cw804nd022elo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. Drinking at football matches - would fans welcome it?
 
 [原文] Andy Burnham has long championed a repeal of the ban which prevents football supporters from drinking alcohol in the view of the pitch. But do fans even want it?
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cq1kx140gwlzo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Fury v Joshua announced for 11 December in Cardiff
+### 3. The compromises and power struggles that shaped Fury-Joshua
 
-[原文] Cardiff's Principality Stadium will host Anthony Joshua and Tyson Fury's all-British heavyweight fight on 11 December.
+[原文] BBC Sport takes a look at the compromises, power struggles and competing interests behind Tyson Fury v Anthony Joshua.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/articles/c89n188d53no?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/articles/c65y74pjl0w4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Ex-England striker Carroll reveals he was sexually assaulted in 2021
+### 4. Ex-England striker Carroll reveals he was sexually assaulted in 2021
 
 [原文] Former England striker Andy Carroll reveals he was sexually assaulted in 2021, by a man who has subsequently been jailed for three years.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c6grv7x544qro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. How Man City overhauled their squad from a 650,000-strong database
+### 5. How PSG's Ballon d'Or duo are pushing each other on
 
-[原文] BBC Sport goes inside Manchester City's data team, who have been a key part of their rebuild over the past 18 months.
+[原文] While there can only be one winner, team-mates Ousmane Dembele and Khvicha Kvaratskhelia are backing each other to win the Ballon d'Or.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cm1wx51gyly5o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. McLaren miles off pace in Baku practice - Norris
-
-[原文] Lando Norris says McLaren were "miles off" the pace after the first day's practice at the Azerbaijan Grand Prix.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/cmwyzqn4w20qo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c3qjk1qd1wx0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
 ## 🎬 娱乐
 
-> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: dae286bb-15e7-4372-b5fd-d3b42a35e）
+> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 043078ce-39b4-4ebc-93b4-fafd56e4f）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘Musk’ Trailer: Alex Gibney Dissects the Legacy of the World’s Richest Man in Sprawling Documentary
+### 1. Jay Pharoah, Cheri Oteri, Adam Devine Among ‘Universal Basic Guys’ Season 3 Guest Stars (EXCLUSIVE)
 
-[原文] Bleecker Street has released the trailer for “Musk,” Alex Gibney’s new documentary about the world’s richest man, tech mogul Elon Musk. “Musk” premiered out of competition at the 83rd Venice Internati
+[原文] “Saturday Night Live” alums Jay Pharoah and Cheri Oteri, as well as “Workaholics” star Adam Devine, are among the guest stars set to appear on the upcoming Season 3 of Fox&#8217;s animated series “Uni
 
-📎 [阅读原文](https://variety.com/2026/film/news/musk-trailer-documentary-elon-1236873861/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/universal-basic-guys-season-3-guest-stars-jay-pharoah-more-1236874002/) — *Variety*
 
-### 2. Deacon Phillippe on His Feature Film Acting Debut and Parents Reese Witherspoon and Ryan Phillippe: ‘I Acknowledge That I’m Extremely Lucky’
+### 2. ‘Quiz From God’: Japanese Remake of CJ ENM K-Drama, Starring Mamiya Shotaro, Sets Global Prime Video Launch (EXCLUSIVE)
 
-[原文] Deacon Phillippe insists he wasn’t going to rely on his Hollywood genes — his parents are Reese Witherspoon and Ryan Phillippe — to make it in Hollywood. So much so that the 24-year-old aspiring music
+[原文] Mamiya Shotaro leads a Japanese remake of CJ ENM&#8217;s Korean hit drama &#8220;Quiz From God,&#8221; which will stream exclusively on Prime Video from Dec. 4. The Prime Original series casts Mamiya 
 
-📎 [阅读原文](https://variety.com/2026/film/columns/deacon-phillippe-acting-debut-parents-reese-witherspoon-ryan-phillippe-1236872626/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/quiz-from-god-japanese-remake-prime-video-release-date-1236873267/) — *Variety*
 
-### 3. U2’s First Album in Nine Years, ‘Carnaval De Luz,’ Will Feature a Dolly Parton Duet With Bono, Said to Be Her Last Recorded Vocal
+### 3. Variety Power of Women: Industry Leaders Mingle With Stars to Celebrate Female Empowerment and Philanthropy
 
-[原文] For anyone waiting for years to get a U2 album again, it might have seemed as if the band was, you know, running to stand still. But the day is at hand, as the group&#8217;s first full-length recordin
+[原文] A packed lineup of talent and industry executives stepped out for Variety’s Power of Women event at the Beverly Hills Hotel on Wednesday night. Making the rounds at cocktails and inside the ballroom w
 
-📎 [阅读原文](https://variety.com/2026/music/news/u2-album-carnaval-de-luz-dolly-parton-duet-1236874546/) — *Variety*
+📎 [阅读原文](https://variety.com/lists/variety-power-of-women-stassi-schroeder-executive-gallery/) — *Variety*
 
-### 4. Netflix’s Animated Drama ‘In Waves’ Opens the American French Film Festival, TV Competition Set
+### 4. ‘Avengers: Endgame Encore’ Adds 4 New Scenes Tying to ‘Doomsday’: [SPOILER] Fights Doctor Doom, [SPOILER] Travels to the Past and the Multiverse Collapses
 
-[原文] Animated feature “In Waves,” directed by Phuong Mai Nguyen, opens the American French Film Festival Nov. 3 as the fest celebrates its 30th anniversary.“In Waves” made its debut at the Cannes Film Fest
+[原文] SPOILER ALERT: This article contains spoilers for &#8220;Avengers: Endgame Encore,&#8221; now playing in theaters. In the lead-up to &#8220;Avengers: Doomsday,&#8221; Marvel has re-released &#8220;Ave
 
-📎 [阅读原文](https://variety.com/2026/film/news/netflix-in-waves-american-french-film-festival-1236873826/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/avengers-endgame-encore-new-scenes-doctor-doom-hulk-loki-1236873843/) — *Variety*
 
-### 5. ‘The Graham Norton Show,’ With Its Taylor Swift-Fueled Momentum, Lands Two-Year Pickup at BBC America and AMC Global Media Streamers (EXCLUSIVE)
+### 5. Letterboxd Suitors Include A24 and New York Times; Sale Could Value Social Movie Platform at $300 Million: Report
 
-[原文] Graham Norton’s couch is staying put on this side of the pond. As the U.K.-based host’s long-running talker “The Graham Norton Show” returns for its Season 34 premiere next week, the show’s U.S. distr
+[原文] A bidding war may be in full flower for Letterboxd, the popular film-reviews and social service that has been fielding inbound acquisition offers for several months. Indie studio A24 and the New York 
 
-📎 [阅读原文](https://variety.com/2026/tv/news/graham-norton-show-two-year-pickup-bbc-america-amc-1236874351/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/letterboxd-a24-ny-times-acquisition-talks-300-million-1236874957/) — *Variety*
 
 ---
 
 ## 🏥 健康
 
-> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 62445327-34f2-40ef-b300-2877bb40f）
+> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: d6b31eb8-af16-45a2-9dbe-629346eab）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -278,88 +278,88 @@
 
 ## 🎮 游戏
 
-> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: a40db72a-1b0a-47b1-9d0c-6572d54ca）
+> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 97d5f9e0-12f1-4c3c-bc5a-704e61448）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. World of Warcraft: Forever Is Getting Heavy Rain — Here's How It Looks
+### 1. Robert Pattinson Casts Doubt on a Crossover Between His Batman and James Gunn's Superman
 
-[原文] World of Warcraft: Forever is currently in beta, but Blizzard plans to update it ahead of the full game’s release. Coming soon: heavy rain.
+[原文] Robert Pattinson has trouble imagining a universe where his Batman and James Gunn's Superman could co-exist, casting doubt on a potential crossover.
 
-📎 [阅读原文](https://www.ign.com/articles/world-of-warcraft-forever-is-getting-heavy-rain-heres-how-it-looks) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/robert-pattinson-casts-doubt-on-a-crossover-between-his-batman-and-james-gunns-superman) — *IGN*
 
-### 2. 'One of the Very Few Games I'm Going to Be Buying': Control Resonant Has Leaked, But There's a Push Among Some Pirates to Pay For It Anyway
+### 2. Spider-Man's Jacob Batalon Explains What Destin Daniel Cretton Likes Most About Naruto and Why Team 7 Could Be the Movie's Focus
 
-[原文] Video game pirates appear to be making a rare effort to pay for Control Resonant, in order to support its developer Remedy.
+[原文] Jacob Batalon shed some light on what Brand New Day director Destin Daniel Cretton likes most about Naruto, giving fans a tentative idea of the direction his live-action adaptation of the iconic anime
 
-📎 [阅读原文](https://www.ign.com/articles/one-of-the-very-few-games-im-going-to-be-buying-control-resonant-has-leaked-but-theres-a-push-among-some-pirates-to-pay-for-it-anyway) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/spider-mans-jacob-batalon-explains-what-destin-daniel-cretton-likes-most-about-naruto-and-why-team-7-could-be-the-movies-focus) — *IGN*
 
-### 3. The Witcher 3: Wild Hunt – Remastered Global Release Times Confirmed by CD Projekt
+### 3. The Back to the Future 4K Blu-ray Trilogy Drops to It's Lowest Price Ever at Gruv
 
-[原文] CD Projekt has confirmed the global release times for The Witcher 3: Wild Hunt – Remastered. Here's when you can play in your region.
+暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/the-witcher-3-wild-hunt-remastered-global-release-times-confirmed-by-cd-projekt) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/the-back-to-the-future-4k-blu-ray-trilogy-drops-to-its-lowest-price-ever-at-gruv) — *IGN*
 
-### 4. Microsoft Culled Age of Empires Studio Before Handing It Over to Activision, With Nearly Half of All Staff Gone
+### 4. The Talix 20,000mAh 190W Power Bank Drops to Just $29.99 Ahead of Amazon Prime Day
 
-[原文] Age of Empires studio World's Edge lost almost half of all employees this week, as part of Microsoft's latest round of brutal job losses.
+[原文] Can fast charge the 2026 Apple MacBook Pro 16" M5, ASUS ROG Xbox Ally X20, and more.
 
-📎 [阅读原文](https://www.ign.com/articles/microsoft-culled-age-of-empires-studio-before-handing-it-over-to-activision-with-nearly-half-of-all-staff-gone) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/talix-20000mah-190w-power-bank-deal-september-2026) — *IGN*
 
-### 5. New Report Sheds Light on What Will — and Won't — Return to Destiny 2 When Bungie Adds Back Vaulted Content
+### 5. Bungie Finally Details Radical Changes for Marathon
 
-[原文] Bungie will freely return vaulted content it previously stripped from Destiny 2, but is unlikely to include everything fans were once able to play.
+[原文] It's no secret that Marathon has had a rough time since launching in March 2026, but Bungie is hard at work on new game modes that it's hoping will breathe new life into the game.
 
-📎 [阅读原文](https://www.ign.com/articles/new-report-sheds-light-on-what-will-and-wont-return-to-destiny-2-when-bungie-adds-back-vaulted-content) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/bungie-finally-details-radical-changes-for-marathon) — *IGN*
 
 ---
 
 ## 🚗 汽车
 
-> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 1d2d2010-2857-414b-a40e-cf01d76c9）
+> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 7ab84a2b-9ee4-4eaf-8b97-19953e8f2）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. eBay Says ‘No More Buying or Selling Airbags on eBay’
+### 1. NASCAR Icon Darrell Waltrip Retires From Public Life Due to Brain Disease
+
+[原文] Waltrip was diagnosed with Frontotemporal Degeneration, or FTD, likely stemming from driving injuries.
+The post NASCAR Icon Darrell Waltrip Retires From Public Life Due to Brain Disease appeared first
+
+📎 [阅读原文](https://www.thedrive.com/news/nascar-icon-darrell-waltrip-retires-from-public-life-due-to-brain-disease) — *The Drive*
+
+### 2. Accidental Gymkhana: Cadillac F1 Test Driver Herta Pulls Off 150-MPH Save of a Lifetime
+
+[原文] The American F1 hopeful may not be having a good season in F2 so far, but it certainly isn't due to a lack of skill.
+The post Accidental Gymkhana: Cadillac F1 Test Driver Herta Pulls Off 150-MPH Save 
+
+📎 [阅读原文](https://www.thedrive.com/news/accidental-gymkhana-cadillac-f1-test-driver-herta-pulls-off-150-mph-save-of-a-lifetime) — *The Drive*
+
+### 3. Reality Check: Leno’s Law Won’t Really Save Old Cars from California Emissions Tests
+
+[原文] The new law is being hailed as a landmark victory that will keep classic cars on the road longer. But it doesn't actually fix the systemic issues with the state's emissions testing rules.
+The post Rea
+
+📎 [阅读原文](https://www.thedrive.com/news/smog-testing-in-california-is-broken-lenos-law-wont-fix-it) — *The Drive*
+
+### 4. eBay Says ‘No More Buying or Selling Airbags on eBay’
 
 [原文] Starting Thursday, individuals and companies may not list airbags or airbag inflators for sale on eBay—and it's definitely for the best.
 The post eBay Says ‘No More Buying or Selling Airbags on eBay’ 
 
 📎 [阅读原文](https://www.thedrive.com/news/ebay-says-no-more-buying-or-selling-airbags-on-ebay) — *The Drive*
 
-### 2. VW ID. Buzz Taking Another Year Off After Stumbling Start: TDS
+### 5. VW ID. Buzz Taking Another Year Off After Stumbling Start: TDS
 
 [原文] Volkswagen's funky electric van was one of the most anticipated new vehicles in years. But these days, it's still struggling to find its people.
 The post VW ID. Buzz Taking Another Year Off After Stum
 
 📎 [阅读原文](https://www.thedrive.com/news/vw-id-buzz-taking-another-year-off-after-stumbling-start-tds) — *The Drive*
 
-### 3. GM’s New 8.3L Diesel Borrows Something Crucial From the Canceled ‘Baby Duramax’
-
-[原文] GM almost revolutionized pickups in the late 2000s with a high-tech Duramax diesel. It was eventually canceled due to the recession, but part of it still lives on in the new 8.3-liter "Mongoose."
-The 
-
-📎 [阅读原文](https://www.thedrive.com/news/gms-new-8-3l-diesel-borrows-something-crucial-from-the-canceled-baby-duramax) — *The Drive*
-
-### 4. Car Physics Playground BeamNG.drive Crashes Onto PS5 October 19
-
-[原文] For years, PC gamers have wreaked automotive havoc in BeamNG.drive. Next month, PlayStation players will finally be able to get in on the carnage.
-The post Car Physics Playground BeamNG.drive Crashes 
-
-📎 [阅读原文](https://www.thedrive.com/news/car-physics-playground-beamng-drive-crashes-onto-ps5-october-19) — *The Drive*
-
-### 5. 2026 Dodge Charger Scat Pack Sixpack Review: This Reboot Is Off to a Poor Start
-
-[原文] The Dodge Charger Scat Pack is trying to stir enthusiasts' souls with six cylinders, but the faithful are angry and want a V8.
-The post 2026 Dodge Charger Scat Pack Sixpack Review: This Reboot Is Off 
-
-📎 [阅读原文](https://www.thedrive.com/car-reviews/2026-dodge-charger-scat-pack-review) — *The Drive*
-
 ---
 
 ## 🌱 环境
 
-> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 02a9a46e-2572-4671-8a8d-73293746a）
+> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 1ada2535-5acd-42d5-9825-3779f3a17）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -397,7 +397,7 @@ The post 2026 Dodge Charger Scat Pack Sixpack Review: This Reboot Is Off
 
 ## 📚 教育
 
-> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 7c2d9a96-1e67-4cdd-9a66-3e80f2764）
+> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: fbc79fb5-7677-47a7-a15f-4f53743fd）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -435,77 +435,77 @@ The post 2026 Dodge Charger Scat Pack Sixpack Review: This Reboot Is Off
 
 ## 🎵 音乐
 
-> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 803611de-d0b0-45e5-bac6-31e37a156）
+> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 873de015-9a21-4801-8a96-17ee05699）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. See Ozzy Osbourne’s Fans Serenade Emotional Singer in ‘Back to the Beginning’ Trailer
+### 1. Judge Poised to Slash $12.9 Million Jury Award in Chris Brown Dog Mauling Case
 
-[原文] Concert film for Osbourne's farewell show arrives in theaters on October 28
+[原文] A California judge signaled Thursday that he was inclined to reduce the award to about $8 million unless the housekeeper who was attacked opts for a new trial instead
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/chris-brown-dog-mauling-jury-award-judge-housekeeper-1235631039/) — *Rolling Stone*
+
+### 2. Morphine Dust Off Archival Recordings, Add New Baritone Sax Parts for ‘Cocoon’
+
+[原文] Title song from eight-track album, recorded a year before frontman Mark Sandman’s death, streaming now
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/morphine-cocoon-archival-album-1235630979/) — *Rolling Stone*
+
+### 3. See Ozzy Osbourne’s Fans Serenade Emotional Singer in ‘Back to the Beginning’ Trailer
+
+[原文] Concert film for Osbourne’s farewell show arrives in theaters on October 28
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/ozzy-osbourne-back-to-the-beginning-trailer-watch-1235630989/) — *Rolling Stone*
 
-### 2. Inside Dolly Parton’s Final Recording — A Duet With Bono on the New U2 Album
+### 4. Inside Dolly Parton’s Final Recording — A Duet With Bono on the New U2 Album
 
 [原文] “She got out of her bed to sing this song,” Bono tells Rolling Stone
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/dolly-parton-final-recording-bono-u2-torn-interview-1235630774/) — *Rolling Stone*
 
-### 3. U2 Announce New Album, ‘Carnaval de Luz,’ Out Nov. 13
+### 5. U2 Announce New Album, ‘Carnaval de Luz,’ Out Nov. 13
 
 [原文] The band also releases a new single, the punk ranger “Silencio,” and reveals that the album features Dolly Parton’s final vocal performance
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/u2-new-album-carnaval-de-luz-interview-1235630567/) — *Rolling Stone*
 
-### 4. Macklemore Sets ‘Free Palestine’ Tour Now That His Schedule ‘Freed Up a Bit’
-
-[原文] "What happened to me is bigger than one artist or one stage," rapper says of booking tour to raise funds for Palestinian people
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/macklemore-europe-tour-1235630986/) — *Rolling Stone*
-
-### 5. Tori Amos to Release Second Children’s Book ‘A Sorta Fairytale’
-
-[原文] “I knew there were still stories calling to me, especially from the creatures who helped shape that world,” musician says of follow-up to Tori and the Muses
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/tori-amos-new-childrens-book-a-sorta-fairytale-1235630406/) — *Rolling Stone*
-
 ---
 
 ## ✈️ 旅游
 
-> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: a5d5174d-53f3-47fd-82fa-e832a12e6）
+> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 3ff8b699-a128-48e5-ab61-b80a89768）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. What Hyatt’s CEO Learned by Owning Hotels — and the Trend He’s Most Excited About
+### 1. Creating Value for Travelers and Investing in the Future
+
+[原文] Every travel company with a direct channel faces the same question when a new platform gains traction quickly: join it and risk losing control, or stay off it and risk being left out.
+
+📎 [阅读原文](https://skift.com/2026/09/24/creating-value-for-travelers-and-investing-in-the-future/) — *Skift*
+
+### 2. What Hyatt’s CEO Learned by Owning Hotels — and the Trend He’s Most Excited About
 
 [原文] For most of its history, Hyatt owned its own hotels. Its CEO says that experience never left the company.
 
 📎 [阅读原文](https://skift.com/2026/09/24/what-hyatts-ceo-learned-by-owning-hotels-and-the-trend-hes-most-excited-about/) — *Skift*
 
-### 2. Decoding the New Premium Traveler
+### 3. Decoding the New Premium Traveler
 
 [原文] Every travel company with a premium product is deciding whether the next generation of high-value customers looks like the last one.
 
 📎 [阅读原文](https://skift.com/2026/09/24/skift-global-forum-decoding-the-new-premium-traveler/) — *Skift*
 
-### 3. Virgin Atlantic CEO: Don’t Make Customers Pay More for SAF Without the Environmental Benefit
+### 4. Virgin Atlantic CEO: Don’t Make Customers Pay More for SAF Without the Environmental Benefit
 
 [原文] Virgin Atlantic CEO Corneel Koster said more progress needs to be made on scaling SAF, which has faced severe supply chain bottlenecks.
 
 📎 [阅读原文](https://skift.com/2026/09/24/virgin-atlantic-ceo-calls-for-more-progress-on-saf/) — *Skift*
 
-### 4. Building Integrated Systems Before the Next Disruption
+### 5. Building Integrated Systems Before the Next Disruption
 
 [原文] When something goes wrong, every travel company learns what's within and out of its control. Most travel companies can't replicate Qatar Airways’ ownership structure, so the question is how to pinpoin
 
 📎 [阅读原文](https://skift.com/2026/09/24/building-integrated-systems-before-the-next-disruption/) — *Skift*
-
-### 5. Revolution’s Steve Case and Certares’ Greg O’Hara Are Betting on Scarce Travel Assets
-
-[原文] The man who taught America to log on to the internet is going long on the offline world. And the man who is selling Amex GBT in a $6.3 billion deal talks about where he sees his next opportunities.
-
-📎 [阅读原文](https://skift.com/2026/09/24/revolutions-steve-case-and-certares-greg-ohara-are-betting-on-scarce-travel-assets/) — *Skift*
 
 ---
 
