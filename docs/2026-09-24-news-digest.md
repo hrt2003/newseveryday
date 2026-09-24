@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月24日** | 生成时间: 2026-09-24 05:18
+**2026年09月24日** | 生成时间: 2026-09-24 11:56
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Iran's president tells Trump it will never 'bend the knee'
+### 1. OpenAI agent 'infiltrated' Australian government website, PM says
+
+[原文] Albanese said he expressed "concern" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. AI superpower ambitions take centre stage as Trump and Xi meet
+
+[原文] The US and China are vying for AI supremacy while seeking to keep it under human control.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. Iran's president tells Trump it will never 'bend the knee'
 
 [原文] Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to "annihilate" Iran if a peace deal is not agreed soon.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war
+### 4. Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war
 
 [原文] The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction
+### 5. Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction
 
 [原文] The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. White House rolling out red carpet for historic Xi Jinping visit
-
-[原文] Trump and Xi are expected to discuss a range of issues from trade to AI during the latter's multi-day visit to Washington.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c6n9w410v3vzo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Dramatic eviction of woman aged 87 highlights Spain's housing shortage
-
-[原文] The tenant of the flat in Madrid, Maricarmen, was unable to pay the rent set by the firm which recently bought it.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Here's what happens to the economy when Treasury yields soar like they are now
+### 1. U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit
 
-[原文] Government debt costs leaped higher Wednesday, the product of multiple factors.
+[原文] The deal, which was set to expire in November, will now be extended to Jan. 10, Bessent said, noting the need for Beijing to fulfill more deliverables.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/23/what-happens-to-the-economy-when-treasury-yields-soar.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html) — *CNBC*
 
-### 2. Judge hears arguments on Trump White House media ban, hopes to rule 'soon'
+### 2. Chinese authorities reportedly in possession of F-35 components in Hong Kong
 
-[原文] The DOJ on Tuesday night cited national security concerns in justifying President Trump's ban of MS NOW, CNN and Politico from the White House.
+[原文] Shipping giant UPS was sending a cockpit canopy and weapons bay door to the U.S. from Australia in late May when it was diverted to Hong Kong.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/23/trump-media-ban-court-hearing.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/24/chinaf-f35-components-hong-kong.html) — *CNBC*
 
-### 3. As Trump and Xi meet, Chinese automakers could be a Pandora's box for U.S. auto industry
+### 3. Oil falls on report Asia will import highest volume of crude since start of Iran war
 
-[原文] Trump’s meeting with Xi comes as U.S. automakers and lawmakers push to keep restrictions on Chinese vehicles and manufacturers.
+[原文] Oil fell Thursday, as traders assess a report that Asia is on track to import its highest volume of crude oil since the start of the US-Iran war.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/23/trump-xi-chinese-automakers-us-access.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/24/oil-iran-crude-kepler-trump-us-un-.html) — *CNBC*
 
-### 4. Meta's standoff with Amazon over Muse could be a sign of things to come
+### 4. Japan's 10-year bond yield hits 30-year high following sell-off in Treasurys
 
-[原文] Meta's new Muse AI personal agent is garnering excitement and shows signs of becoming a hit, but Amazon has blocked the app from its site.
+[原文] Japanese 10-year government bond yield rose to a 30-year high on Thursday, following a surge in Treasury yields.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/23/metas-standoff-with-amazon-over-muse-comes-ahead-of-meta-connect.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/24/japan-jgb-bond-yield-treasurys.html) — *CNBC*
 
-### 5. OpenAI and Anthropic CEOs push for AI cooperation at UN after Trump rebuffs 'globalist scheme' to control it
+### 5. 10-year Treasury yield rockets to 19-year high. Here's what's driving the spike
 
-[原文] Altman is one of several tech executives who's argued that AI companies should temper the pace of AI development in order to manage potential risks.
+[原文] Treasury yields traded higher on Wednesday as new services and manufacturing sector data increased worry of further Federal Reserve rate hikes.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/23/altman-amodei-un-ai-safety.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/23/treasury-yields-oil-inflation-fed.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. VC firm Bessemer now has another $5.75B to invest in (what else?) AI
+### 1. Everything new coming to Meta’s AI agent Muse
 
-[原文] The VC firm says that AI-native companies are growing faster than any technology, ever.
+[原文] CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glass
 
-📎 [阅读原文](https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/) — *TechCrunch*
 
-### 2. Enveda secures $311M to bring more nature-derived AI drugs into clinical trials
+### 2. Meta made a Tamagotchi-like wearable for its Muse AI agent
 
-[原文] The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.
+[原文] The tiny hardware device creates  another mobile home for its AI agent Muse.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/) — *TechCrunch*
 
-### 3. Modal Motors is trying to cut China out of electric motors entirely
+### 3. Meta is trying VR glasses (again), this time with more IMAX
 
-[原文] The startup is working on small, light motors with no rare-earth magnets that are suited for drones, fans, and robots.
+[原文] Meta's return to the VR glasses realm comes with a promising combination of light weight form factor and enhanced entertainment options.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/) — *TechCrunch*
 
-### 4. Disney+ and Hulu add to the growing trend of streaming inflation
+### 4. Meta introduces camera-free AI glasses
 
-[原文] At the same time, Disney appears to be exploring new ways to expand its streaming business beyond simply raising subscription prices.
+[原文] Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/23/disney-and-hulu-add-to-the-growing-trend-of-streaming-inflation/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/) — *TechCrunch*
 
-### 5. The old cybersecurity model is breaking
+### 5. Vogue sent robots down the runway at Vogue World, and people were not impressed
 
-[原文] As concern over AI safety and rogue agents continue to make headlines, it’s no surprise that cybersecurity stocks are rising, or that investors are pouring massive amounts of capital into startups try
+[原文] Nothing says Italian craftsmanship like a Chinese robot doing a lasso to "L'Amour Toujours."
 
-📎 [阅读原文](https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/23/vogue-sent-robots-down-the-runway-at-vogue-world-and-people-were-not-impressed/) — *TechCrunch*
 
 ---
 
@@ -180,11 +180,11 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cm5yezn8w4xdo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Man Utd still £1bn in debt with £63.5m spent on new stadium
+### 3. Burnham says ban on alcohol for football fans in stands is 'discrimination'
 
-[原文] Manchester United's overall debt remains over £1bn despite Sir Jim Ratcliffe's extensive cost-cutting measures, with the club also confirming it has spent £63.5m buying land for their new stadium.
+[原文] The prime minister opposes the law - in place since 1985 - and believes there is a case to remove it.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c5evwlmdmy00o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c933ky0nknxko?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ### 4. Ronaldo spurred on by 1,000 goals and Portugal glory
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Jeff Garlin Says ‘Undiagnosed Bipolar’ Made Him ‘Mean’ on ‘The Goldbergs’ Set; Wendi McLendon-Covey Responds: ‘I Remember Things Differently’
+### 1. Isabel Sandoval, Tricia Tuttle, ‘Elephants in the Fog’ Producer Anup Poudel Join QueerFrames Mentor Lineup as Lab Unveils New Cohort, Southeast Asia Expansion (EXCLUSIVE)
 
-[原文] Jeff Garlin revealed in a recent interview on The Daily Beast’s &#8220;Obsessed&#8221; podcast (via Entertainment Weekly) that he had undiagnosed bipolar disorder during the making of ABC&#8217;s &#82
+[原文] QueerFrames Screenwriting Lab, a training initiative for emerging queer, trans and nonbinary filmmakers, is expanding into Southeast Asia for its fourth annual edition, bringing together storytellers 
 
-📎 [阅读原文](https://variety.com/2026/tv/news/jeff-garlin-bipolar-goldbergs-set-misconduct-wendi-mclendon-covey-1236872191/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/queerframes-lab-expands-southeast-asia-fourth-cohort-2-1236871948/) — *Variety*
 
-### 2. International Emmy Nominations: United Kingdom Leads This Year’s Tally; Canada’s ‘Heated Rivalry’ Doesn’t Make the Cut
+### 2. Paige DeSorbo on Healing From Domestic Violence With Her Pet: ‘Sometimes the Thing That Helps You Feel Safe Again Has Four Paws’
 
-[原文] The United Kingdom led all territories in nominations at this year&#8217;s International Emmys, landing 14 nods total — including Disney+&#8217;s “A Thousand Blows” in drama and Netflix&#8217;s “Man v
+[原文] Paige DeSorbo was honored with the Variety Courage Award, presented by Purina, for using her platform to advocate for survivors of domestic violence. Following an introduction from Molly Sims, the for
 
-📎 [阅读原文](https://variety.com/2026/tv/news/international-emmy-nominations-2026-no-heated-rivalry-1236873660/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/awards/news/paige-desorbo-variety-courage-award-speech-1236873876/) — *Variety*
 
-### 3. Pete Byrne, Naked Eyes Vocalist Who Sang ‘Always Something There to Remind Me,’ Dies at 74
+### 3. Ryan Murphy Says He ‘Just Finished the Script’ for a ‘Glee’ Reboot and Has Spoken to the Original Cast: ‘They All Were Very Enthusiastic’
 
-[原文] Pete Byrne, vocalist for the British new wave band Naked Eyes, died in Los Angeles on Sept. 14 after a brief illness. He was 74. Byrne founded Naked Eyes in 1982 with his college friend Rob Fisher. Th
+[原文] It’s a good day to be a Gleek. Following long-swirling rumors of a potential “Glee” reboot, creator Ryan Murphy has officially weighed in and revealed that there’s a script. “Well, funny you ask, ’cau
 
-📎 [阅读原文](https://variety.com/2026/music/news/pete-byrne-dead-naked-eyes-1236873633/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/ryan-murphy-glee-reboot-script-1236873863/) — *Variety*
 
-### 4. Los Angeles Lakers Release Official Photo Book Chronicling Seven Decades of Purple-and-Gold History
+### 4. ‘The Visit’ at Pasadena Playhouse Review: The ’50s Absurdist Comedy Is Too Smug in Its Peak-Bleak View of Venal Humanity, but Jefferson Mays and Melinda Page Hamilton Are Worth the Visit
 
-[原文] The Los Angeles Lakers are putting nearly eight decades of basketball history on the coffee table. The franchise has teamed with luxury art-book publisher Taschen for &#8220;Lakers: An Official Histor
+[原文] When an &#8220;Amadeus&#8221; revival opened at Pasadena Playhouse in February, it was such a spectacular success on every level that you wouldn&#8217;t have minded if the keepers of the venerable San
 
-📎 [阅读原文](https://variety.com/2026/shopping/news/los-angeles-lakers-photo-history-book-taschen-buy-online-1236873647/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/legit/reviews/the-visit-pasadena-playhouse-stage-review-absurdist-comedy-1236873818/) — *Variety*
 
-### 5. ‘Les Misérables’ Review: A Starry, Lavishly Empty, French-Language Version of Victor Hugo’s Epic
+### 5. Rolf de Heer Named President of Tokyo Film Festival Jury
 
-[原文] Nobody sings in the latest adaptation of Victor Hugo&#8217;s 1462-page cinder-block classic, but the absence of rousing musical numbers does not mean that Fred Cavayé&#8217;s &#8220;Les Misérables&#82
+[原文] The Tokyo International Film Festival has named Australian director Rolf de Heer president of the international competition jury for the festival&#8217;s 39th edition. De Heer has spent more than 40 y
 
-📎 [阅读原文](https://variety.com/2026/film/reviews/les-miserables-review-1236871999/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/rolf-de-heer-president-tokyo-film-festival-jury-1236872048/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Legend of Zelda: Tears of the Kingdom for Switch Drops to $38.97 After This Walmart Coupon
+### 1. Meta’s New VR Glasses to Entice Casual Viewers With 3D and Full-Frame IMAX
 
-[原文] 10/10 IGN "Masterpiece".
+[原文] Meta has revealed their new VR Glasses, with an eye (ahem) to enticing casual viewers with full 3D and full-frame IMAX.
 
-📎 [阅读原文](https://www.ign.com/articles/legend-of-zelda-tears-of-the-kingdom-for-switch-deal-september-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/metas-new-vr-glasses-to-entice-casual-viewers-with-3d-and-full-frame-imax) — *IGN*
 
-### 2. Crocodile Dundee Is Getting a 4K Steelbook Edition for Its 40th Anniversary
+### 2. Warner Bros. Pushes Back DC's Dynamic Duo Film, Gremlins 3 Gets One Year Delay
 
-[原文] Crocodile Dundee, the 1980s blockbuster hit, is getting the 4K steelbook treatment in honor of its 40th anniversary.
+[原文] Warner Bros. has pushed back DC's Dynamic Duo and delayed Gremlins 3 by a whole year.
 
-📎 [阅读原文](https://www.ign.com/articles/crocodile-dundee-4k-steelbook-edition-where-to-buy) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/warner-bros-pushes-back-dcs-dynamic-duo-film-gremlins-3-gets-one-year-delay) — *IGN*
 
-### 3. Today’s Top Deals: PS5 SSDs, Xbox and Nintendo Gift Cards, and LEGO Star Wars
+### 3. YouTube's New A/B Video Test Feature Is Already Creating Fears Over Weaponized Negativity
 
-[原文] Plus, don’t miss discounts on gaming PCs, physical Switch games, and more.
+[原文] YouTube is launching a new feature that allows creators to test different cuts of their own videos, leading fans to worry about weaponized negativity.
 
-📎 [阅读原文](https://www.ign.com/articles/best-deals-for-september-23-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/youtubes-new-ab-video-test-feature-is-already-creating-fears-over-weaponized-negativity) — *IGN*
 
-### 4. 4 Burning Doomsday Questions We Have After Avengers: Endgame Encore
+### 4. Artist Behind Pokémon 30th Anniversary Jirachi SIR Card Gives Tearful Response to Late Influencer's Heart-Wrenching Final Pack Opening
 
-[原文] The new scenes from Avengers: Endgame Encore have leaked online, and they raise some very interesting questions about the plot of Avengers: Doomsday. Let's break it all down.
+[原文] The artist behind a Pokémon 30th Anniversary Jirachi SIR card has responded after beloved influencer Avery the Poké Kid pulled the card in his last pack opening before his death from pancreatic cancer
 
-📎 [阅读原文](https://www.ign.com/articles/4-burning-doomsday-questions-we-have-after-avengers-endgame-encore) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/artist-behind-pokemon-30th-anniversary-jirachi-sir-card-gives-tearful-response-to-late-influencers-heart-wrenching-final-pack-opening) — *IGN*
 
-### 5. Tolkien's Silmarillion Illustrated Edition Drops to Its Lowest Price Ever for Amazon Prime Members
+### 5. Save 40% Off the Sony WH-1000XX "The Collexion" Stainless Steel Noise Canceling Wireless Headphones
 
-暂无摘要。
+[原文] Ultra premium.
 
-📎 [阅读原文](https://www.ign.com/articles/the-silmarillion-illustrated-edition-book-deal-september-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/sony-wh-1000xx-the-collexion-noise-canceling-wireless-headphone-deal-september-2026) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post This New Porsche 911 Off-Road Lift Kit Is Y
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Super El Niño to Cause 451,000 Heat Deaths
+### 1. Court Nixes Michigan’s Novel Antitrust Case Targeting Big Oil
+
+[原文] A federal court in Michigan has tossed out a pioneering antitrust lawsuit brought by the state of Michigan against four major oil and gas companies and their largest U.S. trade association that allege
+
+📎 [阅读原文](https://insideclimatenews.org/news/23092026/court-dismisses-michigan-oil-antitrust-case/) — *Inside Climate News*
+
+### 2. Super El Niño to Cause 451,000 Heat Deaths
 
 [原文] More than 451,000 people are projected to die across the globe in the next six months from the additional heat brought by a super El Niño, according to estimates from climate scientists released Wedne
 
 📎 [阅读原文](https://insideclimatenews.org/news/23092026/super-el-nino-heat-deaths/) — *Inside Climate News*
 
-### 2. Asphalt Company Alleges Operative Who Posed as a Project Opponent Committed Fraud
+### 3. Asphalt Company Alleges Operative Who Posed as a Project Opponent Committed Fraud
 
 [原文] Maymead, a company that plans to build a controversial asphalt plant south of Winston-Salem, North Carolina, is suing a consulting firm and one of its former employees, alleging they committed fraud, 
 
 📎 [阅读原文](https://insideclimatenews.org/news/23092026/asphalt-company-sues-consultant-opposing-proposed-plant/) — *Inside Climate News*
 
-### 3. Chemicals Linked to Breast Cancer Are ‘Ubiquitous,’ Study Shows
+### 4. Chemicals Linked to Breast Cancer Are ‘Ubiquitous,’ Study Shows
 
 [原文] The more scientists look for chemicals that can increase breast cancer risk, the more they find. Hundreds of potential breast carcinogens lurk in consumer goods, food, drinking water, pesticides, drug
 
 📎 [阅读原文](https://insideclimatenews.org/news/23092026/potential-breast-cancer-chemicals-taint-consumer-products/) — *Inside Climate News*
 
-### 4. In Rural Pennsylvania, Doctors Confront the Hidden Health Impacts of Environmental Disasters
+### 5. In Rural Pennsylvania, Doctors Confront the Hidden Health Impacts of Environmental Disasters
 
 [原文] In February 2023, George Garrow jumped in his car and hurried to help people impacted by a freight train that had derailed in East Palestine, Ohio.&#160; The crash happened about a quarter-mile west o
 
 📎 [阅读原文](https://insideclimatenews.org/news/23092026/rural-pennsylvania-extreme-weather-public-health-effects/) — *Inside Climate News*
-
-### 5. Competing Climate Visions Clash at UN General Assembly
-
-[原文] Two divergent worldviews emerged from the first two national addresses on the opening day of the United Nations General Assembly’s 81st session in New York.&#160; Brazil’s president, Luiz Inácio Lula 
-
-📎 [阅读原文](https://insideclimatenews.org/news/22092026/un-general-assembly-opens-with-clashing-climate-views/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post This New Porsche 911 Off-Road Lift Kit Is Y
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Peter Byrne, Singer and Co-Founder of Naked Eyes, Dead at 74
+### 1. Dolly Parton’s Estate Grants Restraining Order Against Nephew: ‘Demands for Payment’
+
+[原文] A Tennessee judge granted the request for a temporary restraining order against Bryan Seaver on Wednesday ahead of an Oct. 7 hearing
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/dolly-parton-estate-granted-restraining-order-against-nephew-1235630808/) — *Rolling Stone*
+
+### 2. New Found Glory Announce EPCOT Shows in Honor of ‘Massive Disney Fan’ Chad Gilbert
+
+[原文] Group cancel their appearance at Aftershock Festival, with their next live performance taking place at Walt Disney World Resort in tribute to their late bandmate
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/new-found-glory-chad-gilbert-epcot-tribute-shows-1235630793/) — *Rolling Stone*
+
+### 3. Sam Smith, Normani Copyright Lawsuit Over ‘Dancing With a Stranger’ Heads to Trial
+
+[原文] A federal judge refused to dismiss the lawsuit over the multi-platinum dance hit
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/sam-smith-normani-copyright-lawsuit-dancing-with-a-stranger-1235630558/) — *Rolling Stone*
+
+### 4. Peter Byrne, Singer and Co-Founder of Naked Eyes, Dead at 74
 
 [原文] Group scored hits in the Eighties with “Always Something There to Remind Me” and “Promises, Promises”
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/peter-byrne-naked-eyes-dead-obit-1235630545/) — *Rolling Stone*
 
-### 2. Beach Boys Abruptly Cancel September Comeback Shows
+### 5. Beach Boys Abruptly Cancel September Comeback Shows
 
 [原文] They’ve cancelled over 35 dates on their ‘Pet Sounds 60’ tour, and haven’t performed in over two months so that frontman Mike Love can “recharge” following unspecified health problems
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/beach-boys-cancel-comeback-shows-1235629913/) — *Rolling Stone*
-
-### 3. Hayley Williams Remembers Chad Gilbert’s ‘Influence and Attitude’ on Hardcore Music: ‘Forever Grateful’
-
-[原文] The musician and Gilbert were in a relationship from 2007 to 2017
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/hayley-williams-chad-gilbert-tribute-1235630533/) — *Rolling Stone*
-
-### 4. Taylor Swift’s ‘Life of a Showgirl’ Trademark Fight Escalates as Lawyers Call Lawsuit ‘Nonsensical’
-
-[原文] The singer is asking a federal court in California to dismiss Maren Wade's trademark infringement lawsuit
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/taylor-swift-life-of-a-showgirl-trademark-fight-maren-wade-1235630470/) — *Rolling Stone*
-
-### 5. Kacey Musgraves Will Lead Dolly Parton Tribute at 2026 VMAs
-
-[原文] The performance will mark the country singer’s first onstage appearance at the MTV Video Music Awards in five years
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/2026-vmas-dolly-parton-tribute-kacey-musgraves-1235630339/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post This New Porsche 911 Off-Road Lift Kit Is Y
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Booking Holdings: Building a Long-Term Competitive Advantage
+### 1. Barry Diller Withdraws MGM Resorts Bid Worth $18 Billion
+
+[原文] People Inc. walked back its takeover bid but emphasized confidence in MGM, with Barry Diller open to a “range of alternatives.”
+
+📎 [阅读原文](https://skift.com/2026/09/23/barry-diller-withdraw-mgm-resorts-bid/) — *Skift*
+
+### 2. Brian Chesky Commits to Launching an AI Agent in 2027
+
+[原文] Airbnb has talked for years about becoming an AI concierge. Now Brian Chesky has put a 2027 date on it — and he says the interface won’t look like a typical chatbot.
+
+📎 [阅读原文](https://skift.com/2026/09/23/brian-chesky-commits-to-launching-an-ai-agent-in-2027/) — *Skift*
+
+### 3. Agentic AI Is Raising Travel’s Tech Bill
+
+[原文] Amadeus and Spotnana agree the plumbing for AI-powered travel costs more now. The industry still hasn’t settled who pays — or who captures the value.
+
+📎 [阅读原文](https://skift.com/2026/09/23/agentic-ai-is-raising-travels-tech-bill/) — *Skift*
+
+### 4. Prince Harry Calls on Travel Industry to Put Destinations First
+
+[原文] The Duke of Sussex and founder of Travalyst wants the travel industry to prioritize the health and value of the people and places it sells — because business success relies on the longevity of those d
+
+📎 [阅读原文](https://skift.com/2026/09/23/prince-harry-calls-on-travel-industry-to-put-destinations-first/) — *Skift*
+
+### 5. Booking Holdings: Building a Long-Term Competitive Advantage
 
 [原文] Incumbent brands have to ask themselves:  if the technology gets democratized, what do we have that no one else can replicate?
 
 📎 [阅读原文](https://skift.com/2026/09/23/booking-holdings-building-a-long-term-competitive-advantage/) — *Skift*
-
-### 2. Understanding AI’s Broad Impact
-
-[原文] Travel brands have to evaluate if they're structured to let an agent handle the full relationship, and whether internal divisions may hold them back.
-
-📎 [阅读原文](https://skift.com/2026/09/23/understanding-ais-broad-impact/) — *Skift*
-
-### 3. Uber: Owning More of the Travel Journey
-
-[原文] Every travel company that controls its own inventory is facing the same decision: let AI agents book it, or keep customers in the direct channel.
-
-📎 [阅读原文](https://skift.com/2026/09/23/skift-global-forum-2026-owning-more-of-the-travel-journey/) — *Skift*
-
-### 4. TUI Trims Earnings Guidance as Airline Segment Lags
-
-[原文] TUI has taken the worst-case scenario off the table, but even the top range of 2026 earnings guidance will fall short of 2025.
-
-📎 [阅读原文](https://skift.com/2026/09/23/tui-earnings-guidance-update-2026/) — *Skift*
-
-### 5. Expedia Bets Against the All-Powerful AI Travel Agent
-
-[原文] Expedia wants a seat inside the new wave of AI agents, including Meta's Muse. But CEO Ariane Gorin is betting on a messier future for travel: multiple entry points and specialized agents, not one bot 
-
-📎 [阅读原文](https://skift.com/2026/09/23/expedia-bets-against-the-all-powerful-ai-travel-agent/) — *Skift*
 
 ---
 
