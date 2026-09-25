@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月26日** | 生成时间: 2026-09-26 00:53
+**2026年09月26日** | 生成时间: 2026-09-26 05:17
 
 ---
 
@@ -12,121 +12,121 @@
 
 ## 🌍 国际政治
 
-> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: c4616494-8021-471a-ac4b-97f50f768）
+> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: e118603b-476a-4a13-a865-55c94a049）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Special agents' blood and urine test results stolen in FBI hack
+### 1. Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says
+
+[原文] Such strikes aim to disrupt "people's ability to stay connected, study, work", says Ukraine's president.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Special agents' blood and urine test results stolen in FBI hack
 
 [原文] Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Pope warns against 'losing humanity' to AI machines
+### 3. Pope warns against 'losing humanity' to AI machines
 
 [原文] The pontiff delivered the warning on the first day of his trip to France on Friday.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Xi got Trump's red carpet welcome - but not everything he wanted
+### 4. Supreme Court allows Trump to use controversial database to check voter citizenship
 
-[原文] China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Supreme Court revives controversial US data system for citizenship checks
-
-[原文] The system uses citizenship information and other sensitive data to filter alleged non-citizen voting.
+[原文] Critics have questioned the reliability of the data, warning it could  result in US citizens being wrongly removed from electoral rolls.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Students strike across Germany in protest against military service
+### 5. Trump's plans for massive arch move ahead
 
-[原文] A law establishing voluntary military service came into effect in January, but protest organisers fear compulsory service could follow.
+[原文] Opposition to building the 250-foot arch, and using it for military purposes, is growing with one Democrat blasting Trump's plans as "foolhardy".
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cxnvlnve52qdo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cq0lrr8kxy0lo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
 ## 💰 经济财经
 
-> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: c79345b7-29ad-4d95-ac82-5d6551676）
+> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 32491007-9d40-4c2c-b86f-1acfa0f94）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Iran offers to reopen Strait of Hormuz within 7 days and restart nuclear talks
+### 1. Trump, Xi wrap state visit centered on spectacle over substance. Here are the top takeaways
 
-[原文] The remarks came as the Houthis launched a new wave of missile and drone attacks at Saudi targets Friday morning.
+[原文] President Trump and Chinese leader Xi went heavy on the ceremony and light on deliverables as they danced around Taiwan and Iran during two days in Washington.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/25/us-iran-trump-hormuz-.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/25/trump-xi-summit-takeaways.html) — *CNBC*
 
-### 2. Details on U.S.-China trade negotiations coming Monday, USTR Greer says
+### 2. Airlines waive change fees ahead of nor'easter as flight delays trickle in
 
-[原文] Top White House trade official Jamieson Greer said the two days of talks between President Trump and Chinese leader Xi brought some trade matter agreements.
+[原文] Flight disruptions were minimal for Saturday as of Friday morning.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/25/trump-xi-china-trade-greer.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/25/flights-storm-new-york-boston-east-coast.html) — *CNBC*
 
-### 3. History shows financial calamities occur when rates rise rapidly like this: 'Something always breaks'
+### 3. CEO who posted 'Lake America' sweatshirt photos is no longer with the company
 
-[原文] The 10-year Treasury note yield is spiking to levels not seen in years, and that may be a bad omen for financial markets.
+[原文] Smith on Sept. 11 had posted an allegedly AI-edited photo on Facebook of her family dressed in "Lake America" sweatshirts.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/24/history-shows-financial-calamities-occur-when-rates-rise-rapidly-like-this-something-always-breaks.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/25/ceo-who-posted-lake-america-sweatshirt-photos-has-left-the-company.html) — *CNBC*
 
-### 4. Warsh's regime change at the Fed pushes ahead – and meets resistance
+### 4. Appeals court rules that states can regulate Kalshi’s sports prediction markets, dealing another legal blow to platforms
 
-[原文] Fed Chairman Kevin Warsh is driving rapid change in some areas, while his emerging policy framework suggests further rate hikes remain possible.
+[原文] The decision is the second in less than a month by an appeals court that states have a role in regulating sports-related event contracts.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/25/kevin-warsh-fed-interest-rates-balance-sheet.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/25/appeals-court-rules-states-can-regulate-sports-prediction-markets.html) — *CNBC*
 
-### 5. U.S. appeals court upholds Pentagon designation of Anthropic as supply chain risk
+### 5. Coca-Cola hires Rob Gehring from Monster Energy to run its North American operations
 
-[原文] In a 2-1 decision, a federal appeals court upheld the Department of Defense's blacklisting of Anthropic.
+[原文] Coca-Cola is trying to maintain growth as consumers face higher gas and grocery prices.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/25/monster-coca-cola-rob-gehring.html) — *CNBC*
 
 ---
 
 ## 💻 科技
 
-> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: acabda55-6312-4c4f-b68c-11bd4cffd）
+> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 12b7252f-db12-4aa7-ad4a-fb866371d）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Meta is putting its muscle behind Muse as the AI app takes off
+### 1. Meta opens early access program for new Muse features
 
-[原文] Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agents's promotion across its own apps and beyond.
+[原文] Anyone interested in joining has to ask Muse to put them on the list.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/) — *TechCrunch*
 
-### 2. Kiteworks urges customers to shut down their servers amid ‘imminent’ threat of cyberattack
+### 2. The hottest new hangout for middle schoolers is NPR’s comment section?
 
-[原文] The tech giant, which allows companies to send large datasets over the internet, said it received a "credible threat" from law enforcement about an imminent attack.
+[原文] When NPR staffers flagged strange comments under their podcasts on Spotify as bots, it took a Gen Z colleague to (immediately) figure out the mystery.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/25/kiteworks-urges-customers-to-shut-down-their-servers-amid-imminent-threat-of-cyberattack/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/25/the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section/) — *TechCrunch*
 
-### 3. For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts
+### 3. Anthropic to pay Akamai $11.6 billion over seven years in cloud deal
 
-[原文] The latest unauthorized agent swarms were discovered by researchers.
+[原文] Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a
 
-📎 [阅读原文](https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/) — *TechCrunch*
 
-### 4. Anthropic’s founders seek voting control ahead of IPO
+### 4. Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his
 
-[原文] Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.
+[原文] Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/) — *TechCrunch*
 
-### 5. Tesla finally moves to electrify trucking after a decade of work and delays
+### 5. Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing
 
-[原文] Tesla's Semi truck, with a 500-mile range, is about to hit the road in big numbers, with the company saying it plans to make 50,000 units a year.
+[原文] The funding, which comes from Third Point, Nvidia, and others, will  fuel the company's massive AI data center buildout.
 
-📎 [阅读原文](https://techcrunch.com/2026/09/25/tesla-finally-moves-to-electrify-trucking-after-a-decade-of-work-and-delays/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/) — *TechCrunch*
 
 ---
 
 ## 🔬 科学
 
-> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 6134baf0-600b-44de-8cd8-9f9195be1）
+> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: f823cef6-fb37-465b-aa86-1d1a011f0）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -164,83 +164,83 @@
 
 ## ⚽ 体育
 
-> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: cfbce3f3-8fc9-432e-a50a-c4a8905fe）
+> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 06f65fdb-462e-4340-b738-b5822bfdf）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Man City and the 115 charges - key questions answered
+### 1. Clubs seek legal advice over Man City charges compensation
+
+[原文] Premier League clubs are seeking legal advice as to whether they would have a compensation claim over the Manchester City 115 charges case.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. Relegation? Titles stripped? Appeals? What next for Man City
 
 [原文] It has taken more than two years, but a judgement finally appears to have been made on the 115 charges levelled against Man City. Here's what it means.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cx30540044q0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. What could the potential sanctions for Man City be?
+### 3. What could the potential sanctions for Man City be?
 
 [原文] Football finance expert Kieran Maguire says the potential sanctions for Manchester City will be 'significant' after the sources told BBC Sport that the club has been found guilty of breaking the major
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cj62ee3zydxlo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Who is hacker whose revelations led to Man City charges?
+### 4. Man City fans face up to reality of guilty verdict
 
-[原文] Rui Pinto is the convicted computer hacker whose revelations led to Manchester City facing Premier League charges of alleged financial rule breaches. But who is he?
+[原文] How Manchester City fans have reacted to news that the club have been found guilty of a majority of the financial rule breaches they were accused of.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cmj644284k18o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cwy7zzdmn4v7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Palmer misses too many opportunities to play for England
+### 5. Palmer misses too many opportunities to play for England - Tuchel
 
 [原文] Thomas Tuchel has said that Cole Palmer "misses too many opportunities" to play for England after the Chelsea forward pulled out of the latest squad.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cm9dww15527lo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Antonelli 'comes back to earth' with qualifying crash
-
-[原文] Kimi Antonelli says he is "very mad" about his crash in qualifying at the Azerbaijan Grand Prix, which means he will start from 16th on the grid.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/cqd0885k3d28o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
 ---
 
 ## 🎬 娱乐
 
-> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 2beb30c4-e888-4cb1-81c9-2a8b6b865）
+> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 6a4367c0-7d94-4d5a-8b4b-bd9c21692）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Spain’s Begin Again Films Boards Brazilian Basketball Biopic ‘Paula & Hortência – The Last Chance’ (EXCLUSIVE)
+### 1. White House Has Spent More Than $440,000 on Pro-Trump TV Ads Paid for by U.S. Government; Administration Defends ‘Unapologetically American’ Spots and Denies They’re Campaign Ads
 
-[原文] Spain-based Begin Again Films secured an international sales deal for “Paula &#38; Hortência – The Last Chance.’ The film, directed by Georgia Guerra-Peixe Joca, is a biopic on the life of the two tit
+[原文] TV ads featuring President Donald Trump that began airing this week &#8212; including one in which he declares that &#8220;America will never be a communist country&#8221; and touting his administrati
 
-📎 [阅读原文](https://variety.com/2026/film/global/begin-again-films-paula-hortencia-the-last-chance-1236875707/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/white-house-defends-pro-trump-tv-ads-paid-by-us-taxpayers-1236875952/) — *Variety*
 
-### 2. L.A. Mayoral Candidate Nithya Raman Turns to Microdramas to Power Youth Vote
+### 2. Margaret Qualley and Sabrina Carpenter Join Tom Holland in Fred Astaire Biopic as Adele Astaire, Ginger Rogers
 
-[原文] It&#8217;s an unseasonably warm September day in Chatsworth, and the air conditioning at the Capital Arts soundstages has gone out. The crew has one day to churn out four microdramas for Nithya Raman&
+[原文] Tom Holland has found his dance partners for Sony&#8217;s yet-to-be-titled Fred Astaire biopic: Margaret Qualley and Sabrina Carpenter. As previously announced, Holland will play the debonair dancer i
 
-📎 [阅读原文](https://variety.com/2026/politics/news/nithya-raman-microdramas-1236873525/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/margaret-qualley-sabrina-carpenter-tom-holland-fred-astaire-biopic-1236850613/) — *Variety*
 
-### 3. ‘Evil Dead Burn’ Sets HBO Max Release Date in Time for Halloween
+### 3. Bryce Dallas Howard on the Declining Statistics for Female Directors in Hollywood: ‘Whatever Is Currently Being Done is Not Enough’
 
-[原文] One of the year&#8217;s scariest movies will be ready to stream before Halloween: “Evil Dead Burn” will be released on HBO Max on Oct. 2. The third movie since the &#8220;Evil Dead&#8221; series reboo
+[原文] Bryce Dallas Howard is calling on Hollywood to make a change. While at Variety’s L.A. Power of Women event on Wednesday in Beverly Hills, the actress and filmmaker reflected on the declining statistic
 
-📎 [阅读原文](https://variety.com/2026/film/news/evil-dead-burn-hbo-max-release-date-streaming-1236839235/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/bryce-dallas-howard-female-directors-statistics-1236874653/) — *Variety*
 
-### 4. Here’s Where to Buy New York Knicks Home Opener Tickets at Madison Square Garden Online
+### 4. Ari Emanuel Details Hollywood Rise in New Memoir:  Harvey Weinstein Feuds, Signing Martin Scorsese and a Tense Evening With Larry David and Elon Musk
 
-[原文] The hottest ticket in New York City is to the Knicks home opener at Madison Square Garden on Tuesday, Oct. 20. Since winning the NBA Finals against the San Antonio Spurs back in June, the Knicks have 
+[原文] Ari Emanuel has spent more than three decades making deals, building companies and occasionally screaming his way through Hollywood. Now, the superagent-turned-media mogul is telling his own story. In
 
-📎 [阅读原文](https://variety.com/2026/shopping/news/new-york-knicks-home-opener-2026-msg-tickets-buy-online-1236874638/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/shopping/news/ari-emanuel-memoir-hollywood-rise-buy-online-1236875941/) — *Variety*
 
-### 5. Montclair Film Festival Sets 2026 Lineup With ‘La Bola Negra,’ ‘I Play Rocky,’ ‘The Debut’ and More (EXCLUSIVE)
+### 5. Lance Oppenheim on ‘Primetime,’ ‘You Can See Everything’ and How Chris Hansen’s Reaction ‘Is Exactly What the Film Is About’
 
-[原文] The Montclair Film Festival has unveiled the complete lineup for its 2026 edition, bringing a slate of international premieres, awards season contenders, documentaries and independent films to New Jer
+[原文] Lance Oppenheim has always lived in reality, but not all his subjects do. The documentarian has built a career out of pointing his camera at people, from the retirees of “Some Kind of Heaven” to the u
 
-📎 [阅读原文](https://variety.com/2026/film/awards/montclair-film-festival-2026-lineup-la-bola-negra-play-rocky-1236874680/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/awards/lance-oppenheim-primetime-you-can-see-everything-1236875739/) — *Variety*
 
 ---
 
 ## 🏥 健康
 
-> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 02781dcb-21c6-40b5-8021-2b56a01d9）
+> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 623310e5-9017-47bf-a09e-7860d39be）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -278,126 +278,126 @@
 
 ## 🎮 游戏
 
-> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: a05e1fc5-f0b9-45a5-a4dd-6955ac687）
+> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 4960acfd-27eb-4a88-82bc-1aaf1b33d）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Ebon Moss-Bachrach in Final Talks for Heat 2 Role
+### 1. The HP OMEN GeForce RTX 5070 Ti Gaming PC Drops to $1,899 During the Walmart GeForce Week Sale
 
-[原文] Michael Mann’s Heat 2 is set to start shooting in November, with The Bear's Ebon Moss-Bachrach in final talks to play Kelso, previously portrayed by Tom Noonan.
+[原文] Run games at 60fps and beyond on your new 4K monitor.
 
-📎 [阅读原文](https://www.ign.com/articles/ebon-moss-bachrach-in-final-talks-for-heat-2-role) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/hp-omen-geforce-rtx-507-ti-gaming-pc-deal-september-2026) — *IGN*
 
-### 2. PlayStation Reportedly Polling Game Developers After Decision to Kill Discs Sparks Backlash
+### 2. Avery the Poké Kid’s Family Speaks Out After Scalpers Use Child’s Death to Inflate Card Prices
 
-[原文] PlayStation is reportedly sending a lengthy survey to game developers with a question about how they sell physical games after their decision to stop producing physical game discs prompted intense bac
+[原文] The family of late Pokémon influencer Avery the Poké Kid is speaking out after scalpers have reportedly started using his death to artificially inflate the prices of a 30th Anniversary Jirachi SIR car
 
-📎 [阅读原文](https://www.ign.com/articles/playstation-reportedly-polling-game-developers-after-decision-to-kill-discs-sparks-backlash) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/avery-the-pok-kids-family-speaks-out-after-scalpers-use-childs-death-to-inflate-card-prices) — *IGN*
 
-### 3. The Gigabyte A16 Pro 16" RTX 5070 Ti Gaming Laptop Drops to $1,449 During Walmart's GeForce Week Sale
+### 3. Today’s Best Deals: Switch 2 Console, MTG x The Hobbit, and Pokémon Pitch Black
 
-[原文] Strong gaming chops in a slim and lightweight chassis.
+[原文] Don’t miss the final days of Walmart’s GeForce week and more discounts.
 
-📎 [阅读原文](https://www.ign.com/articles/gigabyte-a16-pro-16-rtx-5070-ti-gaming-laptop-deal-september-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/best-deals-for-september-25-2026) — *IGN*
 
-### 4. Arc Raiders Is Testing a PvE Mode Very Soon
+### 4. Microsoft Just Seemingly Killed Copilot+ Just 2 Years After Launch
 
-[原文] Embark Studios has announced that it will be testing a PvE mode for Arc Raiders next month.
+[原文] Microsoft debuted Copilot+ about two years ago in an effort to bring AI PCs to the mainstream. Now it seems like they're already going away.
 
-📎 [阅读原文](https://www.ign.com/articles/arc-raiders-is-testing-a-pve-mode-very-soon) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/microsoft-just-seemingly-killed-copilot-just-2-years-after-launch) — *IGN*
 
-### 5. Ubisoft Almost Made a Zelda Game With Ganondorf as the Protagonist
+### 5. The New Fall Amazon Audible Deal Is the Best One I've Seen This Year: Get 4 Months for $0.99 Per Month
 
-[原文] Ubisoft Milan reportedly pitched a Zelda game to Nintendo that would have taken place in a new universe with a totally different protagonist, but the plan fell through, leading to one of the biggest w
+[原文] Catch up on Dungeon Crawler Carl, Fourth Wing, Hunger Games, and more.
 
-📎 [阅读原文](https://www.ign.com/articles/ubisoft-almost-made-a-zelda-game-with-ganondorf-as-the-protagonist) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/amazon-audible-deal-september-2026) — *IGN*
 
 ---
 
 ## 🚗 汽车
 
-> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: a34d7209-64cf-4787-95be-e6596e135）
+> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 003280f8-4e9d-4e1f-8a4c-a49fd7fb3）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Batmobile That Michael Keaton Hustled in Batman Returns Could Fetch $7M
+### 1. Welcome to 2026, Where a Simple Software Glitch Can Kill an Entire Car
+
+[原文] We're not talking about a cutting-edge EV, either—the humble, gas-powered VW Tiguan is at risk of suddenly stalling due to faulty computer code.
+The post Welcome to 2026, Where a Simple Software Glitc
+
+📎 [阅读原文](https://www.thedrive.com/news/welcome-to-2026-where-a-simple-software-glitch-can-kill-an-entire-car) — *The Drive*
+
+### 2. Hot or Cold, I’m Missing These Comfort Features in My Honda Prelude
+
+[原文] With hot weather on its way out and chillier mornings already here, I wish my almost $45,000 Honda Prelude had these two features.
+The post Hot or Cold, I&#8217;m Missing These Comfort Features in My 
+
+📎 [阅读原文](https://www.thedrive.com/news/hot-or-cold-im-missing-these-comfort-features-in-my-honda-prelude) — *The Drive*
+
+### 3. New Diesel Engine Oil Blends Are Designed to Keep DPFs From Clogging So Darn Much
+
+[原文] Nobody likes it when their truck's diesel particulate filter gets clogged, forcing a lengthy regen. The API's new PC-12 category was developed, in part, to help with that.
+The post New Diesel Engine O
+
+📎 [阅读原文](https://www.thedrive.com/news/new-diesel-engine-oil-blends-are-designed-to-keep-dpfs-from-clogging-so-darn-much) — *The Drive*
+
+### 4. The Batmobile That Michael Keaton Hustled in Batman Returns Could Fetch $7M
 
 [原文] Heading to auction in November, the iconic 1992 Batmobile is powered by a Chevy V8 and sits on two Impala chassis joined together.
 The post The Batmobile That Michael Keaton Hustled in Batman Returns 
 
 📎 [阅读原文](https://www.thedrive.com/news/the-batmobile-that-michael-keaton-hustled-in-batman-returns-could-fetch-7m) — *The Drive*
 
-### 2. Rumored $2.5 Billion Ohio Plant Could Be Honda’s Home for Flagship SUVs: TDS
+### 5. Rumored $2.5 Billion Ohio Plant Could Be Honda’s Home for Flagship SUVs: TDS
 
 [原文] Honda is reportedly eyeing another plant in Ohio, and this one may build the next-gen Acura MDX and premium hybrid SUVs.
 The post Rumored $2.5 Billion Ohio Plant Could Be Honda&#8217;s Home for Flagsh
 
 📎 [阅读原文](https://www.thedrive.com/news/rumored-2-5-billion-ohio-plant-could-be-hondas-home-for-flagship-suvs-tds) — *The Drive*
 
-### 3. NASCAR Icon Darrell Waltrip Retires From Public Life Due to Brain Disease
-
-[原文] Waltrip was diagnosed with Frontotemporal Degeneration, or FTD, likely stemming from driving injuries.
-The post NASCAR Icon Darrell Waltrip Retires From Public Life Due to Brain Disease appeared first
-
-📎 [阅读原文](https://www.thedrive.com/news/nascar-icon-darrell-waltrip-retires-from-public-life-due-to-brain-disease) — *The Drive*
-
-### 4. Accidental Gymkhana: Cadillac F1 Test Driver Herta Pulls Off 150-MPH Save of a Lifetime
-
-[原文] The American F1 hopeful may not be having a good season in F2 so far, but it certainly isn't due to a lack of skill.
-The post Accidental Gymkhana: Cadillac F1 Test Driver Herta Pulls Off 150-MPH Save 
-
-📎 [阅读原文](https://www.thedrive.com/news/accidental-gymkhana-cadillac-f1-test-driver-herta-pulls-off-150-mph-save-of-a-lifetime) — *The Drive*
-
-### 5. Reality Check: Leno’s Law Won’t Really Save Old Cars from California Emissions Tests
-
-[原文] The new law is being hailed as a landmark victory that will keep classic cars on the road longer. But it doesn't actually fix the systemic issues with the state's emissions testing rules.
-The post Rea
-
-📎 [阅读原文](https://www.thedrive.com/news/smog-testing-in-california-is-broken-lenos-law-wont-fix-it) — *The Drive*
-
 ---
 
 ## 🌱 环境
 
-> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 9c67fd90-8af3-4dda-9e6c-3b5d77a05）
+> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 1eccc377-b7cf-4b36-98c8-e1c9daa8d）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Indian Point Energy Center’s Uncertain Future
+### 1. Climate Crisis Is No Longer a ‘Distant Warning,’ UN Leader Says
+
+[原文] This week’s United Nations General Assembly in New York featured pleas for urgent action on climate change, with heads of state and Secretary-General António Guterres warning that the window for actio
+
+📎 [阅读原文](https://insideclimatenews.org/news/25092026/climate-crisis-top-concern-at-un-general-assembly/) — *Inside Climate News*
+
+### 2. Indian Point Energy Center’s Uncertain Future
 
 [原文] NY-17: Second in a series on the environmental stakes of one of the nation’s most fiercely contested congressional races. Nancy Vann’s resolve has become the subject of a local jingle. Its chorus goes
 
 📎 [阅读原文](https://insideclimatenews.org/news/25092026/new-york-indian-point-nuclear-future/) — *Inside Climate News*
 
-### 2. Why Germany Is Building an Ark for U.S. Climate Data
+### 3. Why Germany Is Building an Ark for U.S. Climate Data
 
 [原文] This story was originally published by Yale Environment 360. In a modern five-story building in the center of Hamburg, Germany, technicians are preparing to install several new “racks”—gray metal casi
 
 📎 [阅读原文](https://insideclimatenews.org/news/25092026/germany-computing-center-hosts-us-climate-data/) — *Inside Climate News*
 
-### 3. Texas Electric Utility Only Considered Gas to Power $10 Billion Meta Data Center
+### 4. Texas Electric Utility Only Considered Gas to Power $10 Billion Meta Data Center
 
 [原文] EL PASO—While Texas officials have hit pause on data center permitting, one project that is still moving ahead is Meta’s $10 billion, 1-gigawatt data center in northeast El Paso. Meta had already sign
 
 📎 [阅读原文](https://insideclimatenews.org/news/24092026/el-paso-electric-only-considered-gas-to-power-meta-data-center/) — *Inside Climate News*
 
-### 4. AI’s Meet-Cute With Climate Denial
+### 5. AI’s Meet-Cute With Climate Denial
 
 [原文] Earlier this week, President Donald Trump responded to rising public concerns about artificial intelligence with a post on Truth Social. “The same people that said, ‘We’ll all be dead in twelve years 
 
 📎 [阅读原文](https://insideclimatenews.org/news/24092026/inside-clean-energy-trump-calls-ai-concerns-hoax/) — *Inside Climate News*
 
-### 5. A Battle Brews Over Maine’s Salmon Farms
-
-[原文] Glenda Beal’s roots in lobstering run nearly as deep as her roots in the town that shares her name: Beals Island, Maine. Her husband and two sons are lobstermen, as were her father and uncle, both gra
-
-📎 [阅读原文](https://insideclimatenews.org/news/24092026/industrial-aquaculture-threatens-maine-fishing-heritage/) — *Inside Climate News*
-
 ---
 
 ## 📚 教育
 
-> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 2918d501-7730-40c0-9c5c-132761978）
+> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 9a4579e1-6c4f-43e0-a79a-38a2b76ac）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -435,77 +435,77 @@ The post Rea
 
 ## 🎵 音乐
 
-> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 32a3a973-c174-4461-8c26-7ecb89aa8）
+> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: d05e80a8-9380-4134-b4a9-9908a08d8）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Gnarls Barkley’s Upcoming Tour Will Have Cee Lo Green — But Not Danger Mouse
+### 1. Ween Announce Massive Box Set Revisiting ‘Chocolate and Cheese’ Tour
+
+[原文] Boognish Provides, out October 16 via Rhino, features seven full concerts from Gene and Dean Ween's 1994/95 trek, the duo's first time with a backing band
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/ween-massive-box-set-chocolate-cheese-tour-1235632118/) — *Rolling Stone*
+
+### 2. SZA Is Officially a New Jersey Hall of Fame Inductee: ‘More Importantly, I Met Danny DeVito’
+
+[原文] SZA joins previous inductees Whitney Houston, Queen Latifah, Wyclef Jean, Paul Rudd, Toni Morrison, Tony Bennett, the Isley Brothers, Meryl Streep, Jonas Brothers, Frank Sinatra, and more
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/sza-inducted-into-new-jersey-hall-of-fame-1235631904/) — *Rolling Stone*
+
+### 3. See U2’s 50th-Anniversary Performance at Their Old High School
+
+[原文] The Irish superstars returned to their Dublin roots, just after announcing new album Carnaval De Luz
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/u2-dublin-high-school-50th-anniversary-1235631893/) — *Rolling Stone*
+
+### 4. Global Citizen Festival in New York Canceled Due to ‘Extreme Weather Forecast’
+
+[原文] Potential Nor'easter along East Coast has also forced cancelation of Ed Sheeran's Massachusetts concerts, CBGB fest, and All Things Go
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/global-citizen-festival-new-york-canceled-extreme-weather-1235631923/) — *Rolling Stone*
+
+### 5. Gnarls Barkley’s Upcoming Tour Will Have Cee Lo Green — But Not Danger Mouse
 
 [原文] Duo clarifies days after announcing To Whom It Still Concerns Tour that producer won’t join singer on the road; “He is my Producer (a great one at that) ! not a performing artist by trade,” Green writ
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/gnarls-barkley-upcoming-tour-cee-lo-green-no-danger-mouse-1235631696/) — *Rolling Stone*
 
-### 2. iHeartRadio’s 2026 Jingle Ball Tour Recruits Olivia Rodrigo, Hilary Duff, Sombr
-
-[原文] Raye, Adéla, Katseye, Ludacris, Dominic Fike, Myles Smith, and more will perform across varying lineups on the nine-city tour
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/iheartradio-jingle-ball-2026-lineup-1235631750/) — *Rolling Stone*
-
-### 3. Ed Sheeran’s Gillette Stadium Shows Canceled Due to ‘Severe Weather Forecast’
-
-[原文] “The decision was made with the safety of fans, staff and everyone involved in the shows as the top priority,” tour promoter said
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/ed-sheeran-gillette-stadium-shows-canceled-severe-weather-1235631744/) — *Rolling Stone*
-
-### 4. Dolly Parton Returns to the Big Screen as ‘9 to 5’ Heads Back to Theaters
-
-[原文] The 1980 film starring Parton, Jane Fonda, and Lily Tomlin will be re-released in theaters for one week with ticket proceeds benefiting the Dollywood Foundation
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/dolly-parton-9-to-5-theater-release-1235631690/) — *Rolling Stone*
-
-### 5. Gen Z Can’t Stop Listening to Britney Spears’ ‘I’m a Slave 4 U’
-
-[原文] Twenty-five years after her VMA performance, Spears’ Neptunes-produced song has become a hit with Gen Z
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/britney-spears-slave-4-u-vmas-25th-anniversary-gen-z-1235631530/) — *Rolling Stone*
-
 ---
 
 ## ✈️ 旅游
 
-> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: f43ef924-82a6-4454-bcac-46eb5ab95）
+> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 6d81fa9a-5444-4389-9aad-b6ff59095）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Skift Research: Travel’s Great Recalibration Index
+### 1. Staying Agile in an Unpredictable Market
 
-[原文] The brands that don’t stand for something specific will be the first to disappear from the AI-curated shortlist.
+[原文] The question for every travel company shifting resources toward premium: is the demand truly structural?
 
-📎 [阅读原文](https://skift.com/2026/09/25/skift-research-travels-great-recalibration-index/) — *Skift*
+📎 [阅读原文](https://skift.com/2026/09/25/staying-agile-in-an-unpredictable-market/) — *Skift*
 
-### 2. Who the 2036 Traveler Is, and What It Takes to Serve Them
+### 2. Driving Innovation and Partnerships Forward
 
-[原文] The mismatch between decision timeline and data timeline can be a strategic blind spot.
+[原文] Guest behaviors around how they use their time on cruises are materially changing, a shift hospitality companies should all be considering.
 
-📎 [阅读原文](https://skift.com/2026/09/25/who-the-2036-traveler-is-and-what-it-takes-to-serve-them/) — *Skift*
+📎 [阅读原文](https://skift.com/2026/09/25/driving-innovation-and-partnerships-forward/) — *Skift*
 
-### 3. Intrepid’s Co-Founder Wants Travelers Closer to Home
+### 3. The Flavors That Connect Us
 
-[原文] Intrepid thinks U.S. customers can swap Morocco for New Mexico to bring down flight emissions. The result: a test of whether culture and connection matter more to travelers than distance.
+[原文] Travelers remember and return for experiences that can only be produced in a single time and place.
 
-📎 [阅读原文](https://skift.com/2026/09/25/intrepids-co-founder-wants-travelers-closer-to-home/) — *Skift*
+📎 [阅读原文](https://skift.com/2026/09/25/the-flavors-that-connect-us/) — *Skift*
 
-### 4. Capital Allocation: How Should Travel Invest in Its Future?
+### 4. Building Systems That Take Everyone Into Account
 
-[原文] Physical assets, curated experiences, and trained human expertise are the most durable investments because AI makes them more valuable.
+[原文] Most sustainability commitments in travel measure what travel companies control directly. It's time to measure what they influence.
 
-📎 [阅读原文](https://skift.com/2026/09/25/capital-allocation-how-should-travel-invest-in-its-future/) — *Skift*
+📎 [阅读原文](https://skift.com/2026/09/25/building-systems-that-take-everyone-into-account/) — *Skift*
 
-### 5. How to Plan for an Uncertain Future
+### 5. How to Create Value for Owners and Guests
 
-[原文] Every global hospitality company is deciding whether to optimize for margin or for reach. Accor is choosing reach.
+[原文] The companies that invest on behalf of owners build a different kind of customer loyalty.
 
-📎 [阅读原文](https://skift.com/2026/09/25/how-to-plan-for-an-uncertain-future/) — *Skift*
+📎 [阅读原文](https://skift.com/2026/09/25/how-to-create-value-for-owners-and-guests/) — *Skift*
 
 ---
 
