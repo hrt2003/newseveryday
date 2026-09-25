@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月25日** | 生成时间: 2026-09-25 12:11
+**2026年09月25日** | 生成时间: 2026-09-25 19:28
 
 ---
 
@@ -12,121 +12,121 @@
 
 ## 🌍 国际政治
 
-> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 8c177eb5-4931-46b1-8d80-188eb0512）
+> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: ba0b5b14-be09-407f-9b07-5a06951b5）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Xi got Trump's red carpet welcome - but not everything he wanted
+### 1. Trump and Xi exchange warm words at state dinner but little progress on key issues
+
+[原文] Despite diplomatic niceties and gifts, little was shared on substantial issues separating the leaders.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Xi got Trump's red carpet welcome - but not everything he wanted
 
 [原文] China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Netanyahu defends Israeli military action as delegates walk out before UN speech
+### 3. Netanyahu defends Israeli military action as delegates walk out before UN speech
 
 [原文] The Israeli leader labels those who left his speech at the UN General Assembly as "moral cowards".
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Media outlets banned by Trump denied access to White House dinner despite judge's order
+### 4. Media outlets banned by Trump denied access to White House dinner despite judge's order
 
-[原文] CNN and MS NOW said reporters were denied access to covering White House arrivals for a state dinner, despite a judge ruling their passes must be restored.
+[原文] CNN and MS NOW reporters say they were barred from covering a state dinner after a judge ruled their passes should be restored.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Hundreds of thousands expected in Paris for Pope's visit
+### 5. Hundreds of thousands expected in Paris for Pope's visit
 
 [原文] The highpoint of his time in Paris will be a giant Mass attended by more than half a million people.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Why Australia chose the world's biggest political stage to reveal OpenAI hack
-
-[原文] Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
 ---
 
 ## 💰 经济财经
 
-> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 1a5d34d1-7fb1-4b36-ab2a-8d603dae8）
+> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 1cfd81f9-2983-4ced-9cca-ffba9d026）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Senate narrowly votes down resolution calling for end to Iran war
+### 1. Iran offers to reopen Strait of Hormuz within 7 days and restart nuclear talks
 
-[原文] The vote came weeks before the midterm election, where President Donald Trump's fellow Republicans are trying to retain their majorities in Congress.
+[原文] The remarks came as the Houthis launched a new wave of missile and drone attacks at Saudi targets Friday morning.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/24/iran-war-powers-senate-vote-fuel.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/25/us-iran-trump-hormuz-.html) — *CNBC*
 
-### 2. Here's who is attending the Trump-Xi state dinner
+### 2. Warsh's regime change at the Fed pushes ahead – and meets resistance
 
-[原文] U.S. President Donald Trump hosted a dinner Thursday for Chinese President Xi Jinping.
+[原文] Fed Chairman Kevin Warsh is driving rapid change in some areas, while his emerging policy framework suggests further rate hikes remain possible.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/25/heres-who-is-attending-the-trump-xi-state-dinner.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/25/kevin-warsh-fed-interest-rates-balance-sheet.html) — *CNBC*
 
-### 3. Atlanta is getting pandas: China's Xi revives a longtime diplomatic strategy at summit with U.S.
+### 3. See which incumbents have the biggest cash advantage in the tightest U.S. House races
 
-[原文] Chinese President Xi Jinping promised two giant pandas to Zoo Atlanta, reviving Beijing's decades-old charm offensive.
+[原文] Incumbents hold commanding cash advantages in many of the U.S. House 2026 midterm election races expected to help decide control of Congress.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/25/china-us-xi-trump-visit-panda-student-visa-.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/25/house-midterms-toss-ups-campaign-cash-incumbents.html) — *CNBC*
 
-### 4. China's Xi urges U.S. to cooperate on AI
+### 4. China saw 'surprise' jump in U.S. orders ahead of Trump-Xi summit, private survey shows
 
-[原文] U.S. President Donald Trump hosted Chinese President Xi Jinping on Thursday at the White House.
+[原文] A private survey shows a rebound in China's exports to the U.S. as companies position for continued stability between the world's two largest economies.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/25/chinas-xi-urges-us-to-cooperate-on-ai.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/25/china-exports-surplus-trade-tariffs-.html) — *CNBC*
 
-### 5. Trump, Xi to attend state dinner after White House meeting
+### 5. Novo is betting on its next chapter as Eli Lilly gains more ground in GLP-1s
 
-[原文] Trump greeted China's Xi at Joint Base Andrews, marking the U.S. president's first time traveling to the facility to welcome a foreign leader.
+[原文] As Novo works to turn itself around, some analysts say Lilly has advantages that could help it maintain its position at the top of the obesity drug market.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/24/trump-xi-meeting-china-washington.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/25/novo-eli-lilly-obesity-drugs.html) — *CNBC*
 
 ---
 
 ## 💻 科技
 
-> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: b51e7733-6f04-434f-95c7-95b6c8cb5）
+> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 597a1bdb-9189-40b5-8901-ced3a3b95）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Waymo is scaling fast: Here’s what the fleet data shows
+### 1. Lightspeed targets $250M for new India fund, focusing on early-stage AI
+
+[原文] The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/) — *TechCrunch*
+
+### 2. Waymo is scaling fast: Here’s what the fleet data shows
 
 [原文] In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hot spots as well.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/) — *TechCrunch*
 
-### 2. Nexterity wants to automate the hard, dangerous part of pipefitting
+### 3. Nexterity wants to automate the hard, dangerous part of pipefitting
 
 [原文] The startup's robot can tighten or loosen four bolts at a time, and it fits in a Pelican case.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/) — *TechCrunch*
 
-### 3. Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass
+### 4. Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass
 
 [原文] Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/) — *TechCrunch*
 
-### 4. PrismML brings its tiny LLMs to Qualcomm-powered smart glasses
+### 5. PrismML brings its tiny LLMs to Qualcomm-powered smart glasses
 
 [原文] Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/) — *TechCrunch*
 
-### 5. Meet Feather, the startup building the ‘Android of robotics’ for developers
-
-[原文] Feather is betting on a customizable, $30,000 platform built for software developers.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/) — *TechCrunch*
-
 ---
 
 ## 🔬 科学
 
-> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: ff5d4402-9902-49fb-8de3-5e717d62f）
+> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: b59364ff-f2ce-46f7-ad8a-2f2552bc0）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -164,83 +164,83 @@
 
 ## ⚽ 体育
 
-> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 7037d14e-8689-4037-a5cd-74b56df53）
+> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 5fa18183-d61e-4743-b9b1-18b81c584）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Bellamy wants more from Wales after loss to Portugal
+### 1. Back and loving it - Pietersen on his history, Brook & helping win the Ashes
+
+[原文] Former batter turned specialist mentor Kevin Pietersen talks about his new role with England, his past history with the ECB and working with Harry Brook and Brendon McCullum.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c32l8q4z481wo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. Our son's death could have been prevented by FA - Billy Vigar's parents
+
+[原文] Billy Vigar's parents say the Football Association could have prevented their son's death.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ckwyzjny99vjo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. Red Roses struggle to meet fans' selfie demands - Hunt
+
+[原文] England scrum-half Natasha Hunt says it is no longer possible to satisfy fans' post-match requests for selfies and autographs, given the Red Roses' success and growth.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-union/articles/cj750g2l1l60o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. Chelsea charged by FA over discriminatory chanting
+
+[原文] Chelsea are charged by the Football Association over alleged discriminatory behaviour by fans during their win at Fulham in August.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/crvgyw9qnpl3o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 5. Bellamy wants more from Wales after loss to Portugal
 
 [原文] Craig Bellamy believes there is "more to come" from his Wales side in the Nations League following their opening-match loss in Lisbon.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c63eqkdnvkq8o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Buttler injury halts England as Sri Lanka level series
-
-[原文] Jos Buttler's bravery comes in vain as Sri Lanka fight back to beat England in the second one-day international at Headingley and set up a series decider at The Oval.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cw804nd022elo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 3. Man Utd borrow another £90m as debt tops £1.1bn
-
-[原文] Manchester United confirm they have borrowed another £90m since 30 June, to take their overall debt to more than £1.1bn.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cmx2zv4e320do?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. The compromises and power struggles that shaped Fury-Joshua
-
-[原文] BBC Sport takes a look at the compromises, power struggles and competing interests behind Tyson Fury v Anthony Joshua.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/articles/c65y74pjl0w4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Uefa fears impact of Premier League spending on transfer market
-
-[原文] Uefa believes "a clear two-speed system" is emerging in the transfer market due to huge spending by Premier League clubs this summer.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c639merx84jno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
 ---
 
 ## 🎬 娱乐
 
-> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 51ae2ace-72a0-43e4-bdad-c2d921962）
+> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 10bb7ccd-62bd-4168-a167-9f9b8585f）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Paramount’s David Ellison Attends Trump White House State Dinner for Chinese President; CNN and MS NOW Reporters Barred From Event
+### 1. In Finnish Body Horror ‘Tick Fever,’ Lyme Disease Is the Least of Your Worries (EXCLUSIVE)
 
-[原文] David Ellison, CEO of Paramount Skydance, dined at the White House Thursday evening at the state dinner held for visiting Chinese President Xi Jinping &#8212; but the White House shut out reporters fo
+[原文] No one likes ticks – least of all “Tick Fever” director Sebastian Granskog. “Every Finn has learned to live in fear of ticks since the summers of their childhood. It’s a tiny insect that latches onto 
 
-📎 [阅读原文](https://variety.com/2026/film/news/david-ellison-trump-white-house-state-dinner-chinese-president-cnn-1236875329/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/horror-tick-fever-sebastian-granskog-finnish-film-affair-1236875421/) — *Variety*
 
-### 2. Hannah Einbinder Speaks Out After Being Arrested at Netanyahu Protest: ‘Let Us Not Mistake the Spectacle for the Story’
+### 2. ECAM Incubator Film Project ‘Our Raised Skin’ Explores the Male Body and the Fear of Its Touch
 
-[原文] Hannah Einbinder is speaking out after being arrested earlier Thursday while protesting an appearance by Israeli Prime Minister Benjamin Netanyahu. The &#8220;Hacks&#8221; star, who was protesting alo
+[原文] Director Paolo Natale’s experimental hybrid documentary/video-essay, &#8220;Our Raised Skin&#8221; (&#8220;Nuestra Piel Levantada&#8221;), is currently in advanced development as part of Madrid Film S
 
-📎 [阅读原文](https://variety.com/2026/politics/news/hannah-einbinder-speaks-out-arrested-netanyahu-protest-1236875306/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/paolo-natale-ecam-incubator-project-our-raised-skin-1236871913/) — *Variety*
 
-### 3. Aamir Khan to Receive Screen Icon Award as Singapore Film Festival Opens With Hur Jin-ho’s ‘The Assassin(s)’
+### 3. Rio Film Festival Head on Bookending Fest With ‘La Bola Negra’ and ‘Club Kid,’ Expanding Premiére Brasil: ‘I Don’t Want a Festival By-the-Book’
 
-[原文] The Singapore International Film Festival (SGIFF) will present its Screen Icon Award to Indian actor, director and producer Aamir Khan at its 37th edition, with a 25th-anniversary Special Presentation
+[原文] If you ever attended a major film festival in the last three decades, chances are you came across an auburn-haired woman sporting fashionable big glasses and pristinely curated outfits from some of Br
 
-📎 [阅读原文](https://variety.com/2026/film/festivals/aamir-khan-singapore-film-festival-hur-jin-ho-the-assassins-1236873907/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/rio-film-festival-la-bola-negra-club-kid-premiere-brasil-1236874167/) — *Variety*
 
-### 4. The Horror Show Launches at Academy Museum: Costumes and Props From ‘Halloween,’ ‘Saw,’ ‘Poltergeist’ and More
+### 4. Tokyo Film Festival Unveils Mizoguchi Retrospective, Anime Award Symposium and Teens Cinema Workshop Milestone
 
-[原文] Just in time for the scariest season, the Academy Museum of Motion Pictures in Los Angeles is unveiling The Horror Show, a major survey of costumes, props, drawings, posters and other artifacts from t
+[原文] The 39th Tokyo International Film Festival has announced a slate of cultural programs running alongside its main competition, headlined by a 13-film retrospective honoring Mizoguchi Kenji on the 70th 
 
-📎 [阅读原文](https://variety.com/gallery/horror-show-academy-museum-halloween-saw/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/tokyo-film-festival-mizoguchi-tribute-anime-award-symposium-1236875451/) — *Variety*
 
-### 5. Inside Variety’s Power of Women 2026 Gift Bag: Goop Skincare, Tarte Beauty, Voluspa Candles and More
+### 5. ‘My Octopus Teacher’ Outfit Off The Fence Boards Viviane D’Avilla’s Intersex Doc ‘Let Us Be’ Ahead of Rio Film Festival (EXCLUSIVE)
 
-[原文] Guests didn’t leave this year’s Variety Power of Women event empty-handed. After a glitzy evening at the Beverly Hills Hotel on Wednesday night (featuring powerhouse performances from Jennifer Hudson 
+[原文] Off the Fence (OTF), the leading storytelling media group and co-producer of Oscar-winning documentary “My Octopus Teacher,” has boarded Viviane D’Avilla’s “Let Us Be.” The documentary, which world pr
 
-📎 [阅读原文](https://variety.com/2026/shopping/news/power-of-women-gift-bag-2026-shop-online-1236875113/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/my-octopus-teacher-off-the-fence-viviane-davilla-let-us-be-1236874106/) — *Variety*
 
 ---
 
 ## 🏥 健康
 
-> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 8c163181-e618-46ef-91d6-0ac10b31b）
+> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 1182cd99-6100-4b09-adf3-531fe2b73）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -278,45 +278,45 @@
 
 ## 🎮 游戏
 
-> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: ff066bde-37b9-4d5b-be96-5cba59f90）
+> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 0a630415-5cda-4be7-a71f-df571c804）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. PlayStation Reportedly Polling Game Developers After Decision to Kill Discs Sparks Backlash
+### 1. Ebon Moss-Bachrach in Final Talks for Heat 2 Role
+
+[原文] Michael Mann’s Heat 2 is set to start shooting in November, with The Bear's Ebon Moss-Bachrach in final talks to play Kelso, previously portrayed by Tom Noonan.
+
+📎 [阅读原文](https://www.ign.com/articles/ebon-moss-bachrach-in-final-talks-for-heat-2-role) — *IGN*
+
+### 2. PlayStation Reportedly Polling Game Developers After Decision to Kill Discs Sparks Backlash
 
 [原文] PlayStation is reportedly sending a lengthy survey to game developers with a question about how they sell physical games after their decision to stop producing physical game discs prompted intense bac
 
 📎 [阅读原文](https://www.ign.com/articles/playstation-reportedly-polling-game-developers-after-decision-to-kill-discs-sparks-backlash) — *IGN*
 
-### 2. The Gigabyte A16 Pro 16" RTX 5070 Ti Gaming Laptop Drops to $1,449 During Walmart's GeForce Week Sale
+### 3. The Gigabyte A16 Pro 16" RTX 5070 Ti Gaming Laptop Drops to $1,449 During Walmart's GeForce Week Sale
 
 [原文] Strong gaming chops in a slim and lightweight chassis.
 
 📎 [阅读原文](https://www.ign.com/articles/gigabyte-a16-pro-16-rtx-5070-ti-gaming-laptop-deal-september-2026) — *IGN*
 
-### 3. Arc Raiders Is Testing a PvE Mode Very Soon
+### 4. Arc Raiders Is Testing a PvE Mode Very Soon
 
 [原文] Embark Studios has announced that it will be testing a PvE mode for Arc Raiders next month.
 
 📎 [阅读原文](https://www.ign.com/articles/arc-raiders-is-testing-a-pve-mode-very-soon) — *IGN*
 
-### 4. Ubisoft Almost Made a Zelda Game With Ganondorf as the Protagonist
+### 5. Ubisoft Almost Made a Zelda Game With Ganondorf as the Protagonist
 
 [原文] Ubisoft Milan reportedly pitched a Zelda game to Nintendo that would have taken place in a new universe with a totally different protagonist, but the plan fell through, leading to one of the biggest w
 
 📎 [阅读原文](https://www.ign.com/articles/ubisoft-almost-made-a-zelda-game-with-ganondorf-as-the-protagonist) — *IGN*
 
-### 5. Target Confirms Jack Skellington's Real-Life Height in a New Halloween Sale Listing
-
-暂无摘要。
-
-📎 [阅读原文](https://www.ign.com/articles/target-confirms-jack-skellingtons-real-life-height-in-a-new-halloween-sale-listing) — *IGN*
-
 ---
 
 ## 🚗 汽车
 
-> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 31e6b32a-76f0-49ff-82d2-8bfda6705）
+> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 264c5fab-292a-4679-8ccb-ad5c93d84）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -359,45 +359,45 @@ The post VW ID. Buzz Taking Another Year Off After Stum
 
 ## 🌱 环境
 
-> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: a46b93e8-9fe4-4422-83c7-9a532a4fa）
+> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: d1b1179a-4ed5-4e2a-bc04-ddf97d0a9）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Texas Electric Utility Only Considered Gas to Power $10 Billion Meta Data Center
+### 1. Indian Point Energy Center’s Uncertain Future
+
+[原文] NY-17: Second in a series on the environmental stakes of one of the nation’s most fiercely contested congressional races. Nancy Vann’s resolve has become the subject of a local jingle. Its chorus goes
+
+📎 [阅读原文](https://insideclimatenews.org/news/25092026/new-york-indian-point-nuclear-future/) — *Inside Climate News*
+
+### 2. Why Germany Is Building an Ark for U.S. Climate Data
+
+[原文] This story was originally published by Yale Environment 360. In a modern five-story building in the center of Hamburg, Germany, technicians are preparing to install several new “racks”—gray metal casi
+
+📎 [阅读原文](https://insideclimatenews.org/news/25092026/germany-computing-center-hosts-us-climate-data/) — *Inside Climate News*
+
+### 3. Texas Electric Utility Only Considered Gas to Power $10 Billion Meta Data Center
 
 [原文] EL PASO—While Texas officials have hit pause on data center permitting, one project that is still moving ahead is Meta’s $10 billion, 1-gigawatt data center in northeast El Paso. Meta had already sign
 
 📎 [阅读原文](https://insideclimatenews.org/news/24092026/el-paso-electric-only-considered-gas-to-power-meta-data-center/) — *Inside Climate News*
 
-### 2. AI’s Meet-Cute With Climate Denial
+### 4. AI’s Meet-Cute With Climate Denial
 
 [原文] Earlier this week, President Donald Trump responded to rising public concerns about artificial intelligence with a post on Truth Social. “The same people that said, ‘We’ll all be dead in twelve years 
 
 📎 [阅读原文](https://insideclimatenews.org/news/24092026/inside-clean-energy-trump-calls-ai-concerns-hoax/) — *Inside Climate News*
 
-### 3. A Battle Brews Over Maine’s Salmon Farms
+### 5. A Battle Brews Over Maine’s Salmon Farms
 
 [原文] Glenda Beal’s roots in lobstering run nearly as deep as her roots in the town that shares her name: Beals Island, Maine. Her husband and two sons are lobstermen, as were her father and uncle, both gra
 
 📎 [阅读原文](https://insideclimatenews.org/news/24092026/industrial-aquaculture-threatens-maine-fishing-heritage/) — *Inside Climate News*
 
-### 4. At the UN, Panama Champions a Universal Declaration on the Rights of Nature
-
-[原文] NEW YORK—From the podium of the United Nations General Assembly, Panamanian President José Raúl Mulino called on fellow leaders to support a treaty affirming that nature has inherent rights.&#160; “To
-
-📎 [阅读原文](https://insideclimatenews.org/news/24092026/panama-rights-of-nature-un-general-assembly/) — *Inside Climate News*
-
-### 5. Corpus Christi Could Owe Texas $235M for Failed Desalination Plant
-
-[原文] Heading into election season, leaders in Corpus Christi face a puzzling question: what to do with $235 million from the state of Texas for a seawater desalination plant that was never built.&#160; Thi
-
-📎 [阅读原文](https://insideclimatenews.org/news/24092026/corpus-christi-desalination-plant-loan-defeasement/) — *Inside Climate News*
-
 ---
 
 ## 📚 教育
 
-> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 5d43f073-0975-42b5-b827-656f639c8）
+> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 2749e264-dc53-4f03-add0-235be4b90）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -435,45 +435,45 @@ The post VW ID. Buzz Taking Another Year Off After Stum
 
 ## 🎵 音乐
 
-> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 01c2590e-62e8-4d3a-a3fe-a00b675ba）
+> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 5c81d452-9f10-4ff2-b407-d11ad9fee）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Phoebe Bridgers Rings in Spooky Season With ‘On Video,’ From the ‘Primetime’ Soundtrack
+### 1. Abbey Road Photography Awards Announce 2026 Winners
+
+[原文] Japanese photographer Masayoshi Sukita was presented with the Lifetime Achievement Award, while Roberta Bayley received this year’s ICON award
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/abbey-road-photography-awards-winners-2026-1235630896/) — *Rolling Stone*
+
+### 2. Jane Doe Who Accused Jay-Z of Sexual Assault Fully Recants: ‘No Truth to Any of My Claims’
+
+[原文] The woman submitted a declaration in Jay-Z's malicious prosecution lawsuit and was dropped as a defendant by the Roc Nation mogul
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/jay-z-jane-doe-recants-sexual-assault-claims-tony-buzbee-1235631542/) — *Rolling Stone*
+
+### 3. Phoebe Bridgers Rings in Spooky Season With ‘On Video,’ From the ‘Primetime’ Soundtrack
 
 [原文] Singer-songwriter makes her acting debut in Lance Oppenheim's crime thriller, starring Robert Pattinson
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/phoebe-bridgers-on-video-primetime-soundtrack-1235625259/) — *Rolling Stone*
 
-### 2. Rough Weather Cancels Oceans Calling Festival’s Opening Day
+### 4. Rough Weather Cancels Oceans Calling Festival’s Opening Day
 
 [原文] Dave Matthews Band, Hootie and the Blowfish, and Ludacris were among the canceled performances
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/oceans-calling-festival-opening-day-canceled-weather-1235631620/) — *Rolling Stone*
 
-### 3. Madonna and Charli XCX Are Forever Club Kids on Reworked ‘Danceteria’
+### 5. Madonna and Charli XCX Are Forever Club Kids on Reworked ‘Danceteria’
 
 [原文] "Danceteria Afterhours" is a nonstop guided tour through nightclub lore
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/madonna-charli-xcx-danceteria-afterhours-1235631551/) — *Rolling Stone*
 
-### 4. Judge Poised to Slash $12.9 Million Jury Award in Chris Brown Dog Mauling Case
-
-[原文] A California judge signaled Thursday that he was inclined to reduce the award to about $8 million unless the housekeeper who was attacked opts for a new trial instead
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/chris-brown-dog-mauling-jury-award-judge-housekeeper-1235631039/) — *Rolling Stone*
-
-### 5. Morphine Dust Off Archival Recordings, Add New Baritone Sax Parts for ‘Cocoon’
-
-[原文] Title song from eight-track album, recorded a year before frontman Mark Sandman’s death, streaming now
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/morphine-cocoon-archival-album-1235630979/) — *Rolling Stone*
-
 ---
 
 ## ✈️ 旅游
 
-> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 03554c71-9bc3-4a56-9dba-dac7eaa07）
+> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 4f5b543b-5863-44be-8aea-48f8d709c）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
