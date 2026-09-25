@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月25日** | 生成时间: 2026-09-25 05:18
+**2026年09月25日** | 生成时间: 2026-09-25 12:11
 
 ---
 
@@ -12,45 +12,45 @@
 
 ## 🌍 国际政治
 
-> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 63f0e2e2-ebc0-48c4-bfd8-9e51ce159）
+> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 8c177eb5-4931-46b1-8d80-188eb0512）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. White House restores access to media outlets banned by Trump after judge's order
+### 1. Xi got Trump's red carpet welcome - but not everything he wanted
 
-[原文] CNN, Politico and MS NOW were allowed back into the White House after some of their staff were earlier turned away.
+[原文] China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Netanyahu defends Israeli military action as delegates walk out before UN speech
+
+[原文] The Israeli leader labels those who left his speech at the UN General Assembly as "moral cowards".
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. Media outlets banned by Trump denied access to White House dinner despite judge's order
+
+[原文] CNN and MS NOW said reporters were denied access to covering White House arrivals for a state dinner, despite a judge ruling their passes must be restored.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Why Australia chose the world's biggest political stage to reveal OpenAI hack
+### 4. Hundreds of thousands expected in Paris for Pope's visit
+
+[原文] The highpoint of his time in Paris will be a giant Mass attended by more than half a million people.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Why Australia chose the world's biggest political stage to reveal OpenAI hack
 
 [原文] Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Four civilians killed in Pakistani strikes in Afghanistan, Taliban says
-
-[原文] Pakistan says it struck 10 targets, adding the strikes were "strictly limited to identified military objectives".
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Priest killed and four injured in knife attack at Polish abbey
-
-[原文] A male suspect from Ukraine was arrested after the stabbings in the town of Jarosław, police say.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Italy ministers agree to ban burqa and niqab in school and cap foreigners in class
-
-[原文] Prime Minister Giorgia Meloni described the measures as "common-sense tools that do not divide but really help to integrate".
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
 ---
 
 ## 💰 经济财经
 
-> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: b749f3e9-6f20-4bfd-8ee7-ba68850b2）
+> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 1a5d34d1-7fb1-4b36-ab2a-8d603dae8）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -60,187 +60,187 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/24/iran-war-powers-senate-vote-fuel.html) — *CNBC*
 
-### 2. Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed
+### 2. Here's who is attending the Trump-Xi state dinner
 
-[原文] Markets expect the central bank will take a firmer hand on inflation. It's not that easy.
+[原文] U.S. President Donald Trump hosted a dinner Thursday for Chinese President Xi Jinping.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/24/surging-treasury-yields-are-posing-a-brand-new-problem-for-kevin-warsh-and-the-fed.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/25/heres-who-is-attending-the-trump-xi-state-dinner.html) — *CNBC*
 
-### 3. History shows financial calamities occur when rates rise rapidly like this: 'Something always breaks'
+### 3. Atlanta is getting pandas: China's Xi revives a longtime diplomatic strategy at summit with U.S.
 
-[原文] The 10-year Treasury note yield is spiking to levels not seen in years, and that may be a bad omen for financial markets.
+[原文] Chinese President Xi Jinping promised two giant pandas to Zoo Atlanta, reviving Beijing's decades-old charm offensive.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/24/history-shows-financial-calamities-occur-when-rates-rise-rapidly-like-this-something-always-breaks.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/25/china-us-xi-trump-visit-panda-student-visa-.html) — *CNBC*
 
-### 4. Pete Hegseth reports at least $3.1 million in cash, investments and bitcoin
+### 4. China's Xi urges U.S. to cooperate on AI
 
-[原文] Defense Secretary Pete Hegseth reported at least $3.1 million in assets as he faces an impeachment push in Congress over his handling of the Iran war.
+[原文] U.S. President Donald Trump hosted Chinese President Xi Jinping on Thursday at the White House.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/24/pete-hegseth-financial-disclosure-cash-investments-bitcoin.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/25/chinas-xi-urges-us-to-cooperate-on-ai.html) — *CNBC*
 
-### 5. Oracle sends 'force majeure' notice about data center project — stock drops 3%
+### 5. Trump, Xi to attend state dinner after White House meeting
 
-[原文] Oracle is reportedly looking to delay payment on Project Jupiter if the data center fails to come online in 2028
+[原文] Trump greeted China's Xi at Joint Base Andrews, marking the U.S. president's first time traveling to the facility to welcome a foreign leader.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/24/oracle-data-center-force-majeure.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/24/trump-xi-meeting-china-washington.html) — *CNBC*
 
 ---
 
 ## 💻 科技
 
-> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: cad05211-6bdb-477c-867c-b6d278a57）
+> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: b51e7733-6f04-434f-95c7-95b6c8cb5）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Nexterity wants to automate the hard, dangerous part of pipefitting
+### 1. Waymo is scaling fast: Here’s what the fleet data shows
+
+[原文] In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hot spots as well.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/) — *TechCrunch*
+
+### 2. Nexterity wants to automate the hard, dangerous part of pipefitting
 
 [原文] The startup's robot can tighten or loosen four bolts at a time, and it fits in a Pelican case.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/) — *TechCrunch*
 
-### 2. Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass
+### 3. Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass
 
 [原文] Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/) — *TechCrunch*
 
-### 3. PrismML brings its tiny LLMs to Qualcomm-powered smart glasses
+### 4. PrismML brings its tiny LLMs to Qualcomm-powered smart glasses
 
 [原文] Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/) — *TechCrunch*
 
-### 4. Meet Feather, the startup building the ‘Android of robotics’ for developers
+### 5. Meet Feather, the startup building the ‘Android of robotics’ for developers
 
 [原文] Feather is betting on a customizable, $30,000 platform built for software developers.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/) — *TechCrunch*
 
-### 5. Oracle sends force majeure notice on its New Mexico Stargate data center
-
-[原文] The notice would allow Oracle to delay payments should the facility miss its 2028 target to come online.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/) — *TechCrunch*
-
 ---
 
 ## 🔬 科学
 
-> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: f319e8b9-dcad-4d8f-bf08-7da3bbb21）
+> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: ff5d4402-9902-49fb-8de3-5e717d62f）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ADHD and autism diagnoses have surged. A massive study may help explain why
+### 1. “We found something never seen before” – A dead star is producing a shock wave that shouldn’t exist
+
+[原文] A dead white dwarf with no detectable disk has somehow produced a powerful shock wave that appears to have persisted for at least 1,000 years. Its magnetic field may be partly responsible, but astrono
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260924020410.htm) — *Science Daily*
+
+### 2. Scientists gave worms magnetic bacteria. They lived 43% longer
+
+[原文] A magnet-producing bacterium extended the average lifespan of C. elegans worms by more than 43% while helping protect their neurological and intestinal health. Researchers traced much of the effect to
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260924020357.htm) — *Science Daily*
+
+### 3. Ancient meteorites reveal a powerful force that helped build the Solar System
+
+[原文] Ancient grains inside one of the oldest known meteorites reveal that a surprisingly strong magnetic field existed during the solar system’s first 200,000 years. The discovery suggests magnetism worked
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260924020355.htm) — *Science Daily*
+
+### 4. ADHD and autism diagnoses have surged. A massive study may help explain why
 
 [原文] A large Danish study found that children diagnosed with ADHD or autism today more closely resemble their peers in the general population than those diagnosed 10 years ago. The shift suggests that risi
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260924020353.htm) — *Science Daily*
 
-### 2. “We just need to go back” – Uranus’ moon Ariel may have hidden a 100-mile-deep ocean
+### 5. “We just need to go back” – Uranus’ moon Ariel may have hidden a 100-mile-deep ocean
 
 [原文] Ariel, one of Uranus’ moons, may once have contained a subsurface ocean more than 100 miles deep beneath its fractured icy shell. The finding, combined with similar evidence from Miranda, suggests the
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260923035951.htm) — *Science Daily*
 
-### 3. Scientists find two tiny new snails with shells that close like doors
-
-[原文] Scientists discovered two tiny new snail species in Montenegro, showing that even Europe still holds animals unknown to science. One lives in the threatened Komarnica Canyon, where a proposed hydropow
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260923035936.htm) — *Science Daily*
-
-### 4. Distant time crystals can somehow fall into the same rhythm
-
-[原文] Researchers have shown that multiple time crystals inside a semiconductor can synchronize their oscillations, much like pendulum clocks gradually falling into the same rhythm. The coupling is carried 
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260923035934.htm) — *Science Daily*
-
-### 5. Scientists thought they knew how this 70-year-old leukemia drug worked
-
-[原文] A 70-year-old leukemia drug is still revealing new secrets. Researchers found that removing a protein called NUDT5 protected cells from the drug, even though simply blocking the protein had little eff
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260923035932.htm) — *Science Daily*
-
 ---
 
 ## ⚽ 体育
 
-> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 3bb736bf-1251-4b00-8dd6-3e22a10ab）
+> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 7037d14e-8689-4037-a5cd-74b56df53）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Buttler injury halts England as Sri Lanka level series
+### 1. Bellamy wants more from Wales after loss to Portugal
+
+[原文] Craig Bellamy believes there is "more to come" from his Wales side in the Nations League following their opening-match loss in Lisbon.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c63eqkdnvkq8o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. Buttler injury halts England as Sri Lanka level series
 
 [原文] Jos Buttler's bravery comes in vain as Sri Lanka fight back to beat England in the second one-day international at Headingley and set up a series decider at The Oval.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cw804nd022elo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Drinking at football matches - would fans welcome it?
+### 3. Man Utd borrow another £90m as debt tops £1.1bn
 
-[原文] Andy Burnham has long championed a repeal of the ban which prevents football supporters from drinking alcohol in the view of the pitch. But do fans even want it?
+[原文] Manchester United confirm they have borrowed another £90m since 30 June, to take their overall debt to more than £1.1bn.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cq1kx140gwlzo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cmx2zv4e320do?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. The compromises and power struggles that shaped Fury-Joshua
+### 4. The compromises and power struggles that shaped Fury-Joshua
 
 [原文] BBC Sport takes a look at the compromises, power struggles and competing interests behind Tyson Fury v Anthony Joshua.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/articles/c65y74pjl0w4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Ex-England striker Carroll reveals he was sexually assaulted in 2021
+### 5. Uefa fears impact of Premier League spending on transfer market
 
-[原文] Former England striker Andy Carroll reveals he was sexually assaulted in 2021, by a man who has subsequently been jailed for three years.
+[原文] Uefa believes "a clear two-speed system" is emerging in the transfer market due to huge spending by Premier League clubs this summer.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c6grv7x544qro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. How PSG's Ballon d'Or duo are pushing each other on
-
-[原文] While there can only be one winner, team-mates Ousmane Dembele and Khvicha Kvaratskhelia are backing each other to win the Ballon d'Or.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c3qjk1qd1wx0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c639merx84jno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
 ## 🎬 娱乐
 
-> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 043078ce-39b4-4ebc-93b4-fafd56e4f）
+> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 51ae2ace-72a0-43e4-bdad-c2d921962）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Jay Pharoah, Cheri Oteri, Adam Devine Among ‘Universal Basic Guys’ Season 3 Guest Stars (EXCLUSIVE)
+### 1. Paramount’s David Ellison Attends Trump White House State Dinner for Chinese President; CNN and MS NOW Reporters Barred From Event
 
-[原文] “Saturday Night Live” alums Jay Pharoah and Cheri Oteri, as well as “Workaholics” star Adam Devine, are among the guest stars set to appear on the upcoming Season 3 of Fox&#8217;s animated series “Uni
+[原文] David Ellison, CEO of Paramount Skydance, dined at the White House Thursday evening at the state dinner held for visiting Chinese President Xi Jinping &#8212; but the White House shut out reporters fo
 
-📎 [阅读原文](https://variety.com/2026/tv/news/universal-basic-guys-season-3-guest-stars-jay-pharoah-more-1236874002/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/david-ellison-trump-white-house-state-dinner-chinese-president-cnn-1236875329/) — *Variety*
 
-### 2. ‘Quiz From God’: Japanese Remake of CJ ENM K-Drama, Starring Mamiya Shotaro, Sets Global Prime Video Launch (EXCLUSIVE)
+### 2. Hannah Einbinder Speaks Out After Being Arrested at Netanyahu Protest: ‘Let Us Not Mistake the Spectacle for the Story’
 
-[原文] Mamiya Shotaro leads a Japanese remake of CJ ENM&#8217;s Korean hit drama &#8220;Quiz From God,&#8221; which will stream exclusively on Prime Video from Dec. 4. The Prime Original series casts Mamiya 
+[原文] Hannah Einbinder is speaking out after being arrested earlier Thursday while protesting an appearance by Israeli Prime Minister Benjamin Netanyahu. The &#8220;Hacks&#8221; star, who was protesting alo
 
-📎 [阅读原文](https://variety.com/2026/tv/news/quiz-from-god-japanese-remake-prime-video-release-date-1236873267/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/politics/news/hannah-einbinder-speaks-out-arrested-netanyahu-protest-1236875306/) — *Variety*
 
-### 3. Variety Power of Women: Industry Leaders Mingle With Stars to Celebrate Female Empowerment and Philanthropy
+### 3. Aamir Khan to Receive Screen Icon Award as Singapore Film Festival Opens With Hur Jin-ho’s ‘The Assassin(s)’
 
-[原文] A packed lineup of talent and industry executives stepped out for Variety’s Power of Women event at the Beverly Hills Hotel on Wednesday night. Making the rounds at cocktails and inside the ballroom w
+[原文] The Singapore International Film Festival (SGIFF) will present its Screen Icon Award to Indian actor, director and producer Aamir Khan at its 37th edition, with a 25th-anniversary Special Presentation
 
-📎 [阅读原文](https://variety.com/lists/variety-power-of-women-stassi-schroeder-executive-gallery/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/aamir-khan-singapore-film-festival-hur-jin-ho-the-assassins-1236873907/) — *Variety*
 
-### 4. ‘Avengers: Endgame Encore’ Adds 4 New Scenes Tying to ‘Doomsday’: [SPOILER] Fights Doctor Doom, [SPOILER] Travels to the Past and the Multiverse Collapses
+### 4. The Horror Show Launches at Academy Museum: Costumes and Props From ‘Halloween,’ ‘Saw,’ ‘Poltergeist’ and More
 
-[原文] SPOILER ALERT: This article contains spoilers for &#8220;Avengers: Endgame Encore,&#8221; now playing in theaters. In the lead-up to &#8220;Avengers: Doomsday,&#8221; Marvel has re-released &#8220;Ave
+[原文] Just in time for the scariest season, the Academy Museum of Motion Pictures in Los Angeles is unveiling The Horror Show, a major survey of costumes, props, drawings, posters and other artifacts from t
 
-📎 [阅读原文](https://variety.com/2026/film/news/avengers-endgame-encore-new-scenes-doctor-doom-hulk-loki-1236873843/) — *Variety*
+📎 [阅读原文](https://variety.com/gallery/horror-show-academy-museum-halloween-saw/) — *Variety*
 
-### 5. Letterboxd Suitors Include A24 and New York Times; Sale Could Value Social Movie Platform at $300 Million: Report
+### 5. Inside Variety’s Power of Women 2026 Gift Bag: Goop Skincare, Tarte Beauty, Voluspa Candles and More
 
-[原文] A bidding war may be in full flower for Letterboxd, the popular film-reviews and social service that has been fielding inbound acquisition offers for several months. Indie studio A24 and the New York 
+[原文] Guests didn’t leave this year’s Variety Power of Women event empty-handed. After a glitzy evening at the Beverly Hills Hotel on Wednesday night (featuring powerhouse performances from Jennifer Hudson 
 
-📎 [阅读原文](https://variety.com/2026/film/news/letterboxd-a24-ny-times-acquisition-talks-300-million-1236874957/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/shopping/news/power-of-women-gift-bag-2026-shop-online-1236875113/) — *Variety*
 
 ---
 
 ## 🏥 健康
 
-> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: d6b31eb8-af16-45a2-9dbe-629346eab）
+> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 8c163181-e618-46ef-91d6-0ac10b31b）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -278,45 +278,45 @@
 
 ## 🎮 游戏
 
-> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 97d5f9e0-12f1-4c3c-bc5a-704e61448）
+> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: ff066bde-37b9-4d5b-be96-5cba59f90）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Robert Pattinson Casts Doubt on a Crossover Between His Batman and James Gunn's Superman
+### 1. PlayStation Reportedly Polling Game Developers After Decision to Kill Discs Sparks Backlash
 
-[原文] Robert Pattinson has trouble imagining a universe where his Batman and James Gunn's Superman could co-exist, casting doubt on a potential crossover.
+[原文] PlayStation is reportedly sending a lengthy survey to game developers with a question about how they sell physical games after their decision to stop producing physical game discs prompted intense bac
 
-📎 [阅读原文](https://www.ign.com/articles/robert-pattinson-casts-doubt-on-a-crossover-between-his-batman-and-james-gunns-superman) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/playstation-reportedly-polling-game-developers-after-decision-to-kill-discs-sparks-backlash) — *IGN*
 
-### 2. Spider-Man's Jacob Batalon Explains What Destin Daniel Cretton Likes Most About Naruto and Why Team 7 Could Be the Movie's Focus
+### 2. The Gigabyte A16 Pro 16" RTX 5070 Ti Gaming Laptop Drops to $1,449 During Walmart's GeForce Week Sale
 
-[原文] Jacob Batalon shed some light on what Brand New Day director Destin Daniel Cretton likes most about Naruto, giving fans a tentative idea of the direction his live-action adaptation of the iconic anime
+[原文] Strong gaming chops in a slim and lightweight chassis.
 
-📎 [阅读原文](https://www.ign.com/articles/spider-mans-jacob-batalon-explains-what-destin-daniel-cretton-likes-most-about-naruto-and-why-team-7-could-be-the-movies-focus) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/gigabyte-a16-pro-16-rtx-5070-ti-gaming-laptop-deal-september-2026) — *IGN*
 
-### 3. The Back to the Future 4K Blu-ray Trilogy Drops to It's Lowest Price Ever at Gruv
+### 3. Arc Raiders Is Testing a PvE Mode Very Soon
+
+[原文] Embark Studios has announced that it will be testing a PvE mode for Arc Raiders next month.
+
+📎 [阅读原文](https://www.ign.com/articles/arc-raiders-is-testing-a-pve-mode-very-soon) — *IGN*
+
+### 4. Ubisoft Almost Made a Zelda Game With Ganondorf as the Protagonist
+
+[原文] Ubisoft Milan reportedly pitched a Zelda game to Nintendo that would have taken place in a new universe with a totally different protagonist, but the plan fell through, leading to one of the biggest w
+
+📎 [阅读原文](https://www.ign.com/articles/ubisoft-almost-made-a-zelda-game-with-ganondorf-as-the-protagonist) — *IGN*
+
+### 5. Target Confirms Jack Skellington's Real-Life Height in a New Halloween Sale Listing
 
 暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/the-back-to-the-future-4k-blu-ray-trilogy-drops-to-its-lowest-price-ever-at-gruv) — *IGN*
-
-### 4. The Talix 20,000mAh 190W Power Bank Drops to Just $29.99 Ahead of Amazon Prime Day
-
-[原文] Can fast charge the 2026 Apple MacBook Pro 16" M5, ASUS ROG Xbox Ally X20, and more.
-
-📎 [阅读原文](https://www.ign.com/articles/talix-20000mah-190w-power-bank-deal-september-2026) — *IGN*
-
-### 5. Bungie Finally Details Radical Changes for Marathon
-
-[原文] It's no secret that Marathon has had a rough time since launching in March 2026, but Bungie is hard at work on new game modes that it's hoping will breathe new life into the game.
-
-📎 [阅读原文](https://www.ign.com/articles/bungie-finally-details-radical-changes-for-marathon) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/target-confirms-jack-skellingtons-real-life-height-in-a-new-halloween-sale-listing) — *IGN*
 
 ---
 
 ## 🚗 汽车
 
-> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 7ab84a2b-9ee4-4eaf-8b97-19953e8f2）
+> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 31e6b32a-76f0-49ff-82d2-8bfda6705）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -359,45 +359,45 @@ The post VW ID. Buzz Taking Another Year Off After Stum
 
 ## 🌱 环境
 
-> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 1ada2535-5acd-42d5-9825-3779f3a17）
+> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: a46b93e8-9fe4-4422-83c7-9a532a4fa）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. AI’s Meet-Cute With Climate Denial
+### 1. Texas Electric Utility Only Considered Gas to Power $10 Billion Meta Data Center
+
+[原文] EL PASO—While Texas officials have hit pause on data center permitting, one project that is still moving ahead is Meta’s $10 billion, 1-gigawatt data center in northeast El Paso. Meta had already sign
+
+📎 [阅读原文](https://insideclimatenews.org/news/24092026/el-paso-electric-only-considered-gas-to-power-meta-data-center/) — *Inside Climate News*
+
+### 2. AI’s Meet-Cute With Climate Denial
 
 [原文] Earlier this week, President Donald Trump responded to rising public concerns about artificial intelligence with a post on Truth Social. “The same people that said, ‘We’ll all be dead in twelve years 
 
 📎 [阅读原文](https://insideclimatenews.org/news/24092026/inside-clean-energy-trump-calls-ai-concerns-hoax/) — *Inside Climate News*
 
-### 2. A Battle Brews Over Maine’s Salmon Farms
+### 3. A Battle Brews Over Maine’s Salmon Farms
 
 [原文] Glenda Beal’s roots in lobstering run nearly as deep as her roots in the town that shares her name: Beals Island, Maine. Her husband and two sons are lobstermen, as were her father and uncle, both gra
 
 📎 [阅读原文](https://insideclimatenews.org/news/24092026/industrial-aquaculture-threatens-maine-fishing-heritage/) — *Inside Climate News*
 
-### 3. At the UN, Panama Champions a Universal Declaration on the Rights of Nature
+### 4. At the UN, Panama Champions a Universal Declaration on the Rights of Nature
 
 [原文] NEW YORK—From the podium of the United Nations General Assembly, Panamanian President José Raúl Mulino called on fellow leaders to support a treaty affirming that nature has inherent rights.&#160; “To
 
 📎 [阅读原文](https://insideclimatenews.org/news/24092026/panama-rights-of-nature-un-general-assembly/) — *Inside Climate News*
 
-### 4. Corpus Christi Could Owe Texas $235M for Failed Desalination Plant
+### 5. Corpus Christi Could Owe Texas $235M for Failed Desalination Plant
 
 [原文] Heading into election season, leaders in Corpus Christi face a puzzling question: what to do with $235 million from the state of Texas for a seawater desalination plant that was never built.&#160; Thi
 
 📎 [阅读原文](https://insideclimatenews.org/news/24092026/corpus-christi-desalination-plant-loan-defeasement/) — *Inside Climate News*
 
-### 5. Foreign Fishing Fleets Are Robbing West African Countries of Key Nutrients
-
-[原文] Seafood isn’t just a key source of protein and calories; it’s also where millions around the world get essential vitamins and minerals needed to build tissue, fight infections and grow. Yet, as modern
-
-📎 [阅读原文](https://insideclimatenews.org/news/24092026/foreign-fishing-fleets-plundering-west-african-waters/) — *Inside Climate News*
-
 ---
 
 ## 📚 教育
 
-> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: fbc79fb5-7677-47a7-a15f-4f53743fd）
+> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 5d43f073-0975-42b5-b827-656f639c8）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -435,45 +435,45 @@ The post VW ID. Buzz Taking Another Year Off After Stum
 
 ## 🎵 音乐
 
-> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 873de015-9a21-4801-8a96-17ee05699）
+> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 01c2590e-62e8-4d3a-a3fe-a00b675ba）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Judge Poised to Slash $12.9 Million Jury Award in Chris Brown Dog Mauling Case
+### 1. Phoebe Bridgers Rings in Spooky Season With ‘On Video,’ From the ‘Primetime’ Soundtrack
+
+[原文] Singer-songwriter makes her acting debut in Lance Oppenheim's crime thriller, starring Robert Pattinson
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/phoebe-bridgers-on-video-primetime-soundtrack-1235625259/) — *Rolling Stone*
+
+### 2. Rough Weather Cancels Oceans Calling Festival’s Opening Day
+
+[原文] Dave Matthews Band, Hootie and the Blowfish, and Ludacris were among the canceled performances
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/oceans-calling-festival-opening-day-canceled-weather-1235631620/) — *Rolling Stone*
+
+### 3. Madonna and Charli XCX Are Forever Club Kids on Reworked ‘Danceteria’
+
+[原文] "Danceteria Afterhours" is a nonstop guided tour through nightclub lore
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/madonna-charli-xcx-danceteria-afterhours-1235631551/) — *Rolling Stone*
+
+### 4. Judge Poised to Slash $12.9 Million Jury Award in Chris Brown Dog Mauling Case
 
 [原文] A California judge signaled Thursday that he was inclined to reduce the award to about $8 million unless the housekeeper who was attacked opts for a new trial instead
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/chris-brown-dog-mauling-jury-award-judge-housekeeper-1235631039/) — *Rolling Stone*
 
-### 2. Morphine Dust Off Archival Recordings, Add New Baritone Sax Parts for ‘Cocoon’
+### 5. Morphine Dust Off Archival Recordings, Add New Baritone Sax Parts for ‘Cocoon’
 
 [原文] Title song from eight-track album, recorded a year before frontman Mark Sandman’s death, streaming now
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/morphine-cocoon-archival-album-1235630979/) — *Rolling Stone*
 
-### 3. See Ozzy Osbourne’s Fans Serenade Emotional Singer in ‘Back to the Beginning’ Trailer
-
-[原文] Concert film for Osbourne’s farewell show arrives in theaters on October 28
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/ozzy-osbourne-back-to-the-beginning-trailer-watch-1235630989/) — *Rolling Stone*
-
-### 4. Inside Dolly Parton’s Final Recording — A Duet With Bono on the New U2 Album
-
-[原文] “She got out of her bed to sing this song,” Bono tells Rolling Stone
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/dolly-parton-final-recording-bono-u2-torn-interview-1235630774/) — *Rolling Stone*
-
-### 5. U2 Announce New Album, ‘Carnaval de Luz,’ Out Nov. 13
-
-[原文] The band also releases a new single, the punk ranger “Silencio,” and reveals that the album features Dolly Parton’s final vocal performance
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/u2-new-album-carnaval-de-luz-interview-1235630567/) — *Rolling Stone*
-
 ---
 
 ## ✈️ 旅游
 
-> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 3ff8b699-a128-48e5-ab61-b80a89768）
+> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 03554c71-9bc3-4a56-9dba-dac7eaa07）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
