@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月26日** | 生成时间: 2026-09-26 12:15
+**2026年09月26日** | 生成时间: 2026-09-26 19:03
 
 ---
 
@@ -12,45 +12,45 @@
 
 ## 🌍 国际政治
 
-> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 12718c23-1177-4402-be7a-7a29275a1）
+> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 23912966-fa88-4a63-8a6f-4f9c20b6d）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
 ### 1. Iran offers US deal to reopen Strait of Hormuz in seven days
 
-[原文] Asked about the Iranian offer, a US official told the BBC "constructive discussions" were taking place through mediators.
+[原文] Asked about the Iranian proposal, a US official told the BBC "constructive discussions" were taking place through mediators.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 2. OpenAI bots meddled with multiple US government agency sites
 
-[原文] OpenAI said its bots accessed public data from the US Census and the Securities and Exchange Commission, which regulates US stock markets.
+[原文] OpenAI said its bots accessed public data from a range of institutions during test exercises.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says
+### 3. At least two dead after explosion destroys building close to Acropolis in Athens
 
-[原文] Such strikes aim to disrupt "people's ability to stay connected, study, work", says Ukraine's president.
+[原文] Local media report the property included a holiday rental, with US tourists and a UK national among the missing.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. South African white genocide does not exist, new ambassador to US tells BBC
+### 4. Bangkok roads submerged as flood disaster declared
+
+[原文] An emergency has been declared across the capital of Thailand as days of heavy rain leave the city inundated.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. South African white genocide does not exist, new ambassador to US tells BBC
 
 [原文] Roelf Meyer tells the BBC that being a white Afrikaner gives him legitimacy to challenge Trump's claim of a genocide.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach
-
-[原文] Current and former agents speak to the BBC about the devastating impact of the FBI hack.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
 ---
 
 ## 💰 经济财经
 
-> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 03fd5932-45c0-4fcd-9d13-1d2bad955）
+> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 8492c7ec-4114-4a40-b8a3-bc2c44adc）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -66,29 +66,29 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/25/flights-storm-new-york-boston-east-coast.html) — *CNBC*
 
-### 3. CEO who posted 'Lake America' sweatshirt photos is no longer with the company
+### 3. Audemars Piguet says its Royal Pop collaboration with Swatch is breaking sales records, despite luxury watch slump and tariffs
 
-[原文] Smith on Sept. 11 had posted an allegedly AI-edited photo on Facebook of her family dressed in "Lake America" sweatshirts.
+[原文] Swiss luxury watchmaker Audemars Piguet says its sales and engagement are breaking records after its risky, eye-catching Royal Pop collaboration with Swatch.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/25/ceo-who-posted-lake-america-sweatshirt-photos-has-left-the-company.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/26/audemars-piguet-and-royal-pop-defy-luxury-watch-slump-and-tariffs.html) — *CNBC*
 
-### 4. U.S. appeals court upholds Pentagon designation of Anthropic as supply chain risk
+### 4. Here's exactly what Paramount promised Hollywood to land WBD — and why some are still skeptical
 
-[原文] In a 2-1 decision, a federal appeals court upheld the Department of Defense's blacklisting of Anthropic.
+[原文] Paramount CEO David Ellison's antitrust settlement eased some theatrical concerns, but questions remain about what happens when the five-year agreement ends.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/25/paramount-hollywood-promises.html) — *CNBC*
 
-### 5. Appeals court rules that states can regulate Kalshi’s sports prediction markets, dealing another legal blow to platforms
+### 5. Chinese AI models surge in global popularity — and Washington is worried
 
-[原文] The decision is the second in less than a month by an appeals court that states have a role in regulating sports-related event contracts.
+[原文] Usage of Chinese AI models by businesses across the globe has increased substantially in 2026.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/25/appeals-court-rules-states-can-regulate-sports-prediction-markets.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/26/china-ai-global-adoption.html) — *CNBC*
 
 ---
 
 ## 💻 科技
 
-> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: e683dd3d-3446-402b-a3c5-c3631e1cc）
+> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 73127286-8d8e-4ed5-b1fb-b5fd7a743）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -126,7 +126,7 @@
 
 ## 🔬 科学
 
-> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 9ba37fcf-764e-403e-b34b-6fbaf2f4e）
+> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 3bceb92a-dcc2-4285-bd99-a02cad72a）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -164,83 +164,83 @@
 
 ## ⚽ 体育
 
-> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 1b05c082-5dcc-424d-973d-ddfc0280b）
+> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 5e4a255c-f801-4a17-82a0-822c46b97）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Clubs seek legal advice over Man City charges compensation
+### 1. The computer hacker who tried to take down Man City
 
-[原文] Premier League clubs are seeking legal advice as to whether they would have a compensation claim over the Manchester City 115 charges case.
+[原文] BBC Sport travelled to Portugal to find out more about Rui Pinto - the computer hacker who sparked the Manchester City investigation.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cwywld5v28jo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Relegation? Titles stripped? Appeals? What next for Man City
+### 2. Ngumoha not in England squad to face Spain
 
-[原文] It has taken more than two years, but a judgement finally appears to have been made on the 115 charges levelled against Man City. Here's what it means.
+[原文] Liverpool teenager Rio Ngumoha is not named in England's matchday squad for Saturday's Nations League opener against Spain.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cx30540044q0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cqn744el41d8o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Rodri believes in Man City's 'innocence'
+### 3. Republic of Ireland news conference delayed before controversial Israel game
 
-[原文] Former Manchester City midfielder Rodri believes the club are innocent of any financial wrongdoing and will trust them unless they are proved otherwise.
+[原文] The Republic of Ireland delay the pre-match news conference planned for Sunday's Uefa Nations League game against Israel in Hungary - a fixture campaigners have called on them to boycott.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cmkgwwze9r28o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c962jjl18g3ro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Palmer misses too many opportunities to play for England - Tuchel
+### 4. Joshua fight at risk over promoter row, says Fury
 
-[原文] Thomas Tuchel has said that Cole Palmer "misses too many opportunities" to play for England after the Chelsea forward pulled out of the latest squad.
+[原文] Tyson Fury says his long-awaited all-British heavyweight fight against Anthony Joshua in December is in jeopardy.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cm9dww15527lo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/articles/cq3d77ppnzdro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. O'Neill left 'baffled' by refereeing in late NI win in Georgia
+### 5. Chadwick says driving F1 car 'top of bucket list'
 
-[原文] Michael O'Neill has said he was "baffled" by some of the refereeing decisions in Friday's 1-0 win in Georgia in the Nations League.
+[原文] Jamie Chadwick says testing a Formula 1 car is the highlight of her motorsport career.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c6qxvvw15p0lo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/ck5ywrn20z3vo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
 ## 🎬 娱乐
 
-> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: b1ad15e9-6674-4568-9a71-b60335a06）
+> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 061df53a-5fd1-4d2e-83e8-cda878963）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘Hanuman Ansh’ Indian Sleeper Hit’s International Distribution Strategy Unveiled by ‘K.G.F,’ ‘Kantara’ Outfit Hombale Films (EXCLUSIVE)
+### 1. Tilly Norwood Would Love to Work With Tom Holland and Olivia Colman, ‘but Only If It Were Their Digital Twins’ on an ‘AI Production’
+
+[原文] A year after announcing AI actress Tilly Norwood at Zurich Film Festival’s Summit, Particle 6 founder and Norwood creator Eline van der Velden returned to the Swiss event to look back at the backlash 
+
+📎 [阅读原文](https://variety.com/2026/film/global/tilly-norwood-tom-holland-olivia-colman-ai-production-1236876240/) — *Variety*
+
+### 2. ‘Hanuman Ansh’ Indian Sleeper Hit’s International Distribution Strategy Unveiled by ‘K.G.F,’ ‘Kantara’ Outfit Hombale Films (EXCLUSIVE)
 
 [原文] Indian devotional film &#8220;Hanuman Ansh&#8221; has grossed more than $3.5 million outside its home territory since Hombale Films took it to international audiences, and the company behind the block
 
 📎 [阅读原文](https://variety.com/2026/film/news/hanuman-ansh-indian-sleeper-hit-hombale-films-strategy-1236876199/) — *Variety*
 
-### 2. Scarlett Johansson Takes Break From Filming Overseas for ‘Paper Tiger’ NYFF Premiere After Skipping Cannes: ‘I’m Hallucinating’
+### 3. Scarlett Johansson Takes Break From Filming Overseas for ‘Paper Tiger’ NYFF Premiere After Skipping Cannes: ‘I’m Hallucinating’
 
 [原文] A very jet-lagged Scarlett Johansson reunited with co-stars Adam Driver and Miles Teller for the New York Film Festival premiere of &#8220;Paper Tiger,&#8221; which kicked off the festival&#8217;s 64t
 
 📎 [阅读原文](https://variety.com/2026/film/festivals/scarlett-johansson-paper-tiger-new-york-film-festival-premiere-adam-driver-1236872284/) — *Variety*
 
-### 3. ‘Love Hypothesis’ Director Claire Scanlon Breaks Down the Biggest ‘Star Wars’ Easter Eggs, From Gracie Abrams’ Song to Color-Coded Wardrobes
+### 4. ‘Love Hypothesis’ Director Claire Scanlon Breaks Down the Biggest ‘Star Wars’ Easter Eggs, From Gracie Abrams’ Song to Color-Coded Wardrobes
 
 [原文] “Star Wars” has featured iconic locations throughout the franchise, taking audiences to Tatooine, Naboo and now, a campus biology lab at Stanford University. The romantic comedy “Love Hypothesis” prem
 
 📎 [阅读原文](https://variety.com/2026/film/features/the-love-hypothesis-star-wars-easter-eggs-1236875151/) — *Variety*
 
-### 4. Isaac Mizrahi on the ‘Unzipped’ Restoration, the John Galliano Met Gala Fiasco and Why the ‘Devil Wears Prada’ Cerulean Blue Speech ‘Makes Me Want to Kill Somebody’
+### 5. Isaac Mizrahi on the ‘Unzipped’ Restoration, the John Galliano Met Gala Fiasco and Why the ‘Devil Wears Prada’ Cerulean Blue Speech ‘Makes Me Want to Kill Somebody’
 
 [原文] No doubt Isaac Mizrahi is excited about the release of the newly restored “Unzipped,” the 1995 documentary chronicling a moment in time when he was one of the fashion world&#8217;s hottest designers. 
 
 📎 [阅读原文](https://variety.com/2026/film/columns/isaac-mizrahi-unzipped-restoration-john-galliano-met-gala-devil-wears-prada-cerulean-blue-1236876106/) — *Variety*
 
-### 5. Olivia Rodrigo’s ‘Unraveled’ Tour Setlist: Every Song Played on Opening Night in Connecticut
-
-[原文] Olivia Rodrigo officially kicked off the &#8220;Unraveled&#8221; tour on Friday night with her first show at PeoplesBank Arena in Hartford, CT. Scroll down to see the setlist as it&#8217;s being updat
-
-📎 [阅读原文](https://variety.com/2026/music/news/olivia-rodrigo-unraveled-tour-setlist-opening-connecticut-1236875900/) — *Variety*
-
 ---
 
 ## 🏥 健康
 
-> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: cc2ecf75-7fa2-47e1-87c9-c7ad3bacd）
+> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 906d9933-21c5-4c55-849c-e5311bdaf）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -278,45 +278,45 @@
 
 ## 🎮 游戏
 
-> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 31b9f986-56e9-48d5-864e-b84542567）
+> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 53f5ccf1-fb15-4e60-8c7f-0a8124e75）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. How to Play the Silent Hill Games in Order
+### 1. Delta Force Celebrates Its Second Anniversary with New Season Reorientation
+
+暂无摘要。
+
+📎 [阅读原文](https://www.ign.com/articles/delta-force-celebrates-its-second-anniversary-with-new-season-reorientation) — *IGN*
+
+### 2. Marvel's Wolverine Dev Adds Option to Turn Off Controversial Scent Trails and More in New Update
+
+[原文] Insomniac Games has published a new Marvel's Wolverine update that adds an option to turn off those controversial scent trails for collectibles.
+
+📎 [阅读原文](https://www.ign.com/articles/marvels-wolverine-dev-adds-option-to-turn-off-controversial-scent-trails-and-more-in-new-update) — *IGN*
+
+### 3. Chris Hansen Announces His Own Documentary After Watching 'Fever Dream' Primetime and Grades Movie a D
+
+[原文] Chris Hansen says he was more confused than offended by Lance Oppenheim’s Primetime, and is answering this dramatized version of events with his own documentary.
+
+📎 [阅读原文](https://www.ign.com/articles/chris-hansen-announces-his-own-documentary-after-watching-fever-dream-primetime-and-grades-movie-a-d) — *IGN*
+
+### 4. How to Play the Silent Hill Games in Order
 
 暂无摘要。
 
 📎 [阅读原文](https://www.ign.com/articles/silent-hill-games-in-order) — *IGN*
 
-### 2. EA Sports FC 27 Review
+### 5. EA Sports FC 27 Review
 
 [原文] EA Sports stands on shaky ground with a new open-world hub, but the realistic, intuitive Tactics system shows promise.
 
 📎 [阅读原文](https://www.ign.com/articles/ea-sports-fc-27-review) — *IGN*
 
-### 3. Infinity Festival Returns to Los Angeles in November With a Focus on AI
-
-[原文] Infinity Festival returns to the Audrey Irmas Pavilion in Los Angeles this November for its 9th edition, featuring panels and programming focused on how AI is reshaping the entertainment industry.
-
-📎 [阅读原文](https://www.ign.com/articles/infinity-festival-los-angeles-2026-ai) — *IGN*
-
-### 4. Viral Resident Evil Stunt Footage Shows the Wild Way the 'Katamari Monster' Came to Life in Zach Cregger's Movie
-
-[原文] With Zach Cregger’s Resident Evil movie now in theaters, staff who worked on the film are sharing behind-the-scenes footage of how it all came together, including a jaw-dropping look at the stunt team
-
-📎 [阅读原文](https://www.ign.com/articles/viral-resident-evil-stunt-footage-shows-the-wild-way-the-katamari-monster-came-to-life-in-zach-creggers-movie) — *IGN*
-
-### 5. The Next Fourth Wing Book Releases Next Week — Here's Where to Buy
-
-暂无摘要。
-
-📎 [阅读原文](https://www.ign.com/articles/threshing-day-empyrean-series-where-to-buy) — *IGN*
-
 ---
 
 ## 🚗 汽车
 
-> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: b938e19f-f236-4383-b2ba-9f04eac38）
+> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 395c37cc-18d9-4818-a659-38a9ed519）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -359,45 +359,45 @@ The post Rumored $2.5 Billion Ohio Plant Could Be Honda&#8217;s Home for Flagsh
 
 ## 🌱 环境
 
-> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 32a43088-8765-4d99-a351-7230e9d0e）
+> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: e765ab98-6fe3-466a-a20e-f0422e735）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Climate Crisis Is No Longer a ‘Distant Warning,’ UN Leader Says
+### 1. New Colorado Neighborhood Could Offer Glimpse into the Future of Home Energy Use
+
+[原文] KEN CARYL, Colo.—A new residential development south of Denver is the testing ground for an unusual partnership that could transform home heating and cooling across the country.&#160; Dandelion Energy
+
+📎 [阅读原文](https://insideclimatenews.org/news/26092026/colorado-neighborhood-shows-geothermal-potential-future/) — *Inside Climate News*
+
+### 2. ‘Crown Jewel’ of Everglades Restoration Is Too Small, Report Says
+
+[原文] A sprawling reservoir under construction south of Lake Okeechobee that Gov. Ron DeSantis has characterized as the “crown jewel” of Everglades restoration will not be enough to save Florida’s treasured
+
+📎 [阅读原文](https://insideclimatenews.org/news/26092026/everglades-restoration-reservoir-too-small/) — *Inside Climate News*
+
+### 3. The Specter of ‘Forever Chemicals’ Looms Over Pennsylvania’s Rural Communities
+
+[原文] When Nicole Williams moved into her house in Pennsylvania’s North Centre Township in 2011, it was a homecoming. She’d spent the first few years of her life a half-mile down the road in Brookside Villa
+
+📎 [阅读原文](https://insideclimatenews.org/news/26092026/pfas-contaminated-drinking-water-in-pennsylvania-rural-communities/) — *Inside Climate News*
+
+### 4. After a Deadly Flood, What Does Climate Justice for Nepal Look Like?
+
+[原文] From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Paloma Beltran with Tanuja Pandey, a climate justice activist in Nepal. In the weeks followi
+
+📎 [阅读原文](https://insideclimatenews.org/news/26092026/nepal-flood-climate-justice/) — *Inside Climate News*
+
+### 5. Climate Crisis Is No Longer a ‘Distant Warning,’ UN Leader Says
 
 [原文] This week’s United Nations General Assembly in New York featured pleas for urgent action on climate change, with heads of state and Secretary-General António Guterres warning that the window for actio
 
 📎 [阅读原文](https://insideclimatenews.org/news/25092026/climate-crisis-top-concern-at-un-general-assembly/) — *Inside Climate News*
 
-### 2. Indian Point Energy Center’s Uncertain Future
-
-[原文] NY-17: Second in a series on the environmental stakes of one of the nation’s most fiercely contested congressional races. Nancy Vann’s resolve has become the subject of a local jingle. Its chorus goes
-
-📎 [阅读原文](https://insideclimatenews.org/news/25092026/new-york-indian-point-nuclear-future/) — *Inside Climate News*
-
-### 3. Why Germany Is Building an Ark for U.S. Climate Data
-
-[原文] This story was originally published by Yale Environment 360. In a modern five-story building in the center of Hamburg, Germany, technicians are preparing to install several new “racks”—gray metal casi
-
-📎 [阅读原文](https://insideclimatenews.org/news/25092026/germany-computing-center-hosts-us-climate-data/) — *Inside Climate News*
-
-### 4. Texas Electric Utility Only Considered Gas to Power $10 Billion Meta Data Center
-
-[原文] EL PASO—While Texas officials have hit pause on data center permitting, one project that is still moving ahead is Meta’s $10 billion, 1-gigawatt data center in northeast El Paso. Meta had already sign
-
-📎 [阅读原文](https://insideclimatenews.org/news/24092026/el-paso-electric-only-considered-gas-to-power-meta-data-center/) — *Inside Climate News*
-
-### 5. AI’s Meet-Cute With Climate Denial
-
-[原文] Earlier this week, President Donald Trump responded to rising public concerns about artificial intelligence with a post on Truth Social. “The same people that said, ‘We’ll all be dead in twelve years 
-
-📎 [阅读原文](https://insideclimatenews.org/news/24092026/inside-clean-energy-trump-calls-ai-concerns-hoax/) — *Inside Climate News*
-
 ---
 
 ## 📚 教育
 
-> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 9e99ad59-0dbe-4518-ba2c-03357b040）
+> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: d72e447b-662b-424c-9a64-6e7ac28d5）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -435,45 +435,45 @@ The post Rumored $2.5 Billion Ohio Plant Could Be Honda&#8217;s Home for Flagsh
 
 ## 🎵 音乐
 
-> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 6f4c7cce-fef0-4332-908e-b27f162fd）
+> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: bff324f1-187a-4fa0-a9c5-facecaa82）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Ovrkast Speaks Out Against Outkast’s Lawsuit, Says He Never Intended to ‘Confuse Fans’
+### 1. Pearl Jam Surprise Perform With Drummer Abe Laboriel Jr. at Ohana Festival
+
+[原文] The band played "Corduroy" as their first song with the ferocious musician behind the kit
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/pearl-jam-reveal-abe-laboriel-jr-new-drummer-ohana-festival-1235632275/) — *Rolling Stone*
+
+### 2. Ovrkast Speaks Out Against Outkast’s Lawsuit, Says He Never Intended to ‘Confuse Fans’
 
 [原文] In a statement to Rolling Stone, the rapper-producer responds to accusations that he agreed to change his name and later failed to follow through on his promise
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/outkast-ovrkast-speaks-out-trademark-infringement-lawsuit-1235632244/) — *Rolling Stone*
 
-### 2. Ween Announce Massive Box Set Revisiting ‘Chocolate and Cheese’ Tour
+### 3. Ween Announce Massive Box Set Revisiting ‘Chocolate and Cheese’ Tour
 
 [原文] Boognish Provides, out October 16 via Rhino, features seven full concerts from Gene and Dean Ween's 1994/95 trek, the duo's first time with a backing band
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/ween-massive-box-set-chocolate-cheese-tour-1235632118/) — *Rolling Stone*
 
-### 3. SZA Is Officially a New Jersey Hall of Fame Inductee: ‘More Importantly, I Met Danny DeVito’
+### 4. SZA Is Officially a New Jersey Hall of Fame Inductee: ‘More Importantly, I Met Danny DeVito’
 
 [原文] SZA joins previous inductees Whitney Houston, Queen Latifah, Wyclef Jean, Paul Rudd, Toni Morrison, Tony Bennett, the Isley Brothers, Meryl Streep, Jonas Brothers, Frank Sinatra, and more
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/sza-inducted-into-new-jersey-hall-of-fame-1235631904/) — *Rolling Stone*
 
-### 4. See U2’s 50th-Anniversary Performance at Their Old High School
+### 5. See U2’s 50th-Anniversary Performance at Their Old High School
 
 [原文] The Irish superstars returned to their Dublin roots, just after announcing new album Carnaval De Luz
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/u2-dublin-high-school-50th-anniversary-1235631893/) — *Rolling Stone*
 
-### 5. Global Citizen Festival in New York Canceled Due to ‘Extreme Weather Forecast’
-
-[原文] Potential Nor'easter along East Coast has also forced cancelation of Ed Sheeran's Massachusetts concerts, CBGB fest, and All Things Go
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/global-citizen-festival-new-york-canceled-extreme-weather-1235631923/) — *Rolling Stone*
-
 ---
 
 ## ✈️ 旅游
 
-> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: bf63e534-7549-4ce2-b952-8cb88f52f）
+> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 1037d5a8-a6c6-462e-92ef-be7433239）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
