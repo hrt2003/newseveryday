@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月26日** | 生成时间: 2026-09-26 05:17
+**2026年09月26日** | 生成时间: 2026-09-26 12:15
 
 ---
 
@@ -12,45 +12,45 @@
 
 ## 🌍 国际政治
 
-> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: e118603b-476a-4a13-a865-55c94a049）
+> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 12718c23-1177-4402-be7a-7a29275a1）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says
+### 1. Iran offers US deal to reopen Strait of Hormuz in seven days
+
+[原文] Asked about the Iranian offer, a US official told the BBC "constructive discussions" were taking place through mediators.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. OpenAI bots meddled with multiple US government agency sites
+
+[原文] OpenAI said its bots accessed public data from the US Census and the Securities and Exchange Commission, which regulates US stock markets.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says
 
 [原文] Such strikes aim to disrupt "people's ability to stay connected, study, work", says Ukraine's president.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Special agents' blood and urine test results stolen in FBI hack
+### 4. South African white genocide does not exist, new ambassador to US tells BBC
 
-[原文] Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.
+[原文] Roelf Meyer tells the BBC that being a white Afrikaner gives him legitimacy to challenge Trump's claim of a genocide.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Pope warns against 'losing humanity' to AI machines
+### 5. Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach
 
-[原文] The pontiff delivered the warning on the first day of his trip to France on Friday.
+[原文] Current and former agents speak to the BBC about the devastating impact of the FBI hack.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Supreme Court allows Trump to use controversial database to check voter citizenship
-
-[原文] Critics have questioned the reliability of the data, warning it could  result in US citizens being wrongly removed from electoral rolls.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Trump's plans for massive arch move ahead
-
-[原文] Opposition to building the 250-foot arch, and using it for military purposes, is growing with one Democrat blasting Trump's plans as "foolhardy".
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cq0lrr8kxy0lo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
 ## 💰 经济财经
 
-> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 32491007-9d40-4c2c-b86f-1acfa0f94）
+> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 03fd5932-45c0-4fcd-9d13-1d2bad955）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -72,61 +72,61 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/25/ceo-who-posted-lake-america-sweatshirt-photos-has-left-the-company.html) — *CNBC*
 
-### 4. Appeals court rules that states can regulate Kalshi’s sports prediction markets, dealing another legal blow to platforms
+### 4. U.S. appeals court upholds Pentagon designation of Anthropic as supply chain risk
+
+[原文] In a 2-1 decision, a federal appeals court upheld the Department of Defense's blacklisting of Anthropic.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html) — *CNBC*
+
+### 5. Appeals court rules that states can regulate Kalshi’s sports prediction markets, dealing another legal blow to platforms
 
 [原文] The decision is the second in less than a month by an appeals court that states have a role in regulating sports-related event contracts.
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/25/appeals-court-rules-states-can-regulate-sports-prediction-markets.html) — *CNBC*
 
-### 5. Coca-Cola hires Rob Gehring from Monster Energy to run its North American operations
-
-[原文] Coca-Cola is trying to maintain growth as consumers face higher gas and grocery prices.
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/25/monster-coca-cola-rob-gehring.html) — *CNBC*
-
 ---
 
 ## 💻 科技
 
-> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 12b7252f-db12-4aa7-ad4a-fb866371d）
+> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: e683dd3d-3446-402b-a3c5-c3631e1cc）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Meta opens early access program for new Muse features
+### 1. At Meta Connect, the company’s smart glasses were everywhere
+
+[原文] The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/) — *TechCrunch*
+
+### 2. Crusoe abandons $1.25B plan to use Boom turbines at AI data centers
+
+[原文] Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/) — *TechCrunch*
+
+### 3. Automattic has a new board after failed attempt to put CEO on leave
+
+[原文] After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/) — *TechCrunch*
+
+### 4. Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge
+
+[原文] AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/) — *TechCrunch*
+
+### 5. Meta opens early access program for new Muse features
 
 [原文] Anyone interested in joining has to ask Muse to put them on the list.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/) — *TechCrunch*
 
-### 2. The hottest new hangout for middle schoolers is NPR’s comment section?
-
-[原文] When NPR staffers flagged strange comments under their podcasts on Spotify as bots, it took a Gen Z colleague to (immediately) figure out the mystery.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/25/the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section/) — *TechCrunch*
-
-### 3. Anthropic to pay Akamai $11.6 billion over seven years in cloud deal
-
-[原文] Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a
-
-📎 [阅读原文](https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/) — *TechCrunch*
-
-### 4. Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his
-
-[原文] Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/) — *TechCrunch*
-
-### 5. Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing
-
-[原文] The funding, which comes from Third Point, Nvidia, and others, will  fuel the company's massive AI data center buildout.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/) — *TechCrunch*
-
 ---
 
 ## 🔬 科学
 
-> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: f823cef6-fb37-465b-aa86-1d1a011f0）
+> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 9ba37fcf-764e-403e-b34b-6fbaf2f4e）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -164,7 +164,7 @@
 
 ## ⚽ 体育
 
-> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 06f65fdb-462e-4340-b738-b5822bfdf）
+> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 1b05c082-5dcc-424d-973d-ddfc0280b）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -180,67 +180,67 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cx30540044q0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. What could the potential sanctions for Man City be?
+### 3. Rodri believes in Man City's 'innocence'
 
-[原文] Football finance expert Kieran Maguire says the potential sanctions for Manchester City will be 'significant' after the sources told BBC Sport that the club has been found guilty of breaking the major
+[原文] Former Manchester City midfielder Rodri believes the club are innocent of any financial wrongdoing and will trust them unless they are proved otherwise.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cj62ee3zydxlo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cmkgwwze9r28o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Man City fans face up to reality of guilty verdict
-
-[原文] How Manchester City fans have reacted to news that the club have been found guilty of a majority of the financial rule breaches they were accused of.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cwy7zzdmn4v7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Palmer misses too many opportunities to play for England - Tuchel
+### 4. Palmer misses too many opportunities to play for England - Tuchel
 
 [原文] Thomas Tuchel has said that Cole Palmer "misses too many opportunities" to play for England after the Chelsea forward pulled out of the latest squad.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cm9dww15527lo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
+### 5. O'Neill left 'baffled' by refereeing in late NI win in Georgia
+
+[原文] Michael O'Neill has said he was "baffled" by some of the refereeing decisions in Friday's 1-0 win in Georgia in the Nations League.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c6qxvvw15p0lo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
 ---
 
 ## 🎬 娱乐
 
-> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 6a4367c0-7d94-4d5a-8b4b-bd9c21692）
+> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: b1ad15e9-6674-4568-9a71-b60335a06）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. White House Has Spent More Than $440,000 on Pro-Trump TV Ads Paid for by U.S. Government; Administration Defends ‘Unapologetically American’ Spots and Denies They’re Campaign Ads
+### 1. ‘Hanuman Ansh’ Indian Sleeper Hit’s International Distribution Strategy Unveiled by ‘K.G.F,’ ‘Kantara’ Outfit Hombale Films (EXCLUSIVE)
 
-[原文] TV ads featuring President Donald Trump that began airing this week &#8212; including one in which he declares that &#8220;America will never be a communist country&#8221; and touting his administrati
+[原文] Indian devotional film &#8220;Hanuman Ansh&#8221; has grossed more than $3.5 million outside its home territory since Hombale Films took it to international audiences, and the company behind the block
 
-📎 [阅读原文](https://variety.com/2026/tv/news/white-house-defends-pro-trump-tv-ads-paid-by-us-taxpayers-1236875952/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/hanuman-ansh-indian-sleeper-hit-hombale-films-strategy-1236876199/) — *Variety*
 
-### 2. Margaret Qualley and Sabrina Carpenter Join Tom Holland in Fred Astaire Biopic as Adele Astaire, Ginger Rogers
+### 2. Scarlett Johansson Takes Break From Filming Overseas for ‘Paper Tiger’ NYFF Premiere After Skipping Cannes: ‘I’m Hallucinating’
 
-[原文] Tom Holland has found his dance partners for Sony&#8217;s yet-to-be-titled Fred Astaire biopic: Margaret Qualley and Sabrina Carpenter. As previously announced, Holland will play the debonair dancer i
+[原文] A very jet-lagged Scarlett Johansson reunited with co-stars Adam Driver and Miles Teller for the New York Film Festival premiere of &#8220;Paper Tiger,&#8221; which kicked off the festival&#8217;s 64t
 
-📎 [阅读原文](https://variety.com/2026/film/news/margaret-qualley-sabrina-carpenter-tom-holland-fred-astaire-biopic-1236850613/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/scarlett-johansson-paper-tiger-new-york-film-festival-premiere-adam-driver-1236872284/) — *Variety*
 
-### 3. Bryce Dallas Howard on the Declining Statistics for Female Directors in Hollywood: ‘Whatever Is Currently Being Done is Not Enough’
+### 3. ‘Love Hypothesis’ Director Claire Scanlon Breaks Down the Biggest ‘Star Wars’ Easter Eggs, From Gracie Abrams’ Song to Color-Coded Wardrobes
 
-[原文] Bryce Dallas Howard is calling on Hollywood to make a change. While at Variety’s L.A. Power of Women event on Wednesday in Beverly Hills, the actress and filmmaker reflected on the declining statistic
+[原文] “Star Wars” has featured iconic locations throughout the franchise, taking audiences to Tatooine, Naboo and now, a campus biology lab at Stanford University. The romantic comedy “Love Hypothesis” prem
 
-📎 [阅读原文](https://variety.com/2026/film/news/bryce-dallas-howard-female-directors-statistics-1236874653/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/features/the-love-hypothesis-star-wars-easter-eggs-1236875151/) — *Variety*
 
-### 4. Ari Emanuel Details Hollywood Rise in New Memoir:  Harvey Weinstein Feuds, Signing Martin Scorsese and a Tense Evening With Larry David and Elon Musk
+### 4. Isaac Mizrahi on the ‘Unzipped’ Restoration, the John Galliano Met Gala Fiasco and Why the ‘Devil Wears Prada’ Cerulean Blue Speech ‘Makes Me Want to Kill Somebody’
 
-[原文] Ari Emanuel has spent more than three decades making deals, building companies and occasionally screaming his way through Hollywood. Now, the superagent-turned-media mogul is telling his own story. In
+[原文] No doubt Isaac Mizrahi is excited about the release of the newly restored “Unzipped,” the 1995 documentary chronicling a moment in time when he was one of the fashion world&#8217;s hottest designers. 
 
-📎 [阅读原文](https://variety.com/2026/shopping/news/ari-emanuel-memoir-hollywood-rise-buy-online-1236875941/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/columns/isaac-mizrahi-unzipped-restoration-john-galliano-met-gala-devil-wears-prada-cerulean-blue-1236876106/) — *Variety*
 
-### 5. Lance Oppenheim on ‘Primetime,’ ‘You Can See Everything’ and How Chris Hansen’s Reaction ‘Is Exactly What the Film Is About’
+### 5. Olivia Rodrigo’s ‘Unraveled’ Tour Setlist: Every Song Played on Opening Night in Connecticut
 
-[原文] Lance Oppenheim has always lived in reality, but not all his subjects do. The documentarian has built a career out of pointing his camera at people, from the retirees of “Some Kind of Heaven” to the u
+[原文] Olivia Rodrigo officially kicked off the &#8220;Unraveled&#8221; tour on Friday night with her first show at PeoplesBank Arena in Hartford, CT. Scroll down to see the setlist as it&#8217;s being updat
 
-📎 [阅读原文](https://variety.com/2026/film/awards/lance-oppenheim-primetime-you-can-see-everything-1236875739/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/olivia-rodrigo-unraveled-tour-setlist-opening-connecticut-1236875900/) — *Variety*
 
 ---
 
 ## 🏥 健康
 
-> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 623310e5-9017-47bf-a09e-7860d39be）
+> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: cc2ecf75-7fa2-47e1-87c9-c7ad3bacd）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -278,45 +278,45 @@
 
 ## 🎮 游戏
 
-> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 4960acfd-27eb-4a88-82bc-1aaf1b33d）
+> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 31b9f986-56e9-48d5-864e-b84542567）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The HP OMEN GeForce RTX 5070 Ti Gaming PC Drops to $1,899 During the Walmart GeForce Week Sale
+### 1. How to Play the Silent Hill Games in Order
 
-[原文] Run games at 60fps and beyond on your new 4K monitor.
+暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/hp-omen-geforce-rtx-507-ti-gaming-pc-deal-september-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/silent-hill-games-in-order) — *IGN*
 
-### 2. Avery the Poké Kid’s Family Speaks Out After Scalpers Use Child’s Death to Inflate Card Prices
+### 2. EA Sports FC 27 Review
 
-[原文] The family of late Pokémon influencer Avery the Poké Kid is speaking out after scalpers have reportedly started using his death to artificially inflate the prices of a 30th Anniversary Jirachi SIR car
+[原文] EA Sports stands on shaky ground with a new open-world hub, but the realistic, intuitive Tactics system shows promise.
 
-📎 [阅读原文](https://www.ign.com/articles/avery-the-pok-kids-family-speaks-out-after-scalpers-use-childs-death-to-inflate-card-prices) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/ea-sports-fc-27-review) — *IGN*
 
-### 3. Today’s Best Deals: Switch 2 Console, MTG x The Hobbit, and Pokémon Pitch Black
+### 3. Infinity Festival Returns to Los Angeles in November With a Focus on AI
 
-[原文] Don’t miss the final days of Walmart’s GeForce week and more discounts.
+[原文] Infinity Festival returns to the Audrey Irmas Pavilion in Los Angeles this November for its 9th edition, featuring panels and programming focused on how AI is reshaping the entertainment industry.
 
-📎 [阅读原文](https://www.ign.com/articles/best-deals-for-september-25-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/infinity-festival-los-angeles-2026-ai) — *IGN*
 
-### 4. Microsoft Just Seemingly Killed Copilot+ Just 2 Years After Launch
+### 4. Viral Resident Evil Stunt Footage Shows the Wild Way the 'Katamari Monster' Came to Life in Zach Cregger's Movie
 
-[原文] Microsoft debuted Copilot+ about two years ago in an effort to bring AI PCs to the mainstream. Now it seems like they're already going away.
+[原文] With Zach Cregger’s Resident Evil movie now in theaters, staff who worked on the film are sharing behind-the-scenes footage of how it all came together, including a jaw-dropping look at the stunt team
 
-📎 [阅读原文](https://www.ign.com/articles/microsoft-just-seemingly-killed-copilot-just-2-years-after-launch) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/viral-resident-evil-stunt-footage-shows-the-wild-way-the-katamari-monster-came-to-life-in-zach-creggers-movie) — *IGN*
 
-### 5. The New Fall Amazon Audible Deal Is the Best One I've Seen This Year: Get 4 Months for $0.99 Per Month
+### 5. The Next Fourth Wing Book Releases Next Week — Here's Where to Buy
 
-[原文] Catch up on Dungeon Crawler Carl, Fourth Wing, Hunger Games, and more.
+暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/amazon-audible-deal-september-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/threshing-day-empyrean-series-where-to-buy) — *IGN*
 
 ---
 
 ## 🚗 汽车
 
-> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 003280f8-4e9d-4e1f-8a4c-a49fd7fb3）
+> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: b938e19f-f236-4383-b2ba-9f04eac38）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -359,7 +359,7 @@ The post Rumored $2.5 Billion Ohio Plant Could Be Honda&#8217;s Home for Flagsh
 
 ## 🌱 环境
 
-> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 1eccc377-b7cf-4b36-98c8-e1c9daa8d）
+> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 32a43088-8765-4d99-a351-7230e9d0e）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -397,7 +397,7 @@ The post Rumored $2.5 Billion Ohio Plant Could Be Honda&#8217;s Home for Flagsh
 
 ## 📚 教育
 
-> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 9a4579e1-6c4f-43e0-a79a-38a2b76ac）
+> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 9e99ad59-0dbe-4518-ba2c-03357b040）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -435,77 +435,77 @@ The post Rumored $2.5 Billion Ohio Plant Could Be Honda&#8217;s Home for Flagsh
 
 ## 🎵 音乐
 
-> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: d05e80a8-9380-4134-b4a9-9908a08d8）
+> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 6f4c7cce-fef0-4332-908e-b27f162fd）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Ween Announce Massive Box Set Revisiting ‘Chocolate and Cheese’ Tour
+### 1. Ovrkast Speaks Out Against Outkast’s Lawsuit, Says He Never Intended to ‘Confuse Fans’
+
+[原文] In a statement to Rolling Stone, the rapper-producer responds to accusations that he agreed to change his name and later failed to follow through on his promise
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/outkast-ovrkast-speaks-out-trademark-infringement-lawsuit-1235632244/) — *Rolling Stone*
+
+### 2. Ween Announce Massive Box Set Revisiting ‘Chocolate and Cheese’ Tour
 
 [原文] Boognish Provides, out October 16 via Rhino, features seven full concerts from Gene and Dean Ween's 1994/95 trek, the duo's first time with a backing band
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/ween-massive-box-set-chocolate-cheese-tour-1235632118/) — *Rolling Stone*
 
-### 2. SZA Is Officially a New Jersey Hall of Fame Inductee: ‘More Importantly, I Met Danny DeVito’
+### 3. SZA Is Officially a New Jersey Hall of Fame Inductee: ‘More Importantly, I Met Danny DeVito’
 
 [原文] SZA joins previous inductees Whitney Houston, Queen Latifah, Wyclef Jean, Paul Rudd, Toni Morrison, Tony Bennett, the Isley Brothers, Meryl Streep, Jonas Brothers, Frank Sinatra, and more
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/sza-inducted-into-new-jersey-hall-of-fame-1235631904/) — *Rolling Stone*
 
-### 3. See U2’s 50th-Anniversary Performance at Their Old High School
+### 4. See U2’s 50th-Anniversary Performance at Their Old High School
 
 [原文] The Irish superstars returned to their Dublin roots, just after announcing new album Carnaval De Luz
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/u2-dublin-high-school-50th-anniversary-1235631893/) — *Rolling Stone*
 
-### 4. Global Citizen Festival in New York Canceled Due to ‘Extreme Weather Forecast’
+### 5. Global Citizen Festival in New York Canceled Due to ‘Extreme Weather Forecast’
 
 [原文] Potential Nor'easter along East Coast has also forced cancelation of Ed Sheeran's Massachusetts concerts, CBGB fest, and All Things Go
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/global-citizen-festival-new-york-canceled-extreme-weather-1235631923/) — *Rolling Stone*
 
-### 5. Gnarls Barkley’s Upcoming Tour Will Have Cee Lo Green — But Not Danger Mouse
-
-[原文] Duo clarifies days after announcing To Whom It Still Concerns Tour that producer won’t join singer on the road; “He is my Producer (a great one at that) ! not a performing artist by trade,” Green writ
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/gnarls-barkley-upcoming-tour-cee-lo-green-no-danger-mouse-1235631696/) — *Rolling Stone*
-
 ---
 
 ## ✈️ 旅游
 
-> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 6d81fa9a-5444-4389-9aad-b6ff59095）
+> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: bf63e534-7549-4ce2-b952-8cb88f52f）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Staying Agile in an Unpredictable Market
+### 1. Expedia Cuts 58 Roles in Latest Layoff Round
+
+[原文] Expedia filed a WARN notice in Washington eliminating 58 jobs, including executive positions and data science roles. The reorganization reached Illinois and Florida too.
+
+📎 [阅读原文](https://skift.com/2026/09/25/expedia-cuts-58-roles-in-latest-layoff-round/) — *Skift*
+
+### 2. Staying Agile in an Unpredictable Market
 
 [原文] The question for every travel company shifting resources toward premium: is the demand truly structural?
 
 📎 [阅读原文](https://skift.com/2026/09/25/staying-agile-in-an-unpredictable-market/) — *Skift*
 
-### 2. Driving Innovation and Partnerships Forward
+### 3. Driving Innovation and Partnerships Forward
 
 [原文] Guest behaviors around how they use their time on cruises are materially changing, a shift hospitality companies should all be considering.
 
 📎 [阅读原文](https://skift.com/2026/09/25/driving-innovation-and-partnerships-forward/) — *Skift*
 
-### 3. The Flavors That Connect Us
+### 4. The Flavors That Connect Us
 
 [原文] Travelers remember and return for experiences that can only be produced in a single time and place.
 
 📎 [阅读原文](https://skift.com/2026/09/25/the-flavors-that-connect-us/) — *Skift*
 
-### 4. Building Systems That Take Everyone Into Account
+### 5. Building Systems That Take Everyone Into Account
 
 [原文] Most sustainability commitments in travel measure what travel companies control directly. It's time to measure what they influence.
 
 📎 [阅读原文](https://skift.com/2026/09/25/building-systems-that-take-everyone-into-account/) — *Skift*
-
-### 5. How to Create Value for Owners and Guests
-
-[原文] The companies that invest on behalf of owners build a different kind of customer loyalty.
-
-📎 [阅读原文](https://skift.com/2026/09/25/how-to-create-value-for-owners-and-guests/) — *Skift*
 
 ---
 
