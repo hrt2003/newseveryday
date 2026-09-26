@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月27日** | 生成时间: 2026-09-27 00:03
+**2026年09月27日** | 生成时间: 2026-09-27 04:49
 
 ---
 
@@ -12,21 +12,21 @@
 
 ## 🌍 国际政治
 
-> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: cfe70ff1-a978-41df-bff2-18649b2fb）
+> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 5772f9e7-4b74-414c-b55a-211df70e9）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Huge crowds greet Pope in Paris for open-air Mass
+### 1. Trump rejects Iran deal to reopen Strait of Hormuz in seven days
 
-[原文] More than half a million people are expected to attend the event in the heart of the French capital.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 2. Iran offers US deal to reopen Strait of Hormuz in seven days
-
-[原文] Asked about the Iranian proposal, a US official told the BBC "constructive discussions" were taking place through mediators.
+[原文] The US president says Tehran had only put forward the proposal because it is losing the war.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris
+
+[原文] Around 700,000 people gathered in central Paris to hear the Catholic leader speak and offer prayer.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 3. British national among six dead in building explosion close to Acropolis in Athens
 
@@ -40,17 +40,17 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cq4g55r76d9lo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Bangkok roads submerged as flood disaster declared
+### 5. German town bans 'stumbling stone' memorials to Nazi victims
 
-[原文] An emergency has been declared across the capital of Thailand as days of heavy rain leave the city inundated.
+[原文] Germany's education minister has branded the ban on the small brass memorial plaques a "scandal".
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
 ## 💰 经济财经
 
-> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 6a689d87-ee7b-4725-84f9-572af1afa）
+> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: b4f2ac6a-5e19-4916-bb00-6072241c8）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -66,67 +66,67 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/26/apple-taction-technology-patent-infringement-verdict.html) — *CNBC*
 
-### 3. Trump, Xi wrap state visit centered on spectacle over substance. Here are the top takeaways
+### 3. OpenAI expands review of model behavior after more rogue agent incidents emerge
+
+[原文] OpenAI is conducting an extensive review of misaligned model activity after disclosures involving an Australian government portal and other websites.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/26/openai-agent-model-behavior-review.html) — *CNBC*
+
+### 4. Boeing flags 737 Max software glitch affecting some automated approach functions
+
+[原文] Boeing identified a software issue on some 737 Max aircraft that can affect automated vertical navigation functions after a missed approach.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/26/boeing-737-max-navigation-software-glitch.html) — *CNBC*
+
+### 5. Trump, Xi wrap state visit centered on spectacle over substance. Here are the top takeaways
 
 [原文] President Trump and Chinese leader Xi went heavy on the ceremony and light on deliverables as they danced around Taiwan and Iran during two days in Washington.
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/25/trump-xi-summit-takeaways.html) — *CNBC*
 
-### 4. Trump rejects Iran's conditional ceasefire proposal, WSJ reports, as Saudi coalition intercepts projectiles
-
-[原文] Trump expects renewed U.S. bombing of Iran after the midterm elections, The Wall Street Journal reports, as Saudi-backed forces intercept projectiles.
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/26/trump-rejects-irans-conditional-ceasefire-proposal-wsj-reports.html) — *CNBC*
-
-### 5. Airlines waive change fees ahead of nor'easter as flight disruptions trickle in
-
-[原文] Flight disruptions were rising in Boston for Saturday.
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/25/flights-storm-new-york-boston-east-coast.html) — *CNBC*
-
 ---
 
 ## 💻 科技
 
-> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: fe063d0b-1c5d-4c46-90f2-d805db050）
+> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 218aa582-4706-4cb7-9cbd-76b172bc3）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. I created an interactive digital avatar of myself — and you can talk to it
+### 1. TikTok agrees to pay at least $100M in Alabama settlement
+
+[原文] TikTok will pay Alabama at least $100 million in a settlement tied to allegations that the short-form video platform misled users about safety and was designed to addict children.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/) — *TechCrunch*
+
+### 2. Meta and YouTube say they will run ads for ‘Musk’ documentary after all
+
+[原文] Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a number of social media platforms had rejected the
+
+📎 [阅读原文](https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/) — *TechCrunch*
+
+### 3. Levoit’s new air purifier is for the pet odors that have taken over your apartment
+
+[原文] This $189.99 air purifier is specifically designed to tackle pet odors, removing up to 70% in one hour.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/) — *TechCrunch*
+
+### 4. I created an interactive digital avatar of myself — and you can talk to it
 
 [原文] After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/) — *TechCrunch*
 
-### 2. At Meta Connect, the company’s smart glasses were everywhere
+### 5. At Meta Connect, the company’s smart glasses were everywhere
 
 [原文] The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/) — *TechCrunch*
 
-### 3. Crusoe abandons $1.25B plan to use Boom turbines at AI data centers
-
-[原文] Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/) — *TechCrunch*
-
-### 4. Automattic has a new board after failed attempt to put CEO on leave
-
-[原文] After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/) — *TechCrunch*
-
-### 5. Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge
-
-[原文] AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/) — *TechCrunch*
-
 ---
 
 ## 🔬 科学
 
-> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 9d57bcf5-fa45-43fb-8bf0-325784e55）
+> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 001523a5-57d8-4d6c-b42a-80cc2d74e）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -164,27 +164,27 @@
 
 ## ⚽ 体育
 
-> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 9b3c1289-2343-48e1-ba21-bd60b7e7a）
+> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 9f3ac267-aae1-443d-a430-4764d437f）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Man City chairman confident club will prove innocence
+### 1. Who made an uncharacteristic error? England player ratings v Spain
 
-[原文] Manchester City chairman Khaldoon Al Mubarak says he is still confident of proving the club's innocence after they were found guilty of breaking Premier League financial rules.
+[原文] England were beaten 3-2 in an entertaining game by world champions Spain in the Nations League - here's how BBC Sport rated the Three Lions' players.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c6d944ylqkkeo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cmy0zz2ylr5no?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Russell wins despite late Verstappen challenge
+### 2. 'Mr Saturday' Russell 'comes through other side after real tough period'
 
-[原文] Mercedes' George Russell holds off a late challenge from Red Bull's Max Verstappen to win an Azerbaijan Grand Prix enlivened by two late safety car periods.
+[原文] George Russell described the Azerbaijan Grand Prix as "the most dominant weekend I've had in my career" after a win that felt like vindication.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/ck8d33760j63o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/ckly558q6jeqo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Republic of Ireland to wear black armbands for Israel game
+### 3. Wakefield shock Wigan to reach first Grand Final
 
-[原文] Republic of Ireland players intend to wear black armbands "in recognition of all lives lost in the [Gaza] conflict" for Sunday's Nations League game against Israel in Hungary, after confirming they wi
+[原文] Wakefield Trinity produce a sensational upset to reach their first ever Super League Grand Final and end Wigan Warriors' hopes of a treble in 2026.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-league/articles/cv2dwykpgz4go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ### 4. No Premier League appetite to strip Man City of titles - but threat remains
 
@@ -192,55 +192,55 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cxyvzzj17682o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. The computer hacker who tried to take down Man City
+### 5. England embrace growing competitiveness of women's game
 
-[原文] BBC Sport travelled to Portugal to find out more about Rui Pinto - the computer hacker who sparked the Manchester City investigation.
+[原文] England edge past New Zealand with a last-gasp try by Zoe Harrison as they embrace the growing competitiveness of women's rugby.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cwywld5v28jo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-union/articles/cwddvvnp9dp9o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
 ## 🎬 娱乐
 
-> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 96b370bc-ec0f-468a-bd43-65ae99914）
+> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 53fc8cf9-dfe0-4db8-a630-18c37811e）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. How To Watch Neil Young, Willie Nelson, Dave Matthews Band and More Perform Live at CNN’s ‘Farm Aid Music Festival’
+### 1. Israeli Americans Protest ‘NAZA’ by Screening October 7 Footage Outside New York Premiere: ‘Compassion For Palestinian Civilians Doesn’t Require Us to Erase October 7’
 
-[原文] CNN has partnered with Farm Aid for a second year to bring audiences the Farm Aid 2026: Music Festival Live on Saturday, Sept. 26. Audiences can watch the annual music festival, which will air live on
+[原文] The Israeli-American Council organized a protest Saturday afternoon outside the New York Film Festival premiere of “NAZA,” which the organization has described as an “anti-Israel” film that “makes ser
 
-📎 [阅读原文](https://variety.com/2026/shopping/news/how-to-watch-farm-aid-2026-music-festival-live-1236875088/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/naza-protests-anti-israel-nyff-oct-7-1236876471/) — *Variety*
 
-### 2. Box Office: ‘Avengers: Endgame Encore’ Leads With $11.2 Million on Friday as A24’s ‘Primetime’ Takes Second
+### 2. Marine Atlan’s French Oscar Hopeful ‘La Gradiva’ Takes Top Prizes at 30th Queer Lisboa – the Biggest Edition to Date
 
-[原文] It might’ve been all about “Resident Evil” at the box office last week, but “Avengers: Endgame” is back on top — seven years later. “Avengers: Endgame Encore” landed at No. 1 on Friday, making $11.2 m
+[原文] French filmmaker Marine Atlan’s lauded debut film “La Gradiva” proved the big winner at the 30th Queer Lisboa – International Queer Film Festival, taking the best feature film and Audience Awards. A s
 
-📎 [阅读原文](https://variety.com/2026/film/box-office/box-office-avengers-endgame-encore-primetime-resident-evil-1236876380/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/marine-atlan-la-gradiva-queer-lisboa-1236876394/) — *Variety*
 
-### 3. Nine Takeaways From Helsinki’s Finnish Film Affair, From Buzzy Titles to Hollywood Whisperers
+### 3. Chris Hansen Reacts to ‘Primetime’ and Robert Pattinson’s Portrayal of Him: ‘So Bizarre’ and ‘Detached From Reality’
 
-[原文] Genre thrills and chills dominated the 15th Finnish Film Affair that closed last night, and splattered across various sections of Helsinki’s Love &#38; Anarchy Film Festival and panel sessions. The to
+[原文] Chris Hansen finally took a seat for &#8220;Primetime,&#8221; and he was not happy about the portrayal of himself. The former &#8220;To Catch a Predator&#8221; host said on Fox News’ “Jesse Watters Pr
 
-📎 [阅读原文](https://variety.com/2026/film/global/helsinki-finnish-film-affair-takeaways-1236876366/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/chris-hansen-slams-primetime-robert-pattinson-catch-predator-1236875792/) — *Variety*
 
-### 4. Mubi CEO Efe Cakerel Praises ‘Incredible’ ‘Primetime’ Opening Weekend: ‘Bold Storytelling Is Here to Stay’
+### 4. Mike Leigh’s ‘Tender Loving Care’ Wins Big at San Sebastián, as ‘La Bola Negra’ and ‘NAZA’ Take Audience Awards
 
-[原文] Mubi CEO Efe Cakarel praised Lance Oppenheim’s “Primetime” while in a rare public appearance at the Zurich Summit. Talking about the phenomenon of young audiences returning to cinemas, the exec said t
+[原文] Mike Leigh&#8217;s new film &#8220;Tender Loving Care&#8221; dominated the awards on the final night of the San Sebastián Film Festival, taking a trifecta of awards — the Golden Shell for Best Film, B
 
-📎 [阅读原文](https://variety.com/2026/film/global/mubi-ceo-efe-cakerel-incredible-primetime-1236876368/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/mike-leigh-tender-loving-care-wins-at-san-sebastian-la-bola-negra-naza-kate-oflynn-1236876459/) — *Variety*
 
-### 5. Author Chloe Gong on ‘Eyes of Kings’ ending, ‘Deadlock’ debut and how she wants ‘These Violent Delights’ adapted for TV or film
+### 5. Chuck Varga, Founding Member of Heavy Metal Band Gwar, Dies at 68
 
-[原文] Chloe Gong has had a busy 2026. The author best known for her hit 2020 “Romeo &#38; Juliet” retelling “These Violent Delights,” which is set in 1920s Shanghai, released the conclusion of one trilogy s
+[原文] Chuck Varga, a founding member and vocalist of the heavy metal band Gwar, died on Friday following a battle with cancer. He was 68. Gwar bassist Casey Orr announced his death in a statement shared to 
 
-📎 [阅读原文](https://variety.com/2026/biz/news/these-violent-delights-chloe-gong-tv-series-eyes-of-kings-deadlock-1236875716/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/chuck-varga-dead-gwar-founding-member-1236876474/) — *Variety*
 
 ---
 
 ## 🏥 健康
 
-> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 23c6dd0d-2b0e-43ae-bbd0-14e5dc16b）
+> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 5859069d-98c4-46ac-afe4-989d83548）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -278,88 +278,88 @@
 
 ## 🎮 游戏
 
-> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 88f32e1f-4e9c-4432-a5cd-2ba086a6c）
+> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 101f26fd-a23a-4de8-9eca-763e056c1）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Delta Force Celebrates Its Second Anniversary with New Season Reorientation
+### 1. Unabomber Review
+
+[原文] Unabomber covers the formative years and later arrest of Ted Kaczynski, the titular mail bomber who terrorized the US from the late 1970s until the mid-1990s. Director Janus Metz’s mixed bag of a film
+
+📎 [阅读原文](https://www.ign.com/articles/unabomber-netflix-movie-review) — *IGN*
+
+### 2. The Amazon October Audible Deal Is Now Live: Pay $0.99 Per Month
+
+[原文] Catch up on Dungeon Crawler Carl, Fourth Wing, Hunger Games, and more.
+
+📎 [阅读原文](https://www.ign.com/articles/amazon-audible-deal-october-prime-day-sale-2026) — *IGN*
+
+### 3. Melissa Barrera Says She Would Reprise Her Scream Role, Reveals Conditions for Her Return
+
+[原文] Actress Melissa Barrera said she is open to returning to Scream, but don't expect to see her reprise her role as Sam Carpenter as long as Spyglass Media has the rights.
+
+📎 [阅读原文](https://www.ign.com/articles/melissa-barrera-says-she-would-reprise-her-scream-role-reveals-conditions-for-her-return) — *IGN*
+
+### 4. Everything Coming to Disney+ and Hulu in October
 
 暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/delta-force-celebrates-its-second-anniversary-with-new-season-reorientation) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/whats-new-on-disney-and-hulu-in-october-2026) — *IGN*
 
-### 2. Marvel's Wolverine Dev Adds Option to Turn Off Controversial Scent Trails and More in New Update
+### 5. New Werwulf Trailer and Tie-In Video Game Revealed
 
-[原文] Insomniac Games has published a new Marvel's Wolverine update that adds an option to turn off those controversial scent trails for collectibles.
+[原文] Focus Features has released the new official trailer for Robert Eggers’ Werwulf, alongside a surprise video game reveal for the medieval horror film.
 
-📎 [阅读原文](https://www.ign.com/articles/marvels-wolverine-dev-adds-option-to-turn-off-controversial-scent-trails-and-more-in-new-update) — *IGN*
-
-### 3. Chris Hansen Announces His Own Documentary After Watching 'Fever Dream' Primetime and Grades Movie a D
-
-[原文] Chris Hansen says he was more confused than offended by Lance Oppenheim’s Primetime, and is answering this dramatized version of events with his own documentary.
-
-📎 [阅读原文](https://www.ign.com/articles/chris-hansen-announces-his-own-documentary-after-watching-fever-dream-primetime-and-grades-movie-a-d) — *IGN*
-
-### 4. How to Play the Silent Hill Games in Order
-
-暂无摘要。
-
-📎 [阅读原文](https://www.ign.com/articles/silent-hill-games-in-order) — *IGN*
-
-### 5. EA Sports FC 27 Review
-
-[原文] EA Sports stands on shaky ground with a new open-world hub, but the realistic, intuitive Tactics system shows promise.
-
-📎 [阅读原文](https://www.ign.com/articles/ea-sports-fc-27-review) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/werwulf-trailer-video-game-robert-eggers) — *IGN*
 
 ---
 
 ## 🚗 汽车
 
-> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: f9563438-2952-4b67-a489-4e95a1eeb）
+> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 0e518886-b8e4-445c-a127-98b3d2730）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Average $10,000-$15,000 Used Car Now Has Almost 100,000 Miles
+### 1. Be Brave: This Lamborghini Gallardo That Was Rolled Needs a Rebuild
+
+[原文] Everything will buff out, for sure.
+The post Be Brave: This Lamborghini Gallardo That Was Rolled Needs a Rebuild appeared first on The Drive.
+
+📎 [阅读原文](https://www.thedrive.com/news/be-brave-this-lamborghini-gallardo-that-was-rolled-needs-a-rebuild) — *The Drive*
+
+### 2. Massimo, Maker of Tiny Jeeps, Is Doing a 125cc Gas Mini Truck Now
+
+[原文] With a 28-mph top speed and a design that recalls classic trucks, this makes go-karts even more fun.
+The post Massimo, Maker of Tiny Jeeps, Is Doing a 125cc Gas Mini Truck Now appeared first on The Dr
+
+📎 [阅读原文](https://www.thedrive.com/news/massimo-maker-of-tiny-jeeps-is-doing-a-125cc-gas-mini-truck-now) — *The Drive*
+
+### 3. The Average $10,000-$15,000 Used Car Now Has Almost 100,000 Miles
 
 [原文] It's not just new cars. Used cars are becoming less affordable, too.
 The post The Average $10,000-$15,000 Used Car Now Has Almost 100,000 Miles appeared first on The Drive.
 
 📎 [阅读原文](https://www.thedrive.com/news/the-average-10000-15000-used-car-now-has-almost-100000-miles) — *The Drive*
 
-### 2. Someone Just Bought the First-Ever Ford Bronco Raptor for a Steal
+### 4. Someone Just Bought the First-Ever Ford Bronco Raptor for a Steal
 
 [原文] Bronco Raptor serial number 0001 originally sold for $350,000 at auction, but it was scored for less than a third of that.
 The post Someone Just Bought the First-Ever Ford Bronco Raptor for a Steal ap
 
 📎 [阅读原文](https://www.thedrive.com/news/someone-just-bought-the-first-ever-ford-bronco-raptor-for-a-steal) — *The Drive*
 
-### 3. Welcome to 2026, Where a Simple Software Glitch Can Kill an Entire Car
+### 5. Welcome to 2026, Where a Simple Software Glitch Can Kill an Entire Car
 
 [原文] We're not talking about a cutting-edge EV, either—the humble, gas-powered VW Tiguan is at risk of suddenly stalling due to faulty computer code.
 The post Welcome to 2026, Where a Simple Software Glitc
 
 📎 [阅读原文](https://www.thedrive.com/news/welcome-to-2026-where-a-simple-software-glitch-can-kill-an-entire-car) — *The Drive*
 
-### 4. Hot or Cold, I’m Missing These Comfort Features in My Honda Prelude
-
-[原文] With hot weather on its way out and chillier mornings already here, I wish my almost $45,000 Honda Prelude had these two features.
-The post Hot or Cold, I&#8217;m Missing These Comfort Features in My 
-
-📎 [阅读原文](https://www.thedrive.com/news/hot-or-cold-im-missing-these-comfort-features-in-my-honda-prelude) — *The Drive*
-
-### 5. New Diesel Engine Oil Blends Are Designed to Keep DPFs From Clogging So Darn Much
-
-[原文] Nobody likes it when their truck's diesel particulate filter gets clogged, forcing a lengthy regen. The API's new PC-12 category was developed, in part, to help with that.
-The post New Diesel Engine O
-
-📎 [阅读原文](https://www.thedrive.com/news/new-diesel-engine-oil-blends-are-designed-to-keep-dpfs-from-clogging-so-darn-much) — *The Drive*
-
 ---
 
 ## 🌱 环境
 
-> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 505c03cb-06af-4713-b29d-057188cff）
+> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: e5c4bde6-1f5e-4a06-8955-f8bff2ac5）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -397,7 +397,7 @@ The post New Diesel Engine O
 
 ## 📚 教育
 
-> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 4a7a21e2-dce0-4f46-b56a-628c09170）
+> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: dce969ca-3130-4d6a-bab3-09d51a97b）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -435,45 +435,45 @@ The post New Diesel Engine O
 
 ## 🎵 音乐
 
-> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 2334d9ec-7e6a-4fca-bd17-af73991f5）
+> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 733d547c-f01b-40ea-afd6-843bef376）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Sabrina Carpenter to Play Ginger Rogers in Tom Holland-Starring Fred Astaire Biopic
+### 1. Chuck Varga, GWAR Founding Member and ‘Sexecutioner,’ Dead at 68
+
+[原文] Artist played "enormous" role in guiding shock metal band's "illustrations, character designs, performances, and artistic vision"
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/chuck-varga-gwar-founding-member-sexecutioner-dead-obit-1235632356/) — *Rolling Stone*
+
+### 2. Sabrina Carpenter to Play Ginger Rogers in Tom Holland-Starring Fred Astaire Biopic
 
 [原文] Singer's "House Tour" video partner Margaret Qualley will portray Adele Astaire in estate-approved film
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/sabrina-carpenter-ginger-rogers-tom-holland-astaire-biopic-1235632317/) — *Rolling Stone*
 
-### 2. Megadeth’s Dave Mustaine Explains Why He’s Retiring: ‘I Live Every Day Like It’s My Last’
+### 3. Megadeth’s Dave Mustaine Explains Why He’s Retiring: ‘I Live Every Day Like It’s My Last’
 
 [原文] At the New York book launch for his memoir, In My Darkest Hour, artist was candid with fans about the thrash group’s future
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/megadeth-dave-mustaine-in-my-darkest-hour-book-launch-video-1235627256/) — *Rolling Stone*
 
-### 3. Peter Gabriel Confronts Death on New Song ‘Face the Wall’
+### 4. Peter Gabriel Confronts Death on New Song ‘Face the Wall’
 
 [原文] A new full moon brings the latest offering from singer's upcoming album o\i
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/peter-gabriel-new-song-face-the-wall-1235632295/) — *Rolling Stone*
 
-### 4. Pearl Jam Surprise Perform With Drummer Abe Laboriel Jr. at Ohana Festival
+### 5. Pearl Jam Surprise Perform With Drummer Abe Laboriel Jr. at Ohana Festival
 
 [原文] The band played "Corduroy" as their first song with the ferocious musician behind the kit
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/pearl-jam-reveal-abe-laboriel-jr-new-drummer-ohana-festival-1235632275/) — *Rolling Stone*
 
-### 5. Ovrkast Speaks Out Against Outkast’s Lawsuit, Says He Never Intended to ‘Confuse Fans’
-
-[原文] In a statement to Rolling Stone, the rapper-producer responds to accusations that he agreed to change his name and later failed to follow through on his promise
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/outkast-ovrkast-speaks-out-trademark-infringement-lawsuit-1235632244/) — *Rolling Stone*
-
 ---
 
 ## ✈️ 旅游
 
-> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: bf93b7ca-cb62-4abd-a088-5e8d25078）
+> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 96e5e59f-1bfe-4185-9559-5da26f4ea）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
