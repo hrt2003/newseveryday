@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月28日** | 生成时间: 2026-09-28 00:40
+**2026年09月28日** | 生成时间: 2026-09-28 05:06
 
 ---
 
@@ -12,7 +12,7 @@
 
 ## 🌍 国际政治
 
-> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: aec88cfc-b966-44d2-8845-9e4e47743）
+> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: a78fedb2-5d09-4d73-9d91-71ca4f8e2）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -28,15 +28,15 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Killer Christa Pike is to be executed within days, but her defence say she's a victim too
+### 3. Embattled Serbian president resigns, paving way for early elections
 
-[原文] Lawyers for Pike, who killed a fellow student in 1995, say she should get clemency and would not be sentenced to death if the crime happened today.
+[原文] Aleksandar Vučić's administration has been dogged by prolonged protests over allegations of corruption.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Ten climbers missing after avalanche hits Himalayan base camp
+### 4. Two bodies found after avalanche hits Himalayan climbing group
 
-[原文] The Nepali team was preparing to take overseas climbers up the Himlung Himal peak.
+[原文] Rescuers are looking for at least 10 Nepalese people who were preparing to take climbers up the Himlung Himal peak.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
@@ -50,21 +50,21 @@
 
 ## 💰 经济财经
 
-> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 1e7558db-ccc4-4305-8142-8ce2d616a）
+> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 69daf781-a82d-4e55-967f-5cb1400ef）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Debt-hungry AI companies face increased risk as bond yields spike
-
-[原文] The AI infrastructure buildout shows no sign of slowing, but the surge in Treasury yields means it's at least going to cost more.
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html) — *CNBC*
-
-### 2. At NFL games this season, drone defense tech aims to bring down disruptions
+### 1. At NFL games this season, drone defense tech aims to bring down disruptions
 
 [原文] The NFL told CNBC it recorded 10,852 drone violations over stadiums between 2021 and 2025. The Jaguars became the first team to sign a drone defense firm.
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/27/nfl-drone-defense-tech-game-disruptions.html) — *CNBC*
+
+### 2. Debt-hungry AI companies face increased risk as bond yields spike
+
+[原文] The AI infrastructure buildout shows no sign of slowing, but the surge in Treasury yields means it's at least going to cost more.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html) — *CNBC*
 
 ### 3. Wall Street money takes back over from small investors as driving force of the stock market
 
@@ -72,61 +72,61 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/27/institutional-investors-stocks-treaurys-retail-traders.html) — *CNBC*
 
-### 4. Meta's Muse agent is attacking one of the economy's most profitable weak spots
+### 4. Anthropic CEO Amodei set to meet with Trump after missing state dinner
+
+[原文] As top tech CEOs rubbed elbows at President Trump's glitzy dinner for Chinese President Xi on Thursday, Anthropic's CEO was noticeably absent.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/27/dario-amodei-set-to-have-dinner-with-trump-after-missing-state-dinner.html) — *CNBC*
+
+### 5. Meta's Muse agent is attacking one of the economy's most profitable weak spots
 
 [原文] Meta's Muse AI personal agent will work over your credit card spending if you don't mind the invasion. How big a threat is it to the subscription economy?
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/27/meta-muse-ai-personal-agent.html) — *CNBC*
 
-### 5. Iran's foreign minister says Tehran ready for 'doomsday' war with U.S., but leaves diplomacy on the table
-
-[原文] Iran's foreign minister says talks are the only way to break the deadlock, while its navy says it's analyzing data from a captured U.S. underwater drone.
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/27/iran-foreign-minister-keeps-indirect-talks-with-us-open-state-media.html) — *CNBC*
-
 ---
 
 ## 💻 科技
 
-> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: ed33a68f-e4d6-40c5-8954-fb57ac968）
+> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: f5b6e719-a108-408a-8f08-24c89049c）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Anthropic’s Dario Amodei gets the SNL treatment
+### 1. Anthropic’s CEO is about to have dinner with President Trump
+
+[原文] This will be the first one-on-one meeting between Dario Amodei and Donald Trump
+
+📎 [阅读原文](https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/) — *TechCrunch*
+
+### 2. Can Muse overcome Meta’s trust issues?
+
+[原文] On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/) — *TechCrunch*
+
+### 3. Anthropic’s Dario Amodei gets the SNL treatment
 
 [原文] "AI is the devil and I its maker."
 
 📎 [阅读原文](https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/) — *TechCrunch*
 
-### 2. TechCrunch Mobility: AV companies pick their lanes
+### 4. TechCrunch Mobility: AV companies pick their lanes
 
 [原文] Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/) — *TechCrunch*
 
-### 3. Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises
+### 5. Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises
 
 [原文] I spent the last few weeks with the Sennheiser Momentum 5 to determine if this pair actually stands out, testing everything from sound quality and noise cancellation to comfort and battery life.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/) — *TechCrunch*
 
-### 4. PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair
-
-[原文] PNOĒ, the Malden, Mass.-based startup whose breath-analyzing mask used to bear an unfortunate resemblance to Bane's, is launching a sleeker self-serve version on October 1 that lets gym-goers measure 
-
-📎 [阅读原文](https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/) — *TechCrunch*
-
-### 5. Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India
-
-[原文] The limited test covers select products and users, with a broader rollout planned for later in October.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/) — *TechCrunch*
-
 ---
 
 ## 🔬 科学
 
-> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: e0bfa471-7ed8-4ec7-a055-b2e301d00）
+> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: d111095b-9790-4ad3-b85b-0fceb2937）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -164,83 +164,83 @@
 
 ## ⚽ 体育
 
-> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 783ddb5f-f8be-4464-b702-b0be80ae5）
+> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: db9d6667-e7d7-481b-8e24-9e006d6fd）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Why Premier League faces uncertainty and chaos after Man City ruling
+### 1. No handshakes between Republic of Ireland and Israel
+
+[原文] The Republic of Ireland and Israel players do not shake hands with each other before or after Sunday's controversial Uefa Nations League game in Hungary.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c6r7dy2yyx2xo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. England win series as Banton delivers on potential
+
+[原文] Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrapped up their summer with an ODI series win over Sri Lanka.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cqrl6y38wez3o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. Bellamy 'hurting' as Denmark outclass Wales
+
+[原文] Craig Bellamy says he is "hurting" on the back of Wales' 2-0 Nations League A defeat away to Denmark, but feels his side will continue to improve.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cqvgyjp3lgv9o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. Why Premier League faces uncertainty and chaos after Man City ruling
 
 [原文] It has taken more than two years, but a judgement finally appears to have been made on the 115 charges levelled against Manchester City. Here's what it means.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Horner a distraction for Ferrari says Vasseur
+### 5. Chelsea restore resilience - are they title contenders again?
 
-[原文] Christian Horner is proving a distraction for Ferrari by "looking for a job", team principal Frederic Vasseur says.
+[原文] Doubt crept in at Chelsea last season when they lost their Women's Super League crown - but early signs in this campaign suggest they have regained their spark for another challenge.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/cvwyz791096jo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 3. Four men down - but Australia still beat South Africa
-
-[原文] Australia are reduced to 11 men but dig in for a remarkable win against a much-changed South Africa side as they beat the world champions 42-38 in Perth.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-union/articles/cx05r4gg209ro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. White casts doubt on Fury-Joshua after 24 hours of chaos
-
-[原文] There is fresh uncertainty around the proposed Tyson Fury v Anthony Joshua fight - after Dana White said he did not know whether it would happen.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/articles/cklyjjjge16vo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. USA's new breakout star? Sullivan living up to Premier League promise
-
-[原文] Cavan Sullivan made his United States debut on Saturday aged just 16 - and produced a performance to show just why Manchester City moved to sign him.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c6vgyy4v938no?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ckwyz477nl57o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
 ## 🎬 娱乐
 
-> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: f11b11bd-8aad-4f51-877c-3e085ed47）
+> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 693bb84b-d609-4d4b-8cf6-151940e4c）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Adam Brody Calls for a ‘Free Palestine,’ Says He’s Never ‘Ducked’ Politics: ‘I Just Answer the Questions I’m Asked’
+### 1. ‘Avengers: Doomsday’ Co-Director Explains It’s ‘Very Difficult’ to Evolve Marvel Characters, But ‘We Need To Surprise Ourselves’ and ‘Audiences’
 
-[原文] Adam Brody is calling for a “free Palestine” and explaining why his political activism doesn’t come up more often during his red-carpet and press appearances. “I just answer the questions I&#8217;m as
+[原文] “Avengers: Doomsday” co-director Anthony Russo has opened up about the pressure that comes with evolving the franchise’s iconic superhero characters, explaining that finding the balance between moving
 
-📎 [阅读原文](https://variety.com/2026/tv/news/adam-brody-calls-for-free-palestine-political-question-1236876872/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/avengers-doomsday-director-very-difficult-mcu-characters-1236876967/) — *Variety*
 
-### 2. ‘Avengers: Endgame Encore’ Scores Massive $86 Million Globally
+### 2. Neil Patrick Harris to Star in ‘Damn Yankees’ Broadway Revival
 
-[原文] &#8220;Avengers: Endgame&#8221; returned to theaters and assembled a massive $86 million globally, including $26 million in North America and $60 million overseas. Disney and Marvel&#8217;s 2019 block
+[原文] A revival of &#8220;Damn Yankees,&#8221; starring Neil Patrick Harris and Julianne Hough, will open next spring on Broadway. It&#8217;s the first Broadway revival of &#8220;Damn Yankees&#8221; in more
 
-📎 [阅读原文](https://variety.com/2026/film/box-office/avengers-endgame-encore-box-office-rerelease-huge-86-million-globally-1236876861/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/legit/news/damn-yankees-broadway-revival-neil-patrick-harris-1236876661/) — *Variety*
 
-### 3. How to Stream the VMAs Live Online
+### 3. Nat Geo Kicks Off New Multi-Year Doc Franchise With ‘Africa Earth’s Wild Home’
 
-[原文] The MTV Video Music Awards return Sunday night with one of the show’s biggest lineups in years, including Madonna’s first VMA performance in more than two decades, a Dolly Parton tribute from Kacey Mu
+[原文] Unlike most conglomerate-owned media companies, National Geographic is still pouring money into documentaries. Their latest docuseries “Africa Earth’s Wild Home” is a seven-parter that took four years
 
-📎 [阅读原文](https://variety.com/2026/shopping/news/how-to-stream-vmas-live-online-free-1236876095/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/nat-geo-new-doc-franchise-africa-earths-wild-home-1236876900/) — *Variety*
 
-### 4. Box Office: ‘Avengers: Endgame Encore’ Returns to No. 1 With $26 Million, ‘Primetime’ Scores Impressive $19 Million Debut
+### 4. Anthony Mackie Says Chris Evans Gave Him the ‘Avengers: Endgame’ Script Early, Revealing How He’d Become Captain America: ‘It Was Really Great and Really Emotional’
 
-[原文] &#8220;Avengers: Endgame Encore,&#8221; a re-release of Disney and Marvel&#8217;s 2019 blockbuster (with extra footage!), emerged victorious at the domestic box office over several new releases. &#822
+[原文] Chris Evans and Anthony Mackie’s bond goes beyond their shared roles as Captain America. They’re also close friends, so much so that Evans gave Mackie early access to the &#8220;Avengers: Endgame&#822
 
-📎 [阅读原文](https://variety.com/2026/film/box-office/avengers-endgame-encore-box-office-win-primetime-scores-big-opening-weekend-1236876819/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/chris-evans-anthony-mackie-avengers-endgame-script-early-1236876896/) — *Variety*
 
-### 5. ‘Godzilla Minus Zero’ Sets Sights on Best Picture Oscar Nomination: ‘If the Possibility Is Not Zero, It’s Hard Not to Have a Little Bit of Hope’
+### 5. Asian Games 2026 Livestream: Where to Watch the Event In the U.S. Online
 
-[原文] “Godzilla Minus One” made franchise history in 2024 when it won Best Visual Effects at the 96th Academy Awards, becoming the first Godzilla film to win an Oscar. Now, after Takashi Yamazaki’s highly a
+[原文] Some of the best athletes in the world are in Japan this week for the 2026 Asian Games, a multi-sport competition held every four years for countries in Asia. This year&#8217;s Asian Games take place 
 
-📎 [阅读原文](https://variety.com/2026/film/news/godzilla-minus-zero-best-picture-nomination-oscars-nyff-1236876769/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/shopping/news/where-to-watch-asian-games-2026-usa-livestream-online-free-1236876889/) — *Variety*
 
 ---
 
 ## 🏥 健康
 
-> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: f198b43a-8278-43d7-922f-a19197f20）
+> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: a2104230-1d18-4533-b733-95884c663）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -278,45 +278,45 @@
 
 ## 🎮 游戏
 
-> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 6162b383-8afe-4623-996a-e34cccbfc）
+> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 84982bbc-5453-492a-a4d8-81665efbe）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Corsair Gaming Headsets See Early Prime Big Deal Days Discounts on Amazon UK
+### 1. Avengers: Endgame Encore Collects $86 Million in Theaters as New Scenes Help MCU Fans Prep for Doomsday
+
+[原文] Avengers: Endgame Encore dusted off an estimated $86 million at the box office as new scenes helped bring Marvel Cinematic Universe (MCU) fans back to theaters to prep for Doomsday.
+
+📎 [阅读原文](https://www.ign.com/articles/avengers-endgame-encore-collects-86-million-in-theaters-as-new-scenes-help-mcu-fans-prep-for-doomsday) — *IGN*
+
+### 2. Philips Multigroom 7000 Series Is Nearly Half Price at Amazon UK Ahead of Prime Big Deal Days
+
+[原文] Score early Amazon Prime Big Deal Days savings on top-rated grooming essentials in the UK, including nearly half price off the Philips Multigroom 7000 Series and great deals on the OneBlade.
+
+📎 [阅读原文](https://www.ign.com/articles/philips-multigroom-7000-oneblade-deals-early-prime-big-deal-days-uk) — *IGN*
+
+### 3. Netflix Tried to Bring Obsession Straight to Streaming Before It Exploded in Theaters
+
+[原文] Director Curry Barker said Netflix bid to put Obsession straight to streaming before Focus Features helped it become the biggest box office success story of 2026.
+
+📎 [阅读原文](https://www.ign.com/articles/netflix-tried-to-bring-obsession-straight-to-streaming-before-it-exploded-in-theaters) — *IGN*
+
+### 4. Don't Breathe 3 in the Works With Stephen Lang and Jane Levy, Fede Álvarez Says
+
+[原文] Director Fede Álvarez has confirmed Don't Breathe 3 is in the works, with some of the cast from previous films expected to reprise their roles.
+
+📎 [阅读原文](https://www.ign.com/articles/dont-breathe-3-in-the-works-with-returning-cast-stephen-lang-and-jane-levy-fede-alvarez-says) — *IGN*
+
+### 5. Corsair Gaming Headsets See Early Prime Big Deal Days Discounts on Amazon UK
 
 [原文] Save early on Corsair gaming headsets at Amazon UK ahead of Prime Big Deal Days, featuring wireless VOID v2 and wired HS65 SURROUND models.
 
 📎 [阅读原文](https://www.ign.com/articles/corsair-gaming-headset-early-prime-big-deal-days-uk) — *IGN*
 
-### 2. Star Wars Nabs Spider-Man Director Jon Watts for First Movie in Disney's New Skywalker Saga Trilogy
-
-[原文] Disney has reportedly picked Spider-Man director Jon Watts to helm the first movie in Simon Kinberg's new Star Wars trilogy as it plots out the next chapter in the Skywalker Saga.
-
-📎 [阅读原文](https://www.ign.com/articles/star-wars-nabs-spider-man-director-jon-watts-for-first-movie-in-disneys-new-skywalker-saga-trilogy) — *IGN*
-
-### 3. Godzilla Minus Zero Review
-
-[原文] Review: Godzilla Minus Zero doesn’t disappoint in the slightest on the kaiju front, but does lack the same level of emotional resonance that its predecessor held.
-
-📎 [阅读原文](https://www.ign.com/articles/godzilla-minus-zero-review) — *IGN*
-
-### 4. The Best Deals Today: Fire Emblem: Fortune's Weave, Metroid Prime 4, Nintendo Switch 2, and More
-
-暂无摘要。
-
-📎 [阅读原文](https://www.ign.com/articles/best-deals-for-september-26-2026) — *IGN*
-
-### 5. Microsoft CEO Says 'Streamlining' at Xbox is 'Great to See' as Layoffs Affect Thousands
-
-[原文] Microsoft CEO Satya Nadella has spoken about the state of Xbox following layoffs that affected thousands of workers, saying that the "streamlining" at the company is "great to see."
-
-📎 [阅读原文](https://www.ign.com/articles/microsoft-ceo-says-streamlining-at-xbox-is-great-to-see-as-layoffs-affect-thousands) — *IGN*
-
 ---
 
 ## 🚗 汽车
 
-> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 8b19e6f0-8b56-47a4-a228-2a24d0012）
+> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 4bc4e0af-98ac-45f7-9913-c28bee72d）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -359,7 +359,7 @@ The post Massimo, Maker of Tiny Jeeps, Is Doing a 125cc Gas Mini Truck Now appea
 
 ## 🌱 环境
 
-> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: b056b949-3329-43bb-bdc5-ffdd3007a）
+> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: fdd6616d-8403-4245-b2fd-761e69b21）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -397,7 +397,7 @@ The post Massimo, Maker of Tiny Jeeps, Is Doing a 125cc Gas Mini Truck Now appea
 
 ## 📚 教育
 
-> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 755de3b8-f850-43bc-8672-9f57073a2）
+> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: d47bb334-8dba-4c31-904a-f7041050d）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -435,45 +435,45 @@ The post Massimo, Maker of Tiny Jeeps, Is Doing a 125cc Gas Mini Truck Now appea
 
 ## 🎵 音乐
 
-> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 423c22b0-1f37-4ab5-bd64-cbd891758）
+> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 21415e0f-d924-4252-844a-a467cbc52）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘Superman’ Director James Gunn Wants You to Know Singer/Songwriter Nouela
+### 1. Jeff Ament Looks Back at Pearl Jam’s Early Days — and Explains How They Picked Their New Drummer
+
+[原文] With his new photo book, Since Forever, out new, Pearl Jam's Jeff Ament talks about the stories behind the photos, and discusses the band's post-Matt Cameron future
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/jeff-ament-interview-pearl-jam-book-new-drummer-1235632544/) — *Rolling Stone*
+
+### 2. Tyler Childers Brings the Wild, Eddie Vedder Surprise Performs at Ohana Festival
+
+[原文] Eddie Vedder popped in for a surprise performance with Stephen Wilson Jr., Alabama Shakes spoke out against ICE, and Jon Batiste brought a joyful celebration of freedom to Southern California
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/2026-ohana-fest-tyler-childers-eddie-vedder-alabama-shakes-1235632452/) — *Rolling Stone*
+
+### 3. Brittany Howard Protests ICE at Ohana Festival, Urges Americans to Protect Each Other
+
+[原文] Alabama Shakes bandleader wore an "ICE OUT" pin during the group's set at the Orange County fest and delivered a message of unity
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/alabama-shakes-protest-against-ice-ohana-fest-performance-1235632485/) — *Rolling Stone*
+
+### 4. ‘Superman’ Director James Gunn Wants You to Know Singer/Songwriter Nouela
 
 [原文] Gunn, co-CEO of DC Studios, writes about one of his favorite artists: 'The magnificence of art isn’t measured by the number of people who experience it.'
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/james-gunn-superman-dc-studios-nouela-1235632086/) — *Rolling Stone*
 
-### 2. Florence Road Land Top Slot at Ohana After Gear Stolen: ‘It Means a Lot for a Little Irish Band’
+### 5. Florence Road Land Top Slot at Ohana After Gear Stolen: ‘It Means a Lot for a Little Irish Band’
 
 [原文] After having to cancel their Friday performance, fest organizers were able to squeeze the band in right before Tyler Childers' Saturday headlining set
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/florence-road-ohana-festival-performance-gear-stolen-1235632448/) — *Rolling Stone*
 
-### 3. ‘SNL’: Watch Katseye Perform ‘Animal,’ ‘Hootie Frutti’
-
-[原文] Both songs are from the Los Angeles-based girl group's latest EP, Wild
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/snl-watch-katseye-perform-animal-hootie-frutti-wild-1235632299/) — *Rolling Stone*
-
-### 4. Chuck Varga, GWAR Founding Member and ‘Sexecutioner,’ Dead at 68
-
-[原文] Artist played "enormous" role in guiding shock metal band's "illustrations, character designs, performances, and artistic vision"
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/chuck-varga-gwar-founding-member-sexecutioner-dead-obit-1235632356/) — *Rolling Stone*
-
-### 5. Sabrina Carpenter to Play Ginger Rogers in Tom Holland-Starring Fred Astaire Biopic
-
-[原文] Singer's "House Tour" video partner Margaret Qualley will portray Adele Astaire in estate-approved film
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/sabrina-carpenter-ginger-rogers-tom-holland-astaire-biopic-1235632317/) — *Rolling Stone*
-
 ---
 
 ## ✈️ 旅游
 
-> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: c871c457-e4f7-46f7-86bb-35f418e0e）
+> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: b946fd6c-d49e-4f1b-83e5-e7d99cde7）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
