@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月27日** | 生成时间: 2026-09-27 12:31
+**2026年09月27日** | 生成时间: 2026-09-27 19:42
 
 ---
 
@@ -12,83 +12,83 @@
 
 ## 🌍 国际政治
 
-> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 2841f5f2-b048-4d23-b4fa-75cde64cf）
+> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 97437822-d471-49c2-b4ab-7387d78d6）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump rejects Iran deal to reopen Strait of Hormuz in seven days
+### 1. Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal
 
-[原文] Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the "definitive views" of mediators.
+[原文] The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris
+### 2. Killer Christa Pike is to be executed within days but her defence say she's a victim too
+
+[原文] Lawyers for Pike, who killed a fellow student in 1995, say she should get clemency and would not be sentenced to death if the crime happened today.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. Four killed in helicopter crash near Montreal
+
+[原文] The victims of the crash have not yet been identified, Quebec provincial police told the BBC.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. Two mass shootings in South Africa leave 27 dead
+
+[原文] The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris
 
 [原文] Around 700,000 people gathered in central Paris to hear the Catholic leader speak and offer prayer.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. British national among six dead in building explosion close to Acropolis in Athens
-
-[原文] Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. German town bans 'stumbling stone' memorials to Nazi victims
-
-[原文] Germany's education minister has branded the ban on the small brass memorial plaques a "scandal".
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Nor'easter brings flooding as New York and New Jersey declare emergency
-
-[原文] Tens of millions of people from Maine to Virginia are in the path of the powerful storm.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
 ---
 
 ## 💰 经济财经
 
-> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 098b8bcf-b4f8-49a4-8991-2ad31b7ea）
+> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 5de82da0-caec-4b8d-bd97-08b03de49）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. OpenAI expands review of model behavior after more rogue agent incidents emerge
+### 1. Debt-hungry AI companies face increased risk as bond yields spike
 
-[原文] OpenAI is conducting an extensive review of misaligned model activity after disclosures involving an Australian government portal and other websites.
+[原文] The AI infrastructure buildout shows no sign of slowing, but the surge in Treasury yields means it's at least going to cost more.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/26/openai-agent-model-behavior-review.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html) — *CNBC*
 
-### 2. Apple faces $5.7 billion patent infringement verdict over iPhone and Apple Watch haptics
+### 2. Wall Street money takes back over from small investors as driving force of the stock market
+
+[原文] One firm sees a "reasonably constructive signal for risk appetite" among institutional investors.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/27/institutional-investors-stocks-treaurys-retail-traders.html) — *CNBC*
+
+### 3. Apple faces $5.7 billion patent infringement verdict over iPhone and Apple Watch haptics
 
 [原文] A federal jury awarded Taction Technology more than $5.7 billion after finding Apple infringed claims from two haptics patents. Apple plans to appeal.
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/26/apple-taction-technology-patent-infringement-verdict.html) — *CNBC*
 
-### 3. Boeing flags 737 Max software glitch affecting some automated approach functions
+### 4. OpenAI expands review of model behavior after more rogue agent incidents emerge
 
-[原文] Boeing identified a software issue on some 737 Max aircraft that can affect automated vertical navigation functions after a missed approach.
+[原文] OpenAI is conducting an extensive review of misaligned model activity after disclosures involving an Australian government portal and other websites.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/26/boeing-737-max-navigation-software-glitch.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/26/openai-agent-model-behavior-review.html) — *CNBC*
 
-### 4. Trump rejects Iran's conditional ceasefire proposal, WSJ reports, as Saudi coalition intercepts projectiles
+### 5. Top Wall Street analysts like these 3 dividend stocks for steady income
 
-[原文] Trump expects renewed U.S. bombing of Iran after the midterm elections, The Wall Street Journal reports, as Saudi-backed forces intercept projectiles.
+[原文] Investors seeking a stable income stream can enhance their portfolios with the addition of dividend stocks.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/26/trump-rejects-irans-conditional-ceasefire-proposal-wsj-reports.html) — *CNBC*
-
-### 5. Trump says he approved new fuel economy standards, rolling back Biden-era rules
-
-[原文] The new fuel economy standards will reverse the Biden administration's stricter policies meant to spur electric vehicle adoption.
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/26/trump-fuel-economy-cafe-standards.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/27/top-wall-street-analysts-like-these-dividend-stocks-for-steady-income.html) — *CNBC*
 
 ---
 
 ## 💻 科技
 
-> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 8de7707b-4e0f-4dcd-95b2-c266818e4）
+> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 9feec29e-c05e-4f36-9732-42f424388）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -126,7 +126,7 @@
 
 ## 🔬 科学
 
-> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 4a7512a5-d5d7-44f5-a07a-654c3c952）
+> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 2509c32d-2b95-4050-9465-abc84ff89）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -164,83 +164,83 @@
 
 ## ⚽ 体育
 
-> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: f5c89d9e-f305-4504-8cfb-fdeeacddc）
+> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: ddb77f43-32d6-40fb-befd-b4f260240）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. England embrace the chaos - but control also needed to win big prizes
+### 1. White casts doubt on Fury-Joshua after 24 hours of chaos
 
-[原文] England embrace the chaos, but superb Spain show it will never win big prizes, says chief football writer Phil McNulty.
+[原文] There is fresh uncertainty around the proposed Tyson Fury v Anthony Joshua fight - after Dana White said he did not know whether it would happen.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cqx2zz6d5716o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/articles/cklyjjjge16vo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. 'Mr Saturday' Russell 'comes through other side after real tough period'
+### 2. Man City? I feel cheated - when do Stoke City get our FA Cup?
 
-[原文] George Russell described the Azerbaijan Grand Prix as "the most dominant weekend I've had in my career" after a win that felt like vindication.
+[原文] BBC Sport columnist Tony Pulis explains what he and all Stoke fans are thinking after Manchester City are found guilty of the majority of the 115 charges they faced.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/ckly558q6jeqo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c60m33473zxpo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Tuchel rues 'big mistakes' - did Man City charges have impact?
+### 3. Pickford or Trafford? The battle to be England's number one is now on
 
-[原文] England's loss to Spain was decided by uncharacteristic mistakes, with two Man City players making errors - so did club news affect performances for country?
+[原文] Jordan Pickford has been England's number one for a long time. But does he now have a rival in James Trafford?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c6j4jjg5qxero?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ckm2qqpjv7nro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. 'Pipe dream' to reality? Wakefield reach Grand Final
+### 4. USA's new breakout star? Sullivan living up to Premier League promise
 
-[原文] Wakefield Trinity were playing in rugby league's second tier in 2024. Two years on, they are one win away from becoming Super League champions.
+[原文] Cavan Sullivan made his United States debut on Saturday aged just 16 - and produced a performance to show just why Manchester City moved to sign him.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-league/articles/c6n8mm9d11lno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c6vgyy4v938no?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. No Premier League appetite to strip Man City of titles - but threat remains
+### 5. Injured Assefa narrowly misses world record in Berlin
 
-[原文] After being found guilty of the majority of the 115 charges for breaching Premier League, could Manchester city really be stripped of eight trophies?
+[原文] Ethiopian runner Tigst Assefa wins the Berlin Marathon but narrowly misses out on breaking the women's world record because of injury.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cxyvzzj17682o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/c6rr4y59n0r0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
 ## 🎬 娱乐
 
-> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 7e7a65f7-835a-4226-89d3-9999aa065）
+> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: d248a22b-a248-47ad-ba09-816125154）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Here’s Where to Livestream Takuma Inoue vs. Tenshin Nasukawa 2 Boxing Online
+### 1. Beyond Frontman Doc ‘Because of You Ka Kui’ to Open U.K.’s Odyssey Film Festival, Lands Local Distribution (EXCLUSIVE)
+
+[原文] &#8220;Because of You Ka Kui,&#8221; a documentary on the late Beyond frontman Wong Ka Kui, will open the sixth Odyssey Film Festival in the U.K., with NGO U.K.-China Film Collab also picking up the H
+
+📎 [阅读原文](https://variety.com/2026/film/news/beyond-frontman-doc-because-of-you-ka-kui-odyssey-fest-1236876790/) — *Variety*
+
+### 2. Jia Zhangke Readies Zhao Tao Road Movie ‘Mamma Dunhuang,’ Rules Out AI in Production (EXCLUSIVE)
+
+[原文] Jia Zhangke will turn his attention to location scouting and production design for his next film, road movie &#8220;Mamma Dunhuang,&#8221; once the 10th Pingyao Crouching Tiger Hidden Dragon Internati
+
+📎 [阅读原文](https://variety.com/2026/film/festivals/jia-zhangke-mamma-dunhuang-ai-production-1236876776/) — *Variety*
+
+### 3. Tucker Carlson Returns to ‘SNL’ to Review ‘The Odyssey,’ Gender-Neutral ‘Spider-Man’ and Left-Wing ‘Obsession’
+
+[原文] On the first &#8220;Weekend Update&#8221; of &#8220;Saturday Night Live&#8221; Season 52, Jeremy Culhane revived his fan-favorite impression of Tucker Carlson to offer his thoughts on some of the summ
+
+📎 [阅读原文](https://variety.com/2026/tv/news/snl-tucker-carlson-weekend-update-summer-movies-1236876744/) — *Variety*
+
+### 4. Here’s Where to Livestream Takuma Inoue vs. Tenshin Nasukawa 2 Boxing Online
 
 [原文] Teiken Promotions has an epic title bout featuring two prime Japanese boxers this weekend. Champion Takuma Inoue defends his WBC bantamweight title belt against former-kickboxer and -mixed martial art
 
 📎 [阅读原文](https://variety.com/2026/shopping/news/how-to-watch-takuma-inoue-vs-tenshin-nasukawa-2-boxing-live-sept-2026-online-1236873487/) — *Variety*
 
-### 2. ‘SNL’ Opens Season With Mamdani Hanging Out With BFF Trump, Natalie Harp Going ‘Obsession’ Over President
+### 5. ‘SNL’ Opens Season With Mamdani Hanging Out With BFF Trump, Natalie Harp Going ‘Obsession’ Over President
 
-[原文] Season 52 of “Saturday Night Live” opened with its usual cold open, and it involved two unlikely political BFFs. Ramy Youssef stopped by to play New York City Mayor Zohran Mamdani, whose office was vi
+[原文] Season 52 of “Saturday Night Live” kicked off with its usual cold open, and it involved two unlikely political BFFs. Ramy Youssef stopped by to play New York City Mayor Zohran Mamdani, whose office wa
 
 📎 [阅读原文](https://variety.com/2026/tv/news/snl-mamdani-trump-natalie-harp-obsession-1236876725/) — *Variety*
-
-### 3. Jalen Brunson’s ‘SNL’ Monologue Sees Knicks Starting 5 Roasting Each Other
-
-[原文] Jalen Brunson&#8217;s &#8220;Saturday Night Live&#8221; monologue featured some familiar faces, as the remaining members of the Knicks starting five visited Studio 8H to roast their team captain. But 
-
-📎 [阅读原文](https://variety.com/2026/tv/news/jalen-brunson-snl-monologue-knicks-starting-5-1236876727/) — *Variety*
-
-### 4. Jon Watts to Direct Next ‘Star Wars’ Movie
-
-[原文] A new “Star Wars” movie is currently in development with director Jon Watts attached. Watts is best known for directing the popular “Spider-Man” trilogy starring Tom Holland, which includes 2017’s Spi
-
-📎 [阅读原文](https://variety.com/2026/film/news/jon-watts-to-direct-star-wars-1236876714/) — *Variety*
-
-### 5. ‘Godzilla Minus Zero’ Director Champions Franchise’s First R Rating as Sequel Rocks NYFF at World Premiere: ‘Censoring’ the Action ‘Was Not an Option’
-
-[原文] “Godzilla Minus Zero” blew the roof off Alice Tully Hall during its rapturous world premiere screening at the New York Film Festival. The long-awaited sequel to 2023’s “Godzilla Minus One” earned rave
-
-📎 [阅读原文](https://variety.com/2026/film/news/godzilla-minus-zero-r-rated-takashi-yamazaki-nyff-1236876643/) — *Variety*
 
 ---
 
 ## 🏥 健康
 
-> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 2a7fc9b8-9c11-48cd-8fb5-24e1c14ad）
+> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 44a4f165-a125-499a-a32c-06a43bd73）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -278,45 +278,45 @@
 
 ## 🎮 游戏
 
-> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 3a752939-eb49-479c-ac4e-6af37c8a9）
+> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: a140f210-814a-4050-b506-f21df6ead）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Godzilla Minus Zero Review
+### 1. Star Wars Nabs Spider-Man Director Jon Watts for First Movie in Disney's New Skywalker Saga Trilogy
+
+[原文] Disney has reportedly picked Spider-Man director Jon Watts to helm the first movie in Simon Kinberg's new Star Wars trilogy as it plots out the next chapter in the Skywalker Saga.
+
+📎 [阅读原文](https://www.ign.com/articles/star-wars-nabs-spider-man-director-jon-watts-for-first-movie-in-disneys-new-skywalker-saga-trilogy) — *IGN*
+
+### 2. Godzilla Minus Zero Review
 
 [原文] Review: Godzilla Minus Zero doesn’t disappoint in the slightest on the kaiju front, but does lack the same level of emotional resonance that its predecessor held.
 
 📎 [阅读原文](https://www.ign.com/articles/godzilla-minus-zero-review) — *IGN*
 
-### 2. The Best Deals Today: Fire Emblem: Fortune's Weave, Metroid Prime 4, Nintendo Switch 2, and More
+### 3. The Best Deals Today: Fire Emblem: Fortune's Weave, Metroid Prime 4, Nintendo Switch 2, and More
 
 暂无摘要。
 
 📎 [阅读原文](https://www.ign.com/articles/best-deals-for-september-26-2026) — *IGN*
 
-### 3. Microsoft CEO Says 'Streamlining' at Xbox is 'Great to See' as Layoffs Affect Thousands
+### 4. Microsoft CEO Says 'Streamlining' at Xbox is 'Great to See' as Layoffs Affect Thousands
 
 [原文] Microsoft CEO Satya Nadella has spoken about the state of Xbox following layoffs that affected thousands of workers, saying that the "streamlining" at the company is "great to see."
 
 📎 [阅读原文](https://www.ign.com/articles/microsoft-ceo-says-streamlining-at-xbox-is-great-to-see-as-layoffs-affect-thousands) — *IGN*
 
-### 4. Discord Users are Massacring Wumpus in Increasingly Gruesome Ways to Protest Platform's Age Verification System
+### 5. Discord Users are Massacring Wumpus in Increasingly Gruesome Ways to Protest Platform's Age Verification System
 
 [原文] Discord artists are tearing the company's purple mascot, Wumpus, limb from limb in increasingly gruesome ways to protest its controversial age verification system.
 
 📎 [阅读原文](https://www.ign.com/articles/discord-users-are-massacring-wumpus-in-increasingly-gruesome-ways-to-protest-platforms-age-verification-system) — *IGN*
 
-### 5. Everything Coming to Peacock in October
-
-暂无摘要。
-
-📎 [阅读原文](https://www.ign.com/articles/whats-new-on-peacock-october-2026) — *IGN*
-
 ---
 
 ## 🚗 汽车
 
-> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 07b638e9-4921-47d6-a301-fd1f10246）
+> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 0e9b2477-69a4-4f92-a446-6fa36c70a）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -359,45 +359,45 @@ The post Welcome to 2026, Where a Simple Software Glitc
 
 ## 🌱 环境
 
-> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: a54fc20c-35f1-43a4-9955-ed70dfe14）
+> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 8dc316c8-9847-487d-aa38-bf7bc5258）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. New Colorado Neighborhood Could Offer Glimpse into the Future of Home Energy Use
+### 1. The Trump Administration’s Critical Minerals Agenda Comes for America’s ‘Forgotten Wildlife Corridor’
+
+[原文] This investigation was reported in a collaboration between Inside Climate News and Columbia Journalism Investigations. MCDERMITT CALDERA, Ore.—On a cold and overcast spring morning, Katie Fite stood i
+
+📎 [阅读原文](https://insideclimatenews.org/news/27092026/trump-critical-minerals-agenda-threatens-wildlife-corridor/) — *Inside Climate News*
+
+### 2. A Century of Sand Debt Comes Due in Malibu
+
+[原文] On a clean summer swell, the wave at Malibu’s Surfrider Beach arrives from the south, wraps around a cobblestone point and unspools toward the pier in a long, shimmering wave that can carry a surfer f
+
+📎 [阅读原文](https://insideclimatenews.org/news/27092026/malibu-surf-breaks-vulnerable-to-climate-change/) — *Inside Climate News*
+
+### 3. New Colorado Neighborhood Could Offer Glimpse into the Future of Home Energy Use
 
 [原文] KEN CARYL, Colo.—A new residential development south of Denver is the testing ground for an unusual partnership that could transform home heating and cooling across the country.&#160; Dandelion Energy
 
 📎 [阅读原文](https://insideclimatenews.org/news/26092026/colorado-neighborhood-shows-geothermal-potential-future/) — *Inside Climate News*
 
-### 2. ‘Crown Jewel’ of Everglades Restoration Is Too Small, Report Says
+### 4. ‘Crown Jewel’ of Everglades Restoration Is Too Small, Report Says
 
 [原文] A sprawling reservoir under construction south of Lake Okeechobee that Gov. Ron DeSantis has characterized as the “crown jewel” of Everglades restoration will not be enough to save Florida’s treasured
 
 📎 [阅读原文](https://insideclimatenews.org/news/26092026/everglades-restoration-reservoir-too-small/) — *Inside Climate News*
 
-### 3. The Specter of ‘Forever Chemicals’ Looms Over Pennsylvania’s Rural Communities
+### 5. The Specter of ‘Forever Chemicals’ Looms Over Pennsylvania’s Rural Communities
 
 [原文] When Nicole Williams moved into her house in Pennsylvania’s North Centre Township in 2011, it was a homecoming. She’d spent the first few years of her life a half-mile down the road in Brookside Villa
 
 📎 [阅读原文](https://insideclimatenews.org/news/26092026/pfas-contaminated-drinking-water-in-pennsylvania-rural-communities/) — *Inside Climate News*
 
-### 4. After a Deadly Flood, What Does Climate Justice for Nepal Look Like?
-
-[原文] From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Paloma Beltran with Tanuja Pandey, a climate justice activist in Nepal. In the weeks followi
-
-📎 [阅读原文](https://insideclimatenews.org/news/26092026/nepal-flood-climate-justice/) — *Inside Climate News*
-
-### 5. Climate Crisis Is No Longer a ‘Distant Warning,’ UN Leader Says
-
-[原文] This week’s United Nations General Assembly in New York featured pleas for urgent action on climate change, with heads of state and Secretary-General António Guterres warning that the window for actio
-
-📎 [阅读原文](https://insideclimatenews.org/news/25092026/climate-crisis-top-concern-at-un-general-assembly/) — *Inside Climate News*
-
 ---
 
 ## 📚 教育
 
-> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 94d75285-d2b5-4312-846c-4ec8d02b0）
+> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 84b27a11-2ad1-4eea-8834-7a9d6bcbd）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -435,45 +435,45 @@ The post Welcome to 2026, Where a Simple Software Glitc
 
 ## 🎵 音乐
 
-> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 006b59bd-ca0f-41fa-b5ac-30f1164ec）
+> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: a1095ebe-2781-47be-9a5b-f3d3abc96）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Chuck Varga, GWAR Founding Member and ‘Sexecutioner,’ Dead at 68
+### 1. ‘SNL’: Watch Katseye Perform ‘Animal,’ ‘Hootie Frutti’
+
+[原文] Both songs are from the Los Angeles-based girl group's latest EP, Wild
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/snl-watch-katseye-perform-animal-hootie-frutti-wild-1235632299/) — *Rolling Stone*
+
+### 2. Chuck Varga, GWAR Founding Member and ‘Sexecutioner,’ Dead at 68
 
 [原文] Artist played "enormous" role in guiding shock metal band's "illustrations, character designs, performances, and artistic vision"
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/chuck-varga-gwar-founding-member-sexecutioner-dead-obit-1235632356/) — *Rolling Stone*
 
-### 2. Sabrina Carpenter to Play Ginger Rogers in Tom Holland-Starring Fred Astaire Biopic
+### 3. Sabrina Carpenter to Play Ginger Rogers in Tom Holland-Starring Fred Astaire Biopic
 
 [原文] Singer's "House Tour" video partner Margaret Qualley will portray Adele Astaire in estate-approved film
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/sabrina-carpenter-ginger-rogers-tom-holland-astaire-biopic-1235632317/) — *Rolling Stone*
 
-### 3. Megadeth’s Dave Mustaine Explains Why He’s Retiring: ‘I Live Every Day Like It’s My Last’
+### 4. Megadeth’s Dave Mustaine Explains Why He’s Retiring: ‘I Live Every Day Like It’s My Last’
 
 [原文] At the New York book launch for his memoir, In My Darkest Hour, artist was candid with fans about the thrash group’s future
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/megadeth-dave-mustaine-in-my-darkest-hour-book-launch-video-1235627256/) — *Rolling Stone*
 
-### 4. Peter Gabriel Confronts Death on New Song ‘Face the Wall’
+### 5. Peter Gabriel Confronts Death on New Song ‘Face the Wall’
 
 [原文] A new full moon brings the latest offering from singer's upcoming album o\i
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/peter-gabriel-new-song-face-the-wall-1235632295/) — *Rolling Stone*
 
-### 5. Pearl Jam Surprise Perform With Drummer Abe Laboriel Jr. at Ohana Festival
-
-[原文] The band played "Corduroy" as their first song with the ferocious musician behind the kit
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/pearl-jam-reveal-abe-laboriel-jr-new-drummer-ohana-festival-1235632275/) — *Rolling Stone*
-
 ---
 
 ## ✈️ 旅游
 
-> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: beee1f9b-ae0f-49aa-aa56-188872ac1）
+> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 5eb08720-bc2e-4c19-8f75-397bd39c1）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
