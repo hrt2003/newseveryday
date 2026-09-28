@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月28日** | 生成时间: 2026-09-28 05:06
+**2026年09月28日** | 生成时间: 2026-09-28 12:32
 
 ---
 
@@ -12,33 +12,33 @@
 
 ## 🌍 国际政治
 
-> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: a78fedb2-5d09-4d73-9d91-71ca4f8e2）
+> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 048c15d5-e451-45c1-839b-3d661e26d）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal
+### 1. Inside Yemen's front-line city as Houthis battle for control
 
-[原文] The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.
+[原文] In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Two mass shootings in South Africa leave 27 dead
-
-[原文] The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 3. Embattled Serbian president resigns, paving way for early elections
+### 2. Embattled Serbian president resigns, paving way for early elections
 
 [原文] Aleksandar Vučić's administration has been dogged by prolonged protests over allegations of corruption.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Two bodies found after avalanche hits Himalayan climbing group
+### 3. Two bodies found after avalanche hits Himalayan climbing group
 
 [原文] Rescuers are looking for at least 10 Nepalese people who were preparing to take climbers up the Himlung Himal peak.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. Two mass shootings in South Africa leave 27 dead
+
+[原文] The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 5. Four killed in helicopter crash near Montreal
 
@@ -50,83 +50,83 @@
 
 ## 💰 经济财经
 
-> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 69daf781-a82d-4e55-967f-5cb1400ef）
+> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 5d0fa47d-9846-4398-bd4e-ea8e58893）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. At NFL games this season, drone defense tech aims to bring down disruptions
+### 1. Brent gains 2.7% as Trump rejects Iranian proposal to reopen Hormuz Strait
 
-[原文] The NFL told CNBC it recorded 10,852 drone violations over stadiums between 2021 and 2025. The Jaguars became the first team to sign a drone defense firm.
+[原文] Iran offered to reopen the key shipping route and restart negotiations with the U.S. within seven days, if the Trump administration agreed to Tehran's conditions.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/27/nfl-drone-defense-tech-game-disruptions.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html) — *CNBC*
 
-### 2. Debt-hungry AI companies face increased risk as bond yields spike
+### 2. SpaceX prepares to send Starship rocket to orbit for first time
 
-[原文] The AI infrastructure buildout shows no sign of slowing, but the surge in Treasury yields means it's at least going to cost more.
+[原文] Elon Musk's SpaceX is poised to launch a historic test flight of its massive Starship rocket early Monday.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/28/spacex-prepares-to-send-starship-rocket-to-orbit-for-first-time.html) — *CNBC*
 
-### 3. Wall Street money takes back over from small investors as driving force of the stock market
+### 3. Trump-Xi summit analysis: 'Tangible outcomes' needed for U.S.-China truce to hold
 
-[原文] One firm sees a "reasonably constructive signal for risk appetite" among institutional investors.
+[原文] U.S. President Donald Trump and Chinese President Xi Jinping met in Washington, D.C., last week and signaled plans to meet two more times this year.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/27/institutional-investors-stocks-treaurys-retail-traders.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/28/trump-xi-summit-tangible-outcomes-us-china-truce.html) — *CNBC*
 
-### 4. Anthropic CEO Amodei set to meet with Trump after missing state dinner
+### 4. Taxpayer-funded Trump ads draw bipartisan scrutiny ahead of midterms
 
-[原文] As top tech CEOs rubbed elbows at President Trump's glitzy dinner for Chinese President Xi on Thursday, Anthropic's CEO was noticeably absent.
+[原文] TV ads featuring Trump are expanding nationally, prompting bipartisan questions over whether they comply with restrictions on taxpayer-funded publicity.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/27/dario-amodei-set-to-have-dinner-with-trump-after-missing-state-dinner.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/27/trump-government-funded-ads-midterms.html) — *CNBC*
 
-### 5. Meta's Muse agent is attacking one of the economy's most profitable weak spots
+### 5. Northern Star shares pop as Australian gold miner rejects $27 billion takeover proposal
 
-[原文] Meta's Muse AI personal agent will work over your credit card spending if you don't mind the invasion. How big a threat is it to the subscription economy?
+[原文] Northern Star shares jumped more than 9% after the Australian gold miner rejected a takeover proposal from Gold Fields.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/27/meta-muse-ai-personal-agent.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/28/northern-star-shares-gold-fields-takeover-bid.html) — *CNBC*
 
 ---
 
 ## 💻 科技
 
-> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: f5b6e719-a108-408a-8f08-24c89049c）
+> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 836dd4b9-2332-4443-b036-0ee6d48aa）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Anthropic’s CEO is about to have dinner with President Trump
+### 1. Truecaller takes its scam intelligence to the open web as it looks beyond caller ID
+
+[原文] Truecaller finds a new way to reach users as pressure grows on its traditional caller ID business in India, its biggest market.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/) — *TechCrunch*
+
+### 2. Anthropic’s CEO is about to have dinner with President Trump
 
 [原文] This will be the first one-on-one meeting between Dario Amodei and Donald Trump
 
 📎 [阅读原文](https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/) — *TechCrunch*
 
-### 2. Can Muse overcome Meta’s trust issues?
+### 3. Can Muse overcome Meta’s trust issues?
 
 [原文] On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/) — *TechCrunch*
 
-### 3. Anthropic’s Dario Amodei gets the SNL treatment
+### 4. Anthropic’s Dario Amodei gets the SNL treatment
 
 [原文] "AI is the devil and I its maker."
 
 📎 [阅读原文](https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/) — *TechCrunch*
 
-### 4. TechCrunch Mobility: AV companies pick their lanes
+### 5. TechCrunch Mobility: AV companies pick their lanes
 
 [原文] Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/) — *TechCrunch*
 
-### 5. Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises
-
-[原文] I spent the last few weeks with the Sennheiser Momentum 5 to determine if this pair actually stands out, testing everything from sound quality and noise cancellation to comfort and battery life.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/) — *TechCrunch*
-
 ---
 
 ## 🔬 科学
 
-> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: d111095b-9790-4ad3-b85b-0fceb2937）
+> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 1b98d726-0055-472e-b72b-2430f0bce）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -164,13 +164,13 @@
 
 ## ⚽ 体育
 
-> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: db9d6667-e7d7-481b-8e24-9e006d6fd）
+> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 8b4ca7e9-cb41-47c4-a831-c8d89452c）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. No handshakes between Republic of Ireland and Israel
+### 1. Republic of Ireland 'raised awareness worldwide' in Israel game
 
-[原文] The Republic of Ireland and Israel players do not shake hands with each other before or after Sunday's controversial Uefa Nations League game in Hungary.
+[原文] Republic of Ireland head coach Heimir Hallgrimsson says his players "raised awareness worldwide" after they chose not to engage in pre-match formalities with Israel.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c6r7dy2yyx2xo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
@@ -180,67 +180,67 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cqrl6y38wez3o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Bellamy 'hurting' as Denmark outclass Wales
+### 3. McNulty first US world road race winner in 33 years
 
-[原文] Craig Bellamy says he is "hurting" on the back of Wales' 2-0 Nations League A defeat away to Denmark, but feels his side will continue to improve.
+[原文] Brandon McNulty becomes the first American winner of the men's road race world title in 33 years with a stunning victory in Montreal.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cqvgyjp3lgv9o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cycling/articles/cqe8xr05dj1no?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Why Premier League faces uncertainty and chaos after Man City ruling
-
-[原文] It has taken more than two years, but a judgement finally appears to have been made on the 115 charges levelled against Manchester City. Here's what it means.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Chelsea restore resilience - are they title contenders again?
+### 4. Chelsea restore resilience - are they title contenders again?
 
 [原文] Doubt crept in at Chelsea last season when they lost their Women's Super League crown - but early signs in this campaign suggest they have regained their spark for another challenge.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ckwyz477nl57o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
+### 5. Bellamy 'hurting' as Denmark outclass Wales
+
+[原文] Craig Bellamy says he is "hurting" on the back of Wales' 2-0 Nations League A defeat away to Denmark, but feels his side will continue to improve.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cqvgyjp3lgv9o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
 ---
 
 ## 🎬 娱乐
 
-> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 693bb84b-d609-4d4b-8cf6-151940e4c）
+> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 7a2a37ea-7362-4fb2-b5bc-560001c31）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘Avengers: Doomsday’ Co-Director Explains It’s ‘Very Difficult’ to Evolve Marvel Characters, But ‘We Need To Surprise Ourselves’ and ‘Audiences’
+### 1. Taylor Swift Premieres ‘Patient Zero’ Music Video at VMAs, Turning Her New ‘Showgirl: Encore’ Single Into a Dramatic Ghost Story
 
-[原文] “Avengers: Doomsday” co-director Anthony Russo has opened up about the pressure that comes with evolving the franchise’s iconic superhero characters, explaining that finding the balance between moving
+[原文] It&#8217;s a love story? Hardly — it&#8217;s a ghost story. Taylor Swift brought her &#8220;Patient Zero&#8221; music video to the MTV Video Music Awards Sunday night for its official world premiere, 
 
-📎 [阅读原文](https://variety.com/2026/film/news/avengers-doomsday-director-very-difficult-mcu-characters-1236876967/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/taylor-swift-vmas-patient-zero-music-video-premiere-1236876944/) — *Variety*
 
-### 2. Neil Patrick Harris to Star in ‘Damn Yankees’ Broadway Revival
+### 2. Korea Box Office: ‘The Assassin(s)’ and ‘Tazza 4’ Dominate Chuseok Holiday Weekend Surge
 
-[原文] A revival of &#8220;Damn Yankees,&#8221; starring Neil Patrick Harris and Julianne Hough, will open next spring on Broadway. It&#8217;s the first Broadway revival of &#8220;Damn Yankees&#8221; in more
+[原文] Director Hur Jin-ho&#8217;s political crime thriller &#8220;The Assassin(s)&#8221; powered to the top of the South Korean box office over the weekend of Sep. 25–27, leading a major holiday box office 
 
-📎 [阅读原文](https://variety.com/2026/legit/news/damn-yankees-broadway-revival-neil-patrick-harris-1236876661/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/box-office/korea-box-office-the-assassins-tazza-4-chuseok-holiday-weekend-1236877125/) — *Variety*
 
-### 3. Nat Geo Kicks Off New Multi-Year Doc Franchise With ‘Africa Earth’s Wild Home’
+### 3. Kacey Musgraves Pays Heartfelt Tribute to Dolly Parton With ‘I Will Always Love You’ Performance at MTV Video Music Awards
 
-[原文] Unlike most conglomerate-owned media companies, National Geographic is still pouring money into documentaries. Their latest docuseries “Africa Earth’s Wild Home” is a seven-parter that took four years
+[原文] Kacey Musgraves led a touching tribute to Dolly Parton at the MTV Video Music Awards 2026, honoring the late country icon just a month after her death with a rendition of &#8220;I Will Always Love You
 
-📎 [阅读原文](https://variety.com/2026/tv/news/nat-geo-new-doc-franchise-africa-earths-wild-home-1236876900/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/awards/kacey-musgraves-dolly-parton-tribute-mtv-vmas-performance-1236876461/) — *Variety*
 
-### 4. Anthony Mackie Says Chris Evans Gave Him the ‘Avengers: Endgame’ Script Early, Revealing How He’d Become Captain America: ‘It Was Really Great and Really Emotional’
+### 4. Madonna Opens MTV Video Music Awards With Sabrina Carpenter and Charli xcx, Plus Sombr, Debi Mazar and More
 
-[原文] Chris Evans and Anthony Mackie’s bond goes beyond their shared roles as Captain America. They’re also close friends, so much so that Evans gave Mackie early access to the &#8220;Avengers: Endgame&#822
+[原文] Madonna performed for the first time in 23 years at the MTV VMAs on Sunday, opening the show by bringing out special guests Sabrina Carpenter and Charli xcx to perform their respective duets. After a 
 
-📎 [阅读原文](https://variety.com/2026/film/news/chris-evans-anthony-mackie-avengers-endgame-script-early-1236876896/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/awards/madonna-sabrina-carpenter-charli-xcx-mtv-vmas-performance-1236876448/) — *Variety*
 
-### 5. Asian Games 2026 Livestream: Where to Watch the Event In the U.S. Online
+### 5. ‘Roseanne’ Star Michael Fishman Apologizes to Fans for the ‘Chaos’ of Roseanne Barr Feud: ‘I’m Gonna Keep Pushing Out Love’
 
-[原文] Some of the best athletes in the world are in Japan this week for the 2026 Asian Games, a multi-sport competition held every four years for countries in Asia. This year&#8217;s Asian Games take place 
+[原文] Michael Fishman, who played D.J. Conner on the ABC sitcom “Roseanne,” has taken to social media after making headlines for feuding with his former co-star Roseanne Barr earlier this month. In August, 
 
-📎 [阅读原文](https://variety.com/2026/shopping/news/where-to-watch-asian-games-2026-usa-livestream-online-free-1236876889/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/roseanne-barr-michael-fishman-apologizes-for-feud-1236877099/) — *Variety*
 
 ---
 
 ## 🏥 健康
 
-> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: a2104230-1d18-4533-b733-95884c663）
+> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 0079f1b1-406e-4918-a08f-a81d93b00）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -278,45 +278,45 @@
 
 ## 🎮 游戏
 
-> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 84982bbc-5453-492a-a4d8-81665efbe）
+> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 77a73e06-5bf3-4213-b711-e7de7bbb2）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Avengers: Endgame Encore Collects $86 Million in Theaters as New Scenes Help MCU Fans Prep for Doomsday
+### 1. Lanterns Season 1, Episode 7 Review & Recap: 'The Jordan Boys Legacy'
 
-[原文] Avengers: Endgame Encore dusted off an estimated $86 million at the box office as new scenes helped bring Marvel Cinematic Universe (MCU) fans back to theaters to prep for Doomsday.
+[原文] Lanterns regains its lost momentum in Episode 7, as the show reconnects with the core Hal/John dynamic we love so much. Read our full review.
+
+📎 [阅读原文](https://www.ign.com/articles/lanterns-season-1-episode-7-review-recap-the-jordan-boys-legacy) — *IGN*
+
+### 2. The Best Deals Today: Super Mario RPG, Fire Emblem: Fortune's Weave, Corsair K70 Keyboard, and More
+
+暂无摘要。
+
+📎 [阅读原文](https://www.ign.com/articles/best-deals-for-september-27-2026) — *IGN*
+
+### 3. 'It Was Really Great and Really Emotional' — Anthony Mackie Remembers Chris Evans Showing Him the Avengers: Endgame Script Early to Reveal How He'd Become Captain America
+
+[原文] Anthony Mackie said Chris Evans told him how he'd become Captain America by showing him the Avengers: Endgame script early.
+
+📎 [阅读原文](https://www.ign.com/articles/it-was-really-great-and-really-emotional-anthony-mackie-remembers-chris-evans-showing-him-the-avengers-endgame-script-early-to-reveal-how-hed-become-captain-america) — *IGN*
+
+### 4. Avengers: Endgame Encore Collects $86 Million in Theaters as New Scenes Help MCU Fans Prep for Doomsday
+
+[原文] Avengers: Endgame Encore dusted off an estimated $86 million at the box office as new scenes helped bring MCU fans back to theaters to prep for Doomsday.
 
 📎 [阅读原文](https://www.ign.com/articles/avengers-endgame-encore-collects-86-million-in-theaters-as-new-scenes-help-mcu-fans-prep-for-doomsday) — *IGN*
 
-### 2. Philips Multigroom 7000 Series Is Nearly Half Price at Amazon UK Ahead of Prime Big Deal Days
+### 5. Philips Multigroom 7000 Series Is Nearly Half Price at Amazon UK Ahead of Prime Big Deal Days
 
 [原文] Score early Amazon Prime Big Deal Days savings on top-rated grooming essentials in the UK, including nearly half price off the Philips Multigroom 7000 Series and great deals on the OneBlade.
 
 📎 [阅读原文](https://www.ign.com/articles/philips-multigroom-7000-oneblade-deals-early-prime-big-deal-days-uk) — *IGN*
 
-### 3. Netflix Tried to Bring Obsession Straight to Streaming Before It Exploded in Theaters
-
-[原文] Director Curry Barker said Netflix bid to put Obsession straight to streaming before Focus Features helped it become the biggest box office success story of 2026.
-
-📎 [阅读原文](https://www.ign.com/articles/netflix-tried-to-bring-obsession-straight-to-streaming-before-it-exploded-in-theaters) — *IGN*
-
-### 4. Don't Breathe 3 in the Works With Stephen Lang and Jane Levy, Fede Álvarez Says
-
-[原文] Director Fede Álvarez has confirmed Don't Breathe 3 is in the works, with some of the cast from previous films expected to reprise their roles.
-
-📎 [阅读原文](https://www.ign.com/articles/dont-breathe-3-in-the-works-with-returning-cast-stephen-lang-and-jane-levy-fede-alvarez-says) — *IGN*
-
-### 5. Corsair Gaming Headsets See Early Prime Big Deal Days Discounts on Amazon UK
-
-[原文] Save early on Corsair gaming headsets at Amazon UK ahead of Prime Big Deal Days, featuring wireless VOID v2 and wired HS65 SURROUND models.
-
-📎 [阅读原文](https://www.ign.com/articles/corsair-gaming-headset-early-prime-big-deal-days-uk) — *IGN*
-
 ---
 
 ## 🚗 汽车
 
-> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 4bc4e0af-98ac-45f7-9913-c28bee72d）
+> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 889646ea-cbae-4a4d-b7c2-39fd4888b）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -359,7 +359,7 @@ The post Massimo, Maker of Tiny Jeeps, Is Doing a 125cc Gas Mini Truck Now appea
 
 ## 🌱 环境
 
-> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: fdd6616d-8403-4245-b2fd-761e69b21）
+> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: dac4cb13-89c2-4e7b-b43e-f65e7b352）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -397,7 +397,7 @@ The post Massimo, Maker of Tiny Jeeps, Is Doing a 125cc Gas Mini Truck Now appea
 
 ## 📚 教育
 
-> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: d47bb334-8dba-4c31-904a-f7041050d）
+> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 854ced3c-dfef-4da4-ac5f-f6134faad）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -435,77 +435,77 @@ The post Massimo, Maker of Tiny Jeeps, Is Doing a 125cc Gas Mini Truck Now appea
 
 ## 🎵 音乐
 
-> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 21415e0f-d924-4252-844a-a467cbc52）
+> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 3d984c27-c321-43c6-8a86-a182f7e6b）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Jeff Ament Looks Back at Pearl Jam’s Early Days — and Explains How They Picked Their New Drummer
+### 1. Taylor Swift Pays Tribute to Dolly Parton While Accepting Video of the Year Award at 2026 VMAs
 
-[原文] With his new photo book, Since Forever, out new, Pearl Jam's Jeff Ament talks about the stories behind the photos, and discusses the band's post-Matt Cameron future
+[原文] Swift dedicates the award for "The Fate of Ophelia" to Dolly Parton, "the ultimate showgirl"
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/jeff-ament-interview-pearl-jam-book-new-drummer-1235632544/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/taylor-swift-dolly-parton-vmas-video-of-the-year-ophelia-1235631582/) — *Rolling Stone*
 
-### 2. Tyler Childers Brings the Wild, Eddie Vedder Surprise Performs at Ohana Festival
+### 2. GENER8ION and Yung Lean Premiere Electrifying Performance of ‘Storm II’ at 2026 VMAs
 
-[原文] Eddie Vedder popped in for a surprise performance with Stephen Wilson Jr., Alabama Shakes spoke out against ICE, and Jon Batiste brought a joyful celebration of freedom to Southern California
+[原文] Yung Lean and a large swath of dancers recreated the viral music video featuring Damien Jalet's mesmerizing choreography
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/2026-ohana-fest-tyler-childers-eddie-vedder-alabama-shakes-1235632452/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/gener8ion-yung-lean-storm-ii-vmas-performance-1235631664/) — *Rolling Stone*
 
-### 3. Brittany Howard Protests ICE at Ohana Festival, Urges Americans to Protect Each Other
+### 3. Sienna Spiro Nabs Best New Artist at 2026 MTV Video Music Awards
 
-[原文] Alabama Shakes bandleader wore an "ICE OUT" pin during the group's set at the Orange County fest and delivered a message of unity
+[原文] "I didn't think this would happen, so I just have to say thank you so much," Spiro said in her short and sweet speech
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/alabama-shakes-protest-against-ice-ohana-fest-performance-1235632485/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/sienna-spiro-best-new-artist-2026-vmas-1235631056/) — *Rolling Stone*
 
-### 4. ‘Superman’ Director James Gunn Wants You to Know Singer/Songwriter Nouela
+### 4. Raye, Sombr, Teddy Swims, Adam Lambert Salute  George Michael at MTV VMAs
 
-[原文] Gunn, co-CEO of DC Studios, writes about one of his favorite artists: 'The magnificence of art isn’t measured by the number of people who experience it.'
+[原文] The stars performed a medley of late singer's biggest hits, joined by up-and-coming U.K. artists Meek and Saint Harison
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/james-gunn-superman-dc-studios-nouela-1235632086/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/george-michael-vmas-tribute-raye-sombr-teddy-swims-1235630299/) — *Rolling Stone*
 
-### 5. Florence Road Land Top Slot at Ohana After Gear Stolen: ‘It Means a Lot for a Little Irish Band’
+### 5. Taylor Swift Turns a Phone Call Into a Thriller for ‘Patient Zero’ Music Video
 
-[原文] After having to cancel their Friday performance, fest organizers were able to squeeze the band in right before Tyler Childers' Saturday headlining set
+[原文] The cinematic music video stars Dakota Johnson, Colin Farrell, and Cara Delevingne and premiered at the 2026 MTV Video Music Awards
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/florence-road-ohana-festival-performance-gear-stolen-1235632448/) — *Rolling Stone*
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/taylor-swift-patient-zero-video-vmas-premiere-2-1235631268/) — *Rolling Stone*
 
 ---
 
 ## ✈️ 旅游
 
-> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: b946fd6c-d49e-4f1b-83e5-e7d99cde7）
+> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: c2cecd4c-1f49-4e99-8a66-b954a5855）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Brian Chesky’s Contrarian Approach to Airbnb Experiences: ‘We’ve Now Started to Crack Locals’
+### 1. Cleartrip Enters India’s Fragmented Holiday Package Market
+
+[原文] Cleartrip is going after the messy middle of Indian travel - the holiday package, a high-value market that remains largely offline even as flights and hotels have moved online.
+
+📎 [阅读原文](https://skift.com/2026/09/27/cleartrip-enters-indias-fragmented-holiday-package-market/) — *Skift*
+
+### 2. Brian Chesky’s Contrarian Approach to Airbnb Experiences: ‘We’ve Now Started to Crack Locals’
 
 [原文] Major experiences players market to travelers, not locals. Can Airbnb be the exception to the rule?
 
 📎 [阅读原文](https://skift.com/2026/09/27/brian-cheskys-contrarian-approach-to-airbnb-experiences-weve-now-started-to-crack-locals/) — *Skift*
 
-### 2. Expedia Cuts 58 Roles in Latest Layoff Round
+### 3. Expedia Cuts 58 Roles in Latest Layoff Round
 
 [原文] Expedia filed a WARN notice in Washington eliminating 58 jobs, including executive positions and data science roles. The reorganization reached Illinois and Florida too.
 
 📎 [阅读原文](https://skift.com/2026/09/25/expedia-cuts-58-roles-in-latest-layoff-round/) — *Skift*
 
-### 3. Staying Agile in an Unpredictable Market
+### 4. Staying Agile in an Unpredictable Market
 
 [原文] The question for every travel company shifting resources toward premium: is the demand truly structural?
 
 📎 [阅读原文](https://skift.com/2026/09/25/staying-agile-in-an-unpredictable-market/) — *Skift*
 
-### 4. Driving Innovation and Partnerships Forward
+### 5. Driving Innovation and Partnerships Forward
 
 [原文] Guest behaviors around how they use their time on cruises are materially changing, a shift hospitality companies should all be considering.
 
 📎 [阅读原文](https://skift.com/2026/09/25/driving-innovation-and-partnerships-forward/) — *Skift*
-
-### 5. The Flavors That Connect Us
-
-[原文] Travelers remember and return for experiences that can only be produced in a single time and place.
-
-📎 [阅读原文](https://skift.com/2026/09/25/the-flavors-that-connect-us/) — *Skift*
 
 ---
 
