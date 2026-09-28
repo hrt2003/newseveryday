@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月28日** | 生成时间: 2026-09-28 12:32
+**2026年09月28日** | 生成时间: 2026-09-28 21:19
 
 ---
 
@@ -12,7 +12,7 @@
 
 ## 🌍 国际政治
 
-> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 048c15d5-e451-45c1-839b-3d661e26d）
+> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 6be848d1-ad71-42d6-a9d3-1dc8acc1c）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -22,111 +22,111 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Embattled Serbian president resigns, paving way for early elections
+### 2. Trump-Xi summit: What wasn't said might matter the most
 
-[原文] Aleksandar Vučić's administration has been dogged by prolonged protests over allegations of corruption.
+[原文] The most revealing thing about the summit in Washington may be what the two leaders did not say - and what we still don't know.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Two bodies found after avalanche hits Himalayan climbing group
+### 3. Mexico's Pacific coast braces for Hurricane Polo
 
-[原文] Rescuers are looking for at least 10 Nepalese people who were preparing to take climbers up the Himlung Himal peak.
+[原文] The category-three storm is approaching the state of Baja California Sur, on Mexico's northern Pacific coast.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Two mass shootings in South Africa leave 27 dead
+### 4. Plan for controversial Sydney data centre scrapped after push-back
+
+[原文] Goodman Group, the property giant behind the Project Mars data centre, says the decision is due to changes to the "policy and regulatory environment".
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c6n9wrqpj4yqo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Two mass shootings in South Africa leave 28 dead
 
 [原文] The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Four killed in helicopter crash near Montreal
-
-[原文] The victims of the crash have not yet been identified, Quebec provincial police told the BBC.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
 ---
 
 ## 💰 经济财经
 
-> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 5d0fa47d-9846-4398-bd4e-ea8e58893）
+> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 59ea2757-7db6-4b52-8fe1-cbaec21ab）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Brent gains 2.7% as Trump rejects Iranian proposal to reopen Hormuz Strait
+### 1. Nvidia releases software platform to stop AI agents from misbehaving
 
-[原文] Iran offered to reopen the key shipping route and restart negotiations with the U.S. within seven days, if the Trump administration agreed to Tehran's conditions.
+[原文] Nvidia says its new software could have prevented OpenAI's Hugging Face incident.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/28/nvidia-releases.html) — *CNBC*
 
-### 2. SpaceX prepares to send Starship rocket to orbit for first time
+### 2. Treasury Secretary Scott Bessent hires Wall Street economist David Zervos
 
-[原文] Elon Musk's SpaceX is poised to launch a historic test flight of its massive Starship rocket early Monday.
+[原文] Zervos is joining the Treasury Department as counselor to Bessent, adding a prominent markets voice to the administration's economic policy team.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/28/david-zervos-treasury-department-scott-bessent.html) — *CNBC*
+
+### 3. SpaceX launches its massive Starship rocket into orbit for the first time
+
+[原文] Elon Musk's SpaceX launched a historic test flight of its massive Starship rocket early Monday.
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/28/spacex-prepares-to-send-starship-rocket-to-orbit-for-first-time.html) — *CNBC*
 
-### 3. Trump-Xi summit analysis: 'Tangible outcomes' needed for U.S.-China truce to hold
+### 4. Meta hires MongoDB CEO CJ Desai, sending shares of data services company down
 
-[原文] U.S. President Donald Trump and Chinese President Xi Jinping met in Washington, D.C., last week and signaled plans to meet two more times this year.
+[原文] Desai will lead the new Meta Enterprise Platform unit and report to CEO Mark Zuckerberg.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/28/trump-xi-summit-tangible-outcomes-us-china-truce.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/28/mongodb-meta-cj-desai.html) — *CNBC*
 
-### 4. Taxpayer-funded Trump ads draw bipartisan scrutiny ahead of midterms
+### 5. Trump ‘very seriously’ considering diesel export ban as global supply crunch worsens
 
-[原文] TV ads featuring Trump are expanding nationally, prompting bipartisan questions over whether they comply with restrictions on taxpayer-funded publicity.
+[原文] Analysts warn an export ban could backfire, pushing up global diesel prices and potentially triggering higher U.S. gasoline prices as refiners adjust.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/27/trump-government-funded-ads-midterms.html) — *CNBC*
-
-### 5. Northern Star shares pop as Australian gold miner rejects $27 billion takeover proposal
-
-[原文] Northern Star shares jumped more than 9% after the Australian gold miner rejected a takeover proposal from Gold Fields.
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/28/northern-star-shares-gold-fields-takeover-bid.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/28/diesel-oil-trump-export-ban-fuel-prices.html) — *CNBC*
 
 ---
 
 ## 💻 科技
 
-> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 836dd4b9-2332-4443-b036-0ee6d48aa）
+> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: c8559902-8fde-4f11-a86a-4344f178f）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Truecaller takes its scam intelligence to the open web as it looks beyond caller ID
+### 1. SpaceX’s Starship rocket reaches orbit for the first time
+
+[原文] Though not without some drama along the way.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/28/spacexs-starship-rocket-reaches-orbit-for-the-first-time/) — *TechCrunch*
+
+### 2. Ocean surveillance startup Quartermaster raises another $140M
+
+[原文] The tech enables real-time awareness for what Quartermaster calls the “largest blind spot on Earth.”
+
+📎 [阅读原文](https://techcrunch.com/2026/09/28/ocean-surveillance-startup-quartermaster-raises-another-140m/) — *TechCrunch*
+
+### 3. Truecaller takes its scam intelligence to the open web as it looks beyond caller ID
 
 [原文] Truecaller finds a new way to reach users as pressure grows on its traditional caller ID business in India, its biggest market.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/) — *TechCrunch*
 
-### 2. Anthropic’s CEO is about to have dinner with President Trump
+### 4. Anthropic’s CEO is about to have dinner with President Trump
 
 [原文] This will be the first one-on-one meeting between Dario Amodei and Donald Trump
 
 📎 [阅读原文](https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/) — *TechCrunch*
 
-### 3. Can Muse overcome Meta’s trust issues?
+### 5. Can Muse overcome Meta’s trust issues?
 
 [原文] On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/) — *TechCrunch*
 
-### 4. Anthropic’s Dario Amodei gets the SNL treatment
-
-[原文] "AI is the devil and I its maker."
-
-📎 [阅读原文](https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/) — *TechCrunch*
-
-### 5. TechCrunch Mobility: AV companies pick their lanes
-
-[原文] Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/) — *TechCrunch*
-
 ---
 
 ## 🔬 科学
 
-> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 1b98d726-0055-472e-b72b-2430f0bce）
+> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 75f939d4-4c89-48d5-adbd-09bf4cbf6）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -164,83 +164,83 @@
 
 ## ⚽ 体育
 
-> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 8b4ca7e9-cb41-47c4-a831-c8d89452c）
+> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: d13a369c-da2b-4b8a-a97e-6ec34ae1b）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Republic of Ireland 'raised awareness worldwide' in Israel game
+### 1. The four 'what next?' scenarios for Premier League after Man City ruling
 
-[原文] Republic of Ireland head coach Heimir Hallgrimsson says his players "raised awareness worldwide" after they chose not to engage in pre-match formalities with Israel.
+[原文] It has taken more than two years, but a judgement finally appears to have been made on the 115 charges levelled against Manchester City. Here's what it means.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c6r7dy2yyx2xo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. England win series as Banton delivers on potential
+### 2. Man City rule breaches not my concern - Mancini
 
-[原文] Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrapped up their summer with an ODI series win over Sri Lanka.
+[原文] Roberto Mancini says an alleged "double contract" during his time as Manchester City manager is "not my concern".
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cqrl6y38wez3o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cmn45e2e1qplo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. McNulty first US world road race winner in 33 years
+### 3. Norris apologises to Colapinto for ban comments
 
-[原文] Brandon McNulty becomes the first American winner of the men's road race world title in 33 years with a stunning victory in Montreal.
+[原文] World champion Lando Norris apologises to Franco Colapinto for saying the Argentine should be banned for causing an accident at the Azerbaijan Grand Prix.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cycling/articles/cqe8xr05dj1no?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/cm87vz5w4jwro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Chelsea restore resilience - are they title contenders again?
+### 4. A 31-year wait for success - but can Everton fans still celebrate?
 
-[原文] Doubt crept in at Chelsea last season when they lost their Women's Super League crown - but early signs in this campaign suggest they have regained their spark for another challenge.
+[原文] Is supporting Everton a life of misery, or are there still reasons to celebrate? Chief football writer Phil McNulty seeks the answer.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ckwyz477nl57o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c0m3lpj4gm4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Bellamy 'hurting' as Denmark outclass Wales
+### 5. FAI investigates alleged racist abuse of Idah
 
-[原文] Craig Bellamy says he is "hurting" on the back of Wales' 2-0 Nations League A defeat away to Denmark, but feels his side will continue to improve.
+[原文] The FAI is amassing high-quality footage of the alleged incident with the aim of presenting evidence to Uefa.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cqvgyjp3lgv9o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cx4gq167288lo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
 ## 🎬 娱乐
 
-> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 7a2a37ea-7362-4fb2-b5bc-560001c31）
+> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 6c0f6645-5cf0-478b-90d6-a9987a345）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Taylor Swift Premieres ‘Patient Zero’ Music Video at VMAs, Turning Her New ‘Showgirl: Encore’ Single Into a Dramatic Ghost Story
+### 1. Casey Affleck Recalls ‘Traumatic’ Oscars Night, Praises Christopher Nolan, and Says ‘Company’ Isn’t Finished Yet: ‘There Are Things I Want to Change’
 
-[原文] It&#8217;s a love story? Hardly — it&#8217;s a ghost story. Taylor Swift brought her &#8220;Patient Zero&#8221; music video to the MTV Video Music Awards Sunday night for its official world premiere, 
+[原文] Don’t bother calling Christopher Nolan to ask about his films – Casey Affleck already has, and “it was probably a mistake,” he told the audience during an onstage interview at the Zurich Film Festival
 
-📎 [阅读原文](https://variety.com/2026/music/news/taylor-swift-vmas-patient-zero-music-video-premiere-1236876944/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/casey-affleck-oscars-christopher-nolan-company-1236877263/) — *Variety*
 
-### 2. Korea Box Office: ‘The Assassin(s)’ and ‘Tazza 4’ Dominate Chuseok Holiday Weekend Surge
+### 2. Peanuts Entertainment, London-Based Production Company Focusing on Latin American Stories, Launches With Mirabal Sisters Feature ‘Alive in Their Garden’ (EXCLUSIVE)
 
-[原文] Director Hur Jin-ho&#8217;s political crime thriller &#8220;The Assassin(s)&#8221; powered to the top of the South Korean box office over the weekend of Sep. 25–27, leading a major holiday box office 
+[原文] Peanuts Entertainment, a production company focused on developing what it describes as &#8220;culturally rooted Latin American stories for international audiences,&#8221; has launched in London. The n
 
-📎 [阅读原文](https://variety.com/2026/film/box-office/korea-box-office-the-assassins-tazza-4-chuseok-holiday-weekend-1236877125/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/peanuts-entertainment-london-mirabal-sisters-feature-1236877269/) — *Variety*
 
-### 3. Kacey Musgraves Pays Heartfelt Tribute to Dolly Parton With ‘I Will Always Love You’ Performance at MTV Video Music Awards
+### 3. Madrid’s Iberseries & Platino Industria Pivots Toward More B2B Activities Where the Hot Button Issues of AI and Microdramas Also Take Center Stage
 
-[原文] Kacey Musgraves led a touching tribute to Dolly Parton at the MTV Video Music Awards 2026, honoring the late country icon just a month after her death with a rendition of &#8220;I Will Always Love You
+[原文] The ever-expanding Madrid-based confab, Iberseries &#38; Platino Industria, is pivoting towards even more B2B activities, said its co-director Samuel Castro of the event, which is expected to surpass 
 
-📎 [阅读原文](https://variety.com/2026/music/awards/kacey-musgraves-dolly-parton-tribute-mtv-vmas-performance-1236876461/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/madrid-iberseries-platino-industria-b2b-ai-microdramas-1236874075/) — *Variety*
 
-### 4. Madonna Opens MTV Video Music Awards With Sabrina Carpenter and Charli xcx, Plus Sombr, Debi Mazar and More
+### 4. African Finance Rising, Distribution Doldrums and Other Hot-Button Topics on the Agenda at This Year’s Durban FilmMart
 
-[原文] Madonna performed for the first time in 23 years at the MTV VMAs on Sunday, opening the show by bringing out special guests Sabrina Carpenter and Charli xcx to perform their respective duets. After a 
+[原文] As the fall festival season winds down, the temperature will be heating up next month in Durban, South Africa, where the 17th Durban FilmMart takes place from Oct. 9 – 12. This year’s event arrives am
 
-📎 [阅读原文](https://variety.com/2026/music/awards/madonna-sabrina-carpenter-charli-xcx-mtv-vmas-performance-1236876448/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/african-finance-distribution-durban-filmmart-1236874090/) — *Variety*
 
-### 5. ‘Roseanne’ Star Michael Fishman Apologizes to Fans for the ‘Chaos’ of Roseanne Barr Feud: ‘I’m Gonna Keep Pushing Out Love’
+### 5. International Oscar Submissions: Italy, France, Spain, Poland, Indonesia and More Join the List
 
-[原文] Michael Fishman, who played D.J. Conner on the ABC sitcom “Roseanne,” has taken to social media after making headlines for feuding with his former co-star Roseanne Barr earlier this month. In August, 
+[原文] The campaigns for the Oscar for international feature film are gaining momentum, with final submissions due by Oct. 1. The Oscars shortlists will be revealed on Dec. 15, with 15 international films se
 
-📎 [阅读原文](https://variety.com/2026/tv/news/roseanne-barr-michael-fishman-apologizes-for-feud-1236877099/) — *Variety*
+📎 [阅读原文](https://variety.com/lists/international-oscar-submissions-2027/) — *Variety*
 
 ---
 
 ## 🏥 健康
 
-> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 0079f1b1-406e-4918-a08f-a81d93b00）
+> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 9924384a-1ba7-41f2-b210-8ecc67345）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -278,126 +278,126 @@
 
 ## 🎮 游戏
 
-> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 77a73e06-5bf3-4213-b711-e7de7bbb2）
+> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 1597f48d-899e-46b7-a758-324692687）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Lanterns Season 1, Episode 7 Review & Recap: 'The Jordan Boys Legacy'
+### 1. CD Projekt Releases Official List of All the Improvements in The Witcher 3: Wild Hunt — Remastered
 
-[原文] Lanterns regains its lost momentum in Episode 7, as the show reconnects with the core Hal/John dynamic we love so much. Read our full review.
+[原文] CD Projekt has released an official list of all the improvements made for The Witcher 3: Wild Hunt — Remastered.
 
-📎 [阅读原文](https://www.ign.com/articles/lanterns-season-1-episode-7-review-recap-the-jordan-boys-legacy) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/cd-projekt-releases-official-list-of-all-the-improvements-in-the-witcher-3-wild-hunt-remastered) — *IGN*
 
-### 2. The Best Deals Today: Super Mario RPG, Fire Emblem: Fortune's Weave, Corsair K70 Keyboard, and More
+### 2. WoW Forever Beta Player Dies to a Near Perfect Griefing Tactic That I'm Sure Blizzard Will Patch Out
 
-暂无摘要。
+[原文] World of Warcraft Forever’s beta marches on, and all evidence points to it being a massive success. But it’s worth remembering this is a beta, and a beta is for reporting issues. Enter one of the best
 
-📎 [阅读原文](https://www.ign.com/articles/best-deals-for-september-27-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/wow-forever-beta-player-dies-to-a-near-perfect-griefing-tactic-that-im-sure-blizzard-will-patch-out) — *IGN*
 
-### 3. 'It Was Really Great and Really Emotional' — Anthony Mackie Remembers Chris Evans Showing Him the Avengers: Endgame Script Early to Reveal How He'd Become Captain America
+### 3. McDonald's Happy Meal Pokémon Cards Promotion Launches in November
 
-[原文] Anthony Mackie said Chris Evans told him how he'd become Captain America by showing him the Avengers: Endgame script early.
+[原文] Pokémon cards will return to McDonald's Happy Meals soon, with 15 more cards to collect.
 
-📎 [阅读原文](https://www.ign.com/articles/it-was-really-great-and-really-emotional-anthony-mackie-remembers-chris-evans-showing-him-the-avengers-endgame-script-early-to-reveal-how-hed-become-captain-america) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/mcdonalds-happy-meal-pokmon-cards-promotion-launches-in-november) — *IGN*
 
-### 4. Avengers: Endgame Encore Collects $86 Million in Theaters as New Scenes Help MCU Fans Prep for Doomsday
+### 4. Fortnite Five Nights at Freddy's Announcement is Now the Game's Most Liked Reveal Ever, Beating the Avengers and Dragon Ball Z
 
-[原文] Avengers: Endgame Encore dusted off an estimated $86 million at the box office as new scenes helped bring MCU fans back to theaters to prep for Doomsday.
+[原文] Epic Games' announcement of a Fortnite and Five Nights at Freddy's crossover has now become the battle royale's most-liked post of all time on social media.
 
-📎 [阅读原文](https://www.ign.com/articles/avengers-endgame-encore-collects-86-million-in-theaters-as-new-scenes-help-mcu-fans-prep-for-doomsday) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/fortnite-five-nights-at-freddys-announcement-is-now-the-games-most-liked-reveal-ever-beating-the-avengers-and-dragon-ball-z) — *IGN*
 
-### 5. Philips Multigroom 7000 Series Is Nearly Half Price at Amazon UK Ahead of Prime Big Deal Days
+### 5. 78-Year-Old Fortnite Streaming Grandmother Now Holds a World Record
 
-[原文] Score early Amazon Prime Big Deal Days savings on top-rated grooming essentials in the UK, including nearly half price off the Philips Multigroom 7000 Series and great deals on the OneBlade.
+[原文] Cath Bowie, a 78-year-old grandmother, now holds a world record for Fortnite streaming.
 
-📎 [阅读原文](https://www.ign.com/articles/philips-multigroom-7000-oneblade-deals-early-prime-big-deal-days-uk) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/78-year-old-fortnite-streaming-grandmother-now-holds-a-world-record) — *IGN*
 
 ---
 
 ## 🚗 汽车
 
-> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 889646ea-cbae-4a4d-b7c2-39fd4888b）
+> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 53d29fd9-7e0f-42b4-befb-e89c998b5）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Forget Your Certification: GM Wants to Automate Forklifts Now
+### 1. Feds’ MPG Rollback Will Make Cars Cheaper, So You Can Spend All the Money Saved on Gas Instead: TDS
+
+[原文] The federal government is reversing fleetwide fuel economy standards, while making the required annual improvements marginal.
+The post Feds&#8217; MPG Rollback Will Make Cars Cheaper, So You Can Spend
+
+📎 [阅读原文](https://www.thedrive.com/news/feds-mpg-rollback-will-make-cars-cheaper-so-you-can-spend-all-the-money-saved-on-gas-instead-tds) — *The Drive*
+
+### 2. Forget Your Certification: GM Wants to Automate Forklifts Now
 
 [原文] The automaker is trying to patent a forklift without a driver's seat, making room for couplers that allow the machines to form a conga line.
 The post Forget Your Certification: GM Wants to Automate Fo
 
 📎 [阅读原文](https://www.thedrive.com/news/forget-your-certification-gm-wants-to-automate-forklifts-now) — *The Drive*
 
-### 2. One Time, Mercedes-Benz Mechanics Built a Snarling V8 Hatchback
+### 3. One Time, Mercedes-Benz Mechanics Built a Snarling V8 Hatchback
 
 [原文] German automakers have a history of letting trainees build cool project cars, and this is one of the coolest.
 The post One Time, Mercedes-Benz Mechanics Built a Snarling V8 Hatchback appeared first on
 
 📎 [阅读原文](https://www.thedrive.com/news/one-time-mercedes-benz-mechanics-built-a-snarling-v8-hatchback) — *The Drive*
 
-### 3. 3D-Scanning Your Old, Slow BMW Just to Fabricate an Exhaust Is Glorious Overkill
+### 4. 3D-Scanning Your Old, Slow BMW Just to Fabricate an Exhaust Is Glorious Overkill
 
 [原文] You don't need to scan an entire car to make a new exhaust system, but when you have a hammer, every problem starts to look like a nail.
 The post 3D-Scanning Your Old, Slow BMW Just to Fabricate an Ex
 
 📎 [阅读原文](https://www.thedrive.com/news/3d-scanning-your-old-slow-bmw-just-to-fabricate-an-exhaust-is-glorious-overkill) — *The Drive*
 
-### 4. Be Brave: This Lamborghini Gallardo That Was Rolled Needs a Rebuild
+### 5. Be Brave: This Lamborghini Gallardo That Was Rolled Needs a Rebuild
 
 [原文] Everything will buff out, for sure.
 The post Be Brave: This Lamborghini Gallardo That Was Rolled Needs a Rebuild appeared first on The Drive.
 
 📎 [阅读原文](https://www.thedrive.com/news/be-brave-this-lamborghini-gallardo-that-was-rolled-needs-a-rebuild) — *The Drive*
 
-### 5. Massimo, Maker of Tiny Jeeps, Is Doing a 125cc Gas Mini Truck Now
-
-[原文] With a 28-mph top speed and a design that recalls classic trucks, this makes go-karts even more fun.
-The post Massimo, Maker of Tiny Jeeps, Is Doing a 125cc Gas Mini Truck Now appeared first on The Dr
-
-📎 [阅读原文](https://www.thedrive.com/news/massimo-maker-of-tiny-jeeps-is-doing-a-125cc-gas-mini-truck-now) — *The Drive*
-
 ---
 
 ## 🌱 环境
 
-> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: dac4cb13-89c2-4e7b-b43e-f65e7b352）
+> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: a272a950-6196-4aae-83d9-9eaf923c8）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Trump Administration’s Critical Minerals Agenda Comes for America’s ‘Forgotten Wildlife Corridor’
+### 1. How to Protect Yourself From Disaster Scams
+
+[原文] This story is a collaboration between Inside Climate News and Honolulu Civil Beat. All over Hawaiʻi, property owners are hoping to rebuild homes and businesses destroyed by recent disasters.&#160; Man
+
+📎 [阅读原文](https://insideclimatenews.org/news/28092026/how-to-protect-yourself-from-disaster-scams/) — *Inside Climate News*
+
+### 2. Planet China
+
+[原文] Welcome to Inside Climate, a podcast from the staff of Inside Climate News. In this episode, we discuss China’s burgeoning electric-vehicle exports—now entering a key market for U.S. automakers—and th
+
+📎 [阅读原文](https://insideclimatenews.org/news/28092026/inside-climate-podcast-planet-china/) — *Inside Climate News*
+
+### 3. Revealing the Invisible Injustice of Extreme Heat
+
+[原文] The extreme heat scientists have warned about for decades came to Europe again this summer, killing at least 30,000 people like a silent, invisible plague. It came for poor people, the very young and 
+
+📎 [阅读原文](https://insideclimatenews.org/news/28092026/thermal-justice-europe/) — *Inside Climate News*
+
+### 4. The Trump Administration’s Critical Minerals Agenda Comes for America’s ‘Forgotten Wildlife Corridor’
 
 [原文] This investigation was reported in a collaboration between Inside Climate News and Columbia Journalism Investigations. MCDERMITT CALDERA, Ore.—On a cold and overcast spring morning, Katie Fite stood i
 
 📎 [阅读原文](https://insideclimatenews.org/news/27092026/trump-critical-minerals-agenda-threatens-wildlife-corridor/) — *Inside Climate News*
 
-### 2. A Century of Sand Debt Comes Due in Malibu
+### 5. A Century of Sand Debt Comes Due in Malibu
 
 [原文] On a clean summer swell, the wave at Malibu’s Surfrider Beach arrives from the south, wraps around a cobblestone point and unspools toward the pier in a long, shimmering wave that can carry a surfer f
 
 📎 [阅读原文](https://insideclimatenews.org/news/27092026/malibu-surf-breaks-vulnerable-to-climate-change/) — *Inside Climate News*
 
-### 3. New Colorado Neighborhood Could Offer Glimpse into the Future of Home Energy Use
-
-[原文] KEN CARYL, Colo.—A new residential development south of Denver is the testing ground for an unusual partnership that could transform home heating and cooling across the country.&#160; Dandelion Energy
-
-📎 [阅读原文](https://insideclimatenews.org/news/26092026/colorado-neighborhood-shows-geothermal-potential-future/) — *Inside Climate News*
-
-### 4. ‘Crown Jewel’ of Everglades Restoration Is Too Small, Report Says
-
-[原文] A sprawling reservoir under construction south of Lake Okeechobee that Gov. Ron DeSantis has characterized as the “crown jewel” of Everglades restoration will not be enough to save Florida’s treasured
-
-📎 [阅读原文](https://insideclimatenews.org/news/26092026/everglades-restoration-reservoir-too-small/) — *Inside Climate News*
-
-### 5. The Specter of ‘Forever Chemicals’ Looms Over Pennsylvania’s Rural Communities
-
-[原文] When Nicole Williams moved into her house in Pennsylvania’s North Centre Township in 2011, it was a homecoming. She’d spent the first few years of her life a half-mile down the road in Brookside Villa
-
-📎 [阅读原文](https://insideclimatenews.org/news/26092026/pfas-contaminated-drinking-water-in-pennsylvania-rural-communities/) — *Inside Climate News*
-
 ---
 
 ## 📚 教育
 
-> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 854ced3c-dfef-4da4-ac5f-f6134faad）
+> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 1f4c4ecf-f410-423f-b7bf-7436193ad）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -435,77 +435,77 @@ The post Massimo, Maker of Tiny Jeeps, Is Doing a 125cc Gas Mini Truck Now appea
 
 ## 🎵 音乐
 
-> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 3d984c27-c321-43c6-8a86-a182f7e6b）
+> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 76ae4fc5-0551-4205-8685-2a22b442c）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Taylor Swift Pays Tribute to Dolly Parton While Accepting Video of the Year Award at 2026 VMAs
+### 1. Madonna’s ‘Danceteria’ Was One of the Great Moments in VMAs History
+
+[原文] Sabrina Carpenter and Charli XCX joined the Queen of Pop on stage for a star-studded performance
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/madonna-danceteria-vmas-2026-charli-xcx-sabrina-carpenter-1235632854/) — *Rolling Stone*
+
+### 2. The VMAs: The One Night When MTV Pretends to be MTV
+
+[原文] Madonna, Snoop, Nirvana, Taylor, and the ghost of the Nineties loomed large at the annual awards show
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/mtv-vmas-2026-madonna-taylor-swift-review-1235632807/) — *Rolling Stone*
+
+### 3. Watch Luke Bryan Showcase ‘Signs’ on ‘Fallon’
+
+[原文] The country singer also discussed celebrating his new album release with the help of Chris Stapleton
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/luke-bryan-signs-performance-interview-fallon-1235632801/) — *Rolling Stone*
+
+### 4. Watch Drake Join Karol G for ‘One Dance’ Performance in Houston
+
+[原文] The duo previously collaborated on a joint single, “Ahí"
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/drake-karol-g-one-dance-live-houston-1235632791/) — *Rolling Stone*
+
+### 5. Taylor Swift Pays Tribute to Dolly Parton While Accepting Video of the Year Award at 2026 VMAs
 
 [原文] Swift dedicates the award for "The Fate of Ophelia" to Dolly Parton, "the ultimate showgirl"
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/taylor-swift-dolly-parton-vmas-video-of-the-year-ophelia-1235631582/) — *Rolling Stone*
 
-### 2. GENER8ION and Yung Lean Premiere Electrifying Performance of ‘Storm II’ at 2026 VMAs
-
-[原文] Yung Lean and a large swath of dancers recreated the viral music video featuring Damien Jalet's mesmerizing choreography
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/gener8ion-yung-lean-storm-ii-vmas-performance-1235631664/) — *Rolling Stone*
-
-### 3. Sienna Spiro Nabs Best New Artist at 2026 MTV Video Music Awards
-
-[原文] "I didn't think this would happen, so I just have to say thank you so much," Spiro said in her short and sweet speech
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/sienna-spiro-best-new-artist-2026-vmas-1235631056/) — *Rolling Stone*
-
-### 4. Raye, Sombr, Teddy Swims, Adam Lambert Salute  George Michael at MTV VMAs
-
-[原文] The stars performed a medley of late singer's biggest hits, joined by up-and-coming U.K. artists Meek and Saint Harison
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/george-michael-vmas-tribute-raye-sombr-teddy-swims-1235630299/) — *Rolling Stone*
-
-### 5. Taylor Swift Turns a Phone Call Into a Thriller for ‘Patient Zero’ Music Video
-
-[原文] The cinematic music video stars Dakota Johnson, Colin Farrell, and Cara Delevingne and premiered at the 2026 MTV Video Music Awards
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/taylor-swift-patient-zero-video-vmas-premiere-2-1235631268/) — *Rolling Stone*
-
 ---
 
 ## ✈️ 旅游
 
-> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: c2cecd4c-1f49-4e99-8a66-b954a5855）
+> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 09ab2c84-7269-47ea-9650-873f7289e）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Cleartrip Enters India’s Fragmented Holiday Package Market
+### 1. Hilton’s New Brand Blueprint Could Cut Energy Bills Up To 40%
+
+[原文] Home2 Suites clean energy prototype is a zero-emissions design — but it’s voluntary. Hilton’s sustainability chief Jean Garris Hand is hoping that high energy bills will encourage uptake.
+
+📎 [阅读原文](https://skift.com/2026/09/28/hiltons-new-brand-blueprint-could-cut-energy-bills-up-to-40/) — *Skift*
+
+### 2. Cleartrip Enters India’s Fragmented Holiday Package Market
 
 [原文] Cleartrip is going after the messy middle of Indian travel - the holiday package, a high-value market that remains largely offline even as flights and hotels have moved online.
 
 📎 [阅读原文](https://skift.com/2026/09/27/cleartrip-enters-indias-fragmented-holiday-package-market/) — *Skift*
 
-### 2. Brian Chesky’s Contrarian Approach to Airbnb Experiences: ‘We’ve Now Started to Crack Locals’
+### 3. Brian Chesky’s Contrarian Approach to Airbnb Experiences: ‘We’ve Now Started to Crack Locals’
 
 [原文] Major experiences players market to travelers, not locals. Can Airbnb be the exception to the rule?
 
 📎 [阅读原文](https://skift.com/2026/09/27/brian-cheskys-contrarian-approach-to-airbnb-experiences-weve-now-started-to-crack-locals/) — *Skift*
 
-### 3. Expedia Cuts 58 Roles in Latest Layoff Round
+### 4. Expedia Cuts 58 Roles in Latest Layoff Round
 
 [原文] Expedia filed a WARN notice in Washington eliminating 58 jobs, including executive positions and data science roles. The reorganization reached Illinois and Florida too.
 
 📎 [阅读原文](https://skift.com/2026/09/25/expedia-cuts-58-roles-in-latest-layoff-round/) — *Skift*
 
-### 4. Staying Agile in an Unpredictable Market
+### 5. Staying Agile in an Unpredictable Market
 
 [原文] The question for every travel company shifting resources toward premium: is the demand truly structural?
 
 📎 [阅读原文](https://skift.com/2026/09/25/staying-agile-in-an-unpredictable-market/) — *Skift*
-
-### 5. Driving Innovation and Partnerships Forward
-
-[原文] Guest behaviors around how they use their time on cruises are materially changing, a shift hospitality companies should all be considering.
-
-📎 [阅读原文](https://skift.com/2026/09/25/driving-innovation-and-partnerships-forward/) — *Skift*
 
 ---
 
