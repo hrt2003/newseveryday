@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月29日** | 生成时间: 2026-09-29 07:03
+**2026年09月29日** | 生成时间: 2026-09-29 13:00
 
 ---
 
@@ -12,121 +12,121 @@
 
 ## 🌍 国际政治
 
-> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 6109c09c-917a-4ceb-a5e9-2f1015611）
+> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 6e75f4c0-f994-43cc-9605-8685a9add）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Inside Yemen's front-line city as Houthis battle for control
+### 1. OpenAI scraps rollout of new model over safety concerns
 
-[原文] In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.
+[原文] The firm also issued an update on incidents in which its models accessed Australian government systems.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Seoul summons Ukraine envoy over North Korean prisoner-of-war row
+### 2. Evicted Spanish pensioner can move back home, lawyer says
 
-[原文] Last week Zelensky revealed Ukraine had sent two captured North Koreans to South Korea - which Seoul says was meant to be a secret.
+[原文] The eviction of Maricarmen Abascal, 87, prompted large-scale protests across Spain.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cmkg8qgy9d9lo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Twelve women have been killed in one part of South Africa since July. Here's what we know so far
+### 3. Argentina threatens legal action against UK over Falkland Islands oil exploration
 
-[原文] South African President Cyril Ramaphosa says the murders are a "stain on our national conscience".
+[原文] President Javier Milei set a two-week deadline for the Sea Lion oilfield project to be scrapped.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. French PM warns against escalation of school protests after 164 arrested
+### 4. New York Times executive fatally shot allegedly by elderly in-laws
 
-[原文] Students are protesting over issues such as overcrowded classes, but the prime minister has condemned reports of violence.
+[原文] Jonathan McKinsey's in-laws, who are both 77 years old, face multiple charges including first-degree murder.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cmqxvnn49rg2o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Nigerian attempts to break world record by dancing non-stop for seven days
+### 5. US ban on Canadian alcohol and dairy comes into effect as trade war drags on
 
-[原文] Crowds have gathered in Lagos to watch Ben Dancer, who says he will carry on dancing until Tuesday morning.
+[原文] It is the latest escalation in the Canada-US trade war after negotiations collapsed in late August, with no word on when talks may resume.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cq8r6z2gjzd1o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
 ## 💰 经济财经
 
-> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: b010a7ca-6a5b-4a60-a2d1-1f6e742c3）
+> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 1ae8887c-220f-415c-9f99-30d93e784）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. OpenAI abandons plan to release upcoming model as safety concerns escalate
+### 1. U.S., Iran hold separate mediator talks as Mideast oil exports hit war-time high
+
+[原文] Iranian and U.S. officials reportedly met separately with mediators Monday to push for a ceasefire, as Middle Eastern crude exports rebounded to war-time high.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/29/us-iran-war-trump-hormuz-.html) — *CNBC*
+
+### 2. Australia says more hikes not off the table after raising rates to 15-year high
+
+[原文] The hike of 25 basis points was in line with expectations by economists polled by Reuters.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/29/australia-rates-inflation-monetary-policy.html) — *CNBC*
+
+### 3. Samsung to inject $1 billion into Nvidia- and KKR-backed AI infrastructure firm
+
+[原文] Samsung Electronics and its five affiliates are investing $1 billion in KKR-launched Helix as the group expands its push into global AI infrastructure.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/29/samsung-investment-nvidia-kkr-ai-helix-digital.html) — *CNBC*
+
+### 4. OpenAI abandons plan to release upcoming model as safety concerns escalate
 
 [原文] The heads of OpenAI and rival Anthropic have both indicated recently that top AI labs should slow the pace of model development.
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/28/openai-abandons-plan-to-release-upcoming-model-as-safety-concerns-escalate.html) — *CNBC*
 
-### 2. Trump announces plan for $15 billion steel plant, would be largest in U.S. history
+### 5. Senate advances college sports bill aimed at regulating NIL deals
 
-[原文] Trump's announcement with Mesabi Metallics comes as Americans' souring views of the economy are poised to shape the upcoming midterm election.
+[原文] The Senate voted Monday on the bill, which would create a national framework for name, image and likeness deals in college athletics.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/28/trump-steel-plant-iowa.html) — *CNBC*
-
-### 3. Supreme Court Justice Alito will not participate in big climate change case next week
-
-[原文] Environmental groups had called for Supreme Court Justice Samuel Alito to recuse himself from the case involving ExxonMobil and Suncor Energy.
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/28/supreme-court-justice-alito-recusal-climate-change-case.html) — *CNBC*
-
-### 4. Boeing 737 Max 10 certification delayed by software issue, FAA says
-
-[原文] The FAA administrator said the Max 10 will be delayed until the agency can assess a software issue on the aircraft.
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/28/faa-boeing-737-max-10-certification-delay-software-issue.html) — *CNBC*
-
-### 5. LeBron James is already boosting ticket and merchandise demand for Philadelphia 76ers
-
-[原文] NBA star LeBron James is having a major financial impact on the Philadelphia 76ers and Philadelphia, boosting sponsorships, ticket sales and economic activity
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/28/lebron-james-boosts-ticket-jersey-demand-for-nba-philadelphia-76ers.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/28/college-sports-bill-senate-nil.html) — *CNBC*
 
 ---
 
 ## 💻 科技
 
-> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: d7687405-2542-4a84-a2a9-3140fa995）
+> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 4d5cafe9-91ae-4713-9ffd-6462d35b3）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Aurora CFO says 30,000 driverless trucks by 2030 isn’t as far-fetched as it sounds
+### 1. Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort
+
+[原文] Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/) — *TechCrunch*
+
+### 2. OpenAI reportedly ditches model over safety concerns
+
+[原文] A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/) — *TechCrunch*
+
+### 3. Aurora CFO says 30,000 driverless trucks by 2030 isn’t as far-fetched as it sounds
 
 [原文] Self-driving truck company Aurora laid out an audacious plan for 2030. Its CFO says its targets aren't aspirational.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/28/aurora-cfo-says-30000-driverless-trucks-by-2030-isnt-as-far-fetched-as-it-sounds/) — *TechCrunch*
 
-### 2. Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation
+### 4. Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation
 
 [原文] The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/) — *TechCrunch*
 
-### 3. AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion
+### 5. AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion
 
 [原文] The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/) — *TechCrunch*
 
-### 4. Shopify opens checkout to browser-based AI agents
-
-[原文] Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/) — *TechCrunch*
-
-### 5. Tesla delays Roadster 2 event again due to bad weather
-
-[原文] Tesla says the event "can only be held outdoors," as it's expected to show the car flying in some form using SpaceX thrusters.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/28/tesla-delays-roadster-2-event-again-due-to-bad-weather/) — *TechCrunch*
-
 ---
 
 ## 🔬 科学
 
-> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: e61d2709-aa87-4abb-a363-b3761b3b7）
+> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: f74a6acd-e5fc-4f62-8890-a8416381d）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -164,7 +164,7 @@
 
 ## ⚽ 体育
 
-> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 7e7dee96-fba3-4ada-9045-6919efa81）
+> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 14c96406-afb2-450f-9a5c-3e67d809c）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -180,7 +180,7 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c6n4k9exz4v3o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Littler stunned by Waterhouse at World Grand Prix
+### 3. Littler stunned by Woodhouse at World Grand Prix
 
 [原文] World champion Luke Littler's hopes of defending his World Grand Prix title are dashed as he falls to a shock shock first-round defeat by Luke Woodhouse in Leicester.
 
@@ -202,45 +202,45 @@
 
 ## 🎬 娱乐
 
-> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 2247349f-f40a-4359-893a-91fac7e4a）
+> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 6cc7de76-24a3-4df8-9916-b998d2e65）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. John Le Carré’s Cold War Spymaster George Smiley Returns in First Look at Matthew Macfadyen in ‘Legacy of Spies’
+### 1. Jon Stewart Takes Aim at Trump’s Meeting With Chinese President: ‘How Does America Even Stay on the Map?’
 
-[原文] John Le Carré&#8217;s legendary British Cold War spy George Smiley, last seen on screens in the acclaimed film &#8220;Tinker Tailer Soldier Spy&#8217; (played by Gary Oldman, coincidentally now starri
+[原文] On Monday night’s episode of “The Daily Show,” Jon Stewart gave audiences a comedic rundown of the recent developments in the relationship between Donald Trump and Chinese President Xi Jinping followi
 
-📎 [阅读原文](https://variety.com/2026/tv/global/legacy-of-spies-first-look-matthew-macfadyen-george-smiley-1236877483/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/jon-stewart-donald-trump-xi-jinping-1236877851/) — *Variety*
 
-### 2. Mohammad Rasoulof, O Mipo to Receive Tokyo Film Festival’s Kurosawa Akira Award
+### 2. ‘Avengers: Endgame Encore’ Tops U.K., Ireland Box Office
 
-[原文] Mohammad Rasoulof, the Iranian filmmaker who secretly left his country in 2024 after being sentenced to eight years in prison, will receive the Kurosawa Akira Award at the 39th Tokyo International Fil
+[原文] Disney&#8217;s &#8220;Avengers: Endgame Encore&#8221; dominated the U.K. and Ireland box office, debuting in first place with £4.1 million ($5.5 million) across its opening frame. &#8220;Resident Evil
 
-📎 [阅读原文](https://variety.com/2026/film/festivals/mohammad-rasoulof-o-mipo-tokyo-kurosawa-akira-award-1236877201/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/box-office/avengers-endgame-encore-uk-ireland-box-office-1236877848/) — *Variety*
 
-### 3. How to Watch Tonight’s ‘All American’ Series Finale Online Free
+### 3. Dennis Haskins, ‘Saved by the Bell’ Star, Dies at 75
 
-[原文] After eight seasons and more than 100 episodes, The CW&#8217;s &#8220;All American&#8221; bids farewell tonight. The high school football drama airs its final episode tonight at 8 p.m. on The CW, clos
+[原文] Dennis Haskins, the actor best known for portraying Principal Richard Belding on “Saved by the Bell,” has died. He was 75. Haskins’ longtime agent, Jay Schachter, confirmed the news to Variety on Mond
 
-📎 [阅读原文](https://variety.com/2026/shopping/news/how-to-watch-all-american-series-finale-sept-28-online-free-1236877762/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/people-news/dennis-haskins-dead-saved-by-the-bell-principal-1236877845/) — *Variety*
 
-### 4. CBS and MTV VMAs Attract a Combined 8.4 Million Viewers, Making it the Most-Watched Since 2015 and Up 51% From Last Year
+### 4. Todd Rundgren Slams Taylor Swift, Says She ‘Ruined Music’ and Is ‘the Apotheosis of Mediocrity’
 
-[原文] The Moon Man still has some life. CBS&#8217; and MTV&#8217;s coverage of the 2026 MTV Video Music Awards averaged a combined 8.43 million viewers on Sunday night, according to Nielsen Live+same day fa
+[原文] Todd Rundgren, the singer-songwriter and producer behind hits like “Hello It&#8217;s Me&#8221; and &#8220;I Saw the Light,&#8221; recently slammed Taylor Swift, calling the pop star “the apotheosis of
 
-📎 [阅读原文](https://variety.com/2026/tv/news/vma-ratings-cbs-mtv-most-watched-since-2015-up-last-year-1236877733/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/todd-rundgren-slams-taylor-swift-1236877824/) — *Variety*
 
-### 5. ‘Spider-Man: Brand New Day’ Re-Release in the Works With New Footage
+### 5. ‘School Girls; or, the African Mean Girls Play’ Broadway Review: An Exceptional Portrait of Black Girlhood
 
-[原文] “Spider-Man: Brand New Day” is getting a re-release with new footage, Variety has confirmed, although details about what&#8217;s in those new scenes remain under wraps. A release date has also yet to 
+[原文] Late girlhood has a sacredness that can’t be replicated. It’s a particular time in life between innocence and adulting, allowing young women to swing between the two. Jocelyn Bioh’s sensational play, 
 
-📎 [阅读原文](https://variety.com/2026/film/news/spider-man-brand-new-day-re-release-new-footage-tom-holland-1236877741/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/legit/reviews/school-girls-or-the-african-mean-girls-play-broadway-review-1236877325/) — *Variety*
 
 ---
 
 ## 🏥 健康
 
-> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: fef9e1e7-d15c-417a-bc05-f8bbb1839）
+> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 39b55113-2858-4713-a20f-e20b8695c）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -278,45 +278,45 @@
 
 ## 🎮 游戏
 
-> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 0b082d96-7569-48c9-b4d0-8783a2ef5）
+> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 1c260bc2-a1ed-4fb8-b172-c791a0b55）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Doctor Doom Appears to Be Abducting Heroes in Avengers: Doomsday
+### 1. Naughty Dog Will 'Fully Reveal' Intergalactic in 2027, but No Release Window Yet
 
-[原文] The directors of Avengers: Doomsday seem to be teasing that Doctor Doom is abducting different heroes from around the Marvel universe.
+[原文] Naughty Dog studio head Neil Druckmann concluded this year's "The Last of Us Day" by giving updates on the developer's current projects, teasing two new The Last of Us projects that "will expand the c
 
-📎 [阅读原文](https://www.ign.com/articles/doctor-doom-appears-to-be-abducting-heroes-in-avengers-doomsday) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/naughty-dog-will-fully-reveal-intergalactic-in-2027-but-no-release-window-yet) — *IGN*
 
-### 2. Everything Coming to HBO Max in October
+### 2. Zach Cregger's Resident Evil Movie Is So Popular, It Increased RE2 Remake Sales by More Than 50% on PS5
 
-暂无摘要。
+[原文] Data shows that Zach Cregger’s film adaptation of Capcom’s flagship horror franchise was so successful, it boosted sales for copies of both the Resident Evil 2 remake and RE4’s 2023 remake on the Play
 
-📎 [阅读原文](https://www.ign.com/articles/whats-new-on-hbo-max-october-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/zach-creggers-resident-evil-movie-is-so-popular-it-increased-re2-remake-sales-by-more-than-50-on-ps5) — *IGN*
 
-### 3. New Game Ready to Add Meat and Blood to Steam’s Tidying-Up Craze
+### 3. Resident Evil Fans Have Already Modded Austin Abrams' Character from the Movie Into RE2
 
-[原文] Steam has seen an avalanche of cheap and cheerful tidying-up games lately, from libraries to magic shops to toy stores, but the genre is about to get weird.
+[原文] As Zach Cregger's Resident Evil movie spreads to theaters across the globe, one dedicated fan has managed to create a Resident Evil 2 mod featuring Austin Abrams' character, Bryan.
 
-📎 [阅读原文](https://www.ign.com/articles/new-game-ready-to-add-meat-and-blood-to-steams-tidying-up-craze) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/resident-evil-fans-have-already-modded-austin-abrams-character-from-the-movie-into-re2) — *IGN*
 
-### 4. Call of Duty: Modern Warfare 4 Is Finally Making Double XP Tokens Only Active During Matches
+### 4. The Elder Scrolls Doesn't Have a New Vegas-Like Spinoff Because Todd Howard Is 'Very Protective' of the Franchise, Former Dev Claims
 
-[原文] Call of Duty: Modern Warfare 4 is making a major quality of life change that fans have been wanting to see for years.
+[原文] The Elder Scrolls never got a Fallout: New Vegas-like spinoff because Todd Howard is "very protective" of the IP, according to former Bethesda developer Kurt Kuhlmann.
 
-📎 [阅读原文](https://www.ign.com/articles/call-of-duty-modern-warfare-4-is-finally-making-double-xp-tokens-only-active-during-matches) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/the-elder-scrolls-doesnt-have-a-new-vegas-like-spinoff-because-todd-howard-is-very-protective-of-the-franchise-former-dev-claims) — *IGN*
 
-### 5. Avengers: Doomsday Directors Joke Doctor Doom Has 'Been Planned All Along,' Tease Iron Man Connections
+### 5. Backrooms Director Kane Parsons Wants a Limited Series to Pull Off Horror Franchise's 'Main Ending'
 
-[原文] Avengers: Doomsday directors Joe and Anthony Russo joked that Doctor Doom's introduction was "planned all along" after new Avengers: Endgame Encore scenes teased his impending arrival.
+[原文] Backrooms director Kane Parsons says he’s always had a “main ending” in mind for his liminal space story, which he says would be best served as a limited series.
 
-📎 [阅读原文](https://www.ign.com/articles/avengers-doomsday-directors-joke-doctor-doom-has-been-planned-all-along-tease-iron-man-connections) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/backrooms-director-kane-parsons-wants-a-limited-series-to-pull-off-horror-franchises-main-ending) — *IGN*
 
 ---
 
 ## 🚗 汽车
 
-> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 81ccdda9-82ec-4d2a-9dbe-f4b2a5f3a）
+> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 464bff1b-d36a-48e4-948a-2fe8826f2）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -358,45 +358,45 @@ The post Ferrari F1 Doesn&#
 
 ## 🌱 环境
 
-> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 4f02fc1d-5daa-435b-9333-644ea9fde）
+> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 6e9e8c44-9907-4359-b55d-c88849229）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. How to Protect Yourself From Disaster Scams
+### 1. Alito’s Recusal From Climate Case: Too Little, Too Late?
+
+[原文] Justice Samuel Alito decided Monday to sit out one of the most consequential climate change cases to reach the Supreme Court, but legal experts expected continuing ramifications due to his ownership o
+
+📎 [阅读原文](https://insideclimatenews.org/news/28092026/alitos-recusal-from-climate-case-too-little-too-late/) — *Inside Climate News*
+
+### 2. Trump Slashes Fuel-Economy Standards in Blow to Climate, Health, EV Market
+
+[原文] The Trump administration Monday finalized the rollback of a major fuel economy standard for cars and trucks, a move critics say will cause more climate-warming pollution, human health problems and hig
+
+📎 [阅读原文](https://insideclimatenews.org/news/28092026/trump-slashes-fuel-economy-standards/) — *Inside Climate News*
+
+### 3. How to Protect Yourself From Disaster Scams
 
 [原文] This story is a collaboration between Inside Climate News and Honolulu Civil Beat. All over Hawaiʻi, property owners are hoping to rebuild homes and businesses destroyed by recent disasters.&#160; Man
 
 📎 [阅读原文](https://insideclimatenews.org/news/28092026/how-to-protect-yourself-from-disaster-scams/) — *Inside Climate News*
 
-### 2. Planet China
+### 4. Planet China
 
 [原文] Welcome to Inside Climate, a podcast from the staff of Inside Climate News. In this episode, we discuss China’s burgeoning electric-vehicle exports—now entering a key market for U.S. automakers—and th
 
 📎 [阅读原文](https://insideclimatenews.org/news/28092026/inside-climate-podcast-planet-china/) — *Inside Climate News*
 
-### 3. Revealing the Invisible Injustice of Extreme Heat
+### 5. Revealing the Invisible Injustice of Extreme Heat
 
 [原文] The extreme heat scientists have warned about for decades came to Europe again this summer, killing at least 30,000 people like a silent, invisible plague. It came for poor people, the very young and 
 
 📎 [阅读原文](https://insideclimatenews.org/news/28092026/thermal-justice-europe/) — *Inside Climate News*
 
-### 4. The Trump Administration’s Critical Minerals Agenda Comes for America’s ‘Forgotten Wildlife Corridor’
-
-[原文] This investigation was reported in a collaboration between Inside Climate News and Columbia Journalism Investigations. MCDERMITT CALDERA, Ore.—On a cold and overcast spring morning, Katie Fite stood i
-
-📎 [阅读原文](https://insideclimatenews.org/news/27092026/trump-critical-minerals-agenda-threatens-wildlife-corridor/) — *Inside Climate News*
-
-### 5. A Century of Sand Debt Comes Due in Malibu
-
-[原文] On a clean summer swell, the wave at Malibu’s Surfrider Beach arrives from the south, wraps around a cobblestone point and unspools toward the pier in a long, shimmering wave that can carry a surfer f
-
-📎 [阅读原文](https://insideclimatenews.org/news/27092026/malibu-surf-breaks-vulnerable-to-climate-change/) — *Inside Climate News*
-
 ---
 
 ## 📚 教育
 
-> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: f8b7c918-5217-4b71-a0ef-10bdea82c）
+> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 42714d20-15c4-42d0-82d2-e2cdab8fd）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -434,77 +434,77 @@ The post Ferrari F1 Doesn&#
 
 ## 🎵 音乐
 
-> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 7b2d6e5f-f687-4e0f-bc0a-b7f6ef903）
+> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: c3b91a6d-e973-46be-9043-26bb507b7）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Jay-Z Asks Appeals Court to Revive Extortion Case After Rape Accuser Recants
+### 1. Miley Hits Number One on Albums Chart With ‘Bass Persuades’
+
+[原文] It’s the musician’s first time topping the Billboard 200 since she released Bangerz in 2013
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/miley-cyrus-number-one-album-bass-persuades-1235633373/) — *Rolling Stone*
+
+### 2. Jay-Z Asks Appeals Court to Revive Extortion Case After Rape Accuser Recants
 
 [原文] The rapper and entrepreneur is citing his accuser’s retraction as he asks a California appeals court to reconsider its refusal to revive his extortion case against her prior lawyer
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/jay-z-jane-doe-recants-tony-buzbee-extortion-appeal-1235632130/) — *Rolling Stone*
 
-### 2. Mighty Sparrow, King of Calypso Music, Dead at 91
+### 3. Mighty Sparrow, King of Calypso Music, Dead at 91
 
 [原文] “He was an institution in the entertainment industry, well admired for his skill and finesse as a singer, songwriter and mentor,” daughter writes
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/mighty-sparrow-dead-obituary-1235633160/) — *Rolling Stone*
 
-### 3. Brandi Carlile Plots ‘Burn the Setlist’ All-Request Tour
+### 4. Brandi Carlile Plots ‘Burn the Setlist’ All-Request Tour
 
 [原文] Longtime bandmates and collaborators Phil and Tim Hanseroth will accompany the musician on the fall trek
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/brandi-carlile-all-requests-tour-2026-1235633075/) — *Rolling Stone*
 
-### 4. Inside Encore After Hours’ Intimate Evening With Gigi Perez
+### 5. Inside Encore After Hours’ Intimate Evening With Gigi Perez
 
 [原文] Gigi Perez, fresh off her stadium tour with Noah Kahan, performed for a select group of Gap Inc.’s Encore loyalty program members during New York Fashion Week at the Cherry Lane Theatre, an iconic and
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/inside-encore-after-hours-intimate-evening-gigi-perez-1235632977/) — *Rolling Stone*
 
-### 5. John Mayer Will Return to the Sphere in 2027
-
-[原文] The musician will perform a special run of shows with three distinct sets: solo, with a full band, and with his blues-rock trio
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/john-mayer-trio-2027-vegas-residency-sphere-1235632963/) — *Rolling Stone*
-
 ---
 
 ## ✈️ 旅游
 
-> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: a29b7a96-ee53-44dd-a655-4115f22a0）
+> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 82c44b82-713f-49cb-ba25-0953ffa9e）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Airbnb CEO on Hotels, Cars, and Flights: ‘I Had to Get Over My Ideology’
+### 1. Hilton’s Motto Debut in Japan Signals a Bigger Mid-Market Shift
+
+[原文] If Japan reaches 60 million visitors by 2030 as planned, hotel companies will need more rooms, and more affordable ones. And that is exactly what Hilton aims to do.
+
+📎 [阅读原文](https://skift.com/2026/09/28/hiltons-motto-debut-in-japan-signals-a-bigger-mid-market-shift/) — *Skift*
+
+### 2. Instinct’s App Is Fueled by Travel — Founder Says It’s Half of Volume
+
+[原文] Instinct got travel's attention by handling bookings via text message. Now the real question is whether it can turn that volume into revenue — and travel may be the test case.
+
+📎 [阅读原文](https://skift.com/2026/09/28/instincts-app-is-fueled-by-travel-founder-says-its-half-of-volume/) — *Skift*
+
+### 3. Airbnb CEO on Hotels, Cars, and Flights: ‘I Had to Get Over My Ideology’
 
 [原文] Airbnb CEO Brian Chesky didn't address at length his changing views about Airbnb experiences, but there, too, he's softened his old religion about them having to be unique, and has added mainstream to
 
 📎 [阅读原文](https://skift.com/2026/09/28/airbnb-ceo-on-hotels-cars-and-flights-i-had-to-get-over-my-ideology/) — *Skift*
 
-### 2. How Hotel CEOs Are Really Using AI, From Voice Agents to a Digital Hyatt CEO
+### 4. How Hotel CEOs Are Really Using AI, From Voice Agents to a Digital Hyatt CEO
 
 [原文] Hilton, Hyatt, Accor, Wyndham, and Banyan Group all agree AI should make staff better at their jobs. But they split on how to adopt it.
 
 📎 [阅读原文](https://skift.com/2026/09/28/what-hotel-ceos-are-actually-doing-with-ai-from-voice-agents-to-a-digital-hyatt-ceo/) — *Skift*
 
-### 3. Uber Is Coming for STR. Airbnb Has an AI Agent Coming.
+### 5. Uber Is Coming for STR. Airbnb Has an AI Agent Coming.
 
 [原文] On Monday's ⁠Good Morning Hospitality, A Skift Podcast⁠, ⁠Brandreth Canaley⁠, ⁠Michael Goldin⁠, and ⁠Jamie Lane⁠ recap sessions from Skift Global Forum that every STR operator should be paying attenti
 
 📎 [阅读原文](https://skift.com/2026/09/28/uber-is-coming-for-str-airbnb-has-an-ai-agent-coming/) — *Skift*
-
-### 4. How L Catterton Quietly Became One of Travel’s Most Interesting Investors
-
-[原文] LVMH’s connection gets the attention, but L Catterton’s travel story is really about a $40 billion consumer-investment machine putting more capital behind how people spend their time and discretionary
-
-📎 [阅读原文](https://skift.com/2026/09/28/how-l-catterton-quietly-became-one-of-travels-most-interesting-investors/) — *Skift*
-
-### 5. Accor’s Nicolas Maynard on Closing AI’s Industrialization Gap
-
-[原文] Industrializing AI across European markets is the hard part at Accor. Its AI chief bets on autonomous agents anyway, though he warns they meet far more friction in the enterprise.
-
-📎 [阅读原文](https://skift.com/2026/09/28/skift-data-ai-summit-europe-preview-accor-nicolas-maynard/) — *Skift*
 
 ---
 
