@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年09月30日** | 生成时间: 2026-09-30 12:47
+**2026年09月30日** | 生成时间: 2026-09-30 20:11
 
 ---
 
@@ -12,121 +12,121 @@
 
 ## 🌍 国际政治
 
-> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: c48cd722-d39c-4336-84f9-28369335c）
+> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 8f23b934-5ed0-4fed-8c25-04a75a736）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Chinese AI tool told researchers how to make bioweapons
+### 1. Russia launches largest attack on Ukraine energy infrastructure since spring
+
+[原文] At least six people were killed and 33 others injured across the country in the overnight attacks, local authorities reported.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Last UK and US troops leave Iraq as anti-Islamic State mission ends
+
+[原文] The withdrawal of coalition forces, under a deal agreed two years ago, was a key demand of the Iraqi government.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. Chinese AI tool told researchers how to make bioweapons
 
 [原文] Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Three takeaways from Trump's 'Super Intelligence' summit
+### 4. Girl has multiple surgeries to control infections after strike in Gaza
 
-[原文] The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI.
+[原文] Witnesses say Raseel's tent was hit by an Israeli helicopter strike. Israel’s military says it has no record of the attack.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. South Korea demands apology from Pyongyang for landmine blasts that injured three
+### 5. Six Flags shuts down X2 rollercoaster after more than 100 allege brain injuries
 
-[原文] Blasts in the Demilitarised Zone (DMZ) injured three South Korean personnel earlier this month.
+[原文] Hundreds of riders were allegedly injured on X2, which has seats that spin 360 degrees.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwj3dkvpm4e7o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. South Africa to clean up high-risk areas after 12 women killed
-
-[原文] The deaths sparked a national outcry about the scale of violence against women in the country.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c51kx9ze1mdzo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Spain announces ban on evictions after protests over 87-year-old woman's removal from flat
-
-[原文] The ban is part of a number of proposals that must be approved in parliament within 30 days.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cw14d37446d8o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
 ## 💰 经济财经
 
-> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 2f06f5b6-a66a-4e2f-9eda-28d959093）
+> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: fe544f1e-7710-4b68-ae72-ec9194385）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump tries to rename AI 'super intelligence' as polls show him sinking on key issue
+### 1. Trump's meeting with tech leaders leaves AI safety more unsettled than ever
 
-[原文] Trump shrugged when asked if he is concerned that his support for AI and data centers could hurt Republicans in the upcoming midterm election.
+[原文] Following Trump's lunch with AI leaders at the White House, the industry remains largely unchanged on AI safety.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/29/trump-ai-super-intelligence.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/30/after-trump-meeting-with-tech-leaders-ai-safety-in-more-chaotic-state.html) — *CNBC*
 
-### 2. Hedge funds hold a record share of the $30 trillion Treasury market. What could go wrong?
+### 2. Inside Man: How Chinese spies used lies, love and betrayal to target the Federal Reserve
 
-[原文] Hedge funds can boost Treasury market liquidity, but their growing role also risks creating financial instability.
+[原文] A CNBC investigation shows how former Fed advisor John Rogers became entangled with a man U.S. officials identify as a Chinese intelligence operative.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/30/us-treasury-market-is-relying-more-on-hedge-funds.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/30/john-rogers-fed-china-espionage-case.html) — *CNBC*
 
-### 3. Beijing warns of retaliation if Europe imposes curbs on Chinese businesses
-
-[原文] China must "respond firmly" if the EU introduces restrictions on Chinese businesses or products, the Commerce Ministry said, according to a CNBC translation.
-
-📎 [阅读原文](https://www.cnbc.com/2026/09/30/china-warns-europe-increases-trade-pressure.html) — *CNBC*
-
-### 4. The Fed's main inflation measure will be released Wednesday. Here's what to expect
+### 3. The Fed's main inflation measure will be released Wednesday. Here's what to expect
 
 [原文] Data is expected to show ongoing price pressures and consumers who nevertheless continue to spend.
 
 📎 [阅读原文](https://www.cnbc.com/2026/09/29/the-feds-main-inflation-measure-will-be-released-wednesday-heres-what-to-expect.html) — *CNBC*
 
-### 5. 30-year Treasury bond yield scales to highest level since 2002
+### 4. Ken Griffin pledges $3 billion to Carnegie Mellon University in 'historic' gift
 
-[原文] U.S. Treasury yields largely rose Tuesday, adding to the gains that catapulted them to multi-year highs amid central bank monetary policy concerns.
+[原文] Citadel CEO Ken Griffin is committing $3 billion to Carnegie Mellon University, a "historic" gift that includes $2 billion to establish a new Miami campus.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/29/treasury-yields-bonds.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/30/ken-griffin-pledges-3-billion-to-carnegie-mellon-university.html) — *CNBC*
+
+### 5. Trump denies offering Iran sanctions relief; Tehran receives U.S. proposal following Qatar talks
+
+[原文] U.S. President Donald Trump has denied reports that he had offered sanctions relief to Iran in exchange for concessions from Tehran on its nuclear program.
+
+📎 [阅读原文](https://www.cnbc.com/2026/09/30/us-iran-war-trump-hormuz.html) — *CNBC*
 
 ---
 
 ## 💻 科技
 
-> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: c05a125a-97c5-4bcd-a0bf-26f72d531）
+> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 40a76ec2-441a-4768-9673-36c9f67f6）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Apple Pay finally launches in India after years on the sidelines
+### 1. Two Google alumni raise $11.3M to back AI startups that enterprises will actually pay for
+
+[原文] BAG Ventures announces close of a $11.3M Fund I to invest in all things AI.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/30/bag-ventures-sets-its-eyes-deeper-into-the-ai-stack/) — *TechCrunch*
+
+### 2. Airbnb adds AI search, more social features
+
+[原文] Airbnb is also launching new services such as meal delivery and laundry in select locations
+
+📎 [阅读原文](https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/) — *TechCrunch*
+
+### 3. Apple Pay finally launches in India after years on the sidelines
 
 [原文] Some of India's largest banks are holding off on supporting Apple Pay initially.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/) — *TechCrunch*
 
-### 2. America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch
+### 4. America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch
 
 [原文] For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/) — *TechCrunch*
 
-### 3. The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch
+### 5. The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch
 
 [原文] Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name "dot.com," which now redirects to the Grok chatbot download page.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/) — *TechCrunch*
 
-### 4. Your car and its mobile app are probably handing over all kinds of data to tech companies
-
-[原文] Researchers at Northeastern University found vehicles and their companion apps regularly shared detailed data with some of the largest tech companies.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies/) — *TechCrunch*
-
-### 5. a16z-backed EliseAI raises $350M, doubles valuation to $4B
-
-[原文] EliseAI raises $350M, doubles valuation in a year.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/) — *TechCrunch*
-
 ---
 
 ## 🔬 科学
 
-> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: ced9ba80-12ed-4d43-a177-146dd23f2）
+> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 305fe954-6316-4f01-9e33-77f4d1b01）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -164,83 +164,83 @@
 
 ## ⚽ 体育
 
-> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: c0249904-cce1-48ed-8ec6-84ff2ff99）
+> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 749fc2a3-3bef-41cf-a4a3-9043cd687）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The intricate web Man City spun to con the Premier League
+### 1. Richards 'devastated' by Man City guilty verdicts
 
-[原文] The 40-page document which confirmed Manchester City were found guilty of inflating sponsorship income makes fascinating reading. Here's what it sets out.
+[原文] Former Manchester City defender Micah Richards felt "absolutely devastated" after reading the Premier League's "damning" verdict on the club's financial charges.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c65y51l3gzq4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ckrerg4n2v82o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Time for Tuchel to offer Alexander-Arnold some trust
+### 2. £1.2bn on transfers with £830m inflated in sponsorships - Man City's 'asterisk era'
 
-[原文] Having been overlooked for so long, Trent Alexander-Arnold produced a world-class moment on his return, writes Phil McNulty.
+[原文] BBC Sport analyses Manchester City's dominance of English football during the period in which they were breaching financial rules.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c8dx51r59xndo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c9lyk46gekkeo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. New coach, new players, but same old failings hamper Scotland
+### 3. Ocon to leave Haas putting F1 future in doubt
 
-[原文] Self-inflicted wounds cost Scotland on Sebastien Pocognoli's Hampden debut, writes Tom English.
+[原文] Esteban Ocon is fighting to save his Formula 1 career after the Haas team announcement that they are splitting with the Frenchman at the end of the year.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cmrl6g9nw5lyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/c9e8e5k21ge5o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Who continues to show how important they are? England player ratings
+### 4. The part-timers who won three Wembley finals in a row
 
-[原文] How the England players rated following their Nations League match.
+[原文] You probably knew Pep Guardiola's Manchester City won four League Cups on the bounce between 2018 and 2021 – but another side did the silverware hat-trick first.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c6g7kldr9378o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c6y4z21xelk4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Man City guilty of 'sham' contracts and £830m 'disguised funding scheme'
+### 5. 'Rock, paper, scissors' decides order of London Marathon races
 
-[原文] The Premier League confirms that Manchester City have been found guilty of all charges related to breaches of Premier League financial rules between 2009-10 and 2017-18.
+[原文] A game of rock, paper, scissors is used to determine when the elite female and male races will take place at next year's two-day London Marathon.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c63reg93xwzro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/athletics/articles/cm36lgdk9g33o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
 ## 🎬 娱乐
 
-> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 331a0731-7591-46f0-afaf-629cbfa14）
+> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 5adba6c5-8728-4408-b419-9b42c230d）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Aaron Sorkin Says ‘Social Reckoning’ Reshoots Had Nothing to Do With Trailer Backlash, Explains Why Trump Isn’t Named: It’s ‘Not a Red-Blue Thing’
+### 1. World Soundtrack Awards’ Discovery Nominees Include Mari Fukuhara, Paris Hurley, Hannah Peel, Kangding Ray, Sam Slater
 
-[原文] Ahead of the release of “The Social Reckoning” on Oct. 9, director Aaron Sorkin is telling all on the film’s much-discussed reshoots, limited test screenings and why Trump is never named explicitly, d
+[原文] The World Soundtrack Awards&#8217; Discovery of the Year prize has a knack for spotting emerging talent. Gustavo Santaolalla (“21 Grams”), Michael Giacchino (“The Incredibles”) and Nicholas Britell (“
 
-📎 [阅读原文](https://variety.com/2026/film/news/aaron-sorkin-social-reckoning-reshoots-trailer-backlash-trump-1236879892/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/world-soundtrack-awards-discovery-of-the-year-nominees-2-1236885975/) — *Variety*
 
-### 2. Fiona Lowe, Daughter of Chad Lowe and Kim Painter, Dies at 13
+### 2. Composers, Filmmakers Sync Up at World Soundtrack Awards’ Film Music Days
 
-[原文] Fiona Hepler Lowe, the daughter of actor Chad Lowe and Kim Painter, has died. She was 13. Fiona’s death was confirmed to People on Tuesday by the Lowe family, who wrote “We are deeply heartbroken by t
+[原文] Now nearing its 26th edition, the World Soundtrack Awards in Ghent have made the Belgian city film scoring&#8217;s home base. That story began in the 1980s, when Film Fest Ghent adopted screen music a
 
-📎 [阅读原文](https://variety.com/2026/digital/people-news/fiona-hepler-lowe-chad-lowe-daughter-dies-1236885914/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/world-soundtrack-awards-coward-lukas-dhont-ghent-1236878117/) — *Variety*
 
-### 3. ‘Final Payment,’ ‘Zoom In, Zoom Out’ Win Big at Pingyao; ‘Congo Boy’ Takes Rossellini Prize
+### 3. ‘NAZA’ Beats ‘Avengers: Endgame Encore’ to Top Italian Box Office
 
-[原文] Niu Niu&#8217;s &#8220;Final Payment&#8221; and Dong Jie&#8217;s &#8220;Zoom In, Zoom Out&#8221; each won two prizes at the 10th Pingyao Crouching Tiger Hidden Dragon International Film Festival in Ch
+[原文] &#8220;NAZA,&#8221; the hot-button documentary about the war in Gaza which recently won a special jury prize at the Venice Film Festival, beat &#8220;Avengers: Endgame Encore&#8221; to debut at No. 1 
 
-📎 [阅读原文](https://variety.com/2026/film/festivals/final-payment-zoom-in-zoom-out-pingyao-winners-2026-1236883571/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/naza-italian-box-office-avengers-endgame-encore-1236893330/) — *Variety*
 
-### 4. Christy Carlson Romano Says She and ‘Even Stevens’ Co-Star Shia LaBeouf Were ‘Like Oil and Water’ While Filming the Disney Channel Show
+### 4. Danny Boyle Says ‘28 Years Later Part 3’ Will ‘Have a Lot of Cillian Murphy in It’ and Backs Jack O’Connell as the Next James Bond
 
-[原文] Christy Carlson Romano, who first broke out on the Disney Channel sitcom “Even Stevens,” is opening up about her experience working alongside co-star Shia LaBeouf. Speaking with Amanda Hirsch of the N
+[原文] Danny Boyle is adamant: “28 Years Later” part 3 will happen. “‘28 Years 3,’ or whatever it ends up being called, will get made because people keep asking about it. Quite when I’m not sure, but there’s
 
-📎 [阅读原文](https://variety.com/2026/tv/news/christy-carlson-romano-shia-labeouf-even-stevens-1236878716/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/danny-boyle-28-years-later-part-3-1236893297/) — *Variety*
 
-### 5. Tom Cruise Pulls Out ‘Risky Business’ Dance Moves for ‘Jennifer Hudson Show’ Spirit Tunnel
+### 5. Ajay Devgn Says ‘Drishyam 3: The Conclusion’ Surpasses Predecessors, Ends Franchise for Good (EXCLUSIVE)
 
-[原文] Tom Cruise pulled out his “Risky Business” dance moves (and those black Ray-Ban sunglasses) for his much-anticipated walk down “The Jennifer Hudson Show&#8217;s” Spirit Tunnel. The talk show appearanc
+[原文] Top Bollywood star Ajay Devgn tells Variety he is confident &#8220;Drishyam 3: The Conclusion&#8221; clears the bar set by its predecessors, calling the psychological thriller&#8217;s twists unpredict
 
-📎 [阅读原文](https://variety.com/2026/film/news/tom-cruise-jennifer-hudson-show-spirit-tunnel-risky-business-1236881300/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/ajay-devgn-drishyam-3-conclusion-franchise-ends-ai-1236893332/) — *Variety*
 
 ---
 
 ## 🏥 健康
 
-> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: c19d9969-c982-4621-bfe4-b84dc40bc）
+> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 23488400-9800-4ffa-9ea6-924958dd1）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -278,45 +278,45 @@
 
 ## 🎮 游戏
 
-> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: a9c6876b-fba7-4ce6-8a9b-e40763a6d）
+> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 811feddd-313c-4d8d-bfec-4d12c9562）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. 'The Train Isn't Stopping' — Diablo 4 Director Promises the Game Will Still Receive Support Well After Diablo 5 Launches
+### 1. Ghost Rider Star Nicolas Cage Calls the MCU a 'Well-Funded and Glorified WWE'
+
+[原文] Nicolas Cage has issued his verdict on the Marvel Cinematic Universe, calling it a "well-funded and glorified WWE," despite its use of top-tier acting talent.
+
+📎 [阅读原文](https://www.ign.com/articles/ghost-rider-star-nicolas-cage-calls-the-mcu-a-well-funded-and-glorified-wwe) — *IGN*
+
+### 2. Huge Deadlock Update Propels Valve's MOBA Hero Shooter to the Top of the Steam Charts, Smashes Peak Concurrent Player Record
+
+[原文] Valve has issued a huge update to its in-development MOBA hero shooter Deadlock, propelling it to the top of Steam’s most-played games chart.
+
+📎 [阅读原文](https://www.ign.com/articles/huge-deadlock-update-propels-valves-moba-hero-shooter-to-the-top-of-the-steam-charts-smashes-peak-concurrent-player-record) — *IGN*
+
+### 3. Slow Horses Season 6, Episode 3 Review — ‘Resurrection’
+
+[原文] It's a triple resurrection as the Slow Horses pod up to try and avoid being killed by the mysterious murder twins.
+
+📎 [阅读原文](https://www.ign.com/articles/slow-horses-season-6-episode-3-review-resurrection) — *IGN*
+
+### 4. Digger Ad Trolls Bad Reviews for New Tom Cruise Film: ‘F*** Those People!’
+
+[原文] Warner Bros. has posted a social media ad highlighting the deeply divided critical response to Tom Cruise and director Alejandro G. Iñárritu’s new film Digger just hours after the review embargo was l
+
+📎 [阅读原文](https://www.ign.com/articles/digger-ad-trolls-bad-reviews-for-new-tom-cruise-film-f-those-people) — *IGN*
+
+### 5. 'The Train Isn't Stopping' — Diablo 4 Director Promises the Game Will Still Receive Support Well After Diablo 5 Launches
 
 [原文] Diablo 4 director Brent Gibson is telling fans not to worry about the game after Diablo 5’s announcement sparked concerns about the former title’s lifespan.
 
 📎 [阅读原文](https://www.ign.com/articles/the-train-isnt-stopping-diablo-4-director-promises-the-game-will-still-receive-support-well-after-diablo-5-launches) — *IGN*
 
-### 2. Original God of War Creator Defends Laufey's Creative Director From Harassment After His Critical Remarks Go Viral
-
-[原文] David Jaffe, the creator, co-writer, and director for the original God of War game, has cleared up his viral comments about Ariel Lawrence, creative director for Laufey.
-
-📎 [阅读原文](https://www.ign.com/articles/original-god-of-war-creator-defends-laufeys-creative-director-from-harassment-after-his-critical-remarks-go-viral) — *IGN*
-
-### 3. GTA 6's Game of the Year Chances Have Been Called Into Question
-
-[原文] GTA 6 may not even be eligible for Game of the Year at The Game Awards this year.
-
-📎 [阅读原文](https://www.ign.com/articles/gta-6s-game-of-the-year-chances-have-been-called-into-question) — *IGN*
-
-### 4. Everything Coming to Amazon Prime Video in October
-
-暂无摘要。
-
-📎 [阅读原文](https://www.ign.com/articles/whats-new-on-prime-video-october-2026) — *IGN*
-
-### 5. 007 First Light Is Getting Free DLC Later This Week
-
-[原文] 007 First Light is getting new, free DLC later this week.
-
-📎 [阅读原文](https://www.ign.com/articles/007-first-light-is-getting-free-dlc-later-this-week) — *IGN*
-
 ---
 
 ## 🚗 汽车
 
-> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: becbeedd-55a9-4669-96e8-18a9d3ee1）
+> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 501b3720-2cd2-488b-ab70-e78502761）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -358,59 +358,59 @@ The post Fernando Alonso Is Sticking Around in F1 for Another Year, but Sh
 
 ## 🌱 环境
 
-> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 46f7dad1-769a-4fac-817d-3a4e7c339）
+> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: e007840d-1dd9-4232-b6a1-609c3ed93）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Environmentalists Sue Federal Agencies Over Nation’s First Fast-Tracked Critical Minerals Mine
+### 1. Mass Heat Wave Deaths in Europe Show Climate Extremes Are Outpacing Adaptation Efforts
+
+[原文] A series of deadly heat waves from May to August overwhelmed Germany’s healthcare and emergency response systems and led to an estimated 16,000 heat-related deaths during the summer, the most heat mor
+
+📎 [阅读原文](https://insideclimatenews.org/news/30092026/europe-heat-wave-deaths/) — *Inside Climate News*
+
+### 2. Study of Groundwater Near Fracking Sites Finds Low Radium Levels, but Raises Concerns About Increased Salinity
+
+[原文] Testing in a limited number of shallow aquifers near fracking sites in southwestern Pennsylvania found low levels of radium overall, but there aren’t yet enough samples to draw firm conclusions about 
+
+📎 [阅读原文](https://insideclimatenews.org/news/30092026/pennsylvania-fracking-groundwater-pollution/) — *Inside Climate News*
+
+### 3. Environmentalists Sue Federal Agencies Over Nation’s First Fast-Tracked Critical Minerals Mine
 
 [原文] In the foothills of southern Arizona’s Patagonia Mountains, atop so-called critical minerals such as zinc, is South32’s Hermosa project. The first mine added to a federal program designed to speed up 
 
 📎 [阅读原文](https://insideclimatenews.org/news/29092026/federal-fast-tracked-south32-mine-lawsuit/) — *Inside Climate News*
 
-### 2. Long After Wildfire Smoke Is Gone, Heavy Metals Could Still Be Harming Survivors’ Lungs
+### 4. Long After Wildfire Smoke Is Gone, Heavy Metals Could Still Be Harming Survivors’ Lungs
 
 [原文] After three years helping Maui wildfire survivors track their health progress, Dr. Martina L. Kamaka is used to seeing high levels of heavy metals in their bodies. A family medicine doctor, Kamaka is 
 
 📎 [阅读原文](https://insideclimatenews.org/news/29092026/maui-wildfire-longterm-health-impacts-study/) — *Inside Climate News*
 
-### 3. Incoming El Niño Is so Extreme It Doesn’t Have a Scientific Name
+### 5. Incoming El Niño Is so Extreme It Doesn’t Have a Scientific Name
 
 [原文] Daniel Swain has made a name for himself studying the extremes of a warming planet. Fires, floods, droughts, heat, storms: if it’s a record breaker, Swain has probably studied it.&#160; As a climate s
 
 📎 [阅读原文](https://insideclimatenews.org/news/29092026/record-breaking-el-nino-grows-in-pacific/) — *Inside Climate News*
 
-### 4. Drones Are Already on the Front Lines of Wildfire Response. Robots and AI Could Be Next.
-
-[原文] During the Sand Creek Fire, which has burned since the start of August in southwestern Montana, difficult terrain and fire-weakened trees posed hazards to crews searching for areas still smoldering on
-
-📎 [阅读原文](https://insideclimatenews.org/news/29092026/drones-wildfire-response-ai-future/) — *Inside Climate News*
-
-### 5. Alito’s Recusal From Climate Case: Too Little, Too Late?
-
-[原文] Justice Samuel Alito decided Monday to sit out one of the most consequential climate change cases to reach the Supreme Court, but legal experts expected continuing ramifications due to his ownership o
-
-📎 [阅读原文](https://insideclimatenews.org/news/28092026/alitos-recusal-from-climate-case-too-little-too-late/) — *Inside Climate News*
-
 ---
 
 ## 📚 教育
 
-> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: ed4b600f-5017-4646-b41b-0115465b0）
+> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 5ce03db0-9d2d-4767-9079-5b80c1b3d）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Study: EdTech Is Rushing AI Integration Before Proving It Works
+### 1. Traditional PD Wasn’t Enough. So I Used TikTok to Create an Engaging Alternative.
+
+[原文] Tired of compliance-driven workshops, one teacher took to TikTok to turn literacy research into actionable classroom strategies.
+
+📎 [阅读原文](https://edsurge.com/news/traditional-pd-wasnt-enough-so-i-used-tiktok-to-create-an-engaging-alternative) — *EdSurge*
+
+### 2. Study: EdTech Is Rushing AI Integration Before Proving It Works
 
 [原文] As AI features flood K-12 curricula, educators are left to filter proven quality from marketing hype.
 
 📎 [阅读原文](https://edsurge.com/news/study-edtech-is-rushing-ai-integration-before-proving-it-works) — *EdSurge*
-
-### 2. The Cost of Unchecked Assumptions: Fewer Male Teachers, More Baby Slop
-
-[原文] In this episode of This Week with EdSurge, two reporters explain why it is so important to trust but verify teacher motivations and educational videos.
-
-📎 [阅读原文](https://edsurge.com/news/the-cost-of-unchecked-assumptions-fewer-male-teachers-more-baby-slop) — *EdSurge*
 
 ### 3. Why AI Made Me a Better Principal
 
@@ -418,93 +418,93 @@ The post Fernando Alonso Is Sticking Around in F1 for Another Year, but Sh
 
 📎 [阅读原文](https://edsurge.com/news/why-ai-made-me-a-better-principal) — *EdSurge*
 
-### 4. Learning Commons Launches Open Platform for K-12 Edtech
+### 4. The Cost of Unchecked Assumptions: Fewer Male Teachers, More Baby Slop
+
+[原文] In this episode of This Week with EdSurge, two reporters explain why it is so important to trust but verify teacher motivations and educational videos.
+
+📎 [阅读原文](https://edsurge.com/news/the-cost-of-unchecked-assumptions-fewer-male-teachers-more-baby-slop) — *EdSurge*
+
+### 5. Learning Commons Launches Open Platform for K-12 Edtech
 
 [原文] The CZI-backed initiative helps educators and developers use state standards, curricula, and datasets to create and evaluate classroom AI, but critics ...
 
 📎 [阅读原文](https://edsurge.com/news/learning-commons-launches-open-ai-platform-for-k-12-edtech) — *EdSurge*
 
-### 5. Navigating the Future of Work: A Conversation with JFF’s Maria Flynn
-
-[原文] From baseline AI literacy to early career exposure, Jobs for the Future president Maria Flynn shares how education systems can prepare young people for ...
-
-📎 [阅读原文](https://edsurge.com/news/navigating-the-future-of-work-a-conversation-with-jffs-maria-flynn) — *EdSurge*
-
 ---
 
 ## 🎵 音乐
 
-> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: d318466c-e36a-417e-864b-221aed427）
+> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 96ec4570-af75-4998-92d7-48184875d）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Chris Brown Will Get New Dog Attack Trial, But Only If Housekeeper Rejects Reduced $9.5 Million Award
+### 1. Watch Zara Larsson, Sexyy Red Perform ‘Lookin’ for the Hoes’ Live in Los Angeles
+
+[原文] Larsson's global Midnight Sun tour continues through early November
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/zara-larsson-sexyy-red-lookin-for-the-hoes-live-los-angeles-1235634392/) — *Rolling Stone*
+
+### 2. Watch Tom Morello Perform ‘Soldier in the Army of Love’ on ‘Kimmel’
+
+[原文] The rousing track comes off the musician's new album, Everyone Gets Everything They Want
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/tom-morello-soldier-in-the-army-of-love-performance-kimmel-1235634389/) — *Rolling Stone*
+
+### 3. Chris Brown Will Get New Dog Attack Trial, But Only If Housekeeper Rejects Reduced $9.5 Million Award
 
 [原文] A judge called the original $12.9 million in damages award "excessive"
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/chris-brown-dog-attack-housekeeper-award-new-trial-1235634359/) — *Rolling Stone*
 
-### 2. Feds Want Nearly 4 Years in Prison for AI Music Fraudster Who ‘Stole Millions’
+### 4. Feds Want Nearly 4 Years in Prison for AI Music Fraudster Who ‘Stole Millions’
 
 [原文] Prosecutors are urging the judge to sentence Michael Smith to 46 months in federal prison to "send a clear message"
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/feds-ai-music-fraudster-mike-smith-streaming-sentencing-1235634341/) — *Rolling Stone*
 
-### 3. Former ‘American Idol’ Contestant Found Guilty of Murdering Wife
+### 5. Former ‘American Idol’ Contestant Found Guilty of Murdering Wife
 
 [原文] Caleb Flynn was charged with shooting his wife inside their Ohio home after telling his mistress he wanted her dead
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/caleb-flynn-american-idol-contestant-murder-trial-verdict-1235633563/) — *Rolling Stone*
 
-### 4. Songs in Ursa Minor: Yes’ Rick Wakeman Performed a Private Show for 150 Rescue Bears
-
-[原文] The prog-rock legend appeared at a Vietnamese animal sanctuary to raise awareness of bears kept forced to have their bile extracted for traditional Chinese medicines
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/yes-rick-wakeman-show-rescue-bears-animal-sanctuary-1235633995/) — *Rolling Stone*
-
-### 5. Megan Thee Stallion Teases ‘Act III’ With ‘Tina Tuesday Freestyle’ Amuse Bouche
-
-[原文] “A squirrel about mine, I’m gon’ get my nut,” she raps as Tina Snow alter ego
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/megan-thee-stallion-tina-snow-act-iii-tina-tuesday-1235633871/) — *Rolling Stone*
-
 ---
 
 ## ✈️ 旅游
 
-> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 13024731-1cb1-4e50-9826-a52816834）
+> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 541b3456-0cc1-4e8d-a852-4b1be6c6e）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Vrbo to Double Commissions as It Plays Catch-Up to Airbnb
+### 1. Airbnb Launches AI Tools, Catching Up to OTA Rivals
+
+[原文] Airbnb is not a first-mover in AI launches. That's OK: Kayak wasn't a first-mover in metasearch. The issue isn't necessarily timing, but whether Airbnb can offer AI products that are better than its r
+
+📎 [阅读原文](https://skift.com/2026/09/30/airbnb-launches-ai-tools-catching-up-to-ota-rivals/) — *Skift*
+
+### 2. Rotana CEO: Last-Minute Gulf Bookings Make Q4 Hard To Predict
+
+[原文] The expected return of international travelers and a busy events calendar give hope for a Q4 recovery.
+
+📎 [阅读原文](https://skift.com/2026/09/30/rotana-ceo-last-minute-gulf-bookings-make-q4-hard-to-predict/) — *Skift*
+
+### 3. Vrbo to Double Commissions as It Plays Catch-Up to Airbnb
 
 [原文] Airbnb and Booking.com charge no guest fees. But Vrbo has stated that it will keep guest fees, although the amounts will be flexible. That lack of specificity will stoke host anger because this gives 
 
 📎 [阅读原文](https://skift.com/2026/09/29/vrbo-to-double-commissions-as-it-plays-catch-up-to-airbnb/) — *Skift*
 
-### 2. Hilton Tech Exec Says AI Agents Put OTAs ‘Under Real Threat’
+### 4. Hilton Tech Exec Says AI Agents Put OTAs ‘Under Real Threat’
 
 [原文] Hilton CIO Michael Leidinger believes the OTAs' decline will benefit hotels, even while conceding that AI agents will likely charge commissions, too. The difference is that Hilton will get more bookin
 
 📎 [阅读原文](https://skift.com/2026/09/29/hilton-tech-exec-says-ai-agents-put-otas-under-real-threat/) — *Skift*
 
-### 3. Skift Data + AI Summit Europe: Five Decisions in the Room
+### 5. Skift Data + AI Summit Europe: Five Decisions in the Room
 
 [原文] AI is changing European travel. The question is who can actually run it at scale when compliance, language, and data sovereignty are built into the operating model.
 
 📎 [阅读原文](https://skift.com/2026/09/29/skift-data-ai-summit-europe-five-decisions-in-the-room/) — *Skift*
-
-### 4. How Carnival’s New Loyalty Program and Cuts in Fuel Use Are Paying Off
-
-[原文] Carnival is adjusting its rewards, ships, and onboard offerings to keep customers coming back.
-
-📎 [阅读原文](https://skift.com/2026/09/29/carnival-cruise-fourth-quarter-loyalty-fuel-costs/) — *Skift*
-
-### 5. Skift Webinar: When AI Becomes the Travel Agent — How Hotels Get Chosen
-
-[原文] Join Skift and industry leaders for a webinar exploring how AI is changing hotel discovery and booking. Learn how travelers are using and trusting AI, why accurate property information matters more th
-
-📎 [阅读原文](https://skift.com/2026/09/29/skift-webinar-when-ai-becomes-the-travel-agent-how-hotels-get-chosen/) — *Skift*
 
 ---
 
