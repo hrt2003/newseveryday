@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年10月01日** | 生成时间: 2026-10-01 06:01
+**2026年10月01日** | 生成时间: 2026-10-01 13:00
 
 ---
 
@@ -12,121 +12,121 @@
 
 ## 🌍 国际政治
 
-> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 89cb0396-12c0-4804-b478-51c0d307f）
+> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: b23c04b8-f913-401f-96a8-15dfcd338）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. What we know about stabbing on Flydubai flight to Israel
+### 1. US death row inmate Christa Pike taken to hospital after surviving two lethal injections, says lawyer
+
+[原文] Her lawyer says Pike is being "provided life-saving measures" after two syringes of pentobarbital.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says
+
+[原文] A pilot who stabbed another pilot on an Israel-bound plane is under investigation in Saudi Arabia, Benjamin Netanyahu says.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. What we know about stabbing on Flydubai flight to Israel
 
 [原文] A pilot has been arrested and is being questioned after another pilot was stabbed, officials say.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Six smugglers jailed for manslaughter over worst Channel small boats disaster
+### 4. Putin shows no sign of stopping the war as Russia doubles down on Ukraine
 
-[原文] Thirty-one migrants died when their boat went down in November 2021. The trial found that the guilty men were part of two smuggling networks.
+[原文] A foreign policy speech by the Russian president will be keenly watched, but all signs point to the full-scale invasion continuing.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c6n8m33pn9djo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. UK-France 'one in, one out' migrant scheme scrapped
+### 5. Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies
 
-[原文] Some 1,500 people have been removed to France since the scheme began just over a year ago.
+[原文] Scientists say such rapid melting is no longer surprising given the pace of climate change.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Execution of US murderer Christa Pike halted shortly before it was due to happen
-
-[原文] Pike was convicted and sentenced to death in 1996 for the murder of Colleen Slemmer.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Russia launches largest attack on Ukraine energy infrastructure since spring
-
-[原文] In total 11 regions of the country were attacked overnight, with residential buildings and railways also targeted, the Ukrainian PM says.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
 ## 💰 经济财经
 
-> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: bffd2981-1ae8-4442-8b64-c3d4593e3）
+> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: e9961d75-b5be-48da-be88-70d16aefe）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Micron beats on earnings and issues strong guidance as data center revenue jumps 11-fold
+### 1. Trump 'thinking about' diesel export ban, but says it could have 'negative impact' on gasoline
 
-[原文] Micron is up over 500% in the past year as the company benefits from soaring AI demand.
+[原文] Trump recently said he was "very seriously" considering a diesel export ban, despite warnings from the U.S. oil industry that doing so would raise prices.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/30/micron-mu-q4-earnings-report-2026.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/09/30/trump-diesel-export-ban-gas.html) — *CNBC*
 
-### 2. Sen. Hawley: OpenAI CEO Sam Altman declined to testify at rogue AI hearing
+### 2. Passengers and crew foil co-pilot's apparent attempt to crash FlyDubai flight to Israel
 
-[原文] A Senate subcommittee on Wednesday is examining rogue AI, after a series of AI cyberattacks and increasing warnings about the risks of the technology.
+[原文] One of the pilots on a FlyDubai flight headed for Israel stabbed the second pilot, according to Israeli Prime Minister Benjamin Netanyahu.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/30/hawley-openai-sam-altman-rogue-ai.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/01/dubai-israel-flight-pilot-crash-indian.html) — *CNBC*
 
-### 3. Crude oil exports through the Strait of Hormuz hit prewar levels, but fuel shipments remain constrained
+### 3. UK Prime Minister Burnham says Iran 'played a part' in British air base incident
 
-[原文] It is unclear how long the recovery can be sustained given that it relies on the U.S. military protecting tankers in the Persian Gulf.
+[原文] RAF Fairford has been used as the U.S. Air Force's command outpost for operations from Europe and for American strikes on Iranian missile sites.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/30/iran-war-strait-hormuz-gulf-oil-fuel.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/01/us-iran-war-trump-hormuz.html) — *CNBC*
 
-### 4. Inside Man: How Chinese spies used lies, love and betrayal to target the Federal Reserve
+### 4. South Korean President Lee pushes back on Alaska LNG project after Trump touts Seoul's participation
 
-[原文] A CNBC investigation shows how former Fed advisor John Rogers became entangled with a man U.S. officials identify as a Chinese intelligence operative.
+[原文] The U.S. announced plans for up to $200 billion in South Korean investment, though Seoul has yet to finalize the participation in the Alaska LNG project.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/30/john-rogers-fed-china-espionage-case.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/01/trump-south-korea-investment-alaska-lng-nuclear-power.html) — *CNBC*
 
-### 5. Grindr expands beyond dating with $250 million telehealth acquisition of PurposeMed
+### 5. AI race heats up as OpenAI flags alleged model-copying campaign
 
-[原文] Grindr is buying PrEP provider Freddie for $250 million, expanding into healthcare and seeking to make HIV prevention more accessible to its users.
+[原文] OpenAI says it identified an attempt to extract protected reasoning from its AI models, linking part of the activity with China’s Moonshot AI.
 
-📎 [阅读原文](https://www.cnbc.com/2026/09/30/grindr-purposemed-freddie-telehealth-acquisition.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/01/openai-chinas-moonshot-ai-kimi.html) — *CNBC*
 
 ---
 
 ## 💻 科技
 
-> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 4f616b19-0632-4c84-9afb-32138225e）
+> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: f053b7d8-5a3b-45c3-a731-78eb13c67）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation
+### 1. Google releases Gemini 4 Argon, called its most powerful model yet
+
+[原文] Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/) — *TechCrunch*
+
+### 2. The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next
+
+[原文] Defense Secretary Pete Hegseth just launched a 120-day study on the future of warfare, led by Elon Musk, Palmer Luckey, and Newt Gingrich, and while it makes sense given their ties to the administrati
+
+📎 [阅读原文](https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/) — *TechCrunch*
+
+### 3. Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation
 
 [原文] Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/) — *TechCrunch*
 
-### 2. Factory CEO just accused his VC board advisor of spying for Cognition
+### 4. Factory CEO just accused his VC board adviser of spying for Cognition
 
-[原文] VC Chris Degnan and former board advisor to Factory AI has taken a job as chief revenue officer for Cognition.
+[原文] VC Chris Degnan and former board adviser to Factory AI has taken a job as chief revenue officer for competitor Cognition -- and everyone is arguing on X about it.
 
 📎 [阅读原文](https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/) — *TechCrunch*
 
-### 3. Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America
+### 5. Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America
 
 [原文] Spotify founder Daniel Ek’s Neko Health raised $700 million to build a business around scanning your body, but it’s not the only company centering its roadmap around a new kind of preventative healthc
 
 📎 [阅读原文](https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/) — *TechCrunch*
 
-### 4. Hackers stole millions of US military personnel records during months-long data breach
-
-[原文] The Department of Defense notified millions of current and former U.S. military personnel that their personal information had been stolen in a months-long breach.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/) — *TechCrunch*
-
-### 5. DoorDash’s drone strategy started on the ground
-
-[原文] DoorDash unveiled the six-propeller aircraft that will be used in its new drone delivery business at its annual Dash Forward 2026 event.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/30/doordashs-drone-strategy-started-on-the-ground/) — *TechCrunch*
-
 ---
 
 ## 🔬 科学
 
-> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 394da5db-7a27-4ae2-b162-1c13b76ff）
+> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 96675efa-5987-473f-b630-d4a84a159）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -164,7 +164,7 @@
 
 ## ⚽ 体育
 
-> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 5674c7fb-df0c-4a20-a321-1a87c0c5e）
+> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 02a3f932-3bf6-4319-aa01-31bcb4dfa）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -202,45 +202,45 @@
 
 ## 🎬 娱乐
 
-> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: cbba1936-e83b-406b-93de-bf60245af）
+> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 213f1a37-818d-43de-9234-ccba0261f）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Nicolas Cage Says the Marvel Cinematic Universe ‘Is Becoming a Well-Funded and Glorified WWE’ With 50-Plus Year Olds in ‘Ridiculous Outfits’
+### 1. Disney+ and Vidio Launch Indonesian Bundle Pairing Global Franchises With Local Originals, Live Sports
 
-[原文] Nicolas Cage&#8217;s critique of the Marvel Cinematic Universe during a recent conversation at Fan Expo Dallas (via The Playlist) is quickly gaining traction on social media, with many people either a
+[原文] Disney+ has struck its first partnership with Indonesian streamer Vidio. The two are launching a joint subscription that packages Disney+ Standard with Vidio Ultimate All Screen and puts Marvel, &#822
 
-📎 [阅读原文](https://variety.com/2026/film/news/nicolas-cage-marvel-cinematic-universe-wwe-1236893541/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/disney-vidio-indonesia-bundle-local-originals-sports-1236894431/) — *Variety*
 
-### 2. Box Office: ‘Verity’ Aims for $35 Million Debut and Anne Hathaway’s Third No. 1 Movie of the Year, ‘Digger’ Could Bomb With $12 Million
+### 2. Palme d’Or Winner ‘Fjord’ to Open Jakarta World Cinema as Festival Spreads Across Indonesia (EXCLUSIVE)
 
-[原文] Anne Hathaway is returning to a familiar spot — the top of box office charts — as “Verity” hits the big screen over the weekend. The adaptation of Colleen Hoover&#8217;s bestseller is targeting a soli
+[原文] Cristian Mungiu&#8217;s &#8220;Fjord,&#8221; which won the Palme d&#8217;Or at Cannes this year, will open Jakarta World Cinema, the Indonesian festival said Thursday as it revealed a 2026 program tha
 
-📎 [阅读原文](https://variety.com/2026/film/box-office/verity-box-office-opening-weekend-projection-1236893670/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/palme-dor-winner-fjord-open-jakarta-world-cinema-2026-1236894443/) — *Variety*
 
-### 3. Colleen Hoover’s ‘Verity’ Returns to Top of Book Charts Following Film Adaptation Release
+### 3. Quavo Says Death of Migos Groupmate Takeoff ‘Eased’ His ‘Friction’ with Offset: ‘It Can’t Get No Tougher Than That’
 
-[原文] Author Colleen Hoover&#8217;s 2018 romantic thriller, &#8220;Verity,&#8221; is back on the bestsellers chart as a motion picture adaptation of the novel hits theaters nationwide. The hardcover version
+[原文] Quavo recently opened up about how the death of his nephew and Migos groupmate Takeoff impacted his then-fractured relationship with fellow group member Offset. “I feel like it eased it a little bit,”
 
-📎 [阅读原文](https://variety.com/2026/shopping/news/read-verity-movie-original-colleen-hoover-book-online-buy-1236878720/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/quavo-migos-death-of-takeoff-eased-friction-offset-1236894454/) — *Variety*
 
-### 4. Florence Pugh Says ‘Instagram Censored Me’ Over Cornell 7 Posts Addressing Sexual Assault Case: ‘Another Shock That Women Are Censored’
+### 4. ‘Doraemon the Movie’ Guardians on Taking Nobita’s Undersea Adventure to Indian Cinemas: ‘It Transcends Generations’ (EXCLUSIVE)
 
-[原文] Florence Pugh&#8217;s press tour for Netflix&#8217;s &#8220;East of Eden&#8221; brought her to &#8220;The View,&#8221; where co-host Sara Haines brought up the Oscar nominee&#8217;s recent social medi
+[原文] &#8220;Doraemon&#8221; has been on Indian television for 21 years, long enough, by TV Asahi&#8217;s reckoning, for the franchise to start passing from one generation of viewers to the next. Now the Ja
 
-📎 [阅读原文](https://variety.com/2026/tv/news/florence-pugh-cornell-7-instagram-posts-censored-sexual-assault-1236893808/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/doraemon-movie-undersea-devil-india-1236894447/) — *Variety*
 
-### 5. ’24 Jump Street,’ Hugh Jackman’s ‘Treasure Island’ Remake Get Holiday 2027 Release Dates
+### 5. Starz, Verizon Fios Negotiations Stall, As Network May Be Blacked Out Tonight and Both Sides Blame Each Other
 
-[原文] Sony has slated the highly anticipated comedy sequel &#8220;24 Jump Street&#8221; and Ridley Scott&#8217;s &#8220;Treasure Island&#8221; remake starring Hugh Jackman for release around the 2027 holida
+[原文] Starz could go dark tonight for Verizon Fios subscribers, the network announced Wednesday. The two sides are engaged in an intense licensing negotiation, and with their current deal expiring at midnig
 
-📎 [阅读原文](https://variety.com/2026/film/news/24-jump-street-hugh-jackman-treasure-island-release-dates-1236893958/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/starz-verizon-fios-negotiations-blacked-out-tonight-1236894418/) — *Variety*
 
 ---
 
 ## 🏥 健康
 
-> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: afdad9f1-8134-4705-a8ef-d1b5df8d2）
+> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 2334c9c0-27d5-4599-aa49-77c3ae755）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -278,45 +278,45 @@
 
 ## 🎮 游戏
 
-> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 53d1d8fb-b169-4abc-b3ee-16e838829）
+> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: c16ed663-6c50-4fa6-8bf4-aec1c1fba）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. GTA 5 Modder Taunts Rockstar With Unofficial Nintendo Switch Port, Gets Cease and Desist from Take-Two
+### 1. "Extraction is Still a Major Part of Marathon" – Marathon Game Director Reassures Fans Main Game Mode Isn't Going Anywhere
 
-[原文] A modder who was porting GTA 5 to Nintendo Switch taunted Rockstar Games and was immediately hit with a cease and desist.
+[原文] Just last week, Marathon's developers laid out a new roadmap for the game that'd bring PvE and deathmatch modes to the game, but now Game Director Del Chafe has reassured fans that the extraction mode
 
-📎 [阅读原文](https://www.ign.com/articles/gta-5-modder-taunts-rockstar-with-unofficial-nintendo-switch-port-gets-cease-and-desist-from-take-two) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/extraction-is-still-a-major-part-of-marathon-marathon-game-director-reassures-fans-main-game-mode-isnt-going-anywhere) — *IGN*
 
-### 2. New Uncharted Game Featuring Nathan Drake Reportedly in the Works at Naughty Dog
+### 2. The Flexispot Lotus Swivel Rocker and Recliner Is on Clearance for $250 Plus Free Shipping
 
-[原文] A new report claims that a brand new Uncharted game featuring Nathan Drake is one of several projects in the works at Naughty Dog.
+[原文] Game in lounging comfort.
 
-📎 [阅读原文](https://www.ign.com/articles/new-uncharted-game-featuring-nathan-drake-reportedly-in-the-works-at-naughty-dog) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/flexispot-xc6-swivel-rocker-recliner-chair-deal) — *IGN*
 
-### 3. Beware Boiúna Review
+### 3. The Witcher 3: Wild Hunt Remastered Review Update
 
-[原文] Beware Boiúna review: You do intend to have a giant snake in your giant snake movie eventually, right?
+[原文] The best this already amazing RPG has ever been.
 
-📎 [阅读原文](https://www.ign.com/articles/beware-boiuna-review) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/the-witcher-3-wild-hunt-remastered-review) — *IGN*
 
-### 4. Best Buy Has the ASRock Radeon RX 9070 XT 16GB Graphics Card in Stock for $740
+### 4. The Moza R5 Racing Wheel Offers 5.5Nm of Direct Drive Force Feedback for an Affordable Price
 
-[原文] Nearly as powerful as the GeForce RTX 5070 Ti for hundreds less.
+[原文] Now on sale at Best Buy.
 
-📎 [阅读原文](https://www.ign.com/articles/asrock-radeon-rx-9070-xt-16gb-gpu-deal-september-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/moza-r5-racing-wheel-deal-september-2026) — *IGN*
 
-### 5. Ordering DoorDash Is Too Hard, So an AI Agent Will Soon Be Able to Order Pizza for You
+### 5. A Ton of Legend of Zelda T-Shirts Are Getting Price Cuts for Amazon Prime Members
 
-[原文] Ordering food through DoorDash is probably one of the biggest examples of how modern life has grown incredibly convenient, but apparently, there are still some people who think scrolling through an ap
+暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/ordering-doordash-is-too-hard-so-an-ai-agent-will-soon-be-able-to-order-pizza-for-you) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/a-ton-of-legend-of-zelda-t-shirts-are-getting-price-cuts-for-amazon-prime-members) — *IGN*
 
 ---
 
 ## 🚗 汽车
 
-> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: b342d3ed-91bb-48a7-a4ff-4d52af0b8）
+> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: a393c94a-3034-4368-ad10-8b02960ee）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -359,45 +359,45 @@ The post 2026 Honda Prelude Long-Term Test: Let’s Talk Features appeared first
 
 ## 🌱 环境
 
-> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 0c7de7f9-2072-4aa4-aaff-496ad39d3）
+> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: fa89537c-1d34-4516-87e8-87fee8ca9）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Meta Announces Large Solar Purchase Agreement in Texas, But It’s Powering Some Data Centers With Gas
+### 1. EU Weighs Delaying Methane Rules as Energy Prices Rise
+
+[原文] Amid political pressure and rising energy prices, the European Commission is considering pausing a part of its landmark methane regulation, which is set to take effect in January. The move comes after
+
+📎 [阅读原文](https://insideclimatenews.org/news/30092026/european-commission-plans-to-delay-methane-rules/) — *Inside Climate News*
+
+### 2. Watch: Climate Week Panel on China’s Global Development Push
+
+[原文] As governments and global funds pour billions into oil, gas, renewable energy, digital infrastructure and mining, the future of cross-border investment is becoming a defining issue for environmental p
+
+📎 [阅读原文](https://insideclimatenews.org/news/30092026/planet-china-climate-week-panel/) — *Inside Climate News*
+
+### 3. Meta Announces Large Solar Purchase Agreement in Texas, But It’s Powering Some Data Centers With Gas
 
 [原文] Apex Clean Energy and Meta have entered into a power purchase agreement that allows the technology company to financially benefit from energy generated from a solar project in Gonzales County, Texas.&
 
 📎 [阅读原文](https://insideclimatenews.org/news/30092026/meta-texas-solar-purchase-smaller-than-data-center-gas-plant/) — *Inside Climate News*
 
-### 2. Mass Heat Wave Deaths in Europe Show Climate Extremes Are Outpacing Adaptation Efforts
+### 4. Mass Heat Wave Deaths in Europe Show Climate Extremes Are Outpacing Adaptation Efforts
 
 [原文] A series of deadly heat waves from May to August overwhelmed Germany’s healthcare and emergency response systems and led to an estimated 16,000 heat-related deaths during the summer, the most heat mor
 
 📎 [阅读原文](https://insideclimatenews.org/news/30092026/europe-heat-wave-deaths/) — *Inside Climate News*
 
-### 3. Study of Groundwater Near Fracking Sites Finds Low Radium Levels, but Raises Concerns About Increased Salinity
+### 5. Study of Groundwater Near Fracking Sites Finds Low Radium Levels, but Raises Concerns About Increased Salinity
 
 [原文] Testing in a limited number of shallow aquifers near fracking sites in southwestern Pennsylvania found low levels of radium overall, but there aren’t yet enough samples to draw firm conclusions about 
 
 📎 [阅读原文](https://insideclimatenews.org/news/30092026/pennsylvania-fracking-groundwater-pollution/) — *Inside Climate News*
 
-### 4. Environmentalists Sue Federal Agencies Over Nation’s First Fast-Tracked Critical Minerals Mine
-
-[原文] In the foothills of southern Arizona’s Patagonia Mountains, atop so-called critical minerals such as zinc, is South32’s Hermosa project. The first mine added to a federal program designed to speed up 
-
-📎 [阅读原文](https://insideclimatenews.org/news/29092026/federal-fast-tracked-south32-mine-lawsuit/) — *Inside Climate News*
-
-### 5. Long After Wildfire Smoke Is Gone, Heavy Metals Could Still Be Harming Survivors’ Lungs
-
-[原文] After three years helping Maui wildfire survivors track their health progress, Dr. Martina L. Kamaka is used to seeing high levels of heavy metals in their bodies. A family medicine doctor, Kamaka is 
-
-📎 [阅读原文](https://insideclimatenews.org/news/29092026/maui-wildfire-longterm-health-impacts-study/) — *Inside Climate News*
-
 ---
 
 ## 📚 教育
 
-> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: c958a896-9bdb-4dc4-a235-fd5dc9d95）
+> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 302dbd9a-943d-4e35-b865-a1e53a15c）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -435,77 +435,77 @@ The post 2026 Honda Prelude Long-Term Test: Let’s Talk Features appeared first
 
 ## 🎵 音乐
 
-> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 3fc326cb-ad9d-4088-9feb-976a25a15）
+> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: b3711515-b37a-44fd-9f57-346cf5e1b）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Rihanna Shooting Suspect Indicted by Grand Jury, Pleads Not Guilty to Upgraded Charges
+### 1. Mayor Mamdani and Nas Have a Heart to Heart About Keeping NYC the Home of Hip Hop
+
+[原文] “We can’t be content with New York City simply being the birthplace of hip hop," Mamdani said
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/mayor-mamdani-nas-discuss-new-york-home-of-hip-hop-1235635114/) — *Rolling Stone*
+
+### 2. Macklemore Says ‘Free Palestine’ Tour ‘Sold Out Immediately’: ‘Art Will Always Be a Form of Resistance’
+
+[原文] All three dates in Dublin, Paris, and London have sold out
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/macklemore-free-palestine-tour-sold-out-1235635044/) — *Rolling Stone*
+
+### 3. Rihanna Shooting Suspect Indicted by Grand Jury, Pleads Not Guilty to Upgraded Charges
 
 [原文] Ivanna Ortiz appeared in court and pleaded not guilty to the new indictment after she was declared mentally competent to stand trial
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/rihanna-shooting-suspect-indicted-grand-jury-1235634777/) — *Rolling Stone*
 
-### 2. Miley Wants to Be Saved by a ‘Different Religion’ in Cinematic New Video
+### 4. Miley Wants to Be Saved by a ‘Different Religion’ in Cinematic New Video
 
 [原文] The song, featuring Model/Actriz, is her latest single from the chart-topping Bass Persuades
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/miley-different-religion-video-1235634691/) — *Rolling Stone*
 
-### 3. Hear Flaming Lips Sparse ‘Sound of Failure’ Demo Ahead of ‘Mystics’ Reissue
+### 5. Hear Flaming Lips Sparse ‘Sound of Failure’ Demo Ahead of ‘Mystics’ Reissue
 
 [原文] Band will release box set of At War With the Mystics this fall
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/flaming-lips-at-war-with-the-mystics-box-set-reissue-1235634412/) — *Rolling Stone*
 
-### 4. Oasis Block Auction of 1990s Concert and Rehearsal Recordings
-
-[原文] Recordings, which included more than 100 hours of rehearsals, were valued at $1.59 million to $2.12 million
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/oasis-tape-auction-1235634674/) — *Rolling Stone*
-
-### 5. Billy Joel Doesn’t Want People Worrying About His Brain Disorder: ‘Sounds a Lot Worse’
-
-[原文] The artist stepped away from performing following his normal pressure hydrocephalus diagnosis last year
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/billy-joel-update-on-brain-disorder-health-isnt-that-bad-1235634671/) — *Rolling Stone*
-
 ---
 
 ## ✈️ 旅游
 
-> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 34ff344b-b7b1-4b8d-b4c8-6b145ed24）
+> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 35ca466b-eda5-4ea0-94dc-cf8280424）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Skift Live Tourism Summit 2026: Building Recurring Demand on the World’s Biggest Stages
+### 1. Minor Hotels Wants a ‘Vietnam Network,’ Not Just Beach Resorts
+
+[原文] Minor Hotels built its Vietnam business around overseas travelers heading to the beach. Now rising domestic travel, corporate business and meetings are giving the hotel group a reason to move into Han
+
+📎 [阅读原文](https://skift.com/2026/09/30/minor-hotels-wants-a-vietnam-network-not-just-beach-resorts/) — *Skift*
+
+### 2. Skift Live Tourism Summit 2026: Building Recurring Demand on the World’s Biggest Stages
 
 [原文] Live tourism is much bigger than the events themselves. The industry now has to decide how to organize around it.
 
 📎 [阅读原文](https://skift.com/2026/09/30/skift-live-tourism-summit-2026-building-recurring-demand-on-the-worlds-biggest-stages/) — *Skift*
 
-### 2. United Launches 3 Tiers of Premium Fares on Domestic and Short-Haul International Routes
+### 3. United Launches 3 Tiers of Premium Fares on Domestic and Short-Haul International Routes
 
 [原文] Segmenting premium fares already works on United's long-haul routes. Extending it to domestic flights bets that business travelers will pay more for flexibility even on shorter trips.
 
 📎 [阅读原文](https://skift.com/2026/09/30/united-launches-3-tiers-of-premium-fares-on-domestic-and-short-haul-international-routes/) — *Skift*
 
-### 3. Skift Creator Summit 2026: Building Trust to Influence the Transaction
+### 4. Skift Creator Summit 2026: Building Trust to Influence the Transaction
 
 [原文] Creator marketing has already proved it can generate attention. The next phase is building the system that connects attention to revenue.
 
 📎 [阅读原文](https://skift.com/2026/09/30/skift-creator-summit-2026-building-trust-to-influence-the-transaction/) — *Skift*
 
-### 4. Revolut’s Travel Distribution Play Faces a U.S. Test
+### 5. Revolut’s Travel Distribution Play Faces a U.S. Test
 
 [原文] Revolut’s push into travel distribution was built to keep customers inside its financial ecosystem. Europe gave it a proving ground. Now its U.S. banking push is on track to help it break open a new t
 
 📎 [阅读原文](https://skift.com/2026/09/30/revoluts-travel-distribution-play-faces-a-u-s-test/) — *Skift*
-
-### 5. Radisson Adds Older Hotels and Meeting Spaces to Net Zero Program
-
-[原文] The four new Verified Net Zero Hotels are based in Stockholm and Copenhagen, reinforcing the scheme’s Nordic skew and highlighting a key bottleneck in scaling decarbonization: access to renewable ener
-
-📎 [阅读原文](https://skift.com/2026/09/30/radisson-adds-older-hotels-and-meeting-spaces-to-net-zero-program/) — *Skift*
 
 ---
 
