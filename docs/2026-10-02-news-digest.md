@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年10月02日** | 生成时间: 2026-10-02 06:29
+**2026年10月02日** | 生成时间: 2026-10-02 12:50
 
 ---
 
@@ -12,121 +12,121 @@
 
 ## 🌍 国际政治
 
-> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: a3cc7c57-55f5-4007-a792-246e17450）
+> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 8b5c97c8-3ada-49ce-b82e-74b3cb61e）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Christa Pike in critical condition after surviving two lethal injections, lawyer says
+### 1. US pressures Europe over diesel reserves as Trump threatens export ban
+
+[原文] President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Christa Pike in critical condition after surviving two lethal injections, lawyer says
 
 [原文] Pike’s lawyers have asked for her death sentence to be commuted following the botched execution.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. What happened in the failed execution of Christa Pike - and what next?
+### 3. NY's governor appoints special prosecutor in Cornell frat rape investigation
 
-[原文] The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.
+[原文] The governor said she'd lost faith in prosecutors overseeing the case and handed it over to New York Attorney General Letitia James.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cr1585y0y90go?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'
+### 4. Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row
+
+[原文] President Lee Jae Myung also accused Kyiv of "attempting to provoke a war on the Korean Peninsula".
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'
 
 [原文] Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to "down the plane".
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Putin warns West that Russia is ready to use every weapon to protect Kaliningrad
-
-[原文] The Russian leader insists Moscow is "not threatening anyone" and is merely responding to statements by Western leaders.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Renee Good: Family of US woman killed by ICE agent sues Trump officials
-
-[原文] Lawyers for Good's family say US officials created "an unprecedented environment for state sponsored violence" in Minneapolis.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
 ---
 
 ## 💰 经济财经
 
-> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 8fcd15d8-c147-40db-9b21-060871bbe）
+> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 61d6ed16-b4a2-4966-8a35-73df46be5）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Nike shares drop as retailer posts disappointing sales, announces layoffs as part of restructuring
-
-[原文] Nike is expected to post another quarter of declining sales as the company tries to turn around its business and regain growth in China.
-
-📎 [阅读原文](https://www.cnbc.com/2026/10/01/nike-nke-q1-2027-earnings.html) — *CNBC*
-
-### 2. Trump could target three Fed governors. Removing them may be harder than it looks
+### 1. Trump could target three Fed governors. Removing them may be harder than it looks
 
 [原文] Trump could seek to remove Jerome Powell, Lisa Cook and Michael Barr from the Federal Reserve, but court rulings and lengthy litigation could limit him.
 
 📎 [阅读原文](https://www.cnbc.com/2026/10/01/trump-fed-powell-lisa-cook-michael-barr-removal.html) — *CNBC*
 
-### 3. Brent oil jumps more than 4% as U.S. reportedly sends third aircraft carrier to Middle East
+### 2. U.S. trade representative Greer says deal with India not 'imminent' after Modi-Trump call
 
-[原文] Oil prices rose sharply Thursday following a report the U.S. is sending a third aircraft carrier strike group to the Middle East.
+[原文] Ties between the U.S. and India have been under strain for over a year, and New Delhi faces fresh risk of up to 100% tariffs for continuing to buy Russian oil.
 
-📎 [阅读原文](https://www.cnbc.com/2026/10/01/oil-prices-today-wti-brent.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/02/us-india-trade-modi-trump-russia-oil.html) — *CNBC*
 
-### 4. Europe’s winter energy crunch may already be underway. Two U.S. stocks that may benefit
+### 3. U.S. market regulator seeks to make it easier for funds, advisers to hold crypto
 
-[原文] BP's largest oil discovery in 25 years. What it means for the stock.
+[原文] The SEC has proposed new rules that would make it easier for investment advisers and regulated funds to hold cryptocurrencies on behalf of clients.
 
-📎 [阅读原文](https://www.cnbc.com/2026/10/01/europes-winter-energy-crunch-may-already-be-underway-two-us-stocks-that-may-benefit.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/02/sec-bitcoin-crypto-proposal.html) — *CNBC*
 
-### 5. Boeing engineers and technical workers approve new contract, avoiding strike
+### 4. Nike shares drop as retailer posts disappointing sales, announces layoffs as part of restructuring
 
-[原文] The work group comprises Boeing's largest white-collar union.
+[原文] Nike is expected to post another quarter of declining sales as the company tries to turn around its business and regain growth in China.
 
-📎 [阅读原文](https://www.cnbc.com/2026/10/01/boeing-contract-engineers-technical-workers.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/01/nike-nke-q1-2027-earnings.html) — *CNBC*
+
+### 5. Interpol says AI is increasing the speed and scale of cyber threats. Here’s what companies should watch
+
+[原文] An Interpol executive warns AI is making existing cyber threats faster and harder to detect, while companies face new risks from the rise of agentic AI.
+
+📎 [阅读原文](https://www.cnbc.com/2026/10/02/interpol-cyberattack-cyberthreat-agentic-ai.html) — *CNBC*
 
 ---
 
 ## 💻 科技
 
-> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 674a1142-8b76-434a-80bf-44c762025）
+> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 7d3fa868-2989-4c44-9aa7-df8537dec）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Lyft is paying $272.5M to settle lawsuit over how it classified drivers
+### 1. Robotaxi operators will face fines for blocking first responders
+
+[原文] A new California law places new rules on autonomous vehicles operators
+
+📎 [阅读原文](https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/) — *TechCrunch*
+
+### 2. The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know
+
+[原文] TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.
+
+📎 [阅读原文](https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/) — *TechCrunch*
+
+### 3. Lyft is paying $272.5M to settle lawsuit over how it classified drivers
 
 [原文] Today, gig economy drivers are classified as contractors. This settlement clears up a lingering lawsuit from 2020 when that was still an unanswered issue.
 
 📎 [阅读原文](https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/) — *TechCrunch*
 
-### 2. Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation
+### 4. Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation
 
 [原文] Kevin Mandia, best known as the founder of Mandiant, has a new startup that is using agent swarms to test and protect enterprises.
 
 📎 [阅读原文](https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/) — *TechCrunch*
 
-### 3. Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president
+### 5. Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president
 
 [原文] President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.
 
 📎 [阅读原文](https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/) — *TechCrunch*
 
-### 4. ChatGPT can now virtually try on clothes for you
-
-[原文] OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.
-
-📎 [阅读原文](https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/) — *TechCrunch*
-
-### 5. Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground
-
-[原文] Google launched its first advanced chip into orbit to pave the way for space data centers.
-
-📎 [阅读原文](https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/) — *TechCrunch*
-
 ---
 
 ## 🔬 科学
 
-> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 675ab526-36ff-4c7d-9627-29cd83ffe）
+> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 42cf41db-b045-4bc3-bd96-99dc30638）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -164,33 +164,33 @@
 
 ## ⚽ 体育
 
-> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 2554f35a-636c-4bd8-bc0d-cd2ce6db5）
+> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: c2e51949-8681-40c1-8eb5-6d36bd825）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. HMRC urged to scrutinise tax implications of Man City case
+### 1. Bellamy says Wales 'stick' hurt as Norway win lifts mood
+
+[原文] Head coach Craig Bellamy says he has been through a "really difficult" spell because of criticism aimed in his direction during Wales' winless run.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c6zxzx1d484zo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. Man City appeal plan emerges as HMRC urged to examine case findings
 
 [原文] The Treasury Committee, which is responsible for overseeing HMRC, has urged the body to scrutinise tax implications of the Manchester City verdict.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cjkg7g93y5yno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. England avoid Australia & India in World Cup draw
+### 3. England avoid Australia & India in World Cup draw
 
 [原文] England avoid defending champions Australia and world number one-ranked side India in the group-stage draw for the 2027 ICC Cricket World Cup.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cqlylygyl3pro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Man City not 'above the rules', says No 10 after backlash to Burnham remarks
+### 4. Man City not 'above the rules', says No 10 after backlash to Burnham remarks
 
 [原文] The prime minister said he would be "really concerned" if the club's owners sell up after Premier League rule breaches.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj3v4vn3ydw1o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. Ranking the best British football exports this century
-
-[原文] From David Beckham and Gareth Bale to Jude Bellingham and Harry Kane, who are the best British exports this century?
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cqx2zejdk5x0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ### 5. Nine scandals that rocked the sporting world
 
@@ -202,45 +202,45 @@
 
 ## 🎬 娱乐
 
-> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 4e0a7d56-ff7c-47be-ae6b-25b16ffe1）
+> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: efa68b9f-7675-436d-becb-1b36b2530）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Venom Frontman Conrad ‘Cronos’ Lant Dies at 63
+### 1. Ben Affleck’s ‘Animals’ Cast Wants Him to Run for Office: ‘Maybe They Hate Me’
 
-[原文] Conrad “Cronos” Lant, the frontman for the legendary Northern British heavy metal band Venom, has died, according to a post on the band’s social media sites and the Guardian. No cause of death was cit
+[原文] Ben Affleck plays a Brentwood businessman running for Los Angeles mayor in the new thriller “Animals.” The Oscar winner, who directed and co-wrote the film, is also a longtime political activist who h
 
-📎 [阅读原文](https://variety.com/2026/music/news/venom-cronos-dead-lant-1236897114/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/politics/columns/ben-afflecks-why-wont-run-poiltical-office-animals-1236897296/) — *Variety*
 
-### 2. Ynon Kreiz, as Co-CEO of Paramount, to Receive Pay Package Worth More Than $46.5 Million
+### 2. Ken Urker, Gypsy-Rose Blanchard’s Partner, Dies at 34
 
-[原文] Ynon Kreiz, as David Ellison&#8217;s right-hand man at the merged Paramount-Warner Bros. Discovery, is getting a big pay bump over his pay package as CEO of Mattel. Kreiz, 61, signed an initial five-y
+[原文] Ken Urker, the partner of Gypsy-Rose Blanchard and father of their child, was found dead Thursday in Raceland, Louisiana. He was 34. Captain Brennan Matherne of the Lafourche Parish Sheriff&#8217;s De
 
-📎 [阅读原文](https://variety.com/2026/film/news/ynon-kreiz-co-ceo-paramount-warner-bros-pay-package-salary-1236896994/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/ken-urker-dead-gypsy-rose-blanchard-partner-1236897303/) — *Variety*
 
-### 3. ‘Bachelor’ Producers Send Legal Threat to Chris Harrison’s New Dating Show ‘The Vow’; Fox Nation Fights Back ‘Malicious and Vindictive’ Claims
+### 3. International Oscar Submissions: Cuba, Denmark, Vietnam, Italy, France and More Join the List
 
-[原文] Warner Bros. TV and Fox Nation are butting heads over the latter&#8217;s upcoming series, &#8220;The Vow,&#8221; hosted by former &#8220;Bachelor&#8221; host Chris Harrison. In the letter obtained by 
+[原文] The campaigns for the Oscar for international feature film are gaining momentum, with final submissions due by Oct. 1. The Oscars shortlists will be revealed on Dec. 15, with 15 international films se
 
-📎 [阅读原文](https://variety.com/2026/tv/news/bachelor-producers-legal-threat-chris-harrison-dating-show-1236896854/) — *Variety*
+📎 [阅读原文](https://variety.com/lists/international-oscar-submissions-2027/) — *Variety*
 
-### 4. Chris Hansen Confronts ‘Primetime’: The Tragic Ending, Seeing His Love Life Onscreen and Considering Legal Action Against A24 Because ‘They Exploited Me’
+### 4. Oscars: Pakistan Selects Documentary ‘Hanging by a Wire’ for International Feature Race (EXCLUSIVE)
 
-[原文] “Primetime” is a box office overachiever, but the subject of the A24 film calls it a “complete work of fiction.” Lance Oppenheim’s movie centers on “To Catch a Predator,” the popular “Dateline” segmen
+[原文] Mohammed Ali Naqvi&#8217;s documentary thriller &#8220;Hanging by a Wire&#8221; has been selected as Pakistan&#8217;s submission for the international feature film Oscar at the 99th Academy Awards, ma
 
-📎 [阅读原文](https://variety.com/2026/film/features/chris-hansen-primetime-ending-a24-legal-action-1236894822/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/awards/oscars-pakistan-hanging-by-a-wire-international-feature-1236897231/) — *Variety*
 
-### 5. ‘Landman’ Season 3: Colm Feore, Mustafa Speaks, Bobbi Salvor Menuez, Francesca Xuereb Promoted to Series Regular Status
+### 5. Donna Langley Says the Key to Stealing Taylor Sheridan Away From Paramount Was a Better Film Deal: ‘I Saw an Opportunity’
 
-[原文] &#8220;Landman&#8221; Season 3 is officially in production, with the hit Paramount+ oil industry drama promoting four cast members to series regular status. Colm Feore (Nate), Mustafa Speaks (Boss), B
+[原文] NBCUniversal Entertainment chair Donna Langley managed to snag &#8220;Yellowstone&#8221; creator Taylor Sheridan away from Paramount after a decade at the studio. How did she do it? By putting an emph
 
-📎 [阅读原文](https://variety.com/2026/tv/news/landman-season-3-series-regulars-start-production-1236896271/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/donna-langley-taylor-sheridan-paramount-universal-1236897194/) — *Variety*
 
 ---
 
 ## 🏥 健康
 
-> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 1bfc8320-70a8-4f51-97ea-621e82234）
+> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: d59055b1-f963-4702-b1ac-f2c6f2a9d）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -278,45 +278,45 @@
 
 ## 🎮 游戏
 
-> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 979e8b58-c0f5-478e-8aa3-19c0ffff9）
+> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: d8a21b5c-1557-439f-a374-81da09e83）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The FlashForge AD5X Multi-Color 3D Printer Drops to Just $220 Shipped at AliExpress
+### 1. HBO's War Season 1 Premiere Review and Recap
 
-[原文] The same printer is $350 on Amazon.
+[原文] Our recap and review of HBO's War series premiere, starring Dominic West and Sienna Miller as a high-profile divorce erupts into a vicious legal battle.
 
-📎 [阅读原文](https://www.ign.com/articles/flashforge-ad5x-3d-printer-deal-october-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/hbo-war-series-premiere-recap-review) — *IGN*
 
-### 2. We Build LEGO SpongeBob SquarePants Bikini Bottom: a F.U.N. Build for Nostalgic Adults
+### 2. Doom: The Dark Ages - Revelations Getting New 'Slaughter Mode' as Free Update Next Month
 
-[原文] We build the SpongeBob SquarePants: Bikini Bottom LEGO set, which offers a massive dose of nostalgia for millennial adults.
+[原文] Doom: The Dark Ages developer id Software has announced a new free update coming to the first-person shooter's Revelations DLC next month: an endless single-player "Slaughter Mode."
 
-📎 [阅读原文](https://www.ign.com/articles/we-build-lego-spongebob-squarepants-bikini-bottom-11386) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/doom-the-dark-ages-revelations-getting-new-slaughter-mode-as-free-update-next-month) — *IGN*
 
-### 3. The Officially Licensed WD Black 1TB PlayStation 5 SSD Just Dropped to the Lowest Price of the Year
+### 3. Fast & Furious TV Show Greenlit at Peacock, With Vin Diesel as Executive Producer
 
-[原文] Overpriced but still a deal in today's market.
+[原文] The Fast & Furious films are getting their own television series, with none other than Vin Diesel himself serving as executive producer.
 
-📎 [阅读原文](https://www.ign.com/articles/wd-black-1tb-playstation-5-ssd-deal-october-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/fast-furious-tv-show-greenlit-at-peacock-with-vin-diesel-as-executive-producer) — *IGN*
 
-### 4. The 2026 AOVOPRO 48V 500W Electric Scooter with 22-Mile Range and 22mph Top Speed Drops to $130
+### 4. Viral Short Horror Film Portrait of God Gets Feature Length Movie Starring Chase Infiniti
 
-[原文] The most powerful e-scooter I've seen for under $150.
+[原文] Viral internet short film Portrait of God is getting the Hollywood treatment, with Chase Infiniti set to star in a feature length adaptation of the YouTube-famous horror video.
 
-📎 [阅读原文](https://www.ign.com/articles/aovopro-48v-500w-adult-electric-scooter-deal-october-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/viral-short-horror-film-portrait-of-god-gets-feature-length-movie-starring-chase-infiniti) — *IGN*
 
-### 5. How GTA 6's Jason and Lucia Have Evolved Since 2023 in Pictures
+### 5. The X-Tech Executive Chair Aims to Upend Premium Models from Herman Miller, Steelcase at a Better Price
 
-[原文] GTA 6 officially releases next month, so we're taking a look at how the game's two protagonists, Jason and Lucia, have evolved since their 2023 reveal.
+[原文] Battle of the super premium tier chairs.
 
-📎 [阅读原文](https://www.ign.com/articles/how-gta-6s-jason-and-lucia-have-evolved-since-2023-in-pictures) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/x-tech-executive-chair-aims-to-upend-premium-models-from-herman-miller-steelcase) — *IGN*
 
 ---
 
 ## 🚗 汽车
 
-> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: a80e7ee3-1cc8-4427-851d-fedaaecce）
+> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: b2b3a6d5-8744-40bc-a3c2-dcb6c4102）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -359,7 +359,7 @@ The post Ford Wants to
 
 ## 🌱 环境
 
-> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 4c83a52e-131b-4420-824c-e4c7bdb41）
+> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 3d60dc6f-5fb2-411d-a73f-c0aead628）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -397,7 +397,7 @@ The post Ford Wants to
 
 ## 📚 教育
 
-> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: f1daaee6-b749-4536-946d-4140eb99e）
+> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 452dfe9c-061e-48d4-aa1e-3505fd856）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -435,45 +435,45 @@ The post Ford Wants to
 
 ## 🎵 音乐
 
-> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 97479e8c-0f88-47b5-ab21-4cfd26c45）
+> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 9e035185-914f-491f-8b99-0adaf7bcd）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. A 58-Year-Old Adopted Man Just Met His Biological Father: Michael McDonald
+### 1. Noah Kahan Delivers Heartache and Hope on New ‘Hunger Games’ Single
+
+[原文] "Draw You Out" will appear on the soundtrack for The Hunger Games: Sunrise on the Reaping
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/noah-kahan-hunger-games-song-draw-you-out-1235635660/) — *Rolling Stone*
+
+### 2. ‘The Cat in the Hat’ Soundtrack Is Going to Rule, Thanks to Hilary Duff
+
+[原文] Duff said she hoped "CATastrophe" would be "something you'd turn all the way up in the car." Mission accomplished
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/hilary-duff-catastrophe-cat-in-the-hat-1235635219/) — *Rolling Stone*
+
+### 3. Kelly Clarkson’s AI Hot Take Sparks Tons of Online Hate
+
+[原文] "I love AI. There are very amazing things with AI that I am obsessed with," the singer said in a recent interview
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/kelly-clarkson-ai-music-comments-online-hate-1235635359/) — *Rolling Stone*
+
+### 4. A 58-Year-Old Adopted Man Just Met His Biological Father: Michael McDonald
 
 [原文] “When he first saw me, he put his arms out, gave me a big old bear hug,” Goessling said of meeting his Grammy-winning musician dad
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/michael-mcdonald-biological-father-adopted-man-meet-1235635494/) — *Rolling Stone*
 
-### 2. Chris Brown Housekeeper Accepts Reduced $9.5 Million Award for Dog Mauling
+### 5. Chris Brown Housekeeper Accepts Reduced $9.5 Million Award for Dog Mauling
 
 [原文] A jury awarded Maria Avila $12.9 million, but the judge found it wasn't supported by the evidence and gave her a choice between the lower amount or a new trial
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/chris-brown-housekeeper-dog-mauling-award-reduced-1235635539/) — *Rolling Stone*
 
-### 3. Olivia Dean’s ‘Art of Loving’ Song Accused of Copying Bill Withers’ ‘Just the Two of Us’
-
-[原文] The publisher of Withers’ catalog filed the new lawsuit against Dean's label and publishers, claiming her song "I've Seen It" stole from the 1981 R&#38;B classic
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/olivia-dean-bill-withers-just-the-two-of-us-copyright-claim-1235635455/) — *Rolling Stone*
-
-### 4. See Bruno Mars Serenade Karol G in New ‘Dance With Me’ Video
-
-[原文] "Still" singers reunite in latest visual off The Romantic
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/bruno-mars-karol-g-new-dance-with-me-video-1235635532/) — *Rolling Stone*
-
-### 5. Talking Heads Detail Massive ‘Fear of Music’ Reissue
-
-[原文] The “super deluxe edition,” which comes in three CD/Blu-ray or six LP vinyl, includes two concert sets from their 1979 tour
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/talking-heads-fear-of-music-reissue-1235635387/) — *Rolling Stone*
-
 ---
 
 ## ✈️ 旅游
 
-> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 40969b53-a511-4b9d-9609-2e71b987b）
+> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 0e9eaf23-2409-48ef-b171-78d3afd17）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
