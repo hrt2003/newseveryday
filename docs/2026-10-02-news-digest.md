@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年10月02日** | 生成时间: 2026-10-02 12:50
+**2026年10月02日** | 生成时间: 2026-10-02 20:09
 
 ---
 
@@ -12,15 +12,15 @@
 
 ## 🌍 国际政治
 
-> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 8b5c97c8-3ada-49ce-b82e-74b3cb61e）
+> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 5b2e632e-9ee4-4278-847a-51c481383）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. US pressures Europe over diesel reserves as Trump threatens export ban
+### 1. 'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot
 
-[原文] President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.
+[原文] Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 2. Christa Pike in critical condition after surviving two lethal injections, lawyer says
 
@@ -28,11 +28,11 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. NY's governor appoints special prosecutor in Cornell frat rape investigation
+### 3. 'Ashamed': Cornell students gather to voice anger over alleged gang rape
 
-[原文] The governor said she'd lost faith in prosecutors overseeing the case and handed it over to New York Attorney General Letitia James.
+[原文] Students tell the BBC that the tension on campus has become palpable since allegations from 2024 resurfaced.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cr1585y0y90go?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cm0e3ed1er1yo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 4. Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row
 
@@ -40,55 +40,55 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'
+### 5. Japan's first mayor to take maternity leave lands on TIME100 Next list
 
-[原文] Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to "down the plane".
+[原文] Shoko Kawata's maternity leave drew mixed reactions in Japan, a country struggling to lift birth rates.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqj3d3d37nxgo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
 ## 💰 经济财经
 
-> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 61d6ed16-b4a2-4966-8a35-73df46be5）
+> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: d10e9bb9-2acd-4836-bd36-a9e19d4da）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump could target three Fed governors. Removing them may be harder than it looks
+### 1. The September jobs report will be released Friday. Here's what to expect
 
-[原文] Trump could seek to remove Jerome Powell, Lisa Cook and Michael Barr from the Federal Reserve, but court rulings and lengthy litigation could limit him.
+[原文] Wall Street is looking for job growth of 84,000 to close out the summer.
 
-📎 [阅读原文](https://www.cnbc.com/2026/10/01/trump-fed-powell-lisa-cook-michael-barr-removal.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/01/the-september-jobs-report-will-be-released-friday-heres-what-to-expect.html) — *CNBC*
 
-### 2. U.S. trade representative Greer says deal with India not 'imminent' after Modi-Trump call
+### 2. Oil prices fall on report of potential diesel, crude stock release; Brent back below $100
 
-[原文] Ties between the U.S. and India have been under strain for over a year, and New Delhi faces fresh risk of up to 100% tariffs for continuing to buy Russian oil.
+[原文] It comes after Reuters reported that EU nations were discussing a proposal to release diesel reserves following pressure from the Trump administration.
 
-📎 [阅读原文](https://www.cnbc.com/2026/10/02/us-india-trade-modi-trump-russia-oil.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/02/oil-wti-brent-diesel-stock-release-europe.html) — *CNBC*
 
-### 3. U.S. market regulator seeks to make it easier for funds, advisers to hold crypto
+### 3. How AI is redefining Wall Street jobs — and boosting demand for this new 'hottest skill' by 1,721%
 
-[原文] The SEC has proposed new rules that would make it easier for investment advisers and regulated funds to hold cryptocurrencies on behalf of clients.
+[原文] Banks are fueling a hiring surge for AI engineers who are good at "agent orchestration" — the ability to coordinate teams of specialized agents.
 
-📎 [阅读原文](https://www.cnbc.com/2026/10/02/sec-bitcoin-crypto-proposal.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html) — *CNBC*
 
-### 4. Nike shares drop as retailer posts disappointing sales, announces layoffs as part of restructuring
+### 4. The secret signs the bond sell-off might be ending
 
-[原文] Nike is expected to post another quarter of declining sales as the company tries to turn around its business and regain growth in China.
+[原文] A big options bet involving the utility sector could indicate a top in yields.
 
-📎 [阅读原文](https://www.cnbc.com/2026/10/01/nike-nke-q1-2027-earnings.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/02/the-secret-signs-the-bond-sell-off-might-be-ending.html) — *CNBC*
 
-### 5. Interpol says AI is increasing the speed and scale of cyber threats. Here’s what companies should watch
+### 5. Nike shares plummet 10% after weak revenue outlook and layoff plans underway
 
-[原文] An Interpol executive warns AI is making existing cyber threats faster and harder to detect, while companies face new risks from the rise of agentic AI.
+[原文] Nike's shares plummeted in premarket trading, continuing a second straight day of declines after it reported falling revenue and plans to lay off staff.
 
-📎 [阅读原文](https://www.cnbc.com/2026/10/02/interpol-cyberattack-cyberthreat-agentic-ai.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/02/nike-nke-stock-q1-earnings-layoffs.html) — *CNBC*
 
 ---
 
 ## 💻 科技
 
-> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 7d3fa868-2989-4c44-9aa7-df8537dec）
+> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 76dfe92f-2043-4ea3-83d3-3d12b6003）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -126,7 +126,7 @@
 
 ## 🔬 科学
 
-> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 42cf41db-b045-4bc3-bd96-99dc30638）
+> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 5f7389d2-97d5-41e4-889f-b7982ee74）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -164,83 +164,83 @@
 
 ## ⚽ 体育
 
-> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: c2e51949-8681-40c1-8eb5-6d36bd825）
+> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: c9bc365e-097b-4980-a13f-0bd429509）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Bellamy says Wales 'stick' hurt as Norway win lifts mood
+### 1. Man City confirm appeal against guilty verdict
 
-[原文] Head coach Craig Bellamy says he has been through a "really difficult" spell because of criticism aimed in his direction during Wales' winless run.
+[原文] The club's statement says the ruling contains "clear material errors, of law, principle and fact, and is unsafe".
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c6zxzx1d484zo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cqn7470513n0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Man City appeal plan emerges as HMRC urged to examine case findings
+### 2. What does Man City guilty verdict mean for their squad?
 
-[原文] The Treasury Committee, which is responsible for overseeing HMRC, has urged the body to scrutinise tax implications of the Manchester City verdict.
+[原文] BBC Sport looks at how Manchester City's guilty verdict will affect their existing players' futures and the club's dealings in the transfer market.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cjkg7g93y5yno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c68jdjdz32n3o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. England avoid Australia & India in World Cup draw
+### 3. The Unpromotables: Germany's league champions who can't go up
 
-[原文] England avoid defending champions Australia and world number one-ranked side India in the group-stage draw for the 2027 ICC Cricket World Cup.
+[原文] German football is grappling with a sum that doesn't add up - four promotion spots for five league champions.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cqlylygyl3pro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cmj4jr2vgx0ko?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Man City not 'above the rules', says No 10 after backlash to Burnham remarks
+### 4. Russell says Red Bull strongest after Bahrain practice
 
-[原文] The prime minister said he would be "really concerned" if the club's owners sell up after Premier League rule breaches.
+[原文] Red Bull are tipped by George Russell and Charles Leclerc as the team to beat after the first day at the Bahrain Grand Prix in Malaysia.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj3v4vn3ydw1o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/ckm2q2346zz9o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Nine scandals that rocked the sporting world
+### 5. 'Hitchy is always with us' - the keeper who died after one-punch attack
 
-[原文] Manchester City are far from the first. The lure of glory and riches on the biggest stages have tempted plenty of other sports stars to break the rules.
+[原文] The memory of James Hitchcock lives on at non-league Barton Town, almost two years after he died following being punched on a visit to York.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/articles/ck62m2n3yezno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cmn8en9wxv1no?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
 ## 🎬 娱乐
 
-> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: efa68b9f-7675-436d-becb-1b36b2530）
+> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 19d4c1bd-c8ca-4037-b5ff-864f5d211）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Ben Affleck’s ‘Animals’ Cast Wants Him to Run for Office: ‘Maybe They Hate Me’
+### 1. ‘The Celebrity Traitors’ Scores Record-Breaking Season 2 Premiere With Nearly 9 Million Viewers
 
-[原文] Ben Affleck plays a Brentwood businessman running for Los Angeles mayor in the new thriller “Animals.” The Oscar winner, who directed and co-wrote the film, is also a longtime political activist who h
+[原文] The second season of the U.K.&#8217;s &#8220;Celebrity Traitors&#8221; is off to a record-breaking start. More than 8.8 million viewers watched Thursday night&#8217;s premiere of the BBC&#8217;s devio
 
-📎 [阅读原文](https://variety.com/2026/politics/columns/ben-afflecks-why-wont-run-poiltical-office-animals-1236897296/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/global/celebrity-traitors-premiere-ratings-record-9-million-1236897450/) — *Variety*
 
-### 2. Ken Urker, Gypsy-Rose Blanchard’s Partner, Dies at 34
+### 2. ‘A Talent for Murder’ Director Anton Corbijn Praises Helen Mirren’s Performance as Controversial Author Patricia Highsmith: ‘She’s a Great Jerk!’
 
-[原文] Ken Urker, the partner of Gypsy-Rose Blanchard and father of their child, was found dead Thursday in Raceland, Louisiana. He was 34. Captain Brennan Matherne of the Lafourche Parish Sheriff&#8217;s De
+[原文] In “A Talent for Murder,” director Anton Corbijn takes a closer look at writer Patricia Highsmith. Known for creating everyone’s favorite psychopath Tom Ripley, Highsmith – played by Helen Mirren – be
 
-📎 [阅读原文](https://variety.com/2026/tv/news/ken-urker-dead-gypsy-rose-blanchard-partner-1236897303/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/anton-corbijn-helen-mirren-patricia-highsmith-1236894582/) — *Variety*
 
-### 3. International Oscar Submissions: Cuba, Denmark, Vietnam, Italy, France and More Join the List
+### 3. Charlie Cox to Lead ‘The King’s Ransom’ Play in London
 
-[原文] The campaigns for the Oscar for international feature film are gaining momentum, with final submissions due by Oct. 1. The Oscars shortlists will be revealed on Dec. 15, with 15 international films se
+[原文] &#8220;Daredevil&#8221; star Charlie Cox is returning to the London stage this winter to lead &#8220;The King&#8217;s Ransom,&#8221; a new play by Stuart Slade. World premiering at the Donmar Warehous
 
-📎 [阅读原文](https://variety.com/lists/international-oscar-submissions-2027/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/theater/global/charlie-cox-the-kings-ransom-play-london-1236894603/) — *Variety*
 
-### 4. Oscars: Pakistan Selects Documentary ‘Hanging by a Wire’ for International Feature Race (EXCLUSIVE)
+### 4. Michael De Luca and Pamela Abdy to Depart at Warner Bros. Following Paramount Close
 
-[原文] Mohammed Ali Naqvi&#8217;s documentary thriller &#8220;Hanging by a Wire&#8221; has been selected as Pakistan&#8217;s submission for the international feature film Oscar at the 99th Academy Awards, ma
+[原文] Michael De Luca and Pamela Abdy’s term as chiefs of Warner Bros. is coming to an end. Multiple sources told Variety that De Luca and Abdy will not be part of David Ellison&#8217;s management team afte
 
-📎 [阅读原文](https://variety.com/2026/film/awards/oscars-pakistan-hanging-by-a-wire-international-feature-1236897231/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/michael-de-luca-pamela-abdy-exit-warner-bros-paramount-merger-close-1236897365/) — *Variety*
 
-### 5. Donna Langley Says the Key to Stealing Taylor Sheridan Away From Paramount Was a Better Film Deal: ‘I Saw an Opportunity’
+### 5. ‘Cameron Winter at Carnegie Hall’ Review: Paul Thomas Anderson Directs a Rapturous Solo Concert Movie Built Around the Songs — and Haunting Sound — of Cameron Winter
 
-[原文] NBCUniversal Entertainment chair Donna Langley managed to snag &#8220;Yellowstone&#8221; creator Taylor Sheridan away from Paramount after a decade at the studio. How did she do it? By putting an emph
+[原文] The slow rolling piano echo through the hall like a rhapsody from the deep. The sound is rich, lustrous, bottom-heavy, grand. And that voice! Winter sings in a low baritone (and occasionally a high on
 
-📎 [阅读原文](https://variety.com/2026/film/news/donna-langley-taylor-sheridan-paramount-universal-1236897194/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/reviews/cameron-winter-at-carnegie-hall-review-paul-thomas-anderson-1236897129/) — *Variety*
 
 ---
 
 ## 🏥 健康
 
-> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: d59055b1-f963-4702-b1ac-f2c6f2a9d）
+> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 639f7d1d-bbc6-46dd-a151-713e6b59a）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -278,126 +278,126 @@
 
 ## 🎮 游戏
 
-> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: d8a21b5c-1557-439f-a374-81da09e83）
+> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 315e8cad-26f9-47b8-a68f-04c40ee55）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. HBO's War Season 1 Premiere Review and Recap
+### 1. Disney President Reacts to Live-Action Moana Flop, Says It Was an 'Excellent Film' Hit by 'Unusual Circumstances'
+
+[原文] Disney president Dana Walden has blamed "unusual circumstances" for the live-action Moana movie's disappointing box office, and defended the project as an otherwise "excellent film."
+
+📎 [阅读原文](https://www.ign.com/articles/disney-president-reacts-to-live-action-moana-flop-says-it-was-an-excellent-film-hit-by-unusual-circumstances) — *IGN*
+
+### 2. Avengers: Secret Wars Filming Delay Reports Spark Concern That Marvel's Multiverse Saga Finale May Be Postponed
+
+[原文] Reports of an Avengers: Secret Wars filming delay have sparked concern among Marvel fans that the movie's release date could be pushed back.
+
+📎 [阅读原文](https://www.ign.com/articles/avengers-secret-wars-filming-delay-reports-spark-concern-that-marvels-multiverse-saga-finale-may-be-delayed) — *IGN*
+
+### 3. Person Behind Viral AI-Generated Fallout: New York Game Hauls It Offline, Says Bethesda Issued Cease and Desist
+
+[原文] The person behind a viral AI-generated Fallout: New York game has pulled it offline after receiving a cease and desist from Bethesda.
+
+📎 [阅读原文](https://www.ign.com/articles/person-behind-viral-ai-generated-fallout-new-york-game-hauls-it-offline-says-bethesda-issued-cease-and-desist) — *IGN*
+
+### 4. Justin Wong and IFC Yipes Literally Commentate Ryu's Match Against Blanka in the Street Fighter Movie
+
+[原文] We already knew about Justin Wong and IFC Yipes’ cameo in the upcoming Street Fighter movie, but it looks like they got to put their commentary skills to work for the part, too.
+
+📎 [阅读原文](https://www.ign.com/articles/justin-wong-and-ifc-yipes-literally-commentate-ryus-match-against-blanka-in-the-street-fighter-movie) — *IGN*
+
+### 5. HBO's War Season 1 Premiere Review and Recap
 
 [原文] Our recap and review of HBO's War series premiere, starring Dominic West and Sienna Miller as a high-profile divorce erupts into a vicious legal battle.
 
 📎 [阅读原文](https://www.ign.com/articles/hbo-war-series-premiere-recap-review) — *IGN*
 
-### 2. Doom: The Dark Ages - Revelations Getting New 'Slaughter Mode' as Free Update Next Month
-
-[原文] Doom: The Dark Ages developer id Software has announced a new free update coming to the first-person shooter's Revelations DLC next month: an endless single-player "Slaughter Mode."
-
-📎 [阅读原文](https://www.ign.com/articles/doom-the-dark-ages-revelations-getting-new-slaughter-mode-as-free-update-next-month) — *IGN*
-
-### 3. Fast & Furious TV Show Greenlit at Peacock, With Vin Diesel as Executive Producer
-
-[原文] The Fast & Furious films are getting their own television series, with none other than Vin Diesel himself serving as executive producer.
-
-📎 [阅读原文](https://www.ign.com/articles/fast-furious-tv-show-greenlit-at-peacock-with-vin-diesel-as-executive-producer) — *IGN*
-
-### 4. Viral Short Horror Film Portrait of God Gets Feature Length Movie Starring Chase Infiniti
-
-[原文] Viral internet short film Portrait of God is getting the Hollywood treatment, with Chase Infiniti set to star in a feature length adaptation of the YouTube-famous horror video.
-
-📎 [阅读原文](https://www.ign.com/articles/viral-short-horror-film-portrait-of-god-gets-feature-length-movie-starring-chase-infiniti) — *IGN*
-
-### 5. The X-Tech Executive Chair Aims to Upend Premium Models from Herman Miller, Steelcase at a Better Price
-
-[原文] Battle of the super premium tier chairs.
-
-📎 [阅读原文](https://www.ign.com/articles/x-tech-executive-chair-aims-to-upend-premium-models-from-herman-miller-steelcase) — *IGN*
-
 ---
 
 ## 🚗 汽车
 
-> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: b2b3a6d5-8744-40bc-a3c2-dcb6c4102）
+> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 7af3b410-1dbf-45f6-b840-226771485）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. 2027 Hyundai Tucson: An Everyday SUV With Sci-Fi Vibes
+### 1. Star Wars Galactic Racer Review: Come for the Podracing, Stay for the Punishment
+
+[原文] Breakneck arcade racing meets a demanding campaign in this thrill ride through a galaxy far, far away, from the makers of Burnout.
+The post Star Wars Galactic Racer Review: Come for the Podracing, Sta
+
+📎 [阅读原文](https://www.thedrive.com/news/star-wars-galactic-racer-review-come-for-the-podracing-stay-for-the-punishment) — *The Drive*
+
+### 2. Nissan’s Comeback Is Underway: TDS
+
+[原文] A 19-month sales streak, and the highest sales Infiniti's seen since Covid, shows signs of life at Nissan.
+The post Nissan&#8217;s Comeback Is Underway: TDS appeared first on The Drive.
+
+📎 [阅读原文](https://www.thedrive.com/news/nissans-comeback-is-underway-tds) — *The Drive*
+
+### 3. 2027 Hyundai Tucson: An Everyday SUV With Sci-Fi Vibes
 
 [原文] Once again, Hyundai has delivered a sequel to a common crossover that looks like it was beamed from Mars.
 The post 2027 Hyundai Tucson: An Everyday SUV With Sci-Fi Vibes appeared first on The Drive.
 
 📎 [阅读原文](https://www.thedrive.com/news/2027-hyundai-tucson-an-everyday-suv-with-sci-fi-vibes) — *The Drive*
 
-### 2. EVs ‘Will Never Survive’ If Charging Doesn’t Make Money, Ionna CEO Says
+### 4. EVs ‘Will Never Survive’ If Charging Doesn’t Make Money, Ionna CEO Says
 
 [原文] Ionna CEO Seth Cutler told The Drive, "This is a for-profit business."
 The post EVs &#8216;Will Never Survive&#8217; If Charging Doesn&#8217;t Make Money, Ionna CEO Says appeared first on The Drive.
 
 📎 [阅读原文](https://www.thedrive.com/news/evs-will-never-survive-if-charging-doesnt-make-money-ionna-ceo-says) — *The Drive*
 
-### 3. Is America Over the Prius?
+### 5. Is America Over the Prius?
 
 [原文] Year to date, Prius sales are down 51%, with only 16,731 units sold. But why?
 The post Is America Over the Prius? appeared first on The Drive.
 
 📎 [阅读原文](https://www.thedrive.com/news/is-america-over-the-prius) — *The Drive*
 
-### 4. There’s Still Hope for the Old-Fashioned Hand Brake
-
-[原文] Everybody wants to save the manuals; I say save the hand brakes.
-The post There&#8217;s Still Hope for the Old-Fashioned Hand Brake appeared first on The Drive.
-
-📎 [阅读原文](https://www.thedrive.com/news/theres-still-hope-for-the-old-fashioned-hand-brake) — *The Drive*
-
-### 5. Ford Wants to Charge You $12,545 for a Paint Job
-
-[原文] 2027 Ford F-150 pickups will offer a sweet-looking, two-tone paint option, but it'll cost you nearly half as much as a new Maverick, or about 20% of the truck's purchase price.
-The post Ford Wants to 
-
-📎 [阅读原文](https://www.thedrive.com/news/ford-wants-to-charge-you-12545-for-a-paint-job) — *The Drive*
-
 ---
 
 ## 🌱 环境
 
-> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 3d60dc6f-5fb2-411d-a73f-c0aead628）
+> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 5402d51c-d6d2-41bc-b1f8-fe7de34fe）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. America’s Largest Producer of Foundry Coke Is Operating Under an Expired Permit. Who Is at Fault?
+### 1. California to Vote on Landmark Tribal Petitions for Coastal Protections
+
+[原文] Drive the Pacific Coast Highway, spearfish alongside Great White sharks, surf in Santa Cruz, dive for lobster, cast a line or set a crab pot: California is defined by its 840-mile coastline. Managing 
+
+📎 [阅读原文](https://insideclimatenews.org/news/02102026/california-marine-protected-areas-proposed-tribal-changes/) — *Inside Climate News*
+
+### 2. Chesapeake Bay Restoration Obstructed by Federal Policy Shift, Tribal Withdrawal
+
+[原文] Two major challenges could complicate efforts to restore the Chesapeake Bay. First, a new executive order from President Donald Trump revoked the longstanding framework for coordinating federal effort
+
+📎 [阅读原文](https://insideclimatenews.org/news/02102026/chesapeake-bay-restoration-new-challenges/) — *Inside Climate News*
+
+### 3. America’s Largest Producer of Foundry Coke Is Operating Under an Expired Permit. Who Is at Fault?
 
 [原文] BIRMINGHAM, Ala.—It’s time to act. It’s long past time.&#160; That was the case made by lawyers for the Southern Environmental Law Center, who filed a petition Wednesday in Jefferson County Circuit Co
 
 📎 [阅读原文](https://insideclimatenews.org/news/01102026/abc-coke-operating-under-expired-permit-in-alabama/) — *Inside Climate News*
 
-### 2. All Hail Electrification. But Let’s Talk About the Hard Part.
+### 4. All Hail Electrification. But Let’s Talk About the Hard Part.
 
 [原文] If one form of energy becomes the cheapest, most secure and cleanest, you’d probably adjust your economy to use more of it, right? That’s one of the ideas underpinning a report the International Energ
 
 📎 [阅读原文](https://insideclimatenews.org/news/01102026/inside-clean-energy-global-electrification-obstacles/) — *Inside Climate News*
 
-### 3. ‘Mega-Industrial’ Trawlers Threaten Europe’s Ocean Health
+### 5. ‘Mega-Industrial’ Trawlers Threaten Europe’s Ocean Health
 
 [原文] For Europe’s fishing industry, it turns out size does matter. Of 60,000 European-flagged fishing boats, just 638 are responsible for most of the harm, according to a new report by French non-profit BL
 
 📎 [阅读原文](https://insideclimatenews.org/news/01102026/europe-mega-industrial-trawlers-threaten-ocean/) — *Inside Climate News*
 
-### 4. Regulators Release a Plan to Help Repair the Contaminated Roanoke River
-
-[原文] PLYMOUTH, N.C.—Fall had just arrived when a nor’easter began stewing in the Atlantic Ocean, its gale-force winds carrying the pungent smell of chlorine westward, away from downtown. Against the backdr
-
-📎 [阅读原文](https://insideclimatenews.org/news/01102026/north-carolina-roanoke-river-paper-plant-pollution/) — *Inside Climate News*
-
-### 5. EU Weighs Delaying Methane Rules as Energy Prices Rise
-
-[原文] Amid political pressure and rising energy prices, the European Commission is considering pausing a part of its landmark methane regulation, which is set to take effect in January. The move comes after
-
-📎 [阅读原文](https://insideclimatenews.org/news/30092026/european-commission-plans-to-delay-methane-rules/) — *Inside Climate News*
-
 ---
 
 ## 📚 教育
 
-> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 452dfe9c-061e-48d4-aa1e-3505fd856）
+> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: a89cda51-8d77-4a19-bb22-a25ea8867）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -435,45 +435,45 @@ The post Ford Wants to
 
 ## 🎵 音乐
 
-> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 9e035185-914f-491f-8b99-0adaf7bcd）
+> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 03ccaa14-18b7-4b2c-a718-16824f5b8）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Noah Kahan Delivers Heartache and Hope on New ‘Hunger Games’ Single
+### 1. Alexander Skarsgård Embraces His Magnetism in the Rolling Stones’ Video for ‘Mr. Charm’
+
+[原文] The track comes off the rock band's latest album, Foreign Tongues
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/alexander-skarsgard-the-rolling-stones-mr-charm-music-video-1235635756/) — *Rolling Stone*
+
+### 2. Noah Kahan Delivers Heartache and Hope on New ‘Hunger Games’ Single
 
 [原文] "Draw You Out" will appear on the soundtrack for The Hunger Games: Sunrise on the Reaping
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/noah-kahan-hunger-games-song-draw-you-out-1235635660/) — *Rolling Stone*
 
-### 2. ‘The Cat in the Hat’ Soundtrack Is Going to Rule, Thanks to Hilary Duff
+### 3. ‘The Cat in the Hat’ Soundtrack Is Going to Rule, Thanks to Hilary Duff
 
 [原文] Duff said she hoped "CATastrophe" would be "something you'd turn all the way up in the car." Mission accomplished
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/hilary-duff-catastrophe-cat-in-the-hat-1235635219/) — *Rolling Stone*
 
-### 3. Kelly Clarkson’s AI Hot Take Sparks Tons of Online Hate
+### 4. Kelly Clarkson’s AI Hot Take Sparks Tons of Online Hate
 
 [原文] "I love AI. There are very amazing things with AI that I am obsessed with," the singer said in a recent interview
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/kelly-clarkson-ai-music-comments-online-hate-1235635359/) — *Rolling Stone*
 
-### 4. A 58-Year-Old Adopted Man Just Met His Biological Father: Michael McDonald
+### 5. A 58-Year-Old Adopted Man Just Met His Biological Father: Michael McDonald
 
 [原文] “When he first saw me, he put his arms out, gave me a big old bear hug,” Goessling said of meeting his Grammy-winning musician dad
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/michael-mcdonald-biological-father-adopted-man-meet-1235635494/) — *Rolling Stone*
 
-### 5. Chris Brown Housekeeper Accepts Reduced $9.5 Million Award for Dog Mauling
-
-[原文] A jury awarded Maria Avila $12.9 million, but the judge found it wasn't supported by the evidence and gave her a choice between the lower amount or a new trial
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/chris-brown-housekeeper-dog-mauling-award-reduced-1235635539/) — *Rolling Stone*
-
 ---
 
 ## ✈️ 旅游
 
-> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 0e9eaf23-2409-48ef-b171-78d3afd17）
+> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 90b5f102-3b4c-4813-8697-0fefa3951）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
