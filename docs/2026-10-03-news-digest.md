@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年10月03日** | 生成时间: 2026-10-03 19:19
+**2026年10月03日** | 生成时间: 2026-10-03 23:57
 
 ---
 
@@ -12,7 +12,7 @@
 
 ## 🌍 国际政治
 
-> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: e27e6ae1-f916-4fb8-bfe2-9403b2222）
+> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: f00c856f-ccd2-4a7d-9275-37f258faa）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -22,163 +22,163 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Russia strikes second major bridge in Kyiv, mayor says
+### 2. Russia hits second major bridge in Ukraine's capital Kyiv
 
-[原文] The strike on Northern Bridge comes after repeat attacks on another major bridge in recent days.
+[原文] The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. G7 to release millions of barrels of oil and diesel after Trump threat
+### 3. Protesters across Spain demand action over housing crisis
+
+[原文] More than 50 protests are taking place on Saturday after the government failed to get emergency legislation through parliament.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. G7 to release millions of barrels of oil and diesel after Trump threat
 
 [原文] The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say
+### 5. Women given shorts at Oktoberfest to prevent upskirting
 
-[原文] As of Thursday night, Pike remained critically ill and is being treated at a hospital in Nashville, Tennessee.
+[原文] The step at the Munich festival comes after thousands of voyeuristic videos emerged on social media.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. UK-Iranian dual national bailed after RAF Fairford incident arrest
-
-[原文] The 25-year-old man was arrested in the London borough of Westminster on Thursday.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cjwyzyqvx1zxo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
 ## 💰 经济财经
 
-> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 2240aeb8-3c00-492e-a88a-153b8ecd0）
+> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: faa8df01-8189-4b80-a15b-8a2835780）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. America’s data center fight is a preview of what's to come for the rest of the world
-
-[原文] America’s fight over data centers is going global. Communities across Europe and Asia  are pushing back over the rising costs of the AI infrastructure boom.
-
-📎 [阅读原文](https://www.cnbc.com/2026/10/03/data-center-backlash-europe-asia-africa.html) — *CNBC*
-
-### 2. David Ellison just brought in a co-CEO to run his new empire: Meet Ynon Kreiz
+### 1. David Ellison just brought in a co-CEO to run his new empire: Meet Ynon Kreiz
 
 [原文] Ynon Kreiz's appointment as co-CEO of Skydance answers a key governance question for Ellison's soon-to-be-merged company.
 
 📎 [阅读原文](https://www.cnbc.com/2026/10/03/david-ellison-ynon-kreiz-skydance.html) — *CNBC*
 
-### 3. Tesla’s Cybercab had a rocky first month in Austin. Now comes the hard part: expanding
+### 2. Tesla’s Cybercab had a rocky first month in Austin. Now comes the hard part: expanding
 
 [原文] Elon Musk's effort to move beyond auto sales largely relies on the success of his company's Cybercab, which launched in Austin a month ago.
 
 📎 [阅读原文](https://www.cnbc.com/2026/10/03/tesla-cybercab-pressure-to-expand-after-rocky-first-month-in-austin.html) — *CNBC*
 
-### 4. Ford fends off Hyundai to retain No. 3 U.S. sales position in third quarter
+### 3. FlyDubai plane attack by co-pilot was an attempted 'terrorist' act, UAE says
 
-[原文] Ford on Friday reported a year-over-year sales decline of 6.6% during the third quarter to 507,395 light-duty vehicles.
+[原文] The FlyDubai co-pilot attacked the pilot inside the cockpit with a crash axe and attempted to take control of the aircraft, the UAE prosecutor general said.
 
-📎 [阅读原文](https://www.cnbc.com/2026/10/02/ford-q3-sales.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/03/flydubai-co-pilot-attacked-pilot-with-axe-uae-says.html) — *CNBC*
 
-### 5. G7 nations to release diesel stocks as wars in Europe and Middle East constrain fuel supplies
+### 4. Berkshire buys more Lennar shares, but pace of purchases slows
 
-[原文] EU countries are set for crisis talks on soaring diesel prices, with officials warning a U.S. export ban could hurt Europe’s economic outlook.
+[原文] Berkshire Hathaway added to its bet on Lennar this week, raising its stake in the homebuilder to 11.2%, although the pace of its buying appears to be slowing.
 
-📎 [阅读原文](https://www.cnbc.com/2026/10/02/diesel-oil-trump-europe-export-ban.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/03/berkshire-buys-more-lennar-shares-but-pace-of-purchases-slows.html) — *CNBC*
+
+### 5. Novig credits Sydney Sweeney-backed campaign for platform’s surge in growth
+
+[原文] Novig's "Just Sports" campaign drew backlash from some female athletes but also brought in a rush of trading volume.
+
+📎 [阅读原文](https://www.cnbc.com/2026/10/03/novig-credits-sydney-sweeney-backed-campaign-for-platforms-surge-in-growth.html) — *CNBC*
 
 ---
 
 ## 💻 科技
 
-> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 5ed5f0e5-3c8e-43ca-934a-d79f2394a）
+> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: c7deec85-a2db-45a2-87ae-4e5159d70）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Meta wants your next gadget to be Muse-infused
+### 1. Jack Dorsey’s Bitchat disappears from app stores in India after government order
+
+[原文] Bitchat has become largely unavailable in India as a result of the restrictions.
+
+📎 [阅读原文](https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/) — *TechCrunch*
+
+### 2. Vessev built an electric ferry that almost flies
+
+[原文] Vessev hopes its electric hydrofoil ferry will change the way people and cities think about boats.
+
+📎 [阅读原文](https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/) — *TechCrunch*
+
+### 3. All the AI agents that can live in your text messages
+
+[原文] We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.
+
+📎 [阅读原文](https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/) — *TechCrunch*
+
+### 4. Spotify billionaire’s body scan startup has come to America
+
+[原文] Farooq Abbasi, an investor in Neko Health, talked to Equity about the hot health tech company and what's next for it.
+
+📎 [阅读原文](https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/) — *TechCrunch*
+
+### 5. Meta wants your next gadget to be Muse-infused
 
 [原文] Meta wants Muse in your TV and your toaster, so it's giving the code away for free.
 
 📎 [阅读原文](https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/) — *TechCrunch*
 
-### 2. Sanders introduces bill to ban the federal government from using Flock
-
-[原文] The proposed legislation would extend to all automotica license plate readers.
-
-📎 [阅读原文](https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/) — *TechCrunch*
-
-### 3. Sean Parker is rebuilding Stability AI around music
-
-[原文] Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.
-
-📎 [阅读原文](https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/) — *TechCrunch*
-
-### 4. Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass
-
-[原文] Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.
-
-📎 [阅读原文](https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/) — *TechCrunch*
-
-### 5. Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents
-
-[原文] Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history risk
-
-📎 [阅读原文](https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/) — *TechCrunch*
-
 ---
 
 ## 🔬 科学
 
-> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 366d14a9-5a15-46ef-84e3-b0f88b9a6）
+> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 4a27b828-e357-4f1b-a669-5881c1f34）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. This diet may slow brain aging by 2.5 years
+### 1. This protective enzyme could help stop fatty liver disease from getting worse
 
-[原文] People who followed the MIND diet more closely showed slower brain shrinkage and less grey matter loss over time, with the strongest differences equivalent to about 2.5 years of delayed brain aging. B
+[原文] Scientists have identified an enzyme that may act as a natural defense against the worsening of fatty liver disease, which affects an estimated 100 million Americans. The enzyme, called UBE2N, helps l
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260930225503.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/10/261002080020.htm) — *Science Daily*
 
-### 2. Alzheimer’s risk gene APOE4 may have a reversible weakness
+### 2. ESA’s Juice just used Earth as a slingshot to Jupiter
 
-[原文] The Alzheimer’s risk gene APOE4 may actively damage brain blood vessels and sabotage the cellular systems that remove harmful proteins. Researchers were able to reverse some of these effects in experi
+[原文] ESA’s Juice spacecraft raced past Earth on September 28, using our planet’s gravity to dramatically reshape its path toward Jupiter without burning much fuel. The flyby changed its direction by 20 deg
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260930225450.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/10/261001214102.htm) — *Science Daily*
 
-### 3. Could quitting ultra-processed food boost your mental health?
+### 3. NASA’s Roman telescope just opened its planet-hunting eye
 
-[原文] People with depression who dramatically cut ultra-processed foods experienced notable improvements in their symptoms in a small preliminary study. Researchers suspect healthier eating may benefit the 
+[原文] NASA’s Roman Space Telescope has demonstrated remarkable pointing stability and given its powerful planet-imaging coronagraph its first look at the cosmos. The telescope can already stay locked on a t
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260930225448.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/10/261001214057.htm) — *Science Daily*
 
-### 4. This giant stick insect fooled scientists for decades
+### 4. Chang’e-6 lunar soil contains a surprising magnetic time capsule
 
-[原文] Scientists have identified two new species of large Australian stick insects, including one that lays extraordinary “lidded” eggs never before recorded in the group. The discovery also revealed that a
+[原文] Scientists studying Chang’e-6 lunar soil have discovered a previously unknown magnetic mineral in natural Moon samples: a form of metallic iron called γ-Fe. Found inside tiny impact-glass particles, t
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260930020315.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/10/261001214015.htm) — *Science Daily*
 
-### 5. Watch Live: NASA’s Crew-13 could make the fastest U.S. trip to the ISS ever
+### 5. Powerful simulations reveal how the first stars changed the universe
 
-[原文] NASA’s SpaceX Crew-13 mission is scheduled to launch four astronauts to the International Space Station on October 1. The Dragon could reach the orbiting laboratory in just 7 hours and 50 minutes, mak
+[原文] Ultra-detailed simulations are showing how the first stars lit up the dark Universe and seeded space with elements such as carbon, oxygen, and iron. The MEGATRON project could bridge JWST observations
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/09/260930020312.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/10/261001214012.htm) — *Science Daily*
 
 ---
 
 ## ⚽ 体育
 
-> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 799848c3-d6ae-4c0e-8242-c85c22b4f）
+> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: e1d4bda3-e014-4df5-b738-b4e4453e2）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Verstappen takes first 2026 pole ahead of Hamilton
+### 1. 'Incredible' Red Bull upgrade enlivens F1 in Malaysia
 
-[原文] Max Verstappen takes his and Red Bull's first pole position of 2026 with an imperious performance in qualifying at the Bahrain Grand Prix in Malaysia.
+[原文] Even Lewis Hamilton fears Max Verstappen will be tough to beat in Sunday's Bahrain Grand Prix in Malaysia.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/cm1j3l9867jwo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/c5vgj31224kmo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Which clubs did Man City's 'inflated' money flow to in transfer market?
+### 2. Republic of Ireland news conference ends abruptly amid accusations
 
-[原文] BBC Sport follows the trail of transfer money flowing to other clubs during Manchester City's period of financial rule-breaking.
+[原文] Republic of Ireland manager Heimir Hallgrimsson's pre-match news conference ends abruptly as accusations are levelled at his players.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cmew9w451vx8o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cm78p5x6xqq7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ### 3. Pretorius breaks Gayle's T20 record score
 
@@ -186,61 +186,61 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cmq8n2ynqex0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Lewandowski, 38, hits hat-trick in 6-0 Poland win
+### 4. Kartal wins again as Zverev sets up Djokovic tie
 
-[原文] Robert Lewandowski, 38, scores a hat-trick in the Nations League and Edin Dzeko plays his final game for Bosnia-Herzegovina.
+[原文] Great Britain's Sonay Kartal reaches last-32 at the China Open as Alexander Zverev sets up a quarter-final clash against Novak Djokovic in Beijing.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c6vgxe0yxpn8o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cvlyd856kdr8o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Kim wins Asian Games gold to secure military exemption
+### 5. Seven-try Ireland seal consecutive wins over Japan
 
-[原文] Golfer Tom Kim wins gold at the Asian Games to secure an exemption from mandatory service in South Korea's military.
+[原文] Ireland secure a comprehensive 43-19 win over Japan in their international Test at Virgin Media Park in Cork.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-union/articles/c6vgxejkxz1jo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
 ## 🎬 娱乐
 
-> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 244194da-2bda-4030-870c-267d82a20）
+> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 16d992b5-ae90-4419-b57e-6bb159503）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘April X’ Review: Connor Storrie Bides His Time in a Generic Sci-Fi Clone
+### 1. Box Office: ‘Digger’ Nosediving With $3.4 Million on Opening Day, ‘Verity’ Lands at No. 1 With $15.1 Million on Friday
+
+[原文] Not even a Tom Cruise-filled, all-stops-pulled press tour — including a GQ cover, a “New Heights” podcast appearance and a “Risky Business”-inspired jaunt down the “Jennifer Hudson Show” spirit tunnel
+
+📎 [阅读原文](https://variety.com/2026/film/box-office/box-office-digger-verity-resident-evil-primetime-1236895074/) — *Variety*
+
+### 2. Ben Whittaker vs. Conor Wallace: Here’s Where to Watch the Title Eliminator Boxing Match Live Online
+
+[原文] In an IBF light heavyweight title eliminator, promoters Matchroom Boxing goes to England for an epic match between two prime boxers. In the main event, 29-year-old English boxer Ben Whittaker faces 30
+
+📎 [阅读原文](https://variety.com/2026/shopping/news/how-to-watch-ben-whittaker-vs-conor-wallace-boxing-live-online-1236878770/) — *Variety*
+
+### 3. Projeto Paradiso Founder Olga Rabinovich to Receive Inaugural Encounters Award at the São Paulo Film Festival (EXCLUSIVE)
+
+[原文] Philanthropist Olga Rabinovich will receive the inaugural Prêmio Encontros (Encounters Award) at this year’s Encontro de Ideias Audiovisuais, the industry platform of the São Paulo International Film 
+
+📎 [阅读原文](https://variety.com/2026/film/global/projeto-paradiso-olga-rabinovich-encounters-award-sao-paulo-1236898090/) — *Variety*
+
+### 4. Skydance Blasts Off: Can David Ellison Make Paramount-Warner Bros. Merger Fly?
+
+[原文] David Ellison has emerged victorious. And he’s boldly — or arrogantly, if you prefer — decided to name the entertainment giant that he’s bolted together Skydance Corp., nodding to the original name of
+
+📎 [阅读原文](https://variety.com/2026/film/news/skydance-david-ellison-paramount-warner-bros-merger-debt-1236898108/) — *Variety*
+
+### 5. ‘April X’ Review: Connor Storrie Bides His Time in a Generic Sci-Fi Clone
 
 [原文] It would be nice to say that Connor Storrie burns up the screen in &#8220;April X,&#8221; the star&#8217;s first film vehicle released since TV&#8217;s &#8220;Heated Rivalry&#8221; made him hot proper
 
 📎 [阅读原文](https://variety.com/2026/film/news/april-x-review-connor-storrie-1236898072/) — *Variety*
 
-### 2. New York’s Inaugural Muslim Film Festival Aims to Move Past Counter-Narratives, Unveils Lineup, Jury (EXCLUSIVE)
-
-[原文] A festival launching Oct. 11 at Manhattan&#8217;s SVA Theatre is positioning itself as an answer to the flattened, stereotyped picture of Muslims Western media often traffics in. The New York Muslim F
-
-📎 [阅读原文](https://variety.com/2026/film/festivals/new-yorks-muslim-film-festival-counter-narratives-1236898067/) — *Variety*
-
-### 3. ‘Behemoth!’ Review: Pedro Pascal Is a Classical Cellist Skating Through a Midlife Crisis in Tony Gilroy’s Elevated Bauble of a Music Drama
-
-[原文] "Behemoth!" is a classical-musician movie. It’s a midlife-crisis movie. It’s a romantic mystery. It’s Tony Gilroy fiddling around with pure movie form.
-
-📎 [阅读原文](https://variety.com/2026/film/reviews/behemoth-review-pedro-pascal-tony-gilroy-1236897613/) — *Variety*
-
-### 4. George Cheeks May Be Poised for Expanded TV Role at Skydance Post Paramount-Warner Bros. Merger
-
-[原文] Paramount TV media chair George Cheeks, whose domain has included all of CBS in addition to the Paramount cable networks, is said to be in line for an expanded oversight at the newly merged Paramount-
-
-📎 [阅读原文](https://variety.com/2026/tv/news/george-cheeks-tv-role-skydance-paramount-warner-bros-merger-1236897948/) — *Variety*
-
-### 5. ‘Digger’: How Its Big Twist Saves the Movie From Being a Complete Disaster (Opinion)
-
-[原文] SPOILER ALERT: This story contains major spoilers for “Digger,” in theaters now via Warner Bros. When does a bad movie become a fascinating watch? So often the kiss of death for a feature is boredom; 
-
-📎 [阅读原文](https://variety.com/2026/film/opinion/digger-twist-tom-cruise-movie-climate-crisis-1236897583/) — *Variety*
-
 ---
 
 ## 🏥 健康
 
-> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 9a1ab744-7f99-4634-827d-b5f88f5d9）
+> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 8099e81e-13bc-4f28-85eb-42a08a2b5）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -278,88 +278,88 @@
 
 ## 🎮 游戏
 
-> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 389f9510-31ad-479a-be49-c8fef29cd）
+> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 1cdc4bd3-7456-4dee-a29e-409c692ef）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Save Big On Tolkien's Lord of the Rings and Hobbit Books Ahead of Prime Day
+### 1. Carrie, Avatar, and More of the Most Anticipated Movies and TV Shows to Stream in October
+
+[原文] From yet another Mike Flanagan adaptation of a Stephen King story to a Friday the 13th prequel series and the Season 1 finale of Lanterns, here are our picks for what to stream this month.
+
+📎 [阅读原文](https://www.ign.com/articles/carrie-avatar-and-more-of-the-most-anticipated-movies-and-tv-shows-to-stream-in-october) — *IGN*
+
+### 2. Save Big On Tolkien's Lord of the Rings and Hobbit Books Ahead of Prime Day
 
 [原文] From The Silmarillion to The Lord of the Rings and beyond, J.R.R. Tolkien's works are discounted at Amazon right now
 
 📎 [阅读原文](https://www.ign.com/articles/save-big-on-tolkiens-lord-of-the-rings-and-hobbit-books-ahead-of-prime-day) — *IGN*
 
-### 2. Love and Deepspace Devs Issue Warning to Players After Deadly Drink Recipes Go Viral
+### 3. Love and Deepspace Devs Issue Warning to Players After Deadly Drink Recipes Go Viral
 
 [原文] The official social media account for the popular RPG-dating sim Love and Deepspace issued a warning to players after announcing some fictional cocktails with potentially disastrous real-world consequ
 
 📎 [阅读原文](https://www.ign.com/articles/love-and-deepspace-devs-issue-warning-to-players-after-deadly-drink-recipes-go-viral) — *IGN*
 
-### 3. Capcom Announces Plans to Transform the RE Engine Into an AI-Generation Game Engine — ‘Our Goal Is a Future Where We Create Games Together With AI’
+### 4. Capcom Announces Plans to Transform the RE Engine Into an AI-Generation Game Engine — ‘Our Goal Is a Future Where We Create Games Together With AI’
 
 [原文] Resident Evil and Street Fighter developer Capcom revealed some big changes coming to its RE Engine, which they plan to gradually improve and transform into an "AI-generation game engine."
 
 📎 [阅读原文](https://www.ign.com/articles/capcom-announces-plans-to-transform-the-re-engine-into-an-ai-generation-game-engine-our-goal-is-a-future-where-we-create-games-together-with-ai) — *IGN*
 
-### 4. Former NFL Coach Mike Tomlin Is a Hardcore Minecraft Player, Reveals City He Took 12 Years to Build
+### 5. Former NFL Coach Mike Tomlin Is a Hardcore Minecraft Player, Reveals City He Took 12 Years to Build
 
 [原文] Former NFL coach Mike Tomlin spent 19 seasons with the Pittsburgh Steelers and won Super Bowl LXIII, and now he's added another major accomplishment to his resume: becoming a Minecraft YouTuber.
 
 📎 [阅读原文](https://www.ign.com/articles/former-nfl-coach-mike-tomlin-is-a-hardcore-minecraft-player-reveals-city-he-took-12-years-to-build) — *IGN*
 
-### 5. Best Buy Has the ASRock Radeon RX 9070 XT 16GB Graphics Card in Stock for $740
-
-[原文] Nearly as powerful as the GeForce RTX 5070 Ti for hundreds less.
-
-📎 [阅读原文](https://www.ign.com/articles/asrock-radeon-rx-9070-xt-16gb-gpu-deal-september-2026) — *IGN*
-
 ---
 
 ## 🚗 汽车
 
-> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: d0dcd81f-3fed-438c-9219-08097c77c）
+> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: e5273fec-3058-49b4-a85f-d7eeb8ceb）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The 2026 Jeep Wrangler’s New Door Removal System Really Is Much Better
+### 1. Skip the Kei Car and Import This Slammed Chevy Rollback Truck From Japan
+
+[原文] This 454-powered dually has serious style, and can haul a kei truck on its back.
+The post Skip the Kei Car and Import This Slammed Chevy Rollback Truck From Japan appeared first on The Drive.
+
+📎 [阅读原文](https://www.thedrive.com/news/forget-a-kei-car-import-this-slammed-chevy-rollback-truck-from-japan) — *The Drive*
+
+### 2. The 2026 Jeep Wrangler’s New Door Removal System Really Is Much Better
 
 [原文] Jeep added true tool-free quick-release functionality to its doors for 2026, and it's a huge fun-factor improvement.
 The post The 2026 Jeep Wrangler’s New Door Removal System Really Is Much Better app
 
 📎 [阅读原文](https://www.thedrive.com/news/the-2026-jeep-wranglers-new-door-removal-system-really-is-much-better) — *The Drive*
 
-### 2. Ford Gave Up More Than 150,000 Sales To Build Its New Budget EV
+### 3. Ford Gave Up More Than 150,000 Sales To Build Its New Budget EV
 
 [原文] Ford's new entry level EV lineup can't come soon enough.
 The post Ford Gave Up More Than 150,000 Sales To Build Its New Budget EV appeared first on The Drive.
 
 📎 [阅读原文](https://www.thedrive.com/news/ford-gave-up-more-than-150000-sales-to-build-its-new-budget-ev) — *The Drive*
 
-### 3. Bugatti Boss to Euro Car Brands: Ditch Screens and Focus on Luxury, Not China
+### 4. Bugatti Boss to Euro Car Brands: Ditch Screens and Focus on Luxury, Not China
 
 [原文] Mate Rimac delivered a well-articulated tirade against the horrors of today's European cars: big screens, lack of buttons, and a total departure from the luxury brands they once were.
 The post Bugatti
 
 📎 [阅读原文](https://www.thedrive.com/news/bugatti-boss-to-euro-car-brands-ditch-screens-and-focus-on-luxury-not-china) — *The Drive*
 
-### 4. Montana Farm Revives 1977 ‘Big Bud,’ One of the World’s Largest Tractors, for Wheat Harvest
+### 5. Montana Farm Revives 1977 ‘Big Bud,’ One of the World’s Largest Tractors, for Wheat Harvest
 
 [原文] Welker Farms took an old tractor and modernized it with a 700-horsepower Cummins engine that can get work done.
 The post Montana Farm Revives 1977 &#8216;Big Bud,&#8217; One of the World&#8217;s Large
 
 📎 [阅读原文](https://www.thedrive.com/news/montana-farm-revives-1977-big-bud-one-of-the-worlds-largest-tractors-for-wheat-harvest) — *The Drive*
 
-### 5. EV Charging Doesn’t Need to Be as Fast as Gas, Ionna CEO Says
-
-[原文] Ionna CEO Seth Cutler told The Drive nobody rushes through a gas station stop, pointing to Buc-ee's and Wawa—and EV drivers are no different.
-The post EV Charging Doesn&#8217;t Need to Be as Fast as G
-
-📎 [阅读原文](https://www.thedrive.com/news/ev-charging-doesnt-need-to-be-as-fast-as-gas-ionna-ceo-says) — *The Drive*
-
 ---
 
 ## 🌱 环境
 
-> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: d0e5ea6a-00b9-4e12-b196-96cdc4444）
+> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: afe72bca-29db-44b3-b7a9-a1f18ee29）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -397,7 +397,7 @@ The post EV Charging Doesn&#8217;t Need to Be as Fast as G
 
 ## 📚 教育
 
-> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 6d3016f9-e1fb-4145-9029-67c63d603）
+> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 57f0a70e-6b6a-4131-8ba5-06131b9a8）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -435,77 +435,77 @@ The post EV Charging Doesn&#8217;t Need to Be as Fast as G
 
 ## 🎵 音乐
 
-> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 19ee2df9-4f24-4765-af7e-dacd2cd4f）
+> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: bda70b03-9f04-4e9f-82ba-86d01c054）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Zach Bryan Wears ‘Free Palestine’ Shirt at Gillette After Owner Robert Kraft Banned Macklemore
+### 1. Kennedy Center Honors Moving to Washington, D.C. Arena Amid Venue’s Closure
+
+[原文] 2026 show will take place at Capital One Arena, home of basketball and hockey teams, while the performing arts center is "temporarily closed" for the foreseeable future
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/kennedy-center-honors-washington-d-c-arena-venue-closure-1235636463/) — *Rolling Stone*
+
+### 2. See AC/DC Bring Out Dave Grohl for ‘Highway to Hell’ at Power Up Tour’s Final Show
+
+[原文] Foo Fighters served as openers at New Jersey's MetLife Stadium, the last show on AC/DC's itinerary for the foreseeable future, and maybe longer
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/ac-dc-out-dave-grohl-highway-to-hell-power-up-tour-finale-1235636450/) — *Rolling Stone*
+
+### 3. Zach Bryan Wears ‘Free Palestine’ Shirt at Gillette After Owner Robert Kraft Banned Macklemore
 
 [原文] The billionaire owner banned Macklemore from his stadium after the rapper's onstage statements in support of Palestinians
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/zach-bryan-free-palestine-shirt-gillette-stadium-macklemore-1235636423/) — *Rolling Stone*
 
-### 2. Phil Collins Says He ‘Kissed and Made Up’ With Paul McCartney After Snub From Decades Ago
+### 4. Phil Collins Says He ‘Kissed and Made Up’ With Paul McCartney After Snub From Decades Ago
 
 [原文] The musician said he felt slighted by the Beatle after asking him to sign a book in 2002
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/phil-collins-paul-mccartney-snub-made-up-1235636404/) — *Rolling Stone*
 
-### 3. As Matchbox Twenty Mark 30 Years Together, a Look Back at Their Near-Breakup
+### 5. As Matchbox Twenty Mark 30 Years Together, a Look Back at Their Near-Breakup
 
 [原文] Rob Thomas and Paul Doucette talk band tensions, solo careers, Kyle Cook’s exit, and finding their way back to good
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/matchbox-twenty-30-years-yourself-or-someone-like-you-1235635429/) — *Rolling Stone*
 
-### 4. Watch Quiet Riot’s New 23-Year-Old Singer Belt Out ‘Cum On Feel The Noize’ at Debut Concert
-
-[原文] John Torra has basically lived out the plot of the 2001 Mark Wahlberg movie Rock Star by landing a role as the lead singer of one his favorite bands, and nailing it on the first night
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/quiet-riot-new-singer-cum-on-feel-the-noize-1235636026/) — *Rolling Stone*
-
-### 5. Noel Gallagher’s ‘MTV Unplugged’ Acoustic Guitar Fetches $300,000 at Auction
-
-[原文] A Freddie Mercury notebook with handwritten lyrics and a Michael Jackson jacket also drew big bucks at the first day of Propstore’s Music Live Auction
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/noel-gallagher-mtv-unplugged-guitar-300000-auction-1235635985/) — *Rolling Stone*
-
 ---
 
 ## ✈️ 旅游
 
-> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 0700b522-c0d3-48a5-808a-3033ac07f）
+> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 776855b5-3273-4a93-ac7a-9c8e2233b）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. India Now Has a ‘Digital Tourism Stack.’ Can it Fix a Fragmented Market?
+### 1. IAG on Proving AI Value Before Scaling It
+
+[原文] At IAG, AI proves its value in one airline before the Group expands it. Governance goes in from day one. Ben Dias says that’s what gives the Group confidence to scale across markets and brands.
+
+📎 [阅读原文](https://skift.com/2026/10/03/iag-on-proving-ai-value-before-scaling-it/) — *Skift*
+
+### 2. India Now Has a ‘Digital Tourism Stack.’ Can it Fix a Fragmented Market?
 
 [原文] India is betting that open digital infrastructure can make its vast, fragmented tourism supply easier to discover, book and eventually surface through AI.
 
 📎 [阅读原文](https://skift.com/2026/10/03/india-now-has-a-digital-tourism-stack-can-it-fix-a-fragmented-market/) — *Skift*
 
-### 2. Hopper’s Co-Founder and B2B Boss Left The Company
+### 3. Hopper’s Co-Founder and B2B Boss Left The Company
 
 [原文] One source said Dakota Smith had a lot of credibility in the B2B space, Hopper's most important division.
 
 📎 [阅读原文](https://skift.com/2026/10/02/hoppers-co-founder-and-b2b-boss-left-the-company/) — *Skift*
 
-### 3. Hilton Isn’t ‘Blocking’ New AI Agents. But They Can’t Always Get In.
+### 4. Hilton Isn’t ‘Blocking’ New AI Agents. But They Can’t Always Get In.
 
 [原文] Hilton's CEO says he wants to make booking through AI agents easy. For now, Meta's Muse struggles to pull a price from hotel group sites, and OTAs may remain an easier door.
 
 📎 [阅读原文](https://skift.com/2026/10/02/hilton-isnt-blocking-new-ai-agents-but-its-not-always-letting-them-in/) — *Skift*
 
-### 4. How the Tourist Became the Taxpayer of Last Resort
+### 5. How the Tourist Became the Taxpayer of Last Resort
 
 [原文] Tourist taxes are usually sold as a way to manage crowds. Their deeper appeal is political: They raise money from people who cannot vote against the officials spending it.
 
 📎 [阅读原文](https://skift.com/2026/10/02/how-the-tourist-became-the-taxpayer-of-last-resort/) — *Skift*
-
-### 5. Thai Airways CEO Says He Was Pushed Out Due to Bangkok Flood Chaos
-
-[原文] Thai Airways emerged from years of restructuring with ambitious plans to expand its fleet and international network. A flood-driven operational breakdown at its Bangkok hub has now cost its CEO his jo
-
-📎 [阅读原文](https://skift.com/2026/10/02/thai-airways-ceo-says-he-was-pushed-out-due-to-bangkok-flood-chaos/) — *Skift*
 
 ---
 
@@ -528,6 +528,7 @@ The post EV Charging Doesn&#8217;t Need to Be as Fast as G
 ## ⚠️ 今日故障源
 
 - **🚗 汽车**: Autocar
+- **✈️ 旅游**: Nomadic Matt
 
 ---
 
