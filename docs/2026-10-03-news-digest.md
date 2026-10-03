@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年10月03日** | 生成时间: 2026-10-03 05:59
+**2026年10月03日** | 生成时间: 2026-10-03 12:33
 
 ---
 
@@ -12,45 +12,45 @@
 
 ## 🌍 国际政治
 
-> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 6d024491-ed1a-47d2-950f-3aad1ed19）
+> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 87630304-6fc0-42b3-82e9-ac2eca20d）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
 ### 1. G7 to release 100 million barrels of oil and diesel after Trump export ban threat
 
-[原文] The coordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.
+[原文] The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Riot police clash with students as education protests rage in France
-
-[原文] About 735 schools have faced disruption as violent protests over standards and lack of teachers continue.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 3. US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say
+### 2. US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say
 
 [原文] As of Thursday night, Pike remained critically ill and is being treated at a hospital in Nashville, Tennessee.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor
+### 3. Cornell frat house rape accuser 'under siege' online, says lawyer
 
-[原文] The woman, known as Jane Doe, alleges she was raped by seven students at a fraternity house at the university in 2024.
+[原文] A lawyer for Jane Doe says she is "not doing well" amid attempts to uncover her identity.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Intensified Russian strikes are tearing Kyiv apart, warns mayor
+### 4. Riot police clash with students as education protests rage in France
 
-[原文] Vitaliy Klitschko says Ukraine's capital is in a "very dramatic situation" as Russia hits critical infrastructure.
+[原文] About 735 schools have faced disruption as violent protests over standards and lack of teachers continue.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87
+
+[原文] The defeat raises pressure on Sánchez to call a snap election, after a series of scandals affecting his party and allies.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
 ## 💰 经济财经
 
-> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 2a00a9a8-0f55-45ef-a973-259357e66）
+> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 8800e25a-30d6-4720-b62d-d48cf61f1）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -60,73 +60,73 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/10/02/ford-q3-sales.html) — *CNBC*
 
-### 2. Men are losing ground in the labor market. Here's why
-
-[原文] Women outnumbered men in the workforce for eight straight months as of September, according to one analysis.
-
-📎 [阅读原文](https://www.cnbc.com/2026/10/02/men-labor-market-jobs-report.html) — *CNBC*
-
-### 3. FAA says Boeing 737 Max software glitch not a flight-safety issue
+### 2. FAA says Boeing 737 Max software glitch not a flight-safety issue
 
 [原文] The FAA on Monday said it was reviewing the software glitch, which could affect procedures during certain landings.
 
 📎 [阅读原文](https://www.cnbc.com/2026/10/02/faa-says-boeing-737-max-10-software-glitch-not-a-flight-safety-issue.html) — *CNBC*
 
-### 4. DOJ says it will not reopen criminal probe into former Fed Chair Powell
+### 3. Cerebras stock hits post-IPO low, tumbling 20% for the week on Nvidia pressure and lockup expiration
+
+[原文] Cerebras shares hit an all-time low due to pressure from chip giant Nvidia, plus a post-lockup selloff.
+
+📎 [阅读原文](https://www.cnbc.com/2026/10/02/cerebras-stock-hits-post-ipo-low-on-nvidia-pressure-lockup-expiration.html) — *CNBC*
+
+### 4. Men are losing ground in the labor market. Here's why
+
+[原文] Women outnumbered men in the workforce for eight straight months as of September, according to one analysis.
+
+📎 [阅读原文](https://www.cnbc.com/2026/10/02/men-labor-market-jobs-report.html) — *CNBC*
+
+### 5. DOJ says it will not reopen criminal probe into former Fed Chair Powell
 
 [原文] The confirmation comes after the Fed's inspector general report that said there were no grounds for a criminal referral over the mismanaged headquarters renovation.
 
 📎 [阅读原文](https://www.cnbc.com/2026/10/02/doj-says-it-will-not-reopen-criminal-probe-into-former-fed-chair-powell.html) — *CNBC*
 
-### 5. G7 nations to release diesel stocks as wars in Europe and Middle East constrain fuel supplies
-
-[原文] EU countries are set for crisis talks on soaring diesel prices, with officials warning a U.S. export ban could hurt Europe’s economic outlook.
-
-📎 [阅读原文](https://www.cnbc.com/2026/10/02/diesel-oil-trump-europe-export-ban.html) — *CNBC*
-
 ---
 
 ## 💻 科技
 
-> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 746f4346-f3ae-43be-bdde-b7e2b8502）
+> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: b9627f6e-62d2-44b2-b924-1af079ee6）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Sean Parker is rebuilding Stability AI around music
+### 1. Meta wants your next gadget to be Muse-infused
+
+[原文] Meta wants Muse in your TV and your toaster, so it's giving the code away for free.
+
+📎 [阅读原文](https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/) — *TechCrunch*
+
+### 2. Sanders introduces bill to ban the federal government from using Flock
+
+[原文] The proposed legislation would extend to all automotica license plate readers.
+
+📎 [阅读原文](https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/) — *TechCrunch*
+
+### 3. Sean Parker is rebuilding Stability AI around music
 
 [原文] Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.
 
 📎 [阅读原文](https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/) — *TechCrunch*
 
-### 2. Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass
+### 4. Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass
 
 [原文] Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.
 
 📎 [阅读原文](https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/) — *TechCrunch*
 
-### 3. Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents
+### 5. Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents
 
 [原文] Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history risk
 
 📎 [阅读原文](https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/) — *TechCrunch*
 
-### 4. It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)
-
-[原文] This week, the White House got&#160;nearly every&#160;major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them —&#160;to sign an AI safety pledge&#160;that Preside
-
-📎 [阅读原文](https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/) — *TechCrunch*
-
-### 5. TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants
-
-[原文] Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.
-
-📎 [阅读原文](https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/) — *TechCrunch*
-
 ---
 
 ## 🔬 科学
 
-> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 13dd1b4c-599c-4fe3-af80-d5d0dd4c7）
+> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: eed73b25-ffad-4ede-b889-fdafe30c1）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -164,15 +164,15 @@
 
 ## ⚽ 体育
 
-> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: fd92ff2b-c6da-48e9-945e-cb2040072）
+> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 5b353a25-1baa-4253-b204-e22a511b2）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Man City confirm appeal against guilty verdict
+### 1. Which clubs did Man City's 'inflated' money flow to in transfer market?
 
-[原文] The club's statement says the ruling contains "clear material errors, of law, principle and fact, and is unsafe".
+[原文] BBC Sport follows the trail of transfer money flowing to other clubs during Manchester City's period of financial rule-breaking.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cqn7470513n0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cmew9w451vx8o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ### 2. Man City whistleblower to lose witness protection
 
@@ -180,67 +180,67 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cxyvrp78ddvqo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Bath gain revenge on Exeter to win 11-try thriller
+### 3. Who has 'no ceiling' as Northern Ireland shine in Nations League?
+
+[原文] After an impressive 3-0 victory over Ukraine in the Nations League, Northern Ireland manager Michael O'Neill was impressed with his young side.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cwjdmk3j5xleo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. Bath gain revenge on Exeter to win 11-try thriller
 
 [原文] After losing to Exeter at home in the Prem semi-final last season, Bath beat the Chiefs 40-34 in another thriller.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-union/articles/c8r4vg227kvzo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Sabalenka 'trying hard to be easier on myself'
+### 5. Sabalenka 'trying hard to be easier on myself'
 
 [原文] Aryna Sabalenka says she is "trying so hard to be easier on myself" as she begins her China Open campaign with victory over Renata Zarazua.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/c52e9dkmm7ylo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Will Warrington or Wakefield be Super League's sixth winner?
-
-[原文] Only five clubs have lifted the trophy in a Super League Grand Final - Warrington and Wakefield now have the chance to add their name to that list.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-league/articles/cwe8e5klvx1jo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
 ---
 
 ## 🎬 娱乐
 
-> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: e0f97792-3746-434e-a71f-86e3e2b21）
+> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: c9294825-c561-460a-b6ec-4a6cf6a8b）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. 17 Best New Movies Streaming in October: ’The Invite,’ ‘Disclosure Day,’ ‘Evil Dead Burn’ and More
+### 1. New York’s Inaugural Muslim Film Festival Aims to Move Past Counter-Narratives, Unveils Lineup, Jury (EXCLUSIVE)
 
-[原文] October is Halloween movie season, so it&#8217;s the perfect time for two of the year&#8217;s high-profile horror releases to debut on streaming platforms. &#8220;Evil Dead Burn,&#8221; the extremely 
+[原文] A festival launching Oct. 11 at Manhattan&#8217;s SVA Theatre is positioning itself as an answer to the flattened, stereotyped picture of Muslims Western media often traffics in. The New York Muslim F
 
-📎 [阅读原文](https://variety.com/lists/best-movies-streaming-october-2026/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/new-yorks-muslim-film-festival-counter-narratives-1236898067/) — *Variety*
 
-### 2. ‘Celebrity Traitors’ Star Richard E. Grant Accidentally Reveals He’s a Traitor to Cast in Premiere, Calls It the ‘Biggest Mistake I’ve Made in My Life’
+### 2. ‘Behemoth!’ Review: Pedro Pascal Is a Classical Cellist Skating Through a Midlife Crisis in Tony Gilroy’s Elevated Bauble of a Music Drama
 
-[原文] Richard E. Grant almost immediately blew his chances on this season of &#8220;Celebrity Traitors&#8221; in what he calls the &#8220;biggest mistake I’ve made in my life.&#8221; In the first episode of
+[原文] "Behemoth!" is a classical-musician movie. It’s a midlife-crisis movie. It’s a romantic mystery. It’s Tony Gilroy fiddling around with pure movie form.
 
-📎 [阅读原文](https://variety.com/2026/tv/news/celebrity-traitors-richard-e-grant-reveals-traitor-premiere-1236897863/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/reviews/behemoth-review-pedro-pascal-tony-gilroy-1236897613/) — *Variety*
 
-### 3. European Entertainment Leaders Mostly Optimistic About David Ellison’s Takeover of Warner Bros. : ‘I Believe in His Commitment to Cinema’
+### 3. George Cheeks May Be Poised for Expanded TV Role at Skydance Post Paramount-Warner Bros. Merger
 
-[原文] After nearly a year of dealmaking drama, Paramount Skydance&#8217;s takeover of Warner Bros. Discovery is about to become reality. Across Europe, where the Paramount chief David Ellison has spent time
+[原文] Paramount TV media chair George Cheeks, whose domain has included all of CBS in addition to the Paramount cable networks, is said to be in line for an expanded oversight at the newly merged Paramount-
 
-📎 [阅读原文](https://variety.com/2026/film/news/europe-leaders-optimistic-paramount-warner-bros-takeover-1236897580/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/george-cheeks-tv-role-skydance-paramount-warner-bros-merger-1236897948/) — *Variety*
 
-### 4. Skydance Says It’s Committed to L.A., but Threat to Leave Has Proved Potent
+### 4. ‘Digger’: How Its Big Twist Saves the Movie From Being a Complete Disaster (Opinion)
 
-[原文] Skydance is officially L.A.’s newest Fortune 500 company — but for how long? In a message to employees last week, CEO David Ellison said he is committed to keeping the company in Hollywood: “We aren’t
+[原文] SPOILER ALERT: This story contains major spoilers for “Digger,” in theaters now via Warner Bros. When does a bad movie become a fascinating watch? So often the kiss of death for a feature is boredom; 
 
-📎 [阅读原文](https://variety.com/2026/film/news/skydance-los-angeles-threat-leave-headquarters-1236897717/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/opinion/digger-twist-tom-cruise-movie-climate-crisis-1236897583/) — *Variety*
 
-### 5. How to Watch Jordan Orozco Hernandez vs. Yusniel Abrahante Boxing Live Online
+### 5. John Leguizamo Has a Message for David Ellison: ‘Think of What Americans Need and What the Industry Needs’
 
-[原文] This weekend, boxing promoters Boxlab travels to Central Florida for another prime bout between two elite fighters. Nicaraguan boxer Jordan Orozco Hernandez goes head-to-head against Puerto Rican figh
+[原文] John Leguizamo is speaking out about the Paramount and Warner Bros. merger, and he&#8217;s imploring David Ellison to consider what the industry needs as he takes over the new Skydance. &#8220;Come on
 
-📎 [阅读原文](https://variety.com/2026/shopping/news/how-to-watch-hernandez-vs-abrahante-boxing-live-online-1236878217/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/john-leguizamo-message-david-ellison-what-americans-need-1236897710/) — *Variety*
 
 ---
 
 ## 🏥 健康
 
-> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: b5a7f51e-9ae5-42c7-97ca-1ee8baa9e）
+> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 3ff6c46c-a981-4cdc-b706-5a1e77def）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -278,45 +278,45 @@
 
 ## 🎮 游戏
 
-> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 617ecacb-3bdb-41fb-adb7-83f72ce15）
+> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: fff11635-1654-428f-8502-b8181e236）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Lanterns: Who Killed Hal Jordan and More of Our Biggest Questions Heading Into the Finale
+### 1. Love and Deepspace Devs Issue Warning to Players After Deadly Drink Recipes Go Viral
 
-[原文] Who killed Hal Jordan? Is Hal Jordan even dead!? What's up with Sinestro and that planet? We have so many questions heading into the Lanterns season finale...
+[原文] The official social media account for the popular RPG-dating sim Love and Deepspace issued a warning to players after announcing some fictional cocktails with potentially disastrous real-world consequ
 
-📎 [阅读原文](https://www.ign.com/articles/lanterns-who-killed-hal-jordan-and-more-of-our-biggest-questions-heading-into-the-finale) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/love-and-deepspace-devs-issue-warning-to-players-after-deadly-drink-recipes-go-viral) — *IGN*
 
-### 2. Vibe-Coded Mashup Mods Have Taken Over X This Week
+### 2. Capcom Announces Plans to Transform the RE Engine Into an AI-Generation Game Engine — ‘Our Goal Is a Future Where We Create Games Together With AI’
 
-[原文] I have spent the last three days scrolling through some of the most insane mod videos I've ever seen. Modders are taking games that have been decompiled with Claude, and mashing them up with other gam
+[原文] Resident Evil and Street Fighter developer Capcom revealed some big changes coming to its RE Engine, which they plan to gradually improve and transform into an "AI-generation game engine."
 
-📎 [阅读原文](https://www.ign.com/articles/vibe-coded-mashup-mods-have-taken-over-x-this-week) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/capcom-announces-plans-to-transform-the-re-engine-into-an-ai-generation-game-engine-our-goal-is-a-future-where-we-create-games-together-with-ai) — *IGN*
 
-### 3. Upcoming LEGO Sets: Release Dates for 2026 and Beyond
+### 3. Former NFL Coach Mike Tomlin Is a Hardcore Minecraft Player, Reveals City He Took 12 Years to Build
 
-[原文] A frequently updated list of all the biggest upcoming LEGO sets, along with their release dates, pricing, and more.
+[原文] Former NFL coach Mike Tomlin spent 19 seasons with the Pittsburgh Steelers and won Super Bowl LXIII, and now he's added another major accomplishment to his resume: becoming a Minecraft YouTuber.
 
-📎 [阅读原文](https://www.ign.com/articles/upcoming-lego-set-release-dates) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/former-nfl-coach-mike-tomlin-is-a-hardcore-minecraft-player-reveals-city-he-took-12-years-to-build) — *IGN*
 
-### 4. Verity Review
+### 4. Best Buy Has the ASRock Radeon RX 9070 XT 16GB Graphics Card in Stock for $740
 
-[原文] Verity review: A veritable mess starring Anne Hathaway, Dakota Johnson, and Josh Hartnett.
+[原文] Nearly as powerful as the GeForce RTX 5070 Ti for hundreds less.
 
-📎 [阅读原文](https://www.ign.com/articles/verity-review) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/asrock-radeon-rx-9070-xt-16gb-gpu-deal-september-2026) — *IGN*
 
-### 5. Walmart Has a 512GB Nintendo Switch 2 Memory Card for $85, Possibly $10 Less With Unadvertised Coupon
+### 5. Disney Says Conversations About Buying Epic Games Are Not Happening 'Right Now'
 
-[原文] You'll need to get this sooner or later if you're an avid Switch gamer.
+[原文] Disney has responded after rumors suggested it was interested in buying Fortnite developer Epic Games.
 
-📎 [阅读原文](https://www.ign.com/articles/best-microsd-express-memory-card-deal-for-nintendo-switch-2-october-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/disney-says-conversations-about-buying-epic-games-are-not-happening-right-now) — *IGN*
 
 ---
 
 ## 🚗 汽车
 
-> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 412e9d98-744d-4d4f-8a1f-5bd4f5269）
+> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: d96f2a57-8461-4d6a-be9a-85b342b60）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -359,45 +359,45 @@ The post EV Charging Doesn&#8217;t Need to Be as Fast as G
 
 ## 🌱 环境
 
-> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: fa10578e-b5b3-4670-888a-b0115ecf8）
+> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 6b7b4c9f-f029-4f3e-b85e-45162836f）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Europe’s Extreme Summer Triggered Cascading Climate Shocks
+### 1. Federal Judge Slams the Brakes on Big Bend Border Wall Construction
+
+[原文] EL PASO—Federal Judge Kathleen Cardone granted a preliminary injunction Friday to halt construction on the border wall in Texas’ expansive Big Bend sector, including the national and state parks. Card
+
+📎 [阅读原文](https://insideclimatenews.org/news/02102026/federal-judge-halts-big-bend-border-wall-construction/) — *Inside Climate News*
+
+### 2. Europe’s Extreme Summer Triggered Cascading Climate Shocks
 
 [原文] During this past summer of climate extremes, more than half of Europe experienced dangerous levels of heat stress, the combined effect of temperature, humidity, wind and sunshine on the body’s ability
 
 📎 [阅读原文](https://insideclimatenews.org/news/02102026/europe-record-heat-climate-shocks/) — *Inside Climate News*
 
-### 2. Long-Awaited Senate Deal to Speed Permitting Faces Familiar Hurdles
+### 3. Long-Awaited Senate Deal to Speed Permitting Faces Familiar Hurdles
 
 [原文] The so-called “lame duck” session of Congress after November’s midterm elections could be momentous for clean energy as lawmakers are set to consider a long-sought bipartisan deal to speed permitting 
 
 📎 [阅读原文](https://insideclimatenews.org/news/02102026/senate-introduces-energy-permitting-bill/) — *Inside Climate News*
 
-### 3. 21 States Sue EPA to Reinstate Climate Pollution Rules for Power Plants
+### 4. 21 States Sue EPA to Reinstate Climate Pollution Rules for Power Plants
 
 [原文] More than 20 states, including North Carolina, New York, California and Pennsylvania, as well as several cities, are suing the U.S. Environmental Protection Agency over its repeal of most greenhouse g
 
 📎 [阅读原文](https://insideclimatenews.org/news/02102026/states-sue-epa-over-power-plant-pollution-rules/) — *Inside Climate News*
 
-### 4. New Jersey’s Middlesex County Sues Big Oil Over Escalating Climate Impacts
+### 5. New Jersey’s Middlesex County Sues Big Oil Over Escalating Climate Impacts
 
 [原文] A New Jersey county has become the latest local government to sue major oil and gas companies, seeking to recover costs from damage caused by worsening flooding and other climate change impacts.&#160;
 
 📎 [阅读原文](https://insideclimatenews.org/news/02102026/middlesex-county-new-jersey-sues-big-oil/) — *Inside Climate News*
 
-### 5. As Negotiators Struggle to Advance a Plastics Treaty, Iran War Underscores the Urgency
-
-[原文] As nations met this week in Bangkok for informal meetings on a United Nations plastics treaty, more than 70 developing countries supported addressing all causes and drivers of plastic pollution, envir
-
-📎 [阅读原文](https://insideclimatenews.org/news/02102026/un-plastics-treaty-urgency-underscored-by-iran-war/) — *Inside Climate News*
-
 ---
 
 ## 📚 教育
 
-> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: a8022354-1a2d-4e4b-991e-a6e8dadcc）
+> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 2aab1a2e-83b4-470b-830a-cdf2d1166）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -435,77 +435,77 @@ The post EV Charging Doesn&#8217;t Need to Be as Fast as G
 
 ## 🎵 音乐
 
-> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 645417ba-2bc9-4633-ae02-626f6a751）
+> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 1befbee0-d165-472f-bd27-4c686a801）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. As Matchbox Twenty Mark 30 Years Together, a Look Back at Their Near-Breakup
+### 1. Phil Collins Says He ‘Kissed and Made Up’ With Paul McCartney After Snub From Decades Ago
+
+[原文] The musician said he felt slighted by the Beatle after asking him to sign a book in 2002
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/phil-collins-paul-mccartney-snub-made-up-1235636404/) — *Rolling Stone*
+
+### 2. As Matchbox Twenty Mark 30 Years Together, a Look Back at Their Near-Breakup
 
 [原文] Rob Thomas and Paul Doucette talk band tensions, solo careers, Kyle Cook’s exit, and finding their way back to good
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/matchbox-twenty-30-years-yourself-or-someone-like-you-1235635429/) — *Rolling Stone*
 
-### 2. Watch Quiet Riot’s New 23-Year-Old Singer Belt Out ‘Cum On Feel The Noize’ at Debut Concert
+### 3. Watch Quiet Riot’s New 23-Year-Old Singer Belt Out ‘Cum On Feel The Noize’ at Debut Concert
 
 [原文] John Torra has basically lived out the plot of the 2001 Mark Wahlberg movie Rock Star by landing a role as the lead singer of one his favorite bands, and nailing it on the first night
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/quiet-riot-new-singer-cum-on-feel-the-noize-1235636026/) — *Rolling Stone*
 
-### 3. Noel Gallagher’s ‘MTV Unplugged’ Acoustic Guitar Fetches $300,000 at Auction
+### 4. Noel Gallagher’s ‘MTV Unplugged’ Acoustic Guitar Fetches $300,000 at Auction
 
 [原文] A Freddie Mercury notebook with handwritten lyrics and a Michael Jackson jacket also drew big bucks at the first day of Propstore’s Music Live Auction
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/noel-gallagher-mtv-unplugged-guitar-300000-auction-1235635985/) — *Rolling Stone*
 
-### 4. Stray Kids Join BTS in Grammy Submission Boycott
+### 5. Stray Kids Join BTS in Grammy Submission Boycott
 
 [原文] The group previously sidestepped questions about the introduction of the Best Asian Pop Performance category, which will proceed as planned at next year’s Grammys
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/stray-kids-bts-grammy-submission-boycott-1235635788/) — *Rolling Stone*
 
-### 5. Watch Sienna Spiro Bring ‘Die on This Hill’ to ‘Austin City Limits’
-
-[原文] The 21-year-old singer-songwriter performed an hour-long set including songs from her debut album, Visitor, that have shaped her breakout year
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/sienna-spiro-die-on-this-hill-austin-city-limits-1235634762/) — *Rolling Stone*
-
 ---
 
 ## ✈️ 旅游
 
-> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 602326e3-1e16-4405-a58d-196fd9c05）
+> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 16d2b966-2b31-4bb8-943a-f0a5a8661）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Hilton Isn’t ‘Blocking’ New AI Agents. But They Can’t Always Get In.
+### 1. Hopper’s Co-Founder and B2B Boss Left The Company
+
+[原文] One source said Dakota Smith had a lot of credibility in the B2B space, Hopper's most important division.
+
+📎 [阅读原文](https://skift.com/2026/10/02/hoppers-co-founder-and-b2b-boss-left-the-company/) — *Skift*
+
+### 2. Hilton Isn’t ‘Blocking’ New AI Agents. But They Can’t Always Get In.
 
 [原文] Hilton's CEO says he wants to make booking through AI agents easy. For now, Meta's Muse struggles to pull a price from hotel group sites, and OTAs may remain an easier door.
 
 📎 [阅读原文](https://skift.com/2026/10/02/hilton-isnt-blocking-new-ai-agents-but-its-not-always-letting-them-in/) — *Skift*
 
-### 2. How the Tourist Became the Taxpayer of Last Resort
+### 3. How the Tourist Became the Taxpayer of Last Resort
 
 [原文] Tourist taxes are usually sold as a way to manage crowds. Their deeper appeal is political: They raise money from people who cannot vote against the officials spending it.
 
 📎 [阅读原文](https://skift.com/2026/10/02/how-the-tourist-became-the-taxpayer-of-last-resort/) — *Skift*
 
-### 3. Thai Airways CEO Says He Was Pushed Out Due to Bangkok Flood Chaos
+### 4. Thai Airways CEO Says He Was Pushed Out Due to Bangkok Flood Chaos
 
 [原文] Thai Airways emerged from years of restructuring with ambitious plans to expand its fleet and international network. A flood-driven operational breakdown at its Bangkok hub has now cost its CEO his jo
 
 📎 [阅读原文](https://skift.com/2026/10/02/thai-airways-ceo-says-he-was-pushed-out-due-to-bangkok-flood-chaos/) — *Skift*
 
-### 4. What Does It Take to Get Travel AI Out of the Pilot Stage?
+### 5. What Does It Take to Get Travel AI Out of the Pilot Stage?
 
 [原文] A pilot can demonstrate that AI performs a task. Putting it into a travel business requires someone to own the results, handle the exceptions and show that it is worth the cost.
 
 📎 [阅读原文](https://skift.com/2026/10/02/what-does-it-take-to-get-travel-ai-out-of-the-pilot-stage/) — *Skift*
-
-### 5. Airline Wi-Fi Has a Lie-Flat Seat Problem
-
-[原文] United has a real lead with Starlink and is smart to make as much noise about it as possible. Travel history suggests the lead won't last nearly as long as the enthusiasm around it.
-
-📎 [阅读原文](https://skift.com/2026/10/01/airline-wi-fi-has-a-lie-flat-seat-problem/) — *Skift*
 
 ---
 
