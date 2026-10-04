@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年10月04日** | 生成时间: 2026-10-04 13:03
+**2026年10月04日** | 生成时间: 2026-10-04 20:00
 
 ---
 
@@ -12,33 +12,33 @@
 
 ## 🌍 国际政治
 
-> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: dd0a733f-5e11-4edd-b514-752ad989c）
+> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 0b27b117-c0d9-4bba-87f1-302cfb3ac）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Tennessee prison chief to resign after Christa Pike's failed execution
+### 1. Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit
+
+[原文] Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Australia investigating Flydubai co-pilot's links to country
+
+[原文] State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. Tennessee prison chief to resign after Christa Pike's failed execution
 
 [原文] Pike's lawyers said the failure "goes far beyond any one person". Pike is in critical condition after surviving two lethal injections.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Cornell president says university 'must do better' after frat house rape allegations
+### 4. Cornell president says university 'must do better' after frat house rape allegations
 
 [原文] Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as "deeply disturbing".
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 3. Flydubai co-pilot attacked captain with axe, UAE official says
-
-[原文] The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Russia hits second major bridge in Ukraine's capital Kyiv
-
-[原文] The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 5. 'Anger in the streets': Tens of thousands protest in Spain over housing crisis
 
@@ -50,45 +50,45 @@
 
 ## 💰 经济财经
 
-> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 14d850c8-58e8-4854-914e-48f2e340e）
+> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 2503c1dd-8010-424c-a607-ef8e6cfa2）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Tesla’s Cybercab had a rocky first month in Austin. Now comes the hard part: expanding
+### 1. Trump taps Director of National Intelligence Jay Clayton as AI czar
 
-[原文] Elon Musk's effort to move beyond auto sales largely relies on the success of his company's Cybercab, which launched in Austin a month ago.
-
-📎 [阅读原文](https://www.cnbc.com/2026/10/03/tesla-cybercab-pressure-to-expand-after-rocky-first-month-in-austin.html) — *CNBC*
-
-### 2. David Ellison just brought in a co-CEO to run his new empire: Meet Ynon Kreiz
-
-[原文] Ynon Kreiz's appointment as co-CEO of Skydance answers a key governance question for Ellison's soon-to-be-merged company.
-
-📎 [阅读原文](https://www.cnbc.com/2026/10/03/david-ellison-ynon-kreiz-skydance.html) — *CNBC*
-
-### 3. Trump taps Director of National Intelligence Jay Clayton as AI czar: WSJ reports
-
-[原文] Director of National Intelligence Jay Clayton will lead the administration's AI policy, The Wall Street Journal reported on Saturday.
+[原文] Director of National Intelligence Jay Clayton will lead the administration's AI policy.
 
 📎 [阅读原文](https://www.cnbc.com/2026/10/03/trump-jay-clayton-ai-czar.html) — *CNBC*
 
-### 4. FlyDubai plane attack by co-pilot was an attempted 'terrorist' act, UAE says
+### 2. Ukraine’s surprise robot offensive exposes a vulnerability in Putin’s war machine
 
-[原文] The FlyDubai co-pilot attacked the pilot inside the cockpit with a crash axe and attempted to take control of the aircraft, the UAE prosecutor general said.
+[原文] Experts say the offensive is not a decisive breakthrough, but demonstrates how Ukraine’s expanding use of robotic systems is reshaping frontline warfare.
 
-📎 [阅读原文](https://www.cnbc.com/2026/10/03/flydubai-co-pilot-attacked-pilot-with-axe-uae-says.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/04/russia-ukraine-war-putin-zelenskyy-donbas-lyman.html) — *CNBC*
 
-### 5. Berkshire buys more Lennar shares, but pace of purchases slows
+### 3. Berkshire buys more Lennar shares, but pace of purchases slows
 
 [原文] Berkshire Hathaway added to its bet on Lennar this week, raising its stake in the homebuilder to 11.2%, although the pace of its buying appears to be slowing.
 
 📎 [阅读原文](https://www.cnbc.com/2026/10/03/berkshire-buys-more-lennar-shares-but-pace-of-purchases-slows.html) — *CNBC*
 
+### 4. David Ellison just brought in a co-CEO to run his new empire: Meet Ynon Kreiz
+
+[原文] Ynon Kreiz's appointment as co-CEO of Skydance answers a key governance question for Ellison's soon-to-be-merged company.
+
+📎 [阅读原文](https://www.cnbc.com/2026/10/03/david-ellison-ynon-kreiz-skydance.html) — *CNBC*
+
+### 5. Tesla’s Cybercab had a rocky first month in Austin. Now comes the hard part: expanding
+
+[原文] Elon Musk's effort to move beyond auto sales largely relies on the success of his company's Cybercab, which launched in Austin a month ago.
+
+📎 [阅读原文](https://www.cnbc.com/2026/10/03/tesla-cybercab-pressure-to-expand-after-rocky-first-month-in-austin.html) — *CNBC*
+
 ---
 
 ## 💻 科技
 
-> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: be53e748-117c-4332-b120-1b659f166）
+> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 4108f78a-f652-461e-9997-81016421c）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -126,7 +126,7 @@
 
 ## 🔬 科学
 
-> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: ba3e14c0-6ca9-401c-95d3-8fd90f718）
+> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 948ae709-bbf6-4eb4-86e3-db9ee12e9）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -164,45 +164,45 @@
 
 ## ⚽ 体育
 
-> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: c9987b5f-cb57-44ae-a2b3-47102f704）
+> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 7e077255-fb3b-499e-bdf1-c0145f775）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Bellingham unlocks new level and potential to be 'one of the greatest'
+### 1. Verstappen wins in Malaysia after long delays as Russell retires
+
+[原文] Max Verstappen takes his and Red Bull's first win of the year with a dominant drive in a dramatic Bahrain Grand Prix in Malaysia that started amid chaotic and unprecedented scenes.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/c5n49zx3zlvwo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. Bellingham unlocks new level and potential to be 'one of the greatest'
 
 [原文] Jude Bellingham's international future was being called into question a year ago, but now he is regarded as potentially one of England's "greatest of all time".
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cv5yn8znyx2ro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Two going on four, five or six on good night for new Scotland era
+### 3. Bowie seizing Scotland shot after World Cup disappointment
 
-[原文] Scotland scored twice in North Macedonia but the scoreline does not reflect their dominance in Skopje, writes Tom English.
+[原文] BBC Scotland speaks to Kieron Bowie after he scores his first goal for his country against North Macedonia.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cx7vp540g75mo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c5djvw4n8vp8o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Wakefield beat Warrington to win Super League
+### 4. 'An unbelievable story' - inside unfancied Wakefield's rapid ascent
 
-[原文] Wakefield Trinity end a 58-year wait to be champions as they claim a deserved Grand Final success over Warrington Wolves at Old Trafford.
+[原文] Wakefield's stars of yesteryear are remembered in sepia but now the class of 2026 has added glorious colour to their success after winning a previously unfathomable Super League title.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-league/articles/c39w4w7pzqv4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-league/articles/ckpq0r02lz81o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Who was the best player on the pitch? - England player ratings
+### 5. Modric 'ashamed' of Croatia's 'catastrophic night'
 
-[原文] England produce one of their best performances in recent times as they thump Croatia 6-0 in Rijeka. How did our report rate the players' performances?
+[原文] Croatia captain Luka Modric says he was "ashamed" of his side's performance on a "catastrophic night" against England.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cq4g1x8znyd0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. 'Incredible' Red Bull upgrade enlivens F1 in Malaysia
-
-[原文] Even Lewis Hamilton fears Max Verstappen will be tough to beat in Sunday's Bahrain Grand Prix in Malaysia.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/c5vgj31224kmo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cwzrdm3lyk21o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
 ## 🎬 娱乐
 
-> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 93f03d6c-6b62-454c-ac36-46920eb69）
+> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: b31a0794-9be9-40af-8154-91de5b87d）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -240,7 +240,7 @@
 
 ## 🏥 健康
 
-> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 881b2128-42e3-4b7d-89f2-718c81f89）
+> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: ed9ddb9b-395e-4779-be46-3dace5ba8）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -278,7 +278,7 @@
 
 ## 🎮 游戏
 
-> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 6c83aba6-1ef8-486a-9be0-7a5cd222a）
+> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: f3d81ff1-cd36-48e7-b363-02ae2b28d）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -316,7 +316,7 @@
 
 ## 🚗 汽车
 
-> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 6b35d7bb-d60c-4a1a-9c86-0ff8fae86）
+> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 592089ba-3412-4afd-8511-22f8d462c）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -359,45 +359,45 @@ The post Skip the Kei Car and Import This Slammed Chevy Rollback Truck From Japa
 
 ## 🌱 环境
 
-> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: e967e7f8-5005-45bd-b435-9f1a9ec9d）
+> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 1038f0ad-2429-45ef-adf8-2d9ebb07b）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘Nature-Based’ Solutions Could Save Insurers and Policyholders Billions
+### 1. New California Law Aims to Stop ‘Predatory’ Developers from Moving In on Wildfire-Ravaged Community
+
+[原文] ALTADENA, Calif.—Sylvie Andrews walks among the brilliant white poppies, purple California grapes and olive-green thorns surrounding her yard’s blackened pizza oven—one of the only things that survive
+
+📎 [阅读原文](https://insideclimatenews.org/news/04102026/california-law-aims-to-stop-predatory-developers-after-disasters/) — *Inside Climate News*
+
+### 2. A Colorado Water Trial Could Decide the Future of an Agricultural Valley
+
+[原文] Water regulators and farmers in Colorado’s San Luis Valley are in a lose-lose situation. Either they adopt a plan to aggressively manage the use of groundwater from their rapidly declining aquifer, li
+
+📎 [阅读原文](https://insideclimatenews.org/news/04102026/san-luis-valley-water-trial/) — *Inside Climate News*
+
+### 3. ‘Nature-Based’ Solutions Could Save Insurers and Policyholders Billions
 
 [原文] After years trudging through marshes around San Francisco Bay studying conservation practices, coastal ecologist Megan Kelso realized that one of the largest determinants of wetland health may not be 
 
 📎 [阅读原文](https://insideclimatenews.org/news/03102026/nature-protections-could-drive-down-home-insurance-costs/) — *Inside Climate News*
 
-### 2. SEC Move Would Make it Harder for Shareholders to Push Companies on Climate Action
+### 4. SEC Move Would Make it Harder for Shareholders to Push Companies on Climate Action
 
 [原文] The U.S. Securities and Exchange Commission wants to scrap a rule that allows shareholders to formally petition companies, one of the ways that shareholder advocacy groups have pressed for more action
 
 📎 [阅读原文](https://insideclimatenews.org/news/03102026/sec-shareholder-proposals-rule-change-climate-action/) — *Inside Climate News*
 
-### 3. Our Future Might Be Darker—and That’s a Good Thing
+### 5. Our Future Might Be Darker—and That’s a Good Thing
 
 [原文] From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Jenni Doering with author Craig Childs. Think about the darkest sky you’ve ever seen. Did yo
 
 📎 [阅读原文](https://insideclimatenews.org/news/03102026/dark-sky-future/) — *Inside Climate News*
 
-### 4. Federal Judge Slams the Brakes on Big Bend Border Wall Construction
-
-[原文] EL PASO—Federal Judge Kathleen Cardone granted a preliminary injunction Friday to halt construction on the border wall in Texas’ expansive Big Bend sector, including the national and state parks. Card
-
-📎 [阅读原文](https://insideclimatenews.org/news/02102026/federal-judge-halts-big-bend-border-wall-construction/) — *Inside Climate News*
-
-### 5. Europe’s Extreme Summer Triggered Cascading Climate Shocks
-
-[原文] During this past summer of climate extremes, more than half of Europe experienced dangerous levels of heat stress, the combined effect of temperature, humidity, wind and sunshine on the body’s ability
-
-📎 [阅读原文](https://insideclimatenews.org/news/02102026/europe-record-heat-climate-shocks/) — *Inside Climate News*
-
 ---
 
 ## 📚 教育
 
-> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: d7e3e7e4-5f5b-44df-bf6c-8543024bb）
+> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 82a3d785-3345-4218-b16c-a2654128f）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -435,45 +435,45 @@ The post Skip the Kei Car and Import This Slammed Chevy Rollback Truck From Japa
 
 ## 🎵 音乐
 
-> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 204a7c87-ac4e-4e82-83fe-1fd350332）
+> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 4ee33e67-13c9-433d-b019-9bba6a561）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Paul McCartney Reveals Why He Performed at Taylor Swift’s Wedding: ‘She Asked Me to Do It’
+### 1. ‘SNL’: Watch Turnstile Perform ‘Birds,’ Medley from Album ‘Never Enough’
+
+[原文] Hardcore Baltimore band debuts on SNL with three songs from their Grammy-winning album
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/snl-watch-turnstile-perform-birds-medley-album-never-enough-1235636456/) — *Rolling Stone*
+
+### 2. Paul McCartney Reveals Why He Performed at Taylor Swift’s Wedding: ‘She Asked Me to Do It’
 
 [原文] Beatles legend also talks about banning Larry David from his concerts after he refused to sing along to "Hey Jude" on Jimmy Kimmel Live
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/paul-mccartney-taylor-swift-wedding-larry-david-kimmel-1235636499/) — *Rolling Stone*
 
-### 2. See AOC, Bernie Sanders Introduce the Strokes at Queens Concert
+### 3. See AOC, Bernie Sanders Introduce the Strokes at Queens Concert
 
 [原文] Vermont senator praises band for "standing up for economic justice, fighting racism, and understanding that healthcare is a human right"
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/aoc-bernie-sanders-introduce-the-strokes-queens-concert-1235636485/) — *Rolling Stone*
 
-### 3. Kennedy Center Honors Moving to Washington, D.C. Arena Amid Venue’s Closure
+### 4. Kennedy Center Honors Moving to Washington, D.C. Arena Amid Venue’s Closure
 
 [原文] 2026 show will take place at Capital One Arena, home of basketball and hockey teams, while the performing arts center is "temporarily closed" for the foreseeable future
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/kennedy-center-honors-washington-d-c-arena-venue-closure-1235636463/) — *Rolling Stone*
 
-### 4. See AC/DC Bring Out Dave Grohl for ‘Highway to Hell’ at Power Up Tour’s Final Show
+### 5. See AC/DC Bring Out Dave Grohl for ‘Highway to Hell’ at Power Up Tour’s Final Show
 
 [原文] Foo Fighters served as openers at New Jersey's MetLife Stadium, the last show on AC/DC's itinerary for the foreseeable future, and maybe longer
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/ac-dc-out-dave-grohl-highway-to-hell-power-up-tour-finale-1235636450/) — *Rolling Stone*
 
-### 5. Zach Bryan Wears ‘Free Palestine’ Shirt at Gillette After Owner Robert Kraft Banned Macklemore
-
-[原文] The billionaire owner banned Macklemore from his stadium after the rapper's onstage statements in support of Palestinians
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/zach-bryan-free-palestine-shirt-gillette-stadium-macklemore-1235636423/) — *Rolling Stone*
-
 ---
 
 ## ✈️ 旅游
 
-> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: b38cc3db-b7ef-4a1e-bdc1-dbdef606c）
+> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 325bb686-2320-4252-b4d5-d93895cb7）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
