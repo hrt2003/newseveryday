@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年10月04日** | 生成时间: 2026-10-04 04:47
+**2026年10月04日** | 生成时间: 2026-10-04 13:03
 
 ---
 
@@ -12,7 +12,7 @@
 
 ## 🌍 国际政治
 
-> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 768d742c-1a31-4c85-9a2b-b488d1ee0）
+> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: dd0a733f-5e11-4edd-b514-752ad989c）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -22,35 +22,35 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Flydubai co-pilot attacked captain with axe, UAE official says
+### 2. Cornell president says university 'must do better' after frat house rape allegations
+
+[原文] Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as "deeply disturbing".
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. Flydubai co-pilot attacked captain with axe, UAE official says
 
 [原文] The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Russia hits second major bridge in Ukraine's capital Kyiv
+### 4. Russia hits second major bridge in Ukraine's capital Kyiv
 
 [原文] The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. 'Anger in the streets': Tens of thousands protest in Spain over housing crisis
+### 5. 'Anger in the streets': Tens of thousands protest in Spain over housing crisis
 
-[原文] More than 50 protests are taking place on Saturday after the government failed to get emergency legislation through parliament.
+[原文] More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. G7 to release millions of barrels of oil and diesel after Trump threat
-
-[原文] The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
 ## 💰 经济财经
 
-> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: c8b0fe2b-279e-45c3-a8aa-5d6001540）
+> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 14d850c8-58e8-4854-914e-48f2e340e）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -66,29 +66,29 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/10/03/david-ellison-ynon-kreiz-skydance.html) — *CNBC*
 
-### 3. FlyDubai plane attack by co-pilot was an attempted 'terrorist' act, UAE says
+### 3. Trump taps Director of National Intelligence Jay Clayton as AI czar: WSJ reports
+
+[原文] Director of National Intelligence Jay Clayton will lead the administration's AI policy, The Wall Street Journal reported on Saturday.
+
+📎 [阅读原文](https://www.cnbc.com/2026/10/03/trump-jay-clayton-ai-czar.html) — *CNBC*
+
+### 4. FlyDubai plane attack by co-pilot was an attempted 'terrorist' act, UAE says
 
 [原文] The FlyDubai co-pilot attacked the pilot inside the cockpit with a crash axe and attempted to take control of the aircraft, the UAE prosecutor general said.
 
 📎 [阅读原文](https://www.cnbc.com/2026/10/03/flydubai-co-pilot-attacked-pilot-with-axe-uae-says.html) — *CNBC*
 
-### 4. Berkshire buys more Lennar shares, but pace of purchases slows
+### 5. Berkshire buys more Lennar shares, but pace of purchases slows
 
 [原文] Berkshire Hathaway added to its bet on Lennar this week, raising its stake in the homebuilder to 11.2%, although the pace of its buying appears to be slowing.
 
 📎 [阅读原文](https://www.cnbc.com/2026/10/03/berkshire-buys-more-lennar-shares-but-pace-of-purchases-slows.html) — *CNBC*
 
-### 5. Novig credits Sydney Sweeney-backed campaign for platform’s surge in growth
-
-[原文] Novig's "Just Sports" campaign drew backlash from some female athletes but also brought in a rush of trading volume.
-
-📎 [阅读原文](https://www.cnbc.com/2026/10/03/novig-credits-sydney-sweeney-backed-campaign-for-platforms-surge-in-growth.html) — *CNBC*
-
 ---
 
 ## 💻 科技
 
-> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 6aa3aea0-f677-4b29-8455-f1d3d77b5）
+> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: be53e748-117c-4332-b120-1b659f166）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -126,7 +126,7 @@
 
 ## 🔬 科学
 
-> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: b899afd0-a590-4dd9-82f8-efb624b6a）
+> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: ba3e14c0-6ca9-401c-95d3-8fd90f718）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -164,83 +164,83 @@
 
 ## ⚽ 体育
 
-> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: afe6aec6-804d-446e-ac41-4f189d343）
+> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: c9987b5f-cb57-44ae-a2b3-47102f704）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Wakefield beat Warrington to win Super League
+### 1. Bellingham unlocks new level and potential to be 'one of the greatest'
+
+[原文] Jude Bellingham's international future was being called into question a year ago, but now he is regarded as potentially one of England's "greatest of all time".
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cv5yn8znyx2ro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. Two going on four, five or six on good night for new Scotland era
+
+[原文] Scotland scored twice in North Macedonia but the scoreline does not reflect their dominance in Skopje, writes Tom English.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cx7vp540g75mo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. Wakefield beat Warrington to win Super League
 
 [原文] Wakefield Trinity end a 58-year wait to be champions as they claim a deserved Grand Final success over Warrington Wolves at Old Trafford.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-league/articles/c39w4w7pzqv4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Who was the best player on the pitch? - England player ratings
+### 4. Who was the best player on the pitch? - England player ratings
 
 [原文] England produce one of their best performances in recent times as they thump Croatia 6-0 in Rijeka. How did our report rate the players' performances?
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cq4g1x8znyd0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. 'Incredible' Red Bull upgrade enlivens F1 in Malaysia
+### 5. 'Incredible' Red Bull upgrade enlivens F1 in Malaysia
 
 [原文] Even Lewis Hamilton fears Max Verstappen will be tough to beat in Sunday's Bahrain Grand Prix in Malaysia.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/c5vgj31224kmo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Gloucester thrash sorry Quins to go top of the Prem
-
-[原文] Gloucester thrash a limp Harlequins at Kingsholm to go to the top of the early Prem standings.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-union/articles/cw305gm8j591o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Republic of Ireland news conference ends abruptly amid accusations
-
-[原文] Republic of Ireland manager Heimir Hallgrimsson's pre-match news conference ends abruptly as accusations are levelled at his players.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cm78p5x6xqq7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
 ---
 
 ## 🎬 娱乐
 
-> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 391f4c43-b09e-4543-911e-7be9d6024）
+> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 93f03d6c-6b62-454c-ac36-46920eb69）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Guillermo Del Toro Defends ‘Digger,’ Calls the Film ‘Daring, Bold and Cinematically Complex’
+### 1. Pete Hegseth Chugs ‘Spider-Man’s Non-Alcoholic B—- Beer’ in ‘SNL’ Cold Open That Mocks Tom Holland, Mitch McConnell and JD Vance
 
-[原文] Guillermo Del Toro is publicly declaring his love for “Digger.” Del Toro took to X to call out naysayers of Alejandro G. Iñárritu’s film ahead of its Friday release. “Entirely Petty headline,” the dir
+[原文] In the Oct. 3 cold open on “Saturday Night Live,” Andrew Dismukes and Ashley Padilla play Republican strategists who have their work cut out for them building buzz for their party. Marcello Hernández 
 
-📎 [阅读原文](https://variety.com/2026/film/news/guillermo-del-toro-defends-digger-1236898266/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/snl-pete-hegseth-spider-man-non-alcoholic-beer-1236898415/) — *Variety*
 
-### 2. Tony Gilroy Says Paramount-Warner Bros. Merger Will ‘Destroy’ a ‘Healthy and Beautiful Business’ in ‘The Name of Venture Capital’: ‘It’s Tragic’
+### 2. Taylor Swift Crashes Dakota Johnson’s ‘SNL’ Monologue as Her Breakup Therapist, Shows Travis Kelce Love with Cleveland Shoutout
 
-[原文] Tony Gilroy blasted the “tragic” nature of the Paramount-Warner Bros. merger at the world premiere of his new film, “Behemoth!” Produced on a $36 million budget, “Behemoth!” is representative of the m
+[原文] Predictions that Taylor Swift would make a cameo on &#8220;Saturday Night Live&#8221; with host Dakota Johnson came to fruition when the duo appeared together in the opening monologue. After Johnson j
 
-📎 [阅读原文](https://variety.com/2026/film/news/tony-gilroy-paramount-warner-bros-merger-behemoth-nyff-1236898132/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/taylor-swift-snl-cameo-dakota-johnson-saturday-night-live-1236898411/) — *Variety*
 
-### 3. Pierre Le Gall’s Passionate Love Story ‘Flesh and Fuel’ Named Best Film at Zurich Film Festival
+### 3. ‘A Statement’ Review: Just What We Need Right Now — Another Movie About Climate Change! But Tom McCarthy’s Historically Based Talkfest Reveals How Much We Knew in 1980
 
-[原文] French director Pierre Le Gall&#8217;s passionate love story &#8220;Flesh and Fuel,&#8221; which world premiered in Cannes’ Critics&#8217; Week, won the top prize, the Golden Eye, at the 22nd Zurich F
+[原文] On paper, "A Statement" sounds like an interesting movie, but it’s at once talky and flat, grabby and meandering, impassioned and neutral. It wants to be a "firebrand" docudrama, yet I can’t imagine w
 
-📎 [阅读原文](https://variety.com/2026/film/global/pierre-le-gall-flesh-and-fuel-zurich-film-festival-1236898150/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/reviews/a-statement-review-paul-rudd-paul-giamatti-nyff-1236898120/) — *Variety*
 
-### 4. ‘Verity’ Cast Reveals Their Go-To Book Recommendations on Heels of Novel’s Big-Screen Adaptation (Exclusive)
+### 4. Lawrence Rothman on Their New Album, ‘Here Lives Love/Sawdust to Stardust,’ a Growing Legacy Producing Other Artists, and the Talk with Bowie That Changed Everything
 
-[原文] &#8220;Verity&#8221; is in theaters now, and based on projections, it could be the latest book-to-screen adaptation from author Colleen Hoover to top the box office charts. Now, the real-life cast of 
+[原文] Lawrence Rothman has a lot of nerve, starting an album with a song called &#8220;The Meaning,&#8221; and then daring to ask some of the questions inherent in the big picture created by those two words
 
-📎 [阅读原文](https://variety.com/2026/shopping/news/best-books-like-verity-movie-cast-recommendations-picks-1236897066/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/lawrence-rothman-here-lies-love-album-producer-americana-1236898339/) — *Variety*
 
-### 5. Jerry Golod, Producer of ‘Tales From the Darkside’ and Former CBS And NBC Executive, Dies at 87
+### 5. Paul Rudd Says He Stopped Bringing His Phone to Film Sets Because He’s ‘Addicted Like Everybody Else’: ‘They’re Facilitating Our Own Destruction’
 
-[原文] Jerry Golod, the producer of “Tales From the Darkside,” died following a brief battle with cancer at his home in Rancho Mirage, Calif., on Wednesday. He was 87. Throughout his career, Golod served as 
+[原文] Paul Rudd plays the moderator of the first-ever meeting dedicated to solving America’s climate crisis in “A Statement,” the latest film from Oscar-winning director Tom McCarthy. Set at a Florida beach
 
-📎 [阅读原文](https://variety.com/2026/tv/obituaries-people-news/jerry-golod-dead-tales-from-the-darkside-1236898234/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/paul-rudd-phone-addiction-a-statement-nyff-1236898348/) — *Variety*
 
 ---
 
 ## 🏥 健康
 
-> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: b1e9a6c2-e28e-46f8-9692-271d306fe）
+> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 881b2128-42e3-4b7d-89f2-718c81f89）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -278,45 +278,45 @@
 
 ## 🎮 游戏
 
-> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 7439e53a-b730-47eb-acb3-e55c7b39c）
+> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 6c83aba6-1ef8-486a-9be0-7a5cd222a）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Gears of War: E-Day Devs 'Proud to Be One of Xbox's Main Titles' Amid Newfound Focus on Exclusivity
+### 1. Avengers: Doomsday Poster Highlights Doctor Doom and 3 Latverian Witches
+
+[原文] Marvel Studios has revealed a new Avengers: Doomsday poster, giving audiences a closer look not only at Doctor Doom but also at the three Latverian witches who will accompany him this December.
+
+📎 [阅读原文](https://www.ign.com/articles/avengers-doomsday-poster-highlights-doctor-doom-and-3-latverian-witches) — *IGN*
+
+### 2. Inde Navarrette Teases X-Men Role, Says She's 'Doing Everything Humanly Possible' to Do Rogue Justice
+
+[原文] Inde Navarrette has opened up about playing Rogue in X-Men, saying she's "doing everything humanly possible" to make sure she does the character justice.
+
+📎 [阅读原文](https://www.ign.com/articles/inde-navarrette-teases-x-men-role-says-shes-doing-everything-humanly-possible-to-do-rogue-justice) — *IGN*
+
+### 3. Everything We Saw at RuneFest 2026, Including RuneScape 4 and RuneScape Reignited
+
+[原文] RuneFest 2026 is over, and we’ve got a roundup of everything announced at Jagex’s big show celebrating its long-running fantasy MMORPG.
+
+📎 [阅读原文](https://www.ign.com/articles/runefest-2026-runescape-4-runescape-reignited-old-school-runescape-jagex) — *IGN*
+
+### 4. Fourth RuneScape MMO Built With Unreal Engine in the Works, Jagex Announces RuneScape Animation With MoistCr1TiKaL
+
+[原文] Developer Jagex has announced a fourth MMO in the long-running RuneScape franchise, as well as an animated adaptation.
+
+📎 [阅读原文](https://www.ign.com/articles/runescape-4-mmo-jagex-animation-series-moistcr1tikal) — *IGN*
+
+### 5. Gears of War: E-Day Devs 'Proud to Be One of Xbox's Main Titles' Amid Newfound Focus on Exclusivity
 
 [原文] The Gears of War: E-Day developers at The Coalition say they are "proud to be one of Xbox's main titles" as Microsoft refocuses on exclusivity.
 
 📎 [阅读原文](https://www.ign.com/articles/gears-of-war-e-day-devs-proud-to-be-one-of-xboxs-main-titles-amid-newfound-focus-on-exclusivity) — *IGN*
 
-### 2. The Best Deals Today: Trails in the Sky 1st Chapter, Shuten Order, MLB The Show 26, and More
-
-暂无摘要。
-
-📎 [阅读原文](https://www.ign.com/articles/best-deals-for-october-3-2026) — *IGN*
-
-### 3. Call of Duty: Modern Warfare 4 Video Reveals Major Change That Could End Wallhacks for Good
-
-[原文] Wallhacks have plagued Call of Duty for years, but in Modern Warfare 4, Activision has a plan to change that.
-
-📎 [阅读原文](https://www.ign.com/articles/call-of-duty-modern-warfare-4-video-reveals-major-change-that-could-end-wallhacks-for-good) — *IGN*
-
-### 4. 'I Did My Best' — Final Fantasy 7 Revelation Director Responds to Fans Asking for Full Disc Version
-
-[原文] Final Fantasy 7 Revelation Naoki Hamaguchi said he did his best to fight for a disc release as the industry heads toward a "future where physical media is essentially disc-less."
-
-📎 [阅读原文](https://www.ign.com/articles/i-did-my-best-final-fantasy-7-revelation-director-responds-to-fans-asking-for-full-disc-version) — *IGN*
-
-### 5. Carrie, Avatar, and More of the Most Anticipated Movies and TV Shows to Stream in October
-
-[原文] From yet another Mike Flanagan adaptation of a Stephen King story to a Friday the 13th prequel series and the Season 1 finale of Lanterns, here are our picks for what to stream this month.
-
-📎 [阅读原文](https://www.ign.com/articles/carrie-avatar-and-more-of-the-most-anticipated-movies-and-tv-shows-to-stream-in-october) — *IGN*
-
 ---
 
 ## 🚗 汽车
 
-> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: b3b9bde7-d3e9-4df5-a9cd-047312013）
+> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 6b35d7bb-d60c-4a1a-9c86-0ff8fae86）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -359,7 +359,7 @@ The post Skip the Kei Car and Import This Slammed Chevy Rollback Truck From Japa
 
 ## 🌱 环境
 
-> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 03b6d72f-9254-4b10-8fc4-8c4e01ff2）
+> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: e967e7f8-5005-45bd-b435-9f1a9ec9d）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -397,7 +397,7 @@ The post Skip the Kei Car and Import This Slammed Chevy Rollback Truck From Japa
 
 ## 📚 教育
 
-> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 7457e306-2d85-4f95-b4ba-71d9ae690）
+> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: d7e3e7e4-5f5b-44df-bf6c-8543024bb）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -435,7 +435,7 @@ The post Skip the Kei Car and Import This Slammed Chevy Rollback Truck From Japa
 
 ## 🎵 音乐
 
-> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 377399f1-a3a1-4188-ba34-53df151c6）
+> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 204a7c87-ac4e-4e82-83fe-1fd350332）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -473,7 +473,7 @@ The post Skip the Kei Car and Import This Slammed Chevy Rollback Truck From Japa
 
 ## ✈️ 旅游
 
-> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 202e7255-3976-4e88-82d8-117df718f）
+> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: b38cc3db-b7ef-4a1e-bdc1-dbdef606c）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
