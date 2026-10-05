@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年10月05日** | 生成时间: 2026-10-05 05:03
+**2026年10月05日** | 生成时间: 2026-10-05 12:50
 
 ---
 
@@ -12,7 +12,7 @@
 
 ## 🌍 国际政治
 
-> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: a8b3befe-a8f0-411c-8938-3fba0d5d1）
+> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 473a1a17-b4dd-4767-bbc1-51b8a06e9）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -34,61 +34,61 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Ethiopian rebel forces withdraw from Tigray regional capital
+### 4. Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round
+
+[原文] With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Ethiopian rebel forces withdraw from Tigray regional capital
 
 [原文] Two residents in Mekelle tell the BBC pro-government forces have taken control of the city.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Christa Pike's prognosis still unclear after failed execution, lawyer says
-
-[原文] Pike's lawyer says doctors are still trying to clear two lethal doses of pentobarbital from her body.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
 ---
 
 ## 💰 经济财经
 
-> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 1d16a0af-d402-404d-a73a-b13684b9a）
+> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 60328af9-e70f-462f-8142-fcf6ffb1a）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Sports betting is increasingly the norm for Gen Z.  Here’s why some financial and mental health experts are worried
+### 1. Trump tells South Korea to sign on to Alaska LNG deal or 'I'll just charge them more'
 
-[原文] Surveys show Gen Z increasingly views sports bets as a form of investment, and those who gamble too often face mental health risks.
+[原文] Trump is ramping up pressure on South Korea over Alaska LNG as Seoul remains cautious over investment projects announced by the U.S. president.
 
-📎 [阅读原文](https://www.cnbc.com/2026/10/04/gen-z-sports-betting-financial-and-mental-health-risks.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/05/trump-alaska-lng-south-korea-pay.html) — *CNBC*
 
-### 2. Supreme Court Justice Alito said he's 'thought about' retirement as Senate control hangs in balance
+### 2. Surging Treasury yields don’t signal a U.S. 'fiscal apocalypse' — yet
 
-[原文] The Senate could flip to Democrats after November's midterm election, jeopardizing a potential Supreme Court nomination by President Donald Trump.
+[原文] Treasury yields above 5% are raising fears that higher borrowing costs could fuel a debt spiral.
 
-📎 [阅读原文](https://www.cnbc.com/2026/10/04/supreme-court-justice-alito-thought-about-retiring.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/05/treasury-yields-fiscal-concerns-not-crisis-yet.html) — *CNBC*
 
-### 3. Trump reiterates pledge to send $5,000 checks, and hands out smaller payments, as midterm elections loom
+### 3. ‘Unwelcome and unsafe’: Why Japanese companies are retreating from China at a historic rate
+
+[原文] Japanese companies are leaving China at record pace, as a diplomatic freeze and a slowing economy force businesses to reassess their presence.
+
+📎 [阅读原文](https://www.cnbc.com/2026/10/05/japanese-companies-leaving-china-takaichi-comment-taiwan.html) — *CNBC*
+
+### 4. Trump reiterates pledge to send $5,000 checks, and hands out smaller payments, as midterm elections loom
 
 [原文] Trump is promoting two federal payment programs already underway while reiterating a $5,000 dividend promise contingent on Republicans retaining Congress.
 
 📎 [阅读原文](https://www.cnbc.com/2026/10/04/trump-5000-checks-cash-payments-midterms.html) — *CNBC*
 
-### 4. Why brands like E.l.f., Wendy's and Gap are branching out into original music
+### 5. All U.S. bombers leave UK air base on concerns of suspected terror plots; more tankers struck near Iran in the Middle East
 
-[原文] E.l.f. Beauty released an album titled "Mirror Mix" as the brand plans to increase its marketing spend for the rest of the year.
+[原文] Tehran's conditions include a halt to U.S. "acts of aggression," an end to the naval blockade  and economic warfare, and the release of Iranian assets.
 
-📎 [阅读原文](https://www.cnbc.com/2026/10/04/elf-wendys-gap-music-marketing.html) — *CNBC*
-
-### 5. A 'weird' IPO pull, a tainted reputation and the stalled breakout moment for AI wearables
-
-[原文] Apple, Google and Meta are pushing new AI devices and assistants amid growing privacy concerns around wearables.
-
-📎 [阅读原文](https://www.cnbc.com/2026/10/04/ai-wearables-oura-ipo-privacy.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/04/more-tankers-struck-in-gulf-waters-as-iran-reiterates-conditions.html) — *CNBC*
 
 ---
 
 ## 💻 科技
 
-> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 63621f51-7bd2-4d4c-8fda-951afa867）
+> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 328ad98d-9ca2-42ed-a1bc-83e0b8aba）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -126,7 +126,7 @@
 
 ## 🔬 科学
 
-> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 540b10d8-2bc3-43ae-9947-e8f8a57f4）
+> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: bd43af7f-a2e1-4ee3-8dd9-1c04f7292）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -136,35 +136,35 @@
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/10/261002080026.htm) — *Science Daily*
 
-### 2. This protective enzyme could help stop fatty liver disease from getting worse
+### 2. The “glue” holding your cells together has a surprising second job
+
+[原文] Scientists have discovered that E-cadherin, a protein best known as the “glue” holding cells and tissues together, has a surprising second job: helping epithelial cells swallow nearby dead cells. Usin
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/10/261002080023.htm) — *Science Daily*
+
+### 3. This protective enzyme could help stop fatty liver disease from getting worse
 
 [原文] Scientists have identified an enzyme that may act as a natural defense against the worsening of fatty liver disease, which affects an estimated 100 million Americans. The enzyme, called UBE2N, helps l
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/10/261002080020.htm) — *Science Daily*
 
-### 3. Diet drinks work as well as water for weight loss, major trial finds
+### 4. Diet drinks work as well as water for weight loss, major trial finds
 
 [原文] A two-year randomized clinical trial involving 493 adults with overweight or obesity found that diet soft drinks were essentially as effective as water for long-term weight loss and weight maintenance
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/10/261002080017.htm) — *Science Daily*
 
-### 4. A meteor hit Oklahoma 100 million years later than scientists thought
+### 5. A meteor hit Oklahoma 100 million years later than scientists thought
 
 [原文] A meteor crater buried beneath Oklahoma has turned out to be nearly 100 million years younger than scientists thought. Zircon crystals show the Ames impact occurred about 370 million years ago, meanin
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/10/261002080012.htm) — *Science Daily*
 
-### 5. A forgotten 30-year forest experiment just delivered a huge surprise
-
-[原文] A 30-year forestry experiment in Australia found that heavily thinned mountain ash forests grew unusually large trees while recovering enough carbon to match or exceed untouched areas. The results sug
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/10/261001214120.htm) — *Science Daily*
-
 ---
 
 ## ⚽ 体育
 
-> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: e4c720e4-9e53-4d26-93a4-5b45cec6e）
+> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 3a260da4-070a-47ea-866f-adde25f74）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -174,73 +174,73 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/cwg7x820k9xjo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Arsenal 10 points off WSL leaders - is Slegers' job at risk?
+### 2. Israel 'tried to intimidate' Irish amid spitting row - Hallgrimsson
+
+[原文] Republic of Ireland head coach Heimir Hallgrimsson says he felt Israel were "trying to intimidate" his team amid allegations of spitting during Sunday's Nations League draw.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cw4g14eg5p22o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. Humphries wins Grand Prix to end barren spell
+
+[原文] World number two Luke Humphries ends a 16-month wait for a PDC major trophy with a stunning 6-4 victory over Gerwyn Price in the World Grand Prix final.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/darts/articles/cw1m49g84mmro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. Bellamy bemoans new schedule after Denmark loss
+
+[原文] Craig Bellamy suggests the new four-match international window has counted against Wales after Sunday's Nations League defeat against Denmark.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cm93zyld4513o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 5. Arsenal 10 points off WSL leaders - is Slegers' job at risk?
 
 [原文] It is only five matches into the WSL season but Arsenal are already 10 points behind leaders Manchester City and manager Renee Slegers is coming under increasing scrutiny.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c9p8gmvlvp57o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. World No. 979 Stewart's dilemma after finishing fourth at Alfred Dunhill Links
-
-[原文] Scotland's Michael Stewart has a choice to make after securing his best finish at a DP World Tour event.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/c6pwg5z9982zo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. 'Money-grab' or celebration? NFL kicks off London series
-
-[原文] The NFL kicked off this season's series of London games on Sunday but the build-up was overshadowed by anger from long-term fans over ticket prices.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/american-football/articles/cqwyrlk27e7ro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. ‘Moments I still play for’ - Djokovic battles past world number two Zverev
-
-[原文] Novak Djokovic's quest to win a first trophy of 2026 continues with a hard-fought victory in the quarter-finals of the China Open.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/c8kge0d95dzno?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
 ---
 
 ## 🎬 娱乐
 
-> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 5f42822b-c690-4313-8e50-e479b3dc5）
+> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 783dc46f-1126-4b33-a3c4-a96228dd2）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. James Gunn Confirms He’s ‘Already’ Writing His Next Film Ahead of ‘Superman: Man of Tomorrow’
+### 1. China Box Office: Crime Procedural ‘Traces of Justice’ Leads National Day Frame
 
-[原文] James Gunn announced on Threads that he is actively working on writing his next film ahead of the release of &#8220;Superman: Man of Tomorrow,&#8221; due in theaters July 9, 2027. In response to a com
+[原文] New Classics Pictures&#8217; crime procedural drama &#8220;Traces of Justice&#8221; took the top spot at the mainland China box office during the Oct. 2–4 weekend, grossing RMB208.9 million ($31.2 mil
 
-📎 [阅读原文](https://variety.com/2026/film/news/james-gunn-next-project-superman-man-of-tomorrow-1236898696/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/box-office/china-box-office-traces-of-justice-national-day-1236898842/) — *Variety*
 
-### 2. Gypsy-Rose Blanchard Launches Petition to ‘Fight Online Harassment’ Following Partner Ken Urker’s Death: ‘Fame Does Not Erase Humanity’
+### 2. John Oliver Dodges David Ellison-Skydance News on ‘Last Week Tonight’
 
-[原文] Gypsy-Rose Blanchard is speaking out following the death of her partner Ken Urker and urging fans to support Kenan’s Law, a petition aimed at holding social media platforms accountable for how online 
+[原文] The big media news this week concerned Skydance Corp., David Ellison’s newly formed Hollywood mega-company comprising Paramount Skydance and Warner Bros. Discovery, which Ellison (and his father Larry
 
-📎 [阅读原文](https://variety.com/2026/tv/news/gypsy-rose-blanchard-petition-online-harassment-ken-urker-1236898652/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/john-oliver-last-week-tonight-david-ellison-skydance-hbo-warner-bros-1236898839/) — *Variety*
 
-### 3. Sass Jordan, Singer and Longtime ‘Canadian Idol’ Judge, Dies at 65
+### 3. ‘Lanterns’ Finale: Hal Jordan’s Killer and Manhunter Revealed, Sinestro Creates [SPOILER], John Stewart Powers Up for ‘Superman’ Sequel
 
-[原文] Sass Jordan, the singer, songwriter and longtime &#8220;Canadian Idol&#8221; judge, died on Oct. 2. She was 65. Her family confirmed her death, noting that she &#8220;died peacefully&#8221; and was &#
+[原文] SPOILER ALERT: This article contains spoilers for the &#8220;Lanterns&#8221; finale, now streaming on HBO Max. Have no fear, the &#8220;Lanterns&#8221; finale is here. The season finale —&#160;or poss
 
-📎 [阅读原文](https://variety.com/2026/music/people-news/sass-jordan-dead-canadian-idol-singer-1236898644/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/lanterns-finale-hal-killer-manhunter-sinestro-yellow-lantern-1236897626/) — *Variety*
 
-### 4. ‘Spotlight’ Director Says The Catholic Church Hasn’t Done ‘Enough’ To Protect Children From Sexual Assault 10 Years After Film’s Best Picture Win: ‘Not Until Every Child Is Safe’
+### 4. Korean Directors Rally Behind ‘The Assassin(s)’ as Political Firestorm Turns on Its Makers
 
-[原文] Tom McCarthy’s biographical drama “Spotlight” won Best Picture at the Academy Awards in 2016. The film, featuring a stacked ensemble led by Michael Keaton, Rachel McAdams and Mark Ruffalo, was widely 
+[原文] The Directors Guild of Korea (DGK) has come out in support of the team behind &#8220;The Assassin(s),&#8221; Hur Jin-ho&#8217;s thriller about the 1974 shooting of first lady Yuk Young-soo, as politic
 
-📎 [阅读原文](https://variety.com/2026/film/news/spotlight-catholic-church-children-sexual-abuse-nyff-1236898551/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/the-assassins-korea-directors-guild-1236898817/) — *Variety*
 
-### 5. Daily Wire’s Pro-ICE Film ‘Pawn Shop’ Production Temporarily Suspended
+### 5. Korea Box Office: ‘The Assassin(s)’ Holds Admissions Lead as ‘Chiikawa’ Generates Top Weekend Gross
 
-[原文] Production of Daily Wire’s pro-ICE film “Pawn Shop” has been temporarily halted in Livingston, Mont., following a Special City Commission Meeting held on Saturday. The action comes as Livingston local
+[原文] Director Hur Jin-ho&#8217;s political crime thriller &#8220;The Assassin(s)&#8221; held the top position at the South Korean box office in admissions over the weekend of Oct. 2–4, though Japanese anim
 
-📎 [阅读原文](https://variety.com/2026/film/news/daily-wires-pro-ice-film-temporarily-suspended-montana-1236898635/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/box-office/korea-box-office-the-assassins-admissions-lead-1236898809/) — *Variety*
 
 ---
 
 ## 🏥 健康
 
-> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: a4858c18-1fea-4ec8-b23d-c52ed856d）
+> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 7c421121-1a54-438f-af6c-c899855f1）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -278,45 +278,45 @@
 
 ## 🎮 游戏
 
-> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 79342bb2-0dc2-448f-b928-bd08cafb6）
+> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 63cd71d4-2f7b-4483-818a-f3278f03c）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Tom Cruise's Digger Bombs Hard With $20 Million Global Opening in Theaters
+### 1. Lanterns Season 1 Finale Review & Recap
 
-[原文] Tom Cruise's Digger bombed hard in theaters, pulling in an estimated $20 million in its opening weekend at the global box office.
+[原文] Though most of the twists can be seen coming well in advance, Lanterns Episode 8 manages to wrap up the season on an emotionally satisfying note.
 
-📎 [阅读原文](https://www.ign.com/articles/tom-cruises-digger-bombs-hard-with-20-million-global-opening-in-theaters) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/lanterns-season-1-finale-review-recap) — *IGN*
 
-### 2. Avengers: Endgame Beats Avatar to Become the Highest-Grossing Movie of All Time (Again)
+### 2. Mighty Mike Plays Dad Says He Owns 'Like 12 Companies,' Promises Refunds for AI Shirts
 
-[原文] Marvel Studios' Encore re-release has helped Avengers: Endgame beat Avatar to become the highest-grossing movie at the box office of all time…again.
+[原文] Mighty Mike Plays dad Dave has promised refunds and issued a lengthy explanation after the internet demanded more information about the YouTube ads allegedly purchased by his son and the drama that fo
 
-📎 [阅读原文](https://www.ign.com/articles/avengers-endgame-beats-avatar-to-become-the-highest-grossing-movie-of-all-time-again) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/mighty-mike-plays-dad-says-he-owns-like-12-companies-promises-refunds-for-ai-shirts) — *IGN*
 
-### 3. SNL Weighs in on GTA 6 vs. The Legend of Zelda With Skit Featuring Jason and Link
+### 3. Blindfolded Tekken 8 Player Achieves One of the Game’s Top Ranks from Beginner
 
-[原文] SNL weighed in on GTA 6 vs. The Legend of Zelda: Ocarina of Time remake with a new Weekend Update skit featuring video game protagonists Jason Duval and Link.
+[原文] Professional Tekken 8 player SuperBrine is going viral after reaching God of Destruction using Alisa while completely blindfolded with a sleep mask.
 
-📎 [阅读原文](https://www.ign.com/articles/snl-weighs-in-on-gta-6-vs-the-legend-of-zelda-with-skit-featuring-jason-and-link) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/blindfolded-tekken-8-player-achieves-one-of-the-games-top-ranks-from-beginner) — *IGN*
 
-### 4. Avengers: Doomsday Poster Highlights Doctor Doom and 3 Latverian Witches
+### 4. The Best Deals Today: Star Wars Zero Company, AirPods Pro 3, Trails in the Sky 1st Chapter, and More
 
-[原文] Marvel Studios has revealed a new Avengers: Doomsday poster, giving audiences a closer look not only at Doctor Doom but also at the three Latverian witches who will accompany him this December.
+暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/avengers-doomsday-poster-highlights-doctor-doom-and-3-latverian-witches) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/best-deals-for-october-4-2026) — *IGN*
 
-### 5. Inde Navarrette Teases X-Men Role, Says She's 'Doing Everything Humanly Possible' to Do Rogue Justice
+### 5. Blade Director Defends 'Good Dude' Kevin Feige After Marvel Scrapped Mahershala Ali's 1920s Vampire Movie
 
-[原文] Inde Navarrette has opened up about playing Rogue in X-Men, saying she's "doing everything humanly possible" to make sure she does the character justice.
+[原文] Blade director Bassam Tariq said he felt like a "failure" after exiting the Mahershala Ali-led Marvel movie, but he doesn't blame MCU mastermind Kevin Feige for how things went down.
 
-📎 [阅读原文](https://www.ign.com/articles/inde-navarrette-teases-x-men-role-says-shes-doing-everything-humanly-possible-to-do-rogue-justice) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/blade-director-defends-good-dude-kevin-feige-after-marvel-scrapped-mahershala-alis-1920s-vampire-movie) — *IGN*
 
 ---
 
 ## 🚗 汽车
 
-> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 2a44e7f9-b513-4260-9826-24d9eddc1）
+> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 21095299-62a9-4bf3-82c9-bc8ee6c7a）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -359,7 +359,7 @@ The post One of Today’s Greatest Automotive Designers Owned
 
 ## 🌱 环境
 
-> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: d1345282-2fdf-4fe1-9a59-33148da4c）
+> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: c28f4c89-5014-4bbc-8edd-435acc97f）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -397,7 +397,7 @@ The post One of Today’s Greatest Automotive Designers Owned
 
 ## 📚 教育
 
-> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: be7188b6-37d1-441f-9529-2b8043196）
+> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: f05f51e4-60a8-4619-80a3-a56be87cf）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -435,7 +435,7 @@ The post One of Today’s Greatest Automotive Designers Owned
 
 ## 🎵 音乐
 
-> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 71c1d565-942f-40d5-ae9e-8238ea158）
+> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: b6e52664-0491-4852-acc6-7dd260d8e）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -473,39 +473,39 @@ The post One of Today’s Greatest Automotive Designers Owned
 
 ## ✈️ 旅游
 
-> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 63d05ee8-9784-4f8a-95f3-fbdf20daa）
+> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 40a2ea57-73b2-4929-982f-d6ab37785）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. IAG on Proving AI Value Before Scaling It
+### 1. How This Airline Is Growing Its Network Without Adding a Single Plane
+
+[原文] Who said airlines have to fly every route they sell? Low-cost-carrier Tigerair Taiwan is testing a way to tap another carrier’s network, sell the journey itself, and skip the traditional interline set
+
+📎 [阅读原文](https://skift.com/2026/10/04/how-this-airline-is-growing-its-network-without-adding-a-single-plane/) — *Skift*
+
+### 2. IAG on Proving AI Value Before Scaling It
 
 [原文] At IAG, AI proves its value in one airline before the Group expands it. Governance goes in from day one. Ben Dias says that’s what gives the Group confidence to scale across markets and brands.
 
 📎 [阅读原文](https://skift.com/2026/10/03/iag-on-proving-ai-value-before-scaling-it/) — *Skift*
 
-### 2. India Now Has a ‘Digital Tourism Stack.’ Can it Fix a Fragmented Market?
+### 3. India Now Has a ‘Digital Tourism Stack.’ Can it Fix a Fragmented Market?
 
 [原文] India is betting that open digital infrastructure can make its vast, fragmented tourism supply easier to discover, book and eventually surface through AI.
 
 📎 [阅读原文](https://skift.com/2026/10/03/india-now-has-a-digital-tourism-stack-can-it-fix-a-fragmented-market/) — *Skift*
 
-### 3. Hopper’s Co-Founder and B2B Boss Left The Company
+### 4. Hopper’s Co-Founder and B2B Boss Left The Company
 
 [原文] One source said Dakota Smith had a lot of credibility in the B2B space, Hopper's most important division.
 
 📎 [阅读原文](https://skift.com/2026/10/02/hoppers-co-founder-and-b2b-boss-left-the-company/) — *Skift*
 
-### 4. Hilton Isn’t ‘Blocking’ New AI Agents. But They Can’t Always Get In.
+### 5. Hilton Isn’t ‘Blocking’ New AI Agents. But They Can’t Always Get In.
 
 [原文] Hilton's CEO says he wants to make booking through AI agents easy. For now, Meta's Muse struggles to pull a price from hotel group sites, and OTAs may remain an easier door.
 
 📎 [阅读原文](https://skift.com/2026/10/02/hilton-isnt-blocking-new-ai-agents-but-its-not-always-letting-them-in/) — *Skift*
-
-### 5. How the Tourist Became the Taxpayer of Last Resort
-
-[原文] Tourist taxes are usually sold as a way to manage crowds. Their deeper appeal is political: They raise money from people who cannot vote against the officials spending it.
-
-📎 [阅读原文](https://skift.com/2026/10/02/how-the-tourist-became-the-taxpayer-of-last-resort/) — *Skift*
 
 ---
 
