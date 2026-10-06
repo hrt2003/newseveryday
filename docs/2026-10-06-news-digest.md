@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年10月06日** | 生成时间: 2026-10-06 07:53
+**2026年10月06日** | 生成时间: 2026-10-06 13:37
 
 ---
 
@@ -12,7 +12,7 @@
 
 ## 🌍 国际政治
 
-> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 49c1249a-11ff-4860-a4ce-71fcc3d03）
+> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 50818424-7049-4dd9-9b53-5cb9ed7a6）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -28,67 +28,67 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say
+### 3. Saudi Arabia urged to spare man sentenced to death over Facebook post
 
-[原文] The Omani national was a "lone wolf" extremist, according to the reports.
+[原文] Anojan Sivarasa faces execution after he was found guilty of blasphemy over a Facebook comment.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cq14d438vx24o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea
+### 4. Separatist party projected to win Quebec election, adding new test to Canada's unity
 
-[原文] The vessel's captain was killed and 11 crew members were rescued after the attack on the Turkish-owned ship, Ukraine's leader says.
+[原文] The Parti Québécois, which secured a minority, has vowed to hold an independence referendum in the years to come.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cr0j0w3p8453o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Spain PM pins hopes on housing crisis to help win snap election
+### 5. Europe is pouring billions into space. Can Glasgow's satellite industry keep up?
 
-[原文] Calling of a snap election was not a knee-jerk reaction from Pedro Sánchez but a carefully thought-out manoeuvre, Guy Hedgecoe reports from Madrid.
+[原文] The city's space boom raises questions about the role of the state in backing important industries.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/ck5yn81qqde0o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cm2kedyp348lo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
 ## 💰 经济财经
 
-> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 7bd2e13c-eef2-4956-af9e-aeb549600）
+> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 28d25fb9-b00c-4898-9545-4622f9105）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump says he'll pay for TV ads that praised him and which government funded
+### 1. Trump offers U.S. help to Russia after plague death; WHO assesses the situation as low risk
+
+[原文] WHO said it was in contact with Russian authorities, and has offered support if needed, while assessing the risk to the general public as low based on available information.
+
+📎 [阅读原文](https://www.cnbc.com/2026/10/06/russia-plague-death-trump-offers-us-help.html) — *CNBC*
+
+### 2. World Bank warns of AI concentration risks as it lifts East Asia and Pacific growth outlook to 4.5%
+
+[原文] The World Bank now expects the region to grow 4.5% this year, but flagged that trade growth outside AI-related goods has been "weak or negative."
+
+📎 [阅读原文](https://www.cnbc.com/2026/10/06/world-bank-east-asia-growth-inflation-ai-exports-.html) — *CNBC*
+
+### 3. Pentagon says Trump approves Army firing squad execution of Fort Hood killer Nidal Hasan
+
+[原文] Former Army Maj. Nidal Hassan was sentenced to death after a court-martial that convicted him of killing 13 and wounding 32 others at an Army base in Texas.
+
+📎 [阅读原文](https://www.cnbc.com/2026/10/06/trump-execution-nidal-hasan-firing-squad-fort-hood.html) — *CNBC*
+
+### 4. Russian gold floods Hong Kong as Western sanctions redraw bullion trade
+
+[原文] The surge underscores how Russia's gold trade has been rerouted after its invasion of Ukraine in 2022 shut its producers out of major Western markets.
+
+📎 [阅读原文](https://www.cnbc.com/2026/10/06/russia-gold-hong-kong-china-western-sanctions.html) — *CNBC*
+
+### 5. Trump says MAGA Inc. PAC will pay for controversial TV ads that government funded
 
 [原文] The New York Times reported "Trump personally instructed his budget director to use taxpayer money for TV ads praising him and his presidency."
 
 📎 [阅读原文](https://www.cnbc.com/2026/10/05/trump-ads-election.html) — *CNBC*
 
-### 2. AI researcher warns 'we are racing to build and grow our own adversary' in NYC hearing
-
-[原文] The leading AI labs facing intensifying scrutiny over their safety and security practices.
-
-📎 [阅读原文](https://www.cnbc.com/2026/10/05/anthropic-openai-google-meta-execs-testify-nyc-council-ai-hearing.html) — *CNBC*
-
-### 3. 'We had a threat': Trump explains U.S. moving long-range bombers from UK
-
-[原文] The U.S. Air Force B-1 bombers removed from England have been used in strikes on Iran.
-
-📎 [阅读原文](https://www.cnbc.com/2026/10/05/trump-bombers-uk-iran.html) — *CNBC*
-
-### 4. House Democrat targets candidate prediction market trades after opponent’s Kalshi penalty
-
-[原文] A new bill bans federal candidates from trading prediction market contracts related to their own elections and would result in a fine if violated.
-
-📎 [阅读原文](https://www.cnbc.com/2026/10/05/don-davis-prediction-market-candidate-trading.html) — *CNBC*
-
-### 5. SpaceX stock climbs to highest since June, returning Musk to trillionaire status
-
-[原文] SpaceX shares have bounced almost 60% off their low in early August, boosted by the company's AI business and Starship progress.
-
-📎 [阅读原文](https://www.cnbc.com/2026/10/05/spacex-stock-climbs-highest-since-june-returning-musk-to-trillionaire.html) — *CNBC*
-
 ---
 
 ## 💻 科技
 
-> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: cd504e45-af70-4bb3-99bc-0fce9bcf7）
+> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: f29d42a2-067c-4251-bda1-e5a1599df）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -126,7 +126,7 @@
 
 ## 🔬 科学
 
-> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 317e5147-393e-4783-9dee-9bab43a80）
+> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 6b5dc35d-cf53-4a20-82bd-5cde8e363）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -164,7 +164,7 @@
 
 ## ⚽ 体育
 
-> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: e42a1e80-2b69-4a76-af24-821fdfbce）
+> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 4acb58b8-083e-49f5-9be3-819a7676a）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -174,73 +174,73 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cm5ynj882zw0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. F1 needs to have hard look at itself - Sainz
+### 2. NI make huge strides despite Georgia frustration
+
+[原文] With eight points from four games, Northern Ireland show real progress through what manager Michael O'Neill calls "one of the most enjoyable windows" he has had in international football.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cmvg9lp24p1po?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. F1 needs to have hard look at itself - Sainz
 
 [原文] F1 "needs to have a hard look at" itself in the wake of unprecedented software glitches that affected the Bahrain Grand Prix in Malaysia, Carlos Sainz says.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/cr62y51n1841o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Player welfare, injury worries & boredom - has extended break worked?
+### 4. Player welfare, injury worries & boredom - has extended break worked?
 
 [原文] The extended international break was brought in with player welfare in mind, but has it been a success?
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cq8jz7verm24o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Medvedev disqualified from Djokovic match for hitting spectator with ball
+### 5. Medvedev disqualified from Djokovic match for hitting spectator with ball
 
 [原文] Daniil Medvedev is disqualified from the China Open after hitting a spectator in the face with a ball during his semi-final against Novak Djokovic.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cqkg5npg0r9vo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Gabriel in Man Utd team photo but no hint of reconciliation
-
-[原文] As he prepares to celebrate his 16th birthday, the rift between Manchester United and JJ Gabriel shows no sign of being healed.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cmde8n8j0dn4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
 ---
 
 ## 🎬 娱乐
 
-> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 4f8cb0b8-8340-4e9b-b3e4-c80f4100b）
+> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 89ca8ad7-63c5-4765-9893-2b1ba8f5a）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Neon Sets ‘Artificial’ Oscar Campaign With Andrew Garfield in Supporting Actor, Yura Borisov in Lead (EXCLUSIVE)
+### 1. Michael Douglas Weighs In on ‘Nepo Baby’ Debate, Says the Title ‘Really Pisses Me Off’
 
-[原文] Sixteen years ago, Andrew Garfield played the Facebook co-founder who was pushed out of the company he helped create in “The Social Network” and came up short in the supporting actor race. Now, he’s p
+[原文] Michael Douglas is wading into the “nepo baby” debate. The “Wall Street” actor, who is the son of the late Hollywood legend Kirk Douglas, opened up on a recent episode of the Smartless podcast and sai
 
-📎 [阅读原文](https://variety.com/2026/film/awards/artificial-oscars-campaign-andrew-garfield-supporting-actor-1236899378/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/michael-douglas-nepo-baby-debate-1236899927/) — *Variety*
 
-### 2. Blippi’s Meekah and Dove Release Music Video to Promote Children’s Body Confidence (EXCLUSIVE)
+### 2. Jon Stewart’s ‘Daily Show’ Skips David Ellison-Skydance News to Take on AI
 
-[原文] Meekah, best friend of children&#8217;s entertainment and education character Blippi, has teamed up with Dove on a new music video promoting body confidence. Moonbug Entertainment and the Dove Self-Es
+[原文] On Sunday night, John Oliver dedicated the majority of his Emmy-winning show “Last Week Tonight” to the Secret Service’s failings in recent years while declining to address the major media news of the
 
-📎 [阅读原文](https://variety.com/2026/digital/columns/blippi-meekah-dove-music-video-childrens-body-confidence-1236899630/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/jon-stewart-daily-show-skydance-david-ellison-ai-1236899825/) — *Variety*
 
-### 3. Fox News Marks 30 Years On Air: ‘We Saw an Opportunity Nobody Else Saw’
+### 3. ‘Artificial’ Review: Luca Guadagnino Has Made the Real Sequel to ‘The Social Network’ — a Brain-Spinning Tech-Geek Docudrama, Brilliantly Acted by Andrew Garfield and Yura Borisov
 
-[原文] Today&#8217;s episode of Variety&#8216;s “Strictly Business” podcast takes a long look back at 30 years since the launch of Fox News Channel. Love it or hate it, Fox News has been an influential force
+[原文] "Artificial" is a brilliant but playful docudrama, meticulously true to history, that focuses on the founders of OpenAI, notably its CEO Sam Altman (Andrew Garfield). But the tale it tells is much lar
 
-📎 [阅读原文](https://variety.com/2026/tv/news/fox-news-30-anniversary-jason-klarman-october-7-1236899619/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/reviews/artificial-review-andrew-garfield-luca-gaudagnino-1236898663/) — *Variety*
 
-### 4. ‘The Voice’ Season 30 Premiere Hits 7.8 Million Viewers in Seven Days (EXCLUSIVE)
+### 4. Andrew Garfield Says OpenAI’s Sam Altman Seemed ‘F—ing Great’ Before Playing Him in ‘Artificial’: ‘And Then You Learn More About a Person’
 
-[原文] The Season 30 premiere of &#8220;The Voice&#8221; hit 7.8 million viewers in its first seven days of availability. That total comes from a combination of Nielsen&#8217;s measurements of linear viewers
+[原文] Andrew Garfield admits he was initially charmed by Sam Altman before he portrayed the controversial CEO of OpenAI in director Luca Guadagnino&#8217;s new film &#8220;Artificial.&#8221; &#8220;I rememb
 
-📎 [阅读原文](https://variety.com/2026/tv/news/the-voice-season-30-premiere-ratings-1236899438/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/andrew-garfield-sam-altman-movie-artificial-nyff-premiere-luca-guadagnino-1236894719/) — *Variety*
 
-### 5. Prime Video Debuts First Look at ‘Bloodaxe’ Series From ‘Vikings’ Creator (TV News Roundup)
+### 5. Skydance to Fully Reorganize International; Kevin MacLellan Will Not Lead Key Group
 
-[原文] Prime Video debuted first look images for “Bloodaxe,” a new original series from “Vikings” creator Michael Hirst and Horatio Hirst. “Bloodaxe” Season 1 follows the rise of Erik Bloodaxe (Xavier Molyne
+[原文] Reverberations from the historic combination of Skydance and Warner Bros. Discovery are now being felt overseas. Despite a Monday report claiming international executive Kevin MacLellan was close to c
 
-📎 [阅读原文](https://variety.com/2026/tv/news/tv-news-roundup-week-of-october-5-1236899406/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/skydance-reorganize-international-kevin-maclellan-1236899732/) — *Variety*
 
 ---
 
 ## 🏥 健康
 
-> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: c35a67df-1427-47a3-9692-144285d86）
+> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 8501fed9-943d-403d-996c-e01c5fcb0）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -278,45 +278,45 @@
 
 ## 🎮 游戏
 
-> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: c548d1f9-8c71-4c3d-b640-996a20d45）
+> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 25268c33-3cd4-47df-a6f6-e6b81ce68）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Brandon Sanderson's New Sci-Fi Novel Is Included in Amazon's Latest Book Sale
+### 1. Hideo Kojima Says You'll See Him Cameo in a 'Big' Live-Action Movie — But Which One Is It?
+
+[原文] Hideo Kojima teased that he's got a cameo in a "big" live-action movie, but he's not saying which one we'll see him in quite yet.
+
+📎 [阅读原文](https://www.ign.com/articles/hideo-kojima-says-youll-see-him-cameo-in-a-big-live-action-movie-but-which-one-is-it) — *IGN*
+
+### 2. Save 37% Off Fanttik T1 Max Cordless Soldering Iron Kit During the Amazon October Prime Day Sale
+
+[原文] An essential tool for tinkering hobbyists.
+
+📎 [阅读原文](https://www.ign.com/articles/fanttik-t1-max-cordless-soldering-iron-deal-amazon-october-prime-day-sale-2026) — *IGN*
+
+### 3. Brandon Sanderson's New Sci-Fi Novel Is Included in Amazon's Latest Book Sale
 
 暂无摘要。
 
 📎 [阅读原文](https://www.ign.com/articles/brandon-sandersons-sci-fi-book-sale-prime-big-deal-days-2026) — *IGN*
 
-### 2. Ubisoft Boss Says Watch Dogs Is 'Important' to Company's Future, But Don't Expect Any New Entries Anytime Soon
+### 4. Ubisoft Boss Says Watch Dogs Is 'Important' to Company's Future, But Don't Expect Any New Entries Anytime Soon
 
 [原文] Don't hold your breath for a new Watch Dogs game anytime soon.
 
 📎 [阅读原文](https://www.ign.com/articles/ubisoft-boss-says-watch-dogs-is-important-to-companys-future-but-dont-expect-any-new-entries-anytime-soon) — *IGN*
 
-### 3. Miami Vice: The Final Director’s Cut’s Ending Invites a Darker Reading of Michael Mann’s Cult Classic
+### 5. Miami Vice: The Final Director’s Cut’s Ending Invites a Darker Reading of Michael Mann’s Cult Classic
 
 [原文] Miami Vice: The Director’s Final Cut’s rejiggered ending invites a slightly darker interpretation of the film than was evident in either of the past versions, especially when considered with what writ
 
 📎 [阅读原文](https://www.ign.com/articles/miami-vice-final-directors-cut-ending-explained) — *IGN*
 
-### 4. Get 6.6ft 240W USB Type-C Cables for Less Than $3 Apiece During the Amazon Prime Day Sale
-
-[原文] Universal cables perfect for your Nintendo Switch 2, Steam Deck, iPhone 17, or laptop.
-
-📎 [阅读原文](https://www.ign.com/articles/usb-cable-deals-amazon-october-prime-day-sale-2026) — *IGN*
-
-### 5. The Gorgeous 27" Acer Nitro QD-OLED Gaming Monitor With 240Hz Refresh Rate Drops to $269 at Walmart
-
-[原文] You'll be hard-pressed to find a better deal on a comparable monitor for Prime Day.
-
-📎 [阅读原文](https://www.ign.com/articles/acer-nitro-qd-oled-gaming-monitor-deal-october-2026) — *IGN*
-
 ---
 
 ## 🚗 汽车
 
-> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 361a6499-ec04-4a0a-b3ac-9accabba1）
+> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 621a0152-8543-4b5b-ac3a-1eafa934c）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -359,7 +359,7 @@ The post Ford Finally Addressed a Costly Design Flaw on the 2027 Super Duty appe
 
 ## 🌱 环境
 
-> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 83d20fbc-b7d8-480f-a5c3-41b5e5a50）
+> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: a8c69158-612f-4fd2-9706-81b674fdf）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -397,7 +397,7 @@ The post Ford Finally Addressed a Costly Design Flaw on the 2027 Super Duty appe
 
 ## 📚 教育
 
-> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: bbffcfcd-b4e5-434b-b713-9b14378b5）
+> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 619f91f1-3b1d-46f0-8a58-6e86b6a3d）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -435,45 +435,45 @@ The post Ford Finally Addressed a Costly Design Flaw on the 2027 Super Duty appe
 
 ## 🎵 音乐
 
-> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 5e05e96e-81a9-478a-9198-5090d1e3a）
+> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 1bd08292-2ad3-4a6e-a440-a01693fd2）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Hayley Williams Responds to DHS’ Suggestion to Thank Officers After ICE Comments: ‘Nazi Bitches’
+### 1. Dolly Parton Estate Claims Nephew Used Caution Tape and Barbed Wire to Dodge Lawsuit Service
+
+[原文] “Mr. Seaver attempted to evade service of process, and this court should not reward that behavior,” the estate’s lawyers wrote
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/dolly-parton-estate-nephew-lawsuit-caution-tape-1235637263/) — *Rolling Stone*
+
+### 2. Hayley Williams Responds to DHS’ Suggestion to Thank Officers After ICE Comments: ‘Nazi Bitches’
 
 [原文] During a recent show in California, the singer yelled "Fuck ICE" and "Free Palestine"
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/hayley-williams-dhs-ice-comments-onstage-1235637280/) — *Rolling Stone*
 
-### 2. Drake Won’t Submit Any of His Three Albums to the 2027 Grammys: Report
+### 3. Drake Won’t Submit Any of His Three Albums to the 2027 Grammys: Report
 
 [原文] It isn’t the first time the rapper has declined to submit for awards consideration
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/drake-grammys-not-submitting-iceman-habibti-maid-of-honour-1235637235/) — *Rolling Stone*
 
-### 3. ‘American Idol’ Contestant Sentenced to Life Without Parole for Murder of Wife
+### 4. ‘American Idol’ Contestant Sentenced to Life Without Parole for Murder of Wife
 
 [原文] "The layers of deceit, manipulation, and cruelty that you have shown are quite honestly impossible to fathom," judge said to Caleb Flynn
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/american-idol-contestant-sentenced-life-prison-murder-wife-1235636930/) — *Rolling Stone*
 
-### 4. Slayyyter Is Ready to Give ‘Wor$t Girl in America’ the ‘Brother’ Album it Deserves
+### 5. Slayyyter Is Ready to Give ‘Wor$t Girl in America’ the ‘Brother’ Album it Deserves
 
 [原文] Wor$t Man in America will feature nine new songs, all of which connect thematically or sonically to the tracks on the musician's breakout 2026 LP
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/slayyyter-worst-man-in-america-album-release-date-1235637079/) — *Rolling Stone*
 
-### 5. L7 Unveil ‘Loma Linda’ Single Originally Recorded With Bassist Janis Tanaka in 2003
-
-[原文] The band reteam with bassist and give track away for free following the death of Jennifer Finch
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/l7-new-song-single-loma-linda-1235636955/) — *Rolling Stone*
-
 ---
 
 ## ✈️ 旅游
 
-> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: ebb5189d-57c5-432a-8844-0ad7b5c04）
+> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: c996e644-5a38-40f1-930a-e3464d814）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -527,6 +527,7 @@ The post Ford Finally Addressed a Costly Design Flaw on the 2027 Super Duty appe
 
 ## ⚠️ 今日故障源
 
+- **💰 经济财经**: Yahoo Finance
 - **🚗 汽车**: Autocar
 
 ---
