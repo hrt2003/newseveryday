@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年10月06日** | 生成时间: 2026-10-06 13:37
+**2026年10月06日** | 生成时间: 2026-10-06 21:02
 
 ---
 
@@ -12,121 +12,121 @@
 
 ## 🌍 国际政治
 
-> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 50818424-7049-4dd9-9b53-5cb9ed7a6）
+> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: c1123c66-65f1-47b3-bf15-3163ef9b9）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump says 'threat' led US to pull bombers from RAF Fairford
+### 1. Former German spy chief arrested for espionage and treason
+
+[原文] August Hanning is accused of obtaining classified information for a foreign power.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Trump says 'threat' led US to pull bombers from RAF Fairford
 
 [原文] The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. France braces for national day of school protests after injuries and mass arrests
+### 3. Fort Hood shooter to be executed by firing squad - a first for US military since World War Two
 
-[原文] France prepares for a day of protests in support of students who’ve been demanding more investment in education.
+[原文] Nidal Malik Hasan killed 13 unarmed soldiers and injured another 32 in the deadliest ever non-combat attack on an American military base.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Saudi Arabia urged to spare man sentenced to death over Facebook post
+### 4. 'Ghost particles' from space telescope wins physics Nobel
 
-[原文] Anojan Sivarasa faces execution after he was found guilty of blasphemy over a Facebook comment.
+[原文] Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cq14d438vx24o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Separatist party projected to win Quebec election, adding new test to Canada's unity
+### 5. Ship sinks and crew missing after Black Sea drone attack
 
-[原文] The Parti Québécois, which secured a minority, has vowed to hold an independence referendum in the years to come.
+[原文] It is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Europe is pouring billions into space. Can Glasgow's satellite industry keep up?
-
-[原文] The city's space boom raises questions about the role of the state in backing important industries.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cm2kedyp348lo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
 ## 💰 经济财经
 
-> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 28d25fb9-b00c-4898-9545-4622f9105）
+> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 710a6d88-3791-448b-b8a2-6801c9168）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump offers U.S. help to Russia after plague death; WHO assesses the situation as low risk
+### 1. Rebounding oil exports through Strait of Hormuz are vulnerable to stepped-up Iranian tanker attacks
 
-[原文] WHO said it was in contact with Russian authorities, and has offered support if needed, while assessing the risk to the general public as low based on available information.
+[原文] Nearly 20 commercial ships, mostly tankers, have come under attack over the past month while sailing through the Hormuz chokepoint.
 
-📎 [阅读原文](https://www.cnbc.com/2026/10/06/russia-plague-death-trump-offers-us-help.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/06/crude-oil-tanker-strait-hormuz-iran-attack.html) — *CNBC*
 
-### 2. World Bank warns of AI concentration risks as it lifts East Asia and Pacific growth outlook to 4.5%
+### 2. Paramount's hard-fought takeover of Warner Bros. Discovery closed Tuesday. Here's how we got here
 
-[原文] The World Bank now expects the region to grow 4.5% this year, but flagged that trade growth outside AI-related goods has been "weak or negative."
+[原文] Paramount has faced competing bids and an antitrust hurdle since its earliest attempts to take over WBD. Here's a timeline of key events.
 
-📎 [阅读原文](https://www.cnbc.com/2026/10/06/world-bank-east-asia-growth-inflation-ai-exports-.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/06/paramount-wbd-deal-timeline.html) — *CNBC*
 
-### 3. Pentagon says Trump approves Army firing squad execution of Fort Hood killer Nidal Hasan
+### 3. Trump allows cheaper, dyed diesel on highways to blunt historic fuel cost spike ahead of midterms
 
-[原文] Former Army Maj. Nidal Hassan was sentenced to death after a court-martial that convicted him of killing 13 and wounding 32 others at an Army base in Texas.
+[原文] The U.S. national average price of diesel topped $6 a gallon in September for the first time ever, as fuel supply disruptions pushed up transportation costs in the country.
 
-📎 [阅读原文](https://www.cnbc.com/2026/10/06/trump-execution-nidal-hasan-firing-squad-fort-hood.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/06/us-diesel-fuel-prices-iran-ukraine-energy-crisis-.html) — *CNBC*
 
-### 4. Russian gold floods Hong Kong as Western sanctions redraw bullion trade
+### 4. Why deep-red Kansas has become an unexpected Senate battleground
 
-[原文] The surge underscores how Russia's gold trade has been rerouted after its invasion of Ukraine in 2022 shut its producers out of major Western markets.
+[原文] A combination of local, national and international events has contributed to making the Kansas Senate race one to watch.
 
-📎 [阅读原文](https://www.cnbc.com/2026/10/06/russia-gold-hong-kong-china-western-sanctions.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/06/kansas-election-senate-marshall-hamilton.html) — *CNBC*
 
-### 5. Trump says MAGA Inc. PAC will pay for controversial TV ads that government funded
+### 5. Anduril lands $2.9 billion Navy submarine shipyard contract days after CEO joins Pentagon weapons group
 
-[原文] The New York Times reported "Trump personally instructed his budget director to use taxpayer money for TV ads praising him and his presidency."
+[原文] Defense tech leaders are gaining sway in Washington in President Donald Trump's military reindustrialization push
 
-📎 [阅读原文](https://www.cnbc.com/2026/10/05/trump-ads-election.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/06/anduril-navy-submarine-shipyard-contract.html) — *CNBC*
 
 ---
 
 ## 💻 科技
 
-> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: f29d42a2-067c-4251-bda1-e5a1599df）
+> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 288e1091-1a61-4b33-9318-5319b8448）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Lucid Motors’ EV output falls to lowest level in almost 2 years
+### 1. Flai’s AI dealership software is booking 50,000 appointments per month
+
+[原文] Flai's revenue has grown 20x in a year, and the company just closed a $27 million Series A funding round.
+
+📎 [阅读原文](https://techcrunch.com/2026/10/06/flais-ai-dealership-software-is-booking-50000-appointments-per-month/) — *TechCrunch*
+
+### 2. Facebook tests going Reels-first in India
+
+[原文] Meta is testing a new Facebook UX in India that sends some users directly into full-screen video when they open the app, putting Reels front and center.
+
+📎 [阅读原文](https://techcrunch.com/2026/10/06/facebook-tests-going-reels-first-in-india/) — *TechCrunch*
+
+### 3. Type One Energy raised $200M to build a fusion power plant by 2034
+
+[原文] Type One Energy is betting that its lean approach to fusion power will get a power plant on the grid faster, and investors have rewarded it with $200 million.
+
+📎 [阅读原文](https://techcrunch.com/2026/10/06/type-one-energy-raised-200m-to-build-a-fusion-power-plant-by-2034/) — *TechCrunch*
+
+### 4. Lucid Motors’ EV output falls to lowest level in almost 2 years
 
 [原文] The company is deliberately limiting production after years of struggling to find mass-market demand for its EVs.
 
 📎 [阅读原文](https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/) — *TechCrunch*
 
-### 2. OpenAI will start watermarking ChatGPT’s text in the EU
+### 5. OpenAI will start watermarking ChatGPT’s text in the EU
 
 [原文] OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.
 
 📎 [阅读原文](https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/) — *TechCrunch*
 
-### 3. Etched fields funding offers at $40B+ valuation, sources say
-
-[原文] Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch.
-
-📎 [阅读原文](https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/) — *TechCrunch*
-
-### 4. After Factory’s public spat with Khosla, Menlo proudly invests
-
-[原文] Days after Vinod Khosla called Factory a struggling also-ran, Menlo has shown up with a check and a glowing blog post.
-
-📎 [阅读原文](https://techcrunch.com/2026/10/05/after-factorys-public-spat-with-khosla-menlo-proudly-invests/) — *TechCrunch*
-
-### 5. Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost
-
-[原文] Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI syste
-
-📎 [阅读原文](https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/) — *TechCrunch*
-
 ---
 
 ## 🔬 科学
 
-> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 6b5dc35d-cf53-4a20-82bd-5cde8e363）
+> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: b890d8f9-3a32-4868-b730-7904f0965）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -164,83 +164,83 @@
 
 ## ⚽ 体育
 
-> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 4acb58b8-083e-49f5-9be3-819a7676a）
+> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 79eb8d15-2d65-4e96-abfd-931450f11）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. England's greatest international? Kane is now a serious contender
+### 1. Owner, businessman & player: Messi has big plans as a golden era ends
 
-[原文] With Harry Kane set to equal Peter Shilton's all-time England appearance record, where does he rank among England greats?
+[原文] Lionel Messi's Argentina career will end in a friendly against Benin. BBC Sport looks at what next for the 39-year-old?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cm5ynj882zw0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cwly3lpmyye9o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. NI make huge strides despite Georgia frustration
+### 2. LIV Golf secures potential $300m investment
 
-[原文] With eight points from four games, Northern Ireland show real progress through what manager Michael O'Neill calls "one of the most enjoyable windows" he has had in international football.
+[原文] LIV Golf secures a possible $300m in financing from BC Partners Credit in order to emerge from restructuring before the 2027 season.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cmvg9lp24p1po?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/ckjwe02v4xdlo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. F1 needs to have hard look at itself - Sainz
+### 3. Captain apologises for gloating over military service exemption
 
-[原文] F1 "needs to have a hard look at" itself in the wake of unprecedented software glitches that affected the Bahrain Grand Prix in Malaysia, Carlos Sainz says.
+[原文] Lee Gi-hyuk apologises for gloating about avoiding South Korea's mandatory military service by captaining his country to the football gold medal at the Asian Games.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/cr62y51n1841o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c6wy4xd80xyvo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Player welfare, injury worries & boredom - has extended break worked?
+### 4. Calm in real life but demons on court - Medvedev runs out of chances
 
-[原文] The extended international break was brought in with player welfare in mind, but has it been a success?
+[原文] Daniil Medvedev once said you would need to knock on his hotel door at 6am for seven days in a row to make him angry - but his China Open disqualification was no surprise.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cq8jz7verm24o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cxyvr7q207gpo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Medvedev disqualified from Djokovic match for hitting spectator with ball
+### 5. NFL suspends two officials for player incidents
 
-[原文] Daniil Medvedev is disqualified from the China Open after hitting a spectator in the face with a ball during his semi-final against Novak Djokovic.
+[原文] The NFL suspends officials Jeff Seeman and Adrian Hill for instances of unprofessional conduct towards a player.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cqkg5npg0r9vo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/american-football/articles/cqrlynky9j61o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
 ## 🎬 娱乐
 
-> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 89ca8ad7-63c5-4765-9893-2b1ba8f5a）
+> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: d91d9b6e-4be3-4d85-bd70-34abea6f3）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Michael Douglas Weighs In on ‘Nepo Baby’ Debate, Says the Title ‘Really Pisses Me Off’
+### 1. Hasbro Opens Third ‘Peppa Pig’-Themed Cafe in China, Unveils New Details About Brazil’s ‘Transformers’ Attraction (EXCLUSIVE)
 
-[原文] Michael Douglas is wading into the “nepo baby” debate. The “Wall Street” actor, who is the son of the late Hollywood legend Kirk Douglas, opened up on a recent episode of the Smartless podcast and sai
+[原文] Hasbro is debuting its third Peppa Pig Play Cafe location in October this month, Variety has learned exclusively, adding one more fixed attraction to the company&#8217;s growing list of in-person expe
 
-📎 [阅读原文](https://variety.com/2026/film/news/michael-douglas-nepo-baby-debate-1236899927/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/peppa-pig-play-cafe-china-transformers-ride-brazil-1236899611/) — *Variety*
 
-### 2. Jon Stewart’s ‘Daily Show’ Skips David Ellison-Skydance News to Take on AI
+### 2. AI Film ‘Gods Don’t Give Gifts’ Sets First Trailer for December Theatrical Run, Plans Oscar Bid for Best Animated Feature
 
-[原文] On Sunday night, John Oliver dedicated the majority of his Emmy-winning show “Last Week Tonight” to the Secret Service’s failings in recent years while declining to address the major media news of the
+[原文] It&#8217;ll take a bit longer for the first AI-generated film to make it to theaters —&#160;because it’s gunning for an Oscar. The AI studio Fable has shifted the U.S. release of “Gods Don&#8217;t Giv
 
-📎 [阅读原文](https://variety.com/2026/tv/news/jon-stewart-daily-show-skydance-david-ellison-ai-1236899825/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/ai-film-gods-dont-give-gifts-sets-trailer-plans-oscar-bid-1236897843/) — *Variety*
 
-### 3. ‘Artificial’ Review: Luca Guadagnino Has Made the Real Sequel to ‘The Social Network’ — a Brain-Spinning Tech-Geek Docudrama, Brilliantly Acted by Andrew Garfield and Yura Borisov
+### 3. AI Studio Authors First, Backed by $10 Million, Pledges to Help Writers Faithfully Adapt Their Books
 
-[原文] "Artificial" is a brilliant but playful docudrama, meticulously true to history, that focuses on the founders of OpenAI, notably its CEO Sam Altman (Andrew Garfield). But the tale it tells is much lar
+[原文] A new startup pledges to give authors an easier way to bring their books to life for the screen. It, naturally, involves AI. Authors First, founded by private equity veteran Robert Hamwee, promises to
 
-📎 [阅读原文](https://variety.com/2026/film/reviews/artificial-review-andrew-garfield-luca-gaudagnino-1236898663/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/biz/news/ai-studio-authors-first-10-million-writers-adapt-books-1236898818/) — *Variety*
 
-### 4. Andrew Garfield Says OpenAI’s Sam Altman Seemed ‘F—ing Great’ Before Playing Him in ‘Artificial’: ‘And Then You Learn More About a Person’
+### 4. ‘Star Wars: Galactic Racer’ Debuts on Amazon Luna Day and Date With Wide Release (Gaming News Roundup)
 
-[原文] Andrew Garfield admits he was initially charmed by Sam Altman before he portrayed the controversial CEO of OpenAI in director Luca Guadagnino&#8217;s new film &#8220;Artificial.&#8221; &#8220;I rememb
+[原文] “Star Wars: Galactic Racer” launched on Amazon&#8217;s gaming service Luna day and date alongside the game’s worldwide release across platforms including PlayStation 5, Xbox Series S and X and PC. Dev
 
-📎 [阅读原文](https://variety.com/2026/film/news/andrew-garfield-sam-altman-movie-artificial-nyff-premiere-luca-guadagnino-1236894719/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/gaming/news/gaming-news-roundup-october-5-1236899234/) — *Variety*
 
-### 5. Skydance to Fully Reorganize International; Kevin MacLellan Will Not Lead Key Group
+### 5. Lucy Hale to Star in Roku Limited Series ‘Scarlett Holmes’
 
-[原文] Reverberations from the historic combination of Skydance and Warner Bros. Discovery are now being felt overseas. Despite a Monday report claiming international executive Kevin MacLellan was close to c
+[原文] “Pretty Little Liars” actress Lucy Hale is solving new mysteries as the lead in Roku’s upcoming limited series &#8220;Scarlett Holmes,” which will take a romantic spin on the world of Sherlock Holmes.
 
-📎 [阅读原文](https://variety.com/2026/film/news/skydance-reorganize-international-kevin-maclellan-1236899732/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/lucy-hale-star-in-roku-limited-series-scarlett-holmes-1236899347/) — *Variety*
 
 ---
 
 ## 🏥 健康
 
-> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 8501fed9-943d-403d-996c-e01c5fcb0）
+> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: cd32dd15-3572-44bd-94b2-4c203b8a8）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -278,45 +278,45 @@
 
 ## 🎮 游戏
 
-> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 25268c33-3cd4-47df-a6f6-e6b81ce68）
+> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 4f0f5812-b667-4524-9793-8925ba47f）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Hideo Kojima Says You'll See Him Cameo in a 'Big' Live-Action Movie — But Which One Is It?
+### 1. The Meta Quest 3 512GB VR Headset Is 30% Off at eBay, Beats Any Amazon Prime Day Deal
 
-[原文] Hideo Kojima teased that he's got a cameo in a "big" live-action movie, but he's not saying which one we'll see him in quite yet.
+[原文] With this deal, it's considerably cheaper than the Quest 3's msrp even before the price hike.
 
-📎 [阅读原文](https://www.ign.com/articles/hideo-kojima-says-youll-see-him-cameo-in-a-big-live-action-movie-but-which-one-is-it) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/best-meta-quest-3-deal-amazon-october-prime-day-sale) — *IGN*
 
-### 2. Save 37% Off Fanttik T1 Max Cordless Soldering Iron Kit During the Amazon October Prime Day Sale
+### 2. The Beats Studio Pro Noise Canceling Headphones Drops to the Lowest Price Ever for Prime Day
 
-[原文] An essential tool for tinkering hobbyists.
+[原文] The best Prime Day headphone deal so far.
 
-📎 [阅读原文](https://www.ign.com/articles/fanttik-t1-max-cordless-soldering-iron-deal-amazon-october-prime-day-sale-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/beats-studio-pro-wireless-noise-canceling-headphone-deal-october-2026) — *IGN*
 
-### 3. Brandon Sanderson's New Sci-Fi Novel Is Included in Amazon's Latest Book Sale
+### 3. The Marvel Legends Daredevil: Born Again Mask Is on Sale Just In Time for Halloween
 
 暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/brandon-sandersons-sci-fi-book-sale-prime-big-deal-days-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/marvel-legends-daredevil-born-again-mask-and-clubs-sale-prime-big-deal-days-2026) — *IGN*
 
-### 4. Ubisoft Boss Says Watch Dogs Is 'Important' to Company's Future, But Don't Expect Any New Entries Anytime Soon
+### 4. The LEGO Icons Project Hail Mary Set Gets Its First Discount During Big Deal Days
 
-[原文] Don't hold your breath for a new Watch Dogs game anytime soon.
+暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/ubisoft-boss-says-watch-dogs-is-important-to-companys-future-but-dont-expect-any-new-entries-anytime-soon) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/lego-icons-project-hail-mary-set-deal-prime-big-deal-days-2026) — *IGN*
 
-### 5. Miami Vice: The Final Director’s Cut’s Ending Invites a Darker Reading of Michael Mann’s Cult Classic
+### 5. The 18 Best Prime Big Deal Days Gaming Deals — Hand-Picked by Our Deals Experts
 
-[原文] Miami Vice: The Director’s Final Cut’s rejiggered ending invites a slightly darker interpretation of the film than was evident in either of the past versions, especially when considered with what writ
+[原文] Amazon's latest Prime Day sale features massive discounts on PS5, Switch 2, and Xbox titles, including deals on 2026's biggest games like The Blood of Dawnwalker, Star Wars: Zero Company, Pragmata, LE
 
-📎 [阅读原文](https://www.ign.com/articles/miami-vice-final-directors-cut-ending-explained) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/best-video-game-deals-october-prime-day-2026) — *IGN*
 
 ---
 
 ## 🚗 汽车
 
-> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 621a0152-8543-4b5b-ac3a-1eafa934c）
+> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: f4955153-5e90-4bbd-95b9-2e2969e79）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -359,45 +359,45 @@ The post Ford Finally Addressed a Costly Design Flaw on the 2027 Super Duty appe
 
 ## 🌱 环境
 
-> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: a8c69158-612f-4fd2-9706-81b674fdf）
+> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 5beedf43-bb63-464b-9a0a-907008395）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Final ‘Grandmother’ Cottonwood Toppled, Protesters Arrested in Arizona
+### 1. Water Bills Surged More Than Other Costs in US Homes Over 10 Years, a ‘Striking’ New Report Shows
+
+[原文] Drinking water costs spiked faster than inflation, grocery prices and median household income, researchers at nonprofit Food &#38; Water Watch outlined in a first-of-its-kind report released Tuesday. 
+
+📎 [阅读原文](https://insideclimatenews.org/news/06102026/water-bills-surged-more-than-other-costs-in-us-homes-over-10-years-a-striking-new-report-shows/) — *Inside Climate News*
+
+### 2. Development Becomes a Flashpoint in a Key New York House Race
+
+[原文] NY-17: The third in a series on the environmental stakes behind one of the nation&#8217;s most fiercely contested congressional races. At 8, on her walk home from elementary school, Sylke Jackson woul
+
+📎 [阅读原文](https://insideclimatenews.org/news/06102026/new-york-17-house-race-warehouse-and-data-center-development/) — *Inside Climate News*
+
+### 3. Final ‘Grandmother’ Cottonwood Toppled, Protesters Arrested in Arizona
 
 [原文] Armed Border Patrol agents raided a protest camp in Lochiel, in southeast Arizona, making way for contractors to cut down the last standing cottonwood tree Monday morning for a double border wall, aft
 
 📎 [阅读原文](https://insideclimatenews.org/news/05102026/final-grandmother-cottonwood-toppled-protesters-arrested-in-arizona/) — *Inside Climate News*
 
-### 2. Supreme Court Weighs Landmark Climate Deception Case Against Oil Companies
+### 4. Supreme Court Weighs Landmark Climate Deception Case Against Oil Companies
 
 [原文] The U.S. Supreme Court heard arguments from oil companies on Monday that could help decide the fate of more than two dozen lawsuits accusing the industry of deceiving the public about climate change. 
 
 📎 [阅读原文](https://insideclimatenews.org/news/05102026/supreme-court-suncor-v-boulder-oil-case/) — *Inside Climate News*
 
-### 3. New York Is Running Out of Room for Its Trash
+### 5. New York Is Running Out of Room for Its Trash
 
 [原文] New York City is running out of places to dump its trash. In the latest draft of the city’s once-a-decade solid waste management plan, the sanitation department warns that the landfills receiving much
 
 📎 [阅读原文](https://insideclimatenews.org/news/05102026/new-york-trash-landfills-are-full/) — *Inside Climate News*
 
-### 4. New California Law Aims to Stop ‘Predatory’ Developers From Moving in on Wildfire-Ravaged Community
-
-[原文] ALTADENA, Calif.—Sylvie Andrews walks among the brilliant white poppies, purple California grapes and olive-green thorns surrounding her yard’s blackened pizza oven—one of the only things that survive
-
-📎 [阅读原文](https://insideclimatenews.org/news/04102026/california-law-aims-to-stop-predatory-developers-after-disasters/) — *Inside Climate News*
-
-### 5. A Colorado Water Trial Could Decide the Future of an Agricultural Valley
-
-[原文] Water regulators and farmers in Colorado’s San Luis Valley are in a lose-lose situation. Either they adopt a plan to aggressively manage the use of groundwater from their rapidly declining aquifer, li
-
-📎 [阅读原文](https://insideclimatenews.org/news/04102026/san-luis-valley-water-trial/) — *Inside Climate News*
-
 ---
 
 ## 📚 教育
 
-> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 619f91f1-3b1d-46f0-8a58-6e86b6a3d）
+> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: ffbf9dc8-9599-43db-8ce9-4b7d237dd）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -435,77 +435,77 @@ The post Ford Finally Addressed a Costly Design Flaw on the 2027 Super Duty appe
 
 ## 🎵 音乐
 
-> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 1bd08292-2ad3-4a6e-a440-a01693fd2）
+> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 10ab0062-dd35-4770-859a-1a9a3c4be）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Dolly Parton Estate Claims Nephew Used Caution Tape and Barbed Wire to Dodge Lawsuit Service
+### 1. Watch Mumford & Sons, Chris Thile Showcase ‘Here’ on ‘Kimmel’
+
+[原文] The song comes off the group's most recent album, Prizefighter
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/mumford-and-sons-chris-thile-here-performance-kimmel-1235637398/) — *Rolling Stone*
+
+### 2. Dolly Parton Estate Claims Nephew Used Caution Tape and Barbed Wire to Dodge Lawsuit Service
 
 [原文] “Mr. Seaver attempted to evade service of process, and this court should not reward that behavior,” the estate’s lawyers wrote
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/dolly-parton-estate-nephew-lawsuit-caution-tape-1235637263/) — *Rolling Stone*
 
-### 2. Hayley Williams Responds to DHS’ Suggestion to Thank Officers After ICE Comments: ‘Nazi Bitches’
+### 3. Hayley Williams Responds to DHS’ Suggestion to Thank Officers After ICE Comments: ‘Nazi Bitches’
 
 [原文] During a recent show in California, the singer yelled "Fuck ICE" and "Free Palestine"
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/hayley-williams-dhs-ice-comments-onstage-1235637280/) — *Rolling Stone*
 
-### 3. Drake Won’t Submit Any of His Three Albums to the 2027 Grammys: Report
+### 4. Drake Won’t Submit Any of His Three Albums to the 2027 Grammys: Report
 
 [原文] It isn’t the first time the rapper has declined to submit for awards consideration
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/drake-grammys-not-submitting-iceman-habibti-maid-of-honour-1235637235/) — *Rolling Stone*
 
-### 4. ‘American Idol’ Contestant Sentenced to Life Without Parole for Murder of Wife
+### 5. ‘American Idol’ Contestant Sentenced to Life Without Parole for Murder of Wife
 
 [原文] "The layers of deceit, manipulation, and cruelty that you have shown are quite honestly impossible to fathom," judge said to Caleb Flynn
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/american-idol-contestant-sentenced-life-prison-murder-wife-1235636930/) — *Rolling Stone*
 
-### 5. Slayyyter Is Ready to Give ‘Wor$t Girl in America’ the ‘Brother’ Album it Deserves
-
-[原文] Wor$t Man in America will feature nine new songs, all of which connect thematically or sonically to the tracks on the musician's breakout 2026 LP
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/slayyyter-worst-man-in-america-album-release-date-1235637079/) — *Rolling Stone*
-
 ---
 
 ## ✈️ 旅游
 
-> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: c996e644-5a38-40f1-930a-e3464d814）
+> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: a5ea5a51-70c5-4543-8343-ed6d2c732）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Travel + Leisure Taps Wyndham to Take Sports Illustrated Resorts Into Hotels
+### 1. Q&A: Why Travel Brands Need to Close the Disruption Accountability Gap
+
+[原文] As trips become more fragmented across providers, travelers still expect someone to step up when plans unravel. For travel brands, how they respond to disruption may be becoming as important to loyalt
+
+📎 [阅读原文](https://skift.com/2026/10/06/qa-why-travel-brands-need-to-close-the-disruption-accountability-gap/) — *Skift*
+
+### 2. See the Confirmed Speakers for Skift Transatlantic Summit 2026
+
+[原文] A government minister, an EU regulator, a member of the European Parliament, and the airline and destination chiefs who move the corridor rarely share a stage. On October 15 in Dublin, they do, and so
+
+📎 [阅读原文](https://skift.com/2026/10/06/see-the-confirmed-speakers-for-skift-transatlantic-summit-2026/) — *Skift*
+
+### 3. Travel + Leisure Taps Wyndham to Take Sports Illustrated Resorts Into Hotels
 
 [原文] Wyndham's scale could help a brand that has been slow to get properties built.
 
 📎 [阅读原文](https://skift.com/2026/10/05/travel-leisure-taps-wyndham-to-take-sports-illustrated-resorts-into-hotels/) — *Skift*
 
-### 2. Caroline Beteta Returns to Brand USA as Interim CEO
+### 4. Caroline Beteta Returns to Brand USA as Interim CEO
 
 [原文] The appointment comes as Brand USA President and CEO Fred Dixon prepares to rejoin NYC Tourism + Conventions.
 
 📎 [阅读原文](https://skift.com/2026/10/05/caroline-beteta-brand-usa-interim-ceo/) — *Skift*
 
-### 3. Delta Air Lines Is Building Out Its Own Media Network
+### 5. Delta Air Lines Is Building Out Its Own Media Network
 
 [原文] While Delta is still in the early stages of building out its own media network, personalization could become a major revenue stream for airlines looking to appeal to more affluent travelers.
 
 📎 [阅读原文](https://skift.com/2026/10/05/delta-air-lines-building-out-its-own-media-network/) — *Skift*
-
-### 4. Mumbai Airport Plans to Move a Third of Terminal 2’s International Departures. Airlines Are Pushing Back
-
-[原文] The safety case for Terminal 1 is credible, but the plan also happens to give Navi Mumbai the international traffic it needs. Whether that's coincidence or design, airlines will keep asking.
-
-📎 [阅读原文](https://skift.com/2026/10/05/mumbai-airport-plans-to-move-a-third-of-terminal-2s-international-departures-airlines-are-pushing-back/) — *Skift*
-
-### 5. Inside G Adventures’ Case for a $700 Million Year
-
-[原文] G Adventures is moving beyond its traditional small-group adventure customer, and that changes both the size of the opportunity and the execution risk.
-
-📎 [阅读原文](https://skift.com/2026/10/05/inside-g-adventures-case-for-a-700-million-year/) — *Skift*
 
 ---
 
