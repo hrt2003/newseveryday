@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年10月07日** | 生成时间: 2026-10-07 13:07
+**2026年10月07日** | 生成时间: 2026-10-07 20:56
 
 ---
 
@@ -12,121 +12,121 @@
 
 ## 🌍 国际政治
 
-> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 530810a0-4515-4be2-9541-2e9164f86）
+> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 319fec91-5f01-4d12-a1e9-fe1db0408）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. US death row inmate Christa Pike awake and speaking after failed execution, lawyers say
+### 1. France halts use of stun grenades after boy's hand blown off in student protests
 
-[原文] Experts and lawyers called the apparent recovery unprecedented, noting she is believed to be the only known person to survive a lethal injection.
+[原文] The step comes after several groups complained of police using disproportionate force towards teenagers.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. US death row inmate Christa Pike awake and speaking after failed execution, lawyers say
+
+[原文] A medical expert advising her legal team says the murderer of Colleen Slemmer is communicating in a "basic way".
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Tear gas in Paris and Marseille as school protests grow across France
+### 3. Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild
 
-[原文] Crowds of mainly teenagers called for more resources for schools and an end to what they called police repression.
+[原文] Three years on from the attack on Nir Oz, in which 47 people were killed and 76 taken hostage, some survivors have returned to live there.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Former German spy chief arrested for espionage and treason
+### 4. Trump to speak to Putin about plague lab worker's death in Russia
 
-[原文] August Hanning is accused of obtaining classified information for a foreign power.
+[原文] Fears that the death may have been caused by pneumonic plague has prompted calls for more transparency from Russia.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. A beautiful Himalayan bird is changing its voice due to human activity, research shows
+### 5. Zelensky condemns 'vile' large-scale Russian attacks that killed 15
 
-[原文] A sharp increase in human activity is affecting the way the Himalayan monal lives and communicates, studies show.
+[原文] Rescue workers are continuing a search for residents after an apartment building in Pryluky was destroyed.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cq9868z88rexo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Former Australian bishop jailed for sexually abusing young men
-
-[原文] The former Bishop of Broome is one of the most senior Catholic clerics in the world to face sex abuse charges.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj62ylxqz173o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
 ## 💰 经济财经
 
-> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 3c249932-a49d-43cb-996b-82bffde34）
+> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 9cd66f6a-aab0-4b7e-9913-9cf232d26）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Oil rises as concerns over Houthi attacks on Saudi Arabia eclipse supply recovery
+### 1. 10-year Treasury note yield hits highest level since 2002 as traders brace for key bond sale
 
-[原文] Oil rose Wednesday, as concerns over attacks by Yemen's Iran-backed Houthis on Saudi Arabia outweigh a higher crude supply in Middle East.
+[原文] U.S. Treasury yields climbed Wednesday after retreating in the previous session, as oil prices moved higher.
+
+📎 [阅读原文](https://www.cnbc.com/2026/10/07/treasury-yields-auction-fomc-minutes.html) — *CNBC*
+
+### 2. ICE came to town and left behind weakened economies
+
+[原文] Research links ICE enforcement surges to lasting declines in local spending, foot traffic and jobs. In Minneapolis, businesses are still recovering.
+
+📎 [阅读原文](https://www.cnbc.com/2026/10/07/ice-raids-local-economies.html) — *CNBC*
+
+### 3. Oil edges higher as concerns over Houthi attacks on Saudi Arabia eclipse supply recovery
+
+[原文] Iran's move to step up attacks on tankers which are transiting through the Strait of Hormuz has also led to renewed worries over oil supplies among traders.
 
 📎 [阅读原文](https://www.cnbc.com/2026/10/07/oil-prices-today-brent-wti-hormuz.html) — *CNBC*
 
-### 2. Trump set to talk to Russia's Putin 'very soon' about plague-related death in Siberia
+### 4. Rubio says Tehran missed 'multiple' chances for nuclear deal amid Iran stalemate
 
-[原文] Trump says he will speak with Putin “very soon” over a plague incident in Russia as CDC monitor the situation.
+[原文] Iran has failed to take advantage of "multiple opportunities" to reach a deal on its nuclear program, Secretary of State Marco Rubio said Wednesday.
 
-📎 [阅读原文](https://www.cnbc.com/2026/10/07/trump-putin-russian-plague-death-cdc-pneumonic-.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/07/us-iran-war-trump-hormuz.html) — *CNBC*
 
-### 3. India’s central bank hikes rates for the first time since 2023 as inflation risks build
+### 5. Google ordered to halt work on two data centers in ‘Texas of Europe’
 
-[原文] HSBC and Goldman Sachs expect the RBI to raise interest rates in December as well.
+[原文] Finland has emerged as a key location for data centers amid the AI boom.
 
-📎 [阅读原文](https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html) — *CNBC*
-
-### 4. Trillions are being ‘wasted’ on the AI boom, Arthur Hayes says. He’s betting on what comes next
-
-[原文] Former BitMEX CEO Arthur Hayes says the AI infrastructure boom is being overbuilt and is betting an eventual crash and bailout will send crypto higher.
-
-📎 [阅读原文](https://www.cnbc.com/2026/10/07/flop-ai-boom-arthur-hayes-bitcoin-bitmex-coinferencex-.html) — *CNBC*
-
-### 5. Trump isn't ‘completely wrong’: Hormuz disruption is Asia’s problem, says Singapore's foreign minister
-
-[原文] Trump has said that Asian economies, which are heavily reliant on energy shipped through Hormuz, should shoulder more of the burden of keeping the waterway open.
-
-📎 [阅读原文](https://www.cnbc.com/2026/10/07/hormuz-iran-war-singapore-vivian-balakrishnan.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/07/google-finland-data-center-halt.html) — *CNBC*
 
 ---
 
 ## 💻 科技
 
-> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: c6896e64-ca74-47b0-ad1b-bc747fb43）
+> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: f277caa1-9eb4-44c6-80d1-69a3bfd17）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. How to find out if Amazon thinks you have ‘flat buttocks’
+### 1. Spotify expands audiobooks to over 180 markets
+
+[原文] Spotify will make 350,000 titles available in over 120 languages for this expansion
+
+📎 [阅读原文](https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/) — *TechCrunch*
+
+### 2. How to find out if Amazon thinks you have ‘flat buttocks’
 
 [原文] "I stumbled upon a page of assumptions that Amazon has made about me based on my purchases and I’m literally speechless," one shopper wrote on Threads.
 
 📎 [阅读原文](https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/) — *TechCrunch*
 
-### 2. Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell
+### 3. Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell
 
 [原文] Apple appears poised to push into the smart home market with a slate of new devices and a key partner.
 
 📎 [阅读原文](https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/) — *TechCrunch*
 
-### 3. Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product
+### 4. Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product
 
 [原文] Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.
 
 📎 [阅读原文](https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/) — *TechCrunch*
 
-### 4. Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet
+### 5. Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet
 
 [原文] Sigil Wen, backed by a Silicon Valley who's who, has built an on-device AI assistant that promises to be free, fully private, and capable for everyday tasks.
 
 📎 [阅读原文](https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/) — *TechCrunch*
 
-### 5. How AI decision models could change content moderation
-
-[原文] On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.
-
-📎 [阅读原文](https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/) — *TechCrunch*
-
 ---
 
 ## 🔬 科学
 
-> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: e5855c17-5c64-4a5b-a0c2-a604e9592）
+> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: a8015784-fe31-4a04-ac7b-912e8618b）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -164,83 +164,83 @@
 
 ## ⚽ 体育
 
-> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 647ef1c2-704a-491d-ac1e-4038bb824）
+> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 06a5bc5a-a4e4-46c8-a3cf-91fab4767）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Midfield options and a fab front four - what we've learned about England
+### 1. Tuchel's England 2.0: What has changed?
 
-[原文] From Trent Alexander-Arnold's return to Alex Scott's debut, Phil McNulty assesses what England have learned during this international window.
+[原文] What has Thomas Tuchel tweaked as he looks to refine his England blueprint rather than rewrite it from scratch?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cq62y431dj8vo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cvp8gex8wzneo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Honeymoon over as Pocognoli's Scotland suffer domestic disharmony
+### 2. Senior figures worried about Man City being in next season's Champions League
 
-[原文] Sebastien Pocognoli is left with questions to answer after an inert Scotland performance leaves him still searching for his first home win, writes Tom English.
+[原文] Senior figures within the English game are concerned that Manchester City could play in the Champions League next season even if they are relegated for breaching financial regulations.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c5lye031jvgro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c9p8gxgm71zzo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Ronaldo wants Portugal 'punishment' but not retiring
+### 3. Russell to start from back of Singapore grid after penalty
+
+[原文] Britain's George Russell will start from the back of the grid in Sunday's Singapore Grand Prix because of a power-unit penalty from last weekend's race.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/cm0qkdk37gy0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. Arteta signs new contract with champions Arsenal
+
+[原文] Mikel Arteta says this is "only the beginning" of Arsenal's success after signing a new contract with the Premier League champions until 2030.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/crz65j5p8l57o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 5. Ronaldo ready to be punished but says Jesus 'broke his word'
 
 [原文] Cristiano Ronaldo says he is not retiring from international football but deserves to be punished for walking out on Portugal after head coach Jorge Jesus "broke his word to me".
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cmd7qn48q13lo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Kane scores twice but who else was a 'real threat'? England player ratings
-
-[原文] Senior football correspondent Sami Mokbel rates the England players after Tuesday's 3-0 win against the Czech Republic.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cx7vp3lqv985o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. LIV Golf secures potential $300m investment
-
-[原文] LIV Golf secures a possible $300m in financing from BC Partners Credit in order to emerge from restructuring before the 2027 season.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/ckjwe02v4xdlo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
 ---
 
 ## 🎬 娱乐
 
-> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: fdfae1a6-5c9a-4c9e-8e6c-baee6ea36）
+> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 3cbaee34-69d9-4998-af68-f6eda3be4）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Michelle Yeoh Calls ‘Blade Runner 2099’ an ‘Amazing Journey,’ Rules Out Directing at Busan
+### 1. Fremantle’s Mipcom Lineup: ‘Baywatch,’ Matthew Macfadyen and Claire Foy in ‘You Are Here,’ Impactful Non-Fiction and More (EXCLUSIVE)
 
-[原文] Michelle Yeoh turned her attention to &#8220;Blade Runner 2099&#8221; at a Busan International Film Festival press conference on Wednesday, before she flies to New York Comic Con to promote the Prime 
+[原文] Galvanized by the weighty sales and deal prospects on its “Baywatch” reboot, Fremantle is set to hit the Croisette with a powerhouse lineup as it drives ever more into “mainstream escapism, entertainm
 
-📎 [阅读原文](https://variety.com/2026/film/festivals/michelle-yeoh-blade-runner-2099-amazing-journey-busan-1236904050/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/global/fremantle-mipcom-2026-baywatch-matthew-macfadyen-claire-foy-1236904240/) — *Variety*
 
-### 2. Chuck Lorre Says Working on ‘Roseanne’ ‘Was Malice’ Because Roseanne Barr ‘Fundamentally Hated’ the Show’s Writers
+### 2. Bestseller ‘The Story of Marceau Miller’ Adaptation Set for Mipcom via France TV Distribution (EXCLUSIVE)
 
-[原文] Before Chuck Lorre was known for creating “The Big Bang Theory” and “Two and a Half Men,” he was a writer on two seasons of the popular ABC sitcom “Roseanne,” an experience he described as “malice” in
+[原文] France TV Distribution has picked up “The Story of Marceau Miller,” a new series based on the international bestseller by Marceau Miller — a pseudonymous author who may or may not be the man at the ce
 
-📎 [阅读原文](https://variety.com/2026/tv/news/chuck-lorre-working-on-roseanne-was-malice-roseanne-barr-1236904044/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/global/the-story-of-marceau-miller-mipcom-france-tv-distribution-1236903719/) — *Variety*
 
-### 3. Busan Jury President Zhang Yimou Weighs In on ‘The Assassin(s)’ History Row as Juror July Jung Says Her ‘Heart Feels So Cold’
+### 3. ‘In the Shadows’ Producers to Self-Release British Boxing Biopic Following Collapse of U.K. Distributor True Brit Entertainment (EXCLUSIVE)
 
-[原文] Zhang Yimou, president of the Busan International Film Festival&#8217;s competition jury, waded into the dispute over historical fact and creative freedom that has engulfed Korean cinema, telling a pr
+[原文] The producers of upcoming British boxing biopic &#8220;In the Shadow&#8221; have successfully staged a last-minute rescue mission to save their film after its U.K. distributor True Brit Entertainment 
 
-📎 [阅读原文](https://variety.com/2026/film/festivals/zhang-yimou-busan-jury-assassins-history-row-1236904041/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/in-the-shadows-producers-self-release-boxing-film-true-brit-1236904154/) — *Variety*
 
-### 4. Skydance Film Heads Dana Goldberg and Josh Greenstein Set Studios Plan, Pledge Paramount and Warner Bros. Will ‘Build and Release’ Own Films
+### 4. ‘Line of Duty’ Creator Jed Mercurio Submits ‘Doctor Who’ Bid to BBC
 
-[原文] One day into the official closing of the Paramount-Warner Bros. merger, Skydance Corp.&#8217;s newly appointed Motion Picture Group co-chairs, Dana Goldberg and Josh Greenstein, have outlined their im
+[原文] “Line of Duty” creator Jed Mercurio has thrown his fedora in the ring to reboot the “Doctor Who” franchise. Mercurio, a prolific TV writer responsible for shows including Vicky McClure-starrer &#8220;
 
-📎 [阅读原文](https://variety.com/2026/film/news/skydance-dana-goldberg-josh-greenstein-paramount-warner-bros-1236904003/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/global/jed-mercurio-doctor-who-bid-bbc-1236904187/) — *Variety*
 
-### 5. David Ellison’s ‘Day One’ Skydance Press Conference: Studio Lot Dibs, Trump Ties and Everything Else We Learned
+### 5. Killer Films Boards Ray Panthaki’s Directorial Debut ‘In Starland’ as Feature Lands Tallinn World Premiere (EXCLUSIVE)
 
-[原文] And just like that, David Ellison is in the driver&#8217;s seat. The newly minted executive leadership team at Skydance, led by chairman and CEO Ellison and co-CEO Ynon Kreiz, held an on-the-record pr
+[原文] &#8220;In Starland,&#8221; the directorial debut of British star Ray Panthaki and led by &#8220;Sing Sing&#8221; breakout Clarence Maclin, has been backed by some of the indie film world&#8217;s leadi
 
-📎 [阅读原文](https://variety.com/2026/film/news/david-ellison-day-one-skydance-trump-studios-1236903947/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/killer-films-ray-panthaki-directorial-debut-in-starland-1236904215/) — *Variety*
 
 ---
 
 ## 🏥 健康
 
-> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: c12b4f4a-30fd-436a-9de6-906d80662）
+> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: ecd10f1e-1d88-4892-b7c6-913cffb91）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -278,140 +278,140 @@
 
 ## 🎮 游戏
 
-> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: e8c21b02-99cf-4beb-b80b-4e960dd64）
+> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 65f6a881-05b0-45b9-a4a0-76a587267）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Save 30% Off the LEGO Technic Peugeot Hybrid Hypercar During the October Prime Day Sale
+### 1. Resident Evil Requiem Writer Teases DLC Plans, Immediately Says He Probably Shouldn't Have
 
-[原文] Glow in the dark.
+[原文] Screenwriter Haris Orkin has teased plans for Resident Evil Requiem’s DLC.
 
-📎 [阅读原文](https://www.ign.com/articles/lego-technic-peugeot-hybrid-hypercar-deal-amazon-october-prime-day-sale-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/resident-evil-requiem-dlc-plans) — *IGN*
 
-### 2. The Possibly Retired LEGO Super Mario World: Mario & Yoshi Drops to Its Lowest Price Ever for Prime Day
+### 2. Warhammer 40,000: Dawn of War 4 Dev Says It's Got More Single-Player Content Than Any Other RTS Ever at Launch
 
-[原文] We built this and we loved it.
+[原文] How big is the Warhammer 40,000: Dawn of War 4 campaign? According to developer King Art Games, it’s so big it dwarfs the campaigns from all the previous games in the series — and might have more sing
 
-📎 [阅读原文](https://www.ign.com/articles/lego-super-mario-world-mario-yoshi-71438-deal-amazon-october-prime-day-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/warhammer-40000-dawn-of-war-4-dev-says-its-got-more-single-player-content-than-any-other-rts-ever-at-launch) — *IGN*
 
-### 3. Save 37% Off Fanttik T1 Max Cordless Soldering Iron Kit During the Amazon October Prime Day Sale
+### 3. The Acer Nitro Radeon RX 9070 XT Gaming PC Drops to Just $1,699 for Prime Day, Excels at 4K Gaming
 
-[原文] An essential tool for tinkering hobbyists.
+[原文] The Radeon RX 9070 XT nearly matches the peformance of the now-$1,000+ GeForce RTX 5070 Ti.
 
-📎 [阅读原文](https://www.ign.com/articles/fanttik-t1-max-cordless-soldering-iron-deal-amazon-october-prime-day-sale-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/acer-nitro-radeon-rx-9070-xt-gaming-pc-deal-october-2026) — *IGN*
 
-### 4. Amazon Is Discounting All Things Pokémon for October Prime Day This Year
+### 4. Footage From Canceled Perfect Dark Reboot Surfaces, Showing Off Fruit Physics and Parkour
 
-暂无摘要。
+[原文] New footage of Xbox’s canceled Perfect Dark reboot has appeared online, via a report from gaming website MP1ST.
 
-📎 [阅读原文](https://www.ign.com/articles/best-pokemon-deals-amazon-october-prime-day-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/perfect-dark-reboot-footage-leak) — *IGN*
 
-### 5. Pick Up a 25-in-1 Hoto Precision Electric Screwdriver Set for Just $23 During the October Prime Day Sale
+### 5. The 2026 LG Evo B6 4K 120Hz OLED TV Drops to Under $1,000 for Prime Day, Plus Get a Free Soundbar
 
-[原文] A super handy tool if you're constantly fiddling with small electronics.
+[原文] Why settle for just a TV when you can get the entire home theater.
 
-📎 [阅读原文](https://www.ign.com/articles/hoto-precision-electric-screwdriver-deal-amazon-october-prime-day-sale-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/lg-evo-b6-4k-oled-tv-deal-amazon-october-prime-day-sale) — *IGN*
 
 ---
 
 ## 🚗 汽车
 
-> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 53a4a9cc-1c95-4aae-b58c-b50fbb989）
+> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 6244a10d-7f2c-4f45-8e3c-4f274b619）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Jaguar Type 01 Just Got a Lot Harder to Hate
+### 1. The Plan To Save Porsche Includes a Mid-Engine Supercar, Electric Sports Car, SUVs, and Expensive 911s: TDS
+
+[原文] Porsche's comeback includes a ratio of 2:1 for gas-powered models vs EVs.
+The post The Plan To Save Porsche Includes a Mid-Engine Supercar, Electric Sports Car, SUVs, and Expensive 911s: TDS appeared 
+
+📎 [阅读原文](https://www.thedrive.com/news/the-plan-to-save-porsche-includes-a-mid-engine-supercar-electric-sports-car-suvs-and-expensive-911s-tds) — *The Drive*
+
+### 2. The Jaguar Type 01 Just Got a Lot Harder to Hate
 
 [原文] The Jaguar Type 01, which basically broke the internet, is finally here in its final production form. Oh, and it's now a sedan.
 The post The Jaguar Type 01 Just Got a Lot Harder to Hate appeared first
 
 📎 [阅读原文](https://www.thedrive.com/news/the-jaguar-type-01-just-got-a-lot-harder-to-hate) — *The Drive*
 
-### 2. The Ultimate DeWalt Tool Sale List for Amazon Prime Big Deal Days
+### 3. The Ultimate DeWalt Tool Sale List for Amazon Prime Big Deal Days
 
 [原文] DeWalt tools live in a sweet spot of solid quality and reasonable pricing. So when they go on sale, you really stand to score.
 The post The Ultimate DeWalt Tool Sale List for Amazon Prime Big Deal Day
 
 📎 [阅读原文](https://www.thedrive.com/news/the-ultimate-dewalt-tool-sale-list-for-amazon-prime-big-deal-days) — *The Drive*
 
-### 3. 4 Cameras, 10 Days, 100,000 Violations. CA’s Speed Camera Test Is Going Great
+### 4. 4 Cameras, 10 Days, 100,000 Violations. CA’s Speed Camera Test Is Going Great
 
 [原文] Officials were so overwhelmed by violations during a speed camera trial that they postponed the program's soft roll-out. 
 The post 4 Cameras, 10 Days, 100,000 Violations. CA&#8217;s Speed Camera Test 
 
 📎 [阅读原文](https://www.thedrive.com/news/4-cameras-10-days-100000-violations-cas-speed-camera-test-is-going-great) — *The Drive*
 
-### 4. EDC Pocket Knives and Lights on Sale for October Prime Day: Leatherman, Garmin, Fenix and More
+### 5. EDC Pocket Knives and Lights on Sale for October Prime Day: Leatherman, Garmin, Fenix and More
 
 [原文] Here are the best buys in everyday-carry knives, multitools, lights, and chargers for Amazon Prime Big Deal Days this month.
 The post EDC Pocket Knives and Lights on Sale for October Prime Day: Leathe
 
 📎 [阅读原文](https://www.thedrive.com/news/edc-pocket-knives-and-lights-on-sale-for-october-prime-day-leatherman-garmin-fenix-and-more) — *The Drive*
 
-### 5. Your Car Is Now 21% Less Likely To Get Stolen, Except in Chicago
-
-[原文] Car theft is down almost everywhere in America, except Chicago. We've got some data and theories explaining what's really happening.
-The post Your Car Is Now 21% Less Likely To Get Stolen, Except in C
-
-📎 [阅读原文](https://www.thedrive.com/news/your-car-is-now-21-less-likely-to-get-stolen-except-in-chicago) — *The Drive*
-
 ---
 
 ## 🌱 环境
 
-> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 3378be10-d906-4003-b7b1-6de6b3b37）
+> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 8b16d460-adc6-4b59-b955-428d6cc2b）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Retailers Warn Europe’s Fishing Industry to Stop Overfishing
+### 1. New Documents Add to Evidence in Climate Deception Case Against ExxonMobil
+
+[原文] If there was a year the world began waking up to climate change, it might have been 1988. That June, the NASA climatologist James Hansen testified to Congress that the climate was warming and would co
+
+📎 [阅读原文](https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/) — *Inside Climate News*
+
+### 2. Alabama Sets Stricter Data Center Rules. But There’s a Loophole.
+
+[原文] MONTGOMERY, Ala.—The Alabama Public Service Commission approved a new set of rules for future data center projects Tuesday that require more transparency and disclosure from data center companies and 
+
+📎 [阅读原文](https://insideclimatenews.org/news/07102026/alabama-data-center-rules-loophole/) — *Inside Climate News*
+
+### 3. Scientists Urge Consumers to Stop Buying Products Made From Antarctic Krill
+
+[原文] In the Southern Ocean, whales, penguins, seals and seabirds feast on massive swarms of krill that underpin much of the region’s marine food web. Meanwhile, a growing fishing industry in Antarctica is 
+
+📎 [阅读原文](https://insideclimatenews.org/news/07102026/scientists-urge-boycott-of-antarctic-krill-products/) — *Inside Climate News*
+
+### 4. Retailers Warn Europe’s Fishing Industry to Stop Overfishing
 
 [原文] Europe’s fish stocks are in such dire straits that even the retailers who rely on them are now telling the fishing industry to slow down.&#160; Last week, the International Council for the Exploration
 
 📎 [阅读原文](https://insideclimatenews.org/news/06102026/europe-retailers-warn-industry-of-overfishing/) — *Inside Climate News*
 
-### 2. Water Bills Surged More Than Other Costs in US Homes Over 10 Years, a ‘Striking’ New Report Shows
+### 5. Water Bills Surged More Than Other Costs in US Homes Over 10 Years, a ‘Striking’ New Report Shows
 
 [原文] Drinking water costs spiked faster than inflation, grocery prices and median household income, researchers at nonprofit Food &#38; Water Watch outlined in a first-of-its-kind report released Tuesday. 
 
 📎 [阅读原文](https://insideclimatenews.org/news/06102026/water-bills-surged-more-than-other-costs-in-us-homes-over-10-years-a-striking-new-report-shows/) — *Inside Climate News*
 
-### 3. Development Becomes a Flashpoint in a Key New York House Race
-
-[原文] NY-17: The third in a series on the environmental stakes behind one of the nation&#8217;s most fiercely contested congressional races. At 8, on her walk home from elementary school, Sylke Jackson woul
-
-📎 [阅读原文](https://insideclimatenews.org/news/06102026/new-york-17-house-race-warehouse-and-data-center-development/) — *Inside Climate News*
-
-### 4. Final ‘Grandmother’ Cottonwood Toppled, Protesters Arrested in Arizona
-
-[原文] Armed Border Patrol agents raided a protest camp in Lochiel, in southeast Arizona, making way for contractors to cut down the last standing cottonwood tree Monday morning for a double border wall, aft
-
-📎 [阅读原文](https://insideclimatenews.org/news/05102026/final-grandmother-cottonwood-toppled-protesters-arrested-in-arizona/) — *Inside Climate News*
-
-### 5. Supreme Court Weighs Landmark Climate Deception Case Against Oil Companies
-
-[原文] The U.S. Supreme Court heard arguments from oil companies on Monday that could help decide the fate of more than two dozen lawsuits accusing the industry of deceiving the public about climate change. 
-
-📎 [阅读原文](https://insideclimatenews.org/news/05102026/supreme-court-suncor-v-boulder-oil-case/) — *Inside Climate News*
-
 ---
 
 ## 📚 教育
 
-> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: b44171be-d823-451b-b172-5581d1c49）
+> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 48d2fa07-c67a-48a3-9509-b1026099c）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Will Kids Pay the Price for AI Panic?
+### 1. Why Do So Many Teachers Crash in October?
+
+[原文] In this episode, author Mike Anderson discusses ways teachers can fight off the October Blues.
+
+📎 [阅读原文](https://edsurge.com/news/why-do-so-many-teachers-crash-in-october) — *EdSurge*
+
+### 2. Will Kids Pay the Price for AI Panic?
 
 [原文] A backlash against classroom AI is sweeping public schools. But as New Mexico shows, blanket bans risk robbing students of early literacy interventions.
 
 📎 [阅读原文](https://edsurge.com/news/will-kids-pay-the-price-for-ai-panic) — *EdSurge*
-
-### 2. Can Schools Trust AI Features in Edtech Products?
-
-[原文] In this episode of This Week with EdSurge, two former educators join to discuss EdReport's recent brief and explain why it is so important to verify ...
-
-📎 [阅读原文](https://edsurge.com/news/can-schools-trust-ai-features-in-edtech-products) — *EdSurge*
 
 ### 3. Traditional PD Wasn’t Enough. So I Used TikTok to Create an Engaging Alternative.
 
@@ -419,23 +419,23 @@ The post Your Car Is Now 21% Less Likely To Get Stolen, Except in C
 
 📎 [阅读原文](https://edsurge.com/news/traditional-pd-wasnt-enough-so-i-used-tiktok-to-create-an-engaging-alternative) — *EdSurge*
 
-### 4. Study: Edtech Is Rushing AI Integration Before Proving It Works
+### 4. Can Schools Trust AI Features in Edtech Products?
+
+[原文] In this episode of This Week with EdSurge, two former educators join to discuss EdReport's recent brief and explain why it is so important to verify ...
+
+📎 [阅读原文](https://edsurge.com/news/can-schools-trust-ai-features-in-edtech-products) — *EdSurge*
+
+### 5. Study: Edtech Is Rushing AI Integration Before Proving It Works
 
 [原文] As AI features flood K-12 curricula, educators are left to filter proven quality from marketing hype.
 
 📎 [阅读原文](https://edsurge.com/news/study-edtech-is-rushing-ai-integration-before-proving-it-works) — *EdSurge*
 
-### 5. Why AI Made Me a Better Principal
-
-[原文] The true metric of AI in school leadership is not time saved, but the presence and clarity restored to daily decision-making.
-
-📎 [阅读原文](https://edsurge.com/news/why-ai-made-me-a-better-principal) — *EdSurge*
-
 ---
 
 ## 🎵 音乐
 
-> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: cbb283a2-6b36-4d1e-ae6d-dcea92d08）
+> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 584b4775-84b0-4c41-b1c4-ce2da39b7）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -473,39 +473,39 @@ The post Your Car Is Now 21% Less Likely To Get Stolen, Except in C
 
 ## ✈️ 旅游
 
-> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 049a705c-b783-4aae-b922-ba142b200）
+> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 90ac1384-d268-442a-8499-e6532048c）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Kayak and Skyscanner CEOs: Metasearch Isn’t Dead — It’s Evolving
+### 1. Why Luxury Travel Can’t Ignore the Rise of Experiential Retail
+
+[原文] The industry's biggest blind spot may be one of travelers' biggest spending categories. As retail becomes a vehicle for discovery, culture, and connection, it’s becoming harder to treat it as a sideli
+
+📎 [阅读原文](https://skift.com/2026/10/07/luxury-travel-experiential-retail-convergence/) — *Skift*
+
+### 2. Vrbo Faces Blowback on Rising Commissions, Plans to Ease Rate Parity Rule
+
+[原文] From a competition perspective, Vrbo is catching up to Booking.com and Airbnb in pushing the fee burden onto hosts. Eliminating or greatly reducing guest fees has great optics, but travelers will end 
+
+📎 [阅读原文](https://skift.com/2026/10/07/vrbo-faces-blowback-on-rising-commissions-plans-to-ease-rate-parity-rule/) — *Skift*
+
+### 3. Royal Orchid Follows Indian Travelers Beyond the Metros, From Pilgrim Towns to Branded Homes
+
+[原文] Royal Orchid is betting India’s next hotel winners will follow travelers, not the old hotel map. The test now is making sure its brands don’t end up chasing the same customer under slightly different 
+
+📎 [阅读原文](https://skift.com/2026/10/07/royal-orchid-follows-indian-travelers-beyond-the-metros-from-pilgrim-towns-to-branded-homes/) — *Skift*
+
+### 4. Kayak and Skyscanner CEOs: Metasearch Isn’t Dead — It’s Evolving
 
 [原文] The test is whether deep live pricing and trust engineering beat horizontal agents on convenience alone.
 
 📎 [阅读原文](https://skift.com/2026/10/06/kayak-and-skyscanner-ceos-metasearch-isnt-dead-its-evolving/) — *Skift*
 
-### 2. Airlines Get More Time on Mumbai Airport Cuts — But the Move to Navi Mumbai Is Still Coming
+### 5. Airlines Get More Time on Mumbai Airport Cuts — But the Move to Navi Mumbai Is Still Coming
 
 [原文] Navi Mumbai says it has capacity, infrastructure, a transit hotel, a road network to reach the airport. What it needs now is international passengers.
 
 📎 [阅读原文](https://skift.com/2026/10/06/airlines-get-more-time-on-mumbai-airport-cuts-but-the-move-to-navi-mumbai-is-still-coming/) — *Skift*
-
-### 3. Inside Mews’ $2.5 Billion Valuation: Can the Economics Catch Up?
-
-[原文] Mews has nearly $20 billion flowing through its platform; the opportunity – and harder part – now is to capture more value from the money and operations it already touches.
-
-📎 [阅读原文](https://skift.com/2026/10/06/inside-mews-2-5-billion-valuation-can-the-economics-catch-up/) — *Skift*
-
-### 4. Why British Airways Can Afford To Lose 52 Seats on Its Biggest Plane
-
-[原文] It seems less really is more. British Airways is removing dozens of seats from its A380s in pursuit of higher-value capacity.
-
-📎 [阅读原文](https://skift.com/2026/10/06/why-british-airways-can-afford-to-lose-52-seats-on-its-biggest-plane/) — *Skift*
-
-### 5. Airbnb Is Rebuilding Its Luxe Program for High-End Homes: Scoop
-
-[原文] Airbnb's rekindled push into luxury is its latest revival of initiatives dropped during the pandemic. Among them, Airbnb has expanded its hotels and experiences businesses, and frequently says that it
-
-📎 [阅读原文](https://skift.com/2026/10/06/airbnb-is-rebuilding-its-luxe-program-for-high-end-homes-scoop/) — *Skift*
 
 ---
 
