@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年10月08日** | 生成时间: 2026-10-08 06:54
+**2026年10月08日** | 生成时间: 2026-10-08 13:18
 
 ---
 
@@ -12,165 +12,165 @@
 
 ## 🌍 国际政治
 
-> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: fb6f8db8-9f1d-4ff8-be62-fb0d5c170）
+> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: e01f19a0-6699-4090-9f53-03396d1e2）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Spanish pensioner whose eviction sparked nationwide protests dies, union says
+### 1. Texas carries out first US execution since Christa Pike's botched lethal injections
+
+[原文] Lawyers for Jamaal Howard had asked a judge to pause the execution after Christa Pike's botched lethal injections.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Spanish pensioner whose eviction sparked nationwide protests dies, union says
 
 [原文] Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Israelis mourn 7 October attack victims three years after deadly Hamas raid
+### 3. France's school protests: what lies behind the anger
 
-[原文] Memorial events have taken place in Israel on the third anniversary of the Hamas-led attack that sparked the devastating Gaza war.
+[原文] Students' blockades and marches spring from real grievances – and from France's habit of settling policy on the street.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c6n9rgg80z94o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Israelis demand accountability over 7 October failures three years after attacks
+### 4. Trump wants a new Camp David-like retreat at his Florida golf club
+
+[原文] Trump's estate would stand in stark contrast to the rustic Camp David and mark another tradition transformed by Trump.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c9gkvxjvl7v3o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Israelis demand accountability over 7 October failures three years after attacks
 
 [原文] Prime Minister Benjamin Netanyahu has refused to take any personal responsibility for what happened or order a state inquiry.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. France halts use of stun grenades after boy's hand blown off in student protests
-
-[原文] The step comes after several groups complained of police using disproportionate force towards teenagers.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Canada suspends plans to expand assisted dying to people with mental illness
-
-[原文] People with mental illness alone were to be eligible for assisted dying in Canada in March 2027, but that has now been paused indefinitely.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss) — *BBC World*
-
 ---
 
 ## 💰 经济财经
 
-> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 001f2f52-4ceb-49c1-a1d6-eb276ae64）
+> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 5f181bbf-fb32-4a57-8800-d6cdaf445）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Fed officials see another hike coming, but no sign as to when, minutes show
+### 1. Trump says he is not keen on a deal with Iran as U.S. reportedly prepares for 'massive bombing'
+
+[原文] The U.S. president and his national security team have discussed possibly resuming large-scale U.S. military operations in the coming weeks, NBC News reported.
+
+📎 [阅读原文](https://www.cnbc.com/2026/10/08/us-iran-war-trump-hormuz.html) — *CNBC*
+
+### 2. Elon Musk blames Indian 'oligarchs' for stalling Starlink launch
+
+[原文] Space X founder Elon Musk accused oligarchs in India of keeping Starlink out of the country to protect their monopoly over consumers.
+
+📎 [阅读原文](https://www.cnbc.com/2026/10/08/elon-musk-starlink-spacex-jio-airtel-india.html) — *CNBC*
+
+### 3. Samsung forecasts record third-quarter profit of $80 billion as AI boom fuels chip demand
+
+[原文] Samsung Electronics reported preliminary third-quarter earnings on Thursday, with operating profit forecast to top 100 trillion won for the first time.
+
+📎 [阅读原文](https://www.cnbc.com/2026/10/08/samsung-q3-earnings.html) — *CNBC*
+
+### 4. Oil gains as Middle East hostilities, potential escalation stoke supply worries
+
+[原文] President Donald Trump and his national security team have talked about possibly restarting large-scale U.S. military operations in Iran in the coming weeks, NBC News reported.
+
+📎 [阅读原文](https://www.cnbc.com/2026/10/08/oil-prices-today-brent-wti-hormuz.html) — *CNBC*
+
+### 5. Fed officials see another hike coming, but no sign as to when, minutes show
 
 [原文] The Federal Reserve on Wednesday released minutes from its Sept. 15-16 policy meeting.
 
 📎 [阅读原文](https://www.cnbc.com/2026/10/07/fed-officials-see-another-hike-coming-but-no-sign-as-to-when-minutes-show.html) — *CNBC*
 
-### 2. Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip
-
-[原文] The new device shows Microsoft remains committed to making its own PCs even though it's not one of the top device makers.
-
-📎 [阅读原文](https://www.cnbc.com/2026/10/07/microsoft-starts-taking-preorders-for-2599-surface-laptop-ultra.html) — *CNBC*
-
-### 3. Trump doesn't think Russia plague incident is bioweapon, plans Putin call Wednesday
-
-[原文] Nearly 200 people were placed under medical observation earlier this week in Russia's Irkutsk region in eastern Siberia over suspected exposure to plague.
-
-📎 [阅读原文](https://www.cnbc.com/2026/10/07/trump-russia-plague-bioweapon-putin.html) — *CNBC*
-
-### 4. Anthropic will be 'most ridiculous IPO' of year, analyst says
-
-[原文] Anthropic reportedly plans to list on the Nasdaq before Thanksgiving, and one bearish advisory firm suggests that investors sit this one out.
-
-📎 [阅读原文](https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html) — *CNBC*
-
-### 5. Supertanker chartered from Gulf Coast to China for $76 million, 10 times higher than pre-war level
-
-[原文] Shipping costs have exploded as the war in the Persian Gulf has led to a shortage of available tankers.
-
-📎 [阅读原文](https://www.cnbc.com/2026/10/07/supertanker-from-us-to-china-chartered-for-76-million-source.html) — *CNBC*
-
 ---
 
 ## 💻 科技
 
-> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: ee6f4e54-7675-409b-88e9-d00132544）
+> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: f32e580b-cdbe-4b87-a3a5-a0fac7ee7）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Nous Research confirms it hit $1.5B valuation, launches AI agents for business users
+### 1. Robot data startup Mecka AI nabs $60M from Sequoia
+
+[原文] Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.
+
+📎 [阅读原文](https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/) — *TechCrunch*
+
+### 2. While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’
+
+[原文] Endeavor Catalyst just raised $320 million to keep backing founders outside Silicon Valley. Half the profits go back to the nonprofit that finds them.
+
+📎 [阅读原文](https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/) — *TechCrunch*
+
+### 3. Nous Research confirms it hit $1.5B valuation, launches AI agents for business users
 
 [原文] The developer of Hermes Agent raised a $90 million Series B.
 
 📎 [阅读原文](https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/) — *TechCrunch*
 
-### 2. Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11
+### 4. Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11
 
 [原文] Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.
 
 📎 [阅读原文](https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/) — *TechCrunch*
 
-### 3. Meta’s Muse launches on iPad just a month after its mobile debut
+### 5. Meta’s Muse launches on iPad just a month after its mobile debut
 
 [原文] Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.
 
 📎 [阅读原文](https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/) — *TechCrunch*
 
-### 4. ChatGPT for Teens keeps teens talking, even during mental health crises
-
-[原文] ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships wit
-
-📎 [阅读原文](https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/) — *TechCrunch*
-
-### 5. X expands its ‘Gametime’ sports hub beyond the NFL, starting with MLB
-
-[原文] X is turning its NFL-focused Gametime feature into a year-round sports destination, starting with MLB and with other professional leagues to follow.
-
-📎 [阅读原文](https://techcrunch.com/2026/10/07/x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb/) — *TechCrunch*
-
 ---
 
 ## 🔬 科学
 
-> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 7a946494-c7fb-42d1-a6ee-73c26f809）
+> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: cb6181d9-2b8f-409f-bdb4-f78e8aea8）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. NASA’s Webb finds signs of Mars-sized worlds smashing together
+### 1. Scientists warn a popular vitamin D supplement may have a hidden downside
+
+[原文] Not all vitamin D supplements are created equal, and new research suggests that one popular form may have an unexpected downside. Scientists found that taking vitamin D2 can actually lower the body's 
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/10/261007232940.htm) — *Science Daily*
+
+### 2. NASA’s Webb finds signs of Mars-sized worlds smashing together
 
 [原文] NASA’s James Webb Space Telescope is giving astronomers a glimpse of the kinds of violent collisions that may have shaped our own solar system, including the giant impact thought to have created the M
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/10/261007042108.htm) — *Science Daily*
 
-### 2. Taking antibiotics? Sugar may be making the damage worse
+### 3. Taking antibiotics? Sugar may be making the damage worse
 
 [原文] Eating more sugar while taking antibiotics was linked to greater disruption of the gut microbiome and increased growth of potentially harmful bacteria. Researchers say temporarily cutting back on swee
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/10/261007042059.htm) — *Science Daily*
 
-### 3. Scientists changed how zoo lions eat. Their wild side came out
+### 4. Not all trans fats are bad, major review finds
 
-[原文] Giving zoo lions whole carcasses on a feast-and-fast schedule appears to bring out more natural behavior. The lions spent nearly three times longer feeding, engaged in more tearing and manipulating of
+[原文] A large analysis of 22 studies found that the trans fats naturally present in dairy foods such as milk, butter, yogurt, and cheese do not appear to raise the risk of heart disease or type 2 diabetes. 
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/10/261005071535.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/10/261006234505.htm) — *Science Daily*
 
-### 4. Scientists reprogram immune cells inside the body to fight cancer
+### 5. Dads are dying after their kids are born, and almost no one is tracking it
 
-[原文] Scientists at UC San Francisco have developed a way to create cancer-fighting CAR-T cells directly inside the body, potentially avoiding the slow and extremely expensive process of removing, engineeri
+[原文] A study of more than 130,000 babies born in Georgia found that hundreds of fathers died within the first five years of their child’s life, and about 60% of those deaths were potentially preventable. H
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/10/261005071532.htm) — *Science Daily*
-
-### 5. Humans may not be as hardwired for violence as we thought
-
-[原文] A study comparing 100 primate species, including humans, suggests that everyday aggression and lethal violence did not evolve as part of the same simple behavioral spectrum. Species that frequently fi
-
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/10/261005071529.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/10/261005071537.htm) — *Science Daily*
 
 ---
 
 ## ⚽ 体育
 
-> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 2fcaed64-10ec-4f08-be30-6b55044e9）
+> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: c59b0c1f-a1be-40d0-8ac9-0251b4ce6）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
 ### 1. Guardiola set to attend Man City's first home game since guilty verdict
 
-[原文] Pep Guardiola is expected to attend Manchester City's Champions League tie against Paris St-Germain next week - the club's first home match since they were found guilty of the majority of the 115 char
+[原文] Pep Guardiola managed Manchester City for a decade, leaving in the summer, and has backed the club's owners since the verdict.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ckrey77jq1n7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
@@ -202,45 +202,45 @@
 
 ## 🎬 娱乐
 
-> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: dcd521e7-7333-4409-9eb5-ef32d2a6e）
+> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: a6748bf2-5b88-4126-bf92-c527c1991）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Miles Teller to Be Honored by Newport Beach Film Festival (EXCLUSIVE)
+### 1. Doha Film Festival Unveils Competition Lineup With Accent on Female Filmmakers and Middle East Fare
 
-[原文] Miles Teller will be honored with the Artist of Distinction Award at the Newport Beach Film Festival. He will be presented with the recognition at the fest’s annual Honors ceremony on Oct. 18. “Miles 
+[原文] The upcoming Doha Film Festival has unveiled its 15-title competition lineup made up mostly of Middle East premieres of movies from the region, seven of which directed by women. As previously announce
 
-📎 [阅读原文](https://variety.com/2026/film/awards/miles-teller-honored-newport-beach-film-festival-paper-tiger-1236904354/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/doha-film-festival-female-filmmakers-and-middle-east-1236904400/) — *Variety*
 
-### 2. ‘Carrie’ Star Samantha Sloyan on Modernizing an Iconic Evil Mom, Playing a Character Who ‘Chooses Violence’ and Being Mike Flanagan’s Secret Weapon
+### 2. Na Hong-Jin Traces ‘The Chaser,’ ‘The Wailing’ and ‘Hope’ to Bar Talk, Shamans and War Fears at Busan Masterclass
 
-[原文] “Why would I do ‘Carrie’ now?” Samantha Sloyan says this was one of the first things writer, director and showrunner Mike Flanagan said to her when he revealed his idea to turn Stephen King’s 1974 nov
+[原文] Na Hong-Jin told a Busan International Film Festival masterclass audience that his film &#8220;Hope&#8221; grew out of a conviction, around 2017, that war was about to break out on the Korean peninsul
 
-📎 [阅读原文](https://variety.com/2026/tv/features/carrie-mom-samantha-sloyan-evil-mike-flanagan-series-1236899761/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/na-hong-jin-hope-fear-war-busan-masterclass-1236905247/) — *Variety*
 
-### 3. ‘Ted Lasso’ Star and EP Brendan Hunt on the Season 4 Finale’s Surprise Job Changes, and Whether There Will Be a Season 5
+### 3. Danny and Oxide Pang’s Josie Ho-Starring Supernatural Thriller ‘The Mage’ Sets Busan Market Debut With Abnormal Studios (EXCLUSIVE)
 
-[原文] SPOILER ALERT: This article contains spoilers for the Season 4 finale of “Ted Lasso,” now streaming on Apple TV. There&#8217;s a new coach at AFC Richmond, and it&#8217;s not Ted Lasso. The Season 4 f
+[原文] Danny and Oxide Pang&#8217;s supernatural crime thriller &#8220;The Mage,&#8221; starring Josie Ho, is being introduced to international buyers at the Busan International Film Festival&#8217;s Asian C
 
-📎 [阅读原文](https://variety.com/2026/tv/news/ted-lasso-finale-explained-brendan-hunt-season-5-1236904697/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/markets-festivals/pang-brothers-josie-ho-thriller-mage-busan-market-debut-1236905233/) — *Variety*
 
-### 4. London Film Festival Hails the ‘Great Andrew Scott’ as ‘Elsinore’ Opens 70th Edition With Tears, Cheers and ‘The Ethel Merman Disco Album’
+### 4. ‘The Debut’: Jesse Eisenberg Praises Oscar Frontrunner Julianne Moore’s ‘Perfect Performance’ at NYFF
 
-[原文] The 70th BFI London Film Festival kicked off on Wednesday with the European premiere of &#8220;Elsinore,&#8221; a movie that, as the credits rolled, left large swathes of the audience at the Royal Fes
+[原文] You couldn’t imagine a more ideal setting for “The Debut” than Alice Tully Hall on the Upper West Side of Manhattan, where it had its New York premiere Wednesday evening as part of the New York Film F
 
-📎 [阅读原文](https://variety.com/2026/film/global/andrew-scott-elsinore-opens-london-film-festival-1236904258/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/the-debut-jesse-eisenberg-julianne-moores-oscar-frontrunner-nyff-1236905218/) — *Variety*
 
-### 5. Dewayne Perkins to Launch ‘I Swear We’re Friends,’ New Digital ‘Skitcom’ on YouTube (EXCLUSIVE)
+### 5. Nana Patekar, Indian Star of ‘Parinda’ and ‘Krantiveer,’ Dies at 75
 
-[原文] “The Blackening” and “The Studio” star Dewayne Perkins is launching a new digital series, “I Swear We’re Friends,” exclusively on YouTube this fall. Perkins is independently releasing the six-episode 
+[原文] Nana Patekar, the Indian Hindi and Marathi cinema actor whose roles ranged from the menacing crime lord of &#8220;Parinda&#8221; to the comic gangster of &#8220;Welcome,&#8221; died Oct. 8, at his res
 
-📎 [阅读原文](https://variety.com/2026/digital/news/dewayne-perkins-youtube-series-i-swear-were-friends-1236902523/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/obituaries-people-news/nana-patekar-dead-parinda-krantiveer-1236905203/) — *Variety*
 
 ---
 
 ## 🏥 健康
 
-> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 77db3724-be14-4dfa-8af0-a59940226）
+> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: f08c6186-c42a-4dcf-bc59-b869fc843）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -278,45 +278,45 @@
 
 ## 🎮 游戏
 
-> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 8d9aae28-a5bf-4234-8674-40a38f721）
+> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 554c4aec-716e-47fc-9e6f-157e9e52c）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Top 5 Robot Vacuum Deals for Prime Big Deal Days
+### 1. Mixtape Wins Game of the Year at the 2026 Australian Game Developer Awards
 
-[原文] Keep fall leaves, mud, and dirt off your floors with these hands-off cleaning picks.
+[原文] Mixtape developer Beethoven & Dinosaur has won a trifecta of awards at the 2026 AGDAs, including Excellence in Visual Art, Excellence in Sound Design, and Game of the Year.
 
-📎 [阅读原文](https://www.ign.com/articles/robot-vacuum-deals-october-prime-big-deal-days-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/mixtape-wins-game-of-the-year-at-the-2026-australian-game-developer-awards) — *IGN*
 
-### 2. Last Chance to Pick up a Pair of Apple AirPods Pro 3 Wireless Noise Canceling Earbuds for $179
+### 2. The 2026 LG Evo B6 4K 120Hz OLED TV Drops to Under $1,000 for Prime Day, Plus Get a Free Soundbar
 
-[原文] This Prime Day deal ends tonight.
+[原文] Why settle for just a TV when you can get the entire home theater.
 
-📎 [阅读原文](https://www.ign.com/articles/apple-airpods-pro-3-deal-amazon-october-prime-day-sale) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/lg-evo-b6-4k-oled-tv-deal-amazon-october-prime-day-sale) — *IGN*
 
-### 3. IGN Fan Fest 2026: Fall Edition – How to Watch and What to Expect
+### 3. Amazon Prime Big Deal Days 2026: Today Is the Last Day to Score the Best October Sales
 
-[原文] IGN Fan Fest 2026: Fall Edition is nearly here, and here's how and when you can watch the over 90 exclusive reveals across games, movies, TV, comics, and collectibles, and what to expect, including fr
+[原文] Prime Day: Part 2 is nearly over.
 
-📎 [阅读原文](https://www.ign.com/articles/ign-fan-fest-2026-fall-edition-how-to-watch-and-what-to-expect) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/amazon-prime-big-deal-days-sale-2026) — *IGN*
 
-### 4. Castlevania: Belmont's Curse Demo Hides Fighting Game Easter Eggs Behind Secret Weapon
+### 4. The 8BitDo Ultimate 2C Wireless PC Gaming Controller Drops to $23.99 for Prime Day
 
-[原文] The developers of Castlevania: Belmont’s Curse are wearing their love of fighting games on their sleeves, as eagle-eyed fans have spotted some unmistakable references to classic fighting game characte
+[原文] Compatible with Windows PC, Android, and Steam Deck.
 
-📎 [阅读原文](https://www.ign.com/articles/castlevania-belmonts-curse-demo-hides-fighting-game-easter-eggs-behind-secret-weapon) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/8bitdo-ultimate-2c-pc-gaming-controller-deal-amazon-october-prime-day-sale-2026) — *IGN*
 
-### 5. This Fanatical Deal Drops Marathon on PC to $19.39, Cheaper Than Steam's Autumn Sale
+### 5. 10 Last-Minute Deals to Grab Before Prime Big Deal Days End
 
-暂无摘要。
+[原文] You only have a few hours left to save big on video games, TVs, LEGO, and more.
 
-📎 [阅读原文](https://www.ign.com/articles/marathon-pc-steam-deal-fanatical-october-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/10-last-minute-deals-prime-big-deal-days-2026) — *IGN*
 
 ---
 
 ## 🚗 汽车
 
-> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 86445332-a369-43d8-a7bf-528ec8b3a）
+> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 8634a016-e743-4af2-a67b-45230ac51）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -359,7 +359,7 @@ The post This 2017 Kia Sorento Is Still Running the Stock V6 at 715,000 Miles. W
 
 ## 🌱 环境
 
-> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 84f2cc56-8e51-4b68-8259-42cff3503）
+> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: d559c4b2-ec5d-43d1-bc55-e4cb224b4）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -397,7 +397,7 @@ The post This 2017 Kia Sorento Is Still Running the Stock V6 at 715,000 Miles. W
 
 ## 📚 教育
 
-> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: a22d22bd-df44-468d-a335-c51f08908）
+> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 45106650-e033-411f-a8d6-575f8514c）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -435,7 +435,7 @@ The post This 2017 Kia Sorento Is Still Running the Stock V6 at 715,000 Miles. W
 
 ## 🎵 音乐
 
-> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 7b73b223-2f69-43f5-acdd-7d474ebb1）
+> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: fe1994f4-2bec-4a43-b2d9-608c8e720）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -473,7 +473,7 @@ The post This 2017 Kia Sorento Is Still Running the Stock V6 at 715,000 Miles. W
 
 ## ✈️ 旅游
 
-> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 11aa0900-27e7-4a8a-b40a-031ec8e7a）
+> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 1f1bcf57-793a-495f-a24c-ffc1e68c7）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
