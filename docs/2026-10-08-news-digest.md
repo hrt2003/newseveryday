@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年10月08日** | 生成时间: 2026-10-08 13:18
+**2026年10月08日** | 生成时间: 2026-10-08 21:04
 
 ---
 
@@ -12,121 +12,121 @@
 
 ## 🌍 国际政治
 
-> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: e01f19a0-6699-4090-9f53-03396d1e2）
+> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 43643601-7e8d-4435-b806-5d94122df）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Texas carries out first US execution since Christa Pike's botched lethal injections
+### 1. Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge
 
-[原文] Lawyers for Jamaal Howard had asked a judge to pause the execution after Christa Pike's botched lethal injections.
+[原文] Ukraine accused Russia of targeting the crowded bus in the frontline city to kill as many civilians as possible.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Spanish pensioner whose eviction sparked nationwide protests dies, union says
+### 2. US and Lebanon protecting wanted Syrian general, BBC finds
 
-[原文] Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September.
+[原文] Bassam al-Hassan is being sheltered in return for information - including about abducted US reporter Austin Tice.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. France's school protests: what lies behind the anger
+### 3. Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain
 
-[原文] Students' blockades and marches spring from real grievances – and from France's habit of settling policy on the street.
+[原文] Israel said in September it would act in response to UK sanctions on illegal Israeli settlements in the West Bank.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c6n9rgg80z94o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Trump wants a new Camp David-like retreat at his Florida golf club
+### 4. Christa Pike now walking after failed US execution, lawyer tells BBC
 
-[原文] Trump's estate would stand in stark contrast to the rustic Camp David and mark another tradition transformed by Trump.
+[原文] A lawyer says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c9gkvxjvl7v3o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Israelis demand accountability over 7 October failures three years after attacks
+### 5. Italy overhauls electoral system after fiercely contested debate
 
-[原文] Prime Minister Benjamin Netanyahu has refused to take any personal responsibility for what happened or order a state inquiry.
+[原文] Prime Minister Giorgia Meloni says the move will deliver more stable government, but opposition parties say her aim is to stay in power.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
 ## 💰 经济财经
 
-> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 5f181bbf-fb32-4a57-8800-d6cdaf445）
+> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: fa2d7a75-86c6-497d-979b-f092d62e0）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump says he is not keen on a deal with Iran as U.S. reportedly prepares for 'massive bombing'
+### 1. Skydance's David Ellison tells CNBC combined company is 'positioned to win in every single vertical'
 
-[原文] The U.S. president and his national security team have discussed possibly resuming large-scale U.S. military operations in the coming weeks, NBC News reported.
+[原文] Skydance includes two film studios, the CBS broadcast network, a sprawling pay TV portfolio and streaming services Paramount+ and HBO Max.
 
-📎 [阅读原文](https://www.cnbc.com/2026/10/08/us-iran-war-trump-hormuz.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/08/skydance-co-ceos-ellison-kreiz.html) — *CNBC*
 
-### 2. Elon Musk blames Indian 'oligarchs' for stalling Starlink launch
+### 2. Amazon overhauls aging devices lineup with higher priced Alexa tablet, dumping the budget Fire
 
-[原文] Space X founder Elon Musk accused oligarchs in India of keeping Starlink out of the country to protect their monopoly over consumers.
+[原文] The company said the Alexa tablet's improved speed and performance, artificial intelligence features and upgraded design warrant a higher price tag.
 
-📎 [阅读原文](https://www.cnbc.com/2026/10/08/elon-musk-starlink-spacex-jio-airtel-india.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/08/amazon-alexa-tablet-release.html) — *CNBC*
 
-### 3. Samsung forecasts record third-quarter profit of $80 billion as AI boom fuels chip demand
+### 3. Inflation on many everyday items was entirely due to tariffs, NY Fed says
 
-[原文] Samsung Electronics reported preliminary third-quarter earnings on Thursday, with operating profit forecast to top 100 trillion won for the first time.
+[原文] Tariffs added 2.9 percentage points to inflation in 67 categories of goods by February 2026, researchers at the New York Federal Reserve found.
 
-📎 [阅读原文](https://www.cnbc.com/2026/10/08/samsung-q3-earnings.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html) — *CNBC*
 
-### 4. Oil gains as Middle East hostilities, potential escalation stoke supply worries
+### 4. Trump's former defense secretary sees no end in sight for Iran war — to the benefit of America's 'greatest adversary'
 
-[原文] President Donald Trump and his national security team have talked about possibly restarting large-scale U.S. military operations in Iran in the coming weeks, NBC News reported.
+[原文] Mark Esper, who served as U.S. Secretary of Defense during Trump's first presidential term, said he did not see the conflict ending in the foreseeable future.
 
-📎 [阅读原文](https://www.cnbc.com/2026/10/08/oil-prices-today-brent-wti-hormuz.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/08/trump-iran-war-mark-esper.html) — *CNBC*
 
-### 5. Fed officials see another hike coming, but no sign as to when, minutes show
+### 5. CNBC's Financial Advisor 100: Best financial advisors, top firms for 2026 ranked
 
-[原文] The Federal Reserve on Wednesday released minutes from its Sept. 15-16 policy meeting.
+[原文] CNBC's Financial Advisor 100 ranks the best financial advisors and top firms for 2026. Here's how to pick the best financial planner for you and your family.
 
-📎 [阅读原文](https://www.cnbc.com/2026/10/07/fed-officials-see-another-hike-coming-but-no-sign-as-to-when-minutes-show.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/08/best-financial-advisors.html) — *CNBC*
 
 ---
 
 ## 💻 科技
 
-> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: f32e580b-cdbe-4b87-a3a5-a0fac7ee7）
+> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 39c156a1-90ff-4e1a-aa2c-6478ec3df）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Robot data startup Mecka AI nabs $60M from Sequoia
+### 1. Last call to volunteer at TechCrunch Founder Summit 2026
 
-[原文] Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.
+[原文] TechCrunch Founder Summit is gearing up to return to Boston on November 4! We&#8217;re doing a last call for exceptional volunteers to join us in bringing this event to life. If you&#8217;ve ever wond
 
-📎 [阅读原文](https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/10/08/last-call-to-volunteer-at-techcrunch-founder-summit-2026/) — *TechCrunch*
 
-### 2. While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’
+### 2. Amazon unveils new Alexa tablets with Alexa+ and Google Play Store access
 
-[原文] Endeavor Catalyst just raised $320 million to keep backing founders outside Silicon Valley. Half the profits go back to the nonprofit that finds them.
+[原文] The lineup includes three models: Amazon Alexa Tablet 12 Pro, Amazon Alexa Tablet 11, and Amazon Alexa Tablet 8.
 
-📎 [阅读原文](https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/10/08/amazon-unveils-new-alexa-tablets-with-alexa-and-google-play-store-access/) — *TechCrunch*
 
-### 3. Nous Research confirms it hit $1.5B valuation, launches AI agents for business users
+### 3. Uber and China’s Pony.ai plan to launch robotaxis in London
 
-[原文] The developer of Hermes Agent raised a $90 million Series B.
+[原文] The two companies said on Thursday that they would begin testing Pony.ai's Gen-7 robotaxis in London in the coming weeks.
 
-📎 [阅读原文](https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/10/08/uber-and-chinas-pony-ai-plan-to-launch-robotaxis-in-london/) — *TechCrunch*
 
-### 4. Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11
+### 4. Vesta raises $30M to bring swarms of agents to mortgage lenders
 
-[原文] Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.
+[原文] Vesta, an AI-native software startup that helps lenders originate mortgages, announced a $30 million round led by Conversion Capital.
 
-📎 [阅读原文](https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/) — *TechCrunch*
 
-### 5. Meta’s Muse launches on iPad just a month after its mobile debut
+### 5. India rejects Elon Musk’s claim of discrimination over Starlink launch
 
-[原文] Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.
+[原文] Starlink is still awaiting security clearance before it can seek spectrum and begin commercial services in India.
 
-📎 [阅读原文](https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/) — *TechCrunch*
 
 ---
 
 ## 🔬 科学
 
-> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: cb6181d9-2b8f-409f-bdb4-f78e8aea8）
+> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 66b93039-ad7c-4190-866c-1ff0c226e）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -164,83 +164,83 @@
 
 ## ⚽ 体育
 
-> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: c59b0c1f-a1be-40d0-8ac9-0251b4ce6）
+> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: a43f1d2f-e479-444d-b5ba-dc8d67058）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Guardiola set to attend Man City's first home game since guilty verdict
+### 1. Clubs fear political interference in Man City appeal
 
-[原文] Pep Guardiola managed Manchester City for a decade, leaving in the summer, and has backed the club's owners since the verdict.
+[原文] Premier League clubs are "concerned" about political interference in Manchester City's appeal after Prime Minister Andy Burnham's comments.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ckrey77jq1n7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c6y93qq5175wo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Ex-Spurs player Vega set to run for Fifa president
+### 2. Faster than F1: The extreme motorsport where women keep winning
 
-[原文] Former Tottenham defender Ramon Vega says he intends to run in next year's Fifa presidential election - becoming the first person to confirm they want to challenge Gianni Infantino.
+[原文] Top Fuel drag racing is the only elite motorsport class where women frequently beat men to major titles.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c607397pjv37o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/motorsport/articles/c68xkx9gqv89o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Rice close to agreeing new Arsenal deal
+### 3. Snakes and jungle mind games as Bottas cycles to Singapore GP
 
-[原文] Declan Rice is close to agreeing a new long-term Arsenal contract, sources have told BBC Sport.
+[原文] Cadillac driver Valtteri Bottas says he was chased by dogs, saw snakes and leapt over a lizard as he cycled from Malaysia to Singapore for this weekend's Grand Prix.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c9gkvx74je7do?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/cjr4yr3lv24lo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Rahm to leave LIV Golf over 'unacceptable' terms
+### 4. How Brighton attract and develop the best young players ahead of their rivals
 
-[原文] Jon Rahm will leave LIV Golf after deeming the terms for LIV 2.0 "unacceptable", his lawyer has told a bankruptcy court hearing.
+[原文] Brighton sporting director Mike Cave discusses Brighton's transfer policy and how the club signs and nurtures the best young talent in the game.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/golf/articles/c65yngj00477o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cm0e35gzgdqeo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Eckert free to stay as Southampton boss as Spygate ban suspended
+### 5. Engine size limits and working with Iraola - the Liverpool academy approach
 
-[原文] Tonda Eckert is free to continue as Southampton manager after being given a suspended ban for his role in Spygate.
+[原文] Liverpool academy director Alex Inglethorpe talks to BBC Sport about the value and future of Liverpool's academy.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cqj9knmvm2ryo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cmx2z9z10wezo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
 ## 🎬 娱乐
 
-> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: a6748bf2-5b88-4126-bf92-c527c1991）
+> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: c1a98269-118f-427d-b603-a9327a6fe）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Doha Film Festival Unveils Competition Lineup With Accent on Female Filmmakers and Middle East Fare
+### 1. Joe Rogan Renews Nine-Figure Spotify Deal
 
-[原文] The upcoming Doha Film Festival has unveiled its 15-title competition lineup made up mostly of Middle East premieres of movies from the region, seven of which directed by women. As previously announce
+[原文] Spotify and Joe Rogan have entered into a new multiyear licensing agreement, continuing a relationship that began in 2020 for his hugely popular podcast. Under the agreement, Spotify handles ad sales 
 
-📎 [阅读原文](https://variety.com/2026/film/festivals/doha-film-festival-female-filmmakers-and-middle-east-1236904400/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/digital/news/joe-rogan-renews-spotify-deal-1236905502/) — *Variety*
 
-### 2. Na Hong-Jin Traces ‘The Chaser,’ ‘The Wailing’ and ‘Hope’ to Bar Talk, Shamans and War Fears at Busan Masterclass
+### 2. Erin Andrews and Charissa Thompson Bring Their ‘Calm Down’ Podcast to Colin Cowherd’s The Volume
 
-[原文] Na Hong-Jin told a Busan International Film Festival masterclass audience that his film &#8220;Hope&#8221; grew out of a conviction, around 2017, that war was about to break out on the Korean peninsul
+[原文] Erin Andrews and Charissa Thompson, sportscasters and longtime friends, have inked a new partnership with The Volume, the media network founded by Colin Cowherd, for their hit podcast &#8220;Calm Down
 
-📎 [阅读原文](https://variety.com/2026/film/festivals/na-hong-jin-hope-fear-war-busan-masterclass-1236905247/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/digital/news/erin-andrews-charissa-thompson-calm-down-podcast-colin-cowherd-1236899471/) — *Variety*
 
-### 3. Danny and Oxide Pang’s Josie Ho-Starring Supernatural Thriller ‘The Mage’ Sets Busan Market Debut With Abnormal Studios (EXCLUSIVE)
+### 3. ‘Rent,’ Reborn: How Star Gaten Matarazzo, Director Luke Sheppard and a Perfectly Cast West End Ensemble Are Giving the Musical Its Biggest Revival Yet
 
-[原文] Danny and Oxide Pang&#8217;s supernatural crime thriller &#8220;The Mage,&#8221; starring Josie Ho, is being introduced to international buyers at the Busan International Film Festival&#8217;s Asian C
+[原文] Gaten Matarazzo remembers exactly where he was when he heard that beloved musical “Rent” was getting a revival on London’s West End — and that he had a shot at the lead role. “The email came in when I
 
-📎 [阅读原文](https://variety.com/2026/film/markets-festivals/pang-brothers-josie-ho-thriller-mage-busan-market-debut-1236905233/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/theater/global/rent-revival-gaten-matarazzo-luke-sheppard-west-end-musical-1236902190/) — *Variety*
 
-### 4. ‘The Debut’: Jesse Eisenberg Praises Oscar Frontrunner Julianne Moore’s ‘Perfect Performance’ at NYFF
+### 4. Alex Warren to Host 2026 Kids Choice Awards, Nominations Announced
 
-[原文] You couldn’t imagine a more ideal setting for “The Debut” than Alice Tully Hall on the Upper West Side of Manhattan, where it had its New York premiere Wednesday evening as part of the New York Film F
+[原文] From Tik Tok to television, Grammy-nominated musician Alex Warren is about to get slimed as the host of Nickelodeon’s 39th annual Kids’ Choice Awards on Nov. 14. The fan voting-based award show celebr
 
-📎 [阅读原文](https://variety.com/2026/film/news/the-debut-jesse-eisenberg-julianne-moores-oscar-frontrunner-nyff-1236905218/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/kids-choice-awards-2026-alex-warren-nominations-1236904884/) — *Variety*
 
-### 5. Nana Patekar, Indian Star of ‘Parinda’ and ‘Krantiveer,’ Dies at 75
+### 5. AI Audio Startup Sonilo, Founded by TikTok Veterans, Raises $11 Million in B Capital-Led Round (EXCLUSIVE)
 
-[原文] Nana Patekar, the Indian Hindi and Marathi cinema actor whose roles ranged from the menacing crime lord of &#8220;Parinda&#8221; to the comic gangster of &#8220;Welcome,&#8221; died Oct. 8, at his res
+[原文] A generative audio startup run by people who came out of TikTok&#8217;s AI and music divisions has raised $11 million to build models that write music and sound effects to match what happens on screen
 
-📎 [阅读原文](https://variety.com/2026/film/obituaries-people-news/nana-patekar-dead-parinda-krantiveer-1236905203/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/digital/news/ai-audio-startup-sonilo-tiktok-veterans-11-million-1236904917/) — *Variety*
 
 ---
 
 ## 🏥 健康
 
-> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: f08c6186-c42a-4dcf-bc59-b869fc843）
+> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 54f70394-d99e-48cd-8887-b3ed77bf8）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -278,126 +278,126 @@
 
 ## 🎮 游戏
 
-> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 554c4aec-716e-47fc-9e6f-157e9e52c）
+> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 3edba9a9-977e-4228-b578-ab25a0571）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Mixtape Wins Game of the Year at the 2026 Australian Game Developer Awards
+### 1. Wardogs Streamer Banned for Exploiting the Game's Building Mechanics to Get Rich
 
-[原文] Mixtape developer Beethoven & Dinosaur has won a trifecta of awards at the 2026 AGDAs, including Excellence in Visual Art, Excellence in Sound Design, and Game of the Year.
+[原文] A vtuber is at the center of a controversy in the Wardogs community surrounding exploits.
 
-📎 [阅读原文](https://www.ign.com/articles/mixtape-wins-game-of-the-year-at-the-2026-australian-game-developer-awards) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/wardogs-streamer-banned-for-exploits) — *IGN*
 
-### 2. The 2026 LG Evo B6 4K 120Hz OLED TV Drops to Under $1,000 for Prime Day, Plus Get a Free Soundbar
+### 2. Below Review
 
-[原文] Why settle for just a TV when you can get the entire home theater.
+[原文] Below is Netflix’s go at a “What if Jaws but…” type of story set in Newfoundland starring Josh Hartnett that starts off with a promising hook and closes with a hole-y, disappointing end.
 
-📎 [阅读原文](https://www.ign.com/articles/lg-evo-b6-4k-oled-tv-deal-amazon-october-prime-day-sale) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/below-netflix-review) — *IGN*
 
-### 3. Amazon Prime Big Deal Days 2026: Today Is the Last Day to Score the Best October Sales
+### 3. Tom Cruise’s Digger Reportedly Positioned to Lose $250 Million
 
-[原文] Prime Day: Part 2 is nearly over.
+暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/amazon-prime-big-deal-days-sale-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/tom-cruises-digger-reportedly-positioned-to-lose-250-million) — *IGN*
 
-### 4. The 8BitDo Ultimate 2C Wireless PC Gaming Controller Drops to $23.99 for Prime Day
+### 4. Jeremy Clarkson Will Return to His Automotive Roots for One-Off Special ‘Jeremy Grows a Car’
 
-[原文] Compatible with Windows PC, Android, and Steam Deck.
+[原文] Jeremy Grows a Car: A Clarkson’s Farm Special will air on Prime in 2027.
 
-📎 [阅读原文](https://www.ign.com/articles/8bitdo-ultimate-2c-pc-gaming-controller-deal-amazon-october-prime-day-sale-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/jeremy-clarkson-will-return-to-his-automotive-roots-for-one-off-special-jeremy-grows-a-car) — *IGN*
 
-### 5. 10 Last-Minute Deals to Grab Before Prime Big Deal Days End
+### 5. Star Wars: Galactic Racer Multiplayer Party Limit Will Be Doubled Via Update
 
-[原文] You only have a few hours left to save big on video games, TVs, LEGO, and more.
+[原文] Developer Fuse Games aims to release an update to increase party size from three to six players “within the first few weeks of launch.”
 
-📎 [阅读原文](https://www.ign.com/articles/10-last-minute-deals-prime-big-deal-days-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/star-wars-galactic-racer-multiplayer-party-limit-will-be-doubled-via-update) — *IGN*
 
 ---
 
 ## 🚗 汽车
 
-> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 8634a016-e743-4af2-a67b-45230ac51）
+> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: e7dbe904-9176-4319-8bee-a4b61403d）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Scratch-Built Land Speed Lawnmower Goes 152 MPH and Still Cuts Grass
+### 1. Alabama Car Show Accidentally Sandblasted By Apache Helicopter Rotor Wash
+
+[原文] Here's why you don't want to be anywhere near an AH-64 Apache when it's landing in a dusty parking lot.
+The post Alabama Car Show Accidentally Sandblasted By Apache Helicopter Rotor Wash appeared firs
+
+📎 [阅读原文](https://www.thedrive.com/news/alabama-car-show-accidentally-sandblasted-by-apache-helicopter-rotor-wash) — *The Drive*
+
+### 2. Scratch-Built Land Speed Lawnmower Goes 152 MPH and Still Cuts Grass
 
 [原文] Hitting 152.8 mph in the standing mile is impressive, no matter the machine. But doing it in a lawnmower? C'mon.
 The post Scratch-Built Land Speed Lawnmower Goes 152 MPH and Still Cuts Grass appeared 
 
 📎 [阅读原文](https://www.thedrive.com/news/scratch-built-land-speed-lawnmower-goes-152-mph-and-still-cuts-grass) — *The Drive*
 
-### 2. GM’s V8 SUVs Get the Same Gas Mileage They Did In 2009
+### 3. GM’s V8 SUVs Get the Same Gas Mileage They Did In 2009
 
 [原文] Cars have gotten a lot more efficient since 2009—well, most of them, anyway. 
 The post GM&#8217;s V8 SUVs Get the Same Gas Mileage They Did In 2009 appeared first on The Drive.
 
 📎 [阅读原文](https://www.thedrive.com/news/gms-v8-suvs-get-the-same-gas-mileage-they-did-in-2009) — *The Drive*
 
-### 3. It’s Probably Time To Start Worrying About the 4G LTE Shutdown Bricking Cars
+### 4. It’s Probably Time To Start Worrying About the 4G LTE Shutdown Bricking Cars
 
-[原文] There's expected to be over a billion connected cars on the road by 2035. Some rely on networks that might exist in a few years.
-The post It’s Probably Time To Start Worrying About the 4G LTE Shutdown
+[原文] There's expected to be over a billion connected cars on the road by 2035. Some rely on networks that might not exist in a few years.
+The post It’s Probably Time To Start Worrying About the 4G LTE Shut
 
 📎 [阅读原文](https://www.thedrive.com/news/its-probably-time-to-start-worrying-about-the-4g-lte-shutdown-bricking-cars) — *The Drive*
 
-### 4. School Bus Diesel Bills Have Doubled in Some Areas. Now Activities Are at Risk
+### 5. School Bus Diesel Bills Have Doubled in Some Areas. Now Activities Are at Risk
 
 [原文] Extracurricular activities like sports, band, and the occasional field trip are being heavily scrutinized by districts nationwide because schools simply don't have the money to pay for fuel.
 The post 
 
 📎 [阅读原文](https://www.thedrive.com/news/school-bus-diesel-bills-have-doubled-in-some-areas-now-activities-are-at-risk) — *The Drive*
 
-### 5. This 2017 Kia Sorento Is Still Running the Stock V6 at 715,000 Miles. What’s Your Excuse?
-
-[原文] If anything, this almost unbelievable example proves that maintenance matters most.
-The post This 2017 Kia Sorento Is Still Running the Stock V6 at 715,000 Miles. What&#8217;s Your Excuse? appeared fi
-
-📎 [阅读原文](https://www.thedrive.com/news/this-2017-kia-sorento-is-still-running-the-stock-v6-at-715000-miles-whats-your-excuse) — *The Drive*
-
 ---
 
 ## 🌱 环境
 
-> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: d559c4b2-ec5d-43d1-bc55-e4cb224b4）
+> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 79f41c75-25b6-491d-b1ce-8f567a44a）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Compounding Climate Impacts Drive Tropical Forest Decline
+### 1. To Block Solar Energy Projects, One Community Lumped Them in With Junkyards and Adult Bookstores
+
+[原文] In Montgomery County, Indiana, utility-scale solar projects appear on an official list of undesirable land uses that also includes “adult-oriented businesses.” So it wasn’t surprising that the county 
+
+📎 [阅读原文](https://insideclimatenews.org/news/08102026/inside-clean-energy-indiana-solar-energy-fight/) — *Inside Climate News*
+
+### 2. Maryland Demands Answers as Fuel Leak Persists From Joint Base Andrews
+
+[原文] Maryland environmental regulators say jet fuel continues to seep into Piscataway Creek from Joint Base Andrews more than six months after the spill was reported, despite the base&#8217;s assurances th
+
+📎 [阅读原文](https://insideclimatenews.org/news/08102026/joint-base-andrews-fuel-leak-into-piscataway-creek/) — *Inside Climate News*
+
+### 3. In Harrisburg, Advocates Rally for Tougher Rules on Fracking
+
+[原文] Environmental groups and citizens are urging Pennsylvania regulators to increase the minimum amount of protective buffer space between gas wells and homes, schools and water sources. The issue has tak
+
+📎 [阅读原文](https://insideclimatenews.org/news/08102026/pennsylvania-natural-gas-well-buffers-data-centers/) — *Inside Climate News*
+
+### 4. Compounding Climate Impacts Drive Tropical Forest Decline
 
 [原文] Ozone pollution from fires, along with extreme heat and drought, is further weakening the Amazon rainforest’s ability to absorb carbon dioxide, new research shows.&#160; The Amazon and other forests a
 
 📎 [阅读原文](https://insideclimatenews.org/news/07102026/heat-drought-and-fire-emissions-devastate-rainforests/) — *Inside Climate News*
 
-### 2. The American Livestock Industry’s Main Lobbying Group Treated Climate Change as a PR Problem
+### 5. The American Livestock Industry’s Main Lobbying Group Treated Climate Change as a PR Problem
 
 [原文] In 1991, Random House published a picture book called “Teenage Mutant Ninja Turtles: ABC’s for a Better Planet,” in which the masked cartoon turtles trade in their signature nunchucks for signs bearin
 
 📎 [阅读原文](https://insideclimatenews.org/news/07102026/livestock-industry-lobby-group-downplayed-greenhouse-gas-emissions/) — *Inside Climate News*
 
-### 3. Maine’s Next Governor Will Walk a Tightrope Between Energy Affordability and Climate Action
-
-[原文] As Mainers prepare to choose a new governor in November, climate and energy issues may not be top of mind for every voter—but they are having big effects on residents’ lives.  The average cost of heat
-
-📎 [阅读原文](https://insideclimatenews.org/news/07102026/maines-next-governor-will-walk-a-tightrope-between-energy-affordability-and-climate-action/) — *Inside Climate News*
-
-### 4. New Documents Add to Evidence in Climate Deception Case Against ExxonMobil
-
-[原文] If there was a year the world began waking up to climate change, it might have been 1988. That June, the NASA climatologist James Hansen testified to Congress that the climate was warming and would co
-
-📎 [阅读原文](https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/) — *Inside Climate News*
-
-### 5. Alabama Sets Stricter Data Center Rules. But There’s a Loophole.
-
-[原文] MONTGOMERY, Ala.—The Alabama Public Service Commission approved a new set of rules for future data center projects Tuesday that require more transparency and disclosure from data center companies and 
-
-📎 [阅读原文](https://insideclimatenews.org/news/07102026/alabama-data-center-rules-loophole/) — *Inside Climate News*
-
 ---
 
 ## 📚 教育
 
-> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 45106650-e033-411f-a8d6-575f8514c）
+> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 1fb630cf-cd97-4447-ae39-0319f2051）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -435,13 +435,13 @@ The post This 2017 Kia Sorento Is Still Running the Stock V6 at 715,000 Miles. W
 
 ## 🎵 音乐
 
-> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: fe1994f4-2bec-4a43-b2d9-608c8e720）
+> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 42aa630c-a07b-4923-a49f-18c3c38d0）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
 ### 1. See Madison Square Garden Ushers Vibe-Dance to Celebrate Phish’s 100th Booking at Legendary Venue
 
-[原文] Gig will take place in January at the conclusion of four gigs around New Year's Eve
+[原文] Gig will take place in January at the conclusion of four gigs around New Year’s Eve
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/phish-100-madison-square-garden-concert-1235639424/) — *Rolling Stone*
 
@@ -473,39 +473,39 @@ The post This 2017 Kia Sorento Is Still Running the Stock V6 at 715,000 Miles. W
 
 ## ✈️ 旅游
 
-> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 1f1bcf57-793a-495f-a24c-ffc1e68c7）
+> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 7c550b0a-86a0-4c52-9a46-414d0a984）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Disney Keeps Cheapest Tickets Flat as Add-On Prices Climb
+### 1. Why Hotel Operators Need to Think More Like Owners
+
+[原文] Asset-light growth can help hotel companies scale faster, but owners still carry the capital risk. Operators with skin in the game may be better positioned to test ideas, challenge investment assumpti
+
+📎 [阅读原文](https://skift.com/2026/10/08/hotel-growth-better-scorecard/) — *Skift*
+
+### 2. Duetto Buys Flyr Hospitality as Airline Tech Firm Exits Hotel Pricing
+
+[原文] Four years after Flyr bought its way into hotels, it's handing the unit to one of the two rivals Skift said it would have to beat.
+
+📎 [阅读原文](https://skift.com/2026/10/08/duetto-buys-flyr-hospitality-as-airline-tech-firm-exits-hotel-pricing/) — *Skift*
+
+### 3. Dubai’s Luxury Hotels Add Perks to Avoid Rate Cuts
+
+[原文] Dubai’s luxury hotels face a choice between protecting rates and filling rooms. Value-adds let them do some of both. The question is how long their 2025 buffers will last.
+
+📎 [阅读原文](https://skift.com/2026/10/08/dubais-luxury-hotels-add-perks-to-avoid-rate-cuts/) — *Skift*
+
+### 4. Disney Keeps Cheapest Tickets Flat as Add-On Prices Climb
 
 [原文] Lower priced tickets can help build loyal visitors while premium add-ons drive more spending at the parks.
 
 📎 [阅读原文](https://skift.com/2026/10/07/disney-october-ticket-price-increase/) — *Skift*
 
-### 2. Alaska Airlines’ Plan to Grow Beyond Its West Coast Roots
+### 5. Alaska Airlines’ Plan to Grow Beyond Its West Coast Roots
 
 [原文] Despite constraints at its biggest hub, competition from Delta, and surging fuel prices, Alaska’s chief commercial officer told Skift that he thinks the carrier can dominate the West Coast with its pr
 
 📎 [阅读原文](https://skift.com/2026/10/07/alaska-airlines-plan-to-grow-beyond-its-west-coast-roots/) — *Skift*
-
-### 3. How Amex GBT Reviews AI Risk
-
-[原文] Amex GBT may be a software, payments and meetings company for business travel, but it’s also selling trust — and its chief privacy officer said that’s what it built its AI governance around.
-
-📎 [阅读原文](https://skift.com/2026/10/07/how-amex-gbt-reviews-ai-risk/) — *Skift*
-
-### 4. Skift Commerce Summit, A New Event for Travel Commerce Leaders, November 11 in New York
-
-[原文] Travel's commerce layers are merging into one system, and control of that system will set margins for the next decade. We're bringing the operators making those calls together at Skift Commerce Summit
-
-📎 [阅读原文](https://skift.com/2026/10/07/announcing-skift-commerce-summit/) — *Skift*
-
-### 5. Convenience vs. Productivity Is Travel AI’s Real Test
-
-[原文] Travel AI wins when it removes work without removing the parts of travel people actually want to enjoy.
-
-📎 [阅读原文](https://skift.com/2026/10/07/convenience-vs-productivity-is-travel-ais-real-test/) — *Skift*
 
 ---
 
