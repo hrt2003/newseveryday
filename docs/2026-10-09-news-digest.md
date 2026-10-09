@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年10月09日** | 生成时间: 2026-10-09 07:06
+**2026年10月09日** | 生成时间: 2026-10-09 13:21
 
 ---
 
@@ -12,45 +12,45 @@
 
 ## 🌍 国际政治
 
-> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 4961852d-fea1-4e5c-ae09-bbb965ebc）
+> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 622cc8c4-a628-4e31-a4dd-1dc954834）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says
+### 1. Suspect linked to Monaco bomb attack on millionaire speaks to BBC from Ukrainian prison
 
-[原文] "We'll make sure that people are able to watch it," the US Defence Secretary Pete Hegseth said on Thursday.
+[原文] Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says
+
+[原文] The US Defence Secretary says the execution will be public, but a legal expert says the "unprecedented" decision is on "uncertain legal terrain".
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge
+### 3. Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge
 
 [原文] Ukraine accused Russia of targeting two crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Christa Pike now walking after failed US execution, lawyer tells BBC
+### 4. Christa Pike now walking after failed US execution, lawyer tells BBC
 
 [原文] A lawyer says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Adidas sues Australian label White Fox over four stripes design
+### 5. Adidas sues Australian label White Fox over four stripes design
 
 [原文] The German sportswear brand wants the Sydney-based label to stop selling the clothes and pay damages.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture
-
-[原文] The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
 ---
 
 ## 💰 经济财经
 
-> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 05954337-c588-48d7-9520-a85693449）
+> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 2817e7be-07cf-40cd-88ce-678d0baac）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -60,41 +60,41 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html) — *CNBC*
 
-### 2. SpaceX deal to acquire spectrum license hammers shares of AT&T, Verizon and T-Mobile
+### 2. 'Real boss of India?': Elon Musk takes aim at Indian billionaire Ambani as Starlink launch stalls
+
+[原文] Musk claimed Starlink was not being allowed to launch in India despite spending five years complying with every single law and requirement of the government.
+
+📎 [阅读原文](https://www.cnbc.com/2026/10/09/musk-starlink-ambani-india-us.html) — *CNBC*
+
+### 3. Nvidia-backed Aussie AI firm Firmus withdraws historic IPO, citing market volatility
+
+[原文] Nvidia-backed Australian AI data center operator Firmus has withdrawn its planned IPO amid market volatility.
+
+📎 [阅读原文](https://www.cnbc.com/2026/10/09/nvidia-ai-firmus-ipo-.html) — *CNBC*
+
+### 4. Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says
+
+[原文] Nasdaq CEO Adena Friedman said tokenization could free up tens of billions of dollars in trapped capital.
+
+📎 [阅读原文](https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html) — *CNBC*
+
+### 5. SpaceX deal to acquire spectrum license hammers shares of AT&T, Verizon and T-Mobile
 
 [原文] SpaceX agreed to purchase a nationwide spectrum portfolio as it to pushes its Starlink service deeper into the U.S. telecommunications market.
 
 📎 [阅读原文](https://www.cnbc.com/2026/10/08/spacex-spectrum-license-att-verizon-tmobile.html) — *CNBC*
 
-### 3. Treasury yields are 'really, really high' but can come down soon, Bessent's new advisor says
-
-[原文] The comments from David Zervos come after the 10-year and 30-year yields marched to 24-year highs in recent days.
-
-📎 [阅读原文](https://www.cnbc.com/2026/10/08/treasury-yields-david-zervos.html) — *CNBC*
-
-### 4. Major League Baseball proposes shortening its regular season as it pushes for a salary cap
-
-[原文] Major League Baseball proposed a return to a shorter 154-game regular season schedule as it attempts to convince players to approve a salary cap.
-
-📎 [阅读原文](https://www.cnbc.com/2026/10/08/major-league-baseball-proposes-shorter-season-amid-salary-cap-push.html) — *CNBC*
-
-### 5. Why a Starbucks takeover of Chipotle would — and wouldn't — make sense for both companies
-
-[原文] Starbucks has reportedly been working with advisers on a takeover proposal for Chipotle, but a potential deal comes with pros and cons for investors.
-
-📎 [阅读原文](https://www.cnbc.com/2026/10/08/starbucks-chipotle-acquisition.html) — *CNBC*
-
 ---
 
 ## 💻 科技
 
-> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 134b203f-c7e9-4055-8ea2-efb5d08d8）
+> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: b61a470e-5ebd-4060-89fc-95a70249d）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
 ### 1. President Trump awards Big Tech donors with nation’s highest science prizes
 
-[原文] On Thursday, President Trump awarded Elon Musk, Jensen Huang, Sergey Brin, and AMD’s Lisa Su the National Medal of Science, the nation’s top science prize.
+[原文] Together, the awardees have donated nearly $6 billion to efforts tied to Trump and his administration.
 
 📎 [阅读原文](https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/) — *TechCrunch*
 
@@ -126,7 +126,7 @@
 
 ## 🔬 科学
 
-> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 44d38c65-37ab-4681-a99a-449915989）
+> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 0eb89fd9-6457-4203-8ab5-c9c5182b5）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -164,7 +164,7 @@
 
 ## ⚽ 体育
 
-> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 352fd35e-8fd0-45d3-8716-22c702920）
+> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: f066bb4f-b074-4b62-8253-9abb719ed）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -202,45 +202,45 @@
 
 ## 🎬 娱乐
 
-> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 49f39604-e4f3-4e02-9e61-9e604cb53）
+> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: d39788bb-b204-4158-ba6b-86237c6b7）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘Animals’ Review: Ben Affleck Returns to the Director’s Chair for a Nasty, Compulsive Kidnapping Thriller
+### 1. Cole Sprouse Starrer ‘Vintage Violence’ to Close Singapore Film Festival as Closing Night Returns
 
-[原文] It&#8217;s for the best that &#8220;Animals,&#8221; actor Ben Affleck&#8217;s sixth outing behind the camera, is being released directly to Netflix — not that this slick, pacy serving of all-star pulp
+[原文] The Singapore International Film Festival (SGIFF) will wrap its 37th edition on Nov. 1 with “Vintage Violence,” Eugene Kotlyarenko’s livestream-era crime caper starring Cole Sprouse and Mizuhara Kiko.
 
-📎 [阅读原文](https://variety.com/2026/film/reviews/animals-review-ben-affleck-1236906114/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/cole-sprouse-vintage-violence-singapore-film-festival-closing-night-1236906286/) — *Variety*
 
-### 2. Marvel’s ‘VisionQuest’ Surprise Premieres at NYCC and Earns Glowing First Reactions: ‘A Worthy Successor’ to ‘WandaVision’
+### 2. Fan Bingbing Says Young Chinese Audiences ‘Aren’t Being Fed Very Well’ as AI Microdramas Boom
 
-[原文] Marvel debuted the first episode of &#8220;VisionQuest&#8221; with a surprise screening to close out its New York Comic Con panel Thursday. Early reactions to the Disney+ show, which is set to premier
+[原文] Fan Bingbing watches AI-generated microdramas now and then. She’s just not convinced they’re doing China’s young audiences any good. The Chinese star made the remarks at a Busan International Film Fes
 
-📎 [阅读原文](https://variety.com/2026/tv/news/marvel-visionquest-surprise-premieres-nycc-first-reactions-1236906093/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/fan-bingbing-ai-microdramas-park-chan-wook-busan-1236906307/) — *Variety*
 
-### 3. ‘Other Mommy’ Review: Jessica Chastain’s Doppelgänger Horror Misfires in Every Direction
+### 3. Indian Premier League Stands Alone at the Top as Asia Pacific Sports Rights Growth Slows, Media Partners Asia Finds
 
-[原文] If you enjoyed watching the trailer for “Other Mommy” during every multiplex outing this summer, you’ll get an extended dose of its freneticism during the actual film — right down to an opening title 
+[原文] The Indian Premier League remains the only Asia Pacific sports property priced at the top of the global market, according to new research from Media Partners Asia, which expects growth in the region’s
 
-📎 [阅读原文](https://variety.com/2026/film/reviews/other-mommy-review-jessica-chastain-doppelganger-horror-1236906167/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/sports/news/indian-premier-league-leads-apac-sports-rights-growth-slows-1236906279/) — *Variety*
 
-### 4. Matthew Lillard Resented ‘Scooby-Doo’ Movies After His Career Nosedived When the Sequel Flopped: We ‘Sold Our House’ and Had to ‘Downsize Our Lives’
+### 4. ‘Law & Order: SVU’ Season 28 Premiere Recap: A Gang Rape Echoing the Cornell 7 Case
 
-[原文] Matthew Lillard got brutally honest about his love-hate relationship with the &#8220;Scooby-Doo&#8221; movies while participating in Variety&#8216;s &#8220;Know Their Lines&#8221; video series. The ac
+[原文] “Law &#38; Order: Special Victims Unit” is renowned for its ripped-from-the-headlines episodes. Who can forget the Trayvon Martin-Paula Deen crossover featuring Cybill Shepherd as a racist celebrity c
 
-📎 [阅读原文](https://variety.com/2026/film/news/matthew-lillard-resented-scooby-doo-career-failed-sold-house-1236905807/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/law-and-order-svu-season-28-premiere-volition-gang-rape-cornell-7-1236906037/) — *Variety*
 
-### 5. David Corenswet Proves He’s More Than Superman in ‘Mr. Irrelevant,’ a Potential ‘Blind Side’-Style Oscar Vehicle Following NFL Legends Screening in NYC
+### 5. Michael Ovitz Ordered to Complete Deposition in Julia Ormond Case After Storming Out Over Jeffrey Epstein Questions
 
-[原文] Football teams are always looking for an edge. This Oscar season, Paramount may have found one in David Corenswet. The New York Giants took John Tuggle with the 335th pick of the 1983 NFL Draft and th
+[原文] A judge on Thursday ordered CAA co-founder Michael Ovitz to complete his deposition in the Julia Ormond sexual assault lawsuit, months after storming out when he was asked about Jeffrey Epstein. Ormon
 
-📎 [阅读原文](https://variety.com/2026/film/awards/david-corenswet-superman-mr-irrelevant-oscars-nfl-screening-1236905819/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/michael-ovitz-ormond-deposition-epstein-1236906246/) — *Variety*
 
 ---
 
 ## 🏥 健康
 
-> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: d6c93366-d29c-4a14-9aea-9a0aa4107）
+> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 8559fb4f-cd01-4fb3-ac46-890c4e336）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -278,45 +278,45 @@
 
 ## 🎮 游戏
 
-> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: a71c6cdd-7c52-49ee-8a32-8c7f3a695）
+> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 5df19ecc-1db3-4e3d-bb8b-c30914196）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Skytech Ryzen Edition RTX 5070 Prebuilt Gaming PC Drops to $1,499.99 at Amazon
+### 1. Cupertino Season 1 Premiere Review
 
-[原文] An excellent affordable rig for 1080p and 1440p gaming.
+[原文] Cupertino Season 1 premiere review: The Good Wife creators Robert and Michelle King are back with a sly, smart deconstruction of Silicon Valley.
 
-📎 [阅读原文](https://www.ign.com/articles/skytech-ryzen-edition-rtx-5070-prebuilt-gaming-pc-deal-october-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/cupertino-season-1-premiere-review) — *IGN*
 
-### 2. Final Fantasy VII Revelation Announces an NPC-ified Version of Shiva Voiced by Marisha Ray | NYCC 2026
+### 2. HBO's War: Season 1, Episode 2 Review
 
-[原文] The Critical Role performer is also the real-life wife of the voice of Vincent Valentine.
+[原文] This week’s episode is another well-acted, well-written affair. HBO’s War tightens the screws just enough in its second episode to brace viewers for either side of this divorce to mess things up beyon
 
-📎 [阅读原文](https://www.ign.com/articles/final-fantasy-vii-revelation-announces-an-npc-ified-version-of-shiva-voiced-by-marisha-ray-nycc-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/war-season-1-episode-2-review) — *IGN*
 
-### 3. A Live-Action Cyberpunk 2077 Movie Is in the Works at Paramount
+### 3. VisionQuest Showrunner Terry Matalas Didn't Have to Worry Too Much About the MCU's Bigger Picture — 'We Pretty Much Did Exactly What We Wanted' | NYCC 2026
 
-[原文] Paramount Pictures is developing a live-action Cyberpunk 2077 film.
+[原文] At New York Comic Con, VisionQuest showrunner Terry Matalas told IGN's Jeffrey Vega that MCU boss Kevin Feige gave Matalas a pass on doing whatever he wanted, as long as he included one particular thi
 
-📎 [阅读原文](https://www.ign.com/articles/a-live-action-cyberpunk-2077-movie-is-in-the-works-at-paramount) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/visionquest-showrunner-terry-matalas-didnt-have-to-worry-too-much-about-the-mcus-bigger-picture-we-pretty-much-did-exactly-what-we-wanted-nycc-2026) — *IGN*
 
-### 4. Arrow Co-Creator Shares Details and Concept Art for Canceled Green Lantern Show That Shares Striking Similarities to HBO's Lanterns
+### 4. Phantom Blade Zero Might Be This Year’s Most Stylish Action Game | IGN Preview
 
-[原文] Concept art for a canceled Green Lanterns show has been shared online by a co-creator of the CW’s Arrow series, showing what the Emerald Knights’ adventures almost looked like before HBO pivoted to La
+[原文] After half a day playing Phantom Blade Zero, it’s gone from mostly not on my radar to to the top of my wishlist this fall, and I truly cannot wait to dive back in later this month to see if it can del
 
-📎 [阅读原文](https://www.ign.com/articles/arrow-co-creator-shares-details-and-concept-art-for-canceled-green-lantern-show-that-shares-striking-similarities-to-hbos-lanterns) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/phantom-blade-zero-might-be-this-years-most-stylish-action-game-ign-preview) — *IGN*
 
-### 5. Today’s Top Deals: MTG Card Sets, Zelda Switch Pro Controller, and a $20 Glorious Gaming Mouse
+### 5. Finn Jones Calls Iron Fist’s Return in Daredevil: Born Again a 'Wonderful Gift' | NYCC 2026
 
-[原文] Even with Prime Big Deal Days behind us, the savings continue today on Pokémon TCG, LEGO, and more.
+[原文] Finn Jones addresses his return as Danny Rand/Iron Fist in Daredevil: Born Again Season 3, calling a second chance with Marvel a 'wonderful gift.'
 
-📎 [阅读原文](https://www.ign.com/articles/best-deals-for-october-8-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/finn-jones-iron-fist-daredevil-born-again-season-3) — *IGN*
 
 ---
 
 ## 🚗 汽车
 
-> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 2afdb260-8695-412b-821e-3479ba528）
+> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: beb7d054-8a95-4955-8d50-495e36a4f）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -359,45 +359,45 @@ The post Last Call on October Prime Day:
 
 ## 🌱 环境
 
-> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 448e2539-b096-45b1-ab3f-0a76fefec）
+> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 0b1ff18a-1bf9-4edf-817b-968f104df）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. To Block Solar Energy Projects, One Community Lumped Them in With Junkyards and Adult Bookstores
+### 1. Wildlife Populations Have Plunged Globally, But Some Buck the Trend
+
+[原文] A new report paints a dark picture of the state of global wildlife—but also highlights flickers of light where some populations are on the upswing.&#160; Over the past half-century, populations of tho
+
+📎 [阅读原文](https://insideclimatenews.org/news/08102026/wildlife-populations-plunge-globally/) — *Inside Climate News*
+
+### 2. To Block Solar Energy Projects, One Community Lumped Them in With Junkyards and Adult Bookstores
 
 [原文] In Montgomery County, Indiana, utility-scale solar projects appear on an official list of undesirable land uses that also includes “adult-oriented businesses.” So it wasn’t surprising that the county 
 
 📎 [阅读原文](https://insideclimatenews.org/news/08102026/inside-clean-energy-indiana-solar-energy-fight/) — *Inside Climate News*
 
-### 2. Maryland Demands Answers as Fuel Leak Persists From Joint Base Andrews
+### 3. Maryland Demands Answers as Fuel Leak Persists From Joint Base Andrews
 
 [原文] Maryland environmental regulators say jet fuel continues to seep into Piscataway Creek from Joint Base Andrews more than six months after the spill was reported, despite the base&#8217;s assurances th
 
 📎 [阅读原文](https://insideclimatenews.org/news/08102026/joint-base-andrews-fuel-leak-into-piscataway-creek/) — *Inside Climate News*
 
-### 3. In Harrisburg, Advocates Rally for Tougher Rules on Fracking
+### 4. In Harrisburg, Advocates Rally for Tougher Rules on Fracking
 
 [原文] Environmental groups and citizens are urging Pennsylvania regulators to increase the minimum amount of protective buffer space between gas wells and homes, schools and water sources. The issue has tak
 
 📎 [阅读原文](https://insideclimatenews.org/news/08102026/pennsylvania-natural-gas-well-buffers-data-centers/) — *Inside Climate News*
 
-### 4. Compounding Climate Impacts Drive Tropical Forest Decline
+### 5. Compounding Climate Impacts Drive Tropical Forest Decline
 
 [原文] Ozone pollution from fires, along with extreme heat and drought, is further weakening the Amazon rainforest’s ability to absorb carbon dioxide, new research shows.&#160; The Amazon and other forests a
 
 📎 [阅读原文](https://insideclimatenews.org/news/07102026/heat-drought-and-fire-emissions-devastate-rainforests/) — *Inside Climate News*
 
-### 5. The American Livestock Industry’s Main Lobbying Group Treated Climate Change as a PR Problem
-
-[原文] In 1991, Random House published a picture book called “Teenage Mutant Ninja Turtles: ABC’s for a Better Planet,” in which the masked cartoon turtles trade in their signature nunchucks for signs bearin
-
-📎 [阅读原文](https://insideclimatenews.org/news/07102026/livestock-industry-lobby-group-downplayed-greenhouse-gas-emissions/) — *Inside Climate News*
-
 ---
 
 ## 📚 教育
 
-> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 089ad069-141e-4b0e-9747-12acbf8c5）
+> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: d6699d63-2a79-40c2-9f9e-15f81f8db）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -435,45 +435,45 @@ The post Last Call on October Prime Day:
 
 ## 🎵 音乐
 
-> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 4875c2a3-04cc-469f-a5cd-7486b1070）
+> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: fe146598-0e77-4e5e-9f3c-6574bd815）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Taylor Swift to Perform at Academy Museum’s Annual Gala
+### 1. Journey Drummer Deen Castronovo Suffers Medical Emergency During Tulsa Concert
+
+[原文] The musician was reportedly hospitalized after the concert was paused at BOK Center
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/journey-drummer-deen-castronovo-medical-emergency-1235640127/) — *Rolling Stone*
+
+### 2. Taylor Swift to Perform at Academy Museum’s Annual Gala
 
 [原文] The stop comes ahead of the start of Oscar voting season, with Swift's Toy Story 5 hit "I Knew It, I Knew You" eligible for Best Original Song
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/taylor-swift-perform-academy-museum-2027-gala-1235639847/) — *Rolling Stone*
 
-### 2. Katseye’s Sophia Laforteza to Return to Group in January
+### 3. Katseye’s Sophia Laforteza to Return to Group in January
 
 [原文] However, singer will miss North American leg of Katseye’s Wildworld Tour this fall as she continues to focus on her mental health
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/katseye-sophia-laforteza-return-group-2027-1235639811/) — *Rolling Stone*
 
-### 3. Audrey Hobert Embarks on a Soul-Searching Journey in New ‘Phoebe’ Video
+### 4. Audrey Hobert Embarks on a Soul-Searching Journey in New ‘Phoebe’ Video
 
 [原文] The pop artist will open for Charli XCX next year
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/audrey-hobert-phoebe-video-1235638189/) — *Rolling Stone*
 
-### 4. U2 Wrote a Song About Rosalía. How Does She Feel About That?
+### 5. U2 Wrote a Song About Rosalía. How Does She Feel About That?
 
 [原文] The superstar joined Jimmy Fallon on The Tonight Show and shared her thoughts on U2’s upcoming song “The Mirror Maker (Rosalía)”
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/rosalia-interview-u2-song-jimmy-fallon-1235639699/) — *Rolling Stone*
 
-### 5. Turnstile Announce Free Washington Monument Show for Charity
-
-[原文] The rock band will host the show with Human Concern International
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/turnstile-show-washington-monument-palestine-sudan-lebanon-1235639583/) — *Rolling Stone*
-
 ---
 
 ## ✈️ 旅游
 
-> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 361595ba-07ea-4384-b8e5-3fa1fc4fd）
+> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: e459e9ed-503a-430e-81aa-ef7dd8597）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
