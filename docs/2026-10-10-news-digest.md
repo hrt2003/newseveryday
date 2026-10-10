@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年10月10日** | 生成时间: 2026-10-10 06:26
+**2026年10月10日** | 生成时间: 2026-10-10 13:05
 
 ---
 
@@ -12,53 +12,53 @@
 
 ## 🌍 国际政治
 
-> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: c88dfa59-fd14-4cd3-bab5-0cb79a577）
+> （国际政治类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 1006df3c-1dc2-4dfb-b45b-60918802e）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'
+### 1. Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin
 
-[原文] Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.
+[原文] Ukraine's president sharply criticised the move, calling it an "investment in war that must be ended, not prolonged".
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. US unveils sanctions on ICC in move court condemns as 'assault on rule of law'
+### 2. Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices
+
+[原文] The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. US unveils sanctions on ICC in move court condemns as 'assault on rule of law'
 
 [原文] Several member states of the international tribunal, including the UK, say they "strongly disagree" with the sanctions.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. JD Vance casts doubt on firing squad execution and says he will not watch it
+### 4. Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest
 
-[原文] The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.
+[原文] Several trains to Delhi have been cancelled and dozens of metro stations are shut to stop protesters from gathering.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Powerful magnitude 7.7 earthquake hits Panama, damaging buildings
+### 5. Life-threatening Hurricane Isaias makes landfall in Florida
 
-[原文] Tsunami warnings are issued for neighbouring countries as videos of destruction circulate online.
+[原文] The storm took direct aim at Florida and is expected to impact Alabama, Georgia, and Louisiana.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Russian search engine Yandex struggles after Ukrainian strikes on data centres
-
-[原文] Often dubbed "Russia's Google", the tech firm admits customers may experience disruption to digital services due to the attacks.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
 ## 💰 经济财经
 
-> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 55f12e08-d228-4b8b-9952-dc753f321）
+> （经济财经类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 095fa66d-1c38-4ce5-bd0b-af52f48a4）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump strikes deal with Putin to supply Russian diesel to U.S. and global markets
+### 1. Trump's diesel agreement with Putin accused of contradicting Russia sanctions law
 
-[原文] President Donald Trump has few options to reduce diesel prices given the destruction done to refineries by the wars in Eastern Europe and the Middle East.
+[原文] Ukraine President Volodymyr Zelenskyy said in a searing statement that the U.S. easing sanctions on Moscow "plays into Russia's hands."
 
-📎 [阅读原文](https://www.cnbc.com/2026/10/09/trump-putin-russian-diesel-us-global-markets.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/09/trump-putin-diesel-russia-sanctions-ukraine.html) — *CNBC*
 
 ### 2. Americans' debt problems are flashing a warning not seen since the Great Recession
 
@@ -88,45 +88,45 @@
 
 ## 💻 科技
 
-> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 3e1985b1-7e5f-48b6-adda-c1b7adce3）
+> （科技类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 7521b1ae-9da4-4894-8e44-52e7a78d2）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Long live the mechanical keyboard
+### 1. Elon Musk intensifies attack on Ambani over Starlink India launch delay
+
+[原文] Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.
+
+📎 [阅读原文](https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/) — *TechCrunch*
+
+### 2. Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead
+
+[原文] Anthropic said it "turned off live internet access" for "all our internal evaluations" until further notice.
+
+📎 [阅读原文](https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/) — *TechCrunch*
+
+### 3. Long live the mechanical keyboard
 
 [原文] Keychron made a name for itself after launching on Kickstarter in 2017. Today, it offers the value K2 model as well as a variety of other versions, including one with an all-wood body.
 
 📎 [阅读原文](https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/) — *TechCrunch*
 
-### 2. The maker of non-text AI model Jev valued at $7.5B just weeks after launch
+### 4. The maker of non-text AI model Jev valued at $7.5B just weeks after launch
 
-[原文] TypeSafe AI raised $870 million in a round led by a16Z.
+[原文] What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.
 
 📎 [阅读原文](https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/) — *TechCrunch*
 
-### 3. An Anthropic AI model sent a false homicide tip to Philadelphia police
+### 5. An Anthropic AI model sent a false homicide tip to Philadelphia police
 
 [原文] Anthropic did not discover this behavior until over two months after its AI submitted the false tip.
 
 📎 [阅读原文](https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/) — *TechCrunch*
 
-### 4. Batteries are now cheaper than natural gas turbines used at many data centers
-
-[原文] Batteries are now cheaper than natural gas turbines as the data center boom pushes prices up.
-
-📎 [阅读原文](https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/) — *TechCrunch*
-
-### 5. TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing your first 1,000 customers
-
-[原文] Leaders from Gamma, Engine, and Google Ventures join TechCrunch Disrupt 2026 to talk how to get your first customers. Register now to save up to $100. Grab a second pass at 50% off.
-
-📎 [阅读原文](https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/) — *TechCrunch*
-
 ---
 
 ## 🔬 科学
 
-> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: a64d3901-1133-4a8e-8898-0811ea952）
+> （科学类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: f1e53097-e4e0-4d87-93dd-03c0b2c2d）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -164,7 +164,7 @@
 
 ## ⚽ 体育
 
-> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 7e023bdb-08f2-4094-b50d-d610fbd93）
+> （体育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 00e8eeec-8f4d-4927-b0e9-0ba00e351）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -186,61 +186,61 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cjkgey07lq15o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Verstappen on sprint pole after another settings issue
+### 4. Man City whistleblower to remain in witness protection
+
+[原文] The computer hacker who released documents which helped trigger the Premier League investigation into Manchester City will remain under witness protection after authorities in Portugal suspend the dec
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cq4g1xerk398o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 5. Verstappen on sprint pole after another settings issue
 
 [原文] Red Bull's Max Verstappen beats Mercedes driver George Russell to sprint pole at the Singapore Grand Prix.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/ck62y7jz1qqro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. I've got my own questions on Man City case - Carrick
-
-[原文] Manchester United boss Michael Carrick says he was personally affected by the Manchester City case which has seen the club found guilty of breaching Premier League financial rules and still has questi
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ck5ynv45lymdo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
 ---
 
 ## 🎬 娱乐
 
-> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 9af5cb4f-437e-47b7-9d30-fe7a1b1d0）
+> （娱乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: f2e4a1ca-7a64-4781-aabf-562010e8c）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. ‘Amanda the Adventurer’ Video Game Movie Adaptation in the Works From Blumhouse, MatPat and Epic Pictures
+### 1. Vietnamese Horror ‘Arithmadtic’ Leads Bee Entertainment’s Busan Market Slate, With New Film From ‘The Corpse’ Director
 
-[原文] A movie adaptation of DreadXP&#8217;s indie video game &#8220;Amanda the Adventurer&#8221; is in the works at Blumhouse. The project will be spearheaded by Matthew &#8220;MatPat&#8221; Patrick, the fo
+[原文] Psychological horror “Arithmadtic,” set in an elite international school, leads a genre-heavy slate that Vietnam’s Bee Entertainment is presenting to buyers at Busan’s Asian Contents &#38; Film Market
 
-📎 [阅读原文](https://variety.com/2026/film/news/amanda-the-adventurer-video-game-movie-blumhouse-1236907135/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/markets-festivals/vietnamese-horror-arithmadtic-bee-entertainment-busan-market-slate-1236907315/) — *Variety*
 
-### 2. Karlovy Vary Title ‘The Ink-Stained Hand and a Missing Thumb’ Lands at Diversion for World Sales (EXCLUSIVE)
+### 2. Cambodian Remake of Korean Mother-Daughter Drama ‘Wedding Dress’ Leads Abnormal Studios’ Busan Market Slate (EXCLUSIVE)
 
-[原文] World sales rights to Yashasvi Juyal’s debut feature “The Ink-Stained Hand and a Missing Thumb,” which premiered in Karlovy Vary’s Proxima Competition, have gone to Bangkok-based Diversion. The film’s
+[原文] A Phnom Penh-set reworking of Kwon Hyung-jin’s 2010 South Korean drama “Wedding Dress” is the lead title for Malaysia’s Abnormal Studios at this year’s Asian Contents &#38; Film Market in Busan, where
 
-📎 [阅读原文](https://variety.com/2026/film/markets-festivals/ink-stained-hand-missing-thumb-world-sales-deal-1236906311/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/markets-festivals/cambodian-wedding-dress-remake-abnormal-studios-busan-slate-1236907311/) — *Variety*
 
-### 3. Pakistani Drama ‘Dancers’ Brings a Generation Torn Between Leaving and Staying Home to Busan Asian Project Market
+### 3. ‘Exorcism of God’ Director Alejandro Hidalgo to Helm Malaysian Hungry Ghost Festival Horror ‘The Hungry One’ (EXCLUSIVE)
 
-[原文] The pull between leaving Pakistan and staying rooted there drives “Dancers,” writer-director Eshah Shakeel’s coming-of-age drama about two young people in a Punjab town near Lahore who bond through cl
+[原文] Alejandro Hidalgo, director of “The Exorcism of God,” is set to make “The Hungry One,” a supernatural horror film unfolding over Malaysia’s Hungry Ghost Festival. Kuala Lumpur-based Abnormal Studios i
 
-📎 [阅读原文](https://variety.com/2026/film/markets-festivals/busan-asian-project-market-dancers-pakistan-1236906326/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/markets-festivals/exorcism-of-god-alejandro-hidalgo-malaysia-horror-hungry-one-1236907302/) — *Variety*
 
-### 4. Ava DuVernay on Her Latest Doc ’14th’: ‘We’re in the Midst of Something Very Sinister, Something Very Dangerous’
+### 4. Michael Douglas Tells Bill Maher About Smuggling Marijuana in Suitcases, Slams ‘Nepo Baby’ Label
 
-[原文] With the midterm elections coming up, Ava DuVernay’s latest documentary, “14th,” arrives at a pivotal time for the United States. Unlike the other buzzy films this season, it doesn’t tackle the danger
+[原文] On Friday night, Michael Douglas stopped by “Real Time with Bill Maher” to promote his mammoth memoir “One Helluva Ride,” chronicling the acclaimed actor and producer’s rise through the Hollywood rank
 
-📎 [阅读原文](https://variety.com/2026/film/news/ava-duvernay-14th-netflix-spencer-averick-1236906178/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/michael-douglas-bill-maher-real-time-smuggling-marijuana-nepo-baby-1236907300/) — *Variety*
 
-### 5. Danielle Ponder Meshes Old-School Soul With Future Sounds on the Dazzling ‘Everything Has Changed’: Album Review
+### 5. Edward Zhang, Casper Van Dien, Jeff Fahey Star in China-U.S. WWII Spy Series ‘Operation Doolittle,’ Heading to Busan Market (EXCLUSIVE)
 
-[原文] There have been many innovative R&#38;B albums made over the past decade, but few have meshed futurism and tradition in quite the way that Danielle Ponder does on her second full-length, “Everything H
+[原文] World War II espionage drama “Operation Doolittle,” a China-U.S. co-production starring Edward Zhang, Casper Van Dien and Jeff Fahey, is heading to the Busan International Film Festival&#8217;s Asian 
 
-📎 [阅读原文](https://variety.com/2026/music/reviews/danielle-ponder-everything-has-changed-album-review-1236907098/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/markets-festivals/wwii-spy-series-operation-doolittle-busan-market-1236907242/) — *Variety*
 
 ---
 
 ## 🏥 健康
 
-> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 04126c30-15c2-46d7-92bc-578108dfa）
+> （健康类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: eaee5223-03a6-4f47-abb2-5bdd2218b）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -278,45 +278,45 @@
 
 ## 🎮 游戏
 
-> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 83668368-f06a-494e-bb8f-b10dcf381）
+> （游戏类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 10a17675-17f6-4b7d-b268-1940dc61a）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Street Fighter 2 Bonus Stage Car Is Real and You Can Win It
+### 1. Magic: The Gathering Returns to Marvel with Darkhold Destiny
 
-[原文] The General is teaming up with Capcom to bring the destroyable car from Street Fighter II to life, and you have a chance to win it — along with more than $25,000 in gas money.
+[原文] Magic the Gathering and Marvel have already crossed over a couple of times with Spider-Man and the Marvel Super Heroes set last year. But for its third Marvel set, MTG is getting spooky with Darkhold 
 
-📎 [阅读原文](https://www.ign.com/articles/the-street-fighter-2-bonus-stage-car-is-real-and-you-can-win-it) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/magic-the-gathering-returns-to-marvel-with-darkhold-destiny) — *IGN*
 
-### 2. Marvel Comics Reveals New Captain Marvel Series and Daredevil #700 - NYCC 2026
+### 2. GTA 6 Fan Says Rockstar Sent Them a Poster Just Because They Asked Nicely
 
-[原文] Marvel dropped some big announcements at NYCC, including Daredevil #700 and a brand-new Captain Marvel series from Kamala Khan co-creator G. Willow Wilson.
+[原文] A Grand Theft Auto 6 fan in Brazil said they politely asked the Rockstar Games team to send them a poster – and it looks like they actually followed through.
 
-📎 [阅读原文](https://www.ign.com/articles/marvel-comics-reveals-new-captain-marvel-series-and-daredevil-700-nycc-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/gta-6-fan-says-rockstar-sent-them-a-poster-just-because-they-asked-nicely) — *IGN*
 
-### 3. Save 53% Off Like New Sony WH-1000XM6 Noise Canceling Headphones With Extended 2 Year Warranty
+### 3. Final Fantasy 7 Revelation: I Played a New Slice from the Early Game With a Boss Fight | IGN Preview
 
-[原文] One of the best noise canceling headphones you can get.
+[原文] While our earlier previews described a giant open-world game absolutely chock-full of activities, it was nice to see that the story-intense linear bits are still there, and just as dramatic as they we
 
-📎 [阅读原文](https://www.ign.com/articles/sony-wh-1000xm6-noise-canceling-headphone-deal-october-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/final-fantasy-7-revelation-i-played-a-new-slice-from-the-early-game-with-a-boss-fight-ign-preview) — *IGN*
 
-### 4. Bill Murray Is a Ghostbuster Once Again... in a Car Ad
+### 4. Konami Planning 'Second and Third Waves' of New Silent Hill Games
 
-[原文] Bill Murray has reprised the role of Dr. Peter Venkman in a new advertisement for Rivian electric vehicles that sees the original Ghostbuster respond to a call of Slimer terrorizing a suburban house b
+[原文] Konami is planning "second and third waves" of new Silent Hill games, according to producer Motoi Okamoto.
 
-📎 [阅读原文](https://www.ign.com/articles/bill-murray-is-a-ghostbuster-once-againin-a-car-ad) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/konami-planning-second-and-third-waves-of-new-silent-hill-games) — *IGN*
 
-### 5. Lucasfilm Games Producer Responds After Galactic Racer Character Biddy Blas Goes Viral
+### 5. Blumhouse Partners With MatPat to Make Amanda the Adventurer Movie, Confirms More Indie Horror Game Adaptations Are Coming | NYCC 2026
 
-[原文] If you’ve been on gaming Twitter recently, you’ve probably seen a clip from Star Wars: Galactic Racer making the rounds on your timeline — specifically, a player’s interaction with a character named B
+[原文] Blumhouse Productions has partnered with YouTube star Matthew ‘MatPat’ Patrick to create a series of movies based on viral indie horror games, and Amanda the Adventurer is first on the docket.
 
-📎 [阅读原文](https://www.ign.com/articles/lucasfilm-games-producer-responds-after-galactic-racer-character-biddy-blas-goes-viral) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/blumhouse-partners-with-matpat-to-make-amanda-the-adventurer-movie-confirms-more-indie-horror-game-adaptations-are-coming-nycc-2026) — *IGN*
 
 ---
 
 ## 🚗 汽车
 
-> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 1aecae1e-36b4-4a13-ab1d-175e106e7）
+> （汽车类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 593c12ac-ff19-4daf-be74-c29a3d0ad）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -359,45 +359,45 @@ The post VW Proves It&#8217;s Listening With ID.Tiguan That&#8217;s Big on Butto
 
 ## 🌱 环境
 
-> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 94067f36-bd2b-47d9-86f4-c303c0b22）
+> （环境类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 6cb6cc8a-6732-4289-9944-3f00799ce）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Michigan Spill Prompts Federal Probe of Energy Transfer Pipelines’ Safety
+### 1. Northern California Community Wants Stronger Oversight of Dangerous Refineries Nearby
+
+[原文] MARTINEZ, Calif.—Scores of people tired of living near accident-prone refineries packed an elementary school auditorium to hear what their government officials were doing to protect them. Two local re
+
+📎 [阅读原文](https://insideclimatenews.org/news/09102026/bay-area-community-seeks-stronger-refinery-oversight/) — *Inside Climate News*
+
+### 2. Looking for Oil in Alaska, No Environmental Strings Attached
+
+[原文] Oil companies will no longer be required to conduct environmental reviews before exploring for fossil fuel reservoirs in the Western Arctic, the largest tract of federally managed public land in the U
+
+📎 [阅读原文](https://insideclimatenews.org/news/09102026/bureau-of-land-management-accelerates-arctic-oil-exploration-permit/) — *Inside Climate News*
+
+### 3. Michigan Spill Prompts Federal Probe of Energy Transfer Pipelines’ Safety
 
 [原文] A crude oil pipeline spill last month in the Detroit suburbs has prompted federal authorities to open an investigation into the safety of all 20,000 miles of hazardous liquids pipelines operated by En
 
 📎 [阅读原文](https://insideclimatenews.org/news/09102026/energy-transfer-pipeline-spill-prompts-federal-investigation/) — *Inside Climate News*
 
-### 2. SEC Issues Warning to Investment Firms That Challenged ExxonMobil
+### 4. SEC Issues Warning to Investment Firms That Challenged ExxonMobil
 
 [原文] The U.S. Securities and Exchange Commission issued an unusual warning this week to the country’s largest asset managers and a climate-focused investor group over their roles in a 2021 campaign that re
 
 📎 [阅读原文](https://insideclimatenews.org/news/09102026/sec-warns-investment-firms-that-challenged-exxon/) — *Inside Climate News*
 
-### 3. China’s Blue Mirage
+### 5. China’s Blue Mirage
 
 [原文] This story is part of an investigation conducted by an international team of journalists based at The Outlaw Ocean Project. Read the other stories here. Xinjiang is a land of unforgiving extremes. Acr
 
 📎 [阅读原文](https://insideclimatenews.org/news/09102026/china-fish-farming-mirage/) — *Inside Climate News*
 
-### 4. South Baltimore Residents Grapple With Contradictory Incinerator Decisions
-
-[原文] Around 100 Baltimore residents packed a community hall in the Curtis Bay neighborhood on the evening of Oct. 1. One after another, they implored the Maryland Department of the Environment not to renew
-
-📎 [阅读原文](https://insideclimatenews.org/news/09102026/baltimore-trash-incinerators-contradictory-decisions/) — *Inside Climate News*
-
-### 5. Wildlife Populations Have Plunged Globally, But Some Buck the Trend
-
-[原文] A new report paints a dark picture of the state of global wildlife—but also highlights flickers of light where some populations are on the upswing.&#160; Over the past half-century, populations of tho
-
-📎 [阅读原文](https://insideclimatenews.org/news/08102026/wildlife-populations-plunge-globally/) — *Inside Climate News*
-
 ---
 
 ## 📚 教育
 
-> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: e8eb6d36-eb28-4666-8fe0-a26f3d5fb）
+> （教育类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: ae8f5752-2b72-4f33-9f8c-ec1be1609）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
@@ -435,77 +435,77 @@ The post VW Proves It&#8217;s Listening With ID.Tiguan That&#8217;s Big on Butto
 
 ## 🎵 音乐
 
-> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: ecf8849e-ec04-47e2-a772-c16ba64c9）
+> （音乐类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 86e0ca80-0592-4e5f-be2d-950a3ce82）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Mastodon Are Releasing Vinyl Containing Actual Mastodon Fossils
+### 1. The Strokes’ Nick Valensi, Aziya, and Mr Hudson Unleash New Song ‘Scream Your Name’
+
+[原文] The track is the latest offering from newly launched record label Sick
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/the-strokes-nick-valensi-aziya-mr-hudson-scream-your-name-1235640707/) — *Rolling Stone*
+
+### 2. Interscope Claims Summer Walker Will Owe $50 Million if She Walks Away From Record Deal
+
+[原文] The label sued Friday after the singer-songwriter said she was terminating her contract under a California labor law
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/summer-walker-record-deal-interscope-lawsuit-1235640766/) — *Rolling Stone*
+
+### 3. Mastodon Are Releasing Vinyl Containing Actual Mastodon Fossils
 
 [原文] Limited to 170 copies, the "Bone Dust" vinyl was pressed in partnership with Waxwork Records and the University of Georgia's geology department
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/mastodon-fossil-vinyl-release-1235640557/) — *Rolling Stone*
 
-### 2. Lola Young, Caroline Polachek, Tinashe Lead Chappell Roan Benefit Shows
+### 4. Lola Young, Caroline Polachek, Tinashe Lead Chappell Roan Benefit Shows
 
 [原文] The two-night LGBTQ+ fundraising event Super Graphic Spectacular, also featuring Muna, takes place at Shrine Auditorium in Los Angeles later this month
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/chappell-roan-super-graphic-spectacular-lineup-block-party-1235640489/) — *Rolling Stone*
 
-### 3. Alanis Morissette Is Dropping a Holiday Album
+### 5. Alanis Morissette Is Dropping a Holiday Album
 
 [原文] Good Weather for Immaculate Conception features two original Christmas songs, plus collaborations with Brandi Carlile, Steve Martin, and more
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/alanis-morissette-holiday-album-announcement-1235640402/) — *Rolling Stone*
 
-### 4. Slayyyter Confronts a Cheater in Self-Directed ‘I Think He’s Got a Girl’ Video
-
-[原文] The new single will appear on Wor$t Man in America, out on Dec. 4
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/slayyyter-i-think-hes-got-a-girl-video-1235640278/) — *Rolling Stone*
-
-### 5. You’re Not Crazy: Instagram Was Indeed Persuading You to Listen to Creed
-
-[原文] "[We] found that this song is being recommended to more people than intended," an Instagram spokesperson said of the issue
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/creed-higher-instagram-recommendation-1235640225/) — *Rolling Stone*
-
 ---
 
 ## ✈️ 旅游
 
-> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 1734a515-1d1f-428e-8831-28b9044b6）
+> （旅游类翻译暂时不可用，以下为英文原文。错误: API 返回 402: {"error":{"message":"Insufficient Balance (request_id: 242e23f4-8573-4763-ab31-db44a9974）
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Delta CEO on 20% Fare Hikes (‘Limited Resistance’) and Starlink (‘No Tit-For-Tat’)
+### 1. India’s Foreign Arrivals Are Falling — but the 2047 Tourism Target Is Now 100 Million
+
+[原文] India has listed out four Ps for hitting 100 million visitors. It lacks a fifth: a published path. With arrivals falling, the hope is there’s a plan behind the promise, before this turns into a pipe d
+
+📎 [阅读原文](https://skift.com/2026/10/10/indias-foreign-arrivals-are-falling-but-the-2047-tourism-target-is-now-100-million/) — *Skift*
+
+### 2. Chicago Hotel Strike Hits Marriott and Hilton Hotels During Marathon Weekend
+
+[原文] Owners, not brands, carry most of the payroll burden. The union's answer is blunt: There is "enough money in this system." But owners see things differently.
+
+📎 [阅读原文](https://skift.com/2026/10/09/chicago-hotel-strike-hits-marriott-and-hilton-hotels-during-marathon-weekend/) — *Skift*
+
+### 3. Delta CEO on 20% Fare Hikes (‘Limited Resistance’) and Starlink (‘No Tit-For-Tat’)
 
 [原文] Delta CEO Ed Bastian said the airline industry will need to find a way to sustain its revenue momentum whenever fuel prices start to recede.
 
 📎 [阅读原文](https://skift.com/2026/10/09/delta-ceo-on-20-percent-fare-hikes-and-starlink/) — *Skift*
 
-### 2. DuVine Cycling’s Case for Experiences You Have to Earn
+### 4. DuVine Cycling’s Case for Experiences You Have to Earn
 
 [原文] You can visit the most beautiful places in the world and still feel nothing. DuVine's bet is that luxury travelers now want a little friction back, and that the effort is what makes it memorable.
 
 📎 [阅读原文](https://skift.com/2026/10/09/duvine-cyclings-case-for-experiences-you-have-to-earn/) — *Skift*
 
-### 3. Delta Air Lines Expects to Absorb $6 Billion Increase in Fuel Costs, Lowers 2026 Profit Outlook
+### 5. Delta Air Lines Expects to Absorb $6 Billion Increase in Fuel Costs, Lowers 2026 Profit Outlook
 
 [原文] Delta still had a profitable third quarter, even as volatile fuel costs are now forcing it to lower its 2026 forecast. The carrier has already accrued $900 million in profit sharing for 2027.
 
 📎 [阅读原文](https://skift.com/2026/10/09/delta-air-lines-expects-to-absorb-six-billion-in-fuel-costs/) — *Skift*
-
-### 4. Accor’s Gulf Hotel Recovery Is A Tale Of Two Markets
-
-[原文] Leisure demand is carrying Accor’s resorts while city hotels wait for corporate travel to return.
-
-📎 [阅读原文](https://skift.com/2026/10/09/accors-gulf-hotel-recovery-is-a-tale-of-two-markets/) — *Skift*
-
-### 5. Announcing Skift Global Forum East 2026: Can the Gulf’s Momentum Hold?
-
-[原文] A war has turned the Gulf's growth story into an open question. Few leaders have settled how trajectory and traveler trust hold under sustained conflict. Skift Global Forum East puts the people making
-
-📎 [阅读原文](https://skift.com/2026/10/09/announcing-skift-global-forum-east-2026/) — *Skift*
 
 ---
 
