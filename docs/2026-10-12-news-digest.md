@@ -1,58 +1,58 @@
 # 📰 全球新闻日报
 
-**2026年10月12日** | 生成时间: 2026-10-12 13:09
+**2026年10月12日** | 生成时间: 2026-10-12 22:51
 
 ---
 
 ## 📋 今日摘要
 
-特朗普提出的俄乌能源停火方案获乌克兰欢迎但俄罗斯未予回应，其计划从俄罗斯进口柴油又遭美国两党反对，令美俄关系与乌克兰局势更趋复杂；与此同时，胡塞武装袭击沙特机场、朝鲜发射弹道导弹等事件持续加剧全球地缘紧张。经济层面，能源停火消息拖累油价下跌，而中国创纪录的黄金进口被视为推动去美元化的重要信号。科技与冲突交织，乌克兰无人机摧毁Yandex AI数据中心，直接冲击科技基础设施。环境方面，全球野生动物种群自1970年以来平均下降73%的报告，凸显生物多样性危机的严峻性。
+胡塞武装袭击沙特机场致13人死亡，沙特誓言严肃回应，中东紧张局势升级；特朗普宣布俄乌同意“能源停火”但缺乏细节，美国计划从俄罗斯进口柴油引发两党批评和乌克兰谴责。微软市值突破4万亿美元，彰显AI战略成效；世卫组织总干事访问约旦加强合作，而美国通知退出世卫组织对全球卫生安全构成重大影响。阿尔卡拉斯在上海大师赛爆冷出局，兹维列夫锁定年终世界第一；Steam同时在线用户突破4300万创历史新高。卢拉任期保护至少2万平方公里亚马逊雨林，但南极海冰冬季峰值创第三低，气候变化持续加剧。
 
 ---
 
 ## 🌍 国际政治
 
-> 今日国际政治要闻中，特朗普的能源停火提议获乌克兰欢迎但俄罗斯沉默，同时其从俄罗斯进口柴油的计划遭美国两党强烈反对，凸显美俄关系与乌克兰危机的复杂性。此外，胡塞武装连续袭击沙特机场、波兰拘留涉嫌暗杀总理图斯克的嫌疑人，以及朝鲜发射弹道导弹等事件，均加剧了全球地缘政治紧张局势。
+> 今日最重要的国际政治新闻包括：胡塞武装袭击沙特机场造成13人死亡，沙特誓言严肃回应，地区紧张升级；特朗普宣布俄乌同意‘能源停火’但缺乏细节，同时美国从俄罗斯进口柴油的计划引发两党批评和乌克兰议员谴责‘背叛’。这些事件凸显中东和东欧地缘政治风险加剧。
 
-### 1. 特朗普能源停火提议获泽连斯基欢迎，俄方沉默
+### 1. BBC发现阿布拉莫维奇财富逃税文件造假
 
-乌克兰总统泽连斯基表示，若莫斯科同意，他将支持特朗普宣布的能源停火提议。俄罗斯方面尚未回应。
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 2. 特朗普从俄进口柴油计划遭两党强烈反对
-
-共和党和民主党议员均批评该协议，该协议在美国中期选举前数周宣布。
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 3. 胡塞武装两天内第二次袭击利雅得机场，致1死11伤
-
-沙特首都周末遭伊朗支持的也门组织多次袭击，最新一次导致1人死亡、11人受伤。
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. 文件造假以逃避阿布拉莫维奇财富税
-
-BBC发现，倒签文件使俄罗斯寡头的游艇和豪宅从账目中消失，以逃避税收。
+调查发现，俄罗斯寡头阿布拉莫维奇的游艇和豪宅通过倒签文件从账户中消失，以逃避税收。
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. 波兰拘留涉嫌策划暗杀总理图斯克男子
+### 2. 沙特部长誓言对胡塞袭击机场作出严肃回应
 
-警方收到关于可能袭击图斯克及其国防部长的可靠信息，已拘留一名嫌疑人。
+胡塞武装袭击利雅得国际机场及另一设施，造成13人死亡，沙特部长誓言作出严肃回应。
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 6. RFK Jr支持的争议疫苗试验在几内亚比绍获批
+### 3. 特朗普因计划从俄罗斯进口柴油面临反弹
 
-丹麦研究人员获准推进一项争议试验，将不向数千名非洲新生儿提供推荐剂量的乙肝疫苗。该试验是美国卫生部长小罗伯特·F·肯尼迪疫苗愿景的核心部分。
+共和党和民主党议员均批评该协议，该协议在中期选举前几周宣布。
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. 南非副警察总监因性犯罪指控辞职
+
+沙德拉克·西比亚否认猥亵16岁少女和强奸18岁少女的指控，现已辞职。
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c8wy9d940pyko?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. 美国拘留涉嫌委内瑞拉数十亿美元洗钱案男子
+
+美国官员曾悬赏1000万美元征集导致阿尔瓦罗·普利多被捕的信息。
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/crp3gy0x0dd1o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 6. RFK Jr推崇的争议疫苗试验在几内亚比绍获批
+
+丹麦研究人员获准推进一项争议性试验，将不向数千名非洲新生儿提供推荐剂量的乙肝疫苗，该试验是罗伯特·F·肯尼迪 Jr疫苗愿景的核心部分。
 
 📎 [阅读原文](https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr) — *The Guardian*
 
-### 7. 国际法院法官纳维·皮莱因促进国际法获诺贝尔和平奖
+### 7. 国际法院法官纳维·皮莱获诺贝尔和平奖
 
-挪威诺贝尔委员会表彰南非前联合国人权 chief 纳维·皮莱，她曾主持联合国委员会得出结论以色列在加沙犯下种族灭绝罪。皮莱现任国际法院法官。
+挪威诺贝尔委员会表彰南非前联合国人权 chief纳维·皮莱，她曾主持联合国委员会得出结论以色列在加沙犯有种族灭绝罪。
 
 📎 [阅读原文](https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize) — *The Guardian*
 
@@ -64,619 +64,619 @@ BBC发现，倒签文件使俄罗斯寡头的游艇和豪宅从账目中消失�
 
 ### 9. 埃及记者计划周末抗议六名同事被拘留
 
-Matsadaash员工被控为穆斯林兄弟会工作，遭拘留并据称受到酷刑和逼供。埃及记者计划本周末在开罗举行抗议。
+Matsadaash员工被控为穆斯林兄弟会工作，遭拘留并据称遭受酷刑和逼供，记者们计划在开罗抗议。
 
 📎 [阅读原文](https://www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions) — *The Guardian*
 
-### 10. 科学家在塞舌尔一岛屿发现18万只巨龟
+### 10. 科学家在塞舌尔一岛发现18万只巨龟
 
-调查发现，曾经濒危的阿尔达布拉巨龟种群在塞舌尔阿尔达布拉环礁繁盛，数量远超塞舌尔人口。
+调查显示，曾经濒危的阿尔达布拉巨龟种群在塞舌尔的阿尔达布拉环礁繁盛，数量远超塞舌尔人口。
 
 📎 [阅读原文](https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles) — *The Guardian*
 
-### 11. 内塔尼亚胡要求调查获奖加沙电影《NAZA》的消息来源
+### 11. 伊朗-沙特就也门胡塞武装会谈：德黑兰有何利益？
 
-纪录片引用24名匿名以色列消息人士，指控军方使用AI系统在加沙杀害巴勒斯坦人。内塔尼亚胡要求调查消息来源。
+德黑兰寻求在也门冲突中对话，警告军事解决方案可能使动荡的地区局势复杂化。
 
-📎 [阅读原文](https://www.aljazeera.com/news/2026/10/12/netanyahu-demands-probe-into-sources-for-award-winning-gaza-film-naza?traffic_source=rss) — *Al Jazeera*
+📎 [阅读原文](https://www.aljazeera.com/news/2026/10/12/iran-saudi-talks-on-yemens-houthis-whats-in-it-for-tehran?traffic_source=rss) — *Al Jazeera*
 
-### 12. 埃塞俄比亚军队进入提格雷靠近厄立特里亚边境的阿迪格拉特
+### 12. 伊朗瞄准霍尔木兹海峡的‘美阿联酋’石油穿梭
 
-在叛军撤离后，埃塞俄比亚政府军进入提格雷北部的阿迪格拉特。
+伊斯兰革命卫队正在打击更多涉嫌参与将原油运出霍尔木兹海峡的穿梭行动的船只。
 
-📎 [阅读原文](https://www.aljazeera.com/video/newsfeed/2026/10/12/11-10-reported-ethiopia-hamza-mohammad-report-abiy-ahmed-ep?traffic_source=rss) — *Al Jazeera*
+📎 [阅读原文](https://www.aljazeera.com/economy/2026/10/12/iran-sets-crosshairs-on-us-uae-oil-shuttle-out-of-strait-of-hormuz?traffic_source=rss) — *Al Jazeera*
 
-### 13. 朝鲜向海上发射多枚弹道导弹
+### 13. 胡塞武装为何袭击沙特机场？
 
-首尔称，最新导弹发射似乎是自韩国高超音速导弹试射以来的武力展示。
+这些袭击是十多年来对沙特领土最致命的袭击。
 
-📎 [阅读原文](https://www.aljazeera.com/news/2026/10/12/north-korea-fires-multiple-ballistic-missiles-towards-the-sea?traffic_source=rss) — *Al Jazeera*
+📎 [阅读原文](https://www.aljazeera.com/news/2026/10/12/why-are-the-houthis-striking-saudi-airports?traffic_source=rss) — *Al Jazeera*
 
-### 14. 从吉布提驶往也门的移民船倾覆，至少139人死亡
+### 14. 齐祖·伯格斯在上海惊呆阿尔卡拉斯，兹维列夫锁定年终第一
 
-一艘移民船倾覆，造成至少139名移民死亡，包括15名儿童，另有84人失踪。
+阿尔卡拉斯伤愈复出卫冕日本公开赛后，在这场混乱的比赛中从未找到节奏。
 
-📎 [阅读原文](https://www.aljazeera.com/video/newsfeed/2026/10/12/at-least-139-dead-as-migrant-boat-from-djibouti-to-yemen-capsizes?traffic_source=rss) — *Al Jazeera*
+📎 [阅读原文](https://www.aljazeera.com/sports/2026/10/12/zizou-bergs-stuns-alcaraz-in-shanghai-as-zverev-claims-year-end-top-ranking?traffic_source=rss) — *Al Jazeera*
 
-### 15. 沙特称利雅得机场最新袭击致1死11伤
+### 15. 以色列学者兼半岛电视台撰稿人奥里·戈德堡去世，享年50岁
 
-周日对哈立德国王国际机场的袭击造成一名巴基斯坦国民死亡。
+戈德堡是半岛电视台的定期撰稿人，家人称他长期与结肠癌斗争后去世。
 
-📎 [阅读原文](https://www.aljazeera.com/news/2026/10/12/saudi-arabia-says-1-dead-11-injured-in-latest-attack-on-riyadh-airport?traffic_source=rss) — *Al Jazeera*
+📎 [阅读原文](https://www.aljazeera.com/news/2026/10/12/israeli-academic-and-al-jazeera-contributor-ori-goldberg-dies-at-50?traffic_source=rss) — *Al Jazeera*
 
-### 16. 海员工会官员称船员被提供高额报酬通过霍尔木兹海峡
+### 16. 司法部对电视网络展开反垄断调查，特朗普称乌克兰需要新领导人
 
-随着通过霍尔木兹海峡的船只遭袭事件不断增加，海员工会官员表示，一些船员被提供高额报酬以完成穿越。
+司法部正在调查多家电视网络可能违反反垄断法，特朗普总统向乌克兰施压要求选举新领导人。
+
+📎 [阅读原文](https://www.npr.org/2026/10/12/g-s1-147772/up-first-newsletter-trump-ukraine-russia-antitrust-investigation-hurricane-isaias-saudi-airport) — *NPR World*
+
+### 17. 特朗普称俄罗斯和乌克兰同意‘能源停火’
+
+特朗普周日表示俄罗斯和乌克兰同意‘能源停火’，但未提供细节，基辅报告称莫斯科在其声明后袭击了能源设施。
+
+📎 [阅读原文](https://www.npr.org/2026/10/12/nx-s1-5998614/trump-russia-ukraine-energy-ceasefire) — *NPR World*
+
+### 18. 海员工会官员称船员被提供大笔资金通过霍尔木兹海峡
+
+随着通过霍尔木兹海峡的船只袭击不断增加，海员工会官员表示一些船员被提供巨额奖励以完成穿越。
 
 📎 [阅读原文](https://www.npr.org/2026/10/11/nx-s1-5995186/seafarers-union-official-says-crews-offered-big-money-to-transit-strait-of-hormuz) — *NPR World*
 
-### 17. 新播客讲述女子监狱中暴力和性虐待的悲惨经历
+### 19. 新播客讲述女子监狱暴力和性虐待的悲惨经历
 
-KQED和Snap Studios的新播客《We Are Jane Doe》调查加州乔奇拉中央加州女子监狱中猖獗的性虐待。
+Madi Bolanos和Anna Sussman的新播客《We Are Jane Doe》由KQED和Snap Studios制作，调查加州Chowchilla中央加州女子监狱猖獗的性虐待。
 
 📎 [阅读原文](https://www.npr.org/2026/10/11/nx-s1-5994363/harrowing-accounts-of-violence-and-sex-abuse-in-womens-prison-told-in-new-podcast) — *NPR World*
 
-### 18. 乌克兰议员称美俄柴油协议是“背叛”
+### 20. 乌克兰议员称美俄柴油协议是‘背叛’
 
 NPR的Joel Rose采访乌克兰议员Oleksandr Merezhko，讨论美国与俄罗斯的柴油协议将如何影响乌克兰。
 
 📎 [阅读原文](https://www.npr.org/2026/10/11/nx-s1-5997466/ukrainian-mp-calls-u-s-russia-diesel-deal-a-betrayal) — *NPR World*
 
-### 19. 教皇利奥十四世本周将接受肺部手术
-
-教皇利奥十四世表示，医生在其肺部发现“局部结节”后，他将接受手术。
-
-📎 [阅读原文](https://www.npr.org/2026/10/11/nx-s1-5998027/pope-leo-xiv-to-undergo-lung-surgery-this-week) — *NPR World*
-
-### 20. 她曾是全球明星：少女骑行700英里载受伤父亲，如今何在？
-
-她骑着价值20美元的亮粉色自行车载着受伤父亲，史诗般的骑行成为头条新闻。承诺的财务帮助、自行车职业培训甚至电影交易是否兑现？
-
-📎 [阅读原文](https://www.npr.org/2026/10/11/g-s1-147267/bicycle-teenager-india-pandemic) — *NPR World*
-
 ---
 
 ## 💰 经济财经
 
-> 今日最重要的经济新闻包括：特朗普宣布俄乌能源停火导致油价下跌，以及中国创纪录黄金进口推动去美元化。这两大事件可能影响全球能源市场和货币体系，值得密切关注。
+> 今日经济财经领域最重要的新闻包括：微软市值突破4万亿美元，显示其AI战略和自研芯片取得成效；同时，FAA警告美国航空公司沙特上空安全风险，地缘政治紧张可能影响全球航空和能源市场。此外，美国冬季取暖成本预计上涨8.3%，加剧家庭财务压力。
 
-### 1. 特朗普宣布俄乌能源停火后油价下跌
+### 1. FAA警告美航司沙特上空安全风险
 
-特朗普宣布俄罗斯与乌克兰达成能源停火协议后，油价应声下跌。乌克兰总统泽连斯基表示支持停火，并强调俄罗斯也应支持。
+美国联邦航空管理局警告美国航空公司，沙特阿拉伯机场遭袭导致航班中断，达美航空正考虑10月23日开通航线。
 
-📎 [阅读原文](https://www.cnbc.com/2026/10/12/oil-prics-today-iran-us-saudi-arabia-crude-.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/12/faa-saudi-arabia-flight-risks.html) — *CNBC*
 
-### 2. 法官命令特朗普政府立即停止纳税人资助的电视广告
+### 2. 泽连斯基指责俄违反特朗普能源停火协议
 
-法官命令特朗普政府立即停止使用纳税人资金投放的电视广告。这些广告被批评为政府宣传，旨在影响中期选举结果。
+泽连斯基周一上午表示，如果俄罗斯不同意特朗普提出的能源停火协议，乌克兰将作出回应。
 
-📎 [阅读原文](https://www.cnbc.com/2026/10/11/trump-ads-dhs-judge-order.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/12/russia-ukraine-energy-ceasefire-trump.html) — *CNBC*
 
-### 3. TikTok CEO预计AI将在三年内取得重大科学突破
+### 3. 星巴克否认收购Chipotle
 
-TikTok首席执行官周受资预测，人工智能将在三年内带来重大科学突破。但他警告，随着自主系统广泛应用，AI能力增强需要更强大的保障措施。
+星巴克发言人向CNBC表示：“星巴克不会收购Chipotle。”此前市场出现收购猜测。
 
-📎 [阅读原文](https://www.cnbc.com/2026/10/12/tiktok-ceo-bytedance-ai-scientific-breakthroughs.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/12/starbucks-denies-chipotle-takeover.html) — *CNBC*
 
-### 4. 特朗普称将考虑加入沙特打击伊朗支持的胡塞武装
+### 4. 司法部确认搜查众议员奥马尔住所
 
-在致命机场袭击后，特朗普表示将考虑加入沙特阿拉伯打击伊朗支持的胡塞武装。分析人士指出，美国军事介入将分散已用于对抗伊朗的中东资源。
+美国司法部确认在联邦调查中搜查了明尼苏达州民主党众议员伊尔汗·奥马尔的住所。奥马尔是索马里出生的穆斯林，此前曾遭特朗普总统批评。
 
-📎 [阅读原文](https://www.cnbc.com/2026/10/11/trump-saudi-arabia-iran-houthis.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/12/ilhan-omar-home-raided-dhs-immigration-investigation.html) — *CNBC*
 
-### 5. 中国为何进口创纪录黄金及其对价格的影响
+### 5. 微软将更多依赖自研AI芯片，减少对英伟达依赖
 
-中国推动去美元化以及家庭寻求安全储蓄，推动了中国创纪录的黄金购买。这一趋势对全球黄金价格产生影响。
+微软将越来越多地使用自研芯片，以扩大利润率并增强其AI技术栈。
 
-📎 [阅读原文](https://www.cnbc.com/2026/10/12/china-gold-buying-interest-rate-.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/12/microsoft-will-mainly-use-its-maia-chips-for-ai-inference.html) — *CNBC*
 
-### 6. “我没有孩子”：阿姨给我5万美元首付，现在要我留房给她的两个孩子
+### 6. 微软市值突破4万亿美元里程碑
 
-一位读者称，阿姨给了5万美元用于购房首付，现在阿姨希望读者将房子留给她的两个孩子。房子总价38.5万美元，读者用储蓄、阿姨的5万美元和少量贷款完成了交易。
+微软周一盘中重新夺回4万亿美元市值，并有望创下新纪录，巩固其复兴势头。
+
+📎 [阅读原文](https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories) — *MarketWatch*
+
+### 7. 冬季取暖成本预计同比上涨8.3%
+
+美国冬季取暖成本预计比去年上涨8.3%，公用事业账单日益成为美国人钱包的沉重负担。厄尔尼诺现象可能有助于缓解。
+
+📎 [阅读原文](https://www.marketwatch.com/story/winter-is-coming-and-energy-bills-are-climbing-everything-just-keeps-going-up-983cfd2d?mod=mw_rss_topstories) — *MarketWatch*
+
+### 8. 牛市四周年，但收益率或成隐患
+
+美国牛市迎来四周年，科技股一直是推动力，但债券收益率上升可能威胁市场涨势。
+
+📎 [阅读原文](https://www.marketwatch.com/story/the-bull-market-is-turning-4-years-old-but-yields-could-crash-the-party-1305fe6c?mod=mw_rss_topstories) — *MarketWatch*
+
+### 9. 理财顾问建议投资35万美元于阿联酋数据中心，风险几何？
+
+一位60多岁退休人士咨询，理财顾问建议其向阿联酋数据中心投资35万美元，询问该投资是否风险过高。
+
+📎 [阅读原文](https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories) — *MarketWatch*
+
+### 10. 阿姨资助5万美元首付，现要求将房屋留给她两个孩子
+
+一位无子女人士称，阿姨曾资助5万美元首付购房，现在阿姨希望他将房屋留给她两个孩子。房屋总价38.5万美元。
 
 📎 [阅读原文](https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories) — *MarketWatch*
 
-### 7. “我感觉像个失败者”：我的股票组合剧烈波动，该担心了吗？
+### 11. 谷歌推出180美元Fitbit Edge，扩展可穿戴设备
 
-一位投资者表示其ETF一天上涨次日暴跌，询问这是否是坏信号。他推测这些是 sophisticated investors 在获利了结。
+谷歌推出售价180美元的Fitbit Edge，以推动数字健康业务，扩展其可穿戴设备产品线。
 
-📎 [阅读原文](https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories) — *MarketWatch*
+📎 [阅读原文](https://www.investing.com/news/stock-market-news/google-expands-wearables-lineup-with-180-fitbit-edge-to-boost-digital-health-push-4944816) — *Investing.com*
 
-### 8. 姐夫说服父母签房产和积蓄买300万 compound，我该干预吗？
+### 12. ICICI保诚2027财年Q2：AUM强劲增长，保持市场领先
 
-一位读者称，姐夫说服父母签署房产和毕生积蓄购买价值300万美元的 compound，两处房产将仅归姐夫名下。读者询问是否应该干预。
+ICICI保诚发布2027财年第二季度报告，显示在资产管理规模强劲增长的同时保持了市场领先地位。
 
-📎 [阅读原文](https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories) — *MarketWatch*
+📎 [阅读原文](https://www.investing.com/news/company-news/icici-prudential-q2-fy27-slides-market-leadership-maintained-amid-strong-aum-growth-93CH-4944815) — *Investing.com*
 
-### 9. 68岁寡妇给成年子女钱，会危及退休吗？
+### 13. BigBearai股价创52周新低，报2.34美元
 
-一位68岁寡妇拥有31万美元IRA和4.6万美元储蓄，房子已还清。她给两个成年子女钱，询问是否在危及退休。
+BigBearai Holdings Inc股价跌至52周低点2.34美元。
 
-📎 [阅读原文](https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories) — *MarketWatch*
+📎 [阅读原文](https://www.investing.com/news/company-news/bigbearai-holdings-inc-stock-hits-52week-low-at-234-usd-93CH-4944814) — *Investing.com*
 
-### 10. 数百万美国人在联邦医疗保险开放注册期选择减少
+### 14. SanDisk、美光等周一市值股票波动
 
-2027年将有181个县没有联邦医疗保险优势计划，高于2026年的67个。数百万美国人在开放注册期面临更少选择。
+周一，SanDisk和美光等股票在市值波动中表现突出。
 
-📎 [阅读原文](https://www.marketwatch.com/story/millions-of-americans-will-have-fewer-options-during-medicare-open-enrollment-this-year-6b56698b?mod=mw_rss_topstories) — *MarketWatch*
+📎 [阅读原文](https://www.investing.com/news/stock-market-news/sandisk-micron-among-market-cap-stock-movers-on-monday-93CH-4944813) — *Investing.com*
 
-### 11. SK海力士在头肩顶破位后测试1,633,000韩元支撑
+### 15. Shopify股价今日为何上涨？
 
-SK海力士股价在头肩顶形态破位后，正在测试1,633,000韩元的支撑位。
+Shopify股价今日上涨，具体原因待分析。
 
-📎 [阅读原文](https://www.investing.com/news/stock-market-news/sk-hynix-oversold-near-support-after-15-slide-live-levels-93CH-4942961) — *Investing.com*
-
-### 12. 日经225指数在突破前窄幅盘整
-
-日经225指数在突破前于窄幅区间内盘整，目前处于一目均衡云层中。
-
-📎 [阅读原文](https://www.investing.com/news/stock-market-news/nikkei-225-coiled-in-ichimoku-cloud-live-levels-93CH-4942960) — *Investing.com*
-
-### 13. 三星、SK海力士股价下跌，中国CXMT在内存开发上取得进展
-
-中国内存制造商CXMT在内存开发上取得进展，导致三星和SK海力士股价下跌。
-
-📎 [阅读原文](https://www.investing.com/news/stock-market-news/samsung-sk-hynix-shares-drop-as-chinas-cxmt-flags-progress-in-memory-development-4943096) — *Investing.com*
-
-### 14. 美元在中东冲突和美国通胀数据前持稳于18个月高位附近
-
-美元汇率在中东冲突和美国通胀数据公布前，持稳于18个月高位附近。
-
-📎 [阅读原文](https://www.investing.com/news/economy-news/dollar-stays-near-18month-high-as-mideast-conflict-inflation-data-in-focus-4942999) — *Investing.com*
-
-### 15. Royalty Pharma执行副总裁Marshall Urist出售235,594美元股票
-
-Royalty Pharma执行副总裁Marshall Urist出售了价值235,594美元的股票。
-
-📎 [阅读原文](https://www.investing.com/news/insider-trading-news/royalty-pharma-evp-marshall-urist-sells-235594-in-shares-93CH-4943082) — *Investing.com*
+📎 [阅读原文](https://www.investing.com/news/stock-market-news/why-is-shopify-stock-rallying-today-93CH-4944811) — *Investing.com*
 
 ---
 
 ## 💻 科技
 
-> 今日科技新闻中，乌克兰无人机摧毁Yandex AI数据中心，凸显地缘冲突对科技基础设施的直接影响；NASA公开超800GB Artemis II数据，为月球探索提供宝贵资源。此外，TechCrunch Disrupt 2026即将开幕，聚焦AI时代创业，值得关注。
+> 今日科技新闻中，亚马逊的机器人军备竞赛及其对人类工作的影响最为重要，揭示了自动化对就业的潜在冲击。同时，联邦探员使用假手机基站追踪记者的事件引发对监控权力和新闻自由的担忧。
 
-### 1. 创始人指南：TechCrunch Disrupt 2026全知道
+### 1. 智能戒指制造商Ultrahuman将在阿联酋推出生物年龄模型
 
-TechCrunch Disrupt 2026将于10月13日在旧金山举行，主题聚焦AI时代如何打造持久公司，议程和演讲嘉宾阵容已公布。
+Ultrahuman与阿布扎比合作，未来两年将开展该生物年龄模型的研究和临床验证。
+
+📎 [阅读原文](https://techcrunch.com/2026/10/12/smart-ring-maker-ultrahuman-to-roll-out-biological-age-model-across-uae/) — *TechCrunch*
+
+### 2. TechCrunch Disrupt 2026明日开幕：最后机会节省100美元门票
+
+TechCrunch Disrupt 2026将于明日太平洋时间上午8点在旧金山Moscone West开幕，预计超过1万名创始人、投资者和科技从业者参加。今天是节省高达100美元门票费用的最后24小时，第二张票可享50%折扣。
+
+📎 [阅读原文](https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/) — *TechCrunch*
+
+### 3. 前Plaud高管为后台监听AI应用融资2600万美元
+
+Ambi公司推出iPhone、Mac和Apple Watch应用，可实现环境声音捕捉，已获得2600万美元融资。
+
+📎 [阅读原文](https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/) — *TechCrunch*
+
+### 4. 创始人指南：TechCrunch Disrupt 2026全知道
+
+TechCrunch Disrupt 2026围绕“如何在AI时代建立持久公司”这一核心问题展开，活动议程和演讲嘉宾阵容均体现这一主题。
 
 📎 [阅读原文](https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/) — *TechCrunch*
 
-### 2. HomeView能否成为苹果智能家居首胜？
+### 5. HomeView会成为苹果智能家居的首个成功产品吗？
 
-传闻苹果正在开发名为HomeView的新智能家居产品，并已有发布日期，可能成为其在该领域的首次成功。
+过去几年多次报道称苹果正在研发新的智能家居产品，现在该产品似乎有了名称和发布日期。
 
 📎 [阅读原文](https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/) — *TechCrunch*
 
-### 3. 阿伦·索金《社会清算》开局不利
+### 6. Android是Googlebooks最好和最坏的部分
 
-阿伦·索金的新片《社会清算》票房或口碑表现不佳，这给秋季一系列以邪恶科技CEO为主角的电影带来不确定性。
+作者使用新款Android笔记本电脑的第一周体验颇为坎坷，但逐渐学会喜欢它们，尽管还谈不上热爱。每一个令人印象深刻的时刻都归功于Android，无论是访问实用应用的原生版本还是快速查看通知。
 
-📎 [阅读原文](https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/) — *TechCrunch*
+📎 [阅读原文](https://www.theverge.com/tech/1008750/googlebooks-android-best-worst-notifications-app-cast-file-sharing) — *The Verge*
 
-### 4. TechCrunch Disrupt 2026倒计时48小时
+### 7. 《无人深空》即将登陆iPhone和iPad
 
-TechCrunch Disrupt 2026将在旧金山Moscone West开幕，最后48小时购票可省100美元，第二张票半价。
+Hello Games宣布其长期运行的科幻探索游戏《无人深空》将推出iOS版本，iPhone和iPad版将于10月28日上线。
 
-📎 [阅读原文](https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/) — *TechCrunch*
+📎 [阅读原文](https://www.theverge.com/entertainment/1009541/no-mans-sky-iphone-ipad-launch-date) — *The Verge*
 
-### 5. 投资者指南：TechCrunch Disrupt 2026全知道
+### 8. 一加16是该公司多年来最有趣的手机
 
-TechCrunch Disrupt 2026将于10月13日举行，投资者可探索展馆、会见创始人并向同行学习，指南提供参会要点。
+一加16今日在中国发布，这是该公司今年夏天退出美国和欧洲市场后的首款旗舰手机。该手机搭载骁龙8 Elite Extreme Gen处理器，主打性能。
 
-📎 [阅读原文](https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/) — *TechCrunch*
+📎 [阅读原文](https://www.theverge.com/tech/1009570/oneplus-16-specs-features-china) — *The Verge*
 
-### 6. 伊利诺伊学院试图取消Flock合同遭拒
+### 9. CMF首款无线音箱看起来像音乐牛奶盒
 
-2025年4月，埃尔金社区学院安装6台Flock安全摄像头，后因担忧数据共享给海关与边境保护局及安全漏洞，试图取消合同但被拒绝。
+CMF Speaker系列是Nothing旗下预算品牌CMF的首款便携蓝牙音箱。CMF正被分拆为印度独立子公司，新产品延续了实惠价格与独特设计。
 
-📎 [阅读原文](https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras) — *The Verge*
+📎 [阅读原文](https://www.theverge.com/tech/1008191/nothing-cmf-speaker-m-s-series-bluetooth-design-customize) — *The Verge*
 
-### 7. 硅谷迎合特朗普将AI改称超级智能
+### 10. Fitbit Edge适合不想完全无屏幕的人
 
-特朗普计划将人工智能重新命名为“超级智能”，尽管公众仍多用AI，但硅谷一些有影响力的人物正试图推动这一改名。
+Fitbit Edge今日正式发布，定位介于最近推出的Fitbit Air和更强大的Google Pixel Watch 5之间。适合有智能手表疲劳但不想放弃通知的用户。
 
-📎 [阅读原文](https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai) — *The Verge*
+📎 [阅读原文](https://www.theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker) — *The Verge*
 
-### 8. 新款Apple TV或内置麦克风遥控器带扬声器
+### 11. 深入亚马逊机器人军备竞赛及其对人类工作未来的意义
 
-传闻新款Apple TV将内置麦克风，升级版遥控器增加扬声器，用户可直接通过Siri控制机顶盒，无需对着遥控器或HomePod说话。
+作为第二大企业雇主，亚马逊大力投资机器人工人以实现规模化。
 
-📎 [阅读原文](https://www.theverge.com/tech/1009397/apple-tv-refresh-built-in-mic-remote-speaker) — *The Verge*
+📎 [阅读原文](https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/) — *Ars Technica*
 
-### 9. NASA在线公开超800GB Artemis II数据
+### 12. 评论：4小时马斯克纪录片感觉像两部不同的电影
 
-NASA在Artemis II科学数据网站发布了超过800GB的科学数据、图像和视频，包括11000多张照片和视频、8.5小时以上音频及宇航员注释。
-
-📎 [阅读原文](https://www.theverge.com/science/1009379/nasa-800gb-artemis-ii-data) — *The Verge*
-
-### 10. 乔治·A·罗梅罗《女巫的季节》影评
-
-乔治·A·罗梅罗在《活死人之夜》和《疯狂》之间执导了鲜为人知的《女巫的季节》，这是一部慢热的女权主义神秘剧。
-
-📎 [阅读原文](https://www.theverge.com/entertainment/1009346/george-a-romero-season-of-the-witch-feminist-horror-review) — *The Verge*
-
-### 11. 评4小时马斯克纪录片：像两部电影
-
-亚历克斯·吉布尼执导的4小时马斯克纪录片引人入胜但过长，对Ars读者而言新意不多。
+亚历克斯·吉布尼的这部挑衅性电影引人入胜但过长，对Ars读者来说新意不多。
 
 📎 [阅读原文](https://arstechnica.com/culture/2026/10/review-4-hour-musk-documentary-feels-like-two-different-films/) — *Ars Technica*
 
-### 12. Prime Video在NYCC发布《银翼杀手2099》预告
+### 13. Prime Video在NYCC发布《银翼杀手2099》完整预告片
 
-Prime Video在纽约动漫展上发布了《银翼杀手2099》完整预告片，同时发布了《哥斯拉-0》的新预告。
+此外，还发布了《哥斯拉-0》的新预告片，这是山崎贵执导的怪兽史诗《哥斯拉-1.0》的续集。
 
 📎 [阅读原文](https://arstechnica.com/culture/2026/10/prime-video-unveils-blade-runner-2099-full-trailer-at-nycc/) — *Ars Technica*
 
-### 13. 迷幻药改变大脑：混乱之下有秩序
+### 14. 与世界合一？迷幻剂改变大脑的新视角
 
-一项新研究让参与者在MRI管内冥想，对比有无裸盖菇素的影响，发现迷幻药作用下大脑看似混乱实则存在秩序。
+参与者在MRI管中冥想，分别在有和没有裸盖菇素的情况下进行。
 
 📎 [阅读原文](https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/) — *Ars Technica*
 
-### 14. 西班牙发现保存在石头中的尼安德特木制工具
+### 15. 西班牙尼安德特人木制工具在石头中保存下来
 
-在西班牙，尼安德特人的木制工具被溶解的岩石沉淀包裹而保存下来，随后木材腐烂，留下石质铸型。
+溶解的岩石在工具周围沉淀，随后工具腐烂。
 
 📎 [阅读原文](https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/) — *Ars Technica*
 
-### 15. 乌克兰无人机摧毁“俄罗斯谷歌”AI数据中心
+### 16. 他们模拟了遮阳地球，结果比你想的更糟
 
-乌克兰无人机袭击了Yandex的AI数据中心，其中受损的数据中心拥有用于训练Yandex AI模型的超级计算机。
+太阳地球工程可能为人类争取应对气候变化的时间，也可能引发危险的新军备竞赛。首次此类模拟揭示了地缘政治主导时的可能后果。
 
-📎 [阅读原文](https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/) — *Ars Technica*
+📎 [阅读原文](https://www.wired.com/story/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/) — *Wired*
 
-### 16. 我用谷歌AI游乐场做了些糟糕游戏
+### 17. 《六十年使命》将《星际迷航》的遗产带给新一代
 
-作者在谷歌AI游戏创作平台度过漫长一天，产出了一堆质量低劣的游戏。
+这部纪录片记录了《星际迷航》在种族、人工智能等议题上的立场如何远超时代。
 
-📎 [阅读原文](https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/) — *Wired*
+📎 [阅读原文](https://www.wired.com/story/new-york-comic-con-star-trek/) — *Wired*
 
-### 17. 2026年旅行者必备的13件最佳礼物
+### 18. 谷歌Fitbit Edge：规格、功能、价格、发布日期
 
-WIRED全球旅行员工推荐13件最佳旅行礼物，帮助旅行者更智能地出行。
+新款179美元的追踪器具有Pixel Watch的智能功能、一周电池续航和OLED屏幕。
 
-📎 [阅读原文](https://www.wired.com/story/best-gifts-for-travelers/) — *Wired*
+📎 [阅读原文](https://www.wired.com/story/googles-fitbit-edge-debuts-a-replaceable-battery-and-brings-back-the-screen/) — *Wired*
 
-### 18. 穆斯林男性圈层如何在网上规训女性
+### 19. 苹果如何将土著语言加入iPhone键盘
 
-从红药丸教练到“达瓦兄弟”，有影响力的网红用宗教语言包装超级男性气质和厌女思想，在社交平台吸引受众。
+为了拯救濒危语言，苹果等科技公司正与土著社区合作，在下一代人打字的地方满足他们。
 
-📎 [阅读原文](https://www.wired.com/story/inside-the-muslim-manosphere-policing-women-online/) — *Wired*
+📎 [阅读原文](https://www.wired.com/story/how-apple-puts-indigenous-languages-on-the-iphone-keyboard/) — *Wired*
 
-### 19. 中期选举将决定数据中心的政治命运
+### 20. 联邦探员获授权使用假手机基站追踪唐·莱蒙的制作人
 
-从参议院到州长竞选，美国各地候选人正竞相在数据中心问题上采取最反对立场，以争取选民。
+调查人员还寻求许可，对记者乔治亚·福特和明尼苏达州参议院候选人使用名为手机站点模拟器的侵入性监控工具。
 
-📎 [阅读原文](https://www.wired.com/story/midterm-races-decide-data-centers-political-fate/) — *Wired*
-
-### 20. 2026年超级厄尔尼诺与气候变化的关系
-
-在创纪录高温的星球上出现创纪录的厄尔尼诺现象，科学家正试图回答最重要的问题，本文介绍已知信息。
-
-📎 [阅读原文](https://www.wired.com/story/super-el-nino-climate-change-connections/) — *Wired*
+📎 [阅读原文](https://www.wired.com/story/feds-got-warrants-to-use-fake-cell-towers-to-hunt-down-don-lemons-producer/) — *Wired*
 
 ---
 
 ## 🔬 科学
 
-> 今日最重要的科学新闻包括：一项临床试验表明调整走路角度可有效缓解膝关节炎疼痛，为无需药物或手术的治疗提供了新途径；以及全球野生动物种群自1970年以来平均下降73%的报告，凸显了生物多样性面临的严峻危机。这些发现对公共健康和环境保护具有重大影响。
+> 今日科学新闻中，最引人注目的是热门减肥药与指甲脱落等意外副作用相关的研究，以及科学家发现Menin蛋白和D-丝氨酸可能逆转衰老和记忆丧失，这两项研究对公共健康和老龄化社会具有重大影响。此外，诺贝尔科学奖的颁发也备受关注。
 
-### 1. 调整走路角度可缓解膝关节炎疼痛
+### 1. 热门减肥药与意外指甲问题相关
 
-一项为期一年的临床试验发现，调整走路时脚的角度可减轻膝关节炎疼痛，效果与药物相当，且无需服药或手术。MRI扫描显示，采用个性化步行技术的参与者膝关节软骨健康指标的退化速度更慢。
+研究发现，Ozempic和Wegovy等GLP-1减肥药与指甲脱落、脱发和头皮炎症的高发生率相关，部分问题在用药者中出现的频率高出数倍。研究人员认为，仅靠体重减轻无法完全解释这些差异，这些被忽视的症状可能另有原因。
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/10/261011211604.htm) — *Science Daily*
+
+### 2. 科学家发现香草醛隐藏的愈合潜力
+
+科学家发现，赋予香草独特风味的化合物香草醛具有强大特性，可帮助抵抗感染、减轻炎症并促进伤口愈合。这种廉价且广泛可得的成分未来可能成为先进伤口治疗和再生医学的重要成分。
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/10/261011211550.htm) — *Science Daily*
+
+### 3. 科学家发现衰老隐藏驱动因素及一种简单氨基酸可对抗小鼠记忆丧失
+
+科学家发现，一种名为Menin的蛋白质水平下降可能推动衰老，在老年小鼠中恢复该蛋白可在30天内逆转多项与年龄相关的变化。更令人惊讶的是，补充一种名为D-丝氨酸的简单氨基酸可改善记忆和学习能力，为年龄相关认知衰退提供了潜在新方法。
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/10/261009025708.htm) — *Science Daily*
+
+### 4. 科学家惊人发现或有助于解释生命为何存在
+
+科学家发现，宇宙的基本物理常数可能被精细平衡以使得生命成为可能。即使对这些常数进行微小改变，也可能使液体过稠或过稀，从而阻碍关键生物过程，可能阻止已知生命的出现。令人惊讶的是，这些有利于生命的条件在活细胞出现前数十亿年就已存在。
+
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/10/261009025602.htm) — *Science Daily*
+
+### 5. 无需药物或手术即可缓解膝关节炎疼痛的惊人简单方法
+
+一项为期一年的临床试验发现，调整行走时脚的角度可将骨关节炎疼痛减轻到与药物相当的程度，且无需药物或手术。更令人鼓舞的是，MRI扫描显示，采用个性化步行技术的参与者膝关节软骨健康标志物的退化速度更慢。
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/10/261009025434.htm) — *Science Daily*
 
-### 2. NASA宇航员太空飞行1亿英里后返回地球
+### 6. 获奖显微图像因使用AI被取消资格
 
-NASA的SpaceX Crew-12宇航员在太空度过237天、飞行超过1亿英里并完成3792次轨道飞行后返回地球，期间开展了为未来月球和火星任务做准备的研究。此次任务还创造了太空行走纪录，并进行了可能改变太空和地球医学的实验。
+《自然》在线发布，2026年10月12日；doi:10.1038/d41586-026-03240-7。该事件引发了关于在科学图像中使用人工智能的讨论。
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/10/261008232629.htm) — *Science Daily*
+📎 [阅读原文](https://www.nature.com/articles/d41586-026-03240-7) — *Nature*
 
-### 3. 曾被认为无害的塑料可能加剧脂肪肝
+### 7. 作者更正：BCR::ABL1驱动的慢性髓性白血病的时机与轨迹
 
-德克萨斯A&M大学的研究人员发现，聚乙烯微塑料可能导致脂肪肝疾病，与不健康饮食结合时影响可能更严重。这种广泛使用的塑料此前被认为相对无害。
+《自然》在线发布，2026年10月12日；doi:10.1038/s41586-026-11253-5。作者更正：BCR::ABL1驱动的慢性髓性白血病的时机与轨迹。
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/10/261008102718.htm) — *Science Daily*
+📎 [阅读原文](https://www.nature.com/articles/s41586-026-11253-5) — *Nature*
 
-### 4. 十月夜空充满宇宙奇观
+### 8. 让医生留在学术界——没有他们，医疗研究将受损
 
-十月的天空充满天体惊喜，包括木星被月球遮挡和两场流星雨。NASA重点介绍了四个必看事件，包括来自哈雷彗星的流星和万圣节前的猎人之月。
+《自然》在线发布，2026年10月12日；doi:10.1038/d41586-026-03225-6。需要更好的职业支持和更稳定的资金来留住这一宝贵的科学家群体。
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/10/261008102704.htm) — *Science Daily*
+📎 [阅读原文](https://www.nature.com/articles/d41586-026-03225-6) — *Nature*
 
-### 5. 科学家建造核钟，可能使原子钟过时
+### 9. 超越溶剂迷雾：观察分子在人群中舞动
 
-维也纳科学家创造了世界上第一台自稳定核钟，这项技术最终可能超越最精确的原子钟。该钟使用钍原子的微小原子核，而非原子中的电子，对外界干扰的敏感度远低。
+《自然》在线发布，2026年10月12日；doi:10.1038/d41586-026-02970-y。一种称为时间分辨X射线液相成像的技术被用于精确揭示经典化学反应涉及的步骤。
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/10/261008102701.htm) — *Science Daily*
+📎 [阅读原文](https://www.nature.com/articles/d41586-026-02970-y) — *Nature*
 
-### 6. 分解神经细胞支架可缓解小鼠慢性疼痛
+### 10. 博士学位薪酬几何？数据显示欧洲各国差距巨大
 
-《自然》在线发表的研究表明，分解神经细胞支架可缓解小鼠慢性疼痛，结果可能帮助研究人员开发比现有治疗更安全有效的止痛药。
+《自然》在线发布，2026年10月12日；doi:10.1038/d41586-026-03181-1。国际联合会Eurodoc的分析显示，收入由奖学金和工资组合而成，各国之间差异很大。
 
-📎 [阅读原文](https://www.nature.com/articles/d41586-026-03159-z) — *Nature*
+📎 [阅读原文](https://www.nature.com/articles/d41586-026-03181-1) — *Nature*
 
-### 7. 简报聊天：顶尖研究人员被虚假学术团体误导
+### 11. 当气候变化带来高温，强大的红杉会怎样？
 
-《自然》工作人员讨论了一个通过欺骗性手段扩充成员的虚假学术组织网络，顶尖研究人员正被这些组织误导。
+在类似热浪的温度下，海岸红杉的光合作用减慢，这可能使地球上最高效的碳储存者之一陷入危险。
 
-📎 [阅读原文](https://www.nature.com/articles/d41586-026-03216-7) — *Nature*
+📎 [阅读原文](https://www.sciencenews.org/article/climate-change-heat-redwood-temperature) — *Science News*
 
-### 8. 黑猩猩和大猩猩的大脑随年龄抵抗萎缩——与人类不同
-
-《自然》发表的研究指出，非人类大型猿类相对较短的寿命可能解释了为何其大脑质量在晚年得以维持，而人类大脑则会随年龄萎缩。
-
-📎 [阅读原文](https://www.nature.com/articles/d41586-026-03158-0) — *Nature*
-
-### 9. 达尔文生平与云的科学：书籍简评
-
-安德鲁·罗宾逊评论了五本最佳科学书籍，涵盖达尔文生平和云的科学等主题。
-
-📎 [阅读原文](https://www.nature.com/articles/d41586-026-03217-6) — *Nature*
-
-### 10. 观看这种隐形纹身在紫外线下显现
-
-《自然》报道了一种可在紫外线下显现的隐形纹身墨水，该墨水可能用于医疗纹身，但需更多测试才能广泛使用。
-
-📎 [阅读原文](https://www.nature.com/articles/d41586-026-03210-z) — *Nature*
-
-### 11. 大峡谷如何丢失10亿年地质历史
+### 12. 大峡谷如何可能失去10亿年的地质历史
 
 一项新研究提出，一个横跨大陆的悬崖的升降可能有助于解释地球地质历史中神秘的10亿年空白。
 
 📎 [阅读原文](https://www.sciencenews.org/article/grand-canyon-lost-history-giant-cliff) — *Science News*
 
-### 12. 一览诺贝尔科学奖
+### 13. 来看看诺贝尔科学奖
 
-今年的诺贝尔科学奖授予了宇宙冰窗、大脑光开关和镜像分子谜题等研究，这些成果获得了最高荣誉。
+一个窥探宇宙的冰窗、一个大脑的光开关以及解决镜像分子之谜都获得了最高奖项。
 
 📎 [阅读原文](https://www.sciencenews.org/article/nobel-2026-physics-chemistry-medicine) — *Science News*
 
-### 13. 基拉韦厄火山展示为何火山像喷泉般喷发
+### 14. 基拉韦厄火山的展示揭示了火山为何像喷泉表演般喷发
 
-科学家使用多种方法研究基拉韦厄火山自2024年底以来反复喷发熔岩喷泉的原因，可能已排除了一种理论。
+科学家正在使用多种方法研究基拉韦厄火山自2024年底以来为何反复喷发熔岩喷泉。他们可能已经排除了一种理论。
 
 📎 [阅读原文](https://www.sciencenews.org/article/kilauea-why-volcanoes-spew-fountains) — *Science News*
 
-### 14. 实验性药物杀死脂肪细胞而非缩小它们
+### 15. 一种实验性药物杀死脂肪细胞而非使其缩小
 
-两项小型试验的参与者减少了内脏周围危险脂肪，这种脂肪与糖尿病和心脏问题等健康问题有关。
+两项小型试验的参与者减少了内脏周围危险脂肪。这种脂肪与糖尿病和心脏问题等健康问题有关。
 
 📎 [阅读原文](https://www.sciencenews.org/article/experimental-drug-kills-fat-cells) — *Science News*
 
-### 15. 基因疗法和特殊眼镜让部分盲人恢复有限视力
+### 16. 供应链专家称不确定性将扰乱第四季度
 
-光遗传学技术（获2026年医学诺贝尔奖认可）使细胞对光产生反应，包括通常向大脑传递信号的眼细胞，从而帮助部分盲人恢复有限视力。
+2026年第四季度Lehigh商业供应链风险管理指数结果显示，整体风险较上一季度的大幅跃升略有下降。运输中断风险仍是评级最高的类别，较第三季度的历史高点有所下降，但仍远高于三年平均水平。
 
-📎 [阅读原文](https://www.sciencenews.org/article/cells-detect-light-blind-vision) — *Science News*
+📎 [阅读原文](https://phys.org/news/2026-10-chain-experts-uncertainty-disrupt-4th.html) — *Phys.org*
 
-### 16. 自1970年以来野生动物种群下降73%——但许多动物仍未被计数
+### 17. “分子防晒霜”或可解释为何DNA使用胸腺嘧啶尽管其易受紫外线损伤
 
-根据WWF新的2026年地球生命力指数，自1970年以来全球野生动物种群平均下降73%。这并不意味着73%的动物消失，而是被监测种群规模的平均下降。
+科学家长期试图理解智能生命的复杂起源。目前尚不清楚生物系统如何在原始地球恶劣气候的极端条件下不仅形成而且存活和持续。现在，德克萨斯A&M大学的研究人员正在使用基于光的技术来揭示新线索，以帮助解决这一进化谜题。
 
-📎 [阅读原文](https://phys.org/news/2026-10-wildlife-populations-declined-world-animals.html) — *Phys.org*
+📎 [阅读原文](https://phys.org/news/2026-10-molecular-sunscreen-dna-thymine-vulnerability.html) — *Phys.org*
 
-### 17. “DNA打字机”记录发育中小鼠胚胎的细胞历史
+### 18. Artemis II初步月球科学报告发布
 
-科学家成功重建了发育中小鼠胚胎的细胞家谱，记录了从受精卵首次分裂到身体和器官形成期间（13.5天）的细胞关系。
+2026年4月1日，Artemis II任务乘组搭乘NASA太空发射系统（SLS）升空。发射约3.5小时后，火箭上级与猎户座飞船（Integrity）分离，宇航员Reid Wiseman、Victor Glover、Christina Koch和Jeremy Hansen开始了近10天的绕月之旅。
 
-📎 [阅读原文](https://phys.org/news/2026-10-dna-typewriter-cells-history-mouse.html) — *Phys.org*
+📎 [阅读原文](https://phys.org/news/2026-10-preliminary-lunar-science-artemis-ii.html) — *Phys.org*
 
-### 18. 量子“胎记”保留系统过去的持久痕迹
+### 19. 研究发现一些家猫携带可感染人类的肠道寄生虫
 
-研究探讨了量子系统中的“胎记”现象，即系统过去的痕迹在长期行为中持续存在，与经典物理系统的遍历性形成对比。
+十二指肠贾第虫是一种微小的鞭毛寄生虫，常寄生于人类和动物肠道。大多数情况下，它与宿主无害共处，大多数受感染的宠物和人没有疾病迹象。然而，当它变得致病时，可引起腹泻、消化问题或体重减轻。
 
-📎 [阅读原文](https://phys.org/news/2026-10-quantum-birthmarks.html) — *Phys.org*
+📎 [阅读原文](https://phys.org/news/2026-10-house-cats-gut-parasite-infect.html) — *Phys.org*
 
-### 19. 新研究显示佛罗里达香蕉河缺氧的影响
+### 20. 疟疾研究发现非典型B细胞在发育过程中转变免疫角色
 
-佛罗里达理工大学的研究发现，低氧水平导致河底埋藏的养分重新释放，助长有害藻华。该研究基于对香蕉河氧气水平最广泛的测试。
+B细胞是免疫系统的重要组成部分，帮助身体识别和对抗感染。近年来，一组称为非典型B细胞的B细胞引起了研究人员的极大兴趣。它们出现在多种感染中，也与疫苗接种和某些炎症性疾病有关。尽管进行了大量研究，但这些细胞如何产生及其功能长期以来仍不清楚。
 
-📎 [阅读原文](https://phys.org/news/2026-10-effects-hypoxia-florida-banana-river.html) — *Phys.org*
-
-### 20. 保护组织对西班牙海洋哺乳动物死亡感到震惊
-
-保护组织谴责一只从法国转移到西班牙海洋公园的海豚死亡，称这加剧了近期从加拿大转移到西班牙的其他海洋哺乳动物的死亡事件。
-
-📎 [阅读原文](https://phys.org/news/2026-10-groups-alarmed-marine-mammals-deaths.html) — *Phys.org*
+📎 [阅读原文](https://phys.org/news/2026-10-atypical-cells-shift-immune-roles.html) — *Phys.org*
 
 ---
 
 ## ⚽ 体育
 
-> 今日体育新闻中，曼城因违反英超财务规则被判有罪后，在安菲尔德3-0战胜利物浦，引发广泛关注，同时安迪·伯纳姆因相关评论面临批评。此外，F1新加坡大奖赛中，汉密尔顿的错误策略使安东内利逼近世界冠军，成为另一焦点。
+> 今日体育新闻中，网球方面，阿尔卡拉斯在上海大师赛第三轮爆冷出局，兹维列夫因此锁定年终世界第一，这一结果对年终排名产生决定性影响。足球方面，阿森纳两名关键球员因卡皮耶和苏维门迪在训练中受伤，可能影响球队后续比赛。
 
-### 1. 曼城声明性胜利在赛季悬而未决中显得无关紧要
+### 1. 阿森纳两将训练中受伤
 
-曼城在利物浦取得一场他们视为声明性的胜利，但在英超赛季悬而未决之际，这场胜利是否具有分量？Phil McNulty提出质疑。
+阿森纳主帅阿尔特塔确认，皮耶罗·因卡皮耶和马丁·苏维门迪在赛后训练中受伤，他表示这“远非理想”。
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cmy0rd4pex7no?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cmq5nzn8ww98o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. 多库闪耀，曼城轻取10人利物浦
+### 2. 英格兰公布合同名单，凯伊支持卡尔斯回归
 
-在被判违反英超财务规则后的首场比赛中，曼城在安菲尔德以3-0轻松战胜利物浦，将完美开局扩大到六场，并以三分优势领跑英超积分榜。
+板球总监罗布·凯伊认为，尽管对布赖登·卡尔斯8月在德比夜店外事件的调查仍在进行，他仍能为英格兰效力。
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/c6vgy2ll1zypo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cwz0v3zy7mpxo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. 未尝胜绩且成‘软柿子’——安菲尔德恐惧因素何去何从？
+### 3. 哈兹尔伍德出击，南非试图阻击澳大利亚
 
-利物浦在安菲尔德的挣扎持续，伊拉奥拉仍在等待他在安菲尔德的首场英超胜利。
+南非与澳大利亚在德班举行的首场测试赛的最新比分卡。
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ck5yn20wej62o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/scorecard/e-236997?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. 汉密尔顿向法拉利道歉，安东内利逼近冠军
+### 4. 兹维列夫锁定年终第一，阿尔卡拉斯失利
 
-刘易斯·汉密尔顿在新加坡大奖赛中错误的策略选择意味着基米·安东内利可以在下一站奥斯汀赢得世界冠军。
+在卡洛斯·阿尔卡拉斯于上海意外失利后，亚历山大·兹维列夫确保以世界第一结束2026赛季。
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/c65yn9kn47eko?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cw3dj8jr8xj2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. 伯纳姆将公布曼城会议细节
+### 5. 热刺可能后悔放走的“凯恩式”前锋
 
-安迪·伯纳姆因在曼城被判违反英超财务规则所有指控后发表的评论而面临批评。
+威尔·兰克希尔的跑位、射门和抢点本能让他迅速在河畔球场走红，却让热刺球场感到惋惜。
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c962y5nd273no?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cq1kdmej1xnvo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 6. NFL战报：49人激烈鏖战险胜海鹰
+### 6. 内部讨论：沙纳汉在49人找到他的胡里奥·琼斯了吗？
 
-NFL战报：49人激烈鏖战险胜海鹰。
+内部讨论：沙纳汉在49人找到他的胡里奥·琼斯了吗？
 
-📎 [阅读原文](https://www.skysports.com/nfl/live-blog/12040/13597960/nfl-2026-results-and-highlights-joe-burrow-and-drake-maye-throw-four-tds-apiece-in-cincinnati-bengals-and-new-england-patriots-wins) — *Sky Sports*
+📎 [阅读原文](https://www.skysports.com/nfl/news/12040/13598217/mike-evans-has-given-kyle-shanahan-and-san-francisco-49ers-their-julio-jones-says-neil-reynolds) — *Sky Sports*
 
-### 7. 拉齐奥意甲高飞，弗赖堡领跑德甲，贝蒂斯西甲第三
+### 7. 布伦德尔评汉密尔顿策略及诺里斯、皮亚斯特里碰撞
 
-拉齐奥意甲高飞，弗赖堡领跑德甲，贝蒂斯西甲第三。
+这是一个充实的F1周末，街道赛程中增加了冲刺赛。在七周五场大奖赛的密集赛程尾声，这对所有参与者都是重大挑战。
 
-📎 [阅读原文](https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more) — *Sky Sports*
+📎 [阅读原文](https://www.skysports.com/f1/news/12040/13598192/singapore-gp-martin-brundles-verdict-on-lewis-hamilton-strategy-call-lando-norris-oscar-piastri-sprint-collision-and-max-verstappen-dominance) — *Sky Sports*
 
-### 8. 马瑟韦尔0-2凯尔特人
+### 8. 汉密尔顿在新加坡“痛苦教训”后发表声明
 
-苏格兰超级联赛马瑟韦尔对阵凯尔特人的比赛集锦。
+刘易斯·汉密尔顿在社交媒体上发帖，重申在新加坡大奖赛经历“痛苦教训”后向法拉利道歉。
 
-📎 [阅读原文](https://www.skysports.com/watch/video/13597820/motherwell-0-2-celtic-scottish-premiership-highlights) — *Sky Sports*
+📎 [阅读原文](https://www.skysports.com/f1/news/12040/13598171/lewis-hamilton-ferrari-driver-releases-statement-on-instagram-after-painful-lesson-at-singapore-gp) — *Sky Sports*
 
-### 9. 克莱顿击败汉弗莱斯赢得瑞士飞镖奖杯
+### 9. 皮特森如何影响英格兰灰烬杯击球手
 
-乔尼·克莱顿在瑞士巴塞尔举行的决赛中以8-4击败卢克·汉弗莱斯，夺得瑞士飞镖奖杯。
+罗布·凯伊表示，凯文·皮特森的英格兰教练工作目前看来仍仅限于白球，但他仍可能影响球队的灰烬杯击球手。
 
-📎 [阅读原文](https://www.skysports.com/darts/news/12040/13597879/swiss-darts-trophy-2026-jonny-clayton-defeats-luke-humphries-to-secure-fourth-euro-tour-title) — *Sky Sports*
+📎 [阅读原文](https://www.skysports.com/cricket/news/12040/13598202/kevin-pietersen-set-to-stay-white-ball-only-mentor-for-england-but-could-still-impact-ashes-batters-says-rob-key) — *Sky Sports*
 
-### 10. 得失之间：安德森与维尔茨性价比迥异
+### 10. 阿尔卡拉斯上海大师赛出局，兹维列夫锁定年终第一
 
-得失之间：安德森与维尔茨性价比迥异。
+卡洛斯·阿尔卡拉斯在上海大师赛第三轮被齐祖·贝尔格斯淘汰，后者取得生涯最大胜利，西班牙人的失利确认亚历山大·兹维列夫为年终世界第一。
 
-📎 [阅读原文](https://www.skysports.com/football/news/12040/13597832/man-citys-elliot-anderson-deemed-a-bargain-while-florian-wirtz-fails-to-offer-return-on-liverpools-huge-investment-premier-league-hits-and-misses) — *Sky Sports*
+📎 [阅读原文](https://www.skysports.com/tennis/news/12040/13598151/carlos-alcaraz-dumped-out-of-shanghai-masters-in-third-round-by-zizou-bergs-as-alexander-zverev-confirmed-as-year-end-world-no-1) — *Sky Sports*
 
-### 11. 2026 MLB季后赛对阵：酿酒人赢国联冠军赛G1，赛程比分
+### 11. CBS体育138：佐治亚大学超越迈阿密、圣母大学登顶
 
-酿酒人赢得国联冠军赛第一场对阵道奇，光芒与守护者将于周一晚展开美联冠军赛。
+在战胜阿拉巴马大学且德克萨斯大学被俄克拉荷马大学爆冷击败后，斗牛犬队升至本周综合FBS排名第一。
 
-📎 [阅读原文](https://www.cbssports.com/mlb/news/2026-mlb-playoff-bracket-schedule-scores-results-how-to-watch/) — *CBS Sports*
+📎 [阅读原文](https://www.cbssports.com/college-football/news/cbs-sports-138-college-football-rankings-georgia-miami-notre-dame/) — *CBS Sports*
 
-### 12. 迈克·埃文斯在49人胜海鹰比赛中点名嘲讽特雷冯·迪格斯
+### 12. 公羊vs比尔SGP：周一夜赛同场串关精选
 
-埃文斯解释说他先问“你是谁？”，然后查看迪格斯的球衣才意识到是谁在对他喷垃圾话。
+SportsLine的机器学习模型AI公布了布法罗对阵洛杉矶的“周一夜赛”同场串关推荐。
 
-📎 [阅读原文](https://www.cbssports.com/nfl/news/49ers-seahawks-mike-evans-trolls-trevon-diggs/) — *CBS Sports*
+📎 [阅读原文](https://www.cbssports.com/betting/news/rams-bills-sgp-monday-night-football-same-game-parlay-picks-bets-props/) — *CBS Sports*
 
-### 13. 第五周过度反应：维京人是超级碗真正竞争者？国东冠军将负多胜少？
+### 13. 国联东区第5周全败创尴尬历史，巨人意外领跑
 
-此外，指挥官是否该解雇丹·奎因？
+国联东区第5周的全败局面是自2002年分区重组以来仅第四次出现。
 
-📎 [阅读原文](https://www.cbssports.com/nfl/news/nfl-week-5-overreactions-vikings-super-bowl-contenders-nfc-east/) — *CBS Sports*
+📎 [阅读原文](https://www.cbssports.com/nfl/news/nfc-east-standings-cowboys-eagles-giants-commanders-week-5/) — *CBS Sports*
 
-### 14. NFL第五周赢家与输家：指挥官搞砸加时，49人掌控国西
+### 14. 使用BetMGM奖金代码CBSSPORTS获1500美元投注
 
-杰登·丹尼尔斯和卡姆·斯卡特博关键时刻未能执行，而49人取得第三场分区胜利。
+使用最新的MGM促销代码CBSSPORTS，若首注失利，可在周一夜赛公羊vs比尔投注中获得1500美元奖金投注。
 
-📎 [阅读原文](https://www.cbssports.com/nfl/news/nfl-week-5-winners-and-losers-commanders-nfc-east/) — *CBS Sports*
+📎 [阅读原文](https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-bills-vs-rams-monday-night-football/) — *CBS Sports*
 
-### 15. NFL第五周各队评分：爱国者、包装工获‘A+’，两队不及格
+### 15. DP世界巡回赛2027年起禁LIV球员参赛
 
-我们为第五周每场比赛给出评分。
+据报告，DP世界巡回赛决定不允许仍参加LIV高尔夫新联赛的球员参加其赛事，从而阻止他们获得莱德杯资格。
 
-📎 [阅读原文](https://www.cbssports.com/nfl/news/nfl-week-5-grades-for-every-team-patriots-packers-bears/) — *CBS Sports*
+📎 [阅读原文](https://www.cbssports.com/golf/news/dp-world-tour-liv-golf-2027-ryder-cup-eligibility/) — *CBS Sports*
 
 ---
 
 ## 🎬 娱乐
 
-> 今日娱乐新闻中，中国和韩国票房竞争激烈，《生化危机》和《吉伊卡哇》分别登顶；哈里·斯泰尔斯在演唱会上向ICE枪击受害者致敬，引发广泛关注；此外，昆汀·塔伦蒂诺的舞台剧确认由萨莎·拜伦·科恩主演，成为戏剧界焦点。
+> 今日娱乐新闻中，布兰妮·斯皮尔斯发布与贾斯汀·汀布莱克共同创作的未发行歌曲，引发关注；BBC模糊跨性别权利T恤事件也引起争议。这两件事分别涉及流行音乐和电视媒体，具有较高话题性。
 
-### 1. Banijay在Mipcom推出意大利烹饪节目《烹饪奶奶》
+### 1. 为凯莉·克拉克森辩护（某种程度上）与1.5万美元唱歌鸟风波
 
-Banijay娱乐公司将在戛纳Mipcom内容展上首播其意大利制作部门Banijay Italia的新黄金时段烹饪竞赛节目《烹饪奶奶》，由Sky Italia的TV8委托制作，奶奶们将进行 uplifting 烹饪比赛。
+凯莉·克拉克森与布鲁克林一家新奇商店的争执似乎未占上风，但此事证明她为公众提供了某种服务，打破了明星过度包装的常态。
 
-📎 [阅读原文](https://variety.com/2026/tv/global/banijay-italian-cooking-show-cooking-grandmas-mipcom-1236908036/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/columns/kelly-clarkson-art-of-play-brooklyn-twitter-1236908964/) — *Variety*
 
-### 2. 《杀手之心》获第二季续订
+### 2. 最佳好莱坞主题万圣节体验：罗斯福酒店之旅、查尔斯·曼森鬼屋等
 
-由Niv Sultan主演的医疗惊悚剧《杀手之心》已获第二季续订，第一季共七集，今年早些时候在以色列平台Hot播出后成为最受欢迎节目之一。
+洛杉矶在十月将影院和历史建筑变成恐怖场景，为影迷和真实犯罪爱好者提供步行游览，探索好莱坞黑暗面。
 
-📎 [阅读原文](https://variety.com/2026/tv/global/heart-of-a-killer-niv-sultan-season-2-1236908419/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/shopping/news/best-hollywood-halloween-experiences-buy-tickets-online-1236909019/) — *Variety*
 
-### 3. 韩国票房：动画《吉伊卡哇》险胜《刺客》登顶周末
+### 3. 意大利庆祝《E.T.》设计师卡洛·兰巴尔迪即将留名好莱坞星光大道
 
-日本动画奇幻片《吉伊卡哇电影版：美人鱼岛的秘》在10月9日至11日的周末以微弱优势击败本土政治惊悚片《刺客》，登上韩国票房榜首。
+意大利庆祝好莱坞星光大道将于10月15日追授特效大师卡洛·兰巴尔迪一颗星，他以设计《E.T.》外星人闻名，曾三获奥斯卡奖，2012年去世，享年86岁。
 
-📎 [阅读原文](https://variety.com/2026/film/box-office/korea-box-office-chiikawa-edges-the-assassins-1236908656/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/italy-e-t-designer-carlo-rambaldi-hollywood-walk-of-fame-1236908923/) — *Variety*
 
-### 4. 中国票房：《生化危机》击败《正义的痕迹》登顶
+### 4. 《迈阿密风云85》首曝：迈克尔·B·乔丹与奥斯汀·巴特勒重启经典，开拍
 
-康斯坦丁影业和索尼的恐怖重启版《生化危机》在10月9日至11日的周末以8120万元人民币（1210万美元）的成绩登顶中国内地票房，击败了《正义的痕迹》。
+迈克尔·B·乔丹和奥斯汀·巴特勒主演的《迈阿密风云85》重启版开拍并发布首张剧照，乔丹饰里卡多·塔布斯，巴特勒饰桑尼·克罗基特，该剧基于1984-1989年原版侦探剧。
 
-📎 [阅读原文](https://variety.com/2026/film/news/china-box-office-resident-evil-top-spot-1236908648/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/miami-vice-85-first-look-michael-b-jordan-austin-butler-filming-1236908988/) — *Variety*
 
-### 5. 约翰·奥利弗自称“很高兴成为Skydance家族一员”并誓言“永不改变”
+### 5. 超自然拿破仑战争游戏《Valor Mortis》如何成为Lyrical Games首作：“无人涉足的设定”
 
-约翰·奥利弗在周日晚的《上周今夜秀》中回归，在讨论仿制药和全国药品短缺之前，抨击了金伯利·吉尔福伊尔的“俗气”丑闻，并在节目最后宣布自己很高兴成为Skydance家族一员。
+Lyrical Games本周推出其首款游戏《Valor Mortis》，这是一款设定在19世纪欧洲超自然重述背景下的类魂游戏，玩家扮演复活的英国士兵威廉·道塞特，使用拿破仑时代武器和毁灭性能力。
 
-📎 [阅读原文](https://variety.com/2026/tv/news/john-oliver-kimberly-guilfoyle-bribery-scandal-last-week-tonight-1236908642/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/gaming/news/valor-mortis-release-supernatural-napoleon-soulslike-game-lyrical-1236908408/) — *Variety*
 
-### 6. 凯莉·克拉克森与布鲁克林商店争执升级：“你也是个骗子”
+### 6. 阿特·加芬克尔因呼吸道感染推迟英国巡演：“医生建议我休息一段时间”
 
-歌手凯莉·克拉克森在争执中升级，称对方“也是个骗子”，并最后表示：“你的商店很酷，可惜你不是。”
+84岁的流行歌手阿特·加芬克尔因诊断出呼吸道感染，推迟了原定于10月13日至19日的四场英国演出。
 
-📎 [阅读原文](https://www.billboard.com/music/music-news/kelly-clarkson-brooklyn-store-pretty-woman-feud-escalates-1236358882/) — *Billboard*
+📎 [阅读原文](https://www.billboard.com/music/pop/art-garfunkel-postpones-uk-tour-respiratory-infection-1236358905/) — *Billboard*
 
-### 7. 约翰·斯塔莫斯称迈克·洛夫“面临严重健康挑战”
+### 7. 胡利翁·阿尔瓦雷斯：为何墨西哥流浪音乐对他来说是“神圣之地” | Billboard新闻采访
 
-约翰·斯塔莫斯在社交媒体上分享了海滩男孩歌手迈克·洛夫的健康状况，乐队在三个月休息后于10月11日周日晚在纳什维尔演出。
+胡利翁·阿尔瓦雷斯回顾近20年职业生涯、Billboard排行榜里程碑，并谈及在哈利斯科两天为近10万人表演的感受，以及为何大型演出仍让他紧张。
 
-📎 [阅读原文](https://www.billboard.com/music/music-news/mike-love-health-update-beach-boys-1236358865/) — *Billboard*
+📎 [阅读原文](https://www.billboard.com/video/julion-alvarez-billboard-news-interview/) — *Billboard*
 
-### 8. 哈里·斯泰尔斯在ICE枪击事件后向奥斯卡·贝尔加尔致敬
+### 8. Sombr在洛杉矶演出获佛利伍麦克传奇助阵合唱《Go Your Own Way》
 
-哈里·斯泰尔斯在麦迪逊广场花园驻唱第21晚暂停演出，向在布朗克斯被ICE枪杀的奥斯卡·贝尔加尔致敬，并告诉纽约观众“互相照顾”。
+21岁歌手Sombr在洛杉矶演出中，77岁的摇滚名人堂成员林赛·白金汉惊喜登场，共同演唱了佛利伍麦克的经典歌曲《Go Your Own Way》。
 
-📎 [阅读原文](https://www.billboard.com/music/pop/harry-styles-oscar-belgal-ice-shooting-msg-concert-nyc-1236358841/) — *Billboard*
+📎 [阅读原文](https://www.billboard.com/music/pop/sombr-joined-fleetwood-mac-buckingham-go-your-own-way-la-show-1236358899/) — *Billboard*
 
-### 9. 粉丝选择特洛伊·希文的《她是最棒的》为本周最爱新音乐
+### 9. 布兰妮·斯皮尔斯发布未发行流行热单《She’ll Never Be Me》，与前男友贾斯汀·汀布莱克共同创作
 
-特洛伊·希文的第四张全长专辑《她是最棒的》在投票中获得56%的支持，成为本周粉丝最爱的新音乐。
+布兰妮·斯皮尔斯发布了一首此前未发行的歌曲《She’ll Never Be Me》，由她与前男友贾斯汀·汀布莱克共同创作，将收录于11月6日发行的《Britney》25周年纪念版中。
 
-📎 [阅读原文](https://www.billboard.com/music/music-news/troye-sivan-shes-the-best-new-music-poll-results-1236358805/) — *Billboard*
+📎 [阅读原文](https://www.billboard.com/music/pop/britney-spears-unreleased-shell-never-be-co-written-timberlake-1236358893/) — *Billboard*
 
-### 10. 艾拉·兰利回应炸弹威胁导致演出取消：“演唱会不值得用生命冒险”
+### 10. Nickelback自2019年以来首次重返澳大利亚
 
-乡村歌手艾拉·兰利在上一场巡演遭遇安全威胁后，在舞台上表示：“我知道昨天很可怕，对我们所有人来说都很可怕。”
+加拿大摇滚乐队Nickelback将于2027年10月与Don Broco一起在澳大利亚进行七场演出，这是他们自2019年以来首次重返澳洲。
 
-📎 [阅读原文](https://www.billboard.com/music/country/ella-langley-concert-bomb-threat-stage-return-1236358808/) — *Billboard*
+📎 [阅读原文](https://www.billboard.com/music/concerts/nickelback-australia-2027-tour-1236358885/) — *Billboard*
 
-### 11. 《Below Deck》的盖尔·卡梅隆在S11戏剧和前男友家庭暴力指控后发声
+### 11. 丹·列维抨击谢恩·吉利斯《SNL》独白：“无言以对，这种东西竟能在全国直播电视上存在”
 
-《Below Deck Mediterranean》的盖尔·卡梅隆在经历艰难的一年后发声，第11季记录了她作为新妈妈在克罗地亚照顾婴儿，而孩子父亲在附近超级游艇上工作，之后两人分手并面临家庭暴力指控。
+丹·列维在Instagram上发布视频，抨击谢恩·吉利斯在《周六夜现场》的独白，称其言论厌女，并表示“无言以对，这种东西竟能在全国直播电视上存在”。
 
-📎 [阅读原文](https://deadline.com/2026/10/below-deck-gael-cameron-domestic-violence-1237154522/) — *Deadline*
+📎 [阅读原文](https://deadline.com/2026/10/dan-levy-slams-shane-gillis-snl-monologue-women-1237154744/) — *Deadline*
 
-### 12. 法官命令特朗普政府停止播放纳税人资助的宣传总统的广告
+### 12. 神秘日本艺术家JYuno加盟德斯特里·阿林·斯皮尔伯格众星云集新片原声
 
-联邦法官命令特朗普政府至少14天内停止播放纳税人资助的广告，这些广告类似竞选信息。美国地区法官詹妮弗·L·罗雄批准了临时限制令，禁止特朗普官员使用拨给国土安全部的资金用于这些广告。
+日本唱片艺术家JYuno将为德斯特里·阿林·斯皮尔伯格执导的犯罪惊悚片《Girl》贡献三首歌曲，该片由杰森·艾萨克斯、索菲亚·怀利、卢克·牛顿和麦迪·齐格勒主演，已杀青。
 
-📎 [阅读原文](https://deadline.com/2026/10/judge-orders-halt-to-trump-ads-1237154527/) — *Deadline*
+📎 [阅读原文](https://deadline.com/2026/10/japanese-artist-jyuno-joins-destry-allyn-spielberg-film-1237154703/) — *Deadline*
 
-### 13. 帕特·麦卡菲加入ESPN超级碗LXI直播报道并扩大MNF角色
+### 13. BBC内容主管向真人秀鄙视者喊话
 
-帕特·麦卡菲将把他的Field Pass节目从大学橄榄球带到NFL，在明年的超级碗LXI期间与帕特·麦卡菲秀一起进行版本播出，这将是三场替代转播之一。
+BBC内容主管凯特·菲利普斯在MIPCOM的BBC Studios“现实检验”会议上为真人秀和非剧本节目辩护，称真人秀是最难做的类型，并呼吁更多提案。
 
-📎 [阅读原文](https://deadline.com/2026/10/pat-mcafee-espn-super-bowl-lxi-mnf-1237154517/) — *Deadline*
+📎 [阅读原文](https://deadline.com/2026/10/bbc-kate-phillips-on-traitors-reality-tv-snobs-top-gear-1237154708/) — *Deadline*
 
-### 14. 五个组织在釜山市场成立亚洲制片人联盟
+### 14. BBC在《舞动奇迹》中模糊《龙之家族》明星的跨性别权利T恤
 
-来自韩国、印度尼西亚、菲律宾、香港和台湾的五个独立制片人组织在釜山亚洲内容与电影市场（ACFM）上成立了亚洲制片人联盟（APA）。
+BBC证实，在《舞动奇迹》中模糊了《龙之家族》女演员贝瑟尼·安东尼娅T恤上的跨性别权利标语，安东尼娅在排练时穿着印有该标语的白色T恤。
 
-📎 [阅读原文](https://deadline.com/2026/10/asian-producers-alliance-busan-acfm-korea-indonesia-1237154518/) — *Deadline*
+📎 [阅读原文](https://deadline.com/2026/10/bbc-blurs-bethany-antonia-trans-shirt-strictly-come-dancing-1237154723/) — *Deadline*
 
-### 15. 萨莎·拜伦·科恩确认主演昆汀·塔伦蒂诺西区舞台剧《The Popinjay Cavalier》
+### 15. 加拿大《Bee My Love》团队完成群像电视电影《Summer’s Camp Romance》 – MIPCOM
 
-昆汀·塔伦蒂诺的舞台剧《The Popinjay Cavalier》制片人确认萨莎·拜伦·科恩将主演，这是塔伦蒂诺的首部舞台剧，将于明年春天在西区首演，2月23日开始预演。
+加拿大Precious Metal Productions和Good Soldier Films完成了电视电影《Summer’s Camp Romance》，并在MIPCOM启动销售，这是继2025年《Bee My Love》后的第二次合作。
 
-📎 [阅读原文](https://deadline.com/2026/10/sacha-baron-cohen-quentin-tarantino-popinjay-cavalier-london-1237073438/) — *Deadline*
+📎 [阅读原文](https://deadline.com/2026/10/movie-summers-camp-romance-mipcom-1237154717/) — *Deadline*
 
-### 16. 手机评论博客
+### 16. cellularphonereviewsblog.wordpress.com
 
-该文章讨论了选择手机服务提供商时应比较套餐以确保最佳覆盖和价格，并列出了一些注意事项。
+在选择手机服务提供商时，应比较套餐以确保获得最佳覆盖和价格，本文列出了需要考虑的事项。
 
 📎 [阅读原文](https://cellularphonereviewsblog.wordpress.com) — *The Hollywood Reporter*
 
@@ -684,41 +684,41 @@ Banijay娱乐公司将在戛纳Mipcom内容展上首播其意大利制作部门B
 
 ## 🏥 健康
 
-> 今日最重要的新闻包括：世卫组织总干事访问约旦，强调在卫生系统、紧急救援和心理健康方面的合作；以及美国通知退出世卫组织，世卫组织表示遗憾并指出这将使美国和世界更不安全。这两件事凸显了全球卫生合作与挑战。
+> 今日最重要的健康新闻包括：世卫组织总干事访问约旦以加强卫生合作，以及美国通知退出世卫组织，这对全球卫生安全构成重大影响。此外，东帝汶被认证为无疟疾国家，展示了公共卫生干预的成功。
 
-### 1. 世卫总干事访问约旦，认可在卫生系统、紧急救援和心理健康方面的合作
+### 1. 世卫总干事访问约旦，认可双方在卫生系统、紧急救援和心理健康方面的合作
 
-世卫组织总干事谭德塞博士对约旦进行为期两天的国事访问，强调双方在全民健康覆盖、心理健康和人道主义卫生行动方面的强有力伙伴关系。
+世界卫生组织总干事谭德塞博士开始对约旦进行为期两天的国事访问，强调世卫组织与约旦在全民健康覆盖、心理健康和人道主义卫生行动等领域的紧密合作。
 
 📎 [阅读原文](https://www.who.int/news/item/25-02-2026-who-director-general-visits-jordan-to-recognize-strong-collaboration-on-health-system-delivery--emergency-relief-and-advancing-mental-health) — *WHO*
 
-### 2. 世卫组织关于美国通知退出世卫组织的声明
+### 2. 世卫组织就美国退出通知发表声明
 
-世卫组织对美国退出通知表示遗憾，称此决定使美国和世界都更不安全。该通知引发的问题将由世卫执行委员会和2026年5月的世界卫生大会审议。
+世卫组织对美国通知退出表示遗憾，称此举使美国和世界都更不安全。该退出通知将提交世卫组织执行委员会和2026年5月世界卫生大会审议。
 
 📎 [阅读原文](https://www.who.int/news/item/24-01-2026-who-statement-on-notification-of-withdrawal-of-the-united-states) — *WHO*
 
 ### 3. 致敬大卫·纳巴罗
 
-世卫组织发文致敬大卫·纳巴罗博士。
+世卫组织发文悼念大卫·纳巴罗博士，表彰其对全球卫生的贡献。
 
 📎 [阅读原文](https://www.who.int/news/item/30-07-2025-paying-tribute-to-david-nabarro) — *WHO*
 
 ### 4. 世卫组织认证东帝汶为无疟疾国家
 
-世卫组织认证东帝汶为无疟疾国家，该国自2002年独立后即优先应对疟疾并开展全国性行动。总干事谭德塞称赞这一里程碑，证明强有力政治承诺可消除疟疾。
+世界卫生组织认证东帝汶为无疟疾国家，这是该国自2002年独立后优先防控疟疾并开展全国性应对的显著成就。总干事谭德塞表示祝贺，并称这证明疟疾可以被遏制。
 
 📎 [阅读原文](https://www.who.int/news/item/24-07-2025-timor-leste-certified-malaria-free-by-who) — *WHO*
 
 ### 5. 非洲联盟与世卫组织续签战略伙伴关系，推动非洲卫生系统强化
 
-世卫组织与非洲联盟委员会在日内瓦第78届世界卫生大会期间签署更新版谅解备忘录，重申共同致力于推进非洲大陆的卫生安全、全民健康覆盖和可持续发展。
+世卫组织与非洲联盟委员会在第78届世界卫生大会期间签署更新版谅解备忘录，重申共同致力于推进非洲大陆的卫生安全、全民健康覆盖和可持续发展。
 
 📎 [阅读原文](https://www.who.int/news/item/24-05-2025-world-health-organization-and-african-union-renew-strategic-partnership-to-drive-impact-and-strengthen-health-systems-in-africa) — *WHO*
 
 ### 6. 调查显示美国人比全球同龄人更信任科学
 
-调查显示，仅40%的美国人对美国医院和诊所非常有信心，这一比例与葡萄牙和乌拉圭相同。
+调查显示，仅40%的美国人对美国医院和诊所表示有很大信心，这一比例与葡萄牙和乌拉圭相同。
 
 📎 [阅读原文](https://www.statnews.com/2026/10/10/u-s-trust-science-higher-than-other-nations-wellcome-survey/?utm_campaign=rss) — *STAT News*
 
@@ -730,409 +730,403 @@ Banijay娱乐公司将在戛纳Mipcom内容展上首播其意大利制作部门B
 
 ### 8. 医院再次起诉，要求停止特朗普政府的340B返款试点
 
-美国医院协会再次起诉特朗普政府，因其计划将联邦药品折扣计划改为事后返款而非事前折扣。
+美国医院协会再次起诉特朗普政府，试图阻止将联邦药品折扣计划改为事后返款而非 upfront 折扣的计划。
 
 📎 [阅读原文](https://www.statnews.com/2026/10/09/hospitals-sue-to-halt-340b-rebate-pilot-trump/?utm_campaign=rss) — *STAT News*
 
-### 9. 分析发现制药公司为医生提供免费午餐导致不当处方增加
+### 9. 分析发现：制药公司给医生的免费午餐助长不当处方
 
-一项新综述发现，制药公司向医生提供的礼物和付款增加了不当处方，可能导致医疗成本上升。
+一项新综述发现，制药公司给医生的礼物和付款增加了不当处方，可能导致医疗成本上升。
 
 📎 [阅读原文](https://www.statnews.com/pharmalot/2026/10/09/pharma-free-lunches-to-doctors-boost-inappropriate-prescribing/?utm_campaign=rss) — *STAT News*
 
 ### 10. Medicare Advantage星级评级引发新奖金和不确定性
 
-联邦政府发布2027年Medicare Advantage保险公司新质量评级，Humana成为最大赢家。
+联邦政府发布了2027年Medicare Advantage保险公司的新质量评级，Humana成为最大赢家。
 
 📎 [阅读原文](https://www.statnews.com/2026/10/09/medicare-advantage-insurers-star-ratings-2027-humana-alignment/?utm_campaign=rss) — *STAT News*
 
-### 11. 非常严重的长期COVID与肺部和口腔微生物组差异有关
+### 11. 耳鸣困扰？更新指南支持个性化、循证方法治疗耳鸣
 
-一项对700多人的研究显示，长期COVID患者口腔和肺部细菌组合存在明显差异，且肺部微生物组差异与呼吸道症状、认知和消化问题相关。
+美国耳鼻咽喉头颈外科学会基金会发布了耳鸣临床实践指南更新。美国有超过5000万人报告经历过耳鸣，部分人因此出现严重焦虑、抑郁、睡眠问题和功能障碍，但患者接受的护理差异很大。
 
-📎 [阅读原文](https://medicalxpress.com/news/2026-10-severe-covid-linked-differences-lung.html) — *Medical Xpress*
+📎 [阅读原文](https://medicalxpress.com/news/2026-10-ears-guideline-personalized-evidence-based.html) — *Medical Xpress*
 
-### 12. LSD微剂量显示女性持续注意力可能提升，男性无变化
+### 12. 退伍军人PTSD、未满足社会需求与认知障碍和痴呆的关联
 
-一项初步研究表明，低剂量LSD可能对女性和男性的持续注意力产生不同影响。研究结果在慕尼黑ECNP年会上公布，初步但增加了人们对迷幻药微剂量反应不同的证据。
+一项多机构研究团队报告，同时患有PTSD和未满足社会需求的退伍军人多年后痴呆或认知障碍的发生率更高。该研究涉及3,817,970名退伍军人，依赖马萨诸塞大学阿默斯特分校信息与计算机科学学院的研究人员处理大量数据。
 
-📎 [阅读原文](https://medicalxpress.com/news/2026-10-lsd-microdosing-potential-sustained-attention.html) — *Medical Xpress*
+📎 [阅读原文](https://medicalxpress.com/news/2026-10-veterans-ptsd-unmet-social-cognitive.html) — *Medical Xpress*
 
-### 13. 研究质疑叶酸补充剂降低自杀风险的效果
+### 13. 关系研究发现帮助痴呆患者也能支持其配偶照顾者
 
-瑞典全国性研究在ECNP年会上提出，叶酸补充剂对自杀风险的影响因性别和年龄而异，对补充剂的益处提出质疑。
+一项关系研究发现，帮助痴呆患者也能为其配偶照顾者提供支持，就像船队航行时旗舰引领其他船只环绕一样，人们生活中也有社会护航圈。
 
-📎 [阅读原文](https://medicalxpress.com/news/2026-10-benefit-folic-acid-vitamin-b9.html) — *Medical Xpress*
+📎 [阅读原文](https://medicalxpress.com/news/2026-10-relationship-dementia-patient-spousal-caregiver.html) — *Medical Xpress*
 
-### 14. 血液蛋白可能为乳糜泻肠道健康提供新线索
+### 14. 认为大麻有助于睡眠？再想想
 
-乳糜泻是一种自身免疫性疾病，免疫系统对麸质产生不良反应，导致肠道炎症、损伤和营养吸收障碍。
+数百万美国人使用大麻产品作为睡眠辅助，但西北医学的一项新研究表明，大麻可能不会像许多人认为的那样改善睡眠。
 
-📎 [阅读原文](https://medicalxpress.com/news/2026-10-blood-proteins-clues-gut-health.html) — *Medical Xpress*
+📎 [阅读原文](https://medicalxpress.com/news/2026-10-cannabis.html) — *Medical Xpress*
 
-### 15. 研究发现积极育儿教会孩子体验快乐，可能带来更好的心理健康
+### 15. 常规血液检查可能提示未来痴呆风险
 
-美国每年超过五分之一成年人经历精神疾病，6-17岁年轻人中超过七分之一患有精神健康障碍，50%的终身精神疾病始于14岁，75%始于24岁。
+在慕尼黑ECNP大会上展示并发表在《阿尔茨海默病杂志》上的研究表明，常规健康检查中常见的血液检查可能包含一个人长期痴呆风险的线索。
 
-📎 [阅读原文](https://medicalxpress.com/news/2026-10-positive-parenting-children-joy-mental.html) — *Medical Xpress*
+📎 [阅读原文](https://medicalxpress.com/news/2026-10-routine-blood-future-dementia.html) — *Medical Xpress*
 
-### 16. “公众不应受这些庸医药物影响”：本周言论
+### 16. 微血管测量为成功取栓后反应不佳提供线索
+
+一项影像学研究表明，微血管血流动力学可能为急性缺血性卒中成功大血管取栓后恢复不佳提供早期标志。毛细血管床灌注不良表现为相对...
+
+📎 [阅读原文](https://www.medpagetoday.com/meetingcoverage/asfnr/123361) — *MedPage Today*
+
+### 17. 教皇将接受手术；美国麻疹病例4080例；超声问题与4例死亡相关
+
+教皇利奥十四世宣布将在“未来几天”接受手术，切除肺部结节，这是其17个月教皇任期内首次重大健康事件。美国麻疹病例达4080例，超声问题与4例死亡相关。
+
+📎 [阅读原文](https://www.medpagetoday.com/surgery/thoracicsurgery/123360) — *MedPage Today*
+
+### 18. “公众不应受这些庸医药物影响”：本周言论
 
 疱疹治愈倡导组织的Jeffrey Klausner博士回应FDA警告亚马逊销售未经批准的疱疹治疗药物时表示：“公众不应受这些庸医药物影响。”
 
 📎 [阅读原文](https://www.medpagetoday.com/opinion/what-we-heard/123348) — *MedPage Today*
 
-### 17. PDE9抑制剂治疗心力衰竭再次回到绘图板
+### 19. 心力衰竭PDE9抑制剂研发重回绘图板
 
-PDE9抑制剂用于心力衰竭的开发遭遇重大障碍，两项II期安慰剂对照试验被怀疑测试了错误剂量。
+PDE9抑制剂用于心力衰竭的开发遭遇重大障碍，两项II期安慰剂对照试验被怀疑测试了错误的剂量。
 
 📎 [阅读原文](https://www.medpagetoday.com/meetingcoverage/hfsa/123357) — *MedPage Today*
 
-### 18. 白内障和青光眼手术后风险与较高血红蛋白A1c水平相关
+### 20. 白内障、青光眼手术后风险与较高血红蛋白A1c水平相关
 
-一项大型回顾性综述显示，术前较高的血红蛋白A1c水平显著增加白内障术后黄斑囊样水肿的风险。
+一项大型回顾性综述显示，术前较高的血红蛋白A1c水平显著增加白内障术后黄斑囊样水肿的风险。CME发生率从...
 
 📎 [阅读原文](https://www.medpagetoday.com/meetingcoverage/aao/123356) — *MedPage Today*
-
-### 19. 视网膜植入物对地图样萎缩显示持久控制证据
-
-一项研究报告称，无线视网膜植入物可持久控制地图样萎缩长达3年，PRIMA系统在36个月时视力平均改善。
-
-📎 [阅读原文](https://www.medpagetoday.com/meetingcoverage/aao/123355) — *MedPage Today*
-
-### 20. 氯胺酮承诺背后的责任
-
-模特Presley Gerber于9月20日去世，年仅27岁，多年公开与毒瘾斗争。朋友称一名医生数月来一直给他开氯胺酮。
-
-📎 [阅读原文](https://www.medpagetoday.com/opinion/second-opinions/123337) — *MedPage Today*
 
 ---
 
 ## 🎮 游戏
 
-> 今日游戏新闻中，欧盟对动视、拳头和育碧采取行动，审查游戏内货币系统，可能对行业 monetization 产生重大影响；《战地6》宣布添加玩家期待已久的服务器浏览器，回应了社区长期诉求。此外，《使命召唤：现代战争4》的DMZ模式抢先体验细节公布，引发玩家关注。
+> 今日游戏新闻中，Steam同时在线用户突破4300万创下新纪录，显示PC游戏平台持续增长；任天堂确认Switch 2不会放弃实体游戏，与索尼策略形成对比，对实体游戏爱好者意义重大。
 
-### 1. 《毁灭战士2016》作曲称愿随时回归系列
+### 1. 《宇宙的巨人希曼：毁灭龙珠》发售日确认
 
-《毁灭战士2016》作曲家米克·戈登表示，他“随时”愿意回归《毁灭战士》系列。
+《宇宙的巨人希曼：毁灭龙珠》确定将于2027年2月4日发售。
 
-📎 [阅读原文](https://www.ign.com/articles/doom-2016-composer-mick-gordon-says-hed-return-to-the-doom-series-in-a-heartbeat) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/he-man-and-the-masters-of-the-universe-dragon-pearl-of-destruction-release-date-confirmed) — *IGN*
 
-### 2. 《阿特米斯奇幻历险》动画剧集获迪士尼批准
+### 2. 安东尼·波登《厨房机密》推出豪华版
 
-《阿特米斯奇幻历险》将以动画剧集形式回归，登陆迪士尼频道和Disney+，原作者约恩·科尔弗担任执行制片人。
+安东尼·波登的经典回忆录《厨房机密》将由Folio Society推出新版本，包含保罗·波普绘制的独家肖像。
 
-📎 [阅读原文](https://www.ign.com/articles/artemis-fowl-animated-tv-show-greenlit-with-eoin-colfer-as-executive-producer) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/anthony-bourdains-kitchen-confidential-gets-deluxe-folio-society-release) — *IGN*
 
-### 3. 《生化危机》成扎克·克雷格最高票房电影
+### 3. 《Valor Mortis》评测
 
-《生化危机》超越《武器》成为扎克·克雷格执导的最高票房电影，而《社会清算》票房惨败。
+一款充满有趣想法的新颖类魂游戏，尽管执行上并非总是流畅。
 
-📎 [阅读原文](https://www.ign.com/articles/resident-evil-overtakes-weapons-as-zach-creggers-highest-grossing-film-the-social-reckoning-bombs) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/valor-mortis-review) — *IGN*
 
-### 4. 今日最佳优惠：《毁灭战士：黑暗时代》等
+### 4. 宝可梦卡牌30周年纪念补充包重新上架，但最佳价格在哪里？
 
-今日最佳游戏优惠包括《毁灭战士：黑暗时代》、《星球大战：零连》、007 4K蓝光等。
+亚马逊近期补货了宝可梦卡牌30周年纪念补充包，但价格已飙升至历史新高。
 
-📎 [阅读原文](https://www.ign.com/articles/best-deals-for-october-11-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/pokemon-tcg-30th-celebration-boosters-are-back-in-stock-at-online-retailers) — *IGN*
 
-### 5. 网易新FPS被指抄袭《战区》，部分COD玩家欢迎
+### 5. 《闹鬼巧克力店》相比《星露谷物语》更偏向动作RPG
 
-网易游戏新FPS《ECC：Redline》被指抄袭《使命召唤：战区》，但部分《使命召唤》玩家表示欢迎，认为它能填补《战区》的不足。
+Eric Barone（ConcernedApe）讨论了他的新作《闹鬼巧克力店》与《星露谷物语》的区别，称前者更偏向动作RPG。
 
-📎 [阅读原文](https://www.ign.com/articles/new-netease-fps-sparks-warzone-rip-off-claims-but-some-call-of-duty-fans-are-happy-to-see-it) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/haunted-chocolatier-more-of-an-action-rpg-compared-to-stardew-valley-concernedape-says) — *IGN*
 
-### 6. GTA 6泄露者发布露西亚裸体跳伞视频以推销加密货币
+### 6. 《Valor Mortis》：Kotaku评测
 
-GTA 6泄露者Cyberleek发布了一段露西亚裸体跳伞的模糊视频，声称如果$Cyberleek币继续上涨，将发布更多露西亚“裸照”。
+令人不安的氛围和原创世界观拯救了一款整体不如零散部分出彩的类魂游戏。
 
-📎 [阅读原文](https://kotaku.com/gta-6-leaker-posts-lucia-skydiving-naked-to-sell-crypto-2000744175) — *Kotaku*
+📎 [阅读原文](https://kotaku.com/valor-mortis-the-kotaku-review-2000744569) — *Kotaku*
 
-### 7. EA制作人宣布《银河飞将3》重制版
+### 7. 与索尼不同，任天堂高管称Switch 2不会放弃实体版
 
-在波特兰复古游戏博览会上，EA制作人宣布将利用新发现的真人过场母带重制《银河飞将3》。
+任天堂高管表示没有计划放弃实体游戏，并称“我们知道粉丝有多喜欢它”，游戏钥匙卡帮助弥合了分歧。
 
-📎 [阅读原文](https://kotaku.com/ea-producer-announces-wing-commander-3-remaster-at-portland-retro-gaming-expo-2000744166) — *Kotaku*
+📎 [阅读原文](https://kotaku.com/unlike-sony-nintendo-exec-says-switch-2-maker-has-no-plans-to-abandon-physical-we-know-how-much-fans-enjoy-it-2000744191) — *Kotaku*
 
-### 8. 《绿箭侠》联合创作者展示未能实现的《绿灯侠》概念图
+### 8. Steam打破玩家记录，10月同时在线用户超4300万
 
-《绿箭侠》联合创作者马克·古根海姆分享了《绿灯侠》的概念艺术图，展示了可能更偏向CW风格的版本。
+Steam在10月同时在线用户突破4300万，游戏中玩家数量也创下新纪录，增加了50万。
 
-📎 [阅读原文](https://kotaku.com/arrow-co-creator-gives-glimpse-at-the-lanterns-that-could-have-been-2000744162) — *Kotaku*
+📎 [阅读原文](https://kotaku.com/steam-valve-concurrent-users-record-in-game-epic-fortnite-roblox-2000744564) — *Kotaku*
 
-### 9. 黑客窃取《泰拉瑞亚》灾厄模组25万用户Discord服务器并用于加密货币骗局
+### 9. 《战争机器：E-Day》遭DDoS攻击，开发者确认
 
-一名臭名昭著的黑客窃取了《泰拉瑞亚》灾厄模组的25万用户Discord服务器，并立即利用其进行加密货币拉高出货骗局。
+开发商The Coalition确认《战争机器：E-Day》周日遭受DDoS攻击，目前情况已得到控制。
 
-📎 [阅读原文](https://kotaku.com/notorious-hacker-steals-250000-user-discord-server-for-infamous-terraria-mod-calamity-immediately-uses-it-to-pump-and-dump-a-crypto-coin-2000744152) — *Kotaku*
+📎 [阅读原文](https://kotaku.com/gears-of-war-e-day-the-coalition-microsoft-ddos-attack-woke-2000744559) — *Kotaku*
 
-### 10. 欧盟对动视、拳头、育碧采取行动，针对游戏最古老的货币化方案
+### 10. 前《游戏开发者》编辑创办Vertical Slice，一个“无畏的”新行业刊物
 
-欧盟正在对动视、拳头游戏和育碧采取行动，审查游戏内货币系统，意大利监管机构带头打击误导性游戏内货币。
+Chris Kerr创办了新的独立行业新闻机构Vertical Slice，面向开发者。
 
-📎 [阅读原文](https://kotaku.com/eu-taking-action-against-activision-riot-ubisoft-on-gamings-oldest-monetization-scheme-2000744153) — *Kotaku*
+📎 [阅读原文](https://kotaku.com/former-editor-of-game-developer-launches-vertical-slice-a-fearless-new-trade-publication-2000743316) — *Kotaku*
 
-### 11. Steam周报：《神奇男孩在怪物大陆》PC版可疑首发
+### 11. Pearl Abyss对《红色沙漠》评测宽容：媒体玩的不是最终版
 
-Steam周报（截至10月11日）聚焦《神奇男孩在怪物大陆》在PC平台的可疑首发情况。
+Pearl Abyss表示媒体评测《红色沙漠》时使用的版本与发售版不同，认为评测者没有公平机会探索。
 
-📎 [阅读原文](https://www.pcgamer.com/gaming-industry/steam-week-in-review-the-curious-case-of-wonder-boy-in-monster-lands-dubious-pc-debut/) — *PC Gamer*
+📎 [阅读原文](https://www.pcgamer.com/games/rpg/pearl-abyss-goes-easy-on-us-critics-for-our-crimson-desert-reviews-they-had-to-play-the-build-that-is-not-the-exact-same-version-of-the-launched-game/) — *PC Gamer*
 
-### 12. 《星球大战：银河赛车》开发者用桌游测试Roguelite进度系统
+### 12. RTX 4090发售四周年，RTX 5090传闻被砍，令人感慨
 
-《星球大战：银河赛车》的开发者将游戏的Roguelite进度系统转化为桌游进行测试，以更好地感受系统。
+RTX 4090于四年前今日发售，如今RTX 5090传闻将被取消，令人感叹时过境迁。
 
-📎 [阅读原文](https://www.pcgamer.com/games/racing/star-wars-galactic-racers-devs-tested-its-roguelite-progression-system-by-turning-it-into-a-board-game/) — *PC Gamer*
+📎 [阅读原文](https://www.pcgamer.com/hardware/graphics-cards/the-rtx-4090-launched-four-years-ago-today-and-now-the-rtx-5090-is-rumoured-for-the-chop-i-cant-help-but-look-upon-it-with-a-warm-glow/) — *PC Gamer*
 
-### 13. 无缝着陆Mod让《星空》更接近《无人深空》
+### 13. 微软总裁：洗衣机比AI受到更多安全规则约束
 
-一个名为“无缝着陆”的Mod旨在让《星空》的着陆过程更加无缝，使其更接近《无人深空》的体验。
+微软总裁表示，洗衣机比AI受到更多安全规则约束，呼吁对AI进行外部监管。
 
-📎 [阅读原文](https://www.pcgamer.com/games/rpg/seamless-landing-mod-looks-set-to-bring-starfield-another-step-closer-to-no-mans-sky/) — *PC Gamer*
+📎 [阅读原文](https://www.pcgamer.com/software/ai/your-washing-machine-is-subject-to-more-safety-rules-than-ai-says-microsoft-president/) — *PC Gamer*
 
-### 14. 2026年金摇杆奖入围名单公布，投票现已开启
+### 14. Steam Frame奇葩模组来袭，Valve免费发布完整CAD文件
 
-2026年金摇杆奖入围名单已公布，包括PC年度游戏等奖项，投票截止至10月23日。
+Valve免费发布了Steam Frame的完整CAD文件，预计将出现各种奇怪而精彩的模组。
 
-📎 [阅读原文](https://www.pcgamer.com/gaming-industry/events-conferences/the-shortlist-for-2026s-golden-joystick-awards-is-out-including-pc-game-of-the-year-and-you-can-vote-now/) — *PC Gamer*
+📎 [阅读原文](https://www.pcgamer.com/hardware/vr-hardware/here-come-the-weird-and-wonderful-mods-for-the-steam-frame-as-valve-drops-the-full-cad-files-for-free/) — *PC Gamer*
 
-### 15. PvP弹球是个好主意，我竟从未玩过
+### 15. 《星球大战：银河赛车》创造完美生物，算法继续优先考虑Biddy Blas先生
 
-PvP弹球游戏《Bumper Bout》现已在Steam推出试玩版，作者表示这是个好主意，自己竟从未玩过。
+《星球大战：银河赛车》中的生物Biddy Blas先生成为亮点，算法持续优先考虑它。
 
-📎 [阅读原文](https://www.pcgamer.com/games/pvp-pinball-is-such-a-good-idea-i-cant-believe-i-havent-played-it-before/) — *PC Gamer*
+📎 [阅读原文](https://www.pcgamer.com/games/racing/the-algorithm-continues-to-properly-prioritise-mister-biddy-blas-star-wars-galactic-racer-has-created-the-perfect-creature/) — *PC Gamer*
 
-### 16. 《漫威黑暗神书命运》成为万智牌2027年首个Universes Beyond系列
+### 16. 《刃牙》范马勇次郎即将把《铁拳8》变成肌肉鉴赏模拟器
 
-在纽约动漫展上，威世智宣布《漫威黑暗神书命运》为万智牌2027年首个Universes Beyond系列，将包含奇异博士、雷神等对抗海拉、多玛姆等宇宙反派。
+万代南梦宫发布《铁拳8》新预告，短暂展示了《刃牙》中的范马勇次郎，但尚未公布其上线日期。
+
+📎 [阅读原文](https://www.gamespot.com/articles/baki-yujiro-hanma-is-about-to-turn-tekken-8-into-a-full-blown-muscle-appreciation-simulator/) — *GameSpot*
+
+### 17. 《42中队》新预告看起来很棒，但2027年发售日难以令人相信
+
+《星际公民》单人模式《42中队》发布新预告，展示演员阵容和星际战争，但2027年发售日令人怀疑。
+
+📎 [阅读原文](https://www.gamespot.com/articles/the-new-squadron-42-trailer-looks-great-but-that-2027-release-date-is-hard-to-believe/) — *GameSpot*
+
+### 18. 《闹鬼巧克力店》是为“《星露谷物语》中下矿的人”准备的
+
+Eric Barone表示《闹鬼巧克力店》更偏向动作RPG，但仍是一款城镇游戏，面向喜欢下矿的玩家。
+
+📎 [阅读原文](https://www.gamespot.com/articles/haunted-chocolatier-is-for-the-people-in-stardew-valley-that-go-into-the-mines/) — *GameSpot*
+
+### 19. 《漫威黑暗神书命运》是万智牌2027年首个宇宙之外系列
+
+威世智在纽约动漫展宣布《漫威黑暗神书命运》为2027年首个宇宙之外系列，包含奇异博士、雷神等对抗海拉和多玛姆。
 
 📎 [阅读原文](https://www.gamespot.com/articles/marvel-darkhold-destiny-is-magic-the-gatherings-first-universes-beyond-set-of-2027/) — *GameSpot*
 
-### 17. 庆幸吧，这款3A扫雷游戏不是真的
+### 20. 让我们庆幸这个3A扫雷游戏不是真的
 
-一款名为“3A扫雷”的恶搞游戏在浏览器上可玩，由Mike Lacher制作，讽刺了现代3A游戏的浮夸风格。
+作家兼程序员Mike Lacher创作了可玩的3A扫雷恶搞游戏，讽刺了现代游戏大作。
 
 📎 [阅读原文](https://www.gamespot.com/articles/lets-all-be-happy-this-aaa-minesweeper-game-isnt-real/) — *GameSpot*
-
-### 18. 《使命召唤：现代战争4》抢先体验包含DMZ模式，获取方法如下
-
-《使命召唤：现代战争4》的DMZ模式将于10月20日提前三天开放，预购任何版本即可参与，战役抢先体验则于10月16日开始。
-
-📎 [阅读原文](https://www.gamespot.com/articles/call-of-duty-mw4-early-access-also-includes-dmz-heres-how-to-get-in/) — *GameSpot*
-
-### 19. 《战争机器：E-Day》销量如何？我们来分析一下
-
-《战争机器：E-Day》本周发售，分析师估计已售出约23万份，其中Steam销量16.8万份，Xbox平台销量因Game Pass等因素影响难以精确统计。
-
-📎 [阅读原文](https://www.gamespot.com/articles/gears-of-war-e-day-hows-it-selling-lets-unpack-things/) — *GameSpot*
-
-### 20. 《战地6》将添加玩家自始期待的功能
-
-《战地6》第五赛季将添加玩家自游戏发布以来一直要求的完整服务器浏览器，此前仅支持Portal模式。
-
-📎 [阅读原文](https://www.gamespot.com/articles/battlefield-6-is-adding-something-fans-have-wanted-since-day-1/) — *GameSpot*
 
 ---
 
 ## 🚗 汽车
 
-> 今日汽车新闻中，最引人注目的是亨利·福特扼杀汽车专利诉讼的历史故事，以及现代涡轮四缸肌肉车与老款V6车型的性能对比。这两篇文章分别从历史和性能角度揭示了汽车工业的重要发展。
+> 今日最重要的新闻是特斯拉在欧洲被迫将全自动驾驶更名为辅助驾驶，这标志着监管压力对自动驾驶营销的影响。此外，本田计划到2030年推出15款以上混合动力车，反映了在电动车项目亏损后战略转向混合动力。
 
-### 1. 用2010款本田Pilot倒车摄像头拍演唱会？居然可行
+### 1. 亚马逊未公开促销：新款DeWalt PowerPack电池享60%折扣
 
-有人用2010款本田Pilot的倒车摄像头拍摄演唱会，尽管画质和分辨率有限，但证明了这一创意用法。
+DeWalt新款PowerPack电池在亚马逊上目前售价低于70美元。
+
+📎 [阅读原文](https://www.thedrive.com/news/get-60-off-the-new-dewalt-powerpack-battery-at-this-undisclosed-amazon-sale) — *The Drive*
+
+### 2. 本田计划到2030年推出15款以上混合动力车
+
+在取消电动车项目导致150亿美元损失后，本田转向混合动力车。
+
+📎 [阅读原文](https://www.thedrive.com/news/honda-plans-to-launch-15-or-more-hybrids-by-2030-tds) — *The Drive*
+
+### 3. 特斯拉在欧洲被迫将全自动驾驶更名为辅助驾驶
+
+特斯拉自2016年以来一直以欺骗性名称营销其免手驾驶功能，现在开始改变，但仅限部分市场。
+
+📎 [阅读原文](https://www.thedrive.com/news/tesla-finally-forced-to-rename-full-self-driving-as-assisted-driving-in-europe) — *The Drive*
+
+### 4. 用2010年本田Pilot倒车摄像头拍摄音乐会？显然可行
+
+有了叠加的停车引导线，谁还需要强大的传感器和良好的分辨率？
 
 📎 [阅读原文](https://www.thedrive.com/news/using-a-2010-honda-pilot-backup-camera-to-film-a-concert-is-possible-apparently) — *The Drive*
 
-### 2. 建造能抵御500年一遇洪水的山区高速公路：大工程的定义
+### 5. 建造能抵御500年一遇洪水的山区高速公路：大工程的定义
 
-一项为期一年的工程正在重建2024年遭飓风海伦摧毁的一段州际公路，旨在使其能抵御500年一遇的洪水。
+一个为期一年的项目正在重建2024年飓风海伦摧毁的一段州际公路。
 
 📎 [阅读原文](https://www.thedrive.com/news/building-a-mountain-highway-to-withstand-a-500-year-flood-is-the-definition-of-a-big-job) — *The Drive*
 
-### 3. 看这辆搞笑的福特Super Duty卡车在正常转弯时翻车
+### 6. 读者希望这些退役赛车手重返赛场
 
-一辆福特Super Duty卡车在正常转弯时翻车，尽管车主认为它很酷，但物理规律无法违背。
+如今大多数车手因缺乏机会而非能力而退役。
 
-📎 [阅读原文](https://www.thedrive.com/news/watch-this-goofy-ford-super-duty-bro-truck-roll-over-in-a-normal-turn) — *The Drive*
+📎 [阅读原文](https://www.jalopnik.com/2282674/retired-drivers-readers-want-to-make-comback/) — *Jalopnik*
 
-### 4. 这个令人毛骨悚然的“呼吸”方向盘：让车与你同行而非替你驾驶
+### 7. 特斯拉因监管压力在欧洲被迫更名‘全自动驾驶’
 
-一种设计用于建立对自动驾驶系统信任的“呼吸”方向盘，但作者表示它目前适得其反。
+此外，大众集团交付量持续下滑，中国与欧盟就进口中国混合动力车达成协议等。
 
-📎 [阅读原文](https://www.thedrive.com/news/this-creepy-breathing-steering-wheel-is-one-way-your-car-could-drive-with-you-instead-of-for-you) — *The Drive*
+📎 [阅读原文](https://www.jalopnik.com/2283710/tesla-forced-rename-full-self-driving-europe/) — *Jalopnik*
 
-### 5. 全地形轮椅即将进入国家公园，让人人皆可畅游
+### 8. 如果你有资金，会创建什么面向青年的汽车项目？
 
-配备气球轮胎的全地形轮椅将让更多人体验西部最壮观景色，即将在国家公园投入使用。
+肯定有办法让孩子们爱上汽车，同时给那些‘天生热情’的司机一个健康的渠道来满足他们对速度的需求。
 
-📎 [阅读原文](https://www.thedrive.com/news/all-terrain-wheelchairs-are-coming-to-national-parks-so-anyone-can-go-anywhere) — *The Drive*
+📎 [阅读原文](https://www.jalopnik.com/2282782/what-youth-focused-car-program-would-you-create/) — *Jalopnik*
 
-### 6. 2021款雪佛兰Tahoe五年贬值多少？
+### 9. 9000美元，这辆1963年福特Falcon敞篷车能带你回到Futura吗？
 
-2021款Tahoe现在对于需要宽敞三排座SUV且维护成本低的人来说是个划算的选择，但也有一些缺点。
+这辆Falcon需要一些收尾工作，比如内饰和更符合氛围的座椅。你会花9000美元买它吗？
 
-📎 [阅读原文](https://www.jalopnik.com/2280005/how-much-2021-chevy-tahoes-have-depreciated-five-years/) — *Jalopnik*
+📎 [阅读原文](https://www.jalopnik.com/2282409/1963-ford-falcon-convertible-for-sale-9000/) — *Jalopnik*
 
-### 7. 亨利·福特扼杀了声称拥有汽车专利的诉讼
+### 10. 这些国家的汽油价格低于每加仑2美元
 
-世界上第一个专利流氓几乎获得了所有汽车的专利权，但亨利·福特先是在赛道上，后来在法庭上击败了他。
+加油太贵？发现哪些国家的汽油价格低于每加仑2美元，并了解它们为何如此低廉。
 
-📎 [阅读原文](https://www.jalopnik.com/2281442/henry-ford-killed-selden-patent-claimed-own-automobile/) — *Jalopnik*
-
-### 8. 现代涡轮四缸肌肉车仍优于老款V6基础车型
-
-在MotorWeek对1993款雪佛兰Camaro V6的测试中，其0-60英里/小时加速需8.8秒，比同年份的日产Altima慢半秒多。
-
-📎 [阅读原文](https://www.jalopnik.com/2282928/motorweek-1993-chevrolet-camaro-v6-base-model-test/) — *Jalopnik*
-
-### 9. 5款常被认为几乎坚不可摧的雷克萨斯车型
-
-从与梅赛德斯-奔驰竞争的豪华轿车到拥有丰田传奇DNA的 rugged SUV，这些雷克萨斯车型以耐用著称。
-
-📎 [阅读原文](https://www.jalopnik.com/2282594/lexus-models-that-are-nearly-indestructible/) — *Jalopnik*
-
-### 10. 史上最强大的7款8缸发动机
-
-从小型四缸、奇特五缸、平顺直六到巨大V16，各有千秋，但V8始终是最佳平衡点。
-
-📎 [阅读原文](https://www.jalopnik.com/2280915/most-powerful-8-cylinder-engines-ever-made/) — *Jalopnik*
+📎 [阅读原文](https://www.jalopnik.com/2282693/countries-where-gas-costs-less-than-2/) — *Jalopnik*
 
 ---
 
 ## 🌱 环境
 
-> 今日环境新闻聚焦于水资源与生态保护的紧迫冲突。希腊安布拉基亚湾因工业化养鱼沦为生态坟场，而加州锂矿开采热潮加剧了干旱地区的水资源争夺，凸显了绿色能源转型背后的环境代价。此外，巴西亚马逊地区卢拉总统任期内保护了至少2万平方公里森林，但牧场主封锁原住民土地划界以及贝洛蒙特水电站的环境争议，表明该地区保护与开发的矛盾依然尖锐。
+> 今日环境新闻重点包括：分析显示卢拉总统任期自2022年以来保护了至少2万平方公里巴西亚马逊雨林，凸显政策对减缓森林砍伐的关键作用；南极海冰冬季峰值创第三低，表明气候变化持续加剧。此外，石油污染漂入海洋保护区和锂矿争夺引发水资源危机也值得关注。
 
-### 1. 希腊国家公园遭养鱼业窒息
+### 1. 饲料用鱼
 
-希腊西部安布拉基亚湾曾滋养地中海邻国两千年，如今却因工业化养鱼沦为生态坟场。调查揭示该地区海滩和水域受到严重污染。
+本期Inside Climate播客探讨水产养殖业，该行业年产值达3000亿美元，Inside Climate News与Outlaw Ocean Project合作调查其影响。
 
-📎 [阅读原文](https://insideclimatenews.org/news/11102026/greece-ambracian-gulf-fish-farming/) — *Inside Climate News*
+📎 [阅读原文](https://insideclimatenews.org/news/12102026/inside-climate-podcast-fish-farming-impacts/) — *Inside Climate News*
 
-### 2. 锂矿争夺战正演变为水资源争夺战
+### 2. 抗旱计划如何将科珀斯克里斯蒂推向灾难边缘
 
-在加州帝国谷，锂矿开采热潮加剧了干旱地区的水资源竞争。投资者涌入该地区，但当地水资源已捉襟见肘。
+八年前，在页岩油繁荣高峰期，一个由行业巨头和公职人员组成的委员会公布了一项大胆计划，旨在使科珀斯克里斯蒂“抗旱”，但该计划如今陷入财务和政治困境。
+
+📎 [阅读原文](https://insideclimatenews.org/news/12102026/corpus-christi-desalination-plant-financial-political-quagmire/) — *Inside Climate News*
+
+### 3. 鱼饲料陷阱
+
+在法国北部一个仓库中，Ynsect公司养殖数百万条面包虫幼虫，作为鱼粉的可持续替代品，但调查发现这一努力并未取得实质进展。
+
+📎 [阅读原文](https://insideclimatenews.org/news/12102026/search-for-fishmeal-sustainable-alternatives-goes-nowhere/) — *Inside Climate News*
+
+### 4. 锂矿争夺战正演变为水资源争夺战
+
+在加州干旱的帝国谷，投资者被锂矿吸引，但当地水资源日益紧张，引发对水资源的争夺。
 
 📎 [阅读原文](https://insideclimatenews.org/news/11102026/lithium-race-becomes-race-for-water-in-arid-west/) — *Inside Climate News*
 
-### 3. 巴哈马度假村之争危及受威胁海螺的育幼场
+### 5. 加州海洋的千载难逢机遇
 
-巴哈马埃克苏马地区海草床是女王海螺的重要育幼场，但 rival resorts 的法律纠纷可能破坏这一关键栖息地。
+加州海洋保护迎来千载难逢的机会。
 
-📎 [阅读原文](https://insideclimatenews.org/news/11102026/bahamas-development-seagrass-conch-legal-battle/) — *Inside Climate News*
+📎 [阅读原文](https://grist.org/sponsored/a-once-in-a-generation-opportunity-for-californias-ocean/) — *Grist*
 
-### 4. 希腊海鲜问题源于别处
+### 6. 新墨西哥州：河流流经‘地狱景观’中央
 
-希腊水产养殖业被宣传为可持续粮食安全的未来，但调查发现其供应链存在全球性环境问题。
-
-📎 [阅读原文](https://insideclimatenews.org/news/10102026/greece-seafood-problem-global-impact/) — *Inside Climate News*
-
-### 5. 佛罗里达历史黑人社区饮用水呈棕色
-
-佛罗里达州惠特德社区81岁居民安·琼斯家的自来水时常呈棕色，该历史黑人社区长期面临饮用水污染问题。
-
-📎 [阅读原文](https://insideclimatenews.org/news/10102026/florida-black-community-contaminated-drinking-water/) — *Inside Climate News*
-
-### 6. 新墨西哥州：河流穿行于“地狱景观”之中
-
-新墨西哥州油气井威胁着一条流经荒凉景观的美丽河流。
+新墨西哥州的油气井威胁着一条流经‘地狱景观’的美丽河流。
 
 📎 [阅读原文](https://grist.org/accountability/new-mexico-oil-and-gas-wells-threaten-beautiful-river-in-the-middle-of-a-hellscape/) — *Grist*
 
-### 7. 五百亿棵树苗：埃塞俄比亚能否重建被毁森林？
+### 7. 五百亿棵树苗：埃塞俄比亚能否重植受损森林？
 
-埃塞俄比亚计划种植五百亿棵树苗以恢复被破坏的森林，但面临诸多挑战。
+埃塞俄比亚计划种植500亿棵树苗，以恢复其受损的森林。
 
 📎 [阅读原文](https://grist.org/solutions/fifty-billion-seedlings-can-ethiopia-replant-its-ravaged-forests/) — *Grist*
 
 ### 8. 路易斯安那风电行业的生存计划：熬过特朗普
 
-路易斯安那州海上风电行业制定生存策略，旨在挺过特朗普政府的政策阻力。
+路易斯安那州海上风电行业计划通过熬过特朗普政府来生存。
 
 📎 [阅读原文](https://grist.org/climate-energy/louisiana-offshore-wind-industry-outlast-trump/) — *Grist*
 
-### 9. “掘金者”招致众多批评，但批评者错了
+### 9. ‘掘墓者’有很多黑粉。他们错了。
 
-文章为“掘金者”辩护，反驳针对该项目的批评声音。
+针对‘掘墓者’的批评众多，但本文认为这些批评是错误的。
 
 📎 [阅读原文](https://grist.org/culture/digger-has-a-lot-of-haters-heres-why-theyre-wrong/) — *Grist*
 
-### 10. 撕裂气候运动的两党能源法案
+### 10. 互动：追踪COP17生物多样性峰会谈判文本
 
-一项两党能源许可改革法案在气候运动中引发分歧，支持者与反对者就清洁能源和化石燃料问题争论不休。
+下周，来自世界各地的外交官将齐聚亚美尼亚埃里温，在COP17生物多样性峰会上谈判一系列决定。
 
-📎 [阅读原文](https://grist.org/politics/permitting-reform-baaja-climate-debate-clean-energy-fossil-fuels/) — *Grist*
+📎 [阅读原文](https://www.carbonbrief.org/interactive-tracking-negotiating-texts-at-the-cop17-biodiversity-summit) — *Carbon Brief*
 
-### 11. 事实核查：英国保守党因表格错误将净零成本翻倍
+### 11. 事实核查：英国保守党因表格错误将‘净零成本’翻倍
 
-英国反对党保守党发布的小册子中，净零成本因电子表格错误被翻倍。
+英国反对党保守党发布的小册子中，‘净零成本’因电子表格错误而被翻倍。
 
 📎 [阅读原文](https://www.carbonbrief.org/factcheck-uk-conservatives-double-the-cost-of-net-zero-after-spreadsheet-blunder) — *Carbon Brief*
 
-### 12. 分析：霍尔木兹危机期间风电和光伏为英国节省59亿英镑天然气进口
+### 12. 分析：霍尔木兹危机期间，风能和太阳能为英国节省59亿英镑天然气进口
 
-自霍尔木兹危机开始以来，英国因风电和光伏发电避免了价值59亿英镑的天然气进口。
+自霍尔木兹危机开始以来，英国因风能和太阳能避免了价值59亿英镑的天然气进口。
 
 📎 [阅读原文](https://www.carbonbrief.org/analysis-wind-and-solar-save-uk-from-gas-imports-worth-5-9bn-during-hormuz-crisis) — *Carbon Brief*
 
-### 13. 分析：卢拉总统任期内为巴西亚马逊保住至少2万平方公里森林
+### 13. 分析：卢拉总统任期自2022年以来保护了至少2万平方公里巴西亚马逊雨林
 
-自2022年以来，卢拉总统任期内至少保护了2万平方公里的巴西亚马逊森林，面积约相当于美国新泽西州。
+自2022年以来，由于卢拉总统的政策，至少2万平方公里的巴西亚马逊雨林得以保留，面积约相当于美国新泽西州。
 
 📎 [阅读原文](https://www.carbonbrief.org/analysis-lula-presidency-saved-at-least-20000km2-of-brazilian-amazon-since-2022) — *Carbon Brief*
 
-### 14. 南极海冰冬季峰值创第三低，低冰情持续引担忧
+### 14. ‘令人担忧’的低海冰持续，南极冬季峰值创第三低
 
-新数据显示，南极海冰冬季峰值创下48年卫星记录以来的第三低水平，低冰情持续引发担忧。
+新数据显示，南极海冰冬季峰值创下卫星记录48年来的第三低，引发担忧。
 
 📎 [阅读原文](https://www.carbonbrief.org/concerning-low-sea-ice-persists-as-antarctic-hits-third-lowest-winter-peak) — *Carbon Brief*
 
-### 15. 互动：中国数十个“五年规划”对气候和能源的表述
+### 15. 原住民领导的努力在克拉约阔特湾重新种植海带森林
 
-中国今年发布的72个五年规划中，近四分之三包含气候变化相关政策或目标。
+在加拿大不列颠哥伦比亚省的克拉约阔特湾，Tla-o-qui-aht原住民、Redd Fish Restoration Society和West Coast Kelp合作重建退化的海带森林。
 
-📎 [阅读原文](https://interactive.carbonbrief.org/china-plan-tracker/index.html) — *Carbon Brief*
+📎 [阅读原文](https://news.mongabay.com/short-article/2026/10/first-nation-led-effort-replants-kelp-forests-in-clayoquot-sound/) — *Mongabay*
 
-### 16. 筑坝欣古河
+### 16. 聆听森林的研究者荣获2026年普利兹克环境天才奖
 
-巴西亚马逊贝洛蒙特水电站运营十年之际面临环境许可证续期争议，大坝截留高达70%的河流流量加剧了水资源短缺。
+热带森林生态学家Zuzana Burivalova利用声音了解全球森林健康，荣获2026年普利兹克新兴环境天才奖。
 
-📎 [阅读原文](https://news.mongabay.com/specials/2026/10/damming-the-xingu/) — *Mongabay*
+📎 [阅读原文](https://news.mongabay.com/short-article/2026/10/researcher-who-listens-to-forests-wins-2026-pritzker-environmental-genius-award/) — *Mongabay*
 
-### 17. 这是南非猎豹，它正陷入困境
+### 17. 报告发现：石油污染正漂入海洋保护区
 
-研究人员在近10万平方公里区域内仅发现83只成年猎豹，这是该地区最全面的猎豹调查。
+新分析发现，2022年至2025年间，来自船只和海上石油作业的浮油反复漂入世界各地的海洋保护区，对鲸鱼、海豚和海龟等重要栖息地构成威胁。
 
-📎 [阅读原文](https://news.mongabay.com/short-article/2026/10/this-is-a-south-african-cheetah-and-its-in-trouble/) — *Mongabay*
+📎 [阅读原文](https://news.mongabay.com/short-article/2026/10/oil-pollution-is-drifting-into-marine-protected-areas-report-finds/) — *Mongabay*
 
-### 18. 这些女性正将达尔文美洲鸵带回智利巴塔哥尼亚
+### 18. 印尼称不再需要森林种稻，在建项目何去何从？
 
-2026年4月，一支女性主导的团队在智利巴塔哥尼亚国家公园将13只达尔文美洲鸵放归野外，她们与Rewilding Chile基金会合作，全天候照料这些鸟类。
+印尼宣布不再需要扩大稻田至森林地区，但尚未解释对巴布亚和加里曼丹已进行的大型粮食和能源项目意味着什么。
 
-📎 [阅读原文](https://news.mongabay.com/video/2026/10/these-women-are-bringing-darwins-rheas-back-to-chilean-patagonia/) — *Mongabay*
+📎 [阅读原文](https://news.mongabay.com/2026/10/indonesia-says-it-no-longer-needs-forests-for-rice-what-happens-to-projects-underway/) — *Mongabay*
 
-### 19. 巴拉圭在联合国截止日期前提交查科生物圈保护区治理改进方案
+### 19. 科伦坡升温，被动冷却提供低能耗解决方案但代价不菲
 
-巴拉圭向联合国提交了查科生物圈保护区的更新信息，该保护区因农业和养牛业砍伐森林而威胁原住民社区生存。
+在斯里兰卡科伦坡，居民因高温难以开窗，被动冷却虽节能但成本较高。
 
-📎 [阅读原文](https://news.mongabay.com/short-article/2026/10/paraguay-meets-un-deadline-for-improving-governance-in-chaco-biosphere-reserve/) — *Mongabay*
-
-### 20. 巴西牧场主阻止政府官员划界原住民土地
-
-自9月23日起，巴西帕拉州农村生产者封锁通往帕基萨姆巴原住民土地的道路，阻止政府官员进行实地划界。
-
-📎 [阅读原文](https://news.mongabay.com/short-article/2026/10/brazilian-ranchers-block-government-officials-from-demarcating-indigenous-land/) — *Mongabay*
+📎 [阅读原文](https://news.mongabay.com/2026/10/as-colombo-heats-up-passive-cooling-offers-a-low-energy-solution-but-at-a-cost/) — *Mongabay*
 
 ---
 
 ## 📚 教育
 
-> 今日教育新闻中，最引人关注的是关于AI在教育中应用的讨论，包括对课堂AI的抵制可能影响学生早期读写干预，以及学校领导者需要了解AI真实性与信任的问题。此外，阿肯色州20年研究发现学区合并并未节省纳税人资金，这一发现对教育政策制定具有重要影响。
+> 今日教育新闻中，最引人关注的是美国人对大学教育的信任度降至历史新低，但入学数据仍显示增长，以及阿肯色州20年研究揭示学区合并并未节省纳税人资金。这两则新闻反映了高等教育和K-12教育政策中的信任与效率问题，对家庭和政策制定者具有重要影响。
 
 ### 1. 为何众多教师在十月崩溃？
 
-在本期节目中，作者迈克·安德森探讨了教师如何应对“十月忧郁”。
+在本期节目中，作者迈克·安德森讨论了教师如何应对“十月忧郁”。
 
 📎 [阅读原文](https://edsurge.com/news/why-do-so-many-teachers-crash-in-october) — *EdSurge*
 
@@ -1148,15 +1142,15 @@ PvP弹球游戏《Bumper Bout》现已在Steam推出试玩版，作者表示这�
 
 📎 [阅读原文](https://edsurge.com/news/how-some-small-rural-districts-are-winning-the-attendance-struggle) — *EdSurge*
 
-### 4. 孩子们会为AI恐慌付出代价吗？
+### 4. 孩子会为AI恐慌付出代价吗？
 
-对课堂AI的抵制正在公立学校蔓延。但新墨西哥州的例子表明，全面禁令可能剥夺学生早期读写干预的机会。
+对课堂AI的抵制正在公立学校蔓延。但新墨西哥州的例子表明，全面禁令可能剥夺学生早期识字干预的机会。
 
 📎 [阅读原文](https://edsurge.com/news/will-kids-pay-the-price-for-ai-panic) — *EdSurge*
 
 ### 5. 学校能信任教育科技产品中的AI功能吗？
 
-在本期EdSurge本周节目中，两位前教育工作者讨论了EdReport最近的简报，并解释了为何验证AI功能如此重要。
+在本期EdSurge本周节目中，两位前教育工作者讨论了EdReport最近的简报，并解释了为何验证如此重要。
 
 📎 [阅读原文](https://edsurge.com/news/can-schools-trust-ai-features-in-edtech-products) — *EdSurge*
 
@@ -1174,13 +1168,13 @@ PvP弹球游戏《Bumper Bout》现已在Steam推出试玩版，作者表示这�
 
 ### 8. Claude Sonnet 5.5提供模型切换网络安全保障
 
-Anthropic最新发布的Claude Sonnet 5.5带来了网络安全保障功能，可在Claude对话中切换处理请求的模型。高风险任务可回退到Sonnet 5。
+Anthropic最新发布的Claude Sonnet 5.5带来了网络安全保障，可在Claude对话中切换处理请求的模型。高风险任务可回退到Sonnet 5。
 
 📎 [阅读原文](https://campustechnology.com/articles/2026/10/08/claude-sonnet-5-5-offers-model-switching-cybersecurity-safeguards.aspx) — *Campus Technology*
 
 ### 9. 调查揭示代理AI工具的数据治理执行差距
 
-根据新报告，身份安全公司Delinea调查的IT和安全领导者中，99.7%表示其组织有正式政策规定AI工具和代理可访问的数据，但仅约51%表示AI访问会实时对照这些政策进行检查。
+根据新报告，身份安全公司Delinea调查的99.7%的IT和安全领导者表示其组织有正式政策规定AI工具和代理可访问的数据，但只有约51%表示AI访问会实时对照这些政策进行检查。
 
 📎 [阅读原文](https://campustechnology.com/articles/2026/10/07/survey-reveals-data-governance-enforcement-gap-for-agentic-ai-tools.aspx) — *Campus Technology*
 
@@ -1190,317 +1184,317 @@ OpenAI宣布推出Dots，由GPT-6 Astra驱动的代理，运行在自己的云�
 
 📎 [阅读原文](https://campustechnology.com/articles/2026/10/07/openai-introduces-dots-ai-agents-that-continue-working-between-user-conversations.aspx) — *Campus Technology*
 
-### 11. 学生之声：我拒绝了梦想大学，选择了更实惠的州立学校。这仍然让我心痛
+### 11. 美国人对大学可能已失望，但数据显示他们仍在入学
 
-作者爱上了波士顿郊外的塔夫茨大学，但担心经济援助。在决定截止日，作者选择了更实惠的州立学校，至今仍感到痛苦。
+盖洛普8月民调显示，仅31%的美国人认为大学教育“非常重要”，创历史新低，较2013年的70%大幅下降。但数据表明入学人数仍在增加。
+
+📎 [阅读原文](https://hechingerreport.org/proof-points-college-enrollment/) — *Hechinger Report*
+
+### 12. 学生之声：我为更实惠的州立学校拒绝了梦想大学，至今仍感伤痛
+
+一名学生因经济援助问题，最终选择了一所更实惠的州立学校，而非梦想中的塔夫茨大学，尽管决定已做出，但内心仍感到痛苦。
 
 📎 [阅读原文](https://hechingerreport.org/student-voice-i-turned-down-my-dream-college-for-a-far-more-affordable-state-school-it-still-hurts/) — *Hechinger Report*
 
-### 12. 合并学区本应节省纳税人资金，但阿肯色州20年研究发现并未如愿
+### 13. 合并学区本应节省纳税人资金，但阿肯色州20年研究显示并未实现
 
-2004年，阿肯色州州长迈克·赫卡比签署法律关闭学生少于350人的小型学区。随后十年，85个学区合并，导致105所学校关闭，其中大多数是高中。研究发现这并未节省纳税人资金。
+2004年阿肯色州法律关闭了学生少于350人的小型学区，十年内85个学区合并，105所学校关闭，但20年研究发现并未节省纳税人资金。
 
 📎 [阅读原文](https://hechingerreport.org/proof-points-district-consolidation/) — *Hechinger Report*
 
-### 13. 观点：高等教育存在信任问题，家庭要求透明和坦诚是正确的
+### 14. 观点：高等教育存在信任问题，家庭要求透明和坦诚是正确的
 
-这篇观点文章是高等教育信任与透明系列的第一篇。文章指出高等教育依赖信任，家庭投入四年时间和大量金钱，相信学位有价值、机构关心学生利益并兑现承诺。
+这篇观点文章是高等教育信任与透明系列的第一篇，指出高等教育依赖信任，但家庭有权要求透明和坦诚。
 
 📎 [阅读原文](https://hechingerreport.org/opinion-higher-education-has-a-trust-problem-and-families-are-right-to-demand-transparency-and-candor/) — *Hechinger Report*
 
-### 14. 随着更多大学关闭，倡导者呼吁将其改建为住房
+### 15. 随着更多大学关闭，倡导者呼吁将其转为住房
 
-在马萨诸塞州昆西，一所关闭的大学校园杂草丛生，建筑废弃。随着更多大学关闭，倡导者呼吁将这些校园改建为经济适用房。
+在马萨诸塞州昆西，一所关闭的大学校园荒废，倡导者呼吁将关闭的大学转为经济适用房。
 
 📎 [阅读原文](https://hechingerreport.org/college-closures-affordable-housing/) — *Hechinger Report*
 
-### 15. 在气候灾难时代，更多州为学生提供展示“气候素养”的途径
+### 16. 标准化以维持：构建有弹性的K-12技术战略
 
-在科罗拉多州丹佛机场附近的高中，学生安东尼·穆尼奥斯与当地大学合作，在校园创建花园，研究飞机燃油是否危害生物。更多州现在为学生提供展示气候素养的机会。
+K-12设备采购启动多年工作，地区团队需部署、保护、维修、更新并最终更换学生和教职工设备。
 
-📎 [阅读原文](https://hechingerreport.org/in-an-age-of-climate-disaster-more-states-offer-students-a-way-to-show-they-are-climate-literate/) — *Hechinger Report*
+📎 [阅读原文](https://www.eschoolnews.com/it-leadership/2026/10/12/standardize-to-sustain-building-a-resilient-k-12-technology-strategy/) — *eSchool News*
 
-### 16. 我们迫切需要重新思考媒体素养教育——以下是我的做法
+### 17. 我们迫切需要重新思考媒体素养教育——以下是我的做法
 
-在我的课堂上，学生快速判断网上信息，但难以解释为何信任以及是否可信。我们需要重新思考媒体素养教育。
+在课堂上，学生快速判断在线信息，但难以解释为何信任以及是否可信。
 
 📎 [阅读原文](https://www.eschoolnews.com/digital-learning/2026/10/09/we-urgently-need-to-rethink-media-literacy-education-heres-how-i-did/) — *eSchool News*
 
-### 17. Vivacity推出新学习中心，提供全区Google培训
+### 18. Vivacity推出新学习中心，提供全区Google培训
 
-Vivacity Tech PBC于2026年1月推出V Guide，现推出新学习中心，为学区提供全面的Google培训。
+Vivacity Tech PBC于2026年9月29日推出V Guide，为学区提供Google培训学习中心。
 
 📎 [阅读原文](https://www.eschoolnews.com/newsline/2026/10/08/vivacity-launches-new-learning-hub-for-all-your-districts-google-training/) — *eSchool News*
 
-### 18. E-Rate对学生成功的悄然影响
+### 19. E-Rate对学生成功的悄然影响
 
-当人们想到学校技术时，往往想到学生手中的设备，但看不到幕后运行的基础设施以及使学区能够建设和维护它的资金。E-Rate计划对此有重要影响。
+E-Rate资金支持学校技术基础设施，使设备可用，但常被忽视。
 
 📎 [阅读原文](https://www.eschoolnews.com/it-leadership/2026/10/08/e-rates-quiet-impact-on-student-success/) — *eSchool News*
 
-### 19. 我们需要连续的K-12读写系统
+### 20. 我们需要连续的K-12读写系统
 
-最新的NAEP长期趋势结果显示，9岁儿童的阅读成绩有所提高，而13岁儿童的阅读成绩在统计上保持不变。我们需要连续的K-12读写系统。
+最新NAEP长期趋势结果显示9岁儿童阅读成绩有所提高，而13岁儿童阅读成绩统计上无变化。
 
 📎 [阅读原文](https://www.eschoolnews.com/innovative-teaching/2026/10/07/we-need-a-continuous-k-12-literacy-system/) — *eSchool News*
-
-### 20. “我的老板可能用了AI”：学校领导者需要了解的AI、真实性与信任
-
-AI越来越多地参与日常领导工作，从起草邮件到组织思路。但当AI进入更个人化的沟通——反馈、认可、推荐和评估时，问题就不再简单。学校领导者需要了解AI、真实性与信任。
-
-📎 [阅读原文](https://www.eschoolnews.com/digital-learning/2026/10/06/what-school-leaders-need-to-know-ai-authenticity-trust/) — *eSchool News*
 
 ---
 
 ## 🎵 音乐
 
-> 今日音乐新闻中，The Raconteurs在Jack White的纳什维尔演唱会上七年来首次重聚，并宣布了20周年纪念套装，成为最受关注的事件。此外，Rosalía在《周六夜现场》的精彩表演也备受赞誉，而海滩男孩的Mike Love健康状况引发担忧。
+> 今日音乐新闻中，康奈尔大学因强奸调查取消演唱会引发广泛关注，涉及校园安全和司法审查。此外，多位知名艺人如凯莉·克拉克森和海滩男孩的迈克·洛夫的健康与争议事件也成为焦点。
 
-### 1. Sombr洛杉矶演出邀Lindsey Buckingham同台演绎《Go Your Own Way》
+### 1. 骄傲与力量：滚石2026拉丁专题
 
-在Sombr于洛杉矶Kia Forum的演出中，Lindsey Buckingham惊喜登台，共同表演了《Go Your Own Way》。此外，The Neighbourhood的Jesse Rutherford也献唱了《Sweater Weather》。
+作为西班牙裔传统月的一部分，滚石杂志聚焦为拉丁裔社区发声并捍卫其文化的艺术家和企业家。
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/latin-2026-shell-1235641090/) — *Rolling Stone*
+
+### 2. 凯莉·克拉克森回应布鲁克林商店反驳其糟糕购物体验
+
+歌手凯莉·克拉克森在Art of Play商店反驳她的购物体验后写道：“所以你不仅粗鲁，还是个骗子。”
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/kelly-clarkson-brooklyn-store-shopping-experience-feud-1235641134/) — *Rolling Stone*
+
+### 3. Sombr洛杉矶演出邀林赛·白金汉合作《Go Your Own Way》
+
+在Sombr的Kia Forum演出中，The Neighbourhood的杰西·卢瑟福也表演了《Sweater Weather》。
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/sombr-lindsey-buckingham-go-your-own-way-los-angeles-show-1235641067/) — *Rolling Stone*
 
-### 2. Barry Manilow因支气管炎取消拉斯维加斯复出演出
+### 4. 巴里·曼尼洛因支气管炎取消拉斯维加斯复出演出
 
-Barry Manilow在抗癌后重返拉斯维加斯Westgate驻场演出，但因支气管炎，第二场演出提前结束，第三场也被取消。
+在与癌症斗争后重返拉斯维加斯，歌手在Westgate驻场演出第二场提前结束，并因疾病取消第三场。
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/barry-manilow-cancels-las-vegas-comeback-shows-bronchitis-1235641001/) — *Rolling Stone*
 
-### 3. 海滩男孩三个月来首场公开演出，Mike Love健康状况堪忧
+### 5. 海滩男孩三个月来首场公开演出，迈克·洛夫极度虚弱
 
-海滩男孩在辛辛那提举行了三个月来的首场公开演唱会，Mike Love显得非常虚弱。John Stamos向观众表示：“他一直在应对一些健康问题，我们都在这里支持他，给他尽可能多的爱。”
+约翰·斯塔莫斯在演出开始时告诉观众：“他一直有些健康问题。我们都在这里支持他，给他尽可能多的爱。”
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/the-beach-boys-cincinnati-concert-frail-mike-love-1235640961/) — *Rolling Stone*
 
-### 4. The Raconteurs七年来首次重聚，亮相Jack White纳什维尔演唱会
+### 6. NME评选2026年Beyond The Music音乐节十大演出
 
-在Jack White的纳什维尔演唱会上，The Raconteurs在安可环节惊喜重聚，表演了五首歌曲，这是他们自2019年以来的首次演出。
+从Holly Head到Kofi Stone，我们汇总了在索尔福德展示会上看到的最佳表演。
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/the-raconteurs-reunite-jack-white-nashville-concert-1235640937/) — *Rolling Stone*
+📎 [阅读原文](https://www.nme.com/features/music-features/beyond-the-music-2026-round-up-radar-3972961?utm_source=rss&utm_medium=rss&utm_campaign=beyond-the-music-2026-round-up-radar) — *NME*
 
-### 5. 《SNL》：Rosalía表演《Reliquia》和《Magnolias》
+### 7. 任天堂无意取消Switch 2实体游戏发行
 
-西班牙创作歌手Rosalía在《周六夜现场》上表演了《Reliquia》和《Magnolias》，这两首歌均出自她备受赞誉的专辑《Lux》。
+“我们知道粉丝们有多喜欢它们。”
 
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/snl-watch-rosalia-performs-reliquia-magnolias-1235640806/) — *Rolling Stone*
+📎 [阅读原文](https://www.nme.com/news/gaming-news/nintendo-physical-switch-2-game-release-plays-playstation-3972963?utm_source=rss&utm_medium=rss&utm_campaign=nintendo-physical-switch-2-game-release-plays-playstation) — *NME*
 
-### 6. Brandon Flowers盲选五首The Killers歌曲，《Mr Brightside》排名如何？
+### 8. 观看菲比·布里杰斯与Boygenius队友重聚，由兰斯·奥本海姆执导原声表演
 
-The Killers主唱Brandon Flowers对五首乐队歌曲进行了盲选排名，本周他将开始英国和爱尔兰的个人巡演。
+朱利安·贝克和露西·达库斯也在布里杰斯纽约无手机演出前惊喜现身。
 
-📎 [阅读原文](https://www.nme.com/features/brandon-flowers-blind-rank-the-killers-songs-mr-brightside-interview-3972904?utm_source=rss&utm_medium=rss&utm_campaign=brandon-flowers-blind-rank-the-killers-songs-mr-brightside-interview) — *NME*
+📎 [阅读原文](https://www.nme.com/news/music/watch-phoebe-bridgers-reunite-with-boygenius-bandmates-for-lance-oppenheim-directed-acoustic-performance-3972957?utm_source=rss&utm_medium=rss&utm_campaign=watch-phoebe-bridgers-reunite-with-boygenius-bandmates-for-lance-oppenheim-directed-acoustic-performance) — *NME*
 
-### 7. Fontaines D.C. – 《Dopamine Chamber》乐评：十年最佳乐队的末日逃亡
+### 9. 《侠盗猎车手6》粉丝被警告避免剧透，更多游戏画面泄露
 
-都柏林乐队Fontaines D.C.的第五张专辑《Dopamine Chamber》深入探索了《Romance》的极端，以黑暗而令人兴奋的方式反映了末日。
+Cyberleek威胁要发布完整游戏的可玩版本，除非获得实体发行。
 
-📎 [阅读原文](https://www.nme.com/reviews/album/fontaines-d-c-dopamine-chamber-album-review-3972863?utm_source=rss&utm_medium=rss&utm_campaign=fontaines-d-c-dopamine-chamber-album-review) — *NME*
+📎 [阅读原文](https://www.nme.com/news/gaming-news/grand-theft-auto-6-leaks-nude-lucia-story-details-cyberleek-spoilers-3972951?utm_source=rss&utm_medium=rss&utm_campaign=grand-theft-auto-6-leaks-nude-lucia-story-details-cyberleek-spoilers) — *NME*
 
-### 8. 今日Wordle答案和提示（10月12日第1931期）
+### 10. Grimes宣布新专辑《Psyopera》（无埃隆·马斯克歌曲），发布黑暗锐舞单曲《Accelerando》
 
-无需担心连胜中断，以下是今日Wordle的答案和提示。
+“我只是不想让这一切与埃隆有关。”
 
-📎 [阅读原文](https://www.nme.com/guides/gaming-guides/heres-the-wordle-answer-for-today-3171240?utm_source=rss&utm_medium=rss&utm_campaign=heres-the-wordle-answer-for-today) — *NME*
+📎 [阅读原文](https://www.nme.com/news/music/grimes-announces-new-album-psyopera-featuring-no-elon-musk-songs-with-dark-and-ravey-single-accelerando-3972950?utm_source=rss&utm_medium=rss&utm_campaign=grimes-announces-new-album-psyopera-featuring-no-elon-musk-songs-with-dark-and-ravey-single-accelerando) — *NME*
 
-### 9. 今日Connections答案和提示（10月12日）
+### 11. Pearl Jam可能不会在Sphere演出
 
-以下是今日Connections的提示、分组和答案。
+迈克·麦克雷迪说乐队“有点便宜”。
 
-📎 [阅读原文](https://www.nme.com/guides/gaming-guides/connections-answers-hints-groups-today-3557066?utm_source=rss&utm_medium=rss&utm_campaign=connections-answers-hints-groups-today) — *NME*
+📎 [阅读原文](https://consequence.net/2026/10/pearl-jam-no-sphere-vegas/) — *Consequence*
 
-### 10. 今日Globle答案和提示（10月12日）
+### 12. 萨莎·拜伦·科恩将主演昆汀·塔伦蒂诺首部舞台剧《The Popinjay Cavalier》
 
-世界在哪里？以下是今日Globle的答案和提示。
+根据官方简介，该剧是一个“关于欺骗和伪装的喧闹故事”，灵感来自“舞台和银幕上的宏大冒险史诗和闪耀浪漫”。
 
-📎 [阅读原文](https://www.nme.com/guides/gaming-guides/globle-hint-answer-today-3213991?utm_source=rss&utm_medium=rss&utm_campaign=globle-hint-answer-today) — *NME*
+📎 [阅读原文](https://consequence.net/2026/10/sacha-baron-cohen-quentin-tarantino-stage-play/) — *Consequence*
 
-### 11. Mike Love健康状况引关注，重返海滩男孩舞台（更新）
+### 13. 詹姆斯·赫特菲尔德在Sphere：“Metallica不像其他艺人那样用废话影响你”
 
-Mike Love在他人搀扶下走上舞台，显得虚弱，并在整个表演过程中保持坐姿。
+主唱周六在拉斯维加斯未来主义场馆向观众发表了讲话。
 
-📎 [阅读原文](https://consequence.net/2026/10/mike-love-beach-boys-live-comeback-health-issues/) — *Consequence*
+📎 [阅读原文](https://consequence.net/2026/10/james-hetfield-sphere-metallica-no-bullshit/) — *Consequence*
 
-### 12. Soulja Boy宣布参加2028年总统竞选
+### 14. 丹·利维批评谢恩·吉利斯在SNL独白中的厌女言论：“我无语了”
 
-这位说唱歌手在社交媒体上发布了他的竞选纲领，并带有“#America2028”标签。
+在SNL独白中，吉利斯描述去健身房并观察到“现在女人穿得像妓女”。
 
-📎 [阅读原文](https://consequence.net/2026/10/soulja-boy-teases-presidential-run/) — *Consequence*
+📎 [阅读原文](https://consequence.net/2026/10/dan-levy-shane-gillis-snl/) — *Consequence*
 
-### 13. 尼古拉斯·凯奇拒绝为《蜘蛛侠：暗影》签署AI协议，可能不再与亚马逊合作
+### 15. 埃拉·兰利称耶稣给予她勇气在炸弹威胁后表演
 
-凯奇在谈到与亚马逊的关系时说：“我不是一个对AI友好的演员，所以，你懂的！”
+这位乡村歌手在塔尔萨的演出因虚假炸弹威胁被取消。
 
-📎 [阅读原文](https://consequence.net/2026/10/nicolas-cage-on-spider-noir-ai-waiver/) — *Consequence*
+📎 [阅读原文](https://consequence.net/2026/10/ella-langley-jesus-bomb-threat/) — *Consequence*
 
-### 14. The Raconteurs七年来首次重聚演出
+### 16. 康奈尔大学因强奸调查取消与Between Friends的演唱会
 
-周六在Jack White的纳什维尔演唱会上，乐队惊喜亮相，表演了五首歌曲。
+一名匿名Jane Doe最近起诉康奈尔大学，声称她在2024年兄弟会派对上被轮奸，大学未能保护她或追究涉嫌袭击者的责任。纽约州长凯西·霍楚尔呼吁独立审查，任命总检察长莱蒂西亚·詹姆斯为特别检察官。
 
-📎 [阅读原文](https://consequence.net/2026/10/the-raconteurs-reunite-for-first-performance-in-seven-years/) — *Consequence*
+📎 [阅读原文](https://stereogum.com/2514306/cornell-cancels-concert-with-between-friends-amid-rape-investigation/news/) — *Stereogum*
 
-### 15. Rosalía在《SNL》上再次提升标准，精彩表演：观看
+### 17. Sombr邀林赛·白金汉，与Nickel Creek重制《Homewrecker》
 
-观看她对《Reliquia》和《Magnolias》真正迷人的表演。
+独立流行新星Sombr正成为吸引摇滚前辈关注和赞誉的年轻明星之一，尤其是林赛·白金汉一直对他青睐有加。
 
-📎 [阅读原文](https://consequence.net/2026/10/rosalia-snl-reliquia-magnolias-performances/) — *Consequence*
+📎 [阅读原文](https://stereogum.com/2514307/sombr-brings-out-lindsey-buckingham-remakes-homewrecker-with-nickel-creek/music/) — *Stereogum*
 
-### 16. Frank Carter怒骂闯入女性专属性手枪乐队mosh pit的男子
+### 18. 凯莉·克拉克森回击布鲁克林古玩店
 
-在丹佛Ogden Theatre的性手枪乐队演出中，Frank Carter对一名闯入女性专属mosh pit的男子进行了严厉斥责。
+凯莉·克拉克森以最 pleasant、有趣、正常的流行明星之一而闻名，但自从上个月结束《凯莉·克拉克森秀》后，事情变得有点奇怪。
 
-📎 [阅读原文](https://stereogum.com/2514265/frank-carter-curses-out-man-who-crashed-female-only-sex-pistols-mosh-pit/news/) — *Stereogum*
+📎 [阅读原文](https://stereogum.com/2514293/kelly-clarkson-fires-back-at-brooklyn-curiosity-shop/news/) — *Stereogum*
 
-### 17. Rosalía将《Lux》带上《SNL》，并出现在关于Jelly Roll在Sphere演出的 sketch中
+### 19. 约翰·斯塔莫斯为迈克·洛夫令人担忧的现场回归辩护：“他坚持要上台”
 
-10月10日，Rosalía作为音乐嘉宾登上《SNL》，演唱了《Reliquia》和《Magnolias》，并参与了小品表演。
+海滩男孩联合创始人迈克·洛夫是唐纳德·特朗普的超级粉丝，像特朗普一样，他现在似乎在自己的活动中打瞌睡。
 
-📎 [阅读原文](https://stereogum.com/2514249/rosalia-brings-lux-to-snl-appears-in-sketch-about-jelly-roll-playing-sphere/news/) — *Stereogum*
+📎 [阅读原文](https://stereogum.com/2514290/john-stamos-defends-mike-loves-alarming-live-return-he-insists-on-being-on-stage/news/) — *Stereogum*
 
-### 18. MJ Lenderman在Good Moon音乐节首演新歌
+### 20. 冠军单曲：杰克·哈洛的《First Class》
 
-MJ Lenderman昨晚在北卡罗来纳州达勒姆举行了五个月来的首场演唱会，并首演了新音乐。
+文章回顾了杰克·哈洛的冠军单曲《First Class》。
 
-📎 [阅读原文](https://stereogum.com/2514242/mj-lenderman-debuts-new-music-at-good-moon-festival/news/) — *Stereogum*
-
-### 19. The Raconteurs在Jack White纳什维尔演出中重聚，宣布20周年Vault套装
-
-The Raconteurs在Jack White的纳什维尔演出中重聚，并宣布了首张专辑《Broken Boy Soldiers》20周年纪念Vault套装，包含未发行的小样和首次演唱会录音。
-
-📎 [阅读原文](https://stereogum.com/2514238/the-raconteurs-reunite-at-jack-whites-nashville-show-announce-20th-anniversary-vault-package/news/) — *Stereogum*
-
-### 20. Charli XCX在ACL音乐节邀请Tinashe同台
-
-在奥斯汀城市极限音乐节的第二个周末，Charli XCX邀请Tinashe作为惊喜嘉宾登台表演。
-
-📎 [阅读原文](https://stereogum.com/2514217/charli-xcx-brings-out-tinashe-at-acl/news/) — *Stereogum*
+📎 [阅读原文](https://stereogum.com/2513629/the-number-ones-jack-harlows-first-class/columns/the-number-ones/) — *Stereogum*
 
 ---
 
 ## ✈️ 旅游
 
-> 今日旅游新闻中，沙特旅游经济受战争影响和印度外国游客减少但设定1亿目标最为重要，因为它们反映了地缘政治和宏观经济对旅游业的冲击。此外，芝加哥酒店罢工和达美航空票价上涨也值得关注，显示了行业内的劳资和定价动态。
+> 今日旅游新闻中，沙特阿拉伯的航空和旅游雄心因一周内多次恐怖袭击而面临严峻挑战，同时印度成为Skyscanner最大市场且出境游搜索近半，显示其旅游市场潜力。此外，印度外国游客减少但2047年目标提升至1亿，引发对实现路径的关注。
 
-### 1. 旅游AI进入验证阶段，可见性与预订缺口
+### 1. 沙特航空雄心遭遇恐怖一周
 
-Skift欧洲数据+AI峰会显示，AI可能正在改变旅游分销和内部运营，但预订量是另一回事。
+沙特阿拉伯在短短一周内遭遇多次袭击，包括对首都的反复攻击，这对该国旅游业构成巨大挑战。
+
+📎 [阅读原文](https://skift.com/2026/10/12/saudi-arabias-aviation-ambitions-meet-a-week-of-terror/) — *Skift*
+
+### 2. 印度成为Skyscanner最大市场，近半搜索为出境游
+
+印度已成为Skyscanner的最大市场，近一半的搜索是出境旅行。印度消费者在预订前更看重价值。
+
+📎 [阅读原文](https://skift.com/2026/10/12/india-is-now-skyscanners-biggest-market-and-nearly-half-its-searches-go-abroad/) — *Skift*
+
+### 3. 旅游AI进入验证阶段：可见性与预订差距
+
+Skift欧洲数据+AI峰会显示，AI可能正在改变旅游分销和内部运营，但预订量尚未显著增长。
 
 📎 [阅读原文](https://skift.com/2026/10/11/travel-ais-prove-it-phase-visibility-and-the-booking-gap/) — *Skift*
 
-### 2. 战争改变沙特旅游经济
+### 4. 战争改变沙特旅游经济
 
-战争推高了吸引国际游客的成本，而沙特需要这些游客来实现其旅游雄心。
+战争提高了吸引国际游客的成本，而沙特需要这些游客来实现其旅游雄心。
 
 📎 [阅读原文](https://skift.com/2026/10/10/the-war-is-changing-the-economics-of-saudi-tourism/) — *Skift*
 
-### 3. 印度外国游客减少，但2047年旅游目标现为1亿
+### 5. 印度外国游客减少，但2047年目标提升至1亿
 
-印度列出了实现1亿游客目标的四个P，但缺乏第五个：公布的路径。随着游客数量下降，希望承诺背后有切实计划，以免成为空想。
+印度列出了实现1亿游客目标的四个P，但缺乏公布的路径。随着游客数量下降，人们希望承诺背后有切实计划。
 
 📎 [阅读原文](https://skift.com/2026/10/10/indias-foreign-arrivals-are-falling-but-the-2047-tourism-target-is-now-100-million/) — *Skift*
 
-### 4. 芝加哥酒店罢工在马拉松周末波及万豪和希尔顿
+### 6. 阿拉斯加游轮之旅入门：是什么以及为何预订
 
-业主而非品牌承担大部分工资负担。工会直言：“这个系统里有足够的钱。”但业主看法不同。
+考虑阿拉斯加度假？游轮之旅将带您游览该州许多最著名的景点。
 
-📎 [阅读原文](https://skift.com/2026/10/09/chicago-hotel-strike-hits-marriott-and-hilton-hotels-during-marathon-weekend/) — *Skift*
+📎 [阅读原文](https://thepointsguy.com/cruise/cruise-tour-guide/) — *The Points Guy*
 
-### 5. 达美航空CEO谈20%票价上涨（“阻力有限”）和星链（“不搞针锋相对”）
+### 7. Capital One Spark Cash Plus与Chase Ink Business Cash对比
 
-达美航空CEO埃德·巴斯蒂安表示，一旦燃油价格开始回落，航空业将需要找到维持收入势头的方法。
+Spark Cash Plus奖励高业务支出，而Ink Business Cash提供高达5%返现且无年费。看看哪张适合您。
 
-📎 [阅读原文](https://skift.com/2026/10/09/delta-ceo-on-20-percent-fare-hikes-and-starlink/) — *Skift*
+📎 [阅读原文](https://thepointsguy.com/credit-cards/capital-one-spark-cash-plus-vs-chase-ink-business-cash/) — *The Points Guy*
 
-### 6. Chase Sapphire Preferred持卡人：为何Venture X值得下一张申请
+### 8. Chase Sapphire Preferred持卡人：为何下一张值得加办Venture X
 
-了解如何通过搭配Capital One Venture X和Chase Sapphire Preferred来最大化您的旅行奖励。
+了解如何通过搭配Capital One Venture X和Chase Sapphire Preferred来最大化旅行奖励。
 
 📎 [阅读原文](https://thepointsguy.com/credit-cards/chase-sapphire-preferred-why-the-venture-x-should-be-your-next-card/) — *The Points Guy*
 
-### 7. 15个阿拉斯加邮轮错误你绝不想犯
+### 9. 15个阿拉斯加游轮错误你绝不想犯
 
-不要搞砸人生必去的阿拉斯加邮轮假期——你可能没有重来的机会。以下是我们列出的阿拉斯加邮轮上绝不应该做的事情。
+不要搞砸你的阿拉斯加游轮梦想之旅——可能没有重来的机会。以下是阿拉斯加游轮上绝不应该做的事情。
 
 📎 [阅读原文](https://thepointsguy.com/cruise/alaska-cruise-mistakes-to-avoid/) — *The Points Guy*
 
-### 8. 我在纽约测试了Amex的“黑马”新转点伙伴
+### 10. 我在纽约测试了Amex的‘黑马’新转点伙伴
 
-我在纽约测试了Amex最新的转点伙伴Leaders Club——用约48,000 Amex积分预订了一晚价值1,100美元的酒店。
+我在纽约测试了Amex最新的转点伙伴Leaders Club，用约48,000 Amex积分预订了价值1,100美元的酒店住宿。
 
 📎 [阅读原文](https://thepointsguy.com/loyalty-programs/leaders-club-transfer-partner-amex/) — *The Points Guy*
 
-### 9. 美国银行商业Essential Visa review：美国银行客户的可靠选择
-
-美国银行商业Essential Visa至少赚取2%现金返还，无年费。看看这张商业卡是否适合你的钱包。
-
-📎 [阅读原文](https://thepointsguy.com/credit-cards/reviews/us-bank-business-essentials-visa-card/) — *The Points Guy*
-
-### 10. 阿拉斯加邮轮打包清单：北上航行该带什么
-
-了解阿拉斯加邮轮最重要的打包物品，为第49州的多变天气和地形做好准备。
-
-📎 [阅读原文](https://thepointsguy.com/cruise/alaska-cruise-packing-list/) — *The Points Guy*
-
 ### 11. Holafly套餐：长期旅行者的最佳eSIM计划
 
-世界上有很多eSIM公司，它们的工作方式类似：下载应用、选择套餐、安装eSIM，然后出发。我喜欢的很多，但最喜欢的是Holafly，我已经使用他们的eSIM多年。
+市面上有许多eSIM公司，但Holafly是我使用多年且最喜欢的。本文介绍其套餐为何适合长期旅行者。
 
 📎 [阅读原文](https://www.nomadicmatt.com/travel-blogs/holafly-plans/) — *Nomadic Matt*
 
-### 12. Nomad Citizen：企业家的新社会安全网
+### 12. Nomad Citizen：企业家的新社会保障网
 
-如果你是数字游民或地点独立的企业主，你要么为碎片化的保险覆盖（旅行、医疗等）支付过高费用，要么严重保险不足。你有健康计划、旅行保险，也许还有一些医疗后送保险。但是，当你为自己工作时，你缺乏那种安全网保护。
+数字游民或地点独立的企业主往往保险不足或支付过高。Nomad Citizen提供新的安全保障。
 
 📎 [阅读原文](https://www.nomadicmatt.com/travel-blogs/nomad-citizen-review/) — *Nomadic Matt*
 
-### 13. Faye旅行保险：最好的新公司
+### 13. Faye旅行保险：最佳新兴公司
 
-我们可能作为广告合作伙伴从Faye获得补偿。但这不影响我们的评估。我们的观点是我们自己的。我写旅行近二十年，在此期间，我目睹旅行保险行业以冰川般的速度变化。多年来，推销总是……
+Faye是一家新兴旅行保险公司，本文评估其服务。我们可能作为广告合作伙伴获得补偿，但不影响评价。
 
 📎 [阅读原文](https://www.nomadicmatt.com/travel-blogs/faye-travel-insurance-review/) — *Nomadic Matt*
 
-### 14. 马德里5日行程：文化、美食和当地生活指南
+### 14. 马德里5日行程：文化、美食与本地生活指南
 
-马德里拥有约350万人口，是西班牙首都和该国最大城市。虽然有些分散，但这座城市拥有令人惊叹的建筑、令人难以置信的美食和持续到黎明的充满活力的夜生活。每年有超过1000万人访问这座城市，当你走出去探索的那一刻，你就会明白……
+马德里是西班牙首都和最大城市，拥有约350万人口，每年吸引超1000万游客。本文提供5日文化、美食和本地生活指南。
 
 📎 [阅读原文](https://www.nomadicmatt.com/travel-blogs/madrid-five-day-itinerary/) — *Nomadic Matt*
 
 ### 15. Capital One Venture商业卡评测
 
-如果你像我一样是旅行者，很可能你总是在寻找让旅行更实惠的方法。这就是我收集积分和里程的原因：它们帮助我降低旅行成本，这样我就可以把钱花在真正重要的事情上……通常是预订更多旅行！一张可以帮助的卡……
+如果你像我一样喜欢旅行，可能总在寻找让旅行更实惠的方法。本文评测Capital One Venture商业卡。
 
 📎 [阅读原文](https://www.nomadicmatt.com/travel-blogs/capital-one-venture-business-review/) — *Nomadic Matt*
 
-### 16. 加勒比海10个最美丽的海滩小镇，拥有岛屿魅力和明信片般美景
+### 16. 美国人涌向这个安全的北欧首都：17世纪运河港口、零反旅游抗议、世界级咖啡馆文化
 
-我讨厌看到加勒比海现在发生的事情。每次我飞下去，另一个安静的海滩就消失了。一些开发商铺平了它，建造了一个巨大的混凝土度假村。你知道那种旅行是什么样子。你可以做得更好，我保证。我和妻子Liz花了一个……
+这个欧洲城市拥有完美的港口、17世纪彩色建筑、丰富历史和世界级咖啡馆文化，且没有反旅游抗议。
+
+📎 [阅读原文](https://www.traveloffpath.com/americans-are-flocking-to-this-safe-nordic-capital-with-17th-century-canal-harbors-zero-anti-tourist-protests-and-world-class-cafe-culture/) — *Travel Off Path*
+
+### 17. 加勒比海10个最美海滩小镇：岛屿魅力与明信片般美景
+
+本文介绍加勒比海10个最美海滩小镇，拥有岛屿魅力和明信片般的美景，避开大型度假村。
 
 📎 [阅读原文](https://www.traveloffpath.com/10-most-beautiful-beach-towns-across-the-caribbean-with-island-charm-and-postcard-worthy-views/) — *Travel Off Path*
 
-### 17. 美国人可直飞这3个全包度假村，拥有你海滩假期真正想要的一切
+### 18. 美国人可直飞这3个全包度假村，满足海滩度假所需
 
-如果你像我一样，你现在有40个浏览器标签打开，只是为了挑选下一个假期的度假村。而这还是在你已经经历了选择目的地和弄清楚航班的头痛之后。预订一个简单的海滩旅行不知何故变成了一份全职工作。你……
+本文介绍3个美国人可直飞的全包度假村，拥有海滩度假所需的一切，简化预订过程。
 
 📎 [阅读原文](https://www.traveloffpath.com/americans-can-fly-nonstop-to-these-3-all-inclusive-resorts-that-have-everything-you-actually-want-in-a-beach-vacation/) — *Travel Off Path*
 
-### 18. 我访问过20多个西班牙城市：跳过帕尔马，选择这个14世纪城市，秋季77°F，晚餐17美元，人群更少
+### 19. 我访问过20多个西班牙城市：跳过帕尔马，选择这座14世纪城市，秋季77°F、晚餐17美元、人少
 
-忘掉巴塞罗那和拥挤的哥特区，马德里宏伟的美丽时代大道，甚至漂亮的小帕尔马，其高耸的大教堂建得像堡垒一样坚固：在访问了该国17个自治区中的11个，以及大约23个不同主要城市，从加利西亚最西北边缘一直到……
+作者访问过20多个西班牙城市，推荐跳过帕尔马，选择这座14世纪城市，秋季气温77°F、晚餐17美元且人群较少。
 
 📎 [阅读原文](https://www.traveloffpath.com/ive-visited-20-spanish-cities-skip-palma-for-this-14th-century-city-with-77f-autumns-17-dinners-and-fewer-crowds/) — *Travel Off Path*
 
-### 19. 旅游专家称今冬应跳过5个过度拥挤的加勒比岛屿（以及去哪里）
+### 20. 专家建议今冬跳过这5个过度拥挤的加勒比岛屿（及替代目的地）
 
-当冬季严寒来袭时，互联网上的每个旅游出版物都开始推送相同的热带目的地。但我们不是普通的旅游出版物。旅游专家正在对本季加勒比海过度拥挤发出警报。别担心，我们有办法。作为Travel Off Path的编辑，我的主要任务之一是……
+旅游专家警告加勒比海过度拥挤，建议今冬跳过5个岛屿，并提供替代目的地。
 
 📎 [阅读原文](https://www.traveloffpath.com/5-overcrowded-caribbean-islands-you-should-skip-this-winter-according-to-travel-experts-and-where-to-go-instead/) — *Travel Off Path*
-
-### 20. 这个安全、未被发现的海滩小镇拥有83°F海水、1000磅海龟和2美元船程到文明
-
-为什么要去一个几乎没有路灯、铺砌道路很少、严格禁止夜间海滩派对的的海滩小镇？等等，听我说完，因为现在是时候让你知道一个小秘密了。当旅行者预订去哥斯达黎加的假期时，他们通常追逐一个特定的白日梦。……
-
-📎 [阅读原文](https://www.traveloffpath.com/this-safe-undiscovered-beach-town-has-83f-ocean-water-1000-pound-turtles-and-a-2-boat-ride-to-civilization/) — *Travel Off Path*
 
 ---
 
