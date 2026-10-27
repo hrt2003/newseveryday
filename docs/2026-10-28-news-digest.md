@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年10月28日** | 生成时间: 2026-10-28 01:43
+**2026年10月28日** | 生成时间: 2026-10-28 05:57
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Flávio Bolsonaro's passports cancelled after he fails to surrender them
+### 1. Norway and Finland leaders hold rare call with Putin
 
-[原文] The defeated presidential candidate is under investigation for alleged money laundering and barred from leaving Brazil.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 2. Turnout so far highest on record as Israelis vote in pivotal election
-
-[原文] The elections - the first since the Hamas-led attacks on Israel and the wars which followed - are widely seen as a referendum on Benjamin Netanyahu.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 3. Norway and Finland leaders hold rare call with Putin
-
-[原文] This is the first time European leaders have had direct communication with Russia's president in more than a year.
+[原文] An end to the conflict in Ukraine "will not be achieved through silence," Finland's President Alexander Stubb said.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Truce begins in Ukraine city where residents ate weeds to survive
+### 2. Ceasefire extended across Ukraine's Kherson region, officials say
 
-[原文] The Oleshky ceasefire, which the White House said was secured by US First Lady Melania Trump, is meant to allow aid to get in and civilians to get out.
+[原文] The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria
+### 3. Mbappé sorry for 'ill-judged' Mao remark after backlash in China
 
-[原文] He is in jail accused of supporting terrorism after travelling to the politically sensitive region Kabylie.
+[原文] The France star had referred to the former Chinese leader as a "dictator" during an interview about memes.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. Lula's comeback in Brazil dents Trump's ambitions for Latin America
+
+[原文] The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Dutch zookeeper dies after being mauled in leopard enclosure
+
+[原文] The woman began her career at the park when she was 17 and had worked there on-and-off for four decades.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Boeing stock sinks 9% as company says it won't significantly ramp up 737 Max production until late 2027
+### 1. Early third-quarter earnings show a 'resilient' U.S. consumer, with signs of strain
 
-[原文] Boeing is set to brief investors on its aircraft production outlook when it reports quarterly results before the market opens Tuesday.
+[原文] Companies from Royal Caribbean to Coca-Cola and UPS say they are seeing steady consumer spending despite high inflation.
 
-📎 [阅读原文](https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/27/q3-earnings-resilient-consumer.html) — *CNBC*
 
-### 2. Fed expected to hold rates steady, but Warsh may point way to more hikes
+### 2. Speaker Mike Johnson calls election-transfer concerns ‘absurd’
 
-[原文] Markets overwhelmingly expect no change in benchmark interest rates following September's  increase.
+[原文] Democrats and voting rights groups have raised concerns that President Donald Trump and congressional Republicans could challenge election results if they lose.
 
-📎 [阅读原文](https://www.cnbc.com/2026/10/27/federal-reserve-rates-kevin-warsh.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/27/speaker-johnson-peaceful-transfer-midterms.html) — *CNBC*
 
-### 3. Honda warns 50% Canada auto tariffs would be catastrophic for industry
+### 3. Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI
 
-[原文] President Donald Trump has threatened to double tariffs on Canadian vehicles and parts from 25% to 50% if a trade deal is not reached between the two countries.
+[原文] Amazon has rapidly integrated AI across the e-commerce giant's sprawling business operations under CEO Andy Jassy.
 
-📎 [阅读原文](https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/27/amazon-ai-coding-tokenmaxxing.html) — *CNBC*
 
-### 4. Anthropic's IPO could be 'speculative fiction' or a 'generational moment' — investors are split
+### 4. Trump administration may let more Russian diesel onto market, energy secretary tells CNBC
 
-[原文] Investors are digesting Anthropic's S-1 filing that the Securities and Exchange Commission released on Monday.
+[原文] The diesel volumes in the Trump-Putin deal won't materially lower prices because the shipments are small compared to total demand, analysts say.
 
-📎 [阅读原文](https://www.cnbc.com/2026/10/27/-anthropic-ipo-investors-growth-losses-s-1.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/27/trump-putin-zelenskyy-russia-ukraine-diesel.html) — *CNBC*
 
-### 5. Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup
+### 5. Grand jury rejects DOJ bid to indict ex-Trump WH aide Cassidy Hutchinson: Reports
 
-[原文] Oracle is integrating OpenAI’s ChatGPT and Codex into its applications and plans to add Google TPUs and OpenAI’s Jalapeño chip to OCI.
+暂无摘要。
 
-📎 [阅读原文](https://www.cnbc.com/2026/10/27/oracle-openai-chatgpt-codex-google-tpus.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/27/cassidy-hutchinson-doj-grand-jury-trump.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?
+### 1. GM is embracing hybrids now
 
-[原文] TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery
+[原文] GM eschewed hybrids in favor of battery-electric vehicles. Now, it's gearing up to offer hybrid versions of its SUVs.
 
-📎 [阅读原文](https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/10/27/gm-is-embracing-hybrids-now/) — *TechCrunch*
 
-### 2. Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering
+### 2. Bank of America kindly asks that you don’t share your banking password with your AI assistant
 
-[原文] Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts, in research preview for trusted testers.
+[原文] The banking giant reminds customers that "you're responsible for activity" resulting from your AI agents' access.
 
-📎 [阅读原文](https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/) — *TechCrunch*
 
-### 3. Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace
+### 3. Who’s really in charge at Anthropic after the IPO?
 
-[原文] Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.
+[原文] Here's a clear explanation of Anthropic's incredibly complex governance structure.
 
-📎 [阅读原文](https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/) — *TechCrunch*
 
-### 4. Ford Fathom will be the cheapest American EV capable of powering a house
+### 4. Discord is making its public communities more searchable, and people have concerns
 
-[原文] Ford is rolling out two new chargers capable of powering a home or the grid — so-called V2X capability.
+[原文] In December, messages from Discord's public discoverable servers will begin appearing in search engine results.
 
-📎 [阅读原文](https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/10/27/discord-is-making-its-public-communities-more-searchable-and-people-have-concerns/) — *TechCrunch*
 
-### 5. US government says hackers are now exploiting critical PHP web bugs
+### 5. Re:Build, which spun out Slate Auto, raises $2.1B
 
-[原文] The U.S. government cyber agency warns that hackers have figured out a way to exploit the popular PHP software, used in 70% of the web's software.
+[原文] The manufacturing accelerator bills itself as "America’s answer to Shenzhen."
 
-📎 [阅读原文](https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/) — *TechCrunch*
+📎 [阅读原文](https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/) — *TechCrunch*
 
 ---
 
@@ -168,11 +168,11 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Carrick to stay in charge of Man Utd for Chelsea game
+### 1. Man Utd stick with Carrick - inside a turbulent 48 hours at Old Trafford
 
-[原文] Michael Carrick will remain in charge of Manchester United for their trip to Chelsea this weekend.
+[原文] BBC Sport looks at the 48 hours that led to Manchester United deciding to keep under-pressure Michael Carrick as their head coach for Saturday's trip to Chelsea.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/crlykgeqzypyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cwz0vgj35k7mo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ### 2. Australia fight back to keep Cummins out of unwanted club... for now
 
@@ -180,23 +180,23 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c51kdggvmy7mo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Ballon d'Or in London - the most chaotic ever?
+### 3. Fleetwood-Arsenal halted for eight minutes because of drone
+
+[原文] Arsenal's match with Fleetwood Town in the last-16 of the Carabao Cup is delayed for more than eight minutes after a drone is spotted above the stadium during the match.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cmqlngxw6lv3o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. Barcelona fined £503 over approach for Alvarez
+
+[原文] Barcelona are fined 602 euros (£503) following a complaint by Atletico Madrid over contact the club made with striker Julian Alvarez.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cmpwg0lqxkd4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 5. Ballon d'Or in London - the most chaotic ever?
 
 [原文] It was the first time the Ballon d'Or had been held in London in its 70-year history - but the event was not plain sailing. BBC Sport assesses a chaotic night.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c6y8lgg21l89o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. Lawrie, 15, eyes £501,000 live TV win over Littler
-
-[原文] Mitchell Lawrie, 15, one of 24 amateur players taking part in live TV special Beat Luke Littler, has his sights on a £501,000 bullseye should he beat the world darts champion.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/darts/articles/cq33xj8yyd5do?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Simpler, cheaper hybrid V8s proposed for next F1 rules
-
-[原文] Formula 1's next engine regulations are set to introduce V8 turbo hybrid engines that are simplified and less expensive compared to the existing rules.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/cw4g186011rdo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Jennifer Lawrence Did Not Start Her Beauty Brand Because of Hollywood Instability: ‘A Smarter Exit Plan Would Be Signing Up for a Big Franchise’
+### 1. Elmo Is Going as Meryl Streep’s Evil Fashion Editor Miranda Priestly for Halloween This Year
 
-[原文] Jennifer Lawrence has officially entered the celebrity beauty game with the launch of her haircare brand Mes, but the Oscar winner&#8217;s career pivot is not a reaction to Hollywood instability. Spea
+[原文] This Halloween, &#8220;Sesame Street&#8217;s&#8221; beloved furry red monster is trading crayons for couture. In a somewhat unexpected cultural crossover, Elmo for Halloween 2026 is dressing as fashio
 
-📎 [阅读原文](https://variety.com/2026/film/news/jennifer-lawrence-denies-beauty-brand-money-hollywood-instability-1236931987/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/elmo-meryl-streep-miranda-priestly-halloween-costume-1236932384/) — *Variety*
 
-### 2. Lionsgate Promotes Scott Herbst to President of Television Group
+### 2. Jafar Panahi Now Faces a Five-Year Prison Term in New Ruling on Top of His Previous One-Year Conviction
 
-[原文] Scott Herbst has been promoted to president of Lionsgate Television Group, overseeing all creative operations for the studio. Herbst has been with the company since 2018, most recently serving as exec
+[原文] Cannes Palme d’Or-winning Iranian filmmaker Jafar Panahi – who was facing a one-year prison sentence – has now been sentenced by a Tehran Revolutionary Court to five years and one month in jail in a s
 
-📎 [阅读原文](https://variety.com/2026/tv/news/scott-herbst-lionsgate-president-television-group-1236932167/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/jafar-panahi-five-year-prison-term-new-ruling-1236932372/) — *Variety*
 
-### 3. How Kazu Hiro Transformed Tom Cruise Into ‘Digger’ With Prosthetics for His Belly, Nose and Chin
+### 3. Bunny Levine’s Final Film ‘Omi’ Premieres at Austin Film Festival – Watch the Trailer –  Film News in Brief
 
-[原文] Oscar-winning prosthetic makeup artist Kazu Hiro has been in the industry for over 30 years. He’s transformed Bradley Cooper, Gary Oldman, Charlize Theron and, most recently, Dwayne Johnson in “The Sm
+[原文] “Omi,” which will premiere at the Austin Film Festival on Oct. 30, features Bunny Levine in her final film appearance. Levine died on Aug. 20 at her home in Tarzana, California at the age of 97. “Omi,
 
-📎 [阅读原文](https://variety.com/2026/artisans/news/tom-cruise-prosthetics-digger-kazu-hiro-1236931707/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/film-news-in-brief-oct-26-2026-1236931417/) — *Variety*
 
-### 4. Apple TV’s ‘Guilty Creatures’ Series Adds Brian d’Arcy James, Reed Birney, Gus Birney (EXCLUSIVE)
+### 4. Connor Storrie in Talks to Play Villain Opposite Ryan Gosling in Marvel’s ‘Ghost Rider’
 
-[原文] The upcoming Apple TV series &#8220;Guilty Creatures&#8221; has added three recurring guest stars, Variety has learned exclusively. Brian d’Arcy James (“The Copenhagen Test,” “Rabbit Rabbit”), Reed Bi
+[原文] &#8220;Heated Rivalry&#8221; star Connor Storrie is in talks to play the villain opposite Ryan Gosling in Marvel&#8217;s &#8220;Ghost Rider&#8221; movie. Shawn Levy is directing the Marvel movie, from
 
-📎 [阅读原文](https://variety.com/2026/tv/news/apple-tv-guilty-creatures-brian-darcy-james-reed-gus-birney-1236932081/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/connor-storrie-ryan-gosling-marvel-ghost-rider-1236932383/) — *Variety*
 
-### 5. Anime Licensing Platform AniBiz Gets $6 Million Investment From Japan’s TBS Group, Toei Animation and TV Tokyo Holdings
+### 5. Kevin Bleyer, Emmy-winning ‘Daily Show’ Writer, Dies at 54 in Car Accident
 
-[原文] Nakama, the start-up behind anime licensing platform AniBiz.com, has raised an initial $6 million in funding from three of Japan&#8217;s top anime licensors: TBS Group, Toei Animation and TV Tokyo Hol
+[原文] Kevin Bleyer, a writer who worked on “The Daily Show” and won four Primetime Emmy Awards, a Peabody Award and a Writers Guild Award, died Sunday in a car accident in Millrift, Pennsylvania. He was 54.
 
-📎 [阅读原文](https://variety.com/2026/tv/news/anibiz-anime-licensing-investment-tbs-group-toei-animation-tv-tokyo-holdings-1236931739/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/kevin-bleyer-dead-daily-show-1236932357/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Matthew Lillard Calls His Superman 2 Character 'A Very James Gunn Moment'
+### 1. Obsession Director Releasing New Short Film on YouTube in Time for Halloween
 
-[原文] Superman 2: Man of Tomorrow brings Daredevil: Born Again actor Matthew Lillard into the wider James Gunn DCU, but comic fans might not recognize his character.
+[原文] Curry Barker, writer and director of the brilliantly twisted Obsession, is releasing a new short film on YouTube on October 29.
 
-📎 [阅读原文](https://www.ign.com/articles/matthew-lillard-superman-2-character-james-gunn-moment) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/obsession-director-releasing-new-short-film-on-youtube-in-time-for-halloween) — *IGN*
 
-### 2. Blue N.O.V.A. Introduces its Own (Literal) Halo to the PvE Shooter Genre | IGN Preview
+### 2. Life Is Strange Developer Don't Nod Blasted by Union Employees Over 'Illegal' Management Practices as Possible Layoffs Loom
 
-[原文] Built around a potentially brilliant mechanic that feels tailor-made for a PvE shooter, Blue N.O.V.A. has a ton of potential. But I left my hands-on demo and interview session with a few questions. Le
+[原文] An October 27 statement from employees of Don't Nod, the developer best known for making the original Life is Strange games, warn that the company is in danger of insolvency and layoffs, and accused i
 
-📎 [阅读原文](https://www.ign.com/articles/blue-nova-introduces-its-own-literal-halo-to-the-pve-shooter-genre-ign-preview) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/life-is-strange-developer-dont-nod-blasted-by-union-employees-over-illegal-management-practices-as-possible-layoffs-loom) — *IGN*
 
-### 3. Dragonproof Is a Perfect Fusion of Gargoyles and Buffy the Vampire Slayer
+### 3. Elden Ring Movie Runtime Could Reach Nearly 3 Hours
 
-[原文] Check out an exclusive preview of Dragonproof, a new fantasy graphic novel perfect for fans of Gargoyles, Buffy, and Fourth Wing.
+[原文] A few new details on the story for A24’s Elden Ring movie have emerged, including its possible runtime. And, if that remains the case, it’s going to be epic.
 
-📎 [阅读原文](https://www.ign.com/articles/dragonproof-is-a-perfect-fusion-of-gargoyles-and-buffy-the-vampire-slayer) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/elden-ring-movie-runtime-could-reach-nearly-3-hours) — *IGN*
 
-### 4. Wandering Cat's Cage Is a Dystopian Manga Worth Reading
+### 4. Call of Duty: Modern Warfare 4 Adds Series Favorite Map, Shipment, to Multiplayer
 
-[原文] We've got an exclusive preview of Wandering Cat's Cage, a haunting new dystopian manga from Fantagraphics and MSX: Mangasplaining Extra.
+[原文] Shipment, one of Call of Duty's most iconic maps, has officially been added to Modern Warfare 4's multiplayer.
 
-📎 [阅读原文](https://www.ign.com/articles/wandering-cats-cage-is-a-dystopian-manga-worth-reading) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/call-of-duty-modern-warfare-4-adds-series-favorite-map-shipment-to-multiplayer) — *IGN*
 
-### 5. Walmart Announces First Wave of 2026 Black Friday Deals, Starting November 12
+### 5. Save Over 50% Off the JBL Live Buds 3 Noise Canceling Wireless Earbuds Ahead of Black Friday
 
-[原文] Walmart has officially announced its 2026 Black Friday sale dates, starting November 12 with early access for Walmart+ members. Here is what to expect and whether you should wait it out for better dea
+[原文] These buds can do it all for Android users.
 
-📎 [阅读原文](https://www.ign.com/articles/walmart-announces-first-wave-of-2026-black-friday-deals-starting-november-12) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/jbl-live-buds-3-noise-canceling-wireless-earbuds-deal-october-2026) — *IGN*
 
 ---
 
@@ -320,40 +320,40 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Flock Reinstalled Its Cameras After Another City Canceled Its Contract
+### 1. The Sleek New Audi RS5 Feels Right at Home Lapping COTA
+
+[原文] In the hands of Nürburgring 24 winner and Formula Academy veteran Carrie Schreiner, the Audi RS5 effortlessly tamed the famed F1 track with its 630 hp and quattro AWD.
+The post The Sleek New Audi RS5 
+
+📎 [阅读原文](https://www.thedrive.com/news/the-sleek-new-audi-rs5-feels-right-at-home-lapping-cota) — *The Drive*
+
+### 2. GM’s Future Silverados Should Need Fewer Dealership Visits. One Computer Is the Key
+
+[原文] GM Senior VP of Vehicle Products Jaclyn McQuaid told The Drive, "The goal is to significantly reduce what would need a dealership visit versus what can be done OTA."
+The post GM&#8217;s Future Silvera
+
+📎 [阅读原文](https://www.thedrive.com/news/gms-future-silverados-should-need-fewer-dealership-visits-one-computer-is-the-key) — *The Drive*
+
+### 3. Volvo Dumbed-Down Seat Adjustment Knobs And I Actually Really Like It
+
+[原文] Volvo found a way to make seat control switches with fewer parts—and the result is a somewhat surprising ergonomic win.
+The post Volvo Dumbed-Down Seat Adjustment Knobs And I Actually Really Like It a
+
+📎 [阅读原文](https://www.thedrive.com/news/volvo-dumbed-down-seat-adjustment-knobs-and-i-actually-really-like-it) — *The Drive*
+
+### 4. The C8 Corvette Quietly Solved Screen Overload With a 30-Year-Old Idea
+
+[原文] The Corvette has a little-known feature that makes night driving way more bearable, and it harkens back to Saab, of all places.
+The post The C8 Corvette Quietly Solved Screen Overload With a 30-Year-O
+
+📎 [阅读原文](https://www.thedrive.com/news/the-c8-corvette-quietly-solved-screen-overload-with-a-30-year-old-idea) — *The Drive*
+
+### 5. Flock Reinstalled Its Cameras After Another City Canceled Its Contract
 
 [原文] Dayton, Minnesota told Flock no work orders were to be completed. The company put two cameras back into service anyway, without authorization.
 The post Flock Reinstalled Its Cameras After Another City
 
 📎 [阅读原文](https://www.thedrive.com/news/flock-reinstalled-its-cameras-after-another-city-canceled-its-contract) — *The Drive*
-
-### 2. Mazda Shuffles Big SUV Lineup to Get Sales Back on Track: TDS
-
-[原文] Mazda's big SUVs, made just for North America, haven't met expectations. It's responding to that with a marketing tweak.
-The post Mazda Shuffles Big SUV Lineup to Get Sales Back on Track: TDS appeared
-
-📎 [阅读原文](https://www.thedrive.com/news/mazda-shuffles-big-suv-lineup-to-get-sales-back-on-track-tds) — *The Drive*
-
-### 3. 2027 Audi Q9 First-Drive Review: Audi’s Biggest SUV Beats BMW and Mercedes on Family-Friendliness
-
-[原文] Audi is finally ready to compete for American families with the all-new Q9 three-row SUV, and its rivals should take notice.
-The post 2027 Audi Q9 First-Drive Review: Audi’s Biggest SUV Beats BMW and 
-
-📎 [阅读原文](https://www.thedrive.com/car-reviews/2027-audi-q9-first-drive-review) — *The Drive*
-
-### 4. Jeep Will Sell You a Grand Wagoneer With a Lockable Safe. It’s Basically a Gun Safe
-
-[原文] The locking safe hides under the center armrest, opens via a keypad or the Jeep's emergency key, and comes in option packages from $1,995.
-The post Jeep Will Sell You a Grand Wagoneer With a Lockable 
-
-📎 [阅读原文](https://www.thedrive.com/news/jeep-will-sell-you-a-grand-wagoneer-with-a-lockable-safe-its-basically-a-gun-safe) — *The Drive*
-
-### 5. Master Builder Made a BMW i3 Pickup Truck to Shame the Slate
-
-[原文] Electric pickups are just too expensive. So an engineer decided to make one himself out of the weirdest little BMW that ever existed.
-The post Master Builder Made a BMW i3 Pickup Truck to Shame the Sl
-
-📎 [阅读原文](https://www.thedrive.com/news/master-builder-made-a-bmw-i3-pickup-truck-to-shame-the-slate) — *The Drive*
 
 ---
 
@@ -363,35 +363,35 @@ The post Master Builder Made a BMW i3 Pickup Truck to Shame the Sl
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. As Election Day Nears, a Key House Race Remains in Flux
+### 1. Data Centers, Power Bills, Hurricanes: What’s at Stake for the Environment in Florida’s Senate Race
+
+[原文] When asked to choose, Florida’s likely voters have picked protecting the environment over economic growth by more than 2 to 1, a margin that surprised even the pollster who asked the question.&#160; I
+
+📎 [阅读原文](https://insideclimatenews.org/news/27102026/florida-senate-race-data-centers-power-bills-hurricanes/) — *Inside Climate News*
+
+### 2. As Election Day Nears, a Key House Race Remains in Flux
 
 [原文] NY-17: Fourth in a series on the environmental stakes behind one of the nation’s most fiercely contested congressional races. After the Democratic primary election in New York’s hotly contested 17th C
 
 📎 [阅读原文](https://insideclimatenews.org/news/27102026/new-york-17-key-house-race-data-centers-nuclear-power/) — *Inside Climate News*
 
-### 2. In Florida’s Gubernatorial Race, a Choice Between New Climate Policy or the Status Quo
+### 3. In Florida’s Gubernatorial Race, a Choice Between New Climate Policy or the Status Quo
 
 [原文] Florida’s gubernatorial race features two candidates with very different views on the environment and climate: One largely supports maintaining the status quo in state policy while the other advocates
 
 📎 [阅读原文](https://insideclimatenews.org/news/27102026/florida-governor-election-everglades/) — *Inside Climate News*
 
-### 3. Climate Activists Celebrate Lula’s Win in Brazil, but Warn the Fight Is Far From Over
+### 4. Climate Activists Celebrate Lula’s Win in Brazil, but Warn the Fight Is Far From Over
 
 [原文] Environmentalists worldwide are celebrating the re-election of Brazilian President Luiz Inácio Lula da Silva as a win for the Amazon’s future and global climate policy.&#160; The three-term incumbent 
 
 📎 [阅读原文](https://insideclimatenews.org/news/26102026/brazil-presidential-election-environmental-victory/) — *Inside Climate News*
 
-### 4. Battleground Ballots
+### 5. Battleground Ballots
 
 [原文] Welcome to Inside Climate, a podcast from the staff of Inside Climate News. This year’s midterm elections are quickly approaching and control of Congress and state houses across the nation is up for g
 
 📎 [阅读原文](https://insideclimatenews.org/news/26102026/inside-climate-podcast-midterm-elections/) — *Inside Climate News*
-
-### 5. Ahead of Midterms, Republicans Court Iowa Farmers With Fuel Plans
-
-[原文] Intense rainfall delayed Iowa’s harvest by nearly three weeks this year, but the combines are finally out in full force. So are top Trump administration officials. U.S. Secretary of Agriculture Brooke
-
-📎 [阅读原文](https://insideclimatenews.org/news/26102026/ahead-of-midterms-republicans-court-iowa-farmers-with-fuel-plans/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post Master Builder Made a BMW i3 Pickup Truck to Shame the Sl
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Metallica’s Kirk Hammett Reads Edgar Allen Poe’s ‘The Raven’
+### 1. Beyoncé’s Super Bowl Halftime Revolutionized How to Deliver a Knockout Performance
+
+[原文] Jay-Z is taking the biggest sports stage in 2027. We look back at how his wife shifted the bar for the halftime show in 2013
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/beyonce-super-bowl-halftime-show-flashback-1235648558/) — *Rolling Stone*
+
+### 2. Drake ‘Janice STFU’ Copyright Lawsuit is Withdrawn
+
+[原文] Less than two weeks after an Oregon producer claimed he wrote the chorus to one of this year’s biggest hits, the lawsuit is dead for now
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/drake-janice-stfu-lawsuit-dismissed-1235648586/) — *Rolling Stone*
+
+### 3. Metallica’s Kirk Hammett Reads Edgar Allen Poe’s ‘The Raven’
 
 [原文] Quoth the guitarist ...
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/metallica-kirk-hammett-edgar-allen-poe-the-raven-1235648680/) — *Rolling Stone*
 
-### 2. Foo Fighters Play ‘Window,’ Dave Grohl Talks Taylor Hawkins on ‘Kimmel’
+### 4. Foo Fighters Play ‘Window,’ Dave Grohl Talks Taylor Hawkins on ‘Kimmel’
 
 [原文] Band is performing on the show every night this week
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/foo-fighters-jimmy-kimmel-window-taylor-hawkins-1235648487/) — *Rolling Stone*
 
-### 3. David Bowie’s 1978 Tour to Become Immersive Experience in Berlin
+### 5. David Bowie’s 1978 Tour to Become Immersive Experience in Berlin
 
 [原文] Filmmaker Brett Morgen, who made Moonage Daydream, found footage for Stage that will be projected on three screens with concert lighting in Berlin’s Uber Arena
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/davie-bowie-stage-immersive-experience-berlin-1235648423/) — *Rolling Stone*
-
-### 4. Kiss Take Their Curtain Call in New ‘End of the Road’ Doc Trailer
-
-[原文] The film, premiering Nov. 19, follows the legendary band in the lead-up to the last show on their 2023 farewell tour
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/kiss-end-of-the-road-tour-documentary-trailer-1235648469/) — *Rolling Stone*
-
-### 5. Ryan Gosling’s Band Dead Man’s Bones Get ‘Lost in the Night’ on First Song in 17 Years
-
-[原文] Gosling and his bandmate, Zach Shields, haven’t released any music since their 2009 debut album
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/ryan-gosling-dead-mans-bones-new-song-lost-in-the-night-1235648447/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post Master Builder Made a BMW i3 Pickup Truck to Shame the Sl
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Philippine Travel Tax Repeal Risks Tourism Funding Gap
+### 1. A New CTO, a Nasdaq Move and AI Agents: Hilton Makes Its Tech Pitch
+
+[原文] Hilton wants to be valued like a technology platform. Owners will judge it by whether lower distribution costs actually reach them.
+
+📎 [阅读原文](https://skift.com/2026/10/27/a-new-cto-a-nasdaq-move-and-ai-agents-hilton-makes-its-tech-pitch/) — *Skift*
+
+### 2. Philippine Travel Tax Repeal Risks Tourism Funding Gap
 
 [原文] Scrapping the Philippines’ travel tax would make overseas trips cheaper but strip its tourism infrastructure agency of its main revenue source, with no replacement in the proposed 2027 budget.
 
 📎 [阅读原文](https://skift.com/2026/10/27/philippine-travel-tax-repeal-risks-tourism-funding-gap/) — *Skift*
 
-### 2. JetBlue CEO Reaffirms Profit Targets, Says Distressed Bonds Reflect a ‘Significant Disconnect’
+### 3. JetBlue CEO Reaffirms Profit Targets, Says Distressed Bonds Reflect a ‘Significant Disconnect’
 
 [原文] JetBlue shares bounced back after its third-quarter earnings calmed investor fears over a possible Chapter 11 bankruptcy.
 
 📎 [阅读原文](https://skift.com/2026/10/27/jetblue-ceo-reaffirms-profit-targets-says-distressed-bonds-reflect-a-significant-disconnect/) — *Skift*
 
-### 3. Best Western’s Parent Changes Its Name Again: From BWH to WorldHotels
+### 4. Best Western’s Parent Changes Its Name Again: From BWH to WorldHotels
 
 [原文] The parent company of the Best Western family of hotels has decided to rename itself WorldHotels to appeal to a broader range of travelers. Its toughest audience may be its own members.
 
 📎 [阅读原文](https://skift.com/2026/10/27/best-westerns-parent-changes-its-name-again-from-bwh-to-worldhotels/) — *Skift*
 
-### 4. Royal Caribbean Says Sandals Deal Can Help It Win Half of Guests’ Travel Spend
+### 5. Royal Caribbean Says Sandals Deal Can Help It Win Half of Guests’ Travel Spend
 
 [原文] Royal Caribbean Group wants a bigger slice of travelers’ wallets. Close to half of guests this year are expected to be repeat customers, but executives see room for growth aided by plans to purchase a
 
 📎 [阅读原文](https://skift.com/2026/10/27/royal-caribbean-loyalty-push-third-quarter-earnings/) — *Skift*
-
-### 5. Travel’s New Creator Economy: Why Brands Need Smarter Systems
-
-[原文] Travel brands are pouring more money into creators, but spend alone won’t build an edge. The advantage will come from learning faster, measuring better, and turning what works into a repeatable system
-
-📎 [阅读原文](https://skift.com/2026/10/27/travels-new-creator-economy-why-brands-need-smarter-systems/) — *Skift*
 
 ---
 
