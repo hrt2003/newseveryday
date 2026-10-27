@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年10月27日** | 生成时间: 2026-10-27 12:19
+**2026年10月27日** | 生成时间: 2026-10-27 19:49
 
 ---
 
@@ -16,23 +16,23 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Lula wins fourth term in dramatic Brazil election comeback
+### 1. Turnout so far highest in decades as Israelis vote in pivotal election
 
-[原文] The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.
+[原文] The elections - the first since the Hamas-led attacks on Israel and the wars which followed - are widely seen as a referendum on Benjamin Netanyahu.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Ex-FBI chief James Comey faces federal charges for third time
+### 2. Lula's comeback in Brazil dents Trump's ambitions for Latin America
 
-[原文] Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.
+[原文] The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. Jay-Z to perform at Super Bowl half-time show
+### 3. Truce begins in Ukraine city where residents ate weeds to survive
 
-[原文] Jay-Z has been involved with the show for years but has never before performed at the NFL championship game.
+[原文] The Oleshky ceasefire, which the White House said was secured by US First Lady Melania Trump, is meant to allow aid to get in and civilians to get out.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 4. Jordan carries out deadly strike in Syria in retaliation for church attack
 
@@ -40,11 +40,11 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Trump administration illegally fired James Comey's daughter, judge rules
+### 5. Ex-FBI chief James Comey faces federal charges for third time
 
-[原文] Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director.
+[原文] Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickle-down effect'
+### 1. Coca-Cola hikes earnings outlook, even as it sees lackluster demand in North America
 
-[原文] With the AI trade sputtering of late and interest rates on the rise, Anthropic's IPO is taking on outsized importance.
+[原文] Coca-Cola stock has climbed about 32% so far this year, raising the beverage company's market cap to roughly $398 billion.
 
-📎 [阅读原文](https://www.cnbc.com/2026/10/26/anthropic-ipo-might-trigger-tech-reset-if-ipo-underperforms.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/27/coca-cola-ko-q3-2026-earnings.html) — *CNBC*
 
-### 2. Judge fast-tracks DOJ's Alaska Senate lawsuit as Peltola seeks dismissal before Election Day
+### 2. Fed expected to hold rates steady, but Warsh may point way to more hikes
 
-[原文] The winner of the Alaska Senate election could determine whether Republicans or Democrats have a majority in the Senate in the next Congress.
+[原文] Markets overwhelmingly expect no change in benchmark interest rates following September's  increase.
 
-📎 [阅读原文](https://www.cnbc.com/2026/10/26/alaska-senate-peltola-doj-lawsuit-election-sullivan.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/27/federal-reserve-rates-kevin-warsh.html) — *CNBC*
 
-### 3. HSBC reports third-quarter pretax profit in line with estimates on net income boost
+### 3. Boeing narrows third-quarter loss as defense sales rise, but focus remains on 737 Max production
 
-[原文] HSBC announced its third-quarter earnings on Tuesday.
+[原文] Boeing is set to brief investors on its aircraft production outlook when it reports quarterly results before the market opens Tuesday.
 
-📎 [阅读原文](https://www.cnbc.com/2026/10/27/hsbc-third-quarter-profit-.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html) — *CNBC*
 
-### 4. Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push
+### 4. Anthropic's IPO is risky business
 
-[原文] Microsoft is trying to balance a rapid AI infrastructure build-out with capital efficiency.
+[原文] Anthropic's much-anticipated IPO is giving potential investors some perspective on the risky business of artificial intelligence.
 
-📎 [阅读原文](https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/27/anthropic-five-surprising-risks-s1.html) — *CNBC*
 
-### 5. China industrial profits post strongest growth in three months as tech boom widens economic divide
+### 5. A 'canary in the coal mine': Measles resurgence exposes weaknesses in U.S. public health, experts say
 
-[原文] The global AI boom and higher commodity prices stemming from the war in Iran have lifted earnings at miners, chipmakers and raw-material suppliers.
+[原文] The measles resurgence exposes the U.S.' public health weaknesses, such as declining vaccination rates and waning trust in health institutions, experts say.
 
-📎 [阅读原文](https://www.cnbc.com/2026/10/27/china-industrial-profits-september-ai-tech-exports-.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/27/us-measles-public-health.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. How OpenAI turned its coding tools into dots, an always-on personal assistant
+### 1. Nvidia backs Indian startup helping companies run AI models with fewer GPUs
+
+[原文] Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.
+
+📎 [阅读原文](https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/) — *TechCrunch*
+
+### 2. X is nudging users to promote their posts with a pointing hand, and people are confused
+
+[原文] Whose hand is behind this travesty?
+
+📎 [阅读原文](https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/) — *TechCrunch*
+
+### 3. How OpenAI turned its coding tools into dots, an always-on personal assistant
 
 [原文] Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.
 
 📎 [阅读原文](https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/) — *TechCrunch*
 
-### 2. Cohere says Alibaba’s Qwen model tried to send a file to Beijing
+### 4. Cohere says Alibaba’s Qwen model tried to send a file to Beijing
 
 [原文] An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has 
 
 📎 [阅读原文](https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/) — *TechCrunch*
 
-### 3. Databricks co-founder shares his secrets for winning big enterprise customers
+### 5. Databricks co-founder shares his secrets for winning big enterprise customers
 
 [原文] Turns out selling to big companies isn’t about having the shiniest tech: It’s about hitching a ride on a giant’s sales team.
 
 📎 [阅读原文](https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/) — *TechCrunch*
-
-### 4. Watch out, YouTube — Instagram goes from short-form to 90-minute videos
-
-[原文] After years in which every social platform (even LinkedIn!) aggressively pursued short-form video, this is a notable shift in strategy for Instagram.
-
-📎 [阅读原文](https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/) — *TechCrunch*
-
-### 5. Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it
-
-[原文] A small number of early adopters of the much-hyped new foldable phone from Apple have complained of screens cracking.
-
-📎 [阅读原文](https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Kane ends England's 25-year Ballon d'Or wait - how he bucked the trend
-
-[原文] Harry Kane becomes the first English player to win the Ballon d'Or since Michael Owen in 2001 after being crowned the world's best player at a ceremony in London.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 2. London City's Putellas wins record-equalling third Ballon d'Or
-
-[原文] Barcelona and Spain midfielder Alexia Putellas wins the Ballon d'Or Feminin for a record-equalling third time.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cqp9gky38lj3o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 3. Ballon d'Or winner Kane's best Bundesliga goals
-
-[原文] Watch Harry Kane's best goals from the 2025/26 Bundesliga season with Bayern, as the England striker is crowned the men's 2026 Ballon d'Or winner.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cmd93gqn8119o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. Lancashire consider Anderson farewell amid fan unrest
-
-[原文] Lancashire will look into organising a farewell for bowler James Anderson amid fan unrest over his departure from the club.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cme8rw2gkd9go?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Howe and Nagelsmann high on Man Utd's list if Carrick sacked
+### 1. Carrick arrives at training ground with future unclear
 
 [原文] BBC Sport looks at who could replace Michael Carrick at Manchester United if the head coach is sacked.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cqdr8zv5dg42o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. Ranking England's Ballon d'Or winners - how does Kane compare?
+
+[原文] From Stanley Matthews to Harry Kane, how do England's Ballon d'Or winners rank?
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/ckx2qdxgzzz7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. Abhishek hits 35-ball ton as India hammer New Zealand
+
+[原文] Abhishek Sharma's 113 from 38 balls helps India chase a target of 199 in just 13.2 overs against New Zealand.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cvlyd05g6wypo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 4. 'I would do it again' - Kaepernick reflects on price of protest, 10 years on
+
+[原文] In his first interview with BBC Sport since taking the knee for the first time, Colin Kaepernick reflects on his journey.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/american-football/articles/cm3el5dnpxp2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 5. How much of Antonelli's success is down to his ability? - F1 Q&A
+
+[原文] BBC F1 correspondent Andrew Benson answers your latest questions after the United States Grand Prix.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/cmde8xjl3xpwo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Tokyo Jury President Rolf de Heer on FIAPF’s New A-List: ‘It Matters a Great Deal to Some People, and Not at All to Others’
+### 1. ‘Barbara Forever’ Director Brydie O’Connor on Celebrating a Lesbian Icon Who Did It All – and Getting Support From Christine Vachon
 
-[原文] FIAPF’s decision to make A-list status official, with Tokyo among the 17 festivals named, is unlikely to change much about the event, according to the filmmaker leading its competition jury. Australia
+[原文] Lesbian artist Barbara Hammer felt invisible for most of her life. She started making films in the late 1960s, but emerging queer filmmakers often face the same challenges today. “I really felt her fr
 
-📎 [阅读原文](https://variety.com/2026/film/festivals/tokyo-jury-chief-rolf-de-heer-fiapf-new-a-list-1236931842/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/barbara-forever-brydie-oconnor-queer-christine-vachon-1236930304/) — *Variety*
 
-### 2. Jon Stewart Trolls Trump’s Nicki Minaj Fixation After ‘Beautiful Ass’ Comment: ‘He’s Like Yogi Bear Floating Towards a Pie’
+### 2. David Bowie Immersive Concert Experience ‘Stage’ From Brett Morgen to World Premiere at Berlin Film Festival
 
-[原文] On Monday night’s episode of “The Daily Show,” Jon Stewart trolled Donald Trump’s fixation on Nicki Minaj as the president’s odd remarks about the rapper&#8217;s “beautiful ass” have been making the r
+[原文] The world premiere of the David Bowie immersive concert experience, “Stage,” has been set for Feb. 14 at Berlin’s Uber Arena. It will play during the Berlin Film Festival, representing a rare foray in
 
-📎 [阅读原文](https://variety.com/2026/tv/news/jon-stewart-nicki-minaj-trump-daily-show-1236931839/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/david-bowie-immersive-concert-experience-stage-berlin-1236931930/) — *Variety*
 
-### 3. ‘Ghosts: The Possession of Button House’ Scares Up U.K., Ireland Box Office Win
+### 3. Noah Wyle Named People’s 2026 Sexiest Man Alive
 
-[原文] Lionsgate U.K.&#8217;s horror-comedy &#8220;Ghosts: The Possession of Button House&#8221; debuted at the summit of the U.K. and Ireland box office, collecting £2.4 million ($3.2 million) across its op
+[原文] After heating up emergency rooms since 1994, Noah Wyle has officially been named People’s Sexiest Man Alive for the first time. In his People interview for the prize, &#8220;The Pitt&#8221; star said 
 
-📎 [阅读原文](https://variety.com/2026/film/box-office/ghosts-the-possession-of-button-house-uk-ireland-box-office-1236931821/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/noah-wyle-people-2026-sexiest-man-alive-1236931645/) — *Variety*
 
-### 4. Taylor Swift, Inducted Into Nashville Songwriters Hall of Fame, Says ‘There Is No Music Community Like This Music Community. I Know, I Checked All the Communities’
+### 4. ‘Tokyo Vice’ Producer, Netflix Executive Urge Changes to Japan’s Production Incentive at MPA Seminar as Government Readies Unified Content Body
 
-[原文] Taylor Swift looked back on her earliest days crafting songs in Music City as she was inducted Monday into the Nashville Songwriters Hall of Fame, becoming its youngest member at 36. Swift was inducte
+[原文] “Tokyo Vice” producer Alex Boden and Netflix production policy director Deb Richards urged changes to Japan’s international production incentive at the Motion Picture Association’s annual seminar at t
 
-📎 [阅读原文](https://variety.com/2026/music/news/taylor-swift-inducted-speech-nashville-songwriters-hall-fame-1236931794/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/tokyo-vice-producer-netflix-exec-urge-japan-incentive-reform-mpa-1236931907/) — *Variety*
 
-### 5. Jay-Z to Perform at Apple Music 2027 Super Bowl Halftime Show
+### 5. Netflix Docuseries ‘The One About Matthew Perry’ Is a Tragic, Mournful Portrait of Addiction: TV Review
 
-[原文] Jay-Z is slated to perform at the Apple Music Super Bowl LXI Halftime Show, taking place on Feb. 14, 2027, at SoFi Stadium in Inglewood, California. &#8220;From Reasonable Doubt to standing on the Sup
+[原文] There are not a lot of famous people in “The One About Matthew Perry.” None of the late actor’s “Friends” castmates sat for an interview for the three-part Netflix docuseries; neither did Perry’s long
 
-📎 [阅读原文](https://variety.com/2026/music/news/jay-z-to-perform-2027-super-bowl-halftime-show-1236876986/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/reviews/the-one-about-matthew-perry-review-netflix-1236931448/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. This TSA-Compliant Daran 89.6Wh 100W LiFePO4 Power Station Drops to Just $49.99
+### 1. Mass Effect Has Been Taken Away Just When We Needed It Most
+
+[原文] Mass Effect: Universe looked great, and BioWare's closure means it's been taken away just when we needed it most.
+
+📎 [阅读原文](https://www.ign.com/articles/mass-effect-has-been-taken-away-just-when-we-needed-it-most) — *IGN*
+
+### 2. Silent Hill Remake Coming 2027, First Cast Details Leaked
+
+[原文] The 1999 PS1 horror game is getting the Bloober treatment, and a new leak from MP1ST suggests work has been underway since 2022 and the game is targeting a 2027 launch.
+
+📎 [阅读原文](https://www.ign.com/articles/silent-hill-remake-coming-2027-cast-details-leaked) — *IGN*
+
+### 3. Pokemon Unite to Be Taken Offline in 2027, In-Game Sales Suspended Immediately
+
+[原文] Pokemon Unite will end service on March 23, 2027, following the game’s final competition, the Aeos Crown 2027, just two days prior in Tokyo.
+
+📎 [阅读原文](https://www.ign.com/articles/pokemon-unite-offline-2027-in-game-sales-suspended) — *IGN*
+
+### 4. This TSA-Compliant Daran 89.6Wh 100W LiFePO4 Power Station Drops to Just $49.99
 
 [原文] The smallest power station, weighing in at under 3 pounds.
 
 📎 [阅读原文](https://www.ign.com/articles/daran-lifepo4-power-station-deal-october-2026) — *IGN*
 
-### 2. Amazon's Lord of the Rings Gandalf Costume Has Dropped to Its Lowest Price of the Year
+### 5. Amazon's Lord of the Rings Gandalf Costume Has Dropped to Its Lowest Price of the Year
 
 暂无摘要。
 
 📎 [阅读原文](https://www.ign.com/articles/lord-of-the-rings-gandalf-costume-price-drop-halloween-2026) — *IGN*
-
-### 3. T-Mobile Is Offering $1,000 Off the Latest Apple iPhone 18 Pro and Pro Max
-
-[原文] Get the new iPhone 18 for less than $200.
-
-📎 [阅读原文](https://www.ign.com/articles/t-mobile-apple-iphone-18-deal-explained) — *IGN*
-
-### 4. Dead by Daylight Devs Explain Chucky's Exit From Stores and Says Horror Icons Removed Due to Licenses Have 'Open Invitation' to Rejoin
-
-[原文] Dead by Daylight developer Behaviour Interactive has responded after confirming Chucky would be removed from stores last week, explaining that horror icons will "continue to have an open invitation to
-
-📎 [阅读原文](https://www.ign.com/articles/dead-by-daylight-devs-explain-chuckys-exit-from-stores-and-says-horror-icons-removed-due-to-licenses-have-open-invitation-to-rejoin) — *IGN*
-
-### 5. You Can Play Buckshot Roulette in Real Life at this Tokyo Cafe — and Even Drink an Arctic Eggs Cocktail
-
-[原文] The Ukiyo Game Bar in Tokyo is going viral for its unique guest experience that lets customers play Buckshot Roulette in real life… well, sort of.
-
-📎 [阅读原文](https://www.ign.com/articles/you-can-play-buckshot-roulette-in-real-life-at-this-tokyo-cafe-and-even-drink-an-arctic-eggs-cocktail) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post Everybody Knows the Chevrolet Corvette ZR1 Is Special appeared first on
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Climate Activists Celebrate Lula’s Win in Brazil, but Warn the Fight Is Far From Over
+### 1. As Election Day Nears, a Key House Race Remains in Flux
+
+[原文] NY-17: Fourth in a series on the environmental stakes behind one of the nation’s most fiercely contested congressional races. After the Democratic primary election in New York’s hotly contested 17th C
+
+📎 [阅读原文](https://insideclimatenews.org/news/27102026/new-york-17-key-house-race-data-centers-nuclear-power/) — *Inside Climate News*
+
+### 2. In Florida’s Gubernatorial Race, a Choice Between New Climate Policy or the Status Quo
+
+[原文] Florida’s gubernatorial race features two candidates with very different views on the environment and climate: One largely supports maintaining the status quo in state policy while the other advocates
+
+📎 [阅读原文](https://insideclimatenews.org/news/27102026/florida-governor-election-everglades/) — *Inside Climate News*
+
+### 3. Climate Activists Celebrate Lula’s Win in Brazil, but Warn the Fight Is Far From Over
 
 [原文] Environmentalists worldwide are celebrating the re-election of Brazilian President Luiz Inácio Lula da Silva as a win for the Amazon’s future and global climate policy.&#160; The three-term incumbent 
 
 📎 [阅读原文](https://insideclimatenews.org/news/26102026/brazil-presidential-election-environmental-victory/) — *Inside Climate News*
 
-### 2. Battleground Ballots
+### 4. Battleground Ballots
 
 [原文] Welcome to Inside Climate, a podcast from the staff of Inside Climate News. This year’s midterm elections are quickly approaching and control of Congress and state houses across the nation is up for g
 
 📎 [阅读原文](https://insideclimatenews.org/news/26102026/inside-climate-podcast-midterm-elections/) — *Inside Climate News*
 
-### 3. Ahead of Midterms, Republicans Court Iowa Farmers With Fuel Plans
+### 5. Ahead of Midterms, Republicans Court Iowa Farmers With Fuel Plans
 
 [原文] Intense rainfall delayed Iowa’s harvest by nearly three weeks this year, but the combines are finally out in full force. So are top Trump administration officials. U.S. Secretary of Agriculture Brooke
 
 📎 [阅读原文](https://insideclimatenews.org/news/26102026/ahead-of-midterms-republicans-court-iowa-farmers-with-fuel-plans/) — *Inside Climate News*
-
-### 4. Production Agriculture Is Driving Grasslands Loss Across North America
-
-[原文] Commodity crops are continuing to eat up the vast, near-mythical sweep of North American grasslands, with nearly 2 million acres being plowed under every year, mostly for corn, soybeans and wheat, acc
-
-📎 [阅读原文](https://insideclimatenews.org/news/26102026/production-agriculture-is-driving-grasslands-loss-across-north-america/) — *Inside Climate News*
-
-### 5. Amid Iowa’s Water Crisis, Factory Farms Get a Pass on Environmental Permitting
-
-[原文] Feeding the Beast: Third in a series about lax regulation, corporate influence and the heavily polluting, yet nearly untouchable American meat industry. ESTHERVILLE, Iowa—By the time rainwater rolled 
-
-📎 [阅读原文](https://insideclimatenews.org/news/25102026/iowa-factory-farms-manure-water-pollution/) — *Inside Climate News*
 
 ---
 
@@ -401,17 +401,17 @@ The post Everybody Knows the Chevrolet Corvette ZR1 Is Special appeared first on
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Pause AI in Schools. But Not Before You Do This First.
+### 1. AI, Elections and the Making of an Informed Electorate
+
+[原文] As AI chatbots answer voters’ questions in seconds, schools need to teach students to ask where those answers come from — and to reach their own ...
+
+📎 [阅读原文](https://edsurge.com/news/ai-elections-and-the-making-of-an-informed-electorate) — *EdSurge*
+
+### 2. Pause AI in Schools. But Not Before You Do This First.
 
 [原文] Ban or no ban, students are going to use AI. Let’s make sure they have the skills to navigate it, says Common Sense Media’s chief program officer.
 
 📎 [阅读原文](https://edsurge.com/news/pause-ai-in-schools-but-not-before-you-do-this-first) — *EdSurge*
-
-### 2. What Happens to High-Impact Tutoring When the Pandemic Money Is Gone?
-
-[原文] With pandemic funding gone, districts are scrambling to maintain their “high-dosage” tutoring programs.
-
-📎 [阅读原文](https://edsurge.com/news/what-happens-to-high-impact-tutoring-when-the-pandemic-money-is-gone) — *EdSurge*
 
 ### 3. How AI Is Breaking the Way We Reward High-Achieving Students
 
@@ -419,17 +419,17 @@ The post Everybody Knows the Chevrolet Corvette ZR1 Is Special appeared first on
 
 📎 [阅读原文](https://edsurge.com/news/how-ai-is-breaking-the-way-we-reward-high-achieving-students) — *EdSurge*
 
-### 4. Why the Jump to Kindergarten Is So Hard — and How to Fix It
+### 4. What Happens to High-Impact Tutoring When the Pandemic Money Is Gone?
+
+[原文] With pandemic funding gone, districts are scrambling to maintain their “high-dosage” tutoring programs.
+
+📎 [阅读原文](https://edsurge.com/news/what-happens-to-high-impact-tutoring-when-the-pandemic-money-is-gone) — *EdSurge*
+
+### 5. Why the Jump to Kindergarten Is So Hard — and How to Fix It
 
 [原文] Better coordination between school districts and early learning programs is essential to a smoother leap, says researcher David Jacobson.
 
 📎 [阅读原文](https://edsurge.com/news/why-the-jump-to-kindergarten-is-so-hard-and-how-to-fix-it) — *EdSurge*
-
-### 5. Can High-Impact Tutoring Survive Post-Pandemic Funding Loss?
-
-[原文] Some districts have reduced or paused “high-dosage” tutoring, while others are finding ways to save the most effective aspects of their programs.
-
-📎 [阅读原文](https://edsurge.com/news/can-high-impact-tutoring-survive-post-pandemic-funding-loss) — *EdSurge*
 
 ---
 
@@ -477,35 +477,35 @@ The post Everybody Knows the Chevrolet Corvette ZR1 Is Special appeared first on
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Beaten-Down JetBlue Shares Rebound as Carrier Says 2027 Profit Is on Track
+### 1. TKO’s CEO Makes Case for $2 Billion Bid on Service Properties’ Hotels
+
+[原文] TKO wants to buy a hotel portfolio roughly four times the size of its own. Service Properties Trust hasn't responded. TKO CEO Jim Koehler believes renovations will boost performance.
+
+📎 [阅读原文](https://skift.com/2026/10/27/tkos-ceo-makes-case-for-2-billion-bid-on-service-properties-hotels/) — *Skift*
+
+### 2. Radisson’s First Net Zero Hotel in Africa Signals Shift From Leased to Managed Properties
+
+[原文] Radisson’s net zero push is moving from hotels it leases to hotels it manages. In South Africa, the hardest part wasn’t the building investments but buying the necessary renewable power.
+
+📎 [阅读原文](https://skift.com/2026/10/27/radissons-first-net-zero-hotel-in-africa-signals-shift-from-leased-to-managed-properties/) — *Skift*
+
+### 3. Beaten-Down JetBlue Shares Rebound as Carrier Says 2027 Profit Is on Track
 
 [原文] JetBlue shares rebounded after market on Monday after the carrier reaffirmed its long-term profit goals.
 
 📎 [阅读原文](https://skift.com/2026/10/26/beaten-down-jetblue-shares-rebound-as-carrier-says-2027-profit-is-on-track/) — *Skift*
 
-### 2. MakeMyTrip Uses an Air Travel Dip to Reach Beyond Flights
+### 4. MakeMyTrip Uses an Air Travel Dip to Reach Beyond Flights
 
 [原文] The fight in Indian online travel is moving away from flights and hotels toward the supply nobody has fully digitized yet.
 
 📎 [阅读原文](https://skift.com/2026/10/26/makemytrip-uses-an-air-travel-dip-to-reach-beyond-flights/) — *Skift*
 
-### 3. Airlines Are Counting on a Starlink Tailwind
+### 5. Airlines Are Counting on a Starlink Tailwind
 
 [原文] Airline executives are betting that Starlink will be one way to grow revenue and attract more customers to offset soaring fuel costs.
 
 📎 [阅读原文](https://skift.com/2026/10/26/airlines-are-counting-on-a-starlink-tailwind/) — *Skift*
-
-### 4. Why Expedition Travel Is Redefining Luxury: Watch Video
-
-[原文] At Skift Global Forum 2026, Lindblad Expeditions CEO Natalya Leahy explained how expedition travel is redefining what luxury is. Affluent travelers increasingly value expert guidance, personalization,
-
-📎 [阅读原文](https://skift.com/2026/10/26/why-expedition-travel-is-redefining-luxury-watch-video/) — *Skift*
-
-### 5. UAE Travelers Hesitate After Houthi Attacks But Aren’t Canceling
-
-[原文] Travelers in the region are adapting to conflict rather than retreating from it, with flexible fares in demand and, for some, shorter booking windows.
-
-📎 [阅读原文](https://skift.com/2026/10/26/uae-travelers-hesitate-after-houthi-attacks-but-arent-canceling/) — *Skift*
 
 ---
 
