@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年10月28日** | 生成时间: 2026-10-28 12:50
+**2026年10月28日** | 生成时间: 2026-10-28 20:24
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Norway and Finland leaders hold rare call with Putin
+### 1. Luxury cruise passengers stranded in Cambodia due to soaring fuel costs
 
-[原文] An end to the conflict in Ukraine "will not be achieved through silence," Finland's President Alexander Stubb said.
+[原文] The Villa Vie Odyssey suspended its voyage and is working with passengers on "temporary living arrangements".
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Ceasefire extended across Ukraine's Kherson region, officials say
+### 2. Serbian shot dead after attacking officer outside Israeli embassy, minister says
+
+[原文] Authorities say the attacker in Belgrade was an underage male who was being monitored by security services.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 3. Tanzania celebrates first natural gas discovery in more than 10 years
+
+[原文] The energy minister described it as a "major milestone" for the East African nation.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 4. Kenyan family protest extradition hearing delay of ex-British soldier accused of murdering kin
+
+[原文] No official reason has been given for postponing next month’s hearing to May 2027, family says.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cmly073ql392o?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Ceasefire extended across Ukraine's Kherson region, officials say
 
 [原文] The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 3. Mbappé sorry for 'ill-judged' Mao remark after backlash in China
-
-[原文] The France star had referred to the former Chinese leader as a "dictator" during an interview about memes.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 4. Lula's comeback in Brazil dents Trump's ambitions for Latin America
-
-[原文] The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 5. Dutch zookeeper dies after being mauled by leopard
-
-[原文] The woman began her career at the park when she was 17 and had worked there on-and-off for four decades.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump says Iran war will end 'when I want it to' as costs reportedly balloon to $47 billion
+### 1. Google alters its cloud playbook, enlisting partners to sell more AI chips
+
+[原文] Google is opening its TPU business beyond its own cloud as custom chips become a bigger engine for growth.
+
+📎 [阅读原文](https://www.cnbc.com/2026/10/28/google-alters-cloud-playbook-turning-to-partners-to-sell-more-ai-chips.html) — *CNBC*
+
+### 2. At least 30 people reported dead in high-speed Spain train crash
+
+[原文] It is the second deadly high-speed train collision in Spain this year.
+
+📎 [阅读原文](https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html) — *CNBC*
+
+### 3. Trump says Iran war will end 'when I want it to' as costs reportedly balloon to $47 billion
 
 [原文] Trump's statement comes as a report from The Hill revealed that the costs of the Iran conflict has ballooned to $47 billion.
 
 📎 [阅读原文](https://www.cnbc.com/2026/10/28/us-iran-war-trump-hormuz-costs-centcom.html) — *CNBC*
 
-### 2. Israel election appears to have no clear winner with Netanyahu, opponent Eisenkot far short of majorities
+### 4. Mortgage rates fell for the second straight week, but more borrowers still sought savings in riskier loans
+
+[原文] Mortgage rates have fallen over the past two weeks, but demand is only slightly higher, and more borrowers are looking for savings in riskier loans.
+
+📎 [阅读原文](https://www.cnbc.com/2026/10/28/mortgage-rates-fell-for-the-second-straight-week.html) — *CNBC*
+
+### 5. Israeli bonds, shekel fall as election leaves Netanyahu and others far short of majorities
 
 [原文] Exit polls show Prime Minister Benjamin Netanyahu's alliance and Gadi Eisenkot's opposition bloc both well off the numbers needed to form a governing majority.
 
 📎 [阅读原文](https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html) — *CNBC*
-
-### 3. Meta- and Google-backed Jio Platforms’ shares soar over 21% on trading debut after record IPO
-
-暂无摘要。
-
-📎 [阅读原文](https://www.cnbc.com/2026/10/28/jio-ipo-india-listing-.html) — *CNBC*
-
-### 4. SK Hynix shares soar over 8% as profit beats, chipmaker to return $25 billion to investors
-
-[原文] Shares of South Korean chipmaker SK Hynix soared over 8% on Wednesday as third-quarter profit sharply beats estimates.
-
-📎 [阅读原文](https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html) — *CNBC*
-
-### 5. Indian investors rush to Nvidia, SpaceX, Apple as local trading apps roll out access to U.S. stocks
-
-[原文] Major Indian brokerages are providing retail investors access to U.S. stocks at a time when the local market has been battered.
-
-📎 [阅读原文](https://www.cnbc.com/2026/10/28/india-us-stocks-retail-access.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more
+### 1. Jio shares surge 21% in market debut after blockbuster India IPO
+
+[原文] Jio has debuted as India's second-most valuable listed company, behind its parent, Reliance Industries.
+
+📎 [阅读原文](https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/) — *TechCrunch*
+
+### 2. VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more
 
 [原文] Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.
 
 📎 [阅读原文](https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/) — *TechCrunch*
 
-### 2. Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication
+### 3. Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication
 
 [原文] A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.
 
 📎 [阅读原文](https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/) — *TechCrunch*
 
-### 3. The data center boom has an upside: innovation for the US grid
+### 4. The data center boom has an upside: innovation for the US grid
 
 [原文] As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.
 
 📎 [阅读原文](https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/) — *TechCrunch*
 
-### 4. Guidewire buys Hyperexponential for $1.7B in cash
+### 5. Guidewire buys Hyperexponential for $1.7B in cash
 
 [原文] The deal, expected to close sometime next year, is to help bring AI agents to work alongside humans to underwrite, analyze, and price decisions.
 
 📎 [阅读原文](https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/) — *TechCrunch*
-
-### 5. From 8VC to Benchmark, here’s what’s hiding in October SEC filings
-
-[原文] A whole crop of venture capital firms  are raising significant new funds.
-
-📎 [阅读原文](https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/) — *TechCrunch*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. 'Biggest night in the club's history' for fearless Fleetwood
+### 1. Carrick and Fernandes hold clear-the-air talks
+
+[原文] Manchester United head coach Michael Carrick and captain Bruno Fernandes hold clear-the-air talks ahead of side's trip to Chelsea.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cje36dn5nx36o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. Arsenal to appeal against Dowman red card
+
+[原文] Arsenal will appeal against Max Dowman's sending-off during Tuesday's Carabao Cup defeat at Fleetwood Town.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/c3dxwdnjqj17o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. 'Biggest night in club's history' for fearless Fleetwood
 
 [原文] A whopping 83 league places separated Fleetwood from Arsenal, yet the hosts booked their place in the Carabao Cup quarter-final thanks to their penalty shootout win over the Gunners.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cqgkv2vxeengo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Dowman sees red as Arsenal dumped out, but did Arteta go too far?
+### 4. Goodbye to Wawrinka - an everyman who gatecrashed the greats
 
-[原文] A shocking defeat, a red card card, a penalty-shootout and a drone tell the story of Arsenal's dramatic loss to League Two Fleetwood Town in the last-16 of the Carabao Cup.
+[原文] Stan Wawrinka's glorious career - which brought him three Grand Slam titles in a golden era - ends after an honourable defeat on an emotional night in Basel.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cmg47g7dngxlo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/crlykgp51ej4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Where does Fleetwood beating Arsenal rank in biggest cup upsets?
+### 5. Serrano to end career in Puerto Rico in January
 
-[原文] BBC Sport looks at the history of the biggest FA Cup and League Cup upsets after Fleetwood Town's shock win against Arsenal.
+[原文] Amanda Serrano will face Skye Falzon in Puerto Rico on 9 January in the final fight of her illustrious professional boxing career.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cq62y7yzjdmzo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. Man Utd stick with Carrick - inside a turbulent 48 hours at Old Trafford
-
-[原文] BBC Sport looks at the 48 hours that led to Manchester United deciding to keep under-pressure Michael Carrick as their head coach for Saturday's trip to Chelsea.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cwz0vgj35k7mo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Australia fight back to keep Cummins out of unwanted club... for now
-
-[原文] Australia fight back in afternoon and evening against South Africa to spare the blushes of captain Pat Cummins in third Test.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c51kdggvmy7mo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/boxing/articles/cqn8denld133o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Val Chmerkovskiy Says He Wants ‘Nothing But Love’ for Carrie Ann Inaba Following ‘DWTS’ Suspension, Apologizes to Jenna Dewan: ‘I Am So Sorry for All the Chaos’
+### 1. Latvian Oscar Submission ‘Ulya’ Sells Wide Ahead of Opening Tallinn: ‘This Film Is a Blockbuster’ (EXCLUSIVE)
 
-[原文] “Dancing With the Stars” pro Val Chmerkovskiy and judge Carrie Ann Inaba have made amends, concluding the hectic saga that has ensued since Chmerkovskiy made an &#8220;inappropriate&#8221; joke about 
+[原文] International distributors continue to fall for “Ulya.” The Latvian Oscar submission for Best International Feature Film has closed North America (New Mountain Films), France (Destiny), Italy (Invisib
 
-📎 [阅读原文](https://variety.com/2026/tv/news/val-chmerkovskiy-carrie-ann-inaba-dwts-suspension-1236932655/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/latvia-oscar-submission-ulya-viesturs-kairiss-tallinn-sales-1236930575/) — *Variety*
 
-### 2. Kore-eda Hirokazu Hails Japanese Cinema’s Global Moment as Ninomiya Kazunari, Academy’s Amy Homma and ‘Kokuho’ Producer Murata Chieko Take Stage at Kering Women in Motion Tokyo Event
+### 2. Josh O’Connor Is a Reluctant Boxer in First-Look Clip of National Theatre Live’s ‘Golden Boy’ Ahead of Cinema Release (EXCLUSIVE)
 
-[原文] Kering Women in Motion, an allied program of the Tokyo International Film Festival, held a talk event on Tuesday at Toho Cinemas Roppongi Hills for a packed crowd. Director Kore-eda Hirokazu (“Shoplif
+[原文] Josh O&#8217;Connor may be in the James Bond conversation, but his next on-screen role is a filmed version of his most recent play, &#8220;Golden Boy.&#8221; After its sold-out run at London&#8217;s A
 
-📎 [阅读原文](https://variety.com/2026/film/festivals/kore-eda-japanese-cinema-global-moment-women-in-motion-1236932656/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/theater/global/josh-oconnor-golden-boy-national-theatre-live-first-look-clip-1236933293/) — *Variety*
 
-### 3. Jessica Biel Says She Won’t Hand Her Son Acting Roles Just ‘Because You’re Part of This Family’: ‘We’re Not Doing That’
+### 3. Jennifer Lopez to Release New Single ‘Proof of Love’: ‘It’s a Happy Dance Song’ That Also Addresses ‘Pain and Grief When Someone’s Gone’ (EXCLUSIVE)
 
-[原文] With parents like Jessica Biel and Justin Timberlake, it might not be entirely possible to avoid being labeled a nepo baby in totality — but that isn’t stopping Biel from making it explicitly clear to
+[原文] Jennifer Lopez is getting close to releasing new music. The multi-hyphenate tells Variety she was inspired to write and record again when her kids, twins Max and Emme Muniz with ex-husband Mark Anthon
 
-📎 [阅读原文](https://variety.com/2026/film/news/jessica-biel-matchbox-nepo-baby-1236932645/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/columns/jennifer-lopez-new-single-proof-of-love-song-1236932416/) — *Variety*
 
-### 4. Oscars Will ‘Always’ Reward Human Excellence in AI Era, Academy Chiefs Say as They Leave Door Open to International Feature Rule Tweaks (EXCLUSIVE)
+### 4. Alan Jackson’s Farewell Concert Sets December Release on NBC
 
-[原文] The Oscars will keep honoring human-driven work as AI spreads through filmmaking, Academy president Lynette Howell Taylor tells Variety in Tokyo, while the Academy’s leadership expects to keep refinin
+[原文] Country star Alan Jackson’s farewell concert, “Alan Jackson: The Last Show,” will air on NBC on Dec. 8. The event, which celebrates Jackson’s career and memorializes his final concert performance, wil
 
-📎 [阅读原文](https://variety.com/2026/film/festivals/oscars-always-reward-human-excellence-ai-era-academy-1236932637/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/music/news/alan-jacksons-farewell-concert-sets-release-1236932620/) — *Variety*
 
-### 5. Amy Poehler Tells Noah Wyle ‘The Pitt’ Needs More Romance: If You’re ‘Gonna Show the Guts, You Gotta Show Some Butts’
+### 5. Russell Brand Takes the Stand in Rape Trial and Reveals No One Agreed to Testify on His Behalf: ‘My Entire Life Has Been Consumed by These Allegations’
 
-[原文] Amy Poehler sat down with Noah Wyle on Tuesday’s episode of her “Good Hang” podcast to discuss both “ER” and “The Pitt” on the heels of his People’s Sexiest Man Alive appointment. She also used her ti
+[原文] Russell Brand took the stand in his criminal trial in London on Wednesday, denying all accusations against him and revealing that he was not able to convince anyone to testify on his behalf. He was ca
 
-📎 [阅读原文](https://variety.com/2026/tv/news/amy-poehler-the-pitt-noah-wyle-romance-1236932537/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/global/russell-brand-takes-stand-rape-trial-no-one-else-testifying-1236933186/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Marvel's VisionQuest Episodes 5 & 6 Recap and Review
+### 1. Phantom Blade Zero Looks Like a Hit Before It's Even Come Out, With an Estimated 1 Million Prelaunch Copies Sold
+
+[原文] Phantom Blade Zero is on track to be a huge hit, with estimates suggesting the action game has already sold over 1 million copies before launch.
+
+📎 [阅读原文](https://www.ign.com/articles/phantom-blade-zero-looks-like-a-hit-before-its-even-come-out-with-an-estimated-1-million-prelaunch-copies-sold) — *IGN*
+
+### 2. Pocketpair Would Love to Release Palworld on Nintendo Switch 2, Despite Pokémon Legal Battle
+
+[原文] The legal battle between Nintendo and Pocketpair is ongoing, but the Palworld developer hasn’t ruled out a Switch 2 version of its creature collecting survival game.
+
+📎 [阅读原文](https://www.ign.com/articles/pocketpair-wants-palworld-on-nintendo-switch-2-pokemon) — *IGN*
+
+### 3. Rockstar Games Staff Set for 'Historic' Union Vote at the Same Time GTA 6 Comes Out
+
+[原文] Rockstar Games staff will vote on union recognition amid the launch of GTA 6.
+
+📎 [阅读原文](https://www.ign.com/articles/rockstar-games-staff-set-for-historic-union-vote-at-the-same-time-gta-6-comes-out) — *IGN*
+
+### 4. The Upcoming Blade Runner 2099 Board Game Will Feature a Different Story Than the TV Series
+
+暂无摘要。
+
+📎 [阅读原文](https://www.ign.com/articles/blade-runner-2099-the-board-game-will-feature-a-different-story-than-the-tv-series) — *IGN*
+
+### 5. Marvel's VisionQuest Episodes 5 & 6 Recap and Review
 
 [原文] VisionQuest reaches new heights in Episodes 5 and 6, as the fascinating dynamic between Ultron and Jocasta takes center stage.
 
 📎 [阅读原文](https://www.ign.com/articles/marvels-visionquest-episodes-5-6-recap-and-review) — *IGN*
-
-### 2. The 2026 55" LG Evo C6 4K OLED TV Drops to Black Friday Pricing Plus Get a Free Xbox Controller
-
-[原文] The best gaming TV paired with one of the best gaming controllers.
-
-📎 [阅读原文](https://www.ign.com/articles/lg-evo-c6-4k-oled-tv-deal-free-xbox-controller-october-2026) — *IGN*
-
-### 3. Masahiro Sakurai Shrugs Off AI Games as ‘Unprofitable Titles’ as Clones and Mods Boom
-
-[原文] Super Smash Bros creator Masahiro Sakurai explained why the boom in AI-created games isn’t likely to create a lasting demand for such projects, comparing them to “low-quality goods” that could never c
-
-📎 [阅读原文](https://www.ign.com/articles/masahiro-sakurai-shrugs-off-ai-games-as-unprofitable-titles-as-clones-and-mods-boom) — *IGN*
-
-### 4. Creator of Viral Needle in a Haystack Game Roasts Copycats With 'Find the Original Game' Mode
-
-[原文] The creator of a viral indie game where players must literally find a needle in a haystack is tired of his project getting cloned. So, he made a new game mode, where players must find the real game in
-
-📎 [阅读原文](https://www.ign.com/articles/creator-of-viral-needle-in-a-haystack-game-roasts-copycats-with-find-the-original-game-mode) — *IGN*
-
-### 5. Save 47% Off Back to the Future Trilogy: 40th Anniversary Edition in Both 4K Ultra HD and Blu-Ray
-
-[原文] The most comprehensive and definitive Back to the Future edition.
-
-📎 [阅读原文](https://www.ign.com/articles/back-to-the-future-trilogy-4k-blu-ray-deal-october-2026) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post The C8 Corvette Quietly Solved Screen Overload With a 30-Year-O
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Cost of Lagging Global Climate Action Is Lost Lives and Poor Health
+### 1. Antarctic Sea Ice Decline Is Triggering Global Ocean Changes
+
+[原文] The rapid decline of Antarctic sea ice since 2016 has triggered a dramatic shift in a crucial part of Earth’s climate system, scientists say.&#160; In a paper published Wednesday, researchers document
+
+📎 [阅读原文](https://insideclimatenews.org/news/28102026/antarctic-sea-ice-decline-triggers-ocean-changes/) — *Inside Climate News*
+
+### 2. How Texas Could End Up Paying an Israeli Company Billions for Water
+
+[原文] Plans are advancing on the Gulf Coast of Texas for an enormous seawater desalination plant which, if built, would be part of one of the largest water infrastructure developments in the country.&#160; 
+
+📎 [阅读原文](https://insideclimatenews.org/news/28102026/texas-could-privatize-water-supply-with-israeli-company/) — *Inside Climate News*
+
+### 3. Climate Is on the Ballot, Even if It’s Not in Candidates’ Campaign Messages
+
+[原文] In the final stretch of their midterm drive to gain control of Congress, Democratic candidates are talking mostly about the pain of high energy costs, not the risks of climate change. But advocates of
+
+📎 [阅读原文](https://insideclimatenews.org/news/28102026/midterm-elections-climate-impact/) — *Inside Climate News*
+
+### 4. In Maine’s Senate Race, it’s Heating Oil vs. Electricity
+
+[原文] Over the course of two weeks in October, Maine’s incumbent Republican Sen. Susan Collins and her Democrat challenger, former state Senate President Troy Jackson, met for four debates. Each debate focu
+
+📎 [阅读原文](https://insideclimatenews.org/news/28102026/in-maines-senate-race-its-heating-oil-vs-electricity/) — *Inside Climate News*
+
+### 5. The Cost of Lagging Global Climate Action Is Lost Lives and Poor Health
 
 [原文] A decade after world leaders signed the legally binding Paris Agreement to combat climate change, the crisis’ health harms are getting worse and progress is lagging, according to a new report from lea
 
 📎 [阅读原文](https://insideclimatenews.org/news/27102026/lagging-global-climate-action-health-harms/) — *Inside Climate News*
-
-### 2. The High-Stakes Governor’s Races That Could Reshape America’s Energy Future
-
-[原文] The right governor can put a state on a dramatically different energy and environmental path—and next week’s election could set the stage for major policy shifts across the country.&#160;&#160; Democr
-
-📎 [阅读原文](https://insideclimatenews.org/news/27102026/governor-races-energy-future/) — *Inside Climate News*
-
-### 3. Data Centers, Power Bills, Hurricanes: What’s at Stake for the Environment in Florida’s Senate Race
-
-[原文] When asked to choose, Florida’s likely voters have picked protecting the environment over economic growth by more than 2 to 1, a margin that surprised even the pollster who asked the question.&#160; I
-
-📎 [阅读原文](https://insideclimatenews.org/news/27102026/florida-senate-race-data-centers-power-bills-hurricanes/) — *Inside Climate News*
-
-### 4. As Election Day Nears, a Key House Race Remains in Flux
-
-[原文] NY-17: Fourth in a series on the environmental stakes behind one of the nation’s most fiercely contested congressional races. After the Democratic primary election in New York’s hotly contested 17th C
-
-📎 [阅读原文](https://insideclimatenews.org/news/27102026/new-york-17-key-house-race-data-centers-nuclear-power/) — *Inside Climate News*
-
-### 5. In Florida’s Gubernatorial Race, a Choice Between New Climate Policy or the Status Quo
-
-[原文] Florida’s gubernatorial race features two candidates with very different views on the environment and climate: One largely supports maintaining the status quo in state policy while the other advocates
-
-📎 [阅读原文](https://insideclimatenews.org/news/27102026/florida-governor-election-everglades/) — *Inside Climate News*
 
 ---
 
@@ -401,35 +401,35 @@ The post The C8 Corvette Quietly Solved Screen Overload With a 30-Year-O
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. AI, Elections and the Making of an Informed Electorate
+### 1. Does an AI Pause Protect Students, or Leave Some Behind?
+
+[原文] Artificial intelligence in the classroom comes with risk, but students must learn AI literacy.
+
+📎 [阅读原文](https://edsurge.com/news/does-an-ai-pause-protect-students-or-leave-some-behind) — *EdSurge*
+
+### 2. What Playgrounds Can Teach Us About AI in Schools
+
+[原文] Deciding whether students should use AI requires balancing safety with the developmental need to learn about managing risk.
+
+📎 [阅读原文](https://edsurge.com/news/what-playgrounds-can-teach-us-about-ai-in-schools) — *EdSurge*
+
+### 3. AI, Elections and the Making of an Informed Electorate
 
 [原文] As AI chatbots answer voters’ questions in seconds, schools need to teach students to ask where those answers come from — and to reach their own ...
 
 📎 [阅读原文](https://edsurge.com/news/ai-elections-and-the-making-of-an-informed-electorate) — *EdSurge*
 
-### 2. Pause AI in Schools. But Not Before You Do This First.
+### 4. Pause AI in Schools. But Not Before You Do This First.
 
 [原文] Ban or no ban, students are going to use AI. Let’s make sure they have the skills to navigate it, says Common Sense Media’s chief program officer.
 
 📎 [阅读原文](https://edsurge.com/news/pause-ai-in-schools-but-not-before-you-do-this-first) — *EdSurge*
 
-### 3. How AI Is Breaking the Way We Reward High-Achieving Students
-
-[原文] When AI can create polished products in seconds, we must redefine high achievement and reward students for genuine intellectual curiosity, not ...
-
-📎 [阅读原文](https://edsurge.com/news/how-ai-is-breaking-the-way-we-reward-high-achieving-students) — *EdSurge*
-
-### 4. What Happens to High-Impact Tutoring When the Pandemic Money Is Gone?
+### 5. What Happens to High-Impact Tutoring When the Pandemic Money Is Gone?
 
 [原文] With pandemic funding gone, districts are scrambling to maintain their “high-dosage” tutoring programs.
 
 📎 [阅读原文](https://edsurge.com/news/what-happens-to-high-impact-tutoring-when-the-pandemic-money-is-gone) — *EdSurge*
-
-### 5. Why the Jump to Kindergarten Is So Hard — and How to Fix It
-
-[原文] Better coordination between school districts and early learning programs is essential to a smoother leap, says researcher David Jacobson.
-
-📎 [阅读原文](https://edsurge.com/news/why-the-jump-to-kindergarten-is-so-hard-and-how-to-fix-it) — *EdSurge*
 
 ---
 
@@ -477,35 +477,35 @@ The post The C8 Corvette Quietly Solved Screen Overload With a 30-Year-O
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Saudi Giga Project Spending Shrinks. Hotel Developers Keep Building
+### 1. Waymo Picks Ramp for Its First Business Travel Expense Partner: Exclusive
+
+[原文] Waymo’s receipts will now flow straight into a spend platform used by more than 70,000 businesses. That should fix a pain point for road warriors, and it’s a signal that Waymo wants a bigger slice of 
+
+📎 [阅读原文](https://skift.com/2026/10/28/waymo-picks-ramp-for-its-first-business-travel-expense-integration-exclusive/) — *Skift*
+
+### 2. Agoda Plugs Into Meta’s Muse in Singapore and Japan
+
+[原文] Agoda gives Booking Holdings a foothold in Meta’s Muse in Singapore and Japan, while Expedia holds the hotel slot in North America. The real question is the economics: if Meta takes a fee, hotels coul
+
+📎 [阅读原文](https://skift.com/2026/10/28/agoda-plugs-into-metas-muse-in-singapore-and-japan/) — *Skift*
+
+### 3. Travel Companies and DMOs Work to Patch Critical PHP Flaws
+
+[原文] The scramble to patch a security flaw shows just how much smaller players in travel depend on outside vendors to keep their websites safe.
+
+📎 [阅读原文](https://skift.com/2026/10/28/php-security-flaw-impact-travel/) — *Skift*
+
+### 4. Saudi Giga Project Spending Shrinks. Hotel Developers Keep Building
 
 [原文] Saudi Arabia is shrinking giga project budgets on Riyadh’s event deadlines. Hotel developers are still building as if the old plan held, with pipelines up and skewed to luxury. That mismatch, plus cos
 
 📎 [阅读原文](https://skift.com/2026/10/28/saudi-giga-project-spending-shrinks-hotel-developers-keep-building/) — *Skift*
 
-### 2. Airbnb to Require Temporary Phone Numbers for Large Hosts and Guests
+### 5. Airbnb to Require Temporary Phone Numbers for Large Hosts and Guests
 
 [原文] Airbnb says the temporary phone numbers are meant to protect privacy. But the change also makes it harder for property managers to turn Airbnb guests into direct bookers.
 
 📎 [阅读原文](https://skift.com/2026/10/27/airbnb-to-require-temporary-phone-numbers-for-large-hosts-and-guests/) — *Skift*
-
-### 3. A New CTO, a Nasdaq Move and AI Agents: Hilton Makes Its Tech Pitch
-
-[原文] Hilton wants to be valued like a technology platform. Owners will judge it by whether lower distribution costs actually reach them.
-
-📎 [阅读原文](https://skift.com/2026/10/27/a-new-cto-a-nasdaq-move-and-ai-agents-hilton-makes-its-tech-pitch/) — *Skift*
-
-### 4. Philippine Travel Tax Repeal Risks Tourism Funding Gap
-
-[原文] Scrapping the Philippines’ travel tax would make overseas trips cheaper but strip its tourism infrastructure agency of its main revenue source, with no replacement in the proposed 2027 budget.
-
-📎 [阅读原文](https://skift.com/2026/10/27/philippine-travel-tax-repeal-risks-tourism-funding-gap/) — *Skift*
-
-### 5. JetBlue CEO Reaffirms Profit Targets, Says Distressed Bonds Reflect a ‘Significant Disconnect’
-
-[原文] JetBlue shares bounced back after its third-quarter earnings calmed investor fears over a possible Chapter 11 bankruptcy.
-
-📎 [阅读原文](https://skift.com/2026/10/27/jetblue-ceo-reaffirms-profit-targets-says-distressed-bonds-reflect-a-significant-disconnect/) — *Skift*
 
 ---
 
