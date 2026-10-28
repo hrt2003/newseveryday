@@ -1,0 +1,1221 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>全球新闻日报 — 2026年10月29日</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;600;700;900&family=Noto+Sans+SC:wght@300;400;500;700&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+/* ═══════════════════════════════════════════════════════════
+   THE GLOBAL BRIEF v3 — 三层逻辑: 头条焦点 → 核心要闻 → 更多分类
+   ═══════════════════════════════════════════════════════════ */
+
+:root {
+    --bg:#faf9f6; --bg-secondary:#f3f1ec; --surface:#ffffff; --surface-hover:#fdfcf9;
+    --text-primary:#1c1917; --text-secondary:#5c5a57; --text-tertiary:#8c8a85;
+    --border:#e7e4df; --border-light:#f0ede8; --rule:#d4d0c9;
+    --accent-politics:#c2410c; --accent-economy:#b45309; --accent-tech:#2563eb;
+    --accent-science:#0891b2; --accent-sports:#7c3aed; --accent-entertainment:#db2777;
+    --accent-health:#059669; --accent-gaming:#ea580c; --accent-automotive:#4f46e5;
+    --accent-environment:#16a34a; --accent-education:#d97706; --accent-music:#9333ea;
+    --accent-travel:#047857;
+    --shadow-sm:0 1px 3px rgba(0,0,0,0.04); --shadow-md:0 4px 16px rgba(0,0,0,0.05);
+    --shadow-lg:0 12px 40px rgba(0,0,0,0.08); --radius-sm:6px; --radius-md:12px;
+    --radius-lg:20px; --max-width:960px;
+}
+
+@media (prefers-color-scheme:dark) {
+    :root { --bg:#171717;--bg-secondary:#1f1d1a;--surface:#24221f;--surface-hover:#2a2824;
+    --text-primary:#e8e4e0;--text-secondary:#a8a5a0;--text-tertiary:#787570;
+    --border:#33302b;--border-light:#2a2824;--rule:#3d3a34;
+    --shadow-sm:0 1px 3px rgba(0,0,0,0.2);--shadow-md:0 4px 16px rgba(0,0,0,0.25);
+    --shadow-lg:0 12px 40px rgba(0,0,0,0.3); }
+}
+
+* { margin:0;padding:0;box-sizing:border-box; }
+html { scroll-behavior:smooth;-webkit-font-smoothing:antialiased; }
+body { font-family:'Noto Sans SC',-apple-system,'PingFang SC','Microsoft YaHei',sans-serif;
+    background:var(--bg);color:var(--text-primary);line-height:1.75;min-height:100vh;
+    background-image:radial-gradient(ellipse at 20% 0%,rgba(120,120,120,0.03) 0%,transparent 60%),
+    radial-gradient(ellipse at 80% 100%,rgba(120,120,120,0.03) 0%,transparent 60%); }
+
+/* Masthead */
+.masthead { text-align:center;padding:40px 24px 28px;border-bottom:1px solid var(--rule);position:relative; }
+.masthead::after { content:'';position:absolute;bottom:-1px;left:50%;transform:translateX(-50%);
+    width:60px;height:2px;background:var(--text-primary);opacity:0.3; }
+.masthead .overline { font-family:'DM Mono',monospace;font-size:0.65rem;letter-spacing:0.4em;
+    text-transform:uppercase;color:var(--text-tertiary);margin-bottom:10px; }
+.masthead h1 { font-family:'Noto Serif SC',serif;font-size:clamp(1.6rem,5vw,2.4rem);
+    font-weight:900;letter-spacing:0.04em; }
+.masthead .dateline { font-size:0.82rem;color:var(--text-tertiary);margin-top:6px; }
+.masthead .dateline span { margin:0 8px;opacity:0.5; }
+
+/* Toolbar */
+.toolbar { display:flex;align-items:center;justify-content:center;gap:12px;margin-top:16px;flex-wrap:wrap; }
+.search-box { position:relative;display:flex;align-items:center; }
+.search-box input { width:240px;padding:9px 38px 9px 14px;border:1px solid var(--border);
+    border-radius:100px;background:var(--surface);color:var(--text-primary);
+    font-family:'Noto Sans SC',sans-serif;font-size:0.82rem;outline:none;transition:all 0.25s; }
+.search-box input:focus { border-color:var(--text-tertiary);box-shadow:0 0 0 3px rgba(0,0,0,0.04);width:280px; }
+.search-box input::placeholder { color:var(--text-tertiary); }
+.search-icon { position:absolute;right:11px;font-size:0.8rem;opacity:0.35;pointer-events:none; }
+.search-clear { position:absolute;right:9px;font-size:0.7rem;cursor:pointer;color:var(--text-tertiary);
+    padding:3px;display:none;z-index:1; }
+.search-clear:hover { color:var(--text-primary); }
+.tool-btn { font-family:'DM Mono',monospace;font-size:0.62rem;letter-spacing:0.15em;color:var(--text-tertiary);
+    text-decoration:none;padding:6px 12px;border:1px solid var(--border);border-radius:100px;
+    transition:all 0.2s;white-space:nowrap; }
+.tool-btn:hover { color:var(--text-primary);border-color:var(--text-tertiary); }
+.search-status { text-align:center;font-size:0.75rem;color:var(--text-tertiary);margin-top:8px; }
+
+/* Refresh */
+.refresh-area { margin-top:8px;display:none;align-items:center;justify-content:center;
+    gap:10px;animation:fadeIn 0.4s ease; }
+@keyframes fadeIn { from{opacity:0;transform:translateY(-6px);} to{opacity:1;transform:translateY(0);} }
+.refresh-hint { font-size:0.72rem;color:var(--text-tertiary); }
+.refresh-btn { font-family:'DM Mono',monospace;font-size:0.62rem;letter-spacing:0.12em;padding:5px 14px;
+    border:1px solid var(--border);border-radius:100px;background:var(--surface);color:var(--text-primary);
+    text-decoration:none;cursor:pointer;transition:all 0.25s; }
+.refresh-btn:hover { background:var(--text-primary);color:var(--bg);border-color:var(--text-primary); }
+
+/* Main */
+.main-container { max-width:var(--max-width);margin:0 auto;padding:24px 24px 80px; }
+.overall-digest { background:var(--surface);border:1px solid var(--border);border-radius:var(--radius-lg);
+    padding:24px 32px;margin-bottom:32px;box-shadow:var(--shadow-md);position:relative;overflow:hidden; }
+.overall-digest::before { content:'';position:absolute;top:0;left:0;width:4px;height:100%;
+    background:linear-gradient(180deg,var(--accent-politics),var(--accent-economy),
+    var(--accent-tech),var(--accent-science));border-radius:var(--radius-lg) 0 0 var(--radius-lg); }
+.overall-digest .label { font-family:'DM Mono',monospace;font-size:0.6rem;letter-spacing:0.3em;
+    text-transform:uppercase;color:var(--text-tertiary);margin-bottom:10px;display:block; }
+.overall-digest p { font-family:'Noto Serif SC',serif;font-size:clamp(0.9rem,2vw,1.05rem);line-height:1.9; }
+
+/* Section label */
+.section-label { font-family:'DM Mono',monospace;font-size:0.62rem;letter-spacing:0.3em;
+    text-transform:uppercase;color:var(--text-tertiary);margin-bottom:16px; }
+
+/* Featured (3-up) */
+.featured-grid { display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-bottom:36px; }
+.feature-card { background:var(--surface);border:1px solid var(--border);border-radius:var(--radius-lg);
+    padding:22px;box-shadow:var(--shadow-sm);transition:all 0.3s;position:relative;overflow:hidden; }
+.feature-card:hover { box-shadow:var(--shadow-lg);transform:translateY(-2px); }
+.feature-card::before { content:'';position:absolute;top:0;left:0;width:100%;height:3px; }
+.feature-card.politics::before { background:var(--accent-politics); }
+.feature-card.economy::before { background:var(--accent-economy); }
+.feature-card.technology::before { background:var(--accent-tech); }
+.feature-badge { display:inline-block;font-family:'DM Mono',monospace;font-size:0.58rem;
+    letter-spacing:0.2em;padding:2px 10px;border-radius:100px;margin-bottom:12px; }
+.feature-card.politics .feature-badge { background:#fff7ed;color:var(--accent-politics); }
+.feature-card.economy .feature-badge { background:#fffbeb;color:var(--accent-economy); }
+.feature-card.technology .feature-badge { background:#eff6ff;color:var(--accent-tech); }
+.feature-card h3 { font-family:'Noto Serif SC',serif;font-size:0.95rem;font-weight:700;
+    line-height:1.5;margin-bottom:8px; }
+.feature-summary { font-size:0.78rem;color:var(--text-secondary);line-height:1.6;margin-bottom:12px; }
+.feature-meta { display:flex;align-items:center;justify-content:space-between;font-size:0.68rem;
+    border-top:1px solid var(--border-light);padding-top:10px; }
+.feature-meta a { color:var(--text-primary);text-decoration:none;font-weight:600; }
+.feature-meta a:hover { opacity:0.6; }
+.feature-meta span { color:var(--text-tertiary); }
+
+/* Primary grid (2x2) */
+.primary-grid { display:grid;grid-template-columns:repeat(2,1fr);gap:16px;margin-bottom:36px; }
+
+/* More section */
+.more-section { margin-bottom:36px; }
+.more-toggle { display:flex;align-items:center;justify-content:center;gap:8px;width:100%;padding:14px;
+    border:1px dashed var(--border);border-radius:var(--radius-md);background:transparent;
+    color:var(--text-tertiary);font-family:'DM Mono',monospace;font-size:0.65rem;
+    letter-spacing:0.25em;cursor:pointer;transition:all 0.3s;margin-bottom:20px; }
+.more-toggle:hover { border-color:var(--text-tertiary);color:var(--text-primary);background:var(--surface); }
+.more-toggle .arrow { transition:transform 0.3s;font-size:0.7rem; }
+.more-toggle.open .arrow { transform:rotate(180deg); }
+.more-grid { display:none;grid-template-columns:repeat(2,1fr);gap:16px;animation:fadeIn 0.4s ease; }
+.more-grid.open { display:grid; }
+
+/* Category module */
+.category-module { background:var(--surface);border:1px solid var(--border);border-radius:var(--radius-lg);
+    box-shadow:var(--shadow-sm);transition:box-shadow 0.3s;overflow:hidden; }
+.category-module:hover { box-shadow:var(--shadow-md); }
+.category-module.politics{border-top:3px solid var(--accent-politics);}
+.category-module.economy{border-top:3px solid var(--accent-economy);}
+.category-module.technology{border-top:3px solid var(--accent-tech);}
+.category-module.science{border-top:3px solid var(--accent-science);}
+.category-module.sports{border-top:3px solid var(--accent-sports);}
+.category-module.entertainment{border-top:3px solid var(--accent-entertainment);}
+.category-module.health{border-top:3px solid var(--accent-health);}
+.category-module.gaming{border-top:3px solid var(--accent-gaming);}
+.category-module.automotive{border-top:3px solid var(--accent-automotive);}
+.category-module.environment{border-top:3px solid var(--accent-environment);}
+.category-module.education{border-top:3px solid var(--accent-education);}
+.category-module.music{border-top:3px solid var(--accent-music);}
+.category-module.travel{border-top:3px solid var(--accent-travel);}
+
+.module-header { display:flex;align-items:center;gap:10px;padding:18px 20px 0; }
+.module-header h2 { font-family:'Noto Serif SC',serif;font-size:1.05rem;font-weight:700;letter-spacing:0.02em; }
+.module-header .article-count { font-family:'DM Mono',monospace;font-size:0.62rem;color:var(--text-tertiary);margin-left:auto; }
+.module-preview { padding:12px 20px; }
+.preview-item { display:flex;align-items:baseline;gap:8px;padding:6px 0;border-bottom:1px solid var(--border-light); }
+.preview-item:last-child { border-bottom:none; }
+.preview-num { font-family:'DM Mono',monospace;font-size:0.58rem;color:var(--text-tertiary);min-width:16px; }
+.preview-title { font-size:0.84rem;line-height:1.4;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden; }
+
+/* Expand */
+.expand-btn,.collapse-btn { display:flex;align-items:center;justify-content:center;gap:6px;width:100%;
+    padding:8px 20px 16px;border:none;background:transparent;color:var(--text-tertiary);
+    font-family:'DM Mono',monospace;font-size:0.58rem;letter-spacing:0.2em;cursor:pointer;transition:color 0.2s; }
+.expand-btn:hover,.collapse-btn:hover { color:var(--text-primary); }
+.module-expanded { display:none; }
+.module-expanded.open { display:block;animation:fadeIn 0.35s ease; }
+.module-expanded .articles-list { padding:0 20px;border-top:1px solid var(--border-light);
+    max-height:480px;overflow-y:auto; }
+.module-expanded .articles-list::-webkit-scrollbar { width:4px; }
+.module-expanded .articles-list::-webkit-scrollbar-thumb { background:var(--border);border-radius:10px; }
+
+.news-item { padding:16px 0;border-bottom:1px solid var(--border-light); }
+.news-item:last-child { border-bottom:none; }
+.news-item h3 { font-family:'Noto Serif SC',serif;font-size:0.95rem;font-weight:600;line-height:1.5;margin-bottom:5px; }
+.news-item .item-num { font-family:'DM Mono',monospace;font-size:0.6rem;color:var(--text-tertiary);margin-right:4px; }
+.news-item .item-summary { font-size:0.82rem;color:var(--text-secondary);line-height:1.65;margin-bottom:6px; }
+.news-item .item-meta { display:flex;align-items:center;gap:10px;flex-wrap:wrap; }
+.news-item .item-link { font-size:0.74rem;text-decoration:none;font-weight:500; }
+.news-item .item-link::after { content:' ↗';font-size:0.6rem;opacity:0.5; }
+.news-item .item-source { font-size:0.68rem;color:var(--text-tertiary); }
+.news-item .item-source::before { content:'— '; }
+.collapse-btn { padding:14px 20px;border-top:1px solid var(--border-light); }
+
+/* Link colors per category */
+.category-module.politics .item-link{color:var(--accent-politics);}
+.category-module.economy .item-link{color:var(--accent-economy);}
+.category-module.technology .item-link{color:var(--accent-tech);}
+.category-module.science .item-link{color:var(--accent-science);}
+.category-module.sports .item-link{color:var(--accent-sports);}
+.category-module.entertainment .item-link{color:var(--accent-entertainment);}
+.category-module.health .item-link{color:var(--accent-health);}
+.category-module.gaming .item-link{color:var(--accent-gaming);}
+.category-module.automotive .item-link{color:var(--accent-automotive);}
+.category-module.environment .item-link{color:var(--accent-environment);}
+.category-module.education .item-link{color:var(--accent-education);}
+.category-module.music .item-link{color:var(--accent-music);}
+.category-module.travel .item-link{color:var(--accent-travel);}
+.no-news { color:var(--text-tertiary);font-style:italic;padding:16px 0;text-align:center;font-size:0.82rem; }
+
+/* Sources / Errors / Footer */
+.sources-section { background:var(--surface);border:1px solid var(--border);border-radius:var(--radius-lg);
+    padding:24px 32px;margin-bottom:24px;box-shadow:var(--shadow-sm); }
+.sources-section h2 { font-family:'Noto Serif SC',serif;font-size:1rem;margin-bottom:14px; }
+.sources-table { width:100%;border-collapse:collapse; }
+.sources-table td { padding:7px 0;border-bottom:1px solid var(--border-light);font-size:0.8rem; }
+.sources-table td:first-child { white-space:nowrap;width:22%;font-weight:500;padding-right:16px; }
+.sources-table td:last-child { color:var(--text-secondary); }
+.sources-table tr:last-child td { border-bottom:none; }
+.errors-section { background:#fff7ed;border:1px solid rgba(194,65,12,0.2);border-radius:var(--radius-lg);
+    padding:20px 28px;margin-bottom:24px; }
+.errors-section h2 { font-size:0.9rem;font-weight:700;color:var(--accent-politics);margin-bottom:8px; }
+.errors-section li { font-size:0.78rem;color:var(--text-secondary);padding:3px 0; }
+.errors-section li::before { content:'× ';color:var(--accent-politics);font-weight:700; }
+.site-footer { max-width:var(--max-width);margin:0 auto;padding:0 24px 60px;text-align:center; }
+.site-footer .divider { width:40px;height:1px;background:var(--rule);margin:0 auto 16px; }
+.site-footer p { font-size:0.7rem;color:var(--text-tertiary);line-height:1.8; }
+.site-footer .mono { font-family:'DM Mono',monospace;font-size:0.62rem;letter-spacing:0.2em; }
+
+.category-filtered,.hidden-by-search { display:none !important; }
+
+@media (max-width:768px) {
+    .featured-grid,.primary-grid,.more-grid { grid-template-columns:1fr;gap:12px; }
+    .main-container { padding:20px 12px 60px; }
+    .masthead { padding:32px 16px 24px; }
+    .overall-digest { padding:20px; }
+    .toolbar { gap:8px; }
+    .search-box input { width:180px; }
+    .search-box input:focus { width:220px; }
+}
+
+@media print {
+    body{background:white;} .feature-card,.category-module,.overall-digest{box-shadow:none;break-inside:avoid;}
+    .module-expanded{display:block!important;}.module-expanded .articles-list{max-height:none;overflow:visible;}
+    .expand-btn,.collapse-btn,.more-toggle{display:none;}
+}
+</style>
+</head>
+<body>
+
+<header class="masthead">
+    <div class="overline">The Global Brief</div>
+    <h1>全球新闻日报</h1>
+    <div class="dateline">2026年10月29日<span>·</span>更新于 <time id="update-time" datetime="2026-10-29 06:21">2026-10-29 06:21</time></div>
+    <div class="toolbar">
+        <div class="search-box">
+            <input type="text" id="search-input" placeholder="搜索新闻..." autocomplete="off">
+            <span class="search-icon">🔍</span>
+            <span class="search-clear" id="search-clear">✕</span>
+        </div>
+        <a class="tool-btn" href="conflicts.html" style="border-color:rgba(194,65,12,0.4);color:var(--accent-politics)">🌍 冲突态势</a>
+        <a class="tool-btn" href="archive.html">📅 归档</a>
+    </div>
+    <div class="search-status" id="search-status"></div>
+    <div class="refresh-area" id="refresh-area">
+        <span class="refresh-hint" id="refresh-hint"></span>
+        <a class="refresh-btn" href="https://github.com/hrt2003/newseveryday/actions/workflows/deploy.yml" target="_blank" rel="noopener">🔄 手动刷新</a>
+    </div>
+</header>
+
+<main class="main-container">
+    <section class="overall-digest">
+        <span class="label">今日摘要</span>
+        <p>（全局摘要暂时无法生成，请查看下方各类别新闻。）</p>
+    </section>
+
+    <div class="section-label">📌 头条焦点</div>
+    <div class="featured-grid">                <article class="feature-card politics">
+                    <div class="feature-badge">🌍 国际政治</div>
+                    <h3>High-speed train crash kills at least 68 people in Spain</h3>
+                    <p class="feature-summary">[原文] The crash, between a moving train and another that was stopped further up the track, was caused by an &quot;inexplicable&quot; error, the transport minister said.</p>
+                    <div class="feature-meta">
+                        <a href="https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">阅读原文 ↗</a>
+                        <span>BBC World</span>
+                    </div>
+                </article>
+                <article class="feature-card economy">
+                    <div class="feature-badge">💰 经济财经</div>
+                    <h3>Alphabet sinks 10% as it holds 2026 capex unchanged, expects significant increase in 2027</h3>
+                    <p class="feature-summary">[原文] Alphabet missed Q3 expectations on earnings and revenue, its first top-and-bottom-line miss in nearly four years.</p>
+                    <div class="feature-meta">
+                        <a href="https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html" target="_blank" rel="noopener">阅读原文 ↗</a>
+                        <span>CNBC</span>
+                    </div>
+                </article>
+                <article class="feature-card technology">
+                    <div class="feature-badge">💻 科技</div>
+                    <h3>Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion</h3>
+                    <p class="feature-summary">[原文] Microsoft has never disclosed Azure&#39;s quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.</p>
+                    <div class="feature-meta">
+                        <a href="https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/" target="_blank" rel="noopener">阅读原文 ↗</a>
+                        <span>TechCrunch</span>
+                    </div>
+                </article></div>
+
+    <div class="section-label">📰 核心要闻</div>
+    <div class="primary-grid">            <section class="category-module politics" id="module-politics">
+                <div class="module-header">
+                    <span class="category-dot dot-politics"></span>
+                    <h2>🌍 国际政治</h2>
+                    <span class="article-count">5 篇</span>
+                </div>
+                <div class="module-preview">
+                                        <div class="preview-item">
+                        <span class="preview-num">01</span>
+                        <span class="preview-title">High-speed train crash kills at least 68 people in Spain</span>
+                    </div>                    <div class="preview-item">
+                        <span class="preview-num">02</span>
+                        <span class="preview-title">Bloodied, dazed and angry - how passengers&#39; rail journey turned to disaster in Spain</span>
+                    </div>
+                </div>
+                                <button class="expand-btn" data-target="politics-full" aria-expanded="false">
+                    <span class="btn-text">展开全部 5 篇</span>
+                    <span class="btn-icon">▾</span>
+                </button>
+                <div class="module-expanded" id="politics-full">
+                    <div class="articles-list">
+                                            <article class="news-item">
+                        <h3><span class="item-num">01</span> High-speed train crash kills at least 68 people in Spain</h3>
+                        <p class="item-summary">[原文] The crash, between a moving train and another that was stopped further up the track, was caused by an &quot;inexplicable&quot; error, the transport minister said.</p>
+                        <div class="item-meta">
+                            <a href="https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">BBC World</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">02</span> Bloodied, dazed and angry - how passengers&#39; rail journey turned to disaster in Spain</h3>
+                        <p class="item-summary">[原文] Survivors of the train crash in Spain have spoken of their shock, panic and anger at the accident in Toledo province on Wednesday.</p>
+                        <div class="item-meta">
+                            <a href="https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">BBC World</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">03</span> Flávio Bolsonaro denies fleeing Brazil after landing in Miami</h3>
+                        <p class="item-summary">[原文] The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.</p>
+                        <div class="item-meta">
+                            <a href="https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">BBC World</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">04</span> Netanyahu&#39;s bloc leading Israel election but short of majority, partial results show</h3>
+                        <p class="item-summary">[原文] With 85% of ballots counted, Netanyahu&#39;s Likud party and its allies are set to win 53 seats in the 120-seat Knesset.</p>
+                        <div class="item-meta">
+                            <a href="https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">BBC World</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">05</span> How could Israel break election deadlock? Here are four scenarios</h3>
+                        <p class="item-summary">[原文] With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.</p>
+                        <div class="item-meta">
+                            <a href="https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">BBC World</span>
+                        </div>
+                    </article>
+                    </div>
+                    <button class="collapse-btn" data-target="politics-full">
+                        <span>收起</span>
+                        <span class="btn-icon">▴</span>
+                    </button>
+                </div>
+            </section>
+            <section class="category-module economy" id="module-economy">
+                <div class="module-header">
+                    <span class="category-dot dot-economy"></span>
+                    <h2>💰 经济财经</h2>
+                    <span class="article-count">5 篇</span>
+                </div>
+                <div class="module-preview">
+                                        <div class="preview-item">
+                        <span class="preview-num">01</span>
+                        <span class="preview-title">Alphabet sinks 10% as it holds 2026 capex unchanged, expects significant increase in 2027</span>
+                    </div>                    <div class="preview-item">
+                        <span class="preview-num">02</span>
+                        <span class="preview-title">Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat</span>
+                    </div>
+                </div>
+                                <button class="expand-btn" data-target="economy-full" aria-expanded="false">
+                    <span class="btn-text">展开全部 5 篇</span>
+                    <span class="btn-icon">▾</span>
+                </button>
+                <div class="module-expanded" id="economy-full">
+                    <div class="articles-list">
+                                            <article class="news-item">
+                        <h3><span class="item-num">01</span> Alphabet sinks 10% as it holds 2026 capex unchanged, expects significant increase in 2027</h3>
+                        <p class="item-summary">[原文] Alphabet missed Q3 expectations on earnings and revenue, its first top-and-bottom-line miss in nearly four years.</p>
+                        <div class="item-meta">
+                            <a href="https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">CNBC</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">02</span> Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat</h3>
+                        <p class="item-summary">[原文] Microsoft reported better-than-expected results driven by 48% growth in Azure revenue.</p>
+                        <div class="item-meta">
+                            <a href="https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">CNBC</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">03</span> Bond investor Jeff Gundlach on Fed&#39;s rate pause: &#39;What are you waiting for?&#39;</h3>
+                        <p class="item-summary">[原文] The DoubleLine founder spoke with CNBC&#39;s &quot;Closing Bell&quot; on Wednesday after the Fed held interest rates steady.</p>
+                        <div class="item-meta">
+                            <a href="https://www.cnbc.com/2026/10/28/bond-investor-jeff-gundlach-talks-feds-rate-pause-with-cnbc.html" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">CNBC</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">04</span> Here are five key takeaways from the Fed rate decision and Warsh news conference</h3>
+                        <p class="item-summary">[原文] Even though the interest-rate vote went as expected, there were a few surprises out of this week&#39;s Federal Open Market Committee meeting.</p>
+                        <div class="item-meta">
+                            <a href="https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">CNBC</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">05</span> DoorDash&#39;s deal to buy Instacart coming as early as Thursday morning, sources tell CNBC</h3>
+                        <p class="item-summary">[原文] Speculation of a deal has swirled since last week, and several outlets reported the acquisition could value Instacart at roughly $17 billion.</p>
+                        <div class="item-meta">
+                            <a href="https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">CNBC</span>
+                        </div>
+                    </article>
+                    </div>
+                    <button class="collapse-btn" data-target="economy-full">
+                        <span>收起</span>
+                        <span class="btn-icon">▴</span>
+                    </button>
+                </div>
+            </section>
+            <section class="category-module technology" id="module-technology">
+                <div class="module-header">
+                    <span class="category-dot dot-tech"></span>
+                    <h2>💻 科技</h2>
+                    <span class="article-count">5 篇</span>
+                </div>
+                <div class="module-preview">
+                                        <div class="preview-item">
+                        <span class="preview-num">01</span>
+                        <span class="preview-title">Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion</span>
+                    </div>                    <div class="preview-item">
+                        <span class="preview-num">02</span>
+                        <span class="preview-title">Google expands AI Search ads globally as core ad growth slows</span>
+                    </div>
+                </div>
+                                <button class="expand-btn" data-target="technology-full" aria-expanded="false">
+                    <span class="btn-text">展开全部 5 篇</span>
+                    <span class="btn-icon">▾</span>
+                </button>
+                <div class="module-expanded" id="technology-full">
+                    <div class="articles-list">
+                                            <article class="news-item">
+                        <h3><span class="item-num">01</span> Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion</h3>
+                        <p class="item-summary">[原文] Microsoft has never disclosed Azure&#39;s quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.</p>
+                        <div class="item-meta">
+                            <a href="https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">TechCrunch</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">02</span> Google expands AI Search ads globally as core ad growth slows</h3>
+                        <p class="item-summary">[原文] The announcement came alongside parent company Alphabet&#39;s third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.</p>
+                        <div class="item-meta">
+                            <a href="https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">TechCrunch</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">03</span> Microsoft recorded $10 billion in revenue from OpenAI</h3>
+                        <p class="item-summary">[原文] Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financ</p>
+                        <div class="item-meta">
+                            <a href="https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">TechCrunch</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">04</span> Microsoft hits 10 quarters of record-breaking revenue in a row</h3>
+                        <p class="item-summary">[原文] Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase</p>
+                        <div class="item-meta">
+                            <a href="https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">TechCrunch</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">05</span> Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents</h3>
+                        <p class="item-summary">[原文] A hacker obtained personally identifiable information about more than 40,000 Homeland Security staffers, which has since been published online.</p>
+                        <div class="item-meta">
+                            <a href="https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">TechCrunch</span>
+                        </div>
+                    </article>
+                    </div>
+                    <button class="collapse-btn" data-target="technology-full">
+                        <span>收起</span>
+                        <span class="btn-icon">▴</span>
+                    </button>
+                </div>
+            </section>
+            <section class="category-module science" id="module-science">
+                <div class="module-header">
+                    <span class="category-dot dot-science"></span>
+                    <h2>🔬 科学</h2>
+                    <span class="article-count">5 篇</span>
+                </div>
+                <div class="module-preview">
+                                        <div class="preview-item">
+                        <span class="preview-num">01</span>
+                        <span class="preview-title">A single sauna session sends immune cells surging through your body</span>
+                    </div>                    <div class="preview-item">
+                        <span class="preview-num">02</span>
+                        <span class="preview-title">A simple daily fiber supplement reduced arthritis pain and improved strength</span>
+                    </div>
+                </div>
+                                <button class="expand-btn" data-target="science-full" aria-expanded="false">
+                    <span class="btn-text">展开全部 5 篇</span>
+                    <span class="btn-icon">▾</span>
+                </button>
+                <div class="module-expanded" id="science-full">
+                    <div class="articles-list">
+                                            <article class="news-item">
+                        <h3><span class="item-num">01</span> A single sauna session sends immune cells surging through your body</h3>
+                        <p class="item-summary">[原文] A new Finnish study reveals that just 30 minutes in a sauna can temporarily flood the bloodstream with additional white blood cells, potentially helping the immune system patrol the body and detect th</p>
+                        <div class="item-meta">
+                            <a href="https://www.sciencedaily.com/releases/2026/10/261027231021.htm" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Science Daily</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">02</span> A simple daily fiber supplement reduced arthritis pain and improved strength</h3>
+                        <p class="item-summary">[原文] A new clinical trial suggests that a simple daily fiber supplement could significantly reduce knee osteoarthritis pain, improve muscle strength, and make the body less sensitive to pain. Researchers d</p>
+                        <div class="item-meta">
+                            <a href="https://www.sciencedaily.com/releases/2026/10/261027230715.htm" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Science Daily</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">03</span> The autistic brain processes faces differently than scientists thought</h3>
+                        <p class="item-summary">[原文] A major new study reveals that autistic children’s brains process faces differently, and those differences may begin earlier than scientists previously thought. Researchers found that brain signals as</p>
+                        <div class="item-meta">
+                            <a href="https://www.sciencedaily.com/releases/2026/10/261027063824.htm" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Science Daily</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">04</span> Smaller EV batteries, longer range? Scientists may have found a way</h3>
+                        <p class="item-summary">[原文] Scientists have developed a new technology that could make electric vehicle batteries smaller, lighter, and longer-lasting, potentially allowing cars to travel farther on a single charge. By borrowing</p>
+                        <div class="item-meta">
+                            <a href="https://www.sciencedaily.com/releases/2026/10/261027063708.htm" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Science Daily</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">05</span> Scientists discover a secret glow in toxic fire salamanders</h3>
+                        <p class="item-summary">[原文] Researchers have discovered a surprising hidden ability in Europe&#39;s familiar black-and-yellow fire salamanders: they glow green and cyan under ultraviolet light. The mysterious fluorescence comes main</p>
+                        <div class="item-meta">
+                            <a href="https://www.sciencedaily.com/releases/2026/10/261027063707.htm" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Science Daily</span>
+                        </div>
+                    </article>
+                    </div>
+                    <button class="collapse-btn" data-target="science-full">
+                        <span>收起</span>
+                        <span class="btn-icon">▴</span>
+                    </button>
+                </div>
+            </section></div>
+
+    <div class="more-section">
+        <button class="more-toggle" id="more-toggle" aria-expanded="false">
+            <span>📂 更多分类</span>
+            <span class="arrow">▾</span>
+        </button>
+        <div class="more-grid" id="more-grid">            <section class="category-module sports" id="module-sports">
+                <div class="module-header">
+                    <span class="category-dot dot-sports"></span>
+                    <h2>⚽ 体育</h2>
+                    <span class="article-count">5 篇</span>
+                </div>
+                <div class="module-preview">
+                                        <div class="preview-item">
+                        <span class="preview-num">01</span>
+                        <span class="preview-title">Labuschagne&#39;s form hits record low but Australia hint at future</span>
+                    </div>                    <div class="preview-item">
+                        <span class="preview-num">02</span>
+                        <span class="preview-title">Red Roses make six changes but Kildunne on bench again</span>
+                    </div>
+                </div>
+                                <button class="expand-btn" data-target="sports-full" aria-expanded="false">
+                    <span class="btn-text">展开全部 5 篇</span>
+                    <span class="btn-icon">▾</span>
+                </button>
+                <div class="module-expanded" id="sports-full">
+                    <div class="articles-list">
+                                            <article class="news-item">
+                        <h3><span class="item-num">01</span> Labuschagne&#39;s form hits record low but Australia hint at future</h3>
+                        <p class="item-summary">[原文] Marnus Labuschagne&#39;s poor form hit a record low but Australia&#39;s new guard stood up to put the tourists in a strong position in the decisive Test against South Africa.</p>
+                        <div class="item-meta">
+                            <a href="https://www.bbc.co.uk/sport/cricket/articles/cxyvr1my94m4o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">BBC Sport</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">02</span> Red Roses make six changes but Kildunne on bench again</h3>
+                        <p class="item-summary">[原文] Red Roses&#39; star Ellie Kildunne is named on England&#39;s bench again as head coach John Mitchell makes six changes to his side to face the United States.</p>
+                        <div class="item-meta">
+                            <a href="https://www.bbc.co.uk/sport/rugby-union/articles/cq1m4kn84gk2o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">BBC Sport</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">03</span> Chelsea continue unbeaten start with win over Roma</h3>
+                        <p class="item-summary">[原文] Chelsea&#39;s strong start to the season continues with victory over Roma in the Women&#39;s Champions League.</p>
+                        <div class="item-meta">
+                            <a href="https://www.bbc.co.uk/sport/football/videos/cm17k8x994edo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">BBC Sport</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">04</span> Djokovic celebrates &#39;big win&#39; on return to Basel</h3>
+                        <p class="item-summary">[原文] Novak Djokovic pulls off a hard-fought comeback victory over Ugo Humbert to keep alive his hopes of qualifying for the season-ending ATP Finals.</p>
+                        <div class="item-meta">
+                            <a href="https://www.bbc.co.uk/sport/tennis/articles/cmd93vlz4k11o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">BBC Sport</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">05</span> Perez signs multi-year extension with Cadillac</h3>
+                        <p class="item-summary">[原文] Sergio Perez will remain with Cadillac until 2029 after signing a multi-year contract extension.</p>
+                        <div class="item-meta">
+                            <a href="https://www.bbc.co.uk/sport/formula1/articles/cqde852ww04ko?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">BBC Sport</span>
+                        </div>
+                    </article>
+                    </div>
+                    <button class="collapse-btn" data-target="sports-full">
+                        <span>收起</span>
+                        <span class="btn-icon">▴</span>
+                    </button>
+                </div>
+            </section>
+            <section class="category-module entertainment" id="module-entertainment">
+                <div class="module-header">
+                    <span class="category-dot dot-entertainment"></span>
+                    <h2>🎬 娱乐</h2>
+                    <span class="article-count">5 篇</span>
+                </div>
+                <div class="module-preview">
+                                        <div class="preview-item">
+                        <span class="preview-num">01</span>
+                        <span class="preview-title">Barbara Barrie, Oscar-Nominated Star of ‘Barney Miller’ and ‘Breaking Away,’ Dies at 95</span>
+                    </div>                    <div class="preview-item">
+                        <span class="preview-num">02</span>
+                        <span class="preview-title">Chinese Sci-Fi Thriller ‘Variant’ Lands North American, European and Asian Deals (EXCLUSIVE)</span>
+                    </div>
+                </div>
+                                <button class="expand-btn" data-target="entertainment-full" aria-expanded="false">
+                    <span class="btn-text">展开全部 5 篇</span>
+                    <span class="btn-icon">▾</span>
+                </button>
+                <div class="module-expanded" id="entertainment-full">
+                    <div class="articles-list">
+                                            <article class="news-item">
+                        <h3><span class="item-num">01</span> Barbara Barrie, Oscar-Nominated Star of ‘Barney Miller’ and ‘Breaking Away,’ Dies at 95</h3>
+                        <p class="item-summary">[原文] Barbara Barrie, the Oscar-, Emmy- and Tony-nominated actress who starred in the original production of “Company” and in films including “Breaking Away,” died Wednesday in Manhattan. She was 95. Her da</p>
+                        <div class="item-meta">
+                            <a href="https://variety.com/2026/film/news/barbara-barrie-dead-company-breaking-away-1236933678/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Variety</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">02</span> Chinese Sci-Fi Thriller ‘Variant’ Lands North American, European and Asian Deals (EXCLUSIVE)</h3>
+                        <p class="item-summary">[原文] Chinese film “Variant,” a sci-fi action thriller from director Qilin Li, is headed to North America with International Media Network (IMN), which acquired U.S. and Canadian rights. Sales company Cappu</p>
+                        <div class="item-meta">
+                            <a href="https://variety.com/2026/film/markets-festivals/chinese-sci-fi-thriller-variant-north-america-europe-deals-1236933674/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Variety</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">03</span> Hayden Panettiere’s Overdose Death Investigation Closed by Police</h3>
+                        <p class="item-summary">[原文] Hayden Panettiere&amp;#8217;s death has been ruled as accidental and the investigation has concluded, the Greenville, South Carolina police department announced Wednesday. “Based on the (coroner’s office’</p>
+                        <div class="item-meta">
+                            <a href="https://variety.com/2026/tv/news/hayden-panettiere-death-investigation-closed-accidental-1236933664/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Variety</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">04</span> Alfonso Cuaron’s Apple TV Cult Series ‘Ascension’ Adds Amanda Plummer, Christopher Chung, T’Nia Miller</h3>
+                        <p class="item-summary">[原文] Alfonso Cuarón&amp;#8217;s upcoming Apple TV series &amp;#8220;Ascension&amp;#8221; has added three new series regulars. Variety has learned that Amanda Plummer (&amp;#8220;Run,&amp;#8221; &amp;#8220;Butterfly Kiss&amp;#8221;), </p>
+                        <div class="item-meta">
+                            <a href="https://variety.com/2026/tv/news/alfonso-cuaron-apple-tv-ascension-cast-1236933558/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Variety</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">05</span> Skydance TV Co-Chair George Cheeks Reveals Executive Structure Following Paramount-Warner Bros. Merger</h3>
+                        <p class="item-summary">[原文] Skydance TV co-chair and chief content officer George Cheeks formalized his division’s executive structure. In a memo to staff, Cheeks shared the specific titles for his direct reports, as well as how</p>
+                        <div class="item-meta">
+                            <a href="https://variety.com/2026/tv/news/skydance-george-cheeks-channing-dungey-executive-structure-1236933612/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Variety</span>
+                        </div>
+                    </article>
+                    </div>
+                    <button class="collapse-btn" data-target="entertainment-full">
+                        <span>收起</span>
+                        <span class="btn-icon">▴</span>
+                    </button>
+                </div>
+            </section>
+            <section class="category-module health" id="module-health">
+                <div class="module-header">
+                    <span class="category-dot dot-health"></span>
+                    <h2>🏥 健康</h2>
+                    <span class="article-count">5 篇</span>
+                </div>
+                <div class="module-preview">
+                                        <div class="preview-item">
+                        <span class="preview-num">01</span>
+                        <span class="preview-title">New WHO technical package to help countries improve health data for COVID-19 response and beyond</span>
+                    </div>                    <div class="preview-item">
+                        <span class="preview-num">02</span>
+                        <span class="preview-title">WHO statement on notification of withdrawal of the United States</span>
+                    </div>
+                </div>
+                                <button class="expand-btn" data-target="health-full" aria-expanded="false">
+                    <span class="btn-text">展开全部 5 篇</span>
+                    <span class="btn-icon">▾</span>
+                </button>
+                <div class="module-expanded" id="health-full">
+                    <div class="articles-list">
+                                            <article class="news-item">
+                        <h3><span class="item-num">01</span> New WHO technical package to help countries improve health data for COVID-19 response and beyond</h3>
+                        <p class="item-summary">[原文] Today, as part of its commitment to strengthening health information systems and improving health[1], especially in the context of the COVID-19 pandemic, WHO announced a new approach to improving acce</p>
+                        <div class="item-meta">
+                            <a href="https://www.who.int/news/item/27-08-2020-new-who-technical-package-health-data-for-covid-19-response" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">WHO</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">02</span> WHO statement on notification of withdrawal of the United States</h3>
+                        <p class="item-summary">[原文] WHO regrets the United States’ notification of withdrawal from WHO – a decision that makes both the United States and the world less safe. The notification of withdrawal raises issues that will be con</p>
+                        <div class="item-meta">
+                            <a href="https://www.who.int/news/item/24-01-2026-who-statement-on-notification-of-withdrawal-of-the-united-states" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">WHO</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">03</span> Timor-Leste certified malaria-free by WHO</h3>
+                        <p class="item-summary">[原文] The World Health Organization (WHO) has certified Timor-Leste as malaria-free, a remarkable achievement for a country that prioritized the disease and embarked on a concerted, nation-wide response sho</p>
+                        <div class="item-meta">
+                            <a href="https://www.who.int/news/item/24-07-2025-timor-leste-certified-malaria-free-by-who" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">WHO</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">04</span> African Union and World Health Organization renew strategic partnership to drive impact and strengthen health systems in Africa</h3>
+                        <p class="item-summary">[原文] The World Health Organization (WHO) and the African Union (AU) Commission renewed their longstanding strategic partnership today with the signing of an updated Memorandum of Understanding (MoU) on the</p>
+                        <div class="item-meta">
+                            <a href="https://www.who.int/news/item/24-05-2025-world-health-organization-and-african-union-renew-strategic-partnership-to-drive-impact-and-strengthen-health-systems-in-africa" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">WHO</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">05</span> Strengthening public health across Lebanon with EIB Global</h3>
+                        <p class="item-summary">[原文] Dr Tedros Adhanom Ghebreyesus, Director-General of the World Health Organization (WHO), and Thomas Östros, Vice-President of the European Investment Bank (EIB Global), met at the EIB Group Forum in Lu</p>
+                        <div class="item-meta">
+                            <a href="https://www.who.int/news/item/06-03-2025-strengthening-public-health-across-lebanon-with-eib-global" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">WHO</span>
+                        </div>
+                    </article>
+                    </div>
+                    <button class="collapse-btn" data-target="health-full">
+                        <span>收起</span>
+                        <span class="btn-icon">▴</span>
+                    </button>
+                </div>
+            </section>
+            <section class="category-module gaming" id="module-gaming">
+                <div class="module-header">
+                    <span class="category-dot dot-gaming"></span>
+                    <h2>🎮 游戏</h2>
+                    <span class="article-count">5 篇</span>
+                </div>
+                <div class="module-preview">
+                                        <div class="preview-item">
+                        <span class="preview-num">01</span>
+                        <span class="preview-title">Football Fans Share Their Visceral Reactions to Nicolas Cage’s John Madden: ‘A Disgraceful Portrayal of a Great Man’</span>
+                    </div>                    <div class="preview-item">
+                        <span class="preview-num">02</span>
+                        <span class="preview-title">Ali G: Who Iz I? Review</span>
+                    </div>
+                </div>
+                                <button class="expand-btn" data-target="gaming-full" aria-expanded="false">
+                    <span class="btn-text">展开全部 5 篇</span>
+                    <span class="btn-icon">▾</span>
+                </button>
+                <div class="module-expanded" id="gaming-full">
+                    <div class="articles-list">
+                                            <article class="news-item">
+                        <h3><span class="item-num">01</span> Football Fans Share Their Visceral Reactions to Nicolas Cage’s John Madden: ‘A Disgraceful Portrayal of a Great Man’</h3>
+                        <p class="item-summary">[原文] NFL fans expressed some pretty heated responses on social media to the first clip of Nicolas Cage in the upcoming movie Madden, where the Oscar winner portrays the legendary football TV commentator Jo</p>
+                        <div class="item-meta">
+                            <a href="https://www.ign.com/articles/nicolas-cage-madden-movie-fan-reactions" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">IGN</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">02</span> Ali G: Who Iz I? Review</h3>
+                        <p class="item-summary">[原文] Sacha Baron Cohen’s attempt to resurrect Ali G goes disastrously off the rails, with barely a joke to be found.</p>
+                        <div class="item-meta">
+                            <a href="https://www.ign.com/articles/ali-g-who-iz-i-review" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">IGN</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">03</span> Wendy&#39;s Is Making a Turn-Based RPG and It Actually Looks Really Good</h3>
+                        <p class="item-summary">[原文] Wendy’s — yes, the American fast food chain — is releasing a surprisingly gorgeous, pixelated, turn-based RPG on Steam, and the internet is legitimately stunned by how good it looks.</p>
+                        <div class="item-meta">
+                            <a href="https://www.ign.com/articles/wendys-is-making-a-turn-based-rpg-and-it-actually-looks-really-good" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">IGN</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">04</span> Save $700 Off the HyperX OMEN Gaming Laptop With GeForce RTX 5060 (115W) Graphics</h3>
+                        <p class="item-summary">[原文] It&#39;s actually more powerful than the comparably priced Steam Machine.</p>
+                        <div class="item-meta">
+                            <a href="https://www.ign.com/articles/hyperx-omen-gaming-laptop-deal-october-2026" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">IGN</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">05</span> Winnie-the-Pooh: Blood and Honey 3 Exclusive Trailer</h3>
+                        <p class="item-summary">[原文] IGN can exclusively reveal the first trailer for Winnie-the-Pooh: Blood and Honey 3, which director Scott Chambers calls “absolute carnage.” The slasher sequel will open in late January 2027.</p>
+                        <div class="item-meta">
+                            <a href="https://www.ign.com/articles/winnie-the-pooh-blood-and-honey-3-trailer" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">IGN</span>
+                        </div>
+                    </article>
+                    </div>
+                    <button class="collapse-btn" data-target="gaming-full">
+                        <span>收起</span>
+                        <span class="btn-icon">▴</span>
+                    </button>
+                </div>
+            </section>
+            <section class="category-module automotive" id="module-automotive">
+                <div class="module-header">
+                    <span class="category-dot dot-automotive"></span>
+                    <h2>🚗 汽车</h2>
+                    <span class="article-count">5 篇</span>
+                </div>
+                <div class="module-preview">
+                                        <div class="preview-item">
+                        <span class="preview-num">01</span>
+                        <span class="preview-title">LA Just Powered Up Speed Cameras. Tickets of Up To $500 Start Getting Mailed In Less Than 60 Days</span>
+                    </div>                    <div class="preview-item">
+                        <span class="preview-num">02</span>
+                        <span class="preview-title">Bring a Trailer’s President Has a Message for Money Launderers</span>
+                    </div>
+                </div>
+                                <button class="expand-btn" data-target="automotive-full" aria-expanded="false">
+                    <span class="btn-text">展开全部 5 篇</span>
+                    <span class="btn-icon">▾</span>
+                </button>
+                <div class="module-expanded" id="automotive-full">
+                    <div class="articles-list">
+                                            <article class="news-item">
+                        <h3><span class="item-num">01</span> LA Just Powered Up Speed Cameras. Tickets of Up To $500 Start Getting Mailed In Less Than 60 Days</h3>
+                        <p class="item-summary">[原文] The first 25 of a planned 125 cameras are sending warnings for now. Hit 11 mph over the limit after that, and the fines start at $50.
+The post LA Just Powered Up Speed Cameras. Tickets of Up To $500 S</p>
+                        <div class="item-meta">
+                            <a href="https://www.thedrive.com/news/la-just-powered-up-speed-cameras-tickets-of-up-to-500-start-getting-mailed-in-less-than-60-days" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">The Drive</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">02</span> Bring a Trailer’s President Has a Message for Money Launderers</h3>
+                        <p class="item-summary">[原文] Bring a Trailer President Howard Swig told The Drive what he makes of claims that eye-popping sales like an $87,000 VW GTI are money laundering, and why BaT&#39;s public bidding invites them.
+The post Bri</p>
+                        <div class="item-meta">
+                            <a href="https://www.thedrive.com/news/bring-a-trailers-president-has-a-message-for-money-launderers" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">The Drive</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">03</span> Why Are Bring a Trailer Prices So High? Its President Has an Answer</h3>
+                        <p class="item-summary">[原文] Bring a Trailer President Howard Swig told The Drive why the site keeps producing headline results like $2 million Ford GTs, and why some classics are going the other way.
+The post Why Are Bring a Tra</p>
+                        <div class="item-meta">
+                            <a href="https://www.thedrive.com/news/bring-a-trailer-sold-a-650000-acura-nsx-market-price-or-bat-price" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">The Drive</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">04</span> Tesla Semis Are Now Charging at Mainstream Truck Stops</h3>
+                        <p class="item-summary">[原文] Pilot’s first 1.2-megawatt Megachargers are open in Georgia and California, and they’re the first public Semi charging outside the Golden State.
+The post Tesla Semis Are Now Charging at Mainstream Tru</p>
+                        <div class="item-meta">
+                            <a href="https://www.thedrive.com/news/tesla-semis-are-now-charging-at-mainstream-truck-stops" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">The Drive</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">05</span> Bring a Trailer Started as a Craigslist Blog. It Created an Industry</h3>
+                        <p class="item-summary">[原文] Bring a Trailer President Howard Swig told The Drive how the site sells million-dollar cars for a capped $7,500 fee, why it finally has real competition, and why the comments are still its secret sauc</p>
+                        <div class="item-meta">
+                            <a href="https://www.thedrive.com/podcast/bring-a-trailer-started-as-a-craigslist-blog-it-created-an-industry" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">The Drive</span>
+                        </div>
+                    </article>
+                    </div>
+                    <button class="collapse-btn" data-target="automotive-full">
+                        <span>收起</span>
+                        <span class="btn-icon">▴</span>
+                    </button>
+                </div>
+            </section>
+            <section class="category-module environment" id="module-environment">
+                <div class="module-header">
+                    <span class="category-dot dot-environment"></span>
+                    <h2>🌱 环境</h2>
+                    <span class="article-count">5 篇</span>
+                </div>
+                <div class="module-preview">
+                                        <div class="preview-item">
+                        <span class="preview-num">01</span>
+                        <span class="preview-title">Most Wells Around the Grand Canyon With High Arsenic Levels Are at Uranium Mine, New Analysis Shows</span>
+                    </div>                    <div class="preview-item">
+                        <span class="preview-num">02</span>
+                        <span class="preview-title">In North Carolina, a ‘Mountain Democrat’ Vies for Residents Still Hurting From Helene</span>
+                    </div>
+                </div>
+                                <button class="expand-btn" data-target="environment-full" aria-expanded="false">
+                    <span class="btn-text">展开全部 5 篇</span>
+                    <span class="btn-icon">▾</span>
+                </button>
+                <div class="module-expanded" id="environment-full">
+                    <div class="articles-list">
+                                            <article class="news-item">
+                        <h3><span class="item-num">01</span> Most Wells Around the Grand Canyon With High Arsenic Levels Are at Uranium Mine, New Analysis Shows</h3>
+                        <p class="item-summary">[原文] Three of four wells across the Grand Canyon region that have average arsenic levels above the Environmental Protection Agency’s standard for safe drinking water are at the site of a controversial uran</p>
+                        <div class="item-meta">
+                            <a href="https://insideclimatenews.org/news/28102026/grand-canyon-uranium-mine-high-arsenic-levels/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Inside Climate News</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">02</span> In North Carolina, a ‘Mountain Democrat’ Vies for Residents Still Hurting From Helene</h3>
+                        <p class="item-summary">[原文] This article was originally published by The Assembly. It is republished with permission. It’s an hour before Big Ivy’s food bank officially opens, but over a dozen families have congregated around th</p>
+                        <div class="item-meta">
+                            <a href="https://insideclimatenews.org/news/28102026/in-north-carolina-a-mountain-democrat-vies-for-residents-still-hurting-from-helene/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Inside Climate News</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">03</span> Antarctic Sea Ice Decline Is Triggering Global Ocean Changes</h3>
+                        <p class="item-summary">[原文] The rapid decline of Antarctic sea ice since 2016 has triggered a dramatic shift in a crucial part of Earth’s climate system, scientists say.&amp;#160; In a paper published Wednesday, researchers document</p>
+                        <div class="item-meta">
+                            <a href="https://insideclimatenews.org/news/28102026/antarctic-sea-ice-decline-triggers-ocean-changes/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Inside Climate News</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">04</span> How Texas Could End Up Paying an Israeli Company Billions for Water</h3>
+                        <p class="item-summary">[原文] Plans are advancing on the Gulf Coast of Texas for an enormous seawater desalination plant which, if built, would be part of one of the largest water infrastructure developments in the country.&amp;#160; </p>
+                        <div class="item-meta">
+                            <a href="https://insideclimatenews.org/news/28102026/texas-could-privatize-water-supply-with-israeli-company/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Inside Climate News</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">05</span> Climate Is on the Ballot, Even if It’s Not in Candidates’ Campaign Messages</h3>
+                        <p class="item-summary">[原文] In the final stretch of their midterm drive to gain control of Congress, Democratic candidates are talking mostly about the pain of high energy costs, not the risks of climate change. But advocates of</p>
+                        <div class="item-meta">
+                            <a href="https://insideclimatenews.org/news/28102026/midterm-elections-climate-impact/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Inside Climate News</span>
+                        </div>
+                    </article>
+                    </div>
+                    <button class="collapse-btn" data-target="environment-full">
+                        <span>收起</span>
+                        <span class="btn-icon">▴</span>
+                    </button>
+                </div>
+            </section>
+            <section class="category-module education" id="module-education">
+                <div class="module-header">
+                    <span class="category-dot dot-education"></span>
+                    <h2>📚 教育</h2>
+                    <span class="article-count">5 篇</span>
+                </div>
+                <div class="module-preview">
+                                        <div class="preview-item">
+                        <span class="preview-num">01</span>
+                        <span class="preview-title">How Teachers Are Turning the Midterms Into a Nonpartisan Civics Lesson</span>
+                    </div>                    <div class="preview-item">
+                        <span class="preview-num">02</span>
+                        <span class="preview-title">Does an AI Pause Protect Students, or Leave Some Behind?</span>
+                    </div>
+                </div>
+                                <button class="expand-btn" data-target="education-full" aria-expanded="false">
+                    <span class="btn-text">展开全部 5 篇</span>
+                    <span class="btn-icon">▾</span>
+                </button>
+                <div class="module-expanded" id="education-full">
+                    <div class="articles-list">
+                                            <article class="news-item">
+                        <h3><span class="item-num">01</span> How Teachers Are Turning the Midterms Into a Nonpartisan Civics Lesson</h3>
+                        <p class="item-summary">[原文] A new survey finds young people doubt elected officials are listening, yet more plan to vote than in 2024.</p>
+                        <div class="item-meta">
+                            <a href="https://edsurge.com/news/how-teachers-are-turning-the-midterms-into-a-nonpartisan-civics-lesson" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">EdSurge</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">02</span> Does an AI Pause Protect Students, or Leave Some Behind?</h3>
+                        <p class="item-summary">[原文] Artificial intelligence in the classroom comes with risk, but students must learn AI literacy.</p>
+                        <div class="item-meta">
+                            <a href="https://edsurge.com/news/does-an-ai-pause-protect-students-or-leave-some-behind" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">EdSurge</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">03</span> What Playgrounds Can Teach Us About AI in Schools</h3>
+                        <p class="item-summary">[原文] Deciding whether students should use AI requires balancing safety with the developmental need to learn about managing risk.</p>
+                        <div class="item-meta">
+                            <a href="https://edsurge.com/news/what-playgrounds-can-teach-us-about-ai-in-schools" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">EdSurge</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">04</span> AI, Elections and the Making of an Informed Electorate</h3>
+                        <p class="item-summary">[原文] As AI chatbots answer voters’ questions in seconds, schools need to teach students to ask where those answers come from — and to reach their own ...</p>
+                        <div class="item-meta">
+                            <a href="https://edsurge.com/news/ai-elections-and-the-making-of-an-informed-electorate" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">EdSurge</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">05</span> Pause AI in Schools. But Not Before You Do This First.</h3>
+                        <p class="item-summary">[原文] Ban or no ban, students are going to use AI. Let’s make sure they have the skills to navigate it, says Common Sense Media’s chief program officer.</p>
+                        <div class="item-meta">
+                            <a href="https://edsurge.com/news/pause-ai-in-schools-but-not-before-you-do-this-first" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">EdSurge</span>
+                        </div>
+                    </article>
+                    </div>
+                    <button class="collapse-btn" data-target="education-full">
+                        <span>收起</span>
+                        <span class="btn-icon">▴</span>
+                    </button>
+                </div>
+            </section>
+            <section class="category-module music" id="module-music">
+                <div class="module-header">
+                    <span class="category-dot dot-music"></span>
+                    <h2>🎵 音乐</h2>
+                    <span class="article-count">5 篇</span>
+                </div>
+                <div class="module-preview">
+                                        <div class="preview-item">
+                        <span class="preview-num">01</span>
+                        <span class="preview-title">The Beach Boys Canceled Another Show. A John Stamos Spinoff Group Is Taking Their Spot</span>
+                    </div>                    <div class="preview-item">
+                        <span class="preview-num">02</span>
+                        <span class="preview-title">Therapy Helped Jim James So Much, He Wrote a Book About His Breakthroughs</span>
+                    </div>
+                </div>
+                                <button class="expand-btn" data-target="music-full" aria-expanded="false">
+                    <span class="btn-text">展开全部 5 篇</span>
+                    <span class="btn-icon">▾</span>
+                </button>
+                <div class="module-expanded" id="music-full">
+                    <div class="articles-list">
+                                            <article class="news-item">
+                        <h3><span class="item-num">01</span> The Beach Boys Canceled Another Show. A John Stamos Spinoff Group Is Taking Their Spot</h3>
+                        <p class="item-summary">[原文] A new entity billing themselves as John Stamos and the California Sound have been formed to take the place of the Beach Boys at Disney World on November 11 and 12</p>
+                        <div class="item-meta">
+                            <a href="https://www.rollingstone.com/music/music-news/beach-boys-pull-out-john-stamos-california-sound-1235649359/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Rolling Stone</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">02</span> Therapy Helped Jim James So Much, He Wrote a Book About His Breakthroughs</h3>
+                        <p class="item-summary">[原文] The My Morning Jacket frontman will release his debut memoir One Wonders in April with reflections on his musical career and mental health journey</p>
+                        <div class="item-meta">
+                            <a href="https://www.rollingstone.com/music/music-news/my-morning-jacket-jim-james-memoir-one-wonders-1235649311/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Rolling Stone</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">03</span> Guided by Voices Welcome 2027 by Announcing ‘Speculation and Gossip’</h3>
+                        <p class="item-summary">[原文] The first single off new album, &quot;Designed for Use,&quot; is a barreling, muscled track that turns a piece of mundane packaging copy into a motto</p>
+                        <div class="item-meta">
+                            <a href="https://www.rollingstone.com/music/music-news/guided-by-voices-speculation-and-gossip-album-1235648797/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Rolling Stone</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">04</span> Ozzy Osbourne’s Last Black Sabbath Concert Will Be Available On Vinyl</h3>
+                        <p class="item-summary">[原文] Following its theatrical release, film and soundtrack versions of Back to the Beginning will be available on DVD, Blu-ray, CD, and vinyl with special bonus material</p>
+                        <div class="item-meta">
+                            <a href="https://www.rollingstone.com/music/music-news/ozzy-osbournes-back-to-the-beginning-film-soundtrack-1235649235/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Rolling Stone</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">05</span> Bob Dylan Played ‘Not Dark Yet’ for First Time in Seven Years, and Totally Reimagined It</h3>
+                        <p class="item-summary">[原文] He shaved two minutes off the Time Out of Mind classic, but added in a distinct reggae touch and made some of the darkest lyrics of his career feel significantly less dreary</p>
+                        <div class="item-meta">
+                            <a href="https://www.rollingstone.com/music/music-news/bob-dylan-not-dark-yet-first-time-seven-years-1235649184/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Rolling Stone</span>
+                        </div>
+                    </article>
+                    </div>
+                    <button class="collapse-btn" data-target="music-full">
+                        <span>收起</span>
+                        <span class="btn-icon">▴</span>
+                    </button>
+                </div>
+            </section>
+            <section class="category-module travel" id="module-travel">
+                <div class="module-header">
+                    <span class="category-dot dot-travel"></span>
+                    <h2>✈️ 旅游</h2>
+                    <span class="article-count">5 篇</span>
+                </div>
+                <div class="module-preview">
+                                        <div class="preview-item">
+                        <span class="preview-num">01</span>
+                        <span class="preview-title">Vrbo Launches Reserve Now, Pay Later — With a Twist on Airbnb’s Approach</span>
+                    </div>                    <div class="preview-item">
+                        <span class="preview-num">02</span>
+                        <span class="preview-title">Marriott Confirms Corporate Job Cuts</span>
+                    </div>
+                </div>
+                                <button class="expand-btn" data-target="travel-full" aria-expanded="false">
+                    <span class="btn-text">展开全部 5 篇</span>
+                    <span class="btn-icon">▾</span>
+                </button>
+                <div class="module-expanded" id="travel-full">
+                    <div class="articles-list">
+                                            <article class="news-item">
+                        <h3><span class="item-num">01</span> Vrbo Launches Reserve Now, Pay Later — With a Twist on Airbnb’s Approach</h3>
+                        <p class="item-summary">[原文] Paying nothing up-front has been one of Airbnb&#39;s clearest growth levers. Vrbo&#39;s version of Reserve Now, Pay Later seems more host-friendly, but it gives guests less flexibility in when they can cancel</p>
+                        <div class="item-meta">
+                            <a href="https://skift.com/2026/10/28/vrbo-launches-reserve-now-pay-later-with-a-twist-on-airbnbs-approach/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Skift</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">02</span> Marriott Confirms Corporate Job Cuts</h3>
+                        <p class="item-summary">[原文] Marriott is cutting corporate jobs, not hotel staff, in a global restructuring. Some affected workers may land newly posted roles, it says.</p>
+                        <div class="item-meta">
+                            <a href="https://skift.com/2026/10/28/marriott-confirms-corporate-job-cuts/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Skift</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">03</span> Frontier’s Fares Soar, But Spirit’s Exit Hasn’t Fixed Its Profit Problem</h3>
+                        <p class="item-summary">[原文] Spirit&#39;s collapse has given Frontier room to raise fares and attract more passengers – but record revenues have yet to translate into meaningful profits.</p>
+                        <div class="item-meta">
+                            <a href="https://skift.com/2026/10/28/frontiers-fares-soar-but-spirits-exit-hasnt-fixed-its-profit-problem/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Skift</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">04</span> Why Luxury Escapes Puts Its Best Prices Behind a Paywall</h3>
+                        <p class="item-summary">[原文] Travel customers switch platforms on price and inventory with little friction, and Luxury Escapes’ CEO builds around that. His bet is a paid membership with a genuine paywall over partner pricing, a m</p>
+                        <div class="item-meta">
+                            <a href="https://skift.com/2026/10/28/skift-commerce-summit-preview-luxury-escapes-adam-schwab/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Skift</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">05</span> The New Math Behind Travel’s AI Roll-Ups</h3>
+                        <p class="item-summary">[原文] AI could give travel consolidators a new way to improve the companies they buy. The question is whether the gains are real, repeatable, and worth the price of admission.</p>
+                        <div class="item-meta">
+                            <a href="https://skift.com/2026/10/28/the-new-math-behind-travels-ai-roll-ups/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Skift</span>
+                        </div>
+                    </article>
+                    </div>
+                    <button class="collapse-btn" data-target="travel-full">
+                        <span>收起</span>
+                        <span class="btn-icon">▴</span>
+                    </button>
+                </div>
+            </section></div>
+    </div>
+
+    <section class="sources-section"><h2>📊 数据来源</h2><table class="sources-table"><tr><td>🌍 国际政治</td><td>BBC World</td></tr>
+<tr><td>💰 经济财经</td><td>CNBC</td></tr>
+<tr><td>💻 科技</td><td>TechCrunch</td></tr>
+<tr><td>🔬 科学</td><td>Science Daily</td></tr>
+<tr><td>⚽ 体育</td><td>BBC Sport</td></tr>
+<tr><td>🎬 娱乐</td><td>Variety</td></tr>
+<tr><td>🏥 健康</td><td>WHO</td></tr>
+<tr><td>🎮 游戏</td><td>IGN</td></tr>
+<tr><td>🚗 汽车</td><td>The Drive</td></tr>
+<tr><td>🌱 环境</td><td>Inside Climate News</td></tr>
+<tr><td>📚 教育</td><td>EdSurge</td></tr>
+<tr><td>🎵 音乐</td><td>Rolling Stone</td></tr>
+<tr><td>✈️ 旅游</td><td>Skift</td></tr></table></section>
+                <section class="errors-section">
+                <h2>⚠️ 今日故障源</h2>
+                <ul>
+                    <li>💰 经济财经: Yahoo Finance</li><li>🚗 汽车: Autocar</li>
+                </ul>
+            </section>
+</main>
+
+<footer class="site-footer"><div class="divider"></div><p>本日报由脚本自动生成，内容由 <strong>DeepSeek AI</strong> 翻译与摘要</p><p class="mono">所有新闻版权归原来源所有</p></footer>
+
+<script id="search-data" type="application/json">[{"title": "High-speed train crash kills at least 68 people in Spain", "summary": "[原文] The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.", "source": "BBC World", "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain", "summary": "[原文] Survivors of the train crash in Spain have spoken of their shock, panic and anger at the accident in Toledo province on Wednesday.", "source": "BBC World", "link": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami", "summary": "[原文] The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.", "source": "BBC World", "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "Netanyahu's bloc leading Israel election but short of majority, partial results show", "summary": "[原文] With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.", "source": "BBC World", "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "How could Israel break election deadlock? Here are four scenarios", "summary": "[原文] With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.", "source": "BBC World", "link": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "Alphabet sinks 10% as it holds 2026 capex unchanged, expects significant increase in 2027", "summary": "[原文] Alphabet missed Q3 expectations on earnings and revenue, its first top-and-bottom-line miss in nearly four years.", "source": "CNBC", "link": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat", "summary": "[原文] Microsoft reported better-than-expected results driven by 48% growth in Azure revenue.", "source": "CNBC", "link": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "Bond investor Jeff Gundlach on Fed's rate pause: 'What are you waiting for?'", "summary": "[原文] The DoubleLine founder spoke with CNBC's \"Closing Bell\" on Wednesday after the Fed held interest rates steady.", "source": "CNBC", "link": "https://www.cnbc.com/2026/10/28/bond-investor-jeff-gundlach-talks-feds-rate-pause-with-cnbc.html", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "Here are five key takeaways from the Fed rate decision and Warsh news conference", "summary": "[原文] Even though the interest-rate vote went as expected, there were a few surprises out of this week's Federal Open Market Committee meeting.", "source": "CNBC", "link": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "DoorDash's deal to buy Instacart coming as early as Thursday morning, sources tell CNBC", "summary": "[原文] Speculation of a deal has swirled since last week, and several outlets reported the acquisition could value Instacart at roughly $17 billion.", "source": "CNBC", "link": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion", "summary": "[原文] Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.", "source": "TechCrunch", "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/", "category": "Technology", "category_cn": "💻 科技"}, {"title": "Google expands AI Search ads globally as core ad growth slows", "summary": "[原文] The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.", "source": "TechCrunch", "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/", "category": "Technology", "category_cn": "💻 科技"}, {"title": "Microsoft recorded $10 billion in revenue from OpenAI", "summary": "[原文] Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financ", "source": "TechCrunch", "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/", "category": "Technology", "category_cn": "💻 科技"}, {"title": "Microsoft hits 10 quarters of record-breaking revenue in a row", "summary": "[原文] Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase", "source": "TechCrunch", "link": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/", "category": "Technology", "category_cn": "💻 科技"}, {"title": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents", "summary": "[原文] A hacker obtained personally identifiable information about more than 40,000 Homeland Security staffers, which has since been published online.", "source": "TechCrunch", "link": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/", "category": "Technology", "category_cn": "💻 科技"}, {"title": "A single sauna session sends immune cells surging through your body", "summary": "[原文] A new Finnish study reveals that just 30 minutes in a sauna can temporarily flood the bloodstream with additional white blood cells, potentially helping the immune system patrol the body and detect th", "source": "Science Daily", "link": "https://www.sciencedaily.com/releases/2026/10/261027231021.htm", "category": "Science", "category_cn": "🔬 科学"}, {"title": "A simple daily fiber supplement reduced arthritis pain and improved strength", "summary": "[原文] A new clinical trial suggests that a simple daily fiber supplement could significantly reduce knee osteoarthritis pain, improve muscle strength, and make the body less sensitive to pain. Researchers d", "source": "Science Daily", "link": "https://www.sciencedaily.com/releases/2026/10/261027230715.htm", "category": "Science", "category_cn": "🔬 科学"}, {"title": "The autistic brain processes faces differently than scientists thought", "summary": "[原文] A major new study reveals that autistic children’s brains process faces differently, and those differences may begin earlier than scientists previously thought. Researchers found that brain signals as", "source": "Science Daily", "link": "https://www.sciencedaily.com/releases/2026/10/261027063824.htm", "category": "Science", "category_cn": "🔬 科学"}, {"title": "Smaller EV batteries, longer range? Scientists may have found a way", "summary": "[原文] Scientists have developed a new technology that could make electric vehicle batteries smaller, lighter, and longer-lasting, potentially allowing cars to travel farther on a single charge. By borrowing", "source": "Science Daily", "link": "https://www.sciencedaily.com/releases/2026/10/261027063708.htm", "category": "Science", "category_cn": "🔬 科学"}, {"title": "Scientists discover a secret glow in toxic fire salamanders", "summary": "[原文] Researchers have discovered a surprising hidden ability in Europe's familiar black-and-yellow fire salamanders: they glow green and cyan under ultraviolet light. The mysterious fluorescence comes main", "source": "Science Daily", "link": "https://www.sciencedaily.com/releases/2026/10/261027063707.htm", "category": "Science", "category_cn": "🔬 科学"}, {"title": "Labuschagne's form hits record low but Australia hint at future", "summary": "[原文] Marnus Labuschagne's poor form hit a record low but Australia's new guard stood up to put the tourists in a strong position in the decisive Test against South Africa.", "source": "BBC Sport", "link": "https://www.bbc.co.uk/sport/cricket/articles/cxyvr1my94m4o?at_medium=RSS&at_campaign=rss", "category": "Sports", "category_cn": "⚽ 体育"}, {"title": "Red Roses make six changes but Kildunne on bench again", "summary": "[原文] Red Roses' star Ellie Kildunne is named on England's bench again as head coach John Mitchell makes six changes to his side to face the United States.", "source": "BBC Sport", "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cq1m4kn84gk2o?at_medium=RSS&at_campaign=rss", "category": "Sports", "category_cn": "⚽ 体育"}, {"title": "Chelsea continue unbeaten start with win over Roma", "summary": "[原文] Chelsea's strong start to the season continues with victory over Roma in the Women's Champions League.", "source": "BBC Sport", "link": "https://www.bbc.co.uk/sport/football/videos/cm17k8x994edo?at_medium=RSS&at_campaign=rss", "category": "Sports", "category_cn": "⚽ 体育"}, {"title": "Djokovic celebrates 'big win' on return to Basel", "summary": "[原文] Novak Djokovic pulls off a hard-fought comeback victory over Ugo Humbert to keep alive his hopes of qualifying for the season-ending ATP Finals.", "source": "BBC Sport", "link": "https://www.bbc.co.uk/sport/tennis/articles/cmd93vlz4k11o?at_medium=RSS&at_campaign=rss", "category": "Sports", "category_cn": "⚽ 体育"}, {"title": "Perez signs multi-year extension with Cadillac", "summary": "[原文] Sergio Perez will remain with Cadillac until 2029 after signing a multi-year contract extension.", "source": "BBC Sport", "link": "https://www.bbc.co.uk/sport/formula1/articles/cqde852ww04ko?at_medium=RSS&at_campaign=rss", "category": "Sports", "category_cn": "⚽ 体育"}, {"title": "Barbara Barrie, Oscar-Nominated Star of ‘Barney Miller’ and ‘Breaking Away,’ Dies at 95", "summary": "[原文] Barbara Barrie, the Oscar-, Emmy- and Tony-nominated actress who starred in the original production of “Company” and in films including “Breaking Away,” died Wednesday in Manhattan. She was 95. Her da", "source": "Variety", "link": "https://variety.com/2026/film/news/barbara-barrie-dead-company-breaking-away-1236933678/", "category": "Entertainment", "category_cn": "🎬 娱乐"}, {"title": "Chinese Sci-Fi Thriller ‘Variant’ Lands North American, European and Asian Deals (EXCLUSIVE)", "summary": "[原文] Chinese film “Variant,” a sci-fi action thriller from director Qilin Li, is headed to North America with International Media Network (IMN), which acquired U.S. and Canadian rights. Sales company Cappu", "source": "Variety", "link": "https://variety.com/2026/film/markets-festivals/chinese-sci-fi-thriller-variant-north-america-europe-deals-1236933674/", "category": "Entertainment", "category_cn": "🎬 娱乐"}, {"title": "Hayden Panettiere’s Overdose Death Investigation Closed by Police", "summary": "[原文] Hayden Panettiere&#8217;s death has been ruled as accidental and the investigation has concluded, the Greenville, South Carolina police department announced Wednesday. “Based on the (coroner’s office’", "source": "Variety", "link": "https://variety.com/2026/tv/news/hayden-panettiere-death-investigation-closed-accidental-1236933664/", "category": "Entertainment", "category_cn": "🎬 娱乐"}, {"title": "Alfonso Cuaron’s Apple TV Cult Series ‘Ascension’ Adds Amanda Plummer, Christopher Chung, T’Nia Miller", "summary": "[原文] Alfonso Cuarón&#8217;s upcoming Apple TV series &#8220;Ascension&#8221; has added three new series regulars. Variety has learned that Amanda Plummer (&#8220;Run,&#8221; &#8220;Butterfly Kiss&#8221;), ", "source": "Variety", "link": "https://variety.com/2026/tv/news/alfonso-cuaron-apple-tv-ascension-cast-1236933558/", "category": "Entertainment", "category_cn": "🎬 娱乐"}, {"title": "Skydance TV Co-Chair George Cheeks Reveals Executive Structure Following Paramount-Warner Bros. Merger", "summary": "[原文] Skydance TV co-chair and chief content officer George Cheeks formalized his division’s executive structure. In a memo to staff, Cheeks shared the specific titles for his direct reports, as well as how", "source": "Variety", "link": "https://variety.com/2026/tv/news/skydance-george-cheeks-channing-dungey-executive-structure-1236933612/", "category": "Entertainment", "category_cn": "🎬 娱乐"}, {"title": "New WHO technical package to help countries improve health data for COVID-19 response and beyond", "summary": "[原文] Today, as part of its commitment to strengthening health information systems and improving health[1], especially in the context of the COVID-19 pandemic, WHO announced a new approach to improving acce", "source": "WHO", "link": "https://www.who.int/news/item/27-08-2020-new-who-technical-package-health-data-for-covid-19-response", "category": "Health", "category_cn": "🏥 健康"}, {"title": "WHO statement on notification of withdrawal of the United States", "summary": "[原文] WHO regrets the United States’ notification of withdrawal from WHO – a decision that makes both the United States and the world less safe. The notification of withdrawal raises issues that will be con", "source": "WHO", "link": "https://www.who.int/news/item/24-01-2026-who-statement-on-notification-of-withdrawal-of-the-united-states", "category": "Health", "category_cn": "🏥 健康"}, {"title": "Timor-Leste certified malaria-free by WHO", "summary": "[原文] The World Health Organization (WHO) has certified Timor-Leste as malaria-free, a remarkable achievement for a country that prioritized the disease and embarked on a concerted, nation-wide response sho", "source": "WHO", "link": "https://www.who.int/news/item/24-07-2025-timor-leste-certified-malaria-free-by-who", "category": "Health", "category_cn": "🏥 健康"}, {"title": "African Union and World Health Organization renew strategic partnership to drive impact and strengthen health systems in Africa", "summary": "[原文] The World Health Organization (WHO) and the African Union (AU) Commission renewed their longstanding strategic partnership today with the signing of an updated Memorandum of Understanding (MoU) on the", "source": "WHO", "link": "https://www.who.int/news/item/24-05-2025-world-health-organization-and-african-union-renew-strategic-partnership-to-drive-impact-and-strengthen-health-systems-in-africa", "category": "Health", "category_cn": "🏥 健康"}, {"title": "Strengthening public health across Lebanon with EIB Global", "summary": "[原文] Dr Tedros Adhanom Ghebreyesus, Director-General of the World Health Organization (WHO), and Thomas Östros, Vice-President of the European Investment Bank (EIB Global), met at the EIB Group Forum in Lu", "source": "WHO", "link": "https://www.who.int/news/item/06-03-2025-strengthening-public-health-across-lebanon-with-eib-global", "category": "Health", "category_cn": "🏥 健康"}, {"title": "Football Fans Share Their Visceral Reactions to Nicolas Cage’s John Madden: ‘A Disgraceful Portrayal of a Great Man’", "summary": "[原文] NFL fans expressed some pretty heated responses on social media to the first clip of Nicolas Cage in the upcoming movie Madden, where the Oscar winner portrays the legendary football TV commentator Jo", "source": "IGN", "link": "https://www.ign.com/articles/nicolas-cage-madden-movie-fan-reactions", "category": "Gaming", "category_cn": "🎮 游戏"}, {"title": "Ali G: Who Iz I? Review", "summary": "[原文] Sacha Baron Cohen’s attempt to resurrect Ali G goes disastrously off the rails, with barely a joke to be found.", "source": "IGN", "link": "https://www.ign.com/articles/ali-g-who-iz-i-review", "category": "Gaming", "category_cn": "🎮 游戏"}, {"title": "Wendy's Is Making a Turn-Based RPG and It Actually Looks Really Good", "summary": "[原文] Wendy’s — yes, the American fast food chain — is releasing a surprisingly gorgeous, pixelated, turn-based RPG on Steam, and the internet is legitimately stunned by how good it looks.", "source": "IGN", "link": "https://www.ign.com/articles/wendys-is-making-a-turn-based-rpg-and-it-actually-looks-really-good", "category": "Gaming", "category_cn": "🎮 游戏"}, {"title": "Save $700 Off the HyperX OMEN Gaming Laptop With GeForce RTX 5060 (115W) Graphics", "summary": "[原文] It's actually more powerful than the comparably priced Steam Machine.", "source": "IGN", "link": "https://www.ign.com/articles/hyperx-omen-gaming-laptop-deal-october-2026", "category": "Gaming", "category_cn": "🎮 游戏"}, {"title": "Winnie-the-Pooh: Blood and Honey 3 Exclusive Trailer", "summary": "[原文] IGN can exclusively reveal the first trailer for Winnie-the-Pooh: Blood and Honey 3, which director Scott Chambers calls “absolute carnage.” The slasher sequel will open in late January 2027.", "source": "IGN", "link": "https://www.ign.com/articles/winnie-the-pooh-blood-and-honey-3-trailer", "category": "Gaming", "category_cn": "🎮 游戏"}, {"title": "LA Just Powered Up Speed Cameras. Tickets of Up To $500 Start Getting Mailed In Less Than 60 Days", "summary": "[原文] The first 25 of a planned 125 cameras are sending warnings for now. Hit 11 mph over the limit after that, and the fines start at $50.\nThe post LA Just Powered Up Speed Cameras. Tickets of Up To $500 S", "source": "The Drive", "link": "https://www.thedrive.com/news/la-just-powered-up-speed-cameras-tickets-of-up-to-500-start-getting-mailed-in-less-than-60-days", "category": "Automotive", "category_cn": "🚗 汽车"}, {"title": "Bring a Trailer’s President Has a Message for Money Launderers", "summary": "[原文] Bring a Trailer President Howard Swig told The Drive what he makes of claims that eye-popping sales like an $87,000 VW GTI are money laundering, and why BaT's public bidding invites them.\nThe post Bri", "source": "The Drive", "link": "https://www.thedrive.com/news/bring-a-trailers-president-has-a-message-for-money-launderers", "category": "Automotive", "category_cn": "🚗 汽车"}, {"title": "Why Are Bring a Trailer Prices So High? Its President Has an Answer", "summary": "[原文] Bring a Trailer President Howard Swig told The Drive why the site keeps producing headline results like $2 million Ford GTs, and why some classics are going the other way.\nThe post Why Are Bring a Tra", "source": "The Drive", "link": "https://www.thedrive.com/news/bring-a-trailer-sold-a-650000-acura-nsx-market-price-or-bat-price", "category": "Automotive", "category_cn": "🚗 汽车"}, {"title": "Tesla Semis Are Now Charging at Mainstream Truck Stops", "summary": "[原文] Pilot’s first 1.2-megawatt Megachargers are open in Georgia and California, and they’re the first public Semi charging outside the Golden State.\nThe post Tesla Semis Are Now Charging at Mainstream Tru", "source": "The Drive", "link": "https://www.thedrive.com/news/tesla-semis-are-now-charging-at-mainstream-truck-stops", "category": "Automotive", "category_cn": "🚗 汽车"}, {"title": "Bring a Trailer Started as a Craigslist Blog. It Created an Industry", "summary": "[原文] Bring a Trailer President Howard Swig told The Drive how the site sells million-dollar cars for a capped $7,500 fee, why it finally has real competition, and why the comments are still its secret sauc", "source": "The Drive", "link": "https://www.thedrive.com/podcast/bring-a-trailer-started-as-a-craigslist-blog-it-created-an-industry", "category": "Automotive", "category_cn": "🚗 汽车"}, {"title": "Most Wells Around the Grand Canyon With High Arsenic Levels Are at Uranium Mine, New Analysis Shows", "summary": "[原文] Three of four wells across the Grand Canyon region that have average arsenic levels above the Environmental Protection Agency’s standard for safe drinking water are at the site of a controversial uran", "source": "Inside Climate News", "link": "https://insideclimatenews.org/news/28102026/grand-canyon-uranium-mine-high-arsenic-levels/", "category": "Environment", "category_cn": "🌱 环境"}, {"title": "In North Carolina, a ‘Mountain Democrat’ Vies for Residents Still Hurting From Helene", "summary": "[原文] This article was originally published by The Assembly. It is republished with permission. It’s an hour before Big Ivy’s food bank officially opens, but over a dozen families have congregated around th", "source": "Inside Climate News", "link": "https://insideclimatenews.org/news/28102026/in-north-carolina-a-mountain-democrat-vies-for-residents-still-hurting-from-helene/", "category": "Environment", "category_cn": "🌱 环境"}, {"title": "Antarctic Sea Ice Decline Is Triggering Global Ocean Changes", "summary": "[原文] The rapid decline of Antarctic sea ice since 2016 has triggered a dramatic shift in a crucial part of Earth’s climate system, scientists say.&#160; In a paper published Wednesday, researchers document", "source": "Inside Climate News", "link": "https://insideclimatenews.org/news/28102026/antarctic-sea-ice-decline-triggers-ocean-changes/", "category": "Environment", "category_cn": "🌱 环境"}, {"title": "How Texas Could End Up Paying an Israeli Company Billions for Water", "summary": "[原文] Plans are advancing on the Gulf Coast of Texas for an enormous seawater desalination plant which, if built, would be part of one of the largest water infrastructure developments in the country.&#160; ", "source": "Inside Climate News", "link": "https://insideclimatenews.org/news/28102026/texas-could-privatize-water-supply-with-israeli-company/", "category": "Environment", "category_cn": "🌱 环境"}, {"title": "Climate Is on the Ballot, Even if It’s Not in Candidates’ Campaign Messages", "summary": "[原文] In the final stretch of their midterm drive to gain control of Congress, Democratic candidates are talking mostly about the pain of high energy costs, not the risks of climate change. But advocates of", "source": "Inside Climate News", "link": "https://insideclimatenews.org/news/28102026/midterm-elections-climate-impact/", "category": "Environment", "category_cn": "🌱 环境"}, {"title": "How Teachers Are Turning the Midterms Into a Nonpartisan Civics Lesson", "summary": "[原文] A new survey finds young people doubt elected officials are listening, yet more plan to vote than in 2024.", "source": "EdSurge", "link": "https://edsurge.com/news/how-teachers-are-turning-the-midterms-into-a-nonpartisan-civics-lesson", "category": "Education", "category_cn": "📚 教育"}, {"title": "Does an AI Pause Protect Students, or Leave Some Behind?", "summary": "[原文] Artificial intelligence in the classroom comes with risk, but students must learn AI literacy.", "source": "EdSurge", "link": "https://edsurge.com/news/does-an-ai-pause-protect-students-or-leave-some-behind", "category": "Education", "category_cn": "📚 教育"}, {"title": "What Playgrounds Can Teach Us About AI in Schools", "summary": "[原文] Deciding whether students should use AI requires balancing safety with the developmental need to learn about managing risk.", "source": "EdSurge", "link": "https://edsurge.com/news/what-playgrounds-can-teach-us-about-ai-in-schools", "category": "Education", "category_cn": "📚 教育"}, {"title": "AI, Elections and the Making of an Informed Electorate", "summary": "[原文] As AI chatbots answer voters’ questions in seconds, schools need to teach students to ask where those answers come from — and to reach their own ...", "source": "EdSurge", "link": "https://edsurge.com/news/ai-elections-and-the-making-of-an-informed-electorate", "category": "Education", "category_cn": "📚 教育"}, {"title": "Pause AI in Schools. But Not Before You Do This First.", "summary": "[原文] Ban or no ban, students are going to use AI. Let’s make sure they have the skills to navigate it, says Common Sense Media’s chief program officer.", "source": "EdSurge", "link": "https://edsurge.com/news/pause-ai-in-schools-but-not-before-you-do-this-first", "category": "Education", "category_cn": "📚 教育"}, {"title": "The Beach Boys Canceled Another Show. A John Stamos Spinoff Group Is Taking Their Spot", "summary": "[原文] A new entity billing themselves as John Stamos and the California Sound have been formed to take the place of the Beach Boys at Disney World on November 11 and 12", "source": "Rolling Stone", "link": "https://www.rollingstone.com/music/music-news/beach-boys-pull-out-john-stamos-california-sound-1235649359/", "category": "Music", "category_cn": "🎵 音乐"}, {"title": "Therapy Helped Jim James So Much, He Wrote a Book About His Breakthroughs", "summary": "[原文] The My Morning Jacket frontman will release his debut memoir One Wonders in April with reflections on his musical career and mental health journey", "source": "Rolling Stone", "link": "https://www.rollingstone.com/music/music-news/my-morning-jacket-jim-james-memoir-one-wonders-1235649311/", "category": "Music", "category_cn": "🎵 音乐"}, {"title": "Guided by Voices Welcome 2027 by Announcing ‘Speculation and Gossip’", "summary": "[原文] The first single off new album, \"Designed for Use,\" is a barreling, muscled track that turns a piece of mundane packaging copy into a motto", "source": "Rolling Stone", "link": "https://www.rollingstone.com/music/music-news/guided-by-voices-speculation-and-gossip-album-1235648797/", "category": "Music", "category_cn": "🎵 音乐"}, {"title": "Ozzy Osbourne’s Last Black Sabbath Concert Will Be Available On Vinyl", "summary": "[原文] Following its theatrical release, film and soundtrack versions of Back to the Beginning will be available on DVD, Blu-ray, CD, and vinyl with special bonus material", "source": "Rolling Stone", "link": "https://www.rollingstone.com/music/music-news/ozzy-osbournes-back-to-the-beginning-film-soundtrack-1235649235/", "category": "Music", "category_cn": "🎵 音乐"}, {"title": "Bob Dylan Played ‘Not Dark Yet’ for First Time in Seven Years, and Totally Reimagined It", "summary": "[原文] He shaved two minutes off the Time Out of Mind classic, but added in a distinct reggae touch and made some of the darkest lyrics of his career feel significantly less dreary", "source": "Rolling Stone", "link": "https://www.rollingstone.com/music/music-news/bob-dylan-not-dark-yet-first-time-seven-years-1235649184/", "category": "Music", "category_cn": "🎵 音乐"}, {"title": "Vrbo Launches Reserve Now, Pay Later — With a Twist on Airbnb’s Approach", "summary": "[原文] Paying nothing up-front has been one of Airbnb's clearest growth levers. Vrbo's version of Reserve Now, Pay Later seems more host-friendly, but it gives guests less flexibility in when they can cancel", "source": "Skift", "link": "https://skift.com/2026/10/28/vrbo-launches-reserve-now-pay-later-with-a-twist-on-airbnbs-approach/", "category": "Travel", "category_cn": "✈️ 旅游"}, {"title": "Marriott Confirms Corporate Job Cuts", "summary": "[原文] Marriott is cutting corporate jobs, not hotel staff, in a global restructuring. Some affected workers may land newly posted roles, it says.", "source": "Skift", "link": "https://skift.com/2026/10/28/marriott-confirms-corporate-job-cuts/", "category": "Travel", "category_cn": "✈️ 旅游"}, {"title": "Frontier’s Fares Soar, But Spirit’s Exit Hasn’t Fixed Its Profit Problem", "summary": "[原文] Spirit's collapse has given Frontier room to raise fares and attract more passengers – but record revenues have yet to translate into meaningful profits.", "source": "Skift", "link": "https://skift.com/2026/10/28/frontiers-fares-soar-but-spirits-exit-hasnt-fixed-its-profit-problem/", "category": "Travel", "category_cn": "✈️ 旅游"}, {"title": "Why Luxury Escapes Puts Its Best Prices Behind a Paywall", "summary": "[原文] Travel customers switch platforms on price and inventory with little friction, and Luxury Escapes’ CEO builds around that. His bet is a paid membership with a genuine paywall over partner pricing, a m", "source": "Skift", "link": "https://skift.com/2026/10/28/skift-commerce-summit-preview-luxury-escapes-adam-schwab/", "category": "Travel", "category_cn": "✈️ 旅游"}, {"title": "The New Math Behind Travel’s AI Roll-Ups", "summary": "[原文] AI could give travel consolidators a new way to improve the companies they buy. The question is whether the gains are real, repeatable, and worth the price of admission.", "source": "Skift", "link": "https://skift.com/2026/10/28/the-new-math-behind-travels-ai-roll-ups/", "category": "Travel", "category_cn": "✈️ 旅游"}]</script>
+<script>
+(function(){
+'use strict';
+var moreToggle=document.getElementById('more-toggle'),moreGrid=document.getElementById('more-grid');
+if(moreToggle&&moreGrid){moreToggle.addEventListener('click',function(){
+var o=moreGrid.classList.toggle('open');moreToggle.classList.toggle('open',o);moreToggle.setAttribute('aria-expanded',o);});}
+function toggleModule(id,btn){var el=document.getElementById(id);if(!el)return;var is=el.classList.contains('open');
+document.querySelectorAll('.module-expanded.open').forEach(function(e){if(e!==el)e.classList.remove('open');});
+document.querySelectorAll('.expand-btn[aria-expanded="true"]').forEach(function(b){if(b!==btn)b.setAttribute('aria-expanded','false');});
+if(is){el.classList.remove('open');btn.setAttribute('aria-expanded','false');}
+else{el.classList.add('open');btn.setAttribute('aria-expanded','true');
+setTimeout(function(){el.closest('.category-module').scrollIntoView({behavior:'smooth',block:'start'});},100);}}
+document.querySelectorAll('.expand-btn').forEach(function(b){b.addEventListener('click',function(){toggleModule(this.getAttribute('data-target'),this);});});
+document.querySelectorAll('.collapse-btn').forEach(function(b){b.addEventListener('click',function(){
+var id=this.getAttribute('data-target'),el=document.getElementById(id),eb=document.querySelector('.expand-btn[data-target="'+id+'"]');
+if(el){el.classList.remove('open');if(eb)eb.setAttribute('aria-expanded','false');}});});
+(function(){
+var input=document.getElementById('search-input'),clearBtn=document.getElementById('search-clear'),
+searchIcon=document.querySelector('.search-icon'),statusEl=document.getElementById('search-status'),
+dataScript=document.getElementById('search-data');if(!input||!dataScript)return;
+var articles=[];try{articles=JSON.parse(dataScript.textContent);}catch(e){return;}
+function doSearch(){
+var q=input.value.trim().toLowerCase();
+document.querySelectorAll('.feature-card,.category-module,.news-item,.preview-item').forEach(function(e){e.classList.remove('hidden-by-search');});
+if(clearBtn)clearBtn.style.display=q?'flex':'none';if(searchIcon)searchIcon.style.display=q?'none':'';
+if(statusEl)statusEl.textContent='';if(!q)return;
+var matched=new Set();
+articles.forEach(function(a,i){if((a.title+' '+a.summary+' '+a.source+' '+a.category_cn).toLowerCase().indexOf(q)!==-1)matched.add(i);});
+document.querySelectorAll('.feature-card').forEach(function(c,i){c.classList.toggle('hidden-by-search',!matched.has(i));});
+document.querySelectorAll('.news-item').forEach(function(item){
+var t=(item.querySelector('h3')||{}).textContent||'',s=(item.querySelector('.item-summary')||{}).textContent||'',f=false;
+articles.forEach(function(a,i){if(matched.has(i)&&(t.indexOf(a.title.substring(0,25))!==-1||s.indexOf(a.summary.substring(0,25))!==-1))f=true;});
+item.classList.toggle('hidden-by-search',!f);});
+document.querySelectorAll('.preview-item').forEach(function(item){
+var t=(item.querySelector('.preview-title')||{}).textContent||'';
+var f=articles.some(function(a,i){return matched.has(i)&&t.indexOf(a.title.substring(0,20))!==-1;});
+item.classList.toggle('hidden-by-search',!f);});
+document.querySelectorAll('.category-module').forEach(function(m){
+var v=m.querySelectorAll('.news-item:not(.hidden-by-search),.preview-item:not(.hidden-by-search)');
+m.classList.toggle('hidden-by-search',v.length===0);});
+if(statusEl)statusEl.textContent='找到 '+matched.size+' 篇';}
+input.addEventListener('input',doSearch);
+if(clearBtn){clearBtn.addEventListener('click',function(){input.value='';doSearch();input.focus();});}
+input.addEventListener('keydown',function(e){if(e.key==='Escape'){input.value='';doSearch();input.blur();}});})();
+(function(){
+var t=document.getElementById('update-time'),a=document.getElementById('refresh-area'),h=document.getElementById('refresh-hint');
+if(!t||!a)return;
+var m=(t.getAttribute('datetime')||t.textContent.trim()).match(/(\d{4})-(\d{2})-(\d{2})\s+(\d{2}):(\d{2})/);if(!m)return;
+var d=new Date(parseInt(m[1]),parseInt(m[2])-1,parseInt(m[3]),parseInt(m[4]),parseInt(m[5]),0),dh=(new Date()-d)/3600000;
+if(dh>=2){var e=dh<3?'2小时前':Math.floor(dh)+'小时前';h.textContent='上次更新: '+e+' · 可手动触发刷新';a.style.display='flex';}})();
+document.querySelectorAll('.expand-btn,.collapse-btn,.more-toggle').forEach(function(b){b.addEventListener('keydown',function(e){if(e.key==='Enter'||e.key===' '){e.preventDefault();this.click();}});});
+})();
+</script>
+</body>
+</html>
