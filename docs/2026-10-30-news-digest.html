@@ -1,0 +1,1222 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>全球新闻日报 — 2026年10月30日</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;600;700;900&family=Noto+Sans+SC:wght@300;400;500;700&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+/* ═══════════════════════════════════════════════════════════
+   THE GLOBAL BRIEF v3 — 三层逻辑: 头条焦点 → 核心要闻 → 更多分类
+   ═══════════════════════════════════════════════════════════ */
+
+:root {
+    --bg:#faf9f6; --bg-secondary:#f3f1ec; --surface:#ffffff; --surface-hover:#fdfcf9;
+    --text-primary:#1c1917; --text-secondary:#5c5a57; --text-tertiary:#8c8a85;
+    --border:#e7e4df; --border-light:#f0ede8; --rule:#d4d0c9;
+    --accent-politics:#c2410c; --accent-economy:#b45309; --accent-tech:#2563eb;
+    --accent-science:#0891b2; --accent-sports:#7c3aed; --accent-entertainment:#db2777;
+    --accent-health:#059669; --accent-gaming:#ea580c; --accent-automotive:#4f46e5;
+    --accent-environment:#16a34a; --accent-education:#d97706; --accent-music:#9333ea;
+    --accent-travel:#047857;
+    --shadow-sm:0 1px 3px rgba(0,0,0,0.04); --shadow-md:0 4px 16px rgba(0,0,0,0.05);
+    --shadow-lg:0 12px 40px rgba(0,0,0,0.08); --radius-sm:6px; --radius-md:12px;
+    --radius-lg:20px; --max-width:960px;
+}
+
+@media (prefers-color-scheme:dark) {
+    :root { --bg:#171717;--bg-secondary:#1f1d1a;--surface:#24221f;--surface-hover:#2a2824;
+    --text-primary:#e8e4e0;--text-secondary:#a8a5a0;--text-tertiary:#787570;
+    --border:#33302b;--border-light:#2a2824;--rule:#3d3a34;
+    --shadow-sm:0 1px 3px rgba(0,0,0,0.2);--shadow-md:0 4px 16px rgba(0,0,0,0.25);
+    --shadow-lg:0 12px 40px rgba(0,0,0,0.3); }
+}
+
+* { margin:0;padding:0;box-sizing:border-box; }
+html { scroll-behavior:smooth;-webkit-font-smoothing:antialiased; }
+body { font-family:'Noto Sans SC',-apple-system,'PingFang SC','Microsoft YaHei',sans-serif;
+    background:var(--bg);color:var(--text-primary);line-height:1.75;min-height:100vh;
+    background-image:radial-gradient(ellipse at 20% 0%,rgba(120,120,120,0.03) 0%,transparent 60%),
+    radial-gradient(ellipse at 80% 100%,rgba(120,120,120,0.03) 0%,transparent 60%); }
+
+/* Masthead */
+.masthead { text-align:center;padding:40px 24px 28px;border-bottom:1px solid var(--rule);position:relative; }
+.masthead::after { content:'';position:absolute;bottom:-1px;left:50%;transform:translateX(-50%);
+    width:60px;height:2px;background:var(--text-primary);opacity:0.3; }
+.masthead .overline { font-family:'DM Mono',monospace;font-size:0.65rem;letter-spacing:0.4em;
+    text-transform:uppercase;color:var(--text-tertiary);margin-bottom:10px; }
+.masthead h1 { font-family:'Noto Serif SC',serif;font-size:clamp(1.6rem,5vw,2.4rem);
+    font-weight:900;letter-spacing:0.04em; }
+.masthead .dateline { font-size:0.82rem;color:var(--text-tertiary);margin-top:6px; }
+.masthead .dateline span { margin:0 8px;opacity:0.5; }
+
+/* Toolbar */
+.toolbar { display:flex;align-items:center;justify-content:center;gap:12px;margin-top:16px;flex-wrap:wrap; }
+.search-box { position:relative;display:flex;align-items:center; }
+.search-box input { width:240px;padding:9px 38px 9px 14px;border:1px solid var(--border);
+    border-radius:100px;background:var(--surface);color:var(--text-primary);
+    font-family:'Noto Sans SC',sans-serif;font-size:0.82rem;outline:none;transition:all 0.25s; }
+.search-box input:focus { border-color:var(--text-tertiary);box-shadow:0 0 0 3px rgba(0,0,0,0.04);width:280px; }
+.search-box input::placeholder { color:var(--text-tertiary); }
+.search-icon { position:absolute;right:11px;font-size:0.8rem;opacity:0.35;pointer-events:none; }
+.search-clear { position:absolute;right:9px;font-size:0.7rem;cursor:pointer;color:var(--text-tertiary);
+    padding:3px;display:none;z-index:1; }
+.search-clear:hover { color:var(--text-primary); }
+.tool-btn { font-family:'DM Mono',monospace;font-size:0.62rem;letter-spacing:0.15em;color:var(--text-tertiary);
+    text-decoration:none;padding:6px 12px;border:1px solid var(--border);border-radius:100px;
+    transition:all 0.2s;white-space:nowrap; }
+.tool-btn:hover { color:var(--text-primary);border-color:var(--text-tertiary); }
+.search-status { text-align:center;font-size:0.75rem;color:var(--text-tertiary);margin-top:8px; }
+
+/* Refresh */
+.refresh-area { margin-top:8px;display:none;align-items:center;justify-content:center;
+    gap:10px;animation:fadeIn 0.4s ease; }
+@keyframes fadeIn { from{opacity:0;transform:translateY(-6px);} to{opacity:1;transform:translateY(0);} }
+.refresh-hint { font-size:0.72rem;color:var(--text-tertiary); }
+.refresh-btn { font-family:'DM Mono',monospace;font-size:0.62rem;letter-spacing:0.12em;padding:5px 14px;
+    border:1px solid var(--border);border-radius:100px;background:var(--surface);color:var(--text-primary);
+    text-decoration:none;cursor:pointer;transition:all 0.25s; }
+.refresh-btn:hover { background:var(--text-primary);color:var(--bg);border-color:var(--text-primary); }
+
+/* Main */
+.main-container { max-width:var(--max-width);margin:0 auto;padding:24px 24px 80px; }
+.overall-digest { background:var(--surface);border:1px solid var(--border);border-radius:var(--radius-lg);
+    padding:24px 32px;margin-bottom:32px;box-shadow:var(--shadow-md);position:relative;overflow:hidden; }
+.overall-digest::before { content:'';position:absolute;top:0;left:0;width:4px;height:100%;
+    background:linear-gradient(180deg,var(--accent-politics),var(--accent-economy),
+    var(--accent-tech),var(--accent-science));border-radius:var(--radius-lg) 0 0 var(--radius-lg); }
+.overall-digest .label { font-family:'DM Mono',monospace;font-size:0.6rem;letter-spacing:0.3em;
+    text-transform:uppercase;color:var(--text-tertiary);margin-bottom:10px;display:block; }
+.overall-digest p { font-family:'Noto Serif SC',serif;font-size:clamp(0.9rem,2vw,1.05rem);line-height:1.9; }
+
+/* Section label */
+.section-label { font-family:'DM Mono',monospace;font-size:0.62rem;letter-spacing:0.3em;
+    text-transform:uppercase;color:var(--text-tertiary);margin-bottom:16px; }
+
+/* Featured (3-up) */
+.featured-grid { display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-bottom:36px; }
+.feature-card { background:var(--surface);border:1px solid var(--border);border-radius:var(--radius-lg);
+    padding:22px;box-shadow:var(--shadow-sm);transition:all 0.3s;position:relative;overflow:hidden; }
+.feature-card:hover { box-shadow:var(--shadow-lg);transform:translateY(-2px); }
+.feature-card::before { content:'';position:absolute;top:0;left:0;width:100%;height:3px; }
+.feature-card.politics::before { background:var(--accent-politics); }
+.feature-card.economy::before { background:var(--accent-economy); }
+.feature-card.technology::before { background:var(--accent-tech); }
+.feature-badge { display:inline-block;font-family:'DM Mono',monospace;font-size:0.58rem;
+    letter-spacing:0.2em;padding:2px 10px;border-radius:100px;margin-bottom:12px; }
+.feature-card.politics .feature-badge { background:#fff7ed;color:var(--accent-politics); }
+.feature-card.economy .feature-badge { background:#fffbeb;color:var(--accent-economy); }
+.feature-card.technology .feature-badge { background:#eff6ff;color:var(--accent-tech); }
+.feature-card h3 { font-family:'Noto Serif SC',serif;font-size:0.95rem;font-weight:700;
+    line-height:1.5;margin-bottom:8px; }
+.feature-summary { font-size:0.78rem;color:var(--text-secondary);line-height:1.6;margin-bottom:12px; }
+.feature-meta { display:flex;align-items:center;justify-content:space-between;font-size:0.68rem;
+    border-top:1px solid var(--border-light);padding-top:10px; }
+.feature-meta a { color:var(--text-primary);text-decoration:none;font-weight:600; }
+.feature-meta a:hover { opacity:0.6; }
+.feature-meta span { color:var(--text-tertiary); }
+
+/* Primary grid (2x2) */
+.primary-grid { display:grid;grid-template-columns:repeat(2,1fr);gap:16px;margin-bottom:36px; }
+
+/* More section */
+.more-section { margin-bottom:36px; }
+.more-toggle { display:flex;align-items:center;justify-content:center;gap:8px;width:100%;padding:14px;
+    border:1px dashed var(--border);border-radius:var(--radius-md);background:transparent;
+    color:var(--text-tertiary);font-family:'DM Mono',monospace;font-size:0.65rem;
+    letter-spacing:0.25em;cursor:pointer;transition:all 0.3s;margin-bottom:20px; }
+.more-toggle:hover { border-color:var(--text-tertiary);color:var(--text-primary);background:var(--surface); }
+.more-toggle .arrow { transition:transform 0.3s;font-size:0.7rem; }
+.more-toggle.open .arrow { transform:rotate(180deg); }
+.more-grid { display:none;grid-template-columns:repeat(2,1fr);gap:16px;animation:fadeIn 0.4s ease; }
+.more-grid.open { display:grid; }
+
+/* Category module */
+.category-module { background:var(--surface);border:1px solid var(--border);border-radius:var(--radius-lg);
+    box-shadow:var(--shadow-sm);transition:box-shadow 0.3s;overflow:hidden; }
+.category-module:hover { box-shadow:var(--shadow-md); }
+.category-module.politics{border-top:3px solid var(--accent-politics);}
+.category-module.economy{border-top:3px solid var(--accent-economy);}
+.category-module.technology{border-top:3px solid var(--accent-tech);}
+.category-module.science{border-top:3px solid var(--accent-science);}
+.category-module.sports{border-top:3px solid var(--accent-sports);}
+.category-module.entertainment{border-top:3px solid var(--accent-entertainment);}
+.category-module.health{border-top:3px solid var(--accent-health);}
+.category-module.gaming{border-top:3px solid var(--accent-gaming);}
+.category-module.automotive{border-top:3px solid var(--accent-automotive);}
+.category-module.environment{border-top:3px solid var(--accent-environment);}
+.category-module.education{border-top:3px solid var(--accent-education);}
+.category-module.music{border-top:3px solid var(--accent-music);}
+.category-module.travel{border-top:3px solid var(--accent-travel);}
+
+.module-header { display:flex;align-items:center;gap:10px;padding:18px 20px 0; }
+.module-header h2 { font-family:'Noto Serif SC',serif;font-size:1.05rem;font-weight:700;letter-spacing:0.02em; }
+.module-header .article-count { font-family:'DM Mono',monospace;font-size:0.62rem;color:var(--text-tertiary);margin-left:auto; }
+.module-preview { padding:12px 20px; }
+.preview-item { display:flex;align-items:baseline;gap:8px;padding:6px 0;border-bottom:1px solid var(--border-light); }
+.preview-item:last-child { border-bottom:none; }
+.preview-num { font-family:'DM Mono',monospace;font-size:0.58rem;color:var(--text-tertiary);min-width:16px; }
+.preview-title { font-size:0.84rem;line-height:1.4;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden; }
+
+/* Expand */
+.expand-btn,.collapse-btn { display:flex;align-items:center;justify-content:center;gap:6px;width:100%;
+    padding:8px 20px 16px;border:none;background:transparent;color:var(--text-tertiary);
+    font-family:'DM Mono',monospace;font-size:0.58rem;letter-spacing:0.2em;cursor:pointer;transition:color 0.2s; }
+.expand-btn:hover,.collapse-btn:hover { color:var(--text-primary); }
+.module-expanded { display:none; }
+.module-expanded.open { display:block;animation:fadeIn 0.35s ease; }
+.module-expanded .articles-list { padding:0 20px;border-top:1px solid var(--border-light);
+    max-height:480px;overflow-y:auto; }
+.module-expanded .articles-list::-webkit-scrollbar { width:4px; }
+.module-expanded .articles-list::-webkit-scrollbar-thumb { background:var(--border);border-radius:10px; }
+
+.news-item { padding:16px 0;border-bottom:1px solid var(--border-light); }
+.news-item:last-child { border-bottom:none; }
+.news-item h3 { font-family:'Noto Serif SC',serif;font-size:0.95rem;font-weight:600;line-height:1.5;margin-bottom:5px; }
+.news-item .item-num { font-family:'DM Mono',monospace;font-size:0.6rem;color:var(--text-tertiary);margin-right:4px; }
+.news-item .item-summary { font-size:0.82rem;color:var(--text-secondary);line-height:1.65;margin-bottom:6px; }
+.news-item .item-meta { display:flex;align-items:center;gap:10px;flex-wrap:wrap; }
+.news-item .item-link { font-size:0.74rem;text-decoration:none;font-weight:500; }
+.news-item .item-link::after { content:' ↗';font-size:0.6rem;opacity:0.5; }
+.news-item .item-source { font-size:0.68rem;color:var(--text-tertiary); }
+.news-item .item-source::before { content:'— '; }
+.collapse-btn { padding:14px 20px;border-top:1px solid var(--border-light); }
+
+/* Link colors per category */
+.category-module.politics .item-link{color:var(--accent-politics);}
+.category-module.economy .item-link{color:var(--accent-economy);}
+.category-module.technology .item-link{color:var(--accent-tech);}
+.category-module.science .item-link{color:var(--accent-science);}
+.category-module.sports .item-link{color:var(--accent-sports);}
+.category-module.entertainment .item-link{color:var(--accent-entertainment);}
+.category-module.health .item-link{color:var(--accent-health);}
+.category-module.gaming .item-link{color:var(--accent-gaming);}
+.category-module.automotive .item-link{color:var(--accent-automotive);}
+.category-module.environment .item-link{color:var(--accent-environment);}
+.category-module.education .item-link{color:var(--accent-education);}
+.category-module.music .item-link{color:var(--accent-music);}
+.category-module.travel .item-link{color:var(--accent-travel);}
+.no-news { color:var(--text-tertiary);font-style:italic;padding:16px 0;text-align:center;font-size:0.82rem; }
+
+/* Sources / Errors / Footer */
+.sources-section { background:var(--surface);border:1px solid var(--border);border-radius:var(--radius-lg);
+    padding:24px 32px;margin-bottom:24px;box-shadow:var(--shadow-sm); }
+.sources-section h2 { font-family:'Noto Serif SC',serif;font-size:1rem;margin-bottom:14px; }
+.sources-table { width:100%;border-collapse:collapse; }
+.sources-table td { padding:7px 0;border-bottom:1px solid var(--border-light);font-size:0.8rem; }
+.sources-table td:first-child { white-space:nowrap;width:22%;font-weight:500;padding-right:16px; }
+.sources-table td:last-child { color:var(--text-secondary); }
+.sources-table tr:last-child td { border-bottom:none; }
+.errors-section { background:#fff7ed;border:1px solid rgba(194,65,12,0.2);border-radius:var(--radius-lg);
+    padding:20px 28px;margin-bottom:24px; }
+.errors-section h2 { font-size:0.9rem;font-weight:700;color:var(--accent-politics);margin-bottom:8px; }
+.errors-section li { font-size:0.78rem;color:var(--text-secondary);padding:3px 0; }
+.errors-section li::before { content:'× ';color:var(--accent-politics);font-weight:700; }
+.site-footer { max-width:var(--max-width);margin:0 auto;padding:0 24px 60px;text-align:center; }
+.site-footer .divider { width:40px;height:1px;background:var(--rule);margin:0 auto 16px; }
+.site-footer p { font-size:0.7rem;color:var(--text-tertiary);line-height:1.8; }
+.site-footer .mono { font-family:'DM Mono',monospace;font-size:0.62rem;letter-spacing:0.2em; }
+
+.category-filtered,.hidden-by-search { display:none !important; }
+
+@media (max-width:768px) {
+    .featured-grid,.primary-grid,.more-grid { grid-template-columns:1fr;gap:12px; }
+    .main-container { padding:20px 12px 60px; }
+    .masthead { padding:32px 16px 24px; }
+    .overall-digest { padding:20px; }
+    .toolbar { gap:8px; }
+    .search-box input { width:180px; }
+    .search-box input:focus { width:220px; }
+}
+
+@media print {
+    body{background:white;} .feature-card,.category-module,.overall-digest{box-shadow:none;break-inside:avoid;}
+    .module-expanded{display:block!important;}.module-expanded .articles-list{max-height:none;overflow:visible;}
+    .expand-btn,.collapse-btn,.more-toggle{display:none;}
+}
+</style>
+</head>
+<body>
+
+<header class="masthead">
+    <div class="overline">The Global Brief</div>
+    <h1>全球新闻日报</h1>
+    <div class="dateline">2026年10月30日<span>·</span>更新于 <time id="update-time" datetime="2026-10-30 06:34">2026-10-30 06:34</time></div>
+    <div class="toolbar">
+        <div class="search-box">
+            <input type="text" id="search-input" placeholder="搜索新闻..." autocomplete="off">
+            <span class="search-icon">🔍</span>
+            <span class="search-clear" id="search-clear">✕</span>
+        </div>
+        <a class="tool-btn" href="conflicts.html" style="border-color:rgba(194,65,12,0.4);color:var(--accent-politics)">🌍 冲突态势</a>
+        <a class="tool-btn" href="archive.html">📅 归档</a>
+    </div>
+    <div class="search-status" id="search-status"></div>
+    <div class="refresh-area" id="refresh-area">
+        <span class="refresh-hint" id="refresh-hint"></span>
+        <a class="refresh-btn" href="https://github.com/hrt2003/newseveryday/actions/workflows/deploy.yml" target="_blank" rel="noopener">🔄 手动刷新</a>
+    </div>
+</header>
+
+<main class="main-container">
+    <section class="overall-digest">
+        <span class="label">今日摘要</span>
+        <p>（全局摘要暂时无法生成，请查看下方各类别新闻。）</p>
+    </section>
+
+    <div class="section-label">📌 头条焦点</div>
+    <div class="featured-grid">                <article class="feature-card politics">
+                    <div class="feature-badge">🌍 国际政治</div>
+                    <h3>Israeli opposition accuses Netanyahu of trying to &#39;delegitimise&#39; election</h3>
+                    <p class="feature-summary">[原文] The PM&#39;s Likud party has alleged foreign interference and said Arab-led parties &quot;stole&quot; the election after his coalition lost its majority.</p>
+                    <div class="feature-meta">
+                        <a href="https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">阅读原文 ↗</a>
+                        <span>BBC World</span>
+                    </div>
+                </article>
+                <article class="feature-card economy">
+                    <div class="feature-badge">💰 经济财经</div>
+                    <h3>Amazon posts negative free cash flow of $42.4 billion, holds 2026 capex unchanged</h3>
+                    <p class="feature-summary">[原文] Amazon&#39;s negative free cash flow ballooned during the third quarter, while its earnings and revenue fell short of Wall Street&#39;s expectations.</p>
+                    <div class="feature-meta">
+                        <a href="https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html" target="_blank" rel="noopener">阅读原文 ↗</a>
+                        <span>CNBC</span>
+                    </div>
+                </article>
+                <article class="feature-card technology">
+                    <div class="feature-badge">💻 科技</div>
+                    <h3>Binance pauses withdrawals as hackers suspected of stealing billions in crypto</h3>
+                    <p class="feature-summary">[原文] Some estimates say hackers stole billions in crypto from Binance, the world&#39;s largest cryptocurrency exchange, during a cyberattack on Thursday.</p>
+                    <div class="feature-meta">
+                        <a href="https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/" target="_blank" rel="noopener">阅读原文 ↗</a>
+                        <span>TechCrunch</span>
+                    </div>
+                </article></div>
+
+    <div class="section-label">📰 核心要闻</div>
+    <div class="primary-grid">            <section class="category-module politics" id="module-politics">
+                <div class="module-header">
+                    <span class="category-dot dot-politics"></span>
+                    <h2>🌍 国际政治</h2>
+                    <span class="article-count">5 篇</span>
+                </div>
+                <div class="module-preview">
+                                        <div class="preview-item">
+                        <span class="preview-num">01</span>
+                        <span class="preview-title">Israeli opposition accuses Netanyahu of trying to &#39;delegitimise&#39; election</span>
+                    </div>                    <div class="preview-item">
+                        <span class="preview-num">02</span>
+                        <span class="preview-title">Audio reveals exchanges between Spain train operators and drivers moments before deadly crash</span>
+                    </div>
+                </div>
+                                <button class="expand-btn" data-target="politics-full" aria-expanded="false">
+                    <span class="btn-text">展开全部 5 篇</span>
+                    <span class="btn-icon">▾</span>
+                </button>
+                <div class="module-expanded" id="politics-full">
+                    <div class="articles-list">
+                                            <article class="news-item">
+                        <h3><span class="item-num">01</span> Israeli opposition accuses Netanyahu of trying to &#39;delegitimise&#39; election</h3>
+                        <p class="item-summary">[原文] The PM&#39;s Likud party has alleged foreign interference and said Arab-led parties &quot;stole&quot; the election after his coalition lost its majority.</p>
+                        <div class="item-meta">
+                            <a href="https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">BBC World</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">02</span> Audio reveals exchanges between Spain train operators and drivers moments before deadly crash</h3>
+                        <p class="item-summary">[原文] The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up ahead had stalled.</p>
+                        <div class="item-meta">
+                            <a href="https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">BBC World</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">03</span> &#39;The city is alive&#39;: A brief peace in Kherson, but residents fear what comes next</h3>
+                        <p class="item-summary">[原文] A temporary ceasefire has brought rare quiet to Kherson, offering its residents a glimpse of normal life before fighting resumes.</p>
+                        <div class="item-meta">
+                            <a href="https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">BBC World</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">04</span> Russian drone attack on Ukrainian train station kills at least 14, officials say</h3>
+                        <p class="item-summary">[原文] At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy.</p>
+                        <div class="item-meta">
+                            <a href="https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">BBC World</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">05</span> Flávio Bolsonaro calls himself &#39;leader of Brazil&#39; after election loss</h3>
+                        <p class="item-summary">[原文] The defeated presidential candidate says he will lead the opposition from the US.</p>
+                        <div class="item-meta">
+                            <a href="https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">BBC World</span>
+                        </div>
+                    </article>
+                    </div>
+                    <button class="collapse-btn" data-target="politics-full">
+                        <span>收起</span>
+                        <span class="btn-icon">▴</span>
+                    </button>
+                </div>
+            </section>
+            <section class="category-module economy" id="module-economy">
+                <div class="module-header">
+                    <span class="category-dot dot-economy"></span>
+                    <h2>💰 经济财经</h2>
+                    <span class="article-count">5 篇</span>
+                </div>
+                <div class="module-preview">
+                                        <div class="preview-item">
+                        <span class="preview-num">01</span>
+                        <span class="preview-title">Amazon posts negative free cash flow of $42.4 billion, holds 2026 capex unchanged</span>
+                    </div>                    <div class="preview-item">
+                        <span class="preview-num">02</span>
+                        <span class="preview-title">Intel stock plunges 16% as chipmaker blames PC slowdown for weak guidance</span>
+                    </div>
+                </div>
+                                <button class="expand-btn" data-target="economy-full" aria-expanded="false">
+                    <span class="btn-text">展开全部 5 篇</span>
+                    <span class="btn-icon">▾</span>
+                </button>
+                <div class="module-expanded" id="economy-full">
+                    <div class="articles-list">
+                                            <article class="news-item">
+                        <h3><span class="item-num">01</span> Amazon posts negative free cash flow of $42.4 billion, holds 2026 capex unchanged</h3>
+                        <p class="item-summary">[原文] Amazon&#39;s negative free cash flow ballooned during the third quarter, while its earnings and revenue fell short of Wall Street&#39;s expectations.</p>
+                        <div class="item-meta">
+                            <a href="https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">CNBC</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">02</span> Intel stock plunges 16% as chipmaker blames PC slowdown for weak guidance</h3>
+                        <p class="item-summary">[原文] Intel has been a Wall Street darling this year due to its emergence as a player in AI, but the company is being weighed down by a struggling PC market.</p>
+                        <div class="item-meta">
+                            <a href="https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">CNBC</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">03</span> ServiceNow shares plunge 27% to worst day ever after earnings revive AI disruption fears</h3>
+                        <p class="item-summary">[原文] ServiceNow&#39;s stock recorded its worst day ever on underwhelming third-quarter results.</p>
+                        <div class="item-meta">
+                            <a href="https://www.cnbc.com/2026/10/29/servicenow-now-earnings-q3-2026.html" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">CNBC</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">04</span> Circle, Tether freeze funds impacted by potential Binance &#39;security issue&#39;</h3>
+                        <p class="item-summary">[原文] Binance, the world&#39;s largest crypto exchange, said it was actively investigating the matter and that funds are &quot;completley safe.&quot;</p>
+                        <div class="item-meta">
+                            <a href="https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">CNBC</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">05</span> Alphabet tanks nearly 13% for worst day ever, losing $500 billion in value</h3>
+                        <p class="item-summary">[原文] Alphabet reported a larger negative free cash flow than analysts had expected while maintaining its spending gudiance for the year.</p>
+                        <div class="item-meta">
+                            <a href="https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">CNBC</span>
+                        </div>
+                    </article>
+                    </div>
+                    <button class="collapse-btn" data-target="economy-full">
+                        <span>收起</span>
+                        <span class="btn-icon">▴</span>
+                    </button>
+                </div>
+            </section>
+            <section class="category-module technology" id="module-technology">
+                <div class="module-header">
+                    <span class="category-dot dot-tech"></span>
+                    <h2>💻 科技</h2>
+                    <span class="article-count">5 篇</span>
+                </div>
+                <div class="module-preview">
+                                        <div class="preview-item">
+                        <span class="preview-num">01</span>
+                        <span class="preview-title">Binance pauses withdrawals as hackers suspected of stealing billions in crypto</span>
+                    </div>                    <div class="preview-item">
+                        <span class="preview-num">02</span>
+                        <span class="preview-title">Elon Musk is ‘truly a genius,’ says Vladimir Putin</span>
+                    </div>
+                </div>
+                                <button class="expand-btn" data-target="technology-full" aria-expanded="false">
+                    <span class="btn-text">展开全部 5 篇</span>
+                    <span class="btn-icon">▾</span>
+                </button>
+                <div class="module-expanded" id="technology-full">
+                    <div class="articles-list">
+                                            <article class="news-item">
+                        <h3><span class="item-num">01</span> Binance pauses withdrawals as hackers suspected of stealing billions in crypto</h3>
+                        <p class="item-summary">[原文] Some estimates say hackers stole billions in crypto from Binance, the world&#39;s largest cryptocurrency exchange, during a cyberattack on Thursday.</p>
+                        <div class="item-meta">
+                            <a href="https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">TechCrunch</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">02</span> Elon Musk is ‘truly a genius,’ says Vladimir Putin</h3>
+                        <p class="item-summary">[原文] Putin said that he and Musk are in &quot;close contact&quot; about Rassvet, Russia&#39;s Starlink-like satellite connectivity project.</p>
+                        <div class="item-meta">
+                            <a href="https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">TechCrunch</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">03</span> Amazon reported booming cloud revenue but otherwise missed expectations</h3>
+                        <p class="item-summary">[原文] The biggest ouch of the report was its negative free cash flow of $2.4 billion.</p>
+                        <div class="item-meta">
+                            <a href="https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">TechCrunch</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">04</span> GM reaches $220M settlement over selling drivers’ private data</h3>
+                        <p class="item-summary">[原文] As part of the settlement, GM must get drivers’ express consent before it collects or shares their driving and location data.</p>
+                        <div class="item-meta">
+                            <a href="https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">TechCrunch</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">05</span> Fan-fiction site Archive of Our Own could be offline for up to 4 weeks</h3>
+                        <p class="item-summary">[原文] The site has such a passionate user base that, within two hours of the announcement, its status page&#39;s posts had garnered millions of views (and much panicked commentary) across social media.</p>
+                        <div class="item-meta">
+                            <a href="https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">TechCrunch</span>
+                        </div>
+                    </article>
+                    </div>
+                    <button class="collapse-btn" data-target="technology-full">
+                        <span>收起</span>
+                        <span class="btn-icon">▴</span>
+                    </button>
+                </div>
+            </section>
+            <section class="category-module science" id="module-science">
+                <div class="module-header">
+                    <span class="category-dot dot-science"></span>
+                    <h2>🔬 科学</h2>
+                    <span class="article-count">5 篇</span>
+                </div>
+                <div class="module-preview">
+                                        <div class="preview-item">
+                        <span class="preview-num">01</span>
+                        <span class="preview-title">Six popular sugar substitutes linked to faster brain aging</span>
+                    </div>                    <div class="preview-item">
+                        <span class="preview-num">02</span>
+                        <span class="preview-title">Einstein&#39;s equations may explain the universe without dark energy</span>
+                    </div>
+                </div>
+                                <button class="expand-btn" data-target="science-full" aria-expanded="false">
+                    <span class="btn-text">展开全部 5 篇</span>
+                    <span class="btn-icon">▾</span>
+                </button>
+                <div class="module-expanded" id="science-full">
+                    <div class="articles-list">
+                                            <article class="news-item">
+                        <h3><span class="item-num">01</span> Six popular sugar substitutes linked to faster brain aging</h3>
+                        <p class="item-summary">[原文] A study of nearly 13,000 adults found that people consuming the most artificial sweeteners experienced a 62% faster decline in memory and thinking skills, equivalent to approximately 1.6 additional ye</p>
+                        <div class="item-meta">
+                            <a href="https://www.sciencedaily.com/releases/2026/10/261028234238.htm" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Science Daily</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">02</span> Einstein&#39;s equations may explain the universe without dark energy</h3>
+                        <p class="item-summary">[原文] Mathematicians have uncovered what they argue is a fundamental flaw in the standard model of the universe, potentially challenging the need for dark energy. Their calculations suggest that the mathema</p>
+                        <div class="item-meta">
+                            <a href="https://www.sciencedaily.com/releases/2026/10/261028232719.htm" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Science Daily</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">03</span> NASA discovers Jupiter’s invisible shield is more complex than Earth’s</h3>
+                        <p class="item-summary">[原文] NASA’s Juno spacecraft has discovered that Jupiter uses a surprisingly complex system of powerful plasma waves and multiple shock regions to defend against the solar wind. The findings reveal major di</p>
+                        <div class="item-meta">
+                            <a href="https://www.sciencedaily.com/releases/2026/10/261028232715.htm" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Science Daily</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">04</span> 128,000-year-old ice in Tibet could rewrite climate history</h3>
+                        <p class="item-summary">[原文] Ancient ice discovered high in Tibet may be more than 128,000 years old, preserving an extraordinary record of Earth&#39;s climate that scientists previously thought had been lost. The discovery reveals a</p>
+                        <div class="item-meta">
+                            <a href="https://www.sciencedaily.com/releases/2026/10/261028232713.htm" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Science Daily</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">05</span> A 700,000-year-old elephant tooth reveals a lost world where early humans lived</h3>
+                        <p class="item-summary">[原文] A remarkably preserved elephant tooth dating back nearly 700,000 years has revealed a surprisingly lush prehistoric world where giant elephants and early humans lived side by side. Discovered in north</p>
+                        <div class="item-meta">
+                            <a href="https://www.sciencedaily.com/releases/2026/10/261028232709.htm" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Science Daily</span>
+                        </div>
+                    </article>
+                    </div>
+                    <button class="collapse-btn" data-target="science-full">
+                        <span>收起</span>
+                        <span class="btn-icon">▴</span>
+                    </button>
+                </div>
+            </section></div>
+
+    <div class="more-section">
+        <button class="more-toggle" id="more-toggle" aria-expanded="false">
+            <span>📂 更多分类</span>
+            <span class="arrow">▾</span>
+        </button>
+        <div class="more-grid" id="more-grid">            <section class="category-module sports" id="module-sports">
+                <div class="module-header">
+                    <span class="category-dot dot-sports"></span>
+                    <h2>⚽ 体育</h2>
+                    <span class="article-count">5 篇</span>
+                </div>
+                <div class="module-preview">
+                                        <div class="preview-item">
+                        <span class="preview-num">01</span>
+                        <span class="preview-title">Grealish dropped by Everton after &#39;breach of club discipline&#39;</span>
+                    </div>                    <div class="preview-item">
+                        <span class="preview-num">02</span>
+                        <span class="preview-title">Is the double drop from the Premier League becoming more common?</span>
+                    </div>
+                </div>
+                                <button class="expand-btn" data-target="sports-full" aria-expanded="false">
+                    <span class="btn-text">展开全部 5 篇</span>
+                    <span class="btn-icon">▾</span>
+                </button>
+                <div class="module-expanded" id="sports-full">
+                    <div class="articles-list">
+                                            <article class="news-item">
+                        <h3><span class="item-num">01</span> Grealish dropped by Everton after &#39;breach of club discipline&#39;</h3>
+                        <p class="item-summary">[原文] Jack Grealish is left out of Everton&#39;s Carabao Cup tie with Newcastle United on Thursday &quot;due to a breach of club discipline&quot;.</p>
+                        <div class="item-meta">
+                            <a href="https://www.bbc.co.uk/sport/football/articles/cmwy4vyl9nplo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">BBC Sport</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">02</span> Is the double drop from the Premier League becoming more common?</h3>
+                        <p class="item-summary">[原文] Back-to-back relegations to the third tier of English football are becoming more common and this season Burnley could make it a hat-trick after Luton Town and Leicester.</p>
+                        <div class="item-meta">
+                            <a href="https://www.bbc.co.uk/sport/football/articles/cv2d6ze63gk2o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">BBC Sport</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">03</span> Duckett and Dawson deliver in England&#39;s consolation win</h3>
+                        <p class="item-summary">[原文] Ben Duckett hits 167 and Liam Dawson takes four wickets as England end the tri-series with victory over Sri Lanka.</p>
+                        <div class="item-meta">
+                            <a href="https://www.bbc.co.uk/sport/cricket/articles/cjg4700703rxo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">BBC Sport</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">04</span> Careless dismissals give Australia route to series win in South Africa</h3>
+                        <p class="item-summary">[原文] Australia take a step towards victory over South Africa in Cape Town, with the help of careless batting from Proteas&#39; top order.</p>
+                        <div class="item-meta">
+                            <a href="https://www.bbc.co.uk/sport/cricket/articles/cwz0vevng3n0o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">BBC Sport</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">05</span> Zverev seals world number one spot after win</h3>
+                        <p class="item-summary">[原文] Alexander Zverev will replace Jannik Sinner as men’s world number one at his earliest opportunity after reaching the Vienna quarter-finals.</p>
+                        <div class="item-meta">
+                            <a href="https://www.bbc.co.uk/sport/tennis/articles/cwdr8m8g4jz2o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">BBC Sport</span>
+                        </div>
+                    </article>
+                    </div>
+                    <button class="collapse-btn" data-target="sports-full">
+                        <span>收起</span>
+                        <span class="btn-icon">▴</span>
+                    </button>
+                </div>
+            </section>
+            <section class="category-module entertainment" id="module-entertainment">
+                <div class="module-header">
+                    <span class="category-dot dot-entertainment"></span>
+                    <h2>🎬 娱乐</h2>
+                    <span class="article-count">5 篇</span>
+                </div>
+                <div class="module-preview">
+                                        <div class="preview-item">
+                        <span class="preview-num">01</span>
+                        <span class="preview-title">Margot Robbie ‘May Be Over’ Playing Harley Quinn, but James Gunn Would ‘Bend Over Backwards’ to Include Her in the DCU</span>
+                    </div>                    <div class="preview-item">
+                        <span class="preview-num">02</span>
+                        <span class="preview-title">Patrick Stewart’s Final Movie Is ‘Avengers: Doomsday’; He Said Before His Death That ‘I Can’t Imagine Retiring. I’ll Forever Be an Actor’</span>
+                    </div>
+                </div>
+                                <button class="expand-btn" data-target="entertainment-full" aria-expanded="false">
+                    <span class="btn-text">展开全部 5 篇</span>
+                    <span class="btn-icon">▾</span>
+                </button>
+                <div class="module-expanded" id="entertainment-full">
+                    <div class="articles-list">
+                                            <article class="news-item">
+                        <h3><span class="item-num">01</span> Margot Robbie ‘May Be Over’ Playing Harley Quinn, but James Gunn Would ‘Bend Over Backwards’ to Include Her in the DCU</h3>
+                        <p class="item-summary">[原文] As James Gunn&amp;#8217;s fledgling DC Universe continues to grow, he&amp;#8217;s revealed that one key character will &amp;#8220;almost certainly&amp;#8221; return: Harley Quinn. But Margot Robbie, who played the an</p>
+                        <div class="item-meta">
+                            <a href="https://variety.com/2026/film/news/margot-robbie-harley-quinn-james-gunn-bend-over-backwards-1236934404/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Variety</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">02</span> Patrick Stewart’s Final Movie Is ‘Avengers: Doomsday’; He Said Before His Death That ‘I Can’t Imagine Retiring. I’ll Forever Be an Actor’</h3>
+                        <p class="item-summary">[原文] Patrick Stewart&amp;#8217;s final movie role will be in the upcoming &amp;#8220;Avengers: Doomsday,&amp;#8221; which marks his ninth time playing the &amp;#8220;X-Men&amp;#8221; character Charles Xavier on the big screen</p>
+                        <div class="item-meta">
+                            <a href="https://variety.com/2026/film/news/patrick-stewart-last-movie-role-avengers-doomsday-1236934590/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Variety</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">03</span> Skydance’s JB Perrette Reveals His Full Leadership Team, Announces Departures of Several Execs Not Joining Following the Paramount-Warner Bros. Merger</h3>
+                        <p class="item-summary">[原文] Skydance’s JB Perrette, who now serves as co-chair and chief business officer of Skydance TV and Skydance Direct-to-Consumer, has unveiled his new executive org structure — and announced several depar</p>
+                        <div class="item-meta">
+                            <a href="https://variety.com/2026/tv/news/skydance-jb-perrette-leadership-team-departures-1236934597/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Variety</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">04</span> Byron Allen Earns Profit After Selling All the Starz Stock He Bought From Steven Mnuchin</h3>
+                        <p class="item-summary">[原文] Buy low, sell high: Investor and media entrepreneur Byron Allen has sold all of the shares in Starz that he had acquired earlier this year from Steve Mnuchin, the former Hollywood producer who served </p>
+                        <div class="item-meta">
+                            <a href="https://variety.com/2026/tv/news/byron-allen-sells-starz-stock-steven-mnuchin-1236934569/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Variety</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">05</span> Patrick Stewart’s Career in Photos: ‘Star Trek,’ ‘X-Men,’ ‘Avengers: Doomsday’ and More</h3>
+                        <p class="item-summary">[原文] Patrick Stewart, who died Wednesday at 86, starred in dozens of film, shows and TV movies across 60 years on screen. He was best known for playing Captain Jean-Luc Picard on &amp;#8220;Star Trek&amp;#8221; an</p>
+                        <div class="item-meta">
+                            <a href="https://variety.com/lists/patrick-stewart-career-photos-star-trek-x-men-avengers-doomsday/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Variety</span>
+                        </div>
+                    </article>
+                    </div>
+                    <button class="collapse-btn" data-target="entertainment-full">
+                        <span>收起</span>
+                        <span class="btn-icon">▴</span>
+                    </button>
+                </div>
+            </section>
+            <section class="category-module health" id="module-health">
+                <div class="module-header">
+                    <span class="category-dot dot-health"></span>
+                    <h2>🏥 健康</h2>
+                    <span class="article-count">5 篇</span>
+                </div>
+                <div class="module-preview">
+                                        <div class="preview-item">
+                        <span class="preview-num">01</span>
+                        <span class="preview-title">New WHO technical package to help countries improve health data for COVID-19 response and beyond</span>
+                    </div>                    <div class="preview-item">
+                        <span class="preview-num">02</span>
+                        <span class="preview-title">WHO statement on notification of withdrawal of the United States</span>
+                    </div>
+                </div>
+                                <button class="expand-btn" data-target="health-full" aria-expanded="false">
+                    <span class="btn-text">展开全部 5 篇</span>
+                    <span class="btn-icon">▾</span>
+                </button>
+                <div class="module-expanded" id="health-full">
+                    <div class="articles-list">
+                                            <article class="news-item">
+                        <h3><span class="item-num">01</span> New WHO technical package to help countries improve health data for COVID-19 response and beyond</h3>
+                        <p class="item-summary">[原文] Today, as part of its commitment to strengthening health information systems and improving health[1], especially in the context of the COVID-19 pandemic, WHO announced a new approach to improving acce</p>
+                        <div class="item-meta">
+                            <a href="https://www.who.int/news/item/27-08-2020-new-who-technical-package-health-data-for-covid-19-response" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">WHO</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">02</span> WHO statement on notification of withdrawal of the United States</h3>
+                        <p class="item-summary">[原文] WHO regrets the United States’ notification of withdrawal from WHO – a decision that makes both the United States and the world less safe. The notification of withdrawal raises issues that will be con</p>
+                        <div class="item-meta">
+                            <a href="https://www.who.int/news/item/24-01-2026-who-statement-on-notification-of-withdrawal-of-the-united-states" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">WHO</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">03</span> Timor-Leste certified malaria-free by WHO</h3>
+                        <p class="item-summary">[原文] The World Health Organization (WHO) has certified Timor-Leste as malaria-free, a remarkable achievement for a country that prioritized the disease and embarked on a concerted, nation-wide response sho</p>
+                        <div class="item-meta">
+                            <a href="https://www.who.int/news/item/24-07-2025-timor-leste-certified-malaria-free-by-who" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">WHO</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">04</span> African Union and World Health Organization renew strategic partnership to drive impact and strengthen health systems in Africa</h3>
+                        <p class="item-summary">[原文] The World Health Organization (WHO) and the African Union (AU) Commission renewed their longstanding strategic partnership today with the signing of an updated Memorandum of Understanding (MoU) on the</p>
+                        <div class="item-meta">
+                            <a href="https://www.who.int/news/item/24-05-2025-world-health-organization-and-african-union-renew-strategic-partnership-to-drive-impact-and-strengthen-health-systems-in-africa" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">WHO</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">05</span> Strengthening public health across Lebanon with EIB Global</h3>
+                        <p class="item-summary">[原文] Dr Tedros Adhanom Ghebreyesus, Director-General of the World Health Organization (WHO), and Thomas Östros, Vice-President of the European Investment Bank (EIB Global), met at the EIB Group Forum in Lu</p>
+                        <div class="item-meta">
+                            <a href="https://www.who.int/news/item/06-03-2025-strengthening-public-health-across-lebanon-with-eib-global" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">WHO</span>
+                        </div>
+                    </article>
+                    </div>
+                    <button class="collapse-btn" data-target="health-full">
+                        <span>收起</span>
+                        <span class="btn-icon">▴</span>
+                    </button>
+                </div>
+            </section>
+            <section class="category-module gaming" id="module-gaming">
+                <div class="module-header">
+                    <span class="category-dot dot-gaming"></span>
+                    <h2>🎮 游戏</h2>
+                    <span class="article-count">5 篇</span>
+                </div>
+                <div class="module-preview">
+                                        <div class="preview-item">
+                        <span class="preview-num">01</span>
+                        <span class="preview-title">Patrick Stewart&#39;s Best Roles in Movies and TV</span>
+                    </div>                    <div class="preview-item">
+                        <span class="preview-num">02</span>
+                        <span class="preview-title">Kevin Feige, Marvel Studios, and Hugh Jackman Pay Tribute to Sir Patrick Stewart After Actor&#39;s Death at 86</span>
+                    </div>
+                </div>
+                                <button class="expand-btn" data-target="gaming-full" aria-expanded="false">
+                    <span class="btn-text">展开全部 5 篇</span>
+                    <span class="btn-icon">▾</span>
+                </button>
+                <div class="module-expanded" id="gaming-full">
+                    <div class="articles-list">
+                                            <article class="news-item">
+                        <h3><span class="item-num">01</span> Patrick Stewart&#39;s Best Roles in Movies and TV</h3>
+                        <p class="item-summary">[原文] Patrick Stewart&#39;s best roles in movies and TV went far beyond outer space and mutants.</p>
+                        <div class="item-meta">
+                            <a href="https://www.ign.com/articles/patrick-stewarts-best-roles-in-movies-and-tv" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">IGN</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">02</span> Kevin Feige, Marvel Studios, and Hugh Jackman Pay Tribute to Sir Patrick Stewart After Actor&#39;s Death at 86</h3>
+                        <p class="item-summary">[原文] Kevin Feige, president of Marvel Studios and COO of Marvel, has given a heartfelt response to the death of acclaimed actor Sir Patrick Stewart.</p>
+                        <div class="item-meta">
+                            <a href="https://www.ign.com/articles/kevin-feige-and-marvel-studios-pay-tribute-to-sir-patrick-stewart-after-actors-death-at-86" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">IGN</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">03</span> Save 20% Off the New Steelseries Aeon Pro Wireless Gaming Controller With Infinite Battery Life</h3>
+                        <p class="item-summary">[原文] This controller is shaping up to be one of the best wireless PC and Xbox gaming controllers on the market.</p>
+                        <div class="item-meta">
+                            <a href="https://www.ign.com/articles/steelseries-aeon-pro-wireless-gaming-controller-deal-october-2026" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">IGN</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">04</span> Save 20% Off the SteelSeries Arctis Nova Pro Wireless Gaming Headset With Infinite Battery Life</h3>
+                        <p class="item-summary">[原文] Rated one of the best gaming headsets for 4 years running.</p>
+                        <div class="item-meta">
+                            <a href="https://www.ign.com/articles/steelseries-arctis-nova-pro-gaming-headset-deal-october-2026" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">IGN</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">05</span> Archive of Our Own Could Be Down for Up to 4 Weeks After Going Dark for Emergency Maintenance</h3>
+                        <p class="item-summary">[原文] Popular fanfiction site Archive of Our Own went down for maintenance early this morning. Now, the website is claiming it may take up to a month to come back online.</p>
+                        <div class="item-meta">
+                            <a href="https://www.ign.com/articles/archive-of-our-own-could-be-down-for-up-to-4-weeks-after-going-dark-for-emergency-maintenance" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">IGN</span>
+                        </div>
+                    </article>
+                    </div>
+                    <button class="collapse-btn" data-target="gaming-full">
+                        <span>收起</span>
+                        <span class="btn-icon">▴</span>
+                    </button>
+                </div>
+            </section>
+            <section class="category-module automotive" id="module-automotive">
+                <div class="module-header">
+                    <span class="category-dot dot-automotive"></span>
+                    <h2>🚗 汽车</h2>
+                    <span class="article-count">5 篇</span>
+                </div>
+                <div class="module-preview">
+                                        <div class="preview-item">
+                        <span class="preview-num">01</span>
+                        <span class="preview-title">Patrick Stewart Was a Racing Fan, Like All of Us</span>
+                    </div>                    <div class="preview-item">
+                        <span class="preview-num">02</span>
+                        <span class="preview-title">FIA President Owns 160 American V8 Cars, Says European Cars Are ‘Like Matchboxes’</span>
+                    </div>
+                </div>
+                                <button class="expand-btn" data-target="automotive-full" aria-expanded="false">
+                    <span class="btn-text">展开全部 5 篇</span>
+                    <span class="btn-icon">▾</span>
+                </button>
+                <div class="module-expanded" id="automotive-full">
+                    <div class="articles-list">
+                                            <article class="news-item">
+                        <h3><span class="item-num">01</span> Patrick Stewart Was a Racing Fan, Like All of Us</h3>
+                        <p class="item-summary">[原文] The legendary actor who passed away Wednesday also loved motorsport, and explored that passion in a documentary about his lifelong hero, Stirling Moss.
+The post Patrick Stewart Was a Racing Fan, Like </p>
+                        <div class="item-meta">
+                            <a href="https://www.thedrive.com/news/patrick-stewart-was-a-racing-fan-like-all-of-us" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">The Drive</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">02</span> FIA President Owns 160 American V8 Cars, Says European Cars Are ‘Like Matchboxes’</h3>
+                        <p class="item-summary">[原文] Mohammed Ben Sulayem praised the &quot;presence&quot; of big American cars as he pushes V8 engines back into F1.
+The post FIA President Owns 160 American V8 Cars, Says European Cars Are &amp;#8216;Like Matchboxes&amp;#</p>
+                        <div class="item-meta">
+                            <a href="https://www.thedrive.com/news/fia-president-owns-160-american-v8-cars-says-european-cars-are-like-matchboxes" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">The Drive</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">03</span> Bring a Trailer Commenters Know Your Car Better Than You Do</h3>
+                        <p class="item-summary">[原文] Bring a Trailer President Howard Swig told The Drive why the comment section is the site&#39;s secret sauce, why some comments disappear, and why buyers want &quot;great history, but no stories.&quot;
+The post Brin</p>
+                        <div class="item-meta">
+                            <a href="https://www.thedrive.com/news/bring-a-trailer-commenters-know-your-car-better-than-you-do" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">The Drive</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">04</span> The Man Who Built Forza Is Leaving Xbox After 27 Years</h3>
+                        <p class="item-summary">[原文] Dan Greenawalt, who directed Forza Motorsport and built the foundation for the juggernaut Horizon has become, is moving on from Microsoft.
+The post The Man Who Built Forza Is Leaving Xbox After 27 Yea</p>
+                        <div class="item-meta">
+                            <a href="https://www.thedrive.com/news/the-man-who-built-forza-is-leaving-xbox-after-27-years" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">The Drive</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">05</span> Up to 49% off DeWalt and Craftsman, Plus a Leatherman Under $50</h3>
+                        <p class="item-summary">[原文] You can grab great deals on brand-name tool kits and multitools on Amazon right now.
+The post Up to 49% off DeWalt and Craftsman, Plus a Leatherman Under $50 appeared first on The Drive.</p>
+                        <div class="item-meta">
+                            <a href="https://www.thedrive.com/news/up-to-49-off-dewalt-and-craftsman-plus-a-leatherman-under-50" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">The Drive</span>
+                        </div>
+                    </article>
+                    </div>
+                    <button class="collapse-btn" data-target="automotive-full">
+                        <span>收起</span>
+                        <span class="btn-icon">▴</span>
+                    </button>
+                </div>
+            </section>
+            <section class="category-module environment" id="module-environment">
+                <div class="module-header">
+                    <span class="category-dot dot-environment"></span>
+                    <h2>🌱 环境</h2>
+                    <span class="article-count">5 篇</span>
+                </div>
+                <div class="module-preview">
+                                        <div class="preview-item">
+                        <span class="preview-num">01</span>
+                        <span class="preview-title">As Permitting Bill Debate Approaches, Senators Have Fresh Doubts and an Ultimatum</span>
+                    </div>                    <div class="preview-item">
+                        <span class="preview-num">02</span>
+                        <span class="preview-title">In a Rare Statewide Debate, Alabama Candidates Spar Over Data Centers, Utility Rates</span>
+                    </div>
+                </div>
+                                <button class="expand-btn" data-target="environment-full" aria-expanded="false">
+                    <span class="btn-text">展开全部 5 篇</span>
+                    <span class="btn-icon">▾</span>
+                </button>
+                <div class="module-expanded" id="environment-full">
+                    <div class="articles-list">
+                                            <article class="news-item">
+                        <h3><span class="item-num">01</span> As Permitting Bill Debate Approaches, Senators Have Fresh Doubts and an Ultimatum</h3>
+                        <p class="item-summary">[原文] In less than two weeks, U.S. Senate leaders plan to take an initial vote on the divisive permitting reform bill aimed at easing regulatory barriers that can delay energy projects. As the date nears, s</p>
+                        <div class="item-meta">
+                            <a href="https://insideclimatenews.org/news/29102026/senate-debate-on-bipartisan-permitting-bill-approaches/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Inside Climate News</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">02</span> In a Rare Statewide Debate, Alabama Candidates Spar Over Data Centers, Utility Rates</h3>
+                        <p class="item-summary">[原文] HUNTSVILLE, Ala.—Candidates for Alabama’s second-highest office took the stage Wednesday for what was the first major-party debate for a statewide office since 2010, the year Republicans took the rein</p>
+                        <div class="item-meta">
+                            <a href="https://insideclimatenews.org/news/29102026/alabama-lieutenant-governor-debate-utility-rates-data-centers/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Inside Climate News</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">03</span> The Slow, Surprising Death of EV Range Anxiety</h3>
+                        <p class="item-summary">[原文] A decade ago, an electric vehicle with more than 300 miles of range would have cost you nearly $100,000. Today, 300 miles of range sits in the middle of the market and consumers can expect at least 20</p>
+                        <div class="item-meta">
+                            <a href="https://insideclimatenews.org/news/29102026/inside-clean-energy-ev-ranges/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Inside Climate News</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">04</span> As Trump Backs a Gas Pipeline, New York’s Climate Priorities Face a Test</h3>
+                        <p class="item-summary">[原文] Tanja Konwinski thought the Constitution pipeline was dead. When her husband bought 82 acres in Schoharie County, New York, in 2023, she knew Williams Cos. held an easement on the property for the pro</p>
+                        <div class="item-meta">
+                            <a href="https://insideclimatenews.org/news/29102026/new-york-gas-pipeline-gubernatorial-election/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Inside Climate News</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">05</span> In Texas’ 9th Congressional District, Candidates Spar Over Fossil Fuels</h3>
+                        <p class="item-summary">[原文] In 2016, current Democratic candidate for Congress Leticia Gutierrez lived six miles from a refinery owned by the Brazilian oil company Petrobras in Pasadena, part of the greater Houston area. The pla</p>
+                        <div class="item-meta">
+                            <a href="https://insideclimatenews.org/news/29102026/texas-9th-congressional-race-fossil-fuels/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Inside Climate News</span>
+                        </div>
+                    </article>
+                    </div>
+                    <button class="collapse-btn" data-target="environment-full">
+                        <span>收起</span>
+                        <span class="btn-icon">▴</span>
+                    </button>
+                </div>
+            </section>
+            <section class="category-module education" id="module-education">
+                <div class="module-header">
+                    <span class="category-dot dot-education"></span>
+                    <h2>📚 教育</h2>
+                    <span class="article-count">5 篇</span>
+                </div>
+                <div class="module-preview">
+                                        <div class="preview-item">
+                        <span class="preview-num">01</span>
+                        <span class="preview-title">What Playgrounds Can Teach Us About AI in Schools</span>
+                    </div>                    <div class="preview-item">
+                        <span class="preview-num">02</span>
+                        <span class="preview-title">How Teachers Are Turning the Midterms Into a Nonpartisan Civics Lesson</span>
+                    </div>
+                </div>
+                                <button class="expand-btn" data-target="education-full" aria-expanded="false">
+                    <span class="btn-text">展开全部 5 篇</span>
+                    <span class="btn-icon">▾</span>
+                </button>
+                <div class="module-expanded" id="education-full">
+                    <div class="articles-list">
+                                            <article class="news-item">
+                        <h3><span class="item-num">01</span> What Playgrounds Can Teach Us About AI in Schools</h3>
+                        <p class="item-summary">[原文] Deciding whether students should use AI requires balancing safety with the developmental need to learn about managing risk.</p>
+                        <div class="item-meta">
+                            <a href="https://www.edsurge.com/news/what-playgrounds-can-teach-us-about-ai-in-schools" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">EdSurge</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">02</span> How Teachers Are Turning the Midterms Into a Nonpartisan Civics Lesson</h3>
+                        <p class="item-summary">[原文] A new survey finds young people doubt elected officials are listening, yet more plan to vote than in 2024.</p>
+                        <div class="item-meta">
+                            <a href="https://www.edsurge.com/news/how-teachers-are-turning-the-midterms-into-a-nonpartisan-civics-lesson" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">EdSurge</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">03</span> Does an AI Pause Protect Students, or Leave Some Behind?</h3>
+                        <p class="item-summary">[原文] Artificial intelligence in the classroom comes with risk, but students must learn AI literacy.</p>
+                        <div class="item-meta">
+                            <a href="https://www.edsurge.com/news/does-an-ai-pause-protect-students-or-leave-some-behind" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">EdSurge</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">04</span> My Preschool Students Taught Me What Educators Lose in English-Only Programs</h3>
+                        <p class="item-summary">[原文] As Head Start faces a proposal to end bilingual education, remember that children aren’t the only ones who benefit from multiple languages.</p>
+                        <div class="item-meta">
+                            <a href="https://www.edsurge.com/news/my-preschool-students-taught-me-what-educators-lose-in-english-only-programs" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">EdSurge</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">05</span> AI, Elections and the Making of an Informed Electorate</h3>
+                        <p class="item-summary">[原文] As AI chatbots answer voters’ questions in seconds, schools need to teach students to ask where those answers come from — and to reach their own ...</p>
+                        <div class="item-meta">
+                            <a href="https://www.edsurge.com/news/ai-elections-and-the-making-of-an-informed-electorate" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">EdSurge</span>
+                        </div>
+                    </article>
+                    </div>
+                    <button class="collapse-btn" data-target="education-full">
+                        <span>收起</span>
+                        <span class="btn-icon">▴</span>
+                    </button>
+                </div>
+            </section>
+            <section class="category-module music" id="module-music">
+                <div class="module-header">
+                    <span class="category-dot dot-music"></span>
+                    <h2>🎵 音乐</h2>
+                    <span class="article-count">5 篇</span>
+                </div>
+                <div class="module-preview">
+                                        <div class="preview-item">
+                        <span class="preview-num">01</span>
+                        <span class="preview-title">Cheap Trick Announce First Touring Break in 50 Years: ‘Not For Health Reasons’</span>
+                    </div>                    <div class="preview-item">
+                        <span class="preview-num">02</span>
+                        <span class="preview-title">Manhattan Will Celebrate Harry Styles Appreciation Day</span>
+                    </div>
+                </div>
+                                <button class="expand-btn" data-target="music-full" aria-expanded="false">
+                    <span class="btn-text">展开全部 5 篇</span>
+                    <span class="btn-icon">▾</span>
+                </button>
+                <div class="module-expanded" id="music-full">
+                    <div class="articles-list">
+                                            <article class="news-item">
+                        <h3><span class="item-num">01</span> Cheap Trick Announce First Touring Break in 50 Years: ‘Not For Health Reasons’</h3>
+                        <p class="item-summary">[原文] &quot;Many thanks to everyone who has expressed concern for us,&quot; they wrote in a group statement. &quot;To clear things up, we’ve decided to take some time off after decades of touring because we need a break&quot;</p>
+                        <div class="item-meta">
+                            <a href="https://www.rollingstone.com/music/music-news/cheap-trick-touring-break-not-for-health-reasons-1235649919/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Rolling Stone</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">02</span> Manhattan Will Celebrate Harry Styles Appreciation Day</h3>
+                        <p class="item-summary">[原文] Friday will be dedicated to recognizing &quot;his contributions to music and the unforgettable memories created on one of New York City&#39;s most iconic stages,&quot; Borough President Brad Hoylman-Sigal said</p>
+                        <div class="item-meta">
+                            <a href="https://www.rollingstone.com/music/music-news/harry-styles-appreciation-day-declared-in-manhattan-1235649907/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Rolling Stone</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">03</span> Phoebe Bridgers Releases ‘Live at Madison Square Garden’ EP via Tidal</h3>
+                        <p class="item-summary">[原文] Revisit five Lost Weekend songs from singer’s cellphone-free gig at World’s Most Famous Arena</p>
+                        <div class="item-meta">
+                            <a href="https://www.rollingstone.com/music/music-news/phoebe-bridgers-live-at-madison-square-garden-ep-tidal-1235649828/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Rolling Stone</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">04</span> LL Cool J Lands Rock the Bells Las Vegas Residency</h3>
+                        <p class="item-summary">[原文] The rapper will lead 11 shows at Park MGM celebrating the history of hip-hop with special guests</p>
+                        <div class="item-meta">
+                            <a href="https://www.rollingstone.com/music/music-news/ll-cool-j-rock-the-bells-las-vegas-residency-1235649753/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Rolling Stone</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">05</span> Harry Styles Performs ‘Ever Since New York’ During Final Week of Madison Square Garden Residency</h3>
+                        <p class="item-summary">[原文] The megastar hasn’t performed the 2017 track in four years</p>
+                        <div class="item-meta">
+                            <a href="https://www.rollingstone.com/music/music-news/harry-styles-ever-since-new-york-madison-square-garden-1235649644/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Rolling Stone</span>
+                        </div>
+                    </article>
+                    </div>
+                    <button class="collapse-btn" data-target="music-full">
+                        <span>收起</span>
+                        <span class="btn-icon">▴</span>
+                    </button>
+                </div>
+            </section>
+            <section class="category-module travel" id="module-travel">
+                <div class="module-header">
+                    <span class="category-dot dot-travel"></span>
+                    <h2>✈️ 旅游</h2>
+                    <span class="article-count">5 篇</span>
+                </div>
+                <div class="module-preview">
+                                        <div class="preview-item">
+                        <span class="preview-num">01</span>
+                        <span class="preview-title">Wyndham Launches Homes &amp; Havens to Take On Marriott</span>
+                    </div>                    <div class="preview-item">
+                        <span class="preview-num">02</span>
+                        <span class="preview-title">Hyatt Raises Outlook, but Its All-Inclusives Lag</span>
+                    </div>
+                </div>
+                                <button class="expand-btn" data-target="travel-full" aria-expanded="false">
+                    <span class="btn-text">展开全部 5 篇</span>
+                    <span class="btn-icon">▾</span>
+                </button>
+                <div class="module-expanded" id="travel-full">
+                    <div class="articles-list">
+                                            <article class="news-item">
+                        <h3><span class="item-num">01</span> Wyndham Launches Homes &amp; Havens to Take On Marriott</h3>
+                        <p class="item-summary">[原文] Whether Wyndham&#39;s Homes &amp; Havens can compete with Marriott&#39;s far larger collection is an open question. But for Wyndham, this is only day one.</p>
+                        <div class="item-meta">
+                            <a href="https://skift.com/2026/10/29/wyndham-launches-homes-havens-to-take-on-marriott/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Skift</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">02</span> Hyatt Raises Outlook, but Its All-Inclusives Lag</h3>
+                        <p class="item-summary">[原文] When affluent travelers spend, Hyatt wins. The catch is that a portfolio built on luxury leisure is a bet on the wealth effect, and the good times could end if the stock market sneezes.</p>
+                        <div class="item-meta">
+                            <a href="https://skift.com/2026/10/29/hyatt-raises-outlook-but-its-all-inclusives-lag/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Skift</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">03</span> Norwegian Cruise Line’s Turnaround Shows Early Traction After Activist Shakeup</h3>
+                        <p class="item-summary">[原文] Better close-in demand, cost cuts, and second-half 2027 bookings on par with last year at higher prices suggest Norwegian Cruise Line&#39;s turnaround plan is starting to take hold, but the company still </p>
+                        <div class="item-meta">
+                            <a href="https://skift.com/2026/10/29/norwegian-cruise-lines-third-quarter-earnings-turnaround-progress/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Skift</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">04</span> IndiGo’s Willie Walsh Wants More Revenue From Every Passenger</h3>
+                        <p class="item-summary">[原文] IndiGo’s answer to losing passengers is the Ryanair model of earning more from each one. But Ryanair’s extras depend on European rules. Walsh himself concedes India’s rules do put limits on that playb</p>
+                        <div class="item-meta">
+                            <a href="https://skift.com/2026/10/29/indigos-willie-walsh-wants-more-revenue-from-every-passenger/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Skift</span>
+                        </div>
+                    </article>                    <article class="news-item">
+                        <h3><span class="item-num">05</span> Which Airlines Are Still Skipping Dubai This Winter</h3>
+                        <p class="item-summary">[原文] Dubai’s airport is busy, but the long-haul airlines that fill its luxury hotels are mostly staying out until spring. Hotels organizing around a European winter rebound need to plan for a later one.</p>
+                        <div class="item-meta">
+                            <a href="https://skift.com/2026/10/29/which-airlines-are-still-skipping-dubai-this-winter/" target="_blank" rel="noopener" class="item-link">阅读原文</a>
+                            <span class="item-source">Skift</span>
+                        </div>
+                    </article>
+                    </div>
+                    <button class="collapse-btn" data-target="travel-full">
+                        <span>收起</span>
+                        <span class="btn-icon">▴</span>
+                    </button>
+                </div>
+            </section></div>
+    </div>
+
+    <section class="sources-section"><h2>📊 数据来源</h2><table class="sources-table"><tr><td>🌍 国际政治</td><td>BBC World</td></tr>
+<tr><td>💰 经济财经</td><td>CNBC</td></tr>
+<tr><td>💻 科技</td><td>TechCrunch</td></tr>
+<tr><td>🔬 科学</td><td>Science Daily</td></tr>
+<tr><td>⚽ 体育</td><td>BBC Sport</td></tr>
+<tr><td>🎬 娱乐</td><td>Variety</td></tr>
+<tr><td>🏥 健康</td><td>WHO</td></tr>
+<tr><td>🎮 游戏</td><td>IGN</td></tr>
+<tr><td>🚗 汽车</td><td>The Drive</td></tr>
+<tr><td>🌱 环境</td><td>Inside Climate News</td></tr>
+<tr><td>📚 教育</td><td>EdSurge</td></tr>
+<tr><td>🎵 音乐</td><td>Rolling Stone</td></tr>
+<tr><td>✈️ 旅游</td><td>Skift</td></tr></table></section>
+                <section class="errors-section">
+                <h2>⚠️ 今日故障源</h2>
+                <ul>
+                    <li>💰 经济财经: Yahoo Finance</li><li>🚗 汽车: Autocar</li>
+                </ul>
+            </section>
+</main>
+
+<footer class="site-footer"><div class="divider"></div><p>本日报由脚本自动生成，内容由 <strong>DeepSeek AI</strong> 翻译与摘要</p><p class="mono">所有新闻版权归原来源所有</p></footer>
+
+<script id="search-data" type="application/json">[{"title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election", "summary": "[原文] The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority.", "source": "BBC World", "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash", "summary": "[原文] The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up ahead had stalled.", "source": "BBC World", "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next", "summary": "[原文] A temporary ceasefire has brought rare quiet to Kherson, offering its residents a glimpse of normal life before fighting resumes.", "source": "BBC World", "link": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&at_campaign=rss", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "Russian drone attack on Ukrainian train station kills at least 14, officials say", "summary": "[原文] At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy.", "source": "BBC World", "link": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss", "summary": "[原文] The defeated presidential candidate says he will lead the opposition from the US.", "source": "BBC World", "link": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss", "category": "Politics", "category_cn": "🌍 国际政治"}, {"title": "Amazon posts negative free cash flow of $42.4 billion, holds 2026 capex unchanged", "summary": "[原文] Amazon's negative free cash flow ballooned during the third quarter, while its earnings and revenue fell short of Wall Street's expectations.", "source": "CNBC", "link": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "Intel stock plunges 16% as chipmaker blames PC slowdown for weak guidance", "summary": "[原文] Intel has been a Wall Street darling this year due to its emergence as a player in AI, but the company is being weighed down by a struggling PC market.", "source": "CNBC", "link": "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "ServiceNow shares plunge 27% to worst day ever after earnings revive AI disruption fears", "summary": "[原文] ServiceNow's stock recorded its worst day ever on underwhelming third-quarter results.", "source": "CNBC", "link": "https://www.cnbc.com/2026/10/29/servicenow-now-earnings-q3-2026.html", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "Circle, Tether freeze funds impacted by potential Binance 'security issue'", "summary": "[原文] Binance, the world's largest crypto exchange, said it was actively investigating the matter and that funds are \"completley safe.\"", "source": "CNBC", "link": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "Alphabet tanks nearly 13% for worst day ever, losing $500 billion in value", "summary": "[原文] Alphabet reported a larger negative free cash flow than analysts had expected while maintaining its spending gudiance for the year.", "source": "CNBC", "link": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html", "category": "Economy", "category_cn": "💰 经济财经"}, {"title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto", "summary": "[原文] Some estimates say hackers stole billions in crypto from Binance, the world's largest cryptocurrency exchange, during a cyberattack on Thursday.", "source": "TechCrunch", "link": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/", "category": "Technology", "category_cn": "💻 科技"}, {"title": "Elon Musk is ‘truly a genius,’ says Vladimir Putin", "summary": "[原文] Putin said that he and Musk are in \"close contact\" about Rassvet, Russia's Starlink-like satellite connectivity project.", "source": "TechCrunch", "link": "https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/", "category": "Technology", "category_cn": "💻 科技"}, {"title": "Amazon reported booming cloud revenue but otherwise missed expectations", "summary": "[原文] The biggest ouch of the report was its negative free cash flow of $2.4 billion.", "source": "TechCrunch", "link": "https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/", "category": "Technology", "category_cn": "💻 科技"}, {"title": "GM reaches $220M settlement over selling drivers’ private data", "summary": "[原文] As part of the settlement, GM must get drivers’ express consent before it collects or shares their driving and location data.", "source": "TechCrunch", "link": "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/", "category": "Technology", "category_cn": "💻 科技"}, {"title": "Fan-fiction site Archive of Our Own could be offline for up to 4 weeks", "summary": "[原文] The site has such a passionate user base that, within two hours of the announcement, its status page's posts had garnered millions of views (and much panicked commentary) across social media.", "source": "TechCrunch", "link": "https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/", "category": "Technology", "category_cn": "💻 科技"}, {"title": "Six popular sugar substitutes linked to faster brain aging", "summary": "[原文] A study of nearly 13,000 adults found that people consuming the most artificial sweeteners experienced a 62% faster decline in memory and thinking skills, equivalent to approximately 1.6 additional ye", "source": "Science Daily", "link": "https://www.sciencedaily.com/releases/2026/10/261028234238.htm", "category": "Science", "category_cn": "🔬 科学"}, {"title": "Einstein's equations may explain the universe without dark energy", "summary": "[原文] Mathematicians have uncovered what they argue is a fundamental flaw in the standard model of the universe, potentially challenging the need for dark energy. Their calculations suggest that the mathema", "source": "Science Daily", "link": "https://www.sciencedaily.com/releases/2026/10/261028232719.htm", "category": "Science", "category_cn": "🔬 科学"}, {"title": "NASA discovers Jupiter’s invisible shield is more complex than Earth’s", "summary": "[原文] NASA’s Juno spacecraft has discovered that Jupiter uses a surprisingly complex system of powerful plasma waves and multiple shock regions to defend against the solar wind. The findings reveal major di", "source": "Science Daily", "link": "https://www.sciencedaily.com/releases/2026/10/261028232715.htm", "category": "Science", "category_cn": "🔬 科学"}, {"title": "128,000-year-old ice in Tibet could rewrite climate history", "summary": "[原文] Ancient ice discovered high in Tibet may be more than 128,000 years old, preserving an extraordinary record of Earth's climate that scientists previously thought had been lost. The discovery reveals a", "source": "Science Daily", "link": "https://www.sciencedaily.com/releases/2026/10/261028232713.htm", "category": "Science", "category_cn": "🔬 科学"}, {"title": "A 700,000-year-old elephant tooth reveals a lost world where early humans lived", "summary": "[原文] A remarkably preserved elephant tooth dating back nearly 700,000 years has revealed a surprisingly lush prehistoric world where giant elephants and early humans lived side by side. Discovered in north", "source": "Science Daily", "link": "https://www.sciencedaily.com/releases/2026/10/261028232709.htm", "category": "Science", "category_cn": "🔬 科学"}, {"title": "Grealish dropped by Everton after 'breach of club discipline'", "summary": "[原文] Jack Grealish is left out of Everton's Carabao Cup tie with Newcastle United on Thursday \"due to a breach of club discipline\".", "source": "BBC Sport", "link": "https://www.bbc.co.uk/sport/football/articles/cmwy4vyl9nplo?at_medium=RSS&at_campaign=rss", "category": "Sports", "category_cn": "⚽ 体育"}, {"title": "Is the double drop from the Premier League becoming more common?", "summary": "[原文] Back-to-back relegations to the third tier of English football are becoming more common and this season Burnley could make it a hat-trick after Luton Town and Leicester.", "source": "BBC Sport", "link": "https://www.bbc.co.uk/sport/football/articles/cv2d6ze63gk2o?at_medium=RSS&at_campaign=rss", "category": "Sports", "category_cn": "⚽ 体育"}, {"title": "Duckett and Dawson deliver in England's consolation win", "summary": "[原文] Ben Duckett hits 167 and Liam Dawson takes four wickets as England end the tri-series with victory over Sri Lanka.", "source": "BBC Sport", "link": "https://www.bbc.co.uk/sport/cricket/articles/cjg4700703rxo?at_medium=RSS&at_campaign=rss", "category": "Sports", "category_cn": "⚽ 体育"}, {"title": "Careless dismissals give Australia route to series win in South Africa", "summary": "[原文] Australia take a step towards victory over South Africa in Cape Town, with the help of careless batting from Proteas' top order.", "source": "BBC Sport", "link": "https://www.bbc.co.uk/sport/cricket/articles/cwz0vevng3n0o?at_medium=RSS&at_campaign=rss", "category": "Sports", "category_cn": "⚽ 体育"}, {"title": "Zverev seals world number one spot after win", "summary": "[原文] Alexander Zverev will replace Jannik Sinner as men’s world number one at his earliest opportunity after reaching the Vienna quarter-finals.", "source": "BBC Sport", "link": "https://www.bbc.co.uk/sport/tennis/articles/cwdr8m8g4jz2o?at_medium=RSS&at_campaign=rss", "category": "Sports", "category_cn": "⚽ 体育"}, {"title": "Margot Robbie ‘May Be Over’ Playing Harley Quinn, but James Gunn Would ‘Bend Over Backwards’ to Include Her in the DCU", "summary": "[原文] As James Gunn&#8217;s fledgling DC Universe continues to grow, he&#8217;s revealed that one key character will &#8220;almost certainly&#8221; return: Harley Quinn. But Margot Robbie, who played the an", "source": "Variety", "link": "https://variety.com/2026/film/news/margot-robbie-harley-quinn-james-gunn-bend-over-backwards-1236934404/", "category": "Entertainment", "category_cn": "🎬 娱乐"}, {"title": "Patrick Stewart’s Final Movie Is ‘Avengers: Doomsday’; He Said Before His Death That ‘I Can’t Imagine Retiring. I’ll Forever Be an Actor’", "summary": "[原文] Patrick Stewart&#8217;s final movie role will be in the upcoming &#8220;Avengers: Doomsday,&#8221; which marks his ninth time playing the &#8220;X-Men&#8221; character Charles Xavier on the big screen", "source": "Variety", "link": "https://variety.com/2026/film/news/patrick-stewart-last-movie-role-avengers-doomsday-1236934590/", "category": "Entertainment", "category_cn": "🎬 娱乐"}, {"title": "Skydance’s JB Perrette Reveals His Full Leadership Team, Announces Departures of Several Execs Not Joining Following the Paramount-Warner Bros. Merger", "summary": "[原文] Skydance’s JB Perrette, who now serves as co-chair and chief business officer of Skydance TV and Skydance Direct-to-Consumer, has unveiled his new executive org structure — and announced several depar", "source": "Variety", "link": "https://variety.com/2026/tv/news/skydance-jb-perrette-leadership-team-departures-1236934597/", "category": "Entertainment", "category_cn": "🎬 娱乐"}, {"title": "Byron Allen Earns Profit After Selling All the Starz Stock He Bought From Steven Mnuchin", "summary": "[原文] Buy low, sell high: Investor and media entrepreneur Byron Allen has sold all of the shares in Starz that he had acquired earlier this year from Steve Mnuchin, the former Hollywood producer who served ", "source": "Variety", "link": "https://variety.com/2026/tv/news/byron-allen-sells-starz-stock-steven-mnuchin-1236934569/", "category": "Entertainment", "category_cn": "🎬 娱乐"}, {"title": "Patrick Stewart’s Career in Photos: ‘Star Trek,’ ‘X-Men,’ ‘Avengers: Doomsday’ and More", "summary": "[原文] Patrick Stewart, who died Wednesday at 86, starred in dozens of film, shows and TV movies across 60 years on screen. He was best known for playing Captain Jean-Luc Picard on &#8220;Star Trek&#8221; an", "source": "Variety", "link": "https://variety.com/lists/patrick-stewart-career-photos-star-trek-x-men-avengers-doomsday/", "category": "Entertainment", "category_cn": "🎬 娱乐"}, {"title": "New WHO technical package to help countries improve health data for COVID-19 response and beyond", "summary": "[原文] Today, as part of its commitment to strengthening health information systems and improving health[1], especially in the context of the COVID-19 pandemic, WHO announced a new approach to improving acce", "source": "WHO", "link": "https://www.who.int/news/item/27-08-2020-new-who-technical-package-health-data-for-covid-19-response", "category": "Health", "category_cn": "🏥 健康"}, {"title": "WHO statement on notification of withdrawal of the United States", "summary": "[原文] WHO regrets the United States’ notification of withdrawal from WHO – a decision that makes both the United States and the world less safe. The notification of withdrawal raises issues that will be con", "source": "WHO", "link": "https://www.who.int/news/item/24-01-2026-who-statement-on-notification-of-withdrawal-of-the-united-states", "category": "Health", "category_cn": "🏥 健康"}, {"title": "Timor-Leste certified malaria-free by WHO", "summary": "[原文] The World Health Organization (WHO) has certified Timor-Leste as malaria-free, a remarkable achievement for a country that prioritized the disease and embarked on a concerted, nation-wide response sho", "source": "WHO", "link": "https://www.who.int/news/item/24-07-2025-timor-leste-certified-malaria-free-by-who", "category": "Health", "category_cn": "🏥 健康"}, {"title": "African Union and World Health Organization renew strategic partnership to drive impact and strengthen health systems in Africa", "summary": "[原文] The World Health Organization (WHO) and the African Union (AU) Commission renewed their longstanding strategic partnership today with the signing of an updated Memorandum of Understanding (MoU) on the", "source": "WHO", "link": "https://www.who.int/news/item/24-05-2025-world-health-organization-and-african-union-renew-strategic-partnership-to-drive-impact-and-strengthen-health-systems-in-africa", "category": "Health", "category_cn": "🏥 健康"}, {"title": "Strengthening public health across Lebanon with EIB Global", "summary": "[原文] Dr Tedros Adhanom Ghebreyesus, Director-General of the World Health Organization (WHO), and Thomas Östros, Vice-President of the European Investment Bank (EIB Global), met at the EIB Group Forum in Lu", "source": "WHO", "link": "https://www.who.int/news/item/06-03-2025-strengthening-public-health-across-lebanon-with-eib-global", "category": "Health", "category_cn": "🏥 健康"}, {"title": "Patrick Stewart's Best Roles in Movies and TV", "summary": "[原文] Patrick Stewart's best roles in movies and TV went far beyond outer space and mutants.", "source": "IGN", "link": "https://www.ign.com/articles/patrick-stewarts-best-roles-in-movies-and-tv", "category": "Gaming", "category_cn": "🎮 游戏"}, {"title": "Kevin Feige, Marvel Studios, and Hugh Jackman Pay Tribute to Sir Patrick Stewart After Actor's Death at 86", "summary": "[原文] Kevin Feige, president of Marvel Studios and COO of Marvel, has given a heartfelt response to the death of acclaimed actor Sir Patrick Stewart.", "source": "IGN", "link": "https://www.ign.com/articles/kevin-feige-and-marvel-studios-pay-tribute-to-sir-patrick-stewart-after-actors-death-at-86", "category": "Gaming", "category_cn": "🎮 游戏"}, {"title": "Save 20% Off the New Steelseries Aeon Pro Wireless Gaming Controller With Infinite Battery Life", "summary": "[原文] This controller is shaping up to be one of the best wireless PC and Xbox gaming controllers on the market.", "source": "IGN", "link": "https://www.ign.com/articles/steelseries-aeon-pro-wireless-gaming-controller-deal-october-2026", "category": "Gaming", "category_cn": "🎮 游戏"}, {"title": "Save 20% Off the SteelSeries Arctis Nova Pro Wireless Gaming Headset With Infinite Battery Life", "summary": "[原文] Rated one of the best gaming headsets for 4 years running.", "source": "IGN", "link": "https://www.ign.com/articles/steelseries-arctis-nova-pro-gaming-headset-deal-october-2026", "category": "Gaming", "category_cn": "🎮 游戏"}, {"title": "Archive of Our Own Could Be Down for Up to 4 Weeks After Going Dark for Emergency Maintenance", "summary": "[原文] Popular fanfiction site Archive of Our Own went down for maintenance early this morning. Now, the website is claiming it may take up to a month to come back online.", "source": "IGN", "link": "https://www.ign.com/articles/archive-of-our-own-could-be-down-for-up-to-4-weeks-after-going-dark-for-emergency-maintenance", "category": "Gaming", "category_cn": "🎮 游戏"}, {"title": "Patrick Stewart Was a Racing Fan, Like All of Us", "summary": "[原文] The legendary actor who passed away Wednesday also loved motorsport, and explored that passion in a documentary about his lifelong hero, Stirling Moss.\nThe post Patrick Stewart Was a Racing Fan, Like ", "source": "The Drive", "link": "https://www.thedrive.com/news/patrick-stewart-was-a-racing-fan-like-all-of-us", "category": "Automotive", "category_cn": "🚗 汽车"}, {"title": "FIA President Owns 160 American V8 Cars, Says European Cars Are ‘Like Matchboxes’", "summary": "[原文] Mohammed Ben Sulayem praised the \"presence\" of big American cars as he pushes V8 engines back into F1.\nThe post FIA President Owns 160 American V8 Cars, Says European Cars Are &#8216;Like Matchboxes&#", "source": "The Drive", "link": "https://www.thedrive.com/news/fia-president-owns-160-american-v8-cars-says-european-cars-are-like-matchboxes", "category": "Automotive", "category_cn": "🚗 汽车"}, {"title": "Bring a Trailer Commenters Know Your Car Better Than You Do", "summary": "[原文] Bring a Trailer President Howard Swig told The Drive why the comment section is the site's secret sauce, why some comments disappear, and why buyers want \"great history, but no stories.\"\nThe post Brin", "source": "The Drive", "link": "https://www.thedrive.com/news/bring-a-trailer-commenters-know-your-car-better-than-you-do", "category": "Automotive", "category_cn": "🚗 汽车"}, {"title": "The Man Who Built Forza Is Leaving Xbox After 27 Years", "summary": "[原文] Dan Greenawalt, who directed Forza Motorsport and built the foundation for the juggernaut Horizon has become, is moving on from Microsoft.\nThe post The Man Who Built Forza Is Leaving Xbox After 27 Yea", "source": "The Drive", "link": "https://www.thedrive.com/news/the-man-who-built-forza-is-leaving-xbox-after-27-years", "category": "Automotive", "category_cn": "🚗 汽车"}, {"title": "Up to 49% off DeWalt and Craftsman, Plus a Leatherman Under $50", "summary": "[原文] You can grab great deals on brand-name tool kits and multitools on Amazon right now.\nThe post Up to 49% off DeWalt and Craftsman, Plus a Leatherman Under $50 appeared first on The Drive.", "source": "The Drive", "link": "https://www.thedrive.com/news/up-to-49-off-dewalt-and-craftsman-plus-a-leatherman-under-50", "category": "Automotive", "category_cn": "🚗 汽车"}, {"title": "As Permitting Bill Debate Approaches, Senators Have Fresh Doubts and an Ultimatum", "summary": "[原文] In less than two weeks, U.S. Senate leaders plan to take an initial vote on the divisive permitting reform bill aimed at easing regulatory barriers that can delay energy projects. As the date nears, s", "source": "Inside Climate News", "link": "https://insideclimatenews.org/news/29102026/senate-debate-on-bipartisan-permitting-bill-approaches/", "category": "Environment", "category_cn": "🌱 环境"}, {"title": "In a Rare Statewide Debate, Alabama Candidates Spar Over Data Centers, Utility Rates", "summary": "[原文] HUNTSVILLE, Ala.—Candidates for Alabama’s second-highest office took the stage Wednesday for what was the first major-party debate for a statewide office since 2010, the year Republicans took the rein", "source": "Inside Climate News", "link": "https://insideclimatenews.org/news/29102026/alabama-lieutenant-governor-debate-utility-rates-data-centers/", "category": "Environment", "category_cn": "🌱 环境"}, {"title": "The Slow, Surprising Death of EV Range Anxiety", "summary": "[原文] A decade ago, an electric vehicle with more than 300 miles of range would have cost you nearly $100,000. Today, 300 miles of range sits in the middle of the market and consumers can expect at least 20", "source": "Inside Climate News", "link": "https://insideclimatenews.org/news/29102026/inside-clean-energy-ev-ranges/", "category": "Environment", "category_cn": "🌱 环境"}, {"title": "As Trump Backs a Gas Pipeline, New York’s Climate Priorities Face a Test", "summary": "[原文] Tanja Konwinski thought the Constitution pipeline was dead. When her husband bought 82 acres in Schoharie County, New York, in 2023, she knew Williams Cos. held an easement on the property for the pro", "source": "Inside Climate News", "link": "https://insideclimatenews.org/news/29102026/new-york-gas-pipeline-gubernatorial-election/", "category": "Environment", "category_cn": "🌱 环境"}, {"title": "In Texas’ 9th Congressional District, Candidates Spar Over Fossil Fuels", "summary": "[原文] In 2016, current Democratic candidate for Congress Leticia Gutierrez lived six miles from a refinery owned by the Brazilian oil company Petrobras in Pasadena, part of the greater Houston area. The pla", "source": "Inside Climate News", "link": "https://insideclimatenews.org/news/29102026/texas-9th-congressional-race-fossil-fuels/", "category": "Environment", "category_cn": "🌱 环境"}, {"title": "What Playgrounds Can Teach Us About AI in Schools", "summary": "[原文] Deciding whether students should use AI requires balancing safety with the developmental need to learn about managing risk.", "source": "EdSurge", "link": "https://www.edsurge.com/news/what-playgrounds-can-teach-us-about-ai-in-schools", "category": "Education", "category_cn": "📚 教育"}, {"title": "How Teachers Are Turning the Midterms Into a Nonpartisan Civics Lesson", "summary": "[原文] A new survey finds young people doubt elected officials are listening, yet more plan to vote than in 2024.", "source": "EdSurge", "link": "https://www.edsurge.com/news/how-teachers-are-turning-the-midterms-into-a-nonpartisan-civics-lesson", "category": "Education", "category_cn": "📚 教育"}, {"title": "Does an AI Pause Protect Students, or Leave Some Behind?", "summary": "[原文] Artificial intelligence in the classroom comes with risk, but students must learn AI literacy.", "source": "EdSurge", "link": "https://www.edsurge.com/news/does-an-ai-pause-protect-students-or-leave-some-behind", "category": "Education", "category_cn": "📚 教育"}, {"title": "My Preschool Students Taught Me What Educators Lose in English-Only Programs", "summary": "[原文] As Head Start faces a proposal to end bilingual education, remember that children aren’t the only ones who benefit from multiple languages.", "source": "EdSurge", "link": "https://www.edsurge.com/news/my-preschool-students-taught-me-what-educators-lose-in-english-only-programs", "category": "Education", "category_cn": "📚 教育"}, {"title": "AI, Elections and the Making of an Informed Electorate", "summary": "[原文] As AI chatbots answer voters’ questions in seconds, schools need to teach students to ask where those answers come from — and to reach their own ...", "source": "EdSurge", "link": "https://www.edsurge.com/news/ai-elections-and-the-making-of-an-informed-electorate", "category": "Education", "category_cn": "📚 教育"}, {"title": "Cheap Trick Announce First Touring Break in 50 Years: ‘Not For Health Reasons’", "summary": "[原文] \"Many thanks to everyone who has expressed concern for us,\" they wrote in a group statement. \"To clear things up, we’ve decided to take some time off after decades of touring because we need a break\"", "source": "Rolling Stone", "link": "https://www.rollingstone.com/music/music-news/cheap-trick-touring-break-not-for-health-reasons-1235649919/", "category": "Music", "category_cn": "🎵 音乐"}, {"title": "Manhattan Will Celebrate Harry Styles Appreciation Day", "summary": "[原文] Friday will be dedicated to recognizing \"his contributions to music and the unforgettable memories created on one of New York City's most iconic stages,\" Borough President Brad Hoylman-Sigal said", "source": "Rolling Stone", "link": "https://www.rollingstone.com/music/music-news/harry-styles-appreciation-day-declared-in-manhattan-1235649907/", "category": "Music", "category_cn": "🎵 音乐"}, {"title": "Phoebe Bridgers Releases ‘Live at Madison Square Garden’ EP via Tidal", "summary": "[原文] Revisit five Lost Weekend songs from singer’s cellphone-free gig at World’s Most Famous Arena", "source": "Rolling Stone", "link": "https://www.rollingstone.com/music/music-news/phoebe-bridgers-live-at-madison-square-garden-ep-tidal-1235649828/", "category": "Music", "category_cn": "🎵 音乐"}, {"title": "LL Cool J Lands Rock the Bells Las Vegas Residency", "summary": "[原文] The rapper will lead 11 shows at Park MGM celebrating the history of hip-hop with special guests", "source": "Rolling Stone", "link": "https://www.rollingstone.com/music/music-news/ll-cool-j-rock-the-bells-las-vegas-residency-1235649753/", "category": "Music", "category_cn": "🎵 音乐"}, {"title": "Harry Styles Performs ‘Ever Since New York’ During Final Week of Madison Square Garden Residency", "summary": "[原文] The megastar hasn’t performed the 2017 track in four years", "source": "Rolling Stone", "link": "https://www.rollingstone.com/music/music-news/harry-styles-ever-since-new-york-madison-square-garden-1235649644/", "category": "Music", "category_cn": "🎵 音乐"}, {"title": "Wyndham Launches Homes & Havens to Take On Marriott", "summary": "[原文] Whether Wyndham's Homes & Havens can compete with Marriott's far larger collection is an open question. But for Wyndham, this is only day one.", "source": "Skift", "link": "https://skift.com/2026/10/29/wyndham-launches-homes-havens-to-take-on-marriott/", "category": "Travel", "category_cn": "✈️ 旅游"}, {"title": "Hyatt Raises Outlook, but Its All-Inclusives Lag", "summary": "[原文] When affluent travelers spend, Hyatt wins. The catch is that a portfolio built on luxury leisure is a bet on the wealth effect, and the good times could end if the stock market sneezes.", "source": "Skift", "link": "https://skift.com/2026/10/29/hyatt-raises-outlook-but-its-all-inclusives-lag/", "category": "Travel", "category_cn": "✈️ 旅游"}, {"title": "Norwegian Cruise Line’s Turnaround Shows Early Traction After Activist Shakeup", "summary": "[原文] Better close-in demand, cost cuts, and second-half 2027 bookings on par with last year at higher prices suggest Norwegian Cruise Line's turnaround plan is starting to take hold, but the company still ", "source": "Skift", "link": "https://skift.com/2026/10/29/norwegian-cruise-lines-third-quarter-earnings-turnaround-progress/", "category": "Travel", "category_cn": "✈️ 旅游"}, {"title": "IndiGo’s Willie Walsh Wants More Revenue From Every Passenger", "summary": "[原文] IndiGo’s answer to losing passengers is the Ryanair model of earning more from each one. But Ryanair’s extras depend on European rules. Walsh himself concedes India’s rules do put limits on that playb", "source": "Skift", "link": "https://skift.com/2026/10/29/indigos-willie-walsh-wants-more-revenue-from-every-passenger/", "category": "Travel", "category_cn": "✈️ 旅游"}, {"title": "Which Airlines Are Still Skipping Dubai This Winter", "summary": "[原文] Dubai’s airport is busy, but the long-haul airlines that fill its luxury hotels are mostly staying out until spring. Hotels organizing around a European winter rebound need to plan for a later one.", "source": "Skift", "link": "https://skift.com/2026/10/29/which-airlines-are-still-skipping-dubai-this-winter/", "category": "Travel", "category_cn": "✈️ 旅游"}]</script>
+<script>
+(function(){
+'use strict';
+var moreToggle=document.getElementById('more-toggle'),moreGrid=document.getElementById('more-grid');
+if(moreToggle&&moreGrid){moreToggle.addEventListener('click',function(){
+var o=moreGrid.classList.toggle('open');moreToggle.classList.toggle('open',o);moreToggle.setAttribute('aria-expanded',o);});}
+function toggleModule(id,btn){var el=document.getElementById(id);if(!el)return;var is=el.classList.contains('open');
+document.querySelectorAll('.module-expanded.open').forEach(function(e){if(e!==el)e.classList.remove('open');});
+document.querySelectorAll('.expand-btn[aria-expanded="true"]').forEach(function(b){if(b!==btn)b.setAttribute('aria-expanded','false');});
+if(is){el.classList.remove('open');btn.setAttribute('aria-expanded','false');}
+else{el.classList.add('open');btn.setAttribute('aria-expanded','true');
+setTimeout(function(){el.closest('.category-module').scrollIntoView({behavior:'smooth',block:'start'});},100);}}
+document.querySelectorAll('.expand-btn').forEach(function(b){b.addEventListener('click',function(){toggleModule(this.getAttribute('data-target'),this);});});
+document.querySelectorAll('.collapse-btn').forEach(function(b){b.addEventListener('click',function(){
+var id=this.getAttribute('data-target'),el=document.getElementById(id),eb=document.querySelector('.expand-btn[data-target="'+id+'"]');
+if(el){el.classList.remove('open');if(eb)eb.setAttribute('aria-expanded','false');}});});
+(function(){
+var input=document.getElementById('search-input'),clearBtn=document.getElementById('search-clear'),
+searchIcon=document.querySelector('.search-icon'),statusEl=document.getElementById('search-status'),
+dataScript=document.getElementById('search-data');if(!input||!dataScript)return;
+var articles=[];try{articles=JSON.parse(dataScript.textContent);}catch(e){return;}
+function doSearch(){
+var q=input.value.trim().toLowerCase();
+document.querySelectorAll('.feature-card,.category-module,.news-item,.preview-item').forEach(function(e){e.classList.remove('hidden-by-search');});
+if(clearBtn)clearBtn.style.display=q?'flex':'none';if(searchIcon)searchIcon.style.display=q?'none':'';
+if(statusEl)statusEl.textContent='';if(!q)return;
+var matched=new Set();
+articles.forEach(function(a,i){if((a.title+' '+a.summary+' '+a.source+' '+a.category_cn).toLowerCase().indexOf(q)!==-1)matched.add(i);});
+document.querySelectorAll('.feature-card').forEach(function(c,i){c.classList.toggle('hidden-by-search',!matched.has(i));});
+document.querySelectorAll('.news-item').forEach(function(item){
+var t=(item.querySelector('h3')||{}).textContent||'',s=(item.querySelector('.item-summary')||{}).textContent||'',f=false;
+articles.forEach(function(a,i){if(matched.has(i)&&(t.indexOf(a.title.substring(0,25))!==-1||s.indexOf(a.summary.substring(0,25))!==-1))f=true;});
+item.classList.toggle('hidden-by-search',!f);});
+document.querySelectorAll('.preview-item').forEach(function(item){
+var t=(item.querySelector('.preview-title')||{}).textContent||'';
+var f=articles.some(function(a,i){return matched.has(i)&&t.indexOf(a.title.substring(0,20))!==-1;});
+item.classList.toggle('hidden-by-search',!f);});
+document.querySelectorAll('.category-module').forEach(function(m){
+var v=m.querySelectorAll('.news-item:not(.hidden-by-search),.preview-item:not(.hidden-by-search)');
+m.classList.toggle('hidden-by-search',v.length===0);});
+if(statusEl)statusEl.textContent='找到 '+matched.size+' 篇';}
+input.addEventListener('input',doSearch);
+if(clearBtn){clearBtn.addEventListener('click',function(){input.value='';doSearch();input.focus();});}
+input.addEventListener('keydown',function(e){if(e.key==='Escape'){input.value='';doSearch();input.blur();}});})();
+(function(){
+var t=document.getElementById('update-time'),a=document.getElementById('refresh-area'),h=document.getElementById('refresh-hint');
+if(!t||!a)return;
+var m=(t.getAttribute('datetime')||t.textContent.trim()).match(/(\d{4})-(\d{2})-(\d{2})\s+(\d{2}):(\d{2})/);if(!m)return;
+var d=new Date(parseInt(m[1]),parseInt(m[2])-1,parseInt(m[3]),parseInt(m[4]),parseInt(m[5]),0),dh=(new Date()-d)/3600000;
+if(dh>=2){var e=dh<3?'2小时前':Math.floor(dh)+'小时前';h.textContent='上次更新: '+e+' · 可手动触发刷新';a.style.display='flex';}})();
+document.querySelectorAll('.expand-btn,.collapse-btn,.more-toggle').forEach(function(b){b.addEventListener('keydown',function(e){if(e.key==='Enter'||e.key===' '){e.preventDefault();this.click();}});});
+})();
+</script>
+</body>
+</html>
