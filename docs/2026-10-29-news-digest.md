@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年10月29日** | 生成时间: 2026-10-29 13:00
+**2026年10月29日** | 生成时间: 2026-10-29 20:33
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. High-speed train crash kills at least 68 people in Spain
+### 1. Audio reveals exchanges between control centre and drivers before deadly Spain train crash
 
-[原文] The crash, between a moving train and another that was stopped further up the track, was caused by an "inexplicable" error, the transport minister said.
+[原文] The recordings appear to show one high-speed train was given clearance to move even though another up ahead had stalled.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain
-
-[原文] Survivors of the train crash in Spain have spoken of their shock, panic and anger at the accident in Toledo province on Wednesday.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 3. Flávio Bolsonaro denies fleeing Brazil after landing in Miami
+### 2. Flávio Bolsonaro denies fleeing Brazil after landing in Miami
 
 [原文] The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Netanyahu's bloc leading Israel election but short of majority, partial results show
+### 3. Netanyahu's bloc leading Israel election but short of majority, partial results show
 
-[原文] With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.
+[原文] With 93% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. How could Israel break election deadlock? Here are four scenarios
+### 4. Carney to push for closer ties at Canada-EU summit in Montreal
 
-[原文] With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.
+[原文] The term "associate member" is reportedly off the table as officials discuss deeper economic and defence ties.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 5. Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate
+
+[原文] The Republican governor was responding to allegations in the New York Times that Democrats recruited a spoiler candidate, Dan Sullivan.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Trump methane policy rollback may have minimal impact on crude prices, EPA says
+### 1. Alphabet earnings miss reflects first real sign that AI is taking a bite out of search
 
-[原文] The EPA projects Trump’s methane rollback would only lower 2027 U.S. crude prices 11 cents a barrel, while lifting domestic oil output 0.09%.
+[原文] Wall Street hammered Alphabet for an earnings miss that included weaker-than-expected revenue out of the company's core business.
 
-📎 [阅读原文](https://www.cnbc.com/2026/10/29/trump-methane-rollback-oil-prices-epa.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html) — *CNBC*
 
-### 2. Over 41,000 U.S. Homeland Security officials' details apparently exposed after massive data breach
+### 2. Hegseth reportedly fires U.S. top military planner as Trump downplays Iran peace talks
 
-[原文] CNBC was able to access the database on the website, and saw it contained names alleged to be of officials, titles, agencies, and offices in cities and states.
+[原文] Lieutenant General Brett Sylvia was removed as head of strategy, plans and policy on the Joint Chiefs of Staff.
 
-📎 [阅读原文](https://www.cnbc.com/2026/10/29/dhs-data-breach-ice-cdp-deportations.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/29/us-iran-war-trump-hormuz.html) — *CNBC*
 
-### 3. Alphabet sinks 10% as it holds 2026 capex unchanged, expects significant increase in 2027
+### 3. Eli Lilly blows past estimates, hikes sales outlook as Zepbound and Mounjaro demand surge again
 
-[原文] Alphabet missed Q3 expectations on earnings and revenue, its first top-and-bottom-line miss in nearly four years.
+[原文] Eli Lilly reported that sales of obesity drug Zepbound and diabetes treatment Mounjaro surged again in the third quarter.
 
-📎 [阅读原文](https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/29/eli-lilly-lly-earnings-q3-2026.html) — *CNBC*
 
-### 4. Samsung Electronics shares slid despite record profit in the third-quarter
+### 4. DoorDash to acquire Instacart for $17 billion
 
-[原文] Samsung Electronics reported third-quarter earnings on Thursday.
+[原文] The deal unites two delivery giants under one roof, with DoorDash's focus on restaurants and Instacart's robust stable of grocery partners.
 
-📎 [阅读原文](https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html) — *CNBC*
 
-### 5. As Waymo expands overseas, it remains a niche cash-burning business
+### 5. AI build-out hits snag as Google and Microsoft put off raising capex forecasts
 
-[原文] Alphabet's Other Bets segment, which includes Waymo, accounted for 0.3% of total revenue in the quarter.
+[原文] Microsoft and Alphabet both reported capital expenditures that fell short of estimates, adding to concern over the cost of the AI build-out.
 
-📎 [阅读原文](https://www.cnbc.com/2026/10/28/as-waymo-expands-overseas-it-remains-a-niche-cash-burning-business.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/29/microsoft-google-ai-capex-estimates.html) — *CNBC*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. 'He could be happier' - why is Estevao becoming Chelsea's forgotten man?
+### 1. Mourinho and chaos - is Real Madrid boss misunderstood?
 
-[原文] Estevao faces limited opportunities at Chelsea as Pedro Neto’s form and competition for places in attack leave him struggling for game time under Xabi Alonso.
+[原文] Jose Mourinho has spent the past decade seeing other managers hailed as geniuses, but did Real Madrid's win at Barcelona show he's been misunderstood?
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cv5ynwkndw61o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/crly062vd0z7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Fleetwood to face Everton or Newcastle in last eight
+### 2. Sometimes managers need sacking for own good - Neville
 
-[原文] League Two Fleetwood Town will face Everton or Newcastle United at Highbury in the quarter-finals of the EFL Cup.
+[原文] Gary Neville says managers sometimes need to be sacked "for their own good" as Manchester United persist with under-pressure boss Michael Carrick.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cmp3glnle0wdo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cjvgx0ek6rz2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Red Roses make six changes but Kildunne on bench again
+### 3. Chiellini guidance to Leeds 'rock' - could Muharemovic be signing of season?
 
-[原文] Red Roses' star Ellie Kildunne is named on England's bench again as head coach John Mitchell makes six changes to his side to face the United States.
+[原文] Having cost Leeds United an 'eye-watering' fee, Tarik Muharemovic has impressed so much that some fear the club face a battle to keep him.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-union/articles/cq1m4kn84gk2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cx05487d6r9vo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Russo scores hat-trick as Arsenal beat Benfica
+### 4. Brewers win first World Series in 57-year history
 
-[原文] Alessia Russo becomes England's all-time leading goalscorer in the Women's Champions League with a hat-trick in Arsenal's 3-0 win over Benfica.
+[原文] The Milwaukee Brewers win the World Series for the first time in the franchise's 57-year history after beating the Tampa Bay Rays in game five on Wednesday.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/crd6dzxwlqjlo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/baseball/articles/c5x2v991l0lvo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Perez signs multi-year extension with Cadillac
+### 5. England boss McDermott urges patience in PNG points chase
 
-[原文] Sergio Perez will remain with Cadillac until 2029 after signing a multi-year contract extension.
+[原文] England boss Brian McDermott has urged his players not to panic as they chase points against Papua New Guinea in Wollongong on Friday in a bid to keep alive their Rugby League World Cup hopes.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/cqde852ww04ko?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-league/articles/cm8xz7we02dyo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Jimmy Fallon and Jamie Lee Curtis Transform Into Nathan Fielder and Elizabeth Holmes to Spoof ‘You Can See Everything’
+### 1. ‘Between Us’ Review: Estranged Teenagers Process Past Tragedy Through High School Theater in Fitfully Ambitious Japanese Drama
 
-[原文] On Wednesday night&#8217;s episode of “The Tonight Show,” host Jimmy Fallon went full Nathan Fielder while guest Jamie Lee Curtis played Elizabeth Holmes to spoof A24’s buzzy documentary, “You Can See
+[原文] The lingering trauma shared by two middle-class families, once friendly but now estranged following a tragic camping incident, is finally addressed through the unlikely prism of a high-school drama cl
 
-📎 [阅读原文](https://variety.com/2026/tv/news/jimmy-fallon-jamie-lee-curtis-you-can-see-everything-1236933837/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/reviews/between-us-review-1236934055/) — *Variety*
 
-### 2. James Gunn Calls Batman, Superman and Wonder Woman the DCU’s ‘Diamond Characters,’ Says Krypto, John Stewart and Peacemaker Could ‘Turn Into Diamonds’
+### 2. ‘Paddington the Musical’ Extends West End Run Through 2028 After Olivier Awards Sweep
 
-[原文] James Gunn has once again taken to Threads in defense of his DC universe, and this time, is clarifying his previously proposed eight- to 10-year roadmap for the fictional world and making it clearer w
+[原文] “Paddington the Musical” is sticking around London a little longer. The hit stage adaptation of Michael Bond’s beloved children&#8217;s books has extended its West End run through June 25, 2028, as th
 
-📎 [阅读原文](https://variety.com/2026/film/news/james-gunn-batman-superman-wonder-woman-dcu-1236933827/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/shopping/news/paddington-musical-extends-west-end-run-buy-tickets-1236934052/) — *Variety*
 
-### 3. ‘South Park’: Cartman, Stan and Kyle Must Solve South America’s Beef Crisis in Halloween Week Episode
+### 3. Tahmima Anam’s New Novel ‘Good Books’ Being Adapted for TV With Pacesetter, Kudos and ‘Emily in Paris’ Writer (EXCLUSIVE)
 
-[原文] In the fourth episode of “South Park” Season 29, South America’s beef has surprisingly become a hot commodity — and Cartman, Stan, Kyle and Randy won’t let their lunch-of-choice get taken away from th
+[原文] The next novel by Tahmima Anam, the author of acclaimed and award-winning books &#8220;A Golden Age&#8221; and &#8220;The Good Muslim,&#8221; is being adapted for TV, Variety has learned. According to
 
-📎 [阅读原文](https://variety.com/2026/tv/news/south-park-season-29-episode-4-1236933789/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/global/tahmima-anam-good-books-tv-pacesetter-kudos-emily-in-paris-1236933613/) — *Variety*
 
-### 4. ‘The Mosquito Bowl’ Review: Football Heroes Take to the Battlefield in Peter Berg’s Emptily Macho WWII Epic
+### 4. Russell Brand’s Wife Calls Him an ‘Amazing Husband’ at Rape Trial: ‘I Feel Very Seen by Him’
 
-[原文] No one familiar with the oeuvre of Peter Berg — the action merchant behind the Afghanistan war drama &#8220;Lone Survivor&#8221; and the improbably pumped-up boardgame adaptation &#8220;Battleship&#82
+[原文] Russell Brand&#8217;s wife, Laura Gallacher, took the stand to defend her husband at his rape and sexual assault trial in London on Thursday, calling him an &#8220;amazing husband.&#8221; Gallacher&#8
 
-📎 [阅读原文](https://variety.com/2026/film/reviews/the-mosquito-bowl-review-1236932067/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/global/russell-brand-wife-amazing-husband-rape-trial-1236934000/) — *Variety*
 
-### 5. From Carlos Reygadas to Hamaguchi’s Cinematographer, Tokyo’s Nippon Cinema Now Directors on Unexpected Connections
+### 5. TelevisaUnivision Q3 Buoyed by World Cup in Mexico, Streaming Revenue
 
-[原文] A first-time director who messaged Oscar winner Hamaguchi Ryusuke’s cinematographer directly, and a former hunter whose film led Carlos Reygadas to float a collaboration, were among five Nippon Cinema
+[原文] Spanish-language broadcasting giant TelevisaUnivision said third-quarter revenue was boosted by telecasts of the FIFA World Cup in Mexico and Latin America and continued improvements at its ViX stream
 
-📎 [阅读原文](https://variety.com/2026/film/festivals/carlos-reygadas-hamaguchi-cinematographer-nippon-cinema-now-1236933790/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/televisaunivsion-q3-world-cup-mexico-streaming-1236933808/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Upgrade to OLED Gaming With the Entry-Level Gigabyte GO27Q24A Monitor
+### 1. Phantom Blade Zero Protagonist Voice Actor Revealed as Sonic the Hedgehog's Roger Craig Smith
 
-暂无摘要。
+[原文] In the trailers leading up to launch, Phantom Blade Zero protagonist Soul was voiced by up and coming actor Jay Maksenuk, best known for playing V in Once Human. As the game moved into release, howeve
 
-📎 [阅读原文](https://www.ign.com/articles/gigabyte-go27q24a-gaming-monitor-australia-deal-street-fighter-giveaway-au-deals) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/roger-craig-smith-replaced-original-phantom-blade-zero-actor) — *IGN*
 
-### 2. A Famous GTA 4 Meme Is Now a Mechanic in GTA 6
+### 2. Phantom Blade Zero Fixes My Biggest Annoyance With Boss Fights
 
-[原文] GTA 6 has named one of its biggest mechanics after a beloved GTA 4 meme.
+[原文] Phantom Blade Zero doesn’t make boss fights annoying, and I hope other devs pay attention.
 
-📎 [阅读原文](https://www.ign.com/articles/a-famous-gta-4-meme-is-now-a-mechanic-in-gta-6) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/phantom-blade-zero-fixes-my-biggest-annoyance-with-boss-fights) — *IGN*
 
-### 3. GTA 6's Map Will Open Up Relatively Early and Let You Explore Freely, Developers Are Still Discovering New Parts of the World
+### 3. The iPhone 18 Pro Max Takes An Incredible Design and Just Makes It Faster
 
-[原文] GTA 6's world won't be blocked off by story progression, Rockstar confirms.
+[原文] The iPhone 18 Pro Max doesn’t really do anything new, but it doesn’t have to. It takes the best phone chassis on the market and adds an incredibly powerful and stable chip – which makes it hard not to
 
-📎 [阅读原文](https://www.ign.com/articles/gta-6s-map-will-open-up-relatively-early-and-let-you-explore-freely-developers-are-still-discovering-new-parts-of-the-world) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/iphone-18-pro-max-review) — *IGN*
 
-### 4. BioWare Co-Founder Speaks Out on Studio Closure, Mass Effect Cancellation
+### 4. Helldivers 2 Review Bombed on Steam After Anti-Cheat Friendly Fire
 
-[原文] BioWare co-founder Greg Zeschuk has spoken out about the closure of BioWare last week, which saw 50 jobs lost as part of 400 cuts across the company, along with the cancellation of Mass Effect 5, whic
+[原文] Arrowhead has switched to Easy Anti-Cheat to cut down on cheaters in Helldivers 2, but that decision has proven controversial on Steam. The new anti-cheat was supposed to prevent mods that give player
 
-📎 [阅读原文](https://www.ign.com/articles/bioware-co-founder-speaks-out-on-studio-closure-mass-effect-cancellation) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/helldivers-2-review-bombed-on-steam-anti-cheat) — *IGN*
 
-### 5. Original Donkey Kong Poster That Was Nearly Thrown Away Sold at Auction for Record-Breaking $329,400
+### 5. Asha Sharma Insists There's 'More Demand Than Consoles Available' as Xbox Hardware Sales Continue to Plummet
 
-[原文] A 1981 promotional poster for the original Donkey Kong, featuring the first public appearance of Mario, has become the the most expensive piece of original video game art ever sold at auction.
+[原文] The boss of Xbox has insisted that sales of the console are constrained by supply and that there is “more demand than consoles available,” as Microsoft’s gaming business heads into the crucial holiday
 
-📎 [阅读原文](https://www.ign.com/articles/original-donkey-kong-poster-that-was-nearly-thrown-away-sold-at-auction-for-record-breaking-329400) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/asha-sharma-insists-theres-more-demand-than-consoles-available-as-xbox-hardware-sales-continue-to-plummet) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post How Bring a Tra
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Powerful Interests Aim to Weaken California’s Landmark Environmental Law
+### 1. As Trump Backs a Gas Pipeline, New York’s Climate Priorities Face a Test
+
+[原文] Tanja Konwinski thought the Constitution pipeline was dead. When her husband bought 82 acres in Schoharie County, New York, in 2023, she knew Williams Cos. held an easement on the property for the pro
+
+📎 [阅读原文](https://insideclimatenews.org/news/29102026/new-york-gas-pipeline-gubernatorial-election/) — *Inside Climate News*
+
+### 2. In Texas’ 9th Congressional District, Candidates Spar Over Fossil Fuels
+
+[原文] In 2016, current Democratic candidate for Congress Leticia Gutierrez lived six miles from a refinery owned by the Brazilian oil company Petrobras in Pasadena, part of the greater Houston area. The pla
+
+📎 [阅读原文](https://insideclimatenews.org/news/29102026/texas-9th-congressional-race-fossil-fuels/) — *Inside Climate News*
+
+### 3. Europe’s Warming Waters Are Attracting Unwanted Marine Life
+
+[原文] Reeling rods, pulling pots and hauling nets this summer, fishermen from Greece to the U.K. discovered unexpected visitors popping their heads above the surface. In the Aegean, it was silver-cheeked to
+
+📎 [阅读原文](https://insideclimatenews.org/news/29102026/europe-warming-water-invasive-fish/) — *Inside Climate News*
+
+### 4. Maine Looks to Its Forests to Reach Climate Goals
+
+[原文] As the most heavily forested state in the country, about 94 percent of Maine’s forests are privately owned, so focusing on their carbon benefits has both immediate ecological and economic effects.&#16
+
+📎 [阅读原文](https://insideclimatenews.org/news/29102026/maine-forest-offsets-greenhouse-emissions/) — *Inside Climate News*
+
+### 5. Powerful Interests Aim to Weaken California’s Landmark Environmental Law
 
 [原文] Political action committees funded by technology companies, the state’s major utilities and other corporate interests have spent nearly twice as much to pass a ballot measure that would greenlight maj
 
 📎 [阅读原文](https://insideclimatenews.org/news/28102026/california-prop-45-aims-to-weaken-environmental-law/) — *Inside Climate News*
-
-### 2. Most Wells Around the Grand Canyon With High Arsenic Levels Are at Uranium Mine, New Analysis Shows
-
-[原文] Three of four wells across the Grand Canyon region that have average arsenic levels above the Environmental Protection Agency’s standard for safe drinking water are at the site of a controversial uran
-
-📎 [阅读原文](https://insideclimatenews.org/news/28102026/grand-canyon-uranium-mine-high-arsenic-levels/) — *Inside Climate News*
-
-### 3. In North Carolina, a ‘Mountain Democrat’ Vies for Residents Still Hurting From Helene
-
-[原文] This article was originally published by The Assembly. It is republished with permission. It’s an hour before Big Ivy’s food bank officially opens, but over a dozen families have congregated around th
-
-📎 [阅读原文](https://insideclimatenews.org/news/28102026/in-north-carolina-a-mountain-democrat-vies-for-residents-still-hurting-from-helene/) — *Inside Climate News*
-
-### 4. Antarctic Sea Ice Decline Is Triggering Global Ocean Changes
-
-[原文] The rapid decline of Antarctic sea ice since 2016 has triggered a dramatic shift in a crucial part of Earth’s climate system, scientists say.&#160; In a paper published Wednesday, researchers document
-
-📎 [阅读原文](https://insideclimatenews.org/news/28102026/antarctic-sea-ice-decline-triggers-ocean-changes/) — *Inside Climate News*
-
-### 5. How Texas Could End Up Paying an Israeli Company Billions for Water
-
-[原文] Plans are advancing on the Gulf Coast of Texas for an enormous seawater desalination plant which, if built, would be part of one of the largest water infrastructure developments in the country.&#160; 
-
-📎 [阅读原文](https://insideclimatenews.org/news/28102026/texas-could-privatize-water-supply-with-israeli-company/) — *Inside Climate News*
 
 ---
 
@@ -401,35 +401,35 @@ The post How Bring a Tra
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. How Teachers Are Turning the Midterms Into a Nonpartisan Civics Lesson
-
-[原文] A new survey finds young people doubt elected officials are listening, yet more plan to vote than in 2024.
-
-📎 [阅读原文](https://edsurge.com/news/how-teachers-are-turning-the-midterms-into-a-nonpartisan-civics-lesson) — *EdSurge*
-
-### 2. Does an AI Pause Protect Students, or Leave Some Behind?
-
-[原文] Artificial intelligence in the classroom comes with risk, but students must learn AI literacy.
-
-📎 [阅读原文](https://edsurge.com/news/does-an-ai-pause-protect-students-or-leave-some-behind) — *EdSurge*
-
-### 3. What Playgrounds Can Teach Us About AI in Schools
+### 1. What Playgrounds Can Teach Us About AI in Schools
 
 [原文] Deciding whether students should use AI requires balancing safety with the developmental need to learn about managing risk.
 
 📎 [阅读原文](https://edsurge.com/news/what-playgrounds-can-teach-us-about-ai-in-schools) — *EdSurge*
 
-### 4. AI, Elections and the Making of an Informed Electorate
+### 2. How Teachers Are Turning the Midterms Into a Nonpartisan Civics Lesson
+
+[原文] A new survey finds young people doubt elected officials are listening, yet more plan to vote than in 2024.
+
+📎 [阅读原文](https://edsurge.com/news/how-teachers-are-turning-the-midterms-into-a-nonpartisan-civics-lesson) — *EdSurge*
+
+### 3. Does an AI Pause Protect Students, or Leave Some Behind?
+
+[原文] Artificial intelligence in the classroom comes with risk, but students must learn AI literacy.
+
+📎 [阅读原文](https://edsurge.com/news/does-an-ai-pause-protect-students-or-leave-some-behind) — *EdSurge*
+
+### 4. My Preschool Students Taught Me What Educators Lose in English-Only Programs
+
+[原文] As Head Start faces a proposal to end bilingual education, remember that children aren’t the only ones who benefit from multiple languages.
+
+📎 [阅读原文](https://edsurge.com/news/my-preschool-students-taught-me-what-educators-lose-in-english-only-programs) — *EdSurge*
+
+### 5. AI, Elections and the Making of an Informed Electorate
 
 [原文] As AI chatbots answer voters’ questions in seconds, schools need to teach students to ask where those answers come from — and to reach their own ...
 
 📎 [阅读原文](https://edsurge.com/news/ai-elections-and-the-making-of-an-informed-electorate) — *EdSurge*
-
-### 5. Pause AI in Schools. But Not Before You Do This First.
-
-[原文] Ban or no ban, students are going to use AI. Let’s make sure they have the skills to navigate it, says Common Sense Media’s chief program officer.
-
-📎 [阅读原文](https://edsurge.com/news/pause-ai-in-schools-but-not-before-you-do-this-first) — *EdSurge*
 
 ---
 
@@ -477,35 +477,35 @@ The post How Bring a Tra
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Would You Pay for Hotel Loyalty? 485,000 Accor Members in Asia Pacific Already Do
+### 1. Hosts Say Airbnb Won’t Remove Unfair Reviews. Guests Say It Removes Too Many.
+
+[原文] Hosts and guests both have complaints when it comes to short-term rental review takedowns. For hosts, a single negative review can cost up to hundreds in lost revenue each month.
+
+📎 [阅读原文](https://skift.com/2026/10/29/short-term-rental-review-disputes/) — *Skift*
+
+### 2. Egypt Has the Visitors. Now It Wants Them to Stay Longer and Spend More
+
+[原文] Egypt’s hotel pipeline already matches its new pitch, with nearly 90% of planned rooms upscale or luxury. The harder part to deliver is the rest of a premium trip — the best Nile vessels, guides and t
+
+📎 [阅读原文](https://skift.com/2026/10/29/egypt-has-the-visitors-now-it-wants-them-to-stay-longer-and-spend-more/) — *Skift*
+
+### 3. Would You Pay for Hotel Loyalty? 485,000 Accor Members in Asia Pacific Already Do
 
 [原文] Paid loyalty is gaining traction in Asia Pacific, where subscriptions are already a habit. Accor is treating its 485,000-member program as a revenue channel, not a discount scheme. The real test is re
 
 📎 [阅读原文](https://skift.com/2026/10/28/would-you-pay-for-hotel-loyalty-485000-accor-members-in-asia-pacific-already-do/) — *Skift*
 
-### 2. ‘We’re Done’: MGM Resorts Ends Merger Talks With Barry Diller’s People Inc.
+### 4. ‘We’re Done’: MGM Resorts Ends Merger Talks With Barry Diller’s People Inc.
 
 [原文] A new pact between MGM Resorts and Barry Diller's People Inc. effectively ends merger talks. It's uncertain who else might want to buy an operator whose Las Vegas resorts have been sliding for two yea
 
 📎 [阅读原文](https://skift.com/2026/10/28/were-done-mgm-resorts-ends-merger-talks-with-barry-dillers-people-inc/) — *Skift*
 
-### 3. Vrbo Launches Reserve Now, Pay Later — With a Twist on Airbnb’s Approach
+### 5. Vrbo Launches Reserve Now, Pay Later — With a Twist on Airbnb’s Approach
 
-[原文] Paying nothing up-front has been one of Airbnb's clearest growth levers. Vrbo's version of Reserve Now, Pay Later seems more host-friendly, but it gives guests less flexibility in when they can cancel
+[原文] Paying nothing up-front has been one of Airbnb's clearest growth levers. Will Vrbo get the substantial lift that Airbnb got when it introduced Reserve Now, Pay Later last year?
 
 📎 [阅读原文](https://skift.com/2026/10/28/vrbo-launches-reserve-now-pay-later-with-a-twist-on-airbnbs-approach/) — *Skift*
-
-### 4. Marriott Confirms Corporate Job Cuts
-
-[原文] Marriott is cutting corporate jobs, not hotel staff, in a global restructuring. Some affected workers may land newly posted roles, it says.
-
-📎 [阅读原文](https://skift.com/2026/10/28/marriott-confirms-corporate-job-cuts/) — *Skift*
-
-### 5. Frontier’s Fares Soar, But Spirit’s Exit Hasn’t Fixed Its Profit Problem
-
-[原文] Spirit's collapse has given Frontier room to raise fares and attract more passengers – but record revenues have yet to translate into meaningful profits.
-
-📎 [阅读原文](https://skift.com/2026/10/28/frontiers-fares-soar-but-spirits-exit-hasnt-fixed-its-profit-problem/) — *Skift*
 
 ---
 
