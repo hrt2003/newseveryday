@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年10月29日** | 生成时间: 2026-10-29 06:21
+**2026年10月29日** | 生成时间: 2026-10-29 13:00
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Alphabet sinks 10% as it holds 2026 capex unchanged, expects significant increase in 2027
+### 1. Trump methane policy rollback may have minimal impact on crude prices, EPA says
+
+[原文] The EPA projects Trump’s methane rollback would only lower 2027 U.S. crude prices 11 cents a barrel, while lifting domestic oil output 0.09%.
+
+📎 [阅读原文](https://www.cnbc.com/2026/10/29/trump-methane-rollback-oil-prices-epa.html) — *CNBC*
+
+### 2. Over 41,000 U.S. Homeland Security officials' details apparently exposed after massive data breach
+
+[原文] CNBC was able to access the database on the website, and saw it contained names alleged to be of officials, titles, agencies, and offices in cities and states.
+
+📎 [阅读原文](https://www.cnbc.com/2026/10/29/dhs-data-breach-ice-cdp-deportations.html) — *CNBC*
+
+### 3. Alphabet sinks 10% as it holds 2026 capex unchanged, expects significant increase in 2027
 
 [原文] Alphabet missed Q3 expectations on earnings and revenue, its first top-and-bottom-line miss in nearly four years.
 
 📎 [阅读原文](https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html) — *CNBC*
 
-### 2. Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat
+### 4. Samsung Electronics shares slid despite record profit in the third-quarter
 
-[原文] Microsoft reported better-than-expected results driven by 48% growth in Azure revenue.
+[原文] Samsung Electronics reported third-quarter earnings on Thursday.
 
-📎 [阅读原文](https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html) — *CNBC*
 
-### 3. Bond investor Jeff Gundlach on Fed's rate pause: 'What are you waiting for?'
+### 5. As Waymo expands overseas, it remains a niche cash-burning business
 
-[原文] The DoubleLine founder spoke with CNBC's "Closing Bell" on Wednesday after the Fed held interest rates steady.
+[原文] Alphabet's Other Bets segment, which includes Waymo, accounted for 0.3% of total revenue in the quarter.
 
-📎 [阅读原文](https://www.cnbc.com/2026/10/28/bond-investor-jeff-gundlach-talks-feds-rate-pause-with-cnbc.html) — *CNBC*
-
-### 4. Here are five key takeaways from the Fed rate decision and Warsh news conference
-
-[原文] Even though the interest-rate vote went as expected, there were a few surprises out of this week's Federal Open Market Committee meeting.
-
-📎 [阅读原文](https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html) — *CNBC*
-
-### 5. DoorDash's deal to buy Instacart coming as early as Thursday morning, sources tell CNBC
-
-[原文] Speculation of a deal has swirled since last week, and several outlets reported the acquisition could value Instacart at roughly $17 billion.
-
-📎 [阅读原文](https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/28/as-waymo-expands-overseas-it-remains-a-niche-cash-burning-business.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion
+### 1. Upwind raises $400M after walking away from Datadog acquisition offer
+
+[原文] The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.
+
+📎 [阅读原文](https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/) — *TechCrunch*
+
+### 2. Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme
+
+[原文] Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade.
+
+📎 [阅读原文](https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/) — *TechCrunch*
+
+### 3. Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion
 
 [原文] Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.
 
 📎 [阅读原文](https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/) — *TechCrunch*
 
-### 2. Google expands AI Search ads globally as core ad growth slows
+### 4. Google expands AI Search ads globally as core ad growth slows
 
 [原文] The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.
 
 📎 [阅读原文](https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/) — *TechCrunch*
 
-### 3. Microsoft recorded $10 billion in revenue from OpenAI
+### 5. Microsoft recorded $10 billion in revenue from OpenAI
 
 [原文] Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financ
 
 📎 [阅读原文](https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/) — *TechCrunch*
-
-### 4. Microsoft hits 10 quarters of record-breaking revenue in a row
-
-[原文] Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase
-
-📎 [阅读原文](https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/) — *TechCrunch*
-
-### 5. Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents
-
-[原文] A hacker obtained personally identifiable information about more than 40,000 Homeland Security staffers, which has since been published online.
-
-📎 [阅读原文](https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/) — *TechCrunch*
 
 ---
 
@@ -148,17 +148,17 @@
 
 📎 [阅读原文](https://www.sciencedaily.com/releases/2026/10/261027063824.htm) — *Science Daily*
 
-### 4. Smaller EV batteries, longer range? Scientists may have found a way
+### 4. Your blood pressure could be dangerous even when your numbers look normal
 
-[原文] Scientists have developed a new technology that could make electric vehicle batteries smaller, lighter, and longer-lasting, potentially allowing cars to travel farther on a single charge. By borrowing
+[原文] Researchers have discovered a small group of brain cells that prevents dangerous blood pressure swings, even when average readings appear normal. The finding reveals a hidden source of cardiovascular 
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/10/261027063708.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/10/261027063814.htm) — *Science Daily*
 
-### 5. Scientists discover a secret glow in toxic fire salamanders
+### 5. Scientists just broke a textbook rule of physics
 
-[原文] Researchers have discovered a surprising hidden ability in Europe's familiar black-and-yellow fire salamanders: they glow green and cyan under ultraviolet light. The mysterious fluorescence comes main
+[原文] Scientists have defied a long-standing rule of laser physics by generating X-rays with much higher energies than conventional theory predicts. The surprising discovery reveals how two electrons workin
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/10/261027063707.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/10/261027063713.htm) — *Science Daily*
 
 ---
 
@@ -168,29 +168,29 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Labuschagne's form hits record low but Australia hint at future
+### 1. 'He could be happier' - why is Estevao becoming Chelsea's forgotten man?
 
-[原文] Marnus Labuschagne's poor form hit a record low but Australia's new guard stood up to put the tourists in a strong position in the decisive Test against South Africa.
+[原文] Estevao faces limited opportunities at Chelsea as Pedro Neto’s form and competition for places in attack leave him struggling for game time under Xabi Alonso.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cxyvr1my94m4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cv5ynwkndw61o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Red Roses make six changes but Kildunne on bench again
+### 2. Fleetwood to face Everton or Newcastle in last eight
+
+[原文] League Two Fleetwood Town will face Everton or Newcastle United at Highbury in the quarter-finals of the EFL Cup.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cmp3glnle0wdo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 3. Red Roses make six changes but Kildunne on bench again
 
 [原文] Red Roses' star Ellie Kildunne is named on England's bench again as head coach John Mitchell makes six changes to his side to face the United States.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-union/articles/cq1m4kn84gk2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Chelsea continue unbeaten start with win over Roma
+### 4. Russo scores hat-trick as Arsenal beat Benfica
 
-[原文] Chelsea's strong start to the season continues with victory over Roma in the Women's Champions League.
+[原文] Alessia Russo becomes England's all-time leading goalscorer in the Women's Champions League with a hat-trick in Arsenal's 3-0 win over Benfica.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/cm17k8x994edo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. Djokovic celebrates 'big win' on return to Basel
-
-[原文] Novak Djokovic pulls off a hard-fought comeback victory over Ugo Humbert to keep alive his hopes of qualifying for the season-ending ATP Finals.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cmd93vlz4k11o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/videos/crd6dzxwlqjlo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ### 5. Perez signs multi-year extension with Cadillac
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Barbara Barrie, Oscar-Nominated Star of ‘Barney Miller’ and ‘Breaking Away,’ Dies at 95
+### 1. Jimmy Fallon and Jamie Lee Curtis Transform Into Nathan Fielder and Elizabeth Holmes to Spoof ‘You Can See Everything’
 
-[原文] Barbara Barrie, the Oscar-, Emmy- and Tony-nominated actress who starred in the original production of “Company” and in films including “Breaking Away,” died Wednesday in Manhattan. She was 95. Her da
+[原文] On Wednesday night&#8217;s episode of “The Tonight Show,” host Jimmy Fallon went full Nathan Fielder while guest Jamie Lee Curtis played Elizabeth Holmes to spoof A24’s buzzy documentary, “You Can See
 
-📎 [阅读原文](https://variety.com/2026/film/news/barbara-barrie-dead-company-breaking-away-1236933678/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/jimmy-fallon-jamie-lee-curtis-you-can-see-everything-1236933837/) — *Variety*
 
-### 2. Chinese Sci-Fi Thriller ‘Variant’ Lands North American, European and Asian Deals (EXCLUSIVE)
+### 2. James Gunn Calls Batman, Superman and Wonder Woman the DCU’s ‘Diamond Characters,’ Says Krypto, John Stewart and Peacemaker Could ‘Turn Into Diamonds’
 
-[原文] Chinese film “Variant,” a sci-fi action thriller from director Qilin Li, is headed to North America with International Media Network (IMN), which acquired U.S. and Canadian rights. Sales company Cappu
+[原文] James Gunn has once again taken to Threads in defense of his DC universe, and this time, is clarifying his previously proposed eight- to 10-year roadmap for the fictional world and making it clearer w
 
-📎 [阅读原文](https://variety.com/2026/film/markets-festivals/chinese-sci-fi-thriller-variant-north-america-europe-deals-1236933674/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/james-gunn-batman-superman-wonder-woman-dcu-1236933827/) — *Variety*
 
-### 3. Hayden Panettiere’s Overdose Death Investigation Closed by Police
+### 3. ‘South Park’: Cartman, Stan and Kyle Must Solve South America’s Beef Crisis in Halloween Week Episode
 
-[原文] Hayden Panettiere&#8217;s death has been ruled as accidental and the investigation has concluded, the Greenville, South Carolina police department announced Wednesday. “Based on the (coroner’s office’
+[原文] In the fourth episode of “South Park” Season 29, South America’s beef has surprisingly become a hot commodity — and Cartman, Stan, Kyle and Randy won’t let their lunch-of-choice get taken away from th
 
-📎 [阅读原文](https://variety.com/2026/tv/news/hayden-panettiere-death-investigation-closed-accidental-1236933664/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/south-park-season-29-episode-4-1236933789/) — *Variety*
 
-### 4. Alfonso Cuaron’s Apple TV Cult Series ‘Ascension’ Adds Amanda Plummer, Christopher Chung, T’Nia Miller
+### 4. ‘The Mosquito Bowl’ Review: Football Heroes Take to the Battlefield in Peter Berg’s Emptily Macho WWII Epic
 
-[原文] Alfonso Cuarón&#8217;s upcoming Apple TV series &#8220;Ascension&#8221; has added three new series regulars. Variety has learned that Amanda Plummer (&#8220;Run,&#8221; &#8220;Butterfly Kiss&#8221;), 
+[原文] No one familiar with the oeuvre of Peter Berg — the action merchant behind the Afghanistan war drama &#8220;Lone Survivor&#8221; and the improbably pumped-up boardgame adaptation &#8220;Battleship&#82
 
-📎 [阅读原文](https://variety.com/2026/tv/news/alfonso-cuaron-apple-tv-ascension-cast-1236933558/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/reviews/the-mosquito-bowl-review-1236932067/) — *Variety*
 
-### 5. Skydance TV Co-Chair George Cheeks Reveals Executive Structure Following Paramount-Warner Bros. Merger
+### 5. From Carlos Reygadas to Hamaguchi’s Cinematographer, Tokyo’s Nippon Cinema Now Directors on Unexpected Connections
 
-[原文] Skydance TV co-chair and chief content officer George Cheeks formalized his division’s executive structure. In a memo to staff, Cheeks shared the specific titles for his direct reports, as well as how
+[原文] A first-time director who messaged Oscar winner Hamaguchi Ryusuke’s cinematographer directly, and a former hunter whose film led Carlos Reygadas to float a collaboration, were among five Nippon Cinema
 
-📎 [阅读原文](https://variety.com/2026/tv/news/skydance-george-cheeks-channing-dungey-executive-structure-1236933612/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/carlos-reygadas-hamaguchi-cinematographer-nippon-cinema-now-1236933790/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Football Fans Share Their Visceral Reactions to Nicolas Cage’s John Madden: ‘A Disgraceful Portrayal of a Great Man’
+### 1. Upgrade to OLED Gaming With the Entry-Level Gigabyte GO27Q24A Monitor
 
-[原文] NFL fans expressed some pretty heated responses on social media to the first clip of Nicolas Cage in the upcoming movie Madden, where the Oscar winner portrays the legendary football TV commentator Jo
+暂无摘要。
 
-📎 [阅读原文](https://www.ign.com/articles/nicolas-cage-madden-movie-fan-reactions) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/gigabyte-go27q24a-gaming-monitor-australia-deal-street-fighter-giveaway-au-deals) — *IGN*
 
-### 2. Ali G: Who Iz I? Review
+### 2. A Famous GTA 4 Meme Is Now a Mechanic in GTA 6
 
-[原文] Sacha Baron Cohen’s attempt to resurrect Ali G goes disastrously off the rails, with barely a joke to be found.
+[原文] GTA 6 has named one of its biggest mechanics after a beloved GTA 4 meme.
 
-📎 [阅读原文](https://www.ign.com/articles/ali-g-who-iz-i-review) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/a-famous-gta-4-meme-is-now-a-mechanic-in-gta-6) — *IGN*
 
-### 3. Wendy's Is Making a Turn-Based RPG and It Actually Looks Really Good
+### 3. GTA 6's Map Will Open Up Relatively Early and Let You Explore Freely, Developers Are Still Discovering New Parts of the World
 
-[原文] Wendy’s — yes, the American fast food chain — is releasing a surprisingly gorgeous, pixelated, turn-based RPG on Steam, and the internet is legitimately stunned by how good it looks.
+[原文] GTA 6's world won't be blocked off by story progression, Rockstar confirms.
 
-📎 [阅读原文](https://www.ign.com/articles/wendys-is-making-a-turn-based-rpg-and-it-actually-looks-really-good) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/gta-6s-map-will-open-up-relatively-early-and-let-you-explore-freely-developers-are-still-discovering-new-parts-of-the-world) — *IGN*
 
-### 4. Save $700 Off the HyperX OMEN Gaming Laptop With GeForce RTX 5060 (115W) Graphics
+### 4. BioWare Co-Founder Speaks Out on Studio Closure, Mass Effect Cancellation
 
-[原文] It's actually more powerful than the comparably priced Steam Machine.
+[原文] BioWare co-founder Greg Zeschuk has spoken out about the closure of BioWare last week, which saw 50 jobs lost as part of 400 cuts across the company, along with the cancellation of Mass Effect 5, whic
 
-📎 [阅读原文](https://www.ign.com/articles/hyperx-omen-gaming-laptop-deal-october-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/bioware-co-founder-speaks-out-on-studio-closure-mass-effect-cancellation) — *IGN*
 
-### 5. Winnie-the-Pooh: Blood and Honey 3 Exclusive Trailer
+### 5. Original Donkey Kong Poster That Was Nearly Thrown Away Sold at Auction for Record-Breaking $329,400
 
-[原文] IGN can exclusively reveal the first trailer for Winnie-the-Pooh: Blood and Honey 3, which director Scott Chambers calls “absolute carnage.” The slasher sequel will open in late January 2027.
+[原文] A 1981 promotional poster for the original Donkey Kong, featuring the first public appearance of Mario, has become the the most expensive piece of original video game art ever sold at auction.
 
-📎 [阅读原文](https://www.ign.com/articles/winnie-the-pooh-blood-and-honey-3-trailer) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/original-donkey-kong-poster-that-was-nearly-thrown-away-sold-at-auction-for-record-breaking-329400) — *IGN*
 
 ---
 
@@ -327,10 +327,10 @@ The post LA Just Powered Up Speed Cameras. Tickets of Up To $500 S
 
 📎 [阅读原文](https://www.thedrive.com/news/la-just-powered-up-speed-cameras-tickets-of-up-to-500-start-getting-mailed-in-less-than-60-days) — *The Drive*
 
-### 2. Bring a Trailer’s President Has a Message for Money Launderers
+### 2. Bring a Trailer Knows You Think Money Laundering Is Pumping Auction Results
 
-[原文] Bring a Trailer President Howard Swig told The Drive what he makes of claims that eye-popping sales like an $87,000 VW GTI are money laundering, and why BaT's public bidding invites them.
-The post Bri
+[原文] People are quick to blame Bring a Trailer's eye-popping results for normal cars on money laundering. Here's what the company's president has to say about that.
+The post Bring a Trailer Knows You Think
 
 📎 [阅读原文](https://www.thedrive.com/news/bring-a-trailers-president-has-a-message-for-money-launderers) — *The Drive*
 
@@ -348,9 +348,10 @@ The post Tesla Semis Are Now Charging at Mainstream Tru
 
 📎 [阅读原文](https://www.thedrive.com/news/tesla-semis-are-now-charging-at-mainstream-truck-stops) — *The Drive*
 
-### 5. Bring a Trailer Started as a Craigslist Blog. It Created an Industry
+### 5. How Bring a Trailer Reordered the Collector Car Market and Changed Online Auctions Forever
 
-[原文] Bring a Trailer President Howard Swig told The Drive how the site sells million-dollar cars for a capped $7,500 fee, why it finally has real competition, and why the comments are still its secret sauc
+[原文] Bring a Trailer President Howard Swig sits for a wide-ranging interview about its meteoric rise, those eye-watering auction results, and why the comments are its secret sauce.
+The post How Bring a Tra
 
 📎 [阅读原文](https://www.thedrive.com/podcast/bring-a-trailer-started-as-a-craigslist-blog-it-created-an-industry) — *The Drive*
 
@@ -362,35 +363,35 @@ The post Tesla Semis Are Now Charging at Mainstream Tru
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Most Wells Around the Grand Canyon With High Arsenic Levels Are at Uranium Mine, New Analysis Shows
+### 1. Powerful Interests Aim to Weaken California’s Landmark Environmental Law
+
+[原文] Political action committees funded by technology companies, the state’s major utilities and other corporate interests have spent nearly twice as much to pass a ballot measure that would greenlight maj
+
+📎 [阅读原文](https://insideclimatenews.org/news/28102026/california-prop-45-aims-to-weaken-environmental-law/) — *Inside Climate News*
+
+### 2. Most Wells Around the Grand Canyon With High Arsenic Levels Are at Uranium Mine, New Analysis Shows
 
 [原文] Three of four wells across the Grand Canyon region that have average arsenic levels above the Environmental Protection Agency’s standard for safe drinking water are at the site of a controversial uran
 
 📎 [阅读原文](https://insideclimatenews.org/news/28102026/grand-canyon-uranium-mine-high-arsenic-levels/) — *Inside Climate News*
 
-### 2. In North Carolina, a ‘Mountain Democrat’ Vies for Residents Still Hurting From Helene
+### 3. In North Carolina, a ‘Mountain Democrat’ Vies for Residents Still Hurting From Helene
 
 [原文] This article was originally published by The Assembly. It is republished with permission. It’s an hour before Big Ivy’s food bank officially opens, but over a dozen families have congregated around th
 
 📎 [阅读原文](https://insideclimatenews.org/news/28102026/in-north-carolina-a-mountain-democrat-vies-for-residents-still-hurting-from-helene/) — *Inside Climate News*
 
-### 3. Antarctic Sea Ice Decline Is Triggering Global Ocean Changes
+### 4. Antarctic Sea Ice Decline Is Triggering Global Ocean Changes
 
 [原文] The rapid decline of Antarctic sea ice since 2016 has triggered a dramatic shift in a crucial part of Earth’s climate system, scientists say.&#160; In a paper published Wednesday, researchers document
 
 📎 [阅读原文](https://insideclimatenews.org/news/28102026/antarctic-sea-ice-decline-triggers-ocean-changes/) — *Inside Climate News*
 
-### 4. How Texas Could End Up Paying an Israeli Company Billions for Water
+### 5. How Texas Could End Up Paying an Israeli Company Billions for Water
 
 [原文] Plans are advancing on the Gulf Coast of Texas for an enormous seawater desalination plant which, if built, would be part of one of the largest water infrastructure developments in the country.&#160; 
 
 📎 [阅读原文](https://insideclimatenews.org/news/28102026/texas-could-privatize-water-supply-with-israeli-company/) — *Inside Climate News*
-
-### 5. Climate Is on the Ballot, Even if It’s Not in Candidates’ Campaign Messages
-
-[原文] In the final stretch of their midterm drive to gain control of Congress, Democratic candidates are talking mostly about the pain of high energy costs, not the risks of climate change. But advocates of
-
-📎 [阅读原文](https://insideclimatenews.org/news/28102026/midterm-elections-climate-impact/) — *Inside Climate News*
 
 ---
 
@@ -438,35 +439,35 @@ The post Tesla Semis Are Now Charging at Mainstream Tru
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. The Beach Boys Canceled Another Show. A John Stamos Spinoff Group Is Taking Their Spot
+### 1. Paris Jackson Calls Estate Executor’s $109 Million Fee Request ‘Offensive,’ Seeks Reduction
+
+[原文] Michael Jackson's daughter claims attorney John Branca failed to justify the hefty compensation rate
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/michael-jackson-paris-estate-john-branca-pay-dispute-1235649557/) — *Rolling Stone*
+
+### 2. Becky G Remembers ‘True Legend’ Dolores Huerta: ‘Knowing You is One of My Life’s Greatest Joys’
+
+[原文] The labor leader and civil rights icon died on Wednesday at 96
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/dolores-huerta-becky-g-tribute-1235649527/) — *Rolling Stone*
+
+### 3. My Chemical Romance Waves White Flag in Dallas Cowboys Cheerleader Flap: ‘Agreement Reached’
+
+[原文] The rock band agreed to stop using costumes resembling the iconic cheer squad’s uniforms in a skit featuring backup dancers at its Hollywood Bowl shows
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/my-chemical-romance-dallas-cowboys-cheerleaders-lawsuit-1235648369/) — *Rolling Stone*
+
+### 4. The Beach Boys Canceled Another Show. A John Stamos Spinoff Group Is Taking Their Spot
 
 [原文] A new entity billing themselves as John Stamos and the California Sound have been formed to take the place of the Beach Boys at Disney World on November 11 and 12
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/beach-boys-pull-out-john-stamos-california-sound-1235649359/) — *Rolling Stone*
 
-### 2. Therapy Helped Jim James So Much, He Wrote a Book About His Breakthroughs
+### 5. Therapy Helped Jim James So Much, He Wrote a Book About His Breakthroughs
 
 [原文] The My Morning Jacket frontman will release his debut memoir One Wonders in April with reflections on his musical career and mental health journey
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/my-morning-jacket-jim-james-memoir-one-wonders-1235649311/) — *Rolling Stone*
-
-### 3. Guided by Voices Welcome 2027 by Announcing ‘Speculation and Gossip’
-
-[原文] The first single off new album, "Designed for Use," is a barreling, muscled track that turns a piece of mundane packaging copy into a motto
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/guided-by-voices-speculation-and-gossip-album-1235648797/) — *Rolling Stone*
-
-### 4. Ozzy Osbourne’s Last Black Sabbath Concert Will Be Available On Vinyl
-
-[原文] Following its theatrical release, film and soundtrack versions of Back to the Beginning will be available on DVD, Blu-ray, CD, and vinyl with special bonus material
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/ozzy-osbournes-back-to-the-beginning-film-soundtrack-1235649235/) — *Rolling Stone*
-
-### 5. Bob Dylan Played ‘Not Dark Yet’ for First Time in Seven Years, and Totally Reimagined It
-
-[原文] He shaved two minutes off the Time Out of Mind classic, but added in a distinct reggae touch and made some of the darkest lyrics of his career feel significantly less dreary
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/bob-dylan-not-dark-yet-first-time-seven-years-1235649184/) — *Rolling Stone*
 
 ---
 
@@ -476,35 +477,35 @@ The post Tesla Semis Are Now Charging at Mainstream Tru
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Vrbo Launches Reserve Now, Pay Later — With a Twist on Airbnb’s Approach
+### 1. Would You Pay for Hotel Loyalty? 485,000 Accor Members in Asia Pacific Already Do
+
+[原文] Paid loyalty is gaining traction in Asia Pacific, where subscriptions are already a habit. Accor is treating its 485,000-member program as a revenue channel, not a discount scheme. The real test is re
+
+📎 [阅读原文](https://skift.com/2026/10/28/would-you-pay-for-hotel-loyalty-485000-accor-members-in-asia-pacific-already-do/) — *Skift*
+
+### 2. ‘We’re Done’: MGM Resorts Ends Merger Talks With Barry Diller’s People Inc.
+
+[原文] A new pact between MGM Resorts and Barry Diller's People Inc. effectively ends merger talks. It's uncertain who else might want to buy an operator whose Las Vegas resorts have been sliding for two yea
+
+📎 [阅读原文](https://skift.com/2026/10/28/were-done-mgm-resorts-ends-merger-talks-with-barry-dillers-people-inc/) — *Skift*
+
+### 3. Vrbo Launches Reserve Now, Pay Later — With a Twist on Airbnb’s Approach
 
 [原文] Paying nothing up-front has been one of Airbnb's clearest growth levers. Vrbo's version of Reserve Now, Pay Later seems more host-friendly, but it gives guests less flexibility in when they can cancel
 
 📎 [阅读原文](https://skift.com/2026/10/28/vrbo-launches-reserve-now-pay-later-with-a-twist-on-airbnbs-approach/) — *Skift*
 
-### 2. Marriott Confirms Corporate Job Cuts
+### 4. Marriott Confirms Corporate Job Cuts
 
 [原文] Marriott is cutting corporate jobs, not hotel staff, in a global restructuring. Some affected workers may land newly posted roles, it says.
 
 📎 [阅读原文](https://skift.com/2026/10/28/marriott-confirms-corporate-job-cuts/) — *Skift*
 
-### 3. Frontier’s Fares Soar, But Spirit’s Exit Hasn’t Fixed Its Profit Problem
+### 5. Frontier’s Fares Soar, But Spirit’s Exit Hasn’t Fixed Its Profit Problem
 
 [原文] Spirit's collapse has given Frontier room to raise fares and attract more passengers – but record revenues have yet to translate into meaningful profits.
 
 📎 [阅读原文](https://skift.com/2026/10/28/frontiers-fares-soar-but-spirits-exit-hasnt-fixed-its-profit-problem/) — *Skift*
-
-### 4. Why Luxury Escapes Puts Its Best Prices Behind a Paywall
-
-[原文] Travel customers switch platforms on price and inventory with little friction, and Luxury Escapes’ CEO builds around that. His bet is a paid membership with a genuine paywall over partner pricing, a m
-
-📎 [阅读原文](https://skift.com/2026/10/28/skift-commerce-summit-preview-luxury-escapes-adam-schwab/) — *Skift*
-
-### 5. The New Math Behind Travel’s AI Roll-Ups
-
-[原文] AI could give travel consolidators a new way to improve the companies they buy. The question is whether the gains are real, repeatable, and worth the price of admission.
-
-📎 [阅读原文](https://skift.com/2026/10/28/the-new-math-behind-travels-ai-roll-ups/) — *Skift*
 
 ---
 
