@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年10月30日** | 生成时间: 2026-10-30 06:34
+**2026年10月30日** | 生成时间: 2026-10-30 12:59
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Amazon posts negative free cash flow of $42.4 billion, holds 2026 capex unchanged
+### 1. Biggest-ever crypto hack impacts $6.3 billion as Binance works to contain fallout
+
+[原文] Binance estimated the impact of a security incident at $6.3 billion, with around $3 billion in crypto assets frozen, and pledged to cover all losses.
+
+📎 [阅读原文](https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html) — *CNBC*
+
+### 2. Israel faces weeks of coalition haggling as Netanyahu’s party claims election 'stolen'
+
+[原文] Israel's election leaves the country facing weeks of coalition bargaining and an uphill battle for the opposition party to form a majority government.
+
+📎 [阅读原文](https://www.cnbc.com/2026/10/30/israel-election-netanyahu-eisenkot-coalition-talks-.html) — *CNBC*
+
+### 3. BOJ holds rates as underlying inflation aligns with 2% target for first time since 2013
+
+[原文] The BOJ declared that its underlying inflation target of 2% has been met, the first time the central bank has done so since it set the target in 2013.
+
+📎 [阅读原文](https://www.cnbc.com/2026/10/30/boj-inflation-target-rates.html) — *CNBC*
+
+### 4. Amazon posts negative free cash flow of $42.4 billion, holds 2026 capex unchanged
 
 [原文] Amazon's negative free cash flow ballooned during the third quarter, while its earnings and revenue fell short of Wall Street's expectations.
 
 📎 [阅读原文](https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html) — *CNBC*
 
-### 2. Intel stock plunges 16% as chipmaker blames PC slowdown for weak guidance
+### 5. How elections worldwide are testing Trump’s influence abroad
 
-[原文] Intel has been a Wall Street darling this year due to its emergence as a player in AI, but the company is being weighed down by a struggling PC market.
+[原文] Recent election losses by leaders linked to Trump have prompted questions about whether his influence over the global right is weakening.
 
-📎 [阅读原文](https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html) — *CNBC*
-
-### 3. ServiceNow shares plunge 27% to worst day ever after earnings revive AI disruption fears
-
-[原文] ServiceNow's stock recorded its worst day ever on underwhelming third-quarter results.
-
-📎 [阅读原文](https://www.cnbc.com/2026/10/29/servicenow-now-earnings-q3-2026.html) — *CNBC*
-
-### 4. Circle, Tether freeze funds impacted by potential Binance 'security issue'
-
-[原文] Binance, the world's largest crypto exchange, said it was actively investigating the matter and that funds are "completley safe."
-
-📎 [阅读原文](https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html) — *CNBC*
-
-### 5. Alphabet tanks nearly 13% for worst day ever, losing $500 billion in value
-
-[原文] Alphabet reported a larger negative free cash flow than analysts had expected while maintaining its spending gudiance for the year.
-
-📎 [阅读原文](https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/30/election-trump-brazil-serbia-hungary.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Binance pauses withdrawals as hackers suspected of stealing billions in crypto
+### 1. You don’t need to believe in a god to get a religious exemption from using AI at work
+
+[原文] David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.
+
+📎 [阅读原文](https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/) — *TechCrunch*
+
+### 2. Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’
+
+[原文] The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says.
+
+📎 [阅读原文](https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/) — *TechCrunch*
+
+### 3. AWS will be a $1T business, Jassy says. But first, it will spend big.
+
+[原文] Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.
+
+📎 [阅读原文](https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/) — *TechCrunch*
+
+### 4. Binance pauses withdrawals as hackers suspected of stealing billions in crypto
 
 [原文] Some estimates say hackers stole billions in crypto from Binance, the world's largest cryptocurrency exchange, during a cyberattack on Thursday.
 
 📎 [阅读原文](https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/) — *TechCrunch*
 
-### 2. Elon Musk is ‘truly a genius,’ says Vladimir Putin
+### 5. Elon Musk is ‘truly a genius,’ says Vladimir Putin
 
 [原文] Putin said that he and Musk are in "close contact" about Rassvet, Russia's Starlink-like satellite connectivity project.
 
 📎 [阅读原文](https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/) — *TechCrunch*
-
-### 3. Amazon reported booming cloud revenue but otherwise missed expectations
-
-[原文] The biggest ouch of the report was its negative free cash flow of $2.4 billion.
-
-📎 [阅读原文](https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/) — *TechCrunch*
-
-### 4. GM reaches $220M settlement over selling drivers’ private data
-
-[原文] As part of the settlement, GM must get drivers’ express consent before it collects or shares their driving and location data.
-
-📎 [阅读原文](https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/) — *TechCrunch*
-
-### 5. Fan-fiction site Archive of Our Own could be offline for up to 4 weeks
-
-[原文] The site has such a passionate user base that, within two hours of the announcement, its status page's posts had garnered millions of views (and much panicked commentary) across social media.
-
-📎 [阅读原文](https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/) — *TechCrunch*
 
 ---
 
@@ -168,9 +168,9 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Grealish dropped by Everton after 'breach of club discipline'
+### 1. Grealish dropped over 'breach of club discipline' - what now?
 
-[原文] Jack Grealish is left out of Everton's Carabao Cup tie with Newcastle United on Thursday "due to a breach of club discipline".
+[原文] Jack Grealish is left out of Everton's EFL Cup win over Newcastle United on Thursday because of "a breach of club discipline".
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cmwy4vyl9nplo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
@@ -180,23 +180,23 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cv2d6ze63gk2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Duckett and Dawson deliver in England's consolation win
-
-[原文] Ben Duckett hits 167 and Liam Dawson takes four wickets as England end the tri-series with victory over Sri Lanka.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cjg4700703rxo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 4. Careless dismissals give Australia route to series win in South Africa
+### 3. Careless dismissals give Australia route to series win in South Africa
 
 [原文] Australia take a step towards victory over South Africa in Cape Town, with the help of careless batting from Proteas' top order.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cwz0vevng3n0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Zverev seals world number one spot after win
+### 4. Zverev seals world number one spot after win
 
 [原文] Alexander Zverev will replace Jannik Sinner as men’s world number one at his earliest opportunity after reaching the Vienna quarter-finals.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cwdr8m8g4jz2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 5. Duckett and Dawson deliver in England's consolation win
+
+[原文] Ben Duckett hits 167 and Liam Dawson takes four wickets as England end the tri-series with victory over Sri Lanka.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cjg4700703rxo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Margot Robbie ‘May Be Over’ Playing Harley Quinn, but James Gunn Would ‘Bend Over Backwards’ to Include Her in the DCU
+### 1. Shabana Azmi, Marco Müller Set for Inaugural Kathmandu Film Festival
 
-[原文] As James Gunn&#8217;s fledgling DC Universe continues to grow, he&#8217;s revealed that one key character will &#8220;almost certainly&#8221; return: Harley Quinn. But Margot Robbie, who played the an
+[原文] Veteran Indian actor Shabana Azmi and film critic and historian Marco Müller are among the guests at the first Kathmandu Film Festival (KFF), which runs Oct. 30–Nov. 1 in Nepal. Launched by Kathmandu 
 
-📎 [阅读原文](https://variety.com/2026/film/news/margot-robbie-harley-quinn-james-gunn-bend-over-backwards-1236934404/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/shabana-azmi-marco-muller-inaugural-kathmandu-film-festival-1236934643/) — *Variety*
 
-### 2. Patrick Stewart’s Final Movie Is ‘Avengers: Doomsday’; He Said Before His Death That ‘I Can’t Imagine Retiring. I’ll Forever Be an Actor’
+### 2. What to Watch on Netflix in November 2026
 
-[原文] Patrick Stewart&#8217;s final movie role will be in the upcoming &#8220;Avengers: Doomsday,&#8221; which marks his ninth time playing the &#8220;X-Men&#8221; character Charles Xavier on the big screen
+[原文] November means fall is in full swing, and Netflix has a ton of new titles to celebrate. Whether you’re looking to watch family-friendly films over Thanksgiving or are still looking to be spooked post-
 
-📎 [阅读原文](https://variety.com/2026/film/news/patrick-stewart-last-movie-role-avengers-doomsday-1236934590/) — *Variety*
+📎 [阅读原文](https://variety.com/feature/whats-on-netflix-movies-shows-1203517873/) — *Variety*
 
-### 3. Skydance’s JB Perrette Reveals His Full Leadership Team, Announces Departures of Several Execs Not Joining Following the Paramount-Warner Bros. Merger
+### 3. What to Watch on Disney+ in November 2026
 
-[原文] Skydance’s JB Perrette, who now serves as co-chair and chief business officer of Skydance TV and Skydance Direct-to-Consumer, has unveiled his new executive org structure — and announced several depar
+[原文] As Disney+ heads into November, the streaming platform is beginning to phase out of its Halloween thrills and introduce a new slate of holiday favorites. Among this month&#8217;s Christmas-centered ad
 
-📎 [阅读原文](https://variety.com/2026/tv/news/skydance-jb-perrette-leadership-team-departures-1236934597/) — *Variety*
+📎 [阅读原文](https://variety.com/feature/whats-on-disney-plus-new-shows-movies-1203517920/) — *Variety*
 
-### 4. Byron Allen Earns Profit After Selling All the Starz Stock He Bought From Steven Mnuchin
+### 4. ‘Beef’ Actor Justin H. Min’s ‘Journey There,’ Hong Sangsoo’s Locarno Winner ‘Nowhere to Lay My Eyes’ Rack Up International Sales for Finecut
 
-[原文] Buy low, sell high: Investor and media entrepreneur Byron Allen has sold all of the shares in Starz that he had acquired earlier this year from Steve Mnuchin, the former Hollywood producer who served 
+[原文] Hong Sangsoo’s “Nowhere to Lay My Eyes,” a triple prizewinner at the 79th Locarno Film Festival, and Kim Jin-yu’s “Journey There,” the first Korean production to star “Beef” actor Justin H. Min, have 
 
-📎 [阅读原文](https://variety.com/2026/tv/news/byron-allen-sells-starz-stock-steven-mnuchin-1236934569/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/beef-actor-justin-h-min-journey-there-hong-sangsoo-film-sales-1236934722/) — *Variety*
 
-### 5. Patrick Stewart’s Career in Photos: ‘Star Trek,’ ‘X-Men,’ ‘Avengers: Doomsday’ and More
+### 5. Ian McKellen Pays Tribute to Close Friend Patrick Stewart: ‘He Wore His Heart on His Sleeve’
 
-[原文] Patrick Stewart, who died Wednesday at 86, starred in dozens of film, shows and TV movies across 60 years on screen. He was best known for playing Captain Jean-Luc Picard on &#8220;Star Trek&#8221; an
+[原文] Ian McKellen wrote a moving tribute to Patrick Stewart, his close friend of many years, following his death Thursday at age 86 after suffering from Alzheimer&#8217;s and Lewy Body Dementia. &#8220;Bef
 
-📎 [阅读原文](https://variety.com/lists/patrick-stewart-career-photos-star-trek-x-men-avengers-doomsday/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/ian-mckellen-patrick-stewart-tribute-1236934477/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Patrick Stewart's Best Roles in Movies and TV
+### 1. Death Stranding Isolations Anime Gets First Trailer
 
-[原文] Patrick Stewart's best roles in movies and TV went far beyond outer space and mutants.
+[原文] Kojima Productions revealed the first trailer for Death Stranding Isolations, an original anime series set in the world of Death Stranding, scheduled to release on Disney+ next year.
 
-📎 [阅读原文](https://www.ign.com/articles/patrick-stewarts-best-roles-in-movies-and-tv) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/death-stranding-isolations-anime-gets-first-trailer) — *IGN*
 
-### 2. Kevin Feige, Marvel Studios, and Hugh Jackman Pay Tribute to Sir Patrick Stewart After Actor's Death at 86
+### 2. Attack on Titan 3: The Final Preview
 
-[原文] Kevin Feige, president of Marvel Studios and COO of Marvel, has given a heartfelt response to the death of acclaimed actor Sir Patrick Stewart.
+[原文] Attack on Titan 3 may come with a number, but it isn’t a direct sequel in the truest sense of the word. It’s more of a retelling.  Based on my time with it, Attack on Titan 3 is juggling a lot of plat
 
-📎 [阅读原文](https://www.ign.com/articles/kevin-feige-and-marvel-studios-pay-tribute-to-sir-patrick-stewart-after-actors-death-at-86) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/attack-on-titan-3-the-final-preview) — *IGN*
 
-### 3. Save 20% Off the New Steelseries Aeon Pro Wireless Gaming Controller With Infinite Battery Life
+### 3. Call of Duty: Modern Warfare 4 Adds 'Non MilSim Content' Disclaimer to Halloween Themed Content
 
-[原文] This controller is shaping up to be one of the best wireless PC and Xbox gaming controllers on the market.
+[原文] Call of Duty: Modern Warfare 4 has added new disclaimers to content that may not abide by the game's usual grounded tone and aesthetic.
 
-📎 [阅读原文](https://www.ign.com/articles/steelseries-aeon-pro-wireless-gaming-controller-deal-october-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/call-of-duty-modern-warfare-4-adds-non-milsim-content-disclaimer-to-halloween-themed-content) — *IGN*
 
-### 4. Save 20% Off the SteelSeries Arctis Nova Pro Wireless Gaming Headset With Infinite Battery Life
+### 4. Gears of War: E-Day Reportedly Sold Over 400K Copies Across Console and PC a Month After Day-One Game Pass Launch
 
-[原文] Rated one of the best gaming headsets for 4 years running.
+[原文] Sources tell The Verge that Gears of War: E-Day has sold over 400,000 copies across console and PC, and Game Pass is likely to blame.
 
-📎 [阅读原文](https://www.ign.com/articles/steelseries-arctis-nova-pro-gaming-headset-deal-october-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/gears-of-war-e-day-reportedly-sold-over-400k-copies-across-console-and-pc-a-month-after-day-one-game-pass-launch) — *IGN*
 
-### 5. Archive of Our Own Could Be Down for Up to 4 Weeks After Going Dark for Emergency Maintenance
+### 5. Bethesda Pays Tribute to Patrick Stewart for His Role in Oblivion, Fans Remember His Role in Games like Castlevania
 
-[原文] Popular fanfiction site Archive of Our Own went down for maintenance early this morning. Now, the website is claiming it may take up to a month to come back online.
+[原文] Bethesda has paid tribute to Sir Patrick Stewart for his role in The Elder Scrolls 4: Oblivion after his death.
 
-📎 [阅读原文](https://www.ign.com/articles/archive-of-our-own-could-be-down-for-up-to-4-weeks-after-going-dark-for-emergency-maintenance) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/bethesda-pays-tribute-to-patrick-stewart-for-his-role-in-oblivion-fans-remember-his-role-in-games-like-castlevania) — *IGN*
 
 ---
 
@@ -439,35 +439,35 @@ The post Up to 49% off DeWalt and Craftsman, Plus a Leatherman Under $50 appeare
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Cheap Trick Announce First Touring Break in 50 Years: ‘Not For Health Reasons’
+### 1. Watch My Chemical Romance and Lauren Tsai’s Otherworldly Short Film Featuring Billie Eilish, Phoebe Bridgers
+
+[原文] The video soundtracks "The End," the first song from The Black Parade
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/my-chemical-romance-short-film-billie-eilish-phoebe-bridgers-1235650256/) — *Rolling Stone*
+
+### 2. Faith Evans Must Pay $12.5 Million to the Notorious B.I.G.’s Former Manager
+
+[原文] Biggie's mother, Voletta Wallace, appointed Barrow executor of her estate before she died in 2025
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/faith-evans-notorious-big-manager-voletta-wallace-estate-1235650168/) — *Rolling Stone*
+
+### 3. Cheap Trick Announce First Touring Break in 50 Years: ‘Not For Health Reasons’
 
 [原文] "Many thanks to everyone who has expressed concern for us," they wrote in a group statement. "To clear things up, we’ve decided to take some time off after decades of touring because we need a break"
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/cheap-trick-touring-break-not-for-health-reasons-1235649919/) — *Rolling Stone*
 
-### 2. Manhattan Will Celebrate Harry Styles Appreciation Day
+### 4. Manhattan Will Celebrate Harry Styles Appreciation Day
 
 [原文] Friday will be dedicated to recognizing "his contributions to music and the unforgettable memories created on one of New York City's most iconic stages," Borough President Brad Hoylman-Sigal said
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/harry-styles-appreciation-day-declared-in-manhattan-1235649907/) — *Rolling Stone*
 
-### 3. Phoebe Bridgers Releases ‘Live at Madison Square Garden’ EP via Tidal
+### 5. Phoebe Bridgers Releases ‘Live at Madison Square Garden’ EP via Tidal
 
 [原文] Revisit five Lost Weekend songs from singer’s cellphone-free gig at World’s Most Famous Arena
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/phoebe-bridgers-live-at-madison-square-garden-ep-tidal-1235649828/) — *Rolling Stone*
-
-### 4. LL Cool J Lands Rock the Bells Las Vegas Residency
-
-[原文] The rapper will lead 11 shows at Park MGM celebrating the history of hip-hop with special guests
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/ll-cool-j-rock-the-bells-las-vegas-residency-1235649753/) — *Rolling Stone*
-
-### 5. Harry Styles Performs ‘Ever Since New York’ During Final Week of Madison Square Garden Residency
-
-[原文] The megastar hasn’t performed the 2017 track in four years
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/harry-styles-ever-since-new-york-madison-square-garden-1235649644/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post Up to 49% off DeWalt and Craftsman, Plus a Leatherman Under $50 appeare
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Wyndham Launches Homes & Havens to Take On Marriott
+### 1. Thailand Keeps Building for Tourists Who May Not Come
+
+[原文] Thailand’s arrivals outlook has weakened, but new rooms and flights are still coming. The test is whether resilient luxury demand and new source markets can deliver the returns that investors want.
+
+📎 [阅读原文](https://skift.com/2026/10/29/thailands-tourism-recovery-slows-its-hotels-and-airlines-keep-expanding/) — *Skift*
+
+### 2. Wyndham Launches Homes & Havens to Take On Marriott
 
 [原文] Whether Wyndham's Homes & Havens can compete with Marriott's far larger collection is an open question. But for Wyndham, this is only day one.
 
 📎 [阅读原文](https://skift.com/2026/10/29/wyndham-launches-homes-havens-to-take-on-marriott/) — *Skift*
 
-### 2. Hyatt Raises Outlook, but Its All-Inclusives Lag
+### 3. Hyatt Raises Outlook, but Its All-Inclusives Lag
 
 [原文] When affluent travelers spend, Hyatt wins. The catch is that a portfolio built on luxury leisure is a bet on the wealth effect, and the good times could end if the stock market sneezes.
 
 📎 [阅读原文](https://skift.com/2026/10/29/hyatt-raises-outlook-but-its-all-inclusives-lag/) — *Skift*
 
-### 3. Norwegian Cruise Line’s Turnaround Shows Early Traction After Activist Shakeup
+### 4. Norwegian Cruise Line’s Turnaround Shows Early Traction After Activist Shakeup
 
 [原文] Better close-in demand, cost cuts, and second-half 2027 bookings on par with last year at higher prices suggest Norwegian Cruise Line's turnaround plan is starting to take hold, but the company still 
 
 📎 [阅读原文](https://skift.com/2026/10/29/norwegian-cruise-lines-third-quarter-earnings-turnaround-progress/) — *Skift*
 
-### 4. IndiGo’s Willie Walsh Wants More Revenue From Every Passenger
+### 5. IndiGo’s Willie Walsh Wants More Revenue From Every Passenger
 
 [原文] IndiGo’s answer to losing passengers is the Ryanair model of earning more from each one. But Ryanair’s extras depend on European rules. Walsh himself concedes India’s rules do put limits on that playb
 
 📎 [阅读原文](https://skift.com/2026/10/29/indigos-willie-walsh-wants-more-revenue-from-every-passenger/) — *Skift*
-
-### 5. Which Airlines Are Still Skipping Dubai This Winter
-
-[原文] Dubai’s airport is busy, but the long-haul airlines that fill its luxury hotels are mostly staying out until spring. Hotels organizing around a European winter rebound need to plan for a later one.
-
-📎 [阅读原文](https://skift.com/2026/10/29/which-airlines-are-still-skipping-dubai-this-winter/) — *Skift*
 
 ---
 
