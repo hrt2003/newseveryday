@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年10月30日** | 生成时间: 2026-10-30 12:59
+**2026年10月30日** | 生成时间: 2026-10-30 20:25
 
 ---
 
@@ -16,35 +16,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Israeli opposition accuses Netanyahu of trying to 'delegitimise' election
+### 1. Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens
 
-[原文] The PM's Likud party has alleged foreign interference and said Arab-led parties "stole" the election after his coalition lost its majority.
+[原文] Several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. Audio reveals exchanges between Spain train operators and drivers moments before deadly crash
+### 2. Mushroom murderer fails to overturn convictions in Australian court challenge
 
-[原文] The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up ahead had stalled.
+[原文] Erin Patterson argued her trial was unfair due to seven grounds but three appeal judges dismissed them all.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 3. 'The city is alive': A brief peace in Kherson, but residents fear what comes next
+### 3. Syrians struggle with soaring prices as crisis challenges post-Assad recovery
 
-[原文] A temporary ceasefire has brought rare quiet to Kherson, offering its residents a glimpse of normal life before fighting resumes.
+[原文] End of subsidies and rising prices drive discontent, testing support for Ahmed al-Sharaa's government.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 4. Russian drone attack on Ukrainian train station kills at least 14, officials say
+### 4. How Kenyans got caught in $130m US ghost student scam
 
-[原文] At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy.
+[原文] The alleged scheme used stolen identities to claim US student aid, with Kenyans among those charged.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cxvgdzpy7241o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Flávio Bolsonaro calls himself 'leader of Brazil' after election loss
+### 5. Helicopter carrying six people crashes in northern Indian state
 
-[原文] The defeated presidential candidate says he will lead the opposition from the US.
+[原文] The aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Biggest-ever crypto hack impacts $6.3 billion as Binance works to contain fallout
+### 1. Amazon falls 7%, Intel plunges 25% in premarket trading, as pressure mounts after earnings
+
+[原文] Investors are nervous about the massive AI spending from the tech giants and whether that will pay off.
+
+📎 [阅读原文](https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html) — *CNBC*
+
+### 2. Wall Street braces for Democratic gains as 2026 midterm election nears
+
+[原文] Investors are preparing for a blue wave in the midterm election on Tuesday that will determine who controls Congress for the remainder of President Trump's term.
+
+📎 [阅读原文](https://www.cnbc.com/2026/10/30/2026-midterm-election-wall-street-prepares-for-democratic-gains.html) — *CNBC*
+
+### 3. Musk and Zuckerberg echo Trump's push to rebrand AI as 'super intelligence' on earnings calls. Others did not
+
+[原文] Meta's Mark Zuckerberg and Elon Musk of Tesla and SpaceX adopted President Trump's preferred "super intelligence" term on their third-quarter earnings calls.
+
+📎 [阅读原文](https://www.cnbc.com/2026/10/30/trump-tech-allies-swap-ai-for-super-intelligence-in-earnings-calls.html) — *CNBC*
+
+### 4. Chevron and Exxon beat earnings expectations as refining profits soar on high diesel fuel prices
+
+[原文] Diesel prices have surged globally as Ukraine and Iran have bombed refineries in Russia and the Middle East.
+
+📎 [阅读原文](https://www.cnbc.com/2026/10/30/chevron-exxon-cvx-xom-earnings-q3-2026.html) — *CNBC*
+
+### 5. Biggest-ever crypto hack impacts $6.3 billion as Binance works to contain fallout
 
 [原文] Binance estimated the impact of a security incident at $6.3 billion, with around $3 billion in crypto assets frozen, and pledged to cover all losses.
 
 📎 [阅读原文](https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html) — *CNBC*
-
-### 2. Israel faces weeks of coalition haggling as Netanyahu’s party claims election 'stolen'
-
-[原文] Israel's election leaves the country facing weeks of coalition bargaining and an uphill battle for the opposition party to form a majority government.
-
-📎 [阅读原文](https://www.cnbc.com/2026/10/30/israel-election-netanyahu-eisenkot-coalition-talks-.html) — *CNBC*
-
-### 3. BOJ holds rates as underlying inflation aligns with 2% target for first time since 2013
-
-[原文] The BOJ declared that its underlying inflation target of 2% has been met, the first time the central bank has done so since it set the target in 2013.
-
-📎 [阅读原文](https://www.cnbc.com/2026/10/30/boj-inflation-target-rates.html) — *CNBC*
-
-### 4. Amazon posts negative free cash flow of $42.4 billion, holds 2026 capex unchanged
-
-[原文] Amazon's negative free cash flow ballooned during the third quarter, while its earnings and revenue fell short of Wall Street's expectations.
-
-📎 [阅读原文](https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html) — *CNBC*
-
-### 5. How elections worldwide are testing Trump’s influence abroad
-
-[原文] Recent election losses by leaders linked to Trump have prompted questions about whether his influence over the global right is weakening.
-
-📎 [阅读原文](https://www.cnbc.com/2026/10/30/election-trump-brazil-serbia-hungary.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. You don’t need to believe in a god to get a religious exemption from using AI at work
+### 1. Waymo taps Toyota to supply robotaxis for Japan and the U.K.
+
+[原文] Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the automaker.
+
+📎 [阅读原文](https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/) — *TechCrunch*
+
+### 2. You don’t need to believe in a god to get a religious exemption from using AI at work
 
 [原文] David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.
 
 📎 [阅读原文](https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/) — *TechCrunch*
 
-### 2. Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’
+### 3. Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’
 
-[原文] The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says.
+[原文] The success of blockbuster hits like "Project Hail Mary" and "Verity" is only part of the story, Amazon's CEO says.
 
 📎 [阅读原文](https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/) — *TechCrunch*
 
-### 3. AWS will be a $1T business, Jassy says. But first, it will spend big.
+### 4. AWS will be a $1T business, Jassy says — but first, it will spend big
 
 [原文] Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.
 
 📎 [阅读原文](https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/) — *TechCrunch*
 
-### 4. Binance pauses withdrawals as hackers suspected of stealing billions in crypto
+### 5. Binance pauses withdrawals as hackers suspected of stealing billions in crypto
 
 [原文] Some estimates say hackers stole billions in crypto from Binance, the world's largest cryptocurrency exchange, during a cyberattack on Thursday.
 
 📎 [阅读原文](https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/) — *TechCrunch*
-
-### 5. Elon Musk is ‘truly a genius,’ says Vladimir Putin
-
-[原文] Putin said that he and Musk are in "close contact" about Rassvet, Russia's Starlink-like satellite connectivity project.
-
-📎 [阅读原文](https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/) — *TechCrunch*
 
 ---
 
@@ -130,35 +130,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Six popular sugar substitutes linked to faster brain aging
+### 1. Astronauts just gave the International Space Station a powerful upgrade
 
-[原文] A study of nearly 13,000 adults found that people consuming the most artificial sweeteners experienced a 62% faster decline in memory and thinking skills, equivalent to approximately 1.6 additional ye
+[原文] Two astronauts completed a 7-hour, 11-minute spacewalk to install a new solar array on the International Space Station, bringing NASA one step closer to a major power upgrade. Once the final array is 
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/10/261028234238.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/10/261030002931.htm) — *Science Daily*
 
-### 2. Einstein's equations may explain the universe without dark energy
+### 2. The asteroid killed the dinosaurs. Why did crocodiles survive?
 
-[原文] Mathematicians have uncovered what they argue is a fundamental flaw in the standard model of the universe, potentially challenging the need for dark energy. Their calculations suggest that the mathema
+[原文] Scientists may have solved a 66-million-year-old mystery: how crocodiles survived the asteroid that wiped out the dinosaurs. A sweeping analysis of fossils and ancient climates suggests that their pre
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/10/261028232719.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/10/261030002922.htm) — *Science Daily*
 
-### 3. NASA discovers Jupiter’s invisible shield is more complex than Earth’s
+### 3. A computer scientist breaks through a limit that stood since 1996
 
-[原文] NASA’s Juno spacecraft has discovered that Jupiter uses a surprisingly complex system of powerful plasma waves and multiple shock regions to defend against the solar wind. The findings reveal major di
+[原文] A computer scientist has achieved a breakthrough in a nearly 25-year-old problem involving how computers calculate distances across enormous networks. The new algorithm delivers more reliable estimate
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/10/261028232715.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/10/261029072146.htm) — *Science Daily*
 
-### 4. 128,000-year-old ice in Tibet could rewrite climate history
+### 4. Type 2 diabetes breakthrough as 54% achieve remission in just 6 months
 
-[原文] Ancient ice discovered high in Tibet may be more than 128,000 years old, preserving an extraordinary record of Earth's climate that scientists previously thought had been lost. The discovery reveals a
+[原文] A promising new study suggests that more than half of younger adults with type 2 diabetes could achieve remission in just six months through a combination of a low-calorie diet and structured exercise
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/10/261028232713.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/10/261029072129.htm) — *Science Daily*
 
-### 5. A 700,000-year-old elephant tooth reveals a lost world where early humans lived
+### 5. Scientists discover mysterious seahorse lookalikes that no one has ever seen alive
 
-[原文] A remarkably preserved elephant tooth dating back nearly 700,000 years has revealed a surprisingly lush prehistoric world where giant elephants and early humans lived side by side. Discovered in north
+[原文] Scientists have discovered that three bizarre deep-sea fish that look exactly like seahorses actually belong to a separate evolutionary group, proving that nature created the same unusual body shape m
 
-📎 [阅读原文](https://www.sciencedaily.com/releases/2026/10/261028232709.htm) — *Science Daily*
+📎 [阅读原文](https://www.sciencedaily.com/releases/2026/10/261029072119.htm) — *Science Daily*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Grealish dropped over 'breach of club discipline' - what now?
+### 1. England edge towards World Cup exit despite PNG win
+
+[原文] England's points chase against Papua New Guinea descends into an error-strewn 34-12 win that will almost certainly lead to their World Cup exit.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-league/articles/cx30e28vn5r4o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 2. Grealish dropped over 'breach of club discipline' - what now?
 
 [原文] Jack Grealish is left out of Everton's EFL Cup win over Newcastle United on Thursday because of "a breach of club discipline".
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cmwy4vyl9nplo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Is the double drop from the Premier League becoming more common?
+### 3. How talking about Man Utd's cycle of doom became an industry
 
-[原文] Back-to-back relegations to the third tier of English football are becoming more common and this season Burnley could make it a hat-trick after Luton Town and Leicester.
+[原文] Manchester United's struggles are pored over more than ever before - not least by former players.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cv2d6ze63gk2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cjn5v3pl0159o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. Careless dismissals give Australia route to series win in South Africa
+### 4. Why managers must put their own health first - Pulis
 
-[原文] Australia take a step towards victory over South Africa in Cape Town, with the help of careless batting from Proteas' top order.
+[原文] BBC Sport columnist Tony Pulis explains why Vincent Kompany's health scare was a reminder that management takes its toll physically and mentally
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cwz0vevng3n0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cqy0r31kwne0o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Zverev seals world number one spot after win
+### 5. F1 has never had anyone like me - Hamilton
 
-[原文] Alexander Zverev will replace Jannik Sinner as men’s world number one at his earliest opportunity after reaching the Vienna quarter-finals.
+[原文] Lewis Hamilton says he is unlike any driver Formula 1 has seen before and reaffirms a determination to keep racing into his mid-forties.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/tennis/articles/cwdr8m8g4jz2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 5. Duckett and Dawson deliver in England's consolation win
-
-[原文] Ben Duckett hits 167 and Liam Dawson takes four wickets as England end the tri-series with victory over Sri Lanka.
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/cjg4700703rxo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/cmvg9z1v33keo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Shabana Azmi, Marco Müller Set for Inaugural Kathmandu Film Festival
+### 1. 25 In-the-Know Gifts for Women: Mahjong Boards, ACOTAR Merch, Nathan Fielder Lingerie and More
 
-[原文] Veteran Indian actor Shabana Azmi and film critic and historian Marco Müller are among the guests at the first Kathmandu Film Festival (KFF), which runs Oct. 30–Nov. 1 in Nepal. Launched by Kathmandu 
+[原文] Shopping for the women in your life is easy enough if you&#8217;re sticking to the usual suspects: a cashmere sweater, a luxury fragrance, a pair of designer sunglasses. But what about the friend who 
 
-📎 [阅读原文](https://variety.com/2026/film/festivals/shabana-azmi-marco-muller-inaugural-kathmandu-film-festival-1236934643/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/shopping/news/gifts-for-women-2026-christmas-shop-online-1236934071/) — *Variety*
 
-### 2. What to Watch on Netflix in November 2026
+### 2. Rock Singer Bára Basiková Lived Her Traumas in the Public Gaze, Documentary Director Helena Třeštíková Says
 
-[原文] November means fall is in full swing, and Netflix has a ton of new titles to celebrate. Whether you’re looking to watch family-friendly films over Thanksgiving or are still looking to be spooked post-
+[原文] “Bára Basiková is a truly fascinating singer,” says Czech documentary filmmaker Helena Třeštíková, who was honored for her contribution to the genre at this week&#8217;s Ji.hlava Documentary Film Fest
 
-📎 [阅读原文](https://variety.com/feature/whats-on-netflix-movies-shows-1203517873/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/bara-basikova-helena-trestikova-jihlava-1236934480/) — *Variety*
 
-### 3. What to Watch on Disney+ in November 2026
+### 3. Double Oscar Winner Barbara Kopple Talks ‘Union Town’ and People Who Fight for ‘Dignity and Fairness’: ‘They Are My Heroes’
 
-[原文] As Disney+ heads into November, the streaming platform is beginning to phase out of its Halloween thrills and introduce a new slate of holiday favorites. Among this month&#8217;s Christmas-centered ad
+[原文] Barbara Kopple completes her trilogy on labor rights with “Union Town.” Following screenings at Venice and Toronto, it’s now heading to Ji.hlava Documentary Film Festival, where Variety spoke to her a
 
-📎 [阅读原文](https://variety.com/feature/whats-on-disney-plus-new-shows-movies-1203517920/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/global/barbara-kopple-union-town-labor-rights-1236934012/) — *Variety*
 
-### 4. ‘Beef’ Actor Justin H. Min’s ‘Journey There,’ Hong Sangsoo’s Locarno Winner ‘Nowhere to Lay My Eyes’ Rack Up International Sales for Finecut
+### 4. Shah Rukh Khan, Kajol, Rani Mukerji, Salman Khan Starrer ‘Kuch Kuch Hota Hai’ to Mark 30th Anniversary at Edinburgh Film Festival With Karan Johar
 
-[原文] Hong Sangsoo’s “Nowhere to Lay My Eyes,” a triple prizewinner at the 79th Locarno Film Festival, and Kim Jin-yu’s “Journey There,” the first Korean production to star “Beef” actor Justin H. Min, have 
+[原文] “Kuch Kuch Hota Hai,” Karan Johar’s first film as director, starring Shah Rukh Khan, Kajol and Rani Mukerji, will screen at the Edinburgh International Film Festival in 2028 to celebrate its 30th anni
 
-📎 [阅读原文](https://variety.com/2026/film/news/beef-actor-justin-h-min-journey-there-hong-sangsoo-film-sales-1236934722/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/shah-rukh-khan-karan-johar-kuch-kuch-hota-hai-30th-anniversary-edinburgh-film-festival-1236934894/) — *Variety*
 
-### 5. Ian McKellen Pays Tribute to Close Friend Patrick Stewart: ‘He Wore His Heart on His Sleeve’
+### 5. ‘American History X’ Director Tony Kaye Takes On Leicester’s Giant Monsters in Short ‘Will You Still Love Me Tomorrow?’ (EXCLUSIVE)
 
-[原文] Ian McKellen wrote a moving tribute to Patrick Stewart, his close friend of many years, following his death Thursday at age 86 after suffering from Alzheimer&#8217;s and Lewy Body Dementia. &#8220;Bef
+[原文] Tony Kaye, the British director of “American History X” and “Detachment,” will direct “Will You Still Love Me Tomorrow?,” a short running five minutes that blends documentary with reality drama and pl
 
-📎 [阅读原文](https://variety.com/2026/film/news/ian-mckellen-patrick-stewart-tribute-1236934477/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/american-history-x-director-tony-kaye-leicester-monsters-short-1236934725/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Death Stranding Isolations Anime Gets First Trailer
+### 1. Families Who Lost Loved Ones in Seoul Halloween Crowd Crush Call on Activision to Pull Real Footage From Call of Duty: Modern Warfare 4
 
-[原文] Kojima Productions revealed the first trailer for Death Stranding Isolations, an original anime series set in the world of Death Stranding, scheduled to release on Disney+ next year.
+[原文] Bereaved families have called on Activision to remove real footage of the 2022 Seoul Halloween crush disaster from Call of Duty: Modern Warfare 4.
 
-📎 [阅读原文](https://www.ign.com/articles/death-stranding-isolations-anime-gets-first-trailer) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/families-who-lost-loved-ones-in-seoul-halloween-crowd-crush-call-on-activision-to-pull-real-footage-from-call-of-duty-modern-warfare-4) — *IGN*
 
-### 2. Attack on Titan 3: The Final Preview
+### 2. Zelda Chief Eiji Aonuma Says Some of the Younger Members of the Ocarina of Time Remake Team Had Never Played the Original Game — and That's a Good Thing
 
-[原文] Attack on Titan 3 may come with a number, but it isn’t a direct sequel in the truest sense of the word. It’s more of a retelling.  Based on my time with it, Attack on Titan 3 is juggling a lot of plat
+[原文] Eiji Aonuma, producer of the Zelda series at Nintendo, has said some of the younger members of his team had never played the original Ocarina of Time, but insisted that was very much a good thing for 
 
-📎 [阅读原文](https://www.ign.com/articles/attack-on-titan-3-the-final-preview) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/zelda-chief-eiji-aonuma-says-some-of-the-younger-members-of-the-ocarina-of-time-remake-team-had-never-played-the-original-game-and-thats-a-good-thing) — *IGN*
 
-### 3. Call of Duty: Modern Warfare 4 Adds 'Non MilSim Content' Disclaimer to Halloween Themed Content
+### 3. John Romero's Next Shooter Survived the Microsoft Purge, Now He's Taking Inspiration From The Legend of Zelda: Breath of the Wild
 
-[原文] Call of Duty: Modern Warfare 4 has added new disclaimers to content that may not abide by the game's usual grounded tone and aesthetic.
+[原文] John Romero's next shooter survived the Microsoft purge, now he's comparing it to The Legend of Zelda: Breath of the Wild.
 
-📎 [阅读原文](https://www.ign.com/articles/call-of-duty-modern-warfare-4-adds-non-milsim-content-disclaimer-to-halloween-themed-content) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/john-romeros-next-shooter-survived-the-microsoft-purge-now-hes-taking-inspiration-from-the-legend-of-zelda-breath-of-the-wild) — *IGN*
 
-### 4. Gears of War: E-Day Reportedly Sold Over 400K Copies Across Console and PC a Month After Day-One Game Pass Launch
+### 4. Capcom Isn't Scrapping Resident Evil, but Mainline Story Could Wrap Up in Next 10 Years According to Producer
 
-[原文] Sources tell The Verge that Gears of War: E-Day has sold over 400,000 copies across console and PC, and Game Pass is likely to blame.
+[原文] IGN recently reported that Resident Evil series producer Jun Takeuchi commented that Capcom’s survival horror series’ story could end in the next 10 years. However, this does not mean that Capcom plan
 
-📎 [阅读原文](https://www.ign.com/articles/gears-of-war-e-day-reportedly-sold-over-400k-copies-across-console-and-pc-a-month-after-day-one-game-pass-launch) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/capcom-isnt-scrapping-resident-evil-but-mainline-story-could-wrap-up-in-next-10-years-according-to-producer) — *IGN*
 
-### 5. Bethesda Pays Tribute to Patrick Stewart for His Role in Oblivion, Fans Remember His Role in Games like Castlevania
+### 5. The Nintendo Switch 2 "Choose Your Game" Bundle Drops to $479 at Woot While Supplies Last
 
-[原文] Bethesda has paid tribute to Sir Patrick Stewart for his role in The Elder Scrolls 4: Oblivion after his death.
+[原文] Don't wait until Black Friday to get a Switch 2 console, get this deal now.
 
-📎 [阅读原文](https://www.ign.com/articles/bethesda-pays-tribute-to-patrick-stewart-for-his-role-in-oblivion-fans-remember-his-role-in-games-like-castlevania) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/nintendo-switch-2-console-deal-october-2026) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post Up to 49% off DeWalt and Craftsman, Plus a Leatherman Under $50 appeare
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. As Permitting Bill Debate Approaches, Senators Have Fresh Doubts and an Ultimatum
+### 1. How Florida’s Amendment 3 Would Affect the State’s Iconic Water Resources
+
+[原文] A proposed amendment to the Florida Constitution on the ballot this November is aimed at cutting property taxes. But the amendment would also affect funding for local governments and the state agencie
+
+📎 [阅读原文](https://insideclimatenews.org/news/30102026/florida-amendment-3-water-resources/) — *Inside Climate News*
+
+### 2. In Arizona, Democrats See an Opportunity to Influence Energy Policy
+
+[原文] PHOENIX— Koral Casillas’ American Dream was simple: Leave her corporate job to start a local business serving her community.&#160; Five years ago, she did just that. She’s now the co-owner of two loca
+
+📎 [阅读原文](https://insideclimatenews.org/news/30102026/arizona-democrats-energy-policy/) — *Inside Climate News*
+
+### 3. Pennsylvania’s Legislature Is Losing Its Climate Champion
+
+[原文] In what might have been his last hearing as chair of Pennsylvania’s House Environmental and Natural Resource Protection committee, long-time Democratic state Rep. Greg Vitali seemed to have little int
+
+📎 [阅读原文](https://insideclimatenews.org/news/30102026/pennsylvania-legislature-loses-climate-champion-greg-vitali/) — *Inside Climate News*
+
+### 4. As Permitting Bill Debate Approaches, Senators Have Fresh Doubts and an Ultimatum
 
 [原文] In less than two weeks, U.S. Senate leaders plan to take an initial vote on the divisive permitting reform bill aimed at easing regulatory barriers that can delay energy projects. As the date nears, s
 
 📎 [阅读原文](https://insideclimatenews.org/news/29102026/senate-debate-on-bipartisan-permitting-bill-approaches/) — *Inside Climate News*
 
-### 2. In a Rare Statewide Debate, Alabama Candidates Spar Over Data Centers, Utility Rates
+### 5. In a Rare Statewide Debate, Alabama Candidates Spar Over Data Centers, Utility Rates
 
 [原文] HUNTSVILLE, Ala.—Candidates for Alabama’s second-highest office took the stage Wednesday for what was the first major-party debate for a statewide office since 2010, the year Republicans took the rein
 
 📎 [阅读原文](https://insideclimatenews.org/news/29102026/alabama-lieutenant-governor-debate-utility-rates-data-centers/) — *Inside Climate News*
-
-### 3. The Slow, Surprising Death of EV Range Anxiety
-
-[原文] A decade ago, an electric vehicle with more than 300 miles of range would have cost you nearly $100,000. Today, 300 miles of range sits in the middle of the market and consumers can expect at least 20
-
-📎 [阅读原文](https://insideclimatenews.org/news/29102026/inside-clean-energy-ev-ranges/) — *Inside Climate News*
-
-### 4. As Trump Backs a Gas Pipeline, New York’s Climate Priorities Face a Test
-
-[原文] Tanja Konwinski thought the Constitution pipeline was dead. When her husband bought 82 acres in Schoharie County, New York, in 2023, she knew Williams Cos. held an easement on the property for the pro
-
-📎 [阅读原文](https://insideclimatenews.org/news/29102026/new-york-gas-pipeline-gubernatorial-election/) — *Inside Climate News*
-
-### 5. In Texas’ 9th Congressional District, Candidates Spar Over Fossil Fuels
-
-[原文] In 2016, current Democratic candidate for Congress Leticia Gutierrez lived six miles from a refinery owned by the Brazilian oil company Petrobras in Pasadena, part of the greater Houston area. The pla
-
-📎 [阅读原文](https://insideclimatenews.org/news/29102026/texas-9th-congressional-race-fossil-fuels/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post Up to 49% off DeWalt and Craftsman, Plus a Leatherman Under $50 appeare
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Watch My Chemical Romance and Lauren Tsai’s Otherworldly Short Film Featuring Billie Eilish, Phoebe Bridgers
+### 1. ‘One Common Goal’: Macklemore, Aurora, and More Unite in Paris for Free Palestine Tour
+
+[原文] The Seattle rapper arrived in Paris for the charity concert series' second stop after he was dropped from Ed Sheeran’s stadium tour for "free Palestine" statements
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/macklemore-free-palestine-tour-paris-aurora-1235650278/) — *Rolling Stone*
+
+### 2. Watch My Chemical Romance and Lauren Tsai’s Otherworldly Short Film Featuring Billie Eilish, Phoebe Bridgers
 
 [原文] The video soundtracks "The End," the first song from The Black Parade
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/my-chemical-romance-short-film-billie-eilish-phoebe-bridgers-1235650256/) — *Rolling Stone*
 
-### 2. Faith Evans Must Pay $12.5 Million to the Notorious B.I.G.’s Former Manager
+### 3. Faith Evans Must Pay $12.5 Million to the Notorious B.I.G.’s Former Manager
 
 [原文] Biggie's mother, Voletta Wallace, appointed Barrow executor of her estate before she died in 2025
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/faith-evans-notorious-big-manager-voletta-wallace-estate-1235650168/) — *Rolling Stone*
 
-### 3. Cheap Trick Announce First Touring Break in 50 Years: ‘Not For Health Reasons’
+### 4. Cheap Trick Announce First Touring Break in 50 Years: ‘Not For Health Reasons’
 
 [原文] "Many thanks to everyone who has expressed concern for us," they wrote in a group statement. "To clear things up, we’ve decided to take some time off after decades of touring because we need a break"
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/cheap-trick-touring-break-not-for-health-reasons-1235649919/) — *Rolling Stone*
 
-### 4. Manhattan Will Celebrate Harry Styles Appreciation Day
+### 5. Manhattan Will Celebrate Harry Styles Appreciation Day
 
 [原文] Friday will be dedicated to recognizing "his contributions to music and the unforgettable memories created on one of New York City's most iconic stages," Borough President Brad Hoylman-Sigal said
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/harry-styles-appreciation-day-declared-in-manhattan-1235649907/) — *Rolling Stone*
-
-### 5. Phoebe Bridgers Releases ‘Live at Madison Square Garden’ EP via Tidal
-
-[原文] Revisit five Lost Weekend songs from singer’s cellphone-free gig at World’s Most Famous Arena
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/phoebe-bridgers-live-at-madison-square-garden-ep-tidal-1235649828/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post Up to 49% off DeWalt and Craftsman, Plus a Leatherman Under $50 appeare
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Thailand Keeps Building for Tourists Who May Not Come
+### 1. Antarctic Tourism Is Booming. Guides Say Expertise Is Thinning
+
+[原文] Antarctica’s ship capacity grew faster than its pool of experienced guides, and veterans say that’s changing what guests can safely do. The industry disputes that standards have slipped, but no single
+
+📎 [阅读原文](https://skift.com/2026/10/30/antarctic-tourism-is-booming-guides-say-expertise-is-thinning/) — *Skift*
+
+### 2. Thailand Keeps Building for Tourists Who May Not Come
 
 [原文] Thailand’s arrivals outlook has weakened, but new rooms and flights are still coming. The test is whether resilient luxury demand and new source markets can deliver the returns that investors want.
 
 📎 [阅读原文](https://skift.com/2026/10/29/thailands-tourism-recovery-slows-its-hotels-and-airlines-keep-expanding/) — *Skift*
 
-### 2. Wyndham Launches Homes & Havens to Take On Marriott
+### 3. Wyndham Launches Homes & Havens to Take On Marriott
 
 [原文] Whether Wyndham's Homes & Havens can compete with Marriott's far larger collection is an open question. But for Wyndham, this is only day one.
 
 📎 [阅读原文](https://skift.com/2026/10/29/wyndham-launches-homes-havens-to-take-on-marriott/) — *Skift*
 
-### 3. Hyatt Raises Outlook, but Its All-Inclusives Lag
+### 4. Hyatt Raises Outlook, but Its All-Inclusives Lag
 
 [原文] When affluent travelers spend, Hyatt wins. The catch is that a portfolio built on luxury leisure is a bet on the wealth effect, and the good times could end if the stock market sneezes.
 
 📎 [阅读原文](https://skift.com/2026/10/29/hyatt-raises-outlook-but-its-all-inclusives-lag/) — *Skift*
 
-### 4. Norwegian Cruise Line’s Turnaround Shows Early Traction After Activist Shakeup
+### 5. Norwegian Cruise Line’s Turnaround Shows Early Traction After Activist Shakeup
 
 [原文] Better close-in demand, cost cuts, and second-half 2027 bookings on par with last year at higher prices suggest Norwegian Cruise Line's turnaround plan is starting to take hold, but the company still 
 
 📎 [阅读原文](https://skift.com/2026/10/29/norwegian-cruise-lines-third-quarter-earnings-turnaround-progress/) — *Skift*
-
-### 5. IndiGo’s Willie Walsh Wants More Revenue From Every Passenger
-
-[原文] IndiGo’s answer to losing passengers is the Ryanair model of earning more from each one. But Ryanair’s extras depend on European rules. Walsh himself concedes India’s rules do put limits on that playb
-
-📎 [阅读原文](https://skift.com/2026/10/29/indigos-willie-walsh-wants-more-revenue-from-every-passenger/) — *Skift*
 
 ---
 
