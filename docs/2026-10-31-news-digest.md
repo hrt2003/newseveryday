@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年10月31日** | 生成时间: 2026-10-31 12:47
+**2026年10月31日** | 生成时间: 2026-10-31 19:54
 
 ---
 
@@ -16,17 +16,17 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. US approves sale of 500 Patriot missiles to Ukraine
+### 1. Evacuated Ukrainians from Russian-occupied Oleshky arrive in Belarus
+
+[原文] Residents were taken out from the devastated city on Friday during a local ceasefire.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. US approves sale of 500 Patriot missiles to Ukraine
 
 [原文] The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 2. Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea
-
-[原文] The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 3. Why North Korea's 'elite' hackers are the prime suspect in major Binance hack
 
@@ -40,11 +40,11 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire
+### 5. Spain train disaster clouds Sánchez chances of re-election
 
-[原文] Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.
+[原文] The Spanish PM is hit by a succession of crises just weeks before a snap general election.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -54,35 +54,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Intel stock has worst day since 1970s, wiping about $12 billion off government's stake
+### 1. Anthropic's path to the Nasdaq just got a lot bumpier
 
-[原文] Investors are nervous about the massive AI spending from the tech giants and whether that will pay off.
+[原文] Concerning projections from hyperscalers this week punished tech stocks and pushed the Nasdaq to its first three-week losing streak since March.
 
-📎 [阅读原文](https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/31/anthropic-ipo-ai-spending.html) — *CNBC*
 
-### 2. Treasury Department announces new Series I bond rate of 5.51% for the next six months
+### 2. Trump called out Big Oil profits. Here’s how much their refining earnings have surged since
+
+[原文] Trump criticized Big Oil for making “too much money,” but oil majors have since reported surging refining earnings as fuel supplies tightened.
+
+📎 [阅读原文](https://www.cnbc.com/2026/10/31/trump-big-oil-refining-profits.html) — *CNBC*
+
+### 3. Treasury Department announces new Series I bond rate of 5.51% for the next six months
 
 [原文] The U.S. Department of the Treasury has announced new Series I bond rates through April 2027.
 
 📎 [阅读原文](https://www.cnbc.com/2026/10/30/treasury-i-bond-rate-through-april-2027.html) — *CNBC*
 
-### 3. Alaska Senate election: DOJ wants to 'segregate' all ballots for 2nd Sullivan candidate
+### 4. Alaska Senate election: DOJ wants to 'segregate' all ballots for 2nd Sullivan candidate
 
 [原文] The winner of the Alaska election could determine whether Republicans retain their majority in the U.S. Senate or if Democrats take control of the chamber.
 
 📎 [阅读原文](https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html) — *CNBC*
 
-### 4. Halloween gets pricier as chocolate costs climb — Hershey may feel the pinch
+### 5. Meta outlook revised downward by S&P on cash flow and capex concerns
 
-[原文] Higher cocoa and sugar prices are fueling above-average cost inflation for candy
+[原文] Meta has been given a negative outlook by S&P Global Ratings due to the company's hefty capital expenditures and concerns about free cash flow.
 
-📎 [阅读原文](https://www.cnbc.com/2026/10/30/halloween-gets-pricier-as-chocolate-costs-rise-hershey-could-feel-it.html) — *CNBC*
-
-### 5. Reid Hoffman gives millions to Dems in late spending spree as Epstein fight spills into election
-
-[原文] Reid Hoffman has given $8 million to Wisconsin Democrats backing David Crowley as Tom Tiffany attacks Hoffman's past ties to Jeffrey Epstein.
-
-📎 [阅读原文](https://www.cnbc.com/2026/10/30/reid-hoffman-democrats-epstein-midterms-2026.html) — *CNBC*
+📎 [阅读原文](https://www.cnbc.com/2026/10/30/meta-outlook-to-revised-to-negative-by-sp-after-cash-flow-negative.html) — *CNBC*
 
 ---
 
@@ -168,35 +168,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. What Howe could bring to Man Utd - and what are the challenges?
+### 1. Shearer on trials of MOTD & the manager's job that never was
 
-[原文] Eddie Howe is being linked with the Manchester United job, but what are some of the considerations for him and the club?
+[原文] Alan Shearer discusses his love of Newcastle, almost continuing his managerial career and swapping the pitch for the commentary box in The Football Interview.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cr74pd99vwq3o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cwkg5l822k3no?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. Villa to sue Carragher over 'unacceptable insults'
-
-[原文] Aston Villa say they will initiate legal action against Jamie Carragher over what the club branded as "unacceptable insults".
-
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cqd09p3kppyvo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
-
-### 3. Sherrock upsets Littler to claim £501,000 prize
+### 2. Sherrock happy to overcome 'hate' in beating Littler for £501,000
 
 [原文] Fallon Sherrock defeats reigning world champion Luke Littler in one leg of darts to win £501,000.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/darts/articles/crkg7p1z3p3lo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. England see off USA to return to winning ways
+### 3. Villa to sue Carragher over 'unacceptable insults'
 
-[原文] England's Red Roses return to winning ways, but without entirely vanquishing doubts over their position at the top of the women's game, as they see off the United States.
+[原文] Aston Villa say they will initiate legal action against Jamie Carragher over what the club branded as "unacceptable insults".
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-union/articles/cq98zrj5dj6ro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cqd09p3kppyvo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Verstappen and Lawson given grid penalties for Mexico practice collision
+### 4. Verstappen and Lawson given grid penalties for Mexico practice collision
 
 [原文] Max Verstappen accuses Liam Lawson of "not very smart behaviour" after the two collided in Friday practice at the Mexico City Grand Prix.
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/cqde8p6j9ye7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+
+### 5. AC Milan v Inter and the tale of an iconic image
+
+[原文] AC Milan versus Inter will be shown live on the BBC on Saturday - this is the story of the fixture's most iconic image.
+
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cq99zlpzm87ro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. How Keanu Reeves Landed in Stop-Motion Samurai Epic ‘Hidari’ – and Why S.S. Rajamouli Wanted to Know How It Was Made
+### 1. Sanjay Gupta, Indian Director of ‘Kaante’ and ‘Zinda,’ Dies at 59
 
-[原文] Keanu Reeves joined Japanese stop-motion feature “Hidari” after watching the project’s pilot film, with his team getting back to the filmmakers about a week after the screening was arranged to set up 
+[原文] Indian filmmaker Sanjay Gupta, whose credits include the crime thriller “Kaante,” the gangster saga “Shootout at Wadala” and the Hrithik Roshan-starring “Kaabil,” has died following a fall at his Mumb
 
-📎 [阅读原文](https://variety.com/2026/film/festivals/keanu-reeves-hidari-ss-rajamouli-1236935934/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/obituaries-people-news/sanjay-gupta-dead-kaante-zinda-1236935973/) — *Variety*
 
-### 2. Georgia’s ‘Guria’ Wins Best Film at Asia Pacific Screen Awards as Thailand’s Sompot Chidgasornpongse Takes Director Prize
+### 2. Pink Film Veteran Zeze Takahisa Champions Original Stories at Tokyo Masterclass
 
-[原文] Georgian filmmaker Levan Koguashvili’s “Guria” was named best film at the 19th Asia Pacific Screen Awards, handed out Oct. 30 at The Star Gold Coast in Queensland, Australia. Koguashvili shared the pr
+[原文] The Tokyo International Film Festival’s Tokyo Talk program presented a masterclass with Zeze Takahisa, director of the festival’s opening film, “Sukiyaki.” Held before a full-house crowd at Tokyo Midt
 
-📎 [阅读原文](https://variety.com/2026/film/awards/georgia-guria-best-film-asia-pacific-screen-awards-1236935931/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/pink-film-veteran-zeze-takahisa-original-stories-1236935968/) — *Variety*
 
-### 3. Ranbir Kapoor, Yash Light Up Gold House’s Diwali Event as Group Launches South Asian Shorts Fund
+### 3. Japan’s Film Funds Look Beyond Production Committees to Build New Financing Models
 
-[原文] Ranbir Kapoor and Yash, stars of the epic adaptation “Ramayana: Rise of a Legend,” opened Gold House’s largest Gold Diwali to date at The Majestic Downtown in Los Angeles, alongside filmmakers Nitesh 
+[原文] Japan’s production committee system, in which a group of companies jointly finance a film and share its rights, has helped spread risk across the industry. But it can also cap budgets at what the indu
 
-📎 [阅读原文](https://variety.com/2026/film/news/ranbir-kapoor-yash-gold-house-diwali-event-1236935927/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/markets-festivals/japans-film-funds-beyond-production-committees-new-financing-models-1236935964/) — *Variety*
 
-### 4. Bill Maher Fact-Checks Kid Rock After He Compares Abdul El-Sayed to 9/11 Hijackers on ‘Real Time’
+### 4. Japan’s New 2027 Anime Award Should Put Creators in the Spotlight, Industry Leaders Say at Tokyo Market
 
-[原文] Bill Maher opened his new episode of “Real Time” Friday night by addressing Trump’s 1,300-word social media tirade against him following their White House dinner earlier this month, with the comic com
+[原文] A new Japanese anime award planned for 2027 should put the people who make anime in the spotlight, industry leaders said at TIFFCOM, the market of the Tokyo International Film Festival. The session wa
 
-📎 [阅读原文](https://variety.com/2026/tv/news/kid-rock-abdul-el-sayed-9-11-hijackers-real-time-bill-maher-1236935914/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/markets-festivals/japan-new-2027-anime-award-spotlight-creators-industry-leaders-1236935947/) — *Variety*
 
-### 5. Bill Maher Fires Back at Trump by Comparing Him to Taylor Swift
+### 5. Ozu Shapes Mishima Yukiko’s Tokyo Competition Title ‘Two Cigarettes, Three Nights’
 
-[原文] Bill Maher learned that when it comes to Donald Trump, no good deed goes unpunished. On last week’s episode of “Real Time with Bill Maher,” the political pundit defended his recent White House dinner 
+[原文] Known for her dark relationship dramas, including the 2017 multiple-award-winner “Dear Etranger,” Mishima Yukiko has taken a different approach with her latest film, “Two Cigarettes, Three Nights,” wh
 
-📎 [阅读原文](https://variety.com/2026/tv/news/bill-maher-fires-back-trump-taylor-swift-real-time-hbo-1236935799/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/ozu-mishima-yukiko-two-cigarettes-three-nights-1236935944/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. By Skipping Last-Gen Systems, Stranger Than Heaven is Allowing RGG Studio to Fully Leverage the Power of Current-Gen Consoles at Long Last
+### 1. Arkade is a PC Peripheral That Transforms Every Modern Shooter Into a Light Gun Game
+
+[原文] Arkade is a PC Peripheral That Transforms Every Modern Shooter Into a Light Gun Game
+
+📎 [阅读原文](https://www.ign.com/articles/arkade-is-a-pc-peripheral-that-transforms-every-modern-shooter-into-a-light-gun-game) — *IGN*
+
+### 2. Costco Reveals Its Full Black Friday Ad and Sale Dates for 2026
+
+暂无摘要。
+
+📎 [阅读原文](https://www.ign.com/articles/costco-reveals-its-full-black-friday-ad-and-sale-dates-for-2026) — *IGN*
+
+### 3. By Skipping Last-Gen Systems, Stranger Than Heaven is Allowing RGG Studio to Fully Leverage the Power of Current-Gen Consoles at Long Last
 
 [原文] By Skipping Last-Gen Systems, Stranger Than Heaven is Allowing RGG Studio to Fully Leverage the Power of Current-Gen Consoles at Long Last
 
 📎 [阅读原文](https://www.ign.com/articles/by-skipping-last-gen-systems-stranger-than-heaven-is-allowing-rgg-studio-to-fully-leverage-the-power-of-current-gen-consoles-at-long-last) — *IGN*
 
-### 2. Final Fantasy XIV Evercold Delayed, New Release Date Announced at FFXIV Fan Fest
+### 4. Final Fantasy XIV Evercold Delayed, New Release Date Announced at FFXIV Fan Fest
 
 [原文] The MMORPG's next expansion was set to launch shortly after the new year, but Warriors of Light will have to wait a bit longer.
 
 📎 [阅读原文](https://www.ign.com/articles/final-fantasy-xiv-evercold-delayed-new-release-date-announced-at-ffxiv-fan-fest) — *IGN*
 
-### 3. Stranger Than Heaven Features Optional “Cheats” to Make its Combat Easier
+### 5. Stranger Than Heaven Features Optional “Cheats” to Make its Combat Easier
 
 [原文] Stranger Than Heaven Features Optional “Cheats” to Make its Combat Easier
 
 📎 [阅读原文](https://www.ign.com/articles/stranger-than-heaven-features-optional-cheats-to-make-its-combat-easier) — *IGN*
-
-### 4. Monster Hunter Outlanders Review So Far
-
-[原文] This mobile spin-off maintains the gameplay loop and visuals of its console counterparts, with the caveat of how progress gates push microtransactions.
-
-📎 [阅读原文](https://www.ign.com/articles/monster-hunter-outlanders-review) — *IGN*
-
-### 5. Chronicles: Medieval Developer 'At Real Risk of Closing' Before Release as Funding 'No Longer in Place'
-
-[原文] Chronicles: Medieval developer Raw Power Games posted a chilling warning on its social media pages, warning that the studio might close before it can launch the Early Access version of its medieval op
-
-📎 [阅读原文](https://www.ign.com/articles/chronicles-medieval-developer-at-real-risk-of-closing-before-release-as-funding-no-longer-in-place) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post Africa Is Now Safer Than the Middle East So Dakar Is Returning Home app
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Lawmakers and Regulators Press Air Force Over Continuing Pollution From Joint Base Andrews Fuel Spill
+### 1. Colorado River Basin Candidates Wade Into Water Politics, but Winners Are Unlikely to Make Big Changes
+
+[原文] In Nevada, Attorney General and Democratic candidate for governor Aaron Ford’s campaign has said Gov. Joe Lombardo, a Republican, “botched negotiations” over the future of the Colorado River.&#160; In
+
+📎 [阅读原文](https://insideclimatenews.org/news/31102026/colorado-river-basin-gubernatorial-water-politics/) — *Inside Climate News*
+
+### 2. A Year After Floodwaters Swept Away an Alaskan Native Village, Residents Remain in Limbo
+
+[原文] KWIGILLINGOK, Alaska—Lucy Martin’s family was among the last to be evacuated from Kwigillingok, a Yup’ik village a quarter mile from the Bering Sea that was devastated by Typhoon Halong in October 202
+
+📎 [阅读原文](https://insideclimatenews.org/news/31102026/alaska-village-typhoon-halong-recovery/) — *Inside Climate News*
+
+### 3. Pennsylvania Opens a New Loophole for Oil and Gas Wastewater Disposal
+
+[原文] If you’re an ordinary resident of Pennsylvania and you want to dispose of potentially toxic waste, the Department of Environmental Protection will direct you to specialized dropoff locations: recyclin
+
+📎 [阅读原文](https://insideclimatenews.org/news/31102026/pennsylvania-oil-gas-wastewater-disposal-loophole/) — *Inside Climate News*
+
+### 4. Why Microplastics Are So Dangerous for Human Health
+
+[原文] From our collaborating partner “Living on Earth,” public radio’s environmental news magazine, an interview by producer Aynsley O’Neill with&#160; Plastics have been widely adopted in all sorts of prod
+
+📎 [阅读原文](https://insideclimatenews.org/news/31102026/microplastics-human-health-dangers/) — *Inside Climate News*
+
+### 5. Lawmakers and Regulators Press Air Force Over Continuing Pollution From Joint Base Andrews Fuel Spill
 
 [原文] Congressional leaders and Maryland regulators continue to pressure the Trump administration for information about the ongoing jet fuel leak at Joint Base Andrews. Both want immediate action that will 
 
 📎 [阅读原文](https://insideclimatenews.org/news/30102026/maryland-continues-to-press-for-answers-joint-base-andrews-fuel-spill/) — *Inside Climate News*
-
-### 2. Wyoming Teams With Trump Administration to Expedite Energy, Industrial Projects
-
-[原文] Wyoming will partner with the Trump administration on an initiative to streamline and expedite permitting for large energy and other industrial projects such as data centers, representatives from both
-
-📎 [阅读原文](https://insideclimatenews.org/news/30102026/wyoming-teams-with-trump-administration-to-expedite-energy-industrial-projects/) — *Inside Climate News*
-
-### 3. Texas Used to Be ‘the Best Place’ to Build Data Centers—But Not Anymore
-
-[原文] When BaRupOn LLC, a California-based developer, bought land in East Texas for a 700-acre industrial campus in 2023, the company received a warm welcome from the state. The developer set out to build n
-
-📎 [阅读原文](https://insideclimatenews.org/news/30102026/texas-data-center-pushback/) — *Inside Climate News*
-
-### 4. Maui Prosecutor to Hire Investigator Focused On Post-Wildfire Contractor Fraud
-
-[原文] This story was originally published by Civil Beat. The Maui Department of the Prosecuting Attorney is expected to soon have an investigator working full-time on contractor fraud cases targeting surviv
-
-📎 [阅读原文](https://insideclimatenews.org/news/30102026/maui-prosecutor-to-hire-investigator-focused-on-post-wildfire-contractor-fraud/) — *Inside Climate News*
-
-### 5. How Florida’s Amendment 3 Would Affect the State’s Iconic Water Resources
-
-[原文] A proposed amendment to the Florida Constitution on the ballot this November is aimed at cutting property taxes. But the amendment would also affect funding for local governments and the state agencie
-
-📎 [阅读原文](https://insideclimatenews.org/news/30102026/florida-amendment-3-water-resources/) — *Inside Climate News*
 
 ---
 
