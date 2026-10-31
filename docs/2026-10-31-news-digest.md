@@ -1,6 +1,6 @@
 # 📰 全球新闻日报
 
-**2026年10月31日** | 生成时间: 2026-10-31 06:03
+**2026年10月31日** | 生成时间: 2026-10-31 12:47
 
 ---
 
@@ -16,23 +16,23 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea
+### 1. US approves sale of 500 Patriot missiles to Ukraine
+
+[原文] The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss) — *BBC World*
+
+### 2. Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea
 
 [原文] The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 2. US inmate Christa Pike says she woke up 'confused and in pain' after failed execution
+### 3. Why North Korea's 'elite' hackers are the prime suspect in major Binance hack
 
-[原文] It is Pike's first public statement since she survived an execution attempt by lethal injection in September.
+[原文] If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss) — *BBC World*
-
-### 3. Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire
-
-[原文] Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ### 4. Police deployed during stand-off over control of top Poland court
 
@@ -40,11 +40,11 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss) — *BBC World*
 
-### 5. They strangled us, says founder of Russian newspaper shut under pressure from authorities
+### 5. Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire
 
-[原文] Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.
+[原文] Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss) — *BBC World*
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss) — *BBC World*
 
 ---
 
@@ -66,23 +66,23 @@
 
 📎 [阅读原文](https://www.cnbc.com/2026/10/30/treasury-i-bond-rate-through-april-2027.html) — *CNBC*
 
-### 3. Reid Hoffman gives millions to Dems in late spending spree as Epstein fight spills into election
-
-[原文] Reid Hoffman has given $8 million to Wisconsin Democrats backing David Crowley as Tom Tiffany attacks Hoffman's past ties to Jeffrey Epstein.
-
-📎 [阅读原文](https://www.cnbc.com/2026/10/30/reid-hoffman-democrats-epstein-midterms-2026.html) — *CNBC*
-
-### 4. Binance loses $6.3 billion in crypto heist—what happens to your money when an exchange gets hacked
-
-[原文] Crypto exchanges make it easier to buy, sell and store digital assets, but they come with risks, too.
-
-📎 [阅读原文](https://www.cnbc.com/make-it/2026/10/30/binance-crypto-hack-customer-funds.html) — *CNBC*
-
-### 5. Criminal investigation of Alaska Senate race is 'ongoing,' U.S. Attorney says
+### 3. Alaska Senate election: DOJ wants to 'segregate' all ballots for 2nd Sullivan candidate
 
 [原文] The winner of the Alaska election could determine whether Republicans retain their majority in the U.S. Senate or if Democrats take control of the chamber.
 
 📎 [阅读原文](https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html) — *CNBC*
+
+### 4. Halloween gets pricier as chocolate costs climb — Hershey may feel the pinch
+
+[原文] Higher cocoa and sugar prices are fueling above-average cost inflation for candy
+
+📎 [阅读原文](https://www.cnbc.com/2026/10/30/halloween-gets-pricier-as-chocolate-costs-rise-hershey-could-feel-it.html) — *CNBC*
+
+### 5. Reid Hoffman gives millions to Dems in late spending spree as Epstein fight spills into election
+
+[原文] Reid Hoffman has given $8 million to Wisconsin Democrats backing David Crowley as Tom Tiffany attacks Hoffman's past ties to Jeffrey Epstein.
+
+📎 [阅读原文](https://www.cnbc.com/2026/10/30/reid-hoffman-democrats-epstein-midterms-2026.html) — *CNBC*
 
 ---
 
@@ -92,35 +92,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Intel’s stock crashes, knocking $12B from government’s stake
+### 1. Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up
+
+[原文] The money behind the money is thrilled, mostly.
+
+📎 [阅读原文](https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/) — *TechCrunch*
+
+### 2. Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia
+
+[原文] When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.
+
+📎 [阅读原文](https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/) — *TechCrunch*
+
+### 3. Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune
+
+[原文] The AI logistics startup will bolster the CRM giant's Missionforce defense platform.
+
+📎 [阅读原文](https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/) — *TechCrunch*
+
+### 4. Ollie, a privacy-focused AI assistant, is shutting down
+
+[原文] As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.
+
+📎 [阅读原文](https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/) — *TechCrunch*
+
+### 5. Intel’s stock crashes, knocking $12B from government’s stake
 
 [原文] Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.
 
 📎 [阅读原文](https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/) — *TechCrunch*
-
-### 2. Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says
-
-[原文] The new report says the AI lab will likely qualify for a high junk rating.
-
-📎 [阅读原文](https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/) — *TechCrunch*
-
-### 3. Applebee’s exposed customers’ personal data after leaving database password in app
-
-[原文] EXCLUSIVE: A security researcher discovered the hardcoded credential in Applebee's app, allowing unrestricted access to customers' personal data.
-
-📎 [阅读原文](https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/) — *TechCrunch*
-
-### 4. Last-minute Halloween costumes for tech nerds
-
-[原文] No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.
-
-📎 [阅读原文](https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/) — *TechCrunch*
-
-### 5. Cracks are emerging in the AI spending boom
-
-[原文] Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.
-
-📎 [阅读原文](https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/) — *TechCrunch*
 
 ---
 
@@ -174,29 +174,29 @@
 
 📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cr74pd99vwq3o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 2. South Africa-Australia set for classic finale – what does history suggest could happen?
+### 2. Villa to sue Carragher over 'unacceptable insults'
 
-[原文] South Africa set up an epic final day of their decisive Test against Australia by batting throughout the fourth day. What does history suggest could happen?
+[原文] Aston Villa say they will initiate legal action against Jamie Carragher over what the club branded as "unacceptable insults".
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/cricket/articles/c6n8dpvyyy71o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cqd09p3kppyvo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 3. From her own Barbie doll to bench - how Ellie Kildunne slipped from Red Roses' XV
+### 3. Sherrock upsets Littler to claim £501,000 prize
 
-[原文] Ellie Kildunne has been the Red Roses' figurehead throughout their rise to world champions, so why is she on the bench for Friday night's Test against the USA?
+[原文] Fallon Sherrock defeats reigning world champion Luke Littler in one leg of darts to win £501,000.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-union/articles/cmy832jv00p1o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/darts/articles/crkg7p1z3p3lo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 4. Britain's first £100m man facing defining moment
+### 4. England see off USA to return to winning ways
 
-[原文] Is it 'now or never' for Jack Grealish after he was dropped by Everton for a breach of club discipline, asks chief football writer Phil McNulty?
+[原文] England's Red Roses return to winning ways, but without entirely vanquishing doubts over their position at the top of the women's game, as they see off the United States.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cmzxj2e2e5p2o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/rugby-union/articles/cq98zrj5dj6ro?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
-### 5. Sutton's predictions v Bad Day At The Office star John Hannah
+### 5. Verstappen and Lawson given grid penalties for Mexico practice collision
 
-[原文] BBC Sport football expert Chris Sutton takes on Bad Day At The Office star John Hannah, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.
+[原文] Max Verstappen accuses Liam Lawson of "not very smart behaviour" after the two collided in Friday practice at the Mexico City Grand Prix.
 
-📎 [阅读原文](https://www.bbc.co.uk/sport/football/articles/cq1m4j79x50jo?at_medium=RSS&at_campaign=rss) — *BBC Sport*
+📎 [阅读原文](https://www.bbc.co.uk/sport/formula1/articles/cqde8p6j9ye7o?at_medium=RSS&at_campaign=rss) — *BBC Sport*
 
 ---
 
@@ -206,35 +206,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Netflix’s ‘Cliff Booth’ Won’t Play in Regal and Cinemark Imax Theaters
+### 1. How Keanu Reeves Landed in Stop-Motion Samurai Epic ‘Hidari’ – and Why S.S. Rajamouli Wanted to Know How It Was Made
 
-[原文] Netflix’s push to release more films on the big screen hasn’t come without a few hiccups. Most recently, theater chains including Regal Cinemas are declining to play the streaming platform’s “The Furt
+[原文] Keanu Reeves joined Japanese stop-motion feature “Hidari” after watching the project’s pilot film, with his team getting back to the filmmakers about a week after the screening was arranged to set up 
 
-📎 [阅读原文](https://variety.com/2026/film/news/regal-cinemark-netflix-cliff-booth-1236935538/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/festivals/keanu-reeves-hidari-ss-rajamouli-1236935934/) — *Variety*
 
-### 2. Trinh T. Minh-ha Still Sets Her Own Rules – and Heads to ‘The Undying Desert’ in Her First Film Set in the U.S. (EXCLUSIVE)
+### 2. Georgia’s ‘Guria’ Wins Best Film at Asia Pacific Screen Awards as Thailand’s Sompot Chidgasornpongse Takes Director Prize
 
-[原文] Vietnamese-American filmmaker, writer, feminist and post-colonial theorist Trinh T. Minh-ha is readying her upcoming film “The Undying Desert.” “I’ve just finished editing it,” she told Variety at Ji.
+[原文] Georgian filmmaker Levan Koguashvili’s “Guria” was named best film at the 19th Asia Pacific Screen Awards, handed out Oct. 30 at The Star Gold Coast in Queensland, Australia. Koguashvili shared the pr
 
-📎 [阅读原文](https://variety.com/2026/film/global/trinh-t-minh-ha-the-undying-desert-jihlava-documentary-1236935274/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/awards/georgia-guria-best-film-asia-pacific-screen-awards-1236935931/) — *Variety*
 
-### 3. Hotel and Travel Industry Groups Back U.S. Film Incentive as Tourism Draw
+### 3. Ranbir Kapoor, Yash Light Up Gold House’s Diwali Event as Group Launches South Asian Shorts Fund
 
-[原文] Lobbying groups representing the hotel and travel industries have endorsed a 20% federal tax incentive for film and TV production, arguing that domestic filming attracts tourism from abroad. The Ameri
+[原文] Ranbir Kapoor and Yash, stars of the epic adaptation “Ramayana: Rise of a Legend,” opened Gold House’s largest Gold Diwali to date at The Majestic Downtown in Los Angeles, alongside filmmakers Nitesh 
 
-📎 [阅读原文](https://variety.com/2026/film/news/hotel-travel-industry-film-incentive-tourism-1236935564/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/film/news/ranbir-kapoor-yash-gold-house-diwali-event-1236935927/) — *Variety*
 
-### 4. ‘The Celebrity Traitors’: [SPOILER] and [SPOILER] Win in Nail-Biting Season 2 Finale
+### 4. Bill Maher Fact-Checks Kid Rock After He Compares Abdul El-Sayed to 9/11 Hijackers on ‘Real Time’
 
-[原文] SPOILER ALERT: This post contains spoilers for the finale episode of the U.K. version of &#8220;The Celebrity Traitors&#8221; Season 2, now streaming on BBC iPlayer. It was the feel-good ending hardly
+[原文] Bill Maher opened his new episode of “Real Time” Friday night by addressing Trump’s 1,300-word social media tirade against him following their White House dinner earlier this month, with the comic com
 
-📎 [阅读原文](https://variety.com/2026/tv/global/the-celebrity-traitors-finale-recap-faithfuls-sebastian-croft-romesh-ranganathan-win-1236935297/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/kid-rock-abdul-el-sayed-9-11-hijackers-real-time-bill-maher-1236935914/) — *Variety*
 
-### 5. Jennifer Lawrence Says ‘Absolutely F—ing Not’ to Transforming Into X-Men’s Mystique Again
+### 5. Bill Maher Fires Back at Trump by Comparing Him to Taylor Swift
 
-[原文] Jennifer Lawrence played the &#8220;X-Men&#8221; character Mystique four times on the big screen between 2011 and 2019, and it appears she has no interest whatsoever in slipping back into the mutant&#
+[原文] Bill Maher learned that when it comes to Donald Trump, no good deed goes unpunished. On last week’s episode of “Real Time with Bill Maher,” the political pundit defended his recent White House dinner 
 
-📎 [阅读原文](https://variety.com/2026/film/news/jennifer-lawrence-refuses-mystique-transformation-x-men-1236933335/) — *Variety*
+📎 [阅读原文](https://variety.com/2026/tv/news/bill-maher-fires-back-trump-taylor-swift-real-time-hbo-1236935799/) — *Variety*
 
 ---
 
@@ -282,35 +282,35 @@
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Lock In a Darkhold Destiny Collector Booster Early With The Arcanum Bundle at Amazon
+### 1. By Skipping Last-Gen Systems, Stranger Than Heaven is Allowing RGG Studio to Fully Leverage the Power of Current-Gen Consoles at Long Last
 
-[原文] Lock in a Magic: The Gathering x Marvel Darkhold Destiny Collector Booster early with the Arcanum Bundle at Amazon, now back in stock and available to preorder.
+[原文] By Skipping Last-Gen Systems, Stranger Than Heaven is Allowing RGG Studio to Fully Leverage the Power of Current-Gen Consoles at Long Last
 
-📎 [阅读原文](https://www.ign.com/articles/lock-in-a-darkhold-destiny-collector-booster-early-with-the-arcanum-bundle-at-amazon) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/by-skipping-last-gen-systems-stranger-than-heaven-is-allowing-rgg-studio-to-fully-leverage-the-power-of-current-gen-consoles-at-long-last) — *IGN*
 
-### 2. MTG Darkhold Destiny 4 Commander Deck Bundles: Do They Look Good or Not?
+### 2. Final Fantasy XIV Evercold Delayed, New Release Date Announced at FFXIV Fan Fest
 
-[原文] Are MTG Darkhold Destiny's Commander bundles worth $299.96 or $639.96? Here's what's included and whether the four decks look promising enough.
+[原文] The MMORPG's next expansion was set to launch shortly after the new year, but Warriors of Light will have to wait a bit longer.
 
-📎 [阅读原文](https://www.ign.com/articles/mtg-darkhold-destiny-4-commander-deck-bundles) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/final-fantasy-xiv-evercold-delayed-new-release-date-announced-at-ffxiv-fan-fest) — *IGN*
 
-### 3. Never Run Out of Ports Again With This Sabrent 8-Port 252W USB Charging Station, on Sale for Black Friday
+### 3. Stranger Than Heaven Features Optional “Cheats” to Make its Combat Easier
 
-[原文] You can never have too many charging ports.
+[原文] Stranger Than Heaven Features Optional “Cheats” to Make its Combat Easier
 
-📎 [阅读原文](https://www.ign.com/articles/sabrent-voltik-8-port-252w-usb-desktop-charging-station-deal-october-2026) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/stranger-than-heaven-features-optional-cheats-to-make-its-combat-easier) — *IGN*
 
-### 4. Buckingham Palace Honors Patrick Stewart… by Playing the Wrong Star Trek Theme Music
+### 4. Monster Hunter Outlanders Review So Far
 
-[原文] The Band of the Grenadier Guards performed a medley of Star Trek themes in honor of Sir Patrick Stewart – none of which were the theme music of the show the late actor starred in.
+[原文] This mobile spin-off maintains the gameplay loop and visuals of its console counterparts, with the caveat of how progress gates push microtransactions.
 
-📎 [阅读原文](https://www.ign.com/articles/buckingham-palace-honors-patrick-stewart-by-playing-the-wrong-star-trek-theme-music) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/monster-hunter-outlanders-review) — *IGN*
 
-### 5. Hedgehog Dies After Being Spray Painted Blue to Look Like Sonic
+### 5. Chronicles: Medieval Developer 'At Real Risk of Closing' Before Release as Funding 'No Longer in Place'
 
-[原文] An animal rescuer is condemning vandals who spray-painted a hedgehog blue, presumably to make it look like Sega’s beloved mascot character, Sonic the Hedgehog.
+[原文] Chronicles: Medieval developer Raw Power Games posted a chilling warning on its social media pages, warning that the studio might close before it can launch the Early Access version of its medieval op
 
-📎 [阅读原文](https://www.ign.com/articles/hedgehog-dies-after-being-spray-painted-blue-to-look-like-sonic) — *IGN*
+📎 [阅读原文](https://www.ign.com/articles/chronicles-medieval-developer-at-real-risk-of-closing-before-release-as-funding-no-longer-in-place) — *IGN*
 
 ---
 
@@ -363,35 +363,35 @@ The post Africa Is Now Safer Than the Middle East So Dakar Is Returning Home app
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Wyoming Teams With Trump Administration to Expedite Energy, Industrial Projects
+### 1. Lawmakers and Regulators Press Air Force Over Continuing Pollution From Joint Base Andrews Fuel Spill
+
+[原文] Congressional leaders and Maryland regulators continue to pressure the Trump administration for information about the ongoing jet fuel leak at Joint Base Andrews. Both want immediate action that will 
+
+📎 [阅读原文](https://insideclimatenews.org/news/30102026/maryland-continues-to-press-for-answers-joint-base-andrews-fuel-spill/) — *Inside Climate News*
+
+### 2. Wyoming Teams With Trump Administration to Expedite Energy, Industrial Projects
 
 [原文] Wyoming will partner with the Trump administration on an initiative to streamline and expedite permitting for large energy and other industrial projects such as data centers, representatives from both
 
 📎 [阅读原文](https://insideclimatenews.org/news/30102026/wyoming-teams-with-trump-administration-to-expedite-energy-industrial-projects/) — *Inside Climate News*
 
-### 2. Texas Used to Be ‘the Best Place’ to Build Data Centers—But Not Anymore
+### 3. Texas Used to Be ‘the Best Place’ to Build Data Centers—But Not Anymore
 
 [原文] When BaRupOn LLC, a California-based developer, bought land in East Texas for a 700-acre industrial campus in 2023, the company received a warm welcome from the state. The developer set out to build n
 
 📎 [阅读原文](https://insideclimatenews.org/news/30102026/texas-data-center-pushback/) — *Inside Climate News*
 
-### 3. Maui Prosecutor to Hire Investigator Focused On Post-Wildfire Contractor Fraud
+### 4. Maui Prosecutor to Hire Investigator Focused On Post-Wildfire Contractor Fraud
 
 [原文] This story was originally published by Civil Beat. The Maui Department of the Prosecuting Attorney is expected to soon have an investigator working full-time on contractor fraud cases targeting surviv
 
 📎 [阅读原文](https://insideclimatenews.org/news/30102026/maui-prosecutor-to-hire-investigator-focused-on-post-wildfire-contractor-fraud/) — *Inside Climate News*
 
-### 4. How Florida’s Amendment 3 Would Affect the State’s Iconic Water Resources
+### 5. How Florida’s Amendment 3 Would Affect the State’s Iconic Water Resources
 
 [原文] A proposed amendment to the Florida Constitution on the ballot this November is aimed at cutting property taxes. But the amendment would also affect funding for local governments and the state agencie
 
 📎 [阅读原文](https://insideclimatenews.org/news/30102026/florida-amendment-3-water-resources/) — *Inside Climate News*
-
-### 5. In Arizona, Democrats See an Opportunity to Influence Energy Policy
-
-[原文] PHOENIX— Koral Casillas’ American Dream was simple: Leave her corporate job to start a local business serving her community.&#160; Five years ago, she did just that. She’s now the co-owner of two loca
-
-📎 [阅读原文](https://insideclimatenews.org/news/30102026/arizona-democrats-energy-policy/) — *Inside Climate News*
 
 ---
 
@@ -439,35 +439,35 @@ The post Africa Is Now Safer Than the Middle East So Dakar Is Returning Home app
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Jack Antonoff and Margaret Qualley File for Divorce
+### 1. Live Nation Defends My Chemical Romance’s Dallas Cowboys Cheerleaders Lookalikes: It Was ‘Parody’
+
+[原文] The cheer squad sued the band and the concert promoter last week, asking for damages and a trial
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/live-nation-my-chemical-romance-dallas-cowboys-cheerleaders-1235650825/) — *Rolling Stone*
+
+### 2. Harryween Is Back From Dead: Harry Styles Dons ‘X Factor’ Outfit for Stevie Wonder Cover
+
+[原文] Singer performs "Isn't She Lovely," his X Factor audition song at age 16, for penultimate MSG concert of 30-night residency
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/harry-styles-harryween-stevie-wonder-x-factor-isnt-lovely-1235650398/) — *Rolling Stone*
+
+### 3. Raye to Voice Character and Pen Music for Benny Safdie Film Based on 1976 Novel ‘Lizard Music’
+
+[原文] Dwayne Johnson, Alicia Silverstone, Regina Hall, Colman Domingo, Jeff Goldblum, Rachel McAdams, and more will also feature in the film
+
+📎 [阅读原文](https://www.rollingstone.com/music/music-news/raye-benny-safdie-film-lizard-music-novel-1235650792/) — *Rolling Stone*
+
+### 4. Jack Antonoff and Margaret Qualley File for Divorce
 
 [原文] The couple, who started dating in 2021 and married in 2023, split over the summer
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/jack-antonoff-margaret-qualley-divorce-1235650655/) — *Rolling Stone*
 
-### 2. Hear Glen Hansard’s Posthumously Released Pogues Cover Honoring Shane MacGowan
+### 5. Hear Glen Hansard’s Posthumously Released Pogues Cover Honoring Shane MacGowan
 
 [原文] Hansard’s live cover of the Pogues’ “Smoke in a Bottle” is a highlight of an upcoming MacGowan tribute album that also features Bruce Springsteen and U2
 
 📎 [阅读原文](https://www.rollingstone.com/music/music-news/glen-hansard-posthumous-release-pogues-cover-shane-macgowan-1235650610/) — *Rolling Stone*
-
-### 3. Dropkick Murphys Singer Interviews Bruce Springsteen, Joan Baez, Chuck D for New Video Series
-
-[原文] The first episode of Ken Casey’s new Home of the Brave Backstage series is available now
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/dropkick-murphys-ken-casey-bruce-springsteen-interview-1235650482/) — *Rolling Stone*
-
-### 4. Tame Impala Cover Seal’s ‘Kiss From a Rose,’ Off the First CD Kevin Parker Ever Bought
-
-[原文] Group also cut a version of “Dracula” for Aussie station Triple J
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/tame-impala-cover-seal-kiss-from-a-rose-1235650356/) — *Rolling Stone*
-
-### 5. Prosecutors Won’t Pursue Felony Battery Charge Against Rick Ross
-
-[原文] Rapper will instead face a misdemeanor charge of battery/domestic violence
-
-📎 [阅读原文](https://www.rollingstone.com/music/music-news/rick-ross-battery-charges-felony-misdemeanor-1235650321/) — *Rolling Stone*
 
 ---
 
@@ -477,35 +477,35 @@ The post Africa Is Now Safer Than the Middle East So Dakar Is Returning Home app
 
 ⚠️ *本分类翻译暂时不可用，以下为英文原文。*
 
-### 1. Alaska Airlines to Lay Off 200 Employees as It Forecasts a Loss in 2026
+### 1. Disney Cuts More Than 100 Jobs In Theme Park Division
+
+[原文] CEO Josh D’Amaro has said he is highly focused on reducing costs at the media giant.
+
+📎 [阅读原文](https://skift.com/2026/10/30/disney-job-cuts-experiences-theme-parks/) — *Skift*
+
+### 2. Alaska Airlines to Lay Off 200 Employees as It Forecasts a Loss in 2026
 
 [原文] Higher fuel costs have eaten into Alaska’s profits and now the carrier says it will cut 200 back office roles to help with cost control.
 
 📎 [阅读原文](https://skift.com/2026/10/30/alaska-airlines-to-lay-off-200-employees/) — *Skift*
 
-### 2. Hyatt in Trademark Clash With Hilton Over ‘Select’ in Hotel Brand Names
+### 3. Hyatt in Trademark Clash With Hilton Over ‘Select’ in Hotel Brand Names
 
 [原文] When hotel giants keep stacking sub-brands and “brands of brands,” they eventually run out of words. Expect more naming collisions as the industry’s label factory keeps humming.
 
 📎 [阅读原文](https://skift.com/2026/10/30/hyatt-in-trademark-clash-with-hilton-over-select-in-hotel-brand-names/) — *Skift*
 
-### 3. Visit Norway Turns Trump’s Insult Into Its Most-Viewed Page
+### 4. Visit Norway Turns Trump’s Insult Into Its Most-Viewed Page
 
 [原文] A quick tweak to a five-year-old web page has brought in tens of thousands of views to Visit Norway’s website.
 
 📎 [阅读原文](https://skift.com/2026/10/30/visit-norway-trump-insult-most-viewed-page/) — *Skift*
 
-### 4. Dubai Holiday-Home Operator Silkhaus Shuts Down, Citing U.S.-Iran War
+### 5. Dubai Holiday-Home Operator Silkhaus Shuts Down, Citing U.S.-Iran War
 
 [原文] With several airlines staying out of Dubai into 2027 and forward bookings well below last year, this winter’s peak season is unlikely to rescue smaller holiday-home operators following the March and A
 
 📎 [阅读原文](https://skift.com/2026/10/30/dubai-holiday-home-operator-silkhaus-shuts-down-citing-u-s-iran-war/) — *Skift*
-
-### 5. Gravity Haus Wants to Make Mountain Life a Membership
-
-[原文] Gravity Haus combines hotel rooms, workspaces, and gyms to help people fit more outdoor time around work and family. Its growth depends on securing and adapting properties in competitive mountain mark
-
-📎 [阅读原文](https://skift.com/2026/10/30/gravity-haus-wants-to-make-mountain-life-a-membership/) — *Skift*
 
 ---
 
